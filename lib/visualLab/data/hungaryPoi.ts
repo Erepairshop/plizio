@@ -211,6 +211,31 @@ export const hungaryRegions: POI[] = [
         "Baranya is rich in thermal springs and offers numerous wellness opportunities."
       ]
     },
+  
+    descriptionAdvanced: {
+      "de": "Das Komitat Baranya liegt im äußersten Süden Ungarns an der Grenze zu Kroatien und ist bekannt für sein mildes, fast mediterranes Klima. Die Region wird im Norden durch das Mecsek-Gebirge und im Süden durch die Flüsse Drau und Donau begrenzt, was eine abwechslungsreiche und fruchtbare Landschaft schafft. Das kulturelle Zentrum ist die Stadt Pécs, die mit ihrem reichen römischen und osmanischen Erbe sowie ihrer lebendigen Kunstszene besticht. Baranya ist zudem berühmt für seine erstklassigen Weinregionen, insbesondere Villány, und seine vielfältigen ethnischen Traditionen, die durch das Zusammenleben von Ungarn, Deutschen and Kroaten geprägt sind. Die Region bietet eine einzigartige Mischung aus historischer Tiefe, natürlicher Schönheit und kulinarischen Genüssen.",
+      "hu": "Baranya vármegye Magyarország legdélebbi tájegysége, amely mediterrán jellegű éghajlatával és gazdag történelmi örökségével tűnik ki a régiók közül. A vármegye központja, Pécs, már az ókorban is jelentős település volt, és ma híres az UNESCO világörökség részét képező ókeresztény sírkamráiról. A táj rendkívül változatos, a Mecsek hegyvonulataitól a Villányi-hegység világhírű borvidékeiről terjed, ahol az ország legkiválóbb vörösborai készülnek. Baranya etnikai sokszínűsége, a magyarok, németek és horvátok békés együttélése egyedülálló kulturális és gasztronómiai miliőt teremtett a térségben. A harkányi gyógyvíz és a siklósi vár történelmi falai tovább gazdagítják a vármegye turisztikai vonzerejét.",
+      "ro": "Județul Baranya este situat în extremitatea sudică a Ungariei, la granița cu Croația, și este cunoscut pentru clima sa blândă, aproape mediteraneană. Regiunea este mărginită la nord de munții Mecsek și la sud de râurile Drava și Dunăre, creând un peisaj variat și fertil. Centrul cultural este orașul Pécs, care impresionează prin moștenirea sa bogată romană și otomană, precum și prin scena sa artistică vibrantă. Baranya este, de asemenea, faimoasă pentru regiunile sale viticole de primă clasă, în special Villány, și pentru tradițiile sale etnice diverse, modelate de conviețuirea maghiarilor, germanilor și croaților. Județul oferă un amestec unic de profunzime istorică, frumusețe naturală și delicii culinare.",
+      "en": "Baranya County is located in the far south of Hungary on the border with Croatia and is known for its mild, almost Mediterranean climate. The region is bordered to the north by the Mecsek Mountains and to the south by the rivers Drava and Danube, creating a diverse and fertile landscape. Its cultural center is the city of Pécs, which impresses visitors with its rich Roman and Ottoman heritage and its vibrant art scene. Baranya is also famous for its world-class wine regions, particularly Villány, and its diverse ethnic traditions shaped by the coexistence of Hungarians, Germans, and Croatians. The county offers a unique blend of historical depth, natural beauty, and culinary delights."
+    },
+    factsAdvanced: {
+      de: [
+        "Die Komitatshauptstadt Pécs war im Jahr 2010 eine der offiziellen Kulturhauptstädte Europas.",
+        "Die Region Villány gilt als die bekannteste und qualitativ hochwertigste Rotweinregion in ganz Ungarn.",
+        "In Mohács findet jährlich der Busójárás statt, ein spektakuläres Maskenfest, das zum UNESCO-Weltkulturerbe gehört.",
+        "Die Burg von Siklós ist eine der am besten erhaltenen mittelalterlichen Festungsanlagen im gesamten Land.",
+        "Baranya beheimatet eine der größten Gruppen der deutschen Minderheit in Ungarn, die sogenannten Donauschwaben."
+      ],
+      "hu": [
+        "Pécs városa 2010-ben Európa Kulturális Fővárosa volt, ami jelentős városfejlesztési hullámot indított el.",
+        "A Villányi borvidék az ország legdélibb és egyik legelismertebb vörösbortermelő területe.",
+        "A mohácsi busójárás az UNESCO szellemi kulturális örökségének listáján is előkelő helyet foglal el.",
+        "Baranyában található az ország egyik legmélyebb barlangja, a mecseki Abaligeti-barlang, amely gyógybarlang is.",
+        "A siklósi vár az ország egyik legépebben maradt középkori erődítménye, amely ma is látogatható."
+      ],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "bacs-kiskun",
@@ -274,6 +299,25 @@ export const hungaryRegions: POI[] = [
         "The fish soup from Baja (Bajai halászlé) is a protected culinary specialty.",
         "Bács-Kiskun is a major hub for the automotive industry (Mercedes-Benz plant)."
       ]
+    },
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Bács-Kiskun vármegye Magyarország legnagyobb területű vármegyéje, amely az ország déli részén, a Duna és a Tisza között terül el. A régió meghatározó tájegysége a Kiskunság, amely híres homokos talajáról, szikes tavairól és egyedülálló pusztai élővilágáról. Itt található a Kiskunsági Nemzeti Park, amely a magyar puszta egyik legfontosabb őrzője. A vármegye gazdasága jelentős részben a mezőgazdaságra és az élelmiszeriparra épül, kiemelkedő a zöldség- és gyümölcstermesztés, valamint a borászat, különösen a Kunsági borvidék révén. A terület kulturális és történelmi emlékekben is gazdag, olyan városokkal, mint Kecskemét, Kalocsa vagy Baja, amelyek népművészetükkel és gasztronómiájukkal vonzzák a látogatókat.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": [
+        "Magyarország legnagyobb vármegyéje, területe több mint 8400 négyzetkilométer.",
+        "Itt található a Kiskunsági Nemzeti Park, amely az UNESCO bioszféra-rezervátum része.",
+        "A vármegye híres a kalocsai paprikáról és a világhírű kalocsai hímzésről.",
+        "Kecskemét a vármegye székhelye, híres szecessziós építészetéről és a barackpálinkáról.",
+        "Baja városa a Duna partján fekszik, és az évente megrendezett halászléfőző fesztiváljáról nevezetes."
+      ],
+      "ro": [],
+      "en": []
     },
   },
   {
@@ -339,6 +383,25 @@ export const hungaryRegions: POI[] = [
         "The Körös rivers offer excellent opportunities for anglers and water tourists."
       ]
     },
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Békés vármegye Magyarország délkeleti részén fekszik, és az ország egyik legfontosabb mezőgazdasági területe, amelyet gyakran az ország 'éléskamrájaként' is emlegetnek. A tájat az Alföld végtelen rónaságai, termékeny feketeföldek és lassú folyású folyók, mint a Körösök, határozzák meg. A régió híres vendégszeretetéről, gazdag népi hagyományairól és gasztronómiai különlegességeiről, mint például a csabai és gyulai kolbász. Békés vármegye számos kulturális kincset rejt, köztük a gyulai várat, amely Közép-Európa egyetlen épségben maradt gótikus síkvára. A természet kedvelőit a Körös-Maros Nemzeti Park háborítatlan tájai és a gazdag madárvilág várja.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": [
+        "A vármegye székhelye Békéscsaba, amely a világhírű Csabai Kolbászfesztivál otthona.",
+        "Itt található a gyulai vár, az Alföld egyik legjelentősebb középkori műemléke.",
+        "Békés vármegye az ország egyik legfontosabb gabonatermelő vidéke.",
+        "Szarvas városa ad otthont a történelmi Magyarország földrajzi középpontjának.",
+        "A vármegye folyói, a Körösök, népszerűek a vízi túrázók és a horgászok körében."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "borsod-abauj-zemplen",
@@ -401,6 +464,25 @@ export const hungaryRegions: POI[] = [
         "Borsod-Abaúj-Zemplén has the second highest number of castles in the country.",
         "The Zemplén Mountains are of volcanic origin and rich in minerals."
       ]
+    },
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Borsod-Abaúj-Zemplén vármegye Magyarország északkeleti részén terül el, és az ország egyik legváltozatosabb tájegysége. A régió északi részét a Zempléni-hegység és az Aggteleki-karszt vonulatai uralják, ahol a világörökség részét képező Baradla-barlang található. Délebbre a Bükk-hegység és a Mátra nyúlványai, valamint a termékeny Alföld találkozása alkot festői környezetet. Ez a vármegye ad otthont a világhírű Tokaji borvidéknek is, amely a világ első zárt borvidéke. A terület történelmi várakban is rendkívül gazdag, mint például Diósgyőr, Boldogkő vagy Sárospatak, amelyek a magyar történelem fontos tanúi.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": [
+        "Itt található a Tokaj-hegyaljai borvidék, amely 2002 óta az UNESCO világörökség része.",
+        "A vármegyében fekszik az Aggteleki Nemzeti Park a híres Baradla-cseppkőbarlanggal.",
+        "Miskolc a vármegye székhelye, Magyarország egyik legnagyobb városa és fontos ipari központja.",
+        "Miskolctapolca büszkélkedhet Európa egyetlen barlangfürdőjével.",
+        "A zempléni várhegyek és romok a magyarországi kéktúra útvonalának népszerű megállóit alkotják."
+      ],
+      "ro": [],
+      "en": []
     },
   },
   {
@@ -466,6 +548,25 @@ export const hungaryRegions: POI[] = [
         "The fish soup from Szeged (Szegedi halászlé) is a protected culinary heritage."
       ]
     },
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Csongrád-Csanád vármegye az Alföld déli részén, a Tisza és a Maros találkozásánál fekszik, és Magyarország egyik legnapsütésesebb vidéke. A régió mezőgazdasági jelentősége kiemelkedő, különösen a világhírű szegedi fűszerpaprika és a makói hagyma termesztése révén. A vármegye központja Szeged, a 'napfény városa', amely lenyűgöző szecessziós épületeiről, Dómjáról és pezsgő egyetemi életéről ismert. A tájat a Tisza folyó határozza meg, amely nemcsak a gazdaság, hanem a turizmus és a kikapcsolódás fontos színtere is. A terület gazdag néprajzi hagyományokban, mint például a tápai gyékényszövés vagy a szegedi papucs készítése.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": [
+        "Szeged a vármegye székhelye, ahol a híres Szegedi Szabadtéri Játékokat rendezik.",
+        "A vármegye híres a szegedi fűszerpaprikáról, amely hungarikumnak számít.",
+        "Makó városa a vöröshagyma termesztéséről és a Makovecz Imre tervezte Hagymatikum fürdőről ismert.",
+        "Itt található az Ópusztaszeri Nemzeti Történeti Emlékpark a Feszty-körképpel.",
+        "A Tisza és a Maros torkolata kedvelt kirándulóhely és vízi sportközpont."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "fejer",
@@ -529,6 +630,25 @@ export const hungaryRegions: POI[] = [
         "Mór is the center of a famous white wine region, known for the 'Ezerjó' grape.",
         "The ancient Roman city of Gorsium near Tác is a significant archaeological site."
       ]
+    },
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Fejér vármegye Magyarország központi részén, a Dunántúl és az Alföld találkozásánál terül el, és történelmileg az ország egyik legfontosabb régiója. Székesfehérvár, a vármegye székhelye, a középkorban a magyar királyok koronázási és temetkezési helyszíne volt, így méltán nevezik a 'királyok városának'. A vármegye táji adottságai rendkívül változatosak: északon a Vértes és a Bakony nyúlványai, középen a Mezőföld rónasága, délen pedig a Velencei-tó partvidéke található. Gazdasága fejlett, az ipari parkok mellett a mezőgazdaság is jelentős, különösen a szőlőtermesztés a Móri borvidéken. A Velencei-tó népszerű üdülőhely, amelyet gyakran a 'napfény tavaként' is emlegetnek.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": [
+        "Székesfehérvár a középkori Magyar Királyság egyik fővárosa és koronázóvárosa volt.",
+        "A Velencei-tó Magyarország harmadik legnagyobb és egyik legmelegebb vizű tava.",
+        "A vármegyében található a Vértes-hegység, amely kiváló túrázási lehetőségeket kínál.",
+        "Martonvásár büszkélkedhet a gyönyörű Brunszvik-kastéllyal és a Beethoven-múzeummal.",
+        "Dunaújváros az ország egyik legfontosabb ipari és kohászati központja."
+      ],
+      "ro": [],
+      "en": []
     },
   },
   {
@@ -594,6 +714,25 @@ export const hungaryRegions: POI[] = [
         "The Pan-European Picnic near Sopron was a milestone in the fall of the Iron Curtain."
       ]
     },
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Győr-Moson-Sopron vármegye Magyarország északnyugati kapujában, az osztrák és a szlovák határ mentén fekszik, és az ország egyik legfejlettebb gazdasági régiója. A vármegye székhelye Győr, a 'folyók városa', amely barokk belvárosával és modern iparával emelkedik ki. Nyugaton Sopron, a 'leghűségesebb város' található, amely történelmi hangulatával és híres borvidékével vonzza a látogatókat. A tájat a Kisalföld rónasága, a Hanság lápvilága és a Fertő-tó nádasai határozzák meg, utóbbi az UNESCO világörökség része. Pannonhalma büszkélkedhet az ezeréves Bencés Főapátsággal, amely a magyar kereszténység és kultúra egyik legfontosabb bölcsője.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": [
+        "Itt található a Pannonhalmi Főapátság, amely 1996 óta az UNESCO világörökség része.",
+        "Sopron városa az 1921-es népszavazás emlékére viseli a 'Civitas Fidelissima' (Leghűségesebb Város) címet.",
+        "A Fertő-tó Európa legnyugatibb sztyeppei tava, közös világörökségi terület Ausztriával.",
+        "Győr városa az Audi gyár révén a magyar autóipar egyik legfontosabb központja.",
+        "A Szigetköz a Duna ágai között elterülő, különleges vizes élőhely és természeti paradicsom."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "hajdu-bihar",
@@ -657,6 +796,25 @@ export const hungaryRegions: POI[] = [
         "Hajdú-Bihar has significant natural gas production and a strong agricultural sector.",
         "The Debrecen Flower Carnival is one of Hungary's most spectacular summer festivals."
       ]
+    },
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Hajdú-Bihar vármegye az Alföld keleti részén terül el, és nevében a történelmi hajdúvárosok emlékét őrzi. A vármegye székhelye Debrecen, az ország második legnagyobb városa, amelyet a 'kálvinista Rómaként' is emlegetnek gazdag egyházi és kulturális öröksége miatt. A régió legfontosabb tájegysége a Hortobágy, Magyarország első és legnagyobb nemzeti parkja, ahol a pusztai életmód, a gulyás- és csikóshagyományok a mai napig élnek. Hajdú-Bihar emellett híres gyógyvizeiről is, Hajdúszoboszló Európa egyik legnagyobb fürdőkomplexumával várja a gyógyulni vágyókat. A vármegye gazdaságában a mezőgazdaság mellett az élelmiszeripar és a gyógyszergyártás is meghatározó szerepet játszik.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": [
+        "A Hortobágyi Nemzeti Park a világörökség része, és a pusztai pásztorkultúra legfontosabb őrzője.",
+        "Debrecen a magyar reformáció központja, híres Református Nagytemplomáról.",
+        "Hajdúszoboszló a 'reumások Mekkája', itt található Európa legnagyobb fürdője.",
+        "A vármegye híres a hajdúk történelmi szerepéről, akik Bocskai István fejedelemtől kaptak kiváltságokat.",
+        "A Hortobágyon található a híres Kilenclyukú híd, amely a puszta jelképe."
+      ],
+      "ro": [],
+      "en": []
     },
   },
   {
@@ -722,6 +880,25 @@ export const hungaryRegions: POI[] = [
         "The region offers excellent opportunities for winter sports at Kékes."
       ]
     },
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Heves vármegye Magyarország északi részén fekszik, és az ország egyik legszebb és legváltozatosabb vidéke, ahol a Mátra és a Bükk vonulatai találkoznak az Alfölddel. Itt található az ország legmagasabb pontja, a Kékes-tető, amely népszerű kiránduló- és síközpont. A vármegye székhelye Eger, a történelmi hősök városa, amely barokk építészetéről, váráról és kiváló borairól, különösen az Egri Bikavérről híres. A Tisza-tó északi része is a vármegyéhez tartozik, amely különleges vízi paradicsomot kínál a természet kedvelőinek. Heves vármegye gazdag népművészeti kincsekben is, mint például a palóc hagyományok, és számos gyógyfürdővel, mint Egerszalók vagy Parád, büszkélkedhet.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": [
+        "Itt található Magyarország legmagasabb csúcsa, a Kékes-tető (1014 méter).",
+        "Eger városa híres az 1552-es várvédésről és az Egri Bikavér vörösborról.",
+        "Egerszalókon egyedülálló 'sódomb' található, amelyet a feltörő termálvíz alakított ki.",
+        "A Mátra-hegység az ország egyik legnépszerűbb túra- és üdülőövezete.",
+        "A vármegye északi részén élő palócok gazdag népszokásaikról és jellegzetes nyelvjárásukról ismertek."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "jasz-nagykun-szolnok",
@@ -784,6 +961,25 @@ export const hungaryRegions: POI[] = [
         "The 'Lehel Horn' in Jászberény is a significant historical relic.",
         "The flora and fauna along the Tisza floodplains are of outstanding ecological importance."
       ]
+    },
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Jász-Nagykun-Szolnok vármegye az Alföld szívében, a Tisza és a Körösök mentén terül el, és nevét az itt letelepedett jász és kun népcsoportokról kapta. A régió arculatát a végtelen rónaság és a kanyargós Tisza határozza meg, amely nemcsak a mezőgazdaságnak, hanem a kikapcsolódásnak is alapja. A vármegye székhelye Szolnok, a 'Tisza fővárosa', amely fontos közlekedési csomópont és kulturális centrum. A terület híres termálvizeiről és fürdőiről, valamint a Tisza-tó nyújtotta aktív turisztikai lehetőségekről. A népművészetben a jász hímzés és a kun hagyományok, a gasztronómiában pedig a tiszai halászlé és a birkapörkölt emelkedik ki.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": [
+        "A vármegye nevét a 13. században letelepedett jászokról és kunokról kapta.",
+        "Szolnok városa fontos vasúti és vízi közlekedési csomópont a Tisza partján.",
+        "Itt található a Tisza-tó egy jelentős része, amely az ország egyik legfontosabb ökoturisztikai célpontja.",
+        "A jászberényi Jász Múzeumban őrzik a híres Lehel-kürtöt, a jászok ereklyéjét.",
+        "Mezőtúr városa évszázadok óta a magyar fazekasság és kerámiaművészet egyik központja."
+      ],
+      "ro": [],
+      "en": []
     },
   },
   {
@@ -849,6 +1045,25 @@ export const hungaryRegions: POI[] = [
         "The Szelim Cave in Tatabánya is a significant prehistoric archaeological site."
       ]
     },
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Komárom-Esztergom vármegye Magyarország északnyugati részén, a Duna mentén fekszik, és történelmileg az ország egyik legjelentősebb vidéke. Itt található Esztergom, a magyar katolikus egyház központja és az ország egykori fővárosa, ahol az impozáns Bazilika magasodik a város fölé. A vármegye tája rendkívül változatos, hiszen itt találkozik a Gerecse és a Pilis hegység a Dunával, festői szurdokokat és panorámát nyújtva. Komárom városa híres erődrendszeréről, amely a Duna két partján húzódik, míg Tatabánya, a vármegye székhelye, egykori bányászvárosból vált modern ipari központtá. A régió kulturális és természeti kincsei, mint Tata tatai vára és tavai, vonzó célpontot jelentenek minden látogatónak.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": [
+        "Esztergom a magyar kereszténység bölcsője, az esztergomi Bazilika az ország legnagyobb temploma.",
+        "Komárom városa az UNESCO világörökségi várományos listáján szereplő monumentális erődrendszeréről ismert.",
+        "Tata a 'vizek városa', híres az Öreg-tóról és a tó partján álló Zsigmond-kori várról.",
+        "Tatabánya felett magasodik a Turul-emlékmű, amely Európa egyik legnagyobb madárszobra.",
+        "A Gerecse-hegység kiváló túraútvonalakat és híres vörösmárvány-bányákat rejt."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "nograd",
@@ -912,6 +1127,25 @@ export const hungaryRegions: POI[] = [
         "Drégely Castle is a significant symbol of Hungarian heroism and sacrifice.",
         "The Cserhát hills offer excellent opportunities for slow tourism and hiking."
       ]
+    },
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Nógrád vármegye Magyarország legkisebb lakosságszámú vármegyéje, amely az Északi-középhegység vadregényes tájain terül el. A vidéket sűrű erdők, mély völgyek és magasba törő várromok jellemzik, mint például Salgó vagy Somoskő vára. Nógrád a palóc kultúra legfontosabb őrzője, ahol a népszokások, a viselet és a nyelvjárás a mindennapok része. A vármegye ékköve Hollókő ófaluja, amely az UNESCO világörökség része és élő múzeumként mutatja be a hagyományos paraszti életformát. A természet kedvelőit az Ipoly folyó völgye és a Cserhát dombjai várják, míg Salgótarján, a vármegye székhelye, különleges bányászati múzeumával és modern központjával várja az utazókat.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": [
+        "Itt található Hollókő, az egyetlen magyar falu, amely szerepel az UNESCO világörökségi listáján.",
+        "A vármegye székhelye Salgótarján, amely az ország első és egyetlen földalatti bányamúzeumának ad otthont.",
+        "Nógrád vármegye területe az ország egyik legerdősebb vidéke, a terület több mint 40%-át erdő borítja.",
+        "A somoskői vár szikláinál látható a világon ritkaságszámba menő bazaltorgona.",
+        "Ipolytarnócon található az 'ősvilági Pompeji', amely híres őslénytani leleteiről és megkövesedett fáiról."
+      ],
+      "ro": [],
+      "en": []
     },
   },
   {
@@ -977,6 +1211,25 @@ export const hungaryRegions: POI[] = [
         "The region has the most developed suburban ring and the highest number of commuters."
       ]
     },
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Pest vármegye Magyarország központi részén terül el, teljesen körülölelve a fővárost, Budapestet, amellyel szoros gazdasági és kulturális egységet alkot. Ez az ország legnépesebb vármegyéje, amely rendkívül változatos táji és turisztikai adottságokkal rendelkezik. Északon a Dunakanyar festői szakasza Visegráddal és Szentendrével, délebbre a Gödöllői-dombság a királyi kastéllyal, míg délkeleten az Alföld rónasága határozza meg a vidéket. A vármegye számos kirándulóhelyet kínál a Pilisben és a Börzsönyben, valamint kulturális kincseket Vác barokk belvárosában. Pest vármegye az ország dinamikusan fejlődő szíve, ahol a modern ipar és a hagyományőrző települések harmonikusan élnek együtt.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": [
+        "Pest vármegye az ország legnépesebb vármegyéje, lakossága meghaladja az 1,3 millió főt.",
+        "Gödöllőn található a Grassalkovich-kastély, amely Sisi (Erzsébet királyné) kedvenc pihenőhelye volt.",
+        "Szentendre a művészetek városa, híres galériáiról, templomtornyairól és a Skanzenről.",
+        "Visegrád a középkori magyar királyok székhelye volt, híres Fellegváráról és a Salamon-toronyról.",
+        "A Dunakanyar az ország egyik legszebb tájegysége, ahol a folyó éles kanyart vesz a hegyek között."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "somogy",
@@ -1040,6 +1293,25 @@ export const hungaryRegions: POI[] = [
         "The river Drava forms a natural and untouched border in the south of the region.",
         "The county is home to numerous thermal baths, such as the one in Igal."
       ]
+    },
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Somogy vármegye Magyarország délnyugati részén fekszik, és legfontosabb természeti vonzereje a Balaton déli partja, amely sekély vizével a családok kedvelt üdülőhelye. A vármegye tája azonban jóval többnél: északon a somogyi dombság lankái, délen pedig a Dráva folyó menti ártéri erdők alkotják a változatos környezetet. A vármegye székhelye Kaposvár, a virágok városa, amely szecessziós belvárosával és gazdag színházi életével tűnik ki. Somogy híres vadállományáról és sűrű erdőiről is, különösen a belső-somogyi területeken. A régió gasztronómiájában a balatoni halételek és a vadhúsból készült specialitások dominálnak, kulturális emlékei között pedig a somogyvári apátság romjai emelkednek ki.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": [
+        "Somogy vármegyéhez tartozik a Balaton déli partjának legnagyobb része, Siófokkal, a 'nyári fővárossal'.",
+        "Itt található Kaposvár, amely híres Rippl-Rónai József festőművész hagyatékáról és múzeumáról.",
+        "A vármegye déli határát a Dráva folyó alkotja, amely Európa egyik legtisztább vizű és legvadregényesebb folyója.",
+        "Igal és Csokonyavisonta híres gyógyfürdőkkel rendelkezik, amelyek kénes vizükről ismertek.",
+        "Kaszó sűrű erdei az ország egyik legfontosabb vadászterületét és egy különleges lombkoronasétányt rejtenek."
+      ],
+      "ro": [],
+      "en": []
     },
   },
   {
@@ -1105,6 +1377,25 @@ export const hungaryRegions: POI[] = [
         "The village of Tákos is home to the famous 'barefoot cathedral' with a painted wooden ceiling."
       ]
     },
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Szabolcs-Szatmár-Bereg vármegye Magyarország északkeleti csücskében, az ukrán, a román és a szlovák határ találkozásánál fekszik. A tájat a Tisza, a Szamos és a Túr folyók kanyarulatai, valamint a Nyírség homokbuckái határozzák meg. Ez a régió Magyarország egyik leghitelesebb és legtöbb népi emléket őrző vidéke, híres középkori 'mosolygó szentekkel' díszített templomairól és különleges haranglábairól. A vármegye székhelye Nyíregyháza, amely modern állatparkjával és Sóstógyógyfürdővel vonzza a látogatókat. Szabolcs-Szatmár-Bereg az ország 'almáskertje', de híres szatmári szilvapálinkájáról és a beregi hímzésről is, amelyek a térség büszkeségei.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": [
+        "Nyíregyháza állatparkja (Sóstó Zoo) többször is elnyerte Európa legjobb állatkertje címet.",
+        "Itt található a Túristvándi vízimalom, amely az ország egyik legszebb ipartörténeti műemléke.",
+        "A vármegye híres a szatmári szilváról és a belőle készült lekvárról, valamint a pálinkáról.",
+        "Tákos és Csaroda református templomai a középkori magyar építészet és falfestészet remekművei.",
+        "Máriapócs nemzeti kegyhely, a könnyező Szűzanya-ikonjáról híres zarándokhely."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "tolna",
@@ -1167,6 +1458,25 @@ export const hungaryRegions: POI[] = [
         "Simontornya Castle is a significant Renaissance monument in the region.",
         "The Danube floodplains and backwaters offer excellent conditions for fishing."
       ]
+    },
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Tolna vármegye a Dunántúl keleti részén, a Duna mentén fekszik, és szelíd dombságairól, valamint az ország egyik leghíresebb borvidékéről, a szekszárdiról ismert. A tájat északon a Mezőföld, nyugaton a Tolnai-hegyhát, délen pedig a Mecsek nyúlványai határozzák meg. A vármegye székhelye Szekszárd, amely Liszt Ferenc kedvenc városa volt, és ma a vörösbor, különösen a Szekszárdi Bikavér hazája. Tolna büszkélkedhet a Gemenci erdővel, amely Európa legnagyobb összefüggő ártéri erdeje, és gazdag vadállományáról, valamint kisvasútjáról híres. A régió kulturális kincsei között a paksi atomerőmű technikai érdekességei és a népművészeti hagyományok, mint a sárközi hímzés, egyaránt megtalálhatóak.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": [
+        "Szekszárd a legkisebb lakosságszámú vármegyeszékhely Magyarországon, híres bortermeléséről.",
+        "A Gemenci erdő a Duna-Dráva Nemzeti Park része, a világ legnagyobb trófeát adó gímszarvasainak otthona.",
+        "Itt található Paks városa, ahol az ország egyetlen atomerőműve működik.",
+        "A Sárköz néprajzi tájegysége híres színes népviseletéről, hímzéséről és szövéséről.",
+        "Decs községe a Sárköz központja, ahol a népi hagyományok a mai napig elevenen élnek."
+      ],
+      "ro": [],
+      "en": []
     },
   },
   {
@@ -1232,6 +1542,25 @@ export const hungaryRegions: POI[] = [
         "Szombathely is the birthplace of Saint Martin of Tours."
       ]
     },
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Vas vármegye Magyarország legnyugatibb részén, az osztrák határ mentén terül el, és az Alpokalja festői dombvidékeiről, valamint történelmi városairól ismert. A vármegye székhelye Szombathely, amelyet a rómaiak alapítottak Savaria néven, és büszkélkedhet az ország egyik leggazdagabb antik emlékanyagával. Északon Kőszeg városa varázsolja el a látogatókat középkori hangulatával és várával, míg délebbre az Őrség néprajzi tájegysége őrzi az ősi magyar építészetet és életmódot. Vas vármegye rendkívül gazdag gyógyvizekben is, olyan világhírű fürdőkkel, mint Bükfürdő vagy Sárvár. A természet kedvelőit az Írott-kő környéki erdők és a kanyargós Rába folyó várja.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": [
+        "Szombathely (Savaria) az ország legrégebbi, rómaiak által alapított városa.",
+        "Itt található Kőszeg, amely az 1532-es török ostrom elleni hősies helytállásáról híres.",
+        "Az Őrségi Nemzeti Park az ősi határőrvidék hagyományait és különleges 'szeres' településszerkezetét őrzi.",
+        "Bükfürdő Magyarország egyik legjelentősebb gyógyfürdője, vize különösen magas ásványi anyag tartalmú.",
+        "A vármegye legmagasabb pontja az Írott-kő (882 m), amely egyben a Dunántúl legmagasabb csúcsa is."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "veszprem",
@@ -1295,6 +1624,25 @@ export const hungaryRegions: POI[] = [
         "Veszprém was traditionally the city where Hungarian queens were crowned.",
         "Lake Balaton offers excellent conditions for sailing and water sports in this region."
       ]
+    },
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Veszprém vármegye a Dunántúl központi részén fekszik, és Magyarország egyik legváltozatosabb turisztikai régiója, magában foglalva a Bakony-hegységet és a Balaton északi partját. A vármegye székhelye Veszprém, a 'királynék városa', amely nevét arról kapta, hogy évszázadokon át a veszprémi püspök koronázta meg a magyar királynékat. A tájat a Bakony sűrű erdői, vadregényes szurdokai és a Balaton-felvidék vulkanikus tanúhegyei, mint a Badacsony, teszik egyedülállóvá. Itt található a Tihanyi-félsziget is, az ország első tájvédelmi körzete az ezeréves apátsággal. A vármegye híres bortermeléséről, herendi porcelánjáról és gazdag történelmi emlékeiről, amelyek várakban (Sümeg, Nagyvázsony) és kolostorromokban öltenek testet.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": [
+        "Veszprém városa 2023-ban Európa Kulturális Fővárosa volt, elismerve gazdag művészeti életét.",
+        "Itt található a Balaton-felvidéki Nemzeti Park a világhírű tihanyi bencés apátsággal.",
+        "Herend városa a világszerte ismert, kézzel festett porcelán gyártásának központja.",
+        "A Badacsony-hegy és környéke az ország egyik legfontosabb fehérbortermelő vidéke.",
+        "A Bakony-hegységben található Csesznek vára és a híres Cuha-völgyi vasútvonal."
+      ],
+      "ro": [],
+      "en": []
     },
   },
   {
@@ -1360,6 +1708,25 @@ export const hungaryRegions: POI[] = [
         "The Zala hills offer excellent opportunities for hiking and wine production."
       ]
     },
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Zala vármegye Magyarország délnyugati sarkában fekszik, és lankás dombvidékéről, sűrű erdőiről és gazdag kőolaj- és földgázkincseiről ismert. A vármegye székhelye Zalaegerszeg, amely az ország első szabadtéri néprajzi múzeumával és modern városképével büszkélkedhet. Zala vármegyéhez tartozik a Balaton nyugati csücske Keszthellyel és a monumentális Festetics-kastéllyal, valamint a világhírű Hévízi-tó, amely Európa legnagyobb természetes termáltava. A régió híres népi hagyományairól, különösen a Göcsej és a Hetés tájegységek jellegzetes építészetéről és gasztronómiájáról, mint a dödölle vagy a tökmagolaj. A táj nyugalma és a gyógyfürdők sokasága (Zalakaros, Lenti) Somogy mellett a pihenni vágyók egyik legfőbb célpontja.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": [
+        "Itt található a Hévízi-tó, a világ legnagyobb biológiailag aktív természetes termáltava.",
+        "A keszthelyi Festetics-kastély az ország egyik legjelentősebb barokk palotaegyüttese.",
+        "Zala vármegye a magyar kőolaj- és földgázkitermelés történelmi bölcsője.",
+        "A Göcseji Falumúzeum volt az ország első szabadtéri néprajzi gyűjteménye.",
+        "Zalakaros az ország egyik legnépszerűbb gyógy- és élményfürdő városa."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
 ];
 
@@ -1418,6 +1785,23 @@ export const hungaryCities: POI[] = [
         "An important center for education, economy, and art in Central Europe.",
         "The Dohány Street Synagogue is the largest synagogue in Europe."
       ]
+    },
+  
+    descriptionAdvanced: {
+      "de": "Budapest, die prachtvolle Hauptstadt Ungarns, wird durch die majestätische Donau in das hügelige Buda und das lebendige Pest geteilt. Die Stadt entstand 1873 durch die Vereinigung von Buda, Pest und Óbuda und blickt auf eine jahrtausendealte Geschichte zurück, die von den Römern bis zur Zeit der österreichisch-ungarischen Monarchie reicht. Besucher sind fasziniert von der architektonischen Vielfalt, die von der gotischen Matthiaskirche über das neugotische Parlamentsgebäude bis hin zu prachtvollen Jugendstilbauten reicht. Budapest ist zudem die einzige Hauptstadt der Welt, die über eine Vielzahl von Thermalquellen verfügt, was sie zu einem Zentrum der europäischen Bäderkultur macht. Die Donauufer, das Burgviertel und die Andrássy-Straße gehören zum UNESCO-Welterbe und zeugen von der glanzvollen Vergangenheit der Metropole.",
+      "hu": "Budapest, Magyarország fővárosa és legnépesebb városa, a Duna két partján fekvő metropolisz, amely történelmi, kulturális és gazdasági szempontból is az ország szíve. A város 1873-ban jött létre Buda, Pest és Óbuda egyesítésével, és azóta Közép-Európa egyik legjelentősebb központjává nőtte ki magát. Budapest világörökségi helyszíneivel, mint a Budai Várnegyed, a Duna-parti panoráma és az Andrássy út, a világ minden tájáról vonzza a turistákat. Az 'élő történelem' városa, ahol a római kori romok, a török fürdők, a gótikus és barokk templomok, valamint a szecessziós paloták és a modern építészet különleges elegye alkot egyedülálló városképet. Budapest emellett a világ egyetlen fürdőfővárosa, ahol több tucat termálforrás táplálja a történelmi gyógyfürdőket.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": ["Budapest Magyarország politikai, gazdasági, közlekedési és kulturális központja.",
+        "A Duna-part, a Budai Várnegyed és az Andrássy út az UNESCO Világörökség része.",
+        "A világ egyetlen fővárosa, amely alatt barlangok és több mint 120 termálforrás található.",
+        "Itt működik a kontinens első földalatti vasútja (M1), amelyet 1896-ban adtak át.",
+        "A Dohány utcai zsinagóga Európa legnagyobb, a világ második legnagyobb zsinagógája."],
+      "ro": [],
+      "en": []
     },
   },
   {
@@ -1483,6 +1867,19 @@ export const hungaryCities: POI[] = [
       ]
     },
     image: "/poi-images/budai-var.webp",
+  
+    descriptionAdvanced: {
+      "de": "Die Budaer Burg ist das historische Herz von Budapest und ein monumentales Zeugnis ungarischer Macht und Kultur über acht Jahrhunderte. Thronend auf dem Burgberg über der Donau, vereint das Burgviertel gotische, Renaissance- und Barockarchitektur zu einem einzigartigen UNESCO-Welterbe. Die Anlage umfasst den prachtvollen Königspalast, die geschichtsträchtige Matthiaskirche und die märchenhafte Fischerbastei. Über Jahrhunderte war die Burg die Residenz ungarischer Könige und ein Bollwerk gegen Invasoren, was sich in den massiven Verteidigungsanlagen widerspiegelt. Heute beherbergt sie bedeutende Museen wie die Nationalgalerie und die Nationalbibliothek. Ein Spaziergang durch die kopfsteingepflasterten Gassen der Burg bietet nicht nur historische Einblicke, sondern auch den wohl spektakulärsten Ausblick auf die Pester Seite der Stadt.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Burgviertel von Budapest wurde 1987 in die Liste des UNESCO-Weltkulturerbes aufgenommen.", "Unter der Burg erstreckt sich ein weitläufiges Labyrinth aus natürlichen und künstlichen Höhlen.", "Der Königspalast wurde nach der Zerstörung im Zweiten Weltkrieg in seinem heutigen prachtvollen Stil wiederaufgebaut.", "In dem Viertel befindet sich das älteste Wohnhaus von Budapest aus dem 14. Jahrhundert."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "orszaghaz",
@@ -1546,6 +1943,19 @@ export const hungaryCities: POI[] = [
         "Construction took 17 years and employed over 1,000 workers at times.",
         "The Parliament is spectacularly illuminated at night, reflecting in the Danube."
       ]
+    },
+  
+    descriptionAdvanced: {
+      "de": "Das ungarische Parlamentsgebäude (Országház) ist eines der prächtigsten Regierungsgebäude der Welt und ein Symbol der ungarischen Souveränität. Direkt am Pester Ufer der Donau gelegen, besticht das neugotische Meisterwerk durch seine enorme Größe und die filigranen Verzierungen der Fassade. Entworfen von Imre Steindl und inspiriert vom Londoner Palace of Westminster, wurde es pünktlich zum Millennium im Jahr 1896 fast fertiggestellt. Im Inneren faszinieren die monumentale Treppenhalle, der prachtvolle Kuppelsaal und der Sitzungssaal mit ihrer Golddekoration und den Wandgemälden. Das wertvollste Exponat ist die ungarische Heilige Krone mit den Krönungsinsignien, die im Kuppelsaal streng bewacht werden. Als Teil des UNESCO-Welterbes ist das Parlament ein Muss für jeden Besucher der ungarischen Hauptstadt.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das ungarische Parlament ist mit 268 Metern Länge das drittgrößte Parlamentsgebäude weltweit.", "Für die Vergoldung der Innenräume wurden insgesamt 40 Kilogramm 24-karätiges Gold verwendet.", "Das Gebäude besitzt 691 Zimmer und insgesamt fast 20 Kilometer an Treppenhäusern.", "Die Kuppel des Parlaments erreicht eine symbolträchtige Höhe von genau 96 Metern."],
+      "hu": [],
+      "ro": [],
+      "en": []
     },
   },
   {
@@ -1611,6 +2021,24 @@ export const hungaryCities: POI[] = [
       ]
     },
     image: "/poi-images/hosok-tere.webp",
+  
+    descriptionAdvanced: {
+      "de": "Der Heldenplatz (Hősök tere) ist der größte und symbolträchtigste Platz von Budapest, gelegen am Ende der prachtvollen Andrássy-Straße. Das Zentrum des Platzes bildet das Millenniumsdenkmal, das zum 1000-jährigen Jubiläum der ungarischen Landnahme errichtet wurde. Eine 36 Meter hohe Säule mit dem Erzengel Gabriel wird von Statuen der sieben ungarischen Stammesfürsten und zwei halbkreisförmigen Kolonnaden mit bedeutenden Königen und Staatsmännern umrahmt. Der Platz ist ein Ort des nationalen Gedenkens und Schauplatz wichtiger historischer Ereignisse sowie großer Kundgebungen. Flankiert wird der Heldenplatz von den monumentalen Gebäuden des Museums der Bildenden Künste und der Kunsthalle. Das gesamte Ensemble gehört zum UNESCO-Welterbe und vermittelt eindrucksvoll den historischen Stolz der ungarischen Nation.",
+      "hu": "A Hősök tere Budapest legimpozánsabb köztere, az Andrássy út monumentális lezárása, amelyet a magyar államiság ezeréves évfordulójára, 1896-ban alakítottak ki. Középpontjában a 36 méter magas Millenniumi emlékmű áll, tetején Gábriel arkangyallal, aki a Szent Koronát és a kettős keresztet tartja. A monumentális oszlopcsarnokokban a magyar történelem 14 meghatározó alakjának szobra kapott helyet, az oszlop talpazatánál pedig a hét honfoglaló vezér lovas szobra tekinthető meg. A teret a Szépművészeti Múzeum és a Műcsarnok eklektikus épületei keretezik, alkotva egy egységes, világörökségi rangú építészeti együttest. Számtalan történelmi esemény és állami ünnepség helyszíneként a tér a nemzeti identitás egyik legerősebb szimbóluma.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Der Heldenplatz markiert das Ende der UNESCO-geschützten Andrássy-Straße.", "Das Millenniumsdenkmal wurde vom Bildhauer György Zala und dem Architekten Albert Schickedanz entworfen.", "Unter dem Pflaster des Platzes befindet sich die erste U-Bahn-Station des europäischen Kontinents.", "Die Statuen in den Kolonnaden wurden mehrfach ausgetauscht, um den politischen Wandel der Geschichte widerzuspiegeln."],
+      "hu": [
+        "Az emlékmű építése 1896-ban kezdődött és teljes egészében csak 1929-re fejeződött be.",
+        "A tér közepén található a Magyar Hősök Emlékköve, amely minden ismeretlen magyar katona előtt tiszteleg.",
+        "A kolonnádokban eredetileg öt Habsburg uralkodó szobra is állt, de ezeket a második világháború után lecserélték.",
+        "Zala György szobrászművész több mint harminc évig dolgozott az emlékmű szobrain."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "dunapart",
@@ -1674,6 +2102,24 @@ export const hungaryCities: POI[] = [
         "Several boat piers offer sightseeing cruises on the Danube.",
         "The Danube bank is the central location for the national holiday fireworks on August 20th."
       ]
+    },
+  
+    descriptionAdvanced: {
+      "de": "Das Donauufer in Budapest gehört zu den schönsten Stadtlandschaften der Welt und wurde zurecht zum UNESCO-Weltkulturerbe erklärt. Entlang des Flusses reihen sich architektonische Meisterwerke wie das Parlament, die Ungarische Akademie der Wissenschaften und die prachtvollen Hotels am Pester Ufer aneinander. Auf der Budaer Seite ragen der Burgberg und der Gellértberg majestätisch empor und spiegeln sich im Wasser der Donau. Die Uferzonen sind durch die berühmten Brücken wie die Kettenbrücke oder die Freiheitsbrücke miteinander verbunden, die nachts prachtvoll illuminiert sind. Ein Spaziergang entlang des Donauufers vermittelt die ganze Eleganz und den Glanz der ungarischen Metropole. Es ist der lebendige Puls der Stadt und ein Ort, an dem Geschichte und Moderne auf spektakuläre Weise verschmelzen.",
+      "hu": "A budapesti Dunapart a világ egyik legszebb folyóparti panorámája, amely 1987 óta az UNESCO Világörökség részét képezi. A védett szakasz a Margit hídtól a Szabadság hídig terjed, magában foglalva az Országház neogótikus tömbjét, a Tudományos Akadémiát és a pesti szállodasort. A part mentén sétálva szemünk elé tárul a Budai Vár és a Gellért-hegy fenséges látványa, miközben a folyón ringatózó hajók élettel töltik meg a vizet. A pesti alsó rakparton található a megrázó 'Cipők a Duna-parton' emlékmű, amely a holokauszt áldozatainak állít emléket. Esténként a kivilágított épületek és hidak tükröződése a vízen különleges, romantikus atmoszférát teremt a város szívében.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Budapester Donauufer ist seit 1987 offizielles UNESCO-Weltkulturerbe.", "Die Uferpromenade auf der Pester Seite ist als 'Donau-Korso' bekannt und ein beliebter Treffpunkt.", "Am Ufer befinden sich 60 metallene Schuhe, ein bewegendes Denkmal für die Opfer des Holocaust.", "Die Donauufer in Budapest bieten eine der weltweit schönsten Nachtansichten einer Stadt."],
+      "hu": [
+        "A Duna budapesti szakasza 1987-ben került fel az UNESCO világörökségi listájára.",
+        "A 'Cipők a Duna-parton' holokauszt-emlékmű 60 pár vasból öntött, korhű cipőt ábrázol.",
+        "A pesti Duna-korzón közlekedő 2-es villamos vonalát a National Geographic a világ egyik legszebbikének választotta.",
+        "A rakpartok kiépítése a 19. század második felében kezdődött a rendszeres árvizek elleni védekezésül."
+      ],
+      "ro": [],
+      "en": []
     },
   },
   {
@@ -1739,6 +2185,19 @@ export const hungaryCities: POI[] = [
       ]
     },
     image: "/poi-images/margitsziget.webp",
+  
+    descriptionAdvanced: {
+      "de": "Die Margareteninsel (Margitsziget) ist die grüne Lunge von Budapest und ein wahres Erholungsparadies inmitten der Donau. Benannt nach der Heiligen Margarete, der Tochter von König Béla IV., beherbergt die Insel die Ruinen eines mittelalterlichen Dominikanerklosters. Die Insel ist heute fast vollständig autofrei und bietet weite Parkanlagen, botanische Gärten und jahrhundertealte Bäume. Zu den Hauptattraktionen gehören der singende Springbrunnen mit seinen Lichtspielen, der historische Wasserturm und das traditionsreiche Palatinus-Strandbad. Jogger nutzen den berühmten Laufpfad, der die gesamte Insel umrundet, während Familien die Ruhe und die vielen Spielplätze genießen. Die Margareteninsel ist ein Ort der Stille und der aktiven Erholung, der die Hektik der Großstadt vergessen lässt.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Die Margareteninsel erstreckt sich über eine Länge von 2,5 Kilometern in der Donau.", "Der singende Springbrunnen auf der Insel ist einer der größten seiner Art in Europa.", "Im kleinen Tierpark der Insel können Besucher unter anderem Damwild und Störche beobachten.", "Die Insel wird durch die Margaretenbrücke im Süden und die Árpádbrücke im Norden erschlossen."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "varosliget",
@@ -1802,6 +2261,19 @@ export const hungaryCities: POI[] = [
         "The world-famous Gundel Restaurant, a flagship of Hungarian gastronomy, is located here.",
         "The Liget Budapest project is Europe's largest-scale cultural urban development program."
       ]
+    },
+  
+    descriptionAdvanced: {
+      "de": "Das Stadtwäldchen (Városliget) ist der bedeutendste Stadtpark von Budapest und ein Zentrum für Kultur, Wellness und Freizeit. Entstanden im 19. Jahrhundert, war es einer der ersten öffentlichen Parks der Welt und Schauplatz der großen Millenniumsausstellung von 1896. Im Park befinden sich weltberühmte Sehenswürdigkeiten wie die Burg Vajdahunyad, das Széchenyi-Heilbad und der Budapester Zoo. Der See im Stadtwäldchen wird im Winter zur größten Kunsteisbahn Europas und ist im Sommer ein beliebter Ort zum Bootfahren. In den letzten Jahren wurde der Park durch das Projekt 'Liget Budapest' mit modernen Museen wie dem Haus der Musik modernisiert. Das Stadtwäldchen ist der beliebteste Treffpunkt für Familien und Touristen, die Natur und Kultur im Herzen von Pest verbinden möchten.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Stadtwäldchen ist der Standort des berühmten Széchenyi-Heilbades, des größten Thermalbads Europas.", "Im Park befindet sich das Denkmal für den unbekannten Chronisten Anonymus.", "Der Millennium-Denkmal-Komplex am Eingang des Parks ist ein UNESCO-Weltkulturerbe.", "Das Projekt 'Liget Budapest' ist das derzeit größte kulturelle Stadtentwicklungsprojekt in Europa."],
+      "hu": [],
+      "ro": [],
+      "en": []
     },
   },
   {
@@ -1867,6 +2339,19 @@ export const hungaryCities: POI[] = [
         "The entire avenue is under monument protection, preserving its historic appearance."
       ]
     },
+  
+    descriptionAdvanced: {
+      "de": "Die Andrássy-Straße ist die eleganteste Boulevardstraße von Budapest und ein herausragendes Beispiel städtebaulicher Eleganz des 19. Jahrhunderts. Sie verbindet den Elisabethenplatz im Stadtzentrum mit dem Heldenplatz am Stadtwäldchen und wird von prachtvollen Neorenaissance-Palästen gesäumt. Entlang der Allee befinden sich bedeutende kulturelle Einrichtungen wie die Ungarische Staatsoper und das Haus des Terrors. Die Straße ist in drei Abschnitte unterteilt, die von luxuriösen Geschäften bis hin zu aristokratischen Villen mit Gärten reichen. Unter der Andrássy-Straße verläuft die historische U-Bahn-Linie M1, die erste elektrische Metro auf dem europäischen Kontinent. Als UNESCO-Welterbe geschützt, spiegelt die Straße die goldene Ära Budapests am Ende der Monarchie wider.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Die Andrássy-Straße wurde 2002 als Teil des Budapester Ensembles zum UNESCO-Welterbe erklärt.", "Die Straße wurde nach dem ungarischen Ministerpräsidenten Graf Gyula Andrássy benannt.", "Viele der prachtvollen Gebäude wurden von den berühmtesten Architekten ihrer Zeit, wie Miklós Ybl, entworfen.", "Die Allee ist über 2,3 Kilometer lang und ein Inbegriff für den europäischen Boulevardstil."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "nyugati-palyaudvar",
@@ -1931,6 +2416,19 @@ export const hungaryCities: POI[] = [
       ]
     },
     image: "/poi-images/nyugati-palyaudvar.webp",
+  
+    descriptionAdvanced: {
+      "de": "Der Westbahnhof (Nyugati pályaudvar) in Budapest ist ein architektonisches Meisterwerk des ausgehenden 19. Jahrhunderts und ein bedeutender Verkehrsknotenpunkt. Errichtet von der Firma Gustave Eiffels, besticht das Bahnhofsgebäude durch seine beeindruckende Stahl-Glas-Konstruktion der Empfangshalle. Die Kombination aus historischer Architektur und modernem Reisekomfort macht den Nyugati zu einem der schönsten Bahnhöfe Europas. In einem Flügel des Bahnhofs befindet sich eine der prachtvollsten McDonald's-Filialen weltweit, die in einem ehemaligen Speisesaal untergebracht ist. Der Bahnhof liegt am Nyugati-Platz, einem der belebtesten Plätze von Pest, und verbindet die Hauptstadt mit dem Norden und Osten Ungarns. Trotz zahlreicher Kriege und Umbauten hat das Gebäude seinen ursprünglichen Glanz und seine architektonische Integrität bewahrt.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Die Eisenkonstruktion des Bahnhofs wurde im Pariser Büro von Gustave Eiffel entworfen.", "Der Bahnhof wurde im Jahr 1877 an der Stelle der ersten ungarischen Eisenbahnstation eröffnet.", "Die majestätische Glashalle überspannt die Bahnsteige ohne stützende Zwischenpfeiler.", "Das Gebäude wurde in den letzten Jahren umfassend restauriert, um seine historische Schönheit zu bewahren."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "lanchid",
@@ -1995,6 +2493,19 @@ export const hungaryCities: POI[] = [
         "It connects Széchenyi István Square in Pest with Adam Clark Square in Buda."
       ]
     },
+  
+    descriptionAdvanced: {
+      "de": "Die Kettenbrücke (Széchenyi lánchíd) ist die älteste und berühmteste der Budapester Brücken über die Donau und ein Symbol der ungarischen Einheit. Sie wurde 1849 eingeweiht und war die erste permanente Verbindung zwischen den Städten Buda und Pest, was die Entwicklung zur modernen Metropole maßgeblich beschleunigte. Die Brücke wurde auf Initiative von Graf István Széchenyi errichtet und vom englischen Ingenieur William Tierney Clark entworfen. Besonders markant sind die massiven Triumphbögen und die stolzen Löwenstatuen, die die Brückenköpfe bewachen. Nachts ist die Kettenbrücke prachtvoll beleuchtet und bietet einen der romantischsten Anblicke von Budapest. Sie ist nicht nur ein technisches Denkmal, sondern auch ein Herzstück der nationalen Identität Ungarns.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Die Kettenbrücke war bei ihrer Eröffnung eine der größten Hängebrücken der Welt.", "Die Löwen an den Brückenköpfen haben der Legende nach keine Zungen, was jedoch nur eine optische Täuschung ist.", "Während des Zweiten Weltkriegs wurde die Brücke gesprengt und zum 100. Jubiläum 1949 originalgetreu wiederaufgebaut.", "Die Brücke wurde nach einer umfassenden Sanierung im Jahr 2023 für den Fußgänger- und Busverkehr wieder freigegeben."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "pecs",
@@ -2051,6 +2562,23 @@ export const hungaryCities: POI[] = [
         "The Mosque of Pasha Qasim is a significant relic from the Ottoman era."
       ]
     },
+  
+    descriptionAdvanced: {
+      "de": "Pécs, die fünftgrößte Stadt Ungarns, liegt am Fuße des Mecsek-Gebirges und besticht durch ein mildes, fast mediterranes Flair. Als römische Siedlung Sopianae gegründet, blickt die Stadt auf eine über 2000-jährige Geschichte zurück, deren Zeugnisse in den zum UNESCO-Welterbe gehörenden frühchristlichen Grabkammern zu finden sind. Die Stadt ist ein Schmelztiegel der Kulturen, was sich in der ehemaligen Moschee von Pascha Jakowali Hassan und der prächtigen Kathedrale widerspiegelt. Bekannt als Stadt der Kunst und Bildung, beherbergt Pécs die älteste Universität des Landes sowie das weltberühmte Zsolnay-Kulturviertel. Im Jahr 2010 trug Pécs stolz den Titel der Kulturhauptstadt Europas und zieht seither Besucher mit seiner lebendigen Atmosphäre und den vielen Festivals an.",
+      "hu": "Pécs, a Mecsek-hegység lábánál fekvő mediterrán hangulatú nagyváros, Magyarország egyik leggazdagabb történelmi és kulturális örökséggel rendelkező települése. A rómaiak által Sopianae néven alapított város már a korai kereszténység idején fontos központ volt, amit a világörökség részét képező ókeresztény sírkamrák is tanúsítanak. Pécs egyedülállóságát a különböző kultúrák rétegződése adja: a római falak felett gótikus székesegyház, a török hódoltság korából pedig mecsetek és minaretek maradtak fenn. A város a művészetek otthona is, itt található a világhírű Zsolnay Porcelánmanufaktúra és a róla elnevezett kulturális negyed. 2010-ben Európa Kulturális Fővárosaként Pécs megmutatta a világnak pezsgő szellemi életét és modern építészeti értékeit.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": ["Pécs ad otthont az UNESCO Világörökség részét képező ókeresztény sírkamráknak.",
+        "Itt alapították Magyarország első egyetemét 1367-ben, Nagy Lajos király idején.",
+        "A Zsolnay Kulturális Negyed az ország egyik legnagyobb iparművészeti és kulturális központja.",
+        "A Gázi Kászim pasa dzsámija a legnagyobb Magyarországon fennmaradt oszmán építmény.",
+        "Pécs híres a tüke-misztikumról és a Mecsek-oldal különleges, mediterrán mikroklímájáról."],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "siklos",
@@ -2061,6 +2589,25 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/siklos.webp",
     description: {"de": "Stadt in Südungarn, berühmt für ihre gut erhaltene Burg.", "hu": "Dél-magyarországi város, jól karbantartott váráról híres.", "ro": "Oraș în sudul Ungariei, faimos pentru castelul său bine conservat.", "en": "City in southern Hungary, famous for its well-preserved castle."},
     facts: {"de": ["Die Burg Siklós wurde im 13. Jahrhundert erbaut.", "Liegt in der Nähe der Weinregion Villány."], "hu": ["A siklósi vár a 13. században épült.", "A villányi borvidék közelében fekszik."], "ro": ["Castelul Siklós a fost construit în secolul al XIII-lea.", "Situat în apropierea regiunii viticole Villány."], "en": ["Siklós Castle was built in the 13th century.", "Located near the Villány wine region."]},
+  
+    descriptionAdvanced: {
+      "de": "Siklós, im sonnigen Süden des Komitats Baranya gelegen, beherbergt eine der am besten erhaltenen mittelalterlichen Burgen Ungarns. Die Burg Siklós thront auf einer Anhöhe und bietet faszinierende Einblicke in die Renaissance-Architektur sowie eine reiche Ausstellung zur Geschichte der ungarischen Adelsfamilien. Die Stadt liegt im Herzen einer bedeutenden Weinregion und ist bekannt für ihre Gastfreundschaft und die Nähe zum Heilbad Harkány. Ein Spaziergang durch die historischen Räume der Burg führt Besucher vorbei an prachtvollen Kapellen und massiven Wehrtürmen. Siklós ist ein Ort, an dem die Geschichte lebendig wird und man die Ruhe der südungarischen Landschaft in vollen Zügen genießen kann.",
+      "hu": "Siklós a Villányi-hegység déli lábánál fekvő történelmi város, amely leginkább monumentális és épségben maradt váráról ismert. A siklósi vár Magyarország egyik legjelentősebb erődítménye, amely a gótikától a barokkig számos építészeti stílust ötvöz, s falaiban ma interaktív kiállítások mutatják be a várúr és a várnép életét. A város vallási emlékei, mint a Malkocs bej dzsámi vagy a kegytemplom, a különböző kultúrák évszázados jelenlétét hirdetik. Siklós közvetlen szomszédságában található a harkányi gyógyfürdő és a villányi borvidék, így a település a pihenés és a gasztronómia kedvelőinek is ideális célpontja. A táj nyugalma és a történelmi falak varázsa egyedülálló élményt nyújt minden látogatónak.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Die Burg Siklós wurde bereits im 13. Jahrhundert gegründet.", "Sie ist eine der wenigen Burgen Ungarns, die nie vollständig zerstört wurden.", "Die Burg beherbergt eine prachtvolle Kapelle mit gotischen Elementen.", "In der Nähe befindet sich die berühmte Wallfahrtskirche von Máriagyűd."],
+      "hu": [
+        "A siklósi vár az ország egyik legépebben fennmaradt középkori vára.",
+        "Itt forgatták a híres 'A Tenkes kapitánya' című magyar sorozat jelentős részét.",
+        "A várban látható egy 15. századi gótikus kápolna, amelynek falfestményei világhírűek.",
+        "A városban található Malkocs bej dzsámi elnyerte az Europa Nostra-díjat a példás felújításért.",
+        "Siklós híres bortermeléséről is, amely a Villányi borvidék szerves része."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "mohacs",
@@ -2071,6 +2618,25 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/mohacs.webp",
     description: {"de": "Stadt an der Donau, bekannt für die Schlacht von Mohács und das Busójárás-Festival.", "hu": "Duna-parti város, a mohácsi vészről és a busójárásról ismert.", "ro": "Oraș pe Dunăre, cunoscut pentru Bătălia de la Mohács și festivalul Busójárás.", "en": "City on the Danube, known for the Battle of Mohács and the Busójárás festival."},
     facts: {"de": ["Schauplatz der Schlacht von Mohács 1526.", "Das Busójárás ist UNESCO-Kulturerbe."], "hu": ["Az 1526-os mohácsi csata helyszíne.", "A busójárás UNESCO szellemi kulturális örökség."], "ro": ["Locul Bătăliei de la Mohács din 1526.", "Busójárás este patrimoniu cultural UNESCO."], "en": ["Site of the Battle of Mohács in 1526.", "The Busójárás is UNESCO cultural heritage."]},
+  
+    descriptionAdvanced: {
+      "de": "Mohács, am Ufer der Donau gelegen, ist in der ungarischen Geschichte als Ort zweier schicksalhafter Schlachten gegen das Osmanische Reich bekannt. Heute ist die Stadt vor allem für das spektakuläre Busójárás-Festival berühmt, das zum immateriellen UNESCO-Kulturerbe gehört und jährlich das Ende des Winters feiert. Bei diesem Volksfest ziehen maskierte Gestalten mit furchterregenden Holzmasken und Schafsfellkostümen durch die Straßen, um böse Geister zu vertreiben. Mohács ist zudem ein bedeutender Donauhafen und ein kultureller Treffpunkt für Ungarn, Donauschwaben und Kroaten. Die Stadt bewahrt ein reiches Erbe an Volkskunst und traditioneller Architektur, das Besucher aus aller Welt anzieht.",
+      "hu": "Mohács a Duna partján fekvő történelmi város, amelynek neve örökre összefonódott az 1526-os sorsdöntő csatával, amely a középkori magyar királyság bukását és a török hódoltság kezdetét jelentette. A város határában található Nemzeti Emlékhely lenyűgöző szobrai és tömegsírjai méltó emléket állítanak a hősöknek. Mohács azonban ma már nem csak a gyászról szól: a város világhírű népünnepélye, a Busójárás, az UNESCO szellemi örökség része, amely minden évben ezreket vonz a télbúcsúztató álarcos forgataggal. A Duna-parti város pezsgő kulturális életet, modern múzeumokat és a folyó menti ártéri erdők nyugalmát kínálja az idelátogatóknak.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Busójárás-Festival in Mohács ist Teil des UNESCO-Weltkulturerbes.", "Die Schlacht von Mohács im Jahr 1526 markierte den Beginn der Türkenherrschaft in Ungarn.", "Die Gedenkstätte der Schlacht von Mohács erinnert an den heldenhaften Kampf der Soldaten.", "Die Stadt ist bekannt für ihre lebendige Keramik- und Töpfertradition."],
+      "hu": [
+        "Mohács híres a Busójárásról, amely 2009-ben került fel az UNESCO világörökségi listájára.",
+        "Az 1526-os csata helyszínén 1976-ban nyílt meg a monumentális Nemzeti Emlékhely.",
+        "A város központjában áll a Fogadalmi Templom, amely a csata 400. évfordulójára épült.",
+        "Mohácson található a Busóudvar, ahol az év minden napján megismerhető a busóhagyomány.",
+        "A város fontos Duna-menti határkikötő Magyarország és Horvátország között."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "villany",
@@ -2080,6 +2646,25 @@ export const hungaryCities: POI[] = [
     name: {"de": "Wieland", "hu": "Villány", "ro": "Villány", "en": "Villány"},    description: {"de": "Zentrum einer der berühmtesten Rotweinregionen Ungarns.", "hu": "Magyarország egyik leghíresebb vörösborvidékének központja.", "ro": "Centrul uneia dintre cele mai faimoase regiuni de vin roșu din Ungaria.", "en": "Center of one of Hungary's most famous red wine regions."},
     facts: {"de": ["Bekannt für vollmundige Rotweine.", "Beliebtes Ziel für Weintourismus."], "hu": ["Testes vörösborairól ismert.", "Népszerű borturisztikai célpont."], "ro": ["Cunoscut pentru vinurile roșii corpolente.", "Destinație populară pentru turismul viticol."], "en": ["Known for full-bodied red wines.", "Popular destination for wine tourism."]},
     image: "/poi-images/villany.webp",
+  
+    descriptionAdvanced: {
+      "de": "Villány gilt als die ",
+      "hu": "Villány Magyarország egyik legdélebbi és leghíresebb borvidékének központja, amelyet a 'vörösborok városa'-ként ismernek világszerte. A település arculatát a történelmi pincesor, a rendezett szőlőültetvények és a mediterrán jellegű éghajlat határozza meg, amely kiváló feltételeket biztosít a testes vörösborok, mint a Cabernet vagy a Franc számára. Villány nemcsak a borászatról szól, hanem a minőségi gasztronómiáról és a borkultúrához kapcsolódó fesztiválokról is, amelyek minden évben tömegeket vonzanak. A város környéki dombok kiváló túrázási lehetőségeket kínálnak, míg a helyi borászok vendégszeretete és a pincék hűvös nyugalma felejthetetlen élményt nyújt a kikapcsolódni vágyóknak.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Villány ist die südlichste und wärmste Weinregion Ungarns.", "Die Region ist berühmt für ihre vollmundigen Rotweine aus der Cabernet Franc Traube.", "Die Weinstraße von Villány-Siklós war die erste ihrer Art in Ungarn.", "Jährlich im Herbst findet in Villány ein großes Rotweinfestival statt."],
+      "hu": [
+        "Villány volt az ország első borvidéke, amely bevezette a védett eredetű borok rendszerét.",
+        "A történelmi pincesor házai műemléki védettség alatt állnak.",
+        "Itt rendezik meg minden évben a Villányi Vörösbor Fesztivált, a régió legnagyobb ünnepét.",
+        "A villányi borok rendszeresen nyernek aranyérmeket a legfontosabb nemzetközi borversenyeken.",
+        "A város határában található a Szársomlyó-hegy, amely különleges és ritka növényvilágáról híres."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "kecskemet",
@@ -2136,6 +2721,25 @@ export const hungaryCities: POI[] = [
         "A major center for fruit and vegetable cultivation in the Great Plain."
       ]
     },
+  
+    descriptionAdvanced: {
+      "de": "Kecskemét, bekannt als die ",
+      "hu": "Kecskemét, a 'hírös város' az Alföld szívében, Bács-Kiskun vármegye székhelye, amely lenyűgöző szecessziós építészetéről és gazdag kulturális életéről híres. A város főtere egyedülálló építészeti együttes, ahol a Cifrapalota színes kerámiái és a Városháza monumentális tömbje varázsolja el a látogatókat. Kecskemét a magyar zenei nevelés és képzőművészet egyik központja, Kodály Zoltán szülővárosaként világszerte ismerik a Kodály-módszert. A város környéke, a Kiskunság pusztai világa és a híres kecskeméti barackpálinka a magyar hagyományok legjavát kínálja. Kecskemét ma modern ipari központ is, ahol a hagyomány és a csúcstechnológia harmonikusan él egymás mellett.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Rathaus von Kecskemét besitzt ein Glockenspiel, das klassische Melodien spielt.", "Die Stadt beherbergt das Museum für Ungarische Naive Kunst.", "Kecskemét ist das Zentrum der ungarischen Obstverarbeitung und Pálinka-Herstellung.", "Der Cifrapalota ist ein Meisterwerk des ungarischen Jugendstils."],
+      "hu": [
+        "Kecskemét Városházája a magyar szecesszió egyik legszebb alkotása, Lechner Ödön tervezte.",
+        "A Cifrapalota homlokzatát a pécsi Zsolnay-gyár színes majolikái díszítik.",
+        "Itt született Kodály Zoltán, a világhírű zeneszerző és zenepedagógus.",
+        "Kecskemét híres a baracktermesztéséről és a világszerte elismert kecskeméti barackpálinkáról.",
+        "A várostól nem messze található a Kiskunsági Nemzeti Park, az ország egyik legfontosabb természetvédelmi területe."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "kalocsa",
@@ -2146,6 +2750,25 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/kalocsa.webp",
     description: {"de": "Eine der ältesten Städte Ungarns, berühmt für Paprika und Volkskunst.", "hu": "Magyarország egyik legrégebbi városa, híres a paprikáról és a népművészetről.", "ro": "Unul dintre cele mai vechi orașe din Ungaria, faimos pentru boia și arta populară.", "en": "One of the oldest cities in Hungary, famous for paprika and folk art."},
     facts: {"de": ["Zentrum des ungarischen Paprikaanbaus.", "Sitz eines Erzbistums."], "hu": ["A magyar paprikatermesztés központja.", "Érseki székhely."], "ro": ["Centrul cultivării boielei maghiare.", "Sediul unei arhiepiscopii."], "en": ["Center of Hungarian paprika cultivation.", "Seat of an archbishopric."]},
+  
+    descriptionAdvanced: {
+      "de": "Kalocsa, eine der ältesten Städte Ungarns am linken Ufer der Donau, ist weltberühmt für zwei Dinge: Paprika und Stickereien. Die Stadt ist ein bedeutender Erzbischofssitz mit einer prachtvollen barocken Kathedrale und einer wertvollen Diözesanbibliothek. Besucher können im Paprikamuseum alles über den Anbau und die Verarbeitung des ",
+      "hu": "Kalocsa Magyarország egyik legrégebbi városa a Duna mentén, amely több mint ezer éve az ország egyik legfontosabb vallási és kulturális központja. Az érseki székhely monumentális Főszékesegyháza és az Érseki Palota könyvtára felbecsülhetetlen értékeket őriz. Kalocsa azonban nemcsak a hitről, hanem a színekről is szól: világhírű a kalocsai fűszerpaprika, amely az ország 'piros aranya', valamint a színpompás kalocsai hímzés és falpingálás, amely az UNESCO szellemi örökség része. A városban sétálva lépten-nyomon találkozhatunk a népművészet élő hagyományaival és a pusztai vendégszeretettel, ami Kalocsát a magyar identitás egyik legfontosabb őrzőhelyévé teszi.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Kalocsa ist seit der Zeit des Heiligen Stephan ein bedeutender Erzbischofssitz.", "Die Stadt gilt als die 'Hauptstadt des Paprikas' in Ungarn.", "Die Kalocsaer Volkskunst mit ihren bunten Blumenmustern ist weltweit bekannt.", "In der Stadt befindet sich ein einzigartiges Porzellanmuseum."],
+      "hu": [
+        "Kalocsa az ország egyik legrégebbi püspöksége, amelyet Szent István király alapított 1001-ben.",
+        "A kalocsai népművészet (hímzés, pingálás) 2012-ben került fel az UNESCO szellemi örökség listájára.",
+        "Itt található a Paprika Múzeum, amely bemutatja a kalocsai paprika termesztésének történetét.",
+        "Az Érseki Könyvtárban látható egy 11. századi Biblia és számos középkori kódex.",
+        "A város híres rendezvénye a Kalocsai Paprikafesztivál, amelyet minden ősszel megtartanak."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "kiskunmajsa",
@@ -2156,6 +2779,25 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/kiskunmajsa.webp",
     description: {"de": "Kleinstadt in der Großen Tiefebene, bekannt für ihr Thermalbad.", "hu": "Alföldi kisváros, termálfürdőjéről ismert.", "ro": "Mic oraș în Marea Câmpie, cunoscut pentru baia sa termală.", "en": "Small town in the Great Plain, known for its thermal bath."},
     facts: {"de": ["Beliebtes Ziel für Kururlauber.", "Liegt in der Region Kiskunság."], "hu": ["Népszerű célpont a gyógyulni vágyók körében.", "A Kiskunság régióban fekszik."], "ro": ["Destinație populară pentru turiștii de spa.", "Situat în regiunea Kiskunság."], "en": ["Popular destination for spa tourists.", "Located in the Kiskunság region."]},
+  
+    descriptionAdvanced: {
+      "de": "Kiskunmajsa ist ein aufstrebender Kurort in der ungarischen Tiefebene, bekannt für sein weitläufiges Jonathermál Heil- und Erlebnisbad. Das Thermalwasser der Region wurde in den 1980er Jahren entdeckt und zieht seither Erholungssuchende an, die Linderung bei Gelenk- und Wirbelsäulenbeschwerden suchen. Die Stadt bewahrt zudem das Erbe der ungarischen Revolution von 1956 in einem beeindruckenden Gedenkmuseum, das landesweit einzigartig ist. Die umliegende Puszta-Landschaft lädt zu ausgiebigen Ausritten und Kutschfahrten ein, die die ursprüngliche Lebensweise der Kiskunság-Region vermitteln. Kiskunmajsa bietet eine ideale Kombination aus gesundheitlicher Erholung, historischem Gedenken und Naturerlebnis.",
+      "hu": "Kiskunmajsa a Kiskunság szívében fekvő dinamikus fürdőváros, amely leginkább a Jonathermál Gyógy- és Élményfürdőjéről ismert. A város turizmusa a feltörő gyógyvízre épül, amely kiválóan alkalmas mozgásszervi és reumás panaszok enyhítésére, s tágas medencéivel a családok kedvelt üdülőhelye. Kiskunmajsa azonban történelmi emlékezetében is jelentős: itt található az ország egyetlen 1956-os Múzeuma, amely a forradalom és szabadságharc vidéki eseményeinek állít emléket. A város határában a pusztai táj nyugalma, az ősborókás és a hagyományos tanyasi világ várja a természet és a nyugalom kedvelőit. Kiskunmajsa a gyógyulás, a pihenés és a történelmi emlékezet különleges találkozóhelye az Alföldön.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Jonathermál-Bad in Kiskunmajsa ist für seine familienfreundliche Atmosphäre bekannt.", "Die Stadt beherbergt das einzige 1956er Revolutionsmuseum auf dem Land in Ungarn.", "In der Umgebung befinden sich geschützte Salzseen mit einer seltenen Flora und Fauna.", "Kiskunmajsa ist ein wichtiges Zentrum für den ländlichen Tourismus in der Tiefebene."],
+      "hu": [
+        "A kiskunmajsai gyógyvíz 72 fokos hőmérsékleten tör fel a föld mélyéből.",
+        "Az 1956-os Múzeumot Pongrátz Gergely, a forradalom egyik hőse alapította a városban.",
+        "A római katolikus templom barokk épülete a város egyik legszebb műemléke.",
+        "Kiskunmajsa híres a sörfesztiváljáról és a hagyományos pusztai lovasnapokról.",
+        "A város határában található kiterjedt erdők és szikes tavak gazdag madárvilágnak adnak otthont."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "bekescsaba",
@@ -2212,6 +2854,25 @@ export const hungaryCities: POI[] = [
         "A popular destination for cycling tourists in the flat Great Plain."
       ]
     },
+  
+    descriptionAdvanced: {
+      "de": "Békéscsaba, das Zentrum des Komitats Békés, ist weit über Ungarn hinaus für seine kulinarischen Traditionen bekannt, insbesondere für die berühmte Békéscsabaer Wurst. Die Stadt blickt auf eine reiche Geschichte zurück, die eng mit der Ansiedlung slowakischer Kolonisten im 18. Jahrhundert verbunden ist, was sich noch heute in der Kultur und Architektur widerspiegelt. Das Munkácsy-Museum würdigt das Werk des weltberühmten Malers Mihály Munkácsy, der seine Jugend in der Stadt verbrachte. Jährlich im Herbst lockt das Wurstfestival Zehntausende Besucher an, die die gastronomische Vielfalt der Region feiern. Békéscsaba ist zudem eine Stadt der Brücken, da der idyllische Élővíz-Kanal das gesamte Stadtzentrum durchzieht und zu entspannten Spaziergängen einlädt.",
+      "hu": "Békéscsaba az Alföld délkeleti részén fekvő város, Békés vármegye székhelye, amely leginkább világhírű kolbászáról és gazdag evangélikus hagyományairól ismert. A város arculatát a 18. században ide települt szlovákok kultúrája és a polgári fejlődés határozta meg, amit az impozáns evangélikus Nagytemplom – Közép-Európa legnagyobb evangélikus temploma – is hirdet. Békéscsaba a magyar gasztronómia egyik fellegvára, a minden évben megrendezett Csabai Kolbászfesztivál az ország egyik legnagyobb turisztikai eseménye. A város kulturális életét a Munkácsy Mihály Múzeum és a Jókai Színház teszi teljessé, míg a környező folyók és erdők kiváló lehetőséget adnak a természetközeli kikapcsolódásra.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Békéscsabaer Wurstfestival ist eines der größten gastronomischen Ereignisse Mitteleuropas.", "Die evangelische Kirche von Békéscsaba ist die größte ihrer Art in ganz Ungarn.", "Der Maler Mihály Munkácsy verbrachte hier seine prägenden Jahre.", "Die Stadt ist bekannt für ihre erstklassige Geflügelzucht und landwirtschaftlichen Produkte."],
+      "hu": [
+        "A békéscsabai evangélikus Nagytemplom Magyarország és Közép-Európa legnagyobb ilyen felekezetű temploma.",
+        "A Csabai kolbász 2013 óta Hungarikum minősítéssel rendelkezik.",
+        "Munkácsy Mihály, a világhírű festőművész itt töltötte asztalosinas éveit, s a múzeum őrzi hagyatékát.",
+        "A város híres szülötte Kodály Zoltán és Arany János barátja, a festő Pósteleki kastély is a közelben van.",
+        "Békéscsaba az ország egyik legfontosabb röplabda- és sportközpontja."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "gyula",
@@ -2222,6 +2883,25 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/gyula.webp",
     description: {"de": "Historische Kurstadt nahe der rumänischen Grenze.", "hu": "Történelmi fürdőváros a román határ közelében.", "ro": "Oraș balnear istoric aproape de granița cu România.", "en": "Historic spa town near the Romanian border."},
     facts: {"de": ["Bekannt für das Burgbad.", "Die Burg Gyula ist die einzige intakte Ziegelburg Mitteleuropas."], "hu": ["A Várfürdőről ismert.", "A gyulai vár Közép-Európa egyetlen épen maradt téglavára."], "ro": ["Cunoscut pentru Baia Cetății.", "Cetatea Gyula este singura cetate de cărămidă intactă din Europa Centrală."], "en": ["Known for the Castle Bath.", "Gyula Castle is the only intact brick castle in Central Europe."]},
+  
+    descriptionAdvanced: {
+      "de": "Gyula, an der Grenze zu Rumänien im Südosten Ungarns gelegen, ist eine Stadt von historischer Eleganz und heilender Kraft. Das Wahrzeichen der Stadt ist die einzige vollständig erhaltene mittelalterliche Backsteinburg in ganz Mitteleuropa, die am Ufer eines idyllischen Sees thront. Direkt neben der Burg befindet sich das Gyulaer Burgbad, eines der schönsten Heilbäder Ungarns, das in dem weitläufigen Park des einstigen Almásy-Schlosses angelegt wurde. Das Almásy-Schloss selbst ist heute ein interaktives Besucherzentrum, das faszinierende Einblicke in das Leben des ungarischen Adels und ihrer Bediensteten bietet. Gyula ist zudem die Geburtsstadt des Komponisten Ferenc Erkel, dem Schöpfer der ungarischen Nationalhymne, dessen Erbe in der ganzen Stadt gepflegt wird.",
+      "hu": "Gyula a dél-alföldi régió egyik legszebb és leglátogatottabb történelmi városa, amely különleges középkori hangulatával és világhírű várfürdőjével bűvöli el a látogatókat. A város ékköve a gyulai vár, amely Közép-Európa egyetlen épségben maradt gótikus síkvára, s falaiban ma várjátékok és múzeum repít vissza a múltba. Közvetlenül a vár mellett terül el az egykori Almásy-kastély parkjában a Gyulai Várfürdő, amely gyógyvize és modern élménymedencéi révén az ország egyik legnépszerűbb pihenőhelye. Gyula rendezett parkjai, szökőkútjai és híres cukrászdái (mint a Százéves cukrászda) a békebeli kisvárosi eleganciát ötvözik a modern turisztikai kínálattal.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Die Burg Gyula ist die am besten erhaltene gotische Backsteinburg in Mitteleuropa.", "Das Burgbad verfügt über ein einzigartiges Heilwasser mit hohem Mineralstoffgehalt.", "In Gyula wurde Ferenc Erkel, der Komponist der ungarischen Nationalhymne, geboren.", "Das 'Hundertjährige Kaffeehaus' der Stadt ist eine der ältesten Konditoreien Ungarns."],
+      "hu": [
+        "A gyulai vár 24 szobából álló múzeuma a 15. századi végvári életet mutatja be.",
+        "A Gyulai Várfürdő az Almásy-kastély 8,5 hektáros természetvédelmi parkjában található.",
+        "Itt található Magyarország második legrégebbi cukrászdája, a híres Százéves cukrászda.",
+        "Gyula híres szülötte Erkel Ferenc, a magyar nemzeti opera megteremtője és a Himnusz zeneszerzője.",
+        "A várost átszeli az Élővíz-csatorna, amely hangulatos sétányokat és csónakázási lehetőséget biztosít."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "szarvas",
@@ -2232,6 +2912,25 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/szarvas.webp",
     description: {"de": "Stadt am Fluss Körös, bekannt für ihr Arboretum.", "hu": "Körös-parti város, arborétumáról ismert.", "ro": "Oraș pe râul Körös, cunoscut pentru arboretul său.", "en": "City on the Körös river, known for its arboretum."},
     facts: {"de": ["Das Arboretum Szarvas ist das größte in Ungarn.", "Hier befindet sich das geografische Zentrum des historischen Ungarns."], "hu": ["A Szarvasi Arborétum a legnagyobb Magyarországon.", "Itt található a történelmi Magyarország földrajzi középpontja."], "ro": ["Arboretul Szarvas este cel mai mare din Ungaria.", "Aici se află centrul geografic al Ungariei istorice."], "en": ["The Szarvas Arboretum is the largest in Hungary.", "The geographical center of historical Hungary is located here."]},
+  
+    descriptionAdvanced: {
+      "de": "Szarvas, im Herzen der ungarischen Tiefebene am Ufer der Körös gelegen, ist ein Juwel der Natur und Bildung. Die Stadt beherbergt das Pepi-Garten-Arboretum, einen der bedeutendsten botanischen Gärten des Landes mit einer beeindruckenden Vielfalt an seltenen Pflanzenarten aus aller Welt. Inmitten des Arboretums befindet sich das Mini-Ungarn-Modellpark, in dem man die wichtigsten Sehenswürdigkeiten des historischen Ungarns im Miniaturformat bewundern kann. Szarvas markiert zudem den geografischen Mittelpunkt des historischen Königreichs Ungarn, an den ein markantes Denkmal in Form einer Windmühle erinnert. Die unberührten Ufer der Körös bieten ideale Bedingungen für Angler, Kanufahrer und Naturliebhaber, die die Ruhe der ungarischen Landschaft suchen.",
+      "hu": "Szarvas a Hármas-Körös partján fekvő hangulatos kisváros, amelyet gyakran az Alföld ékköveként emlegetnek természeti szépségei és kulturális kincsei miatt. Legfontosabb látnivalója a Szarvasi Arborétum (Pepi-kert), Magyarország egyik legnagyobb és legszebb növénygyűjteménye, ahol több mint 1600 növényfaj található. Közvetlenül mellette fekszik a Mini Magyarország makettpark, amely interaktív módon mutatja be az ország legszebb épületeit. Szarvas történelmi jelentőségét adja, hogy itt található a történelmi Magyarország földrajzi középpontja is. A folyóparti sétányok, a vízi színház és a környező vizek vadregényes tájai Szarvast a természetjárók és a családosok egyik kedvenc magyarországi célpontjává teszik.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Arboretum von Szarvas (Pepi-Garten) beherbergt über 1.600 verschiedene Baumarten.", "Das Mini-Ungarn-Modellland zeigt über 50 detailgetreue Nachbildungen historischer Gebäude.", "Szarvas liegt am geografischen Mittelpunkt des einstigen Großungarns.", "Die Stadt ist ein wichtiges Zentrum für die Erforschung der Süßwasserfischerei."],
+      "hu": [
+        "A Szarvasi Arborétumot gróf Bolza Pál alapította a 19. század végén.",
+        "Szarvason található a történelmi Magyarország földrajzi középpontját jelző emlékmű.",
+        "A Szarvasi Vízi Színház az ország egyik leglátványosabb szabadtéri színpada a Holt-Körös partján.",
+        "Itt működik az ország egyik legjelentősebb öntözési és haltenyésztési kutatóintézete.",
+        "A Holt-Körös partján található Bolza-kastély a város egyik legszebb klasszicista épülete."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "miskolc",
@@ -2288,6 +2987,25 @@ export const hungaryCities: POI[] = [
         "The city has a long-standing tradition in heavy industry and metallurgy."
       ]
     },
+  
+    descriptionAdvanced: {
+      "de": "Miskolc, am östlichen Rand des Bükk-Gebirges gelegen, ist die viertgrößte Stadt Ungarns und ein Tor zu spektakulären Naturwundern. Die Stadt hat eine lange industrielle Tradition, wandelt sich aber zunehmend zu einem Zentrum für Tourismus und Kultur. Das absolute Highlight ist das Höhlenbad von Miskolctapolca, ein in Europa einzigartiges Thermalbad in natürlichen Höhlengängen. Ebenfalls sehenswert ist die mittelalterliche Burg Diósgyőr, die einst eine Lieblingsresidenz ungarischer Königinnen war und heute durch moderne Rekonstruktionen beeindruckt. Der Stadtteil Lillafüred mit seinem malerischen Hámori-See und den Wasserfällen gilt als einer der romantischsten Orte des Landes.",
+      "hu": "Miskolc Magyarország egyik legnagyobb városa és Észak-Magyarország gazdasági, kulturális központja, amely a Bükk-hegység lábánál fekszik. A város arculatát az egykori nehézipar és a természeti kincsek különleges találkozása határozza meg. Legfontosabb turisztikai vonzereje a miskolctapolcai Barlangfürdő, ahol Európában egyedülálló módon természetes karsztjáratokban fürödhetnek a látogatók. Miskolchoz tartozik a festői Lillafüred a Palotaszállóval és a Hámori-tóval, valamint a középkori diósgyőri vár, amely a magyar királynék jegyajándéka volt. A város pezsgő kulturális életét a Miskolci Nemzeti Színház és a nemzetközi operafesztivál teszi teljessé, miközben a Bükk erdői a természetjárók paradicsomát kínálják.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Miskolctapolca beherbergt ein Thermalbad, das in einem natürlichen Höhlensystem angelegt wurde.", "Die Burg Diósgyőr war im Mittelalter traditionell der Witwensitz der ungarischen Königinnen.", "Der Stadtteil Lillafüred ist bekannt für seinen terrassenförmig angelegten Hängegarten und Wasserfälle.", "Das Nationale Theater von Miskolc war das erste Theatergebäude aus Stein im heutigen Ungarn."],
+      "hu": [
+        "Miskolctapolcán található Európa egyetlen természetes barlangfürdője.",
+        "A diósgyőri vár volt a középkori Magyarország egyik legjelentősebb lovagvára.",
+        "A Miskolci Nemzeti Színház az ország legrégebbi kőszínháza, 1823-ban nyílt meg.",
+        "Lillafüreden található Magyarország legmagasabb függőleges vízesése (20 méter).",
+        "Az avasi kilátóból lenyűgöző panoráma nyílik az egész városra és a Bükk vonulataira."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "szerencs",
@@ -2297,6 +3015,25 @@ export const hungaryCities: POI[] = [
     name: {"de": "Szerencs", "hu": "Szerencs", "ro": "Szerencs", "en": "Szerencs"},    description: {"de": "Das 'Tor zu Tokaj', bekannt für seine Schokoladenfabrik.", "hu": "A 'Tokaji kapu', csokoládégyáráról ismert.", "ro": "'Poarta către Tokaj', cunoscut pentru fabrica sa de ciocolată.", "en": "The 'Gateway to Tokaj', known for its chocolate factory."},
     facts: {"de": ["Hat eine Burg aus der Renaissancezeit.", "Traditionelle Zucker- und Schokoladenproduktion."], "hu": ["Reneszánsz kori várral rendelkezik.", "Hagyományos cukor- és csokoládégyártás."], "ro": ["Are un castel din perioada Renașterii.", "Producție tradițională de zahăr și ciocolată."], "en": ["Has a Renaissance-era castle.", "Traditional sugar and chocolate production."]},
     image: "/poi-images/szerencs.webp",
+  
+    descriptionAdvanced: {
+      "de": "Szerencs gilt als das ",
+      "hu": "Szerencs a Zempléni-hegység déli kapujánál fekvő történelmi város, amelyet gyakran a 'csokoládé városaként' is emlegetnek a nagy múltú édességgyártása miatt. A település legfontosabb műemléke a reneszánsz stílusú Rákóczi-vár, amely egykor a híres erdélyi fejedelmi család birtoka volt, s ma kulturális központként működik. A vár falai között kapott helyet a Zempléni Múzeum, amely világhírű képeslapgyűjteményéről és cukoripari kiállításáról nevezetes. Szerencs a Tokaji borvidék kapuja is, így a környék kiváló borai is hozzátartoznak a város kínálatához. A rendezett parkok, a várkert tava és a csokoládé illata egyedülálló, barátságos hangulatot kölcsönöz a településnek.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Die Burg Szerencs war im 17. Jahrhundert ein wichtiger Stützpunkt der Rákóczi-Fürsten.", "Die Stadt ist landesweit bekannt für ihre historische Schokoladenproduktion.", "Jährlich findet in Szerencs das größte Schokoladenfestival Ungarns statt.", "Die Stadt dient als wichtiger Knotenpunkt und Eingangstor zur Weinregion Tokaj."],
+      "hu": [
+        "1605-ben a szerencsi várban választották Magyarország fejedelmévé Bocskai Istvánt.",
+        "A Zempléni Múzeum képeslapgyűjteménye az egyik legnagyobb ilyen jellegű gyűjtemény a világon.",
+        "Szerencsen működött évtizedekig az ország egyik legjelentősebb cukorgyára.",
+        "A városban minden évben megrendezik az Országos Csokoládé Fesztivált.",
+        "A Rákóczi-vár udvara kiváló akusztikája miatt népszerű koncerthelyszín."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "tokaj",
@@ -2307,6 +3044,25 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/tokaj.webp",
     description: {"de": "Zentrum der historischen Weinregion Tokaj, berühmt für Süßweine.", "hu": "A történelmi Tokaji borvidék központja, édes borairól híres.", "ro": "Centrul regiunii viticole istorice Tokaj, faimos pentru vinurile dulci.", "en": "Center of the historic Tokaj wine region, famous for sweet wines."},
     facts: {"de": ["Die Weinregion ist UNESCO-Welterbe.", "Heimat des Tokaji Aszú."], "hu": ["A borvidék UNESCO világörökség.", "A Tokaji Aszú hazája."], "ro": ["Regiunea viticolă este în Patrimoniul Mondial UNESCO.", "Casa vinului Tokaji Aszú."], "en": ["The wine region is a UNESCO World Heritage site.", "Home of the Tokaji Aszú."]},
+  
+    descriptionAdvanced: {
+      "de": "Tokaj ist das Herz und der Namensgeber der berühmtesten Weinregion Ungarns, die zum UNESCO-Weltkulturerbe gehört. Am Zusammenfluss von Theiß und Bodrog gelegen, herrscht hier ein besonderes Mikroklima, das die Produktion des edelsüßen ",
+      "hu": "Tokaj a világ első zárt borvidékének névadó városa a Tisza és a Bodrog találkozásánál, a magyar borászat és kultúra egyik legfontosabb szimbóluma. A vulkanikus kopasz-hegy lábánál fekvő település hangulatos utcáival, patinás borospincéivel és a folyóparti panorámával varázsolja el a látogatókat. Tokaj világhírnevét a 'királyok borának' nevezett aszúnak köszönheti, amely a különleges mikroklíma és a vulkanikus talaj eredménye. A város 2002 óta az UNESCO Világörökség része mint kultúrtáj. A látogatókat a Világörökségi Bormúzeum, a neves pincészetek és a Bodrogon tehető hajótúrák várják, amelyek a minőségi pihenés és a nemes hagyományok élményét nyújtják.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Die Weinregion Tokaj wurde 2002 zum UNESCO-Weltkulturerbe erklärt.", "Der Tokaji Aszú wird oft als 'Wein der Könige und König der Weine' bezeichnet.", "Die Stadt liegt malerisch am Zusammenfluss der Flüsse Theiß und Bodrog.", "Die labyrinthartigen Weinkeller der Stadt erstrecken sich über viele Kilometer unter der Erde."],
+      "hu": [
+        "A Tokaji borvidék 1737 óta a világ első zárt borvidéke, az UNESCO világörökség része.",
+        "Itt készül a világhírű Tokaji Aszú, amelyet XIV. Lajos a 'borok királyának' nevezett.",
+        "A város alatt kiterjedt, évszázados pincebirodalom húzódik, ahol a nemespenész borítja a falakat.",
+        "Tokajnál találkozik a Bodrog és a Tisza folyó, ami népszerű horgász- és vízitúra-helyszín.",
+        "A Bodrog-parti sétányról látható a Tokaji-hegy, amely a borvidék szimbolikus központja."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "aggtelek",
@@ -2316,6 +3072,25 @@ export const hungaryCities: POI[] = [
     name: {"de": "Aggtelek", "hu": "Aggtelek", "ro": "Aggtelek", "en": "Aggtelek"},    description: {"de": "Nationalpark, berühmt für sein ausgedehntes Tropfsteinhöhlensystem.", "hu": "Nemzeti park, kiterjedt cseppkőbarlang-rendszeréről híres.", "ro": "Parc național, faimos pentru sistemul său extins de peșteri cu stalactite.", "en": "National park, famous for its extensive stalactite cave system."},
     facts: {"de": ["Die Baradla-Höhle ist Teil des UNESCO-Welterbes.", "Erstreckt sich über die Grenze zur Slowakei."], "hu": ["A Baradla-barlang az UNESCO világörökség része.", "Átnyúlik a szlovák határon."], "ro": ["Peștera Baradla este parte a Patrimoniului Mondial UNESCO.", "Se extinde peste granița cu Slovacia."], "en": ["The Baradla Cave is part of the UNESCO World Heritage site.", "Extends across the border into Slovakia."]},
     image: "/poi-images/aggtelek.webp",
+  
+    descriptionAdvanced: {
+      "de": "Aggtelek ist weltberühmt für das Baradla-Höhlensystem, das zusammen mit dem angrenzenden slowakischen Karst zum UNESCO-Weltkulturerbe gehört. Die Baradla-Höhle ist die größte und beeindruckendste Tropfsteinhöhle Mitteleuropas mit faszinierenden Stalaktiten- und Stalagmitenformationen von gigantischen Ausmaßen. Die Höhle bietet zudem einen einzigartigen Konzertsaal mit einer Akustik, die Musiker und Zuhörer gleichermaßen in Staunen versetzt. Aggtelek liegt in einem unberührten Nationalpark, der eine einzigartige Flora und Fauna sowie bizarre Karstlandschaften beheimatet. Es ist ein Paradies für Naturfreunde, Wanderer und alle, die in die mysteriöse Unterwelt der Natur eintauchen möchten.",
+      "hu": "Aggtelek az Északi-középhegység északi részén fekvő falu, amely világhírnevét a határában található Baradla-barlangnak köszönheti. Ez Közép-Európa leghosszabb és egyik leglátványosabb cseppkőbarlangja, amely az Aggteleki-karszt és a Szlovák-karszt barlangvilágának részeként az UNESCO Világörökség része. A látogatókat monumentális cseppkőképződmények, hatalmas termek és föld alatti patakok várják, amelyek a természet évezredes munkáját dicsérik. Aggtelek környéke, az Aggteleki Nemzeti Park vadregényes tájaival, tanösvényeivel és ritka élővilágával a természetjárók és a barlangászok paradicsoma. A barlangi koncertek különleges akusztikája pedig felejthetetlen kulturális élményt nyújt a föld mélyén.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Höhlensystem von Aggtelek und dem Slowakischen Karst ist Teil des UNESCO-Weltkulturerbes.", "Die Baradla-Höhle ist über 25 Kilometer lang und beherbergt den höchsten Tropfstein Ungarns.", "In der Höhle finden aufgrund der hervorragenden Akustik regelmäßig klassische Konzerte statt.", "Der Nationalpark Aggtelek schützt die einzigartige Karstlandschaft und seltene Tierarten."],
+      "hu": [
+        "A Baradla-barlang teljes hossza meghaladja a 25 kilométert, s átnyúlik Szlovákiába is.",
+        "Az Aggteleki-karszt barlangjai 1995-ben kerültek fel az UNESCO Világörökségi listájára.",
+        "A barlangban található az ország legmagasabb cseppköve, a 19 méter magas 'Csillagvizsgáló'.",
+        "Az Aggteleki Nemzeti Park Magyarország első olyan parkja, amelyet elsősorban geológiai értékek védelmére hoztak létre.",
+        "A Hangversenyteremben rendszeresen tartanak komoly- és könnyűzenei koncerteket a kiváló akusztika miatt."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "szeged",
@@ -2372,6 +3147,25 @@ export const hungaryCities: POI[] = [
         "The Móra Ferenc Museum houses significant archaeological and collections."
       ]
     },
+  
+    descriptionAdvanced: {
+      "de": "Szeged, am Ufer der Theiß im sonnigen Süden Ungarns gelegen, wird aufgrund seiner vielen Sonnenstunden oft als ",
+      "hu": "Szeged, a 'napfény városa', Dél-Magyarország legnagyobb városa és kulturális központja a Tisza és a Maros találkozásánál. A települést az 1879-es nagy árvíz után szinte teljesen újjáépítették, így ma egységes és gyönyörű szecessziós, valamint eklektikus belvárossal büszkélkedhet. Szeged jelképe a monumentális Fogadalmi Templom és az előtte elterülő Dóm tér, amely a világhírű Szegedi Szabadtéri Játékok otthona. A város híres egyetemi életéről, tudományos eredményeiről és gasztronómiai különlegességeiről, mint a Pick szalámi vagy a szegedi fűszerpaprika. A Tisza-parti sétányok, a pezsgő teraszok és a mediterrán hangulat Szegedet az ország egyik legkedveltebb turisztikai célpontjává teszi.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Szeged wird wegen des sonnigen Klimas oft als die 'Stadt des Sonnenscheins' bezeichnet.", "Der Dom von Szeged ist eine der größten Kirchen Ungarns und wurde nach einer Flutkatastrophe erbaut.", "Die Stadt ist die Heimat der weltberühmten Pick-Salami und des Szegediner Paprikas.", "Auf dem Domplatz finden jährlich die renommierten Szegeder Freilichtspiele statt."],
+      "hu": [
+        "Szeged Magyarország legnaposabb városa, évente több mint 2100 órát süt a nap.",
+        "A Szegedi Dóm orgonája az egyik legnagyobb Európában, több mint 9000 síppal.",
+        "Itt alapították a világhírű Pick Szalámi és Szegedi Paprika gyárat.",
+        "Szent-Györgyi Albert a Szegedi Tudományegyetemen végzett kutatásaiért kapott Nobel-díjat.",
+        "A Szegedi Szabadtéri Játékok az ország legrégebbi és legnagyobb nyári színházi fesztiválja."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "hodmezovasarhely",
@@ -2382,6 +3176,25 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/hodmezovasarhely.webp",
     description: {"de": "Stadt in Südungarn mit einer reichen landwirtschaftlichen Tradition.", "hu": "Dél-magyarországi város gazdag mezőgazdasági hagyományokkal.", "ro": "Oraș în sudul Ungariei cu o bogată tradiție agricolă.", "en": "City in southern Hungary with a rich agricultural tradition."},
     facts: {"de": ["Zweitgrößte Stadt Ungarns nach Fläche.", "Bekannt für ihre Töpferkunst."], "hu": ["Magyarország második legnagyobb területű városa.", "Fazekasságáról ismert."], "ro": ["Al doilea oraș ca mărime din Ungaria după suprafață.", "Cunoscut pentru olăritul său."], "en": ["Second largest city in Hungary by area.", "Known for its pottery."]},
+  
+    descriptionAdvanced: {
+      "de": "Hódmezővásárhely, eine Stadt mit Komitatsrecht im Südosten Ungarns, ist bekannt für ihre enge Verbindung zur Landwirtschaft und bildenden Kunst. Das Stadtbild ist geprägt von weiten Plätzen und einer Mischung aus ländlicher Tradition und bürgerlicher Eleganz. Die Stadt beherbergt bedeutende Museen wie das Tornyai-János-Museum, das die reiche archäologische und künstlerische Geschichte der Region dokumentiert. Ein besonderes architektonisches Juwel ist das Rathaus, das den Stolz der ehemaligen Agrarstadt widerspiegelt. Hódmezővásárhely ist zudem ein wichtiger Ort für das Kunsthandwerk, insbesondere für die traditionelle Töpferei, die in der Region eine lange Geschichte hat.",
+      "hu": "Hódmezővásárhely az Alföld déli részén fekvő nagyváros, amely gazdag mezővárosi hagyományairól és élénk művészeti életéről ismert. A város arculatát a tágas terek, a felújított szecessziós paloták és a híres agyagipar hagyományai határozzák meg. Hódmezővásárhely évszázadok óta a festők és keramikusok városa, az itteni Alkotóház ma is a magyar művészeti élet fontos bázisa. A település büszkélkedhet az ország egyik legjobb állapotban fennmaradt árvízvédelmi falával, valamint a népszerű Török Sándor Strandfürdővel. A város környéki puszták és a Tisza folyó közelsége kiváló lehetőséget ad a természetjárásra és a vízi sportokra, miközben a város maga a nyugodt, polgári alföldi élet megtestesítője.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Die Stadt besitzt eines der flächenmäßig größten Verwaltungsgebiete in Ungarn.", "Das Tornyai-János-Museum zeigt bedeutende Werke ungarischer Maler des 20. Jahrhunderts.", "Die Region ist bekannt für ihre traditionelle Töpferkunst und Keramikherstellung.", "Hódmezővásárhely ist eine bedeutende Stadt für den Reitsport und die Landwirtschaft."],
+      "hu": [
+        "Hódmezővásárhely Magyarország második legnagyobb területű városa a kiterjedt pusztai részek miatt.",
+        "A városban található Emlékpont Múzeum az ország egyik legmodernebb történeti kiállítóhelye.",
+        "A hódmezővásárhelyi majolika és kerámia hagyományai világszerte elismertek.",
+        "Itt található az ország egyetlen olyan árvízvédelmi fala, amely a város szívében fut végig.",
+        "A város főterén álló Városháza tornya 57 méter magas, s az alföldi eklektika remeke."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "mako",
@@ -2392,6 +3205,25 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/mako.webp",
     description: {"de": "Stadt nahe der rumänischen Grenze, berühmt für ihre Zwiebeln.", "hu": "Város a román határ közelében, hagymájáról híres.", "ro": "Oraș aproape de granița cu România, faimos pentru ceapa sa.", "en": "City near the Romanian border, famous for its onions."},
     facts: {"de": ["Die Makó-Zwiebel ist ein geschütztes Agrarprodukt.", "Das Thermalbad Hagymatikum wurde von Imre Makovecz entworfen."], "hu": ["A makói hagyma védett mezőgazdasági termék.", "A Hagymatikum termálfürdőt Makovecz Imre tervezte."], "ro": ["Ceapa de Makó este un produs agricol protejat.", "Baia termală Hagymatikum a fost proiectată de Imre Makovecz."], "en": ["The Makó onion is a protected agricultural product.", "The Hagymatikum thermal bath was designed by Imre Makovecz."]},
+  
+    descriptionAdvanced: {
+      "de": "Makó, im Südosten Ungarns nahe der rumänischen Grenze gelegen, ist landesweit und international als die ",
+      "hu": "Makó a Maros partján fekvő város, amely világhírnevét a makói vöröshagymának és az elmúlt években megvalósult lenyűgöző organikus építészetének köszönheti. A város szinte minden fontos középülete a híres építész, Makovecz Imre tervei alapján készült, egyedülálló, természetközeli városképet alkotva. Makó legfőbb büszkesége a Hagymatikum Gyógyfürdő, amely különleges formavilágával és gyógyiszapjával vonzza a látogatókat. A Maros-parti lombkoronasétány és a kalandpark a természet és az aktív kikapcsolódás kedvelőinek kínál élményeket. Makó a hagyományok és a modern építészeti bravúrok városa, ahol a hagymatermesztés évszázados múltja találkozik a jövőbe mutató designnal.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Makó ist weltberühmt für seine Zwiebelproduktion, die als ungarisches Kulturerbe gilt.", "Das Heilbad 'Hagymatikum' wurde vom renommierten Architekten Imre Makovecz entworfen.", "Der Fluss Maros liefert den heilenden Heilschlamm für die medizinischen Behandlungen in der Stadt.", "Makó beherbergt einen einzigartigen Baumkronenpfad am Ufer des Maros."],
+      "hu": [
+        "Makó a magyar vöröshagyma-termesztés történelmi központja, a makói hagyma hungarikum.",
+        "A Hagymatikum fürdő a világ egyik legszebbnek választott organikus építészeti alkotása.",
+        "Itt található Magyarország leghosszabb (közel 200 méter) lombkoronasétánya a Maros ártéri erdőjében.",
+        "A városban 12 Makovecz Imre által tervezett épület található, ami egyedülálló a világon.",
+        "Makó híres a Maros gyógyiszapjáról, amelyet a mozgásszervi betegségek kezelésére használnak."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "szekesfehervar",
@@ -2448,6 +3280,25 @@ export const hungaryCities: POI[] = [
         "Conveniently located between Budapest and Lake Balaton."
       ]
     },
+  
+    descriptionAdvanced: {
+      "de": "Székesfehérvár, eine der ältesten Städte Ungarns, war im Mittelalter die Krönungsstadt der ungarischen Könige und ist tief mit der Geschichte des Landes verwurzelt. Hier wurden 37 Könige gekrönt und 15 von ihnen beigesetzt, was der Stadt den Beinamen ",
+      "hu": "Székesfehérvár, a 'királyok városa', Magyarország egyik legfontosabb történelmi központja, ahol a középkorban a magyar uralkodókat koronázták és temették el. A város szíve a barokk belváros, ahol a történelmi falak és a modern szobrok harmonikus elegye várja a látogatókat. Legfontosabb emlékhelye a Nemzeti Emlékhely (Középkori Romkert), ahol egykor a monumentális Szent István-bazilika állt. Székesfehérvár ma dinamikusan fejlődő ipari és kulturális központ, büszkélkedhet a mesebeli Bory-várral, gazdag múzeumokkal és pezsgő tereivel. A város ideális fekvése Budapest és a Balaton között, valamint történelmi mélysége Székesfehérvárt az ország egyik legfontosabb turisztikai célpontjává teszi.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Székesfehérvár war im Mittelalter die offizielle Krönungsstadt ungarischer Könige.", "Im Ruinengarten sind die Fundamente der einstigen Krönungsbasilika zu besichtigen.", "Die Bory-Burg wurde von einem einzigen Mann über 36 Jahre hinweg als Denkmal der Liebe erbaut.", "Die Stadt beherbergt die 'Blasglocke', ein einzigartiges Figurenoktett in der Innenstadt."],
+      "hu": [
+        "Székesfehérváron összesen 37 királykoronázás és 15 királytemetés történt a középkorban.",
+        "A Bory-vár egyedülálló építmény, amelyet Bory Jenő szobrász saját kezűleg épített több évtizeden át.",
+        "Itt található az ország egyik legszebb barokk főtere és a püspöki székesegyház.",
+        "Székesfehérvár híres órajátékáról, amely a magyar történelem nagyjait mutatja be naponta többször.",
+        "A város ma Magyarország egyik legjelentősebb gazdasági motorja és informatikai központja."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "dunaujvaros",
@@ -2457,6 +3308,25 @@ export const hungaryCities: POI[] = [
     name: {"de": "Neustadt an der Donau", "hu": "Dunaújváros", "ro": "Dunaújváros", "en": "Dunaújváros"},    description: {"de": "Industriestadt an der Donau, erbaut in den 1950er Jahren.", "hu": "Ipari város a Duna partján, az 1950-es években épült.", "ro": "Oraș industrial pe Dunăre, construit în anii 1950.", "en": "Industrial city on the Danube, built in the 1950s."},
     facts: {"de": ["Hieß früher Sztálinváros (Stalinstadt).", "Zentrum der ungarischen Stahlindustrie."], "hu": ["Korábban Sztálinvárosnak hívták.", "A magyar acélipar központja."], "ro": ["Se numea anterior Sztálinváros (Orașul lui Stalin).", "Centrul industriei siderurgice maghiare."], "en": ["Formerly called Sztálinváros (Stalin City).", "Center of the Hungarian steel industry."]},
     image: "/poi-images/dunaujvaros.webp",
+  
+    descriptionAdvanced: {
+      "de": "Dunaújváros, am rechten Ufer der Donau gelegen, ist eine Stadt, die vor allem durch ihre moderne Industriegeschichte im 20. Jahrhundert geprägt wurde. Ursprünglich als sozialistische Musterstadt geplant, zeigt sie heute ein interessantes Bild der Architektur des Realsozialismus gepaart mit modernen Grünflächen. Das Herz der Stadt ist das riesige Stahlwerk, das einst den wirtschaftlichen Aufschwung der Region sicherte. In den letzten Jahren hat sich Dunaújváros jedoch stark gewandelt und bietet heute einen Skulpturenpark an der Donau sowie vielfältige Sport- und Freizeitmöglichkeiten. Die Stadt ist ein interessantes Beispiel für den städtebaulichen Wandel in Ungarn und bietet einen tiefen Einblick in die jüngere Zeitgeschichte des Landes.",
+      "hu": "Dunaújváros Magyarország egyik legfiatalabb városa a Duna mentén, amely az 1950-es években épült fel mint szocialista iparváros (eredetileg Sztálinváros néven). A település arculatát a monumentális szocreál építészet és a vasmű határozza meg, ami ma különleges építészeti örökségként vonzza a látogatókat. Dunaújváros azonban nemcsak az iparról szól: a Duna-parti szoborpark, a tágas parkok és a folyó menti sétányok modern és élhető városképet mutatnak. A város híres kiváló sportéletéről és uszodájáról, valamint a Duna által nyújtott vízi sportlehetőségekről. Dunaújváros egy érdekes fejezete a magyar történelemnek, ahol a tervezett városépítés minden sajátossága megfigyelhető.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Dunaújváros wurde in den 1950er Jahren als sozialistische Industriestadt unter dem Namen Sztálinváros gegründet.", "Am Donauufer befindet sich ein weitläufiger Skulpturenpark mit modernen Metallplastiken.", "Die Stadt ist ein wichtiges Zentrum für Wassersportarten und besitzt ein modernes Sportzentrum.", "Das Intercisa-Museum dokumentiert die römische Vergangenheit der Region."],
+      "hu": [
+        "Dunaújváros az ország első tervezett szocialista városa, 1951-ben kapott nevet.",
+        "Itt található Közép-Európa egyik legnagyobb szabadtéri szoborparkja a Duna-parton.",
+        "A városban működik az ország legnagyobb kohászati üzeme, a Dunai Vasmű (Dunaferr).",
+        "Dunaújváros híres a sikeres jégkorong- és kézilabda-csapatairól.",
+        "A várost átlósan szelik át a tágas sugárutak, amelyeket a korszak ideáljai szerint terveztek."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "gardony",
@@ -2467,6 +3337,25 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/gardony.webp",
     description: {"de": "Stadt am Ufer des Velencer Sees, ein beliebtes Urlaubsziel.", "hu": "Város a Velencei-tó partján, népszerű nyaralóhely.", "ro": "Oraș pe malul Lacului Velence, o destinație populară de vacanță.", "en": "City on the shores of Lake Velence, a popular holiday destination."},
     facts: {"de": ["Geburtsort des Schriftstellers Géza Gárdonyi.", "Beliebt für Wassersport."], "hu": ["Gárdonyi Géza író szülővárosa.", "Népszerű a vízisportok kedvelői körében."], "ro": ["Locul de naștere al scriitorului Géza Gárdonyi.", "Popular pentru sporturi nautice."], "en": ["Birthplace of writer Géza Gárdonyi.", "Popular for water sports."]},
+  
+    descriptionAdvanced: {
+      "de": "Gárdony ist ein beliebtes Ferienzentrum am Südufer des Velence-Sees, der für sein warmes Wasser und seine heilende Wirkung bekannt ist. Die Stadt besteht aus mehreren Ortsteilen wie Agárd und Dinnyés und bietet ideale Bedingungen für Badeurlauber, Wassersportler und Angler. Besonders bekannt ist Agárd für sein Heilbad und seinen Strand, der im Sommer zahlreiche Besucher aus dem nahegelegenen Budapest anzieht. Gárdony ist zudem der Geburtsort des berühmten ungarischen Schriftstellers Géza Gárdonyi, dessen Geburtshaus heute ein Museum ist. Die Region um den See ist ein geschütztes Naturparadies, das vor allem für seine reiche Vogelwelt in den Schilfgebieten bekannt ist.",
+      "hu": "Gárdony a Velencei-tó déli partjának központja, a 'napfény tavának' legnépszerűbb üdülőhelye, amely magában foglalja Agárdot és Dinnyést is. A város élete a tó köré szerveződik: szabadstrandok, vitorláskikötők és pezsgő kerékpáros élet várja a látogatókat. Gárdony híres szülötte Gárdonyi Géza, az Egri csillagok írója, akinek emlékháza és a közeli rönkvár vonzó célpont a családoknak. A település büszkélkedhet modern gyógyfürdővel és a Velencei-tavi Madárrezervátum közelségével is. Gárdony a sport, a kultúra és a természetközeli kikapcsolódás ideális ötvözete, amely Budapesttől karnyújtásnyira kínál teljes feltöltődést.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Gárdony liegt am Velence-See, einem der wärmsten Binnenseen Europas.", "Der berühmte Schriftsteller Géza Gárdonyi wurde im Ortsteil Agárd geboren.", "Die Stadt ist ein Zentrum für den Segelsport und das Windsurfen in Ungarn.", "Das Heilbad Agárd ist für sein schwefelhaltiges Thermalwasser bekannt."],
+      "hu": [
+        "Gárdonyhoz tartozik Agárd, ahol az író Gárdonyi Géza született 1863-ban.",
+        "Az Agárdi Gyógy- és Termálfürdő vize 58 fokos hőmérsékleten tör fel a mélyből.",
+        "A Velencei-tavi Galéria számos kortárs művészeti kiállításnak ad otthont a városban.",
+        "Gárdony népszerű megállóhelye a tó körüli kerékpárútnak, amely közel 30 km hosszú.",
+        "Dinnyésen található az egyedülálló Várpark, ahol magyar várak makettjeit láthatjuk eredeti anyagokból."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "gyor",
@@ -2522,6 +3411,25 @@ export const hungaryCities: POI[] = [
         "The Xantus János Museum displays significant local collections.",
         "Known for its numerous thermal and adventure baths."
       ]
+    },
+  
+    descriptionAdvanced: {
+      "de": "Győr, im Nordwesten Ungarns an der Mündung von drei Flüssen gelegen, wird oft als die ",
+      "hu": "Győr, a 'folyók városa', Magyarország északnyugati részén, a Duna, a Rába és a Rábca találkozásánál fekvő dinamikus nagyváros, amely barokk belvárosával és modern iparával emelkedik ki. A város központja, a Káptalandomb a Püspökvárral és a Bazilikával a magyar kereszténység egyik bölcsője. Győr híres rendezett tereiről, szökőkútjairól és gazdag művészeti életéről, amit a Győri Balett világhírneve is fémjelez. Ma a város az ország egyik legfontosabb gazdasági motorja (az Audi révén), de megőrizte hangulatos történelmi jellegét is. Győr a modern fejlődés és az ezeréves múlt harmonikus találkozási pontja, amely minden évszakban pezsgő programokkal várja a látogatókat.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Győr liegt am Zusammenfluss der Flüsse Raab (Rába), Kleiner Donau und Donau.", "Die barocke Altstadt von Győr gehört zu den am besten erhaltenen historischen Ensembles Ungarns.", "Die Stadt ist der Sitz der Audi Hungaria Motor Kft, einem der weltweit größten Motorenwerke.", "Die Kathedrale von Győr beherbergt das heilige Antlitz der weinenden Madonna aus Irland."],
+      "hu": [
+        "Győr barokk belvárosa Magyarország egyik legszebb és legépebben maradt műemléki együttese.",
+        "Itt alapították meg a Győri Balettet, amely az ország egyik legnevesebb táncegyüttese.",
+        "A győri Bazilikában őrzik Szent László király hermáját, a magyar ötvösművészet remekét.",
+        "Győr városa az Audi gyár révén a magyar autóipar európai hírű központja.",
+        "A várost 2010-ben az egyik legélhetőbb magyar városnak választották."
+      ],
+      "ro": [],
+      "en": []
     },
   },
   {
@@ -2579,6 +3487,25 @@ export const hungaryCities: POI[] = [
         "A popular destination for tourists from Austria and across Europe."
       ]
     },
+  
+    descriptionAdvanced: {
+      "de": "Sopron, im äußersten Westen Ungarns direkt an der Grenze zu Österreich gelegen, ist eine Stadt von außergewöhnlicher Schönheit und historischer Bedeutung. Als eine der wenigen Städte Ungarns blieb ihr mittelalterlicher Kern fast unversehrt erhalten, was Sopron zu einem Freilichtmuseum der Architektur macht. Das Wahrzeichen der Stadt ist der Feuerturm, von dem aus man einen Panoramablick über die barocke Innenstadt bis hin zum Neusiedler See hat. Sopron ist auch als ",
+      "hu": "Sopron, a 'leghűségesebb város' az osztrák határ mentén, a Soproni-hegység lábánál fekszik, és Magyarország egyik leggazdagabb műemléki állományával rendelkezik. A város középkori hangulatú belvárosa, szűk utcái és az emblematikus Tűztorony az ország történelmének viharos és dicső korszakait idézi. Sopron híres bortermeléséről is, a Kékfrankos hazájaként a borkultúra minden szegletében jelen van. A várost körülölelő erdők, a Lőverek tiszta levegője és a közeli Fertő-tó kiváló lehetőséget adnak az aktív pihenésre. Sopron kulturális és szellemi élete is kiemelkedő, egyeteme és fesztiváljai révén a térség egyik legfontosabb központja.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Sopron trägt den Ehrentitel 'Civitas Fidelissima' (die treueste Stadt).", "Der Feuerturm ist das Wahrzeichen der Stadt und steht auf römischen Fundamenten.", "Die Stadt ist das Zentrum der ungarischen Produktion des Blaufränkisch-Rotweins.", "In Sopron fand 1989 das Paneuropäische Picknick statt, das den Fall des Eisernen Vorhangs einleitete."],
+      "hu": [
+        "Sopron az 1921-es népszavazás emlékére viseli a 'Civitas Fidelissima' (Leghűségesebb Város) címet.",
+        "A Tűztorony Sopron jelképe, alsó része római kori falakra épült.",
+        "Sopron belvárosának alaprajza a római kori Scarbantia városának szerkezetét követi.",
+        "A város környéki Lőverek híres gyógyító klímájáról és szubalpin levegőjéről.",
+        "Sopron a Kékfrankos vörösbor fővárosa, s számos történelmi borospincével büszkélkedhet."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "pannonhalma",
@@ -2589,6 +3516,25 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/pannonhalma.webp",
     description: {"de": "Historische Benediktinerabtei auf einem Hügel, eines der ältesten Denkmäler Ungarns.", "hu": "Történelmi bencés apátság egy dombon, Magyarország egyik legrégebbi műemléke.", "ro": "Abație benedictină istorică pe un deal, unul dintre cele mai vechi monumente din Ungaria.", "en": "Historic Benedictine abbey on a hill, one of the oldest monuments in Hungary."},
     facts: {"de": ["Gegründet im Jahr 996.", "Teil des UNESCO-Welterbes."], "hu": ["996-ban alapították.", "Az UNESCO világörökség része."], "ro": ["Fondată în anul 996.", "Parte a Patrimoniului Mondial UNESCO."], "en": ["Founded in 996.", "Part of the UNESCO World Heritage site."]},
+  
+    descriptionAdvanced: {
+      "de": "Pannonhalma ist berühmt für seine Benediktinerabtei, die majestätisch auf dem Berg des Heiligen Martin thront und zum UNESCO-Weltkulturerbe gehört. Gegründet im Jahr 996, ist sie das spirituelle und kulturelle Zentrum der ungarischen Benediktiner und blickt auf eine über tausendjährige Geschichte zurück. Die Basilika mit ihrer romanischen Krypta, der prachtvolle Kreuzgang und die monumentale Bibliothek mit ihren wertvollen Handschriften sind beeindruckende Zeugnisse sakraler Kunst. Pannonhalma ist zudem für seine lange Tradition im Weinbau und in der Kräuterkunde bekannt, was Besucher in der klösterlichen Weinkellerei und dem Arzneikräutergarten erleben können. Die Abtei ist ein Ort der Stille, des Gebets und der gelehrten Tradition inmitten der sanften Hügel Transdanubiens.",
+      "hu": "Pannonhalma a magyar kereszténység és kultúra bölcsője, ahol az ezeréves Bencés Főapátság magasodik a dombtetőn. Az 996-ban alapított monostor Magyarország egyik legfontosabb szakrális központja, amely 1996 óta az UNESCO Világörökség része. Az apátság monumentális épületegyüttese magában foglalja a gótikus bazilikát, az ezeréves kriptát és a világhírű könyvtárat, amely felbecsülhetetlen értékű kódexeket őriz. Pannonhalma azonban modern is: neves borászata, levendulása és arborétuma a minőségi pihenés és a gasztronómia élményét nyújtja. A csend, az imádság és az alkotó munka harmóniája Pannonhalmát az ország egyik legfontosabb spirituális és kulturális célpontjává teszi.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Die Erzabtei Pannonhalma wurde 996 gegründet und ist Teil des UNESCO-Weltkulturerbes.", "Die Klosterbibliothek bewahrt mit der Gründungsurkunde der Abtei Tihany das älteste ungarische Sprachdenkmal auf.", "Die Mönche betreiben ein renommiertes Weingut und produzieren Kräuterliköre nach alten Rezepten.", "Die Abtei liegt auf dem Mons Sacer Pannoniae, dem Heiligen Berg von Pannonien."],
+      "hu": [
+        "A Pannonhalmi Főapátság Magyarország legrégebbi folyamatosan működő kulturális és vallási intézménye.",
+        "Az apátsági könyvtárban őrizik a magyar nyelv legrégebbi írott emlékét, a Tihanyi Alapítólevelet (másolatát).",
+        "Pannonhalma híres gyógynövénykertjéről és az abból készült teákról, likőrökről.",
+        "A bazilika alatti kriptában nyugszik többek között Habsburg Ottó szívurnája is.",
+        "Az apátsági borászat a bencés szerzetesek évezredes szőlőművelő hagyományait viszi tovább."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "debrecen",
@@ -2645,6 +3591,25 @@ export const hungaryCities: POI[] = [
         "Debrecen is a significant center for the Hungarian jazz and cultural scene."
       ]
     },
+  
+    descriptionAdvanced: {
+      "de": "Debrecen, die zweitgrößte Stadt Ungarns, gilt als das ",
+      "hu": "Debrecen, a 'kálvinista Róma', Magyarország második legnagyobb városa és a Tiszántúl legfontosabb központja, amely gazdag történelmi, egyházi és kulturális örökséggel rendelkezik. A város jelképe a monumentális Református Nagytemplom, ahol Kossuth Lajos 1849-ben kikiáltotta Magyarország függetlenségét. Debrecen híres egyetemi életéről, a Nagyerdő parkjáról, gyógyfürdőjéről és modern sportlétesítményeiről. A város kulturális életét a Csokonai Színház és a Déri Múzeum (a híres Munkácsy-trilógiával) teszi teljessé. Debrecen a modern fejlődés és a hagyománytisztelet városa, amely kapuként szolgál a Hortobágy pusztai világa felé, s vonzó célpont minden látogató számára.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Debrecen war im 19. Jahrhundert zweimal kurzzeitig die Hauptstadt von Ungarn.", "Die Große Reformierte Kirche ist das größte protestantische Gotteshaus in Ungarn.", "Jährlich im August findet in Debrecen der berühmte Blumenkarneval statt.", "Die Universität von Debrecen ist eine der renommiertesten Bildungseinrichtungen des Landes."],
+      "hu": [
+        "Debrecen Magyarország legnagyobb vidéki városa, lakossága meghaladja a 200 ezer főt.",
+        "A Református Nagytemplom a magyar reformáció és a szabadságharc szimbóluma.",
+        "A Déri Múzeumban látható Munkácsy Mihály világhírű Krisztus-trilógiája.",
+        "A debreceni Nagyerdő volt az ország első természetvédelmi területe (1939).",
+        "A város híres szülötte Szabó Magda írónő, akinek emlékét irodalmi ház őrzi."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "hortobagy",
@@ -2655,6 +3620,25 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/hortobagy.webp",
     description: {"de": "Der größte Nationalpark Ungarns, der die traditionelle Puszta-Landschaft schützt.", "hu": "Magyarország legnagyobb nemzeti parkja, amely a hagyományos pusztai tájat védi.", "ro": "Cel mai mare parc național din Ungaria, protejând peisajul tradițional Puszta.", "en": "Hungary's largest national park, protecting the traditional Puszta landscape."},
     facts: {"de": ["UNESCO-Welterbe.", "Bekannt für die Neunbögige Brücke und traditionelle Hirtenkultur."], "hu": ["UNESCO világörökség.", "A Kilenclyukú hídról és a hagyományos pásztorkultúráról ismert."], "ro": ["Patrimoniu Mondial UNESCO.", "Cunoscut pentru Podul cu Nouă Arcuri și cultura pastorală tradițională."], "en": ["UNESCO World Heritage site.", "Known for the Nine-holed Bridge and traditional pastoral culture."]},
+  
+    descriptionAdvanced: {
+      "de": "Hortobágy ist das Herz der ungarischen Puszta und der größte Nationalpark des Landes, der für seine unendliche Weite und einzigartige Hirtenkultur bekannt ist. Die Region gehört zum UNESCO-Weltkulturerbe und bewahrt die traditionelle Lebensweise der Puszta-Hirten mit ihren charakteristischen Ziehbrunnen und Peitschenknallen. Besucher können hier seltene Haustierrassen wie das graue Steppenrind, das Zackelschaf und das Wollschwein (Mangalica) in ihrer natürlichen Umgebung beobachten. Das Wahrzeichen der Region ist die Neunbögige Brücke, die sich elegant über den Fluss Hortobágy spannt und Schauplatz traditionsreicher Märkte ist. Hortobágy ist ein Ort von archaischer Schönheit, der die Seele der ungarischen Tiefebene widerspiegelt.",
+      "hu": "Hortobágy Magyarország legnagyobb és legismertebb pusztája, az UNESCO Világörökség része, amely a magyar pásztorkultúra és az érintetlen természet egyedülálló őrzőhelye. A hortobágyi rónaság végtelen horizontja, a délibáb és a gulyás-csikós hagyományok a magyar nemzeti identitás legfontosabb jelképei. Itt található a híres Kilenclyukú híd és a Hortobágyi csárda, ahol a látogatók megkóstolhatják a pusztai ételeket. A terület madárvilága nemzetközi jelentőségű, különösen a daruvonulás idején. Hortobágy nemcsak múzeum, hanem élő puszta, ahol a szürke marhák, rackajuhok és a ménesek ma is szabadon élnek, hirdetve a magyar puszta szabadságát és szépségét.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Der Nationalpark Hortobágy ist das erste und größte Naturschutzgebiet Ungarns.", "Die Neunbögige Brücke ist die längste Steinbrücke für den Straßenverkehr in Ungarn.", "Hortobágy ist berühmt für seine 'Csikós', die berittenen Hirten mit ihren spektakulären Reitvorführungen.", "Die Region ist ein bedeutendes Vogelparadies und wichtiger Rastplatz für Tausende von Kranichen."],
+      "hu": [
+        "A Hortobágyi Nemzeti Park Magyarország első és legnagyobb nemzeti parkja (alapítva 1973).",
+        "A Kilenclyukú híd 167 méterével az ország leghosszabb kőhídja.",
+        "A Hortobágyon több mint 300 madárfaj fordul elő, ami Európában is kiemelkedő.",
+        "Itt látható a világ egyik legritkább lófajtája, a vadlovakat bemutató Pentezugi Vadlórezervátum.",
+        "A pusztai csillagoségbolt-park minősítés elismeri a terület rendkívül alacsony fényszennyezését."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "hajduszoboszlo",
@@ -2664,6 +3648,25 @@ export const hungaryCities: POI[] = [
     name: {"de": "Hajdúszoboszló", "hu": "Hajdúszoboszló", "ro": "Hajdúszoboszló", "en": "Hajdúszoboszló"},    description: {"de": "Berühmter Kurort mit dem größten Bäderkomplex Europas.", "hu": "Híres fürdőváros Európa legnagyobb fürdőkomplexumával.", "ro": "Faimoasă stațiune balneară cu cel mai mare complex de băi din Europa.", "en": "Famous spa town with the largest bath complex in Europe."},
     facts: {"de": ["Das Thermalwasser wurde 1925 entdeckt.", "Beliebtes Ziel für Gesundheitstourismus."], "hu": ["A termálvizet 1925-ben fedezték fel.", "Népszerű egészségturisztikai célpont."], "ro": ["Apa termală a fost descoperită în 1925.", "Destinație populară pentru turismul de sănătate."], "en": ["The thermal water was discovered in 1925.", "Popular destination for health tourism."]},
     image: "/poi-images/hajduszoboszlo.webp",
+  
+    descriptionAdvanced: {
+      "de": "Hajdúszoboszló ist der bekannteste Badekurort Ungarns und beherbergt den größten Badekomplex Europas, der jährlich Millionen von Erholungssuchenden anzieht. Das ",
+      "hu": "Hajdúszoboszló Európa egyik legnagyobb fürdőkomplexumával rendelkező városa az Alföldön, amelyet méltán neveznek a 'reumások Mekkája'-ként. Világhírnevét az 1925-ben feltörő jódos, brómos és konyhasós gyógyvizének köszönheti, amely számtalan embernek hozott gyógyulást. A Hungarospa fürdőkomplexum nemcsak gyógyhely, hanem igazi vízi paradicsom is: strand, aquapark és egy különleges fedett élményfürdő várja a látogatókat minden évszakban. Hajdúszoboszló barátságos, virágos parkjai, rendezett terei és pezsgő turisztikai élete a pihenés és a szórakozás tökéletes helyszíne, ahol a vendégszeretet és a gyógyító erő kéz a kézben jár.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Hajdúszoboszló besitzt den größten Bade- und Wellnesskomplex in ganz Europa.", "Das Heilwasser der Stadt wird aufgrund seiner Farbe und Heilkraft oft als 'flüssiges Gold' bezeichnet.", "Der Aquapark von Hajdúszoboszló war der erste Rutschenpark in Ungarn.", "Die Stadt feiert jährlich das Fest des 'Goldenen Wassers' zur Erinnerung an die Entdeckung der Quellen."],
+      "hu": [
+        "A hajdúszoboszlói gyógyvizet 1925-ben földgázkutatás közben fedezték fel véletlenül.",
+        "A komplexum területe több mint 30 hektár, s egyszerre akár 30 ezer ember is fürödhet benne.",
+        "Hajdúszoboszló az ország egyik leglátogatottabb városa Budapest és Hévíz után.",
+        "A városban található a Harangház, egy egyedülálló hangművészeti és képzőművészeti alkotás.",
+        "A gyógyvíz jellegzetes sötétbarna színét magas ásványianyag-tartalma adja."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "eger",
@@ -2720,6 +3723,25 @@ export const hungaryCities: POI[] = [
         "A popular destination for wine tourism and wellness."
       ]
     },
+  
+    descriptionAdvanced: {
+      "de": "Eger, im Norden Ungarns gelegen, ist eine Stadt von historischem Glanz, berühmter Weinkultur und beeindruckender Architektur. Bekannt wurde die Stadt vor allem durch die heldenhafte Verteidigung ihrer Burg gegen das osmanische Heer im Jahr 1552, ein Ereignis, das tief im ungarischen Nationalbewusstsein verankert ist. Das barocke Stadtbild wird von der monumentalen Basilika, dem Lyzeum mit seiner berühmten Bibliothek und dem nördlichsten Minarett aus der Zeit der Türkenherrschaft geprägt. Eger ist zudem das Zentrum einer erstklassigen Weinregion, deren bekanntester Tropfen das ",
+      "hu": "Eger a történelmi hősök városa a Mátra és a Bükk lábánál, Magyarország egyik legszebb és leglátogatottabb barokk települése. A város neve elválaszthatatlan az 1552-es várvédéstől, amikor Dobó István maroknyi serege megállította a török áradatot, hősies példát mutatva az utókornak. Eger központja az impozáns vár, a barokk Bazilika és a török kori minaret, amely az ország egyik legészakibb iszlám emléke. A város világhírű borvidék központja is, az Egri Bikavér és a Szépasszony-völgy pincéi a borkultúra szerelmeseinek kötelező célpontjai. Eger pezsgő kulturális élete, termálfürdője és történelmi utcái minden látogatót elvarázsolnak.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Eger ist berühmt für seine Burg, die 1552 erfolgreich gegen eine enorme osmanische Übermacht verteidigt wurde.", "Die Stadt beherbergt ein original erhaltenes osmanisches Minarett, das nördlichste seiner Art.", "Das 'Erlauer Stierblut' (Egri Bikavér) ist einer der bekanntesten Rotweine Ungarns.", "Die Basilika von Eger ist die zweitgrößte Kirche Ungarns."],
+      "hu": [
+        "Eger vára 1552-ben ellenállt a több mint tízszeres török túlerőnek.",
+        "Itt található Magyarország egyetlen épségben maradt minaretje a török hódoltság korából.",
+        "Az egri Bazilika az ország második legnagyobb temploma az esztergomi után.",
+        "A Szépasszony-völgy több mint 200 vulkanikus tufa-falba vájt borospincével várja a vendégeket.",
+        "Gárdonyi Géza, az Egri csillagok írója a várban van eltemetve, sírfelirata: 'Csak a teste'."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "gyongyos",
@@ -2730,6 +3752,25 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/gyongyos.webp",
     description: {"de": "Stadt am Fuße des Mátra-Gebirges, das 'Tor zur Mátra'.", "hu": "Város a Mátra lábánál, a 'Mátra kapuja'.", "ro": "Oraș la poalele munților Mátra, 'Poarta către Mátra'.", "en": "City at the foot of the Mátra mountains, the 'Gateway to the Mátra'."},
     facts: {"de": ["Zentrum der Weinregion Mátra.", "Ausgangspunkt für Ausflüge zum Kékes."], "hu": ["A Mátrai borvidék központja.", "Kiindulópont a Kékesre tett kirándulásokhoz."], "ro": ["Centrul regiunii viticole Mátra.", "Punct de plecare pentru excursii la Kékes."], "en": ["Center of the Mátra wine region.", "Starting point for excursions to Kékes."]},
+  
+    descriptionAdvanced: {
+      "de": "Gyöngyös, am Fuße des Mátra-Gebirges gelegen, ist als das ",
+      "hu": "Gyöngyös, a 'Mátra kapuja', Heves vármegye jelentős városa, amely történelmi hangulatával és a hegyvidék közelségével vonzza a látogatókat. A város központja a tágas Fő tér a barokk Szent Bertalan-templommal és a Ferences kolostorral, amely az ország egyik leggazdagabb egyházi kincstárát őrzi. Gyöngyös élete szorosan összefonódik a Mátra turizmusával: innen indul a népszerű mátravasút és a Kékes-tető felé vezető utak. A város híres borászatáról is, a Mátrai borvidék fehérborai (pl. Szürkebarát, Olaszrizling) messze földön ismertek. Gyöngyös a kultúra, a vallási emlékek és a természetjárás ideális találkozóhelye az Északi-középhegység lábánál.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Gyöngyös ist der wichtigste Knotenpunkt für Ausflüge in das Mátra-Gebirge.", "Das Mátra-Museum im Grassalkovich-Schloss beherbergt ein fast vollständiges Mammutskelett.", "Die Stadt ist ein historisches Zentrum des Weinanbaus am Fuße des Gebirges.", "Von Gyöngyös aus startet die Mátra-Schmalspurbahn, eine beliebte Touristenattraktion."],
+      "hu": [
+        "Gyöngyös már a középkorban is fontos kereskedelmi és egyházi központ volt a Mátra lábánál.",
+        "A Szent Bertalan-templom kincstára az ország második legjelentősebb egyházi gyűjteménye.",
+        "Itt található a Mátra Múzeum, amely az ország egyetlen komplett mamutcsontvázát őrzi.",
+        "A gyöngyösi Orczy-kastély az alföldi és a hegyvidéki építészet különleges elegye.",
+        "A város határában található Európa egyik legnagyobb naperőmű-parkja."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "matra",
@@ -2740,6 +3781,25 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/matra.webp",
     description: {"de": "Gebirgszug in Nordungarn, der den höchsten Gipfel des Landes beherbergt.", "hu": "Hegység Észak-Magyarországon, itt található az ország legmagasabb csúcsa.", "ro": "Lanț muntos în nordul Ungariei, care găzduiește cel mai înalt vârf din țară.", "en": "Mountain range in northern Hungary, home to the country's highest peak."},
     facts: {"de": ["Der Kékes ist mit 1014 Metern der höchste Berg Ungarns.", "Beliebtes Gebiet zum Wandern und Skifahren."], "hu": ["A Kékes 1014 méterével Magyarország legmagasabb hegye.", "Népszerű túrázó- és síterep."], "ro": ["Kékes este cel mai înalt munte din Ungaria, cu 1014 metri.", "Zonă populară pentru drumeții și schi."], "en": ["Kékes is the highest mountain in Hungary at 1014 meters.", "Popular area for hiking and skiing."]},
+  
+    descriptionAdvanced: {
+      "de": "Das Mátra-Gebirge im Norden Ungarns ist die Heimat des Kékes-Tető, der mit 1014 Metern der höchste Gipfel des Landes ist. Die Region ist geprägt von dichten Buchen- und Eichenwäldern, klaren Bächen und einer Vielzahl an Wanderwegen, die Naturliebhaber und Sportler gleichermaßen anziehen. Bekannte Kurorte wie Galyatető oder Mátraháza bieten frische Bergluft und moderne Wellness-Anlagen für Erholungssuchende. Im Winter verwandelt sich das Mátra-Gebirge in eines der beliebtesten Skigebiete Ungarns mit gut präparierten Pisten und Loipen. Die vielfältige Flora und Fauna sowie die atemberaubenden Ausblicke von den Berggipfeln machen die Mátra zu einem der wertvollsten Naturgebiete des Landes.",
+      "hu": "A Mátra Magyarország egyik legnépszerűbb hegyvidéki tájegysége, ahol az ország legmagasabb csúcsai (Kékes-tető, Galya-tető) és legsűrűbb erdői találhatók. A vulkanikus eredetű hegység vadregényes völgyei, kristálytiszta forrásai és kiépített túraútvonalai minden évszakban vonzzák a természetbarátokat. A Mátra nemcsak kirándulóhely, hanem fontos gyógyhely is: tiszta levegője és különleges klímája kiválóan alkalmas légzőszervi panaszok kezelésére. Télen a Mátra az ország síközpontjává válik, nyáron pedig a kalandparkok és a kisvasutak nyújtanak élményt. A hegység déli lejtői híres borvidéket alkotnak, ahol a vulkanikus talaj kiváló fehérborokat érlel.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Mátra-Gebirge beherbergt den höchsten Berg Ungarns, den Kékes-Tető.", "Die Region ist eines der schneesichersten Gebiete des Landes und ein Zentrum des Wintersports.", "Das Mátra-Gebirge ist vulkanischen Ursprungs, was sich in der Bodenbeschaffenheit und Vegetation zeigt.", "Zahlreiche Wanderwege führen zu Aussichtspunkten mit Blick über die ungarische Tiefebene bis nach Bratislava."],
+      "hu": [
+        "A Mátrában található Magyarország legmagasabb pontja, a Kékes-tető (1014 m).",
+        "A hegység vulkanikus eredetű, amit a sok tufa- és andezit-szikla hirdet.",
+        "Galyatetőn működik az ország legmagasabban fekvő kilátója és turistacentruma.",
+        "A Mátra erdőiben számos ritka és védett állatfaj él, köztük a hiúz is.",
+        "A mátrai kisvasút (Mátravasút) az ország egyik legforgalmasabb és legszebb erdei vasútvonala."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "szolnok",
@@ -2796,6 +3856,25 @@ export const hungaryCities: POI[] = [
       ]
     },
     image: "/poi-images/szolnok.webp",
+  
+    descriptionAdvanced: {
+      "de": "Szolnok liegt strategisch günstig am Zusammenfluss von Theiß und Zagyva im Herzen der ungarischen Tiefebene und ist ein bedeutender Verkehrsknotenpunkt. Die Stadt hat eine lange Geschichte als Flussübergang und war einst ein wichtiges militärisches und wirtschaftliches Zentrum. Ein besonderes kulturelles Highlight ist die Künstlerkolonie von Szolnok, die seit über einem Jahrhundert Maler und Bildhauer anzieht und das kulturelle Leben der Stadt prägt. Die Stadt ist zudem für ihre Thermalbäder und das imposante Szigligeti-Theater bekannt, das ein wichtiger Ort für das ungarische Schauspielwesen ist. Entlang der Theiß lädt die breite Promenade zu entspannten Spaziergängen ein, während das jährliche Gulasch-Festival die kulinarische Tradition der Region feiert.",
+      "hu": "Szolnok, a 'Tisza fővárosa', az Alföld szívében fekvő fontos közlekedési, gazdasági és kulturális központ, ahol a Tisza és a Zagyva folyó találkozik. A város élete elválaszthatatlan a Tiszától: a folyóparti sétányok, a szabadstrand és az emblematikus Tiszavirág-híd a város legszebb részei. Szolnok híres repüléstörténeti múltjáról, amit a modern Reptár múzeum mutat be, valamint pezsgő művészeti életéről, amit a Szolnoki Művésztelep képvisel. A város gyógyfürdője és az aktív vízi sportok lehetősége kiváló pihenést nyújt minden korosztálynak. Szolnok az alföldi vendégszeretet és a modern városi fejlődés harmonikus ötvözete a folyó partján.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Szolnok liegt am geografischen Zusammenfluss der Flüsse Theiß und Zagyva.", "Die Stadt beherbergt eine der ältesten und bedeutendsten Künstlerkolonien Ungarns.", "Die Szolnoker Fußgängerbrücke (Tiszavirág-híd) ist die längste ihrer Art in Mitteleuropa.", "Jährlich findet in Szolnok das ungarische Gulasch-Festival statt."],
+      "hu": [
+        "Szolnok városa már a honfoglalás óta fontos átkelőhely a Tisza folyón.",
+        "A Tiszavirág-híd Közép-Európa leghosszabb gyalogoshídja, formája a kérész szárnyát idézi.",
+        "Itt található a Reptár, Európa egyik legmodernebb interaktív repülőmúzeuma.",
+        "A Szolnoki Művésztelep az ország legrégebbi, folyamatosan működő művésztelepe (alapítva 1902).",
+        "Szolnok híres a tiszai halászlevéről és a szolnoki habos isler süteményről."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "jaszbereny",
@@ -2806,6 +3885,25 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/jaszbereny.webp",
     description: {"de": "Das kulturelle und wirtschaftliche Zentrum der Region Jászság.", "hu": "A Jászság kulturális és gazdasági központja.", "ro": "Centrul cultural și economic al regiunii Jászság.", "en": "The cultural and economic center of the Jászság region."},
     facts: {"de": ["Bewahrt das Horn des Lehel, ein nationales Relikt.", "Veranstaltet jährlich das Jász-Festival."], "hu": ["Itt őrzik Lehel kürtjét, egy nemzeti ereklyét.", "Évente megrendezik a Jász Világtalálkozót."], "ro": ["Păstrează Cornul lui Lehel, o relicvă națională.", "Găzduiește anual Festivalul Jász."], "en": ["Preserves the Horn of Lehel, a national relic.", "Hosts the annual Jász Festival."]},
+  
+    descriptionAdvanced: {
+      "de": "Jászberény ist das kulturelle und historische Zentrum des Jászság, einer Region, die im 13. Jahrhundert von den Jazygen besiedelt wurde. Die Stadt bewahrt stolz das Erbe dieser Volksgruppe, was im Jazygen-Museum eindrucksvoll dokumentiert wird. Das wertvollste Exponat ist das berühmte Lehel-Horn, ein elfenbeinernes Relikt, das eng mit der ungarischen Sagenwelt verknüpft ist. Jászberény ist zudem für seinen charmanten Tierpark bekannt, der einer der ältesten und beliebtesten des Landes ist und ein tolles Ausflugsziel für Familien darstellt. Die Stadt ist geprägt von barocker Architektur und einer lebendigen Traditionspflege, die bei zahlreichen Festen und kulturellen Veranstaltungen zum Ausdruck kommt.",
+      "hu": "Jászberény a Jászság fővárosa és kulturális központja a Zagyva folyó partján, amely büszkén őrzi a jászok különleges történelmi és néprajzi örökségét. A város szimbóluma a Jász Múzeumban őrzött Lehel-kürtje, a jászok szent ereklyéje. Jászberény híres családbarát Állat- és Növénykertjéről, amely az ország egyik leghangulatosabb vidéki vadasparkja. A város főtere a monumentális épületekkel, a barokk templommal és a tágas parkokkal igazi mezővárosi hangulatot áraszt. Jászberény ma is a térség gazdasági motorja, ahol a hagyományőrzés (pl. Csángó Fesztivál) és az ipari fejlődés kéz a kézben jár, vonzó célpontot jelentve a kultúra és a természet kedvelőinek.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Jászberény ist das historische Zentrum der Region Jászság (Jazygien).", "Das Lehel-Horn, ein legendäres Elfenbeinhorn aus dem 10. Jahrhundert, wird im örtlichen Museum aufbewahrt.", "Der Tier- und Pflanzenpark von Jászberény ist eine der traditionsreichsten Anlagen Ungarns.", "Die Stadt feiert jährlich das Jazygen-Festival zur Pflege ihrer kulturellen Identität."],
+      "hu": [
+        "A jászberényi Jász Múzeumban látható a Lehel-kürtje, a jász nép 10. századi ereklyéje.",
+        "A Jászberényi Állatkert volt az ország első vidéki állatkertje után alapított egyik legrégebbi vadaspark.",
+        "Minden évben itt rendezik meg a Csángó Fesztivált, a népművészet egyik legfontosabb hazai ünnepét.",
+        "A város főterén álló Szentháromság-szobor a barokk vallásos művészet remeke.",
+        "Jászberény a hűtőgépgyártásáról is világszerte ismertté vált az elmúlt évtizedekben."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "kisujszallas",
@@ -2816,6 +3914,19 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/kisujszallas.webp",
     description: {"de": "Stadt in der Region Nagykunság mit landwirtschaftlicher Prägung.", "hu": "Nagykunsági város mezőgazdasági jelleggel.", "ro": "Oraș în regiunea Nagykunság cu caracter agricol.", "en": "City in the Nagykunság region with an agricultural character."},
     facts: {"de": ["Bekannt für sein Thermalbad.", "Geburtsort des Biologen István Györffy."], "hu": ["Termálfürdőjéről ismert.", "Györffy István biológus szülővárosa."], "ro": ["Cunoscut pentru baia sa termală.", "Locul de naștere al biologului István Györffy."], "en": ["Known for its thermal bath.", "Birthplace of biologist István Györffy."]},
+  
+    descriptionAdvanced: {
+      "de": "Kisújszállás liegt in der Region Nagykunság (Großkumanien) und blickt auf eine Geschichte zurück, die eng mit der Ansiedlung der Kumanen im Mittelalter verbunden ist. Die Stadt ist geprägt von einer ruhigen, ländlichen Atmosphäre und einer Architektur, die typisch für die Siedlungen der ungarischen Tiefebene ist. Ein bedeutendes Wahrzeichen ist das klassizistische Rathaus sowie die reformierte Kirche, die den religiösen Charakter der Region widerspiegelt. Kisújszállás ist stolz auf seine berühmten Söhne, darunter der Erfinder der modernen Computertechnik, John von Neumann, dessen Familie Wurzeln in der Stadt hatte. Heute bietet die Stadt mit dem Kumánia Heil- und Strandbad moderne Erholungsmöglichkeiten in einer traditionsbewussten Umgebung.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Kisújszállás ist ein bedeutendes Zentrum der kumanischen Kultur in Ungarn.", "Das Kumánia Heil- und Strandbad nutzt wertvolles Thermalwasser für medizinische Anwendungen.", "Die Stadt bewahrt die Traditionen des Handwerks und der kumanischen Volkskunst.", "Die Vorfahren von John von Neumann, dem Pionier der Informatik, stammten aus dieser Stadt."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "tatabanya",
@@ -2871,6 +3982,19 @@ export const hungaryCities: POI[] = [
         "A popular base for hiking in the Gerecse Mountains.",
         "The city features a modern sports center and a thermal bath."
       ]
+    },
+  
+    descriptionAdvanced: {
+      "de": "Tatabánya, am Fuße des Gerecse-Gebirges gelegen, hat sich von einer bedeutenden Bergbaustadt zu einem modernen Industrie- und Sportzentrum gewandelt. Das unübersehbare Wahrzeichen der Stadt ist der Turul-Vogel, die größte Vogelstatue aus Bronze in Europa, die auf einem Felsen hoch über der Stadt thront. Neben dem Turul-Denkmal befindet sich die Szelim-Höhle, eine beeindruckende natürliche Höhle mit prähistorischen Funden und einer fantastischen Aussicht. Tatabánya ist zudem für seine erfolgreiche Sporttradition bekannt und bietet zahlreiche Einrichtungen für Profi- und Freizeitsportler. Die waldreiche Umgebung des Gerecse-Gebirges lädt zu ausgiebigen Wanderungen und Naturbeobachtungen ein.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Turul-Denkmal in Tatabánya ist die größte Bronzestatue eines Vogels in Europa.", "Die Szelim-Höhle ist ein bedeutendes paläontologisches Denkmal direkt neben dem Turul-Vogel.", "Die Stadt hat eine lange Bergbaugeschichte, die im Open-Air-Bergbaumuseum dokumentiert wird.", "Tatabánya ist ein wichtiger Knotenpunkt an der Bahnstrecke Wien-Budapest."],
+      "hu": [],
+      "ro": [],
+      "en": []
     },
   },
   {
@@ -2928,6 +4052,19 @@ export const hungaryCities: POI[] = [
         "A major industrial hub, home to a large Suzuki manufacturing plant."
       ]
     },
+  
+    descriptionAdvanced: {
+      "de": "Esztergom, die einstige Hauptstadt Ungarns und Wiege des ungarischen Christentums, liegt malerisch an der Donau direkt gegenüber der Slowakei. Hier wurde der erste ungarische König, der Heilige Stephan, gekrönt, und die Stadt ist bis heute der Sitz des ungarischen Primas. Das alles beherrschende Wahrzeichen ist die Esztergomer Basilika, die größte Kirche des Landes, deren gewaltige Kuppel schon von weitem sichtbar ist. In der Schatzkammer der Basilika werden wertvolle sakrale Kunstschätze aus über einem Jahrtausend aufbewahrt. Neben der Basilika laden die Reste des königlichen Schlosses und die charmante Altstadt (Víziváros) am Donauufer dazu ein, in die reiche Geschichte Ungarns einzutauchen.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Esztergom war die erste Hauptstadt des ungarischen Königreichs.", "Die Basilika von Esztergom ist das größte Kirchenbauwerk in Ungarn.", "In der Stadt wurde der erste ungarische König, der Heilige Stephan, geboren und gekrönt.", "Die Maria-Valeria-Brücke verbindet Esztergom mit der slowakischen Stadt Štúrovo."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "tata",
@@ -2938,6 +4075,19 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/tata.webp",
     description: {"de": "Die 'Stadt der Gewässer', bekannt für ihre Lakes und die Burg.", "hu": "A 'Vizek városa', tavairól és váráról ismert.", "ro": "'Orașul apelor', cunoscut pentru lacurile și castelul său.", "en": "The 'City of Waters', known for its lakes and castle."},
     facts: {"de": ["Die Burg Tata liegt malerisch am Ufer des Öreg-Sees.", "Beliebter Ort für Vogelbeobachtungen."], "hu": ["A tatai vár festői környezetben, az Öreg-tó partján fekszik.", "Népszerű madármegfigyelő hely."], "ro": ["Castelul Tata este situat pitoresc pe malul Lacului Öreg.", "Loc popular pentru observarea păsărilor."], "en": ["Tata Castle is picturesquely situated on the shores of Lake Öreg.", "Popular spot for bird watching."]},
+  
+    descriptionAdvanced: {
+      "de": "Tata, auch als die 'Stadt der Gewässer' bekannt, ist eine der idyllischsten Kleinstädte Ungarns und liegt malerisch am Ufer des Öreg-Sees (Alten See). Das Wahrzeichen der Stadt ist die am Seeufer gelegene mittelalterliche Burg, die einst eine beliebte Sommerresidenz ungarischer Könige wie Sigismund von Luxemburg war. Tata besticht durch sein barockes Stadtbild, prachtvolle Schlösser wie das Esterházy-Schloss und zahlreiche Parks, die die Stadt in ein grünes Paradies verwandeln. Einzigartig ist auch der Englische Garten mit seinen künstlichen Ruinen und Thermalquellen, der zum Träumen und Verweilen einlädt. Jedes Jahr im November lockt der 'Wilde Gänse-Zug' Tausende Naturfreunde an den Öreg-See, um die Rast der Zugvögel zu beobachten.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Tata wird wegen seiner vielen Seen und Quellen oft als 'Stadt der Gewässer' bezeichnet.", "Die Burg von Tata am Öreg-See war eine wichtige Residenz der ungarischen Könige.", "Der Englische Garten von Tata war der erste seiner Art in Ungarn.", "Der Öreg-See ist ein international bedeutendes Schutzgebiet für wandernde Wildgänse."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "salgotarjan",
@@ -2948,6 +4098,19 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/salgotarjan.webp",
     description: {"de": "Stadt in einem Tal umgeben von Bergen, ehemalige Bergbaustadt.", "hu": "Hegyekkel körülvett völgyben fekvő város, egykori bányászváros.", "ro": "Oraș într-o vale înconjurată de munți, fost oraș minier.", "en": "City in a valley surrounded by mountains, former mining town."},
     facts: {"de": ["In der Nähe befinden sich die Burgruinen Salgó und Somoskő.", "Hat ein unterirdisches Bergbaumuseum."], "hu": ["A közelben található Salgó és Somoskő vára.", "Földalatti bányamúzeummal rendelkezik."], "ro": ["În apropiere se află ruinele castelelor Salgó și Somoskő.", "Are un muzeu minier subteran."], "en": ["Nearby are the castle ruins of Salgó and Somoskő.", "Has an underground mining museum."]},
+  
+    descriptionAdvanced: {
+      "de": "Salgótarján, eingebettet in die bewaldeten Täler des Karancs-Medves-Gebirges im Norden Ungarns, ist eine Stadt mit einer starken Bergbautradition und einer faszinierenden Umgebung. Nach dem Niedergang des Bergbaus hat sich die Stadt zu einem Tor für Naturtouristen entwickelt, die die bizarren Basaltformationen der Region entdecken möchten. Ein absolutes Highlight ist das unterirdische Bergbaumuseum, das einzige seiner Art in Ungarn, das einen authentischen Einblick in die Arbeit der Kumpel bietet. Hoch über der Stadt thronen die Ruinen der Burgen Salgó und Somoskő, die auf gewaltigen Basaltkegeln errichtet wurden und spektakuläre Ausblicke bieten. Die Region ist zudem bekannt für das europäische Diplom für Naturschutzgebiete, das die Einzigartigkeit der hiesigen vulkanischen Landschaft würdigt.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Salgótarján beherbergt das einzige unterirdische Bergbaumuseum Ungarns.", "Die Burgruine Salgó steht auf einem 625 Meter hohen Basaltkegel.", "In der Nähe befinden sich die berühmten Basaltorgeln von Somoskő.", "Die Stadt liegt in einem der waldreichsten und gebirgigsten Gebiete Ungarns."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "balassagyarmat",
@@ -2958,6 +4121,19 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/balassagyarmat.webp",
     description: {"de": "Grenzstadt zur Slowakei, bekannt als die 'mutigste Stadt'.", "hu": "Határváros Szlovákiával, a 'Legbátrabb város' néven ismert.", "ro": "Oraș de graniță cu Slovacia, cunoscut ca 'cel mai curajos oraș'.", "en": "Border town with Slovakia, known as the 'Bravest City'."},
     facts: {"de": ["Wehrte 1919 tschechoslowakische Truppen ab.", "Ehemaliger Sitz des Komitats Nógrád."], "hu": ["1919-ben visszaverte a csehszlovák csapatokat.", "Nógrád vármegye egykori székhelye."], "ro": ["A respins trupele cehoslovace în 1919.", "Fostul sediu al comitatului Nógrád."], "en": ["Repelled Czechoslovak troops in 1919.", "Former seat of Nógrád county."]},
+  
+    descriptionAdvanced: {
+      "de": "Balassagyarmat, im Norden an der Grenze zur Slowakei gelegen, trägt stolz den Ehrentitel 'Civitas Fortissima' (die tapferste Stadt). Diesen Namen erhielt sie für den heldenhaften Widerstand ihrer Bürger gegen die tschechoslowakische Besatzung im Jahr 1919. Die Stadt ist ein kulturelles Zentrum der Region Palócland und bewahrt die einzigartigen Traditionen und den Dialekt dieser Volksgruppe. Sehenswert ist das Palóc-Museum, das tiefe Einblicke in die traditionelle Lebensweise, die farbenfrohen Trachten und die Volkskunst der Region bietet. Balassagyarmat besticht zudem durch seine barocken und klassizistischen Gebäude, die vom einstigen Glanz als Komitatshauptstadt zeugen.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Balassagyarmat trägt den Ehrentitel 'Civitas Fortissima' für ihre Tapferkeit im Jahr 1919.", "Die Stadt beherbergt das erste Palóc-Museum des Landes, das 1891 gegründet wurde.", "Balassagyarmat war über zwei Jahrhunderte lang der Sitz des Komitats Nógrád.", "Die Stadt liegt direkt am Fluss Ipoly, der die Grenze zur Slowakei bildet."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "holloko",
@@ -2968,6 +4144,19 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/holloko.webp",
     description: {"de": "Ein traditionelles Paloczen-Dorf, das als lebendiges Museum erhalten ist.", "hu": "Hagyományos palóc falu, amelyet élő múzeumként őriztek meg.", "ro": "Un sat tradițional Palóc, conservat ca un muzeu viu.", "en": "A traditional Palóc village preserved as a living museum."},
     facts: {"de": ["Das erste Dorf weltweit, das UNESCO-Welterbe wurde.", "Überragt von einer Burgruine aus dem 13. Jahrhundert."], "hu": ["A világ első faluja, amely UNESCO világörökség lett.", "Egy 13. századi várrom magasodik fölé."], "ro": ["Primul sat din lume care a devenit Patrimoniu Mondial UNESCO.", "Dominat de ruinele unui castel din secolul al XIII-lea."], "en": ["The first village in the world to become a UNESCO World Heritage site.", "Overlooked by a 13th-century castle ruin."]},
+  
+    descriptionAdvanced: {
+      "de": "Hollókő ist ein lebendiges Museumsdorf im Norden Ungarns und war das erste Dorf weltweit, das von der UNESCO zum Weltkulturerbe erklärt wurde. Das 'Alte Dorf' (Ófalu) besteht aus 67 traditionellen Lehmhäusern mit charakteristischen Holzbalkonen, die nach einem Brand im frühen 20. Jahrhundert in ihrem ursprünglichen Stil wiedererrichtet wurden. Hier wird die Kultur der Palócen noch aktiv gelebt, sei es durch das Tragen traditioneller Trachten an Feiertagen oder durch das Ausüben alter Handwerke. Über dem Dorf thront die Ruine der Burg Hollókő aus dem 13. Jahrhundert, von der aus man einen weiten Blick über die hügelige Landschaft der Cserhát hat. Ein Besuch in Hollókő ist wie eine Zeitreise in ein Ungarn vergangener Jahrhunderte.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Hollókő war 1987 das erste Dorf weltweit, das zum UNESCO-Weltkulturerbe erklärt wurde.", "Das 'Alte Dorf' bewahrt die traditionelle Architektur der Palócen in ihrer reinsten Form.", "Die Bewohner tragen zu festlichen Anlässen wie Ostern ihre prächtigen, handgestickten Trachten.", "Die Burg Hollókő wurde nach der tatarischen Invasion zum Schutz der Region erbaut."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "szentendre",
@@ -3024,6 +4213,19 @@ export const hungaryCities: POI[] = [
         "Located at the gateway to the scenic Danube Bend."
       ]
     },
+  
+    descriptionAdvanced: {
+      "de": "Szentendre, malerisch am Donauknie nördlich von Budapest gelegen, ist als 'Stadt der Künstler' bekannt und besticht durch ihr mediterranes Flair. Die Stadt wurde im 17. Jahrhundert von serbischen, griechischen und dalmatinischen Flüchtlingen geprägt, was man heute noch an den prächtigen orthodoxen Kirchen und der Architektur erkennen kann. Die verwinkelten Kopfsteinpflastergassen, bunten Fassaden und kleinen Galerien machen Szentendre zu einem der beliebtesten Ausflugsziele in Ungarn. Neben dem berühmten Marzipanmuseum und dem Freilichtmuseum (Skanzen) bietet die Stadt eine Vielzahl an kleinen Werkstätten für Kunsthandwerk. Ein Spaziergang entlang der Donaupromenade rundet das Erlebnis in dieser farbenfrohen und geschichtsträchtigen Stadt ab.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Szentendre ist berühmt für seine lebendige Künstlerkolonie und zahlreiche Galerien.", "Die Stadt wurde architektonisch stark von serbischen Siedlern im 17. Jahrhundert geprägt.", "Das Szentendreer Skanzen ist das größte Freilichtmuseum für Volksarchitektur in Ungarn.", "Das Marzipanmuseum zeigt beeindruckende Skulpturen aus Zucker und Mandeln."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "godollo",
@@ -3034,6 +4236,25 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/godollo.webp",
     description: {"de": "Stadt nahe Budapest, berühmt für ihr königliches Schloss.", "hu": "Budapest közeli város, híres királyi kastélyáról.", "ro": "Oraș lângă Budapesta, faimos pentru palatul său regal.", "en": "City near Budapest, famous for its royal palace."},
     facts: {"de": ["Das Schloss Gödöllő war die Sommerresidenz von Kaiserin Sisi.", "Sitz der Szent-István-Universität."], "hu": ["A Gödöllői Királyi Kastély Sisi császárné nyári rezidenciája volt.", "A Szent István Egyetem székhelye."], "ro": ["Palatul Gödöllő a fost reședința de vară a Împărătesei Sisi.", "Sediul Universității Szent István."], "en": ["The Royal Palace of Gödöllő was the summer residence of Empress Sisi.", "Seat of Szent István University."]},
+  
+    descriptionAdvanced: {
+      "de": "Gödöllő ist weltberühmt für das Grassalkovich-Schloss, eines der bedeutendsten Barockensembles Ungarns und die einstige Lieblingsresidenz von Kaiserin Elisabeth (Sissi). Das Schloss ist ein architektonisches Meisterwerk mit prachtvollen Prunksälen, einem königlichen Reitstall und einem weitläufigen Schlosspark, der zum Flanieren einlädt. Die enge Verbindung zu ",
+      "hu": "Gödöllő Budapesttől keletre fekvő város, amely leginkább monumentális barokk kastélyáról, a Grassalkovich-kastélyról híres. Ez az épület Magyarország egyik legnagyobb és legszebb barokk palotája, amely a 19. század második felében I. Ferenc József és Erzsébet királyné (Sisi) kedvenc pihenőhelyévé vált. A kastély falai között ma múzeum működik, amely hűen mutatja be a királyi pár életét és a magyar arisztokrácia mindennapjait. A város azonban több egy kastélynál: büszkélkedhet a Szent István Egyetemmel, gyönyörű parkokkal és a Gödöllői-dombság természeti értékeivel. Gödöllő kulturális élete is gazdag, számos zenei és hagyományőrző rendezvénynek ad otthont, amelyek a királyi múltat idézik fel.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Schloss Gödöllő war die bevorzugte Sommerresidenz der Kaiserin Sissi.", "Es ist eines der größten und bedeutendsten Barockschlösser Ungarns.", "Gödöllő beherbergt das einzige Barocktheater des Landes, das noch bespielt wird.", "Die Stadt ist ein Zentrum der Agrarwissenschaften mit einer traditionsreichen Universität."],
+      "hu": [
+        "A gödöllői Grassalkovich-kastély a magyarországi barokk építészet egyik csúcspontja.",
+        "Erzsébet királyné (Sisi) több időt töltött itt, mint bármely más rezidenciáján Bécsen kívül.",
+        "Itt található az ország egyik legrégebbi és legjelentősebb agrártudományi egyeteme.",
+        "A Gödöllői Királyi Kastélypark természetvédelmi terület, számos ritka növényfajjal.",
+        "A városban található a Máriabesnyői Nagyboldogasszony Bazilika, amely fontos zarándokhely."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "vac",
@@ -3044,6 +4265,25 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/vac.webp",
     description: {"de": "Historische Stadt am Donauknie mit barocker Architektur.", "hu": "Történelmi város a Dunakanyarban, barokk építészettel.", "ro": "Oraș istoric la Cotul Dunării cu arhitectură barocă.", "en": "Historic city at the Danube Bend with Baroque architecture."},
     facts: {"de": ["Hat den einzigen Triumphbogen Ungarns.", "Sitz eines katholischen Bistums."], "hu": ["Itt található Magyarország egyetlen diadalíve.", "Katolikus püspöki székhely."], "ro": ["Are singurul arc de triumf din Ungaria.", "Sediul unei episcopii catolice."], "en": ["Has the only triumphal arch in Hungary.", "Seat of a Catholic bishopric."]},
+  
+    descriptionAdvanced: {
+      "de": "Vác, am malerischen Donauknie gelegen, ist eine Stadt von barocker Schönheit und reicher religiöser Tradition. Das Zentrum der Stadt ist der prächtige Hauptplatz (Március 15. tér), der von aufwendig restaurierten Gebäuden und der markanten Unterkirche gesäumt wird. Einzigartig ist die Vác-Mumienausstellung ",
+      "hu": "Vác a Duna bal partján fekvő festői barokk város, amely gazdag történelmi múltjával és vallási emlékeivel tűnik ki a Dunakanyar települései közül. A város központja a Március 15. tér, amely egyedülálló, szinte érintetlen barokk épületeivel és hangulatos kávézóival varázsolja el a látogatókat. Vác büszkélkedhet Magyarország egyetlen diadalívével, amelyet Mária Terézia tiszteletére emeltek, valamint az impozáns Székesegyházzal. A város nemzetközi hírnevét az 1994-ben felfedezett 'váci múmiáknak' is köszönheti, amelyek a Fehérek templomának kriptájából kerültek elő, és ma a Tragor Ignác Múzeumban láthatók. A Duna-parti sétány és a környező dombok kiváló lehetőséget nyújtanak a kikapcsolódásra.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Der Dom von Vác ist das einzige klassizistische Kathedralgebäude in Ungarn.", "Die Mumien von Vác wurden zufällig bei Renovierungsarbeiten in einer Krypta entdeckt.", "Der Triumphbogen in Vác ist das einzige Bauwerk dieser Art im ganzen Land.", "Vác besitzt einen der schönsten barocken Hauptplätze in Mitteleuropa."],
+      "hu": [
+        "Vác az egyetlen magyarországi város, ahol klasszicista stílusú diadalív (Kőkapu) található.",
+        "A váci Székesegyház az ország egyik legjelentősebb és legnagyobb klasszicista temploma.",
+        "A 'Memento Mori' kiállítás a 18. századi természetes módon mumifikálódott polgárokat mutatja be.",
+        "Vácon épült fel az első magyarországi vasútvonal végállomása 1846-ban.",
+        "A város főtere, a Március 15. tér, Európa egyik legszebb barokk stílusú tere."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "visegrad",
@@ -3054,6 +4294,25 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/visegrad.webp",
     description: {"de": "Kleine Stadt am Donauknie, berühmt für ihre mittelalterliche Zitadelle.", "hu": "Kisváros a Dunakanyarban, híres középkori fellegváráról.", "ro": "Mic oraș la Cotul Dunării, faimos pentru cetatea sa medievală.", "en": "Small town at the Danube Bend, famous for its medieval citadel."},
     facts: {"de": ["Ehemalige königliche Residenz.", "Namensgeber der Visegrád-Gruppe (V4)."], "hu": ["Egykori királyi székhely.", "A Visegrádi Együttműködés (V4) névadója."], "ro": ["Fostă reședință regală.", "A dat numele Grupului de la Visegrád (V4)."], "en": ["Former royal residence.", "Namesake of the Visegrád Group (V4)."]},
+  
+    descriptionAdvanced: {
+      "de": "Visegrád, im Herzen des spektakulären Donauknies gelegen, war im Mittelalter eine der glanzvollsten Residenzen der ungarischen Könige. Hoch auf einem steilen Fels thront die Wolkenburg (Fellegvár), von der aus man einen der atemberaubendsten Panoramablicke über die Donauschleife genießen kann. Im Tal befinden sich die Überreste des Renaissance-Palastes von König Matthias Corvinus, der einst als ",
+      "hu": "Visegrád a Dunakanyar legszebb pontján fekvő történelmi város, amely a középkorban a magyar királyok székhelye és a térség egyik legfontosabb politikai központja volt. A város fölé magasodik a Fellegvár, amelynek falai között egykor a magyar koronázási jelvényeket is őrizték, s ahonnan lenyűgöző panoráma nyílik a folyó éles kanyarulatára. A Duna partján található a Királyi Palota, amelyet Károly Róbert alapított, és Mátyás király idején érte el fénykorát mint pazar reneszánsz rezidencia. Visegrád ma is a magyar történelem élő emlékműve, ahol minden évben megrendezik a Nemzetközi Palotajátékokat, felidézve a lovagi tornák és királyi találkozók hangulatát. A környező erdők és kirándulóhelyek a természetjárók kedvelt célpontjai.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Visegrád war im 14. Jahrhundert kurzzeitig die offizielle Hauptstadt Ungarns.", "Der Renaissance-Palast von König Matthias war berühmt für seine prachtvollen Marmorbrunnen.", "Die Wolkenburg (Fellegvár) bewahrte jahrhundertelang die ungarischen Kroninsignien auf.", "Das Donauknie bei Visegrád gilt als eine der schönsten Flusslandschaften Europas."],
+      "hu": [
+        "1335-ben itt tartották a híres visegrádi királytalálkozót a magyar, a cseh és a lengyel uralkodó részvételével.",
+        "A Salamon-torony a középkori magyar várépítészet egyik legépebben maradt lakótornya.",
+        "A Visegrádi Fellegvár a 13. században épült IV. Béla király parancsára.",
+        "Mátyás király palotáját kortársai a 'földi paradicsomként' emlegették reneszánsz szépsége miatt.",
+        "A város felett található Nagyvillám-hegyen bobpálya és sípálya is várja az aktív turistákat."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "kaposvar",
@@ -3110,6 +4369,25 @@ export const hungaryCities: POI[] = [
         "Located near the Zselic Landscape Protection Area (Starry Sky Park)."
       ]
     },
+  
+    descriptionAdvanced: {
+      "de": "Kaposvár, die ",
+      "hu": "Kaposvár, Somogy vármegye székhelye, a 'virágok városa', amely nevét gondozott parkjairól, színes köztereiről és szecessziós építészetéről kapta. A város kulturális élete kiemelkedő, a Csiky Gergely Színház az ország egyik legnevesebb teátruma, míg a Rippl-Rónai Múzeum a híres posztimpresszionista festőművész hagyatékát őrzi. Kaposvár belvárosa sétálóutcáival és felújított palotáival mediterrán hangulatot áraszt, ahol a művészet és a mindennapi élet kéz a kézben jár. A várost körülöleli a Zselic dombvidéke, amely nemcsak természeti szépségeiről, hanem a 'Csillagparkjáról' is híres, hiszen itt az ország egyik legalacsonyabb fényszennyezésű egét figyelhetjük meg. Kaposvár a modern dunántúli város és a hagyományőrző vidéki központ ideális ötvözete.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Kaposvár wird aufgrund ihrer vielen Parks und Gärten oft als 'Stadt der Blumen' bezeichnet.", "Der Maler József Rippl-Rónai, ein Meister des ungarischen Jugendstils, lebte und wirkte hier.", "Das Csiky-Gergely-Theater ist ein architektonisches Juwel der Stadt.", "Die Region Zselic bei Kaposvár ist einer der ersten Sternenparks in Europa."],
+      "hu": [
+        "Kaposvárt hét dombra építették, hasonlóan az örök városhoz, Rómához.",
+        "Itt található a Rippl-Rónai Emlékház és Látogatóközpont, a művész egykori villájában.",
+        "A Csiky Gergely Színház épülete a magyar szecessziós építészet egyik remekműve.",
+        "A közeli Deseda-tó Magyarország leghosszabb mesterséges tava, kedvelt üdülőhely.",
+        "A Zselici Csillagoségbolt-park az ország első ilyen jellegű nemzetközi minősítésű területe."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "siofok",
@@ -3120,6 +4398,25 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/siofok.webp",
     description: {"de": "Die 'Hauptstadt des Plattensees', bekannt für ihr reges Nachtleben und Strände.", "hu": "A 'Balaton fővárosa', pezsgő éjszakai életéről és strandjairól ismert.", "ro": "'Capitala Lacului Balaton', cunoscută pentru viața de noapte vibrantă și plaje.", "en": "The 'Capital of Lake Balaton', known for its vibrant nightlife and beaches."},
     facts: {"de": ["Geburtsort des Komponisten Emmerich Kálmán.", "Wahrzeichen ist der Wasserturm im Zentrum."], "hu": ["Kálmán Imre zeneszerző szülővárosa.", "Jelképe a központban álló Víztorony."], "ro": ["Locul de naștere al compozitorului Emmerich Kálmán.", "Simbolul său este Turnul de Apă din centru."], "en": ["Birthplace of composer Emmerich Kálmán.", "Its landmark is the Water Tower in the center."]},
+  
+    descriptionAdvanced: {
+      "de": "Siófok, am Ostufer des Plattensees gelegen, ist als die ",
+      "hu": "Siófok a Balaton déli partjának legnagyobb városa, amelyet méltán neveznek a 'magyar tenger nyári fővárosának'. A város a Balaton legfontosabb turisztikai központja, ahol a sekély, homokos part és a pezsgő éjszakai élet (különösen a Petőfi sétányon) vonzza a látogatók tömegeit. Siófok azonban nem csak a strandolásról szól: a város jelképe a felújított Víztorony, amelynek tetejéről lenyűgöző panoráma nyílik a tó. A kikötő a Balaton legforgalmasabb hajózási csomópontja, ahonnan számos menetrendszerinti és sétahajó indul. Kulturális értékei között Kálmán Imre, a világhírű operettszerző szülőháza és múzeuma emelkedik ki, emlékeztetve a város elegáns, múlt századi hangulatára.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Siófok ist die größte Stadt am Plattensee und ein Zentrum des Sommertourismus.", "Der Komponist Emmerich Kálmán, Schöpfer der 'Csárdásfürstin', wurde hier geboren.", "Der 45 Meter hohe Wasserturm im Stadtzentrum ist das Wahrzeichen von Siófok.", "Der Hafen von Siófok ist der Heimathafen der größten Flotte am Balaton."],
+      "hu": [
+        "Siófok a világhírű operettszerző, Kálmán Imre ('A Csárdáskirálynő' szerzője) szülővárosa.",
+        "A siófoki kikötőből indul a legrégebbi balatoni hajójárat a túlpartra, Balatonfüredre.",
+        "A város jelképe a 45 méter magas Víztorony, amely ma forgó kávézóként és kilátóként működik.",
+        "Siófoknál található a Sió-csatorna zsiliprendszere, amely a Balaton vízszintjét szabályozza.",
+        "A város strandjai összesen több mint 15 kilométer hosszan nyúlnak el a tó partján."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "balatonfoldvar",
@@ -3130,6 +4427,25 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/balatonfoldvar.webp",
     description: {"de": "Beliebter Ferienort am Südufer des Plattensees.", "hu": "Népszerű üdülőhely a Balaton déli partján.", "ro": "Stațiune populară pe malul sudic al Lacului Balaton.", "en": "Popular resort town on the southern shore of Lake Balaton."},
     facts: {"de": ["Bekannt für seinen großen Yachthafen.", "Hat eine schöne platanengesäumte Promenade."], "hu": ["Nagy vitorláskikötőjéről ismert.", "Gyönyörű platánsoros sétánya van."], "ro": ["Cunoscut pentru portul său mare de iahturi.", "Are o frumoasă promenadă mărginită de platani."], "en": ["Known for its large marina.", "Has a beautiful plane tree-lined promenade."]},
+  
+    descriptionAdvanced: {
+      "de": "Balatonföldvár gilt als einer der elegantesten und am besten geplanten Ferienorte am Südufer des Plattensees. Die Stadt zeichnet sich durch ihre großzügigen Parkanlagen, die breiten Promenaden und den prächtigen Yachthafen aus, der zu den schönsten am See gehört. Ein besonderes Merkmal sind die vielen historischen Villen aus der Zeit der Jahrhundertwende, die der Stadt einen nostalgischen Charme verleihen. Vom Hochufer aus bietet sich ein atemberaubender Panoramablick über den Balaton bis hin zur Halbinsel Tihany am gegenüberliegenden Ufer. Balatonföldvár ist ein Ort der Ruhe und Erholung, der besonders bei Seglern und Familien beliebt ist, die eine kultivierte Urlaubsatmosphäre schätzen.",
+      "hu": "Balatonföldvár a déli part egyik legelegánsabb üdülőhelye, amely parkosított környezetével, hatalmas platánfáival és patinás villáival a békebeli Balaton hangulatát idézi. A települést a 19. század végén a Széchényi család alapította mint tervezett fürdővárost, s azóta is megőrizte rendezett, nyugodt arculatát. A város legszebb része a több mint egy kilométer hosszú, kettős platánsorral szegélyezett Kvassay sétány, amely közvetlenül a vízparton húzódik. Balatonföldvár büszkélkedhet a Balaton egyik legmodernebb vitorláskikötőjével, valamint a magasparton található Hajózástörténeti Látogatóközponttal, ahonnan az egyik legszebb kilátás nyílik a Tihanyi-félszigetre és a tó északi partjának hegyeire.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Balatonföldvár besitzt einen der größten und modernsten Segelhäfen am Plattensee.", "Das Hochufer bietet einen der schönsten Aussichtspunkte auf den gesamten See.", "Die Stadt wurde Ende des 19. Jahrhunderts systematisch als Kurort geplant.", "Der weitläufige Park am Hafen beherbergt seltene und geschützte Baumarten."],
+      "hu": [
+        "A várost a 19. század végén gróf Széchényi Imre és Viktor alapította és tervezte meg.",
+        "A Hajózástörténeti Látogatóközpont épülete egy hajót formáz, tetején 25 méter magas kilátóval.",
+        "A település nevét a területén található vaskori kelta földvárról kapta.",
+        "A Kvassay sétány platánfái több mint 100 évesek, és helyi védettség alatt állnak.",
+        "Balatonföldvár az ország egyik legvirágosabb városa, többször nyert el rangos kertészeti díjakat."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "nyiregyhaza",
@@ -3186,6 +4502,25 @@ export const hungaryCities: POI[] = [
         "The region is famous for its apple and plum production."
       ]
     },
+  
+    descriptionAdvanced: {
+      "de": "Nyíregyháza, im Nordosten Ungarns gelegen, ist eine dynamische Stadt, die vor allem für ihren außergewöhnlichen Zoo und das Heilbad Sóstó bekannt ist. Der Zoo von Nyíregyháza, eingebettet in einen Eichenwald, gilt als einer der besten Europas und bietet Tieren in weitläufigen Gehegen einen natürlichen Lebensraum. Sóstógyógyfürdő, das ",
+      "hu": "Nyíregyháza Szabolcs-Szatmár-Bereg vármegye székhelye, az ország hetedik legnagyobb városa, amely dinamikus fejlődésével és családbarát turisztikai kínálatával emelkedik ki. A város legfontosabb vonzereje a Sóstógyógyfürdő negyed, ahol sós vizű tó, modern élményfürdő és egy különleges falumúzeum várja a látogatókat. Itt található a Nyíregyházi Állatpark is, amely több alkalomal elnyerte Európa legjobb állatkertje címet, és különleges természetközeli kifutóival világszínvonalú élményt nyújt. Nyíregyháza belvárosa parkjaival, templomaival és pezsgő tereivel barátságos alföldi hangulatot áraszt. Gazdaságában az élelmiszeripar mellett a modern technológiai ipar is egyre nagyobb szerepet játszik, miközben a város megőrizte 'zöld' jellegét.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Der Zoo von Nyíregyháza (Sóstó Zoo) beherbergt über 5000 Tiere aus aller Welt.", "Sóstógyógyfürdő ist ein staatlich anerkannter Luft- und Badekurort am Stadtrand.", "Die Stadt ist ein Zentrum der ungarischen Obstproduktion, besonders für Äpfel und Pflaumen.", "Das Freilichtmuseum Sóstó zeigt die traditionelle Dorfarchitektur des Nordostens."],
+      "hu": [
+        "A Nyíregyházi Állatpark (Sóstó Zoo) 30 hektáron több mint 500 faj 5000 egyedét mutatja be.",
+        "A Sóstói Múzeumfalu Magyarország egyik legnagyobb szabadtéri néprajzi múzeuma.",
+        "A várost 1753-ban szlovák telepesek (tirpákok) népesítették be újra, akiknek emlékét néprajzi értékek őrzik.",
+        "Nyíregyháza híres a Krúdy Gyula emlékezetéről, a város szülöttéről, aki a magyar irodalom egyik legnagyobb alakja.",
+        "A Sóstói-tó vize és a környező erdő gyógyhely minősítéssel rendelkezik."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "mateszalka",
@@ -3196,6 +4531,27 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/mateszalka.webp",
     description: {"de": "Stadt im Osten Ungarns, bekannt als die 'Stadt des Lichts'.", "hu": "Kelet-magyarországi város, a 'Fény városa' néven ismert.", "ro": "Oraș în estul Ungariei, cunoscut ca 'Orașul Luminii'.", "en": "City in eastern Hungary, known as the 'City of Light'."},
     facts: {"de": ["Hier wurde 1888 die erste elektrische Straßenbeleuchtung Ungarns installiert.", "Wichtiges Zentrum der Region Szatmár."], "hu": ["Itt telepítették Magyarország első elektromos közvilágítását 1888-ban.", "A Szatmár régió fontos központja."], "ro": ["Aici a fost instalat primul iluminat stradal electric din Ungaria în 1888.", "Centru important al regiunii Szatmár."], "en": ["The first electric street lighting in Hungary was installed here in 1888.", "Important center of the Szatmár region."]},
+  
+    descriptionAdvanced: {
+      "de": "Mátészalka, im Nordosten Ungarns an der Grenze zwischen den Regionen Nyírség und Szatmár gelegen, ist historisch als die ",
+      "hu": "Mátészalka a Nyírség és a Szatmári-síkság határán fekvő város, amely leginkább a technológiai haladás úttörőjeként vonult be a magyar történelembe. Ez volt az első magyarországi település, ahol 1888-ban kigyúlt a villanyvilágítás, megelőzve ezzel még Budapestet is. A város kulturális élete gazdag, a Szatmári Múzeum egyedülálló kocsi- és szekérgyűjteménye nemzetközi hírű. Mátészalka büszke szülötteire is, köztük Tony Curtis filmszínész családjára, akinek emlékét a városban állandó kiállítás őrzi. A település fontos közlekedési és gazdasági központ a térségben, miközben őrzi a szatmári táj jellegzetem hangulatát és vendégszeretetét.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["In Mátészalka erstrahlte 1888 zum ersten Mal in ganz Ungarn elektrisches Licht in den Straßen.",
+        "Das Szatmár-Museum der Stadt beherbergt eine europaweit einzigartige Sammlung von über 100 historischen Wagen und Schlitten.",
+        "Die Stadt feiert jährlich die 'Licht-Tage' (Fényes Napok) zur Erinnerung an die Pionierrolle bei der Elektrifizierung.",
+        "Der Vater des berühmten US-Schauspielers Tony Curtis stammte aus Mátészalka.",
+        "Mátészalka ist ein wichtiger Eisenbahnknotenpunkt für den Verkehr in Richtung Rumänien und die Ukraine."],
+      "hu": ["Mátészalka a 'fény városa', itt vezették be először az utcai villanyvilágítást Magyarországon.",
+        "A Szatmári Múzeum kerék- és szekérgyűjteménye Európa-szerte híres és egyedülálló.",
+        "A városban rendezik meg évente a Fényes Napok fesztivált a villanyvilágítás emlékére.",
+        "Mátészalka központjában áll a Tony Curtis Emlékterem, a színész apjának tiszteletére.",
+        "A település fontos vasúti és közúti csomópont a román és ukrán határ közelében."],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "vasarosnameny",
@@ -3206,6 +4562,27 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/vasarosnameny.webp",
     description: {"de": "Das 'Herz von Bereg', eine Stadt an der Theiß.", "hu": "A 'Bereg szíve', város a Tisza partján.", "ro": "'Inima Beregului', un oraș pe râul Tisa.", "en": "The 'Heart of Bereg', a city on the Tisza river."},
     facts: {"de": ["Beliebtes Ziel für Wassertourismus.", "Hat ein Thermalbad und einen Aquapark."], "hu": ["A víziturisztika népszerű célpontja.", "Termálfürdővel és aquaparkkal rendelkezik."], "ro": ["Destinație populară pentru turismul nautic.", "Are o baie termală și un aquaparc."], "en": ["Popular destination for water tourism.", "Has a thermal bath and an aquapark."]},
+  
+    descriptionAdvanced: {
+      "de": "Vásárosnamény, oft als das ",
+      "hu": "Vásárosnamény a ",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Bereg-Museum im Tomcsányi-Schloss zeigt die weltweit bedeutendste Sammlung von Bereger Volkskunst.",
+        "Der Strand von Gergelyiugornya gilt als einer der schönsten und beliebtesten Flussstrände an der Oberen Theiß.",
+        "Die Stadt liegt an der Kreuzung dreier bedeutender Flüsse, was sie zu einem Zentrum für Kanu- und Bootstouren macht.",
+        "Vásárosnamény beherbergt mit dem Atlantika-Wasserpark eines der größten Erlebnisbäder der Region.",
+        "Die Region ist berühmt für ihre jahrhundertealte Tradition der handgefertigten Bereger Stickerei."],
+      "hu": ["Vásárosnamény a Beregi-síkság gazdasági és kulturális központja.",
+        "Gergelyiugornya a Felső-Tisza vidékének legnépszerűbb tiszai strandja.",
+        "A Beregi Múzeum a 18. századi, barokk stílusú Tomcsányi-kastélyban kapott helyet.",
+        "A város híres a beregi hímzésről, amely a tájegység egyik legfontosabb népművészeti kincse.",
+        "Itt található az Atlantika Vízividámpark, az ország egyik legnagyobb vidéki aquaparkja."],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "szekszard",
@@ -3216,6 +4593,27 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/szekszard.webp",
     description: {"de": "Die kleinste Komitatshauptstadt Ungarns, berühmt für ihre Rotweine.", "hu": "Magyarország legkisebb megyeszékhelye, vörösborairól híres.", "ro": "Cea mai mică reședință de județ din Ungaria, faimoasă pentru vinurile sale roșii.", "en": "The smallest county capital in Hungary, famous for its red wines."},
     facts: {"de": ["Zentrum der Weinregion Szekszárd.", "Geburtsort des Dichters Mihály Babits."], "hu": ["A Szekszárdi borvidék központja.", "Babits Mihály költő szülővárosa."], "ro": ["Centrul regiunii viticole Szekszárd.", "Locul de naștere al poetului Mihály Babits."], "en": ["Center of the Szekszárd wine region.", "Birthplace of poet Mihály Babits."]},
+  
+    descriptionAdvanced: {
+      "de": "Szekszárd, die Hauptstadt des Komitats Tolna, ist die kleinste Komitatshauptstadt Ungarns und besticht durch ihre persönliche, fast familiäre Atmosphäre. Die Stadt ist weltberühmt für ihre exzellenten Rotweine, insbesondere das ",
+      "hu": "Szekszárd Tolna vármegye székhelye, a Szekszárdi-dombság és az Alföld találkozásánál fekvő barátságos város, amely leginkább világhírű vörösborairól ismert. Ez Magyarország legkisebb népességgel bíró vármegyeszékhelye, ami egyedi, közvetlen és emberléptékű hangulatot kölcsönöz a településnek. Szekszárd központja a Garay tér és a Béla király tér, ahol az ország egyik legnagyobb egyhajós temploma és a neoklasszicista Megyeháza áll. A város kulturális életében fontos szerepet játszik Liszt Ferenc emlékezete, aki gyakran vendégeskedett a településen. Szekszárd a szőlő és a bor városa, ahol a pincesorok és a környékbeli dűlők nemcsak a gazdaság, hanem a turizmus alapkövei is, különösen a Szekszárdi Szüreti Napok idején.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Szekszárd ist eine der traditionsreichsten Rotweinregionen Ungarns und Geburtsort des echten Bikavér.",
+        "Franz Liszt besuchte die Stadt viermal und widmete ihr seine 'Szekszärder Messe'.",
+        "König Béla I. gründete hier 1061 eine Abtei und wurde nach seinem Tod vermutlich auch hier bestattet.",
+        "Die Stadt beherbergt die einzige staatlich anerkannte deutsche Bühne Ungarns, die Deutsche Bühne Ungarn.",
+        "Das jährlich stattfindende Weinlesefest von Szekszárd ist eines der größten und traditionsreichsten Feste seiner Art im Land."],
+      "hu": ["Szekszárd a Szekszárdi Bikavér, a híres magyar vörösházasítás egyik hazája.",
+        "Liszt Ferenc négyszer is ellátogatott a városba, és itt komponálta Szekszárdi miséjét.",
+        "A várost I. Béla király alapította, aki a hagyomány szerint itt is van eltemetve a bencés apátságban.",
+        "A szekszárdi Megyeháza udvarán láthatóak a 11. századi apátsági templom romjai.",
+        "A város határában kezdődik a Gemenci erdő, Európa legnagyobb összefüggő ártéri erdeje."],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "paks",
@@ -3226,6 +4624,23 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/paks.webp",
     description: {"de": "Stadt an der Donau, bekannt für das einzige Kernkraftwerk Ungarns.", "hu": "Duna-parti város, Magyarország egyetlen atomerőművéről ismert.", "ro": "Oraș pe Dunăre, cunoscut pentru singura centrală nucleară din Ungaria.", "en": "City on the Danube, known for Hungary's only nuclear power plant."},
     facts: {"de": ["Das Kernkraftwerk Paks liefert etwa die Hälfte des ungarischen Stroms.", "Hat eine lange Tradition in der Fischerei."], "hu": ["A Paksi Atomerőmű adja a magyar áramtermelés mintegy felét.", "Nagy hagyománya van a halászatnak."], "ro": ["Centrala nucleară Paks furnizează aproximativ jumătate din energia electrică a Ungariei.", "Are o lungă tradiție în pescuit."], "en": ["The Paks Nuclear Power Plant provides about half of Hungary's electricity.", "Has a long tradition of fishing."]},
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Paks a Duna mentén, Tolna vármegyében fekvő város, amelynek nevét ma legtöbben Magyarország egyetlen atomerőművével azonosítják. Az energetikai központ meghatározó szerepet játszik a város életében, ám Paks ennél jóval gazdagabb múltra tekint vissza. Az egykori ",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": ["A Paksi Atomerőmű Magyarország villamosenergia-szükségletének mintegy felét állítja elő.",
+        "A Makovecz Imre által tervezett Szentlélek-templom 1991-ben készült el, formája két hegycsúcsot és a feltámadást jelképezi.",
+        "A Sárgödör tér 66 apró, színes présházával a város egyik leglátványosabb műemléke.",
+        "Paks híres a tiszai és dunai halászlé közötti 'versengésben' a sajátos dunai receptjéről.",
+        "A város mellett elhaladó EuroVelo 6 kerékpárút fontos megállóhelye a Duna mentén."],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "bonyhad",
@@ -3236,6 +4651,23 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/bonyhad.webp",
     description: {"de": "Das Zentrum der Region Völgység, bekannt für seine Emaillefabrik.", "hu": "A Völgység központja, zománcgyáráról ismert.", "ro": "Centrul regiunii Völgység, cunoscut pentru fabrica sa de email.", "en": "The center of the Völgység region, known for its enamel factory."},
     facts: {"de": ["Historisch ein Zentrum der Ungarndeutschen.", "Bekannt für die Bonyháder Schuhe."], "hu": ["Történelmileg a magyarországi németek egyik központja.", "A bonyhádi cipőkről is ismert."], "ro": ["Istoric un centru al germanilor din Ungaria.", "Cunoscut pentru pantofii Bonyhád."], "en": ["Historically a center of the Hungarian Germans.", "Known for Bonyhád shoes."]},
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Bonyhád a Völgység központja Tolna vármegyében, a Mecsek és a Tolnai-dombság találkozásánál fekvő város, amelyet gyakran a ",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": ["Bonyhád a bonyhádi zománcedény-gyártás bölcsője, amely termékek több mint 100 éve készülnek itt.",
+        "A városban található a Völgységi Múzeum, amely a térség sokszínű etnikai múltját mutatja be.",
+        "Itt született Perczel Mór, az 1848–49-es szabadságharc egyik legnevesebb tábornoka.",
+        "A település híres a tarka magyar szarvasmarha tenyésztéséről, amelynek szobra is áll a városban.",
+        "Bonyhád fontos iskolaváros, több nagy múltú középfokú oktatási intézménnyel rendelkezik."],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "szombathely",
@@ -3292,6 +4724,23 @@ export const hungaryCities: POI[] = [
         "A major industrial location focusing on electronics and machinery."
       ]
     },
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Szombathely, Vas vármegye székhelye, Magyarország egyik legősibb városa, amelyet a rómaiak alapítottak Kr. u. 43-ban Savaria néven. A város gazdag antik örökséggel büszkélkedhet, s ezt minden évben a monumentális Savaria Történelmi Karnevál keretében keltik életre. Szombathely belvárosa barokk pompájával, tágas tereivel és az impozáns Székesegyházzal nyűgözi le a látogatókat. A kultúra és a tudomány városa, ahol a Savaria Múzeum és az Iseum (Ízisz istennő szentélye) világszínvonalú régészeti leleteket mutat be. A modern Szombathely egyben fontos ipari és oktatási központ is az Alpokalja lábánál, amely kiváló kiindulópont a közeli hegységek és gyógyfürdők felfedezéséhez.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": ["Szombathely az ország legrégebbi városi rangú települése, amelyet Claudius császár alapított.",
+        "Szent Márton, a tours-i püspök, a hagyomány szerint Savariában született a 4. században.",
+        "Az Iseum Savariense Közép-Európa egyik legjelentősebb Ízisz-szentélyének rekonstrukciója.",
+        "A szombathelyi Székesegyház Magyarország egyik legnagyobb és legszebb barokk temploma.",
+        "A Kámoni Arborétum 27 hektáron több ezer ritka növényfajnak és fás szárú gyűjteménynek ad otthont."],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "koszeg",
@@ -3302,6 +4751,23 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/koszeg.webp",
     description: {"de": "Historische Stadt an der österreichischen Grenze, bekannt für ihre Burg.", "hu": "Történelmi város az osztrák határon, váráról ismert.", "ro": "Oraș istoric la granița cu Austria, cunoscut pentru castelul său.", "en": "Historic city on the Austrian border, known for its castle."},
     facts: {"de": ["Die Burg Jurisics hielt 1532 einer osmanischen Belagerung stand.", "Hat einen der schönsten mittelalterlichen Hauptplätze Ungarns."], "hu": ["A Jurisics-vár 1532-ben ellenállt az oszmán ostromnak.", "Magyarország egyik legszebb középkori főterével rendelkezik."], "ro": ["Castelul Jurisics a rezistat unui asediu otoman în 1532.", "Are una dintre cele mai frumoase piețe principale medievale din Ungaria."], "en": ["Jurisics Castle withstood an Ottoman siege in 1532.", "Has one of the most beautiful medieval main squares in Hungary."]},
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Kőszeg Magyarország egyik legszebb és leghangulatosabb kisvárosa az Alpokalja lábánál, amely szinte érintetlen középkori belvárosával és történelmi várával varázsolja el a látogatókat. A város neve elválaszthatatlan az 1532-es török ostromtól, amikor Jurisics Miklós maroknyi csapata megállította Szulejmán szultán hatalmas seregét, megmentve ezzel Bécset a támadástól. Ennek emlékére Kőszegen minden nap 11 órakor is meghúzzák a harangokat. A város híres a bortermeléséről (főként a Kékfrankosról), a ",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": ["Kőszeg Magyarország egyetlen városa, ahol délelőtt 11-kor is harangoznak a török feletti győzelem emlékére.",
+        "A Jurisics-vár ma kulturális központ és múzeum, ahol az 1532-es ostrom eseményeit ismerhetjük meg.",
+        "Itt található az ország egyik legrégebbi patikamúzeuma, az Arany Egyszarvú Patika.",
+        "Kőszeg híres a 'Szőlő Jövésének Könyvéről', amelybe 1740 óta minden évben lerajzolják a szőlőhajtásokat.",
+        "A város feletti Hétforrás és az Óház-kilátó a Kőszegi-hegység legnépszerűbb kirándulóhelyei."],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "sarvar",
@@ -3312,6 +4778,23 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/sarvar.webp",
     description: {"de": "Beliebter Kurort mit einem berühmten Thermalbad und einer Renaissanceburg.", "hu": "Népszerű fürdőváros híres termálfürdővel és reneszánsz várral.", "ro": "Stațiune balneară populară cu o faimoasă baie termală și un castel renascentist.", "en": "Popular spa town with a famous thermal bath and a Renaissance castle."},
     facts: {"de": ["Die Burg Nádasdy ist ein wichtiges historisches Denkmal.", "Das Heilwasser ist hervorragend für rheumatische Beschwerden."], "hu": ["A Nádasdy-vár fontos történelmi műemlék.", "Gyógyvize kiváló reumatikus panaszokra."], "ro": ["Castelul Nádasdy este un important monument istoric.", "Apa termală este excelentă pentru afecțiuni reumatice."], "en": ["Nádasdy Castle is an important historical monument.", "The healing water is excellent for rheumatic complaints."]},
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Sárvár a Rába partján fekvő város Vas vármegyében, amely világszínvonalú gyógyfürdőjéről és tökéletesen épen maradt reneszánsz váráról ismert. A Nádasdy-vár a magyarországi reneszánsz építészet egyik gyöngyszeme, ötszögletű udvarával és freskókkal díszített dísztermével a Nádasdy család egykori hatalmát hirdeti. A vár falai között nyomtatták az első magyar nyelvű Újszövetséget is. Sárvár igazi vonzereje ma a Sárvári Gyógy- és Wellnessfürdő, amely különleges gyógyvizének köszönhetően az európai királyi fürdők szövetségének tagja. A város arborétuma, a csónakázótó és a Rába menti erdők ideális környezetet biztosítanak a pihenésre és a regenerálódásra.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": ["A sárvári Nádasdy-vár az ország egyik legépebben fennmaradt várkastélya.",
+        "Sárváron nyomtatták 1541-ben az első magyar nyelvű könyvet, a Sylvester János-féle Újszövetséget.",
+        "A sárvári gyógyvíz kétféle forrásból ered, az egyik 43, a másik 83 fokos hévíz.",
+        "A városi arborétum Magyarország egyik legrégebbi növénygyűjteménye, több száz éves mocsári tölgyekkel.",
+        "Sárvár az 'Európai Királyi Fürdők' (Royal Spas of Europe) hálózatának tagja."],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "veszprem-city",
@@ -3368,6 +4851,23 @@ export const hungaryCities: POI[] = [
         "Ideally located as a gateway to the Bakony Mountains and Lake Balaton."
       ]
     },
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Veszprém, a ",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": ["Veszprém volt Magyarország egyik legkorábbi püspöki székhelye és vára.",
+        "A Gizella-kápolna a város egyik legrégebbi építménye, 13. századi freskókkal.",
+        "A veszprémi Völgyhíd (Szent István völgyhíd) a város egyik jelképe, monumentális látványt nyújt a Séd-völgye felett.",
+        "A Veszprémi Állatkert híres a Böbe majomról és modern, tágas kifutóiról.",
+        "A várost gyakran a szél városaként is emlegetik a Bakony felől érkező állandó légmozgás miatt."],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "balatonfured",
@@ -3378,6 +4878,23 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/balatonfured.webp",
     description: {"de": "Der älteste Kurort am Plattensee, bekannt für seine Heilquellen.", "hu": "A Balaton legrégebbi üdülőhelye, gyógyforrásairól ismert.", "ro": "Cea mai veche stațiune de pe Lacul Balaton, cunoscută pentru izvoarele sale vindecătoare.", "en": "The oldest resort on Lake Balaton, known for its healing springs."},
     facts: {"de": ["Zentrum des Segelsports am Plattensee.", "Veranstaltet jährlich den Anna-Ball."], "hu": ["A balatoni vitorlázás központja.", "Évente megrendezik az Anna-bált."], "ro": ["Centrul navigației pe Lacul Balaton.", "Găzduiește anual Balul Anna."], "en": ["Center of sailing on Lake Balaton.", "Hosts the annual Anna Ball."]},
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Balatonfüred az északi part ",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": ["Balatonfüreden tartották az első Anna-bált 1825-ben, Horváth Anna Krisztina tiszteletére.",
+        "A Tagore sétány az indiai költőóriásról, Rabindranath Tagore-ról kapta nevét, aki itt gyógyult meg.",
+        "Itt épült fel a Balaton első gőzhajója, a Kisfaludy, Széchenyi István kezdeményezésére.",
+        "A Kossuth Lajos-forrás savanyúvize közismert gyógyhatásáról, bárki szabadon kóstolhatja a téren.",
+        "Balatonfüred a legrégebbi magyarországi vitorlásklub, a Kereked Yacht Club otthona."],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "tihany",
@@ -3388,6 +4905,23 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/tihany.webp",
     description: {"de": "Halbinsel im Plattensee, berühmt für ihre Benediktinerabtei und Lavendelfelder.", "hu": "Félsziget a Balatonban, híres bencés apátságáról és levendulamezőiről.", "ro": "Peninsulă în Lacul Balaton, faimoasă pentru abația benedictină și câmpurile de lavandă.", "en": "Peninsula in Lake Balaton, famous for its Benedictine abbey and lavender fields."},
     facts: {"de": ["Die Gründungsurkunde der Abtei (1055) enthält die ältesten ungarischen Wörter.", "Bietet einen atemberaubenden Blick auf den See."], "hu": ["Az apátság alapítólevele (1055) tartalmazza a legrégebbi magyar szavakat.", "Lélegzetelállító kilátást nyújt a tóra."], "ro": ["Actul de fondare al abației (1055) conține cele mai vechi cuvinte maghiare.", "Oferă o vedere uluitoare asupra lacului."], "en": ["The abbey's founding charter (1055) contains the oldest Hungarian words.", "Offers a breathtaking view of the lake."]},
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Tihany a Balaton északi partjának ékköve, egy vulkanikus eredetű félsziget, amely mélyen benyúlik a tóba, s ahonnan a legszebb kilátás nyílik a ",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": ["A Tihanyi Apátság alapítólevele latin nyelvű, de 58 magyar szót és szókapcsolatot tartalmaz.",
+        "Az apátság altemplomában található az alapító, I. András király egyetlen épségben maradt sírja.",
+        "Tihany híres a levendulatermesztésről, az első töveket az 1920-as években telepítették ide.",
+        "A félszigeten találhatók a barátlakások, Európa egyetlen épségben maradt remetetelepe.",
+        "A Tihanyi Visszhang a 19. század óta híres, bár a beépítések miatt ma már kevésbé hallható."],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "zalaegerszeg",
@@ -3444,6 +4978,25 @@ export const hungaryCities: POI[] = [
         "Located in one of the most forested regions of Hungary."
       ]
     },
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Zalaegerszeg, Zala vármegye székhelye, a Zala folyó völgyében, a zalai dombok között fekszik, és az ország egyik legzöldebb városaként ismert. A város arculatát a modern építészet és a népi hagyományok tisztelete határozza meg. Itt nyílt meg az ország legelső szabadtéri néprajzi múzeuma, a Göcseji Falumúzeum, amely bemutatja a régió különleges faépítészetét és paraszti kultúráját. Zalaegerszeg fontos ipari és kulturális központ, büszkélkedhet a Hevesi Sándor Színházzal és a TV-toronnyal, ahonnan tiszta időben az Alpok csúcsai is látszanak. A környező Gébárti-tó és az AquaCity vízipark kiváló kikapcsolódást nyújt a családoknak, míg a város körüli erdők a természetjárók paradicsomát alkotják.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": [
+        "Zalaegerszegen nyílt meg 1968-ban az ország első szabadtéri néprajzi múzeuma.",
+        "A város felett magasodó TV-torony 95 méter magas, és körpanorámás kávézóval rendelkezik.",
+        "Itt található a Magyar Olaj- és Gázipari Múzeum, emléket állítva a régió energetikai múltjának.",
+        "Zalaegerszeg híres a 'virágváros' jellegéről és a rendezett, tiszta köztereiről.",
+        "A város szélén található Gébárti-tó népszerű horgász- és szabadidőközpont."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "nagykanizsa",
@@ -3454,6 +5007,25 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/nagykanizsa.webp",
     description: {"de": "Wichtiger Verkehrsknotenpunkt im Südwesten Ungarns.", "hu": "Fontos közlekedési csomópont Délnyugat-Magyarországon.", "ro": "Important nod de transport în sud-vestul Ungariei.", "en": "Important transport hub in southwestern Hungary."},
     facts: {"de": ["War historisch eine wichtige Festungsstadt.", "Bekannt für ihre Parks und Grünflächen."], "hu": ["Történelmileg fontos végvár volt.", "Parkjairól és zöldövezeteiről ismert."], "ro": ["A fost istoric un important oraș fortăreață.", "Cunoscut pentru parcurile și spațiile sale verzi."], "en": ["Was historically an important fortress town.", "Known for its parks and green spaces."]},
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Nagykanizsa Zala vármegye második legnagyobb városa, egykor fontos katonai végvár és kereskedelmi központ a délnyugati határ mentén. A város történelmében meghatározó volt a török elleni küzdelem, s bár az egykori vár mára elpusztult, emléke a város nevében és kultúrájában tovább él. Nagykanizsa tágas tereivel, mint az Erzsébet tér, és elegáns palotáival a polgári jólét korszakát idézi, amikor a város a délnyugati térség legfontosabb gazdasági centruma volt. A város környéke, különösen a Csónakázó-tó és a környező erdők kiváló lehetőséget adnak a túrázásra és a sportolásra. Nagykanizsa híres a kerékpáros kultúrájáról és a határ menti baráti kapcsolatok ápolásáról.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": [
+        "Nagykanizsa vára a török hódoltság idején az ország egyik legfontosabb végvára volt.",
+        "Az Erzsébet téren található Zenepavilon a város egyik legkedveltebb találkozóhelye.",
+        "Nagykanizsa a 19. század végén az ország egyik legjelentősebb sörgyártó városa volt.",
+        "A várostól nem messze található a Csónakázó-tó, amely körül nemzetközi szintű kerékpárpálya fut.",
+        "A város központjában áll az Alsóvárosi templom, amely a török mecset köveiből épült fel."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "keszthely",
@@ -3464,6 +5036,25 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/keszthely.webp",
     description: {"de": "Die größte Stadt am Plattensee, bekannt für das Schloss Festetics.", "hu": "A Balaton legnagyobb városa, a Festetics-kastélyról ismert.", "ro": "Cel mai mare oraș de pe Lacul Balaton, cunoscut pentru Castelul Festetics.", "en": "The largest city on Lake Balaton, known for the Festetics Palace."},
     facts: {"de": ["Das Schloss Festetics ist eines der größten in Ungarn.", "Heimat des Georgikon, der ersten landwirtschaftlichen Hochschule Europas."], "hu": ["A Festetics-kastély az egyik legnagyobb Magyarországon.", "A Georgikon, Európa első mezőgazdasági főiskolájának otthona."], "ro": ["Castelul Festetics este unul dintre cele mai mari din Ungaria.", "Casa Georgikon, primul colegiu agricol din Europa."], "en": ["The Festetics Palace is one of the largest in Hungary.", "Home to the Georgikon, Europe's first agricultural college."]},
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Keszthely a Balaton legrégebbi és legpatinásabb városa a tó nyugati végénél, amely méltán viseli a 'Balaton fővárosa' címet történelmi és kulturális jelentősége miatt. A város ékköve a Grassalkovich-kastélyhoz mérhető Festetics-kastély, Magyarország egyik legszebb barokk palotája, amelynek könyvtára és parkja egyedülálló értéket képvisel. Keszthely hangulatos belvárosa, múzeumai (mint a Georgikon vagy a Balatoni Múzeum) és a Monarchia korabeli Szigetfürdője visszarepítik a látogatót a múltba. A város nemcsak kulturális központ, hanem fontos egyetemi város is, ahol a mezőgazdasági oktatás több évszázados múltra tekint vissza. A Balaton-parti sétány és a kikötő egész évben vonzó célpont a kikapcsolódásra vágyóknak.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": [
+        "A keszthelyi Festetics-kastély Magyarország negyedik legnagyobb kastélya, 101 helyiséggel.",
+        "Itt alapították 1797-ben a Georgikont, Európa első agrártudományi főiskoláját.",
+        "A Helikon Könyvtár a kastélyban az ország egyetlen érintetlenül maradt aristokrata magánkönyvtára.",
+        "Keszthelyen található a Balaton egyetlen megmaradt, eredeti formájában újjáépített Szigetfürdője.",
+        "A Balatoni Múzeum a tó természetvilágát és az emberi élet történetét mutatja be a környéken."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "harkany",
@@ -3474,6 +5065,25 @@ export const hungaryCities: POI[] = [
     description: {"de": "Berühmte Kurstadt im Süden Ungarns, bekannt für ihr schwefelhaltiges Thermalwasser.", "hu": "Híres fürdőváros Dél-Magyarországon, kénes termálvizéről ismert.", "ro": "Faimos oraș balnear în sudul Ungariei, cunoscut pentru apa sa termală sulfuroasă.", "en": "Famous spa town in southern Hungary, known for its sulfurous thermal water."},
     facts: {"de": ["Das Wasser ist besonders gut für Gelenkbeschwerden.", "Eines der bedeutendsten Heilbäder Ungarns."], "hu": ["A víz különösen jó ízületi panaszokra.", "Magyarország egyik legjelentősebb gyógyfürdője."], "ro": ["Apa este deosebit de bună pentru afecțiuni articulare.", "Una dintre cele mai importante băi curative din Ungaria."], "en": ["The water is particularly good for joint complaints.", "One of Hungary's most significant medicinal baths."]},
     image: "/poi-images/harkany.webp",
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Harkány az ország egyik legjelentősebb gyógyfürdővárosa Baranya vármegyében, a Villányi-hegység déli lábánál. Világhírnevét egyedülálló összetételű kénes gyógyvizének köszönheti, amelyet véletlenül fedeztek fel az 1820-as években, a mocsarak lecsapolása során. A harkányi víz különlegessége a benne oldott karbonil-szulfid, amely sokkal gyorsabban szívódik fel, mint a hagyományos szulfátok, így rendkívül hatékony a mozgásszervi és bőrbetegségek kezelésében. A város mediterrán klímája, gondozott parkjai és a fürdő modern szolgáltatásai egész évben vonzzák a gyógyulni és pihenni vágyókat. Harkány ideális kiindulópont a közeli Siklós és Villány felfedezéséhez is.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": [
+        "A harkányi gyógyvizet 1823-ban fedezte fel Pogány János csatornázó munkás.",
+        "Ez az egyetlen hely a világon, ahol a kén karbonil-szulfid formájában van jelen a vízben.",
+        "A város közvetlen szomszédságában található a Siklósi Vár és a Villányi borvidék.",
+        "A Harkányi Gyógyfürdő több mint 13 hektáros parkban terül el.",
+        "A fürdő kénes vize jellegzetes illatáról már messziről felismerhető."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "szigetvar",
@@ -3484,6 +5094,25 @@ export const hungaryCities: POI[] = [
     description: {"de": "Historische Stadt, bekannt für die heldenhafte Verteidigung ihrer Burg gegen die Osmanen.", "hu": "Történelmi város, a vár oszmánok elleni hősies védelméről ismert.", "ro": "Oraș istoric, cunoscut pentru apărarea eroică a cetății sale împotriva otomanilor.", "en": "Historic town known for the heroic defense of its castle against the Ottomans."},
     facts: {"de": ["Schauplatz der Belagerung von 1566.", "Hier starb Sultan Süleyman der Prächtige."], "hu": ["Az 1566-os ostrom helyszíne.", "Itt halt meg I. Szulejmán szultán."], "ro": ["Locul asediului din 1566.", "Aici a murit sultanul Soliman Magnificul."], "en": ["Site of the siege of 1566.", "Sultan Suleiman the Magnificent died here."]},
     image: "/poi-images/szigetvar.webp",
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Szigetvár városa a magyar történelem egyik leghősiesebb helyszíne, ahol 1532-ben Zrínyi Miklós és maroknyi serege megállította Szulejmán szultán hatalmas hadát. A szigetvári vár ostroma a világtörténelem egyik legfontosabb csatája volt, hiszen bár a vár elesett, a török sereg annyira meggyengült, hogy nem tudta folytatni útját Bécs felé. A vár falai között ma múzeum és emlékhely működik, ahol a látogatók megismerhetik a 'szigetvári hős' történetét. A város azonban nemcsak a múltjáról híres: modern gyógyfürdője és a török kori emlékek, mint a Szulejmán-dzsámi, egyedülálló hangulatot kölcsönöznek a településnek. Szigetvár ma a magyar-török megbékélés és a történelmi emlékezet egyik legfontosabb központja.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": [
+        "Szigetvár védője, Zrínyi Miklós, a várkapun kitörve halt hősi halált 1566-ban.",
+        "I. Szulejmán szultán a vár ostroma alatt, sátrában hunyt el természetes halállal.",
+        "A vár 2016 óta Nemzeti Emlékhely minősítéssel rendelkezik.",
+        "A városban található Magyar-Török Barátság Park a két nemzet közös történelmének állít emléket.",
+        "Szigetvár gyógyfürdője 62 fokos nátrium-kloridos, alkáli-hidrogénkarbonátos vízzel várja a vendégeket."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "baja",
@@ -3494,6 +5123,25 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/baja.webp",
     description: {"de": "Stadt an der Donau, berühmt für ihre Fischsuppe und das jährliche Fischsuppen-Festival.", "hu": "Duna-parti város, híres a halászlevéről és az évente megrendezett halászlé-fesztiválról.", "ro": "Oraș pe Dunăre, faimos pentru ciorba de pește și festivalul anual al ciorbei de pește.", "en": "City on the Danube, famous for its fish soup and the annual fish soup festival."},
     facts: {"de": ["Liegt am Zusammenfluss von Donau und Sugovica.", "Wichtiges kulturelles Zentrum der Region."], "hu": ["A Duna és a Sugovica találkozásánál fekszik.", "A régió fontos kulturális központja."], "ro": ["Situat la confluența Dunării cu Sugovica.", "Centru cultural important al regiunii."], "en": ["Located at the confluence of the Danube and Sugovica.", "Important cultural center of the region."]},
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Baja a Duna bal partján, a Sugovica folyóág és a Gemenci erdő szomszédságában fekvő hangulatos kisváros, amelyet gyakran a 'vizek városaként' emlegetnek. A település arculatát a folyó és a vízi élet határozza meg, legfontosabb eseménye pedig a minden évben megrendezett Bajai Halászléfőző Népünnepély, ahol több ezer bográcsban rotyog a híres bajai halászlé. A város központja a Szentháromság tér, amely Európa egyik legszebb, itáliai stílusú tere, közvetlen kapcsolattal a vízparttal. Baja kulturális sokszínűségét a magyarok, horvátok (bunyevácok) és németek évszázados együttélése adja. A város ideális célpont a vízi sportok kedvelőinek és a természetjáróknak, akik a Gemenci erdő vadregényes tájait fedeznék fel.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": [
+        "Baja főtere, a Szentháromság tér, pontosan akkora, mint a velencei Szent Márk tér.",
+        "A bajai halászlé különlegessége a gyufatészta, amelyet a halhús mellé tálalnak.",
+        "A város határában kezdődik a Gemenci erdő, Európa legnagyobb összefüggő ártéri erdeje.",
+        "Baja híres szülötte Türr István, a Korinthoszi-csatorna egyik tervezője.",
+        "A Sugovica-parti sétány és a Petőfi-sziget a város legnépszerűbb kikapcsolódási helyszíne."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "kiskunfelegyhaza",
@@ -3504,6 +5152,25 @@ export const hungaryCities: POI[] = [
     description: {"de": "Stadt in der Großen Tiefebene mit beeindruckender Jugendstilarchitektur.", "hu": "Alföldi város lenyűgöző szecessziós építészettel.", "ro": "Oraș în Marea Câmpie cu o arhitectură Art Nouveau impresionantă.", "en": "City in the Great Plain with impressive Art Nouveau architecture."},
     facts: {"de": ["Das Rathaus ist ein Meisterwerk des ungarischen Jugendstils.", "Heimatstadt des Schriftstellers Ferenc Móra."], "hu": ["A városháza a magyar szecesszió remekműve.", "Móra Ferenc író szülővárosa."], "ro": ["Primăria este o capodoperă a stilului Art Nouveau maghiar.", "Orașul natal al scriitorului Ferenc Móra."], "en": ["The town hall is a masterpiece of Hungarian Art Nouveau.", "Hometown of writer Ferenc Móra."]},
     image: "/poi-images/kiskunfelegyhaza.webp",
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Kiskunfélegyháza a Kiskunság szívében fekvő város, amely gazdag néprajzi hagyományairól és gyönyörű szecessziós építészetéről ismert. A város jelképe az impozáns Városháza, amely a magyar szecesszió egyik legszebb példája, gazdagon díszítve Zsolnay-kerámiákkal. A település története szorosan összefonódik a kunok kiváltságaival és a mezővárosi polgárosodással. Kiskunfélegyháza híres szülötte Petőfi Sándor (akit a város sajátjának tekint) és Móra Ferenc, az 'aranykoporsó' írója. A látogatókat a Kiskun Múzeum különleges börtönmúzeuma és a város környéki pusztai világ, Bugac közelsége vonzza. A város gazdaságában a mezőgazdaság és az élelmiszeripar mellett a gépgyártás is jelentős.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": [
+        "A kiskunfélegyházi Városháza tornya 45 méter magas és Zsolnay-cseréppel fedett.",
+        "Petőfi Sándor gyermekkorának jelentős részét itt töltötte, és Félegyházát nevezte szülővárosának.",
+        "A Kiskun Múzeumban látható az ország egyik utolsóként fennmaradt szélmalma.",
+        "Móra Ferenc szülőháza ma emlékmúzeumként működik a városban.",
+        "A várostól mindössze 20 kilométerre fekszik Bugac, a pusztai turizmus központja."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "bugac",
@@ -3514,6 +5181,25 @@ export const hungaryCities: POI[] = [
     description: {"de": "Teil des Kiskunság-Nationalparks, bekannt für seine traditionelle Puszta-Landschaft.", "hu": "A Kiskunsági Nemzeti Park része, hagyományos pusztai tájáról ismert.", "ro": "Parte a Parcului Național Kiskunság, cunoscut pentru peisajul său tradițional de puszta.", "en": "Part of the Kiskunság National Park, known for its traditional puszta landscape."},
     facts: {"de": ["Veranstaltet den Kurultáj, ein Treffen der Turkvölker.", "Heimat der ungarischen Graurinder."], "hu": ["Itt rendezik meg a Kurultájt.", "A magyar szürkemarhák hazája."], "ro": ["Găzduiește Kurultáj, o întâlnire a popoarelor turcice.", "Casa vitelor sure maghiare."], "en": ["Hosts the Kurultáj, a meeting of Turkic peoples.", "Home of the Hungarian Grey cattle."]},
     image: "/poi-images/bugac.webp",
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Bugac a Kiskunsági Nemzeti Park legnagyobb és legismertebb egysége, a magyar puszta és a pásztorkultúra egyik legfontosabb őrzőhelye. A terület híres a végtelen homokpusztáiról, az őshonos magyar állatfajokról (szürke marha, rackajuh, mangalica) és a lenyűgöző lovasbemutatókról. Bugacpuszta szívében található a Pásztormúzeum, amely bemutatja az egykori pusztai életmódot és a pásztorok eszközeit. Kétévente itt rendezik meg az Ősök Napját és a Kurultájt, a hun és türk tudatú népek legnagyobb hagyományőrző seregszemléjét. A táj nyugalma, az ősborókás és a pusztai rónaság különleges atmoszférája felejthetetlen élményt nyújt a természetbarátoknak és a magyar történelem iránt érdeklődőknek.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": [
+        "Bugac az UNESCO által elismert bioszféra-rezervátum része.",
+        "Itt található a Kiskunság egyik utolsó nagy kiterjedésű ősborókása.",
+        "A bugaci ménes és a csikósok bemutatói világszerte ismertek.",
+        "A Pásztormúzeum épülete egy hagyományos nádtetős kunyhót formáz.",
+        "A területen rendszeresen végeznek régészeti ásatásokat, amelyek egy jelentős középkori kolostort tártak fel."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "oroshaza",
@@ -3524,6 +5210,25 @@ export const hungaryCities: POI[] = [
     description: {"de": "Stadt in Südostungarn, bekannt für das Heil- und Strandbad Gyopárosfürdő.", "hu": "Délkelet-magyarországi város, a Gyopárosfürdő gyógy- és strandfürdőről ismert.", "ro": "Oraș în sud-estul Ungariei, cunoscut pentru băile curative și de ștrand Gyopárosfürdő.", "en": "City in southeastern Hungary, known for the Gyopárosfürdő medicinal and thermal bath."},
     facts: {"de": ["Wird oft als 'Perle der Tiefebene' bezeichnet.", "Wichtiges Zentrum der Glasindustrie."], "hu": ["Gyakran az 'Alföld gyöngyszemeként' emlegetik.", "Az üvegipar fontos központja."], "ro": ["Adesea numit 'Perla Câmpii'.", "Centru important al industriei sticlei."], "en": ["Often referred to as the 'Pearl of the Lowlands'.", "Important center of the glass industry."]},
     image: "/poi-images/oroshaza.webp",
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Orosháza Békés vármegye jelentős gazdasági és kulturális központja, amely leginkább a tőle karnyújtásnyira fekvő Gyopárosfürdőről nevezetes. A 'földi paradicsomként' is emlegetett fürdőkomplexum egy természetes szikes tó partján épült fel, s gyógyvize mellett lenyűgöző parkjával és modern élményfürdőjével várja a látogatókat. Orosháza városa híres gazdag agrármúltjáról és ipari fejlődéséről, különösen az üveggyártásról. A kulturális élet központja a városi múzeum és a művészeti galériák, míg a gasztronómia kedvelőit a környékbeli kolbász- és húsipari specialitások vonzzák. A település rendezett tereivel, szobraival és barátságos alföldi hangulatával ideális helyszín a regenerálódásra és a dél-alföldi kultúra felfedezésére.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": [
+        "Gyopárosfürdő vize 1999-ben kapta meg hivatalosan a gyógyvíz minősítést.",
+        "Orosháza az ország egyik legfontosabb üvegipari központja, ahol több mint 150 éve folyik gyártás.",
+        "A város híres a Darvas-kúriáról, amely a környék egyik legszebb klasszicista épülete.",
+        "A Szántó Kovács János Múzeumban látható az ország egyik leggazdagabb paraszti kocsi-gyűjteménye.",
+        "Gyopárosfürdő tórendszere három tóból áll, amelyek összesen 6 hektár felületűek."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "mezohegyes",
@@ -3534,6 +5239,25 @@ export const hungaryCities: POI[] = [
     description: {"de": "Stadt bekannt für ihr staatliches Gestüt und ihre reiche Pferdezuchttradition.", "hu": "Állami ménesbirtokáról és gazdag lótartási hagyományairól ismert város.", "ro": "Oraș cunoscut pentru herghelia sa de stat și bogata tradiție în creșterea cailor.", "en": "Town known for its state stud farm and rich horse-breeding tradition."},
     facts: {"de": ["Gegründet 1784 von Kaiser Joseph II.", "Die Architektur der Stadt ist einzigartig in Ungarn."], "hu": ["1784-ben alapította II. József császár.", "A város építészete egyedülálló Magyarországon."], "ro": ["Fondat în 1784 de împăratul Iosif al II-lea.", "Arhitectura orașului este unică în Ungaria."], "en": ["Founded in 1784 by Emperor Joseph II.", "The town's architecture is unique in Hungary."]},
     image: "/poi-images/mezohegyes.webp",
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Mezőhegyes egyedülálló 'város az országban', amelynek története szorosan összefonódik a híres állami ménesbirtokkal. A települést II. József császár alapította 1784-ben mint katonai ménest, s azóta a magyar lótenyésztés egyik legfontosabb fellegvára. Mezőhegyes építészeti képe rendkívül különleges: a város egységes klasszicista és empire stílusú épületei, a monumentális istállók és a lovaspályák egy letűnt kor eleganciáját hirdetik. Itt tenyésztették ki a nóniusz, a gidrán és a furioso-north star lófajtákat, amelyek ma is a magyar büszkeségek közé tartoznak. A terület ma Nemzeti Ménesbirtok és Tangazdaságként működik, s kulturális-turisztikai eseményeivel, lovasversenyeivel vonzza a látogatókat.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": [
+        "A mezőhegyesi ménesbirtok az UNESCO világörökségi várományos listáján szerepel.",
+        "Itt található az ország egyik legnagyobb fedett lovardája.",
+        "A településen 54 műemlék épület található, amelyek többsége a ménesbirtokhoz kapcsolódik.",
+        "Mezőhegyes híres a nóniusz lófajtáról, amelyet 'magyar lónak' is neveznek ereje és nemessége miatt.",
+        "A város parkjai és platánsorai az ország egyik legszebb tájépítészeti együttesét alkotják."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "sarospatak",
@@ -3544,6 +5268,25 @@ export const hungaryCities: POI[] = [
     description: {"de": "Historische Stadt am Fluss Bodrog, bekannt für ihre Renaissanceburg und das Kollegium.", "hu": "Történelmi város a Bodrog partján, reneszánsz váráról és kollégiumáról ismert.", "ro": "Oraș istoric pe râul Bodrog, cunoscut pentru castelul său renascentist și colegiu.", "en": "Historic town on the Bodrog river, known for its Renaissance castle and college."},
     facts: {"de": ["Wird oft als 'Athen am Bodrog' bezeichnet.", "Die Burg Rákóczi ist ein bedeutendes Denkmal."], "hu": ["Gyakran 'Bodrog-parti Athénként' emlegetik.", "A Rákóczi-vár jelentős műemlék."], "ro": ["Adesea numit 'Atena de pe Bodrog'.", "Castelul Rákóczi este un monument important."], "en": ["Often called 'Athens on the Bodrog'.", "The Rákóczi Castle is a significant monument."]},
     image: "/poi-images/sarospatak.webp",
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Sárospatak, a 'Bodrog-parti Athén', a magyar művelődéstörténet és oktatás egyik legfontosabb központja Borsod-Abaúj-Zemplén vármegyében. A város szimbóluma a Rákóczi-vár, a magyarországi késő reneszánsz építészet legértékesebb alkotása, amely a híres erdélyi fejedelmi család székhelye volt. A vár falai között ma múzeum működik, bemutatva a Rákóczi-szabadságharc emlékeit. Sárospatak másik büszkesége a Református Kollégium, ahol több évszázadon át tanultak a magyar szellemi élet kiválóságai, s amelynek könyvtára felbecsülhetetlen értékeket őriz. A Bodrog folyó, a közeli Megyer-hegyi tengerszem és a Zempléni-hegység közelsége a természetjárók számára is vonzóvá teszi ezt a történelmi várost.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": [
+        "A sárospataki Rákóczi-vár szerepel az 500 forintos bankjegy hátoldalán.",
+        "A Református Kollégiumot 1531-ben alapították, Magyarország egyik legrégebbi iskolája.",
+        "Itt élt és tanított a híres pedagógus, Comenius, a 17. század közepén.",
+        "A közeli Megyer-hegyi tengerszem az ország egyik legszebb természeti látványossága, egy régi kőbánya helyén alakult ki.",
+        "Sárospatak a Tokaji borvidék északi kapuja, híres pincészeteiről és borairól."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "lillafured",
@@ -3554,6 +5297,25 @@ export const hungaryCities: POI[] = [
     description: {"de": "Malerischer Ferienort im Bükk-Gebirge, bekannt für sein Schlosshotel und den Wasserfall.", "hu": "Festői üdülőhely a Bükkben, kastélyszállójáról és vízeséséről ismert.", "ro": "Stațiune pitorească în munții Bükk, cunoscută pentru hotelul său castel și cascadă.", "en": "Picturesque resort in the Bükk Mountains, known for its castle hotel and waterfall."},
     facts: {"de": ["Hier befindet sich der höchste Wasserfall Ungarns.", "Der Hámori-See bietet Möglichkeiten zum Bootfahren."], "hu": ["Itt található Magyarország legmagasabb vízesése.", "A Hámori-tó csónakázási lehetőséget kínál."], "ro": ["Aici se află cea mai înaltă cascadă din Ungaria.", "Lacul Hámori oferă posibilități de plimbare cu barca."], "en": ["Home to the highest waterfall in Hungary.", "Lake Hámori offers boating opportunities."]},
     image: "/poi-images/lillafured.webp",
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Lillafüred Magyarország egyik legfestőibb hegyvidéki üdülőhelye Miskolc mellett, a Bükk-hegység keleti kapujában. Központi látványossága a monumentális neoreneszánsz stílusú Palotaszálló, amely a Hámori-tó partján, meredek sziklákkal körülvett völgyben épült fel az 1920-as években. A szálló alatti függőkert, a vízesés (amely az ország legmagasabbja) és a közeli cseppkőbarlangok (Anna- és Szent István-barlang) egyedülálló romantikus atmoszférát teremtenek. Lillafüred kedvelt célpontja a kirándulóknak, a kisvasút szerelmeseinek és a csónakázni vágyóknak. A völgy különleges mikroklímája és a tiszta hegyi levegő gyógyító ereje miatt is keresett célpont minden évszakban.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": [
+        "A lillafüredi vízesés 20 méter magas, és mesterségesen alakították ki a Szinva-patak elterelésével.",
+        "A Palotaszálló építéséhez szükséges köveket a környező hegyekből bányászták.",
+        "Itt található az Anna-barlang, amely egy ritka édesvízi mésztufa-barlang.",
+        "A Hámori-tó eredetileg a vasművek vízellátására létrehozott mesterséges tározó volt.",
+        "Lillafüred a népszerű Lillafüredi Állami Erdei Vasút egyik legszebb megállóhelye."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "opusztaszer",
@@ -3564,6 +5326,25 @@ export const hungaryCities: POI[] = [
     description: {"de": "Nationaler Historischer Gedenkpark, Ort der ersten ungarischen Nationalversammlung.", "hu": "Nemzeti Történeti Emlékpark, az első magyar országgyűlés helyszíne.", "ro": "Parcul Memorial Istoric Național, locul primei adunări naționale maghiare.", "en": "National Historical Memorial Park, site of the first Hungarian national assembly."},
     facts: {"de": ["Beherbergt das Feszty-Panorama-Gemälde.", "Ein wichtiges Symbol der ungarischen Identität."], "hu": ["Itt látható a Feszty-körkép.", "A magyar identitás fontos szimbóluma."], "ro": ["Găzduiește pictura panoramică Feszty.", "Un simbol important al identității maghiare."], "en": ["Houses the Feszty Panorama painting.", "An important symbol of Hungarian identity."]},
     image: "/poi-images/opusztaszer.webp",
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Ópusztaszer a magyar nemzet történelmi bölcsője, az a hely, ahol a hagyomány szerint Árpád vezér és a törzsfők megtartották az első országgyűlést a honfoglalás után. A Nemzeti Történeti Emlékpark legfontosabb látnivalója a Feszty-körkép, a monumentális panorámakép, amely a magyarok bejövetelét ábrázolja lenyűgöző részletességgel. Az emlékpark területén skanzen (szabadtéri néprajzi múzeum), honfoglalás kori bemutatók és a monostor romjai is megtalálhatók. Ópusztaszer nemcsak múzeum, hanem a nemzeti összetartozás szimbóluma is, ahol minden évben ezrek emlékeznek meg a magyar államiság gyökereiről. A park interaktív módon, minden korosztály számára élvezetesen mutatja be múltunkat és népi hagyományainkat.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": [
+        "A Feszty-körkép (A magyarok bejövetele) 120 méter hosszú és 15 méter magas falfestmény.",
+        "A parkban található az Árpád-emlékmű, amelyet 1896-ban emeltek a millennium tiszteletére.",
+        "A skanzen a dél-alföldi falvak népi építészetét mutatja be, működő szélmalommal.",
+        "Az emlékpark területén látható a Szer monostorának romkertje, amely egykor fontos vallási központ volt.",
+        "A Nomád Parkban lovasbemutatók és honfoglalás kori íjászat várja a látogatókat."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "csongrad-city",
@@ -3574,6 +5355,25 @@ export const hungaryCities: POI[] = [
     description: {"de": "Stadt an der Mündung der Körös in die Theiß, bekannt für ihre Altstadt und den Sandstrand.", "hu": "Város a Körös tiszai torkolatánál, óvárosáról és homokos strandjáról ismert.", "ro": "Oraș la confluența râurilor Körös și Tisa, cunoscut pentru orașul vechi și plaja de nisip.", "en": "City at the confluence of the Körös and Tisza rivers, known for its old town and sandy beach."},
     facts: {"de": ["Der Stadtteil 'Belváros' bewahrt die traditionelle Architektur.", "Beliebter Ort für Wassersportler."], "hu": ["A 'Belváros' városrész őrzi a hagyományos építészetet.", "Népszerű hely a vízisportok kedvelői körében."], "ro": ["Cartierul 'Belváros' păstrează arhitectura tradițională.", "Loc popular pentru pasionații de sporturi nautice."], "en": ["The 'Belváros' district preserves traditional architecture.", "Popular spot for water sports enthusiasts."]},
     image: "/poi-images/csongrad-city.webp",
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Csongrád a Tisza partján fekvő város, amely leginkább a folyóhoz kapcsolódó különleges életmódjáról és hangulatos történelmi városrészéről ismert. A város ékköve a 'Belváros' (vagy Óváros), amely nádtetős házaival és kanyargós utcáival egy 18. századi halászfalu hangulatát őrizte meg érintetlenül. Csongrád másik híres látnivalója a Körös-torok, a Tisza-part egyik legszebb homokos strandja, amely nyaranta igazi tengerparti életérzést nyújt a látogatóknak. A város híres borászatáról is, különösen a Csongrádi borvidék vörösborai (mint a Kadarka) emelkednek ki. A Tisza folyó közelsége, az ártéri erdők és a csendes kisvárosi atmoszféra teszi Csongrádot a lassú turizmus egyik kedvelt magyarországi helyszínévé.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": [
+        "A csongrádi Belváros házai műemléki védettség alatt állnak, ma is lakottak vagy vendégházként működnek.",
+        "A Körös-toroki homokpad a Tisza alacsony vízállásakor válik láthatóvá és használhatóvá.",
+        "A város nevét a közeli szláv 'Csernigrád' (fekete vár) elnevezésről kapta.",
+        "Itt található a Szent Rókus templom, amely a város egyik legrégebbi barokk épülete.",
+        "Csongrád híres a tiszai halászleveséről, amelyet hagyományosan bográcsban készítenek a parton."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "mor",
@@ -3584,6 +5384,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Stadt im Vértes-Gebirge, Zentrum einer berühmten Weißweinregion.", "hu": "Város a Vértes lábánál, egy híres fehérborvidék központja.", "ro": "Oraș în munții Vértes, centrul unei faimoase regiuni de vin alb.", "en": "City in the Vértes Mountains, center of a famous white wine region."},
     facts: {"de": ["Bekannt für die Rebsorte 'Ezerjó'.", "Veranstaltet jährlich die Mórer Weintage."], "hu": ["Az 'Ezerjó' szőlőfajtáról ismert.", "Évente megrendezik a Móri Bornapokat."], "ro": ["Cunoscut pentru soiul de struguri 'Ezerjó'.", "Găzduiește anual Zilele Vinului din Mór."], "en": ["Known for the 'Ezerjó' grape variety.", "Hosts the annual Mór Wine Days."]},
     image: "/poi-images/mor.webp",
+  
+    descriptionAdvanced: {
+      "de": "Mór, eingebettet zwischen dem Vértes- und Bakony-Gebirge, ist das Zentrum einer der kleinsten, aber angesehensten Weinregionen Ungarns. Die Stadt blickt auf eine lange Tradition des Weinbaus zurück, die vor allem durch die Ansiedlung deutscher Siedler im 18. Jahrhundert geprägt wurde. Weltberühmt ist Mór für die Rebsorte 'Ezerjó', aus der charaktervolle, säurereiche Weißweine gekeltert werden. Das barocke Lamberg-Schloss im Stadtzentrum ist ein kulturelles Juwel und beherbergt Ausstellungen zur Lokalgeschichte und Weinbaukultur. Jedes Jahr im Oktober locken die Mórer Weintage Zehntausende Besucher an, die die edlen Tropfen in den vielen Weinkellern verkosten. Die umliegende Hügellandschaft bietet zudem hervorragende Bedingungen für Wanderer und Naturliebhaber.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Mór ist die Heimat der einzigartigen ungarischen Rebsorte 'Ezerjó'.", "Das Lamberg-Schloss wurde vom berühmten Architekten Franz Anton Hillebrandt entworfen.", "Die Mórer Weintage sind eines der ältesten und größten Weinfeste in Transdanubien.", "In der Stadt lebt eine bedeutende deutsche Minderheit, die den Weinbau maßgeblich prägte."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "martonvasar",
@@ -3594,6 +5407,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Stadt bekannt für das neugotische Schloss Brunszvik und seine Verbindung zu Beethoven.", "hu": "A neogótikus Brunszvik-kastélyról és Beethovenhez fűződő kapcsolatáról ismert város.", "ro": "Oraș cunoscut pentru castelul neogotic Brunszvik și legătura sa cu Beethoven.", "en": "Town known for the neo-Gothic Brunszvik Castle and its connection to Beethoven."},
     facts: {"de": ["Beethoven war oft Gast im Schloss.", "Beherbergt ein Beethoven-Gedenkmuseum."], "hu": ["Beethoven gyakori vendég volt a kastélyban.", "Beethoven-emlékmúzeumnak ad otthont."], "ro": ["Beethoven a fost adesea oaspete la castel.", "Găzduiește un muzeu memorial Beethoven."], "en": ["Beethoven was a frequent guest at the castle.", "Houses a Beethoven Memorial Museum."]},
     image: "/poi-images/martonvasar.webp",
+  
+    descriptionAdvanced: {
+      "de": "Martonvásár ist landesweit bekannt für das prächtige Schloss Brunszvik, das als das 'ungarische Zentrum der Beethoven-Pflege' gilt. Das Schloss wurde im neugotischen Stil umgebaut und ist von einem der schönsten englischen Gärten Ungarns umgeben, in dessen Mitte ein idyllischer See mit einer Insel liegt. Ludwig van Beethoven war ein enger Freund der Familie Brunszvik und verbrachte hier mehrere Sommer, wobei er angeblich einige seiner berühmten Werke in dieser inspirierenden Umgebung komponierte. Heute beherbergt das Schloss ein Beethoven-Museum und ist Sitz des Agrarwissenschaftlichen Forschungszentrums der Ungarischen Akademie der Wissenschaften. Im Sommer finden auf der Insel im Schlosspark regelmäßig klassische Konzerte statt, die die Verbindung zwischen dem Genie und diesem romantischen Ort feiern. Martonvásár ist ein Ort, an dem sich Musikgeschichte, Architektur und Natur auf harmonische Weise vereinen.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Schloss Brunszvik in Martonvásár ist ein herausragendes Beispiel der ungarischen Neugotik.", "Ludwig van Beethoven widmete seine berühmte 'Appassionata'-Sonate dem Grafen Franz Brunszvik.", "Auf der Insel im Schlosspark finden seit 1958 jährlich Beethoven-Gedenkkonzerte statt.", "Die Stadt beherbergt zudem das erste Kindergartnmuseum Ungarns, gegründet zu Ehren von Therese Brunszvik."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "mosonmagyarovar",
@@ -3604,6 +5430,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Stadt an der Grenze zu Österreich und der Slowakei, bekannt für ihr Thermalbad.", "hu": "Város az osztrák és szlovák határ közelében, termálfürdőjéről ismert.", "ro": "Oraș lângă granița cu Austria și Slovacia, cunoscut pentru baia sa termală.", "en": "City near the Austrian and Slovak borders, known for its thermal bath."},
     facts: {"de": ["Wichtiges Zentrum für Zahnmedizintourismus.", "Hat eine bedeutende landwirtschaftliche Universität."], "hu": ["A fogászati turizmus fontos központja.", "Jelentős agrár-egyetemmel rendelkezik."], "ro": ["Centru important pentru turismul stomatologic.", "Are o universitate agricolă importantă."], "en": ["Important center for dental tourism.", "Has a significant agricultural university."]},
     image: "/poi-images/mosonmagyarovar.webp",
+  
+    descriptionAdvanced: {
+      "de": "Mosonmagyaróvár, im Nordwesten Ungarns nahe der österreichischen und slowakischen Grenze gelegen, ist eine Stadt von historischer Bedeutung und moderner Heilkraft. Die Stadt entstand durch die Vereinigung von Moson und Magyaróvár und wird von mehreren Armen der Leitha und der Moson-Donau durchzogen. Das absolute Wahrzeichen ist die mächtige Burg, die heute die renommierte Agrarfakultät der Universität beherbergt. Mosonmagyaróvár ist zudem weltweit bekannt für sein Heilwasser, das zu den fünf wirksamsten in Europa zählt und jährlich zahlreiche Kurgäste anzieht. Die historische Altstadt mit ihren barocken Häusern und gemütlichen Restaurants lädt zum Verweilen und Entdecken ein. Die strategische Lage im Dreiländereck macht die Stadt zu einem wichtigen wirtschaftlichen und touristischen Knotenpunkt.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Heilwasser von Mosonmagyaróvár zählt laut Experten zu den wirksamsten in ganz Europa.", "Die Burg der Stadt beherbergt eine der ältesten landwirtschaftlichen Bildungseinrichtungen der Welt.", "Die Stadt liegt im Szigetköz, einer einzigartigen Flusslandschaft mit reicher Natur.", "Mosonmagyaróvár ist ein bedeutendes Zentrum für Medizintourismus, insbesondere für Zahnheilkunde."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "fertod",
@@ -3614,6 +5453,19 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/fertod.webp",
     description: {"de": "Stadt bekannt für das Schloss Esterházy, das 'ungarische Versailles'.", "hu": "Az Esterházy-kastélyról, a 'magyar Versailles-ról' ismert város.", "ro": "Oraș cunoscut pentru Castelul Esterházy, 'Versailles-ul maghiar'.", "en": "Town known for the Esterházy Palace, the 'Hungarian Versailles'."},
     facts: {"de": ["Joseph Haydn lebte und arbeitete hier viele Jahre.", "Das Schloss ist ein Meisterwerk des Rokoko."], "hu": ["Joseph Haydn sok éven át élt és dolgozott itt.", "A kastély a rokokó remekműve."], "ro": ["Joseph Haydn a trăit și a lucrat aici mulți ani.", "Castelul este o capodoperă a stilului rococo."], "en": ["Joseph Haydn lived and worked here for many years.", "The palace is a masterpiece of Rococo architecture."]},
+  
+    descriptionAdvanced: {
+      "de": "Fertőd ist weltberühmt für das Schloss Esterházy, das oft als das 'ungarische Versailles' bezeichnet wird und eines der bedeutendsten Barockensembles Mitteleuropas ist. Das Schloss besticht durch seine enorme Größe, den prachtvollen Festsaal und die reich verzierten Fassaden, die den einstigen Reichtum der Fürsten Esterházy widerspiegeln. Über fast drei Jahrzehnte wirkte hier der berühmte Komponist Joseph Haydn als Kapellmeister und schuf im Dienste des Fürsten 'Prachtliebender Nikolaus' einen Großteil seines Lebenswerks. Der weitläufige Schlosspark und das angrenzende Marionettentheater zeugen von der glanzvollen höfischen Kultur des 18. Jahrhunderts. Fertőd liegt zudem am Rande des Nationalparks Fertő-Hanság, der Teil des UNESCO-Weltkulturerbes ist. Ein Besuch in Fertőd bietet einen faszinierenden Einblick in die barocke Pracht und die Musikgeschichte von Weltrang.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Schloss Esterházy in Fertőd ist das größte und prächtigste Barockschloss in Ungarn.", "Joseph Haydn lebte und arbeitete fast 30 Jahre lang als Hofkomponist in diesem Schloss.", "Das Schloss besitzt 126 reich dekorierte Zimmer und einen prächtigen Festsaal.", "Jährlich findet in Fertőd das internationale Haydn-Festival mit hochrangigen Musikern statt."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "hajduboszormeny",
@@ -3624,6 +5476,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Die größte der Hajdú-Städte mit einer einzigartigen kreisförmigen Stadtstruktur.", "hu": "A legnagyobb hajdúváros, egyedülálló körgyűrűs városszerkezettel.", "ro": "Cel mai mare dintre orașele Hajdú, cu o structură urbană circulară unică.", "en": "The largest of the Hajdú towns with a unique circular city structure."},
     facts: {"de": ["Bewahrt die Traditionen der Hajdú-Reiter.", "Wichtiges landwirtschaftliches Zentrum."], "hu": ["Őrzi a hajdú hagyományokat.", "Fontos mezőgazdasági központ."], "ro": ["Păstrează tradițiile haiducilor (Hajdú).", "Centru agricol important."], "en": ["Preserves the Hajdú traditions.", "Important agricultural center."]},
     image: "/poi-images/hajduboszormeny.webp",
+  
+    descriptionAdvanced: {
+      "de": "Hajdúböszörmény ist die größte und geschichtlich bedeutendste der sogenannten 'Haiduckenstädte' in Ostungarn. Das Stadtbild ist einzigartig, da es eine kreisförmige Struktur aufweist, die ursprünglich zu Verteidigungszwecken angelegt wurde und heute denkmalgeschützt ist. Die Haiducken, ursprünglich berittene Viehhirten und später Elitesoldaten, erhielten hier im 17. Jahrhundert von Fürst István Bocskai Land und Privilegien. Das Bocskai-István-Museum dokumentiert die faszinierende Geschichte dieser wehrhaften Gemeinschaft und zeigt wertvolle archäologische Funde aus der Bronzezeit. Die Stadt bewahrt stolz ihre Traditionen und ist für ihre Gastfreundschaft sowie die typische Gastronomie der Tiefebene bekannt. Hajdúböszörmény strahlt eine ruhige, bodenständige Kraft aus, die tief in der ungarischen Geschichte verwurzelt ist.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Hajdúböszörmény besitzt eine einzigartige, kreisförmige Stadtstruktur aus der Haiduckenzeit.", "Die Stadt ist die 'Hauptstadt' der historischen Region der Haiducken (Hajdúság).", "In der Stadt befindet sich eines der wichtigsten Museen für die Geschichte der Haiducken.", "Die Region ist bekannt für ihre fruchtbaren Böden und die traditionsreiche Landwirtschaft."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "berettyoujfalu",
@@ -3634,6 +5499,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Stadt im Osten Ungarns, das Zentrum der Region Bihar.", "hu": "Kelet-magyarországi város, a Bihar régió központja.", "ro": "Oraș în estul Ungariei, centrul regiunii Bihar.", "en": "City in eastern Hungary, the center of the Bihar region."},
     facts: {"de": ["Bekannt für sein Thermalbad.", "Wichtiger Verkehrsknotenpunkt nahe der Grenze."], "hu": ["Termálfürdőjéről ismert.", "Fontos közlekedési csomópont a határ közelében."], "ro": ["Cunoscut pentru baia sa termală.", "Nod de transport important lângă graniță."], "en": ["Known for its thermal bath.", "Important transport hub near the border."]},
     image: "/poi-images/berettyoujfalu.webp",
+  
+    descriptionAdvanced: {
+      "de": "Berettyóújfalu liegt im Osten Ungarns am Ufer des Berettyó-Flusses und ist ein wichtiges regionales Zentrum zwischen Debrecen und der rumänischen Grenze. Die Stadt blickt auf eine lange Geschichte zurück, die eng mit der Entwicklung des Handels und der Verwaltung im Komitat Bihar verbunden ist. Ein bedeutendes Wahrzeichen ist die Ruine von Herpály, ein imposanter Turm eines einstigen Klosters aus dem 12. Jahrhundert, der einsam in der Landschaft steht. Die Stadt bietet zudem moderne Erholung im Bihar-Heilbad, das für sein heilendes Thermalwasser und seine familienfreundliche Atmosphäre bekannt ist. Berettyóújfalu pflegt intensiv seine kulturellen Traditionen und ist stolz auf seine Rolle als kulturelles Tor der Region. Die weite Landschaft der Umgebung bietet Ruhe und Entspannung fernab des Massentourismus.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Die Klosterruine von Herpály ist ein bedeutendes Zeugnis der romanischen Architektur in der Region.", "Die Stadt ist ein historischer Sitz der Verwaltung des Komitats Bihar.", "Das Bihar-Heilbad nutzt Thermalwasser aus einer Tiefe von über 600 Metern.", "Berettyóújfalu liegt an einem strategisch wichtigen Verkehrsknotenpunkt nach Siebenbürgen."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "parad",
@@ -3644,6 +5522,19 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/parad.webp",
     description: {"de": "Kurort im Mátra-Gebirge, bekannt für seine Heilquellen und das Kutschenmuseum.", "hu": "Üdülőhely a Mátrában, gyógyforrásairól és kocsimúzeumáról ismert.", "ro": "Stațiune în munții Mátra, cunoscută pentru izvoarele sale curative și muzeul trăsurilor.", "en": "Resort in the Mátra Mountains, known for its healing springs and carriage museum."},
     facts: {"de": ["Das Paráder Schwefelwasser ist landesweit bekannt.", "Beherbergt das Cifra-Stallgebäude."], "hu": ["A parádi kénes víz országszerte ismert.", "Itt található a Cifra-istálló."], "ro": ["Apa sulfuroasă de Parád este cunoscută în toată țara.", "Găzduiește clădirea Cifra-istálló."], "en": ["The sulfurous water of Parád is known nationwide.", "Home to the Cifra Stable building."]},
+  
+    descriptionAdvanced: {
+      "de": "Parád, eingebettet in das malerische Parád-Tal im Mátra-Gebirge, ist einer der traditionsreichsten Kurorte Ungarns, bekannt für seine vielfältigen Heilwasserquellen. Besonders berühmt ist das 'Paráder Schwefelwasser', das seit Jahrhunderten zur Behandlung von Verdauungsbeschwerden genutzt wird. Der Ortsteil Parádfürdő besticht durch seine historischen Badegebäude und das imposante Károlyi-Schloss, in dem das Mitte eines weitläufigen Arboretums liegt. Einzigartig ist das Kutschenmuseum in den ehemaligen herrschaftlichen Stallungen (Cifra Istálló), das eine weltweit bedeutende Sammlung historischer Fahrzeuge zeigt. Die Umgebung von Parád bietet fantastische Wanderwege durch dichte Wälder und zu spektakulären Aussichtspunkten im höchsten Gebirge Ungarns. Die Stadt verbindet auf charmante Weise alpine Frische mit kaiserlicher Kurtradition.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Parád ist landesweit bekannt für seine verschiedenen Heil- und Mineralwasserquellen.", "Das Kutschenmuseum 'Cifra Istálló' gilt als eines der schönsten seiner Art weltweit.", "Das Károlyi-Schloss in Parádfürdő war einst eine prachtvolle Jagdresidenz.", "In Parád wird noch heute die traditionelle Glasmacherkunst in kleinen Werkstätten gepflegt."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "belapatfalva",
@@ -3654,6 +5545,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Stadt am Fuße des Bükk-Gebirges, berühmt für ihre mittelalterliche Zisterzienserabtei.", "hu": "Város a Bükk lábánál, középkori ciszterci apátságáról híres.", "ro": "Oraș la poalele munților Bükk, faimos pentru abația sa cisterciană medievală.", "en": "Town at the foot of the Bükk Mountains, famous for its medieval Cistercian abbey."},
     facts: {"de": ["Die Abteikirche ist eine der am besten erhaltenen romanischen Kirchen Ungarns.", "Beliebter Ausgangspunkt für Wanderungen."], "hu": ["Az apátsági templom Magyarország egyik legjobb állapotban maradt román stílusú temploma.", "Népszerű kiindulópont túrázáshoz."], "ro": ["Biserica abației este una dintre cele mai bine conservate biserici romanice din Ungaria.", "Punct de plecare popular pentru drumeții."], "en": ["The abbey church is one of the best-preserved Romanesque churches in Hungary.", "Popular starting point for hiking."]},
     image: "/poi-images/belapatfalva.webp",
+  
+    descriptionAdvanced: {
+      "de": "Bélapátfalva liegt malerisch am Fuße des Bükk-Gebirges und ist vor allem für seine Zisterzienserabtei bekannt, die ein herausragendes Denkmal der romanischen Architektur in Ungarn ist. Die Abtei wurde 1232 gegründet und beeindruckt durch ihre schlichte Schönheit und die charakteristische Fassade aus abwechselnd roten und grauen Steinreihen. Es ist die einzige mittelalterliche Klosterkirche in Ungarn, die fast unversehrt in ihrer ursprünglichen Form erhalten geblieben ist. Direkt neben der Kirche entspringt die 'Drei-Quellen', die dem Ort eine spirituelle Ruhe verleihen. Die Umgebung von Bélapátfalva ist geprägt von den steilen Kalkfelsen des Bükk-Gebirges, die zu anspruchsvollen Wanderungen und Naturerkundungen einladen. Die Stadt ist ein Ort der Stille und Besinnung inmitten einer spektakulären Berglandschaft.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Die Zisterzienserabtei von Bélapátfalva ist die besterhaltene romanische Klosterkirche Ungarns.", "Die Kirche wurde im Jahr 1232 gegründet und ist dem Heiligen Jakob gewidmet.", "In der Nähe befinden sich die 'Drei-Quellen', die schon im Mittelalter die Mönche versorgten.", "Die umliegenden Felsformationen des Bükk-Gebirges bieten spektakuläre Aussichten auf das Umland."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "mezotur",
@@ -3664,6 +5568,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Stadt in der Tiefebene, bekannt für ihre jahrhundertealte Töpfertradition.", "hu": "Alföldi város, évszázados fazekas hagyományairól ismert.", "ro": "Oraș în câmpie, cunoscut pentru tradiția sa seculară în olărit.", "en": "City in the plains, known for its centuries-old pottery tradition."},
     facts: {"de": ["Die Mezőtúrer Keramik ist ein Hungarikum.", "Veranstaltet jährlich Töpferfestivals."], "hu": ["A mezőtúri kerámia hungarikum.", "Évente rendeznek fazekas fesztiválokat."], "ro": ["Ceramica de Mezőtúr este un Hungarikum.", "Găzduiește anual festivaluri de olărit."], "en": ["Mezőtúr ceramics are a Hungarikum.", "Hosts annual pottery festivals."]},
     image: "/poi-images/mezotur.webp",
+  
+    descriptionAdvanced: {
+      "de": "Mezőtúr, im Herzen der ungarischen Tiefebene am Ufer der Berettyó gelegen, blickt auf eine jahrhundertelange Tradition als Zentrum des Handwerks und der Bildung zurück. Die Stadt ist landesweit als die 'Stadt der Töpfer' bekannt, da die hiesige Tonverarbeitung seit dem Mittelalter Weltruf genießt. Die charakteristische Mezőtúrer Keramik mit ihren typischen Farben und Mustern ist ein geschütztes Kulturerbe der Region. Das Reformierte Kollegium der Stadt, gegründet im 16. Jahrhundert, war über lange Zeit ein geistiges Zentrum der Umgebung. Jährlich im Sommer lockt das 'Túr-Festival' Besucher an, die die Volkskunst, Musik und kulinarischen Spezialitäten der Tiefebene feiern möchten. Mezőtúr strahlt eine angenehme, ländliche Gelassenheit aus und pflegt stolz sein handwerkliches Erbe.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Mezőtúr ist das bedeutendste historische Zentrum der Töpferkunst in der ungarischen Tiefebene.", "Die Stadt beherbergt ein renommiertes Museum, das sich ausschließlich der Geschichte der Keramik widmet.", "Das Reformierte Kollegium von Mezőtúr wurde bereits im Jahr 1530 gegründet.", "Die Stadt liegt malerisch am Ufer der Berettyó, die ideale Bedingungen für Angler bietet."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "tiszafured",
@@ -3674,6 +5591,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Die 'Hauptstadt des Theiß-Sees', ein Zentrum für Ökotourismus und Wassersport.", "hu": "A 'Tisza-tó fővárosa', az ökoturizmus és a vízisportok központja.", "ro": "'Capitala Lacului Tisa', un centru pentru ecoturism și sporturi nautice.", "en": "The 'Capital of Lake Tisza', a center for ecotourism and water sports."},
     facts: {"de": ["Tor zum Nationalpark Hortobágy.", "Bekannt für seine Thermalbäder."], "hu": ["A Hortobágyi Nemzeti Park kapuja.", "Termálfürdőiről ismert."], "ro": ["Poarta către Parcul Național Hortobágy.", "Cunoscut pentru băile sale termale."], "en": ["Gateway to the Hortobágy National Park.", "Known for its thermal baths."]},
     image: "/poi-images/tiszafured.webp",
+  
+    descriptionAdvanced: {
+      "de": "Tiszafüred ist das touristische Zentrum und die 'Hauptstadt' des Theiß-Sees, einer einzigartigen Wasserlandschaft im Osten Ungarns. Die Stadt bietet ideale Bedingungen für alle, die aktive Erholung am und im Wasser suchen, sei es beim Baden, Segeln, Angeln oder bei Kanutouren durch die labyrinthartigen Schilfgebiete. Besonders attraktiv ist der Theiß-See-Ökozentrum-Park, in dem man in riesigen Aquarien die einheimische Unterwasserwelt, darunter auch den mächtigen Hausen, bewundern kann. Tiszafüred hat zudem eine lange Tradition als Kurort und bietet entspannende Stunden in seinem Thermalbad. Die Stadt ist zudem für ihre traditionsreiche Töpferkunst bekannt, deren Erzeugnisse im örtlichen Museum besichtigt werden können. Als Tor zum Nationalpark Hortobágy ist Tiszafüred ein perfekter Ausgangspunkt für Naturerlebnisse zwischen Wasser und Puszta.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Tiszafüred ist das wichtigste touristische Zentrum am Theiß-See.", "Das Ökozentrum in der Stadt beherbergt das größte Süßwasseraquarium-System in Europa.", "Die Stadt ist ein staatlich anerkannter Heilkurort mit wertvollem Thermalwasser.", "Die Tiszafüreder Töpferkunst ist ein wichtiger Teil der regionalen Volkskunsttradition."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "komarom",
@@ -3684,6 +5614,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Grenzstadt an der Donau, bekannt für ihr riesiges Festungssystem.", "hu": "Duna-parti határváros, hatalmas erődrendszeréről ismert.", "ro": "Oraș de graniță pe Dunăre, cunoscut pentru sistemul său imens de fortificații.", "en": "Border city on the Danube, known for its massive fortress system."},
     facts: {"de": ["Das Festungssystem ist das größte seiner Art in Mitteleuropa.", "Geteilt in einen ungarischen und einen slowakischen Teil."], "hu": ["Az erődrendszer Közép-Európa legnagyobb ilyen jellegű építménye.", "Magyar és szlovák részre oszlik."], "ro": ["Sistemul de fortificații este cel mai mare de acest tip din Europa Centrală.", "Împărțit într-o parte maghiară și una slovacă."], "en": ["The fortress system is the largest of its kind in Central Europe.", "Divided into a Hungarian and a Slovak part."]},
     image: "/poi-images/komarom.webp",
+  
+    descriptionAdvanced: {
+      "de": "Komárom, an der Donau an der Grenze zur Slowakei gelegen, ist eine Stadt mit einer beeindruckenden militärischen Vergangenheit und einer lebendigen Gegenwart. Berühmt ist die Stadt für ihr gigantisches Festungssystem, bestehend aus den Festungen Monostor, Igmánd und Csillag, das im 19. Jahrhundert als das größte der Österreichisch-Ungarischen Monarchie galt. Die Festung Monostor ist heute ein faszinierendes Freilichtmuseum und Schauplatz zahlreicher historischer Festivals und Ausstellungen. Komárom ist zudem ein bedeutender Kurort, dessen Thermalwasser besonders reich an Mineralien ist und in einem modernen Bad genutzt wird. Die Stadt ist durch die Elisabethbrücke mit ihrer Zwillingsstadt Komárno in der Slowakei verbunden, was zu einen regen kulturellen Austausch führt. Komárom verbindet auf einzigartige Weise monumentale Festungsarchitektur mit entspannender Wellnesskultur.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Festungssystem von Komárom galt im 19. Jahrhundert als uneinnehmbar.", "Die Festung Monostor ist die größte Festungsanlage in ganz Mitteleuropa.", "Die Stadt ist ein wichtiger Hafen an der Donau und ein industrielles Zentrum.", "Komárom besitzt ein bekanntes Heilbad mit jodhaltigem Thermalwasser."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "babolna",
@@ -3694,6 +5637,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Stadt berühmt für ihr historisches Gestüt und die Pferdezucht.", "hu": "Történelmi ménesbirtokáról és lótartásáról híres város.", "ro": "Oraș faimos pentru herghelia sa istorică și creșterea cailor.", "en": "Town famous for its historic stud farm and horse breeding."},
     facts: {"de": ["Gegründet im Jahr 1789.", "Heimat der Shagya-Araber-Pferde."], "hu": ["1789-ben alapították.", "A Shagya-arab lovak hazája."], "ro": ["Fondat în anul 1789.", "Casa cailor Shagya Arab."], "en": ["Founded in 1789.", "Home of the Shagya Arabian horses."]},
     image: "/poi-images/babolna.webp",
+  
+    descriptionAdvanced: {
+      "de": "Bábolna ist weltberühmt für sein Nationalgestüt, das 1789 gegründet wurde und die Wiege der weltbekannten Araberpferdezucht in Ungarn ist. Die Architektur des Ortes ist geprägt von den herrschaftlichen Gebäuden des Gestüts, dem prachtvollen Schloss und der Reithalle, die eine Atmosphäre von aristokratischem Glanz versprühen. Hier wurde die berühmte Linie 'Shagya-Araber' gezüchtet, die für ihre Ausdauer, Schnelligkeit und Eleganz geschätzt wird. Ein besonderes Highlight ist das Gestütsmuseum, das die Geschichte der Pferdezucht und die militärische Bedeutung der Anlage eindrucksvoll dokumentiert. Bábolna ist zudem eine moderne Agrarstadt und beherbergt bedeutende Unternehmen der Geflügelzucht. Für Pferdeliebhaber und Freunde historischer Ensembles ist Bábolna ein Ort von zeitloser Eleganz und großer Bedeutung.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Nationalgestüt Bábolna ist die Heimat der berühmten Shagya-Araber-Pferde.", "Das Gestüt wurde 1789 per kaiserlichem Erlass als eigenständige Militäranlage gegründet.", "Das im Schloss untergebrachte Museum zeigt eine weltweit bedeutende Sammlung zur Hippologie.", "Das Gestütsensemble von Bábolna steht unter nationalem Denkmalschutz."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "szecseny",
@@ -3704,6 +5660,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Historische Stadt in Nordungarn, bekannt für das Barockschloss Forgách.", "hu": "Észak-magyarországi történelmi város, a barokk Forgách-kastélyról ismert.", "ro": "Oraș istoric în nordul Ungariei, cunoscut pentru castelul baroc Forgách.", "en": "Historic town in northern Hungary, known for the Baroque Forgách Castle."},
     facts: {"de": ["Ort der ungarischen Nationalversammlung von 1705.", "Hat einen schiefen Feuerturm."], "hu": ["Az 1705-ös országgyűlés helyszíne.", "Ferde tűztoronnyal rendelkezik."], "ro": ["Locul adunării naționale maghiare din 1705.", "Are un turn de foc înclinat."], "en": ["Site of the Hungarian national assembly of 1705.", "Has a leaning fire tower."]},
     image: "/poi-images/szecseny.webp",
+  
+    descriptionAdvanced: {
+      "de": "Szécsény, im Norden Ungarns im Ipoly-Tal gelegen, ist eine Stadt von großer historischer Bedeutung und barockem Charme. Berühmt wurde sie durch den Reichstag von 1705, auf dem Fürst Ferenc Rákóczi II. zum Oberhaupt der ungarischen Konföderation gewählt wurde. Das barocke Forgách-Schloss, in dem heute das Ferenc-Kubinyi-Museum untergebracht ist, erinnert an diese glanzvolle Zeit und zeigt bedeutende Ausstellungen zur Regionalgeschichte. Ebenfalls sehenswert ist das Franziskanerkloster mit seiner gotischen Kirche, das über Jahrhunderte ein geistiges Zentrum der Region war. Eine Kuriosität der Stadt ist der 'Schiefe Turm' von Szécsény, ein alter Wehrturm, der sich im Laufe der Zeit geneigt hat. Die ruhige Atmosphäre der Stadt und die Nähe zur slowakischen Grenze machen sie zu einem interessanten Ziel für Geschichtsinteressierte.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["In Szécsény fand 1705 der bedeutende Reichstag unter Fürst Ferenc Rákóczi II. statt.", "Das Forgách-Schloss ist ein herausragendes Beispiel barocker Schlossarchitektur in Nordungarn.", "Die Stadt besitzt einen 'Schiefen Turm', der als historischer Wehrturm diente.", "Szécsény ist ein wichtiger Ort an der Pilgerroute 'Via Margaritarum' (Perlenweg)."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "tar",
@@ -3714,6 +5683,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Dorf am Fuße der Mátra, bekannt für seinen buddhistischen Stupa.", "hu": "Falu a Mátra lábánál, buddhista sztúpájáról ismert.", "ro": "Sat la poalele munților Mátra, cunoscut pentru stupa sa budistă.", "en": "Village at the foot of the Mátra, known for its Buddhist stupa."},
     facts: {"de": ["Der Stupa wurde zum Gedenken an Alexander Csoma de Kőrös errichtet.", "Ein Ort der Ruhe und Meditation."], "hu": ["A sztúpát Kőrösi Csoma Sándor emlékére emelték.", "A nyugalom és meditáció helye."], "ro": ["Stupa a fost ridicată în memoria lui Alexander Csoma de Kőrös.", "Un loc de liniște și meditație."], "en": ["The stupa was built in memory of Alexander Csoma de Kőrös.", "A place of peace and meditation."]},
     image: "/poi-images/tar.webp",
+  
+    descriptionAdvanced: {
+      "de": "Der kleine Ort Tar im Cserhát-Gebirge ist bekannt für den buddhistischen Kőrösi-Csoma-Sándor-Gedenkpark. Dieser Park wurde zu Ehren des berühmten ungarischen Sprachforschers errichtet, der das erste tibetisch-englische Wörterbuch verfasste. Das Zentrum des Parks bildet eine weiße Friedensstupa, die vom 14. Dalai Lama eingeweiht wurde. Ein tibetisches Gedenkhaus und ein kleiner Tempel vermitteln Einblicke in die fernöstliche Kultur. Tar beherbergt zudem eine historisch interessante mittelalterliche Wehrkirche.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["In Tar befindet sich eine buddhistische Stupa, die dem Weltfrieden gewidmet ist.", "Der Gedenkpark ehrt den Tibetologen Alexander Csoma de Kőrös.", "Die Stupa wurde 1992 vom Dalai Lama persönlich eingeweiht.", "Der Ort besitzt eine gut erhaltene mittelalterliche Wehrkirche."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "erd",
@@ -3724,6 +5706,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Große Stadt in der Agglomeration von Budapest, bekannt für ihr osmanisches Minarett.", "hu": "Nagyváros Budapest agglomerációjában, oszmán minaretjéről ismert.", "ro": "Oraș mare în aglomerația Budapestei, cunoscut pentru minaretul său otoman.", "en": "Large city in the Budapest agglomeration, known for its Ottoman minaret."},
     facts: {"de": ["Das Minarett ist eines von nur drei erhaltenen in Ungarn.", "Wichtiges Verkehrszentrum."], "hu": ["A minaret egyike a Magyarországon fennmaradt háromnak.", "Fontos közlekedési csomópont."], "ro": ["Minaretul este unul dintre cele doar trei rămase în Ungaria.", "Centru de transport important."], "en": ["The minaret is one of only three remaining in Hungary.", "Important transport hub."]},
     image: "/poi-images/erd.webp",
+  
+    descriptionAdvanced: {
+      "de": "Érd, südwestlich von Budapest an der Donau gelegen, bewahrt trotz seiner modernen Rolle als Vorstadt interessante historische Schätze. Das original erhaltene osmanische Minarett aus dem 17. Jahrhundert ist eines von nur drei noch existierenden in ganz Ungarn. Das Ungarische Geographische Museum dokumentiert die Leistungen ungarischer Weltreisender und Entdecker. Von den Hochufern der Stadt bieten sich weite Ausblicke über die Donaulandschaft. Die geschützten Lösswände entlang des Flusses beherbergen eine besondere Flora und Fauna.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Érd besitzt eines der drei originalen türkischen Minarette in Ungarn.", "Das Ungarische Geographische Museum ist landesweit einzigartig.", "Die Stadt ist eine der flächenmäßig größten Siedlungen Ungarns.", "Die Donau-Lösswände bei Érd stehen unter Naturschutz."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "cegled",
@@ -3734,6 +5729,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Stadt in der Tiefebene, bekannt für ihr Thermalbad und die Verbindung zu Lajos Kossuth.", "hu": "Alföldi város, termálfürdőjéről és Kossuth Lajoshoz fűződő kapcsolatáról ismert.", "ro": "Oraș în câmpie, cunoscut pentru baia sa termală și legătura cu Lajos Kossuth.", "en": "City in the plains, known for its thermal bath and connection to Lajos Kossuth."},
     facts: {"de": ["Beherbergt das größte Kossuth-Museum des Landes.", "Bekannt für seine reformierte Kirche."], "hu": ["Itt található az ország legnagyobb Kossuth-múzeuma.", "Református templomáról is ismert."], "ro": ["Găzduiește cel mai mare muzeu Kossuth din țară.", "Cunoscut pentru biserica sa reformată."], "en": ["Home to the largest Kossuth museum in the country.", "Known for its Reformed church."]},
     image: "/poi-images/cegled.webp",
+  
+    descriptionAdvanced: {
+      "de": "Cegléd ist als 'Tor zur Tiefebene' und bedeutender Ort der ungarischen Geschichte bekannt. Die Stadt ist eng mit Lajos Kossuth verbunden, der hier 1848 seine berühmte Rekrutierungsrede hielt. Das Kossuth-Museum bewahrt das Erbe des Nationalhelden und dokumentiert die Revolutionsgeschichte. Die reformierte Kirche von Cegléd ist eine der größten protestantischen Gotteshäuser in Mitteleuropa. Das moderne Thermal- und Strandbad der Stadt nutzt wertvolles Heilwasser für therapeutische Zwecke.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Cegléd ist ein bedeutendes Zentrum des Kossuth-Kultes in Ungarn.", "Die reformierte Kirche der Stadt beeindruckt durch ihre monumentale Größe.", "Die Stadt beherbergt ein einzigartiges internationales Trommelmuseum.", "Die Region ist berühmt für den Anbau hochwertiger Aprikosen."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "balatonlelle",
@@ -3744,6 +5752,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Beliebter Ferienort am Südufer des Plattensees mit Sandstrand.", "hu": "Népszerű üdülőhely a Balaton déli partján, homokos stranddal.", "ro": "Stațiune populară pe malul sudic al Lacului Balaton, cu plajă de nisip.", "en": "Popular resort town on the southern shore of Lake Balaton with a sandy beach."},
     facts: {"de": ["Bekannt für seine Weinproduktion.", "Veranstaltet im Sommer viele Festivals."], "hu": ["Bortermeléséről ismert.", "Nyáron számos fesztiválnak ad otthont."], "ro": ["Cunoscut pentru producția de vin.", "Găzduiește multe festivaluri în timpul verii."], "en": ["Known for its wine production.", "Hosts many festivals during the summer."]},
     image: "/poi-images/balatonlelle.webp",
+  
+    descriptionAdvanced: {
+      "de": "Balatonlelle ist ein beliebter Familienferienort am Südufer des Plattensees mit einer perfekten Mischung aus Strand und Kultur. Der weitläufige Sandstrand mit seinem flachen Wasser ist besonders bei Familien mit Kindern gefragt. Sommerliche Freilichttheater-Aufführungen und Weinfestivals prägen das lebendige kulturelle Leben des Ortes. Vom nahen Kishegy mit seinen historischen Kellern bietet sich ein fantastischer Panoramablick über den See. Die entspannte Urlaubsatmosphäre macht Balatonlelle zu einem der attraktivsten Ziele am Balaton.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Balatonlelle besitzt einen der wenigen echten Sandstrände am Plattensee.", "Das jährliche Weinfest im August ist ein Highlight am Südufer.", "Vom Kishegy aus blickt man direkt auf das gegenüberliegende Badacsony-Massiv.", "Der Ort beherbergt einen bekannten Zirkus- und Erlebnispark."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "fonyod",
@@ -3754,6 +5775,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Stadt am Südufer des Plattensees, bekannt für ihre Aussichtspunkte und den Hafen.", "hu": "Város a Balaton déli partján, kilátóiról és kikötőjéről ismert.", "ro": "Oraș pe malul sudic al Lacului Balaton, cunoscut pentru punctele sale de belvedere și port.", "en": "City on the southern shore of Lake Balaton, known for its viewpoints and harbor."},
     facts: {"de": ["Bietet den schönsten Blick auf das Badacsony-Gebirge.", "Hat den längsten Pier am Plattensee."], "hu": ["Innen nyílik a legszebb kilátás a Badacsonyra.", "Itt található a Balaton leghosszabb mólója."], "ro": ["Oferă cea mai frumoasă vedere asupra munților Badacsony.", "Are cel mai lung debarcader de pe Lacul Balaton."], "en": ["Offers the most beautiful view of the Badacsony mountains.", "Has the longest pier on Lake Balaton."]},
     image: "/poi-images/fonyod.webp",
+  
+    descriptionAdvanced: {
+      "de": "Fonyód liegt auf einer markanten Hügelkette am Südufer des Plattensees und bietet spektakuläre Ausblicke. Von den zwei vulkanischen Hügeln aus kann man fast den gesamten See bis zur Halbinsel Tihany überblicken. Die Stadt blickt auf eine lange Tradition als Kurort zurück, was die vielen historischen Villen bezeugen. Der Hafen von Fonyód ist ein wichtiger Knotenpunkt für die Schifffahrt zum Nordufer. Ein Anziehungspunkt ist auch der große Wochenmarkt, der Besucher aus der weiten Umgebung anlockt.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Fonyód besitzt die längste Hafenmole am gesamten Plattensee.", "Der Wochenmarkt von Fonyód ist der größte am Südufer des Sees.", "Die Stadt ist berühmt für ihre Aussichtstürme auf den vulkanischen Hügeln.", "Historische Villenviertel aus der Monarchiezeit prägen das Stadtbild."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "kisvarda",
@@ -3764,6 +5798,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Stadt im Nordosten Ungarns, bekannt für ihre Burgruine und das Thermalbad.", "hu": "Északkelet-magyarországi város, várromjáról és termálfürdőjéről ismert.", "ro": "Oraș în nord-estul Ungariei, cunoscut pentru ruinele cetății și baia termală.", "en": "City in northeastern Hungary, known for its castle ruins and thermal bath."},
     facts: {"de": ["Veranstaltet jährlich das Festival der ungarischen Theater.", "Wichtiges wirtschaftliches Zentrum der Region."], "hu": ["Évente megrendezik a Magyar Színházak Fesztiválját.", "A régió fontos gazdasági központja."], "ro": ["Găzduiește anual Festivalul Teatrelor Maghiare.", "Centru economic important al regiunii."], "en": ["Hosts the annual Festival of Hungarian Theaters.", "Important economic center of the region."]},
     image: "/poi-images/kisvarda.webp",
+  
+    descriptionAdvanced: {
+      "de": "Kisvárda im Nordosten Ungarns ist eine Stadt mit starker historischer Identität und lebendiger Kulturszene. Die spätgotische Burgruine dient heute als eindrucksvolle Kulisse für Freilichtspiele und Festivals. Besonders bekannt ist das jährliche Treffen der ungarischen Theater aus dem Ausland. Das Thermalbad 'Várfürdő' bietet moderne Erholung mit Heilwasser aus über 1000 Metern Tiefe. Die Stadt war historisch ein bedeutendes Handelszentrum an der Grenze zu den Karpaten.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Die Burg Kisvárda war im Mittelalter eine strategisch wichtige Festung.", "Die Stadt beherbergt das Festival der ungarischen Theater jenseits der Grenzen.", "Das Thermalbad nutzt sehr heißes Heilwasser für medizinische Zwecke.", "Kisvárda ist ein wichtiges Bildungs- und Kulturzentrum der Region."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "tiszadada",
@@ -3774,6 +5821,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Dorf an der Theiß, bekannt für das Schloss Andrássy.", "hu": "Tisza-parti falu, az Andrássy-kastélyról ismert.", "ro": "Sat pe râul Tisa, cunoscut pentru Castelul Andrássy.", "en": "Village on the Tisza river, known for the Andrássy Castle."},
     facts: {"de": ["Malerische Lage am Fluss.", "Ort der Entspannung und Natur."], "hu": ["Festői fekvés a folyó partján.", "A kikapcsolódás és a természet helye."], "ro": ["Locație pitorească pe malul râului.", "Loc de relaxare și natură."], "en": ["Picturesque location on the riverbank.", "Place of relaxation and nature."]},
     image: "/poi-images/tiszadada.webp",
+  
+    descriptionAdvanced: {
+      "de": "Tiszadada ist ein idyllisches Dorf am Ufer der Theiß, das durch seine unberührte Natur besticht. Der Ort liegt in einer weiten Flussschleife und bietet ideale Bedingungen für Ruhe und Entspannung. Das Schloss Patay mit seinem weitläufigen Park erinnert an die einstige Adelskultur der Region. Tiszadada war ein wichtiger Inspirationsort für den berühmten visionären Maler Tivadar Csontváry Kosztka. Die Auenwälder entlang der Theiß sind ein Paradies für Angler und Naturbeobachter.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Tiszadada liegt an einem der schönsten Abschnitte der mittleren Theiß.", "Der Maler Tivadar Csontváry Kosztka wirkte zeitweise in diesem Dorf.", "Das Schloss Patay ist ein bedeutendes Baudenkmal der Region.", "Die Gegend ist bekannt für ihre reiche Vogelwelt in den Flussauen."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "dombovar",
@@ -3784,6 +5844,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Stadt in Südtransdanubien, bekannt für das Gunaras-Heilbad.", "hu": "Dél-dunántúli város, a Gunaras gyógyfürdőről ismert.", "ro": "Oraș în Transdanubia de Sud, cunoscut pentru baia curativă Gunaras.", "en": "City in Southern Transdanubia, known for the Gunaras medicinal bath."},
     facts: {"de": ["Wichtiger Eisenbahnknotenpunkt.", "Das Heilwasser ist reich an Fluorid."], "hu": ["Fontos vasúti csomópont.", "A gyógyvíz fluoridban gazdag."], "ro": ["Nod feroviar important.", "Apa curativă este bogată în fluor."], "en": ["Important railway junction.", "The medicinal water is rich in fluoride."]},
     image: "/poi-images/dombovar.webp",
+  
+    descriptionAdvanced: {
+      "de": "Dombóvár ist eine dynamische Stadt mit bedeutender Eisenbahngeschichte und modernen Heilkräften. Der Stadtteil Gunarasfürdő ist ein staatlich anerkannter Heilkurort, dessen Wasser einen hohen Fluoridgehalt aufweist. Die Entwicklung der Stadt zum wichtigen Bahnknotenpunkt im 19. Jahrhundert prägte Architektur und Wirtschaft. Dombóvár ist zudem von einer waldreichen Hügellandschaft umgeben, die zu Wanderungen einlädt. Das Szigeter-Viertel beherbergt interessante Museen zur Lokalgeschichte.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Gunarasfürdő in Dombóvár ist berühmt für sein fluoridhaltiges Heilwasser.", "Dombóvár ist ein zentraler Knotenpunkt der Bahnstrecke Budapest-Pécs.", "Die Stadt bewahrt wertvolle Sammlungen zur ungarischen Eisenbahngeschichte.", "In der Umgebung befinden sich die Ruinen der mittelalterlichen Burg Gólyavár."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "dunafoldvar",
@@ -3794,6 +5867,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Stadt an der Donau, bekannt für ihre Burg und die Brücke.", "hu": "Duna-parti város, váráról és hídjáról ismert.", "ro": "Oraș pe Dunăre, cunoscut pentru cetatea și podul său.", "en": "City on the Danube, known for its castle and bridge."},
     facts: {"de": ["Die Burg bietet einen weiten Blick über die Donau.", "Bekannt für seine Thermalbäder."], "hu": ["A várból messzire ellátni a Duna felett.", "Termálfürdőiről is ismert."], "ro": ["Cetatea oferă o vedere largă asupra Dunării.", "Cunoscut pentru băile sale termale."], "en": ["The castle offers a wide view over the Danube.", "Known for its thermal baths."]},
     image: "/poi-images/dunafoldvar.webp",
+  
+    descriptionAdvanced: {
+      "de": "Dunaföldvár liegt malerisch an einem Steilufer der Donau und blickt auf eine strategische Vergangenheit zurück. Der mittelalterliche 'Csonka-Turm' ist das Wahrzeichen der Stadt und beherbergt heute ein Museum. Von seinem Plateau aus bietet sich ein beeindruckender Blick über die Donau und die Tiefebene. Das Heil- und Strandbad am Flussufer bietet Entspannung in geschichtsträchtiger Umgebung. Dunaföldvár war jahrhundertelang ein wichtiger Flussübergang und Handelsplatz.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Der Csonka-Turm ist einer der wenigen erhaltenen Wohntürme Ungarns.", "Die Stadt liegt an einem der markantesten Steilufer entlang der Donau.", "Dunaföldvár ist landesweit für seine hervorragende Konditortradition bekannt.", "Das Heilbad nutzt Thermalquellen direkt am Ufer der Donau."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "buk",
@@ -3804,6 +5890,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Einer der bekanntesten Kurorte Ungarns mit einem riesigen Thermalbad.", "hu": "Magyarország egyik legismertebb fürdővárosa hatalmas termálfürdővel.", "ro": "Una dintre cele mai cunoscute stațiuni balneare din Ungaria, cu o baie termală imensă.", "en": "One of Hungary's best-known spa towns with a massive thermal bath."},
     facts: {"de": ["Das Thermalwasser wurde bei Ölbohrungen entdeckt.", "Beliebt bei internationalen Gästen."], "hu": ["A termálvizet olajfúrás közben találták.", "Népszerű a nemzetközi vendégek körében."], "ro": ["Apa termală a fost descoperită în timpul forajelor petroliere.", "Popular printre oaspeții internaționali."], "en": ["The thermal water was discovered during oil drilling.", "Popular with international guests."]},
     image: "/poi-images/buk.webp",
+  
+    descriptionAdvanced: {
+      "de": "Bük im Westen Ungarns beherbergt mit Bükfürdő eines der größten Heilbäder des Landes. Die Entdeckung der Quellen im Jahr 1957 verwandelte das Dorf in ein internationales Wellness-Zentrum. Das Heilwasser von Bük zeichnet sich durch einen extrem hohen Mineralstoffgehalt aus. Neben dem Badekomplex bietet der Ort einen Meisterschaftsgolfplatz und vielfältige Sportmöglichkeiten. Die ruhige, waldreiche Umgebung ist ideal für Radtouren und Spaziergänge.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Bükfürdő besitzt das zweitgrößte Heil- und Erlebnisbad in Ungarn.", "Das Heilwasser von Bük hat einen außergewöhnlich hohen Fluorid- und Jodgehalt.", "Die Stadt beherbergt einen der ersten und schönsten Golfplätze des Landes.", "Bük ist ein führendes Zentrum für Rehabilitation im Westen Ungarns."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "oriszentpeter",
@@ -3814,6 +5913,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Das Zentrum der Region Őrség, bekannt für seine traditionelle Architektur und Natur.", "hu": "Az Őrség központja, hagyományos építészetéről és természetéről ismert.", "ro": "Centrul regiunii Őrség, cunoscut pentru arhitectura tradițională și natură.", "en": "The center of the Őrség region, known for its traditional architecture and nature."},
     facts: {"de": ["Besteht aus mehreren verstreuten Ortsteilen (Szer).", "Bekannt für Kürbiskernöl."], "hu": ["Több, szétszórt településrészből (szer) áll.", "Híres a tökmagolajáról."], "ro": ["Format din mai multe cătune dispersate (szer).", "Faimos pentru uleiul de semințe de dovleac."], "en": ["Consists of several scattered settlements (szer).", "Famous for pumpkin seed oil."]},
     image: "/poi-images/oriszentpeter.webp",
+  
+    descriptionAdvanced: {
+      "de": "Őriszentpéter ist das Zentrum der Region Őrség, einer einzigartigen Kulturlandschaft im Dreiländereck. Die Siedlungsform der 'Szer' (verstreute Wohnplätze) ist typisch für dieses historische Grenzwächterland. Die romanische Kirche aus dem 13. Jahrhundert diente einst als befestigte Wehrkirche gegen feindliche Angriffe. Die Region ist bekannt für ihr traditionelles Handwerk und Produkte wie hochwertiges Kürbiskernöl. Őriszentpéter ist das Tor zu einem unberührten Nationalpark mit Mooren und dichten Wäldern.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Őriszentpéter bewahrt die archaische Siedlungsform der 'Szer'-Gruppen.", "Die mittelalterliche St.-Peter-und-Paul-Kirche beherbergt wertvolle Fresken.", "Der Ort ist landesweit bekannt für die Herstellung von Őrséger Kürbiskernöl.", "Jährlich findet hier das traditionsreiche Kürbis-Festival statt."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "papa",
@@ -3824,6 +5936,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Historische Stadt mit barocker Architektur und einem berühmten Thermalbad.", "hu": "Történelmi város barokk építészettel és híres termálfürdővel.", "ro": "Oraș istoric cu arhitectură barocă și o faimoasă baie termală.", "en": "Historic city with Baroque architecture and a famous thermal bath."},
     facts: {"de": ["Sitz des Schlosses Esterházy.", "Wichtiges Zentrum der reformierten Kirche."], "hu": ["Az Esterházy-kastély székhelye.", "A református egyház fontos központja."], "ro": ["Sediul Castelului Esterházy.", "Centru important al bisericii reformate."], "en": ["Seat of the Esterházy Palace.", "Important center of the Reformed church."]},
     image: "/poi-images/papa.webp",
+  
+    descriptionAdvanced: {
+      "de": "Pápa, die 'Stadt des Barock', ist ein bedeutendes religiöses und architektonisches Zentrum in Westungarn. Das prächtige Schloss Esterházy ist ein Meisterwerk des Barock und bietet Einblicke in das Leben des Hochadels. Die Stadt ist zudem als 'kalvinistisches Athen' bekannt und beherbergt ein seit 1531 bestehendes Kollegium. Das einzigartige Blaudruckmuseum dokumentiert die jahrhundertealte Tradition der Textilfärberei in der Region. Das moderne Várkertfürdő bietet Heilung und Entspannung in historischer Parkumgebung.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Pápa beherbergt eines der bedeutendsten Barockschlösser der Familie Esterházy.", "Das Blaudruckmuseum ist Teil des immateriellen UNESCO-Weltkulturerbes.", "Die monumentale Hauptkirche am Hauptplatz wurde von Franz Anton Pilgram entworfen.", "Die Stadt blickt auf eine fast 500-jährige Tradition als Bildungszentrum zurück."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "badacsony",
@@ -3834,6 +5959,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Vulkanberg am Plattensee, berühmt für seine Weine und Basaltformationen.", "hu": "Vulkanikus hegy a Balatonnál, borairól és bazaltorgonáiról híres.", "ro": "Munte vulcanic la Lacul Balaton, faimos pentru vinurile sale și formațiunile de bazalt.", "en": "Volcanic mountain at Lake Balaton, famous for its wines and basalt formations."},
     facts: {"de": ["Bekannt für die Rebsorte 'Kéknyelű'.", "Bietet Wanderwege mit Panoramablick."], "hu": ["A 'Kéknyelű' szőlőfajtáról ismert.", "Panorámás túraútvonalakat kínál."], "ro": ["Cunoscut pentru soiul de struguri 'Kéknyelű'.", "Oferă trasee de drumeție cu vedere panoramică."], "en": ["Known for the 'Kéknyelű' grape variety.", "Offers hiking trails with panoramic views."]},
     image: "/poi-images/badacsony.webp",
+  
+    descriptionAdvanced: {
+      "de": "Der Badacsony ist der markanteste Zeugenberg am Nordufer des Plattensees, berühmt für seine Sargform und Weinkultur. Die riesigen Basaltorgeln an seinen Flanken sind beeindruckende Naturdenkmäler vulkanischen Ursprungs. Die sonnigen Hänge bieten ideale Bedingungen für den Weinbau, insbesondere für die seltene Rebsorte Kéknyelű. Wanderwege führen zum Gipfel, von dem aus man ein atemberaubendes Panorama über den Balaton genießt. Badacsony vereint auf einzigartige Weise Naturgewalt, erstklassige Weine und landschaftliche Ästhetik.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Der Badacsony ist mit 438 Metern der höchste Zeugenberg am Plattensee.", "Die Basaltorgeln am Berg erreichen eine Höhe von bis zu 60 Metern.", "Der Kéknyelű-Wein ist eine weltweite Rarität und gedeiht fast nur hier.", "Vom Gipfelturm bietet sich ein Rundblick über das gesamte Balaton-Oberland."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "heviz",
@@ -3844,6 +5982,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Weltberühmter Kurort mit dem größten biologisch aktiven Thermalsee der Welt.", "hu": "Világhírű fürdőváros a világ legnagyobb biológiailag aktív termáltavával.", "ro": "Stațiune balneară renumită în întreaga lume, cu cel mai mare lac termal activ biologic din lume.", "en": "World-famous spa town with the largest biologically active thermal lake in the world."},
     facts: {"de": ["Die Wassertemperatur sinkt auch im Winter nicht unter 24°C.", "Bekannt für seine Schlammpackungen."], "hu": ["A víz hőmérséklete télen sem süllyed 24°C alá.", "Híres az iszappakolásairól."], "ro": ["Temperatura apei nu scade sub 24°C nici iarna.", "Cunoscut pentru împachetările cu nămol."], "en": ["The water temperature does not drop below 24°C even in winter.", "Known for its mud packs."]},
     image: "/poi-images/heviz.webp",
+  
+    descriptionAdvanced: {
+      "de": "Hévíz beherbergt den größten natürlichen, biologisch aktiven Thermalsee der Welt und ist ein Weltruf genießender Kurort. Das heilende Wasser erneuert sich innerhalb weniger Tage komplett und bietet ganzjährig Badetemperaturen. Die Wasseroberfläche ist charakteristisch mit roten Seerosen bedeckt, die zum Symbol der Stadt wurden. Die Hévízer Heilkur wird erfolgreich bei Erkrankungen des Bewegungsapparates und rheumatischen Leiden eingesetzt. Die elegante Stadt besticht durch gepflegte Parks, Promenaden und erstklassige Wellness-Hotels.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Der Hévízer See ist der größte natürliche Thermalsee weltweit.", "Das Wasser des Sees kühlt auch im tiefsten Winter nicht unter 24 Grad ab.", "Der heilende Schlamm vom Seeboden wird für medizinische Zwecke genutzt.", "Die indischen roten Seerosen wurden Ende des 19. Jahrhunderts hier angesiedelt."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "zalakaros",
@@ -3854,6 +6005,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Beliebte Kurstadt im Südwesten Ungarns mit einem modernen Erlebnisbad.", "hu": "Népszerű fürdőváros Délnyugat-Magyarországon, modern élményfürdővel.", "ro": "Oraș balnear popular în sud-vestul Ungariei, cu o baie de aventură modernă.", "en": "Popular spa town in southwestern Hungary with a modern adventure bath."},
     facts: {"de": ["Das Thermalwasser wurde 1962 entdeckt.", "Eines der meistbesuchten Bäder Ungarns."], "hu": ["A termálvizet 1962-ben fedezték fel.", "Magyarország egyik leglátogatottabb fürdője."], "ro": ["Apa termală a fost descoperită în 1962.", "Una dintre cele mai vizitate băi din Ungaria."], "en": ["The thermal water was discovered in 1962.", "One of the most visited baths in Hungary."]},
     image: "/poi-images/zalakaros.webp",
+  
+    descriptionAdvanced: {
+      "de": "Zalakaros ist einer der jüngsten und dynamischsten Badekurorte Ungarns im Südwesten des Landes. Die Entdeckung des fast 100 Grad heißen Thermalwassers im Jahr 1962 führte zur Gründung eines modernen Badezentrums. Das Wasser ist reich an Jod, Brom und Schwefel und besonders wirksam bei chronischen Beschwerden. Die Stadt ist als 'Gartenstadt' bekannt, geprägt von weiten Grünflächen und farbenfrohen Blumenbeeten. Die Nähe zum Naturschutzgebiet Klein-Balaton macht den Ort auch für Naturfreunde attraktiv.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Zalakaros besitzt eine der heißesten Thermalwasserquellen in ganz Ungarn.", "Die Stadt wurde mehrfach als 'blühendste Stadt Ungarns' ausgezeichnet.", "Das Thermalbad verfügt über ein modernes Erlebnisreich für Familien und Kinder.", "Der Ort ist ein idealer Ausgangspunkt für Ausflüge zum Naturschutzgebiet Klein-Balaton."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
     {
     id: "balaton-to",
@@ -3864,7 +6028,20 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/balaton-to.webp",
     description: {"de": "Der Balaton ist der größte See Mitteleuropas und das bedeutendste Urlaubsziel für Sommerurlauber in Ungarn.", "hu": "A Balaton Közép-Európa legnagyobb tava és a magyarországi nyári üdülések legnépszerűbb célpontja.", "ro": "Lacul Balaton este cel mai mare lac din Europa Centrală și cea mai importantă destinație de vacanță din Ungaria.", "en": "Lake Balaton is the largest lake in Central Europe and the most important holiday destination in Hungary."},
     facts: {"de": ["Wird aufgrund seiner Größe oft als das 'Ungarische Meer' bezeichnet.", "Bekannt für sein flaches, im Sommer angenehm warmes Wasser."], "hu": ["Hatalmas mérete miatt gyakran a 'magyar tengernek' nevezik.", "Sekély, nyáron kellemesen felmelegedő vizéről ismert szerte a világon."], "ro": ["Datorită dimensiunii sale mari, este adesea numit 'Marea Ungariei'.", "Cunoscut pentru apa sa puțin adâncă și plăcut de caldă în timpul verii."], "en": ["Often referred to as the 'Hungarian Sea' due to its large size.", "Known for its shallow water that warms up pleasantly in the summer."]},
+    
+    descriptionAdvanced: {
+      de: "Der Balaton, oft als das 'Ungarische Meer' bezeichnet, ist der größte Binnensee Mitteleuropas und liegt im Westen Ungarns. Er erstreckt sich über eine Fläche von rund 592 Quadratkilometern und hat eine Länge von 77 Kilometern. Trotz seiner Größe ist der See außergewöhnlich flach, mit einer durchschnittlichen Tiefe von nur 3,3 Metern, was zu einer schnellen Erwärmung des Wassers im Sommer führt. Die Entstehung des Sees geht auf tektonische Absenkungen vor etwa 15.000 Jahren zurück. Die Nordküste ist geprägt von den vulkanischen Zeugenbergen des Bakony-Gebirges und der historischen Halbinsel Tihany, während die Südküste für ihre flachen Sandstrände bekannt ist. Ökonomisch ist der Balaton das wichtigste Tourismuszentrum des Landes und zudem ein bedeutendes Weinbaugebiet mit jahrhundertealter Tradition. Ökologisch ist der See Teil des Nationalparks Balaton-Oberland und dient als wichtiger Lebensraum für zahlreiche geschützte Vogelarten und endemische Fische wie den Zander.",
+      hu: "A Balaton, amelyet gyakran a 'magyar tengernek' is neveznek, Közép-Európa legnagyobb édesvizű tava, amely Magyarország nyugati részén fekszik. Területe mintegy 592 négyzetkilométer, hossza pedig 77 kilométer. Mérete ellenére a tó rendkívül sekély, átlagos mélysége mindössze 3,3 méter, ami lehetővé teszi a víz gyors felmelegedését a nyári hónapokban. A tó kialakulása tektonikai süllyedésekre vezethető vissza, amelyek körülbelül 15 000 évvel ezelőtt történtek. Az északi partot a Bakony vulkanikus tanúhegyei és a történelmi Tihanyi-félsziget határozza meg, míg a déli part sekély homokos strandjairól ismert. Gazdaságilag a Balaton az ország legfontosabb turisztikai központja, emellett több évszázados hagyományokkal rendelkező borvidék is. Ökológiailag a tó a Balaton-felvidéki Nemzeti Park része, és fontos élőhelyet biztosít számos védett madárfajnak és endemikus halfajnak, például a fogasnak.",
+      ro: "Lacul Balaton, supranumit adesea „Marea Ungariei”, este cel mai mare lac cu apă dulce din Europa Centrală, situat în vestul Ungariei. Se întinde pe o suprafață de aproximativ 592 de kilometri pătrați și are o lungime de 77 de kilometri. În ciuda dimensiunilor sale, lacul este extrem de puțin adânc, având o profunzime medie de doar 3,3 metri, ceea ce permite încălzirea rapidă a apei în timpul verii. Formarea lacului se datorează unor scufundări tectonice care au avut loc acum aproximativ 15.000 de ani. Malul nordic este caracterizat prin dealurile vulcanice ale Munților Bakony și peninsula istorică Tihany, în timp ce malul sudic este renumit pentru plajele sale nisipoase cu apă mică. Din punct de vedere economic, Balaton este cel mai important centru turistic al țării și o regiune viticolă cu o tradiție de secole. Ecologic, lacul face parte din Parcul Național Balaton-Felvidék, fiind un habitat esențial pentru numeroase specii de păsări protejate și pești endemici.",
+      en: "Lake Balaton, often referred to as the 'Hungarian Sea,' is the largest freshwater lake in Central Europe, located in western Hungary. It covers a surface area of approximately 592 square kilometers and stretches 77 kilometers in length. Despite its vast surface, the lake is remarkably shallow, with an average depth of only 3.3 meters, which allows the water to warm up quickly during the summer months. The lake's formation dates back about 15,000 years to tectonic shifts and subsidences in the region. The northern shore is defined by the volcanic hills of the Bakony Mountains and the historic Tihany Peninsula, while the southern shore is famous for its long, shallow sandy beaches. Economically, Balaton is Hungary's primary tourism hub and a prestigious wine-producing region with centuries of viticultural history. Ecologically, it is part of the Balaton Uplands National Park, providing a vital habitat for numerous protected bird species and local fish like the pike-perch.",
     },
+    factsAdvanced: {
+      de: ["Größter Binnensee Mitteleuropas mit 592 km² Fläche", "Die durchschnittliche Wassertiefe beträgt nur 3,3 Meter", "Längste Ausdehnung des Sees beträgt 77 Kilometer", "Entstand durch tektonische Absenkungen vor 15.000 Jahren", "Halbinsel Tihany teilt den See an seiner schmalsten Stelle", "Wassertemperatur erreicht im Sommer bis zu 28 Grad Celsius"],
+      hu: ["Közép-Európa legnagyobb tava 592 km²-es területtel", "Az átlagos vízmélység mindössze 3,3 méter", "A tó leghosszabb kiterjedése 77 kilométer", "Mintegy 15 000 évvel ezelőtt alakult ki süllyedéssel", "A Tihanyi-félsziget a legkeskenyebb részen osztja ketté", "A víz hőmérséklete nyáron elérheti a 28 Celsius-fokot"],
+      ro: ["Cel mai mare lac din Europa Centrală, cu 592 km²", "Adâncimea medie a apei este de doar 3,3 metri", "Lungimea maximă a lacului este de 77 de kilometri", "Format prin scufundări tectonice acum 15.000 de ani", "Peninsula Tihany divide lacul în cel mai îngust punct", "Temperatura apei atinge vara până la 28 de grade Celsius"],
+      en: ["Largest lake in Central Europe with a 592 km² area", "The average water depth is only 3.3 meters", "The maximum length of the lake is 77 kilometers", "Formed by tectonic subsidence around 15,000 years ago", "Tihany Peninsula marks the narrowest point of the lake", "Water temperatures can reach up to 28°C in summer"],
+    },
+  },
     {
     id: "tisza-folyo",
     type: "river",
@@ -3874,7 +6051,20 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/tisza-folyo.webp",
     description: {"de": "Die Theiß ist der zweitlängste Fluss Ungarns und prägt maßgeblich die Landschaft der Großen Tiefebene.", "hu": "A Tisza Magyarország második leghosszabb folyója, amely meghatározza az Alföld tájegységének képét.", "ro": "Tisa este al doilea cel mai lung râu din Ungaria și modelează peisajul Marii Câmpii Maghiare.", "en": "The Tisza is the second longest river in Hungary and significantly shapes the landscape of the Great Plain."},
     facts: {"de": ["Berühmt für die 'Theißblüte', das spektakuläre Massenschlüpfen von Eintagsfliegen.", "Ein wichtiges Gebiet für den Wassertourismus und den Fischfang im Land."], "hu": ["Híres a tiszavirágzásról, a kérészek látványos tömeges rajzásáról.", "Az ország egyik legfontosabb területe a vízitúrázás és a horgászat számára."], "ro": ["Faimos pentru 'înflorirea Tisei', roirea spectaculoasă a efemeridelor.", "O zonă importantă pentru turismul nautic și pescuitul din țară."], "en": ["Famous for the 'Tisza blooming', a spectacular mass swarming of mayflies.", "An important area for water tourism and fishing in the country."]},
+    
+    descriptionAdvanced: {
+      de: "Die Theiß (ungarisch Tisza) ist der zweitgrößte Fluss Ungarns und einer der bedeutendsten Nebenflüsse der Donau in Mitteleuropa. Sie entspringt in den Waldkarpaten der Ukraine und fließt über eine Länge von etwa 966 Kilometern durch Rumänien, die Slowakei, Ungarn und Serbien. Historisch war die Theiß für ihre extremen Hochwasser und den gewundenen Verlauf bekannt, bis im 19. Jahrhundert unter der Leitung von István Széchenyi und Pál Vásárhelyi umfangreiche Flussregulierungen durchgeführt wurden. Diese Maßnahmen verkürzten den Fluss erheblich und schufen fruchtbares Ackerland, veränderten jedoch auch das ökologische Gleichgewicht. Einzigartig ist das Naturphänomen der 'Theißblüte', bei dem Millionen von Eintagsfliegen (Palingenia longicauda) im Juni zur Paarung schlüpfen. Die Theiß spielt eine zentrale Rolle für die Landwirtschaft, den Fischfang und den aufstrebenden Ökotourismus, insbesondere rund um den Theiß-See (Tisza-tó), ein künstlich angelegtes Reservoir, das heute ein wichtiges Vogelschutzgebiet ist.",
+      hu: "A Tisza Magyarország második legnagyobb folyója és a Duna egyik legfontosabb mellékfolyója Közép-Európában. Forrása az ukrajnai Máramarosi-havasokban található, és mintegy 966 kilométeren keresztül folyik át Ukrajna, Románia, Szlovákia, Magyarország és Szerbia területén. Történelmileg a Tisza rendkívüli áradásairól és kanyargós folyásáról volt ismert, mígnem a 19. században Széchenyi István és Vásárhelyi Pál vezetésével átfogó folyószabályozási munkálatokat végeztek. Ezek az intézkedések jelentősen lerövidítették a folyót és termékeny mezőgazdasági területeket hoztak létre, de megváltoztatták az ökológiai egyensúlyt is. Egyedülálló természeti jelenség a 'tiszavirágzás', amikor júniusban kérészek (Palingenia longicauda) milliói rajzanak ki a párosodáshoz. A Tisza központi szerepet játszik a mezőgazdaságban, a halászatban és az ökoturizmusban, különösen a Tisza-tó környékén, amely egy mesterséges víztározó és fontos madárvédelmi terület.",
+      ro: "Tisa este al doilea râu ca mărime din Ungaria și unul dintre cei mai importanți afluenți ai Dunării în Europa Centrală. Izvorăște din Carpații Păduroși din Ucraina și curge pe o lungime de aproximativ 966 de kilometri prin Ucraina, România, Slovacia, Ungaria și Serbia. Din punct de vedere istoric, Tisa era cunoscută pentru inundațiile sale extreme și cursul sinuos, până când în secolul al XIX-lea s-au efectuat lucrări extinse de regularizare sub conducerea lui István Széchenyi și Pál Vásárhelyi. Aceste măsuri au scurtat semnificativ cursul râului și au creat terenuri agricole fertile, dar au modificat echilibrul ecologic. Un fenomen natural unic este „înflorirea Tisei”, când milioane de rusalii (Palingenia longicauda) ies la suprafață în iunie pentru împerechere. Tisa joacă un rol central în agricultură, pescuit și ecoturism, în special în jurul lacului Tisa (Tisza-tó), un rezervor artificial care este astăzi o importantă rezervație avifaunistică.",
+      en: "The Tisza is the second-largest river in Hungary and one of the primary tributaries of the Danube in Central Europe. It originates in the Carpathian Mountains of Ukraine and flows approximately 966 kilometers through Ukraine, Romania, Slovakia, Hungary, and Serbia. Historically, the river was famous for its winding path and catastrophic floods until major regulation works were undertaken in the 19th century by István Széchenyi and Pál Vásárhelyi. These engineering efforts significantly shortened the river's length and reclaimed fertile land for agriculture, though they also altered the local ecosystem. A unique biological event known as the 'Tisza Blooming' occurs every June, when millions of mayflies (Palingenia longicauda) emerge to mate. Today, the river is vital for irrigation and fishing, and it supports a growing ecotourism industry, especially at Lake Tisza, a large man-made reservoir that has become an essential sanctuary for protected bird species.",
     },
+    factsAdvanced: {
+      de: ["Gesamtlänge des Flusses beträgt etwa 966 Kilometer", "Einzugsgebiet umfasst rund 157.000 Quadratkilometer", "Große Flussregulierung fand im 19. Jahrhundert statt", "Naturphänomen 'Theißblüte' ereignet sich jedes Jahr im Juni", "Fließt durch insgesamt fünf verschiedene europäische Länder", "Mündet in Serbien als linker Nebenfluss in die Donau"],
+      hu: ["A folyó teljes hossza körülbelül 966 kilométer", "Vízgyűjtő területe mintegy 157 000 négyzetkilométer", "A nagy folyószabályozás a 19. században zajlott", "A tiszavirágzás egyedülálló jelensége minden júniusban látható", "Összesen öt különböző európai országon folyik keresztül", "Szerbiában a Duna bal oldali mellékfolyójaként torkollik be"],
+      ro: ["Lungimea totală a râului este de aproximativ 966 km", "Bazinul hidrografic acoperă circa 157.000 km²", "Regularizarea majoră a cursului a avut loc în secolul XIX", "Fenomenul „înflorirea Tisei” are loc anual în luna iunie", "Râul traversează cinci țări europene diferite", "Se varsă în Dunăre pe teritoriul Serbiei"],
+      en: ["Total length of the river is approximately 966 kilometers", "The drainage basin covers about 157,000 square kilometers", "Major river regulation took place in the 19th century", "The 'Tisza Blooming' phenomenon occurs every June", "The river flows through five different European countries", "It joins the Danube as a left-bank tributary in Serbia"],
+    },
+  },
     {
     id: "duna-folyo",
     type: "river",
@@ -3884,7 +6074,20 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/duna-folyo.webp",
     description: {"de": "Die Donau ist die wichtigste Wasserstraße Ungarns und verbindet das Land mit dem Schwarzen Meer.", "hu": "A Duna Magyarország legfontosabb vízi útja, amely összeköti az országot a Fekete-tengerrel.", "ro": "Dunărea este cea mai importantă cale navigabilă a Ungariei, conectând țara cu Marea Neagră.", "en": "The Danube is the most important waterway in Hungary, connecting the country with the Black Sea."},
     facts: {"de": ["Fließt direkt durch das Herz der ungarischen Hauptstadt Budapest.", "Dient als natürliche Grenze zwischen mehreren europäischen Staaten."], "hu": ["Közvetlenül a magyar főváros, Budapest szívén folyik keresztül.", "Természetes határként szolgál több európai állam között."], "ro": ["Curge direct prin inima capitalei maghiare, Budapesta.", "Servește ca graniță naturală între mai multe state europene."], "en": ["Flows directly through the heart of the Hungarian capital, Budapest.", "Serves as a natural border between several European states."]},
+    
+    descriptionAdvanced: {
+      de: "Die Donau ist mit einer Länge von etwa 2.850 Kilometern der zweitlängste Fluss Europas und der einzige bedeutende Fluss des Kontinents, der von Westen nach Osten fließt. Sie entspringt im Schwarzwald in Deutschland und mündet im weitreichenden Donaudelta in Rumänien und der Ukraine ins Schwarze Meer. Auf ihrem Weg durchquert oder berührt sie zehn Länder und verbindet vier europäische Hauptstädte: Wien, Bratislava, Budapest und Belgrad. Historisch diente die Donau als wichtige Handelsroute und Grenzlinie des Römischen Reiches (Limes). Ökonomisch ist sie für die Binnenschifffahrt, die Energiegewinnung durch Wasserkraft und die Trinkwasserversorgung von Millionen Menschen von zentraler Bedeutung. Das Donaudelta ist ein UNESCO-Weltnaturerbe und beherbergt eines der artenreichsten Ökosysteme der Welt. Trotz ökologischer Herausforderungen bleibt die Donau eine lebenswichtige Ader für den kulturellen und wirtschaftlichen Austausch in Europa.",
+      hu: "A Duna mintegy 2850 kilométeres hosszával Európa második leghosszabb folyója, és a kontinens egyetlen jelentős folyója, amely nyugatról keletre folyik. A németországi Fekete-erdőben ered, és a hatalmas Duna-deltán keresztül Románia és Ukrajna határán torkollik a Fekete-tengerbe. Útja során tíz országot érint vagy szel át, és négy európai fővárost köt össze: Bécset, Pozsonyt, Budapestet és Belgrádot. Történelmileg a Duna fontos kereskedelmi útvonalként és a Római Birodalom határaként (Limes) szolgált. Gazdaságilag központi jelentőségű a belvízi hajózás, a vízenergia-termelés és milliók ivóvízellátása szempontjából. A Duna-delta az UNESCO Világörökség része, és a világ egyik fajgazdagabb ökoszisztémájának ad otthont. Az ökológiai kihívások ellenére a Duna továbbra is Európa kulturális és gazdasági cseréjének létfontosságú ütőere.",
+      ro: "Dunărea este al doilea râu ca lungime din Europa, având aproximativ 2.850 de kilometri, și singurul fluviu major de pe continent care curge de la vest la est. Izvorăște din Munții Pădurea Neagră din Germania și se varsă în Marea Neagră prin vasta Deltă a Dunării, situată în România și Ucraina. În parcursul său, traversează sau mărginește zece țări și conectează patru capitale europene: Viena, Bratislava, Budapesta și Belgrad. Istoric, Dunărea a servit ca rută comercială esențială și ca frontieră a Imperiului Roman (Limes). Din punct de vedere economic, este de o importanță centrală pentru navigația interioară, producția de energie hidroelectrică și alimentarea cu apă potabilă pentru milioane de oameni. Delta Dunării este sit al Patrimoniului Mondial UNESCO și adăpostește unul dintre cele mai bogate ecosisteme din lume în ceea ce privește biodiversitatea. În ciuda provocărilor ecologice, Dunărea rămâne o arteră vitală pentru schimburile culturale și economice din Europa.",
+      en: "The Danube is the second-longest river in Europe, stretching approximately 2,850 kilometers, and is unique for being the only major European river to flow from west to east. It originates in the Black Forest of Germany and empties into the Black Sea through the vast Danube Delta in Romania and Ukraine. Along its course, the river flows through or borders ten countries and connects four national capitals: Vienna, Bratislava, Budapest, and Belgrade. Historically, the Danube served as a vital trade route and a natural northern frontier of the Roman Empire, known as the Limes. Today, it remains economically crucial for inland shipping, hydroelectric power generation, and providing drinking water to millions of people. The Danube Delta is a UNESCO World Heritage site and represents one of the most biodiverse ecosystems in the world. Despite environmental challenges, the Danube continues to be a central artery for European cultural and economic integration.",
     },
+    factsAdvanced: {
+      de: ["Zweitlängster Fluss Europas mit etwa 2.850 Kilometern Länge", "Durchfließt oder berührt insgesamt zehn europäische Staaten", "Verbindet die vier Hauptstädte Wien, Bratislava, Budapest und Belgrad", "Mündet über das Donaudelta (UNESCO-Welterbe) ins Schwarze Meer", "Einzugsgebiet umfasst etwa 801.463 Quadratkilometer", "Dient seit der Römerzeit als strategische Handelsroute"],
+      hu: ["Európa második leghosszabb folyója 2850 km-es hosszal", "Összesen tíz európai államot érint vagy szel át", "Négy fővárost köt össze: Bécset, Pozsonyt, Budapestet és Belgrádot", "A Duna-deltán keresztül torkollik a Fekete-tengerbe", "Vízgyűjtő területe körülbelül 801 463 négyzetkilométer", "A római kor óta stratégiai fontosságú kereskedelmi útvonal"],
+      ro: ["Al doilea fluviu ca lungime din Europa, cu circa 2.850 km", "Traversează sau mărginește zece state europene diferite", "Conectează capitalele Viena, Bratislava, Budapesta și Belgrad", "Se varsă în Marea Neagră prin Delta Dunării (sit UNESCO)", "Bazinul hidrografic acoperă circa 801.463 km²", "A servit drept graniță a Imperiului Roman (Limes Danubian)"],
+      en: ["Second-longest river in Europe at 2,850 kilometers", "The river passes through or borders ten European countries", "Connects four capital cities: Vienna, Bratislava, Budapest, and Belgrade", "Empties into the Black Sea via the UNESCO-listed Danube Delta", "The drainage basin spans approximately 801,463 km²", "Has functioned as a key trade route since Roman times"],
+    },
+  },
     {
     id: "kekes-teto",
     type: "mountain",
@@ -3894,7 +6097,26 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/kekes-teto.webp",
     description: {"de": "Mit 1014 Metern ist der Kékes der höchste Gipfel Ungarns und ein beliebtes Ziel für Wanderer.", "hu": "A 1014 méter magas Kékes-tető Magyarország legmagasabb pontja és közkedvelt túracélpont.", "ro": "Cu o înălțime de 1014 metri, Kékes este cel mai înalt vârf din Ungaria și o destinație populară.", "en": "At 1014 meters, Kékes is the highest peak in Hungary and a popular destination for hikers."},
     facts: {"de": ["Der markante Fernsehturm auf dem Gipfel dient auch als Aussichtsplattform.", "Ein beliebtes Skigebiet im Winter mit den längsten Pisten des Landes."], "hu": ["A csúcson álló tévétorony kilátóként is funkcionál a látogatók számára.", "Télen népszerű síterep, itt található az ország leghosszabb sípályája."], "ro": ["Turnul de televiziune de pe vârf servește și ca platformă de observație.", "O stațiune de schi populară iarna, cu cele mai lungi pârtii din țară."], "en": ["The prominent TV tower on the summit also serves as an observation deck.", "A popular ski resort in winter with the longest slopes in the country."]},
+    
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "A Kékes-tető Magyarország legmagasabb pontja, a Mátra-hegység és az ország szimbóluma, amely 1014 méterrel magasodik a tengerszint fölé. A csúcs tetején álló tévétorony kilátója és az ott található jellegzetes nemzeti színű kő az utazók kötelező megállója. A Kékes nemcsak földrajzi rekord, hanem népszerű gyógyhely is: tiszta, pormentes levegője és különleges klímája kiválóan alkalmas légzőszervi megbetegedések kezelésére. Télen a Kékes az ország legfontosabb síközpontjává válik, ahol Magyarország leghosszabb lesiklópályája várja a téli sportok kedvelőit. Az év többi szakaszában a sűrű bükkerdők és a kiépített túraútvonalak vonzzák a természetjárókat, akik a csúcsról lenyűgöző panorámát élvezhetnek az Alföldre és a Tátra vonulataira.",
+      "ro": "",
+      "en": ""
     },
+    factsAdvanced: {
+      "de": [],
+      "hu": [
+        "A Kékes-tető magassága pontosan 1014 méter, amit a csúcson egy kő jelöl.",
+        "A tévétorony 176 méter magas, kilátója pedig 45 méter magasságban található.",
+        "Itt található Magyarország leghosszabb sípályája, amely 1,8 kilométer hosszú.",
+        "A Kékesen mérték az országban eddigi legvastagabb hótakarót (151 cm) 1987-ben.",
+        "A csúcs környékén számos szanatórium és gyógyszálló működik a klíma gyógyhatása miatt."
+      ],
+      "ro": [],
+      "en": []
+    },
+  },
     {
     id: "baradla-barlang-poi",
     type: "landmark",
@@ -3992,7 +6214,26 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/szalajka-volgy.webp",
     description: {"de": "Das Szalajka-Tal ist ein idyllisches Ausflugsziel im Bükk-Gebirge, berühmt für seine Wasserfälle.", "hu": "A Szalajka-völgy idilli kirándulóhely a Bükkben, amely vízeséseiről és forrásairól híres.", "ro": "Valea Szalajka este o destinație idilică în munții Bükk, faimoasă pentru cascadele sale.", "en": "Szalajka Valley is an idyllic excursion spot in the Bükk Mountains, famous for its waterfalls."},
     facts: {"de": ["Der stufenförmige Schleierwasserfall ist eines der bekanntesten Naturwunder Ungarns.", "Eine Schmalspurbahn bringt Besucher tief in das malerische Tal hinein."], "hu": ["A lépcsőzetes Fátyol-vízesés Magyarország egyik legismertebb természeti csodája.", "Erdei kisvasút szállítja a látogatókat mélyen a festői völgy belsejébe."], "ro": ["Cascada Fátyol în trepte este una dintre cele mai cunoscute minuni naturale.", "O cale ferată îngustă transportă vizitatorii adânc în valea pitorească."], "en": ["The terraced Veil Waterfall is one of Hungary's best-known natural wonders.", "A narrow-gauge forest railway takes visitors deep into the scenic valley."]},
+    
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "A Szalajka-völgy a Bükk-hegység egyik legszebb és leglátogatottabb természeti látványossága Szilvásvárad mellett. A völgy híres kristálytiszta patakjairól, pisztrángos tavairól és a különleges Fátyol-vízesésről, ahol a víz 17 méter magas mésztufa-lépcsőkön zúdul le. A látogatók gyalogosan vagy a népszerű erdei kisvasúttal fedezhetik fel a völgy kincseit, köztük a Szabadtéri Erdei Múzeumot és az Istállós-kői-barlangot, ahol ősemberi leleteket találtak. A völgy gasztronómiai különlegessége a frissen sült vagy füstölt pisztráng, amelyet helyben tenyésztenek. A Szalajka-völgy a természet, a történelem és a rekreáció tökéletes találkozóhelye, amely minden korosztály számára kínál felfedeznivalót.",
+      "ro": "",
+      "en": ""
     },
+    factsAdvanced: {
+      "de": [],
+      "hu": [
+        "A Fátyol-vízesés mésztufa gátjait a patak vizéből kiváló mész alakította ki évezredek alatt.",
+        "A völgy neve a 'szalajka' (szalmiákszesz) égetéséből ered, ami egykor fontos ipari tevékenység volt itt.",
+        "Szilvásvárad a világhírű lipicai ménes otthona, lovasstadionja nemzetközi versenyek színhelye.",
+        "Az Istállós-kői-barlang a Bükk egyik legmagasabb pontján fekvő ősemberbarlang.",
+        "A völgyben közlekedő kisvasút Magyarország egyik legforgalmasabb erdei vasútvonala."
+      ],
+      "ro": [],
+      "en": []
+    },
+  },
     {
     id: "borzsony-hegyseg",
     type: "mountain",
@@ -4046,7 +6287,26 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/gemenci-erdo.webp",
     description: {"de": "Der Gemencer Wald ist das größte zusammenhängende Auwaldgebiet Mitteleuropas entlang der Donau.", "hu": "A Gemenci erdő Közép-Európa legnagyobb összefüggő ártéri erdőterülete a Duna mentén.", "ro": "Pădurea Gemenc este cea mai mare zonă de luncă continuă din Europa Centrală, de-a lungul Dunării.", "en": "The Gemenc Forest is the largest continuous floodplain forest in Central Europe along the Danube."},
     facts: {"de": ["Berühmt für seinen Bestand an prachtvollen Gímszarvas-Hirschen und Wildschweinen.", "Die Region ist ein wichtiges Brutgebiet für geschützte Schwarzstörche."], "hu": ["Híres kapitális gímszarvas-állományáról és a területén élő vaddisznókról.", "A vidék a védett fekete gólyák egyik legfontosabb fészkelőhelye az országban."], "ro": ["Faimoasă pentru efectivul său de cerbi comuni și porci mistreți.", "Regiunea este un loc important de cuibărit pentru barza neagră protejată."], "en": ["Famous for its population of magnificent red deer and wild boars.", "The region is an important nesting ground for protected black storks."]},
+    
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "A Gemenci erdő Európa legnagyobb összefüggő ártéri erdeje, a Duna-Dráva Nemzeti Park ékköve Szekszárd és Baja között. Ez a vadregényes táj a folyó állandó áradásai és apadásai révén jött létre, különleges vizes élőhelyet biztosítva számtalan állat- és növényfajnak. Gemenc világszerte híres gímszarvas-állományáról, amelynek trófeái a világ legjobbjai közé tartoznak, valamint itt található a világ legsűrűbb fekete gólya populációja is. Az erdőt legegyszerűbben a Gemenci Állami Erdei Vasúttal vagy vízi úton, kenuval lehet felfedezni. A sűrű nádasok, a holtágak nyugalma és az óriási fűzfák árnyéka a természet érintetlenségének érzését nyújtja minden látogatónak.",
+      "ro": "",
+      "en": ""
     },
+    factsAdvanced: {
+      "de": [],
+      "hu": [
+        "A Gemenci erdő területe közel 20 ezer hektár, és az ország legfontosabb vadrezervátuma.",
+        "Itt él a legtöbb fekete gólya Magyarországon, évente mintegy 40-50 pár fészkel az ártéren.",
+        "A Gemenci kisvasút 30 kilométer hosszan kanyarog az ártéri erdő sűrűjében.",
+        "Az erdőben található a 'Gemenc királya' nevű fa, amely egy hatalmas, több száz éves fekete nyár.",
+        "Gemenc volt a helyszíne az 1971-es Vadászati Világkiállítás számos bemutatójának."
+      ],
+      "ro": [],
+      "en": []
+    },
+  },
     {
     id: "egri-var-poi",
     type: "historical",
@@ -4298,7 +6558,20 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/nemzeti-muzeum.webp",
     description: {"de": "Das Nationalmuseum bewahrt die wichtigsten Schätze der ungarischen Geschichte und Kultur auf.", "hu": "A Magyar Nemzeti Múzeum a magyar történelem és kultúra legfontosabb emlékeit őrzi.", "ro": "Muzeul Național Maghiar păstrează cele mai importante comori ale istoriei și culturii maghiare.", "en": "The National Museum preserves the most important treasures of Hungarian history and culture."},
     facts: {"de": ["Das Gebäude spielte eine zentrale Rolle beim Ausbruch der Revolution am 15. März 1848.", "Beherbergt den wertvollen ungarischen Krönungsmantel aus dem 11. Jahrhundert."], "hu": ["Az épület központi szerepet játszott az 1848. március 15-i forradalom kirobbanásakor.", "Itt őrzik az értékes, 11. századból származó magyar koronázási palástot."], "ro": ["Clădirea a jucat un rol central în izbucnirea revoluției din 15 martie 1848.", "Găzduiește prețioasa mantie de încoronare maghiară din secolul al XI-lea."], "en": ["The building played a central role in the outbreak of the revolution on March 15, 1848.", "Houses the precious 11th-century Hungarian coronation mantle."]},
+    
+    descriptionAdvanced: {
+      "de": "Das Ungarische Nationalmuseum in Budapest ist das bedeutendste Museum zur Geschichte des Landes und ein Symbol der ungarischen nationalen Identität. Das monumentale klassizistische Gebäude wurde zwischen 1837 und 1847 errichtet und spielte eine zentrale Rolle in der ungarischen Revolution von 1848, als hier die ersten Forderungen der Nation verlesen wurden. Die Ausstellungen des Museums führen Besucher durch die gesamte Geschichte Ungarns, von der Urzeit über die Landnahme und das goldene Mittelalter bis hin zur Neuzeit. Besonders beeindruckend sind der Krönungsmantel der ungarischen Könige und die reiche Sammlung archäologischer Schätze aus dem Karpatenbecken. Das Museum ist nicht nur ein Ort der Bewahrung, sondern auch ein Ort des Gedenkens und der nationalen Besinnung. Der umliegende Museumsgarten ist ein beliebter Treffpunkt im Herzen der Stadt.",
+      "hu": "",
+      "ro": "",
+      "en": ""
     },
+    factsAdvanced: {
+      "de": ["Das Nationalmuseum ist das älteste öffentliche Museum Ungarns, gegründet 1802.", "Das Gebäude gilt als eines der schönsten Beispiele der klassizistischen Architektur in Mitteleuropa.", "Auf den Treppen des Museums begann am 15. März 1848 die ungarische Revolution.", "Das Museum beherbergt den Krönungsmantel des Heiligen Stephan aus dem Jahr 1031."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
+  },
     {
     id: "aquaworld-budapest",
     type: "landmark",
@@ -4308,7 +6581,20 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/aquaworld-budapest.webp",
     description: {"de": "Aquaworld Budapest ist einer der größten überdachten Wasser-Themenparks in ganz Europa.", "hu": "Az Aquaworld Budapest Európa egyik legnagyobb fedett vízi élményparkja és szabadidőközpontja.", "ro": "Aquaworld Budapesta este unul dintre cele mai mari parcuri tematice acvatice acoperite din Europa.", "en": "Aquaworld Budapest is one of the largest indoor water theme parks in all of Europe."},
     facts: {"de": ["Der beeindruckende Kuppelbau erinnert architektonisch an den Tempel von Angkor Wat.", "Bietet 17 verschiedene Rutschen und zahlreiche In- und Outdoorbecken für Familien."], "hu": ["A monumentális kupolás épület építészetileg az angkori templomvilágot idézi meg.", "17 különböző csúszda és számos kinti-benti medence várja a családokat."], "ro": ["Clădirea impresionantă cu cupolă amintește de templul Angkor Wat.", "Oferă 17 tobogane diferite și numeroase bazine interioare și exterioare pentru familii."], "en": ["The impressive dome structure architecturally evokes the Angkor Wat temple complex.", "Offers 17 different slides and numerous indoor and outdoor pools for families."]},
+    
+    descriptionAdvanced: {
+      "de": "Aquaworld Budapest ist einer der größten überdachten Wasserthemenparks Europas und bietet ein ganzjähriges Tropenerlebnis im Norden der ungarischen Hauptstadt. Der Park ist architektonisch beeindruckend durch seine riesige Kuppel mit einem Durchmesser von 72 Metern, die den zentralen Bereich überspannt. Das Herzstück des Komplexes ist eine detailgetreue Nachbildung des kambodschanischen Angkor Wat Tempels, der von Hängebrücken, Palmen und zahlreichen Pools umgeben ist. Mit 17 Innen- und Außenbecken sowie 11 spektakulären Rutschen bietet Aquaworld Unterhaltung für alle Altersklassen und Adrenalinjunkies. Neben dem Wasserspaß verfügt der Komplex über eine großzügige Saunawelt und ein Wellness-Zentrum für Entspannungssuchende. Es ist das ideale Ausflugsziel für Familien, die unabhängig vom Wetter einen Tag voller Abenteuer und Erholung erleben möchten.",
+      "hu": "",
+      "ro": "",
+      "en": ""
     },
+    factsAdvanced: {
+      "de": ["Aquaworld Budapest besitzt eine der größten freitragenden Kuppeln in Europa.", "Das Design des Innenraums wurde durch die Tempelanlage von Angkor Wat inspiriert.", "Der Park bietet insgesamt über 4000 Quadratmeter Wasserfläche für Sport und Spiel.", "Es gibt spezielle Surfbecken, in denen Besucher das Wellenreiten üben können."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
+  },
     {
     id: "fovarosi-allatkert",
     type: "landmark",
@@ -4318,7 +6604,20 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/fovarosi-allatkert.webp",
     description: {"de": "Der Zoo im Herzen von Budapest ist einer der ältesten und artenreichsten Tiergärten der Welt.", "hu": "A Budapest szívében fekvő állatkert a világ egyik legrégebbi és legszebb állatkertje.", "ro": "Grădina zoologică din inima Budapestei este una dintre cele mai vechi din lume.", "en": "The zoo in the heart of Budapest is one of the oldest and most diverse zoos in the world."},
     facts: {"de": ["Bekannt für seine architektonisch wertvollen Tierhäuser im Jugendstil und orientalischen Design.", "Zählt mit über einer Million Besuchern jährlich zu den beliebtesten Zielen des Landes."], "hu": ["Híres szecessziós és orientális stílusú, műemléki védettségű állatházairól.", "Évente több mint egymillió látogatóval az ország egyik legnépszerűbb célpontja."], "ro": ["Cunoscută pentru casele de animale valoroase în stil Art Nouveau și design oriental.", "Cu peste un milion de vizitatori anual, este printre cele mai populare destinații din țară."], "en": ["Known for its architecturally significant animal houses in Art Nouveau and Oriental designs.", "With over a million visitors annually, it is one of the most popular destinations in the country."]},
+    
+    descriptionAdvanced: {
+      "de": "Der Hauptstädtische Tier- und Pflanzenpark von Budapest ist einer der ältesten und architektonisch schönsten Zoos der Welt. Er wurde bereits 1866 eröffnet und besticht durch seine einzigartigen historischen Gebäude im Jugendstil und orientalischer Architektur, wie das berühmte Elefantenhaus. Der Zoo beherbergt eine beeindruckende Vielfalt an Tieren aus allen Kontinenten sowie einen botanischen Garten mit seltenen Pflanzenarten. Besonders sehenswert ist das 'Holnemvolt Schloss', ein spezieller Bereich für Familien, der die Traditionen der ungarischen Jahrmärkte mit Tierbegegnungen verbindet. Das Ziel des Zoos ist nicht nur die Unterhaltung, sondern auch der Artenschutz und die Umweltbildung in einem historischen Ambiente. Ein Spaziergang durch den Tierpark im Stadtpark ist ein Muss für jeden Budapest-Besucher und bietet Erlebnisse für Groß und Klein.",
+      "hu": "",
+      "ro": "",
+      "en": ""
     },
+    factsAdvanced: {
+      "de": ["Der Budapester Zoo ist einer der ältesten wissenschaftlichen Tiergärten der Welt.", "Das Elefantenhaus ist ein Meisterwerk des ungarischen Jugendstils mit Zsolnay-Keramiken.", "Der Zoo beherbergt das größte Palmenhaus Mitteleuropas.", "Viele der historischen Tierhäuser stehen unter nationalem Denkmalschutz."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
+  },
     {
     id: "gellert-hegy-poi",
     type: "landmark",
@@ -4372,7 +6671,26 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/vajdahunyad-vara.webp",
     description: {"de": "Die Burg Vajdahunyad im Stadtwäldchen vereint die bedeutendsten Baustile der ungarischen Geschichte.", "hu": "A városligeti Vajdahunyad vára a magyar történelem legfontosabb építészeti stílusait ötvözi.", "ro": "Castelul Vajdahunyad din Parcul Orașului îmbină cele mai importante stiluri arhitecturale maghiare.", "en": "The Vajdahunyad Castle in the City Park combines the most significant architectural styles of Hungary."},
     facts: {"de": ["Wurde ursprünglich aus Holz für die Millenniumsfeier 1896 erbaut und später versteinert.", "Beherbergt heute das größte landwirtschaftliche Museum in ganz Mitteleuropa."], "hu": ["Eredetileg fából épült az 1896-os millenniumi ünnepségre, később építették fel tartós anyagból.", "Ma itt található Közép-Európa legnagyobb mezőgazdasági múzeuma."], "ro": ["Construit inițial din lemn pentru festivitățile mileniului din 1896 și ulterior din piatră.", "Găzduiește astăzi cel mai mare muzeu al agriculturii din Europa Centrală."], "en": ["Originally built from wood for the 1896 Millennial Exhibition and later rebuilt in stone.", "Today it houses the largest agricultural museum in Central Europe."]},
+    
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "Vajdahunyad vára a budapesti Városliget mesebeli építménye, amely az 1896-os millenniumi ünnepségekre épült azzal a céllal, hogy bemutassa a magyar építészet ezeréves fejlődését. Az Alpár Ignác által tervezett épületegyüttes különböző történelmi stílusokat ötvöz: látható rajta a román kori jáki templom kapuja, gótikus és reneszánsz palotaszárnyak, valamint barokk kupolák. Nevét a legismertebb részéről, az erdélyi Vajdahunyad várát mintázó homlokzatról kapta. A vár udvarán áll az Anonymous szobra, Budapest egyik legtitokzatosabb emlékműve. Az épületben ma a Magyar Mezőgazdasági Múzeum működik, a vár körüli tó pedig nyáron csónakázásra, télen pedig korcsolyázásra csábítja a Városliget látogatóit.",
+      "ro": "",
+      "en": ""
     },
+    factsAdvanced: {
+      "de": [],
+      "hu": [
+        "A vár eredetileg fából és kartonból készült az ünnepségekre, de annyira népszerű lett, hogy kőből újjáépítették.",
+        "Az épületegyüttesen 21 különböző magyarországi történelmi épület részlete ismerhető fel.",
+        "A várudvaron található Anonymous-szoborhoz az a legenda fűződik, hogy aki megérinti az író tollát, tehetséges lesz.",
+        "Vajdahunyad vára a világ egyik legnagyobb mezőgazdasági szakmúzeumának ad otthont.",
+        "A vár körüli Városligeti-tó télen Európa egyik legszebb szabadtéri műjégpályájává alakul."
+      ],
+      "ro": [],
+      "en": []
+    },
+  },
     {
     id: "matyas-templom-poi",
     type: "historical",
@@ -4381,7 +6699,26 @@ export const hungaryCities: POI[] = [
     name: {"de": "Matthiaskirche", "hu": "Mátyás-templom", "ro": "Biserica Mátyás", "en": "Matthias Church"},
     image: "/geo-images/hungary/matyas-templom.webp",
     description: {"de": "Die Matthiaskirche im Burgviertel ist eine der prachtvollsten und geschichtsträchtigsten Kirchen des Landes.", "hu": "A budai várnegyedben álló Mátyás-templom az ország egyik legszebb és leggazdagabb múltú temploma.", "ro": "Biserica Mátyás din cartierul cetății este una dintre cele mai splendide și istorice biserici din țară.", "en": "The Matthias Church in the Castle District is one of the most magnificent and historic churches in the country."},
-    facts: {"de": ["Diente über Jahrhunderte als Krönungskirche der ungarischen Könige.", "Das farbenfrohe Dach aus Zsolnay-Ziegeln ist ein weithin bekanntes Markenzeichen."], "hu": ["Évszázadokon keresztül a magyar királyok koronázási helyszíneként szolgált.", "A színes Zsolnay-cserepekből álló tetőzete a templom egyik legismertebb védjegye."], "ro": ["A servit timp de secole ca biserică de încoronare a regilor maghiari.", "Acoperișul colorat din țiglă Zsolnay este o emblemă cunoscută peste tot."], "en": ["Served as the coronation church for Hungarian kings for centuries.", "The colorful roof made of Zsolnay tiles is a widely recognized landmark."]}
+    facts: {"de": ["Diente über Jahrhunderte als Krönungskirche der ungarischen Könige.", "Das farbenfrohe Dach aus Zsolnay-Ziegeln ist ein weithin bekanntes Markenzeichen."], "hu": ["Évszázadokon keresztül a magyar királyok koronázási helyszíneként szolgált.", "A színes Zsolnay-cserepekből álló tetőzete a templom egyik legismertebb védjegye."], "ro": ["A servit timp de secole ca biserică de încoronare a regilor maghiari.", "Acoperișul colorat din țiglă Zsolnay este o emblemă cunoscută peste tot."], "en": ["Served as the coronation church for Hungarian kings for centuries.", "The colorful roof made of Zsolnay tiles is a widely recognized landmark."]},
+  
+    descriptionAdvanced: {
+      "de": "",
+      "hu": "A Mátyás-templom, hivatalos nevén a Budavári Nagyboldogasszony-templom, a Budai Várnegyed és Budapest egyik legfontosabb történelmi és vallási szimbóluma. A 13. században alapított templom az évszázadok során a magyar királyok koronázási helyszínévé és esküvőik színterévé vált, nevét pedig a népszerű Mátyás királyról kapta, aki jelentősen bővíttette az épületet. A török hódoltság alatt mecsetként használták, majd a 19. század végén Schulek Frigyes vezetésével nyerte el mai, lenyűgöző neogótikus formáját. A templom tetőzetét díszítő színes Zsolnay-cserepek és a belső terek gazdag festése egyedülálló látványt nyújt. Itt található a magyar királyi pár, III. Béla és Antiochiai Anna sírhelye is, s a templom ma is fontos egyházi és zenei események otthona.",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": [],
+      "hu": [
+        "Itt koronázták meg az utolsó két magyar királyt, Ferenc Józsefet és IV. Károlyt.",
+        "A templom déli tornya, a Mátyás-torony 78 méter magas, és tetején a hollós címer látható.",
+        "A tetőzetet borító színes mázas cserepek a pécsi Zsolnay-gyárból származnak.",
+        "A templom belső falfestéseit olyan híres művészek készítették, mint Lotz Károly és Székely Bertalan.",
+        "A templomban ma is működik egy egyháztörténeti gyűjtemény, ahol a koronázási jelvények másolatai is láthatók."
+      ],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "balaton-to-second",
@@ -4413,7 +6750,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Baradla-Höhle", "hu": "Baradla-barlang", "ro": "Peștera Baradla", "en": "Baradla Cave"},
     image: "/geo-images/hungary/baradla-barlang.webp",
     description: {"de": "Ein riesiges Tropfsteinhöhlensystem im Nationalpark Aggtelek.", "hu": "Hatalmas cseppkőbarlang-rendszer az Aggteleki Nemzeti Parkban.", "ro": "Un sistem uriaș de peșteri cu stalactite în Parcul Național Aggtelek.", "en": "A huge stalactite cave system in the Aggtelek National Park."},
-    facts: {"de": ["Teil des UNESCO-Welterbes.", "Berühmt für beeindruckende Gesteinsformationen."], "hu": ["Az UNESCO világörökség része.", "Lenyűgöző kőzetformációiról híres."], "ro": ["Parte a Patrimoniului Mondial UNESCO.", "Faimoasă pentru formațiunile sale stâncoase impresionante."], "en": ["Part of the UNESCO World Heritage.", "Famous for its impressive rock formations."]}
+    facts: {"de": ["Teil des UNESCO-Welterbes.", "Berühmt für beeindruckende Gesteinsformationen."], "hu": ["Az UNESCO világörökség része.", "Lenyűgöző kőzetformációiról híres."], "ro": ["Parte a Patrimoniului Mondial UNESCO.", "Faimoasă pentru formațiunile sale stâncoase impresionante."], "en": ["Part of the UNESCO World Heritage.", "Famous for its impressive rock formations."]},
+  
+    descriptionAdvanced: {
+      "de": "Die Baradla-Höhle bei Aggtelek ist das größte Tropfsteinhöhlensystem Ungarns und gehört zum UNESCO-Weltkulturerbe. Sie erstreckt sich über 25 Kilometer bis unter das Staatsgebiet der Slowakei und beeindruckt durch gigantische Hallen. In der 'Riesenhalle' können Besucher den höchsten Tropfstein des Landes bewundern, der über Jahrtausende gewachsen ist. Die außergewöhnliche Akustik des 'Konzertsaals' macht klassische Konzerte in der Höhle zu einem mystischen Erlebnis. Die Höhle belegt, dass Menschen bereits in der Jungsteinzeit dieses unterirdische Labyrinth nutzten.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Die Baradla-Höhle ist Teil eines grenzüberschreitenden UNESCO-Weltnaturerbes.", "Einige der Tropfsteinformationen sind schätzungsweise über 200.000 Jahre alt.", "Die Temperatur in der Höhle beträgt das ganze Jahr über konstant etwa 10 Grad.", "Der größte Tropfstein der Höhle, die 'Sternwarte', ist über 19 Meter hoch."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "hortobagyi-nemzeti-park",
@@ -4423,7 +6773,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Nationalpark Hortobágy", "hu": "Hortobágyi Nemzeti Park", "ro": "Parcul Național Hortobágy", "en": "Hortobágy National Park"},
     image: "/geo-images/hungary/hortobagyi-nemzeti-park.webp",
     description: {"de": "Das größte Naturschutzgebiet Ungarns und ein Symbol der Puszta.", "hu": "Magyarország legnagyobb természetvédelmi területe és a puszta szimbóluma.", "ro": "Cea mai mare rezervație naturală din Ungaria și un simbol al pustei.", "en": "Hungary's largest nature reserve and a symbol of the puszta."},
-    facts: {"de": ["Bekannt für die Neunbogige Brücke.", "Heimat vieler geschützter Vogelarten."], "hu": ["A Kilenclyukú hídról ismert.", "Számos védett madárfaj otthona."], "ro": ["Cunoscut pentru Podul cu nouă arcuri.", "Casa multor specii de păsări protejate."], "en": ["Known for the Nine-holed Bridge.", "Home to many protected bird species."]}
+    facts: {"de": ["Bekannt für die Neunbogige Brücke.", "Heimat vieler geschützter Vogelarten."], "hu": ["A Kilenclyukú hídról ismert.", "Számos védett madárfaj otthona."], "ro": ["Cunoscut pentru Podul cu nouă arcuri.", "Casa multor specii de păsări protejate."], "en": ["Known for the Nine-holed Bridge.", "Home to many protected bird species."]},
+  
+    descriptionAdvanced: {
+      "de": "Der Nationalpark Hortobágy repräsentiert die ursprüngliche Puszta-Landschaft und ist ein geschütztes UNESCO-Welterbe. Die unendliche Weite der Grassteppe wird durch charakteristische Ziehbrunnen und traditionelle Hirtenkultur geprägt. Der Park ist Lebensraum für seltene Tierrassen wie das graue Steppenrind, Zackelschafe und Nonius-Pferde. Spektakulär ist der herbstliche Kranichzug, wenn Zehntausende Vögel in den Feuchtgebieten rasten. Hortobágy zeigt eindrucksvoll die tiefen kulturellen Wurzeln Ungarns in der ungarischen Tiefebene.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Hortobágy ist die größte zusammenhängende Naturgrassteppe in Europa.", "Der Nationalpark ist als Kulturlandschaft Teil des UNESCO-Weltkulturerbes.", "Das Gebiet beherbergt die längste Steinbrücke Ungarns, die Neunbögige Brücke.", "Im Herbst ist der Park einer der bedeutendsten Kranichrastplätze weltweit."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "bukki-nemzeti-park",
@@ -4433,7 +6796,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Nationalpark Bükk", "hu": "Bükki Nemzeti Park", "ro": "Parcul Național Bükk", "en": "Bükk National Park"},
     image: "/geo-images/hungary/bukki-nemzeti-park.webp",
     description: {"de": "Ein waldreiches Berggebiet mit Höhlen und malerischen Tälern.", "hu": "Erdőkben gazdag hegyvidék barlangokkal és festői völgyekkel.", "ro": "O zonă montană împădurită cu peșteri și văi pitorești.", "en": "A heavily forested mountainous area with caves and picturesque valleys."},
-    facts: {"de": ["Beherbergt den wunderschönen Szalajka-Tal.", "Einer der ersten Nationalparks Ungarns."], "hu": ["Itt található a gyönyörű Szalajka-völgy.", "Magyarország egyik első nemzeti parkja."], "ro": ["Găzduiește frumoasa Vale Szalajka.", "Unul dintre primele parcuri naționale din Ungaria."], "en": ["Home to the beautiful Szalajka Valley.", "One of Hungary's first national parks."]}
+    facts: {"de": ["Beherbergt den wunderschönen Szalajka-Tal.", "Einer der ersten Nationalparks Ungarns."], "hu": ["Itt található a gyönyörű Szalajka-völgy.", "Magyarország egyik első nemzeti parkja."], "ro": ["Găzduiește frumoasa Vale Szalajka.", "Unul dintre primele parcuri naționale din Ungaria."], "en": ["Home to the beautiful Szalajka Valley.", "One of Hungary's first national parks."]},
+  
+    descriptionAdvanced: {
+      "de": "Der Nationalpark Bükk schützt eine spektakuläre Mittelgebirgslandschaft mit dichten Wäldern und bizarren Kalksteinfelsen. Das Bükk-Plateau ist eine einzigartige Karsthochfläche mit tiefen Dolinen und seltenen alpinen Pflanzenarten. Über 1000 Höhlen sind im Kalkstein des Gebirges bekannt, darunter wichtige prähistorische Fundstätten. Der Park beherbergt eine reiche Fauna, wie den Kaiseradler und die seltene ungarische Wildkatze. Mit seinen weiten Ausblicken von den weißen Felsen bietet der Nationalpark dramatische Naturerlebnisse.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Der Nationalpark Bükk ist das waldreichste Naturschutzgebiet in Ungarn.", "Das Gebirge beherbergt das am höchsten gelegene Höhlensystem des Landes.", "Im Nationalpark befindet sich die höchste öffentliche Straße Ungarns.", "Die Region ist bekannt für ihre Bestände an frei lebenden Mufflons."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "ferto-to",
@@ -4443,7 +6819,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Neusiedler See", "hu": "Fertő-tó", "ro": "Lacul Neusiedl", "en": "Lake Neusiedl"},
     image: "/geo-images/hungary/ferto-to.webp",
     description: {"de": "Der westlichste Steppensee Europas, an der Grenze zu Österreich.", "hu": "Európa legnyugatibb sztyepptava az osztrák határon.", "ro": "Cel mai vestic lac de stepă din Europa, la granița cu Austria.", "en": "The westernmost steppe lake in Europe, on the border with Austria."},
-    facts: {"de": ["Einzigartige Flora und Fauna.", "UNESCO-Welterbestätte."], "hu": ["Egyedülálló növény- és állatvilág.", "UNESCO világörökségi helyszín."], "ro": ["Floră și faună unice.", "Sit al Patrimoniului Mondial UNESCO."], "en": ["Unique flora and fauna.", "UNESCO World Heritage site."]}
+    facts: {"de": ["Einzigartige Flora und Fauna.", "UNESCO-Welterbestätte."], "hu": ["Egyedülálló növény- és állatvilág.", "UNESCO világörökségi helyszín."], "ro": ["Floră și faună unice.", "Sit al Patrimoniului Mondial UNESCO."], "en": ["Unique flora and fauna.", "UNESCO World Heritage site."]},
+  
+    descriptionAdvanced: {
+      "de": "Der Neusiedler See (Fertő-tó) ist der westlichste Steppensee Europas und ein grenzüberschreitendes UNESCO-Welterbe. Der riesige Schilfgürtel und das extrem flache Wasser bieten Lebensraum für Tausende von Wasservögeln. Die Kulturlandschaft um den See zeigt ein harmonisches Miteinander von Weinbau, Geschichte und unberührter Natur. Auf ungarischer Seite ist das prachtvolle Schloss Esterházy in Fertőd das kulturelle Highlight. Der See ist ein Paradies für Radfahrer, Segler und Vogelbeobachter in einer einzigartigen Grenzlandschaft.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Der Neusiedler See ist der zweitgrößte Steppensee in Mitteleuropa.", "Der Schilfgürtel des Sees ist ein international bedeutendes Vogelschutzgebiet.", "An vielen Stellen ist der See kaum tiefer als einen halben Meter.", "Die gesamte Fertő-Region gehört seit 2001 zum UNESCO-Weltkulturerbe."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "velencei-to",
@@ -4453,7 +6842,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Velencer See", "hu": "Velencei-tó", "ro": "Lacul Velence", "en": "Lake Velence"},
     image: "/geo-images/hungary/velencei-to.webp",
     description: {"de": "Einer der wärmsten Seen in Europa, ideal für Erholung.", "hu": "Európa egyik legmelegebb tava, ideális a pihenésre.", "ro": "Unul dintre cele mai calde lacuri din Europa, ideal pentru relaxare.", "en": "One of the warmest lakes in Europe, ideal for recreation."},
-    facts: {"de": ["Wird aufgrund der vielen Sonnenstunden 'See der Sonne' genannt.", "Beliebt bei Seglern und Surfern."], "hu": ["A magas napsütéses órák száma miatt a 'Napfény tavának' is hívják.", "Népszerű a vitorlázók és szörfözők körében."], "ro": ["Numit 'Lacul Soarelui' datorită numărului mare de ore de soare.", "Popular printre navigatori și surferi."], "en": ["Called the 'Lake of Sunshine' due to the high number of sunny hours.", "Popular among sailors and surfers."]}
+    facts: {"de": ["Wird aufgrund der vielen Sonnenstunden 'See der Sonne' genannt.", "Beliebt bei Seglern und Surfern."], "hu": ["A magas napsütéses órák száma miatt a 'Napfény tavának' is hívják.", "Népszerű a vitorlázók és szörfözők körében."], "ro": ["Numit 'Lacul Soarelui' datorită numărului mare de ore de soare.", "Popular printre navigatori și surferi."], "en": ["Called the 'Lake of Sunshine' due to the high number of sunny hours.", "Popular among sailors and surfers."]},
+  
+    descriptionAdvanced: {
+      "de": "Der Velence-See, bekannt als 'See des Sonnenscheins', ist einer der wärmsten Binnenseen in Mitteleuropa. Aufgrund seiner geringen Tiefe erreicht das Wasser im Sommer Temperaturen von über 26 Grad und lädt zum Baden ein. Die dichten Schilfgebiete bieten Refugien für seltene Vogelarten und schwimmende Inseln aus Vegetation. Am Nordufer erheben sich die Velence-Berge mit ihren bizarren Granitfelsformationen, die ein tolles Wandergebiet sind. Der See ist ein ideales Ziel für Erholungssuchende, Wassersportler und Naturbeobachter.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Der Velence-See ist mit durchschnittlich 1,5 Metern Tiefe extrem flach.", "Die Wassertemperaturen gehören im Sommer zu den höchsten in Europa.", "Etwa ein Drittel der Wasserfläche ist als Vogelschutzgebiet streng geschützt.", "Die Granitsteine am Nordufer werden aufgrund ihrer Form 'Wackelsteine' genannt."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "szalajka-volgy",
@@ -4485,7 +6887,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Börzsöny", "hu": "Börzsöny", "ro": "Börzsöny", "en": "Börzsöny"},
     image: "/geo-images/hungary/borzsony.webp",
     description: {"de": "Ein vulkanisches Gebirge nördlich von Budapest mit dichten Wäldern.", "hu": "Vulkáni hegység Budapesttől északra sűrű erdőkkel.", "ro": "Un munte vulcanic la nord de Budapesta cu păduri dense.", "en": "A volcanic mountain range north of Budapest with dense forests."},
-    facts: {"de": ["Der höchste Gipfel ist der Csóványos.", "Bietet tolle Aussichten auf das Donauknie."], "hu": ["Legmagasabb csúcsa a Csóványos.", "Nagyszerű kilátást nyújt a Dunakanyarra."], "ro": ["Cel mai înalt vârf este Csóványos.", "Oferă vederi minunate asupra Cotului Dunării."], "en": ["The highest peak is Csóványos.", "Offers great views of the Danube Bend."]}
+    facts: {"de": ["Der höchste Gipfel ist der Csóványos.", "Bietet tolle Aussichten auf das Donauknie."], "hu": ["Legmagasabb csúcsa a Csóványos.", "Nagyszerű kilátást nyújt a Dunakanyarra."], "ro": ["Cel mai înalt vârf este Csóványos.", "Oferă vederi minunate asupra Cotului Dunării."], "en": ["The highest peak is Csóványos.", "Offers great views of the Danube Bend."]},
+  
+    descriptionAdvanced: {
+      "de": "Das Börzsöny-Gebirge im Norden Ungarns ist ein fast kreisrundes Vulkangebirge von wilder Schönheit. Es umschließt eine der größten Calderas Europas und bietet dichte Wälder sowie tiefe Täler. Das Gebirge ist ein Paradies für Wanderer, die Einsamkeit und unberührte Natur suchen. Markante Gipfel wie der Csóványos bieten weite Ausblicke bis zur Hohen Tatra. Zahlreiche saubere Bergbäche und eine reiche Fauna prägen dieses wertvolle Naturschutzgebiet am Donauknie.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Börzsöny-Gebirge ist vulkanischen Ursprungs mit einer Ringstruktur.", "In den abgelegenen Wäldern leben heute wieder Luchse.", "Die Region beherbergt einige der saubersten Quellen Ungarns.", "Királyrét ist ein beliebter Ausgangspunkt für historische Waldbahnfahrten."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "villanyi-borvidek",
@@ -4495,7 +6910,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Weinregion Villány", "hu": "Villányi borvidék", "ro": "Regiunea viticolă Villány", "en": "Villány Wine Region"},
     image: "/geo-images/hungary/villanyi-borvidek.webp",
     description: {"de": "Eine der berühmtesten Rotweinregionen Ungarns im Süden.", "hu": "Magyarország egyik leghíresebb déli vörösborvidéke.", "ro": "Una dintre cele mai faimoase regiuni de vin roșu din Ungaria în sud.", "en": "One of the most famous red wine regions in Hungary in the south."},
-    facts: {"de": ["Produziert erstklassige Cabernet Franc Weine.", "Verfügt über malerische Weinkellerreihen."], "hu": ["Kiváló minőségű Cabernet Franc borokat termel.", "Festői pincesorokkal rendelkezik."], "ro": ["Produce vinuri Cabernet Franc de calitate superioară.", "Are șiruri pitorești de crame."], "en": ["Produces premium Cabernet Franc wines.", "Features picturesque rows of wine cellars."]}
+    facts: {"de": ["Produziert erstklassige Cabernet Franc Weine.", "Verfügt über malerische Weinkellerreihen."], "hu": ["Kiváló minőségű Cabernet Franc borokat termel.", "Festői pincesorokkal rendelkezik."], "ro": ["Produce vinuri Cabernet Franc de calitate superioară.", "Are șiruri pitorești de crame."], "en": ["Produces premium Cabernet Franc wines.", "Features picturesque rows of wine cellars."]},
+  
+    descriptionAdvanced: {
+      "de": "Die Weinregion Villány im äußersten Süden Ungarns gilt als die beste Rotweinregion des Landes. Das submediterrane Klima und die kalkhaltigen Böden bringen vollmundige Weine von Weltklasse hervor. Besonders der Villányi Franc hat die Region international bekannt gemacht. Die malerischen Kellergassen in Villány und Palkonya laden zu Verkostungen in historischem Ambiente ein. Villány war die erste Region Ungarns, die konsequenten Weintourismus und Herkunftsschutz etablierte.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Villány ist die südlichste und sonnigste Weinregion Ungarns.", "Die Region ist berühmt für erstklassige Cabernet Franc und Merlot Weine.", "Die historische Kellergasse von Palkonya steht unter nationalem Denkmalschutz.", "In Villány wurde 1988 der erste Weinstraßenverein Ungarns gegründet."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "egri-var",
@@ -4505,7 +6933,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Burg Eger", "hu": "Egri vár", "ro": "Castelul Eger", "en": "Castle of Eger"},
     image: "/geo-images/hungary/egri-var.webp",
     description: {"de": "Eine historische Burg, die 1552 der türkischen Belagerung standhielt.", "hu": "Történelmi vár, amely 1552-ben ellenállt a török ostromnak.", "ro": "Un castel istoric care a rezistat asediului turcesc din 1552.", "en": "A historical castle that withstood the Turkish siege in 1552."},
-    facts: {"de": ["Schauplatz von Gárdonyis Roman 'Sterne von Eger'.", "Ein wichtiges nationales Symbol."], "hu": ["Gárdonyi Géza 'Egri csillagok' című regényének helyszíne.", "Fontos nemzeti szimbólum."], "ro": ["Cadrul romanului lui Gárdonyi 'Stelele din Eger'.", "Un simbol național important."], "en": ["Setting of Gárdonyi's novel 'Eclipse of the Crescent Moon'.", "An important national symbol."]}
+    facts: {"de": ["Schauplatz von Gárdonyis Roman 'Sterne von Eger'.", "Ein wichtiges nationales Symbol."], "hu": ["Gárdonyi Géza 'Egri csillagok' című regényének helyszíne.", "Fontos nemzeti szimbólum."], "ro": ["Cadrul romanului lui Gárdonyi 'Stelele din Eger'.", "Un simbol național important."], "en": ["Setting of Gárdonyi's novel 'Eclipse of the Crescent Moon'.", "An important national symbol."]},
+  
+    descriptionAdvanced: {
+      "de": "Die Burg von Eger ist ein Symbol für heldenhaften Widerstand und nationalen Stolz in Ungarn. Im Jahr 1552 verteidigte eine kleine Garnison unter István Dobó die Festung erfolgreich gegen eine gewaltige osmanische Übermacht. Die Burgmauern beherbergen heute umfangreiche Ausstellungen zum mittelalterlichen Leben und zur Belagerungsgeschichte. Besucher können die unterirdischen Kasematten und die Ruinen der einstigen Kathedrale erkunden. Von der Burg aus bietet sich ein herrlicher Blick über das barocke Stadtbild von Eger.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Die erfolgreiche Verteidigung von 1552 stoppte vorerst den türkischen Vormarsch.", "In der Burg ruht der Schriftsteller Géza Gárdonyi, Autor von 'Die Sterne von Eger'.", "Das Museum zeigt originale Waffen und Ausrüstungen aus der Türkenzeit.", "Die Burg ist Schauplatz zahlreicher historischer Ritterspiele."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "visegradi-fellegvar",
@@ -4515,7 +6956,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Zitadelle Visegrád", "hu": "Visegrádi Fellegvár", "ro": "Cetatea Visegrád", "en": "Visegrád Citadel"},
     image: "/geo-images/hungary/visegrad.webp",
     description: {"de": "Eine mittelalterliche Festung mit atemberaubendem Blick auf das Donauknie.", "hu": "Középkori erődítmény, lenyűgöző kilátással a Dunakanyarra.", "ro": "O cetate medievală cu o vedere uluitoare asupra Cotului Dunării.", "en": "A medieval fortress with a breathtaking view of the Danube Bend."},
-    facts: {"de": ["Wurde im 13. Jahrhundert erbaut.", "Bewahrte einst die Heilige Krone Ungarns auf."], "hu": ["A 13. században épült.", "Egykor itt őrizték a Szent Koronát."], "ro": ["A fost construită în secolul al XIII-lea.", "A păstrat odată Sfânta Coroană a Ungariei."], "en": ["Built in the 13th century.", "Once kept the Holy Crown of Hungary."]}
+    facts: {"de": ["Wurde im 13. Jahrhundert erbaut.", "Bewahrte einst die Heilige Krone Ungarns auf."], "hu": ["A 13. században épült.", "Egykor itt őrizték a Szent Koronát."], "ro": ["A fost construită în secolul al XIII-lea.", "A păstrat odată Sfânta Coroană a Ungariei."], "en": ["Built in the 13th century.", "Once kept the Holy Crown of Hungary."]},
+  
+    descriptionAdvanced: {
+      "de": "Die Wolkenburg (Fellegvár) von Visegrád thront auf einem steilen Fels hoch über dem malerischen Donauknie. Die im 13. Jahrhundert errichtete Festung war über lange Zeit eine bevorzugte Residenz der ungarischen Könige. Sie diente zudem als sicherer Verwahrort für die ungarischen Krönungsinsignien. Das spektakuläre Panorama über die Donauschleife macht die Burg zu einem der meistfotografierten Orte Ungarns. In den Ausstellungsräumen wird die Geschichte der Jagd und des höfischen Lebens im Mittelalter lebendig.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Die Burg beherbergte jahrhundertelang die heilige ungarische Stephanskrone.", "Visegrád war im 14. Jahrhundert der Ort des ersten 'Visegrád-Königstreffens'.", "Der Blick von der Oberburg gilt als das schönste Panorama an der Donau.", "Regelmäßige Mittelalter-Festivals locken Tausende Besucher auf den Burgberg."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "szigetvari-var",
@@ -4525,7 +6979,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Burg Szigetvár", "hu": "Szigetvári vár", "ro": "Castelul Szigetvár", "en": "Castle of Szigetvár"},
     image: "/geo-images/hungary/szigetvari-var.webp",
     description: {"de": "Bekannt für die heroische Verteidigung durch Miklós Zrínyi im Jahr 1566.", "hu": "Zrínyi Miklós hősies, 1566-os várvédelméről ismert.", "ro": "Cunoscut pentru apărarea eroică condusă de Miklós Zrínyi în 1566.", "en": "Known for the heroic defense by Miklós Zrínyi in 1566."},
-    facts: {"de": ["Sultan Süleyman der Prächtige starb während der Belagerung.", "Ein Symbol des ungarischen Widerstands."], "hu": ["Nagy Szulejmán szultán az ostrom alatt hunyt el.", "A magyar ellenállás szimbóluma."], "ro": ["Sultanul Suleiman Magnificul a murit în timpul asediului.", "Un simbol al rezistenței maghiare."], "en": ["Sultan Suleiman the Magnificent died during the siege.", "A symbol of Hungarian resistance."]}
+    facts: {"de": ["Sultan Süleyman der Prächtige starb während der Belagerung.", "Ein Symbol des ungarischen Widerstands."], "hu": ["Nagy Szulejmán szultán az ostrom alatt hunyt el.", "A magyar ellenállás szimbóluma."], "ro": ["Sultanul Suleiman Magnificul a murit în timpul asediului.", "Un simbol al rezistenței maghiare."], "en": ["Sultan Suleiman the Magnificent died during the siege.", "A symbol of Hungarian resistance."]},
+  
+    descriptionAdvanced: {
+      "de": "Die Burg von Szigetvár ist untrennbar mit der heldenhaften Belagerung von 1566 verbunden. Unter der Führung von Nikolaus Zrinyi leisteten die Verteidiger erbitterten Widerstand gegen das Heer von Sultan Süleyman dem Prächtigen. Während der Belagerung verstarb der gealterte Sultan in seinem Zelt vor der Festung. Heute ist die Burg ein Ort des Gedenkens und beherbergt Ausstellungen über die ungarisch-türkischen Kriege. Eine ehemalige Moschee im Inneren erinnert an die Zeit der osmanischen Herrschaft.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Szigetvár wird aufgrund des Opfergangs oft als das 'ungarische Thermopylae' bezeichnet.", "Nikolaus Zrinyi wird als einer der größten Nationalhelden Ungarns verehrt.", "Sultan Süleyman starb hier am Vorabend des Falls der Festung.", "In der Nähe befindet sich der ungarisch-türkische Freundschaftspark."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "sarvari-var",
@@ -4535,7 +7002,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Burg Sárvár", "hu": "Sárvári vár", "ro": "Castelul Sárvár", "en": "Castle of Sárvár"},
     image: "/geo-images/hungary/sarvari-var.webp",
     description: {"de": "Die Burg Nádasdy ist ein Meisterwerk der Renaissance-Architektur.", "hu": "A Nádasdy-vár a reneszánsz építészet remekműve.", "ro": "Castelul Nádasdy este o capodoperă a arhitecturii renascentiste.", "en": "Nádasdy Castle is a masterpiece of Renaissance architecture."},
-    facts: {"de": ["Hier wurde das erste in Ungarn gedruckte Buch auf Ungarisch verlegt.", "Befindet sich im Stadtzentrum."], "hu": ["Itt nyomtatták az első magyar nyelvű könyvet Magyarországon.", "A városközpontban található."], "ro": ["Aici a fost tipărită prima carte în limba maghiară din Ungaria.", "Situat în centrul orașului."], "en": ["The first Hungarian book printed in Hungary was published here.", "Located in the city center."]}
+    facts: {"de": ["Hier wurde das erste in Ungarn gedruckte Buch auf Ungarisch verlegt.", "Befindet sich im Stadtzentrum."], "hu": ["Itt nyomtatták az első magyar nyelvű könyvet Magyarországon.", "A városközpontban található."], "ro": ["Aici a fost tipărită prima carte în limba maghiară din Ungaria.", "Situat în centrul orașului."], "en": ["The first Hungarian book printed in Hungary was published here.", "Located in the city center."]},
+  
+    descriptionAdvanced: {
+      "de": "Die Burg Nádasdy in Sárvár ist eines der prachtvollsten Renaissanceschlösser in Westungarn. Die charakteristische fünfseitige Anlage ist von einem idyllischen Wassergraben und einem weitläufigen Park umgeben. Der monumentale Rittersaal beeindruckt durch seine riesigen Deckenfresken, die kriegerische Szenen darstellen. Die Burg beherbergt das Nádasdy-Museum mit einer einzigartigen Sammlung zur Geschichte der ungarischen Husaren. Sárvár war zudem ein bedeutendes geistiges Zentrum, in dem das erste Buch in ungarischer Sprache gedruckt wurde.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Die Burg Nádasdy besitzt einen der schönsten barocken Festsäle des Landes.", "Im Jahr 1541 wurde hier das ungarische Neue Testament gedruckt.", "Das Burgmuseum beherbergt die weltweit einzige Husaren-Dauerausstellung.", "Das angrenzende Arboretum ist über 200 Jahre alt."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "diosgyori-var",
@@ -4545,7 +7025,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Burg Diósgyőr", "hu": "Diósgyőri vár", "ro": "Castelul Diósgyőr", "en": "Castle of Diósgyőr"},
     image: "/geo-images/hungary/diosgyori-var.webp",
     description: {"de": "Eine mittelalterliche Burg, die oft als die Burg der Königinnen bezeichnet wird.", "hu": "Középkori vár, amelyet gyakran a királynék váraként emlegetnek.", "ro": "Un castel medieval, adesea numit Castelul Reginelor.", "en": "A medieval castle, often referred to as the Queens' Castle."},
-    facts: {"de": ["War ein beliebtes Ziel von König Ludwig dem Großen.", "Wurde kürzlich umfassend restauriert."], "hu": ["Nagy Lajos király kedvelt tartózkodási helye volt.", "Nemrégiben nagyszabású felújításon esett át."], "ro": ["A fost o destinație populară pentru Regele Ludovic cel Mare.", "A fost restaurat recent pe scară largă."], "en": ["Was a popular destination for King Louis the Great.", "Has been extensively restored recently."]}
+    facts: {"de": ["War ein beliebtes Ziel von König Ludwig dem Großen.", "Wurde kürzlich umfassend restauriert."], "hu": ["Nagy Lajos király kedvelt tartózkodási helye volt.", "Nemrégiben nagyszabású felújításon esett át."], "ro": ["A fost o destinație populară pentru Regele Ludovic cel Mare.", "A fost restaurat recent pe scară largă."], "en": ["Was a popular destination for King Louis the Great.", "Has been extensively restored recently."]},
+  
+    descriptionAdvanced: {
+      "de": "Die Burg Diósgyőr in Miskolc war im Mittelalter traditionell der Witwensitz und die Lieblingsresidenz der ungarischen Königinnen. König Ludwig der Große baute die Festung im 14. Jahrhundert zu einem prachtvollen gotischen Palast aus. In den letzten Jahren wurde die Burg originalgetreu rekonstruiert und erstrahlt heute wieder in ihrem alten Glanz. Besonders beeindruckend ist die Ritterhalle, die einst eine der größten ihrer Art in Europa war. Historische Vorführungen und Ritterspiele lassen den Alltag an einem Königshof lebendig werden.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Diósgyőr war über Jahrhunderte das traditionelle Morgengabe-Geschenk für Königinnen.", "In der Burg befindet sich eine der größten Wachsfigurenausstellungen des Landes.", "Die Ritterhalle war im Mittelalter ein Zentrum der europäischen Diplomatie.", "Das jährliche Burgfestival gehört zu den wichtigsten Kulturevents der Region."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "esztergomi-bazilika",
@@ -4555,7 +7048,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Basilika von Esztergom", "hu": "Esztergomi Bazilika", "ro": "Bazilica din Esztergom", "en": "Esztergom Basilica"},
     image: "/geo-images/hungary/esztergomi-bazilika.webp",
     description: {"de": "Die größte und höchste Kirche Ungarns mit monumentaler Architektur.", "hu": "Magyarország legnagyobb és legmagasabb temploma monumentális építészettel.", "ro": "Cea mai mare și cea mai înaltă biserică din Ungaria, cu o arhitectură monumentală.", "en": "Hungary's largest and tallest church with monumental architecture."},
-    facts: {"de": ["Der Hauptsitz der katholischen Kirche in Ungarn.", "Das Altarbild ist das größte Gemälde auf einer einzigen Leinwand."], "hu": ["A magyar katolikus egyház központja.", "Oltárképe a világ legnagyobb egyetlen vászonra festett képe."], "ro": ["Sediul Bisericii Catolice din Ungaria.", "Imaginea altarului este cea mai mare pictură pe o singură pânză."], "en": ["The headquarters of the Catholic Church in Hungary.", "The altarpiece is the largest painting on a single canvas."]}
+    facts: {"de": ["Der Hauptsitz der katholischen Kirche in Ungarn.", "Das Altarbild ist das größte Gemälde auf einer einzigen Leinwand."], "hu": ["A magyar katolikus egyház központja.", "Oltárképe a világ legnagyobb egyetlen vászonra festett képe."], "ro": ["Sediul Bisericii Catolice din Ungaria.", "Imaginea altarului este cea mai mare pictură pe o singură pânză."], "en": ["The headquarters of the Catholic Church in Hungary.", "The altarpiece is the largest painting on a single canvas."]},
+  
+    descriptionAdvanced: {
+      "de": "Die Basilika von Esztergom ist das größte Kirchenbauwerk Ungarns und das geistige Zentrum des Landes. Sie thront majestätisch auf dem Burgberg über der Donau und ist von weitem sichtbar. Das monumentale klassizistische Bauwerk beeindruckt durch seine gewaltige Kuppel und die prachtvolle Innenausstattung. In der Krypta ruhen bedeutende Kirchenfürsten, und die Schatzkammer bewahrt unschätzbare sakrale Kunstwerke auf. Von der Kuppelgalerie bietet sich ein atemberaubender Blick bis weit in die Slowakei hinein.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Die Basilika ist die Kathedrale des ungarischen Primas und Erzbischofs.", "Das Altarbild ist das weltweit größte Gemälde auf einer einzigen Leinwand.", "Die Bakócz-Kapelle im Inneren ist ein Juwel der ungarischen Renaissance.", "Die Orgel der Basilika gehört zu den klanggewaltigsten Instrumenten Europas."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "szentendrei-skanzen",
@@ -4565,7 +7071,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Skanzen Szentendre", "hu": "Szentendrei Skanzen", "ro": "Skanzen Szentendre", "en": "Szentendre Skanzen"},
     image: "/geo-images/hungary/szentendrei-skanzen.webp",
     description: {"de": "Das größte ungarische Freilichtmuseum, das ländliche Architektur zeigt.", "hu": "A legnagyobb magyar szabadtéri néprajzi múzeum, amely a vidéki építészetet mutatja be.", "ro": "Cel mai mare muzeu în aer liber maghiar, prezentând arhitectura rurală.", "en": "The largest Hungarian open-air museum, showcasing rural architecture."},
-    facts: {"de": ["Umfasst authentisch nachgebaute Dorfregionen.", "Organisiert traditionelle Feste und Programme."], "hu": ["Hitelesen újjáépített falusi tájegységeket mutat be.", "Hagyományos fesztiválokat és programokat szervez."], "ro": ["Prezintă regiuni de sate reconstruite autentic.", "Organizează festivaluri și programe tradiționale."], "en": ["Features authentically reconstructed village regions.", "Organizes traditional festivals and programs."]}
+    facts: {"de": ["Umfasst authentisch nachgebaute Dorfregionen.", "Organisiert traditionelle Feste und Programme."], "hu": ["Hitelesen újjáépített falusi tájegységeket mutat be.", "Hagyományos fesztiválokat és programokat szervez."], "ro": ["Prezintă regiuni de sate reconstruite autentic.", "Organizează festivaluri și programe tradiționale."], "en": ["Features authentically reconstructed village regions.", "Organizes traditional festivals and programs."]},
+  
+    descriptionAdvanced: {
+      "de": "Das Ungarische Freilichtmuseum (Skanzen) in Szentendre ist das bedeutendste Museum für Volksarchitektur im Land. Auf einem riesigen Areal werden originale Bauernhäuser und Kirchen aus allen Regionen Ungarns präsentiert. Besucher können hier den Alltag der Landbevölkerung aus drei Jahrhunderten hautnah miterleben. In den Werkstätten werden traditionelle Handwerke wie Brotbacken und Töpfern live vorgeführt. Eine historische Museumsbahn verbindet die verschiedenen Regionen des Parks und macht den Besuch für Familien attraktiv.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Skanzen umfasst über 300 historische Gebäude in zehn regionalen Einheiten.", "In dem Museum werden zahlreiche bedrohte Handwerkstechniken bewahrt.", "Jährlich finden hier große Volksfeste zu Ostern und Pfingsten statt.", "Das Museum wurde für seine pädagogische Arbeit international ausgezeichnet."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "tihanyi-apatsag",
@@ -4575,7 +7094,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Abtei Tihany", "hu": "Tihanyi Apátság", "ro": "Abația Tihany", "en": "Tihany Abbey"},
     image: "/geo-images/hungary/tihanyi-apatsag.webp",
     description: {"de": "Eine Benediktinerabtei auf der Tihany-Halbinsel mit einer tausendjährigen Geschichte.", "hu": "Bencés apátság a Tihanyi-félszigeten, ezeréves történelemmel.", "ro": "O abație benedictină pe Peninsula Tihany cu o istorie de o mie de ani.", "en": "A Benedictine abbey on the Tihany Peninsula with a thousand-year history."},
-    facts: {"de": ["Die Gründungsurkunde enthält die ältesten ungarischen Wörter.", "Bietet einen herrlichen Blick über den Plattensee."], "hu": ["Alapítólevele tartalmazza a legrégebbi magyar szavakat.", "Csodálatos kilátást nyújt a Balatonra."], "ro": ["Carta de fondare conține cele mai vechi cuvinte maghiare.", "Oferă o priveliște magnifică asupra Lacului Balaton."], "en": ["Its founding charter contains the oldest Hungarian words.", "Offers a magnificent view over Lake Balaton."]}
+    facts: {"de": ["Die Gründungsurkunde enthält die ältesten ungarischen Wörter.", "Bietet einen herrlichen Blick über den Plattensee."], "hu": ["Alapítólevele tartalmazza a legrégebbi magyar szavakat.", "Csodálatos kilátást nyújt a Balatonra."], "ro": ["Carta de fondare conține cele mai vechi cuvinte maghiare.", "Oferă o priveliște magnifică asupra Lacului Balaton."], "en": ["Its founding charter contains the oldest Hungarian words.", "Offers a magnificent view over Lake Balaton."]},
+  
+    descriptionAdvanced: {
+      "de": "Die Benediktinerabtei von Tihany auf der gleichnamigen Halbinsel ist eines der bekanntesten Wahrzeichen am Plattensee. Gegründet im Jahr 1055, beherbergt sie eine romanische Krypta mit dem Grab von König Andreas I. Die barocke Doppelturmkirche bietet einen der schönsten Ausblicke über das tiefblaue Wasser des Sees. Die Abtei ist zudem ein bedeutender Ort für die ungarische Sprache, da ihre Gründungsurkunde die ältesten schriftlichen Wörter des Landes enthält. Die spirituelle Ruhe der Anlage und die umgebenden Lavendelfelder machen Tihany zu einem einzigartigen Ort.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Die Abtei beherbergt die einzige erhaltene Grabstätte eines Königs aus der Arpaden-Dynastie.", "Die Gründungsurkunde von 1055 ist das älteste Schriftdenkmal in ungarischer Sprache.", "Die prachtvollen barocken Schnitzereien im Inneren stammen von Sebastian Stuhlhof.", "Tihany ist berühmt für sein Echo, das an der Nordmauer der Abtei entsteht."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "pannonhalmi-foapatsag",
@@ -4585,7 +7117,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Erzabtei Pannonhalma", "hu": "Pannonhalmi Főapátság", "ro": "Arhiabația Pannonhalma", "en": "Pannonhalma Archabbey"},
     image: "/geo-images/hungary/pannonhalmi-foapatsag.webp",
     description: {"de": "Ein UNESCO-Weltkulturerbe und spirituelles Zentrum auf dem Martinsberg.", "hu": "UNESCO világörökség és spirituális központ a Márton-hegyen.", "ro": "Un sit al Patrimoniului Mondial UNESCO și centru spiritual pe Dealul Sf. Martin.", "en": "A UNESCO World Heritage site and spiritual center on St. Martin's Hill."},
-    facts: {"de": ["Wurde im Jahr 996 gegründet.", "Verfügt über eine beeindruckende Bibliothek mit alten Handschriften."], "hu": ["996-ban alapították.", "Lenyűgöző könyvtára van régi kéziratokkal."], "ro": ["A fost fondată în anul 996.", "Are o bibliotecă impresionantă cu manuscrise vechi."], "en": ["Founded in 996.", "Features an impressive library with ancient manuscripts."]}
+    facts: {"de": ["Wurde im Jahr 996 gegründet.", "Verfügt über eine beeindruckende Bibliothek mit alten Handschriften."], "hu": ["996-ban alapították.", "Lenyűgöző könyvtára van régi kéziratokkal."], "ro": ["A fost fondată în anul 996.", "Are o bibliotecă impresionantă cu manuscrise vechi."], "en": ["Founded in 996.", "Features an impressive library with ancient manuscripts."]},
+  
+    descriptionAdvanced: {
+      "de": "Die Erzabtei Pannonhalma, gegründet im Jahr 996, ist das älteste Kloster Ungarns und gehört zum UNESCO-Weltkulturerbe. Sie thront erhaben auf dem Heiligen Berg von Pannonien und ist das geistige Herz der ungarischen Benediktiner. Die Anlage vereint Baustile aus über einem Jahrtausend, von der romanischen Krypta bis zur klassizistischen Bibliothek. In der Bibliothek werden über 400.000 wertvolle Bände und unschätzbare historische Dokumente aufbewahrt. Die Mönche von Pannonhalma führen zudem eine lange Tradition im Weinbau und in der Kräuterkunde fort.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Pannonhalma ist das einzige Kloster Ungarns, das seit dem Mittelalter fast stetig besteht.", "Die Abtei betreibt ein international anerkanntes Elitegymnasium.", "Das Klosterweingut produziert preisgekrönte Weine nach alten Traditionen.", "Der Arzneikräutergarten der Abtei ist ein Zentrum der Naturheilkunde."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "holloko-ofalu",
@@ -4595,7 +7140,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Altes Dorf Hollókő", "hu": "Hollókő Ófalu", "ro": "Satul vechi Hollókő", "en": "Hollókő Old Village"},
     image: "/geo-images/hungary/holloko-ofalu.webp",
     description: {"de": "Ein intaktes Palóczen-Dorf und UNESCO-Weltkulturerbe.", "hu": "Érintetlen palóc falu és UNESCO világörökségi helyszín.", "ro": "Un sat Palóc intact și un sit al Patrimoniului Mondial UNESCO.", "en": "An intact Palóc village and UNESCO World Heritage site."},
-    facts: {"de": ["Bewahrt die Traditionen des 17. und 18. Jahrhunderts.", "Die Bewohner tragen an Festtagen Tracht."], "hu": ["A 17-18. századi hagyományokat őrzi.", "A lakosok ünnepekkor népviseletet hordanak."], "ro": ["Păstrează tradițiile din secolele XVII și XVIII.", "Locuitorii poartă costume tradiționale la festivaluri."], "en": ["Preserves the traditions of the 17th and 18th centuries.", "Residents wear traditional costumes on holidays."]}
+    facts: {"de": ["Bewahrt die Traditionen des 17. und 18. Jahrhunderts.", "Die Bewohner tragen an Festtagen Tracht."], "hu": ["A 17-18. századi hagyományokat őrzi.", "A lakosok ünnepekkor népviseletet hordanak."], "ro": ["Păstrează tradițiile din secolele XVII și XVIII.", "Locuitorii poartă costume tradiționale la festivaluri."], "en": ["Preserves the traditions of the 17th and 18th centuries.", "Residents wear traditional costumes on holidays."]},
+  
+    descriptionAdvanced: {
+      "de": "Das alte Dorf von Hollókő ist ein lebendiges Freilichtmuseum im Norden Ungarns und gehört zum UNESCO-Weltkulturerbe. Es besteht aus 67 traditionellen Wohnhäusern, die nach einem Brand im ursprünglichen Stil der Palócen-Volksgruppe wiedererrichtet wurden. Die Bewohner pflegen noch heute aktiv ihre farbenfrohen Trachten und alten Handwerke, besonders an Festtagen. Über dem Dorf thront die Ruine der Burg Hollókő, die einen weiten Blick über die sanften Hügel des Cserhát bietet. Ein Besuch in Hollókő fühlt sich an wie eine Zeitreise in das ländliche Ungarn des 18. Jahrhunderts.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Hollókő war 1987 das erste Dorf weltweit, das zum UNESCO-Welterbe erklärt wurde.", "Die charakteristische Palóc-Architektur ist hier in ihrer reinsten Form erhalten.", "Die aufwendigen, handgestickten Trachten werden zu festlichen Anlässen stolz getragen.", "Die Burg wurde im 13. Jahrhundert zum Schutz gegen tatarische Überfälle errichtet."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "szepmuveszeti-muzeum",
@@ -4605,7 +7163,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Museum der Bildenden Künste", "hu": "Szépművészeti Múzeum", "ro": "Muzeul de Arte Frumoase", "en": "Museum of Fine Arts"},
     image: "/geo-images/hungary/szepmuveszeti-muzeum.webp",
     description: {"de": "Eines der bedeutendsten Museen in Budapest mit internationaler Kunst.", "hu": "Budapest egyik legjelentősebb múzeuma nemzetközi művészeti alkotásokkal.", "ro": "Unul dintre cele mai importante muzee din Budapesta cu artă internațională.", "en": "One of the most important museums in Budapest with international art."},
-    facts: {"de": ["Liegt am Heldenplatz.", "Besitzt eine große Sammlung spanischer Malerei."], "hu": ["A Hősök terén található.", "Nagy spanyol festészeti gyűjteménnyel rendelkezik."], "ro": ["Situat în Piața Eroilor.", "Are o mare colecție de pictură spaniolă."], "en": ["Located at Heroes' Square.", "Has a large collection of Spanish painting."]}
+    facts: {"de": ["Liegt am Heldenplatz.", "Besitzt eine große Sammlung spanischer Malerei."], "hu": ["A Hősök terén található.", "Nagy spanyol festészeti gyűjteménnyel rendelkezik."], "ro": ["Situat în Piața Eroilor.", "Are o mare colecție de pictură spaniolă."], "en": ["Located at Heroes' Square.", "Has a large collection of Spanish painting."]},
+  
+    descriptionAdvanced: {
+      "de": "Das Museum der Bildenden Künste am Budapester Heldenplatz beherbergt die bedeutendste Kunstsammlung Ungarns. Das monumentale neoklassizistische Gebäude zeigt Meisterwerke von der Antike bis zum Ende des 18. Jahrhunderts. Besonders berühmt ist die Sammlung spanischer Meister, darunter Werke von El Greco, Velázquez und Goya, die als eine der besten außerhalb Spaniens gilt. Die ägyptische Abteilung und die Galerie alter Meister ziehen Kunstliebhaber aus aller Welt an. In den prachtvoll renovierten Sälen, wie dem romanischen Saal, begegnen sich europäische Kunstgeschichte und ungarische Museumstradition.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Museum besitzt eine der bedeutendsten Sammlungen spanischer Malerei in Europa.", "Der Romanische Saal gehört zu den prachtvollsten Ausstellungsräumen der Welt.", "Die Sammlung umfasst über 100.000 Kunstwerke aus verschiedenen Epochen.", "Das Gebäude wurde 1906 zum 1000-jährigen Jubiläum der Landnahme eröffnet."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "magyar-nemzeti-muzeum",
@@ -4637,7 +7208,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Gellértberg", "hu": "Gellért-hegy", "ro": "Dealul Gellért", "en": "Gellért Hill"},
     image: "/geo-images/hungary/gellert-hegy.webp",
     description: {"de": "Ein prominenter Hügel in Budapest, der einen Panoramablick auf die Stadt bietet.", "hu": "Budapest kiemelkedő hegye, amely panorámás kilátást nyújt a városra.", "ro": "Un deal proeminent în Budapesta, oferind vedere panoramică asupra orașului.", "en": "A prominent hill in Budapest offering panoramic views of the city."},
-    facts: {"de": ["Hier steht die Freiheitsstatue.", "Die Zitadelle krönt den Gipfel."], "hu": ["Itt áll a Szabadság-szobor.", "A hegy tetejét a Citadella koronázza meg."], "ro": ["Aici se află Statuia Libertății.", "Cetatea încoronează vârful."], "en": ["The Liberty Statue stands here.", "The Citadel crowns the summit."]}
+    facts: {"de": ["Hier steht die Freiheitsstatue.", "Die Zitadelle krönt den Gipfel."], "hu": ["Itt áll a Szabadság-szobor.", "A hegy tetejét a Citadella koronázza meg."], "ro": ["Aici se află Statuia Libertății.", "Cetatea încoronează vârful."], "en": ["The Liberty Statue stands here.", "The Citadel crowns the summit."]},
+  
+    descriptionAdvanced: {
+      "de": "Der Gellértberg erhebt sich steil über der Donau im Herzen von Budapest und bietet den wohl berühmtesten Panoramablick über die Stadt. Auf seinem Gipfel thront die Zitadelle, eine ehemalige Festungsanlage, sowie die imposante Freiheitsstatue, ein Symbol der ungarischen Hauptstadt. Der Berg ist nach dem Heiligen Gellért benannt, der der Legende nach hier den Märtyrertod starb. Neben den Denkmälern beherbergt der Berg die einzigartige Felsenkirche und ist für seine Thermalquellen am Fuße des Hanges bekannt. Ein Spaziergang über die bewaldeten Wege des Gellértberges gehört zum Pflichtprogramm jedes Budapest-Besuchers.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Vom Gipfel des Berges aus hat man einen uneingeschränkten Blick auf alle Donaubrücken.", "Die Freiheitsstatue auf dem Berg ist 14 Meter hoch und weithin sichtbar.", "Im Inneren des Berges befindet sich ein Reservoir für das Budapester Trinkwasser.", "Der Gellértberg gehört seit 1987 zum UNESCO-Weltkulturerbe."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "normafa",
@@ -4647,7 +7231,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Normafa", "hu": "Normafa", "ro": "Normafa", "en": "Normafa"},
     image: "/geo-images/hungary/normafa.webp",
     description: {"de": "Ein beliebtes Ausflugsziel in den Budaer Bergen, ideal zum Wandern.", "hu": "Népszerű kirándulóhely a Budai-hegységben, ideális túrázásra.", "ro": "O destinație populară de excursie în Munții Buda, ideală pentru drumeții.", "en": "A popular excursion destination in the Buda Hills, ideal for hiking."},
-    facts: {"de": ["Bietet im Winter Möglichkeiten zum Skifahren.", "Berühmt für seine Strudelspezialitäten."], "hu": ["Télen síelési lehetőséget kínál.", "Híres a réteséről."], "ro": ["Oferă oportunități de schi iarna.", "Cunoscut pentru specialitățile sale de ștrudel."], "en": ["Offers skiing opportunities in winter.", "Famous for its strudel specialties."]}
+    facts: {"de": ["Bietet im Winter Möglichkeiten zum Skifahren.", "Berühmt für seine Strudelspezialitäten."], "hu": ["Télen síelési lehetőséget kínál.", "Híres a réteséről."], "ro": ["Oferă oportunități de schi iarna.", "Cunoscut pentru specialitățile sale de ștrudel."], "en": ["Offers skiing opportunities in winter.", "Famous for its strudel specialties."]},
+  
+    descriptionAdvanced: {
+      "de": "Die Normafa ist das beliebteste Naherholungsgebiet der Budapester in den Budaer Bergen und bietet zu jeder Jahreszeit Naturerlebnisse. Der Name geht auf einen alten Baum zurück, unter dem Opernsänger im 19. Jahrhundert traditionell Arien sangen. Die Hochebene bietet fantastische Ausblicke über die ungarische Hauptstadt und ist ein Zentrum für Wanderer, Jogger und Familien. Im Winter verwandelt sich die Normafa bei entsprechendem Wetter in ein kleines Ski- und Rodelparadies direkt am Stadtrand. Zahlreiche Wanderwege führen von hier aus zu weiteren Sehenswürdigkeiten wie dem Aussichtsturm auf dem János-Berg.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Die Normafa bietet einen der besten Aussichtspunkte in den Budaer Bergen.", "Das Gebiet ist ein historischer Treffpunkt der Budapester Künstler- und Kulturszene.", "Die Zahnradbahn und die Kindereisenbahn sind von hier aus bequem zu erreichen.", "Der Ort ist berühmt für seine traditionellen Strudel-Verkaufsstände."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "magyar-allami-operahaz",
@@ -4657,7 +7254,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Staatsoper", "hu": "Magyar Állami Operaház", "ro": "Opera de Stat", "en": "State Opera"},
     image: "/geo-images/hungary/magyar-allami-operahaz.webp",
     description: {"de": "Ein prachtvolles Neorenaissance-Gebäude auf der Andrássy-Straße.", "hu": "Lenyűgöző neoreneszánsz épület az Andrássy úton.", "ro": "O clădire magnifică neo-renascentistă pe Bulevardul Andrássy.", "en": "A magnificent Neo-Renaissance building on Andrássy Avenue."},
-    facts: {"de": ["Eröffnet im Jahr 1884.", "Berühmt für seine hervorragende Akustik."], "hu": ["1884-ben nyitotta meg kapuit.", "Kiváló akusztikájáról ismert."], "ro": ["Deschisă în 1884.", "Faimoasă pentru acustica sa excelentă."], "en": ["Opened in 1884.", "Famous for its excellent acoustics."]}
+    facts: {"de": ["Eröffnet im Jahr 1884.", "Berühmt für seine hervorragende Akustik."], "hu": ["1884-ben nyitotta meg kapuit.", "Kiváló akusztikájáról ismert."], "ro": ["Deschisă în 1884.", "Faimoasă pentru acustica sa excelentă."], "en": ["Opened in 1884.", "Famous for its excellent acoustics."]},
+  
+    descriptionAdvanced: {
+      "de": "Die Ungarische Staatsoper an der Andrássy-Straße ist ein architektonisches Juwel der Neorenaissance und eines der schönsten Opernhäuser weltweit. Entworfen von Miklós Ybl, wurde das Gebäude 1884 im Beisein von Kaiser Franz Joseph I. feierlich eröffnet. Das prachtvolle Innere besticht durch reich vergoldete Logen, Deckenfresken bedeutender ungarischer Maler und einen riesigen Kronleuchter. Die Akustik des Hauses gilt als eine der besten in Europa und zieht internationale Spitzenkünstler und ein begeistertes Publikum an. Ein Besuch einer Vorstellung oder eine Führung durch die glanzvollen Säle vermittelt den aristokratischen Glanz der Budapester Blütezeit.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Die Wiener Expertenkommission stufte die Akustik der Oper als drittbeste in Europa ein.", "Gustav Mahler wirkte hier mehrere Jahre als künstlerischer Direktor.", "Das Gebäude wurde im Jahr 2022 nach einer umfassenden Restaurierung wiedereröffnet.", "Die Oper besitzt den zweitgrößten Vorhang in ganz Europa."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "csodak-palotaja",
@@ -4667,7 +7277,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Palast der Wunder", "hu": "Csodák Palotája", "ro": "Palatul Minunilor", "en": "Center of Scientific Wonders"},
     image: "/geo-images/hungary/csodak-palotaja.webp",
     description: {"de": "Ein interaktives Wissenschaftszentrum, das spielerisch Wissen vermittelt.", "hu": "Interaktív tudományos központ, amely játékosan adja át az ismereteket.", "ro": "Un centru științific interactiv care transmite cunoștințe în mod ludic.", "en": "An interactive science center that imparts knowledge playfully."},
-    facts: {"de": ["Das erste seiner Art in Mitteleuropa.", "Bietet über 250 interaktive Spiele."], "hu": ["Az első ilyen jellegű intézmény Közép-Európában.", "Több mint 250 interaktív játékot kínál."], "ro": ["Primul de acest fel din Europa Centrală.", "Oferă peste 250 de jocuri interactive."], "en": ["The first of its kind in Central Europe.", "Offers over 250 interactive games."]}
+    facts: {"de": ["Das erste seiner Art in Mitteleuropa.", "Bietet über 250 interaktive Spiele."], "hu": ["Az első ilyen jellegű intézmény Közép-Európában.", "Több mint 250 interaktív játékot kínál."], "ro": ["Primul de acest fel din Europa Centrală.", "Oferă peste 250 de jocuri interactive."], "en": ["The first of its kind in Central Europe.", "Offers over 250 interactive games."]},
+  
+    descriptionAdvanced: {
+      "de": "Der Palast der Wunder (Csodák Palotája) in Budapest ist das erste interaktive wissenschaftliche Erlebniszentrum in Mittel- und Osteuropa. Auf einer riesigen Fläche bietet das Zentrum über 250 Spiele und Experimente, die physikalische und naturwissenschaftliche Gesetzmäßigkeiten spielerisch vermitteln. Besucher aller Altersgruppen können hier Naturphänomene hautnah erleben, von der Optik über die Mechanik bis hin zur Weltraumforschung. Regelmäßige spektakuläre Wissenschaftsshows in den Laboren begeistern das Publikum mit Experimenten zum Mitmachen. Der Palast der Wunder ist der ideale Ort für Familien, um die Welt der Wissenschaft mit Spaß und Staunen zu entdecken.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Der Csodák Palotája wurde 1995 als Pionierprojekt in Ungarn gegründet.", "Das Zentrum bietet Themenbereiche von der Nanotechnologie bis zum Magnetismus.", "Es ist eines der beliebtesten außerschulischen Bildungszentren in der ungarischen Hauptstadt.", "In den 5D- und 9D-Kinos können Besucher virtuelle Reisen durch die Wissenschaft erleben."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "boldogko-var-b2",
@@ -4677,7 +7300,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Burg Boldogkő", "hu": "Boldogkői vár", "ro": "Cetatea Boldogkő", "en": "Boldogkő Castle"},
     image: "/geo-images/hungary/boldogko-var.webp",
     description: {"de": "Mittelalterliche Burg auf einem markanten Felsen im Zemplén-Gebirge.", "hu": "Középkori vár a Zempléni-hegység egyik meredek szikláján.", "ro": "Cetate medievală situată pe o stâncă abruptă în munții Zemplén.", "en": "Medieval castle perched on a steep rock in the Zemplén Mountains."},
-    facts: {"de": ["Bekannt für den hölzernen Wehrgang.", "Beherbergt eine große Zinnfigurenausstellung."], "hu": ["Híres a sziklán futó fapadlós gyilokjáróról.", "Itt található az ország egyik legnagyobb ólomkatona-kiállítása."], "ro": ["Cunoscută pentru galeria sa de lemn pe stâncă.", "Găzduiește o mare expoziție de soldăței de plumb."], "en": ["Famous for its wooden walkway on the rock.", "Home to a large exhibition of tin soldiers."]}
+    facts: {"de": ["Bekannt für den hölzernen Wehrgang.", "Beherbergt eine große Zinnfigurenausstellung."], "hu": ["Híres a sziklán futó fapadlós gyilokjáróról.", "Itt található az ország egyik legnagyobb ólomkatona-kiállítása."], "ro": ["Cunoscută pentru galeria sa de lemn pe stâncă.", "Găzduiește o mare expoziție de soldăței de plumb."], "en": ["Famous for its wooden walkway on the rock.", "Home to a large exhibition of tin soldiers."]},
+  
+    descriptionAdvanced: {
+      "de": "Die Burg Boldogkő im Zemplén-Gebirge thront spektakulär auf einem schmalen, schiffartigen Felsrücken und ist eine der romantischsten Burgen Ungarns. Der markanteste Teil der Anlage ist die sogenannte 'Löwenkammer' auf dem Felssporn, von der aus man einen weiten Blick über das Hernád-Tal hat. Die im 13. Jahrhundert errichtete Festung beherbergt heute interessante Ausstellungen zur Militärgeschichte und eine einzigartige Zinnfigurensammlung. In den Sommermonaten finden in der Burg regelmäßig historische Ritterspiele und mittelalterliche Festmahle statt. Die ungewöhnliche Form der Burg und die unberührte Landschaft der Umgebung machen Boldogkő zu einem Geheimtipp für Entdecker.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Die Burg Boldogkő steht auf einem vulkanischen Felsrücken im Zemplén-Gebirge.", "Der Name 'Boldogkő' bedeutet übersetzt etwa 'Glücklicher Stein'.", "Die Burg beherbergt die größte Zinnfigurensammlung Mitteleuropas.", "Ein markanter Holzsteg führt entlang des schmalen Felsgrates zur Aussichtsplattform."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "fuzer-var-b2",
@@ -4687,7 +7323,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Burg Füzér", "hu": "Füzéri vár", "ro": "Cetatea Füzér", "en": "Füzér Castle"},
     image: "/geo-images/hungary/fuzer-var.webp",
     description: {"de": "Spektakulär restaurierte Höhenburg auf einem vulkanischen Gipfel.", "hu": "Látványosan felújított hegyi vár egy vulkáni kúpon.", "ro": "Cetate montană restaurată spectaculos pe un con vulcanic.", "en": "Spectacularly restored hilltop castle on a volcanic cone."},
-    facts: {"de": ["Eine der ersten Steinburgen des Landes.", "Bewahrte einst die ungarische Heilige Krone."], "hu": ["Az ország egyik legkorábbi kővára.", "Egykor itt őrizték a Szent Koronát."], "ro": ["Una dintre primele cetăți de piatră din țară.", "Aici a fost păstrată odată Sfânta Coroană."], "en": ["One of the country's earliest stone castles.", "The Holy Crown was once kept here."]}
+    facts: {"de": ["Eine der ersten Steinburgen des Landes.", "Bewahrte einst die ungarische Heilige Krone."], "hu": ["Az ország egyik legkorábbi kővára.", "Egykor itt őrizték a Szent Koronát."], "ro": ["Una dintre primele cetăți de piatră din țară.", "Aici a fost păstrată odată Sfânta Coroană."], "en": ["One of the country's earliest stone castles.", "The Holy Crown was once kept here."]},
+  
+    descriptionAdvanced: {
+      "de": "Die Burg Füzér im äußersten Norden Ungarns thront majestätisch auf einem steilen Vulkankegel und gilt als eine der spektakulärsten rekonstruierten Festungen des Landes. Die im 13. Jahrhundert gegründete Burg spielte eine wichtige Rolle in der ungarischen Geschichte und bewahrte nach der Schlacht von Mohács ein Jahr lang die ungarische Stephanskrone auf. In den letzten Jahren wurde die Oberburg mit ihrer prachtvollen gotischen Kapelle und dem Palastflügel aufwendig und detailgetreu wiederaufgebaut. Besucher können heute in originalgetreu eingerichteten Räumen in das Leben des 16. und 17. Jahrhunderts eintauchen. Die Lage im Zemplén-Gebirge bietet zudem fantastische Wandermöglichkeiten und unberührte Naturerlebnisse.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Die Burg Füzér war eine der ersten steinernen Festungen in Ungarn.", "In der Burgkapelle wurde 1526-27 die ungarische Heilige Krone vor den Türken versteckt.", "Die Burg wurde aufgrund ihrer strategischen Lage und Schönheit zum Naturwunder gewählt.", "Der Aufstieg zur Burg bietet ein Panorama über das gesamte Hegyköz-Gebiet."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "sirok-var",
@@ -4697,7 +7346,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Burg Sirok", "hu": "Siroki vár", "ro": "Cetatea Sirok", "en": "Sirok Castle"},
     image: "/geo-images/hungary/sirok-var.webp",
     description: {"de": "Ungarns am besten erhaltene in den Fels gehauene Höhlenburg.", "hu": "Magyarország legjelentősebb barlang- és sziklavára a Mátra keleti részén.", "ro": "Cea mai bine conservată cetate săpată în stâncă din Ungaria.", "en": "Hungary's best-preserved cave and rock castle in the Mátra."},
-    facts: {"de": ["Verfügt über ein weitläufiges Tunnelsystem.", "Bietet Panoramablick auf die Mátra."], "hu": ["Kiterjedt földalatti kazamata-rendszerrel bír.", "Pazar kilátást nyújt a Mátrára."], "ro": ["Are un sistem extins de tuneluri subterane.", "Oferă vedere panoramică asupra munților Mátra."], "en": ["Features an extensive underground tunnel system.", "Offers panoramic views of the Mátra."]}
+    facts: {"de": ["Verfügt über ein weitläufiges Tunnelsystem.", "Bietet Panoramablick auf die Mátra."], "hu": ["Kiterjedt földalatti kazamata-rendszerrel bír.", "Pazar kilátást nyújt a Mátrára."], "ro": ["Are un sistem extins de tuneluri subterane.", "Oferă vedere panoramică asupra munților Mátra."], "en": ["Features an extensive underground tunnel system.", "Offers panoramic views of the Mátra."]},
+  
+    descriptionAdvanced: {
+      "de": "Die Burg von Sirok ist die am spektakulärsten gelegene Felsenburg im Mátra-Gebirge, teilweise direkt in den weichen Tuffstein gehauen. Die Ruinen thronen auf einem hohen Felsrücken und bieten ein Labyrinth aus unterirdischen Gängen, Hallen und Verteidigungsanlagen, die in den Stein gemeißelt wurden. Besonders markant sind die bizarren Felsformationen in der Umgebung der Burg, die sogenannten 'Barát' und 'Apáca' (Mönch und Nonne), um die sich zahlreiche Legenden ranken. Ein gut ausgebauter Lehrpfad führt Besucher durch die Geschichte der Festung und zu den schönsten Aussichtspunkten über die bewaldeten Hänge der Mátra. Sirok ist ein Ort von wildromantischer Schönheit, der die Verbindung von Natur und mittelalterlicher Wehrarchitektur zeigt.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Große Teile der Burg Sirok wurden direkt aus dem vulkanischen Felsgestein gehauen.", "Die Burg war im 16. Jahrhundert ein wichtiger Vorposten gegen die osmanische Expansion.", "Unter der Burg erstreckt sich ein weitläufiges System aus künstlichen Felsenhöhlen.", "Von den Burgmauern aus kann man bis zum fernen Bükk-Gebirge blicken."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "sumeg-var-b2",
@@ -4707,7 +7369,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Burg Sümeg", "hu": "Sümegi vár", "ro": "Cetatea Sümeg", "en": "Sümeg Castle"},
     image: "/geo-images/hungary/sumeg-var.webp",
     description: {"de": "Imposante Festung, die über der Stadt Sümeg auf einem Hügel thront.", "hu": "Impozáns erődítmény, amely a Balaton-felvidék kapujában magasodik.", "ro": "Fortăreață impunătoare care domină orașul Sümeg de pe un deal.", "en": "Imposing fortress towering over the town of Sümeg on a hill."},
-    facts: {"de": ["Berühmt für historische Ritterspiele.", "Widerstand erfolgreich osmanischen Belagerungen."], "hu": ["Híres a látványos lovagi tornáiról.", "Sikeresen ellenállt a török ostromoknak."], "ro": ["Faimoasă pentru jocurile cavalerești istorice.", "A rezistat cu succes asediilor otomane."], "en": ["Famous for historical knight tournaments.", "Successfully resisted Ottoman sieges."]}
+    facts: {"de": ["Berühmt für historische Ritterspiele.", "Widerstand erfolgreich osmanischen Belagerungen."], "hu": ["Híres a látványos lovagi tornáiról.", "Sikeresen ellenállt a török ostromoknak."], "ro": ["Faimoasă pentru jocurile cavalerești istorice.", "A rezistat cu succes asediilor otomane."], "en": ["Famous for historical knight tournaments.", "Successfully resisted Ottoman sieges."]},
+  
+    descriptionAdvanced: {
+      "de": "Die Burg Sümeg thront majestätisch auf einem steilen Kalksteinfelsen über der gleichnamigen Stadt und gilt als eine der besterhaltenen Festungen Ungarns. Im 13. Jahrhundert nach dem Tatarensturm errichtet, diente sie über Jahrhunderte als wichtiger Verteidigungsposten. Besonders markant ist der mächtige Alte Turm und die weitläufigen Burgmauern, die die gesamte Bergkuppe umschließen. Heute ist die Burg ein lebendiges Zentrum für mittelalterliche Kultur, bekannt für ihre spektakulären Ritterspiele und historischen Vorführungen. Von der Burg aus bietet sich ein herrlicher Blick über das Tapolcaer Becken bis hin zum Plattensee.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Die Burg Sümeg ist eine der am besten erhaltenen mittelalterlichen Festungen des Landes.", "In der Burg werden regelmäßig historische Burgspiele und Ritterturniere veranstaltet.", "Die Anlage besitzt ein eigenes Waffenmuseum und eine Folterkammer.", "Vom Burgberg aus kann man bei gutem Wetter bis zum Plattensee blicken."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "somlo-var",
@@ -4717,7 +7392,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Burg Somló", "hu": "Somlói vár", "ro": "Cetatea Somló", "en": "Somló Castle"},
     image: "/geo-images/hungary/somlo-var.webp",
     description: {"de": "Malerische Burgruine auf dem vulkanischen Berg Somló.", "hu": "Regényes várrom a Somló vulkanikus tanúhegyének tetején.", "ro": "Ruine pitorești ale cetății pe muntele vulcanic Somló.", "en": "Picturesque castle ruins on the volcanic Somló mountain."},
-    facts: {"de": ["Umgeben von berühmten Weinbergen.", "Ein beliebtes Ziel für Wanderer."], "hu": ["Híres borvidék veszi körül.", "Kedvelt kirándulóhely a túrázók körében."], "ro": ["Înconjurată de podgorii faimoase.", "O destinație populară pentru drumeți."], "en": ["Surrounded by famous vineyards.", "A popular destination for hikers."]}
+    facts: {"de": ["Umgeben von berühmten Weinbergen.", "Ein beliebtes Ziel für Wanderer."], "hu": ["Híres borvidék veszi körül.", "Kedvelt kirándulóhely a túrázók körében."], "ro": ["Înconjurată de podgorii faimoase.", "O destinație populară pentru drumeți."], "en": ["Surrounded by famous vineyards.", "A popular destination for hikers."]},
+  
+    descriptionAdvanced: {
+      "de": "Die Burgruine Somló liegt auf dem gleichnamigen Zeugenberg, der vor allem für seinen exzellenten Weißwein bekannt ist. Die im 14. Jahrhundert errichtete Festung schmiegt sich an die steilen Basaltwände des Berges und bietet ein faszinierendes Labyrinth aus Mauern und Türmen. Trotz ihres Ruinenzustands vermittelt die Anlage noch heute die strategische Bedeutung, die sie einst für den Schutz der Region hatte. Der Aufstieg zur Burg führt durch die berühmten Weinhänge von Somló, wo der 'Wein der Hochzeitsnächte' wächst. Von den Ruinen aus genießt man einen weiten Panoramablick über die ungarische Tiefebene.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Der Somló-Berg ist der kleinste Weinbauort Ungarns, aber weltberühmt für seine Qualität.", "Die Burg war einst im Besitz bedeutender ungarischer Adelsfamilien wie der Erdődys.", "Der Weg zur Burg führt an bizarren Basaltformationen vulkanischen Ursprungs vorbei.", "Die Ruine ist ein beliebtes Ziel für Wanderer und Weinliebhaber gleichermaßen."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "nagyvazsony-kinizsi-var",
@@ -4727,7 +7415,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Kinizsi-Burg", "hu": "Nagyvázsonyi Kinizsi-vár", "ro": "Cetatea Kinizsi", "en": "Kinizsi Castle"},
     image: "/geo-images/hungary/nagyvazsony-var.webp",
     description: {"de": "Historische Burg, die einst dem legendären Paul Kinizsi gehörte.", "hu": "A legendás verhetetlen hadvezér, Kinizsi Pál egykori vára.", "ro": "Cetate istorică care a aparținut legendarului Paul Kinizsi.", "en": "Historic castle once owned by the legendary Paul Kinizsi."},
-    facts: {"de": ["Besitzt einen markanten Wohnturm.", "Veranstaltet im Sommer Ritterspiele."], "hu": ["Jellegzetes, magas lakótoronnyal rendelkezik.", "Nyáron lovagi játékokat rendeznek a várudvaron."], "ro": ["Are un turn de locuință proeminent.", "Găzduiește jocuri cavalerești în timpul verii."], "en": ["Has a distinctive residential tower.", "Hosts knightly tournaments in the summer."]}
+    facts: {"de": ["Besitzt einen markanten Wohnturm.", "Veranstaltet im Sommer Ritterspiele."], "hu": ["Jellegzetes, magas lakótoronnyal rendelkezik.", "Nyáron lovagi játékokat rendeznek a várudvaron."], "ro": ["Are un turn de locuință proeminent.", "Găzduiește jocuri cavalerești în timpul verii."], "en": ["Has a distinctive residential tower.", "Hosts knightly tournaments in the summer."]},
+  
+    descriptionAdvanced: {
+      "de": "Die Burg von Nagyvázsony, auch als Kinizsi-Burg bekannt, ist eng mit dem legendären Heerführer Paul Kinizsi verbunden. Paul Kinizsi, berühmt für seine unglaubliche Kraft und Tapferkeit in den Schlachten gegen die Osmanen, erhielt die Burg von König Matthias Corvinus als Geschenk. Der markante quadratische Wohnturm ist bis heute erhalten und beherbergt ein interessantes Burgmuseum. In den Sommermonaten werden im Burghof regelmäßig mittelalterliche Spiele veranstaltet, die an die Heldentaten Kinizsis erinnern. Nagyvázsony liegt am Fuße des Bakony-Gebirges und bewahrt eine ruhige, historische Atmosphäre.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Paul Kinizsi war ein unbesiegbarer Feldherr des schwarzen Heeres von König Matthias.", "Der fünfstöckige Wohnturm ist eines der besterhaltenen Beispiele spätgotischer Profanarchitektur.", "Im Burgmuseum werden persönliche Gegenstände und Rüstungen aus der Kinizsi-Zeit gezeigt.", "Jährlich finden hier die Kinizsi-Tage mit spektakulären Reiter- und Kampfvorführungen statt."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "szerencs-var",
@@ -4737,7 +7438,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Burg Szerencs", "hu": "Szerencsi vár", "ro": "Cetatea Szerencs", "en": "Szerencs Castle"},
     image: "/geo-images/hungary/szerencs-var.webp",
     description: {"de": "Renaissanceschloss im Herzen der Schokoladenstadt Szerencs.", "hu": "Reneszánsz várkastély a csokoládé városának szívében.", "ro": "Castel renascentist în inima orașului ciocolatei, Szerencs.", "en": "Renaissance castle in the heart of the chocolate town, Szerencs."},
-    facts: {"de": ["Sitz des Zemplén-Museums.", "Verbunden mit dem Fürsten Bocskai."], "hu": ["A Zempléni Múzeumnak ad otthont.", "Bocskai István fejedelemmel fonódott össze a múltja."], "ro": ["Sediul Muzeului Zemplén.", "Legată de principele Bocskai."], "en": ["Home to the Zemplén Museum.", "Connected with Prince Bocskai."]}
+    facts: {"de": ["Sitz des Zemplén-Museums.", "Verbunden mit dem Fürsten Bocskai."], "hu": ["A Zempléni Múzeumnak ad otthont.", "Bocskai István fejedelemmel fonódott össze a múltja."], "ro": ["Sediul Muzeului Zemplén.", "Legată de principele Bocskai."], "en": ["Home to the Zemplén Museum.", "Connected with Prince Bocskai."]},
+  
+    descriptionAdvanced: {
+      "de": "Die Burg Szerencs im Nordosten Ungarns ist ein bedeutendes Baudenkmal der Spätrenaissance und eng mit der Geschichte der Familie Rákóczi verknüpft. Die Stadt Szerencs gilt als das Tor zum Weinbaugebiet Hegyalja und war im 17. Jahrhundert ein wichtiger Schauplatz politischer Versammlungen. Die Burg wurde auf den Fundamenten eines Klosters errichtet und besticht heute durch ihre harmonische Architektur und den umliegenden See. Im Inneren befindet sich das Zemplén-Museum, das eine der größten Postkartensammlungen der Welt sowie Ausstellungen zur Schokoladenherstellung beherbergt. Die Burg strahlt eine vornehme Ruhe aus und ist ein kulturelles Zentrum der Region.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Die Burg Szerencs war im Jahr 1605 der Ort der Wahl von István Bocskai zum Fürsten.", "Das städtische Museum beherbergt eine Postkartensammlung mit über einer Million Exemplaren.", "Szerencs ist historisch für seine traditionsreiche Zucker- und Schokoladenindustrie bekannt.", "Die Burganlage ist von einem malerischen Wassergraben und einem Park umgeben."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "koszeg-jurisics-var",
@@ -4747,7 +7461,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Jurisics-Burg", "hu": "Kőszegi Jurisics-vár", "ro": "Cetatea Jurisics", "en": "Jurisics Castle"},
     image: "/geo-images/hungary/koszeg-var.webp",
     description: {"de": "Geschichtsträchtige Burg, die 1532 den Vormarsch der Osmanen stoppte.", "hu": "Történelmi vár, mely 1532-ben megállította a török sereget.", "ro": "Cetate istorică ce a oprit avansul otomanilor în 1532.", "en": "Historic castle that stopped the Ottoman advance in 1532."},
-    facts: {"de": ["In Kőszeg läuten die Glocken um 11 Uhr.", "Wahrzeichen der Grenzstadt Kőszeg."], "hu": ["Kőszegen 11 órakor is szólnak a harangok.", "A határmenti kisváros jelképe."], "ro": ["În Kőszeg clopotele bat și la ora 11.", "Simbolul orașului de graniță Kőszeg."], "en": ["Bells ring at 11 AM in Kőszeg.", "Symbol of the border town Kőszeg."]}
+    facts: {"de": ["In Kőszeg läuten die Glocken um 11 Uhr.", "Wahrzeichen der Grenzstadt Kőszeg."], "hu": ["Kőszegen 11 órakor is szólnak a harangok.", "A határmenti kisváros jelképe."], "ro": ["În Kőszeg clopotele bat și la ora 11.", "Simbolul orașului de graniță Kőszeg."], "en": ["Bells ring at 11 AM in Kőszeg.", "Symbol of the border town Kőszeg."]},
+  
+    descriptionAdvanced: {
+      "de": "Die Burg Jurisics in Kőszeg ist ein nationales Symbol für Tapferkeit und Ausdauer in Ungarn. Im Jahr 1532 hielt hier eine kleine Gruppe von Verteidigern unter dem Kommando von Nikolaus Jurisics einer gewaltigen osmanischen Übermacht stand. Zu Ehren dieses Sieges läuten in Kőszeg bis heute täglich um 11 Uhr die Kirchenglocken. Die Burganlage selbst vereint Elemente der Gotik und der Renaissance und beherbergt heute das Jurisics-Burgmuseum. Besucher können die Wehrgänge, den Rittersaal und die historischen Ausstellungen erkunden, die die Geschichte der 'treuesten Stadt' lebendig werden lassen. Kőszeg bewahrt durch seine Burg und die Altstadt ein fast unversehrtes mittelalterliches Flair.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Die Belagerung von Kőszeg 1532 dauerte 25 Tage und verhinderte einen Angriff auf Wien.", "Das tägliche 11-Uhr-Läuten in Kőszeg erinnert an den Abzug der türkischen Truppen.", "In der Burg ist ein bedeutendes Archiv mit Dokumenten zur Regionalgeschichte untergebracht.", "Der Burghof dient im Sommer als stimmungsvolle Kulisse für Theateraufführungen."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "simontornya-var",
@@ -4757,7 +7484,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Burg Simontornya", "hu": "Simontornyai vár", "ro": "Cetatea Simontornya", "en": "Simontornya Castle"},
     image: "/geo-images/hungary/simontornya-var.webp",
     description: {"de": "Prächtiges Renaissanceschloss mit einer wechselvollen Geschichte.", "hu": "Pazar reneszánsz palotaszárnyakkal díszített alföldi vár.", "ro": "Castel renascentist splendid cu o istorie bogată.", "en": "Splendid Renaissance castle with a rich history."},
-    facts: {"de": ["Einst eine wichtige Festung an der Sió.", "Besitzt schöne Terrakotta-Verzierungen."], "hu": ["Valaha a Sió menti védelmi vonal része volt.", "Gyönyörű reneszánsz faragványok díszítik."], "ro": ["Odată o fortăreață importantă pe râul Sió.", "Are frumoase decorațiuni din teracotă."], "en": ["Once an important fortress along the Sió.", "Features beautiful terracotta decorations."]}
+    facts: {"de": ["Einst eine wichtige Festung an der Sió.", "Besitzt schöne Terrakotta-Verzierungen."], "hu": ["Valaha a Sió menti védelmi vonal része volt.", "Gyönyörű reneszánsz faragványok díszítik."], "ro": ["Odată o fortăreață importantă pe râul Sió.", "Are frumoase decorațiuni din teracotă."], "en": ["Once an important fortress along the Sió.", "Features beautiful terracotta decorations."]},
+  
+    descriptionAdvanced: {
+      "de": "Die Burg von Simontornya im Komitat Tolna ist ein faszinierendes Beispiel für den Wandel einer mittelalterlichen Festung in einen Renaissance-Palast. Der Name 'Simon-Turm' geht auf den ersten Erbauer im 13. Jahrhundert zurück, doch ihre architektonische Blütezeit erlebte die Burg unter der Familie Buzlay in der Renaissance. Besonders sehenswert sind die prächtigen Terrakotta-Verzierungen und die harmonisch gestalteten Arkaden des Innenhofs. Trotz späterer Umbauten und Beschädigungen während der Türkenkriege strahlt die Burg noch heute eine vornehme Eleganz aus. Heute beherbergt sie ein interessantes Museum, das die Architekturgeschichte des Gebäudes und archäologische Funde aus der Umgebung präsentiert.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Simontornya besitzt eines der schönsten Renaissance-Tore in ganz Ungarn.", "Die Burg wurde während der Türkenherrschaft als Sitz eines Sandschaks genutzt.", "In der Burgkapelle sind wertvolle Freskenreste aus dem Mittelalter zu sehen.", "Der Wohnturm der Burg bietet einen weiten Blick über die Landschaft des Sárvíz-Tals."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "varpalota-thury-var",
@@ -4767,7 +7507,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Thury-Burg", "hu": "Várpalotai Thury-vár", "ro": "Cetatea Thury", "en": "Thury Castle"},
     image: "/geo-images/hungary/varpalota-var.webp",
     description: {"de": "Mittelalterliche Festung im Zentrum von Várpalota.", "hu": "Középkori erődítmény Várpalota városának szívében.", "ro": "Fortăreață medievală în centrul orașului Várpalota.", "en": "Medieval fortress in the center of Várpalota."},
-    facts: {"de": ["Benannt nach Kapitän György Thury.", "Beherbergt ein Chemie-Museum."], "hu": ["Thury György várkapitány nevét viseli.", "Itt található a Vegyészeti Múzeum."], "ro": ["Numită după căpitanul György Thury.", "Găzduiește un muzeu al chimiei."], "en": ["Named after Captain György Thury.", "Houses a chemistry museum."]}
+    facts: {"de": ["Benannt nach Kapitän György Thury.", "Beherbergt ein Chemie-Museum."], "hu": ["Thury György várkapitány nevét viseli.", "Itt található a Vegyészeti Múzeum."], "ro": ["Numită după căpitanul György Thury.", "Găzduiește un muzeu al chimiei."], "en": ["Named after Captain György Thury.", "Houses a chemistry museum."]},
+  
+    descriptionAdvanced: {
+      "de": "Die Burg Thury in Várpalota ist benannt nach ihrem berühmtesten Verteidiger, dem legendären Burgkapitän Georg Thury. Thury war bekannt für seine unzähligen siegreichen Zweikämpfe gegen türkische Krieger und seine Standhaftigkeit in den Grenzkriegen des 16. Jahrhunderts. Die Burg selbst ist eine mächtige quadratische Festung mit Ecktürmen, die im Laufe der Jahrhunderte mehrfach umgebaut wurde. Heute beherbergt die Burg das Ungarische Chemische Museum und eine Ausstellung zur Geschichte des ungarischen Handwerks. Die Burganlage bildet das Herz der Stadt Várpalota und erinnert an die Zeit, als sie ein wichtiger Vorposten im Kampf gegen die osmanische Expansion war. Regelmäßige Veranstaltungen halten das Andenken an Georg Thury und seine Epoche wach.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Georg Thury, der 'ungarische Cid', besiegte laut Legende über 600 Gegner im Zweikampf.", "Die Burg Várpalota war eine der wichtigsten Grenzfestungen im Bakony-Gebiet.", "Im Inneren befindet sich eine weltweit bedeutende Sammlung historischer Bergbaukarten.", "Der Renaissance-Hof der Burg ist ein architektonisches Highlight der Anlage."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "szelce-volgy",
@@ -4777,7 +7530,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Szelce-Tal", "hu": "Szelce-völgy", "ro": "Valea Szelce", "en": "Szelce Valley"},
     image: "/geo-images/hungary/szelce-volgy.webp",
     description: {"de": "Unberührtes Tal in Nordungarn mit dichter Waldlandschaft.", "hu": "Érintetlen északi völgy dús erdőkkel és friss levegővel.", "ro": "Vale neatinsă în nordul Ungariei cu păduri dese.", "en": "Pristine valley in North Hungary with dense forest landscape."},
-    facts: {"de": ["Einzigartige Gebirgsflora.", "Ideal für ruhige Naturwanderungen."], "hu": ["Különleges hegyi flórával rendelkezik.", "Tökéletes hely a csendes erdei túrákhoz."], "ro": ["Floră montană unică.", "Ideală pentru drumeții liniștite în natură."], "en": ["Unique mountain flora.", "Ideal for quiet nature hikes."]}
+    facts: {"de": ["Einzigartige Gebirgsflora.", "Ideal für ruhige Naturwanderungen."], "hu": ["Különleges hegyi flórával rendelkezik.", "Tökéletes hely a csendes erdei túrákhoz."], "ro": ["Floră montană unică.", "Ideală pentru drumeții liniștite în natură."], "en": ["Unique mountain flora.", "Ideal for quiet nature hikes."]},
+  
+    descriptionAdvanced: {
+      "de": "Das Szelce-Tal ist eines der versteckten Naturjuwele im Nationalpark Aggtelek, bekannt für seine unberührte Stille und tiefe Täler. Fernab der Haupttouristenströme bietet das Tal ideale Bedingungen für Wanderer, die die authentische Wildnis der nordungarischen Karstlandschaft erleben möchten. Die Region ist geprägt von dichten Wäldern, seltenen Bergpflanzen und einer artenreichen Fauna, zu der auch Rehe und Wildschweine gehören. Das Tal ist zudem reich an geologischen Formationen, die typisch für die Karstregion sind, wie kleine Quellen und Dolinen. Im Herbst verwandelt sich der Wald in ein farbenprächtiges Meer aus Rot- und Goldtönen. Szelce-völgy ist der perfekte Ort für Naturliebhaber, die Ruhe und Entspannung in einer fast archaischen Umgebung suchen.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Szelce-Tal gehört zum grenzüberschreitenden UNESCO-Weltnaturerbe Aggtelek.", "In dem Gebiet wurden bereits Spuren von Wölfen und Luchsen gesichtet.", "Es ist eines der dunkelsten Gebiete Ungarns, ideal zur Sternenbeobachtung.", "Zahlreiche markierte Wanderwege verbinden das Tal mit den berühmten Höhlen von Aggtelek."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "palvolgyi-barlang",
@@ -4787,7 +7553,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Pálvölgyi-Höhle", "hu": "Pálvölgyi-barlang", "ro": "Peștera Pálvölgyi", "en": "Pálvölgyi Cave"},
     image: "/geo-images/hungary/palvolgyi-barlang.webp",
     description: {"de": "Die längste Höhle in den Budaer Bergen mit tollen Formationen.", "hu": "A Budai-hegység leghosszabb, látványos cseppköves barlangja.", "ro": "Cea mai lungă peșteră din munții Budapesta cu formațiuni superbe.", "en": "The longest cave in the Buda Hills with amazing formations."},
-    facts: {"de": ["Bekannt für bizarre Tropfsteine.", "Konstante Temperatur von 11 Grad."], "hu": ["Különleges cseppkőformációiról ismert.", "Hőmérséklete állandóan 11 fok."], "ro": ["Cunoscută pentru stalactite bizare.", "Temperatură constantă de 11 grade."], "en": ["Known for bizarre dripstones.", "Constant temperature of 11 degrees."]}
+    facts: {"de": ["Bekannt für bizarre Tropfsteine.", "Konstante Temperatur von 11 Grad."], "hu": ["Különleges cseppkőformációiról ismert.", "Hőmérséklete állandóan 11 fok."], "ro": ["Cunoscută pentru stalactite bizare.", "Temperatură constantă de 11 grade."], "en": ["Known for bizarre dripstones.", "Constant temperature of 11 degrees."]},
+  
+    descriptionAdvanced: {
+      "de": "Die Pálvölgyi-Höhle ist das längste Höhlensystem von Budapest und eines der faszinierendsten unterirdischen Ziele in der Hauptstadt. Sie wurde 1904 entdeckt und ist bekannt für ihre ungewöhnlich engen Gänge, riesigen Höhenunterschiede und wunderschönen Tropfsteinformationen. In der Höhle können Besucher faszinierende Kalksintergebilde bewundern, die oft an Figuren oder Tiere erinnern, sowie funkelnde Calcit-Kristalle. Die geführten Touren führen durch spektakuläre Hallen wie den 'Theater-Saal' und bieten Einblicke in die geologischen Besonderheiten der Budaer Berge. Die Temperatur in der Höhle liegt ganzjährig bei konstanten 11 Grad, was sie auch im Sommer zu einem erfrischenden Erlebnis macht. Die Pálvölgyi-Höhle ist ein geschütztes Naturdenkmal von europäischer Bedeutung.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Die Pálvölgyi-Höhle ist mit über 31 Kilometern das längste Höhlensystem Ungarns.", "Sie ist weltberühmt für ihre einzigartigen muschelförmigen Tropfsteingebilde.", "In der Höhle befindet sich die steilste begehbare Treppe ungarischer Schauhöhlen.", "Das Höhlensystem ist direkt mit der benachbarten Mátyáshegyi-Höhle verbunden."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "mecsek-hegyseg",
@@ -4797,7 +7576,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Mecsek-Gebirge", "hu": "Mecsek hegység", "ro": "Munții Mecsek", "en": "Mecsek Mountains"},
     image: "/geo-images/hungary/mecsek.webp",
     description: {"de": "Mittelgebirge im Süden mit mediterranem Flair und Höhlen.", "hu": "Déli középhegység mediterrán hangulattal és barlangokkal.", "ro": "Munți de înălțime medie în sud cu aer mediteranean și peșteri.", "en": "Middle mountains in the south with Mediterranean flair and caves."},
-    facts: {"de": ["Höchster Gipfel ist der Zengő.", "Reich an seltenen Pflanzenarten."], "hu": ["Legmagasabb csúcsa a Zengő.", "Ritka növényfajokban rendkívül gazdag."], "ro": ["Cel mai înalt vârf este Zengő.", "Bogați în specii de plante rare."], "en": ["Highest peak is Zengő.", "Rich in rare plant species."]}
+    facts: {"de": ["Höchster Gipfel ist der Zengő.", "Reich an seltenen Pflanzenarten."], "hu": ["Legmagasabb csúcsa a Zengő.", "Ritka növényfajokban rendkívül gazdag."], "ro": ["Cel mai înalt vârf este Zengő.", "Bogați în specii de plante rare."], "en": ["Highest peak is Zengő.", "Rich in rare plant species."]},
+  
+    descriptionAdvanced: {
+      "de": "Das Mecsek-Gebirge im Südwesten Ungarns ist eine facettenreiche Mittelgebirgslandschaft mit einem fast mediterranen Flair. Seine bewaldeten Hänge schützen die Stadt Pécs vor kalten Nordwinden und ermöglichen den Anbau von Feigen und edlen Reben. Das Gebirge beherbergt zahlreiche Naturschätze, darunter tiefe Täler wie das Meleg-mányi-völgy mit seinen Kalktuff-Wasserfällen und markante Gipfel wie den Zengő. Die Region ist zudem bekannt für ihre reichen Vorkommen an Heilkräutern und eine vielfältige Tierwelt, darunter seltene Orchideenarten. Zahlreiche Wanderwege, Aussichtstürme und idyllische Bergdörfer machen das Mecsek-Gebirge zu einem der beliebtesten Erholungsgebiete des Landes. Hier trifft mittelmitteleuropäische Waldnatur auf den Hauch des Südens.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Der höchste Gipfel des Mecsek ist der Zengő mit 682 Metern Höhe.", "Das Gebirge beherbergt die weltweit einzige Population der seltenen Banater Pfingstrose.", "Im Mecsek-Gebirge wurde jahrzehntelang ungarisches Uran und Steinkohle abgebaut.", "Die Region ist berühmt für das Thermalwasser von Harkány und den Wein von Villány."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "balatonfelvideki-np",
@@ -4807,7 +7599,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "NP Balaton-Oberland", "hu": "Balaton-felvidéki Nemzeti Park", "ro": "PN Balatonul de Sus", "en": "Balaton Uplands NP"},
     image: "/geo-images/hungary/balaton-felvidek.webp",
     description: {"de": "Abwechslungsreiche Landschaft mit Vulkanbergen und Lavendel.", "hu": "Változatos táj tanúhegyekkel, barlangokkal és levendulával.", "ro": "Peisaj divers cu munți vulcanici și lavandă.", "en": "Diverse landscape with volcanic hills and lavender fields."},
-    facts: {"de": ["Beinhaltet das Káli-Becken.", "Berühmt für Basaltorgeln."], "hu": ["Magában foglalja a Káli-medencét.", "Híres a bazaltorgonáiról."], "ro": ["Include bazinul Káli.", "Faimos pentru coloanele de bazalt."], "en": ["Includes the Káli Basin.", "Famous for basalt organs."]}
+    facts: {"de": ["Beinhaltet das Káli-Becken.", "Berühmt für Basaltorgeln."], "hu": ["Magában foglalja a Káli-medencét.", "Híres a bazaltorgonáiról."], "ro": ["Include bazinul Káli.", "Faimos pentru coloanele de bazalt."], "en": ["Includes the Káli Basin.", "Famous for basalt organs."]},
+  
+    descriptionAdvanced: {
+      "de": "Der Nationalpark Balaton-Oberland schützt eine der abwechslungsreichsten und geschichtsträchtigsten Landschaften Ungarns am Nordufer des Plattensees. Er umfasst spektakuläre Zeugenberge wie den Badacsony, die Halbinsel Tihany und das malerische Káli-Becken. Die Region ist geprägt von erloschenen Vulkanen, riesigen Basaltorgeln und einer einzigartigen Flora und Fauna, die im Schilfgürtel des Klein-Balaton ein Refugium findet. Neben der Natur bewahrt der Nationalpark auch bedeutende Kulturschätze, von mittelalterlichen Burgruinen bis zu traditionellen Reetdachhäusern. Jedes Dorf im Oberland hat seinen eigenen Charme, oft verbunden mit einer jahrhundertealten Weinbaukultur. Der Nationalpark ist ein Symbol für die harmonische Verbindung von ökologischer Vielfalt und menschlicher Kulturlandschaft.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Der Nationalpark wurde 1997 gegründet und umfasst sechs verschiedene Landschaftsschutzgebiete.", "Die Halbinsel Tihany war das erste geschützte Landschaftsgebiet in ganz Ungarn.", "Der Klein-Balaton ist ein international bedeutendes Feuchtgebiet für Wasservögel.", "Im Káli-Becken befinden sich bizarre Steinmeere, die durch Erosion entstanden sind."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "koros-maros-np",
@@ -4817,7 +7622,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "NP Körös-Maros", "hu": "Körös-Maros Nemzeti Park", "ro": "PN Criș-Mureș", "en": "Körös-Maros NP"},
     image: "/geo-images/hungary/koros-maros-np.webp",
     description: {"de": "Schutzgebiet in der südlichen Tiefebene mit reicher Vogelwelt.", "hu": "Dél-alföldi védett terület gazdag madárvilággal és rétekkel.", "ro": "Zonă protejată în câmpia de sud cu o avifaună bogată.", "en": "Protected area in the southern plains with rich birdlife."},
-    facts: {"de": ["Wichtig für den Trappenschutz.", "Beheimatet alte Haustierrassen."], "hu": ["Fontos túzokvédelmi terület.", "Ősi magyar állatfajták otthona."], "ro": ["Important pentru protecția dropiilor.", "Găzduiește rase vechi de animale."], "en": ["Important for great bustard protection.", "Home to ancient domestic animal breeds."]}
+    facts: {"de": ["Wichtig für den Trappenschutz.", "Beheimatet alte Haustierrassen."], "hu": ["Fontos túzokvédelmi terület.", "Ősi magyar állatfajták otthona."], "ro": ["Important pentru protecția dropiilor.", "Găzduiește rase vechi de animale."], "en": ["Important for great bustard protection.", "Home to ancient domestic animal breeds."]},
+  
+    descriptionAdvanced: {
+      "de": "Der Nationalpark Körös-Maros im Südosten Ungarns schützt die ursprünglichen Steppen- und Flusslandschaften zwischen den Flüssen Körös und Maros. Die Region ist geprägt von weiten Graslandschaften (Puszta), geheimnisvollen Lösswänden und idyllischen Altarmen, die eine reiche Vogelwelt beherbergen. Besonders bekannt ist der Park für seinen Schutz der Großtrappe, eines der schwersten flugfähigen Vögel der Welt, der hier eines seiner wichtigsten Rückzugsgebiete in Europa hat. Die unberührten Flussauen bieten zudem Lebensraum für seltene Pflanzen wie die ungarische Distel und zahlreiche Fischarten. In Zentren wie Szarvas können Besucher die Natur des Parks hautnah erleben und in die Hirtenkultur der Tiefebene eintauchen. Körös-Maros ist ein Ort von stiller Schönheit, der die Weite des ungarischen Horizonts widerspiegelt.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Der Nationalpark bewahrt bedeutende Reste der ursprünglichen Lösssteppe der Tiefebene.", "In der Region Dévaványa befindet sich die größte Großtrappen-Population Mitteleuropas.", "Der Maros-Fluss ist bekannt für seinen Reichtum an seltenen Flussmuscheln.", "Der Park umfasst 13 verschiedene Teilgebiete mit einer Gesamtfläche von über 50.000 Hektar."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "oreg-bakony",
@@ -4827,7 +7645,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Alter Bakony", "hu": "Öreg-Bakony", "ro": "Bakonyul Vechi", "en": "Old Bakony"},
     image: "/geo-images/hungary/bakony.webp",
     description: {"de": "Der Kern des Bakony-Waldes mit dichten Buchenwäldern.", "hu": "A Bakony-erdő szíve dús bükkösökkel és szurdokokkal.", "ro": "Nucleul pădurii Bakony cu făgete dese.", "en": "The core of the Bakony forest with dense beech woods."},
-    facts: {"de": ["Höchster Punkt ist der Kőris-hegy.", "Bekannt für seine Karstphänomene."], "hu": ["Legmagasabb pontja a Kőris-hegy.", "Karsztjelenségeiről nevezetes."], "ro": ["Cel mai înalt punct este Kőris-hegy.", "Cunoscut pentru fenomenele carstice."], "en": ["Highest point is Kőris-hegy.", "Known for its karst phenomena."]}
+    facts: {"de": ["Höchster Punkt ist der Kőris-hegy.", "Bekannt für seine Karstphänomene."], "hu": ["Legmagasabb pontja a Kőris-hegy.", "Karsztjelenségeiről nevezetes."], "ro": ["Cel mai înalt punct este Kőris-hegy.", "Cunoscut pentru fenomenele carstice."], "en": ["Highest point is Kőris-hegy.", "Known for its karst phenomena."]},
+  
+    descriptionAdvanced: {
+      "de": "Der Alte Bakony (Öreg-Bakony) ist der zentrale und wildeste Teil des Bakony-Gebirges, geprägt von dichten Buchenwäldern und tiefen Kalksteinschluchten. Hier befindet sich mit dem Kőris-hegy der höchste Gipfel des Gebirges, von dem aus man an klaren Tagen bis zum Plattensee blicken kann. Die Region ist berühmt für ihre geheimnisvolle Atmosphäre, die einst den berühmten Bakonyer 'Betyáren' (Outlaws) als Versteck diente. Zahlreiche Karstquellen und Höhlen machen den Bakony zu einem spannenden Ziel für Entdecker und Naturfreunde. Historische Orte wie die Abtei Zirc oder die Burg Csesznek liegen eingebettet in diese waldreiche Mittelgebirgslandschaft. Der Öreg-Bakony ist das grüne Herz Transdanubiens und bietet unberührte Naturerlebnisse fernab der Zivilisation.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Der Kőris-hegy ist mit 706 Metern die höchste Erhebung im Bakony-Gebirge.", "Der Name des Gebirges leitet sich wahrscheinlich vom slawischen Wort für 'Buchenwald' ab.", "In den Höhlen des Bakony versteckten sich im 19. Jahrhundert legendäre Gesetzlose.", "Die Cuha-Schlucht ist eines der malerischsten Durchbruchstäler im Alten Bakony."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "zempleni-hegyseg-b2",
@@ -4837,7 +7668,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Zemplén-Gebirge", "hu": "Zempléni-hegység", "ro": "Munții Zemplén", "en": "Zemplén Mountains"},
     image: "/geo-images/hungary/zemplen.webp",
     description: {"de": "Abgelegenes, vulkanisches Gebirge mit vielen Burgen im Nordosten.", "hu": "Északkeleti vulkanikus hegység vadregényes várakkal.", "ro": "Munți vulcanici izolați cu multe cetăți în nord-est.", "en": "Remote volcanic mountains with many castles in the northeast."},
-    facts: {"de": ["Heimat der Tokajer Weine.", "Reich an vulkanischen Formen."], "hu": ["A tokaji borok hazája.", "Vulkanikus formákban gazdag."], "ro": ["Casa vinurilor de Tokaj.", "Bogați în forme vulcanice."], "en": ["Home of the Tokaj wines.", "Rich in volcanic formations."]}
+    facts: {"de": ["Heimat der Tokajer Weine.", "Reich an vulkanischen Formen."], "hu": ["A tokaji borok hazája.", "Vulkanikus formákban gazdag."], "ro": ["Casa vinurilor de Tokaj.", "Bogați în forme vulcanice."], "en": ["Home of the Tokaj wines.", "Rich in volcanic formations."]},
+  
+    descriptionAdvanced: {
+      "de": "Das Zemplén-Gebirge, im äußersten Nordosten Ungarns an der slowakischen Grenze gelegen, ist ein waldreiches Vulkangebirge von herber Schönheit. Es beherbergt einige der einsamsten und unberührtesten Waldgebiete des Landes, in denen heute wieder Wölfe und Luchse heimisch sind. Die Region ist geprägt von markanten Bergkuppen, tiefen Tälern und zahlreichen Burgruinen wie Füzér oder Regéc, die stolz über den Wäldern thronen. Das Zemplén-Gebirge ist zudem untrennbar mit dem Tokajer Weinbau verbunden, da die vulkanischen Böden an seinen Südhängen die Basis für den berühmten Aszú-Wein bilden. Die ruhigen Bergdörfer bewahren oft noch ihre alten Traditionen und bieten eine authentische Gastfreundschaft. Für Wanderer und Naturliebhaber ist das Zemplén-Gebirge ein wahres Paradies am Rande der Karpaten.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Zemplén-Gebirge ist das nördlichste und geologisch jüngste Gebirge Ungarns.", "In den abgelegenen Wäldern wurden in den letzten Jahren wiederholt Braunbären gesichtet.", "Die Region ist bekannt für ihre hochwertigen Eichenhölzer, die für Weinfässer genutzt werden.", "Zahlreiche Wanderwege wie der 'Nationalblaue Weg' (Kéktúra) führen durch das Gebirge."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "pilis-hegyseg",
@@ -4847,7 +7691,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Pilis-Gebirge", "hu": "Pilis hegység", "ro": "Munții Pilis", "en": "Pilis Mountains"},
     image: "/geo-images/hungary/pilis.webp",
     description: {"de": "Wanderparadies nahe Budapest mit Aussichtstürmen und Höhlen.", "hu": "Budapest közeli hegység kilátókkal és barlangokkal.", "ro": "Paradis al drumețiilor lângă Budapesta cu turnuri și peșteri.", "en": "Hiking paradise near Budapest with lookout towers and caves."},
-    facts: {"de": ["Höchster Gipfel ist der Pilis-tető.", "Gilt als spirituelles Zentrum."], "hu": ["Legmagasabb pontja a Pilis-tető.", "Sokan spirituális központnak tartják."], "ro": ["Cel mai înalt vârf este Pilis-tető.", "Considerat un centru spiritual."], "en": ["Highest peak is Pilis-tető.", "Considered a spiritual center."]}
+    facts: {"de": ["Höchster Gipfel ist der Pilis-tető.", "Gilt als spirituelles Zentrum."], "hu": ["Legmagasabb pontja a Pilis-tető.", "Sokan spirituális központnak tartják."], "ro": ["Cel mai înalt vârf este Pilis-tető.", "Considerat un centru spiritual."], "en": ["Highest peak is Pilis-tető.", "Considered a spiritual center."]},
+  
+    descriptionAdvanced: {
+      "de": "Das Pilis-Gebirge, nordwestlich von Budapest am Donauknie gelegen, ist eine sagenumwobene Berglandschaft von großer historischer und spiritueller Bedeutung. Für die frühen Ungarn galt der Pilis als heiliges Zentrum, und heute ziehen Orte wie der Rám-Abgrund (Rám-szakadék) Tausende von Wanderern an. Das Gebirge ist geprägt von steilen Kalksteinwänden, bizarren Felsformationen und zahlreichen Höhlen, die fantastische Ausblicke über die Donauschleife bieten. Der höchste Punkt, der Pilis-Gipfel, bietet ein Panorama von außergewöhnlicher Weite bis hin zu den Gipfeln der Matra. Historisch bedeutsam ist das Zisterzienserkloster in Pilisszentkereszt, das einst ein geistiges Zentrum des ungarischen Mittelalters war. Die Nähe zur Hauptstadt macht den Pilis zum beliebtesten Naherholungsgebiet der Budapester.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Pilis-Gebirge ist Teil des Biosphärenreservats der UNESCO.", "Der Rám-Abgrund ist eine der spektakulärsten und abenteuerlichsten Wanderrouten Ungarns.", "Im Mittelalter war das Gebirge das Jagdrevier der ungarischen Könige.", "Die Dobogókő-Hochebene gilt als einer der wichtigsten energetischen Orte des Landes."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "vertes-hegyseg",
@@ -4857,7 +7714,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Vértes-Gebirge", "hu": "Vértes hegység", "ro": "Munții Vértes", "en": "Vértes Mountains"},
     image: "/geo-images/hungary/vertes.webp",
     description: {"de": "Karstgebirge in Transdanubien mit Ruinen und Wäldern.", "hu": "Dunántúli karszthegység várromokkal és sűrű erdőkkel.", "ro": "Munți carstici în Transdanubia cu ruine și păduri.", "en": "Karst mountains in Transdanubia with ruins and forests."},
-    facts: {"de": ["Wichtige historische Schlachtfelder.", "Reich an Bauxitvorkommen."], "hu": ["Fontos történelmi csaták helyszíne.", "Bauxitlelőhelyekben gazdag."], "ro": ["Locul unor importante bătălii istorice.", "Bogați în zăcăminte de bauxită."], "en": ["Site of important historical battles.", "Rich in bauxite deposits."]}
+    facts: {"de": ["Wichtige historische Schlachtfelder.", "Reich an Bauxitvorkommen."], "hu": ["Fontos történelmi csaták helyszíne.", "Bauxitlelőhelyekben gazdag."], "ro": ["Locul unor importante bătălii istorice.", "Bogați în zăcăminte de bauxită."], "en": ["Site of important historical battles.", "Rich in bauxite deposits."]},
+  
+    descriptionAdvanced: {
+      "de": "Das Vértes-Gebirge ist eine idyllische Mittelgebirgsregion zwischen dem Bakony und dem Gerecse, bekannt für seine unberührten Wälder und geschichtsträchtigen Ruinen. Der Name 'Vértes' (Panzer) erinnert an eine Legende aus dem 11. Jahrhundert, wonach die fliehenden deutschen Ritter ihre Panzerharnische im Gebirge wegwarfen. Die Landschaft ist geprägt von sanften Hügeln, tiefen Karstschluchten und bizarren Dolomitfelsen, die eine reiche Flora und Fauna beherbergen. Ein besonderes Highlight ist die Burgruine Vitányvár, die versteckt im dichten Wald liegt und einen Hauch von Romantik versprüht. Das Gebirge bietet zudem hervorragende Möglichkeiten für Radtouren und ruhige Waldspaziergänge in einer fast unberührten Natur. Die Dörfer am Rande des Vértes, wie Csákvár, bewahren stolz ihr handwerkliches und adeliges Erbe.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Vértes-Gebirge ist eines der am dünnsten besiedelten Gebiete Ungarns.", "Die Region beherbergt seltene submediterrane Pflanzenarten auf den Dolomitfelsen.", "In der Nähe von Gánt befindet sich eine ehemalige Bauxit-Mine mit einer marsähnlichen Landschaft.", "Die Burg Csókakő am Südrand bietet einen weiten Blick über das Móri-Becken."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "gemenc-arter-b2",
@@ -4867,7 +7737,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Gemenc-Aue", "hu": "Gemenc ártér", "ro": "Lunca Gemenc", "en": "Gemenc Floodplain"},
     image: "/geo-images/hungary/gemenc.webp",
     description: {"de": "Einzigartiger Auenwald an der Donau mit reicher Fauna.", "hu": "Egyedülálló ártéri erdő a Duna mentén, vadon élő állatokkal.", "ro": "Pădure de luncă unică pe Dunăre cu o faună bogată.", "en": "Unique floodplain forest along the Danube with rich fauna."},
-    facts: {"de": ["Berühmt für Rotwildbestände.", "Besitzt eine Schmalspurbahn."], "hu": ["Híres a gímszarvas állományáról.", "Erdei kisvasút fut át rajta."], "ro": ["Faimoasă pentru cerbi.", "Are o cale ferată cu ecartament îngust."], "en": ["Famous for its red deer population.", "Has a narrow-gauge forest railway."]}
+    facts: {"de": ["Berühmt für Rotwildbestände.", "Besitzt eine Schmalspurbahn."], "hu": ["Híres a gímszarvas állományáról.", "Erdei kisvasút fut át rajta."], "ro": ["Faimoasă pentru cerbi.", "Are o cale ferată cu ecartament îngust."], "en": ["Famous for its red deer population.", "Has a narrow-gauge forest railway."]},
+  
+    descriptionAdvanced: {
+      "de": "Die Gemencer Aue im Süden Ungarns ist das größte zusammenhängende Überschwemmungsgebiet Mitteleuropas und eine Wildnis von Weltrang. Regelmäßig von den Fluten der Donau überspült, hat sich hier eine archaische Landschaft aus dichten Auwäldern, Totarmen und Schilfgebieten erhalten. Gemenc ist berühmt für seine riesigen Bestände an Rothirschen und Schwarzwild, die hier optimale Lebensbedingungen finden. Auch seltene Vögel wie der Schwarzstorch und der Seeadler brüten in den ungestörten Wipfeln der jahrhundertealten Bäume. Eine Fahrt mit der Gemencer Waldbahn bietet Besuchern die einzigartige Möglichkeit, tief in dieses Labyrinth aus Wasser und Wald einzudringen. Gemenc ist ein lebendiges Beispiel für die Kraft der Natur und ein unersetzlicher Teil des ungarischen Ökosystems.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Die Gemencer Aue ist Teil des Nationalparks Donau-Drau.", "Das Gebiet beherbergt die weltweit höchste Dichte an Schwarzstorch-Nestern.", "Die Donau-Altarme in Gemenc sind ein Paradies für Sportfischer und Naturfotografen.", "Im Winter bietet die Aue eine mystische Kulisse aus Eis und Reif in den Wäldern."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "debreceni-allatkert",
@@ -4877,7 +7760,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Zoo Debrecen", "hu": "Debreceni Állatkert", "ro": "Grădina Zoologică Debrețin", "en": "Debrecen Zoo"},
     image: "/geo-images/hungary/debrecen.webp",
     description: {"de": "Ungarns erster Zoo außerhalb von Budapest, im Großen Wald gelegen.", "hu": "Az ország első vidéki állatkertje a Nagyerdő szívében.", "ro": "Prima grădină zoologică provincială din Ungaria, în Pădurea Mare.", "en": "Hungary's first provincial zoo, located in the Great Forest."},
-    facts: {"de": ["Verbunden mit einem Vergnügungspark.", "Spezialisiert auf exotische Vögel."], "hu": ["Vidámparkkal van összekapcsolva.", "Különleges madárfajokat is bemutat."], "ro": ["Conectată cu un parc de distracții.", "Specializată în păsări exotice."], "en": ["Connected with an amusement park.", "Specializes in exotic bird species."]}
+    facts: {"de": ["Verbunden mit einem Vergnügungspark.", "Spezialisiert auf exotische Vögel."], "hu": ["Vidámparkkal van összekapcsolva.", "Különleges madárfajokat is bemutat."], "ro": ["Conectată cu un parc de distracții.", "Specializată în păsări exotice."], "en": ["Connected with an amusement park.", "Specializes in exotic bird species."]},
+  
+    descriptionAdvanced: {
+      "de": "Der Zoo und Vergnügungspark von Debrecen, im idyllischen Stadtwald (Nagyerdei Kultúrpark) gelegen, war der erste Tierpark Ungarns außerhalb der Hauptstadt. Seit seiner Eröffnung im Jahr 1958 bietet er Besuchern eine charmante Mischung aus Tierbegegnungen und nostalgischer Jahrmarktsatmosphäre. Der Zoo beherbergt eine Vielzahl von Tierarten aus aller Welt, darunter Giraffen, Flusspferde und seltene Affenarten, in einer parkähnlichen Umgebung. Besonders beliebt ist das angrenzende 'Ludas Matyi' Vergnügungsviertel mit seinen historischen Karussells und modernen Fahrgeschäften. Der Tierpark legt großen Wert auf die Umweltbildung und bietet interaktive Programme für Schulklassen und Familien an. Ein Spaziergang durch den Debrecener Zoo ist ein fester Bestandteil jedes Besuchs in der 'kalvinistischen Hauptstadt' Ungarns.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Der Debrecener Zoo war der erste Regionaltiergarten in Ungarn.", "Er liegt inmitten des Großen Stadtwaldes (Nagyerdő), dem ersten Naturschutzgebiet des Landes.", "Der Vergnügungspark beherbergt das einzige noch funktionierende historische Riesenrad Ungarns.", "Der Zoo ist für seine erfolgreiche Zucht seltener exotischer Vogelarten bekannt."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "nyiregyhazi-allatkert",
@@ -4887,7 +7783,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Sóstó Zoo", "hu": "Nyíregyházi Állatkert", "ro": "Grădina Zoologică Nyíregyháza", "en": "Nyíregyháza Zoo"},
     image: "/geo-images/hungary/nyiregyhaza-zoo.webp",
     description: {"de": "Preisgekrönter Tierpark mit naturnahen Gehegen und Ozeanarium.", "hu": "Világszínvonalú állatpark óceanáriummal a Sóstó partján.", "ro": "Parc zoologic premiat cu habitate naturale și oceanariu.", "en": "Award-winning zoo with natural habitats and an oceanarium."},
-    facts: {"de": ["Gilt als einer der besten Europas.", "Beherbergt seltene weiße Tiger."], "hu": ["Európa egyik legjobb állatkertje.", "Ritka fehér tigrisek is élnek itt."], "ro": ["Considerată una dintre cele mai bune din Europa.", "Găzduiește rari tigri albi."], "en": ["Considered one of the best in Europe.", "Home to rare white tigers."]}
+    facts: {"de": ["Gilt als einer der besten Europas.", "Beherbergt seltene weiße Tiger."], "hu": ["Európa egyik legjobb állatkertje.", "Ritka fehér tigrisek is élnek itt."], "ro": ["Considerată una dintre cele mai bune din Europa.", "Găzduiește rari tigri albi."], "en": ["Considered one of the best in Europe.", "Home to rare white tigers."]},
+  
+    descriptionAdvanced: {
+      "de": "Der Sóstó-Zoo in Nyíregyháza gilt als einer der besten und modernsten Tiergärten Europas und ist ein absolutes Highlight im Nordosten Ungarns. In einem 30 Hektar großen Eichenwald untergebracht, bietet der Zoo den Tieren naturnahe und weitläufige Gehege, die nach Kontinenten gegliedert sind. Besonders beeindruckend ist die 'Grüne Pyramide', ein riesiges Tropenhaus mit einem Ozeanarium, in dem Besucher die faszinierende Unterwasserwelt und die Flora und Fauna des Regenwaldes erleben können. Nyíregyháza beherbergt zudem seltene Arten wie Weiße Tiger und Afrikanische Elefanten und ist international für seine Zuchterfolge bekannt. Mit seinen interaktiven Ausstellungen und modernen Informationszentren setzt der Zoo Maßstäbe in Sachen Bildung und Artenschutz. Ein Besuch in Sóstó ist ein unvergessliches Erlebnis für die ganze Familie.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Der Zoo von Nyíregyháza wurde mehrfach zum besten Tiergarten Europas in seiner Kategorie gewählt.", "Die 'Grüne Pyramide' beherbergt das größte Haifischbecken in ganz Mitteleuropa.", "Besucher können im 'Tarzan-Pfad' den Tieren der Savanne über Hängebrücken ganz nah kommen.", "Der Zoo besitzt ein eigenes Hotel direkt auf dem Gelände für ein besonderes Übernachtungserlebnis."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "tropicarium-budapest",
@@ -4897,7 +7806,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Tropicarium", "hu": "Tropicarium Budapest", "ro": "Tropicarium Budapesta", "en": "Tropicarium Budapest"},
     image: "/geo-images/hungary/tropicarium.webp",
     description: {"de": "Das 'Haifisch-Zoo' in Budapest mit einem riesigen Glastunnel.", "hu": "A 'cápás állatkert' hatalmas víz alatti alagúttal.", "ro": "'Grădina zoologică cu rechini' din Budapesta cu un tunel de sticlă.", "en": "The 'shark zoo' in Budapest with a massive glass tunnel."},
-    facts: {"de": ["Hat ein echtes Regenwald-Erlebnis.", "Man kann Haifütterungen sehen."], "hu": ["Valódi esőerdő élményt nyújt.", "Látványos cápaetetések helyszíne."], "ro": ["Oferă o experiență de junglă tropicală.", "Se pot vedea hrăniri de rechini."], "en": ["Provides a real rainforest experience.", "Spectacular shark feedings can be viewed."]}
+    facts: {"de": ["Hat ein echtes Regenwald-Erlebnis.", "Man kann Haifütterungen sehen."], "hu": ["Valódi esőerdő élményt nyújt.", "Látványos cápaetetések helyszíne."], "ro": ["Oferă o experiență de junglă tropicală.", "Se pot vedea hrăniri de rechini."], "en": ["Provides a real rainforest experience.", "Spectacular shark feedings can be viewed."]},
+  
+    descriptionAdvanced: {
+      "de": "Das Tropicarium Budapest im Einkaufszentrum Campona ist das größte Meerwasseraquarium Mitteleuropas und bietet ein faszinierendes Abenteuer in der Welt der Ozeane und Tropen. Die Hauptattraktion ist der riesige Haifischtunnel, in dem man unter zwei Millionen Litern Salzwasser spazieren kann, während majestätische Haie und Rochen über die Köpfe der Besucher hinweggleiten. Im tropischen Regenwald-Bereich können Besucher alle 15 Minuten ein echtes Tropengewitter mit Regen und Blitzen miterleben, umgeben von Alligatoren und exotischen Vögeln. Das Tropicarium zeigt zudem eine Vielzahl von Süßwasserfischen aus der ungarischen Heimat und ferner Länder. Es ist ein Ort der Unterhaltung und Information, der das Bewusstsein für die Zerbrechlichkeit der marinen Ökosysteme stärkt. Ein Besuch im 'Hai-Zoo' ist ein spannendes Erlebnis für Groß und Klein, unabhängig vom Wetter.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Tropicarium beherbergt acht verschiedene Haiarten in seinem Hauptbecken.", "Die Besucher können in den Aquarien auch die Fauna des heimischen Plattensees bewundern.", "Es gibt spezielle 'Streichelbecken', in denen man Rochen unter Aufsicht berühren kann.", "Das Tropicarium beteiligt sich aktiv an internationalen Forschungs- und Zuchtprogrammen."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "miskolctapolca-barlangfurdo",
@@ -4907,7 +7829,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Höhlenbad Miskolctapolca", "hu": "Miskolctapolca Barlangfürdő", "ro": "Baia în Peșteră Miskolctapolca", "en": "Miskolctapolca Cave Bath"},
     image: "/geo-images/hungary/barlangfurdo.webp",
     description: {"de": "Einzigartiges Thermalbad in einer natürlichen Höhle.", "hu": "Egyedülálló gyógyfürdő természetes barlangjáratokban.", "ro": "Baie termală unică într-o peșteră naturală.", "en": "Unique thermal bath located in a natural cave system."},
-    facts: {"de": ["Angenehme 30 Grad Wassertemperatur.", "Heilklimatische Wirkung der Luft."], "hu": ["Kellemes, 30 fokos termálvíz.", "A barlang levegője gyógyhatású."], "ro": ["Temperatură plăcută de 30 de grade.", "Efect curativ al aerului din peșteră."], "en": ["Pleasant 30-degree water temperature.", "Therapeutic effect of the cave air."]}
+    facts: {"de": ["Angenehme 30 Grad Wassertemperatur.", "Heilklimatische Wirkung der Luft."], "hu": ["Kellemes, 30 fokos termálvíz.", "A barlang levegője gyógyhatású."], "ro": ["Temperatură plăcută de 30 de grade.", "Efect curativ al aerului din peșteră."], "en": ["Pleasant 30-degree water temperature.", "Therapeutic effect of the cave air."]},
+  
+    descriptionAdvanced: {
+      "de": "Das Höhlenbad von Miskolctapolca ist ein in Europa einzigartiges Thermalbad, das in einem natürlichen Höhlensystem über Jahrtausende durch Wassererosion entstanden ist. Besucher können in angenehm warmem Wasser durch die verwinkelten Gänge und Hallen der Höhle schwimmen und die heilende Wirkung der Quellen genießen. Die Luft in der Höhle ist besonders rein und frei von Allergenen, was das Baden zu einem ganzheitlichen Erlebnis für Körper und Geist macht. Neben den natürlichen Höhlengängen bietet der Komplex auch moderne Außenbecken und Saunalandschaften. Das sanfte Licht in der Grotte und das Echo der Stimmen verleihen dem Bad eine fast mystische Atmosphäre. Miskolctapolca ist ein unverzichtbares Ziel für alle, die Entspannung in einer spektakulären natürlichen Umgebung suchen.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Höhlenbad ist das einzige Thermalbad dieser Art in ganz Europa.", "Das Wasser hat eine konstante Temperatur von etwa 30 Grad Celsius.", "In der Höhle gibt es keine Dampfbildung, was das Atmen besonders angenehm macht.", "Das Bad ist von einem idyllischen Park mit einem See und Bootshafen umgeben."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "mohacsi-busojaras-poi",
@@ -4917,7 +7852,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Busójárás-Ort", "hu": "Mohácsi Busójárás helye", "ro": "Locul Busójárás", "en": "Mohács Busójárás Site"},
     image: "/geo-images/hungary/mohacs.webp",
     description: {"de": "Ort der berühmten Winteraustreibung mit gruseligen Masken.", "hu": "A télűző Busójárás helyszíne, UNESCO világörökség.", "ro": "Locul faimosului ritual de alungare a iernii cu măști.", "en": "Site of the famous winter expulsion ritual with scary masks."},
-    facts: {"de": ["UNESCO-Weltkulturerbe.", "Findet jährlich im Februar statt."], "hu": ["Az UNESCO szellemi örökség része.", "Évente februárban rendezik meg."], "ro": ["Patrimoniu cultural UNESCO.", "Are loc anual în februarie."], "en": ["UNESCO Cultural Heritage.", "Takes place annually in February."]}
+    facts: {"de": ["UNESCO-Weltkulturerbe.", "Findet jährlich im Februar statt."], "hu": ["Az UNESCO szellemi örökség része.", "Évente februárban rendezik meg."], "ro": ["Patrimoniu cultural UNESCO.", "Are loc anual în februarie."], "en": ["UNESCO Cultural Heritage.", "Takes place annually in February."]},
+  
+    descriptionAdvanced: {
+      "de": "Das Busójárás in Mohács ist der bedeutendste Volksbrauch Ungarns zum Ende des Winters und gehört zum immateriellen UNESCO-Weltkulturerbe. Die Tradition geht auf die Legende zurück, wonach die Šokci-Kroaten mit schrecklichen Masken und Lärm die türkischen Besatzer aus der Stadt vertrieben haben. Heute ziehen Hunderte von 'Busós' in furchterregenden Holzmasken und Schafsfellkostümen durch die Straßen, wirbeln Staub auf und lärmen mit hölzernen Ratschen. Das Festival gipfelt im Verbrennen eines riesigen Sargs auf einem Scheiterhaufen, was symbolisch den Winter beerdigt. Zehntausende Besucher aus aller Welt kommen jährlich nach Mohács, um dieses farbenfrohe und archaische Spektakel mitzuerleben. Es ist ein Fest der Gemeinschaft, der Freude und des Sieges über das Dunkle.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Busójárás-Festival findet jedes Jahr im Februar während der Faschingszeit statt.", "Die handgeschnitzten Holzmasken sind Unikate und werden oft über Generationen vererbt.", "Die Teilnehmer tragen traditionelle Rindslederschuhe und weiße Leinenhosen.", "Das Fest wurde 2009 als erster ungarischer Brauch in die UNESCO-Liste aufgenommen."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "zsolnay-negyed",
@@ -4927,7 +7875,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Zsolnay-Viertel", "hu": "Zsolnay Kulturális Negyed", "ro": "Cartierul Zsolnay", "en": "Zsolnay Cultural Quarter"},
     image: "/geo-images/hungary/zsolnay-negyed.webp",
     description: {"de": "Wunderschön restauriertes Fabrikareal mit Porzellankunst.", "hu": "Pécs ékköve, a világhírű porcelángyár felújított területe.", "ro": "Zonă industrială restaurată superb cu artă din porțelan.", "en": "Beautifully restored factory area with world-famous ceramics."},
-    facts: {"de": ["Heimat der Eosin-Keramik.", "Beherbergt Museen und Ateliers."], "hu": ["Az eozin mázas kerámia hazája.", "Múzeumoknak és műhelyeknek ad otthont."], "ro": ["Casa ceramicii de tip eozină.", "Găzduiește muzee și ateliere."], "en": ["Home of the eosin-glazed ceramics.", "Houses museums and art studios."]}
+    facts: {"de": ["Heimat der Eosin-Keramik.", "Beherbergt Museen und Ateliers."], "hu": ["Az eozin mázas kerámia hazája.", "Múzeumoknak és műhelyeknek ad otthont."], "ro": ["Casa ceramicii de tip eozină.", "Găzduiește muzee și ateliere."], "en": ["Home of the eosin-glazed ceramics.", "Houses museums and art studios."]},
+  
+    descriptionAdvanced: {
+      "de": "Das Zsolnay-Kulturviertel in Pécs ist ein spektakuläres Zeugnis ungarischer Industriegeschichte und ästhetischer Exzellenz. Auf dem Gelände der ehemaligen Porzellanmanufaktur entstand ein modernes Kunstzentrum, das die Geschichte der Familie Zsolnay und ihrer weltberühmten Keramiken würdigt. Besonders beeindruckend ist die Verwendung der charakteristischen Eosin-Glasur und der farbenfrohen Pyrogranit-Elemente an den Gebäuden. Besucher können Museen, Galerien, Werkstätten und das markante Zsolnay-Mausoleum erkunden. Das Viertel war das Herzstück des Projekts Pécs - Kulturhauptstadt Europas 2010 und ist heute ein lebendiger Treffpunkt für Künstler und Touristen. Die Symbiose aus historischer Industriearchitektur und moderner Nutzung ist in Ungarn einzigartig.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Zsolnay-Viertel umfasst 15 denkmalgeschützte Gebäude auf einer Fläche von 5 Hektar.", "Die Familie Zsolnay erfand die einzigartige Eosin-Glasur, die metallisch schimmert.", "Im Viertel befindet sich das 'Gyugyi-Sammlung', eine der bedeutendsten Zsolnay-Kollektionen weltweit.", "Die Gebäude sind mit Frost- und wetterbeständigen Pyrogranit-Keramiken verziert."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "szegedi-dom",
@@ -4937,7 +7898,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Votivkirche Szeged", "hu": "Szegedi Dóm", "ro": "Catedrala din Seghedin", "en": "Votive Church of Szeged"},
     image: "/geo-images/hungary/szeged.webp",
     description: {"de": "Monumentale neoromanische Kathedrale am Domplatz von Szeged.", "hu": "Monumentális neoromán dóm a Napfény városának szívében.", "ro": "Catedrală neoromanică monumentală în Piața Domului.", "en": "Monumental Neo-Romanesque cathedral on Szeged's Dome Square."},
-    facts: {"de": ["Nach dem großen Hochwasser erbaut.", "Besitzt eine der größten Orgeln."], "hu": ["A nagy árvíz utáni fogadalomból épült.", "Az ország egyik legnagyobb orgonája van itt."], "ro": ["Construită după marea inundație.", "Are una dintre cele mai mari orgi."], "en": ["Built after the great flood.", "Houses one of the largest organs."]}
+    facts: {"de": ["Nach dem großen Hochwasser erbaut.", "Besitzt eine der größten Orgeln."], "hu": ["A nagy árvíz utáni fogadalomból épült.", "Az ország egyik legnagyobb orgonája van itt."], "ro": ["Construită după marea inundație.", "Are una dintre cele mai mari orgi."], "en": ["Built after the great flood.", "Houses one of the largest organs."]},
+  
+    descriptionAdvanced: {
+      "de": "Der Dom von Szeged, auch Votivkirche genannt, ist das markanteste Wahrzeichen der Stadt und eine der größten Kirchen Ungarns. Das neoromanische Bauwerk wurde nach der verheerenden Flut von 1879 als Gelübde der Bürger errichtet, um den Wiederaufbau der Stadt zu danken. Der riesige Domplatz vor der Kirche, umgeben von Arkaden, bietet die perfekte Kulisse für die berühmten Szegeder Freilichtspiele. Im Inneren beeindruckt der Dom durch seine monumentale Orgel und die prachtvollen Mosaike sowie die Statue der 'Madonna im Pelz'. Die zwei markanten Türme des Doms sind schon von weitem sichtbar und prägen die Silhouette der Stadt an der Theiß. Der Dom ist nicht nur ein religiöses Zentrum, sondern auch ein Ort des Gedenkens an die Standhaftigkeit der Szegeder Bürger.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Der Dom wurde zwischen 1913 und 1930 nach Plänen von Frigyes Schulek und Ernő Foerk erbaut.", "Die Orgel des Doms besitzt über 9000 Pfeifen und ist eine der größten in Europa.", "Die Mosaike im Innenraum stellen Szenen aus der ungarischen Geschichte und Bibel dar.", "Vom Aussichtsturm des Doms hat man einen Panoramablick über die gesamte Stadt und die Theiß."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "pannonhalmi-leveltar",
@@ -4947,7 +7921,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Archiv Pannonhalma", "hu": "Pannonhalmi Apátsági Levéltár", "ro": "Arhiva Pannonhalma", "en": "Pannonhalma Abbey Archives"},
     image: "/geo-images/hungary/pannonhalma.webp",
     description: {"de": "Bedeutendes Archiv mit dem ältesten ungarischen Schriftstück.", "hu": "Történelmi levéltár a legősibb magyar nyelvemlékkel.", "ro": "Arhivă importantă cu cel mai vechi document scris maghiar.", "en": "Significant archive with the oldest Hungarian written record."},
-    facts: {"de": ["Teil der Benediktinerabtei.", "Bewahrt die Tihanyer Stiftungsurkunde."], "hu": ["A bencés főapátság része.", "Itt őrzik a tihanyi alapítólevelet."], "ro": ["Parte a abației benedictine.", "Păstrează documentul de fondare din Tihany."], "en": ["Part of the Benedictine Abbey.", "Preserves the Tihany founding charter."]}
+    facts: {"de": ["Teil der Benediktinerabtei.", "Bewahrt die Tihanyer Stiftungsurkunde."], "hu": ["A bencés főapátság része.", "Itt őrzik a tihanyi alapítólevelet."], "ro": ["Parte a abației benedictine.", "Păstrează documentul de fondare din Tihany."], "en": ["Part of the Benedictine Abbey.", "Preserves the Tihany founding charter."]},
+  
+    descriptionAdvanced: {
+      "de": "Das Archiv der Erzabtei Pannonhalma ist eines der bedeutendsten historischen Archive Ungarns und bewahrt die schriftliche Überlieferung aus über tausend Jahren auf. Sein kostbarster Schatz ist die Gründungsurkunde der Abtei Tihany aus dem Jahr 1055, die die ältesten geschriebenen Wörter der ungarischen Sprache enthält. Das Archiv dokumentiert nicht nur die Geschichte des Benediktinerordens, sondern liefert auch unschätzbare Informationen zur Rechts-, Wirtschafts- und Sozialgeschichte des mittelalterlichen Ungarns. Die sorgfältig bewahrten Pergamente, Siegel und Handschriften sind für Forscher aus aller Welt von größtem Interesse. Untergebracht in den ehrwürdigen Mauern der Abtei, strahlt das Archiv eine Atmosphäre von gelehrter Ruhe und Kontinuität aus. Es ist ein wahres Gedächtnis der ungarischen Nation und des europäischen Mönchtums.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Archiv bewahrt über 300.000 Dokumente und 1.500 Urkunden aus dem Mittelalter auf.", "Die Gründungsurkunde von Tihany ist das wichtigste Sprachdenkmal des Archivs.", "Viele Dokumente tragen wertvolle historische Siegel ungarischer Könige und Fürsten.", "Das Archiv ist Teil des UNESCO-Welterbes der Erzabtei Pannonhalma."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "magyar-nemzeti-galeria-poi",
@@ -4957,7 +7944,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Nationalgalerie", "hu": "Magyar Nemzeti Galéria", "ro": "Galeria Națională", "en": "Hungarian National Gallery"},
     image: "/geo-images/hungary/nemzeti-galeria.webp",
     description: {"de": "Die größte Sammlung ungarischer bildender Kunst im Budaer Schloss.", "hu": "A legjelentősebb hazai képzőművészeti gyűjtemény a Várban.", "ro": "Cea mai mare colecție de artă maghiară în Castelul Buda.", "en": "The largest collection of Hungarian fine arts in Buda Castle."},
-    facts: {"de": ["Präsentiert Kunst vom Mittelalter.", "Befindet sich im ehemaligen Palast."], "hu": ["Középkortól napjainkig mutatja be a művészetet.", "A volt Királyi Palota épületében található."], "ro": ["Prezintă artă din Evul Mediu.", "Se află în fostul Palat Regal."], "en": ["Presents art from the Middle Ages.", "Located in the former Royal Palace."]}
+    facts: {"de": ["Präsentiert Kunst vom Mittelalter.", "Befindet sich im ehemaligen Palast."], "hu": ["Középkortól napjainkig mutatja be a művészetet.", "A volt Királyi Palota épületében található."], "ro": ["Prezintă artă din Evul Mediu.", "Se află în fostul Palat Regal."], "en": ["Presents art from the Middle Ages.", "Located in the former Royal Palace."]},
+  
+    descriptionAdvanced: {
+      "de": "Die Ungarische Nationalgalerie im prachtvollen Budapester Burgpalast beherbergt die umfassendste Sammlung ungarischer bildender Kunst von den Anfängen bis zur Gegenwart. Die Ausstellungen führen den Besucher durch die Epochen des Mittelalters, der Renaissance, des Barock bis hin zum 19. und 20. Jahrhundert. Besonders beeindruckend sind die riesigen Altäre aus der Spätgotik und die monumentalen Historienbilder ungarischer Meister wie Mihály Munkácsy. In den prachtvollen Sälen des Palastes kommen die Kunstwerke besonders zur Geltung und erzählen die bewegte Geschichte des Landes. Die Galerie bietet zudem einen fantastischen Blick über die Donau und das Parlament von den Fenstern des Burgbergs aus. Für jeden Kunstliebhaber ist ein Besuch der Nationalgalerie eine Reise durch die Seele Ungarns.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Die Galerie ist in den Flügeln A, B, C und D des Budapester Burgpalastes untergebracht.", "Die Sammlung umfasst über 100.000 Kunstwerke ungarischer Künstler.", "Das Altarbild-Archiv ist eines der bedeutendsten seiner Art in Mitteleuropa.", "Die Galerie beherbergt die weltweit größte Sammlung von Werken von Mihály Munkácsy."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "corvin-negyed-poi",
@@ -4967,7 +7967,20 @@ export const hungaryCities: POI[] = [
     name: {"de": "Corvin-Viertel", "hu": "Corvin Negyed", "ro": "Cartierul Corvin", "en": "Corvin Quarter"},
     image: "/geo-images/hungary/corvin-negyed.webp",
     description: {"de": "Modernes Stadtviertel mit historischem Erbe in Budapest.", "hu": "Budapest modern, megújult városrésze történelmi emlékekkel.", "ro": "Cartier urban modern cu moștenire istorică în Budapesta.", "en": "Modern urban district with historical heritage in Budapest."},
-    facts: {"de": ["Bekannt für die Corvin-Promenade.", "Stätte wichtiger 1956er Kämpfe."], "hu": ["Híres a Corvin-sétányról.", "Az 1956-os harcok egyik fontos helyszíne."], "ro": ["Cunoscut pentru promenada Corvin.", "Locul unor lupte importante din 1956."], "en": ["Known for the Corvin Promenade.", "Site of important 1956 battles."]}
+    facts: {"de": ["Bekannt für die Corvin-Promenade.", "Stätte wichtiger 1956er Kämpfe."], "hu": ["Híres a Corvin-sétányról.", "Az 1956-os harcok egyik fontos helyszíne."], "ro": ["Cunoscut pentru promenada Corvin.", "Locul unor lupte importante din 1956."], "en": ["Known for the Corvin Promenade.", "Site of important 1956 battles."]},
+  
+    descriptionAdvanced: {
+      "de": "Das Corvin-Viertel in Budapest ist eines der ehrgeizigsten Stadterneuerungsprojekte Zentraleuropas und verbindet moderne Architektur mit urbanem Lebensstil. Wo früher graue Mietshäuser standen, erstreckt sich heute eine moderne Promenade mit Geschäften, Restaurants, Büros und Wohnanlagen von internationalem Standard. Das Herzstück ist das Corvin-Plaza-Einkaufszentrum und die markante Corvin-Promenade, die als neue pulsierende Ader des 8. Bezirks dient. Trotz der Modernisierung bewahrt das Viertel historische Ankerpunkte wie das Corvin-Kino, das im 1956er Freiheitskampf eine zentrale Rolle spielte. Die Architektur besticht durch klare Linien, viel Glas und grüne Innenhöfe, die eine hohe Lebensqualität bieten. Das Viertel ist ein Symbol für das dynamische und zukunftsorientierte Budapest.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Corvin-Viertel Projekt wurde mit zahlreichen internationalen Immobilienpreisen ausgezeichnet.", "Die Corvin-Promenade ist die längste neu geschaffene Fußgängerzone in Budapest.", "In der Nähe befindet sich die Statue des Jungen von Pál-Straße, einem Wahrzeichen des Viertels.", "Das Viertel ist ein bedeutender Standort für internationale Technologie- und IT-Unternehmen."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "hatvan",
@@ -4978,6 +7991,19 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/hatvan.webp",
     description: {"de": "Stadt an der Zagyva, bekannt für das Grassalkovich-Schloss.", "hu": "Zagyva-parti város, a Grassalkovich-kastélyról ismert.", "ro": "Oraș pe râul Zagyva, cunoscut pentru Castelul Grassalkovich.", "en": "City on the Zagyva river, known for the Grassalkovich Castle."},
     facts: {"de": ["Wichtiger Eisenbahnknotenpunkt.", "Beherbergt das Ungarische Jagdmuseum."], "hu": ["Fontos vasúti csomópont.", "Itt található a Magyar Vadászati Múzeum."], "ro": ["Nod feroviar important.", "Găzduiește Muzeul Maghiar al Vânătorii."], "en": ["Important railway junction.", "Home to the Hungarian Hunting Museum."]},
+  
+    descriptionAdvanced: {
+      "de": "Hatvan liegt an der Schnittstelle zwischen der Großen Tiefebene und dem Hügelland der Mátra und blickt auf eine traditionsreiche Geschichte als Verkehrsknotenpunkt zurück. Das Wahrzeichen der Stadt ist das prachtvolle barocke Grassalkovich-Schloss, in dem heute das Ungarische Jagdmuseum untergebracht ist. Die Ausstellungen zeigen die reiche Jagdkultur des Landes und die Naturwerte der Region in einem herrschaftlichen Ambiente. Die Stadt ist zudem für ihren bedeutenden Bahnhof und die Industriegeschichte bekannt, die die moderne Entwicklung maßgeblich prägten. Ein Spaziergang durch den Schlosspark bietet Erholung und einen Blick auf die architektonische Eleganz vergangener Jahrhunderte. Hatvan verbindet auf angenehme Weise ländliche Tradition mit urbaner Dynamik.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Grassalkovich-Schloss in Hatvan ist eines der bedeutendsten Barockgebäude der Region.", "Das Ungarische Jagdmuseum beherbergt eine weltweit anerkannte Trophäensammlung.", "Der Name 'Hatvan' bedeutet im Ungarischen 'Sechzig', was auf die Entfernung zu Budapest hindeutet.", "Die Stadt ist ein historisch wichtiger Eisenbahnknotenpunkt im Norden Ungarns."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "tapolca",
@@ -4988,6 +8014,19 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/tapolca.webp",
     description: {"de": "Stadt am Rande des Balaton-Oberlandes, berühmt für ihre Seehöhle.", "hu": "Város a Balaton-felvidék szélén, híres a tavasbarlangjáról.", "ro": "Oraș la marginea regiunii Balaton-Oberland, faimos pentru peștera sa cu lac.", "en": "City on the edge of the Balaton Uplands, famous for its lake cave."},
     facts: {"de": ["Die Seehöhle kann mit Booten befahren werden.", "Der Malom-See im Zentrum ist sehr malerisch."], "hu": ["A tavasbarlang csónakkal bejárható.", "A központban található Malom-tó rendkívül festői."], "ro": ["Peștera cu lac poate fi explorată cu barca.", "Lacul Malom din centru este foarte pitoresc."], "en": ["The lake cave can be explored by boat.", "The Malom Lake in the center is very picturesque."]},
+  
+    descriptionAdvanced: {
+      "de": "Tapolca, im malerischen Balaton-Oberland gelegen, ist berühmt für sein unterirdisches See-Höhlensystem, das man mit Booten erkunden kann. Der glasklare, türkisfarbene See in der Höhle bietet ein unvergessliches Erlebnis in einer mystischen Unterwelt. In der Altstadt von Tapolca befindet sich der idyllische Mühlenteich (Malom-tó), umgeben von historischen Gebäuden und gemütlichen Cafés, der zum Verweilen einlädt. Die Stadt liegt im Herzen einer erloschenen Vulkanlandschaft und ist ein idealer Ausgangspunkt für Wanderungen zu den umliegenden Zeugenbergen. Bekannt ist Tapolca auch für sein spezielles Heilklima in den Höhlen, das besonders bei Atemwegserkrankungen Linderung verschafft. Die entspannte Atmosphäre und die einzigartige Verbindung von Wasser und Höhle machen die Stadt zu einem besonderen Ziel.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Die Seehöhle von Tapolca wurde 1903 durch Zufall bei einer Brunnenbohrung entdeckt.", "Tapolca ist eine der wenigen Städte der Welt, in denen man direkt unter der Innenstadt Boot fahren kann.", "Der Mühlenteich wird durch warmes Quellwasser gespeist und friert im Winter nie zu.", "Das Heilklima der Tapolcaer Höhlen ist staatlich für medizinische Anwendungen anerkannt."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "kazincbarcika",
@@ -4998,6 +8037,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Industriestadt im Sajó-Tal, bekannt als die 'Stadt der Farben'.", "hu": "Ipari város a Sajó-völgyben, a 'Színes város' néven ismert.", "ro": "Oraș industrial în valea Sajó, cunoscut ca 'orașul culorilor'.", "en": "Industrial city in the Sajó Valley, known as the 'City of Colors'."},
     facts: {"de": ["Berühmt für seine großflächigen Wandmalereien an Wohngebäuden.", "Wichtiges Zentrum der chemischen Industrie."], "hu": ["Híres a lakóépületeken található nagyméretű falfestményeiről.", "A vegyipar fontos központja."], "ro": ["Faimos pentru picturile sale murale mari de pe clădirile rezidențiale.", "Centru important al industriei chimice."], "en": ["Famous for its large-scale murals on residential buildings.", "Important center of the chemical industry."]},
     image: "/poi-images/kazincbarcika.webp",
+  
+    descriptionAdvanced: {
+      "de": "Kazincbarcika im Norden Ungarns ist als die 'Stadt der Farben' bekannt und hat sich von einer sozialistischen Industriestadt zu einem modernen urbanen Kunstzentrum gewandelt. Im Rahmen des Projekts 'Kolorcity' wurden zahlreiche Fassaden der Plattenbauten durch großflächige, bunte Wandgemälde ungarischer und internationaler Künstler verziert. Das Stadtbild ist heute geprägt von dieser lebendigen Straßenkunst, die Kazincbarcika landesweit einzigartig macht. Trotz der chemischen Industrie, die weiterhin ein wichtiger wirtschaftlicher Faktor ist, legt die Stadt großen Wert auf Grünflächen und Parks. Regelmäßige Kulturfestivals und Sportveranstaltungen prägen das gesellschaftliche Leben der Bewohner. Die Stadt ist ein interessantes Beispiel für den erfolgreichen Wandel einer Industriestadt durch Kreativität und Farbe.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Kazincbarcika beherbergt über 40 großformatige Wandgemälde an öffentlichen Gebäuden.", "Die Stadt wurde in den 1950er Jahren durch die Zusammenlegung dreier Dörfer gegründet.", "Der Name 'Kolorcity' steht für das Konzept der farbenfrohen und lebenswerten Stadt.", "Kazincbarcika ist ein bedeutendes Zentrum der chemischen Industrie in Ungarn."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "ozd",
@@ -5008,6 +8060,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Ehemaliges Zentrum der ungarischen Schwerindustrie in Nordungarn.", "hu": "A magyar nehézipar egykori központja Észak-Magyarországon.", "ro": "Fost centru al industriei grele maghiare în nordul Ungariei.", "en": "Former center of Hungarian heavy industry in northern Hungary."},
     facts: {"de": ["Bekannt für sein industrielles Erbe und Museen.", "Umgeben von den Hügeln des Heves-Borsodi-Hügellandes."], "hu": ["Ipari örökségéről és múzeumairól ismert.", "A Heves–Borsodi-dombság dombjai veszik körül."], "ro": ["Cunoscut pentru moștenirea sa industrială și muzee.", "Înconjurat de dealurile regiunii Heves-Borsod."], "en": ["Known for its industrial heritage and museums.", "Surrounded by the hills of the Heves-Borsod region."]},
     image: "/poi-images/ozd.webp",
+  
+    descriptionAdvanced: {
+      "de": "Ózd ist eine Stadt mit einer tief verwurzelten industriellen Identität im Norden Ungarns, geprägt durch die einstige Stahl- und Eisenverarbeitung. Nach dem Niedergang der Schwerindustrie hat die Stadt begonnen, ihr industrielles Erbe in kulturelle Projekte umzuwandeln. Ein Highlight ist das 'Digitale Kraftwerk' und das Nationale Filminstitut, die in den historischen Werkshallen untergebracht sind und modernste Technik in alten Mauern präsentieren. Die Umgebung von Ózd ist überraschend grün und gebirgig, eingebettet in die Hügellandschaft des Gömör-Heveser Berglandes. Historische Arbeitersiedlungen mit ihrer charakteristischen Architektur vermitteln noch heute ein authentisches Bild der hiesigen Industriegeschichte. Ózd ist ein Ort des Umbruchs, der mutig neue Wege zwischen Tradition und Moderne sucht.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["In Ózd befindet sich das Nationale Filminstitut – Filmarcivums, ein modernes digitales Kulturzentrum.", "Die Stadt war über ein Jahrhundert lang eines der Zentren der ungarischen Metallurgie.", "Der industrielle Denkmalkomplex der Stadt ist landesweit einzigartig.", "In der Umgebung von Ózd befinden sich zahlreiche malerische Wanderwege und Naturschätze."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "szigliget",
@@ -5018,6 +8083,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Malerisches Dorf am Nordufer des Plattensees, bekannt für seine Burg.", "hu": "Festői falu a Balaton északi partján, váráról ismert.", "ro": "Sat pitoresc pe malul nordic al Lacului Balaton, cunoscut pentru cetatea sa.", "en": "Picturesque village on the northern shore of Lake Balaton, known for its castle."},
     facts: {"de": ["Die Burg Szigliget bietet einen der schönsten Ausblicke auf den See.", "Bekannt für seine reetgedeckten Häuser und Weinkeller."], "hu": ["A szigligeti várból nyílik az egyik legszebb kilátás a Balatonra.", "Nádfedeles házairól és borpincéiről is ismert."], "ro": ["Cetatea Szigliget oferă una dintre cele mai frumoase vederi asupra lacului.", "Cunoscut pentru casele sale cu acoperiș de stuf și crame."], "en": ["Szigliget Castle offers one of the most beautiful views of the lake.", "Known for its thatched-roof houses and wine cellars."]},
     image: "/poi-images/szigliget.webp",
+  
+    descriptionAdvanced: {
+      "de": "Szigliget, oft als 'Perle des Plattensees' bezeichnet, liegt malerisch auf einer Halbinsel am Nordufer und ist bekannt für seine imposante Burgruine. Die Burg Szigetvár thront hoch auf einem Vulkankegel und bietet einen der atemberaubendsten Ausblicke über den See und die umliegenden Zeugenberge. Das Dorf selbst besticht durch seinen authentischen Charakter mit reetgedeckten Häusern und schmalen Gassen, die sich den Hang hinaufziehen. Szigliget ist zudem ein bedeutendes Zentrum für Literatur und Kunst, da sich hier das Esterházy-Schloss befindet, das heute als Erholungsheim für ungarische Schriftsteller dient. Die umliegenden Weinhänge produzieren hervorragende Weine, die in den gemütlichen Kellern des Dorfes verkostet werden können. Szigliget ist ein Ort der Ruhe, der Inspiration und der zeitlosen Schönheit am Balaton.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Die Burg Szigetvár ist die einzige Burg am Plattensee, die von den Türken nie eingenommen wurde.", "Das Esterházy-Schloss in Szigetvár beherbergt seit 1952 eine traditionsreiche Künstlerkolonie.", "Die vulkanischen Basaltböden verleihen den hiesigen Weinen eine besondere Mineralität.", "Szigetvár ist bekannt für seine sommerlichen Burgspiele und Konzerte im Schlosspark."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "herend",
@@ -5028,6 +8106,19 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/herend.webp",
     description: {"de": "Weltberühmt für seine Porzellanmanufaktur, die seit 1826 besteht.", "hu": "Világhírű porcelánmanufaktúrájáról ismert, amely 1826 óta működik.", "ro": "Renumit în întreaga lume pentru manufactura sa de porțelan, fondată în 1826.", "en": "World-famous for its porcelain manufactory, operating since 1826."},
     facts: {"de": ["Das Herend-Porzellan ist ein ungarisches Kulturerbe (Hungarikum).", "Beherbergt das Porzellanmuseum und die Minimanufaktur."], "hu": ["A herendi porcelán magyar örökség (Hungarikum).", "Itt található a Porcelánmúzeum és a Minimanufaktúra."], "ro": ["Porțelanul de Herend este un patrimoniu cultural maghiar (Hungarikum).", "Găzduiește Muzeul Porțelanului și Minimanufactura."], "en": ["Herend porcelain is a Hungarian cultural heritage (Hungarikum).", "Home to the Porcelain Museum and the Minimanufactory."]},
+  
+    descriptionAdvanced: {
+      "de": "Herend ist weltweit ein Synonym für exquisites Porzellan und handwerkliche Perfektion aus Ungarn. Die 1826 gegründete Porzellanmanufaktur Herend ist eine der größten und traditionsreichsten Europas und belieferte bereits königliche Höfe wie den von Königin Victoria. Im Besucherzentrum 'Porcelanium' können Gäste die einzelnen Schritte der Porzellanherstellung, vom Formen bis zur feinen Bemalung, live miterleben. Das Herender Porzellanmuseum zeigt eine beeindruckende Sammlung historischer Stücke und moderner Meisterwerke, die den Weltruf der Marke begründen. Die charakteristischen Muster wie 'Victoria' oder 'Rothschild' sind Sammlern auf allen Kontinenten bekannt. Ein Besuch in Herend ist ein Eintauchen in eine Welt voller Eleganz, Tradition und ungarischer Handwerkskunst auf höchstem Niveau.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Herender Porzellan gewann 1851 auf der Londoner Weltausstellung die Goldmedaille.", "Die Manufaktur stellt noch heute jedes einzelne Stück in reiner Handarbeit her.", "Berühmte Kunden waren unter anderem Kaiser Franz Joseph I. und die britische Königsfamilie.", "Das Museum beherbergt eine Sammlung von über 8000 verschiedenen Porzellanobjekten."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "mezokovesd",
@@ -5038,6 +8129,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Zentrum der Matyó-Kultur, bekannt für ihre farbenfrohen Stickereien.", "hu": "A matyó kultúra központja, színes hímzéseiről ismert.", "ro": "Centrul culturii Matyó, cunoscut pentru broderiile sale colorate.", "en": "Center of the Matyó culture, known for its colorful embroideries."},
     facts: {"de": ["Die Matyó-Stickerei gehört zum UNESCO-Weltkulturerbe.", "Bekannt für das Zsóry-Heilbad."], "hu": ["A matyó hímzés az UNESCO szellemi világörökség része.", "A Zsóry-gyógyfürdőről is ismert."], "ro": ["Broderia Matyó face parte din patrimoniul UNESCO.", "Cunoscut și pentru baia curativă Zsóry."], "en": ["Matyó embroidery is part of the UNESCO Intangible Cultural Heritage.", "Known for the Zsóry medicinal bath."]},
     image: "/poi-images/mezokovesd.webp",
+  
+    descriptionAdvanced: {
+      "de": "Mezőkövesd ist die 'Hauptstadt' des Matyó-Landes und weltberühmt für seine farbenfrohe Volkskunst und Stickereien. Die Matyó-Stickerei mit ihren charakteristischen bunten Rosenmotiven gehört zum immateriellen UNESCO-Weltkulturerbe und prägt die Identität der Stadt. Im Stadtteil 'Hadas' können Besucher das ursprüngliche Dorfbild mit traditionellen Häusern und Werkstätten der Volkskünstler erleben. Mezőkövesd ist zudem für das Zsóry-Heil- und Strandbad bekannt, das über eines der wirksamsten schwefelhaltigen Thermalwasser in Ungarn verfügt. Die Stadt verbindet auf einzigartige Weise die Bewahrung lebendiger Traditionen mit modernen Erholungsmöglichkeiten. Ein Besuch bei den stickenden Frauen oder in den Museen der Stadt bietet tiefe Einblicke in die ungarische Volksseele.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Die Matyó-Volkskunst in Mezőkövesd ist seit 2012 Teil des UNESCO-Weltkulturerbes.", "Das Zsóry-Bad besitzt eines der schwefelreichsten Thermalwasser in ganz Mitteleuropa.", "Das Matyó-Museum zeigt prächtige Trachten, die durch ihre enorme Farbenpracht bestechen.", "Jährlich findet in Mezőkövesd das Matyó-Festival zur Feier der regionalen Identität statt."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "hajos",
@@ -5048,6 +8152,19 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/hajos.webp",
     description: {"de": "Stadt in der Tiefebene, berühmt für ihr einzigartiges Weinkellerdorf.", "hu": "Alföldi város, egyedülálló pincefalujáról híres.", "ro": "Oraș în câmpie, faimos pentru satul său unic de crame.", "en": "City in the plains, famous for its unique wine cellar village."},
     facts: {"de": ["Das Kellerdorf besteht aus over 1200 kleinen Weinkellern.", "Bekannt für das Barockschloss des Erzbischofs."], "hu": ["A pincefalu több mint 1200 apró borpincéből áll.", "Az érseki barokk kastélyáról is ismert."], "ro": ["Satul de crame este format din peste 1200 de mici pivnițe de vin.", "Cunoscut și pentru castelul baroc al arhiepiscopului."], "en": ["The cellar village consists of over 1200 small wine cellars.", "Known for the Archbishop's Baroque Castle."]},
+  
+    descriptionAdvanced: {
+      "de": "Hajós ist weit über die Grenzen des Komitats Bács-Kiskun hinaus für sein einzigartiges Kellerdorf bekannt, das aus über 1.200 historischen Weinkellern besteht. Diese Keller wurden von den im 18. Jahrhundert eingewanderten Donauschwaben in die Lösswand gegraben und bilden heute ein geschlossenes architektonisches Ensemble. Die weiß getünchten Presshäuser in den schmalen Gassen des Kellerdorfes vermitteln eine ganz besondere, nostalgische Atmosphäre. Hajós ist zudem als bedeutender Wallfahrtsort bekannt, dessen barocke Kirche eine wertvolle Marienstatue beherbergt. Das barocke Erzbischofsschloss ist ein weiteres architektonisches Highlight und dokumentiert den einstigen Glanz der Region. Ein Besuch in Hajós verbindet den Genuss exzellenter Weine mit dem Erlebnis einer lebendigen schwäbischen Tradition.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Kellerdorf von Hajós ist das größte zusammenhängende seiner Art in ganz Europa.", "Die Weinregion ist vor allem für ihre charaktervollen Rotweine wie Cabernet Sauvignon bekannt.", "Jährlich am Urbantag findet in Hajós ein großes Weinfestival im Kellerdorf statt.", "Das Erzbischofsschloss von Hajós ist das älteste seiner Art im Komitat Bács-Kiskun."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "szentgotthard",
@@ -5058,6 +8175,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Westlichste Stadt Ungarns an der Grenze zu Österreich.", "hu": "Magyarország legnyugatibb városa az osztrák határnál.", "ro": "Cel mai vestic oraș din Ungaria, la granița cu Austria.", "en": "Hungary's westernmost city at the Austrian border."},
     facts: {"de": ["Ort der berühmten Schlacht von Szentgotthárd im Jahr 1664.", "Besitzt eine prächtige Zisterzienserabtei."], "hu": ["Az 1664-es híres szentgotthárdi csata helyszíne.", "Pompás ciszterci apátsággal rendelkezik."], "ro": ["Locul faimoasei bătălii de la Szentgotthárd din 1664.", "Are o abație cisterciană magnifică."], "en": ["Site of the famous Battle of Szentgotthárd in 1664.", "Features a magnificent Cistercian abbey."]},
     image: "/poi-images/szentgotthard.webp",
+  
+    descriptionAdvanced: {
+      "de": "Szentgotthárd, die westlichste Stadt Ungarns direkt an der österreichischen Grenze, blickt auf eine geschichtsträchtige Vergangenheit und eine lebendige Gegenwart zurück. Berühmt wurde sie durch die Schlacht von Szentgotthárd im Jahr 1664, in der ein vereintes christliches Heer den Vormarsch der Osmanen stoppte. Das Wahrzeichen der Stadt ist die prachtvolle Barockkirche des Zisterzienserklosters, die zu den schönsten des Landes gehört. Heute ist Szentgotthárd ein bedeutendes industrielles Zentrum und ein Vorreiter in Sachen grenzüberschreitender Zusammenarbeit. Das moderne Spa- und Wellnesszentrum 'St. Gotthard' bietet erstklassige Erholung in einer fast mediterranen Atmosphäre. Die Stadt ist zudem ein Tor zum Nationalpark Őrség und bietet ideale Bedingungen für Natur- und Aktivtouristen.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Szentgotthárd liegt am Zusammenfluss der Raab (Rába) und der Lafnitz (Lapincs).", "Die Barockkirche der Stadt besitzt Deckenfresken, die die berühmte Schlacht gegen die Türken darstellen.", "In der Stadt befindet sich eines der modernsten Motorenwerke des Opel-Konzerns.", "Szentgotthárd ist ein wichtiges Zentrum der slowenischen Minderheit in Ungarn."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "lenti",
@@ -5068,6 +8198,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Stadt im Südwesten, bekannt für ihr Thermalbad und den Energiepark.", "hu": "Délnyugati város, termálfürdőjéről és energiaparkjáról ismert.", "ro": "Oraș în sud-vest, cunoscut pentru baia sa termală și parcul energetic.", "en": "Southwestern city, known for its thermal bath and energy park."},
     facts: {"de": ["Der St. Georg Energiepark soll heilende Erdstrahlen haben.", "Ausgangspunkt der längsten Waldbahn Ungarns."], "hu": ["A Szent György Energiapark gyógyító földsugárzásáról ismert.", "Itt található Magyarország leghosszabb erdei vasútjának kiindulópontja."], "ro": ["Parcul energetic Sf. Gheorghe ar avea radiații terestre curative.", "Punctul de plecare al celei mai lungi căi ferate forestiere din Ungaria."], "en": ["The St. George Energy Park is said to have healing earth radiations.", "Starting point of the longest forest railway in Hungary."]},
     image: "/poi-images/lenti.webp",
+  
+    descriptionAdvanced: {
+      "de": "Lenti, im Südwesten Ungarns am Treffpunkt dreier Grenzen gelegen, ist ein bekannter Kurort mit einer ganz besonderen energetischen Kraft. Das dortige Heil- und Erlebnisbad ist nicht nur für sein wertvolles Thermalwasser bekannt, sondern beherbergt auch den St.-Georg-Energiepark. Man glaubt, dass hier heilende Energieströme fließen, die den Genesungsprozess zusätzlich unterstützen sollen. Die Stadt ist zudem ein idealer Ausgangspunkt für Erkundungen in der hügeligen Landschaft des Komitats Zala und zum nahegelegenen Kerka-Tal. Eine Schmalspurbahn führt von Lenti aus durch die dichten Wälder der Umgebung und bietet Naturerlebnisse für die ganze Familie. Lenti strahlt eine angenehme, ruhige Atmosphäre aus und ist ein Ort der Harmonie zwischen Mensch und Natur.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Lenti besitzt ein einzigartiges Heilwasser, das besonders wirksam bei Gelenkerkrankungen ist.", "Der St.-Georg-Energiepark im Bad ist landesweit für seine energetische Wirkung bekannt.", "Von Lenti aus startet die längste Schmalspurbahn Ungarns durch Waldgebiete.", "Die Stadt liegt in unmittelbarer Nähe zur Grenze von Slowenien und Kroatien."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "karcag",
@@ -5078,6 +8221,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Hauptstadt der Region Groß-Kumanien, bewahrt kumanische Traditionen.", "hu": "A Nagykunság fővárosa, a kun hagyományok őrzője.", "ro": "Capitala regiunii Cumania Mare, păstrează tradițiile cumane.", "en": "Capital of the Greater Cumania region, preserving Cuman traditions."},
     facts: {"de": ["Bekannt für das Hammelgulasch nach Karcager Art (Hungarikum).", "Beherbergt das Györffy-István-Nagykun-Museum."], "hu": ["Híres a karcagi birkapörköltről (Hungarikum).", "Itt található a Györffy István Nagykun Múzeum."], "ro": ["Faimos pentru tocană de berbec în stil Karcag (Hungarikum).", "Găzduiește Muzeul Györffy István Nagykun."], "en": ["Famous for the Karcag-style mutton stew (Hungarikum).", "Home to the Györffy István Nagykun Museum."]},
     image: "/poi-images/karcag.webp",
+  
+    descriptionAdvanced: {
+      "de": "Karcag ist das historische und kulturelle Zentrum von Großkumanien (Nagykunság) und bewahrt stolz das Erbe der einstigen Nomadenstämme. Die Stadt ist geprägt von einer weiten, offenen Landschaft und einer Architektur, die vom Stolz der kumanischen Bewohner zeugt. Das Györffy-István-Nagykun-Museum dokumentiert die faszinierende Geschichte der Kumanen und zeigt bedeutende archäologische Funde aus der Bronzezeit. Karcag ist zudem für seine kulinarische Tradition berühmt, insbesondere für das Karcager Hammelgulasch, das zum ungarischen Kulturerbe gehört. Das moderne Akácliget-Heilbad bietet Entspannung in einer waldreichen Umgebung am Rande der Stadt. Karcag ist ein Ort, an dem die Tradition der Tiefebene noch immer lebendig gelebt und gefeiert wird.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Karcag ist die 'Hauptstadt' der historischen Region Großkumanien.", "Das Karcager Hammelgulasch wird traditionell in großen Kesseln über offenem Feuer zubereitet.", "In der Stadt befindet sich das markante Nagykun-Denkmal, das an die Ansiedlung der Kumanen erinnert.", "Karcag beherbergt eine bedeutende Windmühle, die ein Symbol für die Agrartradition der Region ist."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "jaszapati",
@@ -5088,6 +8244,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Kleinstadt im Jászság, bekannt für ihr Thermalbad und die barocke Kirche.", "hu": "Jászsági kisváros, termálfürdőjéről és barokk templomáról ismert.", "ro": "Oraș mic în Jászság, cunoscut pentru baia sa termală și biserica barocă.", "en": "Small town in Jászság, known for its thermal bath and Baroque church."},
     facts: {"de": ["Besitzt eine der größten Kirchen der Region.", "Das Heilwasser ist seit den 1960ern beliebt."], "hu": ["A régió egyik legnagyobb templomával rendelkezik.", "Gyógyvize az 1960-as évek óta népszerű."], "ro": ["Are una dintre cele mai mari biserici din regiune.", "Apa curativă este populară din anii 1960."], "en": ["Has one of the largest churches in the region.", "Its healing water has been popular since the 1960s."]},
     image: "/poi-images/jaszapati.webp",
+  
+    descriptionAdvanced: {
+      "de": "Jászapáti ist eine traditionsreiche Stadt in der Region Jászság, bekannt für ihr reiches religiöses Erbe und ihre heilenden Quellen. Die monumentale katholische Kirche der Stadt mit ihren prachtvollen Deckengemälden ist ein bedeutendes barockes Denkmal der ungarischen Tiefebene. Jászapáti beherbergt zudem das Tölgyes Heil- und Strandbad, das in einem schattigen Eichenpark angelegt wurde und für sein heilendes Thermalwasser geschätzt wird. Die Stadt pflegt intensiv die Traditionen der Jazygen-Volksgruppe, was sich in zahlreichen Festen und kulturellen Veranstaltungen widerspiegelt. Die umliegende Landschaft ist geprägt von fruchtbaren Feldern und einer ruhigen, ländlichen Atmosphäre. Jászapáti bietet eine ideale Kombination aus sakraler Kunst, gesundheitlicher Erholung und regionaler Identität.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Die Stadt wurde im 13. Jahrhundert von den einwandernden Jazygen besiedelt.", "Die Deckenfresken der katholischen Kirche stammen von bedeutenden Meistern des 18. Jahrhunderts.", "Das Tölgyes-Bad ist nach dem angrenzenden Eichenwald benannt.", "Jászapáti ist ein wichtiges Zentrum für den Anbau von Getreide und Sonnenblumen in der Tiefebene."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "tiszaujvaros",
@@ -5098,6 +8267,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Moderne Industriestadt an der Theiß, bekannt für Chemie und Sport.", "hu": "Modern iparváros a Tisza partján, vegyiparáról és sportéletéről ismert.", "ro": "Oraș industrial modern pe Tisa, cunoscut pentru industria chimică și sport.", "en": "Modern industrial city on the Tisza, known for chemistry and sports."},
     facts: {"de": ["Hieß früher Leninváros.", "Verfügt über ein großes Heil- und Erlebnisbad."], "hu": ["Korábban Leninvárosnak hívták.", "Hatalmas gyógy- és élményfürdővel rendelkezik."], "ro": ["Se numea anterior Leninváros.", "Are o baie curativă și de aventură imensă."], "en": ["Formerly called Leninváros.", "Features a large medicinal and adventure bath."]},
     image: "/poi-images/tiszaujvaros.webp",
+  
+    descriptionAdvanced: {
+      "de": "Tiszaújváros ist eine moderne, dynamische Stadt am Ufer der Theiß, die vor allem durch ihre bedeutende chemische Industrie und ihr erstklassiges Heilbad bekannt ist. In den 1960er Jahren als sozialistische Musterstadt gegründet, hat sich Tiszaújváros heute zu einem attraktiven Wohn- und Tourismusstandort entwickelt. Das Thermal- und Erlebnisbad der Stadt gehört zu den modernsten Ungarns und bietet mit seinem jod- und bromhaltigen Wasser hervorragende Bedingungen für Erholung und Heilung. Die Stadt legt großen Wert auf Sport und Freizeitgestaltung, was sich in zahlreichen modernen Sportanlagen und gepflegten Parks widerspiegelt. Die Nähe zum Fluss Theiß ermöglicht zudem vielfältige Aktivitäten wie Angeln, Bootfahren und Radtouren entlang des Ufers. Tiszaújváros ist ein Beispiel für erfolgreiche Stadtentwicklung in der ungarischen Tiefebene.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Tiszaújváros wurde ursprünglich unter dem Namen Leninváros (Leninstadt) gegründet.", "Die Stadt beherbergt eines der größten Chemieunternehmen Mitteleuropas.", "Das Heilbad von Tiszaújváros ist für seine moderne Architektur und hohe Wasserqualität bekannt.", "Die Stadt ist ein regelmäßiger Austragungsort internationaler Triathlon-Wettbewerbe."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "komlo",
@@ -5108,6 +8290,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Ehemalige Bergbaustadt im Mecsek-Gebirge mit schöner natürlicher Umgebung.", "hu": "Egykori bányászváros a Mecsekben, szép természeti környezettel.", "ro": "Fost oraș minier în munții Mecsek cu împrejurimi naturale frumoase.", "en": "Former mining town in the Mecsek Mountains with beautiful natural surroundings."},
     facts: {"de": ["War ein wichtiges Zentrum des Steinkohlebergbaus.", "Ein beliebtes Wandergebiet am Fuße des Mecsek."], "hu": ["A feketekőszén-bányászat fontos központja volt.", "Népszerű túrahelyszín a Mecsek lábánál."], "ro": ["A fost un centru important al minieritului de cărbune.", "O zonă populară de drumeții la poalele munților Mecsek."], "en": ["Was an important center of coal mining.", "A popular hiking area at the foot of the Mecsek."]},
     image: "/poi-images/komlo.webp",
+  
+    descriptionAdvanced: {
+      "de": "Komló, eingebettet in die bewaldeten Täler des Mecsek-Gebirges, blickt auf eine bedeutende Geschichte als Bergbaustadt zurück. Im 20. Jahrhundert entwickelte sich die Stadt zu einem der wichtigsten Steinkohlezentren Ungarns, was das Stadtbild und die Gemeinschaft maßgeblich prägte. Nach der Einstellung des Bergbaus hat sich Komló zu einem Tor für Naturtouristen entwickelt, die die unberührten Wälder des Mecsek erkunden möchten. Einzigartig ist das Mini-Zoo-Zentrum, das eine Vielzahl einheimischer und exotischer Kleintiere in einer familienfreundlichen Atmosphäre präsentiert. Die Stadt ist zudem ein idealer Ausgangspunkt für Wanderungen zu den Ruinen der Burg Máré und durch das idyllische Sikonda-Tal. Komló verbindet industrielles Erbe mit der natürlichen Frische des Mittelgebirges.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Komló war jahrzehntelang eine der bedeutendsten Bergbaustädte in Südungarn.", "In der Nähe befindet sich das malerische Sikonda-Bad mit seinem heilenden Wasser.", "Die Stadt beherbergt ein interessantes Bergbaumuseum zur Geschichte der Kohlegewinnung.", "Die umliegenden Wälder des Mecsek bieten ein dichtes Netz an markierten Wanderwegen."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "szazhalombatta",
@@ -5118,6 +8313,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Industriestadt an der Donau, bekannt für ihre Raffinerie und Archäologie.", "hu": "Duna-parti iparváros, finomítójáról és régészeti parkjáról ismert.", "ro": "Oraș industrial pe Dunăre, cunoscut pentru rafinăria sa și parkul arheologic.", "en": "Industrial city on the Danube, known for its refinery and archaeological park."},
     facts: {"de": ["Der Name bedeutet 'Hundert Hügel'.", "Beherbergt ein bedeutendes Eisenzeit-Museum."], "hu": ["Neve száz halmot jelent.", "Jelentős vaskori régészeti parkkal rendelkezik."], "ro": ["Numele înseamnă 'O sută de movile'.", "Găzduiește un muzeu important al epocii fierului."], "en": ["The name means 'Hundred Mounds'.", "Home to a significant Iron Age archaeological park."]},
     image: "/poi-images/szazhalombatta.webp",
+  
+    descriptionAdvanced: {
+      "de": "Százhalombatta liegt am rechten Ufer der Donau südlich von Budapest und ist bekannt für seine beeindruckende prähistorische Vergangenheit und moderne Industrie. Der Name der Stadt bedeutet wörtlich 'Hundert Hügel' und bezieht sich auf die über 100 eisenzeitlichen Grabhügel im hiesigen Archäologischen Park. Dieser Park ist das erste interaktive Freilichtmuseum seiner Art in Ungarn und präsentiert rekonstruierte Häuser und Grabstätten aus der Hallstattzeit. Heute ist die Stadt zudem ein bedeutendes Energiezentrum mit einer der größten Erdölraffinerien des Landes. Die Donaupromenade von Százhalombatta bietet moderne Freizeitmöglichkeiten und einen weiten Blick über den Fluss. Die Stadt verbindet auf faszinierende Weise die ältesten Siedlungsspuren der Region mit technischem Fortschritt.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Százhalombatta beherbergt den größten prähistorischen Grabhügel-Park Mitteleuropas.", "Der Name der Stadt stammt von den zahlreichen künstlichen Hügeln der Eisenzeit.", "In der Stadt befindet sich die bedeutende 'Matrica'-Museumssammlung zur römischen Geschichte.", "Százhalombatta ist ein wichtiges Zentrum der ungarischen Energiewirtschaft."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "monor",
@@ -5128,6 +8336,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Stadt am Rande des Gödöllő-Hügellandes, bekannt für ihr Kellerdorf.", "hu": "Város a Gödöllői-dombság szélén, pincefalujáról ismert.", "ro": "Oraș la poalele dealurilor Gödöllő, cunoscut pentru satul său de crame.", "en": "City at the edge of the Gödöllő Hills, known for its cellar village."},
     facts: {"de": ["Das Kellerdorf Strázsa-hegy hat fast 1000 Weinkeller.", "Wichtiges Weinbauzentrum in der Nähe von Budapest."], "hu": ["A Strázsa-hegyi pincefalu közel 1000 borpincét számlál.", "Fontos borászati központ Budapest közelében."], "ro": ["Satul de crame Strázsa-hegy are aproape 1000 de pivnițe.", "Centru viticol important lângă Budapesta."], "en": ["The Strázsa-hegy cellar village has nearly 1000 wine cellars.", "Important viticultural center near Budapest."]},
     image: "/poi-images/monor.webp",
+  
+    descriptionAdvanced: {
+      "de": "Monor liegt am Rande der Hügellandschaft von Gödöllő und ist landesweit für sein einzigartiges Kellerdorf am Strázsa-Hügel bekannt. Das Kellerdorf umfasst fast 1000 historische Weinkeller, die in geschlossenen Reihen angeordnet sind und ein bedeutendes architektonisches Denkmal bilden. Die Region hat eine lange Tradition im Weinbau, die bis in die Zeit des Mittelalters zurückreicht. Jährlich finden hier Weinfeste und kulinarische Veranstaltungen statt, die die exzellenten Weine der Region und die Gastfreundschaft der Bewohner feiern. Neben dem Wein bietet Monor eine ruhige, kleinstädtische Atmosphäre und ist ein wichtiger Verkehrsknotenpunkt südöstlich von Budapest. Ein Spaziergang durch die Kellergassen bietet authentische Einblicke in die ungarische Weinkultur der Tiefebene.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Kellerdorf von Monor am Strázsa-Hügel ist eines der größten zusammenhängenden Ensembles dieser Art.", "Die Region gehört zum Weinbaugebiet Etyek-Buda.", "In Monor befindet sich ein bedeutendes klassizistisches Rathaus aus dem 19. Jahrhundert.", "Die Stadt feiert jährlich das 'Monorer Kellerfest' mit traditioneller Musik und Weinproben."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "nagykoros",
@@ -5138,6 +8359,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Historische Stadt in der Tiefebene, berühmt für Landwirtschaft und Arany János.", "hu": "Történelmi alföldi város, mezőgazdaságáról és Arany Jánosról híres.", "ro": "Oraș istoric în câmpie, faimos pentru agricultură și Arany János.", "en": "Historic city in the plains, famous for agriculture and Arany János."},
     facts: {"de": ["Arany János lehrte hier am Lyzeum.", "Bekannt für den Kőröser Markt."], "hu": ["Arany János itt tanított a gimnáziumban.", "Híres a kőrösi vásárokról."], "ro": ["Arany János a predat aici la liceu.", "Faimos pentru târgurile din Nagykőrös."], "en": ["Arany János taught here at the lyceum.", "Famous for the Nagykőrös market."]},
     image: "/poi-images/nagykoros.webp",
+  
+    descriptionAdvanced: {
+      "de": "Nagyőrös, im Herzen Ungarns gelegen, ist als die 'Hauptstadt des ungarischen Marktes' und bedeutender Ort der literaturgeschichte bekannt. Die Stadt war über Jahrhunderte ein blühendes Handelszentrum, was sich in den großzügigen Plätzen und prächtigen Bürgerhäusern widerspiegelt. Ein kulturelles Highlight ist das Arany-János-Museum, das dem großen ungarischen Dichter gewidmet ist, der hier als Lehrer wirkte und einige seiner bedeutendsten Werke schuf. Nagyőrös ist zudem berühmt für seine erstklassige Obstproduktion, insbesondere für Äpfel und Kirschen, die auf den fruchtbaren Böden der Umgebung gedeihen. Die Stadt bewahrt eine ruhige, bürgerliche Eleganz und pflegt stolz ihr reiches kulturelles und landwirtschaftliches Erbe. Die weiten Parks und Alleen verleihen Nagyőrös eine angenehme, grüne Atmosphäre.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Nagyőrös beherbergt den einzigen Safaripark Ungarns am Stadtrand.", "Der Dichter Arany János lebte und lehrte fast ein Jahrzehnt lang in dieser Stadt.", "Die Stadt ist ein historisches Zentrum der ungarischen Obstverarbeitung.", "Das reformierte Gymnasium von Nagyőrös blickt auf eine über 450-jährige Geschichte zurück."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "marcali",
@@ -5148,6 +8382,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Kleinstadt südlich des Plattensees mit einem modernen Thermalbad.", "hu": "Kisváros a Balatontól délre, modern termálfürdővel.", "ro": "Oraș mic la sud de Lacul Balaton, cu o baie termală modernă.", "en": "Small town south of Lake Balaton with a modern thermal bath."},
     facts: {"de": ["Wirtschaftliches Zentrum des Marcali-Beckens.", "Beliebtes Ziel für Jagd- und Naturtourismus."], "hu": ["A Marcali-hát gazdasági központja.", "Népszerű vadász- és természetjáró célpont."], "ro": ["Centrul economic al bazinului Marcali.", "Destinație populară pentru vânătoare și ecoturism."], "en": ["Economic center of the Marcali Basin.", "Popular destination for hunting and nature tourism."]},
     image: "/poi-images/marcali.webp",
+  
+    descriptionAdvanced: {
+      "de": "Marcali, südlich des Plattensees gelegen, ist das wirtschaftliche und kulturelle Zentrum der Region Somogy-Hinterland. Die Stadt besticht durch ihr gepflegtes Stadtbild und das moderne Heil- und Strandbad, das Entspannung für Bewohner und Besucher bietet. Ein bedeutendes Wahrzeichen ist das Schloss Széchényi, das von einem weitläufigen Park umgeben ist und heute ein Museum beherbergt. Marcali blickt auf eine lange handwerkliche Tradition zurück, die in den lokalen Sammlungen zur Volkskunde gewürdigt wird. Die Umgebung der Stadt ist geprägt von sanften Hügeln, dichten Wäldern und Weinbergen, die zu Naturerlebnissen einladen. Marcali strahlt eine angenehme Ruhe aus und ist ein idealer Ort für alle, die das authentische ländliche Ungarn unweit des Balaton suchen.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Heilbad von Marcali ist für sein fluoridhaltiges Thermalwasser bekannt.", "Das Schloss Széchényi war einst im Besitz einer der bedeutendsten Adelsfamilien Ungarns.", "Die Stadt ist ein wichtiges Zentrum für den ländlichen Tourismus im Komitat Somogy.", "Marcali feiert jährlich ein großes Erntedankfest zur Pflege bäuerlicher Traditionen."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "barcs",
@@ -5158,6 +8405,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Grenzstadt an der Drau, Tor zum Nationalpark Donau-Drau.", "hu": "Határváros a Dráva partján, a Duna–Dráva Nemzeti Park kapuja.", "ro": "Oraș de graniță pe râul Drava, poarta către Parcul Național Dunăre-Drava.", "en": "Border city on the Drava river, gateway to the Danube-Drava National Park."},
     facts: {"de": ["Bekannt für den Dráva-Freistrand.", "Wichtiger Flusshafen und Grenzübergang."], "hu": ["Híres a drávai szabadstrandjáról.", "Fontos folyami kikötő és határátkelő."], "ro": ["Cunoscut pentru plaja liberă de pe Drava.", "Port fluvial și punct de trecere a frontierei important."], "en": ["Known for the Drava free beach.", "Important river port and border crossing."]},
     image: "/poi-images/barcs.webp",
+  
+    descriptionAdvanced: {
+      "de": "Barcs liegt direkt am Ufer der Drau im Süden Ungarns und ist ein bedeutendes Tor zum Nationalpark Donau-Drau. Die Stadt ist geprägt von der Nähe zum Fluss, der hier die Grenze zu Kroatien bildet und für seine unberührte Natur bekannt ist. Das Dráva-Heilbad von Barcs bietet mit seinem wertvollen Thermalwasser Erholung in einer ruhigen Grenzlandschaft. Ein kulturelles Highlight ist das Dráva-Museum, das die Natur- und Kulturgeschichte des Flusstals eindrucksvoll dokumentiert. Barcs ist ein Paradies für Angler, Kanufahrer und Radfahrer, die die Stille der Auenwälder und die reiche Vogelwelt schätzen. Die Stadt verbindet auf charmante Weise ungarische und kroatische Kultureinflüsse am Ufer eines der saubersten Flüsse Europas.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Barcs ist die 'Hauptstadt der Drau' und ein wichtiges Zentrum für Flusstourismus.", "Der Fluss Drau ist bei Barcs Teil eines grenzüberschreitenden Biosphärenreservats.", "Die Stadt beherbergt ein bedeutendes Bildungszentrum für Forst- und Wasserwirtschaft.", "Das Heilwasser von Barcs ist besonders reich an Natriumhydrogencarbonat."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "celldomolk",
@@ -5168,6 +8428,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Stadt am Fuße des Berges Ság, bekannt für den Wallfahrtsort Kemenesalja.", "hu": "Város a Ság-hegy lábánál, a kemenesaljai búcsújáróhelyről ismert.", "ro": "Oraș la poalele muntelui Ság, cunoscut pentru locul de pelerinaj Kemenesalja.", "en": "City at the foot of Ság Mountain, known for the Kemenesalja pilgrimage site."},
     facts: {"de": ["Der Berg Ság ist ein erloschener Vulkan.", "Beherbergt das Kemenes Vulkanpark-Museum."], "hu": ["A Ság-hegy egy kialudt vulkáni tanúhegy.", "Itt található a Kemenes Vulkánpark múzeuma."], "ro": ["Muntele Ság este un vulcan stins.", "Găzduiește muzeul Parcului Vulcanic Kemenes."], "en": ["Ság Mountain is an extinct volcanic hill.", "Home to the Kemenes Volcano Park museum."]},
     image: "/poi-images/celldomolk.webp",
+  
+    descriptionAdvanced: {
+      "de": "Celldömölk, am Fuße des vulkanischen Ság-Berges gelegen, ist einer der bedeutendsten Wallfahrtsorte Westungarns. Die prachtvolle barocke Maria-Himmelfahrt-Kirche und das angrenzende Benediktinerkloster ziehen seit Jahrhunderten Pilger an. Ein einzigartiges Naturwunder ist der Ság-Berg selbst, ein erloschener Vulkan, dessen erstarrte Kraterwände einen faszinierenden Einblick in die Erdgeschichte bieten. Im Kemenes-Vulkanpark können Besucher alles über die vulkanischen Aktivitäten der Region und der Welt erfahren. Die Stadt bietet zudem Entspannung im modernen Vulkán-Heilbad, das direkt am Fuße des Berges liegt. Celldömölk verbindet auf beeindruckende Weise tiefe Religiosität mit spektakulären Naturphänomenen.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Die Wallfahrtskirche von Celldömölk beherbergt eine Gnadenstatue aus dem 18. Jahrhundert.", "Der Ság-Berg ist ein bedeutendes geologisches Denkmal und Weinbaugebiet.", "Der Kemenes-Vulkanpark ist das einzige vulkanologische Besucherzentrum in Ungarn.", "In der Stadt wurde im 18. Jahrhundert eine der ersten Druckereien der Region gegründet."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "kormend",
@@ -5178,6 +8451,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Stadt an der Raab, berühmt für das Schloss Batthyány-Strattmann.", "hu": "Rába-parti város, a Batthyány–Strattmann-kastélyról híres.", "ro": "Oraș pe râul Rába, faimos pentru Castelul Batthyány-Strattmann.", "en": "City on the Rába river, famous for the Batthyány-Strattmann Castle."},
     facts: {"de": ["Das Schloss beherbergt ein Schuhmuseum.", "Umgeben von einem prächtigen Schlosspark."], "hu": ["A kastélyban cipőtörténeti múzeum működik.", "Pompás kastélypark veszi körül."], "ro": ["Castelul găzduiește un muzeu al pantofilor.", "Înconjurat de un parc magnific al castelului."], "en": ["The castle houses a shoe museum.", "Surrounded by a magnificent castle park."]},
     image: "/poi-images/kormend.webp",
+  
+    descriptionAdvanced: {
+      "de": "Körmend, an der Raab (Rába) gelegen, ist vor allem für das prachtvolle Schloss Batthyány bekannt, eines der bedeutendsten Barock-Ensembles Ungarns. Das Schloss war über Jahrhunderte der Hauptsitz der mächtigen Familie Batthyány und beherbergt heute ein Museum sowie eine wertvolle Bibliothek. Der weitläufigen Schlosspark mit seinen jahrhundertealten Bäumen ist eines der wertvollsten Arboretums des Landes. Körmend blickt auf eine reiche Geschichte als Grenzstadt und Handelszentrum zurück, was sich in der Architektur des Zentrums widerspiegelt. Die Stadt ist zudem für ihre erfolgreiche Basketballtradition und ihre lebendige Sportkultur bekannt. Körmend bietet eine elegante Atmosphäre, die von adeliger Geschichte und der natürlichen Schönheit des Raab-Tals geprägt ist.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Schloss Batthyány in Körmend besitzt eine der wertvollsten historischen Waffensammlungen des Landes.", "Der Schlosspark beherbergt Exemplare von Platanen, die bereits über 200 Jahre alt sind.", "Körmend wird oft als 'Hauptstadt der ungarischen Basketballkultur' bezeichnet.", "Die Stadt liegt an der historischen Poststraße zwischen Wien und Triest."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "jaki-templom",
@@ -5188,6 +8474,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Meisterwerk der romanischen Architektur in Ungarn mit berühmtem Portal.", "hu": "A magyarországi román stílusú építészet remekműve, híres bélletes kapujával.", "ro": "Capodoperă a arhitecturii romanice din Ungaria cu celebrul său portal.", "en": "A masterpiece of Romanesque architecture in Hungary with its famous portal."},
     facts: {"de": ["Im 13. Jahrhundert als Benediktinerklosterkirche erbaut.", "Das Portal ist reich mit Skulpturen verziert."], "hu": ["A 13. században épült bencés apátsági templomként.", "Kapuzata gazdagon díszített szobrokkal."], "ro": ["Construită în secolul al XIII-lea ca biserică a abației benedictine.", "Portalul este bogat decorat cu sculpturi."], "en": ["Built in the 13th century as a Benedictine abbey church.", "The portal is richly decorated with sculptures."]},
     image: "/poi-images/jaki-templom.webp",
+  
+    descriptionAdvanced: {
+      "de": "Die Kirche von Ják ist das herausragendste Denkmal der romanischen Architektur in Ungarn und ein Symbol christlicher Kunst im Karpatenbecken. Gegründet im 13. Jahrhundert als Abteikirche des Benediktinerordens, beeindruckt sie vor allem durch ihr prachtvolles Stufenportal mit seinen reichen Steinmetzarbeiten. Die monumentale Doppelturmfassade und die schlichte Erhabenheit des Innenraums zeugen von der Meisterschaft mittelalterlicher Baumeister. Die Kirche steht erhaben auf einem Hügel und ist schon von weitem sichtbar, was ihre Bedeutung als spirituelles Zentrum unterstreicht. Direkt neben der Kirche befindet sich die St.-Jakobus-Kapelle, die ebenfalls ein Juwel romanischer Baukunst ist. Ják ist ein Ort von zeitloser Schönheit, der Besucher tief in die religiöse Geschichte Ungarns eintauchen lässt.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Die Abteikirche von Ják wurde im Jahr 1256 zu Ehren des Heiligen Georg geweiht.", "Das Hauptportal der Kirche gilt als eines der schönsten romanischen Portale in ganz Europa.", "Die Kirche ist die Grabstätte der bedeutenden Adelsfamilie Ják.", "Nach einer umfangreichen Restaurierung erstrahlen die Skulpturen und Steinmetzarbeiten wieder im alten Glanz."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "nyirbatori-templom",
@@ -5198,6 +8497,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Spätgotische Hallenkirche mit beeindruckendem Netzgewölbe.", "hu": "Késő gótikus csarnoktemplom lenyűgöző hálóboltozattal.", "ro": "Biserică hală în stil gotic târziu cu o boltă în rețea impresionantă.", "en": "Late Gothic hall church with an impressive net vault."},
     facts: {"de": ["Besitzt einen hölzernen Glockenturm aus dem 17. Jahrhundert.", "Einstige Grabstätte der Familie Báthori."], "hu": ["17. századi fa harangtoronnyal rendelkezik.", "A Báthori család egykori temetkezési helye."], "ro": ["Are o clopotniță din lemn din secolul al XVII-lea.", "Fostul loc de înmormântare al familiei Báthori."], "en": ["Has a wooden bell tower from the 17th century.", "Former burial place of the Báthori family."]},
     image: "/poi-images/nyirbatori-templom.webp",
+  
+    descriptionAdvanced: {
+      "de": "Die reformierte Kirche von Nyírbátor ist eines der bedeutendsten spätgotischen Bauwerke in Ostungarn und eng mit der mächtigen Familie Báthory verbunden. Das Gebäude beeindruckt durch sein enormes einschiffiges Halleninnere und das kunstvolle Netzgewölbe, das als Meisterwerk der ungarischen Gotik gilt. Direkt neben der Kirche befindet sich der markante hölzerne Glockenturm, der größte und älteste seiner Art im Land. Nyírbátor war im Mittelalter ein spirituelles Zentrum der Region und beherbergt zudem eine prachtvolle katholische Minoritenkirche mit barocker Ausstattung. Die Geschichte der Báthorys, die sowohl Helden als auch sagenumwobene Gestalten hervorbrachten, ist in der ganzen Stadt spürbar. Ein Besuch in Nyírbátor bietet tiefe Einblicke in die Architektur und die Mythenwelt des ungarischen Nordostens.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Die Kirche wurde Ende des 15. Jahrhunderts von István Báthory nach der Schlacht von Brotfield errichtet.", "Der hölzerne Glockenturm stammt aus dem Jahr 1640 und ist ein Wahrzeichen der Region.", "In der Kirche befinden sich wertvolle Renaissance-Grabdenkmäler der Familie Báthory.", "Nyírbátor feiert jährlich ein großes Renaissance-Festival mit historischen Kostümen."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "edelenyi-kastely",
@@ -5208,6 +8520,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Eines der größten und prächtigsten Barockschlösser Ungarns.", "hu": "Magyarország egyik legnagyobb és legpompásabb barokk kastélya.", "ro": "Unul dintre cele mai mari și mai splendide castele baroce din Ungaria.", "en": "One of the largest and most magnificent Baroque palaces in Hungary."},
     facts: {"de": ["Bekannt für seine einzigartigen Rokoko-Wandmalereien.", "Auf einer Insel im Fluss Bódva erbaut."], "hu": ["Egyedülálló rokokó falfestményeiről ismert.", "A Bódva folyó szigetén épült fel."], "ro": ["Cunoscut pentru picturile sale murale unice în stil rococo.", "Construit pe o insulă a râului Bódva."], "en": ["Known for its unique Rococo wall paintings.", "Built on an island in the Bódva River."]},
     image: "/poi-images/edelenyi-kastely.webp",
+  
+    descriptionAdvanced: {
+      "de": "Das Schloss L'Huillier-Coburg in Edelény ist eines der größten und prachtvollsten Barockschlösser im Nordosten Ungarns. Das Bauwerk besticht durch seine enorme Größe und die sieben markanten Zwiebeltürme, die ihm ein fast märchenhaftes Aussehen verleihen. Das absolute Highlight im Inneren sind die einzigartigen Wandmalereien von Ferenc Lieb aus dem 18. Jahrhundert, die das Leben des Adels in lebhaften Farben darstellen. Das Schloss wurde in den letzten Jahren aufwendig restauriert und dient heute als modernes Kulturzentrum mit interaktiven Ausstellungen. Es liegt inmitten eines weiten Parks am Ufer des Flusses Bódva und strahlt eine vornehme Ruhe aus. Edelény ist ein Muss für jeden Liebhaber barocker Architektur und aristokratischer Wohnkultur.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Schloss in Edelény ist das siebtgrößte Schlossgebäude in Ungarn.", "Es beherbergt den größten zusammenhängenden Zyklus profaner Barockfresken des Landes.", "Das Schloss wurde im 18. Jahrhundert für den lothringischen General Jean-François L'Huillier erbaut.", "Eine Besonderheit ist der interaktive 3D-Film, der die Geschichte des Schlosses für Besucher lebendig macht."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "csakvari-kastely",
@@ -5218,6 +8543,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Klassizistisches Schloss der Familie Esterházy im Vértes-Gebirge.", "hu": "Az Esterházy család klasszicista kastélya a Vértes lábánál.", "ro": "Castelul clasicist al familiei Esterházy la poalele munților Vértes.", "en": "Neoclassical palace of the Esterházy family at the foot of the Vértes."},
     facts: {"de": ["Früher ein bedeutendes kulturelles Zentrum.", "Umgeben von einem großen englischen Landschaftsgarten."], "hu": ["Egykor jelentős kulturális központ volt.", "Hatalmas angolpark veszi körül."], "ro": ["Odată un centru cultural important.", "Înconjurat de un imens parc englezesc."], "en": ["Once a significant cultural center.", "Surrounded by a vast English landscape garden."]},
     image: "/poi-images/csakvari-kastely.webp",
+  
+    descriptionAdvanced: {
+      "de": "Das Esterházy-Schloss in Csákvár ist ein herausragendes Beispiel klassizistischer Architektur im Vértes-Gebirge. Das ehemalige herrschaftliche Anwesen war über Jahrhunderte ein Zentrum für Kultur und Pferdezucht der Familie Esterházy. Das Schloss beeindruckt durch seine harmonischen Proportionen und die monumentale Säulenhalle im Zentrum. Umgeben ist das Gebäude von einem der schönsten englischen Gärten Ungarns, der seltene Baumarten und romantische Pavillons beherbergt. Heute ist in einem Teil des Schlosses ein Krankenhaus untergebracht, während die Repräsentationsräume und der Park für Besucher zugänglich sind. Csákvár ist zudem für seine traditionsreiche Töpferkunst bekannt, die im örtlichen Museum dokumentiert wird.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Schloss Csákvár war einst die bevorzugte Sommerresidenz der gräflichen Linie der Familie Esterházy.", "Der Schlosspark erstreckt sich über 40 Hektar und ist ein geschütztes Naturdenkmal.", "In Csákvár wurde im 19. Jahrhundert die berühmte ungarische Pferderasse 'Nonius' gezüchtet.", "Die Stadt liegt im Herzen des Vértes-Gebirges und ist ein Tor zum Nationalpark."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "nadasdy-kastely",
@@ -5228,6 +8566,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Einzigartiges neugotisches Schloss im Tudor-Stil in Nádasdladány.", "hu": "Egyedülálló neogótikus, Tudor-stílusú kastély Nádasdladányban.", "ro": "Castel neogotic unic în stil Tudor în Nádasdladány.", "en": "Unique Neo-Gothic Tudor-style mansion in Nádasdladány."},
     facts: {"de": ["Bekannt für den prachtvollen Ahnen-Saal.", "Eines der romantischsten Schlösser Ungarns."], "hu": ["Híres a pompás Ősök csarnokáról.", "Magyarország egyik legromantikusabb kastélya."], "ro": ["Cunoscut pentru splendida sală a strămoșilor.", "Unul dintre cele mai romantice castele din Ungaria."], "en": ["Known for the magnificent Ancestors' Hall.", "One of the most romantic mansions in Hungary."]},
     image: "/poi-images/nadasdy-kastely.webp",
+  
+    descriptionAdvanced: {
+      "de": "Das Schloss Nádasdy in Nádasdladány ist ein einzigartiges architektonisches Juwel, das im Tudor-Stil erbaut wurde und an englische Herrensitze erinnert. Das neugotische Schloss wurde im 19. Jahrhundert für Graf Ferenc Nádasdy als Liebesbeweis für seine Frau Ilona Zichy errichtet. Besonders beeindruckend ist der prachtvolle Ahnensaal mit seinen geschnitzten Holzdecken und den Porträts der Familie Batthyány und Nádasdy. Das Schloss verfügte bereits bei seinem Bau über modernste Technik wie Zentralheizung und elektrisches Licht, was damals eine Sensation war. Umgeben von einem idyllischen englischen Garten, strahlt die Anlage eine romantische und zugleich mystische Atmosphäre aus. Nádasdladány bietet einen faszinierenden Einblick in die eklektische Architektur und den aristokratischen Lebensstil des ungarischen Historismus.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Schloss Nádasdy ist das einzige bedeutende Bauwerk im Tudor-Stil in ganz Ungarn.", "Im Ahnensaal hängen lebensgroße Porträts der Vorfahren, die in die Wandtäfelung eingelassen sind.", "Das Gebäude diente aufgrund seiner besonderen Atmosphäre bereits als Filmkulisse für internationale Produktionen.", "Das Schloss wurde in den letzten Jahren originalgetreu saniert und ist für Besucher zugänglich."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "deg-kastely",
@@ -5238,6 +8589,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Eines der bedeutendsten klassizistischen Schlösser mit dem größten englischen Garten.", "hu": "Az ország egyik legjelentősebb klasszicista kastélya a legnagyobb angolparkkal.", "ro": "Unul dintre cele mai importante castele clasiciste cu cel mai mare parc englezesc.", "en": "One of the most significant Neoclassical palaces with the largest English garden."},
     facts: {"de": ["Bekannt für das 'Holländerhaus' im Park.", "Ein wichtiges Zentrum der ungarischen Freimaurerei."], "hu": ["Híres a parkban található Hollandi-házról.", "A magyar szabadkőművesség egyik központja volt."], "ro": ["Cunoscut pentru 'Casa Olandeză' din parc.", "Un centru important al masoneriei maghiare."], "en": ["Known for the 'Dutch House' in the park.", "An important center of Hungarian Freemasonry."]},
     image: "/poi-images/deg-kastely.webp",
+  
+    descriptionAdvanced: {
+      "de": "Das Festetics-Schloss in Dég ist eines der frühesten und bedeutendsten Denkmäler der klassizistischen Architektur in Ungarn. Entworfen vom berühmten Architekten Mihály Pollack, besticht das Bauwerk durch seine edle Schlichtheit und die monumentale dorische Säulenhalle. Einzigartig ist das sogenannte 'Holländerhaus', ein rotes Backsteingebäude auf einer Insel im Schlosspark, das einst als Quarantänestation diente. Das Schloss war über lange Zeit ein geheimes Zentrum der ungarischen Freimaurerei, woran heute noch architektonische Details erinnern. Der weitläufige englische Garten mit seinem verzweigten Kanalsystem ist einer der größten und romantischsten des Landes. Dég bietet eine Atmosphäre von erhabener Ruhe und geheimnisvoller Geschichte inmitten der Hügellandschaft von Fejér.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Schloss Dég beherbergte einst das bedeutendste Freimaurer-Archiv Mitteleuropas.", "Das 'Holländerhaus' auf der Parkinsel ist ein landesweit einzigartiges Baudenkmal.", "Der Schlosspark besitzt das größte künstliche Seensystem ungarischer Gartenanlagen.", "Das Schloss wurde nach umfangreichen Restaurierungsarbeiten im Jahr 2022 wiedereröffnet."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "tiszadob-kastely",
@@ -5248,6 +8612,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Märchenhaftes historistisches Schloss an der Theiß mit Labyrinth.", "hu": "Mesebeli historizáló kastély a Tisza partján, labirintussal.", "ro": "Castel istoric de basm pe malul Tisei, cu un labirint.", "en": "Fairytale-like Historicist castle on the Tisza with a labyrinth."},
     facts: {"de": ["Die Architektur ist von französischen Schlössern inspiriert.", "Hat einen berühmten Buchsbaum-Irrgarten."], "hu": ["Építészetét francia kastélyok ihlették.", "Híres a bukszus-labirintusáról."], "ro": ["Arhitectura sa este inspirată de castelele franceze.", "Are un faimos labirint de cimișir."], "en": ["Its architecture was inspired by French castles.", "Has a famous boxwood labyrinth."]},
     image: "/poi-images/tiszadob-kastely.webp",
+  
+    descriptionAdvanced: {
+      "de": "Das Schloss Andrássy in Tiszadob ist ein märchenhaftes Bauwerk am Ufer der Theiß, das durch seine eklektische Architektur mit Elementen der Gotik und Renaissance besticht. Das Schloss wurde Ende des 19. Jahrhunderts für Graf Gyula Andrássy erbaut und sollte der Überlieferung nach die vier Jahreszeiten, die 12 Monate, die 52 Wochen und die 365 Tage im Jahr widerspiegeln. Ein absolutes Highlight ist der kunstvoll angelegte Buchsbaum-Irrgarten im Schlosspark, der einer der größten und schönsten Ungarns ist. Das Schloss thront auf einem Hochufer und bietet fantastische Ausblicke über die weiten Flusslandschaften der Theiß. Die romantischen Türmchen und verwinkelten Fassaden verleihen dem Gebäude den Charakter eines echten Zauberschlosses. Tiszadob ist ein Ort, an dem sich aristokratische Träume und die wilde Natur des Flusstals begegnen.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Schloss besitzt exakt 4 Türme, 12 Eingänge, 52 Zimmer und 365 Fenster.", "Der Irrgarten im Park ist ein einzigartiges Beispiel historischer Gartenkunst in Ungarn.", "Graf Gyula Andrássy war ein bedeutender Staatsmann und Ministerpräsident der k.u.k. Monarchie.", "In dem Schloss finden regelmäßig internationale Kultur- und Kunstfestivals statt."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "fuzerradvany-kastely",
@@ -5258,6 +8635,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Prächtiges Schloss im eklektischen Stil mit riesigem Landschaftspark.", "hu": "Pompás eklektikus kastély hatalmas tájképi kerttel a Zemplénben.", "ro": "Castel splendid în stil eclectic cu un imens parc peisagistic.", "en": "Magnificent eclectic-style palace with a huge landscape park in Zemplén."},
     facts: {"de": ["Bekannt für sein italienisches Renaissance-Interieur.", "Der Park beherbergt jahrhundertealte Platanen."], "hu": ["Híres itáliai reneszánsz belső tereiről.", "A parkban évszázados platánfák találhatók."], "ro": ["Cunoscut pentru interiorul său în stil renascentist italian.", "Parcul găzduiește platani seculari."], "en": ["Known for its Italian Renaissance interiors.", "The park is home to centuries-old plane trees."]},
     image: "/poi-images/fuzerradvany-kastely.webp",
+  
+    descriptionAdvanced: {
+      "de": "Das Schloss Károlyi in Füzérradvány ist ein prachtvolles Beispiel des Historismus im Zemplén-Gebirge, das vor allem durch sein italienisches Flair besticht. Ursprünglich ein Barockbau, wurde das Schloss im 19. Jahrhundert im Stil der Neorenaissance umgestaltet, wobei originale Bauelemente aus italienischen Palazzi integriert wurden. Besucher sind fasziniert von den Marmorkaminen, den geschnitzten Holztüren und den prachtvollen Sälen, die ein Stück Italien in den Norden Ungarns bringen. Das Schloss ist von einem der bedeutendsten Landschaftsparks des Landes umgeben, der für seine riesigen Platanen und seltenen Nadelhölzer berühmt ist. In den 1930er Jahren fungierte das Schloss als elegantes Luxushotel und zog die High Society der Monarchie an. Heute bietet das renovierte Schloss faszinierende Einblicke in die Welt des ungarischen Hochadels.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Schloss beherbergt zahlreiche originale Renaissance-Details, die direkt aus Italien importiert wurden.", "Der Park von Füzérradvány beherbergt die ältesten und größten Platanen Ungarns.", "Die Burganlage diente in der Zwischenkriegszeit als Drehort für zahlreiche Filme.", "Vom Schlossturm aus hat man einen weiten Blick bis hin zur Burg Füzér."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "szabadkigyos-kastely",
@@ -5268,6 +8658,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Meisterwerk von Miklós Ybl im eklektischen und Neorenaissance-Stil.", "hu": "Ybl Miklós remekműve eklektikus és neoreneszánsz stílusban.", "ro": "Capodoperă a lui Miklós Ybl în stil eclectic și neorenascentist.", "en": "A masterpiece by Miklós Ybl in eclectic and Neo-Renaissance style."},
     facts: {"de": ["Hat 365 Fenster, 52 Zimmer und 4 Eingänge (wie das Jahr).", "Umgeben von einem herrlichen Schlosspark."], "hu": ["365 ablaka, 52 szobája és 4 bejárata van.", "Gyönyörű kastélypark veszi körül."], "ro": ["Are 365 de ferestre, 52 de camere și 4 intrări.", "Înconjurat de un parc superb al castelului."], "en": ["Has 365 windows, 52 rooms, and 4 entrances.", "Surrounded by a beautiful castle park."]},
     image: "/poi-images/szabadkigyos-kastely.webp",
+  
+    descriptionAdvanced: {
+      "de": "Das Schloss Wenckheim in Szabadkígyós ist eines der prächtigsten eklektischen Schlösser im Südosten Ungarns, entworfen vom berühmten Architekten Miklós Ybl. Das zwischen 1875 und 1879 errichtete Bauwerk besticht durch seine harmonische Architektur, die deutsche und französische Einflüsse vereint. Einzigartig ist die symbolische Gestaltung des Gebäudes mit seinen 365 Fenstern, 52 Zimmern und 12 Eingängen, die den Kalender widerspiegeln. Das Schloss besitzt einen markanten Aussichtsturm und eine prachtvolle Kapelle, die die religiöse Bedeutung für die Familie Wenckheim unterstreicht. Der umliegende Park mit seinem künstlichen See und den seltenen Baumarten lädt zu ausgiebigen Spaziergängen ein. Szabadkígyós ist ein leuchtendes Beispiel für die glanzvolle Ära der ungarischen Schlossbaukunst am Ende des 19. Jahrhunderts.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Das Schloss wurde mit modernster Technik seiner Zeit, darunter eine Gasbeleuchtung, ausgestattet.", "Die Fassade des Gebäudes ist mit aufwendigen Zierelementen und Wappen der Familie Wenckheim geschmückt.", "In dem Schloss befand sich eine der bedeutendsten privaten Bibliotheken des Komitats Békés.", "Das Schloss wurde im Jahr 2022 nach einer vollständigen Rekonstruktion als Besucherzentrum neu eröffnet."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "zsambek-romtemplom",
@@ -5278,6 +8681,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Beeindruckende Ruine einer spätromanisch-gotischen Basilika.", "hu": "Késő román-kori és gótikus bazilika lenyűgöző romjai.", "ro": "Ruinele impresionante ale unei bazilici în stil romanic târziu și gotic.", "en": "Impressive ruins of a late Romanesque and Gothic basilica."},
     facts: {"de": ["Wurde durch ein Erdbeben im Jahr 1763 zerstört.", "Ein Symbol der mittelalterlichen ungarischen Architektur."], "hu": ["Az 1763-as földrengés során pusztult el.", "A középkori magyar építészet egyik jelképe."], "ro": ["A fost distrusă de un cutremur în anul 1763.", "Un simbol al arhitecturii maghiare medievale."], "en": ["Destroyed by an earthquake in 1763.", "A symbol of medieval Hungarian architecture."]},
     image: "/poi-images/zsambek-romtemplom.webp",
+  
+    descriptionAdvanced: {
+      "de": "Die Kirchenruine von Zsámbék ist eines der eindrucksvollsten und dramatischsten Baudenkmäler des ungarischen Mittelalters. Die im 13. Jahrhundert errichtete spätromanisch-frühgotische Basilika wurde durch ein verheerendes Erdbeben im Jahr 1763 weitgehend zerstört. Die stehengebliebenen Mauern und die markanten Doppeltürme ragen heute als steinerne Zeugen in den Himmel und bieten ein faszinierendes Bild verfallener Pracht. Die Ruine bewahrt meisterhafte Steinmetzarbeiten und Kapitelle, die den Übergang der Stilepochen dokumentieren. Am Fuße der Ruine befindet sich ein Lapidarium, in dem wertvolle architektonische Fragmente der einstigen Abtei ausgestellt sind. Zsámbék ist ein Ort von großer spiritueller Kraft und ein beliebtes Ziel für Fotografen und Geschichtsinteressierte. Die Ruine dient zudem als stimmungsvolle Kulisse für sommerliche Freilichtkonzerte.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Die Kirche wurde ursprünglich für den Prämonstratenserorden erbaut.", "Das Erdbeben von 1763 war so stark, dass es die gesamte Region um Zsámbék erschütterte.", "Die Ruine gilt als das bedeutendste Denkmal des Übergangsstils zwischen Romanik und Gotik in Ungarn.", "Von der Anhöhe der Ruine hat man einen weiten Blick über das Zsámbéker Becken."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "szentendre-varazshegy",
@@ -5288,6 +8704,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Ein versteckter Märchenpark und Erlebnispfad in Szentendre.", "hu": "Rejtett mesepark és élményösvény Szentendrén.", "ro": "Un parc de basm ascuns și o potecă de aventură în Szentendre.", "en": "A hidden fairytale park and adventure trail in Szentendre."},
     facts: {"de": ["Einzigartige Installationen aus Naturmaterialien.", "Ideal für Familien mit kleinen Kindern."], "hu": ["Egyedülálló installációk természetes anyagokból.", "Ideális kisgyermekes családok számára."], "ro": ["Instalații unice din materiale naturale.", "Ideal pentru familii cu copii mici."], "en": ["Unique installations from natural materials.", "Ideal for families with young children."]},
     image: "/poi-images/szentendre-varazshegy.webp",
+  
+    descriptionAdvanced: {
+      "de": "Der Zauberberg (Varázshegy) in Szentendre ist ein kreativer Erlebnisraum für Familien, der die Welt der Märchen und Mythen mit der Kunst verbindet. Inmitten der malerischen Stadt Szentendre bietet dieser Ort interaktive Ausstellungen, bei denen Kinder und Erwachsene in phantastische Welten eintauchen können. Die Installationen nutzen Lichteffekte, Klangwelten und künstlerische Objekte, um die Phantasie der Besucher anzuregen. Es ist ein Ort des Staunens, der zeigt, wie vielfältig die kulturelle Szene der 'Stadt der Künstler' ist. Regelmäßige Workshops laden dazu ein, selbst kreativ zu werden und kleine Kunstwerke zu erschaffen. Der Zauberberg ist eine wunderbare Ergänzung zu den klassischen Museen der Stadt und bietet ein modernes, spielerisches Kulturerlebnis.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Der Zauberberg ist ein modernes interaktives Zentrum für zeitgenössische Kunstvermittlung.", "Der Ort ist besonders auf die Bedürfnisse und Interessen von Kindern ausgerichtet.", "Regelmäßig finden hier Märchenlesungen und theatralische Vorführungen statt.", "Das Zentrum befindet sich in einem historischen Gebäude, das modern umgestaltet wurde."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "balatonalmadi-strand",
@@ -5298,6 +8727,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Gepflegter Strand am Nordostufer des Plattensees.", "hu": "Gondozott strand a Balaton északkeleti partján.", "ro": "Plajă bine întreținută pe malul de nord-est al Lacului Balaton.", "en": "Well-kept beach on the northeastern shore of Lake Balaton."},
     facts: {"de": ["Große Liegewiesen und Schatten spendende Bäume.", "Bietet einen weiten Blick über den See."], "hu": ["Nagy füves terület és árnyas fák várják a strandolókat.", "Szép kilátást nyújt a tóra."], "ro": ["Zone largi cu iarbă și copaci umbroși.", "Oferă o vedere frumoasă asupra lacului."], "en": ["Large grassy areas and shady trees.", "Offers a beautiful view over the lake."]},
     image: "/poi-images/balatonalmadi-strand.webp",
+  
+    descriptionAdvanced: {
+      "de": "Der Strand von Balatonalmádi ist einer der beliebtesten und am besten ausgestatteten Badeplätze am Nordostufer des Plattensees. Mit seinen weitläufigen Rasenflächen, den schattenspendenden alten Bäumen und dem klaren Wasser bietet er ideale Bedingungen für einen entspannten Sommertag. Besonders attraktiv für Familien ist der flach abfallende Uferbereich und die Vielzahl an Spielplätzen und Sportmöglichkeiten. Balatonalmádi ist zudem für seine markanten roten Sandsteinfelsen bekannt, die dem Ort ein besonderes geologisches Gepräge geben. Am Strand finden im Sommer regelmäßig Sportwettbewerbe und Unterhaltungsprogramme statt, die für eine lebendige Urlaubsatmosphäre sorgen. Die Nähe zum Bahnhof und zur Promenade macht den Strand besonders leicht erreichbar und komfortabel.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Balatonalmádi besitzt einen der größten und gepflegtesten Strände am Nordufer des Sees.", "Die Region ist berühmt für ihren roten Perm-Sandstein, der auch für die Gestaltung des Strandes genutzt wurde.", "Vom Ufer aus hat man einen fantastischen Blick auf das Südufer und den Yachthafen.", "Der Strand trägt seit Jahren die 'Blaue Welle'-Flagge für exzellente Wasserqualität und Service."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "keszthely-strand",
@@ -5308,6 +8750,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Historischer Strand mit dem ikonischen Inselbadgebäude.", "hu": "Történelmi strand az ikonikus Szigetfürdő épületével.", "ro": "Plajă istorică cu clădirea iconică Szigetfürdő.", "en": "Historic beach with the iconic Szigetfürdő island bath building."},
     facts: {"de": ["Das Inselbad wurde im 19. Jahrhundert erbaut.", "Bietet vielfältige Sport- und Freizeitmöglichkeiten."], "hu": ["A Szigetfürdő a 19. században épült.", "Változatos sport- és szabadidős lehetőségeket kínál."], "ro": ["Baia insulară a fost construită în secolul al XIX-lea.", "Oferă diverse oportunități de sport și agrement."], "en": ["The island bath was built in the 19th century.", "Offers diverse sports and leisure opportunities."]},
     image: "/poi-images/keszthely-strand.webp",
+  
+    descriptionAdvanced: {
+      "de": "Der Stadtstrand von Keszthely ist der traditionsreichste und am schönsten gestaltete Badeplatz am Westbecken des Plattensees. Besonders markant ist das historische Inselbad (Szigetfürdő), ein prachtvoller Holzbau aus dem 19. Jahrhundert, der dem Strand eine nostalgische Eleganz verleiht. Der Strand bietet weitläufige Liegewiesen, gepflegte Promenaden und eine Vielzahl an Sport- und Freizeitmöglichkeiten für alle Altersklassen. Das flache, saubere Wasser und der Blick auf die Berge des Balaton-Oberlandes machen das Baden hier zu einem besonderen Genuss. Keszthely verbindet an seinem Strand auf einzigartige Weise kaiserliche Badetradition mit modernem Urlaubsstandard.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Der Strand beherbergt das einzige erhaltene historische Inselbad am Plattensee.", "Die Anlage wurde originalgetreu nach Plänen aus dem Jahr 1864 restauriert.", "In den Sommermonaten finden hier regelmäßig stimmungsvolle Abendkonzerte statt.", "Der Strand ist direkt an die belebte Seeuferpromenade von Keszthely angeschlossen."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "siofok-strand",
@@ -5318,6 +8773,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Größter und belebtester Strand am Südufer mit Clubatmosphäre.", "hu": "A déli part legnagyobb és legpezsgőbb strandja klubhangulattal.", "ro": "Cea mai mare și mai animată plajă de pe malul sudic.", "en": "The largest and busiest beach on the southern shore with a club atmosphere."},
     facts: {"de": ["Heimat des Plázs Siófok, einem Zentrum für Konzerte.", "Bekannt für sein Riesenrad."], "hu": ["Itt található a Plázs Siófok, a koncertek központja.", "Híres az óriáskerekéről."], "ro": ["Găzduiește Plázs Siófok, un centru pentru concerte.", "Faimoasă pentru roata sa panoramică."], "en": ["Home to Plázs Siófok, a center for concerts.", "Famous for its Ferris wheel."]},
     image: "/poi-images/siofok-strand.webp",
+  
+    descriptionAdvanced: {
+      "de": "Der Große Strand von Siófok ist der bekannteste und belebteste Badeplatz an der ungarischen Riviera. Mit seiner kilometerlangen Uferlinie und dem flach abfallenden Wasser ist er der Inbegriff des Balaton-Sommers für Generationen von Urlaubern. Das Zentrum des Geschehens ist der 'Plage-Siófok', ein moderner Erlebniskomplex mit Sandstrand, Pools und zahlreichen Bars. Hier treffen sich tagsüber Sonnenanbeter und Wassersportler, während sich der Strand am Abend in eine pulsierende Partymeile verwandelt. Siófok bietet an seinem Strand die perfekte Infrastruktur für einen abwechslungsreichen Urlaub zwischen Sport, Spiel und Unterhaltung.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Siófok besitzt den längsten zusammenhängenden Sandstrand am gesamten Plattensee.", "Der Strand ist der Hauptveranstaltungsort für das jährliche 'Balaton Sound' Rahmenprogramm.", "Von der Mole aus hat man den besten Blick auf die Sonnenuntergänge über dem See.", "Die Wasserqualität wird regelmäßig mit der höchsten Auszeichnung prämiert."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "gyor-gyerekvonat",
@@ -5328,6 +8796,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Kleine Parkeisenbahn, ein Favorit für Familien in Győr.", "hu": "Győri kerti vasút, a családok kedvence a püspökvári kertben.", "ro": "Trenuleț de parc, un favorit al familiilor din Győr.", "en": "Small park railway, a favorite for families in Győr."},
     facts: {"de": ["Fährt durch eine malerische Grünanlage.", "Ein beliebtes Wochenendprogramm."], "hu": ["Festői zöldövezeten halad keresztül.", "Népszerű hétvégi program."], "ro": ["Circulă printr-o zonă verde pitorească.", "Un program popular de weekend."], "en": ["Runs through a scenic green area.", "A popular weekend activity."]},
     image: "/poi-images/gyor-gyerekvonat.webp",
+  
+    descriptionAdvanced: {
+      "de": "Die Kindereisenbahn in Győr ist ein charmantes technisches Denkmal und ein beliebtes Ausflugsziel für Familien im Norden Ungarns. In einer idyllischen Waldumgebung gelegen, bietet sie eine nostalgische Fahrt durch das Grüne und vermittelt Kindern spielerisch die Welt der Eisenbahn. Die Wagen und Lokomotiven sind liebevoll gepflegt und erinnern an die Blütezeit der ungarischen Schmalspurbahnen. Entlang der Strecke befinden sich Spielplätze und Picknickareale, die zum Verweilen in der Natur einladen. Für viele Kinder in Győr ist eine Fahrt mit der kleinen Bahn ein unvergessliches Erlebnis und ein fester Bestandteil der regionalen Freizeitkultur.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Die kleine Eisenbahn in Győr wird oft liebevoll als 'Gőzös' (Dampferchen) bezeichnet.", "Die Strecke führt durch eines der schönsten Waldgebiete am Rande der Stadt.", "Die Bahn ist Teil eines größeren Familienfreizeitparks in Győr.", "Regelmäßig finden thematische Sonderfahrten zu Nikolaus oder Ostern statt."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "budakeszi-vadaspark",
@@ -5338,6 +8819,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Wildpark in der Nähe von Budapest mit einheimischen Tierarten.", "hu": "Budapest közeli vadaspark őshonos állatfajokkal.", "ro": "Parc de animale sălbatice lângă Budapesta cu specii native.", "en": "Wildlife park near Budapest featuring native species."},
     facts: {"de": ["Bietet Abenteuerparks und Streichelzoo.", "Liegt im wunderschönen Budaer Bergland."], "hu": ["Kalandparkkal és állatsimogatóval is várja a látogatókat.", "A Budai-hegység gyönyörű környezetében fekszik."], "ro": ["Oferă parcuri de aventură și grădină zoologică.", "Situat în frumoșii munți Buda."], "en": ["Offers adventure parks and a petting zoo.", "Located in the beautiful Buda Hills."]},
     image: "/poi-images/budakeszi-vadaspark.webp",
+  
+    descriptionAdvanced: {
+      "de": "Der Wildpark Budakeszi am westlichen Stadtrand von Budapest bietet ein authentisches Naturerlebnis im Waldgebirge der Budaer Berge. Hier können Besucher die einheimische Tierwelt des Karpatenbeckens in ihrer natürlichen Umgebung beobachten, von Rothirschen und Wildschweinen bis hin zu Braunbären und Wölfen. Der Park legt großen Wert auf Umweltbildung und bietet interaktive Lehrpfade, die Kindern und Erwachsenen das Ökosystem Wald näherbringen. Ein besonderes Highlight ist der integrierte Abenteuerpark mit Kletterparcours und der Bauernhofbereich mit alten ungarischen Haustierrassen. Der Wildpark ist der ideale Ort für Städter, um Ruhe zu finden und mehr über den Schutz der heimischen Fauna zu erfahren.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Der Wildpark Budakeszi beherbergt über 50 verschiedene Tierarten aus Ungarn und Europa.", "Ein Highlight ist die regelmäßige Fütterungsshow, bei der Besucher viel über das Verhalten der Tiere lernen.", "Der Park ist Teil eines riesigen Waldgebietes, das als 'Lunge von Budapest' gilt.", "In dem Park befindet sich zudem ein Dino-Park mit lebensgroßen Modellen prähistorischer Tiere."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "veszpremi-allatkert",
@@ -5348,6 +8842,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Einer der schönsten Zoos Ungarns mit weiten Gehegen und Dinopark.", "hu": "Az ország egyik legszebb állatkertje tágas kifutókkal és dinóparkkal.", "ro": "Una dintre cele mai frumoase grădini zoologice din Ungaria cu parc de dinozauri.", "en": "One of the most beautiful zoos in Hungary with spacious enclosures and a dino park."},
     facts: {"de": ["Der Dinopark zeigt lebensgroße Modelle.", "Bekannt für seine Elefanten und Nashörner."], "hu": ["A dinópark élethű modelleket mutat be.", "Híres az elefántjairól és orrszarvúiról."], "ro": ["Parcul de dinozauri prezintă modele în mărime naturală.", "Cunoscut pentru elefanți și rinoceri."], "en": ["The dino park features life-sized models.", "Famous for its elephants and rhinos."]},
     image: "/poi-images/veszpremi-allatkert.webp",
+  
+    descriptionAdvanced: {
+      "de": "Der Zoo von Veszprém ist einer der traditionsreichsten und landschaftlich schönsten Tiergärten Ungarns, gelegen im malerischen Fejes-Tal. Er ist bekannt für seine weitläufigen Gehege, die die Tiere in einer naturnahen Umgebung präsentieren, darunter seltene Arten wie den Roten Panda und Afrikanische Nashörner. Besonders spektakulär ist das Giraffenhaus und die weitläufige Savannen-Anlage, die das Gefühl einer Safari vermitteln. Einzigartig ist der integrierte Dinopark mit lebensgroßen Modellen, der die Erdgeschichte für Kinder lebendig werden lässt. Der Zoo legt großen Wert auf Artenschutzprogramme und ist ein bedeutendes Bildungszentrum in Westungarn. Ein Besuch in Veszprém bietet Erlebnisse für alle Generationen inmitten einer beeindruckenden Mittelgebirgslandschaft.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Der Veszprémer Zoo wurde bereits im Jahr 1958 als dritter Zoo des Landes eröffnet.", "Der Park beherbergt den größten Elefanten-Park in ganz Ungarn.", "Vom Zoo aus hat man einen fantastischen Blick auf die Viadukt-Brücke von Veszprém.", "Der Zoo ist ganzjährig geöffnet und bietet auch im Winter spannende Einblicke."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "szegedi-vadaspark",
@@ -5358,6 +8865,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Großflächiger Tierpark, der sich auf den Schutz seltener Arten konzentriert.", "hu": "Nagy területű állatpark, amely ritka fajok védelmére összpontosít.", "ro": "Parc zoologic întins, concentrat pe protecția speciilor rare.", "en": "Large-scale wildlife park focused on the protection of rare species."},
     facts: {"de": ["Größter Tierpark Ungarns nach Fläche.", "Spezialisiert auf südamerikanische Fauna."], "hu": ["Területileg Magyarország legnagyobb állatkertje.", "Dél-amerikai állatfajokra specializálódott."], "ro": ["Cea mai mare grădină zoologică din Ungaria ca suprafață.", "Specializată pe fauna sud-americană."], "en": ["The largest zoo in Hungary by area.", "Specializes in South American fauna."]},
     image: "/poi-images/szegedi-vadaspark.webp",
+  
+    descriptionAdvanced: {
+      "de": "Der Wildpark Szeged ist der flächenmäßig größte Zoo Ungarns und bekannt für seine naturnahe Haltung seltener und gefährdeter Tierarten. In einem weitläufigen Waldgebiet gelegen, bietet er Tieren von fast allen Kontinenten einen Lebensraum, der ihren natürlichen Bedürfnissen entspricht. Ein Schwerpunkt des Parks liegt auf der Haltung südamerikanischer Arten und Raubtiere wie dem Schneeleoparden. Besucher können auf schattigen Wegen durch den Wald wandern und dabei Tiere entdecken, die in anderen Zoos oft nur in engen Gehegen zu sehen sind. Der Wildpark engagiert sich intensiv für internationale Zuchtprogramme und die Wiederauswilderung bedrohter Arten. Die entspannte Atmosphäre und die pädagogisch wertvollen Informationen machen ihn zu einem Top-Ziel im sonnigen Süden Ungarns.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Der Wildpark Szeged erstreckt sich über eine Fläche von fast 45 Hektar.", "Der Park beherbergt eine weltweit anerkannte Zuchtgruppe von Krallenaffen.", "Es gibt spezielle Beobachtungsstationen, um die Tiere ohne Störung studieren zu können.", "Der Wildpark ist ein wichtiger Partner der europäischen Zoo-Assoziation (EAZA)."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "tihany-levendulamezo",
@@ -5368,6 +8888,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Wunderschöne Lavendelfelder, die die Halbinsel Tihany im Juni lila färben.", "hu": "Gyönyörű levendulamezők, melyek júniusban lilára festik a félszigetet.", "ro": "Câmpuri superbe de lavandă care colorează peninsula în violet în iunie.", "en": "Beautiful lavender fields that turn the peninsula purple in June."},
     facts: {"de": ["Heimat des Lavendelhauses, eines Besucherzentrums.", "Ein Symbol für die Halbinsel Tihany."], "hu": ["Itt található a Levendula Ház látogatóközpont.", "A Tihanyi-félsziget egyik jelképe."], "ro": ["Casa Casei Lavandei, un centru pentru vizitatori.", "Un simbol al peninsulei Tihany."], "en": ["Home to the Lavender House visitor center.", "A symbol of the Tihany Peninsula."]},
     image: "/poi-images/tihany-levendulamezo.webp",
+  
+    descriptionAdvanced: {
+      "de": "Die Lavendelfelder von Tihany sind ein leuchtendes Symbol der Halbinsel und verwandeln die Landschaft im Frühsommer in ein duftendes violettes Meer. Der Anbau von Lavendel hat in Tihany eine lange Tradition, die auf den Benediktinermönch Gyula Bittera zurückgeht, der den ersten Lavendel im Jahr 1924 aus Frankreich einführte. Durch das vulkanische Gestein und das milde Klima besitzt das Tihanyer Lavendelöl einen außergewöhnlich hohen Gehalt an wertvollen Inhaltsstoffen. Besucher können während der Lavendelwochen im Juni den Lavendel selbst pflücken und im Lavendelhaus-Besucherzentrum alles über die Verarbeitung erfahren. Die blühenden Felder vor der Kulisse des azurblauen Plattensees sind eines der meistfotografierten Motive Ungarns. Tihany ist das 'ungarische Provence' und ein Fest für die Sinne.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Der Lavendel von Tihany hat aufgrund des Mikroklimas eine höhere Qualität als der ursprüngliche französische Lavendel.", "Die Ernte findet jährlich Ende Juni im Rahmen des großen Lavendel-Festivals statt.", "Aus dem Lavendel werden hochwertige Öle, Seifen, Tees und sogar Liköre hergestellt.", "Die Lavendelfelder stehen aufgrund ihrer Bedeutung für das Landschaftsbild unter Schutz."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
   {
     id: "megyer-hegyi-tengerszem",
@@ -5378,6 +8911,19 @@ export const hungaryCities: POI[] = [
     description: {"de": "Eindrucksvoller Bergsee in einem ehemaligen Mühlsteinbruch.", "hu": "Lenyűgöző tó egy egykori malomkőbánya helyén.", "ro": "Lac montan impresionant în locul unei foste cariere de pietre de moară.", "en": "Impressive mountain lake in a former millstone quarry."},
     facts: {"de": ["Wurde 2011 zum schönsten Naturwunder Ungarns gewählt.", "Besitzt spektakuläre, 70 Meter hohe Felswände."], "hu": ["2011-ben Magyarország legszebb természeti csodájának választották.", "Látványos, 70 méter magas sziklafalak veszik körül."], "ro": ["Votat cea mai frumoasă minune naturală a Ungariei în 2011.", "Are pereți de stâncă spectaculoși, înalți de 70 de metri."], "en": ["Voted the most beautiful natural wonder of Hungary in 2011.", "Features spectacular 70-meter-high rock walls."]},
     image: "/poi-images/megyer-hegyi-tengerszem.webp",
+  
+    descriptionAdvanced: {
+      "de": "Der Megyer-Hegyi Tengerszem (Meerauge vom Megyer-Berg) bei Sárospatak ist eines der faszinierendsten Naturwunder Ungarns. Entstanden in einem ehemaligen Mühlsteinbruch aus dem 15. Jahrhundert, hat sich in dem tiefen Felsenkessel über die Zeit ein kristallklarer Bergsee gebildet. Die senkrecht aufragenden, bis zu 70 Meter hohen Felswände um den See erzeugen eine atemberaubende und fast mystische Kulisse. Ein schmaler Pfad führt Besucher durch die in den Stein gehauenen Gänge bis zum Rand des Sees, von wo aus man die Tiefe und Stille des Ortes erleben kann. Das Gebiet ist heute ein Naturschutzgebiet und wurde 2011 zum schönsten Naturphänomen Ungarns gewählt. Für Wanderer und Naturfotografen ist dieser Ort im Zemplén-Gebirge ein absolutes Muss.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    factsAdvanced: {
+      "de": ["Der See ist an seiner tiefsten Stelle über 6 Meter tief und wird nur von Regenwasser gespeist.", "Der einstige Steinbruch lieferte über Jahrhunderte die besten Mühlsteine der Region.", "Um den See herum führt ein gut ausgebauter geologischer Lehrpfad.", "Der Ort ist auch bei Kletterern aufgrund der steilen Rhyolith-Felswände beliebt."],
+      "hu": [],
+      "ro": [],
+      "en": []
+    },
   },
 ];
 

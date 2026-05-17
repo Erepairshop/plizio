@@ -153,6 +153,19 @@ export const romaniaRegions: POI[] = [
       ],
     },
     image: "/geo-images/romania/RO-AB.webp",
+  
+    descriptionAdvanced: {
+      de: "",
+      hu: "Fehér megye (Alba) Románia központi részén, Erdély szívében helyezkedik el, és az ország egyik legfontosabb történelmi és kulturális bölcsoje. Területének jelentos részét az Erdélyi-szigethegység és a Kudzsiri-havasok vonulatai uralják, amelyeket a Maros völgye és a Küküllok vidéke tesz változatossá. A megyeszékhely, Gyulafehérvár, nemcsak az Erdélyi Fejedelemség egykori fovárosa, hanem a román nemzeti egység szimbóluma is, ahol 1918-ban kihirdették az egyesülést. A megye gazdasága a bányászatra (arany, ezüst, só), a faiparra és a gépiparra épül, de világszerte ismert az Erdélyi-hegyalja borvidéke is. Természeti kincsei, mint a verespataki római kori aranybányák vagy a Torockói-hegység sziklái, egyedülálló turisztikai vonzerot jelentenek. Földrajz K7 — hegységek és folyók.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Gyulafehérvár az Erdélyi Fejedelemség történelmi fovárosa volt.", "A megye területének 59%-át hegyvidéki tájak borítják.", "Itt található Verespatak, a római kori aranybányászat világörökségi helyszíne.", "A megye híres borvidéke a Küküllo-menti és az Erdélyi-hegyaljai terület.", "Fehér megyében folyik keresztül a Maros, Erdély legfontosabb folyója.", "A területen számos dák és római kori erodítmény maradványa található.", "Itt található a Székelyko, amely Torockó híres, különleges formájú hegycsúcsa.", "A megye gazdag népmuvészeti hagyományokkal rendelkezik, különösen a fazekasság terén."],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "RO-AG", type: "region", parent: "RO", coords: [24.8733, 44.8563],
@@ -214,6 +227,19 @@ export const romaniaRegions: POI[] = [
       ],
     },
     image: "/geo-images/romania/RO-AG.webp",
+  
+    descriptionAdvanced: {
+      de: "",
+      hu: "Argyas megye (Arge?) Havasalföld északi részén fekszik, és a román történelem, valamint a modern ipar egyik legfontosabb központja. Északi részét a fenséges Fogarasi-havasok uralják, itt található Románia legmagasabb pontja, a Moldoveanu-csúcs (2544 m). A megye történelmi jelentoségét Curtea de Arge? városa adja, amely Havasalföld elso fovárosa volt, és ahol a román királyi család tagjai nyugszanak. Gazdaságilag Argyas az ország autóipari fellegvára, hiszen Mioveni-ben található a Dacia gyár központja. A vízenergia-termelés szempontjából kulcsfontosságú az Arge? folyón épült Vidraru-gát és a hozzá kapcsolódó víztározó. A vidék változatos tájai a magashegyi legeloktol a termékeny síkságokig terjednek, gazdag élovilágot és kulturális örökséget orizve. Geschichte K8 — román történelem és iparosodás.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Itt található Románia legmagasabb hegycsúcsa, a Moldoveanu (2544 m).", "A megye székhelye Pite?ti, a román autóipar egyik központja.", "Curtea de Arge? a román ortodox egyház egyik legfontosabb spirituális központja.", "A Vidraru-gát építésekor a maga korában a világ 10 legnagyobb gátja közé tartozott.", "Itt gyártják a Dacia autókat, Románia legsikeresebb exporttermékét.", "A Transzfogarasi út, a világ egyik leglátványosabb hegyi útja itt halad át.", "A megye északi részén található a Poenari-vár, amelyet Drakula eredeti váraként ismernek.", "Argyas megye Románia egyik legjelentosebb vízenergia-termelo vidéke."],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "RO-AR", type: "region", parent: "RO", coords: [21.5, 46.2],
@@ -275,6 +301,19 @@ export const romaniaRegions: POI[] = [
       ],
     },
     image: "/geo-images/romania/RO-AR.webp",
+  
+    descriptionAdvanced: {
+      de: "",
+      hu: "Arad megye Románia nyugati kapuja, amely a Maros alsó folyása mentén, a magyar határnál terül el. Földrajzi arculatát a nyugati Aradi-síkság és a keleti Zarándi-hegység kontrasztja határozza meg, középen a Maros völgyével. A megyeszékhely, Arad, gazdag építészeti örökséggel rendelkezik, ahol a szecessziós és neoklasszicista paloták a monarchia korabeli hangulatot idézik. Történelmileg a megye kulcsszerepet játszott az 1848–49-es szabadságharcban, az aradi vár a forradalom egyik utolsó bástyája volt. Napjainkban Arad jelentos gépipari és élelmiszeripari központ, valamint az ország egyik legfontosabb közlekedési csomópontja. A megye keleti részén található ménesi borvidék vörösborai és aszúi évszázadok óta híresek. A táj alkalmas a mezogazdaságra, de a hegyvidéki részek a turizmus számára is vonzóak. Geschichte K8 — az 1848-as forradalom és szabadságharc.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Arad városa a 19. század végén a Magyar Királyság egyik legfejlettebb városa volt.", "A megye keleti felén emelkedik a Zarándi-hegység, kedvelt túrázóhely.", "Ménes borvidéke a történelmi Magyarország egyik leghíresebb vörösbortermo helye.", "A megye fontos határátkelohelyekkel (Nagylak, Kürtös) kapcsolódik Magyarországhoz.", "Itt található a világosi várrom, ahol 1849-ben a honvédsereg letette a fegyvert.", "Arad megye az ország egyik legjelentosebb gabonatermelo vidéke.", "A Maros-ártér Natúrpark gazdag madárvilágnak és ritka növényeknek ad otthont.", "Az aradi vár Románia egyik legjobb állapotban fennmaradt Vauban-típusú erodítménye."],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "RO-B", type: "region", parent: "RO", coords: [26.1025, 44.4268],
@@ -395,6 +434,19 @@ export const romaniaRegions: POI[] = [
       ],
     },
     image: "/geo-images/romania/RO-BC.webp",
+  
+    descriptionAdvanced: {
+      de: "",
+      hu: "Bákó megye (Bacau) Moldva nyugati részén helyezkedik el, ahol a Keleti-Kárpátok vonulatai találkoznak a Moldvai-dombsággal. A tájat a Szeret és a Beszterce folyók völgyei határozzák meg, amelyek mentén számos víztározó és vízeromu épült. Bákó városa a régió egyik legfontosabb ipari és kereskedelmi központja, amely különösen a vegyiparáról, koolaj-finomításáról és repülogépgyártásáról ismert. A megye nyugati, hegyvidéki részein (Tarko-hegység, Csíki-havasok) jelentos a fakitermelés és a turizmus, különösen a sós vizu gyógyfürdoirol híres Slanic-Moldova. A megye gazdasága sokszínu, az energetikai szektor mellett a könnyuipar is jelen van. Kulturálisan a moldvai hagyományok és a modern ipari fejlodés keveredik itt, létrehozva egy dinamikus regionális központot. Földrajz K7 — energetika és nehézipar.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["A megye székhelye, Bákó, jelentos repülogépgyártó központ (Aerostar).", "Itt található Slanic-Moldova, amelyet a 'Moldvai-Kárpátok gyöngyszemeként' ismernek.", "A Beszterce folyón található vízeromu-rendszer az ország egyik legfontosabbja.", "A megye Románia egyik legrégebbi koolaj-kitermelo vidéke.", "Onesti városa a vegyiparáról és Nadia Comaneci tornászno szülovárosaként híres.", "A Tarko-hegység érintetlen fenyoerdoi gazdag vadállománynak adnak otthont.", "Bákó megye fontos közúti és vasúti kapu Moldva és Erdély között.", "A megyében található a Borgesti-hoeromu, amely a régió energiaellátását segíti."],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "RO-BH", type: "region", parent: "RO", coords: [22.1, 46.9667],
@@ -448,6 +500,19 @@ export const romaniaRegions: POI[] = [
       ],
     },
     image: "/geo-images/romania/RO-BH.webp",
+  
+    descriptionAdvanced: {
+      de: "",
+      hu: "Bihar megye (Bihor) Románia északnyugati részén, a Partium területén fekszik, stratégiai kapuként Magyarország felé. Változatos domborzata a nyugati Bihar-síkságtól a keleti Bihari-hegységig terjed, magában foglalva a Sebes-Körös és a Fekete-Körös völgyeit. A megyeszékhely, Nagyvárad (Oradea), lenyugözo szecessziós építészetérol és gazdag középkori múltjáról híres, a 'Körös-parti Párizsként' is emlegetik. Bihar gazdasága az élelmiszeriparra, a könnyuiparra és az utóbbi években a dinamikusan fejlodo szolgáltatási szektorra épül. A turizmus egyik fo vonzereje Félixfürdo, az ország egyik legnépszerubb termálvizes üdülohelye, valamint a Pádis-fennsík karsztjelenségei. A megye lakossága multikulturális, ahol a magyar és román hagyományok évszázadok óta összefonódnak. Sachkunde K3 — határok és régiók.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Nagyvárad a középkori Magyarország egyik legfontosabb vallási és kulturális központja volt.", "Itt található Románia egyik legnagyobb termálvizes gyógyhelye, Félixfürdo.", "A Bihari-hegység barlangjai (pl. Medve-barlang) világritkaságnak számítanak.", "A Sebes-Körös folyó mentén épült vízeromuvek fontosak a régió energiaellátásában.", "Bihar megye Románia egyik legjelentosebb kukorica- és búza-termelo vidéke.", "A megyeszékhely vára az egyik legjobb állapotban fennmaradt ötszögletu erodítmény.", "A Pádis-fennsík az Erdélyi-szigethegység leglátványosabb karsztvidéke.", "A megye fontos közlekedési folyosó az Európai Unió belso piacai felé."],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "RO-BN", type: "region", parent: "RO", coords: [24.5, 47.15],
@@ -501,6 +566,19 @@ export const romaniaRegions: POI[] = [
       ],
     },
     image: "/geo-images/romania/RO-BN.webp",
+  
+    descriptionAdvanced: {
+      de: "",
+      hu: "Beszterce-Naszód megye (Bistri?a-Nasaud) Erdély északi részén, a hegyek gyurujében fekszik, északon a Radnai-havasok, keleten a Kelemen-havasok határolják. Földrajzi képét a Szamos és a Beszterce folyók határozzák meg, a táj pedig erdokben, legelokben és kristálytiszta patakokban gazdag. A megyeszékhely, Beszterce, egykori szász kereskedováros, amely megorizte középkori polgárházait és híres evangélikus templomát. A megye Naszód vidéke történelmileg a román határorvidék központja volt, ami jelentosen hozzájárult a helyi értelmiség fejlodéséhez. Gazdasága a faiparra, a gépiparra és a mezogazdaságra, különösen az állattenyésztésre és a tejtermelésre alapoz. A Radnai-havasok Nemzeti Park az ország egyik legszebb magashegyi túrázóhelye, ahol gleccsertavak és havasi gyopár várja a látogatókat. Földrajz K7 — magashegységek és bioszféra.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Itt található a Radnai-havasok legmagasabb pontja, a Pietrosu-csúcs (2303 m).", "Beszterce városa a hét erdélyi szász város (Siebenbürgen) egyike volt.", "A megye híres a hagyományos népviseletérol, különösen a pávás kalapokról.", "Itt található a Colibi?a-tó, amelyet a 'Kárpátok tengerének' is neveznek.", "A Borgói-hágó a Bram Stoker által írt Drakula regény egyik híres helyszíne.", "A megye északi része gazdag gyógyvizekben (pl. Oláhszentgyörgy).", "A Radnai-havasokban található az ország egyik legmagasabb vízesése, a Lóhavasi-vízesés.", "Beszterce-Naszód Románia egyik legjelentosebb tejtermelo és húsfeldolgozó vidéke."],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "RO-BR", type: "region", parent: "RO", coords: [27.9667, 45.2667],
@@ -554,6 +632,19 @@ export const romaniaRegions: POI[] = [
       ],
     },
     image: "/geo-images/romania/RO-BR.webp",
+  
+    descriptionAdvanced: {
+      de: "",
+      hu: "Braila megye Délkelet-Romániában, a Havasalföld keleti részén, a Duna alsó szakasza mentén fekszik. A táj jellegzetesen síkvidéki, a Baragan-síkság része, ahol a végtelen gabonatáblák és a Duna kanyarulatai dominálnak. A megyeszékhely, Braila, történelmileg Európa egyik legfontosabb gabonakereskedelmi kikötoje volt, aminek köszönhetoen a 19. században kozmopolita nagyvárossá fejlodött. A megye területén található a Brailai-nagysziget, amely a Duna két ága között fekvo hatalmas mezogazdasági terület. Gazdaságilag a megye a mezogazdaságra, a hajógyártásra és az élelmiszeriparra épül. A Duna-parti lankák és a Brailai-mocsárvilág gazdag madárvilágnak ad otthont, ami a természetbarátok számára vonzó célpont. A megye fontos közlekedési csomópont, amely összeköti a szárazföldi utakat a folyami hajózással. Sachkunde K4 — mezogazdaság és vízi utak.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Braila kikötoje a 19. században a gabona világpiaci árának egyik meghatározó helye volt.", "A megyében található a Brailai-nagysziget, Románia legnagyobb mezogazdasági üzeme.", "A megyeszékhely belvárosa megorizte a 19. századi sugárutas, legyezo alakú térszerkezetét.", "Braila és Gala?i között épült fel a Duna legújabb és egyik leghosszabb függohídja.", "A megye éghajlata kontinentális, forró nyarakkal és száraz telekkel.", "A Duna árterein gazdag horgászparadicsom és természetvédelmi területek találhatók.", "Itt született Panait Istrati, a világhíru román író, 'a Balkán Gorkija'.", "A megye gazdasága nagyban függ a Duna vízállásától és a folyami szállítástól."],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "RO-BT", type: "region", parent: "RO", coords: [26.65, 47.75],
@@ -607,6 +698,19 @@ export const romaniaRegions: POI[] = [
       ],
     },
     image: "/geo-images/romania/RO-BT.webp",
+  
+    descriptionAdvanced: {
+      de: "",
+      hu: "Boto?ani megye Románia legészakibb részén, Moldva területén fekszik, a Prut és a Szeret folyók között. A táj lágyan hullámzó dombvidék, amely kiválóan alkalmas a mezogazdaságra és az állattenyésztésre. Bár gazdaságilag az ország szerényebb megyéi közé tartozik, kulturális jelentosége felbecsülhetetlen: Boto?ani a 'román kultúra bölcsoje', hiszen innen származik a legnagyobb román költo, Mihai Eminescu, a zeneszerzo George Enescu és a történész Nicolae Iorga is. A megye székhelye, Boto?ani, egykor virágzó kereskedováros volt, ahol jelentos zsidó és örmény közösség élt. A vidék békés, hagyományorzo hangulata, a kolostorok és a festoi falvak a falusi turizmus számára kínálnak lehetoségeket. A mezogazdaság mellett a textilipar és az élelmiszer-feldolgozás jelenti a fo megélhetést. Geschichte K8 — román kulturális örökség.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Innen származik Mihai Eminescu, a románok nemzeti költoje.", "A megye keleti határát a Prut folyó alkotja, amely egyben Románia határa is.", "Itt található George Enescu zeneszerzo szüloháza Liveni faluban.", "A megye híres a népi hímzéseirol és a hagyományos fazekasmesterségrol.", "Boto?ani városa már a középkorban Moldva egyik legfontosabb vámszedo helye volt.", "A területen számos régi ortodox fatemplom és kolostor található.", "A megye éghajlata az országban az egyik leghidegebb télen.", "Mezogazdaságilag kiemelkedo a gabona- és cukorrépa-termesztés."],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "RO-BV", type: "region", parent: "RO", coords: [25.5, 45.75],
@@ -619,6 +723,19 @@ export const romaniaRegions: POI[] = [
     },
     facts: { de: ["Schloss Bran (Dracula).", "Schwarze Kirche in Kronstadt.", "Skigebiet Poiana Brașov."], hu: ["Bran vára (Drakula).", "Brassói Fekete templom.", "Poiana Brașov síterep."], ro: ["Castelul Bran.", "Biserica Neagră din Brașov.", "Stațiunea Poiana Brașov."], en: ["Bran Castle (Dracula).", "Black Church in Brașov.", "Poiana Brașov ski resort."] },
     image: "/geo-images/romania/RO-BV.webp",
+  
+    descriptionAdvanced: {
+      de: "",
+      hu: "Brassó megye (Bra?ov) Románia szívében, a Déli- és Keleti-Kárpátok találkozásánál fekszik, és az ország egyik legfontosabb turisztikai és ipari központja. A tájat a Barcasági-medence síksága és az azt körülölelo magashegységek, mint a Bucsecs és a Fogarasi-havasok határozzák meg. A megyeszékhely, Brassó, a történelmi hét szász város egyike, amelynek középkori óvárosa és a Fekete-templom világszerte ismert. A megye gazdasága rendkívül fejlett, a gépipar (autóalkatrészek, repülogépgyártás) és a turizmus a fo húzóágazatok. Itt található a Törcsvári kastély (Drakula vára), Románia leglátogatottabb muemléke, valamint Brassópojana, a legnépszerubb téli sportközpont. Brassó megye a modernitás és a tradíciók tökéletes ötvözete, ahol a szász erodtemplomok és a modern gyárak egymás mellett léteznek. Geschichte K8 — erdélyi szászok és középkori kereskedelem.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Brassó városa évszázadokon át Erdély legfontosabb kereskedelmi kapuja volt dél felé.", "Itt található a Fekete-templom, Délkelet-Európa legnagyobb gótikus temploma.", "A megye területén emelkedik a Bucsecs-hegység a különleges Szfinx-sziklával.", "Brassó megye az ország egyik legfejlettebb és leginnovatívabb régiója.", "Itt található a barcarozsnyói parasztvár, amely a környék egyik legszebb erodítménye.", "A megyében hét szász erodtemplom is része az UNESCO világörökségnek.", "Brassópojana Románia legmodernebb és legnépszerubb síterepe.", "A megye fontos vasúti és közúti csomópont, amely összeköti Erdélyt Havasalfölddel."],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "RO-BZ", type: "region", parent: "RO", coords: [26.8167, 45.15],
@@ -680,6 +797,19 @@ export const romaniaRegions: POI[] = [
       ],
     },
     image: "/geo-images/romania/RO-BZ.webp",
+  
+    descriptionAdvanced: {
+      de: "",
+      hu: "Bodza megye (Buzau) Románia délkeleti részén, a Kárpátok kanyarulata és a Havasalföldi-síkság találkozásánál fekszik. Domborzata rendkívül változatos: északon a Bodzai-havasok erdosségei, délen a Baragan-síkság gabonaföldjei uralják. A megye egyik legismertebb látványossága a Berca-iszapvulkánok, amelyek holdbéli tájat idéznek. Bodza gazdasága a mezogazdaságra, különösen a borászatra (Dealu Mare borvidék) és az élelmiszeriparra épül, de jelentos a koolaj- és földgáz-kitermelés is. A megyeszékhely, Bodzavásár (Buzau), fontos vasúti csomópont és történelmi püspöki székhely. A vidék gazdag természeti kincsekben, mint a borostyán és a gyógyvizek, valamint kulturális emlékekben, például a sziklatemplomokban. A Bodza folyó völgye évszázadok óta fontos összeköto kapocs Moldva, Havasalföld és Erdély között. Földrajz K7 — vulkanizmus és természeti jelenségek.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["A megye híres az iszapvulkánjairól, amelyek Európában ritka természeti jelenségek.", "Itt található Colti falu, ahol Románia egyetlen borostyánmúzeuma muködik.", "A Dealu Mare borvidék a megye területén kezdodik, híres a vörösborairól.", "Bodza megyében találhatók a különleges sziklába vájt keresztény templomok (Alunis).", "A megye déli része Románia 'éléskamrájának', a Baragan-síkságnak a része.", "Sarata-Monteoru gyógyfürdoje híres a sós forrásairól és a koolajbányászatáról.", "A megyeszékhely, Buzau, fontos logisztikai központ Havasalföld és Moldva határán.", "Itt készül a híres 'bodzavásári perec', amely európai oltalmat élvezo termék."],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "RO-CJ", type: "region", parent: "RO", coords: [23.6236, 46.7712],
@@ -1945,6 +2075,19 @@ export const romaniaCities: POI[] = [
     },
     subjects: ["sachkunde", "geographie", "geschichte"], grades: [3, 4, 5, 6, 7, 8],
     image: "/geo-images/romania/city-cluj-napoca.webp",
+  
+    descriptionAdvanced: {
+      de: "Cluj-Napoca ist die inoffizielle Hauptstadt Siebenbürgens und eine der bedeutendsten Universitätsstädte Rumäniens. Die Stadt blickt auf eine lange Geschichte zurück, die von der römischen Siedlung Napoca bis zum modernen IT-Zentrum reicht. Sehenswert sind die gotische St.-Michaels-Kirche und das historische Stadtzentrum mit seinen barocken Gebäuden.",
+      hu: "Kolozsvár Erdély nemhivatalos fővárosa és Románia egyik legfontosabb egyetemi központja. A város története a római Napoca településtől a modern informatikai központig ível. Főbb látnivalói közé tartozik a gótikus Szent Mihály-templom és a barokk stílusú épületekkel teli történelmi városközpont.",
+      ro: "Cluj-Napoca este capitala neoficială a Transilvaniei și unul dintre cele mai importante centre universitare din România. Orașul are o istorie îndelungată, de la așezarea romană Napoca până la statutul actual de hub tehnologic modern. Printre obiectivele principale se numără Biserica Sfântul Mihail și centrul istoric cu clădiri baroce.",
+      en: "Cluj-Napoca is the unofficial capital of Transylvania and one of Romania's most important university cities. The city boasts a long history, spanning from the Roman settlement of Napoca to its modern role as a major IT hub. Notable landmarks include the Gothic St. Michael's Church and the historic center filled with Baroque architecture.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: ca. 286.000 (Stand 2021)", "St.-Michaels-Kirche: Bauzeit 14. bis 15. Jahrhundert", "Babeș-Bolyai-Universität: gegründet im Jahr 1581", "Höhenlage: 340 Meter über dem Meeresspiegel", "Erste Erwähnung als Napoca: Jahr 108 n. Chr.", "Veranstaltungsort: UNTOLD Festival seit 2015"],
+      hu: ["Lakosok száma: kb. 286 000 fő (2021-es adat)", "Szent Mihály-templom: 14-15. századi építés", "Babeș-Bolyai Tudományegyetem: alapítva 1581-ben", "Tengerszint feletti magasság: 340 méter", "Első említés Napoca néven: i. sz. 108", "Rendezvény: Az UNTOLD Fesztivál helyszíne 2015 óta"],
+      ro: ["Populație: aprox. 286.000 locuitori (recensământ 2021)", "Biserica Sfântul Mihail: construită în secolele XIV-XV", "Universitatea Babeș-Bolyai: fondată inițial în 1581", "Altitudine: 340 metri deasupra nivelului mării", "Prima menționare ca Napoca: anul 108 d.Hr.", "Eveniment: Găzduiește Festivalul UNTOLD din 2015"],
+      en: ["Population: approx. 286,000 (2021 census)", "St. Michael's Church: built in the 14th-15th centuries", "Babeș-Bolyai University: originally founded in 1581", "Elevation: 340 meters above sea level", "First mentioned as Napoca: 108 AD", "Event venue: Hosts UNTOLD Festival since 2015"],
+    },
   },
   {
     id: "city-timisoara", type: "state-capital", parent: "RO-TM", coords: [21.2087, 45.7489],
@@ -2000,6 +2143,19 @@ export const romaniaCities: POI[] = [
     subjects: ["sachkunde", "geographie", "geschichte"], grades: [3, 4, 5, 6, 7, 8],
     historyYear: 1989, historyPeriod: "modern",
     image: "/geo-images/romania/city-timisoara.webp",
+  
+    descriptionAdvanced: {
+      de: "Timișoara ist das wirtschaftliche und kulturelle Zentrum der westrumänischen Region Banat. Die Stadt ist für ihre Jugendstil-Architektur und ihre bedeutende Rolle in der Geschichte bekannt. Im Jahr 1884 war sie die erste Stadt auf dem europäischen Festland mit elektrischer Straßenbeleuchtung. Heute ist sie ein wichtiger Industriestandort und war Kulturhauptstadt Europas 2023.",
+      hu: "Temesvár a nyugat-romániai Bánság régió gazdasági és kulturális központja. A város híres szecessziós építészetéről és a történelemben betöltött meghatározó szerepéről. 1884-ben ez volt az első európai város, ahol bevezették az elektromos közvilágítást. Napjainkban fontos ipari csomópont, és 2023-ban Európa Kulturális Fővárosa volt.",
+      ro: "Timișoara este centrul economic și cultural al regiunii Banat din vestul României. Orașul este renumit pentru arhitectura sa Secession și pentru rolul său crucial în istoria modernă. În 1884, a fost primul oraș din Europa continentală cu iluminat stradal electric. Astăzi, este un pol industrial major și a fost Capitală Europeană a Culturii în 2023.",
+      en: "Timișoara is the economic and cultural hub of the Banat region in western Romania. The city is renowned for its Art Nouveau architecture and its significant role in modern history. In 1884, it became the first city in mainland Europe to introduce electric street lighting. Today, it is a major industrial center and served as a European Capital of Culture in 2023.",
+    },
+    factsAdvanced: {
+      de: ["Elektrische Beleuchtung eingeführt: 1884", "Hauptstadt der historischen Region Banat", "Beginn der rumänischen Revolution: Dezember 1989", "Kulturhauptstadt Europas: Jahr 2023", "Metropolitankathedrale: Höhe von 63 Metern", "Zentraler Platz: Piața Unirii (Platz der Vereinigung)"],
+      hu: ["Elektromos közvilágítás bevezetése: 1884", "A történelmi Bánság régió központja", "A román forradalom kezdete: 1989 decembere", "Európa Kulturális Fővárosa: 2023", "Ortodox székesegyház: 63 méter magas", "Főtér: Unió tér (Piața Unirii) barokk épületekkel"],
+      ro: ["Iluminat stradal electric introdus: 1884", "Capitala regiunii istorice Banat", "Locul de pornire a Revoluției din 1989", "Capitală Europeană a Culturii: anul 2023", "Catedrala Mitropolitană: înălțime de 63 metri", "Piața centrală: Piața Unirii în stil baroc"],
+      en: ["Electric street lighting introduced: 1884", "Capital of the historic Banat region", "1989 Romanian Revolution started here in December", "European Capital of Culture: 2023", "Metropolitan Cathedral height: 63 meters", "Main square: Union Square (Piața Unirii)"],
+    },
   },
   {
     id: "city-craiova", type: "state-capital", parent: "RO-DJ", coords: [23.7949, 44.3302],
@@ -2054,6 +2210,19 @@ export const romaniaCities: POI[] = [
     },
     subjects: ["sachkunde", "geographie", "geschichte"], grades: [3, 4, 5, 6, 7, 8],
     image: "/geo-images/romania/city-craiova.webp",
+  
+    descriptionAdvanced: {
+      de: "Craiova ist die historische Hauptstadt der Region Oltenien und liegt im Südwesten Rumäniens am Fluss Jiu. Die Stadt ist ein wichtiges Zentrum für Bildung und Kultur, beherbergt eine namhafte Universität und zahlreiche Museen. Besonders bekannt ist der Nicolae-Romanescu-Park, der als einer der größten und schönsten Landschaftsparks in Südosteuropa gilt.",
+      hu: "Krajova Olténia történelmi fővárosa, amely Románia délnyugati részén, a Zsil folyó partján fekszik. A város jelentős oktatási és kulturális központ, neves egyetemmel és számos múzeummal rendelkezik. Legismertebb látnivalója a Nicolae Romanescu park, amely Délkelet-Európa egyik legnagyobb és legszebb tájképi parkja.",
+      ro: "Craiova este capitala istorică a Olteniei și se află în sud-vestul României, pe malul râului Jiu. Orașul reprezintă un centru vital pentru educație și cultură, găzduind o universitate prestigioasă și numeroase muzee. O atracție majoră este Parcul Nicolae Romanescu, considerat unul dintre cele mai mari și frumoase parcuri naturale din sud-estul Europei.",
+      en: "Craiova is the historic capital of the Oltenia region, situated in southwestern Romania along the Jiu River. The city serves as a vital hub for education and culture, home to a prestigious university and numerous museums. A standout attraction is the Nicolae Romanescu Park, recognized as one of the largest and most beautiful landscape parks in Southeast Europe.",
+    },
+    factsAdvanced: {
+      de: ["Regionalhauptstadt von Oltenien", "Fläche des Nicolae-Romanescu-Parks: 96 Hektar", "Universität von Craiova: gegründet im Jahr 1947", "Oltenien-Museum: gegründet im Jahr 1915", "Jährliche Veranstaltung: Craiova Weihnachtsmarkt", "Geografie: Liegt am linken Ufer des Flusses Jiu"],
+      hu: ["Olténia régió központja", "Nicolae Romanescu park területe: 96 hektár", "Krajovai Egyetem: alapítva 1947-ben", "Olténia Múzeum: alapítva 1915-ben", "Éves esemény: Krajovai Karácsonyi Vásár", "Földrajz: A Zsil folyó bal partján található"],
+      ro: ["Reședința regiunii istorice Oltenia", "Suprafața Parcului Nicolae Romanescu: 96 hectare", "Universitatea din Craiova: fondată în 1947", "Muzeul Olteniei: înființat în anul 1915", "Eveniment anual: Târgul de Crăciun din Craiova", "Geografie: Situat pe malul râului Jiu"],
+      en: ["Regional capital of Oltenia", "Nicolae Romanescu Park area: 96 hectares", "University of Craiova: founded in 1947", "Oltenia Museum established: 1915", "Annual event: Craiova Christmas Market", "Geography: Situated on the Jiu River"],
+    },
   },
   {
     id: "city-oradea", type: "state-capital", parent: "RO-BH", coords: [21.9189, 47.0722],
@@ -2108,6 +2277,19 @@ export const romaniaCities: POI[] = [
     },
     subjects: ["sachkunde", "geographie", "geschichte"], grades: [3, 4, 5, 6, 7, 8],
     image: "/geo-images/romania/city-oradea.webp",
+  
+    descriptionAdvanced: {
+      de: "Oradea liegt im Nordwesten Rumäniens, nahe der ungarischen Grenze, und ist berühmt für sein architektonisches Erbe im Jugendstil. Die Stadt hat ihr historisches Zentrum umfassend restauriert, wobei der Schwarzadler-Palast ein herausragendes Beispiel ist. Zudem beherbergt die Stadt eine mittelalterliche Festung und liegt in unmittelbarer Nähe des Kurortes Băile Felix.",
+      hu: "Nagyvárad Románia északnyugati részén, a magyar határ közelében fekszik, és híres szecessziós építészeti örökségéről. A város történelmi központját jelentősen felújították, amelynek kiemelkedő példája a Fekete Sas palota. Emellett a város egy középkori várnak is otthont ad, és közvetlen közelében található a Félix-fürdő üdülőhely.",
+      ro: "Oradea se află în nord-vestul României, aproape de granița cu Ungaria, și este celebră pentru patrimoniul său arhitectural Art Nouveau. Centrul istoric a fost restaurat masiv, Palatul Vulturul Negru fiind un exemplu emblematic. De asemenea, orașul găzduiește o cetate medievală și se află în imediata vecinătate a stațiunii balneare Băile Felix.",
+      en: "Oradea is located in northwestern Romania, near the Hungarian border, and is famous for its Art Nouveau architectural heritage. The city has extensively restored its historic center, with the Black Eagle Palace being a standout example. Additionally, it hosts a medieval fortress and is in close proximity to the Băile Felix spa resort.",
+    },
+    factsAdvanced: {
+      de: ["Architekturstil: Bedeutendes Zentrum des Jugendstils", "Schwarzadler-Palast: erbaut 1907-1908", "Festung von Oradea: Fünfeckige Grundform", "Naherholungsort: Thermalbad Băile Felix", "Fluss: Liegt am Schnellen Kreisch (Crișul Repede)", "Mondkirche: Verfügt über eine astronomische Uhr"],
+      hu: ["Építészeti stílus: A szecesszió fontos központja", "Fekete Sas palota: épült 1907-1908 között", "Nagyváradi vár: ötszögletű alaprajz", "Közeli üdülőhely: Félix-fürdő (termálvíz)", "Folyó: A Sebes-Körös partján fekszik", "Holdas templom: csillagászati órával rendelkezik"],
+      ro: ["Stil arhitectural: Centru important al stilului Art Nouveau", "Palatul Vulturul Negru: construit în 1907-1908", "Cetatea Oradea: formă stelară pentagonală", "Stațiune vecină: Băile Felix (ape geotermale)", "Râu: Situat pe Crișul Repede", "Biserica cu Lună: dotată cu un mecanism astronomic"],
+      en: ["Architectural style: Prominent Art Nouveau center", "Black Eagle Palace: built 1907-1908", "Oradea Fortress: pentagonal shape", "Nearby resort: Băile Felix (geothermal waters)", "River: Situated on the Crișul Repede", "Moon Church: features an astronomical clock"],
+    },
   },
   {
     id: "city-ploiesti", type: "state-capital", parent: "RO-PH", coords: [26.0127, 44.9369],
@@ -2116,6 +2298,19 @@ export const romaniaCities: POI[] = [
     facts: { de: ["Erste Raffinerie der Welt 1857.", "Uhrenmuseum.", "Schwere Bombardierungen 1943/44."], hu: ["A világ első kőolajfinomítója, 1857.", "Óramúzeum.", "Súlyos bombázások 1943–44-ben."], ro: ["Prima rafinărie din lume (1857).", "Muzeul Ceasului.", "Bombardamente grele 1943/44."], en: ["World's first refinery (1857).", "Clock Museum.", "Heavy bombings in 1943/44."] },
     historyPeriod: "ww2", historyYear: [1943, 1944],
     image: "/geo-images/romania/city-ploiesti.webp",
+  
+    descriptionAdvanced: {
+      de: "Ploiești liegt nördlich von Bukarest und gilt als das historische Zentrum der rumänischen Ölindustrie. Im Jahr 1857 wurde hier die weltweit erste Ölraffinerie in Betrieb genommen. Neben seiner industriellen Bedeutung bietet die Stadt kulturelle Highlights wie das einzigartige Uhrenmuseum und das Nationale Erdölmuseum, die über die Technikgeschichte der Region informieren.",
+      hu: "Ploiești Bukaresttől északra fekszik, és a román olajipar történelmi központjaként tartják számon. 1857-ben itt helyezték üzembe a világ első olajfinomítóját. Ipari jelentősége mellett a város olyan kulturális látnivalókat is kínál, mint az egyedülálló Óramúzeum és az Országos Olajmúzeum, amelyek a régió technikatörténetét mutatják be.",
+      ro: "Ploiești este situat la nord de București și este considerat centrul istoric al industriei petroliere din România. În 1857, aici a fost pusă în funcțiune prima rafinărie de petrol din lume. Pe lângă importanța industrială, orașul oferă atracții culturale precum Muzeul Ceasului și Muzeul Național al Petrolului, care prezintă istoria tehnică a regiunii.",
+      en: "Ploiești is located north of Bucharest and is considered the historic center of the Romanian oil industry. In 1857, the world's first oil refinery was put into operation here. Besides its industrial significance, the city offers cultural highlights such as the unique Clock Museum and the National Oil Museum, which showcase the region's technical history.",
+    },
+    factsAdvanced: {
+      de: ["Erste Ölraffinerie der Welt: gegründet 1857", "Uhrenmuseum: gegründet im Jahr 1963", "Entfernung zu Bukarest: ca. 56 Kilometer", "Wahrzeichen: Kathedrale St. Johannes der Täufer", "Nationales Erdölmuseum: eröffnet 1961", "Beiname: Die Hauptstadt des schwarzen Goldes"],
+      hu: ["A világ első olajfinomítója: alapítva 1857-ben", "Óramúzeum: alapítva 1963-ban", "Távolság Bukaresttől: kb. 56 kilométer", "Látnivaló: Keresztelő Szent János-székesegyház", "Országos Olajmúzeum: megnyitás éve 1961", "Becenév: A fekete arany fővárosa"],
+      ro: ["Prima rafinărie de petrol din lume: fondată în 1857", "Muzeul Ceasului: înființat în anul 1963", "Distanța față de București: aprox. 56 km", "Biserică notabilă: Catedrala Sfântul Ioan Botezătorul", "Muzeul Național al Petrolului: fondat în 1961", "Poreclă: Capitala aurului negru"],
+      en: ["First oil refinery in the world: 1857", "Clock Museum: founded in 1963", "Distance from Bucharest: approx. 56 km", "Notable church: St. John the Baptist Cathedral", "National Oil Museum: founded in 1961", "Nickname: The Capital of Black Gold"],
+    },
   },
   {
     id: "city-pitesti", type: "state-capital", parent: "RO-AG", coords: [24.8697, 44.8563],
@@ -2123,6 +2318,19 @@ export const romaniaCities: POI[] = [
     description: { de: "Wirtschaftszentrum Muntenas, Standort Dacia-Renault.", hu: "Munténia gazdasági központja, a Dacia-Renault telephelye.", ro: "Centru economic al Munteniei, sediu Dacia-Renault.", en: "Economic center of Muntenia, home of Dacia-Renault." },
     facts: { de: ["Dacia-Werk Mioveni.", "Schlosspark Trivale.", "Obstbau (Argeș)."], hu: ["Dacia-gyár Mioveniben.", "Trivale-park.", "Gyümölcstermelés (Argeș)."], ro: ["Uzina Dacia de la Mioveni.", "Parcul Trivale.", "Pomicultură pe Argeș."], en: ["Dacia plant at Mioveni.", "Trivale Park.", "Fruit orchards (Argeș)."] },
     image: "/geo-images/romania/city-pitesti.webp",
+  
+    descriptionAdvanced: {
+      de: "Pitești liegt am Fluss Argeș und ist ein bedeutendes Industrie- und Logistikzentrum im südlichen Rumänien. Die Stadt ist vor allem als Standort der rumänischen Automobilindustrie bekannt, da sich das Dacia-Werk im nahegelegenen Mioveni befindet. Jedes Jahr im Frühling findet hier die Tulpen-Symphonie statt, eine der größten Blumenausstellungen des Landes.",
+      hu: "Pitești az Argeș folyó partján fekszik, és Dél-Románia jelentős ipari és logisztikai központja. A város elsősorban a román autóipar fellegváraként ismert, mivel a Dacia gyár a közeli Mioveni-ben található. Minden év tavaszán itt rendezik meg a Tulipánszimfóniát, amely az ország egyik legnagyobb virágkiállítása.",
+      ro: "Pitești este situat pe râul Argeș și reprezintă un important centru industrial și logistic din sudul României. Orașul este cunoscut în special pentru industria auto, fabrica Dacia fiind situată în localitatea vecină Mioveni. În fiecare primăvară, aici are loc Simfonia Lalelelor, una dintre cele mai mari expoziții florale din țară.",
+      en: "Pitești is located on the Argeș River and is a significant industrial and logistics hub in southern Romania. The city is primarily known for the automotive industry, with the Dacia car plant situated in the nearby town of Mioveni. Every spring, it hosts the Tulip Symphony, one of the country's largest floral exhibitions.",
+    },
+    factsAdvanced: {
+      de: ["Lage: Am Ufer des Flusses Argeș", "Industrie: Standort des Dacia-Werks in Mioveni", "Tulpen-Symphonie: Jährliches Festival seit 1978", "Verwaltungssitz des Kreises Argeș", "Gedenkstätte: Gefängnis Pitești (Pitesti-Experiment)", "Rathausgebäude: Eingeweiht im Jahr 1933"],
+      hu: ["Fekvése: Az Argeș folyó partján található", "Ipar: A közeli Mioveni-ben működik a Dacia gyár", "Tulipánszimfónia: 1978 óta megrendezett fesztivál", "Argeș megye közigazgatási székhelye", "Emlékhely: Pitești börtön (Pitești-kísérlet)", "Városháza: 1933-ban adták át az épületet"],
+      ro: ["Localizare: Pe malul râului Argeș", "Industrie: Fabrica Dacia situată în Mioveni", "Simfonia Lalelelor: Festival anual din 1978", "Reședința județului Argeș", "Memorial: Închisoarea Pitești (Experimentul Pitești)", "Clădirea Primăriei: inaugurată în anul 1933"],
+      en: ["Situated on the Argeș River", "Nearby industry: Dacia plant in Mioveni", "Annual festival: Tulip Symphony since 1978", "Argeș County seat", "Pitesti Prison Memorial: site of the Pitesti Experiment", "City Hall building: inaugurated in 1933"],
+    },
   },
   {
     id: "city-targu-mures", type: "state-capital", parent: "RO-MS", coords: [24.5635, 46.5425],
@@ -2130,6 +2338,19 @@ export const romaniaCities: POI[] = [
     description: { de: "Kreishauptstadt am Mureș, bekannt für den Kulturpalast.", hu: "Megyei jogú város a Maros partján, híres a Kultúrpalotáról.", ro: "Reședință de județ pe Mureș, cunoscută pentru Palatul Culturii.", en: "County seat on the Mureș, famed for its Palace of Culture." },
     facts: { de: ["Kulturpalast (1913) mit Jugendstilsälen.", "Teleki-Bolyai-Bibliothek.", "Medizinische Universität."], hu: ["Kultúrpalota (1913) szecessziós termekkel.", "Teleki-Bolyai Könyvtár.", "Orvosi egyetem."], ro: ["Palatul Culturii (1913) cu săli Art Nouveau.", "Biblioteca Teleki-Bolyai.", "Universitate de Medicină."], en: ["Palace of Culture (1913) with Art Nouveau halls.", "Teleki-Bolyai Library.", "Medical University."] },
     image: "/geo-images/romania/city-targu-mures.webp",
+  
+    descriptionAdvanced: {
+      de: "Târgu Mureș liegt im Zentrum Siebenbürgens und ist für sein reiches kulturelles Erbe und das harmonische Zusammenleben verschiedener Ethnien bekannt. Das markanteste Gebäude ist der Kulturpalast mit seinen farbenfrohen Zsolnay-Keramikdächern. Zudem beherbergt die Stadt die berühmte Teleki-Bolyai-Bibliothek, die eine bedeutende Sammlung historischer Bücher und Manuskripte bewahrt.",
+      hu: "Marosvásárhely Erdély központjában fekszik, és gazdag kulturális örökségéről, valamint a különböző népcsoportok együttéléséről ismert. Legjellegzetesebb épülete a Kultúrpalota, színes Zsolnay-kerámiatetőjével. Emellett a város ad otthont a híres Teleki Téka könyvtárnak, amely történelmi könyvek és kéziratok jelentős gyűjteményét őrzi.",
+      ro: "Târgu Mureș este situat în centrul Transilvaniei și este cunoscut pentru patrimoniul său cultural bogat și coabitarea armonioasă a diferitelor etnii. Cea mai emblematică clădire este Palatul Culturii, cu acoperișul său colorat din ceramică Zsolnay. De asemenea, orașul găzduiește faimoasa Bibliotecă Teleki-Bolyai, care păstrează o colecție importantă de cărți vechi.",
+      en: "Târgu Mureș is located in central Transylvania and is known for its rich cultural heritage and the harmonious co-existence of various ethnicities. Its most iconic building is the Palace of Culture, featuring colorful Zsolnay ceramic roof tiles. Additionally, the city is home to the famous Teleki-Bolyai Library, which preserves a significant collection of historic books.",
+    },
+    factsAdvanced: {
+      de: ["Kulturpalast: erbaut zwischen 1911 und 1913", "Teleki-Bibliothek: gegründet im Jahr 1802", "Mittelalterliche Festung: erbaut im 17. Jahrhundert", "Fluss: Liegt am Fluss Mureș (Marosch)", "Verwaltungspalast: erbaut im Jugendstil", "Apollo-Palast: erbaut in den 1820er Jahren"],
+      hu: ["Kultúrpalota: épült 1911 és 1913 között", "Teleki Téka: alapítva 1802-ben", "Középkori vár: épült a 17. században", "Folyó: A Maros folyó partján fekszik", "Közigazgatási Palota: szecessziós stílusú", "Apolló-palota: az 1820-as években épült"],
+      ro: ["Palatul Culturii: construit între 1911-1913", "Biblioteca Teleki: fondată în anul 1802", "Cetatea Medievală: construită în secolul al XVII-lea", "Râu: Situat pe malul râului Mureș", "Palatul Administrativ: stil Art Nouveau", "Palatul Apollo: construit în anii 1820"],
+      en: ["Palace of Culture: built between 1911-1913", "Teleki Library: founded in 1802", "Medieval Fortress: built in the 17th century", "River: Situated on the Mureș River", "Administrative Palace: Art Nouveau style", "Apollo Palace: built in the 1820s"],
+    },
   },
   {
     id: "city-baia-mare", type: "state-capital", parent: "RO-MM", coords: [23.5802, 47.6578],
@@ -2137,6 +2358,19 @@ export const romaniaCities: POI[] = [
     description: { de: "Bergbaustadt im Maramureș, Zentrum der Nagybánya-Malerschule.", hu: "Bányászváros Máramarosban, a Nagybányai festőiskola központja.", ro: "Oraș minier în Maramureș, centru al Școlii de pictură Baia Mare.", en: "Mining town in Maramureș, home of the Baia Mare Painters' School." },
     facts: { de: ["Stefansturm (15. Jh.).", "Künstlerkolonie ab 1896.", "Nationales Dorfmuseum Maramureș in der Nähe."], hu: ["István-torony (15. század).", "Művésztelep 1896-tól.", "Máramarosi falumúzeum közelben."], ro: ["Turnul Ștefan (sec. XV).", "Colonia de pictori din 1896.", "Muzeul Satului Maramureșean."], en: ["Stephen's Tower (15th c.).", "Artist colony from 1896.", "Maramureș Village Museum nearby."] },
     image: "/geo-images/romania/city-baia-mare.webp",
+  
+    descriptionAdvanced: {
+      de: "Baia Mare ist das Verwaltungszentrum des Kreises Maramureș und blickt auf eine lange Tradition im Bergbau und der Metallurgie zurück. Die Stadt am Fuße der Gutâi-Berge bietet Zugang zu den traditionellen Holzkirchen der Region. Zu den wichtigsten historischen Wahrzeichen gehören der Stefansturm aus dem 15. Jahrhundert und das dörfliche Freilichtmuseum.",
+      hu: "Nagybánya Máramaros megye közigazgatási központja, amely hosszú bányászati és kohászati múltra tekint vissza. A Gutin-hegység lábánál fekvő város kiváló kiindulópont a régió hagyományos fatemplomainak felfedezéséhez. Legfontosabb történelmi látnivalói közé tartozik a 15. századi István-torony és a Szabadtéri Néprajzi Múzeum.",
+      ro: "Baia Mare este centrul administrativ al județului Maramureș și are o lungă tradiție în minerit și metalurgie. Orașul situat la poalele munților Gutâi oferă acces către celebrele biserici de lemn din regiune. Printre reperele istorice principale se numără Turnul lui Ștefan, construit în secolul al XV-lea, și Muzeul Satului în aer liber.",
+      en: "Baia Mare is the administrative center of Maramureș County and has a long tradition in mining and metallurgy. Located at the foot of the Gutâi Mountains, the city provides access to the region's traditional wooden churches. Key historic landmarks include the 15th-century Stephen's Tower and the open-air Village Museum.",
+    },
+    factsAdvanced: {
+      de: ["Verwaltungssitz des Kreises Maramureș", "Stefansturm: erbaut im 15. Jahrhundert", "Bergbaugeschichte: Über Jahrhunderte aktiv", "Dorfmuseum: Zeigt Architektur aus Maramureș", "Millenniumplatz: Historisches Stadtzentrum", "Höhenlage: 228 Meter über dem Meeresspiegel"],
+      hu: ["Máramaros megye székhelye", "István-torony: épült a 15. században", "Bányászati múlt: több évszázados tevékenység", "Néprajzi múzeum: máramarosi építészeti emlékek", "Millennium tér: a történelmi városközpont", "Tengerszint feletti magasság: 228 méter"],
+      ro: ["Reședința județului Maramureș", "Turnul lui Ștefan: construit în secolul al XV-lea", "Istoric minier: activitate de câteva secole", "Muzeul Satului: expune arhitectura maramureșeană", "Piața Millennium: centrul istoric al orașului", "Altitudine: 228 metri deasupra nivelului mării"],
+      en: ["Capital of Maramureș County", "Stephen's Tower: built in the 15th century", "Mining history: active for several centuries", "Village Museum: features Maramureș architecture", "Millennium Square: historic city center", "Elevation: 228 meters above sea level"],
+    },
   },
   {
     id: "city-alba-iulia", type: "state-capital", parent: "RO-AB", coords: [23.5805, 46.0667],
@@ -2145,6 +2379,19 @@ export const romaniaCities: POI[] = [
     facts: { de: ["Alba-Carolina-Zitadelle (18. Jh.).", "Krönungskathedrale.", "Michael-Kathedrale (Katholisch)."], hu: ["Alba-Carolina vár (18. század).", "Koronázó székesegyház.", "Szent Mihály-székesegyház (katolikus)."], ro: ["Cetatea Alba Carolina (sec. XVIII).", "Catedrala Încoronării.", "Catedrala Sf. Mihail."], en: ["Alba Carolina Citadel (18th c.).", "Coronation Cathedral.", "St. Michael's Cathedral."] },
     historyPeriod: "ww1", historyYear: 1918,
     image: "/geo-images/romania/city-alba-iulia.webp",
+  
+    descriptionAdvanced: {
+      de: "Alba Iulia ist eine Stadt von enormer historischer Bedeutung für Rumänien, da hier 1918 die Vereinigung Siebenbürgens mit dem Königreich stattfand. Das Herzstück ist die Alba Carolina, eine beeindruckende sternförmige Festung im Vauban-Stil. Innerhalb der Festungsmauern befinden sich die Krönungskathedrale und die römisch-katholische Kathedrale, die zu den ältesten des Landes gehört.",
+      hu: "Gyulafehérvár hatalmas történelmi jelentőséggel bír Románia számára, hiszen 1918-ban itt mondták ki Erdély és a Román Királyság egyesülését. A város központja az Alba Carolina, egy lenyűgöző, csillag alakú, Vauban-stílusú erődítmény. A falakon belül található a Koronázási Székesegyház és az ország egyik legrégebbi római katolikus székesegyháza.",
+      ro: "Alba Iulia este un oraș de o importanță istorică imensă pentru România, fiind locul unde s-a proclamat Unirea Transilvaniei cu Regatul în 1918. Piesa centrală este Alba Carolina, o cetate impresionantă în stil Vauban, cu plan stelar. Între zidurile cetății se află Catedrala Încoronării și Catedrala Romano-Catolică, una dintre cele mai vechi din țară.",
+      en: "Alba Iulia is a city of immense historical importance for Romania, as the union of Transylvania with the Kingdom was proclaimed here in 1918. Its centerpiece is the Alba Carolina, an impressive star-shaped Vauban-style fortress. Within the citadel walls lie the Coronation Cathedral and the Roman Catholic Cathedral, one of the oldest in the country.",
+    },
+    factsAdvanced: {
+      de: ["Festung Alba Carolina: erbaut im 18. Jahrhundert", "Vereinigung Siebenbürgens: 1. Dezember 1918", "Krönungskathedrale: erbaut 1921-1922", "Antiker römischer Name: Apulum", "Römisch-katholische Kathedrale: 13. Jahrhundert", "Vereinigungssaal (Sala Unirii): Ort der Versammlung von 1918"],
+      hu: ["Alba Carolina erőd: 18. századi Vauban-stílus", "Erdélyi unió: 1918. december 1.", "Koronázási székesegyház: épült 1921-1922-ben", "Ókori római név: Apulum", "Római katolikus székesegyház: 13. század", "Egyesülés terme (Sala Unirii): az 1918-as gyűlés helyszíne"],
+      ro: ["Cetatea Alba Carolina: secolul al XVIII-lea (stil Vauban)", "Unirea Transilvaniei: 1 decembrie 1918", "Catedrala Încoronării: construită între 1921-1922", "Numele roman antic: Apulum", "Catedrala Romano-Catolică: secolul al XIII-lea", "Sala Unirii: locul adunării naționale din 1918"],
+      en: ["Alba Carolina Fortress: 18th century (Vauban style)", "Union of Transylvania: December 1, 1918", "Coronation Cathedral: built 1921-1922", "Ancient Roman name: Apulum", "Roman Catholic Cathedral: 13th century", "Union Hall (Sala Unirii): site of the 1918 assembly"],
+    },
   },
   {
     id: "city-targoviste", type: "city", parent: "RO-DB", coords: [25.4572, 44.9254],
@@ -2153,6 +2400,19 @@ export const romaniaCities: POI[] = [
     facts: { de: ["Chindia-Turm (Vlad Țepeș).", "Hinrichtung Ceaușescus 1989.", "Fürstenhof Curtea Domnească."], hu: ["Chindia-torony (Vlad Tepes).", "Ceaușescu kivégzése 1989-ben.", "Curtea Domnească fejedelmi udvar."], ro: ["Turnul Chindia (Vlad Țepeș).", "Execuția soților Ceaușescu (1989).", "Curtea Domnească."], en: ["Chindia Tower (Vlad the Impaler).", "Ceaușescu's execution in 1989.", "Curtea Domnească princely court."] },
     historyPeriod: "modern", historyYear: 1989,
     image: "/geo-images/romania/city-targoviste.webp",
+  
+    descriptionAdvanced: {
+      de: "Târgoviște war über Jahrhunderte die Hauptstadt der Walachei und Residenz zahlreicher Fürsten, darunter auch Vlad III. Tepes. Das bekannteste Wahrzeichen ist der Chindia-Turm, der Teil des fürstlichen Hofkomplexes ist. Die Stadt bewahrt ein reiches Erbe an mittelalterlicher Architektur und spielt eine zentrale Rolle in der Geschichte der frühen rumänischen Staatsbildung.",
+      hu: "Târgoviște évszázadokon át Havasalföld fővárosa és számos fejedelem rezidenciája volt, köztük III. Vlad Tepesé is. Legismertebb jelképe a Chindia-torony, amely a fejedelmi udvar épületegyüttesének része. A város gazdag középkori építészeti örökséget őriz, és központi szerepet játszott a korai román államiság történetében.",
+      ro: "Târgoviște a fost timp de secole capitala Țării Românești și reședința a numeroși domnitori, printre care și Vlad Țepeș. Cel mai cunoscut monument este Turnul Chindiei, parte a ansamblului Curtea Domnească. Orașul păstrează un patrimoniu bogat de arhitectură medievală și joacă un rol central în istoria formării statului român.",
+      en: "Târgoviște served for centuries as the capital of Wallachia and the residence of many rulers, including Vlad the Impaler. Its most famous landmark is the Chindia Tower, which is part of the Princely Court complex. The city preserves a rich heritage of medieval architecture and played a central role in the history of early Romanian statehood.",
+    },
+    factsAdvanced: {
+      de: ["Hauptstadt der Walachei: zwischen 1396 und 1714", "Chindia-Turm: erbaut unter Vlad dem Pfähler", "Fürstlicher Hof: Historische Ruinen der Residenz", "Stelea-Kloster: Gründung im 16. Jahrhundert", "Druckmuseum: Erste Bücher Rumäniens hier gedruckt", "Geschichte: Ort des Ceaușescu-Prozesses 1989"],
+      hu: ["Havasalföld fővárosa: 1396 és 1714 között", "Chindia-torony: III. Vlad Tepes építtette", "Fejedelmi udvar (Curtea Domnească): történelmi romok", "Stelea-kolostor: 16. századi alapítás", "Nyomdamúzeum: az első román könyveket itt nyomtatták", "Modern történelem: A Ceaușescu-per helyszíne 1989-ben"],
+      ro: ["Capitala Țării Românești: între 1396-1714", "Turnul Chindiei: construit de Vlad Țepeș", "Curtea Domnească: ruinele reședinței voievodale", "Mănăstirea Stelea: ctitorie din secolul al XVI-lea", "Muzeul Tiparului: primele cărți din RO tipărite aici", "Istorie modernă: Locul procesului lui Ceaușescu din 1989"],
+      en: ["Capital of Wallachia: between 1396-1714", "Chindia Tower: built by Vlad the Impaler", "Princely Court (Curtea Domnească): historic ruins", "Stelea Monastery: 16th century foundation", "Museum of Printing: first books in RO printed here", "Modern history: Site of the 1989 trial of Ceaușescu"],
+    },
   },
   {
     id: "city-sighisoara", type: "city", parent: "RO-MS", coords: [24.7931, 46.2167],
@@ -2161,6 +2421,19 @@ export const romaniaCities: POI[] = [
     facts: { de: ["UNESCO-Welterbe seit 1999.", "Stundturm (Turnul cu Ceas).", "Geburtshaus Vlad Țepeș."], hu: ["UNESCO-örökség 1999 óta.", "Óratorony.", "Vlad Tepes szülőháza."], ro: ["Patrimoniu UNESCO din 1999.", "Turnul cu Ceas.", "Casa lui Vlad Dracul."], en: ["UNESCO site since 1999.", "Clock Tower.", "Vlad Dracul's birthplace."] },
     historyPeriod: "middle-ages",
     image: "/geo-images/romania/city-sighisoara.webp",
+  
+    descriptionAdvanced: {
+      de: "Sighișoara ist eine der besterhaltenen mittelalterlichen Städte Europas und gehört zum UNESCO-Welterbe. Die Zitadelle wurde im 12. Jahrhundert von sächsischen Siedlern auf einem Hügel erbaut. Besonders bekannt ist die Stadt als Geburtsort von Vlad dem Pfähler sowie für ihren markanten Stundturm und die überdachte Schülertreppe.",
+      hu: "Segesvár Európa egyik legjobb állapotban fennmaradt középkori városa, amely az UNESCO Világörökség része. A várat a 12. században erdélyi szász telepesek építették egy dombtetőre. A város leginkább Vlad Tepes szülőhelyeként, jellegzetes Óratornyáról és a fedett Diáklépcsőről ismert.",
+      ro: "Sighișoara este unul dintre cele mai bine conservate orașe medievale din Europa, fiind inclus în patrimoniul mondial UNESCO. Cetatea a fost construită în secolul al XII-lea de coloniștii sași pe vârful unui deal. Orașul este cunoscut drept locul de naștere al lui Vlad Țepeș, dar și pentru Turnul cu Ceas și Scara Școlarilor.",
+      en: "Sighișoara is one of the best-preserved medieval towns in Europe and is a UNESCO World Heritage site. The citadel was built in the 12th century by Saxon settlers on a hilltop location. The town is famous as the birthplace of Vlad the Impaler, as well as for its iconic Clock Tower and the covered Scholars' Stairs.",
+    },
+    factsAdvanced: {
+      de: ["UNESCO-Welterbe: Aufnahme im Jahr 1999", "Stundturm: erbaut im 14. Jahrhundert (Höhe 64m)", "Geburtsort von Vlad III. (Vlad der Pfähler)", "Schülertreppe: 175 überdachte Stufen aus Holz", "Gründung: Im 12. Jahrhundert von Sachsen besiedelt", "Mittelalterliches Festival: Jährlich im Sommer"],
+      hu: ["UNESCO Világörökség: 1999 óta", "Óratorony: 14. századi építmény (64 méter magas)", "Szülőhely: Itt született III. Vlad (Vlad Tepes)", "Diáklépcső: 175 fedett falépcső", "Alapítás: A 12. században szászok alapították", "Fesztivál: Segesvári Középkori Fesztivál (évente)"],
+      ro: ["Patrimoniu UNESCO: inclus în anul 1999", "Turnul cu Ceas: construit în secolul al XIV-lea", "Locul de naștere al lui Vlad al III-lea (Țepeș)", "Scara Școlarilor: 175 de trepte din lemn acoperite", "Fondare: Stabilită de sași în secolul al XII-lea", "Festival: Festivalul Medieval Sighișoara (anual)"],
+      en: ["UNESCO World Heritage site since 1999", "Clock Tower: built in the 14th century (64m tall)", "Birthplace of Vlad III (The Impaler)", "Scholars' Stairs: 175 steps under cover", "Foundation: Established by Saxons in the 12th century", "Festival: Sighișoara Medieval Festival (annual)"],
+    },
   },
   {
     id: "city-drobeta-turnu-severin", type: "city", parent: "RO-MH", coords: [22.6566, 44.6369],
@@ -2169,6 +2442,19 @@ export const romaniaCities: POI[] = [
     facts: { de: ["Pfeiler der Trajansbrücke.", "Eisernes Tor I-Staudamm.", "Eisen-Museum."], hu: ["Traianus hídjának pillérei.", "Vaskapu I vízerőmű.", "Vasmúzeum."], ro: ["Pilonii Podului lui Traian.", "Hidrocentrala Porțile de Fier I.", "Muzeul Regiunii Porților de Fier."], en: ["Piers of Trajan's Bridge.", "Iron Gates I hydro-dam.", "Iron Gates Regional Museum."] },
     historyPeriod: "empire",
     image: "/geo-images/romania/city-drobeta-turnu-severin.webp",
+  
+    descriptionAdvanced: {
+      de: "Drobeta-Turnu Severin liegt am linken Ufer der Donau, nahe der Grenze zu Serbien. Die Stadt ist bekannt für ihre antiken Ruinen, insbesondere die Überreste der Trajansbrücke, die im 2. Jahrhundert n. Chr. erbaut wurde. Neben den römischen Fundstellen beherbergt die Stadt eine mittelalterliche Festung und dient als Tor zum beeindruckenden Nationalpark Eisernes Tor.",
+      hu: "Szörényvár (Drobeta-Turnu Severin) a Duna bal partján fekszik, a szerb határ közelében. A város híres ókori romjairól, különösen a Traianus hídjának maradványairól, amely az i. sz. 2. században épült. A római kori emlékek mellett a város egy középkori várnak is otthont ad, és kapuként szolgál a Vaskapu Nemzeti Park lenyűgöző vidékéhez.",
+      ro: "Drobeta-Turnu Severin este situat pe malul stâng al Dunării, aproape de granița cu Serbia. Orașul este cunoscut pentru vestigiile sale antice, în special resturile Podului lui Traian, construit în secolul al II-lea d.Hr. Pe lângă siturile romane, orașul găzduiește o cetate medievală și servește drept poartă către spectaculosul defileu al Dunării.",
+      en: "Drobeta-Turnu Severin is located on the left bank of the Danube, near the border with Serbia. The city is famous for its ancient ruins, particularly the remains of Trajan's Bridge, built in the 2nd century AD. Besides the Roman sites, the city hosts a medieval fortress and serves as a gateway to the impressive Iron Gates National Park.",
+    },
+    factsAdvanced: {
+      de: ["Trajansbrücke: erbaut zwischen 103 und 105 n. Chr.", "Donauhafen: Wichtiger Transportknotenpunkt", "Wasserturm (Castelul de Apă): erbaut im Jahr 1910", "Mittelalterliche Festung von Severin: 13. Jahrhundert", "Verwaltungssitz des Kreises Mehedinți", "Lage: In unmittelbarer Nähe zum Kraftwerk Eisernes Tor"],
+      hu: ["Traianus hídja: i. sz. 103 és 105 között épült", "Dunai kikötő: jelentős szállítási csomópont", "Víztorony (Castelul de Apă): 1910-ben épült", "Szörényi középkori vár: 13. századi eredetű", "Mehedinți megye közigazgatási székhelye", "Elhelyezkedés: A Vaskapu-erőmű közelében található"],
+      ro: ["Podul lui Traian: construit între anii 103-105 d.Hr.", "Port la Dunăre: nod important de transport", "Castelul de Apă: construit în anul 1910", "Cetatea Medievală a Severinului: secolul al XIII-lea", "Reședința județului Mehedinți", "Proximitate: Lângă hidrocentrala Porțile de Fier"],
+      en: ["Trajan's Bridge: built between 103-105 AD", "Danube Port: major transport hub", "Water Tower (Castelul de Apă): built in 1910", "Medieval Fortress of Severin: 13th century", "Mehedinți County capital", "Proximity: Near the Iron Gates Dam"],
+    },
   },
   {
     id: "city-miercurea-ciuc", type: "state-capital", parent: "RO-HR", coords: [25.8, 46.3606],
@@ -2176,6 +2462,19 @@ export const romaniaCities: POI[] = [
     description: { de: "Szeklerstadt am Oberlauf des Olt.", hu: "Székely város az Olt felső folyásánál.", ro: "Oraș secuiesc, pe cursul superior al Oltului.", en: "Székely town on the upper Olt." },
     facts: { de: ["Miko-Burg (17. Jh.).", "Wallfahrt Șumuleu Ciuc / Csíksomlyó.", "Ciuc-Bier."], hu: ["Mikó-vár (17. század).", "Csíksomlyói búcsú.", "Csíki sör."], ro: ["Cetatea Mikó (sec. XVII).", "Pelerinajul Șumuleu Ciuc.", "Berea Ciuc."], en: ["Mikó Castle (17th c.).", "Șumuleu Ciuc pilgrimage.", "Ciuc beer."] },
     image: "/geo-images/romania/city-miercurea-ciuc.webp",
+  
+    descriptionAdvanced: {
+      de: "Miercurea Ciuc liegt im Osten Siebenbürgens im Kreis Harghita und ist als eine der kältesten Städte Rumäniens bekannt. Die Stadt ist ein bedeutendes Zentrum für die ungarische Minderheit und beherbergt die Burg Mikó aus dem 17. Jahrhundert. In der Nähe befindet sich der Wallfahrtsort Csíksomlyó, der jedes Jahr zu Pfingsten Tausende von Pilgern anzieht.",
+      hu: "Csíkszereda Erdély keleti részén, Hargita megyében fekszik, és Románia egyik leghidegebb városaként ismert. A város a magyar kisebbség fontos központja, és itt található a 17. századi Mikó-vár. A közelben fekszik a csíksomlyói búcsújáróhely, amely minden év pünkösdjén zarándokok tízezreit vonzza a kegytemplomhoz.",
+      ro: "Miercurea Ciuc este situat în estul Transilvaniei, în județul Harghita, fiind cunoscut drept unul dintre cele mai friguroase orașe din România. Orașul este un centru important pentru minoritatea maghiară și găzduiește Castelul Mikó, construit în secolul al XVII-lea. În apropiere se află Șumuleu Ciuc, un loc de pelerinaj celebru care atrage mii de oameni anual.",
+      en: "Miercurea Ciuc is located in eastern Transylvania in Harghita County, known as one of the coldest cities in Romania. The city is an important center for the Hungarian minority and home to the 17th-century Mikó Castle. Nearby is the pilgrimage site of Șumuleu Ciuc, which attracts thousands of pilgrims every year at Pentecost.",
+    },
+    factsAdvanced: {
+      de: ["Verwaltungssitz des Kreises Harghita", "Burg Mikó: erbaut im Jahr 1623", "Wallfahrtsort: Șumuleu Ciuc (Csíksomlyó)", "Klima: Bekannt für sehr niedrige Wintertemperaturen", "Szekler Museum: Befindet sich in der Burg Mikó", "Eishockey-Tradition: Standort der Vákár-Lajos-Eishalle"],
+      hu: ["Hargita megye közigazgatási székhelye", "Mikó-vár: épült 1623-ban", "Búcsújáróhely: Csíksomlyó (Șumuleu Ciuc)", "Éghajlat: Nagyon alacsony téli hőmérsékleteiről ismert", "Csíki Székely Múzeum: a Mikó-várban található", "Jégkorong-hagyomány: Itt található a Vákár Lajos Műjégpálya"],
+      ro: ["Reședința județului Harghita", "Castelul Mikó: construit în anul 1623", "Loc de pelerinaj: Șumuleu Ciuc (Csíksomlyó)", "Climat: Cunoscut pentru temperaturi extrem de scăzute", "Muzeul Secuiesc al Ciucului: găzduit în castel", "Tradiție sportivă: Găzduiește Patinoarul Vákár Lajos"],
+      en: ["Harghita County seat", "Mikó Castle: built in 1623", "Pilgrimage site: Șumuleu Ciuc (Csíksomlyó)", "Climate: Known for very low winter temperatures", "Szekler Museum of Ciuc: housed in Mikó Castle", "Sport: Home to the Vákár Lajos Ice Rink"],
+    },
   },
   {
     id: "city-herastrau-park", type: "city", parent: "RO-B", coords: [26.0825, 44.4708],
@@ -2183,6 +2482,19 @@ export const romaniaCities: POI[] = [
     description: { de: "Großer Park in Bukarest am Herăstrău-See.", hu: "Nagy park Bukarestben, a Herăstrău-tó partján.", ro: "Cel mai mare parc din București, situat pe malul lacului Herăstrău.", en: "Largest park in Bucharest, located on the shores of Lake Herăstrău." },
     facts: { de: ["König-Michael-I.-Park.", "Austragungsort für Wassersport.", "Nahe dem Triumphbogen."], hu: ["I. Mihály király park.", "Vizi sportok helyszíne.", "A Diadalív közelében."], ro: ["Numit și Parcul Regele Mihai I.", "Loc pentru sporturi nautice.", "Lângă Arcul de Triumf."], en: ["King Michael I Park.", "Venue for water sports.", "Near the Arch of Triumph."] },
     image: "/geo-images/romania/city-herastrau-park.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Herăstrău-Park, offiziell König-Michael-I.-Park genannt, ist die größte Grünanlage Bukarests. Er erstreckt sich um den Herăstrău-See und bietet zahlreiche Freizeitmöglichkeiten. Eine der Hauptattraktionen im Park ist das Dorfmuseum Dimitrie Gusti, das traditionelle Bauernhäuser aus ganz Rumänien zeigt.",
+      hu: "A Herăstrău-park, hivatalos nevén I. Mihály király park, Bukarest északi részének legnagyobb zöldterülete. A park a Herăstrău-tó körül terül el, és számos kikapcsolódási lehetőséget kínál. Egyik legfontosabb intézménye a Dimitrie Gusti Falumúzeum, amely hagyományos parasztházakat mutat be.",
+      ro: "Parcul Herăstrău, numit oficial Parcul Regele Mihai I, este cea mai mare zonă verde din nordul Bucureștiului. Parcul se întinde în jurul lacului Herăstrău și oferă numeroase posibilități de recreere și atracții culturale. Una dintre cele mai importante instituții este Muzeul Satului Dimitrie Gusti.",
+      en: "Herăstrău Park, officially named King Michael I Park, is the largest green area in northern Bucharest. The park stretches around Herăstrău Lake and offers numerous recreational opportunities. One of the most important institutions within the park is the Dimitrie Gusti Village Museum, showcasing traditional houses.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtfläche: ca. 110 Hektar", "Fläche des Herăstrău-Sees: 74 Hektar", "Dorfmuseum (Dimitrie Gusti): gegründet 1936", "Umbenennung: 2017 in König-Michael-I.-Park", "Landschaftsgestaltung: Entworfen von Pinard und Rebhuhn", "Besonderheit: Enthält die „Insel der Rosen“"],
+      hu: ["Teljes terület: kb. 110 hektár", "Herăstrău-tó vízfelülete: 74 hektár", "Dimitrie Gusti Falumúzeum: alapítva 1936-ban", "Átnevezés: 2017-ben I. Mihály király parkra", "Tervezők: Edouard Redont, Pinard és Rebhuhn", "Látnivaló: Itt található a „Rózsák szigete”"],
+      ro: ["Suprafață totală: aprox. 110 hectare", "Suprafața lacului Herăstrău: 74 hectare", "Muzeul Satului (Dimitrie Gusti): fondat în 1936", "Redenumire: În 2017, ca Parcul Regele Mihai I", "Proiectare: Peisagiști Edouard Redont și Rebhuhn", "Atracție: Include „Insula Trandafirilor”"],
+      en: ["Total area: approx. 110 hectares", "Lake Herastrau area: 74 hectares", "Village Museum (Dimitrie Gusti): founded in 1936", "Renamed: King Michael I Park in 2017", "Designers: Edouard Redont, Pinard, and Rebhuhn", "Features: Includes the Island of Roses"],
+    },
   },
   {
     id: "city-village-museum", type: "city", parent: "RO-B", coords: [26.0764, 44.4719],
@@ -2190,6 +2502,19 @@ export const romaniaCities: POI[] = [
     description: { de: "Freilichtmuseum mit traditionellen rumänischen Bauernhäusern.", hu: "Szabadtéri múzeum hagyományos román parasztházakkal.", ro: "Muzeu în aer liber care prezintă gospodării tradiționale românești.", en: "Open-air museum showcasing traditional Romanian peasant households." },
     facts: { de: ["Gegründet 1936.", "Über 300 authentische Gebäude.", "Liegt im Herăstrău-Park."], hu: ["1936-ban alapították.", "Több mint 300 eredeti épület.", "A Herăstrău-parkban található."], ro: ["Fondat în 1936.", "Peste 300 de construcții autentice.", "Situat în Parcul Herăstrău."], en: ["Founded in 1936.", "Over 300 authentic buildings.", "Located in Herăstrău Park."] },
     image: "/geo-images/romania/city-village-museum.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Museum wurde 1936 von Dimitrie Gusti gegründet und ist eines der größten Freilichtmuseen Europas. Es liegt am Ufer des Herăstrău-Sees und zeigt die traditionelle Architektur der rumänischen Dörfer. Die Anlage beherbergt über 300 originale Gebäude, darunter Holzkirchen, Windmühlen und Bauernhäuser aus allen Regionen des Landes.",
+      hu: "A múzeumot 1936-ban alapította Dimitrie Gusti szociológus a Herăstrău-tó partján. Ez Európa egyik legnagyobb szabadtéri néprajzi múzeuma, amely a román falusi építészetet mutatja be. A gyűjtemény több mint 300 eredeti építményt tartalmaz, köztük fatemplomokat, szélmalmokat és gazdasági épületeket az ország minden tájáról.",
+      ro: "Muzeul a fost fondat în 1936 de Dimitrie Gusti și este unul dintre cele mai mari muzee în aer liber din Europa. Situat pe malul lacului Herăstrău, acesta recreează atmosfera satului românesc tradițional. Cuprinde peste 300 de monumente originale, inclusiv biserici de lemn, mori de vânt și gospodării din toate regiunile istorice.",
+      en: "Founded in 1936 by Dimitrie Gusti, this is one of Europe's largest open-air museums. Located on the shores of Lake Herăstrău, it showcases traditional Romanian village architecture. The site features over 300 original structures, including wooden churches, windmills, and farmhouses relocated from all historical regions of Romania.",
+    },
+    factsAdvanced: {
+      de: ["1936 durch den Soziologen Dimitrie Gusti eröffnet", "Über 100.000 Quadratmeter Gesamtfläche", "Mehr als 300 originalgetreu versetzte Denkmäler", "Sammlung von über 60.000 ethnografischen Objekten", "Ältestes Gebäude stammt aus dem 17. Jahrhundert", "Direkt am Herăstrău-See im Norden Bukarests gelegen"],
+      hu: ["1936-ban nyitotta meg kapuit Dimitrie Gusti vezetésével", "Területe meghaladja a 100 000 négyzetmétert", "Több mint 300 eredeti, áttelepített műemlék látható", "A gyűjteményben 60 000-nél is több néprajzi tárgy van", "A legöregebb kiállított épület a 17. századból való", "Bukarest északi részén, a Herăstrău-tó partján fekszik"],
+      ro: ["Inaugurat în 1936 sub coordonarea lui Dimitrie Gusti", "Suprafață totală de peste 100.000 de metri pătrați", "Găzduiește peste 300 de monumente originale mutate", "Colecție de peste 60.000 de obiecte de patrimoniu", "Cea mai veche construcție datează din secolul al XVII-lea", "Situat pe malul lacului Herăstrău în nordul Capitalei"],
+      en: ["Opened in 1936 under the guidance of Dimitrie Gusti", "Total area spans over 100,000 square meters", "Features more than 300 original relocated monuments", "Collection includes over 60,000 ethnographic items", "The oldest building on site dates back to the 17th century", "Located on the shores of Lake Herăstrău in northern Bucharest"],
+    },
   },
   {
     id: "city-black-church", type: "city", parent: "RO-BV", coords: [25.5878, 45.6406],
@@ -2197,6 +2522,19 @@ export const romaniaCities: POI[] = [
     description: { de: "Größte gotische Kirche Südosteuropas in Kronstadt.", hu: "Délkelet-Európa legnagyobb gótikus temploma Brassóban.", ro: "Cea mai mare biserică gotică din sud-estul Europei, la Brașov.", en: "Largest Gothic church in Southeastern Europe, located in Brașov." },
     facts: { de: ["Bau ab 1383.", "Großer Brand 1689 gab ihr den Namen.", "Bedeutende Buchholz-Orgel."], hu: ["Építése 1383-ban kezdődött.", "Az 1689-es tűzvész után kapta a nevét.", "Híres Buchholz-orgona."], ro: ["Construcție începută în 1383.", "Nume primit după incendiul din 1689.", "Orga Buchholz celebră."], en: ["Construction started in 1383.", "Named after the Great Fire of 1689.", "Famous Buchholz organ."] },
     image: "/geo-images/romania/city-black-church.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Schwarze Kirche in Brașov ist das bedeutendste gotische Denkmal Rumäniens und eines der größten Südosteuropas. Der Bau begann im 14. Jahrhundert und dauerte fast hundert Jahre. Ihren Namen erhielt sie nach dem Stadtbrand von 1689, der die Außenwände schwärzte. Bekannt ist sie zudem für ihre weltweit einzigartige Sammlung anatolischer Teppiche.",
+      hu: "A brassói Fekete-templom Románia legjelentősebb gótikus emléke és Délkelet-Európa egyik legnagyobb temploma. Építése a 14. században kezdődött és közel egy évszázadig tartott. Nevét az 1689-es nagy tűzvész után kapta, amely befeketítette a falait. Világhírű az értékes anatóliai szőnyeggyűjteményéről is.",
+      ro: "Biserica Neagră din Brașov este cel mai important monument gotic din România și unul dintre cele mai mari din sud-estul Europei. Construcția a început în secolul al XIV-lea și a durat aproape o sută de ani. Numele provine de la marele incendiu din 1689 care i-a înnegrit zidurile. Este celebră pentru colecția unică de covoare anatoliene.",
+      en: "The Black Church in Brașov is Romania's most important Gothic monument and one of the largest in Southeast Europe. Construction began in the 14th century and lasted nearly a hundred years. It earned its name after the great fire of 1689 blackened its exterior walls. It is also world-renowned for its unique collection of Anatolian carpets.",
+    },
+    factsAdvanced: {
+      de: ["Baubeginn im Jahr 1383 auf einer alten Kapelle", "Gesamtlänge von 89 Metern und 38 Meter Breite", "Die größte Glocke wiegt etwa 6.000 Kilogramm", "Sammlung von 110 wertvollen anatolischen Teppichen", "Bucha-Orgel mit 3.993 Pfeifen aus dem Jahr 1839", "Namensgebender Stadtbrand ereignete sich 1689"],
+      hu: ["Az építkezés 1383-ban kezdődött egy régi kápolna helyén", "Teljes hossza 89 méter, szélessége pedig 38 méter", "A legnagyobb harang súlya körülbelül 6000 kilogramm", "110 darabos értékes anatóliai szőnyeggyűjtemény", "Az 1839-es Buchholz-orgona 3993 síppal rendelkezik", "A névadó nagy tűzvész 1689-ben pusztított a városban"],
+      ro: ["Construcția a început în 1383 pe locul unei vechi capele", "Lungime totală de 89 metri și lățime de 38 metri", "Cel mai mare clopot cântărește circa 6.000 de kilograme", "Colecție de 110 covoare anatoliene din secolele XV-XVI", "Orga Buchholz din 1839 dispune de 3.993 de tuburi", "Incendiul care i-a dat numele a avut loc în 1689"],
+      en: ["Construction started in 1383 on the site of an old chapel", "Total length of 89 meters and width of 38 meters", "The largest bell weighs approximately 6,000 kilograms", "Houses a collection of 110 rare Anatolian carpets", "The 1839 Buchholz organ features 3,993 pipes", "The defining great fire occurred in the year 1689"],
+    },
   },
   {
     id: "city-patriarchal-cathedral", type: "city", parent: "RO-B", coords: [26.0975, 44.4244],
@@ -2204,6 +2542,19 @@ export const romaniaCities: POI[] = [
     description: { de: "Sitz des rumänisch-orthodoxen Patriarchen auf dem Dealul Mitropoliei.", hu: "A román ortodox pátriárka székhelye a Mitropolia-dombon.", ro: "Sediul Patriarhiei Române, situat pe Dealul Mitropoliei.", en: "Seat of the Romanian Orthodox Patriarch, on Dealul Mitropoliei." },
     facts: { de: ["Erbaut 1654–1658.", "Wallfahrtsort für den Hl. Dimitrie.", "Prachtvolle Ikonostase."], hu: ["1654–1658 között épült.", "Szent Demeter-zarándokhely.", "Díszes ikonfal."], ro: ["Construită între 1654–1658.", "Moaștele Sf. Dimitrie cel Nou.", "Ikonostas spectaculos."], en: ["Built 1654–1658.", "Pilgrimage site for St. Dimitrie.", "Splendid iconostasis."] },
     image: "/geo-images/romania/city-patriarchal-cathedral.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Patriarchal-Kathedrale in Bukarest wurde zwischen 1654 und 1658 unter der Herrschaft von Constantin Șerban Basarab errichtet. Sie befindet sich auf dem Dealul Mitropoliei und ist das geistliche Zentrum der Rumänisch-Orthodoxen Kirche. Die Architektur folgt dem Brâncoveanu-Stil und wurde im Laufe der Jahrhunderte mehrfach restauriert. Die Innenräume sind mit wertvollen Mosaiken und Ikonen geschmückt.",
+      hu: "A bukaresti pátriárkai székesegyház 1654 és 1658 között épült Constantin Șerban Basarab uralkodása alatt. A Mitropoliei-dombon található épület a román ortodox egyház szellemi központja. Építészeti stílusa a Brâncoveanu-stílust követi, és az évszázadok során többször restaurálták. Belső terét értékes mozaikok és ikonok díszítik.",
+      ro: "Catedrala Patriarhală din București a fost construită între anii 1654 și 1658, în timpul domniei lui Constantin Șerban Basarab. Situată pe Dealul Mitropoliei, aceasta este centrul spiritual al Bisericii Ortodoxe Române. Arhitectura respectă stilul muntenesc tradițional și a fost restaurată de mai multe ori. Interiorul este decorat cu mozaicuri și icoane de mare valoare.",
+      en: "The Patriarchal Cathedral in Bucharest was built between 1654 and 1658 during the reign of Constantin Șerban Basarab. Located on the Mitropoliei Hill, it serves as the spiritual center of the Romanian Orthodox Church. The architecture follows the traditional Wallachian style and has undergone several restorations. The interior is adorned with valuable mosaics and icons.",
+    },
+    factsAdvanced: {
+      de: ["Fertigstellung des Baus im Jahr 1658", "Sitz des Patriarchen seit dem Jahr 1925", "Die Kirche ist 28 Meter lang und 14 Meter breit", "Bewahrt die Reliquien des Heiligen Dimitrie der Neue", "Mosaikverzierungen wurden in den 1960er Jahren erneuert", "Befindet sich auf dem historischen Dealul Mitropoliei"],
+      hu: ["Az épület befejezésének éve 1658", "A pátriárka székhelye az 1925-ös év óta", "A templom 28 méter hosszú és 14 méter széles", "Itt őrzik Szent Demeter (Dimitrie cel Nou) ereklyéit", "A mozaikdíszítéseket az 1960-as években újították fel", "A történelmi Mitropoliei-dombon helyezkedik el"],
+      ro: ["Finalizarea construcției a avut loc în anul 1658", "Sediul Patriarhiei începând cu anul 1925", "Biserica are o lungime de 28 metri și lățime de 14 metri", "Adăpostește moaștele Sfântului Dimitrie cel Nou", "Decorul cu mozaic a fost refăcut în anii 1960", "Situată pe colina istorică Dealul Mitropoliei"],
+      en: ["Construction was completed in the year 1658", "Seat of the Patriarchate since the year 1925", "The church measures 28 meters long and 14 meters wide", "Houses the relics of Saint Dimitrie the New", "Mosaic decorations were renewed in the 1960s", "Situated on the historic Mitropoliei Hill"],
+    },
   },
   {
     id: "city-mogosoaia-palace", type: "city", parent: "RO-IF", coords: [25.993, 44.527],
@@ -2211,6 +2562,19 @@ export const romaniaCities: POI[] = [
     description: { de: "Prachtvoller Palast im Brâncovenesc-Stil nahe Bukarest.", hu: "Díszes Brâncoveanu-stílusú palota Bukarest közelében.", ro: "Palat brâncovenesc spectaculos situat lângă București.", en: "Splendid Brâncovenesc-style palace located near Bucharest." },
     facts: { de: ["Fertiggestellt 1702.", "Einzigartige Mischung aus Orient und Okzident.", "Schöner Schlosspark."], hu: ["1702-ben készült el.", "A kelet és nyugat egyedi stíluskeveréke.", "Szép kastélypark."], ro: ["Finalizat în 1702.", "Stil arhitectural unic brâncovenesc.", "Parc domnesc superb."], en: ["Completed in 1702.", "Unique blend of Oriental and Western styles.", "Beautiful palace park."] },
     image: "/geo-images/romania/city-mogosoaia-palace.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Mogosoaia-Palast wurde 1702 von Constantin Brâncoveanu fertiggestellt und gilt als Meisterwerk des nach ihm benannten Baustils. Er liegt etwa 15 Kilometer außerhalb von Bukarest in einer weitläufigen Parkanlage. Der Komplex umfasst den Palast, eine Kirche, einen Wachturm und die Familiengruft der Bibesco-Familie. Heute beherbergt das Gebäude ein Museum für Brâncoveanu-Kunst und Kultur.",
+      hu: "A Mogoșoaia-palotát 1702-ben fejezték be Constantin Brâncoveanu idején, és a róla elnevezett stílus remekműve. Bukaresttől mintegy 15 kilométerre található egy kiterjedt parkban. Az épületegyüttes magában foglalja a palotát, egy templomot, egy őrtornyot és a Bibesco család sírboltját. Ma az épület a Brâncoveanu-kori művészet és kultúra múzeuma.",
+      ro: "Palatul Mogoșoaia a fost finalizat în 1702 de Constantin Brâncoveanu, fiind o capodoperă a stilului arhitectural care îi poartă numele. Este situat la aproximativ 15 kilometri de București, într-un parc generos. Complexul include palatul, biserica, turnul porții și cavoul familiei Bibescu. În prezent, găzduiește Muzeul de Artă Brâncovenească.",
+      en: "Mogoșoaia Palace was completed in 1702 by Constantin Brâncoveanu and is a masterpiece of the architectural style named after him. Located about 15 kilometers outside Bucharest, it sits within a vast park. The complex includes the palace, a church, a watchtower, and the Bibesco family vault. Today, it houses the Museum of Brâncovenesc Art and Culture.",
+    },
+    factsAdvanced: {
+      de: ["Fertigstellung am 20. September 1702", "Brâncoveanu-Stil mit venezianischen und osmanischen Elementen", "Umfassende Restaurierung durch Marthe Bibesco ab 1912", "Die St. Georgs-Kirche wurde bereits 1688 erbaut", "Befindet sich 15 Kilometer nordwestlich von Bukarest", "Das Gelände umfasst etwa 10 Hektar Parkfläche"],
+      hu: ["A befejezés dátuma 1702. szeptember 20.", "Brâncoveanu-stílus velencei és oszmán elemekkel", "Marthe Bibesco általi jelentős felújítás 1912-től", "A Szent György-templom már 1688-ban felépült", "Bukaresttől 15 kilométerre északnyugatra fekszik", "A birtok körülbelül 10 hektárnyi parkterületet foglal el"],
+      ro: ["Finalizat la data de 20 septembrie 1702", "Stil brâncovenesc cu elemente venețiene și otomane", "Restaurare majoră coordonată de Marthe Bibescu din 1912", "Biserica Sfântul Gheorghe a fost ridicată în 1688", "Situat la 15 kilometri nord-vest de București", "Domeniul cuprinde aproximativ 10 hectare de parc"],
+      en: ["Completed on September 20, 1702", "Brâncovenesc style with Venetian and Ottoman elements", "Extensive restoration by Marthe Bibesco starting in 1912", "The St. George Church was built earlier in 1688", "Located 15 kilometers northwest of Bucharest", "The estate includes approximately 10 hectares of parkland"],
+    },
   },
   {
     id: "city-cotroceni-palace", type: "city", parent: "RO-B", coords: [26.062, 44.435],
@@ -2218,6 +2582,19 @@ export const romaniaCities: POI[] = [
     description: { de: "Sitz des rumänischen Präsidenten und historisches Nationalmuseum.", hu: "A román elnök székhelye és történelmi nemzeti múzeum.", ro: "Sediul Președinției României și muzeu național de istorie.", en: "Seat of the Romanian President and national history museum." },
     facts: { de: ["Ehemalige königliche Residenz.", "Erbaut auf einem alten Klostergelände.", "Barocker Baustil."], hu: ["Egykori királyi rezidencia.", "Egy régi kolostor helyén épült.", "Barokk építészeti stílus."], ro: ["Fostă reședință regală.", "Ridicat pe locul unui vechi schit.", "Muzeul Național Cotroceni."], en: ["Former royal residence.", "Built on the site of an old monastery.", "National Cotroceni Museum."] },
     image: "/geo-images/romania/city-cotroceni-palace.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Cotroceni-Palast ist der offizielle Amtssitz des rumänischen Präsidenten und beherbergt zudem ein bedeutendes Nationalmuseum. Er wurde Ende des 19. Jahrhunderts auf den Fundamenten eines Klosters aus dem Jahr 1679 errichtet. Das Gebäude diente ursprünglich als königliche Residenz für König Ferdinand I. und Königin Maria. Die Architektur verbindet neorumänische Elemente mit klassizistischen Einflüssen.",
+      hu: "A Cotroceni-palota a román elnök hivatalos székhelye, és egy jelentős nemzeti múzeumnak is otthont ad. A 19. század végén épült egy 1679-ből származó kolostor alapjaira. Az épület eredetileg I. Ferdinánd király és Mária királyné királyi rezidenciájaként szolgált. Építészete a neoromán elemeket ötvözi a klasszicista hatásokkal.",
+      ro: "Palatul Cotroceni este reședința oficială a Președintelui României și găzduiește totodată un important muzeu național. A fost construit la sfârșitul secolului al XIX-lea pe locul unei mănăstiri din 1679. Edificiul a servit drept reședință regală pentru Regele Ferdinand I și Regina Maria. Arhitectura îmbină stilul neoromânesc cu influențe clasiciste.",
+      en: "Cotroceni Palace is the official residence of the President of Romania and also houses a major national museum. It was built at the end of the 19th century on the foundations of a 1679 monastery. The building originally served as a royal residence for King Ferdinand I and Queen Marie. Its architecture blends Neo-Romanian elements with classicist influences.",
+    },
+    factsAdvanced: {
+      de: ["Gründung des ursprünglichen Klosters im Jahr 1679", "Heutiger Palastbau durch Paul Gottereau ab 1888", "Offizieller Sitz des Staatspräsidenten seit 1991", "Die Bibliothek des Königs umfasst 1.200 wertvolle Bände", "Museumssammlung mit über 20.000 Exponaten", "Schwere Schäden durch das Erdbeben von 1977"],
+      hu: ["Az eredeti kolostor alapítása 1679-ben történt", "A mai palotát Paul Gottereau tervezte 1888-tól", "Az államfő hivatalos székhelye 1991 óta", "A királyi könyvtár 1200 értékes kötetet tartalmaz", "A múzeumi gyűjtemény több mint 20 000 kiállítási tárgyból áll", "Az 1977-es földrengés során súlyos károkat szenvedett"],
+      ro: ["Fondarea mănăstirii originale în anul 1679", "Construcția palatului actual de Paul Gottereau din 1888", "Sediul oficial al Președinției României din 1991", "Biblioteca Regelui conține 1.200 de volume valoroase", "Colecția muzeului numără peste 20.000 de piese", "Avariat grav în timpul cutremurului din anul 1977"],
+      en: ["Foundation of the original monastery in 1679", "Present palace designed by Paul Gottereau from 1888", "Official seat of the President of Romania since 1991", "The King's library contains 1,200 valuable volumes", "Museum collection features over 20,000 exhibits", "Suffered significant damage during the 1977 earthquake"],
+    },
   },
   {
     id: "landmark-therme-bucuresti", type: "city", parent: "RO-IF", coords: [26.075, 44.606],
@@ -2225,6 +2602,19 @@ export const romaniaCities: POI[] = [
     description: { de: "Größtes Wellness- und Entspannungszentrum in Europa.", hu: "Európa legnagyobb wellness és relaxációs központja.", ro: "Cel mai mare centru de wellness și relaxare din Europa.", en: "The largest wellness and relaxation center in Europe." },
     facts: { de: ["Botanischer Garten innen.", "Thermalwasser.", "Viele Rutschen."], hu: ["Beltéri botanikus kert.", "Termálvíz.", "Számos csúszda."], ro: ["Grădină botanică interioară.", "Apă termală.", "Multe tobogane."], en: ["Indoor botanical garden.", "Thermal water.", "Many waterslides."] },
     image: "/geo-images/romania/landmark-therme-bucuresti.webp",
+  
+    descriptionAdvanced: {
+      de: "Therme Bukarest ist eines der größten Wellness- und Thermalzentren Europas. Die Anlage nutzt Thermalwasser aus einer Tiefe von über 3.100 Metern und bietet ganzjährig tropische Temperaturen. Der Komplex ist in drei Bereiche unterteilt: Galaxy für Familien, The Palm zur Entspannung und Elysium für Wellness. Über 800.000 Pflanzen schaffen eine einzigartige botanische Atmosphäre im Innenbereich.",
+      hu: "A bukaresti Therme Európa egyik legnagyobb wellness- és termálközpontja. A létesítmény több mint 3100 méter mélyről származó termálvizet használ, és egész évben trópusi hőmérsékletet biztosít. A komplexum három részre oszlik: Galaxy a családoknak, The Palm a pihenésre és Elysium a wellnessre. Több mint 800 000 növény teremt különleges beltéri botanikai hangulatot.",
+      ro: "Therme București este unul dintre cele mai mari centre de wellness și relaxare cu apă termală din Europa. Complexul utilizează apă termală extrasă de la peste 3.100 metri adâncime și menține temperaturi tropicale tot anul. Este structurat în trei zone: Galaxy pentru familii, The Palm pentru relaxare și Elysium pentru wellness. Găzduiește peste 800.000 de plante naturale.",
+      en: "Therme Bucharest is one of the largest wellness and thermal centers in Europe. The facility uses thermal water extracted from a depth of over 3,100 meters and maintains tropical temperatures year-round. The complex is divided into three zones: Galaxy for families, The Palm for relaxation, and Elysium for wellness. Over 800,000 plants create a unique indoor botanical atmosphere.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung des Wellness-Komplexes im Jahr 2016", "Thermalwasserquelle in 3.100 Metern Tiefe", "Über 30.000 Quadratmeter klimatisierte Innenfläche", "Botanischer Garten mit 800.000 exotischen Pflanzen", "Wassertemperatur in den Becken liegt bei 33 Grad Celsius", "Maximale Kapazität von über 4.000 Besuchern zeitgleich"],
+      hu: ["A wellness-komplexum 2016-os megnyitása", "Termálvízforrás 3100 méteres mélységben", "Több mint 30 000 négyzetméternyi beltéri terület", "Botanikus kert 800 000 egzotikus növénnyel", "A medencék vízhőmérséklete 33 Celsius-fok", "Egyszerre több mint 4000 látogatót tud befogadni"],
+      ro: ["Inaugurarea complexului de wellness în anul 2016", "Sursă de apă termală la 3.100 metri adâncime", "Peste 30.000 de metri pătrați de spațiu interior", "Grădină botanică cu 800.000 de plante exotice", "Temperatura apei în piscine este de 33 grade Celsius", "Capacitate maximă de peste 4.000 de persoane simultan"],
+      en: ["Opening of the wellness complex in 2016", "Thermal water source located 3,100 meters underground", "Over 30,000 square meters of indoor climate-controlled area", "Botanical garden featuring 800,000 exotic plants", "Water temperature in the pools is 33 degrees Celsius", "Maximum capacity of over 4,000 visitors at once"],
+    },
   },
   {
     id: "landmark-palas-iasi", type: "city", parent: "RO-IS", coords: [27.587, 47.156],
@@ -2232,6 +2622,19 @@ export const romaniaCities: POI[] = [
     description: { de: "Modernes Stadtviertel mit Einkaufszentrum und Park am Kulturpalast.", hu: "Modern városnegyed bevásárlóközponttal és parkkal a Kultúrpalota mellett.", ro: "Ansamblu urbanistic modern cu mall și parc lângă Palatul Culturii.", en: "Modern urban complex with a mall and park next to the Palace of Culture." },
     facts: { de: ["Blick auf den Palast.", "Große Grünflächen.", "Lifestyle-Zentrum."], hu: ["Kilátás a palotára.", "Nagy zöldfelületek.", "Életmód központ."], ro: ["Vedere spre palat.", "Spații verzi vaste.", "Centru de lifestyle."], en: ["View of the palace.", "Vast green spaces.", "Lifestyle center."] },
     image: "/geo-images/romania/landmark-palas-iasi.webp",
+  
+    descriptionAdvanced: {
+      de: "Palas Iași ist ein multifunktionaler Gebäudekomplex im historischen Herzen der Stadt, unmittelbar neben dem Kulturpalast. Er wurde 2012 eröffnet und kombiniert Einkaufszentren, Bürogebäude und Wohnräume in einer modernen Architektur. Das Projekt zeichnet sich durch seinen 5 Hektar großen öffentlichen Park aus. Es gilt als eines der bedeutendsten Stadtentwicklungsprojekte Rumäniens.",
+      hu: "A jászvásári Palas egy multifunkcionális épületegyüttes a város történelmi szívében, közvetlenül a Kultúrpalota mellett. A 2012-ben megnyitott komplexum bevásárlóközpontokat, irodákat és lakótereket ötvöz modern építészeti köntösben. A projekt egyik fő vonzereje az 5 hektáros nyilvános park. Románia egyik legjelentősebb városfejlesztési beruházásaként tartják számon.",
+      ro: "Palas Iași este un complex multifuncțional situat în inima istorică a orașului, lângă Palatul Culturii. Inaugurat în 2012, acesta integrează zone comerciale, clădiri de birouri și spații rezidențiale. Proiectul se remarcă prin parcul public de 5 hectare care oferă spații verzi generoase. Este considerat una dintre cele mai mari investiții de regenerare urbană din România.",
+      en: "Palas Iași is a multifunctional complex located in the historical heart of the city, adjacent to the Palace of Culture. Opened in 2012, it integrates shopping centers, office buildings, and residential spaces within modern architecture. The project is notable for its 5-hectare public park. It is considered one of Romania's most significant urban development projects.",
+    },
+    factsAdvanced: {
+      de: ["Offizielle Eröffnung im Mai des Jahres 2012", "Investitionsvolumen von über 265 Millionen Euro", "Umfasst eine Parkfläche von etwa 50.000 Quadratmetern", "Gesamtbebaute Fläche von über 270.000 Quadratmetern", "Verfügt über rund 2.500 unterirdische Parkplätze", "Etwa 10.000 Menschen arbeiten in den dortigen Büros"],
+      hu: ["Hivatalos megnyitó 2012 májusában", "A beruházás értéke meghaladta a 265 millió eurót", "Körülbelül 50 000 négyzetméternyi parkterületet tartalmaz", "A teljes beépített terület több mint 270 000 négyzetméter", "Mintegy 2500 föld alatti parkolóhellyel rendelkezik", "Körülbelül 10 000 ember dolgozik az itt található irodákban"],
+      ro: ["Inaugurare oficială în luna mai a anului 2012", "Investiție totală de peste 265 milioane de euro", "Include o suprafață de parc de circa 50.000 mp", "Suprafață totală construită de peste 270.000 mp", "Dispune de aproximativ 2.500 de locuri de parcare", "Circa 10.000 de persoane lucrează în birourile complexului"],
+      en: ["Official opening held in May 2012", "Total investment exceeded 265 million euros", "Includes a park area of approximately 50,000 square meters", "Total built area spans over 270,000 square meters", "Features around 2,500 underground parking spaces", "Approximately 10,000 people work in the complex's offices"],
+    },
   },
   {
     id: "landmark-astra-museum", type: "city", parent: "RO-SB", coords: [24.120, 45.750],
@@ -2239,6 +2642,19 @@ export const romaniaCities: POI[] = [
     description: { de: "Eines der größten Freilichtmuseen der Welt in Sibiu.", hu: "A világ egyik legnagyobb szabadtéri múzeuma Nagyszebenben.", ro: "Unul dintre cele mai mari muzee în aer liber din lume, la Sibiu.", en: "One of the largest open-air museums in the world, located in Sibiu." },
     facts: { de: ["Traditionelle Häuser.", "Windmühlen am See.", "96 Hektar Fläche."], hu: ["Hagyományos házak.", "Szélmalmok a tónál.", "96 hektár terület."], ro: ["Case tradiționale.", "Mori de vânt pe lac.", "Suprafață de 96 hectare."], en: ["Traditional houses.", "Windmills by the lake.", "96 hectares area."] },
     image: "/geo-images/romania/landmark-astra-museum.webp",
+  
+    descriptionAdvanced: {
+      de: "Das ASTRA-Museum in Sibiu ist das größte Freilichtmuseum Mittel- und Osteuropas und dokumentiert die traditionelle rumänische Volkskultur. Es befindet sich im Dumbrava-Wald und erstreckt sich über eine Fläche von 96 Hektar. Die Sammlung umfasst über 400 Gebäude, darunter Mühlen, Werkstätten und Bauernhäuser. Besucher können hier vorindustrielle Techniken und das ländliche Leben aus verschiedenen Regionen entdecken.",
+      hu: "A nagyszebeni ASTRA Múzeum Közép- és Kelet-Európa legnagyobb szabadtéri múzeuma, amely a hagyományos román népi kultúrát dokumentálja. A Dumbrava-erdőben található, 96 hektáros területen. A gyűjtemény több mint 400 építményt tartalmaz, köztük malmokat, műhelyeket és parasztházakat. A látogatók megismerhetik az iparosodás előtti technikákat és a vidéki életet.",
+      ro: "Muzeul ASTRA din Sibiu este cel mai mare muzeu în aer liber din centrul și estul Europei, documentând cultura populară tradițională. Este situat în pădurea Dumbrava Sibiului și se întinde pe o suprafață de 96 de hectare. Colecția cuprinde peste 400 de monumente, inclusiv mori, ateliere și gospodării. Vizitatorii pot descoperi tehnici preindustriale și viața rurală autentică.",
+      en: "The ASTRA Museum in Sibiu is the largest open-air museum in Central and Eastern Europe, documenting traditional Romanian folk culture. Located in the Dumbrava Sibiului forest, it covers an area of 96 hectares. The collection includes over 400 monuments, such as mills, workshops, and farmhouses. Visitors can explore pre-industrial techniques and rural life from various regions.",
+    },
+    factsAdvanced: {
+      de: ["Gründung des ASTRA-Vereins im Jahr 1905", "Gesamtfläche des Geländes beträgt 96 Hektar", "Mehr als 400 Monumente der Volksarchitektur", "Wanderwege im Park erstrecken sich über 10 Kilometer", "Das Gelände beherbergt zwei große natürliche Seen", "Die Freilichtsektion wurde im Jahr 1963 eingeweiht"],
+      hu: ["Az ASTRA egyesület alapítása 1905-ben", "A múzeum teljes területe 96 hektár", "Több mint 400 népi építészeti műemlék látható", "A parki sétautak hossza eléri a 10 kilométert", "A területen két nagy természetes tó is található", "A szabadtéri részleget 1963-ban avatták fel"],
+      ro: ["Fondarea asociației ASTRA în anul 1905", "Suprafața totală a complexului este de 96 hectare", "Peste 400 de monumente de arhitectură populară", "Aleile din incinta parcului măsoară peste 10 kilometri", "Domeniul adăpostește două lacuri naturale mari", "Secția în aer liber a fost inaugurată în anul 1963"],
+      en: ["Foundation of the ASTRA association in 1905", "Total area of the museum site is 96 hectares", "Features over 400 monuments of folk architecture", "Walkways within the park extend for 10 kilometers", "The site hosts two large natural lakes", "The open-air section was officially opened in 1963"],
+    },
   },
   {
     id: "landmark-cluj-botanical", type: "city", parent: "RO-CJ", coords: [23.586, 46.762],
@@ -2246,6 +2662,19 @@ export const romaniaCities: POI[] = [
     description: { de: "Wunderschöner botanischer Garten der Universität Babeș-Bolyai.", hu: "A Babeș-Bolyai Tudományegyetem gyönyörű botanikus kertje.", ro: "Grădina botanică superbă a Universității Babeș-Bolyai.", en: "The beautiful botanical garden of the Babeș-Bolyai University." },
     facts: { de: ["Japanischer Garten.", "Römischer Garten.", "Über 10.000 Pflanzenarten."], hu: ["Japánkert.", "Római kert.", "Több mint 10 000 növényfaj."], ro: ["Grădină japoneză.", "Grădină romană.", "Peste 10.000 specii de plante."], en: ["Japanese garden.", "Roman garden.", "Over 10,000 plant species."] },
     image: "/geo-images/romania/landmark-cluj-botanical.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Botanische Garten Alexandru Borza in Cluj-Napoca wurde 1920 gegründet und ist eine der bedeutendsten wissenschaftlichen Einrichtungen Rumäniens. Er erstreckt sich über 14 Hektar und beherbergt eine beeindruckende Vielfalt von über 10.000 Pflanzenarten. Besonders sehenswert sind der Japanische Garten und der Komplex der tropischen Gewächshäuser. Der Garten dient sowohl der akademischen Forschung als auch der öffentlichen Erholung.",
+      hu: "A kolozsvári Alexandru Borza botanikus kertet 1920-ban alapították, és Románia egyik legjelentősebb tudományos intézménye. A 14 hektáron elterülő kert lenyűgöző, több mint 10 000 növényfajt bemutató gyűjteménnyel rendelkezik. Különösen népszerű a japánkert és a trópusi üvegház-komplexum. A kert egyszerre szolgálja az akadémiai kutatást és a nyilvános pihenést.",
+      ro: "Grădina Botanică Alexandru Borza din Cluj-Napoca a fost fondată în 1920 și este una dintre cele mai importante instituții științifice din România. Se întinde pe 14 hectare și adăpostește o diversitate impresionantă de peste 10.000 de specii de plante. Atracțiile principale sunt Grădina Japoneză și complexul de sere tropicale. Servește cercetării academice și recreerii publice.",
+      en: "The Alexandru Borza Botanical Garden in Cluj-Napoca was founded in 1920 and is one of Romania's most significant scientific institutions. Spanning 14 hectares, it houses an impressive diversity of over 10,000 plant species. Major highlights include the Japanese Garden and the tropical greenhouse complex. The garden serves both academic research and public recreation.",
+    },
+    factsAdvanced: {
+      de: ["Gründung durch Professor Alexandru Borza im Jahr 1920", "Fläche von 14 Hektar in hügeligem Gelände", "Beherbergt über 10.000 verschiedene Pflanzenarten", "Wasserturm bietet eine Aussichtshöhe von 28 Metern", "Großes Gewächshaus erreicht eine Höhe von 42 Metern", "Der Japanische Garten verfügt über einen Bach und Teiche"],
+      hu: ["Alexandru Borza professzor alapította 1920-ban", "14 hektáros terület dombos vidéken", "Több mint 10 000 különböző növényfajnak ad otthont", "A kilátótorony 28 méter magasról kínál panorámát", "A nagy üvegház magassága eléri a 42 métert", "A japánkert saját patakkal és tavakkal rendelkezik"],
+      ro: ["Fondată de profesorul Alexandru Borza în anul 1920", "Suprafață de 14 hectare pe un teren accidentat", "Adăpostește peste 10.000 de specii de plante", "Turnul de apă oferă o belvedere de la 28 metri înălțime", "Sera principală are o înălțime de 42 de metri", "Grădina Japoneză include un pârâu și mici lacuri"],
+      en: ["Founded by Professor Alexandru Borza in 1920", "Covers an area of 14 hectares on hilly terrain", "Houses over 10,000 different plant species", "Water tower offers a view from 28 meters high", "The main greenhouse reaches a height of 42 meters", "The Japanese Garden features a stream and ponds"],
+    },
   },
   {
     id: "landmark-stefan-statue", type: "city", parent: "RO-IS", coords: [27.585, 47.161],
@@ -2253,6 +2682,19 @@ export const romaniaCities: POI[] = [
     description: { de: "Reiterstatue des berühmtesten moldauischen Fürsten in Iași.", hu: "A leghíresebb moldvai fejedelem lovasszobra Jászvásáron.", ro: "Statuia ecvestră a celui mai faimos domnitor moldovean, în Iași.", en: "The equestrian statue of the most famous Moldavian prince, in Iași." },
     facts: { de: ["Vor dem Kulturpalast.", "Symbol der Stadt.", "Eingeweiht 1883."], hu: ["A Kultúrpalota előtt.", "A város jelképe.", "1883-ban avatták fel."], ro: ["În fața Palatului Culturii.", "Simbol al orașului.", "Inaugurată în 1883."], en: ["In front of the Palace of Culture.", "Symbol of the city.", "Unveiled in 1883."] },
     image: "/geo-images/romania/landmark-stefan-statue.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Reiterstandbild von Stefan dem Großen in Iași ist ein markantes Denkmal vor dem Kulturpalast. Es wurde 1883 eingeweiht und vom französischen Bildhauer Emmanuel Frémiet geschaffen. Das Denkmal erinnert an den bedeutenden moldauischen Herrscher des 15. Jahrhunderts, der für seinen Widerstand gegen das Osmanische Reich bekannt ist. Die Statue ist ein zentrales Symbol der Geschichte und Identität der Stadt.",
+      hu: "Ştefan cel Mare lovasszobra Jászvásár egyik legismertebb emlékműve a Kultúrpalota előtt. 1883-ban avatták fel, alkotója a francia Emmanuel Frémiet szobrász. Az emlékmű a 15. századi jelentős moldvai fejedelemnek állít emléket, aki az Oszmán Birodalom elleni harcairól ismert. A szobor a város történelmének és identitásának központi szimbóluma.",
+      ro: "Statuia ecvestră a lui Ștefan cel Mare din Iași este un monument emblematic situat în fața Palatului Culturii. Dezvelită în 1883, lucrarea aparține sculptorului francez Emmanuel Frémiet. Monumentul îl onorează pe marele domnitor al Moldovei din secolul al XV-lea, renumit pentru rezistența împotriva expansiunii otomane. Este un simbol central al istoriei și identității locale.",
+      en: "The equestrian statue of Stephen the Great in Iași is an iconic monument located in front of the Palace of Culture. Unveiled in 1883, the work was created by French sculptor Emmanuel Frémiet. The monument honors the prominent 15th-century ruler of Moldavia, renowned for his resistance against Ottoman expansion. It is a central symbol of the city's history and identity.",
+    },
+    factsAdvanced: {
+      de: ["Offizielle Einweihung am 5. Juni 1883", "Entworfen vom französischen Bildhauer Emmanuel Frémiet", "Zwei Krupp-Kanonen am Sockel als Kriegstrophäen", "Stefan der Große regierte die Moldau 47 Jahre lang", "Denkmal befindet sich direkt vor dem Kulturpalast", "Wurde im Beisein von König Carol I. enthüllt"],
+      hu: ["Hivatalos felavatás 1883. június 5-én", "Emmanuel Frémiet francia szobrászművész tervezte", "A talpazatnál két hadizsákmányként szerzett Krupp-ágyú áll", "Ştefan cel Mare 47 évig uralkodott Moldvában", "Az emlékmű közvetlenül a Kultúrpalota előtt található", "I. Károly király jelenlétében leplezték le"],
+      ro: ["Inaugurarea oficială la data de 5 iunie 1883", "Realizată de sculptorul francez Emmanuel Frémiet", "Două tunuri Krupp la bază, capturate ca trofee de război", "Ștefan cel Mare a domnit în Moldova timp de 47 de ani", "Monumentul este amplasat în fața Palatului Culturii", "Dezvelită în prezența Regelui Carol I"],
+      en: ["Official unveiling on June 5, 1883", "Designed by the French sculptor Emmanuel Frémiet", "Two Krupp cannons at the base captured as war trophies", "Stephen the Great ruled Moldavia for 47 years", "The monument is located directly in front of the Palace of Culture", "Unveiled in the presence of King Carol I"],
+    },
   },
   {
     id: "landmark-asachi-university", type: "city", parent: "RO-IS", coords: [27.572, 47.174],
@@ -2260,6 +2702,19 @@ export const romaniaCities: POI[] = [
     description: { de: "Technische Universität in Iași mit einer der schönsten Bibliotheken.", hu: "Műszaki egyetem Jászvásáron, az egyik legszebb könyvtárral.", ro: "Universitate tehnică din Iași, cu una dintre cele mai frumoase biblioteci.", en: "Technical university in Iași, featuring one of the most beautiful libraries." },
     facts: { de: ["Prachtvolle Bibliothek.", "Historisches Gebäude.", "Gegründet 1813."], hu: ["Pompás könyvtár.", "Történelmi épület.", "1813-ban alapították."], ro: ["Bibliotecă splendidă.", "Clădire istorică.", "Fondată în 1813."], en: ["Splendid library.", "Historic building.", "Founded in 1813."] },
     image: "/geo-images/romania/landmark-asachi-university.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Technische Universität Gheorghe Asachi in Iași ist eine der ältesten und renommiertesten technischen Hochschulen Rumäniens. Ihre Wurzeln reichen bis zur ersten Ingenieurschule zurück, die 1813 von Gheorghe Asachi gegründet wurde. Die Universitätsbibliothek wird oft als eine der schönsten Bibliotheken der Welt ausgezeichnet. Das Hauptgebäude beeindruckt durch seine eklektische Architektur des späten 19. Jahrhunderts.",
+      hu: "A jászvásári Gheorghe Asachi Műszaki Egyetem Románia egyik legrégebbi és legtekintélyesebb műszaki felsőoktatási intézménye. Gyökerei az első mérnöki iskoláig nyúlnak vissza, amelyet 1813-ban alapított Gheorghe Asachi. Az egyetemi könyvtárat gyakran a világ legszebb könyvtárai közé választják. A főépület a 19. század végi eklektikus építészet lenyűgöző példája.",
+      ro: "Universitatea Tehnică Gheorghe Asachi din Iași este una dintre cele mai vechi și prestigioase instituții de învățământ tehnic din România. Originile sale datează de la prima școală de inginerie în limba română, fondată în 1813 de Gheorghe Asachi. Biblioteca universității este recunoscută internațional pentru frumusețea sa remarcabilă. Clădirea principală este un monument de arhitectură eclectică.",
+      en: "The Gheorghe Asachi Technical University of Iași is one of Romania's oldest and most prestigious technical education institutions. Its roots trace back to the first engineering school founded by Gheorghe Asachi in 1813. The university library is frequently ranked among the most beautiful in the world. The main building is an impressive example of late 19th-century eclectic architecture.",
+    },
+    factsAdvanced: {
+      de: ["Erste Ingenieurschule 1813 durch Gheorghe Asachi gegründet", "Etablierung als Polytechnikum erfolgte im Jahr 1937", "Die Universität umfasst heute 11 verschiedene Fakultäten", "Über eine Million Bände in der Zentralbibliothek", "Rund 15.000 Studenten sind aktuell eingeschrieben", "Dekret von Alexandru Ioan Cuza zur Universitätsgründung 1860"],
+      hu: ["Gheorghe Asachi alapította az első mérnöki iskolát 1813-ban", "Műszaki egyetemmé (Polytechnikum) 1937-ben vált", "Az egyetemnek ma 11 különböző kara van", "Több mint egy millió kötet a központi könyvtárban", "Jelenleg körülbelül 15 000 hallgató tanul itt", "Alexandru Ioan Cuza 1860-as dekrétuma az egyetem alapításáról"],
+      ro: ["Prima școală de inginerie fondată în 1813 de Gheorghe Asachi", "Înființată ca Institut Politehnic în anul 1937", "Universitatea cuprinde în prezent 11 facultăți", "Peste un milion de volume în biblioteca centrală", "Circa 15.000 de studenți sunt înscriși în prezent", "Decretul lui Alexandru Ioan Cuza pentru universitate în 1860"],
+      en: ["First engineering school founded by Gheorghe Asachi in 1813", "Established as a Polytechnic Institute in the year 1937", "The university currently comprises 11 different faculties", "Over one million volumes in the central library collection", "Approximately 15,000 students are currently enrolled", "Decree by Alexandru Ioan Cuza for university founding in 1860"],
+    },
   },
   {
     id: "landmark-bucharest-old-town", type: "city", parent: "RO-B", coords: [26.102, 44.431],
@@ -2267,6 +2722,19 @@ export const romaniaCities: POI[] = [
     description: { de: "Das historische Herz von Bukarest mit vielen Cafés und Denkmälern.", hu: "Bukarest történelmi szíve számos kávézóval és műemlékkel.", ro: "Inima istorică a Bucureștiului, cu multe cafenele și monumente.", en: "The historical heart of Bucharest with many cafes and monuments." },
     facts: { de: ["Lipscani-Viertel.", "Nachtleben.", "Historische Architektur."], hu: ["Lipscani negyed.", "Éjszakai élet.", "Történelmi építészet."], ro: ["Cartierul Lipscani.", "Viață de noapte.", "Arhitectură istorică."], en: ["Lipscani district.", "Nightlife.", "Historic architecture."] },
     image: "/geo-images/romania/landmark-bucharest-old-town.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Bukarester Altstadt, bekannt als Lipscani, ist das historische Zentrum der Stadt und ein lebendiges Kulturviertel. Das Gebiet beherbergt mittelalterliche Ruinen, prunkvolle Gebäude aus dem 19. Jahrhundert und die historische Kirche Stavropoleos. Einst das kommerzielle Herz der Hauptstadt, ist es heute eine beliebte Fußgängerzone. Die engen Gassen sind gesäumt von Cafés, Restaurants und Antiquitätenläden.",
+      hu: "A bukaresti óváros, közismert nevén Lipscani, a város történelmi központja és egyben nyüzsgő kulturális negyed. A terület középkori romoknak, pompás 19. századi épületeknek és a Stavropoleos-templomnak ad otthont. Valaha a főváros kereskedelmi szíve volt, ma népszerű sétálóövezet. A szűk utcákat kávézók, éttermek és régiségboltok szegélyezik.",
+      ro: "Centrul Vechi al Bucureștiului, cunoscut sub numele de Lipscani, reprezintă nucleul istoric și cultural al capitalei. Zona adăpostește ruine medievale, clădiri somptuoase din secolul al XIX-lea și biserica Stavropoleos. Fostul centru comercial al orașului este astăzi un perimetru pietonal animat. Străzile înguste sunt pline de cafenele, restaurante și magazine de antichități.",
+      en: "The Bucharest Old Town, known as Lipscani, is the city's historical heart and a vibrant cultural district. The area houses medieval ruins, grand 19th-century buildings, and the historic Stavropoleos Church. Once the commercial core of the capital, it is now a popular pedestrian zone. Its narrow streets are lined with cafes, restaurants, and antique shops.",
+    },
+    factsAdvanced: {
+      de: ["Erste Erwähnung Bukarests in einem Dokument von 1459", "Hauptstraße Lipscani nach Leipziger Kaufleuten benannt", "Curtea Veche war die erste Fürstenresidenz in Bukarest", "Stavropoleos-Kirche wurde im Jahr 1724 erbaut", "Manuc's Inn (Hanul lui Manuc) stammt aus dem Jahr 1808", "Umfangreiche Modernisierung der Fußgängerzone ab 2011"],
+      hu: ["Bukarest első említése egy 1459-es dokumentumban", "A Lipscani főutca lipcsei kereskedőkről kapta a nevét", "A Curtea Veche volt Bukarest első fejedelmi rezidenciája", "A Stavropoleos-templom 1724-ben épült fel", "A Manuc-fogadó (Hanul lui Manuc) 1808-ból származik", "A sétálóövezet átfogó modernizálása 2011-től kezdődött"],
+      ro: ["Prima atestare a Bucureștiului într-un document din 1459", "Strada Lipscani este numită după negustorii din Leipzig", "Curtea Veche a fost prima reședință domnească din oraș", "Biserica Stavropoleos a fost construită în anul 1724", "Hanul lui Manuc a fost finalizat în anul 1808", "Modernizare majoră a zonei pietonale începând cu 2011"],
+      en: ["First mention of Bucharest in a document from 1459", "Lipscani Street named after merchants from Leipzig", "Curtea Veche was the first princely residence in the city", "Stavropoleos Church was constructed in the year 1724", "Manuc's Inn (Hanul lui Manuc) dates back to 1808", "Extensive modernization of the pedestrian zone since 2011"],
+    },
   },
   {
     id: "city-gura-humorului", type: "city", parent: "RO-SV", coords: [25.889, 47.554],
@@ -2274,6 +2742,19 @@ export const romaniaCities: POI[] = [
     description: { de: "Charmante Stadt in der Bukowina, Tor zu den Klöstern.", hu: "Bájos város Bukovinában, a kolostorok kapuja.", ro: "Oraș fermecător în Bucovina, poartă către mănăstiri.", en: "Charming town in Bukovina, gateway to the monasteries." },
     facts: { de: ["Nahe Kloster Voroneț.", "Touristenort.", "Schöne Berglandschaft."], hu: ["A Voroneț-kolostor közelében.", "Turisztikai központ.", "Szép hegyi táj."], ro: ["Lângă Mănăstirea Voroneț.", "Stațiune turistică.", "Peisaj montan frumos."], en: ["Near Voroneț Monastery.", "Tourist resort.", "Beautiful mountain scenery."] },
     image: "/geo-images/romania/city-gura-humorului.webp",
+  
+    descriptionAdvanced: {
+      de: "Gura Humorului ist eine charmante Stadt in der Bukowina und gilt als Tor zu den berühmten moldauischen Klöstern. Sie liegt am Fuße der Ostkarpaten am Zusammenfluss der Flüsse Moldova und Humor. Die Stadt ist bekannt für ihre Nähe zum UNESCO-geschützten Kloster Voroneț. Als anerkannter Tourismusort bietet sie sowohl kulturelle Erlebnisse als auch Naturaktivitäten wie Skifahren und Wandern.",
+      hu: "Gura Humorului egy bájos város Bukovinában, amelyet a híres moldvai kolostorok kapujának tartanak. A Keleti-Kárpátok lábánál, a Moldova és a Humor folyók összefolyásánál fekszik. A város az UNESCO által védett Voroneț-kolostor közelségéről híres. Elismert turisztikai központként kulturális élményeket és szabadtéri tevékenységeket is kínál.",
+      ro: "Gura Humorului este un oraș pitoresc din Bucovina, considerat poarta de intrare către faimoasele mănăstiri pictate. Situat la poalele Carpaților Orientali, orașul se află la confluența râurilor Moldova și Humor. Este renumit pentru apropierea de Mănăstirea Voroneț, monument UNESCO. Stațiunea oferă facilități pentru sporturi de iarnă și turism cultural.",
+      en: "Gura Humorului is a charming town in Bucovina, considered the gateway to the famous painted Moldavian monasteries. Situated at the foot of the Eastern Carpathians, it lies at the confluence of the Moldova and Humor rivers. The town is famous for its proximity to the UNESCO-listed Voroneț Monastery. As a recognized resort, it offers both cultural experiences and outdoor activities.",
+    },
+    factsAdvanced: {
+      de: ["Bau des nahen Klosters Voroneț im Jahr 1490", "Liegt auf einer durchschnittlichen Höhe von 470 Metern", "Stadtbrand zerstörte im Jahr 1904 weite Teile des Ortes", "Erhalt des Status als Touristenort im Jahr 2005", "Bevölkerungszahl liegt bei etwa 7.500 Einwohnern", "Entfernung zum Kloster Voroneț beträgt nur 5 Kilometer"],
+      hu: ["A közeli Voroneț-kolostor építése 1490-ben", "Átlagosan 470 méteres tengerszint feletti magasságon fekszik", "Az 1904-es városi tűzvész a település nagy részét elpusztította", "A turisztikai üdülőhelyi státuszt 2005-ben kapta meg", "Lakossága körülbelül 7500 főt számlál", "A Voroneț-kolostor mindössze 5 kilométerre található"],
+      ro: ["Construcția mănăstirii Voroneț a avut loc în anul 1490", "Situat la o altitudine medie de 470 de metri", "Incendiul din 1904 a distrus o mare parte din oraș", "Statut oficial de stațiune turistică primit în 2005", "Populația orașului este de aproximativ 7.500 de locuitori", "Distanța până la Mănăstirea Voroneț este de 5 kilometri"],
+      en: ["Construction of the nearby Voroneț Monastery in 1490", "Situated at an average altitude of 470 meters", "A major fire in 1904 destroyed large parts of the town", "Granted official tourist resort status in the year 2005", "The population is approximately 7,500 inhabitants", "Distance to the Voroneț Monastery is only 5 kilometers"],
+    },
   },
   {
     id: "landmark-salina-cacica", type: "city", parent: "RO-SV", coords: [25.898, 47.636],
@@ -2281,6 +2762,19 @@ export const romaniaCities: POI[] = [
     description: { de: "Einzigartiges Salzbergwerk mit einer Kapelle und einem See.", hu: "Egyedülálló sóbánya kápolnával és tóval.", ro: "Salină unică cu o capelă și un lac.", en: "Unique salt mine with a chapel and a lake." },
     facts: { de: ["Unterirdische Kapelle.", "Salzwassersee.", "Handgegraben."], hu: ["Föld alatti kápolna.", "Sós vizű tó.", "Kézzel vájták."], ro: ["Capelă subterană.", "Lac cu apă sărată.", "Săpată manual."], en: ["Underground chapel.", "Saltwater lake.", "Dug by hand."] },
     image: "/geo-images/romania/landmark-salina-cacica.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Salzmine Cacica im Kreis Suceava wurde Ende des 18. Jahrhunderts während der habsburgischen Verwaltung eröffnet. Sie ist berühmt für ihre von Hand in das Salzmassiv gehauenen Gänge und Kapellen. Die Mine beherbergt eine unterirdische katholische Kapelle, einen künstlichen See und einen Sportplatz. Die salzhaltige Luft wird zudem für therapeutische Zwecke bei Atemwegserkrankungen genutzt.",
+      hu: "A Suceava megyei kacikai sóbánya a 18. század végén, a Habsburg adminisztráció idején nyílt meg. Híres a sóba kézzel vájt járatairól és kápolnáiról. A bányában egy föld alatti katolikus kápolna, egy mesterséges tó és egy sportpálya is található. A sós levegőt terápiás célokra is használják légúti betegségek kezelésére.",
+      ro: "Salina Cacica din județul Suceava a fost deschisă la sfârșitul secolului al XVIII-lea, sub administrație habsburgică. Este renumită pentru galeriile și capelele sale săpate manual în masivul de sare. Salina adăpostește o capelă catolică subterană, un lac artificial și un teren de sport. Aerul salin este utilizat în scopuri terapeutice respiratorii.",
+      en: "The Cacica Salt Mine in Suceava County was opened at the end of the 18th century during Habsburg administration. It is famous for its tunnels and chapels carved by hand into the salt rock. The mine houses an underground Catholic chapel, an artificial lake, and a sports field. The saline air is also used for therapeutic purposes to treat respiratory conditions.",
+    },
+    factsAdvanced: {
+      de: ["Beginn des Salzabbaus im Jahr 1791", "Künstlicher Salzsee liegt in 38 Metern Tiefe", "Konstante Jahrestemperatur von etwa 10 Grad Celsius", "Unterirdische Kapelle wurde im Jahr 1904 fertiggestellt", "Über 50 polnische Familien siedelten für die Mine an", "Kapelle der Heiligen Barbara ist Schutzpatronin der Bergleute"],
+      hu: ["A sókitermelés megkezdése 1791-ben", "A mesterséges sós tó 38 méteres mélységben található", "Állandó évi hőmérséklet körülbelül 10 Celsius-fok", "A föld alatti kápolna 1904-ben készült el", "Több mint 50 lengyel család telepedett le a bánya miatt", "Szent Borbála-kápolna a bányászok védőszentjének tiszteletére"],
+      ro: ["Începutul exploatării sării în anul 1791", "Lacul sărat artificial se află la 38 de metri adâncime", "Temperatură constantă de aproximativ 10 grade Celsius", "Capela subterană a fost finalizată în anul 1904", "Peste 50 de familii poloneze s-au stabilit pentru mină", "Capela Sfânta Varvara este hramul minerilor locali"],
+      en: ["Salt extraction began in the year 1791", "The artificial salt lake is located 38 meters underground", "Constant annual temperature of about 10 degrees Celsius", "The underground chapel was completed in the year 1904", "Over 50 Polish families settled here to work the mine", "Saint Barbara's Chapel is dedicated to the patron of miners"],
+    },
   },
   {
     id: "landmark-dino-park-rasnov", type: "city", parent: "RO-BV", coords: [25.460, 45.589],
@@ -2288,6 +2782,19 @@ export const romaniaCities: POI[] = [
     description: { de: "Größter Dinosaurierpark in Südosteuropa.", hu: "Délkelet-Európa legnagyobb dinoszaurusz parkja.", ro: "Cel mai mare parc cu dinozauri din sud-estul Europei.", en: "The largest dinosaur park in Southeastern Europe." },
     facts: { de: ["Über 100 Dinosaurier.", "Waldgelände.", "Interaktive Zonen."], hu: ["Több mint 100 dinoszaurusz.", "Erdei környezet.", "Interaktív zónák."], ro: ["Peste 100 de dinozauri.", "Zonă împădurită.", "Zone interactive."], en: ["Over 100 dinosaurs.", "Wooded area.", "Interactive zones."] },
     image: "/geo-images/romania/landmark-dino-park-rasnov.webp",
+  
+    descriptionAdvanced: {
+      de: "Dino Parc Râșnov ist der größte Dinosaurier-Themenpark in Südosteuropa und ein beliebtes Ziel für Familien. Er erstreckt sich über 3 Hektar in einem Waldgebiet nahe der Festung Râșnov. Der Park zeigt über 100 lebensgroße Dinosaurier-Modelle, die wissenschaftlich rekonstruiert wurden. Neben den Exponaten bietet die Anlage Spielplätze, Kinos und ein interaktives Museum.",
+      hu: "A barcarozsnyói Dino Parc Délkelet-Európa legnagyobb dinoszaurusz-tematikus parkja, amely népszerű családi úticél. Egy 3 hektáros erdős területen fekszik a rozsnyói vár közelében. A park több mint 100 életnagyságú, tudományosan rekonstruált dinoszaurusz-modellt mutat be. A kiállítások mellett játszóterek, mozik és interaktív múzeum várja a látogatókat.",
+      ro: "Dino Parc Râșnov este cel mai mare parc cu tematică de dinozauri din sud-estul Europei. Situat pe o suprafață de 3 hectare într-o zonă împădurită lângă Cetatea Râșnov, parcul expune peste 100 de modele în mărime naturală. Acestea sunt reconstituite conform descoperirilor științifice. Include locuri de joacă, cinematografe și un muzeu interactiv.",
+      en: "Dino Parc Râșnov is the largest dinosaur-themed park in Southeast Europe and a popular family destination. Spanning 3 hectares in a forested area near the Râșnov Fortress, it features over 100 life-sized dinosaur models. These models are scientifically reconstructed based on paleontological findings. The facility also includes playgrounds, cinemas, and an interactive museum.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtfläche des Parks beträgt 3 Hektar", "Über 100 lebensgroße Modelle aus Glasfaser", "Größter fliegender Dinosaurier, Hatzegopteryx, ist 24 Meter breit", "Offizielle Eröffnung fand im Jahr 2015 statt", "Verfügt über ein 9D-Kino für Spezialeffekte", "Ein 22 Meter hoher künstlicher Vulkan simuliert Ausbrüche"],
+      hu: ["A park teljes területe 3 hektár", "Több mint 100 életnagyságú üvegszálas modell", "A legnagyobb repülő dinoszaurusz, a Hatzegopteryx 24 méter széles", "A hivatalos megnyitóra 2015-ben került sor", "9D mozi kínál speciális effektusokkal teli élményt", "Egy 22 méter magas mesterséges vulkán szimulál kitöréseket"],
+      ro: ["Suprafața totală a parcului este de 3 hectare", "Peste 100 de modele în mărime naturală din fibră de sticlă", "Cel mai mare dinozaur zburător, Hatzegopteryx, are 24m lățime", "Inaugurarea oficială a avut loc în anul 2015", "Dispune de un cinematograf 9D pentru efecte speciale", "Un vulcan artificial de 22 metri simulează erupții"],
+      en: ["Total park area spans 3 hectares", "Features over 100 life-sized fiberglass models", "Largest flying dinosaur, Hatzegopteryx, measures 24m wide", "Official opening was held in the year 2015", "Features a 9D cinema for special effects experiences", "A 22-meter high artificial volcano simulates eruptions"],
+    },
   },
 ];
 
@@ -2303,6 +2810,19 @@ export const romaniaNature: POI[] = [
     facts: { de: ["1.075 km in Rumänien.", "Eisernes Tor (Schlucht).", "Mündet ins Schwarze Meer."], hu: ["1075 km Romániában.", "Vaskapu (szurdok).", "A Fekete-tengerbe ömlik."], ro: ["1.075 km pe teritoriul României.", "Porțile de Fier.", "Se varsă în Marea Neagră."], en: ["1,075 km in Romania.", "Iron Gates gorge.", "Empties into the Black Sea."] },
     length: 2860,
     image: "/geo-images/romania/river-dunarea.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Donau ist mit 2850 Kilometern der zweitlängste Fluss Europas und verbindet zehn Länder von Deutschland bis zum Schwarzen Meer. Sie fließt durch vier Hauptstädte und bildet an ihrer Mündung das UNESCO-geschützte Donaudelta. Als wichtige Wasserstraße prägt sie seit Jahrtausenden die Wirtschaft und Kultur Mitteleuropas.",
+      hu: "A Duna Európa második leghosszabb folyója, amely 2850 kilométeren keresztül tíz országot érint Németországtól a Fekete-tengerig. Négy fővároson halad át, torkolatánál pedig a világörökség részét képező Duna-delta található. Évezredek óta meghatározó vízi út, amely fontos szerepet tölt be a kontinens kereskedelmében.",
+      ro: "Dunărea este al doilea cel mai lung fluviu din Europa, parcurgând 2850 de kilometri și traversând zece țări de la Pădurea Neagră până la Marea Neagră. Trece prin patru capitale și formează la vărsare Delta Dunării, rezervație a biosferei UNESCO. Este o arteră vitală pentru transportul și biodiversitatea continentului european.",
+      en: "The Danube is the second-longest river in Europe, stretching 2,850 kilometers and connecting ten countries from Germany to the Black Sea. It flows through four capital cities and forms the UNESCO-protected Danube Delta at its mouth. For millennia, it has served as a crucial waterway for European trade and culture.",
+    },
+    factsAdvanced: {
+      de: ["Länge von ca. 2850 km", "Einzugsgebiet umfasst 801.463 km²", "Fließt durch 4 Hauptstädte: Wien, Bratislava, Budapest, Belgrad", "Mündet im Donaudelta in das Schwarze Meer", "Grenzt an 10 europäische Nationalstaaten", "Zweitgrößtes Flussdelta Europas nach der Wolga"],
+      hu: ["Hossza körülbelül 2850 kilométer", "Vízgyűjtő területe 801 463 négyzetkilométer", "4 fővárost érint: Bécs, Pozsony, Budapest, Belgrád", "A Duna-deltán keresztül ömlik a Fekete-tengerbe", "10 ország területén folyik keresztül", "A világ legnemzetközibb folyójaként ismert"],
+      ro: ["Lungime totală de aproximativ 2850 km", "Bazin hidrografic de 801.463 km²", "Traversează 4 capitale: Viena, Bratislava, Budapesta, Belgrad", "Se varsă în Marea Neagră prin trei brațe principale", "Formează granițe naturale între numeroase state", "Delta Dunării a fost inclusă în UNESCO în 1991"],
+      en: ["Total length of approximately 2,850 km", "Drainage basin covers 801,463 square km", "Passes through 4 capitals: Vienna, Bratislava, Budapest, Belgrade", "Empties into the Black Sea via the Danube Delta", "Flows through or borders 10 different countries", "World's most international river basin"],
+    },
   },
   {
     id: "river-siret", type: "river", parent: "RO", coords: [27.95, 45.75],
@@ -2389,6 +2909,19 @@ export const romaniaNature: POI[] = [
     facts: { de: ["~376 km (Rumänien).", "Verbindet Cluj-Napoca, Dej, Satu Mare.", "Entsteht aus dem Kleinen und Großen Someș."], hu: ["Kb. 376 km (Romániában).", "Összeköti Kolozsvárt, Dést, Szatmárt.", "A Nagy- és Kis-Szamos találkozása."], ro: ["~376 km (RO).", "Leagă Cluj-Napoca, Dej, Satu Mare.", "Unirea Someșului Mare și Mic."], en: ["~376 km (Romania).", "Connects Cluj-Napoca, Dej, Satu Mare.", "Formed by Someșul Mare & Mic."] },
     length: 376,
     image: "/geo-images/romania/river-somes.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Somes entsteht durch den Zusammenfluss des Großen und Kleinen Somes bei Dej und durchquert den Nordwesten Rumäniens. Er fließt weiter nach Ungarn, wo er in die Theiß mündet. Der Fluss ist prägend für die Landschaften Siebenbürgens und die Stadtentwicklung von Cluj-Napoca.",
+      hu: "A Szamos a Nagy- és Kis-Szamos összefolyásából keletkezik Désnél, és Románia északnyugati részén halad keresztül. Magyarország területén ömlik a Tiszába. A folyó meghatározó Erdély tájképére és Kolozsvár városának fejlődésére is.",
+      ro: "Someșul se formează prin unirea Someșului Mare cu Someșul Mic la Dej și traversează nord-vestul României. Acesta continuă în Ungaria, unde se varsă în Tisa. Râul este esențial pentru peisajul Transilvaniei și dezvoltarea urbană a orașului Cluj-Napoca.",
+      en: "The Somes is formed by the confluence of the Great Somes and the Little Somes at Dej and crosses northwestern Romania. It continues into Hungary, where it joins the Tisza River. The river is defining for the landscapes of Transylvania and the urban development of Cluj-Napoca.",
+    },
+    factsAdvanced: {
+      de: ["Länge von ca. 465 Kilometern", "Einzugsgebiet von 15.740 km²", "Zusammenfluss bei der Stadt Dej", "Mündet in Ungarn in die Theiß", "Fließt durch Cluj-Napoca und Satu Mare", "Wichtige Wasserquelle für die Region Siebenbürgen"],
+      hu: ["Hossza körülbelül 465 kilométer", "Vízgyűjtő területe 15 740 négyzetkilométer", "Dés városánál jön létre a két ág egyesülésével", "Magyarországon, Vásárosnaménynál torkollik a Tiszába", "Keresztülhalad Kolozsváron és Szatmárnémetin", "Erdély északnyugati részének legfontosabb folyója"],
+      ro: ["Lungime de aproximativ 465 kilometri", "Bazin hidrografic de 15.740 km²", "Format prin confluența de la Dej", "Se varsă în râul Tisa pe teritoriul Ungariei", "Traversează orașele Cluj-Napoca și Satu Mare", "Someșul Mic trece prin inima Transilvaniei"],
+      en: ["Total length of approximately 465 km", "Drainage basin of 15,740 square km", "Formed at the confluence near the city of Dej", "Joins the Tisza river in Hungary", "Flows through Cluj-Napoca and Satu Mare", "Vital water source for the Transylvania region"],
+    },
   },
   {
     id: "river-jiu", type: "river", parent: "RO", coords: [23.8, 44.33],
@@ -2397,6 +2930,19 @@ export const romaniaNature: POI[] = [
     facts: { de: ["Länge 339 km.", "Fließt durch Craiova.", "Jiu-Schlucht-Nationalpark."], hu: ["Hossza 339 km.", "Átfolyik Craiován.", "Zsil-szurdok Nemzeti Park."], ro: ["Lungime 339 km.", "Traversează Craiova.", "Parcul Național Defileul Jiului."], en: ["339 km long.", "Flows through Craiova.", "Jiu Gorge National Park."] },
     length: 339,
     image: "/geo-images/romania/river-jiu.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Jiu ist ein bedeutender Fluss im Südwesten Rumäniens, der durch die spektakuläre Jiu-Schlucht fließt. Er entsteht aus der Vereinigung des West- und Ost-Jiu bei Petrosani und mündet schließlich in die Donau. Der Flusslauf ist bekannt für seine wilden Abschnitte und die umliegenden Bergbauregionen.",
+      hu: "A Zsil folyó Délnyugat-Románia jelentős vízfolyása, amely a látványos Zsil-völgyön halad keresztül. A Nyugati- és Keleti-Zsil egyesüléséből jön létre Petrozsény közelében, majd a Dunába torkollik. A folyó völgye híres vadregényes szakaszairól és a környező bányavidékről.",
+      ro: "Jiul este un râu important din sud-vestul României, renumit pentru spectaculosul defileu al Jiului. Se formează prin unirea Jiului de Vest cu Jiul de Est lângă Petroșani și se varsă în Dunăre. Cursul său este cunoscut pentru sectoarele sălbatice și regiunile miniere adiacente.",
+      en: "The Jiu is a major river in southwestern Romania, famous for the spectacular Jiu Gorge. It is formed by the union of the West Jiu and East Jiu near Petrosani and eventually flows into the Danube. The river's course is known for its wild stretches and the surrounding coal mining regions.",
+    },
+    factsAdvanced: {
+      de: ["Länge von 339 Kilometern", "Einzugsgebiet von 10.070 km²", "Durchfließt den Nationalpark Jiu-Schlucht", "Entsteht durch den Zusammenfluss bei Petrosani", "Mündet gegenüber der Stadt Bechet in die Donau", "Wichtige Verkehrsader durch die Südkarpaten"],
+      hu: ["Hossza 339 kilométer", "Vízgyűjtő területe 10 070 négyzetkilométer", "Áthalad a Zsil-völgyi Nemzeti Parkon", "Petrozsény közelében alakul ki két ágból", "Bechet városával szemben torkollik a Dunába", "Fontos közlekedési folyosó a Déli-Kárpátokon át"],
+      ro: ["Lungime totală de 339 kilometri", "Bazin hidrografic de 10.070 km²", "Traversează Parcul Național Defileul Jiului", "Format la confluența de lângă Petroșani", "Se varsă în Dunăre în județul Dolj", "Defileul său are o lungime de 33 km"],
+      en: ["Total length of 339 kilometers", "Basin area of 10,070 square km", "Flows through the Jiu Gorge National Park", "Formed at the confluence near Petrosani", "Empties into the Danube in Dolj county", "The gorge stretch is approximately 33 km long"],
+    },
   },
   {
     id: "river-tarnava", type: "river", parent: "RO", coords: [24.27, 46.15],
@@ -2405,6 +2951,19 @@ export const romaniaNature: POI[] = [
     facts: { de: ["Weinbau an den Ufern.", "Blaj am Zusammenfluss.", "Mündet in den Mureș."], hu: ["Szőlőtermelés a partokon.", "Balázsfalva az egyesülésnél.", "A Marosba ömlik."], ro: ["Podgorii pe maluri.", "Blaj la confluență.", "Se varsă în Mureș."], en: ["Wine country on its banks.", "Blaj at the confluence.", "Joins the Mureș."] },
     length: 249,
     image: "/geo-images/romania/river-tarnava.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Târnava ist ein prägender Fluss in Siebenbürgen, der durch die Vereinigung der Großen und Kleinen Târnava bei Blaj entsteht. Sie fließt westwärts und mündet schließlich in den Mures. Die Region entlang des Flusses ist historisch für ihren Weinbau und die kulturelle Vielfalt bekannt.",
+      hu: "A Küküllő Erdély egyik meghatározó folyója, amely a Nagy- és Kis-Küküllő egyesüléséből jön létre Balázsfalvánál. Nyugati irányba folyik, majd a Marosba torkollik. A folyó menti vidék történelmileg híres bortermeléséről és kulturális sokszínűségéről.",
+      ro: "Târnava este un râu reprezentativ pentru Transilvania, format prin unirea Târnavei Mari cu Târnava Mică la Blaj. Curge spre vest și se varsă în final în râul Mureș. Regiunea de-a lungul râului este recunoscută istoric pentru viticultură și diversitate culturală.",
+      en: "The Tarnava is a defining river in Transylvania, formed by the union of the Great Tarnava and the Little Tarnava at Blaj. It flows westward and eventually joins the Mures River. The region along the river is historically famous for its viticulture and cultural diversity.",
+    },
+    factsAdvanced: {
+      de: ["Entsteht durch Zusammenfluss bei Blaj", "Mündet bei Teius in den Mures", "Gesamtlänge inkl. Târnava Mare ca. 249 km", "Region ist berühmt für Weißweine", "Fließt durch das Transsilvanische Hochland", "Kulturelles Zentrum der Siebenbürger Sachsen"],
+      hu: ["Balázsfalvánál jön létre a két ág egyesülésével", "Tövis közelében torkollik a Marosba", "Teljes hossza a Nagy-Küküllővel együtt 249 km", "A vidék híres a fehérborairól", "Az Erdélyi-medence középső részén halad át", "Fontos szerepet játszott az erdélyi szászok életében"],
+      ro: ["Formată prin confluența de la Blaj", "Se varsă în Mureș lângă localitatea Teiuș", "Lungime totală cu Târnava Mare de 249 km", "Regiunea este celebră pentru vinurile albe", "Traversează Podișul Transilvaniei", "Valea Târnavelor este o zonă etnoculturală bogată"],
+      en: ["Formed at the confluence in Blaj", "Joins the Mures river near Teius", "Total length including Great Tarnava is 249 km", "The region is famous for its white wines", "Flows through the Transylvanian Plateau", "The valley is a rich ethno-cultural area"],
+    },
   },
   {
     id: "river-crisul", type: "river", parent: "RO", coords: [21.9, 46.9],
@@ -2413,6 +2972,19 @@ export const romaniaNature: POI[] = [
     facts: { de: ["Alle fließen nach Ungarn.", "Crișul Repede bei Oradea.", "Zuflüsse der Theiss."], hu: ["Mind Magyarországra folyik.", "A Sebes-Körös Nagyváradnál.", "A Tisza mellékfolyói."], ro: ["Curg toate spre Ungaria.", "Crișul Repede la Oradea.", "Afluenți ai Tisei."], en: ["All flow into Hungary.", "Crișul Repede at Oradea.", "Tributaries of the Tisza."] },
     length: 240,
     image: "/geo-images/romania/river-crisul.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Criș (Kreisch) ist ein Flusssystem im Westen Rumäniens, das aus drei Hauptarmen besteht: Weißer, Schwarzer und Schneller Criș. Diese vereinigen sich auf ungarischem Gebiet zum Fluss Körös, der schließlich in die Theiß mündet. Der Fluss ist namensgebend für die historische Region Kreischgebiet.",
+      hu: "A Körös egy folyórendszer Románia nyugati részén, amely három fő ágból áll: Fehér-, Fekete- és Sebes-Körös. Ezek Magyarország területén egyesülnek, majd a Tiszába torkollanak. A folyó névadója a történelmi Körösvidéknek.",
+      ro: "Crișul este un sistem hidrografic din vestul României, format din trei brațe principale: Crișul Alb, Crișul Negru și Crișul Repede. Acestea se unesc pe teritoriul Ungariei pentru a forma râul Körös, care se varsă în Tisa. Râul dă numele regiunii istorice Crișana.",
+      en: "The Cris is a river system in western Romania consisting of three main branches: White, Black, and Rapid Cris. These unite on Hungarian territory to form the Koros River, which eventually flows into the Tisza. The river gives its name to the historical region of Crisana.",
+    },
+    factsAdvanced: {
+      de: ["Besteht aus 3 Quellflüssen: Alb, Negru, Repede", "Vereinigung zur Körös findet in Ungarn statt", "Der Schnelle Criș fließt durch Oradea", "Namensgeber für die Region Crișana", "Mündet bei Csongrád in die Theiß", "Wichtiger Lebensraum für seltene Fischarten"],
+      hu: ["3 ágból áll: Fehér-, Fekete- és Sebes-Körös", "Az ágak Magyarországon egyesülnek", "A Sebes-Körös áthalad Nagyváradon", "A folyó a Körösvidék névadója", "Csongrádnál torkollik a Tiszába", "Fontos élőhelye ritka halfajoknak"],
+      ro: ["Format din Crișul Alb, Negru și Repede", "Confluența finală are loc în Ungaria", "Crișul Repede traversează municipiul Oradea", "Dă denumirea regiunii istorice Crișana", "Sistemul se varsă în Tisa la Csongrád", "Bazinul colectează apele din Munții Apuseni"],
+      en: ["Consists of White, Black, and Rapid Cris", "The final confluence occurs in Hungary", "The Rapid Cris flows through the city of Oradea", "Eponymous for the historical region of Crisana", "The system joins the Tisza at Csongrád", "The basin collects waters from the Apuseni Mountains"],
+    },
   },
 
   // ---------- Hegyek ----------
@@ -2423,6 +2995,19 @@ export const romaniaNature: POI[] = [
     facts: { de: ["Rund 66.000 km² in Rumänien.", "Drei Abschnitte: Orientali, Meridionali, Occidentali.", "Beherbergt Bären und Luchse."], hu: ["Romániában kb. 66 000 km².", "Három ága: Keleti, Déli, Nyugati.", "Medvék és hiúzok élnek itt."], ro: ["Circa 66.000 km² în România.", "Trei ramuri: Orientali, Meridionali, Occidentali.", "Adăpostesc urși și râși."], en: ["About 66,000 km² in Romania.", "Three branches: Eastern, Southern, Western.", "Home to bears and lynx."] },
     elevation: 2544,
     image: "/geo-images/romania/mountain-carpati.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Karpaten bilden einen gewaltigen Gebirgsbogen von etwa 1500 Kilometern Länge durch Mittel- und Osteuropa. Sie beherbergen die größten verbliebenen Urwälder und Raubtierpopulationen des Kontinents, darunter Braunbären und Wölfe. In Rumänien umschließt das Gebirge das Siebenbürgische Becken.",
+      hu: "A Kárpátok egy hatalmas, mintegy 1500 kilométer hosszú hegységív Közép- és Kelet-Európában. Itt találhatóak a kontinens legnagyobb fennmaradt őserdői és jelentős ragadozópopulációi, például barna medvék és farkasok. Romániában a hegység körbeöleli az Erdélyi-medencét.",
+      ro: "Carpații formează un arc muntos impunător de aproximativ 1500 de kilometri lungime în Europa Centrală și de Est. Aceștia adăpostesc cele mai mari păduri virgine rămase și populații de mari prădători, precum urșii și lupii. În România, munții înconjoară Depresiunea Transilvaniei.",
+      en: "The Carpathians form a massive mountain arc approximately 1,500 kilometers long through Central and Eastern Europe. They host the continent's largest remaining virgin forests and significant predator populations, including brown bears and wolves. In Romania, the range encircles the Transylvanian Basin.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtlänge von etwa 1500 km", "Höchster Gipfel: Gerlachovský štít (2655 m)", "Erstrecken sich über 8 europäische Länder", "Beherbergen ca. 8000 Braunbären in Rumänien", "Unterteilt in West-, Ost- und Südkarpaten", "Entstanden während der alpidischen Gebirgsbildung"],
+      hu: ["Teljes hossza körülbelül 1500 km", "Legmagasabb csúcsa a Gerlachfalvi-csúcs (2655 m)", "8 európai ország területén húzódnak keresztül", "Romániában mintegy 8000 barna medve él itt", "Nyugati-, Keleti- és Déli-Kárpátokra tagolódik", "Az alpi hegységképződés során jöttek létre"],
+      ro: ["Lungime totală de circa 1500 km", "Cel mai înalt vârf: Gerlachovský (2655 m)", "Se întind pe teritoriul a 8 state europene", "Adăpostesc cea mai mare populație de urși din UE", "Subdivizați în Carpații Orientali, Meridionali și Occidentali", "Formați în timpul orogenezei alpine"],
+      en: ["Total length of about 1,500 km", "Highest peak is Gerlachovsky Stit (2,655 m)", "Spread across 8 European countries", "Home to approximately 8,000 brown bears in Romania", "Divided into Western, Eastern, and Southern ranges", "Formed during the Alpine orogeny"],
+    },
   },
   {
     id: "mountain-fagaras", type: "mountain", parent: "RO", coords: [24.6, 45.6],
@@ -2431,6 +3016,19 @@ export const romaniaNature: POI[] = [
     facts: { de: ["Bâlea-See und Transfăgărășan.", "Zahlreiche Gipfel über 2.500 m.", "Wild und gletscherartig geformt."], hu: ["Bâlea-tó és a Transzfogarasi út.", "Több 2500 m feletti csúcs.", "Vad, gleccser-formálta domborzat."], ro: ["Lacul Bâlea și Transfăgărășanul.", "Numeroase vârfuri peste 2.500 m.", "Relief glaciar sălbatic."], en: ["Lake Bâlea and Transfăgărășan road.", "Many peaks over 2,500 m.", "Wild glacial landscape."] },
     elevation: 2544,
     image: "/geo-images/romania/mountain-fagaras.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Fagaras-Gebirge ist das höchste und massivste Massiv der Südkarpaten in Rumänien, oft als Transsilvanische Alpen bezeichnet. Es beherbergt die höchsten Gipfel des Landes und zahlreiche Gletscherseen. Die berühmte Transfăgărășan-Hochstraße überquert das Gebirge und bietet spektakuläre Ausblicke.",
+      hu: "A Fogarasi-havasok a Déli-Kárpátok legmagasabb és legtekintélyesebb masszívuma Romániában, amelyet gyakran erdélyi Alpoknak is neveznek. Itt találhatóak az ország legmagasabb csúcsai és számos gleccsertó. A híres Transzfogarasi út ezen a hegységen halad keresztül.",
+      ro: "Munții Făgăraș reprezintă cel mai înalt și masiv complex montan din Carpații Meridionali, fiind supranumiți Alpii Transilvaniei. Adăpostesc cele mai înalte vârfuri din țară și numeroase lacuri glaciare. Celebra șosea Transfăgărășan traversează masivul oferind peisaje spectaculoase.",
+      en: "The Fagaras Mountains are the highest and most massive range in the Southern Carpathians of Romania, often called the Transylvanian Alps. They host the country's highest peaks and numerous glacial lakes. The famous Transfagarasan highway crosses the range, offering spectacular views.",
+    },
+    factsAdvanced: {
+      de: ["Beherbergt den Moldoveanu (2544 m)", "Fläche von etwa 2400 km²", "Enthält über 70 Gletscherseen (z.B. Balea-See)", "Transfăgărășan erreicht 2042 m Höhe", "Oft bis in den Frühsommer schneebedeckt", "Beliebtes Ziel für anspruchsvolle Kammwanderungen"],
+      hu: ["Itt található a Moldoveanu-csúcs (2544 m)", "Területe körülbelül 2400 km²", "Több mint 70 gleccsertó található itt (pl. Bilea-tó)", "A Transzfogarasi út 2042 m magasságig ér fel", "Gyakran kora nyárig hó borítja a csúcsokat", "Népszerű helyszín a gerinctúrázók körében"],
+      ro: ["Include vârful Moldoveanu (2544 m)", "Suprafață de aproximativ 2400 km²", "Peste 70 de lacuri glaciare (ex: Bâlea, Capra)", "Șoseaua Transfăgărășan ajunge la 2042 m altitudine", "Zăpada persistă adesea până în luna iulie", "Cel mai lung traseu de creastă din România"],
+      en: ["Home to Moldoveanu Peak (2,544 m)", "Covers an area of about 2,400 square km", "Contains over 70 glacial lakes (e.g., Balea Lake)", "Transfagarasan road reaches 2,042 m altitude", "Snow often persists until early summer", "Most popular for long-distance ridge hiking"],
+    },
   },
   {
     id: "mountain-moldoveanu", type: "mountain", parent: "RO", coords: [24.735, 45.6],
@@ -2439,6 +3037,19 @@ export const romaniaNature: POI[] = [
     facts: { de: ["2.544 m hoch.", "Kreis Argeș.", "Gletschermorphologie."], hu: ["2544 m magas.", "Argeș megyében.", "Jégkori formák."], ro: ["2.544 m altitudine.", "În județul Argeș.", "Relief glaciar."], en: ["Altitude 2,544 m.", "In Argeș County.", "Glacial morphology."] },
     elevation: 2544,
     image: "/geo-images/romania/mountain-moldoveanu.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Moldoveanu ist mit 2544 Metern der höchste Gipfel Rumäniens und liegt im Herzen des Fagaras-Gebirges. Er ist ein symbolträchtiger Ort für Bergsteiger und bietet bei klarem Wetter eine Fernsicht über weite Teile Siebenbürgens und der Walachei. Der Aufstieg gilt als anspruchsvoll, aber lohnend.",
+      hu: "A Moldoveanu-csúcs 2544 méteres magasságával Románia legmagasabb pontja, amely a Fogarasi-havasok szívében található. A hegymászók számára szimbolikus jelentőségű hely, amely tiszta időben messze ellátszik Erdély és Havasalföld irányába. Megmászása komoly állóképességet igényel.",
+      ro: "Vârful Moldoveanu este cel mai înalt punct din România, având o altitudine de 2544 de metri, situat în inima Munților Făgăraș. Este un loc simbolic pentru alpiniști, oferind în zilele senine o panoramă vastă asupra Transilvaniei și Munteniei. Ascensiunea este considerată dificilă.",
+      en: "At 2,544 meters, Moldoveanu Peak is the highest point in Romania, located in the heart of the Fagaras Mountains. It is a symbolic destination for hikers, offering vast panoramas of Transylvania and Wallachia on clear days. The ascent is considered challenging but rewarding.",
+    },
+    factsAdvanced: {
+      de: ["Höhe von exakt 2544 Metern", "Höchster Punkt des Fagaras-Massivs", "Gipfel ist oft in Wolken gehüllt", "Klassischer Aufstieg führt über den Vistea Mare", "Markiert durch die rumänische Flagge am Gipfel", "Teil des Natura 2000 Schutzgebiets"],
+      hu: ["Magassága pontosan 2544 méter", "A Fogarasi-havasok legmagasabb pontja", "A csúcsot gyakran borítják felhők", "A legnépszerűbb útvonal a Verestorony felől vezet", "A csúcson egy román zászló jelzi a pontot", "A Natura 2000 természetvédelmi hálózat része"],
+      ro: ["Altitudine oficială de 2544 metri", "Cel mai înalt vârf din întreg lanțul carpatic românesc", "Vârful este adesea acoperit de nori", "Accesul se face de obicei prin vârful Viștea Mare", "Este marcat cu un drapel al României", "Face parte din situl protejat Munții Făgăraș"],
+      en: ["Official altitude of 2,544 meters", "Highest peak in the entire Romanian Carpathian chain", "The summit is frequently shrouded in clouds", "Access is usually via the Vistea Mare peak", "Marked by a Romanian flag at the top", "Part of the protected Fagaras Mountains site"],
+    },
   },
   {
     id: "mountain-negoiu", type: "mountain", parent: "RO", coords: [24.55, 45.55],
@@ -2447,6 +3058,19 @@ export const romaniaNature: POI[] = [
     facts: { de: ["Fogarascher Gebirge.", "Kreis Sibiu.", "Anspruchsvolle Touren."], hu: ["Fogarasi-havasok.", "Szeben megye.", "Kihívást jelentő túrák."], ro: ["Munții Făgăraș.", "Județul Sibiu.", "Trasee dificile."], en: ["Făgăraș range.", "Sibiu County.", "Challenging routes."] },
     elevation: 2535,
     image: "/geo-images/romania/mountain-negoiu.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Negoiu ist mit 2535 Metern der zweithöchste Gipfel Rumäniens und bekannt für seine schroffen Felsformationen im Fagaras-Gebirge. Er gilt unter Bergsteigern als technisch schwieriger zu besteigen als der Moldoveanu. Besonders berüchtigt ist die Passage 'Strunga Dracului', eine steile Felsrinne.",
+      hu: "A Negoj-csúcs 2535 méteres magasságával Románia második legmagasabb hegycsúcsa a Fogarasi-havasokban. A hegymászók körében technikailag nehezebbnek tartják, mint a Moldoveanut. Különösen hírhedt a 'Strunga Dracului' (Ördög-árok) nevű meredek szakasz.",
+      ro: "Vârful Negoiu este al doilea ca înălțime din România, având 2535 de metri, și este situat în Munții Făgăraș. Este considerat de alpiniști mai dificil din punct de vedere tehnic decât Moldoveanu. Pasajul 'Strunga Dracului' este una dintre cele mai cunoscute porțiuni tehnice.",
+      en: "At 2,535 meters, Negoiu Peak is the second-highest point in Romania, known for its rugged rock formations in the Fagaras Mountains. Mountaineers often consider it more technically difficult than Moldoveanu. The 'Strunga Dracului' (Devil's Chute) passage is its most famous technical section.",
+    },
+    factsAdvanced: {
+      de: ["Höhe von 2535 Metern", "Zweithöchster Berg Rumäniens", "Besteht überwiegend aus kristallinem Schiefer", "Berühmte Passage: Strunga Dracului", "Nähe zum Bergsee Lacul Călțun", "Gilt als der schwierigste 2500er des Landes"],
+      hu: ["Magassága 2535 méter", "Románia második legmagasabb csúcsa", "Főként kristályos palából épül fel", "Híres szakasza az Ördög-árok", "A Caltun-tó közelében található", "Az ország egyik legnehezebb túraútvonala"],
+      ro: ["Altitudine de 2535 metri", "Al doilea cel mai înalt vârf din România", "Constituit în principal din șisturi cristaline", "Pasajul Strunga Dracului este în prezent închis", "Situat în apropierea lacului glaciare Călțun", "Considerat cel mai spectaculos vârf din Făgăraș"],
+      en: ["Altitude of 2,535 meters", "Second highest peak in Romania", "Composed mainly of crystalline schists", "Famous for the Strunga Dracului passage", "Located near the Caltun glacial lake", "Often considered the most spectacular Fagaras peak"],
+    },
   },
   {
     id: "mountain-bucegi", type: "mountain", parent: "RO", coords: [25.45, 45.45],
@@ -2455,6 +3079,19 @@ export const romaniaNature: POI[] = [
     facts: { de: ["Omu-Gipfel 2.505 m.", "Nationalpark seit 1935.", "Ausgangspunkt Sinaia/Bușteni."], hu: ["Omu-csúcs 2505 m.", "Nemzeti park 1935 óta.", "Kiindulópont: Sinaia / Bușteni."], ro: ["Vf. Omu 2.505 m.", "Parc național din 1935.", "Acces din Sinaia/Bușteni."], en: ["Omu peak 2,505 m.", "National park since 1935.", "Access from Sinaia/Bușteni."] },
     elevation: 2505,
     image: "/geo-images/romania/mountain-bucegi.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Bucegi-Gebirge in den Südkarpaten ist bekannt für seine bizarren Felsformationen wie die 'Babele' und die 'Sphinx'. Es ist eines der am besten erschlossenen Gebirge Rumäniens mit zahlreichen Seilbahnen und Wanderwegen. Das markante Heldenkreuz auf dem Caraiman-Gipfel ist weithin sichtbar.",
+      hu: "A Bucsecs-hegység a Déli-Kárpátokban található, és különös sziklaformációiról, például a 'Babele' (Vénasszonyok) és a 'Szfinx' sziklákról nevezetes. Románia egyik legjobban kiépített hegysége, számos felvonóval és túraúttal. A Caraiman-csúcson álló monumentális kereszt messziről látható.",
+      ro: "Munții Bucegi sunt renumiți pentru formațiunile stâncoase neobișnuite, precum Babele și Sfinxul, sculptate de eroziune. Este unul dintre cele mai accesibile masive din România, dotat cu telecabine și numeroase trasee. Crucea Eroilor de pe Vârful Caraiman este un simbol național.",
+      en: "The Bucegi Mountains in the Southern Carpathians are famous for unique rock formations like 'Babele' and the 'Sphinx.' It is one of Romania's most accessible ranges, featuring numerous cable cars and trails. The prominent Heroes' Cross on the Caraiman Peak is a major landmark visible from afar.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt: Omu-Gipfel (2505 m)", "Berühmte Felsformation: Die Sphinx", "Heldenkreuz auf dem Caraiman ist 28 m hoch", "Nationalpark Bucegi seit 2003", "Enthält das Kloster Ialomița in einer Höhle", "Wichtiges Skigebiet bei Sinaia"],
+      hu: ["Legmagasabb pontja az Omu-csúcs (2505 m)", "Híres sziklaalakzata a Szfinx", "A Caraiman-kereszt 28 méter magas", "2003 óta nemzeti parkként védett", "Itt található a Jalomica-barlangkolostor", "Sinaia közelében fontos síközpont működik"],
+      ro: ["Cel mai înalt punct: Vârful Omu (2505 m)", "Include monumentele naturale Babele și Sfinxul", "Crucea Caraiman a fost ridicată între 1926-1928", "Parc Național cu o suprafață de 32.000 ha", "Adăpostește Peștera Ialomiței și mănăstirea omonimă", "Principalul nod turistic montan din Valea Prahovei"],
+      en: ["Highest point is Omu Peak (2,505 m)", "Features the Sphinx natural monument", "The Caraiman Cross is 28 meters tall", "Established as a National Park in 2003", "Contains the Ialomita Cave and monastery", "Key tourist hub in the Prahova Valley"],
+    },
   },
   {
     id: "mountain-retezat", type: "mountain", parent: "RO", coords: [22.87, 45.35],
@@ -2463,6 +3100,19 @@ export const romaniaNature: POI[] = [
     facts: { de: ["Peleaga-Gipfel 2.509 m.", "Über 80 Gletscherseen.", "Größter See: Bucura."], hu: ["Peleaga-csúcs 2509 m.", "Több mint 80 gleccsertó.", "Legnagyobb tó: Bucura."], ro: ["Vf. Peleaga 2.509 m.", "Peste 80 de lacuri glaciare.", "Cel mai mare: Bucura."], en: ["Peleaga peak 2,509 m.", "Over 80 glacial lakes.", "Largest: Bucura."] },
     elevation: 2509,
     image: "/geo-images/romania/mountain-retezat.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Retezat-Gebirge beherbergt den ältesten Nationalpark Rumäniens und ist berühmt für seine über 80 Gletscherseen, darunter der Bucura-See, der größte seiner Art im Land. Die Landschaft ist geprägt von Granitgipfeln und einer außergewöhnlichen Artenvielfalt. Es gilt als eines der ursprünglichsten Gebirge Europas.",
+      hu: "A Retyezát-hegység Románia legrégebbi nemzeti parkjának ad otthont, és híres több mint 80 gleccsertaváról, köztük a Bukura-tóról. A tájat gránitcsúcsok és rendkívüli biológiai sokféleség jellemzi. Európa egyik legérintetlenebb magashegységeként tartják számon.",
+      ro: "Munții Retezat adăpostesc primul parc național din România (fondat în 1935) și sunt celebri pentru cele peste 80 de lacuri glaciare. Lacul Bucura este cel mai întins lac glaciar din țară. Peisajul este dominat de creste granitice și o biodiversitate remarcabilă.",
+      en: "The Retezat Mountains host Romania's oldest national park and are famous for over 80 glacial lakes, including Bucura Lake, the largest of its kind in the country. The landscape is dominated by granite peaks and extraordinary biodiversity. It is considered one of Europe's most pristine ranges.",
+    },
+    factsAdvanced: {
+      de: ["Nationalpark gegründet im Jahr 1935", "Höchster Gipfel: Peleaga (2509 m)", "Beherbergt über 80 Gletscherseen", "Bucura-See ist der größte Gletschersee Rumäniens", "Zenoaga-See ist der tiefste Gletschersee (29 m)", "UNESCO-Biosphärenreservat seit 1979"],
+      hu: ["A nemzeti parkot 1935-ben alapították", "Legmagasabb csúcsa a Peleaga (2509 m)", "Több mint 80 gleccsertó található itt", "A Bukura-tó Románia legnagyobb gleccsertava", "A Zanoaga-tó a legmélyebb (29 méter)", "1979 óta UNESCO bioszféra-rezervátum"],
+      ro: ["Parc Național înființat în 1935", "Cel mai înalt vârf: Peleaga (2509 m)", "Numără peste 80 de lacuri glaciare", "Bucura este cel mai mare lac glaciar (8,9 ha)", "Zănoaga este cel mai adânc lac glaciar (29 m)", "Rezervație a Biosferei UNESCO din 1979"],
+      en: ["National Park established in 1935", "Highest peak is Peleaga (2,509 m)", "Home to over 80 glacial lakes", "Bucura is the largest glacial lake (8.9 ha)", "Zanoaga is the deepest glacial lake (29 m)", "UNESCO Biosphere Reserve since 1979"],
+    },
   },
   {
     id: "mountain-piatra-craiului", type: "mountain", parent: "RO", coords: [25.2, 45.52],
@@ -2471,6 +3121,19 @@ export const romaniaNature: POI[] = [
     facts: { de: ["Längster Kalkkamm in Rumänien.", "Endemische Nelke Dianthus callizonus.", "Nationalpark."], hu: ["Románia leghosszabb mészkőgerinc.", "Endemikus szegfű (Dianthus callizonus).", "Nemzeti park."], ro: ["Cea mai lungă creastă calcaroasă.", "Garofița Pietrei Craiului (endemică).", "Parc Național."], en: ["Longest limestone ridge in Romania.", "Endemic Dianthus callizonus.", "National park."] },
     elevation: 2238,
     image: "/geo-images/romania/mountain-piatra-craiului.webp",
+  
+    descriptionAdvanced: {
+      de: "Piatra Craiului ist ein markanter Kalksteinrücken in den Südkarpaten, der durch seine schmale und scharfe Kammform besticht. Das Gebirge beherbergt eine einzigartige Flora, darunter die endemische Piatra-Craiului-Nelke. Die steilen Kalkwände sind ein Paradies für Kletterer und anspruchsvolle Wanderer.",
+      hu: "A Királykő-hegység a Déli-Kárpátok egyedülálló mészkőgerince, amely keskeny és éles formájával tűnik ki. A hegység különleges flórával rendelkezik, itt él az endemikus királykői szegfű is. A meredek sziklafalak a sziklamászók és a tapasztalt túrázók kedvelt célpontjai.",
+      ro: "Piatra Craiului este o creastă calcaroasă distinctivă în Carpații Meridionali, remarcabilă prin forma sa îngustă și ascuțită. Masivul adăpostește o floră unică, inclusiv Garofița Pietrei Craiului, specie endemică. Pereții verticali sunt ideali pentru alpinism.",
+      en: "Piatra Craiului is a distinctive limestone ridge in the Southern Carpathians, notable for its narrow and sharp crest. The range hosts unique flora, including the endemic Piatra Craiului carnation. Its steep limestone walls are a paradise for climbers and experienced hikers.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: La Om (2238 m)", "Länge des Hauptkamms ca. 25 km", "Endemische Blume: Piatra-Craiului-Nelke", "Besteht fast vollständig aus Kalkstein", "Nationalpark seit dem Jahr 1938", "Berühmt für die Schluchten 'Zărneștilor'"],
+      hu: ["Legmagasabb csúcsa a La Om (2238 m)", "A főgerinc hossza körülbelül 25 km", "Endemikus virága a királykői szegfű", "Szinte teljes egészében mészkőből áll", "1938 óta nemzeti parkként védett", "Híres a Zernesti-szoros látványos falaival"],
+      ro: ["Cel mai înalt vârf: La Om (2238 m)", "Lungimea crestei principale este de 25 km", "Floarea endemică: Garofița Pietrei Craiului", "Masiv constituit aproape exclusiv din calcare", "Parc Național declarat încă din 1938", "Include impresionantele Prăpăstii ale Zărneștilor"],
+      en: ["Highest peak is La Om (2,238 m)", "Main ridge is approximately 25 km long", "Endemic flower: Piatra Craiului carnation", "Composed almost entirely of limestone", "Declared a National Park in 1938", "Features the impressive Zarnesti Gorges"],
+    },
   },
   {
     id: "mountain-apuseni", type: "mountain", parent: "RO", coords: [22.8, 46.55],
@@ -2479,6 +3142,19 @@ export const romaniaNature: POI[] = [
     facts: { de: ["Scărișoara-Eishöhle.", "Motzen-Land (Țara Moților).", "Bihor-Gipfel 1.849 m."], hu: ["Szkerisórai Jégbarlang.", "Mócvidék (Țara Moților).", "Bihari-csúcs 1849 m."], ro: ["Ghețarul Scărișoara.", "Țara Moților.", "Vf. Bihor 1.849 m."], en: ["Scărișoara Ice Cave.", "Motzen Land (Țara Moților).", "Bihor Peak 1,849 m."] },
     elevation: 1849,
     image: "/geo-images/romania/mountain-apuseni.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Apuseni-Gebirge in den Westkarpaten ist berühmt für seine spektakulären Karstlandschaften und über 4000 Höhlen. Die Region ist bekannt für die traditionelle Kultur der 'Motzen' und eine sanftere Topografie im Vergleich zu den Südkarpaten. Die Scarisoara-Eishöhle beherbergt einen der größten unterirdischen Gletscher der Welt.",
+      hu: "Az Erdélyi-középhegység (Apuseni) látványos karsztvidékéről és több mint 4000 barlangjáról híres. A régió a mócok hagyományos kultúrájáról és a Déli-Kárpátoknál lankásabb domborzatáról ismert. A Szkerisórai-jégbarlangban található a világ egyik legnagyobb föld alatti gleccsere.",
+      ro: "Munții Apuseni sunt celebri pentru peisajele carstice spectaculoase și cele peste 4000 de peșteri. Regiunea este cunoscută pentru cultura tradițională a moților și o topografie mai blândă față de Carpații Meridionali. Peștera Scărișoara adăpostește un ghețar subteran masiv.",
+      en: "The Apuseni Mountains in the Western Carpathians are famous for spectacular karst landscapes and over 4,000 caves. The region is known for the traditional 'Moti' culture and a gentler topography compared to the Southern Carpathians. The Scarisoara Ice Cave houses one of the world's largest underground glaciers.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Cucurbăta Mare (1849 m)", "Über 4000 registrierte Höhlen", "Scarisoara-Eishöhle hat 75.000 m³ Eis", "Bewohnt von der Volksgruppe der Motzen", "Enthält das Naturreservat Padiș", "Wichtiges Zentrum für Goldbergbau in Roșia Montană"],
+      hu: ["Legmagasabb csúcsa a Nagy-Bihar (1849 m)", "Több mint 4000 barlang található itt", "A Szkerisórai-jégbarlang 75 000 m³ jeget rejt", "A móc népcsoport hagyományos lakhelye", "Itt található a különleges Pádis-fennsík", "Verespatak révén fontos aranybányászati központ"],
+      ro: ["Cel mai înalt vârf: Cucurbăta Mare (1849 m)", "Peste 4000 de peșteri inventariate", "Ghețarul de la Scărișoara are un volum de 75.000 m³", "Țara Moților este o regiune istorică unică", "Include platoul carstic Padiș", "Zona Roșia Montană este celebră pentru zăcămintele de aur"],
+      en: ["Highest peak is Cucurbata Mare (1,849 m)", "More than 4,000 cataloged caves", "Scarisoara glacier has a volume of 75,000 cubic meters", "Home to the unique 'Moti' cultural group", "Features the Padis karst plateau", "Rosia Montana is famous for its ancient gold mines"],
+    },
   },
   {
     id: "mountain-rodnei", type: "mountain", parent: "RO", coords: [24.75, 47.56],
@@ -2487,6 +3163,19 @@ export const romaniaNature: POI[] = [
     facts: { de: ["UNESCO-Biosphärenreservat.", "Murmeltiere & Gämsen.", "Gletscherseen."], hu: ["UNESCO bioszféra-rezervátum.", "Mormoták és zergék.", "Gleccsertavak."], ro: ["Rezervație UNESCO.", "Marmote și capre negre.", "Lacuri glaciare."], en: ["UNESCO biosphere reserve.", "Marmots and chamois.", "Glacial lakes."] },
     elevation: 2303,
     image: "/geo-images/romania/mountain-rodnei.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Rodna-Gebirge ist das höchste Massiv der Ostkarpaten im Norden Rumäniens. Der höchste Gipfel ist der Pietrosu mit einer Höhe von 2303 Metern. Das Gebiet ist bekannt für seine gut erhaltenen Gletscherseen und eine vielfältige alpine Flora. Ein Großteil des Massivs ist als Nationalpark und Biosphärenreservat geschützt.",
+      hu: "A Radnai-havasok a Keleti-Kárpátok legmagasabb hegysége Románia északi részén. Legmagasabb csúcsa a Nagy-Pietrosz, amely 2303 méterrel magasodik a tengerszint fölé. A hegység híres glaciális eredetű tavairól és gazdag alpesi növényvilágáról. Jelentős része nemzeti parkként és bioszféra-rezervátumként élvez védettséget.",
+      ro: "Munții Rodnei reprezintă cel mai înalt masiv din Carpații Orientali, situat în nordul României. Cel mai înalt punct este vârful Pietrosul Rodnei, având o altitudine de 2303 metri. Zona este renumită pentru lacurile sale glaciare și pentru flora alpină diversificată. O mare parte a masivului este protejată sub formă de parc național.",
+      en: "The Rodna Mountains are the highest massif in the Eastern Carpathians of northern Romania. The highest point is the Pietrosu Peak, reaching an elevation of 2303 meters. The area is renowned for its well-preserved glacial lakes and diverse alpine flora. A significant portion of the massif is protected as a national park and biosphere reserve.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Pietrosu mit 2303 Metern.", "Nationalpark-Gründung im Jahr 1990.", "Umfasst eine Fläche von ca. 47.000 Hektar.", "Heimat des Steinbocks und des Murmeltiers.", "Besitzt über 20 Gletscherseen wie den Iezer.", "Seit 1979 als UNESCO-Biosphärenreservat anerkannt."],
+      hu: ["Legmagasabb csúcsa a Nagy-Pietrosz (2303 m).", "A nemzeti parkot 1990-ben alapították.", "Területe megközelítőleg 47 000 hektár.", "Zerge és mormota természetes élőhelye.", "Több mint 20 gleccsertó található itt.", "1979 óta UNESCO bioszféra-rezervátum."],
+      ro: ["Vârful Pietrosul este cel mai înalt (2303 m).", "Parcul Național a fost înființat în anul 1990.", "Suprafața totală este de circa 47.000 de hectare.", "Habitat natural pentru capra neagră și marmotă.", "Adăpostește peste 20 de lacuri glaciare.", "Rezervație a biosferei UNESCO din anul 1979."],
+      en: ["Pietrosu Peak is the highest at 2303 meters.", "National Park established in the year 1990.", "Total area covers approximately 47,000 hectares.", "Natural habitat for chamois and marmots.", "Home to over 20 glacial lakes like Lake Iezer.", "UNESCO Biosphere Reserve since the year 1979."],
+    },
   },
   {
     id: "mountain-ceahlau", type: "mountain", parent: "RO", coords: [25.95, 46.98],
@@ -2495,6 +3184,19 @@ export const romaniaNature: POI[] = [
     facts: { de: ["Toaca-Gipfel 1.904 m.", "Nationalpark.", "Legenden um die Dochia-Felsen."], hu: ["Toaca-csúcs 1904 m.", "Nemzeti park.", "Dochia-sziklák legendái."], ro: ["Vf. Toaca 1.904 m.", "Parc Național.", "Legendele Babei Dochia."], en: ["Toaca peak 1,904 m.", "National park.", "Baba Dochia rock legends."] },
     elevation: 1904,
     image: "/geo-images/romania/mountain-ceahlau.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Ceahlău-Massiv liegt in den Ostkarpaten im Kreis Neamț und gilt als heiliger Berg Rumäniens. Die höchsten Gipfel sind Ocolașul Mare mit 1907 Metern und Toaca mit 1904 Metern. Der Berg ist für seine markanten Felsformationen und die reiche Legendenwelt bekannt. Jährlich am 6. August lockt ein besonderes Lichtphänomen viele Besucher an.",
+      hu: "A Csalhó-hegység a Keleti-Kárpátokban, Neamț megyében található, és Románia egyik szent hegyeként tisztelik. Legmagasabb csúcsai az Ocolașul Mare (1907 m) és a Toaca (1904 m). A hegység különleges sziklaformációiról és a hozzájuk kapcsolódó gazdag mondavilágról nevezetes. Augusztus 6-án egy különleges fényjelenség vonzza a látogatókat.",
+      ro: "Masivul Ceahlău este situat în Carpații Orientali, pe teritoriul județului Neamț, fiind considerat muntele sfânt al românilor. Cele mai înalte vârfuri sunt Ocolașul Mare de 1907 metri și Toaca de 1904 metri. Muntele este faimos pentru formațiunile sale stâncoase și legendele bogate. În fiecare an pe 6 august are loc fenomenul umbrei piramidale.",
+      en: "The Ceahlău Massif is located in the Eastern Carpathians in Neamț County and is considered Romania's holy mountain. The highest peaks are Ocolașul Mare at 1907 meters and Toaca at 1904 meters. The mountain is famous for its striking rock formations and rich folklore. Every August 6th, a unique light phenomenon attracts many visitors.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt: Ocolașul Mare (1907 m).", "Nationalpark-Gründung im Jahr 1955.", "Berühmt für die Felsformation Dochia.", "Besitzt über 1100 verschiedene Pflanzenarten.", "Einzigartige Treppe mit 519 Stufen zum Toaca.", "Die Schaduwpyramide erscheint am 6. August."],
+      hu: ["Legmagasabb pontja az Ocolașul Mare (1907 m).", "A nemzeti parkot 1955-ben hozták létre.", "Híres a Dochia-szikla nevű formációról.", "Több mint 1100 növényfaj él a területén.", "Egy 519 fokos lépcső vezet fel a Toaca-csúcsra.", "Augusztus 6-án látható az árnyékpiramis."],
+      ro: ["Vârful Ocolașul Mare are 1907 metri.", "Parcul Național a fost creat în anul 1955.", "Faimos pentru stânca numită Dochia.", "Găzduiește peste 1100 de specii de plante.", "Scară cu 519 trepte către vârful Toaca.", "Fenomenul piramidei umbrei apare pe 6 august."],
+      en: ["Highest peak is Ocolașul Mare at 1907 meters.", "National Park was created in the year 1955.", "Famous for the rock formation named Dochia.", "Home to more than 1100 plant species.", "Features a 519-step stairway to Toaca Peak.", "Shadow pyramid phenomenon occurs on August 6th."],
+    },
   },
   {
     id: "mountain-maramures", type: "mountain", parent: "RO", coords: [24.5, 47.85],
@@ -2503,6 +3205,19 @@ export const romaniaNature: POI[] = [
     facts: { de: ["Farcău 1.957 m.", "Grenze zur Ukraine.", "Reiche Flora und Fauna."], hu: ["Farcău 1957 m.", "Határ Ukrajnával.", "Gazdag élővilág."], ro: ["Farcău 1.957 m.", "Graniță cu Ucraina.", "Floră și faună bogate."], en: ["Farcău 1,957 m.", "Ukrainian border.", "Rich flora and fauna."] },
     elevation: 1957,
     image: "/geo-images/romania/mountain-maramures.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Maramureș-Berge bilden die natürliche Grenze zwischen Rumänien und der Ukraine in den Nordkarpaten. Der höchste Gipfel auf rumänischem Gebiet ist der Farcău mit 1961 Metern Höhe. Die Region ist geprägt von unberührten Wäldern und traditioneller Almwirtschaft. Der Naturpark schützt die Artenvielfalt dieser abgelegenen Bergwelt.",
+      hu: "A Máramarosi-havasok természetes határt alkotnak Románia és Ukrajna között az Északi-Kárpátokban. A román oldalon a legmagasabb csúcs a Farcău, amely 1961 méter magas. A régiót érintetlen erdőségek és hagyományos pásztorkodás jellemzi. A natúrpark a távoli hegyvidék biológiai sokféleségét hivatott megőrizni.",
+      ro: "Munții Maramureșului formează granița naturală dintre România și Ucraina în Carpații de Nord. Cel mai înalt vârf de pe teritoriul românesc este Farcău, având 1961 de metri. Regiunea este marcată de păduri virgine și de păstoritul tradițional. Parcul natural protejează biodiversitatea acestei lumi montane izolate.",
+      en: "The Maramureș Mountains form the natural border between Romania and Ukraine in the Northern Carpathians. The highest peak on Romanian territory is Farcău, standing at 1961 meters. The region is characterized by pristine forests and traditional pastoralism. The natural park protects the biodiversity of this remote mountain world.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Farcău mit 1961 Metern.", "Naturpark-Gründung im Jahr 2004.", "Fläche von etwa 148.000 Hektar.", "Heimat der Waldbahn Vaser-Tal (Mocănița).", "Größter Naturpark im Norden Rumäniens.", "Wichtiger Korridor für große Beutegreifer."],
+      hu: ["Legmagasabb csúcsa a Farcău (1961 m).", "A natúrparkot 2004-ben alapították.", "Területe kb. 148 000 hektár.", "Itt található a Vasér-völgyi kisvasút.", "Észak-Románia legnagyobb natúrparkja.", "Fontos folyosó a nagyragadozók számára."],
+      ro: ["Vârful Farcău are o înălțime de 1961 metri.", "Parcul natural a fost fondat în anul 2004.", "Suprafața este de aproximativ 148.000 hectare.", "Găzduiește calea ferată din Valea Vaserului.", "Cel mai mare parc natural din nordul țării.", "Coridor vital pentru carnivorele mari."],
+      en: ["Farcău Peak stands at 1961 meters high.", "The natural park was founded in the year 2004.", "Covers an area of about 148,000 hectares.", "Home to the Vaser Valley railway (Mocănița).", "Largest natural park in northern Romania.", "Vital ecological corridor for large carnivores."],
+    },
   },
   {
     id: "mountain-orientali", type: "mountain", parent: "RO", coords: [25.5, 46.8],
@@ -2511,6 +3226,19 @@ export const romaniaNature: POI[] = [
     facts: { de: ["Vulkanische Reste (Călimani, Harghita).", "Rodna-Massiv im Norden.", "Viele Pässe."], hu: ["Vulkáni maradványok (Kelemen, Hargita).", "Radnai-havasok északon.", "Sok hágó."], ro: ["Vulcanism vechi (Călimani, Harghita).", "Masivul Rodnei la nord.", "Multe pasuri."], en: ["Old volcanism (Călimani, Harghita).", "Rodna massif in the north.", "Many passes."] },
     elevation: 2303,
     image: "/geo-images/romania/mountain-orientali.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Ostkarpaten erstrecken sich über den östlichen Teil Rumäniens und bilden die längste Gebirgskette des Landes. Sie bestehen aus drei Hauptzonen: vulkanisch, kristallin und Flysch. Das Gebirge beherbergt zahlreiche Mineralwasserquellen und dichte Nadelwälder. Es ist ein Rückzugsort für Braunbären und Wölfe in Europa.",
+      hu: "A Keleti-Kárpátok Románia keleti részén húzódnak, és az ország leghosszabb hegyvonulatát alkotják. Három fő övezetből állnak: vulkáni, kristályos és flis vonulatokból. A hegység számos ásványvízforrásnak és sűrű fenyőerdőnek ad otthont. Európa egyik legfontosabb menedékhelye a barnamedvék és farkasok számára.",
+      ro: "Carpații Orientali se întind în partea de răsărit a României, formând cel mai lung lanț muntos din țară. Sunt compuși din trei zone principale: vulcanică, cristalină și fliș. Munții adăpostesc numeroase izvoare de apă minerală și păduri dese de conifere. Reprezintă un habitat esențial pentru urșii bruni și lupi.",
+      en: "The Eastern Carpathians stretch across the eastern part of Romania, forming the longest mountain chain in the country. They consist of three main zones: volcanic, crystalline, and flysch. The mountains host numerous mineral water springs and dense coniferous forests. It is a key sanctuary for brown bears and wolves in Europe.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt: Pietrosu (2303 m).", "Beherbergt den einzigen Kratersee Sfânta Ana.", "Enthält die tiefste Schlucht, den Bicaz-Pass.", "Größtes vulkanisches Gebirge in Europa.", "Über 60 Prozent der Fläche sind bewaldet.", "Reich an Schwefel- und Mineralquellen."],
+      hu: ["Legmagasabb pontja a Nagy-Pietrosz (2303 m).", "Itt található az egyetlen krátertó, a Szent Anna.", "Itt van a legmélyebb szurdok, a Békás-szoros.", "Európa legnagyobb vulkanikus vonulata.", "A terület több mint 60 százaléka erdő.", "Gazdag kénes és ásványvízforrásokban."],
+      ro: ["Vârful Pietrosul este cel mai înalt (2303 m).", "Adăpostește singurul lac vulcanic Sfânta Ana.", "Include Cheile Bicazului, cele mai adânci.", "Cel mai lung lanț vulcanic din Europa.", "Peste 60 la sută din suprafață este împădurită.", "Bogată în izvoare minerale și mofete."],
+      en: ["Pietrosu Peak is the highest at 2303 meters.", "Home to Saint Ana, the only volcanic crater lake.", "Includes the Bicaz Gorge, the deepest in Romania.", "Largest volcanic mountain range in Europe.", "Over 60 percent of the area is forested.", "Rich in sulfur and mineral water springs."],
+    },
   },
   {
     id: "mountain-meridionali", type: "mountain", parent: "RO", coords: [24.0, 45.4],
@@ -2519,6 +3247,19 @@ export const romaniaNature: POI[] = [
     facts: { de: ["Moldoveanu 2.544 m.", "Fogaraș, Bucegi, Retezat.", "Transfăgărășan & Transalpina."], hu: ["Moldoveanu 2544 m.", "Fogaras, Bucsecs, Retyezát.", "Transzfogarasi és Transalpina utak."], ro: ["Moldoveanu 2.544 m.", "Făgăraș, Bucegi, Retezat.", "Transfăgărășan & Transalpina."], en: ["Moldoveanu 2,544 m.", "Făgăraș, Bucegi, Retezat.", "Transfăgărășan & Transalpina roads."] },
     elevation: 2544,
     image: "/geo-images/romania/mountain-meridionali.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Südkarpaten, auch als Transsilvanische Alpen bekannt, beherbergen die höchsten Gipfel Rumäniens. Sie zeichnen sich durch ein ausgeprägtes alpines Relief mit schroffen Graten und tiefen Gletscherseen aus. Das Massiv wird durch die Täler der Flüsse Olt und Jiu in mehrere Gruppen unterteilt. Hier befinden sich die berühmten Hochstraßen Transfăgărășan und Transalpina.",
+      hu: "A Déli-Kárpátok, más néven Erdélyi-Alpok, Románia legmagasabb csúcsainak adnak otthont. Jellegzetes alpesi domborzatuk van, meredek gerincekkel és mély gleccsertavakkal. A hegységet az Olt és a Zsil folyók völgyei tagolják több csoportra. Itt találhatók a híres magashegyi utak, a Transzfogarasi út és a Transzalpina.",
+      ro: "Carpații Meridionali, cunoscuți și sub numele de Alpii Transilvăneni, adăpostesc cele mai înalte vârfuri din România. Se caracterizează printr-un relief alpin pronunțat, cu creste ascuțite și lacuri glaciare adânci. Masivul este divizat de văile râurilor Olt și Jiu în mai multe grupe. Aici se află celebrele drumuri Transfăgărășan și Transalpina.",
+      en: "The Southern Carpathians, also known as the Transylvanian Alps, house the highest peaks in Romania. They are characterized by a distinct alpine relief with jagged ridges and deep glacial lakes. The massif is divided into several groups by the Olt and Jiu river valleys. The famous high-altitude roads Transfăgărășan and Transalpina are located here.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Moldoveanu mit 2544 Metern.", "Besteht aus massiven kristallinen Schiefern.", "Über 150 Gletscherseen in der gesamten Kette.", "Beherbergt den Retezat-Nationalpark (1935).", "Höchste befahrbare Straße: Transalpina (2145 m).", "Heimat von über 35 Prozent der Gämse Rumäniens."],
+      hu: ["Legmagasabb csúcs: Moldoveanu (2544 m).", "Masszív kristályos palák építik fel.", "Több mint 150 gleccsertó található itt.", "Itt van a Retezát Nemzeti Park (1935).", "Legmagasabb út: Transzalpina (2145 m).", "A romániai zergék 35 százaléka itt él."],
+      ro: ["Vârful Moldoveanu este cel mai înalt (2544 m).", "Alăturați din șisturi cristaline masive.", "Peste 150 de lacuri glaciare în tot lanțul.", "Adăpostește Parcul Retezat, creat în 1935.", "Cea mai înaltă șosea: Transalpina (2145 m).", "Găzduiesc 35 la sută din caprele negre ale țării."],
+      en: ["Moldoveanu Peak is the highest at 2544 meters.", "Composed primarily of massive crystalline schists.", "Home to over 150 glacial lakes in the range.", "Includes Retezat National Park, founded in 1935.", "Highest road: Transalpina reaches 2145 meters.", "Hosts 35 percent of Romania's chamois population."],
+    },
   },
   {
     id: "mountain-occidentali", type: "mountain", parent: "RO", coords: [22.7, 46.3],
@@ -2527,6 +3268,19 @@ export const romaniaNature: POI[] = [
     facts: { de: ["Apuseni, Banater Gebirge, Poiana-Ruscă.", "Karst und Höhlen.", "Bihor-Gipfel 1.849 m."], hu: ["Erdélyi-szigethegység, Bánsági-hg., Pojána Ruszka.", "Karszt és barlangok.", "Bihari-csúcs 1849 m."], ro: ["Apuseni, Munții Banatului, Poiana Ruscă.", "Carst și peșteri.", "Vf. Bihor 1.849 m."], en: ["Apuseni, Banat Mts, Poiana Ruscă.", "Karst and caves.", "Bihor peak 1,849 m."] },
     elevation: 1849,
     image: "/geo-images/romania/mountain-occidentali.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Westkarpaten liegen im Westen Rumäniens und bestehen aus den Apuseni-Bergen sowie dem Banater Gebirge. Sie sind bekannt für ihr ausgedehntes Karstrelief mit über 7000 Höhlen und tiefen Tälern. Die Gipfel sind weniger hoch als in den anderen Karpatenteilen, aber die Landschaft ist sehr abwechslungsreich. Die Region ist berühmt für ihr kulturelles Erbe und den Bergbau.",
+      hu: "Az Erdélyi-Szigethegység Románia nyugati részén fekszik, és magában foglalja az Apuseni- és a Bánáti-hegységet. Kiterjedt karsztvidékéről ismert, több mint 7000 barlanggal és mély völgyekkel. A csúcsok alacsonyabbak, mint a Kárpátok más részein, de a táj rendkívül változatos. A régió híres kulturális örökségéről és bányászatáról.",
+      ro: "Carpații Occidentali sunt situați în vestul României, cuprinzând Munții Apuseni și Munții Banatului. Sunt renumiți pentru relieful carstic extins, cu peste 7000 de peșteri și văi adânci. Culmile sunt mai joase decât în celelalte grupe carpatice, dar peisajul este foarte divers. Regiunea este celebră pentru patrimoniul cultural și minerit.",
+      en: "The Western Carpathians are located in western Romania, comprising the Apuseni and Banat Mountains. They are famous for their extensive karst relief, featuring over 7000 caves and deep valleys. The peaks are lower than in other Carpathian sections, but the landscape is highly diverse. The region is renowned for its cultural heritage and mining history.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt: Cucurbăta Mare (1849 m).", "Beherbergt die Eishöhle von Scărișoara.", "Besitzt das tiefste Höhlensystem Rumäniens.", "Die Region Roșia Montană ist UNESCO-Erbe.", "Über 7000 registrierte Höhlen im Karst.", "Wichtigste Goldvorkommen des Landes."],
+      hu: ["Legmagasabb pontja a Nagy-Bihar (1849 m).", "Itt található a Szkerisórai-jegesbarlang.", "Itt van Románia legmélyebb barlangrendszere.", "Verespatak a világörökség része (UNESCO).", "Több mint 7000 barlangot tartanak számon.", "Az ország legfontosabb aranylelőhelyei."],
+      ro: ["Vârful Cucurbăta Mare are 1849 metri.", "Adăpostește Ghețarul de la Scărișoara.", "Cel mai adânc sistem de peșteri din țară.", "Roșia Montană este sit protejat UNESCO.", "Peste 7000 de peșteri înregistrate în carst.", "Cele mai importante zăcăminte de aur."],
+      en: ["Cucurbăta Mare is the highest at 1849 meters.", "Home to the Scărișoara Ice Cave.", "Contains the deepest cave system in Romania.", "Roșia Montană is a UNESCO World Heritage site.", "Over 7000 registered caves in the karst area.", "Most important gold deposits in the country."],
+    },
   },
 
   // ---------- Tavak ----------
@@ -2537,6 +3291,19 @@ export const romaniaNature: POI[] = [
     facts: { de: ["Höhe 950 m.", "Regenwasser-gespeist.", "Reservat seit 1979."], hu: ["950 m magasságban.", "Csak csapadék táplálja.", "1979 óta védett."], ro: ["Altitudine 950 m.", "Alimentat doar din precipitații.", "Rezervație din 1979."], en: ["At 950 m elevation.", "Fed only by rainfall.", "Reserve since 1979."] },
     area: 0.22, elevation: 946,
     image: "/geo-images/romania/lake-sfanta-ana.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Sankt-Anna-See ist der einzige See vulkanischen Ursprungs in Rumänien und befindet sich im Ciomadul-Massiv. Er liegt in einem perfekt erhaltenen Vulkankrater in einer Höhe von 946 Metern. Da der See ausschließlich durch Regenwasser gespeist wird, ist das Wasser sehr rein, aber mineralstoffarm. Die Umgebung bietet eine einzigartige Landschaft mit dichten Wäldern.",
+      hu: "A Szent Anna-tó Románia egyetlen vulkáni krátertava, amely a Csomád-hegységben található. Egy tökéletesen épségben maradt vulkáni kráter alján fekszik, 946 méteres magasságban. Mivel a tavat kizárólag a csapadékvíz táplálja, vize rendkívül tiszta, de ásványi anyagokban szegény. A környezet egyedülálló látványt nyújt sűrű erdőivel.",
+      ro: "Lacul Sfânta Ana este singurul lac de origine vulcanică din România, situat în masivul Ciomatu. Se află pe fundul unui crater vulcanic perfect conservat, la o altitudine de 946 metri. Deoarece este alimentat exclusiv din precipitații, apa este foarte pură, dar săracă în minerale. Împrejurimile oferă un peisaj unic cu păduri dese.",
+      en: "Saint Ana Lake is the only lake of volcanic origin in Romania, located in the Ciomadul Massif. It lies at the bottom of a perfectly preserved volcanic crater at an altitude of 946 meters. Since the lake is fed exclusively by precipitation, the water is very pure but low in minerals. The surroundings offer a unique landscape with dense forests.",
+    },
+    factsAdvanced: {
+      de: ["Höhe des Wasserspiegels: 946 Meter.", "Maximale Tiefe des Sees: ca. 6,4 Meter.", "Umfang des Sees beträgt etwa 1737 Meter.", "Liegt im südlichen Teil des Harghita-Gebirges.", "In der Nähe liegt das Hochmoor Mohos.", "Entstand vor etwa 32.000 Jahren."],
+      hu: ["A vízfelszín magassága: 946 méter.", "A tó maximális mélysége kb. 6,4 méter.", "A tó kerülete megközelítőleg 1737 méter.", "A Hargita-hegység déli részén található.", "Mellette fekszik a Mohos-tőzegláp.", "Körülbelül 32 000 évvel ezelőtt keletkezett."],
+      ro: ["Altitudinea oglinzii apei: 946 metri.", "Adâncimea maximă este de circa 6,4 metri.", "Perimetrul lacului este de 1737 metri.", "Situat în partea de sud a munților Harghita.", "În apropiere se află tinovul Mohoș.", "S-a format acum aproximativ 32.000 de ani."],
+      en: ["Surface altitude is 946 meters above sea level.", "Maximum depth of the lake is about 6.4 meters.", "The lake perimeter is approximately 1737 meters.", "Located in the southern part of Harghita Mountains.", "Nearby is the Mohos Peat Bog reserve.", "Formed approximately 32,000 years ago."],
+    },
   },
   {
     id: "lake-bicaz", type: "lake", parent: "RO-NT", coords: [25.9, 46.89],
@@ -2545,6 +3312,19 @@ export const romaniaNature: POI[] = [
     facts: { de: ["Erbaut 1950–60 für Wasserkraft.", "Länge ~35 km.", "Am Fuß des Ceahlău."], hu: ["1950–60 között épült vízerőműhöz.", "Hossza kb. 35 km.", "A Csalhó lábánál."], ro: ["Construit 1950–60 pentru hidroenergie.", "Lungime ~35 km.", "La poalele Ceahlăului."], en: ["Built 1950–60 for hydroelectric power.", "~35 km long.", "At the foot of Ceahlău."] },
     area: 33,
     image: "/geo-images/romania/lake-bicaz.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Bicaz-See, offiziell Izvorul Muntelui genannt, ist der größte Stausee an einem Binnenfluss in Rumänien. Er entstand durch den Bau eines massiven Damms am Fluss Bistrița zwischen 1950 und 1960. Der See erstreckt sich über eine Länge von 35 Kilometern und dient der Stromerzeugung. Vom Wasser aus hat man einen spektakulären Blick auf das Ceahlău-Massiv.",
+      hu: "A Békási-víztározó, hivatalos nevén Izvorul Muntelui, Románia legnagyobb belső folyón kialakított mesterséges tava. A Beszterce folyón épült masszív gát révén jött létre 1950 és 1960 között. A tó 35 kilométer hosszan nyúlik el, és főként energiatermelésre szolgál. A vízfelszínről lenyűgöző kilátás nyílik a Csalhó-hegységre.",
+      ro: "Lacul Bicaz, numit oficial Izvorul Muntelui, este cel mai mare lac de acumulare de pe un râu interior din România. A fost creat prin construirea unui baraj masiv pe râul Bistrița între 1950 și 1960. Lacul are o lungime de 35 de kilometri și este utilizat pentru producția de energie. De pe lac se vede spectaculos masivul Ceahlău.",
+      en: "Bicaz Lake, officially known as Izvorul Muntelui, is the largest reservoir on an interior river in Romania. It was created by building a massive dam on the Bistrița River between 1950 and 1960. The lake stretches for 35 kilometers and is primarily used for hydroelectric power. From the water, there is a spectacular view of the Ceahlău Massif.",
+    },
+    factsAdvanced: {
+      de: ["Höhe der Staumauer: 127 Meter.", "Gesamtlänge des Sees: 35 Kilometer.", "Maximale Breite beträgt etwa 2 Kilometer.", "Speicherkapazität: 1,23 Milliarden Kubikmeter.", "Versorgt das Wasserkraftwerk Stejaru.", "Bauzeit dauerte exakt 10 Jahre (1950-1960)."],
+      hu: ["A gát magassága: 127 méter.", "A tó teljes hossza: 35 kilométer.", "Maximális szélessége kb. 2 kilométer.", "Tárolókapacitása 1,23 milliárd köbméter.", "A Stejaru vízerőművet táplálja.", "Az építkezés 10 évig tartott (1950-1960)."],
+      ro: ["Înălțimea barajului este de 127 metri.", "Lungimea totală a lacului: 35 kilometri.", "Lățimea maximă este de circa 2 kilometri.", "Capacitate de 1,23 miliarde metri cubi.", "Alimentează hidrocentrala de la Stejaru.", "Construcția a durat 10 ani (1950-1960)."],
+      en: ["The dam height is 127 meters.", "Total length of the lake is 35 kilometers.", "Maximum width is approximately 2 kilometers.", "Storage capacity: 1.23 billion cubic meters.", "Powers the Stejaru hydroelectric plant.", "Construction took exactly 10 years (1950-1960)."],
+    },
   },
   {
     id: "lake-vidraru", type: "lake", parent: "RO-AG", coords: [24.63, 45.35],
@@ -2553,6 +3333,19 @@ export const romaniaNature: POI[] = [
     facts: { de: ["Staumauer 166 m hoch.", "Fertiggestellt 1966.", "Wasserkraftwerk."], hu: ["166 m magas gát.", "1966-ban készült el.", "Vízerőmű."], ro: ["Baraj de 166 m.", "Finalizat în 1966.", "Hidrocentrală."], en: ["Dam 166 m tall.", "Completed in 1966.", "Hydro plant."] },
     area: 8.7,
     image: "/geo-images/romania/lake-vidraru.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Vidraru-See ist ein bedeutender Stausee im Argeș-Tal, der 1966 fertiggestellt wurde. Er wird durch eine beeindruckende Bogenstaumauer begrenzt, die zu den höchsten ihrer Art in Europa zählt. Der See dient der Stromerzeugung und dem Hochwasserschutz in der Region. Die berühmte Transfăgărășan-Hochstraße führt direkt am Ufer des Sees entlang.",
+      hu: "A Vidraru-tó az Argeș folyó völgyében található jelentős víztározó, amelyet 1966-ban fejeztek be. Egy lenyűgöző íves gát határolja, amely Európa legmagasabb ilyen típusú építményei közé tartozik. A tó energiatermelésre és árvízvédelemre szolgál. A híres Transzfogarasi út közvetlenül a tó partja mentén halad.",
+      ro: "Lacul Vidraru este un important lac de acumulare de pe Valea Argeșului, finalizat în anul 1966. Este limitat de un baraj în arc impresionant, printre cele mai înalte din Europa. Lacul este utilizat pentru producția de energie și controlul inundațiilor. Celebra șosea Transfăgărășan trece chiar pe lângă malul lacului.",
+      en: "Lake Vidraru is a major reservoir in the Argeș Valley, completed in 1966. It is held back by an impressive arch dam, which ranks among the highest of its kind in Europe. The lake serves for hydroelectric power generation and flood control. The famous Transfăgărășan highway runs directly along the shore of the lake.",
+    },
+    factsAdvanced: {
+      de: ["Höhe der Staumauer: 166 Meter.", "Länge der Mauerkrone: 305 Meter.", "Maximale Tiefe des Wassers: 155 Meter.", "Gesamtvolumen: 465 Millionen Kubikmeter.", "Liegt zwischen dem Făgăraș- und Iezer-Gebirge.", "Nahegelegene Prometheus-Statue (Eisenmann)."],
+      hu: ["A gát magassága: 166 méter.", "A gátkorona hossza: 305 méter.", "Maximális vízmélység: 155 méter.", "Össztérfogata 465 millió köbméter.", "A Fogarasi- és az Iezer-hegység között fekszik.", "A közelben áll a Prométheusz-szobor."],
+      ro: ["Înălțimea barajului este de 166 metri.", "Lungimea coronamentului: 305 metri.", "Adâncimea maximă a apei: 155 metri.", "Volum total de 465 milioane metri cubi.", "Situat între munții Făgăraș și Iezer.", "Statuia lui Prometeu se află în apropiere."],
+      en: ["The dam height is 166 meters.", "Length of the dam crest is 305 meters.", "Maximum water depth reaches 155 meters.", "Total volume: 465 million cubic meters.", "Located between Făgăraș and Iezer mountains.", "Nearby is the Iron Man (Prometheus) statue."],
+    },
   },
   {
     id: "lake-razim", type: "lake", parent: "RO-TL", coords: [28.97, 44.85],
@@ -2600,6 +3393,19 @@ export const romaniaNature: POI[] = [
     facts: { de: ["Erreichbar über Transfăgărășan.", "Im Winter: Eishotel.", "Nur im Sommer autofrei zugänglich."], hu: ["A Transzfogarasin át elérhető.", "Télen jégszálloda.", "Nyáron autóval is megközelíthető."], ro: ["Acces pe Transfăgărășan.", "Iarna: Hotelul de Gheață.", "Vara acces cu mașina."], en: ["Reached via Transfăgărășan.", "Winter: Ice Hotel.", "Car access in summer."] },
     area: 0.046, elevation: 2034,
     image: "/geo-images/romania/lake-balea.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Bâlea-See ist ein ikonischer Gletschersee im Făgăraș-Gebirge in einer Höhe von 2034 Metern. Er ist durch die Transfăgărășan-Straße leicht zugänglich und ein beliebtes Ziel für Wanderer und Naturliebhaber. Im Winter wird hier seit 2005 regelmäßig das erste Eishotel Osteuropas errichtet. Die umliegenden schroffen Gipfel spiegeln sich malerisch im klaren Wasser.",
+      hu: "A Bâlea-tó egy ikonikus gleccsertó a Fogarasi-havasokban, 2034 méteres magasságban. A Transzfogarasi úton keresztül könnyen megközelíthető, és a túrázók kedvelt célpontja. Télen 2005 óta rendszeresen felépítik itt Kelet-Európa első jégszállodáját. A tavat körülvevő meredek csúcsok festőien tükröződnek a tiszta vízben.",
+      ro: "Lacul Bâlea este un lac glaciar iconic situat în Munții Făgăraș, la o altitudine de 2034 metri. Este ușor accesibil prin șoseaua Transfăgărășan și reprezintă o destinație populară pentru turiști. Iarna, din 2005, aici se construiește primul hotel de gheață din Europa de Est. Culmile din jur se reflectă pitoresc în apa limpede.",
+      en: "Lake Bâlea is an iconic glacial lake in the Făgăraș Mountains at an altitude of 2034 meters. It is easily accessible via the Transfăgărășan highway and is a popular destination for hikers. Since 2005, Eastern Europe's first Ice Hotel has been constructed here every winter. The surrounding rugged peaks reflect picturesquely in the clear water.",
+    },
+    factsAdvanced: {
+      de: ["Höhenlage des Sees: 2034 Meter.", "Maximale Tiefe beträgt ca. 11,3 Meter.", "Fläche des Sees: 4,65 Hektar.", "Das erste Eishotel wurde 2005 erbaut.", "Ganzjährig per Seilbahn erreichbar.", "Liegt am höchsten Punkt des Transfăgărășan."],
+      hu: ["A tó tengerszint feletti magassága: 2034 m.", "Maximális mélysége kb. 11,3 méter.", "A tó felszíne 4,65 hektár.", "Az első jéghotel 2005-ben épült meg.", "Egész évben elérhető drótkötélpályával.", "A Transzfogarasi út legmagasabb pontjánál van."],
+      ro: ["Altitudinea lacului este de 2034 metri.", "Adâncimea maximă este de circa 11,3 metri.", "Suprafața lacului: 4,65 hectare.", "Primul hotel de gheață a fost ridicat în 2005.", "Accesibil tot anul cu telecabina de la cascadă.", "Situat în cel mai înalt punct al Transfăgărășanului."],
+      en: ["Surface altitude is 2034 meters high.", "Maximum depth is approximately 11.3 meters.", "The lake covers an area of 4.65 hectares.", "The first Ice Hotel was built in the year 2005.", "Accessible year-round by cable car.", "Located at the highest point of Transfăgărășan."],
+    },
   },
   {
     id: "lake-rosu", type: "lake", parent: "RO-HR", coords: [25.78, 46.79],
@@ -2608,6 +3414,19 @@ export const romaniaNature: POI[] = [
     facts: { de: ["Abgestorbene Baumstämme im Wasser.", "Nahe der Bicaz-Schlucht.", "Touristenmagnet."], hu: ["Kiálló faderekak a vízben.", "A Békási-szoros közelében.", "Turistamágnes."], ro: ["Trunchiuri de arbori în apă.", "Aproape de Cheile Bicazului.", "Atracție turistică."], en: ["Dead tree trunks in the water.", "Near Bicaz Gorge.", "Tourist magnet."] },
     area: 0.13,
     image: "/geo-images/romania/lake-rosu.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Rote See ist ein natürlicher Stausee im Hășmaș-Gebirge, der im Jahr 1837 durch einen massiven Erdrutsch entstand. Er liegt nahe der berühmten Bicaz-Schlucht und ist für die aus dem Wasser ragenden versteinerten Baumstümpfe bekannt. Der Name leitet sich von den rötlichen Sedimenten ab, die bei Regen in den See gespült werden. Er ist der größte Bergstausee Rumäniens.",
+      hu: "A Gyilkos-tó egy természetes torlasztó a Hagymás-hegységben, amely 1837-ben keletkezett egy hatalmas földcsuszamlás következtében. A híres Békás-szoros közelében fekszik, és a vízből kiálló megkövesedett fatörzseiről ismert. Magyar nevét a közeli hegyről kapta, míg román neve a vöröses hordalékra utal. Románia legnagyobb hegyi torlasztava.",
+      ro: "Lacul Roșu este un lac de baraj natural situat în munții Hășmaș, format în 1837 în urma unei alunecări masive de teren. Se află lângă Cheile Bicazului și este faimos pentru cioturile de copaci pietrificați care ies din apă. Numele provine de la sedimentele roșiatice aduse de ploi. Este cel mai mare lac de baraj natural din țară.",
+      en: "Red Lake is a natural dam lake in the Hășmaș Mountains, formed in 1837 following a massive landslide. It is located near the famous Bicaz Gorge and is renowned for the fossilized tree stumps protruding from the water. The name derives from the reddish sediments washed into the lake. It is the largest natural mountain dam lake in Romania.",
+    },
+    factsAdvanced: {
+      de: ["Entstehungsjahr: 1837 nach einem Erdrutsch.", "Maximale Tiefe des Sees: 10,5 Meter.", "Fläche beträgt etwa 11,5 Hektar.", "Umfang des Sees: 2830 Meter.", "Liegt in einer Höhe von 983 Metern.", "Befindet sich am Fuße des Berges Ghilcoș."],
+      hu: ["Keletkezési éve: 1837, földcsuszamlás után.", "Maximális mélysége 10,5 méter.", "Felszíne megközelítőleg 11,5 hektár.", "A tó kerülete 2830 méter.", "Tengerszint feletti magassága 983 méter.", "A Gyilkos-havas lábánál fekszik."],
+      ro: ["S-a format în 1837 după o alunecare de teren.", "Adâncimea maximă a lacului: 10,5 metri.", "Suprafața este de circa 11,5 hectare.", "Perimetrul lacului este de 2830 metri.", "Situat la o altitudine de 983 metri.", "Aflat la poalele muntelui Ghilcoș."],
+      en: ["Formed in the year 1837 after a landslide.", "Maximum depth of the lake is 10.5 meters.", "Total surface area is about 11.5 hectares.", "The lake perimeter is 2830 meters long.", "Located at an altitude of 983 meters.", "Situated at the foot of Mount Ghilcoș."],
+    },
   },
   {
     id: "lake-iezer", type: "lake", parent: "RO-MM", coords: [24.45, 47.65],
@@ -2616,6 +3435,19 @@ export const romaniaNature: POI[] = [
     facts: { de: ["Höhe ~1.825 m.", "Geschützt im Nationalpark.", "Moorufer."], hu: ["Magasság kb. 1825 m.", "Nemzeti parki védelem.", "Tőzeges partok."], ro: ["Altitudine ~1.825 m.", "În Parcul Național.", "Malul mlăștinos."], en: ["~1,825 m elevation.", "In the National Park.", "Boggy shores."] },
     area: 0.032, elevation: 1825,
     image: "/geo-images/romania/lake-iezer.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Iezer-See ist ein Gletschersee im Rodna-Gebirge, der direkt unterhalb des Pietrosu-Gipfels liegt. Er ist besonders bekannt für seine Form, die den Umrissen Rumäniens auf einer Landkarte ähnelt. Der See liegt auf einer Höhe von 1820 Metern in einer kargen Hochgebirgslandschaft. Das Wasser ist glasklar und spiegelt die umliegenden felsigen Hänge wider.",
+      hu: "Az Iezer-tó a Radnai-havasokban található gleccsertó, közvetlenül a Nagy-Pietrosz csúcsa alatt. Különlegessége, hogy formája emlékeztet Románia térképének körvonalaira. A tó 1820 méteres magasságban fekszik egy kopár magashegyi tájon. Vize kristálytiszta, és visszatükrözi a környező sziklás hegyoldalakat.",
+      ro: "Lacul Iezer este un lac glaciar din Munții Rodnei, situat chiar sub vârful Pietrosul Mare. Este renumit pentru forma sa care seamănă cu conturul hărții României. Lacul se află la o altitudine de 1820 de metri, într-un peisaj alpin auster. Apa este de o claritate rară, reflectând versanții stâncoși din jur.",
+      en: "Iezer Lake is a glacial lake in the Rodna Mountains, situated directly below the Pietrosu Peak. It is particularly famous for its shape, which resembles the outline of Romania on a map. The lake lies at an altitude of 1820 meters in a stark high-mountain landscape. The water is crystal clear, reflecting the surrounding rocky slopes.",
+    },
+    factsAdvanced: {
+      de: ["Höhenlage: 1820 Meter über dem Meer.", "Maximale Tiefe beträgt ca. 2,5 Meter.", "Fläche des Sees: etwa 0,45 Hektar.", "Bekannt für die Form der Karte Rumäniens.", "Teil des Rodna-Nationalparks.", "Wichtiger Rastplatz beim Aufstieg zum Pietrosu."],
+      hu: ["Tengerszint feletti magassága: 1820 méter.", "Maximális mélysége kb. 2,5 méter.", "A tó felszíne körülbelül 0,45 hektár.", "Románia térképének alakjáról ismert.", "A Radnai-havasok Nemzeti Park része.", "Fontos pihenőhely a Pietrosz felé vezető úton."],
+      ro: ["Altitudinea lacului: 1820 metri.", "Adâncimea maximă este de circa 2,5 metri.", "Suprafața lacului: aproximativ 0,45 hectare.", "Faimos pentru forma asemănătoare hărții țării.", "Inclus în Parcul Național Munții Rodnei.", "Popas principal pe traseul spre vârful Pietrosul."],
+      en: ["Located at 1820 meters above sea level.", "Maximum depth is approximately 2.5 meters.", "Lake surface area is about 0.45 hectares.", "Famous for resembling the map of Romania.", "Part of the Rodna Mountains National Park.", "Key rest stop on the trail to Pietrosu Peak."],
+    },
   },
   {
     id: "lake-sovata", type: "lake", parent: "RO-MS", coords: [25.08, 46.59],
@@ -2624,6 +3456,19 @@ export const romaniaNature: POI[] = [
     facts: { de: ["Entstand 1875.", "Gesundheitskur in Sovata.", "Wärmste Schicht ~40 °C."], hu: ["1875-ben keletkezett.", "Szováta gyógyfürdő.", "Legmelegebb réteg kb. 40 °C."], ro: ["Format în 1875.", "Stațiune balneară Sovata.", "Strat cald ~40 °C."], en: ["Formed in 1875.", "Sovata spa resort.", "Warm layer ~40 °C."] },
     area: 0.04,
     image: "/geo-images/romania/lake-sovata.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Bärensee (Lacul Ursu) in Sovata ist der größte heliotherme See der Welt und ein bedeutendes Heilbad. Er entstand im Jahr 1875 durch den Einsturz eines Salzstocks nach starken Regenfällen. Das Wasser weist eine Schichtung auf, bei der die oberste Süßwasserschicht die Wärme in den salzhaltigen Schichten speichert. Die therapeutischen Eigenschaften des Schlamms und Wassers sind international anerkannt.",
+      hu: "A szovátai Medve-tó a világ legnagyobb heliotermikus tava és jelentős gyógyhely. 1875-ben keletkezett egy sókarszt beszakadásával a heves esőzések után. A víz rétegződése miatt a felső édesvízréteg csapdába ejti a hőt az alsóbb sós rétegekben. A tó iszapjának és vizének gyógyhatása nemzetközileg elismert.",
+      ro: "Lacul Ursu din Sovata este cel mai mare lac helioterm din lume și o importantă stațiune balneară. S-a format în anul 1875 prin prăbușirea unei doline de sare după ploi abundente. Apa prezintă un fenomen de stratificare, stratul superior de apă dulce păstrând căldura în straturile sărate. Proprietățile terapeutice sunt recunoscute internațional.",
+      en: "Bear Lake (Lacul Ursu) in Sovata is the world's largest heliothermal lake and a major spa destination. It was formed in 1875 when a salt sinkhole collapsed after heavy rains. The water exhibits a stratification phenomenon where the upper freshwater layer traps heat in the saline layers. The therapeutic properties of its mud and water are internationally recognized.",
+    },
+    factsAdvanced: {
+      de: ["Entstehungsdatum: 27. Mai 1875.", "Maximaltiefe des Sees: 18,1 Meter.", "Salzgehalt in der Tiefe: ca. 250 g/l.", "Wassertemperatur kann im Sommer 40°C erreichen.", "Fläche des Sees beträgt ca. 4 Hektar.", "Einziger heliothermer See in Europa."],
+      hu: ["Keletkezésének napja: 1875. május 27.", "A tó maximális mélysége 18,1 méter.", "Sótartalom a mélyben: kb. 250 g/l.", "Nyáron a vízhőmérséklet elérheti a 40°C-ot.", "A tó felszíne körülbelül 4 hektár.", "Európa egyetlen heliotermikus tava."],
+      ro: ["Data formării: 27 mai 1875.", "Adâncimea maximă a lacului: 18,1 metri.", "Salinitatea la adâncime: circa 250 g/l.", "Temperatura apei poate atinge 40°C vara.", "Suprafața lacului este de circa 4 hectare.", "Singurul lac helioterm de pe continent."],
+      en: ["Formation date: May 27th, 1875.", "Maximum depth of the lake is 18.1 meters.", "Salinity at depth is about 250 g/l.", "Water temperature can reach 40°C in summer.", "Lake surface covers about 4 hectares.", "The only heliothermal lake in Europe."],
+    },
   },
 
   // ---------- Tenger ----------
@@ -2634,6 +3479,19 @@ export const romaniaNature: POI[] = [
     facts: { de: ["Salzgehalt ~18 ‰.", "Badeorte Mamaia, Neptun, Mangalia.", "Anoxisches Tiefenwasser."], hu: ["Sótartalom kb. 18 ‰.", "Mamaia, Neptun, Mangalia üdülőhelyek.", "Oxigénmentes mélyvíz."], ro: ["Salinitate ~18 ‰.", "Stațiuni: Mamaia, Neptun, Mangalia.", "Ape adânci anoxice."], en: ["Salinity ~18 ‰.", "Resorts: Mamaia, Neptun, Mangalia.", "Anoxic deep waters."] },
     area: 436400,
     image: "/geo-images/romania/sea-marea-neagra.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Schwarze Meer ist ein Binnenmeer zwischen Südosteuropa und Westasien, das Rumänien Zugang zum Weltmeer bietet. Es ist bekannt für seine geringe Salinität und das Fehlen von Gezeiten. Eine Besonderheit ist das sauerstofffreie Tiefenwasser, in dem kein Leben möglich ist. Die rumänische Küste erstreckt sich über 245 Kilometer und beherbergt zahlreiche Badeorte und den Hafen Constanța.",
+      hu: "A Fekete-tenger Délkelet-Európa és Nyugat-Ázsia között fekvő beltenger, amely Románia számára kijáratot biztosít a világóceánra. Alacsony sótartalmáról és az árapály jelenség hiányáról ismert. Különlegessége az oxigénmentes mélységi víz, ahol nincs élet. A román tengerpart 245 kilométer hosszan húzódik, számos üdülőhelynek és Konstanca kikötőjének ad otthont.",
+      ro: "Marea Neagră este o mare intercontinentală situată între Europa de Sud-Est și Asia de Vest, oferind României acces la oceanul planetar. Este cunoscută pentru salinitatea scăzută și absența mareelor. O particularitate este absența oxigenului la adâncimi mari, unde viața nu este posibilă. Litoralul românesc se întinde pe 245 de kilometri.",
+      en: "The Black Sea is an inland sea between Southeastern Europe and Western Asia, providing Romania with access to the world ocean. It is known for its low salinity and the absence of tides. A unique feature is the anoxic deep water where life is not possible. The Romanian coastline stretches over 245 kilometers and hosts numerous resorts and the port of Constanța.",
+    },
+    factsAdvanced: {
+      de: ["Maximale Tiefe des Meeres: 2212 Meter.", "Gesamtfläche: ca. 436.402 km².", "Länge der rumänischen Küste: 245 Kilometer.", "Anoxische Schicht beginnt ab ca. 150 Metern.", "Salzgehalt an der Oberfläche: ca. 17 Promille.", "Mündet über den Bosporus in das Mittelmeer."],
+      hu: ["Maximális mélysége: 2212 méter.", "Összterülete kb. 436 402 km².", "A román tengerpart hossza: 245 kilométer.", "Az oxigénmentes réteg 150 m alatt kezdődik.", "Felszíni sótartalom: kb. 17 ezrelék.", "A Boszporuszon át csatlakozik a Földközi-tengerhez."],
+      ro: ["Adâncimea maximă a mării: 2212 metri.", "Suprafața totală: circa 436.402 km².", "Lungimea litoralului românesc: 245 kilometri.", "Stratul anoxic începe sub 150 metri.", "Salinitatea la suprafață: circa 17 la mie.", "Se varsă în Mediterană prin Bosfor."],
+      en: ["Maximum depth of the sea is 2212 meters.", "Total surface area: approx. 436,402 km².", "Length of the Romanian coast: 245 kilometers.", "Anoxic layer starts below 150 meters.", "Surface salinity is about 17 parts per thousand.", "Connects to the Mediterranean via the Bosphorus."],
+    },
   },
   {
     id: "nature-apuseni-np", type: "mountain", parent: "RO", coords: [22.8, 46.55],
@@ -2641,6 +3499,19 @@ export const romaniaNature: POI[] = [
     description: { de: "Karstlandschaft mit Höhlen und Wäldern.", hu: "Karsztos táj barlangokkal és erdőkkel.", ro: "Rezervație naturală carstică cu peșteri și păduri.", en: "Karst landscape with caves and forests." },
     facts: { de: ["Über 1.500 Höhlen.", "Padis-Plateau.", "Karstphänomene."], hu: ["Több mint 1500 barlang.", "Pádis-fennsík.", "Karsztjelenségek."], ro: ["Peste 1.500 de peșteri.", "Platoul Padiș.", "Fenomene carstice spectaculoase."], en: ["Over 1,500 caves.", "Padiș Plateau.", "Spectacular karst phenomena."] },
     image: "/geo-images/romania/nature-apuseni-np.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Naturpark Apuseni schützt das ausgedehnte Karstplateau der Westrumänischen Karpaten auf einer Fläche von über 76.000 Hektar. Die Region ist bekannt für ihre dichten Fichtenwälder, tiefen Schluchten und eines der dichtesten Höhlensysteme Europas. Neben der geologischen Bedeutung bewahrt der Park die traditionelle Lebensweise der Motzen-Bergbewohner.",
+      hu: "Az Erdélyi-szigethegység Natúrpark több mint 76 000 hektáron oltalmazza a Nyugati-Kárpátok látványos karsztvidékét. A terület híres barlangjairól, mély szurdokvölgyeiről és a karsztjelenségek rendkívüli sűrűségéről. A park nemcsak geológiai értékei miatt jelentős, hanem a mócok hagyományos hegyi kultúrájának és építészetének is otthont ad.",
+      ro: "Parcul Natural Apuseni protejează relieful carstic spectaculos al Munților Apuseni, întinzându-se pe o suprafață de peste 76.000 de hectare. Zona este renumită pentru densitatea mare de peșteri, avene și chei adânci formate în calcare mezozoice. Parcul conservă totodată peisajul cultural unic și modul de viață tradițional al moților.",
+      en: "The Apuseni Natural Park protects the extensive karst plateau of the Western Romanian Carpathians, covering over 76,000 hectares. The region is renowned for its dense spruce forests, deep gorges, and one of the highest concentrations of caves in Europe. Beyond its geological significance, the park preserves the traditional mountain culture and lifestyle of the Motzi people.",
+    },
+    factsAdvanced: {
+      de: ["Gründung des Naturparks im Jahr 2000", "Gesamtfläche von ca. 76.064 Hektar", "Höchster Punkt ist der Gipfel Bihorul mit 1849 m", "Beherbergt über 1500 registrierte Höhlen", "Vorkommen von Braunbären und Wölfen", "Traditionelle Herstellung von Holzgefäßen durch Motzen"],
+      hu: ["A natúrparkot 2000-ben alapították", "Teljes területe körülbelül 76 064 hektár", "Legmagasabb pontja a Bihar-csúcs, 1849 méter", "Több mint 1500 nyilvántartott barlang található itt", "Jelentős barna medve- és farkaspopuláció", "A mócok hagyományos faedénykészítő művészete"],
+      ro: ["Parcul a fost înființat în anul 2000", "Suprafața totală este de circa 76.064 hectare", "Cel mai înalt punct este vârful Bihorul la 1849 m", "Adăpostește peste 1500 de peșteri inventariate", "Prezența unor carnivore mari precum ursul brun", "Meșteșugul tradițional al ciubăritului practicat de moți"],
+      en: ["National park established in the year 2000", "Total area of approximately 76,064 hectares", "Highest point is Bihor Peak at 1849 meters", "Home to over 1500 registered caves", "Habitants include brown bears and wolves", "Traditional woodcrafting by the local Motzi people"],
+    },
   },
   {
     id: "nature-mocanita-vaser", type: "landmark", parent: "RO-MM", coords: [24.44, 47.72],
@@ -2648,6 +3519,19 @@ export const romaniaNature: POI[] = [
     description: { de: "Schmalspurige Waldbahn in den Karpaten.", hu: "Keskenynyomtávú erdei vasút a Kárpátokban.", ro: "Cale ferată forestieră cu ecartament îngust din Maramureș.", en: "Narrow-gauge forest railway in the Carpathians." },
     facts: { de: ["Erbaut 1932.", "Letzte mit Dampf betriebene Waldbahn Europas.", "Touristische Attraktion."], hu: ["1932-ben épült.", "Európa utolsó gőzvontatású erdei vasútja.", "Turisztikai látványosság."], ro: ["Construită în 1932.", "Ultima cale ferată forestieră cu abur din Europa.", "Atracție turistică majoră."], en: ["Built in 1932.", "Europe's last steam-powered forest railway.", "Major tourist attraction."] },
     image: "/geo-images/romania/nature-mocanita-vaser.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Wassertalbahn im Kreis Maramureș ist die letzte aktive Waldbahn Rumäniens, die regelmäßig mit Dampflokomotiven betrieben wird. Die Strecke führt über 60 Kilometer durch das unwegsame Tal des Flusses Vaser bis nahe an die ukrainische Grenze. Ursprünglich für den Holztransport gebaut, dient sie heute als bedeutendes technisches Denkmal und touristische Attraktion.",
+      hu: "A Máramaros megyei Vasér-völgyi kisvasút Románia utolsó működő erdészeti vasútja, ahol rendszeresen közlekednek gőzmozdonyok. A pálya több mint 60 kilométer hosszan kanyarog a Vasér folyó vadregényes völgyében az ukrán határ felé. Az eredetileg faanyagszállításra épült vonal ma technikai műemlékként és népszerű turisztikai célpontként üzemel.",
+      ro: "Mocănița de pe Valea Vaserului din județul Maramureș este ultima cale ferată forestieră activă din România pe care circulă locomotive cu abur. Traseul șerpuiește pe o distanță de peste 60 de kilometri prin valea sălbatică a râului Vaser, până aproape de granița cu Ucraina. Construită inițial pentru transportul lemnului, linia este astăzi un monument tehnic de importanță majoră.",
+      en: "The Vaser Valley Railway in Maramureș County is Romania's last active forestry railway regularly operated by steam locomotives. The line winds for over 60 kilometers through the rugged Vaser River valley toward the Ukrainian border. Originally built for timber transport, the railway now serves as a significant technical monument and a major tourist attraction.",
+    },
+    factsAdvanced: {
+      de: ["Baubeginn der Bahnlinie im Jahr 1932", "Spurweite beträgt 760 Millimeter", "Streckenlänge bis zum Grenzpunkt Comanu ca. 60 km", "Einsatz von historischen Dampflokomotiven (Resita)", "Holztransport erfolgt noch teilweise auf Schienen", "Höhenunterschied von Vișeu bis Comanu ca. 450 m"],
+      hu: ["A vasútvonal építése 1932-ben kezdődött", "A nyomtávolság 760 milliméter", "A vonal hossza Comanu határpontig kb. 60 km", "Történelmi Resica gőzmozdonyok használata", "A fát ma is részben vasúton szállítják", "Szintkülönbség Felsővisó és Comanu között kb. 450 m"],
+      ro: ["Construcția liniei a început în anul 1932", "Ecartamentul căii ferate este de 760 mm", "Lungimea traseului până la Comanu este de cca. 60 km", "Utilizarea locomotivelor cu abur de tip Reșița", "Transportul lemnului se face încă parțial pe șine", "Diferență de nivel de cca. 450 m între Vișeu și Comanu"],
+      en: ["Construction of the line began in 1932", "Track gauge is 760 millimeters", "Route length to Comanu point is about 60 km", "Operated by historic Resita steam locomotives", "Timber is still partially transported by rail", "Elevation gain of approx. 450 m from Vișeu to Comanu"],
+    },
   },
   {
     id: "nature-padurea-verde", type: "landmark", parent: "RO-TM", coords: [21.26, 45.78],
@@ -2655,6 +3539,19 @@ export const romaniaNature: POI[] = [
     description: { de: "Wald- und Erholungsgebiet am Rande von Temeswar.", hu: "Erdő és pihenőövezet Temesvár szélén.", ro: "Zonă forestieră și de agrement la marginea Timișoarei.", en: "Forest and recreation area on the outskirts of Timișoara." },
     facts: { de: ["Beherbergt den Zoo von Timișoara.", "Historisches Jagdrevier.", "Naturlehrpfade."], hu: ["Itt található a temesvári állatkert.", "Történelmi vadászterület.", "Tanösvények."], ro: ["Găzduiește Grădina Zoologică.", "Fost domeniu de vânătoare.", "Trasee pentru biciclete."], en: ["Home to the Timișoara Zoo.", "Former hunting ground.", "Bike and walking trails."] },
     image: "/geo-images/romania/nature-padurea-verde.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Grüne Wald (Pădurea Verde) liegt am nordöstlichen Rand von Timișoara und ist das wichtigste Naherholungsgebiet der Stadt. Mit einer Fläche von etwa 724 Hektar bietet der Laubmischwald Raum für Spaziergänge, Radfahren und Naturbeobachtungen. Inmitten des Waldes befinden sich der städtische Zoo sowie das Banater Dorfmuseum, das die regionale Architektur präsentiert.",
+      hu: "A Temesvár északkeleti szélén elterülő Vadászerdő (Pădurea Verde) a város legfontosabb kikapcsolódási övezete. A mintegy 724 hektáros lombhullató erdő kiváló helyszínt biztosít sétákhoz, kerékpározáshoz és madármegfigyeléshez. Az erdő területén található a városi állatkert, valamint a Bánsági Falumúzeum, amely a régió népi építészetét mutatja be.",
+      ro: "Pădurea Verde, situată la marginea de nord-est a Timișoarei, reprezintă principala zonă de agrement și plămânul verde al orașului. Cu o suprafață de aproximativ 724 de hectare, pădurea de foioase oferă spații pentru plimbări, ciclism și observarea faunei locale. În interiorul său se află Grădina Zoologică și Muzeul Satului Bănățean, obiective culturale majore.",
+      en: "The Green Forest (Pădurea Verde), located on the northeastern edge of Timișoara, is the city's most important recreational area. Spanning approximately 724 hectares, this deciduous forest provides space for walking, cycling, and nature observation. The forest also houses the city zoo and the Banat Village Museum, which showcases regional folk architecture.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von ca. 724 Hektar", "Früher als kaiserliches Jagdrevier genutzt", "Dominierende Baumarten sind Eiche und Esche", "Beherbergt das Banater Dorfmuseum seit 1971", "Standort des Zoos von Timișoara", "Beliebtes Ziel für Mountainbike-Touren"],
+      hu: ["Területe körülbelül 724 hektár", "Korábban császári vadászterületként szolgált", "Domináns fafajok a tölgy és a kőris", "1971 óta ad otthont a Bánsági Falumúzeumnak", "Itt található a temesvári állatkert", "Népszerű célpont a hegyikerékpárosok körében"],
+      ro: ["Suprafață de aproximativ 724 de hectare", "Utilizată în trecut ca domeniu imperial de vânătoare", "Speciile dominante sunt stejarul și frasinul", "Găzduiește Muzeul Satului Bănățean din 1971", "Locația Grădinii Zoologice din Timișoara", "Destinație populară pentru trasee de mountain bike"],
+      en: ["Covers an area of about 724 hectares", "Formerly used as an imperial hunting ground", "Dominant tree species are oak and ash", "Home to the Banat Village Museum since 1971", "Location of the Timișoara Zoological Garden", "Popular destination for mountain bike trails"],
+    },
   },
   {
     id: "nature-scarisoara", type: "landmark", parent: "RO-AB", coords: [22.81, 46.48],
@@ -2662,6 +3559,19 @@ export const romaniaNature: POI[] = [
     description: { de: "Eine der größten Eishöhlen der Welt in den Apuseni-Bergen.", hu: "A világ egyik legnagyobb jégbarlangja az Erdélyi-szigethegységben.", ro: "Unul dintre cei mai mari ghețari subterani din lume.", en: "One of the world's largest underground glaciers in the Apuseni Mountains." },
     facts: { de: ["Eisvolumen ~100.000 m³.", "Eis ist über 3.500 Jahre alt.", "Höhe 1.165 m."], hu: ["Jégtömege kb. 100 000 m³.", "A jég több mint 3500 éves.", "1165 m magasságban."], ro: ["Volum de gheață de 100.000 m³.", "Gheață veche de peste 3.500 de ani.", "Altitudine 1.165 m."], en: ["Ice volume ~100,000 m³.", "Ice is over 3,500 years old.", "Elevation 1,165 m."] },
     image: "/geo-images/romania/nature-scarisoara.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Eishöhle von Scărișoara im Bihor-Gebirge beherbergt den zweitgrößten unterirdischen Gletscher Europas. Der Zugang erfolgt über einen 48 Meter tiefen Schacht, an dessen Boden sich ein riesiger Eisblock mit einem Volumen von über 100.000 Kubikmetern befindet. Die Temperatur im Inneren bleibt das ganze Jahr über nahe dem Gefrierpunkt, was den Erhalt des jahrtausendealten Eises ermöglicht.",
+      hu: "A Bihar-hegységben található Szkerisórai-jégbarlang Európa második legnagyobb föld alatti gleccserét őrzi. A barlangba egy 48 méter mély aknán keresztül vezet az út, amelynek alján egy több mint 100 000 köbméteres jégtömb terül el. A belső hőmérséklet egész évben fagypont körül marad, lehetővé téve a több ezer éves jégrétegek fennmaradását.",
+      ro: "Peștera Scărișoara, situată în Munții Bihor, adăpostește al doilea cel mai mare ghețar subteran din Europa. Accesul se face printr-un aven de 48 de metri adâncime, la baza căruia se află un bloc de gheață cu un volum de peste 100.000 de metri cubi. Temperatura interioară se menține aproape de 0 grade Celsius tot anul, conservând gheața veche de milenii.",
+      en: "Scărișoara Ice Cave in the Bihor Mountains houses Europe's second-largest underground glacier. Access is through a 48-meter deep shaft, leading to a massive ice block with a volume exceeding 100,000 cubic meters. The internal temperature remains near freezing year-round, enabling the preservation of ice layers that are thousands of years old.",
+    },
+    factsAdvanced: {
+      de: ["Höhenlage von ca. 1165 m über dem Meeresspiegel", "Eisvolumen wird auf ca. 120.000 Kubikmeter geschätzt", "Das älteste Eis ist über 4000 Jahre alt", "Tiefe des Zugangsschachts beträgt 48 Meter", "Gesamtlänge der Höhle beträgt etwa 720 Meter", "Wurde 1863 von Adolf Schmidl erstmals beschrieben"],
+      hu: ["Tengerszint feletti magassága kb. 1165 m", "A jég térfogatát 120 000 köbméterre becsülik", "A legidősebb jégrétegek több mint 4000 évesek", "A bejárati akna mélysége 48 méter", "A barlang teljes hossza körülbelül 720 méter", "Először Adolf Schmidl írta le 1863-ban"],
+      ro: ["Altitudinea de cca. 1165 m deasupra mării", "Volumul de gheață estimat la cca. 120.000 mc", "Cea mai veche gheață are peste 4000 de ani", "Adâncimea avenului de acces este de 48 metri", "Lungimea totală a peșterii este de cca. 720 m", "Descrisă pentru prima dată de Adolf Schmidl în 1863"],
+      en: ["Altitude of approx. 1165 m above sea level", "Ice volume estimated at about 120,000 cubic meters", "The oldest ice layers are over 4000 years old", "Entrance shaft depth is 48 meters", "Total length of the cave is around 720 meters", "First described by Adolf Schmidl in 1863"],
+    },
   },
   {
     id: "nature-sapte-scari", type: "landmark", parent: "RO-BV", coords: [25.64, 45.56],
@@ -2669,6 +3579,19 @@ export const romaniaNature: POI[] = [
     description: { de: "Enger Canyon mit sieben Wasserfällen im Piatra-Mare-Massiv.", hu: "Szűk szurdok hét vízeséssel a Nagykőhavasban.", ro: "Defileu îngust cu șapte cascade în Masivul Piatra Mare.", en: "Narrow canyon with seven waterfalls in the Piatra Mare Massif." },
     facts: { de: ["Über Leitern passierbar.", "Länge 160 m.", "Höhendifferenz 58 m."], hu: ["Létrákon járható végig.", "Hossza 160 m.", "Szintkülönbség 58 m."], ro: ["Amenajat cu scări metalice.", "Lungime 160 m.", "Diferență de nivel 58 m."], en: ["Traversed via metal ladders.", "Length 160 m.", "Vertical drop 58 m."] },
     image: "/geo-images/romania/nature-sapte-scari.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Sieben-Leitern-Klamm (Canionul Șapte Scări) befindet sich im Piatra-Mare-Massiv nahe Brașov. Die Schlucht wurde durch den Șapte-Scări-Bach in den Kalkstein gegraben und zeichnet sich durch sieben aufeinanderfolgende Wasserfälle aus. Besucher überwinden die steilen Felswände mithilfe von Metallleitern und Plattformen, die einen spektakulären Einblick in die geologische Struktur bieten.",
+      hu: "A Hétlépcső-vízesés (Canionul Șapte Scări) a Nagykő-havas hegységben, Brassó közelében található. A szurdokot a Hétlépcső-patak vájta a mészkőbe, jellegzetessége a hét egymást követő vízesés. A látogatók fém létrák és platformok segítségével jutnak át a meredek sziklafalakon, amelyek lenyűgöző betekintést nyújtanak a hegység geológiai szerkezetébe.",
+      ro: "Canionul Șapte Scări este situat în Masivul Piatra Mare, în apropiere de Brașov. Defileul a fost săpat în calcare jurasice de pârâul Șapte Scări și se remarcă prin cele șapte căderi de apă succesive. Vizitatorii traversează canionul cu ajutorul unor scări și platforme metalice, care oferă o perspectivă spectaculoasă asupra pereților verticali.",
+      en: "The Seven Ladders Canyon (Canionul Șapte Scări) is located in the Piatra Mare Massif near Brașov. Carved into limestone by the Seven Ladders Creek, the canyon features seven successive waterfalls. Visitors navigate the steep rock walls using metal ladders and platforms, offering a spectacular view of the canyon's geological formations.",
+    },
+    factsAdvanced: {
+      de: ["Länge der Schlucht beträgt ca. 160 Meter", "Höhenunterschied liegt bei etwa 58 Metern", "Höchste Leiter ist ca. 15 Meter lang", "Befindet sich auf einer Höhe von ca. 950 m", "Komplette Renovierung der Leitern im Jahr 2013", "Längste Zip-Line-Anlage Rumäniens beginnt in der Nähe"],
+      hu: ["A szurdok hossza körülbelül 160 méter", "A szintkülönbség mintegy 58 méter", "A leghosszabb létra kb. 15 méter magas", "Körülbelül 950 méteres magasságban található", "A létrák teljes felújítása 2013-ban történt", "Románia leghosszabb kötélpályája (zip-line) a közelben"],
+      ro: ["Lungimea canionului este de cca. 160 metri", "Diferența de nivel este de aproximativ 58 metri", "Cea mai înaltă scară are cca. 15 metri", "Situat la o altitudine de aproximativ 950 m", "Renovarea completă a scărilor în anul 2013", "Cea mai lungă tiroliană din România pornește în apropiere"],
+      en: ["Length of the canyon is approx. 160 meters", "Elevation gain is about 58 meters", "The tallest ladder is around 15 meters high", "Located at an altitude of approx. 950 meters", "Complete renovation of the ladders in 2013", "Romania longest zip-line system starts nearby"],
+    },
   },
   {
     id: "nature-letea-forest", type: "landmark", parent: "RO-TL", coords: [29.52, 45.34],
@@ -2676,6 +3599,19 @@ export const romaniaNature: POI[] = [
     description: { de: "Nördlichster subtropischer Wald Europas im Donaudelta.", hu: "Európa legészakibb szubtrópusi erdeje a Duna-deltában.", ro: "Cea mai veche rezervație naturală din România, în Delta Dunării.", en: "Europe's northernmost subtropical forest, located in the Danube Delta." },
     facts: { de: ["Berühmt für Wildpferde.", "Sanddünen und Lianen.", "UNESCO-Schutz."], hu: ["Híres a vadlovairól.", "Homokdűnék és liánok.", "UNESCO-védelem."], ro: ["Faimoasă pentru caii sălbatici.", "Dune de nisip și liane.", "Protejată UNESCO."], en: ["Famous for wild horses.", "Sand dunes and lianas.", "UNESCO protected."] },
     image: "/geo-images/romania/nature-letea-forest.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Letea-Wald im Donaudelta ist das nördlichste subtropische Waldgebiet Europas und das älteste Naturreservat Rumäniens. Der Wald wächst in den Senken zwischen hohen Sanddünen und besteht aus Eichen, Eschen und wilden Lianen. Bekannt ist das Gebiet auch für seine Population von Wildpferden, die in der halbwüstenartigen Landschaft der Letea-Sandbank leben.",
+      hu: "A Duna-deltában található Letea-erdő Európa legészakibb szubtrópusi jellegű erdője és Románia legrégebbi természetvédelmi területe. Az erdő a magas homokdűnék közötti völgyekben nő, tölgyekből, kőrisekből és vadon növő folyondárokból áll. A terület híres a vadlovairól is, amelyek a Letea-homokpad félsivatagos tájain szabadon élnek.",
+      ro: "Pădurea Letea din Delta Dunării este cea mai nordică pădure subtropicală din Europa și cea mai veche rezervație naturală din România. Pădurea crește în fâșii printre dune de nisip înalte și este compusă din stejari, frasini și liane sălbatice. Zona este renumită pentru populația de cai sălbatici care trăiește liber pe grindul Letea.",
+      en: "Letea Forest in the Danube Delta is Europe's northernmost subtropical-style forest and Romania's oldest nature reserve. Growing in strips between high sand dunes, the forest consists of oaks, ashes, and wild climbing vines. The area is also famous for its population of wild horses that roam freely across the semi-desert landscape of the Letea sandbank.",
+    },
+    factsAdvanced: {
+      de: ["Gründung als Schutzgebiet im Jahr 1938", "Fläche des Reservats beträgt ca. 2825 Hektar", "Beherbergt über 300 Jahre alte Eichen", "Einziges Vorkommen der griechischen Landschildkröte im Delta", "Vorkommen von Seeadlern und Wiedehopfen", "Sanddünen erreichen Höhen von bis zu 15 Metern"],
+      hu: ["Természetvédelmi területté nyilvánítás 1938-ban", "A rezervátum területe kb. 2825 hektár", "Több mint 300 éves tölgyfák otthona", "A görög teknős egyetlen deltai előfordulási helye", "Rétisasok és búbos bankák fészkelőhelye", "A homokdűnék magassága elérheti a 15 métert"],
+      ro: ["Declarată rezervație naturală în anul 1938", "Suprafața rezervației este de cca. 2825 hectare", "Adăpostește stejari cu vârste de peste 300 de ani", "Singurul loc din Deltă unde trăiește țestoasa de uscat", "Prezența vulturului codalb și a pupezei", "Dunele de nisip ating înălțimi de până la 15 metri"],
+      en: ["Established as a reserve in 1938", "Total reserve area of approx. 2825 hectares", "Home to oak trees over 300 years old", "Only delta location for the Greek tortoise", "Habitat for white-tailed eagles and hoopoes", "Sand dunes reach heights of up to 15 meters"],
+    },
   },
   {
     id: "nature-calimani-np", type: "mountain", parent: "RO", coords: [25.2, 47.1],
@@ -2683,6 +3619,19 @@ export const romaniaNature: POI[] = [
     description: { de: "Vulkanisches Gebirge mit bizarren Felsformationen.", hu: "Vulkáni eredetű hegység bizarr sziklaalakzatokkal.", ro: "Munți vulcanici cu formațiuni stâncoase spectaculoase.", en: "Volcanic mountains with bizarre rock formations." },
     facts: { de: ["Höchster Vulkankrater Rumäniens.", "Die \"12 Apostel\" Felsen.", "Pietrosu-Gipfel 2.100 m."], hu: ["Románia legnagyobb vulkáni krátere.", "A \"12 apostol\" sziklák.", "Pietrosu-csúcs 2100 m."], ro: ["Cel mai mare crater vulcanic stins.", "Stâncile \"12 Apostoli\".", "Vf. Pietrosu 2.100 m."], en: ["Largest extinct volcanic crater.", "The \"12 Apostles\" rocks.", "Pietrosu peak 2,100 m."] },
     image: "/geo-images/romania/nature-calimani-np.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Nationalpark Călimani schützt das größte Vulkanmassiv Rumäniens in den Ostkarpaten. Das Gebiet zeichnet sich durch einen gewaltigen Vulkankrater mit einem Durchmesser von etwa 10 Kilometern aus. Zu den markantesten Naturdenkmälern gehören die bizarren Felsformationen der Zwölf Apostel sowie weite subalpine Wiesen und dichte Zirbelkiefernwälder.",
+      hu: "A Keleti-Kárpátokban fekvő Kelemen-havasok Nemzeti Park Románia legnagyobb vulkáni tömbjét oltalmazza. A terület jellegzetessége a hatalmas, körülbelül 10 kilométer átmérőjű vulkáni kráter. A leglátványosabb természeti műemlékek közé tartoznak a Tizenkét Apostol bizarr sziklaalakzatai, valamint a kiterjedt szubalpin legelők és cirbolyafenyvesek.",
+      ro: "Parcul Național Călimani protejează cel mai mare masiv vulcanic din România, situat în Carpații Orientali. Zona este definită de o calderă vulcanică uriașă, cu un diametru de aproximativ 10 kilometri. Printre cele mai cunoscute monumente ale naturii se numără formațiunile stâncoase Doisprezece Apostoli și pădurile de jneapăn și zâmbru.",
+      en: "The Călimani National Park protects Romania's largest volcanic massif, located in the Eastern Carpathians. The area is defined by a massive volcanic crater with a diameter of approximately 10 kilometers. Notable natural landmarks include the bizarre rock formations of the Twelve Apostles, along with vast subalpine meadows and Swiss pine forests.",
+    },
+    factsAdvanced: {
+      de: ["Gründung des Nationalparks im Jahr 2000", "Fläche beträgt etwa 24.566 Hektar", "Höchster Gipfel ist Pietrosul Călimanilor mit 2100 m", "Durchmesser der Caldera beträgt ca. 10 km", "Vorkommen seltener Zirbelkiefern (Pinus cembra)", "Bizarre Felsformationen im Gebiet der 12 Apostel"],
+      hu: ["A nemzeti parkot 2000-ben alapították", "Területe körülbelül 24 566 hektár", "Legmagasabb csúcsa a Kelemen-Pietrosz, 2100 m", "A vulkáni kaldera átmérője kb. 10 km", "Ritka cirbolyafenyő-állomány (Pinus cembra)", "Bizarr sziklaalakzatok a Tizenkét Apostolnál"],
+      ro: ["Parcul național înființat în anul 2000", "Suprafața este de aproximativ 24.566 hectare", "Cel mai înalt vârf este Pietrosul Călimanilor la 2100 m", "Caldera vulcanică are un diametru de cca. 10 km", "Prezența zâmbrului (Pinus cembra), specie rară", "Formațiuni de stânci bizare în zona 12 Apostoli"],
+      en: ["National park established in 2000", "Area covers approximately 24,566 hectares", "Highest peak is Pietrosul Călimanilor at 2100 m", "Volcanic caldera diameter is about 10 km", "Home to rare Swiss pine (Pinus cembra)", "Bizarre rock formations in the 12 Apostles area"],
+    },
   },
   {
     id: "nature-domogled-np", type: "mountain", parent: "RO", coords: [22.6, 45.1],
@@ -2690,6 +3639,19 @@ export const romaniaNature: POI[] = [
     description: { de: "Größter Nationalpark Rumäniens im Cerna-Tal.", hu: "Románia legnagyobb nemzeti parkja a Cserna-völgyben.", ro: "Cel mai mare parc național din România.", en: "Romania's largest national park, located in the Cerna Valley." },
     facts: { de: ["Endemische Schwarzkiefer.", "Reiche Schmetterlingsfauna.", "Steile Kalkwände."], hu: ["Bánáti feketefenyő.", "Gazdag lepkefauna.", "Meredek mészkőfalak."], ro: ["Pinul negru de Banat.", "Cea mai bogată faună de fluturi.", "Abrupturi calcaroase."], en: ["Endemic Banat black pine.", "Richest butterfly fauna.", "Steep limestone cliffs."] },
     image: "/geo-images/romania/nature-domogled-np.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Nationalpark Domogled-Valea Cernei ist das größte Naturschutzgebiet Rumäniens und erstreckt sich über das Cerna-Tal. Die Region ist bekannt für ihre außergewöhnliche Artenvielfalt, steile Kalksteinwände und Thermalquellen. Das milde, submediterran beeinflusste Klima begünstigt das Wachstum seltener Pflanzen wie der Banater Schwarzkiefer und bietet Lebensraum für zahlreiche Schmetterlingsarten.",
+      hu: "A Domogled-Cserna-völgy Nemzeti Park Románia legnagyobb természetvédelmi területe, amely a Cserna folyó völgyében húzódik. A régió híres rendkívüli biológiai sokféleségéről, meredek mészkőfalairól és termálforrásairól. Az enyhe, szubmediterrán hatású éghajlat kedvez az olyan ritka növényeknek, mint a bánsági feketefenyő, és számos lepkefajnak ad otthont.",
+      ro: "Parcul Național Domogled-Valea Cernei este cea mai mare arie protejată din România, întinzându-se de-a lungul bazinului râului Cerna. Regiunea este celebră pentru biodiversitatea excepțională, pereții calcaroși abrupți și izvoarele termale. Climatul cu influențe submediteraneene favorizează prezența pinului negru de Banat și a unei mari varietăți de fluturi.",
+      en: "The Domogled-Valea Cernei National Park is Romania's largest protected area, extending along the Cerna River valley. The region is famous for its exceptional biodiversity, steep limestone cliffs, and thermal springs. The mild, sub-Mediterranean influenced climate favors rare plants like the Banat Black Pine and supports a vast array of butterfly species.",
+    },
+    factsAdvanced: {
+      de: ["Größter Nationalpark Rumäniens (ca. 61.211 ha)", "Beherbergt über 1500 Schmetterlingsarten", "Vorkommen der endemischen Banater Schwarzkiefer", "Enthält die tiefste Höhle Rumäniens (Peștera Mare)", "Zahlreiche Thermalquellen im Cerna-Tal", "UNESCO-Weltnaturerbe seit 2017 (Buchenurwälder)"],
+      hu: ["Románia legnagyobb nemzeti parkja (kb. 61 211 ha)", "Több mint 1500 lepkefaj él itt", "A bennszülött bánsági feketefenyő otthona", "Itt található Románia legmélyebb barlangja", "Számos termálforrás a Cserna-völgyben", "UNESCO világörökség 2017 óta (ősbükkösök)"],
+      ro: ["Cel mai mare parc național (cca. 61.211 ha)", "Adăpostește peste 1500 de specii de fluturi", "Prezența pinului negru de Banat, specie endemică", "Include Peștera Mare de la Merești", "Numeroase izvoare termominerale pe Valea Cernei", "Sit UNESCO din 2017 pentru pădurile de fag"],
+      en: ["Largest national park in Romania (approx. 61,211 ha)", "Home to over 1500 butterfly species", "Habitat of the endemic Banat Black Pine", "Contains the deepest cave in Romania", "Numerous thermal springs along the Cerna Valley", "UNESCO World Heritage site since 2017 (beech forests)"],
+    },
   },
   {
     id: "nature-macin-mountains", type: "mountain", parent: "RO", coords: [28.3, 45.2],
@@ -2697,6 +3659,19 @@ export const romaniaNature: POI[] = [
     description: { de: "Čltestes Gebirge Rumäniens in der Dobrudscha.", hu: "Románia legrégebbi hegysége Dobrudzsában.", ro: "Cei mai vechi munți din România, situați în Dobrogea.", en: "Oldest mountains in Romania, located in Dobruja." },
     facts: { de: ["Hercynische Gebirgsbildung.", "Höhe bis 467 m.", "Steppenartige Landschaft."], hu: ["Hercyniai hegységképződés.", "Magasság 467 m-ig.", "Sztyeppszerű táj."], ro: ["Formați în orogeneza hercinică.", "Altitudine max. 467 m.", "Biodiversitate de stepă."], en: ["Formed during Hercynian orogeny.", "Elevation up to 467 m.", "Steppe-like biodiversity."] },
     image: "/geo-images/romania/nature-macin-mountains.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Măcin-Gebirge in der Dobrudscha ist das älteste Gebirge Rumäniens, entstanden während der herzynischen Gebirgsbildung vor über 300 Millionen Jahren. Trotz ihrer geringen Höhe beeindrucken die Berge durch steile Granitfelsen und eine einzigartige Flora und Fauna an der Schnittstelle zwischen Steppe und Wald. Das Gebiet ist ein bedeutender Korridor für den herbstlichen Vogelzug.",
+      hu: "A Dobrudzsában található Mácin-hegység Románia legidősebb hegysége, amely a herciniai hegységképződés során keletkezett több mint 300 millió évvel ezelőtt. Alacsony magassága ellenére meredek gránitsziklái és a sztyeppei, valamint erdei fajok találkozásából adódó egyedülálló élővilága lenyűgöző. A terület a madárvonulás egyik fontos útvonala.",
+      ro: "Munții Măcin din Dobrogea reprezintă cea mai veche unitate montană din România, formați în timpul orogenezei hercinice acum peste 300 de milioane de ani. Deși au înălțimi reduse, impresionează prin crestele granitice semipețoase și biodiversitatea unică, fiind un punct de întâlnire pentru specii stepice și pontice. Sunt un coridor major pentru migrația păsărilor.",
+      en: "The Măcin Mountains in Dobrogea are the oldest in Romania, formed during the Hercynian orogeny over 300 million years ago. Despite their low elevation, they impress with steep granite ridges and a unique biodiversity at the junction of steppe and forest habitats. The area serves as a major corridor for bird migration during autumn.",
+    },
+    factsAdvanced: {
+      de: ["Ältestes Gebirge Rumäniens (Hercynische Orogenese)", "Höchster Gipfel ist der Țuțuiatu mit 467 m", "Alter der Gesteine über 300 Millionen Jahre", "Beherbergt die seltene Maurische Landschildkröte", "Vorkommen von über 180 Vogelarten", "Schnittpunkt verschiedener klimatischer Zonen"],
+      hu: ["Románia legidősebb hegysége (herciniai orogenezis)", "Legmagasabb csúcsa a Țuțuiatu, 467 méter", "A kőzetek kora meghaladja a 300 millió évet", "A ritka mór teknős élőhelye", "Több mint 180 madárfaj fordul elő itt", "Különböző éghajlati zónák találkozási pontja"],
+      ro: ["Cei mai vechi munți din România (orogeneza hercinică)", "Cel mai înalt vârf este Țuțuiatu la 467 m", "Vârsta rocilor depășește 300 de milioane de ani", "Adăpostește țestoasa dobrogeană (Testudo graeca)", "Peste 180 de specii de păsări identificate", "Punct de confluență a mai multor zone climatice"],
+      en: ["Oldest mountains in Romania (Hercynian orogeny)", "Highest peak is Țuțuiatu at 467 meters", "Rock age exceeds 300 million years", "Habitat of the Spur-thighed tortoise (Testudo graeca)", "Home to over 180 bird species", "Intersection of multiple climatic zones"],
+    },
   },
   {
     id: "nature-vadu-crisului", type: "landmark", parent: "RO-BH", coords: [22.51, 46.97],
@@ -2704,6 +3679,19 @@ export const romaniaNature: POI[] = [
     description: { de: "Wasserfall in einer spektakulären Kalksteinschlucht.", hu: "Vízesés egy látványos mészkőszurdokban.", ro: "Cascadă spectaculoasă într-un defileu calcaros.", en: "Spectacular waterfall in a limestone gorge." },
     facts: { de: ["Nahe einer Schauhöhle.", "Am Fluss Crișul Repede.", "Leicht mit dem Zug erreichbar."], hu: ["Egy látogatható barlang közelében.", "A Sebes-Körös partján.", "Vonattal könnyen megközelíthető."], ro: ["Lângă peștera omonimă.", "Pe malul Crișului Repede.", "Accesibil ușor cu trenul."], en: ["Near a show cave.", "On the banks of Crișul Repede.", "Easily accessible by train."] },
     image: "/geo-images/romania/nature-vadu-crisului.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Wasserfall Vadu Crișului befindet sich im Crișul-Repede-Durchbruchstal im Pădurea-Craiului-Gebirge. Das Wasser stürzt aus dem Ausgang der gleichnamigen Höhle etwa 9 Meter tief über eine Tuffsteinterrasse direkt in den Fluss Schnelle Kreisch. Der Wasserfall ist sowohl mit dem Zug als auch über Wanderwege erreichbar und stellt ein bedeutendes geologisches Denkmal der Region dar.",
+      hu: "A Rév-vízesés (Vadu Crișului) a Sebes-Körös áttörési völgyében, a Királyerdő-hegységben található. A víz a hasonló nevű barlang kijáratából zúdul alá körülbelül 9 méter magasságból egy mésztufa teraszon keresztül közvetlenül a folyóba. A vízesés vonattal és gyalogosan is megközelíthető, és a régió egyik legfontosabb geológiai műemléke.",
+      ro: "Cascada Vadu Crișului este situată în defileul Crișului Repede, în Munții Pădurea Craiului. Apa țâșnește din gura peșterii omonime și cade de la o înălțime de aproximativ 9 metri peste un prag de travertin, vărsându-se direct în râu. Cascada este accesibilă pe calea ferată sau pe poteci turistice, fiind un monument al naturii reprezentativ.",
+      en: "The Vadu Crișului Waterfall is located in the Crișul Repede defile within the Pădurea Craiului Mountains. Water emerges from the cave of the same name and drops about 9 meters over a travertine terrace directly into the river. Accessible by train or hiking trails, the waterfall is a significant natural monument of the region.",
+    },
+    factsAdvanced: {
+      de: ["Fallhöhe beträgt etwa 9 Meter", "Wasser stammt aus der Vadu-Crișului-Höhle", "Mündet direkt in den Fluss Crișul Repede", "Entstand durch die Ablagerung von Kalktuff", "Befindet sich in einem Naturschutzgebiet", "Erreichbar über die Bahnstrecke Oradea-Cluj"],
+      hu: ["A vízesés magassága körülbelül 9 méter", "Vize a Rév-barlangból származik", "Közvetlenül a Sebes-Körös folyóba ömlik", "Mésztufa lerakódása révén jött létre", "Természetvédelmi területen található", "A Nagyvárad-Kolozsvár vasútvonalon elérhető"],
+      ro: ["Înălțimea căderii de apă este de cca. 9 metri", "Apa provine din Peștera Vadu Crișului", "Se varsă direct în râul Crișul Repede", "Formată prin depunerea de tuf calcaros (travertin)", "Situată într-o arie naturală protejată", "Accesibilă via magistrala feroviară Oradea-Cluj"],
+      en: ["Height of the waterfall is approx. 9 meters", "Water source is the Vadu Crișului Cave", "Flows directly into the Crișul Repede River", "Formed by the deposition of limestone tuff", "Located within a natural protected area", "Accessible via the Oradea-Cluj railway line"],
+    },
   },
   {
     id: "nature-ponor-fortresses", type: "landmark", parent: "RO-BH", coords: [22.7, 46.56],
@@ -2711,6 +3699,19 @@ export const romaniaNature: POI[] = [
     description: { de: "Größtes Karstphänomen Rumäniens.", hu: "Románia legnagyobb karsztjelensége.", ro: "Cel mai mare complex carstic din România.", en: "The largest karst complex in Romania." },
     facts: { de: ["Drei riesige Felstrichter.", "74 m hohes Naturtor.", "Unterirdischer Fluss."], hu: ["Három hatalmas víznyelő.", "74 m magas természetes kapu.", "Földalatti folyó."], ro: ["Trei doline uriașe.", "Portal înalt de 74 m.", "Râu subteran."], en: ["Three giant sinkholes.", "74-m high natural portal.", "Underground river."] },
     image: "/geo-images/romania/nature-ponor-fortresses.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Ponor-Festungen (Cetățile Ponorului) im Bihor-Gebirge sind der größte Karstkomplex Rumäniens. Das Monument besteht aus drei riesigen Felshöfen und einem gewaltigen Naturportal von über 70 Metern Höhe. Ein unterirdischer Fluss durchquert das System und bildet zahlreiche Wasserfälle und Seen, was diesen Ort zu einem der spektakulärsten Ziele für Höhlenwanderer in Europa macht.",
+      hu: "A Bihar-hegységben található Ponor-várak (Cetățile Ponorului) Románia legnagyobb karsztkomplexuma. A természetvédelmi terület három hatalmas sziklaudvarból és egy több mint 70 méter magas monumentális természetes kapuból áll. Egy föld alatti folyó szeli át a rendszert, számos vízesést és tavat alkotva, így Európa egyik leglátványosabb karsztvidéke.",
+      ro: "Cetățile Ponorului, situate în Munții Bihor, reprezintă cel mai mare complex carstic din România. Monumentul este format din trei mari cercuri de stâncă (doline) și un portal natural grandios, înalt de peste 70 de metri. Un râu subteran străbate sistemul, formând cascade și lacuri, fiind una dintre cele mai impresionante structuri geologice din Europa.",
+      en: "The Ponor Fortresses (Cetățile Ponorului) in the Bihor Mountains are the largest karst complex in Romania. The natural monument consists of three massive rocky circles and a grand natural portal over 70 meters high. An underground river traverses the system, creating numerous waterfalls and lakes, making it one of Europe's most spectacular karst landscapes.",
+    },
+    factsAdvanced: {
+      de: ["Höhe des Hauptportals beträgt ca. 74 Meter", "Besteht aus 3 großen Dolinen (Felskesseln)", "Unterirdischer Flusslauf mit einer Länge von 2 km", "Höhenunterschied im System beträgt ca. 160 m", "Erstmals 1886 wissenschaftlich beschrieben", "Teil der geschützten Zone des Naturparks Apuseni"],
+      hu: ["A főkapu magassága körülbelül 74 méter", "Három hatalmas sziklakatlanból (dolinából) áll", "A föld alatti folyó hossza kb. 2 km", "A rendszer szintkülönbsége kb. 160 méter", "Először 1886-ban írták le tudományosan", "Az Erdélyi-szigethegység Natúrpark része"],
+      ro: ["Înălțimea portalului principal este de cca. 74 m", "Compus din 3 doline gigantice", "Cursul râului subteran are o lungime de 2 km", "Diferența de nivel în sistem este de cca. 160 m", "Descrisă științific pentru prima dată în 1886", "Parte a zonei protejate din Parcul Natural Apuseni"],
+      en: ["Height of the main portal is approx. 74 meters", "Consists of 3 massive sinkholes (dolines)", "Underground river course is 2 km long", "Elevation range in the system is about 160 m", "First scientifically described in 1886", "Part of the Apuseni Natural Park protected zone"],
+    },
   },
   {
     id: "nature-cheile-nerei", type: "landmark", parent: "RO-CS", coords: [21.8, 44.9],
@@ -2718,6 +3719,19 @@ export const romaniaNature: POI[] = [
     description: { de: "Längste Schlucht Rumäniens am Fluss Nera.", hu: "Románia leghosszabb szurdoka a Néra folyó mentén.", ro: "Cele mai lungi chei din România.", en: "The longest gorges in Romania, along the Nera River." },
     facts: { de: ["Länge ~22 km.", "Ochiul Beiului See.", "Beușnița Wasserfälle."], hu: ["Hossza kb. 22 km.", "Bég-szeme tó.", "Beușnița-vízesések."], ro: ["Lungime ~22 km.", "Lacul Ochiul Beiului.", "Cascadele Beușnița."], en: ["Length ~22 km.", "Ochiul Beiului Lake.", "Beușnița Waterfalls."] },
     image: "/geo-images/romania/nature-cheile-nerei.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Nera-Schlucht (Cheile Nerei) im Banater Gebirge ist mit etwa 22 Kilometern die längste Schlucht Rumäniens. Der Fluss Nera hat sich tief in den Kalkstein gegraben und eine wilde Landschaft mit türkisfarbenen Seen, Wasserfällen und zahlreichen Höhlen geschaffen. Zu den bekanntesten Sehenswürdigkeiten gehören der Ochiul-Beiului-See und der Beușnița-Wasserfall, die für ihr kristallklares Wasser bekannt sind.",
+      hu: "A Bánsági-hegyekben található Nera-szurdok (Cheile Nerei) körülbelül 22 kilométeres hosszával Románia leghosszabb szurdokvölgye. A Nera folyó mélyen bevágódott a mészkőbe, vadregényes tájat hozva létre türkizkék tavakkal, vízesésekkel és számos barlanggal. A legismertebb látnivalók a Béu-szeme-tó és a Beușnița-vízesés, amelyek kristálytiszta vizükről híresek.",
+      ro: "Cheile Nerei, situate în Munții Banatului, reprezintă cel mai lung defileu din România, cu o lungime de aproximativ 22 de kilometri. Râul Nera a săpat în calcare un peisaj sălbatic cu lacuri turcoaz, cascade și numeroase peșteri. Printre cele mai faimoase obiective se numără Lacul Ochiul Beiului și Cascada Beușnița, renumite pentru claritatea apei.",
+      en: "The Nera Gorges (Cheile Nerei) in the Banat Mountains are the longest gorges in Romania, stretching for about 22 kilometers. The Nera River has carved deep into the limestone, creating a wild landscape of turquoise lakes, waterfalls, and numerous caves. Notable sites include the Ochiul Beiului Lake and the Beușnița Waterfall, famous for their crystal-clear waters.",
+    },
+    factsAdvanced: {
+      de: ["Längste Schlucht Rumäniens (ca. 22 km)", "Teil des Nationalparks Cheile Nerei-Beușnița", "Der Ochiul-Beiului-See friert im Winter nie zu", "Karstsee Dracului ist der größte seiner Art in RO", "Über 100 registrierte Höhlen im Schluchtsystem", "Beherbergt seltene Orchideenarten"],
+      hu: ["Románia leghosszabb szurdoka (kb. 22 km)", "A Nera-szurdok-Beușnița Nemzeti Park része", "A Béu-szeme-tó télen soha nem fagy be", "Az Ördög-tó a legnagyobb karszttó Romániában", "Több mint 100 barlang a szurdokrendszerben", "Ritka orchideafajok élőhelye"],
+      ro: ["Cel mai lung sector de chei din România (22 km)", "Parte din Parcul Național Cheile Nerei-Beușnița", "Lacul Ochiul Beiului nu îngheață niciodată iarna", "Lacul Dracului este cel mai mare lac carstic din țară", "Peste 100 de peșteri înregistrate în zonă", "Habitat pentru specii rare de orhidee"],
+      en: ["Longest gorges in Romania (approx. 22 km)", "Part of the Cheile Nerei-Beușnița National Park", "Ochiul Beiului Lake never freezes in winter", "Devil Lake is the largest karst lake in Romania", "Over 100 registered caves in the gorge system", "Home to rare species of orchids"],
+    },
   },
   {
     id: "nature-detunatele", type: "landmark", parent: "RO-AB", coords: [23.200, 46.266],
@@ -2725,6 +3739,19 @@ export const romaniaNature: POI[] = [
     description: { de: "Einzigartige Basaltsäulen im Apuseni-Gebirge.", hu: "Egyedülálló bazaltoszlopok az Erdélyi-szigethegységben.", ro: "Coloane de bazalt unice în Munții Apuseni.", en: "Unique basalt columns in the Apuseni Mountains." },
     facts: { de: ["Vulkanischen Ursprungs.", "Zwei Hauptgipfel.", "Naturdenkmal."], hu: ["Vulkanikus eredetű.", "Két fő csúcsa van.", "Természeti műemlék."], ro: ["Origine vulcanică.", "Două vârfuri principale.", "Monument al naturii."], en: ["Volcanic origin.", "Two main peaks.", "Natural monument."] },
     image: "/geo-images/romania/nature-detunatele.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Detunatele sind zwei beeindruckende Basaltformationen im Apuseni-Gebirge, bekannt als Detunata Goală und Detunata Flocoasă. Die Formationen bestehen aus riesigen, sechseckigen Basaltsäulen, die durch vulkanische Aktivität entstanden sind. Der Name leitet sich von dem donnerähnlichen Geräusch her, das entsteht, wenn sich Steine von den instabilen Wänden lösen und ins Tal stürzen.",
+      hu: "A Detunáták (Detunatele) két lenyűgöző bazaltformáció az Erdélyi-szigethegységben: a Kopasz-Detunáta és a Budös-Detunáta. A képződmények hatalmas, hatszögletű bazaltoszlopokból állnak, amelyek vulkáni tevékenység során keletkeztek. Nevük a dörgésszerű hangra utal, amely akkor keletkezik, amikor a sziklák leválnak a falakról és a völgybe zuhannak.",
+      ro: "Detunatele sunt două formațiuni bazaltice impresionante din Munții Apuseni, cunoscute sub numele de Detunata Goală și Detunata Flocoasă. Acestea sunt alcătuite din coloane hexagonale de bazalt, formate în urma activității vulcanice. Numele provine de la zgomotul asemănător tunetului produs de pietrele care se desprind și cad pe grohotișul de la bază.",
+      en: "The Detunatele are two impressive basalt formations in the Apuseni Mountains, known as Detunata Goală and Detunata Flocoasă. These formations consist of massive hexagonal basalt columns created by volcanic activity. Their name refers to the thunder-like sound produced when rocks detach from the walls and crash into the valley below.",
+    },
+    factsAdvanced: {
+      de: ["Höhe der Detunata Goală beträgt 1256 Meter", "Bestehen aus erstarrtem Basalt (Vulkanismus)", "Die Basaltsäulen sind bis zu 15 Meter hoch", "Befinden sich in der Nähe der Gemeinde Bucium", "Erklärt zum Naturdenkmal im Jahr 1938", "Säulen weisen eine regelmäßige hexagonale Form auf"],
+      hu: ["A Kopasz-Detunáta magassága 1256 méter", "Megkövült bazaltból épülnek fel (vulkanizmus)", "A bazaltoszlopok akár 15 méter magasak is lehetnek", "Bucsony (Bucium) község közelében találhatók", "1938-ban nyilvánították természeti műemlékké", "Az oszlopok szabályos hatszögletű formát mutatnak"],
+      ro: ["Altitudinea Detunatei Goale este de 1256 m", "Formate din bazalt consolidat (vulcanism)", "Coloanele de bazalt au înălțimi de până la 15 m", "Situate în apropierea comunei Bucium, județul Alba", "Declarate monumente ale naturii în anul 1938", "Coloanele prezintă secțiuni hexagonale regulate"],
+      en: ["Altitude of Detunata Goală is 1256 meters", "Formed from solidified basalt (volcanism)", "Basalt columns are up to 15 meters high", "Located near the Bucium municipality in Alba", "Declared natural monuments in 1938", "Columns exhibit regular hexagonal sections"],
+    },
   },
   {
     id: "nature-barsana-cave", type: "landmark", parent: "RO-MM", coords: [24.066, 47.816],
@@ -2732,6 +3759,19 @@ export const romaniaNature: POI[] = [
     description: { de: "Eine interessante Höhle in der Region Maramureș.", hu: "Érdekes barlang Máramaros régiójában.", ro: "O peșteră interesantă în regiunea Maramureș.", en: "An interesting cave in the Maramureș region." },
     facts: { de: ["In der Nähe des Klosters.", "Karstformationen.", "Lokale Legenden."], hu: ["A kolostor közelében.", "Karsztképződmények.", "Helyi legendák."], ro: ["Lângă mănăstire.", "Formațiuni carstice.", "Legende locale."], en: ["Near the monastery.", "Karst formations.", "Local legends."] },
     image: "/geo-images/romania/nature-barsana-cave.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Bârsăna-Höhle im Bihor-Gebirge ist eine bedeutende Karsthöhle, die für ihre beeindruckenden fossilen Galerien und Stalaktiten bekannt ist. Sie ist Teil eines komplexen unterirdischen Entwässerungssystems und dient als wichtiges Forschungsobjekt für die Speläologie. Die Höhle beherbergt zudem wertvolle paläontologische Funde, darunter Skelettreste von Höhlenbären.",
+      hu: "A Bihar-hegységben található Barátok-barlangja (Peștera Bârsăna) egy jelentős karsztbarlang, amely lenyűgöző fosszilis járatairól és cseppköveiről ismert. Egy komplex föld alatti vízelvezető rendszer része, és fontos kutatási helyszín a barlangászok számára. A barlang értékes őslénytani leleteket is őriz, többek között barlangi medvék csontmaradványait.",
+      ro: "Peștera Bârsăna, situată în Munții Bihor, este o peșteră carstică importantă, renumită pentru galeriile sale fosile și formațiunile spectaculoase. Face parte dintr-un sistem complex de drenaj subteran și reprezintă un obiectiv major pentru cercetările speologice. În interior s-au descoperit resturi fosile valoroase, inclusiv de urs de peșteră.",
+      en: "The Bârsăna Cave in the Bihor Mountains is a significant karst cave known for its impressive fossil galleries and stalactites. It is part of a complex underground drainage system and serves as an important site for speleological research. The cave also contains valuable paleontological remains, including skeletal parts of the extinct cave bear.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich im Pădurea-Craiului-Massiv", "Gesamtlänge der Galerien beträgt ca. 1000 Meter", "Enthält fossile Reste des Höhlenbären (Ursus spelaeus)", "Wichtiges Habitat für verschiedene Fledermausarten", "Gilt als eine der schönsten Höhlen der Region", "Zugang ist für die wissenschaftliche Forschung reglementiert"],
+      hu: ["A Királyerdő-hegység területén található", "A járatok teljes hossza körülbelül 1000 méter", "Barlangi medve (Ursus spelaeus) maradványait tartalmazza", "Fontos élőhely különböző denevérfajok számára", "A régió egyik legszebb barlangjaként tartják számon", "A bejutás tudományos kutatási célból szabályozott"],
+      ro: ["Localizată în masivul Pădurea Craiului", "Lungimea totală a galeriilor este de cca. 1000 m", "Conține resturi fosile de urs de peșteră", "Habitat important pentru diverse specii de lilieci", "Considerată una dintre cele mai frumoase peșteri locale", "Accesul este reglementat pentru cercetare științifică"],
+      en: ["Located in the Pădurea Craiului Massif", "Total gallery length is approximately 1000 meters", "Contains fossil remains of the cave bear", "Important habitat for various bat species", "Regarded as one of the most beautiful caves in the area", "Access is regulated for scientific research purposes"],
+    },
   },
   {
     id: "nature-urlatoarea", type: "landmark", parent: "RO-PH", coords: [25.525, 45.408],
@@ -2739,6 +3779,19 @@ export const romaniaNature: POI[] = [
     description: { de: "Ein leicht zugänglicher Wasserfall im Bucegi-Gebirge.", hu: "Könnyen megközelíthető vízesés a Bucsecs-hegységben.", ro: "O cascadă ușor accesibilă în Munții Bucegi.", en: "An easily accessible waterfall in the Bucegi Mountains." },
     facts: { de: ["15 Meter hoch.", "Lautes Rauschen.", "Beliebtes Wanderziel."], hu: ["15 méter magas.", "Hangos morajlás.", "Népszerű túracélpont."], ro: ["Înălțime de 15 metri.", "Zgomot puternic.", "Destinație populară de drumeție."], en: ["15 meters high.", "Loud roaring sound.", "Popular hiking destination."] },
     image: "/geo-images/romania/nature-urlatoarea.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Urlătoarea-Wasserfall liegt im Bucegi-Gebirge oberhalb des Ortes Bușteni auf einer Höhe von etwa 1100 Metern. Der Name bedeutet die Brüllende und bezieht sich auf das laute Rauschen des Wassers, das über eine ca. 15 Meter hohe Felsstufe stürzt. Er ist eines der beliebtesten Wanderziele der Region und über einen leicht begehbaren Pfad durch dichte Buchenwälder erreichbar.",
+      hu: "Az Urlátó-vízesés (Cascada Urlătoarea) a Bucsecs-hegységben, Bușteni üdülőváros felett található, körülbelül 1100 méteres magasságban. A neve Üvöltőt jelent, ami a 15 méteres magasságból lezúduló víz robajára utal. A környék egyik legnépszerűbb túracélpontja, amely sűrű bükkerdőkön keresztül, könnyen járható ösvényen érhető el.",
+      ro: "Cascada Urlătoarea este situată în Munții Bucegi, deasupra stațiunii Bușteni, la o altitudine de aproximativ 1100 de metri. Numele provine de la zgomotul puternic produs de căderea de apă de la o înălțime de circa 15 metri. Este una dintre cele mai vizitate atracții turistice din zonă, fiind accesibilă printr-o potecă ușoară prin păduri de fag.",
+      en: "The Urlătoarea Waterfall is located in the Bucegi Mountains above the town of Bușteni, at an altitude of about 1100 meters. The name translates to the Roaring One, referring to the loud sound of water dropping from a height of approximately 15 meters. It is one of the region's most popular hiking destinations, accessible via an easy trail through dense beech forests.",
+    },
+    factsAdvanced: {
+      de: ["Fallhöhe des Wassers beträgt ca. 15 Meter", "Befindet sich auf einer Höhe von ca. 1100 m", "Gespeist durch die Bäche Urlătoarea Mare und Mică", "Leicht erreichbar in 30-45 Minuten von Bușteni", "Eines der meistfotografierten Naturziele im Bucegi", "Legende von einer in Stein verwandelten Hirtin"],
+      hu: ["A vízesés magassága körülbelül 15 méter", "Tengerszint feletti magassága kb. 1100 méter", "A Nagy- és Kis-Urlátó patakok táplálják", "Bușteni-ből 30-45 perc alatt könnyen elérhető", "A Bucsecs-hegység egyik legtöbbet fotózott helyszíne", "Kővé vált pásztorlány legendája kapcsolódik hozzá"],
+      ro: ["Înălțimea căderii de apă este de cca. 15 metri", "Situată la o altitudine de aproximativ 1100 m", "Alimentată de pârâiele Urlătoarea Mare și Mică", "Accesibilă în 30-45 minute din Bușteni", "Unul dintre cele mai fotografiate obiective din Bucegi", "Legenda spune că s-a format din lacrimile unei păstorițe"],
+      en: ["Height of the waterfall is about 15 meters", "Located at an altitude of approx. 1100 meters", "Fed by the Big and Small Urlătoarea creeks", "Easily reachable in 30-45 minutes from Bușteni", "One of the most photographed nature sites in Bucegi", "Associated with a legend of a shepherdess turned to stone"],
+    },
   },
   {
     id: "nature-bigar", type: "landmark", parent: "RO-CS", coords: [21.924, 45.003],
@@ -2746,6 +3799,19 @@ export const romaniaNature: POI[] = [
     description: { de: "Einer der ungewöhnlichsten Wasserfälle der Welt, bedeckt mit Moos.", hu: "A világ egyik legkülönlegesebb vízesése, mohával borítva.", ro: "Una dintre cele mai neobișnuite cascade din lume, acoperită cu mușchi.", en: "One of the most unusual waterfalls in the world, covered in moss." },
     facts: { de: ["Direkt am 45. Breitengrad.", "Glockenförmig.", "Teil des Nationalparks Cheile Nerei."], hu: ["A 45. szélességi körön.", "Harang alakú.", "A Néra-szurdok Nemzeti Park része."], ro: ["Pe paralela 45.", "Formă de clopot.", "Parte din Parcul Național Cheile Nerei."], en: ["On the 45th parallel.", "Bell-shaped.", "Part of Cheile Nerei National Park."] },
     image: "/geo-images/romania/nature-bigar.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Cascada Bigăr befindet sich im Naturpark Cheile Nerei-Beușnița im Südwesten Rumäniens. Der Wasserfall ist bekannt für seine glockenförmige Kalktuffstruktur, über die das Quellwasser in feinen Schleiern herabstürzt. Im Juni 2021 stürzte ein Teil der Felsformation aufgrund natürlicher Ursachen ein.",
+      hu: "A Bigér-vízesés a Krassó-Szörény megyei Néra-szurdok-Beușnița Nemzeti Parkban található. A vízesés jellegzetes harang alakjáról és a rajta tenyésző zöld moháról ismert, amelyen keresztül a víz apró patakokban hullik alá. 2021 júniusában a mésztufa képződmény egy jelentős része természetes okokból leszakadt.",
+      ro: "Cascada Bigăr este situată în Parcul Național Cheile Nerei-Beușnița din județul Caraș-Severin. Este renumită pentru forma sa de clopot și pentru stratul de mușchi prin care apa izvorului se varsă în râul Miniș. În iunie 2021, o parte din peretele de travertin s-a prăbușit din cauze naturale.",
+      en: "The Bigăr Waterfall is located in the Cheile Nerei-Beușnița National Park in southwestern Romania. It is famous for its bell-shaped calcareous tuff formation covered in moss, through which the spring water flows. In June 2021, a significant part of the waterfall structure collapsed due to natural causes.",
+    },
+    factsAdvanced: {
+      de: ["Breitengrad 45: Der Wasserfall liegt genau auf dem 45. Breitengrad Nord.", "Einsturzdatum: Ein großer Teil der Formation brach am 7. Juni 2021 ab.", "Nationalpark: Liegt im 36.700 Hektar großen Schutzgebiet Cheile Nerei.", "Miniș-Fluss: Das Quellwasser mündet hier direkt in den Fluss Miniș.", "Höhe: Die Kalktuffglocke ist etwa 7 Meter hoch.", "Auszeichnung: 2013 von The World Geography zum schönsten Wasserfall gekürt."],
+      hu: ["45. szélességi fok: A vízesés pontosan az északi 45. szélességi körön fekszik.", "Beomlás: A mésztufa szerkezet egy része 2021. június 7-én szakadt le.", "Nemzeti Park: A 36 700 hektáros Néra-szurdok természetvédelmi terület része.", "Miniș folyó: A forrásvize közvetlenül a Miniș folyóba torkollik.", "Magasság: A harang alakú mésztufa képződmény körülbelül 7 méter magas.", "Világhír: A The World Geography 2013-ban a világ legszebb vízesésének választotta."],
+      ro: ["Paralela 45: Cascada este situată exact pe paralela 45 latitudine nordică.", "Prăbușire: O parte a peretelui de travertin s-a desprins pe 7 iunie 2021.", "Parcul Național: Face parte din rezervația Cheile Nerei-Beușnița.", "Râul Miniș: Apa izvorului se varsă direct în albia râului Miniș.", "Înălțime: Formațiunea de travertin are o înălțime de aproximativ 7 metri.", "Recunoaștere: Votată cea mai frumoasă cascadă de The World Geography în 2013."],
+      en: ["45th Parallel: The waterfall is located exactly on the 45th parallel north.", "Collapse: A significant part of the formation fell on June 7, 2021.", "National Park: Located within the 36,700-hectare Cheile Nerei reserve.", "Miniș River: The spring water flows directly into the Miniș riverbed.", "Height: The bell-shaped tuff formation is about 7 meters tall.", "Award: Voted the most beautiful waterfall by The World Geography in 2013."],
+    },
   },
   {
     id: "nature-cascada-cailor", type: "landmark", parent: "RO-MM", coords: [24.795, 47.592],
@@ -2753,6 +3819,19 @@ export const romaniaNature: POI[] = [
     description: { de: "Der höchste Wasserfall Rumäniens im Rodna-Gebirge.", hu: "Románia legmagasabb vízesése a Radnai-havasokban.", ro: "Cea mai înaltă cascadă din România, în Munții Rodnei.", en: "The highest waterfall in Romania, located in the Rodna Mountains." },
     facts: { de: ["90 Meter Fallhöhe.", "In der Nähe von Borșa.", "Legende über Pferde."], hu: ["90 méteres esés.", "Borsa közelében.", "Legenda az elszabadult lovakról."], ro: ["Cădere de 90 metri.", "Lângă stațiunea Borșa.", "Legendă despre cai."], en: ["90-meter drop.", "Near Borșa resort.", "Legend about horses."] },
     image: "/geo-images/romania/nature-cascada-cailor.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Cascada Cailor ist der höchste Wasserfall Rumäniens und liegt im Rodna-Gebirge in der Nähe von Borșa. Das Wasser stürzt in mehreren Stufen über eine Gesamthöhe von etwa 90 Metern herab. Der Wasserfall wird durch das Schmelzwasser und Regenfälle auf dem Piatra-Cailor-Plateau gespeist.",
+      hu: "A Lóhavasi-vízesés Románia legmagasabb vízesése, a Radnai-havasokban, Borsa közelében található. A víz több lépcsőben, összesen mintegy 90 méteres magasságból zúdul alá a völgybe. A vízesést a Lóhavas-plató olvadó hava és a csapadékvizek táplálják.",
+      ro: "Cascada Cailor este cea mai înaltă cascadă din România, situată în Munții Rodnei, în apropierea stațiunii Borșa. Apa se revarsă în mai multe trepte, având o cădere totală de aproximativ 90 de metri. Este alimentată de topirea zăpezii și de ploile de pe platoul Piatra Cailor.",
+      en: "The Horses' Waterfall is the highest waterfall in Romania, located in the Rodna Mountains near the resort of Borșa. The water falls in several stages, with a total drop of approximately 90 meters. It is fed by melting snow and rainfall from the Piatra Cailor plateau.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: Der Wasserfall hat eine Gesamthöhe von ca. 90 Metern.", "Lage: Befindet sich auf einer Höhe von 1.300 Metern über dem Meeresspiegel.", "Stufen: Das Wasser fällt in drei aufeinanderfolgenden Stufen herab.", "Rodna-Gebirge: Liegt im zweitgrößten Nationalpark Rumäniens.", "Zugang: Erreichbar mit dem Sessellift von Borșa oder über Wanderwege.", "Legende: Benannt nach einer Herde Pferde, die hier von Wölfen in den Abgrund gejagt wurde."],
+      hu: ["Magasság: A vízesés teljes magassága megközelítőleg 90 méter.", "Tengerszint feletti magasság: 1300 méteres magasságban található.", "Lépcsők: A víz három egymást követő szakaszban zuhan le.", "Radnai-havasok: Románia második legnagyobb nemzeti parkjában fekszik.", "Megközelítés: Borsáról libegővel vagy gyalogos túraösvényen érhető el.", "Legenda: Nevét egy ménesről kapta, amelyet a farkasok a szakadékba kergettek."],
+      ro: ["Înălțime: Cascada are o cădere totală de aproximativ 90 de metri.", "Altitudine: Este situată la o altitudine de 1.300 de metri peste nivelul mării.", "Trepte: Apa se scurge în trei trepte succesive de cădere.", "Munții Rodnei: Se află în al doilea cel mai mare parc național din țară.", "Acces: Se poate ajunge cu telescaunul din Borșa sau pe poteci montane.", "Legendă: Numele provine de la o herdie de cai încolțită de lupi lângă prăpastie."],
+      en: ["Height: The waterfall has a total drop of approximately 90 meters.", "Altitude: It is situated at an elevation of 1,300 meters above sea level.", "Stages: The water falls in three successive distinct stages.", "Rodna Mountains: Located in Romania's second largest national park.", "Access: Reachable via chairlift from Borșa or by hiking trails.", "Legend: Named after a herd of horses driven into the abyss by wolves."],
+    },
   },
   {
     id: "nature-pestera-ursilor", type: "landmark", parent: "RO-BH", coords: [22.569, 46.554],
@@ -2760,6 +3839,19 @@ export const romaniaNature: POI[] = [
     description: { de: "Spektakuläre Höhle mit Skeletten von Höhlenbären.", hu: "Látványos barlang barlangi medvék csontvázaival.", ro: "Peșteră spectaculoasă cu schelete de urși de cavernă.", en: "Spectacular cave with skeletons of cave bears." },
     facts: { de: ["Entdeckt 1975.", "Drei Galerien.", "Beeindruckende Stalaktiten."], hu: ["1975-ben fedezték fel.", "Három galéria.", "Lenyűgöző sztalaktitok."], ro: ["Descoperită în 1975.", "Trei galerii.", "Stalactite impresionante."], en: ["Discovered in 1975.", "Three galleries.", "Impressive stalactites."] },
     image: "/geo-images/romania/nature-pestera-ursilor.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Peștera Urșilor liegt im Kreis Bihor im Apuseni-Gebirge und wurde 1975 zufällig bei Sprengarbeiten entdeckt. Die Höhle ist berühmt für ihre außergewöhnlichen Stalaktiten- und Stalagmitenformationen sowie für die Skelette des Höhlenbären. Ein großer Teil der Höhle ist für den Tourismus erschlossen und elektrifiziert.",
+      hu: "A Medve-barlang a Bihar-hegységben található, 1975-ben fedezték fel véletlenül egy kőfejtés során. A barlang híres különleges cseppkőalakzatairól és az itt talált barlangi medve csontvázakról. A barlang jelentős része kiépített, villanyvilágítással ellátott és látogatható a turisták számára.",
+      ro: "Peștera Urșilor se află în județul Bihor, în Munții Apuseni, și a fost descoperită accidental în 1975 în timpul unor lucrări miniere. Este celebră pentru bogăția formațiunilor de stalactite și stalagmite, precum și pentru scheletele de urs de cavernă găsite aici. O mare parte este amenajată pentru turism.",
+      en: "The Bears' Cave is located in Bihor County in the Apuseni Mountains and was accidentally discovered in 1975 during mining operations. It is famous for its rich stalactite and stalagmite formations and the cave bear skeletons found within. A large part of it is electrified and open to tourism.",
+    },
+    factsAdvanced: {
+      de: ["Entdeckung: Wurde am 17. September 1975 nach einer Sprengung entdeckt.", "Höhlenbären: Enthält Skelette der Art Ursus spelaeus, die vor 15.000 Jahren ausstarb.", "Länge: Die Höhle hat eine Gesamtlänge von mehr als 1.500 Metern.", "Tourismus: Der für Besucher geöffnete Teil ist 847 Meter lang.", "Stockwerke: Die Höhle ist auf zwei Ebenen bzw. Stockwerken verteilt.", "Temperatur: Die Innentemperatur ist das ganze Jahr über konstant bei 10 °C."],
+      hu: ["Felfedezés: 1975. szeptember 17-én fedezték fel egy robbantást követően.", "Barlangi medvék: Az Ursus spelaeus faj 15 000 éve kihalt egyedeinek csontvázait őrzi.", "Hosszúság: A barlang teljes hossza meghaladja az 1500 métert.", "Turizmus: A látogatható szakasz hossza 847 méter.", "Szintek: A barlang két különböző szinten helyezkedik el.", "Hőmérséklet: A belső hőmérséklet egész évben állandó 10 °C."],
+      ro: ["Descoperire: A fost descoperită pe 17 septembrie 1975 după o explozie.", "Urși de cavernă: Conține resturi de Ursus spelaeus, specie dispărută acum 15.000 de ani.", "Lungime: Peștera are o lungime totală de peste 1.500 de metri.", "Turism: Traseul vizitabil pentru turiști are o lungime de 847 de metri.", "Niveluri: Peștera este structurată pe două niveluri distincte.", "Temperatură: Temperatura interioară este constantă la 10 °C pe tot parcursul anului."],
+      en: ["Discovery: It was discovered on September 17, 1975, following a blast.", "Cave Bears: Contains remains of Ursus spelaeus, extinct for 15,000 years.", "Length: The cave has a total length of more than 1,500 meters.", "Tourism: The section open to visitors is 847 meters long.", "Levels: The cave is structured on two distinct levels.", "Temperature: The interior temperature remains constant at 10°C year-round."],
+    },
   },
   {
     id: "nature-pestera-muierilor", type: "landmark", parent: "RO-GJ", coords: [23.753, 45.191],
@@ -2767,6 +3859,19 @@ export const romaniaNature: POI[] = [
     description: { de: "Erste elektrifizierte Höhle Rumäniens mit reicher Geschichte.", hu: "Románia első villamosított barlangja gazdag történelemmel.", ro: "Prima peșteră electrificată din România, cu istorie bogată.", en: "The first electrified cave in Romania, with a rich history." },
     facts: { de: ["Zufluchtsort im Krieg.", "7 km Gesamtlänge.", "Paläontologische Funde."], hu: ["Menedékhely háború idején.", "7 km összhosszúság.", "Őslénytani leletek."], ro: ["Adăpost în timpul războaielor.", "7 km lungime totală.", "Descoperiri paleontologice."], en: ["Refuge during wars.", "7 km total length.", "Paleontological finds."] },
     image: "/geo-images/romania/nature-pestera-muierilor.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Peștera Muierilor liegt in Baia de Fier im Kreis Gorj und war die erste für den Tourismus elektrifizierte Höhle Rumäniens. Sie erstreckt sich über vier Ebenen und ist bekannt für ihre archäologischen Funde, darunter menschliche Überreste aus der Altsteinzeit. Während Kriegen diente sie der lokalen Bevölkerung als Zufluchtsort.",
+      hu: "Az Asszonyok barlangja (Peștera Muierilor) a Gorj megyei Baia de Fier községben található, és ez volt az első villamosított barlang Romániában. Négy szinten terül el, és híres régészeti leleteiről, köztük paleolitikumi emberi maradványokról. A háborúk idején a helyi lakosság menedékhelyeként szolgált.",
+      ro: "Peștera Muierilor se află în comuna Baia de Fier din județul Gorj și a fost prima peșteră electrificată din România pentru turism. Se desfășoară pe patru niveluri și este cunoscută pentru descoperirile arheologice, inclusiv resturi umane din paleolitic. A servit drept adăpost localnicilor în timpul războaielor.",
+      en: "The Women's Cave is located in Baia de Fier, Gorj County, and was the first cave in Romania to be electrified for tourism. It spans four levels and is known for its archaeological finds, including Paleolithic human remains. During wars, it served as a refuge for the local population.",
+    },
+    factsAdvanced: {
+      de: ["Elektrifizierung: Wurde im Jahr 1963 als erste Höhle des Landes elektrifiziert.", "Länge: Die Gesamtlänge der unterirdischen Galerien beträgt ca. 7.000 Meter.", "Paläontologie: Hier wurden Überreste eines Schädels gefunden, der 30.000 Jahre alt ist.", "Besucherweg: Der touristische Weg auf der oberen Ebene ist 573 Meter lang.", "Ebenen: Die Höhle besteht aus 4 Stockwerken, von denen nur eines besuchbar ist.", "Höhenlage: Der Eingang liegt auf einer Höhe von 700 Metern."],
+      hu: ["Villamosítás: 1963-ban ez volt az ország első kivilágított barlangja.", "Hosszúság: A járatok teljes hossza körülbelül 7000 méter.", "Őslénytan: Egy 30 000 éves emberi koponyát találtak a barlangban.", "Látogatható szakasz: A felső szinten lévő turistaút 573 méter hosszú.", "Szintek: A barlang 4 szintből áll, amelyek közül csak egy látogatható.", "Magasság: A barlang bejárata 700 méteres tengerszint feletti magasságban van."],
+      ro: ["Electrificare: A fost prima peșteră din țară electrificată, în anul 1963.", "Lungime: Lungimea totală a galeriilor este de aproximativ 7.000 de metri.", "Paleontologie: S-a descoperit aici un craniu uman vechi de 30.000 de ani.", "Traseu turistic: Galeria vizitabilă de la nivelul superior are 573 de metri.", "Niveluri: Peștera este dispusă pe 4 etaje, doar unul fiind accesibil turiștilor.", "Altitudine: Intrarea în peșteră se află la o altitudine de 700 de metri."],
+      en: ["Electrification: It was the first cave in the country to be electrified in 1963.", "Length: The total length of the galleries is approximately 7,000 meters.", "Paleontology: A 30,000-year-old human skull was discovered in the cave.", "Tourist trail: The upper level accessible to visitors is 573 meters long.", "Levels: The cave has 4 floors, with only the upper one open to the public.", "Altitude: The entrance is located at an altitude of 700 meters."],
+    },
   },
   {
     id: "nature-babele", type: "landmark", parent: "RO-DB", coords: [25.467, 45.406],
@@ -2774,6 +3879,19 @@ export const romaniaNature: POI[] = [
     description: { de: "Pilzförmige Felsformationen im Bucegi-Gebirge.", hu: "Gomba alakú sziklaképződmények a Bucsecs-hegységben.", ro: "Formațiuni stâncoase în formă de ciuperci în Munții Bucegi.", en: "Mushroom-shaped rock formations in the Bucegi Mountains." },
     facts: { de: ["Durch Erosion geformt.", "In der Nähe der Sphinx.", "2216 Meter Höhe."], hu: ["Erózió formálta.", "A Szfinx közelében.", "2216 méter magasság."], ro: ["Modelate de eroziune.", "Lângă Sfinx.", "Altitudine 2216 metri."], en: ["Shaped by erosion.", "Near the Sphinx.", "2216 meters altitude."] },
     image: "/geo-images/romania/nature-babele.webp",
+  
+    descriptionAdvanced: {
+      de: "Babele ist eine Gruppe von Felsformationen auf dem Bucegi-Plateau in den Südkarpaten. Die pilzförmigen Felsen entstanden durch die erosive Wirkung von Wind und Regen auf unterschiedlich harten Gesteinsschichten. Sie befinden sich in unmittelbarer Nähe des Bucegi-Sphinx und sind ein Wahrzeichen des Gebirges.",
+      hu: "A Babele (Vénasszonyok) egy sziklaalakzat-csoport a Déli-Kárpátokban, a Bucsecs-fennsíkon. A gomba alakú sziklák a szél és az eső eróziós munkája nyomán alakultak ki a különböző keménységű kőzetrétegeken. A Bucsecs-szfinx közvetlen közelében találhatók, és a hegység jelképei.",
+      ro: "Babele reprezintă un grup de formațiuni stâncoase situate pe platoul Munților Bucegi, în Carpații Meridionali. Stâncile în formă de ciuperci s-au format prin eroziunea eoliană și pluvială asupra straturilor de roci cu durități diferite. Se află lângă Sfinxul din Bucegi, fiind un simbol al masivului.",
+      en: "Babele is a group of rock formations located on the Bucegi Plateau in the Southern Carpathians. These mushroom-shaped rocks were formed by wind and rain erosion acting on rock layers of varying hardness. They are located near the Bucegi Sphinx and are a symbol of the mountain range.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: Die Formationen befinden sich auf einer Höhe von 2.216 Metern.", "Gestein: Sie bestehen aus Konglomeraten und Kalksandsteinen.", "Sphinx: Der Bucegi-Sphinx liegt nur wenige Gehminuten von den Babele entfernt.", "Seilbahn: Erreichbar mit der Seilbahn von Bușteni aus.", "Name: 'Babele' bedeutet im Rumänischen 'Die alten Weiber'.", "Schutzstatus: Die Felsen sind als Naturdenkmal gesetzlich geschützt."],
+      hu: ["Magasság: Az alakzatok 2216 méteres tengerszint feletti magasságban vannak.", "Kőzet: Konglomerátumokból és mészköves homokkőből épülnek fel.", "Szfinx: A Bucsecs-szfinx mindössze néhány percnyi sétára található tőlük.", "Felvonó: Busteniből drótkötélpályás felvonóval érhetők el.", "Név: A 'Babele' jelentése románul 'Vénasszonyok'.", "Védettség: A sziklák törvény által védett természeti műemlékek."],
+      ro: ["Altitudine: Formațiunile sunt situate la o înălțime de 2.216 metri.", "Roci: Sunt alcătuite din conglomerate și gresii calcaroase.", "Sfinxul: Sfinxul din Bucegi se află la doar câteva minute de mers pe jos.", "Telecabină: Accesul principal se face cu telecabina din stațiunea Bușteni.", "Nume: Denumirea de 'Babele' provine de la asemănarea cu niște femei bătrâne.", "Statut: Stâncile sunt declarate monumente ale naturii."],
+      en: ["Altitude: The formations are located at an elevation of 2,216 meters.", "Rocks: They consist of conglomerates and calcareous sandstones.", "Sphinx: The Bucegi Sphinx is located just a few minutes' walk away.", "Cable car: Accessible by the cable car running from Bușteni resort.", "Name: 'Babele' translates to 'The Old Women' in Romanian.", "Protection: The rocks are officially designated as natural monuments."],
+    },
   },
   {
     id: "nature-lacul-colibita", type: "landmark", parent: "RO-BN", coords: [24.850, 47.183],
@@ -2781,6 +3899,19 @@ export const romaniaNature: POI[] = [
     description: { de: "Stausee in den Calimani-Bergen, bekannt als 'Meer im Gebirge'.", hu: "Víztározó a Kelemen-havasokban, a 'hegyi tengerként' ismert.", ro: "Lac de acumulare în Munții Călimani, supranumit 'marea de la munte'.", en: "Reservoir in the Călimani Mountains, known as the 'sea in the mountains'." },
     facts: { de: ["Sehr saubere Luft.", "Beliebtes Erholungsgebiet.", "900 Meter Höhe."], hu: ["Nagyon tiszta levegő.", "Népszerű üdülőhely.", "900 méter magasság."], ro: ["Aer foarte curat.", "Zonă de agrement populară.", "Altitudine 900 metri."], en: ["Very clean air.", "Popular recreation area.", "900 meters altitude."] },
     image: "/geo-images/romania/nature-lacul-colibita.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Colibița-See ist ein künstlicher Stausee in den Bârgău-Bergen im Kreis Bistrița-Năsăud. Er entstand in den 1970er Jahren durch den Bau eines Staudamms am Fluss Bistrița. Der Ort ist bekannt für seine außergewöhnlich saubere Luft mit einem sehr hohen Ozongehalt, was ihn zu einem Kurort macht.",
+      hu: "A Kolibica-tó egy mesterséges gyűjtőtó a Borgói-hegységben, Beszterce-Naszód megyében. Az 1970-es években jött létre a Beszterce folyón épített gát révén. A helyszín híres a rendkívül tiszta, magas ózontartalmú levegőjéről, ami miatt klimatikus üdülőhelynek számít.",
+      ro: "Lacul Colibița este un lac de acumulare artificial situat în Munții Bârgăului, județul Bistrița-Năsăud. A fost creat în anii 1970 prin construirea unui baraj pe râul Bistrița. Locul este renumit pentru aerul extrem de curat, cu o concentrație mare de ozon, fiind considerat o stațiune climaterică.",
+      en: "Colibița Lake is an artificial reservoir located in the Bârgău Mountains, Bistrița-Năsăud County. It was created in the 1970s by building a dam on the Bistrița River. The area is famous for its exceptionally clean air with a high ozone concentration, making it a health resort.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: Der Staudamm wurde zwischen 1977 und 1991 errichtet.", "Fläche: Der See erstreckt sich über eine Fläche von ca. 270 Hektar.", "Höhe: Der See liegt auf einer Höhe von etwa 900 Metern.", "Ozongehalt: Die Luftwerte sind vergleichbar mit denen in den Schweizer Alpen.", "Tiefe: Die maximale Tiefe des Sees beträgt etwa 92 Meter.", "Dammhöhe: Der Steindamm von Colibița ist 92 Meter hoch."],
+      hu: ["Építés: A gátat 1977 és 1991 között építették fel.", "Terület: A tó felszíne körülbelül 270 hektárt tesz ki.", "Magasság: A tó mintegy 900 méteres tengerszint feletti magasságban fekszik.", "Ózonszint: A levegő minősége a Svájci-Alpokéhoz hasonlítható.", "Mélység: A tó maximális mélysége eléri a 92 métert.", "Gát: A kőgát magassága 92 méter."],
+      ro: ["Construcție: Barajul a fost construit între anii 1977 și 1991.", "Suprafață: Lacul se întinde pe o suprafață de aproximativ 270 de hectare.", "Altitudine: Lacul este situat la o altitudine de circa 900 de metri.", "Nivel ozon: Calitatea aerului este comparabilă cu cea din Munții Alpi.", "Adâncime: Adâncimea maximă a lacului este de aproximativ 92 de metri.", "Baraj: Barajul din anrocamente are o înălțime de 92 de metri."],
+      en: ["Construction: The dam was built between 1977 and 1991.", "Surface: The lake covers an area of approximately 270 hectares.", "Altitude: The lake is situated at an elevation of about 900 meters.", "Ozone level: Air quality is comparable to that of the Swiss Alps.", "Depth: The maximum depth of the lake is about 92 meters.", "Dam height: The rockfill dam has a height of 92 meters."],
+    },
   },
   {
     id: "nature-cheile-gradistei", type: "landmark", parent: "RO-BV", coords: [25.300, 45.450],
@@ -2788,6 +3919,19 @@ export const romaniaNature: POI[] = [
     description: { de: "Malerische Schlucht in der Nähe von Moieciu.", hu: "Festői szurdok Moieciu közelében.", ro: "Chei pitorești în apropiere de Moieciu.", en: "Picturesque gorges near Moieciu." },
     facts: { de: ["Bekanntes Ferienresort.", "Blick auf die Karpaten.", "Sportanlagen."], hu: ["Ismert üdülőhely.", "Kilátás a Kárpátokra.", "Sportlétesítmények."], ro: ["Complex turistic cunoscut.", "Vedere spre Carpați.", "Facilități sportive."], en: ["Well-known tourist resort.", "View of the Carpathians.", "Sports facilities."] },
     image: "/geo-images/romania/nature-cheile-gradistei.webp",
+  
+    descriptionAdvanced: {
+      de: "Cheile Grădiștei ist eine Gebirgsschlucht in der Nähe von Moieciu und Fundata, zwischen dem Bucegi-Gebirge und Piatra Craiului. Die Schlucht ist bekannt für ihre Karstformationen und steilen Felswände. Das Gebiet hat sich zu einem bedeutenden Zentrum für den Bergtourismus und den Wintersport in Rumänien entwickelt.",
+      hu: "A Grădiște-szurdok Moieciu és Fundata közelében található, a Bucsecs-hegység és a Királykő-hegység között. A szurdok híres karsztképződményeiről és meredek sziklafalairól. A terület a romániai hegyi turizmus és a téli sportok egyik jelentős központjává vált az elmúlt évtizedekben.",
+      ro: "Cheile Grădiștei reprezintă un defileu montan situat în apropiere de Moieciu și Fundata, între masivele Bucegi și Piatra Craiului. Cheile sunt cunoscute pentru formațiunile carstice și pereții stâncoși abrupți. Zona a devenit un centru important pentru turismul montan și sporturile de iarnă.",
+      en: "Grădiștei Gorges is a mountain pass located near Moieciu and Fundata, between the Bucegi and Piatra Craiului massifs. The gorges are known for their karst formations and steep rocky walls. The area has developed into a major center for mountain tourism and winter sports in Romania.",
+    },
+    factsAdvanced: {
+      de: ["Lage: Befindet sich auf dem Territorium des Kreises Brașov.", "Höhenlage: Die Ferienorte liegen auf einer Höhe von über 1.200 Metern.", "Wintersport: Hier befindet sich ein modernes Biathlon-Stadion.", "Wandern: Die Schlucht bietet direkten Zugang zum Nationalpark Piatra Craiului.", "Entfernung: Liegt etwa 30 km südwestlich der Stadt Brașov.", "Biathlon: Austragungsort der Jugend-Biathlon-Weltmeisterschaften 2016."],
+      hu: ["Helyszín: Brassó megye területén található.", "Magasság: Az üdülőhelyek 1200 méter feletti magasságban fekszenek.", "Téli sportok: Itt található egy modern biatlon stadion.", "Túrázás: A szurdok közvetlen kijáratot biztosít a Királykő Nemzeti Parkba.", "Távolság: Körülbelül 30 km-re délnyugatra fekszik Brassó városától.", "Esemény: 2016-ban itt rendezték az ifjúsági biatlon világbajnokságot."],
+      ro: ["Locație: Se află pe teritoriul județului Brașov.", "Altitudine: Stațiunile sunt situate la peste 1.200 de metri altitudine.", "Sporturi de iarnă: Găzduiește o bază modernă pentru biatlon.", "Drumeții: Cheile oferă acces către Parcul Național Piatra Craiului.", "Distanță: Se află la aproximativ 30 km sud-vest de orașul Brașov.", "Eveniment: A găzduit Campionatul Mondial de Biatlon pentru tineret în 2016."],
+      en: ["Location: Situated within the territory of Brașov County.", "Altitude: The resorts are located at over 1,200 meters above sea level.", "Winter sports: Home to a modern biathlon arena and stadium.", "Hiking: The gorges provide access to the Piatra Craiului National Park.", "Distance: Located about 30 km southwest of Brașov city.", "Event: Hosted the 2016 Youth/Junior World Championships Biathlon."],
+    },
   },
 ];
 
@@ -2802,6 +3946,19 @@ export const romaniaHistorical: POI[] = [
     facts: { de: ["Erobert 106 n. Chr. durch Kaiser Trajan.", "Heiligtum mit Sonnenkalender.", "Liegt auf 1.200 m Höhe."], hu: ["Kr. u. 106-ban foglalta el Traianus császár.", "Szentély napkalendáriummal.", "1200 m magasan fekszik."], ro: ["Cucerită în 106 d.Hr. de Traian.", "Sanctuarul cu calendar solar.", "La 1.200 m altitudine."], en: ["Conquered in 106 AD by Emperor Trajan.", "Sanctuary with solar calendar.", "At 1,200 m elevation."] },
     historyPeriod: "empire", historyYear: [-82, 106],
     image: "/geo-images/romania/hist-sarmizegetusa-regia.webp",
+  
+    descriptionAdvanced: {
+      de: "Sarmizegetusa Regia war die Hauptstadt des dakerischen Reiches vor den dako-römischen Kriegen. Sie liegt in den Orăștie-Bergen und war das administrative, religiöse und militärische Zentrum der Daker unter König Decebalus. Die Anlage umfasst monumentale Terrassen, Heiligtümer und ein ausgeklügeltes Wasserversorgungssystem.",
+      hu: "Sarmizegetusa Regia a dák királyság fővárosa volt a dák-római háborúk előtt. A Szászvárosi-hegységben található erődítmény Decebal király idején a dákok közigazgatási, vallási és katonai központjaként szolgált. A helyszínen monumentális teraszok, szentélyek és fejlett vízhálózat maradványai láthatók.",
+      ro: "Sarmizegetusa Regia a fost capitala Regatului Dac înainte de războaiele daco-romane. Situată în Munții Orăștiei, a reprezentat centrul administrativ, religios și militar al dacilor sub regele Decebal. Situl cuprinde terase monumentale, sanctuare și un sistem complex de alimentare cu apă.",
+      en: "Sarmizegetusa Regia was the capital of the Dacian Kingdom before the Daco-Roman wars. Located in the Orăștie Mountains, it served as the administrative, religious, and military center of the Dacians under King Decebalus. The site includes monumental terraces, sanctuaries, and a sophisticated water supply system.",
+    },
+    factsAdvanced: {
+      de: ["UNESCO: Seit 1999 Teil des UNESCO-Weltkulturerbes.", "Zerstörung: Wurde im Jahr 106 n. Chr. von römischen Truppen zerstört.", "Höhe: Die Festung liegt auf einer Höhe von 1.200 Metern.", "Sonnenuhr: Enthält einen großen kreisförmigen Kalender aus Kalkstein.", "Dakerkönige: War die Residenz von Königen wie Burebista und Decebalus.", "Befestigung: Die Mauern wurden in der Technik 'Murus Dacicus' errichtet."],
+      hu: ["UNESCO: 1999 óta az UNESCO Világörökség része.", "Pusztulás: Kr. u. 106-ban rombolták le a római csapatok.", "Magasság: Az erődítmény 1200 méteres magasságban fekszik.", "Napóra: Egy nagyméretű, mészkőből készült kör alakú naptár található itt.", "Dák királyok: Burebista és Decebal uralkodók székhelye volt.", "Építészet: A falak az egyedi 'Murus Dacicus' technikával épültek."],
+      ro: ["UNESCO: Inclusă în Patrimoniul Mondial UNESCO din anul 1999.", "Distrugere: A fost cucerită și distrusă de romani în anul 106 d.Hr.", "Altitudine: Fortăreața este situată la o cotă de 1.200 de metri.", "Calendar: Găzduiește Marele Sanctuar Circular, cu rol de calendar.", "Regi daci: A fost reședința regilor Burebista și Decebal.", "Ziduri: Construită folosind tehnica specifică numită 'Murus Dacicus'."],
+      en: ["UNESCO: Part of the UNESCO World Heritage list since 1999.", "Destruction: Destroyed by Roman troops in 106 AD.", "Altitude: The fortress is situated at an elevation of 1,200 meters.", "Calendar: Features a large circular limestone calendar sanctuary.", "Dacian Kings: Residence of kings including Burebista and Decebalus.", "Walls: Built using the unique 'Murus Dacicus' construction technique."],
+    },
   },
   {
     id: "hist-ulpia-traiana", type: "historical", parent: "RO-HD", coords: [22.7833, 45.5083],
@@ -2810,6 +3967,19 @@ export const romaniaHistorical: POI[] = [
     facts: { de: ["Gegründet um 106 n. Chr.", "Amphitheater erhalten.", "Kolonie mit Stadtrechten."], hu: ["Kr. u. 106 körül alapították.", "Megmaradt amfiteátrum.", "Városjogú colonia."], ro: ["Întemeiată cca 106 d.Hr.", "Amfiteatru conservat.", "Colonia cu drepturi depline."], en: ["Founded c. 106 AD.", "Preserved amphitheatre.", "Colony with full rights."] },
     historyPeriod: "empire", historyYear: 106,
     image: "/geo-images/romania/hist-ulpia-traiana.webp",
+  
+    descriptionAdvanced: {
+      de: "Ulpia Traiana Sarmizegetusa war die Hauptstadt der römischen Provinz Dacia, die nach der Eroberung durch Kaiser Trajan gegründet wurde. Sie liegt etwa 40 km von der dakerischen Hauptstadt entfernt im Hațeg-Becken. Die Stadt war ein wichtiges urbanes Zentrum mit einem Amphitheater, Foren und zahlreichen Tempeln.",
+      hu: "Ulpia Traiana Sarmizegetusa a római Dacia provincia fővárosa volt, amelyet Traianus császár alapított a hódítás után. A Hátszegi-medencében található, körülbelül 40 km-re az egykori dák fővárostól. Fontos városi központ volt amfiteátrummal, fórumokkal és számos templommal.",
+      ro: "Ulpia Traiana Sarmizegetusa a fost capitala provinciei romane Dacia, întemeiată de împăratul Traian după cucerire. Este situată în Țara Hațegului, la circa 40 km de vechea capitală dacică. Orașul a fost un centru urban major, dotat cu amfiteatru, foruri și numeroase temple.",
+      en: "Ulpia Traiana Sarmizegetusa was the capital of the Roman province of Dacia, founded by Emperor Trajan after the conquest. It is located in the Hațeg Basin, about 40 km from the former Dacian capital. The city was a major urban center featuring an amphitheater, forums, and numerous temples.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: Wurde zwischen 108 und 110 n. Chr. gegründet.", "Amphitheater: Das hiesige Amphitheater bot Platz für etwa 5.000 Zuschauer.", "Fläche: Die befestigte Stadt erstreckte sich über etwa 32 Hektar.", "Status: Erhielt den Titel einer römischen Kolonie (Colonia).", "Bevölkerung: Schätzungen zufolge lebten hier 20.000 bis 25.000 Menschen.", "Ausgrabungen: Die ersten systematischen Grabungen begannen im Jahr 1881."],
+      hu: ["Alapítás: Kr. u. 108 és 110 között alapították.", "Amfiteátrum: A helyi amfiteátrum körülbelül 5000 néző befogadására volt alkalmas.", "Terület: Az erődített város területe mintegy 32 hektár volt.", "Státusz: Megkapta a római kolónia (Colonia) rangot.", "Népesség: Becslések szerint 20 000 - 25 000 lakosa volt.", "Ásatások: Az első szisztematikus feltárások 1881-ben kezdődtek."],
+      ro: ["Fondare: Întemeiată între anii 108 și 110 d.Hr. de Decimus Terentius Scaurianus.", "Amfiteatru: Amfiteatrul avea o capacitate de circa 5.000 de spectatori.", "Suprafață: Orașul fortificat ocupa o suprafață de aproximativ 32 de hectare.", "Statut: A deținut rangul de colonie (Colonia Ulpia Traiana Augusta Dacica).", "Populație: Se estimează că orașul avea între 20.000 și 25.000 de locuitori.", "Săpături: Primele cercetări arheologice sistematice au început în 1881."],
+      en: ["Foundation: Established between 108 and 110 AD.", "Amphitheater: The local amphitheater could hold about 5,000 spectators.", "Area: The walled city covered an area of approximately 32 hectares.", "Status: It held the rank of a Roman colony (Colonia).", "Population: Estimated to have had between 20,000 and 25,000 inhabitants.", "Excavations: First systematic archaeological digs began in 1881."],
+    },
   },
   {
     id: "hist-histria", type: "historical", parent: "RO-CT", coords: [28.7767, 44.5469],
@@ -2818,6 +3988,19 @@ export const romaniaHistorical: POI[] = [
     facts: { de: ["Milesische Kolonie.", "Aufgegeben im 7. Jh. n. Chr.", "Ausgrabungen seit 1914."], hu: ["Milétoszi gyarmat.", "A 7. században elhagyták.", "1914 óta ásatások."], ro: ["Colonie milesiană.", "Abandonată în sec. VII d.Hr.", "Săpături din 1914."], en: ["Milesian colony.", "Abandoned in the 7th c. AD.", "Excavated since 1914."] },
     historyPeriod: "empire", historyYear: -657,
     image: "/geo-images/romania/hist-histria.webp",
+  
+    descriptionAdvanced: {
+      de: "Histria ist die älteste dokumentierte Stadt auf rumänischem Territorium und wurde im 7. Jahrhundert v. Chr. von griechischen Kolonisten aus Milet gegründet. Sie liegt am Ufer der Sinoe-Lagune am Schwarzen Meer. Die Stadt war über 1.300 Jahre lang besiedelt, bis sie im 7. Jahrhundert n. Chr. verlassen wurde.",
+      hu: "Hisztria a legkorábbi dokumentált város Románia területén, amelyet Kr. e. 7. században alapítottak milétoszi görög telepesek. A Fekete-tenger partján, a Sinoe-lagúna mentén fekszik. A város több mint 1300 éven át volt lakott, egészen a Kr. u. 7. századi elnéptelenedéséig.",
+      ro: "Histria este cea mai veche așezare atestată de pe teritoriul României, fiind întemeiată de coloniștii greci din Milet în secolul VII î.Hr. Este situată pe malul lacului Sinoe, fost golf al Mării Negre. Cetatea a fost locuită timp de 1300 de ani, până în secolul VII d.Hr.",
+      en: "Histria is the oldest documented settlement on Romanian territory, founded by Greek colonists from Miletus in the 7th century BC. It is located on the shores of the Sinoe Lagoon by the Black Sea. The city was inhabited for over 1,300 years until it was abandoned in the 7th century AD.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: Wurde im Jahr 657 v. Chr. gegründet.", "Münzprägung: Hier wurden um 480 v. Chr. die ersten Münzen Rumäniens geprägt.", "Entdeckung: Die Ruinen wurden 1914 von Vasile Pârvan wiederentdeckt.", "Tempel: Es wurden Tempel für Zeus, Aphrodite und Apollo ausgegraben.", "Mauern: Die römische Stadtmauer umschließt eine Fläche von 7 Hektar.", "Untergang: Wurde nach awarisch-slawischen Überfällen im 7. Jh. verlassen."],
+      hu: ["Alapítás: Kr. e. 657-ben alapították.", "Pénzverés: Itt verték az első érméket Románia területén Kr. e. 480 körül.", "Felfedezés: A romokat 1914-ben Vasile Pârvan fedezte fel.", "Templomok: Zeusz, Aphrodité és Apollón templomainak maradványait tárták fel.", "Falak: A római kori városfalak 7 hektáros területet kerítenek körbe.", "Elhagyás: Az avar-szláv támadások után, a Kr. u. 7. században néptelenedett el."],
+      ro: ["Fondare: Cetatea a fost întemeiată în anul 657 î.Hr.", "Monede: Aici au fost bătute primele monede de pe teritoriul țării, în 480 î.Hr.", "Descoperire: Ruinele au fost identificate în 1914 de către Vasile Pârvan.", "Temple: Au fost descoperite temple dedicate lui Zeus, Afrodita și Apollo.", "Ziduri: Incinta romană târzie cuprinde o suprafață de 7 hectare.", "Abandonare: Orașul a fost părăsit în secolul VII d.Hr. după invaziile avaro-slave."],
+      en: ["Foundation: The city was established in 657 BC.", "Coinage: First coins on Romanian territory were minted here around 480 BC.", "Discovery: The ruins were rediscovered in 1914 by Vasile Pârvan.", "Temples: Excavations revealed temples for Zeus, Aphrodite, and Apollo.", "Walls: The late Roman enclosure covers an area of 7 hectares.", "Abandonment: Deserted in the 7th century AD after Avar-Slavic invasions."],
+    },
   },
   {
     id: "hist-alba-carolina", type: "historical", parent: "RO-AB", coords: [23.568, 46.069],
@@ -2826,6 +4009,19 @@ export const romaniaHistorical: POI[] = [
     facts: { de: ["Erbaut 1715–1738.", "Siebenzackige Form.", "Ort der Union 1918."], hu: ["1715–1738 között épült.", "Hétágú csillag alaprajz.", "Az 1918-as egyesülés helyszíne."], ro: ["Construită 1715–1738.", "Formă stelară cu 7 colțuri.", "Locul Marii Uniri 1918."], en: ["Built 1715–1738.", "Seven-pointed star shape.", "Site of the 1918 Great Union."] },
     historyPeriod: "empire", historyYear: [1715, 1738],
     image: "/geo-images/romania/hist-alba-carolina.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Festung Alba Carolina in Alba Iulia ist die größte und am besten erhaltene Festung im Vauban-Stil in Südosteuropa. Sie wurde im 18. Jahrhundert unter der Herrschaft von Kaiser Karl VI. errichtet. Die Festung hat die Form eines siebenzackigen Sterns und war Schauplatz wichtiger historischer Ereignisse für Rumänien.",
+      hu: "A gyulafehérvári Alba Carolina erőd Délkelet-Európa legnagyobb és legjobb állapotban fennmaradt Vauban-típusú erődítménye. A 18. században épült VI. Károly császár uralkodása alatt. A hétágú csillag alakú erőd számos sorsdöntő történelmi esemény helyszíne volt Románia számára.",
+      ro: "Cetatea Alba Carolina din Alba Iulia este cea mai mare și mai bine conservată fortificație de tip Vauban din sud-estul Europei. A fost construită în secolul XVIII, sub domnia împăratului Carol al VI-lea. Cetatea are formă de stea cu șapte bastioane și a fost scena Marii Uniri.",
+      en: "The Alba Carolina Citadel in Alba Iulia is the largest and best-preserved Vauban-style fortress in Southeastern Europe. It was built in the 18th century under the reign of Emperor Charles VI. The fortress is shaped like a seven-pointed star and was the site of key historical events for Romania.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: Wurde zwischen 1715 und 1738 erbaut.", "Bastionen: Die Festung verfügt über 7 Bastionen und 6 monumentale Tore.", "Umfang: Die Mauern haben eine Gesamtlänge von etwa 12 Kilometern.", "Fläche: Die bebaute Fläche der Festung beträgt ca. 70 Hektar.", "Architekt: Entworfen vom italienischen Architekten Giovanni Morando Visconti.", "Große Vereinigung: Hier wurde am 1. Dezember 1918 die Einheit Rumäniens proklamiert."],
+      hu: ["Építés: 1715 és 1738 között épült fel.", "Bástyák: Az erődítmény 7 bástyával és 6 monumentális kapuval rendelkezik.", "Kerület: A falak teljes hossza megközelítőleg 12 kilométer.", "Terület: Az erőd beépített területe körülbelül 70 hektár.", "Építész: Giovanni Morando Visconti olasz építész tervezte.", "Nagy Egyesülés: Itt kiáltották ki Románia egyesülését 1918. december 1-jén."],
+      ro: ["Construcție: A fost ridicată între anii 1715 și 1738.", "Bastioane: Fortificația are 7 bastioane și 6 porți monumentale.", "Perimetru: Lungimea totală a zidurilor este de aproximativ 12 kilometri.", "Suprafață: Cetatea ocupă o suprafață de circa 70 de hectare.", "Arhitect: Planurile au fost realizate de arhitectul Giovanni Morando Visconti.", "Marea Unire: Aici s-a proclamat Unirea Transilvaniei cu România la 1 dec. 1918."],
+      en: ["Construction: Built between the years 1715 and 1738.", "Bastions: The fortress features 7 bastions and 6 monumental gates.", "Perimeter: The walls have a total length of approximately 12 kilometers.", "Area: The citadel covers a built-up area of about 70 hectares.", "Architect: Designed by the Italian architect Giovanni Morando Visconti.", "Great Union: Romania's unification was proclaimed here on Dec 1, 1918."],
+    },
   },
   {
     id: "hist-bran-castle", type: "historical", parent: "RO-BV", coords: [25.3671, 45.515],
@@ -2834,6 +4030,19 @@ export const romaniaHistorical: POI[] = [
     facts: { de: ["Erbaut 1377–1388.", "Königin Maria wohnte hier.", "Symbol des Bram-Stoker-Romans."], hu: ["1377–1388 között épült.", "Mária királyné lakhelye volt.", "Bram Stoker regényének szimbóluma."], ro: ["Construit 1377–1388.", "Reședință a reginei Maria.", "Simbol al romanului Stoker."], en: ["Built 1377–1388.", "Queen Marie's residence.", "Icon of Stoker's novel."] },
     historyPeriod: "middle-ages", historyYear: [1377, 1388],
     image: "/geo-images/romania/hist-bran-castle.webp",
+  
+    descriptionAdvanced: {
+      de: "Schloss Bran liegt an der Grenze zwischen Transsilvanien und der Walachei und ist weltweit als 'Dracula-Schloss' bekannt. Die Festung wurde ursprünglich von den Siebenbürger Sachsen errichtet, um den Handelsweg durch den Bran-Pass zu kontrollieren. Im 20. Jahrhundert diente es als königliche Residenz für Königin Maria von Rumänien.",
+      hu: "A törcsvári kastély (Bran) Erdély és Havasalföld határán fekszik, és világszerte 'Drakula kastélyaként' ismert. Az erődítményt eredetileg az erdélyi szászok építették a Törcsvári-szoros kereskedelmi útvonalának ellenőrzésére. A 20. században Mária román királyné kedvelt rezidenciájaként szolgált.",
+      ro: "Castelul Bran este situat la granița dintre Transilvania și Muntenia și este cunoscut la nivel mondial sub numele de 'Castelul lui Dracula'. Cetatea a fost ridicată de sași pentru a controla trecătoarea Bran. În secolul XX, a servit drept reședință regală pentru Regina Maria a României.",
+      en: "Bran Castle is situated on the border between Transylvania and Wallachia and is globally known as 'Dracula's Castle'. The fortress was originally built by the Transylvanian Saxons to control the trade route through the Bran Pass. In the 20th century, it served as a royal residence for Queen Marie of Romania.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: Die Steinburg wurde ab dem Jahr 1377 errichtet.", "Zollstation: Diente jahrhundertelang als Grenz- und Zollstation.", "Königin Maria: War ab 1920 die Lieblingsresidenz der rumänischen Königin.", "Zimmeranzahl: Das Schloss verfügt über 57 Zimmer auf vier Etagen.", "Geheimgang: Es gibt einen versteckten Gang, der das erste und dritte Stockwerk verbindet.", "Museum: Wurde 1956 nach der Enteignung als staatliches Museum eröffnet."],
+      hu: ["Építés: A kővár építése 1377-ben kezdődött.", "Vámhely: Évszázadokon át határ- és vámállomásként működött.", "Mária királyné: 1920-tól a román királyné kedvenc lakhelye volt.", "Szobák száma: A kastély 57 szobával rendelkezik négy emeleten.", "Titkos alagút: Van egy rejtett átjáró, amely az első és a harmadik emeletet köti össze.", "Múzeum: 1956-ban nyílt meg állami múzeumként."],
+      ro: ["Construcție: Edificarea castelului din piatră a început în anul 1377.", "Vamă: A funcționat timp de secole ca punct de control și vamă la frontieră.", "Regina Maria: A devenit reședința preferată a Reginei în anul 1920.", "Camere: Castelul cuprinde 57 de camere dispuse pe patru niveluri.", "Pasaj secret: Există o scară secretă ce leagă etajul întâi de etajul trei.", "Muzeu: A fost deschis ca muzeu de stat în anul 1956."],
+      en: ["Construction: Building of the stone castle began in the year 1377.", "Customs: Served as a strategic border and customs point for centuries.", "Queen Marie: It became the favorite royal residence in 1920.", "Rooms: The castle features 57 rooms spread across four levels.", "Secret passage: There is a hidden staircase linking the first and third floors.", "Museum: Opened as a state museum in 1956 after nationalization."],
+    },
   },
   {
     id: "hist-peles-castle", type: "historical", parent: "RO-PH", coords: [25.5425, 45.3597],
@@ -2842,6 +4051,19 @@ export const romaniaHistorical: POI[] = [
     facts: { de: ["Erbaut 1873–1914.", "Erstes elektrifiziertes Schloss Europas.", "König Karl I. ließ es errichten."], hu: ["1873–1914 között épült.", "Európa első villamos árammal ellátott kastélya.", "I. Károly király építtette."], ro: ["Construit 1873–1914.", "Primul castel european cu electricitate.", "Ctitorul: regele Carol I."], en: ["Built 1873–1914.", "First electrified castle in Europe.", "Commissioned by King Carol I."] },
     historyPeriod: "empire", historyYear: [1873, 1914],
     image: "/geo-images/romania/hist-peles-castle.webp",
+  
+    descriptionAdvanced: {
+      de: "Schloss Peleș in Sinaia wurde als Sommerresidenz für König Carol I. erbaut und gilt als eines der bedeutendsten neorenaissancistischen Gebäude Europas. Das Schloss war bei seiner Fertigstellung eines der modernsten der Welt und verfügte über Zentralheizung und einen Aufzug. Die Innenausstattung ist berühmt für ihre prachtvollen Holzschnitzereien.",
+      hu: "A sinaiatelepülési Peleș-kastély I. Károly király nyári rezidenciájaként épült, és Európa egyik legjelentősebb neoreneszánsz épületeként tartják számon. Elkészültekor a világ egyik legmodernebb kastélya volt, központi fűtéssel és lifttel felszerelve. Belső terei híresek a pazar fafaragványokról.",
+      ro: "Castelul Peleș din Sinaia a fost construit ca reședință de vară pentru regele Carol I, fiind unul dintre cele mai importante edificii neorenascentiste din Europa. La finalizare, era unul dintre cele mai moderne castele din lume, având încălzire centrală și lift. Interiorul este celebru pentru sculpturile în lemn.",
+      en: "Peles Castle in Sinaia was built as a summer residence for King Carol I and is considered one of the most important Neo-Renaissance buildings in Europe. Upon completion, it was one of the world's most modern castles, featuring central heating and an elevator. Its interior is famous for magnificent wood carvings.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: Errichtet zwischen 1873 und 1914.", "Erster König: Hier wurde 1893 der spätere König Carol II. geboren.", "Technik: Das weltweit erste Schloss mit einer kompletten Stromversorgung.", "Kino: Verfügt über einen Theatersaal, der 1906 zum ersten Kino Rumäniens wurde.", "Zimmer: Das Schloss besitzt 160 Zimmer und über 30 Badezimmer.", "Höhe: Der Hauptturm erreicht eine Höhe von 66 Metern."],
+      hu: ["Építés: 1873 és 1914 között épült fel.", "Születés: Itt született II. Károly román király 1893-ban.", "Technológia: A világ első kastélya, amely teljes villamos hálózattal rendelkezett.", "Mozi: Színházterme 1906-ban az ország első mozivetítésének helyszíne lett.", "Szobák: A kastély 160 szobával és több mint 30 fürdőszobával rendelkezik.", "Torony: A főtorony magassága eléri a 66 métert."],
+      ro: ["Construcție: A fost înălțat între anii 1873 și 1914.", "Naștere: Aici s-a născut viitorul rege Carol al II-lea, în anul 1893.", "Tehnologie: Primul castel din lume complet electrificat, având uzină proprie.", "Cinema: Sala de teatru a găzduit prima proiecție cinematografică din țară în 1906.", "Capacitate: Castelul are 160 de camere și peste 30 de băi.", "Turn: Turnul central al castelului are o înălțime de 66 de metri."],
+      en: ["Construction: Built over a period between 1873 and 1914.", "Birthplace: Future King Carol II was born here in 1893.", "Technology: World's first castle fully powered by its own electricity plant.", "Cinema: Its theater hall hosted Romania's first film screening in 1906.", "Rooms: The castle contains 160 rooms and over 30 bathrooms.", "Tower: The main tower of the castle stands at 66 meters tall."],
+    },
   },
   {
     id: "hist-corvin-castle", type: "historical", parent: "RO-HD", coords: [22.888, 45.7494],
@@ -2850,6 +4072,19 @@ export const romaniaHistorical: POI[] = [
     facts: { de: ["Erbaut 1446 unter Johann Hunyadi.", "Mächtige Ritterhalle.", "Eines der größten Schlösser Europas."], hu: ["1446-ban Hunyadi János építtette.", "Impozáns lovagterem.", "Európa egyik legnagyobb vára."], ro: ["Construit 1446 de Iancu de Hunedoara.", "Sala Cavalerilor.", "Unul dintre cele mai mari castele europene."], en: ["Built 1446 under John Hunyadi.", "Mighty Knights' Hall.", "One of Europe's largest castles."] },
     historyPeriod: "middle-ages", historyYear: 1446,
     image: "/geo-images/romania/hist-corvin-castle.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Schloss Corvinus in Hunedoara ist eine der größten und imposantesten gotischen Burgen in Europa. Sie wurde im 15. Jahrhundert von Johann Hunyadi auf den Ruinen einer alten Festung errichtet. Die Burg besticht durch ihre wehrhaften Türme, die hohen Zugbrücken und den prachtvollen Rittersaal, der für offizielle Empfänge genutzt wurde.",
+      hu: "A vajdahunyadi vár (Corvin-kastély) Európa egyik legnagyobb és legimpozánsabb gótikus várkastélya. A 15. században építtette Hunyadi János egy korábbi erődítmény romjaira. A vár lenyűgöző védőtornyokkal, magas felvonóhidakkal és egy pompás Lovagteremmel rendelkezik, amelyet fogadásokra használtak.",
+      ro: "Castelul Corvinilor din Hunedoara este una dintre cele mai mari și impresionante cetăți gotice din Europa. A fost ridicat în secolul XV de către Iancu de Hunedoara, pe locul unei vechi fortificații. Castelul se remarcă prin turnurile masive, podurile mobile și Sala Cavalerilor.",
+      en: "Corvin Castle in Hunedoara is one of the largest and most impressive Gothic castles in Europe. It was built in the 15th century by John Hunyadi on the ruins of an older fortification. The castle features massive defensive towers, high drawbridges, and a magnificent Knight's Hall used for receptions.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: Der Ausbau zur Residenz begann im Jahr 1440.", "Brunnen: Der Legende nach wurde der 30 Meter tiefe Brunnen von drei Gefangenen gegraben.", "Dach: Die Türme sind mit charakteristischen bunten Ziegeln gedeckt.", "Säle: Besitzt zwei große Festsäle: den Rittersaal und den Diätensaal.", "Matthias Corvinus: Der Sohn von Johann Hunyadi, König Matthias, setzte den Bau fort.", "Zerstörung: Ein verheerendes Feuer zerstörte 1854 weite Teile der Innenausstattung."],
+      hu: ["Építés: A rezidenciává való kiépítés 1440-ben kezdődött.", "Kút: A legenda szerint a 30 méter mély kutat három rab ásta ki.", "Tető: A tornyokat jellegzetes, színes mázas cserepek borítják.", "Termek: Két nagy terme van: a Lovagterem és az Országház-terem.", "Hunyadi Mátyás: János fia, Mátyás király folytatta a vár díszítését.", "Tűzvész: 1854-ben egy hatalmas tűz pusztította el a belső terek nagy részét."],
+      ro: ["Construcție: Transformarea în castel nobiliar a început în anul 1440.", "Fântâna: Legenda spune că fântâna de 30 m a fost săpată de trei prizonieri.", "Acoperiș: Turnurile au acoperișuri ascuțite placate cu țiglă smălțuită.", "Săli: Castelul are două săli mari: Sala Cavalerilor și Sala Dietei.", "Matia Corvin: Regele Matia, fiul lui Iancu, a continuat extinderea castelului.", "Incendiu: Un incendiu devastator a distrus mare parte din castel în 1854."],
+      en: ["Construction: The transformation into a residence began in 1440.", "Well: Legend says the 30-meter deep well was dug by three prisoners.", "Roof: The towers feature distinctive colorful glazed tile roofs.", "Halls: Features two large halls: the Knight's Hall and the Diet Hall.", "Matthias Corvinus: King Matthias, John's son, continued the construction.", "Fire: A massive fire in 1854 destroyed much of the interior decoration."],
+    },
   },
   {
     id: "hist-sighisoara-citadel", type: "historical", parent: "RO-MS", coords: [24.7925, 46.2192],
@@ -2858,6 +4093,19 @@ export const romaniaHistorical: POI[] = [
     facts: { de: ["9 Türme erhalten.", "Stundturm mit Uhrwerk 1648.", "Vlad Țepeș geboren um 1431."], hu: ["9 torony maradt fenn.", "Óratorony óraszerkezete 1648-ból.", "Vlad Tepes itt született kb. 1431-ben."], ro: ["9 turnuri păstrate.", "Mecanism din 1648 la Turnul cu Ceas.", "Vlad Țepeș născut aici cca 1431."], en: ["9 surviving towers.", "Clock tower mechanism from 1648.", "Vlad the Impaler born here c. 1431."] },
     historyPeriod: "middle-ages",
     image: "/geo-images/romania/hist-sighisoara-citadel.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Zitadelle von Sighișoara ist eine der wenigen bewohnten mittelalterlichen Festungen in Europa und gehört zum UNESCO-Weltkulturerbe. Sie wurde im 12. Jahrhundert von sächsischen Siedlern gegründet und bewahrt ihren authentischen Charakter mit kopfsteingepflasterten Gassen und Zunfttürmen. Die Stadt ist auch als Geburtsort von Vlad dem Pfähler bekannt.",
+      hu: "Segesvár vára egyike Európa kevés lakott középkori erődítményének, és az UNESCO Világörökség része. A 12. században alapították szász telepesek, és máig őrzi eredeti jellegét macskaköves utcáival és céhtornyaival. A város Vlad Tepes (Drakula) szülőhelyeként is ismert.",
+      ro: "Cetatea Sighișoara este una dintre puținele cetăți medievale locuite din Europa, fiind inclusă în Patrimoniul Mondial UNESCO. Fondată în secolul XII de coloniștii sași, își păstrează caracterul autentic cu străzi înguste și turnuri ale breslelor. Este locul de naștere al lui Vlad Țepeș.",
+      en: "Sighișoara Citadel is one of the few inhabited medieval fortresses in Europe and is a UNESCO World Heritage site. Founded in the 12th century by Saxon settlers, it preserves its authentic character with cobblestone streets and guild towers. The city is also known as the birthplace of Vlad the Impaler.",
+    },
+    factsAdvanced: {
+      de: ["Stundturm: Das Wahrzeichen der Stadt ist 64 Meter hoch und stammt aus dem 14. Jh.", "UNESCO: Die historische Altstadt wurde 1999 in die Welterbeliste aufgenommen.", "Zunfttürme: Von ursprünglich 14 Türmen sind heute noch 9 erhalten.", "Schülertreppe: Eine überdachte Holztreppe mit 175 Stufen führt zur Bergkirche.", "Geburtshaus: Das Haus von Vlad Țepeș befindet sich im Zentrum der Zitadelle.", "Befestigung: Die Stadtmauer war ursprünglich 930 Meter lang."],
+      hu: ["Óratorony: A város jelképe 64 méter magas, és a 14. században épült.", "UNESCO: A történelmi központ 1999-ben került fel a Világörökség listájára.", "Céhtornyok: Az eredeti 14 toronyból mára 9 maradt fenn.", "Diáklépcső: Egy 175 fokos fedett falépcső vezet fel a vártemplomhoz.", "Szülőház: Vlad Tepes szülőháza a vár központjában található.", "Várfal: Az erődítmény fala eredetileg 930 méter hosszú volt."],
+      ro: ["Turnul cu Ceas: Simbolul orașului are 64 metri înălțime și datează din sec. XIV.", "UNESCO: Centrul istoric a fost inclus în lista UNESCO în anul 1999.", "Turnuri: Din cele 14 turnuri inițiale ale breslelor, se mai păstrează 9.", "Scara Școlarilor: O scară acoperită din lemn cu 175 de trepte, construită în 1642.", "Vlad Țepeș: Casa în care s-a născut domnitorul se află lângă Turnul cu Ceas.", "Ziduri: Zidul cetății avea inițial o lungime totală de 930 de metri."],
+      en: ["Clock Tower: The city's landmark is 64 meters tall and dates to the 14th century.", "UNESCO: The historic center was added to the World Heritage list in 1999.", "Guild Towers: Out of the original 14 guild towers, 9 are still standing today.", "Scholars' Stairs: A covered wooden staircase with 175 steps built in 1642.", "Birthplace: Vlad the Impaler's birth house is located within the citadel.", "Fortification: The defensive wall was originally 930 meters long."],
+    },
   },
   {
     id: "hist-voronet", type: "historical", parent: "RO-SV", coords: [25.865, 47.517],
@@ -2866,6 +4114,19 @@ export const romaniaHistorical: POI[] = [
     facts: { de: ["Erbaut 1488 unter Stefan dem Großen.", "Jüngstes Gericht an der Westfassade.", "UNESCO-Welterbe."], hu: ["1488-ban Nagy István építtette.", "Az Utolsó ítélet freskó a nyugati homlokzaton.", "UNESCO-örökség."], ro: ["Ctitorită 1488 de Ștefan cel Mare.", "Judecata de Apoi pe fațada vestică.", "Patrimoniu UNESCO."], en: ["Founded 1488 by Stephen the Great.", "Last Judgement on west facade.", "UNESCO site."] },
     historyPeriod: "middle-ages", historyYear: 1488,
     image: "/geo-images/romania/hist-voronet.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Kloster Voroneț ist bekannt als die Sixtinische Kapelle des Ostens. Es wurde 1488 im Auftrag von Stefan dem Großen in nur drei Monaten und drei Wochen erbaut. Die Außenfresken zeigen eine einzigartige Nuance von Blau, die als Voroneț-Blau in die Kunstgeschichte einging. Das Gebäude gehört seit 1993 zum UNESCO-Welterbe.",
+      hu: "A Voroneț-kolostor a kelet Szixtus-kápolnájaként ismert, és 1488-ban épült III. István moldovai fejedelem megbízásából. Az építkezés mindössze három hónapig és három hétig tartott. Különlegessége a voroneți kék néven ismert egyedi színárnyalat, amely a külső freskókon dominál. A templom 1993 óta az UNESCO Világörökség része.",
+      ro: "Mănăstirea Voroneț este cunoscută drept Capela Sixtină a Estului datorită frescelor sale exterioare de o valoare excepțională. A fost ctitorită de Ștefan cel Mare în anul 1488, fiind construită în doar trei luni și trei săptămâni. Nuanța unică de albastru utilizată în pictură a devenit celebră sub numele de Albastru de Voroneț. Monumentul este inclus în patrimoniul mondial UNESCO din 1993.",
+      en: "Voroneț Monastery is widely known as the Sistine Chapel of the East due to its magnificent exterior frescoes. It was founded by Stephen the Great in 1488 and completed in just three months and three weeks. The unique shade of blue used in its paintings is world-renowned as Voroneț Blue. The site has been part of the UNESCO World Heritage since 1993.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1488", "Bauzeit: 3 Monate und 21 Tage", "UNESCO-Weltkulturerbe seit 1993", "Berühmtes Pigment: Voroneț-Blau", "Hauptthema der Westwand: Das Jüngste Gericht", "Stifter: Fürst Stefan der Große"],
+      hu: ["Építés éve: 1488", "Építési időtartam: 3 hónap és 21 nap", "UNESCO Világörökség: 1993 óta", "Híres pigment: Voroneți kék", "Fő ábrázolás: Az Utolsó Ítélet a nyugati falon", "Alapító: III. István moldovai fejedelem"],
+      ro: ["An construcție: 1488", "Durată execuție: 3 luni și 21 de zile", "Patrimoniu UNESCO: din 1993", "Pigment celebru: Albastru de Voroneț", "Tema principală: Judecata de Apoi pe fațada vestică", "Ctitor: Ștefan cel Mare"],
+      en: ["Year built: 1488", "Construction time: 3 months and 21 days", "UNESCO World Heritage since 1993", "Famous pigment: Voroneț Blue", "Main theme: The Last Judgment on the west wall", "Founder: Stephen the Great"],
+    },
   },
   {
     id: "hist-moldovita", type: "historical", parent: "RO-SV", coords: [25.585, 47.655],
@@ -2874,6 +4135,19 @@ export const romaniaHistorical: POI[] = [
     facts: { de: ["Erbaut 1532.", "Belagerung Konstantinopels als Fresko.", "Gut erhaltene Außenmalerei."], hu: ["1532-ben épült.", "A konstantinápolyi ostrom mint freskó.", "Jól megőrzött külső freskók."], ro: ["Construită 1532.", "Asediul Constantinopolului.", "Frescă exterioară bine păstrată."], en: ["Built 1532.", "Siege of Constantinople fresco.", "Well-preserved exterior paintings."] },
     historyPeriod: "middle-ages", historyYear: 1532,
     image: "/geo-images/romania/hist-moldovita.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Kloster Moldovița wurde 1532 von Petru Rareș gegründet und ist eines der bedeutendsten Denkmäler der moldauischen Kunst. Die Anlage dient als Wehrkloster mit hohen Mauern und Türmen zum Schutz gegen Invasoren. Die Außenmalereien zeigen detaillierte Szenen wie die Belagerung von Konstantinopel. Das Gebäude wurde 1993 in die UNESCO-Liste aufgenommen.",
+      hu: "A Moldovița-kolostort 1532-ben alapította Petru Rareș fejedelem, a moldvai művészet egyik kiemelkedő alkotásaként. Az erődített kolostor magas falakkal és tornyokkal rendelkezik a külső támadások elleni védelem érdekében. Külső falfestményei olyan részletes jeleneteket ábrázolnak, mint Konstantinápoly ostroma. 1993 óta az UNESCO Világörökség része.",
+      ro: "Mănăstirea Moldovița a fost ridicată în anul 1532 de către voievodul Petru Rareș, fiind un monument de referință al artei moldovenești. Complexul are aspectul unei fortărețe, cu ziduri înalte și turnuri de apărare. Picturile exterioare sunt remarcabile, ilustrând scene istorice precum Asediul Constantinopolului. Monumentul a fost inclus pe lista UNESCO în anul 1993.",
+      en: "Moldovița Monastery was established in 1532 by Prince Petru Rareș and stands as a masterpiece of Moldavian art. The complex functions as a fortified monastery with high walls and towers built for protection against invaders. Its exterior frescoes depict detailed scenes such as the Siege of Constantinople. The site joined the UNESCO World Heritage list in 1993.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1532", "Stifter: Fürst Petru Rareș", "UNESCO-Status seit 1993", "Hauptfresko: Belagerung von Konstantinopel", "Festungsmauern: 6 Meter hoch", "Farbschema: Vorherrschendes Gelb und Blau"],
+      hu: ["Építés éve: 1532", "Alapító: Petru Rareș fejedelem", "UNESCO-tagság: 1993 óta", "Fő freskó: Konstantinápoly ostroma", "Védőfalak magassága: 6 méter", "Színvilág: Domináns sárga és kék"],
+      ro: ["An ctitorire: 1532", "Ctitor: Petru Rareș", "Includere UNESCO: 1993", "Pictură celebră: Asediul Constantinopolului", "Ziduri de incintă: 6 metri înălțime", "Cromatică: Predomină galbenul și albastrul"],
+      en: ["Year built: 1532", "Founder: Prince Petru Rareș", "UNESCO status: since 1993", "Famous fresco: Siege of Constantinople", "Enclosure walls: 6 meters high", "Color palette: Dominant yellow and blue"],
+    },
   },
   {
     id: "hist-sucevita", type: "historical", parent: "RO-SV", coords: [25.712, 47.777],
@@ -2882,6 +4156,19 @@ export const romaniaHistorical: POI[] = [
     facts: { de: ["Erbaut um 1585.", "\"Himmelsleiter\" Fresko.", "Festungsartige Anlage."], hu: ["Kb. 1585-ben épült.", "\"Mennyekbe vezető létra\" freskó.", "Erődített kolostor."], ro: ["Construită cca 1585.", "Fresca \"Scara Virtuților\".", "Zidită ca o cetate."], en: ["Built c. 1585.", "\"Ladder of Virtues\" fresco.", "Fortress-like complex."] },
     historyPeriod: "middle-ages", historyYear: 1585,
     image: "/geo-images/romania/hist-sucevita.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Kloster Sucevița wurde 1585 von der Familie Movilă erbaut und vereint byzantinische und gotische Architekturelemente. Es verfügt über die größte Anzahl an religiösen Darstellungen unter den bemalten Kirchen Moldaus. Die gewaltigen Verteidigungsmauern lassen die Anlage wie eine mittelalterliche Festung erscheinen. Seit 2010 ist es Teil des UNESCO-Weltkulturerbes.",
+      hu: "A Sucevița-kolostort a Movilă család építtette 1585-ben, ötvözve a bizánci és gótikus építészeti elemeket. Itt található a legtöbb vallási ábrázolás a moldvai festett templomok közül. Masszív védőfalai és bástyái középkori erődítmény látszatát keltik. 2010-ben került fel az UNESCO Világörökségi listájára.",
+      ro: "Mănăstirea Sucevița a fost construită în 1585 de familia Movilă, îmbinând elemente de arhitectură bizantină și gotică. Deține cel mai mare număr de imagini religioase dintre bisericile pictate din Moldova. Zidurile masive de apărare îi conferă aspectul unei cetăți medievale impunătoare. A fost inclusă în patrimoniul UNESCO în anul 2010.",
+      en: "Sucevița Monastery was built in 1585 by the Movilă family, blending Byzantine and Gothic architectural styles. It contains the largest number of religious images among the painted churches of Moldavia. Its massive defensive walls give the complex the appearance of a medieval fortress. It was designated a UNESCO World Heritage site in 2010.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 1581–1584", "Stifter: Familie Movilă", "UNESCO-Eintrag: 2010", "Besonderheit: Die Leiter der Tugenden (Fresko)", "Mauerdicke: 3 Meter", "Anzahl der Wehrtürme: 4"],
+      hu: ["Építési idő: 1581–1584", "Alapító: Movilă család", "UNESCO-listázás: 2010", "Különlegesség: Az Erények létrája freskó", "Falak vastagsága: 3 méter", "Védőtornyok száma: 4"],
+      ro: ["Ani construcție: 1581–1584", "Ctitori: Familia Movilă", "An UNESCO: 2010", "Pictură iconică: Scara Virtuților", "Grosimea zidurilor: 3 metri", "Număr turnuri de apărare: 4"],
+      en: ["Built: 1581–1584", "Founders: Movilă family", "UNESCO entry: 2010", "Key feature: Ladder of Divine Ascent fresco", "Wall thickness: 3 meters", "Number of watchtowers: 4"],
+    },
   },
   {
     id: "hist-horezu", type: "historical", parent: "RO-VL", coords: [24.0, 45.17],
@@ -2890,6 +4177,19 @@ export const romaniaHistorical: POI[] = [
     facts: { de: ["Erbaut 1690–1697.", "Fürst Constantin Brâncoveanu.", "Keramik von Horezu berühmt."], hu: ["1690–1697 között épült.", "Brâncoveanu fejedelem alapította.", "Híres horezu-i kerámia."], ro: ["Construită 1690–1697.", "Ctitorită de Brâncoveanu.", "Ceramica de Horezu, UNESCO."], en: ["Built 1690–1697.", "Founded by Prince Brâncoveanu.", "Famous Horezu pottery."] },
     historyPeriod: "reformation", historyYear: [1690, 1697],
     image: "/geo-images/romania/hist-horezu.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Kloster Horezu wurde 1690 von Fürst Constantin Brâncoveanu gegründet und gilt als Meisterwerk des Brâncoveanu-Stils. Die Architektur zeichnet sich durch Reinheit, Ausgewogenheit und reiche Schnitzereien aus. Das Kloster war ein wichtiges kulturelles Zentrum mit einer berühmten Malschule. Es ist seit 1993 als UNESCO-Weltkulturerbe anerkannt.",
+      hu: "A Horezu-kolostort 1690-ben alapította Constantin Brâncoveanu fejedelem, és a Brâncoveanu-stílus legtisztább példájának tekintik. Az építészetet az egyensúly, a gazdag kőfaragások és a díszes oszlopcsarnokok jellemzik. A kolostor fontos kulturális központ volt, híres festészeti iskolával. 1993 óta az UNESCO Világörökség része.",
+      ro: "Mănăstirea Horezu a fost fondată în 1690 de Constantin Brâncoveanu și este considerată cea mai completă expresie a stilului brâncovenesc. Arhitectura se remarcă prin echilibru, puritate și bogăția detaliilor sculptate în piatră. A reprezentat un centru cultural major, găzduind o renumită școală de pictură. Este inclusă în patrimoniul UNESCO din 1993.",
+      en: "Horezu Monastery was founded in 1690 by Prince Constantin Brâncoveanu and is regarded as the finest masterpiece of the Brâncovenesc style. Its architecture is characterized by balance, structural purity, and intricate stone carvings. It served as a major cultural hub, hosting a famous school of painting. The site was listed by UNESCO in 1993.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1690", "Stil: Brâncovenesc", "UNESCO-Weltkulturerbe: 1993", "Stifter: Constantin Brâncoveanu", "Lage: Kreis Vâlcea", "Zentrum der Keramikherstellung"],
+      hu: ["Alapítás éve: 1690", "Stílus: Brâncoveanu-stílus", "UNESCO Világörökség: 1993", "Alapító: Constantin Brâncoveanu", "Helyszín: Vâlcea megye", "Híres kerámiaközpont"],
+      ro: ["Anul fondării: 1690", "Stil arhitectural: Brâncovenesc", "Patrimoniu UNESCO: 1993", "Ctitor: Constantin Brâncoveanu", "Locație: Județul Vâlcea", "Centru renumit pentru ceramică"],
+      en: ["Year founded: 1690", "Style: Brâncovenesc", "UNESCO Heritage: 1993", "Founder: Constantin Brâncoveanu", "Location: Vâlcea County", "Renowned pottery center"],
+    },
   },
   {
     id: "hist-poenari", type: "historical", parent: "RO-AG", coords: [24.628, 45.355],
@@ -2898,6 +4198,19 @@ export const romaniaHistorical: POI[] = [
     facts: { de: ["1.480 Treppen zum Aufstieg.", "15. Jahrhundert.", "An der Transfăgărășan."], hu: ["1480 lépcső vezet fel.", "15. századi.", "A Transzfogarasi út mentén."], ro: ["1.480 de trepte.", "Secolul XV.", "Pe Transfăgărășan."], en: ["1,480 steps to reach it.", "15th century.", "Along Transfăgărășan."] },
     historyPeriod: "middle-ages", historyYear: 1459,
     image: "/geo-images/romania/hist-poenari.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Zitadelle von Poenari war die wahre Festung von Vlad III. Drăculea im 15. Jahrhundert. Sie liegt strategisch günstig auf einem hohen Felsen über dem Argeș-Tal. Um die Ruinen zu erreichen, müssen Besucher eine Treppe mit 1480 Stufen erklimmen. Die Festung sicherte den Zugang zwischen der Walachei und Siebenbürgen.",
+      hu: "A Poenari-vár volt III. Vlad havasalföldi fejedelem, a történelmi Drakula valódi erődítménye a 15. században. Stratégiai helyen, egy meredek sziklán épült az Argeș-völgy felett. A romokhoz való feljutáshoz 1480 lépcsőfokot kell megmászni. Az erőd fontos védelmi pont volt Havasalföld és Erdély között.",
+      ro: "Cetatea Poenari a fost adevărata fortăreață a lui Vlad Țepeș, ridicată în secolul al XV-lea pe un vârf de munte. Este situată strategic deasupra cheilor Argeșului, oferind o vizibilitate excelentă asupra văii. Pentru a ajunge la ruine, vizitatorii trebuie să urce 1480 de trepte de beton. Fortificația asigura controlul asupra drumului dintre Muntenia și Transilvania.",
+      en: "Poenari Citadel was the authentic fortress of Vlad the Impaler, dating back to the 15th century. It is strategically perched on a rocky cliff overlooking the Argeș River valley. To reach the ruins, visitors must climb a steep stairway consisting of 1,480 steps. The fortress served as a critical defensive point between Wallachia and Transylvania.",
+    },
+    factsAdvanced: {
+      de: ["Höhe der Treppe: 1480 Stufen", "Bauherr: Vlad III. Drăculea", "Bauzeit: 15. Jahrhundert (Ausbau)", "Lage: Transfăgărășan-Straße", "Erste Erwähnung: 13. Jahrhundert", "Zustand: Ruine"],
+      hu: ["Lépcsőfokok száma: 1480", "Építtető: III. Vlad (Karóbahúzó)", "Építési idő: 15. század", "Helyszín: Transzfogarasi út mellett", "Első említés: 13. század", "Állapot: Romvár"],
+      ro: ["Număr trepte: 1480", "Ctitor principal: Vlad Țepeș", "Secol construcție: al XV-lea", "Localizare: Transfăgărășan", "Prima atestare: secolul al XIII-lea", "Statut: Monument în ruină"],
+      en: ["Number of steps: 1,480", "Main builder: Vlad the Impaler", "Century: 15th century expansion", "Location: Near Transfăgărășan", "First mention: 13th century", "Condition: Ruins"],
+    },
   },
   {
     id: "hist-curtea-veche", type: "historical", parent: "RO-B", coords: [26.1, 44.43],
@@ -2906,6 +4219,19 @@ export const romaniaHistorical: POI[] = [
     facts: { de: ["Erwähnt 1459 – Bukarests Geburtstag.", "Curtea-Veche-Kirche (16. Jh.).", "Im Altstadtviertel Lipscani."], hu: ["1459-ben említve – Bukarest születése.", "Curtea Veche templom (16. század).", "A Lipscani óvárosi negyedben."], ro: ["Atestat 1459 – nașterea Bucureștiului.", "Biserica Curtea Veche (sec. XVI).", "În Centrul Vechi (Lipscani)."], en: ["Attested 1459 – Bucharest's birth.", "Curtea Veche Church (16th c.).", "In Lipscani old town."] },
     historyPeriod: "middle-ages", historyYear: 1459,
     image: "/geo-images/romania/hist-curtea-veche.webp",
+  
+    descriptionAdvanced: {
+      de: "Curtea Veche ist der älteste mittelalterliche Fürstenhof in Bukarest und wurde im 15. Jahrhundert von Vlad III. erbaut. Er diente jahrhundertelang als Residenz der walachischen Fürsten. Die Ausgrabungsstätte im Stadtzentrum zeigt Ruinen von Mauern, Bögen und antiken Säulen. Angrenzend befindet sich die Kirche Curtea Veche, das älteste religiöse Gebäude der Stadt.",
+      hu: "A Curtea Veche Bukarest legrégebbi középkori fejedelmi udvara, amelyet a 15. században III. Vlad alapított. Évszázadokon át a havasalföldi fejedelmek rezidenciájaként szolgált. A városközpontban található régészeti lelőhely falmaradványokat, boltozatokat és oszlopokat mutat be. Mellette áll a Curtea Veche-templom, a főváros legrégebbi egyházi épülete.",
+      ro: "Curtea Veche reprezintă prima curte domnească din București, fiind întemeiată de Vlad Țepeș în secolul al XV-lea. A servit timp de secole ca reședință principală a domnitorilor Țării Românești. Situl arheologic din centrul orașului păstrează vestigii ale zidurilor, arcadelor și coloanelor de altădată. Alături se află Biserica Curtea Veche, cel mai vechi lăcaș de cult din capitală.",
+      en: "Curtea Veche is the oldest medieval princely court in Bucharest, established by Vlad the Impaler in the 15th century. It served for centuries as the residence of the Wallachian princes. The archaeological site in the city center features ruins of walls, arches, and ancient columns. Adjacent stands the Curtea Veche Church, the oldest religious building in the capital.",
+    },
+    factsAdvanced: {
+      de: ["Gründer: Vlad III. (1459)", "Lage: Stadtviertel Lipscani", "Funktion: Fürstliche Residenz", "Älteste Kirche: 1559 erbaut", "Fläche: ca. 5000 m²", "Zustand: Freilichtmuseum"],
+      hu: ["Alapító: III. Vlad (1459)", "Helyszín: Lipscani negyed", "Funkció: Fejedelmi rezidencia", "Legrégebbi templom: 1559", "Terület: kb. 5000 m²", "Állapot: Szabadtéri múzeum"],
+      ro: ["Fondator: Vlad Țepeș (1459)", "Locație: Cartierul Lipscani", "Destinație: Reședință domnească", "Biserica Sf. Anton: construită în 1559", "Suprafață: aprox. 5000 m²", "Statut: Muzeu arheologic"],
+      en: ["Founder: Vlad the Impaler (1459)", "Location: Lipscani district", "Function: Princely residence", "Oldest church: built 1559", "Area: approx. 5,000 m²", "Status: Open-air museum"],
+    },
   },
   {
     id: "hist-targoviste-court", type: "historical", parent: "RO-DB", coords: [25.4586, 44.9317],
@@ -2913,6 +4239,19 @@ export const romaniaHistorical: POI[] = [
     description: { de: "Ehemalige Hauptstadt der Walachei und Residenz von Vlad Țepeș.", hu: "Havasalföld egykori fővárosa és Vlad Tepes rezidenciája.", ro: "Fostă capitală a Țării Românești și reședința lui Vlad Țepeș.", en: "Former capital of Wallachia and residence of Vlad the Impaler." },
     facts: { de: ["Chindia-Turm.", "Große Fürstenkirche.", "Ort der Ceaușescu-Hinrichtung."], hu: ["Chindia-torony.", "Nagyfejedelmi templom.", "A Ceaușescu-házaspár kivégzésének helye."], ro: ["Turnul Chindia.", "Biserica Mare Domnească.", "Locul procesului și execuției soților Ceaușescu."], en: ["Chindia Tower.", "Great Princely Church.", "Site of the Ceaușescu execution."] },
     image: "/geo-images/romania/hist-targoviste-court.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Fürstenhof von Târgoviște war zwischen 1418 und 1659 die Hauptstadt der Walachei. Das markanteste Wahrzeichen ist der Chindia-Turm, der im 15. Jahrhundert zur Verteidigung und Beobachtung errichtet wurde. Die Anlage umfasst Ruinen des Fürstenpalastes und eine gut erhaltene Hofkirche. Viele berühmte Herrscher, darunter Vlad III., regierten von hier aus.",
+      hu: "A târgoviștei fejedelmi udvar 1418 és 1659 között Havasalföld fővárosa volt. Legismertebb emléke a Chindia-torony, amelyet a 15. században építettek védelmi és megfigyelési célokra. A komplexum magában foglalja a fejedelmi palota romjait és a jól megőrzött udvari templomot. Számos híres uralkodó, köztük III. Vlad is innen kormányzott.",
+      ro: "Curtea Domnească din Târgoviște a fost capitala Țării Românești între anii 1418 și 1659. Simbolul complexului este Turnul Chindiei, ridicat în secolul al XV-lea pentru apărare și supraveghere. Ansamblul cuprinde ruinele palatului domnesc și o biserică de curte bine conservată. Numeroși domnitori celebri, inclusiv Vlad Țepeș, au guvernat de la această reședință.",
+      en: "The Princely Court of Târgoviște served as the capital of Wallachia between 1418 and 1659. Its most iconic landmark is the Chindia Tower, built in the 15th century for defense and surveillance. The complex includes the ruins of the princely palace and a well-preserved court church. Many famous rulers, including Vlad the Impaler, governed from this location.",
+    },
+    factsAdvanced: {
+      de: ["Hauptstadt-Ära: 1418–1659", "Höhe des Chindia-Turms: 27 Meter", "Bauherr des Turms: Vlad III.", "Anzahl der Herrscher: 33 Fürsten", "Baustil: Walachische Gotik", "Status: Nationales Museum"],
+      hu: ["Fővárosi időszak: 1418–1659", "Chindia-torony magassága: 27 méter", "Torony építtetője: III. Vlad", "Uralkodók száma: 33 fejedelem", "Stílus: Havasalföldi gótika", "Állapot: Nemzeti múzeum"],
+      ro: ["Perioadă capitală: 1418–1659", "Înălțime Turnul Chindiei: 27 metri", "Ctitor turn: Vlad Țepeș", "Număr domnitori: 33 de voievozi", "Stil: Gotic muntenesc", "Statut: Muzeu național"],
+      en: ["Capital period: 1418–1659", "Chindia Tower height: 27 meters", "Tower builder: Vlad the Impaler", "Number of rulers: 33 princes", "Style: Wallachian Gothic", "Status: National museum"],
+    },
   },
   {
     id: "hist-oradea-fortress", type: "historical", parent: "RO-BH", coords: [21.942, 47.051],
@@ -2920,6 +4259,19 @@ export const romaniaHistorical: POI[] = [
     description: { de: "Mächtige fünfzackige Sternfestung im Westen Rumäniens.", hu: "Hatalmas ötszögletű csillagvár Románia nyugati részén.", ro: "Cetate bastionară în formă de stea cu cinci colțuri.", en: "Massive pentagonal star-shaped fortress in western Romania." },
     facts: { de: ["Religiöses Zentrum im Mittelalter.", "Vielmals belagert.", "Heute Kulturzentrum."], hu: ["Középkori vallási központ.", "Számos alkalommal ostromolták.", "Ma kulturális központ."], ro: ["Centru religios important în Evul Mediu.", "Asediată de numeroase ori.", "Recent restaurată și deschisă publicului."], en: ["Medieval religious center.", "Besieged numerous times.", "Recently restored cultural hub."] },
     image: "/geo-images/romania/hist-oradea-fortress.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Festung Oradea ist eine der besterhaltenen sternförmigen Verteidigungsanlagen in Europa. Die heutige pentagonale Form stammt aus dem 16. bis 18. Jahrhundert und wurde von italienischen Architekten entworfen. Jahrhundertelang diente sie als wichtiges strategisches Zentrum zwischen dem Osmanischen Reich und dem Habsburgerreich. Die Anlage beherbergt heute ein Kulturzentrum und ein Museum.",
+      hu: "Nagyvárad vára Európa egyik legjobb állapotban fennmaradt csillag alakú erődítménye. Jelenlegi ötszögletű formáját a 16. és 18. század között nyerte el olasz építészek tervei alapján. Évszázadokon át fontos stratégiai központ volt az Oszmán és a Habsburg Birodalom között. Az erőd ma kulturális központnak és múzeumnak ad otthont.",
+      ro: "Cetatea Oradea este una dintre cele mai bine conservate fortificații în stil stelar din Europa. Forma sa pentagonală actuală datează din secolele XVI-XVIII, fiind proiectată de arhitecți italieni. Timp de secole, a reprezentat un punct strategic crucial între Imperiul Otoman și cel Habsburgic. În prezent, complexul găzduiește un centru cultural și un muzeu de istorie.",
+      en: "Oradea Fortress is one of the best-preserved star-shaped fortifications in Europe. Its current pentagonal form dates from the 16th to the 18th centuries and was designed by Italian architects. For centuries, it served as a critical strategic hub between the Ottoman and Habsburg Empires. The complex now houses a cultural center and a history museum.",
+    },
+    factsAdvanced: {
+      de: ["Form: Pentagonales Sternsystem", "Bauzeit: 16. bis 18. Jahrhundert", "Anzahl der Bastionen: 5", "Fläche: 15 Hektar", "Baustil: Italienische Renaissance", "Erste Erwähnung: 11. Jahrhundert"],
+      hu: ["Forma: Ötszögletű csillagvár", "Építési idő: 16–18. század", "Bástyák száma: 5", "Terület: 15 hektár", "Stílus: Itáliai reneszánsz", "Első említés: 11. század"],
+      ro: ["Formă: Pentagonală stelară", "Ani reconstrucție: secolele XVI-XVIII", "Număr bastioane: 5", "Suprafață: 15 hectare", "Stil: Renaștere italiană", "Prima atestare: secolul al XI-lea"],
+      en: ["Shape: Pentagonal star", "Reconstruction: 16th-18th centuries", "Number of bastions: 5", "Area: 15 hectares", "Style: Italian Renaissance", "First mention: 11th century"],
+    },
   },
   {
     id: "hist-deva-citadel", type: "historical", parent: "RO-HD", coords: [22.896, 45.888],
@@ -2927,6 +4279,19 @@ export const romaniaHistorical: POI[] = [
     description: { de: "Ruine einer strategischen Festung auf einem Vulkankegel.", hu: "Stratégiai fontosságú várrom egy vulkáni kúpon.", ro: "Ruinele unei cetăți strategice pe un con vulcanic.", en: "Ruins of a strategic fortress atop a volcanic cone." },
     facts: { de: ["Erbaut im 13. Jh.", "Wichtiger Grenzschutz.", "Erreichbar per Seilbahn."], hu: ["A 13. században épült.", "Fontos határvédelmi szerep.", "Siklóval megközelíthető."], ro: ["Construită în secolul al XIII-lea.", "Cheia Mureșului.", "Accesibilă cu telecabina."], en: ["Built in the 13th century.", "Key to the Mureș Valley.", "Accessible by funicular."] },
     image: "/geo-images/romania/hist-deva-citadel.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Zitadelle von Deva thront auf einem erloschenen Vulkankegel über der Stadt Deva im Kreis Hunedoara. Die erste urkundliche Erwähnung stammt aus dem Jahr 1269, als sie eine wichtige Grenzfestung gegen Invasoren war. Im Jahr 1849 wurde die Festung durch eine gewaltige Explosion des Pulvermagazins fast vollständig zerstört. Heute ist sie ein beliebtes Ausflugsziel, das mit einer Seilbahn erreichbar ist.",
+      hu: "Déva vára egy kialudt vulkáni kúpon magasodik Déva városa felett, Hunyad megyében. Első írásos említése 1269-ből származik, amikor fontos határerődítmény volt a támadók ellen. 1849-ben a vár lőporraktárának felrobbanása szinte az egész erődítményt romba döntötte. Ma népszerű turisztikai célpont, amely siklóval is megközelíthető.",
+      ro: "Cetatea Devei este situată pe un con vulcanic stins care domină orașul Deva din județul Hunedoara. Prima atestare documentară datează din 1269, fortificația fiind un punct strategic cheie la granița Transilvaniei. În anul 1849, o explozie masivă la depozitul de muniție a distrus mare parte din structură. Astăzi este un obiectiv turistic major, accesibil cu telecabina.",
+      en: "Deva Citadel is perched atop an extinct volcanic cone overlooking the city of Deva in Hunedoara County. Its first documented mention dates to 1269, when it served as a key border fortress against invaders. In 1849, a massive explosion in the gunpowder magazine destroyed most of the structure. Today, it is a popular tourist destination accessible by cable car.",
+    },
+    factsAdvanced: {
+      de: ["Höhe des Berges: 371 Meter", "Baujahr: 13. Jahrhundert", "Zerstörung: 1849 (Explosion)", "Anzahl der Tore: 3", "Erreichbarkeit: Standseilbahn", "Denkmalstatus: Kategorie A"],
+      hu: ["Várhegy magassága: 371 méter", "Építés éve: 13. század", "Pusztulás: 1849 (robbanás)", "Kapuk száma: 3", "Megközelítés: Sikló", "Státusz: A-kategóriás műemlék"],
+      ro: ["Înălțime deal: 371 metri", "Secol construcție: al XIII-lea", "An distrugere: 1849 (explozie)", "Număr porți: 3", "Acces: Telecabină modernă", "Statut: Monument istoric"],
+      en: ["Hill height: 371 meters", "Century built: 13th century", "Destruction: 1849 (explosion)", "Number of gates: 3", "Access: Funicular railway", "Status: Category A monument"],
+    },
   },
   {
     id: "hist-rasnov-fortress", type: "historical", parent: "RO-BV", coords: [25.468, 45.59],
@@ -2934,6 +4299,19 @@ export const romaniaHistorical: POI[] = [
     description: { de: "Gut erhaltene Bauernburg auf einem felsigen Hügel.", hu: "Jó állapotban fennmaradt parasztvár egy sziklás dombon.", ro: "Cetate țărănească bine conservată pe un deal stâncos.", en: "Well-preserved peasant fortress on a rocky hill." },
     facts: { de: ["Fluchtort für Dorfbewohner.", "Tiefer Brunnen (146 m).", "Panoramablick."], hu: ["Menekülőhely a falusiaknak.", "Mély kút (146 m).", "Panorámás kilátás."], ro: ["Refugiu pentru localnici.", "Fântână adâncă de 146 m.", "Vedere panoramică asupra Țării Bârsei."], en: ["Refuge for local villagers.", "Deep well (146 m).", "Panoramic views."] },
     image: "/geo-images/romania/hist-rasnov-fortress.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Bauernburg von Râșnov wurde im 13. Jahrhundert zum Schutz vor tatarischen und osmanischen Angriffen erbaut. Im Gegensatz zu Fürstenburgen diente sie als Zufluchtsort für die lokale Bevölkerung über längere Zeiträume. Die Anlage umfasst Wohnhäuser, eine Schule und eine Kapelle innerhalb der Mauern. Ein berühmter Legende nach wurde der 146 Meter tiefe Brunnen von zwei Gefangenen gegraben.",
+      hu: "Barcarozsnyó vára a 13. században épült a tatár és oszmán támadások elleni védekezésül. A fejedelmi várakkal ellentétben ez parasztvárként szolgált, ahol a helyi lakosság hosszabb ideig is menedéket talált. A falakon belül lakóházak, iskola és kápolna is helyet kapott. Egy híres legenda szerint a 146 méter mély kutat két fogoly ásta ki.",
+      ro: "Cetatea Râșnov a fost construită în secolul al XIII-lea pentru protecția populației împotriva atacurilor tătarilor și otomanilor. Spre deosebire de cetățile domnești, aceasta a fost o cetate țărănească, oferind refugiu pe perioade lungi. Incinta cuprinde case de locuit, o școală și o capelă. O legendă celebră spune că fântâna adâncă de 146 de metri a fost săpată de doi prizonieri.",
+      en: "Râșnov Citadel was built in the 13th century as a refuge for the local population against Tatar and Ottoman invasions. Unlike royal castles, it functioned as a peasant fortress where villagers could reside for extended periods. The complex includes houses, a school, and a chapel within its walls. A famous legend attributes its 146-meter-deep well to two prisoners.",
+    },
+    factsAdvanced: {
+      de: ["Tiefe des Brunnens: 146 Meter", "Bauzeit: 13. bis 14. Jahrhundert", "Anzahl der Wohnhäuser: ca. 30", "Fläche: 3500 m²", "Höhenlage: 150 Meter über der Stadt", "Material: Stein und Ziegel"],
+      hu: ["Kút mélysége: 146 méter", "Építési idő: 13–14. század", "Lakóházak száma: kb. 30", "Terület: 3500 m²", "Magasság: 150 méterrel a város felett", "Anyaga: Kő és tégla"],
+      ro: ["Adâncime fântână: 146 metri", "Ani construcție: 1211–1225", "Număr case interioare: cca. 30", "Suprafață: 3500 m²", "Altitudine: 150 metri deasupra orașului", "Structură: Piatră și cărămidă"],
+      en: ["Well depth: 146 meters", "Built: 13th-14th centuries", "Number of inner houses: approx. 30", "Area: 3,500 m²", "Height: 150 meters above town", "Materials: Stone and brick"],
+    },
   },
   {
     id: "hist-fagaras-fortress", type: "historical", parent: "RO-BV", coords: [24.974, 45.845],
@@ -2941,6 +4319,19 @@ export const romaniaHistorical: POI[] = [
     description: { de: "Einstige Residenz siebenbürgischer Fürsten.", hu: "Az erdélyi fejedelmek egykori rezidenciája.", ro: "Fosta reședință a principilor Transilvaniei.", en: "Former residence of Transylvanian princes." },
     facts: { de: ["Umgeben von einem Wassergraben.", "Im 20. Jh. Gefängnis.", "Prachtvolle Renaissancemauern."], hu: ["Vizesárok veszi körül.", "A 20. században börtön volt.", "Díszes reneszánsz falak."], ro: ["Înconjurată de un șanț cu apă.", "Închisoare politică în sec. XX.", "Găzduiește Muzeul Țării Făgărașului."], en: ["Surrounded by a water moat.", "Political prison in the 20th c.", "Houses the Făgăraș Land Museum."] },
     image: "/geo-images/romania/hist-fagaras-fortress.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Festung Făgăraș wurde 1310 erbaut und im 17. Jahrhundert zu einer luxuriösen Residenz ausgebaut. Sie ist von einem breiten Wassergraben umgeben, der sie uneinnehmbar machte. Während der kommunistischen Ära wurde die Festung als berüchtigtes Gefängnis für politische Gefangene genutzt. Heute ist sie vollständig restauriert und beherbergt das Museum des Făgăraș-Landes.",
+      hu: "A fogarasi várat 1310-ben építették, majd a 17. században luxus fejedelmi rezidenciává alakították. Egy széles vizesárok veszi körül, amely egykor bevehetetlenné tette. A kommunizmus idején a vár hírhedt börtönként működött politikai foglyok számára. Ma teljes mértékben restaurálták, és a Fogarasiföld Múzeumának ad otthont.",
+      ro: "Cetatea Făgăraș a fost ridicată în 1310 și transformată în secolul al XVII-lea într-o reședință nobiliară de lux. Este înconjurată de un șanț cu apă lat, care o făcea invincibilă în trecut. În perioada comunistă, cetatea a fost utilizată ca închisoare de temut pentru deținuții politici. Astăzi este complet restaurată și găzduiește Muzeul Țării Făgărașului.",
+      en: "Făgăraș Fortress was built in 1310 and expanded into a luxurious princely residence during the 17th century. It is surrounded by a wide moat filled with water, which once made it virtually impregnable. During the communist era, the fortress served as a notorious prison for political dissidents. Today, it is fully restored and houses the Museum of the Făgăraș Land.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1310", "Zahl der Türme: 5", "Gefängniszeit: 1948–1960", "Lage: Zentrum von Făgăraș", "Baustil: Renaissance und Gotik", "Besonderheit: Wassergraben"],
+      hu: ["Építés éve: 1310", "Tornyok száma: 5", "Börtönként működött: 1948–1960", "Helyszín: Fogaras központja", "Stílus: Reneszánsz és gótika", "Különlegesség: Vizesárok"],
+      ro: ["An construcție: 1310", "Număr turnuri: 5", "Perioadă închisoare: 1948–1960", "Locație: Centrul orașului Făgăraș", "Stil: Renaștere și Gotic", "Element defensiv: Șanț cu apă"],
+      en: ["Year built: 1310", "Number of towers: 5", "Prison period: 1948–1960", "Location: Făgăraș city center", "Styles: Renaissance and Gothic", "Key feature: Water moat"],
+    },
   },
   {
     id: "hist-biertan", type: "historical", parent: "RO-SB", coords: [24.521, 46.135],
@@ -2948,6 +4339,19 @@ export const romaniaHistorical: POI[] = [
     description: { de: "UNESCO-geschützte sächsische Kirchenburg.", hu: "UNESCO-védelem alatt álló szász erődtemplom.", ro: "Biserică fortificată săsească, patrimoniu UNESCO.", en: "UNESCO-protected Saxon fortified church." },
     facts: { de: ["Drei Ringmauern.", "Berühmte Sakristeitür.", "Ehemaliger Bischofssitz."], hu: ["Három falgyűrű.", "Híres sekrestyeajtó.", "Egykori püspöki székhely."], ro: ["Trei rânduri de ziduri.", "Ușă de sacristie celebră.", "Fost sediu al episcopatului evanghelic."], en: ["Three concentric walls.", "Famous sacristy door.", "Former evangelical bishopric seat."] },
     image: "/geo-images/romania/hist-biertan.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Kirchenburg von Biertan ist eines der wichtigsten UNESCO-Welterbestätten der sächsischen Dörfer in Siebenbürgen. Die spätgotische Hallenkirche ist von drei konzentrischen Ringmauern mit neun Türmen umgeben. Eine Besonderheit ist das 'Scheidungshaus', in dem Paare vor einer Trennung eingesperrt wurden, um sich zu versöhnen. Die Anlage war jahrhundertelang der Sitz der evangelischen Bischöfe.",
+      hu: "Berethalom erődtemploma Erdély egyik legjelentősebb UNESCO-világörökségi helyszíne a szász falvak között. A késő gótikus csarnoktemplomot három koncentrikus várfal és kilenc torony védi. Különlegessége a 'békítő szoba', ahol a válni készülő házaspárokat zárták össze a megbékélés reményében. Az erődítmény évszázadokon át az evangélikus püspökök székhelye volt.",
+      ro: "Biserica fortificată din Biertan este unul dintre cele mai importante situri UNESCO din satele săsești din Transilvania. Biserica în stil gotic târziu este protejată de trei incinte de ziduri concentrice și nouă turnuri de apărare. O atracție inedită este 'camera de împăcare', unde cuplurile care doreau să divorțeze erau închise pentru a se reconcilia. Complexul a fost sediul episcopatului evanghelic timp de secole.",
+      en: "The fortified church of Biertan is one of the most significant UNESCO World Heritage sites among the Saxon villages in Transylvania. This late Gothic hall church is protected by three concentric walls and nine defensive towers. A unique feature is the 'reconciliation room', where couples seeking divorce were locked together to encourage reconciliation. The site served as the seat of the Lutheran bishops for centuries.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 1486–1524", "UNESCO-Status: seit 1993", "Anzahl der Wehrtürme: 9", "Bischofssitz: 1572–1867", "Besonderheit: Die Tür mit 19 Schlössern", "Höhe des Altars: 12 Meter"],
+      hu: ["Építési idő: 1486–1524", "UNESCO-tagság: 1993 óta", "Védőtornyok száma: 9", "Püspöki székhely: 1572–1867", "Különlegesség: 19 záras ajtó", "Oltár magassága: 12 méter"],
+      ro: ["Ani construcție: 1486–1524", "Patrimoniu UNESCO: din 1993", "Număr turnuri: 9", "Sediu episcopal: 1572–1867", "Obiect rar: Ușa sacristiei cu 19 încuietori", "Înălțime altar: 12 metri"],
+      en: ["Built: 1486–1524", "UNESCO status: since 1993", "Number of towers: 9", "Episcopal seat: 1572–1867", "Artifact: Sacristy door with 19 locks", "Altar height: 12 meters"],
+    },
   },
   {
     id: "hist-neamt-citadel", type: "historical", parent: "RO-NT", coords: [26.345, 47.215],
@@ -2955,6 +4359,19 @@ export const romaniaHistorical: POI[] = [
     description: { de: "Mittelalterliche Festung in der Moldau auf dem Pleșu-Berg.", hu: "Középkori moldvai vár a Pleșu-hegyen.", ro: "Cetate medievală moldovenească pe stânca Pleșului.", en: "Medieval Moldavian fortress atop the Pleșu Rock." },
     facts: { de: ["Erbaut unter Petru I. Mușat.", "Verteidigte gegen Osmanen.", "Hohe Mauern und Gräben."], hu: ["I. Péter moldvai fejedelem építtette.", "Védekezett az oszmánok ellen.", "Magas falak és árkok."], ro: ["Construită de Petru I Mușat.", "Asediată de Sobieski și Baiazid.", "Restaurată spectaculos."], en: ["Built by Petru I Mușat.", "Besieged by Sobieski and Bayezid.", "Spectacularly restored."] },
     image: "/geo-images/romania/hist-neamt-citadel.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Zitadelle von Neamț wurde im 14. Jahrhundert unter Petru I. Mușat erbaut und später von Stefan dem Großen erweitert. Sie war eine der uneinnehmbarsten Festungen der Moldau und widerstand zahlreichen Belagerungen, darunter der von Mohammed II. Die Burg ist über eine imposante Brücke mit hohen Bogenpfeilern erreichbar. Die strategische Lage sicherte den Zugang zu den moldauischen Tälern.",
+      hu: "Németvásár vára a 14. században épült I. Péter moldovai fejedelem idején, majd III. István jelentősen kibővítette. Moldva egyik legbevehetetlenebb erődítménye volt, amely több ostromot is kiállt, köztük II. Mehmedét is. A várhoz egy lenyűgöző, magas íves pilléreken nyugvó híd vezet. Stratégiai elhelyezkedése biztosította a moldvai völgyek felügyeletét.",
+      ro: "Cetatea Neamț a fost construită în secolul al XIV-lea sub domnia lui Petru I Mușat și consolidată ulterior de Ștefan cel Mare. A fost una dintre cele mai rezistente fortificații ale Moldovei, făcând față numeroaselor asedii, inclusiv celui condus de Mahomed al II-lea. Accesul în cetate se face pe un pod spectaculos susținut de stâlpi înalți cu arcade. Localizarea sa strategică asigura controlul văilor Moldovei.",
+      en: "Neamț Citadel was constructed in the 14th century during the reign of Petru I Mușat and later reinforced by Stephen the Great. It was one of Moldavia's most invincible fortifications, withstanding numerous sieges, including those by Mehmed II. Access to the citadel is provided by an impressive bridge supported by high arched pillars. Its strategic position guarded the entry to the Moldavian valleys.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 1375–1391", "Erweiterung: 15. Jahrhundert", "Brückenhöhe: 8 Meter", "Belagerung durch Osmanen: 1476", "Anzahl der Kammern: 21", "Zustand: Restauriertes Museum"],
+      hu: ["Építési idő: 1375–1391", "Bővítés: 15. század", "Híd magassága: 8 méter", "Oszmán ostrom: 1476", "Termek száma: 21", "Állapot: Restaurált múzeum"],
+      ro: ["Ani construcție: 1375–1391", "Consolidare: secolul al XV-lea", "Înălțime piloni pod: 8 metri", "Asediul otoman: 1476", "Număr încăperi: 21", "Statut: Muzeu vizitabil"],
+      en: ["Built: 1375–1391", "Expansion: 15th century", "Bridge pillar height: 8 meters", "Ottoman siege: 1476", "Number of rooms: 21", "Status: Restored museum"],
+    },
   },
   {
     id: "hist-putna", type: "historical", parent: "RO-SV", coords: [25.605, 47.863],
@@ -2962,6 +4379,19 @@ export const romaniaHistorical: POI[] = [
     description: { de: "Bedeutendes Kloster und Grablege Stefans des Großen.", hu: "Jelentős kolostor és Nagy István temetkezési helye.", ro: "Unul dintre cele mai importante centre culturale și religioase.", en: "One of the most important cultural and religious centers." },
     facts: { de: ["Gegründet 1466.", "\"Jerusalem der rumänischen Nation\".", "Reiches Museum."], hu: ["1466-ban alapították.", "A \"román nemzet Jeruzsáleme\".", "Gazdag múzeum."], ro: ["Ctitorită de Ștefan cel Mare.", "Mormântul lui Ștefan cel Mare.", "Poreclită „Ierusalimul neamului românesc”."], en: ["Founded by Stephen the Great.", "Burial place of Stephen the Great.", "Nicknamed \"Jerusalem of the Romanian people\"."] },
     image: "/geo-images/romania/hist-putna.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Kloster Putna wurde 1466 von Stefan dem Großen gegründet und gilt als das wichtigste religiöse Zentrum des mittelalterlichen Moldaus. Es dient als Begräbnisstätte für den Fürsten, der hier in einer prächtigen Marmortumba beigesetzt wurde. Das Kloster war bekannt für sein Skriptorium und seine wertvolle Bibliothek. Heute ist es ein bedeutender Wallfahrtsort für das rumänische Volk.",
+      hu: "A Putna-kolostort 1466-ban alapította III. István moldovai fejedelem, és a középkori Moldva legfontosabb vallási központjaként ismert. Itt található a fejedelem sírhelye, akit egy pompás márványtumba alatt temettek el. A kolostor híres volt kódexmásoló műhelyéről és értékes könyvtáráról. Napjainkban a román nép egyik legjelentősebb zarándokhelye.",
+      ro: "Mănăstirea Putna a fost fondată în 1466 de Ștefan cel Mare și este considerată cel mai important centru religios al Moldovei medievale. Servește ca necropolă domnească, adăpostind mormântul marelui voievod sub o lespede de marmură sculptată. Mănăstirea a fost renumită pentru atelierul său de manuscrise și biblioteca valoroasă. Astăzi este un loc de pelerinaj major pentru poporul român.",
+      en: "Putna Monastery was founded in 1466 by Stephen the Great and is regarded as the most important religious center of medieval Moldavia. It serves as a princely necropolis, housing the tomb of the ruler beneath an intricately carved marble slab. The monastery was famous for its scriptorium and valuable library. Today, it remains a major pilgrimage site for the Romanian people.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1466", "Stifter: Stefan der Große", "Grabmal: Stefan der Große (†1504)", "Erste Einweihung: 1470", "Zahl der Glocken: 5", "Schatzkammer: Mittelalterliche Stickereien"],
+      hu: ["Alapítás éve: 1466", "Alapító: III. István (Nagy István)", "Sírhely: III. István (†1504)", "Felszentelés: 1470", "Harangok száma: 5", "Kincstár: Középkori hímzések"],
+      ro: ["Anul fondării: 1466", "Ctitor: Ștefan cel Mare", "Necropolă: mormântul lui Ștefan cel Mare", "Inaugurare: 1470", "Număr clopote: 5", "Tezaur: Broderii medievale rare"],
+      en: ["Year founded: 1466", "Founder: Stephen the Great", "Tomb: Stephen the Great (†1504)", "Inauguration: 1470", "Number of bells: 5", "Treasury: Rare medieval embroideries"],
+    },
   },
   {
     id: "hist-curtea-de-arges", type: "historical", parent: "RO-AG", coords: [24.675, 45.157],
@@ -2969,6 +4399,19 @@ export const romaniaHistorical: POI[] = [
     description: { de: "Prachtvolle byzantinische Kathedrale und Grabstätte der Könige.", hu: "Díszes bizánci székesegyház és királyi temetkezőhely.", ro: "Catedrală bizantină spectaculoasă și necropolă regală.", en: "Splendid Byzantine cathedral and royal necropolis." },
     facts: { de: ["Legende von Meister Manole.", "Grabstätte von König Karl I.", "Einzigartige Architektur."], hu: ["Manole mester legendája.", "I. Károly király sírhelye.", "Egyedülálló építészet."], ro: ["Legenda Meșterului Manole.", "Necropola Regilor României.", "Stil arhitectural unic."], en: ["Legend of Master Manole.", "Necropolis of Romania's Kings.", "Unique architectural style."] },
     image: "/geo-images/romania/hist-curtea-de-arges.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Kathedrale von Curtea de Argeș ist ein Juwel der rumänischen Architektur, erbaut zwischen 1512 und 1517 von Fürst Neagoe Basarab. Sie ist bekannt für ihre gedrehten Türme und die reiche Fassadendekoration mit byzantinischen und osmanischen Einflüssen. Die Kathedrale dient als offizielle Begräbnisstätte der rumänischen Königsfamilie. Die Legende vom Baumeister Manole ist eng mit diesem Ort verbunden.",
+      hu: "A Curtea de Argeș-i székesegyház a román építészet ékköve, amelyet 1512 és 1517 között építtetett Neagoe Basarab fejedelem. Ismertté vált csavart tornyairól és gazdagon díszített homlokzatáról, amely bizánci és oszmán hatásokat tükröz. A katedrális a román királyi család hivatalos temetkezési helye. Manole mester legendája szorosan kapcsolódik az építményhez.",
+      ro: "Catedrala de la Curtea de Argeș este o capodoperă a arhitecturii românești, ctitorită de Neagoe Basarab între 1512 și 1517. Se remarcă prin turnurile sale răsucite și decorațiile exterioare bogate, cu influențe bizantine și otomane. Catedrala este necropola oficială a familiei regale a României. Legenda Meșterului Manole este strâns legată de construcția acestui monument.",
+      en: "The Curtea de Argeș Cathedral is a masterpiece of Romanian architecture, built between 1512 and 1517 by Prince Neagoe Basarab. It is famous for its twisted towers and rich exterior decorations, showing Byzantine and Ottoman influences. The cathedral serves as the official burial site for the Romanian royal family. The legend of Master Manole is deeply intertwined with this iconic site.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 1512–1517", "Stifter: Neagoe Basarab", "Königsgräber: u.a. Carol I., Ferdinand I.", "Besonderheit: Gedrehte Türme", "Material: Alabaster und Kalkstein", "Renovierung: 19. Jahrhundert (Lecomte du Nouy)"],
+      hu: ["Építési idő: 1512–1517", "Alapító: Neagoe Basarab", "Királyi sírok: I. Károly, I. Ferdinánd stb.", "Különlegesség: Csavart tornyok", "Anyaga: Alabástrom és mészkő", "Felújítás: 19. század (Lecomte du Nouy)"],
+      ro: ["Ani construcție: 1512–1517", "Ctitor: Neagoe Basarab", "Necropolă regală: Regii Carol I, Ferdinand, Mihai I", "Element unic: Turnuri răsucite", "Materiale: Alabastru și calcar", "Restaurare: Secolul XIX (Lecomte du Nouy)"],
+      en: ["Built: 1512–1517", "Founder: Neagoe Basarab", "Royal tombs: Carol I, Ferdinand I, etc.", "Key feature: Twisted towers", "Materials: Alabaster and limestone", "Restoration: 19th century (Lecomte du Nouy)"],
+    },
   },
   {
     id: "hist-enisala", type: "historical", parent: "RO-TL", coords: [28.835, 44.884],
@@ -2976,6 +4419,19 @@ export const romaniaHistorical: POI[] = [
     description: { de: "Mittelalterliche genuesische Festung mit Blick auf den Razim-See.", hu: "Középkori genuai vár a Razim-tóra néző kilátással.", ro: "Singura cetate medievală din Dobrogea care a supraviețuit.", en: "The only medieval fortress in Dobruja that has survived." },
     facts: { de: ["Kontrollierte Handelswege.", "Strategische Lage.", "Genuesische Architektur."], hu: ["Ellenőrizte a kereskedelmi utakat.", "Stratégiai elhelyezkedés.", "Genuai építészet."], ro: ["Construită de genovezi.", "Vedere asupra lacului Razim.", "Rol militar defensiv."], en: ["Built by Genovese merchants.", "Overlooking Lake Razim.", "Defensive military role."] },
     image: "/geo-images/romania/hist-enisala.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Festung Enisala wurde im 14. Jahrhundert von genuesischen Kaufleuten oder byzantinischen Herrschern auf einem Kalksteinhügel erbaut. Sie diente der Kontrolle der Handelswege am Schwarzen Meer und an der unteren Donau. Nach der osmanischen Eroberung verlor die Anlage im 16. Jahrhundert ihre strategische Bedeutung und wurde schließlich verlassen.",
+      hu: "Az enisalai vár a 14. században épült egy mészkőhegy tetején, valószínűleg genovai kereskedők vagy bizánciak megbízásából. Stratégiai elhelyezkedése lehetővé tette a Fekete-tenger és a Duna-delta közötti kereskedelmi útvonalak ellenőrzését. Az osman hódítás után, a 16. században a vár elvesztette jelentőségét és elnéptelenedett.",
+      ro: "Cetatea Enisala a fost construită în secolul al XIV-lea, probabil de către negustori genovezi sau autorități bizantine, pe un deal calcaros. Fortificația avea rolul de a controla rutele comerciale de la Marea Neagră și gurile Dunării. După cucerirea otomană din secolul al XVI-lea, cetatea și-a pierdut importanța strategică și a fost abandonată.",
+      en: "Enisala Fortress was built in the 14th century by Genoese merchants or Byzantine authorities on a limestone hill. The fortification served to control the trade routes between the Black Sea and the lower Danube. Following the Ottoman conquest in the 16th century, the site lost its strategic importance and was eventually abandoned.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im 14. Jahrhundert auf einem 116 Meter hohen Hügel.", "Einzige mittelalterliche Festung in der Dobrudscha mit Mauertürmen.", "Blick auf die Seen Razim und Babadag.", "Besitzt einen markanten fünfseitigen Torturm.", "Gehörte im 14. Jahrhundert kurzzeitig zum Fürstentum Walachei.", "Wurde 1397 unter Mircea dem Älteren urkundlich erwähnt."],
+      hu: ["A 14. században épült egy 116 méter magas dombon.", "Dobrudzsa egyetlen megmaradt középkori vára fali tornyokkal.", "Kiváló kilátást nyújt a Razim- és a Babadag-tavakra.", "Jellegzetes ötszögletű kaputoronnyal rendelkezik.", "A 14. század végén rövid ideig Havasalföldhöz tartozott.", "Írott forrásokban először 1397-ben említik I. Mircea idején."],
+      ro: ["Construită în secolul al XIV-lea pe un deal de 116 metri înălțime.", "Singura cetate medievală din Dobrogea care păstrează turnuri de incintă.", "Oferă vedere panoramică asupra lacurilor Razim și Babadag.", "Dispune de un turn de poartă pentagonal distinctiv.", "A aparținut pentru o scurtă perioadă Țării Românești în secolul XIV.", "Menționată documentar în anul 1397 sub numele de Yeni-Sala."],
+      en: ["Built in the 14th century on a 116-meter high limestone hill.", "The only medieval fortress in Dobruja with surviving enclosure towers.", "Overlooks the Razim and Babadag lakes.", "Features a distinctive pentagonal gate tower.", "Briefly belonged to Wallachia during the late 14th century.", "First mentioned in historical documents in 1397."],
+    },
   },
   {
     id: "hist-calnic", type: "historical", parent: "RO-AB", coords: [23.659, 45.891],
@@ -2983,6 +4439,19 @@ export const romaniaHistorical: POI[] = [
     description: { de: "UNESCO-Weltkulturerbe, eine der besterhaltenen Burgen Siebenbürgens.", hu: "UNESCO-világörökség, Erdély egyik legjobb állapotban fennmaradt vára.", ro: "Monument UNESCO, una dintre cele mai bine păstrate cetăți.", en: "UNESCO monument, one of the best-preserved fortresses." },
     facts: { de: ["Einstiger Adelssitz.", "Massiver Wohnturm.", "Sächsische Kapelle."], hu: ["Egykori nemesi lakhely.", "Hatalmas lakótorony.", "Szász kápolna."], ro: ["Fostă reședință nobiliară.", "Turn de locuință masiv.", "Capelă evanghelică."], en: ["Former noble residence.", "Massive residential tower.", "Evangelical chapel."] },
     image: "/geo-images/romania/hist-calnic.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Burg von Câlnic zählt seit 1999 zum UNESCO-Welterbe und gilt als eines der besterhaltenen Verteidigungsbauwerke Siebenbürgens. Ursprünglich im 13. Jahrhundert als Adelsresidenz errichtet, wurde sie später von der sächsischen Gemeinde zur Fluchtburg ausgebaut. Die Anlage zeichnet sich durch einen massiven Wohnturm und doppelte Ringmauern aus.",
+      hu: "A kelneki vár 1999 óta az UNESCO Világörökség része, és Erdély egyik legjobb állapotban fennmaradt védelmi építménye. Eredetileg a 13. században épült nemesi lakként, majd később a szász közösség erődített parasztvárrá alakította át. Az épületegyüttest egy vaskos lakótorony és kettős várfalrendszer jellemzi.",
+      ro: "Cetatea Câlnic face parte din patrimoniul mondial UNESCO din 1999 și este una dintre cele mai bine conservate structuri de apărare din Transilvania. Ridicată inițial în secolul al XIII-lea ca reședință nobiliară, a fost ulterior cumpărată și fortificată de comunitatea săsească. Ansamblul se remarcă prin donjonul masiv și zidurile de incintă duble.",
+      en: "Câlnic Fortress has been a UNESCO World Heritage site since 1999 and is one of the best-preserved defense structures in Transylvania. Originally built in the 13th century as a noble residence, it was later purchased and fortified by the local Saxon community. The complex is characterized by its massive keep and double defensive walls.",
+    },
+    factsAdvanced: {
+      de: ["Der Hauptturm namens Siegfried stammt aus dem Jahr 1272.", "Wurde 1430 von der sächsischen Gemeinde des Dorfes gekauft.", "Die Ringmauer ist bis zu 7 Meter hoch.", "Beherbergt eine Kapelle mit Wandmalereien aus dem 15. Jahrhundert.", "Das Museum im Inneren zeigt mittelalterliche Gebrauchsgegenstände.", "Liegt im Kreis Alba, etwa 15 Kilometer von Sebeș entfernt."],
+      hu: ["A Siegfried nevű főtorony 1272-ben épült.", "A falu szász közössége 1430-ban vásárolta meg a várat.", "A várfalak magassága eléri a 7 métert.", "A belső udvarban 15. századi freskókkal díszített kápolna áll.", "A múzeumban középkori néprajzi tárgyakat őriznek.", "Fehér megyében található, Szászsebestől 15 kilométerre."],
+      ro: ["Donjonul principal, numit Siegfried, datează din anul 1272.", "A fost cumpărată de comunitatea săsească în anul 1430.", "Zidul de incintă are o înălțime de până la 7 metri.", "Găzduiește o capelă cu picturi murale din secolul al XV-lea.", "Muzeul interior expune obiecte de artă populară și mobilier.", "Situată în județul Alba, la 15 kilometri de Sebeș."],
+      en: ["The main keep, named Siegfried, dates back to 1272.", "The local Saxon community purchased the fortress in 1430.", "The enclosure wall reaches a height of up to 7 meters.", "Features a chapel with murals dating to the 15th century.", "The onsite museum displays medieval artifacts and folk art.", "Located in Alba County, approximately 15 kilometers from Sebeș."],
+    },
   },
   {
     id: "hist-prejmer", type: "historical", parent: "RO-BV", coords: [25.773, 45.722],
@@ -2990,6 +4459,19 @@ export const romaniaHistorical: POI[] = [
     description: { de: "Die stärkste Bauernburg Osteuropas (UNESCO).", hu: "Kelet-Európa legerősebb parasztvára (UNESCO).", ro: "Cea mai puternică biserică fortificată din sud-estul Europei.", en: "The strongest fortified church in Southeastern Europe." },
     facts: { de: ["272 Wohnkammern.", "Dicke Mauern (5 m).", "Griechisches Kreuz."], hu: ["272 lakókamra.", "Vastag falak (5 m).", "Görög kereszt alaprajz."], ro: ["272 de camere de refugiu.", "Ziduri groase de 5 m.", "Plan în formă de cruce greacă."], en: ["272 refuge rooms.", "5-m thick walls.", "Greek cross floor plan."] },
     image: "/geo-images/romania/hist-prejmer.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Kirchenburg von Prejmer ist die am stärksten befestigte Anlage ihrer Art in Osteuropa und gehört zum UNESCO-Welterbe. Sie wurde im 13. Jahrhundert von den Deutschordensrittern begonnen und später von den Sachsen vollendet. In den massiven Mauern befinden sich über 270 Kammern, die der Dorfbevölkerung während Belagerungen als Zuflucht dienten.",
+      hu: "A prázsmári erődtemplom Kelet-Európa legerősebben megerősített ilyen jellegű építménye, az UNESCO Világörökség része. Építését a 13. században a Német Lovagrend kezdte meg, majd a szászok fejezték be. A vaskos falak belsejében több mint 270 kamra található, amelyek ostrom idején a falu lakosságának nyújtottak menedéket.",
+      ro: "Biserica fortificată din Prejmer este cea mai puternică fortificație de acest tip din Europa de Est, inclusă în patrimoniul UNESCO. Construcția a fost începută în secolul al XIII-lea de Ordinul Cavalerilor Teutoni și finalizată de sași. În interiorul zidurilor masive se află peste 270 de camere care serveau ca refugiu pentru săteni în timpul asediilor.",
+      en: "Prejmer Fortified Church is the most powerful fortification of its kind in Eastern Europe and a UNESCO World Heritage site. Construction began in the 13th century by the Teutonic Knights and was later completed by the Saxons. The massive walls house over 270 rooms that provided refuge for the village population during sieges.",
+    },
+    factsAdvanced: {
+      de: ["Verfügt über 272 Wohnkammern auf vier Etagen.", "Die Ringmauern sind bis zu 12 Meter hoch und 4 Meter dick.", "Die Kirche wurde im frühgotischen Stil in Kreuzform errichtet.", "Besitzt eine seltene 'Todesorgel' zur Verteidigung des Tors.", "Wurde im Laufe der Geschichte über 50 Mal belagert.", "Gilt als die größte Kirchenburg in Südosteuropa."],
+      hu: ["272 lakókamrával rendelkezik négy szinten elosztva.", "A várfalak 12 méter magasak és 4 méter vastagok.", "A templom korai gótikus stílusban, kereszt alaprajzzal épült.", "Ritka 'halálorga' védelmi eszközzel rendelkezett a kapunál.", "Története során több mint 50 alkalommal ostromolták meg.", "Délkelet-Európa legnagyobb erődtemplomaként tartják számon."],
+      ro: ["Dispune de 272 de camere de refugiu dispuse pe patru niveluri.", "Zidurile de incintă au 12 metri înălțime și 4 metri grosime.", "Biserica este construită în stil gotic timpuriu, în formă de cruce.", "Deține o faimoasă 'orgă a morții' folosită pentru apărarea porții.", "A fost asediată de peste 50 de ori de-a lungul istoriei.", "Este considerată cea mai mare biserică fortificată din sud-estul Europei."],
+      en: ["Features 272 refuge rooms arranged across four levels.", "The surrounding walls are 12 meters high and 4 meters thick.", "The church was built in early Gothic style with a cross plan.", "Equipped with a rare 'death organ' defense mechanism.", "Survived over 50 sieges throughout its history.", "Regarded as the largest fortified church in Southeastern Europe."],
+    },
   },
   {
     id: "hist-cozia", type: "historical", parent: "RO-VL", coords: [24.311, 45.272],
@@ -2997,6 +4479,19 @@ export const romaniaHistorical: POI[] = [
     description: { de: "Mittelalterliches Kloster am Ufer des Olt, erbaut von Mircea cel Bătrân.", hu: "Középkori kolostor az Olt partján, Mircea cel Bătrân alapította.", ro: "Mănăstire medievală pe malul Oltului, ctitorită de Mircea cel Bătrân.", en: "Medieval monastery on the banks of the Olt, founded by Mircea the Elder." },
     facts: { de: ["Erbaut 1388.", "Byzantinischer Architekturstil.", "Grabstätte von Mircea cel Bătrân."], hu: ["1388-ban épült.", "Bizánci építészeti stílus.", "Mircea cel Bătrân nyughelye."], ro: ["Construită în 1388.", "Stil arhitectural bizantin.", "Mormântul lui Mircea cel Bătrân."], en: ["Built in 1388.", "Byzantine architectural style.", "Burial place of Mircea the Elder."] },
     image: "/geo-images/romania/hist-cozia.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Kloster Cozia wurde zwischen 1386 und 1388 vom walachischen Fürsten Mircea dem Älteren am Ufer des Olt gegründet. Es ist eines der bedeutendsten Beispiele mittelalterlicher walachischer Architektur mit starken byzantinischen Einflüssen. Die Anlage diente nicht nur als geistliches Zentrum, sondern durch ihre Befestigung auch als strategischer Schutzpunkt am Eingang zum Olt-Tal.",
+      hu: "A Cozia-kolostort 1386 és 1388 között alapította I. Mircea havasalföldi fejedelem az Olt folyó partján. A középkori havasalföldi építészet egyik legfontosabb példája, amely erős bizánci hatásokat mutat. Az épületegyüttes nemcsak szellemi központként működött, hanem erődített falaival stratégiai védelmi pontként is szolgált az Olt-völgy bejáratánál.",
+      ro: "Mănăstirea Cozia a fost ctitorită între 1386 și 1388 de domnitorul Mircea cel Bătrân pe malul râului Olt. Este unul dintre cele mai importante exemple de arhitectură medievală muntenească, prezentând influențe bizantine clare. Ansamblul a servit nu doar ca centru spiritual, ci și ca punct strategic de apărare la intrarea în defileul Oltului.",
+      en: "Cozia Monastery was founded between 1386 and 1388 by the Wallachian Prince Mircea the Elder on the banks of the Olt River. It stands as one of the most significant examples of medieval Wallachian architecture, displaying strong Byzantine influences. The complex served both as a spiritual center and a strategic defensive point at the Olt Valley entrance.",
+    },
+    factsAdvanced: {
+      de: ["Mircea der Ältere ist in der Klosterkirche begraben.", "Die Außenfassaden zeigen Steinmetzarbeiten im serbischen Stil.", "Beherbergt Wandmalereien aus den Jahren 1390 und 1391.", "Wurde im 18. Jahrhundert durch Constantin Brâncoveanu renoviert.", "Besitzt eine wertvolle Bibliothek mit alten Manuskripten.", "In der Nähe befinden sich Thermalquellen in Călimănești."],
+      hu: ["I. Mircea havasalföldi fejedelem sírja a templomban található.", "A homlokzat szerb stílusú kőfaragványokkal díszített.", "A templomban 1390-ből és 1391-ből származó freskók láthatók.", "A 18. században Constantin Brâncoveanu újíttatta fel.", "Értékes könyvtárral rendelkezik, amely régi kéziratokat őriz.", "A közelben találhatók Călimănești termálforrásai."],
+      ro: ["Mircea cel Bătrân este înmormântat în incinta bisericii.", "Fațadele exterioare prezintă sculpturi în stil sârbesc (Morava).", "Păstrează fragmente de pictură originală din anii 1390-1391.", "A fost renovată de Constantin Brâncoveanu în secolul al XVIII-lea.", "Găzduiește un muzeu cu obiecte de cult și manuscrise vechi.", "Situată pe drumul european E81, la nord de Râmnicu Vâlcea."],
+      en: ["Mircea the Elder is buried within the monastery church.", "The exterior facades feature stone carvings in the Morava style.", "Contains original frescoes dating from 1390 and 1391.", "Renovated by Constantin Brâncoveanu in the 18th century.", "Houses a valuable library with ancient religious manuscripts.", "Located near the thermal springs of Călimănești-Căciulata."],
+    },
   },
   {
     id: "hist-suceava-fortress", type: "historical", parent: "RO-SV", coords: [26.270, 47.645],
@@ -3004,6 +4499,19 @@ export const romaniaHistorical: POI[] = [
     description: { de: "Mächtige mittelalterliche Festung, Residenz der moldauischen Fürsten.", hu: "Hatalmas középkori erődítmény, a moldvai fejedelmek székhelye.", ro: "Cetate medievală impunătoare, reședința domnitorilor Moldovei.", en: "Imposing medieval fortress, the residence of Moldavian princes." },
     facts: { de: ["Hauptstadt der Moldau.", "Nie durch Waffen erobert.", "Unter Stefan dem Großen ausgebaut."], hu: ["Moldva egykori fővárosa.", "Fegyverrel sosem vették be.", "Nagy István idején bővítették."], ro: ["Capitala Moldovei medievale.", "Niciodată cucerită prin arme.", "Fortificată de Ștefan cel Mare."], en: ["Capital of medieval Moldavia.", "Never conquered by force of arms.", "Fortified by Stephen the Great."] },
     image: "/geo-images/romania/hist-suceava-fortress.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Fürstenfestung von Suceava war über fast 200 Jahre die Hauptresidenz der moldauischen Herrscher. Sie wurde Ende des 14. Jahrhunderts unter Petru I. Mușat erbaut und im 15. Jahrhundert von Stefan dem Großen massiv erweitert. Die Festung galt als uneinnehmbar und widerstand zahlreichen Belagerungen durch die Osmanen und Polen.",
+      hu: "A szucsávai fejedelmi vár közel 200 éven át a moldvai uralkodók fő székhelye volt. A 14. század végén épült I. Péter fejedelem idején, majd a 15. században III. (Nagy) István jelentősen kibővítette. A vár bevehetetlennek számított, és sikeresen ellenállt számos oszmán és lengyel ostromnak.",
+      ro: "Cetatea de Scaun a Sucevei a reprezentat principala reședință a domnitorilor Moldovei timp de aproape 200 de ani. A fost construită la sfârșitul secolului al XIV-lea de Petru I Mușat și fortificată masiv de Ștefan cel Mare în secolul XV. Cetatea a fost considerată inexpugnabilă, rezistând numeroaselor asedii otomane și polone.",
+      en: "Suceava Princely Fortress served as the primary residence for Moldavian rulers for nearly 200 years. It was constructed at the end of the 14th century by Petru I Mușat and significantly expanded by Stephen the Great in the 15th century. The fortress was famously impregnable, withstanding several Ottoman and Polish sieges.",
+    },
+    factsAdvanced: {
+      de: ["Wurde im Jahr 1388 erstmals urkundlich erwähnt.", "Stefan der Große fügte eine mächtige äußere Ringmauer hinzu.", "Die Mauern sind an strategischen Stellen bis zu 10 Meter dick.", "Wurde 1675 auf Befehl des Sultans durch Sprengung zerstört.", "Heute beherbergt sie ein modernes Multimediamuseum.", "Wurde zwischen 2011 und 2015 umfassend restauriert."],
+      hu: ["Első írásos említése 1388-ból származik.", "Nagy István egy hatalmas külső várfalat építtetett hozzá.", "A falak vastagsága a stratégiai pontokon eléri a 10 métert.", "1675-ben a szultán parancsára robbantással rombolták le.", "Ma modern multimédiás múzeumnak ad otthont.", "2011 és 2015 között teljes körű restauráláson esett át."],
+      ro: ["Menționată documentar pentru prima dată în anul 1388.", "Ștefan cel Mare a adăugat un zid de incintă exterior masiv.", "Zidurile au o grosime de până la 10 metri în punctele cheie.", "A fost distrusă prin explozie în 1675, la ordinul turcilor.", "Găzduiește astăzi expoziții multimedia interactive.", "A fost restaurată capital între anii 2011 și 2015."],
+      en: ["First mentioned in historical records in 1388.", "Stephen the Great added a massive exterior defensive wall.", "The walls reach a thickness of 10 meters in strategic areas.", "Destroyed by explosion in 1675 following Ottoman orders.", "Currently houses a modern multimedia museum exhibition.", "Underwent major restoration work between 2011 and 2015."],
+    },
   },
   {
     id: "hist-sighisoara-clock-tower", type: "historical", parent: "RO-MS", coords: [24.793, 46.219],
@@ -3011,6 +4519,19 @@ export const romaniaHistorical: POI[] = [
     description: { de: "Wahrzeichen von Schäßburg mit einem mechanischen Figurenspiel.", hu: "Segesvár jelképe mechanikus figurás óraszerkezettel.", ro: "Simbolul orașului Sighișoara, cu un mecanism cu figurine.", en: "The symbol of Sighișoara, featuring a mechanical figurine clock." },
     facts: { de: ["Erbaut im 14. Jh.", "64 Meter hoch.", "Beherbergt das Geschichtsmuseum."], hu: ["A 14. században épült.", "64 méter magas.", "A történeti múzeumnak ad otthont."], ro: ["Construit în sec. XIV.", "Înălțime de 64 metri.", "Găzduiește Muzeul de Istorie."], en: ["Built in the 14th century.", "64 meters tall.", "Houses the History Museum."] },
     image: "/geo-images/romania/hist-sighisoara-clock-tower.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Stundturm von Sighișoara ist das Wahrzeichen der Stadt und war bis 1856 Sitz des Stadtrates. Er wurde im 14. Jahrhundert zum Schutz des Haupttors der Zitadelle errichtet und später nach einem Brand im 17. Jahrhundert im Barockstil umgestaltet. Besonders bekannt ist der Turm für sein mechanisches Uhrwerk mit beweglichen Holzfiguren.",
+      hu: "A segesvári óratorony a város jelképe, és 1856-ig a városi tanács székhelye volt. A 14. században épült a vár főkapujának védelmére, majd egy 17. századi tűzvész után barokk stílusban építették újjá. A torony különlegessége a mechanikus óraszerkezet a mozgó fafigurákkal.",
+      ro: "Turnul cu Ceas din Sighișoara este simbolul orașului și a servit ca sediu al primăriei până în 1856. A fost construit în secolul al XIV-lea pentru a proteja poarta principală a cetății și reconstruit în stil baroc după incendiul din 1676. Turnul este faimos pentru mecanismul ceasului cu figurine mobile din lemn.",
+      en: "Sighișoara Clock Tower is the iconic landmark of the city and served as the town hall until 1856. Built in the 14th century to guard the main gate of the citadel, it was later remodeled in Baroque style following a fire in 1676. The tower is renowned for its mechanical clock featuring unique moving wooden figurines.",
+    },
+    factsAdvanced: {
+      de: ["Der Turm ist 64 Meter hoch.", "Das heutige Uhrwerk stammt aus dem Jahr 1906 aus der Schweiz.", "Die sieben Holzfiguren stellen die Wochentage dar.", "Beherbergt seit 1899 das Geschichtsmuseum der Stadt.", "Das Dach ist mit glasierten Ziegeln in verschiedenen Farben gedeckt.", "Auf der Turmspitze befindet sich eine goldene Kugel."],
+      hu: ["A torony magassága 64 méter.", "A jelenlegi óraszerkezet 1906-ból, Svájcból származik.", "A hét fafigura a hét napjait jelképezi.", "1899 óta itt működik a város Történeti Múzeuma.", "Tetejét különböző színű mázas cserepek borítják.", "A torony csúcsán egy aranyozott gömb található."],
+      ro: ["Turnul are o înălțime totală de 64 de metri.", "Mecanismul actual al ceasului a fost adus din Elveția în 1906.", "Cele șapte figurine din lemn reprezintă zilele săptămânii.", "Găzduiește Muzeul de Istorie al orașului din anul 1899.", "Acoperișul este decorat cu țigle smălțuite multicolore.", "În vârful turnului se află un glob poleit cu aur."],
+      en: ["The tower stands 64 meters tall.", "The current clock mechanism was imported from Switzerland in 1906.", "The seven wooden figurines represent the days of the week.", "Has housed the City History Museum since 1899.", "The roof is covered with distinctive multicolored glazed tiles.", "A golden sphere is located at the very top of the spire."],
+    },
   },
   {
     id: "hist-arad-fortress", type: "historical", parent: "RO-AR", coords: [21.330, 46.172],
@@ -3018,6 +4539,19 @@ export const romaniaHistorical: POI[] = [
     description: { de: "Vauban-Festung am Ufer des Mureș, Ort historischer Ereignisse.", hu: "Vauban-stílusú vár a Maros partján, történelmi események helyszíne.", ro: "Cetate în stil Vauban pe malul Mureșului, loc al evenimentelor istorice.", en: "Vauban-style fortress on the banks of the Mureș, site of historical events." },
     facts: { de: ["Erbaut unter Maria Theresia.", "Sternförmiger Grundriss.", "Gefängnis nach 1849."], hu: ["Mária Terézia idején épült.", "Csillag alakú alaprajz.", "Börtönként szolgált 1849 után."], ro: ["Construită sub Maria Tereza.", "Plan în formă de stea.", "Închisoare după 1849."], en: ["Built under Maria Theresa.", "Star-shaped floor plan.", "Served as a prison after 1849."] },
     image: "/geo-images/romania/hist-arad-fortress.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Festung von Arad ist ein bedeutendes Beispiel österreichischer Militärarchitektur im Vauban-Stil. Sie wurde im 18. Jahrhundert auf Befehl von Kaiserin Maria Theresia errichtet, um die Grenze des Habsburgerreiches zu sichern. Die sternförmige Anlage diente lange Zeit als Kaserne und Militärgefängnis und ist heute noch teilweise militärisch genutzt.",
+      hu: "Az aradi vár a Vauban-stílusú osztrák katonai építészet egyik kiemelkedő példája. A 18. században épült Mária Terézia császárnő parancsára, a Habsburg Birodalom határainak biztosítására. A csillag alaprajzú erődítmény hosszú ideig laktanyaként és katonai börtönként szolgált, és ma is katonai területnek számít.",
+      ro: "Cetatea Aradului este un exemplu remarcabil de arhitectură militară austriacă în stil Vauban. A fost construită în secolul al XVIII-lea din ordinul împărătesei Maria Tereza pentru a securiza granița Imperiului Habsburgic. Fortificația în formă de stea a servit mult timp ca unitate militară și închisoare, fiind și astăzi parțial utilizată de armată.",
+      en: "Arad Fortress is a significant example of Austrian military architecture built in the Vauban style. It was constructed in the 18th century by order of Empress Maria Theresa to secure the Habsburg Empire borders. The star-shaped fortification served for a long time as barracks and a military prison and remains partially under military use today.",
+    },
+    factsAdvanced: {
+      de: ["Wurde zwischen 1763 und 1783 erbaut.", "Der Umfang der Festungsmauern beträgt über 3 Kilometer.", "Beherbergte nach 1849 die gefangenen ungarischen Generäle.", "Besteht aus sechs Bastionen und sechs Ravelins.", "Besitzt eine Kapelle im Barockstil im Inneren.", "Wurde von über 1.500 Strafgefangenen errichtet."],
+      hu: ["1763 és 1783 között épült.", "A várfalak kerülete meghaladja a 3 kilométert.", "1849 után itt tartották fogva az aradi vértanúkat.", "Hat bástyából és hat ravelinből áll.", "Belsejében egy barokk stílusú kápolna található.", "Építésén több mint 1500 rab dolgozott."],
+      ro: ["Construită între anii 1763 și 1783.", "Perimetrul zidurilor cetății depășește 3 kilometri.", "Aici au fost deținuți cei 13 generali pașoptiști maghiari.", "Configurația cuprinde șase bastioane și șase raveline.", "Include o biserică în stil baroc în interiorul incintei.", "La construcția ei au lucrat peste 1.500 de deținuți."],
+      en: ["Constructed between 1763 and 1783.", "The perimeter of the fortress walls exceeds 3 kilometers.", "The 13 Hungarian revolutionary generals were imprisoned here in 1849.", "The structure consists of six bastions and six ravelins.", "Contains a Baroque-style chapel within the enclosure.", "Built using the labor of over 1,500 prisoners."],
+    },
   },
   {
     id: "hist-densus", type: "historical", parent: "RO-HD", coords: [22.791, 45.583],
@@ -3025,6 +4559,19 @@ export const romaniaHistorical: POI[] = [
     description: { de: "Eine der ältesten Steinkirchen Rumäniens, erbaut aus römischen Spolien.", hu: "Románia egyik legrégebbi kőtemploma, római kövekből épült.", ro: "Una dintre cele mai vechi biserici de piatră, construită din spoli romane.", en: "One of Romania's oldest stone churches, built from Roman spolia." },
     facts: { de: ["Erbaut im 13. Jh.", "Römische Grabsteine im Mauerwerk.", "Einzigartige Architektur."], hu: ["A 13. században épült.", "Római sírkövek a falakban.", "Egyedülálló építészet."], ro: ["Construită în sec. XIII.", "Pietre funerare romane în ziduri.", "Arhitectură unică."], en: ["Built in the 13th century.", "Roman tombstones in the walls.", "Unique architecture."] },
     image: "/geo-images/romania/hist-densus.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Nikolauskirche von Densuș ist eines der rätselhaftesten und ältesten Gotteshäuser Rumäniens. Sie wurde im 13. Jahrhundert unter Verwendung von Spolien aus der nahegelegenen römischen Hauptstadt Ulpia Traiana Sarmizegetusa errichtet. Die ungewöhnliche Architektur kombiniert frühchristliche Elemente mit antiken römischen Grabsteinen und Säulen.",
+      hu: "A densus-i Szent Miklós-templom Románia egyik legrejtélyesebb és legősibb keresztény építménye. A 13. században épült, nagyrészt a közeli római fővárosból, Ulpia Traiana Sarmizegetusából származó kövek felhasználásával. Szokatlan építészete korai keresztény elemeket ötvöz ókori római sírkövekkel és oszlopokkal.",
+      ro: "Biserica Sfântul Nicolae din Densuș este unul dintre cele mai enigmatice și vechi lăcașuri de cult din România. A fost ridicată în secolul al XIII-lea folosind materiale recuperate din ruinele capitalei romane Ulpia Traiana Sarmizegetusa. Arhitectura neobișnuită combină elemente paleocreștine cu pietre funerare și coloane romane antice.",
+      en: "The St. Nicholas Church in Densuș is one of Romania's most enigmatic and oldest religious sites. Built in the 13th century, it predominantly uses repurposed stone materials from the nearby Roman capital, Ulpia Traiana Sarmizegetusa. Its unusual architecture blends early Christian elements with ancient Roman tombstones and columns.",
+    },
+    factsAdvanced: {
+      de: ["Die Wandmalereien im Inneren stammen aus dem Jahr 1443.", "Römische Altäre und Grabsteine bilden Teile der Außenmauer.", "Zwei römische Löwenfiguren stützen den Altarbereich.", "Einige Historiker vermuten einen antiken Tempel als Vorläufer.", "Das Dach besteht vollständig aus Steinplatten.", "Wurde im Jahr 1991 für das UNESCO-Welterbe vorgeschlagen."],
+      hu: ["A belső falfestmények 1443-ban készültek.", "Római oltárok és sírkövek alkotják a külső falak egy részét.", "Két római oroszlánszobor támasztja alá az oltár környékét.", "Egyes történészek szerint eredetileg ókori templom állt itt.", "A tető teljes egészében kőlapokból készült.", "1991-ben javasolták az UNESCO Világörökségi listájára."],
+      ro: ["Pictura murală din interior datează din anul 1443.", "Zidurile exterioare conțin altare și stele funerare romane.", "Doi lei de piatră romani străjuiesc zona altarului.", "Unii istorici susțin că pe acest loc a existat un templu dacic.", "Acoperișul este realizat integral din plăci de piatră.", "Propusă pentru patrimoniul UNESCO încă din anul 1991."],
+      en: ["The interior frescoes date back to 1443.", "The exterior walls incorporate Roman altars and tombstones.", "Two Roman stone lions flank the altar area.", "Some historians suggest it was built over an ancient Dacian temple.", "The roof is constructed entirely of flat stone slabs.", "Proposed for the UNESCO World Heritage list in 1991."],
+    },
   },
   {
     id: "hist-cirtza", type: "historical", parent: "RO-SB", coords: [24.567, 45.783],
@@ -3032,6 +4579,19 @@ export const romaniaHistorical: POI[] = [
     description: { de: "Ruinen einer Zisterzienserabtei, ein bedeutendes gotisches Denkmal.", hu: "Ciszterci apátság romjai, jelentős gótikus műemlék.", ro: "Ruinele unei abații cisterciene, monument gotic important.", en: "Ruins of a Cistercian abbey, an important Gothic monument." },
     facts: { de: ["Gegründet um 1202.", "Früheste Gotik in Siebenbürgen.", "Einstige Abtei der weißen Mönche."], hu: ["1202 körül alapították.", "A legkorábbi gótika Erdélyben.", "A fehér barátok egykori apátsága."], ro: ["Fondată în jurul anului 1202.", "Cea mai veche gotică din Transilvania.", "Fosta abație a călugărilor albi."], en: ["Founded around 1202.", "Earliest Gothic in Transylvania.", "Former abbey of the white monks."] },
     image: "/geo-images/romania/hist-cirtza.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Kloster Cârța war eine bedeutende Zisterzienserabtei in Siebenbürgen, die zu Beginn des 13. Jahrhunderts gegründet wurde. Die Abtei spielte eine Schlüsselrolle bei der Einführung der gotischen Architektur in der Region. Heute sind die eindrucksvollen Ruinen der Kirche und des Kreuzgangs erhalten, wobei ein Teil des Chors noch als evangelische Kirche genutzt wird.",
+      hu: "A karcai kolostor Erdély jelentős ciszterci apátsága volt, amelyet a 13. század elején alapítottak. Az apátság kulcsszerepet játszott a gótikus építészet meghonosításában a régióban. Napjainkban a templom és a kolostor lenyűgöző romjai láthatók, míg a szentély egy részét ma is evangélikus templomként használják.",
+      ro: "Mănăstirea Cârța a fost o importantă abație cisterciană din Transilvania, întemeiată la începutul secolului al XIII-lea. Abația a jucat un rol esențial în introducerea arhitecturii gotice în această regiune. Astăzi se păstrează ruinele impresionante ale bisericii și ale claustrului, corul fiind încă folosit ca biserică evanghelică.",
+      en: "Cârța Monastery was a significant Cistercian abbey in Transylvania, founded at the beginning of the 13th century. The abbey played a crucial role in introducing Gothic architecture to the region. Today, the impressive ruins of the church and cloister remain, with a part of the choir still serving as a Lutheran church.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1202 von Mönchen aus der Abtei Igriș.", "Gilt als die östlichste Zisterzienserabtei Europas.", "Die Kirche wurde 1474 auf Befehl von Matthias Corvinus aufgelöst.", "Besitzt frühgotische Stilelemente aus Frankreich.", "Auf dem Gelände befindet sich ein Soldatenfriedhof.", "Liegt etwa 50 Kilometer östlich von Hermannstadt (Sibiu)."],
+      hu: ["1202-ben alapították az egresi apátságból érkező szerzetesek.", "Európa legkeletebbi ciszterci apátságaként ismert.", "A szerzetesrendet 1474-ben Hunyadi Mátyás oszlatta fel.", "Franciaországból származó korai gótikus stílusjegyeket mutat.", "A kolostor udvarán katonai temető található.", "Nagyszebentől körülbelül 50 kilométerre keletre fekszik."],
+      ro: ["Fondată în anul 1202 de călugări veniți de la abația Igriș.", "Cea mai estică abație a ordinului cistercian din Europa.", "Desființată în 1474 prin ordinul regelui Matei Corvin.", "Prezintă elemente de stil gotic timpuriu de influență franceză.", "Găzduiește un cimitir militar în incinta ruinelor.", "Situată la aproximativ 50 km est de municipiul Sibiu."],
+      en: ["Founded in 1202 by monks from the Igriș Abbey.", "Recognized as the easternmost Cistercian abbey in Europe.", "Disbanded in 1474 by order of King Matthias Corvinus.", "Exhibits early Gothic architectural elements of French influence.", "Contains a military cemetery within the ruins.", "Located approximately 50 kilometers east of Sibiu."],
+    },
   },
   {
     id: "hist-rupea", type: "historical", parent: "RO-BV", coords: [25.212, 46.038],
@@ -3039,6 +4599,19 @@ export const romaniaHistorical: POI[] = [
     description: { de: "Mittelalterliche Bauernburg auf einem Basaltfelsen.", hu: "Középkori parasztvár egy bazaltsziklán.", ro: "Cetate țărănească medievală pe o stâncă de bazalt.", en: "Medieval peasant fortress on a basalt rock." },
     facts: { de: ["Schneckenförmige Anlage.", "Strategischer Kontrollpunkt.", "Restauriert im 21. Jh."], hu: ["Csiga alakú alaprajz.", "Stratégiai ellenőrző pont.", "A 21. században restaurálták."], ro: ["Formă de spirală.", "Punct strategic de control.", "Restaurată în sec. XXI."], en: ["Spiral-shaped layout.", "Strategic control point.", "Restored in the 21st century."] },
     image: "/geo-images/romania/hist-rupea.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Festung Rupea thront auf einem Basalthügel und ist eine der ältesten archäologischen Stätten Rumäniens. Die heutige Anlage wurde im Mittelalter in Form einer Spirale auf drei Ebenen errichtet: der oberen, mittleren und unteren Burg. Sie diente als strategischer Verteidigungspunkt und Zufluchtsort für die sächsische Bevölkerung bei Angriffen.",
+      hu: "A kőhalmi vár egy bazalthegy tetején trónol, és Románia egyik legrégebbi régészeti lelőhelye. A jelenlegi vár a középkorban épült spirál alakban, három szinten: felső, középső és alsó várra osztva. Stratégiai védelmi pontként és menedékhelyként szolgált a szász lakosság számára a támadások idején.",
+      ro: "Cetatea Rupea este situată pe un masiv de bazalt și reprezintă unul dintre cele mai vechi situri arheologice din România. Fortificația medievală a fost ridicată în formă de spirală pe trei niveluri: cetatea de sus, de mijloc și de jos. A servit ca punct strategic de apărare și refugiu pentru populația săsească în timpul invaziilor.",
+      en: "Rupea Fortress sits atop a basalt hill and is one of the oldest archaeological sites in Romania. The medieval structure was built in a spiral shape across three distinct levels: the upper, middle, and lower fortress. It served as a strategic defensive point and a place of refuge for the Saxon population during invasions.",
+    },
+    factsAdvanced: {
+      de: ["Erste urkundliche Erwähnung stammt aus dem Jahr 1324.", "Wurde auf den Ruinen einer dakerzeitlichen Festung erbaut.", "Die Anlage wurde 2013 umfassend restauriert.", "Besitzt eine Gesamtoberfläche von etwa 11 Hektar.", "Der 'Speckturm' diente zur Lagerung von Vorräten.", "Liegt an der Straße zwischen Brașov und Sighișoara."],
+      hu: ["Első írásos említése 1324-ből származik.", "Egy korábbi dák erődítmény romjaira épült.", "A várat 2013-ban jelentős mértékben restaurálták.", "A vár teljes területe körülbelül 11 hektár.", "A 'Szalonna-torony' az élelmiszerkészletek tárolására szolgált.", "Brassó és Segesvár között, a főút mentén található."],
+      ro: ["Prima atestare documentară datează din anul 1324.", "Ridicată pe ruinele unei vechi fortificații dacice (Rumidava).", "Restaurată complet printr-un proiect finalizat în 2013.", "Suprafața totală a complexului este de circa 11 hectare.", "Turnul Slăninei era folosit pentru conservarea alimentelor.", "Situată pe DN13, la jumătatea distanței Brașov-Sighișoara."],
+      en: ["First mentioned in written documents in 1324.", "Built over the ruins of an ancient Dacian fortress (Rumidava).", "Underwent extensive restoration completed in 2013.", "The complex covers a total area of approximately 11 hectares.", "The 'Bacon Tower' was used for preserving food supplies.", "Located on the DN13 road between Brașov and Sighișoara."],
+    },
   },
   {
     id: "hist-dragomirna", type: "historical", parent: "RO-SV", coords: [26.231, 47.758],
@@ -3046,6 +4619,19 @@ export const romaniaHistorical: POI[] = [
     description: { de: "Einzigartiges befestigtes Kloster mit extrem hohen Mauern.", hu: "Egyedülálló erődített kolostor rendkívül magas falakkal.", ro: "Mănăstire fortificată unică, cu ziduri extrem de înalte.", en: "Unique fortified monastery with extremely high walls." },
     facts: { de: ["Erbaut 1602–1609.", "Schmalste Kirche der Moldau.", "Reiche Steinschnitzereien."], hu: ["1602–1609 között épült.", "Moldva legkeskenyebb temploma.", "Gazdag kőfaragványok."], ro: ["Construită între 1602–1609.", "Cea mai îngustă biserică din Moldova.", "Sculpturi în piatră bogate."], en: ["Built 1602–1609.", "Narrowest church in Moldavia.", "Rich stone carvings."] },
     image: "/geo-images/romania/hist-dragomirna.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Kloster Dragomirna wurde im frühen 17. Jahrhundert vom Metropoliten Anastasie Crimca erbaut und besticht durch seine ungewöhnliche Architektur. Die Kirche ist extrem schmal und hoch, was ihr ein einzigartiges, fast turmartiges Aussehen verleiht. Die Fassaden sind mit kunstvollen Steinmetzarbeiten verziert, die eine Mischung aus moldauischen und orientalischen Motiven zeigen.",
+      hu: "A Dragomirna-kolostort a 17. század elején Anastasie Crimca metropolita építtette, és szokatlan építészeti megoldásaival tűnik ki. A templom rendkívül keskeny és magas, ami egyedülálló, szinte toronyszerű megjelenést kölcsönöz neki. A homlokzatokat művészi kőfaragványok díszítik, amelyek moldvai és keleti motívumok keverékét mutatják.",
+      ro: "Mănăstirea Dragomirna a fost ctitorită la începutul secolului al XVII-lea de mitropolitul Anastasie Crimca, remarcându-se prin proporțiile sale neobișnuite. Biserica este extrem de îngustă și înaltă, având un aspect zvelt și unic în arhitectura moldovenească. Fațadele sunt decorate cu sculpturi în piatră ce îmbină motive vegetale și geometrice.",
+      en: "Dragomirna Monastery was founded in the early 17th century by Metropolitan Anastasie Crimca and is noted for its unusual architectural proportions. The church is remarkably narrow and tall, giving it a slender, tower-like appearance. Its facades are adorned with intricate stone carvings that blend Moldavian and Oriental decorative motifs.",
+    },
+    factsAdvanced: {
+      de: ["Die Hauptkirche wurde im Jahr 1609 geweiht.", "Besitzt massive Verteidigungsmauern wie eine Festung.", "Die Turmhöhe der Kirche beträgt über 40 Meter.", "Das Kloster war ein wichtiges Zentrum für Buchmalerei.", "Liegt nur etwa 12 Kilometer nördlich von Suceava.", "Wurde während der Herrschaft von Miron Barnovschi befestigt."],
+      hu: ["A főtemplomot 1609-ben szentelték fel.", "Hatalmas védőfalakkal rendelkezik, mint egy vár.", "A templom tornyának magassága meghaladja a 40 métert.", "A kolostor a középkori kódexmásolás fontos központja volt.", "Szucsávától mindössze 12 kilométerre északra található.", "Miron Barnovschi fejedelem idején erődítették meg."],
+      ro: ["Biserica principală a fost sfințită în anul 1609.", "Incinta este înconjurată de ziduri de apărare masive.", "Înălțimea turlei bisericii depășește 42 de metri.", "A fost un centru renumit pentru manuscrise miniaturate.", "Situată la aproximativ 12 kilometri nord de Suceava.", "Fortificată în timpul domniei lui Miron Barnovschi."],
+      en: ["The main church was consecrated in 1609.", "Surrounded by massive defensive walls, resembling a fortress.", "The church spire reaches a height of over 42 meters.", "The monastery was a famous center for illuminated manuscripts.", "Located only 12 kilometers north of Suceava.", "Fortified during the reign of Prince Miron Barnovschi."],
+    },
   },
   {
     id: "hist-agapia", type: "historical", parent: "RO-NT", coords: [26.235, 47.170],
@@ -3053,6 +4639,19 @@ export const romaniaHistorical: POI[] = [
     description: { de: "Eines der größten Nonnenklöster Rumäniens, bekannt für seine Fresken.", hu: "Románia egyik legnagyobb apácakolostora, freskóiról híres.", ro: "Una dintre cele mai mari mănăstiri de maici, celebră pentru fresce.", en: "One of Romania's largest nunneries, famous for its frescoes." },
     facts: { de: ["Fresken von Nicolae Grigorescu.", "Gegründet im 17. Jh.", "Blumenreiche Innenhöfe."], hu: ["Nicolae Grigorescu freskói.", "A 17. században alapították.", "Virággal teli belső udvarok."], ro: ["Pictată de Nicolae Grigorescu.", "Fondată în sec. XVII.", "Curți interioare pline de flori."], en: ["Frescoes by Nicolae Grigorescu.", "Founded in the 17th century.", "Flower-filled courtyards."] },
     image: "/geo-images/romania/hist-agapia.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Kloster Agapia ist eines der größten Nonnenklöster Rumäniens und liegt eingebettet in die malerische Landschaft der Westmoldau. Es wurde im 17. Jahrhundert gegründet und ist weltberühmt für seine Innenmalereien, die der junge Nicolae Grigorescu, Rumäniens bedeutendster Maler, schuf. Die Anlage umfasst neben der Hauptkirche zahlreiche traditionelle Häuser der Nonnen.",
+      hu: "Az Agapia-kolostor Románia egyik legnagyobb apácakolostora, amely Nyugat-Moldva festői táján fekszik. A 17. században alapították, és világhírét belső festményeinek köszönheti, amelyeket a fiatal Nicolae Grigorescu, Románia legjelentősebb festője készített. Az együttes a főtemplom mellett számos hagyományos stílusú apácaházat is magában foglal.",
+      ro: "Mănăstirea Agapia este una dintre cele mai mari mănăstiri de maici din România, situată în peisajul pitoresc al Munților Neamțului. Fondată în secolul al XVII-lea, este faimoasă pentru pictura interioară realizată de Nicolae Grigorescu între 1858 și 1861. Ansamblul cuprinde biserica principală și numeroase case tradiționale ale călugărițelor.",
+      en: "Agapia Monastery is one of the largest nunneries in Romania, situated in the picturesque landscape of the Neamț Mountains. Founded in the 17th century, it is world-renowned for its interior paintings created by the young Nicolae Grigorescu, Romania's most famous painter. The complex includes the main church and numerous traditional village-style houses for the nuns.",
+    },
+    factsAdvanced: {
+      de: ["Beherbergt eine Gemeinschaft von etwa 300 Nonnen.", "Die Wandmalereien von Grigorescu entstanden 1858-1861.", "Verfügt über ein Museum mit wertvoller religiöser Kunst.", "Die Nonnen betreiben Werkstätten für Teppiche und Stickerei.", "Wurde unter dem moldauischen Hetman Gavriil Coci erbaut.", "Die Kirche ist den Erzengeln Michael und Gabriel geweiht."],
+      hu: ["Körülbelül 300 apáca él a kolostor területén.", "Grigorescu falfestményei 1858 és 1861 között készültek.", "Múzeuma értékes vallási művészeti tárgyakat őriz.", "Az apácák szőnyegszövő és hímzőműhelyeket működtetnek.", "Gavriil Coci moldvai hetman alapította a 17. században.", "A templomot Mihály és Gábor arkangyaloknak szentelték."],
+      ro: ["Găzduiește o comunitate de aproximativ 300 de maici.", "Nicolae Grigorescu a pictat biserica la vârsta de 20 de ani.", "Deține un muzeu cu icoane vechi și obiecte de cult.", "Maicile coordonează ateliere de țesut covoare și broderie.", "Ctitorită de hatmanul Gavriil Coci în secolul XVII.", "Biserica are hramul Sfinții Arhangheli Mihail și Gavriil."],
+      en: ["Home to a community of approximately 300 nuns.", "Nicolae Grigorescu painted the church interiors at age 20.", "Features a museum displaying old icons and religious art.", "The nuns operate traditional carpet and embroidery workshops.", "Founded by Hetman Gavriil Coci in the 17th century.", "The church is dedicated to Archangels Michael and Gabriel."],
+    },
   },
   {
     id: "hist-tismana", type: "historical", parent: "RO-GJ", coords: [22.950, 45.050],
@@ -3060,6 +4659,19 @@ export const romaniaHistorical: POI[] = [
     description: { de: "Čltestes Kloster der Walachei, erbaut auf einem Felsen.", hu: "Havasalföld legrégebbi kolostora, egy sziklára épült.", ro: "Cea mai veche mănăstire din Țara Românească, pe o stâncă.", en: "The oldest monastery in Wallachia, built on a rock." },
     facts: { de: ["Gegründet von Nicodim.", "Versteck für den Goldschatz.", "Höhle hinter der Kirche."], hu: ["Nicodim alapította.", "Az aranytartalék rejtekhelye volt.", "Barlang a templom mögött."], ro: ["Fondată de Sf. Nicodim.", "Locul tezaurului BNR în război.", "Peșteră în spatele bisericii."], en: ["Founded by St. Nicodim.", "Hidden site of the national gold reserve.", "Cave behind the church."] },
     image: "/geo-images/romania/hist-tismana.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Kloster Tismana ist eines der ältesten und bedeutendsten Klöster in der Walachei und gilt als Wiege der Orthodoxie in der Region. Es wurde im 14. Jahrhundert vom Heiligen Nicodim gegründet und liegt spektakulär vor einer Höhle in den Bergen von Gorj. Die festungsartige Anlage spielte eine wichtige Rolle im kulturellen und politischen Leben des Landes.",
+      hu: "A Tismana-kolostor Havasalföld egyik legrégebbi és legjelentősebb kolostora, az ortodoxia bölcsőjének tekintik a régióban. A 14. században alapította Szent Nikodémosz, és látványos helyen, a Gorj-hegység egyik barlangja előtt fekszik. A várszerű épületegyüttes fontos szerepet játszott az ország kulturális és politikai életében.",
+      ro: "Mănăstirea Tismana este una dintre cele mai vechi și importante mănăstiri din Țara Românească, fiind considerată un simbol al ortodoxiei. A fost ctitorită în secolul al XIV-lea de Sfântul Nicodim și este amplasată spectaculos la gura unei peșteri. Complexul fortificat a jucat un rol major în istoria culturală și politică a regiunii.",
+      en: "Tismana Monastery is one of the oldest and most important monasteries in Wallachia, regarded as a cornerstone of Orthodoxy in the region. Founded in the 14th century by Saint Nicodim, it is spectacularly situated near a cave in the Gorj Mountains. The fortress-like complex played a major role in the cultural and political history of the country.",
+    },
+    factsAdvanced: {
+      de: ["Wurde im Jahr 1377 offiziell eingeweiht.", "In der nahen Höhle wurde im Zweiten Weltkrieg der Goldschatz Rumäniens versteckt.", "Die Kirche zeigt Wandmalereien aus verschiedenen Epochen.", "Nicodim von Tismana ist in der Klosterkirche begraben.", "Besitzt ein Museum für den Staatsschatz und sakrale Kunst.", "Ist für die Herstellung traditioneller Teppiche bekannt."],
+      hu: ["Hivatalosan 1377-ben szentelték fel.", "A közeli barlangban őrizték Románia aranytartalékát a II. világháborúban.", "A templom több különböző korszakból származó freskókat őriz.", "Szent Nikodémosz sírja a kolostor templomában található.", "A múzeumban egyházi művészeti kincseket állítottak ki.", "Híres a hagyományos népi szőnyegek készítéséről."],
+      ro: ["Sfințită oficial în anul 1377 de către Sfântul Nicodim.", "Tezaurul BNR a fost ascuns în peștera de aici în al Doilea Război Mondial.", "Biserica păstrează picturi murale din mai multe etape istorice.", "Moaștele Sfântului Nicodim se află în incinta mănăstirii.", "Găzduiește un muzeu al tezaurului și obiectelor de cult.", "Renumită pentru producția tradițională de covoare oltenești."],
+      en: ["Officially consecrated in 1377 by Saint Nicodim.", "The Romanian national gold reserve was hidden in a nearby cave during WWII.", "The church contains murals from several different historical periods.", "Saint Nicodim is buried within the monastery's church.", "Features a museum dedicated to the gold treasury and sacred art.", "Famous for the production of traditional Oltenian carpets."],
+    },
   },
 ];
 
@@ -3075,6 +4687,19 @@ export const romaniaLandmarks: POI[] = [
     area: 5800,
     subjects: ["sachkunde", "geographie"],
     image: "/geo-images/romania/landmark-delta-dunarii.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Donaudelta ist das zweitgrößte und am besten erhaltene Delta Europas und zählt zum UNESCO-Welterbe. Es entstand an der Mündung der Donau ins Schwarze Meer und besteht aus einem Labyrinth von Kanälen, Seen und Schilfgebieten. Dieses einzigartige Ökosystem beherbergt eine enorme Vielfalt an Flora und Fauna, insbesondere Zugvögel.",
+      hu: "A Duna-delta Európa második legnagyobb és legjobb állapotban fennmaradt deltája, az UNESCO Világörökség része. A Duna Fekete-tengerbe való torkolatánál alakult ki, csatornák, tavak és nádasok útvesztőjéből áll. Ez az egyedülálló ökoszisztéma rendkívül gazdag növény- és állatvilágnak, különösen a költöző madaraknak ad otthont.",
+      ro: "Delta Dunării este a doua ca mărime și cea mai bine conservată dintre deltele europene, fiind inclusă în patrimoniul UNESCO. Format la vărsarea Dunării în Marea Neagră, acest labirint de canale, lacuri și stufărișuri reprezintă un ecosistem unic. Delta adăpostește o biodiversitate incredibilă, fiind un paradis pentru mii de specii de păsări.",
+      en: "The Danube Delta is Europe's second largest and best-preserved delta, listed as a UNESCO World Heritage site. Formed at the Danube's mouth into the Black Sea, it consists of a labyrinth of canals, lakes, and reed beds. This unique ecosystem hosts an incredible biodiversity, serving as a sanctuary for thousands of bird species.",
+    },
+    factsAdvanced: {
+      de: ["Umfasst eine Fläche von etwa 5.800 Quadratkilometern.", "Beherbergt über 300 Vogelarten und 160 Fischarten.", "Besteht aus drei Hauptarmen: Chilia, Sulina und Sfântu Gheorghe.", "Besitzt den größten zusammenhängenden Schilfrohrbestand der Welt.", "Das Delta wächst jährlich um etwa 40 Meter ins Meer.", "Wurde 1991 in die Liste des UNESCO-Welterbes aufgenommen."],
+      hu: ["Területe körülbelül 5800 négyzetkilométer.", "Több mint 300 madárfajnak és 160 halfajnak ad otthont.", "Három fő ága van: Kilia, Szulina és Szentgyörgy-ág.", "Itt található a világ legnagyobb összefüggő nádasa.", "A delta évente körülbelül 40 métert növekszik a tenger irányába.", "1991-ben került fel az UNESCO Világörökségi listájára."],
+      ro: ["Suprafața totală este de aproximativ 5.800 km².", "Adăpostește peste 300 de specii de păsări și 160 de specii de pești.", "Se divide în trei brațe principale: Chilia, Sulina și Sfântu Gheorghe.", "Deține cea mai mare suprafață compactă de stuf din lume.", "Teritoriul deltei înaintează în mare cu circa 40 m pe an.", "Inclusă în rețeaua internațională a rezervațiilor biosferei în 1990."],
+      en: ["Covers a total surface area of approximately 5,800 km².", "Home to over 300 species of birds and 160 species of fish.", "Divided into three main branches: Chilia, Sulina, and Sfântu Gheorghe.", "Contains the largest compact reed bed area in the world.", "The delta advances into the sea by about 40 meters every year.", "Recognized as a UNESCO Biosphere Reserve since 1990."],
+    },
   },
   {
     id: "landmark-retezat-np", type: "landmark", parent: "RO-HD", coords: [22.87, 45.37],
@@ -3083,6 +4708,19 @@ export const romaniaLandmarks: POI[] = [
     facts: { de: ["UNESCO-MAB-Biosphäre.", "Über 80 Gletscherseen.", "Heimat von Gämsen und Bären."], hu: ["UNESCO-MAB bioszféra.", "Több mint 80 gleccsertó.", "Zergék, medvék élnek itt."], ro: ["Rezervație MAB UNESCO.", "Peste 80 lacuri glaciare.", "Caprete negre și urși."], en: ["UNESCO MAB reserve.", "Over 80 glacial lakes.", "Chamois and bears."] },
     area: 381,
     image: "/geo-images/romania/landmark-retezat-np.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Nationalpark Retezat ist der älteste Nationalpark Rumäniens und liegt im gleichnamigen Gebirgsmassiv der Südkarpaten. Er ist bekannt für seine unberührte Hochgebirgslandschaft mit über 80 Gletscherseen und markanten Granitgipfeln. Das Gebiet beherbergt einige der letzten großen Urwälder Europas und eine reiche alpine Flora und Fauna.",
+      hu: "A Retezát Nemzeti Park Románia legrégebbi nemzeti parkja, amely a Déli-Kárpátok azonos nevű hegységében található. Érintetlen magashegyi tájáról ismert, több mint 80 tengerszemmel és jellegzetes gránitcsúcsokkal. A terület Európa utolsó nagy őserdőinek és gazdag alpesi növény- és állatvilágának ad otthont.",
+      ro: "Parcul Național Retezat este cel mai vechi parc național din România, situat în masivul muntos omonim din Carpații Meridionali. Este renumit pentru peisajul glaciar spectaculos, care include peste 80 de lacuri și tăuri glaciare. Zona protejează unele dintre ultimele păduri virgine ale Europei și o diversitate mare de specii alpine.",
+      en: "Retezat National Park is Romania's oldest national park, located in the mountain massif of the same name within the Southern Carpathians. It is famous for its pristine alpine landscape, featuring over 80 glacial lakes and sharp granite peaks. The area protects some of Europe's last remaining virgin forests and a rich variety of alpine wildlife.",
+    },
+    factsAdvanced: {
+      de: ["Wurde im Jahr 1935 auf Initiative von Alexandru Borza gegründet.", "Der höchste Gipfel ist der Peleaga mit 2.509 Metern.", "Beherbergt den Bucura-See, den größten Gletschersee Rumäniens.", "Der Zănoaga-See ist mit 29 Metern der tiefste Gletschersee des Landes.", "Über 1.100 Pflanzenarten sind im Park dokumentiert.", "Wurde 1979 zum UNESCO-Biosphärenreservat erklärt."],
+      hu: ["1935-ben alapították Alexandru Borza kezdeményezésére.", "Legmagasabb csúcsa a Peleaga-csúcs (2509 méter).", "Itt található a Bukura-tó, Románia legnagyobb tengerszeme.", "A Zănoaga-tó az ország legmélyebb tengerszeme (29 méter).", "Több mint 1100 növényfajt dokumentáltak a park területén.", "1979-ben UNESCO bioszféra-rezervátummá nyilvánították."],
+      ro: ["Înființat în anul 1935 la inițiativa profesorului Alexandru Borza.", "Vârful Peleaga este cel mai înalt punct, având 2.509 metri.", "Găzduiește Lacul Bucura, cel mai întins lac glaciar din România.", "Lacul Zănoaga este cel mai adânc lac glaciar din țară (29 metri).", "Peste 1.100 de specii de plante sunt identificate în parc.", "Declarat Rezervație a Biosferei de către UNESCO în 1979."],
+      en: ["Established in 1935 following the initiative of Alexandru Borza.", "Peleaga Peak is the highest point at 2,509 meters.", "Home to Lake Bucura, Romania's largest glacial lake by area.", "Lake Zănoaga is the deepest glacial lake in the country at 29 meters.", "Over 1,100 plant species have been documented in the park.", "Designated as a UNESCO Biosphere Reserve in 1979."],
+    },
   },
   {
     id: "landmark-transfagarasan", type: "landmark", parent: "RO", coords: [24.62, 45.6],
@@ -3091,6 +4729,19 @@ export const romaniaLandmarks: POI[] = [
     facts: { de: ["Höchster Punkt 2.042 m.", "Erbaut 1970–1974 (Ceaușescu).", "Im Winter meist gesperrt."], hu: ["Legmagasabb pontja 2042 m.", "1970–1974 között épült (Ceaușescu).", "Télen többnyire zárva."], ro: ["Punct culminant 2.042 m.", "Construit 1970–1974 (Ceaușescu).", "Închis iarna."], en: ["Highest point 2,042 m.", "Built 1970–1974 (Ceaușescu).", "Closed in winter."] },
     elevation: 2042,
     image: "/geo-images/romania/landmark-transfagarasan.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Transfogarascher Hochstraße (DN7C) ist eine Gebirgsstraße in Rumänien, die das Făgăraș-Gebirge überquert. Sie wurde zwischen 1970 und 1974 für militärische Zwecke unter Nicolae Ceaușescu erbaut. Die Strecke erreicht am Bâlea-Pass eine maximale Höhe von 2042 Metern. Wegen Schneefalls ist der Abschnitt über das Hochgebirge meist nur von Juni bis Oktober passierbar.",
+      hu: "A Transzfogarasi út (DN7C) Románia egyik legjelentősebb hegyi útja, amely a Fogarasi-havasokon halad keresztül. Az útvonalat 1970 és 1974 között építették katonai célokból, Nicolae Ceaușescu utasítására. Legmagasabb pontja 2042 méteres magasságban található a Bâlea-tónál. A téli időjárás miatt az út általában csak június és október között tart nyitva.",
+      ro: "Transfăgărășanul (DN7C) este o șosea montană din România care traversează Munții Făgăraș, legând regiunile Transilvania și Muntenia. Construită între 1970 și 1974 sub regimul lui Nicolae Ceaușescu, șoseaua are o lungime de aproximativ 90 de kilometri. Punctul de maximă altitudine este atins la Pasul Bâlea, la 2042 de metri. Drumul este deschis circulației rutiere de regulă în perioada iunie-octombrie.",
+      en: "The Transfăgărășan (DN7C) is a mountain road crossing the southern section of the Carpathian Mountains in Romania. Constructed between 1970 and 1974, it served as a strategic military route during the communist era. The road reaches its highest point at an altitude of 2042 meters at the Bâlea Pass. Due to heavy snowfall at high altitudes, it remains closed from late autumn until early summer.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt bei 2042 Metern", "Bauzeit von 1970 bis 1974", "Etwa 90 Kilometer Gesamtlänge", "Überquert das Făgăraș-Gebirge", "Verbindet Siebenbürgen mit der Walachei", "Verfügt über 27 Brücken und Viadukte"],
+      hu: ["Legmagasabb pontja 2042 méter", "1970 és 1974 között épült", "Körülbelül 90 kilométer hosszú", "A Fogarasi-havasokat szeli át", "Erdélyt köti össze Havasalfölddel", "27 hidat és viaduktot tartalmaz"],
+      ro: ["Altitudine maximă de 2042 metri", "Construit între anii 1970 și 1974", "Lungime totală de circa 90 km", "Traversează Munții Făgăraș", "Leagă Transilvania de Muntenia", "Include 27 de poduri și viaducte"],
+      en: ["Maximum altitude of 2042 meters", "Built between 1970 and 1974", "Total length of approximately 90 km", "Crosses the Făgăraș Mountains", "Connects Transylvania with Wallachia", "Contains 27 bridges and viaducts"],
+    },
   },
   {
     id: "landmark-transalpina", type: "landmark", parent: "RO", coords: [23.68, 45.44],
@@ -3099,6 +4750,19 @@ export const romaniaLandmarks: POI[] = [
     facts: { de: ["Höchster Punkt 2.145 m.", "\"Königsstraße\".", "Oltenien ↔ Siebenbürgen."], hu: ["Legmagasabb pontja 2145 m.", "\"Király útja\".", "Olténia ↔ Erdély."], ro: ["Punct culminant 2.145 m.", "\"Drumul Regelui\".", "Oltenia ↔ Transilvania."], en: ["Highest point 2,145 m.", "\"King's Road\".", "Oltenia ↔ Transylvania."] },
     elevation: 2145,
     image: "/geo-images/romania/landmark-transalpina.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Transalpina (DN67C) ist die am höchsten gelegene Nationalstraße Rumäniens und überquert das Parâng-Gebirge. Sie verbindet die Orte Novaci im Süden mit Sebeș im Norden und erreicht am Urdele-Pass eine Höhe von 2145 Metern. Die Straße hat antike Ursprünge und ist auch als \"Straße des Königs\" bekannt. Erst zwischen 2009 und 2012 wurde die gesamte Strecke vollständig asphaltiert.",
+      hu: "A Transalpina (DN67C) Románia legmagasabban fekvő közútja, amely a Páring-hegységen vezet keresztül. Észak-déli irányban köti össze Szászsebest és Novaci városát, legmagasabb pontja az Urdele-hágó 2145 méteren. Az út ókori alapokon nyugszik és a \"Király útja\" néven is ismert. A teljes útszakasz modern aszfaltozása 2009 és 2012 között valósult meg.",
+      ro: "Transalpina (DN67C) este cea mai înaltă șosea din România, traversând Munții Parâng din Carpații Meridionali. Leagă localitatea Novaci din județul Gorj de orașul Sebeș din județul Alba, atingând altitudinea maximă de 2145 metri în Pasul Urdele. Cunoscută și sub numele de \"Drumul Regelui\", șoseaua are origini vechi, fiind utilizată de păstori. Modernizarea și asfaltarea completă a drumului a avut loc între 2009 și 2012.",
+      en: "The Transalpina (DN67C) is the highest national road in Romania, crossing the Parâng Mountains in the Southern Carpathians. It connects Novaci in the south to Sebeș in the north, reaching its peak altitude of 2145 meters at the Urdele Pass. Also known as the \"King's Road\", it has ancient origins and was once a traditional shepherd path. The road was fully paved and modernized between 2009 and 2012.",
+    },
+    factsAdvanced: {
+      de: ["Höchste Straße Rumäniens", "Maximale Höhe 2145 Meter", "Länge von etwa 148 Kilometern", "Überquert das Parâng-Gebirge", "Wurde 2012 fertig asphaltiert", "Bekannt als \"Straße des Königs\""],
+      hu: ["Románia legmagasabb közútja", "2145 méteres csúcsmagasság", "Hossza körülbelül 148 kilométer", "A Páring-hegységet szeli át", "2012-ben fejezték be az aszfaltozást", "Király útja néven is ismerik"],
+      ro: ["Cea mai înaltă șosea din România", "Altitudine maximă de 2145 metri", "Lungime de aproximativ 148 km", "Traversează Munții Parâng", "Asfaltată complet până în 2012", "Supranumită \"Drumul Regelui\""],
+      en: ["Highest road in Romania", "Maximum altitude of 2145 meters", "Total length of about 148 km", "Crosses the Parâng Mountains", "Fully paved by the year 2012", "Known as the \"King's Road\""],
+    },
   },
   {
     id: "landmark-cheile-bicazului", type: "landmark", parent: "RO-NT", coords: [25.83, 46.82],
@@ -3106,6 +4770,19 @@ export const romaniaLandmarks: POI[] = [
     description: { de: "Spektakuläre Kalksteinschlucht zwischen Transsilvanien und Moldau.", hu: "Látványos mészkőszurdok Erdély és Moldva között.", ro: "Chei calcaroase spectaculoase între Transilvania și Moldova.", en: "Spectacular limestone gorge between Transylvania and Moldavia." },
     facts: { de: ["8 km lang, Felsen 300 m hoch.", "Teil Hășmaș-Nationalpark.", "Straße DN12C."], hu: ["8 km hosszú, 300 m magas sziklák.", "Nagyhagymás Nemzeti Park része.", "DN12C út."], ro: ["8 km, pereți de 300 m.", "Parte din Parcul Național Hășmaș.", "Pe DN12C."], en: ["8 km long, 300-m walls.", "Part of Hășmaș National Park.", "Road DN12C."] },
     image: "/geo-images/romania/landmark-cheile-bicazului.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Bicaz-Klamm ist eine beeindruckende Kalkstein-Schlucht im Hășmaș-Gebirge im Osten Rumäniens. Sie erstreckt sich über sechs Kilometer und verbindet die Regionen Moldau und Siebenbürgen. Die Felswände ragen an einigen Stellen bis zu 300 Meter fast senkrecht in die Höhe. Der engste Abschnitt der Schlucht wird im Volksmund als \"Höllenrachen\" bezeichnet.",
+      hu: "A Békás-szoros egy monumentális mészkőszurdok a Hagymás-hegységben, Románia keleti részén. A hat kilométer hosszú szoros összeköti Moldvát Erdélyjel, miközben a Békás-patak folyik az alján. A sziklafalak magassága helyenként eléri a 300 métert is. A szoros legszűkebb és legmélyebb részét \"Pokol torkának\" nevezik a helyiek.",
+      ro: "Cheile Bicazului reprezintă un defileu format de râul Bicaz în Munții Hășmaș, situat la granița dintre județele Neamț și Harghita. Defileul se întinde pe o lungime de aproximativ 6 kilometri și face legătura între Moldova și Transilvania. Pereții de calcar ating pe alocuri înălțimi de 300 de metri. Sectorul cel mai îngust al cheilor este cunoscut sub denumirea de \"Gâtul Iadului\".",
+      en: "Bicaz Gorge is a canyon formed by the Bicaz River in the Hășmaș Mountains of eastern Romania. It stretches for about 6 kilometers, serving as a passage between the regions of Moldova and Transylvania. The limestone walls rise up to 300 meters high in some sections. The narrowest and deepest part of the gorge is locally referred to as the \"Hell's Throat\".",
+    },
+    factsAdvanced: {
+      de: ["Länge von etwa 6 Kilometern", "Felswände bis zu 300 Meter hoch", "Verbindet Neamț mit Harghita", "Teil des Nationalparks Cheile Bicazului", "Durchflossen vom Fluss Bicaz", "Engster Teil heißt \"Höllenrachen\""],
+      hu: ["Körülbelül 6 kilométer hosszú", "300 méter magas sziklafalak", "Neamț és Hargita megyét köti össze", "A Békás-szoros Nemzeti Park része", "A Békás-patak alakította ki", "Legszűkebb része a Pokol torka"],
+      ro: ["Lungime de aproximativ 6 km", "Pereți înalți de până la 300 m", "Leagă județele Neamț și Harghita", "Parte a Parcului Național Hășmaș", "Format de apele râului Bicaz", "Zona îngustă se numește Gâtul Iadului"],
+      en: ["Length of approximately 6 km", "Rock walls up to 300 meters high", "Connects Neamț and Harghita counties", "Part of the Hășmaș National Park", "Formed by the Bicaz River", "Narrowest part called \"Hell's Throat\""],
+    },
   },
   {
     id: "landmark-cheile-turzii", type: "landmark", parent: "RO-CJ", coords: [23.68, 46.56],
@@ -3113,6 +4790,19 @@ export const romaniaLandmarks: POI[] = [
     description: { de: "Karstschlucht bei Turda, Naturreservat.", hu: "Karsztos szurdok Torda mellett, természetvédelmi terület.", ro: "Chei carstice lângă Turda, rezervație naturală.", en: "Karst gorge near Turda, nature reserve." },
     facts: { de: ["Länge ~2,9 km.", "Über 60 Höhlen.", "Endemische Pflanzen."], hu: ["Kb. 2,9 km hosszú.", "Több mint 60 barlang.", "Endemikus növények."], ro: ["Lungime ~2,9 km.", "Peste 60 de peșteri.", "Plante endemice."], en: ["~2.9 km long.", "Over 60 caves.", "Endemic plants."] },
     image: "/geo-images/romania/landmark-cheile-turzii.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Tordaer Schlucht ist ein Naturschutzgebiet westlich der Stadt Turda in Siebenbürgen. Sie wurde durch den Fluss Hășdate in das Kalksteingebirge gegraben und erstreckt sich über fast drei Kilometer. Das Gebiet beherbergt über 1000 Pflanzenarten und zahlreiche seltene Tiere. Die Felswände der Schlucht erreichen Höhen von bis zu 200 Metern und enthalten über 60 Höhlen.",
+      hu: "A Tordai-hasadék egy védett természeti terület Erdélyben, Torda várostól nyugatra. A hasadékot a Hasmás-patak vágta bele a mészkőhegységbe mintegy 2,9 kilométer hosszan. Területén több mint 1000 növényfaj és számos ritka állatfaj él. A függőleges sziklafalak magassága eléri a 200 métert, a hasadékban pedig több mint 60 barlang található.",
+      ro: "Cheile Turzii sunt o rezervație naturală situată la vest de orașul Turda, în județul Cluj. Defileul a fost săpat de râul Hășdate în roci de calcar jurasic pe o lungime de aproape 3 kilometri. Rezervația adăpostește peste 1000 de specii de plante și o faună diversificată. Pereții abrupți ating înălțimi de 200 de metri și conțin peste 60 de peșteri inventariate.",
+      en: "Turda Gorge is a natural reserve located west of the city of Turda in Transylvania. Formed by the erosion of the Hășdate River in limestone rock, the gorge spans nearly 3 kilometers. The area is home to over 1,000 plant species and a variety of rare wildlife. Its vertical cliffs reach heights of up to 200 meters and contain more than 60 different caves.",
+    },
+    factsAdvanced: {
+      de: ["Länge von etwa 2,9 Kilometern", "Maximale Wandhöhe von 200 Metern", "Über 60 registrierte Höhlen", "Mehr als 1000 Pflanzenarten", "Naturschutzgebiet seit 1938", "Geformt durch den Fluss Hășdate"],
+      hu: ["Hossza körülbelül 2,9 kilométer", "Maximális falmagasság 200 méter", "Több mint 60 barlang található itt", "Több mint 1000 növényfaj él itt", "1938 óta védett terület", "A Hasmás-patak alakította ki"],
+      ro: ["Lungime de circa 2,9 km", "Înălțime maximă a pereților de 200 m", "Peste 60 de peșteri identificate", "Adăpostește peste 1000 specii de plante", "Rezervație naturală din anul 1938", "Săpate de râul Hășdate"],
+      en: ["Approximately 2.9 km long", "Maximum cliff height of 200 meters", "Over 60 caves identified in the area", "Home to more than 1,000 plant species", "Nature reserve since 1938", "Formed by the Hășdate River"],
+    },
   },
   {
     id: "landmark-salina-turda", type: "landmark", parent: "RO-CJ", coords: [23.787, 46.587],
@@ -3121,6 +4811,19 @@ export const romaniaLandmarks: POI[] = [
     facts: { de: ["Abbau seit römischer Zeit.", "Riesenrad und Bootfahrten.", "Tiefe bis 112 m."], hu: ["Kitermelés a római kor óta.", "Óriáskerék és csónakázótó.", "Mélysége 112 m."], ro: ["Exploatată din epoca romană.", "Roată panoramică și lac cu bărci.", "Adâncime 112 m."], en: ["Mined since Roman times.", "Ferris wheel and boating lake.", "Depth 112 m."] },
     historyPeriod: "empire",
     image: "/geo-images/romania/landmark-salina-turda.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Salzbergwerk Turda in Siebenbürgen zählt zu den ältesten Salzminen der Welt und wurde bereits 1075 urkundlich erwähnt. Nach der Einstellung des Abbaus im Jahr 1932 wurde die Mine 1992 als Touristenattraktion und Heilzentrum wiedereröffnet. Sie erstreckt sich bis in eine Tiefe von 120 Metern. Die Mine verfügt über einen unterirdischen See, ein Riesenrad und einen Sportbereich.",
+      hu: "A tordai sóbánya Erdély egyik legősibb sóbányája, amelynek létezéséről már 1075-ből származó oklevelek is tanúskodnak. A kitermelés 1932-es leállítása után 1992-ben nyitották meg turisztikai és gyógyászati célokra. A látogatható rész mélysége eléri a 120 métert. A bányában egy földalatti tó, óriáskerék és különböző sportpályák is helyet kaptak.",
+      ro: "Salina Turda este o exploatare minieră de sare din județul Cluj, menționată documentar pentru prima dată în anul 1075. După încetarea activității extractive în 1932, salina a fost redeschisă în 1992 ca destinație turistică și centru balnear. Galeriile se află la o adâncime de până la 120 de metri. Interiorul găzduiește un lac subteran, o roată panoramică și terenuri de sport.",
+      en: "Turda Salt Mine is an ancient salt extraction site in Transylvania, first mentioned in historical documents in 1075. Since its reopening as a tourist attraction in 1992, it has become a major destination for leisure and halotherapy. The mine reaches a depth of 120 meters underground. It features unique facilities such as an underground lake with boats, a Ferris wheel, and a sports arena.",
+    },
+    factsAdvanced: {
+      de: ["Erste Erwähnung im Jahr 1075", "Abbauende im Jahr 1932", "Wiedereröffnung für Touristen 1992", "Maximale Tiefe von 120 Metern", "Konstante Temperatur von 10-12 Grad", "Verfügt über einen unterirdischen See"],
+      hu: ["Első említése 1075-ben történt", "A kitermelés 1932-ben állt le", "1992-ben nyílt meg a turistáknak", "Maximális mélysége 120 méter", "Állandó 10-12 fokos hőmérséklet", "Földalatti csónakázható tóval rendelkezik"],
+      ro: ["Prima atestare documentară în 1075", "Extracția s-a oprit în anul 1932", "Redeschisă pentru turiști în 1992", "Adâncime maximă de 120 de metri", "Temperatură constantă de 10-12 grade", "Include un lac subteran cu bărci"],
+      en: ["First mentioned in the year 1075", "Salt extraction ended in 1932", "Reopened for tourism in 1992", "Maximum depth of 120 meters", "Constant temperature of 10-12°C", "Features an underground lake with boats"],
+    },
   },
   {
     id: "landmark-salina-praid", type: "landmark", parent: "RO-HR", coords: [25.13, 46.55],
@@ -3128,6 +4831,19 @@ export const romaniaLandmarks: POI[] = [
     description: { de: "Größtes aktives Salzbergwerk Rumäniens.", hu: "Románia legnagyobb működő sóbányája.", ro: "Cea mai mare salină activă din România.", en: "Romania's largest active salt mine." },
     facts: { de: ["Abbau seit dem Mittelalter.", "Kurzentrum gegen Atemwegsleiden.", "Besucherniveau auf 120 m Tiefe."], hu: ["Középkor óta bányásznak itt.", "Gyógyászati kezelés légúti betegségekre.", "Látogatószint 120 m mélyen."], ro: ["Exploatată din Evul Mediu.", "Tratament pentru afecțiuni respiratorii.", "Nivel vizitatori la 120 m."], en: ["Mined since the Middle Ages.", "Treatment for respiratory ailments.", "Visitor level at 120 m depth."] },
     image: "/geo-images/romania/landmark-salina-praid.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Salzbergwerk Praid im Kreis Harghita ist eine der größten Salzminen Europas und liegt im Herzen des Szeklerlandes. Der Abbau in dieser Region reicht bis in die Römerzeit zurück. Die heutigen Besuchergalerien befinden sich 120 Meter unter der Erdoberfläche. Die Mine ist bekannt für ihre heilsame Luft und bietet Einrichtungen wie eine Kapelle, Spielplätze und ein Museum.",
+      hu: "A parajdi sóbánya Székelyföld szívében, Hargita megyében található, és Európa egyik legnagyobb sókészletével rendelkezik. A sókitermelés a térségben egészen a római korig nyúlik vissza. A látogatói szint 120 méter mélyen a felszín alatt helyezkedik el. A bánya híres gyógyhatású levegőjéről, területén kápolna, játszóterek és múzeum is található.",
+      ro: "Salina Praid este una dintre cele mai mari mine de sare din Europa, situată în județul Harghita, în inima Ținutului Secuiesc. Exploatarea sării în această zonă datează încă din epoca romană. Baza de agrement actuală este situată la o adâncime de 120 de metri sub nivelul solului. Salina este recunoscută pentru tratamentul afecțiunilor respiratorii, având capelă și locuri de joacă.",
+      en: "Praid Salt Mine, located in Harghita County, is one of the largest salt mines in Europe and a key site in the Szeklerland region. Salt extraction here dates back to the Roman period. The current tourist level is situated 120 meters underground. The mine is widely known for its therapeutic microclimate, featuring an underground chapel, playgrounds, and a museum of salt mining.",
+    },
+    factsAdvanced: {
+      de: ["Eine der größten Minen Europas", "Besucherebene in 120 Metern Tiefe", "Salzstock reicht bis 2,7 km Tiefe", "Enthält eine unterirdische Kapelle", "Konstante Temperatur von 16 Grad", "Bekannt für Asthmatherapien"],
+      hu: ["Európa egyik legnagyobb sóbányája", "A látogatói szint 120 méter mélyen van", "A sótömb 2,7 km mélységig nyúlik", "Földalatti kápolna található benne", "Állandó 16 fokos hőmérséklet", "Asztma kezelésére használják"],
+      ro: ["Una dintre cele mai mari mine din Europa", "Baza de agrement la 120 m adâncime", "Zăcământ de sare până la 2,7 km adâncime", "Include o capelă ecumenică", "Temperatură constantă de circa 16 grade", "Utilizată pentru terapii respiratorii"],
+      en: ["One of the largest mines in Europe", "Tourist level at 120 meters depth", "Salt deposit reaches 2.7 km deep", "Features an underground chapel", "Constant temperature of around 16°C", "Used for treating respiratory diseases"],
+    },
   },
   {
     id: "landmark-salina-slanic", type: "landmark", parent: "RO-PH", coords: [25.94, 45.24],
@@ -3135,6 +4851,19 @@ export const romaniaLandmarks: POI[] = [
     description: { de: "Historisches Salzbergwerk mit riesigen Hallen.", hu: "Történelmi sóbánya hatalmas termekkel.", ro: "Salină istorică cu săli mari.", en: "Historic salt mine with huge halls." },
     facts: { de: ["Unirea-Halle: 53.000 m³.", "Kurbetrieb.", "Populäres Ausflugsziel."], hu: ["Unirea-terem: 53 000 m³.", "Gyógyászati központ.", "Népszerű kirándulóhely."], ro: ["Sala Unirii: 53.000 m³.", "Sanatoriu subteran.", "Obiectiv turistic popular."], en: ["Union Hall: 53,000 m³.", "Underground sanatorium.", "Popular attraction."] },
     image: "/geo-images/romania/landmark-salina-slanic.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Salzbergwerk Slănic Prahova beherbergt mit der Unirea-Mine eine der größten künstlichen Salzkavernen Europas. Die Mine liegt etwa 208 Meter unter der Erde und besteht aus 14 trapezförmigen Hallen. Das Volumen der ausgehobenen Kammern beträgt fast drei Millionen Kubikmeter. Aufgrund der reinen Luft und des konstanten Klimas wird die Mine intensiv für medizinische Zwecke genutzt.",
+      hu: "A Slănic Prahova sóbánya Unirea-szintje Európa egyik legnagyobb mesterségesen kialakított sókamrája. A bánya 208 méterrel a földfelszín alatt található, és 14 hatalmas, trapéz alakú teremből áll. A kitermelt üregek össztérfogata eléri a közel hárommillió köbmétert. A rendkívül tiszta levegő és az állandó klíma miatt a bányát széles körben alkalmazzák gyógyászati célokra.",
+      ro: "Salina Slănic Prahova găzduiește mina Unirea, considerată una dintre cele mai mari cavități de sare din Europa. Situată la o adâncime de 208 metri, mina este formată din 14 săli cu profil trapezoidal. Volumul total de sare excavată depășește 2,9 milioane de metri cubi. Datorită purității aerului și climatului constant, salina este utilizată intens pentru tratamente medicale și relaxare.",
+      en: "Slănic Prahova Salt Mine is home to the Unirea Mine, one of the largest salt excavations in Europe. Located at a depth of 208 meters, the mine consists of 14 massive trapezoidal halls. The total volume of the chambers is approximately 2.9 million cubic meters. Known for its exceptionally pure air and stable microclimate, the site is frequently used for medical treatments and respiratory rehabilitation.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich 208 Meter unter Tage", "Besteht aus 14 großen Hallen", "Volumen von 2,9 Millionen Kubikmetern", "Kammern sind 54 Meter hoch", "Konstante Temperatur von 12 Grad", "Größte Salzmine ihrer Art in Europa"],
+      hu: ["208 méter mélyen található", "14 hatalmas teremből áll", "2,9 millió köbméteres térfogat", "A termek magassága 54 méter", "Állandó 12 fokos hőmérséklet", "Európa legnagyobb ilyen típusú bányája"],
+      ro: ["Adâncime maximă de 208 metri", "Formată din 14 săli trapezoidale", "Volum de 2,9 milioane metri cubi", "Înălțimea sălilor este de 54 metri", "Temperatură constantă de 12 grade", "Cea mai mare mină de acest tip din Europa"],
+      en: ["Located at a depth of 208 meters", "Consists of 14 massive halls", "Volume of 2.9 million cubic meters", "Chamber height reaches 54 meters", "Constant temperature of 12°C", "Largest salt mine of its kind in Europe"],
+    },
   },
   {
     id: "landmark-mud-volcanoes", type: "kid-landmark", parent: "RO-BZ", coords: [26.715, 45.35],
@@ -3142,6 +4871,19 @@ export const romaniaLandmarks: POI[] = [
     description: { de: "Seltene Naturerscheinung: kalte Vulkane aus Schlamm.", hu: "Ritka természeti jelenség: hideg iszapvulkánok.", ro: "Fenomen natural rar: vulcani reci cu noroi.", en: "Rare natural phenomenon: cold mud volcanoes." },
     facts: { de: ["Gas drückt Schlamm an die Oberfläche.", "Naturreservat.", "Mondlandschaft."], hu: ["A gáz nyomja fel az iszapot.", "Természetvédelmi terület.", "Holdbéli táj."], ro: ["Gazele împing noroiul la suprafață.", "Rezervație naturală.", "Peisaj selenar."], en: ["Gas pushes mud to the surface.", "Nature reserve.", "Lunar landscape."] },
     image: "/geo-images/romania/landmark-mud-volcanoes.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Schlammvulkane von Berca im Kreis Buzău sind ein seltenes geologisches Phänomen in Europa. Gase aus über 3000 Metern Tiefe drücken Schlamm und Wasser an die Oberfläche, wo sie kegelförmige Strukturen bilden. Das Reservat umfasst zwei Hauptgebiete, Pâclele Mari und Pâclele Mici. Die karge, salzhaltige Landschaft erinnert an eine Mondoberfläche und beherbergt spezialisierte Pflanzen.",
+      hu: "A Bodzavásár melletti berca-i iszapvulkánok ritka geológiai jelenséget képviselnek Európában. A több mint 3000 méter mélyről feltörő gázok sarat és vizet hoznak a felszínre, ahol kúp alakú képződményeket hoznak létre. A természetvédelmi terület két fő részből, a Nagy- és Kis-Pâclele területéből áll. A sós talajú, holdbéli táj különleges növényvilágnak ad otthont.",
+      ro: "Vulcanii Noroioși de la Berca, județul Buzău, reprezintă un fenomen geologic rar întâlnit în Europa. Gazele naturale care țâșnesc de la peste 3000 de metri adâncime antrenează noroi și apă spre suprafață, formând structuri conice. Rezervația este împărțită în două zone principale: Pâclele Mari și Pâclele Mici. Peisajul arid, asemănător celui lunar, este cauzat de salinitatea ridicată a solului.",
+      en: "The Mud Volcanoes of Berca, located in Buzău County, are a rare geological phenomenon in Europe. Natural gases rising from over 3,000 meters deep push cold mud and water to the surface, creating distinct conical structures. The reserve is divided into two main areas, Pâclele Mari and Pâclele Mici. The resulting landscape is barren and crater-like, supporting unique salt-tolerant vegetation.",
+    },
+    factsAdvanced: {
+      de: ["Gase steigen aus 3000 m Tiefe auf", "Unterteilt in Pâclele Mari und Mici", "Schlamm tritt kalt an die Oberfläche", "Naturschutzgebiet seit dem Jahr 1924", "Sehr hoher Salzgehalt im Boden", "Beherbergt die Pflanze Nitraria schoberi"],
+      hu: ["3000 méter mélyről törnek fel a gázok", "Nagy- és Kis-Pâclele területekre oszlik", "Az iszap hidegen tör a felszínre", "1924 óta természetvédelmi terület", "Nagyon magas a talaj sótartalma", "Itt él a ritka Nitraria schoberi növény"],
+      ro: ["Gaze provenite de la 3000 m adâncime", "Divizați în Pâclele Mari și Mici", "Noroiul este rece la ieșirea la suprafață", "Rezervație naturală din anul 1924", "Salinitate extrem de ridicată a solului", "Adăpostește planta Nitraria schoberi"],
+      en: ["Gases rise from 3,000 meters deep", "Divided into Pâclele Mari and Mici", "Mud is cold when reaching the surface", "Protected area since the year 1924", "Extremely high soil salinity levels", "Home to the rare Nitraria schoberi plant"],
+    },
   },
   {
     id: "landmark-sphinx-bucegi", type: "kid-landmark", parent: "RO-DB", coords: [25.467, 45.395],
@@ -3150,6 +4892,19 @@ export const romaniaLandmarks: POI[] = [
     facts: { de: ["Nahe den Babele-Felsen.", "Durch Wind erodiert.", "Mit Seilbahn erreichbar."], hu: ["A Babele sziklák közelében.", "Szél formálta.", "Libegővel elérhető."], ro: ["Lângă Babele.", "Eroziune eoliană.", "Acces cu telecabina."], en: ["Near the Babele rocks.", "Shaped by wind.", "Accessible by cable car."] },
     elevation: 2216,
     image: "/geo-images/romania/landmark-sphinx-bucegi.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Sphinx im Bucegi-Gebirge ist eine natürliche Felsformation auf einer Höhe von 2216 Metern. Die Gestalt ähnelt aus einem bestimmten Blickwinkel dem ägyptischen Sphinx und wurde durch Wind- und Regenerosion geformt. Die Formation ist 8 Meter hoch und 12 Meter breit. Sie befindet sich auf dem Plateau des Gebirges, unweit der ebenfalls bekannten \"Babele\"-Felsformationen.",
+      hu: "A bucegi-i Szfinx egy természetes sziklaképződmény a Bucsecs-hegységben, 2216 méteres magasságban. Egy bizonyos szögből nézve az alakzat az egyiptomi Szfinxre hasonlít, formáját a szél és az eső eróziója alakította ki. A képződmény 8 méter magas és 12 méter széles. A hegység fennsíkján található, nem messze a szintén híres Babele-szikláktól.",
+      ro: "Sfinxul din Munții Bucegi este o formațiune stâncoasă naturală situată la altitudinea de 2216 metri. Privit dintr-un anumit unghi, acesta seamănă cu sfinxul egiptean, fiind modelat de eroziunea vântului și a ploilor de-a lungul timpului. Monumentul are o înălțime de 8 metri și o lățime de 12 metri. Se află pe platoul munților, în apropierea formațiunilor stâncoase numite Babele.",
+      en: "The Bucegi Sphinx is a natural rock formation situated at an altitude of 2216 meters in the Bucegi Mountains. Shaped by wind and rain erosion over centuries, it resembles the Great Sphinx of Giza when viewed from a specific angle. The formation stands 8 meters tall and 12 meters wide. It is located on the mountain plateau, close to the famous Babele rock formations.",
+    },
+    factsAdvanced: {
+      de: ["Liegt auf 2216 Metern Höhe", "Etwa 8 Meter hohe Formation", "Etwa 12 Meter breite Formation", "Entstanden durch natürliche Erosion", "Teil des Naturparks Bucegi", "Nahe der Felsgruppe Babele gelegen"],
+      hu: ["2216 méteres magasságban található", "Körülbelül 8 méter magas képződmény", "Körülbelül 12 méter széles képződmény", "Természetes erózió alakította ki", "A Bucsecs Natúrpark része", "A Babele-sziklák közelében van"],
+      ro: ["Situat la altitudinea de 2216 metri", "Înălțime de aproximativ 8 metri", "Lățime de aproximativ 12 metri", "Modelat prin eroziune eoliană", "Parte a Parcului Natural Bucegi", "Aproape de formațiunile Babele"],
+      en: ["Located at 2216 meters altitude", "Stands approximately 8 meters high", "Width of about 12 meters", "Formed through natural wind erosion", "Part of the Bucegi Natural Park", "Located near the Babele rock group"],
+    },
   },
   {
     id: "landmark-palace-parliament", type: "landmark", parent: "RO-B", coords: [26.0876, 44.4272],
@@ -3158,6 +4913,19 @@ export const romaniaLandmarks: POI[] = [
     facts: { de: ["Volumen 3,93 Mio. m³.", "Baubeginn 1984.", "1.100 Räume."], hu: ["Térfogata 3,93 millió m³.", "Építés kezdete: 1984.", "1100 helyiség."], ro: ["Volum 3,93 mil. m³.", "Început în 1984.", "1.100 de camere."], en: ["Volume 3.93 million m³.", "Construction began 1984.", "1,100 rooms."] },
     historyPeriod: "modern", historyYear: 1984,
     image: "/geo-images/romania/landmark-palace-parliament.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Parlamentspalast in Bukarest ist das zweitgrößte Verwaltungsgebäude der Welt nach dem Pentagon. Er wurde ab 1984 unter der Herrschaft von Nicolae Ceaușescu erbaut und erforderte den Abriss weiter Teile der historischen Altstadt. Das Gebäude verfügt über mehr als 1100 Räume und acht unterirdische Ebenen. Fast alle verwendeten Baumaterialien stammen ausschließlich aus rumänischer Produktion.",
+      hu: "A bukaresti Parlamenti Palota a világ második legnagyobb közigazgatási épülete a Pentagon után. Az építkezés 1984-ben kezdődött Nicolae Ceaușescu idején, ami miatt a város történelmi negyedeinek jelentős részét lebontották. Az épület több mint 1100 helyiséggel és nyolc földalatti szinttel rendelkezik. Szinte az összes felhasznált építőanyag romániai forrásból származik.",
+      ro: "Palatul Parlamentului din București este a doua cea mai mare clădire administrativă din lume, după Pentagon. Construcția a început în anul 1984, sub regimul lui Nicolae Ceaușescu, implicând demolarea unei părți semnificative din centrul istoric al orașului. Clădirea are peste 1100 de încăperi și opt niveluri subterane. Aproape toate materialele de construcție utilizate au fost de proveniență românească.",
+      en: "The Palace of the Parliament in Bucharest is the world's second-largest administrative building, surpassed only by the Pentagon. Construction began in 1984 during the rule of Nicolae Ceaușescu, requiring the demolition of large historic areas of the city. The structure contains over 1,100 rooms and reaches eight levels underground. Nearly all materials used for its construction were sourced from within Romania.",
+    },
+    factsAdvanced: {
+      de: ["Baubeginn im Jahr 1984", "Zweitgrößtes Verwaltungsgebäude weltweit", "Verfügt über 1100 verschiedene Räume", "Acht Ebenen befinden sich unter Tage", "Fläche von etwa 365.000 Quadratmetern", "Besteht aus 1 Million Kubikmeter Marmor"],
+      hu: ["Az építkezés 1984-ben kezdődött", "A világ 2. legnagyobb középülete", "1100 különböző helyiséggel rendelkezik", "Nyolc szintje van a föld alatt", "Alapterülete kb. 365 000 négyzetméter", "1 millió köbméter márványt használtak"],
+      ro: ["Construcția a început în anul 1984", "A doua cea mai mare clădire din lume", "Include 1100 de încăperi", "Are opt niveluri în subteran", "Suprafață de circa 365.000 mp", "Folosește 1 milion de metri cubi de marmură"],
+      en: ["Construction started in the year 1984", "World's second largest administrative site", "Contains 1,100 individual rooms", "Features eight underground levels", "Area of about 365,000 square meters", "Built using 1 million cubic meters of marble"],
+    },
   },
   {
     id: "landmark-merry-cemetery", type: "kid-landmark", parent: "RO-MM", coords: [23.692, 47.973],
@@ -3166,6 +4934,19 @@ export const romaniaLandmarks: POI[] = [
     facts: { de: ["Begründet 1935 von Stan Ioan Pătraș.", "Über 800 bemalte Kreuze.", "Einzigartig in Europa."], hu: ["1935-ben Stan Ioan Pătraș alapította.", "Több mint 800 festett kereszt.", "Európában egyedülálló."], ro: ["Început în 1935 de Stan Ioan Pătraș.", "Peste 800 de cruci pictate.", "Unic în Europa."], en: ["Started in 1935 by Stan Ioan Pătraș.", "Over 800 painted crosses.", "Unique in Europe."] },
     historyPeriod: "modern", historyYear: 1935,
     image: "/geo-images/romania/landmark-merry-cemetery.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Lustige Friedhof von Săpânța im Kreis Maramureș ist berühmt für seine farbenfrohen Holzkreuze. Der Künstler Stan Ioan Pătraș begann 1935 mit der Gestaltung der Gräber, die durch naive Malereien und humorvolle Gedichte das Leben der Verstorbenen darstellen. Die Kreuze sind im charakteristischen \"Săpânța-Blau\" gehalten. Der Friedhof gilt als ein einzigartiges kulturelles Denkmal, das den Tod mit Ironie betrachtet.",
+      hu: "A máramarosi Szaploncán található Vidám Temető a színes, festett fejfáiról vált világhírűvé. Stan Ioan Pătraș népművész 1935-ben kezdte el készíteni a faragott fakereszteket, amelyeken naiv festmények és humoros versek mutatják be az elhunytak életét. A kereszteket a jellegzetes \"szaploncai kék\" szín dominálja. A temető különleges kulturális emlékhely, amely iróniával közelíti meg a halált.",
+      ro: "Cimitirul Vesel din Săpânța, județul Maramureș, este faimos pentru crucile sale din lemn pictate în culori vii. Artistul popular Stan Ioan Pătraș a început în 1935 să creeze aceste monumente, care redau viața decedaților prin picturi naive și epitafuri umoristice. Culoarea dominantă este \"albastrul de Săpânța\". Cimitirul este considerat un monument cultural inedit care abordează moartea cu ironie.",
+      en: "The Merry Cemetery of Săpânța in Maramureș County is famous for its vibrantly colored wooden crosses. Folk artist Stan Ioan Pătraș began creating these unique grave markers in 1935, featuring naive paintings and humorous poems about the lives of the deceased. The crosses are painted in a specific shade known as \"Săpânța blue\". The site is a cultural monument that offers a satirical perspective on death.",
+    },
+    factsAdvanced: {
+      de: ["Gründung durch Stan Ioan Pătraș", "Erste bemalte Kreuze ab 1935", "Über 800 handgefertigte Holzkreuze", "Dominante Farbe ist \"Săpânța-Blau\"", "Gedichte in Ich-Form verfasst", "Befindet sich im Norden von Maramureș"],
+      hu: ["Stan Ioan Pătraș alapította", "1935-ben készültek az első keresztek", "Több mint 800 faragott fejfa van itt", "A \"szaploncai kék\" az alapszín", "Epitáfiumok egyes szám első személyben", "Máramaros megye északi részén fekszik"],
+      ro: ["Creat de artistul Stan Ioan Pătraș", "Primele cruci pictate apar în 1935", "Peste 800 de cruci din lemn sculptat", "Culoarea reprezentativă: albastru de Săpânța", "Epitaful este scris la persoana întâi", "Situat în nordul județului Maramureș"],
+      en: ["Founded by artist Stan Ioan Pătraș", "First painted crosses date to 1935", "Over 800 hand-carved wooden crosses", "Dominant color is \"Săpânța blue\"", "Epitaphs are written in the first person", "Located in northern Maramureș county"],
+    },
   },
   {
     id: "landmark-ateneul-roman", type: "landmark", parent: "RO-B", coords: [26.0971, 44.4415],
@@ -3174,6 +4955,19 @@ export const romaniaLandmarks: POI[] = [
     facts: { de: ["Eröffnet 1888.", "Sitz der Georg-Enescu-Philharmonie.", "Kuppelgemälde mit rumänischer Geschichte."], hu: ["1888-ban nyílt meg.", "A George Enescu Filharmónia székhelye.", "Kupolafreskó a román történelemről."], ro: ["Inaugurat 1888.", "Sediul Filarmonicii G. Enescu.", "Frescă istorică pe cupolă."], en: ["Opened 1888.", "Home of G. Enescu Philharmonic.", "Dome fresco depicting Romanian history."] },
     historyPeriod: "empire", historyYear: 1888,
     image: "/geo-images/romania/landmark-ateneul-roman.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Rumänische Athenäum ist ein bedeutendes Konzerthaus in Bukarest und ein Wahrzeichen der rumänischen Kultur. Das 1888 eröffnete Gebäude wurde vom französischen Architekten Albert Galleron im neoklassizistischen Stil entworfen. Die Finanzierung erfolgte zum großen Teil durch eine landesweite öffentliche Spendenaktion. Der große Konzertsaal ist für seine hervorragende Akustik und das monumentale Rundfresko bekannt.",
+      hu: "A Román Athéneum Bukarest legfontosabb koncertterme és a román kultúra egyik kiemelkedő szimbóluma. Az 1888-ban megnyitott neoklasszicista épületet Albert Galleron francia építész tervezte. Az építkezés költségeit nagyrészt közadakozásból fedezték a híres \"Adjatok egy lejt az Athéneumnak\" jelszóval. A koncertterem híres a kiváló akusztikájáról és a monumentális freskójáról.",
+      ro: "Ateneul Român este o sală de concerte din București, reprezentând un simbol al culturii românești. Inaugurată în anul 1888, clădirea a fost proiectată de arhitectul francez Albert Galleron în stil neoclasic. Finanțarea construcției a fost realizată în mare parte prin subscripție publică, sub sloganul \"Dați un leu pentru Ateneu\". Sala de concerte este renumită pentru acustica sa și fresca monumentală.",
+      en: "The Romanian Athenaeum is a landmark concert hall in Bucharest and a central symbol of Romanian culture. Opened in 1888, the neoclassical building was designed by French architect Albert Galleron. Much of its funding was raised through a national public subscription campaign. The main auditorium is celebrated for its exceptional acoustics and a large circular fresco depicting scenes from Romanian history.",
+    },
+    factsAdvanced: {
+      de: ["Inauguration im Jahr 1888", "Entwurf von Architekt Albert Galleron", "Finanziert durch öffentliche Spenden", "Sitz der Philharmonie George Enescu", "Fresko mit 25 historischen Szenen", "Saal bietet Platz für 800 Gäste"],
+      hu: ["1888-ban adták át", "Albert Galleron építész tervezte", "Közadakozásból épült fel", "A George Enescu Filharmónia székháza", "A freskó 25 történelmi jelenetet ábrázol", "A nézőtér 800 fő befogadására alkalmas"],
+      ro: ["Inaugurat în anul 1888", "Proiectat de arhitectul Albert Galleron", "Finanțat prin subscripție publică", "Sediul Filarmonicii George Enescu", "Frescă cu 25 de episoade istorice", "Capacitate de aproximativ 800 de locuri"],
+      en: ["Opened in the year 1888", "Designed by architect Albert Galleron", "Funded through public subscription", "Home of the George Enescu Philharmonic", "Fresco depicts 25 historical scenes", "Auditorium has about 800 seats"],
+    },
   },
 ];
 
@@ -3190,70 +4984,200 @@ export const romaniaCulture: POI[] = [
     name: { ro: "Teatrul Național București", en: "National Theatre Bucharest", hu: "Bukaresti Nemzeti Színház", de: "Nationaltheater Bukarest" },
     description: { ro: "Cel mai mare teatru din România.", en: "The largest theatre in Romania.", hu: "Románia legnagyobb színháza.", de: "Das größte Theater in Rumänien." },
     facts: { ro: ["Clădirea actuală a fost refăcută recent."], en: ["Current building was recently renovated."], hu: ["A jelenlegi épületet nemrég újították fel."], de: ["Das aktuelle Gebäude wurde kürzlich renoviert."] },
-    image: "/geo-images/romania/cultura-teatrul-national.webp"
+    image: "/geo-images/romania/cultura-teatrul-national.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Nationaltheater \"I.L. Caragiale\" in Bukarest ist eine der führenden Kulturinstitutionen Rumäniens. Das ursprüngliche Gebäude wurde im Zweiten Weltkrieg zerstört, woraufhin 1973 das heutige Gebäude am Universitätsplatz eingeweiht wurde. Zwischen 2010 und 2015 erfolgte eine umfangreiche Modernisierung, die dem Bauwerk sein charakteristisches Aussehen zurückgab. Es beherbergt mehrere Säle für unterschiedliche Aufführungsformate.",
+      hu: "A bukaresti \"I.L. Caragiale\" Nemzeti Színház Románia egyik legfontosabb kulturális intézménye. Az eredeti színházépület a második világháborúban megsemmisült, a jelenlegi épületet 1973-ban adták át az Egyetem téren. 2010 és 2015 között egy nagyszabású felújítás során az épület visszakapta eredeti modernista formáját. A színházban több különböző méretű és funkciójú előadóterem található.",
+      ro: "Teatrul Național \"I.L. Caragiale\" din București este una dintre cele mai importante instituții de cultură din România. Actualul sediu din Piața Universității a fost inaugurat în 1973, după ce vechea clădire fusese distrusă în al Doilea Război Mondial. Între anii 2010 și 2015, clădirea a trecut printr-o reconstrucție majoră care i-a redat aspectul inițial. Instituția dispune de șapte săli de spectacol moderne.",
+      en: "The \"I.L. Caragiale\" National Theatre in Bucharest is one of the most prominent cultural institutions in Romania. The current building at University Square was inaugurated in 1973, replacing the original theatre destroyed during World War II. Between 2010 and 2015, the structure underwent a major renovation to restore its distinctive modern architectural features. It houses seven halls for various types of performances.",
+    },
+    factsAdvanced: {
+      de: ["Heutiger Bau 1973 eingeweiht", "Große Renovierung von 2010 bis 2015", "Benannt nach Ion Luca Caragiale", "Verfügt über 7 verschiedene Säle", "Befindet sich am Universitätsplatz", "Beherbergt ein Theatermuseum"],
+      hu: ["A mai épületet 1973-ban avatták fel", "A felújítás 2010 és 2015 között zajlott", "Ion Luca Caragiale nevét viseli", "7 különböző előadóteremmel rendelkezik", "Az Egyetem téren található", "Színházmúzeumnak is otthont ad"],
+      ro: ["Sediul actual inaugurat în 1973", "Modernizat între anii 2010 și 2015", "Poartă numele lui Ion Luca Caragiale", "Include 7 săli de spectacol", "Situat în Piața Universității", "Găzduiește un muzeu al teatrului"],
+      en: ["Current building opened in 1973", "Renovated between 2010 and 2015", "Named after writer Ion Luca Caragiale", "Features 7 performance halls", "Located in University Square", "Houses a museum of the theatre"],
+    },
   },
   {
     id: "cultura-muzeul-taranului", type: "landmark", parent: "RO-B", coords: [26.0836, 44.4544],
     name: { ro: "Muzeul Țăranului Român", en: "Museum of the Romanian Peasant", hu: "Román Parasztmúzeum", de: "Museum des rumänischen Bauern" },
     description: { ro: "Muzeu dedicat artei și tradițiilor populare.", en: "Museum dedicated to folk art and traditions.", hu: "Népművészetnek és hagyományoknak szentelt múzeum.", de: "Museum für Volkskunst und Traditionen." },
     facts: { ro: ["Clădire în stil neoromânesc."], en: ["Neo-Romanian style building."], hu: ["Neoromán stílusú épület."], de: ["Gebäude im neo-rumänischen Stil."] },
-    image: "/geo-images/romania/museum-of-the-romanian-peasant.webp"
+    image: "/geo-images/romania/museum-of-the-romanian-peasant.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Museum des rumänischen Bauern in Bukarest widmet sich der Erhaltung der ländlichen Kultur und Traditionen. Gegründet wurde es ursprünglich im Jahr 1906, während das heutige neorumänische Gebäude erst 1941 fertiggestellt wurde. Die Sammlung umfasst über 90.000 Exponate, darunter Trachten, Keramik und eine Holzkirche. 1996 wurde die Institution als europäisches Museum des Jahres ausgezeichnet.",
+      hu: "A bukaresti Román Parasztmúzeum a vidéki kultúra és népi hagyományok megőrzésére szakosodott intézmény. Eredetileg 1906-ban alapították, a jelenlegi neoromán stílusú épület pedig 1941-re készült el. A múzeum gyűjteménye több mint 90 000 tárgyat, köztük népviseleteket, kerámiákat és egy fatemplomot is tartalmaz. 1996-ban elnyerte az év európai múzeuma címet.",
+      ro: "Muzeul Național al Țăranului Român din București este dedicat conservării culturii și tradițiilor rurale. Fondat inițial în 1906, sediul actual în stil neoromânesc a fost finalizat în anul 1941. Colecția sa cuprinde peste 90.000 de obiecte, de la port popular și ceramică până la o biserică de lemn. În anul 1996, instituția a primit titlul de Muzeul European al Anului.",
+      en: "The Museum of the Romanian Peasant in Bucharest is dedicated to preserving rural culture and folk traditions. Originally established in 1906, its current Neo-Romanian style building was completed in 1941. The collection includes over 90,000 items such as traditional costumes, ceramics, and even a wooden church. In 1996, it was awarded the title of European Museum of the Year.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1906", "Gebäude 1941 fertiggestellt", "Sammlung von 90.000 Objekten", "Europäisches Museum des Jahres 1996", "Baustil ist der Neorumänismus", "Befindet sich an der Kiseleff-Straße"],
+      hu: ["1906-ban alapították", "Az épület 1941-ben készült el", "90 000 kiállítási tárgyat őriz", "Az Év Európai Múzeuma 1996-ban", "Neoromán építészeti stílus", "A Kiseleff sugárúton található"],
+      ro: ["Fondat în anul 1906", "Clădire finalizată în anul 1941", "Colecție de peste 90.000 de obiecte", "Muzeul European al Anului în 1996", "Stil arhitectural neoromânesc", "Situat pe Șoseaua Kiseleff"],
+      en: ["Established in the year 1906", "Building completed in 1941", "Collection of over 90,000 objects", "European Museum of the Year in 1996", "Neo-Romanian architectural style", "Located on Kiseleff Road"],
+    },
   },
   {
     id: "cultura-opera-cluj", type: "landmark", parent: "RO-CJ", coords: [23.5969, 46.7704],
     name: { ro: "Opera Națională Română Cluj-Napoca", en: "Romanian National Opera, Cluj-Napoca", hu: "Kolozsvári Román Nemzeti Opera", de: "Rumänische Nationaloper Cluj-Napoca" },
     description: { ro: "Prima instituție lirică a țării.", en: "The country's first lyrical institution.", hu: "Az ország első lírai intézménye.", de: "Die erste lyrische Einrichtung des Landes." },
     facts: { ro: ["Inaugurată în 1919."], en: ["Inaugurated in 1919."], hu: ["1919-ben nyílt meg."], de: ["1919 eingeweiht."] },
-    image: "/geo-images/romania/cultura-opera-cluj.webp"
+    image: "/geo-images/romania/cultura-opera-cluj.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Rumänische Nationaloper in Cluj-Napoca ist die erste lyrische Institution des Landes und wurde 1919 gegründet. Sie teilt sich ein prachtvolles neobarockes Gebäude mit dem Nationaltheater \"Lucian Blaga\", das Anfang des 20. Jahrhunderts von Fellner & Helmer erbaut wurde. Die Eröffnungsvorstellung war Verdis \"Aida\" im Mai 1920. Die Oper ist ein zentraler Pfeiler des kulturellen Lebens in Siebenbürgen.",
+      hu: "A Kolozsvári Román Nemzeti Opera az ország első lírai intézménye, amelyet 1919-ben alapítottak. Az épületen a \"Lucian Blaga\" Nemzeti Színházzal osztozik, amelyet a Fellner és Helmer cég tervezett neobarokk stílusban. Az első előadás Verdi Aidája volt 1920 májusában. Az intézmény Erdély kulturális életének egyik legfontosabb központja, amely számos hazai és nemzetközi produkciónak ad otthont.",
+      ro: "Opera Națională Română din Cluj-Napoca este prima instituție lirică a țării, fiind înființată în anul 1919. Aceasta împarte o clădire neobarocă monumentală cu Teatrul Național \"Lucian Blaga\", edificiu construit de firma Fellner & Helmer. Spectacolul inaugural a fost opera \"Aida\" de Verdi, pusă în scenă în mai 1920. Opera reprezintă un pilon central al vieții culturale din Transilvania.",
+      en: "The Romanian National Opera in Cluj-Napoca is the first lyric institution in the country, established in 1919. It shares a grand Neo-Baroque building with the \"Lucian Blaga\" National Theatre, designed by the famous Fellner & Helmer firm. The inaugural performance was Verdi's \"Aida\" in May 1920. The opera remains a central pillar of cultural life in Transylvania, hosting numerous major productions.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1919", "Eröffnung mit \"Aida\" 1920", "Architekten: Fellner & Helmer", "Bauzeit von 1904 bis 1906", "Saal bietet 928 Sitzplätze", "Neobarocker Architekturstil"],
+      hu: ["1919-ben alapították", "Nyitóelőadás: Aida (1920-ban)", "Tervezők: Fellner és Helmer", "1904 és 1906 között épült", "A nézőtér 928 férőhelyes", "Neobarokk építészeti stílus"],
+      ro: ["Înființată în anul 1919", "Spectacol inaugural: Aida în 1920", "Proiectată de Fellner & Helmer", "Construită între 1904 și 1906", "Capacitate de 928 de locuri", "Stil arhitectural neobaroc"],
+      en: ["Established in the year 1919", "First performance: Aida in 1920", "Architects: Fellner & Helmer", "Built between 1904 and 1906", "Capacity of 928 seats", "Neo-Baroque architectural style"],
+    },
   },
   {
     id: "cultura-festivalul-enab", type: "landmark", parent: "RO-SB", coords: [24.15, 45.8],
     name: { ro: "FITS - Festivalul Internațional de Teatru de la Sibiu", en: "Sibiu International Theatre Festival", hu: "Nagyszebeni Nemzetközi Színházi Fesztivál", de: "Internationales Theaterfestival Sibiu" },
     description: { ro: "Unul dintre cele mai mari festivaluri de teatru din lume.", en: "One of the largest theatre festivals in the world.", hu: "A világ egyik legnagyobb színházi fesztiválja.", de: "Eines der größten Theaterfestivals der Welt." },
     facts: { ro: ["Are loc anual în Sibiu."], en: ["Takes place annually in Sibiu."], hu: ["Évente kerül megrendezésre Nagyszebenben."], de: ["Findet jährlich in Sibiu statt."] },
-    image: "/geo-images/romania/sibiu-international-theatre-festival.webp"
+    image: "/geo-images/romania/sibiu-international-theatre-festival.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Sibiu International Theatre Festival ist eines der bedeutendsten darstellenden Kunstereignisse weltweit. Es wurde 1993 von Constantin Chiriac gegründet und findet jährlich im Juni statt. Die Stadt Sibiu verwandelt sich dabei in eine riesige Bühne mit Hunderten von Aufführungen im Freien und in Konzertsälen, die Tausende von internationalen Besuchern anziehen.",
+      hu: "A Nagyszebeni Nemzetközi Színházi Fesztivál a világ egyik legfontosabb előadóművészeti eseménye. 1993-ban alapította Constantin Chiriac, és minden év júniusában rendezik meg. A fesztivál alatt Nagyszeben utcái és terei hatalmas szabadtéri színpaddá alakulnak, több száz hazai és nemzetközi társulat részvételével, vonzva a világ minden tájáról érkező látogatókat.",
+      ro: "Festivalul Internațional de Teatru de la Sibiu este cel mai important eveniment dedicat artelor spectacolului din România și unul dintre cele mai mari din lume. Fondat în 1993 de Constantin Chiriac, festivalul are loc anual în luna iunie. Programul include sute de evenimente, de la teatru și dans la concerte și conferințe, desfășurate în spații convenționale și neconvenționale.",
+      en: "The Sibiu International Theatre Festival is one of the world's most prestigious performing arts events. Founded in 1993 by Constantin Chiriac, it takes place annually in June in the city of Sibiu. The festival features hundreds of events, including theater plays, dance performances, and street art, attracting thousands of international artists and spectators.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1993", "Findet jährlich im Juni statt", "Dauert insgesamt 10 Tage", "Über 500 Veranstaltungen pro Edition", "Drittgrößtes Theaterfestival in Europa", "Teilnehmer aus über 70 Ländern"],
+      hu: ["1993-ban alapították", "Minden év júniusában rendezik meg", "Az eseménysorozat 10 napig tart", "Több mint 500 esemény kiadásonként", "Európa harmadik legnagyobb színházi fesztiválja", "Több mint 70 országból érkeznek fellépők"],
+      ro: ["Fondat în anul 1993", "Are loc anual în luna iunie", "Durata festivalului este de 10 zile", "Peste 500 de evenimente per ediție", "Al treilea cel mai mare festival de teatru din Europa", "Participanți din peste 70 de țări"],
+      en: ["Founded in 1993", "Held annually in June", "Duration of 10 days", "Over 500 events per edition", "Third largest theater festival in Europe", "Participants from over 70 countries"],
+    },
   },
   {
     id: "cultura-muzeul-brukenthal", type: "landmark", parent: "RO-SB", coords: [24.151, 45.796],
     name: { ro: "Muzeul Național Brukenthal", en: "Brukenthal National Museum", hu: "Brukenthal Nemzeti Múzeum", de: "Brukenthal-Nationalmuseum" },
     description: { ro: "Cel mai vechi muzeu din România.", en: "The oldest museum in Romania.", hu: "Románia legrégebbi múzeuma.", de: "Das älteste Museum in Rumänien." },
     facts: { ro: ["Fondat de Samuel von Brukenthal."], en: ["Founded by Samuel von Brukenthal."], hu: ["Samuel von Brukenthal alapította."], de: ["Gegründet von Samuel von Brukenthal."] },
-    image: "/geo-images/romania/cultura-muzeul-brukenthal.webp"
+    image: "/geo-images/romania/cultura-muzeul-brukenthal.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Brukenthal-Nationalmuseum in Sibiu wurde 1817 eröffnet und ist das älteste Museum Rumäniens. Es befindet sich im Barockpalast des ehemaligen Gouverneurs von Siebenbürgen, Samuel von Brukenthal. Die Sammlung umfasst wertvolle europäische Gemälde, Grafiken und eine bedeutende Bibliothek mit seltenen Manuskripten aus verschiedenen Jahrhunderten.",
+      hu: "A nagyszebeni Brukenthal Nemzeti Múzeum Románia legrégebbi múzeuma, amelyet 1817-ben nyitottak meg a nagyközönség előtt. A gyűjtemény Samuel von Brukenthal erdélyi kormányzó barokk palotájában kapott helyet. A múzeum kiemelkedő európai festészeti gyűjteménnyel, grafikákkal és egy ritka könyveket őrző könyvtárral rendelkezik.",
+      ro: "Muzeul Național Brukenthal din Sibiu a fost deschis oficial în 1817, fiind cel mai vechi muzeu de pe teritoriul României. Este găzduit în palatul baroc al fostului guvernator al Transilvaniei, Samuel von Brukenthal. Instituția adăpostește colecții valoroase de artă europeană, o bibliotecă impresionantă și numeroase stampe și desene vechi.",
+      en: "The Brukenthal National Museum in Sibiu opened its doors in 1817, making it the oldest museum in present-day Romania. It is located in the Baroque palace of Samuel von Brukenthal, a former governor of Transylvania. The museum houses exceptional collections of European paintings, a vast library, and significant graphic art holdings from various eras.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung am 25. Februar 1817", "Erbaut zwischen 1777 und 1787", "Sammlung von Samuel von Brukenthal", "Über 1.200 Gemälde der europäischen Schule", "Bibliothek mit ca. 300.000 Bänden", "Älteste öffentliche Institution dieser Art in Südosteuropa"],
+      hu: ["1817. február 25-én nyílt meg", "1777 és 1787 között épült a palota", "Samuel von Brukenthal magángyűjteménye", "Több mint 1200 európai festmény", "Könyvtára kb. 300 000 kötetet számlál", "Délkelet-Európa legrégebbi ilyen jellegű intézménye"],
+      ro: ["Deschis la 25 februarie 1817", "Palatul construit între 1777 și 1787", "Bazat pe colecția lui Samuel von Brukenthal", "Peste 1.200 de picturi din școala europeană", "Biblioteca deține circa 300.000 de volume", "Cea mai veche instituție muzeală din sud-estul Europei"],
+      en: ["Opened on February 25, 1817", "Palace built between 1777 and 1787", "Based on Samuel von Brukenthal's collection", "Over 1,200 European school paintings", "Library holds about 300,000 volumes", "Oldest museum institution in Southeast Europe"],
+    },
   },
   {
     id: "cultura-palatul-culturii", type: "landmark", parent: "RO-IS", coords: [27.585, 47.157],
     name: { ro: "Palatul Culturii Iași", en: "Palace of Culture Iași", hu: "Jászvásári Kultúrpalota", de: "Kulturpalast Iași" },
     description: { ro: "Edificiu emblematic în stil neogotic.", en: "Iconic neo-Gothic building.", hu: "Emblematikus neogótikus épület.", de: "Ikonisches neugotisches Gebäude." },
     facts: { ro: ["Găzduiește patru muzee mari."], en: ["Houses four major museums."], hu: ["Négy nagy múzeumnak ad otthont."], de: ["Beherbergt vier große Museen."] },
-    image: "/geo-images/romania/cultura-palatul-culturii.webp"
+    image: "/geo-images/romania/cultura-palatul-culturii.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Kulturpalast in Iași ist ein herausragendes Beispiel neugotischer Architektur in Rumänien. Das zwischen 1906 und 1925 errichtete Gebäude steht an der Stelle des ehemaligen mittelalterlichen Fürstenhofs der Moldau. Heute beherbergt der Palast vier bedeutende Museen und einen beeindruckenden Uhrturm mit einem Glockenspiel, das stündlich eine historische Melodie spielt.",
+      hu: "A jászvásári Kultúrpalota a neogótikus építészet egyik legimpozánsabb romániai példája. Az 1906 és 1925 között épült épület az egykori moldvai fejedelmi udvar helyén áll. Napjainkban négy jelentős múzeumnak ad otthont, 55 méter magas óratornya pedig különleges harangjátékkal büszkélkedhet, amely óránként csendül fel.",
+      ro: "Palatul Culturii din Iași este o clădire emblematică a stilului neogotic în România, construită între anii 1906 și 1925. Monumentul este situat pe locul fostei Curți Domnești medievale a Moldovei. În prezent, edificiul găzduiește patru muzee naționale și este celebru pentru turnul cu ceas dotat cu un carillon de opt clopote.",
+      en: "The Palace of Culture in Iași is a landmark of Neo-Gothic architecture in Romania, constructed between 1906 and 1925. It stands on the site of the former medieval Princely Court of Moldavia. Today, the palace houses four national museums and features a distinctive 55-meter clock tower equipped with an 8-bell carillon.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit von 1906 bis 1925", "Entworfen vom Architekten I.D. Berindey", "Verfügt über insgesamt 298 Zimmer", "Fläche von ca. 35.000 Quadratmetern", "Uhrturm ist 55 Meter hoch", "Beherbergt vier nationale Museen"],
+      hu: ["1906 és 1925 között épült", "I.D. Berindey építész tervezte", "Összesen 298 teremmel rendelkezik", "Alapterülete kb. 35 000 négyzetméter", "Az óratorony 55 méter magas", "Négy országos múzeumnak ad otthont"],
+      ro: ["Construit între anii 1906 și 1925", "Arhitect principal: I.D. Berindey", "Are un număr de 298 de încăperi", "Suprafață desfășurată de 35.000 mp", "Turnul cu ceas are 55 de metri înălțime", "Adăpostește patru muzee naționale"],
+      en: ["Built between 1906 and 1925", "Designed by architect I.D. Berindey", "Contains a total of 298 rooms", "Total floor area of 35,000 square meters", "The clock tower is 55 meters high", "Houses four national museums"],
+    },
   },
   {
     id: "cultura-untold", type: "landmark", parent: "RO-CJ", coords: [23.572, 46.768],
     name: { ro: "UNTOLD Festival", en: "UNTOLD Festival", hu: "UNTOLD Fesztivál", de: "UNTOLD Festival" },
     description: { ro: "Cel mai mare festival de muzică din România.", en: "The largest music festival in Romania.", hu: "Románia legnagyobb zenei fesztiválja.", de: "Das größte Musikfestival in Rumänien." },
     facts: { ro: ["Atrage sute de mii de participanți anual."], en: ["Attracts hundreds of thousands of attendees annually."], hu: ["Évente több százezer résztvevőt vonz."], de: ["Zieht jährlich Hunderttausende von Besuchern an."] },
-    image: "/geo-images/romania/cultura-untold.webp"
+    image: "/geo-images/romania/cultura-untold.webp",
+  
+    descriptionAdvanced: {
+      de: "Das UNTOLD Festival in Cluj-Napoca ist eines der größten elektronischen Musikfestivals in Europa. Seit seiner ersten Ausgabe im Jahr 2015 hat es sich zu einem globalen Phänomen entwickelt, das jährlich Hunderttausende von Besuchern anzieht. Das Festival findet im Zentralpark und in der Cluj Arena statt und bietet Auftritte der weltweit bekanntesten DJs.",
+      hu: "A kolozsvári UNTOLD Fesztivál Európa egyik legnagyobb elektronikus zenei eseménye. 2015-ös indulása óta globális jelenséggé vált, amely évente több százezer látogatót vonz. A fesztivál helyszíne a Sétatér és a Cluj Arena stadion, ahol a világ legismertebb DJ-i és előadói lépnek fel látványos színpadokon.",
+      ro: "Festivalul UNTOLD din Cluj-Napoca este unul dintre cele mai mari evenimente dedicate muzicii electronice din Europa. De la prima ediție în 2015, a devenit un fenomen global, atrăgând anual sute de mii de participanți. Festivalul se desfășoară în Parcul Central și pe Cluj Arena, prezentând cei mai importanți DJ ai lumii.",
+      en: "UNTOLD Festival in Cluj-Napoca is one of the largest electronic music festivals in Europe. Since its first edition in 2015, it has grown into a global phenomenon, attracting hundreds of thousands of attendees annually. The festival takes place in Central Park and Cluj Arena, featuring performances by world-renowned DJs and artists.",
+    },
+    factsAdvanced: {
+      de: ["Erste Ausgabe im Jahr 2015", "Ort: Cluj-Napoca, Rumänien", "Besucherrekord von über 370.000 Personen", "Gewinner des Best Major Festival Awards", "Dauert in der Regel 4 Tage", "Hauptbühne in der Cluj Arena"],
+      hu: ["Az első kiadás 2015-ben volt", "Helyszín: Kolozsvár, Románia", "Látogatói csúcs: több mint 370 000 fő", "Best Major Festival díj nyertese", "Általában 4 napig tart", "A nagyszínpad a Cluj Arenában található"],
+      ro: ["Prima ediție a avut loc în 2015", "Locație: Cluj-Napoca, România", "Record de participare: peste 370.000 persoane", "Câștigător al Best Major Festival Award", "Se desfășoară pe durata a 4 zile", "Scena principală este pe Cluj Arena"],
+      en: ["First edition held in 2015", "Location: Cluj-Napoca, Romania", "Attendance record of over 370,000 people", "Winner of Best Major Festival Award", "Typically lasts for 4 days", "Main stage located in Cluj Arena"],
+    },
   },
   {
     id: "cultura-saga-festival", type: "landmark", parent: "RO-B", coords: [26.08, 44.47],
     name: { ro: "SAGA Festival", en: "SAGA Festival", hu: "SAGA Fesztivál", de: "SAGA Festival" },
     description: { ro: "Festival de muzică electronică din București.", en: "Electronic music festival in Bucharest.", hu: "Elektronikus zenei fesztivál Bukarestben.", de: "Elektronisches Musikfestival in Bukarest." },
     facts: { ro: ["Se desfășoară în București."], en: ["Takes place in Bucharest."], hu: ["Bukarestben rendezik."], de: ["Findet in Bukarest statt."] },
-    image: "/geo-images/romania/cultura-saga-festival.webp"
+    image: "/geo-images/romania/cultura-saga-festival.webp",
+  
+    descriptionAdvanced: {
+      de: "Das SAGA Festival ist ein bedeutendes elektronisches Musikereignis in Bukarest, das moderne Produktion mit erstklassigen Künstlern verbindet. Das Festival startete 2021 und nutzt einzigartige urbane Orte wie den Romaero-Flugplatz oder die National Arena. Es bietet ein immersives Erlebnis mit beeindruckenden Lichtshows und mehreren spezialisierten Bühnen für verschiedene Genres.",
+      hu: "A SAGA Fesztivál Bukarest egyik legjelentősebb elektronikus zenei eseménye, amely a modern látványvilágot ötvözi neves előadókkal. A 2021-ben indult fesztivál különleges városi helyszíneken, például a Romaero repülőtéren vagy a Nemzeti Arénában zajlik. Az esemény több színpadon kínál változatos zenei stílusokat és látványos fénytechnikai show-kat.",
+      ro: "SAGA Festival este un eveniment major de muzică electronică din București, care combină producția vizuală modernă cu artiști de talie mondială. Lansat în 2021, festivalul utilizează locații urbane inedite precum Romaero sau Arena Națională. Experiența este una imersivă, cu show-uri de lumini impresionante și multiple scene tematice.",
+      en: "SAGA Festival is a major electronic music event in Bucharest, blending modern visual production with world-class artists. Launched in 2021, the festival utilizes unique urban locations such as Romaero airfield or the National Arena. It offers an immersive experience with impressive light shows and multiple specialized stages for different genres.",
+    },
+    factsAdvanced: {
+      de: ["Erste Ausgabe im September 2021", "Veranstaltet von ALDA Events", "Ort: Bukarest, Rumänien", "Mehr als 50 internationale Künstler", "Inkludiert Genres wie EDM, Techno und House", "Zieht über 100.000 Besucher an"],
+      hu: ["Első alkalommal 2021 szeptemberében", "Az ALDA Events szervezi", "Helyszín: Bukarest, Románia", "Több mint 50 nemzetközi előadó", "EDM, techno és house stílusok", "Több mint 100 000 látogatót vonz"],
+      ro: ["Prima ediție în septembrie 2021", "Organizat de ALDA Events", "Locație: București, România", "Peste 50 de artiști internaționali", "Include genuri ca EDM, Techno și House", "Atrage peste 100.000 de spectatori"],
+      en: ["First edition in September 2021", "Organized by ALDA Events", "Location: Bucharest, Romania", "More than 50 international artists", "Includes EDM, Techno, and House genres", "Attracts over 100,000 attendees"],
+    },
   },
   {
     id: "cultura-muzeul-antipa", type: "landmark", parent: "RO-B", coords: [26.085, 44.453],
     name: { ro: "Muzeul Grigore Antipa", en: "Grigore Antipa Museum", hu: "Grigore Antipa Múzeum", de: "Grigore-Antipa-Museum" },
     description: { ro: "Muzeu național de istorie naturală.", en: "National museum of natural history.", hu: "Nemzeti természettudományi múzeum.", de: "Nationales naturhistorisches Museum." },
     facts: { ro: ["Una dintre cele mai mari colecții din Europa de Est."], en: ["One of the largest collections in Eastern Europe."], hu: ["Kelet-Európa egyik legnagyobb gyűjteménye."], de: ["Eine der größten Sammlungen in Osteuropa."] },
-    image: "/geo-images/romania/grigore-antipa-museum.webp"
+    image: "/geo-images/romania/grigore-antipa-museum.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Grigore-Antipa-Nationalmuseum für Naturgeschichte in Bukarest ist eines der ältesten Forschungsinstitute Rumäniens. Gegründet im Jahr 1834, beherbergt es heute über zwei Millionen zoologische, paläontologische und mineralogische Exponate. Das markante Gebäude am Victory Square wurde 1908 eingeweiht und bietet interaktive Ausstellungen über die Artenvielfalt der Erde.",
+      hu: "A bukaresti Grigore Antipa Nemzeti Természettudományi Múzeum Románia egyik legrégebbi kutatóintézete és múzeuma. Az 1834-ben alapított intézmény több mint kétmillió zoológiai, paleontológiai és ásványtani példányt őriz. A Győzelem téren álló jelenlegi épületet 1908-ban avatták fel, és modern, interaktív kiállításokkal mutatja be a Föld élővilágát.",
+      ro: "Muzeul Național de Istorie Naturală Grigore Antipa din București este una dintre cele mai vechi instituții de cercetare din România. Fondat în 1834, acesta adăpostește peste două milioane de piese zoologice, paleontologice și minerale. Clădirea actuală din Piața Victoriei a fost inaugurată în 1908, fiind celebră pentru dioramele sale moderne.",
+      en: "The Grigore Antipa National Museum of Natural History in Bucharest is one of Romania's oldest research and museum institutions. Founded in 1834, it houses over two million zoological, paleontological, and mineral specimens. The current building in Victory Square was inaugurated in 1908 and features interactive exhibits detailing Earth's biodiversity.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet am 3. November 1834", "Sammlung von über 2 Millionen Objekten", "Gebäude eingeweiht im Jahr 1908", "Benannt nach dem Biologen Grigore Antipa", "Berühmt für die ersten modernen Dioramen", "Enthält seltene Fossilien von Deinotherium"],
+      hu: ["1834. november 3-án alapították", "Több mint 2 millió darabból álló gyűjtemény", "A jelenlegi épület 1908-as átadása", "Grigore Antipa biológusról nevezték el", "Híres az első modern diorámáiról", "Ritka Deinotherium fosszíliát őriz"],
+      ro: ["Fondat la 3 noiembrie 1834", "Colecție de peste 2 milioane de piese", "Clădire inaugurată în anul 1908", "Numit după biologul Grigore Antipa", "Celebru pentru primele diorame moderne", "Deține un schelet rar de Deinotherium"],
+      en: ["Founded on November 3, 1834", "Collection of over 2 million items", "Building inaugurated in 1908", "Named after biologist Grigore Antipa", "Famous for the first modern dioramas", "Holds a rare Deinotherium skeleton"],
+    },
   },
   {
     id: "cultura-opera-timisoara", type: "landmark", parent: "RO-TM", coords: [21.226, 45.753],
     name: { ro: "Opera Națională Română Timișoara", en: "Romanian National Opera Timișoara", hu: "Temesvári Román Nemzeti Opera", de: "Rumänische Nationaloper Timișoara" },
     description: { ro: "Instituție culturală de prestigiu în Banat.", en: "Prestigious cultural institution in Banat.", hu: "Rangos kulturális intézmény a Bánságban.", de: "Renommierte kulturelle Einrichtung im Banat." },
     facts: { ro: ["Situată în Piața Victoriei."], en: ["Located in Victory Square."], hu: ["A Győzelem téren található."], de: ["Am Siegesplatz gelegen."] },
-    image: "/geo-images/romania/cultura-opera-timisoara.webp"
+    image: "/geo-images/romania/cultura-opera-timisoara.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Rumänische Nationaloper in Timișoara ist eine tragende Säule der Kultur im Westen des Landes. Das Gebäude, das auch das Nationaltheater beherbergt, wurde 1875 im Stil der Renaissance errichtet und später von berühmten Architekten wie Duiliu Marcu umgestaltet. Es ist ein historischer Ort, der eng mit der Revolution von 1989 und der Multikulturalität der Region verbunden ist.",
+      hu: "A Temesvári Román Nemzeti Opera a nyugat-romániai kulturális élet egyik meghatározó intézménye. Az épület, amely a Nemzeti Színháznak is otthont ad, 1875-ben épült reneszánsz stílusban, majd később Duiliu Marcu tervei alapján alakították át. Történelmi jelentőségét növeli, hogy az 1989-es forradalom egyik központi helyszíne volt.",
+      ro: "Opera Națională Română din Timișoara este o instituție culturală de prim rang din vestul țării. Clădirea, care găzduiește și Teatrul Național, a fost construită în 1875 în stil renascentist și reconstruită ulterior după planurile arhitectului Duiliu Marcu. Este un simbol al libertății, fiind locul de unde s-a proclamat victoria Revoluției în 1989.",
+      en: "The Romanian National Opera in Timișoara is a cornerstone of cultural life in western Romania. The building, which also houses the National Theatre, was constructed in 1875 in Renaissance style and later remodeled by architect Duiliu Marcu. It holds significant historical value as a central site of the 1989 Revolution and a symbol of regional multiculturalism.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung des Gebäudes im Jahr 1875", "Architekten: Fellner & Helmer", "Offiziell als Nationaloper seit 1946", "Fassade von Duiliu Marcu entworfen", "Ort der Proklamation der Revolution 1989", "Drei Sprachen: Rumänisch, Deutsch, Ungarisch"],
+      hu: ["Az épületet 1875-ben adták át", "Tervezők: Fellner és Helmer", "1946 óta Nemzeti Opera", "A homlokzat Duiliu Marcu munkája", "Az 1989-es forradalom kiemelt helyszíne", "Háromnyelvű színházi kultúra képviselője"],
+      ro: ["Inaugurarea clădirii în anul 1875", "Arhitecți originali: Fellner & Helmer", "Înființată ca Operă de Stat în 1946", "Fațada actuală creată de Duiliu Marcu", "Locul proclamării Revoluției în 1989", "Găzduiește spectacole în patru limbi"],
+      en: ["Building inaugurated in 1875", "Original architects: Fellner & Helmer", "Established as National Opera in 1946", "Current facade designed by Duiliu Marcu", "Site of the 1989 Revolution proclamation", "Hosts performances in multiple languages"],
+    },
   }
 ];
 
@@ -3266,70 +5190,200 @@ export const romaniaTraditions: POI[] = [
     name: { ro: "Mărțișorul", en: "Mărțișor (March Amulet)", hu: "Mărțișor", de: "Mărțișor" },
     description: { ro: "Sărbătoarea venirii primăverii la 1 martie.", en: "Celebration of the arrival of spring on March 1st.", hu: "A tavasz eljövetelének ünnepe március 1-jén.", de: "Feier der Ankunft des Frühlings am 1. März." },
     facts: { ro: ["Inclus în patrimoniul imaterial UNESCO."], en: ["Included in UNESCO intangible heritage."], hu: ["Az UNESCO szellemi kulturális örökség része."], de: ["In das immaterielle UNESCO-Kulturerbe aufgenommen."] },
-    image: "/geo-images/romania/trad-martisor.webp"
+    image: "/geo-images/romania/trad-martisor.webp",
+  
+    descriptionAdvanced: {
+      de: "Mărțișor ist ein traditionelles Frühlingsfest, das am 1. März in Rumänien gefeiert wird. Das Symbol ist eine geflochtene rot-weiße Schnur, die oft mit einem kleinen Talisman versehen ist. Es wird als Zeichen der Wertschätzung und Glücksbringer getragen, um den Sieg des Frühlings über den Winter und die Erneuerung der Natur zu feiern.",
+      hu: "A Márciuska (Mărțișor) egy hagyományos tavaszváró ünnep Romániában, amelyet március 1-jén tartanak. Jelképe egy összefont piros és fehér zsinór, amelyhez gyakran egy kis medált vagy amulettet tűznek. A hagyomány szerint a szeretet és a szerencse záloga, jelképezve a tavasz győzelmét a tél felett és a természet megújulását.",
+      ro: "Mărțișorul este o tradiție străveche celebrată pe 1 martie, marcând venirea primăverii. Simbolul central este șnurul împletit din fire albe și roșii, oferit persoanelor dragi ca semn de prețuire și noroc. Această tradiție simbolizează victoria vieții asupra morții și a căldurii asupra gerului, fiind inclusă în patrimoniul UNESCO.",
+      en: "Mărțișor is an ancient spring tradition celebrated on March 1st in Romania. Its core symbol is a braided red and white string, often accompanied by a small amulet. It is given as a token of appreciation and good luck, symbolizing the victory of spring over winter and the renewal of nature and life.",
+    },
+    factsAdvanced: {
+      de: ["Gefeiert am 1. März", "Farben: Weiß (Reinheit) und Rot (Leben)", "UNESCO-Kulturerbe seit 2017", "Ursprünge reichen bis in die Römerzeit", "Wird oft den ganzen März getragen", "Symbolisiert die Erneuerung der Natur"],
+      hu: ["Minden év március 1-jén tartják", "Színek: Fehér (tisztaság) és piros (élet)", "UNESCO szellemi örökség 2017 óta", "Eredete a római korig nyúlik vissza", "Gyakran egész márciusban hordják", "A természet megújulásának szimbóluma"],
+      ro: ["Sărbătorit în fiecare an pe 1 martie", "Alb simbolizează puritatea, roșu vitalitatea", "Inclus în patrimoniul UNESCO în 2017", "Origini ce datează din epoca romană", "Se poartă de obicei întreaga lună martie", "Semnifică renașterea naturii"],
+      en: ["Celebrated annually on March 1st", "White symbolizes purity, red life", "UNESCO Intangible Heritage since 2017", "Origins date back to Roman times", "Often worn throughout the month of March", "Signifies the rebirth of nature"],
+    },
   },
   {
     id: "trad-calusari", type: "historical", parent: "RO-OT", coords: [24.36, 44.43],
     name: { ro: "Dansul Călușarilor", en: "Călușari Dance", hu: "Călușari tánc", de: "Călușari-Tanz" },
     description: { ro: "Dans tradițional românesc cu funcție rituală.", en: "Traditional Romanian dance with a ritual function.", hu: "Hagyományos román rituális tánc.", de: "Traditioneller rumänischer Ritualtanz." },
     facts: { ro: ["Inclus în patrimoniul UNESCO din 2005."], en: ["Included in UNESCO heritage since 2005."], hu: ["2005 óta az UNESCO örökség része."], de: ["Seit 2005 im UNESCO-Kulturerbe."] },
-    image: "/geo-images/romania/trad-calusari.webp"
+    image: "/geo-images/romania/trad-calusari.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Călușari-Tanz ist ein ritueller rumänischer Tanz, der für seine Komplexität und magische Bedeutung bekannt ist. Die Tänzer, Călușari genannt, führen während der Pfingstwoche schnelle und akrobatische Bewegungen aus, um Krankheiten zu heilen und böse Geister zu vertreiben. Es ist eine rein männliche Tradition, die strenge Regeln und eine spezifische Hierarchie innerhalb der Gruppe folgt.",
+      hu: "A kalusari (călușari) egy rituális román tánc, amely összetettségéről és mágikus jelentőségéről ismert. A táncosok pünkösd idején adják elő gyors, akrobatikus mozdulataikat, hogy elűzzék a gonosz szellemeket és gyógyulást hozzanak. Ez egy kizárólag férfiak által őrzött hagyomány, amely szigorú szabályokat és belső hierarchiát követ.",
+      ro: "Dansul Călușarilor este un ritual tradițional românesc de o mare complexitate, inclus în patrimoniul UNESCO. Călușarii execută mișcări rapide și acrobatice în perioada Rusaliilor, având rolul magic de a vindeca și de a alunga spiritele rele. Tradiția este păstrată de grupuri de bărbați care depun un jurământ solemn de respectare a ritualului.",
+      en: "The Călușari Dance is a ritual Romanian dance renowned for its complexity and magical significance. Dancers, known as Călușari, perform rapid and acrobatic movements during the Whitsuntide (Rusalii) period to heal the sick and drive away evil spirits. It is an exclusively male tradition that follows strict rules and a specific group hierarchy.",
+    },
+    factsAdvanced: {
+      de: ["UNESCO-Kulturerbe seit 2005", "Wird während der Pfingstzeit getanzt", "Besteht aus ungeraden Gruppen (7, 9, 11)", "Anführer wird Vătaf genannt", "Verwendung von Knoblauch und Wermut", "Rituelle Heilung durch den Tanz"],
+      hu: ["UNESCO szellemi örökség 2005 óta", "Pünkösd (Rusalii) idején adják elő", "Páratlan létszámú csoportok (7, 9, 11)", "A csoport vezetője a Vătaf", "Fokhagymát és ürömfüvet használnak", "Rituális gyógyító ereje van"],
+      ro: ["Patrimoniu cultural UNESCO din 2005", "Se dansează în perioada Rusaliilor", "Grupuri de număr impar (7, 9, 11 persoane)", "Conducătorul grupului se numește Vătaf", "Folosesc usturoi și pelin ca talismane", "Rol ritualic de vindecare a bolnavilor"],
+      en: ["UNESCO Intangible Heritage since 2005", "Performed during Whitsuntide (Rusalii)", "Groups consist of odd numbers (7, 9, 11)", "Group leader is called the Vătaf", "Use of garlic and wormwood as charms", "Ritual healing role through the dance"],
+    },
   },
   {
     id: "trad-mucenici", type: "historical", parent: "RO", coords: [26.0, 44.5],
     name: { ro: "Sărbătoarea Mucenicilor", en: "Martyrs' Day (Mucenici)", hu: "Mucenici ünnepe", de: "Tag der Märtyrer (Mucenici)" },
     description: { ro: "Tradiție culinară și religioasă pe 9 martie.", en: "Culinary and religious tradition on March 9th.", hu: "Kulináris és vallási hagyomány március 9-én.", de: "Kulinarische und religiöse Tradition am 9. März." },
     facts: { ro: ["Se prepară colaci în formă de 8."], en: ["Figure-8 shaped pastries are made."], hu: ["8-as alakú kalácsokat készítenek."], de: ["Es werden Gebäcke in Form einer 8 gebacken."] },
-    image: "/geo-images/romania/trad-mucenici.webp"
+    image: "/geo-images/romania/trad-mucenici.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Tag der Märtyrer (Mucenici) wird am 9. März gefeiert und erinnert an die 40 christlichen Soldaten von Sebaste. Traditionell werden aus Teig geformte Figuren in Form einer Acht gebacken oder gekocht, die mit Walnüssen und Honig bestreut werden. In der rumänischen Tradition markiert dieser Tag auch den rituellen Beginn des landwirtschaftlichen Jahres.",
+      hu: "A Vértanúk napját (Mucenici) március 9-én ünneplik, a szebasztei negyven vértanú emlékére. Hagyományosan nyolcas alakú tésztafigurákat sütnek vagy főznek, amelyeket darált dióval és mézzel szórnak meg. A román néphagyományban ez a nap jelzi a mezőgazdasági év rituális kezdetét és a tavaszi munkák előkészítését.",
+      ro: "Sărbătoarea Sfinților 40 de Mucenici are loc pe 9 martie, comemorând soldații creștini din Sevastia. Tradiția implică prepararea unor colaci în formă de opt, numiți mucenici, copți în cuptor sau fierți în sirop, presărați cu nucă și miere. Ritualul include și consumul a 40 de pahare cu vin pentru a asigura sănătatea și vigoarea.",
+      en: "Martyrs' Day (Mucenici) is celebrated on March 9th, commemorating the 40 Christian soldiers of Sebaste. Traditionally, dough figures shaped like the number eight are baked or boiled and sprinkled with walnuts and honey. In Romanian folklore, this day also marks the ritual start of the agricultural year and the transition to spring.",
+    },
+    factsAdvanced: {
+      de: ["Datum: 9. März jedes Jahr", "Erinnert an 40 Soldaten von Sebaste", "Form der Acht symbolisiert Unendlichkeit", "40 Gläser Wein werden getrunken", "Zwei Varianten: gebacken oder gekocht", "Markiert den Beginn des Bauernjahres"],
+      hu: ["Dátum: minden év március 9.", "A 40 szebasztei vértanú emléknapja", "A nyolcas forma a végtelenséget jelzi", "Ritualitás: 40 pohár bor elfogyasztása", "Két változat: sült vagy főzött tészta", "A mezőgazdasági év kezdetét jelzi"],
+      ro: ["Sărbătorită anual pe data de 9 martie", "Comemorează cei 40 de mucenici din Sevastia", "Forma de 8 simbolizează infinitul", "Ritualul celor 40 de pahare cu vin", "Variante regionale: moldovenești sau muntenești", "Reprezintă pragul dintre iarnă și vară"],
+      en: ["Celebrated annually on March 9th", "Commemorates the 40 Martyrs of Sebaste", "Figure-8 shape symbolizes infinity", "Ritual of drinking 40 glasses of wine", "Regional variants: baked or boiled dough", "Represents the threshold of the farm year"],
+    },
   },
   {
     id: "trad-paste", type: "historical", parent: "RO", coords: [25.5, 46.0],
     name: { ro: "Tradiții de Paște", en: "Easter Traditions", hu: "Húsvéti hagyományok", de: "Ostertraditionen" },
     description: { ro: "Încondeierea ouălor și slujba de Înviere.", en: "Egg painting and the Resurrection service.", hu: "Tojásírás és a feltámadási mise.", de: "Eier bemalen und der Auferstehungsgottesdienst." },
     facts: { ro: ["Ouăle roșii sunt un simbol principal."], en: ["Red eggs are a main symbol."], hu: ["A piros tojások a fő szimbólumok."], de: ["Rote Eier sind ein Hauptsymbol."] },
-    image: "/geo-images/romania/trad-paste.webp"
+    image: "/geo-images/romania/trad-paste.webp",
+  
+    descriptionAdvanced: {
+      de: "Ostern ist das wichtigste religiöse Fest in Rumänien und wird mit tief verwurzelten Traditionen gefeiert. Das Bemalen von Eiern (încondeiere) mit komplizierten geometrischen Mustern ist eine wahre Kunstform, besonders in der Bukowina. Die Gläubigen nehmen an der Mitternachtsmesse teil, um das Heilige Licht zu empfangen und die Auferstehung Jesu zu verkünden.",
+      hu: "A húsvét a legfontosabb vallási ünnep Romániában, amelyet mélyen gyökerező hagyományokkal ünnepelnek. A tojásfestés (încondeiere) bonyolult geometriai mintákkal igazi művészeti forma, különösen Bukovinában. A hívők részt vesznek az éjféli misén, hogy átvegyék a szent fényt és hirdessék Jézus feltámadását.",
+      ro: "Paștele este cea mai importantă sărbătoare religioasă din România, marcată prin tradiții spectaculoase. Încondeierea ouălor cu motive geometrice și florale este o artă recunoscută, în special în zona Bucovinei. În noaptea de Înviere, credincioșii merg la biserică pentru a lua Lumină și a rosti salutul Hristos a înviat.",
+      en: "Easter is the most significant religious holiday in Romania, observed with deep-rooted traditions. The art of egg painting (încondeiere) with intricate geometric patterns is a true craft, especially in the Bucovina region. Believers attend the midnight Resurrection service to receive the Holy Light and proclaim Christ's resurrection.",
+    },
+    factsAdvanced: {
+      de: ["Datum variiert nach julianischem Kalender", "Încondeiere: Kunst des Eierbemalens", "Heiliges Licht aus Jerusalem geholt", "Traditionelle Gerichte: Lamm und Pasca", "Drei Tage offizieller Feiertag", "Spezielle Wachsmaltechnik in der Bukowina"],
+      hu: ["A dátum a júliusi naptár szerint változik", "Încondeiere: a tojásírás művészete", "A Szent Fényt Jeruzsálemből hozzák", "Hagyományos ételek: bárány és pászka", "Háromnapos hivatalos ünnep", "Különleges viaszos technika Bukovinában"],
+      ro: ["Data variază conform calendarului iulian", "Încondeierea: arta decorării ouălor", "Lumina Sfântă este adusă de la Ierusalim", "Preparate tradiționale: miel, pască, cozonac", "Sărbătoare oficială de trei zile", "Tehnică specială cu ceară în Bucovina"],
+      en: ["Date varies according to Julian calendar", "Încondeiere: the art of egg painting", "Holy Light is brought from Jerusalem", "Traditional dishes: lamb and Pasca", "Three-day official public holiday", "Special wax-relief technique in Bucovina"],
+    },
   },
   {
     id: "trad-sanzaiene", type: "historical", parent: "RO", coords: [24.0, 46.5],
     name: { ro: "Sânzienele", en: "Sânziene (Midsummer)", hu: "Sânziene (Szentivánéj)", de: "Sânziene (Mittsommer)" },
     description: { ro: "Sărbătoare de vară legată de recolte și dragoste.", en: "Summer festival related to harvest and love.", hu: "Nyári ünnep a terméshez és a szerelemhez kötődően.", de: "Sommerfest im Zusammenhang mit Ernte und Liebe." },
     facts: { ro: ["Se sărbătorește pe 24 iunie."], en: ["Celebrated on June 24th."], hu: ["Június 24-én ünneplik."], de: ["Wird am 24. Juni gefeiert."] },
-    image: "/geo-images/romania/sanziene-midsummer.webp"
+    image: "/geo-images/romania/sanziene-midsummer.webp",
+  
+    descriptionAdvanced: {
+      de: "Sânziene ist ein Fest zur Sommersonnenwende, das am 24. Juni gefeiert wird und mit wohlwollenden Feen verbunden ist. Junge Frauen flechten Kränze aus gelbem Labkraut und werfen sie auf die Dächer, um ihre Zukunft vorherzusagen. Es ist eine Zeit der Magie, in der geglaubt wird, dass sich der Himmel öffnet und die Natur ihre volle Heilkraft entfaltet.",
+      hu: "A Szentivánéj (Sânziene) a nyári napfordulóhoz kapcsolódó ünnep Romániában, amelyet június 24-én tartanak. A hagyomány szerint ilyenkor jóindulatú tündérek járnak a földön. A fiatal lányok sárga tejoltó galajból fonnak koszorút, és a tetőre dobják, hogy megjósolják jövőjüket és férjhez menetelüket.",
+      ro: "Sânzienele reprezintă o sărbătoare a solstițiului de vară, celebrată pe 24 iunie sub semnul zânelor binefăcătoare. Fetele tinere împletesc coronițe din flori de sânziene și le aruncă pe acoperiș pentru a-și afla ursitul. Se crede că în această noapte cerurile se deschid, iar plantele de leac capătă puteri magice vindecătoare.",
+      en: "Sânziene is a Midsummer festival celebrated on June 24th, linked to benevolent fairies in Romanian folklore. Young women weave wreaths from yellow bedstraw flowers and throw them onto rooftops to predict their future. It is a time of magic when the heavens are believed to open and nature reaches its peak healing power.",
+    },
+    factsAdvanced: {
+      de: ["Gefeiert am 24. Juni", "Fällt mit der Geburt Johannes des Täufers zusammen", "Gelbes Labkraut ist die zentrale Blume", "Wurzeln im antiken Sonnenkult", "Nacht der Liebe und Fruchtbarkeit", "Tanz der Drăgaica in Südrumänien"],
+      hu: ["Minden év június 24-én", "Keresztelő Szent János születésnapja", "Központi virága a tejoltó galaj", "Az ókori napkultuszban gyökerezik", "A szerelem és a termékenység éjszakája", "Dél-Romániában Drăgaica táncnak hívják"],
+      ro: ["Sărbătorită anual pe data de 24 iunie", "Coincide cu Nașterea Sfântului Ioan Botezătorul", "Floarea de sânziană este simbolul central", "Origini în cultele solare antice", "Noapte dedicată dragostei și fertilității", "Dansul Drăgaicei practicat în Muntenia"],
+      en: ["Celebrated annually on June 24th", "Coincides with the Birth of John the Baptist", "Yellow bedstraw is the central flower", "Origins in ancient solar cults", "Night dedicated to love and fertility", "The Drăgaica dance in Southern Romania"],
+    },
   },
   {
     id: "trad-colindat", type: "historical", parent: "RO", coords: [25.0, 47.0],
     name: { ro: "Colindatul de Crăciun", en: "Christmas Caroling", hu: "Karácsonyi kántálás", de: "Weihnachtssingen" },
     description: { ro: "Tradiție de iarnă în care grupuri merg din casă în casă.", en: "Winter tradition where groups go from house to house.", hu: "Téli hagyomány, amikor csoportok házról házra járnak.", de: "Wintertradition, bei der Gruppen von Haus zu Haus gehen." },
     facts: { ro: ["Colindatul de ceată bărbătească este în patrimoniul UNESCO."], en: ["Men's group caroling is in UNESCO heritage."], hu: ["A férficsoportos kántálás az UNESCO örökség része."], de: ["Das Singen in Männergruppen gehört zum UNESCO-Kulturerbe."] },
-    image: "/geo-images/romania/christmas-caroling.webp"
+    image: "/geo-images/romania/christmas-caroling.webp",
+  
+    descriptionAdvanced: {
+      de: "Das weihnachtliche Sternsingen (Colindat) ist eine der lebendigsten Wintertraditionen in Rumänien. Gruppen von Kindern und Erwachsenen ziehen von Haus zu Haus, um Lieder über die Geburt Jesu und Neujahrswünsche vorzutragen. Die Gastgeber belohnen die Sänger traditionell mit Brezeln, Nüssen, Äpfeln oder Geld als Zeichen der Gemeinschaft und Dankbarkeit.",
+      hu: "A karácsonyi kántálás (Colindat) az egyik legélőbb téli hagyomány Romániában. Gyermekek és felnőttek csoportjai házról házra járnak, hogy énekekkel köszöntsék Jézus születését és jókívánságokat mondjanak az új évre. A házigazdák hagyományosan pereccel, dióval, almával vagy pénzzel jutalmazzák az énekeseket a közösség és hála jeleként.",
+      ro: "Colindatul de Crăciun este una dintre cele mai vii și iubite tradiții de iarnă din România, inclusă în patrimoniul UNESCO. Grupuri de copii și tineri merg din casă în casă pentru a vesti Nașterea Domnului și a ura belșug gazdelor. În schimbul urărilor, colindătorii primesc daruri simbolice precum colaci, nuci, mere sau bani.",
+      en: "Christmas Caroling (Colindat) is one of the most vibrant winter traditions in Romania, recognized by UNESCO. Groups of children and adults go from house to house singing carols that announce the birth of Jesus and offer well-wishes for the new year. Hosts traditionally reward the singers with pretzels, walnuts, apples, or money.",
+    },
+    factsAdvanced: {
+      de: ["UNESCO-Kulturerbe seit 2013", "Beginnt meist am Heiligabend", "Traditioneller Refrain: Leru-i ler", "Belohnung mit Colaci (Rundbrot)", "Sternsingen symbolisiert die Heiligen Drei Könige", "Männliche Gruppen sind rituell besonders wichtig"],
+      hu: ["UNESCO szellemi örökség 2013 óta", "Leggyakrabban szenteste kezdődik", "Hagyományos refrén: Leru-i ler", "Jutalom: kalács (colaci) és dió", "A csillagozás a háromkirályokat jelképezi", "A férfikórusok rituális jelentősége nagy"],
+      ro: ["Patrimoniu cultural UNESCO din 2013", "Începe de obicei în ajunul Crăciunului", "Refren tradițional: Leru-i ler", "Răsplata rituală constă în colaci", "Steaua simbolizează călătoria magilor", "Colindatul de ceată bărbătească este ritualic"],
+      en: ["UNESCO Intangible Heritage since 2013", "Usually begins on Christmas Eve", "Traditional refrain: Leru-i ler", "Ritual reward consists of pretzels (colaci)", "The Star carol symbolizes the Magi's journey", "Male caroling groups have ritual importance"],
+    },
   },
   {
     id: "trad-dragobete", type: "historical", parent: "RO", coords: [23.5, 45.5],
     name: { ro: "Dragobetele", en: "Dragobete (Lovers' Day)", hu: "Dragobete (Szerelmesek napja)", de: "Dragobete (Tag der Liebenden)" },
     description: { ro: "Sărbătoarea tradițională a iubirii la români.", en: "Traditional Romanian celebration of love.", hu: "A szerelem hagyományos román ünnepe.", de: "Traditionelles rumänisches Fest der Liebe." },
     facts: { ro: ["Sărbătorit pe 24 februarie."], en: ["Celebrated on February 24th."], hu: ["Február 24-én ünneplik."], de: ["Wird am 24. Februar gefeiert."] },
-    image: "/geo-images/romania/dragobete-lovers.webp"
+    image: "/geo-images/romania/dragobete-lovers.webp",
+  
+    descriptionAdvanced: {
+      de: "Dragobete ist der traditionelle rumänische Tag der Liebenden, der am 24. Februar gefeiert wird. Er ist nach einer mythologischen Figur benannt, dem Sohn von Baba Dochia, der als Schutzpatron der Liebe und des Frühlings gilt. An diesem Tag wird die Verlobung der Vögel gefeiert, und junge Menschen sammeln Blumen, um Glück in der Liebe zu finden.",
+      hu: "A Dragobete a szerelmesek hagyományos román ünnepe, amelyet február 24-én tartanak. Nevét egy mitológiai alakról kapta, aki Baba Dochia fia és a szerelem, valamint a tavasz védelmezője. Ezen a napon tartják a madarak jegyességét, és a fiatalok virágokat gyűjtenek, hogy szerencsések legyenek a párválasztásban.",
+      ro: "Dragobetele este sărbătoarea tradițională a iubirii la români, celebrată pe 24 februarie. Personajul mitologic Dragobete, fiul Babei Dochia, este considerat ocrotitorul dragostei și al bunei dispoziții. Se spune că în această zi păsările se logodesc, iar tinerii care se întâlnesc vor fi fericiți și feriți de boli tot anul.",
+      en: "Dragobete is the traditional Romanian day of lovers, celebrated on February 24th. It is named after a mythological figure, the son of Baba Dochia, who is considered the patron of love and spring. On this day, the birds' engagement is celebrated, and young people gather flowers to ensure luck and happiness in their relationships.",
+    },
+    factsAdvanced: {
+      de: ["Datum: 24. Februar jedes Jahr", "Name stammt von Baba Dochias Sohn", "Gilt als Pate der Liebe", "Tag der Vogelverlobung", "Tradition des Schneewaschens", "Symbolisiert den Sieg des Frühlings"],
+      hu: ["Minden év február 24-én", "Baba Dochia fiáról kapta a nevét", "A szerelem védőszentjének tekintik", "A madarak jegyességének napja", "Hóval való rituális mosakodás", "A tavasz győzelmét jelképezi"],
+      ro: ["Sărbătorită anual pe 24 februarie", "Numit după fiul Babei Dochia", "Considerat nașul dragostei și al păsărilor", "Ziua logodnei păsărilor cerului", "Ritualul spălării cu zăpadă descântată", "Marchează începutul primăverii biologice"],
+      en: ["Celebrated annually on February 24th", "Named after the son of Baba Dochia", "Considered the patron of love and birds", "The day of the birds' engagement", "Ritual of washing with magical snow", "Marks the beginning of biological spring"],
+    },
   },
   {
     id: "trad-ignatul", type: "historical", parent: "RO", coords: [24.5, 46.0],
     name: { ro: "Ignatul", en: "Ignat Day (Pig Slaughter)", hu: "Disznóvágás (Ignat)", de: "Ignattag (Schweineschlachten)" },
     description: { ro: "Tradiție pre-crăciun care implică tăierea porcului.", en: "Pre-Christmas tradition involving pig slaughtering.", hu: "Karácsony előtti disznóvágás hagyomanya.", de: "Vorweihnachtliche Tradition des Schweineschlachtens." },
     facts: { ro: ["Are loc pe 20 decembrie."], en: ["Takes place on December 20th."], hu: ["December 20-án zajlik."], de: ["Findet am 20. Dezember statt."] },
-    image: "/geo-images/romania/ignat-day-pig-slaughter.webp"
+    image: "/geo-images/romania/ignat-day-pig-slaughter.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Ignat-Tag wird am 20. Dezember gefeiert und ist dem rituellen Schlachten des Schweins für das Weihnachtsfest gewidmet. Es ist eine jahrhundertealte Tradition, bei der die ganze Familie zusammenkommt, um Fleischprodukte wie Würste und Speck vorzubereiten. Trotz moderner Einflüsse bleibt dieser Tag ein wichtiger Bestandteil der rumänischen bäuerlichen Identität.",
+      hu: "Az Ignát-nap (Ignatul) december 20-án zajlik, és a karácsonyi sertésvágás rituáléjának szentelt nap. Ez egy évszázados hagyomány, amely során a családtagok közösen készítik el a téli hústermékeket, például kolbászt és szalonnát. A modern idők ellenére ez a nap a román falusi identitás egyik legfontosabb eseménye maradt.",
+      ro: "Ignatul este o sărbătoare tradițională ce are loc pe 20 decembrie, dedicată tăierii porcului pentru masa de Crăciun. Ritualul îmbină practici arhaice cu rânduiala creștină a Sfântului Ignatie Teoforul. Familia se reunește pentru a prepara produse specifice precum toba, cârnații și caltaboșul, într-o atmosferă de comuniune.",
+      en: "Ignat Day is celebrated on December 20th and is dedicated to the ritual slaughter of the pig for the Christmas meal. It is a centuries-old tradition where the entire family gathers to prepare various meat products like sausages and bacon. Despite modern influences, this day remains a vital part of Romanian rural identity and communal spirit.",
+    },
+    factsAdvanced: {
+      de: ["Datum: 20. Dezember jedes Jahr", "Gewidmet dem Heiligen Ignatius", "Traditionelle Schweineschlachtung", "Gemeinsames Essen: Pomana porcului", "Kinder erhalten ein Kreuz aus Blut", "Vorbereitung auf das Weihnachtsmenü"],
+      hu: ["Minden év december 20-án", "Antiochiai Szent Ignác emléknapja", "A hagyományos sertésvágás ideje", "Közös étkezés: disznótoros vacsora", "Vérrel rajzolt kereszt a gyermekek homlokán", "A karácsonyi menü előkészítése"],
+      ro: ["Sărbătorită anual pe 20 decembrie", "Dedicată Sfântului Mucenic Ignatie Teoforul", "Ritualul sacrificării porcului de Crăciun", "Tradiția mesei numite pomana porcului", "Însemnarea copiilor cu semnul crucii cu sânge", "Începutul preparării bucatelor de iarnă"],
+      en: ["Celebrated annually on December 20th", "Dedicated to Saint Ignatius of Antioch", "The traditional ritual of pig slaughter", "The tradition of the pig's alms meal", "Children marked with a blood cross for luck", "Start of winter food preparations"],
+    },
   },
   {
     id: "trad-boboteaza", type: "historical", parent: "RO", coords: [26.0, 45.0],
     name: { ro: "Boboteaza", en: "Epiphany", hu: "Vízkereszt", de: "Dreikönigsfest" },
     description: { ro: "Sărbătoare de iarnă cu sfințirea apelor.", en: "Winter holiday with the blessing of the waters.", hu: "Téli ünnep a vizek megszentelésével.", de: "Winterfest mit der Segnung der Gewässer." },
     facts: { ro: ["Sărbătorită pe 6 ianuarie."], en: ["Celebrated on January 6th."], hu: ["Január 6-án ünneplik."], de: ["Wird am 6. Januar gefeiert."] },
-    image: "/geo-images/romania/epiphany.webp"
+    image: "/geo-images/romania/epiphany.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Epiphaniasfest am 6. Januar markiert die Taufe Jesu im Jordan durch Johannes den Täufer. In Rumänien ist dieser Tag mit dem Ritual des Kreuzwerfens in eiskalte Gewässer verbunden. Junge Männer springen in den Fluss, um das geweihte Holzkreuz zu bergen, was Glück und Gesundheit für das Jahr versprechen soll. Die Priester weihen das Wasser, das die Gläubigen in Flaschen nach Hause mitnehmen.",
+      hu: "A vízkereszt ünnepe január 6-án Jézus Jordán folyóban való megkeresztelkedésére emlékeztet. Romániában ehhez a naphoz kötődik a kereszt folyóba dobásának látványos rituáléja a hideg téli időben. A fiatal férfiak a jéghideg vízbe ugranak, hogy visszahozzák a szentelt keresztet, ami a néphit szerint egészséget hoz. A szertartás végén a hívek szenteltvizet visznek haza az otthonaik megáldására.",
+      ro: "Sărbătoarea Botezului Domnului, celebrată pe 6 ianuarie, marchează momentul în care Iisus a fost botezat în apele Iordanului. În tradiția românească, ritualul include sfințirea apelor și aruncarea unei cruci de lemn în râuri sau lacuri înghețate. Curajoșii care sar în apă pentru a recupera crucea se spune că vor fi feriți de boli tot anul. Agheasma Mare obținută în această zi este păstrată de credincioși ca simbol al purificării.",
+      en: "Epiphany, celebrated on January 6th, commemorates the baptism of Jesus in the Jordan River by John the Baptist. In Romania, the day is marked by the traditional throwing of a wooden cross into cold rivers or lakes. Young men dive into the freezing water to retrieve it, a feat believed to bring health and luck for the rest of the year. Priests perform the Great Blessing of the Waters, which locals take home in small bottles.",
+    },
+    factsAdvanced: {
+      de: ["Feiertag am 6. Januar", "Symbolisiert die Taufe im Jordan", "Ritual des Kreuzwerfens", "Große Wasserweihe durch Priester", "Schnee an diesem Tag verheißt Ernte", "Traditionelles Pferderennen in Dörfern"],
+      hu: ["Január 6-án ünneplik", "A Jordán-beli keresztelőt jelzi", "Keresztbedobás rituáléja", "Nagy vízszentelés szertartása", "A néphit szerint elűzi a gonoszt", "Szenteltvíz tárolása egész évben"],
+      ro: ["Sărbătorită pe 6 ianuarie", "Simbolizează Botezul în Iordan", "Ritualul recuperării crucii din apă", "Sfințirea Mare a Apelor", "Tradiția curselor de cai la sate", "Păstrarea Aghesmei Mari peste an"],
+      en: ["Celebrated on January 6th", "Marks the Baptism in Jordan", "Ritual of retrieving the cross", "Great Blessing of the Water", "Traditional horse races in villages", "Belief in water's healing powers"],
+    },
   },
   {
     id: "trad-paparudele", type: "historical", parent: "RO", coords: [25.0, 44.0],
     name: { ro: "Paparudele", en: "Paparuda", hu: "Paparuda (Esőtánc)", de: "Paparuda (Regentanz)" },
     description: { ro: "Ritual arhaic pentru invocarea ploii.", en: "Archaic ritual for invoking rain.", hu: "Archaikus rituálé az eső hívására.", de: "Archaisches Ritual zur Beschwörung von Regen." },
     facts: { ro: ["Practicat în perioade de secetă."], en: ["Practiced during periods of drought."], hu: ["Aszály idején gyakorolják."], de: ["Wird während Dürreperioden praktiziert."] },
-    image: "/geo-images/romania/trad-paparudele.webp"
+    image: "/geo-images/romania/trad-paparudele.webp",
+  
+    descriptionAdvanced: {
+      de: "Paparuda ist ein archaisches Regenritual, das in Zeiten extremer Dürre im Frühjahr oder Sommer durchgeführt wird. Junge Mädchen bekleiden sich mit Farnen und grünen Blättern und tanzen durch das Dorf, während sie rituell mit Wasser bespritzt werden. Dabei singen sie magische Verse, die den Regen herbeirufen sollen, um die Ernte zu retten. Dieser Brauch hat seine Wurzeln in vorchristlichen agrarischen Kulten Südosteuropas.",
+      hu: "A Paparuda egy ősi esőhozó rítus, amelyet aszály idején, általában tavasszal vagy nyáron végeznek. Fiatal lányok bodzaágakba és zöld levelekbe öltözve táncolnak végig a falun, miközben a helyiek vízzel öntözik le őket. A tánc közben mágikus énekeket kántálnak, amelyek a termékenységet és a csapadékot hivatottak elősegíteni. A szokás gyökerei a kereszténység előtti balkáni és duna-menti agrárkultuszokba nyúlnak vissza.",
+      ro: "Paparuda este un ritual arhaic de invocare a ploii, practicat în perioadele de secetă severă din primăvară sau vară. Tinerii participanți se îmbracă în ghirlande de frunze și flori și dansează prin sat în timp ce sunt stropiți cu apă de către localnici. Cântecul ritualic are scopul magic de a aduce precipitații pentru a salva culturile agricole. Obiceiul are rădăcini adânci în mitologia traco-dacică și este răspândit în sud-estul Europei.",
+      en: "Paparuda is an ancient rain-making ritual performed during severe droughts in spring or summer. Young participants, often girls, dress in skirts made of elderberry twigs and green leaves, dancing through the village while locals splash them with water. They chant magical verses meant to call upon the rain to save the crops. This custom has its roots in pre-Christian agrarian cults typical of the Balkan and Danubian regions.",
+    },
+    factsAdvanced: {
+      de: ["Ursprung in der Antike", "Wird bei großer Dürre getanzt", "Kleidung aus grünen Blättern", "Bespritzen mit Wasser als Symbol", "Magische Gesänge rufen Regen an", "Verbreitet im gesamten Balkanraum"],
+      hu: ["Antik gyökerekkel rendelkezik", "Aszály idején végzik", "Bodzaágakból készült öltözet", "Vízzel való rituális leöntés", "Mágikus énekek kántálása", "Balkáni népeknél elterjedt"],
+      ro: ["Rădăcini în mitologia antică", "Practicat în timp de secetă", "Costumație din frunze de boz", "Stropirea rituală cu apă", "Invocarea magică a ploii prin cântec", "Răspândit în Balcani și Dobrogea"],
+      en: ["Origins in ancient mythology", "Performed during severe droughts", "Outfits made of green leaves", "Ritual splashing with water", "Magical chants invoke the rain", "Common in Balkan and Danubian folk"],
+    },
   }
 ];
 
@@ -3342,70 +5396,200 @@ export const romaniaWildlife: POI[] = [
     name: { ro: "Ursul Brun", en: "Brown Bear", hu: "Barna medve", de: "Braunbär" },
     description: { ro: "Cea mai mare populație din Europa.", en: "Largest population in Europe.", hu: "A legnagyobb populáció Európában.", de: "Größte Population in Europa." },
     facts: { ro: ["Peste 6000 de exemplare în Carpați."], en: ["Over 6000 individuals in the Carpathians."], hu: ["Több mint 6000 példány a Kárpátokban."], de: ["Über 6000 Exemplare in den Karpaten."] },
-    image: "/geo-images/romania/wild-ursul-brun.webp"
+    image: "/geo-images/romania/wild-ursul-brun.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Braunbär ist das größte Raubtier Rumäniens und besiedelt weite Teile des Karpatenbogens. Das Land beherbergt etwa 40 Prozent der gesamten europäischen Bärenpopulation außerhalb Russlands. Diese Allesfresser können bis zu 350 Kilogramm wiegen und ziehen sich im Winter zur Winterruhe in Höhlen zurück. Trotz ihrer Größe sind sie geschickte Kletterer und können beim Laufen Geschwindigkeiten von bis zu 50 Kilometern pro Stunde erreichen.",
+      hu: "A barna medve Románia legnagyobb ragadozója, amely a Kárpátok hatalmas erdőségeiben él. Az országban található az európai medveállomány körülbelül 40 százaléka Oroszországon kívül. Ezek a mindenevők akár 350 kilogrammot is nyomhatnak, és télen barlangokba vonulnak pihenni. Méretük ellenére kiválóan másznak fára és rövid távon akár 50 kilométer per órás sebességgel is képesek futni.",
+      ro: "Ursul brun este cel mai mare prădător din România, munții Carpați adăpostind aproximativ 40 la sută din populația europeană a acestei specii. Aceste mamifere omnivore pot atinge o greutate de până la 350 de kilograme și intră în hibernare pe parcursul iernii în bârloguri retrase. Deși par greoi, urșii sunt excelenți înotători și pot atinge viteze de 50 km/h în alergare. Conservarea habitatului lor este esențială pentru echilibrul ecosistemului montan.",
+      en: "The brown bear is the largest predator in Romania, with the Carpathian Mountains hosting approximately 40 percent of the total European population outside Russia. These omnivorous mammals can weigh up to 350 kilograms and spend the winter months hibernating in secluded dens. Despite their bulky appearance, they are skilled swimmers and can reach speeds of 50 km/h when running. Protecting their habitat is crucial for the ecological balance of the mountains.",
+    },
+    factsAdvanced: {
+      de: ["Über 6000 Exemplare in Rumänien", "Gewicht bis zu 350 kg", "Geschwindigkeit bis zu 50 km/h", "Lebenserwartung 25-30 Jahre", "Winterschlaf dauert 3-5 Monate", "Allesfresser (Beeren bis Fleisch)"],
+      hu: ["Több mint 6000 egyed Romániában", "Testsúlya elérheti a 350 kg-ot", "Futási sebessége 50 km/h", "Élettartama 25-30 év", "Téli álom hossza 3-5 hónap", "Mindenevő életmód"],
+      ro: ["Peste 6000 de exemplare în RO", "Greutate de până la 350 kg", "Viteză de alergare 50 km/h", "Speranță de viață 25-30 ani", "Hibernare timp de 3-5 luni", "Regim alimentar omnivor"],
+      en: ["Over 6000 bears in Romania", "Weight up to 350 kg", "Running speed up to 50 km/h", "Lifespan of 25-30 years", "Hibernation lasts 3-5 months", "Omnivorous diet"],
+    },
   },
   {
     id: "wild-rasul", type: "animal-habitat", parent: "RO-NT", coords: [26.0, 47.0],
     name: { ro: "Râsul (Lynx)", en: "Carpathian Lynx", hu: "Kárpáti hiúz", de: "Karpatenluchs" },
     description: { ro: "Cea mai mare felină sălbatică din Europa.", en: "The largest wild feline in Europe.", hu: "Európa legnagyobb vadmacskája.", de: "Die größte Wildkatze in Europa." },
     facts: { ro: ["Trăiește în păduri dese."], en: ["Lives in dense forests."], hu: ["Sűrű erdőkben él."], de: ["Lebt in dichten Wäldern."] },
-    image: "/geo-images/romania/wild-rasul.webp"
+    image: "/geo-images/romania/wild-rasul.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Eurasische Luchs ist die größte Wildkatze Europas und ein Symbol für die unberührte Natur der Karpaten. Diese scheuen Einzelgänger sind hauptsächlich dämmerungs- und nachtaktiv und ernähren sich vorwiegend von Rehen und Gämsen. Ihre markantesten Merkmale sind die schwarzen Haarpinsel an den Ohren und der kurze Stummelschwanz. Dank ihrer breiten Pfoten können sie sich im Winter mühelos durch tiefen Schnee bewegen.",
+      hu: "Az eurázsiai hiúz Európa legnagyobb macskaféle ragadozója, a Kárpátok érintetlen természetének szimbóluma. Ez a félénk, magányos vadász főként szürkületkor és éjszaka aktív, zsákmányát pedig leginkább őzek és zergék alkotják. Legjellegzetesebb vonásai a fülein található fekete szőrpamacsok és a rövid, csonka farok. Széles mancsaiknak köszönhetően télen is könnyedén mozognak a mély hóban.",
+      ro: "Râsul carpatin este cea mai mare felină din Europa și un simbol al pădurilor virgine din munții noștri. Aceste animale solitare sunt extrem de discrete, fiind active mai ales în amurg și pe parcursul nopții. Se hrănesc în special cu căprioare și capre negre, având un rol vital în reglarea populațiilor de erbivore. Trăsăturile lor distinctive sunt smocurile negre de fire de păr de la urechi și coada scurtă, cu vârful negru.",
+      en: "The Eurasian lynx is the largest wild cat in Europe and a symbol of the pristine Carpathian forests. These solitary and elusive predators are primarily active at dusk and during the night, preying mostly on roe deer and chamois. Their most distinctive features are the black tufts of hair on their ears and their short, bobbed tails. Thanks to their wide paws, they can move effortlessly through deep snow during the winter months.",
+    },
+    factsAdvanced: {
+      de: ["Größte Raubkatze Europas", "Über 1500 Tiere in Rumänien", "Ohrpinsel verstärken das Gehör", "Sehkraft bei Nacht exzellent", "Reviergröße bis zu 400 km²", "Kurzer Schwanz unter 25 cm"],
+      hu: ["Európa legnagyobb macskaféléje", "Több mint 1500 egyed Romániában", "Hallását segítő szőrpamacsok", "Kiváló éjszakai látás", "Akár 400 km²-es vadászterület", "Rövid, 25 cm alatti farok"],
+      ro: ["Cea mai mare felină din Europa", "Peste 1500 exemplare în România", "Smocuri de păr pentru auz fin", "Vedere nocturnă excelentă", "Teritoriu de până la 400 km²", "Coadă scurtă sub 25 cm"],
+      en: ["Europe's largest wild cat", "Over 1500 individuals in RO", "Ear tufts help with hearing", "Excellent night vision", "Territory up to 400 sq km", "Short tail under 25 cm"],
+    },
   },
   {
     id: "wild-zimbrul", type: "animal-habitat", parent: "RO-NT", coords: [26.2, 47.2],
     name: { ro: "Zimbrul European", en: "European Bison", hu: "Európai bölény", de: "Wisent" },
     description: { ro: "Cel mai mare mamifer terestru din Europa, reintrodus în natură.", en: "The largest land mammal in Europe, reintroduced.", hu: "Európa legnagyobb szárazföldi emlőse, visszatelepítve.", de: "Das größte Landsäugetier Europas, wieder eingeführt." },
     facts: { ro: ["Prezent în rezervații precum Vânători-Neamț."], en: ["Present in reserves like Vânători-Neamț."], hu: ["Vânători-Neamț rezervátumában él."], de: ["Präsent im Reservat Vânători-Neamț."] },
-    image: "/geo-images/romania/wild-zimbrul.webp"
+    image: "/geo-images/romania/wild-zimbrul.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Wisent ist das schwerste Landsäugetier Europas und war in freier Wildbahn fast vollständig ausgerottet. In Rumänien wurde er erfolgreich in Schutzgebieten wie Vânători Neamț und im Țarcu-Gebirge wieder angesiedelt. Diese massiven Tiere leben in Herden und bevorzugen Laub- und Mischwälder als Lebensraum. Ein ausgewachsener Bulle kann ein Gewicht von bis zu 900 Kilogramm erreichen und besitzt ein dichtes, dunkelbraunes Fell.",
+      hu: "Az európai bölény a kontinens legnagyobb testű szárazföldi emlőse, amely a vadonban majdnem teljesen kipusztult. Romániában sikeresen telepítették vissza olyan természetvédelmi területekre, mint a Neamț-i rezervátum vagy a Szárkő-hegység. Ezek a hatalmas állatok csordákban élnek, és leginkább a lombhullató erdőket kedvelik. Egy kifejlett bika súlya elérheti a 900 kilogrammot, testét pedig sűrű, sötétbarna szőrzet borítja.",
+      ro: "Zimbrul este cel mai mare mamifer terestru din Europa, fiind salvat de la dispariție prin programe stricte de conservare. În România, specia a fost reintrodusă cu succes în rezervații precum Vânători Neamț și în Munții Țarcu. Aceste animale masive trăiesc în turme și preferă pădurile foioase sau mixte. Un mascul adult poate cântări până la 900 de kilograme, având un aspect impunător datorită coamei dese și înălțimii umerilor.",
+      en: "The European bison is the largest land mammal on the continent and was once nearly extinct in the wild. In Romania, the species has been successfully reintroduced in protected areas like Vânători Neamț and the Țarcu Mountains. These massive animals live in herds and prefer deciduous or mixed forests as their habitat. An adult bull can weigh up to 900 kilograms, standing out due to its thick mane and impressive shoulder height.",
+    },
+    factsAdvanced: {
+      de: ["Gewicht bis zu 900 kg", "Wiederansiedlung seit 1958", "Größtes Landsäugetier Europas", "Tragzeit beträgt 9 Monate", "Tägliche Futtermenge ca. 50 kg", "Lebenserwartung bis 25 Jahre"],
+      hu: ["Súlya akár 900 kg is lehet", "Visszatelepítés 1958 óta", "Európa legnagyobb emlőse", "9 hónapos vemhességi idő", "Napi 50 kg növényi táplálék", "Élettartama akár 25 év"],
+      ro: ["Greutate de până la 900 kg", "Reintrodus în RO din 1958", "Cel mai mare mamifer european", "Gestație de aproximativ 9 luni", "Consumă zilnic 50 kg de hrană", "Trăiește până la 25 de ani"],
+      en: ["Weight up to 900 kg", "Reintroduced in RO since 1958", "Largest European land mammal", "Gestation period of 9 months", "Consumes 50 kg of food daily", "Lifespan of up to 25 years"],
+    },
   },
   {
     id: "wild-vidra", type: "animal-habitat", parent: "RO-TL", coords: [29.0, 45.0],
     name: { ro: "Vidra", en: "Eurasian Otter", hu: "Vidra", de: "Fischotter" },
     description: { ro: "Mamifer acvatic întâlnit în Delta Dunării și râuri.", en: "Aquatic mammal found in the Danube Delta and rivers.", hu: "A Duna-deltában és a folyókban élő vízi emlős.", de: "Wassersäugetier, das im Donaudelta und in Flüssen vorkommt." },
     facts: { ro: ["Este un indicator al calității apei."], en: ["It is an indicator of water quality."], hu: ["A vízminőség indikátora."], de: ["Es ist ein Indikator für die Wasserqualität."] },
-    image: "/geo-images/romania/eurasian-otter.webp"
+    image: "/geo-images/romania/eurasian-otter.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Eurasische Fischotter ist ein geschickter Jäger, der perfekt an das Leben im Wasser angepasst ist. Er bewohnt saubere Flüsse, Seen und Sümpfe, wo er sich hauptsächlich von Fischen, Krebsen und Amphibien ernährt. Sein dichtes, wasserabweisendes Fell schützt ihn vor Kälte und Feuchtigkeit. In Rumänien ist die Otterpopulation in den Karpaten und im Donaudelta noch relativ stabil, da sie saubere Gewässer als Lebensraum benötigen.",
+      hu: "Az európai vidra kiváló vadász, amely tökéletesen alkalmazkodott a vízi életmódhoz. Tiszta folyók, tavak és mocsarak mentén él, ahol főként halakkal, rákokkal és kétéltűekkel táplálkozik. Sűrű, vízlepergető szőrzete megvédi a hidegtől és a nedvességtől a merülések során. Romániában a Kárpátokban és a Duna-deltában még stabil az állománya, mivel ezek a területek biztosítják a tiszta életteret számukra.",
+      ro: "Vidra de râu este un mamifer semi-acvatic extrem de abil, fiind un indicator excelent al calității apei. Preferă cursurile de apă curate, lacurile și mlaștinile unde vânează pești, amfibieni și crustacee. Blana sa densă și impermeabilă are până la 50.000 de peri pe centimetru pătrat, oferindu-i izolație termică perfectă. În România, vidra este protejată prin lege, fiind prezentă atât în zonele montane, cât și în Delta Dunării.",
+      en: "The Eurasian otter is a highly skilled semi-aquatic mammal and an excellent indicator of water quality. It prefers clean rivers, lakes, and marshes where it hunts fish, amphibians, and crustaceans. Its dense, waterproof fur has up to 50,000 hairs per square centimeter, providing perfect thermal insulation during dives. In Romania, the otter is a protected species found in both mountainous regions and the Danube Delta.",
+    },
+    factsAdvanced: {
+      de: ["50.000 Haare pro cm² Fell", "Tauchtiefe bis zu 15 Meter", "Frisst täglich 15% des Eigengewichts", "Lebt in Erdbauen am Ufer", "Nachtaktiver Einzelgänger", "Sehr gute Schwimmfüße"],
+      hu: ["50.000 szőrszál cm²-enként", "Akár 15 méter mélyre merül", "Testsúlya 15%-át eszi naponta", "Vízparti kotorékokban él", "Éjszakai életmódot folytat", "Úszóhártyás lábak"],
+      ro: ["50.000 de peri pe cm²", "Se scufundă până la 15 metri", "Mănâncă 15% din greutate zilnic", "Locuiește în vizuini pe mal", "Animal nocturn și solitar", "Picioare cu membrană înotătoare"],
+      en: ["50,000 hairs per sq cm", "Dives up to 15 meters deep", "Eats 15% of body weight daily", "Lives in riverside burrows", "Nocturnal and solitary animal", "Webbed feet for swimming"],
+    },
   },
   {
     id: "wild-pelicanul", type: "animal-habitat", parent: "RO-TL", coords: [29.4, 44.9],
     name: { ro: "Pelicanul", en: "Pelican", hu: "Pelikán", de: "Pelikan" },
     description: { ro: "Delta Dunării găzduiește cele mai mari colonii de pelicani.", en: "The Danube Delta hosts the largest colonies of pelicans.", hu: "A Duna-delta a legnagyobb pelikánkolóniáknak ad otthont.", de: "Das Donaudelta beherbergt die größten Pelikankolonien." },
     facts: { ro: ["Pelicanul comun și creț sunt prezenți."], en: ["Great white and Dalmatian pelicans are present."], hu: ["Rózsás és borzas gödény egyaránt jelen van."], de: ["Rosapelikan und Krauskopfpelikan sind vertreten."] },
-    image: "/geo-images/romania/pelican.webp"
+    image: "/geo-images/romania/pelican.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Donaudelta ist die Heimat der größten Pelikankolonien Europas, darunter der Rosapelikan und der seltene Krauskopf-Pelikan. Diese großen Wasservögel sind für ihren riesigen Kehlsack bekannt, den sie wie ein Netz zum Fangen von Fischen verwenden. Mit einer Flügelspannweite von bis zu drei Metern sind sie beeindruckende Segelflieger. Sie brüten in abgelegenen, schilfreichen Gebieten und ziehen im Winter in wärmere Regionen Afrikas oder Asiens.",
+      hu: "A Duna-delta ad otthont Európa legnagyobb pelikánkolóniáinak, köztük a rózsás és a ritka borzas gödénynek. Ezek a hatalmas vízimadarak a csőrük alatt található táguló torokzsákról ismertek, amelyet merítőhálóként használnak halászat közben. Szárnyfesztávolságuk elérheti a három métert, amivel fenséges látványt nyújtanak repülés közben. A nádasok mélyén fészkelnek, és télire Afrika vagy Ázsia melegebb vidékeire vonulnak.",
+      ro: "Delta Dunării găzduiește cele mai mari colonii de pelicani din Europa, reprezentate de pelicanul comun și pelicanul creț. Aceste păsări acvatice masive sunt celebre pentru punga gulară extensibilă, utilizată ca un mincioc pentru prinderea peștilor. Cu o anvergură a aripilor de aproape trei metri, pelicanii sunt zburători excelenți pe distanțe lungi. Sunt păsări migratoare care cuibăresc în zone izolate din deltă și iernează în Africa sau Asia.",
+      en: "The Danube Delta is home to Europe's largest pelican colonies, including the Great White Pelican and the rare Dalmatian Pelican. These massive water birds are famous for their expandable throat pouch, used like a net to catch fish. With a wingspan of nearly three meters, pelicans are magnificent gliders over long distances. They are migratory birds that nest in secluded reed beds within the delta and winter in Africa or Asia.",
+    },
+    factsAdvanced: {
+      de: ["Flügelspannweite bis zu 3 Meter", "Kehlsack fasst bis zu 12 Liter", "Brutkolonie Roșca-Buhaiova", "Fischbedarf 1-2 kg täglich", "Fliegen in V-Formation", "Pelikan creț ist weltweit gefährdet"],
+      hu: ["Akár 3 méteres szárnyfesztáv", "12 literes torokzsák kapacitás", "Roșca-Buhaiova fészkelőhely", "Napi 1-2 kg halat fogyaszt", "V-alakzatban repülnek", "A borzas gödény veszélyeztetett"],
+      ro: ["Anvergură aripi de până la 3m", "Punga gulară reține 12 litri", "Colonia de la Roșca-Buhaiova", "Consumă 1-2 kg pește zilnic", "Zbor în formație litera V", "Pelicanul creț este specie rară"],
+      en: ["Wingspan up to 3 meters", "Pouch holds up to 12 liters", "Roșca-Buhaiova nesting site", "Eats 1-2 kg of fish daily", "Flight in V-formation", "Dalmatian pelican is very rare"],
+    },
   },
   {
     id: "wild-capra-neagra", type: "animal-habitat", parent: "RO-SB", coords: [24.6, 45.6],
     name: { ro: "Capra Neagră", en: "Chamois", hu: "Zerge", de: "Gämse" },
     description: { ro: "Se găsește pe crestele stâncoase ale Carpaților.", en: "Found on the rocky ridges of the Carpathians.", hu: "A Kárpátok sziklás gerincein található.", de: "Zu finden auf den felsigen Kämmen der Karpaten." },
     facts: { ro: ["Adaptat la mediul alpin."], en: ["Adapted to the alpine environment."], hu: ["Alpesi környezethez alkalmazkodott."], de: ["An die alpine Umgebung angepasst."] },
-    image: "/geo-images/romania/wild-capra-neagra.webp"
+    image: "/geo-images/romania/wild-capra-neagra.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Gämse ist ein perfekt an das Hochgebirge angepasster Kletterkünstler, der in den steilsten Felsregionen der Karpaten lebt. Dank ihrer beweglichen Hufe mit Gummisohlen-Effekt finden sie selbst auf glattem Fels sicheren Halt. Im Sommer hat ihr Fell eine hellbraune Farbe, während es im Winter fast schwarz und deutlich dicker wird. Männchen und Weibchen tragen gleichermaßen die charakteristischen, nach hinten gebogenen Hörner.",
+      hu: "A zerge a magashegyi életmódhoz tökéletesen alkalmazkodott sziklamászó, amely a Kárpátok legmeredekebb régióiban él. Mozgékony, gumiszerű talpú patáiknak köszönhetően még a legsimább sziklákon is biztosan állnak. Nyáron szőrzetük világosbarna, míg télre majdnem feketévé és jóval sűrűbbé válik. Mind a hímek, mind a nőstények jellegzetes, hátrafelé hajló szarvakat viselnek, amelyeket kampónak is neveznek.",
+      ro: "Capra neagră este un acrobat desăvârșit al înălțimilor, trăind în zonele stâncoase și alpine ale Carpaților. Copitele sale au o structură specială care îi permite să adere pe suprafețe extrem de înclinate și alunecoase. În timpul verii, blana are o nuanță brun-roșcată, devenind neagră și groasă pe timpul iernii pentru izolare. Ambele sexe posedă coarne scurte, îndoite spre înapoi sub formă de cârlig, folosite pentru apărare.",
+      en: "The chamois is a master acrobat of the heights, living in the rocky and alpine zones of the Carpathians. Its hooves have a unique structure that provides excellent grip on extremely steep and slippery surfaces. During summer, its coat is reddish-brown, turning black and thick in winter for insulation. Both males and females possess short horns hooked backwards, which they use for defense against predators.",
+    },
+    factsAdvanced: {
+      de: ["Sprünge bis zu 6 Meter weit", "Hörner werden bis zu 25 cm lang", "Lebt in Höhen bis 2500 Meter", "Hufe mit weichem Innenkern", "Alter an Hornringen erkennbar", "Hält sich in kleinen Rudeln auf"],
+      hu: ["Akár 6 méteres ugrások", "A szarv hossza elérheti a 25 cm-t", "2500 méteres magasságig él", "Rugalmas belső talpszerkezet", "Kora a szarvgyűrűkből látszik", "Kisebb csapatokban él"],
+      ro: ["Sărituri de până la 6 metri", "Coarne de până la 25 cm", "Trăiește la peste 2500 m", "Copite cu talpă elastică", "Vârsta se află după inele", "Trăiește în grupuri mici (cârduri)"],
+      en: ["Jumps up to 6 meters far", "Horns reach up to 25 cm", "Lives above 2500 meters", "Hooves with elastic pads", "Age determined by horn rings", "Lives in small groups (herds)"],
+    },
   },
   {
     id: "wild-sturionul", type: "animal-habitat", parent: "RO-TL", coords: [29.6, 45.1],
     name: { ro: "Sturionii", en: "Sturgeons", hu: "Tokhalak", de: "Störe" },
     description: { ro: "Pești preistorici care migrează din Marea Neagră în Dunăre.", en: "Prehistoric fish that migrate from the Black Sea to the Danube.", hu: "Őskori halak, amelyek a Fekete-tengerből a Dunába vándorolnak.", de: "Prähistorische Fische, die vom Schwarzen Meer in die Donau wandern." },
     facts: { ro: ["Produc faimosul caviar."], en: ["Produce the famous caviar."], hu: ["A híres kaviárt adják."], de: ["Produzieren den berühmten Kaviar."] },
-    image: "/geo-images/romania/sturgeons.webp"
+    image: "/geo-images/romania/sturgeons.webp",
+  
+    descriptionAdvanced: {
+      de: "Störe sind lebende Fossilien, die seit über 200 Millionen Jahren die Gewässer der Erde bewohnen. Die Donau ist einer der letzten Orte weltweit, an dem diese Wanderfische noch natürlich vorkommen, um zum Laichen stromaufwärts zu ziehen. Zu den bekanntesten Arten gehört der Hausen, der bis zu sieben Meter lang werden kann. Wegen ihres begehrten Kaviars und des Verlusts von Lebensräumen sind fast alle Störarten heute kritisch vom Aussterben bedroht.",
+      hu: "A tokfélék élő kövületek, amelyek már több mint 200 millió éve népesítik be a Föld vizeit. A Duna az egyik utolsó hely a világon, ahol ezek a vándorhalak még természetes módon fordulnak elő az ívási időszakban. Legismertebb fajuk a viza, amely akár hét méter hosszúra is megnőhet. Értékes ikrájuk (kaviár) és az élőhelyük elvesztése miatt ma már szinte minden tokféle a kihalás szélén áll és szigorú védelem alatt van.",
+      ro: "Sturionii sunt fosile vii, existând pe Pământ de peste 200 de milioane de ani, încă de pe vremea dinozaurilor. Dunărea este unul dintre ultimele locuri din lume unde acești pești migratori mai pot fi găsiți în stare sălbatică. Specia cea mai impresionantă este morunul, care poate depăși lungimea de 7 metri și greutatea de o tonă. Din cauza pescuitului excesiv pentru caviar și a barajelor, toate speciile de sturioni sunt acum strict protejate.",
+      en: "Sturgeons are living fossils that have existed on Earth for over 200 million years, since the time of the dinosaurs. The Danube is one of the last places in the world where these migratory fish can still be found in the wild. The most impressive species is the beluga sturgeon, which can exceed 7 meters in length and weigh over a ton. Due to overfishing for caviar and habitat loss, all sturgeon species are now strictly protected worldwide.",
+    },
+    factsAdvanced: {
+      de: ["Überlebt seit 200 Mio. Jahren", "Hausen wird bis zu 7m lang", "Wanderfisch (Meer zu Fluss)", "Liefert den echten Kaviar", "Parenthood erst nach 15 Jahren", "Knochenplatten statt Schuppen"],
+      hu: ["200 millió éve létező faj", "A viza akár 7 méteresre nő", "Vándorhal (tengerből folyóba)", "Valódi kaviár forrása", "Ivarérettség 15 év után", "Pikkelyek helyett csontpajzsok"],
+      ro: ["Există de 200 mil. de ani", "Morunul atinge și 7m lungime", "Pește migrator (mare la râu)", "Sursă pentru caviarul veritabil", "Maturitate după 15-20 de ani", "Scuturi osoase în loc de solzi"],
+      en: ["Existing for 200 million years", "Beluga reaches 7m in length", "Migratory fish (sea to river)", "Source of genuine caviar", "Maturity reached after 15 years", "Bony plates instead of scales"],
+    },
   },
   {
     id: "wild-marmota", type: "animal-habitat", parent: "RO-BV", coords: [24.7, 45.6],
     name: { ro: "Marmota", en: "Marmot", hu: "Marmota", de: "Murmeltier" },
     description: { ro: "Rozător specific zonelor alpine din Făgăraș și Retezat.", en: "Rodent specific to the alpine areas of Făgăraș and Retezat.", hu: "A Fogarasi-havasok és a Retyezát alpesi övezetének jellemző rágcsálója.", de: "Nagetier der alpinen Zonen von Făgăraș und Retezat." },
     facts: { ro: ["Hibernează în timpul iernii."], en: ["Hibernates during winter."], hu: ["Télen téli álmot alszik."], de: ["Hält Winterschlaf."] },
-    image: "/geo-images/romania/wild-marmota.webp"
+    image: "/geo-images/romania/wild-marmota.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Alpenmurmeltier bewohnt die alpinen Matten der Karpaten oberhalb der Baumgrenze, besonders im Retezat- und Fagaras-Gebirge. Diese geselligen Nagetiere leben in komplexen unterirdischen Bausystemen, die sie über Generationen hinweg erweitern. Bei Gefahr warnen sie ihre Artgenossen durch gellende Pfiffe vor Adlern oder Füchsen. Den Winter verbringen sie in einem sechs- bis siebenmonatigen Winterschlaf, bei dem ihre Körpertemperatur drastisch sinkt.",
+      hu: "A havasi mormota a Kárpátok erdőhatár feletti alpesi rétjein él, különösen a Retyezát- és Fogarasi-havasokban. Ezek a társas rágcsálók bonyolult föld alatti járatrendszerekben laknak, amelyeket generációkon keresztül bővítenek. Veszély esetén, például sas vagy róka közeledtekor, éles füttyel riasztják társaikat. A telet hat-hét hónapos téli álomban töltik, amely során testhőmérsékletük drasztikusan lecsökken.",
+      ro: "Marmota alpină trăiește în zonele înalte ale Carpaților, peste limita pădurilor, fiind reintrodusă cu succes în masivele Retezat și Făgăraș. Aceste rozătoare sociale trăiesc în colonii și construiesc sisteme complexe de galerii subterane. Când simt un pericol, cum ar fi un vultur, marmotele scot un fluierat ascuțit pentru a avertiza restul grupului. Iarna, ele hibernează timp de 6-7 luni, metabolismul lor încetinind semnificativ.",
+      en: "The alpine marmot lives in the high-altitude meadows of the Carpathians, above the tree line, notably in the Retezat and Făgăraș mountains. These social rodents live in colonies and construct complex underground tunnel systems. When sensing danger, such as an eagle or a fox, marmots emit a sharp whistle to warn the rest of the group. During winter, they hibernate for 6 to 7 months, with their metabolism slowing down significantly.",
+    },
+    factsAdvanced: {
+      de: ["Winterschlaf bis zu 7 Monate", "Körpertemperatur sinkt auf 5°C", "Warnpfiff bei Gefahr", "Lebt in Kolonien (Familien)", "Erwachsene wiegen bis zu 8 kg", "Bauen sind bis zu 3m tief"],
+      hu: ["Akár 7 hónapos téli álom", "Testhőmérséklet 5°C-ra esik", "Éles riasztófütty veszélykor", "Kolóniákban (családban) él", "Súlya akár 8 kg is lehet", "3 méter mély járatok"],
+      ro: ["Hibernare de până la 7 luni", "Temperatura corpului scade la 5°C", "Fluierat de alarmă specific", "Trăiește în colonii familiale", "Greutate de până la 8 kg", "Galerii adânci de până la 3m"],
+      en: ["Hibernation up to 7 months", "Body temp drops to 5°C", "Sharp warning whistle", "Lives in family colonies", "Adults weigh up to 8 kg", "Burrows up to 3m deep"],
+    },
   },
   {
     id: "wild-cocosul-de-munte", type: "animal-habitat", parent: "RO-SV", coords: [25.5, 47.4],
     name: { ro: "Cocoșul de Munte", en: "Western Capercaillie", hu: "Siketfajd", de: "Auerhuhn" },
     description: { ro: "Pasăre mare, specifică pădurilor de conifere.", en: "Large bird, specific to coniferous forests.", hu: "Nagytestű madár, tűlevelű erdőkben él.", de: "Großer Vogel, heimisch in Nadelwäldern." },
     facts: { ro: ["Renumit pentru dansul nupțial spectaculos."], en: ["Famous for its spectacular mating dance."], hu: ["Látványos násztáncáról híres."], de: ["Berühmt für seinen spektakulären Balztanz."] },
-    image: "/geo-images/romania/western-capercaillie.webp"
+    image: "/geo-images/romania/western-capercaillie.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Auerhahn ist der größte Hühnervogel Europas und bewohnt ungestörte Nadelwälder in den Hochlagen der Karpaten. Besonders bekannt ist er für sein spektakuläres Balzverhalten im Frühjahr, bei dem er charakteristische Klänge erzeugt und seine Schwanzfedern fächerartig aufstellt. Während der Hauptphase der Balz ist der Vogel für einige Sekunden taub, was ihm seinen Namen einbrachte. Sein Lebensraum schrumpft durch forstwirtschaftliche Nutzung und Störungen.",
+      hu: "A siketfajd Európa legnagyobb testű fajdféléje, amely a Kárpátok zavartalan fenyőerdőiben fészkel. Különösen ismert látványos tavaszi násztáncáról, amely során jellegzetes hangokat ad ki és legyezőszerűen szétteríti farktollait. A dürgés legintenzívebb szakaszában a madár néhány másodpercre elveszíti hallását, innen ered a neve is. Élettere a fakitermelés és az emberi zavarás miatt folyamatosan szűkül, ezért szigorúan védett.",
+      ro: "Cocoșul de munte este cea mai mare pasăre din familia tetraonidelor din Europa, trăind în pădurile de conifere liniștite din Carpați. Este renumit pentru ritualul său de curte (rotitul) din timpul primăverii, când scoate sunete specifice și își etalează coada în formă de evantai. În momentul culminant al cântecului, pasărea nu mai aude nimic timp de câteva secunde, de unde și numele său. Este o specie foarte sensibilă la perturbările umane.",
+      en: "The Western capercaillie is the largest member of the grouse family in Europe, inhabiting the quiet coniferous forests of the Carpathians. It is famous for its spectacular courtship display (lekking) in spring, during which it emits specific sounds and fans out its tail feathers. At the climax of its song, the bird becomes momentarily deaf for a few seconds, which gave it its common name. It is a species highly sensitive to human disturbances.",
+    },
+    factsAdvanced: {
+      de: ["Größter Hühnervogel Europas", "Gewicht Männchen bis 5 kg", "Kurze Taubheit während der Balz", "Bevorzugt Heidelbeersträucher", "Sehr scheuer Waldvogel", "Bestand in den Karpaten stabil"],
+      hu: ["Európa legnagyobb fajdféléje", "A hím súlya elérheti az 5 kg-ot", "Átmeneti süketség dürgéskor", "Áfonya a kedvenc tápláléka", "Nagyon félénk erdei madár", "Stabil állomány a Kárpátokban"],
+      ro: ["Cea mai mare tetraonidă", "Masculul cântărește 4-5 kg", "Surzenie scurtă în timpul rotitului", "Hrana preferată: afinele", "Pasăre de pădure foarte retrasă", "Populație stabilă în Carpați"],
+      en: ["Largest grouse in Europe", "Male weighs up to 5 kg", "Momentary deafness during lek", "Preferred food: blueberries", "Very shy woodland bird", "Stable population in Carpathians"],
+    },
   },
   {
     id: "wild-lupul", type: "animal-habitat", parent: "RO-HR", coords: [25.8, 46.5],
     name: { ro: "Lupul Carpatin", en: "Carpathian Wolf", hu: "Kárpáti farkas", de: "Karpatenwolf" },
     description: { ro: "România găzduiește una dintre cele mai mari populații de lupi din Europa.", en: "Romania hosts one of the largest wolf populations in Europe.", hu: "Romániában él Európa egyik legnagyobb farkaspopulációja.", de: "Rumänien beherbergt eine der größten Wolfspopulationen Europas." },
     facts: { ro: ["Trăiesc în haite bine organizate."], en: ["They live in well-organized packs."], hu: ["Jól szervezett falkákban élnek."], de: ["Sie leben in gut organisierten Rudeln."] },
-    image: "/geo-images/romania/carpathian-wolf.webp"
+    image: "/geo-images/romania/carpathian-wolf.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Wolf ist ein hochintelligentes Raubtier, das in den Karpaten eine seiner bedeutendsten Populationen in Europa besitzt. In Rumänien leben etwa 2500 bis 3000 Wölfe in sozialen Rudelstrukturen mit einer strengen Hierarchie. Sie spielen eine Schlüsselrolle im Ökosystem, indem sie die Bestände von Hirschen und Wildschweinen gesund halten. Trotz ihrer Verfolgung in der Vergangenheit sind sie heute streng geschützt und besiedeln zunehmend neue Reviere.",
+      hu: "A farkas rendkívül intelligens ragadozó, amelynek egyik legjelentősebb európai állománya a Kárpátokban él. Romániában körülbelül 2500-3000 farkas található, amelyek szigorú hierarchiájú falkákban élnek. Kulcsszerepet játszanak az ökoszisztémában, mivel szabályozzák a szarvas- és vaddisznóállományt, eltávolítva a beteg egyedeket. Bár a múltban üldözték őket, ma már szigorú védelem alatt állnak és fontos részei a vadonnak.",
+      ro: "Lupul este un prădător inteligent și social, munții Carpați adăpostind una dintre cele mai mari populații de lupi din Europa. În România trăiesc între 2500 și 3000 de exemplare, organizate în haite cu o ierarhie strictă condusă de perechea alfa. Aceștia au un rol sanitar esențial în natură, controlând populațiile de cerbi și mistreți. Deși în trecut au fost prigoniți, astăzi sunt protejați prin lege pentru menținerea biodiversității.",
+      en: "The wolf is a highly intelligent and social predator, with the Carpathian Mountains hosting one of the largest wolf populations in Europe. In Romania, between 2500 and 3000 individuals live in packs with a strict hierarchy led by an alpha pair. They play an essential 'sanitary' role in nature by controlling deer and wild boar populations. Although persecuted in the past, they are now protected by law to maintain ecological biodiversity.",
+    },
+    factsAdvanced: {
+      de: ["2500-3000 Wölfe in Rumänien", "Rudelgröße meist 4-10 Tiere", "Kann bis zu 60 km/h laufen", "Gehör bis auf 9 km Distanz", "Tragzeit beträgt 63 Tage", "Schlüsselrolle im Ökosystem"],
+      hu: ["2500-3000 farkas Romániában", "A falka 4-10 egyedből áll", "60 km/h futási sebesség", "Hallótávolság akár 9 km", "63 napos vemhességi idő", "Az ökoszisztéma kulcsfaja"],
+      ro: ["2500-3000 exemplare în RO", "Haita are 4-10 membri", "Viteză de până la 60 km/h", "Auz fin până la 9 km", "Gestație de 63 de zile", "Rol sanitar în ecosistem"],
+      en: ["2500-3000 wolves in Romania", "Pack size usually 4-10 members", "Can run up to 60 km/h", "Hearing range up to 9 km", "Gestation period of 63 days", "Keystone species in ecosystem"],
+    },
   }
 ];
 
@@ -3492,14 +5676,40 @@ export const romaniaExtraPois: POI[] = [
     name: { de: "Moneasa", hu: "Menyháza", ro: "Stațiunea Moneasa", en: "Moneasa Resort" },
     description: { de: "Bekannter Kurort.", hu: "Híres gyógyüdülőhely.", ro: "Stațiune balneoclimaterică cunoscută.", en: "Well-known spa resort." },
     facts: { de: [], hu: [], ro: ["Moneasa (în maghiară Menyháza) este satul de reședință al comunei cu același nume din județul Arad, Crișana, România."], en: ["Moneasa (Hungarian: Menyháza) is a commune in Arad County, Romania.", "Its administrative surface stretches over 6,824 hectares (16,860 acres) and it is composed of two villages, Moneasa and Rănușa (Kisróna)."] },
-    image: "/geo-images/romania/moneasa-resort.webp"
+    image: "/geo-images/romania/moneasa-resort.webp",
+  
+    descriptionAdvanced: {
+      de: "Moneasa ist ein bekannter Kurort im Kreis Arad, eingebettet in ein Tal des Codru-Moma-Gebirges. Der Ort ist berühmt für seine heilenden Thermalquellen mit Temperaturen zwischen 25 und 32 Grad Celsius, die reich an Kalzium und Magnesium sind. Neben den Kureinrichtungen bietet die Umgebung Sehenswürdigkeiten wie den roten Marmorsteinbruch und den herrlich gelegenen Seerosensee. Die frische Bergluft und das milde Klima machen den Ort zu einem idealen Erholungsziel.",
+      hu: "Menyháza (Moneasa) egy népszerű üdülőhely Arad megyében, a Bihar-hegység lábánál, a Kodru-Moma-hegyek egyik völgyében. A település híres gyógyhatású termálvizeiről, amelyek hőmérséklete 25-32 Celsius-fok között mozog, és kalciumban, magnéziumban gazdagok. A fürdőzés mellett a környék olyan látnivalókat kínál, mint a vörös márványbánya és a tündérrózsás tó. A tiszta hegyi levegő és a nyugodt környezet kiváló pihenőhellyé teszi.",
+      ro: "Moneasa este o stațiune balneoclimaterică renumită din județul Arad, situată într-o depresiune a Munților Codru-Moma. Localitatea este celebră pentru apele sale termale curative, cu temperaturi între 25 și 32 de grade Celsius, bogate în calciu și magneziu. Pe lângă tratamentele balneare, vizitatorii pot explora cariera de marmură roșie și lacul cu nuferi. Aerul ionizat și climatul blând fac din Moneasa o destinație ideală pentru relaxare și refacere.",
+      en: "Moneasa is a renowned spa resort in Arad County, nestled in a valley of the Codru-Moma Mountains. The town is famous for its healing thermal springs, with temperatures ranging between 25 and 32 degrees Celsius, rich in calcium and magnesium. Besides the spa treatments, visitors can explore the unique red marble quarry and the lily pad lake. The ionized mountain air and mild climate make Moneasa an ideal destination for relaxation and recovery.",
+    },
+    factsAdvanced: {
+      de: ["Wassertemperatur 25-32°C", "Bekannt für roten Marmor", "Höhe 280 Meter über Meer", "Thermalquellen seit 1886 genutzt", "Heilt rheumatische Erkrankungen", "Eingebettet in Codru-Moma"],
+      hu: ["25-32°C-os vízhőmérséklet", "Híres vörös márványbánya", "280 méteres tengerszint feletti magasság", "Gyógyvíz hasznosítása 1886-tól", "Reumás panaszok kezelése", "Kodru-Moma hegység völgyében"],
+      ro: ["Temperatură apă 25-32°C", "Carieră de marmură roșie", "Altitudine de 280 metri", "Băi termale atestate din 1886", "Tratează afecțiuni reumatice", "Situată în Munții Codru-Moma"],
+      en: ["Water temp 25-32°C", "Famous for red marble quarry", "Elevation 280 meters", "Thermal baths used since 1886", "Treats rheumatic conditions", "Located in Codru-Moma Mountains"],
+    },
   },
   {
     id: "ro-poi-cetatea-siria", type: "historical", parent: "RO-AR", coords: [21.6333, 46.2667],
     name: { de: "Burg Șiria", hu: "Világosvári vár", ro: "Cetatea Șiria", en: "Șiria Fortress" },
     description: { de: "Ruinen einer mittelalterlichen Burg.", hu: "Egy középkori vár romjai.", ro: "Ruinele unei cetăți medievale.", en: "Ruins of a medieval fortress." },
     facts: { de: ["Diese Liste führt (noch unvollständig) Burgen, Festungen, Kirchenburgen, Schlösser und Wehrklöster in Rumänien auf.", "Marienburg, Feldioara (Marienberg), Kreis Brașov Zitadelle Alba Carolina, Alba Iulia (Karlsburg), Kreis Alba Alexandru-Ghica-Palast, Moara Vlăsiei-Căciulați, Kreis Ilfov Festung Arad, Arad, Kreis Arad Schloss Bánffy, Bonțida (Bruck), Kreis Cluj Burg Bethlen-Haller, Cetatea de Baltă Schloss Bran, Bran (Törzburg), Kreis Brașov Brukenthal’sche Sommerresidenz, Avrig (Freck), Kreis Sibiu Schloss Csernovics, Macea (Matscha), Kreis Arad Cetatea Tricule, Svinița, Kreis Mehedinți am Ufer der Donau Chindia-Turm, Târgoviște, Kreis Dâmbovița Burgruine Colț, Râu de Mori (Mühlendorf), Kreis Hunedoara Schloss Cotroceni, Bukarest Burgruine Deva, Deva, Kreis Hunedoara Burg Făgăraș, Făgăraș (Fogarasch), Kreis Brașov Fürstenhof Târgoviște (Curtea Domnească), Târgoviște, Kreis Dâmbovița Schloss Gilău, Gilău (Gela), Kreis Cluj Burg Hunedoara, Hunedoara (Eisenmarkt), Kreis Hunedoara Schloss Hunyadi, Timișoara (Temeswar), Kreis Timiș Burg Kelling (Festung Câlnic), Câlnic (dt.", "Kelling) Schloss Kendeffy, Sântămăria-Orlea (Liebfrauen), Kreis Hunedoara Burg Lazar (Castelul Lazar), Lăzarea, Kreis Harghita Burg Mălăieşti (auch Burg Saracinesti, rumänisch Cetatea Mălăieşti (Saracinesti)), Sălașu de Sus-Mălăieşti Burg Mikó (Castelul Mikó), Miercurea Ciuc, Kreis Harghita Schloss Mogoșoaia, Bukarest Burg Neamț, Târgu Neamț, Kreis Neamț Schloss Peleș, Sinaia, Kreis Prahova Schloss Pelișor, Sinaia, Kreis Prahova Burg Poenari, Arefu, Kreis Argeș Bauernburg Râșnov, Râșnov (Rosenau), Kreis Brașov Burg Rupea, Rupea (Reps), Kreis Brașov Burgruine Saschiz, Saschiz (Keisd), Kreis Mureș Schloss Săvârșin, Săvârșin (Soborschin), Kreis Arad Burgruine Schwarzburg (Cetatea Neagra; auch: castrum Feketewholum), Codlea (Zeiden), auf dem Zeidner Berg Burg Suceava, Suceava (Suczawa), Kreis Suceava Burg Sighișoara (lat."], hu: ["Szucsáva, régi magyar nevén Szőcsvásár(románul Suceava, lengyelül Suczawa, ukránul Сучава, jiddisül שאָץ) nagyváros Romániában, Suceava megye központja.", "1388 és 1565 között Szucsáva volt az első központosított moldvai állam fővárosa."], ro: ["Cetatea Șiria este o cetate monumente istoric (cod LMI AR-II-a-A-00650), datând din secolul al XIII-lea, zidită pe Dealul Cetății (496 m), de unde domină regiunea din jurul localității Șiria."], en: ["This is a list of castles and fortresses declared historic monuments by Romania's Ministry of Culture."] },
-    image: "/geo-images/romania/siria-fortress.webp"
+    image: "/geo-images/romania/siria-fortress.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Festung Șiria liegt auf einem 496 Meter hohen Hügel über der gleichnamigen Ortschaft und stammt aus dem 13. Jahrhundert. In ihrer Geschichte diente sie als strategischer Kontrollpunkt für den Zugang nach Siebenbürgen und gehörte zeitweise dem ungarischen König oder Johann Hunyadi. Die Anlage wurde 1784 von der kaiserlich-österreichischen Armee zerstört, um ihre Nutzung durch Aufständische zu verhindern. Heute bieten die Ruinen einen spektakulären Panoramablick über die Arader Ebene.",
+      hu: "Világos vára (Șiria) egy 496 méter magas dombon található az azonos nevű település felett, és a 13. században épült. Története során stratégiai ellenőrző pontként szolgált Erdély kapujában, és egy ideig a magyar király, majd Hunyadi János tulajdonában is volt. A várat 1784-ben a császári osztrák sereg rombolta le ágyúkkal, hogy ne használhassák a felkelők. Napjainkban a romok lenyűgöző panorámát nyújtanak az Aradi-síkságra.",
+      ro: "Cetatea Șiriei, situată pe un deal de 496 de metri altitudine, este o fortificație medievală datând din secolul al XIII-lea. De-a lungul istoriei, a avut un rol strategic major în controlul accesului spre Transilvania, fiind stăpânită de regi maghiari și de Iancu de Hunedoara. Cetatea a fost distrusă în anul 1784 de către trupele austriece pentru a nu mai putea servi drept refugiu răsculaților. Astăzi, ruinele oferă o panoramă spectaculoasă asupra Câmpiei Aradului.",
+      en: "Șiria Fortress, located on a 496-meter-high hill, is a medieval fortification dating back to the 13th century. Throughout history, it played a major strategic role in controlling access to Transylvania, being owned by Hungarian kings and John Hunyadi. The fortress was destroyed in 1784 by Austrian imperial troops to prevent its use by insurgents. Today, the ruins offer a spectacular panoramic view over the Arad Plain and are a popular spot for hikers.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im 13. Jahrhundert", "Hügelhöhe 496 Meter", "Zerstört im Jahr 1784", "Besitz von Johann Hunyadi", "Kontrollierte Weg nach Siebenbürgen", "Ruinen frei zugänglich"],
+      hu: ["13. században épült", "Domb magassága 496 méter", "Lerombolva 1784-ben", "Hunyadi János birtoka volt", "Erdélyi utak felügyelője", "Ingyenesen látogatható romok"],
+      ro: ["Construită în sec. XIII", "Altitudinea dealului: 496m", "Distrusă în anul 1784", "Stăpânită de Iancu de Hunedoara", "Controla drumul spre Transilvania", "Ruine accesibile turiștilor"],
+      en: ["Built in the 13th century", "Hill altitude 496 meters", "Destroyed in 1784", "Owned by John Hunyadi", "Controlled Transylvanian routes", "Ruins freely accessible to public"],
+    },
   },
 
   // BACĂU (RO-BC)
@@ -3508,14 +5718,40 @@ export const romaniaExtraPois: POI[] = [
     name: { de: "Salzbergwerk Târgu Ocna", hu: "Aknavásár fémbánya", ro: "Salina Târgu Ocna", en: "Târgu Ocna Salt Mine" },
     description: { de: "Touristisches Salzbergwerk.", hu: "Turisztikai sóbánya.", ro: "Salină turistică.", en: "Tourist salt mine." },
     facts: { de: ["Târgu Ocna (deutsch veraltet Stadt Okna, ungarisch Aknavásár) ist eine Stadt im Kreis Bacău in Rumänien."], hu: ["Azoknál az országoknál, ahol két oszlopban vannak a latin nevek, az első oszlop a középkori és újkori latin nevet tartalmazza.", "A második oszlopban az ókori latin név látható, amennyiben az eltér az újkoritól, illetve ha a település csak az ókorban létezett."], ro: ["Salina Târgu Ocna este o exploatare minieră a sării aflată în stațiunea balneoclimaterică Târgu Ocna din Județul Bacău, Moldova, România.", "Este a treia cea mai mare salină și una din cele mai vechi din România, ce aparține Societății Naționale a Sării „Salrom“ S.A.", "Societatea deține și cea mai mare bază de tratament din țară, amplasată în mina Trotuș la 240 m adâncime, ce oferă condiții pentru relaxare, mișcare și tratarea afecțiunilor respiratorii."], en: ["Târgu Ocna (Romanian pronunciation: [ˌtɨrɡu ˈokna]; Hungarian: Aknavásár) is a town in Bacău County, Romania.", "It administers two villages, Poieni and Vâlcele.", "The town is situated on the left bank of the Trotuș River, an affluent of the Siret, and on a branch railway which crosses the Ghimeș Pass from Moldavia into Transylvania."] },
-    image: "/geo-images/romania/targu-ocna-salt-mine.webp"
+    image: "/geo-images/romania/targu-ocna-salt-mine.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Salzbergwerk Târgu Ocna im Kreis Bacău ist eine der bedeutendsten Salzgewinnungsstätten Rumäniens und ein wichtiges Zentrum für Halotherapie. Die touristische Besichtigung findet in der 240 Meter tiefen Trotuș-Ebene statt, wo Besucher Sportplätze, Museen und Spielbereiche vorfinden. Eine Besonderheit ist die unterirdische Kirche der Heiligen Varvara, die fast vollständig aus Salz gehauen wurde. Das konstante Mikroklima mit einer Temperatur von 12 Grad Celsius ist ideal für die Behandlung von Atemwegserkrankungen.",
+      hu: "Az aknavásári (Târgu Ocna) sóbánya Bákó megyében található, Románia egyik legfontosabb sókitermelő helye és egyben elismert gyógyászati központ. A látogatók a 240 méter mélyen fekvő Trotuș-szinten sportpályákat, múzeumot és játszótereket találhatnak. A bánya különlegessége a Szent Borbála tiszteletére felszentelt föld alatti templom, amelynek berendezése szinte teljesen sóból készült. A bányában állandó 12 fokos hőmérséklet uralkodik.",
+      ro: "Salina Târgu Ocna din județul Bacău este una dintre cele mai vechi exploatări de sare din România, fiind atestată documentar încă din 1380. Baza turistică este situată în orizontul Trotuș, la 240 de metri adâncime, oferind facilități pentru sport, relaxare și tratament respirator. Un element unic este Biserica Sfânta Varvara, sculptată integral în sare, singura de acest fel din Europa situată la o asemenea adâncime. Microclimatul cu temperatură constantă de 12 grade Celsius este benefic sănătății.",
+      en: "Târgu Ocna Salt Mine in Bacău County is one of Romania's oldest salt exploitations, documented since 1380. The tourist area is located on the Trotuș level, 240 meters underground, offering facilities for sports, relaxation, and respiratory therapy. A unique feature is the Saint Varvara Church, carved entirely into salt, being the only one of its kind in Europe at such depth. The microclimate with a constant temperature of 12 degrees Celsius is beneficial for treating respiratory conditions.",
+    },
+    factsAdvanced: {
+      de: ["Tiefe von 240 Metern", "Kirche der Hl. Varvara aus Salz", "Konstante Temperatur 12°C", "Abbau seit dem Jahr 1380", "Zentrum für Speleotherapie", "Unterirdischer See vorhanden"],
+      hu: ["240 méteres mélység", "Sóba vájt Szent Borbála templom", "Állandó 12°C hőmérséklet", "Kitermelés 1380 óta", "Szpeleoterápiás központ", "Föld alatti tó a bányában"],
+      ro: ["Adâncime de 240 metri", "Biserica Sf. Varvara în sare", "Temperatură constantă de 12°C", "Atestată din anul 1380", "Centru de speleoterapie", "Lac subteran în salină"],
+      en: ["Depth of 240 meters", "St. Varvara Church carved in salt", "Constant temperature of 12°C", "Documented since 1380", "Center for speleotherapy", "Underground salt lake"],
+    },
   },
   {
     id: "ro-poi-slanic-moldova", type: "landmark", parent: "RO-BC", coords: [26.4386, 46.2069],
     name: { de: "Slănic Moldova", hu: "Szlanikfürdő", ro: "Slănic Moldova", en: "Slănic Moldova" },
     description: { de: "Kurort mit Mineralquellen.", hu: "Gyógyüdülőhely ásványvízforrásokkal.", ro: "Stațiune cu izvoare minerale.", en: "Resort with mineral springs." },
     facts: { de: ["Slănic-Moldova (deutsch Moldenmarkt, ungarisch Szlanikfürdő) ist eine Kleinstadt im Kreis Bacău in der Region Westmoldau in Rumänien.", "Die Kleinstadt ist auch als Kurort mit kräftigen salinischen Heilquellen bei Târgu Ocna bekannt.", "Slănic ist auch der Name einer ehemals bedeutenden Staatssaline in der Walachei."], hu: ["Szlanikfürdő (románul Slănic-Moldova) város Romániában, Moldvában, Bákó megyében.", "A települést „Moldova gyöngyének” is nevezik.", "A lakosságban a moldvai csángók vannak többségben, de mára már nagyon kevesen beszélnek magyarul."], ro: [], en: [] },
-    image: "/geo-images/romania/slanic-moldova.webp"
+    image: "/geo-images/romania/slanic-moldova.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Kurort Slănic Moldova liegt im Kreis Bacău am Fuße des Nemira-Gebirges in den Ostkarpaten. Die Stadt ist für ihre über 20 Mineralquellen bekannt, deren Heilwirkung bereits seit 1801 wissenschaftlich dokumentiert wird. Aufgrund der Gebirgsluft und der Thermalbäder gilt das Gebiet als bedeutendes Zentrum für die Behandlung von Atemwegserkrankungen.",
+      hu: "Szlanikfürdő a Nemira-hegység lábánál, Bákó megyében található, 530 méteres tengerszint feletti magasságban. A település több mint 20 ásványvízforrásáról nevezetes, amelyeket 1801 óta használnak gyógyászati célokra. A környék tiszta hegyi levegője és a sós vizű források különösen a légzőszervi betegségek kezelésében hatékonyak.",
+      ro: "Stațiunea Slănic Moldova este situată în județul Bacău, la poalele munților Nemira, la o altitudine de aproximativ 530 de metri. Localitatea este renumită pentru cele peste 20 de izvoare de ape minerale, a căror valoare terapeutică a fost recunoscută încă din anul 1801. Aerul curat de munte și izvoarele fac din aceasta un centru major pentru tratamente respiratorii.",
+      en: "Slănic Moldova is a spa resort located in Bacău County, at the foot of the Nemira Mountains in the Eastern Carpathians. The town is famous for its more than 20 mineral springs, whose healing properties have been scientifically documented since 1801. Due to the fresh mountain air and thermal baths, it is a significant center for treating respiratory conditions.",
+    },
+    factsAdvanced: {
+      de: ["Erste Quelle im Jahr 1801 entdeckt", "Liegt auf einer Höhe von 530 Metern", "Beherbergt über 20 verschiedene Mineralquellen", "Befindet sich im Nemira-Gebirge", "Gehört administrativ zum Kreis Bacău", "Gewann Goldmedaillen auf Weltausstellungen"],
+      hu: ["Az első forrást 1801-ben fedezték fel", "530 méteres magasságban fekszik", "Több mint 20 különböző ásványvízforrása van", "A Nemira-hegység területén található", "Bákó megye egyik legfontosabb városa", "Nemzetközi kiállításokon aranyérmet nyert vizeivel"],
+      ro: ["Primul izvor a fost descoperit în 1801", "Altitudinea medie este de 530 metri", "Dispune de peste 20 de izvoare minerale", "Este situată în Masivul Nemira", "Face parte din județul Bacău", "A primit medalii de aur la expoziții internaționale"],
+      en: ["First spring discovered in 1801", "Located at an altitude of 530 meters", "Features over 20 distinct mineral springs", "Situated in the Nemira Mountains", "Part of the Bacău County administration", "Won gold medals at international exhibitions"],
+    },
   },
 
   // BIHOR (RO-BH)
@@ -3524,7 +5760,20 @@ export const romaniaExtraPois: POI[] = [
     name: { de: "Thermalbad Felix", hu: "Félixfürdő", ro: "Băile Felix", en: "Băile Felix" },
     description: { de: "Größtes Thermalbad in Rumänien.", hu: "Románia legnagyobb termálfürdője.", ro: "Cea mai mare stațiune balneară din România.", en: "Largest thermal spa in Romania." },
     facts: { de: ["Băile Felix (deutsch Bad Felix, ungarisch Félixfürdő) ist ein Kurort mit Thermalquellen von internationalem Ruf im Kreis Bihor im westlichen Rumänien.", "Die Heilquellen werden seit etwa tausend Jahren genutzt.", "Die Wassertemperatur beträgt 20 bis 49 °C."], hu: [], ro: ["Băile Felix (în maghiară Félixfürdő) este un sat în comuna Sânmartin din județul Bihor, Crișana, România.", "Băile Felix se află la ca.", "10 km sud de municipiul Oradea."], en: ["Băile Felix (Hungarian: Félixfürdő) is a thermal spa resort near the commune of Sânmartin in Bihor County, Transylvania, Romania.", "Băile Felix is at a close distance to Oradea, a major city in western Romania."] },
-    image: "/geo-images/romania/baile-felix.webp"
+    image: "/geo-images/romania/baile-felix.webp",
+  
+    descriptionAdvanced: {
+      de: "Băile Felix ist der größte dauerhafte Kurort in Rumänien und liegt im Kreis Bihor nahe der Stadt Oradea. Der Ort ist weltweit bekannt für seine geothermischen Gewässer mit Temperaturen zwischen 32 und 49 Grad Celsius. Eine botanische Besonderheit ist die Thermalseerose, die in den warmen Gewässern des Kurparks natürlich gedeiht.",
+      hu: "Bélyeggyógyfürdő Románia legnagyobb állandó gyógyfürdője, amely Bihar megyében, Nagyvárad közelében található. A település világszerte ismert termálvizeiről, amelyek hőmérséklete 32 és 49 Celsius-fok között mozog. Különleges látnivalója a hévízi tündérrózsa, amely a park meleg vizű tavaiban őshonos.",
+      ro: "Băile Felix reprezintă cea mai mare stațiune balneară cu regim permanent din România, fiind situată în județul Bihor, lângă Oradea. Localitatea este cunoscută pentru apele sale geotermale cu temperaturi cuprinse între 32 și 49 de grade Celsius. O raritate botanică a locului este nufărul termal, care crește natural în apele calde din stațiune.",
+      en: "Băile Felix is the largest permanent spa resort in Romania, located in Bihor County near the city of Oradea. The resort is world-renowned for its geothermal waters, with temperatures ranging between 32 and 49 degrees Celsius. A botanical highlight is the thermal water lily, which grows naturally in the warm ponds of the resort park.",
+    },
+    factsAdvanced: {
+      de: ["Wassertemperaturen bis zu 49 Grad Celsius", "Liegt nur 8 Kilometer von Oradea entfernt", "Größter Ganzjahreskurort Rumäniens", "Heimat der seltenen Nymphaea lotus thermalis", "Quellen enthalten Schwefel und Bikarbonat", "Bietet Kapazität für über 7.000 Gäste"],
+      hu: ["A víz hőmérséklete eléri a 49 fokot", "Nagyváradtól mindössze 8 kilométerre fekszik", "Románia legnagyobb egész évben nyitva tartó fürdője", "A ritka hévízi tündérrózsa élőhelye", "Kénes és bikarbonátos gyógyvizekkel rendelkezik", "Több mint 7000 vendég fogadására alkalmas"],
+      ro: ["Temperatura apei ajunge la 49 grade Celsius", "Se află la 8 km distanță de Oradea", "Cea mai mare stațiune permanentă din țară", "Adăpostește nufărul Nymphaea lotus thermalis", "Apele sunt bogate în sulf și bicarbonat", "Capacitate de cazare de peste 7.000 locuri"],
+      en: ["Water temperatures reach up to 49°C", "Located 8 kilometers from Oradea", "Largest year-round spa resort in Romania", "Home to the rare Nymphaea lotus thermalis", "Springs are rich in sulfur and bicarbonate", "Accommodation capacity for over 7,000 guests"],
+    },
   },
 
   // BISTRIȚA-NĂSĂUD (RO-BN)
@@ -3533,14 +5782,40 @@ export const romaniaExtraPois: POI[] = [
     name: { de: "Bistritz", hu: "Beszterce", ro: "Bistrița", en: "Bistrița" },
     description: { de: "Historische Stadt in Siebenbürgen.", hu: "Történelmi város Erdélyben.", ro: "Oraș istoric în Transilvania.", en: "Historic city in Transylvania." },
     facts: { de: ["Bistrița (, deutsch Bistritz, siebenbürgisch-sächsisch Nīzn [Nösen] oder Bistriz, ungarisch Beszterce [ˈbɛstɛrt͜sɛ]) ist eine Stadt im Nordosten von Siebenbürgen im Kreis Bistrița-Năsăud in Rumänien.", "Bistrița ist Zentrum des Nösnerlandes.", "Durch die Stadt fließt der gleichnamige Fluss Bistrița."], hu: [], ro: ["Bistrița (în germană Bistritz, formă arhaică Nösen; în maghiară Beszterce; în dialectul săsesc Nîsner-Bistritz, Nîzn, Bästerts, Bîsterts, Bistriz) este municipiul de reședință al județului Bistrița-Năsăud, Transilvania, România, format din localitățile componente Bistrița (reședința), Ghinda, Sărata, Sigmir, Slătinița, Unirea și Viișoara.", "Este și cel mai mare oraș din acest județ și al 25-lea din țară, cu o populație de 78,877 locuitori (2021).", "Ocupă o suprafață de 14.547 ha."], en: ["Bistrița (Romanian pronunciation: [ˈbistritsa] ; German: Bistritz, archaic Nösen; Transylvanian Saxon: Bästerts; Hungarian: Beszterce) is the capital city of Bistrița-Năsăud County, in northern Transylvania, Romania.", "It is situated on the Bistrița River.", "The city has a population of 78,877 inhabitants as of 2021 and administers six villages: Ghinda (Windau; Vinda), Sărata (Salz; Sófalva), Sigmir (Schönbirk; Szépnyír), Slătinița (Pintak; Pinták), Unirea (until 1950 Aldorf; Wallendorf; Aldorf) and Viișoara (Heidendorf; Besenyő)."] },
-    image: "/geo-images/romania/bistrita.webp"
+    image: "/geo-images/romania/bistrita.webp",
+  
+    descriptionAdvanced: {
+      de: "Bistrița ist das Verwaltungszentrum des Kreises Bistrița-Năsăud und eine der ältesten siebenbürgischen Städte. Die Siedlung wurde im 13. Jahrhundert von sächsischen Kolonisten gegründet und bewahrt heute noch mittelalterliche Wehranlagen. Das Wahrzeichen der Stadt ist die evangelische Kirche mit ihrem 75 Meter hohen Turm aus der Renaissancezeit.",
+      hu: "Beszterce Beszterce-Naszód megye székhelye és Erdély egyik legrégebbi városa. A települést a 13. században erdélyi szász telepesek alapították, és a mai napig őrzi középkori erődítményeinek maradványait. A város jelképe az evangélikus templom, amelynek 75 méter magas tornya a reneszánsz stílus jegyeit viseli.",
+      ro: "Bistrița este reședința județului Bistrița-Năsăud și unul dintre cele mai vechi orașe din Transilvania. Localitatea a fost întemeiată în secolul al XIII-lea de coloniști sași și păstrează elemente ale fortificațiilor medievale. Simbolul orașului este Biserica Evanghelică, dotată cu un turn de 75 de metri înălțime, cel mai înalt de acest tip.",
+      en: "Bistrița is the capital of Bistrița-Năsăud County and one of the oldest Transylvanian cities. The settlement was founded in the 13th century by Saxon colonists and still preserves parts of its medieval fortifications today. The city's landmark is the Evangelical Church, featuring a 75-meter high tower, the tallest of its kind in the region.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im 13. Jahrhundert von Sachsen", "Kirchturm ist 75 Meter hoch", "War eine der sieben sächsischen Burgen", "Liegt am Fuße des Bârgău-Gebirges", "Erste urkundliche Erwähnung im Jahr 1241", "Beherbergt die mittelalterliche Sugălete-Häuserreihe"],
+      hu: ["A 13. században alapították szászok", "Templomtornya 75 méter magas", "Az erdélyi szász hét vár egyike volt", "A Borgói-hegység lábánál fekszik", "Első írásos említése 1241-ből származik", "Itt található a középkori Sugălete-sor"],
+      ro: ["Fondat în secolul al XIII-lea de sași", "Turnul bisericii are 75 metri înălțime", "A fost una dintre cele șapte cetăți săsești", "Situat la poalele Munților Bârgău", "Prima atestare documentară datează din 1241", "Găzduiește ansamblul medieval Sugălete"],
+      en: ["Founded in the 13th century by Saxons", "The church tower is 75 meters high", "One of the seven original Saxon citadels", "Located at the foot of the Bârgău Mountains", "First documented in the year 1241", "Home to the medieval Sugălete building complex"],
+    },
   },
   {
     id: "ro-poi-parcul-rodnei", type: "landmark", parent: "RO-BN", coords: [24.8, 47.5333],
     name: { de: "Nationalpark Rodna-Gebirge", hu: "Radnai-havasok Nemzeti Park", ro: "Parcul Național Munții Rodnei", en: "Rodna Mountains National Park" },
     description: { de: "Höchstes Gebirge der Ostkarpaten.", hu: "A Keleti-Kárpátok legmagasabb hegysége.", ro: "Cei mai înalți munți din Carpații Orientali.", en: "Highest mountains of the Eastern Carpathians." },
     facts: { de: ["i4i6 Der Nationalpark Rodna-Gebirge (rumänisch Parcul Național Munții Rodnei) liegt im Rodna-Gebirge im Norden Rumäniens.", "Er erstreckt sich auf einem Areal von 46.399 Hektar in den Kreisen Maramureș und Bistrița-Năsăud.", "Der 1990 ausgewiesenen Park umfasst eine Fläche von 472 km² und hat die WDPA ID 11171."], hu: ["Ez a szócikk Románia turizmusát tárgyalja, azon belül az ország turisztikai felosztását, a legfontosabb és legjellegzetesebb turisztikai látnivalókat, a természetjárás, üdülő- és gyógyturizmus fő jellemzőit, valamint a turistáknak nyújtott szolgáltatások, a szállás, étkezés és közlekedés adottságait."], ro: ["Parcul Național Rodna este o arie protejată de interes național ce corespunde categoriei a II-a IUCN (parc național) situată în nordul României, pe teritoriile județelor Bistrița-Năsăud și Maramureș, în zona centrală a Munților Rodnei.", "Parcul Național Munții Rodnei este desemnat internațional ca Rezervație a biosferei de către Comitetul UNESCO, în cadrul programului \"Omul și Biosfera\"."], en: ["The Rodna Mountains National Park (Romanian: Parcul Național Munții Rodnei) is a protected area (national park category II IUCN) situated in Romania, in the administrative territory of counties Bistrița-Năsăud, Maramureș, and Suceava."] },
-    image: "/geo-images/romania/rodna-mountains-national-park.webp"
+    image: "/geo-images/romania/rodna-mountains-national-park.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Nationalpark Rodna-Gebirge ist das zweitgrößte Schutzgebiet Rumäniens und liegt im Norden des Landes. Das Reservat umfasst den höchsten Gipfel der Ostkarpaten, den Pietrosu Rodnei mit 2303 Metern. Seit 1979 ist ein Teil des Parks von der UNESCO als Biosphärenreservat anerkannt, um die alpine Flora und Fauna zu schützen.",
+      hu: "A Radnai-havasok Nemzeti Park Románia második legnagyobb természetvédelmi területe, az ország északi részén. A park magában foglalja a Keleti-Kárpátok legmagasabb pontját, a 2303 méteres Nagy-Pietroszt. 1979 óta a park egy része az UNESCO bioszféra-rezervátumai közé tartozik az alpesi élővilág megőrzése érdekében.",
+      ro: "Parcul Național Munții Rodnei este a doua arie protejată ca mărime din România, situată în nordul țării. Rezervația cuprinde cel mai înalt vârf din Carpații Orientali, Pietrosu Rodnei, cu o înălțime de 2303 metri. Din 1979, o parte a parcului este inclusă în rețeaua UNESCO ca Rezervație a Biosferei pentru flora și fauna alpină.",
+      en: "Rodna Mountains National Park is the second largest protected area in Romania, located in the northern part of the country. The reserve includes the highest peak in the Eastern Carpathians, Pietrosu Rodnei, reaching 2303 meters. Since 1979, a portion of the park has been recognized as a UNESCO Biosphere Reserve to protect its alpine flora and fauna.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel erreicht 2303 Meter", "Gesamtfläche beträgt 47.177 Hektar", "UNESCO-Biosphärenreservat seit 1979", "Beherbergt den Pferdefall (Cascada Cailor)", "Zweitgrößter Nationalpark in Rumänien", "Enthält zahlreiche Gletscherseen"],
+      hu: ["Legmagasabb csúcsa 2303 méter", "Teljes területe 47 177 hektár", "1979 óta UNESCO bioszféra-rezervátum", "Itt található a Lóhavasi-vízesés", "Románia második legnagyobb nemzeti parkja", "Számos gleccsereredetű tó található itt"],
+      ro: ["Vârful cel mai înalt are 2303 metri", "Suprafața totală este de 47.177 hectare", "Rezervație a Biosferei UNESCO din 1979", "Include Cascada Cailor, una dintre cele mai mari", "Al doilea cel mai mare parc național din România", "Adăpostește numeroase lacuri glaciare"],
+      en: ["Highest peak reaches 2303 meters", "Total area covers 47,177 hectares", "UNESCO Biosphere Reserve since 1979", "Home to the Horses' Waterfall (Cascada Cailor)", "Second largest national park in Romania", "Contains numerous glacial lakes"],
+    },
   },
 
   // BOTOȘANI (RO-BT)
@@ -3549,14 +5824,40 @@ export const romaniaExtraPois: POI[] = [
     name: { de: "Eminescu Gedenkhaus", hu: "Eminescu Emlékház", ro: "Casa Memorială Mihai Eminescu", en: "Mihai Eminescu Memorial House" },
     description: { de: "Geburtshaus des Nationaldichters.", hu: "A nemzeti költő szülőháza.", ro: "Casa unde s-a născut poetul național.", en: "Birthplace of the national poet." },
     facts: { de: ["Dies ist eine Liste von Literaturmuseen und literarischen Gedenkstätten, sortiert nach Ländern und Regionen.", "Siehe auch: Liste von Schriftstellermuseen, sortiert nach den Nachnamen der Schriftsteller."], hu: ["Veronica Micle, eredeti nevén Ana Câmpeanu (Naszód, 1850.", "április 22.", "– Văratec, 1889."], ro: ["Casa memorială Mihai Eminescu de la Ipotești este un muzeu memorial amenajat în casa în care a trăit poetul Mihai Eminescu (1850-1889) în satul Ipotești din județul Botoșani.", "Memorialul Ipotești - Centrul Național de Studii „Mihai Eminescu” se află pe Lista Monumentelor Istorice din județul Botoșani din anul 2004, având codul BT-IV-a-B-02047, fiind format din două obiective: Casa memorială \"Mihai Eminescu\" - datând din sec.", "al XIX-lea și având codul BT-IV-m-B-02047.01 Mormintele familiei Eminescu - datând din sec."], en: ["Mihai Eminescu (Romanian pronunciation: [miˈhaj emiˈnesku] ; born Mihail Eminovici; 15 January [O.S.", "3 January] 1850 – 15 June [O.S.", "3 June] 1889) was a Romanian Romantic poet, novelist, and journalist from Moldavia, generally regarded as the most famous and influential Romanian poet."] },
-    image: "/geo-images/romania/ro-poi-casa-eminescu.webp"
+    image: "/geo-images/romania/ro-poi-casa-eminescu.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Mihai-Eminescu-Gedenkhaus befindet sich in Ipotești, dem Ort, an dem der rumänische Nationaldichter seine Kindheit verbrachte. Das Museumskomplex umfasst das Elternhaus, eine Gedenkkirche und eine Bibliothek für Literaturwissenschaften. Die heutige Rekonstruktion wurde 1979 eröffnet und bewahrt Möbel und Objekte der Familie Eminovici.",
+      hu: "A Mihai Eminescu Emlékház Ipotești faluban található, ott, ahol a román nemzeti költő gyermekkorát töltötte. A múzeumkomplexum magában foglalja a szülői házat, egy emléktemplomot és egy irodalomtudományi könyvtárat. A ház jelenlegi rekonstrukcióját 1979-ben nyitották meg, és az Eminovici család eredeti bútorait őrzi.",
+      ro: "Casa Memorială Mihai Eminescu este situată în Ipotești, localitatea unde poetul național al României și-a petrecut copilăria. Complexul muzeal cuprinde casa părintească, o biserică memorială și o bibliotecă de studii literare. Reconstrucția actuală a fost inaugurată în 1979 și păstrează mobilier și obiecte ale familiei Eminovici.",
+      en: "The Mihai Eminescu Memorial House is located in Ipotești, the village where Romania's national poet spent his childhood. The museum complex includes the family home, a memorial church, and a library of literary studies. The current reconstruction was inaugurated in 1979 and preserves furniture and objects belonging to the Eminovici family.",
+    },
+    factsAdvanced: {
+      de: ["Heutiges Museumsgebäude von 1979", "Liegt 8 Kilometer von Botoșani entfernt", "Beherbergt Originalmöbel der Familie", "Enthält die kleine Kirche von 1838", "Ipotești war das Dorf der Kindheit", "Museumskomplex wurde 1950 gegründet"],
+      hu: ["A jelenlegi épület 1979-ben épült", "8 kilométerre fekszik Botoșanitól", "A család eredeti bútorait őrzi", "Itt található az 1838-as kis templom", "Ipotești volt a költő gyermekkori faluja", "A múzeumkomplexumot 1950-ben alapították"],
+      ro: ["Clădirea actuală datează din 1979", "Situată la 8 kilometri de Botoșani", "Găzduiește piese de mobilier originale", "Include mica biserică din 1838", "Ipotești este satul copilăriei poetului", "Complexul muzeal a fost fondat în 1950"],
+      en: ["Current building dates from 1979", "Located 8 kilometers from Botoșani", "Houses original family furniture pieces", "Includes a small church from 1838", "Ipotești is the poet's childhood village", "The museum complex was founded in 1950"],
+    },
   },
   {
     id: "ro-poi-lacul-stanca", type: "lake", parent: "RO-BT", coords: [27.2167, 47.8167],
     name: { de: "Stânca-Costești See", hu: "Stânca-Costești-tó", ro: "Lacul Stânca-Costești", en: "Stânca-Costești Lake" },
     description: { de: "Großer Stausee am Fluss Prut.", hu: "Nagy víztározó a Prut folyón.", ro: "Mare lac de acumulare pe râul Prut.", en: "Large reservoir on the Prut river." },
     facts: { de: ["Der Drum național 24C (rumänisch für „Nationalstraße 24C“, kurz DN24C) ist eine Hauptstraße in Rumänien."], hu: [], ro: ["Lacul Stânca Costești este o arie protejată (arie de protecție specială avifaunistică — SPA) din România întinsă pe o suprafață de 2.192,8 ha, integral pe uscat."], en: ["The Stânca–Costești Dam (Romanian: Barajul Stânca–Costești) is a dam on the Prut River and a checkpoint between Moldova and Romania.", "The dam is located between Costești (Moldova) and Stânca (Romania)."] },
-    image: "/geo-images/romania/stanca-costesti-lake.webp"
+    image: "/geo-images/romania/stanca-costesti-lake.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Stânca-Costești-Stausee ist die zweitgrößte Talsperre Rumäniens und liegt am Fluss Prut an der Grenze zur Republik Moldau. Der Damm wurde zwischen 1973 und 1978 in Zusammenarbeit mit der Sowjetunion errichtet, um den Wasserstand des Flusses zu regulieren. Das Gebiet ist heute als besonderes Vogelschutzgebiet von internationaler Bedeutung anerkannt.",
+      hu: "A Stânca-Costești víztározó Románia második legnagyobb mesterséges tava, amely a Prut folyón, a moldovai határnál található. A gátat 1973 és 1978 között építették a Szovjetunióval együttműködve a folyó vízszintjének szabályozására. A terület ma nemzetközi jelentőségű madárvédelmi körzetként elismert helyszín.",
+      ro: "Lacul de acumulare Stânca-Costești este al doilea ca mărime din România, fiind situat pe râul Prut, la granița cu Republica Moldova. Barajul a fost construit între 1973 și 1978 în colaborare cu Uniunea Sovietică pentru regularizarea cursului râului. Zona este astăzi recunoscută ca arie de protecție specială avifaunistică de importanță internațională.",
+      en: "The Stânca-Costești Reservoir is the second largest in Romania, located on the Prut River at the border with the Republic of Moldova. The dam was constructed between 1973 and 1978 in collaboration with the Soviet Union to regulate the river's water level. Today, the area is recognized as a special bird protection area of international importance.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit von 1973 bis 1978", "Maximale Tiefe erreicht 43 Meter", "Stauseefläche beträgt etwa 59 km²", "Zweitgrößter Stausee in Rumänien", "Grenzt direkt an die Republik Moldau", "Wichtiges Schutzgebiet für Zugvögel"],
+      hu: ["1973 és 1978 között épült", "Maximális mélysége 43 méter", "A tározó területe kb. 59 km²", "Románia második legnagyobb víztározója", "Közvetlenül határos Moldovával", "Fontos vándormadár-védelmi terület"],
+      ro: ["Construit între anii 1973 și 1978", "Adâncimea maximă este de 43 metri", "Suprafața lacului este de circa 59 km²", "Al doilea lac de acumulare din România", "Situat pe granița cu Republica Moldova", "Arie de protecție pentru păsările migratoare"],
+      en: ["Built between 1973 and 1978", "Maximum depth reaches 43 meters", "Reservoir area is approximately 59 km²", "Second largest reservoir in Romania", "Bordered by the Republic of Moldova", "Important protection area for migratory birds"],
+    },
   },
 
   // BRĂILA (RO-BR)
@@ -3565,14 +5866,40 @@ export const romaniaExtraPois: POI[] = [
     name: { de: "Naturpark Kleine Brăila-Insel", hu: "Kis-Brăila Sziget Natúrpark", ro: "Parcul Natural Balta Mică a Brăilei", en: "Small Brăila Island Natural Park" },
     description: { de: "Feuchtgebiet und Naturschutzgebiet.", hu: "Vizes élőhely és természetvédelmi terület.", ro: "Zonă umedă și rezervație naturală.", en: "Wetland and nature reserve." },
     facts: { de: ["Die Große Brăila-Insel (rumänisch Insula Mare a Brăilei oder Balta Brăilei) ist eine rund 710 km² große und 60 km lange Donauinsel in Rumänien."], hu: ["A Brăilai Kissziget Natúrpark (románul Parcul Natural Balta Mică a Brăilei) IUCN V-ös besorolású védett terület Romániában a Duna alsó szakaszán, a Brăilai Nagysziget térségében, Brăila megye területén."], ro: ["Parcul Natural Balta Mică a Brăilei este o arie protejată (zonă umedă) de interes internațional ce corespunde categoriei a V-a (parc natural), situată în Muntenia, pe teritoriul județului Brăila."], en: ["The Great Brăila Island (Romanian: Insula Mare a Brăilei) is an island on the Danube river in the Brăila County, Romania.", "It has on average 57.9 km (36.0 mi) length and 18.6 km (11.6 mi) width, with a total area of 710 km2 (270 sq mi).", "The two river branches which separate it from the mainland are Măcin Branch and Vâlciu Branch."] },
-    image: "/geo-images/romania/small-braila-island-natural-park.webp"
+    image: "/geo-images/romania/small-braila-island-natural-park.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Naturpark Kleine Brăila-Insel liegt in der Donauaue und gilt als Miniatur des Donaudeltas. Das Schutzgebiet umfasst ein System von 7 Inseln und zahlreichen Kanälen, die nur bei Hochwasser vollständig verbunden sind. Es ist ein Ramsar-Gebiet von internationaler Bedeutung, das über 200 Vogelarten einen Lebensraum bietet.",
+      hu: "A Kis-Brăilai-sziget Természeti Park a Duna árterében található, és a Duna-delta kicsinyített másának tekintik. A védett terület 7 szigetből és számos csatornából áll, amelyek csak magas vízállás esetén kapcsolódnak össze teljesen. Nemzetközileg elismert Ramsari terület, amely több mint 200 madárfajnak nyújt élőhelyet.",
+      ro: "Parcul Natural Balta Mică a Brăilei este situat în lunca Dunării și este considerat o miniatură a Deltei Dunării. Aria protejată cuprinde un sistem de 7 insule și numeroase canale care se conectează complet doar în perioadele de inundații. Este un sit Ramsar de importanță internațională, oferind habitat pentru peste 200 de specii de păsări.",
+      en: "The Small Brăila Island Natural Park is situated in the Danube floodplain and is often considered a miniature version of the Danube Delta. The protected area comprises a system of 7 islands and numerous channels that fully connect only during high water periods. It is a Ramsar site of international importance, providing habitat for over 200 bird species.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtfläche von 17.529 Hektar", "Umfasst ein System von 7 Inseln", "Über 200 Vogelarten beobachtet", "Ramsar-Gebiet seit dem Jahr 2001", "Gilt als Miniatur-Donaudelta", "Nur auf dem Wasserweg erreichbar"],
+      hu: ["Teljes területe 17 529 hektár", "Hét szigetből álló rendszert alkot", "Több mint 200 madárfajt figyeltek meg", "2001 óta Ramsari terület", "A Duna-delta kicsinyített mása", "Csak vízi úton közelíthető meg"],
+      ro: ["Suprafața totală de 17.529 hectare", "Include un sistem de 7 insule", "Peste 200 de specii de păsări", "Sit Ramsar din anul 2001", "Considerată o Deltă în miniatură", "Accesibilă exclusiv pe cale fluvială"],
+      en: ["Total area of 17,529 hectares", "Comprises a system of 7 islands", "Over 200 bird species recorded", "Ramsar site since the year 2001", "Considered a miniature Danube Delta", "Accessible only by water routes"],
+    },
   },
   {
     id: "ro-poi-teatrul-filotti", type: "landmark", parent: "RO-BR", coords: [27.9731, 45.2719],
     name: { de: "Maria Filotti Theater", hu: "Maria Filotti Színház", ro: "Teatrul Maria Filotti", en: "Maria Filotti Theatre" },
     description: { de: "Historisches Theatergebäude.", hu: "Történelmi színházépület.", ro: "Clădire istorică a teatrului.", en: "Historical theater building." },
     facts: { de: [], hu: ["István (Zsibó, 1977.", "–) Jászai Mari-díjas romániai magyar rendező, színházigazgató, művészeti vezető."], ro: ["Teatrul „Maria Filotti”, cunoscut și sub numele vechi ca Teatrul Rally, este o instituție de cultură inaugurată la 1864 în Brăila, România."], en: ["The Maria Filotti is a theatre in Brăila, Romania."] },
-    image: "/geo-images/romania/maria-filotti-theatre.webp"
+    image: "/geo-images/romania/maria-filotti-theatre.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Maria-Filotti-Theater in Brăila ist ein architektonisches Denkmal, das im Jahr 1864 als Rally-Theater erbaut wurde. Das Gebäude im eklektischen Stil ist für seine opulente Innenausstattung und die hervorragende Akustik des Hauptsaals bekannt. Seit 1969 trägt es den Namen der berühmten rumänischen Schauspielerin Maria Filotti, die hier oft auftrat.",
+      hu: "A brăilai Maria Filotti Színház egy építészeti műemlék, amelyet 1864-ben építettek Rally Színház néven. Az eklektikus stílusú épület gazdag belső díszítéséről és a főterem kiváló akusztikájáról ismert. 1969 óta viseli a híres román színésznő, Maria Filotti nevét, aki pályafutása során számos alkalommal fellépett itt.",
+      ro: "Teatrul Maria Filotti din Brăila este un monument de arhitectură construit în anul 1864 sub denumirea de Teatrul Rally. Clădirea în stil eclectic este remarcabilă pentru decorațiunile interioare opulente și acustica excelentă a sălii principale. Din 1969, poartă numele celebrei actrițe Maria Filotti, care a debutat și a jucat frecvent aici.",
+      en: "The Maria Filotti Theatre in Brăila is an architectural monument built in 1864 as the Rally Theatre. The eclectic-style building is notable for its opulent interior decorations and the excellent acoustics of its main hall. Since 1969, it has been named after the famous Romanian actress Maria Filotti, who frequently performed on its stage.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr des Gebäudes war 1864", "Ursprünglicher Name: Rally-Theater", "Hörsaal bietet Platz für 543 Gäste", "Namensänderung erfolgte im Jahr 1969", "Befindet sich im Zentrum von Brăila", "Baudenkmal von nationalem Rang"],
+      hu: ["Az épület 1864-ben épült", "Eredeti neve Rally Színház volt", "A nézőtér 543 férőhelyes", "Névváltása 1969-ben történt", "Brăila központjában található", "Országos jelentőségű műemlék"],
+      ro: ["Anul construcției este 1864", "Numele inițial a fost Teatrul Rally", "Sala principală are 543 de locuri", "Redenumit Filotti în anul 1969", "Situat în centrul istoric al Brăilei", "Monument istoric de clasă A"],
+      en: ["Year of construction was 1864", "Original name: Rally Theatre", "Main hall seats 543 guests", "Renamed in the year 1969", "Located in the center of Brăila", "National grade A historical monument"],
+    },
   },
 
   // BUZĂU (RO-BZ)
@@ -3581,14 +5908,40 @@ export const romaniaExtraPois: POI[] = [
     name: { de: "Lebendiges Feuer", hu: "Élő tűz", ro: "Focul Viu", en: "Living Fire" },
     description: { de: "Erdgasflammen aus dem Boden.", hu: "Földgázlángok a talajból.", ro: "Flăcări de gaze naturale din pământ.", en: "Natural gas flames coming from the ground." },
     facts: { de: ["Negură Bunget ist eine Metal-Band aus Rumänien."], hu: ["Andreiașu de Jos település Romániában, Moldvában, Vrancea megyében."], ro: ["Focul Viu se poate referi la: Focul Viu din Satul Terca Comuna Lopătari, Buzău Focul Viu din Satul Andreiașu de Jos Comuna Andreiașu de Jos, Vrancea Focul Viu de pe Vârful Răiuți din Satul Răiuți Comuna Reghiu, Vrancea Focul Viu din estul dealului Ciolanu situat pe interfluviul de pe dreapta văii Ojasca.", "Peștera Ghețarul de la Focul Viu, una dintre peșterile aflate în Munții Bihorului.", "Focul viu (film) (Firestarter 2: Rekindled)"], en: ["Living Fire is a Brazilian Christian hardcore band, hailing from São Paulo, Brazil, formed in 2006.", "Their first studio album, Jesus Rules, was released in 2012 by Thumper Punk Records.", "The subsequent album, Dead to Sin, was also released by Thumper Punk Records, in 2014."] },
-    image: "/geo-images/romania/living-fire.webp"
+    image: "/geo-images/romania/living-fire.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Lebende Feuer ist ein seltenes geologisches Phänomen in der Nähe des Dorfes Lopătari im Kreis Buzău. Durch Risse im Boden treten natürliche Methangase aus, die sich durch Reibung oder Sonneneinstrahlung entzünden und ständig brennen. Die Flammen erreichen eine Höhe von bis zu 50 Zentimetern und verändern je nach Windstärke ihre Intensität.",
+      hu: "Az Élő Tűz egy ritka geológiai jelenség Lopătari falu közelében, Bodza megyében. A földfelszín repedésein keresztül földgáz áramlik ki, amely a súrlódás vagy a napsugárzás hatására meggyullad és folyamatosan ég. A lángok magassága elérheti az 50 centimétert, és intenzitásuk a szélviszonyoktól függően változik.",
+      ro: "Focul Viu este un fenomen geologic rar situat în apropierea satului Lopătari din județul Buzău. Emanțiile de gaze naturale din fisurile scoarței terestre se aprind spontan, menținând flăcări care ard în permanență. Acestea pot atinge înălțimi de până la 50 de centimetri, intensitatea lor variind în funcție de presiunea gazelor și de vânt.",
+      en: "The Living Fire is a rare geological phenomenon located near the village of Lopătari in Buzău County. Natural methane gas emissions through cracks in the earth's crust ignite spontaneously, creating constant flames. These flames can reach heights of up to 50 centimeters, and their intensity fluctuates depending on gas pressure and wind conditions.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich im Kreis Buzău", "Flammen bis zu 50 cm hoch", "Entsteht durch Methangasemissionen", "Höhenlage von etwa 800 Metern", "Seltenes Phänomen in Europa", "Fläche umfasst etwa 25 m²"],
+      hu: ["Bodza megye területén található", "A lángok akár 50 cm magasak", "Földgáz-kibocsátás okozza", "Kb. 800 méteres magasságban van", "Európában ritka jelenség", "A terület kb. 25 m²-t foglal el"],
+      ro: ["Situat în județul Buzău", "Flăcările ating 50 cm înălțime", "Cauzat de emanații de metan", "Altitudinea este de circa 800 metri", "Fenomen foarte rar în Europa", "Suprafața ocupată este de 25 m²"],
+      en: ["Located in Buzău County", "Flames reach up to 50 cm high", "Caused by methane gas emissions", "Altitude of approximately 800 meters", "Very rare phenomenon in Europe", "Occupy an area of about 25 m²"],
+    },
   },
   {
     id: "ro-poi-lacul-vulturilor", type: "lake", parent: "RO-BZ", coords: [26.0969, 45.5033],
     name: { de: "Adlersee", hu: "Sasok tava", ro: "Lacul Vulturilor", en: "Eagles' Lake" },
     description: { de: "Periglazialer See im Siriu-Gebirge.", hu: "Periglaciális tó a Sziryu-hegységben.", ro: "Lac periglaciar în Munții Siriu.", en: "Periglacial lake in the Siriu Mountains." },
     facts: { de: ["Sita Buzăului [ˈsita buˈsəului] (veraltet Sita Buzău ungarisch Szitabodza) ist eine Gemeinde im Kreis Covasna in der Region Siebenbürgen in Rumänien."], hu: ["A Szilon-havas (románul: Masivul Siriu) a Kárpátkanyar, s ezen belül a Keleti-Kárpátok csoportjába tartozó középmagas hegység.", "A hegység a Kárpátok főgerincének alkotórésze, amely délnyugat felé a Tatárhavasban, majd a Csukás-hegységben folytatódik, észak felé pedig a Háromszéki-havasokban, közeli szomszédja a Lóhavas és a főgerincen kívül a Moldva felé eső Pintyillő, mely a legközelebbi nálánál magasabb hegység a maga 1772 méteres csúcsával.", "A hegység területén jelenleg kisebb részben Háromszék ill."], ro: ["Lacul Vulturilor (denumit și Lacul Fără Fund) este un lac periglaciar aflat în Munții Siriului, la o altitudine de 1.420 m, în apropierea localității Gura Siriului din comuna Siriu, județul Buzău, România și se află pe suprafața comunei Chiojdu.", "Adâncimea sa maximă este de 2,5 m."], en: [] },
-    image: "/geo-images/romania/eagles.webp"
+    image: "/geo-images/romania/eagles.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Adlersee, auch als Bodenloser See bekannt, ist ein periglazialer See im Siriu-Gebirge auf einer Höhe von 1420 Metern. Er liegt in einer abgelegenen Gegend ohne ständige Zuflüsse und wird ausschließlich durch Regen und Schneeschmelze gespeist. Der Name stammt aus einer Legende, nach der Adler hier ihre Jungen das Fliegen lehren.",
+      hu: "A Sasok tava, más néven Feneketlen-tó, egy periglaciális tó a Bodzai-havasokban, 1420 méteres magasságban. Egy elszigetelt területen fekszik, nincs állandó vízutánpótlása, kizárólag esővíz és hólé táplálja. Neve egy legendából ered, miszerint a sasok ide járnak tanítani fiókáikat repülni.",
+      ro: "Lacul Vulturilor, cunoscut și sub numele de Lacul Fără Fund, este un lac periglaciar situat în Munții Siriului, la o altitudine de 1420 metri. Acesta se află într-o zonă izolată, neavând afluenți permanenți, fiind alimentat exclusiv din precipitații și topirea zăpezii. Numele derivă dintr-o legendă care spune că aici vulturii își învățau puii să zboare.",
+      en: "Eagles' Lake, also known as the Bottomless Lake, is a periglacial lake located in the Siriu Mountains at an altitude of 1420 meters. It is situated in a remote area with no permanent inlets, fed solely by rainfall and melting snow. Its name comes from a legend claiming that eagles used to come here to teach their young how to fly.",
+    },
+    factsAdvanced: {
+      de: ["Höhenlage von 1420 Metern", "Maximale Tiefe beträgt 2,5 Meter", "Fläche von etwa 0,5 Hektar", "Liegt im Siriu-Gebirge", "Wird periglazialer See genannt", "Keine oberirdischen Zuflüsse"],
+      hu: ["1420 méteres magasságban van", "Maximális mélysége 2,5 méter", "Területe kb. 0,5 hektár", "A Bodzai-havasokban található", "Periglaciális eredetű tó", "Nincsenek felszíni beömlései"],
+      ro: ["Altitudinea este de 1420 metri", "Adâncimea maximă este de 2,5 metri", "Suprafața este de 0,5 hectare", "Situat în Masivul Siriu", "Este un lac de origine periglaciară", "Nu are afluenți de suprafață"],
+      en: ["Altitude of 1420 meters", "Maximum depth is 2.5 meters", "Surface area of 0.5 hectares", "Located in the Siriu Mountains", "Classified as a periglacial lake", "Has no surface water inlets"],
+    },
   },
 
   // CĂLĂRAȘI (RO-CL)
@@ -3597,14 +5950,40 @@ export const romaniaExtraPois: POI[] = [
     name: { de: "Borcea-Arm", hu: "Borcea-ág", ro: "Brațul Borcea", en: "Borcea Branch" },
     description: { de: "Nebenarm der Donau.", hu: "A Duna mellékága.", ro: "Braț secundar al Dunării.", en: "Secondary branch of the Danube." },
     facts: { de: ["Die Donau ist mit einem mittleren jährlichen Abfluss (MQ) von rund 6855 m³/s und einer Gesamtlänge von 2857 Kilometern nach der Wolga der zweitgrößte und zweitlängste Fluss in Europa.", "Der Strom entwässert weite Teile Mittel- und Südosteuropas.", "Er durchfließt bzw."], hu: ["A Borceai-Duna-ág (románul: Brațul Borcea) a Duna folyam egy mellékága a folyó alsó szakaszán, Romániában, Călărași megye és Ialomița megye közigazgatási területén.", "Călărași felett (mintegy 9 km-re Ostrov felé) ágazik ki bal kéz felé a főágból, ahová mintegy 99 km után, Giurgeninél tér vissza.", "Nevét a partján fekvő Borcea településről kapta."], ro: [], en: ["Borcea is a commune situated in the eastern part of Călărași County, Muntenia, Romania.", "It is one of the most populous communes in the county and it is situated on the west bank of the Borcea branch (a section of the Danube).", "The commune was formed as a result of the administrative reform of 1968 by joining two neighboring villages, Cocargeaua and Pietroiu."] },
-    image: "/geo-images/romania/borcea-branch.webp"
+    image: "/geo-images/romania/borcea-branch.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Borcea-Arm ist ein wichtiger Nebenarm der Donau, der sich bei Călărași vom Hauptstrom trennt und nach 99 Kilometern bei Giurgeni wieder vereint. Er umschließt das Große Brăila-Moor und bietet eine wichtige Wasserstraße für die regionale Schifffahrt. An seinen Ufern befinden sich bedeutende archäologische Stätten und Naturschutzgebiete.",
+      hu: "A Borcea-ág a Duna egyik jelentős mellékága, amely Călărași közelében válik le a főágról, majd 99 kilométer után Giurgeninél tér vissza. Közrefogja a Nagy-Brăilai-lápot, és fontos vízi utat biztosít a regionális hajózás számára. Partjain jelentős régészeti lelőhelyek és természetvédelmi területek találhatók.",
+      ro: "Brațul Borcea este o ramificație importantă a Dunării, care se desprinde de cursul principal în zona Călărași și revine după 99 de kilometri la Giurgeni. Acesta delimitează Balta Ialomiței și reprezintă o cale navigabilă esențială pentru transportul fluvial regional. Pe malurile sale se află situri arheologice și rezervații naturale protejate.",
+      en: "The Borcea Branch is a major arm of the Danube River that separates from the main flow near Călărași and rejoins it after 99 kilometers at Giurgeni. It encircles the Ialomița Pond and serves as an essential waterway for regional river navigation. Its banks host significant archaeological sites and protected natural reserves.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtlänge von 99 Kilometern", "Zweigarm der unteren Donau", "Beginnt bei der Stadt Călărași", "Endet bei der Ortschaft Giurgeni", "Umschließt die Balta Ialomiței", "Wichtige Route für die Schifffahrt"],
+      hu: ["Teljes hossza 99 kilométer", "Az Alsó-Duna egyik mellékága", "Călărași városánál kezdődik", "Giurgeni településnél ér véget", "Közrefogja a Balta Ialomiței-t", "Fontos hajózási útvonal"],
+      ro: ["Lungimea totală este de 99 km", "Braț secundar al Dunării de Jos", "Începe în dreptul orașului Călărași", "Se termină la localitatea Giurgeni", "Delimitează Balta Ialomiței", "Cale navigabilă pentru barje"],
+      en: ["Total length of 99 kilometers", "Secondary branch of the lower Danube", "Starts near the city of Călărași", "Ends at the village of Giurgeni", "Encircles the Ialomița Pond", "Major waterway for river barges"],
+    },
   },
   {
     id: "ro-poi-muzeul-dunarii", type: "landmark", parent: "RO-CL", coords: [27.33, 44.195],
     name: { de: "Museum der Unteren Donau", hu: "Alsó-Duna Múzeum", ro: "Muzeul Dunării de Jos", en: "Lower Danube Museum" },
     description: { de: "Museum für Archäologie und Geschichte.", hu: "Régészeti és történelmi múzeum.", ro: "Muzeu de arheologie și istorie.", en: "Museum of archeology and history." },
     facts: { de: ["i3i6 Das Donaudelta (rumänisch Delta Dunării, ukrainisch Дельта Дунаю) befindet sich im Mündungsgebiet der Donau in das Schwarze Meer.", "Das Donaudelta stellt nach dem Wolgadelta das zweitgrößte Delta Europas dar und umfasst ein Gebiet von 5800 km², wovon 72 % mit einer Fläche von 4178 km² unter Naturschutz stehen.", "Diese Fläche liegt zu 82,5 % im rumänischen Teil der Landschaft Dobrudscha sowie zu 17,5 % in der Ukraine."], hu: [], ro: ["Muzeul Istoriei, Culturii și Spiritualității Creștine de la Dunărea de Jos este un muzeu din municipiul Galați găzduit în Palatul Episcopal al Dunării de Jos, deschis publicului în această nouă locație în anul 2014, în urma recâștigării dreptului de proprietate asupra clădirii.", "Clădirea muzeului este declarată monument istoric, având codul GL-II-m-B-03036.", "Anterior, ea a adăpostit Muzeul de Artă Vizuală."], en: ["The Danube Swabians (German: Donauschwaben [ˈdoːnaʊʃvaːbm̩] ) is the ethnic German-speaking population, today largely extinct through emigration, which lived in the Kingdom of Hungary in east-central Europe, especially in the Danube River valley, first in the 12th century, and in greater numbers in the 17th and 18th centuries.", "Most were descended from earlier 18th-century Swabian settlers from Upper Swabia, the Swabian Jura, northern Lake Constance, the upper Danube, the Swabian-Franconian Forest, the Southern Black Forest and the Principality of Fürstenberg, followed by Hessians, Bavarians, Franconians and Lorrainers recruited by Austria to repopulate the area and restore agriculture after the expulsion of the Ottoman Empire.", "They were able to keep their language and religion and initially developed strongly German communities in the region which retained the German language, customs, and folklore."] },
-    image: "/geo-images/romania/lower-danube-museum.webp"
+    image: "/geo-images/romania/lower-danube-museum.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Museum der Unteren Donau in Călărași wurde 1951 gegründet und ist ein bedeutendes Zentrum für Archäologie und Geschichte. Die Sammlungen umfassen wertvolle Artefakte der Gumelnița-Kultur, einer der wichtigsten neolithischen Zivilisationen Europas. Es beherbergt zudem Exponate zur Fischerei und zum traditionellen Leben an der Donau.",
+      hu: "Az Alsó-Duna Múzeum Călărași városában 1951-ben alakult, és a térség régészeti és történelmi központja. A gyűjtemény a Gumelnița-kultúra értékes leleteit tartalmazza, amely Európa egyik legfontosabb neolitikus civilizációja volt. Emellett a dunai halászattal és a hagyományos folyóparti élettel kapcsolatos kiállításoknak is helyet ad.",
+      ro: "Muzeul Dunării de Jos din Călărași a fost înființat în anul 1951 și este un centru major pentru arheologie și istorie regională. Colecțiile includ artefacte prețioase ale culturii Gumelnița, una dintre cele mai importante civilizații neolitice din Europa. Acesta găzduiește și secții dedicate etnografiei și pescuitului tradițional la Dunăre.",
+      en: "The Lower Danube Museum in Călărași was established in 1951 and is a major center for archaeology and regional history. The collections feature precious artifacts from the Gumelnița culture, one of Europe's most significant Neolithic civilizations. It also houses sections dedicated to ethnography and traditional fishing on the Danube.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1951", "Befindet sich in Călărași", "Fokus auf die Gumelnița-Kultur", "Besitzt über 40.000 Exponate", "Archäologische Abteilung ist Kern", "Zeigt Geschichte der Donaufischerei"],
+      hu: ["1951-ben alapították", "Călărași városában található", "A Gumelnița-kultúrára fókuszál", "Több mint 40 000 kiállítási tárgy", "Régészeti osztálya a legfontosabb", "Dunai halászat történetét mutatja"],
+      ro: ["Înființat în anul 1951", "Localizat în orașul Călărași", "Specializat în cultura Gumelnița", "Deține peste 40.000 de piese", "Secția de arheologie este principală", "Prezintă istoria pescuitului local"],
+      en: ["Founded in the year 1951", "Located in the city of Călărași", "Specializes in the Gumelnița culture", "Holds over 40,000 exhibit pieces", "Archaeology section is the core", "Showcases history of local fishing"],
+    },
   },
 
   // CARAȘ-SEVERIN (RO-CS)
@@ -3613,14 +5992,40 @@ export const romaniaExtraPois: POI[] = [
     name: { de: "Nera-Klamm Nationalpark", hu: "Néra-szurdok Nemzeti Park", ro: "Parcul Național Cheile Nerei-Beușnița", en: "Cheile Nerei-Beușnița National Park" },
     description: { de: "Schluchten, Wasserfälle und blaue Seen.", hu: "Szurdokok, vízesések és kék tavak.", ro: "Chei, cascade și lacuri albastre.", en: "Gorges, waterfalls, and blue lakes." },
     facts: { de: ["i3i5 Der Nationalpark Cheile Nerei - Beușnița (auch Nationalpark Nera-Klamm - Beușnița, rumänisch Parcul Național Cheile Nerei - Beușnița) ist ein Nationalpark im Anina-Gebirge, Kreis Caraș-Severin, im Südwesten Rumäniens.", "Er erstreckt sich auf einem Areal von 76.062 Hektar und besteht aus einer Karstlandschaft aus Kalkstein auf einer Länge von 22 Kilometern entlang des Neratals mit einer Lagenhöhe zwischen 200 und 1116 Meter an der höchsten Bergspitze, dem Leordis Gipfel."], hu: ["Ez a szócikk Románia turizmusát tárgyalja, azon belül az ország turisztikai felosztását, a legfontosabb és legjellegzetesebb turisztikai látnivalókat, a természetjárás, üdülő- és gyógyturizmus fő jellemzőit, valamint a turistáknak nyújtott szolgáltatások, a szállás, étkezés és közlekedés adottságait."], ro: [], en: [] },
-    image: "/geo-images/romania/cheile-nerei-beusnita-national-park.webp"
+    image: "/geo-images/romania/cheile-nerei-beusnita-national-park.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Nationalpark Cheile Nerei-Beușnița liegt im Südwesten Rumäniens und ist bekannt für die längsten Schluchten des Landes. Der Fluss Nera hat sich über 22 Kilometer tief in das Kalkgestein eingeschnitten und eine wilde Landschaft geformt. Zu den Höhepunkten gehören der türkisfarbene Ochiul-Beiului-See und die spektakulären Beușnița-Wasserfälle.",
+      hu: "A Néra-szurdok – Beușnița Nemzeti Park Románia délnyugati részén található, és az ország leghosszabb szurdokvölgyéről ismert. A Néra folyó 22 kilométer hosszan vágta bele magát a mészkőbe, vadregényes tájat hozva létre. A park legfőbb látnivalói a türkizkék Bég-szeme tó és a látványos Beușnița-vízesések.",
+      ro: "Parcul Național Cheile Nerei-Beușnița este situat în sud-vestul României și este faimos pentru cele mai lungi chei din țară. Râul Nera a săpat în calcar pe o lungime de 22 de kilometri, formând un peisaj sălbatic deosebit. Atracțiile principale includ lacul turcoaz Ochiul Beiului și cascadele spectaculoase ale Beușniței.",
+      en: "The Cheile Nerei-Beușnița National Park is located in southwestern Romania and is famous for having the longest gorges in the country. The Nera River has carved through limestone over a distance of 22 kilometers, creating a wild landscape. Key attractions include the turquoise Ochiul Beiului lake and the spectacular Beușnița waterfalls.",
+    },
+    factsAdvanced: {
+      de: ["Schluchten sind 22 km lang", "Befindet sich im Kreis Caraș-Severin", "Ochiul Beiului friert nie ein", "Nationalpark seit dem Jahr 2000", "Beușnița-Fälle sind Kalktuff-Fälle", "Enthält den Teufelssee (Lacul Dracului)"],
+      hu: ["A szurdok hossza 22 km", "Krassó-Szörény megyében található", "A Bég-szeme tó sosem fagy be", "2000 óta nemzeti park", "A Beușnița mésztufa-vízesés", "Itt található az Ördög-tó"],
+      ro: ["Lungimea cheilor este de 22 km", "Situat în județul Caraș-Severin", "Ochiul Beiului nu îngheață niciodată", "Parc național din anul 2000", "Cascadele Beușnița sunt de tuf calcaros", "Include Lacul Dracului, lac carstic"],
+      en: ["The gorges are 22 km long", "Located in Caraș-Severin County", "Ochiul Beiului lake never freezes", "National park since the year 2000", "Beușnița falls are tufa cascades", "Home to the Devil's Lake (Lacul Dracului)"],
+    },
   },
   {
     id: "ro-poi-baile-herculane", type: "city", parent: "RO-CS", coords: [22.4131, 44.88],
     name: { de: "Herkulesbad", hu: "Herkulesfürdő", ro: "Băile Herculane", en: "Băile Herculane" },
     description: { de: "Historischer Thermal-Kurort.", hu: "Történelmi hőforrásos gyógyüdülő.", ro: "Stațiune balneară istorică.", en: "Historical thermal spa resort." },
     facts: { de: ["Băile Herculane (deutsch Herkulesbad, ungarisch Herkulesfürdő) ist eine Kleinstadt und ein Kurort im Kreis Caraș-Severin in der Region Banat in Rumänien."], hu: [], ro: ["Băile Herculane (în latină Aqua Herculis, în germană Herkulesbad, în maghiară Herkulesfürdő) este un oraș în județul Caraș-Severin, Banat, România, format din localitățile componente Băile Herculane (reședința) și Pecinișca.", "Are o populație de 5.008 locuitori.", "Orașul este situat pe Valea Cernei, fiind accesibil la 5 km de DN 6 (E70), principala arteră rutieră ce leagă capitala țării de Timișoara."], en: ["Băile Herculane (Latin: Aqua Herculis; German: Herkulesbad; Hungarian: Herkulesfürdő; Czech: Herkulovy Lázně, Turkish: Lazarethane, English: Herculean Baths) is a spa town in Romanian Banat, in Caraș-Severin County, situated in the valley of the Cerna River, between the Mehedinți Mountains to the east and the Cerna Mountains to the west, elevation 168 m (551 ft).", "Its current population is 3,787.", "The town administers one village, Pecinișca (Hungarian: Pecsenyeska; from 1912 to 1918 Csernabesenyő)."] },
-    image: "/geo-images/romania/baile-herculane.webp"
+    image: "/geo-images/romania/baile-herculane.webp",
+  
+    descriptionAdvanced: {
+      de: "Băile Herculane ist der älteste Kurort Rumäniens und wurde bereits im Jahr 153 n. Chr. von den Römern unter dem Namen Ad Aquas Herculi Sacras gegründet. Die Stadt liegt im Tal des Flusses Cerna und ist von steilen Felswänden umgeben. Die Thermalquellen sind reich an Schwefel und Bikarbonat, was sie ideal für die Behandlung von Rheuma macht.",
+      hu: "Herkulesfürdő Románia legrégebbi gyógyfürdője, amelyet a rómaiak alapítottak Kr. u. 153-ban Ad Aquas Herculi Sacras néven. A város a Cserna folyó völgyében fekszik, meredek sziklafalakkal körülvéve. A termálforrások kénben és bikarbonátban gazdagok, ami ideálissá teszi őket a reumatikus betegségek kezelésére.",
+      ro: "Băile Herculane este cea mai veche stațiune balneară din România, fiind fondată de romani în anul 153 d.Hr. sub numele Ad Aquas Herculi Sacras. Orașul este situat în valea Cernei, fiind înconjurat de versanți muntoși abrupți. Apele termale sunt bogate în sulf și bicarbonat, fiind ideale pentru tratarea afecțiunilor reumatice.",
+      en: "Băile Herculane is the oldest spa resort in Romania, founded by the Romans in 153 AD under the name Ad Aquas Herculi Sacras. The town is nestled in the Cerna River valley, surrounded by steep mountain slopes. The thermal springs are rich in sulfur and bicarbonate, making them ideal for treating rheumatic conditions.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 153 n. Chr.", "Liegt auf 168 Metern Höhe", "Ältester Kurort in Rumänien", "Befindet sich im Cerna-Tal", "Römische Statuen von Hercules", "Bäder von Kaiserin Sissi besucht"],
+      hu: ["Kr. u. 153-ban alapították", "168 méteres magasságban fekszik", "Románia legrégebbi fürdőhelye", "A Cserna-völgyben található", "Római Herkules-szobrok díszítik", "Sissi királyné is kedvelte"],
+      ro: ["Fondată în anul 153 d.Hr.", "Situată la 168 metri altitudine", "Cea mai veche stațiune din țară", "Localizată pe Valea Cernei", "Găzduiește statuia lui Hercules", "Vizitată des de împărăteasa Sissi"],
+      en: ["Founded in the year 153 AD", "Located at 168 meters altitude", "Oldest spa resort in Romania", "Situated in the Cerna Valley", "Features Roman statues of Hercules", "Frequently visited by Empress Sissi"],
+    },
   },
 
   // CONSTANȚA (RO-CT)
@@ -3629,7 +6034,20 @@ export const romaniaExtraPois: POI[] = [
     name: { de: "Aquarium Constanța", hu: "Konstancai Akvárium", ro: "Acvariul Constanța", en: "Constanța Aquarium" },
     description: { de: "Aquarium am Schwarzen Meer.", hu: "Fekete-tengeri akvárium.", ro: "Acvariu pe litoralul Mării Negre.", en: "Aquarium on the Black Sea coast." },
     facts: { de: [], hu: [], ro: [], en: ["The Constanța Aquarium is located along the Black Sea in Constanța, Romania.", "The building that hosts the aquarium dates to the early 20th century.", "It served as a restaurant for the adjacent Constanța Casino until the aquarium opened in 1958."] },
-    image: "/geo-images/romania/constanta-aquarium.webp"
+    image: "/geo-images/romania/constanta-aquarium.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Aquarium von Constanța wurde 1958 eröffnet und war die erste Einrichtung dieser Art in Rumänien. Es befindet sich direkt an der Strandpromenade gegenüber dem historischen Casino. In über 50 Becken werden mehr als 100 Arten von Fischen und Wasserlebewesen aus dem Schwarzen Meer sowie aus tropischen Gewässern präsentiert.",
+      hu: "A Konstancai Akvárium 1958-ban nyílt meg, és ez volt az első ilyen jellegű intézmény Romániában. Közvetlenül a tengerparti sétányon, a történelmi Kaszinóval szemben található. Több mint 50 medencében több mint 100 halfajt és vízi élőlényt mutatnak be a Fekete-tengerből, valamint trópusi vizekből.",
+      ro: "Acvariul din Constanța a fost inaugurat în anul 1958, fiind prima instituție de acest profil din România. Acesta este situat pe faleza orașului, chiar în fața Cazinoului istoric. În cele peste 50 de bazine sunt prezentate mai mult de 100 de specii de pești și creaturi acvatice din Marea Neagră și din zone tropicale.",
+      en: "The Constanța Aquarium was inaugurated in 1958, being the first institution of its kind in Romania. It is located on the city's seafront promenade, right across from the historic Casino. More than 100 species of fish and aquatic creatures from the Black Sea and tropical regions are presented in over 50 tanks.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet im Jahr 1958", "Erstes Aquarium in Rumänien", "Beherbergt über 100 Fischarten", "Verfügt über 57 Schaubecken", "Liegt direkt am Schwarzen Meer", "Gegenüber dem Casino Constanța"],
+      hu: ["1958-ban nyitották meg", "Románia első akváriuma", "Több mint 100 halfaj látható", "57 bemutató medencével rendelkezik", "Közvetlenül a Fekete-tenger partján", "A konstancai Kaszinóval szemben"],
+      ro: ["Inaugurat în anul 1958", "Primul acvariu public din țară", "Peste 100 de specii de pești", "Dispune de 57 de bazine", "Situat pe faleza Marii Negre", "Amplasat vis-a-vis de Cazinou"],
+      en: ["Opened in the year 1958", "First public aquarium in Romania", "Houses over 100 fish species", "Features 57 display tanks", "Located on the Black Sea coast", "Situated across from the Casino"],
+    },
   },
 
   // COVASNA (RO-CV)
@@ -3638,21 +6056,60 @@ export const romaniaExtraPois: POI[] = [
     name: { de: "Sankt Georgen", hu: "Sepsiszentgyörgy", ro: "Sfântu Gheorghe", en: "Sfântu Gheorghe" },
     description: { de: "Wichtiges Zentrum des Szeklerlandes.", hu: "A Székelyföld fontos központja.", ro: "Centru important al Ținutului Secuiesc.", en: "Important center of Szeklerland." },
     facts: { de: ["Sfântu Gheorghe ([ˈsfɨntu ˈ⁠ɟeor⁠ɟe]; bis 1993 Sfîntu Gheorghe, deutsch Sankt Georgen, ungarisch Sepsiszentgyörgy [ˈʃɛpʃisɛɲɟørɟ]) ist die Hauptstadt des Kreises Covasna in Rumänien.", "Sie liegt am Fluss Olt in einem Tal zwischen dem Baraolt- und dem Bodoc-Gebirge.", "Im Jahr 2003 hatte sie etwa 61.500 Einwohner."], hu: [], ro: ["Sfântu Gheorghe (în maghiară Sepsiszentgyörgy sau Szentgyörgy, în germană Sankt Georgen) este municipiul de reședință al județului Covasna, Transilvania, România, format din localitatea componentă Sfântu Gheorghe (reședința), și din satele Chilieni și Coșeni.", "Are o suprafață de 7.292 ha."], en: ["Sfântu Gheorghe (pronounced [ˈsfɨntu ˈɡe̯orɡe] ; Hungarian: Sepsiszentgyörgy [ˈʃɛpʃisɛɲɟørɟ] , or Szentgyörgy; Yiddish: סנט דזשארדזש; English lit.: Saint George) is a city that serves as the seat of Covasna County in Transylvania, Romania.", "Located in the central part of the country, it lies on the Olt River in a valley between the Baraolt Mountains and the Bodoc Mountains.", "The town administers two villages, Chilieni (Hungarian: Kilyén) and Coșeni (Hungarian: Szotyor)."] },
-    image: "/geo-images/romania/sfantu-gheorghe.webp"
+    image: "/geo-images/romania/sfantu-gheorghe.webp",
+  
+    descriptionAdvanced: {
+      de: "Sfântu Gheorghe ist die Hauptstadt des Kreises Covasna und liegt am Fluss Olt in der historischen Region Siebenbürgen. Die Stadt wurde erstmals im Jahr 1332 urkundlich erwähnt und ist ein wichtiges kulturelles Zentrum der Szekler. Zu den bedeutendsten Bauwerken gehört die befestigte reformierte Kirche aus dem 14. Jahrhundert.",
+      hu: "Sepsiszentgyörgy Kovászna megye székhelye, az Olt folyó partján fekszik a történelmi Erdélyben. A várost 1332-ben említik először az oklevelek, és a székelység egyik legfontosabb kulturális és gazdasági központja. Legjelentősebb műemléke a 14. századi gótikus vártemplom, amely ma is meghatározza a városképet.",
+      ro: "Sfântu Gheorghe este reședința județului Covasna, fiind situat pe malul râului Olt în regiunea istorică Transilvania. Orașul a fost atestat documentar pentru prima dată în anul 1332 și reprezintă un important centru cultural al comunității maghiare. Printre cele mai vechi edificii se numără biserica reformată fortificată, construită în secolul al XIV-lea.",
+      en: "Sfântu Gheorghe is the capital of Covasna County, located on the banks of the Olt River in southeastern Transylvania. First mentioned in 1332, the city serves as a major cultural and administrative hub for the region's Székely community. Its most notable historical landmark is the 14th-century fortified Reformed Church.",
+    },
+    factsAdvanced: {
+      de: ["Erste urkundliche Erwähnung im Jahr 1332.", "Hauptstadt des Kreises Covasna.", "Liegt in einer Höhe von etwa 555 Metern.", "Beherbergt das Székely-Nationalmuseum, gegründet 1875.", "Die befestigte Kirche stammt aus dem 14. Jahrhundert.", "Die Stadt hat eine Fläche von ca. 72 Quadratkilometern."],
+      hu: ["Első írásos említése 1332-ből származik.", "Kovászna megye közigazgatási központja.", "Átlagos tengerszint feletti magassága 555 méter.", "Itt található a Székely Nemzeti Múzeum, amelyet 1875-ben alapítottak.", "Gótikus vártemploma a 14. században épült.", "A város területe körülbelül 72 négyzetkilométer."],
+      ro: ["Prima atestare documentară datează din anul 1332.", "Este centrul administrativ al județului Covasna.", "Altitudinea medie a orașului este de 555 metri.", "Găzduiește Muzeul Național Secuiesc, fondat în 1875.", "Biserica fortificată a fost construită în secolul al XIV-lea.", "Orașul ocupă o suprafață de aproximativ 72 km pătrați."],
+      en: ["First documented mention of the city was in 1332.", "It is the administrative capital of Covasna County.", "The city sits at an average altitude of 555 meters.", "Home to the Székely National Museum, established in 1875.", "The fortified church dates back to the 14th century.", "The city covers an area of approximately 72 square kilometers."],
+    },
   },
   {
     id: "ro-poi-statiunea-covasna", type: "landmark", parent: "RO-CV", coords: [26.1667, 45.85],
     name: { de: "Kurort Covasna", hu: "Kovásznafürdő", ro: "Stațiunea Covasna", en: "Covasna Resort" },
     description: { de: "Bekannt für Mineralwasser und Mofetten.", hu: "Ásványvizeiről és mofettáiról ismert.", ro: "Cunoscută pentru ape minerale și mofete.", en: "Known for mineral waters and mofettas." },
     facts: { de: [], hu: [], ro: ["Covasna (maghiară Kovászna, în germană Kovasna) este un oraș în județul Covasna, Transilvania, România, format din localitățile componente Chiuruș și Covasna (reședința).", "Numele vine de la cuvântul slavon „kvasny”, ceea ce înseamnă „dospit, fermentat” (cu referire la apele gazoase de aici, care sunt gazoase ca băuturile fermentate - berea, de exemplu).", "Datorită faptului că este situată într-o zonă cu activitate vulcanică (în trecut), localitatea este renumită pentru apele sale minerale și mofetele (emanații gazoase post-vulcanice, predominant dioxid de carbon)."], en: ["Covasna (Romanian pronunciation: [koˈvasna] , Hungarian: Kovászna, Hungarian pronunciation: [ˈkovaːsnɒ] , German: Kowasna) is a town in Covasna County, Transylvania, Romania, at an altitude of 550–600 m (1,800–1,970 ft).", "It is known for its natural mineral waters and mofettas.", "The town administers one village, Chiuruș (Hungarian: Csomakőrös)."] },
-    image: "/geo-images/romania/covasna-resort.webp"
+    image: "/geo-images/romania/covasna-resort.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Kurort Covasna ist bekannt als die \"Stadt der tausend Quellen\" und liegt am Fuße der Brețcu-Berge. Er ist berühmt für seine postvulkanischen Phänomene, insbesondere die natürlichen Kohlendioxid-Mofetten und Mineralwasserquellen. Seit dem 19. Jahrhundert wird der Ort zur Behandlung von Herz-Kreislauf-Erkrankungen genutzt.",
+      hu: "Kovászna városa az \"ezer borvíz városa\" néven ismert üdülőhely a Berecki-hegység lábánál. Hírnevét a posztvulkáni tevékenységeknek, különösen a természetes szén-dioxidos mofettáknak és az ásványvízforrásoknak köszönheti. A 19. század óta fontos gyógyászati központ a szív- és érrendszeri betegségek kezelésében.",
+      ro: "Stațiunea Covasna este cunoscută sub numele de \"orașul celor o mie de izvoare\", fiind situată la poalele Munților Brețcu. Este renumită pentru fenomenele postvulcanice, în special mofetele naturale cu dioxid de carbon și izvoarele de ape minerale. Din secolul al XIX-lea, localitatea este utilizată pentru tratarea afecțiunilor cardiovasculare.",
+      en: "Covasna Resort is known as the \"town of a thousand springs,\" situated at the foothills of the Brețcu Mountains. It is famous for its post-volcanic phenomena, particularly natural carbon dioxide mofettes and mineral water springs. Since the 19th century, it has been a key destination for the treatment of cardiovascular diseases.",
+    },
+    factsAdvanced: {
+      de: ["Wird oft als Stadt der tausend Quellen bezeichnet.", "Bekannt für Mofetten mit einer CO2-Konzentration von bis zu 98%.", "Liegt auf einer Höhe von ca. 560 Metern.", "Die erste Kuranstalt wurde im 19. Jahrhundert eröffnet.", "Beherbergt ein spezialisiertes Krankenhaus für Kardiologie.", "Verfügt über mehr als 10 verschiedene Arten von Mineralwasser."],
+      hu: ["Az ezer borvíz városaként is emlegetik.", "Mofettáinak szén-dioxid koncentrációja eléri a 98%-ot.", "Tengerszint feletti magassága körülbelül 560 méter.", "Az első szervezett gyógyfürdő a 19. században nyílt meg.", "Itt működik Románia egyik legnagyobb kardiológiai kórháza.", "Területén több mint 10-féle különböző összetételű ásványvíz tör fel."],
+      ro: ["Supranumit orașul celor o mie de izvoare minerale.", "Mofetele au o concentrație de dioxid de carbon de până la 98%.", "Stațiunea este situată la o altitudine de 560 metri.", "Primele baze de tratament au fost deschise în secolul al XIX-lea.", "Găzduiește un spital de recuperare cardiovasculară de importanță națională.", "Există peste 10 tipuri diferite de ape minerale în zonă."],
+      en: ["Nicknamed the town of a thousand mineral springs.", "Its mofettes contain a carbon dioxide concentration of up to 98%.", "The resort is located at an altitude of 560 meters.", "The first organized spa facilities were opened in the 19th century.", "Home to a major national hospital specialized in cardiology.", "Features more than 10 distinct types of mineral waters."],
+    },
   },
   {
     id: "ro-poi-balta-dracului", type: "landmark", parent: "RO-CV", coords: [26.175, 45.845],
     name: { de: "Teufelsteich", hu: "Pokolsár", ro: "Balta Dracului", en: "Devil's Pond" },
     description: { de: "Eine vulkanische Schlammemission.", hu: "Egy vulkáni iszapkitörés.", ro: "O emanație de noroi vulcanic.", en: "A volcanic mud emission." },
     facts: { de: ["Die Liste der Naturschutzgebiete in Rumänien enthält die Naturschutzgebiete von nationaler Bedeutung, die erstmals durch das Gesetz Nummer 5 vom 6.", "März 2000 ausgewiesen und durch die Regierungsbeschlüsse Nummer 2151 vom 30.", "November 2004, Nummer 1581 vom 8."], hu: ["Pokolsár (románul Balta Dracului) egy meleg iszapvulkán Kovászna belvárosában, a Főtér keleti peremén.", "Iszapját kezdetben fürdőkúrára használtak."], ro: ["Piperul de baltă, sau dintele-dracului, iarba iute, piparca sălbatică, troscot piperat, trestie mirositoare (Persicaria hydropiper, sin.", "Polygonum hydropiper) este o specie de plante din familia Polygonaceae.", "Crește în locuri umede și apă mică; este nativă zonei temperate din emisfera nordică."], en: ["A devil is the mythical personification of evil as it is conceived in various cultures and religious traditions.", "It is seen as the objectification of a hostile and destructive force.", "Jeffrey Burton Russell states that the different conceptions of the devil can be summed up as 1) a principle of evil independent from God, 2) an aspect of God, 3) a created being turning evil (a fallen angel) or 4) a symbol of human evil."] },
-    image: "/geo-images/romania/devil.webp"
+    image: "/geo-images/romania/devil.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Teufelsteich (Balta Dracului) ist ein einzigartiges Naturdenkmal im Zentrum von Covasna, das durch postvulkanische Gasemissionen entstanden ist. Es handelt sich um eine Schlammgrube, in der Kohlendioxid und Schwefelwasserstoff ständig an die Oberfläche sprudeln. Ursprünglich wurde das Phänomen im 18. Jahrhundert als eruptive Quelle dokumentiert.",
+      hu: "A Pokolsár (Balta Dracului) Kovászna központjában található egyedülálló természeti emlék, amely posztvulkáni gázkitörések eredménye. Ez egy iszapos mélyedés, ahol a feltörő szén-dioxid és kénes gázok folyamatosan bugyborékoltatják a vizet. A jelenséget először a 18. században jegyezték fel kitörő forrásként.",
+      ro: "Balta Dracului este un monument al naturii unic situat în centrul orașului Covasna, format prin emanații de gaze postvulcanice. Este o groapă cu noroi unde dioxidul de carbon și hidrogenul sulfurat bolborosesc constant la suprafață. Fenomenul a fost documentat inițial în secolul al XVIII-lea ca fiind o sursă eruptivă.",
+      en: "Devil's Pond (Balta Dracului) is a unique natural monument in the center of Covasna, formed by post-volcanic gas emissions. It is a muddy pit where carbon dioxide and hydrogen sulfide constantly bubble to the surface. The phenomenon was first documented in the 18th century as an eruptive spring.",
+    },
+    factsAdvanced: {
+      de: ["Ist ein geschütztes geologisches Naturdenkmal seit 1927.", "Besteht aus einer Mischung von Wasser, Schlamm und Gasen.", "Die Gase bestehen hauptsächlich aus Kohlendioxid.", "Wurde im 18. und 19. Jahrhundert für mehrere Eruptionen bekannt.", "Befindet sich im zentralen Park der Stadt Covasna.", "Dient als sichtbarer Beweis für die vulkanische Vergangenheit der Region."],
+      hu: ["1927 óta védett geológiai természeti emlék.", "Víz, iszap és feltörő gázok keveréke alkotja.", "A feltörő gáz fő alkotóeleme a szén-dioxid.", "A 18. és 19. században több jelentős kitörést is produkált.", "Kovászna város központi parkjában helyezkedik el.", "A régió vulkanikus múltjának egyik leglátványosabb bizonyítéka."],
+      ro: ["Este declarat monument al naturii din anul 1927.", "Formațiunea conține un amestec de apă, nămol și gaze.", "Gazul predominant emis este dioxidul de carbon.", "În secolele XVIII și XIX au fost înregistrate mai multe erupții.", "Se află amplasată chiar în parcul central din Covasna.", "Reprezintă o dovadă vizibilă a activității vulcanice trecute din zonă."],
+      en: ["Designated as a protected geological monument since 1927.", "Consists of a mixture of water, mud, and rising gases.", "The primary gas emitted is carbon dioxide.", "Several significant eruptions were recorded in the 18th and 19th centuries.", "Located within the central park of Covasna town.", "Serves as visible evidence of the region's volcanic past."],
+    },
   },
 
   // DÂMBOVIȚA (RO-DB)
@@ -3661,7 +6118,20 @@ export const romaniaExtraPois: POI[] = [
     name: { de: "Ialomița-Höhle", hu: "Ialomița-barlang", ro: "Peștera Ialomiței", en: "Ialomița Cave" },
     description: { de: "Höhle im Bucegi-Gebirge mit Kloster.", hu: "Barlang a Bucsecs-hegységben kolostorral.", ro: "Peșteră în Munții Bucegi cu o mănăstire.", en: "Cave in the Bucegi Mountains with a monastery." },
     facts: { de: ["Die folgende Liste enthält alle 435 Fauna-Flora-Habitat-Gebiete in Rumänien.", "Die Gebiete sind Bestandteil des europäischen Schutzgebietsnetzes Natura 2000.", "Das flächenmäßig größte FFH-Gebiet in Rumänien ist mit 4.536,5 km² das Donaudelta."], hu: ["Rasova község Constanța megyében, Dobrudzsában, Romániában.", "A hozzá tartozó település Cochirleni."], ro: ["Peștera Ialomiței, știută și drept Peștera Schitul Ialomiței, Peștera Schitului, sau Peștera Ialomicioarei, este o peșteră din Munții Bucegi, una din cele mai cunoscute din România."], en: ["This is one of a series of comprehensive lists of continents, countries, and first level administrative country subdivisions such as states, provinces, and territories, as well as certain political and geographic features of substantial area.", "References for the information provided in this table may be found in the individual articles on each body listed herein.", "Some divisions are listed twice, with one listing including territory that is excluded in the other for various reasons, including territorial disputes."] },
-    image: "/geo-images/romania/ro-poi-pestera-ialomitei.webp"
+    image: "/geo-images/romania/ro-poi-pestera-ialomitei.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Ialomița-Höhle befindet sich im Bucegi-Gebirge am rechten Hang der Ialomița-Schlucht auf einer Höhe von 1.660 Metern. Am Eingang der Höhle steht ein im 16. Jahrhundert gegründetes Kloster, das der Heiligen Maria gewidmet ist. Die Höhle erstreckt sich über eine Länge von etwa 480 Metern und besteht aus mehreren großen Sälen.",
+      hu: "A Jalomica-barlang a Bucsecs-hegységben, a Jalomica-szoros jobb oldali falában található, 1660 méteres magasságban. A barlang bejáratánál egy 16. században alapított, Szűz Máriának szentelt kolostor áll. A járatok hossza körülbelül 480 méter, amelyeket több tágas terem és látványos karsztképződmény tagol.",
+      ro: "Peștera Ialomiței este situată în Munții Bucegi, pe versantul drept al Cheilor Ialomiței, la o altitudine de 1.660 de metri. La intrarea în peșteră se află o mănăstire ctitorită în secolul al XVI-lea, dedicată Sfintei Maria. Peștera are o lungime de aproximativ 480 de metri și este formată din mai multe săli vaste.",
+      en: "Ialomița Cave is located in the Bucegi Mountains on the right slope of the Ialomița Gorges at an altitude of 1,660 meters. At the cave's entrance stands a monastery founded in the 16th century, dedicated to Saint Mary. The cave spans approximately 480 meters in length and consists of several large underground chambers.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich auf einer Höhe von 1.660 Metern.", "Die Gesamtlänge der begehbaren Gänge beträgt 480 Meter.", "Das Kloster am Eingang wurde 1508 von Mihnea cel Rău gegründet.", "Die Temperatur in der Höhle liegt konstant bei 4-6 Grad Celsius.", "Der größte Saal ist der Mihnea-Saal mit 115 Metern Länge.", "Wurde im Jahr 2015 modernisiert und elektrisch beleuchtet."],
+      hu: ["Tengerszint feletti magassága 1660 méter.", "A látogatható járatok hossza összesen 480 méter.", "A bejárati kolostort 1508-ban alapította Mihnea cel Rău fejedelem.", "A barlang belső hőmérséklete állandóan 4-6 Celsius-fok.", "Legnagyobb terme a Mihnea-terem, amely 115 méter hosszú.", "2015-ben teljes felújításon és villanyosításon esett át."],
+      ro: ["Este situată la o altitudine de 1.660 metri.", "Lungimea totală a galeriilor vizitabile este de 480 metri.", "Mănăstirea de la intrare a fost ctitorită în 1508 de Mihnea cel Rău.", "Temperatura interioară este constantă, între 4 și 6 grade Celsius.", "Cea mai mare încăpere este Sala Mihnea Vodă, lungă de 115 metri.", "Peștera a fost modernizată și iluminată electric în anul 2015."],
+      en: ["Situated at a high altitude of 1,660 meters.", "Total length of the accessible galleries is 480 meters.", "The monastery at the entrance was founded in 1508 by Mihnea cel Rău.", "Inside temperature remains constant between 4 and 6 degrees Celsius.", "The largest chamber is the Mihnea Vodă Hall, 115 meters long.", "The cave was fully modernized and electrically lit in 2015."],
+    },
   },
 
   // DOLJ (RO-DJ)
@@ -3670,14 +6140,40 @@ export const romaniaExtraPois: POI[] = [
     name: { de: "Nicolae-Romanescu-Park", hu: "Nicolae Romanescu Park", ro: "Parcul Nicolae Romanescu", en: "Nicolae Romanescu Park" },
     description: { de: "Einer der größten Naturparks in Europa.", hu: "Európa egyik legnagyobb természetes parkja.", ro: "Unul dintre cele mai mari parcuri naturale din Europa.", en: "One of the largest natural parks in Europe." },
     facts: { de: [], hu: [], ro: ["Parcul Nicolae Romanescu din Craiova este cel mai mare și mai cunoscut parc al orașului, fiind declarat monument istoric cu codul DJ-II-a-A-07924.", "La inițiativa lui Nicolae P.", "Romanescu, primarul Craiovei de la acea vreme, parcul a fost proiectat de arhitectul francez Édouard Redont."], en: ["Nicolae Romanescu Park (Romanian: Parcul Nicolae Romanescu), known over time as the Bibescu Park, the Independence Park or the People's Park, is a park in Craiova, Romania.", "Located on the site of the mid-19th century estate and gardens of the Bibescu family, it was designed by the French architect Édouard Redont and constructed between 1897 and 1903.", "It is wrongly considered in pop culture as the largest natural park in Eastern Europe."] },
-    image: "/geo-images/romania/nicolae-romanescu-park.webp"
+    image: "/geo-images/romania/nicolae-romanescu-park.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Nicolae-Romanescu-Park in Craiova ist einer der größten und bedeutendsten Stadtparks in Südosteuropa. Er wurde zwischen 1901 und 1903 nach Entwürfen des französischen Architekten Édouard Redont auf einer Fläche von 90 Hektar angelegt. Der Park zeichnet sich durch seine romantische Gestaltung mit einem See, einer Hängebrücke und künstlichen Ruinen aus.",
+      hu: "A craiovai Nicolae Romanescu park Délkelet-Európa egyik legnagyobb és legjelentősebb városi parkja. 1901 és 1903 között épült Édouard Redont francia építész tervei alapján, 90 hektáros területen. A parkot romantikus stílus jellemzi, tóval, függőhíddal, várrom-utánzatokkal és egy hippodrommal is rendelkezik.",
+      ro: "Parcul Nicolae Romanescu din Craiova este unul dintre cele mai mari și reprezentative parcuri urbane din sud-estul Europei. A fost amenajat între anii 1901 și 1903 după planurile arhitectului francez Édouard Redont, pe o suprafață de 90 de hectare. Parcul cuprinde un lac, o punte suspendată și ruine decorative, fiind un monument de arhitectură peisajeră.",
+      en: "Nicolae Romanescu Park in Craiova is one of the largest and most significant urban parks in Southeastern Europe. It was designed between 1901 and 1903 by French architect Édouard Redont, covering an area of 90 hectares. The park features a romantic landscape with a lake, a suspension bridge, artificial ruins, and a hippodrome.",
+    },
+    factsAdvanced: {
+      de: ["Erstreckt sich über eine Gesamtfläche von 90 Hektar.", "Gewann die Goldmedaille auf der Weltausstellung in Paris 1900.", "Wurde am 29. September 1903 offiziell eingeweiht.", "Die Hängebrücke wurde zwischen 1901 und 1902 erbaut.", "Beherbergt einen Hippodrom auf einer Fläche von 20 Hektar.", "Der Park verfügt über ein Kanalsystem von über 4 km Länge."],
+      hu: ["Teljes területe 90 hektár.", "Aranyérmet nyert az 1900-as párizsi világkiállításon.", "Hivatalos felavatása 1903. szeptember 29-én történt.", "A park jellegzetes függőhídja 1901-1902 között épült.", "Területén egy 20 hektáros hippodrom (lóversenypálya) is található.", "A parkban több mint 4 km hosszúságú csatornarendszer fut."],
+      ro: ["Ocupă o suprafață totală de 90 de hectare.", "Proiectul a primit medalia de aur la Expoziția Universală de la Paris din 1900.", "Inaugurarea oficială a avut loc pe 29 septembrie 1903.", "Podul suspendat a fost construit între anii 1901 și 1902.", "Include un hipodrom ce se întinde pe 20 de hectare.", "Sistemul de canale din interiorul parcului are peste 4 km lungime."],
+      en: ["Covers a total area of 90 hectares.", "The project won a gold medal at the 1900 Universal Exhibition in Paris.", "Officially inaugurated on September 29, 1903.", "The iconic suspension bridge was built between 1901 and 1902.", "Includes a hippodrome that spans 20 hectares.", "The park features a canal system over 4 kilometers in length."],
+    },
   },
   {
     id: "ro-poi-muzeul-arta-craiova", type: "landmark", parent: "RO-DJ", coords: [23.795, 44.3183],
     name: { de: "Kunstmuseum Craiova", hu: "Craiova Művészeti Múzeum", ro: "Muzeul de Artă Craiova", en: "Craiova Art Museum" },
     description: { de: "Beherbergt Werke von Constantin Brâncuși.", hu: "Constantin Brâncuși műveinek ad otthont.", ro: "Găzduiește opere de Constantin Brâncuși.", en: "Houses works by Constantin Brâncuși." },
     facts: { de: ["Constantin Brâncuși, Aussprache: rumänisch [konstanˈtin brɨŋˈkuʃʲ] , französisch [kɔ̃stɑ̃ˈtɛ̃ bʁɑ̃kyˈzi] (* 19.", "Februar 1876 in Hobița; † 16.", "März 1957 in Paris) war ein rumänisch-französischer Bildhauer der Moderne und Fotograf seiner Werke im Umfeld seines Ateliers."], hu: [], ro: ["Muzeul de Artă din Craiova este un muzeu județean din Craiova, amplasat în Calea Unirii nr.", "Înființat în anul 1908 sub numele de Pinacoteca Alexandru și Aristia Aman, va deveni în 1954 Muzeul de Artă Craiova.", "Muzeul este adăpostit în Palatul Constantin Mihail, monument de arhitectură, cunoscut și ca Palatul Jean Mihail, construit în 1900 - 1907 în stilul eclectic (cu influențe puternice de neobaroc), după planurile arhitectului francez Paul Gottereau, inaugurat în 1909."], en: ["The Craiova Art Museum (Romanian: Muzeul de Artă din Craiova) is an art museum in the city of Craiova, Oltenia, Romania.", "The museum is housed in the Constantin Mihail Palace, built from 1898 to 1907 according to the plans of French architect Paul Gottereau.", "The palace once belonged to Michael Constantine (1837—1908), a member of one of the richest families in Romania and is known as Jean Mihail Palace."] },
-    image: "/geo-images/romania/craiova-art-museum.webp"
+    image: "/geo-images/romania/craiova-art-museum.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Kunstmuseum von Craiova ist im prächtigen Jean-Mihail-Palast untergebracht, der zwischen 1899 und 1907 im spätbarocken Stil erbaut wurde. Das Museum ist international bekannt für seine wertvolle Sammlung von Werken des Bildhauers Constantin Brâncuși, darunter \"Der Kuss\". Der Palast selbst ist ein Meisterwerk mit Carrara-Marmor-Treppen und Seidentapeten.",
+      hu: "A craiovai Művészeti Múzeum a Jean Mihail-palotában kapott helyet, amely 1899 és 1907 között épült késő barokk stílusban. A múzeum nemzetközileg ismert Constantin Brâncuși szobrászművész értékes gyűjteményéről, amely többek között a \"Csók\" című művét is tartalmazza. Maga a palota carrarai márványlépcsőivel az ország egyik legszebb épülete.",
+      ro: "Muzeul de Artă din Craiova este adăpostit în somptuosul Palat Jean Mihail, construit între 1899 și 1907 în stil neobaroc. Muzeul este renumit la nivel internațional pentru colecția valoroasă de lucrări ale sculptorului Constantin Brâncuși, printre care și \"Sărutul\". Palatul în sine este o capodoperă cu scări din marmură de Carrara și tapiserii din mătase.",
+      en: "The Craiova Art Museum is housed in the opulent Jean Mihail Palace, built between 1899 and 1907 in late Baroque style. The museum is internationally renowned for its prestigious collection of works by sculptor Constantin Brâncuși, including \"The Kiss.\" The palace itself is an architectural masterpiece featuring Carrara marble staircases and silk wallpapers.",
+    },
+    factsAdvanced: {
+      de: ["Der Palast wurde vom französischen Architekten Paul Gottereau entworfen.", "Die Einweihung des Gebäudes fand im Jahr 1907 statt.", "Beherbergt sechs frühe Skulpturen von Constantin Brâncuși.", "Verfügt über Treppen aus weißem Carrara-Marmor.", "Das Museum wurde im Jahr 1954 offiziell gegründet.", "Das Gebäude diente 1939 als Sitz der polnischen Exilregierung."],
+      hu: ["A palotát Paul Gottereau francia építész tervezte.", "Az épület építése 1907-ben fejeződött be.", "Hat darab korai Constantin Brâncuși szobrot őriznek itt.", "A belső lépcsők fehér carrarai márványból készültek.", "A múzeumot hivatalosan 1954-ben alapították.", "1939-ben itt székelt az emigráns lengyel kormány."],
+      ro: ["Palatul a fost proiectat de arhitectul francez Paul Gottereau.", "Construcția clădirii a fost finalizată în anul 1907.", "Adăpostește șase sculpturi timpurii ale lui Constantin Brâncuși.", "Scările interioare sunt realizate din marmură albă de Carrara.", "Muzeul a fost înființat oficial în anul 1954.", "Clădirea a servit drept sediu al guvernului polonez în exil în 1939."],
+      en: ["The palace was designed by French architect Paul Gottereau.", "Construction of the building was completed in 1907.", "Houses six early sculptures by the world-famous Constantin Brâncuși.", "Features interior staircases crafted from white Carrara marble.", "The museum was officially established in 1954.", "The building hosted the Polish government-in-exile in 1939."],
+    },
   },
 
   // GALAȚI (RO-GL)
@@ -3686,14 +6182,40 @@ export const romaniaExtraPois: POI[] = [
     name: { de: "Donauuferpromenade", hu: "Dunai sétány", ro: "Faleza Dunării Galați", en: "Danube Promenade" },
     description: { de: "Die längste Uferpromenade in Rumänien.", hu: "A leghosszabb folyóparti sétány Romániában.", ro: "Cea mai lungă faleză pe malul apei din România.", en: "The longest river promenade in Romania." },
     facts: { de: [], hu: [], ro: ["Galați este municipiul de reședință al județului cu același nume, Moldova, România.", "Se află în apropiere de frontiera triplă sudică cu Republica Moldova și Ucraina.", "Conform ultimului recensământ, municipiul numără 217.851 de locuitori stabili, respectiv 311.000 după domiciliu."], en: ["The Danube Promenade (Hungarian: Dunakorzó) is located on the Pest side of Budapest, Hungary.", "The promenade itself lies on the left bank of the Danube, extending from the Széchenyi Chain Bridge to the Erzsébet Bridge."] },
-    image: "/geo-images/romania/danube-promenade.webp"
+    image: "/geo-images/romania/danube-promenade.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Donaupromenade in Galați ist mit einer Länge von etwa 4 Kilometern eine der längsten Uferpromenaden entlang des Flusses. Sie ist in zwei Ebenen unterteilt und dient als wichtiges Erholungsgebiet sowie als Freilichtmuseum für monumentale Metallskulpturen. Die Promenade bietet einen weiten Blick auf den Fluss und die Macin-Berge in der Ferne.",
+      hu: "A galaci Duna-parti sétány (Faleza Dunării) körülbelül 4 kilométeres hosszával az egyik leghosszabb folyóparti korzó a Duna mentén. Két szintre tagozódik, és fontos pihenőövezet, valamint monumentális fémszobrok szabadtéri múzeuma. A sétányról tiszta időben szép kilátás nyílik a folyóra és a távoli Măcin-hegységre.",
+      ro: "Faleza Dunării din Galați este una dintre cele mai lungi promenade de pe malul fluviului, având o lungime de aproximativ 4 kilometri. Este structurată pe două niveluri și reprezintă un important spațiu de recreere, dar și un muzeu în aer liber de sculptură monumentală în metal. Faleza oferă o panoramă vastă asupra Dunării și Munților Măcin.",
+      en: "The Danube Promenade in Galați is one of the longest riverfront walkways along the Danube, stretching for approximately 4 kilometers. It is organized into two levels and serves as a major recreational area and an open-air museum for monumental metal sculptures. The promenade offers expansive views of the river and the Măcin Mountains in the distance.",
+    },
+    factsAdvanced: {
+      de: ["Hat eine Gesamtlänge von etwa 4 Kilometern.", "Ist in die obere und die untere Promenade unterteilt.", "Beherbergt über 40 monumentale Metallskulpturen.", "Die Skulpturen stammen von Symposien zwischen 1976 und 1991.", "Ist der Austragungsort für das jährliche Donau-Festival.", "Bietet Anlegestellen für Ausflugsschiffe auf der Donau."],
+      hu: ["Teljes hossza megközelíti a 4 kilométert.", "Két részből áll: az alsó és a felső sétányból.", "Több mint 40 monumentális fémszobor található a területén.", "A szobrok az 1976 és 1991 közötti alkotótáborok során készültek.", "Ez a helyszíne az évente megrendezett Duna-fesztiválnak.", "Közvetlen csatlakozást biztosít a dunai sétahajók kikötőihez."],
+      ro: ["Are o lungime totală de aproximativ 4 kilometri.", "Este divizată în două secțiuni: faleza superioară și cea inferioară.", "Găzduiește peste 40 de sculpturi monumentale din metal.", "Operele au fost realizate în cadrul unor tabere între 1976 și 1991.", "Este locul principal de desfășurare pentru Festivalul Dunării.", "Dispune de pontoane pentru acostarea navelor de croazieră."],
+      en: ["Spans a total length of approximately 4 kilometers.", "Divided into two main sections: the Upper and Lower Promenades.", "Features over 40 monumental metal sculptures along its path.", "The artworks were created during symposia held between 1976 and 1991.", "Primary venue for the annual Danube Festival celebrations.", "Provides docking points for Danube river cruise ships."],
+    },
   },
   {
     id: "ro-poi-turnul-tv-galati", type: "landmark", parent: "RO-GL", coords: [28.0289, 45.4258],
     name: { de: "Galați Fernsehturm", hu: "Galați TV Torony", ro: "Turnul de Televiziune Galați", en: "Galați TV Tower" },
     description: { de: "Turm mit Restaurant auf der Spitze.", hu: "Torony étteremmel a tetején.", ro: "Turn cu restaurant în vârf.", en: "Tower with a restaurant at the top." },
     facts: { de: [], hu: [], ro: ["Turnul de Televiziune Galați este un turn de 110 m înălțime din beton armat din Galați, România."], en: ["Galați TV Tower (Romanian: Turnul de televiziune Galaţi) is a 110-metre (360 ft) tall concrete tower used for FM and TV broadcasting in Galați, Romania.", "The tower, completed in 1978, is equipped with a tower restaurant, perhaps the only of this kind in Romania."] },
-    image: "/geo-images/romania/galati-tv-tower.webp"
+    image: "/geo-images/romania/galati-tv-tower.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Fernsehturm von Galați ist eine 110 Meter hohe Stahlbetonkonstruktion am Ufer der Donau, die im Jahr 1978 fertiggestellt wurde. Er ist eines der markantesten Wahrzeichen der Stadt und bietet in 86 Metern Höhe ein rotierendes Restaurant. Von der Aussichtsplattform aus hat man einen Panoramablick über die Stadt, die Donau und die Region.",
+      hu: "A galaci tévétorony egy 110 méter magas vasbeton szerkezet a Duna partján, amelyet 1978-ban fejeztek be. A város egyik legfontosabb jelképe, amelynek 86 méteres magasságában egy körforgó étterem is található. A kilátóteraszról lenyűgöző panoráma nyílik a városra, a Dunára és tiszta időben a távoli hegyekre.",
+      ro: "Turnul TV din Galați este o structură din beton armat înaltă de 110 metri, situată pe malul Dunării și finalizată în anul 1978. Reprezintă unul dintre cele mai importante repere ale orașului, având un restaurant circular situat la înălțimea de 86 de metri. De pe platforma de observație se poate vedea o panoramă a orașului și a Dunării.",
+      en: "The Galați TV Tower is a 110-meter-tall reinforced concrete structure on the banks of the Danube, completed in 1978. It stands as one of the city's most prominent landmarks, featuring a circular restaurant located at a height of 86 meters. From the observation deck, visitors can enjoy panoramic views of the city and the Danube River.",
+    },
+    factsAdvanced: {
+      de: ["Die Gesamthöhe des Turms beträgt 110 Meter.", "Wurde im Jahr 1978 offiziell in Betrieb genommen.", "Das Restaurant befindet sich in einer Höhe von 86 Metern.", "Besteht aus einem zylindrischen Schaft aus Stahlbeton.", "Verfügt über einen modernen Aufzug für Besucher.", "Dient zur Übertragung von Radio- und Fernsehsignalen."],
+      hu: ["A torony teljes magassága 110 méter.", "Hivatalosan 1978-ban adták át a forgalomnak.", "Az étterem és a kilátó 86 méteres magasságban van.", "Szerkezete egy henger alakú vasbeton pilléren alapul.", "Modern lifttel rendelkezik a látogatók szállítására.", "Elsődleges funkciója a rádió- és televíziós adások sugárzása."],
+      ro: ["Înălțimea totală a turnului este de 110 metri.", "A fost dat în folosință oficial în anul 1978.", "Restaurantul este situat la cota de 86 de metri.", "Structura este compusă dintr-un stâlp cilindric din beton armat.", "Este dotat cu un ascensor modern pentru accesul vizitatorilor.", "Servește ca punct de emisie pentru semnale radio și TV."],
+      en: ["The total height of the tower is 110 meters.", "Officially put into operation in 1978.", "The restaurant is situated at an elevation of 86 meters.", "The structure consists of a cylindrical reinforced concrete shaft.", "Equipped with a modern elevator for visitor access.", "Serves as a transmission point for radio and television signals."],
+    },
   },
 
   // GIURGIU (RO-GR)
@@ -3702,14 +6224,40 @@ export const romaniaExtraPois: POI[] = [
     name: { de: "Freundschaftsbrücke", hu: "Barátság híd", ro: "Podul Prieteniei", en: "Friendship Bridge" },
     description: { de: "Brücke über die Donau nach Ruse.", hu: "Híd a Dunán Ruse felé.", ro: "Pod peste Dunăre către Ruse.", en: "Bridge over the Danube to Ruse." },
     facts: { de: ["Die Giurgiu-Russe-Freundschaftsbrücke oder Brücke der Freundschaft (bulgarisch Мост на дружбата Most na druschbata; rumänisch Podul prieteniei) ist eine Straßen- und Eisenbahnbrücke über die Donau zwischen den Städten Giurgiu in Rumänien und Russe in Bulgarien."], hu: ["A nyelvészetben is használt deixis (< ógörög δεῖξις (deixisz) „rámutatás”) terminus eredetileg a formális logika szakszava.", "Nyelvi eszközzel való közvetlen utalást nevez meg a beszédhelyzettel kapcsolatos egyik vagy másik nyelven kívüli entitásra, amelyet sajátos módon aktualizál.", "A deiktikus elemnek nevezett nyelvi eszköz személyre, tárgyra, helyre, időre, cselekvési módra, minőségre vagy szociális viszonyra utal."], ro: ["Podul Prieteniei este numele mai multor poduri care leagă țări separate de râuri sau strâmtori.", "Podul Prieteniei (Paraguay–Brazilia) - leagă Paraguayul de Brazilia Podul Prieteniei sino-coreană - leagă Republica Populară Chineză de Coreea de Nord Podul Prieteniei sino-nepaleză - leagă Republica Populară Chineză de Nepal (Photograph 1, Photo 2 Arhivat în 29 septembrie 2007, la Wayback Machine.) Podul Prieteniei (China–Pakistan) - leagă Republica Populară Chineză de Pakistan Podul Prieteniei thailandezo–laoțiană - leagă Thailanda de Laos Podul Prieteniei Qatar–Bahrain - leagă Qatarul de Bahrain (în stadiul de planificare în 2005) Podul Prieteniei Afghanistan–Uzbekistan - leagă Afghanistanul de Uzbekistan Podul Prieteniei Giurgiu-Ruse - leagă Bulgaria și România peste Dunăre Podul Prieteniei este de asemenea numele unui pod care leagă două părți ale Macaului, Peninsula Macau și Ilha da Taipa, separate de apă - Podul Prieteniei sino-portugheze (Ponte de Amizade) Un alt Pod al Prieteniei se află în Bangkok - Podul Prieteniei thailandezo-japoneză."], en: ["Friendship Bridge may refer to:"] },
-    image: "/geo-images/romania/friendship-bridge.webp"
+    image: "/geo-images/romania/friendship-bridge.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Brücke der Freundschaft verbindet die rumänische Stadt Giurgiu mit der bulgarischen Stadt Ruse über die Donau. Sie wurde 1954 eröffnet und war jahrzehntelang die einzige Brücke zwischen den beiden Ländern. Das Bauwerk ist eine kombinierte Stahlgitterbrücke für den Straßen- und Schienenverkehr mit einer beeindruckenden Gesamtlänge von über 2,2 Kilometern.",
+      hu: "A Barátság híd a romániai Gyurgyevót (Giurgiu) és a bulgáriai Ruszét köti össze a Duna felett. 1954-ben nyitották meg, és évtizedekig ez volt az egyetlen híd a két ország között. A szerkezet egy kombinált közúti és vasúti acélrácsos híd, amelynek teljes hossza meghaladja a 2,2 kilométert.",
+      ro: "Podul Prieteniei leagă orașul românesc Giurgiu de orașul bulgar Ruse, traversând fluviul Dunărea. A fost inaugurat în anul 1954 și a reprezentat timp de decenii singura legătură fixă peste Dunăre între cele două țări. Este un pod metalic combinat, rutier și feroviar, având o lungime totală de peste 2,2 kilometri.",
+      en: "The Friendship Bridge connects the Romanian city of Giurgiu with the Bulgarian city of Ruse across the Danube River. Opened in 1954, it was for decades the only bridge connecting the two countries. The structure is a combined road and rail steel truss bridge, spanning a total length of over 2.2 kilometers.",
+    },
+    factsAdvanced: {
+      de: ["Wurde am 20. Juni 1954 offiziell eingeweiht.", "Hat eine Gesamtlänge von 2.223 Metern.", "Verfügt über zwei Ebenen für Autos und Züge.", "Der Mittelteil kann für die Durchfahrt großer Schiffe angehoben werden.", "Wurde mit Unterstützung der Sowjetunion gebaut.", "Ist Teil des paneuropäischen Verkehrskorridors Nr. 9."],
+      hu: ["Hivatalos felavatása 1954. június 20-án volt.", "Teljes hossza 2223 méter.", "Kétszintes kialakítású: külön szinten fut az autó- és vonatforgalom.", "Középső része megemelhető a nagyobb hajók áthaladása érdekében.", "A Szovjetunió technikai segítségével épült fel.", "A 9-es számú páneurópai közlekedési folyosó része."],
+      ro: ["Inaugurarea oficială a avut loc pe 20 iunie 1954.", "Are o lungime totală de 2.223 de metri.", "Este un pod cu două niveluri: rutier deasupra și feroviar dedesubt.", "Secțiunea centrală este mobilă pentru a permite trecerea navelor mari.", "Construcția a fost realizată cu sprijinul Uniunii Sovietice.", "Face parte din Coridorul de Transport Paneuropean nr. 9."],
+      en: ["Officially inaugurated on June 20, 1954.", "Spans a total length of 2,223 meters.", "Features a dual-level design for both road and rail traffic.", "The central section can be lifted to allow large ships to pass.", "Built with technical assistance from the Soviet Union.", "Part of the Pan-European Transport Corridor No. 9."],
+    },
   },
   {
     id: "ro-poi-parcul-comana", type: "landmark", parent: "RO-GR", coords: [26.1433, 44.175],
     name: { de: "Naturpark Comana", hu: "Comana Natúrpark", ro: "Parcul Natural Comana", en: "Comana Natural Park" },
     description: { de: "Feuchtgebiet und Waldgebiet.", hu: "Vizes élőhely és erdő.", ro: "Zonă umedă și forestieră.", en: "Wetland and forest area." },
     facts: { de: ["i3i6 Der Naturpark Comana (rumänisch Parcul Natural Comana) ist ein nach den IUCN-Richtlinien erklärtes Naturschutzgebiet in Rumänien und gehört zur IUCN-Kategorie V."], hu: ["A Comana Natúrpark (románul Parcul Natural Comana) IUCN V-ös besorolású védett terület Románia déli részén, Giurgiu megye területén, Bukarest és Giurgiu városok között félúton."], ro: ["Parcul Natural Comana este o arie protejată de interes național ce corespunde categoriei a V-a IUCN (parc natural), situat în Muntenia, pe teritoriul județului Giurgiu."], en: ["The Comana Natural Park (Romanian: Parcul Natural Comana) is a protected area (natural park category V IUCN) situated in Romania, in the administrative territory of Giurgiu County.", "The park is roughly a 45-minute drive from the Romanian capital of Bucharest.", "The park was established in 2004 and has recreational activities such as kayaking,"] },
-    image: "/geo-images/romania/comana-natural-park.webp"
+    image: "/geo-images/romania/comana-natural-park.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Naturpark Comana liegt im Kreis Giurgiu und ist das größte geschützte Gebiet in der Walachischen Tiefebene. Er umfasst ein vielfältiges Ökosystem mit Wäldern, Feuchtgebieten und dem Neajlov-Delta, das oft als \"kleines Donaudelta\" bezeichnet wird. Der Park beherbergt zahlreiche seltene Pflanzen- und Tierarten auf einer Fläche von rund 25.000 Hektar.",
+      hu: "A Comana Natúrpark Giurgiu megyében található, és a Havasalföld legnagyobb védett területe. Változatos ökoszisztémát foglal magában erdőkkel, mocsarakkal és a Neajlov-deltával, amelyet gyakran \"kis Duna-deltaként\" is emlegetnek. A park mintegy 25 000 hektáron számos ritka növény- és állatfajnak ad otthont.",
+      ro: "Parcul Natural Comana este situat în județul Giurgiu și reprezintă cea mai mare arie protejată din Câmpia Română. Acesta cuprinde un ecosistem divers format din păduri, zone umede și Balta Comana (Delta Neajlovului), supranumită \"mica Deltă a Dunării\". Parcul se întinde pe 25.000 de hectare și adăpostește specii rare.",
+      en: "Comana Natural Park is located in Giurgiu County and is the largest protected area in the Wallachian Plain. It encompasses a diverse ecosystem of forests, wetlands, and the Neajlov Delta, often referred to as the \"small Danube Delta.\" The park covers 25,000 hectares and is home to numerous rare plant and animal species.",
+    },
+    factsAdvanced: {
+      de: ["Wurde im Jahr 2004 offiziell als Naturpark eingerichtet.", "Erstreckt sich über eine Fläche von ca. 25.000 Hektar.", "Beherbergt das Neajlov-Delta, das zweitgrößte Feuchtgebiet des Landes.", "Es gibt dort über 140 verschiedene Vogelarten.", "Enthält das Kloster Comana, das 1461 von Vlad III. Drăculea gegründet wurde.", "Ist bekannt für seine Pfingstrosen- und Stechpalmen-Reservate."],
+      hu: ["Hivatalosan 2004-ben alapították natúrparkként.", "Területe körülbelül 25 000 hektár.", "Itt található a Neajlov-delta, az ország második legnagyobb vizes élőhelye.", "Több mint 140 különböző madárfaj fészkel a területén.", "Itt áll a Comana-kolostor, amelyet 1461-ben Vlad Țepeș alapított.", "Híres a vadpünkösdi rózsa és a szúrós csodabogyó rezervátumairól."],
+      ro: ["A fost înființat oficial ca parc natural în anul 2004.", "Ocupă o suprafață de aproximativ 25.000 de hectare.", "Include Balta Comana, a doua zonă umedă ca biodiversitate după Deltă.", "Adăpostește peste 140 de specii de păsări.", "Cuprinde Mănăstirea Comana, ctitorită de Vlad Țepeș în 1461.", "Este renumit pentru rezervațiile de bujor și ghimpe."],
+      en: ["Officially established as a natural park in 2004.", "Covers an extensive area of approximately 25,000 hectares.", "Home to the Neajlov Delta, the second most biodiverse wetland in Romania.", "Inhabited by over 140 distinct species of birds.", "Features Comana Monastery, founded by Vlad the Impaler in 1461.", "Famous for its protected peony and butcher's broom reserves."],
+    },
   },
 
   // GORJ (RO-GJ)
@@ -3718,7 +6266,20 @@ export const romaniaExtraPois: POI[] = [
     name: { de: "Olteț-Klamm", hu: "Oltész-szurdok", ro: "Cheile Oltețului", en: "Olteț Gorges" },
     description: { de: "Sehr enge Karstschlucht.", hu: "Nagyon szűk karszt-szurdok.", ro: "Chei carstice foarte înguste.", en: "Very narrow karst gorge." },
     facts: { de: ["Die Liste der Naturschutzgebiete in Rumänien enthält die Naturschutzgebiete von nationaler Bedeutung, die erstmals durch das Gesetz Nummer 5 vom 6.", "März 2000 ausgewiesen und durch die Regierungsbeschlüsse Nummer 2151 vom 30.", "November 2004, Nummer 1581 vom 8."], hu: [], ro: [], en: ["Polovragi is a commune in Gorj County, Oltenia, Romania.", "It is composed of two villages, Polovragi and Racovița.", "The commune is located in the northeastern part of Gorj County, 54 km (34 mi) from the county seat, Târgu Jiu, on the border with Vâlcea County."] },
-    image: "/geo-images/romania/oltet-gorges.webp"
+    image: "/geo-images/romania/oltet-gorges.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Olteț-Schlucht (Cheile Oltețului) liegt im Kreis Gorj und trennt das Păpușa-Massiv von den Căpățânii-Bergen. Sie gilt als eine der engsten Schluchten Europas, wobei die Felswände an einigen Stellen nur wenige Meter voneinander entfernt sind. Am Eingang der Schlucht befindet sich die berühmte Polovragi-Höhle, ein bedeutendes speläologisches Denkmal.",
+      hu: "Az Olteț-szoros Gorj megyében található, és elválasztja a Păpușa-masszívumot a Căpățânii-hegységtől. Európa egyik legszűkebb szurdokaként tartják számon, ahol a sziklafalak néhol csak néhány méterre vannak egymástól. A szoros bejáratánál található a híres Polovragi-barlang, amely jelentős barlangászati emlék.",
+      ro: "Cheile Oltețului sunt situate în județul Gorj și separă Masivul Păpușa de Munții Căpățânii. Sunt considerate printre cele mai înguste chei din Europa, pereții de stâncă fiind la o distanță de doar câțiva metri în anumite porțiuni. La intrarea în chei se află celebra Peșteră Polovragi, un important monument speologic.",
+      en: "The Olteț Gorges are located in Gorj County, separating the Păpușa Massif from the Căpățânii Mountains. They are considered among the narrowest gorges in Europe, with rock walls standing only a few meters apart in certain sections. At the entrance to the gorges lies the famous Polovragi Cave, a significant speleological site.",
+    },
+    factsAdvanced: {
+      de: ["Haben eine Länge von ca. 2 Kilometern.", "An der engsten Stelle beträgt der Abstand nur 70 Zentimeter bis 2 Meter.", "Trennen das Păpușa-Gebirge vom Căpățânii-Gebirge.", "Die Polovragi-Höhle am Eingang ist über 10 km lang.", "Wurden durch die erosive Kraft des Flusses Olteț geformt.", "Die Felswände ragen bis zu 400 Meter in die Höhe."],
+      hu: ["A szurdok hossza körülbelül 2 kilométer.", "A legszűkebb pontján a falak távolsága alig 70 cm és 2 méter között van.", "A Parâng-hegység részét képező Păpușa- és Căpățânii-hegyeket választja el.", "A bejáratánál lévő Polovragi-barlang hossza meghaladja a 10 km-t.", "Az Olteț folyó eróziós munkája alakította ki évezredek alatt.", "A sziklafalak magassága helyenként eléri a 400 métert."],
+      ro: ["Lungimea cheilor este de aproximativ 2 kilometri.", "În cel mai îngust punct, distanța între pereți este de doar 70 cm - 2 m.", "Separă Munții Păpușa de Munții Căpățânii.", "Peștera Polovragi de la intrare are o lungime de peste 10 km.", "Au fost formate prin acțiunea de eroziune a râului Olteț.", "Pereții verticali de calcar ating înălțimi de până la 400 de metri."],
+      en: ["The gorges span a length of approximately 2 kilometers.", "At their narrowest point, the walls are only 70 cm to 2 meters apart.", "They separate the Păpușa Massif from the Căpățânii Mountains.", "The nearby Polovragi Cave extends for over 10 kilometers.", "Carved out by the erosive force of the Olteț River over millennia.", "The vertical limestone walls reach heights of up to 400 meters."],
+    },
   },
 
   // IALOMIȚA (RO-IL)
@@ -3727,21 +6288,60 @@ export const romaniaExtraPois: POI[] = [
     name: { de: "Slobozia", hu: "Slobozia", ro: "Slobozia", en: "Slobozia" },
     description: { de: "Hauptstadt des Kreises Ialomița.", hu: "Ialomița megye székhelye.", ro: "Reședința județului Ialomița.", en: "Capital of Ialomița county." },
     facts: { de: ["Slobozia [sloboˈzja] (deutsch veraltet: Freistadt) ist eine Stadt in Rumänien und die Kreishauptstadt von Ialomița.", "Sie hatte im Jahr 2003 ungefähr 52.600 Einwohner und liegt in der Bărăgan-Ebene, einer der klimatisch wärmsten Gegenden Rumäniens."], hu: [], ro: ["Slobozia este municipiul de reședință al județului Ialomița, Muntenia, România, format din localitățile componente Bora, Slobozia (reședința) și Slobozia Nouă.", "Orașul a fost construit pe rămășițele vechii cetăți romane Netindava.", "Slobozia este cel mai mare municipiu al județului Ialomița, România."], en: ["Slobozia (Romanian pronunciation: [sloboˈzi.a]) is the capital city of Ialomița County, Muntenia, Romania, with a population of 41,550 in 2021."] },
-    image: "/geo-images/romania/ro-poi-slobozia.webp"
+    image: "/geo-images/romania/ro-poi-slobozia.webp",
+  
+    descriptionAdvanced: {
+      de: "Slobozia ist die Hauptstadt des Kreises Ialomița und liegt im Herzen der Bărăgan-Ebene am Fluss Ialomița. Die Stadt entwickelte sich aus einer mittelalterlichen Siedlung und ist heute ein wichtiges landwirtschaftliches und industrielles Zentrum Rumäniens. Bekannt ist Slobozia auch für das Nationale Landwirtschaftsmuseum, das die bäuerliche Tradition der Region bewahrt.",
+      hu: "Slobozia Ialomița megye székhelye, a Bărăgan-alföld szívében, a Ialomița folyó partján fekszik. A város egy középkori településből fejlődött ki, és ma Románia egyik legfontosabb mezőgazdasági és ipari központja. Slobozia híres az Országos Mezőgazdasági Múzeumáról is, amely a régió paraszti hagyományait őrzi.",
+      ro: "Slobozia este reședința județului Ialomița, fiind situată în inima Câmpiei Bărăganului, pe malul râului Ialomița. Orașul s-a dezvoltat dintr-o așezare medievală și reprezintă astăzi un important centru agricol și industrial al României. Slobozia este cunoscută și pentru Muzeul Național al Agriculturii, unic în țară.",
+      en: "Slobozia is the capital of Ialomița County, located in the heart of the Bărăgan Plain on the banks of the Ialomița River. The city evolved from a medieval settlement and is now a major agricultural and industrial hub in Romania. It is also well known for the National Museum of Agriculture, which preserves the region's rural traditions.",
+    },
+    factsAdvanced: {
+      de: ["Wurde im Jahr 1614 erstmals urkundlich erwähnt.", "Ist der Verwaltungssitz des Kreises Ialomița.", "Beherbergt das einzige Nationale Landwirtschaftsmuseum Rumäniens.", "Liegt in einer der fruchtbarsten Agrarregionen Europas.", "Der Name leitet sich vom slawischen Wort für Freiheit (Slobozia) ab.", "Die Stadt hat eine Bevölkerung von ca. 45.000 Einwohnern."],
+      hu: ["Első írásos említése 1614-ből származik.", "Ialomița megye közigazgatási központja.", "Itt található Románia egyetlen Országos Mezőgazdasági Múzeuma.", "Európa egyik legtermékenyebb mezőgazdasági régiójában fekszik.", "Neve a szláv szabadság (szloboda) szóból ered.", "A város lakossága körülbelül 45 000 fő."],
+      ro: ["Prima atestare documentară a localității datează din 1614.", "Este centrul administrativ și politic al județului Ialomița.", "Găzduiește singurul Muzeu Național al Agriculturii din România.", "Se află într-una dintre cele mai fertile zone agricole din Europa.", "Numele provine de la termenul slav slobozie, care însemna libertate.", "Populația orașului este de aproximativ 45.000 de locuitori."],
+      en: ["First documented mention of the town dates back to 1614.", "Serves as the administrative center of Ialomița County.", "Home to the unique National Museum of Agriculture in Romania.", "Located in one of the most fertile agricultural zones in Europe.", "The name is derived from the Slavic word for freedom (slobozia).", "The city has a population of approximately 45,000 residents."],
+    },
   },
   {
     id: "ro-poi-lacul-amara", type: "lake", parent: "RO-IL", coords: [27.3222, 44.6056],
     name: { de: "Amara-See", hu: "Amara-tó", ro: "Lacul Amara", en: "Amara Lake" },
     description: { de: "Salzsee, bekannt für Heilschlamm.", hu: "Sóstó, amely gyógyiszapjáról ismert.", ro: "Lac sărat cunoscut pentru nămolul terapeutic.", en: "Salt lake known for therapeutic mud." },
     facts: { de: [], hu: ["Az Amara-tó (románul: Lacul Amara) sós vizű limán tó, amely a romániai Ialomița megyében fekvő Amara városának közelében található.", "Gyógyhatású iszapja és ásványi anyagokban gazdag vize népszerű gyógyüdülőhellyé tette."], ro: ["Lacul Amara se poate referi la două întinderi de apă din România: Lacul Amara din județul Ialomița Lacul Amara din județul Buzău"], en: ["Lake Amara (Romanian: Lacul Amara) is a saltwater fluvial liman lake located on the Slobozia - Buzău road near Amara in Ialomița County, Romania.", "The lake has a surface area of 132 ha (0.51 mi2), a water volume of 2,600,000 m3 (0.00062 cu mi), a length of 4 km (2.5 mi) and a width between 200 m (660 ft) and 800 m (2,600 ft) while the maximum depth reaches 3 m (9.8 ft).", "The lake is situated in a depression having no links to the Ialomița River."] },
-    image: "/geo-images/romania/amara-lake.webp"
+    image: "/geo-images/romania/amara-lake.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Amara-See ist ein natürlicher Salzwassersee in der Nähe der Stadt Slobozia, der für seinen heilkräftigen sapropelischen Schlamm bekannt ist. Das Wasser des Sees hat einen hohen Gehalt an Sulfaten, Magnesium und Natrium, was es ideal für die Behandlung rheumatischer Erkrankungen macht. Seit dem späten 19. Jahrhundert ist Amara ein anerkannter Kurort.",
+      hu: "Az Amara-tó egy természetes sós tó Slobozia közelében, amely gyógyhatású szapropél iszapjáról ismert. A tó vize magas szulfát-, magnézium- és nátriumtartalommal bír, így kiválóan alkalmas reumatikus betegségek kezelésére. Amara a 19. század vége óta elismert gyógyfürdőhely a Bărăgan-alföldön.",
+      ro: "Lacul Amara este un lac sărat natural situat în apropierea orașului Slobozia, renumit pentru nămolul sapropelic cu proprietăți curative. Apa lacului are un conținut ridicat de sulfați, magneziu și sodiu, fiind ideală pentru tratarea afecțiunilor reumatice. Amara este o stațiune balneară recunoscută încă de la sfârșitul secolului XIX.",
+      en: "Amara Lake is a natural salt lake located near the city of Slobozia, famous for its therapeutic sapropelic mud. The lake's water has a high content of sulfates, magnesium, and sodium, making it ideal for treating rheumatic conditions. Amara has been a recognized balneoclimateric resort since the late 19th century.",
+    },
+    factsAdvanced: {
+      de: ["Der See hat eine Fläche von etwa 132 Hektar.", "Die maximale Tiefe des Sees beträgt ca. 6 Meter.", "Der Salzgehalt des Wassers liegt bei etwa 10 g/l.", "Der Heilschlamm ist reich an organischen Substanzen.", "Wurde im Jahr 1887 erstmals wissenschaftlich untersucht.", "Liegt nur 7 Kilometer von der Stadt Slobozia entfernt."],
+      hu: ["A tó területe körülbelül 132 hektár.", "Maximális mélysége eléri a 6 métert.", "A víz sótartalma literenként körülbelül 10 gramm.", "A gyógyiszap szerves anyagokban rendkívül gazdag.", "Első tudományos vizsgálatát 1887-ben végezték el.", "Mindössze 7 kilométerre fekszik Slobozia városától."],
+      ro: ["Suprafața lacului este de aproximativ 132 de hectare.", "Adâncimea maximă a lacului ajunge la 6 metri.", "Salinitatea apei este de aproximativ 10 grame la litru.", "Nămolul sapropelic este bogat în substanțe organice.", "Primele analize științifice ale apei au fost făcute în 1887.", "Stațiunea se află la doar 7 kilometri distanță de Slobozia."],
+      en: ["The lake covers a surface area of about 132 hectares.", "The maximum depth of the lake is approximately 6 meters.", "Water salinity is measured at about 10 grams per liter.", "The sapropelic mud is highly rich in organic substances.", "First scientific analysis of the water was conducted in 1887.", "The resort is located just 7 kilometers away from Slobozia."],
+    },
   },
   {
     id: "ro-poi-biserica-poiana", type: "historical", parent: "RO-IL", coords: [27.350, 44.566],
     name: { de: "Holzkirche von Poiana", hu: "Poiana-i fatemplom", ro: "Biserica de lemn din Poiana", en: "Wooden Church of Poiana" },
     description: { de: "Historische Holzkirche.", hu: "Történelmi fatemplom.", ro: "Biserică istorică din lemn.", en: "Historical wooden church." },
     facts: { de: [], hu: ["Az élesdi Istenszülő elszenderedése fatemplom műemlékké nyilvánított épület Romániában, Bihar megyében.", "A romániai műemlékek jegyzékében a BH-II-m-B-01096 sorszámon szerepel."], ro: ["Biserica de lemn din Poiana se poate referi la: Biserica de lemn din Poiana, comuna Vârfurile, județul Arad, România Biserica de lemn din Poiana, comuna Deleni, județul Iași, România Biserica de lemn din Poiana, comuna Ciulnița, județul Ialomița, România – transferată la Muzeul Național al Agriculturii, Slobozia Biserica de lemn din Poiana Botizii, județul Maramureș, România Biserica de lemn din Poiana Cobâlea, regiunea Transcarpatia, Ucraina Biserica de lemn din Poiana Horea, județul Cluj, România Biserica de lemn din Poiana Ilvei, județul Bistrița-Năsăud, România Biserica de lemn din Poiana Onții, județul Sălaj, România Biserica de lemn din Poiana Sibiului, județul Sibiu, România Biserica de lemn din Poiana Stampei, județul Suceava, România"], en: ["The wooden churches of Maramureș in the Maramureș region of northern Transylvania are a group of almost one hundred Orthodox churches, and occasionally Greek-Catholic ones, of different architectural solutions from different periods and areas.", "The Maramureș churches are high timber constructions with characteristic tall, slim bell towers at the western end of the building.", "They are a particular vernacular expression of the cultural landscape of this mountainous area of northern Romania."] },
-    image: "/geo-images/romania/wooden-church-of-poiana.webp"
+    image: "/geo-images/romania/wooden-church-of-poiana.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Holzkirche von Poiana, auch als Kirche von Poiana de Sus bekannt, ist ein wertvolles Denkmal der traditionellen religiösen Architektur. Sie wurde ursprünglich im 18. Jahrhundert erbaut und zeichnet sich durch ihre harmonischen Proportionen und die Technik der Holzverbindung aus. Heute befindet sie sich im Nationalen Landwirtschaftsmuseum in Slobozia, wohin sie zur Erhaltung überführt wurde.",
+      hu: "A poianai fatemplom a hagyományos vallási építészet értékes emléke, amelyet a 18. században építettek. Jellemzője a harmonikus arányok és a mesteri faillesztési technika, amely a régi korok ácsmesterségét dicséri. Az épületet ma a sloboziai Országos Mezőgazdasági Múzeumban őrzik, ahová restaurálás céljából szállították át.",
+      ro: "Biserica de lemn din Poiana este un monument valoros al arhitecturii religioase tradiționale, construită inițial în secolul al XVIII-lea. Se remarcă prin proporțiile armonioase și tehnica îmbinării lemnului fără cuie de metal. În prezent, edificiul se află la Muzeul Național al Agriculturii din Slobozia, fiind strămutat pentru conservare.",
+      en: "The Wooden Church of Poiana is a valuable monument of traditional religious architecture, originally built in the 18th century. It is noted for its harmonious proportions and the expert wood-joining techniques used by local craftsmen. The building is currently preserved at the National Museum of Agriculture in Slobozia, where it was relocated for conservation.",
+    },
+    factsAdvanced: {
+      de: ["Wurde ursprünglich im Jahr 1737 erbaut.", "Ist dem Heiligen Nikolaus gewidmet.", "Besteht vollständig aus Eichenholzstämmen.", "Wurde im Jahr 2000 in das Museum in Slobozia überführt.", "Die Kirche ist als historisches Denkmal der Kategorie A eingestuft.", "Im Inneren sind Reste ursprünglicher Malereien erhalten."],
+      hu: ["Eredetileg 1737-ben épült fel.", "Szent Miklós tiszteletére szentelték fel.", "Teljes egészében tölgyfagerendákból készült.", "2000-ben szállították át a sloboziai múzeum területére.", "A-kategóriás országos jelentőségű műemlékként tartják számon.", "Belsejében az eredeti festés maradványai is láthatóak."],
+      ro: ["A fost construită inițial în anul 1737.", "Poartă hramul Sfântul Nicolae.", "Este realizată integral din bârne de lemn de stejar.", "A fost strămutată în curtea muzeului din Slobozia în anul 2000.", "Este clasificată ca monument istoric de importanță națională (categoria A).", "Interiorul păstrează fragmente din pictura originală pe lemn."],
+      en: ["Originally constructed in the year 1737.", "Dedicated to Saint Nicholas.", "Built entirely from solid oak wooden beams.", "Relocated to the museum grounds in Slobozia in 2000.", "Classified as a Grade A historical monument of national importance.", "The interior preserves fragments of the original wooden paintings."],
+    },
   },
 
   // IAȘI (RO-IS)
@@ -3750,7 +6350,20 @@ export const romaniaExtraPois: POI[] = [
     name: { de: "Copou-Park", hu: "Copou Park", ro: "Parcul Copou", en: "Copou Park" },
     description: { de: "Čltester öffentlicher Park in Iași mit der Eminescu-Linde.", hu: "Iași legrégebbi közparkja az Eminescu-hárssal.", ro: "Cel mai vechi parc public din Iași, cu Teiul lui Eminescu.", en: "Oldest public park in Iași, with Eminescu's Linden Tree." },
     facts: { de: [], hu: [], ro: ["Parcul Copou (sau Grădina Copou) este cel mai vechi parc din Iași, situat pe dealul Copoului, fiind cel mai mare parc urban din zona centrală și de nord a orașului.", "Contribuind semnificativ la calitatea aerului și la menținerea biodiversității locale, vegetația sa este majoritar arboricolă, cu o compoziție peisagistică apreciată pentru frumusețe, echilibru și valoare ecoprotectivă.", "Fondul principal este compus din tei, frasin și arțar, complementat de prezența a trei tipuri de arbuști: forsiția, iasomia și liliacul."], en: ["The Copou Park or Copou Gardens is the oldest public park in Iași, Romania.", "Its development started in 1834 under the reign of Mihail Sturdza, making the park one of the first public gardens in Romania and a Iași landmark.", "In its centre lies the Lions' Obelisk (1834), a 13.5 m (44 ft) tall obelisk dedicated to Regulamentul Organic, the first law on political, administrative and juridical organization in the Romanian Principalities."] },
-    image: "/geo-images/romania/copou-park.webp"
+    image: "/geo-images/romania/copou-park.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Copou-Park in Iași ist der älteste öffentliche Garten in Rumänien und wurde in der Mitte des 19. Jahrhunderts angelegt. Er beherbergt die berühmte \"Linde von Eminescu\", unter der der Dichter Mihai Eminescu seine Inspiration fand. Der Park ist ein Symbol für die kulturelle und literarische Geschichte der Stadt und bietet eine friedliche Atmosphäre mit Alleen und Denkmälern.",
+      hu: "A jászvásári (Iași) Copou-park Románia legrégebbi nyilvános kertje, amelyet a 19. század közepén hoztak létre. Itt található a híres \"Eminescu-hársfa\", amely alatt Mihai Eminescu költő gyakran keresett ihletet műveihez. A park a város kulturális és irodalmi életének szimbóluma, árnyas sétányaival és történelmi emlékműveivel várja a látogatókat.",
+      ro: "Parcul Copou din Iași este cea mai veche grădină publică din România, fiind amenajat la jumătatea secolului al XIX-lea. Găzduiește celebrul \"Tei al lui Eminescu\", sub care poetul Mihai Eminescu își găsea inspirația pentru operele sale. Parcul este un simbol al istoriei culturale și literare a orașului, oferind alei liniștite și monumente istorice.",
+      en: "Copou Park in Iași is the oldest public garden in Romania, established in the mid-19th century. It is home to the famous \"Eminescu's Lime Tree,\" where the national poet Mihai Eminescu reportedly sought inspiration. The park is a symbol of the city's cultural and literary history, featuring serene walkways and significant historical monuments.",
+    },
+    factsAdvanced: {
+      de: ["Wurde im Jahr 1834 unter der Herrschaft von Mihail Sturdza gegründet.", "Beherbergt die Linde von Eminescu, die über 250 Jahre alt ist.", "Enthält das Löwenobelisk (Obeliscul cu lei) aus dem Jahr 1834.", "Der Park erstreckt sich über eine Fläche von ca. 10 Hektar.", "Beherbergt ein Museum, das dem Dichter Mihai Eminescu gewidmet ist.", "Ist bekannt für seine zahlreichen Bronzebüsten berühmter Persönlichkeiten."],
+      hu: ["1834-ben alapították Mihail Sturdza fejedelem uralkodása alatt.", "Itt áll az Eminescu-hársfa, amely több mint 250 éves.", "Itt található az Oroszlános obeliszk, amelyet 1834-ben emeltek.", "A park területe körülbelül 10 hektár.", "Területén egy Mihai Eminescu munkásságát bemutató múzeum is működik.", "Híres a román kultúra nagyjait ábrázoló bronz mellszobrairól."],
+      ro: ["A fost înființat în anul 1834 sub domnia lui Mihail Sturdza.", "Găzduiește Teiul lui Eminescu, un arbore cu o vârstă de peste 250 de ani.", "Include Obeliscul cu lei, cel mai vechi monument public din țară (1834).", "Grădina se întinde pe o suprafață de aproximativ 10 hectare.", "Cuprinde Muzeul Mihai Eminescu, dedicat vieții poetului.", "Este renumit pentru aleile bordate cu busturi ale marilor oameni de cultură."],
+      en: ["Established in 1834 during the reign of Prince Mihail Sturdza.", "Home to Eminescu's Lime Tree, estimated to be over 250 years old.", "Features the Obelisk of Lions, dating back to 1834.", "The park covers an area of approximately 10 hectares.", "Includes the Mihai Eminescu Museum, dedicated to the poet's legacy.", "Famous for its many bronze busts depicting Romanian cultural icons."],
+    },
   },
 
   // ILFOV (RO-IF)
@@ -3759,14 +6372,40 @@ export const romaniaExtraPois: POI[] = [
     name: { de: "Kloster Snagov", hu: "Snagov-kolostor", ro: "Mănăstirea Snagov", en: "Snagov Monastery" },
     description: { de: "Kloster auf einer Insel, angebliches Grab von Vlad III.", hu: "Szigeti kolostor, Vlad Tepes feltételezett sírja.", ro: "Mănăstire pe o insulă, presupusul mormânt al lui Vlad Țepeș.", en: "Island monastery, alleged tomb of Vlad the Impaler." },
     facts: { de: ["Das Kloster Snagov (rumänisch Mănăstirea Snagov) ist ein mittelalterliches Kloster und ein bedeutendes historisches Denkmal, das sich im südrumänischen Kreis Ilfov, ca.", "40 km nördlich von Bukarest, auf einer Insel im nördlichen Teil des Snagov-Sees befindet.", "Das Klostergelände gehört verwaltungstechnisch zur Gemeinde Snagov, untersteht aber direkt der Erzdiözese Bukarest."], hu: ["Copăceni község és falu Ilfov megyében, Munténiában, Romániában."], ro: ["Mănăstirea Snagov este un important monument istoric și de artă feudală din Țara Românească, care se găsește pe insula situată în partea nordică a lacului Snagov, în localitatea Snagov și în apropierea satului Siliștea Snagovului (din comuna Gruiu).", "Mănăstirea este probabil una din ctitoriile domniei târzii a lui Mircea cel Bătrân, fiind prima dată atestată documentar în 1408.", "A fost refăcută de mai multe ori de alți domnitori, printre care se pot menționa Vlad Țepeș, Mircea Ciobanul, Neagoe Basarab."], en: ["The Snagov Monastery (Romanian: Mănăstirea Snagov), also known as the Vlad Țepeș Monastery (Romanian: Mănăstirea Vlad Țepeș) is a medieval monastery and important historical monument located in southern Romania in the county of Ilfov, on an island in the northern reaches of Lake Snagov, belonging to the commune of Snagov, and in geographical proximity to the village of Siliștea Snagovului, in the Gruiu commune.", "An old center of Orthodox spirituality and culture, it stands on the foundations of an old Thracian settlement.", "The monastery is probably one of the late foundations of Mircea the Elder, being first documented in 1408."] },
-    image: "/geo-images/romania/snagov-monastery.webp"
+    image: "/geo-images/romania/snagov-monastery.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Kloster Snagov befindet sich auf einer kleinen Insel im Snagov-See nördlich von Bukarest. Die heutige Kirche wurde 1517 unter Neagoe Basarab im byzantinischen Stil mit walachischen Elementen erbaut. Bekanntheit erlangte sie vor allem als angebliche Grabstätte von Vlad III. Drăculea.",
+      hu: "A snagovi kolostor egy kis szigeten található a Snagov-tavon, Bukaresttől északra. A jelenlegi templomot 1517-ben építtette Neagoe Basarab bizánci stílusban, havasalföldi elemekkel díszítve. A helyszín legismertebb legendája szerint itt található III. Vlad havasalföldi fejedelem sírja.",
+      ro: "Mănăstirea Snagov este situată pe o mică insulă din lacul Snagov, în apropierea Bucureștiului. Biserica actuală a fost ctitorită în 1517 de Neagoe Basarab, fiind un monument valoros de arhitectură bizantină cu elemente muntenești. Este celebră în special pentru legenda care afirmă că adăpostește mormântul lui Vlad Țepeș.",
+      en: "Snagov Monastery is located on a small island in Lake Snagov, north of Bucharest. The current church was built in 1517 by Neagoe Basarab in a Byzantine style with local Wallachian influences. It is most famous for the legend stating it holds the tomb of Vlad the Impaler (Vlad Țepeș).",
+    },
+    factsAdvanced: {
+      de: ["1517: Jahr des Baus der heutigen Steinkirche", "1476: Jahr, in dem Vlad der Pfähler hier angeblich begraben wurde", "16. Jahrhundert: Alter der wertvollen Innenfresken", "36 Kilometer: Entfernung zum Zentrum von Bukarest", "1917: Jahr, in dem der Glockenturm als Gefängnis genutzt wurde", "1990er: Zeitraum bedeutender Restaurierungsarbeiten"],
+      hu: ["1517: A jelenlegi kőtemplom építésének éve", "1476: Évszám, amikor III. Vladot állítólag itt eltemették", "16. század: A templom belső freskóinak kora", "36 kilométer: Távolság Bukarest központjától", "1917: Év, amikor a harangtornyot börtönként használták", "1990-es évek: Jelentős restaurálási munkálatok időszaka"],
+      ro: ["1517: Anul construcției actualei biserici din piatră", "1476: Anul în care Vlad Țepeș ar fi fost înmormântat aici", "Secolul XVI: Vechimea frescelor interioare valoroase", "36 kilometri: Distanța față de centrul Bucureștiului", "1917: Anul în care turnul clopotniță a servit drept închisoare", "Anii 1990: Perioadă de ample lucrări de restaurare"],
+      en: ["1517: Year the current stone church was built", "1476: Year Vlad the Impaler was supposedly buried here", "16th century: Age of the valuable internal frescoes", "36 kilometers: Distance from the center of Bucharest", "1917: Year when the bell tower was used as a prison", "1990s: Period when major restoration works took place"],
+    },
   },
   {
     id: "ro-poi-padurea-cernica", type: "landmark", parent: "RO-IF", coords: [26.25, 44.4333],
     name: { de: "Cernica-Wald", hu: "Cernica-erdő", ro: "Pădurea Cernica", en: "Cernica Forest" },
     description: { de: "Erholungsgebiet nahe Bukarest.", hu: "Pihenőövezet Bukarest közelében.", ro: "Zonă de recreere lângă București.", en: "Recreation area near Bucharest." },
     facts: { de: ["Die folgende Liste enthält alle 171 Europäischen Vogelschutzgebiete nach Art.", "4 (1) der Europäischen Vogelschutzrichtlinie in Rumänien.", "Die Gebiete umfassen eine Gesamtfläche von 38.753 km²."], hu: [], ro: ["Lacul și Pădurea Cernica alcătuiesc o zonă naturală (arie de protecție specială avifaunistică - sit SPA) situată în partea sudică a României, pe teritoriile județelor Călărași și Ilfov."], en: ["Cernica is a commune in the southeast part of Ilfov County, Muntenia, Romania, with a population of 11,871 as of 2021.", "It is composed of five villages: Bălăceanca, Căldăraru, Cernica, Poșta, and Tânganu.", "The commune is situated in the Wallachian Plain, on the banks of the Dâmbovița River and its left tributary, the Colentina River."] },
-    image: "/geo-images/romania/cernica-forest.webp"
+    image: "/geo-images/romania/cernica-forest.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Cernica-Wald liegt am östlichen Stadtrand von Bukarest und ist Teil des historischen Vlăsia-Waldes. Er erstreckt sich um das Cernica-Kloster und den gleichnamigen See, was ihn zu einem beliebten Naherholungsgebiet macht. Das Gebiet beherbergt alte Eichen und eine reiche lokale Fauna.",
+      hu: "A Cernica-erdő Bukarest keleti szélén található, és az ősi Vlăsia-erdőség egyik fennmaradt része. A terület a Cernica-kolostor és a tó köré összpontosul, kedvelt kirándulóhely a városiak számára. Az erdőt évszázados tölgyfák és gazdag helyi élővilág jellemzi.",
+      ro: "Pădurea Cernica se află la marginea estică a Bucureștiului și este o rămășiță a vechilor Codri ai Vlăsiei. Aceasta înconjoară Mănăstirea Cernica și lacul cu același nume, constituind o zonă importantă de agrement. Zona este protejată și adăpostește specii variate de arbori, inclusiv stejari seculari.",
+      en: "Cernica Forest is located on the eastern outskirts of Bucharest and is a remnant of the ancient Vlăsia Forests. It surrounds the Cernica Monastery and the lake of the same name, serving as a popular recreational area. The forest is characterized by centuries-old oaks and a diverse local fauna.",
+    },
+    factsAdvanced: {
+      de: ["1608: Gründungsjahr des nahegelegenen Klosters Cernica", "20 Kilometer: Entfernung vom Stadtzentrum Bukarests", "225 Hektar: Ungefähre Fläche der geschützten Waldzone", "19. Jahrhundert: Zeit, in der der Wald zum beliebten Ausflugsziel wurde", "2008: Eröffnungsjahr eines modernen Abenteuerparks im Wald", "300 Jahre: Alter einiger der ältesten Eichen in der Region"],
+      hu: ["1608: A közeli Cernica-kolostor alapításának éve", "20 kilométer: Távolság Bukarest városközpontjától", "225 hektár: A védett erdőterület hozzávetőleges mérete", "19. század: Időszak, amikor az erdő népszerű kirándulóhely lett", "2008: Egy modern kalandpark megnyitásának éve az erdőben", "300 év: A környék legöregebb tölgyfáinak kora"],
+      ro: ["1608: Anul fondării Mănăstirii Cernica din apropiere", "20 kilometri: Distanța față de centrul orașului București", "225 hectare: Suprafața aproximativă a zonei forestiere protejate", "Secolul XIX: Perioada în care pădurea a devenit loc de agrement", "2008: Anul deschiderii unui parc de aventură modern în pădure", "300 ani: Vârsta unora dintre cei mai vechi stejari din zonă"],
+      en: ["1608: Year the nearby Cernica Monastery was founded", "20 kilometers: Distance from the center of Bucharest", "225 hectares: Approximate area of the protected forest zone", "19th century: Period when the forest became a popular retreat", "2008: Year a modern adventure park was opened in the forest", "300 years: Age of some of the oldest oak trees in the area"],
+    },
   },
 
   // MEHEDINȚI (RO-MH)
@@ -3775,14 +6414,40 @@ export const romaniaExtraPois: POI[] = [
     name: { de: "Eisernes Tor", hu: "Vaskapu-szoros", ro: "Porțile de Fier", en: "Iron Gates" },
     description: { de: "Schlucht und Wasserkraftwerk an der Donau.", hu: "Szurdok és vízerőmű a Dunán.", ro: "Defileu și hidrocentrală pe Dunăre.", en: "Gorge and hydroelectric dam on the Danube." },
     facts: { de: ["Das Eiserne Tor (rumänisch Porțile de Fier; serbisch Ђердап, Đerdap) ist ein Durchbruchstal der Donau.", "Es liegt in den südlichen Karpaten, genauer zwischen den Serbischen Karpaten und dem Banater Gebirge, an der Grenze von Serbien und Rumänien.", "Bis zu seiner Entschärfung 1972 im Zusammenhang mit dem Kraftwerk Eisernes Tor 1 galt es als der für die Schifffahrt gefährlichste Flussabschnitt der Donau, der nicht ohne ortskundige Lotsen passiert werden konnte."], hu: ["A magyar tulipán vagy al-dunai tulipán (Tulipa hungarica) endemikus tulipánfaj a Vaskapu-szorosban és környékén.", "Borbás Vince írta le először 1882-ben, – Rapaics Raymund a növény felfedezőjeként „Rochel Antal”-t nevezi meg 1835-ben, – mikor ez a vidék az Osztrák–Magyar Monarchia területét képezte.", "Jelenleg védett növény a romániai Mehedinți megyében, Szörényvárhoz (románul Drobeta-Turnu Severin) közel eső vidéken, a Kazán-szorosban (románul Cazanele Dunării) és a Vaskapu-szorosban (románul Porțile de Fier 1)."], ro: ["Porțile de Fier (limba sârbă: Гвоздена врата / Gvozdena vrata, croată: Željezna vrata, maghiară: Vaskapu, turcă: Demirkapi, germană: Eisernes Tor, bulgară: Железни врата) este numele unui defileu pe fluviul Dunăre.", "Face parte din granița dintre Serbia și România.", "În sensul larg, reprezintă 134 km din cursul Dunării, în sensul mai îngust doar barajul hidroelectric din apropierea orașului românesc Orșova."], en: ["The Iron Gates (Romanian: Porțile de Fier; Serbian: Ђердапска клисура, Đerdapska klisura) is a gorge on the river Danube.", "It forms part of the boundary between Serbia to the south and Romania to the north.", "In the broad sense it encompasses a route of 134 km (83 mi); in the narrow sense it only encompasses the last barrier on this route, just beyond the Romanian city of Orșova, that contains two hydroelectric dams, with two power stations, Iron Gate I Hydroelectric Power Station and Iron Gate II Hydroelectric Power Station."] },
-    image: "/geo-images/romania/iron-gates.webp"
+    image: "/geo-images/romania/iron-gates.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Eiserne Tor ist ein spektakuläres Durchbruchstal der Donau zwischen Rumänien und Serbien. Es trennt die Karpaten im Norden vom Balkangebirge im Süden. Das Gebiet ist bekannt für seine Wasserkraftwerke und die tiefste Stelle der Donau, die hier über 80 Meter erreicht.",
+      hu: "A Vaskapu a Duna egyik leglátványosabb áttörési völgye Románia és Szerbia határán. Északról a Kárpátokat, délről a Balkán-hegységet választja el egymástól. A terület híres vízi erőműveiről és a Duna legmélyebb pontjáról, amely itt meghaladja a 80 métert.",
+      ro: "Porțile de Fier reprezintă un defileu spectaculos al Dunării situat la granița dintre România și Serbia. Acesta separă Munții Carpați la nord de Munții Balcani la sud. Zona este renumită pentru complexul hidroenergetic și pentru adâncimea maximă a Dunării, care atinge aici peste 80 de metri.",
+      en: "The Iron Gates is a spectacular gorge on the Danube River located on the border between Romania and Serbia. It separates the Carpathian Mountains to the north from the Balkan Mountains to the south. The area is famous for its hydroelectric dams and for being the deepest point of the Danube, reaching over 80 meters.",
+    },
+    factsAdvanced: {
+      de: ["134 Kilometer: Gesamtlänge des Donaudurchbruchs", "1972: Einweihung des Wasserkraftwerks Eisernes Tor I", "82 Meter: Maximale Tiefe der Donau im Gebiet der Cazane", "2 Länder: Das Durchbruchstal wird von Rumänien und Serbien geteilt", "1970: Jahr, in dem die Insel Ada Kaleh im Stausee versank", "190.000 Hektar: Fläche des Naturparks Eisernes Tor in Rumänien"],
+      hu: ["134 kilométer: A dunai áttörési völgyrendszer teljes hossza", "1972: A Vaskapu I vízi erőmű felavatásának éve", "82 méter: A Duna legnagyobb mélysége a Kazán-szorosban", "2 ország: A szoroson Románia és Szerbia osztozik", "1970: Év, amikor Ada Kaleh szigete a duzzasztás miatt víz alá került", "190 000 hektár: A romániai Vaskapu Natúrpark kiterjedése"],
+      ro: ["134 kilometri: Lungimea totală a defileului Dunării", "1972: Anul inaugurării hidrocentralei Porțile de Fier I", "82 metri: Adâncimea maximă a Dunării în zona Cazanelor", "2 țări: Defileul este împărțit între România și Serbia", "1970: Anul în care insula Ada Kaleh a fost inundată de lac", "190.000 hectare: Suprafața Parcului Natural Porțile de Fier"],
+      en: ["134 kilometers: Total length of the Danube gorge system", "1972: Year the Iron Gate I Hydroelectric Power Station was inaugurated", "82 meters: Maximum depth of the Danube in the Cazane area", "2 countries: The gorge is shared by Romania and Serbia", "1970: Year the Ada Kaleh island was submerged during dam construction", "190,000 hectares: Area of the Iron Gates Natural Park in Romania"],
+    },
   },
   {
     id: "ro-poi-chipul-decebal", type: "landmark", parent: "RO-MH", coords: [22.2889, 44.6417],
     name: { de: "Felsskulptur des Decebalus", hu: "Decebal arcmása", ro: "Chipul lui Decebal", en: "Rock Sculpture of Decebalus" },
     description: { de: "Riesige Skulptur in der Donau-Schlucht.", hu: "Hatalmas szobor a Duna-szorosban.", ro: "Sculptură uriașă în defileul Dunării.", en: "Huge sculpture in the Danube gorge." },
     facts: { de: [], hu: [], ro: ["Chipul regelui dac Decebal este un basorelief înalt de 55 m, aflat pe malul stâncos al Dunării, între localitățile Eșelnița și Dubova, în apropiere de orașul Orșova,Mehedinți, România.", "Basorelieful îl reprezintă pe Decebal, ultimul rege al Daciei, fiind sculptat într-o stâncă de către sculptorul Florin Cotarcea, din orașul Orșova.", "Sculptorul a lucrat timp de zece ani, perioadă în care a fost ajutat de 11 alpiniști."], en: ["The rock sculpture of Decebalus (Romanian: Chipul regelui dac Decebal) is a colossal carving of the face of Decebalus (r.", "AD 87–106), the last king of Dacia, who fought against the Roman emperors Domitian and Trajan.", "The sculpture is located near the city of Orșova, in Mehedinți County."] },
-    image: "/geo-images/romania/rock-sculpture-of-decebalus.webp"
+    image: "/geo-images/romania/rock-sculpture-of-decebalus.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Felsrelief von Decebalus ist die höchste Felsskulptur Europas und befindet sich am Ufer der Donau bei Mraconia. Es stellt den letzten König der Daker dar und wurde zwischen 1994 und 2004 in den Stein gehauen. Das Monument ist 55 Meter hoch und 25 Meter breit.",
+      hu: "Decebal sziklaszobra Európa legmagasabb sziklafaragványa, amely a Duna partján, Mraconia közelében található. Az utolsó dák királyt ábrázolja, és 1994 és 2004 között faragták ki a sziklából. A monumentális alkotás 55 méter magas és 25 méter széles.",
+      ro: "Chipul lui Decebal este cea mai înaltă sculptură în stâncă din Europa, situată pe malul Dunării, în golful Mraconia. Reprezentându-l pe ultimul rege al dacilor, opera a fost realizată între anii 1994 și 2004. Monumentul are o înălțime de 55 de metri și o lățime de 25 de metri.",
+      en: "The Rock Sculpture of Decebalus is the tallest rock relief in Europe, located on the banks of the Danube at Mraconia. It depicts the last king of the Dacians and was carved into the rock between 1994 and 2004. The monument stands 55 meters high and 25 meters wide.",
+    },
+    factsAdvanced: {
+      de: ["55 Meter: Gesamthöhe der Felsskulptur", "1994-2004: Zeitraum, in dem die Skulptur geschaffen wurde", "12 Bildhauer: Anzahl der Künstler, die am Projekt arbeiteten", "1 Million Dollar: Geschätzte Kosten, finanziert von I. C. Drăgan", "4,3 Meter: Länge der skulptierten Nase", "7 Meter: Höhe der Augen des Dakerkönigs"],
+      hu: ["55 méter: A sziklaszobor teljes magassága", "1994-2004: Az időszak, amely alatt a szobrot kifaragták", "12 szobrász: A projekten dolgozó művészek száma", "1 millió dollár: Becsült költség, amelyet I. C. Drăgan finanszírozott", "4,3 méter: A kifaragott orr hossza", "7 méter: A dák király szemeinek magassága"],
+      ro: ["55 metri: Înălțimea totală a sculpturii în stâncă", "1994-2004: Perioada în care a fost realizată sculptura", "12 sculptori: Numărul artiștilor care au lucrat la proiect", "1 milion de dolari: Costul estimat finanțat de I. C. Drăgan", "4,3 metri: Lungimea nasului sculptat pe stâncă", "7 metri: Înălțimea ochilor regelui dac"],
+      en: ["55 meters: Total height of the sculpture", "1994-2004: Decade during which the sculpture was carved", "12 sculptors: Number of artists who worked on the project", "1 million dollars: Estimated cost funded by Iosif Constantin Drăgan", "4.3 meters: Length of the sculpted nose", "7 meters: Height of the sculpted eyes"],
+    },
   },
 
   // OLT (RO-OT)
@@ -3791,14 +6456,40 @@ export const romaniaExtraPois: POI[] = [
     name: { de: "Slatina", hu: "Slatina", ro: "Slatina", en: "Slatina" },
     description: { de: "Industriestadt am Fluss Olt.", hu: "Ipari város az Olt folyó partján.", ro: "Oraș industrial pe râul Olt.", en: "Industrial city on the Olt River." },
     facts: { de: ["Slatina ist der Familienname von: Klaus Slatina (1941–2022), deutscher Fußballspieler Slatina ist der Name folgender geografischer Objekte: Städte, Gemeinden: Slatina (Laktaši), Kurort in der Republik Srpska, Bosnien und Herzegowina Bjala Slatina, Stadt in Bulgarien Slatina (Kroatien), Stadt (früher Podravska Slatina), Kroatien Slatina (Rumänien), Stadt im südlichen Rumänien, Rumänien Slatina (Suceava), Gemeinde im Kreis Suceava, Rumänien Slatina-Timiș, Gemeinde im Kreis Caraș-Severin, Rumänien Slatina (Levice), Gemeinde in der südlichen Slowakei, mit Mineralwasserquellen Zvolenská Slatina, Gemeinde in der Mittelslowakei Rogaška Slatina (deutsch: Rohitsch-Sauerbrunn), Gemeinde in der Region Spodnja Štajerska, Slowenien Slatina pod Hazmburkem, Gemeinde im Okres Litoměřice, Tschechien Slatina u Velvar, Gemeinde im Okres Kladno, Tschechien Slatina u Horažďovic, Gemeinde im Okres Klatovy, Tschechien Slatina nad Úpou, Gemeinde (deutsch Moorgrund an der Aupa) im Okres Náchod, Tschechien Slatina u Bílovce, Gemeinde (deutsch Schlatten) im Okres Nový Jičín, Tschechien Slatina u Chříče, Gemeinde im Okres Plzeň-sever, Tschechien Slatina nad Zdobnicí, Gemeinde (deutsch Moorwies) im Okres Rychnov nad Kněžnou, Tschechien Slatina (Bezirk Svitavy) (deutsch Schlettau), früher auch Slatina u Moravské Třebové oder Slatina u Jevíčka, Gemeinde im Okres Svitavy, Tschechien Slatina u Vysokého Mýta, Gemeinde im Okres Ústí nad Orlicí, Tschechien Slatina u Jevišovic, Gemeinde (deutsch Latein) im Okres Znojmo, Tschechien Horní Slatina, Gemeinde (deutsch Oberlatein) im Okres Jindřichův Hradec, Tschechien Solotwyno, Stadt in der Oblast Transkarpatien, Ukraine (rumänischer Name) Orte und Ortsteile: Slatina (Teslić), Dorf in der Gemeinde Teslić in Bosnien und Herzegowina Slatina (Sofia), einer der 24 Bezirke in Sofia, Bulgarien Slatina (Oblast Lowetsch), Dorf in der Oblast Lowetsch, Bulgarien Slatina (Oblast Montana), Dorf in der Oblast Montana, Bulgarien Slatina (Oblast Plowdiw), Dorf in der Oblast Plowdiw, Bulgarien Slatina (Oblast Silistra), Dorf in der Oblast Silistra, Bulgarien Sllatina (Vushtrria), Kosovo Slatina (Andrijevica), Dorf in der Gemeinde Andrijevica, Montenegro Slatina (Danilovgrad), Dorf in der Gemeinde Danilovgrad, Montenegro Slatina (Pljevlja), Dorf in der Gemeinde Pljevlja, Montenegro Slatina (Šavnik), Dorf in der Gemeinde Šavnik, Montenegro Slatina (Argeș), Dorf im Kreis Argeș, Rumänien Slatina de Criș, Dorf im Kreis Arad, Rumänien Slatina de Mureș, Dorf im Kreis Arad, Rumänien Slatina-Nera, Dorf im Kreis Caraș-Severin, Rumänien Slatina (Negotin), Dorf in der Opština Negotin, Serbien Slatina (Knjaževac), Dorf in der Opština Knjaževac, Serbien Slatina (Bor), Dorf in der Opština Bor, Serbien Slatina (Lúky), Ort in der nordwestlichen Slowakei bei Lúky, Slowakei Slatina (Dohňany), Ort in der nordwestlichen Slowakei bei Dohňany, Slowakei Slatina nad Bebravou, Ort in der westlichen Slowakei bei Krásna Ves, Slowakei Slatina (Kungota), Ortsteil der Gemeinde Kungota, Podravska, Slowenien (dt.", "Sulz) Slatina (Brno), Stadtteil von Brno, Tschechien Slatina (Františkovy Lázně), Ort in der Gemeinde Franzensbad, Tschechien Slatina (Hradec Králové), Ortsteil von Hradec Králové, Tschechien Slatina (Přešťovice), Ortschaft der Gemeinde Přešťovice, Tschechien historisch: Slatina (Stará Voda), aufgegebener Ort, der zu Stará Voda u Mariánských Lázní gehörte, Tschechien Baulichkeiten: Kloster Slatina (Mănăstirea Slatina), rumänisch-orthodoxes Kloster im Kreis Suceava in der Region Bukowina in Rumänien Gewässer: Slatina (Hron), Fluss in der Mittelslowakei Slatina (Bach), Bach im Okres Bánovce nad Bebravou"], hu: [], ro: [], en: ["Slatina may refer to:"] },
-    image: "/geo-images/romania/slatina.webp"
+    image: "/geo-images/romania/slatina.webp",
+  
+    descriptionAdvanced: {
+      de: "Slatina ist die Hauptstadt des Kreises Olt und ein bedeutendes Industriezentrum im Süden Rumäniens. Die Stadt liegt am linken Ufer des Flusses Olt und ist vor allem für die Aluminiumproduktion bei ALRO bekannt. Historisch wurde sie erstmals im Jahr 1368 in einem offiziellen Dokument erwähnt.",
+      hu: "Slatina Olt megye székhelye és Románia déli részének egyik fontos ipari központja. A város az Olt folyó bal partján fekszik, és leginkább az ALRO alumíniumgyáráról ismert. Történelmileg először 1368-ban említik hivatalos dokumentumban I. Ulászló havasalföldi fejedelem idején.",
+      ro: "Slatina este reședința județului Olt și un important centru industrial din sudul României. Orașul este situat pe malul stâng al râului Olt și este cunoscut la nivel internațional pentru producția de aluminiu la uzina ALRO. Prima atestare documentară a orașului datează din anul 1368.",
+      en: "Slatina is the capital of Olt County and a major industrial center in southern Romania. The city is located on the left bank of the Olt River and is best known for its aluminum production at the ALRO plant. Its first documented mention dates back to the year 1368.",
+    },
+    factsAdvanced: {
+      de: ["1368: Jahr der ersten offiziellen urkundlichen Erwähnung", "1965: Jahr, in dem das Aluminiumwerk ALRO den Betrieb aufnahm", "70.000 Einwohner: Ungefähre Bevölkerungszahl der Stadt", "1891: Baujahr der ersten Eisenbahnbrücke über den Olt", "20. Jahrhundert: Zeit der Umwandlung Slatinas in ein Industriezentrum", "44 Kilometer: Entfernung zur Großstadt Craiova"],
+      hu: ["1368: Az első hivatalos okleveles említés éve", "1965: Év, amikor az ALRO alumíniumgyár megkezdte működését", "70 000 lakos: A város hozzávetőleges népessége", "1891: Az első vasúti híd építésének éve az Olton", "20. század: Időszak, amikor Slatina ipari központtá alakult", "44 kilométer: Távolság Craiova városától"],
+      ro: ["1368: Anul primei mențiuni documentare oficiale", "1965: Anul în care uzina de aluminiu ALRO a început producția", "70.000 locuitori: Populația aproximativă a municipiului", "1891: Anul construcției primului pod feroviar peste Olt", "Secolul XX: Perioada transformării Slatinei într-un hub industrial", "44 kilometri: Distanța până la orașul Craiova"],
+      en: ["1368: Year of the first official documentary mention", "1965: Year the ALRO aluminum plant began its operations", "70,000 inhabitants: Approximate population of the city", "1891: Year the first railway bridge over the Olt was built", "20th century: Period when Slatina transformed into an industrial hub", "44 kilometers: Distance to the city of Craiova"],
+    },
   },
   {
     id: "ro-poi-manastirea-brancoveni", type: "historical", parent: "RO-OT", coords: [24.3164, 44.3125],
     name: { de: "Kloster Brâncoveni", hu: "Brâncoveni-kolostor", ro: "Mănăstirea Brâncoveni", en: "Brâncoveni Monastery" },
     description: { de: "Bedeutendes Kloster- und Architekturdenkmal.", hu: "Jelentős kolostor és építészeti műemlék.", ro: "Important monument arhitectural și mănăstiresc.", en: "Important monastic and architectural monument." },
     facts: { de: [], hu: [], ro: ["Mănăstirea Brâncoveni este o mănăstire din România, situată în comuna Brâncoveni din județul Olt."], en: [] },
-    image: "/geo-images/romania/brancoveni-monastery.webp"
+    image: "/geo-images/romania/brancoveni-monastery.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Kloster Brâncoveni ist eine bedeutende historische und religiöse Stätte im Kreis Olt. Ursprünglich im 16. Jahrhundert erbaut, wurde es später von Matei Basarab und Constantin Brâncoveanu im Brâncoveanu-Stil erweitert. Es dient heute als Frauenkloster und beherbergt wertvolle mittelalterliche Grabsteine.",
+      hu: "A Brâncoveni-kolostor Olt megye egyik legjelentősebb történelmi és vallási helyszíne. Az eredetileg 16. században alapított épületet később Matei Basarab és Constantin Brâncoveanu bővítette Brâncoveanu-stílusban. Jelenleg női kolostorként működik, és értékes középkori sírköveknek ad otthont.",
+      ro: "Mănăstirea Brâncoveni este un lăcaș de cult și monument istoric de o importanță deosebită din județul Olt. Fondată inițial în secolul al XVI-lea, a fost reconstruită de Matei Basarab și Constantin Brâncoveanu în stil brâncovenesc. Ansamblul monahal este renumit pentru arhitectura sa și pentru valoarea spirituală.",
+      en: "Brâncoveni Monastery is a significant historical and religious site in Olt County. Originally founded in the 16th century, it was later expanded by Matei Basarab and Constantin Brâncoveanu in the Brâncovenesc style. Today it functions as a nunnery and houses valuable medieval tombstones.",
+    },
+    factsAdvanced: {
+      de: ["1570: Jahr, in dem die ursprüngliche Kirche von Pârvu erbaut wurde", "1699: Jahr einer bedeutenden Rekonstruktion durch C. Brâncoveanu", "1702: Fertigstellungsdatum der internen Wandmalereien", "1980: Jahr der Wiedereröffnung des Klosters nach langer Schließung", "20 Kilometer: Entfernung von der Stadt Slatina", "18. Jahrhundert: Zeit der kulturellen Blütezeit des Klosters"],
+      hu: ["1570: Év, amikor Pârvu báró felépíttette az eredeti templomot", "1699: Constantin Brâncoveanu általi jelentős újjáépítés éve", "1702: A belső falfestmények befejezésének dátuma", "1980: A kolostor újranyitásának éve évtizedes szünet után", "20 kilométer: Távolság Slatina városától", "18. század: Időszak, amikor a kolostor kulturális virágkorát élte"],
+      ro: ["1570: Anul fondării bisericii originale de către vornicul Pârvu", "1699: Anul unei reconstrucții majore de către C. Brâncoveanu", "1702: Data finalizării picturilor murale interioare", "1980: Anul redeschiderii mănăstirii după decenii de închidere", "20 kilometri: Distanța față de municipiul Slatina", "Secolul XVIII: Perioada de maximă înflorire culturală a mănăstirii"],
+      en: ["1570: Year the original church was founded by Baron Pârvu", "1699: Year of a major reconstruction by Constantin Brâncoveanu", "1702: Completion date of the internal mural paintings", "1980: Year the monastery was reopened after decades of closure", "20 kilometers: Distance from the city of Slatina", "18th century: Period when the monastery reached its cultural peak"],
+    },
   },
 
   // SĂLAJ (RO-SJ)
@@ -3807,21 +6498,60 @@ export const romaniaExtraPois: POI[] = [
     name: { de: "Zillenmarkt", hu: "Zilah", ro: "Zalău", en: "Zalău" },
     description: { de: "Kreishauptstadt von Sălaj.", hu: "Szilágy megye székhelye.", ro: "Reședința județului Sălaj.", en: "Capital of Sălaj county." },
     facts: { de: ["Zalău ([zaˈlə̯u], veraltet Zălau oder Zălău; ungarisch Zilah [ˈzilɒx], deutsch Zillenmarkt oder auch Waltenberg) ist eine Stadt in Rumänien und liegt im Kreis Sălaj im Kreischgebiet.", "Die Kommune besteht aus zwei Ansiedlungen, der Stadt Zalău und Stâna und liegt am Oberlauf des Zalău – ein rechter Nebenfluss der Crasna – an den nordwestlichen Hängen der Meseș-Berge (Munții Meseș).", "Im Jahr 2007 hatte die Stadt ungefähr 63.600 Einwohner, 1992 zählte man noch 67.977 Einwohner."], hu: [], ro: ["Zalău (original și colocvial Zălau; în maghiară Zilah, în germană Zillenmarkt sau Waltenberg) este municipiul de reședință al județului Sălaj, Transilvania, România, format din localitățile componente Stâna și Zalău (reședința).", "Conform recensământului din anul 2011, Zalău are o populație de 56.205 locuitori."], en: ["Zalău (Romanian pronunciation: [zaˈləw], unofficial and former official name: Romanian: Zălau (Romanian pronunciation: [zalˈəw]; German: Zillenmarkt or Waltenberg, Hungarian: Zilah, Turkish: Zile) is the seat of Sălaj County, Romania.", "In 2021, its estimated population was 52,359."] },
-    image: "/geo-images/romania/zalau.webp"
+    image: "/geo-images/romania/zalau.webp",
+  
+    descriptionAdvanced: {
+      de: "Zalău ist die Hauptstadt des Kreises Sălaj und liegt am Fuße der Meseș-Berge im Nordwesten Rumäniens. Die Stadt hat eine lange Geschichte und wurde erstmals im 13. Jahrhundert urkundlich erwähnt. Heute ist sie ein kulturelles Zentrum mit Museen, die bedeutende archäologische Funde der Region ausstellen.",
+      hu: "Zilah Szilágy megye székhelye, a Meszes-hegység lábánál fekszik Románia északnyugati részén. A város hosszú múltra tekint vissza, első írásos említése a 13. századból származik. Ma kulturális központ, múzeumaiban a régió jelentős régészeti leleteit őrizik.",
+      ro: "Zalău este reședința județului Sălaj, fiind situat la poalele Munților Meseș în nord-vestul României. Orașul are o istorie îndelungată, fiind menționat documentar pentru prima dată în secolul al XIII-lea. Este un centru cultural important, găzduind muzee cu piese arheologice valoroase.",
+      en: "Zalău is the capital of Sălaj County, located at the foot of the Meseș Mountains in northwestern Romania. The city has a long history, with its first documentary mention dating back to the 13th century. Today it is a cultural hub with museums exhibiting significant archaeological finds.",
+    },
+    factsAdvanced: {
+      de: ["1220: Jahr der ersten urkundlichen Erwähnung als Villa Ziloc", "1473: Jahr, in dem Zalău der Status eines Marktfleckens verliehen wurde", "56.000 Einwohner: Ungefähre Bevölkerungszahl der Gemeinde", "1876: Jahr, in dem Zalău Sitz des Komitats Szilágy wurde", "8 Kilometer: Entfernung zur römischen Ausgrabungsstätte Porolissum", "1951: Gründungsjahr des Kreismuseums für Geschichte und Kunst"],
+      hu: ["1220: Az első írásos említés éve Villa Ziloc néven", "1473: Év, amikor Zilah mezővárosi rangot kapott", "56 000 lakos: A település hozzávetőleges népessége", "1876: Év, amikor Zilah Szilágy vármegye székhelye lett", "8 kilométer: Távolság Porolissum római régészeti lelőhelyétől", "1951: A Megyei Történelmi és Művészeti Múzeum alapításának éve"],
+      ro: ["1220: Anul primei mențiuni documentare sub numele Villa Ziloc", "1473: Anul în care Zalăul a primit statutul de târg", "56.000 locuitori: Populația aproximativă a municipiului", "1876: Anul în care Zalăul a devenit reședința comitatului Sălaj", "8 kilometri: Distanța până la situl arheologic roman Porolissum", "1951: Anul înființării Muzeului Județean de Istorie și Artă"],
+      en: ["1220: Year of the first documented mention as Villa Ziloc", "1473: Year Zalău was granted the status of a market town", "56,000 inhabitants: Approximate population of the municipality", "1876: Year Zalău became the seat of Szilágy County", "8 kilometers: Distance to the Roman archaeological site of Porolissum", "1951: Year the County Museum of History and Art was established"],
+    },
   },
   {
     id: "ro-poi-porolissum", type: "historical", parent: "RO-SJ", coords: [23.1583, 47.1803],
     name: { de: "Porolissum", hu: "Porolissum", ro: "Castrul Roman Porolissum", en: "Porolissum Roman Camp" },
     description: { de: "Ehemaliges römisches Militärlager.", hu: "Egykori római katonai tábor.", ro: "Fost castru militar roman.", en: "Former Roman military camp." },
     facts: { de: ["Kastell Romita (antiker Name Certinae, Cersie oder Certie) war ein römisches Hilfstruppenlager auf dem Gebiet des zur Gemeinde Românași im Kreis Sălaj gehörenden Dorfes Romita in der rumänischen Region Siebenbürgen.", "In antiker Zeit lag es in der römischen Provinz Dacia Porolissensis und war Bestandteil des Limes Porolissensis."], hu: ["Apulum a római Dacia egyik legjelentősebb politikai, gazdasági és kulturális központja volt a 106 és 271 közötti időszakban a mai Gyulafehérvár területén.", "Az egykori dák település, Apulon közelében közvetlenül a római hódítást követően letelepedő XIII Gemina legio castruma körül a 2–3.", "században kettős település jött létre (Colonia Aurelia Apulensis és Municipium Septimium Apulense)."], ro: ["Porolissum a fost un oraș roman din Dacia.", "Stabilit ca tabără militară în anul 106 d.C., în timpul războaielor daco-romane ale lui Traian, orașul s-a dezvoltat repede prin intermediul comerțului cu băștinașii daci, și a devenit capitala provinciei romane Dacia Porolissensis în 124 d.C.", "Situl este unul dintre cele mai mari și mai bine păstrate din România."], en: ["Porolissum was an ancient Roman city in Dacia.", "Established as a military fort in 106 during Trajan's Dacian Wars, the city quickly grew through trade with the natives and became the capital of the province Dacia Porolissensis in 124.", "It is one of the largest and best-preserved archaeological sites in modern-day Romania from the Roman Era."] },
-    image: "/geo-images/romania/ro-poi-porolissum.webp"
+    image: "/geo-images/romania/ro-poi-porolissum.webp",
+  
+    descriptionAdvanced: {
+      de: "Porolissum war eine der wichtigsten römischen Militär- und Handelsstädte in der Provinz Dakien. Es wurde im Jahr 106 n. Chr. als Militärlager zur Verteidigung der Nordgrenze des Reiches errichtet. Heute ist es eine bedeutende archäologische Ausgrabungsstätte mit einem gut erhaltenen Amphitheater.",
+      hu: "Porolissum Dacia provincia egyik legfontosabb római katonai és kereskedelmi városa volt. Kr. u. 106-ban alapították katonai táborként a birodalom északi határának védelmére. Ma jelentős régészeti lelőhely, ahol egy jól megőrzött amfiteátrum és számos épületmaradvány látható.",
+      ro: "Porolissum a fost unul dintre cele mai importante orașe romane și centre militare din provincia Dacia. Fondat în anul 106 d.Hr. ca tabără militară, acesta apăra principala trecătoare prin Munții Meseș. Astăzi este un sit arheologic major, remarcându-se prin amfiteatrul și porțile sale reconstruite.",
+      en: "Porolissum was one of the most important Roman military and commercial centers in the province of Dacia. Established in 106 AD as a military camp, it guarded the main northern pass through the Meseș Mountains. Today it is a major archaeological site, featuring a well-preserved amphitheater.",
+    },
+    factsAdvanced: {
+      de: ["106 n. Chr.: Jahr der Errichtung des römischen Kastells", "5.000 Soldaten: Geschätzte Größe der römischen Garnison", "124 n. Chr.: Porolissum wird Hauptstadt der Provinz Dacia Porolissensis", "1977: Beginn umfangreicher moderner archäologischer Ausgrabungen", "2.000 Jahre: Ungefähres Alter der römischen Steinstrukturen", "8 Kilometer: Entfernung von der heutigen Stadt Zalău"],
+      hu: ["Kr. u. 106: A római erőd alapításának éve Traianus idején", "5000 katona: A római helyőrség becsült létszáma a csúcsponton", "Kr. u. 124: Porolissum Dacia Porolissensis provincia székhelye lett", "1977: Az átfogó modern régészeti feltárások kezdete", "2000 év: A római kőszerkezetek hozzávetőleges kora", "8 kilométer: Távolság a modern Zilah városától"],
+      ro: ["106 d.Hr.: Anul fondării castrului roman de către împăratul Traian", "5.000 soldați: Mărimea estimată a garnizoanei romane la apogeu", "124 d.Hr.: Anul în care Porolissum a devenit capitala Daciei Porolissensis", "1977: Anul începerii săpăturilor arheologice moderne sistematice", "2.000 ani: Vechimea aproximativă a structurilor romane din piatră", "8 kilometri: Distanța față de orașul modern Zalău"],
+      en: ["106 AD: Year the Roman fort was established by Emperor Trajan", "5,000 soldiers: Estimated size of the Roman garrison at its peak", "124 AD: Year Porolissum became the capital of Dacia Porolissensis", "1977: Year extensive modern archaeological excavations began", "2,000 years: Approximate age of the Roman stone structures", "8 kilometers: Distance from the modern city of Zalău"],
+    },
   },
   {
     id: "ro-poi-gradina-zmeilor", type: "landmark", parent: "RO-SJ", coords: [23.3, 47.2],
     name: { de: "Drachengarten", hu: "Sárkányok kertje", ro: "Grădina Zmeilor", en: "Dragons' Garden" },
     description: { de: "Spektakuläres Naturschutzgebiet mit Felsformationen.", hu: "Látványos természetvédelmi terület sziklaképződményekkel.", ro: "Rezervație naturală spectaculoasă cu formațiuni stâncoase.", en: "Spectacular nature reserve with rock formations." },
     facts: { de: ["Die Liste der Naturschutzgebiete in Rumänien enthält die Naturschutzgebiete von nationaler Bedeutung, die erstmals durch das Gesetz Nummer 5 vom 6.", "März 2000 ausgewiesen und durch die Regierungsbeschlüsse Nummer 2151 vom 30.", "November 2004, Nummer 1581 vom 8."], hu: ["A Sárkányok kertje (románul Grădina Zmeilor) egy felszíni erózióval létrejött sziklaképződmény Romániában, az erdélyi Szilágy megyében.", "A 32,5 hektáros terület védelem alatt áll."], ro: ["Grădina Zmeilor este o arie protejată de interes național ce corespunde categoriei a IV-a IUCN (rezervație naturală de tip geologic, floristic, faunistic și peisagistic), situată în județul Sălaj, pe teritoriul administrativ al comunei Bălan."], en: [] },
-    image: "/geo-images/romania/ro-poi-gradina-zmeilor.webp"
+    image: "/geo-images/romania/ro-poi-gradina-zmeilor.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Drachengarten ist ein einzigartiges Naturschutzgebiet im Kreis Sălaj, bekannt für seine bizarren Sandsteinformationen. Diese wurden durch jahrtausendelange Erosion geformt und haben Namen wie 'Der Drache' oder 'Die Eva'. Das Gebiet erstreckt sich über etwa fünf Hektar in der Nähe des Dorfes Gâlgău Almașului.",
+      hu: "A Sárkányok kertje egy egyedülálló természetvédelmi terület Szilágy megyében, amely különleges homokkő alakzatairól ismert. A sziklákat évezredes erózió formálta, és olyan neveket viselnek, mint a 'Sárkány' vagy az 'Éva'. A terület mintegy öt hektáron terül el Gâlgău Almașului falu közelében.",
+      ro: "Grădina Zmeilor este o rezervație naturală unică situată în județul Sălaj, faimoasă pentru formațiunile sale stâncoase bizare. Acestea au fost modelate de eroziune de-a lungul mileniilor și poartă denumiri precum 'Zmeul' sau 'Eva'. Rezervația se întinde pe aproximativ 5 hectare lângă satul Gâlgău Almașului.",
+      en: "The Dragons' Garden is a unique nature reserve in Sălaj County, famous for its bizarre sandstone rock formations. These were shaped by erosion over millennia and bear names like 'The Dragon' or 'Eve'. The reserve covers about five hectares near the village of Gâlgău Almașului.",
+    },
+    factsAdvanced: {
+      de: ["5 Hektar: Gesamtfläche des geologischen Naturschutzgebiets", "1975: Jahr der offiziellen Ausweisung als Schutzgebiet", "10-12 Meter: Durchschnittliche Höhe der größten Sandsteinsäulen", "2000: Jahr, in dem eine Flut einige Formationen zum Einsturz brachte", "30 Kilometer: Entfernung von der Stadt Zalău", "10 Millionen Jahre: Alter des Gesteins, das den Garten bildet"],
+      hu: ["5 hektár: A földtani természetvédelmi terület teljes kiterjedése", "1975: Év, amikor a területet hivatalosan védetté nyilvánították", "10-12 méter: A legnagyobb homokkő oszlopok átlagos magassága", "2000: Év, amikor egy árvíz néhány sziklaalakzat leomlását okozta", "30 kilométer: Távolság Zilah városától", "10 millió év: A kertet alkotó üledékes kőzetek kora"],
+      ro: ["5 hectare: Suprafața totală a rezervației naturale geologice", "1975: Anul în care situl a fost declarat oficial arie protejată", "10-12 metri: Înălțimea medie a celor mai mari coloane de gresie", "2000: Anul în care o inundație a dus la prăbușirea unor formațiuni", "30 kilometri: Distanța față de municipiul Zalău", "10 milioane ani: Vechimea rocilor sedimentare care formează grădina"],
+      en: ["5 hectares: Total area of the geological nature reserve", "1975: Year the site was officially declared a protected area", "10-12 meters: Average height of the largest sandstone pillars", "2000: Year a major flood caused some of the formations to collapse", "30 kilometers: Distance from the city of Zalău", "10 million years: Age of the sedimentary rocks forming the garden"],
+    },
   },
 
   // SATU MARE (RO-SM)
@@ -3830,14 +6560,40 @@ export const romaniaExtraPois: POI[] = [
     name: { de: "Schloss Károlyi", hu: "Károlyi-kastély", ro: "Castelul Károlyi", en: "Károlyi Castle" },
     description: { de: "Historisches Schloss in Carei.", hu: "Történelmi kastély Nagykárolyban.", ro: "Castel istoric în Carei.", en: "Historical castle in Carei." },
     facts: { de: ["Das Schloss Károlyi (rumänisch Castelul Károlyi, ungarisch Károlyi-kastély) ist eine neogotisch-neobarocke Schlossanlage in Carei (deutsch Großkarol, ungarisch Nagykároly) im Nordwesten Rumäniens.", "Sie war einst Stammsitz der ungarischen Adelsfamilie Károlyi von Nagykároly."], hu: ["A Castel dell’Ovo (jelentése Tojásvár) egy nápolyi vár."], ro: ["Ansamblul castelului Károlyi din Carei este un ansamblu de monumente istorice aflat pe teritoriul orașului Carei, operă a arhitectului Arthur Meinig.", "În Repertoriul Arheologic Național, monumentul apare cu codul 136535.04.01.", "Monument de arhitectură, castelul Károly, a fost construit între anii 1892-1894."], en: ["Károlyi Castle refers to a number of castles and hunting lodges in Hungary and Romania which were owned by members of the Károlyi family"] },
-    image: "/geo-images/romania/karolyi-castle.webp"
+    image: "/geo-images/romania/karolyi-castle.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Schloss Károlyi in Carei wurde im 15. Jahrhundert ursprünglich als Festung erbaut und später in eine prächtige Residenz umgewandelt. Die heutige Architektur verbindet Neogotik und Neobarock nach einem Umbau Ende des 19. Jahrhunderts. Es ist von einem weitläufigen botanischen Garten umgeben.",
+      hu: "A nagykárolyi Károlyi-kastély a 15. században épült várként, majd később pompás rezidenciává alakították. Mai formáját a 19. század végi átépítés során nyerte el, ötvözve a neogótikus és neobarokk stílusokat. A kastélyt egy kiterjedt botanikus kert veszi körül.",
+      ro: "Castelul Károlyi din Carei a fost construit inițial ca o fortăreață în secolul al XV-lea, fiind ulterior transformat într-o reședință nobiliară fastuoasă. Arhitectura actuală îmbină stilurile neogotic și neobaroc, rezultate în urma reconstrucției de la sfârșitul secolului al XIX-lea. Este înconjurat de un parc dendrologic vast.",
+      en: "Károlyi Castle in Carei was originally built as a fortress in the 15th century and later converted into a grand residence. The current architecture combines Neo-Gothic and Neo-Baroque styles following a reconstruction in the late 19th century. It is surrounded by an extensive botanical park.",
+    },
+    factsAdvanced: {
+      de: ["1482: Jahr der ersten Erwähnung der befestigten Steinstruktur", "1894: Abschluss der großen neogotischen Rekonstruktion", "12 Hektar: Fläche des umgebenden dendrologischen Parks", "1794: Jahr eines schweren Erdbebens, das das Schloss beschädigte", "1958: Jahr der Einrichtung des Stadtmuseums im Schloss", "208 Arten: Anzahl der exotischen Pflanzen in den Schlossgärten"],
+      hu: ["1482: Az első erődített kőszerkezet említésének éve", "1894: A nagyszabású neogótikus átépítés befejezésének éve", "12 hektár: A kastélyt körülvevő dendrológiai park területe", "1794: Súlyos földrengés éve, amely megrongálta a korábbi kastélyt", "1958: A városi múzeum kastélyon belüli megalapításának éve", "208 faj: A kastélykertben található egzotikus növényfajok száma"],
+      ro: ["1482: Anul primei mențiuni a unei structuri fortificate din piatră", "1894: Anul finalizării reconstrucției majore în stil neogotic", "12 hectare: Suprafața parcului dendrologic care înconjoară castelul", "1794: Anul unui cutremur catastrofal care a avariat castelul", "1958: Anul înființării muzeului municipal în incinta castelului", "208 specii: Numărul de plante exotice identificate în grădini"],
+      en: ["1482: Year the first fortified stone structure was mentioned", "1894: Year the major Neo-Gothic reconstruction was completed", "12 hectares: Area of the surrounding dendrological park", "1794: Year a catastrophic earthquake damaged the earlier castle", "1958: Year the municipal museum was established inside the castle", "208 species: Number of exotic plants found in the castle gardens"],
+    },
   },
   {
     id: "ro-poi-turnul-pompierilor", type: "landmark", parent: "RO-SM", coords: [22.875, 47.7958],
     name: { de: "Feuerwehrturm", hu: "Tűzoltótorony", ro: "Turnul Pompierilor", en: "Firemen's Tower" },
     description: { de: "Wahrzeichen der Stadt Satu Mare.", hu: "Szatmárnémeti jelképe.", ro: "Simbol al orașului Satu Mare.", en: "Landmark of the city of Satu Mare." },
     facts: { de: [], hu: ["A tűzoltótorony (románul: Turnul Pompierilor) tűztorony Szatmárnémetiben.", "A régi Pannónia szálló (ma Dacia hotel) mögötti téren áll.", "A kerek torony 45 méter magas, és a város egyik szimbólumának számít."], ro: ["Turnul Pompierilor, denumit pe vremuri Turnul Lăcătușilor, este situat pe strada Tipografiei din municipiul Cluj-Napoca."], en: [] },
-    image: "/geo-images/romania/firemen.webp"
+    image: "/geo-images/romania/firemen.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Feuerwehrturm ist eines der Wahrzeichen von Satu Mare und wurde 1904 im eklektischen Stil erbaut. Mit einer Höhe von 47 Metern diente er lange Zeit der Beobachtung der Stadt, um Brände frühzeitig zu erkennen. Heute ist er für Besucher zugänglich und bietet einen Panoramablick über das Stadtzentrum.",
+      hu: "A Tűzoltótorony Szatmárnémeti egyik jelképe, amely 1904-ben épült eklektikus stílusban. A 47 méter magas torony hosszú ideig a város megfigyelésére szolgált, hogy időben észrevegyék a tűzeseteket. Ma látogatható, és panorámás kilátást nyújt a városközpontra.",
+      ro: "Turnul Pompierilor este unul dintre simbolurile orașului Satu Mare, fiind construit în anul 1904 în stil eclectic. Având o înălțime de 47 de metri, turnul a fost utilizat pentru monitorizarea incendiilor din oraș. Astăzi este un obiectiv turistic care oferă o vedere panoramică asupra centrului istoric.",
+      en: "The Firemen's Tower is one of the landmarks of Satu Mare, built in 1904 in an eclectic style. Standing 47 meters high, it served for a long time as a watchtower to detect fires in the city early on. Today it is open to visitors and offers a panoramic view of the city center.",
+    },
+    factsAdvanced: {
+      de: ["1904: Jahr der Fertigstellung des Turmbaus", "47 Meter: Gesamthöhe des Bauwerks", "11,5 Meter: Durchmesser der Turmbasis", "2005: Jahr der letzten großen Restaurierung für den Tourismus", "150 Stufen: Anzahl der Stufen bis zur Aussichtsplattform", "360 Grad: Blickwinkel der Panorama-Plattform"],
+      hu: ["1904: A torony építésének befejezési éve", "47 méter: Az építmény teljes magassága", "11,5 méter: A torony alapjának átmérője", "2005: Az utolsó jelentős turisztikai célú restaurálás éve", "150 lépcsőfok: A kilátószinthez vezető lépcsők száma", "360 fok: A panorámás kilátás szöge a tetőről"],
+      ro: ["1904: Anul finalizării construcției turnului", "47 metri: Înălțimea totală a structurii", "11,5 metri: Diametrul bazei turnului", "2005: Anul ultimei restaurări majore pentru circuitul turistic", "150 trepte: Numărul de trepte necesar pentru a ajunge la foișor", "360 grade: Unghiul de vizibilitate asupra orașului"],
+      en: ["1904: Year the construction of the tower was completed", "47 meters: Total height of the structure", "11.5 meters: Diameter of the tower's base", "2005: Year of the last major restoration for tourism", "150 steps: Number of steps required to reach the observation deck", "360 degrees: View angle from the observation platform"],
+    },
   },
 
   // TELEORMAN (RO-TR)
@@ -3846,21 +6602,60 @@ export const romaniaExtraPois: POI[] = [
     name: { de: "Alexandria", hu: "Alexandria", ro: "Alexandria", en: "Alexandria" },
     description: { de: "Kreishauptstadt am Fluss Vedea.", hu: "Megyeszékhely a Vedea folyó partján.", ro: "Reședința județului pe râul Vedea.", en: "County capital on the Vedea river." },
     facts: { de: ["Alexandria oder Alexandrien (altgriechisch Ἀλεξάνδρεια Alexándreia, nach Alexander dem Großen; arabisch الإسكندرية al-Iskandariyya; koptisch: Ⲣⲁⲕⲟϯ Rakoti bzw.", "ⲁⲗⲉⲝⲁⲛⲇⲣⲓⲁ Aleksandria) ist mit über fünf Millionen Einwohnern (Stand 2023) und einer Ausdehnung von 32 Kilometern entlang der Mittelmeerküste nach Kairo die zweitgrößte Stadt Čgyptens und die größte ägyptische Stadt mit direktem Zugang zum Mittelmeer.", "Sie besitzt den größten Seehafen des Landes, an dem etwa 80 % des ägyptischen Außenhandels abgewickelt werden."], hu: [], ro: [], en: ["Alexandria is a major city in Egypt.", "Lying at the western edge of the Nile River Delta, it extends about 40 km (25 mi) along the country's northern coast.", "It is Egypt's principal seaport, the second largest city after Cairo, and the largest city on the Mediterranean coast."] },
-    image: "/geo-images/romania/alexandria.webp"
+    image: "/geo-images/romania/alexandria.webp",
+  
+    descriptionAdvanced: {
+      de: "Alexandria ist die Hauptstadt des Kreises Teleorman und liegt in der Mitte der Walachischen Tiefebene. Die Stadt wurde 1834 gegründet und nach ihrem Gründer, Fürst Alexandru Ghica, benannt. Sie ist bekannt für ihren schachbrettartigen Grundriss mit geraden Straßen, der für rumänische Städte dieser Zeit modern war.",
+      hu: "Alexandria Teleorman megye székhelye, a Havasalföldi-alföld közepén fekszik. A várost 1834-ben alapították, és alapítójáról, Alexandru Ghica fejedelemről nevezték el. Ismert a sakktáblaszerű utcaszerkezetéről és egyenes útjairól, ami modernnek számított az akkori román városok körében.",
+      ro: "Alexandria este reședința județului Teleorman, situată în centrul Câmpiei Române. Orașul a fost întemeiat în anul 1834 și poartă numele fondatorului său, domnitorul Alexandru Ghica. Este renumit pentru trama stradală regulată, cu străzi drepte și paralele, un concept modern la acea vreme.",
+      en: "Alexandria is the capital of Teleorman County, located in the middle of the Wallachian Plain. The city was founded in 1834 and named after its founder, Prince Alexandru Ghica. It is known for its grid-like street layout with straight roads, which was modern for Romanian cities at that time.",
+    },
+    factsAdvanced: {
+      de: ["1834: Jahr der offiziellen Gründung der Stadt", "45.000 Einwohner: Ungefähre Bevölkerungszahl der Gemeinde", "88 Kilometer: Entfernung zur Hauptstadt Bukarest", "1898: Baubeginn der Kathedrale des Heiligen Alexander", "20. Jahrhundert: Zeit bedeutender industrieller Entwicklung", "10 Meter: Durchschnittliche Höhe der Stadt über dem Vedea-Fluss"],
+      hu: ["1834: A város hivatalos alapításának éve", "45 000 lakos: A település hozzávetőleges népessége", "88 kilométer: Távolság Bukarest fővárostól", "1898: A Szent Sándor-székesegyház építésének kezdete", "20. század: A terület jelentős ipari fejlődésének időszaka", "10 méter: A város átlagos magassága a Vedea-folyó szintje felett"],
+      ro: ["1834: Anul fondării oficiale a orașului", "45.000 locuitori: Populația aproximativă a municipiului", "88 kilometri: Distanța până la capitala București", "1898: Anul începerii construcției Catedralei Sfântul Alexandru", "Secolul XX: Perioada de dezvoltare industrială semnificativă", "10 metri: Altitudinea medie a orașului deasupra râului Vedea"],
+      en: ["1834: Year the city was officially founded", "45,000 inhabitants: Approximate population of the municipality", "88 kilometers: Distance to the capital city of Bucharest", "1898: Year the construction of Saint Alexander Cathedral began", "20th century: Period of significant industrial development in the area", "10 meters: Average elevation of the city above the Vedea River level"],
+    },
   },
   {
     id: "ro-poi-cetatea-turnu", type: "historical", parent: "RO-TR", coords: [24.8711, 43.7433],
     name: { de: "Festung Turnu", hu: "Turnu erőd", ro: "Ruinele Cetății Turnu", en: "Turnu Fortress Ruins" },
     description: { de: "Ruinen einer alten römischen und mittelalterlichen Festung.", hu: "Egy ősi római és középkori erőd romjai.", ro: "Ruinele unei vechi cetăți romane și medievale.", en: "Ruins of an ancient Roman and medieval fortress." },
     facts: { de: ["Liste archäologischer Museen: Museen der Archäologie, einschließlich einiger bedeutender archäologischer Abteilungen und Sammlungen von allgemeineren Museen (natur-, kunst- und kulturhistorische Museen)."], hu: [], ro: ["Ruinele Cetății Severinului sunt un ansamblu de monumente istorice aflat pe teritoriul municipiului Drobeta Turnu Severin.", "În Repertoriul Arheologic Național, monumentul apare cu codul 109782.07.01.", "Cetatea are un plan dreptunghiular destul de regulat care o înconjoară și două ziduri de incintă."], en: ["The medieval fortress of Turnu (English: tower, Turkish: Kule, also known as Nicopolis minor, Holavnic) is located in the southern part of Turnu Măgurele at a distance of 3 km from the city and 1 km from the confluence of the Olt and Danube rivers in today's Romania.", "The fortress is documented during the reign of Mircea the Elder (1394) and was built on the Danube line for the defense of Wallachia against the Turkish peril.", "At the end of the reign of Mircea the Elder, under unclear circumstances, it came under Ottoman occupation to return to the possession of Wallachia only in 1829 when it was burned and demolished."] },
-    image: "/geo-images/romania/turnu-fortress-ruins.webp"
+    image: "/geo-images/romania/turnu-fortress-ruins.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Ruinen der Festung Turnu befinden sich in Turnu Măgurele, nahe der Mündung des Olt in die Donau. Die Festung wurde im 14. Jahrhundert unter Mircea dem Alten erbaut und war lange Zeit ein wichtiger osmanischer Vorposten. Heute sind nur noch Reste der massiven Mauern und Türme erhalten.",
+      hu: "Turnu várának romjai Turnu Măgurele városában találhatók, az Olt Duna-torkolatának közelében. A várat a 14. században építtették I. Mircea havasalföldi fejedelem idején, és sokáig fontos oszmán végvár volt. Ma már csak a masszív falak és tornyok maradványai láthatók.",
+      ro: "Cetatea Turnu este situată în orașul Turnu Măgurele, în apropierea confluenței râului Olt cu Dunărea. Fortificația a fost ridicată în secolul al XIV-lea în timpul lui Mircea cel Bătrân, servind ulterior ca punct strategic otoman. Astăzi se păstrează ruinele zidurilor groase și ale turnurilor medievale.",
+      en: "The ruins of Turnu Fortress are located in Turnu Măgurele, near the confluence of the Olt and Danube rivers. The fortress was built in the 14th century during the reign of Mircea the Elder and later served as a strategic Ottoman outpost. Today only the remains of its massive walls and towers are preserved.",
+    },
+    factsAdvanced: {
+      de: ["1394: Erste dokumentarische Erwähnung der Festung", "1417: Jahr, in dem die Festung unter osmanische Kontrolle fiel", "1829: Rückgabe der Festung an die Walachei und Abriss", "3 Meter: Dicke der Verteidigungsmauern in einigen Abschnitten", "1836: Gründungsjahr der modernen Stadt Turnu Măgurele", "1970er: Zeitraum archäologischer Ausgrabungen an der Stätte"],
+      hu: ["1394: A vár első írásos említése", "1417: Év, amikor a vár oszmán ellenőrzés alá került", "1829: Év, amikor a várat visszacsatolták Havasalföldhöz és lerombolták", "3 méter: A védőfalak vastagsága egyes szakaszokon", "1836: A modern Turnu Măgurele város alapításának éve", "1970-es évek: Régészeti feltárások időszaka a helyszínen"],
+      ro: ["1394: Prima mențiune documentară a cetății", "1417: Anul în care cetatea a intrat sub stăpânire otomană", "1829: Anul în care cetatea a fost retrocedată Munteniei și dărâmată", "3 metri: Grosimea zidurilor de apărare în anumite secțiuni", "1836: Anul fondării orașului modern Turnu Măgurele", "Anii 1970: Perioada săpăturilor arheologice la sit"],
+      en: ["1394: First documentary mention of the fortress", "1417: Year the fortress fell under Ottoman control", "1829: Year the fortress was returned to Wallachia and demolished", "3 meters: Thickness of the defensive walls in some sections", "1836: Year the modern town of Turnu Măgurele was founded nearby", "1970s: Period of archaeological excavations at the site"],
+    },
   },
   {
     id: "ro-poi-padurea-troianu", type: "landmark", parent: "RO-TR", coords: [24.9833, 44.025],
     name: { de: "Troianu-Wald", hu: "Troianu-erdő", ro: "Pădurea Troianu", en: "Troianu Forest" },
     description: { de: "Naturschutzgebiet für wilde Pfingstrosen.", hu: "Vadon termő pünkösdi rózsák természetvédelmi területe.", ro: "Rezervație naturală pentru bujori sălbatici.", en: "Nature reserve for wild peonies." },
     facts: { de: ["Die Liste der Naturschutzgebiete in Rumänien enthält die Naturschutzgebiete von nationaler Bedeutung, die erstmals durch das Gesetz Nummer 5 vom 6.", "März 2000 ausgewiesen und durch die Regierungsbeschlüsse Nummer 2151 vom 30.", "November 2004, Nummer 1581 vom 8."], hu: [], ro: ["Pădurea Troianu este o arie protejată (sit de importanță comunitară — SCI) din România, desemnată în scopul protejării biodiversității și menținerii într-o stare de conservare favorabilă a florei spontane și faunei sălbatice, precum și a habitatelor naturale de interes comunitar aflate în arealul zonei de protecție.", "Aceasta este întinsă pe o suprafață de 78,7 ha, integral pe uscat."], en: ["The spectacles in ancient Rome were numerous, open to all citizens and generally free of charge; some of them were distinguished by the grandeur of the stagings and cruelty.", "Romans preferred to attend gladiatorial fights, those with ferocious beasts (venationes), reproductions of naval battles (naumachia), chariot races, athletic contests, theatrical performances by mimes, and pantomimes.", "Forty years after the invective of Juvenal (n."] },
-    image: "/geo-images/romania/troianu-forest.webp"
+    image: "/geo-images/romania/troianu-forest.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Troianu-Wald ist ein Naturschutzgebiet im Kreis Teleorman, das für den Schutz der Pfingstrose bekannt ist. Das Reservat beherbergt seltene Pflanzenarten und ist besonders im Frühling während der Blütezeit ein attraktives Ziel. Es stellt ein wichtiges Ökosystem innerhalb der landwirtschaftlich geprägten Donauebene dar.",
+      hu: "A Troianu-erdő egy természetvédelmi terület Teleorman megyében, amely a pünkösdi rózsa védelméről ismert. A rezervátum ritka növényfajoknak ad otthont, és különösen tavasszal, a virágzás idején vonzó célpont. Fontos ökoszisztémát képvisel a mezőgazdasági jellegű Dunai-alföldön belül.",
+      ro: "Pădurea Troianu este o rezervație naturală de tip floristic situată în județul Teleorman, cunoscută pentru protejarea bujorului românesc. Rezervația adăpostește specii vegetale rare și este o destinație atractivă mai ales primăvara, în perioada de înflorire. Reprezintă un ecosistem valoros în Câmpia Dunării.",
+      en: "Troianu Forest is a floral nature reserve in Teleorman County, known for the protection of the Romanian peony. The reserve houses rare plant species and is an attractive destination especially in spring during the blooming season. It represents a valuable ecosystem within the agricultural Danube Plain.",
+    },
+    factsAdvanced: {
+      de: ["71 Hektar: Gesamtfläche des geschützten Waldreservats", "1975: Jahr der offiziellen Ausweisung als Naturschutzgebiet", "10 Kilometer: Entfernung von der Stadt Alexandria", "300 Arten: Ungefähre Anzahl der Pflanzenarten im Wald", "Mai: Monat, in dem die rumänische Pfingstrose normalerweise blüht", "2004: Jahr der aktualisierten nationalen Schutzgesetzgebung"],
+      hu: ["71 hektár: A védett erdőrezervátum teljes területe", "1975: Év, amikor a területet hivatalosan természetvédelmi területté nyilvánították", "10 kilométer: Távolság Alexandria városától", "300 faj: A növényfajok hozzávetőleges száma az erdőben", "Május: Hónap, amikor a román pünkösdi rózsa jellemzően virágzik", "2004: A területet védő aktualizált nemzeti jogszabályok éve"],
+      ro: ["71 hectare: Suprafața totală a rezervației forestiere protejate", "1975: Anul în care zona a fost declarată oficial rezervație naturală", "10 kilometri: Distanța față de orașul Alexandria", "300 specii: Numărul aproximativ de specii vegetale din pădure", "Mai: Luna în care bujorul românesc înflorește de obicei", "2004: Anul actualizării legislației naționale de protecție a sitului"],
+      en: ["71 hectares: Total area of the protected forest reserve", "1975: Year the area was officially declared a nature reserve", "10 kilometers: Distance from the city of Alexandria", "300 species: Approximate number of plant species in the forest", "May: Month when the Romanian peony typically blooms", "2004: Year of updated national legislation protecting the site"],
+    },
   },
 
   // TIMIȘ (RO-TM)
@@ -3869,7 +6664,20 @@ export const romaniaExtraPois: POI[] = [
     name: { de: "Orthodoxe Kathedrale", hu: "Ortodox Katedrális", ro: "Catedrala Mitropolitană", en: "Metropolitan Cathedral" },
     description: { de: "Orthodoxe Kathedrale in Timișoara.", hu: "Ortodox katedrális Temesváron.", ro: "Catedrală ortodoxă din Timișoara.", en: "Orthodox cathedral in Timișoara." },
     facts: { de: ["Die Kathedrale der Heiligen drei Hierarchen (rumänisch: Catedrala Ortodoxă oder Catedrala Mitropolitană) ist eine denkmalgeschützte rumänisch-Orthodoxe Kirche am Bulevardul Regele Ferdinand I Nr.", "Bezirk Cetate der westrumänischen Stadt Timișoara an der Piața Victoriei, und eines ihrer Wahrzeichen.", "Sie ist den Heiligen drei Hierarchen Basilius dem Großen, Gregor von Nazianz und Johannes Chrysostomos geweiht."], hu: ["A balázsfalvi Szentháromság-székesegyház műemlék Romániában, Fehér megyében.", "A romániai műemlékek jegyzékében az AB-II-m-A-00187 sorszámon szerepel."], ro: ["Catedrala Mitropolitană din Iași, cu hramul Sfânta Parascheva, Întâmpinarea Domnului și Sfântul Mucenic Gheorghe, este biserica catedrală a Mitropoliei Moldovei și Bucovinei, una dintre cele șase catedrale mitropolitane ortodoxe din România.", "Catedrala Mitropolitană a fost inclusă pe Lista monumentelor istorice, având codul de clasificare cod LMI IS-II-m-A-04069.01."], en: [] },
-    image: "/geo-images/romania/metropolitan-cathedral.webp"
+    image: "/geo-images/romania/metropolitan-cathedral.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Orthodoxe Kathedrale der Metropolie in Timișoara ist eines der markantesten Gebäude der Stadt am Siegesplatz. Erbaut zwischen 1936 und 1941, kombiniert sie byzantinische und moldauische Stilelemente. Ihre elf Türme sind mit farbenfrohen Mosaikziegeln bedeckt, was ihr ein unverwechselbares Aussehen verleiht.",
+      hu: "A temesvári ortodox székesegyház a város egyik legmeghatározóbb épülete a Győzelem téren. 1936 és 1941 között épült, ötvözve a bizánci és a moldvai stíluselemeket. Tizenegy tornyát színes mozaikcserepek borítják, ami egyedi megjelenést kölcsönöz az épületnek.",
+      ro: "Catedrala Mitropolitană din Timișoara este unul dintre cele mai emblematice edificii ale orașului, situată în Piața Victoriei. Construită între anii 1936 și 1941, aceasta îmbină stilul bizantin cu cel moldovenesc. Cele unsprezece turnuri sunt acoperite cu țiglă smălțuită colorată, oferind un aspect inconfundabil.",
+      en: "The Metropolitan Cathedral in Timișoara is one of the city's most iconic buildings, located in Victory Square. Built between 1936 and 1941, it combines Byzantine and Moldavian architectural styles. Its eleven towers are covered with colorful mosaic tiles, giving it a unique and recognizable appearance.",
+    },
+    factsAdvanced: {
+      de: ["1936-1941: Zeitraum des Baus der Kathedrale", "83 Meter: Gesamthöhe des Hauptturms", "11 Türme: Anzahl der verzierten Spitzen der Kathedrale", "5.000 Personen: Gesamtkapazität des Innenraums", "7 Glocken: Anzahl der Glocken aus einer Legierung seltener Metalle", "1946: Jahr der offiziellen Einweihung durch König Michael I."],
+      hu: ["1936-1941: A székesegyház építésének időszaka", "83 méter: A főtorony teljes magassága", "11 torony: A székesegyházat díszítő tornyok száma", "5000 fő: Az épület belső terének teljes befogadóképessége", "7 harang: A ritka fémek ötvözetéből öntött harangok száma", "1946: A hivatalos felavatás éve I. Mihály király jelenlétében"],
+      ro: ["1936-1941: Perioada construcției catedralei", "83 metri: Înălțimea totală a turnului principal", "11 turnuri: Numărul de turle care decorează catedrala", "5.000 persoane: Capacitatea totală a interiorului clădirii", "7 clopote: Numărul clopotelor turnate dintr-un aliaj de metale rare", "1946: Anul inaugurării oficiale în prezența Regelui Mihai I"],
+      en: ["1936-1941: Period of the cathedral's construction", "83 meters: Total height of the main tower", "11 towers: Number of spires decorating the cathedral", "5,000 people: Total capacity of the building's interior", "7 bells: Number of bells, cast from an alloy of rare metals", "1946: Year of the official inauguration in the presence of King Michael I"],
+    },
   },
 
   // VASLUI (RO-VS)
@@ -3878,14 +6686,40 @@ export const romaniaExtraPois: POI[] = [
     name: { de: "Fürstenhof Vaslui", hu: "Vászlói Fejedelmi Udvar", ro: "Curtea Domnească din Vaslui", en: "Princely Court of Vaslui" },
     description: { de: "Ehemalige Residenz der moldauischen Herrscher.", hu: "A moldvai uralkodók egykori rezidenciája.", ro: "Fosta reședință a domnitorilor moldoveni.", en: "Former residence of the Moldavian rulers." },
     facts: { de: [], hu: [], ro: ["Curtea Domnească din Vaslui, cunoscută și sub denumirea colectivă Curțile Domnești din Vaslui, este o curte domnească ridicată în Vaslui de domnul Moldovei Ștefan al II-lea, fiul lui Alexandru cel Bun.", "Conform unei alte teorii, curtea ar fi fost clădită chiar de Alexandru cel Bun.", "În urma Bătăliei de la Vaslui, câștigata de Ștefan cel Mare, acesta a ctitorit Biserica „Tăierea Capului Sfântului Ioan Botezătorul” în apropierea curții domnești."], en: ["Vaslui (Romanian pronunciation: [vasˈluj]), a city in eastern Romania, is the seat of Vaslui County, in the historical region of Western Moldavia.", "The city administers five villages: Bahnari, Brodoc, Moara Grecilor, Rediu, and Viișoara."] },
-    image: "/geo-images/romania/princely-court-of-vaslui.webp"
+    image: "/geo-images/romania/princely-court-of-vaslui.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Fürstenhof in Vaslui wurde im 15. Jahrhundert von Stefan dem Großen als Verwaltungszentrum errichtet. Die Anlage umfasst die Ruinen des Palastes und die Johannes-Kirche. Es diente als wichtige Residenz während der militärischen Kampagnen in der Region.",
+      hu: "A vaslui-i fejedelmi udvart III. István moldovai fejedelem építtette a 15. században. A komplexum magában foglalja a fejedelmi palota maradványait és a Keresztelő Szent János-templomot. Stratégiai és közigazgatási központként szolgált Moldva déli részén.",
+      ro: "Curtea Domnească din Vaslui a fost construită în secolul al XV-lea de Ștefan cel Mare ca centru administrativ regional. Ansamblul cuprinde ruinele palatului domnesc și Biserica Sfântul Ioan Botezătorul. A fost o reședință importantă în timpul campaniilor militare din zonă.",
+      en: "The Princely Court in Vaslui was built in the 15th century by Stephen the Great as a regional administrative center. The complex includes the ruins of the princely palace and the St. John the Baptist Church. It served as a key residence during military campaigns in the area.",
+    },
+    factsAdvanced: {
+      de: ["1490: Bau der Johannes-Kirche durch Stefan den Großen.", "1475: Die Schlacht bei Vaslui fand in der Nähe statt.", "15. Jahrhundert: Gründung des Fürstenhofs als Residenz.", "1913: Einstufung der Kirche als historisches Denkmal.", "2: Anzahl der Hauptgebäude der Anlage.", "18 Meter: Ungefähre Höhe des Kirchturms."],
+      hu: ["1490: III. István felépíttette a Keresztelő Szent János-templomot.", "1475: A közelben zajlott a hírhedt vaslui-i csata.", "15. század: Az udvar megalapítása fejedelmi lakhelyként.", "1913: A templomot történelmi műemlékké nyilvánították.", "2: Az együttes fő épületeinek száma.", "18 méter: A templomtorony megközelítő magassága."],
+      ro: ["1490: Construcția Bisericii Sfântul Ioan de către Ștefan cel Mare.", "1475: Bătălia de la Vaslui a avut loc în apropiere.", "Secolul XV: Fondarea Curții Domnești ca reședință.", "1913: Clasarea bisericii ca monument istoric.", "2: Numărul clădirilor principale ale ansamblului.", "18 metri: Înălțimea aproximativă a turnului bisericii."],
+      en: ["1490: Construction of the St. John Church by Stephen the Great.", "1475: The Battle of Vaslui took place in the vicinity.", "15th Century: Establishment of the Princely Court as a residence.", "1913: Classification of the church as a historical monument.", "2: Number of main buildings in the complex.", "18 Meters: Approximate height of the church tower."],
+    },
   },
   {
     id: "ro-poi-muzeul-stefan", type: "landmark", parent: "RO-VS", coords: [27.73, 46.636],
     name: { de: "Kreismuseum Stefan der Große", hu: "Nagy István Megyei Múzeum", ro: "Muzeul Județean Ștefan cel Mare", en: "Stephen the Great County Museum" },
     description: { de: "Museum für Geschichte und Archäologie.", hu: "Történelmi és régészeti múzeum.", ro: "Muzeu de istorie și arheologie.", en: "Museum of history and archeology." },
     facts: { de: ["Liste archäologischer Museen: Museen der Archäologie, einschließlich einiger bedeutender archäologischer Abteilungen und Sammlungen von allgemeineren Museen (natur-, kunst- und kulturhistorische Museen)."], hu: ["Temesvár (németül: Temeswar, románul: Timișoara [timiˈʃo̯ara], horvátul: Temišvar, a bánsági bolgárok nyelvén: Timišvár, szerbül: Темишвар) város Romániában, a Bánságban.", "Az egykori Temes vármegye és a mai Temes megye székhelye.", "250 849 lakosával Románia harmadik legnépesebb városa."], ro: ["Muzeul Național al Bucovinei (cunoscut simplu ca Muzeul Bucovinei, în trecut Societatea Muzeul, Muzeul orășenesc Suceava, Muzeul Regional al Bucovinei, Muzeul Regional Suceava, Muzeul Județean Suceava, Complexul Muzeal Bucovina) este principala instituție muzeală din județul Suceava.", "Aceasta funcționează într-o clădire construită între anii 1902–1903, în stilurile neoclasic și baroc, situată pe strada Ștefan cel Mare nr.", "33, în centrul municipiului Suceava."], en: ["The Great Plains Transportation Museum (\"GPTM\") is a railroad museum in Wichita, Kansas, United States.", "Adjacent to an active railroad, and across a street from the city's former train station, downtown, the museum has several locomotives and other railroad cars, vintage and modern, and indoor exhibits and a gift shop.", "Visitors are allowed to board some of the cars, including locomotives, and manipulate controls."] },
-    image: "/geo-images/romania/stephen-the-great-county-museum.webp"
+    image: "/geo-images/romania/stephen-the-great-county-museum.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Kreismuseum „Ștefan cel Mare” in Vaslui wurde 1974 gegründet und präsentiert die Geschichte der Region. Die Ausstellungen umfassen archäologische Funde von der Jungsteinzeit bis zum Mittelalter. Ein Schwerpunkt liegt auf der Herrschaft von Stefan dem Großen.",
+      hu: "A vaslui-i „Ștefan cel Mare” Megyei Múzeumot 1974-ben alapították a régió történelmének bemutatására. A kiállítások a neolitikumtól a középkorig terjedő régészeti leleteket tartalmaznak. Különös hangsúlyt fektetnek III. István fejedelem uralkodásának korszakára.",
+      ro: "Muzeul Județean „Ștefan cel Mare” din Vaslui a fost înființat în 1974 pentru a prezenta istoria și cultura regiunii. Expozițiile includ descoperiri arheologice din neolitic până în perioada medievală. O secțiune importantă este dedicată epocii lui Ștefan cel Mare.",
+      en: "The \"Stephen the Great\" County Museum in Vaslui was established in 1974 to showcase the region's history and culture. Exhibits include archaeological finds from the Neolithic period to the Middle Ages. A major section is dedicated to the reign of Stephen the Great.",
+    },
+    factsAdvanced: {
+      de: ["1974: Jahr der offiziellen Gründung des Museums.", "3: Anzahl der Hauptabteilungen im Haus.", "1475: Die Schlacht bei Vaslui ist ein zentrales Thema.", "50.000+: Anzahl der im Museum aufbewahrten Exponate.", "19. Jahrhundert: Fokus auf die lokale Kulturgeschichte.", "1: Es ist das wichtigste Museum im Kreis Vaslui."],
+      hu: ["1974: A múzeum hivatalos alapításának éve.", "3: A fő szakmai részlegek száma az intézményben.", "1475: A vaslui-i csata a kiállítások központi témája.", "50 000+: A múzeumban őrzött műtárgyak száma.", "19. század: Külön részleg foglalkozik a helyi kultúrtörténettel.", "1: Ez Vaslui megye legjelentősebb múzeuma."],
+      ro: ["1974: Anul înființării oficiale a muzeului.", "3: Numărul secțiilor principale din cadrul instituției.", "1475: Bătălia de la Vaslui este o temă centrală a expoziției.", "50.000+: Numărul exponatelor păstrate în muzeu.", "Secolul XIX: Accent pe istoria culturală locală.", "1: Este cel mai important muzeu din județul Vaslui."],
+      en: ["1974: Year of the museum's official foundation.", "3: Number of main departments within the institution.", "1475: The Battle of Vaslui is a central theme of the exhibits.", "50,000+: Number of exhibits preserved in the museum.", "19th Century: Focus on local cultural history.", "1: It is the most important museum in Vaslui County."],
+    },
   },
 
   // VÂLCEA (RO-VL)
@@ -3894,7 +6728,20 @@ export const romaniaExtraPois: POI[] = [
     name: { de: "Salzbergwerk Ocnele Mari", hu: "Ocnele Mari Sóbánya", ro: "Salina Ocnele Mari", en: "Ocnele Mari Salt Mine" },
     description: { de: "Großes touristisches Salzbergwerk.", hu: "Nagy turisztikai sóbánya.", ro: "Mare salină turistică.", en: "Large tourist salt mine." },
     facts: { de: [], hu: [], ro: ["Salina Ocnele Mari este o exploatare minieră a sării aflată în localitatea Ocnele Mari, Vâlcea, Oltenia, România.", "Este a doua cea mai mare salină și cea mai veche din România, ce aparține Societății Naționale a Sării „Salrom” S.A., având o suprafață de aproximativ 50.000 metri pătrați.", "Salina este situată la 7 km de Râmnicu Vâlcea, iar accesul se face exclusiv cu autobuze, pe un drum cu o lungime de aproximativ 2 km."], en: ["The Ocnele Mari mine is a large salt mine located in southern Romania in Vâlcea County, close to Ocnele Mari.", "Ocnele Mari represents one of the largest salt reserves in the country, having estimated reserves of 9 billion tonnes of sodium chloride."] },
-    image: "/geo-images/romania/ocnele-mari-salt-mine.webp"
+    image: "/geo-images/romania/ocnele-mari-salt-mine.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Salzbergwerk Ocnele Mari ist eines der ältesten in Rumänien und dient heute als Kurort. Die unterirdische Anlage erstreckt sich über eine Fläche von etwa 20.000 Quadratmetern. Die konstante Temperatur von 13 bis 15 Grad Celsius ist ideal für Atemwegsbehandlungen.",
+      hu: "Az Ocnele Mari sóbánya Románia egyik legrégebbi sóbányája, amely ma gyógyhelyként is funkcionál. A föld alatti létesítmény mintegy 20 000 négyzetméteres területen fekszik. A folyamatos 13-15 Celsius-fokos hőmérséklet ideális a légzőszervi panaszok kezelésére.",
+      ro: "Salina Ocnele Mari este una dintre cele mai vechi exploatări de sare din România, transformată în bază turistică și de tratament. Parcul subteran se întinde pe o suprafață de aproximativ 20.000 de metri pătrați. Temperatura constantă de 13-15 grade Celsius este optimă pentru tratarea afecțiunilor respiratorii.",
+      en: "Ocnele Mari Salt Mine is one of the oldest salt exploitations in Romania, now serving as a tourist and health resort. The underground facility covers an area of approximately 20,000 square meters. The constant temperature of 13-15 degrees Celsius is ideal for respiratory treatments.",
+    },
+    factsAdvanced: {
+      de: ["13-15 °C: Konstante Temperatur im Inneren des Bergwerks.", "20.000 m²: Gesamtfläche des unterirdischen Touristenparks.", "225 Meter: Tiefe der touristischen Ebene unter der Erde.", "1950er: Beginn des modernen Abbaus durch Laugung.", "3 Meter: Durchschnittliche Dicke der Salzschichten.", "2009: Eröffnung der modernisierten touristischen Zone."],
+      hu: ["13-15 °C: Állandó hőmérséklet a bánya belsejében.", "20 000 m²: A föld alatti látogatóközpont teljes területe.", "225 méter: A turisztikai szint mélysége a felszín alatt.", "1950-es évek: A modern, lúgosításos kitermelés kezdete.", "3 méter: A sórétegek átlagos vastagsága.", "2009: A modernizált turisztikai övezet megnyitása."],
+      ro: ["13-15 °C: Temperatura constantă în interiorul salinei.", "20.000 m²: Suprafața totală a parcului turistic subteran.", "225 metri: Adâncimea nivelului turistic sub suprafață.", "Anii 1950: Începutul exploatării moderne prin lixiviere.", "3 metri: Grosimea medie a straturilor de sare.", "2009: Deschiderea zonei turistice modernizate."],
+      en: ["13-15 °C: Constant temperature inside the salt mine.", "20,000 m²: Total area of the underground tourist park.", "225 Meters: Depth of the tourist level below the surface.", "1950s: Beginning of modern exploitation through leaching.", "3 Meters: Average thickness of the salt layers.", "2009: Opening of the modernized tourist zone."],
+    },
   },
 
   // VRANCEA (RO-VN)
@@ -3903,91 +6750,260 @@ export const romaniaExtraPois: POI[] = [
     name: { de: "Fokschan", hu: "Foksány", ro: "Focșani", en: "Focșani" },
     description: { de: "Kreishauptstadt in der historischen Region Moldau.", hu: "Megyeszékhely a történelmi Moldva régióban.", ro: "Oraș reședință în regiunea istorică Moldova.", en: "County capital in the historical region of Moldavia." },
     facts: { de: ["Focșani (, deutsch Fokschan, ungarisch Foksány) ist eine Stadt im Osten Rumäniens."], hu: [], ro: ["Focșani este municipiul de reședință al județului Vrancea, la limita între regiunile istorice Moldova și Muntenia, România, format din localitățile componente Focșani (reședința), Mândrești-Moldova și Mândrești-Munteni.", "Potrivit recensământului din 2021, are o populație de 66.648 locuitori.", "O așezare a existat în acest loc încă din secolul al XIII-lea, aici fiind localizată Civitas Milcoviae, reședința Episcopiei de Milcov, catolică."], en: ["Focșani (Romanian: [fokˈʃanʲ] ; Yiddish: פֿאָקשאַן, romanized: Fokshan) is the capital city of Vrancea County in Romania on the banks the river Milcov, in the historical region of Moldavia.", "As of 2022, it has a population of 66,719."] },
-    image: "/geo-images/romania/focsani.webp"
+    image: "/geo-images/romania/focsani.webp",
+  
+    descriptionAdvanced: {
+      de: "Focșani ist die Hauptstadt des Kreises Vrancea und bekannt als Stadt an der ehemaligen Grenze zwischen der Moldau und der Walachei. Die Stadt spielte eine zentrale Rolle bei der Vereinigung der rumänischen Fürstentümer im Jahr 1859. Sie ist ein bedeutendes Zentrum für die Weinproduktion in Rumänien.",
+      hu: "Focșani Vrancea megye székhelye, amely Moldva és Havasalföld egykori határvárosaként ismert. A város központi szerepet játszott a román fejedelemségek 1859-es egyesülésében. Napjainkban Románia egyik legfontosabb bortermelő központja és kereskedelmi csomópontja.",
+      ro: "Focșani este reședința județului Vrancea și este cunoscut drept orașul de pe fosta graniță dintre Moldova și Muntenia. Orașul a jucat un rol central în procesul de Unire a Principatelor Române din 1859. Este un centru important al viticulturii și al producției de vin din România.",
+      en: "Focșani is the capital of Vrancea County and is known as the city on the former border between Moldavia and Wallachia. The city played a central role in the Union of the Romanian Principalities in 1859. It is a major center for viticulture and wine production in Romania.",
+    },
+    factsAdvanced: {
+      de: ["1859: Jahr der Vereinigung der rumänischen Fürstentümer.", "1546: Erste urkundliche Erwähnung der Stadt.", "1862: Auflösung der Grenze zwischen Moldau und Walachei.", "75.000: Ungefähre Einwohnerzahl der Stadt heute.", "2: Die Stadt liegt am Fluss Milcov.", "1917: Wichtige Schlachten fanden in der Nähe statt."],
+      hu: ["1859: A román fejedelemségek egyesülésének éve.", "1546: A város első írásos említése egy dokumentumban.", "1862: Moldva és Havasalföld határának hivatalos megszűnése.", "75 000: A város jelenlegi becsült lakossága.", "2: A város a Milcov folyó partján fekszik.", "1917: Fontos harcok zajlottak a város közelében."],
+      ro: ["1859: Anul Unirii Principatelor Române.", "1546: Prima atestare documentară a orașului.", "1862: Desființarea hotarului dintre Moldova și Muntenia.", "75.000: Populația aproximativă a orașului în prezent.", "2: Orașul este situat pe râul Milcov.", "1917: Bătălii importante au avut loc în apropiere."],
+      en: ["1859: Year of the Union of the Romanian Principalities.", "1546: First documentary mention of the city.", "1862: Dissolution of the border between Moldavia and Wallachia.", "75,000: Approximate population of the city today.", "2: The city is situated on the Milcov River.", "1917: Important battles took place in the vicinity."],
+    },
   },
   {
     id: "ro-poi-mausoleul-marasesti", type: "historical", parent: "RO-VN", coords: [27.2333, 45.8833],
     name: { de: "Mausoleum Mărășești", hu: "Mărășești-i mauzóleum", ro: "Mausoleul de la Mărășești", en: "Mărășești Mausoleum" },
     description: { de: "Denkmal für die Gefallenen des Ersten Weltkriegs.", hu: "Az első világháború hőseinek emlékműve.", ro: "Monument dedicat eroilor din Primul Război Mondial.", en: "Monument dedicated to the heroes of World War I." },
     facts: { de: ["Die Liste von Kriegsgräberstätten in Rumänien führt Soldatenfriedhöfe und sonstige Kriegsgräberstätten in Rumänien auf."], hu: ["Károly király park (románul: Parcul Carol I) egy közpark Bukarest déli részén, a 4.", "kerületben, az úgynevezett Filaret-negyedben.", "1906-ban hozták létre egy kiállítás helyszíneként; később közparkká alakították át."], ro: ["Mausoleul de la Mărășești este un monument istoric dedicat eroilor Primului Război Mondial.", "Mausoleul a fost ridicat pe locul în care, în vara anului 1917, s-au desfășurat luptele de la Mărășești, soldate cu victoria trupelor române.", "În confruntările de la Mărășești au pierit 480 de ofițeri și 21.000 de soldați români."], en: ["The Mausoleum of Mărășești is a memorial site in Romania containing remains of 5,073 Romanian soldiers and officers killed in the First World War and dedicated to the commemoration of the Battle of Mărășești and Romanian Army members who were killed during World War I.", "The memorial took architects George Cristinel and Constantin Pomponiu 15 years to build and was unveiled on 18 September 1938 by King Carol II.", "The frieze in bas-relief surrounding the base of the dome was sculpted by Cornel Medrea and Ion Jalea."] },
-    image: "/geo-images/romania/marasesti-mausoleum.webp"
+    image: "/geo-images/romania/marasesti-mausoleum.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Mausoleum von Mărășești ist ein Denkmal für die gefallenen Soldaten des Ersten Weltkriegs. Es wurde zwischen 1923 und 1938 errichtet, um die Überreste von über 5.000 rumänischen Soldaten aufzunehmen. Die Architektur ist von byzantinischen Elementen inspiriert und symbolisiert nationalen Heldenmut.",
+      hu: "A mărășești-i mauzóleum az első világháborúban elesett katonák emlékére épült monumentális emlékmű. 1923 és 1938 között építették több mint 5000 román katona földi maradványainak elhelyezésére. Az építmény bizánci elemeket ötvöz és a nemzeti hősiesség jelképe.",
+      ro: "Mausoleul de la Mărășești este un monument dedicat eroilor căzuți în Primul Război Mondial. A fost construit între anii 1923 și 1938 pentru a adăposti osemintele a peste 5.000 de soldați români. Arhitectura este inspirată de elemente bizantine și simbolizează eroismul național.",
+      en: "The Mărășești Mausoleum is a monumental memorial dedicated to the fallen soldiers of World War I. Built between 1923 and 1938, it houses the remains of over 5,000 Romanian soldiers. The architecture incorporates Byzantine elements and symbolizes national heroism.",
+    },
+    factsAdvanced: {
+      de: ["1923: Beginn der Bauarbeiten am Denkmal.", "1938: Offizielle Einweihung des Mausoleums.", "5.073: Anzahl der im Mausoleum beigesetzten Soldaten.", "154: Anzahl der Einzelkrypten innerhalb der Anlage.", "30 Meter: Ungefähre Höhe des Hauptmonuments.", "1917: Jahr der entscheidenden Schlacht bei Mărășești."],
+      hu: ["1923: Az emlékmű építési munkálatainak kezdete.", "1938: A mauzóleum hivatalos felszentelése.", "5073: A mauzóleumban eltemetett katonák száma.", "154: Az épületegyüttesen belüli egyéni kripták száma.", "30 méter: A központi emlékmű magassága.", "1917: A döntő mărășești-i csata éve."],
+      ro: ["1923: Începutul lucrărilor de construcție la monument.", "1938: Inaugurarea oficială a mausoleului.", "5.073: Numărul soldaților înhumați în mausoleu.", "154: Numărul criptelor individuale din interior.", "30 metri: Înălțimea aproximativă a monumentului principal.", "1917: Anul bătăliei decisive de la Mărășești."],
+      en: ["1923: Start of the construction work on the monument.", "1938: Official inauguration of the mausoleum.", "5,073: Number of soldiers buried in the mausoleum.", "154: Number of individual crypts within the complex.", "30 Meters: Approximate height of the main monument.", "1917: Year of the decisive Battle of Mărășești."],
+    },
   },
   {
     id: "ro-poi-rezervatia-putna", type: "landmark", parent: "RO-VN", coords: [26.5667, 45.9167],
     name: { de: "Naturpark Putna-Vrancea", hu: "Putna-Vrancea Natúrpark", ro: "Parcul Natural Putna-Vrancea", en: "Putna-Vrancea Natural Park" },
     description: { de: "Schutzgebiet mit Wasserfällen und Wäldern.", hu: "Védett terület vízesésekkel és erdőkkel.", ro: "Arie protejată cu cascade și păduri.", en: "Protected area with waterfalls and forests." },
     facts: { de: ["i3i6 Der Naturpark Putna-Vrancea (rumänisch Parcul Natural Putna) ist ein nach den IUCN-Richtlinien erklärtes Naturschutzgebiet in Rumänien und gehört zur IUCN-Kategorie V."], hu: ["A Putna–Vrancea Natúrpark (románul Parcul Natural Putna–Vrancea) IUCN V-ös besorolású védett terület Romániában Vrancea megye észak-nyugati részén, a Háromszéki-havasok vidékén."], ro: ["Parcul Natural Putna-Vrancea este o arie protejată de interes național, ce corespunde categoriei a V-a IUCN (parc natural), situată în sud-vestul Moldovei, pe teritoriul județului Vrancea."], en: ["The Putna-Vrancea Natural Park (Romanian: Parcul Natural Putna-Vrancea) is a protected area (natural park category V IUCN) situate in Romania, in administrative territory of Vrancea County."] },
-    image: "/geo-images/romania/putna-vrancea-natural-park.webp"
+    image: "/geo-images/romania/putna-vrancea-natural-park.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Naturpark Putna-Vrancea schützt eine vielfältige Gebirgslandschaft in den Ostkarpaten. Das Gebiet umfasst tiefe Schluchten, Wasserfälle und ausgedehnte Buchen- sowie Nadelwälder. Es ist ein wichtiger Lebensraum für Braunbären, Wölfe und Luchse in einer unberührten Umgebung.",
+      hu: "A Putna-Vrancea Természeti Park a Keleti-Kárpátok változatos hegyi tájait oltalmazza. A terület mély szurdokokat, vízeséseket, valamint kiterjedt bükk- és fenyőerdőket foglal magában. Fontos élőhelyet biztosít a barnamedvék, farkasok és hiúzok számára érintetlen környezetben.",
+      ro: "Parcul Natural Putna-Vrancea protejează un peisaj montan divers în Carpații Orientali. Aria cuprinde chei adânci, cascade și păduri întinse de fag și rășinoase. Este un habitat esențial pentru carnivore mari precum ursul brun, lupul și râsul, într-un mediu sălbatic.",
+      en: "The Putna-Vrancea Natural Park protects a diverse mountain landscape in the Eastern Carpathians. The area features deep gorges, waterfalls, and extensive beech and coniferous forests. It provides an essential habitat for large carnivores like brown bears, wolves, and lynxes.",
+    },
+    factsAdvanced: {
+      de: ["38.204 ha: Gesamtfläche des Naturparks Putna-Vrancea.", "2004: Jahr der Einrichtung des Schutzgebiets.", "1.783 m: Höhe des Gipfels Goru, der höchste Punkt.", "300+: Anzahl der im Park identifizierten Pflanzenarten.", "12 km: Länge der Putna-Schlucht innerhalb des Reservats.", "1.100 m: Durchschnittliche Höhe des Bergmassivs."],
+      hu: ["38 204 ha: A Putna-Vrancea Természeti Park teljes területe.", "2004: A védett terület létrehozásának éve.", "1783 m: A Goru-csúcs magassága, a park legmagasabb pontja.", "300+: A parkban azonosított növényfajok száma.", "12 km: A Putna-szurdok hossza a rezervátumon belül.", "1100 m: A hegyvidéki terület átlagos magassága."],
+      ro: ["38.204 ha: Suprafața totală a Parcului Natural Putna-Vrancea.", "2004: Anul înființării ariei protejate.", "1.783 m: Înălțimea vârfului Goru, cel mai înalt punct.", "300+: Numărul speciilor de plante identificate în parc.", "12 km: Lungimea Cheilor Putnei în cadrul rezervației.", "1.100 m: Altitudinea medie a masivului montan."],
+      en: ["38,204 ha: Total area of the Putna-Vrancea Natural Park.", "2004: Year the protected area was established.", "1,783 m: Altitude of Goru Peak, the highest point.", "300+: Number of plant species identified in the park.", "12 km: Length of the Putna Gorges within the reserve.", "1,100 m: Average altitude of the mountain massif."],
+    },
   },
   {
     id: "ro-poi-oradea-unirii", type: "landmark", parent: "RO-BH", coords: [21.9289, 47.0553],
     name: { de: "Vereinigungsplatz Oradea", hu: "Szent László tér", ro: "Piața Unirii Oradea", en: "Unirii Square Oradea" },
     description: { de: "Zentraler Platz von Oradea mit beeindruckender Architektur.", hu: "Nagyvárad központi tere lenyűgöző építészettel.", ro: "Piața centrală din Oradea cu arhitectură impresionantă.", en: "Central square of Oradea with impressive architecture." },
     facts: { de: ["Umgeben von Jugendstil-Palästen.", "Beherbergt die Mondkirche.", "Kürzlich renoviertes Fußgängerzentrum."], hu: ["Szecessziós paloták veszik körül.", "Itt található a Holdas templom.", "Nemrég felújított sétálóövezet."], ro: ["Înconjurată de palate Art Nouveau.", "Găzduiește Biserica cu Lună.", "Centru pietonal recent renovat."], en: ["Surrounded by Art Nouveau palaces.", "Houses the Moon Church.", "Recently renovated pedestrian center."] },
-    image: "/geo-images/romania/oradea-unirii.webp"
+    image: "/geo-images/romania/oradea-unirii.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Unirii-Platz ist das historische Herz von Oradea und besticht durch seine Architektur im Secessionsstil. Zu den markantesten Gebäuden gehören der Schwarze Adler-Palast und die Mondkirche. Der Platz wurde in den letzten Jahren umfassend restauriert und ist ein Zentrum des öffentlichen Lebens.",
+      hu: "Az Unirii tér Nagyvárad történelmi szíve, amely kiemelkedő szecessziós építészeti örökséggel rendelkezik. A legfontosabb épületek közé tartozik a Fekete Sas palota és a Holdas-templom. A teret az elmúlt években teljesen felújították, így a városi élet pezsgő központjává vált.",
+      ro: "Piața Unirii reprezintă centrul istoric al orașului Oradea, fiind remarcabilă prin arhitectura sa în stil Secession. Printre clădirile emblematice se numără Palatul Vulturul Negru și Biserica cu Lună. Piața a fost restaurată integral în ultimii ani, devenind principalul pol de atracție.",
+      en: "Unirii Square is the historical heart of Oradea, renowned for its outstanding Secession-style architecture. Key landmarks include the Black Eagle Palace and the Moon Church. The square has been fully restored in recent years, serving as the city's main social hub.",
+    },
+    factsAdvanced: {
+      de: ["1907-1909: Bauzeit des Palastes „Schwarzer Adler“.", "1784: Baujahr der berühmten Mondkirche am Platz.", "2015: Abschluss der umfassenden Renovierung des Platzes.", "12.000 m²: Ungefähre Fläche des Fußgängerbereichs.", "1918: Ort bedeutender politischer Versammlungen.", "4: Anzahl der Hauptstraßen, die in den Platz münden."],
+      hu: ["1907-1909: A Fekete Sas palota építésének ideje.", "1784: A téren álló híres Holdas-templom építési éve.", "2015: A tér teljes körű felújításának befejezése.", "12 000 m²: A gyalogos övezet hozzávetőleges területe.", "1918: Fontos politikai gyűlések helyszíne.", "4: A térre torkolló főútvonalak száma."],
+      ro: ["1907-1909: Perioada de construcție a Palatului Vulturul Negru.", "1784: Anul construcției celebrei Biserici cu Lună din piață.", "2015: Finalizarea renovării integrale a pieței.", "12.000 m²: Suprafața aproximativă a zonei pietonale.", "1918: Locul unor adunări politice importante.", "4: Numărul străzilor principale care debușează în piață."],
+      en: ["1907-1909: Construction period of the Black Eagle Palace.", "1784: Year the famous Moon Church was built on the square.", "2015: Completion of the full renovation of the square.", "12,000 m²: Approximate area of the pedestrian zone.", "1918: Site of significant political assemblies.", "4: Number of main streets that lead into the square."],
+    },
   },
   {
     id: "ro-poi-timisoara-unirii", type: "landmark", parent: "RO-TM", coords: [21.2286, 45.7578],
     name: { de: "Vereinigungsplatz Temeswar", hu: "Dóm tér", ro: "Piața Unirii Timișoara", en: "Unirii Square Timișoara" },
     description: { de: "Der älteste Platz in Timișoara im Barockstil.", hu: "Temesvár legrégebbi, barokk stílusú tere.", ro: "Cea mai veche piață din Timișoara, în stil baroc.", en: "The oldest square in Timișoara, in Baroque style." },
     facts: { de: ["Standort des katholischen Doms.", "Umgeben von farbenfrohen Barockgebäuden.", "Zentrum des kulturellen Lebens."], hu: ["A római katolikus dóm helyszíne.", "Színes barokk épületek veszik körül.", "A kulturális élet központja."], ro: ["Locul Domului Romano-Catolic.", "Înconjurată de clădiri baroce colorate.", "Centrul vieții culturale."], en: ["Site of the Roman Catholic Dome.", "Surrounded by colorful Baroque buildings.", "Center of cultural life."] },
-    image: "/geo-images/romania/timisoara-unirii.webp"
+    image: "/geo-images/romania/timisoara-unirii.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Unirii-Platz in Timișoara ist der älteste Platz der Stadt und wird von barocken Bauwerken gesäumt. Hier befinden sich der römisch-katholische Dom und der serbisch-orthodoxe Dom gegenüber. Der Platz spiegelt die multikulturelle und konfessionelle Vielfalt der Region Banat wider.",
+      hu: "A temesvári Unirii tér a város legrégebbi tere, amelyet barokk stílusú épületek vesznek körül. Itt található a római katolikus székesegyház és a szerb ortodox székesegyház egymással szemben. A tér hűen tükrözi a Bánság régió multikulturális és vallási sokszínűségét.",
+      ro: "Piața Unirii din Timișoara este cea mai veche piață a orașului, fiind înconjurată de edificii baroce impresionante. Aici se află Domul Romano-Catolic și Catedrala Ortodoxă Sârbă, dispuse simetric. Piața reflectă diversitatea multiculturală și confesională a regiunii Banat.",
+      en: "Unirii Square in Timișoara is the city's oldest square, lined with impressive Baroque buildings. It hosts both the Roman Catholic Dome and the Serbian Orthodox Cathedral facing each other. The square reflects the multicultural and religious diversity of the Banat region.",
+    },
+    factsAdvanced: {
+      de: ["1736-1774: Bauzeit des römisch-katholischen Doms.", "1748: Errichtung der Dreifaltigkeitssäule am Platz.", "1745-1748: Bauzeit der serbisch-orthodoxen Kathedrale.", "119: Nummer des Hauses Brück, ein markantes Gebäude.", "150 Meter: Ungefähre Länge der Platzseiten.", "18. Jahrhundert: Die heutige barocke Gestaltung entstand."],
+      hu: ["1736-1774: A római katolikus székesegyház építési ideje.", "1748: A Szentháromság-szobor felállítása a téren.", "1745-1748: A szerb ortodox székesegyház építési ideje.", "119: A látványos Brück-ház házszáma.", "150 méter: A tér oldalainak hozzávetőleges hossza.", "18. század: Kialakult a tér mai barokk arculata."],
+      ro: ["1736-1774: Perioada de construcție a Domului Romano-Catolic.", "1748: Ridicarea Statuii Sfintei Treimi în piață.", "1745-1748: Perioada de construcție a Catedralei Ortodoxe Sârbe.", "119: Numărul Casei Brück, un edificiu emblematic.", "150 metri: Lungimea aproximativă a laturilor pieței.", "Secolul XVIII: S-a format actualul aspect baroc al pieței."],
+      en: ["1736-1774: Construction period of the Roman Catholic Dome.", "1748: Erection of the Holy Trinity Statue in the square.", "1745-1748: Construction period of the Serbian Orthodox Cathedral.", "119: Number of the Brück House, an iconic building.", "150 Meters: Approximate length of the square's sides.", "18th Century: The current Baroque layout was established."],
+    },
   },
   {
     id: "ro-poi-constanta-casino", type: "landmark", parent: "RO-CT", coords: [28.6633, 44.1706],
     name: { de: "Casino von Konstanza", hu: "Konstancai Kaszinó", ro: "Cazinoul din Constanța", en: "Constanța Casino" },
     description: { de: "Ein ikonisches Jugendstilgebäude am Ufer des Schwarzen Meeres.", hu: "Ikonikus szecessziós épület a Fekete-tenger partján.", ro: "O clădire iconică Art Nouveau pe malul Mării Negre.", en: "An iconic Art Nouveau building on the Black Sea shore." },
     facts: { de: ["Erbaut im Jahr 1910.", "Wahrzeichen der Stadt Constanța.", "Derzeit umfassend restauriert."], hu: ["1910-ben épült.", "Konstanca városának jelképe.", "Jelenleg teljes körű felújítás alatt áll."], ro: ["Construit în 1910.", "Simbolul orașului Constanța.", "În prezent în curs de restaurare completă."], en: ["Built in 1910.", "Landmark of Constanța city.", "Currently undergoing full restoration."] },
-    image: "/geo-images/romania/constanta-casino.webp"
+    image: "/geo-images/romania/constanta-casino.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Casino von Constanța ist ein Wahrzeichen des Jugendstils an der Schwarzmeerküste. Es wurde 1910 eingeweiht und diente über Jahrzehnte als gesellschaftlicher Treffpunkt der Elite. Nach einer langen Zeit des Verfalls wird das Gebäude derzeit umfassend restauriert, um seinen alten Glanz wiederzuerlangen.",
+      hu: "A konstancai kaszinó a szecessziós építészet egyik legfontosabb emléke a Fekete-tenger partján. 1910-ben avatták fel, és évtizedeken át az elit társasági életének központja volt. A hosszú ideig tartó elhanyagoltság után az épület jelenleg teljes körű restaurálás alatt áll.",
+      ro: "Cazinoul din Constanța este un simbol al arhitecturii Art Nouveau, situat pe faleza Mării Negre. Inaugurat în 1910, edificiul a servit decenii la rând ca loc de întâlnire pentru elita socială. După o perioadă lungă de degradare, clădirea este în prezent în curs de restaurare capitală.",
+      en: "The Constanța Casino is a landmark of Art Nouveau architecture, situated on the Black Sea promenade. Inaugurated in 1910, the building served for decades as a premier social venue for the elite. Following a long period of decay, it is currently undergoing extensive restoration.",
+    },
+    factsAdvanced: {
+      de: ["1910: Offizielles Datum der Einweihung des Gebäudes.", "1986: Letzte größere Renovierung vor der aktuellen Phase.", "12 Meter: Höhe der großen Fensterfronten zum Meer.", "1941: Das Gebäude wurde während des Krieges beschädigt.", "1: Es gilt als wichtigstes Art-Nouveau-Gebäude Rumäniens.", "2020: Beginn der aktuellen umfassenden Restaurierung."],
+      hu: ["1910: Az épület hivatalos felavatásának dátuma.", "1986: Az utolsó jelentős felújítás a jelenlegi szakasz előtt.", "12 méter: A tengerre néző hatalmas ablakok magassága.", "1941: Az épület megsérült a háborús cselekmények során.", "1: Románia legfontosabb szecessziós épületének tartják.", "2020: A jelenlegi nagyszabású restaurálás kezdete."],
+      ro: ["1910: Data oficială a inaugurării clădirii.", "1986: Ultima renovare majoră înainte de etapa actuală.", "12 metri: Înălțimea ferestrelor mari orientate spre mare.", "1941: Clădirea a fost avariată în timpul războiului.", "1: Este considerată cea mai importantă clădire Art Nouveau.", "2020: Începutul actualei restaurări capitale."],
+      en: ["1910: Official date of the building's inauguration.", "1986: Last major renovation before the current phase.", "12 Meters: Height of the large windows facing the sea.", "1941: The building was damaged during the war.", "1: It is considered Romania's most important Art Nouveau building.", "2020: Start of the current extensive restoration."],
+    },
   },
   {
     id: "ro-poi-targu-mures-trandafirilor", type: "landmark", parent: "RO-MS", coords: [24.5614, 46.5456],
     name: { de: "Rosenplatz", hu: "Rózsák tere", ro: "Piața Trandafirilor", en: "Roses Square" },
     description: { de: "Das Herz von Târgu Mureș mit dem Kulturpalast.", hu: "Marosvásárhely szíve a Kultúrpalotával.", ro: "Inima orașului Târgu Mureș cu Palatul Culturii.", en: "The heart of Târgu Mureș with the Culture Palace." },
     facts: { de: ["Bekannt für seine Blumenbeete.", "Standort des Rathauses und des Kulturpalastes.", "Zentraler Treffpunkt der Stadt."], hu: ["Virágágyásairól ismert.", "Itt található a Városháza és a Kultúrpalota.", "A város központi találkozóhelye."], ro: ["Cunoscută pentru straturile de flori.", "Locul Primăriei și al Palatului Culturii.", "Locul central de întâlnire al orașului."], en: ["Known for its flower beds.", "Site of the City Hall and Culture Palace.", "Central meeting point of the city."] },
-    image: "/geo-images/romania/targu-mures-trandafirilor.webp"
+    image: "/geo-images/romania/targu-mures-trandafirilor.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Rosenplatz ist das zentrale Forum von Târgu Mureș und bekannt für seine prächtigen Blumenbeete. Der Platz wird von bedeutenden Gebäuden wie dem Kulturpalast und dem Rathaus im Secessionsstil begrenzt. Er ist ein beliebter Treffpunkt für Einheimische und Austragungsort kultureller Veranstaltungen.",
+      hu: "A Rózsák tere Marosvásárhely központi fóruma, amely híres gondozott virágágyásairól. A teret olyan jelentős szecessziós épületek övezik, mint a Kultúrpalota és a Városháza. Kedvelt találkozóhely a helyiek számára, és számos kulturális eseménynek ad otthont az év során.",
+      ro: "Piața Trandafirilor este forumul central al orașului Târgu Mureș, renumită pentru rondurile sale bogate de flori. Piața este mărginită de clădiri emblematice precum Palatul Culturii și Primăria, construite în stil Secession. Este locul preferat de promenadă și gazda multor evenimente culturale.",
+      en: "Roses Square is the central forum of Târgu Mureș, famous for its well-maintained flower beds. The square is bordered by iconic buildings such as the Culture Palace and the City Hall, designed in the Secession style. It is a popular meeting spot and hosts numerous cultural events.",
+    },
+    factsAdvanced: {
+      de: ["1911-1913: Bauzeit des imposanten Kulturpalastes.", "1907-1908: Baujahr des heutigen Rathauses.", "400 Meter: Ungefähre Länge des zentralen Boulevards.", "1918: Ort der Proklamation wichtiger politischer Akte.", "10.000+: Anzahl der im Sommer gepflanzten Rosen.", "1750: Ungefähre Gründung der alten Stadtstrukturen hier."],
+      hu: ["1911-1913: Az impozáns Kultúrpalota építési ideje.", "1907-1908: A mai Városháza építésének éve.", "400 méter: A központi sugárút hozzávetőleges hossza.", "1918: Fontos politikai nyilatkozatok kihirdetésének helyszíne.", "10 000+: A nyáron elültetett rózsák száma.", "1750: A régi városszerkezet kialakulásának kezdete."],
+      ro: ["1911-1913: Perioada de construcție a Palatului Culturii.", "1907-1908: Anul construcției sediului actual al Primăriei.", "400 metri: Lungimea aproximativă a bulevardului central.", "1918: Locul proclamării unor acte politice importante.", "10.000+: Numărul trandafirilor plantați în sezonul estival.", "1750: Perioada formării vechii structuri urbane aici."],
+      en: ["1911-1913: Construction period of the imposing Culture Palace.", "1907-1908: Year the current City Hall was built.", "400 Meters: Approximate length of the central boulevard.", "1918: Site of the proclamation of important political acts.", "10,000+: Number of roses planted during the summer season.", "1750: Approximate establishment of the old city structures here."],
+    },
   },
   {
     id: "ro-poi-pitesti-trivale", type: "landmark", parent: "RO-AG", coords: [24.8500, 44.8667],
     name: { de: "Trivale-Park", hu: "Trivale park", ro: "Parcul Trivale", en: "Trivale Park" },
     description: { de: "Ein großer Waldpark in Pitești.", hu: "Egy nagy erdei park Pitești-ben.", ro: "Un parc forestier mare în Pitești.", en: "A large forest park in Pitești." },
     facts: { de: ["Beliebtes Erholungsgebiet.", "Beherbergt das Kloster Trivale.", "Bietet zahlreiche Wanderwege."], hu: ["Népszerű pihenőhely.", "Itt található a Trivale-kolostor.", "Számos túraútvonalat kínál."], ro: ["Zonă populară de recreere.", "Găzduiește Mănăstirea Trivale.", "Oferă numeroase trasee de drumeție."], en: ["Popular recreation area.", "Houses the Trivale Monastery.", "Offers numerous hiking trails."] },
-    image: "/geo-images/romania/pitesti-trivale.webp"
+    image: "/geo-images/romania/pitesti-trivale.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Trivale-Park ist die größte Grünanlage in Pitești und liegt in einem ausgedehnten Waldgebiet. Er bietet zahlreiche Spazierwege, einen Zoo und historische Denkmäler wie die Trivale-Einsiedelei. Der Park ist ein wichtiges Naherholungsgebiet und bekannt für seine reiche Flora und Fauna.",
+      hu: "A Trivale park Pitești legnagyobb zöldövezete, amely egy kiterjedt erdős területen fekszik. Számos sétányt, egy állatkertet és olyan történelmi műemlékeket kínál, mint a Trivale-remeteség. A park fontos pihenőhely a lakosság számára, és gazdag növény- valamint állatvilágáról ismert.",
+      ro: "Parcul Trivale este cea mai mare zonă verde din Pitești, fiind situat într-o arie forestieră extinsă. Acesta oferă numeroase alei de promenadă, o grădină zoologică și monumente istorice precum Schitul Trivale. Parcul reprezintă un plămân verde vital pentru oraș și un loc de recreere popular.",
+      en: "Trivale Park is the largest green area in Pitești, set within an extensive forested zone. It features numerous walking paths, a zoo, and historical monuments like the Trivale Hermitage. The park serves as a vital green lung for the city and is a popular recreational destination.",
+    },
+    factsAdvanced: {
+      de: ["7.000 ha: Gesamtfläche des Trivale-Waldes.", "1674: Baujahr der historischen Trivale-Einsiedelei.", "1950: Einrichtung der ersten strukturierten Parkbereiche.", "1: Es ist das größte Naherholungsgebiet in Pitești.", "10 km+: Gesamtlänge der Wander- und Radwege im Park.", "1970er: Eröffnung des Zoos innerhalb des Parkgeländes."],
+      hu: ["7000 ha: A Trivale-erdő teljes kiterjedése.", "1674: A történelmi Trivale-remeteség építési éve.", "1950: Az első strukturált parkrészek kialakítása.", "1: Ez Pitești legnagyobb rekreációs övezete.", "10 km+: A parkon belüli túra- és kerékpárutak hossza.", "1970-es évek: Az állatkert megnyitása a park területén."],
+      ro: ["7.000 ha: Suprafața totală a pădurii Trivale.", "1674: Anul construcției schitului istoric Trivale.", "1950: Amenajarea primelor zone structurate de parc.", "1: Este cea mai mare zonă de recreere din Pitești.", "10 km+: Lungimea totală a aleilor și potecilor din parc.", "Anii 1970: Deschiderea grădinii zoologice în cadrul parcului."],
+      en: ["7,000 ha: Total area of the Trivale forest.", "1674: Year the historical Trivale Hermitage was built.", "1950: Establishment of the first structured park areas.", "1: It is the largest recreational area in Pitești.", "10 km+: Total length of walking and cycling paths in the park.", "1970s: Opening of the zoo within the park grounds."],
+    },
   },
   {
     id: "ro-poi-craiova-viteazul", type: "landmark", parent: "RO-DJ", coords: [23.7944, 44.3208],
     name: { de: "Mihai-Viteazul-Platz", hu: "Mihai Viteazul tér", ro: "Piața Mihai Viteazul Craiova", en: "Mihai Viteazul Square Craiova" },
     description: { de: "Zentraler Platz in Craiova mit musikalischer Fontäne.", hu: "Craiova központi tere zenélő szökőkúttal.", ro: "Piața centrală din Craiova cu fântână muzicală.", en: "Central square in Craiova with musical fountain." },
     facts: { de: ["Standort der Präfektur.", "Berühmt für die Weihnachts- und Ostermärkte.", "Verfügt über eine große Reiterstatue."], hu: ["A prefektúra helyszíne.", "Híres a karácsonyi és húsvéti vásárokról.", "Nagy lovasszoborral rendelkezik."], ro: ["Locul Prefecturii.", "Faimoasă pentru târgurile de Crăciun și Paște.", "Dispune de o statuie ecvestră mare."], en: ["Site of the Prefecture.", "Famous for Christmas and Easter markets.", "Features a large equestrian statue."] },
-    image: "/geo-images/romania/craiova-viteazul.webp"
+    image: "/geo-images/romania/craiova-viteazul.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Mihai-Viteazul-Platz ist das Zentrum von Craiova und wird von einer Statue des gleichnamigen Fürsten dominiert. Um den Platz befinden sich wichtige Institutionen wie das Rathaus und der Verwaltungspalast. Die Anlage ist bekannt für ihre musikalischen Springbrunnen und die festliche Beleuchtung im Winter.",
+      hu: "A Mihai Viteazul tér Craiova központja, melyet a névadó fejedelem lovas szobra ural. A tér körül olyan fontos intézmények találhatók, mint a Városháza és a Közigazgatási Palota. A terület híres zenélő szökőkútjairól és a téli időszakban látható látványos ünnepi kivilágításáról.",
+      ro: "Piața Mihai Viteazul este centrul civic al orașului Craiova, dominată de statuia ecvestră a domnitorului unificator. În jurul pieței se află instituții importante precum Primăria și Palatul Administrativ. Zona este celebră pentru fântânile arteziene muzicale și iluminatul festiv spectaculos.",
+      en: "Mihai Viteazul Square is the civic center of Craiova, dominated by the equestrian statue of the unifying prince. Important institutions like the City Hall and the Administrative Palace surround the square. The area is famous for its musical fountains and spectacular festive lighting.",
+    },
+    factsAdvanced: {
+      de: ["1906: Aufstellung der Reiterstatue von Mihai Viteazul.", "1912: Baujahr des Verwaltungspalastes (Präfektur).", "20.000 m²: Ungefähre Fläche des gepflasterten Platzes.", "2007: Installation der modernen musikalischen Brunnen.", "1890: Bauzeit des angrenzenden Rathauses im eklektischen Stil.", "1600: Jahr der Vereinigung unter Mihai Viteazul."],
+      hu: ["1906: Mihai Viteazul lovas szobrának felállítása.", "1912: A Közigazgatási Palota (Prefektúra) építési éve.", "20 000 m²: A tér kövezett részének hozzávetőleges területe.", "2007: A modern zenélő szökőkutak telepítése.", "1890: A szomszédos Városháza építési ideje.", "1600: A fejedelemségek első egyesítése Mihai Viteazul alatt."],
+      ro: ["1906: Amplasarea statuii ecvestre a lui Mihai Viteazul.", "1912: Anul construcției Palatului Administrativ (Prefectura).", "20.000 m²: Suprafața aproximativă a pieței pavate.", "2007: Instalarea fântânilor arteziene muzicale moderne.", "1890: Perioada de construcție a Primăriei adiacente.", "1600: Anul primei uniri sub Mihai Viteazul."],
+      en: ["1906: Erection of the equestrian statue of Mihai Viteazul.", "1912: Year the Administrative Palace (Prefecture) was built.", "20,000 m²: Approximate area of the paved square.", "2007: Installation of the modern musical fountains.", "1890: Construction period of the adjacent City Hall.", "1600: Year of the first union under Mihai Viteazul."],
+    },
   },
   {
     id: "ro-poi-galati-gradina-botanica", type: "landmark", parent: "RO-GL", coords: [28.0189, 45.4158],
     name: { de: "Botanischer Garten Galați", hu: "Galaci Botanikus Kert", ro: "Grădina Botanică Galați", en: "Galați Botanical Garden" },
     description: { de: "Teil des Museumskomplexes der Naturwissenschaften.", hu: "A Természettudományi Múzeumkomplexum része.", ro: "Parte a Complexului Muzeal de Științele Naturii.", en: "Part of the Natural Sciences Museum Complex." },
     facts: { de: ["Große Sammlung exoticcher Pflanzen.", "Beherbergt ein Planetarium.", "Bietet Blick auf die Donau."], hu: ["Egzotikus növények nagy gyűjteménye.", "Planetáriumnak ad otthont.", "Kilátást nyújt a Dunára."], ro: ["Colecție mare de plante exotice.", "Găzduiește un planetariu.", "Oferă vedere spre Dunăre."], en: ["Large collection of exotic plants.", "Houses a planetarium.", "Offers views of the Danube."] },
-    image: "/geo-images/romania/galati-botanical.webp"
+    image: "/geo-images/romania/galati-botanical.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Botanische Garten in Galați ist Teil des Naturwissenschaftlichen Museumskomplexes an der Donau. Er beherbergt eine beeindruckende Sammlung von Pflanzen aus verschiedenen Klimazonen, darunter ein großes Rosarium. Die Anlage dient sowohl der wissenschaftlichen Forschung als auch der Erholung der Bevölkerung.",
+      hu: "A galaci botanikai kert a Duna-parti Természettudományi Múzeumkomplexum része. Különböző éghajlati övezetekből származó növények lenyűgöző gyűjteményének ad otthont, beleértve egy kiterjedt rózsakertet is. A létesítmény tudományos kutatásra és a lakosság kikapcsolódására egyaránt szolgál.",
+      ro: "Grădina Botanică din Galați face parte din Complexul Muzeal de Științele Naturii, situat pe malul Dunării. Adăpostește o colecție impresionantă de plante din diverse zone climatice, inclusiv un rozariu vast. Grădina este un spațiu dedicat cercetării științifice, dar și relaxării publicului vizitator.",
+      en: "The Galați Botanical Garden is part of the Natural Sciences Museum Complex located on the banks of the Danube. It houses an impressive collection of plants from various climatic zones, including a vast rosary. The garden is dedicated to both scientific research and public recreation.",
+    },
+    factsAdvanced: {
+      de: ["1990: Jahr der offiziellen Eröffnung für das Publikum.", "18 ha: Gesamtfläche des botanischen Gartens.", "2.500+: Anzahl der kultivierten Pflanzenarten.", "3.000 m²: Fläche des Rosariums mit Hunderten Rosensorten.", "1996: Beitritt zur Vereinigung Internationaler Botanischer Gärten.", "25 Meter: Höhe der höchsten Palmen im Gewächshaus."],
+      hu: ["1990: A kert hivatalos megnyitásának éve a közönség előtt.", "18 ha: A botanikai kert teljes területe.", "2500+: A kertben gondozott növényfajok száma.", "3000 m²: A több száz rózsafajtát bemutató rozárium területe.", "1996: Csatlakozás a Botanikus Kertek Nemzetközi Szövetségéhez.", "25 méter: Az üvegház legmagasabb pálmafáinak magassága."],
+      ro: ["1990: Anul deschiderii oficiale pentru public.", "18 ha: Suprafața totală a grădinii botanice.", "2.500+: Numărul speciilor de plante cultivate.", "3.000 m²: Suprafața rozariului cu sute de soiuri de trandafiri.", "1996: Aderarea la asociația internațională a grădinilor botanice.", "25 metri: Înălțimea celor mai înalți palmieri din sere."],
+      en: ["1990: Year of the official opening to the public.", "18 ha: Total area of the botanical garden.", "2,500+: Number of cultivated plant species.", "3,000 m²: Area of the rosary with hundreds of rose varieties.", "1996: Joined the international association of botanical gardens.", "25 Meters: Height of the tallest palms in the greenhouse."],
+    },
   },
   {
     id: "ro-poi-parang", type: "mountain", parent: "RO-GJ", coords: [23.5333, 45.3500],
     name: { de: "Parâng-Gebirge", hu: "Páring-hegység", ro: "Munții Parâng", en: "Parâng Mountains" },
     description: { de: "Eines der höchsten Gebirgsmassive Rumäniens.", hu: "Románia egyik legmagasabb hegysége.", ro: "Unul dintre cele mai înalte masive muntoase din România.", en: "One of the highest mountain massifs in Romania." },
     facts: { de: ["Höchster Gipfel: Parângul Mare (2519 m).", "Bekannt für Gletscherseen.", "Beliebtes Skigebiet."], hu: ["Legmagasabb csúcs: Nagy-Páring (2519 m).", "Gleccsertavairól ismert.", "Népszerű síterület."], ro: ["Cel mai înalt vârf: Parângul Mare (2519 m).", "Cunoscut pentru lacurile glaciare.", "Zonă populară de schi."], en: ["Highest peak: Parângul Mare (2519 m).", "Known for glacial lakes.", "Popular skiing area."] },
-    image: "/geo-images/romania/parang.webp"
+    image: "/geo-images/romania/parang.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Parâng-Gebirge gehört zu den Südkarpaten und ist bekannt für seine schroffen Gipfel und Gletscherseen. Der höchste Gipfel ist der Parângul Mare mit 2.519 Metern Höhe. Das Gebirge bietet zahlreiche Möglichkeiten zum Wandern und ist im Winter ein beliebtes Ziel für Skifahrer in der Region.",
+      hu: "A Páring-hegység a Déli-Kárpátok része, és meredek csúcsairól, valamint gleccsertavairól ismert. Legmagasabb pontja a Nagy-Páring-csúcs, amely 2519 méter magas. A hegység számos túrázási lehetőséget kínál, télen pedig a régió síelőinek kedvelt célpontja.",
+      ro: "Munții Parâng fac parte din Carpații Meridionali, fiind cunoscuți pentru crestele lor abrupte și lacurile glaciare. Cel mai înalt vârf este Parângul Mare, atingând altitudinea de 2.519 metri. Masivul oferă numeroase trasee de drumeție și este o destinație populară pentru sporturile de iarnă.",
+      en: "The Parâng Mountains are part of the Southern Carpathians, known for their rugged peaks and glacial lakes. The highest point is Parângul Mare, reaching an altitude of 2,519 meters. The massif offers numerous hiking trails and is a popular destination for winter sports in the region.",
+    },
+    factsAdvanced: {
+      de: ["2.519 m: Höhe des Parângul Mare, des höchsten Gipfels.", "22: Anzahl der Gletscherseen im gesamten Massiv.", "1.100 km²: Ungefähre Gesamtfläche des Gebirgszuges.", "2.000 m: Durchschnittliche Höhe der Hauptkamm-Gipfel.", "1930er: Erste touristische Markierungen der Wanderwege.", "3: Anzahl der Skigebiete im Gebiet von Parâng."],
+      hu: ["2519 m: A Nagy-Páring, a hegység legmagasabb csúcsa.", "22: A gleccsertavak száma a teljes masszívumban.", "1100 km²: A hegylánc hozzávetőleges teljes területe.", "2000 m: A főgerinc csúcsainak átlagos magassága.", "1930-as évek: A túraútvonalak első turisztikai jelzései.", "3: A Páring területén található síközpontok száma."],
+      ro: ["2.519 m: Înălțimea vârfului Parângul Mare, cel mai înalt.", "22: Numărul lacurilor glaciare din întregul masiv.", "1.100 km²: Suprafața totală aproximativă a lanțului montan.", "2.000 m: Altitudinea medie a vârfurilor de pe creasta principală.", "Anii 1930: Primele marcaje turistice ale traseelor.", "3: Numărul domeniilor schiabile din zona Parâng."],
+      en: ["2,519 m: Height of Parângul Mare, the highest peak.", "22: Number of glacial lakes in the entire massif.", "1,100 km²: Approximate total area of the mountain range.", "2,000 m: Average altitude of the main ridge peaks.", "1930s: First tourist markings of the hiking trails.", "3: Number of ski resorts in the Parâng area."],
+    },
   },
   {
     id: "ro-poi-danube-delta-biosphere", type: "landmark", parent: "RO-TL", coords: [29.1000, 45.1500],
     name: { de: "Biosphärenreservat Donaudelta", hu: "Duna-delta Bioszféra-rezervátum", ro: "Rezervația Biosferei Delta Dunării", en: "Danube Delta Biosphere Reserve" },
     description: { de: "UNESCO-Weltnaturerbe und wichtiges Ökosystem.", hu: "UNESCO világörökségi helyszín és fontos ökoszisztéma.", ro: "Sit UNESCO și ecosistem vital.", en: "UNESCO World Heritage site and vital ecosystem." },
     facts: { de: ["Größtes Schilfgebiet der Welt.", "Über 300 Vogelarten.", "Einzigartige schwimmende Inseln."], hu: ["A világ legnagyobb nádasa.", "Több mint 300 madárfaj.", "Egyedülálló úszó szigetek."], ro: ["Cea mai mare zonă de stufăriș din lume.", "Peste 300 de specii de păsări.", "Insule plutitoare unice."], en: ["Largest reed bed in the world.", "Over 300 bird species.", "Unique floating islands."] },
-    image: "/geo-images/romania/danube-delta-biosphere.webp"
+    image: "/geo-images/romania/danube-delta-biosphere.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Biosphärenreservat Donaudelta ist das zweitgrößte Delta Europas und ein UNESCO-Welterbe. Es besteht aus einem komplexen Netz von Wasserwegen, Seen und Schilfgebieten, die über 300 Vogelarten beherbergen. Das Reservat ist von entscheidender Bedeutung für den Schutz der biologischen Vielfalt weltweit.",
+      hu: "A Dunadelta Bioszféra-rezervátum Európa második legnagyobb deltája és az UNESCO Világörökség része. Vízutak, tavak és nádasok bonyolult hálózatából áll, amely több mint 300 madárfajnak ad otthont. A rezervátum alapvető fontosságú a globális biológiai sokféleség megőrzése szempontjából.",
+      ro: "Rezervația Biosferei Delta Dunării este a doua cea mai mare deltă din Europa și un sit al Patrimoniului Mondial UNESCO. Cuprinde o rețea complexă de canale, lacuri și zone de stufăriș, adăpostind peste 300 de specii de păsări. Rezervația este crucială pentru conservarea biodiversității la nivel global.",
+      en: "The Danube Delta Biosphere Reserve is the second largest delta in Europe and a UNESCO World Heritage site. It consists of a complex network of waterways, lakes, and reed beds, hosting over 300 species of birds. The reserve is crucial for global biodiversity conservation.",
+    },
+    factsAdvanced: {
+      de: ["5.800 km²: Gesamtfläche des Deltas in Rumänien.", "1991: Aufnahme in die Liste des UNESCO-Welterbes.", "300+: Anzahl der registrierten Vogelarten im Reservat.", "160: Anzahl der vorkommenden Fischarten in den Gewässern.", "45 Meter: Maximale Tiefe des Chilia-Arms der Donau.", "3.450 km: Gesamtlänge der Donau bis zur Mündung."],
+      hu: ["5800 km²: A delta teljes területe Romániában.", "1991: Felvétel az UNESCO Világörökségi listájára.", "300+: A rezervátumban regisztrált madárfajok száma.", "160: A vizekben előforduló halfajok száma.", "45 méter: A Duna Chilia-ágának maximális mélysége.", "3450 km: A Duna teljes hossza a torkolatig."],
+      ro: ["5.800 km²: Suprafața totală a deltei în România.", "1991: Includerea în lista Patrimoniului Mondial UNESCO.", "300+: Numărul speciilor de păsări înregistrate în rezervație.", "160: Numărul speciilor de pești prezente în apele deltei.", "45 metri: Adâncimea maximă a brațului Chilia al Dunării.", "3.450 km: Lungimea totală a Dunării până la vărsare."],
+      en: ["5,800 km²: Total area of the delta in Romania.", "1991: Inclusion in the UNESCO World Heritage list.", "300+: Number of registered bird species in the reserve.", "160: Number of fish species present in the waters.", "45 Meters: Maximum depth of the Chilia branch of the Danube.", "3,450 km: Total length of the Danube until its mouth."],
+    },
   },
   {
     id: "ro-poi-cozia-np", type: "landmark", parent: "RO-VL", coords: [24.3167, 45.3333],
     name: { de: "Nationalpark Cozia", hu: "Kozsia Nemzeti Park", ro: "Parcul Național Cozia", en: "Cozia National Park" },
     description: { de: "Schutzgebiet in den Südkarpaten.", hu: "Védett terület a Déli-Kárpátokban.", ro: "Arie protejată în Carpații Meridionali.", en: "Protected area in the Southern Carpathians." },
     facts: { de: ["Reiche Flora und Fauna.", "Spektakuläre Olt-Schlucht.", "Zahlreiche Wanderwege."], hu: ["Gazdag növény- és állatvilág.", "Látványos Olt-szurdok.", "Számos túraútvonal."], ro: ["Floră și faună bogată.", "Defileul Oltului spectaculos.", "Numeroase trasee de drumeție."], en: ["Rich flora and fauna.", "Spectacular Olt gorge.", "Numerous hiking trails."] },
-    image: "/geo-images/romania/cozia-np.webp"
+    image: "/geo-images/romania/cozia-np.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Nationalpark Cozia liegt in den Südkarpaten Rumäniens und erstreckt sich über das Cozia-Gebirge. Er ist bekannt für seine vielfältige Flora und Fauna sowie die steilen Kalksteinfelsen. Das Gebiet umfasst auch bedeutende historische Klöster wie Cozia. Der Park schützt wertvolle Buchenurwälder, die zum UNESCO-Welterbe gehören.",
+      hu: "A Cozia Nemzeti Park Románia déli részén, a Déli-Kárpátokban található, a Cozia-hegység területén. Gazdag növény- és állatvilágáról, valamint meredek mészkőszikláiról ismert. A park területén olyan jelentős történelmi kolostorok találhatók, mint a Cozia-kolostor. Az UNESCO Világörökség részét képező ősbükkösöknek is otthont ad.",
+      ro: "Parcul Național Cozia este situat în partea central-sudică a României, ocupând masivul muntos Cozia. Este renumit pentru biodiversitatea sa ridicată și peisajele montane spectaculoase. Teritoriul parcului include și monumente istorice importante, precum mănăstirea Cozia. Parcul protejează păduri de fag incluse în patrimoniul mondial UNESCO.",
+      en: "Cozia National Park is located in the Southern Carpathians of Romania, covering the Cozia Mountain massif. It is known for its diverse flora and fauna, as well as its steep limestone cliffs. The park area also hosts significant historical monasteries, such as the Cozia Monastery. It preserves ancient beech forests part of the UNESCO World Heritage.",
+    },
+    factsAdvanced: {
+      de: ["Fläche ca. 17.100 Hektar", "Gegründet im Jahr 1966", "Höchster Gipfel Vârful Cozia (1668 m)", "Durchflossen vom Fluss Olt", "UNESCO-Weltkulturerbe Buchenwälder", "Kloster Cozia erbaut 1388"],
+      hu: ["Területe kb. 17 100 hektár", "1966-ban alapították", "Legmagasabb csúcsa a Cozia-csúcs (1668 m)", "Az Olt folyó szeli át", "UNESCO világörökségi bükkösök", "A Cozia-kolostor 1388-ban épült"],
+      ro: ["Suprafață de aproximativ 17.100 hectare", "Înființat în anul 1966", "Altitudinea maximă 1668 m (Vârful Cozia)", "Traversat de râul Olt", "Păduri de fag protejate de UNESCO", "Mănăstirea Cozia fondată în 1388"],
+      en: ["Total area of ~17,100 hectares", "Established in 1966", "Highest peak Cozia Peak (1668 m)", "Bisected by the Olt River gorge", "UNESCO World Heritage beech forests", "Cozia Monastery built in 1388"],
+    },
   },
   {
     id: "ro-poi-sovata-lacul-ursu", type: "lake", parent: "RO-MS", coords: [25.0833, 46.6000],
@@ -4013,49 +7029,140 @@ export const romaniaExtraPois: POI[] = [
     name: { de: "Văcărescu-Haus", hu: "Văcărescu-ház", ro: "Casa Memorială Elena Văcărescu", en: "Elena Văcărescu Memorial House" },
     description: { de: "Gedenkstätte für die rumänisch-französische Schriftstellerin.", hu: "Emlékhely a román-francia írónő számára.", ro: "Casă memorială dedicată scriitoarei româno-franceze.", en: "Memorial site dedicated to the Romanian-French writer." },
     facts: { de: ["Elena Văcărescu war die erste Frau in der Rumänischen Akademie.", "Zweimalige Preisträgerin der Académie Française.", "Diplomatin beim Völkerbund."], hu: ["Elena Văcărescu volt az első nő a Román Akadémiában.", "Kétszeres Francia Akadémia-díjas.", "Diplomata a Népszövetségnél."], ro: ["Elena Văcărescu a fost prima femeie membru de onoare al Academiei Române.", "Dublă laureată a Academiei Franceze.", "Diplomat la Societatea Națiunilor."], en: ["Elena Văcărescu was the first woman member of the Romanian Academy.", "Double laureate of the Académie Française.", "Diplomat at the League of Nations."] },
-    image: "/geo-images/romania/vacarescu-house.webp"
+    image: "/geo-images/romania/vacarescu-house.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Elena Văcărescu Gedenkhaus in Bukarest widmet sich dem Leben der rumänisch-französischen Schriftstellerin und Diplomatin. Sie war die erste Frau, die Mitglied der Rumänischen Akademie wurde. Die Ausstellung zeigt persönliche Gegenstände, Manuskripte und Möbel aus ihrem Besitz. Das Haus ist ein wichtiges Zeugnis der kulturellen Verbindungen zwischen Rumänien und Frankreich.",
+      hu: "A bukaresti Elena Văcărescu Emlékház a román-francia írónő és diplomata életének állít emléket. Ő volt az első nő, akit a Román Akadémia tagjává választottak. A kiállítás személyes tárgyakat, kéziratokat és bútorokat mutat be hagyatékából. Az épület a román-francia kulturális kapcsolatok fontos emlékhelye.",
+      ro: "Casa Memorială Elena Văcărescu din București este dedicată vieții scriitoarei și diplomatei româno-franceze. Ea a fost prima femeie membră a Academiei Române. Expoziția cuprinde obiecte personale, manuscrise și piese de mobilier care i-au aparținut. Muzeul reflectă legăturile culturale strânse dintre România și Franța.",
+      en: "The Elena Văcărescu Memorial House in Bucharest is dedicated to the life of the Romanian-French writer and diplomat. She was the first woman to be elected as a member of the Romanian Academy. The exhibition features personal items, manuscripts, and furniture from her estate. It stands as a symbol of the cultural ties between Romania and France.",
+    },
+    factsAdvanced: {
+      de: ["Elena Văcărescu lebte von 1864 bis 1947", "Akademiemitglied seit 1925", "Delegierte beim Völkerbund", "Zweimal für den Nobelpreis nominiert", "Publikation von \"Chants d'Aurore\" 1886", "Haus befindet sich in Bukarest"],
+      hu: ["Elena Văcărescu 1864 és 1947 között élt", "A Román Akadémia tagja 1925-től", "A Népszövetség delegáltja volt", "Kétszer jelölték irodalmi Nobel-díjra", "A \"Chants d'Aurore\" 1886-ban jelent meg", "Az emlékház Bukarestben található"],
+      ro: ["Elena Văcărescu a trăit între 1864-1947", "Membră a Academiei Române din 1925", "Delegată la Societatea Națiunilor", "Nominalizată de două ori la Premiul Nobel", "Debut literar cu \"Chants d'Aurore\" în 1886", "Casa este situată în București"],
+      en: ["Elena Văcărescu lived 1864-1947", "Academy member since 1925", "League of Nations delegate", "Two-time Nobel Prize nominee", "Published \"Chants d'Aurore\" in 1886", "Museum located in Bucharest"],
+    },
   },
   {
     id: "ro-poi-dosoftei-house", type: "historical", parent: "RO-IS", coords: [27.5889, 47.1611],
     name: { de: "Dosoftei-Haus", hu: "Dosoftei-ház", ro: "Casa Dosoftei Iași", en: "Dosoftei House Iași" },
     description: { de: "Ein historisches Gebäude aus dem 17. Jahrhundert.", hu: "Egy 17. századi történelmi épület.", ro: "O clădire istorică din secolul al XVII-lea.", en: "A historical building from the 17th century." },
     facts: { de: ["Beherbergte eine der ersten Druckereien der Moldau.", "Benannt nach Metropolit Dosoftei.", "Heute ein Museum für alte rumänische Literatur."], hu: ["Itt működött Moldva egyik első nyomdája.", "Dosoftei metropolitáról nevezték el.", "Ma a régi román irodalom múzeuma."], ro: ["A găzduit una dintre primele tiparnițe din Moldova.", "Numită după Mitropolitul Dosoftei.", "Astăzi muzeu de literatură română veche."], en: ["Hosted one of the first printing presses in Moldavia.", "Named after Metropolitan Dosoftei.", "Today a museum of old Romanian literature."] },
-    image: "/geo-images/romania/dosoftei-house.webp"
+    image: "/geo-images/romania/dosoftei-house.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Dosoftei-Haus in Iași ist ein Baudenkmal aus dem 17. Jahrhundert und beherbergt die Abteilung für alt-rumänische Literatur. Es ist nach dem Metropoliten Dosoftei benannt, der hier eine Druckerei betrieb. Das Gebäude zeichnet sich durch seine arkadenförmige Fassade aus Stein aus. Es gilt als eines der ältesten erhaltenen Wohnhäuser der Stadt.",
+      hu: "A jászvásári Dosoftei-ház egy 17. századi építészeti műemlék, amely a régi román irodalom részlegének ad otthont. Dosoftei metropolitáról nevezték el, aki nyomdát működtetett itt. Az épület jellegzetessége a kőből készült, árkádos homlokzata. A város egyik legrégebbi fennmaradt lakóháza.",
+      ro: "Casa Dosoftei din Iași este un monument de arhitectură din secolul al XVII-lea și găzduiește secția de literatură veche. Poartă numele mitropolitului Dosoftei, care a înființat aici o tiparniță. Clădirea se remarcă prin fațada sa cu arcade realizată din piatră. Este una dintre puținele construcții civile din acea epocă păstrate în oraș.",
+      en: "Dosoftei House in Iași is a 17th-century architectural monument housing the old Romanian literature department. It is named after Metropolitan Dosoftei, who operated a printing press here. The building is distinguished by its stone-arched facade. It is one of the oldest surviving residential buildings in the city.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1677", "Metropolit Dosoftei (1624-1693)", "Erster rumänischer Verspsalter gedruckt", "Bauweise aus massivem Stein", "Nahe der königlichen Nikolaikirche", "Literaturmuseum seit 1970"],
+      hu: ["1677-ben épült", "Dosoftei metropolita élt: 1624-1693", "Itt nyomták az első román verses zsoltárt", "Masszív kőépítésű szerkezet", "A Szent Miklós fejedelmi templom mellett", "1970-ben lett irodalmi múzeum"],
+      ro: ["Construită în anul 1677", "Mitropolitul Dosoftei (1624-1693)", "Primul Psaltire în versuri tipărit aici", "Construcție din blocuri de piatră", "Lângă Biserica Sfântul Nicolae Domnesc", "Muzeu de literatură din 1970"],
+      en: ["Built in the year 1677", "Metropolitan Dosoftei (1624-1693)", "First Romanian verse psalter printed", "Solid stone construction", "Located near Saint Nicholas Royal Church", "Literature museum opened in 1970"],
+    },
   },
   {
     id: "ro-poi-brasov-sfatului", type: "landmark", parent: "RO-BV", coords: [25.5889, 45.6422],
     name: { de: "Rathausplatz Kronstadt", hu: "Főtér Brassó", ro: "Piața Sfatului Brașov", en: "Council Square Brașov" },
     description: { de: "Der zentrale Platz der Altstadt von Brașov.", hu: "Brassó óvárosának központi tere.", ro: "Piața centrală a centrului vechi din Brașov.", en: "The central square of Brașov's old town." },
     facts: { de: ["Standort des alten Rathausgebäudes.", "Umgeben von historischen Kaufmannshäusern.", "Austragungsort des Goldenen Hirsch Festivals."], hu: ["A régi városháza helyszíne.", "Történelmi kereskedőházak veszik körül.", "Az Aranyszarvas Fesztivál helyszíne."], ro: ["Locul vechii clădiri a Primăriei.", "Înconjurată de case istorice de negustori.", "Locul de desfășurare a festivalului Cerbul de Aur."], en: ["Site of the old City Hall building.", "Surrounded by historic merchant houses.", "Venue for the Golden Stag Festival."] },
-    image: "/geo-images/romania/brasov-sfatului.webp"
+    image: "/geo-images/romania/brasov-sfatului.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Rathausplatz ist das historische Zentrum von Brașov und ein beliebter Treffpunkt für Einwohner und Touristen. In der Mitte steht das alte Rathaus, das heute als Historisches Museum dient. Der Platz ist von farbenfrohen Gebäuden im Barock- und Renaissancestil umgeben. Hier finden regelmäßig Märkte, Konzerte und kulturelle Veranstaltungen statt.",
+      hu: "A Tanács tér Brassó történelmi központja, és népszerű találkozóhely a lakosok és a turisták számára. Közepén áll a régi városháza, amely ma Történeti Múzeumként működik. A teret színes barokk és reneszánsz stílusú épületek veszik körül. Rendszeresen ad otthont piacoknak, koncerteknek és kulturális eseményeknek.",
+      ro: "Piața Sfatului reprezintă centrul istoric al orașului Brașov și un loc popular de întâlnire pentru localnici și turiști. În mijlocul ei se află Casa Sfatului, care astăzi găzduiește Muzeul de Istorie. Piața este înconjurată de clădiri colorate în stil baroc și renascentist. Este gazda multor evenimente culturale, concerte și târguri tradiționale.",
+      en: "Council Square is the historical center of Brașov and a popular meeting point for locals and tourists. In its center stands the old City Hall, which now serves as a History Museum. The square is surrounded by colorful buildings in Baroque and Renaissance styles. It frequently hosts markets, concerts, and various cultural events.",
+    },
+    factsAdvanced: {
+      de: ["Altes Rathaus erbaut 1420", "Schwarze Kirche in unmittelbarer Nähe", "Jährliches Festival \"Goldener Hirsch\"", "Einstiger mittelalterlicher Marktplatz", "Pranger im 18. Jh. entfernt", "Brunnen in den 1980er Jahren installiert"],
+      hu: ["A régi városháza 1420-ban épült", "A Fekete templom közvetlen közelében", "Az Arany Szarvas fesztivál helyszíne", "Középkori piactér volt", "A szégyenoszlopot a 18. században bontották el", "A szökőkutat az 1980-as években építették"],
+      ro: ["Casa Sfatului construită în 1420", "Biserica Neagră în imediata apropiere", "Găzduiește festivalul Cerbul de Aur", "Fost loc de târg medieval", "Stâlpul infamiei eliminat în sec. XVIII", "Fântâna arteziană instalată în anii '80"],
+      en: ["Old City Hall built in 1420", "Black Church located nearby", "Host of the Golden Stag festival", "Site of a medieval market", "Pillory removed in the 18th century", "Central fountain installed in the 1980s"],
+    },
   },
   {
     id: "ro-poi-sibiu-piata-mare", type: "landmark", parent: "RO-SB", coords: [24.1517, 45.7975],
     name: { de: "Großer Ring Hermannstadt", hu: "Nagypiac tér Nagyszeben", ro: "Piața Mare Sibiu", en: "Great Square Sibiu" },
     description: { de: "Der größte und wichtigste Platz in Sibiu.", hu: "Nagyszeben legnagyobb és legfontosabb tere.", ro: "Cea mai mare și importantă piață din Sibiu.", en: "The largest and most important square in Sibiu." },
     facts: { de: ["UNESCO-Weltkulturerbe.", "Standort des Brukenthal-Palastes.", "Berühmt für die 'Augen von Sibiu' auf den Dächern."], hu: ["UNESCO világörökségi helyszín.", "A Brukenthal-palota helyszíne.", "Híres a tetőkön lévő 'szebeni szemekről'."], ro: ["Sit UNESCO.", "Locul Palatului Brukenthal.", "Faimoasă pentru 'ochii Sibiului' de pe acoperișuri."], en: ["UNESCO World Heritage site.", "Site of the Brukenthal Palace.", "Famous for the 'eyes of Sibiu' on the roofs."] },
-    image: "/geo-images/romania/sibiu-piata-mare.webp"
+    image: "/geo-images/romania/sibiu-piata-mare.webp",
+  
+    descriptionAdvanced: {
+      de: "Der Große Ring ist das Herz der Altstadt von Sibiu und einer der größten Plätze in Siebenbürgen. Er wird von bedeutenden Bauwerken wie dem Brukenthal-Palast und der katholischen Kirche flankiert. Charakteristisch sind die Dachfenster der Häuser, die als Augen von Sibiu bekannt sind. Der Platz ist seit 2004 Teil des UNESCO-Kandidatenkatalogs.",
+      hu: "A Nagypiac Nagyszeben óvárosának szíve, és Erdély egyik legnagyobb tere. Olyan jelentős építmények szegélyezik, mint a Brukenthal-palota és a katolikus templom. Jellemzőek a házak tetőablakai, amelyeket Nagyszeben szemeiként ismernek. A tér 2004 óta szerepel az UNESCO világörökségi jelöltlistáján.",
+      ro: "Piața Mare este inima centrului istoric al Sibiului și una dintre cele mai mari piețe din Transilvania. Este flancată de edificii importante precum Palatul Brukenthal și Biserica Romano-Catolică. Caracteristice sunt ferestrele mansardate ale caselor, cunoscute drept ochii Sibiului. Din 2004, este inclusă în zona protejată UNESCO.",
+      en: "The Great Square is the heart of Sibiu's historical center and one of the largest squares in Transylvania. It is flanked by important buildings such as the Brukenthal Palace and the Roman Catholic Church. Characteristic are the attic windows of the houses, known as the eyes of Sibiu. It has been a UNESCO World Heritage candidate site since 2004.",
+    },
+    factsAdvanced: {
+      de: ["Erstmals erwähnt im Jahr 1411", "Brukenthal-Palast (1778-1788)", "Katholische Kirche erbaut 1726", "Länge 142m, Breite 93m", "Einstiger Ort für öffentliche Hinrichtungen", "UNESCO-Weltkulturerbe Kandidat"],
+      hu: ["Először 1411-ben említik", "Brukenthal-palota (1778-1788)", "A katolikus templom 1726-ban épült", "Hosszúsága 142 m, szélessége 93 m", "Valaha nyilvános kivégzések helyszíne", "UNESCO világörökségi jelölt"],
+      ro: ["Prima menționare în anul 1411", "Palatul Brukenthal (1778-1788)", "Biserica Catolică ridicată în 1726", "Lungime 142m și lățime 93m", "Fost loc pentru execuții publice", "Candidat la patrimoniul mondial UNESCO"],
+      en: ["First mentioned in 1411", "Brukenthal Palace (1778-1788)", "Catholic Church built in 1726", "142 meters long and 93 meters wide", "Former site of public executions", "UNESCO World Heritage candidate site"],
+    },
   },
   {
     id: "ro-poi-iasi-bojdeuca", type: "historical", parent: "RO-IS", coords: [27.5833, 47.1750],
     name: { de: "Bojdeuca von Ion Creangă", hu: "Ion Creangă bojdeukája", ro: "Bojdeuca lui Ion Creangă", en: "Ion Creangă's Bojdeuca" },
     description: { de: "Das erste Literaturmuseum in Rumänien.", hu: "Az első irodalmi múzeum Romániában.", ro: "Primul muzeu literar din România.", en: "The first literary museum in Romania." },
     facts: { de: ["Wohnhaus des Schriftstellers Ion Creangă.", "Ort, an dem er seine 'Kindheitserinnerungen' schrieb.", "Besucht von Mihai Eminescu."], hu: ["Ion Creangă író lakóháza.", "Itt írta a 'Gyermekkorom emlékei' című művét.", "Mihai Eminescu is látogatta."], ro: ["Casa în care a locuit scriitorul Ion Creangă.", "Locul unde a scris 'Amintiri din copilărie'.", "Vizitată de Mihai Eminescu."], en: ["Home of writer Ion Creangă.", "Place where he wrote 'Childhood Memories'.", "Visited by Mihai Eminescu."] },
-    image: "/geo-images/romania/iasi-bojdeuca.webp"
+    image: "/geo-images/romania/iasi-bojdeuca.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Bojdeuca im Stadtteil Țicău von Iași war das Wohnhaus des berühmten rumänischen Schriftstellers Ion Creangă. Es ist das erste Literaturmuseum Rumäniens und wurde 1918 eingeweiht. Das bescheidene Haus im traditionellen Stil bewahrt die Atmosphäre des 19. Jahrhunderts. Hier verfasste Creangă seine berühmten Kindheitserinnerungen und Märchen.",
+      hu: "A jászvásári Țicău negyedben található Bojdeuca a híres román író, Ion Creangă lakóháza volt. Ez Románia első irodalmi emlékháza, amelyet 1918-ban avattak fel. A hagyományos stílusú, szerény épület hűen őrzi a 19. századi hangulatot. Itt írta meg Creangă híres gyermekkorom emlékeit és meséit.",
+      ro: "Bojdeuca din cartierul Țicău al Iașului a fost casa scriitorului Ion Creangă între anii 1872 și 1889. Este primul muzeu memorial literar din România, inaugurat în 1918. Casa modestă păstrează stilul tradițional moldovenesc și atmosfera secolului al XIX-lea. Aici, Creangă a scris celebrele sale Amintiri din copilărie și povești.",
+      en: "The Bojdeuca in the Țicău district of Iași was the home of the famous Romanian writer Ion Creangă between 1872 and 1889. It is the first literary memorial museum in Romania, inaugurated in 1918. The modest traditional house preserves the 19th-century atmosphere. Creangă wrote his famous Memories of My Boyhood and tales here.",
+    },
+    factsAdvanced: {
+      de: ["Erstes Literaturmuseum Rumäniens (1918)", "Wohnsitz von Creangă 1872-1889", "Eminescu wohnte hier 1876", "Restauriert im Jahr 1984", "Traditioneller moldauischer Baustil", "Besteht aus zwei kleinen Zimmern"],
+      hu: ["Románia első irodalmi múzeuma (1918)", "Creangă lakhelye 1872-1889 között", "Eminescu is itt lakott 1876-ban", "1984-ben restaurálták", "Hagyományos moldvai építészeti stílus", "Két kis szobából és egy tornácból áll"],
+      ro: ["Primul muzeu literar din România (1918)", "Locuința lui Creangă 1872-1889", "Eminescu a locuit aici în 1876", "Restaurată în anul 1984", "Stil arhitectural tradițional moldovenesc", "Compusă din două camere mici și prispă"],
+      en: ["Romania's first literary museum (1918)", "Creangă lived here 1872-1889", "Eminescu stayed here in 1876", "Restored in 1984", "Traditional Moldavian architectural style", "Consists of two small rooms and a porch"],
+    },
   },
   {
     id: "ro-poi-timisoara-opera", type: "landmark", parent: "RO-TM", coords: [21.2258, 45.7544],
     name: { de: "Nationaloper Temeswar", hu: "Temesvári Nemzeti Opera", ro: "Opera Națională Timișoara", en: "Timișoara National Opera" },
     description: { de: "Ein bedeutendes Kulturinstitut in Timișoara.", hu: "Temesvár jelentős kulturális intézménye.", ro: "O instituție culturală majoră din Timișoara.", en: "A major cultural institution in Timișoara." },
     facts: { de: ["Gebäude entworfen von Fellner & Helmer.", "Schauplatz wichtiger Ereignisse der Revolution von 1989.", "Beherbergt vier Kulturinstitutionen."], hu: ["Fellner és Helmer által tervezett épület.", "Az 1989-es forradalom fontos eseményeinek helyszíne.", "Négy kulturális intézménynek ad otthont."], ro: ["Clădire proiectată de Fellner & Helmer.", "Locul unor evenimente importante ale Revoluției din 1989.", "Găzduiește patru instituții de cultură."], en: ["Building designed by Fellner & Helmer.", "Site of important events of the 1989 Revolution.", "Houses four cultural institutions."] },
-    image: "/geo-images/romania/timisoara-opera.webp"
+    image: "/geo-images/romania/timisoara-opera.webp",
+  
+    descriptionAdvanced: {
+      de: "Die Nationaloper in Timișoara ist eine bedeutende Kulturinstitution im Westen Rumäniens. Das Gebäude wurde im 19. Jahrhundert von den Architekten Fellner & Helmer entworfen und später im neobyzantinischen Stil umgebaut. Von seinem Balkon aus wurde 1989 der Sieg der Revolution verkündet. Das Haus vereint Oper, Nationaltheater und Puppentheater.",
+      hu: "A Temesvári Nemzeti Opera Nyugat-Románia egyik legfontosabb kulturális intézménye. Az épületet a 19. században Fellner és Helmer építészek tervezték, majd később neobizánci stílusban építették át. Erkélyéről hirdették ki 1989-ben a forradalom győzelmét. Az épület az operának, a nemzeti színháznak és a bábszínháznak is otthont ad.",
+      ro: "Opera Națională din Timișoara este o instituție culturală de prestigiu situată în Piața Victoriei. Clădirea a fost proiectată în secolul al XIX-lea de arhitecții Fellner & Helmer și reconstruită ulterior în stil neobizantin. De la balconul acesteia s-a proclamat victoria Revoluției din 1989. Găzduiește Opera, Teatrul Național și Teatrul Maghiar.",
+      en: "The National Opera in Timișoara is a prestigious cultural institution located in Victory Square. The building was designed in the 19th century by architects Fellner & Helmer and later rebuilt in a Neo-Byzantine style. From its balcony, the victory of the 1989 Revolution was proclaimed. It houses the Opera, the National Theatre, and the Puppet Theatre.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut von 1872 bis 1875", "Entwurf von Fellner & Helmer", "Durch Brände 1880 und 1920 zerstört", "Fassade von Duiliu Marcu (1930er)", "Erste Opernvorstellung 1875", "Zentrum der Revolution 1989"],
+      hu: ["1872 és 1875 között épült", "Fellner és Helmer tervei alapján", "1880-ban és 1920-ban is leégett", "Neobizánci homlokzat (Duiliu Marcu)", "Első operaelőadás 1875-ben", "Az 1989-es forradalom jelképe"],
+      ro: ["Construită între 1872-1875", "Arhitecți Fellner & Helmer", "Distrusă de incendii în 1880 și 1920", "Fațadă neobizantină de Duiliu Marcu", "Prima reprezentație în 1875", "Locul proclamației Revoluției din 1989"],
+      en: ["Built between 1872 and 1875", "Architects Fellner & Helmer", "Fire damage in 1880 and 1920", "Neo-Byzantine facade by Duiliu Marcu", "First opera performance in 1875", "Key site of the 1989 Revolution"],
+    },
   },
   {
     id: "ro-poi-sinaia-pelisor", type: "historical", parent: "RO-PH", coords: [25.5392, 45.3597],
     name: { de: "Schloss Pelișor", hu: "Pelișor-kastély", ro: "Castelul Pelișor", en: "Pelișor Castle" },
     description: { de: "Teil des Peleș-Komplexes, erbaut für König Ferdinand I.", hu: "A Peleș-komplexum része, I. Ferdinánd király számára épült.", ro: "Parte a complexului Peleș, construit pentru Regele Ferdinand I.", en: "Part of the Peleș complex, built for King Ferdinand I." },
     facts: { de: ["Erbaut im Jugendstil.", "Innendekoration von Königin Maria entworfen.", "Beherbergt das goldene Zimmer."], hu: ["Szecessziós stílusban épült.", "A belső dekorációt Mária királyné tervezte.", "Itt található az arany szoba."], ro: ["Construit în stil Art Nouveau.", "Decorațiuni interioare create de Regina Maria.", "Găzduiește camera de aur."], en: ["Built in Art Nouveau style.", "Interior decorations designed by Queen Marie.", "Houses the golden room."] },
-    image: "/geo-images/romania/sinaia-pelisor.webp"
+    image: "/geo-images/romania/sinaia-pelisor.webp",
+  
+    descriptionAdvanced: {
+      de: "Das Schloss Pelișor in Sinaia wurde Anfang des 20. Jahrhunderts als Residenz für den späteren König Ferdinand I. erbaut. Es ist Teil des Peles-Komplexes und besticht durch seine Innenausstattung im Jugendstil. Besonders bekannt ist das Goldene Zimmer, das von Königin Maria entworfen wurde. Das Schloss spiegelt den persönlichen Geschmack der königlichen Familie wider.",
+      hu: "A szinajai Pelișor-kastély a 20. század elején épült a későbbi I. Ferdinánd király rezidenciájaként. A Peleș-komplexum része, és szecessziós stílusú belső kialakításával tűnik ki. Különösen híres az Arany szoba, amelyet Mária királyné tervezett. A kastély a királyi család személyes ízlését tükrözi.",
+      ro: "Castelul Pelișor din Sinaia a fost construit la începutul secolului al XX-lea ca reședință pentru principele Ferdinand și principesa Maria. Face parte din complexul Peleș și se remarcă prin decorațiunile interioare în stil Art Nouveau. Camera de Aur, decorată de regina Maria, este un punct central al castelului. Reflectă gusturile artistice ale reginei.",
+      en: "Pelișor Castle in Sinaia was built at the beginning of the 20th century as a residence for the future King Ferdinand I. It is part of the Peleș complex and stands out for its Art Nouveau interior decorations. The Golden Room, designed by Queen Marie, is a famous feature of the castle. It showcases the royal family's personal artistic taste.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut von 1899 bis 1902", "Architekt Karel Liman", "Verfügt über 99 Zimmer", "Dekoration im Jugendstil", "Goldenes Zimmer von Königin Maria", "Herz der Königin Maria wurde hier verwahrt"],
+      hu: ["1899 és 1902 között épült", "Karel Liman cseh építész tervezte", "Összesen 99 szobából áll", "Szecessziós belső díszítés", "Mária királyné Arany szobája", "Itt őrizték korábban Mária királyné szívét"],
+      ro: ["Construit între 1899-1902", "Arhitect ceh Karel Liman", "Deține 99 de încăperi", "Decorat în stil Art Nouveau", "Camera de Aur a reginei Maria", "Inima reginei Maria a fost păstrată aici"],
+      en: ["Built between 1899 and 1902", "Designed by architect Karel Liman", "Total of 99 rooms", "Art Nouveau interior decoration", "Queen Marie's Golden Room", "Queen Marie's heart was kept here"],
+    },
   }
 ];
 
