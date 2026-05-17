@@ -61,6 +61,25 @@ for (const p of allPois) {
 }
 console.log(`Bucketed into ${Object.keys(byCountry).length} countries, ${skipped} skipped (unresolvable parent)`);
 
+// Slim down each POI to the fields the map actually needs.
+// Strips description / facts / descriptionAdvanced / factsAdvanced / faq /
+// plizioChallenge — those are only used on POI detail pages, never on the map.
+// Result: typical country JSON shrinks from ~2-6 MB to ~0.2-0.6 MB.
+const slim = (p: any) => ({
+  id: p.id,
+  type: p.type,
+  parent: p.parent,
+  coords: p.coords,
+  name: p.name,
+  image: p.image,
+  coa: p.coa,
+  audio: p.audio,
+  subjects: p.subjects,
+  grades: p.grades,
+  ...(p.region ? { region: p.region } : {}),
+  ...(p.altNames ? { altNames: p.altNames } : {}),
+});
+
 let totalBytes = 0;
 const sizes: [string, number, number][] = [];
 for (const [cc, arr] of Object.entries(byCountry)) {
@@ -83,7 +102,8 @@ for (const [cc, arr] of Object.entries(byCountry)) {
     }
     statePaths[sid] = langPaths;
   }
-  const payload = { pois: arr, poiPaths, statePaths };
+  const slimPois = arr.map(slim);
+  const payload = { pois: slimPois, poiPaths, statePaths };
   const fp = path.join(OUT, `${cc}.json`);
   const json = JSON.stringify(payload);
   fs.writeFileSync(fp, json, "utf8");
