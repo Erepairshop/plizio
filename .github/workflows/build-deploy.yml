@@ -44,6 +44,9 @@ jobs:
           NODE_OPTIONS: --max-old-space-size=14336
         run: npx next build
 
+      - name: Flatten sitemap paths (Google scope rule)
+        run: node scripts/flatten-sitemap-paths.mjs
+
       - name: Pack archive
         run: tar -C out -czf ${{ env.ARCHIVE_NAME }} .
 

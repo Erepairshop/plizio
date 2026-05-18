@@ -1390,7 +1390,7 @@ function SubRegionView({
 
       <div className="flex-1 overflow-y-auto p-4">
         {detail && detail.children.length > 0 ? (
-          <div className="relative max-w-xl mx-auto" style={{ touchAction: "none", overscrollBehavior: "contain" }}>
+          <div className="relative max-w-xl lg:max-w-4xl mx-auto" style={{ touchAction: "none", overscrollBehavior: "contain" }}>
             <svg
               ref={pz.svgRef}
               viewBox={detail.viewBox}

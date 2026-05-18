@@ -55,6 +55,9 @@ jobs:
       - name: Verify out/ produced
         run: test -f out/index.html && test -d out/_next
 
+      - name: Flatten sitemap paths (Google directory-scope rule)
+        run: node scripts/flatten-sitemap-paths.mjs
+
       - name: Generate POI HTML overlay (all 152K, overwrites Next POI pages)
         env:
           OUT_DIR: out

@@ -19,10 +19,10 @@ export const poiExtraLaosCitiesV2: POI[] = [
       en: "Vientiane is the capital of Laos, located on the Mekong River. It is known for its French colonial architecture and Buddhist temples."
     },
     descriptionAdvanced: {
-      de: "Vientiane, auf Lao Viangchan genannt, ist die Hauptstadt der Demokratischen Volksrepublik Laos und liegt am linken Ufer des Mekong direkt gegenüber der thailändischen Provinz Nong Khai. Die Stadt zählt rund 820.000 Einwohner und ist politisches, wirtschaftliches und kulturelles Zentrum des Landes. Wahrzeichen sind die goldene Stupa Pha That Luang aus dem 16. Jahrhundert, der Triumphbogen Patuxai und der Tempel Wat Si Saket mit seinen mehr als 6.800 Buddhastatuen. Geprägt wird das Stadtbild von französischer Kolonialarchitektur entlang der Avenue Lan Xang, einer wachsenden Ufer-Promenade und Märkten wie dem Talat Sao. Klimatisch herrscht tropisches Monsunklima mit Regenzeit von Mai bis Oktober.",
-      hu: "Vientián, lao nyelven Viangchan, a Laoszi Népi Demokratikus Köztársaság fővárosa, amely a Mekong bal partján fekszik, közvetlenül a thaiföldi Nong Khai tartománnyal szemben. A város mintegy 820 ezer lakost számlál, és az ország politikai, gazdasági, valamint kulturális központja. Jelképei a 16. századi aranyozott Pha That Luang sztúpa, a Patuxai diadalív és a Vat Szi Szaket templom, amelyben több mint 6800 Buddha-szobor található. A városképet a Lan Xang sugárút mentén álló francia gyarmati paloták, a folyóparti sétány, valamint a Talat Szao központi piac határozza meg. Az éghajlat trópusi monszun, a csapadékos időszak májustól októberig tart, magas páratartalom mellett.",
-      ro: "Vientiane, în limba laoțiană Viangchan, este capitala Republicii Democratice Populare Laos și se află pe malul stâng al fluviului Mekong, vizavi de provincia thailandeză Nong Khai. Orașul are aproximativ 820.000 de locuitori și reprezintă centrul politic, economic și cultural al țării. Printre simbolurile sale se numără stupa aurită Pha That Luang din secolul al XVI-lea, arcul de triumf Patuxai și templul Wat Si Saket, care adăpostește peste 6.800 de statui ale lui Buddha. Imaginea urbană este definită de arhitectura colonială franceză de pe bulevardul Lan Xang, de promenada de pe malul fluviului și de piețele precum Talat Sao. Clima este tropicală, cu un sezon ploios între lunile mai și octombrie.",
-      en: "Vientiane, called Viangchan in Lao, is the capital of the Lao People's Democratic Republic and lies on the left bank of the Mekong River, directly opposite the Thai province of Nong Khai. With around 820,000 inhabitants, the city is the political, economic and cultural heart of the country. Its landmarks include the gilded sixteenth-century stupa Pha That Luang, the Patuxai victory arch and the Wat Si Saket temple, home to more than 6,800 Buddha images. The cityscape is shaped by French colonial mansions along Lan Xang Avenue, a growing riverside promenade and lively markets such as Talat Sao. The climate is tropical monsoon, with a wet season running from May to October and high humidity year-round."
+      de: "Vientiane ist die Hauptstadt und größte Stadt von Laos und liegt am linken Ufer des Mekong, direkt an der Grenze zu Thailand. Die Geschichte der Stadt reicht bis ins 9. Jahrhundert zurück, doch ihre Bedeutung als administratives Zentrum begann im Jahr 1563, als König Setthathirath sie zur Hauptstadt des Lan-Xang-Reiches erklärte, um Schutz vor birmanischen Invasionen zu suchen. Das heutige Stadtbild ist geprägt von einer faszinierenden Mischung aus französischer Kolonialarchitektur und traditionellen laotischen Tempelanlagen, was die wechselvolle Geschichte des Landes widerspiegelt. Eines der bedeutendsten Wahrzeichen ist das Pha That Luang, ein goldgedeckter Stupa aus dem 16. Jahrhundert, der als nationales Symbol und wichtigstes religiöses Denkmal des Landes gilt. Ebenfalls markant ist der Patuxai, ein monumentaler Triumphbogen, der zwischen 1957 und 1968 zum Gedenken an den Unabhängigkeitskampf gegen Frankreich errichtet wurde. Heute fungiert Vientiane als wirtschaftlicher und politischer Motor des Landes und ist durch die neue Eisenbahnverbindung nach China eng in den regionalen Handel eingebunden. Trotz der fortschreitenden Modernisierung bewahrt die Stadt eine entspannte Atmosphäre, die für den laotischen Lebensstil charakteristisch ist.",
+      hu: "Vientiane Laosz fővárosa és egyben legnagyobb városa, amely a Mekong-folyó bal partján, a thaiföldi határ közvetlen közelében fekszik. A település történelme a 9. századig nyúlik vissza, de politikai jelentősége 1563-ban nőtt meg, amikor Setthathirath király a Lan Xang királyság székhelyévé tette a burmai invázió elleni védekezésül. A város építészetében keveredik a francia gyarmati stílus és a hagyományos buddhista templomépítészet, ami egyedülálló városképet kölcsönöz a településnek. Legfontosabb nevezetessége a Pha That Luang, egy 16. századi aranyozott sztúpa, amely az ország legfőbb nemzeti jelképe és vallási központja. A város központjában található a Patuxai is, egy monumentális diadalív, amelyet az 1950-es és 60-as években emeltek a függetlenségi harcok emlékére. Vientiane ma az ország gazdasági és politikai központja, ahol a modern infrastruktúra, mint a Kínával összekötő új vasútvonal, találkozik a hagyományos életmóddal. A város lakossága az agglomerációval együtt megközelíti az egymillió főt, így ez Laosz legnépesebb urbánus területe, amely központi szerepet játszik a diplomáciában és a kereskedelemben.",
+      ro: "Vientiane este capitala și cel mai mare oraș din Laos, situat pe malul stâng al fluviului Mekong, chiar la granița cu Thailanda. Istoria orașului datează din secolul al IX-lea, însă a devenit capitala regatului Lan Xang în 1563, sub domnia regelui Setthathirath, pentru a fi mai bine protejat de invaziile birmane. Arhitectura orașului reflectă un amestec distinct între stilul colonial francez și templele budiste tradiționale, oferind o perspectivă asupra trecutului său complex. Unul dintre cele mai importante repere este Pha That Luang, o stupă acoperită cu aur din secolul al XVI-lea, care este considerată simbolul național al țării. Patuxai, un arc de triumf masiv construit între 1957 și 1968, comemorează lupta pentru independență și este un alt obiectiv vizual major al centrului urban. Astfel, Vientiane servește drept centrul economic și politic al națiunii, beneficiind recent de proiecte mari de infrastructură, precum calea ferată de mare viteză care face legătura cu China. Deși este în continuă dezvoltare, orașul își păstrează o atmosferă relaxată, specifică modului de viață laosian, rămânând principala poartă de acces diplomatic a țării.",
+      en: "Vientiane is the capital and largest city of Laos, situated on the left bank of the Mekong River near the border with Thailand. The city's history dates back to the 9th century, though it became the administrative capital of the Lan Xang kingdom in 1563 under King Setthathirath to avoid Burmese invasions. Today, Vientiane serves as the economic and political heart of the nation, characterized by a mix of French colonial architecture and traditional Buddhist temples. Notable landmarks include the Pha That Luang, a gold-covered stupa that is considered a national symbol of Laos, and the Patuxai, a massive concrete triumphal arch built between 1957 and 1968. The city has experienced significant modernization in recent decades, with the development of the Vientiane-Boten railway connecting it to China. Despite its growth, Vientiane maintains a laid-back atmosphere compared to other Southeast Asian capitals, reflecting the traditional Lao lifestyle. It remains the primary gateway for international diplomacy and commerce in the landlocked country, housing the central government and major educational institutions.",
     },
     facts: {
       de: [
@@ -43,38 +43,10 @@ export const poiExtraLaosCitiesV2: POI[] = [
       ]
     },
     factsAdvanced: {
-      en: [
-        "Capital of Laos, situated along the curve of the Mekong River.",
-        "Home to Pha That Luang, a gold-covered stupa and national symbol.",
-        "Features Patuxai, a massive war monument resembling the Arc de Triomphe.",
-        "Buddha Park contains over 200 Hindu and Buddhist concrete statues.",
-        "The city served as the French administrative capital during the colonial era.",
-        "Known for its laid-back atmosphere, tree-lined boulevards, and temples."
-      ],
-      de: [
-        "Hauptstadt von Laos, gelegen an einer Biegung des Mekong-Flusses.",
-        "Heimat von Pha That Luang, einem goldbedeckten Stupa und Nationalsymbol.",
-        "Das Kriegerdenkmal Patuxai ähnelt dem Arc de Triomphe in Paris.",
-        "Der Buddha-Park enthält über 200 hinduistische und buddhistische Statuen.",
-        "Während der Kolonialzeit war die Stadt das französische Verwaltungszentrum.",
-        "Bekannt für ihre entspannte Atmosphäre und von Bäumen gesäumte Straßen."
-      ],
-      hu: [
-        "Laosz fővárosa, amely a Mekong folyó egyik kanyarulatában fekszik.",
-        "Itt található a Pha That Luang, egy aranyozott sztúpa és nemzeti szimbólum.",
-        "A Patuxai háborús emlékmű a párizsi Diadalívhez hasonlít.",
-        "A Buddha Park több mint 200 hindu és buddhista betonszobrot rejt.",
-        "A gyarmati korszakban a város francia közigazgatási központ volt.",
-        "Híres nyugodt légköréről, fákkal szegélyezett sugárútjairól és templomairól."
-      ],
-      ro: [
-        "Capitala statului Laos, situată de-a lungul râului Mekong.",
-        "Găzduiește Pha That Luang, o stupă aurită și un simbol național.",
-        "Monumentul de război Patuxai seamănă cu Arcul de Triumf din Paris.",
-        "Parcul Buddha conține peste 200 de statui hinduse și budiste din beton.",
-        "Orașul a fost centrul administrativ francez în timpul epocii coloniale.",
-        "Cunoscut pentru atmosfera relaxată și bulevardele străjuite de copaci."
-      ]
+      de: ["Hauptstadt von Laos seit dem Jahr 1563", "Bevölkerung von ca. 950.000 im Großraum", "Direkte Lage am Mekong-Grenzfluss zu Thailand", "Pha That Luang Stupa als nationales Symbol", "Patuxai Triumphbogen aus dem Jahr 1968", "Endpunkt der Laos-China-Eisenbahnstrecke"],
+      hu: ["Laosz fővárosa 1563 óta folyamatosan", "Lakossága kb. 950 ezer fő az agglomerációban", "Közvetlen határfolyója a Mekong Thaiföld felé", "A Pha That Luang sztúpa a nemzet jelképe", "A Patuxai diadalív 1968-ban készült el", "A Laosz-Kína vasútvonal déli végállomása"],
+      ro: ["Capitala Laosului începând cu anul 1563", "Populație de aproximativ 950.000 de locuitori", "Situat pe malul fluviului Mekong, la graniță", "Stupa Pha That Luang este simbolul național", "Arcul de Triumf Patuxai finalizat în 1968", "Terminusul căii ferate Laos-China în sud"],
+      en: ["Capital city of Laos since the year 1563", "Population of approx 950,000 in metro area", "Located on the Mekong River border with Thailand", "Pha That Luang stupa is the national symbol", "Patuxai monument completed in the year 1968", "Southern terminus of the Laos-China Railway"],
     }, image: "/poi-images/vientiane-cities-v2.webp"},
   {
     id: "luang-prabang-cities-v2",
@@ -94,10 +66,10 @@ export const poiExtraLaosCitiesV2: POI[] = [
       en: "Luang Prabang is a historic city in northern Laos. The old town is a UNESCO World Heritage Site and features numerous temples."
     },
     descriptionAdvanced: {
-      de: "Luang Prabang liegt auf einer schmalen Halbinsel am Zusammenfluss von Mekong und Nam Khan im bergigen Norden von Laos. Die Stadt war über fünf Jahrhunderte lang die königliche Residenz des Königreichs Lan Xang und seiner Nachfolgestaaten und wurde 1995 wegen ihres außergewöhnlich gut erhaltenen Stadtkerns in die UNESCO-Welterbeliste aufgenommen. Charakteristisch ist die Verbindung aus traditionellen Holzhäusern auf Stelzen, leuchtend roten und goldenen Tempeldächern und französischer Kolonialarchitektur. Allein in der Altstadt stehen über 30 aktive Wat-Anlagen, darunter Wat Xieng Thong und Wat Mai. Frühmorgens ziehen hunderte Mönche in safranfarbenen Roben durch die Straßen, um Reisalmosen zu empfangen.",
-      hu: "Luangprabang egy keskeny félszigeten fekszik, ahol a Mekong és a Nam Khan folyók találkoznak Laosz hegyvidéki északi részén. A város öt évszázadon át a Lan Xang Királyság és utódállamainak királyi székhelye volt, és 1995-ben kivételesen megőrzött városmagja miatt felkerült az UNESCO Világörökségi Listájára. Jellegzetessége a hagyományos lábakon álló faházak, az élénk vörös és arany templomtetők, valamint a francia gyarmati villák egyedi együttese. Csak az óvárosban több mint harminc működő vat áll, köztük a Vat Xieng Thong és a Vat Mai. Hajnalban szafránszínű csuhába öltözött szerzetesek százai vonulnak az utcákon, hogy rizs alamizsnát fogadjanak el a hívektől.",
-      ro: "Luang Prabang este situat pe o peninsulă îngustă, la confluența râurilor Mekong și Nam Khan, în nordul muntos al Laosului. Orașul a fost timp de peste cinci secole reședința regală a Regatului Lan Xang și a statelor care i-au urmat și a fost inclus în 1995 pe lista patrimoniului mondial UNESCO datorită centrului istoric remarcabil de bine conservat. Specifică este îmbinarea dintre casele tradiționale din lemn pe piloni, acoperișurile templelor în roșu aprins și auriu și clădirile coloniale franceze. Numai în orașul vechi există peste treizeci de complexe wat active, printre care Wat Xieng Thong și Wat Mai. În zori, sute de călugări în veșminte portocalii străbat străzile pentru a primi pomana cu orez.",
-      en: "Luang Prabang sits on a narrow peninsula at the confluence of the Mekong and Nam Khan rivers in the mountainous north of Laos. For more than five centuries the town served as the royal seat of the Lan Xang kingdom and its successor states, and in 1995 its exceptionally well-preserved historic core was inscribed on the UNESCO World Heritage list. Its character comes from a unique blend of traditional wooden houses on stilts, vivid red and gold temple roofs and French colonial mansions. The old town alone contains over thirty active wat complexes, including Wat Xieng Thong and Wat Mai. At dawn, hundreds of monks in saffron robes walk silently through the streets to receive offerings of sticky rice from the faithful."
+      de: "Luang Prabang, die ehemalige königliche Hauptstadt von Laos, liegt malerisch am Zusammenfluss von Mekong und Nam Khan im Norden des Landes. Die Stadt blickt auf eine über tausendjährige Geschichte zurück und war bis 1563 das Zentrum des mächtigen Lan-Xang-Reiches. Aufgrund ihrer außergewöhnlichen Erhaltung und der Verschmelzung von traditioneller laotischer und europäisch-kolonialer Architektur wurde das gesamte Stadtzentrum 1995 zum UNESCO-Weltkulturerbe erklärt. Ein zentrales Element der Stadt ist der Tempel Wat Xieng Thong, der 1560 erbaut wurde und als Meisterwerk der laotischen Baukunst gilt. Jeden Morgen findet hier die traditionelle Almosengabe der Mönche statt, die tief in der spirituellen Kultur der Region verwurzelt ist. Neben den kulturellen Schätzen ist Luang Prabang auch für seine natürliche Schönheit bekannt, darunter der Berg Phousi mit seinem Panoramablick und die nahegelegenen Kuang-Si-Wasserfälle. Die Stadt fungiert heute als das wichtigste touristische und kulturelle Zentrum von Laos und zieht Besucher aus aller Welt an, die die Ruhe und die reiche Geschichte des Ortes schätzen.",
+      hu: "Luang Prabang Laosz korábbi királyi fővárosa, amely az ország északi részén, a Mekong és a Nam Khan folyók összefolyásánál fekszik. A város több mint ezeréves múltra tekint vissza, és 1563-ig a Lan Xang királyság központjaként szolgált. A hagyományos laotikus építészet és a 19-20. századi európai gyarmati stílus egyedülálló ötvözete miatt a történelmi városmagot 1995-ben az UNESCO a Világörökség részévé nyilvánította. A város egyik legfontosabb szakrális helyszíne az 1560-ban alapított Wat Xieng Thong templom, amely a laoszi művészet egyik legszebb példája. Minden hajnalban szerzetesek százai vonulnak végig az utcákon az évszázados rituális alamizsnagyűjtés során, ami a helyi közösség hitéletének alapköve. A kulturális értékek mellett Luang Prabang természeti látnivalói, mint a Phousi-hegy panorámája és a közeli Kuang Si-vízesések is vonzzák a látogatókat. A település ma Laosz kulturális és turisztikai központja, ahol a vallási hagyományok és a történelmi környezet zavartalanul élnek tovább a modern korban is.",
+      ro: "Luang Prabang, fosta capitală regală a Laosului, este situată pitoresc la confluența fluviului Mekong cu râul Nam Khan, în partea de nord a țării. Orașul are o istorie de peste un mileniu, servind drept centrul regatului Lan Xang până în anul 1563. Datorită conservării excepționale și fuziunii dintre arhitectura tradițională laosiană și stilul colonial european, întregul centru istoric a fost inclus în Patrimoniul Mondial UNESCO în 1995. Un element central al orașului este templul Wat Xieng Thong, construit în 1560, considerat o capodoperă a designului religios local. În fiecare dimineață, are loc ceremonia tradițională de colectare a almosnelor de către călugări, un ritual profund înrădăcinat în cultura spirituală a regiunii. Pe lângă comorile sale culturale, Luang Prabang este renumit pentru frumusețea sa naturală, incluzând muntele Phousi și cascadele Kuang Si din apropiere. Astăzi, orașul funcționează ca cel mai important centru turistic și cultural din Laos, atrăgând vizitatori din întreaga lume care caută să experimenteze liniștea și bogăția istorică a acestui loc sacru.",
+      en: "Luang Prabang, the former royal capital of Laos, is situated at the confluence of the Mekong and Nam Khan rivers in the northern part of the country. The city boasts over a thousand years of history and served as the center of the Lan Xang kingdom until 1563. Due to its exceptional preservation and the unique fusion of traditional Lao and European colonial architecture, the entire town center was designated a UNESCO World Heritage site in 1995. A central element of the city is Wat Xieng Thong, built in 1560, which is considered a masterpiece of Lao religious architecture. Every morning, the town witnesses the traditional alms-giving ceremony of the monks, a ritual deeply rooted in the spiritual culture of the region. Beyond its cultural treasures, Luang Prabang is famous for its natural beauty, including Mount Phousi and the nearby Kuang Si Falls. The city today functions as the premier tourist and cultural hub of Laos, maintaining a delicate balance between preserving its ancient heritage and welcoming international visitors.",
     },
     facts: {
       de: [
@@ -118,38 +90,10 @@ export const poiExtraLaosCitiesV2: POI[] = [
       ]
     },
     factsAdvanced: {
-      en: [
-        "Former royal capital located at the confluence of the Nam Khan and Mekong rivers.",
-        "Designated a UNESCO World Heritage site in 1995 for its architectural preservation.",
-        "Famous for Mount Phousi, a 100-meter high hill in the center with a hilltop temple.",
-        "Kuang Si Falls, a three-tiered waterfall with turquoise pools, is located nearby.",
-        "The morning alms giving ceremony involves hundreds of monks collecting food.",
-        "Houses the Royal Palace Museum, built in 1904 during the French colonial era."
-      ],
-      de: [
-        "Ehemalige königliche Hauptstadt am Zusammenfluss von Nam Khan und Mekong.",
-        "Wurde 1995 wegen ihrer architektonischen Erhaltung zum UNESCO-Weltkulturerbe erklärt.",
-        "Berühmt für den Mount Phousi, einen 100 Meter hohen Hügel mit einem Tempel.",
-        "Die Kuang Si Wasserfälle mit ihren türkisfarbenen Becken liegen in der Nähe.",
-        "An der morgendlichen Almosengabe nehmen Hunderte von Mönchen teil.",
-        "Beherbergt das Royal Palace Museum, das 1904 erbaut wurde."
-      ],
-      hu: [
-        "Egykori királyi főváros a Nam Khan és a Mekong folyók összefolyásánál.",
-        "1995-ben építészeti öröksége miatt az UNESCO Világörökség része lett.",
-        "Híres a Phousi-hegyről, egy 100 méter magas dombról a városközpontban.",
-        "A Kuang Si-vízesés türkizkék medencéivel a közelben található.",
-        "A reggeli alamizsnaosztáson szerzetesek százai gyűjtenek élelmet.",
-        "Itt található az 1904-ben épült Királyi Palota Múzeum is."
-      ],
-      ro: [
-        "Fostă capitală regală situată la confluența râurilor Nam Khan și Mekong.",
-        "Desemnată sit al Patrimoniului Mondial UNESCO în 1995 pentru arhitectura sa.",
-        "Renumită pentru Muntele Phousi, un deal de 100 de metri cu un templu în vârf.",
-        "Cascadele Kuang Si, cu bazinele lor turcoaz, se află în apropiere.",
-        "Ceremonia matinală de pomană implică sute de călugări care colectează hrană.",
-        "Găzduiește Muzeul Palatului Regal, construit în 1904 în epoca colonială."
-      ]
+      de: ["UNESCO-Weltkulturerbe seit dem Jahr 1995", "Ehemalige Hauptstadt bis zum Jahr 1975", "Zusammenfluss von Mekong und Nam Khan", "Wat Xieng Thong wurde im Jahr 1560 erbaut", "Berg Phousi bietet Aussicht aus 100m Höhe", "Sitz des Königspalastmuseums (Baujahr 1904)"],
+      hu: ["Az UNESCO Világörökség része 1995 óta", "Laosz királyi fővárosa volt 1975-ig", "A Mekong és a Nam Khan összefolyásánál fekszik", "A Wat Xieng Thong templom 1560-ban épült", "A Phousi-hegy 100 méterrel magasodik a város fölé", "A Királyi Palota Múzeum 1904-ben épült"],
+      ro: ["Patrimoniu Mondial UNESCO din anul 1995", "Fosta capitală regală până în anul 1975", "Situat la confluența Mekong și Nam Khan", "Templul Wat Xieng Thong construit în 1560", "Muntele Phousi are o înălțime de 100 metri", "Muzeul Palatului Regal construit în 1904"],
+      en: ["UNESCO World Heritage site since the year 1995", "Former royal capital of Laos until 1975", "Located at confluence of Mekong and Nam Khan", "Wat Xieng Thong temple was built in 1560", "Mount Phousi rises 100 meters above the town", "Home to the Royal Palace Museum (built 1904)"],
     }, image: "/poi-images/luang-prabang-cities-v2.webp"},
   {
     id: "pakse-cities-v2",
@@ -244,10 +188,10 @@ export const poiExtraLaosCitiesV2: POI[] = [
       en: "Savannakhet, also known as Kaysone Phomvihane, is the second-largest city in Laos. It is known for its historic architecture and the Savan-Vegas Casino."
     },
     descriptionAdvanced: {
-      de: "Savannakhet, offiziell Kaysone Phomvihane nach dem im Ort geborenen Revolutionsführer benannt, ist die Hauptstadt der gleichnamigen Provinz und mit rund 125.000 Einwohnern eine der bevölkerungsreichsten Städte des Landes. Sie liegt am Mekong gegenüber der thailändischen Stadt Mukdahan und ist über die zweite Lao-Thai-Freundschaftsbrücke direkt mit dem thailändischen Straßennetz verbunden. Der historische Stadtkern bewahrt französische Kolonialvillen, ein altes Postamt, eine katholische Kathedrale und einen ruhigen Tempelbezirk um den Wat Sainyaphum. Die Stadt ist ein wichtiges Zentrum des Ost-West-Wirtschaftskorridors, der Thailand, Laos und Vietnam verbindet, und beherbergt Sonderwirtschaftszonen sowie eine wachsende Industrieproduktion.",
-      hu: "Savannakhet, hivatalos nevén Kaysone Phomvihane a városban született forradalmi vezető után elnevezve, a hasonló nevű tartomány székhelye és mintegy 125 ezer lakosával az ország egyik legnépesebb városa. A Mekong partján fekszik, a thaiföldi Mukdahannal szemben, és a második Lao-Thai Barátság-hídon keresztül közvetlenül kapcsolódik a thaiföldi úthálózathoz. Történelmi belvárosában máig állnak francia gyarmati villák, a régi postapalota, egy katolikus székesegyház és a Vat Szainyaphum köré szerveződő csendes templomnegyed. A város fontos állomása a Thaiföldet, Laoszt és Vietnámot összekötő kelet-nyugati gazdasági folyosónak, különleges gazdasági övezetekkel és fejlődő ipari termeléssel.",
-      ro: "Savannakhet, numită oficial Kaysone Phomvihane după liderul revoluționar născut aici, este capitala provinciei omonime și, cu aproximativ 125.000 de locuitori, unul dintre cele mai populate orașe ale țării. Este situată pe malul Mekongului, vizavi de orașul thailandez Mukdahan, și este legată direct de rețeaua rutieră a Thailandei prin al doilea pod al prieteniei lao-thailandeze. Centrul istoric păstrează vile coloniale franceze, vechiul oficiu poștal, o catedrală catolică și un cartier liniștit al templelor în jurul Wat Sainyaphum. Orașul este un nod important al coridorului economic est-vest care leagă Thailanda, Laos și Vietnam, găzduind zone economice speciale și o producție industrială în creștere.",
-      en: "Savannakhet, officially renamed Kaysone Phomvihane after the revolutionary leader born here, is the capital of the province of the same name and, with around 125,000 inhabitants, one of the most populous cities in the country. It lies on the Mekong opposite the Thai town of Mukdahan and is linked directly to the Thai road network by the Second Thai-Lao Friendship Bridge. The historic core preserves French colonial villas, the former post office, a Catholic cathedral and a quiet temple quarter around Wat Sainyaphum. The city is a key node on the East-West Economic Corridor connecting Thailand, Laos and Vietnam, hosting special economic zones and a growing manufacturing sector that draws investors from across the region."
+      de: "Savannakhet, offiziell als Kaysone Phomvihane bekannt, ist die zweitgrößte Stadt von Laos und dient als Hauptstadt der gleichnamigen Provinz im Süden des Landes. Die Stadt liegt strategisch günstig am Mekong, direkt gegenüber der thailändischen Stadt Mukdahan, und ist durch die Zweite Thailändisch-Laotische Freundschaftsbrücke mit dem Nachbarland verbunden. Savannakhet hat eine reiche Geschichte, die bis in die Zeit des Lan-Xang-Reiches zurückreicht, erlebte jedoch unter französischer Kolonialherrschaft im späten 19. und frühen 20. Jahrhundert eine bedeutende bauliche Entwicklung. Das französische Viertel mit seinen gut erhaltenen Kolonialgebäuden verleiht der Stadt einen einzigartigen architektonischen Charme. Ein kulturelles Highlight ist der Wat Sayaphum, ein prachtvoller Tempel aus dem 16. Jahrhundert, der als wichtigstes religiöses Zentrum der Region gilt. Wissenschaftlich bedeutsam ist die Region auch durch Funde von Dinosaurierfossilien in der nahegelegenen Ausgrabungsstätte Tang Vay. Heute ist Savannakhet ein wichtiger Handelsknotenpunkt und ein Zentrum für die verarbeitende Industrie in Laos.",
+      hu: "Savannakhet, hivatalos nevén Kaysone Phomvihane, Laosz második legnagyobb városa és az azonos nevű tartomány székhelye az ország déli részén. A város stratégiai elhelyezkedése a Mekong partján, közvetlenül a thaiföldi Mukdahannal szemben, kiemelt kereskedelmi szerepet biztosít számára, amit a 2006-ban átadott Második Thai-Laoszi Barátság Híd is megerősít. A település múltja a Lan Xang királyság idejére nyúlik vissza, de jelentős fejlődésen a 19. század végén ment keresztül a francia gyarmati igazgatás alatt. A történelmi negyedben máig látható francia koloniális épületek különleges hangulatot árasztanak és fontos építészeti emléket képviselnek. A város vallási életének központja az 1542-ben alapított Wat Sayaphum templom, amely a környék legfontosabb buddhista szentélye. A régió tudományos szempontból is érdekes, hiszen a közeli Tang Vay területén jelentős dinoszaurusz-leleteket tártak fel. Savannakhet ma Laosz egyik legfontosabb gazdasági és logisztikai központja, amely összeköti Vietnamot és Thaiföldet az országon keresztül.",
+      ro: "Savannakhet, cunoscut oficial sub numele de Kaysone Phomvihane, este al doilea oraș ca mărime din Laos și capitala provinciei cu același nume din sudul țării. Orașul este situat strategic pe malul fluviului Mekong, vizavi de orașul thailandez Mukdahan, fiind legat de acesta prin al doilea Pod al Prieteniei Thai-Laos. Savannakhet are o istorie bogată ce datează din perioada regatului Lan Xang, dar a cunoscut o dezvoltare urbană semnificativă sub administrația colonială franceză la sfârșitul secolului al XIX-lea. Cartierul francez, cu clădirile sale coloniale bine conservate, oferă orașului un farmec arhitectural unic în regiune. Un punct de atracție culturală major este Wat Sayaphum, un templu magnific din secolul al XVI-lea, care servește drept centru religios principal al comunității. Regiunea este importantă și din punct de vedere științific datorită descoperirii unor fosile de dinozaur în situl arheologic Tang Vay din apropiere. Astăzi, Savannakhet este un nod comercial vital și un centru important pentru industria prelucrătoare din Laos.",
+      en: "Savannakhet, officially known as Kaysone Phomvihane, is the second largest city in Laos and serves as the capital of the province of the same name in the southern part of the country. Strategically located on the Mekong River directly opposite the Thai city of Mukdahan, it is connected to its neighbor by the Second Thai-Lao Friendship Bridge. The city has a deep history dating back to the Lan Xang era, but it saw significant urban expansion under French colonial rule in the late 19th and early 20th centuries. The French Quarter, with its well-preserved colonial-era buildings, gives the city a unique architectural character unlike other parts of Laos. A major cultural landmark is Wat Sayaphum, a grand temple founded in 1542 that remains the most important religious center in the region. The area is also scientifically significant due to the discovery of dinosaur fossils in the nearby Tang Vay excavation site. Today, Savannakhet is a crucial trade hub and a center for manufacturing, playing a key role in the economic corridor connecting Vietnam and Thailand.",
     },
     facts: {
       de: [
@@ -268,38 +212,10 @@ export const poiExtraLaosCitiesV2: POI[] = [
       ]
     },
     factsAdvanced: {
-      en: [
-        "Also known as Kaysone Phomvihane, it is the second-largest city in Laos.",
-        "The city's historical name translates to 'City of Gold'.",
-        "Features a well-preserved historic quarter with French colonial architecture.",
-        "The Second Thai-Lao Friendship Bridge connects it directly to Thailand.",
-        "That Inhang Stupa is an important sacred Buddhist site located nearby.",
-        "The local Dinosaur Museum exhibits fossils discovered in the province."
-      ],
-      de: [
-        "Auch als Kaysone Phomvihane bekannt, ist es die zweitgrößte Stadt in Laos.",
-        "Der historische Name der Stadt lässt sich mit 'Stadt des Goldes' übersetzen.",
-        "Verfügt über ein gut erhaltenes historisches Viertel mit Kolonialarchitektur.",
-        "Die Zweite Thailändisch-Laotische Freundschaftsbrücke verbindet sie mit Thailand.",
-        "Der That Inhang Stupa ist eine wichtige heilige buddhistische Stätte.",
-        "Das lokale Dinosauriermuseum stellt in der Provinz entdeckte Fossilien aus."
-      ],
-      hu: [
-        "Kaysone Phomvihane néven is ismert, Laosz második legnagyobb városa.",
-        "A város történelmi nevének jelentése 'Az arany városa'.",
-        "Jól megőrzött történelmi negyeddel és francia gyarmati építészettel büszkélkedhet.",
-        "A Második Thai-Lao Barátság Hídja közvetlenül köti össze Thaifölddel.",
-        "A That Inhang sztúpa egy fontos szent buddhista hely a közelben.",
-        "A helyi Dinoszaurusz Múzeum a tartományban talált kövületeket mutatja be."
-      ],
-      ro: [
-        "Cunoscut și sub numele de Kaysone Phomvihane, este al doilea oraș ca mărime.",
-        "Numele istoric al orașului se traduce prin 'Orașul de Aur'.",
-        "Prezintă un cartier istoric bine conservat, cu arhitectură colonială franceză.",
-        "Al Doilea Pod al Prieteniei Thai-Lao îl conectează direct la Thailanda.",
-        "Stupa That Inhang este un important sit sacru budist din apropiere.",
-        "Muzeul local al dinozaurilor expune fosile descoperite în provincie."
-      ]
+      de: ["Offiziell nach Kaysone Phomvihane benannt", "Zweitgrößte Stadt der Demokratischen Volksrepublik Laos", "Dinosaurierfossilien in Tang Vay entdeckt", "Zweite Freundschaftsbrücke wurde im Jahr 2006 eröffnet", "Wat Sayaphum wurde bereits im Jahr 1542 gegründet", "Gut erhaltenes französisches Kolonialviertel im Zentrum"],
+      hu: ["Hivatalos neve Kaysone Phomvihane 2005 óta", "Laosz második legnépesebb városa", "Dinoszaurusz-fosszíliákat találtak Tang Vay mellett", "A Második Barátság Hidat 2006-ban adták át", "A Wat Sayaphum templomot 1542-ben alapították", "Jelentős francia gyarmati építészeti negyed"],
+      ro: ["Redenumit oficial Kaysone Phomvihane în 2005", "Al doilea cel mai populat oraș din Laos", "Fosile de dinozaur descoperite la Tang Vay", "Al doilea Pod al Prieteniei deschis în anul 2006", "Templul Wat Sayaphum fondat în anul 1542", "Centru istoric cu arhitectură colonială franceză"],
+      en: ["Officially renamed Kaysone Phomvihane in 2005", "Second largest city in the country of Laos", "Dinosaur fossils discovered in nearby Tang Vay", "Second Friendship Bridge opened in the year 2006", "Wat Sayaphum temple was founded in 1542", "Contains a well-preserved French colonial quarter"],
     }, image: "/poi-images/savannakhet-cities-v2.webp"},
   {
     id: "thakhek-cities-v2",
@@ -319,10 +235,10 @@ export const poiExtraLaosCitiesV2: POI[] = [
       en: "Thakhek is located on the Mekong opposite the Thai city of Nakhon Phanom. The city is a starting point for cave explorations."
     },
     descriptionAdvanced: {
-      de: "Thakhek ist die Hauptstadt der Provinz Khammouane und liegt am Mekong gegenüber der thailändischen Stadt Nakhon Phanom, mit der sie seit 2011 über die dritte Lao-Thai-Freundschaftsbrücke verbunden ist. Die Stadt entwickelte sich aus einem alten Khmer- und später laotischen Handelsplatz und besitzt einen kleinen, gut erhaltenen Kern mit französischen Kolonialgebäuden rund um den zentralen Springbrunnenplatz. Berühmt ist Thakhek vor allem als Ausgangspunkt der „Thakhek Loop“, einer rund 450 Kilometer langen Motorradrunde durch eine spektakuläre Karstlandschaft mit Höhlen wie Tham Kong Lor, einer rund sieben Kilometer langen Flusshöhle, die mit dem Boot durchquert werden kann, und Hochebenen.",
-      hu: "Thakhek Khammouane tartomány székhelye, és a Mekong partján fekszik a thaiföldi Nakhon Phanom várossal szemben, amellyel 2011 óta a harmadik Lao-Thai Barátság-híd köti össze. A település egy régi khmer, majd lao kereskedőhelyből fejlődött, és kicsi, jól megőrzött magjában francia gyarmati épületek sorakoznak a központi szökőkutas tér körül. Thakhek legfőbb hírnevét a Thakhek Loop adja, egy nagyjából 450 kilométer hosszú motoros körút, amely látványos karsztvidéken halad keresztül, érintve olyan barlangokat, mint a Tham Kong Lor, egy közel hét kilométeres föld alatti folyóbarlang, amelyet csónakkal lehet bejárni, valamint magas fennsíkokat és apró lao falvakat.",
-      ro: "Thakhek este capitala provinciei Khammouane și se află pe malul Mekongului, vizavi de orașul thailandez Nakhon Phanom, de care este legată din 2011 prin al treilea pod al prieteniei lao-thailandeze. Orașul s-a dezvoltat dintr-un vechi punct comercial khmer și apoi laoțian și păstrează un mic centru bine conservat, cu clădiri coloniale franceze grupate în jurul unei piețe centrale cu fântână arteziană. Thakhek este celebru mai ales ca punct de plecare al traseului Thakhek Loop, o buclă motociclistică de aproximativ 450 de kilometri printr-un peisaj carstic spectaculos, cu peșteri precum Tham Kong Lor, o galerie subterană de aproape șapte kilometri ce poate fi parcursă cu barca, și platouri înalte.",
-      en: "Thakhek is the capital of Khammouane Province and sits on the Mekong opposite the Thai town of Nakhon Phanom, to which it has been linked since 2011 by the Third Thai-Lao Friendship Bridge. The town grew out of an old Khmer and later Lao trading post and preserves a compact, well-kept centre of French colonial buildings around its main fountain square. Thakhek is best known as the starting point of the Thakhek Loop, a roughly 450-kilometre motorbike circuit that winds through a spectacular karst landscape, taking in caves such as Tham Kong Lor, a seven-kilometre underground river cave traversed by boat, and remote upland villages of various Lao ethnic groups."
+      de: "Thakhek ist die Hauptstadt der Provinz Khammouane im zentralen Laos und liegt am Ostufer des Mekong gegenüber der thailändischen Stadt Nakhon Phanom. Die Stadt ist ein bedeutendes Tor zum südlichen Laos und bekannt für ihre gut erhaltene Architektur aus der französischen Kolonialzeit, die sich vor allem rund um den zentralen Platz konzentriert. Thakhek wurde während der französischen Ära als wichtiges Handelszentrum ausgebaut, was sich heute noch in den alten Verwaltungsgebäuden und Villen widerspiegelt. Seit 2011 ist die Stadt über die Dritte Thailändisch-Laotische Freundschaftsbrücke mit Thailand verbunden, was den grenzüberschreitenden Handel und Tourismus erheblich gestärkt hat. Für Reisende ist Thakhek vor allem als Ausgangspunkt für den berühmten \"Thakhek Loop\" bekannt, eine mehrtägige Motorradroute durch die spektakuläre Karstlandschaft der Region. Die Umgebung beherbergt beeindruckende Höhlensysteme, darunter die berühmte Kong-Lor-Höhle mit ihrem unterirdischen Fluss. Kulturell ist der Wat Sikhotabong von großer Bedeutung, eine der heiligsten Stätten in Laos, die auf das 6. Jahrhundert zurückgehen soll.",
+      hu: "Thakhek Laosz középső részén, a Khammouane tartomány székhelyeként fekszik a Mekong folyó partján, szemben a thaiföldi Nakhon Phanom várossal. A település nevét leginkább a francia gyarmati múltja és az abból fennmaradt építészeti öröksége határozza meg, amely a főtér környékén összpontosul. A 19. század végén és a 20. század elején Thakhek fontos kereskedelmi és közigazgatási csomópont volt, aminek emlékeit a mai napig őrzik a kopottas, de elegáns koloniális villák. A város 2011 óta a Harmadik Thai-Laoszi Barátság Hídon keresztül közvetlen összeköttetésben áll Thaifölddel, ami fellendítette a helyi gazdaságot. A turisták körében Thakhek elsősorban a \"Thakhek Loop\" nevű motoros túraútvonal kiindulópontjaként népszerű, amely a környék drámai karsztvidékén vezet keresztül. A közeli mészkőhegyekben számos barlang található, köztük a 7,5 kilométer hosszú Kong Lor-barlang, amely földalatti folyójáról híres. A város szélén álló Wat Sikhotabong sztúpa az ország egyik legfontosabb vallási emlékhelye, amelynek alapjai a 6. századból származnak.",
+      ro: "Thakhek este capitala provinciei Khammouane din centrul Laosului, situată pe malul estic al fluviului Mekong, vizavi de orașul thailandez Nakhon Phanom. Orașul este recunoscut pentru arhitectura sa colonială franceză bine conservată, care se concentrează în special în jurul pieței centrale, oferind o fereastră spre trecutul său administrativ. Thakhek s-a dezvoltat ca un centru comercial important în timpul epocii coloniale, clădirile vechi și vilele de atunci păstrând încă un farmec istoric aparte. Din anul 2011, orașul este conectat de Thailanda prin al treilea Pod al Prieteniei Thai-Laos, facilitând schimburile comerciale și fluxul de turiști. Pentru călători, Thakhek este faimos ca punct de plecare pentru „Thakhek Loop”, un traseu popular pentru motociclete prin peisajele carstice spectaculoare ale regiunii. Împrejurimile adăpostesc sisteme de peșteri impresionante, inclusiv celebra peșteră Kong Lor, prin care trece un râu subteran navigabil. Din punct de vedere spiritual, stupa Wat Sikhotabong este unul dintre cele mai sacre locuri din Laos, cu rădăcini care datează din secolul al VI-lea.",
+      en: "Thakhek is the capital of Khammouane Province in central Laos, situated on the eastern bank of the Mekong River opposite the Thai city of Nakhon Phanom. The town is notable for its well-preserved French colonial architecture, particularly centered around its main plaza, reflecting its history as an administrative hub during the colonial era. Thakhek was expanded in the late 19th and early 20th centuries to facilitate trade along the Mekong, leaving behind a legacy of elegant, albeit aged, villas and public buildings. Since 2011, it has been linked to Thailand by the Third Thai-Lao Friendship Bridge, which has significantly boosted the local economy and regional connectivity. For travelers, Thakhek is best known as the starting point for the 'Thakhek Loop,' a popular multi-day motorbike journey through the region's dramatic limestone karst landscapes. The surrounding area is home to numerous caves, most notably the massive Kong Lor Cave, which features a 7.5-kilometer underground river. Culturally, the town is anchored by Wat Sikhotabong, one of the most sacred Buddhist sites in Laos with foundations dating back to the 6th century.",
     },
     facts: {
       de: [
@@ -343,38 +259,10 @@ export const poiExtraLaosCitiesV2: POI[] = [
       ]
     },
     factsAdvanced: {
-      en: [
-        "Located on the Mekong River, directly opposite the Thai town of Nakhon Phanom.",
-        "Known for its restored French colonial-era shophouses around the old square.",
-        "A popular starting point for the Thakhek Loop, a famous motorcycle route.",
-        "Nearby Kong Lor Cave is a massive karst limestone cave navigable by boat.",
-        "The surrounding area features dramatic karst rock formations and peaks.",
-        "Founded as a colonial outpost, it served as a major regional trading hub."
-      ],
-      de: [
-        "Liegt am Mekong, direkt gegenüber der thailändischen Stadt Nakhon Phanom.",
-        "Bekannt für seine restaurierten Kolonialhäuser rund um den alten Platz.",
-        "Ein beliebter Ausgangspunkt für den Thakhek Loop, eine Motorradroute.",
-        "Die nahegelegene Kong Lor Höhle ist eine riesige, mit dem Boot befahrbare Karsthöhle.",
-        "Die Umgebung bietet dramatische Karstfelsformationen und Gipfel.",
-        "Gegründet als kolonialer Außenposten, diente es als wichtiges Handelszentrum."
-      ],
-      hu: [
-        "A Mekong folyó partján fekszik, szemben a thai Nakhon Phanom városával.",
-        "A régi tér körüli felújított francia gyarmati üzletházairól ismert.",
-        "A híres Thakhek Loop motorkerékpáros útvonal népszerű kiindulópontja.",
-        "A közeli Kong Lor egy hatalmas, csónakkal hajózható mészkőbarlang.",
-        "A környéket drámai karszt sziklaalakzatok és hegycsúcsok jellemzik.",
-        "Gyarmati előőrsként alapították, a régió egyik fő kereskedelmi központja volt."
-      ],
-      ro: [
-        "Situat pe râul Mekong, exact vizavi de orașul thailandez Nakhon Phanom.",
-        "Cunoscut pentru clădirile comerciale din epoca colonială franceză.",
-        "Un punct de plecare popular pentru Thakhek Loop, un traseu de motociclete.",
-        "Peștera Kong Lor din apropiere este o cavernă de calcar navigabilă cu barca.",
-        "Zona înconjurătoare prezintă formațiuni stâncoase și vârfuri carstice.",
-        "Fondat ca avanpost colonial, a servit ca un important centru comercial regional."
-      ]
+      de: ["Hauptstadt der zentralen Provinz Khammouane", "Dritte Freundschaftsbrücke wurde im Jahr 2011 eröffnet", "Gegenüber der thailändischen Stadt Nakhon Phanom", "Tor zur 7,5 km langen Kong-Lor-Höhle", "Bekannt für die mehrtägige Motorrad-Rundreise", "Enthält zahlreiche französische Verwaltungsbauten"],
+      hu: ["Khammouane tartomány közigazgatási központja", "A Harmadik Barátság Hidat 2011-ben nyitották meg", "Szemben fekszik Nakhon Phanom thaiföldi várossal", "Bejárat a 7,5 km hosszú Kong Lor-barlanghoz", "A híres Thakhek Loop motoros túra kiindulópontja", "Számos 20. századi francia kormányzati épület"],
+      ro: ["Capitala provinciei centrale Khammouane", "Al treilea Pod al Prieteniei deschis în anul 2011", "Situat vizavi de orașul Nakhon Phanom din Thailanda", "Poarta către peștera Kong Lor lungă de 7,5 km", "Punct de pornire pentru celebrul Thakhek Loop", "Găzduiește numeroase clădiri administrative franceze"],
+      en: ["Capital of the central province of Khammouane", "Third Friendship Bridge opened in the year 2011", "Located opposite Nakhon Phanom city in Thailand", "Gateway to the 7.5 km long Kong Lor Cave", "Start of the multi-day Thakhek Loop motorbike route", "Features many surviving French administrative buildings"],
     }, image: "/poi-images/thakhek-cities-v2.webp"},
   {
     id: "vang-vieng-cities-v2",
@@ -394,10 +282,10 @@ export const poiExtraLaosCitiesV2: POI[] = [
       en: "Vang Vieng is a small town north of Vientiane. It is surrounded by impressive karst mountains and is a popular destination for backpackers."
     },
     descriptionAdvanced: {
-      de: "Vang Vieng ist eine Kleinstadt am Fluss Nam Song, etwa 150 Kilometer nördlich von Vientiane an der Nationalstraße 13. Sie liegt eingebettet in eine Karstlandschaft aus steil aufragenden Kalksteinbergen, Reisterrassen und tropischen Wäldern, die zu den eindrucksvollsten Naturpanoramen Südostasiens zählt. Während des Vietnamkriegs befand sich hier eine US-amerikanische Landebahn mit der Kennung „Lima Site 6“. Ab den späten 1990er-Jahren entwickelte sich der Ort zu einem berüchtigten Backpacker-Mekka mit „Tubing“ auf dem Fluss und Strandbars. Seit den 2010er-Jahren wandelt sich Vang Vieng zu einem familienfreundlicheren Outdoor-Ziel mit Heißluftballonen, Höhlentouren, Klettergärten, Zip-Lines, Fahrradtouren.",
-      hu: "Vang Vieng kisváros a Nam Szong folyó partján, mintegy 150 kilométerre északra Vientiántól, a 13-as főút mentén. Meredeken kiemelkedő mészkőhegyek, rizsteraszok és trópusi erdők övezte karsztvidékbe ágyazódik, amely Délkelet-Ázsia egyik leglátványosabb természeti panorámája. A vietnámi háború idején itt működött egy amerikai leszállópálya „Lima Site 6” néven. Az 1990-es évek végétől hírhedt hátizsákos turistaközponttá vált, ahol a folyón „tubing” és parti bárok várták az utazókat. A 2010-es évek óta Vang Vieng egyre inkább családbarát szabadtéri célponttá alakul, ahol hőlégballon-repülés, barlangtúrák, sziklamászás, zip-line, kerékpártúrák és lao falulátogatások közül lehet választani.",
-      ro: "Vang Vieng este un orășel pe malul râului Nam Song, la aproximativ 150 de kilometri nord de Vientiane, pe drumul național 13. Este înconjurat de un peisaj carstic format din munți abrupți de calcar, terase de orez și păduri tropicale, considerat una dintre cele mai spectaculoase panorame naturale din Asia de Sud-Est. În timpul războiului din Vietnam, aici se afla o pistă de aterizare americană cunoscută drept „Lima Site 6”. De la sfârșitul anilor 1990, localitatea a devenit un cunoscut centru pentru turismul de tip backpacker, cu plimbări pe râu în „tubing” și baruri pe nisip. Din anii 2010, Vang Vieng se transformă într-o destinație de aventură mai prietenoasă pentru familii, cu zboruri cu balonul, peșteri, escaladă, tiroliene și tururi cu bicicleta.",
-      en: "Vang Vieng is a small town on the Nam Song River, about 150 kilometres north of Vientiane along National Route 13. It is set within a karst landscape of sheer limestone peaks, paddy fields and tropical forest that ranks among the most striking natural panoramas in Southeast Asia. During the Vietnam War the village hosted a small US airstrip known as Lima Site 6. From the late 1990s onwards Vang Vieng became notorious as a backpacker hub built around river tubing and beach bars. Since the 2010s the town has been steadily reinventing itself as a more family-oriented outdoor destination, offering hot-air balloon rides, cave tours, climbing routes, zip lines, cycling trails and visits to surrounding Lao and Hmong villages."
+      de: "Vang Vieng ist eine Kleinstadt in der Provinz Vientiane im Zentrum von Laos und liegt am Ufer des Flusses Nam Song. Bekannt ist der Ort vor allem für seine atemberaubende Karstlandschaft mit zerklüfteten Kalksteinfelsen, die das Stadtbild dominieren. Ursprünglich eine kleine bäuerliche Siedlung, entwickelte sich Vang Vieng in den 1990er und 2000er Jahren zu einem Hotspot für Rucksacktouristen, was jedoch zu erheblichen sozialen Problemen führte. Nach einem staatlichen Durchgreifen im Jahr 2012 hat sich die Stadt zu einem seriösen Zentrum für Abenteuertourismus und Ökotourismus gewandelt. Heute zieht sie Besucher an, die Aktivitäten wie Kajakfahren, Heißluftballonfahrten und Klettern in einer naturbelassenen Umgebung suchen. In der Umgebung befinden sich zahlreiche Höhlen, wie die Tham Jang, die im 19. Jahrhundert als Zufluchtsort vor Plünderern diente. Auch die \"Blauen Lagunen\" der Region sind beliebte Ausflugsziele für Touristen. Die Stadt hat es geschafft, ihre natürliche Schönheit zu bewahren und gleichzeitig eine moderne Infrastruktur für internationale Reisende aufzubauen.",
+      hu: "Vang Vieng egy kisváros Laosz középső részén, Vientiane tartományban, a Nam Song folyó partján. A település hírnevét elsősorban a drámai karsztvidéknek köszönheti, ahol meredek mészkőhegyek emelkednek ki a rizsföldek közül. A korábban jelentéktelen mezőgazdasági falu az 1990-es évektől kezdve vált népszerűvé a hátizsákos turisták körében, ami a 2000-es évek közepére komoly társadalmi feszültségekhez vezetett. A laoszi kormány 2012-es szigorú fellépése után a város arculata megváltozott, és ma már az ökoturizmus és a fenntartható kalandturizmus egyik központja. A látogatók a lenyűgöző természet mellett kajakozhatnak a folyón, hőlégballonozhatnak vagy felfedezhetik a környék számtalan barlangját. A Tham Jang barlang történelmi jelentőségű, hiszen a 19. században a helyiek itt kerestek menedéket a betörő seregek elől. A település környékén található kék lagúnák népszerű fürdőhelyek a meleg trópusi éghajlaton. Vang Vieng ma Laosz egyik leglátogatottabb vidéki célpontja, amely sikeresen ötvözi a természeti értékeket a modern turisztikai szolgáltatásokkal.",
+      ro: "Vang Vieng este un oraș mic din provincia Vientiane, situat în centrul Laosului, pe malul râului Nam Song. Orașul este faimos la nivel mondial pentru peisajele sale carstice uluitoare, cu formațiuni de calcar abrupte care domină orizontul. Inițial o comunitate agricolă modestă, Vang Vieng a devenit în anii 1990 și 2000 un punct central pentru turismul de rucsac, ceea ce a dus la o transformare rapidă și uneori controversată. După o intervenție guvernamentală în 2012, orașul și-a schimbat direcția, concentrându-se acum pe ecoturism și activități de aventură sustenabile. Astăzi, turiștii vin aici pentru caiac, zboruri cu balonul cu aer cald, alpinism și drumeții în natură. Regiunea abundă în peșteri impresionante, cum ar fi Tham Jang, care a servit drept refugiu pentru populația locală în timpul invaziilor din secolul al XIX-lea. Celebrele „Lagune Albastre” din apropiere sunt, de asemenea, atracții populare pentru înot. Vang Vieng rămâne una dintre cele mai spectaculoase destinații naturale din Laos, reușind să ofere facilități moderne într-un cadru peisagistic autentic.",
+      en: "Vang Vieng is a small town in Vientiane Province, central Laos, situated along the Nam Song River. It is globally renowned for its breathtaking karst landscape, characterized by dramatic limestone mountains rising sharply from the surrounding rice paddies. Originally a quiet agricultural village, Vang Vieng underwent a massive tourism boom starting in the 1990s, becoming a major hub for international backpackers. Following a significant government crackdown in 2012 to improve safety and environmental standards, the town has rebranded itself as a center for high-quality ecotourism and adventure activities. Visitors today enjoy kayaking, rock climbing, hot air ballooning, and exploring the many caves hidden within the limestone cliffs. Tham Jang cave is historically significant as it was used as a refuge by locals during 19th-century invasions. The region's 'Blue Lagoons' are also popular spots for swimming and relaxation. Vang Vieng successfully combines natural grandeur with a developing hospitality sector, making it a key destination for nature lovers in Southeast Asia.",
     },
     facts: {
       de: [
@@ -418,38 +306,10 @@ export const poiExtraLaosCitiesV2: POI[] = [
       ]
     },
     factsAdvanced: {
-      en: [
-        "Situated on the Nam Song River and surrounded by striking limestone karst mountains.",
-        "Originally served as a staging post between Vientiane and Luang Prabang.",
-        "Tham Phu Kham cave features a bronze reclining Buddha and a blue lagoon.",
-        "Known for outdoor activities like kayaking, rock climbing, and hot air ballooning.",
-        "Has transitioned from a backpacker party town to an eco-tourism destination.",
-        "Several organic farms in the area produce mulberry tea and local wine."
-      ],
-      de: [
-        "Gelegen am Fluss Nam Song und umgeben von markanten Kalksteinkarstbergen.",
-        "Diente ursprünglich als Zwischenstation zwischen Vientiane und Luang Prabang.",
-        "Die Höhle Tham Phu Kham beherbergt einen liegenden Buddha und eine blaue Lagune.",
-        "Bekannt für Outdoor-Aktivitäten wie Kajakfahren, Klettern und Ballonfahrten.",
-        "Hat sich von einer Backpacker-Partystadt zu einem Ökotourismus-Ziel entwickelt.",
-        "Mehrere Bio-Bauernhöfe in der Umgebung produzieren Maulbeertee und lokalen Wein."
-      ],
-      hu: [
-        "A Nam Song folyó partján fekszik, látványos mészkőkarszt hegyekkel övezve.",
-        "Eredetileg Vientiane és Luang Prabang közötti pihenőállomásként szolgált.",
-        "A Tham Phu Kham barlang egy fekvő Buddhát és egy kék lagúnát is rejt.",
-        "Olyan szabadtéri tevékenységekről ismert, mint a kajakozás és a sziklamászás.",
-        "Hátizsákos partivárosból fokozatosan ökoturisztikai célponttá alakult.",
-        "A környéken számos biogazdaság termel eperfateát és helyi bort."
-      ],
-      ro: [
-        "Situat pe râul Nam Song și înconjurat de munți de calcar carstic impresionanți.",
-        "A servit inițial ca popas între Vientiane și Luang Prabang.",
-        "Peștera Tham Phu Kham prezintă un Buddha culcat din bronz și o lagună albastră.",
-        "Cunoscut pentru activități în aer liber precum caiacul și alpinismul.",
-        "A evoluat dintr-un oraș de petrecere pentru backpackeri într-o destinație ecoturistică.",
-        "Mai multe ferme organice din zonă produc ceai de dud și vin local."
-      ]
+      de: ["Gelegen am Ufer des Nam-Song-Flusses", "Berühmt für die markanten Karstfelsen", "Einwohnerzahl liegt bei ca. 25.000 Personen", "Tham-Jang-Höhle diente im 19. Jh. als Versteck", "Seit dem Jahr 2012 Zentrum für Ökotourismus", "Blaue Lagunen sind beliebte Badeorte"],
+      hu: ["A Nam Song folyó partján fekvő település", "Híres a drámai mészkő karsztformációkról", "Lakossága körülbelül 25 ezer fő", "A Tham Jang barlang menedék volt a 19. században", "2012 óta az ökoturizmus kiemelt központja", "A Kék Lagúnák kedvelt turisztikai fürdőhelyek"],
+      ro: ["Situat pe malul râului Nam Song", "Renumit pentru formațiunile carstice dramatice", "Populație de aproximativ 25.000 de locuitori", "Peștera Tham Jang a fost refugiu în sec. XIX", "Centru de ecoturism începând cu anul 2012", "Lagunele Albastre sunt locuri populare de înot"],
+      en: ["Located on the banks of the Nam Song River", "Famous for dramatic limestone karst formations", "Population of approximately 25,000 people", "Tham Jang cave used as a refuge in the 19th century", "Ecotourism hub since the major reforms of 2012", "Home to multiple Blue Lagoons used for swimming"],
     }, image: "/poi-images/vang-vieng-cities-v2.webp"},
   {
     id: "phonsavan-cities-v2",
@@ -619,10 +479,10 @@ export const poiExtraLaosCitiesV2: POI[] = [
       en: "Luang Namtha is an important center for ecotourism in Laos. Many trekking tours start from here into the surrounding national park."
     },
     descriptionAdvanced: {
-      de: "Luang Namtha ist die Hauptstadt der gleichnamigen Provinz im Nordwesten von Laos und liegt in einer Ebene zwischen Bergen, Reisfeldern und dem Fluss Nam Tha, etwa sechzig Kilometer von der chinesischen Grenze entfernt. Die heutige Stadt entstand nach 1976 neu, nachdem die alte Siedlung im Krieg zerstört worden war. Luang Namtha ist heute eines der wichtigsten Zentren für Ökotourismus in Laos. Vom Stadtrand führen Trekkingrouten in den Nam Ha National Protected Area, ein Schutzgebiet von rund 2.200 Quadratkilometern Bergregenwald mit Tigern, Gibbons, Leoparden und seltenen Vogelarten. Geführte Wanderungen werden in Zusammenarbeit mit Dörfern der ethnischen Gruppen Akha, Khmu, Lanten und Hmong organisiert.",
-      hu: "Luang Namtha a hasonló nevű tartomány székhelye Északnyugat-Laoszban, egy tágas síkságon fekszik hegyek, rizsföldek és a Nam Tha folyó között, mintegy hatvan kilométerre a kínai határtól. A mai város 1976 után jött létre, miután a régi települést a háború elpusztította. Luang Namtha ma az ország egyik legfontosabb ökoturisztikai központja. A város szélétől túraútvonalak vezetnek a Nam Ha védett természeti területre, amely közel 2200 négyzetkilométeres hegyi esőerdő tigrisekkel, gibbonokkal, leopárdokkal és ritka madárfajokkal. A vezetett túrákat akha, khmu, lanten és hmong etnikai csoportok falvaival együttműködve szervezik, biztosítva a helyi közösségek számára a bevétel egy részét.",
-      ro: "Luang Namtha este capitala provinciei cu același nume din nord-vestul Laosului și se află într-o câmpie largă, între munți, câmpuri de orez și râul Nam Tha, la aproximativ șaizeci de kilometri de granița cu China. Orașul actual a fost ridicat după 1976, deoarece așezarea veche fusese distrusă în timpul războiului. Luang Namtha este astăzi unul dintre cele mai importante centre de ecoturism din Laos. De la marginea orașului pornesc trasee de drumeție în Aria Națională Protejată Nam Ha, o pădure ecuatorială de munte de aproximativ 2.200 de kilometri pătrați, cu tigri, giboni, leoparzi și specii rare de păsări. Excursiile sunt organizate în colaborare cu sate ale etniilor Akha, Khmu, Lanten și Hmong.",
-      en: "Luang Namtha is the capital of the province of the same name in northwestern Laos, set in a broad plain between mountains, paddy fields and the Nam Tha River, around sixty kilometres from the Chinese border. The present town was rebuilt after 1976 because the older settlement had been destroyed during the war. Luang Namtha is now one of the most important ecotourism centres in Laos. Trekking routes lead from the edge of town into the Nam Ha National Protected Area, a montane rainforest of around 2,200 square kilometres that shelters tigers, gibbons, leopards and rare bird species. Guided treks are organised in cooperation with villages of the Akha, Khmu, Lanten and Hmong ethnic groups, channeling income directly to local communities."
+      de: "Luang Namtha ist die Hauptstadt der gleichnamigen Provinz im äußersten Norden von Laos und gilt als das wichtigste Zentrum für Ökotourismus im Land. Die Stadt liegt in einem fruchtbaren Tal am Fluss Namtha, unweit der Grenzen zu China und Myanmar. Luang Namtha wurde nach den schweren Zerstörungen während des Zweiten Indochinakrieges an seinem heutigen Standort im Jahr 1975 neu errichtet. Die Region ist bekannt für ihre enorme ethnische Vielfalt, wobei über 20 verschiedene Minderheitengruppen, darunter die Akha, Lanten und Tai Dam, in der Umgebung leben. Ein Hauptanziehungspunkt für internationale Besucher ist das Nationale Bio-Diversitäts-Schutzgebiet Nam Ha, das sich über 2.224 Quadratkilometer erstreckt und Trekkingtouren sowie Kajakfahrten ermöglicht. Die Stadt selbst dient als logistischer Knotenpunkt für den Handel mit China, insbesondere durch die Nähe zum Grenzort Boten. In den letzten Jahren hat der Ausbau der Infrastruktur, einschließlich der neuen Eisenbahnverbindung, die Erreichbarkeit der Region erheblich verbessert. Trotz dieser Entwicklungen bleibt Luang Namtha ein Ort, an dem der Schutz der Natur und der Erhalt indigener Kulturen im Vordergrund stehen.",
+      hu: "Luang Namtha Laosz legészakibb tartományának székhelye, amely az ország legfontosabb ökoturisztikai központjaként ismert. A város egy termékeny völgyben, a Namtha-folyó partján fekszik, közel a kínai és a mianmari határhoz. A települést jelenlegi helyén 1975-ben építették újjá, miután a korábbi várost a második indokínai háború során szinte teljesen elpusztították. A régió híres rendkívüli etnikai sokszínűségéről: a környéken több mint 20 különböző népcsoport, köztük az akha, lanten és taj dam törzsek élnek, megőrizve hagyományos életmódjukat. A turisták számára a legfőbb vonzerőt a 2224 négyzetkilométer kiterjedésű Nam Ha Nemzeti Biodiverzitás-védelmi Terület jelenti, amely ideális helyszín dzsungeltúrákhoz és kajakozáshoz. Luang Namtha fontos kereskedelmi csomópont is, különösen a kínai határnál fekvő Boten közelsége miatt. Az utóbbi években a Kína-Laosz vasútvonal átadása új távlatokat nyitott a város fejlődésében és elérhetőségében. A modernizáció ellenére a közösség nagy hangsúlyt fektet a környezetvédelemre és a helyi kulturális értékek megőrzésére.",
+      ro: "Luang Namtha este capitala provinciei cu același nume din nordul extrem al Laosului, fiind recunoscută drept principalul centru de ecoturism al țării. Orașul este situat într-o vale fertilă pe malul râului Namtha, în apropierea frontierelor cu China și Myanmar. Luang Namtha a fost reconstruit pe locația actuală în anul 1975, după ce așezarea originală a fost distrusă în timpul celui de-al Doilea Război din Indochina. Regiunea este celebră pentru diversitatea sa etnică remarcabilă, găzduind peste 20 de grupuri minoritare diferite, precum Akha, Lanten și Tai Dam. Atracția principală pentru vizitatorii internaționali este Aria Națională de Conservare a Biodiversității Nam Ha, care se întinde pe 2.224 de kilometri pătrați și oferă oportunități excelente pentru trekking și caiac. Orașul servește, de asemenea, ca un punct logistic esențial pentru comerțul cu China, datorită proximității față de punctul de frontieră Boten. Recent, finalizarea căii ferate Laos-China a crescut accesibilitatea regiunii, stimulând economia locală. Cu toate acestea, Luang Namtha își păstrează caracterul liniștit, punând accent pe conservarea mediului și a tradițiilor indigene.",
+      en: "Luang Namtha is the capital of the northernmost province of Laos and serves as the nation's premier destination for sustainable ecotourism. Located in a fertile valley along the Namtha River, the town is positioned near the borders of both China and Myanmar. The current town site was established in 1975 after the original settlement was heavily damaged during the Second Indochina War. The region is renowned for its incredible ethnic diversity, with more than 20 distinct ethnic minority groups, including the Akha, Lanten, and Tai Dam, residing in the surrounding hills and valleys. A major draw for international visitors is the Nam Ha National Bio-Diversity Conservation Area, which covers 2,224 square kilometers and offers managed trekking and kayaking experiences. Luang Namtha is also a vital trade link between Laos and China, particularly with the border crossing at Boten nearby. The recent opening of the Laos-China Railway has greatly increased the region's accessibility, fostering economic growth while the local government strives to maintain environmental integrity. The town remains a peaceful base for those looking to experience the authentic natural and cultural heritage of northern Laos.",
     },
     facts: {
       de: [
@@ -643,38 +503,10 @@ export const poiExtraLaosCitiesV2: POI[] = [
       ]
     },
     factsAdvanced: {
-      en: [
-        "The largest settlement in northwestern Laos and capital of its namesake province.",
-        "A major base for trekking into the Nam Ha National Protected Area.",
-        "The local population includes numerous ethnic minority groups such as Akha and Hmong.",
-        "The town was relocated to higher ground after floods destroyed the old settlement in 1973.",
-        "Features the Luang Namtha Stupa and the Golden Stupa offering panoramic views.",
-        "Known for its traditional herbal saunas and vibrant night market."
-      ],
-      de: [
-        "Die größte Siedlung im Nordwesten von Laos und Hauptstadt der gleichnamigen Provinz.",
-        "Ein wichtiger Ausgangspunkt für Trekking-Touren in das Nam Ha Naturschutzgebiet.",
-        "Die lokale Bevölkerung umfasst zahlreiche ethnische Minderheiten wie Akha und Hmong.",
-        "Die Stadt wurde 1973 nach verheerenden Überschwemmungen auf höheres Gelände verlegt.",
-        "Verfügt über den Luang Namtha Stupa und den Goldenen Stupa mit Panoramablick.",
-        "Bekannt für ihre traditionellen Kräutersaunen und den lebhaften Nachtmarkt."
-      ],
-      hu: [
-        "Északnyugat-Laosz legnagyobb települése és az azonos nevű tartomány fővárosa.",
-        "A Nam Ha Nemzeti Védett Területre induló túrák egyik legfőbb bázisa.",
-        "A helyi lakosság számos kisebbségi etnikai csoportot, például akhákat és hmongokat foglal magába.",
-        "A várost magasabb területre költöztették, miután 1973-ban az árvizek elpusztították a régit.",
-        "Itt található a Luang Namtha sztúpa és az Arany sztúpa, ahonnan panorámás kilátás nyílik.",
-        "Hagyományos gyógynövényes szaunáiról és élénk éjszakai piacáról ismert."
-      ],
-      ro: [
-        "Cea mai mare așezare din nord-vestul Laosului și capitala provinciei omonime.",
-        "O bază majoră pentru drumeții în Aria Națională Protejată Nam Ha.",
-        "Populația locală include numeroase grupuri minoritare, cum ar fi Akha și Hmong.",
-        "Orașul a fost mutat pe un teren mai înalt după inundațiile din 1973.",
-        "Prezintă Stupa Luang Namtha și Stupa de Aur, care oferă vederi panoramice.",
-        "Cunoscut pentru saunele sale tradiționale cu plante și piața de noapte."
-      ]
+      de: ["Zentrum für nachhaltigen Ökotourismus in Laos", "Nähe zum 2.224 km2 großen Nam-Ha-Schutzgebiet", "Grenzregion zu China (Übergang bei Boten)", "Beheimatet über 20 verschiedene ethnische Gruppen", "Namtha-Fluss durchfließt das fruchtbare Tal", "Neugründung am heutigen Standort im Jahr 1975"],
+      hu: ["Laosz fenntartható ökoturisztikai központja", "A 2224 km2-es Nam Ha védett terület mellett fekszik", "Határ menti régió Kínával (Boten határátkelő)", "Több mint 20 különböző etnikai csoport otthona", "A Namtha-folyó szeli át a termékeny völgyet", "A jelenlegi helyén 1975-ben alapították újra"],
+      ro: ["Centrul principal pentru ecoturism din Laos", "Proximitate față de rezervația Nam Ha (2.224 km2)", "Regiune de frontieră cu China (punctul Boten)", "Găzduiește peste 20 de grupuri etnice diferite", "Râul Namtha traversează valea fertilă", "Orașul a fost refăcut pe locația actuală în 1975"],
+      en: ["Primary hub for sustainable ecotourism in Laos", "Proximity to the 2,224 km2 Nam Ha NBCA", "Key border region with China via nearby Boten", "Home to over 20 different ethnic minority groups", "The Namtha River flows through the valley floor", "Rebuilt in its present location in the year 1975"],
     }, image: "/poi-images/luang-namtha-cities-v2.webp"},
   {
     id: "huay-xai-cities-v2",
@@ -844,10 +676,10 @@ export const poiExtraLaosCitiesV2: POI[] = [
       en: "Sainyabuli is the capital of the province of the same name. It is particularly known for the annual elephant festival."
     },
     descriptionAdvanced: {
-      de: "Sainyabuli, auch Xayaboury geschrieben, ist die Hauptstadt der gleichnamigen Provinz westlich des Mekong an der Grenze zu Thailand. Sie liegt in einer Reisebene am Fluss Nam Hung, umgeben von bewaldeten Hügeln, in denen viele Hmong-, Khmu- und Lao-Loum-Dörfer liegen. Die Region war traditionell ein Zentrum der Arbeitselefanten, die im Holzeinschlag eingesetzt wurden, und beheimatet heute die größte Population von asiatischen Elefanten in Laos. Mit dem Elephant Conservation Center und dem jährlichen Elefantenfestival hat sich die Stadt zu einem wichtigen Schauplatz für den Schutz dieser bedrohten Tierart entwickelt. Auch das große Wasserkraftwerk Xayaburi am Mekong, das mit thailändischer Beteiligung errichtet wurde, prägt sehr die Region.",
-      hu: "Sainyabuli, más írásmóddal Xayaboury, a hasonló nevű tartomány székhelye a Mekongtól nyugatra, a thaiföldi határvidéken. A város egy rizstermő síkságon fekszik a Nam Hung folyó mentén, erdős dombokkal körülvéve, ahol számos hmong, khmu és lao loum falu található. A régió hagyományosan a fakitermelésben dolgozó munkaelefántok központja volt, és ma is itt él Laosz legnagyobb ázsiai elefántpopulációja. Az Elefántmegőrzési Központtal és az évente megrendezett elefántfesztivállal a település a veszélyeztetett faj védelmének fontos színhelyévé vált. A környékre ráadásul a Mekongra épült nagy Xayaburi vízerőmű is rányomja bélyegét, amelyet thaiföldi tőkebefektetéssel emeltek.",
-      ro: "Sainyabuli, scris și Xayaboury, este capitala provinciei cu același nume, situată la vest de Mekong, în apropierea graniței cu Thailanda. Orașul se află într-o câmpie de orez de-a lungul râului Nam Hung, înconjurat de dealuri împădurite în care se află numeroase sate Hmong, Khmu și Lao Loum. Regiunea a fost în mod tradițional un centru al elefanților de muncă folosiți la exploatarea forestieră și găzduiește astăzi cea mai mare populație de elefanți asiatici din Laos. Prin Centrul de Conservare a Elefanților și prin festivalul anual al elefanților, orașul a devenit un punct important pentru protejarea acestei specii amenințate. Marea hidrocentrală Xayaburi de pe Mekong, construită cu investiții thailandeze, marchează puternic peisajul.",
-      en: "Sainyabuli, also spelled Xayaboury, is the capital of the province of the same name, lying west of the Mekong close to the Thai border. The town stretches across a rice-growing plain along the Nam Hung River and is ringed by forested hills dotted with Hmong, Khmu and Lao Loum villages. The region was historically a stronghold of working elephants used in the logging industry and is still home to the largest Asian elephant population in Laos. Thanks to the Elephant Conservation Center and the annual elephant festival, Sainyabuli has become a key venue for the protection of this endangered species. The large Xayaburi hydropower dam on the Mekong, built with Thai investment, also dominates the surrounding landscape."
+      de: "Sainyabuli, auch Sayaboury geschrieben, ist die Hauptstadt der gleichnamigen Provinz im Nordwesten von Laos. Eine Besonderheit der Region ist, dass sie als einzige Provinz fast vollständig westlich des Mekong liegt und an sechs thailändische Provinzen grenzt. Die Stadt ist vor allem als das kulturelle Herz der Elefantenverehrung in Laos bekannt. Jedes Jahr im Februar findet hier das berühmte Elefantenfestival statt, das Tausende von Besuchern anzieht und das Bewusstsein für den Schutz dieser Tiere schärfen soll. Historisch gesehen war die Region oft Gegenstand von Grenzstreitigkeiten zwischen Laos und Thailand, zuletzt während des kurzen Grenzkrieges von 1987 bis 1988. Geografisch ist Sainyabuli durch dichte Wälder und Gebirgszüge geprägt, die reich an natürlichen Ressourcen wie Holz und fruchtbarem Ackerland für den Reisanbau sind. Die Eröffnung der Mekong-Brücke bei Pak Khon im Jahr 2013 hat die Anbindung an den Rest des Landes erheblich verbessert. Die lokale Wirtschaft stützt sich stark auf die Landwirtschaft und die Forstwirtschaft, wobei der Schutz der verbliebenen Wildbestände an Elefanten eine nationale Priorität darstellt.",
+      hu: "Sainyabuli, más néven Sayaboury, Laosz északnyugati részén fekvő azonos nevű tartomány székhelye. A régió különlegessége, hogy ez az egyetlen laoszi tartomány, amely szinte teljes egészében a Mekong folyó nyugati partján terül el, és hat thaiföldi tartománnyal határos. A várost leginkább az elefántok védelmével és tiszteletével kapcsolatos hagyományairól ismerik, ezért is hívják gyakran az „elefántok földjének”. Minden év februárjában itt rendezik meg a nagyszabású Elefántfesztivált, amely az ország egyik legfontosabb kulturális eseménye és a fajmegőrzésre hívja fel a figyelmet. A tartomány területe történelmileg vitatott volt Laosz és Thaiföld között, utoljára az 1987-1988-as határháború idején zajlottak itt összecsapások. Földrajzi szempontból a vidéket sűrű erdők és hegyvonulatok jellemzik, amelyek gazdagok faanyagban és termőföldben. A 2013-ban átadott Mekong-híd Pak Khon-nál jelentősen megkönnyítette a város elérését a belső országrészek felől. Sainyabuli gazdasága ma is a mezőgazdaságra és a fakitermelésre épül, miközben egyre nagyobb hangsúlyt fektetnek a természetközeli turizmus fejlesztésére.",
+      ro: "Sainyabuli, scris și Sayaboury, este capitala provinciei cu același nume din nord-vestul Laosului. O caracteristică distinctivă a acestei regiuni este faptul că este singura provincie situată aproape integral la vest de fluviul Mekong, având granițe cu șase provincii thailandeze. Orașul este cunoscut în principal ca centrul cultural al conservării elefanților din Laos. În fiecare an, în luna februarie, aici are loc celebrul Festival al Elefanților, un eveniment care atrage mii de vizitatori și promovează protecția acestor animale emblematice. Din punct de vedere istoric, regiunea a fost scena unor dispute teritoriale între Laos și Thailanda, culminând cu un conflict de frontieră între 1987 și 1988. Geografia zonei este dominată de păduri dense și lanțuri muntoase, fiind bogată în resurse naturale și terenuri fertile pentru cultura orezului. Deschiderea podului peste Mekong la Pak Khon în 2013 a îmbunătățit semnificativ conectivitatea orașului cu restul țării. Economia locală se bazează pe agricultură și silvicultură, în timp ce eforturile de conservare a populațiilor de elefanți sălbatici rămân o prioritate națională.",
+      en: "Sainyabuli, also spelled Sayaboury, is the capital of the namesake province in northwestern Laos. A unique geographic feature of the region is that it is the only Lao province situated almost entirely west of the Mekong River, sharing borders with six different Thai provinces. The town is widely recognized as the cultural heart of elephant conservation in Laos, earning it a reputation as the 'Land of Elephants.' Every February, the town hosts the annual Elephant Festival, a major event designed to raise awareness about the protection of these majestic animals while showcasing local traditions. Historically, the area was a point of contention between Laos and Thailand, most recently during a brief border conflict from 1987 to 1988. The province's landscape is defined by rugged mountains and dense forests, providing rich resources for timber and agriculture, particularly rice and corn. The completion of the Mekong bridge at Pak Khon in 2013 has vastly improved logistical links to the rest of the country. Today, the town serves as a quiet administrative and agricultural hub, increasingly focused on balancing economic development with the preservation of its unique natural wildlife.",
     },
     facts: {
       de: [
@@ -868,38 +700,10 @@ export const poiExtraLaosCitiesV2: POI[] = [
       ]
     },
     factsAdvanced: {
-      en: [
-        "Capital of Sainyabuli Province, located in the only Lao province completely west of the Mekong.",
-        "The province is known for having the largest domestic elephant population in Laos.",
-        "Surrounded by rugged mountain ranges and dense forests.",
-        "Features the beautiful Wat Si Boun Huang temple with its ancient stupa.",
-        "The local economy relies heavily on agriculture, logging, and elephant conservation.",
-        "Hosts cultural festivals that celebrate the historical importance of working elephants."
-      ],
-      de: [
-        "Hauptstadt der Provinz Sainyabuli, die vollständig westlich des Mekong liegt.",
-        "Die Provinz ist bekannt für die größte Population heimischer Elefanten in Laos.",
-        "Umgeben von schroffen Gebirgszügen und dichten tropischen Wäldern.",
-        "Verfügt über den wunderschönen Tempel Wat Si Boun Huang mit seinem alten Stupa.",
-        "Die lokale Wirtschaft stützt sich stark auf Landwirtschaft und Elefantenschutz.",
-        "Veranstaltet Kulturfestivals, die die historische Bedeutung von Arbeitselefanten feiern."
-      ],
-      hu: [
-        "Sainyabuli tartomány fővárosa, amely az egyetlen teljesen a Mekongtól nyugatra fekvő tartomány.",
-        "A tartomány arról ismert, hogy itt él a legnagyobb hazai elefántpopuláció Laoszban.",
-        "Zord hegyvonulatok és sűrű trópusi erdők veszik körül a várost.",
-        "Itt található a gyönyörű Wat Si Boun Huang templom ősi sztúpájával.",
-        "A helyi gazdaság nagymértékben támaszkodik a mezőgazdaságra és az elefántvédelemre.",
-        "Kulturális fesztiváloknak ad otthont, amelyek a munkahordó elefántok történelmi jelentőségét ünneplik."
-      ],
-      ro: [
-        "Capitala provinciei Sainyabuli, situată complet la vest de râul Mekong.",
-        "Provincia este cunoscută pentru cea mai mare populație de elefanți domestici din Laos.",
-        "Înconjurat de lanțuri muntoase accidentate și păduri dense.",
-        "Găzduiește frumosul templu Wat Si Boun Huang cu stupa sa antică.",
-        "Economia locală se bazează pe agricultură, exploatare forestieră și conservarea elefanților.",
-        "Găzduiește festivaluri care celebrează importanța istorică a elefanților."
-      ]
+      de: ["Gastgeber des jährlichen Elefantenfestivals", "Einzige Provinz fast vollständig westlich des Mekong", "Wichtiger Produzent von Reis und Nutzholz", "Mekong-Brücke bei Pak Khon wurde 2013 eröffnet", "Hohe Konzentration an wilden Elefantenbeständen", "Grenzt an insgesamt sechs thailändische Provinzen"],
+      hu: ["Az évente megrendezett Elefántfesztivál helyszíne", "Az egyetlen tartomány a Mekong nyugati partján", "Laosz egyik fő rizs- és fűrészáru-termelője", "A Pak Khon-i Mekong-hidat 2013-ban adták át", "Itt található az ország legtöbb vadon élő elefántja", "Összesen hat thaiföldi tartománnyal határos"],
+      ro: ["Gazda festivalului anual al elefanților", "Singura provincie situată aproape integral la vest de Mekong", "Producător major de orez și material lemnos", "Podul peste Mekong de la Pak Khon deschis în 2013", "Cea mai mare concentrație de elefanți sălbatici", "Se învecinează cu șase provincii din Thailanda"],
+      en: ["Host of the famous annual Elephant Festival", "Only province situated almost entirely west of the Mekong", "Major producer of rice, timber, and agricultural goods", "Mekong bridge at Pak Khon opened in the year 2013", "Home to a high concentration of wild elephants", "Shares a border with six different Thai provinces"],
     }, image: "/poi-images/sainyabuli-cities-v2.webp"},
   {
     id: "pakxan-cities-v2",
@@ -1521,10 +1325,10 @@ export const poiExtraLaosCitiesV2: POI[] = [
       en: "Champasak is a historic town in southern Laos. It was once the center of a kingdom and is known for the Vat Phou temple."
     },
     descriptionAdvanced: {
-      de: "Champasak ist eine kleine, ruhige Stadt am rechten Ufer des Mekong, südlich von Pakse, und war einst die Hauptstadt des gleichnamigen Königreichs, das vom 18. bis ins 20. Jahrhundert über weite Teile Südlaos und Teile des heutigen Thailand und Kambodscha herrschte. Bis heute prägen ehemalige Königsresidenzen, französische Kolonialvillen und schattige Boulevards das Stadtbild entlang einer einzigen, breit angelegten Hauptstraße. Wenige Kilometer entfernt liegt das UNESCO-Welterbe Vat Phou, ein vorangkorischer Khmer-Tempelkomplex aus dem 5. bis 13. Jahrhundert, der einen heiligen Berg und eine geometrisch angelegte Achse mit Stufen, Quellen, Pavillons, Wassergräben, einem Heiligtum und einem zentralen Sanktuarium aus rotem Sandstein verbindet, von dem aus.",
-      hu: "Csampaszak kicsi, csendes város a Mekong jobb partján, Paksétól délre, és egykor a hasonló nevű királyság fővárosa volt, amely a 18. századtól a 20. századig Dél-Laosz nagy részén, valamint a mai Thaiföld és Kambodzsa egyes vidékein uralkodott. A mai napig egykori királyi rezidenciák, francia gyarmati villák és árnyas sétányok határozzák meg a városképet egyetlen, szélesen elnyúló főút mentén. Néhány kilométerre található az UNESCO világörökségi Vat Phou romváros, a Khmer Birodalmat megelőző és követő, 5–13. századi templomegyüttes, amely egy szent hegyet és egy geometriai elrendezésű tengelyt köt össze, lépcsőkkel, forrásokkal, pavilonokkal, vizesárkokkal és vörös homokkőből emelt központi szentéllyel.",
-      ro: "Champasak este un oraș mic și liniștit pe malul drept al Mekongului, la sud de Pakse, și a fost cândva capitala regatului cu același nume, care a stăpânit, între secolele al XVIII-lea și al XX-lea, mari părți din sudul Laosului, precum și zone din Thailanda și Cambodgia de astăzi. Până astăzi, foste reședințe regale, vile coloniale franceze și bulevarde umbrite definesc imaginea urbană de-a lungul unei singure străzi principale, larg trasate. La câțiva kilometri se află situl UNESCO Vat Phou, un complex de temple khmere și pre-angkoriene din secolele V–XIII, care leagă un munte sacru de o axă geometrică, cu trepte, izvoare, pavilioane, șanțuri cu apă și un sanctuar central din gresie roșie.",
-      en: "Champasak is a small, sleepy town on the right bank of the Mekong south of Pakse and was once the capital of the kingdom of the same name, which from the eighteenth to the twentieth century controlled much of southern Laos and parts of present-day Thailand and Cambodia. Former royal residences, French colonial villas and shady boulevards still define the townscape along a single broadly laid-out main road. A few kilometres away lies the UNESCO World Heritage site of Vat Phou, a Khmer and pre-Angkorian temple complex of the fifth to thirteenth centuries that connects a sacred mountain to a geometric axis of stairways, springs, pavilions, water channels and a central sanctuary built of red sandstone, looking out over the wider Mekong floodplain."
+      de: "Champasak ist eine historische Kleinstadt im Süden von Laos, die am Westufer des Mekong liegt und einst die Hauptstadt eines unabhängigen laotischen Königreichs war. Die Stadt ist vor allem als Tor zum beeindruckenden Tempelkomplex Vat Phou bekannt, der seit 2001 zum UNESCO-Weltkulturerbe gehört. Vat Phou ist eine Anlage aus der Khmer-Ära, deren Ursprünge bis ins 5. Jahrhundert zurückreichen und die eng mit der Entwicklung des Hinduismus und später des Buddhismus in der Region verknüpft ist. Champasak selbst bewahrt eine ruhige Atmosphäre mit zahlreichen Gebäuden aus der französischen Kolonialzeit, die entlang der Uferpromenaden zu finden sind. Historisch war die Region ein wichtiges Bindeglied zwischen den Reichen von Angkor im heutigen Kambodscha und dem laotischen Hinterland. Die Stadt liegt etwa 40 Kilometer südlich von Pakse und dient heute als kulturelles Zentrum für Besucher, die die archäologischen Schätze der Region erkunden möchten. Die Landschaft ist geprägt von Reisfeldern und dem mächtigen Mekong, der hier besonders breit ist und das tägliche Leben der Bewohner bestimmt.",
+      hu: "Champasak egy történelmi kisváros Laosz déli részén, a Mekong folyó nyugati partján, amely egykor az önálló Champasak Királyság székhelye volt. A település hírnevét elsősorban a Vat Phou templomkomplexumnak köszönheti, amely 2001 óta az UNESCO Világörökség része. Ez a khmer stílusú épületegyüttes már az 5. századtól kezdve vallási központként funkcionált, és fontos láncszeme volt a hinduizmus, majd később a buddhizmus elterjedésének a régióban. Maga Champasak városa egyetlen hosszú utcából áll a folyó mentén, ahol számos elegáns, bár mára megkopott francia gyarmati épület emlékeztet a múltra. Történelmileg a terület szoros kapcsolatban állt az angkori birodalommal, amelynek egyik legfontosabb északi vallási és közigazgatási bázisa volt. A város körülbelül 40 kilométerre fekszik Paksétól, és csendes bázist nyújt a kulturális örökség iránt érdeklődőknek. A környék mezőgazdasága a rizstermesztésre és a halászatra épül, miközben a turizmus vált a legfontosabb fejlődési ágazattá a világörökségi helyszín közelsége miatt.",
+      ro: "Champasak este un oraș istoric de mici dimensiuni din sudul Laosului, situat pe malul vestic al fluviului Mekong, care a servit odinioară drept capitală a unui regat independent. Orașul este cunoscut în special ca poarta de acces către complexul templului Vat Phou, inclus în Patrimoniul Mondial UNESCO în 2001. Vat Phou este o structură din epoca khmeră ale cărei origini datează din secolul al V-lea, fiind strâns legată de dezvoltarea hinduismului și ulterior a budismului în regiune. Champasak păstrează o atmosferă liniștită, cu numeroase clădiri din perioada colonială franceză care străjuiesc faleza fluviului. Din punct de vedere istoric, regiunea a fost un nod vital de legătură între imperiul Angkor din Cambodgia actuală și teritoriile laosiane. Orașul se află la aproximativ 40 de kilometri sud de Pakse și funcționează astăzi ca un centru cultural pentru vizitatorii care explorează ruinele arheologice din sud. Peisajul este definit de câmpuri de orez și de prezența impunătoare a Mekongului, care aici atinge lățimi considerabile, modelând viața cotidiană a localnicilor.",
+      en: "Champasak is a historic town in southern Laos, located on the west bank of the Mekong River. It was once the capital of the independent Kingdom of Champasak before being integrated into modern Laos. The town is most famous as the gateway to the Vat Phou temple complex, which was designated a UNESCO World Heritage site in 2001. Vat Phou is a ruined Khmer temple complex with origins dating back as far as the 5th century, predating many of the structures at Angkor Wat. The town itself consists of a long, peaceful street lined with old French colonial buildings and traditional Lao houses, offering a glimpse into its aristocratic past. Historically, the area was a significant spiritual and political link between the Khmer Empire and the upper Mekong valley. Located about 40 kilometers south of Pakse, Champasak remains a serene alternative for travelers interested in archaeology and traditional river life. The surrounding floodplains are extensively used for rice cultivation, supported by the annual cycles of the Mekong River.",
     },
     facts: {
       de: [
@@ -1545,38 +1349,10 @@ export const poiExtraLaosCitiesV2: POI[] = [
       ]
     },
     factsAdvanced: {
-      en: [
-        "Former seat of the historic Kingdom of Champasak, located on the Mekong's west bank.",
-        "Famous for the Vat Phou temple ruins, a sprawling Khmer Hindu complex.",
-        "Features charming colonial-era wooden houses lining its quiet streets.",
-        "Maintains a peaceful, slow-paced atmosphere with very minimal vehicle traffic.",
-        "Its immense historical importance contrasts sharply with its current small size.",
-        "A scenic riverside promenade offers excellent views of the Mekong and surrounding mountains."
-      ],
-      de: [
-        "Ehemaliger Sitz des historischen Königreichs Champasak, am Westufer des Mekong gelegen.",
-        "Berühmt für die Tempelruinen von Vat Phou, einem weitläufigen Khmer-Komplex.",
-        "Verfügt über charmante Holzhäuser aus der Kolonialzeit an seinen ruhigen Straßen.",
-        "Bewahrt eine friedliche, langsame Atmosphäre mit nur sehr wenig Autoverkehr.",
-        "Seine enorme historische Bedeutung steht in scharfem Kontrast zu seiner heutigen geringen Größe.",
-        "Eine malerische Uferpromenade bietet hervorragende Ausblicke auf den Mekong."
-      ],
-      hu: [
-        "A történelmi Champasak Királyság egykori székhelye a Mekong nyugati partján.",
-        "Híres a Vat Phou templomromokról, amely egy kiterjedt hindu khmer komplexum.",
-        "Csendes utcáit a gyarmati korszakból származó, bájos faházak szegélyezik.",
-        "Békés, lassú tempójú légkört áraszt, minimális járműforgalommal.",
-        "Hatalmas történelmi jelentősége éles ellentétben áll jelenlegi kis méretével.",
-        "A festői folyóparti sétányról kiváló kilátás nyílik a Mekongra és a környező hegyekre."
-      ],
-      ro: [
-        "Fostul sediu al istoricului Regat Champasak, situat pe malul vestic al Mekongului.",
-        "Faimos pentru ruinele templului Vat Phou, un complex hindus Khmer.",
-        "Prezintă case fermecătoare din lemn din epoca colonială pe străzile sale liniștite.",
-        "Păstrează o atmosferă pașnică, cu ritm lent și trafic auto minim.",
-        "Importanța sa istorică imensă contrastează puternic cu dimensiunea sa actuală.",
-        "O promenadă pitorească pe malul râului oferă vederi excelente asupra Mekongului."
-      ]
+      de: ["Heimat der UNESCO-Welterbestätte Vat Phou", "Ehemalige Hauptstadt des Königreichs Champasak", "Liegt etwa 40 km südlich der Stadt Pakse", "Khmer-Tempelanlagen stammen aus dem 5.-13. Jh.", "Wichtiger Flusshafen und Fischereizentrum", "Enthält koloniale Villen entlang der Uferstraße"],
+      hu: ["A Vat Phou UNESCO Világörökségi helyszín otthona", "A Champasak Királyság egykori fővárosa volt", "Paksétól 40 kilométerre délre fekszik", "A khmer templomok az 5-13. századból származnak", "Fontos folyami kikötő és halászati központ", "A folyóparti úton francia gyarmati villák állnak"],
+      ro: ["Găzduiește situl UNESCO Vat Phou din anul 2001", "Fosta capitală a Regatului independent Champasak", "Situat la 40 km sud de orașul Pakse", "Ruinele templelor khmere datează din sec. V-XIII", "Centru important de pescuit și port la Mekong", "Arhitectură colonială prezentă în satul central"],
+      en: ["Home to the Vat Phou UNESCO World Heritage site", "Former capital of the independent Kingdom of Champasak", "Located approximately 40 km south of Pakse", "Khmer temple ruins date from the 5th to 13th centuries", "Important Mekong river port and fishing hub", "Features unique French colonial villas along the river"],
     }, image: "/poi-images/champasak-cities-v2.webp"},
   {
     id: "pak-lay-cities-v2",

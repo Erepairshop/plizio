@@ -15,10 +15,10 @@ export const slovakiaHistory: POI[] = [
       en: "Spiš Castle is one of the largest castle complexes in Central Europe and is a UNESCO World Heritage site. It towers over the landscape, bearing witness to the region's turbulent history."
     },
     descriptionAdvanced: {
-      de: "Die Zipser Burg ist eine monumentale Burganlage, die im 12. Jahrhundert errichtet wurde. Als UNESCO-Welterbestätte dokumentiert sie die mittelalterliche Architekturgeschichte und feudale Gesellschaftsstrukturen in Mitteleuropa. Sie diente über Jahrhunderte als politisches und militärisches Zentrum der Region Spiš. Nach dem Brand von 1780 verfiel sie zu einer Ruine, die heute die architektonische Entwicklung vom Romanischen zum Gotischen und Renaissance-Stil zeigt. Geschichte K7 — Mittelalterliche Festungsbaukunst.",
-      hu: "A Szepesi vár egy 4 hektáros váregyüttes, amely Közép-Európa egyik legnagyobb erődítménye. Az UNESCO Világörökség része, amely a román, gótikus és reneszánsz építészet elemeit ötvözi. Történelem K7 — várépítészet és középkori társadalom.",
-      ro: "Imensul Castel Spiš, cocoțat dramatic pe un deal ascuțit de travertin care se înalță brusc din mijlocul văii, este pur și simplu una dintre cele mai grandioase fortificații medievale din întreaga Europă. Având o suprafață incredibilă ce depășește 4 hectare, acest complex uriaș include palate romanice rafinate și bastioane de apărare neînvinsă. Servind drept centru politic, administrativ, economic și cultural pentru comitatul Spiš, castelul atestă trecerea diverselor stiluri arhitecturale pe parcursul a 600 de ani. În ciuda faptului că a fost redus parțial la ruine de un incendiu în 1780, el rămâne o minune de o frumusețe monumentală, inclus pe bună dreptate în Patrimoniul Mondial UNESCO. Istorie K7 — Fortărețele masive și arhitectura romanică.",
-      en: "Perched majestically on a travertine hill overlooking the surrounding Spiš landscape, this massive castle complex serves as an iconic symbol of medieval military architecture in Central Europe. Established in the 12th century, it expanded over generations, incorporating Romanesque, Gothic, and Renaissance elements, and functioned as a crucial political and administrative seat for the Hungarian Kingdom's northern frontier. Today, its dramatic ruins offer an immersive look at feudal life, military defense, and architectural evolution, making it a cornerstone for students studying medieval societal structures, castle fortification, and European heritage conservation under the K6 history curriculum."
+      de: "Die Burg Spiš (Zipser Burg) in der Ostslowakei ist eine der größten Burganlagen Mitteleuropas und erstreckt sich über eine Fläche von mehr als vier Hektar. Die Burg wurde im 12. Jahrhundert auf einem markanten Travertinfelsen errichtet und diente über Jahrhunderte als Verwaltungszentrum der Region Zips. Ursprünglich als romanische Festung erbaut, wurde sie später im gotischen und Renaissance-Stil erweitert, insbesondere unter den mächtigen Adelsfamilien Zápolya und Csáky. Im Jahr 1780 zerstörte ein verheerendes Feuer die Anlage, die daraufhin verfiel und heute als monumentale Ruine erhalten ist. Trotz ihres Zustands beeindruckt die Burg durch ihre massive Architektur, die dicken Wehrmauern und den markanten runden Turm. Seit 1993 gehört die Burg Spiš zusammen mit Spišská Kapitula und der Kirche in Žehra zum UNESCO-Weltkulturerbe. Von der Oberburg aus bietet sich ein herrlicher Ausblick auf das umliegende Land und die Gebirgskette der Hohen Tatra am Horizont.",
+      hu: "A Szepesi vár Kelet-Szlovákiában Közép-Európa egyik legnagyobb várkomplexuma, amely több mint négy hektáros területen fekszik. A várat a 12. században építették egy jellegzetes mésztufa sziklára, és évszázadokon át a Szepesség közigazgatási központjaként szolgált. Eredetileg román stílusú erődként épült, majd később gótikus és reneszánsz stílusban bővítették, különösen a hatalmas Zápolya és Csáky nemesi családok idején. 1780-ban egy pusztító tűzvész romba döntötte az építményt, amely ezután elhagyatottá vált, és ma monumentális romként áll. Állapota ellenére a vár lenyűgözi a látogatókat masszív falaival és jellegzetes kerek tornyával. A Szepesi vár 1993 óta a Szepesi Káptalannal és a zsigrai templommal együtt az UNESCO Világörökség része. A felsővárból lenyűgöző kilátás nyílik a környező tájra és a látóhatáron elterülő Magas-Tátra hegyvonulataira.",
+      ro: "Castelul Spiš, situat în estul Slovaciei, este unul dintre cele mai mari complexe fortificate din Europa Centrală, întinzându-se pe o suprafață de peste patru hectare. Castelul a fost ridicat în secolul al XII-lea pe o stâncă de travertin proeminentă și a servit timp de secole ca centru administrativ al regiunii Spiš. Construit inițial ca o cetate romanică, complexul a fost extins ulterior în stiluri gotic și renascentist, în special sub stăpânirea familiilor nobiliare Zápolya și Csáky. În anul 1780, un incendiu devastator a distrus structura, care a fost ulterior abandonată și a rămas astăzi sub formă de ruină monumentală. În ciuda stării sale, castelul impresionează prin zidurile masive de apărare și turnul circular central. Din 1993, Castelul Spiš este inclus în Patrimoniul Mondial UNESCO, împreună cu Spišská Kapitula și biserica din Žehra. De la nivelul superior al castelului se deschide o vedere panoramică spectaculoasă asupra peisajului înconjurător și a lanțului muntos Tatra Înaltă.",
+      en: "Spiš Castle, located in eastern Slovakia, is one of the largest medieval castle complexes in Central Europe, covering an area of more than four hectares. The castle was built in the 12th century on a prominent travertine rock and served for centuries as the administrative center of the Spiš region. Originally constructed as a Romanesque fortress, it was later expanded in Gothic and Renaissance styles, particularly under the ownership of noble families like the Zápolyas and the Csákys. In 1780, a devastating fire reduced the structure to ruins, leading to its eventual abandonment as a residence. Despite its ruined state, the castle remains a symbol of architectural evolution, featuring massive walls and a distinctive circular tower. Since 1993, Spiš Castle has been inscribed on the UNESCO World Heritage list, along with Spišská Kapitula and the church in Žehra. From the upper castle, visitors can enjoy expansive views of the surrounding countryside and the High Tatras on the horizon.",
     },
     facts: {
       de: [
@@ -47,33 +47,10 @@ export const slovakiaHistory: POI[] = [
       ]
     },
     factsAdvanced: {
-      de: [
-        "Auf dem Burgberg wurden Funde aus der Keltenzeit gemacht.",
-        "Die Burg beherbergt heute ein umfangreiches Museum zur Regionalgeschichte.",
-        "Die Architektur zeigt einen Übergang von romanischen zu gotischen Stilelementen.",
-        "Die Anlage ist ein wichtiger Schauplatz für historische Festspiele."
-      ],
-      hu: [
-        "A várhegyen már a kelta időkben is volt település.",
-        "Az 1780-as tűzvész után a vár elhagyatottá vált.",
-        "Ma Szlovákia egyik leglátogatottabb turisztikai célpontja.",
-        "A vár területén rendszeresen rendeznek középkori bemutatókat."
-      ],
-      ro: [
-        "Acoperă o zonă de exact 41.426 de metri pătrați.",
-        "Tătarii nu au reușit să cucerească partea superioară a castelului în 1241.",
-        "Multe scene de luptă din filme internaționale celebre au fost filmate aici.",
-        "Catedrala Sfântul Martin din satul vecin Spišská Kapitula completează ansamblul istoric."
-      ],
-      en: [
-        "Systematic archaeological research and restoration efforts have been ongoing at the site since 1970.",
-        "The hill site was inhabited by a prehistoric Celtic settlement long before the medieval castle was built.",
-        "Extensive Gothic renovations during the 15th century transformed the castle into its current sprawling layout.",
-        "The Spiš region surrounding the castle was historically among the wealthiest areas in the Hungarian Kingdom.",
-        "The site now serves as a dynamic educational venue, frequently hosting reenactments and medieval festivals.",
-        "It ranks among the most visited tourist destinations in Slovakia for both history and architecture enthusiasts.",
-        "The upper castle ruins offer clear, panoramic views across the Spiš basin toward the High Tatra mountain range."
-      ]
+      de: ["Gesamtfläche von über 41.000 Quadratmetern", "UNESCO-Weltkulturerbe seit dem Jahr 1993", "Errichtet auf einem massiven Travertinfelsen", "Zerstört durch ein großes Feuer im Jahr 1780", "Einstiger Sitz der Grafen der Region Zips", "Der runde Hauptturm ist weithin sichtbar"],
+      hu: ["Teljes területe meghaladja a 41 000 négyzetmétert", "1993 óta az UNESCO Világörökség része", "Egy hatalmas mésztufa sziklára épült", "1780-ban pusztító tűzvész áldozata lett", "Valaha a szepesi grófok székhelye volt", "A központi kerek torony messziről is jól látható"],
+      ro: ["Suprafață totală de peste 41.000 de metri pătrați", "Inclus în Patrimoniul Mondial UNESCO în 1993", "Construit pe o stâncă masivă de travertin", "Distrus de un incendiu devastator în anul 1780", "Fost centru administrativ al regiunii Spiš", "Turnul circular central este vizibil de la distanță"],
+      en: ["Total area exceeds 41,000 square meters", "UNESCO World Heritage site since 1993", "Built on a massive travertine rock hill", "Destroyed by a catastrophic fire in 1780", "Former seat of the counts of the Spiš region", "The main circular tower is visible from afar"],
     },
     descriptionAdvancedEn: "Perched majestically on a travertine hill overlooking the surrounding Spiš landscape, this massive castle complex serves as an iconic symbol of medieval military architecture in Central Europe. Established in the 12th century, it expanded over generations, incorporating Romanesque, Gothic, and Renaissance elements, and functioned as a crucial political and administrative seat for the Hungarian Kingdom's northern frontier. Today, its dramatic ruins offer an immersive look at feudal life, military defense, and architectural evolution, making it a cornerstone for students studying medieval societal structures, castle fortification, and European heritage conservation under the K6 history curriculum.",
     factsAdvancedEn: [

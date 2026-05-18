@@ -1,1 +1,23 @@
-{"test": "value"}
+{
+  "lang": "multi4",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "chicago-cities-v2",
+      "descriptionAdvanced": {
+        "de": "test",
+        "hu": "test",
+        "ro": "test",
+        "en": "test"
+      },
+      "factsAdvanced": {
+        "de": ["test"],
+        "hu": ["test"],
+        "ro": ["test"],
+        "en": ["test"]
+      }
+    }
+  ]
+}

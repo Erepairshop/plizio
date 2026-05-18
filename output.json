@@ -1,72 +1,432 @@
 [
   {
-    "id": "landmark-viaduc-de-millau-extra",
-    "descriptionAdvanced_en": "Discover the Millau Viaduct, an architectural marvel gracefully spanning the Tarn Valley in Southern France. This iconic cable-stayed bridge, a highlight of the A75 motorway, offers breathtaking views and a seamless travel experience. Engineered to perfection by Lord Norman Foster and Michel Virlogeux, it harmonizes with the surrounding landscape, appearing delicate despite its colossal size. Visitors can appreciate its scale from the dedicated viewing area or by driving across its 2.5-kilometer length, feeling as if they are floating above the clouds. The viaduct is not just a transport link but a significant tourist destination, celebrated for its elegant design and the innovative techniques used in its construction, which pushed the boundaries of modern engineering. It stands as a testament to human ingenuity and a must-see for travelers exploring the Aveyron region.",
-    "factsAdvanced_en": [
-      "The tallest mast rises 343 meters (1,125 ft) above the base, making it the tallest bridge structure in the world.",
-      "The total length of the road deck is 2,460 meters (8,071 ft).",
-      "Construction was completed in just three years, from 2001 to 2004.",
-      "The bridge deck weighs 36,000 tonnes and is supported by 7 piers.",
-      "It was built to withstand wind speeds of up to 210 kilometers per hour (130 mph).",
-      "The project cost approximately €394 million to build.",
-      "The bridge holds the record for the highest road bridge deck in Europe.",
-      "Its construction involved the use of GPS and self-climbing formwork for precision."
-    ]
+    "id": "mn-dariganga-reserve-life-v2",
+    "descriptionAdvanced": {
+      "en": "The Dariganga Nature Reserve, established in 2004, encompasses 64,244 hectares in the Sukhbaatar province of eastern Mongolia. This protected region includes the Ganga Lake, the volcanic Shiliin Bogd mountain, and various sand dunes. During the autumn season, thousands of migratory swans congregate at Ganga Lake, representing a significant ecological event for regional bird populations. The reserve serves as a habitat for wildlife species adapted to the steppe and wetland environments found in this part of the country. Visitors to the area observe the combination of volcanic formations and freshwater ecosystems that define the Dariganga plateau. Conservation efforts focus on the balance between local herding practices and the protection of migratory birds. The area is also known for its historical monuments and cultural heritage linked to the Dariganga ethnic group. This landscape remains a vital part of the regional natural heritage in eastern Mongolia.",
+      "de": "Das Dariganga-Naturreservat wurde im Jahr 2004 gegründet und umfasst eine Fläche von 64.244 Hektar in der Provinz Süchbaatar im Osten der Mongolei. Diese geschützte Region umfasst den Ganga-See, den erloschenen Vulkanberg Shiliin Bogd und verschiedene Sanddünen. Während der Herbstsaison versammeln sich Tausende von wandernden Schwänen am Ganga-See, was ein bedeutendes ökologisches Ereignis für die regionalen Vogelpopulationen darstellt. Das Reservat dient als Lebensraum für Wildtierarten, die an die in diesem Teil des Landes vorkommenden Steppen- und Feuchtgebietsumgebungen angepasst sind. Besucher des Gebiets beobachten die Kombination aus vulkanischen Formationen und Süßwasserökosystemen, die das Dariganga-Plateau definieren. Die Naturschutzbemühungen konzentrieren sich auf das Gleichgewicht zwischen lokalen Hirtentraditionen und dem Schutz von gefährdeten Zugvögeln. Das Gebiet ist auch für seine historischen Denkmäler und das kulturelle Erbe der ethnischen Gruppe der Dariganga bekannt. Diese Landschaft bleibt ein wesentlicher Bestandteil des regionalen Naturerbes in der Ostmongolei.",
+      "hu": "A Dariganga Természetvédelmi Területet 2004-ben alapították, és 64 244 hektárnyi területet foglal magában Kelet-Mongólia Sühebátor tartományában. Ez a védett régió magában foglalja a Ganga-tavat, a Shiliin Bogd vulkáni hegyet és a kiterjedt homokdűnéket. Az őszi szezonban vándorló hattyúk ezrei gyűlnek össze a Ganga-tónál, ami jelentős ökológiai eseményt jelent a regionális madárpopulációk számára. A rezervátum az ország ezen részén található sztyeppei és vizes élőhelyekhez alkalmazkodott vadon élő állatfajok fontos élőhelyeként szolgál. Az idelátogatók a vulkáni képződmények és az édesvízi ökoszisztémák különleges találkozását figyelhetik meg, amelyek a Dariganga-fennsíkot jellemzik. A természetvédelmi erőfeszítések a helyi pásztorkodási gyakorlatok és a vándormadarak védelme közötti egyensúly fenntartására összpontosítanak. A terület a Dariganga etnikai csoporthoz kötődő történelmi emlékeiről és kulturális örökségéről is ismert a régióban. Ez a táj Kelet-Mongólia regionális természeti örökségének továbbra is létfontosságú részét képezi.",
+      "ro": "Rezervația Naturală Dariganga, înființată în 2004, cuprinde o suprafață de 64.244 de hectare în provincia Sukhbaatar din estul Mongoliei. Această regiune protejată include lacul Ganga, muntele vulcanic Shiliin Bogd și diverse dune de nisip mari. În timpul sezonului de toamnă, mii de lebede migratoare se adună pe lacul Ganga, reprezentând un eveniment ecologic semnificativ pentru populațiile de păsări din regiune. Rezervația servește ca habitat pentru speciile de animale sălbatice adaptate la mediile de stepă și zonele umede întâlnite în această parte a țării. Vizitatorii zonei observă combinația de formațiuni vulcanice și ecosisteme de apă dulce care definesc platoul Dariganga. Eforturile de conservare se concentrează pe echilibrul dintre practicile locale de păstorit și protecția păsărilor migratoare pe cale de dispariție. Zona este cunoscută și pentru monumentele sale istorice și moștenirea culturală legată de grupul etnic Dariganga. Acest peisaj rămâne o parte vitală a patrimoniului natural regional din estul Mongoliei."
+    },
+    "factsAdvanced": {
+      "en": [
+        "The reserve was officially established by the Mongolian government in 2004.",
+        "It covers a total surface area of approximately 64,244 hectares in Sukhbaatar.",
+        "Ganga Lake is a primary destination for thousands of migratory whooper swans.",
+        "Shiliin Bogd is an extinct volcano and the highest peak in the province.",
+        "The area features an intersection of sand dunes, wetlands, and basalt rocks.",
+        "Local climate conditions support specific flora essential for the regional ecosystem."
+      ],
+      "de": [
+        "Das Reservat wurde 2004 offiziell von der mongolischen Regierung eingerichtet.",
+        "Es umfasst eine Gesamtfläche von etwa 64.244 Hektar in Süchbaatar.",
+        "Der Ganga-See ist ein Hauptziel für Tausende von wandernden Singschwänen.",
+        "Shiliin Bogd ist ein erloschener Vulkan und der höchste Gipfel der Provinz.",
+        "Das Gebiet weist eine Kreuzung von Sanddünen, Feuchtgebieten und Basaltfelsen auf.",
+        "Die lokalen Klimabedingungen unterstützen eine spezifische Flora für das Ökosystem."
+      ],
+      "hu": [
+        "A rezervátumot a mongol kormány hivatalosan 2004-ben hozta létre.",
+        "Teljes területe körülbelül 64 244 hektár Sühebátor tartományban.",
+        "A Ganga-tó az énekes hattyúk ezreinek elsődleges vándorlási célpontja.",
+        "A Shiliin Bogd egy kialudt vulkán és a tartomány legmagasabb csúcsa.",
+        "A területen homokdűnék, vizes élőhelyek és bazaltkőzetek találkozása látható.",
+        "A helyi éghajlati viszonyok támogatják az ökoszisztéma számára alapvető flórát."
+      ],
+      "ro": [
+        "Rezervația a fost înființată oficial de guvernul mongol în anul 2004.",
+        "Aceasta acoperă o suprafață totală de aproximativ 64.244 de hectare în Sukhbaatar.",
+        "Lacul Ganga este o destinație primară pentru mii de lebede cântătoare migratoare.",
+        "Shiliin Bogd este un vulcan stins și cel mai înalt vârf din provincie.",
+        "Zona prezintă o intersecție de dune de nisip, zone umede și roci bazaltice.",
+        "Condițiile climatice locale susțin o floră specifică esențială pentru ecosistem."
+      ]
+    }
   },
   {
-    "id": "nature-gorges-du-verdon-extra",
-    "descriptionAdvanced_en": "Embark on an unforgettable journey to the Verdon Gorge, often hailed as the 'Grand Canyon of Europe.' Located in the heart of Provence, this spectacular limestone canyon offers dramatic landscapes and a wealth of outdoor activities. The Verdon River, with its startling turquoise water colored by glacial minerals, snakes through the chasm, creating a paradise for adventurers. Kayaking, paddleboarding, and electric boating on the serene waters of the Lac de Sainte-Croix at the gorge's entrance are popular pastimes. For thrill-seekers, the gorge provides world-class rock climbing with over 1,500 routes. Hikers can tackle the famous Martel Trail, while drivers can navigate the scenic 'Route des Crêtes,' a cliff-hugging road offering jaw-dropping panoramic views from numerous lookouts. This natural wonder is a cornerstone of the Verdon Natural Regional Park, preserving its unique ecosystem.",
-    "factsAdvanced_en": [
-      "The Verdon Gorge is approximately 25 kilometers (15.5 miles) long.",
-      "Its limestone cliffs reach depths of up to 700 meters (2,300 feet).",
-      "The river's distinct turquoise color is caused by fine glacial rock flour (glaciofluvial sediments).",
-      "It is a hotspot for rock climbers, featuring more than 1,500 climbing routes.",
-      "The 'Sentier Martel' is a famous 15 km hiking trail that follows the gorge.",
-      "The gorge flows into the artificial Lac de Sainte-Croix, a popular spot for water sports.",
-      "The area was officially designated as a protected natural site in 1990.",
-      "The 'Styx du Verdon,' named after the mythical river, is a notable narrow section of the canyon."
-    ]
+    "id": "mn-numrug-reserve-life-v2",
+    "descriptionAdvanced": {
+      "en": "The Numrug Strictly Protected Area was established in 1992 and covers 311,205 hectares in the Dornod province of far eastern Mongolia. This remote region is situated along the Khalkh River and represents a transition zone between the Mongolian steppe and the East Asian ecosystem. It is the only place in Mongolia where species such as the Ussuri moose and various rare amphibians are found in their natural habitat. The area was protected to preserve its biodiversity, which remains largely untouched due to its location on the border. The landscape is characterized by river valleys, dense forests, and expansive grasslands that support a wide array of wildlife. Scientific research in Numrug focuses on the migration patterns of rare mammals and the conservation of the local riverine environment. The region also hosts several endangered bird species that rely on the Khalkh River for breeding. This area constitutes a critical component of the transboundary ecosystem in Northeast Asia.",
+      "de": "Das streng geschützte Gebiet Numrug wurde 1992 gegründet und umfasst 311.205 Hektar in der Provinz Dornod im fernen Osten der Mongolei. Diese abgelegene Region liegt entlang des Flusses Chalch und stellt eine Übergangszone zwischen der mongolischen Steppe und dem ostasiatischen Ökosystem dar. Es ist der einzige Ort in der Mongolei, an dem Arten wie der Ussuri-Elch und verschiedene seltene Amphibien in ihrem natürlichen Lebensraum vorkommen. Das Gebiet wurde geschützt, um seine Artenvielfalt zu bewahren, die aufgrund seiner Lage an der Grenze weitgehend unberührt bleibt. Die Landschaft ist durch Flusstäler, dichte Wälder und weite Graslandschaften gekennzeichnet, die eine Vielzahl von Wildtieren beherbergen. Die wissenschaftliche Forschung in Numrug konzentriert sich auf die Wanderungsmuster seltener Säugetiere und die Erhaltung der lokalen Flussumgebung. Die Region beherbergt auch mehrere gefährdete Vogelarten, die auf den Fluss Chalch für die Brut angewiesen sind. Dieses Gebiet stellt eine kritische Komponente des grenzüberschreitenden Ökosystems in Nordostasien dar.",
+      "hu": "A Numrug Szigorúan Védett Területet 1992-ben hozták létre, és 311 205 hektárt foglal magában Mongólia legkeletibb részén, Dornod tartományban. Ez a távoli régió a Halh-folyó mentén helyezkedik el, és átmeneti zónát képez a mongol sztyeppe és a kelet-ázsiai ökoszisztéma között. Ez az egyetlen hely Mongóliában, ahol olyan fajok, mint az usszuri jávorszarvas és különféle ritka kétéltűek megtalálhatók természetes élőhelyükön. A területet azért vonták védelem alá, hogy megőrizzék biodiverzitását, amely határ menti elhelyezkedése miatt nagyrészt érintetlen maradt. A tájat folyóvölgyek, sűrű erdők és kiterjedt füves puszták jellemzik, amelyek a vadon élő állatok széles skáláját tartják el. A Numrugban folyó tudományos kutatások a ritka emlősök vándorlási mintáira és a helyi folyómenti környezet megőrzésére összpontosítanak. A régió számos veszélyeztetett madárfajnak is otthont ad, amelyek a Halh-folyót használják szaporodásra. Ez a terület az északkelet-ázsiai határokon átnyúló ökoszisztéma kritikus elemét alkotja.",
+      "ro": "Zona Strict Protejată Numrug a fost înființată în 1992 și acoperă 311.205 hectare în provincia Dornod din extremul est al Mongoliei. Această regiune izolată este situată de-a lungul râului Khalkh și reprezintă o zonă de tranziție între stepa mongolă și ecosistemul est-asiatic. Este singurul loc din Mongolia unde specii precum elanul de Ussuri și diverși amfibieni rari se găsesc în habitatul lor natural. Zona a fost protejată pentru a-și păstra biodiversitatea, care rămâne în mare parte neatinsă datorită locației sale la frontieră. Peisajul este caracterizat de văi ale râurilor, păduri dese și pășuni vaste care susțin o gamă largă de animale sălbatice. Cercetarea științifică în Numrug se concentrează pe modelele de migrație ale mamiferelor rare și pe conservarea mediului fluvial local. Regiunea găzduiește, de asemenea, mai multe specii de păsări pe cale de dispariție care depind de râul Khalkh pentru reproducere. Această zonă constituie o componentă critică a ecosistemului transfrontalier din Asia de Nord-Est."
+    },
+    "factsAdvanced": {
+      "en": [
+        "Numrug was established as a strictly protected area in 1992.",
+        "It covers over 311,000 hectares in the easternmost Dornod province.",
+        "The Khalkh River flows through the reserve, supporting the local ecosystem.",
+        "The Ussuri moose is a key species found exclusively in this region.",
+        "It represents the westernmost edge of the East Asian forest-steppe zone.",
+        "Access is strictly regulated to minimize human impact on the environment."
+      ],
+      "de": [
+        "Numrug wurde 1992 als streng geschütztes Gebiet eingerichtet.",
+        "Es umfasst über 311.000 Hektar in der östlichsten Provinz Dornod.",
+        "Der Fluss Chalch fließt durch das Reservat und unterstützt das Ökosystem.",
+        "Der Ussuri-Elch ist eine Schlüsselart, die ausschließlich in dieser Region vorkommt.",
+        "Es stellt den westlichsten Rand der ostasiatischen Waldsteppenzone dar.",
+        "Der Zugang ist streng reglementiert, um menschliche Auswirkungen zu minimieren."
+      ],
+      "hu": [
+        "A Numrug területet 1992-ben nyilvánították szigorúan védetté.",
+        "Több mint 311 000 hektárt fed le a legkeletibb Dornod tartományban.",
+        "A Halh-folyó keresztülfolyik a rezervátumon, támogatva a helyi ökoszisztémát.",
+        "Az usszuri jávorszarvas egy kulcsfontosságú faj, amely csak itt található meg.",
+        "Ez a kelet-ázsiai erdős sztyeppe zóna legnyugatibb szélét képviseli.",
+        "A hozzáférés szigorúan szabályozott a környezeti hatások minimalizálása érdekében."
+      ],
+      "ro": [
+        "Numrug a fost înființată ca zonă strict protejată în anul 1992.",
+        "Acoperă peste 311.000 de hectare în cea mai estică provincie, Dornod.",
+        "Râul Khalkh curge prin rezervație, susținând ecosistemul local.",
+        "Elanul de Ussuri este o specie cheie găsită exclusiv în această regiune.",
+        "Reprezintă marginea cea mai vestică a zonei de silvostepă din Asia de Est.",
+        "Accesul este strict reglementat pentru a minimiza impactul uman asupra mediului."
+      ]
+    }
   },
   {
-    "id": "castle-chateau-de-chambord-extra",
-    "descriptionAdvanced_en": "Step into a world of royal grandeur at the Château de Chambord, the crown jewel of the Loire Valley and a designated UNESCO World Heritage site. Commissioned by King Francis I, this magnificent palace is the epitome of French Renaissance architecture, with a design famously influenced by Leonardo da Vinci. Its most celebrated feature is the ingenious double-helix staircase, which allows two people to ascend or descend without ever meeting. The château's distinctive roofscape, a forest of ornate chimneys and towers, creates an unforgettable skyline. Beyond the castle walls lies the Domaine National de Chambord, the largest enclosed forest park in Europe, offering a sanctuary for wildlife like red deer and wild boar. Visitors can explore the opulent rooms, wander through the formal gardens, or enjoy activities like cycling, boating, and horseback riding within the vast estate.",
-    "factsAdvanced_en": [
-      "The château boasts an impressive 440 rooms, 282 fireplaces, and 77 staircases.",
-      "Its construction began in 1519 and took over 25 years, though it was never fully completed.",
-      "The central double-helix staircase is a unique architectural feature attributed to Leonardo da Vinci.",
-      "The surrounding estate, Domaine de Chambord, is the largest walled forest park in Europe, covering 5,440 hectares (13,400 acres).",
-      "The château's façade measures 156 meters long and 56 meters high.",
-      "It was used as a safe repository for art from the Louvre Museum during World War II.",
-      "The roofline features 11 different types of towers and 3 types of chimneys.",
-      "It was built to serve as a hunting lodge for King Francis I."
-    ]
+    "id": "mn-sharga-reserve-life-v2",
+    "descriptionAdvanced": {
+      "en": "The Sharga Nature Reserve, established in 1993, encompasses 286,000 hectares in the Govi-Altai province of western Mongolia. This semi-desert region was primarily gazetted to protect the endangered Mongolian Saiga antelope, also known as Saiga tatarica mongolica. The reserve provides a critical sanctuary for this rare subspecies, which is endemic to the Sharga and Khuis basins. The landscape consists of vast gravel plains and salt marshes, where vegetation is sparse but essential for the survival of the local fauna. Conservation efforts are vital here to mitigate the threats from climate change and illegal poaching that affect the Saiga population. The Sharga basin is considered one of the most important ecosystems for desert-adapted mammals in Central Asia. Local rangers monitor the water sources to ensure the survival of wildlife during the harsh winter and dry summer seasons. This region represents a significant part of the Mongolian desert-steppe landscape and its unique biodiversity.",
+      "de": "Das Sharga-Naturreservat wurde 1993 gegründet und umfasst 286.000 Hektar in der Provinz Gobi-Altai im Westen der Mongolei. Diese Halbwüstenregion wurde primär ausgewiesen, um die gefährdete Mongolische Saiga-Antilope, auch bekannt als Saiga tatarica mongolica, zu schützen. Das Reservat bietet ein kritisches Schutzgebiet für diese seltene Unterart, die in den Becken von Sharga und Chujs endemisch ist. Die Landschaft besteht aus weiten Kiesebenen und Salzsümpfen, in denen die Vegetation spärlich, aber lebensnotwendig für die lokale Fauna ist. Naturschutzbemühungen sind hier entscheidend, um die Bedrohungen durch den Klimawandel und die illegale Wilderei zu mildern. Das Sharga-Becken gilt als eines der wichtigsten Ökosysteme für an die Wüste angepasste Säugetiere in Zentralasien. Lokale Ranger überwachen die Wasserquellen, um das Überleben der Wildtiere während der harten Winter und trockenen Sommer zu sichern. Diese Region stellt einen bedeutenden Teil der mongolischen Wüstensteppenlandschaft und ihrer Artenvielfalt dar.",
+      "hu": "A Sharga Természetvédelmi Területet 1993-ban alapították, és 286 000 hektárt foglal magában a nyugat-mongóliai Góbi-Altaj tartományban. Ezt a félsivatagi régiót elsősorban a veszélyeztetett mongol szaiga antilop, más néven Saiga tatarica mongolica védelmére hozták létre. A rezervátum kritikus menedéket nyújt ennek a ritka alfajnak, amely a Sharga- és Khuis-medencékben endemikus. A táj hatalmas kavicsos síkságokból és sós mocsarakból áll, ahol a növényzet ritkás, de elengedhetetlen a helyi fauna túléléséhez. A természetvédelmi erőfeszítések létfontosságúak itt az éghajlatváltozás és az illegális orvvadászat szaiga-populációt érintő fenyegetéseinek mérséklésére. A Sharga-medencét Közép-Ázsia egyik legfontosabb ökoszisztémájának tekintik a sivataghoz alkalmazkodott emlősök számára. A helyi vadőrök felügyelik a vízforrásokat, hogy biztosítsák a vadon élő állatok túlélését a zord téli és száraz nyári időszakokban. Ez a régió a mongol sivatagi sztyeppei táj és annak élővilágának jelentős részét képviseli.",
+      "ro": "Rezervația Naturală Sharga, înființată în 1993, cuprinde 286.000 de hectare în provincia Govi-Altai din vestul Mongoliei. Această regiune de semideșert a fost creată în principal pentru a proteja antilopa Saiga mongolă, aflată în pericol de dispariție, cunoscută și sub numele de Saiga tatarica mongolica. Rezervația oferă un sanctuar critic pentru această subspecie rară, care este endemică în bazinele Sharga și Khuis. Peisajul constă în câmpii vaste de pietriș și mlaștini sărate, unde vegetația este rară, dar esențială pentru supraviețuirea faunei locale. Eforturile de conservare sunt vitale aici pentru a atenua amenințările legate de schimbările climatice și braconajul ilegal care afectează populația de Saiga. Bazinul Sharga este considerat unul dintre cele mai importante ecosisteme pentru mamiferele adaptate la deșert din Asia Centrală. Rangerii locali monitorizează sursele de apă pentru a asigura supraviețuirea animalelor sălbatice în timpul iernilor aspre și al verilor secetoase. Această regiune reprezintă o parte semnificativă a peisajului de deșert-stepă mongol și a biodiversității sale."
+    },
+    "factsAdvanced": {
+      "en": [
+        "Sharga Nature Reserve was established in 1993 for wildlife protection.",
+        "It spans 286,000 hectares across the Govi-Altai desert-steppe.",
+        "The area is the primary habitat for the endemic Mongolian Saiga antelope.",
+        "The ecosystem consists of arid plains, salt pans, and low mountains.",
+        "Conservation programs focus on preventing poaching and habitat loss.",
+        "The Saiga population here is monitored by international wildlife organizations."
+      ],
+      "de": [
+        "Das Sharga-Naturreservat wurde 1993 zum Schutz der Wildtiere gegründet.",
+        "Es erstreckt sich über 286.000 Hektar in der Wüstensteppe von Gobi-Altai.",
+        "Das Gebiet ist der Hauptlebensraum für die mongolische Saiga-Antilope.",
+        "Das Ökosystem besteht aus trockenen Ebenen, Salzpfannen und Bergen.",
+        "Naturschutzprogramme konzentrieren sich auf den Schutz vor Wilderei.",
+        "Die Saiga-Population wird von internationalen Organisationen überwacht."
+      ],
+      "hu": [
+        "A Sharga Természetvédelmi Területet 1993-ban hozták létre vadvédelemre.",
+        "286 000 hektáron terül el a Góbi-Altaj sivatagi sztyeppéjén.",
+        "A terület az endemikus mongol szaiga antilop elsődleges élőhelye.",
+        "Az ökoszisztéma száraz síkságokból, sólepárlókból és alacsony hegyekből áll.",
+        "A védelmi programok az orvvadászat és az élőhelyvesztés megelőzésére fókuszálnak.",
+        "Az itteni szaiga-populációt nemzetközi szervezetek is figyelemmel kísérik."
+      ],
+      "ro": [
+        "Rezervația Naturală Sharga a fost înființată în 1993 pentru protecția faunei.",
+        "Se întinde pe 286.000 de hectare în stepa de deșert din Govi-Altai.",
+        "Zona este habitatul principal pentru antilopa Saiga mongolă endemică.",
+        "Ecosistemul constă în câmpii aride, ochiuri de sare și munți josi.",
+        "Programele de conservare se concentrează pe prevenirea braconajului.",
+        "Populația de Saiga de aici este monitorizată de organizații internaționale."
+      ]
+    }
   },
   {
-    "id": "kid-landmark-parc-asterix-extra",
-    "descriptionAdvanced_en": "Experience a Gallic adventure at Parc Astérix, a theme park that brings the beloved comic book world of Astérix and Obélix to life. Located just north of Paris, this park offers a uniquely French and humorous alternative to other major theme parks, deeply rooted in history and mythology. The park is divided into several themed zones, including Ancient Greece, the Roman Empire, Egypt, and of course, the indomitable Gaulish village. Thrill-seekers can challenge legendary roller coasters like the wooden 'Tonnerre 2 Zeus' or the multi-looping 'Goudurix.' Families will find plenty of attractions suitable for all ages, alongside entertaining live shows featuring stunt performers, Roman soldiers, and the famous Gaulish heroes. With its distinctive charm, exhilarating rides, and immersive theming, Parc Astérix provides a full day of fun and laughter for visitors of all ages.",
-    "factsAdvanced_en": [
-      "Parc Astérix first opened its gates on April 30, 1989.",
-      "The park features over 42 attractions, including 7 roller coasters and 6 water rides.",
-      "The 'Tonnerre 2 Zeus' is a renowned wooden roller coaster stretching over 1.2 kilometers.",
-      "It is the second most visited theme park in France, attracting over 2.3 million visitors annually.",
-      "The park is divided into 6 themed worlds representing the adventures of Astérix.",
-      "It is located in Plailly, approximately 35 km (22 miles) north of Paris.",
-      "The park's largest roller coaster, OzIris, is an inverted coaster with a top speed of 90 km/h.",
-      "There are three themed hotels on-site for guests wishing to stay overnight."
-    ]
+    "id": "mn-lkhachinvandad-life-v2",
+    "descriptionAdvanced": {
+      "en": "The Lkhachinvandad Nature Reserve was established in 1965 and covers 58,800 hectares in the Sukhbaatar province of eastern Mongolia. This reserve was created to protect the population of Red Deer, specifically the Cervus elaphus species, in its native forest-steppe environment. The landscape features low mountains and rocky outcrops that provide essential cover and grazing grounds for the deer and other wildlife. It is one of the few places in the eastern plains where this species is actively conserved within a protected framework. The vegetation consists of shrubs, grasses, and scattered trees that are adapted to the semi-arid climate of the region. Local conservation initiatives emphasize the protection of water sources and the prevention of habitat fragmentation. Scientific studies in Lkhachinvandad investigate the adaptation of deer populations to the changing environmental conditions in eastern Mongolia. This reserve remains a significant site for biodiversity conservation in the Sukhbaatar region.",
+      "de": "Das Lkhachinvandad-Naturreservat wurde 1965 gegründet und umfasst 58.800 Hektar in der Provinz Süchbaatar im Osten der Mongolei. Dieses Reservat wurde eingerichtet, um die Population des Rothirsches, speziell der Art Cervus elaphus, in ihrer natürlichen Waldsteppenumgebung zu schützen. Die Landschaft ist geprägt von niedrigen Bergen und felsigen Ausläufern, die Hirschen und anderen Wildtieren Deckung und Weidegründe bieten. Es ist einer der wenigen Orte in den östlichen Ebenen, an denen diese Art innerhalb eines geschützten Rahmens aktiv erhalten wird. Die Vegetation besteht aus Sträuchern, Gräsern und vereinzelten Bäumen, die an das semiaride Klima der Region angepasst sind. Lokale Naturschutzinitiativen legen Wert auf den Schutz von Wasserquellen und die Vermeidung von Lebensraumfragmentierung. Wissenschaftliche Studien in Lkhachinvandad untersuchen die Anpassung der Hirschpopulationen an die sich ändernden Umweltbedingungen in der Ostmongolei. Dieses Reservat bleibt ein bedeutender Standort für den Schutz der biologischen Vielfalt in der Region Süchbaatar.",
+      "hu": "A Lkhachinvandad Természetvédelmi Területet 1965-ben hozták létre, és 58 800 hektárt foglal magában Kelet-Mongólia Sühebátor tartományában. Ezt a rezervátumot a gímszarvas-populáció, különösen a Cervus elaphus faj védelmére alapították természetes erdős sztyeppei környezetében. A tájat alacsony hegyek és sziklás kibúvások jellemzik, amelyek alapvető fedezéket és legelőt biztosítanak a szarvasok és más vadon élő állatok számára. Ez az egyik azon kevés helyeknek a keleti síkságon, ahol ezt a fajt aktívan őrzik védett keretek között. A növényzet cserjékből, füvekből és elszórt fákból áll, amelyek alkalmazkodtak a régió félszáraz éghajlatához. A helyi természetvédelmi kezdeményezések a vízforrások védelmére és az élőhelyek feldarabolódásának megelőzésére helyezik a hangsúlyt. A Lkhachinvandadban végzett tudományos vizsgálatok a szarvaspopulációk alkalmazkodását kutatják a változó környezeti feltételekhez Kelet-Mongóliában. Ez a rezervátum továbbra is a biodiverzitás megőrzésének jelentős helyszíne Sühebátor régiójában.",
+      "ro": "Rezervația Naturală Lkhachinvandad a fost înființată în 1965 și acoperă 58.800 de hectare în provincia Sukhbaatar din estul Mongoliei. Această rezervație a fost creată pentru a proteja populația de cerbi nobili, în special specia Cervus elaphus, în mediul său nativ de silvostepă. Peisajul prezintă munți joși și aflorimente stâncoase care oferă adăpost esențial și terenuri de pășunat pentru cerbi și alte animale sălbatice. Este unul dintre puținele locuri din câmpiile estice unde această specie este conservată activ într-un cadru protejat. Vegetația constă în arbuști, ierburi și copaci răzleți care sunt adaptați la clima semiaridă a regiunii. Inițiativele locale de conservare pun accent pe protejarea surselor de apă și prevenirea fragmentării habitatului. Studiile științifice din Lkhachinvandad investighează adaptarea populațiilor de cerbi la condițiile de mediu în schimbare din estul Mongoliei. Această rezervație rămâne un sit semnificativ pentru conservarea biodiversității în regiunea Sukhbaatar."
+    },
+    "factsAdvanced": {
+      "en": [
+        "The reserve was established in 1965 to protect the Red Deer population.",
+        "It is located in the Sukhbaatar province of eastern Mongolia.",
+        "The total protected area spans approximately 58,800 hectares.",
+        "Cervus elaphus is the primary species targeted by conservation efforts.",
+        "The terrain consists of rocky outcrops and forest-steppe landscapes.",
+        "It serves as a critical refuge for mammals in the eastern plains."
+      ],
+      "de": [
+        "Das Reservat wurde 1965 zum Schutz der Rothirschpopulation gegründet.",
+        "Es befindet sich in der Provinz Süchbaatar im Osten der Mongolei.",
+        "Das gesamte Schutzgebiet umfasst etwa 58.800 Hektar.",
+        "Cervus elaphus ist die primäre Art der Naturschutzbemühungen.",
+        "Das Gelände besteht aus Felsvorsprüngen und Waldsteppenlandschaften.",
+        "Es dient als wichtiger Zufluchtsort für Säugetiere in den östlichen Ebenen."
+      ],
+      "hu": [
+        "A rezervátumot 1965-ben alapították a gímszarvas-populáció védelmére.",
+        "Mongólia keleti részén, Sühebátor tartományban található.",
+        "A teljes védett terület körülbelül 58 800 hektárt tesz ki.",
+        "A Cervus elaphus a természetvédelmi erőfeszítések elsődleges célfaja.",
+        "A terep sziklás kibúvásokból és erdős sztyeppei tájakból áll.",
+        "Fontos menedékhelyként szolgál az emlősök számára a keleti síkságon."
+      ],
+      "ro": [
+        "Rezervația a fost înființată în 1965 pentru a proteja cerbul nobil.",
+        "Este situată în provincia Sukhbaatar din estul Mongoliei.",
+        "Suprafața totală protejată se întinde pe aproximativ 58.800 de hectare.",
+        "Cervus elaphus este specia principală vizată de eforturile de conservare.",
+        "Terenul constă în aflorimente stâncoase și peisaje de silvostepă.",
+        "Servește ca refugiu critic pentru mamifere în câmpiile estice."
+      ]
+    }
   },
   {
-    "id": "city-rouen-extra",
-    "descriptionAdvanced_en": "Explore Rouen, the vibrant and historic capital of Normandy, often called the 'City of a Hundred Spires.' This city is a living museum, with a beautifully preserved medieval quarter filled with winding cobblestone streets and over 2,000 half-timbered houses. The skyline is dominated by the magnificent Notre-Dame Cathedral, a masterpiece of Gothic architecture immortalized in a series of paintings by Claude Monet. A focal point of the old town is the Gros-Horloge, an ornate 14th-century astronomical clock. Rouen's history is deeply intertwined with the story of Joan of Arc, who was tried and executed in the market square in 1431; a modern church now stands at the site. As a key city on the River Seine, Rouen offers a rich cultural experience, from world-class museums to a thriving culinary scene celebrating Norman traditions. It's a perfect destination for history buffs and art lovers.",
-    "factsAdvanced_en": [
-      "Rouen's Notre-Dame Cathedral was the tallest building in the world from 1876 to 1880.",
-      "The Gros-Horloge, an astronomical clock from 1389, is one of the oldest in Europe.",
-      "Claude Monet painted his famous 'Cathedral Series' of over 30 canvases depicting Rouen's cathedral.",
-      "The city has over 2,000 protected half-timbered houses, some dating back to the Middle Ages.",
-      "Joan of Arc was martyred in the city's Old Market Square (Place du Vieux Marché) in 1431.",
-      "The Church of Saint-Maclou is considered a masterpiece of the 'Flamboyant' style of Gothic architecture.",
-      "Rouen is the historic capital city of the Normandy region.",
-      "The city's 'Parliament of Normandy' building is a prime example of civic Gothic architecture."
-    ]
+    "id": "mn-tsaatan-camps-life-v2",
+    "descriptionAdvanced": {
+      "en": "The Tsaatan Reindeer Camps are located in the remote taiga regions of Khovsgol province in northern Mongolia. This area is home to the Dukha people, a nomadic group known for their tradition of herding reindeer across the mountainous terrain. The Tsaatan culture is deeply intertwined with the taiga ecosystem, relying on reindeer for transportation, milk, and materials. Their nomadic lifestyle involves moving several times a year to find suitable grazing grounds for their herds in the subarctic climate. Shamanic traditions and ancient customs remain a vital part of the daily life and social structure of the Dukha communities. Visitors to the region learn about the challenges of living in the wilderness and the efforts to preserve this endangered cultural heritage. The camps represent one of the last remaining examples of reindeer-based nomadism in the world. The northern taiga provides a spectacular backdrop of dense forests and rugged peaks for these traditional settlements.",
+      "de": "Die Rentiercamps der Tsaatan befinden sich in den abgelegenen Taigaregionen der Provinz Chöwsgöl im Norden der Mongolei. In diesem Gebiet leben die Dukha, eine nomadische Gruppe, die für ihre Tradition der Rentierzucht im bergigen Gelände bekannt ist. Die Kultur der Tsaatan ist eng mit dem Taiga-Ökosystem verwoben, wobei sie für Transport, Milch und Materialien auf Rentiere angewiesen sind. Ihr nomadischer Lebensstil beinhaltet den mehrmaligen Umzug pro Jahr, um geeignete Weidegründe für ihre Herden im subarktischen Klima zu finden. Schamanische Traditionen und alte Bräuche bleiben ein wesentlicher Bestandteil des täglichen Lebens und der sozialen Struktur der Dukha-Gemeinschaften. Besucher der Region lernen die Herausforderungen des Lebens in der Wildnis und die Bemühungen zur Erhaltung dieses gefährdeten kulturellen Erbes kennen. Die Camps stellen eines der letzten verbliebenen Beispiele für Rentier-Nomadismus weltweit dar. Die nördliche Taiga bietet eine spektakuläre Kulisse aus dichten Wäldern und schroffen Gipfeln für diese traditionellen Siedlungen.",
+      "hu": "A tsaatan rénszarvastartó táborok Mongólia északi részén, Hövszgöl tartomány távoli tajga vidékein találhatók. Ezen a területen élnek a duha emberek, egy nomád csoport, amely a hegyvidéki terepen folytatott rénszarvas-pásztorkodás hagyományáról ismert. A tsaatan kultúra mélyen összefonódik a tajga ökoszisztémájával, a rénszarvasokra támaszkodva a szállítás, a tej és a különféle alapanyagok tekintetében. Nomád életmódjuk során évente többször költöznek, hogy megfelelő legelőket találjanak csordáik számára a szubarktikus éghajlaton. A sámáni hagyományok és az ősi szokások továbbra is a duha közösségek mindennapi életének és társadalmi szerkezetének létfontosságú részét képezik. A régióba látogatók megismerhetik a vadonban való élet kihívásait és e veszélyeztetett kulturális örökség megőrzésére irányuló törekvéseket. A táborok a világ egyik utolsó fennmaradt példáját jelentik a rénszarvas-alapú nomadizmusnak. Az északi tajga sűrű erdei és zord csúcsai látványos hátteret biztosítanak ezeknek a hagyományos településeknek.",
+      "ro": "Taberele de reni Tsaatan sunt situate în regiunile izolate de taiga din provincia Khovsgol, în nordul Mongoliei. Această zonă este casa poporului Dukha, un grup nomad cunoscut pentru tradiția lor de a păstori reni pe terenul muntos. Cultura Tsaatan este profund legată de ecosistemul taigalei, bazându-se pe reni pentru transport, lapte și materiale. Stilul lor de viață nomad implică mutarea de mai multe ori pe an pentru a găsi pășuni potrivite pentru turmele lor în climatul subarctic. Tradițiile șamanice și obiceiurile străvechi rămân o parte vitală a vieții de zi cu zi și a structurii sociale a comunităților Dukha. Vizitatorii regiunii învață despre provocările vieții în sălbăticie și despre eforturile de conservare a acestui patrimoniu cultural pe cale de dispariție. Taberele reprezintă unul dintre ultimele exemple rămase de nomadism bazat pe reni din lume. Taigaua nordică oferă un fundal spectaculos de păduri dese și vârfuri accidentate pentru aceste așezări tradiționale."
+    },
+    "factsAdvanced": {
+      "en": [
+        "The Tsaatan or Dukha people are reindeer herders in northern Mongolia.",
+        "Reindeer are used for riding, milking, and carrying heavy loads.",
+        "Their community is located in the mountainous taiga of Khovsgol.",
+        "They live in traditional conical dwellings known as 'ortz' tents.",
+        "The Dukha culture includes ancient shamanic rituals and beliefs.",
+        "The reindeer diet consists primarily of lichen found in the high taiga."
+      ],
+      "de": [
+        "Die Tsaatan oder Dukha sind Rentierzüchter im Norden der Mongolei.",
+        "Rentiere werden zum Reiten, Melken und Tragen von Lasten genutzt.",
+        "Ihre Gemeinschaft befindet sich in der bergigen Taiga von Chöwsgöl.",
+        "Sie leben in traditionellen kegelförmigen Zelten, bekannt als Ortz.",
+        "Die Dukha-Kultur umfasst alte schamanische Rituale und Überzeugungen.",
+        "Die Nahrung der Rentiere besteht primär aus Flechten der Hochtaiga."
+      ],
+      "hu": [
+        "A tsaatan vagy duha nép rénszarvaspásztorok Észak-Mongóliában.",
+        "A rénszarvasokat lovaglásra, fejésre és teherhordásra használják.",
+        "Közösségük Hövszgöl tartomány hegyvidéki tajga területén él.",
+        "Hagyományos, kúp alakú sátrakban élnek, amelyeket 'orc'-nak neveznek.",
+        "A duha kultúra ősi sámáni rituálékat és hiedelmeket tartalmaz.",
+        "A rénszarvasok étrendje főként a magas tajgán található zuzmókból áll."
+      ],
+      "ro": [
+        "Poporul Tsaatan sau Dukha este format din păstori de reni din nord.",
+        "Renii sunt folosiți pentru călărie, muls și transportul poverilor.",
+        "Comunitatea lor este situată în taigaua muntoasă din Khovsgol.",
+        "Locuiesc în locuințe conice tradiționale cunoscute sub numele de corturi ortz.",
+        "Cultura Dukha include ritualuri și credințe șamanice străvechi.",
+        "Dieta renilor constă în principal din licheni găsiți în taigaua înaltă."
+      ]
+    }
+  },
+  {
+    "id": "mn-uvs-seabuckthorn-life-v2",
+    "descriptionAdvanced": {
+      "en": "Uvs Sea Buckthorn Farms are located in the Uvs province of western Mongolia, a region known for its harsh climate and fertile river valleys. The sea buckthorn berries from this area have received Protected Geographical Indication (PGI) status due to their distinctive quality and high Vitamin C content. Cultivation is concentrated in districts like Sagil and Tes, where the environmental conditions favor the growth of these nutrient-rich berries. The plant is prized for its oil, which is used in pharmaceutical and cosmetic products globally. Local farmers employ intensive cultivation techniques to increase yields while maintaining the organic integrity of the crop. The industry provides significant economic opportunities for the rural population in the Uvs basin. This agricultural activity also helps in preventing soil erosion and improving land management in the desert-steppe zone. The harvesting process usually takes place in late autumn when the berries are fully ripe.",
+      "de": "Die Sanddornfarmen von Uws befinden sich in der Provinz Uws im Westen der Mongolei, einer Region, die für ihr hartes Klima und ihre fruchtbaren Flusstäler bekannt ist. Die Sanddornbeeren aus diesem Gebiet haben aufgrund ihrer besonderen Qualität und ihres hohen Vitamin-C-Gehalts den Status einer geschützten geografischen Angabe (g.A.) erhalten. Der Anbau konzentriert sich auf Distrikte wie Sagil und Tes, wo die Umweltbedingungen das Wachstum dieser nährstoffreichen Beeren begünstigen. Die Pflanze wird wegen ihres Öls geschätzt, das weltweit in pharmazeutischen und kosmetischen Produkten verwendet wird. Lokale Landwirte setzen intensive Anbautechniken ein, um die Erträge zu steigern und gleichzeitig die biologische Integrität der Ernte zu bewahren. Die Branche bietet erhebliche wirtschaftliche Möglichkeiten für die ländliche Bevölkerung im Uws-Becken. Diese landwirtschaftliche Tätigkeit trägt auch dazu bei, Bodenerosion zu verhindern und das Landmanagement in der Wüstensteppenzone zu verbessern. Die Ernte findet meist im Spätherbst statt, wenn die Beeren vollreif sind.",
+      "hu": "Az uvszi homoktövis-farmok Mongólia nyugati részén, Uvsz tartományban találhatók, amely régió zord éghajlatáról és termékeny folyóvölgyeiről ismert. Az erről a területről származó homoktövis bogyók megkülönböztetett minőségük és magas C-vitamin-tartalmuk miatt földrajzi árujelző (PGI) oltalmat kaptak. A termesztés olyan járásokban összpontosul, mint Sagil és Tes, ahol a környezeti feltételek kedveznek ezeknek a tápanyagban gazdag bogyóknak a növekedéséhez. A növényt az olajáért értékelik, amelyet világszerte gyógyszerészeti és kozmetikai termékekben használnak fel. A helyi gazdák intenzív termesztési technikákat alkalmaznak a hozamok növelése érdekében, miközben megőrzik a termés ökológiai tisztaságát. Az ágazat jelentős gazdasági lehetőségeket kínál az Uvsz-medence vidéki lakossága számára. Ez a mezőgazdasági tevékenység segít a talajerózió megelőzésében és a földhasználat javításában is a sivatagi sztyeppezónában. A betakarítási folyamat általában késő ősszel történik, amikor a bogyók már teljesen érettek.",
+      "ro": "Fermele de cătină din Uvs sunt situate în provincia Uvs din vestul Mongoliei, o regiune cunoscută pentru clima aspră și văile fertile ale râurilor. Boabele de cătină din această zonă au primit statutul de Indicație Geografică Protejată (IGP) datorită calității lor distinctive și conținutului ridicat de vitamina C. Cultivarea este concentrată în districte precum Sagil și Tes, unde condițiile de mediu favorizează creșterea acestor fructe bogate în nutrienți. Planta este prețuită pentru uleiul său, care este utilizat la nivel global în produse farmaceutice și cosmetice. Fermierii locali folosesc tehnici intensive de cultivare pentru a crește recoltele, menținând în același timp integritatea organică a culturii. Industria oferă oportunități economice semnificative pentru populația rurală din bazinul Uvs. Această activitate agricolă ajută, de asemenea, la prevenirea eroziunii solului și la îmbunătățirea gestionării terenurilor în zona de deșert-stepă. Procesul de recoltare are loc de obicei la sfârșitul toamnei, când fructele sunt complet coapte."
+    },
+    "factsAdvanced": {
+      "en": [
+        "Uvs Sea Buckthorn was the first Mongolian product to receive PGI status.",
+        "The berries are famous for having extremely high concentrations of Vitamin C.",
+        "Major cultivation areas include the districts of Sagil, Tes, and Zuungobi.",
+        "The oil extracted from the seeds is used in traditional and modern medicine.",
+        "Sea buckthorn bushes act as a natural barrier against desertification.",
+        "The industry supports thousands of small-scale farmers in western Mongolia."
+      ],
+      "de": [
+        "Uws-Sanddorn war das erste mongolische Produkt mit g.A.-Status.",
+        "Die Beeren sind bekannt für extrem hohe Konzentrationen an Vitamin C.",
+        "Hauptanbaugebiete sind die Distrikte Sagil, Tes und Zuungobi.",
+        "Das aus den Samen gewonnene Öl wird in der Medizin verwendet.",
+        "Sanddornsträucher dienen als natürliche Barriere gegen Wüstenbildung.",
+        "Die Branche unterstützt Tausende von Kleinbauern in Westmongolei."
+      ],
+      "hu": [
+        "Az uvszi homoktövis volt az első mongol termék, amely PGI oltalmat kapott.",
+        "A bogyók rendkívül magas C-vitamin-koncentrációjukról híresek.",
+        "A fő termesztési területek Sagil, Tes és Zuungobi járások.",
+        "A magokból kinyert olajat a hagyományos és a modern orvoslásban használják.",
+        "A homoktövis bokrok természetes gátként hatnak az elsivatagosodás ellen.",
+        "Az ágazat kistermelők ezreit támogatja Nyugat-Mongóliában."
+      ],
+      "ro": [
+        "Cătina de Uvs a fost primul produs mongol care a primit statutul IGP.",
+        "Fructele sunt faimoase pentru concentrațiile extrem de mari de vitamina C.",
+        "Zonele majore de cultivare includ districtele Sagil, Tes și Zuungobi.",
+        "Uleiul extras din semințe este utilizat în medicina tradițională și modernă.",
+        "Tufele de cătină acționează ca o barieră naturală împotriva deșertificării.",
+        "Industria susține mii de mici fermieri din vestul Mongoliei."
+      ]
+    }
+  },
+  {
+    "id": "mn-darkhan-wheat-life-v2",
+    "descriptionAdvanced": {
+      "en": "Darkhan Wheat Fields are a cornerstone of Mongolian grain production, located in the Darkhan-Uul province of the central northern region. The development of large-scale agriculture in this area began during the 1960s as part of a national effort to achieve food self-sufficiency. This period was marked by the Soviet legacy of collective farming and the introduction of advanced machinery for soil cultivation. Today, Darkhan remains one of the primary regions contributing to the national wheat supply, utilizing the fertile black soil of the Orkhon-Selenge basin. The farming practices have evolved to include sustainable crop rotation and modern irrigation techniques to combat climatic fluctuations. The wheat produced here is essential for the domestic milling and baking industries that serve the growing urban population. The vast fields offer a distinct agricultural landscape that contrasts with the traditional pastoralism seen elsewhere. Local research institutes focus on developing grain varieties adapted to the short Mongolian growing season.",
+      "de": "Die Weizenfelder von Darchan sind ein Eckpfeiler der mongolischen Getreideproduktion und befinden sich in der Provinz Darchan-Uul in der zentral-nördlichen Region. Die Entwicklung der großflächigen Landwirtschaft in diesem Gebiet begann in den 1960er Jahren als Teil einer nationalen Anstrengung zur Erreichung der Ernährungssouveränität. Diese Zeit war geprägt vom sowjetischen Erbe der Kollektivwirtschaft und der Einführung fortschrittlicher Maschinen zur Bodenbearbeitung. Heute ist Darchan eine der Hauptregionen, die zur nationalen Weizenversorgung beitragen, indem sie die fruchtbare Schwarzerde des Orchon-Selenge-Beckens nutzen. Die landwirtschaftlichen Praktiken haben sich weiterentwickelt und umfassen heute nachhaltige Fruchtfolge und moderne Bewässerungstechniken, um Klimaschwankungen zu begegnen. Der hier produzierte Weizen ist essenziell für die heimische Mühlen- und Backindustrie, die die wachsende Stadtbevölkerung versorgt. Die weiten Felder bieten eine ausgeprägte Agrarlandschaft, die im Gegensatz zum traditionellen Pastoralismus steht. Lokale Forschungsinstitute konzentrieren sich auf die Entwicklung von Getreidesorten für die kurze mongolische Wachstumsperiode.",
+      "hu": "A darchani búzaföldek a mongol gabonatermelés alappillérei, amelyek az észak-központi régióban, Darchan-Uul tartományban találhatók. A nagyüzemi mezőgazdaság fejlesztése ezen a területen az 1960-as években kezdődött az élelmiszer-önellátás elérésére irányuló nemzeti törekvés részeként. Ezt az időszakot a kollektív gazdálkodás szovjet öröksége és a talajműveléshez szükséges fejlett gépek bevezetése jellemezte. Ma Darchan továbbra is az egyik elsődleges régió, amely hozzájárul az országos búzaellátáshoz, kihasználva az Orhon-Szelenge medence termékeny feketeföldjét. A gazdálkodási gyakorlatok fejlődtek, ma már fenntartható vetésforgót és modern öntözési technikákat alkalmaznak az éghajlati ingadozások leküzdésére. Az itt termelt búza nélkülözhetetlen a hazai malom- és sütőipar számára, amely a növekvő városi lakosságot szolgálja ki. A hatalmas táblák jellegzetes mezőgazdasági tájat alkotnak, amely éles ellentétben áll a máshol látható hagyományos pásztorkodással. A helyi kutatóintézetek a rövid mongol tenyészidőszakhoz alkalmazkodott gabonafajták kifejlesztésére összpontosítanak.",
+      "ro": "Câmpiile de grâu din Darkhan sunt o piatră de temelie a producției de cereale din Mongolia, fiind situate în provincia Darkhan-Uul din regiunea central-nordică. Dezvoltarea agriculturii la scară largă în această zonă a început în anii 1960, ca parte a unui efort național de a atinge autosuficiența alimentară. Această perioadă a fost marcată de moștenirea sovietică a agriculturii colective și de introducerea utilajelor avansate pentru cultivarea solului. Astăzi, Darkhan rămâne una dintre regiunile principale care contribuie la aprovizionarea națională cu grâu, utilizând solul negru fertil din bazinul Orkhon-Selenge. Practicile agricole au evoluat pentru a include rotația durabilă a culturilor și tehnici moderne de irigare pentru a combate fluctuațiile climatice. Grâul produs aici este esențial pentru industriile interne de morărit și panificație care deservesc populația urbană în creștere. Câmpiile vaste oferă un peisaj agricol distinct care contrastează cu pastoralismul tradițional întâlnit în alte părți. Institutele locale de cercetare se concentrează pe dezvoltarea varietăților de cereale adaptate la sezonul scurt de creștere din Mongolia."
+    },
+    "factsAdvanced": {
+      "en": [
+        "Darkhan-Uul is one of the most important agricultural hubs in Mongolia.",
+        "Wheat production expanded rapidly during the 1960s expansion era.",
+        "The region utilizes modern combines and tractors for harvesting.",
+        "The soil quality in the Orkhon-Selenge basin is ideal for grain crops.",
+        "Local varieties are bred to withstand extreme temperature shifts.",
+        "The area accounts for a substantial portion of Mongolia's annual grain yield."
+      ],
+      "de": [
+        "Darchan-Uul ist einer der wichtigsten Agrarknotenpunkte der Mongolei.",
+        "Die Weizenproduktion expandierte in der Ära der 1960er Jahre schnell.",
+        "Die Region nutzt moderne Mähdrescher und Traktoren für die Ernte.",
+        "Die Bodenqualität im Orchon-Selenge-Becken ist ideal für Getreide.",
+        "Lokale Sorten werden für extreme Temperaturschwankungen gezüchtet.",
+        "Das Gebiet macht einen erheblichen Teil der Getreideernte der Mongolei aus."
+      ],
+      "hu": [
+        "Darchan-Uul Mongólia egyik legfontosabb mezőgazdasági központja.",
+        "A búza-termelés gyorsan bővült az 1960-as évek expanziós korszakában.",
+        "A régió modern kombájnokat és traktorokat használ a betakarításhoz.",
+        "Az Orhon-Szelenge medence talajminősége ideális a gabonafélékhez.",
+        "A helyi fajtákat a szélsőséges hőmérséklet-ingadozások tűrésére nemesítik.",
+        "A terület Mongólia éves gabonatermésének jelentős részét adja."
+      ],
+      "ro": [
+        "Darkhan-Uul este unul dintre cele mai importante noduri agricole.",
+        "Producția de grâu a crescut rapid în era expansiunii din anii 1960.",
+        "Regiunea utilizează combine și tractoare moderne pentru recoltare.",
+        "Calitatea solului din bazinul Orkhon-Selenge este ideală pentru cereale.",
+        "Soiurile locale sunt create pentru a rezista variațiilor de temperatură.",
+        "Zona reprezintă o parte substanțială din recolta anuală de cereale."
+      ]
+    }
+  },
+  {
+    "id": "mn-selenge-farms-life-v2",
+    "descriptionAdvanced": {
+      "en": "The Selenge Agricultural Area is the primary breadbasket of Mongolia, situated in the fertile Orkhon-Selenge river basin. This region accounts for over 50 percent of the national crop output, including wheat, barley, and various vegetables. The abundance of water from the major river systems and the relatively mild climate make it the most productive farming zone in the country. Mechanization has played a vital role in the efficiency of these farms, with many operations utilizing modern technology for seeding and harvesting. The history of agricultural development here is linked to the Virgin Lands campaign and subsequent investments in rural infrastructure. Selenge serves as a center for agrotechnical innovation, where new methods of dryland farming are tested to improve resilience. The landscape is dominated by large rectangular fields that stretch across the river valleys, creating a unique visual pattern in the steppe. These farms are critical for ensuring national food security and supporting the livelihoods of thousands of agricultural workers.",
+      "de": "Das Landwirtschaftsgebiet von Selenge ist die primäre Kornkammer der Mongolei und liegt im fruchtbaren Orchon-Selenge-Flussbecken. Diese Region macht über 50 Prozent der nationalen Ernteerträge aus, darunter Weizen, Gerste und verschiedenes Gemüse. Der Reichtum an Wasser aus den großen Flusssystemen und das relativ milde Klima machen es zur produktivsten landwirtschaftlichen Zone des Landes. Die Mechanisierung hat eine entscheidende Rolle für die Effizienz dieser Farmen gespielt, wobei viele Betriebe moderne Technologien für die Aussaat und Ernte einsetzen. Die Geschichte der landwirtschaftlichen Entwicklung hier ist mit der Neuland-Kampagne und anschließenden Investitionen in die ländliche Infrastruktur verbunden. Selenge dient als Zentrum für agrotechnische Innovationen, in dem neue Methoden des Trockenfeldbaus getestet werden, um die Widerstandsfähigkeit zu verbessern. Die Landschaft wird von großen rechteckigen Feldern dominiert, die sich durch die Flusstäler ziehen und ein besonderes visuelles Muster in der Steppe bilden. Diese Farmen sind entscheidend für die nationale Ernährungssicherheit.",
+      "hu": "A szelengei mezőgazdasági terület Mongólia elsődleges éléskamrája, amely a termékeny Orhon-Szelenge folyómedencében található. Ez a régió adja az országos terméshozam több mint 50 százalékát, beleértve a búzát, az árpát és a különféle zöldségeket. A nagy folyórendszerek bőséges vízkészlete és a viszonylag enyhe éghajlat az ország legtermékenyebb gazdálkodási övezetévé teszi ezt a területet. A gépesítés létfontosságú szerepet játszik ezeknek a gazdaságoknak a hatékonyságában, számos üzem modern technológiát alkalmaz a vetéshez és a betakarításhoz. A mezőgazdasági fejlődés története itt a Szűzföld-kampányhoz és a vidéki infrastruktúrába történő későbbi beruházásokhoz kötődik. Szelenge az agrotechnikai innováció központjaként szolgál, ahol a szárazműveléses gazdálkodás új módszereit tesztelik az ellenállóképesség javítása érdekében. A tájat nagy, téglalap alakú táblák uralják, amelyek a folyóvölgyekben húzódnak végig, jellegzetes mintázatot alkotva a sztyeppén. Ezek a gazdaságok kritikusak a nemzeti élelmiszerbiztonság garantálásában.",
+      "ro": "Zona agricolă Selenge este principalul coș de pâine al Mongoliei, situată în bazinul fertil al râurilor Orkhon și Selenge. Această regiune reprezintă peste 50% din producția agricolă națională, incluzând grâu, orz și diverse legume. Abundența apei din sistemele fluviale majore și clima relativ blândă fac din aceasta cea mai productivă zonă agricolă din țară. Mecanizarea a jucat un rol vital în eficiența acestor ferme, multe operațiuni utilizând tehnologia modernă pentru însămânțare și recoltare. Istoria dezvoltării agricole aici este legată de campania Virgin Lands și de investițiile ulterioare în infrastructura rurală. Selenge servește ca centru pentru inovarea agrotehnică, unde sunt testate noi metode de agricultură în zone aride pentru a îmbunătăți reziliența. Peisajul este dominat de câmpuri dreptunghiulare mari care se întind de-a lungul văilor râurilor, creând un model vizual distinct în stepă. Aceste ferme sunt critice pentru asigurarea securității alimentare naționale și susținerea mijloacelor de trai ale multor muncitori."
+    },
+    "factsAdvanced": {
+      "en": [
+        "Selenge province produces more than half of Mongolia's total crops.",
+        "The Orkhon-Selenge basin provides fertile soil and ample water resources.",
+        "Modern mechanized farming was established here during the mid-20th century.",
+        "Key crops include wheat, potatoes, carrots, and cabbage.",
+        "The region is a leader in adopting new agricultural technologies.",
+        "Irrigation systems are extensively used to supplement natural rainfall."
+      ],
+      "de": [
+        "Die Provinz Selenge produziert mehr als die Hälfte der mongolischen Ernte.",
+        "Das Orchon-Selenge-Becken bietet fruchtbaren Boden und Wasserressourcen.",
+        "Die moderne mechanisierte Landwirtschaft entstand Mitte des 20. Jahrhunderts.",
+        "Zu den Hauptkulturen gehören Weizen, Kartoffeln, Karotten und Kohl.",
+        "Die Region ist führend bei der Einführung neuer Agrartechnologien.",
+        "Bewässerungssysteme werden zur Ergänzung der Niederschläge eingesetzt."
+      ],
+      "hu": [
+        "Szelenge tartomány termeli Mongólia összes termésének több mint felét.",
+        "Az Orhon-Szelenge medence termékeny talajt és bőséges vízkészletet kínál.",
+        "A modern gépesített gazdálkodás a 20. század közepén alakult ki itt.",
+        "A legfontosabb termények a búza, a burgonya, a sárgarépa és a káposzta.",
+        "A régió vezető szerepet tölt be az új mezőgazdasági technológiák terén.",
+        "Az öntözőrendszereket széles körben használják a csapadék pótlására."
+      ],
+      "ro": [
+        "Provincia Selenge produce peste jumătate din culturile totale ale Mongoliei.",
+        "Bazinul Orkhon-Selenge oferă sol fertil și resurse ample de apă.",
+        "Agricultura mecanizată modernă a fost stabilită aici la mijlocul secolului XX.",
+        "Culturile principale includ grâu, cartofi, morcovi și varză.",
+        "Regiunea este lider în adoptarea noilor tehnologii agricole.",
+        "Sistemele de irigații sunt folosite extensiv pentru a suplimenta precipitațiile."
+      ]
+    }
+  },
+  {
+    "id": "mn-khovd-watermelon-life-v2",
+    "descriptionAdvanced": {
+      "en": "Khovd Watermelon Fields are located primarily in the Myangad district of Khovd province in western Mongolia. This area is famous for its high sun exposure and specific soil conditions that are ideal for growing sweet watermelons. The irrigation is provided by the Khovd River, which allows farmers to cultivate these fruits in an otherwise arid environment. The watermelons from this region are highly valued across Mongolia for their sweetness and juicy texture. Local farmers have developed specialized techniques to protect the young plants from late spring frosts and intense summer heat. The harvest season attracts buyers from various parts of the country, making it a significant economic event for the local community. These fields represent a successful example of oasis-style agriculture in the Great Lakes Basin. The production has expanded in recent years due to improved transportation links and increased market demand. Research into more drought-resistant varieties continues to support the long-term sustainability of watermelon farming in Khovd.",
+      "de": "Die Wassermelonenfelder von Chowd befinden sich hauptsächlich im Distrikt Myangad der Provinz Chowd im Westen der Mongolei. Dieses Gebiet ist bekannt für seine hohe Sonneneinstrahlung und spezifische Bodenbedingungen, die ideal für den Anbau süßer Wassermelonen sind. Die Bewässerung erfolgt durch den Fluss Chowd, was es den Landwirten ermöglicht, diese Früchte in einer ansonsten ariden Umgebung zu kultivieren. Die Wassermelonen aus dieser Region werden in der gesamten Mongolei für ihre Süße und saftige Textur geschätzt. Lokale Bauern haben spezielle Techniken entwickelt, um die jungen Pflanzen vor Spätfrösten im Frühjahr und intensiver Sommerhitze zu schützen. Die Erntesaison zieht Käufer aus verschiedenen Teilen des Landes an, was sie zu einem bedeutenden wirtschaftlichen Ereignis für die lokale Gemeinschaft macht. Diese Felder stellen ein erfolgreiches Beispiel für die Landwirtschaft im Oasenstil im Becken der Großen Seen dar. Die Produktion wurde in den letzten Jahren aufgrund verbesserter Verkehrsverbindungen und gestiegener Marktnachfrage ausgeweitet.",
+      "hu": "A hovdi görögdinnye-földek elsősorban a nyugat-mongóliai Hovd tartomány Myangad járásában találhatók. Ez a terület híres a magas napsütéses órák számáról és a speciális talajviszonyokról, amelyek ideálisak az édes görögdinnye termesztéséhez. Az öntözést a Hovd-folyó biztosítja, ami lehetővé teszi a gazdák számára, hogy ezeket a gyümölcsöket az egyébként száraz környezetben termesszék. Az erről a vidékről származó görögdinnyét Mongólia-szerte nagyra értékelik édessége és lédús textúrája miatt. A helyi gazdák speciális technikákat fejlesztettek ki a fiatal növények védelmére a késő tavaszi fagyoktól és az intenzív nyári hőségtől. A betakarítási szezon az ország különböző részeiről vonzza a vásárlókat, ami jelentős gazdasági eseményt jelent a helyi közösség számára. Ezek a földek a Nagy-tavak medencéjében folytatott oázis-típusú mezőgazdaság sikeres példáját képviselik. A termelés az elmúlt években a javuló közlekedési kapcsolatok és a megnövekedett piaci kereslet hatására bővült.",
+      "ro": "Câmpiile de pepeni din Khovd sunt situate în principal în districtul Myangad din provincia Khovd, în vestul Mongoliei. Această zonă este faimoasă pentru expunerea ridicată la soare și condițiile specifice ale solului care sunt ideale pentru cultivarea pepenilor dulci. Irigarea este asigurată de râul Khovd, ceea ce permite fermierilor să cultive aceste fructe într-un mediu altfel arid. Pepenii verzi din această regiune sunt foarte apreciați în întreaga Mongolie pentru dulceața și textura lor suculentă. Fermierii locali au dezvoltat tehnici specializate pentru a proteja plantele tinere de înghețurile târzii de primăvară și de căldura intensă a verii. Sezonul de recoltare atrage cumpărători din diverse părți ale țării, fiind un eveniment economic semnificativ pentru comunitatea locală. Aceste câmpuri reprezintă un exemplu de succes al agriculturii de tip oază în Bazinul Marilor Lacuri. Producția s-a extins în ultimii ani datorită legăturilor de transport îmbunătățite și a cererii crescute de pe piață."
+    },
+    "factsAdvanced": {
+      "en": [
+        "Khovd watermelons are considered the sweetest variety in Mongolia.",
+        "Myangad district is the primary center for watermelon cultivation.",
+        "The Khovd River is the essential source of water for the irrigation canals.",
+        "Farmers use protective plastic coverings to manage soil temperature.",
+        "The harvest typically peaks in August and September each year.",
+        "Watermelon farming provides a stable income for hundreds of local families."
+      ],
+      "de": [
+        "Wassermelonen aus Chowd gelten als die süßeste Sorte der Mongolei.",
+        "Der Distrikt Myangad ist das Hauptzentrum für den Wassermelonenanbau.",
+        "Der Fluss Chowd ist die Quelle für die Bewässerungskanäle.",
+        "Bauern nutzen Schutzfolien, um die Bodentemperatur zu regulieren.",
+        "Die Ernte erreicht jedes Jahr im August und September ihren Höhepunkt.",
+        "Der Anbau bietet ein stabiles Einkommen für Hunderte von Familien."
+      ],
+      "hu": [
+        "A hovdi görögdinnyét Mongólia legédesebb fajtájának tartják.",
+        "A Myangad járás a görögdinnye-termesztés elsődleges központja.",
+        "A Hovd-folyó az öntözőcsatornák elengedhetetlen vízforrása.",
+        "A gazdák védő műanyag fóliát használnak a talajhőmérséklet kezelésére.",
+        "A betakarítás jellemzően minden évben augusztusban és szeptemberben tetőzik.",
+        "A dinnyetermesztés stabil jövedelmet biztosít több száz helyi családnak."
+      ],
+      "ro": [
+        "Pepenii de Khovd sunt considerați cea mai dulce varietate din Mongolia.",
+        "Districtul Myangad este centrul principal pentru cultivarea pepenilor.",
+        "Râul Khovd este sursa esențială de apă pentru canalele de irigații.",
+        "Fermierii folosesc folii de protecție pentru a gestiona temperatura solului.",
+        "Recoltarea atinge de obicei apogeul în lunile august și septembrie.",
+        "Cultivarea pepenilor oferă un venit stabil pentru sute de familii locale."
+      ]
+    }
+  },
+  {
+    "id": "mn-gobi-camel-farm-life-v2",
+    "descriptionAdvanced": {
+      "en": "Gobi Camel Breeding is a traditional agricultural practice centered in the Omnogovi province of southern Mongolia. This region is famous for the two-humped Bactrian camel, which is perfectly adapted to the extreme temperatures of the Gobi Desert. Camel breeding provides essential products such as milk, wool, and meat, supporting the nomadic pastoralists in the desert environment. Camel milk, or 'khoormog', is valued for its nutritional properties and health benefits in the local diet. The fine wool obtained from camels is a significant export commodity, used for high-quality garments and blankets. Traditional breeding methods focus on selecting animals that can endure long periods without water and travel vast distances across the dunes. The camel population plays a crucial role in the cultural identity of the Gobi people, often featured in local festivals and competitions. Conservation efforts are in place to preserve the genetic diversity of the Bactrian camel against environmental threats. The relationship between the herders and their camels is a fundamental aspect of life in the southern desert zones.",
+      "de": "Die Kamelzucht in der Gobi ist eine traditionelle landwirtschaftliche Praxis, die in der Provinz Ömnö-Gobi im Süden der Mongolei konzentriert ist. Diese Region ist bekannt für das zweihöckerige baktrische Kamel, das perfekt an die extremen Temperaturen der Wüste Gobi angepasst ist. Die Kamelzucht liefert lebensnotwendige Produkte wie Milch, Wolle und Fleisch und unterstützt die Nomaden in der Wüstenumgebung. Kamelmilch, oder 'Choormog', wird wegen ihrer ernährungsphysiologischen Eigenschaften und gesundheitlichen Vorteile in der lokalen Ernährung geschätzt. Die feine Wolle von Kamelen ist ein wichtiges Exportgut, das für hochwertige Kleidungsstücke und Decken verwendet wird. Traditionelle Zuchtmethoden konzentrieren sich auf die Auswahl von Tieren, die lange Zeit ohne Wasser auskommen und weite Strecken über Dünen zurücklegen können. Die Kamelpopulation spielt eine entscheidende Rolle für die kulturelle Identität der Gobi-Bewohner und wird oft bei lokalen Festen und Wettbewerben präsentiert. Bemühungen zum Erhalt der genetischen Vielfalt des baktrischen Kamels sind angesichts von Umweltbedrohungen im Gange.",
+      "hu": "A góbi tevetenyésztés egy hagyományos mezőgazdasági gyakorlat, amelynek központja Dél-Mongólia Ömnögovi tartománya. Ez a régió a kétpúpú baktrian teve otthona, amely tökéletesen alkalmazkodott a Góbi-sivatag szélsőséges hőmérsékletéhez. A tevetenyésztés olyan alapvető termékeket biztosít, mint a tej, a gyapjú és a hús, támogatva a sivatagi környezetben élő nomád pásztorokat. A teve tejét, vagyis a 'hoormog'-ot, táplálkozási tulajdonságai és egészségügyi előnyei miatt nagyra értékelik a helyi étrendben. A tevéktől nyert finom gyapjú jelentős exportcikk, amelyet kiváló minőségű ruhákhoz és takarókhoz használnak fel. A hagyományos tenyésztési módszerek olyan állatok kiválasztására összpontosítanak, amelyek hosszú ideig bírják víz nélkül, és hatalmas távolságokat tesznek meg a dűnék között. A tevepopuláció meghatározó szerepet játszik a góbi emberek kulturális identitásában, gyakran megjelennek a helyi fesztiválokon és versenyeken. Erőfeszítések történnek a baktrian teve genetikai sokféleségének megőrzésére a környezeti fenyegetésekkel szemben.",
+      "ro": "Creșterea cămilelor în Gobi este o practică agricolă tradițională centrată în provincia Omnogovi din sudul Mongoliei. Această regiune este faimoasă pentru cămila bactriană cu două cocoașe, care este perfect adaptată la temperaturile extreme ale deșertului Gobi. Creșterea cămilelor oferă produse esențiale, cum ar mi laptele, lâna și carnea, susținând păstorii nomazi în mediul de deșert. Laptele de cămilă, sau 'khoormog', este apreciat pentru proprietățile sale nutriționale și beneficiile pentru sănătate în dieta locală. Lâna fină obținută de la cămile este o marfă de export semnificativă, folosită pentru articole de îmbrăcăminte și pături de înaltă calitate. Metodele tradiționale de creștere se concentrează pe selectarea animalelor care pot rezista perioade lungi fără apă și pot parcurge distanțe vaste peste dune. Populația de cămile joacă un rol crucial în identitatea culturală a oamenilor din Gobi, fiind adesea prezentă la festivaluri și competiții locale. Eforturile de conservare sunt în desfășurare pentru a păstra diversitatea genetică a cămilei bactriane împotriva amenințărilor de mediu."
+    },
+    "factsAdvanced": {
+      "en": [
+        "The Bactrian camel is native to the Gobi Desert and has two humps.",
+        "Omnogovi province has the highest population of camels in Mongolia.",
+        "Camel wool is harvested once a year and is known for its warmth.",
+        "Fermented camel milk is a traditional drink used for medicinal purposes.",
+        "Camels can survive for several weeks by utilizing fat stored in their humps.",
+        "The 'Thousand Camel Festival' is held annually to promote camel culture."
+      ],
+      "de": [
+        "Das baktrische Kamel ist in der Wüste Gobi heimisch und hat zwei Höcker.",
+        "Die Provinz Ömnö-Gobi hat die höchste Kamelpopulation in der Mongolei.",
+        "Kamelwolle wird einmal im Jahr geerntet und ist für ihre Wärme bekannt.",
+        "Fermentierte Kamelmilch ist ein traditionelles Getränk für Medizin.",
+        "Kamele können Wochen überleben, indem sie Fett aus den Höckern nutzen.",
+        "Das 'Tausend-Kamel-Festival' findet jährlich zur Förderung der Kultur statt."
+      ],
+      "hu": [
+        "A baktrian teve a Góbi-sivatagban őshonos, és két púpja van.",
+        "Ömnögovi tartományban található Mongólia legnagyobb teveállománya.",
+        "A tevegyapjút évente egyszer gyűjtik be, és melegségéről ismert.",
+        "A fermentált teve tej egy hagyományos ital gyógyászati célokra.",
+        "A tevék hetekig túlélnek a púpjaikban tárolt zsír felhasználásával.",
+        "Az 'Ezer Teve Fesztivált' évente rendezik meg a tevekultúra népszerűsítésére."
+      ],
+      "ro": [
+        "Cămila bactriană este nativă din deșertul Gobi și are două cocoașe.",
+        "Provincia Omnogovi are cea mai mare populație de cămile din Mongolia.",
+        "Lâna de cămilă este recoltată o dată pe an și este cunoscută pentru căldură.",
+        "Laptele de cămilă fermentat este o băutură tradițională medicinală.",
+        "Cămilele pot supraviețui săptămâni folosind grăsimea din cocoașe.",
+        "'Festivalul celor o mie de cămile' are loc anual pentru a promova cultura."
+      ]
+    }
   }
 ]
