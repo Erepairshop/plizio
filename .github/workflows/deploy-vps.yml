@@ -49,7 +49,8 @@ jobs:
       - name: Build (static export → out/)
         env:
           NODE_OPTIONS: --max-old-space-size=12288
-          GSP_LIMIT: '50000'
+          NEXT_PRIVATE_WORKER: '1'
+          GSP_LIMIT: '40000'
         run: npm run build
 
       - name: Verify out/ produced
