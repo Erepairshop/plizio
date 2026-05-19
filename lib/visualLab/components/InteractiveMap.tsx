@@ -216,13 +216,28 @@ export const InteractiveMap = ({
     let cancelled = false;
     setV2Extras(null); setPoiPaths({}); setStatePaths({});
     const cc = countryData.countryId;
+    // Lazy reveal: in countries with many POIs (e.g. DE has 1000+), render the
+    // first 30 markers immediately so the user perceives the map as loaded
+    // instantly. Stream in the remaining markers on the next idle frame so
+    // the SVG layout work doesn't block the initial paint.
+    const reveal = (arr: POI[]) => {
+      if (cancelled) return;
+      if (arr.length <= 60) { setV2Extras(arr); return; }
+      setV2Extras(arr.slice(0, 30));
+      const finish = () => { if (!cancelled) setV2Extras(arr); };
+      if (typeof (globalThis as any).requestIdleCallback === "function") {
+        (globalThis as any).requestIdleCallback(finish, { timeout: 250 });
+      } else {
+        setTimeout(finish, 80);
+      }
+    };
     fetch(`/data/pois/${cc}.json`)
       .then((r) => (r.ok ? r.json() : null))
       .then((payload: any) => {
         if (cancelled || !payload) { if (!cancelled) setV2Extras([]); return; }
         // New shape: { pois, poiPaths, statePaths }. Legacy: plain array.
-        if (Array.isArray(payload)) { setV2Extras(payload); return; }
-        setV2Extras(Array.isArray(payload.pois) ? payload.pois : []);
+        if (Array.isArray(payload)) { reveal(payload); return; }
+        reveal(Array.isArray(payload.pois) ? payload.pois : []);
         setPoiPaths(payload.poiPaths || {});
         setStatePaths(payload.statePaths || {});
       })
