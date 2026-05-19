@@ -32,30 +32,47 @@ const {
   getCountryId,
 } = slugs;
 
-// Load FULL POI data (with description/facts/advanced fields) from per-country
-// JSON files that `scripts/split_pois_by_country.mts` produces. slugs.ts only
-// has the lite shape now (so the Next build worker graph stays small), but the
-// HTML generator needs the rich text to render the page body.
-function loadFullPois(): POI[] {
-  const dir = path.resolve("public/data/pois");
-  if (!fs.existsSync(dir)) {
-    console.error(`[generate-poi-html] missing ${dir}; run split_pois_by_country.mts first.`);
-    return [];
+// Load FULL POI data (with description/facts/advanced) directly via TS imports
+// in this standalone tsx process. slugs.ts can't import these heavy files because
+// the Next.js build workers would OOM, but this script runs separately with a 16GB
+// heap and only Node, so it tolerates the heavy graph.
+async function loadFullPois(): Promise<POI[]> {
+  const [
+    { pois: dePois },
+    { romaniaAllPois },
+    { hungaryAllPoi },
+    { vaticanPois, vaticanCountry },
+    { ALL_COUNTRY_POIS, ALL_DE_EXTRA_POIS },
+  ] = await Promise.all([
+    import("../lib/visualLab/data/poi"),
+    import("../lib/visualLab/data/romaniaPoi"),
+    import("../lib/visualLab/data/hungaryPoi"),
+    import("../lib/visualLab/data/vaticanPoi"),
+    import("../lib/visualLab/data/allCountryPois"),
+  ]);
+  const all = ([] as POI[]).concat(
+    dePois as POI[], ALL_DE_EXTRA_POIS as POI[], romaniaAllPois as POI[], hungaryAllPoi as POI[],
+    [vaticanCountry as POI], vaticanPois as POI[], ALL_COUNTRY_POIS as POI[],
+  );
+  // Dedup by id (richest wins — match slugs.ts pre-refactor behavior).
+  const byId = new Map<string, POI>();
+  function richness(p: POI): number {
+    let n = 0;
+    const da = (p as { descriptionAdvanced?: Record<string, string> }).descriptionAdvanced;
+    const d = (p as { description?: Record<string, string> }).description;
+    for (const obj of [d, da]) if (obj) for (const l of ["de", "hu", "ro", "en"]) n += (obj as any)[l]?.length || 0;
+    return n;
   }
-  const out: POI[] = [];
-  for (const f of fs.readdirSync(dir)) {
-    if (!f.endsWith(".json")) continue;
-    try {
-      const arr = JSON.parse(fs.readFileSync(path.join(dir, f), "utf-8"));
-      if (Array.isArray(arr)) for (const p of arr) if (p && p.id) out.push(p as POI);
-    } catch (e) {
-      console.warn(`[generate-poi-html] failed to parse ${f}:`, (e as Error).message);
-    }
+  for (const p of all) {
+    if (!p?.id) continue;
+    const prev = byId.get(p.id);
+    if (!prev || richness(p) > richness(prev)) byId.set(p.id, p);
   }
-  console.log(`[generate-poi-html] loaded ${out.length} POIs from ${dir}`);
+  const out = Array.from(byId.values());
+  console.log(`[generate-poi-html] loaded ${out.length} full POIs`);
   return out;
 }
-const pois: POI[] = loadFullPois();
+const pois: POI[] = await loadFullPois();
 type Lang = "de" | "hu" | "ro" | "en";
 
 const SITE_URL = "https://plizio.com";
