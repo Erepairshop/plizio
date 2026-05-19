@@ -92,11 +92,17 @@ async function main() {
   }
   const finalPois: POI[] = passthrough.concat(Array.from(seenCoords.values()));
 
-  // hasIndexableContent — replicate from lib/seo/routes (descriptionAdvanced + DE)
+  // hasIndexableContent — same lenient rule as lib/seo/routes.ts (any field, any lang).
   function hasIndexable(p: POI): boolean {
-    const da = p.descriptionAdvanced as Record<string, string> | undefined;
-    if (!da) return false;
-    return Boolean(da.de && da.de.length > 100);
+    const desc = p.description as Record<string, string> | undefined;
+    const descAdv = p.descriptionAdvanced as Record<string, string> | undefined;
+    const facts = p.facts as Record<string, string[]> | undefined;
+    const factsAdv = p.factsAdvanced as Record<string, string[]> | undefined;
+    for (const l of ["de", "hu", "ro", "en"] as const) {
+      if ((desc?.[l]?.length ?? 0) > 0 || (descAdv?.[l]?.length ?? 0) > 0) return true;
+      if ((facts?.[l]?.length ?? 0) > 0 || (factsAdv?.[l]?.length ?? 0) > 0) return true;
+    }
+    return false;
   }
 
   // Lite shape — only what slugs.ts / sitemap.ts / page generators need.

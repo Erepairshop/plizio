@@ -30,8 +30,32 @@ const {
   buildPoiPath,
   countrySlugFor,
   getCountryId,
-  pois,
 } = slugs;
+
+// Load FULL POI data (with description/facts/advanced fields) from per-country
+// JSON files that `scripts/split_pois_by_country.mts` produces. slugs.ts only
+// has the lite shape now (so the Next build worker graph stays small), but the
+// HTML generator needs the rich text to render the page body.
+function loadFullPois(): POI[] {
+  const dir = path.resolve("public/data/pois");
+  if (!fs.existsSync(dir)) {
+    console.error(`[generate-poi-html] missing ${dir}; run split_pois_by_country.mts first.`);
+    return [];
+  }
+  const out: POI[] = [];
+  for (const f of fs.readdirSync(dir)) {
+    if (!f.endsWith(".json")) continue;
+    try {
+      const arr = JSON.parse(fs.readFileSync(path.join(dir, f), "utf-8"));
+      if (Array.isArray(arr)) for (const p of arr) if (p && p.id) out.push(p as POI);
+    } catch (e) {
+      console.warn(`[generate-poi-html] failed to parse ${f}:`, (e as Error).message);
+    }
+  }
+  console.log(`[generate-poi-html] loaded ${out.length} POIs from ${dir}`);
+  return out;
+}
+const pois: POI[] = loadFullPois();
 type Lang = "de" | "hu" | "ro" | "en";
 
 const SITE_URL = "https://plizio.com";
