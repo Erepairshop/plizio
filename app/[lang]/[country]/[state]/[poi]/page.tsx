@@ -70,8 +70,8 @@ export function generateStaticParams() {
   }
   const LIMIT = Number(process.env.GSP_LIMIT ?? -1);
   if (LIMIT === 0) {
-    console.error("[gSP] GSP_LIMIT=0, returning empty (POI HTML overlay handles all)");
-    return [];
+    console.error("[gSP] GSP_LIMIT=0, returning 1 sample (POI HTML overlay handles all real pages)");
+    return out.slice(0, 1);
   }
   if (LIMIT > 0 && out.length > LIMIT) {
     console.error("[gSP] limiting", out.length, "->", LIMIT, "(interleaved)");
