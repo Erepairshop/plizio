@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState, memo } from "react";
-import { Grid3X3, Divide, X as Multiply, PenTool, Calculator } from "lucide-react";
+import { Grid3x3, Divide, X as Multiply, PenTool, Calculator } from "lucide-react";
 import ColumnMathDraft from "./ColumnMathDraft";
 import DivisionDraft from "./DivisionDraft";
 import MultiplicationDraft from "./MultiplicationDraft";
@@ -28,7 +28,7 @@ function DraftPanel({ testId, questionId, suggestedType, countryCode = "DE" }: D
 
   const TABS: { type: DraftType; label: string; shortLabel: string; icon: React.ReactNode }[] = [
     { type: "calc", label: t.tabCalc, shortLabel: t.tabCalcShort, icon: <Calculator size={14} /> },
-    { type: "column", label: t.tabColumn, shortLabel: t.tabColumnShort, icon: <Grid3X3 size={14} /> },
+    { type: "column", label: t.tabColumn, shortLabel: t.tabColumnShort, icon: <Grid3x3 size={14} /> },
     { type: "multiplication", label: t.tabMultiplication, shortLabel: "×", icon: <Multiply size={14} /> },
     { type: "division", label: t.tabDivision, shortLabel: "÷", icon: <Divide size={14} /> },
     { type: "free", label: t.tabFree, shortLabel: t.tabFreeShort, icon: <PenTool size={14} /> },

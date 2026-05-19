@@ -3,7 +3,7 @@
 import { useState, useEffect, useCallback, useRef, Suspense } from "react";
 import { useSearchParams, useRouter } from "next/navigation";
 import { motion, AnimatePresence } from "framer-motion";
-import { Grid3X3, Lock, Check, ChevronRight, RotateCcw, X, HelpCircle } from "lucide-react";
+import { Grid3x3, Lock, Check, ChevronRight, RotateCcw, X, HelpCircle } from "lucide-react";
 import Link from "next/link";
 import MilestonePopup from "@/components/MilestonePopup";
 import RewardReveal from "@/components/RewardReveal";

@@ -1,6 +1,6 @@
 "use client";
 
-import Phaser from "phaser";
+import * as Phaser from "phaser";
 import { useEffect, useRef } from "react";
 
 export type Difficulty = "easy" | "medium" | "hard";

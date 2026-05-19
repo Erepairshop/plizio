@@ -2,7 +2,7 @@
 
 import React, { useState, useRef, useMemo } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Check, X, RotateCcw, Grid3X3 } from 'lucide-react';
+import { Check, X, RotateCcw, Grid3x3 } from 'lucide-react';
 import { playCorrect, playIncorrect, playClick, playSelect } from '@/lib/soundEffects';
 
 interface GridAreaCounterProps {
@@ -159,7 +159,7 @@ const GridAreaCounter: React.FC<GridAreaCounterProps> = ({
         <div className="px-5 pt-5 pb-3">
           <div className="flex items-center gap-3 mb-1">
             <div className="w-9 h-9 rounded-xl bg-amber-500 flex items-center justify-center">
-              <Grid3X3 size={18} className="text-white" />
+              <Grid3x3 size={18} className="text-white" />
             </div>
             <h3 className="text-lg font-extrabold text-slate-800">
               {mode === 'area' ? t.areaTitle : t.perimeterTitle}

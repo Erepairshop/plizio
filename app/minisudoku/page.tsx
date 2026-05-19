@@ -3,7 +3,7 @@
 import { useState, useEffect, useRef, useCallback, Suspense } from "react";
 import { useSearchParams, useRouter } from "next/navigation";
 import { motion, AnimatePresence } from "framer-motion";
-import { Grid3X3, Home, RotateCcw, Lock, Check, ChevronRight, Lightbulb, Undo2 } from "lucide-react";
+import { Grid3x3, Home, RotateCcw, Lock, Check, ChevronRight, Lightbulb, Undo2 } from "lucide-react";
 import Link from "next/link";
 import MilestonePopup from "@/components/MilestonePopup";
 import RewardReveal from "@/components/RewardReveal";
@@ -769,7 +769,7 @@ function MiniSudokuPage() {
               <Home size={20} /><span className="text-sm font-bold">{t.home}</span>
             </Link>
             <div className="flex items-center gap-2">
-              <Grid3X3 size={20} className="text-[#00FF88]" />
+              <Grid3x3 size={20} className="text-[#00FF88]" />
               <span className="text-lg font-black tracking-wider text-[#00FF88]">{t.title}</span>
             </div>
             <div className="w-20" />
@@ -910,7 +910,7 @@ function MiniSudokuPage() {
             <Home size={18} /><span className="text-xs font-bold">{t.expeditionMap}</span>
           </button>
           <div className="flex items-center gap-2">
-            <Grid3X3 size={16} className="text-[#00FF88]" />
+            <Grid3x3 size={16} className="text-[#00FF88]" />
             <span className="font-black text-sm text-[#00FF88]">{t.levelLabel} {activeLevel}</span>
           </div>
           {/* Avatar small */}
