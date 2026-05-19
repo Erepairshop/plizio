@@ -635,7 +635,7 @@ const InteractiveMapInner = ({
   };
 
   return (
-    <div className="relative w-full h-full min-h-[70vh] lg:min-h-0 lg:max-w-5xl lg:mx-auto select-none flex flex-col" style={{ overscrollBehavior: "contain" }}>
+    <div className="relative w-full flex-1 min-h-[70vh] lg:min-h-0 lg:max-w-5xl lg:mx-auto select-none flex flex-col" style={{ overscrollBehavior: "contain" }}>
 
       {/* Mode tabs: Browse / Ruler / Quiz */}
       <div className="flex justify-center mb-2 px-1">
