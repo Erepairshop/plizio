@@ -180,8 +180,14 @@ jobs:
           find "$REL_DIR" -type f -exec chmod 644 {} +
           ln -sfn "$REL_DIR" "${{ env.RELEASE_BASE }}/current.new"
           mv -Tf "${{ env.RELEASE_BASE }}/current.new" "${{ env.RELEASE_BASE }}/current"
-          ls -1dt "${{ env.RELEASE_BASE }}"/releases/*/ 2>/dev/null \
-            | tail -n +$((${{ env.KEEP_RELEASES }} + 1)) | xargs -r rm -rf
+          # Safer cleanup: only delete dirs older than 24h AND not the current target.
+          # The previous `ls -1dt | tail | xargs rm` somehow deleted the just-deployed
+          # dir on 2026-05-19 (170731 vanished moments after DEPLOYED logged), leaving
+          # a dangling symlink → 404 on the live site. Disable mass-deletion until
+          # rootcause is found; keep 24h-stale prune so disk doesn't grow forever.
+          CURRENT_TARGET=$(readlink -f "${{ env.RELEASE_BASE }}/current" 2>/dev/null || echo "")
+          find "${{ env.RELEASE_BASE }}/releases" -mindepth 1 -maxdepth 1 -type d -mmin +1440 \
+            ! -path "$CURRENT_TARGET" -print -exec rm -rf {} + || true
           # Restore static nginx config if proxy was set
           if ! cmp -s deploy/nginx/plizio-static.conf /etc/nginx/sites-enabled/plizio.conf 2>/dev/null; then
             sudo cp deploy/nginx/plizio-static.conf /etc/nginx/sites-enabled/plizio.conf
