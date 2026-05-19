@@ -39,7 +39,11 @@ export function SsrCountryMap({
       viewBox={viewBox}
       preserveAspectRatio="xMidYMid meet"
       className={className}
-      style={{ filter: "drop-shadow(0 0 24px rgba(34,211,238,0.18))" }}
+      style={{
+        filter: "drop-shadow(0 0 24px rgba(34,211,238,0.18))",
+        transition: "opacity 250ms",
+      }}
+      data-ssr-map="true"
       aria-hidden="true"
     >
       {paths.map((p) => (

@@ -245,6 +245,17 @@ export const InteractiveMap = (props: InteractiveMapProps) => {
     return () => { cancelled = true; };
   }, [countryId, lang]);
 
+  // Once client InteractiveMap has data, hide the SSR layer underneath to
+  // avoid two visually-stacked maps (SSR full-screen + client constrained-
+  // width = doubled outlines). The SSR layer's transition fades it out.
+  useEffect(() => {
+    if (!props.ssrLayer || typeof document === "undefined") return;
+    if (!countryData) return;
+    const el = document.querySelector<HTMLElement>('[data-ssr-map="true"]');
+    if (el) el.style.opacity = "0";
+    return () => { if (el) el.style.opacity = ""; };
+  }, [countryData, props.ssrLayer]);
+
   if (!countryData) return props.ssrLayer ? null : <MapLoadingSkeleton />;
   return <InteractiveMapInner {...props} countryData={countryData} />;
 };
