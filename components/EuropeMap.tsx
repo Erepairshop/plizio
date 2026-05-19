@@ -86,6 +86,7 @@ export default function EuropeMap({ lang }: EuropeMapProps) {
   const dragged = useRef(false);
 
   const [hovered, setHovered] = useState<string | null>(null);
+  const [navigating, setNavigating] = useState<string | null>(null);
   const [view, setView] = useState({ x: 0, y: 0, scale: 1 });
   const [toast, setToast] = useState<{ title: string; info: string } | null>(null);
 
@@ -192,6 +193,7 @@ export default function EuropeMap({ lang }: EuropeMapProps) {
     if (dragged.current) return;
     const bind = COUNTRY_BINDINGS[country.id];
     if (bind) {
+      setNavigating(country.id);
       router.push(bind);
     } else {
       const info = COMING_SOON[lang] ?? COMING_SOON.en ?? "Coming soon";
@@ -218,6 +220,17 @@ export default function EuropeMap({ lang }: EuropeMapProps) {
           </motion.div>
         )}
       </AnimatePresence>
+
+      {/* Navigation loading pill (shown briefly between click and next-page mount) */}
+      {navigating && (
+        <div className="absolute top-4 left-1/2 -translate-x-1/2 z-50 bg-cyan-500/20 backdrop-blur-md border border-cyan-400/40 text-cyan-100 px-4 py-2 rounded-full flex items-center gap-2 shadow-lg pointer-events-none">
+          <svg className="animate-spin w-4 h-4" viewBox="0 0 24 24" fill="none">
+            <circle cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="3" opacity="0.25" />
+            <path d="M12 2a10 10 0 0 1 10 10" stroke="currentColor" strokeWidth="3" strokeLinecap="round" />
+          </svg>
+          <span className="text-sm font-medium">Loading...</span>
+        </div>
+      )}
 
       {/* Zoom controls */}
       <div className="absolute right-3 top-3 z-40 flex flex-col gap-2">
@@ -264,21 +277,26 @@ export default function EuropeMap({ lang }: EuropeMapProps) {
           {/* Country paths */}
           {europaMap.map((country) => {
             const isHovered = hovered === country.id;
+            const isNavigating = navigating === country.id;
+            const isDimmed = navigating !== null && navigating !== country.id;
             const isWired = Boolean(COUNTRY_BINDINGS[country.id]);
             return (
               <path
                 key={`path-${country.id}`}
                 d={country.path}
                 fill={
-                  isHovered
-                    ? "rgba(6, 182, 212, 0.45)"
-                    : isWired
-                      ? "rgba(6, 182, 212, 0.18)"
-                      : "rgba(30, 41, 59, 0.8)"
+                  isNavigating
+                    ? "rgba(34, 211, 238, 0.7)"
+                    : isHovered
+                      ? "rgba(6, 182, 212, 0.45)"
+                      : isWired
+                        ? "rgba(6, 182, 212, 0.18)"
+                        : "rgba(30, 41, 59, 0.8)"
                 }
-                stroke={isHovered ? "rgba(34, 211, 238, 0.9)" : "rgba(148, 163, 184, 0.5)"}
-                strokeWidth={(isHovered ? 1.5 : 0.6) / view.scale}
-                style={{ cursor: "pointer", transition: "fill 200ms" }}
+                stroke={isNavigating ? "rgba(34, 211, 238, 1)" : isHovered ? "rgba(34, 211, 238, 0.9)" : "rgba(148, 163, 184, 0.5)"}
+                strokeWidth={(isNavigating ? 2.5 : isHovered ? 1.5 : 0.6) / view.scale}
+                opacity={isDimmed ? 0.25 : 1}
+                style={{ cursor: "pointer", transition: "fill 200ms, opacity 200ms" }}
                 onMouseEnter={() => {
                   setHovered(country.id);
                   const bind = COUNTRY_BINDINGS[country.id];
