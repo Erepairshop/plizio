@@ -282,12 +282,10 @@ export default function EuropeMap({ lang }: EuropeMapProps) {
                 onMouseEnter={() => {
                   setHovered(country.id);
                   const bind = COUNTRY_BINDINGS[country.id];
-                  if (bind) {
-                    router.prefetch(bind);
-                    // Warm the country POI JSON in parallel so when the user
-                    // actually clicks, the data is already in the SW/HTTP cache.
-                    fetch(`/data/pois/${country.id}.json`, { priority: "low" as any, mode: "cors", credentials: "omit" }).catch(() => {});
-                  }
+                  // Only prefetch the route on hover — cheap. Don't warm-fetch
+                  // the country JSON yet; that fires on pointerdown so we
+                  // don't burn bandwidth on stray cursor traversals.
+                  if (bind) router.prefetch(bind);
                 }}
                 onPointerDown={() => {
                   const bind = COUNTRY_BINDINGS[country.id];

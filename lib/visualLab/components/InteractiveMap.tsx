@@ -216,19 +216,19 @@ export const InteractiveMap = ({
     let cancelled = false;
     setV2Extras(null); setPoiPaths({}); setStatePaths({});
     const cc = countryData.countryId;
-    // Lazy reveal: in countries with many POIs (e.g. DE has 1000+), render the
-    // first 30 markers immediately so the user perceives the map as loaded
-    // instantly. Stream in the remaining markers on the next idle frame so
-    // the SVG layout work doesn't block the initial paint.
+    // Only split the render for EXTREMELY large datasets (DE has 1000+, FR ~350,
+    // US ~330). Below 250 POIs the second commit costs more than it saves and
+    // creates a visible "pop" as remaining markers appear. Above 250 we still
+    // do the split because layout cost of 700+ SVG nodes blocks the first paint.
     const reveal = (arr: POI[]) => {
       if (cancelled) return;
-      if (arr.length <= 60) { setV2Extras(arr); return; }
-      setV2Extras(arr.slice(0, 30));
+      if (arr.length <= 250) { setV2Extras(arr); return; }
+      setV2Extras(arr.slice(0, 80));
       const finish = () => { if (!cancelled) setV2Extras(arr); };
       if (typeof (globalThis as any).requestIdleCallback === "function") {
-        (globalThis as any).requestIdleCallback(finish, { timeout: 250 });
+        (globalThis as any).requestIdleCallback(finish, { timeout: 200 });
       } else {
-        setTimeout(finish, 80);
+        setTimeout(finish, 50);
       }
     };
     fetch(`/data/pois/${cc}.json`)

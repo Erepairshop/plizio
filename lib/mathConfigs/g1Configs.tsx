@@ -1197,7 +1197,31 @@ const COUNTINGEXPLORER_TOPICS: TopicDef[] = [
       choices: ["t1_q_5", "t1_q_6", "t1_q_7", "t1_q_8"],
       answer: "t1_q_7",
     },
-    quizSvg: () => null,
+    quizSvg: () => {
+      // Render 7 stars in a 2-row grid so the "How many stars?" question has an image.
+      const STAR_COUNT = 7;
+      const positions = [
+        { x: 70, y: 60 }, { x: 150, y: 60 }, { x: 230, y: 60 }, { x: 310, y: 60 },
+        { x: 110, y: 130 }, { x: 190, y: 130 }, { x: 270, y: 130 },
+      ];
+      const star = (cx: number, cy: number, r = 22, key: number) => {
+        const pts: string[] = [];
+        for (let i = 0; i < 10; i++) {
+          const a = (Math.PI / 5) * i - Math.PI / 2;
+          const rr = i % 2 === 0 ? r : r * 0.45;
+          pts.push(`${cx + Math.cos(a) * rr},${cy + Math.sin(a) * rr}`);
+        }
+        return (
+          <polygon key={key} points={pts.join(" ")} fill="#fbbf24" stroke="#f59e0b" strokeWidth={1.5} />
+        );
+      };
+      return (
+        <svg viewBox="0 0 380 200" className="w-full max-w-md mx-auto" aria-label="7 stars">
+          <rect x={0} y={0} width={380} height={200} fill="rgba(15,23,42,0.4)" rx={12} />
+          {positions.slice(0, STAR_COUNT).map((p, i) => star(p.x, p.y, 24, i))}
+        </svg>
+      );
+    },
   },
   {
     infoTitle: "t2_title",
@@ -1628,6 +1652,18 @@ const SHAPESEXPLORER_TOPICS: TopicDef[] = [
       choices: ["t1_q_2", "t1_q_3", "t1_q_4", "t1_q_5"],
       answer: "t1_q_3",
     },
+    quizSvg: () => (
+      <svg viewBox="0 0 320 200" className="w-full max-w-md mx-auto" aria-label="triangle">
+        <rect x={0} y={0} width={320} height={200} fill="rgba(15,23,42,0.4)" rx={12} />
+        <polygon
+          points="160,40 60,160 260,160"
+          fill="#34d399"
+          stroke="#10b981"
+          strokeWidth={3}
+          strokeLinejoin="round"
+        />
+      </svg>
+    ),
   },
   {
     infoTitle: "t2_title",
