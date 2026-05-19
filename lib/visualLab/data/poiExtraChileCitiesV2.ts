@@ -13,7 +13,10 @@ export const poiExtraChileCitiesV2: POI[] = [
       de: "Die Hauptstadt und größte Metropole von Chile, gelegen in einem zentralen Becken.",
       hu: "Chile fővárosa és legnagyobb metropolisza, amely egy központi medencében fekszik.",
       ro: "Capitala și cea mai mare metropolă a statului Chile, situată într-un bazin central.",
-      en: "The capital and largest metropolis of Chile, located in a central basin."
+      en: "The capital and largest metropolis of Chile, located in a central basin.",
+      es: "La capital y metrópolis más grande de Chile, situada en una cuenca central.",
+      pt: "A capital e maior metrópole do Chile, situada numa bacia central.",
+      fr: "La capitale et plus grande métropole du Chili, située dans un bassin central.",
     },
     descriptionAdvanced: {
       de: "Santiago de Chile wurde 1541 von Pedro de Valdivia am Ufer des Flusses Mapocho gegründet und liegt in einem zentralen Becken auf einer Höhe von etwa 520 Metern über dem Meeresspiegel. Die Stadt ist das unbestrittene politische, kulturelle und wirtschaftliche Zentrum Chiles und beherbergt fast 40 Prozent der Gesamtbevölkerung des Landes. Die Architektur im historischen Zentrum wird durch prachtvolle Gebäude aus der Kolonialzeit wie die Metropolitan-Kathedrale und den Palacio de La Moneda geprägt, der heute als Amtssitz des Präsidenten dient. Im Osten der Stadt ragen die majestätischen Anden auf, deren Gipfel oft ganzjährig schneebedeckt sind und das urbane Stadtbild auf einzigartige Weise dominieren. Santiago hat sich im 21. Jahrhundert zu einer hochmodernen Metropole mit gläsernen Wolkenkratzern wie dem Gran Torre Santiago entwickelt, der mit 300 Metern Höhe das höchste Gebäude Südamerikas ist. Das Klima ist mediterran geprägt, was den Weinbau in den umliegenden Tälern wie dem Maipo-Tal begünstigt, welches für seine erstklassigen Rotweine weltberühmt ist. Die Stadt verfügt zudem über eines der modernsten und effizientesten Metrosysteme des Kontinents.",
@@ -26,6 +29,9 @@ export const poiExtraChileCitiesV2: POI[] = [
       hu: ["Alapítás dátuma: 1541. február 12.", "Gran Torre Santiago magassága: 300 méter", "Metropolisz lakossága: kb. 6,2 millió fő", "Tengerszint feletti magasság: 520 méter", "Metróhálózat hossza: több mint 140 kilométer", "Éghajlat: Mediterrán jellegű száraz nyárral"],
       ro: ["Data fondării: 12 februarie 1541", "Înălțimea Gran Torre Santiago: 300 metri", "Populația zonei metropolitane: aprox. 6,2 milioane", "Altitudine medie: 520 metri", "Rețea de metrou: Cea mai extinsă din America de Sud", "Climat: Mediteranean cu influențe oceanice"],
       en: ["Date founded: February 12, 1541", "Gran Torre Santiago height: 300 meters", "Metropolitan population: ~6.2 million", "Average elevation: 520 meters", "Metro system: Longest and most advanced in SA", "Distance to Pacific coast: ~100 km"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     
@@ -33,7 +39,10 @@ export const poiExtraChileCitiesV2: POI[] = [
       de: ["Wurde 1541 gegründet.", "Das Zentrum der chilenischen Wirtschaft."],
       hu: ["1541-ben alapították.", "A chilei gazdaság központja."],
       ro: ["A fost fondată în 1541.", "Centrul economiei chiliene."],
-      en: ["Founded in 1541.", "The center of the Chilean economy."]
+      en: ["Founded in 1541.", "The center of the Chilean economy."],
+      es: ["Fue fundada en 1541.", "El centro de la economía chilena."],
+      pt: ["Foi fundada em 1541.", "O centro da economia chilena."],
+      fr: ["Fondée en 1541.", "Le centre de l'économie chilienne."],
     },
      image: "/poi-images/santiago-cities-v2.webp"},
   {
@@ -47,7 +56,10 @@ export const poiExtraChileCitiesV2: POI[] = [
       de: "Eine der bevölkerungsreichsten Städte Chiles, südlich der Hauptstadt gelegen.",
       hu: "Chile egyik legnépesebb városa, a fővárostól délre helyezkedik el.",
       ro: "Una dintre cele mai populate orașe din Chile, situată la sud de capitală.",
-      en: "One of the most populous cities in Chile, located south of the capital."
+      en: "One of the most populous cities in Chile, located south of the capital.",
+      es: "Una de las ciudades más pobladas de Chile, situada al sur de la capital.",
+      pt: "Uma das cidades mais povoadas do Chile, situada ao sul da capital.",
+      fr: "L'une des villes les plus peuplées du Chili, située au sud de la capitale.",
     },
     descriptionAdvanced: {
       de: "Puente Alto liegt am südöstlichen Rand der Metropolregion Santiago und ist einer der bevölkerungsreichsten Bezirke Chiles. Die Stadt wurde offiziell im Jahr 1898 gegründet und hat sich von einer ländlichen Siedlung zu einem bedeutenden städtischen Zentrum entwickelt, das heute als Wohnort für hunderttausende Pendler dient. Geografisch wird Puente Alto vom Fluss Maipo im Süden begrenzt, der eine entscheidende Rolle für die lokale Wasserversorgung und die Bewässerung der umliegenden Agrarflächen spielt. In der Region ist die traditionsreiche Weinkellerei Concha y Toro ansässig, eines der weltweit größten Weinexportunternehmen, dessen historische Weinberge das Landschaftsbild prägen. Die Anbindung an das Zentrum von Santiago erfolgt über die moderne Linie 4 der Metro, was die Stadt eng in das wirtschaftliche Gefüge der Hauptstadt integriert. Trotz der dichten Besiedlung bietet Puente Alto durch seine Nähe zu den Ausläufern der Anden Zugang zu natürlichen Erholungsgebieten und Wanderwegen. Die Stadt kombiniert industrielle Zonen mit ausgedehnten Wohngebieten und einer wachsenden kommerziellen Infrastruktur.",
@@ -60,6 +72,9 @@ export const poiExtraChileCitiesV2: POI[] = [
       hu: ["Alapítás éve: 1898", "Lakosság: több mint 560 000 fő", "Borászat: Concha y Toro központja", "Folyó: Maipo határolja délről", "Közlekedés: Metro 4-es vonal végállomása", "Ipar: Jelentős papírgyártás"],
       ro: ["Anul fondării: 1898", "Populație: peste 560.000 locuitori", "Economie: Sediul cramei Concha y Toro", "Geografie: Limitat de râul Maipo", "Transport: Conexiune prin Linia 4 de metrou", "Suprafață: 88,2 km²"],
       en: ["Year founded: 1898", "Population: over 560,000", "Home to Concha y Toro winery (est. 1883)", "Border: Maipo River to the south", "Transport: Connected by Metro Line 4", "Elevation: ~700 meters above sea level"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     
@@ -67,7 +82,10 @@ export const poiExtraChileCitiesV2: POI[] = [
       de: ["Bekannt für große Wohngebiete.", "Wichtiges urbanes Zentrum."],
       hu: ["Hatalmas lakóövezeteiről ismert.", "Fontos városi központ."],
       ro: ["Cunoscută pentru zonele rezidențiale extinse.", "Centru urban important."],
-      en: ["Known for large residential areas.", "Important urban center."]
+      en: ["Known for large residential areas.", "Important urban center."],
+      es: ["Conocida por sus grandes zonas residenciales.", "Importante centro urbano."],
+      pt: ["Conhecida pelas suas grandes zonas residenciais.", "Importante centro urbano."],
+      fr: ["Connue pour ses grandes zones résidentielles.", "Important centre urbain."],
     },
      image: "/poi-images/puente-alto-cities-v2.webp"},
   {
@@ -81,7 +99,10 @@ export const poiExtraChileCitiesV2: POI[] = [
       de: "Ein historischer Vorort von Santiago, berühmt für die Schlacht von Maipú.",
       hu: "Santiago történelmi külvárosa, amely a maipúi csatáról híres.",
       ro: "O suburbie istorică a orașului Santiago, faimoasă pentru bătălia de la Maipú.",
-      en: "A historic suburb of Santiago, famous for the Battle of Maipú."
+      en: "A historic suburb of Santiago, famous for the Battle of Maipú.",
+      es: "Un suburbio histórico de Santiago, famoso por la Batalla de Maipú.",
+      pt: "Um subúrbio histórico de Santiago, famoso pela Batalha de Maipú.",
+      fr: "Une banlieue historique de Santiago, célèbre pour la bataille de Maipú.",
     },
     descriptionAdvanced: {
       de: "Maipú ist ein historisch bedeutsamer Bezirk im Südwesten der Metropolregion Santiago und bekannt als der Ort, an dem Chile seine endgültige Unabhängigkeit sicherte. Am 5. April 1818 besiegten die chilenischen und argentinischen Streitkräfte unter der Führung von José de San Martín und Bernardo O'Higgins die spanischen Royalisten in der entscheidenden Schlacht von Maipú. Zum Gedenken an diesen Sieg wurde der Templo Votivo de Maipú errichtet, eine monumentale Basilika, die heute ein nationales Wahrzeichen und einer der wichtigsten Wallfahrtsorte des Landes ist. Geografisch erstreckt sich der Bezirk über eine fruchtbare Ebene, die früher intensiv für den Getreideanbau genutzt wurde, bevor die Urbanisierung einsetzte. Heute ist Maipú ein dicht besiedeltes Wohn- und Industriegebiet mit einer modernen Infrastruktur, einschließlich einer direkten Anbindung an das Metronetz über die Linie 5. Die Stadt verbindet ihre reiche militärische Tradition mit einem dynamischen Bevölkerungswachstum und einer Vielzahl von Bildungseinrichtungen. Jedes Jahr finden hier große patriotische Feierlichkeiten statt, die an die Gründung der Republik erinnern.",
@@ -94,6 +115,9 @@ export const poiExtraChileCitiesV2: POI[] = [
       hu: ["Maipúi csata dátuma: 1818. április 5.", "Templom magassága: kb. 90 méter", "Lakosság: kb. 520 000 fő", "Közlekedés: Metro 5-ös vonal", "Történelmi szerep: Chilei függetlenség helyszíne", "Fő látnivaló: Templo Votivo de Maipú"],
       ro: ["Bătălia de la Maipú: 5 aprilie 1818", "Înălțimea templului: aprox. 90 metri", "Populație: peste 520.000 locuitori", "Transport: Conexiune prin Linia 5 de metrou", "Semnificație: Locul independenței chiliene", "Obiectiv turistic: Muzeul Carmele"],
       en: ["Date of Battle of Maipú: April 5, 1818", "Templo Votivo height: ~90 meters", "Population: ~520,000", "Metro access: Line 5 (Green Line)", "Historical role: Birthplace of Chilean independence", "Park: Parque Municipal de Maipú"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     
@@ -101,7 +125,10 @@ export const poiExtraChileCitiesV2: POI[] = [
       de: ["Hier steht der Templo Votivo.", "Schauplatz der Unabhängigkeit."],
       hu: ["Itt található a Templo Votivo.", "A függetlenség helyszíne."],
       ro: ["Aici se află Templo Votivo.", "Scena independenței."],
-      en: ["Home to the Templo Votivo.", "Site of independence."]
+      en: ["Home to the Templo Votivo.", "Site of independence."],
+      es: ["Aquí se encuentra el Templo Votivo.", "Escenario de la independencia."],
+      pt: ["Aqui encontra-se o Templo Votivo.", "Cenário da independência."],
+      fr: ["Lieu du Templo Votivo.", "Théâtre de l'indépendance."],
     },
      image: "/poi-images/maipu-cities-v2.webp"},
   {
@@ -115,7 +142,10 @@ export const poiExtraChileCitiesV2: POI[] = [
       de: "Eine dicht besiedelte Gemeinde im südöstlichen Teil der Hauptstadtregion.",
       hu: "Egy sűrűn lakott község a fővárosi régió délkeleti részén.",
       ro: "O comună dens populată în partea de sud-est a regiunii capitalei.",
-      en: "A densely populated commune in the southeastern part of the capital region."
+      en: "A densely populated commune in the southeastern part of the capital region.",
+      es: "Una comuna densamente poblada en la parte sureste de la región metropolitana.",
+      pt: "Uma comuna densamente povoada na parte sudeste da região metropolitana.",
+      fr: "Une commune densément peuplée dans la partie sud-est de la région métropolitaine.",
     },
     descriptionAdvanced: {
       de: "La Florida ist ein weitläufiger Wohnbezirk im Südosten von Santiago de Chile und gilt als eines der wichtigsten kommerziellen Zentren der Hauptstadt. Der Bezirk wurde im Jahr 1899 gegründet und entwickelte sich besonders in den 1980er und 1990er Jahren zu einer bevorzugten Wohngegend für die aufstrebende Mittelschicht des Landes. Ein markantes Merkmal ist die Mall Plaza Vespucio, eines der größten und erfolgreichsten Einkaufszentren Chiles, das als zentraler Treffpunkt und Wirtschaftsmotor der Region dient. Geografisch erstreckt sich La Florida von den flachen Ebenen im Westen bis hin zu den Ausläufern der Anden im Osten, was zu signifikanten Höhenunterschieden innerhalb des Stadtteils führt. Hier befindet sich auch der Panul-Wald, einer der letzten verbliebenen naturbelassenen Wälder in der Nähe des Stadtgebiets. Die medizinische Versorgung und Bildungsinfrastruktur sind durch zahlreiche Kliniken und moderne Universitätsstandorte überdurchschnittlich gut ausgebaut. Dank der Anbindung an mehrere Metrolinien ist der Bezirk heute einer der bestvernetzten Teile der Metropolregion Santiago.",
@@ -128,6 +158,9 @@ export const poiExtraChileCitiesV2: POI[] = [
       hu: ["Alapítás napja: 1899. november 28.", "Lakosság: kb. 360 000 fő", "Kereskedelem: Itt épült az ország egyik első plázája", "Természeti kincs: El Panul őshonos erdő", "Közlekedés: Három metróvonal csomópontja", "Sport: Estadio Bicentenario de La Florida"],
       ro: ["Data înființării: 28 noiembrie 1899", "Populație: aprox. 360.000 locuitori", "Comerț: Găzduiește Mall Plaza Vespucio", "Natură: Include pădurea nativă El Panul", "Metrou: Deservit de liniile 4, 4A și 5", "Sport: Stadionul Bicentenario (12.000 locuri)"],
       en: ["Date founded: November 28, 1899", "Population: ~360,000", "Shopping: Home to Mall Plaza Vespucio", "Environment: Contains El Panul native forest", "Metro service: Connected by lines 4, 4A, and 5", "Stadium capacity: 12,000 (Bicentenario)"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     
@@ -135,7 +168,10 @@ export const poiExtraChileCitiesV2: POI[] = [
       de: ["Wichtiges Einkaufszentrum.", "Hat viele Grünflächen."],
       hu: ["Fontos bevásárlóközpont.", "Sok zöldterülettel rendelkezik."],
       ro: ["Centru comercial important.", "Are multe spații verzi."],
-      en: ["Important shopping center.", "Has many green spaces."]
+      en: ["Important shopping center.", "Has many green spaces."],
+      es: ["Importante centro comercial.", "Tiene muchas zonas verdes."],
+      pt: ["Importante centro comercial.", "Possui muitas áreas verdes."],
+      fr: ["Important centre commercial.", "Possède de nombreux espaces verts."],
     },
      image: "/poi-images/la-florida-cities-v2.webp"},
   {
@@ -149,7 +185,10 @@ export const poiExtraChileCitiesV2: POI[] = [
       de: "Eine Hafenstadt im Norden Chiles, die stark vom Bergbau geprägt ist.",
       hu: "Kikötőváros Észak-Chilében, amelyet erősen meghatároz a bányászat.",
       ro: "Un oraș portuar din nordul statului Chile, marcat puternic de minerit.",
-      en: "A port city in northern Chile heavily influenced by mining."
+      en: "A port city in northern Chile heavily influenced by mining.",
+      es: "Una ciudad portuaria en el norte de Chile, fuertemente influenciada por la minería.",
+      pt: "Uma cidade portuária no norte do Chile, fortemente influenciada pela mineração.",
+      fr: "Une ville portuaire au nord du Chili, fortement marquée par l'industrie minière.",
     },
     descriptionAdvanced: {
       de: "Antofagasta ist eine bedeutende Hafenstadt im Norden Chiles und dient als Hauptstadt der gleichnamigen Region in der Atacama-Wüste. Die Stadt wurde 1868 gegründet und erlebte während des Salpeterbooms im späten 19. Jahrhundert einen rasanten Aufstieg, bevor sie nach dem Salpeterkrieg unter chilenische Kontrolle kam. Heute ist sie das weltweit wichtigste Logistikzentrum für den Kupferbergbau, wobei ein Großteil des weltweit produzierten Kupfers aus Minen wie Escondida über ihren Hafen verschifft wird. Die Geografie Antofagastas ist durch einen schmalen Küstenstreifen zwischen dem Pazifischen Ozean und dem steil aufragenden Küstengebirge geprägt, was der Stadt eine langgestreckte Form verleiht. Zu den architektonischen Sehenswürdigkeiten gehören die historischen Gebäude des Barrio Histórico und der Torre del Reloj auf der Plaza Colón, ein Geschenk der britischen Gemeinde. In der Nähe der Stadt befindet sich das berühmte Naturdenkmal La Portada, ein spektakulärer natürlicher Steinbogen im Meer. Das extrem trockene Klima macht die Stadt fast vollständig von der Entsalzung von Meerwasser abhängig.",
@@ -162,6 +201,9 @@ export const poiExtraChileCitiesV2: POI[] = [
       hu: ["Alapítás éve: 1868", "Becenév: Az észak gyöngye", "La Portada magassága: 43 méter", "Lakosság: kb. 360 000 fő", "Ipar: A világ egyik legnagyobb rézkikötője", "Vízellátás: Tengervíz-lepárlással megoldva"],
       ro: ["Anul fondării: 1868", "Supranume: Perla Nordului", "Înălțimea La Portada: 43 metri", "Populație: aprox. 360.000 locuitori", "Resurse: Cel mai mare port de export al cuprului", "Climat: Unul dintre cele mai aride din lume"],
       en: ["Year founded: 1868", "Nickname: Pearl of the North", "La Portada height: 43 meters", "Population: ~360,000", "Economy: Copper export capital of the world", "Water source: Seawater desalination plants"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     
@@ -169,7 +211,10 @@ export const poiExtraChileCitiesV2: POI[] = [
       de: ["Bekannt als die Perle des Nordens.", "Zentrum der Kupferindustrie."],
       hu: ["Észak gyöngyeként ismert.", "A rézipar központja."],
       ro: ["Cunoscută ca Perla Nordului.", "Centrul industriei cuprului."],
-      en: ["Known as the Pearl of the North.", "Center of the copper industry."]
+      en: ["Known as the Pearl of the North.", "Center of the copper industry."],
+      es: ["Conocida como la Perla del Norte.", "Centro de la industria del cobre."],
+      pt: ["Conhecida como a Pérola do Norte.", "Centro da indústria do cobre."],
+      fr: ["Connue comme la Perle du Nord.", "Centre de l'industrie du cuivre."],
     },
     
   }

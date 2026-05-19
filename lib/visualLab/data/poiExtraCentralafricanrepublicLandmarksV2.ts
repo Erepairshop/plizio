@@ -24,19 +24,28 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: ["A székesegyház az 1930-as években épült vörös téglából, francia gyarmati stílusban.", "Ez a Bangui Római Katolikus Főegyházmegye központi temploma.", "Ferenc pápa 2015. november 29-én itt nyitotta meg az Irgalmasság Szentévét.", "Az épület homlokzatát két robusztus négyszögletes torony uralja.", "A templom fontos szerepet játszott a 2013-as konfliktus idején a menekültek védelmében.", "A katedrális Bangui egyik legrégebbi, épségben maradt gyarmati kori épülete."],
       ro: ["Catedrala a fost ridicată în anii 1930 folosind cărămidă roșie produsă local.", "Este biserica principală a Arhidiecezei Romano-Catolice de Bangui.", "Papa Francisc a vizitat catedrala pe 29 noiembrie 2015, un eveniment istoric pentru oraș.", "Arhitectura sa este o fuziune între stilul european și materialele de construcție locale.", "Edificiul se află situat în arondismentul 1, nucleul istoric al capitalei.", "Capacitatea sa interioară permite participarea a sute de credincioși la liturghie."],
       en: ["The cathedral was built in the 1930s during the French colonial administration.", "It serves as the mother church of the Roman Catholic Archdiocese of Bangui.", "Pope Francis opened the Holy Door here on November 29, 2015, during his visit.", "The structure is famous for its distinctive red brick facade and twin towers.", "It is located in the heart of Bangui, close to major administrative buildings.", "The cathedral has historically functioned as a place of refuge during civil conflicts."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Die imposante Kathedrale aus roten Backsteinen ist das bedeutendste religiöse Bauwerk der Hauptstadt und ein Wahrzeichen der Stadt.",
       hu: "A vörös téglából épült impozáns székesegyház a főváros legjelentősebb vallási épülete és a város egyik jelképe.",
       ro: "Această catedrală impunătoare din cărămidă roșie este cel mai important edificiu religios din capitală și un simbol al orașului.",
-      en: "The imposing red-brick cathedral is the most important religious building in the capital and a landmark of the city."
+      en: "The imposing red-brick cathedral is the most important religious building in the capital and a landmark of the city.",
+      es: "La imponente catedral de ladrillo rojo es el edificio religioso más importante de la capital y un símbolo de la ciudad.",
+      pt: "A imponente catedral de tijolos vermelhos é o edifício religioso mais importante da capital e um símbolo da cidade.",
+      fr: "L'imposante cathédrale en briques rouges est l'édifice religieux le plus important de la capitale et un emblème de la ville.",
     },
     facts: {
       de: ["In den 1930er Jahren erbaut.", "Sitz des Erzbistums Bangui.", "Bekannt für ihre markante Architektur."],
       hu: ["Az 1930-as években épült.", "A Bangui Érsekség székhelye.", "Jellegzetes építészetéről ismert."],
       ro: ["Construită în anii 1930.", "Sediul Arhiepiscopiei de Bangui.", "Cunoscută pentru arhitectura sa distinctivă."],
-      en: ["Built in the 1930s.", "Seat of the Archdiocese of Bangui.", "Known for its distinctive architecture."]
+      en: ["Built in the 1930s.", "Seat of the Archdiocese of Bangui.", "Known for its distinctive architecture."],
+      es: ["Construida en la década de 1930.", "Sede de la archidiócesis de Bangui.", "Conocida por su arquitectura distintiva."],
+      pt: ["Construída na década de 1930.", "Sede da arquidiocese de Bangui.", "Conhecida por sua arquitetura distinta."],
+      fr: ["Construite dans les années 1930.", "Siège de l'archidiocèse de Bangui.", "Connue pour son architecture marquante."],
     }, image: "/poi-images/cathedrale-notre-dame-bangui-landmarks-v2.webp"},
   {
     id: "arc-de-triomphe-bangui-landmarks-v2",
@@ -60,19 +69,28 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: ["A Diadalív az 1970-es évek közepén épült, Jean-Bédel Bokassa uralma alatt.", "Az emlékmű az Avenue de l'Indépendance és az Avenue David Dacko metszéspontján áll.", "Az építmény kialakítása a francia klasszicista diadalívek stílusát utánozza.", "Bokassa 1977-es császárrá koronázási ceremóniáján kiemelt szerepet kapott.", "A kapu ma is fontos tájékozódási pont a bangui-i tömegközlekedésben.", "Az emlékmű közelében található a Renaissance palota, az elnöki rezidencia."],
       ro: ["Arcul de Triumf a fost ridicat în perioada 1970-1977 sub controlul lui Bokassa.", "Monumentul este situat în inima administrativă a orașului Bangui.", "Designul său este o replică simplificată a Arcului de Triumf din Paris.", "A fost proiectat pentru a servi drept punct central pentru paradele naționale.", "Structura este realizată în principal din beton armat cu finisaje de piatră.", "Rămâne unul dintre puținele monumente mari din acea epocă încă în picioare."],
       en: ["The arch was built in the mid-1970s as part of Bokassa's urban development.", "It is located at the intersection of Independence Avenue and David Dacko Avenue.", "The monument was intended to mimic the grandeur of French Napoleonic architecture.", "It played a significant role in the 1977 coronation events of Emperor Bokassa I.", "The structure survived the 1979 coup and subsequent periods of civil war.", "It remains a primary gathering point for official state processions in the capital."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Ein monumentales Bauwerk im Zentrum von Bangui, das zu Ehren des ersten Präsidenten Barthélemy Boganda errichtet wurde.",
       hu: "Monumentális építmény Bangui központjában, amelyet az első elnök, Barthélemy Boganda tiszteletére emeltek.",
       ro: "O structură monumentală în centrul orașului Bangui, ridicată în onoarea primului președinte, Barthélemy Boganda.",
-      en: "A monumental structure in the center of Bangui, erected in honor of the first president, Barthélemy Boganda."
+      en: "A monumental structure in the center of Bangui, erected in honor of the first president, Barthélemy Boganda.",
+      es: "Un monumento monumental en el centro de Bangui, erigido en honor al primer presidente Barthélemy Boganda.",
+      pt: "Uma estrutura monumental no centro de Bangui, erguida em honra do primeiro presidente Barthélemy Boganda.",
+      fr: "Un édifice monumental au centre de Bangui, érigé en l'honneur du premier président Barthélemy Boganda.",
     },
     facts: {
       de: ["Ein Symbol der nationalen Unabhängigkeit.", "Befindet sich an einer zentralen Straßenkreuzung.", "Oft Schauplatz nationaler Feierlichkeiten."],
       hu: ["A nemzeti függetlenség szimbóluma.", "Egy központi útkereszteződésben található.", "Gyakran nemzeti ünnepségek helyszíne."],
       ro: ["Un simbol al independenței naționale.", "Situat la o intersecție centrală.", "Adesea locul celebrărilor naționale."],
-      en: ["A symbol of national independence.", "Located at a central road intersection.", "Often the site of national celebrations."]
+      en: ["A symbol of national independence.", "Located at a central road intersection.", "Often the site of national celebrations."],
+      es: ["Un símbolo de la independencia nacional.", "Se encuentra en un cruce de calles central.", "A menudo escenario de celebraciones nacionales."],
+      pt: ["Um símbolo da independência nacional.", "Localiza-se num cruzamento central.", "Frequentemente palco de celebrações nacionais."],
+      fr: ["Un symbole de l'indépendance nationale.", "Situé à un carrefour central.", "Souvent le théâtre de célébrations nationales."],
     }, image: "/poi-images/arc-de-triomphe-bangui-landmarks-v2.webp"},
   {
     id: "place-de-la-republique-bangui-landmarks-v2",
@@ -96,19 +114,28 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: ["A tér a város legfontosabb helyszíne a nemzeti ünnepek és katonai szemlék során.", "Központi eleme egy Barthélemy Boganda tiszteletére emelt emlékmű.", "A tér körül található az ország központi postahivatala és több nagykövetség.", "A december 1-jei nemzeti ünnep fő eseményei mindig itt zajlanak.", "A térről indul az Avenue de l'Indépendance, Bangui egyik főútvonala.", "A 2013-as események után a tér a nemzeti megbékélés egyik szimbolikus helyszíne lett."],
       ro: ["Piața Republicii este punctul zero al sistemului rutier din Republica Centrafricană.", "Găzduiește monumentul național dedicat eroului independenței, Barthélemy Boganda.", "Clădirea Poștei Centrale, un reper arhitectural, se află pe latura de nord a pieței.", "Este locul oficial unde președintele depune coroane de flori la ceremoniile de stat.", "Piața a fost complet renovată de mai multe ori pentru a găzdui vizite oficiale.", "Nodul de transport din piață face legătura între centrul orașului și cartierul PK5."],
       en: ["Republic Square is the primary location for CAR's Independence Day parades.", "It features a prominent monument to the country's first president, Barthélemy Boganda.", "The General Post Office, a key colonial-era building, overlooks the square.", "It is situated in the 1st Arrondissement, the administrative center of Bangui.", "The square serves as a focal point for political activism and public demonstrations.", "Major financial headquarters, including the BEAC office, are located in the vicinity."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Der zentrale Platz von Bangui ist das Herz des politischen und gesellschaftlichen Lebens der Stadt.",
       hu: "Bangui központi tere, amely a város politikai és társadalmi életének szíve.",
       ro: "Piața centrală din Bangui este inima vieții politice și sociale a orașului.",
-      en: "The central square of Bangui is the heart of the city's political and social life."
+      en: "The central square of Bangui is the heart of the city's political and social life.",
+      es: "La plaza central de Bangui es el corazón de la vida política y social de la ciudad.",
+      pt: "A praça central de Bangui é o coração da vida política e social da cidade.",
+      fr: "La place centrale de Bangui est le cœur de la vie politique et sociale de la ville.",
     },
     facts: {
       de: ["Umgeben von Regierungsgebäuden.", "Zentraler Treffpunkt für Bewohner.", "Beinhaltet oft Denkmäler und Brunnen."],
       hu: ["Kormányzati épületek veszik körül.", "A lakosok központi találkozóhelye.", "Gyakran tartalmaz emlékműveket és kutakat."],
       ro: ["Înconjurată de clădiri guvernamentale.", "Punct central de întâlnire pentru locuitori.", "Include adesea monumente și fântâni."],
-      en: ["Surrounded by government buildings.", "Central meeting point for residents.", "Often features monuments and fountains."]
+      en: ["Surrounded by government buildings.", "Central meeting point for residents.", "Often features monuments and fountains."],
+      es: ["Rodeada de edificios gubernamentales.", "Punto de encuentro central para los habitantes.", "A menudo incluye monumentos y fuentes."],
+      pt: ["Rodeada por edifícios governamentais.", "Ponto de encontro central para os habitantes.", "Frequentemente inclui monumentos e fontes."],
+      fr: ["Entourée de bâtiments gouvernementaux.", "Lieu de rencontre central pour les habitants.", "Comprend souvent des monuments et des fontaines."],
     }, image: "/poi-images/place-de-la-republique-bangui-landmarks-v2.webp"},
   {
     id: "palais-de-la-renaissance-landmarks-v2",
@@ -132,19 +159,28 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: ["A palota a Közép-afrikai Köztársaság államfőjének hivatalos munkahelye és lakhelye.", "Eredetileg a francia kormányzó rezidenciájaként épült a gyarmati időkben.", "A komplexum Bangui legmagasabb biztonsági fokozatú területei közé tartozik.", "Itt tartják a heti rendszerességű minisztertanácsi üléseket.", "A palota kertjeiben számos diplomáciai eseményt és kerti partit rendeznek.", "Az épület az ország függetlensége óta minden elnök székhelye volt."],
       ro: ["Palais de la Renaissance funcționează ca reședință oficială și birou prezidențial.", "Structura actuală a fost extinsă semnificativ în anii 1960 și 1970.", "Este situat în arondismentul 1, în apropiere de marile ministere ale țării.", "Complexul include buncăre și facilități de comunicații de înaltă securitate.", "Accesul pe străzile adiacente palatului este adesea restricționat civililor.", "În acest palat a fost proclamat Imperiul Centrafrican în anul 1976."],
       en: ["The Renaissance Palace serves as the official workplace of the CAR President.", "The complex was originally built as the Governor's Palace during French rule.", "It is the site where all newly appointed cabinet members take their oaths of office.", "The palace underwent major renovations during the era of Jean-Bédel Bokassa.", "The Presidential Guard provides 24-hour security for the entire compound.", "It remains the most important political landmark in the capital city of Bangui."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Der offizielle Amtssitz des Präsidenten der Zentralafrikanischen Republik, ein prächtiges Gebäude mit Blick auf die Stadt.",
       hu: "A Közép-afrikai Köztársaság elnökének hivatalos rezidenciája, pompás épület kilátással a városra.",
       ro: "Reședința oficială a președintelui Republicii Centrafricane, o clădire splendidă cu vedere spre oraș.",
-      en: "The official residence of the President of the Central African Republic, a grand building overlooking the city."
+      en: "The official residence of the President of the Central African Republic, a grand building overlooking the city.",
+      es: "La sede oficial del Presidente de la República Centroafricana, un magnífico edificio con vistas a la ciudad.",
+      pt: "A sede oficial do Presidente da República Centroafricana, um edifício magnífico com vista para a cidade.",
+      fr: "Le siège officiel du Président de la République centrafricaine, un bâtiment magnifique surplombant la ville.",
     },
     facts: {
       de: ["Wichtigstes Regierungsgebäude des Landes.", "Streng bewachtes Areal.", "Architektonisches Symbol der Staatsgewalt."],
       hu: ["Az ország legfontosabb kormányzati épülete.", "Szigorúan őrzött terület.", "Az államhatalom építészeti szimbóluma."],
       ro: ["Cea mai importantă clădire guvernamentală din țară.", "Zonă strict păzită.", "Simbol arhitectural al puterii de stat."],
-      en: ["The country's most important government building.", "Heavily guarded area.", "Architectural symbol of state power."]
+      en: ["The country's most important government building.", "Heavily guarded area.", "Architectural symbol of state power."],
+      es: ["Edificio gubernamental más importante del país.", "Zona estrictamente vigilada.", "Símbolo arquitectónico del poder estatal."],
+      pt: ["Edifício governamental mais importante do país.", "Área estritamente vigiada.", "Símbolo arquitetónico do poder estatal."],
+      fr: ["Bâtiment gouvernemental le plus important du pays.", "Zone strictement gardée.", "Symbole architectural du pouvoir de l'État."],
     }, image: "/poi-images/palais-de-la-renaissance-landmarks-v2.webp"},
   {
     id: "stade-barthelemy-boganda-landmarks-v2",
@@ -168,19 +204,28 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: ["A stadion körülbelül 20 000 néző befogadására alkalmas.", "Névadója Barthélemy Boganda, az ország függetlenségének vezéralakja.", "A létesítmény az ország egyetlen olyan stadionja, amely megfelel a nemzetközi szabványoknak.", "A közép-afrikai labdarúgó-válogatott minden hazai mérkőzését itt játssza.", "A stadiont gyakran használják az országos ifjúsági és kulturális napok megrendezésére.", "Az épület Bangui nyugati részén, a nemzetközi repülőtér felé vezető út mentén található."],
       ro: ["Stadionul Boganda este singura arenă din țară omologată pentru meciuri internaționale.", "Capacitatea sa maximă a fost uneori depășită, ajungând la 30.000 de spectatori la derby-uri.", "Arena a beneficiat de lucrări de renovare finanțate prin cooperare internațională.", "Aici se află sediul multor federații sportive naționale din Republica Centrafricană.", "Suprafața de joc este din iarbă naturală, adaptată climatului tropical local.", "În 2015, stadionul a găzduit o întâlnire ecumenică majoră în timpul vizitei Papei Francisc."],
       en: ["The stadium is the primary venue for all Central African Republic home international games.", "It was officially inaugurated in the mid-1970s and named after Barthélemy Boganda.", "The seating capacity is 20,000, but it often hosts larger crowds for state events.", "The complex includes facilities for basketball and other indoor sports nearby.", "It is located in the vibrant Lakouanga district of Bangui.", "The stadium serves as a major hub for the annual National Youth Festival celebrations."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Das Nationalstadion der Zentralafrikanischen Republik ist der größte Sportkomplex des Landes und Austragungsort wichtiger Spiele.",
       hu: "A Közép-afrikai Köztársaság nemzeti stadionja az ország legnagyobb sportkomplexuma és fontos mérkőzések helyszíne.",
       ro: "Stadionul național al Republicii Centrafricane este cel mai mare complex sportiv din țară și locul de desfășurare a meciurilor importante.",
-      en: "The national stadium of the Central African Republic is the largest sports complex in the country and the venue for important matches."
+      en: "The national stadium of the Central African Republic is the largest sports complex in the country and the venue for important matches.",
+      es: "El estadio nacional de la República Centroafricana es el mayor complejo deportivo del país y sede de importantes partidos.",
+      pt: "O estádio nacional da República Centroafricana é o maior complexo desportivo do país e local de jogos importantes.",
+      fr: "Le stade national de la République centrafricaine est le plus grand complexe sportif du pays et le lieu de matchs importants.",
     },
     facts: {
       de: ["Fassungsvermögen von etwa 20.000 Zuschauern.", "Heimat der Nationalmannschaft.", "Nach dem Gründervater des Landes benannt."],
       hu: ["Körülbelül 20 000 néző befogadására alkalmas.", "A nemzeti válogatott otthona.", "Az ország alapító atyjáról nevezték el."],
       ro: ["Capacitate de aproximativ 20.000 de spectatori.", "Sediul echipei naționale.", "Numit după tatăl fondator al țării."],
-      en: ["Capacity of about 20,000 spectators.", "Home of the national football team.", "Named after the country's founding father."]
+      en: ["Capacity of about 20,000 spectators.", "Home of the national football team.", "Named after the country's founding father."],
+      es: ["Capacidad para unos 20.000 espectadores.", "Sede de la selección nacional.", "Nombrado en honor al padre fundador del país."],
+      pt: ["Capacidade para cerca de 20.000 espectadores.", "Casa da seleção nacional.", "Nomeado em honra do pai fundador do país."],
+      fr: ["Capacité d'environ 20 000 spectateurs.", "Domicile de l'équipe nationale.", "Nommé d'après le père fondateur du pays."],
     }, image: "/poi-images/stade-barthelemy-boganda-landmarks-v2.webp"},
   {
     id: "monument-des-martyrs-bangui-landmarks-v2",
@@ -204,19 +249,28 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: ["Az emlékművet az 1979-ben meggyilkolt középiskolás és egyetemi hallgatók emlékére emelték.", "Január 18-a a Mártírok Napja, az ország egyik legfontosabb emléknapja.", "Az emlékmű központi elhelyezkedése miatt Bangui egyik legfőbb tájékozódási pontja.", "A tragikus események közvetlenül vezettek Jean-Bédel Bokassa uralmának végéhez.", "A diákfelkelés áldozatainak pontos száma a mai napig vitatott, de több százra teszik.", "Az emlékművet gyakran használják politikai beszédek és megemlékezések helyszínéül."],
       ro: ["Monumentul a fost inaugurat pentru a comemora victimele represiunii din 1979.", "Data de 18 ianuarie este declarată sărbătoare publică în Republica Centrafricană.", "Situat aproape de centrul orașului, este accesibil tuturor vizitatorilor.", "Protestele tinerilor au fost susținute și de sindicatele profesorilor din acea vreme.", "Reprezintă un punct simbolic de unde au pornit multe marșuri pentru democrație.", "Acest loc este păzit în timpul manifestărilor oficiale de către forțele de ordine."],
       en: ["The monument honors students killed in 1979 for protesting school uniform costs.", "January 18 is observed annually as a national day of mourning at this site.", "It is located at a major roundabout in the 1st Arrondissement of Bangui.", "The events of 1979 led to Operation Barracuda and the end of the Central African Empire.", "The memorial is a key site for teaching national history to Central African youth.", "It is often decorated with the national flag during official commemorative weeks."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Ein bedeutendes Denkmal in Bangui, das den Opfern der politischen Unruhen und Kämpfe für die Demokratie gewidmet ist.",
       hu: "Jelentős emlékmű Banguiban, amelyet a politikai zavargások és a demokráciáért vívott harcok áldozatainak szenteltek.",
       ro: "Un monument semnificativ în Bangui, dedicat victimelor tulburărilor politice și luptelor pentru democrație.",
-      en: "A significant monument in Bangui dedicated to the victims of political unrest and struggles for democracy."
+      en: "A significant monument in Bangui dedicated to the victims of political unrest and struggles for democracy.",
+      es: "Un monumento importante en Bangui dedicado a las víctimas de los disturbios políticos y las luchas por la democracia.",
+      pt: "Um monumento importante em Bangui dedicado às vítimas dos distúrbios políticos e das lutas pela democracia.",
+      fr: "Un monument important à Bangui dédié aux victimes des troubles politiques et des luttes pour la démocratie.",
     },
     facts: {
       de: ["Ein Ort des nationalen Gedenkens.", "Befindet sich in der Nähe des Stadtzentrums.", "Symbolisiert den Widerstand und das Opfer."],
       hu: ["A nemzeti emlékezés helye.", "A városközpont közelében található.", "Az ellenállást és az áldozatvállalást szimbolizálja."],
       ro: ["Un loc de comemorare națională.", "Situat în apropierea centrului orașului.", "Simbolizează rezistența și sacrificiul."],
-      en: ["A site of national remembrance.", "Located near the city center.", "Symbolizes resistance and sacrifice."]
+      en: ["A site of national remembrance.", "Located near the city center.", "Symbolizes resistance and sacrifice."],
+      es: ["Un lugar de recuerdo nacional.", "Ubicado cerca del centro de la ciudad.", "Simboliza la resistencia y el sacrificio."],
+      pt: ["Um local de memória nacional.", "Localizado perto do centro da cidade.", "Simboliza a resistência e o sacrifício."],
+      fr: ["Un lieu de mémoire nationale.", "Situé à proximité du centre-ville.", "Symbolise la résistance et le sacrifice."],
     }, image: "/poi-images/monument-des-martyrs-bangui-landmarks-v2.webp"},
   {
     id: "mosquee-centrale-bangui-landmarks-v2",
@@ -240,19 +294,28 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: ["A mecset Bangui legnagyobb muszlim imaháza és vallási központja.", "A PK5 negyed szívében található, amely a város legfontosabb kereskedelmi zónája.", "A 2013-as események idején a mecset udvara és épülete menekülttáborrá alakult.", "Itt székel a közösség vallási vezetője, a közép-afrikai főimám.", "A mecset jelentős szerepet játszik a helyi muszlim gyermekek vallási oktatásában.", "Péntekenként több ezer hívő gyűlik össze itt a közös imádságra."],
       ro: ["Moscheea este punctul focal al cartierului PK5, inima comerțului din Bangui.", "Structura sa a fost consolidată recent pentru a repara daunele provocate de conflict.", "Găzduiește anual festivități importante cu ocazia sărbătorii Eid al-Fitr.", "Este considerată un teritoriu neutru în cadrul eforturilor de mediere locală.", "Arhitectura sa este inspirată de stilurile sudano-saheliene din regiune.", "Moscheea deține o bibliotecă cu manuscrise religioase valoroase pentru comunitate."],
       en: ["The Central Mosque is the most significant Islamic building in the capital.", "It is situated in PK5, a district known for its vibrant markets and trade.", "The mosque sheltered approximately 3,000 people during the peak of the 2013 unrest.", "It is a primary site for the Central African Interfaith Peace Platform activities.", "The mosque serves as a major educational center for Islamic studies in Bangui.", "Its minarets are a distinctive feature of the Bangui skyline in the western part of town."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Das wichtigste islamische Gotteshaus in der Hauptstadt, gelegen im bevölkerungsreichen Stadtteil PK5.",
       hu: "A főváros legfontosabb iszlám imaháza, amely a sűrűn lakott PK5 negyedben található.",
       ro: "Cel mai important lăcaș de cult islamic din capitală, situat în cartierul populat PK5.",
-      en: "The most important Islamic place of worship in the capital, located in the populous PK5 district."
+      en: "The most important Islamic place of worship in the capital, located in the populous PK5 district.",
+      es: "El lugar de culto islámico más importante de la capital, situado en el populoso barrio de PK5.",
+      pt: "O local de culto islâmico mais importante da capital, localizado no populoso bairro de PK5.",
+      fr: "Le plus important lieu de culte islamique de la capitale, situé dans le quartier populaire du PK5.",
     },
     facts: {
       de: ["Ein Zentrum der muslimischen Gemeinschaft.", "Wichtiges architektonisches Bauwerk im PK5.", "Symbol für religiöse Vielfalt."],
       hu: ["A muszlim közösség központja.", "Fontos építészeti alkotás a PK5-ben.", "A vallási sokszínűség szimbóluma."],
       ro: ["Un centru al comunității musulmane.", "Edificiu arhitectural important în PK5.", "Simbol al diversității religioase."],
-      en: ["A center for the Muslim community.", "Important architectural structure in PK5.", "Symbol of religious diversity."]
+      en: ["A center for the Muslim community.", "Important architectural structure in PK5.", "Symbol of religious diversity."],
+      es: ["Un centro de la comunidad musulmana.", "Importante estructura arquitectónica en PK5.", "Símbolo de diversidad religiosa."],
+      pt: ["Um centro da comunidade muçulmana.", "Importante estrutura arquitetónica no PK5.", "Símbolo de diversidade religiosa."],
+      fr: ["Un centre de la communauté musulmane.", "Bâtiment architectural important au PK5.", "Symbole de diversité religieuse."],
     }, image: "/poi-images/mosquee-centrale-bangui-landmarks-v2.webp"},
   {
     id: "hotel-de-ville-bangui-landmarks-v2",
@@ -276,19 +339,28 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: ["A városháza épülete a gyarmati korszak építészeti stílusát hordozza.", "Itt zajlanak a városi önkormányzat legfontosabb ülései.", "Az épületben található a városi levéltár és a polgári anyakönyvi hivatal.", "A városháza fontos szerepet játszik a diplomáciai protokoll eseményekben.", "Bangui városa 8 kerületre (arrondissement) oszlik, amelyeket innen irányítanak.", "A városháza előtti terület gyakran ad otthont ingyenes koncerteknek és ünnepségeknek."],
       ro: ["Hôtel de Ville din Bangui este situat pe Avenue de l'Indépendance.", "Clădirea a servit drept sediu administrativ încă din anii 1950.", "Este locul unde sunt păstrate registrele oficiale ale populației din capitală.", "Arhitectura sa include balcoane largi adaptate pentru climatul cald.", "Primăria coordonează serviciile de salubritate și iluminat public ale orașului.", "Instituția organizează anual festivități pentru ziua orașului Bangui."],
       en: ["The Town Hall is the central authority for Bangui's eight administrative districts.", "It is a prime example of French colonial administrative architecture from the 1950s.", "The building is located near the banks of the Ubangi River in the city center.", "Official municipal proclamations are traditionally made from the Town Hall steps.", "It hosts the municipal archives, preserving the history of the city's development.", "The Mayor of Bangui uses this office to coordinate with international aid agencies."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Das Verwaltungszentrum der Stadt Bangui, ein elegantes Gebäude, das die lokale Verwaltung beherbergt.",
       hu: "Bangui város közigazgatási központja, egy elegáns épület, amely a helyi önkormányzatnak ad otthont.",
       ro: "Centrul administrativ al orașului Bangui, o clădire elegantă care găzduiește administrația locală.",
-      en: "The administrative center of the city of Bangui, an elegant building housing the local government."
+      en: "The administrative center of the city of Bangui, an elegant building housing the local government.",
+      es: "El centro administrativo de la ciudad de Bangui, un edificio elegante que alberga la administración local.",
+      pt: "O centro administrativo da cidade de Bangui, um edifício elegante que abriga a administração local.",
+      fr: "Le centre administratif de la ville de Bangui, un bâtiment élégant qui abrite l'administration locale.",
     },
     facts: {
       de: ["Sitz des Bürgermeisters von Bangui.", "Zentral gelegen in der Nähe des Flusses.", "Austragungsort für offizielle Zeremonien."],
       hu: ["Bangui polgármesterének székhelye.", "Központi fekvésű, a folyó közelében.", "Hivatalos ünnepségek helyszíne."],
       ro: ["Sediul primarului din Bangui.", "Situată central, aproape de râu.", "Loc de desfășurare a ceremoniilor oficiale."],
-      en: ["Seat of the Mayor of Bangui.", "Centrally located near the river.", "Venue for official ceremonies."]
+      en: ["Seat of the Mayor of Bangui.", "Centrally located near the river.", "Venue for official ceremonies."],
+      es: ["Sede del alcalde de Bangui.", "Céntrico, cerca del río.", "Lugar de celebración de ceremonias oficiales."],
+      pt: ["Sede do prefeito de Bangui.", "Localizado no centro, perto do rio.", "Local de realização de cerimônias oficiais."],
+      fr: ["Siège du maire de Bangui.", "Situé au centre, à proximité du fleuve.", "Lieu de déroulement des cérémonies officielles."],
     }, image: "/poi-images/hotel-de-ville-bangui-landmarks-v2.webp"},
   {
     id: "musee-boganda-landmarks-v2",
@@ -312,19 +384,28 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: ["A múzeumot 1964-ben alapították az ország kulturális örökségének védelmére.", "Az épület Barthélemy Boganda egykori magánrezidenciája volt.", "A kiállítások között láthatóak a híres közép-afrikai szertartási maszkok.", "A múzeum gyűjteménye a 2013-as konfliktus során jelentős károkat szenvedett.", "Az intézmény a Nemzetközi Múzeumi Tanács (ICOM) regisztrált tagja.", "A múzeum kertjében gyakran tartanak népzenei és táncbemutatókat."],
       ro: ["Muzeul Boganda deține cea mai mare colecție de artă tradițională din țară.", "Clădirea este un monument istoric protejat prin lege în Republica Centrafricană.", "Exponatele includ unelte de vânătoare din piatră datând din preistorie.", "Muzeul organizează ateliere de olărit tradițional pentru tineri.", "Secțiunea de muzicologie conține înregistrări rare ale cântecelor tribale.", "Este situat în centrul orașului, la mică distanță de Fluviul Oubangui."],
       en: ["The museum was founded in 1964 to preserve Central African folk traditions.", "It is located in the house where Barthélemy Boganda lived during his presidency.", "The collection features artifacts from over 80 different ethnic groups.", "It is renowned for its display of traditional ivory and wood carvings.", "The museum acts as a research center for Central African archaeology.", "It is the primary repository for the nation's historical and cultural documents."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Das Museum bewahrt das kulturelle Erbe der Zentralafrikanischen Republik, einschließlich Kunst und ethnischer Artefakte.",
       hu: "A múzeum a Közép-afrikai Köztársaság kulturális örökségét őrzi, beleértve a művészeti és néprajzi tárgyakat.",
       ro: "Muzeul păstrează patrimoniul cultural al Republicii Centrafricane, inclusiv artă și artefacte etnice.",
-      en: "The museum preserves the cultural heritage of the Central African Republic, including art and ethnic artifacts."
+      en: "The museum preserves the cultural heritage of the Central African Republic, including art and ethnic artifacts.",
+      es: "El museo preserva el patrimonio cultural de la República Centroafricana, incluyendo arte y artefactos étnicos.",
+      pt: "O museu preserva o património cultural da República Centroafricana, incluindo arte e artefactos étnicos.",
+      fr: "Le musée préserve le patrimoine culturel de la République centrafricaine, y compris l'art et les objets ethniques.",
     },
     facts: {
       de: ["In einem historischen Kolonialgebäude untergebracht.", "Zeigt traditionelle Musikinstrumente und Werkzeuge.", "Wichtigster Ort für Kulturgeschichte."],
       hu: ["Egy történelmi koloniális épületben kapott helyet.", "Hagyományos hangszereket és eszközöket mutat be.", "A kultúrtörténet legfontosabb helyszíne."],
       ro: ["Găzduit într-o clădire colonială istorică.", "Expune instrumente muzicale și unelte tradiționale.", "Cel mai important loc pentru istoria culturală."],
-      en: ["Housed in a historical colonial building.", "Displays traditional musical instruments and tools.", "Primary site for cultural history."]
+      en: ["Housed in a historical colonial building.", "Displays traditional musical instruments and tools.", "Primary site for cultural history."],
+      es: ["Ubicado en un edificio colonial histórico.", "Muestra instrumentos musicales y herramientas tradicionales.", "Lugar más importante para la historia cultural."],
+      pt: ["Alojado num edifício colonial histórico.", "Exibe instrumentos musicais e ferramentas tradicionais.", "Local mais importante para a história cultural."],
+      fr: ["Installé dans un bâtiment colonial historique.", "Présente des instruments de musique et des outils traditionnels.", "Lieu le plus important pour l'histoire culturelle."],
     }, image: "/poi-images/musee-boganda-landmarks-v2.webp"},
   {
     id: "universite-de-bangui-landmarks-v2",
@@ -348,19 +429,28 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: ["Az egyetemet 1969-ben hozták létre az akkori elnöki rendelet alapján.", "Az intézmény a Közép-afrikai Köztársaság egyetlen akkreditált állami egyeteme.", "Az egyetemen 5 fő kar és több szakosodott kutatóintézet működik.", "A jogi és közgazdaságtudományi kar a legnépszerűbb a hallgatók körében.", "Az egyetem könyvtára több mint 40 000 kötetből álló állománnyal rendelkezik.", "Szoros partnerségi viszonyban áll az Aix-Marseille Egyetemmel Franciaországban."],
       ro: ["Universitatea din Bangui este membră a Asociației Universităților Francofone.", "Majoritatea miniștrilor centrafricani sunt absolvenți ai acestei instituții.", "Facultatea de Medicină a fost înființată cu sprijinul Organizației Mondiale a Sănătății.", "Campusul a fost renovat parțial în 2017 cu fonduri europene.", "Anul universitar în Bangui se desfășoară de obicei din octombrie până în iunie.", "Universitatea găzduiește Centrul de Studii și Cercetări în Antropologie."],
       en: ["The University of Bangui was founded in 1969 by President Jean-Bédel Bokassa.", "It serves as the only public university for the entire Central African Republic.", "The Faculty of Health Sciences is the country's primary medical training center.", "Total student enrollment fluctuates between 7,000 and 12,000 students annually.", "It is part of the Association of African Universities (AAU).", "The university plays a key role in national development through its research labs."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Die einzige öffentliche Universität des Landes und ein bedeutendes Zentrum für höhere Bildung und Forschung.",
       hu: "Az ország egyetlen állami egyeteme, a felsőoktatás és a kutatás jelentős központja.",
       ro: "Singura universitate publică din țară și un centru major pentru învățământ superior și cercetare.",
-      en: "The only public university in the country and a major center for higher education and research."
+      en: "The only public university in the country and a major center for higher education and research.",
+      es: "La única universidad pública del país y un centro significativo para la educación superior y la investigación.",
+      pt: "A única universidade pública do país e um centro significativo para o ensino superior e a investigação.",
+      fr: "La seule université publique du pays et un centre important pour l'enseignement supérieur et la recherche.",
     },
     facts: {
       de: ["Gegründet im Jahr 1969.", "Besteht aus verschiedenen Fakultäten und Instituten.", "Zentrum des geistigen Lebens in Bangui."],
       hu: ["1969-ben alapították.", "Különböző karokból és intézetekből áll.", "Bangui szellemi életének központja."],
       ro: ["Fondată în anul 1969.", "Compusă din diverse facultăți și institute.", "Centrul vieții intelectuale din Bangui."],
-      en: ["Founded in 1969.", "Consists of various faculties and institutes.", "Center of intellectual life in Bangui."]
+      en: ["Founded in 1969.", "Consists of various faculties and institutes.", "Center of intellectual life in Bangui."],
+      es: ["Fundada en el año 1969.", "Consta de varias facultades e institutos.", "Centro de la vida intelectual en Bangui."],
+      pt: ["Fundada no ano de 1969.", "Composta por várias faculdades e institutos.", "Centro da vida intelectual em Bangui."],
+      fr: ["Fondée en 1969.", "Composée de diverses facultés et instituts.", "Centre de la vie intellectuelle à Bangui."],
     }, image: "/poi-images/universite-de-bangui-landmarks-v2.webp"},
   {
     id: "grand-marche-bangui-landmarks-v2",
@@ -384,18 +474,27 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: ["Ez a piac a Közép-afrikai Köztársaság legnagyobb kereskedelmi központja.", "A piac közvetlenül a banguii elnöki palota közelében található.", "A Grand Marché híres a helyi fából készült kézműves termékeiről.", "Az árakat hagyományosan a vevő és az eladó közötti alkudozás határozza meg.", "A 2013-as zavargások idején a piac kritikus fontosságú ellátási pont volt.", "A piac naponta a kora reggeli óráktól napnyugtáig tart nyitva."],
       ro: ["Piața este cel mai mare centru comercial din Republica Centrafricană.", "Se află în imediata vecinătate a palatului prezidențial din Bangui.", "Grand Marché este cunoscută pentru vânzarea obiectelor de artizanat local din lemn.", "Prețurile sunt stabilite tradițional prin negociere între cumpărător și vânzător.", "În timpul conflictelor din 2013, piața a fost un punct critic de aprovizionare.", "Piața este deschisă zilnic de la primele ore ale dimineții până la apus."],
       en: ["The market is the largest commercial trading center in the Central African Republic.", "It is located in close proximity to the Presidential Palace in Bangui.", "The Grand Marché is famous for selling local handicrafts made of wood.", "Prices are traditionally established through negotiation between buyer and seller.", "During the 2013 unrest, the market served as a critical supply point for the city.", "The market operates daily from early morning hours until sunset."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Der größte und lebhafteste Markt der Hauptstadt, ein architektonischer und wirtschaftlicher Mittelpunkt.",
       hu: "A főváros legnagyobb és legélénkebb piaca, építészeti és gazdasági csomópont.",
       ro: "Cea mai mare și mai vibrantă piață din capitală, un punct focal arhitectural și economic.",
-      en: "The largest and most vibrant market in the capital, an architectural and economic focal point."
+      en: "The largest and most vibrant market in the capital, an architectural and economic focal point.",
+      es: "El mercado más grande y animado de la capital, un centro arquitectónico y económico.",
+      pt: "O maior e mais animado mercado da capital, um centro arquitetônico e econômico.",
+      fr: "Le marché le plus grand et le plus animé de la capitale, un centre architectural et économique.",
     },
     facts: {
       de: ["Ein Labyrinth aus Verkaufsständen.", "Berühmt für Textilien und lokale Lebensmittel.", "Das wirtschaftliche Herz der Stadt."],
       hu: ["Elárusítóhelyek útvesztője.", "Híres a textilekről és a helyi élelmiszerekről.", "A város gazdasági szíve."],
       ro: ["Un labirint de tarabe.", "Faimoasă pentru textile și alimente locale.", "Inima economică a orașului."],
-      en: ["A labyrinth of stalls.", "Famous for textiles and local food.", "The economic heart of the city."]
+      en: ["A labyrinth of stalls.", "Famous for textiles and local food.", "The economic heart of the city."],
+      es: ["Un laberinto de puestos de venta.", "Famoso por los textiles y alimentos locales.", "El corazón económico de la ciudad."],
+      pt: ["Um labirinto de barracas de venda.", "Famoso pelos têxteis e alimentos locais.", "O coração econômico da cidade."],
+      fr: ["Un labyrinthe d'étals de vente.", "Célèbre pour les textiles et les aliments locaux.", "Le cœur économique de la ville."],
     }, image: "/poi-images/grand-marche-bangui-landmarks-v2.webp"},
   {
     id: "aeroport-m-poko-landmarks-v2",
@@ -419,18 +518,27 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: ["A repülőtér IATA-kódja BGF, ICAO-kódja pedig FEFF.", "Az egyetlen futópálya hossza 2600 méter.", "A repülőtér 368 méteres tengerszint feletti magasságban fekszik.", "2014-ben a repülőtér területén átmenetileg 100 000 menekült tartózkodott.", "Rendszeres járatok indulnak Párizsba, Doualába és Casablancába.", "A repülőteret polgári és katonai célokra egyaránt használják."],
       ro: ["Codul IATA al aeroportului este BGF, iar codul ICAO este FEFF.", "Singura pistă de decolare și aterizare are o lungime de 2.600 de metri.", "Aeroportul este situat la o altitudine de 368 de metri peste nivelul mării.", "În anul 2014, aeroportul a adăpostit temporar până la 100.000 de refugiați.", "Există zboruri regulate către destinații precum Paris, Douala și Casablanca.", "Aeroportul are atât o utilizare civilă, cât și una militară."],
       en: ["The airport's IATA code is BGF and its ICAO code is FEFF.", "The single runway has a total length of 2,600 meters.", "It is situated at an elevation of 368 meters above mean sea level.", "In 2014, the airport grounds temporarily sheltered up to 100,000 refugees.", "Regular flight connections are available to Paris, Douala, and Casablanca.", "The airport is used for both civilian and military operations."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Das wichtigste internationale Tor zur Zentralafrikanischen Republik, gelegen am Rande der Hauptstadt.",
       hu: "A Közép-afrikai Köztársaság legfontosabb nemzetközi kapuja, a főváros szélén található.",
       ro: "Cea mai importantă poartă internațională către Republica Centrafricană, situată la marginea capitalei.",
-      en: "The main international gateway to the Central African Republic, located on the outskirts of the capital."
+      en: "The main international gateway to the Central African Republic, located on the outskirts of the capital.",
+      es: "La principal puerta internacional a la República Centroafricana, situada a las afueras de la capital.",
+      pt: "A principal porta de entrada internacional para a República Centro-Africana, situada na periferia da capital.",
+      fr: "La principale porte d'entrée internationale de la République centrafricaine, située en bordure de la capitale.",
     },
     facts: {
       de: ["Haupthub für internationale Flüge.", "Wichtiger strategischer Punkt des Landes.", "Nach dem Stadtteil M'Poko benannt."],
       hu: ["A nemzetközi járatok fő csomópontja.", "Az ország fontos stratégiai pontja.", "M'Poko negyedről nevezték el."],
       ro: ["Principalul hub pentru zboruri internaționale.", "Punct strategic important al țării.", "Numit după cartierul M'Poko."],
-      en: ["Main hub for international flights.", "Important strategic point for the country.", "Named after the M'Poko district."]
+      en: ["Main hub for international flights.", "Important strategic point for the country.", "Named after the M'Poko district."],
+      es: ["Principal centro de vuelos internacionales.", "Punto estratégico importante del país.", "Llamado así por el distrito de M'Poko."],
+      pt: ["Principal hub para voos internacionais.", "Ponto estratégico importante do país.", "Nomeado em homenagem ao bairro de M'Poko."],
+      fr: ["Principal hub pour les vols internationaux.", "Point stratégique important du pays.", "Nommé d'après le quartier de M'Poko."],
     }, image: "/poi-images/aeroport-m-poko-landmarks-v2.webp"},
   {
     id: "palais-de-justice-bangui-landmarks-v2",
@@ -454,18 +562,27 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: ["Az épületben található a köztársaság Legfelsőbb Bírósága.", "A Place de la République (Köztársaság tér) közelében helyezkedik el.", "Az építkezés a gyarmati korszakban, a 20. században kezdődött.", "2021-ben itt tartották a Különleges Büntetőbíróság fontos meghallgatásait.", "Az építészet neoklasszicista elemeket ötvöz a helyi adottságokhoz való alkalmazkodással.", "Az Igazságügyi Palota nemzeti jelentőségű védett épület."],
       ro: ["Clădirea găzduiește Curtea Supremă de Justiție a republicii.", "Se află în apropiere de Place de la République din Bangui.", "Construcția a fost începută în perioada colonială, în secolul al XX-lea.", "În 2021, aici au avut loc audieri importante ale Curții Penale Speciale.", "Arhitectura combină elemente neoclasice cu adaptări la contextul local.", "Palatul de Justiție este o clădire protejată de importanță națională."],
       en: ["The building houses the Supreme Court of the Republic.", "It is located near the Place de la République in central Bangui.", "Construction was initiated during the colonial era in the 20th century.", "In 2021, important hearings of the Special Criminal Court were held here.", "The architecture combines neoclassical elements with local functional adaptations.", "The Palace of Justice is a protected landmark of national significance."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Der Sitz des Obersten Gerichtshofs und ein Symbol für die Rechtsstaatlichkeit im Land.",
       hu: "A Legfelsőbb Bíróság székhelye és a jogállamiság szimbóluma az országban.",
       ro: "Sediul Curții Supreme și un simbol al statului de drept în țară.",
-      en: "The seat of the Supreme Court and a symbol of the rule of law in the country."
+      en: "The seat of the Supreme Court and a symbol of the rule of law in the country.",
+      es: "La sede del Tribunal Supremo y un símbolo del estado de derecho en el país.",
+      pt: "A sede do Supremo Tribunal e um símbolo do Estado de direito no país.",
+      fr: "Le siège de la Cour suprême et un symbole de l'état de droit dans le pays.",
     },
     facts: {
       de: ["Zentrum der zentralafrikanischen Justiz.", "Befindet sich im Regierungsviertel.", "Ein wichtiges monumentales Gebäude."],
       hu: ["A közép-afrikai igazságszolgáltatás központja.", "A kormányzati negyedben található.", "Fontos monumentális épület."],
       ro: ["Centrul justiției centrafricane.", "Situat în districtul guvernamental.", "O clădire monumentală importantă."],
-      en: ["Center of Central African justice.", "Located in the government district.", "An important monumental building."]
+      en: ["Center of Central African justice.", "Located in the government district.", "An important monumental building."],
+      es: ["Centro de la justicia centroafricana.", "Se encuentra en el distrito gubernamental.", "Un edificio monumental importante."],
+      pt: ["Centro da justiça centro-africana.", "Situado no bairro governamental.", "Um edifício monumental importante."],
+      fr: ["Centre de la justice centrafricaine.", "Situé dans le quartier gouvernemental.", "Un bâtiment monumental important."],
     }, image: "/poi-images/palais-de-justice-bangui-landmarks-v2.webp"},
   {
     id: "pont-du-8-mars-landmarks-v2",
@@ -489,18 +606,27 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: ["A híd a nemzetközi nőnapról kapta a nevét.", "A városközpontot köti össze az északi külvárosi részekkel.", "A híd az M'Poko folyót vagy annak egyik mellékágát íveli át.", "Bangui informális kereskedőinek egyik központi találkozóhelye.", "A felújítási infrastruktúra-projekteket gyakran nemzetközileg finanszírozták.", "A híd kulcsszerepet játszik a főváros logisztikai hálózatában."],
       ro: ["Podul este numit în cinstea Zilei Internaționale a Femeii.", "Conectează centrul orașului cu districtele periferice din nord.", "Podul traversează râul M'Poko sau unul dintre afluenții săi.", "Este un punct central de întâlnire pentru comercianții informali din Bangui.", "Proiectele de reabilitare a infrastructurii au fost adesea finanțate internațional.", "Podul joacă un rol esențial în rețeaua logistică a capitalei."],
       en: ["The bridge is named in honor of International Women's Day.", "It connects the city center with the northern outlying districts.", "The bridge spans the M'Poko River or one of its tributaries.", "It serves as a central meeting point for informal traders in Bangui.", "Infrastructure rehabilitation projects have often been internationally funded.", "The bridge plays a key role in the logistics network of the capital city."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Eine markante Brücke in Bangui, die verschiedene Stadtteile verbindet und ein wichtiges Element der städtischen Infrastruktur ist.",
       hu: "Jellegzetes híd Banguiban, amely különböző városrészeket köt össze, és a városi infrastruktúra fontos eleme.",
       ro: "Un pod distinctiv în Bangui care conectează diverse cartiere și este un element important al infrastructurii urbane.",
-      en: "A distinctive bridge in Bangui connecting different districts and serving as an important element of urban infrastructure."
+      en: "A distinctive bridge in Bangui connecting different districts and serving as an important element of urban infrastructure.",
+      es: "Un puente prominente en Bangui que conecta diferentes distritos y es un elemento importante de la infraestructura urbana.",
+      pt: "Uma ponte proeminente em Bangui que liga diferentes distritos e é um elemento importante da infraestrutura urbana.",
+      fr: "Un pont remarquable à Bangui qui relie différents quartiers et constitue un élément important de l'infrastructure urbaine.",
     },
     facts: {
       de: ["Nach dem Internationalen Frauentag benannt.", "Überquert einen wichtigen Wasserweg.", "Bietet einen Blick auf das Flussufer."],
       hu: ["A nemzetközi nőnapról nevezték el.", "Egy fontos vízi utat ível át.", "Kilátást nyújt a folyópartra."],
       ro: ["Numit după Ziua Internațională a Femeii.", "Traversează o cale navigabilă importantă.", "Oferă o vedere spre malul râului."],
-      en: ["Named after International Women's Day.", "Crosses an important waterway.", "Provides a view of the riverbank."]
+      en: ["Named after International Women's Day.", "Crosses an important waterway.", "Provides a view of the riverbank."],
+      es: ["Nombrado en honor al Día Internacional de la Mujer.", "Cruza una importante vía fluvial.", "Ofrece vistas de la ribera del río."],
+      pt: ["Nomeado em honra do Dia Internacional da Mulher.", "Atravessa uma importante via navegável.", "Oferece uma vista da margem do rio."],
+      fr: ["Nommé d'après la Journée internationale de la femme.", "Traverse une voie d'eau importante.", "Offre une vue sur les rives du fleuve."],
     }, image: "/poi-images/pont-du-8-mars-landmarks-v2.webp"},
   {
     id: "cathedrale-bangassou-landmarks-v2",
@@ -524,18 +650,27 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: ["A székesegyházat Szent Claver Szent Péternek szentelték.", "Bangassou közvetlenül az Ubangi-folyó partján, a kongói határon fekszik.", "2017-ben a terület időnként több mint 2000 menekültet fogadott be.", "Az épület főként helyi laterit kőzetből épült.", "A Bangassoui Egyházmegyét 1964-ben alapították.", "A székesegyház a béke előmozdításában játszott szerepéről ismert."],
       ro: ["Catedrala este dedicată Sfântului Petru Claver.", "Bangassou se află direct pe malul râului Ubangi, la granița cu Congo.", "În 2017, incinta a adăpostit temporar peste 2.000 de refugiați.", "Clădirea a fost construită în principal din piatră de laterit locală.", "Dieceza de Bangassou a fost înființată în anul 1964.", "Catedrala este cunoscută pentru rolul său în promovarea păcii."],
       en: ["The cathedral is dedicated to Saint Peter Claver.", "Bangassou is located directly on the Ubangi River at the Congo border.", "In 2017, the grounds sheltered over 2,000 displaced persons at once.", "The building was constructed primarily from local laterite stone.", "The Diocese of Bangassou was officially established in 1964.", "The cathedral is renowned for its role in promoting interfaith peace."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Das religiöse Wahrzeichen von Bangassou im Südosten des Landes, bekannt für seine missionarische Geschichte.",
       hu: "Bangassou vallási jelképe az ország délkeleti részén, missziós történetéről ismert.",
       ro: "Simbolul religios al orașului Bangassou din sud-estul țării, cunoscut pentru istoria sa misionară.",
-      en: "The religious landmark of Bangassou in the southeast of the country, known for its missionary history."
+      en: "The religious landmark of Bangassou in the southeast of the country, known for its missionary history.",
+      es: "El hito religioso de Bangassou, en el sureste del país, conocido por su historia misionera.",
+      pt: "O marco religioso de Bangassou, no sudeste do país, conhecido por sua história missionária.",
+      fr: "L'emblème religieux de Bangassou, au sud-est du pays, connu pour son histoire missionnaire.",
     },
     facts: {
       de: ["Sitz des Bistums Bangassou.", "Ein wichtiges Zentrum für Bildung und Hilfe.", "Markante Architektur im ländlichen Osten."],
       hu: ["A Bangassou-i Egyházmegye székhelye.", "Az oktatás és segélyezés fontos központja.", "Jellegzetes építészet a vidéki keleten."],
       ro: ["Sediul Diecezei de Bangassou.", "Un centru important pentru educație și ajutor.", "Arhitectură distinctivă în estul rural."],
-      en: ["Seat of the Diocese of Bangassou.", "An important center for education and aid.", "Distinctive architecture in the rural east."]
+      en: ["Seat of the Diocese of Bangassou.", "An important center for education and aid.", "Distinctive architecture in the rural east."],
+      es: ["Sede de la diócesis de Bangassou.", "Un importante centro de educación y ayuda.", "Arquitectura distintiva en el este rural."],
+      pt: ["Sede da diocese de Bangassou.", "Um importante centro de educação e ajuda.", "Arquitetura distinta no leste rural."],
+      fr: ["Siège du diocèse de Bangassou.", "Un centre important pour l'éducation et l'aide.", "Architecture distinctive dans l'est rural."],
     }, image: "/poi-images/cathedrale-bangassou-landmarks-v2.webp"},
   {
     id: "cathedrale-bambari-landmarks-v2",
@@ -559,18 +694,27 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: ["A székesegyházat az orléans-i szűznek (Jeanne d'Arc) szentelték.", "A Bambari Egyházmegyét 1965. december 18-án alapították.", "Bambari az Ouaka-folyó partján fekszik.", "A székesegyház többször szolgált menedékhelyként a belső menekültek számára.", "Ez Közép-CAR egyik legnagyobb téglaépítésű épülete.", "A közösség a város egyik legfontosabb általános iskoláját tartja fenn."],
       ro: ["Catedrala este dedicată Fecioarei din Orléans (Ioana d'Arc).", "Dieceza de Bambari a fost înființată la 18 decembrie 1965.", "Bambari este situat pe malurile râului Ouaka.", "Catedrala a servit de mai multe ori ca adăpost pentru persoanele strămutate.", "Este una dintre cele mai mari clădiri din cărămidă din zona centrală a RCA.", "Parohia administrează una dintre cele mai importante școli primare din oraș."],
       en: ["The cathedral is dedicated to Saint Joan of Arc.", "The Diocese of Bambari was established on December 18, 1965.", "Bambari is situated on the banks of the Ouaka River.", "The cathedral has repeatedly served as a sanctuary for displaced persons.", "It is one of the largest masonry structures in central CAR.", "The parish maintains one of the city's most important primary schools."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Die bedeutendste Kirche in Bambari, ein monumentales Bauwerk am Ufer des Ouaka-Flusses.",
       hu: "Bambari legjelentősebb temploma, monumentális építmény az Ouaka-folyó partján.",
       ro: "Cea mai importantă biserică din Bambari, o structură monumentală pe malul râului Ouaka.",
-      en: "The most significant church in Bambari, a monumental structure on the banks of the Ouaka River."
+      en: "The most significant church in Bambari, a monumental structure on the banks of the Ouaka River.",
+      es: "La iglesia más importante de Bambari, una construcción monumental a orillas del río Ouaka.",
+      pt: "A igreja mais importante de Bambari, uma construção monumental nas margens do rio Ouaka.",
+      fr: "La plus importante église de Bambari, un édifice monumental situé sur les rives de la rivière Ouaka.",
     },
     facts: {
       de: ["Sitz des Bistums Bambari.", "Zentraler Punkt der Stadt.", "Symbol für Beständigkeit in der Region."],
       hu: ["A Bambari Egyházmegye székhelye.", "A város központi pontja.", "A régió állandóságának szimbóluma."],
       ro: ["Sediul Diecezei de Bambari.", "Punct central al orașului.", "Simbol al rezilienței în regiune."],
-      en: ["Seat of the Diocese of Bambari.", "Central point of the city.", "Symbol of resilience in the region."]
+      en: ["Seat of the Diocese of Bambari.", "Central point of the city.", "Symbol of resilience in the region."],
+      es: ["Sede de la diócesis de Bambari.", "Punto central de la ciudad.", "Símbolo de constancia en la región."],
+      pt: ["Sede da diocese de Bambari.", "Ponto central da cidade.", "Símbolo de resiliência na região."],
+      fr: ["Siège du diocèse de Bambari.", "Point central de la ville.", "Symbole de persévérance dans la région."],
     }, image: "/poi-images/cathedrale-bambari-landmarks-v2.webp"},
   {
     id: "cathedrale-berberati-landmarks-v2",
@@ -594,18 +738,27 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: ["A székesegyházat Szent Annának szentelték.", "A Berberati Egyházmegyét 1955-ben hozták létre.", "Berberati a Közép-afrikai Köztársaság harmadik legnagyobb városa.", "A templom kiváló akusztikájáról ismert.", "A berberati missziót eredetileg kapucinus szerzetesek alapították.", "Az épület sértetlenül túlélte a helyi politikai zavargások több szakaszát."],
       ro: ["Catedrala a fost dedicată Sfintei Ana.", "Dieceza de Berbérati a fost înființată în anul 1955.", "Berbérati este al treilea oraș ca mărime din Republica Centrafricană.", "Biserica este cunoscută pentru acustica sa excelentă.", "Misiunea din Berbérati a fost fondată inițial de călugări capucini.", "Clădirea a supraviețuit fără daune majore mai multor perioade de tulburări."],
       en: ["The cathedral is dedicated to Saint Anne.", "The Diocese of Berbérati was established in 1955.", "Berbérati is the third largest city in the Central African Republic.", "The church is well-known for its excellent acoustics.", "The Berbérati mission was originally founded by Capuchin friars.", "The building has survived several phases of local political unrest unscathed."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Eine große Kathedrale im Westen des Landes, die das Stadtbild von Berbérati dominiert.",
       hu: "Nagy székesegyház az ország nyugati részén, amely uralja Berbérati városképét.",
       ro: "O catedrală mare în vestul țării, care domină peisajul urban din Berbérati.",
-      en: "A large cathedral in the west of the country, dominating the cityscape of Berbérati."
+      en: "A large cathedral in the west of the country, dominating the cityscape of Berbérati.",
+      es: "Una gran catedral en el oeste del país que domina el paisaje urbano de Berbérati.",
+      pt: "Uma grande catedral no oeste do país que domina a paisagem urbana de Berbérati.",
+      fr: "Une grande cathédrale dans l'ouest du pays qui domine le paysage urbain de Berbérati.",
     },
     facts: {
       de: ["Sitz des Bistums Berbérati.", "Eines der größten religiösen Gebäude im Westen.", "Zentrum der lokalen katholischen Gemeinschaft."],
       hu: ["A Berbérati Egyházmegye székhelye.", "Nyugat egyik legnagyobb vallási épülete.", "A helyi katolikus közösség központja."],
       ro: ["Sediul Diecezei de Berbérati.", "Una dintre cele mai mari clădiri religioase din vest.", "Centrul comunității catolice locale."],
-      en: ["Seat of the Diocese of Berbérati.", "One of the largest religious buildings in the west.", "Center of the local Catholic community."]
+      en: ["Seat of the Diocese of Berbérati.", "One of the largest religious buildings in the west.", "Center of the local Catholic community."],
+      es: ["Sede de la diócesis de Berbérati.", "Uno de los edificios religiosos más grandes del oeste.", "Centro de la comunidad católica local."],
+      pt: ["Sede da diocese de Berbérati.", "Um dos maiores edifícios religiosos do oeste.", "Centro da comunidade católica local."],
+      fr: ["Siège du diocèse de Berbérati.", "L'un des plus grands édifices religieux de l'ouest.", "Centre de la communauté catholique locale."],
     }, image: "/poi-images/cathedrale-berberati-landmarks-v2.webp"},
   {
     id: "mission-bossangoa-landmarks-v2",
@@ -629,18 +782,27 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: ["A misszió a Bossangoai Egyházmegye székhelye.", "Bossangoa az Ouham-folyó partján, az ország északnyugati részén fekszik.", "A templom a 2013-as zavargások során súlyosan megsérült.", "A területen egy időben több mint 30 000 menekült tartózkodott.", "A misszió működteti a prefektúra egyik legnagyobb oktatási központját.", "Az építészet helyi téglát és hullámlemez tetőt használ."],
       ro: ["Misiunea este sediul Diecezei de Bossangoa.", "Bossangoa se află pe râul Ouham, în nord-vestul țării.", "Biserica a fost grav avariată în timpul tulburărilor din 2013.", "Incinta a găzduit la un moment dat peste 30.000 de refugiați.", "Misiunea administrează unul dintre cele mai mari centre educaționale din prefectură.", "Arhitectura utilizează cărămizi locale și acoperișuri din tablă ondulată."],
       en: ["The mission is the seat of the Diocese of Bossangoa.", "Bossangoa is located on the Ouham River in the northwest of the country.", "The church was severely damaged during the 2013 conflicts.", "The grounds once sheltered over 30,000 internally displaced persons.", "The mission operates one of the largest educational centers in the prefecture.", "The architecture utilizes local bricks and corrugated metal roofing."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Ein historisches Kirchenensemble in Bossangoa, das seit Jahrzehnten ein Zentrum für soziale Arbeit und Bildung ist.",
       hu: "Történelmi templomegyüttes Bossangoában, amely évtizedek óta a szociális munka és az oktatás központja.",
       ro: "Un ansamblu bisericesc istoric în Bossangoa, care de decenii este un centru pentru asistență socială și educație.",
-      en: "A historical church complex in Bossangoa that has been a center for social work and education for decades."
+      en: "A historical church complex in Bossangoa that has been a center for social work and education for decades.",
+      es: "Un conjunto histórico de iglesias en Bossangoa, que ha sido un centro de trabajo social y educación durante décadas.",
+      pt: "Um conjunto histórico de igrejas em Bossangoa, que tem sido um centro de trabalho social e educação por décadas.",
+      fr: "Un ensemble historique d'églises à Bossangoa, qui est un centre de travail social et d'éducation depuis des décennies.",
     },
     facts: {
       de: ["Sitz des Bistums Bossangoa.", "Beinhaltet bedeutende koloniale Architektur.", "Wichtiges lokales Wahrzeichen."],
       hu: ["A Bossangoa-i Egyházmegye székhelye.", "Jelentős gyarmati építészetet tartalmaz.", "Fontos helyi jelkép."],
       ro: ["Sediul Diecezei de Bossangoa.", "Include arhitectură colonială semnificativă.", "Simbol local important."],
-      en: ["Seat of the Diocese of Bossangoa.", "Features significant colonial architecture.", "Important local landmark."]
+      en: ["Seat of the Diocese of Bossangoa.", "Features significant colonial architecture.", "Important local landmark."],
+      es: ["Sede de la diócesis de Bossangoa.", "Incluye una importante arquitectura colonial.", "Importante hito local."],
+      pt: ["Sede da diocese de Bossangoa.", "Inclui uma importante arquitetura colonial.", "Importante marco local."],
+      fr: ["Siège du diocèse de Bossangoa.", "Comprend une architecture coloniale importante.", "Emblème local important."],
     }, image: "/poi-images/mission-bossangoa-landmarks-v2.webp"},
   {
     id: "monument-unite-sibut-landmarks-v2",
@@ -664,18 +826,27 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: ["Sibut a Kémo prefektúra székhelye.", "A város körülbelül 185 kilométerre északkeletre fekszik Banguitól.", "Az emlékmű egy fontos útkereszteződésben található.", "Sibut kulcsfontosságú város az ország központi tengelyének ellenőrzéséhez.", "Az emlékmű feliratai a békét, a munkát és a méltóságot hangsúlyozzák.", "Az emlékművet a város biztonságának helyreállítása után felújították."],
       ro: ["Sibut este reședința prefecturii Kémo.", "Orașul este situat la aproximativ 185 de kilometri nord-est de Bangui.", "Monumentul se află la un punct de intersecție rutieră major.", "Sibut este considerat un oraș cheie pentru controlul axei centrale a țării.", "Inscripțiile de pe monument subliniază pacea, munca și demnitatea.", "Monumentul a fost renovat după restabilirea securității în oraș."],
       en: ["Sibut is the capital of the Kémo Prefecture.", "The city is located approximately 185 kilometers northeast of Bangui.", "The monument is situated at a major road junction.", "Sibut is regarded as a key city for controlling the country's central axis.", "Inscriptions on the monument emphasize peace, work, and dignity.", "The landmark was renovated following the restoration of security in the city."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Ein Denkmal in der strategisch wichtigen Stadt Sibut, das den Zusammenhalt des Landes symbolisiert.",
       hu: "Emlékmű a stratégiailag fontos Sibut városában, amely az ország összetartozását szimbolizálja.",
       ro: "Un monument în orașul strategic Sibut, simbolizând coeziunea țării.",
-      en: "A monument in the strategic city of Sibut, symbolizing the country's cohesion."
+      en: "A monument in the strategic city of Sibut, symbolizing the country's cohesion.",
+      es: "Un monumento en la ciudad estratégicamente importante de Sibut que simboliza la cohesión del país.",
+      pt: "Um monumento na cidade estrategicamente importante de Sibut que simboliza a coesão do país.",
+      fr: "Un monument situé dans la ville stratégique de Sibut, symbolisant la cohésion du pays.",
     },
     facts: {
       de: ["Markiert die Kreuzung wichtiger Nationalstraßen.", "Ort für offizielle Gedenkfeiern.", "Symbol für den Frieden."],
       hu: ["Fontos országutak kereszteződését jelzi.", "Hivatalos megemlékezések helyszíne.", "A béke szimbóluma."],
       ro: ["Marchează intersecția drumurilor naționale importante.", "Loc pentru comemorări oficiale.", "Simbol al păcii."],
-      en: ["Marks the junction of important national roads.", "Site for official commemorations.", "Symbol of peace."]
+      en: ["Marks the junction of important national roads.", "Site for official commemorations.", "Symbol of peace."],
+      es: ["Marca el cruce de importantes carreteras nacionales.", "Lugar de ceremonias oficiales de conmemoración.", "Símbolo de la paz."],
+      pt: ["Marca o cruzamento de importantes estradas nacionais.", "Local de celebrações oficiais de comemoração.", "Símbolo da paz."],
+      fr: ["Marque l'intersection d'importantes routes nationales.", "Lieu de commémorations officielles.", "Symbole de paix."],
     }, image: "/poi-images/monument-unite-sibut-landmarks-v2.webp"},
   {
     id: "centre-culturel-francais-landmarks-v2",
@@ -699,18 +870,27 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: ["A központot a függetlenség után Alliance Française-ként alapították.", "Itt található Bangui legnagyobb nyilvános könyvtára.", "Rendszeresen tartanak itt jazz- és hagyományos zenei fesztiválokat.", "Az épület Wi-Fi hozzáférést biztosít a hallgatók és kutatók számára.", "Szorosan együttműködik a Banguii Egyetemmel.", "A központ a demokráciáról szóló nemzeti viták helyszíne volt."],
       ro: ["Centrul a fost fondat după independență ca Alliance Française.", "Dispune de cea mai mare bibliotecă publică din Bangui.", "Găzduiește regulat festivaluri de jazz și de muzică tradițională.", "Clădirea oferă acces Wi-Fi pentru studenți și cercetători.", "Colaborează strâns cu Universitatea din Bangui.", "Centrul a fost locul unor dezbateri naționale despre democrație."],
       en: ["The center was founded after independence as the Alliance Française.", "It features the largest public library in Bangui.", "The venue regularly hosts jazz and traditional music festivals.", "The building provides Wi-Fi access for students and researchers.", "It maintains a close partnership with the University of Bangui.", "The center has been a venue for national debates on democracy."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Ein bedeutendes Gebäude in Bangui, das als Hub für kulturellen Austausch, Kunstausstellungen und Bildung dient.",
       hu: "Jelentős épület Banguiban, amely a kulturális csere, művészeti kiállítások és oktatás központjaként szolgál.",
       ro: "O clădire importantă din Bangui, servind drept hub pentru schimburi culturale, expoziții de artă și educație.",
-      en: "A significant building in Bangui serving as a hub for cultural exchange, art exhibitions, and education."
+      en: "A significant building in Bangui serving as a hub for cultural exchange, art exhibitions, and education.",
+      es: "Un edificio importante en Bangui que sirve como centro para el intercambio cultural, exposiciones de arte y educación.",
+      pt: "Um edifício importante em Bangui que serve como centro de intercâmbio cultural, exposições de arte e educação.",
+      fr: "Un bâtiment important à Bangui qui sert de centre pour les échanges culturels, les expositions d'art et l'éducation.",
     },
     facts: {
       de: ["Beinhaltet eine große Bibliothek.", "Regelmäßige Veranstaltungen und Konzerte.", "Wichtiger Treffpunkt der Intellektuellen."],
       hu: ["Nagy könyvtárat tartalmaz.", "Rendszeres rendezvények és koncertek.", "Az értelmiségiek fontos találkozóhelye."],
       ro: ["Include o bibliotecă mare.", "Evenimente și concerte regulate.", "Punct de întâlnire important pentru intelectuali."],
-      en: ["Features a large library.", "Regular events and concerts.", "Important meeting point for intellectuals."]
+      en: ["Features a large library.", "Regular events and concerts.", "Important meeting point for intellectuals."],
+      es: ["Incluye una gran biblioteca.", "Eventos y conciertos regulares.", "Importante punto de encuentro para intelectuales."],
+      pt: ["Inclui uma grande biblioteca.", "Eventos e concertos regulares.", "Importante ponto de encontro para intelectuais."],
+      fr: ["Comprend une grande bibliothèque.", "Événements et concerts réguliers.", "Point de rencontre important pour les intellectuels."],
     }, image: "/poi-images/centre-culturel-francais-landmarks-v2.webp"},
   {
     id: "palais-de-la-cemac-landmarks-v2",
@@ -734,18 +914,27 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: ["A CEMAC (Közép-afrikai Gazdasági és Monetáris Közösség) központi székhelye.", "Hat tagállam gazdasági és pénzügyi integrációját felügyeli az intézmény.", "Az épület Bangui diplomáciai negyedében, az Oubangui folyó közelében található.", "Itt hozzák meg a CFA-frank árfolyamával kapcsolatos legfontosabb döntéseket.", "A palota rendszeresen otthont ad a regionális államfői csúcstalálkozóknak.", "Az építmény a modern közép-afrikai adminisztratív építészet egyik példája."],
       ro: ["Găzduiește sediul central al CEMAC, organizație fondată în forma actuală în 1994.", "Reprezintă interesele economice a peste 50 de milioane de cetățeni din regiune.", "Clădirea este situată strategic în Bangui, centrul politic al Republicii Centrafricane.", "Sălile de conferințe sunt utilizate pentru armonizarea tarifelor vamale regionale.", "Instituția joacă un rol crucial în gestionarea politicii comune a francului CFA.", "Complexul include birouri permanente pentru comisarii celor șase state membre."],
       en: ["Headquarters of the CEMAC, established to promote regional economic integration.", "Represents the collective interests of six nations in Central Africa.", "The facility is located in the capital city, Bangui, near the Oubangui River.", "Serves as the main venue for the annual summits of Central African heads of state.", "Focuses on the management of the regional common currency, the Central African CFA franc.", "The building features modern conference infrastructure for international diplomatic missions."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Ein modernes Verwaltungsgebäude in Bangui, das die Institutionen der Zentralafrikanischen Wirtschafts- und Währungsgemeinschaft beherbergt.",
       hu: "Modern közigazgatási épület Banguiban, amely a Közép-afrikai Gazdasági és Monetáris Közösség intézményeinek ad otthont.",
       ro: "O clădire administrativă modernă din Bangui, care găzduiește instituțiile Comunității Economice și Monetare a Africii Centrale.",
-      en: "A modern administrative building in Bangui housing the institutions of the Central African Economic and Monetary Community."
+      en: "A modern administrative building in Bangui housing the institutions of the Central African Economic and Monetary Community.",
+      es: "Un moderno edificio administrativo en Bangui que alberga las instituciones de la Comunidad Económica y Monetaria de África Central.",
+      pt: "Um moderno edifício administrativo em Bangui que abriga as instituições da Comunidade Económica e Monetária da África Central.",
+      fr: "Un bâtiment administratif moderne à Bangui abritant les institutions de la Communauté Économique et Monétaire de l'Afrique Centrale.",
     },
     facts: {
       de: ["Symbol der regionalen Integration.", "Sitz internationaler Delegationen.", "Architektonisch modernes Wahrzeichen."],
       hu: ["A regionális integráció szimbóluma.", "Nemzetközi delegációk székhelye.", "Építészetileg modern jelkép."],
       ro: ["Simbol al integrării regionale.", "Sediul delegațiilor internaționale.", "Simbol arhitectural modern."],
-      en: ["Symbol of regional integration.", "Seat of international delegations.", "Architecturally modern landmark."]
+      en: ["Symbol of regional integration.", "Seat of international delegations.", "Architecturally modern landmark."],
+      es: ["Símbolo de la integración regional.", "Sede de delegaciones internacionales.", "Punto de referencia arquitectónico moderno."],
+      pt: ["Símbolo da integração regional.", "Sede de delegações internacionais.", "Marco arquitetónico moderno."],
+      fr: ["Symbole de l'intégration régionale.", "Siège de délégations internationales.", "Repère architectural moderne."],
     }
   },
   {
@@ -770,18 +959,27 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: ["Barthélemy Boganda 1910-ben született ebben a faluban.", "Az emlékmű az ország első miniszterelnökének szülőhelyét jelöli.", "Március 29-e, Boganda halálának napja, nemzeti ünnep a Közép-afrikai Köztársaságban.", "Boganda alkotta meg az ország mottóját: Egység, Méltóság, Munka.", "Az emlékmű Lobaye prefektúrában található, Banguitól délnyugatra.", "Boganda politikai pályafutása előtt az első közép-afrikai katolikus pap volt."],
       ro: ["Barthélemy Boganda s-a născut la Bobangui în anul 1910.", "Monumentul este situat la circa 80 km de capitala Bangui, în regiunea Lobaye.", "Ziua de 29 martie este sărbătoare națională dedicată memoriei lui Boganda.", "Boganda a fost autorul imnului național 'La Renaissance' și al drapelului țării.", "Accidentul aviatic în care a murit a avut loc în apropiere de Boukpayanga.", "Memorialul din Bobangui este vizitat anual de mii de cetățeni și oficiali."],
       en: ["Barthélemy Boganda was born in Bobangui in 1910.", "The monument marks the ancestral home of the nation's most revered leader.", "March 29th is a national holiday in CAR, commemorating Boganda's death.", "Boganda founded the MESAN party, which led the country to independence.", "The site is located in the Lobaye Prefecture, known for its coffee and timber.", "Boganda was the first Central African to be elected to the French National Assembly."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Ein Denkmal im Geburtsort des Nationalhelden Barthélemy Boganda, das an sein Leben und Erbe erinnert.",
       hu: "Emlékmű a nemzeti hős, Barthélemy Boganda szülőhelyén, amely életére és örökségére emlékeztet.",
       ro: "Un monument în locul de naștere al eroului național Barthélemy Boganda, comemorând viața și moștenirea sa.",
-      en: "A monument in the birthplace of national hero Barthélemy Boganda, commemorating his life and legacy."
+      en: "A monument in the birthplace of national hero Barthélemy Boganda, commemorating his life and legacy.",
+      es: "Un monumento en el lugar de nacimiento del héroe nacional Barthélemy Boganda, que conmemora su vida y legado.",
+      pt: "Um monumento no local de nascimento do herói nacional Barthélemy Boganda, que comemora sua vida e legado.",
+      fr: "Un monument sur le lieu de naissance du héros national Barthélemy Boganda, commémorant sa vie et son héritage.",
     },
     facts: {
       de: ["Wichtiger nationaler Wallfahrtsort.", "Beinhaltet Gedenktafeln und Statuen.", "Liegt in einer malerischen Umgebung."],
       hu: ["Fontos nemzeti zarándokhely.", "Emléktáblákat és szobrokat tartalmaz.", "Gleccseres környezetben található."],
       ro: ["Loc important de pelerinaj național.", "Include plăci comemorative și statui.", "Situat într-un cadru pitoresc."],
-      en: ["Important site of national pilgrimage.", "Features commemorative plaques and statues.", "Located in a picturesque setting."]
+      en: ["Important site of national pilgrimage.", "Features commemorative plaques and statues.", "Located in a picturesque setting."],
+      es: ["Importante lugar de peregrinación nacional.", "Incluye placas conmemorativas y estatuas.", "Situado en un entorno pintoresco."],
+      pt: ["Importante local de peregrinação nacional.", "Inclui placas comemorativas e estátuas.", "Localizado em um ambiente pitoresco."],
+      fr: ["Lieu de pèlerinage national important.", "Comprend des plaques commémoratives et des statues.", "Situé dans un cadre pittoresque."],
     }, image: "/poi-images/monument-boganda-bobangui-landmarks-v2.webp"},
   {
     id: "siege-beac-bangui-landmarks-v2",
@@ -805,18 +1003,27 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: ["A BEAC-ot 1972. november 22-én alapították a korábbi jegybank utódjaként.", "A bank a közép-afrikai CFA-frank (XAF) kizárólagos kibocsátója.", "Hat ország közös jegybankjaként működik a közép-afrikai régióban.", "A bangui székház felügyeli a Közép-afrikai Köztársaság devizatartalékait.", "A valuta árfolyama fixen rögzített az euróhoz (korábban a francia frankhoz).", "Az épület Bangui egyik legmodernebb és legjobban védett kormányzati létesítménye."],
       ro: ["BEAC a fost înființată în 1972, având sediul central actual în Yaoundé, Camerun.", "Sucursala din Bangui este principala autoritate monetară a Republicii Centrafricane.", "Banca gestionează moneda comună a șase state din Africa Centrală.", "Obiectivul principal al instituției este menținerea stabilității prețurilor.", "Francul CFA este garantat de Trezoreria Franceză și ancorat de moneda Euro.", "Sediul din Bangui include facilități de înaltă securitate pentru procesarea numerarului."],
       en: ["BEAC was established on November 22, 1972, following an agreement in Brazzaville.", "It acts as the central bank for six member states of the CEMAC region.", "The Bangui office manages the national circulation of the Central African CFA franc.", "The bank's primary mandate is to define and conduct monetary policy.", "The XAF currency is pegged to the Euro at a fixed exchange rate.", "The facility serves as a hub for regional financial data and economic research."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Das markante Gebäude der Zentralbank der Zentralafrikanischen Staaten, ein wichtiges Finanzzentrum in Bangui.",
       hu: "A Közép-afrikai Államok Bankjának jellegzetes épülete, fontos pénzügyi központ Banguiban.",
       ro: "Clădirea distinctivă a Băncii Statelor Africii Centrale, un centru financiar important din Bangui.",
-      en: "The distinctive building of the Bank of Central African States, a key financial center in Bangui."
+      en: "The distinctive building of the Bank of Central African States, a key financial center in Bangui.",
+      es: "El llamativo edificio de la sede del Banco de los Estados de África Central, un importante centro financiero en Bangui.",
+      pt: "O edifício marcante da sede do Banco dos Estados da África Central, um importante centro financeiro em Bangui.",
+      fr: "Le bâtiment remarquable du siège de la Banque des États de l'Afrique Centrale, un centre financier majeur à Bangui.",
     },
     facts: {
       de: ["Verwaltet die Währung der Region.", "Ein Beispiel für moderne Bankenarchitektur.", "Streng gesichertes Hochhaus."],
       hu: ["A régió valutáját kezeli.", "Példa a modern banki építészetre.", "Szigorúan őrzött toronyház."],
       ro: ["Gestionează moneda regiunii.", "Un exemplu de arhitectură bancară modernă.", "Clădire înaltă strict securizată."],
-      en: ["Manages the region's currency.", "An example of modern banking architecture.", "Strictly secured high-rise building."]
+      en: ["Manages the region's currency.", "An example of modern banking architecture.", "Strictly secured high-rise building."],
+      es: ["Gestiona la moneda de la región.", "Un ejemplo de arquitectura bancaria moderna.", "Rascacielos estrictamente asegurado."],
+      pt: ["Gere a moeda da região.", "Um exemplo de arquitetura bancária moderna.", "Arranha-céus estritamente seguro."],
+      fr: ["Gère la monnaie de la région.", "Un exemple d'architecture bancaire moderne.", "Gratte-ciel strictement sécurisé."],
     }, image: "/poi-images/siege-beac-bangui-landmarks-v2.webp"},
   {
     id: "stade-honneur-bimbo-landmarks-v2",
@@ -840,18 +1047,27 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: ["A stadion Bimbo városában, Ombella-M'Poko prefektúra székhelyén található.", "Számos helyi labdarúgóklub használja rendszeresen hazai mérkőzéseinek helyszínéül.", "Bimbo lakossága meghaladja a 250 000 főt, így a stadion fontos közösségi csomópont.", "A nemzeti ünnepségek alkalmával gyakran tartanak itt katonai díszszemléket.", "A létesítmény atlétikai pályája alkalmas regionális diákversenyek lebonyolítására.", "A stadion környéke a város egyik legdinamikusabban fejlődő területe."],
       ro: ["Stadionul este situat în Bimbo, centrul administrativ al prefecturii Ombella-M'Poko.", "Găzduiește meciurile echipelor locale din prima ligă de fotbal centrafricană.", "Bimbo este considerat oficial al doilea oraș ca mărime al țării după Bangui.", "Arena este folosită pentru parade și ceremonii în timpul sărbătorilor naționale.", "Capacitatea stadionului este de aproximativ 5.000 de spectatori pe locuri.", "Complexul oferă spațiu pentru antrenamentele de maraton și sprint ale atleților locali."],
       en: ["The stadium is located in Bimbo, the capital of the Ombella-M'Poko Prefecture.", "It serves as a primary home ground for several regional football clubs.", "Bimbo's population of over 250,000 ensures high attendance at major events.", "The facility is a key location for Independence Day celebrations and parades.", "The stadium features a main grandstand for dignitaries and VIP guests.", "It is situated strategically along the main road connecting Bimbo to Bangui."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Ein moderner Sportkomplex in Bimbo, der als wichtiger Ort für regionale Wettbewerbe und Veranstaltungen dient.",
       hu: "Modern sportkomplexum Bimbóban, amely a regionális versenyek és rendezvények fontos helyszíne.",
       ro: "Un complex sportiv modern în Bimbo, servind drept loc important pentru competiții și evenimente regionale.",
-      en: "A modern sports complex in Bimbo, serving as an important venue for regional competitions and events."
+      en: "A modern sports complex in Bimbo, serving as an important venue for regional competitions and events.",
+      es: "Un moderno complejo deportivo en Bimbo que sirve como un lugar importante para competiciones y eventos regionales.",
+      pt: "Um complexo desportivo moderno em Bimbo que serve como um local importante para competições e eventos regionais.",
+      fr: "Un complexe sportif moderne à Bimbo qui sert de lieu important pour les compétitions et les événements régionaux.",
     },
     facts: {
       de: ["Befindet sich in der zweitgrößten Stadt.", "Zentrum für Jugend und Sport.", "Austragungsort lokaler Fußballspiele."],
       hu: ["A második legnagyobb városban található.", "Ifjúsági és sportközpont.", "Helyi futballmérkőzések helyszíne."],
       ro: ["Situat în al doilea oraș ca mărime.", "Centru pentru tineret și sport.", "Loc de desfășurare a meciurilor locale de fotbal."],
-      en: ["Located in the second-largest city.", "Center for youth and sports.", "Venue for local football matches."]
+      en: ["Located in the second-largest city.", "Center for youth and sports.", "Venue for local football matches."],
+      es: ["Se encuentra en la segunda ciudad más grande.", "Centro para la juventud y el deporte.", "Sede de partidos de fútbol locales."],
+      pt: ["Localizado na segunda maior cidade.", "Centro para a juventude e o desporto.", "Local de realização de jogos de futebol locais."],
+      fr: ["Situé dans la deuxième plus grande ville.", "Centre pour la jeunesse et le sport.", "Lieu de matchs de football locaux."],
     }, image: "/poi-images/stade-honneur-bimbo-landmarks-v2.webp"},
   {
     id: "cathedrale-kaga-bandoro-landmarks-v2",
@@ -875,18 +1091,27 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: ["A katedrális a kaga-bandorói katolikus püspökség székhelye.", "Az egyházmegyét 1997. június 28-án alapította II. János Pál pápa.", "Kaga-Bandoro városa fontos kereskedelmi útvonalak kereszteződésében fekszik.", "Válsághelyzetekben a katedrális udvara több ezer menekültet fogadott be.", "Az egyház iskolákat és képzési központokat működtet a katedrális mellett.", "A helyi kórusok központi szerepet játszanak a vallási ünnepek lebonyolításában."],
       ro: ["Catedrala găzduiește scaunul episcopal al Diecezei de Kaga-Bandoro.", "Dieceza a fost creată oficial în 1997, desprinzându-se din Arhidieceza de Bangui.", "Orașul Kaga-Bandoro este un centru vital pentru prefectura economică Gribingui.", "Biserica este dedicată Sfintei Tereza a Pruncului Iisus, patroana misiunilor.", "Instituția oferă asistență umanitară în colaborare cu organizații internaționale.", "Fațada catedralei este realizată în stil simplu, adaptat climatului tropical."],
       en: ["The cathedral serves as the episcopal seat for the Bishop of Kaga-Bandoro.", "The Diocese of Kaga-Bandoro was established by Pope John Paul II in 1997.", "Kaga-Bandoro is a strategic crossroads town in the Gribingui region.", "The cathedral grounds have often been used as a safe haven for displaced families.", "Educational programs led by the church support literacy in the surrounding villages.", "Religious services are celebrated in Sango and French, the official languages."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Die Hauptkirche der Präfektur Nana-Grébizi, ein religiöses und soziales Zentrum im Norden des Landes.",
       hu: "Nana-Grébizi prefektúra főtemploma, vallási és szociális központ az ország északi részén.",
       ro: "Biserica principală din prefectura Nana-Grébizi, un centru religios și social în nordul țării.",
-      en: "The main church of the Nana-Grébizi prefecture, a religious and social center in the north of the country."
+      en: "The main church of the Nana-Grébizi prefecture, a religious and social center in the north of the country.",
+      es: "La iglesia principal de la prefectura de Nana-Grébizi, un centro religioso y social en el norte del país.",
+      pt: "A igreja principal da prefeitura de Nana-Grébizi, um centro religioso e social no norte do país.",
+      fr: "L'église principale de la préfecture de Nana-Grébizi, un centre religieux et social au nord du pays.",
     },
     facts: {
       de: ["Sitz des Bistums Kaga-Bandoro.", "Zentraler Treffpunkt der Gemeinde.", "Bekannt für ihre schlichte, aber würdevolle Bauweise."],
       hu: ["A Kaga-Bandoro-i Egyházmegye székhelye.", "A közösség központi találkozóhelye.", "Egyszerű, de méltóságteljes építésmódjáról ismert."],
       ro: ["Sediul Diecezei de Kaga-Bandoro.", "Punct de întâlnire central pentru comunitate.", "Cunoscută pentru construcția sa simplă, dar demnă."],
-      en: ["Seat of the Diocese of Kaga-Bandoro.", "Central meeting point for the community.", "Known for its simple but dignified construction."]
+      en: ["Seat of the Diocese of Kaga-Bandoro.", "Central meeting point for the community.", "Known for its simple but dignified construction."],
+      es: ["Sede de la diócesis de Kaga-Bandoro.", "Punto de encuentro central de la comunidad.", "Conocida por su construcción sencilla pero digna."],
+      pt: ["Sede da diocese de Kaga-Bandoro.", "Ponto de encontro central da comunidade.", "Conhecida por sua construção simples, mas digna."],
+      fr: ["Siège du diocèse de Kaga-Bandoro.", "Point de rencontre central de la communauté.", "Connue pour sa construction simple mais digne."],
     }
   }
 ];

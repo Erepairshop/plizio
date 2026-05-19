@@ -24,18 +24,27 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
       hu: ["2005. szeptember 29-én avatták fel", "A szobrok egyenként 5,4 méter magasak", "Ábrázolt személyek: III. Khama, I. Sebele, I. Bathoen", "Anyaga: bronz, gránit talapzaton", "Az 1895-ös londoni diplomáciai útnak állít emléket", "Gaborone központi üzleti negyedében (CBD) található"],
       ro: ["Inaugurat la data de 29 septembrie 2005", "Statuile au o înălțime de 5,4 metri fiecare", "Lideri reprezentați: Khama III, Sebele I, Bathoen I", "Materiale: bronz amplasat pe socluri de granit", "Comemorează misiunea diplomatică la Londra din 1895", "Situat în Central Business District (CBD) din Gaborone"],
       en: ["Inaugurated on September 29, 2005", "Each statue stands 5.4 meters (18 feet) tall", "Features Chiefs Khama III, Sebele I, and Bathoen I", "Made of bronze with granite plinths", "Commemorates the 1895 diplomatic mission to London", "Located in the heart of Gaborone's CBD"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/gaborone-three-dikgosi-monument-landmarks-v2.webp",
     description: {
       de: "Das Drei-Dikgosi-Monument ist eines der bekanntesten Wahrzeichen im Zentrum von Gaborone.",
       hu: "A Three Dikgosi Monument Gaborone egyik legismertebb városi jelképe. A három főnök szobrai egyszerre emlékművek és a főváros központi tájékozódási pontjai.",
       ro: "Un punct de reper iconic în inima capitalei, onorând liderii care au asigurat viitorul Botswanei.",
-      en: "This central landmark in Gaborone features impressive bronze statues of the three tribal chiefs who secured Botswana's future."
+      en: "This central landmark in Gaborone features impressive bronze statues of the three tribal chiefs who secured Botswana's future.",
+      es: "El Monumento a los Tres Dikgosi es uno de los hitos más conocidos del centro de Gaborone.",
+      pt: "O Monumento aos Três Dikgosi é um dos marcos mais conhecidos do centro de Gaborone.",
+      fr: "Le monument des Trois Dikgosi est l'un des monuments les plus célèbres du centre de Gaborone.",
     },
     facts: {
       de: ["Drei Stammesführer", "Zentrales Stadtdenkmal", "Politische Symbolik"],
       hu: ["Gaborone központja", "Három főnök szobra", "Nemzeti emlékhely"],
       ro: ["Situat în Central Business District", "Statui din bronz masiv", "Loc popular pentru fotografii", "Simbol al independenței"],
-      en: ["Bronze statue monument", "Located in Gaborone CBD", "Honors national founding fathers", "Popular photography spot"]
+      en: ["Bronze statue monument", "Located in Gaborone CBD", "Honors national founding fathers", "Popular photography spot"],
+      es: ["Tres líderes tribales", "Monumento central de la ciudad", "Simbolismo político"],
+      pt: ["Três líderes tribais", "Monumento central da cidade", "Simbolismo político"],
+      fr: ["Trois chefs tribaux", "Monument central de la ville", "Symbolisme politique"],
     }
   },
   {
@@ -60,18 +69,27 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
       hu: ["A 16 tagállamot tömörítő SADC szervezet székhelye", "Hivatalosan 2011-ben avatták fel", "Gaborone kormányzati negyedében található", "A regionális gazdasági integráció központja", "Itt működik a SADC Titkársága", "Fontos dél-afrikai csúcstalálkozók helyszíne"],
       ro: ["Sediul organizației SADC cu 16 state membre", "Inaugurat oficial în cursul anului 2011", "Situat în districtul guvernamental din Gaborone", "Centru pentru integrarea economică regională", "Găzduiește Secretariatul permanent al SADC", "Locație majoră pentru summituri diplomatice africane"],
       en: ["Headquarters of SADC, comprising 16 member states", "Officially inaugurated in 2011", "Located within Gaborone's Government Enclave", "Hub for regional economic and political integration", "Houses the permanent SADC Secretariat", "Host venue for major Southern African summits"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Der SADC-Hauptsitz in Gaborone ist ein markantes Verwaltungsgebäude der Region.",
       hu: "A Dél-afrikai Fejlesztési Közösség (SADC) központi épülete, amely a regionális együttműködés jelképe.",
       ro: "Sediul Comunității de Dezvoltare a Africii Australe, o clădire modernă ce reflectă rolul regional al orașului.",
-      en: "The Southern African Development Community (SADC) headquarters is a modern office complex and a symbol of regional cooperation."
+      en: "The Southern African Development Community (SADC) headquarters is a modern office complex and a symbol of regional cooperation.",
+      es: "La sede de la SADC en Gaborone es un edificio administrativo distintivo de la región.",
+      pt: "A sede da SADC em Gaborone é um edifício administrativo marcante da região.",
+      fr: "Le siège de la SADC à Gaborone est un bâtiment administratif remarquable de la région.",
     },
     facts: {
       de: ["Regionalorganisation SADC", "Sitz in Gaborone", "Diplomatischer Standort"],
       hu: ["Gaborone központjában van", "Modern építészeti stílus", "Fontos politikai csúcsok helyszíne", "Több országot képviselő szervezet"],
       ro: ["Arhitectură contemporană", "Centru diplomatic major", "Situat pe Government Enclave", "Găzduiește birouri regionale"],
-      en: ["Regional political hub", "Modern architectural design", "Located in Gaborone", "Coordinates Southern African policy"]
+      en: ["Regional political hub", "Modern architectural design", "Located in Gaborone", "Coordinates Southern African policy"],
+      es: ["Organización regional SADC", "Sede en Gaborone", "Ubicación diplomática"],
+      pt: ["Organização regional SADC", "Sede em Gaborone", "Localização diplomática"],
+      fr: ["Organisation régionale SADC", "Siège à Gaborone", "Site diplomatique"],
     }
   },
   {
@@ -96,18 +114,27 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
       hu: ["Az iTower 2 Botswana legmagasabb épülete (102 méter)", "Gaborone új központi üzleti negyedében (CBD) található", "A legmagasabb pontja 30 emeletes", "Itt található az exkluzív „Table50Two” étterem", "Vegyes használatú: lakások, irodák és üzletek", "A főváros legmodernebb üvegarchitektúrája"],
       ro: ["iTower 2 este cea mai înaltă clădire din Botswana (102 m)", "Situat în noul district comercial central (CBD)", "Are 30 de etaje în secțiunea cea mai înaltă", "Găzduiește restaurantul exclusivist „Table50Two”", "Clădire cu destinație mixtă: rezidențial, birouri și retail", "Reprezintă apogeul arhitecturii moderne din capitală"],
       en: ["iTower 2 is Botswana's tallest building at 102 meters", "Located in Gaborone's New Central Business District (CBD)", "Features 30 floors in its tallest structure", "Home to the high-end \"Table50Two\" restaurant", "Mixed-use development for residences, offices, and retail", "Symbol of contemporary glass architecture in Gaborone"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/gaborone-itowers-landmarks-v2.webp",
     description: {
       de: "Die iTowers prägen die Skyline von Gaborone als modernes Hochhausensemble.",
       hu: "Az iTowers modern magasépületei a gaboronei városkép meghatározó elemei. Az épületegyüttes a főváros kortárs gazdasági arculatát jelzi.",
       ro: "Cele mai înalte clădiri din Botswana, definind linia orizontului modern a orașului Gaborone.",
-      en: "A modern high-rise complex shaping Gaborone's skyline. It combines offices, retail, and city-centre presence."
+      en: "A modern high-rise complex shaping Gaborone's skyline. It combines offices, retail, and city-centre presence.",
+      es: "Las iTowers definen el horizonte de Gaborone como un moderno conjunto de rascacielos.",
+      pt: "As iTowers definem o horizonte de Gaborone como um moderno conjunto de arranha-céus.",
+      fr: "Les iTowers marquent la ligne d'horizon de Gaborone en tant qu'ensemble de gratte-ciel modernes.",
     },
     facts: {
       de: ["Moderne Hochhäuser", "Teil des Stadtzentrums", "Geschäfts- und Bürositz"],
       hu: ["Magasépület-együttes", "Modern városkép", "Gaborone központja"],
       ro: ["Turnuri gemene impunătoare", "Utilizare mixtă: birouri și locuințe", "Design de sticlă și oțel", "Vedere panoramică asupra orașului"],
-      en: ["High-rise complex", "Gaborone skyline", "Modern business district"]
+      en: ["High-rise complex", "Gaborone skyline", "Modern business district"],
+      es: ["Rascacielos modernos", "Parte del centro de la ciudad", "Sede comercial y de oficinas"],
+      pt: ["Arranha-céus modernos", "Parte do centro da cidade", "Sede de negócios e escritórios"],
+      fr: ["Gratte-ciel modernes", "Partie du centre-ville", "Siège commercial et de bureaux"],
     }
   },
   {
@@ -132,18 +159,27 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
       hu: ["923 méter hosszú ferdekábeles híd a Zambézi felett", "2021. május 10-én nyitották meg", "Közvetlen összeköttetést biztosít Botswana és Zambia között", "Ívelt kialakítása elkerüli Zimbabwe és Namíbia területét", "Vasúti és közúti forgalmat egyaránt bonyolít", "A kockázatos kazungulai kompátkelést váltotta fel"],
       ro: ["Pod hobanat peste Zambezi cu lungimea de 923 metri", "Deschis oficial la data de 10 mai 2021", "Conectează direct Botswana de Zambia", "Design curb unic pentru a respecta granițele cvadripointului", "Include atât cale ferată, cât și șosea rutieră", "A înlocuit vechiul și riscantul feribot Kazungula"],
       en: ["923-meter long cable-stayed bridge over the Zambezi", "Opened officially on May 10, 2021", "Directly links Botswana and Zambia", "Curved design specifically avoids Zimbabwe and Namibia", "Features a railway line and a motor roadway", "Replaced the unreliable Kazungula ferry service"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/kazungula-bridge-landmarks-v2.webp",
     description: {
       de: "Die Kazungula-Brücke ist eine imposante Schrägseilbrücke, die Botswana und Sambia über den Sambesi verbindet.",
       hu: "A Kazungula híd a Zambezi fölött teremt közvetlen kapcsolatot Botswana és Zambia között. A híd a regionális közlekedés egyik legfontosabb új mérnöki létesítménye.",
       ro: "O capodoperă inginerească ce traversează fluviul Zambezi, conectând Botswana de Zambia.",
-      en: "A major bridge over the Zambezi linking Botswana and Zambia. It is a key transport landmark in southern Africa."
+      en: "A major bridge over the Zambezi linking Botswana and Zambia. It is a key transport landmark in southern Africa.",
+      es: "El puente de Kazungula es un imponente puente atirantado que conecta Botsuana y Zambia sobre el río Zambeze.",
+      pt: "A ponte de Kazungula é uma imponente ponte estaiada que liga o Botsuana e a Zâmbia sobre o rio Zambeze.",
+      fr: "Le pont de Kazungula est un imposant pont à haubans qui relie le Botswana et la Zambie sur le fleuve Zambèze.",
     },
     facts: {
       de: ["Vierländereck-Region", "Eisenbahn und Straße", "Wirtschaftliche Lebensader"],
       hu: ["Botswana és Zambia között", "2021-ben nyílt meg", "Zambezin átível"],
       ro: ["Pod curbat spectaculos", "Inaugurat în 2021", "Cale ferată și rutieră", "Înlocuiește vechiul bac"],
-      en: ["Over the Zambezi", "Botswana-Zambia link", "Regional transport"]
+      en: ["Over the Zambezi", "Botswana-Zambia link", "Regional transport"],
+      es: ["Región de las cuatro esquinas", "Ferrocarril y carretera", "Línea de vida económica"],
+      pt: ["Região das quatro esquinas", "Caminho-de-ferro e estrada", "Linha de vida económica"],
+      fr: ["Région des quatre coins", "Chemin de fer et route", "Lien économique vital"],
     }
   },
   {
@@ -168,18 +204,27 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
       hu: ["Befogadóképessége kb. 26 000 néző", "Hivatalosan 2015-ben nyitották meg", "Obed Itani Chilume sportvezetőről nevezték el", "Botswana északi részének legnagyobb stadionja", "A nemzeti válogatott északi mérkőzéseinek helyszíne", "Nemzetközi szabványú atlétikai pályával rendelkezik"],
       ro: ["Capacitate de aproximativ 26.000 de locuri", "Inaugurat oficial în cursul anului 2015", "Numit în onoarea lui Obed Itani Chilume", "Cel mai mare stadion din partea de nord a Botswanei", "Găzduiește meciurile echipei naționale în regiunea de nord", "Dotat cu pistă de atletism la standarde internaționale"],
       en: ["Seating capacity of approximately 26,000", "Officially opened to the public in 2015", "Named after Obed Itani Chilume (formerly Francistown Stadium)", "Largest sports venue in northern Botswana", "Host venue for national team matches in the north", "Equipped with an international-standard athletics track"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/francistown-obed-itani-chilume-stadium-landmarks-v2.webp",
     description: {
       de: "Das Obed Itani Chilume Stadium ist das größte Fußballstadion in Francistown.",
       hu: "Botswana egyik legnagyobb és legkorszerűbb sportlétesítménye, amely Francistown városában található.",
       ro: "Cel mai mare stadion din nordul țării, o facilitate sportivă modernă utilizată pentru evenimente majore.",
-      en: "This multi-purpose stadium in Francistown is the largest in the northern region, hosting major sports and national events."
+      en: "This multi-purpose stadium in Francistown is the largest in the northern region, hosting major sports and national events.",
+      es: "El Obed Itani Chilume Stadium es el estadio de fútbol más grande de Francistown.",
+      pt: "O Obed Itani Chilume Stadium é o maior estádio de futebol em Francistown.",
+      fr: "L'Obed Itani Chilume Stadium est le plus grand stade de football de Francistown.",
     },
     facts: {
       de: ["Sportstätte in Francistown", "Große Zuschauerkapazität", "Für Fußball und Events"],
       hu: ["26 000 férőhelyes", "A nemzeti válogatott meccseinek helyszíne", "Többfunkciós atlétikai pálya", "Az északi régió sportközpontja"],
       ro: ["Capacitate de 26.000 locuri", "Cunoscut anterior ca Stadionul Francistown", "Gazdă pentru meciuri internaționale", "Design arhitectural modern"],
-      en: ["Largest northern stadium", "Located in Francistown", "Hosts international football", "Capacity of 26,000"]
+      en: ["Largest northern stadium", "Located in Francistown", "Hosts international football", "Capacity of 26,000"],
+      es: ["Sede deportiva en Francistown", "Gran capacidad de espectadores", "Para fútbol y eventos"],
+      pt: ["Local desportivo em Francistown", "Grande capacidade de espectadores", "Para futebol e eventos"],
+      fr: ["Site sportif à Francistown", "Grande capacité de spectateurs", "Pour le football et les événements"],
     }
   },
   {
@@ -204,18 +249,27 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
       hu: ["Botswana egykamarás parlamentjének székhelye", "1966-ban, a függetlenség elnyerésekor fejezték be", "Gaborone kormányzati negyedében található", "65 parlamenti képviselőnek ad helyet", "Közvetlenül előtte áll Sir Seretse Khama szobra", "A nyilvános galériák lehetővé teszik a viták megtekintetését"],
       ro: ["Sediul parlamentului unicameral al Botswanei", "Finalizată în 1966, anul independenței țării", "Situată în complexul Government Enclave din Gaborone", "Găzduiește cei 65 de membri ai Adunării Naționale", "Statuia lui Sir Seretse Khama este amplasată în față", "Galeriile publice permit cetățenilor să asiste la dezbateri"],
       en: ["Seat of Botswana's unicameral parliament", "Completed in 1966 to coincide with independence", "Located in the Government Enclave of Gaborone", "Houses 65 Members of Parliament (MPs)", "A statue of Sir Seretse Khama stands prominently in front", "Public galleries allow visitors to observe live sessions"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/gaborone-national-assembly-landmarks-v2.webp",
     description: {
       de: "Die Nationalversammlung ist der Sitz des botswanischen Parlaments in Gaborone.",
       hu: "Botswana parlamentjének épülete, ahol az ország törvényhozása és demokratikus folyamatai zajlanak.",
       ro: "Clădirea Parlamentului Botswanei, centrul puterii legislative a uneia dintre cele mai vechi democrații din Africa.",
-      en: "The National Assembly building is the seat of Botswana's Parliament, representing the country's long-standing democratic traditions."
+      en: "The National Assembly building is the seat of Botswana's Parliament, representing the country's long-standing democratic traditions.",
+      es: "La Asamblea Nacional es la sede del parlamento de Botsuana en Gaborone.",
+      pt: "A Assembleia Nacional é a sede do parlamento do Botswana em Gaborone.",
+      fr: "L'Assemblée nationale est le siège du parlement du Botswana à Gaborone.",
     },
     facts: {
       de: ["Parlamentsgebäude", "Politisches Zentrum", "Hauptstadt Gaborone"],
       hu: ["A kormányzati negyedben fekszik", "Elegáns és méltóságteljes épület", "Látogatók számára nyitott galéria", "Botswana demokráciájának oszlopa"],
       ro: ["Situat în Government Enclave", "Arhitectură oficială sobră", "Lângă statuia lui Seretse Khama", "Deschis pentru vizite ghidate"],
-      en: ["Seat of Parliament", "Located in Gaborone", "Center of legislative power", "Features the mace symbol"]
+      en: ["Seat of Parliament", "Located in Gaborone", "Center of legislative power", "Features the mace symbol"],
+      es: ["Edificio del parlamento", "Centro político", "Capital Gaborone"],
+      pt: ["Edifício do parlamento", "Centro político", "Capital Gaborone"],
+      fr: ["Bâtiment du parlement", "Centre politique", "Capitale Gaborone"],
     }
   },
   {
@@ -240,18 +294,27 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
       hu: ["A neves SHoP Architects iroda tervezte", "Fókuszterületei: biotechnológia, energia és IT", "Modern passzív hűtőrendszerekkel van felszerelve", "Botswana „Vision 2036” stratégiájának egyik pillére", "Több mint 25 000 négyzetméternyi hasznos területet kínál", "Több mint 50 technológiai startup székhelye"],
       ro: ["Proiectat de renumita firmă SHoP Architects", "Focus pe biotehnologie, energie și tehnologia informației", "Include sisteme avansate de răcire pasivă", "Pilon central al strategiei naționale „Vision 2036”", "Oferă peste 25.000 de metri pătrați de spațiu util", "Găzduiește sediile a peste 50 de start-up-uri tech"],
       en: ["Designed by the renowned firm SHoP Architects", "Focuses on biotechnology, energy, and ICT sectors", "Incorporates state-of-the-art passive cooling systems", "Key pillar of Botswana's \"Vision 2036\" development plan", "Provides over 25,000 square meters of floor space", "Home to more than 50 technology-based startups"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/gaborone-innovation-hub-landmarks-v2.webp",
     description: {
       de: "Der Innovation Hub ist ein moderner Standort für Start-ups, Forschung und Technologie in Gaborone.",
       hu: "Egy ikonikus, futurisztikus épületkomplexum, amely a technológiai innováció és kutatás központja.",
       ro: "O clădire cu un design futurist, menită să fie centrul dezvoltării tehnologice și al cercetării.",
-      en: "The Botswana Innovation Hub is a striking modern facility designed to foster technology, science, and creative entrepreneurship."
+      en: "The Botswana Innovation Hub is a striking modern facility designed to foster technology, science, and creative entrepreneurship.",
+      es: "El Innovation Hub es una ubicación moderna para empresas emergentes, investigación y tecnología en Gaborone.",
+      pt: "O Innovation Hub é um local moderno para startups, investigação e tecnologia em Gaborone.",
+      fr: "L'Innovation Hub est un site moderne pour les start-ups, la recherche et la technologie à Gaborone.",
     },
     facts: {
       de: ["Technologiezentrum", "Gründerstandort", "Förderung von Innovation"],
       hu: ["Egyedülálló, hullámzó formavilág", "Környezetbarát hűtési technológia", "Startupok és kutatók bázisa", "Az ország jövőorientáltságát mutatja"],
       ro: ["Arhitectură organică unică", "Focus pe sustenabilitate", "Incubator pentru startup-uri", "Situat lângă aeroport"],
-      en: ["Science and technology park", "Unique modern architecture", "Located in Gaborone", "Fosters local innovation"]
+      en: ["Science and technology park", "Unique modern architecture", "Located in Gaborone", "Fosters local innovation"],
+      es: ["Centro tecnológico", "Sede para fundadores", "Fomento de la innovación"],
+      pt: ["Centro tecnológico", "Local para fundadores", "Promoção da inovação"],
+      fr: ["Centre technologique", "Site pour créateurs d'entreprises", "Promotion de l'innovation"],
     }
   },
   {
@@ -276,18 +339,27 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
       hu: ["A Gaboronei Egyházmegye székhelye", "A Main Mall közelében található", "Művészi ólomüveg ablakairól ismert", "A botswanai katolikus közösség központja", "Letisztult, modern szakrális építészet jellemzi", "Nemzeti megemlékezések fontos helyszíne"],
       ro: ["Sediul principal al Diecezei de Gaborone", "Situată în proximitatea zonei Main Mall", "Cunoscută pentru vitraliile sale artistice", "Centrul comunității catolice din Botswana", "Arhitectură sacră modernă și minimalistă", "Locație majoră pentru slujbe comemorative naționale"],
       en: ["Seat of the Roman Catholic Diocese of Gaborone", "Located in close proximity to the Main Mall", "Renowned for its artistic stained-glass windows", "Central hub for Botswana's Catholic community", "Features simple, modern sacred architecture", "Important site for national memorial services"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/gaborone-christ-the-king-cathedral-landmarks-v2.webp",
     description: {
       de: "Die Christ-the-King-Kathedrale gehört zu den bekannten religiösen Bauwerken in Gaborone.",
       hu: "A főváros legjelentősebb katolikus temploma, amely letisztult építészetével és spirituális súlyával emelkedik ki.",
       ro: "Catedrala catolică principală din Gaborone, un reper spiritual important cu un design arhitectural distinctiv.",
-      en: "This prominent Catholic cathedral is an architectural and spiritual landmark located in the heart of the capital city."
+      en: "This prominent Catholic cathedral is an architectural and spiritual landmark located in the heart of the capital city.",
+      es: "La Catedral de Cristo Rey es uno de los edificios religiosos más conocidos de Gaborone.",
+      pt: "A Catedral de Cristo Rei é um dos edifícios religiosos mais conhecidos em Gaborone.",
+      fr: "La cathédrale du Christ-Roi est l'un des édifices religieux les plus célèbres de Gaborone.",
     },
     facts: {
       de: ["Katholische Kathedrale", "Kirchliches Wahrzeichen", "im Stadtgebiet von Gaborone"],
       hu: ["A gaboronei egyházmegye központja", "Fényes üvegablakokkal díszített", "Hagyományos és modern elemek", "Közösségi események fontos helyszíne"],
       ro: ["Sediul Episcopiei de Gaborone", "Vitralii frumoase", "Situată în zona centrală", "Loc de cult liniștit"],
-      en: ["Catholic spiritual center", "Located in Gaborone", "Striking modernist architecture", "Prominent religious landmark"]
+      en: ["Catholic spiritual center", "Located in Gaborone", "Striking modernist architecture", "Prominent religious landmark"],
+      es: ["Catedral católica", "Punto de referencia eclesiástico", "En el área urbana de Gaborone"],
+      pt: ["Catedral católica", "Marco eclesiástico", "Na área urbana de Gaborone"],
+      fr: ["Cathédrale catholique", "Emblème ecclésiastique", "Dans la zone urbaine de Gaborone"],
     }
   },
   {
@@ -312,18 +384,27 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
       hu: ["Az épületet 1982-ben Quett Masire elnök avatta fel hivatalosan.", "A Khama Crescent és a Nelson Mandela Drive kereszteződésében található.", "Az ablak nélküli kialakítás a gyémántok védelmét és a belső klíma szabályozását szolgálja.", "Évente több milliárd dollár értékű gyémántot osztályoznak a falai között.", "A Diamond Trading Company Botswana (DTCB) központi épülete.", "Dél-Afrika egyik legszigorúbban őrzött civil létesítményeként tartják számon."],
       ro: ["Clădirea a fost inaugurată oficial în anul 1982 de către președintele Quett Masire.", "Este situată la intersecția strategică dintre Khama Crescent și Nelson Mandela Drive.", "Construcția fără ferestre este concepută pentru securitate maximă și control climatic.", "Anual, diamante în valoare de miliarde de dolari sunt evaluate în această locație.", "Găzduiește sediul central al Diamond Trading Company Botswana (DTCB).", "Este considerată una dintre cele mai sigure clădiri civile din Africa Australă."],
       en: ["The building was officially opened in 1982 by President Quett Masire.", "It is located at the major intersection of Khama Crescent and Nelson Mandela Drive.", "The windowless design is primarily for high-level security and climate control.", "Billions of dollars worth of diamonds are valued and sorted here every year.", "It serves as the headquarters for the Diamond Trading Company Botswana (DTCB).", "It is regarded as one of the most secure civilian buildings in Southern Africa."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/gaborone-orapa-house-landmarks-v2.webp",
     description: {
       de: "Das Orapa House in Gaborone ist ein markantes Hochhaus, in dem Diamanten sortiert und bewertet werden.",
       hu: "Botswana egyik legismertebb felhőkarcolója, ahol évtizedekig a gyémántok válogatása és értékelése folyt.",
       ro: "O clădire istorică înaltă, utilizată timp de decenii pentru sortarea și evaluarea diamantelor din Botswana.",
-      en: "Orapa House is a famous landmark in Gaborone, formerly used for the sorting and valuing of the nation's diamonds."
+      en: "Orapa House is a famous landmark in Gaborone, formerly used for the sorting and valuing of the nation's diamonds.",
+      es: "Orapa House en Gaborone es un rascacielos distintivo donde se clasifican y valoran los diamantes.",
+      pt: "O Orapa House em Gaborone é um arranha-céus marcante onde os diamantes são classificados e avaliados.",
+      fr: "Orapa House à Gaborone est un gratte-ciel remarquable où les diamants sont triés et évalués.",
     },
     facts: {
       de: ["Hochsicherheitsgebäude", "Architektonisches Wahrzeichen", "Sitz von Debswana-Abteilungen"],
       hu: ["Gaborone egyik legmagasabb épülete", "Szigorúan őrzött létesítmény", "Nevét az Orapa bányáról kapta", "Jelentős gazdasági szimbólum"],
       ro: ["Design brutalist iconic", "Ferestre orientate spre sud (lumină constantă)", "Reper în centrul orașului", "Simbol al industriei diamantelor"],
-      en: ["Historic diamond sorting hub", "Located in Gaborone", "Distinctive high-rise design", "Symbol of diamond wealth"]
+      en: ["Historic diamond sorting hub", "Located in Gaborone", "Distinctive high-rise design", "Symbol of diamond wealth"],
+      es: ["Edificio de alta seguridad", "Hito arquitectónico", "Sede de departamentos de Debswana"],
+      pt: ["Edifício de alta segurança", "Marco arquitetónico", "Sede de departamentos da Debswana"],
+      fr: ["Bâtiment de haute sécurité", "Repère architectural", "Siège de départements de Debswana"],
     }
   },
   {
@@ -348,18 +429,27 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
       hu: ["A GICC 2003-ban nyílt meg hivatalosan a Grand Palm Resort részeként.", "A fő konferenciaterem befogadóképessége eléri az 1800 főt.", "Számos SADC (Dél-afrikai Fejlesztési Közösség) csúcstalálkozó helyszíne volt.", "A központ modern szinkrontolmács fülkékkel és AV-technológiával felszerelt.", "Körülbelül 12 kilométerre található a Sir Seretse Khama nemzetközi repülőtértől.", "Többször elnyerte Botswana legjobb konferenciaközpontjának járó díjat."],
       ro: ["GICC a fost inaugurat oficial în anul 2003 ca parte a complexului Grand Palm Resort.", "Sala principală de conferințe are o capacitate de până la 1.800 de participanți.", "A găzduit numeroase summituri ale SADC (Comunitatea de Dezvoltare a Africii Australe).", "Centrul este dotat cu cabine moderne de traducere simultană și tehnologie AV.", "Se află la aproximativ 12 kilometri de Aeroportul Internațional Sir Seretse Khama.", "GICC a câștigat de mai multe ori premiul pentru cel mai bun centru de convenții din Botswana."],
       en: ["The GICC was officially opened in 2003 as part of the Grand Palm Resort.", "The main conference hall has a maximum capacity of 1,800 delegates.", "It has hosted multiple summits for the Southern African Development Community (SADC).", "The center features state-of-the-art simultaneous interpretation booths and AV systems.", "It is located approximately 12 kilometers from Sir Seretse Khama International Airport.", "The GICC has won several awards as Botswana's leading conference venue."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/gaborone-gicc-landmarks-v2.webp",
     description: {
       de: "Das Gaborone International Convention Centre (GICC) ist Botswanas führender Ort für große Konferenzen und Events.",
       hu: "Nemzetközi szintű kongresszusi központ, amely rangos üzleti konferenciáknak és kulturális gáláknak ad otthont.",
       ro: "Centrul Internațional de Convenții Gaborone, principala locație pentru conferințe și evenimente internaționale.",
-      en: "The Gaborone International Convention Centre is a premier venue for large-scale conferences, exhibitions, and international summits."
+      en: "The Gaborone International Convention Centre is a premier venue for large-scale conferences, exhibitions, and international summits.",
+      es: "El Gaborone International Convention Centre (GICC) es el principal lugar de Botsuana para grandes conferencias y eventos.",
+      pt: "O Gaborone International Convention Centre (GICC) é o principal local do Botsuana para grandes conferências e eventos.",
+      fr: "Le Gaborone International Convention Centre (GICC) est le premier lieu du Botswana pour les grandes conférences et événements.",
     },
     facts: {
       de: ["Teil des Grand Palm Resorts", "Modernste Ausstattung", "Zentrum für Diplomatie"],
       hu: ["A Grand Palm Resort része", "Modern konferenciatechnika", "Hatalmas befogadóképesség", "Nemzetközi delegációk kedvelt helye"],
       ro: ["Capacitate mare de primire", "Parte a complexului Grand Palm", "Standarde de lux", "Găzduiește summit-uri politice"],
-      en: ["Premier conference venue", "Located in Gaborone", "Hosts international summits", "State-of-the-art facilities"]
+      en: ["Premier conference venue", "Located in Gaborone", "Hosts international summits", "State-of-the-art facilities"],
+      es: ["Parte del Grand Palm Resort", "Equipamiento de última generación", "Centro para la diplomacia"],
+      pt: ["Parte do Grand Palm Resort", "Equipamento de última geração", "Centro para a diplomacia"],
+      fr: ["Fait partie du Grand Palm Resort", "Équipement de pointe", "Centre de diplomatie"],
     }
   },
   {
@@ -384,18 +474,27 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
       hu: ["Az épület 1957 körül épült, a Becsuánaföld Protektorátus idején.", "Több mint 50 éven át szolgált az ország legfelsőbb bíróságának székhelyeként.", "Lobatse városát vasúti összeköttetése miatt választották a bíróság helyszínéül.", "Itt hozták meg 1991-ben a nők egyenjogúságáról szóló nevezetes Unity Dow-ítéletet.", "A 2012-es gaboronei költözés ellenére Lobatse ma is aktív bírósági székhely.", "Az építészet az 1950-es évekbeli brit gyarmati közigazgatás tipikus jegyeit hordozza."],
       ro: ["Clădirea a fost construită în jurul anului 1957, în perioada Protectoratului Bechuanaland.", "A servit drept sediu al celei mai înalte instanțe din țară timp de peste 50 de ani.", "Lobatse a fost ales ca locație pentru curte datorită conexiunilor sale feroviare.", "Aici a fost pronunțată în 1991 sentința istorică în cazul Unity Dow privind egalitatea de gen.", "În ciuda noii clădiri din Gaborone, Lobatse rămâne un sediu activ al Înaltei Curți.", "Arhitectura prezintă elemente tipice ale administrației coloniale britanice din anii '50."],
       en: ["The building was constructed around 1957 during the Bechuanaland Protectorate era.", "It served as the primary seat of the nation's highest court for over 50 years.", "Lobatse was chosen as the court's location due to its strategic railway links.", "The landmark Unity Dow case regarding gender equality was decided here in 1991.", "Despite the 2012 move to Gaborone, Lobatse remains an active High Court seat.", "The architecture displays typical elements of 1950s British colonial administration."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Das High Court in Lobatse ist ein wichtiges Justizgebäude des Landes.",
       hu: "Történelmi jelentőségű bírósági épület Lobatséban, amely évtizedekig Botswana legfelsőbb jogi fóruma volt.",
       ro: "Sediul istoric al Curții Supreme a Botswanei, situat în orașul unde a început sistemul judiciar modern.",
-      en: "The High Court in Lobatse is a key judicial landmark, representing the historic center of Botswana's legal system."
+      en: "The High Court in Lobatse is a key judicial landmark, representing the historic center of Botswana's legal system.",
+      es: "El Tribunal Superior de Lobatse es un importante edificio judicial del país.",
+      pt: "O Tribunal Superior de Lobatse é um importante edifício judicial do país.",
+      fr: "La Haute Cour de Lobatse est un important bâtiment judiciaire du pays.",
     },
     facts: {
       de: ["Gerichtsgebäude", "Rechtssitz in Lobatse", "Verwaltungsfunktion"],
       hu: ["Gyarmati stílusú építészet", "Itt születtek a legfontosabb ítéletek", "A jogállamiság jelképe", "Ma is fontos igazságügyi funkció"],
       ro: ["Clădire de importanță juridică", "Stil arhitectural colonial", "Situat în sudul țării", "Păstrează arhive judiciare"],
-      en: ["Historic seat of judiciary", "Located in Lobatse", "Key legal institution", "Classical architectural style"]
+      en: ["Historic seat of judiciary", "Located in Lobatse", "Key legal institution", "Classical architectural style"],
+      es: ["Edificio del tribunal", "Sede legal en Lobatse", "Función administrativa"],
+      pt: ["Edifício do tribunal", "Sede jurídica em Lobatse", "Função administrativa"],
+      fr: ["Bâtiment du tribunal", "Siège juridique à Lobatse", "Fonction administrative"],
     }
   },
   {
@@ -420,18 +519,27 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
       hu: ["A múzeumot 1967-ben alapították, és 1968-ban, két évvel a függetlenség után nyílt meg.", "Gaborone belvárosában, a kormányzati negyed közelében helyezkedik el.", "A Nemzeti Művészeti Galériát csak 1975-ben adták hozzá a múzeumi komplexumhoz.", "Egyik leghíresebb kiállítása a Tsodilo-hegység sziklarajzaival foglalkozik.", "Az intézmény mozgómúzeumi programot ('Museum on Wheels') is működtet vidéki iskolák számára.", "A gyűjtemény több mint 100 000 természettudományi és kulturális tárgyat foglal magában."],
       ro: ["Muzeul a fost fondat în 1967 și deschis în 1968, la doi ani după independență.", "Este situat în centrul orașului Gaborone, aproape de zona clădirilor guvernamentale.", "Galeria Națională de Artă a fost adăugată complexului muzeal în anul 1975.", "Una dintre cele mai faimoase expoziții este dedicată picturilor rupestre din Tsodilo Hills.", "Muzeul operează un program mobil ('Muzeul pe Roți') pentru școlile din mediul rural.", "Colecția cuprinde peste 100.000 de obiecte de istorie naturală și cultură."],
       en: ["The museum was founded in 1967 and opened in 1968, two years after independence.", "It is located in downtown Gaborone, near the government enclave area.", "The National Art Gallery was added to the museum complex later in 1975.", "One of its most famous exhibits focuses on the rock art of the Tsodilo Hills.", "The institution runs a 'Museum on Wheels' program to reach schools in rural areas.", "The total collection includes over 100,000 natural history and cultural artifacts."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/gaborone-national-museum-landmarks-v2.webp",
     description: {
       de: "Das National Museum in Gaborone ist ein zentraler Ort für Kultur und Sammlungspflege.",
       hu: "A Nemzeti Múzeum épülete Gaboronéban, amely művészeti és történelmi kincseknek ad otthont.",
       ro: "Muzeul Național și Galeria de Artă, un reper cultural major care educă vizitatorii despre istoria țării.",
-      en: "The National Museum complex is a cultural landmark in Gaborone, housing the nation's most important art and historical collections."
+      en: "The National Museum complex is a cultural landmark in Gaborone, housing the nation's most important art and historical collections.",
+      es: "El Museo Nacional en Gaborone es un lugar central para la cultura y el mantenimiento de colecciones.",
+      pt: "O Museu Nacional em Gaborone é um local central para a cultura e a conservação de coleções.",
+      fr: "Le Musée national de Gaborone est un lieu central pour la culture et la conservation des collections.",
     },
     facts: {
       de: ["Kulturinstitution", "Ausstellungen zur Landesgeschichte", "in der Hauptstadt"],
       hu: ["Látványos kültéri szobrok", "Változó kortárs kiállítások", "A kulturális élet központja", "Ingyenesen látogatható közintézmény"],
       ro: ["Expoziții de artă africană", "Grădină botanică adiacentă", "Situat pe strada Main Mall", "Centru de evenimente culturale"],
-      en: ["National art repository", "Located in Gaborone", "Cultural education center", "Features outdoor botanical display"]
+      en: ["National art repository", "Located in Gaborone", "Cultural education center", "Features outdoor botanical display"],
+      es: ["Institución cultural", "Exposiciones sobre la historia del país", "En la capital"],
+      pt: ["Instituição cultural", "Exposições sobre a história do país", "Na capital"],
+      fr: ["Institution culturelle", "Expositions sur l'histoire du pays", "Dans la capitale"],
     }
   },
   {
@@ -456,18 +564,27 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
       hu: ["Az iskolát 1948-ban nyitották meg hivatalosan, alapítója Tshekedi Khama volt.", "Az épület főként a Tswapong-hegységből származó helyi homokkőből készült.", "A finanszírozást a Bamangwato közösség adói és szarvasmarha-felajánlásai biztosították.", "Ez volt az egyik első iskola Dél-Afrikában, amely érettségiig tartó képzést nyújtott.", "A főiskolai komplexum történelmi lakóépületeket is tartalmaz a tanárok számára.", "Az épületet 2014-ben vették fel a védett nemzeti műemlékek listájára."],
       ro: ["Școala a fost deschisă oficial în 1948, fiind fondată de Tshekedi Khama.", "Clădirea a fost construită în principal din gresie locală extrasă din Dealurile Tswapong.", "Finanțarea a fost asigurată prin taxe și contribuții în vite de la comunitatea Bamangwato.", "A fost una dintre primele școli din Africa Australă care oferea educație până la nivel de liceu.", "Complexul colegiului include, de asemenea, locuințe istorice pentru profesori și personal.", "Clădirea a fost inclusă pe lista monumentelor naționale protejate în anul 2014."],
       en: ["The school was officially opened in 1948 and founded by Tshekedi Khama.", "The building was primarily constructed from local sandstone from the Tswapong Hills.", "Funding was secured through taxes and cattle contributions from the Bamangwato community.", "It was one of the first schools in Southern Africa to offer matriculation-level education.", "The college complex also features historic residential buildings for staff and teachers.", "The building was added to Botswana's list of protected national monuments in 2014."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/moeng-college-historic-building-landmarks-v2.webp",
     description: {
       de: "Das historische Gebäude des Moeng College erinnert an die Bildungs- und Missionsgeschichte des Ortes.",
       hu: "Egy nagy múltú oktatási intézmény a Tswapong-hegységben, amelyet Tshekedi Khama alapított.",
       ro: "O instituție de învățământ istorică situată într-o zonă izolată, cunoscută pentru arhitectura sa deosebită.",
-      en: "Moeng College is a historic educational institution established by Tshekedi Khama in a remote and scenic valley."
+      en: "Moeng College is a historic educational institution established by Tshekedi Khama in a remote and scenic valley.",
+      es: "El edificio histórico del Moeng College recuerda la historia educativa y misionera del lugar.",
+      pt: "O edifício histórico do Moeng College recorda a história educativa e missionária do local.",
+      fr: "Le bâtiment historique du Moeng College rappelle l'histoire éducative et missionnaire du lieu.",
     },
     facts: {
       de: ["Historisches Schulgebäude", "Bildungsgeschichte", "im Osten Botswanas"],
       hu: ["Festői hegyvidéki környezet", "Botswana elitképzője volt", "Történelmi kőépületek", "Közösségi összefogással épült"],
       ro: ["Fondată de Tshekedi Khama", "Situată în dealurile Tswapong", "Construcție din piatră locală", "Moștenire educațională valoroasă"],
-      en: ["Historic secondary school", "Founded by Tshekedi Khama", "Located in Tswapong region", "Symbol of colonial-era education"]
+      en: ["Historic secondary school", "Founded by Tshekedi Khama", "Located in Tswapong region", "Symbol of colonial-era education"],
+      es: ["Edificio escolar histórico", "Historia de la educación", "En el este de Botsuana"],
+      pt: ["Edifício escolar histórico", "História da educação", "No leste do Botsuana"],
+      fr: ["Bâtiment scolaire historique", "Histoire de l'éducation", "Dans l'est du Botswana"],
     }
   },
   {
@@ -492,18 +609,27 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
       hu: ["A templomot 1891 és 1894 között építették III. Khama király idején.", "Helyi vörös homokkőből készült, neogótikus építészeti stílusban.", "A helyszínt 1902-ben hagyták el, amikor a Bamangwato törzs Serowe-ba költözött.", "A romok a botswanai keresztény misszió egyik legfontosabb műemlékének számítanak.", "A közelben találhatóak a Malaka-vízesések és vaskori régészeti lelőhelyek.", "A templom oromfalainak maradványai a mai romok legjellegzetesebb részei."],
       ro: ["Biserica a fost construită între 1891 și 1894 sub domnia regelui Khama al III-lea.", "A fost ridicată din gresie roșie locală în stil arhitectural neogotic.", "Locația a fost abandonată în 1902, când tribul Bamangwato s-a mutat la Serowe.", "Ruinele sunt considerate unul dintre cele mai importante monumente ale misiunilor creștine.", "În apropiere se află cascadele Malaka și situri arheologice din epoca fierului.", "Resturile zidurilor frontonului sunt cele mai recognoscibile părți ale ruinelor actuale."],
       en: ["The church was constructed between 1891 and 1894 under King Khama III.", "It was built using local red sandstone in the Neo-Gothic architectural style.", "The site was abandoned in 1902 when the Bamangwato people moved to Serowe.", "The ruins are considered one of the most important monuments of Christian missions.", "Nearby attractions include the Malaka Falls and Iron Age archaeological sites.", "The remaining gable walls are the most prominent features of the ruins today."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/old-palapye-church-ruins-landmarks-v2.webp",
     description: {
       de: "Die Kirchenruinen von Old Palapye sind die Überreste einer bedeutenden Siedlung aus dem späten 19. Jahrhundert.",
       hu: "A londoni missziós társaság által épített vörös téglás templom romjai a 19. század végéről.",
       ro: "Ruinele impresionante ale unei biserici misionare din secolul al XIX-lea, construite din cărămidă arsă.",
-      en: "The red-brick ruins of the London Missionary Society church are the most iconic landmark of the abandoned Old Palapye settlement."
+      en: "The red-brick ruins of the London Missionary Society church are the most iconic landmark of the abandoned Old Palapye settlement.",
+      es: "Las ruinas de la iglesia de Old Palapye son los restos de un importante asentamiento de finales del siglo XIX.",
+      pt: "As ruínas da igreja de Old Palapye são os restos de um importante povoado do final do século XIX.",
+      fr: "Les ruines de l'église d'Old Palapye sont les vestiges d'un établissement important de la fin du XIXe siècle.",
     },
     facts: {
       de: ["Historische Backsteinruinen", "Ehemalige Hauptstadt", "Kulturdenkmal"],
       hu: ["Khama III uralkodása alatt épült", "Ikonikus háromszögletű homlokzat", "A kereszténység terjedésének emléke", "Védett műemlék terület"],
       ro: ["Fostă capitală a Bangwato", "Arhitectură gotică africană", "Monument național", "Lângă satul Malaka"],
-      en: ["LMS church ruins", "Distinctive red-brick structure", "19th-century missionary history", "Located at Old Palapye"]
+      en: ["LMS church ruins", "Distinctive red-brick structure", "19th-century missionary history", "Located at Old Palapye"],
+      es: ["Ruinas históricas de ladrillo", "Antigua capital", "Monumento cultural"],
+      pt: ["Ruínas históricas de tijolo", "Antiga capital", "Monumento cultural"],
+      fr: ["Ruines historiques en briques", "Ancienne capitale", "Monument culturel"],
     }
   },
   {
@@ -528,18 +654,27 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
       hu: ["A múzeum az 1921-ben alapított egykori Bakgatla Nemzeti Iskolában található.", "Hivatalosan 1976-ban nyitották meg Phuthadikobo Múzeum néven.", "Isaac Schapera fotógyűjteménye az 1929 és 1940 közötti időszak képeit tartalmazza.", "Mochudi a Kgatleng körzet közigazgatási központja.", "A múzeum saját kézi nyomású textíliákat gyárt, amelyeket nemzetközileg is értékesítenek.", "A dombtetőn lévő elhelyezkedés panorámás kilátást nyújt Mochudi egész völgyére."],
       ro: ["Muzeul este găzduit în fosta Școală Națională Bakgatla, construită în 1921.", "A fost deschis oficial ca Muzeul Phuthadikobo în anul 1976.", "Colecția foto a lui Isaac Schapera cuprinde imagini realizate între 1929 și 1940.", "Mochudi este centrul administrativ al districtului Kgatleng.", "Muzeul produce propriile țesături imprimate manual, vândute la nivel internațional.", "Locația de pe deal oferă o vedere panoramică asupra întregii văi a localității Mochudi."],
       en: ["The museum is housed in the former Bakgatla National School built in 1921.", "It was officially opened as the Phuthadikobo Museum in 1976.", "The Isaac Schapera photo collection features images from 1929 to 1940.", "Mochudi serves as the administrative capital of the Kgatleng District.", "The museum produces its own hand-printed fabrics sold internationally.", "The hilltop location provides a panoramic view over the entire Mochudi valley."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/mochudi-phuthadikobo-museum-landmarks-v2.webp",
     description: {
       de: "Das Phuthadikobo Museum ist ein prägendes Kulturgebäude über Mochudi.",
       hu: "Mochudi falu feletti dombon álló történelmi épület, amely lenyűgöző kilátást és kulturális tárlatot kínál.",
       ro: "Muzeul Phuthadikobo, situat într-o clădire istorică pe un deal, oferind o panoramă asupra satului tradițional.",
-      en: "This museum, housed in a 1920s school building, is a landmark of Bakgatla culture overlooking the village of Mochudi."
+      en: "This museum, housed in a 1920s school building, is a landmark of Bakgatla culture overlooking the village of Mochudi.",
+      es: "El Museo Phuthadikobo es un edificio cultural emblemático situado sobre Mochudi.",
+      pt: "O Museu Phuthadikobo é um edifício cultural emblemático situado sobre Mochudi.",
+      fr: "Le musée Phuthadikobo est un bâtiment culturel emblématique dominant Mochudi.",
     },
     facts: {
       de: ["Museum auf dem Hügel", "Bakgatla-Kultur", "Landmarke in Mochudi"],
       hu: ["Eredetileg iskolának készült", "Hagyományos botswanai motívumok", "Bakgatla örökségi központ", "Egyedi fa- és kőépítészet"],
       ro: ["Fostă școală a tribului", "Focus pe cultura Bakgatla", "Ateliere de serigrafie", "Reper vizual major în Mochudi"],
-      en: ["Bakgatla cultural landmark", "Overlooks Mochudi village", "Housed in a 1921 school", "Preserves tribal heritage"]
+      en: ["Bakgatla cultural landmark", "Overlooks Mochudi village", "Housed in a 1921 school", "Preserves tribal heritage"],
+      es: ["Museo en la colina", "Cultura Bakgatla", "Punto de referencia en Mochudi"],
+      pt: ["Museu na colina", "Cultura Bakgatla", "Marco em Mochudi"],
+      fr: ["Musée sur la colline", "Culture Bakgatla", "Point de repère à Mochudi"],
     }
   },
   {
@@ -564,18 +699,27 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
       hu: ["A Masa Square Centre az új központi üzleti negyed (CBD) szívében található.", "A komplexum magában foglalja a 152 szobás Masa Square Hotelt.", "Ez volt az egyik első épület Gaboronéban, amely megvalósította a 'Live-Work-Play' koncepciót.", "Az épületet vezető dél-afrikai építészirodák tervezték.", "A központban található Botswana első 3D-s mozija.", "A Masa Square híres a tetőteraszáról, ahol medence és panorámás kilátás várja a látogatókat."],
       ro: ["Centrul Masa Square este situat în inima Noului District Central de Afaceri (CBD).", "Complexul include hotelul Masa Square, care dispune de 152 de camere.", "A fost una dintre primele clădiri din Gaborone care a implementat conceptul 'Live-Work-Play'.", "Designul a fost realizat de firme de arhitectură de top din Africa de Sud.", "Centrul găzduiește primul cinematograf 3D din Botswana.", "Masa Square este renumit pentru terasa sa de pe acoperiș cu piscină și vedere panoramică."],
       en: ["Masa Square Centre is located in the heart of Gaborone's New Central Business District (CBD).", "The complex includes the 152-room Masa Square Hotel.", "It was one of the first buildings in Gaborone to implement the 'live-work-play' concept.", "The project was designed by leading South African architectural firms.", "The center houses Botswana's first 3D cinema facility.", "Masa Square is well-known for its rooftop terrace featuring a pool and panoramic city views."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/gaborone-masa-square-landmarks-v2.webp",
     description: {
       de: "Der Masa Square ist ein modernes Lifestyle-Zentrum in Gaborones Geschäftsviertel mit Hotels und Restaurants.",
       hu: "A főváros legmodernebb üzleti negyedének (CBD) központi tere, elegáns szállodákkal és éttermekkel.",
       ro: "O piață urbană vibrantă în Central Business District, inima stilului de viață modern din Gaborone.",
-      en: "Masa Square is a vibrant lifestyle and business landmark in the Gaborone CBD, known for its modern design and upscale amenities."
+      en: "Masa Square is a vibrant lifestyle and business landmark in the Gaborone CBD, known for its modern design and upscale amenities.",
+      es: "Masa Square es un moderno centro de estilo de vida en el distrito financiero de Gaborone con hoteles y restaurantes.",
+      pt: "O Masa Square é um moderno centro de estilo de vida no distrito financeiro de Gaborone, com hotéis e restaurantes.",
+      fr: "Masa Square est un centre de style de vie moderne dans le quartier des affaires de Gaborone, comprenant des hôtels et des restaurants.",
     },
     facts: {
       de: ["Zentrum des CBD", "Moderne Architektur", "Beliebter Treffpunkt"],
       hu: ["Modern városi dizájn", "Üzleti és éjszakai élet központja", "Luxus apartmanok és irodák", "A fejlődő Botswana jelképe"],
       ro: ["Hub social și comercial", "Hoteluri de lux adiacente", "Restaurante internaționale", "Design arhitectural șic"],
-      en: ["Modern lifestyle hub", "Located in Gaborone CBD", "Features luxury hotel and cinema", "Business and social landmark"]
+      en: ["Modern lifestyle hub", "Located in Gaborone CBD", "Features luxury hotel and cinema", "Business and social landmark"],
+      es: ["Centro del CBD", "Arquitectura moderna", "Punto de encuentro popular"],
+      pt: ["Centro do CBD", "Arquitetura moderna", "Ponto de encontro popular"],
+      fr: ["Centre du CBD", "Architecture moderne", "Lieu de rencontre populaire"],
     }
   },
   {
@@ -600,18 +744,27 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
       hu: ["A templom Gaborone Maruapula negyedében található.", "A jelenlegi templomkomplexum építése az 1980-as évek végén kezdődött.", "Legjellegzetesebb eleme a Gopuram, egy monumentális kaputorony.", "A templomban olyan istenségeket tisztelnek, mint Lord Shiva és Lord Venkateswara.", "A szobrokat Indiából érkezett specializált kézművesek készítették a helyszínen.", "A fontos ünnepeken a templom minden vallású látogató előtt nyitva áll."],
       ro: ["Templul este situat în cartierul Maruapula din Gaborone.", "Construcția actualului complex a început la sfârșitul anilor 1980.", "Cea mai recognoscibilă trăsătură este Gopuram-ul, turnul monumental de la intrare.", "În templu sunt venerate zeități precum Lord Shiva și Lord Venkateswara.", "Sculpturile au fost realizate la fața locului de artizani specializați aduși din India.", "Templul este deschis vizitatorilor de toate confesiunile în timpul marilor sărbători."],
       en: ["The temple is situated in the Maruapula area of Gaborone.", "Construction of the modern temple complex began in the late 1980s.", "The most distinctive feature is the Gopuram, a monumental entrance tower.", "The temple is dedicated to deities including Lord Shiva and Lord Venkateswara.", "The intricate sculptures were created on-site by specialized craftsmen from India.", "During major festivals, the temple is open to visitors of all faiths."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Der Hindu-Tempel in Gaborone ist ein farbenfrohes und architektonisch beeindruckendes religiöses Wahrzeichen.",
       hu: "Színpompás és gazdagon díszített hindu templom, amely a főváros vallási sokszínűségét hirdeti.",
       ro: "Un templu colorat și bogat ornamentat, reflectând diversitatea culturală și religioasă a capitalei.",
-      en: "The Hindu Temple in Gaborone is a beautiful architectural landmark featuring intricate carvings and serving the local Indian community."
+      en: "The Hindu Temple in Gaborone is a beautiful architectural landmark featuring intricate carvings and serving the local Indian community.",
+      es: "El templo hindú de Gaborone es un punto de referencia religioso colorido y arquitectónicamente impresionante.",
+      pt: "O templo hindu em Gaborone é um marco religioso colorido e arquitetonicamente impressionante.",
+      fr: "Le temple hindou de Gaborone est un monument religieux coloré et impressionnant sur le plan architectural.",
     },
     facts: {
       de: ["Zentrum der indischen Gemeinde", "Prächtige Schnitzereien", "Offen für Besucher"],
       hu: ["Hagyományos indiai építészeti stílus", "Faragott istenszobrok", "Gaborone nyugati részén található", "Kulturális ünnepek helyszíne"],
       ro: ["Arhitectură indiană clasică", "Centru pentru comunitatea hindu", "Sculpturi detaliate", "Atmosferă spirituală liniștită"],
-      en: ["Cultural and religious landmark", "Located in Gaborone", "Intricate traditional carvings", "Symbol of religious diversity"]
+      en: ["Cultural and religious landmark", "Located in Gaborone", "Intricate traditional carvings", "Symbol of religious diversity"],
+      es: ["Centro de la comunidad india", "Tallas magníficas", "Abierto a visitantes"],
+      pt: ["Centro da comunidade indiana", "Esculturas magníficas", "Aberto a visitantes"],
+      fr: ["Centre de la communauté indienne", "Magnifiques sculptures", "Ouvert aux visiteurs"],
     }
   },
   {
@@ -636,18 +789,27 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
       hu: ["A múzeumot hivatalosan az 1990-es évek elején alapították.", "Francistown Government Camp negyedében található.", "A főépület korábban a város gyarmati rendőrségeként szolgált.", "Kiemelt figyelmet fordítanak a kalanga nyelvű lakosság kultúrájára.", "A múzeum szervezi a látogatók számára a 'Francistown Heritage Trail'-t.", "Jelentős hagyományos hangszergyűjteményt őriznek falai között."],
       ro: ["Muzeul a fost fondat oficial la începutul anilor 1990.", "Este situat în zona Government Camp din Francistown.", "Clădirea principală a servit în trecut ca secție de poliție colonială.", "Un accent major este pus pe cultura populației vorbitoare de Kalanga.", "Muzeul organizează traseul 'Francistown Heritage Trail' pentru turiști.", "Adăpostește o colecție importantă de instrumente muzicale tradiționale."],
       en: ["The museum was officially established in the early 1990s.", "It is located in the Government Camp area of Francistown.", "The main building previously served as the city's colonial police station.", "A key focus is placed on the culture of the Kalanga-speaking people.", "The museum organizes the 'Francistown Heritage Trail' for visitors.", "It houses a significant collection of traditional musical instruments."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/francistown-supa-ngwao-museum-landmarks-v2.webp",
     description: {
       de: "Das Supa-Ngwao-Museum ist ein wichtiges Kulturhaus im Herzen von Francistown.",
       hu: "A Supa Ngwao Múzeum Francistown kulturális örökségének ismert épülete. A múzeum a város történetét és helyi identitását jeleníti meg.",
       ro: "O instituție culturală cheie în nord, care păstrează moștenirea istorică și artistică a regiunii.",
-      en: "Supa Ngwao is a key cultural landmark in Francistown, preserving the history and traditions of northern Botswana's diverse peoples."
+      en: "Supa Ngwao is a key cultural landmark in Francistown, preserving the history and traditions of northern Botswana's diverse peoples.",
+      es: "El Museo Supa Ngwao es una importante casa cultural en el corazón de Francistown.",
+      pt: "O Museu Supa Ngwao é uma importante casa cultural no coração de Francistown.",
+      fr: "Le musée Supa Ngwao est une importante maison de la culture au cœur de Francistown.",
     },
     facts: {
       de: ["Museum in Francistown", "Regionale Kultur", "Geschichte des Nordostens"],
       hu: ["Francistown-ban", "Kulturális múzeum", "Helyi identitás"],
       ro: ["Expoziții despre viața triburilor", "Clădire istorică restaurată", "Magazin de artizanat local", "Ghidaj informativ excelent"],
-      en: ["Northern cultural hub", "Located in Francistown", "Regional history repository", "Popular tourist information stop"]
+      en: ["Northern cultural hub", "Located in Francistown", "Regional history repository", "Popular tourist information stop"],
+      es: ["Museo en Francistown", "Cultura regional", "Historia del noreste"],
+      pt: ["Museu em Francistown", "Cultura regional", "História do nordeste"],
+      fr: ["Musée à Francistown", "Culture régionale", "Histoire du nord-est"],
     }
   },
   {
@@ -672,18 +834,27 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
       hu: ["A missziót Livingstone alapította 1847-ben", "I. Sechele főnök megkeresztelése 1848-ban történt", "Az állomást a búrok rombolták le 1852-ben", "Ez az egyetlen Livingstone által épített ház az országban", "Gaboronétól való távolsága körülbelül 25 kilométer", "A helyszín hivatalos nemzeti emlékhely státuszt élvez"],
       ro: ["Misiunea a fost fondată de Livingstone în 1847", "Botezul șefului Sechele I a avut loc în 1848", "Clădirile au fost distruse de buri în anul 1852", "Singura stație misionară construită de el în Botswana", "Situl se află la 25 km vest de orașul Gaborone", "Este clasificat oficial ca Monument Național protejat"],
       en: ["Mission station established by Livingstone in 1847", "Baptism of Chief Sechele I occurred in 1848", "Buildings destroyed during Boer-Bakwena war in 1852", "Only house personally built by Livingstone in Botswana", "Located approximately 25 km west of Gaborone", "Site is protected as a National Monument of Botswana"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/kolobeng-livingstone-memorial-landmarks-v2.webp",
     description: {
       de: "Das Denkmal in Kolobeng erinnert an die Wirkungsstätte von David Livingstone und den Ursprung der modernen Bildung.",
       hu: "David Livingstone egykori missziós állomásának maradványai, ahol az első keresztény templomot alapították.",
       ro: "Un sit istoric care marchează locul primei misiuni a lui David Livingstone în Botswana.",
-      en: "The Kolobeng Mission ruins mark the site where David Livingstone lived and worked, serving as a landmark of 19th-century history."
+      en: "The Kolobeng Mission ruins mark the site where David Livingstone lived and worked, serving as a landmark of 19th-century history.",
+      es: "El monumento en Kolobeng conmemora el lugar de trabajo de David Livingstone y el origen de la educación moderna.",
+      pt: "O memorial em Kolobeng comemora o local de trabalho de David Livingstone e a origem da educação moderna.",
+      fr: "Le mémorial de Kolobeng commémore le lieu de travail de David Livingstone et l'origine de l'éducation moderne.",
     },
     facts: {
       de: ["Historische Stätte", "Erstes Missionshaus", "Bildungserbe Botswanas"],
       hu: ["Livingstone egyetlen állandó otthona", "A Metsemotlhaba-folyó mellett van", "Történelmi romok és emlékhely", "Az 1850-es években épült"],
       ro: ["Rămășițe de clădiri din 1847", "Símbol al istoriei creștine", "Peisaj natural pitoresc", "Lângă satul Kumakwane"],
-      en: ["Livingstone's mission ruins", "Located near Kumakwane", "19th-century missionary site", "Historical heritage landmark"]
+      en: ["Livingstone's mission ruins", "Located near Kumakwane", "19th-century missionary site", "Historical heritage landmark"],
+      es: ["Sitio histórico", "Primera casa de misión", "Patrimonio educativo de Botsuana"],
+      pt: ["Sítio histórico", "Primeira casa de missão", "Património educativo do Botsuana"],
+      fr: ["Site historique", "Première maison de mission", "Héritage éducatif du Botswana"],
     }
   },
   {
@@ -708,18 +879,27 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
       hu: ["A gát építése 1964-ben fejeződött be", "Teljes tározókapacitás: 141,4 millió m³", "A gátkorona hossza: 3,7 kilométer", "A gát legnagyobb magassága: 25 méter", "Gaborone és Lobatse elsődleges vízforrása", "Üzemeltető: Water Utilities Corporation"],
       ro: ["Finalizarea construcției barajului în 1964", "Capacitate de stocare: 141,4 milioane m³", "Lungimea coronamentului este de 3,7 km", "Înălțimea maximă a barajului este de 25 m", "Sursă principală de apă pentru Gaborone", "Administrat de Water Utilities Corporation"],
       en: ["Construction completed in the year 1964", "Total storage capacity: 141.4 million m³", "Crest length of the dam: 3.7 kilometers", "Maximum structural height: 25 meters", "Primary water supply for Gaborone and Lobatse", "Managed by the Water Utilities Corporation"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/gaborone-dam-landmarks-v2.webp",
     description: {
       de: "Der Gaborone-Staudamm ist die wichtigste Wasserquelle für die Hauptstadt und ein beliebtes Erholungsgebiet.",
       hu: "Botswana legnagyobb víztározója, amely nemcsak vízellátást, hanem kikapcsolódást is kínál.",
       ro: "Cel mai mare baraj din Botswana, o resursă vitală de apă și un loc popular pentru recreere.",
-      en: "The Gaborone Dam is a major infrastructure landmark and a popular recreational area for sailing and birdwatching."
+      en: "The Gaborone Dam is a major infrastructure landmark and a popular recreational area for sailing and birdwatching.",
+      es: "La presa de Gaborone es la principal fuente de agua para la capital y una popular zona de recreo.",
+      pt: "A barragem de Gaborone é a principal fonte de água para a capital e uma popular área de lazer.",
+      fr: "Le barrage de Gaborone est la principale source d'eau de la capitale et une zone de loisirs très prisée.",
     },
     facts: {
       de: ["Größter Stausee im Land", "Vogelbeobachtungsort", "Wassersportmöglichkeiten"],
       hu: ["Vitorlázás és horgászat", "Gaborone déli szélén fekszik", "Fontos madárvédelmi terület", "Látványos gátrendszer"],
       ro: ["Capacitate masivă de stocare", "Vederi panoramice superbe", "Activități de iahting și pescuit", "Sanctuar pentru păsări"],
-      en: ["Major water supply reservoir", "Located south of Gaborone", "Recreational sailing hub", "Important urban infrastructure"]
+      en: ["Major water supply reservoir", "Located south of Gaborone", "Recreational sailing hub", "Important urban infrastructure"],
+      es: ["Mayor embalse del país", "Lugar de observación de aves", "Opciones de deportes acuáticos"],
+      pt: ["Maior reservatório do país", "Local de observação de aves", "Opções de desportos aquáticos"],
+      fr: ["Plus grand réservoir du pays", "Lieu d'observation des oiseaux", "Possibilités de sports nautiques"],
     }
   },
   {
@@ -744,18 +924,27 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
       hu: ["A Botswanacraft alapítási éve: 1970", "Több mint 2000 helyi kézművessel dolgoznak", "Híres az Etsha és Gumare régió kosarairól", "Épülete jellegzetes modern afrikai stílusú", "A Letlhafula fesztivál rendszeres helyszíne", "Hagyományos és fenntartható forrásból származó áruk"],
       ro: ["Fondat în anul 1970 pentru artizanii rurali", "Colaborează cu peste 2.000 de producători locali", "Specializat în coșuri tradiționale din Etsha și Gumare", "Gazda festivalului anual de cultură Letlhafula", "Arhitectură modernă cu influențe africane", "Include o cafenea cu gastronomie tradițională"],
       en: ["Botswanacraft was established in 1970", "Supports a network of over 2,000 local artisans", "Specializes in baskets from Etsha and Gumare", "Housed in a distinct modern African building", "Host of the popular annual Letlhafula Festival", "Primary exporter of Botswana traditional crafts"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/gaborone-botswana-craft-landmarks-v2.webp",
     description: {
       de: "Botswanacraft in Gaborone ist das größte Handelszentrum für authentisches Kunsthandwerk aus dem ganzen Land.",
       hu: "A hagyományos kézművesség központja, ahol a híres botswanai kosarak és fafaragások találhatók.",
       ro: "Cel mai mare centru de artizanat din țară, oferind o selecție vastă de produse tradiționale autentice.",
-      en: "Botswana Craft is a commercial and cultural landmark in Gaborone, famous for showcasing high-quality local handicrafts and hosting music events."
+      en: "Botswana Craft is a commercial and cultural landmark in Gaborone, famous for showcasing high-quality local handicrafts and hosting music events.",
+      es: "Botswanacraft en Gaborone es el centro comercial más grande de artesanía auténtica de todo el país.",
+      pt: "O Botswanacraft em Gaborone é o maior centro comercial de artesanato autêntico de todo o país.",
+      fr: "Botswanacraft à Gaborone est le plus grand centre commercial d'artisanat authentique de tout le pays.",
     },
     facts: {
       de: ["Zentrum für Flechtkunst", "Veranstaltungsort für Konzerte", "Förderung lokaler Künstler"],
       hu: ["Népzenei koncertek helyszíne", "Hatalmas ajándékbolt és kávézó", "A helyi művészek támogatása", "Autentikus szafari-hangulat"],
       ro: ["Coșuri împletite celebre", "Evenimente de muzică live", "Restaurant cu specific local", "Promovează artiștii locali"],
-      en: ["Handicraft showcase center", "Located in Gaborone", "Hosts the Letlhafula festival", "Major promoter of local art"]
+      en: ["Handicraft showcase center", "Located in Gaborone", "Hosts the Letlhafula festival", "Major promoter of local art"],
+      es: ["Centro de arte del tejido", "Lugar para conciertos", "Promoción de artistas locales"],
+      pt: ["Centro de arte da tecelagem", "Local de concertos", "Promoção de artistas locais"],
+      fr: ["Centre de l'art du tissage", "Lieu de concerts", "Promotion des artistes locaux"],
     }
   },
   {
@@ -780,18 +969,27 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
       hu: ["A szervezetet 1995-ben alapították", "A szabványügyi törvény (Standards Act) alapján működik", "Botswana képviselője az ISO szervezetben", "Modern tesztelő- és kalibráló laborokkal rendelkezik", "Részt vesz a SADC regionális szabványosításában", "Minőségirányítási képzések központi helyszíne"],
       ro: ["Fondat în 1995 prin Legea Standardelor", "Reprezentantul Botswanei în cadrul ISO", "Găzduiește laboratoare de testare de înaltă precizie", "Promovează calitatea în industria locală", "Membru activ în organizația regională SADCSTAN", "Sediul central se află în orașul Gaborone"],
       en: ["Established in 1995 under the Standards Act", "National representative for Botswana in ISO", "Operates advanced industrial testing laboratories", "Key player in SADC regional standardization", "Provides official product and system certifications", "Headquarters is a major administrative landmark"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Das Botswana Bureau of Standards (BOBS) ist für die Qualitätssicherung und Normung im Land zuständig.",
       hu: "A minőségellenőrzésért felelős állami szerv modern székháza, az ország ipari fejlődésének egyik bástyája.",
       ro: "Sediul autorității naționale pentru standardizare, o clădire modernă și impunătoare.",
-      en: "The BOBS headquarters is a modern institutional landmark responsible for maintaining quality and safety standards in Botswana."
+      en: "The BOBS headquarters is a modern institutional landmark responsible for maintaining quality and safety standards in Botswana.",
+      es: "El Botswana Bureau of Standards (BOBS) es responsable de la garantía de calidad y la normalización en el país.",
+      pt: "O Botswana Bureau of Standards (BOBS) é responsável pela garantia de qualidade e normalização no país.",
+      fr: "Le Botswana Bureau of Standards (BOBS) est responsable de l'assurance qualité et de la normalisation dans le pays.",
     },
     facts: {
       de: ["Regulierungsbehörde", "Modernes Laborgebäude", "Sicherstellung von Exportstandards"],
       hu: ["Korszerű laboratóriumi háttér", "Letisztult üveg-acél épület", "A repülőtéri út közelében van", "Nemzetközi szabványok felügyelete"],
       ro: ["Garantează calitatea produselor", "Arhitectură instituțională", "Situat în zona industrială", "Laboratoare de testare avansate"],
-      en: ["National standards agency", "Modern office architecture", "Located in Gaborone", "Ensures industrial quality"]
+      en: ["National standards agency", "Modern office architecture", "Located in Gaborone", "Ensures industrial quality"],
+      es: ["Autoridad reguladora", "Edificio de laboratorios moderno", "Aseguramiento de estándares de exportación"],
+      pt: ["Autoridade reguladora", "Edifício de laboratórios moderno", "Garantia de padrões de exportação"],
+      fr: ["Autorité de régulation", "Bâtiment de laboratoire moderne", "Garantie des normes d'exportation"],
     }
   },
   {
@@ -816,18 +1014,27 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
       hu: ["Sir Seretse Khama (1921–1980) nyughelye", "A Thataganyane-domb tetején helyezkedik el", "A Bangwato törzs totemállata, a duiker őrzi", "Itt nyugszik Lady Ruth Khama is", "A Khama-dinasztia generációinak temetője", "Serowe hagyományos településének központi pontja"],
       ro: ["Mormântul lui Sir Seretse Khama (1921–1980)", "Amplasat pe dealul sacru Thataganyane", "Statue a antilopei duiker (Phuti) ca simbol totem", "Locul de odihnă al familiei regale Bangwato", "Oferă vedere panoramică asupra satului Serowe", "Mormântul lui Tshekedi Khama se află aici"],
       en: ["Burial site of Sir Seretse Khama, 1st President", "Located on the historical Thataganyane Hill", "Marked by a statue of the Duiker (Phuti) totem", "Resting place of the Bangwato royal family", "Overlooks Serowe, a major traditional Tswana village", "Grave of Lady Ruth Khama is located here"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/serowe-royal-cemetery-landmarks-v2.webp",
     description: {
       de: "Der königliche Friedhof in Serowe ist ein bedeutender Ort der Khama-Familie.",
       hu: "A Khama-uralkodók nyughelye Serowe felett, amely építészeti és történelmi emlékhely is egyben.",
       ro: "Locul de odihnă al legendarilor lideri Bangwato, oferind o perspectivă istorică unică.",
-      en: "Overlooking the village from a hill, the Royal Cemetery is a sacred landmark where generations of Bangwato royalty are laid to rest."
+      en: "Overlooking the village from a hill, the Royal Cemetery is a sacred landmark where generations of Bangwato royalty are laid to rest.",
+      es: "El cementerio real de Serowe es un lugar importante para la familia Khama.",
+      pt: "O cemitério real de Serowe é um local importante para a família Khama.",
+      fr: "Le cimetière royal de Serowe est un site important de la famille Khama.",
     },
     facts: {
       de: ["Royaler Friedhof", "Serowe als Traditionsort", "Bangwato-Geschichte"],
       hu: ["A híres Khama-bronzszobor", "A kgotla melletti dombon áll", "Szent és tisztelt terület", "Panorámás kilátás a falura"],
       ro: ["Amplasare pe un deal stâncos", "Mormintele familiei Khama", "Atmosferă plină de respect", "Lângă biserica istorică"],
-      en: ["Sacred burial site", "Located on a hill in Serowe", "Royal Bangwato graves", "Historical and cultural landmark"]
+      en: ["Sacred burial site", "Located on a hill in Serowe", "Royal Bangwato graves", "Historical and cultural landmark"],
+      es: ["Cementerio real", "Serowe como lugar de tradición", "Historia de Bangwato"],
+      pt: ["Cemitério real", "Serowe como local de tradição", "História de Bangwato"],
+      fr: ["Cimetière royal", "Serowe comme lieu de tradition", "Histoire des Bangwato"],
     }
   },
   {
@@ -852,18 +1059,27 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
       hu: ["Az épület 1939-ben épült katonai bázisnak", "Ngamiland régió legfontosabb közgyűjteménye", "Szan (busman) néprajzi tárgyak gyűjteménye", "Az Okavango-delta élővilágának bemutatása", "Helyi művészeti galéria és kézműves bolt", "Maun városának egyik legöregebb épülete"],
       ro: ["Clădirea datează din anul 1939", "Fost post militar colonial britanic", "Colecție de artă tradițională a poporului San", "Exponate despre istoria naturală a Deltei Okavango", "Centru cultural pentru artiștii din regiune", "Situat în inima orașului Maun"],
       en: ["Original building constructed in 1939", "Former British colonial military post", "Focuses on Ngamiland and Okavango history", "Features traditional San (Bushman) artifacts", "Hosts regular cultural workshops and events", "Main cultural institution in the town of Maun"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/maun-nhabe-museum-landmarks-v2.webp",
     description: {
       de: "Das Nhaba Museum ist ein zentrales kulturelles Wahrzeichen in Maun, dem Tor zum Okavango-Delta.",
       hu: "Az északi régió legfontosabb múzeumi épülete, amely az Okavango-delta kultúráját mutatja be.",
       ro: "Un reper cultural în 'capitala turismului', axat pe tradițiile popoarelor din delta Okavango.",
-      en: "The Nhabe Museum is a prominent landmark in Maun, serving as a cultural gateway to the Okavango Delta region."
+      en: "The Nhabe Museum is a prominent landmark in Maun, serving as a cultural gateway to the Okavango Delta region.",
+      es: "El Museo Nhabe es un punto de referencia cultural central en Maun, la puerta de entrada al delta del Okavango.",
+      pt: "O Museu Nhabe é um marco cultural central em Maun, a porta de entrada para o delta do Okavango.",
+      fr: "Le musée Nhabe est un point de repère culturel central à Maun, la porte d'entrée du delta de l'Okavango.",
     },
     facts: {
       de: ["Regionales Kulturzentrum", "Ausstellungen zur Natur", "Treffpunkt für Künstler"],
       hu: ["Hagyományos vályog és kő elemek", "Kulturális és művészeti központ", "Maun szívében található", "Oktatási programok helyszíne"],
       ro: ["Clădire colonială veche", "Expoziții de artă locală", "Sursă de informații turistice", "Promovează conservarea naturii"],
-      en: ["Ngamiland cultural landmark", "Located in Maun", "Housed in historic colonial building", "Promotes local artists"]
+      en: ["Ngamiland cultural landmark", "Located in Maun", "Housed in historic colonial building", "Promotes local artists"],
+      es: ["Centro cultural regional", "Exposiciones sobre la naturaleza", "Punto de encuentro de artistas"],
+      pt: ["Centro cultural regional", "Exposições sobre a natureza", "Ponto de encontro de artistas"],
+      fr: ["Centre culturel régional", "Expositions sur la nature", "Lieu de rencontre pour les artistes"],
     }
   },
   {
@@ -888,18 +1104,27 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
       hu: ["Az 1970-es évek elején nyílt meg", "A Sun International csoport tagja", "Összesen 196 szobával rendelkezik", "2015-ben teljes felújításon esett át", "Itt található a város egyik fő kaszinója", "Nemzetközi csúcstalálkozók kedvelt helyszíne"],
       ro: ["Inaugurat la începutul anilor 1970", "Membru al grupului Sun International", "Dispune de o capacitate de 196 de camere", "Proces de rebranding în Avani în 2015", "Include un cazino de renume internațional", "Centru major pentru conferințe diplomatice"],
       en: ["Opened in the early 1970s as Gaborone Sun", "Operated by the Sun International group", "Features 196 high-end guest rooms", "Underwent major renovations in the year 2015", "Includes a popular casino and conference center", "Primary venue for diplomatic and business events"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/gaborone-sun-international-landmarks-v2.webp",
     description: {
       de: "Das Avani Gaborone Hotel (ehemals Gaborone Sun) ist ein traditionsreiches Hotel und Unterhaltungszentrum.",
       hu: "Botswana egyik legrégebbi és legikonikusabb luxusszállodája, amely a főváros társasági életének központja.",
       ro: "Unul dintre cele mai vechi și cunoscute hoteluri de lux din capitală, un reper în industria ospitalității.",
-      en: "Now known as Avani Gaborone, this hotel and casino is a long-standing hospitality landmark in the capital city."
+      en: "Now known as Avani Gaborone, this hotel and casino is a long-standing hospitality landmark in the capital city.",
+      es: "El Avani Gaborone Hotel (anteriormente Gaborone Sun) es un hotel con mucha tradición y centro de entretenimiento.",
+      pt: "O Avani Gaborone Hotel (anteriormente Gaborone Sun) é um hotel tradicional e centro de entretenimento.",
+      fr: "L'Avani Gaborone Hotel (anciennement Gaborone Sun) est un hôtel de tradition et un centre de divertissement.",
     },
     facts: {
       de: ["Eines der ältesten Luxushotels", "Kasino und Konferenzräume", "Zentrale Lage"],
       hu: ["Ma Avani Gaborone néven ismert", "Nemzetközi kaszinó üzemel benne", "Kormányzati negyed közelében", "Elegáns medencés kert"],
       ro: ["Cunoscut acum ca Avani Gaborone", "Centru pentru evenimente sociale", " Facilități de cazinou și sport", "Grădini tropicale luxuriante"],
-      en: ["Iconic Gaborone hotel", "First major international hotel", "Central social landmark", "Features casino and pool"]
+      en: ["Iconic Gaborone hotel", "First major international hotel", "Central social landmark", "Features casino and pool"],
+      es: ["Uno de los hoteles de lujo más antiguos", "Casino y salas de conferencias", "Ubicación céntrica"],
+      pt: ["Um dos hotéis de luxo mais antigos", "Casino e salas de conferências", "Localização central"],
+      fr: ["L'un des plus anciens hôtels de luxe", "Casino et salles de conférence", "Emplacement central"],
     }
   },
   {
@@ -924,18 +1149,27 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
       hu: ["Megnyitása 1966. szeptember 26-án volt", "Kent hercegnéjéről, Marina hercegnőről nevezték el", "Több mint 500 betegággyal rendelkezik", "Az ország legfőbb beutaló kórháza", "Az egyetemi orvosképzés központi helyszíne", "Speciális dialízis- és onkológiai központot működtet"],
       ro: ["Inaugurat oficial la 26 septembrie 1966", "Numit după Prințesa Marina, Ducesă de Kent", "Capacitate de peste 500 de paturi", "Principalul spital de referință din țară", "Afiliat Facultății de Medicină a Universității Botswana", "Include unități specializate de traumatologie"],
       en: ["Opened on September 26, 1966", "Named after the Duchess of Kent", "Capacity of more than 500 hospital beds", "Botswana's primary national referral hospital", "Main teaching hospital for medical students", "Underwent major modernization in recent decades"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/gaborone-princess-marina-hospital-landmarks-v2.webp",
     description: {
       de: "Das Princess Marina Hospital ist das größte öffentliche Krankenhaus und ein medizinisches Wahrzeichen der Hauptstadt.",
       hu: "Az ország központi kórháza, amely nevét Marina kenti hercegnőről kapta a függetlenség idején.",
       ro: "Principalul spital de referință din țară, numit în onoarea Prințesei Marina, Ducesă de Kent.",
-      en: "Princess Marina is Botswana's premier referral hospital and a vital healthcare landmark in the capital city."
+      en: "Princess Marina is Botswana's premier referral hospital and a vital healthcare landmark in the capital city.",
+      es: "El Princess Marina Hospital es el hospital público más grande y un referente médico de la capital.",
+      pt: "O Princess Marina Hospital é o maior hospital público e um marco médico da capital.",
+      fr: "L'hôpital Princess Marina est le plus grand hôpital public et un monument médical de la capitale.",
     },
     facts: {
       de: ["Zentrales Referenzkrankenhaus", "Gegründet zur Unabhängigkeit", "Wichtigste medizinische Einrichtung"],
       hu: ["Botswana legfontosabb egészségügyi intézménye", "1966-ban nyitották meg", "Gaborone belvárosában fekszik", "Kutatási és oktatási bázis"],
       ro: ["Cea mai mare unitate medicală", "Símbol al sistemului public de sănătate", "Centru de formare medicală", "Înființat la independență"],
-      en: ["National referral hospital", "Located in Gaborone", "Largest medical facility", "Established in the 1960s"]
+      en: ["National referral hospital", "Located in Gaborone", "Largest medical facility", "Established in the 1960s"],
+      es: ["Hospital central de referencia", "Fundado en la independencia", "Institución médica más importante"],
+      pt: ["Hospital de referência central", "Fundado na independência", "Instituição médica mais importante"],
+      fr: ["Hôpital de référence central", "Fondé à l'indépendance", "Principale institution médicale"],
     }
   },
   {
@@ -960,18 +1194,27 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
       hu: ["A Botswanai Egyetemet 1982-ben alapították", "A 'Motho le motho kgomo' kampány finanszírozta", "Itt található a rektori hivatal és az adminisztráció", "A campus 137 hektáros területének központja", "A nemzeti összefogás és oktatás jelképe", "Az egyetemi ceremóniák kiindulópontja"],
       ro: ["Universitatea a fost înființată în anul 1982", "Construită prin donații publice (campania One Million Pula)", "Găzduiește birourile rectoratului și secretariatului", "Punct de referință în campusul din Gaborone", "Simbol al excelenței academice naționale", "Stil arhitectural modern și reprezentativ"],
       en: ["University of Botswana established in 1982", "Funded by the 'One Million Pula' public appeal", "Houses the Vice-Chancellor's executive offices", "Central hub of the main Gaborone campus", "Symbol of national self-reliance in education", "Focal point for university official ceremonies"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/gaborone-university-admin-block-landmarks-v2.webp",
     description: {
       de: "Der Verwaltungsbau der University of Botswana gehört zu den bekannten akademischen Gebäuden der Stadt.",
       hu: "A University of Botswana adminisztratív épülete az egyetem központi irányítási tere. Az intézményi kampusz egyik legfontosabb épülete Gaboronéban.",
       ro: "Clădirea administrativă principală a Universității din Botswana, cu o arhitectură distinctivă.",
-      en: "The University of Botswana Administration Block is a central architectural landmark on the main campus in Gaborone."
+      en: "The University of Botswana Administration Block is a central architectural landmark on the main campus in Gaborone.",
+      es: "El bloque administrativo de la Universidad de Botsuana es uno de los edificios académicos más conocidos de la ciudad.",
+      pt: "O bloco administrativo da Universidade do Botsuana é um dos edifícios académicos mais conhecidos da cidade.",
+      fr: "Le bloc administratif de l'Université du Botswana est l'un des bâtiments académiques les plus connus de la ville.",
     },
     facts: {
       de: ["Universitätscampus", "Verwaltungsgebäude", "akademische Landmarke"],
       hu: ["Egyetemi adminisztráció", "Gaborone campus", "Felsőoktatási központ"],
       ro: ["Inima campusului UB", "Design recunoscut oficial", "Simbol al educației superioare", "Punct central de orientare"],
-      en: ["Academic nerve center", "Main UB campus landmark", "Modern educational architecture", "Symbol of higher learning"]
+      en: ["Academic nerve center", "Main UB campus landmark", "Modern educational architecture", "Symbol of higher learning"],
+      es: ["Campus universitario", "Edificio administrativo", "Punto de referencia académico"],
+      pt: ["Campus universitário", "Edifício administrativo", "Marco académico"],
+      fr: ["Campus universitaire", "Bâtiment administratif", "Repère académique"],
     }
   },
   {
@@ -996,18 +1239,27 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
       hu: ["A bank alapítása 1975. július 1-jén történt", "A Pula valutát 1976-ban vezették be", "Itt kezelik az ország gyémántbevételeit", "Gaborone kormányzati negyedében található", "Felelős a nemzeti inflációs célok eléréséért", "A pénzügyi függetlenség legfőbb szimbóluma"],
       ro: ["Banca a fost înființată la 1 iulie 1975", "Moneda națională Pula a fost emisă în 1976", "Gestionează rezervele de stat din diamante", "Sediul este situat în Enclava Guvernamentală", "Emite și reglementează masa monetară a țării", "Arhitectură modernă ce reflectă stabilitatea"],
       en: ["Bank established on July 1, 1975", "Pula currency introduced in the year 1976", "Manages the nation's vast diamond revenues", "Located in the high-security Government Enclave", "Regulates all commercial banks in Botswana", "Key institution for national economic planning"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/bank-of-botswana-landmarks-v2.webp",
     description: {
       de: "Das Gebäude der Bank of Botswana ist der Sitz der Zentralbank und ein Symbol für finanzielle Stabilität.",
       hu: "Botswana központi bankjának szigorúan őrzött épülete, az ország pénzügyi stabilitásának jelképe.",
       ro: "Sediul băncii centrale a țării, o clădire securizată ce reprezintă stabilitatea financiară.",
-      en: "The Bank of Botswana building is a financial landmark, housing the central bank responsible for the nation's monetary policy."
+      en: "The Bank of Botswana building is a financial landmark, housing the central bank responsible for the nation's monetary policy.",
+      es: "El edificio del Bank of Botswana es la sede del banco central y un símbolo de estabilidad financiera.",
+      pt: "O edifício do Bank of Botswana é a sede do banco central e um símbolo de estabilidade financeira.",
+      fr: "Le bâtiment de la Bank of Botswana est le siège de la banque centrale et un symbole de stabilité financière.",
     },
     facts: {
       de: ["Verwaltung der Pula-Währung", "Markante Architektur", "Zentrum der Geldpolitik"],
       hu: ["A Pula nemzeti valuta felügyelője", "Modern, biztonságos komplexum", "A kormányzati negyedben található", "Aranytartalékok és monetáris politika"],
       ro: ["Situat în Government Enclave", "Design arhitectural modern", "Emite moneda națională (Pula)", "Reper în districtul financiar"],
-      en: ["Central Bank headquarters", "Located in Gaborone", "Symbol of financial stability", "Secure institutional landmark"]
+      en: ["Central Bank headquarters", "Located in Gaborone", "Symbol of financial stability", "Secure institutional landmark"],
+      es: ["Gestión de la moneda Pula", "Arquitectura distintiva", "Centro de la política monetaria"],
+      pt: ["Gestão da moeda Pula", "Arquitetura marcante", "Centro da política monetária"],
+      fr: ["Gestion de la monnaie Pula", "Architecture distinctive", "Centre de la politique monétaire"],
     }
   },
   {
@@ -1032,18 +1284,27 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
       hu: ["A vasútállomást hivatalosan 1897-ben nyitották meg.", "Része volt a Cecil Rhodes által tervezett Fokváros-Kairó vasútvonalnak.", "Az állomás közvetlen összeköttetést biztosít a zimbabwei Bulawayo városával.", "Francistown a vasút megérkezése előtt az első dél-afrikai aranyláz központja volt.", "Az állomás épülete a város egyik legrégebbi fennmaradt építménye.", "A Botswana Railways itt kezeli az északkeleti régió legjelentősebb teherforgalmát."],
       ro: ["Gara a fost deschisă oficial în anul 1897.", "A făcut parte din proiectul feroviar Cape to Cairo planificat de Cecil Rhodes.", "Linia ferată conectează direct Francistown cu orașul Bulawayo din Zimbabwe.", "Francistown a fost centrul primei goane după aur din Africa de Sud înainte de calea ferată.", "Clădirea gării este una dintre cele mai vechi structuri conservate din oraș.", "Botswana Railways operează aici un hub major pentru transportul de pasageri și marfă."],
       en: ["The railway station was officially opened in 1897.", "It was part of the Cape to Cairo Railway project initiated by Cecil Rhodes.", "The station provides a direct rail link to Bulawayo in neighboring Zimbabwe.", "Francistown was the site of Southern Africa's first gold rush before the railway arrived.", "The station building is one of the oldest surviving structures in the city.", "Botswana Railways utilizes this station as a primary hub for northern freight logistics."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Der Bahnhof von Francistown ist ein historischer Knotenpunkt an der Eisenbahnlinie nach Simbabwe.",
       hu: "Történelmi vasútállomás, amely évtizedekig a legfontosabb kapu volt észak felé.",
       ro: "O gară istorică ce a servit ca punct vital pe ruta feroviară de la Cape Town la Cairo.",
-      en: "The Francistown Railway Station is a historic transport landmark, a key stop on the rail line connecting Southern and Central Africa."
+      en: "The Francistown Railway Station is a historic transport landmark, a key stop on the rail line connecting Southern and Central Africa.",
+      es: "La estación de tren de Francistown es un centro histórico en la línea ferroviaria hacia Zimbabue.",
+      pt: "A estação ferroviária de Francistown é um nó histórico na linha ferroviária para o Zimbábue.",
+      fr: "La gare de Francistown est un nœud historique sur la ligne de chemin de fer vers le Zimbabwe.",
     },
     facts: {
       de: ["Wichtiges Verkehrsdrehkreuz", "Koloniales Erbe", "Zentrum des Güterverkehrs"],
       hu: ["A fokváros-kairói vonal része volt", "Klasszikus vasúti építészet", "Jelentős áruszállítási csomópont", "Francistown alapításának oka"],
       ro: ["Arhitectură feroviară veche", "Punct de legătură internațională", "Importanță logistică istorică", "Recent modernizată"],
-      en: ["Historic rail hub", "Located in Francistown", "Connects Gaborone to Bulawayo", "Essential transport landmark"]
+      en: ["Historic rail hub", "Located in Francistown", "Connects Gaborone to Bulawayo", "Essential transport landmark"],
+      es: ["Importante centro de transporte", "Herencia colonial", "Centro de transporte de mercancías"],
+      pt: ["Importante centro de transportes", "Herança colonial", "Centro do transporte de mercadorias"],
+      fr: ["Important carrefour de transport", "Héritage colonial", "Centre du transport de marchandises"],
     }
   },
   {
@@ -1068,18 +1329,27 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
       hu: ["A szobrot 1986-ban avatták fel, a függetlenség 20. évfordulója alkalmából.", "Gaboronéban, a Nemzetgyűlés épületének bejáratával szemben áll.", "Sir Seretse Khama 1966 és 1980 között volt Botswana első elnöke.", "Az emlékmű bronzból készült, és Khamát hivatali öltözékben ábrázolja.", "Khamát 1966-ban II. Erzsébet királynő ütötte lovaggá.", "A szobor központi szerepet kap a minden év szeptember 30-án rendezett Botswana-napi ünnepségeken."],
       ro: ["Statuia a fost dezvelită în 1986 pentru a marca 20 de ani de independență.", "Se află direct în fața intrării Adunării Naționale din Gaborone.", "Sir Seretse Khama a fost primul președinte al Botswanei între 1966 și 1980.", "Monumentul este realizat din bronz și îl înfățișează pe Khama în ținută oficială.", "El a fost înnobilat de Regina Elisabeta a II-a în anul 1966.", "Statuia este un punct focal în timpul celebrărilor anuale de Ziua Botswanei pe 30 septembrie."],
       en: ["The statue was unveiled in 1986 to commemorate the 20th anniversary of independence.", "It is located directly opposite the entrance to the National Assembly in Gaborone.", "Sir Seretse Khama served as Botswana's first President from 1966 to 1980.", "The monument is cast in bronze and depicts Khama in formal attire.", "He was knighted by Queen Elizabeth II in 1966.", "The statue serves as a primary site for official ceremonies during Botswana Day on September 30th."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Die Statue von Seretse Khama erinnert an den ersten Präsidenten Botswanas.",
       hu: "Botswana alapító atyjának és első elnökének monumentális bronzszobra a parlamenttel szemben.",
       ro: "Statuia primului președinte al Botswanei, situată în fața Parlamentului, privind spre națiune.",
-      en: "This statue in the heart of Gaborone honors Sir Seretse Khama, the founding president of independent Botswana."
+      en: "This statue in the heart of Gaborone honors Sir Seretse Khama, the founding president of independent Botswana.",
+      es: "La estatua de Seretse Khama conmemora al primer presidente de Botsuana.",
+      pt: "A estátua de Seretse Khama homenageia o primeiro presidente do Botsuana.",
+      fr: "La statue de Seretse Khama commémore le premier président du Botswana.",
     },
     facts: {
       de: ["Erster Präsident", "Politisches Denkmal", "Botswanas Staatsgeschichte"],
       hu: ["Sir Seretse Khamát ábrázolja", "A nemzeti egység szimbóluma", "Ünnepélyes állami rendezvények helyszíne", "A kormányzati negyed központja"],
       ro: ["Onorează tatăl națiunii", "Simbol al unității și păcii", "Loc pentru ceremonii oficiale", "Bronz fin detaliat"],
-      en: ["Honors founding president", "Located near Parliament", "Bronze historical statue", "National symbol of independence"]
+      en: ["Honors founding president", "Located near Parliament", "Bronze historical statue", "National symbol of independence"],
+      es: ["Primer presidente", "Monumento político", "Historia del estado de Botsuana"],
+      pt: ["Primeiro presidente", "Monumento político", "História do estado do Botsuana"],
+      fr: ["Premier président", "Monument politique", "Histoire de l'État du Botswana"],
     }, image: "/poi-images/seretse-khama-statue-landmarks-v2.webp"},
 ];
 

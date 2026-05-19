@@ -117,12 +117,18 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "Az Emi Koussi egy hatalmas alvó tűzhányó a Tibesti-hegységben, amely 3415 méteres tengerszint feletti magasságával Csád és az egész Szahara legmagasabb hegye. Ez a piroklasztikus pajzsvulkán körülbelül 60-szor 80 kilométeres területet foglal el, és masszív sziluettjével meghatározza az ország északi részének sivatagi tájképét. Csúcsán két nagy kaldera található, amelyek közül a nagyobbik átmérője majdnem 15 kilométer. Feltűnő geológiai jellemzője a „Trou au Natron”, egy mély kráter fehér nátronsó-kéreggel, amely éles ellentétben áll a sötét vulkáni kőzettel. Történelmileg a hegyet először Wilfred Thesiger mászta meg 1938-ban, de a helyi toubou nomádok számára évezredek óta szent hely. A hegyen uralkodó extrém körülmények, az éjszaka fagypont alá süllyedő hőmérséklettel, komoly logisztikai kihívást jelentenek az expedíciók számára. A növényzet gyér, és az ellenálló magashegyi növényekre korlátozódik, amelyek a kaldera védett repedéseiben maradnak fenn. Geológiai szempontból az Emi Koussi egy vulkáni központlánc része, amelyet az afrikai lemez alatti forró pont (hotspot) hozott létre. Ma a hegy a középső Szahara érintetlen és vad természetének szimbóluma.",
       ro: "Emi Koussi este un vulcan adormit masiv din Munții Tibesti și, cu o înălțime de 3.415 metri deasupra nivelului mării, este cel mai înalt munte din Ciad și din întreaga Sahară. Acest vulcan scut piroclastic ocupă o suprafață de aproximativ 60 pe 80 de kilometri și marchează prin silueta sa masivă peisajul de deșert din nordul țării. Pe vârful său se află două caldere mari, cea mai mare având un diametru de aproape 15 kilometri. O trăsătură geologică distinctivă este „Trou au Natron”, un crater adânc cu cruste albe de sare de natron, care contrastează cu roca vulcanică întunecată. Din punct de vedere istoric, muntele a fost escaladat prima dată în 1938 de Wilfred Thesiger, dar pentru nomazii Toubou locali este un loc sacru de milenii. Condițiile extreme de pe munte, cu temperaturi care pot scădea mult sub punctul de îngheț noaptea, fac din expediții o provocare logistică. Vegetația este rară și limitată la plante rezistente de munte înalt care supraviețuiesc în crăpăturile protejate ale calderei. Din punct de vedere geologic, Emi Koussi face parte dintr-un lanț de centre vulcanice create de un punct fierbinte de sub placa africană. Astăzi, muntele este un simbol al naturii neatinse și sălbatice din Sahara centrală.",
       en: "Emi Koussi is a massive dormant volcano in the Tibesti Mountains and, at 3,415 meters above sea level, is the highest mountain in Chad and the entire Sahara. This pyroclastic shield volcano occupies an area of approximately 60 by 80 kilometers, defining the desert landscape in the north of the country with its massive silhouette. Two large calderas are located on its summit, the larger one having a diameter of nearly 15 kilometers. A striking geological feature is the 'Trou au Natron,' a deep crater with white natron salt crusts contrasting with the dark volcanic rock. Historically, the mountain was first climbed in 1938 by Wilfred Thesiger, but for local Toubou nomads, it has been a sacred site for millennia. Extreme conditions on the mountain, with temperatures dropping far below freezing at night, make expeditions a logistical challenge. Vegetation is sparse and restricted to resilient high-mountain plants surviving in protected crevices of the caldera. Geologically, Emi Koussi is part of a chain of volcanic centers created by a hotspot beneath the African plate. Today, the mountain is a symbol of the pristine and wild nature of the central Sahara.",
+      es: "El Emi Koussi es la cumbre más alta del Sahara y un majestuoso monumento de actividad volcánica en las montañas de Tibesti. Los llamativos flujos de lava y los enormes cráteres del volcán extinguido dan testimonio de la inmensa energía geológica que una vez dio forma a esta región. En medio del desierto de piedra, la cumbre representa un desafío para las expediciones y un lugar importante para la investigación geológica. La belleza árida y la monumental altura de 3.415 metros convierten al Emi Koussi en uno de los destinos más impresionantes de toda la región del Sahara.",
+      pt: "O Emi Koussi é o pico mais alto do Sahara e um monumento majestoso da atividade vulcânica nas montanhas Tibesti. As correntes de lava marcantes e as crateras enormes do vulcão extinto testemunham a enorme energia geológica que outrora moldou esta região. No meio do deserto de pedra, o pico é um desafio para expedições e um local importante para a investigação geológica. A beleza árida e a altura monumental de 3.415 metros fazem do Emi Koussi um dos destinos mais impressionantes de toda a região do Sahara.",
+      fr: "L'Emi Koussi est le plus haut sommet du Sahara et un monument majestueux de l'activité volcanique dans les montagnes du Tibesti. Les coulées de lave marquées et les cratères géants de ce volcan éteint témoignent de la formidable énergie géologique qui a autrefois façonné cette région. Au milieu du désert de pierre, le sommet représente un défi pour les expéditions et un site important pour la recherche géologique. La beauté austère et l'altitude monumentale de 3 415 mètres font de l'Emi Koussi l'une des destinations les plus impressionnantes de toute la région saharienne.",
     },
     factsAdvanced: {
       de: ["Emi Koussi ist der höchste Punkt im gesamten Sahara-Wüstengürtel.", "Die Caldera am Gipfel ist etwa 12 mal 15 Kilometer breit.", "Das 'Trou au Natron' Kraterbecken liegt auf der Südseite des Vulkans.", "Die erste dokumentierte Besteigung erfolgte im September 1938.", "Auf dem Berg wurden Spuren prähistorischer Jäger und Sammler gefunden.", "Die Temperaturen am Gipfel können im Winter auf bis zu -15 Grad sinken."],
       hu: ["Az Emi Koussi az egész Szahara sivatagi övezetének legmagasabb pontja.", "A csúcson található kaldera körülbelül 12-szer 15 kilométer széles.", "A „Trou au Natron” krátermedence a vulkán déli oldalán található.", "Az első dokumentált megmászás 1938 szeptemberében történt.", "A hegyen prehisztorikus vadászó-gyűjtögető közösségek nyomait találták meg.", "A csúcson a hőmérséklet télen akár -15 fokig is süllyedhet."],
       ro: ["Emi Koussi este cel mai înalt punct din întreaga centură a deșertului Sahara.", "Caldera de la vârf are o lățime de aproximativ 12 pe 15 kilometri.", "Bazinul craterului „Trou au Natron” se află pe partea sudică a vulcanului.", "Prima escaladare documentată a avut loc în septembrie 1938.", "Pe munte au fost găsite urme ale vânătorilor și culegătorilor preistorici.", "Temperaturile la vârf pot scădea până la -15 grade în timpul iernii."],
       en: ["Emi Koussi is the highest point in the entire Saharan desert belt.", "The caldera at the summit is approximately 12 by 15 kilometers wide.", "The 'Trou au Natron' crater basin is located on the southern side of the volcano.", "The first documented ascent took place in September 1938.", "Traces of prehistoric hunter-gatherers have been found on the mountain.", "Temperatures at the summit can drop to as low as -15 degrees in winter."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     
@@ -130,13 +136,19 @@ export const poiExtraChadNatureV2: POI[] = [
       de: "Ein erloschener Vulkan und der höchste Gipfel der Sahara.",
       hu: "Egy kialudt tűzhányó és a Szahara legmagasabb csúcsa.",
       ro: "Un vulcan stins și cel mai înalt vârf din Sahara.",
-      en: "An extinct volcano and the highest peak in the Sahara Desert."
+      en: "An extinct volcano and the highest peak in the Sahara Desert.",
+      es: "Un volcán extinguido y la cumbre más alta del Sahara.",
+      pt: "Um vulcão extinto e o pico mais alto do Sahara.",
+      fr: "Un volcan éteint et le plus haut sommet du Sahara.",
     },
     facts: {
       de: ["3.415 Meter hoch.", "Liegt im Tibesti-Gebirge.", "Besitzt zwei große Krater.", "Beeindruckende Lavafelder."],
       hu: ["3415 méter magas.", "A Tibeszti-hegységben található.", "Két hatalmas krátere van.", "Lenyűgöző lávamezők."],
       ro: ["3.415 metri înălțime.", "Situat în Munții Tibesti.", "Are două cratere mari.", "Câmpuri de lavă impresionante."],
-      en: ["3,415 meters high.", "Located in the Tibesti Mountains.", "Has two large craters.", "Stunning lava fields."]
+      en: ["3,415 meters high.", "Located in the Tibesti Mountains.", "Has two large craters.", "Stunning lava fields."],
+      es: ["3.415 metros de altura.", "Situado en las montañas de Tibesti.", "Posee dos grandes cráteres.", "Impresionantes campos de lava."],
+      pt: ["3.415 metros de altitude.", "Localizado nas montanhas Tibesti.", "Possui duas grandes crateras.", "Campos de lava impressionantes."],
+      fr: ["Altitude de 3 415 mètres.", "Situé dans le massif du Tibesti.", "Possède deux grands cratères.", "Champs de lave impressionnants."],
     }, image: "/poi-images/emi-koussi-nature-v2.webp"},
   {
     id: "tibesti-mountains-nature-v2",
@@ -154,12 +166,18 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "A Tibesti-hegység egy látványos magashegyi régió Csád északi részén, amelyet vulkáni erők formáltak, és a világ egyik legszélsőségesebb tájainak ad otthont. A masszívum csaknem 100 000 négyzetkilométeres területen fekszik, és túlnyomórészt sötét lávakőzetből, mély szurdokokból és feltűnő vulkáni kúpokból áll. A régió a toubou nomád nép hazája, akik generációk óta alkalmazkodtak az ellenséges környezethez. Geológiailag a hegység tektonikus kiemelkedések és vulkáni tevékenység révén jött létre, amelynek legmagasabb pontja az Emi Koussi. Történelmileg a Tibesti megközelíthetetlensége miatt gyakran szolgált az ellenállási mozgalmak menedékhelyeként, és sokáig nagyrészt feltáratlan maradt. Az elrejtett völgyekben prehisztorikus sziklarajzok találhatók, amelyek bizonyítják, hogy a Szahara egykor lényegesen zöldebb szavanna volt. Az éghajlati viszonyokat óriási hőmérséklet-különbségek és ritka, de heves esőzések jellemzik, amelyek rövid életű folyókat hoznak létre a vádikban. A flóra olyan ritka fajokat foglal magában, mint a szaharai olajfa, amely a védett magaslatokon marad fenn. Ma a Tibesti a különleges expedíciók célpontja, amelyek a sivatag magányát és monumentális csendjét keresik.",
       ro: "Munții Tibesti sunt o regiune montană spectaculoasă din nordul Ciadului, formată de forțe vulcanice și care găzduiește unele dintre cele mai extreme peisaje din lume. Masivul se întinde pe o suprafață de aproape 100.000 de kilometri pătrați și constă în principal din rocă de lavă întunecată, canioane adânci și conuri vulcanice proeminente. Regiunea este casa Toubou, un popor nomad care s-a adaptat de generații la mediul ostil. Din punct de vedere geologic, munții au luat naștere prin ridicări tectonice și activitate vulcanică, atingând cel mai înalt punct în Emi Koussi. Din punct de vedere istoric, Tibesti a fost adesea un refugiu pentru mișcările de rezistență datorită inaccesibilității sale și a rămas în mare parte neexplorat pentru o lungă perioadă de timp. În văile ascunse se găsesc picturi rupestre preistorice care dovedesc că Sahara a fost cândva o savană mult mai verde. Condițiile climatice sunt marcate de diferențe enorme de temperatură și de ploi rare, dar violente, care creează râuri efemere în ueduri. Flora include specii rare precum măslinul saharien, care supraviețuiește în zonele înalte protejate. Astăzi, Tibesti este o destinație pentru expediții specializate care caută singurătatea și liniștea monumentală a deșertului.",
       en: "The Tibesti Mountains are a spectacular high-mountain region in northern Chad, shaped by volcanic forces and housing some of the world's most extreme landscapes. The massif covers an area of nearly 100,000 square kilometers and consists predominantly of dark lava rock, deep gorges, and prominent volcanic cones. The region is home to the Toubou, a nomadic people who have adapted to the hostile environment over generations. Geologically, the mountains were formed by tectonic uplifts and volcanic activity, reaching their highest point at Emi Koussi. Historically, the Tibesti was often a refuge for resistance movements due to its inaccessibility and remained largely unexplored for a long time. Prehistoric rock paintings found in hidden valleys prove that the Sahara was once a significantly greener savanna. Climatic conditions are marked by massive temperature differences and rare but violent rainfalls that create short-lived rivers in the wadis. The flora includes rare species such as the Saharan olive tree, which survives in protected high altitudes. Today, the Tibesti is a destination for specialized expeditions seeking the solitude and monumental silence of the desert.",
+      es: "Las montañas de Tibesti son una región montañosa áspera y volcánica en el norte de Chad que domina el Sahara. La región es el hogar de los nómadas Toubou, que se han adaptado perfectamente al clima severo y al entorno árido. Por todas partes se encuentran testimonios de épocas pasadas, como pinturas rupestres prehistóricas que indican un pasado más verde del desierto. Tibesti es un lugar de extremos donde la geología y la cultura se encuentran de una manera única, dibujando una imagen inolvidable del desierto del norte. Geografía K9 — Ecosistemas montañosos.",
+      pt: "As montanhas Tibesti são um planalto áspero e vulcânico no norte do Chade que domina o Saara. A região é o lar dos nómadas Toubou, que se adaptaram perfeitamente ao clima severo e ao ambiente árido. Por todo o lado encontram-se testemunhos de épocas passadas, como pinturas rupestres pré-históricas que indicam um passado mais verde do deserto. O Tibesti é um lugar de extremos, onde a geologia e a cultura se encontram de uma forma única e traçam uma imagem inesquecível do deserto do norte. Geografia K9 — Ecossistemas montanhosos.",
+      fr: "Le massif du Tibesti est un haut plateau volcanique et sauvage situé au nord du Tchad, dominant le Sahara. La région abrite les nomades Toubou, qui se sont parfaitement adaptés au climat rude et à l'environnement aride. On y trouve partout des témoignages d'époques révolues, comme des peintures rupestres préhistoriques qui attestent d'un passé plus verdoyant du désert. Le Tibesti est une terre d'extrêmes où la géologie et la culture se rencontrent de façon unique, offrant une image inoubliable du désert septentrional. Géographie K9 — Écosystèmes montagneux.",
     },
     factsAdvanced: {
       de: ["Das Tibesti-Gebirge erstreckt sich auch in den südlichen Libyen hinein.", "Es gibt dort Thermalquellen wie die Soborom, die bis zu 100 Grad heiß sind.", "Im Gebirge leben seltene Wüsten-Dickhornschafe (Mähnenspringer).", "Das Massiv besteht aus fünf großen Schildvulkanen.", "Einige Felsmalereien im Tibesti werden auf 8.000 Jahre vor heute geschätzt.", "Der höchste Gipfel, Emi Koussi, überragt die umgebende Wüste um über 2000 Meter."],
       hu: ["A Tibesti-hegység Líbia déli részére is átnyúlik.", "Találhatók itt termálforrások, mint például a Soborom, amely akár 100 fokos is lehet.", "A hegységben ritka sörényes juhok (ammotragus) élnek.", "A masszívum öt nagy pajzsvulkánból áll.", "Néhány tibesti sziklarajz korát 8000 évesre becsülik.", "A legmagasabb csúcs, az Emi Koussi, több mint 2000 méterrel magasodik a környező sivatag fölé."],
       ro: ["Munții Tibesti se întind și în sudul Libiei.", "Există acolo izvoare termale precum Soborom, care pot atinge 100 de grade.", "În munți trăiesc oi cu coamă rare (Ammotragus lervia).", "Masivul constă din cinci mari vulcani scut.", "Unele picturi rupestre din Tibesti sunt estimate la o vechime de 8.000 de ani.", "Cel mai înalt vârf, Emi Koussi, se ridică cu peste 2000 de metri deasupra deșertului înconjurător."],
       en: ["The Tibesti Mountains also extend into southern Libya.", "There are thermal springs such as Soborom, which reach temperatures of up to 100 degrees.", "Rare Barbary sheep (Aoudad) live in the mountains.", "The massif consists of five large shield volcanoes.", "Some rock paintings in the Tibesti are estimated to be 8,000 years old.", "The highest peak, Emi Koussi, rises more than 2,000 meters above the surrounding desert."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     
@@ -167,13 +185,19 @@ export const poiExtraChadNatureV2: POI[] = [
       de: "Ein gewaltiges Gebirgsmassiv vulkanischen Ursprungs im Norden des Tschad.",
       hu: "Hatalmas vulkáni eredetű hegység Csád északi részén.",
       ro: "Un masiv muntos vast de origine vulcanică în nordul Ciadului.",
-      en: "A massive mountain range of volcanic origin in northern Chad."
+      en: "A massive mountain range of volcanic origin in northern Chad.",
+      es: "Un enorme macizo montañoso de origen volcánico en el norte de Chad.",
+      pt: "Um enorme maciço montanhoso de origem vulcânica no norte do Chade.",
+      fr: "Un immense massif montagneux d'origine volcanique au nord du Tchad.",
     },
     facts: {
       de: ["Heimat der Toubou-Nomaden.", "Extrem trockenes Klima.", "Uralte Felsmalereien.", "Höchste Erhebung der Sahara."],
       hu: ["A tubu nomádok otthona.", "Extrém száraz éghajlat.", "Ősi sziklarajzok.", "A Szahara legmagasabb pontja."],
       ro: ["Casa nomazilor Toubou.", "Climat extrem de arid.", "Picturi rupestre străvechi.", "Cea mai înaltă regiune din Sahara."],
-      en: ["Home to the Toubou nomads.", "Extremely arid climate.", "Ancient rock art sites.", "Highest region in the Sahara."]
+      en: ["Home to the Toubou nomads.", "Extremely arid climate.", "Ancient rock art sites.", "Highest region in the Sahara."],
+      es: ["Hogar de los nómadas Toubou.", "Clima extremadamente seco.", "Pinturas rupestres antiguas.", "Punto más alto del Sahara."],
+      pt: ["Lar dos nómadas Toubou.", "Clima extremamente seco.", "Pinturas rupestres antigas.", "Ponto mais alto do Saara."],
+      fr: ["Terre des nomades Toubou.", "Climat extrêmement sec.", "Peintures rupestres anciennes.", "Point culminant du Sahara."],
     }, image: "/poi-images/tibesti-mountains-nature-v2.webp"},
   {
     id: "ennedi-plateau-nature-v2",
@@ -191,12 +215,18 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "Az Ennedi-fennsík egy hatalmas homokkő hegység Csád északkeleti részén, a Szahara sivatag szívében. A körülbelül 35 000 négyzetkilométeren elterülő természetes erődítményt 2016-ban vették fel az UNESCO Világörökség listájára egyedülálló geológiai képződményei és kulturális jelentősége miatt. Az évezredek során a szél és a víz eróziója látványos boltíveket, mély kanyonokat és magasodó sziklatűket formált, amelyek meghatározzák a táj képét. A régió létfontosságú menedéket nyújt a szaharai flóra és fauna számára, beleértve a ritka nyugat-afrikai krokodilt, amely a Guelta d'Archei területén található meg. Ezenkívül a fennsík a Szahara egyik legnagyobb sziklaművészeti együttesének ad otthont, több ezer festett és vésett képpel a kőfelületeken. Ezek az alkotások közel 7000 évesek, és részletes dokumentációt nyújtanak az emberi életről és a régió változó környezeti feltételeiről. Napjainkban az Ennedi-fennsík távoli, de alapvető fontosságú központja a biológiai sokféleségnek és a régészeti kutatásoknak Közép-Afrikában.",
       ro: "Podișul Ennedi este un masiv muntos de gresie situat în nord-estul Ciadului, adânc în deșertul Sahara. Acoperind o suprafață de aproximativ 35.000 de kilometri pătrați, această fortăreață naturală a fost înscrisă în Patrimoniul Mondial UNESCO în 2016 datorită formațiunilor sale geologice unice și semnificației sale culturale. De-a lungul mileniilor, eroziunea vântului și a apei a sculptat arcade spectaculoase, canioane adânci și turnuri de stâncă impunătoare care caracterizează peisajul. Regiunea servește ca un refugiu vital pentru flora și fauna saharienă, inclusiv pentru rurul crocodil vest-african găsit în Guelta d'Archei. Mai mult, podișul găzduiește unul dintre cele mai mari ansambluri de artă rupestră din Sahara, cu mii de imagini pictate și gravate în suprafețele de piatră. Aceste opere de artă datează de aproape 7.000 de ani, oferind o înregistrare detaliată a vieții umane și a schimbărilor de mediu din regiune. Astăzi, Podișul Ennedi rămâne un centru izolat, dar crucial pentru biodiversitate și cercetare arheologică în Africa Centrală.",
       en: "The Ennedi Plateau is a massive sandstone bulwark located in the northeast of Chad, within the Sahara Desert. Spanning approximately 35,000 square kilometers, this natural fortress was inscribed as a UNESCO World Heritage site in 2016 due to its unique geological formations and cultural significance. Over millennia, wind and water erosion have sculpted spectacular arches, deep canyons, and towering spires that characterize the landscape. The region serves as a vital refuge for Saharan flora and fauna, including the rare West African crocodile found in the Guelta d'Archei. Furthermore, the plateau is home to one of the largest ensembles of rock art in the Sahara, with thousands of images painted and carved into the stone surfaces. These artworks date back nearly 7,000 years, providing a detailed record of human life and the changing environment of the region. Today, the Ennedi Plateau remains a remote but crucial center for biodiversity and archaeological research in Central Africa.",
+      es: "El Macizo de Ennedi es uno de los paisajes de arenisca más espectaculares de la Tierra y Patrimonio de la Humanidad de la UNESCO. La combinación de enormes arcos naturales de arenisca, altas torres y gueltas ocultas lo convierten en una obra maestra geológica. La meseta es un refugio para especies animales raras, incluidos los últimos cocodrilos del desierto que pudieron sobrevivir en los remotos cañones rocosos. El arte prehistórico en las cuevas de Ennedi complementa la experiencia natural y narra el asentamiento temprano de la región.",
+      pt: "O Maciço de Ennedi é uma das paisagens de arenito mais espectaculares da Terra e um Património Mundial da UNESCO. A combinação de arcos de arenito naturais maciços, torres altas e gueltas escondidas torna-o numa obra-prima geológica. O planalto é um refúgio para espécies animais raras, incluindo os últimos crocodilos do deserto que conseguiram sobreviver nos desfiladeiros rochosos remotos. A arte pré-histórica nas grutas de Ennedi complementa a experiência natural e fala do povoamento primitivo da região.",
+      fr: "Le massif de l'Ennedi est l'un des paysages de grès les plus spectaculaires au monde et un site classé au patrimoine mondial de l'UNESCO. La combinaison d'immenses arches naturelles en grès, de hautes tours et de gueltas cachées en fait un chef-d'œuvre géologique. Le plateau est un refuge pour des espèces animales rares, notamment les derniers crocodiles du désert qui ont pu survivre dans les canyons rocheux isolés. L'art préhistorique dans les grottes de l'Ennedi complète l'expérience naturelle et raconte le peuplement ancien de la région.",
     },
     factsAdvanced: {
       de: ["Aufnahme in das UNESCO-Welterbe im Jahr 2016.", "Die Gesamtfläche des Gebirges übersteigt 35.000 Quadratkilometer.", "Über 15.000 einzelne Felsbilder wurden bisher dokumentiert.", "Der höchste Punkt erreicht eine Höhe von etwa 1.450 Metern.", "Geologische Entstehung während des Paläozoikums vor Millionen Jahren.", "Beheimatet Reliktpopulationen von saharischen Wüstenkrokodilen."],
       hu: ["2016-ban került fel az UNESCO Világörökségi listájára.", "A hegység teljes területe meghaladja a 35 000 négyzetkilométert.", "Több mint 15 000 egyedi sziklarajzot dokumentáltak a területen.", "Legmagasabb pontja eléri a körülbelül 1450 méteres magasságot.", "Geológiai kialakulása a paleozoikum idejére tehető.", "A szaharai sivatagi krokodilok reliktum populációinak otthona."],
       ro: ["Inscris în Patrimoniul Mondial UNESCO în anul 2016.", "Suprafața totală a masivului depășește 35.000 de kilometri pătrați.", "Peste 15.000 de imagini rupestre individuale au fost documentate.", "Cel mai înalt punct atinge o altitudine de aproximativ 1.450 de metri.", "Format geologic în timpul erei paleozoice.", "Găzduiește populații relicte de crocodili saharieni de deșert."],
       en: ["Inscribed as a UNESCO World Heritage site in 2016.", "The total area of the plateau exceeds 35,000 square kilometers.", "Over 15,000 individual rock art images have been recorded.", "The highest point reaches an altitude of approximately 1,450 meters.", "Geologically formed during the Paleozoic era.", "Home to relict populations of Saharan desert crocodiles."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     
@@ -204,13 +234,19 @@ export const poiExtraChadNatureV2: POI[] = [
       de: "Eine spektakuläre Sandsteinlandschaft mit natürlichen Bögen und Türmen.",
       hu: "Látványos homokkő táj természetes boltívekkel és tornyokkal.",
       ro: "Un peisaj spectaculos de gresie cu arcade și turnuri naturale.",
-      en: "A spectacular sandstone landscape with natural arches and towers."
+      en: "A spectacular sandstone landscape with natural arches and towers.",
+      es: "Un espectacular paisaje de arenisca con arcos y torres naturales.",
+      pt: "Uma paisagem espectacular de arenito com arcos e torres naturais.",
+      fr: "Un paysage de grès spectaculaire avec des arches et des tours naturelles.",
     },
     facts: {
       de: ["UNESCO-Welterbe.", "Einzigartige Felsformationen.", "Beherbergt seltene Wüstenkrokodile.", "Reich an prähistorischer Kunst."],
       hu: ["UNESCO Világörökség.", "Egyedülálló sziklaformációk.", "Ritka sivatagi krokodilok otthona.", "Gazdag történelem előtti művészet."],
       ro: ["Patrimoniu Mondial UNESCO.", "Formațiuni stâncoase unice.", "Adăpostește crocodili de deșert rari.", "Bogat în artă preistorică."],
-      en: ["UNESCO World Heritage site.", "Unique rock formations.", "Home to rare desert crocodiles.", "Rich in prehistoric rock art."]
+      en: ["UNESCO World Heritage site.", "Unique rock formations.", "Home to rare desert crocodiles.", "Rich in prehistoric rock art."],
+      es: ["Patrimonio de la Humanidad de la UNESCO.", "Formaciones rocosas únicas.", "Hogar de raros cocodrilos del desierto.", "Rico en arte prehistórico."],
+      pt: ["Património Mundial da UNESCO.", "Formações rochosas únicas.", "Abriga crocodilos do deserto raros.", "Rico em arte pré-histórica."],
+      fr: ["Patrimoine mondial de l'UNESCO.", "Formations rocheuses uniques.", "Abrite de rares crocodiles du désert.", "Riche en art préhistorique."],
     }, image: "/poi-images/ennedi-plateau-nature-v2.webp"},
   {
     id: "lake-fitri-nature-v2",
@@ -228,12 +264,18 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "A Fitri-tó Csád középső részén található jelentős lefolyástalan tó, körülbelül 300 kilométerre keletre N'Djamenától. Ez egy sekély édesvízi tó, amelynek felszíne jelentősen ingadozik az évszakos csapadéktól függően, az esős évszakban jellemzően 420 négyzetkilométert fed le. A tó az egykori hatalmas Mega-Csád-tó maradványa, és 1990 óta a RAMSAR-egyezmény értelmében nemzetközi jelentőségű vizes élőhelynek minősül. Ökoszisztémája létfontosságú számos vándormadárfaj túlélése szempontjából, amelyek megállóhelyként használják a tavat az afrikai kontinensen átívelő útjuk során. A környező síkságok alapvető legelőket biztosítanak a helyi félnomád népcsoportok, például a bilala nép állatállománya számára. A Csád-tótól eltérően a Fitri-tó az elmúlt évtizedekben viszonylag stabil vízszintet tartott fenn, még a Száhel-övezet súlyos aszályos időszakaiban is. A tó emellett a regionális piacok elsődleges halforrása, jelentősen hozzájárulva a helyi gazdasághoz és az élelmezésbiztonsághoz.",
       ro: "Lacul Fitri este un lac endoreic important situat în centrul Ciadului, la aproximativ 300 de kilometri est de N'Djamena. Este un corp de apă dulce puțin adânc, cu o suprafață care fluctuează semnificativ în funcție de precipitațiile sezoniere, acoperind de obicei aproximativ 420 de kilometri pătrați în timpul sezonului ploios. Lacul este o rămășiță a fostului lac uriaș Mega-Ciad și este desemnat ca zonă umedă de importanță internațională conform Convenției RAMSAR din 1990. Ecosistemul său este vital pentru supraviețuirea a numeroase specii de păsări migratoare care folosesc lacul ca punct de oprire în timpul călătoriilor lor pe continentul african. Câmpiile înconjurătoare oferă pășuni esențiale pentru animalele populațiilor locale semi-nomade, cum ar fi poporul Bilala. Spre deosebire de Lacul Ciad, Lacul Fitri a menținut un nivel al apei relativ stabil în ultimele decenii, chiar și în perioadele de secetă severă din Sahel. Lacul este, de asemenea, o sursă primară de pește pentru piețele regionale, contribuind semnificativ la economia locală și la securitatea alimentară.",
       en: "Lake Fitri is a significant endorheic lake situated in the center of Chad, approximately 300 kilometers east of N'Djamena. It is a shallow body of freshwater with a surface area that fluctuates significantly depending on seasonal rainfall, typically covering around 420 square kilometers during the wet season. The lake is a remnant of the much larger ancient Lake Mega-Chad and is designated as a Wetland of International Importance under the RAMSAR Convention since 1990. Its ecosystem is vital for the survival of numerous migratory bird species that use the lake as a stopover during their journeys across the African continent. The surrounding plains provide essential grazing lands for the livestock of local semi-nomadic populations, such as the Bilala people. Unlike Lake Chad, Lake Fitri has maintained a relatively stable water level over recent decades, even during periods of severe drought in the Sahel. The lake is also a primary source of fish for the regional markets, contributing significantly to the local economy and food security.",
+      es: "El Lago Fitri es un importante refugio de agua dulce en el centro del Chad y un sitio Ramsar protegido. Representa un remanente de los inmensos niveles históricos de agua del Mega-Chad y actúa como salvavidas para la población local, especialmente en la cría de ganado. Los humedales que rodean el lago ofrecen refugio a una rica vida de peces y aves en un entorno seco. Gracias a la dinámica estacional del nivel del agua, el ecosistema permanece vibrante y es de inmensa importancia para la seguridad alimentaria de la región.",
+      pt: "O Lago Fitri é um importante refúgio de água doce no Chade central e um sítio Ramsar protegido. Representa um remanescente dos enormes níveis históricos de água do Mega-Chade e funciona como uma linha de vida para a população local, especialmente na pecuária. As zonas húmidas em redor do lago oferecem refúgio a uma rica vida de peixes e aves num ambiente seco. Através da dinâmica sazonal do nível da água, o ecossistema permanece vivo e é de imensa importância para a segurança alimentar na região.",
+      fr: "Le lac Fitri est un refuge d'eau douce majeur au centre du Tchad, classé site Ramsar protégé. Il constitue un vestige des immenses niveaux d'eau historiques du méga-lac Tchad et sert de source de vie pour la population locale, particulièrement pour l'élevage de bétail. Les zones humides entourant le lac offrent un refuge à une faune piscicole et aviaire abondante dans un environnement aride. Grâce à la dynamique saisonnière du niveau d'eau, l'écosystème reste vivant et revêt une importance capitale pour la sécurité alimentaire de la région.",
     },
     factsAdvanced: {
       de: ["Befindet sich etwa 300 Kilometer östlich der Hauptstadt N'Djamena.", "Durchschnittliche Fläche während der Regenzeit beträgt 420 km².", "Seit dem Jahr 1990 offiziell als RAMSAR-Gebiet gelistet.", "Das Volk der Bilala nutzt den See traditionell zur Fischerei.", "Gilt als einer der letzten stabilen Überreste des prähistorischen Mega-Tschad.", "Wichtiger Überwinterungsplatz für paläarktische Zugvögel."],
       hu: ["Körülbelül 300 kilométerre keletre található N'Djamena fővárostól.", "Az esős évszakban az átlagos felszíne 420 négyzetkilométer.", "1990 óta hivatalosan is RAMSAR-területként van nyilvántartva.", "A bilala nép hagyományosan halászatra használja a tavat.", "A prehisztorikus Mega-Csád-tó egyik utolsó stabil maradványa.", "Fontos telelőhely a palearktikus vándormadarak számára."],
       ro: ["Situat la aproximativ 300 de kilometri est de capitala N'Djamena.", "Suprafața medie în timpul sezonului ploios este de 420 km².", "Listat oficial ca sit RAMSAR începând cu anul 1990.", "Poporul Bilala utilizează tradițional lacul pentru pescuit.", "Considerat una dintre ultimele rămășițe stabile ale preistoricului Mega-Ciad.", "Loc important de iernat pentru păsările migratoare palearctice."],
       en: ["Located approximately 300 kilometers east of the capital N'Djamena.", "The average surface area during the wet season is 420 square kilometers.", "Officially listed as a RAMSAR site since the year 1990.", "The Bilala people traditionally utilize the lake for fishing.", "Considered one of the last stable remnants of the prehistoric Mega-Chad.", "Important wintering ground for Palearctic migratory birds."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     
@@ -241,13 +283,19 @@ export const poiExtraChadNatureV2: POI[] = [
       de: "Ein wichtiger Süßwassersee in der Mitte des Landes, ein Ramsar-Gebiet.",
       hu: "Fontos édesvizű tó az ország közepén, Ramsari terület.",
       ro: "Un lac important de apă dulce în centrul țării, sit Ramsar.",
-      en: "An important freshwater lake in the center of the country, a Ramsar site."
+      en: "An important freshwater lake in the center of the country, a Ramsar site.",
+      es: "Un importante lago de agua dulce en el centro del país, un sitio Ramsar.",
+      pt: "Um importante lago de água doce no centro do país, um sítio Ramsar.",
+      fr: "Un lac d'eau douce important au centre du pays, classé site Ramsar.",
     },
     facts: {
       de: ["Überrest eines größeren Sees.", "Wichtiger Lebensraum für Fische.", "Zentrum für Viehzucht.", "Relikt des Megatschad."],
       hu: ["Egy nagyobb tó maradványa.", "Fontos élőhely a halaknak.", "Az állattenyésztés központja.", "A Mega-Csád maradványa."],
       ro: ["Rămășița unui lac mai mare.", "Habitat important pentru pești.", "Centru pentru creșterea animalelor.", "Relicvă a Mega-Ciadului."],
-      en: ["Remnant of a larger lake.", "Vital habitat for fish.", "Center for livestock farming.", "Relic of the Mega-Chad."]
+      en: ["Remnant of a larger lake.", "Vital habitat for fish.", "Center for livestock farming.", "Relic of the Mega-Chad."],
+      es: ["Remanente de un lago mayor.", "Hábitat importante para peces.", "Centro para la ganadería.", "Reliquia del Megachad."],
+      pt: ["Remanescente de um lago maior.", "Habitat importante para peixes.", "Centro de pecuária.", "Relíquia do Megachade."],
+      fr: ["Vestige d'un lac plus vaste.", "Habitat important pour les poissons.", "Centre d'élevage de bétail.", "Relique du Méga-Tchad."],
     }, image: "/poi-images/lake-fitri-nature-v2.webp"},
   {
     id: "lake-iro-nature-v2",
@@ -265,12 +313,18 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "Az Iro-tó egy kör alakú tó Csád délkeleti részén, a Moyen-Chari régióban, a Közép-afrikai Köztársaság határának közelében. A körülbelül 13 kilométer átmérőjű tó tökéletesen kerek alakja sok geológust arra a hipotézisre vezetett, hogy egy meteorit-becsapódási kráterből származhat, bár ez az elmélet továbbra is folyamatos tudományos vita tárgya. A tó az esős évszak csúcsán szezonálisan kapcsolódik a Bahr Salamat folyórendszerhez, lehetővé téve a víz és a halfajok cseréjét. A száraz hónapokban állandó vízfelület marad, és kulcsfontosságú erőforrást biztosít a környező szavanna ökoszisztémája számára. A helyi lakosság nagymértékben támaszkodik a tóra a létfenntartó halászat terén, évente nagy mennyiségű tilápiát és nílusi sügért fognak ki. A tó körüli vegetációt magas füvek és akáciaerdők uralják, amelyek számos vadon élő állatot, köztük vízilókat és különféle vízimadarakat tartanak el. Ökológiai jelentősége ellenére az Iro-tó Közép-Afrika egyik távolabbi és kevésbé kutatott vízi környezete marad.",
       ro: "Lacul Iro este un lac circular situat în regiunea Moyen-Chari din sud-estul Ciadului, aproape de granița cu Republica Centrafricană. Măsurând aproximativ 13 kilometri în diametru, forma perfect rotundă a lacului a determinat mulți geologi să ipotezeze că a provenit dintr-un crater de impact de meteorit, deși această teorie rămâne subiectul unor dezbateri științifice în curs. Lacul este conectat sezonier la sistemul râului Bahr Salamat în timpul vârfului sezonului ploios, permițând schimbul de apă și specii de pești. În lunile uscate, lacul rămâne un corp de apă permanent, oferind o resursă crucială pentru ecosistemul de savană înconjurător. Populația locală se bazează în mare măsură pe lac pentru pescuitul de subzistență, cantități mari de Tilapia și biban de Nil fiind recoltate anual. Vegetația din jurul lacului este dominată de ierburi înalte și păduri de salcâm, care susțin o varietate de animale sălbatice, inclusiv hipopotami și diverse păsări de apă. În ciuda importanței sale ecologice, Lacul Iro rămâne unul dintre mediile acvatice mai izolate și mai puțin studiate din Africa Centrală.",
       en: "Lake Iro is a circular lake located in the Moyen-Chari region of southeastern Chad, near the border with the Central African Republic. Measuring approximately 13 kilometers in diameter, the lake's perfect round shape has led many geologists to hypothesize that it originated from a meteorite impact crater, although this theory remains subject to ongoing scientific debate. The lake is seasonally connected to the Bahr Salamat river system during the peak of the rainy season, allowing for the exchange of water and fish species. During the dry months, the lake remains a permanent body of water, providing a crucial resource for the surrounding savannah ecosystem. The local population relies heavily on the lake for subsistence fishing, with large quantities of Tilapia and Nile Perch being harvested annually. The vegetation around the lake is dominated by tall grasses and acacia woodlands, which support a variety of wildlife including hippopotamuses and various waterfowl. Despite its ecological importance, Lake Iro remains one of the more remote and less studied aquatic environments in Central Africa.",
+      es: "El Lago Iro es un enigma geológico en el sur que, debido a su forma casi circular, probablemente se originó como un cráter de impacto. En medio de la sabana meridional, forma un cuerpo de agua aislado y ecológicamente muy interesante. La conexión con el Bahr Salamat durante la temporada de lluvias asegura un intercambio constante de fauna y nutrientes, lo que hace que la densidad de peces del lago sea excepcional. El Lago Iro es un factor económico importante para los pescadores locales y un punto culminante paisajístico para la región.",
+      pt: "O Lago Iro é um mistério geológico no sul que, devido à sua forma quase circular, provavelmente surgiu como uma cratera de impacto. No meio da savana meridional, forma um corpo de água isolado e ecologicamente muito interessante. A ligação com o Bahr Salamat durante a estação chuvosa garante uma troca constante de fauna e nutrientes, o que torna a densidade de peixes do lago excepcional. O Lago Iro é um importante fator económico para os pescadores locais e um destaque paisagístico para a região.",
+      fr: "Le lac Iro est une énigme géologique dans le sud qui, en raison de sa forme presque circulaire, est probablement né d'un cratère d'impact. Au milieu de la savane méridionale, il forme une étendue d'eau isolée et écologiquement très intéressante. La liaison avec le Bahr Salamat pendant la saison des pluies assure un échange constant de faune et de nutriments, ce qui rend la densité de poissons du lac exceptionnelle. Le lac Iro est un facteur économique important pour les pêcheurs locaux et un point fort paysager pour la région.",
     },
     factsAdvanced: {
       de: ["Durchmesser des Sees beträgt fast genau 13 Kilometer.", "Liegt in der Region Moyen-Chari im Südosten des Landes.", "Wissenschaftliche Vermutung eines Meteoriteneinschlags als Ursprung.", "Saisonale Verbindung zum Fluss Bahr Salamat bei Hochwasser.", "Wichtiges Fanggebiet für Tilapia und den Nilbarsch.", "Bietet permanenten Lebensraum für große Flusspferd-Populationen."],
       hu: ["A tó átmérője szinte pontosan 13 kilométer.", "Az ország délkeleti részén, a Moyen-Chari régióban található.", "Tudományos feltevés szerint meteorit-becsapódás hozta létre.", "Áradások idején szezonális összeköttetésben áll a Bahr Salamat folyóval.", "A tilápia és a nílusi sügér fontos halászati lelőhelye.", "Állandó élőhelyet biztosít jelentős víziló-populációknak."],
       ro: ["Diametrul lacului este de aproape exact 13 kilometri.", "Situat în regiunea Moyen-Chari din sud-estul țării.", "Ipotiză științifică a unui impact de meteorit ca origine.", "Conexiune sezonieră cu râul Bahr Salamat în timpul inundațiilor.", "Zonă importantă de pescuit pentru Tilapia și bibanul de Nil.", "Oferă habitat permanent pentru populații mari de hipopotami."],
       en: ["The diameter of the lake is almost exactly 13 kilometers.", "Located in the Moyen-Chari region in the southeast of the country.", "Scientific hypothesis of a meteorite impact origin.", "Seasonal connection to the Bahr Salamat river during floods.", "Important fishing ground for Tilapia and Nile Perch.", "Provides permanent habitat for large hippopotamus populations."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     
@@ -278,13 +332,19 @@ export const poiExtraChadNatureV2: POI[] = [
       de: "Ein kleiner, fast kreisrunder See im Süden, wahrscheinlich ein Einschlagkrater.",
       hu: "Kicsi, majdnem kör alakú tó délen, valószínűleg becsapódási kráter.",
       ro: "Un lac mic, aproape circular în sud, probabil un crater de impact.",
-      en: "A small, nearly circular lake in the south, likely an impact crater."
+      en: "A small, nearly circular lake in the south, likely an impact crater.",
+      es: "Un lago pequeño, casi circular, en el sur, probablemente un cráter de impacto.",
+      pt: "Um lago pequeno, quase circular, no sul, provavelmente uma cratera de impacto.",
+      fr: "Un petit lac presque circulaire dans le sud, probablement un cratère d'impact.",
     },
     facts: {
       de: ["Besitzt eine reiche Fischfauna.", "Saisonale Verbindung zum Bahr Salamat.", "Durchmesser von ca. 13 km.", "Wichtig für lokale Fischer."],
       hu: ["Gazdag halkészlettel rendelkezik.", "Szezonális kapcsolata van a Bahr Salamattal.", "Átmérője kb. 13 km.", "Fontos a helyi halászoknak."],
       ro: ["Are o faună piscicolă bogată.", "Conexiune sezonieră cu Bahr Salamat.", "Diametru de aprox. 13 km.", "Important pentru pescarii locali."],
-      en: ["Rich in fish species.", "Seasonal link to Bahr Salamat.", "Diameter of about 13 km.", "Crucial for local fishing."]
+      en: ["Rich in fish species.", "Seasonal link to Bahr Salamat.", "Diameter of about 13 km.", "Crucial for local fishing."],
+      es: ["Posee una rica fauna piscícola.", "Conexión estacional con el Bahr Salamat.", "Diámetro de unos 13 km.", "Importante para los pescadores locales."],
+      pt: ["Possui uma rica fauna de peixes.", "Ligação sazonal com o Bahr Salamat.", "Diâmetro de cerca de 13 km.", "Importante para os pescadores locais."],
+      fr: ["Possède une riche faune piscicole.", "Liaison saisonnière avec le Bahr Salamat.", "Diamètre d'environ 13 km.", "Important pour les pêcheurs locaux."],
     }, image: "/poi-images/lake-iro-nature-v2.webp"},
   {
     id: "ounianga-lakes-nature-v2",
@@ -302,12 +362,18 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "Az Ounianga-tavak 18 egymással összefüggő tóból állnak Csád északi részén, a hiperarid Ennedi-Ouest régióban. Ezt a rendkívüli hidrológiai rendszert 2012-ben vették fel az UNESCO Világörökség listájára kivételes természeti szépsége és egyedülálló geológiai története miatt. A tavakat két fő csoportra osztják, az Ounianga Kebir-re és az Ounianga Serir-re, amelyeket körülbelül 40 kilométernyi sivatagi homok választ el egymástól. Meglepő módon ezek a tavak egy olyan régióban léteznek, ahol évente kevesebb mint 2 milliméter csapadék esik, és egy hatalmas földalatti víztartóból származó fosszilis víz folyamatos utánpótlása révén maradnak fenn. A víz a nagyon sós és az édesvíz között változik, így különféle biológiai közösségeket tart el a Szahara szívében. A Teli-tó, az Ounianga Serir csoport legnagyobb tagja, úszó nádszőnyegek komplex rendszerével rendelkezik, amelyek segítenek csökkenteni a párolgást. A helyszín ritka emléket állít a Szahara klímatörténetének, mivel a tavak üledékrétegei évezredeken át megőrizték az információkat a régió zöld tájból sivataggá való átalakulásáról.",
       ro: "Lacurile Ounianga constau dintr-o serie de 18 lacuri interconectate situate în regiunea hiper-aridă Ennedi-Ouest din nordul Ciadului. Acest sistem hidrologic extraordinar a fost recunoscut ca sit al Patrimoniului Mondial UNESCO în 2012 pentru frumusețea sa naturală excepțională și istoria sa geologică unică. Lacurile sunt împărțite în două grupuri principale, Ounianga Kebir și Ounianga Serir, care sunt separate de aproximativ 40 de kilometri de nisip de deșert. În mod remarcabil, aceste lacuri există într-o regiune care primește mai puțin de 2 milimetri de precipitații anual, supraviețuind prin alimentarea continuă cu apă fosilă dintr-un acvifer subteran masiv. Apa variază de la foarte salină la dulce, susținând comunități biologice distincte în inima Saharei. Lacul Teli, cel mai mare din grupul Ounianga Serir, prezintă un sistem complex de rogojini de stuf plutitoare care ajută la reducerea evaporării. Situl oferă o înregistrare rară a istoriei climatice a Saharei, deoarece straturile de sedimente din lacuri au păstrat informații despre tranziția regiunii de la un peisaj verde la un deșert de-a lungul a mii de ani.",
       en: "The Lakes of Ounianga consist of a series of 18 interconnected lakes located in the hyper-arid Ennedi-Ouest region of northern Chad. This extraordinary hydrological system was recognized as a UNESCO World Heritage site in 2012 for its exceptional natural beauty and unique geological history. The lakes are divided into two main groups, Ounianga Kebir and Ounianga Serir, which are separated by approximately 40 kilometers of desert sand. Remarkably, these lakes exist in a region that receives less than 2 millimeters of rainfall annually, surviving through the continuous supply of fossil water from a massive underground aquifer. The water varies from highly saline to fresh, supporting distinct biological communities in the heart of the Sahara. Lake Teli, the largest in the Ounianga Serir group, features a complex system of floating reed mats that help reduce evaporation. The site provides a rare record of the climatic history of the Sahara, as sediment layers in the lakes have preserved information about the region's transition from a green landscape to a desert over thousands of years.",
+      es: "Los lagos de Ounianga forman un impresionante Patrimonio de la Humanidad de la UNESCO compuesto por 18 lagos individuales en medio del Sahara, que cautivan por su azul brillante. Estos lagos sobreviven en uno de los entornos más secos del mundo, ya que se alimentan de reservas subterráneas de agua fósil. La diversidad entre lagos de agua dulce y salada dentro de un grupo tan denso es única en el mundo. Ounianga es un testimonio vivo de los periodos climáticos más húmedos de la historia del Sahara y una isla de vida tipo oasis que fascina a investigadores y visitantes de todo el mundo.",
+      pt: "Os lagos de Ounianga formam um deslumbrante Património Mundial da UNESCO composto por 18 lagos individuais no meio do Sara, que cativam pelo seu azul brilhante. Estes lagos sobrevivem num dos ambientes mais secos do mundo, pois são alimentados por reservas subterrâneas de água fóssil. A diversidade entre lagos de água doce e salgada dentro de um grupo tão denso é única no mundo. Ounianga é um testemunho vivo dos períodos climáticos mais húmidos da história do Sara e uma ilha de vida tipo oásis que fascina investigadores e visitantes de todo o mundo.",
+      fr: "Les lacs d'Ounianga forment un site époustouflant du patrimoine mondial de l'UNESCO, composé de 18 lacs individuels au milieu du Sahara, qui séduisent par leur bleu éclatant. Ces lacs survivent dans l'un des environnements les plus secs au monde, car ils sont alimentés par des réserves souterraines d'eau fossile. La diversité entre les lacs d'eau douce et d'eau salée au sein d'un groupe aussi dense est unique au monde. Ounianga est un témoignage vivant des époques climatiques plus humides de l'histoire du Sahara et une île de vie oasienne qui fascine les chercheurs et les visiteurs du monde entier.",
     },
     factsAdvanced: {
       de: ["Seit dem Jahr 2012 als UNESCO-Weltnaturerbe gelistet.", "Das System umfasst insgesamt 18 natürliche Seen.", "Die jährliche Niederschlagsrate der Region liegt unter 2 mm.", "Wassernachschub stammt aus dem nubischen Sandstein-Aquifer.", "Unterteilung in die Gruppen Ounianga Kebir und Ounianga Serir.", "Der Teli-See erreicht eine maximale Tiefe von 27 Metern."],
       hu: ["2012 óta az UNESCO Világtermészeti Örökség része.", "A rendszer összesen 18 természetes tavat foglal magában.", "A régió éves csapadékmennyisége 2 mm alatt marad.", "A vízutánpótlás a nubiai homokkő víztartó rétegből származik.", "Ounianga Kebir és Ounianga Serir csoportokra oszlik.", "A Teli-tó maximális mélysége eléri a 27 métert."],
       ro: ["Inscris în Patrimoniul Mondial Natural UNESCO în anul 2012.", "Sistemul cuprinde în total 18 lacuri naturale.", "Rata anuală a precipitațiilor în regiune este sub 2 mm.", "Alimentarea cu apă provine din acviferul de gresie nubiană.", "Divizat în grupurile Ounianga Kebir și Ounianga Serir.", "Lacul Teli atinge o adâncime maximă de 27 de metri."],
       en: ["Listed as a UNESCO World Natural Heritage site since 2012.", "The system comprises a total of 18 natural lakes.", "Annual rainfall in the region is less than 2 millimeters.", "Water supply originates from the Nubian Sandstone Aquifer.", "Divided into Ounianga Kebir and Ounianga Serir groups.", "Lake Teli reaches a maximum depth of 27 meters."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     
@@ -315,13 +381,19 @@ export const poiExtraChadNatureV2: POI[] = [
       de: "Eine Gruppe von 18 Seen in der Wüste, ein UNESCO-Weltnaturerbe.",
       hu: "18 tóból álló csoport a sivatagban, UNESCO világörökségi helyszín.",
       ro: "Un grup de 18 lacuri în deșert, sit natural UNESCO.",
-      en: "A group of 18 lakes in the desert, a UNESCO World Heritage site."
+      en: "A group of 18 lakes in the desert, a UNESCO World Heritage site.",
+      es: "Un grupo de 18 lagos en el desierto, declarados Patrimonio de la Humanidad por la UNESCO.",
+      pt: "Um grupo de 18 lagos no deserto, um Património Mundial da UNESCO.",
+      fr: "Un groupe de 18 lacs dans le désert, classés au patrimoine mondial de l'UNESCO.",
     },
     facts: {
       de: ["Unglaubliche Oasenlandschaft.", "Süß- und Salzwasserseen.", "Unterirdische Grundwasserspeicher.", "Relikt aus feuchteren Zeiten."],
       hu: ["Hihetetlen oázis táj.", "Édesvizű és sós tavak.", "Föld alatti vízkészletek táplálják.", "Nedvesebb korszakok maradványa."],
       ro: ["Peisaj de oază incredibil.", "Lacuri cu apă dulce și sărată.", "Alimentate de acvifere subterane.", "Relicvă din vremuri mai umede."],
-      en: ["Incredible oasis landscape.", "Both fresh and saltwater lakes.", "Fed by underground aquifers.", "Relic of a more humid era."]
+      en: ["Incredible oasis landscape.", "Both fresh and saltwater lakes.", "Fed by underground aquifers.", "Relic of a more humid era."],
+      es: ["Increíble paisaje de oasis.", "Lagos de agua dulce y salada.", "Reservas subterráneas de agua fósil.", "Reliquia de tiempos más húmedos."],
+      pt: ["Incrível paisagem de oásis.", "Lagos de água doce e salgada.", "Reservas subterrâneas de água fóssil.", "Relíquia de tempos mais húmidos."],
+      fr: ["Incroyable paysage d'oasis.", "Lacs d'eau douce et d'eau salée.", "Réservoirs souterrains d'eau fossile.", "Relique d'époques plus humides."],
     }, image: "/poi-images/ounianga-lakes-nature-v2.webp"},
   {
     id: "lake-katam-nature-v2",
@@ -339,12 +411,18 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "A Katam-tó az egyik leglátványosabb vízfelület az észak-csádi Ounianga Serir tócsoporton belül. Híres jellegzetes színeződéséről, amely a specifikus sótűrő algák és mikroorganizmusok jelenléte miatt mélyvörös vagy narancssárga árnyalatúnak tűnhet. Szomszédos tavaihoz hasonlóan a Katam-tavat is a nubiai homokkő víztartó rendszeréből származó földalatti fosszilis víz táplálja, lehetővé téve, hogy fennmaradjon a Szahara sivatag szélsőséges hőségében. A tavat a szél által folyamatosan mozgatott nagy homokdűnék választják el a többi közeli vízfelülettől. Magas sótartalma ellenére a tó szerepet játszik a helyi mikro-ökoszisztémában, speciális rovar- és madárvilágot tartva el. Az élénk színű víz és a környező arany homokdűnék közötti kontraszt jelentős geológiai nevezetességgé teszi. A Katam-tó iránti tudományos érdeklődés gyakran a szélsőséges kémiai összetételére és a vizeiben lakó organizmusok túlélési stratégiáira összpontosít. Továbbra is szerves része Ounianga UNESCO-védelem alatt álló tájának, képviselve a vízrendszerek ellenálló képességét száraz környezetben.",
       ro: "Lacul Katam este unul dintre cele mai frapante corpuri de apă din punct de vedere vizual din cadrul grupului de lacuri Ounianga Serir din nordul Ciadului. Este faimos pentru colorația sa distinctă, care poate apărea ca o nuanță roșie sau portocalie intensă datorită prezenței unor alge și microorganisme specifice tolerante la sare. La fel ca lacurile vecine, Katam este alimentat de apă fosilă subterană din sistemul acvifer de gresie nubiană, permițându-i să persiste în căldura extremă a deșertului Sahara. Lacul este separat de alte corpuri de apă din apropiere prin dune de nisip mari care sunt deplasate constant de vânt. În ciuda salinității sale ridicate, lacul joacă un rol în micro-ecosistemul local, susținând viața specializată a insectelor și păsărilor. Contrastul dintre apa vibrantă și dunele de nisip aurii din jur îl face un punct de reper geologic semnificativ. Interesul științific pentru Lacul Katam se concentrează adesea pe chimia sa extremă și pe strategiile de supraviețuire ale organismelor care îi locuiesc apele. Rămâne o parte integrantă a peisajului protejat de UNESCO din Ounianga, reprezentând reziliența sistemelor de apă în medii aride.",
       en: "Lake Katam is one of the most visually striking bodies of water within the Ounianga Serir lake group in northern Chad. It is famous for its distinct coloration, which can appear as a deep red or orange hue due to the presence of specific salt-tolerant algae and microorganisms. Like its neighboring lakes, Katam is fed by underground fossil water from the Nubian Sandstone Aquifer system, allowing it to persist in the extreme heat of the Sahara Desert. The lake is separated from other nearby water bodies by large sand dunes that are constantly shifted by the wind. Despite its high salinity, the lake plays a role in the local micro-ecosystem, supporting specialized insect and bird life. The contrast between the vibrant water and the surrounding golden sand dunes makes it a significant geological landmark. Scientific interest in Lake Katam often focuses on its extreme chemistry and the survival strategies of the organisms that inhabit its waters. It remains an integral part of the UNESCO-protected landscape of Ounianga, representing the resilience of water systems in arid environments.",
+      es: "El Lago Katam es uno de los cuerpos de agua más coloridos dentro de los lagos de Ounianga y un punto culminante visual. Sus contrastes vibrantes entre la superficie del agua, las dunas de arena circundantes y la vegetación de juncos ofrecen una vista impresionante. Como cuenca que contiene agua durante todo el año, sirve como un nicho ecológico importante en un paisaje desértico que de otro modo sería hostil. La singularidad del Lago Katam radica en su capacidad para mantener el agua de manera constante a pesar de la evaporación extrema y para sostener una vegetación ribereña vibrante.",
+      pt: "O Lago Katam é um dos corpos de água mais coloridos dentro dos lagos de Ounianga e um destaque visual. Os seus contrastes vibrantes entre a superfície da água, as dunas de areia circundantes e a vegetação de juncos oferecem uma vista impressionante. Como uma bacia que contém água durante todo o ano, serve como um nicho ecológico importante numa paisagem desértica que, de outra forma, seria hostil. A singularidade do Lago Katam reside na sua capacidade de manter a água de forma constante, apesar da evaporação extrema, e de sustentar uma vegetação ribeirinha vibrante.",
+      fr: "Le lac Katam est l'un des plans d'eau les plus colorés des lacs d'Ounianga et un point fort visuel. Ses contrastes vibrants entre la surface de l'eau, les dunes de sable environnantes et la végétation de roseaux offrent une vue impressionnante. En tant que bassin en eau toute l'année, il sert de niche écologique importante dans un paysage désertique par ailleurs hostile. L'unicité du lac Katam réside dans sa capacité à maintenir l'eau de manière constante malgré l'évaporation extrême et à soutenir une végétation riveraine vivante.",
     },
     factsAdvanced: {
       de: ["Bekannt für seine charakteristische rote oder orangefarbene Tönung.", "Beheimatet spezialisierte, extrem salztolerante Algenarten.", "Gehört zur Untergruppe der Ounianga-Serir-Seen.", "Wird durch jahrtausendealtes fossiles Grundwasser gespeist.", "Der See ist von massiven Wanderdünen umgeben.", "Teil des seit 2012 geschützten UNESCO-Weltnaturerbes."],
       hu: ["Jellegzetes vörös vagy narancssárga árnyalatáról ismert.", "Speciális, szélsőségesen sótűrő algafajok otthona.", "Az Ounianga Serir tócsoport alcsoportjához tartozik.", "Évezredes fosszilis talajvíz táplálja.", "A tavat hatalmas vándorló homokdűnék veszik körül.", "A 2012 óta védett UNESCO Világtermészeti Örökség része."],
       ro: ["Cunoscut pentru nuanța sa caracteristică roșie sau portocalie.", "Găzduiește specii de alge specializate, extrem de tolerante la sare.", "Aparține subgrupului de lacuri Ounianga Serir.", "Alimentat de apă subterană fosilă veche de milenii.", "Lacul este înconjurat de dune de nisip mișcătoare masive.", "Parte a Patrimoniului Mondial Natural UNESCO protejat din 2012."],
       en: ["Famous for its characteristic red or orange tint.", "Home to specialized, extremely salt-tolerant algae species.", "Belongs to the Ounianga Serir sub-group of lakes.", "Fed by millennia-old fossil groundwater.", "The lake is surrounded by massive shifting sand dunes.", "Part of the UNESCO World Natural Heritage site protected since 2012."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     
@@ -352,13 +430,19 @@ export const poiExtraChadNatureV2: POI[] = [
       de: "Einer der malerischsten Seen der Ounianga-Gruppe, bekannt für seine Farben.",
       hu: "Az Ounianga-csoport egyik legfestőibb tava, színeiről ismert.",
       ro: "Unul dintre cele mai pitorești lacuri din grupul Ounianga.",
-      en: "One of the most picturesque lakes of the Ounianga group, known for its colors."
+      en: "One of the most picturesque lakes of the Ounianga group, known for its colors.",
+      es: "Uno de los lagos más pintorescos del grupo Ounianga, conocido por sus colores.",
+      pt: "Um dos lagos mais pitorescos do grupo Ounianga, conhecido pelas suas cores.",
+      fr: "L'un des lacs les plus pittoresques du groupe d'Ounianga, connu pour ses couleurs.",
     },
     facts: {
       de: ["Ganzjährig wasserführend.", "Umgeben von Sanddünen.", "Teilweise von Schilf bedeckt.", "Kontrastreiche Wüstenkulisse."],
       hu: ["Egész évben van benne víz.", "Homokdűnék veszik körül.", "Részben nádas borítja.", "Kontrasztos sivatagi háttér."],
       ro: ["Conține apă tot anul.", "Înconjurat de dune de nisip.", "Acoperit parțial de stuf.", "Cadru de deșert contrastant."],
-      en: ["Perennial water body.", "Surrounded by sand dunes.", "Partially covered by reeds.", "Contrasting desert backdrop."]
+      en: ["Perennial water body.", "Surrounded by sand dunes.", "Partially covered by reeds.", "Contrasting desert backdrop."],
+      es: ["Contiene agua durante todo el año.", "Rodeado de dunas de arena.", "Parcialmente cubierto de juncos.", "Escenario desértico de gran contraste."],
+      pt: ["Contém água durante todo o ano.", "Rodeado por dunas de areia.", "Parcialmente coberto por juncos.", "Cenário desértico de alto contraste."],
+      fr: ["En eau toute l'année.", "Entouré de dunes de sable.", "Partiellement recouvert de roseaux.", "Décor désertique contrasté."],
     }, image: "/poi-images/lake-katam-nature-v2.webp"},
   {
     id: "guelta-archei-nature-v2",
@@ -376,12 +460,18 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "A Guelta d'Archei egy ősi vizes élőhely és sziklamedence az északkelet-csádi Ennedi-fennsíkon. A Szahara egyik leghíresebb gueltájának tartják, amely a víz felhalmozódásával jött létre egy mély homokkő kanyonban. A helyszín arról nevezetes, hogy a nyugat-afrikai krokodil egyik utolsó fennmaradó élőhelye a Szaharában; ez egy reliktum populáció, amely azóta maradt fenn, amikor a régió még sokkal nedvesebb volt. A vizet körülvevő magasodó sziklák árnyékot adnak, jelentősen csökkentve a párolgást, és lehetővé téve, hogy a medence egész évben állandó maradjon. Évszázadok óta a guelta létfontosságú itatóhelyként szolgál a sivatagon átkelő nomád teveszállítmányok számára. A környező kanyonfalakat őskori sziklafestmények díszítik, amelyek közül néhány több ezer éves, szarvasmarhákat, emberi alakokat és különféle vadállatokat ábrázolva. Ezek a régészeti maradványok azt jelzik, hogy a terület a korai holocén óta lakott. Napjainkban a Guelta d'Archei az élet és a sivatag szélsőséges környezete közötti törékeny egyensúly szimbóluma.",
       ro: "Guelta d'Archei este o zonă umedă antică și un bazin de stâncă situat în Podișul Ennedi din nord-estul Ciadului. Este considerată una dintre cele mai faimoase guelte din Sahara, formată prin acumularea de apă într-un canion adânc de gresie. Situl este renumit pentru că este unul dintre ultimele habitate rămase pentru crocodilul vest-african din Sahara, o populație relictă care a supraviețuit de când regiunea era mult mai umedă. Stâncile impunătoare care înconjoară apa oferă umbră, reducând semnificativ evaporarea și permițând bazinului să rămână permanent pe tot parcursul anului. De secole, guelta a servit ca un punct vital de adăpare pentru caravanele nomade de cămile care traversează deșertul. Pereții canionului din jur sunt împodobiți cu picturi rupestre preistorice, unele datând de câteva mii de ani, înfățișând vite, figuri umane și diverse animale sălbatice. Aceste rămășițe arheologice indică faptul că zona a fost locuită de oameni încă din perioada Holocenului timpuriu. Astăzi, Guelta d'Archei este un simbol al echilibrului fragil dintre viață și mediul extrem al deșertului.",
       en: "Guelta d'Archei is an ancient wetland and rock pool situated within the Ennedi Plateau in northeastern Chad. It is widely considered one of the most famous gueltas in the Sahara, formed by water accumulation in a deep sandstone canyon. The site is renowned for being one of the last remaining habitats for the West African crocodile in the Sahara, a relict population that has survived since the region was much wetter. The towering cliffs surrounding the water provide shade, significantly reducing evaporation and allowing the pool to remain permanent throughout the year. For centuries, the guelta has served as a vital watering hole for nomadic camel caravans crossing the desert. The surrounding canyon walls are adorned with prehistoric rock paintings, some dating back several thousand years, depicting cattle, human figures, and various wild animals. These archaeological remains indicate that the area has been inhabited by humans since the early Holocene period. Today, Guelta d'Archei is a symbol of the fragile balance between life and the extreme environment of the desert.",
+      es: "La Guelta d'Archei es un cañón legendario en el Macizo de Ennedi y se considera uno de los lugares más dramáticos del Sahara. Aquí, en los sombríos desfiladeros rocosos, todavía sobreviven hoy en día raros cocodrilos del desierto, que representan una reliquia de un tiempo pasado. Durante siglos, la guelta ha servido a los nómadas como un abrevadero vital para sus caravanas de camellos que recorren las rutas comerciales por el desierto. Las altas paredes de arenisca y el agua oscura crean una atmósfera que hace palpables la historia y los secretos del Sahara.",
+      pt: "A Guelta d'Archei é um desfiladeiro lendário no Maciço de Ennedi e é considerado um dos locais mais dramáticos do Sahara. Aqui, nos desfiladeiros rochosos sombrios, ainda hoje sobrevivem crocodilos do deserto raros, que representam uma relíquia de um tempo passado. A guelta serve os nómadas há séculos como bebedouro crucial para as suas caravanas de camelos que atravessam as rotas comerciais pelo deserto. As paredes altas de arenito e a água escura criam uma atmosfera que torna a história e os segredos do Sahara percetíveis.",
+      fr: "La Guelta d'Archei est un canyon légendaire du massif de l'Ennedi, considéré comme l'un des lieux les plus spectaculaires du Sahara. Ici, dans les gorges rocheuses ombragées, survivent encore aujourd'hui de rares crocodiles du désert, vestiges d'une époque lointaine. La guelta sert depuis des siècles de point d'eau crucial pour les caravanes de chameaux des nomades qui traversent le désert par les routes commerciales. Les hautes parois de grès et l'eau sombre créent une atmosphère qui rend tangibles l'histoire et les mystères du Sahara.",
     },
     factsAdvanced: {
       de: ["Befindet sich tief im Inneren des Ennedi-Sandsteinplateaus.", "Beheimatet die weltweit letzten Wüstenkrokodile (Crocodylus suchus).", "Geformt durch massive, über 100 Meter hohe Sandsteinklippen.", "Enthält Felsmalereien aus der Zeit um 4.000 bis 5.000 v. Chr.", "Wichtigster Rastplatz für Kamelkarawanen in der Zentralsahara.", "Das Wasserbecken trocknet aufgrund der schattigen Lage nie aus."],
       hu: ["Mélyen az Ennedi homokkő fennsík belsejében található.", "A világ utolsó sivatagi krokodiljainak (Crocodylus suchus) otthona.", "Hatalmas, 100 méternél is magasabb homokkő sziklák alkotják.", "Kr. e. 4000 és 5000 közötti sziklafestményeket tartalmaz.", "A közép-szaharai tevekaravánok legfontosabb pihenőhelye.", "A vízmedence az árnyékos fekvés miatt soha nem szárad ki."],
       ro: ["Situată adânc în interiorul podișului de gresie Ennedi.", "Găzduiește ultimii crocodili de deșert din lume (Crocodylus suchus).", "Formată de stânci de gresie masive, înalte de peste 100 de metri.", "Conține picturi rupestre din perioada 4.000-5.000 î.Hr.", "Cel mai important loc de popas pentru caravanele de cămile din Sahara Centrală.", "Bazinul de apă nu seucă niciodată datorită poziției umbrite."],
       en: ["Located deep within the interior of the Ennedi sandstone plateau.", "Home to the world's last desert crocodiles (Crocodylus suchus).", "Formed by massive sandstone cliffs over 100 meters high.", "Contains rock art dating from 4,000 to 5,000 BC.", "Most important stopping point for camel caravans in the Central Sahara.", "The water pool never dries out due to its shaded location."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     
@@ -389,13 +479,19 @@ export const poiExtraChadNatureV2: POI[] = [
       de: "Einer der bekanntesten Guelta-Wasserlöcher in der Sahara, im Ennedi-Massiv.",
       hu: "A Szahara egyik legismertebb sziklamedencéje az Ennedi-hegységben.",
       ro: "Unul dintre cele mai faimoase puncte de apă din Sahara, în Masivul Ennedi.",
-      en: "One of the most famous gueltas (water holes) in the Sahara, in the Ennedi range."
+      en: "One of the most famous gueltas (water holes) in the Sahara, in the Ennedi range.",
+      es: "Uno de los pozos de agua guelta más famosos del Sahara, en el Macizo de Ennedi.",
+      pt: "Um dos poços de água guelta mais famosos do Sahara, no Maciço de Ennedi.",
+      fr: "L'un des points d'eau de type guelta les plus célèbres du Sahara, dans le massif de l'Ennedi.",
     },
     facts: {
       de: ["Rückzugsort für Krokodile.", "Wichtiger Tränkplatz für Kamele.", "Steile Sandsteinwände.", "Isoliertes Ökosystem."],
       hu: ["Krokodilok menedékhelye.", "Fontos itatóhely a tevéknek.", "Meredek homokkő falak.", "Elszigetelt ökoszisztéma."],
       ro: ["Refugiu pentru crocodili.", "Loc important de adăpat camilele.", "Pereți de gresie abrupți.", "Ecosistem izolat."],
-      en: ["Sanctuary for crocodiles.", "Vital watering hole for camels.", "Sheer sandstone cliffs.", "Isolated ecosystem."]
+      en: ["Sanctuary for crocodiles.", "Vital watering hole for camels.", "Sheer sandstone cliffs.", "Isolated ecosystem."],
+      es: ["Refugio para cocodrilos.", "Importante lugar de abrevadero para camellos.", "Paredes escarpadas de arenisca.", "Ecosistema aislado."],
+      pt: ["Refúgio para crocodilos.", "Importante bebedouro para camelos.", "Paredes de arenito íngremes.", "Ecossistema isolado."],
+      fr: ["Refuge pour les crocodiles.", "Point d'eau important pour les chameaux.", "Parois de grès abruptes.", "Écosystème isolé."],
     }, image: "/poi-images/guelta-archei-nature-v2.webp"},
   {
     id: "bahr-salamat-nature-v2",
@@ -413,12 +509,18 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "A Bahr Salamat egy jelentős időszakos folyórendszer, amely Csád délkeleti részén folyik keresztül, végül a Chari folyóba torkollik. A szudáni Dárfúr régió felvidékeiről és a Közép-afrikai Köztársaságból ered, mielőtt átszelné a Salamat régió hatalmas síkságait. A folyó a Zakouma Nemzeti Park elsődleges hidrológiai ere, biztosítva az Afrika egyik legsikeresebb vadonélő-állomány helyreállításának fenntartásához szükséges vizet. Az esős évszakban a Bahr Salamat kilép a medréből, kiterjedt ártereket hozva létre, amelyek tápanyagokban gazdagok és magas szintű biológiai sokféleséget támogatnak. Ezek az időszakos vizes élőhelyek kritikusak a különféle halfajok szaporodása szempontjából, és fészkelőhelyet biztosítanak számos vízimadárnak. A száraz évszakban a folyó megszűnik folyni, egy sor állandó tavacskát hagyva maga után, amelyek mágnesként vonzzák az elefántokat, zsiráfokat és oroszlánokat. A helyi emberi populációk is függenek a folyó ciklusától, legyen szó ártéri mezőgazdaságról vagy az állatállomány itatásáról. A Bahr Salamat vízkészleteinek kezelése elengedhetetlen mind a régió ökológiai egészsége, mind emberek ezreinek megélhetése szempontjából.",
       ro: "Bahr Salamat este un sistem fluvial sezonier major care curge prin sud-estul Ciadului, alăturându-se în cele din urmă râului Chari. Acesta provine din zonele înalte ale regiunii Darfur din Sudan și din Republica Centrafricană înainte de a traversa câmpiile vaste ale regiunii Salamat. Râul este artera hidrologică primară pentru Parcul Național Zakouma, furnizând apa necesară pentru a susține una dintre cele mai de succes recuperări ale faunei sălbatice din Africa. În timpul sezonului ploios, Bahr Salamat se revarsă peste maluri, creând câmpii inundabile extinse care sunt bogate în nutrienți și susțin niveluri ridicate de biodiversitate. Aceste zone umede sezoniere sunt critice pentru reproducerea diverselor specii de pești și oferă locuri de cuibărit pentru numeroase păsări de apă. În sezonul uscat, râul încetează să mai curgă, lăsând în urmă o serie de bălți permanente care devin magneți pentru elefanți, girafe și lei. Populațiile umane locale depind, de asemenea, de ciclul râului pentru agricultura de recesiune și adăparea vitelor. Gestionarea resurselor de apă ale Bahr Salamat este esențială atât pentru sănătatea ecologică a regiunii, cât și pentru mijloacele de trai ale mii de oameni.",
       en: "Bahr Salamat is a major seasonal river system that flows through southeastern Chad, eventually joining the Chari River. It originates in the highlands of the Darfur region in Sudan and the Central African Republic before traversing the vast plains of the Salamat Region. The river is the primary hydrological artery for the Zakouma National Park, providing the water necessary to sustain one of Africa's most successful wildlife recoveries. During the rainy season, the Bahr Salamat overflows its banks, creating extensive floodplains that are rich in nutrients and support high levels of biodiversity. These seasonal wetlands are critical for the reproduction of various fish species and provide breeding grounds for numerous waterbirds. In the dry season, the river ceases to flow, leaving behind a series of permanent pools that become magnets for elephants, giraffes, and lions. The local human populations also depend on the river's cycle for recession agriculture and livestock watering. The management of the Bahr Salamat's water resources is essential for both the ecological health of the region and the livelihoods of thousands of people.",
+      es: "El Bahr Salamat es el alma del ecosistema del Parque Nacional Zakouma y una arteria hídrica estacional crucial. Con sus extensas llanuras aluviales, crea condiciones ideales para la vida silvestre que encuentra refugio en esta región durante los meses más secos. Los movimientos estacionales del agua del Bahr Salamat son la base de la biodiversidad de Zakouma, proporcionando alimento y agua. Los paisajes de las riberas del Salamat son un ejemplo esencial de la interacción entre la dinámica del río y la gestión de la vida silvestre.",
+      pt: "O Bahr Salamat é a força vital do ecossistema do Parque Nacional de Zakouma e uma artéria de água sazonal crucial. Com as suas extensas planícies de inundação, cria condições ideais para a vida selvagem que encontra refúgio nesta região durante os meses mais secos. Os movimentos sazonais de água do Bahr Salamat são a base para a biodiversidade de Zakouma, pois fornecem alimento e água. As paisagens de várzea do Salamat são um exemplo essencial da interação entre a dinâmica fluvial e a gestão da vida selvagem.",
+      fr: "Le Bahr Salamat est le cœur de l'écosystème du parc national de Zakouma et une artère d'eau saisonnière cruciale. Avec ses vastes zones inondables, il crée des conditions idéales pour la faune qui trouve refuge dans cette région pendant les mois les plus secs. Les mouvements saisonniers des eaux du Bahr Salamat sont le fondement de la biodiversité de Zakouma, car ils fournissent nourriture et abreuvement. Les paysages de plaines alluviales du Salamat sont un exemple essentiel de l'interaction entre la dynamique fluviale et la gestion de la faune.",
     },
     factsAdvanced: {
       de: ["Dient als lebenswichtige Wasserquelle für den Zakouma-Nationalpark.", "Mündet nach seinem Verlauf in den Schari-Fluss ein.", "Schafft während der Regenzeit riesige, nährstoffreiche Überschwemmungsgebiete.", "Wichtiger Migrationskorridor für die afrikanische Elefantenpopulation.", "Entspringt in den Bergregionen des Sudan und der ZAR.", "Das Flussbett trocknet saisonal bis auf einzelne Tümpel aus."],
       hu: ["A Zakouma Nemzeti Park létfontosságú vízforrásaként szolgál.", "Útja végén a Chari folyóba torkollik.", "Az esős évszakban hatalmas, tápanyagban gazdag ártereket hoz létre.", "Az afrikai elefántpopuláció fontos vándorlási útvonala.", "Szudán és a Közép-afrikai Köztársaság hegyvidéki régióiból ered.", "A folyómeder szezonálisan kiszárad, csak néhány tavacska marad."],
       ro: ["Servește ca sursă vitală de apă pentru Parcul Național Zakouma.", "Se varsă în râul Chari la finalul cursului său.", "Creează câmpii inundabile vaste și bogate în nutrienți în sezonul ploios.", "Coridor de migrație important pentru populația de elefanți africani.", "Izvorăște din regiunile muntoase ale Sudanului și R.C.A.", "Albia râului seucă sezonier, lăsând în urmă doar bălți izolate."],
       en: ["Serves as a vital water source for the Zakouma National Park.", "Joins the Chari River at the end of its course.", "Creates vast, nutrient-rich floodplains during the wet season.", "Important migration corridor for the African elephant population.", "Originates in the mountainous regions of Sudan and the CAR.", "The riverbed dries up seasonally, leaving only isolated pools."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     
@@ -426,13 +528,19 @@ export const poiExtraChadNatureV2: POI[] = [
       de: "Ein saisonaler Fluss im Südosten, der durch den Zakouma-Nationalpark fließt.",
       hu: "Szezonális folyó délkeleten, amely a Zakouma Nemzeti Parkon folyik át.",
       ro: "Un râu sezonier în sud-est, care traversează Parcul Național Zakouma.",
-      en: "A seasonal river in the southeast that flows through Zakouma National Park."
+      en: "A seasonal river in the southeast that flows through Zakouma National Park.",
+      es: "Un río estacional en el sureste que fluye a través del Parque Nacional Zakouma.",
+      pt: "Um rio sazonal no sudeste que flui através do Parque Nacional de Zakouma.",
+      fr: "Une rivière saisonnière du sud-est qui traverse le parc national de Zakouma.",
     },
     facts: {
       de: ["Mündet in den Schari.", "Lebensader für Wildtiere.", "Bildet ausgedehnte Auen.", "Wichtig für die Landwirtschaft."],
       hu: ["A Chari folyóba ömlik.", "A vadvilág életereje.", "Kiterjedt ártereket alkot.", "Fontos a mezőgazdaság számára."],
       ro: ["Se varsă în râul Chari.", "Sursă de viață pentru fauna sălbatică.", "Formează lunci întinse.", "Important pentru agricultură."],
-      en: ["Flows into the Chari River.", "Lifeline for wildlife.", "Forms extensive floodplains.", "Crucial for local farming."]
+      en: ["Flows into the Chari River.", "Lifeline for wildlife.", "Forms extensive floodplains.", "Crucial for local farming."],
+      es: ["Desemboca en el Chari.", "Vital para la vida silvestre.", "Forma extensas llanuras aluviales.", "Importante para la agricultura."],
+      pt: ["Desagua no Chari.", "Linha de vida para os animais selvagens.", "Forma extensas várzeas.", "Importante para a agricultura."],
+      fr: ["Se jette dans le Chari.", "Source de vie pour la faune sauvage.", "Forme de vastes plaines inondables.", "Important pour l'agriculture."],
     }, image: "/poi-images/bahr-salamat-nature-v2.webp"},
   {
     id: "bahr-aouk-nature-v2",
@@ -450,12 +558,18 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "A Bahr Aouk egy jelentős folyó, amely Csád és a Közép-afrikai Köztársaság közötti nemzetközi határ egy részét alkotja. Keletről nyugat felé folyik, és a Chari folyórendszer egyik fő mellékfolyója, amely végül a Csád-tavat táplálja. A folyómedencét hatalmas, szezonálisan elárasztott síkságok jellemzik, amelyek a monszun idején több ezer négyzetkilométert fednek le. Ez a terület nemzetközi jelentőségű RAMSAR-helyszínként elismert, mivel menedékhelyül szolgál a változatos élővilág számára, beleértve a vándormadarak és vízi emlősök nagy populációit. A Bahr Aouk régió különösen híres gazdag halállományáról, amely mindkét határos ország helyi közösségeit támogatja. Azonban a terület távoli jellege kihívásokat jelent a természeti erőforrások ellenőrzése és védelme szempontjából. A Bahr Aouk áradási ciklusa meghatározó tényező az egész déli Csád-medence ökológiája szempontjából, befolyásolva a vegetációs mintákat és az állatok vándorlását. E határokon átnyúló folyórendszer megőrzésére irányuló erőfeszítések kulcsfontosságúak a regionális környezeti stabilitás és a biológiai sokféleség fenntartásához.",
       ro: "Bahr Aouk este un râu semnificativ care formează o parte a graniței internaționale dintre Ciad și Republica Centrafricană. Acesta curge de la est la vest și este un afluent major al sistemului râului Chari, care alimentează în cele din urmă Lacul Ciad. Bazinul râului este caracterizat de câmpii inundabile vaste, inundate sezonier, care acoperă mii de kilometri pătrați în timpul perioadei musonice. Această zonă este recunoscută ca sit RAMSAR de importanță internațională datorită rolului său de sanctuar pentru diverse animale sălbatice, inclusiv populații mari de păsări migratoare și mamifere acvatice. Regiunea Bahr Aouk este deosebit de faimoasă pentru bogăția sa piscicolă, care susține comunitățile locale din ambele țări limitrofe. Cu toate acestea, zona este cunoscută și pentru izolarea sa și provocările asociate cu monitorizarea și protejarea resurselor sale naturale. Ciclul de inundații al Bahr Aouk este un factor determinant pentru ecologia întregului bazin sudic al Ciadului, influențând modelele de vegetație și migrațiile animalelor. Eforturile de conservare a acestui sistem fluvial transfrontalier sunt cruciale pentru menținerea stabilității mediului regional și a biodiversității.",
       en: "The Bahr Aouk is a significant river that forms a portion of the international border between Chad and the Central African Republic. It flows from east to west and is a major tributary of the Chari River system, which ultimately feeds into Lake Chad. The river basin is characterized by vast, seasonally inundated floodplains that cover thousands of square kilometers during the monsoon period. This area is recognized as a RAMSAR site of international importance due to its role as a sanctuary for diverse wildlife, including large populations of migratory birds and aquatic mammals. The Bahr Aouk region is particularly famous for its rich fishery, which supports local communities in both bordering countries. However, the area is also known for its remoteness and the challenges associated with monitoring and protecting its natural resources. The flood cycle of the Bahr Aouk is a determining factor for the ecology of the entire southern Chad basin, influencing vegetation patterns and animal migrations. Efforts to conserve this transboundary river system are crucial for maintaining the regional environmental stability and biodiversity.",
+      es: "El Bahr Aouk forma una frontera natural y es una corriente caudalosa que fluye profundamente a través de las remotas sabanas húmedas del sur. Su ubicación remota garantiza que los ecosistemas fluviales permanezcan prácticamente intactos y en un estado natural. La diversidad de especies de peces y la exuberante vegetación ribereña convierten al Bahr Aouk en un amortiguador importante para el equilibrio ecológico en esta región fronteriza. Debido al difícil acceso, el río es un refugio para muchas especies de vida silvestre esquivas.",
+      pt: "O Bahr Aouk forma uma fronteira natural e é um rio rico em água que flui profundamente através das savanas húmidas remotas no sul. A sua localização remota garante que os ecossistemas fluviais permaneçam em grande parte intocados e num estado natural. A diversidade de espécies de peixes e a vegetação ribeirinha exuberante fazem do Bahr Aouk um tampão importante para o equilíbrio ecológico nesta região fronteiriça. Devido ao acesso difícil, o rio é um refúgio para muitas espécies de vida selvagem esquivas.",
+      fr: "Le Bahr Aouk forme une frontière naturelle et constitue un cours d'eau abondant qui traverse les savanes humides reculées du sud. Son isolement garantit que les écosystèmes fluviaux y sont restés largement intacts et dans un état naturel. La diversité des espèces de poissons et la végétation riveraine luxuriante font du Bahr Aouk un tampon important pour l'équilibre écologique de cette région frontalière. En raison de son accès difficile, la rivière est un refuge pour de nombreuses espèces sauvages craintives.",
     },
     factsAdvanced: {
       de: ["Bildet einen natürlichen Grenzverlauf zwischen dem Tschad und der ZAR.", "Offiziell als RAMSAR-Feuchtgebiet von internationalem Rang anerkannt.", "Wichtiger linker Zufluss des Schari-Flusssystems.", "Beheimatet eine der höchsten Dichten an Süßwasserfischen der Region.", "Überflutet während der Regenzeit mehrere tausend Quadratkilometer Land.", "Dient als kritisches Rückzugsgebiet für bedrohte Wassersäugetiere."],
       hu: ["Természetes határvonalat képez Csád és a Közép-afrikai Köztársaság között.", "Hivatalosan elismert nemzetközi jelentőségű RAMSAR vizes élőhely.", "A Chari folyórendszer fontos bal oldali mellékfolyója.", "A régió egyik legnagyobb édesvízi halsűrűségével rendelkezik.", "Az esős évszakban több ezer négyzetkilométernyi területet áraszt el.", "Kritikus menedékhelyként szolgál a veszélyeztetett vízi emlősök számára."],
       ro: ["Formează o graniță naturală între Ciad și Republica Centrafricană.", "Recunoscut oficial ca zonă umedă RAMSAR de rang internațional.", "Afluent important de stânga al sistemului râului Chari.", "Găzduiește una dintre cele mai mari densități de pești de apă dulce.", "Inundă mii de kilometri pătrați de teren în timpul sezonului ploios.", "Servește ca refugiu critic pentru mamiferele acvatice amenințate."],
       en: ["Forms a natural border line between Chad and the CAR.", "Officially recognized as a RAMSAR wetland of international importance.", "Important left-bank tributary of the Chari River system.", "Home to one of the highest densities of freshwater fish in the region.", "Floods several thousand square kilometers of land during the wet season.", "Serves as a critical refuge for endangered aquatic mammals."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     
@@ -463,13 +577,19 @@ export const poiExtraChadNatureV2: POI[] = [
       de: "Ein Grenzfluss zwischen dem Tschad und der Zentralafrikanischen Republik.",
       hu: "Határfolyó Csád és a Közép-afrikai Köztársaság között.",
       ro: "Un râu de frontieră între Ciad și Republica Centrafricană.",
-      en: "A border river between Chad and the Central African Republic."
+      en: "A border river between Chad and the Central African Republic.",
+      es: "Un río fronterizo entre el Chad y la República Centroafricana.",
+      pt: "Um rio fronteiriço entre o Chade e a República Centro-Africana.",
+      fr: "Une rivière frontalière entre le Tchad et la République centrafricaine.",
     },
     facts: {
       de: ["Teil des Schari-Beckens.", "Fischreiche Gewässer.", "Umgeben von Feuchtsavannen.", "Schwer zugängliche Region."],
       hu: ["A Chari-medence része.", "Halakban gazdag vizek.", "Nedves szavannák veszik körül.", "Nehezen hozzáférhető régió."],
       ro: ["Parte a bazinului Chari.", "Ape bogate în pește.", "Înconjurat de savane umede.", "Regiune greu accesibilă."],
-      en: ["Part of the Chari basin.", "Rich in fish species.", "Surrounded by wet savannas.", "Remote and difficult to access."]
+      en: ["Part of the Chari basin.", "Rich in fish species.", "Surrounded by wet savannas.", "Remote and difficult to access."],
+      es: ["Parte de la cuenca del Chari.", "Aguas ricas en peces.", "Rodeado de sabanas húmedas.", "Región de difícil acceso."],
+      pt: ["Parte da bacia do Chari.", "Águas ricas em peixe.", "Cercado por savanas húmidas.", "Região de difícil acesso."],
+      fr: ["Fait partie du bassin du Chari.", "Eaux riches en poissons.", "Entouré de savanes humides.", "Région difficile d'accès."],
     }, image: "/poi-images/bahr-aouk-nature-v2.webp"},
   {
     id: "bahr-keita-nature-v2",
@@ -487,12 +607,18 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "A Bahr Keita egy időszakos folyórendszer Csád középső részén, pontosabban a Batha és Guéra régiókban. A Száhel-övezet belső vízelvezető rendszerének része, ahol a víz csak a július és szeptember közötti rövid, de intenzív esős évszakban folyik. Ez idő alatt a folyó életre kelti a száraz tájat, lehetővé téve a hagyományos növények, például a cirok és a köles termesztését a partjai mentén lerakódott termékeny iszapban. A folyó végül időszakos mocsarakba és kis tavakba torkollik, amelyek fontos élőhelyül szolgálnak a helyi és vándormadárfajok számára. A száraz hónapokban a folyómeder létfontosságú szállítási útvonalként és talajvízforrásként szolgál a nomád pásztorok számára, akik sekély kutakat ásnak, hogy elérjék a felszín alatti vízszintet. A Bahr Keita a száheli 'vádik' klasszikus példája, ahol az egész helyi gazdaság és ökoszisztéma szinkronban van a trópusi esőzések kiszámíthatatlan mintáival. Kezelése egyre fontosabbá válik, mivel a régió a sivatagosodás és a változó éghajlati feltételek kihívásaival néz szembe Közép-Afrikában.",
       ro: "Bahr Keita este un sistem fluvial intermitent situat în partea centrală a Ciadului, în special în regiunile Batha și Guéra. Face parte din sistemul de drenaj interior al Sahelului, unde apa curge doar în timpul sezonului ploios scurt, dar intens, între iulie și septembrie. În acest timp, râul aduce viață peisajului arid, permițând cultivarea culturilor tradiționale, cum ar fi sorgul și meiul, în mâlul fertil lăsat de-a lungul malurilor sale. Râul se varsă în cele din urmă într-o serie de mlaștini sezoniere și lacuri mici, care servesc drept habitate importante pentru speciile de păsări locale și migratoare. În lunile uscate, albia râului servește ca rută de transport vitală și sursă de apă subterană pentru păstorii nomazi care sapă fântâni puțin adânce pentru a ajunge la pânza freatică de dedesubt. Bahr Keita este un exemplu clasic de 'wadi' sahelian, unde întreaga economie și ecosistem local sunt sincronizate cu modelele neregulate ale precipitațiilor tropicale. Gestionarea sa este din ce în ce mai importantă, deoarece regiunea se confruntă cu provocările deșertificării și condițiilor climatice fluctuante din Africa Centrală.",
       en: "Bahr Keita is an intermittent river system located in the central part of Chad, specifically within the Batha and Guéra regions. It is part of the inland drainage system of the Sahel, where water flows only during the brief but intense rainy season between July and September. During this time, the river brings life to the arid landscape, allowing for the cultivation of traditional crops such as sorghum and millet in the fertile silt left along its banks. The river eventually drains into a series of seasonal marshes and small lakes, which serve as important habitats for local and migratory bird species. In the dry months, the riverbed serves as a vital transportation route and a source of groundwater for nomadic herders who dig shallow wells to reach the underlying water table. Bahr Keita is a classic example of a Sahelian 'wadi,' where the entire local economy and ecosystem are synchronized with the erratic patterns of tropical rainfall. Its management is increasingly important as the region faces the challenges of desertification and fluctuating climate conditions in Central Africa.",
+      es: "El Bahr Keïta es un afluente en la cuenca del Salamat que sirve como una fuente de agua vital, especialmente durante la temporada de lluvias. Sostiene la compleja red de cursos de agua que atraviesan las sabanas del sureste. Durante la estación seca, sirve como refugio para los rebaños de ganado y es indispensable para la economía nómada de la región. Su papel como arteria hídrica en la cuenca del Salamat subraya la dependencia de la economía local de la dinámica estacional del río.",
+      pt: "O Bahr Keïta é um afluente na bacia do Salamat que serve como uma fonte de água importante, especialmente na época das chuvas. Sustenta a complexa rede de cursos de água que atravessam as savanas do sudeste. Durante a época seca, serve como refúgio para rebanhos de gado e é insubstituível para a economia nómada da região. O seu papel como artéria hídrica na bacia do Salamat sublinha a dependência da economia local das dinâmicas sazonais dos rios.",
+      fr: "Le Bahr Keïta est un affluent du bassin du Salamat qui sert de source d'eau cruciale, particulièrement pendant la saison des pluies. Il soutient le réseau complexe de cours d'eau qui parcourent les savanes du sud-est. Pendant la saison sèche, il sert de refuge aux troupeaux de bétail et est indispensable à l'économie nomade de la région. Son rôle d'artère fluviale dans le bassin du Salamat souligne la dépendance de l'économie locale vis-à-vis de la dynamique saisonnière des rivières.",
     },
     factsAdvanced: {
       de: ["Verläuft durch die zentraltschadischen Regionen Batha und Guéra.", "Fließt nur während der Hauptregenzeit von Juli bis September.", "Der fruchtbare Flussschlamm ermöglicht den Anbau von Sorghum.", "Typisches Beispiel für ein saisonales Wadi-System im Sahel.", "Wichtiger Transitweg für Handelskarawanen in der Trockenzeit.", "Dient als primäre Wasserquelle für das Vieh der Nomaden."],
       hu: ["A közép-csádi Batha és Guéra régiókon keresztül halad át.", "Csak a júliustól szeptemberig tartó fő esős évszakban folyik.", "A termékeny folyami iszap lehetővé teszi a cirok termesztését.", "A száheli időszakos vádi-rendszerek tipikus példája.", "A száraz évszakban a kereskedelmi karavánok fontos tranzitútvonala.", "A nomádok állatállományának elsődleges vízforrásaként szolgál."],
       ro: ["Traversează regiunile Batha și Guéra din centrul Ciadului.", "Curge doar în timpul sezonului ploios principal, din iulie până în septembrie.", "Mâlul fertil al râului permite cultivarea sorgului pe maluri.", "Exemplu tipic de sistem de wadi sezonier din zona Sahelului.", "Rută importantă de tranzit pentru caravane în sezonul uscat.", "Servește ca sursă primară de apă pentru vitele nomazilor."],
       en: ["Passes through the central Chadian regions of Batha and Guéra.", "Flows only during the main rainy season from July to September.", "The fertile river silt allows for the cultivation of sorghum.", "Typical example of a seasonal wadi system in the Sahel.", "Important transit route for trade caravans during the dry season.", "Serves as the primary water source for nomadic livestock."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     
@@ -500,13 +626,19 @@ export const poiExtraChadNatureV2: POI[] = [
       de: "Ein wichtiger Nebenfluss im Salamat-Becken.",
       hu: "Fontos mellékfolyó a Salamat-medencében.",
       ro: "Un afluent important în bazinul Salamat.",
-      en: "An important tributary in the Salamat basin."
+      en: "An important tributary in the Salamat basin.",
+      es: "Un importante afluente en la cuenca del Salamat.",
+      pt: "Um importante afluente na bacia do Salamat.",
+      fr: "Un affluent important dans le bassin du Salamat.",
     },
     facts: {
       de: ["Führt hauptsächlich in der Regenzeit Wasser.", "Unterstützt lokale Ökosysteme.", "Mündet in den Salamat.", "Wichtiger Viehtränkplatz."],
       hu: ["Főleg az esős évszakban van benne víz.", "Helyi ökoszisztémákat támogat.", "A Salamat folyóba ömlik.", "Fontos itatóhely az állatoknak."],
       ro: ["Are apă în principal în sezonul ploios.", "Susține ecosistemele locale.", "Se varsă în râul Salamat.", "Loc important de adăpat."],
-      en: ["Flows mainly in the rainy season.", "Supports local ecosystems.", "Tributary of the Salamat river.", "Important for watering livestock."]
+      en: ["Flows mainly in the rainy season.", "Supports local ecosystems.", "Tributary of the Salamat river.", "Important for watering livestock."],
+      es: ["Lleva agua principalmente en la temporada de lluvias.", "Sostiene los ecosistemas locales.", "Desemboca en el Salamat.", "Importante lugar de abrevadero para el ganado."],
+      pt: ["Transporta água principalmente na época das chuvas.", "Sustenta os ecossistemas locais.", "Desagua no Salamat.", "Importante bebedouro para o gado."],
+      fr: ["Contient de l'eau principalement pendant la saison des pluies.", "Soutient les écosystèmes locaux.", "Se jette dans le Salamat.", "Point d'eau important pour le bétail."],
     }, image: "/poi-images/bahr-keita-nature-v2.webp"},
   {
     id: "mayo-kebbi-nature-v2",
@@ -524,12 +656,18 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "A Mayo Kébbi egy jelentős folyó Csád délnyugati részén, amely egyedülálló szerepet játszik az afrikai hidrológiai térképen. Ez a Csád-medence azon kevés folyóinak egyike, amely történelmileg összeköttetést biztosított az Atlanti-óceánnal a Benue és a Niger folyókon keresztül. A folyó egy sor tavon halad át, köztük a Léré-tavon és a Tréné-tavon, amelyek tengeritehén-populációikról és változatos halfajaikról ismertek. Futása mentén az egyik leglátványosabb képződmény a Gauthiot-vízesés, ahol a folyó sziklás lépcsők sorozatán zúdul le. A Mayo Kébbi völgye termelékeny mezőgazdasági régió, támogatva a Csád gazdasága szempontjából központi jelentőségű gyapot- és rizstermesztést. A folyó elősegíti a Csád és Észak-Kamerun közötti regionális kereskedelmet is, folyosóként szolgálva az áruk és az emberek mozgásához. Geológiailag a Mayo Kébbi egy ősi rift-rendszert követ, völgye pedig fontos nyomokkal szolgál a régió tektonikai történetével kapcsolatban. Napjainkban a folyó továbbra is létfontosságú erőforrás a vízierőmű-potenciál és a nagyszabású öntözési projektek számára az ország délnyugati részén.",
       ro: "Mayo Kébbi este un râu semnificativ în sud-vestul Ciadului, care joacă un rol unic pe harta hidrologică a Africii. Este unul dintre puținele râuri din bazinul Ciadului care, istoric, a oferit o conexiune cu Oceanul Atlantic prin râurile Benue și Niger. Râul curge printr-o serie de lacuri, inclusiv Lacul Léré și Lacul Tréné, care sunt cunoscute pentru populațiile lor de manati și speciile diverse de pești. Una dintre cele mai spectaculoase caracteristici de-a lungul cursului său sunt Cascadele Gauthiot, unde râul se prăbușește peste o serie de trepte stâncoase. Valea Mayo Kébbi este o regiune agricolă productivă, susținând cultivarea bumbacului și a orezului, care sunt centrale pentru economia ciadiană. Râul facilitează, de asemenea, comerțul regional între Ciad și nordul Camerunului, servind ca un coridor pentru mișcarea bunurilor și a oamenilor. Din punct de vedere geologic, Mayo Kébbi urmează un sistem de rift antic, iar valea sa oferă indicii importante despre istoria tectonică a regiunii. Astăzi, râul rămâne o resursă vitală pentru potențialul hidroelectric și proiectele de irigații la scară largă în partea de sud-vest a țării.",
       en: "Mayo Kébbi is a significant river in southwestern Chad that plays a unique role in the African hydrological map. It is one of the few rivers in the Chad Basin that historically provided a connection to the Atlantic Ocean via the Benue and Niger rivers. The river flows through a series of lakes, including Lake Léré and Lake Tréné, which are known for their populations of manatees and diverse fish species. One of the most spectacular features along its course is the Gauthiot Falls, where the river plunges over a series of rocky steps. The Mayo Kébbi valley is a productive agricultural region, supporting the cultivation of cotton and rice, which are central to the Chadian economy. The river also facilitates regional trade between Chad and northern Cameroon, serving as a corridor for the movement of goods and people. Geologically, the Mayo Kébbi follows an ancient rift system, and its valley provides important clues about the tectonic history of the region. Today, the river remains a vital resource for hydroelectric potential and large-scale irrigation projects in the southwestern part of the country.",
+      es: "El sistema del Mayo Kébbi es una red hidrológica fascinante en el suroeste que conecta lagos con el vecino sistema del Benue. Conocido por sus escénicas cascadas, este río es un punto crítico para la biodiversidad y un ejemplo de la interconexión de diferentes sistemas hídricos en África Central. Las fluctuaciones estacionales del nivel del agua marcan la vida de las personas y la agricultura local por igual. El Mayo Kébbi es una región que muestra cómo los sistemas ecológicos interactúan a través de las fronteras nacionales.",
+      pt: "O sistema do Mayo Kébbi é uma rede hidrológica fascinante no sudoeste que liga lagos com o vizinho sistema do Benue. Conhecido pelas suas cascatas cénicas, este rio é um ponto fulcral para a biodiversidade e um exemplo da interligação de diferentes sistemas hídricos na África Central. As flutuações sazonais do nível da água moldam a vida das pessoas e a agricultura local da mesma forma. O Mayo Kébbi é uma região que mostra como os sistemas ecológicos interagem através das fronteiras nacionais.",
+      fr: "Le système du Mayo Kébbi est un réseau hydrologique fascinant dans le sud-ouest qui relie les lacs au système voisin de la Bénoué. Connu pour ses chutes d'eau pittoresques, ce fleuve est un point chaud pour la biodiversité et un exemple de l'interconnexion de différents systèmes aquatiques en Afrique centrale. Les variations saisonnières du niveau de l'eau façonnent la vie des populations et l'agriculture locale. Le Mayo Kébbi est une région qui montre comment les systèmes écologiques interagissent par-delà les frontières nationales.",
     },
     factsAdvanced: {
       de: ["Verbindet das tschadische Binnenland mit dem Niger-Benue-System.", "Die Gauthiot-Fälle sind ein markantes geologisches Merkmal.", "Beheimatet seltene afrikanische Seekühe in den Léré-Seen.", "Das Tal ist das Hauptanbaugebiet für Baumwolle im Tschad.", "Der Fluss bildet die Grundlage für regionale Handelswege nach Kamerun.", "Folgt dem Verlauf eines prähistorischen Grabensystems."],
       hu: ["Összeköti a csádi szárazföldet a Niger-Benue folyórendszerrel.", "A Gauthiot-vízesés a folyó egyik legfontosabb geológiai látványossága.", "Ritka afrikai tengeritehenek élnek a Léré-tavak területén.", "A völgy Csád legfontosabb gyapottermesztő vidéke.", "A folyó a Kamerun felé irányuló kereskedelmi utak alapját képezi.", "Egy prehisztorikus rift-völgy vonalát követi."],
       ro: ["Conectează interiorul Ciadului cu sistemul fluvial Niger-Benue.", "Cascadele Gauthiot sunt o trăsătură geologică proeminentă.", "Găzduiește manati africani rari în zona lacurilor Léré.", "Valea este principala regiune producătoare de bumbac din Ciad.", "Râul formează baza rutelor comerciale regionale către Camerun.", "Urmează cursul unui sistem de rift preistoric."],
       en: ["Connects the Chadian interior with the Niger-Benue river system.", "The Gauthiot Falls are a prominent geological feature of the river.", "Home to rare African manatees in the Lake Léré area.", "The valley is the primary cotton-growing region in Chad.", "The river forms the basis for regional trade routes to Cameroon.", "Follows the path of a prehistoric rift system."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     
@@ -537,13 +675,19 @@ export const poiExtraChadNatureV2: POI[] = [
       de: "Ein Fluss im Südwesten, der den Léré-See entwässert.",
       hu: "Folyó délnyugaton, amely a Léré-tavat csapolja le.",
       ro: "Un râu în sud-vest care drenează Lacul Léré.",
-      en: "A river in the southwest that drains Lake Léré."
+      en: "A river in the southwest that drains Lake Léré.",
+      es: "Un río en el suroeste que drena el Lago Léré.",
+      pt: "Um rio no sudoeste que drena o Lago Léré.",
+      fr: "Une rivière au sud-ouest qui draine le lac Léré.",
     },
     facts: {
       de: ["Teil des Niger-Flusssystems.", "Bekannt für seine Wasserfälle.", "Verbindet Seen mit dem Benue.", "Bedeutend für Biodiversität."],
       hu: ["A Niger folyórendszer része.", "Vízeséseiről ismert.", "Összeköti a tavakat a Benuéval.", "Jelentős a biodiverzitás számára."],
       ro: ["Parte a sistemului râului Niger.", "Cunoscut pentru cascadele sale.", "Conectează lacurile cu râul Benue.", "Semnificativ pentru biodiversitate."],
-      en: ["Part of the Niger river system.", "Known for its waterfalls.", "Connects lakes with the Benue river.", "Significant for biodiversity."]
+      en: ["Part of the Niger river system.", "Known for its waterfalls.", "Connects lakes with the Benue river.", "Significant for biodiversity."],
+      es: ["Parte del sistema del río Níger.", "Conocido por sus cascadas.", "Conecta lagos con el Benue.", "Significativo para la biodiversidad."],
+      pt: ["Parte do sistema do rio Níger.", "Conhecido pelas suas cascatas.", "Liga lagos ao Benue.", "Significativo para a biodiversidade."],
+      fr: ["Fait partie du système du Niger.", "Connu pour ses chutes d'eau.", "Relie les lacs à la Bénoué.", "Important pour la biodiversité."],
     }, image: "/poi-images/mayo-kebbi-nature-v2.webp"},
   {
     id: "lake-lere-nature-v2",
@@ -561,12 +705,17 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "A Léré-tó Csád délnyugati részén, a Mayo-Kebbi Ouest régióban található, és a Niger-medence egyik meghatározó állóvize. A tó felszíne körülbelül 135 négyzetkilométer, és a szomszédos Trené-tóval együtt egy komplex vizes élőhelyet alkot, amely kulcsfontosságú a régió biodiverzitása szempontjából. 2005-ben a területet RAMSAR-területté nyilvánították, nemzetközi jelentőségű vizes élőhelyként ismerve el ökológiai szerepét. A tó legismertebb lakója az afrikai manátusz, amelynek ez az egyik legfontosabb természetes élőhelye Közép-Afrikában. A tó vízszintje jelentősen ingadozik az évszakok váltakozásával, a Mayo Kébbi folyó áradásai töltik fel rendszeresen, biztosítva a környék mezőgazdaságának és halászatának alapjait. A környező tájra a galériaerdők és a mocsaras partszakaszok jellemzőek, amelyek számos vándormadár számára kínálnak pihenőhelyet a Száhel-övezet déli peremén.",
       ro: "Lacul Léré este situat în regiunea Mayo-Kebbi Ouest din sud-vestul Ciadului, reprezentând o componentă vitală a bazinului hidrografic al fluviului Niger. Acesta acoperă o suprafață de aproximativ 135 de kilometri pătrați și, împreună cu lacul Trené aflat în proximitate, formează un ecosistem acvatic complex de o importanță ecologică majoră. În anul 2005, zona a fost desemnată sit RAMSAR, confirmându-i statutul de zonă umedă de importanță internațională pentru conservarea biodiversității. Lacul este renumit în special pentru populația de lamantini africani care trăiesc în apele sale puțin adânci, fiind unul dintre puținele habitate sigure pentru această specie în interiorul continentului. Din punct de vedere geologic, lacul ocupă o depresiune alimentată periodic de râul Mayo Kébbi, susținând activitățile de pescuit și agricultură ale populațiilor locale. Malurile sale sunt bordate de păduri-galerie și vegetație de mlaștină, oferind condiții ideale pentru numeroase specii de păsări acvatice.",
       en: "Lake Léré is located in the Mayo-Kebbi Ouest region of southwestern Chad and serves as a significant inland water body within the Niger River basin. It covers an area of approximately 135 square kilometers and, together with the neighboring Lake Trené, forms an ecologically valuable wetland system. Since 2005, the area has been recognized as a RAMSAR site of international importance, providing a crucial habitat for various endangered species. Notably, it is one of the few places in Central Africa where the West African manatee can still be found in significant numbers. Geologically, the lake sits in a depression fed by the Mayo Kébbi River, playing a vital role in local fisheries and supporting the agricultural needs of the surrounding communities. The shoreline vegetation consists primarily of gallery forests and extensive reed beds, which offer ideal nesting conditions for a wide variety of migratory and resident waterbirds.",
+      es: "El Lago Léré, en el suroeste de Chad, es un refugio de agua dulce único, conocido sobre todo por su población de manatíes africanos. En el entorno rico en agua del Mayo-Kebbi, el lago es un paraíso para las aves y un recurso crucial para la pesca de la población local. La importancia ecológica del Lago Léré radica en su capacidad para proporcionar un hábitat permanente para mamíferos acuáticos raros, lo cual tiene un valor excepcional en esta región. Una visita al lago ofrece una visión fascinante de un paisaje natural dominado por el agua.",
+      pt: "O Lago Léré, no sudoeste do Chade, é um refúgio de água doce único, conhecido sobretudo pela sua população de peixes-boi-africanos. No ambiente rico em água do Mayo-Kebbi, o lago é um paraíso para as aves e um recurso crucial para a pesca da população local. A importância ecológica do Lago Léré reside na sua capacidade de proporcionar um habitat permanente para mamíferos aquáticos raros, o que tem um valor excecional nesta região. Uma visita ao lago oferece uma visão fascinante de uma paisagem natural dominada pela água.",
+      fr: "Le lac Léré, au sud-ouest du Tchad, est un refuge d'eau douce unique, connu surtout pour sa population de lamantins d'Afrique. Dans l'environnement riche en eau du Mayo-Kebbi, le lac est un paradis pour les oiseaux et une ressource cruciale pour la pêche de la population locale. L'importance écologique du lac Léré réside dans sa capacité à offrir un habitat permanent à de rares mammifères aquatiques, ce qui est exceptionnel dans cette région. Une visite au lac offre un aperçu fascinant d'un paysage naturel tourné vers l'eau.",
     },
     factsAdvanced: {
       de: ["Fläche: ca. 135 km²", "Region: Mayo-Kebbi Ouest", "RAMSAR-Status seit 2005", "Vorkommen: Afrikanischer Manati", "Höhe: 231 m ü. d. M.", "Abfluss: Über den Mayo Kébbi zum Benue"],
       hu: ["Felszíne: kb. 135 km²", "Régió: Mayo-Kebbi Ouest", "2005-től RAMSAR-terület", "Kiemelt faj: Afrikai manátusz", "Tengerszint feletti magasság: 231 m", "Vízgyűjtő: Niger-folyó rendszere"],
       ro: ["Suprafață: aprox. 135 km²", "Regiune: Mayo-Kebbi Ouest", "Sit RAMSAR din anul 2005", "Specie protejată: Lamantinul african", "Altitudine: 231 metri", "Bazin hidrografic: Niger/Benue"],
       en: ["Surface area: approx. 135 km²", "Region: Mayo-Kebbi Ouest", "RAMSAR site since 2005", "Key species: West African manatee", "Elevation: 231 meters", "Drainage: Via Mayo Kébbi to Benue River"],
+      pt: [],
+      fr: [],
     },
     
     
@@ -574,13 +723,19 @@ export const poiExtraChadNatureV2: POI[] = [
       de: "Der Léré-See ist ein flacher Süßwassersee im Südwesten des Tschad. Er ist für Fische, Vögel und die lokale Versorgung wichtig.",
       hu: "Sekély tó Csád délnyugati részén, lamantinokról ismert.",
       ro: "Un lac puțin adânc în sud-vestul Ciadului, cunoscut pentru manati.",
-      en: "A shallow lake in southwestern Chad, famous for its manatees."
+      en: "A shallow lake in southwestern Chad, famous for its manatees.",
+      es: "El Lago Léré es un lago de agua dulce poco profundo en el suroeste de Chad, importante para los peces, las aves y el suministro local.",
+      pt: "O Lago Léré é um lago de água doce raso no sudoeste do Chade, importante para os peixes, as aves e o abastecimento local.",
+      fr: "Le lac Léré est un lac d'eau douce peu profond au sud-ouest du Tchad, important pour les poissons, les oiseaux et l'approvisionnement local.",
     },
     facts: {
       de: ["Südwestlicher Süßwassersee", "Wichtig für den Fischfang", "Lebensraum für Vögel", "Teil des Mayo-Kebbi-Systems"],
       hu: ["Lamantinok otthona.", "Halakban gazdag víz.", "Fontos határtó Kamerun felé.", "Madárparadicsom."],
       ro: ["Casa lamantinilor.", "Ape bogate în pește.", "Lac de frontieră important cu Camerun.", "Paradis al păsărilor."],
-      en: ["Home to African manatees.", "Rich in fish resources.", "Major border lake near Cameroon.", "Birdwatcher's paradise."]
+      en: ["Home to African manatees.", "Rich in fish resources.", "Major border lake near Cameroon.", "Birdwatcher's paradise."],
+      es: ["Lago de agua dulce del suroeste.", "Importante para la pesca.", "Hábitat para aves.", "Parte del sistema Mayo-Kebbi."],
+      pt: ["Lago de água doce do sudoeste.", "Importante para a pesca.", "Habitat para aves.", "Parte do sistema Mayo-Kebbi."],
+      fr: ["Lac d'eau douce du sud-ouest.", "Important pour la pêche.", "Habitat pour les oiseaux.", "Fait partie du système Mayo-Kebbi."],
     }, image: "/poi-images/lake-lere-nature-v2.webp"},
   {
     id: "lake-trene-nature-v2",
@@ -598,12 +753,18 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "A Trené-tó egy kisebb, de ökológiailag kiemelkedő jelentőségű állóvíz Csád délnyugati részén, a Mayo-Kebbi Ouest régióban. Közvetlenül a nagyobb Léré-tó szomszédságában helyezkedik el, amellyel csatornák és mocsaras területek hálózata köti össze, egy egységes hidrológiai rendszert alkotva. Ez a tó is részét képezi a 2005-ben kijelölt nemzetközi jelentőségű RAMSAR-vizesélőhelynek, védelmet nyújtva olyan ritka fajoknak, mint az afrikai manátusz és különféle krokodilfajok. A tó környékét szavannás táj jellemzi, amely a vízparthoz közeledve sűrű, vizenyős növényzetbe megy át. A helyi közösségek számára a tó elengedhetetlen erőforrás, különösen a hagyományos halászat és az állattenyésztés szempontjából a száraz évszak idején. A tó biodiverzitását tovább növeli a számos vándormadár, amelyek pihenőhelyként használják a vizet az afrikai kontinensen átívelő vonulásuk során, különösen a téli hónapokban.",
       ro: "Lacul Trené este o întindere de apă mai mică, dar la fel de importantă din punct de vedere ecologic, situată în regiunea Mayo-Kebbi Ouest din sud-vestul Ciadului. Acesta se află în imediata vecinătate a lacului Léré, fiind conectat cu acesta printr-un sistem complex de canale și zone mlăștinoase, formând împreună o unitate hidrologică indivizibilă. Ca parte a sitului RAMSAR desemnat în 2005, lacul Trené oferă un refugiu critic pentru specii periclitate, inclusiv lamantinul african și diverse specii de crocodili. Peisajul înconjurător este dominat de savană, care devine luxuriantă în apropierea apei, susținând o diversitate mare de faună și floră. Pentru populația locală, lacul reprezintă o resursă vitală pentru pescuitul artizanal și pentru adăparea vitelor în perioadele de secetă extremă. Importanța sa ornitologică este de asemenea remarcabilă, servind ca punct de oprire pentru numeroase păsări migratoare care traversează regiunea Sahelului.",
       en: "Lake Trené is a smaller but ecologically vital water body located in the Mayo-Kebbi Ouest region of southwestern Chad. Situated adjacent to the larger Lake Léré, it is linked to it through a network of channels and marshes, creating a unified hydrological system. The lake is an integral part of the RAMSAR wetland area established in 2005, serving as a critical sanctuary for endangered species such as the West African manatee and various crocodiles. The surrounding terrain is characterized by savanna landscapes that transition into dense wetland vegetation near the shores. For local communities, the lake is an indispensable resource, particularly for artisanal fishing and providing water for livestock during the harsh dry seasons. Its biodiversity is further enhanced by numerous species of migratory birds that utilize the lake as a strategic stopover point during their long-distance flights across the African continent.",
+      es: "El Lago Trené es un vecino idílico del Lago Léré que completa la flora rica en agua de la cuenca del Mayo-Kebbi. Con su agua clara y su exuberante vegetación ribereña, ofrece un contrapunto tranquilo a las vías fluviales más concurridas de los alrededores. Como parte del ecosistema del Mayo-Kebbi, es indispensable para la pesca local y la preservación de la biodiversidad. La belleza del Lago Trené reside en su estado virgen, que lo convierte en una joya del paisaje natural en el suroeste de Chad.",
+      pt: "O Lago Trené é um vizinho idílico do Lago Léré que completa a flora rica em água da bacia do Mayo-Kebbi. Com a sua água límpida e a vegetação ribeirinha exuberante, oferece um contraponto tranquilo às vias navegáveis mais movimentadas dos arredores. Como parte do ecossistema do Mayo-Kebbi, é indispensável para a pesca local e para a preservação da biodiversidade. A beleza do Lago Trené reside no seu estado virgem, que o torna uma joia da paisagem natural no sudoeste do Chade.",
+      fr: "Le lac Trené est un voisin idyllique du lac Léré qui complète la flore aquatique du bassin du Mayo-Kebbi. Avec son eau claire et sa végétation riveraine luxuriante, il offre un contrepoint tranquille aux voies navigables plus fréquentées des environs. En tant que partie de l'écosystème du Mayo-Kebbi, il est indispensable à la pêche locale et à la préservation de la biodiversité. La beauté du lac Trené réside dans son caractère intact, qui en fait un joyau du paysage naturel du sud-ouest du Tchad.",
     },
     factsAdvanced: {
       de: ["Lage: Mayo-Kebbi Ouest", "Schutzstatus: RAMSAR-Gebiet", "Verbundenheit: Mit dem Léré-See", "Fauna: Afrikanischer Manati", "Nutzung: Traditionelle Fischerei", "Vogelwelt: Wichtiger Rastplatz für Zugvögel"],
       hu: ["Elhelyezkedés: Mayo-Kebbi Ouest", "Védelmi státusz: RAMSAR-terület", "Kapcsolat: Összeköttetésben a Léré-tóval", "Állatvilág: Afrikai manátusz élőhelye", "Gazdaság: Kézműves halászat", "Madárvilág: Jelentős vándormadár-pihenőhely"],
       ro: ["Locație: Mayo-Kebbi Ouest", "Statut: Protejat prin Convenția RAMSAR", "Conexiune: Legat de Lacul Léré", "Faună: Habitat pentru lamantini", "Economie: Pescuit tradițional local", "Ornitologie: Punct de staționare pentru migrație"],
       en: ["Location: Mayo-Kebbi Ouest region", "Conservation: RAMSAR wetland site", "Connectivity: Linked to Lake Léré", "Wildlife: Habitat for African manatees", "Livelihood: Essential for artisanal fishing", "Ornithology: Key stopover for migratory birds"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     
@@ -611,13 +772,19 @@ export const poiExtraChadNatureV2: POI[] = [
       de: "Ein Nachbarsee des Léré-Sees im Mayo-Kebbi-Gebiet.",
       hu: "A Léré-tó szomszédja a Mayo-Kebbi területen.",
       ro: "Un lac vecin cu Lacul Léré în zona Mayo-Kebbi.",
-      en: "A neighboring lake to Lake Léré in the Mayo-Kebbi area."
+      en: "A neighboring lake to Lake Léré in the Mayo-Kebbi area.",
+      es: "Un lago vecino del Lago Léré en la zona de Mayo-Kebbi.",
+      pt: "Um lago vizinho do Lago Léré na zona de Mayo-Kebbi.",
+      fr: "Un lac voisin du lac Léré dans la région de Mayo-Kebbi.",
     },
     facts: {
       de: ["Süßwasserökosystem.", "Wichtig für lokale Fischerei.", "Schöne Ufervegetation.", "Teil des Mayo Kébbi Beckens."],
       hu: ["Édesvízi ökoszisztéma.", "Fontos a helyi halászatnak.", "Szép parti vegetáció.", "A Mayo Kébbi-medence része."],
       ro: ["Ecosistem de apă dulce.", "Important pentru pescuitul local.", "Vegetație de mal frumoasă.", "Parte a bazinului Mayo Kébbi."],
-      en: ["Freshwater ecosystem.", "Crucial for local fishing.", "Lush shoreline vegetation.", "Part of the Mayo Kébbi basin."]
+      en: ["Freshwater ecosystem.", "Crucial for local fishing.", "Lush shoreline vegetation.", "Part of the Mayo Kébbi basin."],
+      es: ["Ecosistema de agua dulce.", "Importante para la pesca local.", "Hermosa vegetación ribereña.", "Parte de la cuenca del Mayo Kébbi."],
+      pt: ["Ecossistema de água doce.", "Importante para a pesca local.", "Bela vegetação ribeirinha.", "Parte da bacia do Mayo Kébbi."],
+      fr: ["Écosystème d'eau douce.", "Important pour la pêche locale.", "Belle végétation riveraine.", "Fait partie du bassin du Mayo Kébbi."],
     }, image: "/poi-images/lake-trene-nature-v2.webp"},
   {
     id: "pic-tousside-nature-v2",
@@ -635,12 +802,18 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "A Pic Toussidé 3265 méteres magasságával a csádi Tibesti-hegység egyik leglátványosabb és legmagasabb csúcsa. Ez az aktív vulkán a Toussidé-masszívum nyugati részén helyezkedik el, és messziről felismerhető sötét, bazaltos lávakupolájáról, amely éles kontrasztban áll a környező világosabb kőzetekkel. Geológiai szempontból egy rétegvulkánról van szó, amelynek aktivitását a csúcson és az oldalakon ma is működő fumarolák (gőz- és gázkitörések) jelzik. A csúcs közvetlen közelében található a híres 'Trou au Natron', egy hatalmas, 8 kilométer átmérőjű kaldera, amelynek alját vakítóan fehér nátrium-karbonát lerakódások fedik. A Toussidé megmászása a Szahara egyik legnehezebb, de leglátványosabb túrájának számít, lenyűgöző panorámát nyújtva a Tibesti holdbéli tájaira. A vulkáni talaj a szélsőséges szárazság ellenére is otthont ad néhány speciális növényfajnak, amelyek alkalmazkodtak a ritka csapadékhoz és a nagy hőingadozáshoz.",
       ro: "Pic Toussidé, cu o altitudine de 3265 de metri, este unul dintre cele mai impresionante și active vârfuri vulcanice din Munții Tibesti, situați în nordul Ciadului. Acest vulcan face parte din masivul Toussidé și se distinge prin cupola sa de lavă întunecată, care contrastează puternic cu rocile sedimentare mai deschise la culoare din jur. Din punct de vedere geologic, este un stratovulcan care prezintă activitate reziduală sub formă de fumarole active pe vârf și pe versanți, indicând prezența magmei la mică adâncime. În vecinătatea sa se află spectaculoasa depresiune 'Trou au Natron', o calderă masivă cu un diametru de aproximativ 8 kilometri, al cărei fund este acoperit de depuneri albe de carbonat de sodiu. Ascensiunea pe Pic Toussidé este considerată una dintre cele mai dificile provocări din deșertul Sahara, oferind în schimb vederi panoramice unice asupra peisajului vulcanic arid. Regiunea este esențială pentru cercetarea geologică a evoluției magmatice în nordul Africii.",
       en: "Pic Toussidé, reaching an elevation of 3,265 meters, is one of the most prominent and active volcanic peaks in the Tibesti Mountains of northern Chad. This volcano forms the western part of the Toussidé massif and is easily identifiable by its dark, basaltic lava dome, which stands in stark contrast to the lighter-colored surrounding terrain. Geologically, it is a stratovolcano that still exhibits signs of activity through active fumaroles located at its summit and along its slopes. Nearby lies the spectacular 'Trou au Natron', a massive caldera approximately 8 kilometers in diameter, with a floor covered in bright white sodium carbonate deposits. Climbing Pic Toussidé is regarded as one of the most challenging expeditions in the Sahara, offering unparalleled views of the Tibesti's surreal volcanic landscape. Despite the extreme arid conditions, the volcanic soils support specialized flora adapted to low rainfall and high temperature fluctuations, making the area a unique site for geological and botanical study.",
+      es: "El Pic Toussidé es una cumbre volcánica prominente en las montañas Tibesti, cuya forma define la geología salvaje del norte. Como el volcán más joven de todo el grupo Tibesti, ofrece a investigadores y aventureros visiones fascinantes de la historia volcánica del Sahara. Los flancos empinados de la cima y las fumarolas activas subrayan la energía geológica que aún persiste. El ascenso al Toussidé se ve recompensado con una vista espectacular sobre el macizo del Tibesti.",
+      pt: "O Pic Toussidé é um cume vulcânico proeminente nas montanhas Tibesti, cuja forma define a geologia selvagem do norte. Sendo o vulcão mais jovem de todo o grupo Tibesti, oferece a investigadores e aventureiros visões fascinantes da história vulcânica do Sara. Os flancos íngremes do cume e as fumarolas activas sublinham a energia geológica ainda presente. A subida ao Toussidé é recompensada com uma vista espectacular sobre o maciço do Tibesti.",
+      fr: "Le Pic Toussidé est un sommet volcanique remarquable du massif du Tibesti, dont la silhouette marque la géologie sauvage du nord. En tant que volcan le plus jeune de tout le groupe du Tibesti, il offre aux chercheurs et aux aventuriers des aperçus fascinants de l'histoire volcanique du Sahara. Les flancs escarpés du sommet et les fumerolles actives soulignent l'énergie géologique toujours présente. L'ascension du Toussidé est récompensée par une vue spectaculaire sur le massif du Tibesti.",
     },
     factsAdvanced: {
       de: ["Höhe: 3265 m", "Gebirge: Tibesti", "Vulkantyp: Aktiver Schichtvulkan", "Merkmal: Schwarze Lavakuppe", "Nachbarschaft: Trou au Natron (Caldera)", "Aktivität: Sichtbare Fumarolen"],
       hu: ["Magasság: 3265 m", "Hegység: Tibesti", "Típus: Aktív rétegvulkán", "Jellemző: Sötét lávakupola", "Látnivaló: Trou au Natron kaldera", "Aktivitás: Aktív fumarolák"],
       ro: ["Altitudine: 3265 m", "Munți: Tibesti", "Tip: Stratovulcan activ", "Caracteristică: Cupolă de lavă neagră", "Atracție: Caldera Trou au Natron", "Activitate: Fumarole active"],
       en: ["Elevation: 3,265 m", "Range: Tibesti Mountains", "Type: Active stratovolcano", "Feature: Dark basaltic lava dome", "Proximity: Near Trou au Natron caldera", "Signs of life: Active fumaroles present"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     
@@ -648,13 +821,19 @@ export const poiExtraChadNatureV2: POI[] = [
       de: "Ein markanter Vulkankegel im Tibesti-Gebirge.",
       hu: "Jellegzetes vulkáni kúp a Tibeszti-hegységben.",
       ro: "Un con vulcanic proeminent în munții Tibesti.",
-      en: "A prominent volcanic cone in the Tibesti Mountains."
+      en: "A prominent volcanic cone in the Tibesti Mountains.",
+      es: "Un cono volcánico prominente en las montañas Tibesti.",
+      pt: "Um cone vulcânico proeminente nas montanhas Tibesti.",
+      fr: "Un cône volcanique remarquable dans le massif du Tibesti.",
     },
     facts: {
       de: ["3.265 Meter hoch.", "Jüngster Vulkan im Tibesti.", "Bekannt für Fumarolen.", "Steile Gipfelflanken."],
       hu: ["3265 méter magas.", "A legfiatalabb vulkán a Tibesztiben.", "Fumaroláiról ismert.", "Meredek csúcsoldalak."],
       ro: ["3.265 metri înălțime.", "Cel mai tânăr vulcan din Tibesti.", "Cunoscut pentru fumarole.", "Pante de vârf abrupte."],
-      en: ["3,265 meters high.", "Youngest volcano in Tibesti.", "Known for its fumaroles.", "Steep summit slopes."]
+      en: ["3,265 meters high.", "Youngest volcano in Tibesti.", "Known for its fumaroles.", "Steep summit slopes."],
+      es: ["3.265 metros de altura.", "Volcán más joven del Tibesti.", "Conocido por las fumarolas.", "Flancos de la cumbre empinados."],
+      pt: ["3.265 metros de altura.", "Vulcão mais jovem do Tibesti.", "Conhecido pelas fumarolas.", "Flancos do cume íngremes."],
+      fr: ["3 265 mètres de haut.", "Plus jeune volcan du Tibesti.", "Connu pour ses fumerolles.", "Flancs du sommet escarpés."],
     }, image: "/poi-images/pic-tousside-nature-v2.webp"},
   {
     id: "tarso-voon-nature-v2",
@@ -672,12 +851,18 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "A Tarso Voon egy hatalmas vulkáni fennsík a csádi Tibesti-hegység központi részén, amelynek legmagasabb pontja eléri a 3100 métert. A vulkán legfontosabb jellemzője a monumentális kalderája, amelynek méretei körülbelül 14-szer 18 kilométeresek, és egy korábbi hatalmas kitörés során bekövetkezett beomlás eredményeként jött létre. A kaldera belseje viszonylag sík, negyedidőszaki lávafolyások és vulkáni törmelék borítja. A Tarso Voon világszerte ismert a nyugati peremén található Soborom geotermikus mezőről, ahol forró források, iszapfortyogók és fumarolák tanúskodnak a mélyben zajló vulkáni folyamatokról. Ezeket a gyógyhatású hévizeket a helyi tubu nomádok évszázadok óta használják különféle betegségek kezelésére. A táj vad szépsége, a mély szurdokok és a meredek kráterfalak a Szahara egyik geológiailag legérdekesebb területévé teszik. A növényzet gyér, főként szívós fűfélékre és cserjékre korlátozódik, amelyek a kaldera védettebb zugaiban maradnak életben.",
       ro: "Tarso Voon este un platou vulcanic masiv situat în partea centrală a Munților Tibesti din nordul Ciadului, atingând o altitudine de aproximativ 3100 de metri. Caracteristica definitorie a acestui complex vulcanic este marea sa calderă, cu dimensiuni impresionante de aproximativ 14 pe 18 kilometri, formată prin prăbușirea vârfului în urma unor erupții preistorice masive. Interiorul calderei este relativ plat, fiind acoperit de fluxuri de lavă cuaternară și depozite piroclastice variate. Tarso Voon este renumit în special pentru câmpul geotermal Soborom, situat pe flancul său vestic, unde izvoarele termale, bazinele cu noroi bolborositor și fumarolele indică o activitate magmatică persistentă. Aceste fenomene hidrotermale au fost utilizate de secole de nomazii Tubu pentru proprietățile lor curative. Peisajul dramatic, cu pereți abrupți și formațiuni vulcanice bizare, oferă o fereastră unică către forțele geologice care au modelat Sahara centrală, reprezentând un punct de interes major pentru vulcanologi.",
       en: "Tarso Voon is a massive volcanic highland in the central Tibesti Mountains of northern Chad, reaching an altitude of approximately 3,100 meters. The most striking feature of this volcano is its enormous summit caldera, measuring roughly 14 by 18 kilometers, formed by a prehistoric structural collapse following immense eruptions. The floor of the caldera is relatively level, covered by quaternary lava flows and various pyroclastic deposits. Tarso Voon is internationally recognized for the Soborom geothermal field on its western flank, where hot springs, mud pots, and fumaroles provide evidence of ongoing magmatic activity beneath the surface. These thermal springs have been used for centuries by the local Tubu nomads for their medicinal properties. The rugged beauty of the terrain, characterized by deep ravines and steep crater walls, makes it one of the most geologically fascinating sites in the Sahara. Vegetation is sparse, consisting mainly of hardy grasses and shrubs that cling to the sheltered areas within the caldera.",
+      es: "El macizo volcánico de Tarso Voon es un gigante geológico en Tibesti, conocido por su extensa caldera y sus fuentes termales. Estas fuentes de agua caliente son un fenómeno poco común en el entorno desértico y han servido históricamente como puntos de referencia vitales para humanos y animales. Los flujos de basalto que rodean el macizo crean un paisaje monumental que documenta el pasado volcánico de Chad. Tarso Voon es un lugar donde la historia geológica de Tibesti se puede experimentar de una manera impresionante. Geografía K8 — Sistemas volcánicos.",
+      pt: "O maciço vulcânico de Tarso Voon é um peso pesado geológico no Tibesti, conhecido pela sua vasta caldeira e fontes termais. Estas fontes de água quente são um fenómeno raro no ambiente desértico e servem desde há muito como pontos de ancoragem importantes para humanos e animais. Os fluxos de basalto que rodeiam o maciço formam uma paisagem monumental que documenta o passado vulcânico do Chade. Tarso Voon é um local onde a história geológica do Tibesti pode ser vivida de forma impressionante. Geografia K8 — Sistemas vulcânicos.",
+      fr: "Le massif volcanique du Tarso Voon est un poids lourd géologique du Tibesti, réputé pour sa vaste caldeira et ses sources thermales. Ces sources d'eau chaude sont un phénomène rare dans cet environnement désertique et servent depuis toujours de points d'ancrage essentiels pour l'homme et la faune. Les coulées de basalte qui entourent le massif forment un paysage monumental témoignant du passé volcanique du Tchad. Le Tarso Voon est un lieu où l'histoire géologique du Tibesti se découvre de manière impressionnante. Géographie K8 — Systèmes volcaniques.",
     },
     factsAdvanced: {
       de: ["Höhe: ca. 3100 m", "Caldera-Größe: 14 x 18 km", "Geothermie: Soborom-Heißquellen", "Gebirge: Tibesti", "Vulkanismus: Quartäre Lavaströme", "Besonderheit: Medizinische Nutzung durch Tubu"],
       hu: ["Magasság: kb. 3100 m", "Kaldera mérete: 14 x 18 km", "Geotermikus mező: Soborom", "Hegység: Tibesti", "Kőzet: Negyedidőszaki láva", "Helyi kultúra: Tubu gyógyhely"],
       ro: ["Altitudine: aprox. 3100 m", "Dimensiuni calderă: 14 x 18 km", "Fenomene: Câmpul geotermal Soborom", "Munți: Tibesti", "Geologie: Fluxuri de lavă cuaternară", "Utilizare: Izvoare curative pentru tribul Tubu"],
       en: ["Elevation: approx. 3,100 m", "Caldera dimensions: 14 x 18 km", "Geothermal field: Soborom springs", "Range: Central Tibesti", "Geology: Quaternary lava flows", "Cultural fact: Traditional Tubu medicinal site"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     
@@ -685,13 +870,19 @@ export const poiExtraChadNatureV2: POI[] = [
       de: "Ein großes vulkanisches Massiv mit einer weiten Kaldera.",
       hu: "Hatalmas vulkáni masszívum széles kalderával.",
       ro: "Un masiv vulcanic mare cu o calderă vastă.",
-      en: "A large volcanic massif with a wide caldera."
+      en: "A large volcanic massif with a wide caldera.",
+      es: "Un gran macizo volcánico con una amplia caldera.",
+      pt: "Um grande maciço vulcânico com uma vasta caldeira.",
+      fr: "Un vaste massif volcanique doté d'une large caldeira.",
     },
     facts: {
       de: ["Umfasst Thermalquellen.", "Zahlreiche Basaltströme.", "3.100 Meter hoch.", "Teil des Tibesti-Zentrums."],
       hu: ["Hévízforrásokat tartalmaz.", "Számos bazaltfolyam.", "3100 méter magas.", "A Tibeszti központjának része."],
       ro: ["Include izvoare termale.", "Numeroase fluxuri de bazalt.", "3.100 metri înălțime.", "Parte a centrului Tibesti."],
-      en: ["Features thermal springs.", "Numerous basalt flows.", "3,100 meters high.", "Part of the central Tibesti."]
+      en: ["Features thermal springs.", "Numerous basalt flows.", "3,100 meters high.", "Part of the central Tibesti."],
+      es: ["Incluye fuentes termales.", "Numerosos flujos de basalto.", "3.100 metros de altura.", "Parte del centro de Tibesti."],
+      pt: ["Inclui fontes termais.", "Numerosos fluxos de basalto.", "3.100 metros de altura.", "Parte do centro de Tibesti."],
+      fr: ["Comprend des sources thermales.", "Nombreuses coulées de basalte.", "3 100 mètres d'altitude.", "Fait partie du centre du Tibesti."],
     }, image: "/poi-images/tarso-voon-nature-v2.webp"},
   {
     id: "tarso-toh-nature-v2",
@@ -709,12 +900,18 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "A Tarso Toh egy kiterjedt vulkáni fennsík a csádi Tibesti-hegység északnyugati részén, amely vulkanikus formáinak rendkívüli sűrűségével tűnik ki. Ellentétben a Tibesti más nagy kalderáival, a Tarso Toh-t salakkúpok, maar-vulkánok és lávafolyások hatalmas mezője jellemzi, amelyek bizarr és barátságtalan tájat alkotnak. Legmagasabb pontjai körülbelül 2000 méterrel magasodnak a tengerszint fölé. Geológiailag viszonylag fiatal területről van szó, ahol a vulkáni képződmények nagy része a negyedidőszakból származik. A régió maarjai gyakran szabályos kör alakú mélyedések, amelyek gőzrobbanások révén jöttek létre, és a múltban időszakosan kis tavaknak adtak otthont. Ma a kráterek alján található fehér üledékrétegek tanúskodnak a Szahara történetének ezen nedvesebb korszakairól. A Tarso Toh értékes betekintést nyújt a tudósoknak a vulkáni kitörési mechanizmusok változatosságába szélsőségesen száraz körülmények között. A fennsík magányossága és monumentális méretei a központi Szahara egyik rejtett természeti csodájává teszik a területet.",
       ro: "Tarso Toh este un platou vulcanic vast situat în nord-vestul Munților Tibesti din Ciad, remarcându-se prin densitatea excepțională a formelor sale vulcanice. Spre deosebire de marile caldere ale altor vulcani din Tibesti, Tarso Toh este caracterizat de un câmp extins de conuri de zgură, maaruri și fluxuri de lavă, care creează un peisaj bizar și inospitalier. Cele mai înalte puncte ating aproximativ 2000 de metri deasupra nivelului mării. Din punct de vedere geologic, zona este relativ tânără, majoritatea structurilor vulcanice datând din perioada cuaternară. Maarurile din această regiune sunt adesea depresiuni circulare formate prin explozii freatomagmatice, care în trecut au adăpostit temporar lacuri mici. Astăzi, depozitele de sedimente albe de pe fundul acestor cratere stau mărturie pentru perioadele mai umede din istoria Saharei. Tarso Toh oferă cercetătorilor date valoroase despre diversitatea mecanismelor de erupție vulcanică în condiții de ariditate extremă. Izolarea și dimensiunile monumentale ale platoului îl transformă într-o minune naturală ascunsă a Saharei centrale.",
       en: "Tarso Toh is an extensive volcanic highland in the northwestern Tibesti Mountains of Chad, distinguished by an extraordinary density of volcanic landforms. Unlike the massive single calderas found elsewhere in the Tibesti, Tarso Toh is characterized by a vast field of scoria cones, maars, and lava flows that create a bizarre and desolate landscape. Its highest elevations reach approximately 2,000 meters above sea level. Geologically, the area is relatively young, with most volcanic structures dating back to the Quaternary period. The maars in this region are often perfect circular depressions formed by phreatomagmatic explosions, which in the past periodically held small lakes. Today, white sedimentary deposits on the floors of these craters serve as evidence of these wetter periods in Saharan history. Tarso Toh provides scientists with crucial insights into the variety of volcanic eruption mechanisms under extreme arid conditions. The solitude and monumental scale of the highland make it one of the hidden natural wonders of the central Sahara.",
+      es: "La meseta del Tarso Toh es una extensa llanura volcánica que destaca por su ubicación aislada y su geología especial. Los amplios campos de lava y los numerosos conos volcánicos crean un paisaje lunar que es único en su tipo en el Sahara central. Aquí reina un silencio absoluto, solo interrumpido por los rudos vientos del desierto. El aislamiento de Tarso Toh es su característica especial, lo que lo convierte en uno de los destinos más fascinantes para geólogos y aventureros.",
+      pt: "O planalto do Tarso Toh é uma vasta planície vulcânica que se destaca pela sua localização isolada e pela sua geologia especial. Os vastos campos de lava e os numerosos cones vulcânicos criam uma paisagem lunar única no seu género no Sara central. Aqui reina um silêncio absoluto, apenas interrompido pelos ventos ásperos do deserto. O isolamento de Tarso Toh é a sua característica especial, tornando-o um dos destinos mais fascinantes para geólogos e aventureiros.",
+      fr: "Le plateau du Tarso Toh est une vaste plaine volcanique qui séduit par son isolement et sa géologie particulière. Les vastes champs de lave et les nombreux cônes volcaniques créent un paysage lunaire unique en son genre dans le Sahara central. Un silence absolu y règne, seulement interrompu par les vents rudes du désert. L'isolement du Tarso Toh est sa caractéristique principale, ce qui en fait l'une des destinations les plus fascinantes pour les géologues et les aventuriers.",
     },
     factsAdvanced: {
       de: ["Lage: Nordwest-Tibesti", "Höhe: bis zu 2000 m", "Vulkanformen: Schlackenkegel und Maare", "Geologie: Quartärer Vulkanismus", "Besonderheit: Hohe Dichte an Kratern", "Klima: Extrem arid (Wüste)"],
       hu: ["Elhelyezkedés: Északnyugat-Tibesti", "Magasság: max. 2000 m", "Formakincs: Salakkúpok és maarok", "Kor: Negyedidőszaki képződmények", "Jellemző: Sűrű krátermező", "Környezet: Szélsőségesen száraz sivatag"],
       ro: ["Locație: Nord-vestul Munților Tibesti", "Altitudine: până la 2000 m", "Formațiuni: Conuri de zgură și maaruri", "Era geologică: Cuaternar", "Caracteristică: Densitate mare de cratere", "Climat: Ariditate extremă"],
       en: ["Location: NW Tibesti Mountains", "Elevation: up to 2,000 m", "Landforms: Scoria cones and maars", "Geological age: Quaternary period", "Key feature: High density of volcanic vents", "Climate: Hyper-arid desert environment"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     
@@ -722,13 +919,19 @@ export const poiExtraChadNatureV2: POI[] = [
       de: "Ein vulkanisches Hochland im nördlichen Tibesti.",
       hu: "Vulkáni fennsík az északi Tibesztiben.",
       ro: "Un podiș vulcanic în nordul munților Tibesti.",
-      en: "A volcanic highland in the northern Tibesti."
+      en: "A volcanic highland in the northern Tibesti.",
+      es: "Una meseta volcánica en el norte del Tibesti.",
+      pt: "Um planalto vulcânico no norte do Tibesti.",
+      fr: "Un haut plateau volcanique dans le nord du Tibesti.",
     },
     facts: {
       de: ["Weite Lavaebenen.", "Zahlreiche Vulkankegel.", "Isolierte Lage.", "Markante Geologie."],
       hu: ["Széles lávamezők.", "Számos vulkáni kúp.", "Elszigetelt elhelyezkedés.", "Jellegzetes geológia."],
       ro: ["Câmpii vaste de lavă.", "Numeroase conuri vulcanice.", "Locație izolată.", "Geologie distinctivă."],
-      en: ["Vast lava plains.", "Numerous volcanic cones.", "Isolated location.", "Distinctive geology."]
+      en: ["Vast lava plains.", "Numerous volcanic cones.", "Isolated location.", "Distinctive geology."],
+      es: ["Amplias llanuras de lava.", "Numerosos conos volcánicos.", "Ubicación aislada.", "Geología prominente."],
+      pt: ["Vastas planícies de lava.", "Numerosos cones vulcânicos.", "Localização isolada.", "Geologia proeminente."],
+      fr: ["Vastes plaines de lave.", "Nombreux cônes volcaniques.", "Situation isolée.", "Géologie remarquable."],
     }, image: "/poi-images/tarso-toh-nature-v2.webp"},
   {
     id: "bikku-bitti-nature-v2",
@@ -752,19 +955,27 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: ["Magasság: 2267 m", "Rang: Líbia legmagasabb pontja", "Hegység: Északi-Tibesti", "Elhelyezkedés: Líbiai-csádi határ", "Kőzet: Prekambriumi és vulkáni", "Jellemző: A Föld egyik legkevésbé feltárt helye"],
       ro: ["Altitudine: 2267 m", "Statut: Cel mai înalt vârf din Libia", "Munți: Tibesti (sectorul nordic)", "Locație: Granița Libia-Ciad", "Compoziție: Roci precambriene și vulcanice", "Acces: Zonă extrem de izolată"],
       en: ["Elevation: 2,267 m", "Status: Highest point in Libya", "Range: Northern Tibesti", "Location: Libya-Chad border", "Geology: Precambrian and volcanic rocks", "Trivia: One of the least visited peaks in Africa"],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Der höchste Berg Libyens, der direkt an der Grenze zum Tschad liegt.",
       hu: "Líbia legmagasabb hegye, közvetlenül a csádi határon.",
       ro: "Cel mai înalt munte din Libia, situat chiar pe granița cu Ciad.",
-      en: "The highest mountain in Libya, located right on the border with Chad."
+      en: "The highest mountain in Libya, located right on the border with Chad.",
+      es: "La montaña más alta de Libia, situada justo en la frontera con el Chad.",
+      pt: "A montanha mais alta da Líbia, localizada mesmo na fronteira com o Chade.",
+      fr: "La plus haute montagne de Libye, située juste à la frontière avec le Tchad.",
     },
     facts: {
       de: ["2.267 Meter hoch.", "Gehört zum Tibesti-Massiv.", "Sehr schwer zugänglich.", "Felsige Gebirgslandschaft."],
       hu: ["2267 méter magas.", "A Tibeszti-masszívum része.", "Nagyon nehezen megközelíthető.", "Sziklás hegyi táj."],
       ro: ["2.267 metri înălțime.", "Face parte din masivul Tibesti.", "Foarte greu de accesat.", "Peisaj montan stâncos."],
-      en: ["2,267 meters high.", "Part of the Tibesti massif.", "Extremely remote.", "Rocky mountain landscape."]
+      en: ["2,267 meters high.", "Part of the Tibesti massif.", "Extremely remote.", "Rocky mountain landscape."],
+      es: ["2.267 metros de altura.", "Pertenece al macizo de Tibesti.", "De muy difícil acceso.", "Paisaje montañoso rocoso."],
+      pt: ["2.267 metros de altitude.", "Pertence ao maciço de Tibesti.", "De acesso muito difícil.", "Paisagem montanhosa rochosa."],
+      fr: ["Altitude de 2 267 mètres.", "Fait partie du massif du Tibesti.", "Très difficile d'accès.", "Paysage de montagne rocheux."],
     }, image: "/poi-images/bikku-bitti-nature-v2.webp"},
   {
     id: "mandara-mountains-nature-v2",
@@ -788,19 +999,28 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: ["Hosszúság: kb. 200 km", "Legmagasabb pont: Mont Oupay (1494 m)", "Országok: Kamerun, Nigéria, Csád", "Geológia: Vulkáni kürtőkitöltések", "Jelkép: Rhumsiki-szikla", "Életmód: Teraszos földművelés"],
       ro: ["Lungime: aprox. 200 km", "Vârful maxim: Muntele Oupay (1494 m)", "Granițe: Camerun, Nigeria, Ciad", "Geologie: Coloane vulcanice (neck-uri)", "Simbol: Vârful Rhumsiki", "Agricultură: Sisteme de terasare antice"],
       en: ["Length: approx. 200 km", "Highest peak: Mount Oupay (1,494 m)", "Location: Cameroon/Nigeria border", "Geology: Volcanic plugs and spires", "Iconic spot: Rhumsiki Peak", "Agriculture: Famous for hillside terracing"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Ein Vulkangebirge an der Grenze zwischen Kamerun und Tschad.",
       hu: "Vulkáni hegység Kamerun és Csád határán.",
       ro: "Munți vulcanici la granița dintre Camerun și Ciad.",
-      en: "A volcanic range on the border between Cameroon and Chad."
+      en: "A volcanic range on the border between Cameroon and Chad.",
+      es: "Una cadena montañosa volcánica en la frontera entre Camerún y Chad.",
+      pt: "Uma cordilheira vulcânica na fronteira entre os Camarões e o Chade.",
+      fr: "Une chaîne de montagnes volcaniques à la frontière entre le Cameroun et le Tchad.",
     },
     facts: {
       de: ["Einzigartige Granitformationen.", "Traditionelle Terrassenwirtschaft.", "Reiche kulturelle Geschichte.", "Beliebtes Wandergebiet."],
       hu: ["Egyedülálló gránitformációk.", "Hagyományos teraszos művelés.", "Gazdag kulturális történelem.", "Népszerű túraútvonalak."],
       ro: ["Formațiuni unice de granit.", "Agricultură tradițională în terase.", "Istorie culturală bogată.", "Zonă populară de drumeții."],
-      en: ["Unique granite formations.", "Traditional terrace farming.", "Rich cultural history.", "Popular hiking area."]
+      en: ["Unique granite formations.", "Traditional terrace farming.", "Rich cultural history.", "Popular hiking area."],
+      es: ["Formaciones de granito únicas.", "Agricultura tradicional en terrazas.", "Rica historia cultural.", "Zona popular para el senderismo."],
+      pt: ["Formações de granito únicas.", "Agricultura tradicional em terraços.", "Rica história cultural.", "Área popular para caminhadas."],
+      fr: ["Formations de granit uniques.", "Agriculture traditionnelle en terrasses.", "Riche histoire culturelle.", "Zone de randonnée populaire."],
     }, image: "/poi-images/mandara-mountains-nature-v2.webp"},
   {
     id: "ouaddai-highlands-nature-v2",
@@ -861,19 +1081,27 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: ["Alapítás éve: 1953", "Terület: kb. 1140 km²", "Helyszín: Sarh közelében, a Chari mentén", "Státusz: Nemzeti Park", "Fő védett faj: Óriás lantszarvú antilop", "Növényzet: Szavanna és galériaerdő"],
       ro: ["Anul înființării: 1953", "Suprafață: aprox. 1140 km²", "Locație: Lângă Sarh, pe râul Chari", "Statut: Parc Național", "Specie protejată: Antilopa Derby", "Biodiversitate: Savană și păduri-galerie"],
       en: ["Established: 1953", "Area: approx. 1,140 sq km", "Location: Near Sarh, Chari River bank", "Status: National Park", "Key species: Giant Eland", "Habitat: Wooded savanna and riverine forest"],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Ein wichtiges Wald- und Schutzgebiet im Süden des Landes.",
       hu: "Fontos erdő és védett terület az ország déli részén.",
       ro: "O pădure și arie protejată importantă în sudul țării.",
-      en: "An important forest and protected area in the south of the country."
+      en: "An important forest and protected area in the south of the country.",
+      es: "Un bosque y área protegida importante en el sur del país.",
+      pt: "Uma floresta e área protegida importante no sul do país.",
+      fr: "Une forêt et une zone protégée importantes dans le sud du pays.",
     },
     facts: {
       de: ["Trockenwald-Vegetation.", "Heimat von Antilopen.", "Wichtiger Biodiversitätskorridor.", "Gefährdet durch Holzentnahme."],
       hu: ["Száraz erdei vegetáció.", "Antilopok otthona.", "Fontos biodiverzitási folyosó.", "Veszélyeztetett fakitermelés miatt."],
       ro: ["Vegetație de pădure uscată.", "Adăpostește antilope.", "Coridor de biodiversitate important.", "Amenințată de defrișări."],
-      en: ["Dry forest vegetation.", "Habitat for various antelopes.", "Vital biodiversity corridor.", "Threatened by logging."]
+      en: ["Dry forest vegetation.", "Habitat for various antelopes.", "Vital biodiversity corridor.", "Threatened by logging."],
+      es: ["Vegetación de bosque seco.", "Hogar de antílopes.", "Importante corredor de biodiversidad.", "Amenazado por la extracción de madera."],
+      pt: ["Vegetação de floresta seca.", "Lar de antílopes.", "Importante corredor de biodiversidade.", "Ameaçado pela extração de madeira."],
+      fr: ["Végétation de forêt sèche.", "Habitat d'antilopes.", "Important corridor de biodiversité.", "Menacé par le prélèvement de bois."],
     }, image: "/poi-images/manda-forest-nature-v2.webp"},
   {
     id: "binder-lere-forest-nature-v2",
@@ -897,19 +1125,28 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: ["Terület: kb. 1350 km²", "Elhelyezkedés: Délnyugat-Csád / kameruni határ", "Folyó: Mayo-Kebbi", "Látnivaló: Gauthiot-vízesés", "Ritka faj: Afrikai manátusz", "Típus: Szudáni szavanna és erdő"],
       ro: ["Suprafață: aprox. 1350 km²", "Locație: Sud-vestul Ciadului / granița cu Camerun", "Râu: Mayo-Kebbi", "Atractie: Cascadele Gauthiot", "Faună: Lamantinul african", "Habitat: Mozaic de savană și pădure"],
       en: ["Area: approx. 1,350 sq km", "Location: SW Chad/Cameroon border", "River: Mayo-Kebbi system", "Natural wonder: Gauthiot Falls", "Wildlife: Habitat for West African manatees", "Eco-zone: Transition between savanna and forest"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Ein Waldreservat, das Teil des komplexen Binder-Léré-Ökosystems ist.",
       hu: "Erdőrezervátum, amely a komplex Binder-Léré ökoszisztéma része.",
       ro: "O rezervație forestieră parte a ecosistemului complex Binder-Léré.",
-      en: "A forest area in southwestern Chad near the Cameroon border. It belongs to the wider Binder-Léré protected landscape and supports wetter woodland habitat."
+      en: "A forest area in southwestern Chad near the Cameroon border. It belongs to the wider Binder-Léré protected landscape and supports wetter woodland habitat.",
+      es: "Una reserva forestal que forma parte del complejo ecosistema de Binder-Léré.",
+      pt: "Uma reserva florestal que faz parte do complexo ecossistema de Binder-Léré.",
+      fr: "Une réserve forestière faisant partie du complexe écosystème de Binder-Léré.",
     },
     facts: {
       de: ["Teil eines Wildreservats.", "Uferbegleitende Wälder.", "Reiche Vogelwelt.", "Schutzgebiet für Großwild."],
       hu: ["Egy vadrezervátum része.", "Folyóparti erdők.", "Gazdag madárvilág.", "Nagyvadak védett területe."],
       ro: ["Parte a unei rezervații de vânătoare.", "Păduri riverane.", "Avifaună bogată.", "Arie protejată pentru vânat mare."],
-      en: ["Southwestern Chad", "Near Cameroon", "Protected landscape", "Wetter woodland habitat"]
+      en: ["Southwestern Chad", "Near Cameroon", "Protected landscape", "Wetter woodland habitat"],
+      es: ["Parte de una reserva de vida silvestre.", "Bosques de ribera.", "Rica avifauna.", "Área protegida para la caza mayor."],
+      pt: ["Parte de uma reserva de vida selvagem.", "Florestas ribeirinhas.", "Rica avifauna.", "Área de proteção para caça grossa."],
+      fr: ["Fait partie d'une réserve de faune.", "Forêts riveraines.", "Richesse de l'avifaune.", "Zone de protection pour le gros gibier."],
     }
   }
 ];

@@ -24,18 +24,27 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       hu: ["1462-ben alapította António da Noli portugál hajós.", "2009-ben került fel az UNESCO világörökségi listájára.", "A Szaharától délre fekvő legidősebb európai település.", "1770-ig, a kormányzat Praiába költözéséig volt főváros.", "Itt találhatók a trópusok első székesegyházának romjai.", "A 16. században a rabszolga-kereskedelem központi csomópontja volt."],
       ro: ["Fondat în 1462 de exploratorul portughez António da Noli.", "Inclus în Patrimoniul Mondial UNESCO în anul 2009.", "Cea mai veche așezare europeană de la sud de Sahara.", "Capitală a Capului Verde până la mutarea la Praia în 1770.", "Găzduiește ruinele primei catedrale din tropice (1556).", "Punct major de tranzit pentru comerțul cu sclavi în secolul XVI."],
       en: ["Founded in 1462 by the Portuguese explorer António da Noli.", "Designated as a UNESCO World Heritage site in 2009.", "The oldest European colonial settlement south of the Sahara.", "Served as the capital of Cape Verde until the move to Praia in 1770.", "Home to the ruins of the first cathedral in the tropics (1556).", "A major hub for the transatlantic slave trade during the 16th century."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/cv-cidade-velha-history-v2.webp",
     description: {
       de: "Cidade Velha ist die historische Altstadt von Ribeira Grande auf Santiago. Der Ort zählt zu den wichtigsten Kolonialstätten Kap Verdes.",
       hu: "Cidade Velha Santiago történelmi magja és Cabo Verde egyik legfontosabb gyarmati emléke. Az egykori Ribeira Grande részeként UNESCO-helyszín.",
       ro: "Cidade Velha a fost prima capitală a Capului Verde și nucleul vechii Ribeira Grande. Astăzi este sit UNESCO și cel mai important ansamblu istoric colonial din arhipelag.",
-      en: "Cidade Velha is the historic core of old Ribeira Grande on Santiago and one of the most important colonial sites in Cape Verde. It was the first European city founded in the tropics and is now a UNESCO World Heritage site."
+      en: "Cidade Velha is the historic core of old Ribeira Grande on Santiago and one of the most important colonial sites in Cape Verde. It was the first European city founded in the tropics and is now a UNESCO World Heritage site.",
+      es: "Cidade Velha es el casco antiguo histórico de Ribeira Grande en Santiago. El lugar es uno de los sitios coloniales más importantes de Cabo Verde.",
+      pt: "A Cidade Velha é o centro histórico da Ribeira Grande em Santiago. O local é um dos sítios coloniais mais importantes de Cabo Verde.",
+      fr: "Cidade Velha est la vieille ville historique de Ribeira Grande sur Santiago. Le lieu compte parmi les sites coloniaux les plus importants du Cap-Vert.",
     },
     facts: {
       de: ["UNESCO-Welterbe", "älteste europäische Stadt der Tropen", "ehemalige Kolonialhauptstadt"],
       hu: ["UNESCO világörökség", "az egykori Ribeira Grande", "korai gyarmati központ", "Santiago déli partján"],
       ro: ["Ribeira Grande de Santiago", "prima capitală a țării", "UNESCO din 2009"],
-      en: ["First European city in the tropics", "Former capital of Cape Verde", "UNESCO site since 2009"]
+      en: ["First European city in the tropics", "Former capital of Cape Verde", "UNESCO site since 2009"],
+      es: ["Patrimonio de la Humanidad de la UNESCO", "Ciudad europea más antigua de los trópicos", "Antigua capital colonial"],
+      pt: ["Património Mundial da UNESCO", "Cidade europeia mais antiga dos trópicos", "Antiga capital colonial"],
+      fr: ["Patrimoine mondial de l'UNESCO", "Plus ancienne ville européenne des tropiques", "Ancienne capitale coloniale"],
     }
   },
   {
@@ -60,18 +69,27 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       hu: ["Az építkezés 1587-ben kezdődött Duarte de Lobo kormányzó alatt.", "Stratégiai helyen, 120 méterrel a tenger felett található.", "A falak építéséhez helyi vulkanikus bazaltot használtak.", "Az 1960-as években Portugália kezdeményezésére restaurálták.", "Hét bástyával rendelkezik a teljes körű védelem érdekében.", "Európa első trópusi városának védelmét biztosította."],
       ro: ["Construcția a început în 1587 sub guvernatorul Duarte de Lobo.", "Situată pe un platou strategic la 120 de metri înălțime.", "Zidurile sunt construite din bazalt vulcanic local.", "Restaurată integral în anii 1960 de către autoritățile portugheze.", "Dispune de șapte bastioane pentru o apărare completă.", "A asigurat protecția primei capitale coloniale din tropice."],
       en: ["Construction began in 1587 under Governor Duarte de Lobo.", "Located on a strategic plateau 120 meters above the sea.", "The walls are constructed primarily from local volcanic basalt.", "Extensively restored in the 1960s by the Portuguese government.", "Features seven bastions designed for comprehensive defense.", "Guarded the first European colonial city in the tropical region."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/cv-fortaleza-real-sao-filipe-history-v2.webp",
     description: {
       de: "Die Festung São Filipe überragt Cidade Velha oberhalb der Bucht. Sie wurde zur Verteidigung gegen Piraten und Rivalen gebaut.",
       hu: "A São Filipe erőd Cidade Velha fölé magasodik, és a kikötő védelmére épült. A kalóztámadások és a rivális hatalmak ellen szolgált.",
       ro: "Fortaleza Real de São Filipe domină Cidade Velha de pe înălțimea Achada de São Filipe. A fost ridicată în secolul al XVI-lea pentru apărare împotriva atacurilor maritime.",
-      en: "Fortaleza Real de Sao Filipe rises above Cidade Velha and was built to defend the settlement from pirates. Its hilltop position gave the colony a clear view over the bay."
+      en: "Fortaleza Real de Sao Filipe rises above Cidade Velha and was built to defend the settlement from pirates. Its hilltop position gave the colony a clear view over the bay.",
+      es: "La Fortaleza de São Filipe domina Cidade Velha sobre la bahía. Fue construida para la defensa contra piratas y rivales.",
+      pt: "A Fortaleza Real de São Filipe domina a Cidade Velha acima da baía. Foi construída para defesa contra piratas e rivais.",
+      fr: "La forteresse royale de São Filipe surplombe Cidade Velha au-dessus de la baie. Elle a été construite pour la défense contre les pirates et les rivaux.",
     },
     facts: {
       de: ["16. Jahrhundert", "über Cidade Velha", "Verteidigungsanlage"],
       hu: ["16. századi erőd", "Cidade Velha fölött", "védelmi célra épült", "kilátás a partra"],
       ro: ["sec. al XVI-lea", "deasupra Cidade Velha", "fortificație de apărare"],
-      en: ["Built in the 16th century", "Overlooks Cidade Velha", "Built for coastal defense"]
+      en: ["Built in the 16th century", "Overlooks Cidade Velha", "Built for coastal defense"],
+      es: ["Siglo XVI", "Sobre Cidade Velha", "Estructura defensiva"],
+      pt: ["Século XVI", "Acima da Cidade Velha", "Sistema de defesa"],
+      fr: ["XVIe siècle", "Au-dessus de Cidade Velha", "Installation défensive"],
     }
   },
   {
@@ -96,18 +114,27 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       hu: ["Valószínűleg 1512-ben készült I. Mánuel király idején.", "Fehér márványból faragták manuelin stílusban.", "Az igazságszolgáltatás és a városi hatalom jelképe volt.", "A rabszolgák nyilvános büntetésének központi helyszíne.", "A monumentális oszlop körülbelül 5 méter magas.", "A 19. században egy időre lebontották és elszállították."],
       ro: ["Datat probabil în 1512, sub domnia regelui Manuel I.", "Realizat din marmură albă în stil arhitectural manuelin.", "A servit drept simbol al jurisdicției și puterii regale.", "Loc central pentru pedepsirea publică a sclavilor.", "Monumentul are o înălțime de aproximativ 5 metri.", "În secolul XIX, coloana a fost demontată temporar."],
       en: ["Likely created in 1512 during the reign of King Manuel I.", "Carved from white marble in the ornate Manueline style.", "Symbolized judicial authority and municipal autonomy.", "Served as a central location for the public punishment of slaves.", "The monument stands approximately 5 meters tall.", "The column was temporarily dismantled during the 19th century."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/cv-pelourinho-cidade-velha-history-v2.webp",
     description: {
       de: "Der Pranger von Cidade Velha steht im historischen Zentrum der alten Kolonialstadt. Er erinnert an die harte Rechtspraxis der Kolonialzeit.",
       hu: "A Cidade Velha-i pellengér a gyarmati igazságszolgáltatás emléke. A történelmi központban áll, és a rabszolgaság korára utal.",
       ro: "Pelourinho din Cidade Velha este coloana de piatră din centrul vechiului oraș colonial. A marcat autoritatea locală și pedeapsa publică în perioada colonială.",
-      en: "The Pelourinho of Cidade Velha stands in the old town square and marks the city's colonial past. It was a public symbol of judicial authority during the slave-trade era."
+      en: "The Pelourinho of Cidade Velha stands in the old town square and marks the city's colonial past. It was a public symbol of judicial authority during the slave-trade era.",
+      es: "El Pelourinho de Cidade Velha se encuentra en el centro histórico de la antigua ciudad colonial. Recuerda las duras prácticas legales de la época colonial.",
+      pt: "O Pelourinho da Cidade Velha situa-se no centro histórico da antiga cidade colonial. Recorda as duras práticas jurídicas da época colonial.",
+      fr: "Le pilori de Cidade Velha se dresse dans le centre historique de l'ancienne cité coloniale. Il rappelle les dures pratiques judiciaires de l'époque coloniale.",
     },
     facts: {
       de: ["im UNESCO-Areal", "Symbol der Kolonialherrschaft", "Ort öffentlicher Strafen"],
       hu: ["a történelmi központban", "gyarmati büntetőhely", "UNESCO-terület része", "a rabszolgatartás emléke"],
       ro: ["în zona UNESCO", "coloană de piatră", "simbol al puterii coloniale"],
-      en: ["In the historic square", "Linked to colonial justice", "Part of the UNESCO area"]
+      en: ["In the historic square", "Linked to colonial justice", "Part of the UNESCO area"],
+      es: ["en el área de la UNESCO", "Símbolo del dominio colonial", "Lugar de castigos públicos"],
+      pt: ["na área da UNESCO", "Símbolo do domínio colonial", "Local de punições públicas"],
+      fr: ["dans la zone de l'UNESCO", "Symbole de la domination coloniale", "Lieu de châtiments publics"],
     }
   },
   {
@@ -132,18 +159,27 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       hu: ["Az építkezés 1556-ban kezdődött Francisco da Cruz püspök alatt.", "A munkálatok csak 1700 körül fejeződtek be teljesen.", "1712-ben Jacques Cassard francia kalóz pusztította el.", "Az egyházmegye székhelyét 1770-ben helyezték át Praiába.", "Jelentős régészeti feltárások zajlottak a területen 2003-ban.", "A templom körülbelül 40 méter hosszú és 15 méter széles volt."],
       ro: ["Construcția a început în 1556 sub episcopul Francisco da Cruz.", "Lucrările au fost finalizate integral abia în jurul anului 1700.", "Distrusă de corsarul francez Jacques Cassard în anul 1712.", "Sediul diocezei a fost mutat oficial la Praia în 1770.", "Excavații arheologice majore au avut loc în anul 2003.", "Biserica avea aproximativ 40 de metri lungime și 15 metri lățime."],
       en: ["Construction began in 1556 under Bishop Francisco da Cruz.", "The building was only fully completed around 1700.", "Destroyed by the French corsair Jacques Cassard in 1712.", "The diocesan seat was officially moved to Praia in 1770.", "Major archaeological excavations were conducted in 2003.", "The church was approximately 40 meters long and 15 meters wide."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/cv-ruinas-se-catedral-history-v2.webp",
     description: {
       de: "Die Ruinen der Sé-Kathedrale in Cidade Velha gehören zu den frühesten christlichen Bauwerken des Archipels. Sie zeigen den unvollendeten Anspruch der Kolonialzeit.",
       hu: "A SÉ-katedrális romjai a korai egyházi építkezések nyomai Cidade Velhában. Az épület sosem készült el teljesen.",
       ro: "Ruinele Sé-Catedralei din Cidade Velha păstrează urmele uneia dintre cele mai vechi biserici coloniale din Capul Verde. Ele fac parte din centrul istoric al vechii Ribeira Grande.",
-      en: "The ruins of the cathedral in Cidade Velha are among the best-known remains of old Ribeira Grande. They show the scale of the former religious center of the first capital."
+      en: "The ruins of the cathedral in Cidade Velha are among the best-known remains of old Ribeira Grande. They show the scale of the former religious center of the first capital.",
+      es: "Las ruinas de la Catedral de la Sé en Cidade Velha se encuentran entre las estructuras cristianas más antiguas del archipiélago. Muestran la ambición inacabada de la era colonial.",
+      pt: "As ruínas da Sé Catedral na Cidade Velha estão entre as primeiras estruturas cristãs do arquipélago. Mostram a ambição inacabada do período colonial.",
+      fr: "Les ruines de la cathédrale de la Sé à Cidade Velha comptent parmi les premières structures chrétiennes de l'archipel. Elles témoignent de l'ambition inachevée de l'époque coloniale.",
     },
     facts: {
       de: ["Baubeginn im 16. Jahrhundert", "frühes Kirchenprojekt", "Teil des historischen Zentrums"],
       hu: ["16. századi kezdés", "félbemaradt katedrális", "a történelmi központ része", "korai egyházi emlék"],
       ro: ["sec. al XVI-lea", "lângă centrul istoric", "ruine ale catedralei vechi"],
-      en: ["Ruins in Cidade Velha", "Old cathedral of Ribeira Grande", "Historic religious site"]
+      en: ["Ruins in Cidade Velha", "Old cathedral of Ribeira Grande", "Historic religious site"],
+      es: ["Inicio de la construcción en el siglo XVI", "Proyecto eclesiástico temprano", "Parte del centro histórico"],
+      pt: ["Início da construção no século XVI", "Projeto de igreja antigo", "Parte do centro histórico"],
+      fr: ["Début de la construction au XVIe siècle", "Ancien projet d'église", "Fait partie du centre historique"],
     }
   },
   {
@@ -168,18 +204,27 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       hu: ["1936. október 29-én nyitották meg politikai foglyok számára.", "Az első szakaszban legalább 32 portugál fogoly vesztette életét.", "1961-ben nyitották meg újra 'Chão Bom munkatábor' néven.", "A szegfűs forradalom után, 1974. május 1-jén zárták be végleg.", "Itt található a hírhedt 'Frigideira' (serpenyő) nevű magánzárka.", "2000 óta múzeumként látogatható a nagyközönség számára."],
       ro: ["Deschis la 29 octombrie 1936 pentru deținuți politici.", "Cel puțin 32 de prizonieri portughezi au murit în prima fază.", "Redeschis în 1961 sub numele de „Lagărul de muncă Chão Bom”.", "Închis definitiv la 1 mai 1974, după Revoluția Garoafelor.", "Include celula de izolare infamă cunoscută sub numele de „Frigideira”.", "Funcționează ca muzeu accesibil publicului din anul 2000."],
       en: ["Opened on October 29, 1936, for political prisoners.", "At least 32 Portuguese detainees died during the first phase.", "Reopened in 1961 as the 'Chão Bom Labor Camp'.", "Finally closed on May 1, 1974, following the Carnation Revolution.", "Features a notorious isolation cell nicknamed the 'Frigideira'.", "Open to the public as a museum since the year 2000."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/cv-tarrafal-concentration-camp-history-v2.webp",
     description: {
       de: "Das Lager Tarrafal auf Santiago war eines der bekanntesten politischen Gefängnisse des portugiesischen Estado Novo. Heute ist es ein Ort des Gedenkens.",
       hu: "A Tarrafal tábor a portugál diktatúra egyik legismertebb politikai börtöne volt. Ma emlékhely és múzeum.",
       ro: "Lagărul Tarrafal de pe Santiago a funcționat ca închisoare politică în perioada Estado Novo. Astăzi este un loc de memorie și patrimoniu național.",
-      en: "The Tarrafal Concentration Camp in Chao Bom, on Santiago, was a Portuguese colonial detention camp. It became a symbol of political repression under the Estado Novo regime."
+      en: "The Tarrafal Concentration Camp in Chao Bom, on Santiago, was a Portuguese colonial detention camp. It became a symbol of political repression under the Estado Novo regime.",
+      es: "El campo de Tarrafal en Santiago fue una de las prisiones políticas más conocidas del Estado Novo portugués. Hoy es un lugar de memoria.",
+      pt: "O campo do Tarrafal, na ilha de Santiago, foi uma das prisões políticas mais conhecidas do Estado Novo português. Hoje é um local de memória.",
+      fr: "Le camp de Tarrafal sur Santiago était l'une des prisons politiques les plus célèbres de l'Estado Novo portugais. Aujourd'hui, c'est un lieu de mémoire.",
     },
     facts: {
       de: ["1936 eröffnet", "für politische Gefangene", "heute Museum"],
       hu: ["1936-ban nyílt", "politikai foglyok tábora", "1974 után zárták be", "ma múzeum"],
       ro: ["deschis în 1936", "închisoare politică", "azi sit memorial"],
-      en: ["Opened in 1936", "In Chao Bom, Tarrafal", "National heritage site"]
+      en: ["Opened in 1936", "In Chao Bom, Tarrafal", "National heritage site"],
+      es: ["Inaugurado en 1936", "Para prisioneros políticos", "Hoy es un museo"],
+      pt: ["Inaugurado em 1936", "Para prisioneiros políticos", "Atualmente um museu"],
+      fr: ["Ouvert en 1936", "Pour les prisonniers politiques", "Aujourd'hui un musée"],
     }
   },
   {
@@ -204,18 +249,27 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       hu: ["1881-ben épült a portugál közigazgatás idején.", "Savoyai Mária Pia portugál királynéról nevezték el.", "A torony magassága pontosan 21 méter.", "A fény fókusztávolsága 38 méterrel van a tenger felett.", "A fény hatótávolsága körülbelül 15 tengeri mérföld.", "Praia városának legdélebbi pontján, a sziklákon áll."],
       ro: ["Construit în anul 1881 sub administrația portugheză.", "Numit după regina Maria Pia de Savoia a Portugaliei.", "Înălțimea turnului este de exact 21 de metri.", "Înălțimea planului focal este de 38 de metri deasupra mării.", "Raza de vizibilitate a luminii este de 15 mile marine.", "Situat în punctul cel mai sudic al zonei Plateau din Praia."],
       en: ["Constructed in 1881 during Portuguese colonial rule.", "Named in honor of Queen Maria Pia of Savoy.", "The tower stands at a height of exactly 21 meters.", "The focal plane is 38 meters above the sea level.", "The light has a range of approximately 15 nautical miles.", "Located at the southernmost point of the Plateau district."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Ein markanter weißer Leuchtturm am südlichen Ende des Plateau von Praia.",
       hu: "Jellegzetes fehér világítótorony Praia fennsíkjának déli végén.",
       ro: "Un far alb distinctiv la capătul sudic al platoului din Praia.",
-      en: "A distinctive white lighthouse at the southern end of the Praia plateau."
+      en: "A distinctive white lighthouse at the southern end of the Praia plateau.",
+      es: "Un distintivo faro blanco en el extremo sur de la meseta de Praia.",
+      pt: "Um farol branco marcante na extremidade sul do Plateau da Praia.",
+      fr: "Un phare blanc remarquable à l'extrémité sud du plateau de Praia.",
     },
     facts: {
       de: ["Wurde im Jahr 1881 in Betrieb genommen.", "Markiert den Eingang zum Hafen von Praia."],
       hu: ["1881-ben helyezték üzembe.", "Praia kikötőjének bejáratát jelzi."],
       ro: ["Dat în folosință în anul 1881.", "Marchează intrarea în portul Praia."],
-      en: ["Commissioned in 1881.", "Marks the entrance to the port of Praia."]
+      en: ["Commissioned in 1881.", "Marks the entrance to the port of Praia."],
+      es: ["Entró en servicio en el año 1881.", "Marca la entrada al puerto de Praia."],
+      pt: ["Entrou em funcionamento em 1881.", "Marca a entrada do porto da Praia."],
+      fr: ["Mis en service en 1881.", "Marque l'entrée du port de Praia."],
     }, image: "/poi-images/cv-farol-dona-maria-pia-history-v2.webp"},
   {
     id: "cv-palacio-presidencial-praia-history-v2",
@@ -239,18 +293,27 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       hu: ["Az épület 1894-ben készült el a gyarmati időszakban.", "Eredetileg kormányzói palotának (Palácio do Governo) épült.", "Építészeti stílusa klasszikus neoklasszicizmus.", "1975, a függetlenség óta az elnöki hivatal székhelye.", "Az 1990-es években teljes körű felújításon esett át.", "A Plateau negyedben, a Rua Serpa Pinto déli végén található."],
       ro: ["Finalizat în anul 1894, în perioada colonială portugheză.", "Proiectat inițial ca Palat al Guvernatorului.", "Stilul arhitectural predominant este neoclasicismul.", "Sediul președinției începând cu independența din 1975.", "Renovări majore efectuate în cursul anilor 1990.", "Situat la extremitatea sudică a străzii Rua Serpa Pinto."],
       en: ["Completed in 1894 during the Portuguese colonial era.", "Originally designed as the Governor's Palace.", "The architectural style is predominantly neoclassical.", "Official seat of the President since independence in 1975.", "Underwent major renovations during the 1990s.", "Located at the southern end of Rua Serpa Pinto on the Plateau."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Der ehemalige Palast des portugiesischen Gouverneurs und heutiger Sitz des Präsidenten.",
       hu: "A portugál kormányzó egykori palotája, ma az elnöki hivatal székhelye.",
       ro: "Fostul palat al guvernatorului portughez și actualul sediu al președintelui.",
-      en: "The former palace of the Portuguese governor and current seat of the President."
+      en: "The former palace of the Portuguese governor and current seat of the President.",
+      es: "El antiguo palacio del gobernador portugués y actual sede del presidente.",
+      pt: "O antigo palácio do governador português e atual sede do presidente.",
+      fr: "L'ancien palais du gouverneur portugais et l'actuel siège du président.",
     },
     facts: {
       de: ["Im neoklassizistischen Stil erbaut.", "Liegt im historischen Zentrum der Hauptstadt."],
       hu: ["Neoklasszicista stílusban épült.", "A főváros történelmi központjában található."],
       ro: ["Construit în stil neoclasic.", "Situat în centrul istoric al capitalei."],
-      en: ["Built in neoclassical style.", "Located in the historic center of the capital."]
+      en: ["Built in neoclassical style.", "Located in the historic center of the capital."],
+      es: ["Construido en estilo neoclásico.", "Ubicado en el centro histórico de la capital."],
+      pt: ["Construído em estilo neoclássico.", "Localizado no centro histórico da capital."],
+      fr: ["Construit dans un style néoclassique.", "Situé dans le centre historique de la capitale."],
     }, image: "/poi-images/cv-palacio-presidencial-praia-history-v2.webp"},
   {
     id: "cv-quartel-jaime-mota-history-v2",
@@ -274,18 +337,27 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       hu: ["Az első katonai létesítmények már 1826-ban megjelentek.", "A jelenlegi főépület 1872-ből származik.", "Jaime Mota függetlenségi harcosról nevezték el.", "Itt található Praia hivatalos hadtörténeti múzeuma.", "Építészeti stílusa gyarmati neoklasszicizmus.", "Az elnöki palota közvetlen közelében helyezkedik el."],
       ro: ["Primele facilități militare au fost stabilite în 1826.", "Clădirea principală actuală datează din anul 1872.", "Numit în onoarea luptătorului Jaime Mota.", "Găzduiește muzeul militar oficial al orașului Praia.", "Stilul arhitectural este neoclasicism colonial.", "Situat în imediata apropiere a Palatului Prezidențial."],
       en: ["First military facilities were established here in 1826.", "The current main building dates back to 1872.", "Named after the independence fighter Jaime Mota.", "Houses the official Military Museum of Praia.", "The architectural style is colonial neoclassicism.", "Located in close proximity to the Presidential Palace."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Ein historisches Militärgebäude in Praia, das für seine markante koloniale Architektur bekannt ist.",
       hu: "Történelmi katonai épület Praiában, amely jellegzetes gyarmati építészetéről ismert.",
       ro: "O clădire militară istorică în Praia, cunoscută pentru arhitectura sa colonială distinctivă.",
-      en: "A historic military building in Praia, known for its distinctive colonial architecture."
+      en: "A historic military building in Praia, known for its distinctive colonial architecture.",
+      es: "Un edificio militar histórico en Praia, conocido por su destacada arquitectura colonial.",
+      pt: "Um edifício militar histórico na Praia, conhecido pela sua marcante arquitetura colonial.",
+      fr: "Un bâtiment militaire historique à Praia, connu pour son architecture coloniale remarquable.",
     },
     facts: {
       de: ["Benannt nach einem kapverdischen Nationalhelden.", "Erbaut im späten 19. Jahrhundert."],
       hu: ["Egy zöld-foki nemzeti hősről nevezték el.", "A 19. század végén épült."],
       ro: ["Numită după un erou național capverdian.", "Construită la sfârșitul secolului al XIX-lea."],
-      en: ["Named after a Cape Verdean national hero.", "Built in the late 19th century."]
+      en: ["Named after a Cape Verdean national hero.", "Built in the late 19th century."],
+      es: ["Nombrado en honor a un héroe nacional de Cabo Verde.", "Construido a finales del siglo XIX."],
+      pt: ["Batizado com o nome de um herói nacional cabo-verdiano.", "Construído no final do século XIX."],
+      fr: ["Nommé d'après un héros national du Cap-Vert.", "Construit à la fin du XIXe siècle."],
     }, image: "/poi-images/cv-quartel-jaime-mota-history-v2.webp"},
   {
     id: "cv-mindelo-historic-center-history-v2",
@@ -309,18 +381,27 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       hu: ["Mindelót hivatalosan 1795-ben alapították.", "1838-tól brit cégek fontos szénrakodó kikötője volt.", "Itt rendezik a Zöld-foki-szigetek leghíresebb karneválját.", "Cesária Évora világ hírű énekesnő szülőhelye.", "Itt található a szigetcsoport legmélyebb természetes kikötője.", "Az építészet erős brit gyarmati hatásokat mutat."],
       ro: ["Mindelo a fost fondat oficial în anul 1795.", "Port major pentru cărbune începând cu 1838 (companii britanice).", "Gazda celui mai faimos carnaval din Capul Verde.", "Locul de naștere al celebrei cântărețe Cesária Évora.", "Deține cel mai adânc port natural din întregul arhipelag.", "Arhitectura prezintă influențe coloniale britanice marcante."],
       en: ["Mindelo was officially founded in the year 1795.", "Became a major coaling port in 1838 via British firms.", "Home to the most famous carnival in Cape Verde.", "Birthplace of the world-renowned singer Cesária Évora.", "Features the deepest natural harbor in the archipelago.", "Architecture shows strong British colonial influences."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Das Herz von Mindelo mit farbenfrohen Gebäuden und einem kosmopolitischen Flair aus der Kolonialzeit.",
       hu: "Mindelo szíve színes épületeivel és a gyarmati korszak kozmopolita hangulatával.",
       ro: "Inima orașului Mindelo, cu clădiri colorate și un aer cosmopolit din epoca colonială.",
-      en: "The heart of Mindelo with colorful buildings and a cosmopolitan flair from the colonial era."
+      en: "The heart of Mindelo with colorful buildings and a cosmopolitan flair from the colonial era.",
+      es: "El corazón de Mindelo, con edificios coloridos y un ambiente cosmopolita de la época colonial.",
+      pt: "O coração de Mindelo com edifícios coloridos e um toque cosmopolita da época colonial.",
+      fr: "Le cœur de Mindelo avec ses bâtiments colorés et une atmosphère cosmopolite de l'époque coloniale.",
     },
     facts: {
       de: ["Bekannt für den Hafen Porto Grande.", "Ein Zentrum für Musik und Kultur."],
       hu: ["Híres a Porto Grande kikötőjéről.", "Zenei és kulturális központ."],
       ro: ["Cunoscut pentru portul Porto Grande.", "Un centru pentru muzică și cultură."],
-      en: ["Known for the Porto Grande harbor.", "A center for music and culture."]
+      en: ["Known for the Porto Grande harbor.", "A center for music and culture."],
+      es: ["Conocido por el puerto de Porto Grande.", "Un centro para la música y la cultura."],
+      pt: ["Conhecido pelo Porto Grande.", "Um centro de música e cultura."],
+      fr: ["Connu pour le port Porto Grande.", "Un centre pour la musique et la culture."],
     }, image: "/poi-images/cv-mindelo-historic-center-history-v2.webp"},
   {
     id: "cv-torre-de-belem-mindelo-history-v2",
@@ -344,18 +425,27 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       hu: ["1918 és 1921 között épült a tengerparton.", "A lisszaboni torony kisebb méretű, hű másolata.", "Gyakran ad otthont tengerészeti és kézműves kiállításoknak.", "Manuelin építészeti stílusban készült.", "Eredetileg kikötőkapitányságként működött.", "Mindelo városának egyik legfontosabb jelképe."],
       ro: ["Construit între anii 1918 și 1921 pe malul mării.", "Replică la scară redusă a turnului din Lisabona.", "Găzduiește frecvent expoziții maritime și de artizanat.", "Edificat în stilul arhitectural manuelin.", "A servit inițial drept sediu al căpităniei portului.", "Simbol major al identității orașului Mindelo."],
       en: ["Built between 1918 and 1921 along the shoreline.", "A scaled-down replica of the original tower in Lisbon.", "Frequently houses maritime and handicraft exhibitions.", "Constructed in the ornate Manueline architectural style.", "Originally served as the port authority's office.", "A major symbol of the city of Mindelo."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Eine kleinere Nachbildung des berühmten Turms von Belém in Lissabon, die direkt am Ufer steht.",
       hu: "A lisszaboni Belém-torony kisebb másolata, amely közvetlenül a parton áll.",
       ro: "O replică mai mică a celebrului Turn Belém din Lisabona, situată direct pe țărm.",
-      en: "A smaller replica of the famous Belém Tower in Lisbon, standing right on the waterfront."
+      en: "A smaller replica of the famous Belém Tower in Lisbon, standing right on the waterfront.",
+      es: "Una réplica más pequeña de la famosa Torre de Belém de Lisboa, situada directamente en la orilla.",
+      pt: "Uma réplica menor da famosa Torre de Belém de Lisboa, situada diretamente à beira-mar.",
+      fr: "Une réplique plus petite de la célèbre tour de Belém de Lisbonne, située directement au bord de l'eau.",
     },
     facts: {
       de: ["Beherbergt heute das Meeresmuseum.", "Erbaut zwischen 1918 und 1921."],
       hu: ["Ma a Tengerészeti Múzeumnak ad otthont.", "1918 és 1921 között épült."],
       ro: ["Găzduiește astăzi Muzeul Mării.", "Construit între 1918 și 1921."],
-      en: ["Now houses the Marine Museum.", "Built between 1918 and 1921."]
+      en: ["Now houses the Marine Museum.", "Built between 1918 and 1921."],
+      es: ["Alberga hoy el museo marítimo.", "Construida entre 1918 y 1921."],
+      pt: ["Abriga hoje o museu marítimo.", "Construída entre 1918 e 1921."],
+      fr: ["Abrite aujourd'hui le musée de la mer.", "Construite entre 1918 et 1921."],
     }, image: "/poi-images/cv-torre-de-belem-mindelo-history-v2.webp"},
   {
     id: "cv-fortim-del-rei-history-v2",
@@ -379,18 +469,27 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       hu: ["Az erődöt 1852-ben építették a portugál gyarmati időszakban.", "Elsődleges feladata a Porto Grande-öböl védelme volt.", "Az építmény alapanyaga a szigeten bőségesen fellelhető bazalt.", "A 20. század során politikai börtönként is funkcionált.", "Mindelo városa az Atlanti-óceán egyik fő szénutánpótló állomása volt.", "Az erőd romjai ma Mindelo egyik legnépszerűbb kilátópontját alkotják."],
       ro: ["Construit în anul 1852 pentru a proteja portul strategic Mindelo.", "Situat pe insula São Vicente, dominând Golful Porto Grande.", "Zidăria este realizată din piatră de bazalt extrasă local.", "A fost utilizat ca închisoare politică în secolul al XX-lea.", "Portul Mindelo a fost esențial pentru realimentarea navelor cu cărbune.", "Oferă o vedere panoramică de 360 de grade asupra oceanului și orașului."],
       en: ["Built in 1852 to defend the strategic Porto Grande harbor.", "Located on the island of São Vicente overlooking Mindelo.", "Constructed using locally sourced basalt stone masonry.", "Served as a prison for political dissidents in the 20th century.", "Mindelo was a crucial coaling station for Atlantic steamships.", "The site is currently a protected historical landmark of Cape Verde."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Eine alte Festung auf einem Hügel über Mindelo, die einst den Hafen verteidigte.",
       hu: "Régi erőd egy dombon Mindelo felett, amely egykor a kikötőt védte.",
       ro: "O veche fortăreață pe un deal deasupra orașului Mindelo, care odinioară apăra portul.",
-      en: "Fortim d'El Rei is a small fort in Mindelo on Sao Vicente. Built in the mid-19th century, it was used to defend Porto Grande Bay and the city."
+      en: "Fortim d'El Rei is a small fort in Mindelo on Sao Vicente. Built in the mid-19th century, it was used to defend Porto Grande Bay and the city.",
+      es: "Una antigua fortaleza en una colina sobre Mindelo, que en su día defendía el puerto.",
+      pt: "Uma antiga fortaleza numa colina sobre Mindelo, que outrora defendia o porto.",
+      fr: "Une ancienne forteresse sur une coline surplombant Mindelo, qui défendait autrefois le port.",
     },
     facts: {
       de: ["Erbaut im Jahr 1852.", "Diente zeitweise als Gefängnis."],
       hu: ["1852-ben épült.", "Időnként börtönként is szolgált."],
       ro: ["Construită în anul 1852.", "A servit periodic drept închisoare."],
-      en: ["Built in 1852-1853", "In Mindelo, Sao Vicente", "Defended Porto Grande Bay"]
+      en: ["Built in 1852-1853", "In Mindelo, Sao Vicente", "Defended Porto Grande Bay"],
+      es: ["Construida en el año 1852.", "Sirvió temporalmente como prisión."],
+      pt: ["Construída em 1852.", "Serviu temporariamente como prisão."],
+      fr: ["Construite en 1852.", "A servi temporairement de prison."],
     }, image: "/poi-images/cv-fortim-del-rei-history-v2.webp"},
   {
     id: "cv-historical-salt-pans-pedra-de-lume-history-v2",
@@ -414,18 +513,27 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       hu: ["A lepárlók egy kialudt vulkán tengerszint alatti kráterében fekszenek.", "A só szállítását segítő alagutat 1804-ben fúrták ki.", "A víz sótartalma 27-szerese az átlagos tengervízének.", "Sal szigete a nevét az itt található gazdag sólelőhelyekről kapta.", "A nagyüzemi kitermelés a 20. század közepéig volt meghatározó.", "A kráter peremén ma is láthatók az egykori szállító kötélpálya oszlopai."],
       ro: ["Salinele sunt amplasate în craterul unui vulcan stins, sub nivelul mării.", "Tunelul de acces prin peretele craterului a fost finalizat în 1804.", "Apa are o concentrație de sare de 27 de ori mai mare decât oceanul.", "Numele insulei 'Sal' provine direct de la această resursă naturală.", "Producția industrială de sare a dominat economia până la mijlocul secolului XX.", "Rămășițele unui sistem de telecabină din lemn sunt încă vizibile pe sit."],
       en: ["Located inside the crater of an extinct volcano at sea level.", "A transport tunnel was manually excavated through the crater wall in 1804.", "The salt concentration is roughly 27 times higher than normal seawater.", "Sal island was named after the vital salt industry established here.", "Large-scale salt production and export continued until the mid-1900s.", "Remnants of a massive wooden cable car system used for transport still stand."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Ehemalige Anlagen zur Salzgewinnung in einem Vulkankrater, die die Wirtschaft der Insel Sal prägten.",
       hu: "Egykori sókitermelő létesítmények egy vulkáni kráterben, amelyek meghatározták Sal szigetének gazdaságát.",
       ro: "Foste instalații pentru extracția sării într-un crater vulcanic, care au marcat economia insulei Sal.",
-      en: "Former salt production facilities in a volcanic crater that shaped the economy of Sal island."
+      en: "Former salt production facilities in a volcanic crater that shaped the economy of Sal island.",
+      es: "Antiguas instalaciones de extracción de sal en un cráter volcánico, que marcaron la economía de la isla de Sal.",
+      pt: "Antigas instalações de extracção de sal numa cratera vulcânica, que moldaram a economia da ilha do Sal.",
+      fr: "Anciennes installations d'extraction de sel dans un cratère volcanique, qui ont marqué l'économie de l'île de Sal.",
     },
     facts: {
       de: ["Salzexporte begannen im 18. Jahrhundert.", "Hölzerne Transportseilbahnen sind noch sichtbar."],
       hu: ["A sóexport a 18. században kezdődött.", "A fa kötélpályák maradványai még láthatóak."],
       ro: ["Exportul de sare a început în secolul al XVIII-lea.", "Telecabinele din lemn pentru transport sunt încă vizibile."],
-      en: ["Salt exports began in the 18th century.", "Wooden transport cable cars are still visible."]
+      en: ["Salt exports began in the 18th century.", "Wooden transport cable cars are still visible."],
+      es: ["Las exportaciones de sal comenzaron en el siglo XVIII.", "Aún son visibles los teleféricos de transporte de madera."],
+      pt: ["As exportações de sal começaram no século XVIII.", "Teleféricos de madeira ainda são visíveis."],
+      fr: ["Les exportations de sel ont commencé au XVIIIe siècle.", "Des téléphériques de transport en bois sont encore visibles."],
     }
   },
   {
@@ -450,18 +558,27 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       hu: ["1820 körül épült a kalóztámadások megfékezésére.", "Az erőd az Ilhéu de Sal Rei kis szigetén található Boa Vista mellett.", "Nevét a portugál Bragança-ház hercegéről kapta.", "Fő feladata a sziget gazdaságát éltető sóexport biztosítása volt.", "Az erőd tüzérsége közvetlenül a kikötő bejáratát ellenőrizte.", "A sós tengeri levegő és az elhagyatottság miatt mára romos állapotban van."],
       ro: ["Construit în jurul anului 1820 pentru a respinge pirații.", "Situat pe micul Ilhéu de Sal Rei, în apropiere de Boa Vista.", "Poartă numele Ducelui de Bragança, o figură importantă portugheză.", "A fost esențial pentru protejarea navelor care transportau sare.", "Fortul era dotat cu tunuri grele orientate spre rutele maritime.", "În prezent, situl este conservat sub formă de ruine istorice."],
       en: ["Constructed around 1820 to deter frequent pirate raids.", "Located on the small islet of Ilhéu de Sal Rei off Boa Vista.", "Named in honor of the Portuguese Duke of Bragança.", "Specifically built to safeguard the lucrative regional salt trade.", "The fort's cannons originally covered the entire harbor entrance.", "Now exists as a significant collection of stone ruins and foundations."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Die Ruinen einer Festung auf der kleinen Insel Sal Rei, erbaut zum Schutz gegen Piraten.",
       hu: "Egy erőd romjai a kis Sal Rei szigeten, amelyet a kalózok elleni védelemre építettek.",
       ro: "Ruinele unei fortărețe pe mica insulă Sal Rei, construită pentru protecția împotriva piraților.",
-      en: "The ruins of a fortress on the small Sal Rei islet, built for protection against pirates."
+      en: "The ruins of a fortress on the small Sal Rei islet, built for protection against pirates.",
+      es: "Las ruinas de una fortaleza en el pequeño islote de Sal Rei, construida para la protección contra piratas.",
+      pt: "As ruínas de uma fortaleza no ilhéu de Sal Rei, construída para protecção contra piratas.",
+      fr: "Les ruines d'une forteresse sur l'îlot de Sal Rei, construite pour la protection contre les pirates.",
     },
     facts: {
       de: ["Im frühen 19. Jahrhundert errichtet.", "Liegt auf einer vorgelagerten Insel."],
       hu: ["A 19. század elején épült.", "Egy part menti szigeten található."],
       ro: ["Construit la începutul secolului al XIX-lea.", "Situat pe o insulă din larg."],
-      en: ["Built in the early 19th century.", "Located on an offshore islet."]
+      en: ["Built in the early 19th century.", "Located on an offshore islet."],
+      es: ["Construida a principios del siglo XIX.", "Situada en una isla frente a la costa."],
+      pt: ["Construída no início do século XIX.", "Situada numa ilha próxima."],
+      fr: ["Érigée au début du XIXe siècle.", "Située sur une île au large."],
     }, image: "/poi-images/cv-forte-duque-de-braganca-history-v2.webp"},
   {
     id: "cv-igreja-nossa-senhora-rosario-history-v2",
@@ -485,18 +602,27 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       hu: ["Az építkezés 1495-ben kezdődött, a gyarmatosítás hajnalán.", "A világ legrégebbi, épségben maradt gyarmati temploma.", "Az UNESCO Világörökség részét képező Cidade Velha központjában áll.", "A portugál Manuel-stílus egyik legszebb tengerentúli példája.", "Belsejében értékes 16. századi portugál csempék (azulejos) láthatók.", "Egykor a Santiago-szigeti püspökség szellemi központja volt."],
       ro: ["Construcția a fost inițiată în anul 1495 de către portughezi.", "Este recunoscută ca fiind cea mai veche biserică colonială din lume.", "Situl este protejat ca parte a Patrimoniului Mondial UNESCO.", "Arhitectura îmbină elemente gotice târzii cu stilul manuelin.", "Capela interioară păstrează sculpturi în piatră din secolul al XV-lea.", "Biserica a fost un punct central în evanghelizarea Africii de Vest."],
       en: ["Construction began in 1495, making it the world's oldest colonial church.", "Located in Cidade Velha, the first European city in the tropics.", "Listed as an integral part of a UNESCO World Heritage site.", "Features unique Manueline-style vaulting and stone carvings.", "Contains 16th-century Portuguese tiles and historical funeral stones.", "Served as a focal point for the early Atlantic slave trade logistics."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Eine historische Kirche in Ribeira Grande auf Santo Antão, ein bedeutendes religiöses Denkmal.",
       hu: "Történelmi templom Ribeira Grandéban, Santo Antão szigetén, fontos vallási emlék.",
       ro: "O biserică istorică în Ribeira Grande pe insula Santo Antão, un monument religios important.",
-      en: "A historic church in Ribeira Grande on Santo Antão, a significant religious monument."
+      en: "A historic church in Ribeira Grande on Santo Antão, a significant religious monument.",
+      es: "Una iglesia histórica en Ribeira Grande, en Santo Antão, un importante monumento religioso.",
+      pt: "Uma igreja histórica na Ribeira Grande, em Santo Antão, um monumento religioso importante.",
+      fr: "Une église historique à Ribeira Grande sur Santo Antão, un monument religieux important.",
     },
     facts: {
       de: ["Gilt als eine der ältesten Kirchen der Insel.", "Bekannt für ihre schlichte Kolonialarchitektur."],
       hu: ["A sziget egyik legrégebbi templomának tartják.", "Egyszerű gyarmati építészetéről ismert."],
       ro: ["Considerată una dintre cele mai vechi biserici de pe insulă.", "Cunoscută pentru arhitectura sa colonială simplă."],
-      en: ["Considered one of the oldest churches on the island.", "Known for its simple colonial architecture."]
+      en: ["Considered one of the oldest churches on the island.", "Known for its simple colonial architecture."],
+      es: ["Considerada una de las iglesias más antiguas de la isla.", "Conocida por su sencilla arquitectura colonial."],
+      pt: ["Considerada uma das igrejas mais antigas da ilha.", "Conhecida pela sua arquitectura colonial simples."],
+      fr: ["Considérée comme l'une des plus anciennes églises de l'île.", "Connue pour son architecture coloniale simple."],
     }, image: "/poi-images/cv-igreja-nossa-senhora-rosario-history-v2.webp"},
   {
     id: "cv-pacos-concelho-sao-filipe-history-v2",
@@ -520,18 +646,27 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       hu: ["A 20. század elején emelték a gyarmati kormányzat számára.", "São Filipe főterén, a társadalmi élet központjában található.", "A hagyományos portugál stílusú ablakok és homlokzat jellemzi.", "Az épületben ma is a helyi önkormányzati hivatalok működnek.", "São Filipe történelmi központjának egyik legépebb épülete.", "Fontos szerepet játszik a város évenkénti ünnepségeinek lebonyolításában."],
       ro: ["Edificiul a fost finalizat la începutul anilor 1900.", "Reprezintă sediul administrativ central al insulei Fogo.", "Situat în Praça, locul principal de întâlnire al cetățenilor.", "Arhitectura este tipică pentru perioada târzie a stăpânirii portugheze.", "Fațada simetrică este decorată cu elemente neoclasice simple.", "Clădirea găzduiește arhiva istorică a municipalității."],
       en: ["Serves as the seat of the Câmara Municipal of São Filipe.", "Constructed in the early 20th century during the colonial era.", "Positioned in the Praça, the main public square of Fogo island.", "Displays classical colonial architectural symmetry and large windows.", "The building is a key part of the protected urban heritage area.", "Functions as both a political hub and a major architectural landmark."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Ein elegantes historisches Gebäude im Zentrum von São Filipe auf der Insel Fogo.",
       hu: "Elegáns történelmi épület São Filipe központjában, Fogo szigetén.",
       ro: "O clădire istorică elegantă în centrul orașului São Filipe de pe insula Fogo.",
-      en: "An elegant historic building in the center of São Filipe on Fogo island."
+      en: "An elegant historic building in the center of São Filipe on Fogo island.",
+      es: "Un elegante edificio histórico en el centro de São Filipe, en la isla de Fogo.",
+      pt: "Um elegante edifício histórico no centro de São Filipe, na ilha do Fogo.",
+      fr: "Un élégant bâtiment historique au centre de São Filipe sur l'île de Fogo.",
     },
     facts: {
       de: ["Ein Beispiel für die Kolonialarchitektur Fogos.", "Zentraler Punkt des öffentlichen Lebens."],
       hu: ["Fogo gyarmati építészetének egyik példája.", "A közösségi élet központi helyszíne."],
       ro: ["Un exemplu de arhitectură colonială din Fogo.", "Punct central al vieții publice."],
-      en: ["An example of Fogo's colonial architecture.", "A central point of public life."]
+      en: ["An example of Fogo's colonial architecture.", "A central point of public life."],
+      es: ["Un ejemplo de la arquitectura colonial de Fogo.", "Punto central de la vida pública."],
+      pt: ["Um exemplo da arquitectura colonial do Fogo.", "Ponto central da vida pública."],
+      fr: ["Un exemple de l'architecture coloniale de Fogo.", "Point central de la vie publique."],
     }, image: "/poi-images/cv-pacos-concelho-sao-filipe-history-v2.webp"},
   {
     id: "cv-igreja-sao-joao-batista-history-v2",
@@ -555,18 +690,27 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       hu: ["A templomot a 19. században szentelték fel.", "Ikonikus kék-fehér homlokzata São Filipe egyik jelképe.", "A júniusi Szent János-napi fesztivál vallási központja.", "Belsejében értékes barokk és neoklasszicista faoltárok láthatók.", "A templom Fogo szigetének egyik legrégebbi aktív plébániája.", "A hívők és turisták számára egyaránt fontos kulturális találkozóhely."],
       ro: ["Biserica datează din secolul al XIX-lea, fiind un monument istoric.", "Fațada sa în culori alb și albastru este unică în arhipelag.", "Găzduiește cele mai importante ceremonii în timpul festivalului Sfântului Ioan.", "Interiorul păstrează sculpturi religioase originale din lemn.", "Este situată în inima districtului istoric din São Filipe.", "Edificiul a fost un simbol al stabilității sociale în timpul erupțiilor vulcanice."],
       en: ["Primary Catholic church of Fogo, dedicated to St. John the Baptist.", "Famous for its vibrant blue and white neoclassical facade.", "Originally constructed in the 19th century to replace older chapels.", "Central venue for the Saint John's festival every June.", "The interior features a high wooden ceiling typical of colonial style.", "Remains one of the most photographed religious buildings in Cape Verde."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Die Hauptkirche der Insel Brava, gelegen in der malerischen Vila Nova Sintra.",
       hu: "Brava szigetének főtemploma, a festői Vila Nova Sintrában található.",
       ro: "Biserica principală a insulei Brava, situată în pitoreasca Vila Nova Sintra.",
-      en: "The main church of the island of Brava, located in the picturesque Vila Nova Sintra."
+      en: "The main church of the island of Brava, located in the picturesque Vila Nova Sintra.",
+      es: "La iglesia principal de la isla de Brava, situada en la pintoresca Vila Nova Sintra.",
+      pt: "A igreja principal da ilha Brava, situada na pitoresca Vila Nova Sintra.",
+      fr: "L'église principale de l'île de Brava, située dans la pittoresque Vila Nova Sintra.",
     },
     facts: {
       de: ["Ein Wahrzeichen der kleinsten bewohnten Insel.", "Mittelpunkt der lokalen religiösen Feste."],
       hu: ["A legkisebb lakott sziget egyik jelképe.", "A helyi vallási ünnepek központja."],
       ro: ["Un simbol al celei mai mici insule locuite.", "Centrul sărbătorilor religioase locale."],
-      en: ["A landmark of the smallest inhabited island.", "Center of local religious festivals."]
+      en: ["A landmark of the smallest inhabited island.", "Center of local religious festivals."],
+      es: ["Un símbolo de la isla habitada más pequeña.", "Centro de las festividades religiosas locales."],
+      pt: ["Um marco da ilha habitada mais pequena.", "Centro das festas religiosas locais."],
+      fr: ["Un monument de la plus petite île habitée.", "Centre des fêtes religieuses locales."],
     }, image: "/poi-images/cv-igreja-sao-joao-batista-history-v2.webp"},
   {
     id: "cv-sobrados-sao-filipe-history-v2",
@@ -590,18 +734,27 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       hu: ["A 18. és 19. században épült nemesi udvarházak.", "Kétszintes kialakítás: alul gazdasági helyiségek, felül lakóterek.", "A díszes faerkélyek a tulajdonos társadalmi rangját jelezték.", "A házak a kávé- és bortermelésből származó vagyont tükrözik.", "São Filipe óvárosa ezeknek köszönheti egyedi koloniális arculatát.", "Több épületet kulturális központtá vagy múzeummá alakítottak át."],
       ro: ["Conacele aparțineau clasei privilegiate de proprietari de pământ.", "Arhitectura se bazează pe balcoane din lemn sculptat manual.", "Construcțiile datează preponderent din perioada de glorie a secolului XIX.", "Erau centre ale producției de cafea și viticultură de pe insulă.", "Sunt vopsite în culori pastelate vii pentru a reflecta lumina solară.", "Centrul istoric din São Filipe este protejat datorită acestor sobrados."],
       en: ["Distinctive two-story mansions built by Fogo's colonial elite.", "Features wooden balconies that served as symbols of high social status.", "Predominantly constructed between the late 1700s and late 1800s.", "The ground floors were historically used for storing coffee and wine.", "Represents a fusion of Portuguese manor design and tropical adaptations.", "São Filipe's sobrados are considered the best-preserved in Cape Verde."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Traditionelle koloniale Herrenhäuser mit Holzbalkonen, die das Stadtbild von São Filipe prägen.",
       hu: "Hagyományos gyarmati kúriák faborítású erkélyekkel, amelyek meghatározzák São Filipe látképét.",
       ro: "Conace coloniale tradiționale cu balcoane de lemn, care definesc peisajul urban din São Filipe.",
-      en: "Traditional colonial mansions with wooden balconies that characterize the cityscape of São Filipe."
+      en: "Traditional colonial mansions with wooden balconies that characterize the cityscape of São Filipe.",
+      es: "Casas señoriales coloniales tradicionales con balcones de madera que caracterizan el paisaje urbano de São Filipe.",
+      pt: "Casarões coloniais tradicionais com varandas de madeira que caracterizam a paisagem urbana de São Filipe.",
+      fr: "Manoirs coloniaux traditionnels avec balcons en bois qui caractérisent le paysage urbain de São Filipe.",
     },
     facts: {
       de: ["Dienten einst der aristokratischen Oberschicht.", "Besitzen oft prächtige Innenhöfe."],
       hu: ["Egykor az arisztokrata felső osztály lakhelyei voltak.", "Gyakran pompás belső udvarokkal rendelkeznek."],
       ro: ["Au servit odată elitei aristocratice.", "Dețin adesea curți interioare splendide."],
-      en: ["Once served the aristocratic upper class.", "Often feature magnificent inner courtyards."]
+      en: ["Once served the aristocratic upper class.", "Often feature magnificent inner courtyards."],
+      es: ["Sirvieron en su día a la clase alta aristocrática.", "Suelen poseer magníficos patios interiores."],
+      pt: ["Serviram outrora à elite aristocrática.", "Frequentemente possuem pátios interiores magníficos."],
+      fr: ["Ils ont servi autrefois à la classe supérieure aristocratique.", "Ils possèdent souvent de magnifiques cours intérieures."],
     }, image: "/poi-images/cv-sobrados-sao-filipe-history-v2.webp"},
   {
     id: "cv-vila-porto-ingles-history-v2",
@@ -625,18 +778,27 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       hu: ["A név az angol kereskedők 17-18. századi jelenlétére utal.", "A várost a 18. században épült São José-erőd védte.", "A település gazdasága évszázadokon át a sóexporton alapult.", "Számos épület őrzi a 19. századi virágkor gyarmati stílusát.", "A városközpont közelében találhatók a sziget híres sólepárlói.", "Ma Maio szigetének legfontosabb adminisztratív és kulturális központja."],
       ro: ["Numele orașului omagiază parteneriatul comercial cu marina engleză.", "Forte de São José, ridicat în secolul XVIII, este principalul reper.", "Industria sării a atras nave din întreaga lume în acest port.", "Centrul istoric păstrează pavajul original și case din piatră vechi.", "Prosperitatea maximă a fost atinsă în timpul secolului al XIX-lea.", "Orașul este poarta de acces către zonele de conservare a țestoaselor."],
       en: ["Main settlement of Maio island, named after 17th-century English traders.", "Home to the Forte de São José, built to defend against pirate raids.", "Salt was the primary commodity traded here for over three centuries.", "The historic center features well-preserved 19th-century colonial houses.", "Located adjacent to expansive natural salt pans on the island's coast.", "Represents the largest concentration of historic architecture on Maio."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Das charmante historische Zentrum der Insel Maio mit seiner Kolonialarchitektur und Festung.",
       hu: "Maio szigetének bájos történelmi központja gyarmati építészetével és erődjével.",
       ro: "Centrul istoric fermecător al insulei Maio, cu arhitectură colonială și fortăreața sa.",
-      en: "The charming historic center of Maio island with its colonial architecture and fortress."
+      en: "The charming historic center of Maio island with its colonial architecture and fortress.",
+      es: "El encantador centro histórico de la isla de Maio, con su arquitectura colonial y su fortaleza.",
+      pt: "O encantador centro histórico da ilha do Maio, com a sua arquitetura colonial e fortaleza.",
+      fr: "Le charmant centre historique de l'île de Maio avec son architecture coloniale et sa forteresse.",
     },
     facts: {
       de: ["Benannt nach den englischen Schiffen, die hier Salz luden.", "Besitzt eine gut erhaltene Hauptkirche."],
       hu: ["Az itt sót rakodó angol hajókról kapta a nevét.", "Jól megőrzött főtemplommal rendelkezik."],
       ro: ["Numită după navele englezești care încărcau sare aici.", "Deține o biserică principală bine conservată."],
-      en: ["Named after the English ships that loaded salt here.", "Has a well-preserved main church."]
+      en: ["Named after the English ships that loaded salt here.", "Has a well-preserved main church."],
+      es: ["Nombrada por los barcos ingleses que cargaban sal aquí.", "Posee una iglesia principal bien conservada."],
+      pt: ["Batizada com o nome dos navios ingleses que aqui carregavam sal.", "Possui uma igreja matriz bem preservada."],
+      fr: ["Nommée d'après les navires anglais qui y chargeaient du sel.", "Possède une église principale bien conservée."],
     }
   },
   {
@@ -661,18 +823,27 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       hu: ["A 19. század végén épült kis halászkápolna.", "São Filipe alsó részén, a tengerpart közelében található.", "Kilátást nyújt a híres fekete homokos Praia da Fontinha strandra.", "A fehér homlokzat és a piros tető a gyarmati stílus védjegye.", "Gyakori helyszíne a tengeri körmeneteknek és ünnepségeknek.", "A templom Fogo szigetének egyik legfestőibb vallási épülete."],
       ro: ["Situată în proximitatea plajei Fontinha, pe coasta vestică.", "Construcția datează din a doua jumătate a secolului XIX.", "Este dedicată patroanei pescarilor și marinarilor locali.", "Designul urmează liniile sobre ale arhitecturii religioase coloniale.", "Contrastul vizual cu stâncile vulcanice negre este remarcabil.", "Găzduiește anual sărbătoarea 'Nossa Senhora da Conceição'."],
       en: ["Located in the lower city (Bila Baixo) of São Filipe near the sea.", "Originally built in the late 1800s to serve the maritime community.", "Offers scenic views of the island's characteristic black volcanic beaches.", "Features a classic white-washed exterior with a contrasting red tile roof.", "The church is a focal point for Immaculate Conception day on December 8.", "Its simple, elegant design is a staple of Cape Verdean parish architecture."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Eine der ältesten Kirchen der Insel Boa Vista, gelegen in der Nähe des Dorfes Povoação Velha.",
       hu: "Boa Vista szigetének egyik legrégebbi temploma, Povoação Velha falu közelében.",
       ro: "Una dintre cele mai vechi biserici de pe insula Boa Vista, situată lângă satul Povoação Velha.",
-      en: "One of the oldest churches on the island of Boa Vista, located near the village of Povoação Velha."
+      en: "One of the oldest churches on the island of Boa Vista, located near the village of Povoação Velha.",
+      es: "Una de las iglesias más antiguas de la isla de Boa Vista, situada cerca del pueblo de Povoação Velha.",
+      pt: "Uma das igrejas mais antigas da ilha da Boa Vista, situada perto da aldeia de Povoação Velha.",
+      fr: "L'une des plus anciennes églises de l'île de Boa Vista, située près du village de Povoação Velha.",
     },
     facts: {
       de: ["In der Mitte des 19. Jahrhunderts an der Stelle einer älteren Kapelle erbaut.", "Ein Wahrzeichen der lokalen Geschichte."],
       hu: ["A 19. század közepén épült egy régebbi kápolna helyén.", "A helyi történelem egyik jelképe."],
       ro: ["Construită la mijlocul secolului al XIX-lea pe locul unei capele mai vechi.", "Un reper al istoriei locale."],
-      en: ["Built in the mid-19th century on the site of an older chapel.", "A landmark of local history."]
+      en: ["Built in the mid-19th century on the site of an older chapel.", "A landmark of local history."],
+      es: ["Construida a mediados del siglo XIX en el sitio de una capilla más antigua.", "Un hito de la historia local."],
+      pt: ["Construída em meados do século XIX no local de uma capela mais antiga.", "Um marco da história local."],
+      fr: ["Construite au milieu du XIXe siècle à l'emplacement d'une chapelle plus ancienne.", "Un monument de l'histoire locale."],
     }, image: "/poi-images/cv-igreja-nossa-senhora-conceicao-history-v2.webp"},
   {
     id: "cv-casa-da-memoria-history-v2",
@@ -696,18 +867,27 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       hu: ["Az épület egy 1820-ban emelt, klasszikus stílusú nemesi udvarház.", "A múzeum Fogo szigetének mindennapi történetét mutatja be.", "A kiállítási tárgyak között régi borászati és kávétermesztő eszközök is vannak.", "A ház belső udvara (quintal) a korabeli közösségi élet színhelye volt.", "Külön szekció foglalkozik a Fogo-vulkán korábbi kitöréseivel.", "Kulturális rendezvények és kézműves foglalkozások állandó otthona."],
       ro: ["Casa a fost construită în 1820, fiind unul dintre cele mai vechi sobrados.", "Găzduiește o colecție impresionantă de fotografii de epocă ale insulei.", "Muzeul documentează ierarhia socială complexă din perioada colonială.", "Exponatele includ obiecte salvate din așezările distruse de lavă.", "Clădirea păstrează mobilierul și decorațiunile originale din lemn.", "Este un punct de referință pentru cercetarea genealogiei locale."],
       en: ["The structure is a meticulously restored sobrado dating back to 1820.", "Operates as a private museum dedicated to Fogo's social history.", "Features exhibits on traditional salt extraction and coffee production.", "Contains a rich collection of artifacts from past volcanic eruptions.", "The building demonstrates the classic internal courtyard architectural layout.", "Serves as an important venue for local academic and cultural lectures."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Ein Museum in einem restaurierten Sobrado, das die Geschichte und Kultur der Insel Fogo dokumentiert.",
       hu: "Egy felújított sobradóban (gyarmati házban) kialakított múzeum, amely Fogo szigetének történetét és kultúráját mutatja be.",
       ro: "Un muzeu situat într-un sobrado restaurat, care documentează istoria și cultura insulei Fogo.",
-      en: "A museum in a restored sobrado that documents the history and culture of Fogo island."
+      en: "A museum in a restored sobrado that documents the history and culture of Fogo island.",
+      es: "Un museo en un sobrado restaurado que documenta la historia y la cultura de la isla de Fogo.",
+      pt: "Um museu num sobrado restaurado que documenta a história e a cultura da ilha do Fogo.",
+      fr: "Un musée dans un sobrado restauré qui documente l'histoire et la culture de l'île de Fogo.",
     },
     facts: {
       de: ["Zeigt Artefakte aus dem täglichen Leben.", "Gibt Einblicke in die traditionelle Landwirtschaft."],
       hu: ["A mindennapi élet tárgyait mutatja be.", "Betekintést nyújt a hagyományos mezőgazdaságba."],
       ro: ["Expune artefacte din viața cotidiană.", "Oferă perspective asupra agriculturii tradiționale."],
-      en: ["Displays artifacts from daily life.", "Provides insights into traditional agriculture."]
+      en: ["Displays artifacts from daily life.", "Provides insights into traditional agriculture."],
+      es: ["Muestra artefactos de la vida cotidiana.", "Ofrece una visión de la agricultura tradicional."],
+      pt: ["Exibe artefactos da vida quotidiana.", "Oferece uma visão da agricultura tradicional."],
+      fr: ["Présente des objets de la vie quotidienne.", "Donne un aperçu de l'agriculture traditionnelle."],
     }
   }
 ];

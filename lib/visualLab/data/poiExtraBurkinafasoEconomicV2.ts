@@ -18,24 +18,36 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       hu: "Az Essakane aranybánya Burkina Faso legnagyobb aranybányája, amely az északkeleti határvidéken található, körülbelül 330 kilométerre Ouagadougoutól. A bánya területe Oudalan és Séno tartományokra terjed ki, és többségi tulajdonosa a kanadai IAMGOLD vállalat. A kereskedelmi termelés 2010-ben kezdődött meg, és azóta jelentősen hozzájárult az ország nemzeti aranytermelésének növekedéséhez. Ez egy külszíni fejtésű bánya, amely modern feldolgozóüzemekkel rendelkezik az arany cianidos lúgozással történő kinyeréséhez. Földrajzilag a bánya egy rendkívül száraz száheli zónában fekszik, ami komoly kihívást jelent a vízgazdálkodás számára. Az Essakane a régió egyik legfontosabb munkaadója, és alapvető szerepet játszik az ország exportbevételeiben. A projekt kiterjedt társadalmi felelősségvállalási programokat is tartalmaz, beleértve falvak áttelepítését és a helyi infrastruktúra fejlesztését. Az Essakane aranytartalékai a nyugat-afrikai birimi zöldkő-öv egyik legjelentősebb lelőhelyének számítanak.",
       ro: "Mina de aur Essakane este cea mai mare mină de aur din Burkina Faso, situată în regiunea de frontieră din nord-est, la aproximativ 330 de kilometri de Ouagadougou. Aceasta se întinde pe provinciile Oudalan și Séno și este operată majoritar de compania canadiană IAMGOLD. Mina și-a început operațiunile comerciale în anul 2010 și de atunci a crescut masiv producția națională de aur. Este o mină de suprafață care dispune de instalații moderne de procesare pentru extracția aurului prin lixiviere cu cianură. Geografic, mina este situată într-o zonă saheliană extrem de aridă, ceea ce ridică provocări complexe în gestionarea apei. Essakane este un angajator major în regiune și contribuie semnificativ la veniturile din export ale țării. Proiectul include, de asemenea, programe extinse de responsabilitate socială, inclusiv relocarea satelor și investiții în infrastructura locală. Rezervele de aur de la Essakane sunt considerate printre cele mai importante din centura de roci verzi Birimian din Africa de Vest.",
       en: "The Essakane Gold Mine is the largest gold mine in Burkina Faso, located in the northeastern border region, approximately 330 kilometers from Ouagadougou. It spans the provinces of Oudalan and Séno and is majority-owned and operated by the Canadian company IAMGOLD. The mine commenced commercial operations in 2010 and has since significantly increased national gold production. It is an open-pit mine featuring modern processing facilities for gold extraction through cyanide leaching. Geographically, the mine is situated in an extremely arid Sahelian zone, which presents complex challenges for water management. Essakane is a major employer in the region and contributes substantially to the country's export revenues. The project also encompasses extensive social responsibility programs, including the resettlement of villages and investments in local infrastructure. The gold reserves at Essakane are considered among the most significant in the West African Birimian Greenstone Belt.",
+      es: "La mina de oro de Essakane es una de las más importantes de Burkina Faso y un factor decisivo para la economía local. Situada en la región del Sahel, la mina ha contribuido al desarrollo de infraestructuras en las comunidades circundantes. Geografía K7 — Extracción de materias primas.",
+      pt: "A mina de ouro de Essakane é uma das mais importantes do Burkina Faso e um factor decisivo para a economia local. Situada na região do Sahel, a mina contribuiu para o desenvolvimento de infraestruturas nas comunidades circundantes. Geografia K7 — Extração de matérias-primas.",
+      fr: "La mine d'or d'Essakane est l'une des plus importantes mines d'or du Burkina Faso et un facteur décisif pour l'économie locale. Située dans la région du Sahel, elle a contribué au développement des infrastructures dans les communes environnantes. Géographie K7 — Extraction de matières premières.",
     },
     factsAdvanced: {
       de: ["Größte Goldmine des Landes, betrieben von IAMGOLD.", "Kommerzieller Produktionsstart erfolgte im Jahr 2010.", "Liegt ca. 330 km nordöstlich der Hauptstadt Ouagadougou.", "Fördert Gold im Tagebauverfahren aus dem Birimian-Gürtel.", "Installierte eine große Photovoltaikanlage zur Stromversorgung.", "Wesentlicher Beitrag zum Bruttoinlandsprodukt Burkina Fasos."],
       hu: ["Az ország legnagyobb aranybányája, az IAMGOLD üzemelteti.", "A kereskedelmi termelés 2010-ben indult el.", "Kb. 330 km-re északkeletre fekszik Ouagadougoutól.", "Külszíni fejtéssel termel aranyat a Birimi-övből.", "Nagy napelemparkot telepítettek az energiaellátáshoz.", "Jelentősen hozzájárul Burkina Faso GDP-jéhez."],
       ro: ["Cea mai mare mină de aur din țară, operată de IAMGOLD.", "Începutul producției comerciale a avut loc în anul 2010.", "Situată la cca. 330 km nord-est de capitala Ouagadougou.", "Extrage aur prin metoda de suprafață din centura Birimian.", "A instalat o centrală fotovoltaică mare pentru energie.", "Contribuție esențială la PIB-ul Burkinei Faso."],
       en: ["Largest gold mine in the country, operated by IAMGOLD.", "Commercial production started in the year 2010.", "Located about 330 km northeast of the capital Ouagadougou.", "Extracts gold via open-pit mining from the Birimian belt.", "Installed a large solar farm to support power needs.", "Significant contributor to Burkina Faso's GDP."],
+      es: ["Una de las mayores minas de oro de África Occidental", "Importante empleador para la región del Sahel", "Gran contribución al Producto Interior Bruto", "Operada con tecnología de extracción moderna", "Importantes proyectos de infraestructura por parte del operador", "Influencia en el desarrollo socioeconómico local"],
+      pt: ["Uma das maiores minas de ouro da África Ocidental", "Importante empregador para a região do Sahel", "Grande contribuição para o Produto Interno Bruto", "Operada com tecnologia de extração moderna", "Importantes projetos de infraestrutura pelo operador", "Influência no desenvolvimento socioeconómico local"],
+      fr: ["L'une des plus grandes mines d'or d'Afrique de l'Ouest", "Employeur important pour la région du Sahel", "Contribution majeure au produit intérieur brut", "Exploitée avec une technologie d'extraction moderne", "Importants projets d'infrastructure par l'exploitant", "Influence sur le développement socio-économique local"],
     }, image: "/poi-images/essakane-gold-mine-economic-v2.webp",
     description: {
       de: "Die Essakane-Goldmine liegt in der nördlichen Sahelzone Burkina Fasos und gehört zu den bekanntesten Bergbauprojekten des Landes. Sie prägt die lokale Wirtschaft und das industrielle Profil der Region.",
       hu: "Az Essakane aranybánya Burkina Faso északi, száraz térségében működő nagy kitermelőhely. A bányászati tevékenység fontos szerepet játszik a helyi foglalkoztatásban és a nemzeti exportban.",
       ro: "Essakane este una dintre cele mai cunoscute exploatări aurifere din nordul Burkinei Faso. Activitatea minieră susține locuri de muncă și infrastructura din zona Sahel.",
-      en: "Essakane Gold Mine is a major gold operation in northern Burkina Faso. It is one of the country's best-known mining sites and a major employer in the Sahel Region."
+      en: "Essakane Gold Mine is a major gold operation in northern Burkina Faso. It is one of the country's best-known mining sites and a major employer in the Sahel Region.",
+      es: "La mina de oro de Essakane se encuentra en la zona norte del Sahel de Burkina Faso y es uno de los proyectos mineros más conocidos del país. Marca la economía local y el perfil industrial de la región.",
+      pt: "A mina de ouro de Essakane situa-se na zona norte do Sahel do Burkina Faso e é um dos projetos mineiros mais conhecidos do país. Marca a economia local e o perfil industrial da região.",
+      fr: "La mine d'or d'Essakane est située dans la zone sahélienne du nord du Burkina Faso et fait partie des projets miniers les plus connus du pays. Elle marque l'économie locale et le profil industriel de la région.",
     },
     facts: {
       de: ["Goldmine im Norden", "In der Sahelzone", "Wichtiger Wirtschaftsfaktor"],
       hu: ["Aranykitermelő bánya", "A Száhel-övezetben fekszik", "Fontos exportforrás"],
       ro: ["mină de aur", "în zona Sahel", "importantă pentru export"],
-      en: ["Sahel Region site", "Major gold extraction", "Supports local jobs"]
+      en: ["Sahel Region site", "Major gold extraction", "Supports local jobs"],
+      es: ["Mina de oro en el norte", "En la zona del Sahel", "Importante factor económico"],
+      pt: ["Mina de ouro no norte", "Na zona do Sahel", "Importante factor económico"],
+      fr: ["Mine d'or dans le nord", "Dans la zone du Sahel", "Facteur économique important"],
     }
   },
   {
@@ -54,24 +66,36 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       hu: "A Houndé aranybánya jelentős bányászati helyszín Burkina Faso délnyugati részén, körülbelül 250 kilométerre délnyugatra a fővárostól, Ouagadougoutól. A bányát a brit-kanadai Endeavour Mining vállalat üzemelteti, és 2017-ben kezdte meg működését. Nyugat-Afrika egyik legalacsonyabb költségű és leghatékonyabb bányájaként tartják számon. Földrajzilag Houndé a Tuy tartományban található, egy olyan régióban, amely a Birimi zöldkő-övön belüli geológiai gazdagságáról ismert. A projekt több külszíni fejtésből és egy modern feldolgozóüzemből áll, amely évente több millió tonna érc feldolgozására képes. A Houndé bánya erőteljesen megváltoztatta a régió gazdasági dinamikáját, több ezer közvetlen és közvetett munkahelyet teremtve. A bánya a legmodernebb technológiákat alkalmazza az érckitermeléshez, és nagy hangsúlyt fektet a magas környezetvédelmi szabványokra. Célzott közösségi beruházásokkal, például iskolák és kutak építésével támogatják a helyi fejlődést. A bánya várható élettartama több mint egy évtizedre tehető, ami hosszú távú adóbevételeket biztosít az állam számára.",
       ro: "Mina de aur Houndé este un sit minier important din sud-vestul Burkinei Faso, situat la aproximativ 250 de kilometri sud-vest de capitala Ouagadougou. Mina este operată de compania britanic-canadiană Endeavour Mining și a început producția în anul 2017. Este considerată una dintre cele mai rentabile și eficiente mine din Africa de Vest. Geografic, Houndé se află în provincia Tuy, o regiune cunoscută pentru bogăția sa geologică în cadrul centurii de roci verzi Birimian. Proiectul constă în mai multe exploatări de suprafață și o instalație modernă de procesare cu o capacitate de câteva milioane de tone de minereu pe an. Houndé a schimbat puternic dinamica economică a regiunii, creând mii de locuri de muncă directe și indirecte. Mina utilizează tehnologii de ultimă oră pentru extracția minereului și pune accent pe standarde înalte de mediu. Dezvoltarea locală este sprijinită prin investiții direcționate în proiecte comunitare, precum școli și fântâni. Durata de viață prognozată a minei se întinde pe mai mult de un deceniu, asigurând astfel venituri fiscale pe termen lung pentru stat.",
       en: "The Houndé Gold Mine is a prominent mining site in southwestern Burkina Faso, located approximately 250 kilometers southwest of the capital, Ouagadougou. The mine is operated by the British-Canadian firm Endeavour Mining and commenced production in 2017. It is regarded as one of West Africa's lowest-cost and most efficient mines. Geographically, Houndé is situated in the Tuy Province, a region known for its geological richness within the Birimian Greenstone Belt. The project consists of several open pits and a modern processing plant with a capacity of several million tonnes of ore per year. Houndé has significantly transformed the economic dynamics of the region, creating thousands of direct and indirect jobs. The mine employs state-of-the-art technologies for ore extraction and emphasizes high environmental standards. Local development is fostered through targeted investments in community projects such as schools and wells. The projected mine life extends over more than a decade, ensuring long-term tax revenues for the state.",
+      es: "La mina de oro de Houndé, en el suroeste del país, es un proyecto minero moderno que crea empleos significativos en la región de Hauts-Bassins. La extracción se realiza en una zona geológicamente rica, que también se utiliza intensamente para la agricultura. Geografía K7 — Ramas económicas.",
+      pt: "A mina de ouro de Houndé, no sudoeste do país, é um projeto mineiro moderno que cria postos de trabalho significativos na região de Hauts-Bassins. A extração ocorre numa área geologicamente rica, que também é utilizada intensamente para a agricultura. Geografia K7 — Ramos económicos.",
+      fr: "La mine d'or de Houndé, dans le sud-ouest du pays, est un projet minier moderne qui crée des emplois significatifs dans la région des Hauts-Bassins. L'extraction a lieu dans une zone géologiquement riche, qui est également utilisée de manière intensive pour l'agriculture. Géographie K7 — Secteurs économiques.",
     },
     factsAdvanced: {
       de: ["Betrieben von Endeavour Mining in der Provinz Tuy.", "Die kommerzielle Goldproduktion startete im Jahr 2017.", "Liegt etwa 250 km südwestlich von Ouagadougou.", "Verarbeitet jährlich über 4 Millionen Tonnen Golderz.", "Gilt als eine der effizientesten Minen in Westafrika.", "Schuf über 1.000 direkte Arbeitsplätze für die Region."],
       hu: ["Az Endeavour Mining üzemelteti Tuy tartományban.", "A kereskedelmi aranytermelés 2017-ben indult meg.", "Körülbelül 250 km-re délnyugatra fekszik Ouagadougoutól.", "Évente több mint 4 millió tonna aranyércet dolgoz fel.", "Nyugat-Afrika egyik leghatékonyabb bányájaként ismert.", "Több mint 1000 közvetlen munkahelyet teremtett a régióban."],
       ro: ["Operată de Endeavour Mining în provincia Tuy.", "Producția comercială de aur a început în anul 2017.", "Situată la aproximativ 250 km sud-vest de Ouagadougou.", "Procesează anual peste 4 milioane de tone de minereu de aur.", "Considerată una dintre cele mai eficiente mine din Africa de Vest.", "A creat peste 1.000 de locuri de muncă directe în regiune."],
       en: ["Operated by Endeavour Mining in the Tuy Province.", "Commercial gold production started in the year 2017.", "Located approximately 250 km southwest of Ouagadougou.", "Processes over 4 million tonnes of gold ore annually.", "Regarded as one of the most efficient mines in West Africa.", "Created over 1,000 direct jobs for the region."],
+      es: ["Moderna mina de oro a cielo abierto en la provincia de Tuy", "Pilar importante de la economía en Hauts-Bassins", "Alta producción de lingotes de oro por año", "Crea cientos de empleos locales", "Proyectos sostenibles en la comunidad circundante", "Contribución a la estrategia nacional de materias primas"],
+      pt: ["Moderna mina de ouro a céu aberto na província de Tuy", "Pilar importante da economia em Hauts-Bassins", "Alta produção de lingotes de ouro por ano", "Cria centenas de postos de trabalho locais", "Projetos sustentáveis na comunidade circundante", "Contribuição para a estratégia nacional de matérias-primas"],
+      fr: ["Mine d'or à ciel ouvert moderne dans la province du Tuy", "Pilier important de l'économie des Hauts-Bassins", "Production élevée de lingots d'or par an", "Crée des centaines d'emplois locaux", "Projets durables dans la commune environnante", "Contribution à la stratégie nationale des matières premières"],
     }, image: "/poi-images/houndé-gold-mine-economic-v2.webp",
     description: {
       de: "Die Houndé-Goldmine ist ein wichtiges Goldprojekt im Südwesten Burkina Fasos. Sie bringt Industriearbeit in eine Region, die sonst stark von Landwirtschaft geprägt ist.",
       hu: "A Houndé aranybánya a nyugati országrész egyik jelentős ipari létesítménye. A modern kitermelés mellett a környező közösségek gazdaságára is hatással van.",
       ro: "Mina de aur Houndé este un proiect minier important din vestul Burkinei Faso. Exploatarea sa are efecte directe asupra economiei locale și a transportului din regiune.",
-      en: "Hounde Gold Mine is an important gold project in southwestern Burkina Faso. It adds industrial activity to a region that is otherwise dominated by farming."
+      en: "Hounde Gold Mine is an important gold project in southwestern Burkina Faso. It adds industrial activity to a region that is otherwise dominated by farming.",
+      es: "La mina de oro de Houndé es un importante proyecto de oro en el suroeste de Burkina Faso. Aporta trabajo industrial a una región que, de otro modo, está fuertemente marcada por la agricultura.",
+      pt: "A mina de ouro de Houndé é um importante projeto de ouro no sudoeste do Burkina Faso. Traz trabalho industrial para uma região que, de outra forma, é fortemente marcada pela agricultura.",
+      fr: "La mine d'or de Houndé est un projet aurifère majeur dans le sud-ouest du Burkina Faso. Elle apporte du travail industriel dans une région par ailleurs fortement marquée par l'agriculture.",
     },
     facts: {
       de: ["Goldmine im Südwesten", "Moderner Tagebau", "Schafft Arbeitsplätze"],
       hu: ["Aranybánya Hauts-Bassins térségében", "Ipari foglalkoztató", "A helyi gazdaság része"],
       ro: ["mină de aur", "în vestul țării", "sprijină economia locală"],
-      en: ["Southwestern Burkina Faso", "Modern mining project", "Adds regional income"]
+      en: ["Southwestern Burkina Faso", "Modern mining project", "Adds regional income"],
+      es: ["Mina de oro en el suroeste", "Mina a cielo abierto moderna", "Crea puestos de trabajo"],
+      pt: ["Mina de ouro no sudoeste", "Mina a céu aberto moderna", "Cria postos de trabalho"],
+      fr: ["Mine d'or dans le sud-ouest", "Mine à ciel ouvert moderne", "Crée des emplois"],
     }
   },
   {
@@ -90,24 +114,36 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       hu: "A Boungou aranybánya, amelyet korábban Natougou néven ismertek, Burkina Faso keleti részén, Tapoa tartományban található. A bányát az Endeavour Mining üzemelteti, és 2018-ban kezdte meg a kereskedelmi termelést. Földtanilag a Birimi-formációban helyezkedik el, amely gazdag kiváló minőségű aranylelőhelyekben. A Boungou külszíni fejtésű bányaként működik, és zúzó-, valamint lúgozóüzemet használ az arany kinyeréséhez. Mivel az ország egy távoli régiójában fekszik, a bánya felépítése logisztikai bravúr volt, amely a helyi közlekedési útvonalak fejlesztését is igényelte. A bánya az érc átlag feletti aranytartalmáról ismert, ami gazdaságilag különösen vonzóvá teszi. Az elmúlt években a bánya a regionális biztonsági helyzet miatt operatív kihívásokkal szembesült, de továbbra is a nemzeti bányászat egyik alappillére maradt. Az Endeavour Mining folyamatosan fektet be a biztonságba és a szociális projektekbe, hogy biztosítsa a helyi gurmantché lakosság támogatását. A projekt koncessziós díjak és adók révén jelentősen hozzájárul az államkincstárhoz.",
       ro: "Mina de aur Boungou, cunoscută anterior sub numele de Natougou, se află în estul Burkinei Faso, în provincia Tapoa. Mina este operată de Endeavour Mining și a început producția comercială în 2018. Din punct de vedere geologic, se află în formațiunea Birimian, bogată în zăcăminte de aur de înaltă calitate. Boungou este concepută ca o mină de suprafață și utilizează o instalație de concasare și lixiviere pentru extracția aurului. Datorită locației sale într-o regiune izolată a țării, construcția minei a fost o performanță logistică, necesitând și îmbunătățirea căilor de transport locale. Mina se distinge prin concentrații de aur peste medie în minereu, ceea ce o face deosebit de atractivă din punct de vedere economic. În ultimii ani, mina s-a confruntat cu provocări operaționale din cauza situației regionale de securitate, dar a rămas un pilon al industriei miniere naționale. Endeavour Mining investește continuu în securitate și proiecte sociale pentru a asigura acceptarea în rândul populației locale Gourmantché. Proiectul contribuie masiv la bugetul de stat prin redevențe și taxe.",
       en: "The Boungou Gold Mine, formerly known as Natougou, is located in eastern Burkina Faso in the Tapoa Province. The mine is operated by Endeavour Mining and commenced commercial production in 2018. Geologically, it is situated within the Birimian formation, which is rich in high-grade gold deposits. Boungou is designed as an open-pit operation and utilizes a crushing and leaching facility for gold extraction. Due to its location in a remote region of the country, the construction of the mine was a logistical feat that also required the improvement of local transportation routes. The mine is characterized by above-average gold grades in the ore, making it particularly attractive economically. In recent years, the mine has faced operational challenges due to the regional security situation but has remained a cornerstone of the national mining industry. Endeavour Mining continuously invests in security and social projects to ensure acceptance among the local Gourmantché population. The project contributes significantly to the national treasury through royalties and taxes.",
+      es: "La mina de Boungou es un importante proyecto de extracción de oro en el este de Burkina Faso que, a pesar de los desafíos logísticos, desempeña un papel clave en la economía regional. La región se caracteriza por sabanas secas, lo que convierte a la minería en el medio de vida de muchos habitantes. Sachkunde K5 — Vivir de la extracción de materias primas.",
+      pt: "A mina de Boungou é um importante projeto de extração de ouro no leste do Burkina Faso que, apesar dos desafios logísticos, desempenha um papel fundamental na economia regional. A região é caracterizada por savanas secas, tornando a mineração o sustento de muitos habitantes. Sachkunde K5 — Viver da extração de matérias-primas.",
+      fr: "La mine de Boungou est un projet d'extraction d'or majeur dans l'est du Burkina Faso qui, malgré les défis logistiques, joue un rôle clé dans l'économie régionale. La région est caractérisée par des savanes sèches, ce qui fait de l'exploitation minière le moyen de subsistance de nombreux habitants. Sachkunde K5 — Vivre de l'extraction de matières premières.",
     },
     factsAdvanced: {
       de: ["Liegt in der Provinz Tapoa im Osten des Landes.", "Begann 2018 mit der kommerziellen Goldförderung.", "Früherer Projektname war Natougou.", "Bekannt für seine hohen Goldgehalte im Erz.", "Wird von dem Unternehmen Endeavour Mining betrieben.", "Wichtiger Arbeitgeber für die lokale Gourmantché-Bevölkerung."],
       hu: ["A keleti Tapoa tartományban található.", "2018-ban kezdte meg a kereskedelmi aranytermelést.", "Korábbi projektneve Natougou volt.", "Az érc magas aranytartalmáról ismert.", "Az Endeavour Mining vállalat üzemelteti.", "Fontos munkaadó a helyi gurmantché lakosság számára."],
       ro: ["Situată în provincia Tapoa din estul țării.", "A început extracția comercială de aur în 2018.", "Numele anterior al proiectului a fost Natougou.", "Cunoscută pentru concentrațiile mari de aur din minereu.", "Este operată de compania Endeavour Mining.", "Angajator important pentru populația locală Gourmantché."],
       en: ["Located in the Tapoa Province in the east of the country.", "Started commercial gold production in 2018.", "The former project name was Natougou.", "Known for its high gold grades in the ore.", "Operated by the company Endeavour Mining.", "Major employer for the local Gourmantché population."],
+      es: ["Mina de oro en la región Est", "Operación a cielo abierto con logística moderna", "Factor económico importante en el este", "Inversiones en infraestructura local", "Enfoque en una extracción segura y eficiente", "Contribución al desarrollo de la región de Gourma"],
+      pt: ["Mina de ouro na região Est", "Operação a céu aberto com logística moderna", "Factor económico importante no leste", "Investimentos na infraestrutura local", "Foco numa extração segura e eficiente", "Contribuição para o desenvolvimento da região de Gourma"],
+      fr: ["Mine d'or dans la région de l'Est", "Exploitation à ciel ouvert avec logistique moderne", "Facteur économique important dans l'est", "Investissements dans l'infrastructure locale", "Focus sur une extraction sûre et efficace", "Contribution au développement de la région du Gourma"],
     }, image: "/poi-images/boungou-gold-mine-economic-v2.webp",
     description: {
       de: "Die Boungou-Goldmine liegt im Osten des Landes und zählt zu den markanten Rohstoffstandorten Burkina Fasos. Ihr Betrieb stützt die regionale Wertschöpfung und den Exportsektor.",
       hu: "A Boungou aranybánya Burkina Faso keleti részének egyik ismert kitermelőhelye. A térségben az aranybányászat az egyik legfontosabb gazdasági ágazat.",
       ro: "Boungou este o exploatare auriferă cunoscută din estul Burkinei Faso. Mina face parte din sectorul minier care aduce venituri și activitate economică în regiune.",
-      en: "Boungou Gold Mine is a gold site in eastern Burkina Faso. It sits in a dry savanna zone where mining plays a big role in the local economy."
+      en: "Boungou Gold Mine is a gold site in eastern Burkina Faso. It sits in a dry savanna zone where mining plays a big role in the local economy.",
+      es: "La mina de oro de Boungou se encuentra en el este del país y es uno de los emplazamientos de recursos naturales destacados de Burkina Faso. Su explotación apoya el valor añadido regional y el sector exportador.",
+      pt: "A mina de ouro de Boungou situa-se no leste do país e é um dos locais de recursos naturais proeminentes do Burkina Faso. A sua operação apoia a criação de valor regional e o sector de exportação.",
+      fr: "La mine d'or de Boungou est située dans l'est du pays et compte parmi les sites de ressources naturelles marquants du Burkina Faso. Son exploitation soutient la valeur ajoutée régionale et le secteur des exportations.",
     },
     facts: {
       de: ["Goldmine im Osten", "Tagebaustandort", "Teil des Exportsektors"],
       hu: ["Keleti aranybánya", "Kitermelési központ", "A regionális gazdaságot erősíti"],
       ro: ["exploatare auriferă", "în estul țării", "parte din sectorul minier"],
-      en: ["Eastern Burkina Faso", "Savanna setting", "Part of the mining sector"]
+      en: ["Eastern Burkina Faso", "Savanna setting", "Part of the mining sector"],
+      es: ["Mina de oro en el este", "Emplazamiento a cielo abierto", "Parte del sector exportador"],
+      pt: ["Mina de ouro no leste", "Local a céu aberto", "Parte do sector de exportação"],
+      fr: ["Mine d'or dans l'est", "Site à ciel ouvert", "Fait partie du secteur des exportations"],
     }
   },
   {
@@ -126,24 +162,36 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       hu: "A Perkoa cinkbánya az egyetlen ilyen típusú bányászati létesítmény Burkina Fasóban, Sanguié tartományban található, körülbelül 120 kilométerre nyugatra Ouagadougoutól. A bányát elsősorban cinkkoncentrátum előállítására üzemeltették, de kis mennyiségben ezüstöt is kinyertek belőle. A Perkoa hosszú ideig a burkinai bányászati szektor diverzifikációjának mintaprojektje volt, elmozdulva a kizárólagos aranybányászattól. Földtanilag ez egy vulkanogén masszív szulfid (VMS) lelőhely, amely magas cinkkoncentrációval rendelkezik. 2022-ben a bánya szomorú hírnévre tett szert egy súlyos áradás miatt, amely több bányász halálát okozta és az üzemi tevékenység leállításához vezetett. A bányát legutóbb a kanadai Trevali Mining üzemeltette, mielőtt a szerencsétlenséget követő pénzügyi nehézségek a bezáráshoz vezettek. A jelenlegi inaktivitás ellenére a lelőhely földtani potenciálja továbbra is téma a jövőbeli rehabilitációs vagy újranyitási tervekben. A létesítmény egy földalatti bányát és egy modern flotációs üzemet foglalt magában az érc feldolgozásához. A bánya hatása Kordié és Réo helyi gazdaságára évekig jelentős volt.",
       ro: "Mina de zinc Perkoa este singura exploatare de acest gen din Burkina Faso, situată în provincia Sanguié, la aproximativ 120 de kilometri vest de Ouagadougou. Mina a fost operată în principal pentru producerea de concentrat de zinc, fiind extrase și cantități mici de argint. Perkoa a fost considerată mult timp un proiect model pentru diversificarea sectorului minier burkinabè, dincolo de extracția exclusivă a aurului. Din punct de vedere geologic, este un zăcământ de sulfuri masive vulcanogene (VMS), care prezintă o concentrație ridicată de zinc. În anul 2022, mina a devenit trist de celebră din cauza unei inundații severe care a dus la moartea mai multor mineri și la încetarea operațiunilor. Mina a fost operată ultima dată de compania canadiană Trevali Mining, înainte ca dificultățile financiare survenite în urma accidentului să ducă la închidere. În ciuda inactivității actuale, potențialul geologic al zăcământului rămâne un subiect pentru planuri viitoare de remediere sau redeschidere. Instalația includea o mină subterană și o stație modernă de flotație pentru procesarea minereului. Influența minei asupra economiei locale din Kordié și Réo a fost semnificativă timp de mulți ani.",
       en: "The Perkoa Zinc Mine is the only mine of its kind in Burkina Faso, located in the Sanguié Province, about 120 kilometers west of Ouagadougou. The mine was primarily operated for the production of zinc concentrate, with small amounts of silver also being extracted. For a long time, Perkoa was considered a flagship project for diversifying Burkina Faso's mining sector away from pure gold mining. Geologically, it is a volcanogenic massive sulfide (VMS) deposit characterized by a high zinc concentration. In 2022, the mine gained tragic notoriety due to a severe flooding event that led to the deaths of several miners and the suspension of operations. The mine was most recently operated by the Canadian firm Trevali Mining before financial difficulties following the disaster led to its closure. Despite its current inactivity, the geological potential of the deposit remains a topic for future remediation or reopening plans. The facility included an underground mine and a modern flotation plant for ore processing. The mine's influence on the local economy of Kordié and Réo was significant for many years.",
+      es: "Perkoa es la única mina de zinc de Burkina Faso y ocupa una posición especial en el sector minero. Situada en la región Centre-Ouest, ha diversificado el sector exportador del país con un metal industrial importante. Conocimientos K5 — Industria y minería.",
+      pt: "Perkoa é a única mina de zinco em Burkina Faso e ocupa uma posição especial no setor mineiro. Localizada na região Centre-Ouest, diversificou o setor de exportação do país com um metal industrial importante. Conhecimento K5 — Indústria e Mineração.",
+      fr: "Perkoa est la seule mine de zinc du Burkina Faso et occupe une place particulière dans le secteur minier. Située dans la région Centre-Ouest, elle a diversifié le secteur des exportations du pays grâce à un métal industriel important. Connaissances K5 — Industrie et mines.",
     },
     factsAdvanced: {
       de: ["Einzige Zinkmine Burkina Fasos, gelegen in der Provinz Sanguié.", "Wurde von der kanadischen Trevali Mining Corporation betrieben.", "Liegt etwa 120 km westlich der Hauptstadt Ouagadougou.", "Fördert Zink aus einer vulkanogenen Massivsulfidlagerstätte.", "Betrieb wurde nach einer schweren Flutkatastrophe im April 2022 eingestellt.", "Produzierte neben Zink auch Silber als Nebenprodukt."],
       hu: ["Burkina Faso egyetlen cinkbányája Sanguié tartományban.", "A kanadai Trevali Mining Corporation üzemeltette.", "Kb. 120 km-re nyugatra fekszik Ouagadougoutól.", "Vulkanogén masszív szulfid lelőhelyből termel ki cinket.", "A működést 2022 áprilisában egy súlyos áradás után leállították.", "A cink mellett ezüstöt is termelt melléktermékként."],
       ro: ["Singura mină de zinc din Burkina Faso, în provincia Sanguié.", "A fost operată de compania canadiană Trevali Mining Corporation.", "Situată la aproximativ 120 km vest de capitala Ouagadougou.", "Extrage zinc dintr-un zăcământ de sulfuri masive vulcanogene.", "Operațiunile au fost oprite după o inundație gravă în aprilie 2022.", "A produs și argint ca produs secundar pe lângă zinc."],
       en: ["Burkina Faso's only zinc mine, located in Sanguié Province.", "Was operated by the Canadian Trevali Mining Corporation.", "Located about 120 km west of the capital Ouagadougou.", "Extracts zinc from a volcanogenic massive sulfide deposit.", "Operations were suspended after a severe flooding disaster in April 2022.", "Produced silver as a by-product alongside zinc."],
+      es: ["Única mina de zinc del país", "Moderna minería subterránea en la provincia de Sanguie", "Diversificación de las exportaciones nacionales", "Gran importancia para el desarrollo industrial", "Extracción tecnológicamente avanzada", "Empleador para especialistas regionales"],
+      pt: ["Única mina de zinco do país", "Moderna mineração subterrânea na província de Sanguie", "Diversificação das exportações nacionais", "Grande importância para o desenvolvimento industrial", "Extração tecnologicamente avançada", "Empregador para especialistas regionais"],
+      fr: ["Seule mine de zinc du pays", "Mine souterraine moderne dans la province du Sanguié", "Diversification des exportations nationales", "Grande importance pour le développement industriel", "Extraction technologiquement avancée", "Employeur pour les cadres régionaux"],
     }, image: "/poi-images/perkoa-zinc-mine-economic-v2.webp",
     description: {
       de: "Die Perkoa-Zinkmine ist ein besonderer Industriestandort im Zentrum Westburkina Fasos. Sie steht für den Abbau eines selteneren Metalls und ergänzt den Goldsektor des Landes.",
       hu: "A Perkoa cinkbánya az ország ritkább fémipari létesítményei közé tartozik. A cinkkitermelés különleges helyet ad neki Burkina Faso bányászati térképén.",
       ro: "Mina Perkoa este asociată cu extracția de zinc și cu profilul metalifer al Burkina Fasoului. Ea ocupă un loc aparte în industria minieră a țării.",
-      en: "Perkoa Zinc Mine is a key zinc project in west-central Burkina Faso. It is one of the country's most important non-gold mining sites."
+      en: "Perkoa Zinc Mine is a key zinc project in west-central Burkina Faso. It is one of the country's most important non-gold mining sites.",
+      es: "La mina de zinc de Perkoa es un sitio industrial especial en el centro-oeste de Burkina Faso. Representa la extracción de un metal más raro y complementa el sector del oro del país.",
+      pt: "A mina de zinco de Perkoa é um local industrial especial no centro-oeste de Burkina Faso. Representa a extração de um metal mais raro e complementa o setor do ouro do país.",
+      fr: "La mine de zinc de Perkoa est un site industriel particulier au centre-ouest du Burkina Faso. Elle représente l'extraction d'un métal plus rare et complète le secteur aurifère du pays.",
     },
     facts: {
       de: ["Zinkmine in Perkoa", "Untertagebau", "Wichtig für Metallexporte"],
       hu: ["Cinkkitermelő bánya", "Különleges ipari helyszín", "Fémipari jelentőség"],
       ro: ["mină de zinc", "resursă metaliferă", "importanță industrială"],
-      en: ["Zinc mining site", "West-central location", "Important industrial asset"]
+      en: ["Zinc mining site", "West-central location", "Important industrial asset"],
+      es: ["Mina de zinc en Perkoa", "Minería subterránea", "Importante para exportaciones de metal"],
+      pt: ["Mina de zinco em Perkoa", "Mineração subterrânea", "Importante para exportações de metal"],
+      fr: ["Mine de zinc à Perkoa", "Mine souterraine", "Important pour les exportations de métaux"],
     }
   },
   {
@@ -162,24 +210,36 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       hu: "A Bobointer Bobo-Dioulasso legfontosabb szárazföldi kikötője, amely kulcsfontosságú multimodális logisztikai platformként szolgál Burkina Faso nemzetközi kereskedelmében. Az Abidjan-Niger vasútvonal mentén stratégiailag elhelyezkedő létesítmény megkönnyíti az áruk mozgását az Elefántcsontpart atlanti partvidéke és a burkinai hátország között. A mintegy 19 hektáron elterülő központot a Burkina Fasó-i Kereskedelmi és Iparkamara (CCI-BF) kezeli. Vámszabad raktárakat, konténerterminálokat és vámkezelési szolgáltatásokat foglal magában, jelentősen lerövidítve az import és export tranzitidejét. A kikötő modernizálása révén éves kapacitása meghaladja az 1,2 millió tonna rakományt, támogatva a Hauts-Bassins régió gazdaságát. Tengerparttal nem rendelkező országként az ilyen szárazföldi kikötők létfontosságúak a versenyképes ellátási láncok fenntartásához és az alapvető javak helyi piaci elérhetőségének biztosításához. A létesítmény segít csökkenteni a szállítási költségeket és növeli a kereskedelmi hatékonyságot a nyugati országrészben.",
       ro: "Bobointer este principalul port uscat din Bobo-Dioulasso, acționând ca o platformă logistică multimodală crucială pentru comerțul internațional al Burkinei Faso. Situat strategic de-a lungul liniei de cale ferată Abidjan-Niger, acesta facilitează mișcarea mărfurilor între coasta atlantică a Coastei de Fildeș și hinterlandul burkinez. Instalația acoperă aproximativ 19 hectare și este administrată de Camera de Comerț și Industrie a Burkinei Faso (CCI-BF). Include depozite vamale, terminale de containere și servicii de vămuire, reducând semnificativ timpii de tranzit pentru importuri și exporturi. Modernizarea portului a sporit capacitatea acestuia de a gestiona peste 1,2 milioane de tone de marfă anual, susținând economia regională a regiunii Hauts-Bassins. Fiind o țară fără ieșire la mare, astfel de porturi uscate sunt vitale pentru menținerea lanțurilor de aprovizionare competitive și pentru asigurarea disponibilității bunurilor esențiale pe piața locală. Facilitatea joacă un rol central în exportul de bumbac și fructe din zona de vest a țării.",
       en: "Bobointer is the primary dry port in Bobo-Dioulasso, acting as a crucial multimodal logistics platform for Burkina Faso's international trade. Strategically located along the Abidjan-Niger railway line, it facilitates the movement of goods between the Atlantic coast of Ivory Coast and the Burkinabè hinterland. The facility covers approximately 19 hectares and is managed by the Chamber of Commerce and Industry of Burkina Faso. It includes bonded warehouses, container terminals, and customs clearance services, significantly reducing transit times for imports and exports. The modernization of the port has enhanced its capacity to handle over 1.2 million tons of cargo annually, supporting the regional economy of the Hauts-Bassins. As a landlocked country, such dry ports are vital for maintaining competitive supply chains and ensuring the availability of essential goods in the local market. Its strategic importance continues to grow with the expansion of regional rail networks.",
+      es: "El puerto seco intermodal Bobointer es un centro logístico para la importación y exportación de mercancías en Burkina Faso. Gracias a su conexión con la línea ferroviaria, es de vital importancia para el tráfico de mercancías con Costa de Marfil. Geografía K7 — Logística.",
+      pt: "O porto seco intermodal Bobointer é um centro logístico para a importação e exportação de mercadorias no Burkina Faso. Devido à sua ligação à linha ferroviária, é de importância vital para o tráfego de mercadorias com a Costa do Marfim. Geografia K7 — Logística.",
+      fr: "Le port sec intermodal Bobointer est une plaque tournante logistique pour l'importation et l'exportation de marchandises au Burkina Faso. Grâce à sa liaison ferroviaire, il est d'une importance capitale pour le trafic de marchandises avec la Côte d'Ivoire. Géographie K7 — Logistique.",
     },
     factsAdvanced: {
       de: ["Baubeginn im Jahr 2005, Inbetriebnahme offiziell im Jahr 2010.", "Wickelt rund 60 % der über die Schiene kommenden Fracht aus Abidjan ab.", "Die gesamte bebaute Fläche beträgt circa 19 Hektar.", "Jährliche Kapazität zur Abfertigung von 1,2 Millionen Tonnen Fracht.", "Verwaltung durch die CCI-BF im Rahmen eines Konzessionsvertrags.", "Zentraler Knotenpunkt für den Export von Baumwolle und Obst aus dem Westen."],
       hu: ["Az építkezés 2005-ben kezdődött, a hivatalos üzembe helyezés 2010-ben történt.", "Az Abidjanból vasúton érkező rakomány mintegy 60%-át kezeli.", "A létesítmény teljes területe körülbelül 19 hektár.", "Évente 1,2 millió tonna áru feldolgozására képes.", "A CCI-BF kezeli egy koncessziós megállapodás keretében.", "Kulcsfontosságú a nyugati országrész bumbak- és gyümölcsexportja számára."],
       ro: ["Construcția a început în 2005, fiind operaționalizat oficial în 2010.", "Gestionează aproximativ 60% din mărfurile feroviare provenite din Abidjan.", "Suprafața totală construită este de circa 19 hectare.", "Capacitate anuală de procesare de 1,2 milioane de tone de marfă.", "Administrat de CCI-BF în baza unui contract de concesiune.", "Hub central pentru exportul de bumbac și fructe din vestul țării."],
       en: ["Construction began in 2005, with operations officially starting in 2010.", "Handles approximately 60% of rail freight coming from Abidjan.", "The total developed area is approximately 19 hectares.", "Annual capacity to process 1.2 million tons of cargo.", "Managed by the CCI-BF under a concession agreement.", "Crucial hub for the export of cotton and fruits from the west."],
+      es: ["Importante puerto seco en Bobo-Dioulasso", "Centro logístico para el comercio", "Conexión con el puerto de Abiyán", "Aceleración del despacho de mercancías", "Corazón económico de la región de Hauts-Bassins", "Infraestructura vital para el país sin litoral"],
+      pt: ["Importante porto seco em Bobo-Dioulasso", "Centro logístico para o comércio", "Ligação ao porto de Abidjan", "Aceleração do despacho de mercadorias", "Coração económico da região de Hauts-Bassins", "Infraestrutura vital para o país sem litoral"],
+      fr: ["Important port sec à Bobo-Dioulasso", "Plaque tournante logistique pour le commerce", "Liaison avec le port d'Abidjan", "Accélération du dédouanement des marchandises", "Cœur économique de la région des Hauts-Bassins", "Infrastructure vitale pour le pays enclavé"],
     }, image: "/poi-images/bobointer-dry-port-economic-v2.webp",
     description: {
       de: "Der Dry Port von Bobo-Dioulasso ist ein logistischer Knotenpunkt für den Binnenhandel im Westen des Landes. Er bündelt Warenströme und entlastet den Straßenverkehr Richtung Küste.",
       hu: "A Bobointer szárazkikötő Bobo-Dioulasso logisztikai szerepét erősíti. Az áruk átrakását és továbbítását segíti egy tengerparttal nem rendelkező országban.",
       ro: "Bobointer este un port uscat care susține logistica orașului Bobo-Dioulasso. Prin el circulă și se organizează mărfurile într-o țară fără ieșire la mare.",
-      en: "Bobo Inter Dry Port is an inland logistics hub in Bobo-Dioulasso. It helps move cargo between western Burkina Faso and the rest of the country."
+      en: "Bobo Inter Dry Port is an inland logistics hub in Bobo-Dioulasso. It helps move cargo between western Burkina Faso and the rest of the country.",
+      es: "El puerto seco de Bobo-Dioulasso es un nodo logístico para el comercio interior en el oeste del país. Centraliza los flujos de mercancías y alivia el tráfico rodado hacia la costa.",
+      pt: "O porto seco de Bobo-Dioulasso é um nó logístico para o comércio interno no oeste do país. Centraliza os fluxos de mercadorias e alivia o tráfego rodoviário em direção à costa.",
+      fr: "Le port sec de Bobo-Dioulasso est un carrefour logistique pour le commerce intérieur dans l'ouest du pays. Il centralise les flux de marchandises et soulage le trafic routier vers la côte.",
     },
     facts: {
       de: ["Trockener Hafen", "In Bobo-Dioulasso", "Wichtig für den Binnenhandel"],
       hu: ["Bobo-Dioulasso logisztikája", "Belföldi szárazkikötő", "Áruforgalmat gyorsít"],
       ro: ["port uscat", "legat de Bobo-Dioulasso", "ajută tranzitul mărfurilor"],
-      en: ["Dry port facility", "Cargo handling hub", "Supports inland trade"]
+      en: ["Dry port facility", "Cargo handling hub", "Supports inland trade"],
+      es: ["Puerto seco", "En Bobo-Dioulasso", "Importante para el comercio interior"],
+      pt: ["Porto seco", "Em Bobo-Dioulasso", "Importante para o comércio interno"],
+      fr: ["Port sec", "À Bobo-Dioulasso", "Important pour le commerce intérieur"],
     }
   },
   {
@@ -198,24 +258,36 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       hu: "Az Ouagarinter a főváros, Ouagadougou legfontosabb szárazföldi kikötője és vámterminálja. Elsődleges csomópontként szolgál a szomszédos országok nagy kikötőiből, például Loméból, Cotonou-ból és Temából érkező közúti teherforgalom számára. A létesítmény elengedhetetlen az áruk elosztásához Közép- és Észak-Burkina Fasóban, speciális infrastruktúrát biztosítva a konténertároláshoz és a logisztikai menedzsmenthez. A CCI-BF által kezelt Ouagarinter több bővítési fázison ment keresztül, hogy alkalmazkodjon a nemzetközi kereskedelem növekvő volumenéhez. Integrált szolgáltatásokat nyújt, amelyek magukban foglalják a műszaki ellenőrzést, a mérlegelést és az importált áruk adminisztratív feldolgozását. A vámügyi műveletek központosításával a kikötő segíti a kereskedelmi forgalom szabályozását, és jelentősen hozzájárul az állami adóbevételekhez. Szerepe kulcsfontosságú az importált anyagok árának stabilizálásában és a fővárosi régió ipari fejlődésének támogatásában.",
       ro: "Ouagarinter este principalul port uscat și terminal vamal care deservește capitala Ouagadougou. Acesta servește ca hub primar pentru mărfurile terestre care intră în țară din porturi regionale majore precum Lomé, Cotonou și Tema. Instalația este esențială pentru distribuția mărfurilor în centrul și nordul Burkinei Faso, oferind infrastructură specializată pentru depozitarea containerelor și gestionarea logisticii. Administrat de CCI-BF, Ouagarinter a trecut prin mai multe faze de expansiune pentru a găzdui volumul tot mai mare de comerț internațional. Oferă servicii integrate care includ inspecție tehnică, cântărire și procesarea administrativă a bunurilor importate. Prin centralizarea operațiunilor vamale, portul ajută la reglarea fluxului de trafic comercial și contribuie semnificativ la veniturile fiscale ale statului. Rolul său este esențial în stabilizarea prețurilor materialelor importate și în sprijinirea dezvoltării industriale a regiunii capitalei.",
       en: "Ouagarinter is the main dry port and customs terminal serving the capital city of Ouagadougou. It serves as the primary hub for land-based freight entering the country from major regional ports like Lomé, Cotonou, and Tema. The facility is essential for the distribution of goods across central and northern Burkina Faso, offering specialized infrastructure for container storage and logistics management. Managed by the CCI-BF, Ouagarinter has undergone several expansion phases to accommodate the growing volume of international trade. It provides integrated services that include technical inspection, weighing, and administrative processing of imported goods. By centralizing customs operations, the port helps regulate the flow of commercial traffic and contributes significantly to the state's tax revenue. Its role is pivotal in stabilizing prices of imported materials and supporting the industrial development of the capital region.",
+      es: "El puerto seco de Uagadugú funciona como el centro principal para el despacho de mercancías de la capital. Es un punto central para el comercio entre los países costeros y el interior de Burkina Faso. Conocimientos K5 — Comercio y transporte.",
+      pt: "O porto seco de Ouagadougou funciona como o principal centro de despacho de mercadorias da capital. É um ponto central para o comércio entre os países costeiros e o interior de Burkina Faso. Conhecimento K5 — Comércio e Transportes.",
+      fr: "Le port sec de Ouagadougou fait office de centre principal pour le traitement des marchandises de la capitale. C'est un point central pour le commerce entre les pays côtiers et l'intérieur du Burkina Faso. Connaissances K5 — Commerce et transports.",
     },
     factsAdvanced: {
       de: ["Größtes Zollterminal in Burkina Faso für den Straßenverkehr.", "Strategisch mit den Seehäfen von Lomé (Togo) und Cotonou (Benin) verbunden.", "Wickelt jährlich über 800.000 Tonnen verschiedener Güter ab.", "Bietet Parkmöglichkeiten für bis zu 1.500 schwere Nutzfahrzeuge.", "Zentralisiert administrative Verfahren für eine schnellere Abfertigung.", "Essentiell für die Versorgung der Hauptstadt mit Treibstoff und Nahrungsmitteln."],
       hu: ["Burkina Faso legnagyobb vámterminálja a közúti teherforgalom számára.", "Stratégiai kapcsolatban áll Lomé (Togo) és Cotonou (Benin) tengeri kikötőivel.", "Évente több mint 800 000 tonna különféle árut kezel.", "Akár 1500 nehézgépjármű számára biztosít parkolóhelyet.", "Központosítja az adminisztratív eljárásokat a gyorsabb vámkezelés érdekében.", "Alapvető fontosságú a főváros üzemanyag- és élelmiszerellátása szempontjából."],
       ro: ["Cel mai mare terminal vamal din Burkina Faso pentru traficul rutier.", "Legat strategic de porturile maritime din Lomé (Togo) și Cotonou (Benin).", "Gestionează anual peste 800.000 de tone de mărfuri diverse.", "Oferă parcare pentru până la 1.500 de vehicule grele simultan.", "Centralizează procedurile administrative pentru o vămuire mai rapidă.", "Esențial pentru aprovizionarea capitalei cu combustibil și alimente."],
       en: ["Largest customs terminal in Burkina Faso for road freight.", "Strategically linked to the ports of Lomé (Togo) and Cotonou (Benin).", "Handles over 800,000 tons of various goods annually.", "Provides parking for up to 1,500 heavy vehicles at once.", "Centralizes administrative procedures for faster clearance.", "Essential for the supply of fuel and food to the capital city."],
+      es: ["Puerto seco principal de la capital", "Punto central para la logística de mercancías", "Conexión con mercados internacionales", "Modernización de las rutas comerciales", "Despacho eficiente de bienes", "Importante para el abastecimiento de la capital"],
+      pt: ["Principal porto seco da capital", "Ponto central para a logística de mercadorias", "Ligação a mercados internacionais", "Modernização das rotas comerciais", "Despacho eficiente de mercadorias", "Importante para o abastecimento da capital"],
+      fr: ["Principal port sec de la capitale", "Point central pour la logistique des marchandises", "Connexion aux marchés internationaux", "Modernisation des routes commerciales", "Traitement efficace des biens", "Important pour l'approvisionnement de la capitale"],
     }, image: "/poi-images/ouagarinter-dry-port-economic-v2.webp",
     description: {
       de: "Ouagarinter ist der trockene Hafen von Ouagadougou und ein zentraler Umschlagplatz für Güter im Inland. Die Anlage unterstützt Importe, Transit und Lagerung in der Hauptstadtregion.",
       hu: "Az Ouagarinter szárazkikötő Ouagadougou egyik fontos kereskedelmi csomópontja. A főváros ellátásában és az importáruk kezelésében is szerepe van.",
       ro: "Ouagarinter este un port uscat important din Ouagadougou. Rolul lui este să ordoneze fluxul de mărfuri și să sprijine aprovizionarea capitalei.",
-      en: "Ouagarinter Dry Port is the main inland freight hub for Ouagadougou. It supports storage, customs handling, and cargo movement for the capital area."
+      en: "Ouagarinter Dry Port is the main inland freight hub for Ouagadougou. It supports storage, customs handling, and cargo movement for the capital area.",
+      es: "Ouagarinter es el puerto seco de Uagadugú y un centro logístico clave para el transporte de mercancías en el interior. La instalación apoya las importaciones, el tránsito y el almacenamiento en la región de la capital.",
+      pt: "Ouagarinter é o porto seco de Ouagadougou e um centro logístico fundamental para as mercadorias no interior. A instalação apoia as importações, o trânsito e o armazenamento na região da capital.",
+      fr: "Ouagarinter est le port sec de Ouagadougou et une plaque tournante centrale pour les marchandises à l'intérieur du pays. L'installation soutient les importations, le transit et le stockage dans la région de la capitale.",
     },
     facts: {
       de: ["Trockener Hafen in Ouaga", "Logistikknoten", "Für Import und Transit"],
       hu: ["Ouagadougou mellett működik", "Kereskedelmi csomópont", "Importárukat kezel"],
       ro: ["port uscat", "în Ouagadougou", "nod comercial"],
-      en: ["Ouagadougou freight hub", "Customs and storage", "Links to national transport"]
+      en: ["Ouagadougou freight hub", "Customs and storage", "Links to national transport"],
+      es: ["Puerto seco en Uagadugú", "Nodo logístico", "Para importación y tránsito"],
+      pt: ["Porto seco em Ouagadougou", "Nó logístico", "Para importação e trânsito"],
+      fr: ["Port sec à Ouaga", "Nœud logistique", "Pour l'importation et le transit"],
     }
   },
   {
@@ -234,24 +306,36 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       hu: "A Tambao mangánbánya Burkina Faso északi részén, Oudalan tartományban található, Mali és Niger határának közelében. A világ egyik legnagyobb kiaknázatlan mangánkészletének tartják, amelynek becsült tartaléka meghaladja a 100 millió tonna kiváló minőségű ércet. A mangán az acélgyártás és az akkumulátorgyártás alapvető összetevője, ami ezt a helyszínt a nemzetgazdaság stratégiai eszközévé teszi. Lehetőségei ellenére a bánya fejlesztése számos késedelemmel szembesült jogi viták, infrastrukturális kihívások és regionális biztonsági kérdések miatt. A projekt több száz kilométernyi vasútvonal megépítését vagy felújítását igényli az érc tengerparti kikötőkbe történő elszállításához. A teljes üzembe helyezés után a bánya várhatóan több ezer munkahelyet teremt és jelentős exportbevételt termel. Továbbra is a kormány hosszú távú iparosítási és bányászati diverzifikációs stratégiájának egyik fő fókuszpontja marad.",
       ro: "Mina de mangan Tambao este situată în provincia Oudalan, în extremul nord al Burkinei Faso, aproape de granițele cu Mali și Niger. Este considerată unul dintre cele mai mari zăcăminte de mangan neexploatate din lume, cu rezerve estimate la peste 100 de milioane de tone de minereu de înaltă calitate. Manganul este o componentă esențială în producția de oțel și în fabricarea bateriilor, ceea ce face ca acest sit să fie un activ strategic pentru economia națională. În ciuda potențialului său, dezvoltarea minei s-a confruntat cu numeroase întârzieri cauzate de dispute juridice, provocări de infrastructură și probleme de securitate regională. Proiectul necesită construcția sau reabilitarea a sute de kilometri de cale ferată pentru a transporta minereul către porturile de coastă. Odată ce va fi pe deplin operațională, se preconizează că mina va crea mii de locuri de muncă și va genera venituri substanțiale din export.",
       en: "The Tambao Manganese Mine is located in the Oudalan Province in the extreme north of Burkina Faso, near the borders with Mali and Niger. It is considered one of the largest undeveloped manganese deposits in the world, with estimated reserves exceeding 100 million tons of high-grade ore. Manganese is an essential component in steel production and battery manufacturing, making this site a strategic asset for the national economy. Despite its potential, the mine's development has faced numerous delays due to legal disputes, infrastructure challenges, and regional security issues. The project requires the construction or rehabilitation of hundreds of kilometers of railway to transport the ore to coastal ports. Once fully operational, the mine is expected to create thousands of jobs and generate substantial export revenue. It remains a key focus of the government's long-term industrialization and mining sector diversification strategy.",
+      es: "El proyecto de manganeso de Tambao, en el extremo noreste, se considera una de las mayores reservas sin explotar del mundo. El desafío logístico del transporte a través del Sahel ha retrasado su desarrollo hasta ahora; sin embargo, es un tema central de futuro para la economía nacional. Geografía K8 — Potencial de materias primas.",
+      pt: "O projeto de manganês de Tambao, no extremo nordeste, é considerado uma das maiores reservas não exploradas do mundo. O desafio logístico do transporte através do Sahel atrasou o desenvolvimento até agora; no entanto, é um tema central para o futuro da economia nacional. Geografia K8 — Potencial de matérias-primas.",
+      fr: "Le projet de manganèse de Tambao, à l'extrême nord-est, est considéré comme l'une des plus grandes réserves inexploitées au monde. Le défi logistique du transport à travers le Sahel a retardé son développement jusqu'à présent ; il s'agit néanmoins d'un enjeu futur central pour l'économie nationale. Géographie K8 — Potentiel de matières premières.",
     },
     factsAdvanced: {
       de: ["Manganreserven auf etwa 100 Millionen Tonnen hochwertiges Erz geschätzt.", "Befindet sich etwa 350 km nördlich des derzeitigen Schienenkopfes in Kaya.", "Der Erzgehalt ist mit rund 50 % Mangananteil außergewöhnlich hoch.", "Gilt als eine der weltweit größten ungenutzten Lagerstätten ihrer Art.", "Die Entdeckung des Vorkommens datiert bereits auf die frühen 1960er Jahre.", "Projekt erfordert eine 210 km lange Eisenbahnverlängerung bis nach Tambao."],
       hu: ["A mangánkészletet mintegy 100 millió tonna kiváló minőségű ércre becsülik.", "Körülbelül 350 km-re északra található a legközelebbi vasútfejtől, Kayától.", "Az érc minősége rendkívül magas, körülbelül 50% mangántartalommal.", "A világ egyik legnagyobb, még ki nem aknázott ilyen típusú lelőhelye.", "A lelőhely felfedezése az 1960-as évek elejére nyúlik vissza.", "A projekt megvalósításához 210 km-es vasúti meghosszabbításra van szükség."],
       ro: ["Rezervele de mangan sunt estimate la 100 de milioane de tone de minereu.", "Situată la 350 km nord de capătul actual al căii ferate din Kaya.", "Concentrația minereului este excepțional de mare, în jur de 50% mangan.", "Unul dintre cele mai mari zăcăminte neexploatate din întreaga lume.", "Descoperirea zăcământului datează de la începutul anilor 1960.", "Proiectul necesită o extensie de cale ferată de 210 km până la Tambao."],
       en: ["Manganese reserves estimated at 100 million tons of high-grade ore.", "Located 350 km north of the current nearest railway head at Kaya.", "The ore grade is exceptionally high, around 50% manganese content.", "One of the world's largest unexploited deposits of its kind.", "Discovery of the deposit dates back to the early 1960s.", "Project requires a 210 km railway extension from Kaya to the mine."],
+      es: ["Uno de los mayores yacimientos de manganeso del mundo", "Situado en la región del Sahel", "Importancia estratégica para la minería", "Logística históricamente difícil", "Proyecto económico de futuro para el país", "Importancia para el desarrollo de la infraestructura regional"],
+      pt: ["Uma das maiores jazidas de manganês do mundo", "Localizado na região do Sahel", "Importância estratégica para a mineração", "Logística historicamente difícil", "Projeto económico de futuro para o país", "Importância para o desenvolvimento da infraestrutura regional"],
+      fr: ["L'un des plus grands gisements de manganèse au monde", "Situé dans la région du Sahel", "Importance stratégique pour l'exploitation minière", "Logistique historiquement difficile", "Projet économique d'avenir pour le pays", "Importance pour le développement des infrastructures régionales"],
     }, image: "/poi-images/tambao-manganese-mine-economic-v2.webp",
     description: {
       de: "Die Tambao-Mangansmine liegt in der nördlichen Sahelzone und ist eines der bekanntesten Rohstoffprojekte des Landes. Sie steht für die Erschließung mineralischer Ressourcen in einer abgelegenen Region.",
       hu: "A Tambao mangánlelőhely az ország északi részének egyik nagy nyersanyagprojektje. A térség távoli fekvése miatt a fejlesztéséhez a szállítási infrastruktúra is kulcsfontosságú.",
       ro: "Tambao este cunoscut ca un proiect minier de mangan din nordul îndepărtat al țării. Amplasarea sa depinde puternic de infrastructura de transport.",
-      en: "Tambao Manganese Mine is a notable mineral site in northern Burkina Faso. It is closely associated with the country's wider effort to diversify mining output."
+      en: "Tambao Manganese Mine is a notable mineral site in northern Burkina Faso. It is closely associated with the country's wider effort to diversify mining output.",
+      es: "La mina de manganeso de Tambao se encuentra en el norte del Sahel y es uno de los proyectos de materias primas más conocidos del país. Representa el desarrollo de recursos minerales en una región remota.",
+      pt: "A mina de manganês de Tambao situa-se na zona norte do Sahel e é um dos projetos de matérias-primas mais conhecidos do país. Representa o desenvolvimento de recursos minerais numa região remota.",
+      fr: "La mine de manganèse de Tambao est située dans le nord du Sahel et constitue l'un des projets de matières premières les plus connus du pays. Elle représente l'exploitation des ressources minérales dans une région isolée.",
     },
     facts: {
       de: ["Manganvorkommen im Norden", "Abgelegene Lage", "Rohstoffprojekt"],
       hu: ["Mangánlelőhely", "Északi sivatagos térségben", "Erős infrastruktúra-igény"],
       ro: ["zăcământ de mangan", "în nordul țării", "nevoie mare de transport"],
-      en: ["Northern mineral site", "Manganese project", "Resource diversification"]
+      en: ["Northern mineral site", "Manganese project", "Resource diversification"],
+      es: ["Yacimiento de manganeso en el norte", "Ubicación remota", "Proyecto de materias primas"],
+      pt: ["Depósito de manganês no norte", "Localização remota", "Projeto de matérias-primas"],
+      fr: ["Gisement de manganèse dans le nord", "Emplacement isolé", "Projet de matières premières"],
     }
   },
   {
@@ -270,24 +354,36 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       hu: "A SOFITEX (Société des Fibres Textiles) Burkina Faso legnagyobb gyapotvállalata, amelynek adminisztratív és ipari központja Bobo-Dioulassóban található. Az 1979-ben, a gyarmati korszakbeli CFDT átszervezése után alapított cég irányítja a „fehér aranyként” is emlegetett gyapot termelését, feldolgozását és értékesítését, amely a nemzetgazdaság egyik alapköve. A vállalat számos tisztítóüzemet működtet az ország nyugati és déli régióiban, ahol a nyers gyapotot exportminőségű rosttá alakítják. A SOFITEX technikai támogatást és mezőgazdasági eszközöket biztosít több százezer kisbirtokos gazdának szervezett szövetkezeteken keresztül. A gyapotszektor mintegy négymillió ember megélhetését biztosítja Burkina Fasóban, és az ország devizabevételeinek jelentős részét teszi ki. A szintetikus rostok és a nemzetközi árak ingadozása ellenére a SOFITEX továbbra is létfontosságú társadalmi-gazdasági szerepet tölt be a vidéki fejlődés ösztönzésével.",
       ro: "SOFITEX (Société des Fibres Textiles) este cea mai mare companie de bumbac din Burkina Faso, având sediul administrativ și industrial în Bobo-Dioulasso. Înființată în 1979 în urma restructurării CFDT din era colonială, aceasta gestionează producția, procesarea și comercializarea „aurului alb”, care rămâne o piatră de temelie a economiei naționale. Compania operează numeroase fabrici de egrenare în regiunile de vest și de sud ale țării, transformând bumbacul brut în fibre de calitate pentru export. SOFITEX oferă sprijin tehnic și resurse agricole pentru sute de mii de mici fermieri prin intermediul cooperativelor organizate. Sectorul bumbacului susține mijloacele de subzistență pentru aproximativ patru milioane de oameni din Burkina Faso și reprezintă o parte semnificativă din veniturile valutare ale țării. În ciuda concurenței fibrelor sintetice, SOFITEX continuă să joace un rol socio-economic vital prin stimularea dezvoltării rurale și oferirea de locuri de muncă industriale.",
       en: "SOFITEX, the Société des Fibres Textiles, is the largest cotton company in Burkina Faso, with its administrative and industrial headquarters in Bobo-Dioulasso. Established in 1979 following the restructuring of the colonial-era CFDT, it manages the production, processing, and marketing of 'white gold,' which remains a cornerstone of the national economy. The company operates numerous ginning plants across the western and southern regions of the country, transforming raw seed cotton into export-grade fiber. SOFITEX provides technical support and agricultural inputs to hundreds of thousands of smallholder farmers through organized cooperatives. The cotton sector supports the livelihoods of approximately four million people in Burkina Faso and accounts for a significant portion of the country's foreign exchange earnings. Despite competition from synthetic fibers and fluctuating international prices, SOFITEX continues to play a vital socio-economic role by driving rural development and providing industrial employment.",
+      es: "SOFITEX es la empresa líder en el sector del algodón en Burkina Faso. La planta principal en Bobo-Dioulasso procesa el algodón de las áreas de cultivo circundantes, conocidas por el 'oro blanco' del país. Conocimientos K4 — Industria textil.",
+      pt: "A SOFITEX é a empresa líder no setor do algodão em Burkina Faso. A fábrica principal em Bobo-Dioulasso processa o algodão das áreas de cultivo circundantes, conhecidas pelo 'ouro branco' do país. Conhecimento K4 — Indústria Têxtil.",
+      fr: "La SOFITEX est l'entreprise leader de la filière coton au Burkina Faso. L'usine principale de Bobo-Dioulasso transforme le coton des zones de culture environnantes, réputées pour l' \"or blanc\" du pays. Connaissances K4 — Industrie textile.",
     },
     factsAdvanced: {
       de: ["Gegründet im Jahr 1979 als Nachfolger der kolonialen CFDT.", "Betreibt 15 Baumwollentkörnungsanlagen im ganzen Land.", "Unterstützt direkt mehr als 350.000 Baumwollbauern in Kooperativen.", "Baumwolle macht etwa 15 % des gesamten Exportwertes des Landes aus.", "Hauptsitz befindet sich in der Industriezone von Bobo-Dioulasso.", "Verfügt über einen technischen Fuhrpark von über 500 Transportfahrzeugen."],
       hu: ["1979-ben alapították a gyarmati CFDT utódvállalataként.", "15 gyapottisztító üzemet működtet az ország különböző pontjain.", "Közvetlenül több mint 350 000 gyapottermelőt támogat szövetkezeteken keresztül.", "A gyapot az ország teljes exportértékének mintegy 15%-át adja.", "Székhelye Bobo-Dioulasso ipari negyedében található.", "Több mint 500 szállítójárműből álló technikai flottát tart fenn."],
       ro: ["Înființată în 1979 ca succesor al companiei coloniale CFDT.", "Operează 15 fabrici de egrenare a bumbacului pe tot teritoriul țării.", "Susține direct peste 350.000 de fermieri prin cooperative agricole.", "Bumbacul reprezintă aproximativ 15% din valoarea totală a exporturilor.", "Sediul central se află în zona industrială din Bobo-Dioulasso.", "Menține o flotă tehnică de peste 500 de vehicule de transport."],
       en: ["Established in 1979 as a successor to the colonial-era CFDT.", "Operates 15 cotton ginning plants across the entire country.", "Directly supports more than 350,000 cotton farmers in cooperatives.", "Cotton accounts for about 15% of the total export value of the country.", "Headquartered in the industrial zone of Bobo-Dioulasso.", "Maintains a technical fleet of over 500 transport vehicles."],
+      es: ["Empresa líder en el sector del algodón", "Planta principal en Bobo-Dioulasso", "Empleador central en el procesamiento agrícola", "Producción de materias primas textiles para exportación", "Apoyo a los agricultores de algodón locales", "Motor económico de la región de Hauts-Bassins"],
+      pt: ["Empresa líder no setor do algodão", "Fábrica principal em Bobo-Dioulasso", "Empregador central no processamento agrícola", "Produção de matérias-primas têxteis para exportação", "Apoio aos produtores de algodão locais", "Motor económico da região de Hauts-Bassins"],
+      fr: ["Leader de la filière coton", "Usine principale à Bobo-Dioulasso", "Employeur central de la transformation agricole", "Production de matières premières textiles pour l'export", "Soutien aux cotonculteurs locaux", "Moteur économique de la région des Hauts-Bassins"],
     },
     description: {
       de: "Sofitex in Bobo-Dioulasso ist eng mit der burkinischen Baumwollwirtschaft verbunden. Der Standort steht für Verarbeitung, Handel und den industriellen Teil der Agrarkette.",
       hu: "A SOFITEX bobo-dioulassói üzeme a gyapot feldolgozásának egyik központja Burkina Fasóban. A vállalat a vidéki gyapottermelők és az ipar között teremt kapcsolatot.",
       ro: "Unitatea SOFITEX din Bobo-Dioulasso este legată de prelucrarea bumbacului și de lanțul agricol regional. Ea conectează producția rurală cu industria locală.",
-      en: "SOFITEX Bobo-Dioulasso is tied to Burkina Faso's cotton industry in the west of the country. It reflects the importance of cotton collection and processing in regional trade."
+      en: "SOFITEX Bobo-Dioulasso is tied to Burkina Faso's cotton industry in the west of the country. It reflects the importance of cotton collection and processing in regional trade.",
+      es: "Sofitex en Bobo-Dioulasso está estrechamente vinculada a la industria del algodón de Burkina Faso. El sitio representa el procesamiento, el comercio y la parte industrial de la cadena agrícola.",
+      pt: "A Sofitex em Bobo-Dioulasso está estreitamente ligada à economia do algodão de Burkina Faso. O local representa o processamento, o comércio e a parte industrial da cadeia agrícola.",
+      fr: "Sofitex à Bobo-Dioulasso est étroitement liée à l'économie cotonnière burkinabé. Le site représente la transformation, le commerce et le volet industriel de la chaîne agricole.",
     },
     facts: {
       de: ["Baumwollunternehmen", "Sitz in Bobo-Dioulasso", "Teil der Agrarindustrie"],
       hu: ["Gyapotfeldolgozó üzem", "Bobo-Dioulasso ipara", "Kapcsolódik a termesztőkhöz"],
       ro: ["prelucrarea bumbacului", "în Bobo-Dioulasso", "legătură cu agricultura"],
-      en: ["Cotton industry site", "Based in Bobo-Dioulasso", "Supports agricultural trade"]
+      en: ["Cotton industry site", "Based in Bobo-Dioulasso", "Supports agricultural trade"],
+      es: ["Empresa algodonera", "Sede en Bobo-Dioulasso", "Parte de la agroindustria"],
+      pt: ["Empresa de algodão", "Sede em Bobo-Dioulasso", "Parte da agroindústria"],
+      fr: ["Société cotonnière", "Siège à Bobo-Dioulasso", "Fait partie de l'agro-industrie"],
     }
   },
   {
@@ -306,24 +402,36 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       hu: "Az SN-SOSUCO (Société Nouvelle Société Sucrière de la Comoé) Burkina Faso elsődleges ipari cukorgyártója, amely Banfora városának közelében található. A vállalat kiterjedt cukornádültetvényeket kezel mintegy 4000 hektáron, amelyeket a Comoé-folyó és a közeli gátak vizeivel öntöznek. Az 1965-ben alapított, majd később átszervezett ipari komplexum egy feldolgozóüzemet is magában foglal, amely a betakarított nádat kristálycukorrá és kockacukorrá finomítja a hazai piac számára. Ez a Cascades régió egyik legnagyobb foglalkoztatója, amely több ezer állandó és idénymunkát biztosít a helyi közösségeknek. A termelési ciklus szezonális, általában novembertől májusig tart, és bonyolult betakarítási és finomítási folyamatokat foglal magában. Az SN-SOSUCO melléktermékként melaszt is előállít, amelyet állati takarmányozásra és ipari célokra használnak fel. A vállalat kulcsszerepet játszik az ország élelmezésbiztonsági céljaiban.",
       ro: "SN-SOSUCO (Société Nouvelle Société Sucrière de la Comoé) este principalul producător industrial de zahăr din Burkina Faso, situat lângă orașul Banfora. Compania gestionează plantații extinse de trestie de zahăr care acoperă aproximativ 4.000 de hectare, irigate de apele râului Comoé și de barajele din apropiere. Fondat în 1965 și restructurat ulterior, complexul industrial include o fabrică de procesare care rafinează trestia recoltată în zahăr granulat și cuburi pentru piața internă. Este unul dintre cei mai mari angajatori din regiunea Cascades, oferind mii de locuri de muncă directe și sezoniere comunităților locale. Ciclul de producție este sezonier, desfășurându-se de obicei din noiembrie până în mai, și implică procese complexe de recoltare și rafinare. SN-SOSUCO produce, de asemenea, melasă ca subprodus, utilizată pentru hrana animalelor și aplicații industriale. Compania este esențială pentru obiectivele de securitate alimentară ale țării.",
       en: "SN-SOSUCO, the Société Nouvelle Société Sucrière de la Comoé, is Burkina Faso's primary industrial sugar producer, located near the city of Banfora. The company manages extensive sugarcane plantations covering approximately 4,000 hectares, which are irrigated by the waters of the Comoé River and the nearby Comoé dams. Founded in 1965 and later restructured, the industrial complex includes a processing mill that refines harvested cane into granulated and lump sugar for the domestic market. It is one of the largest employers in the Cascades region, providing thousands of direct and seasonal jobs to local communities. The production cycle is seasonal, typically running from November to May, and involves complex harvesting and refining processes. SN-SOSUCO also produces molasses as a byproduct, which is used for animal feed and industrial applications. The company is central to the country's food security goals and efforts to reduce reliance on imported sugar products.",
+      es: "SN-SOSUCO en Banfora es el mayor productor de azúcar del país. La fábrica procesa la caña de azúcar cultivada en las plantaciones cercanas y es una empresa clave para la economía regional en las Cascades. Conocimientos K3 — Industria alimentaria.",
+      pt: "A SN-SOSUCO em Banfora é o maior produtor de açúcar do país. A fábrica processa a cana-de-açúcar cultivada nas plantações próximas e é uma empresa fundamental para a economia regional nas Cascades. Conhecimento K3 — Indústria Alimentar.",
+      fr: "La SN-SOSUCO à Banfora est le plus grand producteur de sucre du pays. L'usine transforme la canne à sucre cultivée dans les plantations voisines et constitue une entreprise clé pour l'économie régionale dans les Cascades. Connaissances K3 — Industrie alimentaire.",
     },
     factsAdvanced: {
       de: ["Gegründet im Jahr 1965 ursprünglich als SOSUCO (Société Sucrière de la Comoé).", "Bewirtschaftet 4.000 Hektar bewässerte Zuckerrohrfelder.", "Jährliche Produktionskapazität liegt bei etwa 30.000 Tonnen Zucker.", "Beschäftigt 1.500 festangestellte und rund 3.000 Saisonarbeiter.", "Nutzt Wasser aus den Moussodougou- und Turubi-Staudämmen zur Bewässerung.", "Einzige industrielle Zuckerraffinerie, die derzeit in Burkina Faso in Betrieb ist."],
       hu: ["1965-ben alapították, eredetileg SOSUCO (Société Sucrière de la Comoé) néven.", "4000 hektárnyi öntözött cukornádültetvényt üzemeltet.", "Éves termelési kapacitása körülbelül 30 000 tonna cukor.", "1500 állandó és mintegy 3000 idénymunkást foglalkoztat.", "A Moussodougou és Turubi gátak vizét használja öntözésre.", "Jelenleg az egyetlen működő ipari cukorfinomító Burkina Fasóban."],
       ro: ["Fondată în 1965 sub numele inițial SOSUCO (Société Sucrière de la Comoé).", "Operează 4.000 de hectare de câmpuri de trestie de zahăr irigate.", "Capacitatea anuală de producție este de aproximativ 30.000 de tone de zahăr.", "Angajează 1.500 de lucrători permanenți și 3.000 de lucrători sezonieri.", "Utilizează apa din barajele Moussodougou și Turubi pentru irigații.", "Singura rafinărie de zahăr industrială operațională în prezent în Burkina Faso."],
       en: ["Founded in 1965 originally as SOSUCO (Société Sucrière de la Comoé).", "Operates 4,000 hectares of irrigated sugarcane fields.", "Annual production capacity is about 30,000 tons of sugar.", "Employs 1,500 permanent and 3,000 seasonal workers.", "Uses water from the Moussodougou and Turubi dams for irrigation.", "Only industrial sugar refinery currently operational in Burkina Faso."],
+      es: ["Mayor productor de azúcar del país", "Ubicación de la fábrica en Banfora", "Procesamiento de caña de azúcar local", "Empleador importante en las Cascades", "Líder del mercado de productos azucareros en Burkina Faso", "Importancia para la agricultura local"],
+      pt: ["Maior produtor de açúcar do país", "Localização da fábrica em Banfora", "Processamento de cana-de-açúcar local", "Empregador importante nas Cascades", "Líder de mercado em produtos de açúcar em Burkina Faso", "Importância para a agricultura local"],
+      fr: ["Plus grand producteur de sucre du pays", "Site industriel à Banfora", "Transformation de canne à sucre locale", "Employeur important dans les Cascades", "Leader du marché des produits sucriers au Burkina Faso", "Importance pour l'agriculture locale"],
     }, image: "/poi-images/sn-sosuco-banfora-economic-v2.webp",
     description: {
       de: "SN-SOSUCO in Banfora ist ein wichtiger Standort der Zuckerindustrie in Burkina Faso. Der Betrieb verarbeitet Zuckerrohr und versorgt den Binnenmarkt mit Zuckerprodukten.",
       hu: "Az SN-SOSUCO banforai üzeme az ország cukoriparának meghatározó helyszíne. A környező ültetvények termését dolgozza fel, és fontos szerepet játszik a régióban.",
       ro: "SN-SOSUCO din Banfora este una dintre piesele centrale ale industriei zahărului din Burkina Faso. Uzina procesează materia primă din zona agricolă din jur.",
-      en: "SN-SOSUCO Banfora is the country's main sugar producer in the southwest. The plant processes sugar cane from nearby plantations and feeds the domestic market."
+      en: "SN-SOSUCO Banfora is the country's main sugar producer in the southwest. The plant processes sugar cane from nearby plantations and feeds the domestic market.",
+      es: "SN-SOSUCO en Banfora es un sitio importante de la industria azucarera en Burkina Faso. La empresa procesa caña de azúcar y abastece al mercado interno con productos de azúcar.",
+      pt: "A SN-SOSUCO em Banfora é um local importante da indústria açucareira em Burkina Faso. A empresa processa cana-de-açúcar e abastece o mercado interno com produtos de açúcar.",
+      fr: "La SN-SOSUCO à Banfora est un site important de l'industrie sucrière au Burkina Faso. L'entreprise transforme la canne à sucre et approvisionne le marché intérieur en produits sucriers.",
     },
     facts: {
       de: ["Zuckerproduktion in Banfora", "Verarbeitet Zuckerrohr", "Wichtig für den Binnenmarkt"],
       hu: ["Cukorgyár Banforában", "Helyi cukornádat dolgoz fel", "Fontos regionális üzem"],
       ro: ["fabrică de zahăr", "în Banfora", "procesează producția locală"],
-      en: ["Sugar production site", "Processes cane locally", "Important for Banfora"]
+      en: ["Sugar production site", "Processes cane locally", "Important for Banfora"],
+      es: ["Producción de azúcar en Banfora", "Procesa caña de azúcar", "Importante para el mercado interno"],
+      pt: ["Produção de açúcar em Banfora", "Processa cana-de-açúcar", "Importante para o mercado interno"],
+      fr: ["Production de sucre à Banfora", "Transforme la canne à sucre", "Important pour le marché intérieur"],
     }
   },
   {
@@ -342,24 +450,36 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       hu: "A CIMBURKINA egy jelentős cementőrlő üzem Ouagadougou Kossodo ipari övezetében. A német Heidelberg Materials multinacionális vállalat leányvállalataként a létesítményt 2015-ben avatták fel, hogy kielégítse a Burkina Faso városi központjaiban növekvő keresletet az építőanyagok iránt. Az üzem kiváló minőségű cement gyártására specializálódott, importált klinker, valamint helyi vagy importált gipsz és mészkő őrlésével. Körülbelül 1 millió tonnás éves termelési kapacitásával a CIMBURKINA jelentősen hozzájárult a cementárak stabilizálásához és az építőanyagok elérhetőségéhez a nemzeti infrastrukturális projektekhez. A létesítmény modern, környezettudatos technológiát alkalmaz a poremisszió és az energiafogyasztás minimalizálása érdekében. Jelenléte a fővárosban megkönnyíti az építkezések logisztikáját, csökkentve a szállítási költségeket és támogatva a régió gyors urbanizációját.",
       ro: "CIMBURKINA este o fabrică majoră de măcinare a cimentului situată în zona industrială Kossodo din Ouagadougou. O filială a multinaționalei germane Heidelberg Materials, instalația a fost inaugurată în 2015 pentru a satisface cererea tot mai mare de materiale de construcție în centrele urbane din Burkina Faso. Fabrica este specializată în producția de ciment de înaltă calitate prin măcinarea clincherului importat cu gips și calcar din surse locale sau importate. Cu o capacitate de producție anuală de aproximativ 1 milion de tone, CIMBURKINA a contribuit semnificativ la stabilizarea prețurilor cimentului și la disponibilitatea materialelor de construcție pentru proiectele naționale de infrastructură. Instalația utilizează tehnologie modernă, ecologică, pentru a minimiza emisiile de praf și consumul de energie. Prezența sa în capitală facilitează logistica construcțiilor, reducând costurile de transport pentru dezvoltatori.",
       en: "CIMBURKINA is a major cement grinding plant located in the Kossodo industrial zone of Ouagadougou. A subsidiary of the German multinational Heidelberg Materials, the facility was inaugurated in 2015 to meet the growing demand for construction materials in Burkina Faso's urban centers. The plant specializes in the production of high-quality cement by grinding imported clinker with locally sourced or imported gypsum and limestone. With an annual production capacity of approximately 1 million tons, CIMBURKINA has significantly contributed to the stabilization of cement prices and the availability of building materials for national infrastructure projects. The facility utilizes modern, environmentally conscious technology to minimize dust emissions and energy consumption. Its presence in the capital facilitates the logistics of construction, reducing transport costs for developers and supporting the rapid urbanization of the region.",
+      es: "CimBurkina es un fabricante líder de cemento en Burkina Faso. Con su planta en Uagadugú, apoyan el fuerte auge de la construcción en la creciente capital del país. Sachkunde K5 — Sector de la construcción e industria.",
+      pt: "A CimBurkina é um fabricante líder de cimento no Burkina Faso. Com a sua fábrica em Uagadugu, apoiam o forte boom da construção na crescente capital do país. Sachkunde K5 — Sector da construção e indústria.",
+      fr: "CimBurkina est un producteur de ciment leader au Burkina Faso. Avec son usine à Ouagadougou, ils soutiennent le fort essor de la construction dans la capitale croissante du pays. Sachkunde K5 — Secteur du bâtiment et industrie.",
     },
     factsAdvanced: {
       de: ["Eingeweiht im Jahr 2015 in der Industriezone Kossodo.", "Tochtergesellschaft von Heidelberg Materials (ehemals HeidelbergCement).", "Jährliche Produktionskapazität von 1 Million Tonnen Zement.", "Die Investition für den Bau überstieg 20 Milliarden CFA-Francs.", "Produziert verschiedene Zementsorten, darunter CEM II 42.5.", "Beschäftigt vor Ort über 150 direkte und 400 indirekte Mitarbeiter."],
       hu: ["2015-ben avatták fel a Kossodo ipari övezetben.", "A Heidelberg Materials (korábban HeidelbergCement) leányvállalata.", "Éves termelési kapacitása 1 millió metrikus tonna.", "Az építési beruházás összege meghaladta a 20 milliárd CFA frankot.", "Különböző minőségű cementeket gyárt, beleértve a CEM II 42.5 típust.", "Több mint 150 közvetlen és 400 közvetett munkavállalót foglalkoztat helyben."],
       ro: ["Inaugurată în anul 2015 în zona industrială Kossodo.", "Filială a Heidelberg Materials (fostă HeidelbergCement).", "Capacitate anuală de producție de 1 milion de tone metrice.", "Investiția pentru construcție a depășit 20 de miliarde de franci CFA.", "Produce diverse tipuri de ciment, inclusiv CEM II 42.5.", "Angajează peste 150 de lucrători direcți și 400 indirecți la nivel local."],
       en: ["Inaugurated in 2015 in the Kossodo industrial zone of Ouagadougou.", "Subsidiary of Heidelberg Materials (formerly HeidelbergCement).", "Annual production capacity of 1 million metric tons.", "Investment for construction exceeded 20 billion CFA francs.", "Produces various grades of cement, including CEM II 42.5.", "Employs over 150 direct and 400 indirect workers locally."],
+      es: ["Fabricante de cemento líder en Burkina Faso", "Sede en la capital Uagadugú", "Apoyo a la industria de la construcción local", "Planta moderna con alta capacidad", "Contribución a la infraestructura urbana", "Importante empleador industrial"],
+      pt: ["Fabricante de cimento líder no Burkina Faso", "Localização na capital Uagadugu", "Apoio à indústria da construção local", "Fábrica moderna com alta capacidade", "Contribuição para a infraestrutura urbana", "Importante empregador industrial"],
+      fr: ["Producteur de ciment leader au Burkina Faso", "Site dans la capitale Ouagadougou", "Soutien à l'industrie locale du bâtiment", "Usine moderne à haute capacité", "Contribution à l'infrastructure urbaine", "Important employeur industriel"],
     }, image: "/poi-images/cimburkina-ouagadougou-economic-v2.webp",
     description: {
       de: "CIMBURKINA in Ouagadougou gehört zu den prägenden Industrieadressen der Hauptstadt. Das Zementwerk unterstützt den Bausektor und die Versorgung des Ballungsraums.",
       hu: "A CIMBURKINA ouagadougou-i üzeme a burkinai cementgyártás egyik központja. A főváros építkezéseit és a környező városi fejlődést is támogatja.",
       ro: "CIMBURKINA din Ouagadougou este o fabrică importantă de ciment pentru capitală și împrejurimi. Ea sprijină direct construcțiile și dezvoltarea urbană.",
-      en: "CIMBURKINA Ouagadougou is a major cement plant in the capital. It supplies building materials for construction across the urban region."
+      en: "CIMBURKINA Ouagadougou is a major cement plant in the capital. It supplies building materials for construction across the urban region.",
+      es: "CIMBURKINA en Uagadugú es una de las direcciones industriales clave de la capital. La fábrica de cemento apoya al sector de la construcción y el suministro del área metropolitana.",
+      pt: "A CIMBURKINA em Uagadugu é uma das moradas industriais fundamentais da capital. A fábrica de cimento apoia o sector da construção e o abastecimento da área metropolitana.",
+      fr: "CIMBURKINA à Ouagadougou est l'une des adresses industrielles marquantes de la capitale. La cimenterie soutient le secteur du bâtiment et l'approvisionnement de l'agglomération.",
     },
     facts: {
       de: ["Zementwerk in Ouaga", "Für die Bauwirtschaft", "Wichtiger Industriebetrieb"],
       hu: ["Cementgyár a fővárosban", "Az építőipart szolgálja", "A városi fejlődést támogatja"],
       ro: ["fabrică de ciment", "în capitală", "sprijină construcțiile"],
-      en: ["Cement production plant", "Located in Ouagadougou", "Supports construction demand"]
+      en: ["Cement production plant", "Located in Ouagadougou", "Supports construction demand"],
+      es: ["Fábrica de cemento en Uaga", "Para la industria de construcción", "Importante empresa industrial"],
+      pt: ["Fábrica de cimento em Uaga", "Para a indústria da construção", "Importante empresa industrial"],
+      fr: ["Cimenterie à Ouaga", "Pour le secteur du bâtiment", "Importante entreprise industrielle"],
     }
   },
   {
@@ -384,18 +504,27 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       hu: ["2017-ben helyezték üzembe Ouagadougou városa mellett.", "Az erőmű névleges csúcsteljesítménye 33,7 megawatt.", "Pontosan 129 584 darab fotovoltaikus napelemből áll.", "A projekt összköltsége körülbelül 47,5 millió euró volt.", "Az EU (25 millió) és az AFD (22,5 millió) finanszírozta.", "A létesítmény összesen 60 hektárnyi területet foglal el."],
       ro: ["Pusă în funcțiune în anul 2017 în apropierea orașului Ouagadougou.", "Puterea maximă de ieșire este evaluată la 33,7 megawați.", "Constă din exact 129.584 de panouri solare fotovoltaice.", "Costul total al proiectului a fost de aproximativ 47,5 milioane de euro.", "Finanțată de UE (25 milioane) și de AFD (22,5 milioane).", "Acoperă o suprafață totală de teren de 60 de hectare."],
       en: ["Commissioned in 2017 near the city of Ouagadougou.", "Peak power output is rated at 33.7 megawatts.", "Consists of exactly 129,584 solar photovoltaic panels.", "Total project cost was approximately 47.5 million euros.", "Funded by the EU (25 million) and AFD (22.5 million).", "Covers a total land area of 60 hectares."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/zagtouli-solar-plant-economic-v2.webp",
     description: {
       de: "Das Solarkraftwerk Zagtouli liegt bei Ouagadougou und zählt zu den symbolischen Energieprojekten Burkina Fasos. Die Anlage speist Strom ins Netz und stärkt die Nutzung erneuerbarer Energien.",
       hu: "A Zagtouli naperőmű Ouagadougou közelében működik, és a megújuló energiatermelés fontos eleme. Az ország villamosenergia-ellátásának diverzifikálásához járul hozzá.",
       ro: "Centrala solară de la Zagtouli, lângă Ouagadougou, este un reper al energiei regenerabile din Burkina Faso. Ea contribuie la diversificarea producției de electricitate.",
-      en: "Zagtouli Solar Plant is a large photovoltaic site near Ouagadougou. It adds renewable power to the national grid and is a flagship energy project."
+      en: "Zagtouli Solar Plant is a large photovoltaic site near Ouagadougou. It adds renewable power to the national grid and is a flagship energy project.",
+      es: "La planta solar de Zagtouli se encuentra cerca de Uagadugú y es uno de los proyectos energéticos emblemáticos de Burkina Faso. La instalación inyecta electricidad a la red y refuerza el uso de energías renovables.",
+      pt: "A central solar de Zagtouli situa-se perto de Ouagadougou e é um dos projetos energéticos emblemáticos do Burkina Faso. A instalação fornece eletricidade à rede e reforça a utilização de energias renováveis.",
+      fr: "La centrale solaire de Zagtouli est située près de Ouagadougou et figure parmi les projets énergétiques emblématiques du Burkina Faso. L'installation injecte de l'électricité dans le réseau et renforce l'utilisation des énergies renouvelables.",
     },
     facts: {
       de: ["Große Solaranlage", "Bei Ouagadougou", "Speist Strom ins Netz"],
       hu: ["Naperőmű a főváros mellett", "Megújuló energiát termel", "Az áramellátást erősíti"],
       ro: ["centrală solară", "lângă Ouagadougou", "energie regenerabilă"],
-      en: ["Solar power station", "Near Ouagadougou", "Feeds the electricity grid"]
+      en: ["Solar power station", "Near Ouagadougou", "Feeds the electricity grid"],
+      es: ["Gran planta solar", "Cerca de Uagadugú", "Inyecta electricidad a la red"],
+      pt: ["Grande central solar", "Perto de Ouagadougou", "Fornece eletricidade à rede"],
+      fr: ["Grande installation solaire", "Près de Ouagadougou", "Alimente le réseau en électricité"],
     }
   },
   {
@@ -420,18 +549,27 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       hu: ["2003 óta az ország központi stratégiai üzemanyagtárolója.", "Tárolókapacitása meghaladja a 100 000 köbméter üzemanyagot.", "Ouagadougou központjától 32 kilométerre található.", "Naponta 300-500 tartálykocsi érkezik a létesítménybe.", "Létfontosságú a nemzeti hőerőművek folyamatos működéséhez.", "Speciális laboratóriummal rendelkezik a kőolajtermékek elemzéséhez."],
       ro: ["Facilitate centrală de stocare strategică a combustibilului din 2003.", "Capacitatea de stocare depășește 100.000 de metri cubi de combustibil.", "Situat la 32 de kilometri de centrul orașului Ouagadougou.", "Primește combustibil de la 300 până la 500 de camioane pe zi.", "Vital pentru funcționarea centralelor termice naționale.", "Dispune de un laborator specializat pentru analiza produselor petroliere."],
       en: ["Central strategic fuel storage facility operational since 2003.", "Storage capacity exceeds 100,000 cubic meters of fuel.", "Located 32 kilometers from the center of Ouagadougou.", "Receives fuel from between 300 to 500 trucks every day.", "Vital for the operation of the national thermal power plants.", "Features a specialized laboratory for petroleum quality analysis."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/sonabhy-bingo-depot-economic-v2.webp",
     description: {
       de: "Das SONABHY-Depot in Bingo ist Teil der nationalen Treibstoffversorgung. Von hier aus werden Lagerung und Verteilung von Kraftstoffen für die Hauptstadtregion organisiert.",
       hu: "A SONABHY bingo-i telepe az üzemanyag-ellátási lánc egyik fontos pontja Burkina Fasóban. A tárolás és az elosztás biztonságát segíti a középső országrészben.",
       ro: "Depozitul SONABHY din Bingo este legat de stocarea și distribuția combustibililor. El are un rol important în securitatea energetică a țării.",
-      en: "SONABHY Bingo Depot is a fuel storage site serving the Ouagadougou area. It is a key piece of Burkina Faso's petroleum supply chain."
+      en: "SONABHY Bingo Depot is a fuel storage site serving the Ouagadougou area. It is a key piece of Burkina Faso's petroleum supply chain.",
+      es: "El depósito de SONABHY en Bingo forma parte del suministro nacional de combustible. Desde aquí se organiza el almacenamiento y la distribución de carburantes para la región de la capital.",
+      pt: "O depósito da SONABHY em Bingo faz parte do abastecimento nacional de combustível. A partir daqui, organiza-se o armazenamento e a distribuição de combustíveis para a região da capital.",
+      fr: "Le dépôt SONABHY de Bingo fait partie de l'approvisionnement national en carburant. Le stockage et la distribution des combustibles pour la région de la capitale y sont organisés.",
     },
     facts: {
       de: ["Kraftstofflager in Bingo", "Teil der SONABHY", "Versorgt Ouaga und Umgebung"],
       hu: ["Üzemanyag-tároló telep", "A SONABHY rendszer része", "Az ellátási biztonságot erősíti"],
       ro: ["depozit de combustibil", "lângă Ouagadougou", "sprijină aprovizionarea"],
-      en: ["Fuel storage depot", "Part of SONABHY", "Supports energy supply"]
+      en: ["Fuel storage depot", "Part of SONABHY", "Supports energy supply"],
+      es: ["Almacén de combustible en Bingo", "Parte de SONABHY", "Abastece a Uagadugú y alrededores"],
+      pt: ["Armazenamento de combustível em Bingo", "Parte da SONABHY", "Abastece Ouaga e arredores"],
+      fr: ["Stockage de carburant à Bingo", "Fait partie de la SONABHY", "Desserte de Ouaga et ses environs"],
     }
   },
   {
@@ -456,18 +594,27 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       hu: ["1960-ban alapították, az ország függetlenné válásával egy időben.", "Többségi tulajdonosa a Castel-csoport (BGI).", "Piaci részesedése a sörszektorban helyi szinten meghaladja a 90%-ot.", "Évente több mint 1,5 millió hektoliter italt állít elő.", "A burkinai állam egyik legjelentősebb adóbevételi forrása.", "Több mint 10 000 helyi kiskereskedelmi értékesítési pontot támogat."],
       ro: ["Fondată în 1960, coincizând cu independența națională a țării.", "Deținută în majoritate de Grupul Castel (BGI).", "Cota de piață în sectorul berii depășește 90% la nivel local.", "Produce anual peste 1,5 milioane de hectolitri de băuturi.", "Sursă majoră de venituri fiscale pentru statul burkinez.", "Susține o rețea de peste 10.000 de puncte de vânzare cu amănuntul."],
       en: ["Founded in 1960, coinciding with the country's national independence.", "Majority owned by the Castel Group (BGI).", "Market share in the beer sector exceeds 90% locally.", "Produces over 1.5 million hectoliters of beverages annually.", "Major source of tax revenue for the Burkinabè state treasury.", "Supports a network of over 10,000 local retail outlets and points."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Brakina in Ouagadougou ist einer der bekanntesten Industriebetriebe des Landes. Die Brauerei steht für Getränkeproduktion und einen festen Platz im Stadtbild der Hauptstadt.",
       hu: "A BRAKINA ouagadougou-i üzeme az ország egyik legismertebb italgyártó létesítménye. A városi ipar és a fogyasztási cikkek ellátása szempontjából is fontos.",
       ro: "BRAKINA din Ouagadougou este una dintre cele mai cunoscute unități de bere din Burkina Faso. Fabrica este legată de consumul urban și de piața internă.",
-      en: "Brakina Ouagadougou is the country's best-known brewery site. It plays a central role in beverage production for the capital and the national market."
+      en: "Brakina Ouagadougou is the country's best-known brewery site. It plays a central role in beverage production for the capital and the national market.",
+      es: "Brakina en Uagadugú es una de las empresas industriales más conocidas del país. La cervecería representa la producción de bebidas y ocupa un lugar fijo en la imagen de la capital.",
+      pt: "A Brakina em Uagadugu é uma das empresas industriais mais conhecidas do país. A cervejaria representa a produção de bebidas e ocupa um lugar fixo na imagem da capital.",
+      fr: "Brakina à Ouagadougou est l'une des entreprises industrielles les plus connues du pays. La brasserie est synonyme de production de boissons et occupe une place fixe dans le paysage urbain de la capitale.",
     },
     facts: {
       de: ["Brauerei in Ouaga", "Bekannte Marke", "Starker Industriebetrieb"],
       hu: ["Italgyártó üzem", "Ouagadougou iparához tartozik", "A belföldi ellátást szolgálja"],
       ro: ["fabrică de bere", "în capitală", "brand național cunoscut"],
-      en: ["Brewery in the capital", "National beverage brand", "Industrial employer"]
+      en: ["Brewery in the capital", "National beverage brand", "Industrial employer"],
+      es: ["Cervecería en Uaga", "Marca conocida", "Fuerte empresa industrial"],
+      pt: ["Cervejaria em Uaga", "Marca conhecida", "Forte empresa industrial"],
+      fr: ["Brasserie à Ouaga", "Marque connue", "Forte entreprise industrielle"],
     }
   },
   {
@@ -492,18 +639,27 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       hu: ["A kereskedelmi termelés 2020 márciusában kezdődött el.", "Az ausztrál West African Resources cég üzemelteti.", "Az éves aranytermelési cél 220 000 uncia.", "A bánya élettartamát legalább 14 évre becsülik.", "Magas aranytartalmú földalatti készleteket tartalmaz (kb. 10 g/t).", "A jogdíjak és adók mértéke évente meghaladja az 50 millió dollárt."],
       ro: ["Producția comercială a început oficial în martie 2020.", "Operată de firma australiană West African Resources.", "Producția anuală de aur vizată este de 220.000 de uncii.", "Durata de viață a minei este estimată la cel puțin 14 ani.", "Conține rezerve subterane de înaltă calitate de aproximativ 10g/t.", "Redevențele și taxele depășesc anual 50 de milioane USD."],
       en: ["Commercial production officially started in March 2020.", "Operated by the Australian firm West African Resources.", "Annual gold production is targeted at 220,000 ounces.", "Mine life is estimated to be at least 14 years.", "Contains high-grade underground reserves of approximately 10g/t.", "Royalties and taxes exceed 50 million USD annually."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/sanbrado-gold-mine-economic-v2.webp",
     description: {
       de: "Die Sanbrado-Goldmine ist ein modernes Bergbauprojekt in Burkina Faso und steht für die laufende Ausweitung der Goldförderung. Der Standort bringt Investitionen und Beschäftigung in die Region.",
       hu: "A Sanbrado aranybánya Burkina Faso középső részének egyik jelentős kitermelőhelye. A modern aranybányászatot képviseli a térségben.",
       ro: "Sanbrado este un proiect aurifer important din centrul Burkinei Faso. Mina contribuie la producția de aur și la activitatea economică regională.",
-      en: "Sanbrado Gold Mine is a modern gold project in central Burkina Faso. It is one of the newer large-scale mining sites in the country."
+      en: "Sanbrado Gold Mine is a modern gold project in central Burkina Faso. It is one of the newer large-scale mining sites in the country.",
+      es: "La mina de oro de Sanbrado es un proyecto minero moderno en Burkina Faso y representa la expansión actual de la producción de oro. El sitio atrae inversiones y empleo a la región.",
+      pt: "A mina de ouro de Sanbrado é um projeto mineiro moderno em Burkina Faso e representa a expansão atual da produção de ouro. O local atrai investimento e emprego para a região.",
+      fr: "La mine d'or de Sanbrado est un projet minier moderne au Burkina Faso et symbolise l'expansion actuelle de la production d'or. Le site apporte des investissements et des emplois dans la région.",
     },
     facts: {
       de: ["Moderne Goldmine", "Investitionsstandort", "Schafft regionale Jobs"],
       hu: ["Központi fekvésű aranybánya", "Modern kitermelőhely", "Exportbevételt termel"],
       ro: ["mină de aur", "în centrul țării", "proiect minier modern"],
-      en: ["Central Burkina Faso", "Modern gold project", "Export-oriented mining"]
+      en: ["Central Burkina Faso", "Modern gold project", "Export-oriented mining"],
+      es: ["Mina de oro moderna", "Sitio de inversión", "Crea empleos regionales"],
+      pt: ["Mina de ouro moderna", "Local de investimento", "Cria empregos regionais"],
+      fr: ["Mine d'or moderne", "Lieu d'investissement", "Crée des emplois régionaux"],
     }
   },
   {
@@ -528,18 +684,27 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       hu: ["A vállalatot 1999-ben alapították, a termelés pedig 2000-ben indult el.", "Székhelye Bobo-Dioulasso városában, az ország gyapottermelő övezetének központjában van.", "A FILSAH évente több ezer tonna nyersgyapotot dolgoz fel kiváló minőségű fonallá.", "A gyár több mint 300 közvetlen munkahelyet biztosít a helyi lakosságnak.", "A termékek jelentős részét Nyugat-Afrika más országaiba és Európába exportálják.", "Az üzem kulcsszerepet játszik a 'Fekete Afrikai Aranyként' emlegetett gyapot feldolgozásában."],
       ro: ["Compania a fost fondată în 1999 și a început producția efectivă în anul 2000.", "Unitatea este situată în Bobo-Dioulasso, principalul centru industrial al țării.", "FILSAH procesează mii de tone de bumbac brut în fiecare an pentru a produce fire.", "Este unul dintre cei mai importanți angajatori privați din regiunea Hauts-Bassins.", "Exporturile fabricii ajung pe piețele din Europa, Asia și restul Africii de Vest.", "Fabrica deține certificări internaționale de calitate pentru produsele sale textile."],
       en: ["The company was founded in 1999 and commenced operations in 2000.", "It is headquartered in Bobo-Dioulasso, Burkina Faso's second-largest city.", "FILSAH processes thousands of tons of raw cotton into yarn annually.", "The mill provides direct employment to over 300 skilled workers.", "Products are exported to various international markets, including Europe and Asia.", "It is a key player in the industrialization strategy of Burkina Faso's cotton sector."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/filsah-textile-mill-economic-v2.webp",
     description: {
       de: "Die Textilfabrik FILSAH gehört zum industriellen Kern von Burkina Fasos Baumwollverarbeitung. Der Betrieb verbindet lokale Rohstoffe mit Weiterverarbeitung vor Ort.",
       hu: "A FILSAH textilüzem Koudougou ipari életének egyik fontos szereplője. A gyapot feldolgozásával a helyi alapanyagból készülő textilipart erősíti.",
       ro: "Filsah este o unitate textilă asociată prelucrării fibrei de bumbac. Activitatea ei leagă agricultura de industria locală.",
-      en: "FILSAH Textile Mill is a cotton processing site in Koudougou. It helps turn local cotton into industrial output instead of exporting only raw fiber."
+      en: "FILSAH Textile Mill is a cotton processing site in Koudougou. It helps turn local cotton into industrial output instead of exporting only raw fiber.",
+      es: "La fábrica textil FILSAH forma parte del núcleo industrial del procesamiento de algodón en Burkina Faso. La empresa vincula las materias primas locales con el procesamiento in situ.",
+      pt: "A fábrica têxtil FILSAH faz parte do núcleo industrial do processamento de algodão no Burkina Faso. A empresa liga as matérias-primas locais ao processamento no local.",
+      fr: "L'usine textile FILSAH fait partie du cœur industriel de la transformation du coton au Burkina Faso. L'entreprise lie les matières premières locales à la transformation sur place.",
     },
     facts: {
       de: ["Textilbetrieb", "Verarbeitet Baumwolle", "Teil der lokalen Industrie"],
       hu: ["Textilüzem Koudougouban", "Gyapotfeldolgozással foglalkozik", "Az ipari munkahelyeket bővíti"],
       ro: ["uzină textilă", "legată de bumbac", "parte din industria locală"],
-      en: ["Textile processing site", "Located in Koudougou", "Adds value to cotton"]
+      en: ["Textile processing site", "Located in Koudougou", "Adds value to cotton"],
+      es: ["Empresa textil", "Procesa algodón", "Parte de la industria local"],
+      pt: ["Empresa têxtil", "Processa algodão", "Parte da indústria local"],
+      fr: ["Entreprise textile", "Transforme le coton", "Fait partie de l'industrie locale"],
     }
   },
   {
@@ -564,18 +729,27 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       hu: ["A Mana bánya kereskedelmi termelése 2008 márciusában indult el.", "A létesítmény Ouagadougoutól mintegy 200 km-re nyugatra fekszik.", "2020 óta a bánya a világ egyik legnagyobb aranybányászati cége, az Endeavour Mining tulajdona.", "A feldolgozóüzem éves kapacitása meghaladja a 2,4 millió tonna ércet.", "A komplexumhoz tartozik a magas aranytartalmú Siou műholdas lelőhely is.", "A bánya működése során eddig több mint 2 millió uncia aranyat termelt ki."],
       ro: ["Producția comercială la mina Mana a început în luna martie a anului 2008.", "Locația se află la aproximativ 200 km vest de capitala Ouagadougou.", "Din 2020, mina este operată de Endeavour Mining în urma fuziunii cu SEMAFO.", "Uzina de procesare are o capacitate nominală de 2,4 milioane de tone de minereu pe an.", "Extracția aurului se realizează prin metoda lixivierii cu carbon în circuit închis.", "Zăcământul Siou, integrat în 2014, a crescut semnificativ puritatea minereului procesat."],
       en: ["Commercial production at the Mana mine officially started in March 2008.", "The site is located approximately 200 km west of Ouagadougou in the Mouhoun region.", "The mine became part of Endeavour Mining's assets following its acquisition of SEMAFO in 2020.", "Its processing plant has an annual capacity of approximately 2.4 million tonnes of ore.", "The operation utilizes standard carbon-in-leach (CIL) technology for gold recovery.", "The high-grade Siou deposit was integrated into the mine's operations to extend its life."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/mana-gold-mine-economic-v2.webp",
     description: {
       de: "Die Mana-Goldmine liegt im westlichen Burkina Faso und gehört zu den wichtigen Goldstandorten des Landes. Sie stärkt die Rohstoffwirtschaft und bringt Beschäftigung in die Region.",
       hu: "A Mana aranybánya Burkina Faso nyugati részén található kitermelőhely. A környéken az aranybányászat a legfontosabb gazdasági tevékenységek közé tartozik.",
       ro: "Mina de aur Mana este un punct important al sectorului minier din Burkina Faso. Ea susține locuri de muncă și venituri în vestul țării.",
-      en: "Mana Gold Mine is a gold operation in western Burkina Faso. It is one of the country’s established mining sites and supports the local economy around Mana."
+      en: "Mana Gold Mine is a gold operation in western Burkina Faso. It is one of the country’s established mining sites and supports the local economy around Mana.",
+      es: "La mina de oro de Mana se encuentra en el oeste de Burkina Faso y es uno de los sitios de oro importantes del país. Fortalece la economía de materias primas y genera empleo en la región.",
+      pt: "A mina de ouro de Mana situa-se no oeste de Burkina Faso e é um dos locais importantes de ouro do país. Fortalece a economia de matérias-primas e gera emprego na região.",
+      fr: "La mine d'or de Mana est située dans l'ouest du Burkina Faso et compte parmi les sites aurifères importants du pays. Elle renforce l'économie des matières premières et crée des emplois dans la région.",
     },
     facts: {
       de: ["Goldmine im Westen", "Wichtiger Arbeitgeber", "Teil der Rohstoffwirtschaft"],
       hu: ["Nyugati aranybánya", "Kitermelőipari központ", "A helyi gazdaság része"],
       ro: ["mină de aur", "în vestul țării", "susține economia locală"],
-      en: ["Western Burkina Faso", "Gold extraction site", "Regional employer"]
+      en: ["Western Burkina Faso", "Gold extraction site", "Regional employer"],
+      es: ["Mina de oro en el oeste", "Empleador importante", "Parte de la economía de materias primas"],
+      pt: ["Mina de ouro no oeste", "Empregador importante", "Parte da economia de matérias-primas"],
+      fr: ["Mine d'or dans l'ouest", "Employeur important", "Partie de l'économie des matières premières"],
     }
   },
   {
@@ -600,18 +774,27 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       hu: ["A Taparko bánya 2007-ben kezdte meg a kereskedelmi célú termelést.", "Ez volt az első modern bányászati projekt Burkina Faso független történetében.", "A tulajdonos a Nordgold csoport, amely 2008-ban vette át az irányítást.", "A bánya több mint 200 kilométerre északkeletre található a fővárostól.", "Az üzem a Taparko és a környező Bouroum lelőhelyek ércét dolgozza fel.", "A létesítmény éves aranytermelése több tízezer unciát tett ki az évek során."],
       ro: ["Mina Taparko a început producția comercială în cursul anului 2007.", "Este prima exploatare minieră de tip industrial din istoria modernă a țării.", "Grupul Nordgold deține pachetul majoritar de acțiuni prin filiala Somita SA.", "Locația se află în provincia Namantenga, la nord-est de Ouagadougou.", "Unitatea de procesare primește minereu de la mai multe cariere din zonă.", "Mina a contribuit semnificativ la fondul de dezvoltare locală prin taxe și redevențe."],
       en: ["Taparko was the first modern industrial gold mine in Burkina Faso, starting in 2007.", "The mine is located in the Namantenga Province, about 200 km from the capital.", "It is operated by Somita SA, which is majority-owned by the Nordgold Group.", "The site processes ore from both the Taparko and Bouroum deposits.", "The project helped establish the first environmental regulations for mining in the country.", "The facility consists of several open pits and a 1.5 million ton per year mill."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/taparko-gold-mine-economic-v2.webp",
     description: {
       de: "Die Taparko-Goldmine ist ein bekannter Bergbaustandort im Norden Burkina Fasos. Sie steht für die wirtschaftliche Bedeutung des Goldabbaus in einer trockenen Region.",
       hu: "A Taparko aranybánya az ország északi-középső térségének egyik ismert bányája. A kitermelés mellett a kapcsolódó infrastruktúra is fontos szerepet kap.",
       ro: "Taparko este o exploatare auriferă din nordul Burkinei Faso. Mina face parte din rețeaua de proiecte miniere care susțin exporturile.",
-      en: "Taparko Gold Mine is a well-known gold site in north-central Burkina Faso. It became one of the earliest large modern mines in the country."
+      en: "Taparko Gold Mine is a well-known gold site in north-central Burkina Faso. It became one of the earliest large modern mines in the country.",
+      es: "La mina de oro de Taparko es un conocido emplazamiento minero en el norte de Burkina Faso. Representa la importancia económica de la extracción de oro en una región árida.",
+      pt: "A mina de ouro de Taparko é um local de mineração conhecido no norte de Burkina Faso. Representa a importância económica da extração de ouro numa região árida.",
+      fr: "La mine d'or de Taparko est un site minier connu dans le nord du Burkina Faso. Elle illustre l'importance économique de l'extraction de l'or dans une région aride.",
     },
     facts: {
       de: ["Goldmine im Norden", "Trockene Lage", "Wirtschaftlich wichtig"],
       hu: ["Aranykitermelő bánya", "Északi-középső elhelyezkedés", "Infrastruktúra-igényes projekt"],
       ro: ["exploatare auriferă", "în nordul țării", "legată de exporturi"],
-      en: ["North-central location", "Early modern gold mine", "Important export source"]
+      en: ["North-central location", "Early modern gold mine", "Important export source"],
+      es: ["Mina de oro en el norte", "Ubicación árida", "Económicamente importante"],
+      pt: ["Mina de ouro no norte", "Localização árida", "Economicamente importante"],
+      fr: ["Mine d'or dans le nord", "Emplacement aride", "Économiquement important"],
     }
   },
   {
@@ -636,18 +819,27 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       hu: ["A Bissa bányát 2013 januárjában adták át ünnepélyes keretek között.", "A létesítmény mindössze 85 kilométerre északra található a fővárostól.", "A projekt többségi tulajdonosa a nemzetközi Nordgold csoport (90%).", "A feldolgozóüzem kapacitása évi 4 millió tonna érc körül mozog.", "A bánya több mint 2000 embert foglalkoztat közvetve és közvetlenül.", "A komplexumhoz tartozik a Bouly lelőhely is, amelyet 2016-ban kapcsoltak be."],
       ro: ["Mina Bissa a fost construită într-un timp record de doar 15 luni.", "Locația se află în provincia Bam, facilitând accesul rapid din capitală.", "Compania mamă, Nordgold, a investit peste 250 de milioane de dolari în proiect.", "Unitatea produce în medie peste 200.000 de uncii de aur pe an.", "Procesul tehnologic include concasare, măcinare și lixiviere cu carbon.", "Mina a finanțat relocarea a sute de familii în case noi, cu utilități moderne."],
       en: ["Bissa was officially opened in January 2013 after 15 months of construction.", "The mine is located in Bam Province, 85 km north of Ouagadougou.", "It is 90% owned by Nordgold, with the remaining 10% held by the state.", "The processing plant has a capacity of approximately 4 million tonnes per annum.", "Bissa is one of the lowest-cost gold producing mines in the Nordgold portfolio.", "The adjacent Bouly project was launched in 2016 to augment Bissa's production."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/bissa-gold-mine-economic-v2.webp",
     description: {
       de: "Die Bissa-Goldmine liegt in der zentralen Nordregion des Landes und zählt zu den markanten Industrieprojekten. Sie trägt zur Goldproduktion und zu lokalen Arbeitsplätzen bei.",
       hu: "A Bissa aranybánya Burkina Faso egyik jelentős ipari beruházása. A bányászati tevékenység bevételt és munkahelyeket hoz a térségnek.",
       ro: "Bissa este o mină de aur cunoscută din zona central-nordică a țării. Activitatea ei este importantă pentru industria extractivă națională.",
-      en: "Bissa Gold Mine is a major industrial mine in the Centre-Nord area. It contributes strongly to Burkina Faso’s gold output and local employment."
+      en: "Bissa Gold Mine is a major industrial mine in the Centre-Nord area. It contributes strongly to Burkina Faso’s gold output and local employment.",
+      es: "La mina de oro de Bissa se encuentra en la región norte-central del país y es uno de los proyectos industriales más destacados. Contribuye a la producción de oro y a la creación de empleo local.",
+      pt: "A mina de ouro de Bissa está localizada na região centro-norte do país e é um dos projetos industriais de destaque. Contribui para a produção de ouro e para o emprego local.",
+      fr: "La mine d'or de Bissa est située dans la région du Centre-Nord du pays et compte parmi les projets industriels marquants. Elle contribue à la production d'or et à la création d'emplois locaux.",
     },
     facts: {
       de: ["Goldmine bei Sabcé", "Zentral-nördliche Lage", "Schafft Arbeitsplätze"],
       hu: ["Nagy aranybánya", "Munkahelyeket teremt", "A bányászati exportot támogatja"],
       ro: ["mină de aur", "în zona central-nordică", "parte din mineritul național"],
-      en: ["Centre-Nord Region", "Large-scale gold mine", "Supports jobs and exports"]
+      en: ["Centre-Nord Region", "Large-scale gold mine", "Supports jobs and exports"],
+      es: ["Mina de oro cerca de Sabcé", "Ubicación en el centro-norte", "Crea puestos de trabajo"],
+      pt: ["Mina de ouro perto de Sabcé", "Localização centro-norte", "Cria postos de trabalho"],
+      fr: ["Mine d'or près de Sabcé", "Situation au Centre-Nord", "Crée des emplois"],
     }
   },
   {
@@ -672,18 +864,27 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       hu: ["A Karma bánya 2016 elején kezdte meg az aranytermelést.", "A létesítmény halom-kilúgozási eljárást alkalmaz az érc feldolgozásához.", "A bánya Yatenga tartományban, Ouahigouya közelében üzemel.", "2022-ben az Endeavour Mining eladta a bányát a burkinai Néré Miningnak.", "A bányaterületen hat különálló aranylelőhelyet azonosítottak eddig.", "A bánya üzemeltetése során nagy hangsúlyt kap a szárazság elleni vízvédelem."],
       ro: ["Producția comercială la mina Karma a început în primul trimestru din 2016.", "Tehnologia de heap leach utilizată permite procesarea unor minereuri mai sărace.", "Locația este situată strategic în apropierea centrului regional Ouahigouya.", "Mina a fost vândută către consorțiul local Néré Mining în anul 2022.", "Proiectul include zăcămintele Rambo, Goulagou, Kao, North Kao și GG2.", "Karma a generat venituri de milioane de dolari pentru bugetul local din Yatenga."],
       en: ["Karma commenced commercial gold production in early 2016.", "It utilizes heap leach processing, distinct from the CIL method used elsewhere.", "The mine is situated in the Yatenga Province, north of the capital.", "In 2022, Endeavour Mining divested Karma to the local firm Néré Mining.", "The mining license covers six separate deposits with shallow mineralization.", "Annual production targets for the site are approximately 100,000 gold ounces."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Die Karma-Goldmine ist ein weiterer wichtiger Goldstandort in Burkina Faso. Der Betrieb ist Teil der fortlaufenden Erschließung mineralischer Ressourcen im Norden.",
       hu: "A Karma aranybánya a száraz északi térség egyik fontos nyersanyagforrása. A bányászat itt a vidéki gazdaság egyik meghatározó eleme.",
       ro: "Karma este o exploatare auriferă din nordul Burkinei Faso. Ea adaugă greutate sectorului minier și economiei locale.",
-      en: "Karma Gold Mine is a gold project in northern Burkina Faso. It reflects the spread of industrial mining beyond the main southern production belt."
+      en: "Karma Gold Mine is a gold project in northern Burkina Faso. It reflects the spread of industrial mining beyond the main southern production belt.",
+      es: "La mina de oro de Karma es otro sitio importante de extracción de oro en Burkina Faso. La operación forma parte del desarrollo continuo de los recursos minerales en el norte.",
+      pt: "A mina de ouro de Karma é outro local importante de extração de ouro em Burkina Faso. A operação faz parte do desenvolvimento contínuo dos recursos minerais no norte.",
+      fr: "La mine d'or de Karma est un autre site aurifère important au Burkina Faso. L'exploitation fait partie de la mise en valeur continue des ressources minérales dans le nord.",
     },
     facts: {
       de: ["Goldmine im Norden", "Rohstoffprojekt", "Teil des Bergbausektors"],
       hu: ["Északi aranybánya", "Nyersanyagforrás", "Vidéki gazdaságot támogat"],
       ro: ["mină de aur", "în nordul țării", "sprijină economia locală"],
-      en: ["Northern Burkina Faso", "Industrial mining site", "Part of the gold sector"]
+      en: ["Northern Burkina Faso", "Industrial mining site", "Part of the gold sector"],
+      es: ["Mina de oro en el norte", "Proyecto de materias primas", "Parte del sector minero"],
+      pt: ["Mina de ouro no norte", "Projeto de matérias-primas", "Parte do setor mineiro"],
+      fr: ["Mine d'or dans le nord", "Projet de matières premières", "Partie du secteur minier"],
     }
   },
   {
@@ -708,18 +909,27 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       hu: ["A Yaramoko bánya 2016 júniusában kezdte meg a működését.", "Ez Burkina Faso egyik legfontosabb föld alatti aranybányája.", "A tulajdonos a kanadai Fortuna Silver Mines, amely a Roxgoldot vette át.", "Az érc aranytartalma kiemelkedően magas, gyakran meghaladja a 10 g/tonnát.", "A feldolgozóüzem hatásfoka rendkívüli, az arany 99%-át kinyerik.", "A projekt jelentős infrastrukturális fejlesztéseket hozott Bagassi térségébe."],
       ro: ["Mina Yaramoko a intrat în faza de producție comercială în iunie 2016.", "Este considerată una dintre minele cu cea mai mare puritate a aurului din lume.", "Fortuna Silver Mines deține proiectul în urma achiziției Roxgold din 2021.", "Exploatarea se concentrează pe zonele aurifere 55 Zone și Bagassi South.", "Uzina de procesare are o capacitate de aproximativ 750 de tone pe zi.", "Mina a primit numeroase premii pentru standardele sale de siguranță în muncă."],
       en: ["Yaramoko achieved commercial production in June 2016.", "It is predominantly an underground mine, targeting high-grade quartz veins.", "The mine is owned and operated by Fortuna Silver Mines following its 2021 merger.", "Ore grades at the 55 Zone frequently exceed 10 grams of gold per tonne.", "The processing facility achieves an exceptional gold recovery rate of nearly 99%.", "The mine provides substantial tax contributions to the Burkinabe government."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/yaramoko-gold-mine-economic-v2.webp",
     description: {
       de: "Die Yaramoko-Goldmine gehört zu den bekannten Goldprojekten im Westen des Landes. Sie ergänzt die industrielle Basis der Region um einen starken Bergbauzweig.",
       hu: "A Yaramoko aranybánya a nyugati országrészben működő modern kitermelőhely. A magas értékű ércek feldolgozásában játszik szerepet.",
       ro: "Yaramoko este o mină de aur din zona de vest a țării. Proiectul face parte din nucleul minier care susține producția de aur.",
-      en: "Yaramoko Gold Mine is a high-grade underground mine in western Burkina Faso. It is known for adding modern mining activity to a more rural part of the country."
+      en: "Yaramoko Gold Mine is a high-grade underground mine in western Burkina Faso. It is known for adding modern mining activity to a more rural part of the country.",
+      es: "La mina de oro de Yaramoko es uno de los proyectos de oro más conocidos del oeste del país. Complementa la base industrial de la región con un fuerte sector minero.",
+      pt: "A mina de ouro de Yaramoko pertence aos projetos de ouro conhecidos no oeste do país. Complementa a base industrial da região com um forte setor de mineração.",
+      fr: "La mine d'or de Yaramoko fait partie des projets aurifères connus de l'ouest du pays. Elle complète la base industrielle de la région par une branche minière solide.",
     },
     facts: {
       de: ["Goldmine im Westen", "Bekanntes Projekt", "Stützt die Regionalwirtschaft"],
       hu: ["Modern aranybánya", "Nyugati fekvésű", "Érckitermelést végez"],
       ro: ["mină de aur", "în vestul țării", "proiect minier important"],
-      en: ["Underground gold mine", "Western Burkina Faso", "Modern extraction project"]
+      en: ["Underground gold mine", "Western Burkina Faso", "Modern extraction project"],
+      es: ["Mina de oro en el oeste", "Proyecto conocido", "Apoya la economía regional"],
+      pt: ["Mina de ouro no oeste", "Projeto conhecido", "Apoia a economia regional"],
+      fr: ["Mine d'or dans l'ouest", "Projet connu", "Soutient l'économie régionale"],
     }
   },
   {
@@ -744,18 +954,27 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       hu: ["A Ziga-víztározó befogadóképessége eléri a 200 millió köbmétert.", "A projekt első szakasza 2004-ben kezdte meg a főváros vízellátását.", "A Ziga II. fázis 2017-ben készült el, jelentősen növelve a kapacitást.", "Az üzem az ONEA állami vízművek felügyelete alá tartozik.", "A tisztítótelep több mint 50 kilométerre fekszik Ouagadougoutól.", "A beruházás összértéke több százmillió euróra rúg nemzetközi hitelből."],
       ro: ["Barajul Ziga reține un volum de aproximativ 200 de milioane m³ de apă.", "Proiectul a fost lansat pentru a elimina penuria de apă din capitală.", "Faza Ziga II a fost finalizată în 2017, dublând capacitatea de pompare.", "Stația procesează mii de metri cubi de apă pe oră pentru consum urban.", "Finanțarea a implicat un consorțiu de peste 10 donatori internaționali.", "Calitatea apei este monitorizată zilnic în laboratoarele moderne de la Ziga."],
       en: ["The Ziga Dam has a storage capacity of roughly 200 million cubic meters.", "Ziga I was officially commissioned in 2004 to serve Ouagadougou.", "The Ziga II expansion was completed in 2017 to handle urban growth.", "The plant is operated by ONEA, the national water and sanitation office.", "Treated water is pumped through a 50 km pipeline to reach the city.", "The facility is essential for mitigating the impact of climate change in the Sahel."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Die Wasseraufbereitungsanlage Ziga versorgt die Hauptstadtregion mit aufbereitetem Trinkwasser. Sie ist eng mit der Wassersicherheit von Ouagadougou verbunden.",
       hu: "A Ziga víztisztító létesítmény a főváros vízellátásának egyik alapja. A kezelésekkel ivóvíz kerülhet a gyorsan növekvő városi térségbe.",
       ro: "Stația de tratare a apei de la Ziga este esențială pentru alimentarea cu apă a capitalei. Ea susține consumul urban și serviciile publice.",
-      en: "Ziga Water Treatment is a key drinking-water facility for Ouagadougou. It helps supply the capital with treated water as the city continues to grow."
+      en: "Ziga Water Treatment is a key drinking-water facility for Ouagadougou. It helps supply the capital with treated water as the city continues to grow.",
+      es: "La planta de tratamiento de agua de Ziga suministra agua potable tratada a la región de la capital. Está estrechamente ligada a la seguridad hídrica de Uagadugú.",
+      pt: "A estação de tratamento de água de Ziga abastece a região da capital com água potável tratada. Está estreitamente ligada à segurança hídrica de Ouagadougou.",
+      fr: "La station de traitement des eaux de Ziga approvisionne la région de la capitale en eau potable traitée. Elle est étroitement liée à la sécurité hydrique de Ouagadougou.",
     },
     facts: {
       de: ["Trinkwasseranlage", "Für Ouagadougou wichtig", "Teil der Wasserversorgung"],
       hu: ["Vízkezelő központ", "Ouagadougou ellátását segíti", "Ivóvíz-biztonsági szerepe van"],
       ro: ["stație de tratare a apei", "pentru Ouagadougou", "importanță publică"],
-      en: ["Supplies Ouagadougou", "Drinking-water treatment", "Urban infrastructure"]
+      en: ["Supplies Ouagadougou", "Drinking-water treatment", "Urban infrastructure"],
+      es: ["Planta de agua potable", "Importante para Uagadugú", "Parte del suministro de agua"],
+      pt: ["Estação de água potável", "Importante para Ouagadougou", "Parte do abastecimento de água"],
+      fr: ["Station d'eau potable", "Importante pour Ouagadougou", "Fait partie de l'approvisionnement en eau"],
     }
   },
   {
@@ -780,18 +999,27 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       hu: ["A CIMFASO cementgyárat 2015 márciusában avatták fel.", "Székhelye a főváros, Ouagadougou Kossodo ipari övezetében található.", "Éves termelési kapacitása eléri az 1,2 millió tonnát.", "A vállalat alapítója a burkinai üzletember, Inoussa Kanazoé.", "A gyár üzembe helyezése óta jelentősen csökkent a cement ára az országban.", "A létesítmény modern, környezetkímélő porleválasztó rendszerekkel van felszerelve."],
       ro: ["CIMFASO a fost inaugurată în martie 2015 de autoritățile de stat.", "Locația este în sectorul Kossodo, centrul industrial al capitalei.", "Capacitatea nominală de producție este de 1,2 milioane de tone anual.", "Proiectul a fost finanțat parțial prin credite bancare regionale (BOAD).", "Fabrica produce ciment Portland compozit de înaltă rezistență.", "CIMFASO exportă o parte din producție și pe piața din Niger și Mali."],
       en: ["CIMFASO was officially inaugurated in March 2015.", "The plant is situated in the Kossodo industrial area of Ouagadougou.", "Its annual production capacity is approximately 1.2 million tonnes.", "It is a key entity within the Burkinabe-owned Cim Metal Group.", "The facility represents an investment of over 30 billion CFA francs.", "CIMFASO helps stabilize the domestic construction market prices."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/cimfaso-cement-plant-economic-v2.webp",
     description: {
       de: "Das CIMFASO-Zementwerk gehört zur Bauindustrie Burkina Fasos. Es liefert den Baustoff für Wohnungsbau, Infrastruktur und größere Projekte.",
       hu: "A CIMFASO cementgyár az ország építőipari ellátásának fontos bázisa. A nagyvárosi és regionális fejlesztésekhez ad alapanyagot.",
       ro: "CIMFASO este o fabrică de ciment care servește piața construcțiilor din Burkina Faso. Rolul ei este legat direct de dezvoltarea urbană.",
-      en: "CIMFASO Cement Plant is a major cement producer in Burkina Faso. It serves the construction market and supports building activity around the capital area."
+      en: "CIMFASO Cement Plant is a major cement producer in Burkina Faso. It serves the construction market and supports building activity around the capital area.",
+      es: "La fábrica de cemento CIMFASO forma parte de la industria de la construcción de Burkina Faso. Suministra el material para la construcción de viviendas, infraestructuras y grandes proyectos.",
+      pt: "A fábrica de cimento CIMFASO faz parte da indústria da construção do Burkina Faso. Fornece o material para a construção de habitações, infraestruturas e grandes projetos.",
+      fr: "La cimenterie CIMFASO appartient à l'industrie du bâtiment du Burkina Faso. Elle fournit les matériaux pour la construction de logements, les infrastructures et les grands projets.",
     },
     facts: {
       de: ["Zementproduktion", "Für die Bauwirtschaft", "Industriestandort"],
       hu: ["Cementgyár Burkina Fasóban", "Az építőipart szolgálja", "Nagy fejlesztési háttér"],
       ro: ["fabrică de ciment", "pentru construcții", "sprijină dezvoltarea urbană"],
-      en: ["Cement production site", "Serves construction demand", "Important industrial supplier"]
+      en: ["Cement production site", "Serves construction demand", "Important industrial supplier"],
+      es: ["Producción de cemento", "Para la industria de construcción", "Sede industrial"],
+      pt: ["Produção de cimento", "Para a indústria da construção", "Localização industrial"],
+      fr: ["Production de ciment", "Pour le secteur du bâtiment", "Site industriel"],
     }
   },
   {
@@ -816,18 +1044,27 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       hu: ["A SOFITEX vállalat többségi tulajdonosa a burkinai állam.", "A koudougoui üzem a Centre-Ouest régió gyapottermelését fogja össze.", "A város egykor a híres Faso Fani textilgyár otthona is volt.", "A gyapotrostokat 225 kg-os bálákba préselik az exportáláshoz.", "Az üzem a betakarítási szezonban (november-március) üzemel a legintenzívebben.", "A SOFITEX koordinálja a gyapotmagolaj és az állati takarmány előállítását is."],
       ro: ["SOFITEX deține un monopol virtual în colectarea bumbacului în vestul țării.", "Unitatea din Koudougou este una dintre cele peste 15 fabrici ale companiei.", "Egrenarea este prima etapă industrială după recoltarea manuală a bumbacului.", "Bumbacul burkinabez este renumit pentru lungimea și puritatea fibrei sale.", "Fabrica din Koudougou susține economia locală de peste trei decenii.", "Compania oferă asistență tehnică pentru peste 200.000 de fermieri locali."],
       en: ["SOFITEX is the leading cotton parastatal company in Burkina Faso.", "The Koudougou plant is specialized in the ginning of raw cotton.", "Koudougou is situated approximately 100 km west of Ouagadougou.", "Cotton exports account for a significant portion of the country's GDP.", "The facility operates seasonally, peaking during the harvest period.", "The company is a major shareholder in several local industrial ventures."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Sofitex in Koudougou ist mit der regionalen Baumwollwirtschaft verbunden. Der Standort bündelt Verarbeitung, Handel und die Nähe zu den Produzenten.",
       hu: "A SOFITEX koudougou-i egysége a gyapotfeldolgozási lánc egyik fontos állomása. A város ipari szerepét a mezőgazdasági termeléshez kapcsolja.",
       ro: "SOFITEX din Koudougou este legată de prelucrarea bumbacului și de economia agricolă regională. Ea conectează producția din câmp cu industria.",
-      en: "SOFITEX Koudougou is linked to the cotton chain in central Burkina Faso. It reflects the role of the city in collection and processing for the textile economy."
+      en: "SOFITEX Koudougou is linked to the cotton chain in central Burkina Faso. It reflects the role of the city in collection and processing for the textile economy.",
+      es: "Sofitex en Koudougou está vinculada a la economía regional del algodón. El sitio centraliza el procesamiento, el comercio y la proximidad a los productores.",
+      pt: "A Sofitex em Koudougou está ligada à economia regional do algodão. O local centraliza o processamento, o comércio e a proximidade com os produtores.",
+      fr: "Sofitex à Koudougou est liée à l'économie cotonnière régionale. Le site regroupe la transformation, le commerce et la proximité avec les producteurs.",
     },
     facts: {
       de: ["Baumwollwirtschaft", "Standort in Koudougou", "Verarbeitung und Handel"],
       hu: ["Gyapotfeldolgozó egység", "Koudougou iparához tartozik", "A termelőket is támogatja"],
       ro: ["prelucrarea bumbacului", "în Koudougou", "legătură cu agricultura"],
-      en: ["Cotton industry link", "Based in Koudougou", "Supports textile processing"]
+      en: ["Cotton industry link", "Based in Koudougou", "Supports textile processing"],
+      es: ["Industria del algodón", "Sede en Koudougou", "Procesamiento y comercio"],
+      pt: ["Economia do algodão", "Localização em Koudougou", "Processamento e comércio"],
+      fr: ["Économie cotonnière", "Site à Koudougou", "Transformation et commerce"],
     }
   },
   {
@@ -852,18 +1089,27 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       hu: ["A Wahgnion bánya 2019 novemberében szállította az első aranyrudakat.", "A létesítmény az ország délnyugati csücskében, a Cascade régióban van.", "A bánya tulajdonosa az Endeavour Mining, amely a Teranga Goldot vette meg.", "A feldolgozóüzem éves kapacitása meghaladja a 2,4 millió tonna ércet.", "A projekt keretében több mint 1000 helyi lakost foglalkoztatnak.", "A bánya közelében jelentős cukornádültetvények is találhatók Banfora térségében."],
       ro: ["Producția comercială la Wahgnion a început oficial în noiembrie 2019.", "Mina se află la o distanță de aproximativ 510 km de Ouagadougou.", "Endeavour Mining a preluat controlul minei în primul trimestru al anului 2021.", "Uzina de procesare atinge o rată de recuperare a aurului de peste 92%.", "Zăcămintele principale exploatate sunt Nogbele, Fourkoura și Samavogo.", "Compania a investit în drumuri și poduri care deservesc și populația locală."],
       en: ["Wahgnion achieved commercial production in November 2019.", "The mine is located approximately 510 km southwest of Ouagadougou.", "It was acquired by Endeavour Mining as part of its merger with Teranga Gold.", "The processing facility has a throughput capacity of 2.4 million tonnes per year.", "The mine's life is estimated to be over 10 years based on current reserves.", "Wahgnion is a key contributor to the regional economy in the Cascades district."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/wahgnion-gold-mine-economic-v2.webp",
     description: {
       de: "Die Wahgnion-Goldmine liegt im Südwesten Burkina Fasos und ist Teil der großen Goldförderung des Landes. Sie stärkt Exporte und regionale Beschäftigung.",
       hu: "A Wahgnion aranybánya az ország délnyugati részének egyik ismert bányászati helyszíne. A kitermelés a helyi munkaerő és a logisztika szempontjából is jelentős.",
       ro: "Mina de aur Wahgnion este un proiect minier din sud-vestul Burkinei Faso. Ea susține activitatea economică dintr-o zonă în care mineritul are un rol important.",
-      en: "Wahgnion Gold Mine is a gold project in southwestern Burkina Faso. It adds another large mining site to one of the country’s strongest gold-producing corridors."
+      en: "Wahgnion Gold Mine is a gold project in southwestern Burkina Faso. It adds another large mining site to one of the country’s strongest gold-producing corridors.",
+      es: "La mina de oro de Wahgnion se encuentra en el suroeste de Burkina Faso y forma parte de la importante producción de oro del país. Refuerza las exportaciones y el empleo regional.",
+      pt: "A mina de ouro de Wahgnion situa-se no sudoeste do Burkina Faso e faz parte da grande produção de ouro do país. Reforça as exportações e o emprego regional.",
+      fr: "La mine d'or de Wahgnion est située dans le sud-ouest du Burkina Faso et fait partie de l'importante production d'or du pays. Elle renforce les exportations et l'emploi régional.",
     },
     facts: {
       de: ["Goldmine im Südwesten", "Exportrelevant", "Regionale Jobs"],
       hu: ["Délnyugati aranybánya", "Bányászati munkahelyek", "Fontos logisztikai pont"],
       ro: ["mină de aur", "în sud-vest", "rol economic regional"],
-      en: ["Southwestern mining site", "Gold production", "Part of the export economy"]
+      en: ["Southwestern mining site", "Gold production", "Part of the export economy"],
+      es: ["Mina de oro en el suroeste", "Relevante para las exportaciones", "Empleos regionales"],
+      pt: ["Mina de ouro no sudoeste", "Relevante para as exportações", "Empregos regionais"],
+      fr: ["Mine d'or dans le sud-ouest", "Pertinent pour l'exportation", "Emplois régionaux"],
     }
   },
   {
@@ -888,18 +1134,27 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       hu: ["A piac kulcsfontosságú exportközpont Ghána és Togo felé.", "Minden egyes piaci napon állatok ezrei cserélnek gazdát.", "Pouytenga körülbelül 150 kilométerre keletre fekszik Ouagadougoutól.", "Az állatkereskedelem jelentős részét teszi ki Burkina Faso GDP-jének.", "A város fontos logisztikai csomópont a 4-es főút mentén.", "A piac segíti a határokon átnyúló gazdasági integrációt Nyugat-Afrikában."],
       ro: ["Piața este un punct central pentru exporturile către Ghana și Togo.", "Mii de animale sunt vândute în fiecare zi de târg.", "Pouytenga se află la aproximativ 150 km est de Ouagadougou.", "Comerțul cu animale reprezintă o parte importantă din PIB-ul țării.", "Orașul este un nod logistic esențial pe drumul național 4.", "Piața stimulează integrarea economică regională în cadrul ECOWAS."],
       en: ["The market is a key export hub for livestock heading to Ghana and Togo.", "Thousands of animals are traded during every market session.", "Pouytenga is located about 150 kilometers east of Ouagadougou.", "Livestock trade contributes significantly to Burkina Faso's GDP.", "The town serves as a major logistics hub on National Road 4.", "The market facilitates cross-border economic integration in West Africa."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/pouytenga-cattle-market-economic-v2.webp",
     description: {
       de: "Der Viehmarkt von Pouytenga ist ein wichtiger Handelsplatz für Rinder und andere Nutztiere. Er verbindet Viehhalter, Händler und Käufer aus mehreren Regionen.",
       hu: "A Pouytenga szarvasmarha-piac az egyik fontos állatkereskedelmi központ az ország középső részén. A piac a vidéki állattartók és a kereskedők találkozóhelye.",
       ro: "Piața de vite din Pouytenga este un loc important pentru comerțul zootehnic din țară. Aici se întâlnesc crescători, comercianți și transportatori din mai multe regiuni.",
-      en: "Pouytenga Cattle Market is one of the busiest livestock trading places in eastern Burkina Faso. It links rural herders with traders moving animals across the region."
+      en: "Pouytenga Cattle Market is one of the busiest livestock trading places in eastern Burkina Faso. It links rural herders with traders moving animals across the region.",
+      es: "El mercado de ganado de Pouytenga es un importante centro de comercio para el ganado vacuno y otros animales de granja. Conecta a ganaderos, comerciantes y compradores de varias regiones.",
+      pt: "O mercado de gado de Pouytenga é um importante centro comercial para gado e outros animais de produção. Liga criadores, comerciantes e compradores de várias regiões.",
+      fr: "Le marché à bétail de Pouytenga est un lieu d'échange important pour les bovins et les autres animaux d'élevage. Il relie les éleveurs, les commerçants et les acheteurs de plusieurs régions.",
     },
     facts: {
       de: ["Großer Viehmarkt", "Handel mit Rindern", "Regionaler Umschlagplatz"],
       hu: ["Állatkereskedelmi piac", "Központi fekvés", "A pásztorgazdaságot segíti"],
       ro: ["piață de vite", "în Pouytenga", "nod comercial regional"],
-      en: ["Livestock market", "Eastern Burkina Faso", "Regional trading hub"]
+      en: ["Livestock market", "Eastern Burkina Faso", "Regional trading hub"],
+      es: ["Gran mercado de ganado", "Comercio de vacas", "Centro de transbordo regional"],
+      pt: ["Grande mercado de gado", "Comércio de gado bovino", "Centro regional de transbordo"],
+      fr: ["Grand marché à bétail", "Commerce de bovins", "Plaque tournante régionale"],
     }
   },
   {
@@ -924,18 +1179,27 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       hu: ["A SONABHY állami monopóliummal rendelkezik a szénhidrogének importjára.", "A péni raktár látja el üzemanyaggal Burkina Faso teljes nyugati részét.", "A létesítmény stratégiai tartalékként szolgál válsághelyzetekben.", "Az üzemanyag nagy része Abidjan és Lomé kikötőiből érkezik.", "A modern biztonsági szabványok védik a létesítményt a tűzesetek ellen.", "Péni kedvező fekvésű a Bobo-Dioulasso felé vezető főút mentén."],
       ro: ["SONABHY deține monopolul de stat asupra importului de hidrocarburi.", "Depozitul din Péni aprovizionează întreg vestul țării Burkina Faso.", "Facilitatea servește ca rezervă strategică pentru perioade de criză.", "Combustibilii provin în principal din porturile Abidjan și Lomé.", "Standarde moderne de siguranță protejează locația împotriva incendiilor.", "Péni este situat strategic pe drumul principal către Bobo-Dioulasso."],
       en: ["SONABHY holds a state monopoly on the import of hydrocarbons.", "The Péni depot supplies fuel to the entire western part of Burkina Faso.", "The facility acts as a strategic reserve for national energy security.", "Fuel is mainly sourced from the ports of Abidjan and Lomé.", "Advanced safety protocols are in place to prevent industrial accidents.", "Péni is conveniently located on the main road to Bobo-Dioulasso."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/sonabhy-péni-depot-economic-v2.webp",
     description: {
       de: "Das SONABHY-Depot in Péni dient als Lager- und Verteilpunkt für Kraftstoffe. Es unterstützt die Versorgung des westlichen Landesteils mit Treibstoff.",
       hu: "A SONABHY péni-i telepe üzemanyag-elosztási szerepet tölt be a délnyugati térségben. A készletezés és a szállítás biztonságát erősíti.",
       ro: "Depozitul SONABHY din Peni este legat de stocarea și distribuția produselor petroliere. El are un rol direct în aprovizionarea zonei de sud-vest.",
-      en: "SONABHY Peni Depot is a fuel storage site near Peni in western Burkina Faso. It is part of the system that keeps petroleum products moving across the country."
+      en: "SONABHY Peni Depot is a fuel storage site near Peni in western Burkina Faso. It is part of the system that keeps petroleum products moving across the country.",
+      es: "El depósito de SONABHY en Péni sirve como punto de almacenamiento y distribución de combustibles. Apoya el suministro de carburante en la parte occidental del país.",
+      pt: "O depósito da SONABHY em Péni serve como ponto de armazenamento e distribuição de combustíveis. Apoia o abastecimento de combustível na parte ocidental do país.",
+      fr: "Le dépôt SONABHY de Péni sert de point de stockage et de distribution de carburants. Il soutient l'approvisionnement en combustible de la partie ouest du pays.",
     },
     facts: {
       de: ["Kraftstoffdepot", "In Péni gelegen", "Versorgung des Westens"],
       hu: ["Üzemanyag-tároló telep", "Délnyugati ellátási pont", "A logisztikát támogatja"],
       ro: ["depozit de carburanți", "în zona Peni", "sprijină distribuția"],
-      en: ["Fuel depot near Peni", "Part of SONABHY", "Supports petroleum supply"]
+      en: ["Fuel depot near Peni", "Part of SONABHY", "Supports petroleum supply"],
+      es: ["Depósito de combustible", "Situado en Péni", "Suministro del oeste"],
+      pt: ["Depósito de combustível", "Localizado em Péni", "Abastecimento do oeste"],
+      fr: ["Dépôt de carburant", "Situé à Péni", "Approvisionnement de l'ouest"],
     }
   },
   {
@@ -960,18 +1224,27 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       hu: ["A gyár termelési kapacitása évente körülbelül 2 millió tonna cement.", "A CIMASSO a marokkói CIMAF vállalatcsoport tagja.", "Az üzemet hivatalosan 2018-ban adták át.", "A létesítmény Bobo-Dioulasso ipari negyedében található.", "A gyár hozzájárul a helyi építési költségek csökkentéséhez.", "Modern szűrőrendszerek csökkentik a por kibocsátását a termelés során."],
       ro: ["Capacitatea de producție este de aproximativ 2 milioane de tone pe an.", "CIMASSO face parte din grupul de companii marocan CIMAF.", "Fabrica a fost inaugurată oficial în anul 2018.", "Este situată în zona industrială a orașului Bobo-Dioulasso.", "Uzina contribuie la scăderea costurilor locale pentru construcții.", "Sisteme moderne de filtrare reduc emisiile de praf în timpul producției."],
       en: ["The annual production capacity is approximately 2 million tons of cement.", "CIMASSO is part of the Moroccan business group CIMAF.", "The factory was officially inaugurated in 2018.", "It is located in the industrial zone of Bobo-Dioulasso.", "The plant contributes to lowering local construction costs.", "Modern filtration systems are used to reduce dust emissions during production."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/cimasso-bobo-dioulasso-economic-v2.webp",
     description: {
       de: "CIMASSO in Bobo-Dioulasso ist ein weiterer wichtiger Standort der Zementindustrie. Der Betrieb versorgt den regionalen Markt mit Baustoffen.",
       hu: "A CIMASSO bobo-dioulassói üzeme a cementiparhoz kapcsolódó fontos termelőhely. Az építőipari alapanyagok helyi előállítását erősíti.",
       ro: "CIMASSO din Bobo-Dioulasso este o fabrică de ciment cu rol în piața construcțiilor. Ea susține dezvoltarea urbană și cererea regională de materiale.",
-      en: "CIMASSO Bobo-Dioulasso is a cement plant serving western Burkina Faso. It supports construction demand in the country’s second-largest city and beyond."
+      en: "CIMASSO Bobo-Dioulasso is a cement plant serving western Burkina Faso. It supports construction demand in the country’s second-largest city and beyond.",
+      es: "CIMASSO en Bobo-Dioulasso es otro emplazamiento importante de la industria del cemento. La planta abastece al mercado regional con materiales de construcción.",
+      pt: "A CIMASSO em Bobo-Dioulasso é outro local importante da indústria do cimento. A fábrica abastece o mercado regional com materiais de construção.",
+      fr: "CIMASSO à Bobo-Dioulasso est un autre site important de l'industrie du ciment. L'entreprise approvisionne le marché régional en matériaux de construction.",
     },
     facts: {
       de: ["Zementwerk", "In Bobo-Dioulasso", "Versorgt den Baumarkt"],
       hu: ["Cementipari üzem", "Bobo-Dioulasso mellett működik", "Az építőanyag-ellátást segíti"],
       ro: ["fabrică de ciment", "în Bobo-Dioulasso", "utilă pentru construcții"],
-      en: ["Cement plant", "Located in Bobo-Dioulasso", "Supports urban construction"]
+      en: ["Cement plant", "Located in Bobo-Dioulasso", "Supports urban construction"],
+      es: ["Fábrica de cemento", "En Bobo-Dioulasso", "Abastece al mercado de construcción"],
+      pt: ["Fábrica de cimento", "Em Bobo-Dioulasso", "Abastece o mercado de construção"],
+      fr: ["Cimenterie", "À Bobo-Dioulasso", "Approvisionne le marché du bâtiment"],
     }
   },
   {
@@ -996,18 +1269,27 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       hu: ["Az erőmű beépített teljesítménye 26,6 megawatt (MWp).", "Zina a Boucle du Mouhoun régióban található.", "A létesítmény több mint 70 000 fotovoltaikus panelből áll.", "A projektet hivatalosan 2023-ban adták át.", "Évente körülbelül 13 000 tonna szén-dioxid-kibocsátást vált ki.", "Olyan nemzetközi befektetők támogatták a finanszírozást, mint az IFC."],
       ro: ["Capacitatea instalată a centralei este de 26,6 MWp.", "Zina se află în regiunea Boucle du Mouhoun.", "Facilitatea cuprinde peste 70.000 de panouri fotovoltaice.", "Proiectul a fost pus oficial în funcțiune în anul 2023.", "Economisește anual aproximativ 13.000 de tone de emisii de CO2.", "Investitori internaționali precum IFC au sprijinit finanțarea proiectului."],
       en: ["The installed capacity of the power station is 26.6 MWp.", "Zina is located in the Boucle du Mouhoun region.", "The facility consists of more than 70,000 photovoltaic modules.", "The project was officially commissioned in 2023.", "It saves approximately 13,000 tons of CO2 emissions annually.", "International investors like the IFC supported the financing."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/zina-solar-power-station-economic-v2.webp",
     description: {
       de: "Das Solarkraftwerk Zina steht für den Ausbau erneuerbarer Energie in Burkina Faso. Die Anlage nutzt das starke Sonnenangebot und speist Strom ins Netz.",
       hu: "A Zina naperőmű a megújuló energia forrásait bővíti Burkina Fasóban. A helyi áramszolgáltatás és az energiaszerkezet szempontjából is jelentős.",
       ro: "Centrala solară de la Zina este parte din extinderea energiei regenerabile în Burkina Faso. Proiectul contribuie la diversificarea surselor de electricitate.",
-      en: "Zina Solar Power Station is a renewable energy project in Burkina Faso. It adds photovoltaic generation to the country’s electricity mix."
+      en: "Zina Solar Power Station is a renewable energy project in Burkina Faso. It adds photovoltaic generation to the country’s electricity mix.",
+      es: "La central de energía solar de Zina representa la expansión de la energía renovable en Burkina Faso. La planta aprovecha la fuerte radiación solar e inyecta electricidad a la red.",
+      pt: "A central de energia solar de Zina representa a expansão das energias renováveis no Burkina Faso. A instalação aproveita a forte radiação solar e fornece eletricidade à rede.",
+      fr: "La centrale solaire de Zina représente l'expansion de l'énergie renouvelable au Burkina Faso. L'installation profite de l'ensoleillement important et alimente le réseau en électricité.",
     },
     facts: {
       de: ["Solarkraftwerk", "Erneuerbare Energie", "Speist Strom ins Netz"],
       hu: ["Naperőmű", "Megújuló energiát ad", "Az áramszolgáltatást erősíti"],
       ro: ["centrală solară", "energie regenerabilă", "diversifică producția"],
-      en: ["Solar power station", "Renewable electricity", "National grid support"]
+      en: ["Solar power station", "Renewable electricity", "National grid support"],
+      es: ["Central solar", "Energía renovable", "Inyecta electricidad a la red"],
+      pt: ["Central solar", "Energia renovável", "Fornece eletricidade à rede"],
+      fr: ["Centrale solaire", "Énergie renouvelable", "Alimente le réseau en électricité"],
     }
   },
   {
@@ -1032,18 +1314,27 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       hu: ["A SOFITEX a régió gyapotiparának legfontosabb szereplője.", "A gyapot Burkina Faso egyik legfőbb exportterméke.", "Dédougou a termékeny Boucle du Mouhoun régióban található.", "A feldolgozó üzem elválasztja a gyapotszálakat a magvaktól.", "A betakarítás idején idénymunkások százai kapnak itt feladatot.", "Burkina Faso híres a kiváló minőségű gyapot termesztéséről."],
       ro: ["SOFITEX este principalul operator al industriei bumbacului din regiune.", "Bumbacul este unul dintre cele mai importante bunuri de export.", "Dédougou se află în regiunea fertilă Boucle du Mouhoun.", "Instalația de egrenare separă fibrele de bumbac de semințe.", "Sute de muncitori sezonieri sunt angajați în timpul recoltei.", "Burkina Faso este recunoscută pentru bumbacul de înaltă calitate."],
       en: ["SOFITEX is the primary operator of the cotton industry in the region.", "Cotton is one of Burkina Faso's most vital export commodities.", "Dédougou is located in the fertile Boucle du Mouhoun region.", "The ginning plant separates cotton fibers from their seeds.", "Hundreds of seasonal workers are employed during the harvest peak.", "Burkina Faso is renowned for producing high-quality cotton."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/dédougou-cotton-gin-economic-v2.webp",
     description: {
       de: "Die Baumwollentkörnungsanlage in Dédougou verarbeitet die Ernte aus dem westlichen Landesteil. Sie ist ein Bindeglied zwischen den Feldern und der Weiterverarbeitung.",
       hu: "A Dédougou-i gyapotgin a nyugat-burkinai gyapotlánc fontos állomása. A feldolgozás itt kapcsolja össze a termelőgazdaságot és az ipart.",
       ro: "Instalația de la Dédougou este legată de separarea și pregătirea bumbacului pentru procesare. Ea face legătura dintre ferme și industria textilă.",
-      en: "Dédougou Cotton Gin is part of the cotton-processing chain in western Burkina Faso. It helps prepare raw cotton for the market and for later industrial use."
+      en: "Dédougou Cotton Gin is part of the cotton-processing chain in western Burkina Faso. It helps prepare raw cotton for the market and for later industrial use.",
+      es: "La planta de desmotado de algodón en Dédougou procesa la cosecha de la parte occidental del país. Es un vínculo entre los campos y el procesamiento posterior.",
+      pt: "A fábrica de descaroçamento de algodão em Dédougou processa a colheita da parte ocidental do país. É um elo de ligação entre os campos e o processamento posterior.",
+      fr: "L'usine d'égrenage de coton de Dédougou traite la récolte de la partie ouest du pays. Elle constitue un lien entre les champs et la transformation ultérieure.",
     },
     facts: {
       de: ["Baumwollverarbeitung", "In Dédougou", "Wichtig für Bauern"],
       hu: ["Gyapotfeldolgozó telep", "Dédougou iparában fontos", "A termelési lánc része"],
       ro: ["prelucrarea bumbacului", "în Dédougou", "legătură cu fermierii"],
-      en: ["Cotton ginning site", "Western Burkina Faso", "Adds value to raw fiber"]
+      en: ["Cotton ginning site", "Western Burkina Faso", "Adds value to raw fiber"],
+      es: ["Procesamiento de algodón", "En Dédougou", "Importante para los agricultores"],
+      pt: ["Processamento de algodão", "Em Dédougou", "Importante para os agricultores"],
+      fr: ["Traitement du coton", "À Dédougou", "Important pour les agriculteurs"],
     }
   },
   {
@@ -1068,18 +1359,27 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
       hu: ["A Kou-völgy projekt az 1970-es években vette kezdetét.", "Több mint 1200 hektárnyi területet öntöznek rizstermesztéshez.", "A Kou-folyó egész évben biztosítja a mezőgazdasági vizet.", "A rizsmalmok évente több ezer tonna rizst dolgoznak fel.", "Ez Burkina Faso egyik legnagyobb rizstermelő vidéke.", "A projekt több mint 1000 gazdálkodó család megélhetését garantálja."],
       ro: ["Proiectul Valea Kou a fost inițiat în anii 1970.", "Peste 1.200 de hectare de teren sunt irigate pentru cultura orezului.", "Râul Kou furnizează apă pe tot parcursul anului pentru agricultură.", "Morile procesează mii de tone de orez în fiecare an.", "Este una dintre cele mai mari zone de cultivare a orezului din țară.", "Proiectul asigură venituri pentru peste 1.000 de familii de fermieri."],
       en: ["The Kou Valley project was initiated in the 1970s.", "Over 1,200 hectares of land are irrigated for rice cultivation.", "The Kou River provides a year-round water supply for the fields.", "The rice mills process thousands of tons of rice annually.", "It is one of the largest rice-growing areas in Burkina Faso.", "The project supports the livelihoods of over 1,000 farming families."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Die Reismühlen im Kou-Tal verarbeiten die Ernte aus den bewässerten Flächen westlich von Bobo-Dioulasso. Sie unterstützen die regionale Versorgung mit Grundnahrungsmitteln.",
       hu: "A Kou-völgy rizsőrlői a térség mezőgazdasági termésének feldolgozását segítik. A helyi rizstermeléshez kapcsolódó kisipari és kereskedelmi pont.",
       ro: "Moriile de orez din valea Kou susțin una dintre cele mai importante activități agricole din vestul Burkinei Faso. Ele adaugă valoare producției locale de orez.",
-      en: "Kou Valley Rice Mills are tied to rice processing in the fertile Kou Valley near Bobo-Dioulasso. They connect irrigated farming with local food supply and trade."
+      en: "Kou Valley Rice Mills are tied to rice processing in the fertile Kou Valley near Bobo-Dioulasso. They connect irrigated farming with local food supply and trade.",
+      es: "Los molinos de arroz del valle de Kou procesan la cosecha de las tierras de regadío al oeste de Bobo-Dioulasso. Apoyan el suministro regional de alimentos básicos.",
+      pt: "Os moinhos de arroz do vale de Kou processam a colheita das áreas irrigadas a oeste de Bobo-Dioulasso. Apoiam o abastecimento regional de alimentos básicos.",
+      fr: "Les rizeries de la vallée du Kou traitent la récolte des zones irriguées à l'ouest de Bobo-Dioulasso. Elles soutiennent l'approvisionnement régional en denrées de base.",
     },
     facts: {
       de: ["Reisverarbeitung", "Im Kou-Tal", "Stützt die lokale Ernährung"],
       hu: ["Rizsőrlő egységek", "A Kou-völgyhöz kötődnek", "A helyi feldolgozást segítik"],
       ro: ["mori de orez", "în valea Kou", "susțin producția locală"],
-      en: ["Rice processing", "Kou Valley location", "Linked to irrigated farming"]
+      en: ["Rice processing", "Kou Valley location", "Linked to irrigated farming"],
+      es: ["Procesamiento de arroz", "En el valle de Kou", "Apoya la alimentación local"],
+      pt: ["Processamento de arroz", "No vale de Kou", "Apoia a alimentação local"],
+      fr: ["Transformation du riz", "Dans la vallée du Kou", "Soutient l'alimentation locale"],
     }, image: "/poi-images/kou-valley-rice-mills-economic-v2.webp"},
 ];
 

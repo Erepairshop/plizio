@@ -24,19 +24,28 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: ["A tisztást Andrea Turkalo biológus kutatásai tették nemzetközileg ismertté az 1980-as években.", "Egyszerre akár 150 erdei elefánt is tartózkodhat a területen.", "Az elefántok az ormányukkal mély lyukakat fúrnak, hogy elérjék a tiszta ásványi rétegeket.", "A terület a 1220 négyzetkilométeres Dzanga-Ndoki Nemzeti Park szívében fekszik.", "A helyszín 2012 óta az UNESCO Világörökség részét képezi.", "Az erdei bivalyok és a bongók rendszeres látogatói a tisztásnak az ásványi sók miatt."],
       ro: ["Poiana a fost scoasă în evidență în anii '80 de cercetătoarea Andrea Turkalo.", "Pot fi observați până la 150 de elefanți simultan în timpul perioadelor de vârf.", "Elefanții de pădure sunt mai mici și au colți mai drepți decât rudele lor de savană.", "Dzanga Bai face parte din rezervația de biosferă Mbaéré-Bodingué.", "UNESCO a inclus situl Sangha Trinational în patrimoniul său universal în 2012.", "Turismul ecologic în zonă sprijină comunitățile locale de indigeni Ba'Aka."],
       en: ["The clearing became famous in the 1980s through the work of biologist Andrea Turkalo.", "As many as 150 forest elephants can be seen at the bai at a single time.", "Forest elephants use their tusks and trunks to dig for minerals in the sandy soil.", "Dzanga Bai is located within the 1,220 square kilometer Dzanga-Ndoki National Park.", "The site is part of the Sangha Trinational UNESCO World Heritage landscape established in 2012.", "The area is also a vital habitat for the Western Lowland Gorilla in the nearby forests."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Eine magische Waldlichtung im Herzen des Regenwaldes, wo sich hunderte Waldelefanten versammeln, um wertvolle Mineralien aus dem Boden zu graben. Es ist einer der wenigen Orte auf der Erde, an denen man diese scheuen Riesen in so großer Zahl beobachten kann.",
       hu: "Egy varázslatos erdei tisztás az esőerdő szívében, ahol erdei elefántok százai gyűlnek össze, hogy értékes ásványokat ássanak ki a talajból. Ez azon kevés helyek egyike a Földön, ahol ezeket a félénk óriásokat ilyen nagy számban láthatjuk.",
       ro: "O poiană magică în inima pădurii tropicale, unde sute de elefanți de pădure se adună pentru a săpa minerale prețioase din sol. Este unul dintre puținele locuri de pe Pământ unde acești giganți timizi pot fi observați în număr atât de mare.",
-      en: "A magical forest clearing in the heart of the rainforest where hundreds of forest elephants gather to dig for precious minerals in the soil. It is one of the few places on Earth where these elusive giants can be observed in such great numbers."
+      en: "A magical forest clearing in the heart of the rainforest where hundreds of forest elephants gather to dig for precious minerals in the soil. It is one of the few places on Earth where these elusive giants can be observed in such great numbers.",
+      es: "Un claro mágico en el corazón de la selva donde cientos de elefantes de bosque se reúnen para extraer minerales valiosos del suelo. Es uno de los pocos lugares en la Tierra donde se pueden observar estos gigantes tímidos en tan gran número.",
+      pt: "Uma clareira mágica no coração da floresta tropical onde centenas de elefantes-da-floresta se reúnem para extrair minerais valiosos do solo. É um dos poucos locais na Terra onde se pode observar estes gigantes tímidos em tão grande número.",
+      fr: "Une clairière magique au cœur de la forêt tropicale, où des centaines d'éléphants de forêt se rassemblent pour extraire des minéraux précieux du sol. C'est l'un des rares endroits au monde où l'on peut observer ces géants timides en si grand nombre.",
     },
     facts: {
       de: ["Bekannt als 'Dorf der Elefanten'.", "Beherbergt auch Bongos und Riesenwaldschweine.", "Ein Paradies für Naturfotografen.", "Wichtiger Forschungsstandort für Elefantenkommunikation."],
       hu: ["Az 'elefántok falvaként' is ismerik.", "Bongóknak és óriás erdei disznóknak is otthont ad.", "A természetfotósok paradicsoma.", "Az elefántok kommunikációjának fontos kutatóhelye."],
       ro: ["Cunoscut sub numele de 'Satul Elefanților'.", "Adăpostește, de asemenea, bongo și porci gigantici de pădure.", "Un paradis pentru fotografii de natură.", "Loc important de cercetare pentru comunicarea elefanților."],
-      en: ["Known as the 'Village of Elephants'.", "Also home to bongos and giant forest hogs.", "A paradise for nature photographers.", "Major research site for elephant communication."]
+      en: ["Known as the 'Village of Elephants'.", "Also home to bongos and giant forest hogs.", "A paradise for nature photographers.", "Major research site for elephant communication."],
+      es: ["Conocido como el 'pueblo de los elefantes'.", "Alberga también bongos y potamoqueros gigantes.", "Un paraíso para los fotógrafos de naturaleza.", "Importante sitio de investigación para la comunicación de los elefantes."],
+      pt: ["Conhecida como a 'aldeia dos elefantes'.", "Abriga também bongos e porcos-gigantes-da-floresta.", "Um paraíso para fotógrafos de natureza.", "Importante local de investigação para a comunicação dos elefantes."],
+      fr: ["Connu comme le 'village des éléphants'.", "Abrite également des bongos et des hylochères.", "Un paradis pour les photographes animaliers.", "Site de recherche important sur la communication des éléphants."],
     }, image: "/poi-images/dzanga-bai-life-v2.webp"},
   {
     id: "andre-felix-wildlife-life-v2",
@@ -60,19 +69,28 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: ["Az André-Félix Nemzeti Parkot 1960. július 27-én hozták létre.", "Közvetlenül határos a szudáni Radom Nemzeti Parkkal.", "A központi park területe 1700 km², míg a hozzá tartozó vadászati övezet 3945 km².", "A park Vakaga prefektúrában, az ország északkeleti csücskében helyezkedik el.", "A területen megtalálható a veszélyeztetett afrikai vadkutya is.", "A csapadék mennyisége itt alacsonyabb, mint az ország déli erdőségeiben."],
       ro: ["Parcul Național André-Félix a fost declarat zonă protejată în iulie 1960.", "Acesta formează un ecosistem transfrontalier cu Parcul Național Radom din Sudan.", "Altitudinea în parc variază între 420 și 1.130 de metri deasupra mării.", "Este situat în prefectura Vakaga, o regiune cu densitate umană foarte scăzută.", "Flora este dominată de specii de arbori din genurile Terminalia și Combretum.", "Situl este monitorizat pentru protejarea ultimelor populații de lei din nord."],
       en: ["André-Félix National Park was officially established on July 27, 1960.", "It shares a continuous ecosystem with Radom National Park in Sudan.", "The core park area is 1,700 square kilometers, with a much larger buffer zone.", "The park is situated in the Vakaga Prefecture, the most remote part of CAR.", "Key wildlife includes giraffes, although their numbers have significantly declined.", "The landscape is primarily Sudano-Guinean savanna with scattered woodlands."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "In den weiten Savannen des Nordostens erstreckt sich ein unberührtes Refugium für Löwen, Giraffen und Strauße. Diese wilde Landschaft ist geprägt von saisonalen Wasserlöchern, die in der Trockenzeit zum Treffpunkt für zahllose Tierarten werden.",
       hu: "Az északkeleti hatalmas szavannákon az oroszlánok, zsiráfok és struccok érintetlen menedékhelye terül el. Ezt a vad tájat a szezonális itatóhelyek határozzák meg, amelyek a száraz évszakban számtalan állatfaj találkozóhelyévé válnak.",
       ro: "În vastele savane din nord-est se întinde un refugiu virgin pentru lei, girafe și struți. Acest peisaj sălbatic este marcat de ochiuri de apă sezoniere, care devin locul de întâlnire pentru nenumărate specii de animale în timpul sezonului uscat.",
-      en: "In the vast savannas of the northeast stretches an untouched refuge for lions, giraffes, and ostriches. This wild landscape is characterized by seasonal waterholes that become meeting points for countless animal species during the dry season."
+      en: "In the vast savannas of the northeast stretches an untouched refuge for lions, giraffes, and ostriches. This wild landscape is characterized by seasonal waterholes that become meeting points for countless animal species during the dry season.",
+      es: "En las vastas sabanas del noreste se extiende un refugio virgen para leones, jirafas y avestruces. Este paisaje salvaje se caracteriza por pozos de agua estacionales que se convierten en puntos de encuentro para innumerables especies durante la estación seca.",
+      pt: "Nas vastas savanas do nordeste estende-se um refúgio intocado para leões, girafas e avestruzes. Esta paisagem selvagem é caracterizada por charcos sazonais que se tornam pontos de encontro para inúmeras espécies durante a estação seca.",
+      fr: "Dans les vastes savanes du nord-est s'étend un refuge vierge pour les lions, les girafes et les autruches. Ce paysage sauvage est marqué par des points d'eau saisonniers qui deviennent le point de rencontre d'innombrables espèces animales pendant la saison sèche.",
     },
     facts: {
       de: ["Heimat der seltenen Kordofan-Giraffe.", "Besteht aus Savanne und dichten Galeriewäldern.", "Wichtiges Schutzgebiet für afrikanische Wildhunde.", "Ein abgelegenes Juwel für Abenteurer."],
       hu: ["A ritka kordofáni zsiráf otthona.", "Szavannából és sűrű galériaerdőkből áll.", "Az afrikai vadkutyák fontos védelmi területe.", "Egy távoli ékszerdoboz a kalandorok számára."],
       ro: ["Habitatul rarei girafe Kordofan.", "Compus din savană și păduri-galerie dense.", "Zonă protejată importantă pentru câinii sălbatici africani.", "O bijuterie izolată pentru aventurieri."],
-      en: ["Home to the rare Kordofan giraffe.", "Consists of savanna and dense gallery forests.", "Important protected area for African wild dogs.", "A remote gem for adventurers."]
+      en: ["Home to the rare Kordofan giraffe.", "Consists of savanna and dense gallery forests.", "Important protected area for African wild dogs.", "A remote gem for adventurers."],
+      es: ["Hogar de la rara jirafa de Kordofán.", "Compuesto por sabana y densos bosques de galería.", "Importante área protegida para los licaones.", "Una joya remota para los aventureros."],
+      pt: ["Lar da rara girafa-do-cordofão.", "Composto por savana e densas florestas de galeria.", "Importante área protegida para os cães-selvagens-africanos.", "Uma joia remota para aventureiros."],
+      fr: ["Abrite la rare girafe du Kordofan.", "Composé de savane et de forêts-galeries denses.", "Zone de protection importante pour les lycaons.", "Un joyau reculé pour les aventuriers."],
     }, image: "/poi-images/andre-felix-wildlife-life-v2.webp"},
   {
     id: "bamingui-wildlife-life-v2",
@@ -96,19 +114,28 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: ["A Bamingui-Bangoran Bioszféra Rezervátumot 1979-ben ismerte el az UNESCO.", "A védett terület teljes kiterjedése meghaladja a 10 000 négyzetkilométert.", "A Bamingui-folyó a Csád-tó vízgyűjtő területéhez tartozó Shari folyó mellékfolyója.", "Ez az egyik utolsó menedéke az óriás lantszarvú antilopnak (Lord Derby's eland).", "A területen több mint 450 madárfajt azonosítottak a kutatók.", "A folyosó biztosítja az összeköttetést a Manovo-Gounda St. Floris Nemzeti Parkkal."],
       ro: ["Rezervația Biosferei Bamingui-Bangoran a fost stabilită oficial în 1979.", "Include Parcul Național Bamingui-Bangoran și mai multe zone de vânătoare adiacente.", "Râul Bangoran este o sursă de apă permanentă chiar și în anii secetoși.", "Zona adăpostește populații importante de câini sălbatici africani (Lycaon pictus).", "Pădurile de tip Sudanian sunt dominate de arbori rezistenți la focul de savană.", "Monitorizarea prin satelit a demonstrat rutele de migrație ale elefanților prin coridor."],
       en: ["The Bamingui-Bangoran Biosphere Reserve was designated by UNESCO in 1979.", "The protected complex covers an extensive area of more than 10,700 km².", "The Bamingui River flows northwest towards the Chari River basin.", "It is home to the Giant Eland, the world's largest species of antelope.", "Over 450 species of birds have been recorded within the reserve's boundaries.", "The corridor is essential for connecting northern CAR wildlife to habitats in Chad."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Ein lebendiger Korridor, der es wandernden Herden ermöglicht, sicher zwischen den Schutzgebieten des Nordens zu ziehen. Hier finden Büffel, Antilopen und Leoparden Schutz in einer abwechslungsreichen Landschaft aus Buschland und Flussufern.",
       hu: "Egy élő folyosó, amely lehetővé teszi a vándorló csordák biztonságos vonulását az északi védett területek között. Itt bivalyok, antilopok és leopárdok találnak menedéket a bozótosokból és folyópartokból álló változatos tájon.",
       ro: "Un coridor viu care permite turmelor migratoare să se deplaseze în siguranță între zonele protejate din nord. Aici, bivolii, antilopele și leoparzii găsesc adăpost într-un peisaj variat de tufișuri și maluri de râu.",
-      en: "A living corridor that allows migratory herds to travel safely between northern protected areas. Here, buffaloes, antelopes, and leopards find refuge in a varied landscape of bushland and riverbanks."
+      en: "A living corridor that allows migratory herds to travel safely between northern protected areas. Here, buffaloes, antelopes, and leopards find refuge in a varied landscape of bushland and riverbanks.",
+      es: "Un corredor vibrante que permite a las manadas migratorias moverse de forma segura entre las áreas protegidas del norte. Aquí, búfalos, antílopes y leopardos encuentran protección en un paisaje variado de matorrales y riberas de ríos.",
+      pt: "Um corredor vibrante que permite que as manadas migratórias se desloquem em segurança entre as áreas protegidas do norte. Aqui, búfalos, antílopes e leopardos encontram proteção numa paisagem variada de matagais e margens de rios.",
+      fr: "Un corridor dynamique qui permet aux troupeaux migrateurs de circuler en toute sécurité entre les zones protégées du Nord. Ici, buffles, antilopes et léopards trouvent refuge dans un paysage varié de brousse et de berges de rivières.",
     },
     facts: {
       de: ["Teil eines riesigen Ökosystem-Netzwerks.", "Bekannt für große Herden von Pferdeantilopen.", "Wichtiger Brutplatz für Greifvögel.", "Schützt den natürlichen Fluss der Tierwanderungen."],
       hu: ["Egy hatalmas ökoszisztéma-hálózat része.", "A fakó lóantilopok nagy csordáiról ismert.", "Ragadozó madarak fontos költőhelye.", "Védi az állatvándorlások természetes folyamatát."],
       ro: ["Parte a unei vaste rețele de ecosisteme.", "Cunoscut pentru marile turme de antilope ecvine.", "Loc important de cuibărit pentru păsările de pradă.", "Protejează fluxul natural al migrațiilor de animale."],
-      en: ["Part of a vast ecosystem network.", "Known for large herds of roan antelopes.", "Important nesting site for birds of prey.", "Protects the natural flow of animal migrations."]
+      en: ["Part of a vast ecosystem network.", "Known for large herds of roan antelopes.", "Important nesting site for birds of prey.", "Protects the natural flow of animal migrations."],
+      es: ["Parte de una enorme red de ecosistemas.", "Conocido por grandes manadas de antílopes equinos.", "Importante lugar de cría para aves rapaces.", "Protege el flujo natural de las migraciones animales."],
+      pt: ["Parte de uma enorme rede de ecossistemas.", "Conhecido por grandes manadas de antílopes-ruanos.", "Importante local de reprodução para aves de rapina.", "Protege o fluxo natural das migrações animais."],
+      fr: ["Fait partie d'un vaste réseau d'écosystèmes.", "Connu pour ses grands troupeaux d'hippotragues.", "Lieu de nidification important pour les rapaces.", "Protège le flux naturel des migrations animales."],
     }, image: "/poi-images/bamingui-wildlife-life-v2.webp"},
   {
     id: "vakaga-pastoral-life-v2",
@@ -132,19 +159,28 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: ["Vakaga területe szerint az ország egyik legnagyobb prefektúrája.", "Az éves csapadékmennyiség itt mindössze 700-900 mm között mozog.", "Birao városa a régió legfontosabb állatpiaca és kereskedelmi központja.", "A vándorlás (transzhumancia) csúcspontja december és április közé esik.", "A szarvasmarha-állomány jelentős része zebu típusú állatokból áll.", "A pásztorközösségek fontos szerepet játszanak a határ menti kereskedelemben."],
       ro: ["Vakaga este prefectura cu cea mai scăzută densitate a populației din țară.", "Climatul este de tip semiarid, făcând pășunatul singura activitate viabilă.", "Orașul Birao servește drept nod logistic pentru rutele de transhumanță.", "Migrația animalelor poate parcurge peste 500 de kilometri în fiecare sezon.", "Regiunea este esențială pentru aprovizionarea cu carne a capitalei Bangui.", "Conflictele dintre fermieri și păstori sunt gestionate prin acorduri tradiționale."],
       en: ["Vakaga is one of the largest and least densely populated prefectures in CAR.", "The annual rainfall in the region ranges from 700 to 900 mm.", "Birao is the main administrative and commercial hub for the pastoral economy.", "Transhumance involves seasonal movement towards southern water sources in winter.", "Zebu cattle are the primary breed raised due to their resistance to heat.", "Livestock production contributes significantly to the national GDP of the country."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Die endlosen Ebenen der Vakaga-Region sind das Herz der traditionellen Viehzucht. Nomadische Hirten ziehen mit ihren großen Rinderherden durch diese goldene Landschaft, die seit Jahrhunderten den Rhythmus des Lebens im Norden bestimmt.",
       hu: "A Vakaga régió végtelen síkságai a hagyományos állattenyésztés szívét jelentik. Nomád pásztorok vonulnak hatalmas szarvasmarha-csordáikkal ezen az aranyló tájon, amely évszázadok óta meghatározza az északi élet ritmusát.",
       ro: "Câmpiile nesfârșite ale regiunii Vakaga sunt inima creșterii tradiționale a animalelor. Păstorii nomazi se deplasează cu marile lor turme de vite prin acest peisaj auriu, care definește ritmul vieții în nord de secole.",
-      en: "The endless plains of the Vakaga region are the heart of traditional livestock farming. Nomadic herders move with their large cattle herds through this golden landscape, which has defined the rhythm of life in the north for centuries."
+      en: "The endless plains of the Vakaga region are the heart of traditional livestock farming. Nomadic herders move with their large cattle herds through this golden landscape, which has defined the rhythm of life in the north for centuries.",
+      es: "Las interminables llanuras de la región de Vakaga son el corazón de la ganadería tradicional. Pastores nómadas recorren con sus grandes rebaños de ganado este paisaje dorado, que durante siglos ha marcado el ritmo de vida en el norte.",
+      pt: "As planícies intermináveis da região de Vakaga são o coração da pecuária tradicional. Pastores nómadas atravessam esta paisagem dourada com as suas grandes manadas de gado, definindo o ritmo de vida no norte há séculos.",
+      fr: "Les plaines infinies de la région de la Vakaga sont le cœur de l'élevage traditionnel. Des bergers nomades parcourent ce paysage doré avec leurs grands troupeaux de bétail, marquant le rythme de la vie dans le nord depuis des siècles.",
     },
     facts: {
       de: ["Zentrum der Zebu-Rinderzucht.", "Teil des saisonalen Transhumanz-Weges.", "Wichtig für die regionale Milch- und Fleischversorgung.", "Prägt die Kultur der Mbororo-Hirten."],
       hu: ["A zebu marhatenyésztés központja.", "A szezonális pásztorkodási útvonal része.", "Fontos a regionális tej- és húsellátásban.", "Meghatározza az mbororo pásztorok kultúráját."],
       ro: ["Centrul creșterii vitelor Zebu.", "Parte a rutei sezoniere de transhumanță.", "Important pentru aprovizionarea regională cu lapte și carne.", "Modelează cultura păstorilor Mbororo."],
-      en: ["Center for Zebu cattle breeding.", "Part of the seasonal transhumance route.", "Crucial for regional milk and meat supply.", "Shapes the culture of the Mbororo herders."]
+      en: ["Center for Zebu cattle breeding.", "Part of the seasonal transhumance route.", "Crucial for regional milk and meat supply.", "Shapes the culture of the Mbororo herders."],
+      es: ["Centro de cría de ganado cebú.", "Parte de la ruta estacional de trashumancia.", "Importante para el suministro regional de leche y carne.", "Marca la cultura de los pastores Mbororo."],
+      pt: ["Centro de criação de gado zebu.", "Parte da rota sazonal de transumância.", "Importante para o abastecimento regional de leite e carne.", "Molda a cultura dos pastores Mbororo."],
+      fr: ["Centre d'élevage de zébus.", "Fait partie de la route de transhumance saisonnière.", "Important pour l'approvisionnement régional en lait et en viande.", "Façonne la culture des bergers Mbororo."],
     }, image: "/poi-images/vakaga-pastoral-life-v2.webp"},
   {
     id: "ouham-cotton-life-v2",
@@ -168,19 +204,28 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: ["A gyapottermelés a Közép-afrikai Köztársaság agrárexportjának jelentős részét adja.", "Bossangoa városában található az ország egyik legnagyobb gyapotfeldolgozó üzeme.", "A vetési szezon májusban vagy júniusban, az első esőkkel kezdődik.", "Ouham az ország egyik legsűrűbben lakott mezőgazdasági területe.", "A gyapotot kézzel szedik, hogy megőrizzék a szálak minőségét és tisztaságát.", "A gyapoteladásokból származó jövedelem biztosítja az iskoláztatást a falvakban."],
       ro: ["Bumbacul a fost introdus ca și cultură comercială în perioada colonială.", "Regiunea Ouham produce peste 50% din totalul național de bumbac.", "Recoltarea manuală este preferată pentru a nu deteriora capsulele de bumbac.", "Bossangoa este nodul principal de colectare pentru fermierii din regiune.", "Sectorul oferă locuri de muncă sezoniere pentru mii de tineri din mediul rural.", "Exporturile se îndreaptă în principal către piețele din Europa și Asia."],
       en: ["Cotton is one of the top three agricultural exports of the Central African Republic.", "Bossangoa serves as the industrial hub for cotton ginning and processing.", "The planting season coincides with the arrival of the Intertropical Convergence Zone.", "Ouham is known as the breadbasket of the country due to its diverse crops.", "Hand-picking ensures high fiber quality, which is valued on the world market.", "Cotton production is managed by the Central African Cotton Development Company."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "In der fruchtbaren Region Ouham erstrecken sich weite Felder mit 'weißem Gold'. Die Baumwollproduktion ist hier tief verwurzelt und bildet die Existenzgrundlage für tausende Familien, die die Pflanzen mit großer Sorgfalt pflegen und ernten.",
       hu: "A termékeny Ouham régióban a 'fehér arany' hatalmas mezői terülnek el. A pamuttermelés itt mélyen gyökerezik, és családok ezreinek biztosít megélhetést, akik nagy gonddal ápolják és takarítják be a növényeket.",
       ro: "În regiunea fertilă Ouham se întind câmpuri vaste de 'aur alb'. Producția de bumbac este adânc înrădăcinată aici și constituie baza subzistenței pentru mii de familii care îngrijesc și recoltează plantele cu mare atenție.",
-      en: "In the fertile Ouham region stretch vast fields of 'white gold'. Cotton production is deeply rooted here and forms the livelihood for thousands of families who tend and harvest the plants with great care."
+      en: "In the fertile Ouham region stretch vast fields of 'white gold'. Cotton production is deeply rooted here and forms the livelihood for thousands of families who tend and harvest the plants with great care.",
+      es: "En la fértil región de Ouham se extienden amplios campos de 'oro blanco'. La producción de algodón está profundamente arraigada aquí y constituye el medio de vida de miles de familias que cuidan y cosechan las plantas con gran esmero.",
+      pt: "Na fértil região de Ouham estendem-se amplos campos de 'ouro branco'. A produção de algodão está profundamente enraizada aqui e constitui o sustento de milhares de famílias que cuidam e colhem as plantas com grande esmero.",
+      fr: "Dans la région fertile de l'Ouham s'étendent de vastes champs d'or blanc. La production de coton y est profondément enracinée et constitue le moyen de subsistance de milliers de familles qui entretiennent et récoltent les plants avec grand soin.",
     },
     facts: {
       de: ["Die wichtigste Exportfrucht der Region.", "Die Ernte erfolgt meist in mühsamer Handarbeit.", "Zentrum der lokalen Textilwirtschaft.", "Fördert die Entwicklung ländlicher Gemeinden."],
       hu: ["A régió legfontosabb exportnövénye.", "A betakarítás többnyire fáradságos kézi munka.", "A helyi textilipar központja.", "Segíti a vidéki közösségek fejlődését."],
       ro: ["Cea mai importantă cultură de export a regiunii.", "Recoltarea se face în principal prin muncă manuală grea.", "Centrul economiei textile locale.", "Promovează dezvoltarea comunităților rurale."],
-      en: ["The region's most important export crop.", "Harvesting is mostly done by laborious handwork.", "Center of the local textile economy.", "Supports the development of rural communities."]
+      en: ["The region's most important export crop.", "Harvesting is mostly done by laborious handwork.", "Center of the local textile economy.", "Supports the development of rural communities."],
+      es: ["El cultivo de exportación más importante de la región.", "La cosecha se realiza principalmente a mano de forma laboriosa.", "Centro de la industria textil local.", "Promueve el desarrollo de las comunidades rurales."],
+      pt: ["A cultura de exportação mais importante da região.", "A colheita é feita principalmente à mão de forma laboriosa.", "Centro da indústria têxtil local.", "Promove o desenvolvimento das comunidades rurais."],
+      fr: ["Le produit d'exportation le plus important de la région.", "La récolte se fait principalement à la main de manière laborieuse.", "Centre de l'économie textile locale.", "Favorise le développement des communautés rurales."],
     }, image: "/poi-images/ouham-cotton-life-v2.webp"},
   {
     id: "mbaiki-coffee-life-v2",
@@ -204,19 +249,28 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: ["Mbaïki 107 kilométerre fekszik Banguitól délnyugati irányban.", "A kávétermesztést az 1920-as években kezdték el nagyüzemben.", "A régióban elsősorban a Robusta kávéfajtát termesztik.", "A szüretelési főszezon novembertől január végéig tart.", "A város a Lobaye prefektúra közigazgatási és gazdasági központja.", "A környék erdőiben jelentős Aka pigmeus populáció él."],
       ro: ["Mbaïki se află la 107 km sud-vest de Bangui, în prefectura Lobaye.", "Cultivarea cafelei la scară largă a început în anii 1920.", "Principala varietate cultivată în regiune este cafeaua Robusta.", "Recoltarea manuală are loc în perioada noiembrie-ianuarie.", "Orașul este un nod important pentru exportul de cafea și cherestea.", "Regiunea găzduiește comunități importante de pigmei din grupul Aka."],
       en: ["Mbaïki is located 107 km southwest of the capital, Bangui.", "Large-scale coffee cultivation was established in the 1920s.", "The region specializes in the production of Robusta coffee beans.", "The peak harvesting season lasts from November to January.", "Mbaïki is the seat of the Lobaye Prefecture administration.", "The surrounding forests are home to the indigenous Aka people."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Unter dem schützenden Dach hoher Urwaldbäume gedeihen in der Nähe von Mbaïki aromatische Kaffeebohnen. Das feuchte Klima und die nährstoffreichen Böden der Lobaye-Region verleihen dem Kaffee sein besonderes Aroma, das weit über die Landesgrenzen hinaus geschätzt wird.",
       hu: "Mbaïki közelében, a magas őserdei fák védő lombkoronája alatt aromás kávébabok fejlődnek. A Lobaye régió párás éghajlata és tápanyagban gazdag talaja különleges aromát ad a kávénak, amelyet messze az ország határain túl is értékelnek.",
       ro: "Sub baldachinul protector al arborilor înalți din junglă, lângă Mbaïki, prosperă boabele de cafea aromate. Climatul umed și solurile bogate în nutrienți din regiunea Lobaye conferă cafelei aroma sa deosebită, apreciată mult dincolo de granițele țării.",
-      en: "Under the protective canopy of tall rainforest trees, aromatic coffee beans thrive near Mbaïki. The humid climate and nutrient-rich soils of the Lobaye region give the coffee its special aroma, which is prized far beyond the country's borders."
+      en: "Under the protective canopy of tall rainforest trees, aromatic coffee beans thrive near Mbaïki. The humid climate and nutrient-rich soils of the Lobaye region give the coffee its special aroma, which is prized far beyond the country's borders.",
+      es: "Bajo el dosel protector de altos árboles de la selva, crecen granos de café aromáticos cerca de Mbaïki. El clima húmedo y los suelos ricos en nutrientes de la región de Lobaye otorgan al café su aroma especial, apreciado mucho más allá de las fronteras del país.",
+      pt: "Sob a copa protetora de altas árvores da floresta tropical, prosperam grãos de café aromáticos perto de Mbaïki. O clima húmido e os solos ricos em nutrientes da região de Lobaye conferem ao café o seu aroma especial, apreciado muito para além das fronteiras do país.",
+      fr: "Sous la canopée protectrice des grands arbres de la jungle, des grains de café aromatiques prospèrent près de Mbaïki. Le climat humide et les sols riches en nutriments de la région de la Lobaye confèrent au café son arôme particulier, apprécié bien au-delà des frontières du pays.",
     },
     facts: {
       de: ["Spezialisiert auf hochwertige Robusta-Sorten.", "Anbau erfolgt oft in schattigen Waldgärten.", "Wichtige Einnahmequelle für Kleinbauern.", "Die Region ist bekannt für ihre Kaffeekultur."],
       hu: ["Kiváló minőségű Robusta fajtákra specializálódtak.", "A termesztés gyakran árnyékos erdei kertekben történik.", "Fontos bevételi forrás a kisbirtokosok számára.", "A régió híres kávékultúrájáról."],
       ro: ["Specializată pe soiuri Robusta de înaltă calitate.", "Cultivarea se face adesea în grădini forestiere umbrite.", "Sursă importantă de venit pentru micii fermieri.", "Regiunea este cunoscută pentru cultura sa de cafea."],
-      en: ["Specializes in high-quality Robusta varieties.", "Cultivation often occurs in shaded forest gardens.", "Important source of income for smallholders.", "The region is known for its coffee culture."]
+      en: ["Specializes in high-quality Robusta varieties.", "Cultivation often occurs in shaded forest gardens.", "Important source of income for smallholders.", "The region is known for its coffee culture."],
+      es: ["Especializado en variedades de Robusta de alta calidad.", "El cultivo se realiza a menudo en jardines forestales sombreados.", "Importante fuente de ingresos para los pequeños agricultores.", "La región es conocida por su cultura cafetalera."],
+      pt: ["Especializada em variedades de Robusta de alta qualidade.", "O cultivo ocorre frequentemente em jardins florestais sombreados.", "Importante fonte de rendimento para os pequenos agricultores.", "A região é conhecida pela sua cultura cafeeira."],
+      fr: ["Spécialisé dans les variétés Robusta de haute qualité.", "La culture se fait souvent dans des jardins forestiers ombragés.", "Source de revenus importante pour les petits agriculteurs.", "La région est réputée pour sa culture du café."],
     }, image: "/poi-images/mbaiki-coffee-life-v2.webp"},
   {
     id: "bangui-zoo-life-v2",
@@ -240,19 +294,28 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: ["Az állatkertet az 1960-as években alapították Bangui városában.", "Ez a Közép-afrikai Köztársaság egyetlen jelentős állatkertje.", "Az intézmény elsősorban a Kongó-medence őshonos fajait mutatja be.", "Az állomány nagy része illegális kereskedelemből lefoglalt egyedekből áll.", "A park fontos szerepet játszik a fővárosi fiatalok környezeti nevelésében.", "A politikai válságok idején az állatkert súlyos károkat szenvedett el."],
       ro: ["Grădina zoologică a fost deschisă în anii 1960 în capitala Bangui.", "Este singura instituție zoologică majoră din Republica Centrafricană.", "Găzduiește în principal specii native din pădurile tropicale locale.", "Multe animale sunt salvate din rețelele de trafic ilegal de faună.", "Parcul servește ca centru educațional principal pentru școlile din zonă.", "În prezent, se depun eforturi pentru modernizarea țarcurilor vechi."],
       en: ["The zoo was established in the 1960s in the capital city of Bangui.", "It is the only significant zoological garden in the entire country.", "The facility focuses on species indigenous to the Central African region.", "Many inhabitants are rescues from illegal wildlife trafficking operations.", "The zoo is a primary destination for environmental education field trips.", "Maintenance and animal care rely heavily on local staff dedication."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Der einzige Zoo des Landes bietet den Bewohnern der Hauptstadt eine seltene Gelegenheit, die faszinierende Tierwelt Zentralafrikas hautnah zu erleben. Inmitten von Bangui gelegen, dient er als Bildungsort für Kinder und als sicherer Hafen für verletzte Wildtiere.",
       hu: "Az ország egyetlen állatkertje ritka lehetőséget kínál a főváros lakóinak, hogy közelebbről is megismerjék Közép-Afrika lenyűgöző állatvilágát. Bangui közepén fekszik, oktatási helyszínként szolgál a gyerekeknek és menedékként a sérült vadállatoknak.",
       ro: "Singura grădină zoologică din țară oferă locuitorilor capitalei o oportunitate rară de a experimenta de aproape fauna fascinantă a Africii Centrale. Situată în mijlocul orașului Bangui, servește ca loc educațional pentru copii și ca refugiu sigur pentru animalele sălbatice rănite.",
-      en: "The country's only zoo offers capital residents a rare opportunity to experience Central Africa's fascinating wildlife up close. Located in the heart of Bangui, it serves as an educational site for children and a safe haven for injured wildlife."
+      en: "The country's only zoo offers capital residents a rare opportunity to experience Central Africa's fascinating wildlife up close. Located in the heart of Bangui, it serves as an educational site for children and a safe haven for injured wildlife.",
+      es: "El único zoológico del país ofrece a los residentes de la capital una oportunidad única de experimentar de cerca la fascinante fauna de África Central. Ubicado en el centro de Bangui, sirve como lugar educativo para niños y como refugio seguro para animales salvajes heridos.",
+      pt: "O único jardim zoológico do país oferece aos residentes da capital uma oportunidade rara de vivenciar de perto a fascinante fauna da África Central. Situado no centro de Bangui, serve como local educativo para crianças e como um refúgio seguro para animais selvagens feridos.",
+      fr: "Le seul zoo du pays offre aux habitants de la capitale une occasion rare de découvrir de près la faune fascinante d'Afrique centrale. Situé au cœur de Bangui, il sert de lieu d'éducation pour les enfants et de refuge pour les animaux sauvages blessés.",
     },
     facts: {
       de: ["Beherbergt Affen, Krokodile und exotische Vögel.", "Ein beliebter Ort für Schulausflüge.", "Engagiert sich für den Naturschutzunterricht.", "Ein grünes Refugium in der geschäftigen Stadt."],
       hu: ["Majmoknak, krokodiloknak és egzotikus madaraknak ad otthont.", "Iskolai kirándulások kedvelt helyszíne.", "Elkötelezett a természetvédelmi oktatás mellett.", "Zöld menedék a nyüzsgő városban."],
       ro: ["Adăpostește maimuțe, crocodili și păsări exotice.", "Un loc popular pentru excursii școlare.", "Se implică în educația pentru conservarea naturii.", "Un refugiu verde în orașul aglomerat."],
-      en: ["Houses monkeys, crocodiles, and exotic birds.", "A popular spot for school field trips.", "Engaged in conservation education.", "A green sanctuary in the bustling city."]
+      en: ["Houses monkeys, crocodiles, and exotic birds.", "A popular spot for school field trips.", "Engaged in conservation education.", "A green sanctuary in the bustling city."],
+      es: ["Alberga monos, cocodrilos y aves exóticas.", "Un lugar popular para excursiones escolares.", "Comprometido con la educación para la conservación de la naturaleza.", "Un refugio verde en la bulliciosa ciudad."],
+      pt: ["Abriga macacos, crocodilos e aves exóticas.", "Um local popular para excursões escolares.", "Comprometido com a educação para a conservação da natureza.", "Um refúgio verde na cidade movimentada."],
+      fr: ["Abrite des singes, des crocodiles et des oiseaux exotiques.", "Un lieu prisé pour les sorties scolaires.", "Engagé dans l'éducation à la protection de la nature.", "Un refuge vert dans la ville animée."],
     }
   },
   {
@@ -277,19 +340,28 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: ["A vízesés magassága 50 méter, szélessége pedig 250 méter.", "Banguitól körülbelül 95 kilométerre északnyugatra található.", "A zuhatagot a Mbali-folyó táplálja, amely a vízerőműveket is hajtja.", "A Boali I és II erőművek biztosítják a főváros áramellátását.", "Az esős évszakban a vízhozam többszörösére duzzad a száraz időszakhoz képest.", "A helyszín az ország egyik legfontosabb belföldi turisztikai célpontja."],
       ro: ["Cascada Boali are o înălțime de 50 m și o lățime de circa 250 m.", "Este situată la o distanță de 95 km de capitala Bangui.", "Râul Mbali este cursul de apă care formează această cascadă.", "Hidrocentralele locale sunt esențiale pentru rețeaua electrică națională.", "Debitul cascadei este maxim în lunile de vară (sezonul ploios).", "Zona include restaurante și puncte de observație pentru turiști."],
       en: ["The Boali Falls reach a height of 50 meters and a width of 250 meters.", "They are located 95 kilometers northwest of the city of Bangui.", "The Mbali River provides the water source for the falls and power plants.", "Boali I and II hydroelectric stations power most of the capital.", "Water flow is often restricted on weekdays to maximize energy production.", "The area is home to a population of crocodiles in the lower river."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Rund um die tosenden Wasserfälle von Boali erstreckt sich ein beliebtes Ausflugsziel für Familien. Hier können Kinder in der Gischt spielen, während die Eltern die spektakuläre Aussicht genießen – ein Ort der Freude und Entspannung inmitten der Natur.",
       hu: "A dübörgő Boali-vízesések körül egy népszerű családi kirándulóhely terül el. Itt a gyerekek a vízpárában játszhatnak, miközben a szülők a látványos kilátásban gyönyörködnek – az öröm és a kikapcsolódás helye a természet lágy ölén.",
       ro: "În jurul cascadelor bubuitoare din Boali se întinde o destinație populară pentru excursii în familie. Aici copiii se pot juca în stropii de apă, în timp ce părinții se bucură de priveliștea spectaculoasă – un loc de bucurie și relaxare în mijlocul naturii.",
-      en: "Around the thundering Boali Falls stretches a popular family excursion destination. Here, children can play in the mist while parents enjoy the spectacular view – a place of joy and relaxation in the heart of nature."
+      en: "Around the thundering Boali Falls stretches a popular family excursion destination. Here, children can play in the mist while parents enjoy the spectacular view – a place of joy and relaxation in the heart of nature.",
+      es: "Alrededor de las estruendosas cataratas de Boali se extiende un destino de excursión popular para familias. Aquí los niños pueden jugar en la bruma mientras los padres disfrutan de la vista espectacular: un lugar de alegría y relajación en plena naturaleza.",
+      pt: "Em redor das estrondosas quedas de água de Boali estende-se um destino de excursão popular para famílias. Aqui as crianças podem brincar no borrifo da água, enquanto os pais desfrutam da vista espetacular - um local de alegria e relaxamento em plena natureza.",
+      fr: "Autour des chutes tonitruantes de Boali s'étend un lieu d'excursion prisé des familles. Les enfants peuvent jouer dans les embruns pendant que les parents profitent de la vue spectaculaire – un lieu de joie et de détente au cœur de la nature.",
     },
     facts: {
       de: ["Beliebtester Picknickplatz in der Nähe von Bangui.", "Sichere Aussichtsplattformen für Familien.", "Verkaufsstände mit lokalen Leckereien.", "Oft Schauplatz für lokale Feste und Feiern."],
       hu: ["Bangui környékének legnépszerűbb piknikezőhelye.", "Biztonságos kilátóteraszok családok számára.", "Helyi finomságokat árusító standok.", "Gyakran ad otthont helyi ünnepeknek és rendezvényeknek."],
       ro: ["Cel mai popular loc de picnic de lângă Bangui.", "Platforme de vizionare sigure pentru familii.", "Standuri care vând delicatese locale.", "Adesea locul de desfășurare pentru festivaluri și sărbători locale."],
-      en: ["Most popular picnic spot near Bangui.", "Safe viewing platforms for families.", "Stalls selling local delicacies.", "Often a venue for local festivals and celebrations."]
+      en: ["Most popular picnic spot near Bangui.", "Safe viewing platforms for families.", "Stalls selling local delicacies.", "Often a venue for local festivals and celebrations."],
+      es: ["El lugar de picnic más popular cerca de Bangui.", "Plataformas de observación seguras para familias.", "Puestos de venta con delicias locales.", "A menudo escenario de fiestas y celebraciones locales."],
+      pt: ["O local de piquenique mais popular perto de Bangui.", "Plataformas de observação seguras para famílias.", "Bancas de venda com iguarias locais.", "Frequentemente palco de festas e celebrações locais."],
+      fr: ["Lieu de pique-nique le plus populaire près de Bangui.", "Plateformes d'observation sécurisées pour les familles.", "Stands de vente proposant des spécialités locales.", "Souvent le théâtre de fêtes et de célébrations locales."],
     }
   },
   {
@@ -314,19 +386,28 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: ["Nana-Mambéré az ország legfontosabb állattenyésztő körzete.", "Bouar városa a régió legnagyobb marhapiacának ad otthont.", "A tenyésztők többsége a nomád életmódot folytató mbororo népcsoportból kerül ki.", "A piacokon elsősorban púpos zebu marhákat értékesítenek.", "A kereskedelmi útvonalak közvetlen összeköttetést biztosítanak Kamerunnal.", "Az állattenyésztés a helyi lakosság több mint 60%-ának nyújt megélhetést."],
       ro: ["Nana-Mambéré este principala regiune zootehnică din Republica Centrafricană.", "Orașul Bouar este centrul logistic pentru comerțul cu animale din vest.", "Păstorii Mbororo sunt principalii actori în economia creșterii vitelor.", "Rasa Zebu este cea mai populară datorită rezistenței sale la climă.", "Piețele de aici aprovizionează zilnic măcelăriile din capitala Bangui.", "Comerțul cu vite reprezintă o parte semnificativă din exporturile regionale."],
       en: ["Nana-Mambéré is the leading livestock-producing region in the country.", "The city of Bouar hosts the most significant cattle markets in the west.", "Nomadic Mbororo pastoralists manage the majority of the herds.", "Zebu cattle are the primary breed traded due to their hardiness.", "The region is a key exporter of livestock to neighboring Cameroon.", "Livestock accounts for a substantial portion of the prefecture's income."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "In der hügeligen Landschaft von Nana-Mambéré pulsieren die geschäftigen Viehmärkte, auf denen Händler aus der ganzen Region zusammenkommen. Es ist ein lebendiges Schauspiel aus Farben, Geräuschen und Traditionen, das den wirtschaftlichen Herzschlag der westlichen Savanne bildet.",
       hu: "Nana-Mambéré dombos tájain lüktetnek a nyüzsgő állatvásárok, ahol a régió minden részéről összeülnek a kereskedők. Ez a színek, hangok és hagyományok élénk játéka, amely a nyugati szavanna gazdasági szívverését alkotja.",
       ro: "În peisajul deluros din Nana-Mambéré pulsează piețele de animale aglomerate, unde se adună negustori din toată regiunea. Este un spectacol viu de culori, sunete și tradiții, care formează bătăile inimii economice ale savanei vestice.",
-      en: "In the hilly landscape of Nana-Mambéré, the bustling cattle markets throb with traders coming together from across the region. It is a vivid spectacle of colors, sounds, and traditions that forms the economic heartbeat of the western savanna."
+      en: "In the hilly landscape of Nana-Mambéré, the bustling cattle markets throb with traders coming together from across the region. It is a vivid spectacle of colors, sounds, and traditions that forms the economic heartbeat of the western savanna.",
+      es: "En el paisaje ondulado de Nana-Mambéré palpitan los concurridos mercados de ganado, donde se reúnen comerciantes de toda la región. Es un espectáculo vibrante de colores, sonidos y tradiciones que forma el latido económico de la sabana occidental.",
+      pt: "Na paisagem ondulada de Nana-Mambéré palpitam os movimentados mercados de gado, onde se reúnem comerciantes de toda a região. É um espetáculo vibrante de cores, sons e tradições que forma o batimento económico da savana ocidental.",
+      fr: "Dans le paysage vallonné de Nana-Mambéré palpitent les marchés aux bestiaux très fréquentés, où se retrouvent les commerçants de toute la région. C'est un spectacle vivant de couleurs, de sons et de traditions qui constitue le cœur économique de la savane occidentale.",
     },
     facts: {
       de: ["Wichtiger Handelsplatz für Zebu-Rinder.", "Treffpunkt verschiedener ethnischer Gruppen.", "Spielt eine zentrale Rolle in der ländlichen Wirtschaft.", "Bekannt für die hohe Qualität der Zuchttiere."],
       hu: ["A zebu marhák fontos kereskedelmi helyszíne.", "Különböző etnikai csoportok találkozóhelye.", "Központi szerepet játszik a vidéki gazdaságban.", "A tenyészállatok kiváló minőségéről ismert."],
       ro: ["Loc important de comerț pentru vitele Zebu.", "Loc de întâlnire pentru diverse grupuri etnice.", "Joacă un rol central în economia rurală.", "Cunoscut pentru calitatea înaltă a animalelor de prăsilă."],
-      en: ["Crucial trading post for Zebu cattle.", "Meeting point for various ethnic groups.", "Plays a central role in the rural economy.", "Known for the high quality of breeding livestock."]
+      en: ["Crucial trading post for Zebu cattle.", "Meeting point for various ethnic groups.", "Plays a central role in the rural economy.", "Known for the high quality of breeding livestock."],
+      es: ["Importante centro de comercio de ganado cebú.", "Punto de encuentro de diversos grupos étnicos.", "Desempeña un papel central en la economía rural.", "Conocido por la alta calidad de los animales de cría."],
+      pt: ["Importante centro de comércio de gado zebu.", "Ponto de encontro de diversos grupos étnicos.", "Desempenha um papel central na economia rural.", "Conhecido pela elevada qualidade dos animais de criação."],
+      fr: ["Important lieu de commerce pour les bovins zébus.", "Point de rencontre de divers groupes ethniques.", "Joue un rôle central dans l'économie rurale.", "Réputé pour la haute qualité des animaux d'élevage."],
     }, image: "/poi-images/nana-mambere-cattle-life-v2.webp"},
   {
     id: "sangha-butterflies-life-v2",
@@ -350,19 +431,28 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: ["A Sangha-régióban több mint 1000 lepkefajt tartanak nyilván.", "A terület a Dzanga-Sangha védett körzet része, amely UNESCO világörökség.", "Számos itt élő faj endemikus, azaz sehol máshol nem fordul elő.", "A pillangók fontos indikátorai az esőerdő ökológiai állapotának.", "A 'pillangó-tócsázás' jelensége során tömegesen gyűlnek össze a parton.", "A régió a rovartani kutatások egyik globális központja Közép-Afrikában."],
       ro: ["Peste 1.000 de specii de fluturi au fost documentate în bazinul Sangha.", "Regiunea face parte din complexul Dzanga-Sangha, sit UNESCO.", "Diversitatea fluturilor este legată de starea excelentă a pădurii virgine.", "Fenomenul de 'puddling' este o atracție majoră pentru biologi.", "Fluturii locali ajută la polenizarea a sute de specii de arbori tropicali.", "Cercetările recente au descoperit specii noi pentru știință în ultimul deceniu."],
       en: ["The Sangha region hosts more than 1,000 recorded butterfly species.", "It is part of the Dzanga-Sangha Protected Areas, a UNESCO World Heritage site.", "Many species are endemic to the specific microclimates of the Sangha basin.", "Butterflies act as key pollinators within the dense rainforest canopy.", "Massive butterfly congregations can be seen on riverbanks during the day.", "Entomological studies in the area have been ongoing since the late 20th century."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "In den feuchten Uferzonen des Sangha-Flusses tummeln sich tausende farbenfrohe Schmetterlinge. Diese zarten Wesen verwandeln den Regenwald in ein flimmerndes Meer aus Farben und sind ein Indikator für die außergewöhnliche Gesundheit dieses einzigartigen Ökosystems.",
       hu: "A Sangha folyó párás partmenti zónáiban ezer és ezer színes pillangó nyüzsög. Ezek a törékeny lények a színek vibráló tengerévé változtatják az esőerdőt, és ennek az egyedülálló ökoszisztémának a rendkívüli egészségét jelzik.",
       ro: "În zonele umede de pe malul râului Sangha mișună mii de fluturi colorați. Aceste creaturi delicate transformă pădurea tropicală într-o mare sclipitoare de culori și sunt un indicator al sănătății excepționale a acestui ecosistem unic.",
-      en: "Thousands of colorful butterflies flutter in the humid shore zones of the Sangha River. These delicate creatures transform the rainforest into a shimmering sea of colors and are an indicator of the extraordinary health of this unique ecosystem."
+      en: "Thousands of colorful butterflies flutter in the humid shore zones of the Sangha River. These delicate creatures transform the rainforest into a shimmering sea of colors and are an indicator of the extraordinary health of this unique ecosystem.",
+      es: "En las zonas húmedas de las riberas del río Sangha se congregan miles de coloridas mariposas. Estos delicados seres transforman la selva tropical en un mar centelleante de colores y son un indicador de la extraordinaria salud de este ecosistema único.",
+      pt: "Nas zonas húmidas das margens do rio Sangha, reúnem-se milhares de borboletas coloridas. Estes seres delicados transformam a floresta tropical num mar cintilante de cores e são um indicador da extraordinária saúde deste ecossistema único.",
+      fr: "Dans les zones riveraines humides de la rivière Sangha se pressent des milliers de papillons colorés. Ces créatures délicates transforment la forêt tropicale en une mer chatoyante de couleurs et sont un indicateur de l'extraordinaire santé de cet écosystème unique.",
     },
     facts: {
       de: ["Beherbergt über 300 verschiedene Schmetterlingsarten.", "Besonders aktiv nach den morgendlichen Regengüssen.", "Wichtiges Ziel für spezialisierte Naturtouristen.", "Schützt seltene endemische Spezies."],
       hu: ["Több mint 300 különböző pillangófajnak ad otthont.", "Különösen aktívak a reggeli záporok után.", "A speciális természetjárók fontos célpontja.", "Ritka endemikus fajokat véd."],
       ro: ["Găzduiește peste 300 de specii diferite de fluturi.", "Sunt deosebit de activi după ploile de dimineață.", "Destinație importantă pentru turiștii specializați în natură.", "Protejează specii endemice rare."],
-      en: ["Home to over 300 different butterfly species.", "Especially active after morning rain showers.", "Important destination for specialized nature tourists.", "Protects rare endemic species."]
+      en: ["Home to over 300 different butterfly species.", "Especially active after morning rain showers.", "Important destination for specialized nature tourists.", "Protects rare endemic species."],
+      es: ["Hogar de más de 300 especies diferentes de mariposas.", "Especialmente activas después de las lluvias matinales.", "Destino importante para turistas de naturaleza especializados.", "Protege especies endémicas poco comunes."],
+      pt: ["Lar de mais de 300 espécies diferentes de borboletas.", "Especialmente ativas após as chuvas matinais.", "Destino importante para turistas de natureza especializados.", "Protege espécies endémicas raras."],
+      fr: ["Abrite plus de 300 espèces différentes de papillons.", "Particulièrement actifs après les pluies matinales.", "Destination importante pour les touristes de nature spécialisés.", "Protège des espèces endémiques rares."],
     }, image: "/poi-images/sangha-butterflies-life-v2.webp"},
   {
     id: "vakaga-hippos-life-v2",
@@ -386,18 +476,27 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: ["Vakaga prefektúra az ország legészakibb és legelszigeteltebb régiója.", "A nílusi vízilovak főként az Aouk-folyó mélyebb szakaszaiban élnek.", "A vízilovak naponta akár 40-50 kg növényzetet is elfogyasztanak a parton.", "A térség éghajlata szudáni-szaharai jellegű, hosszú száraz évszakkal.", "A vízilovak jelenléte közvetlenül javítja a folyók halállományát.", "A terület a Manovo-Gounda St. Floris Nemzeti Parkhoz tartozik."],
       ro: ["Vakaga se află la granița cu Ciadul și Sudanul, în nord-estul țării.", "Râul Aouk este principala arteră hidrografică unde trăiesc hipopotamii.", "Hipopotamii pot rămâne sub apă până la 5 minute fără să respire.", "Regiunea suferă de inundații masive între lunile iunie și septembrie.", "Populațiile de hipopotami sunt monitorizate de proiecte de conservare.", "Bazinele cu hipopotami sunt esențiale pentru turismul de nișă viitor."],
       en: ["Vakaga is the northeasternmost prefecture of the Central African Republic.", "The Aouk River is the primary habitat for the region's hippos.", "Hippos can weigh up to 3,000 kg and are highly territorial in the water.", "The region experiences extreme seasonal flooding during the rainy months.", "Vakaga's hippos are part of the broader Sahelian wildlife ecosystem.", "The area is listed as a UNESCO World Heritage site in Danger."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "In den abgelegenen Gewässern des Nordens finden majestätische Flusspferde in tiefen Lagunen Zuflucht. Während der heißen Mittagsstunden sieht man oft nur ihre Augen und Ohren aus dem kühlen Wasser ragen – ein friedliches Bild der Wildnis in einer extremen Umgebung.",
       hu: "Észak távoli vizeiben, mély lagúnákban találnak menedéket a fenséges vízilovak. A forró déli órákban gyakran csak a szemüket és a fülüket látni a hűvös vízből kiemelkedni – a vadon békés képe ez egy extrém környezetben.",
       ro: "În apele izolate din nord, hipopotami maiestuoși găsesc refugiu în lagune adânci. În timpul orelor fierbinți ale amiezii, adesea se pot vedea doar ochii și urechile lor ieșind din apa răcoroasă – o imagine pașnică a sălbăticiei într-un mediu extrem.",
-      en: "In the remote waters of the north, majestic hippopotamuses find refuge in deep lagoons. During the hot midday hours, one often only sees their eyes and ears protruding from the cool water – a peaceful image of wilderness in an extreme environment."
+      en: "In the remote waters of the north, majestic hippopotamuses find refuge in deep lagoons. During the hot midday hours, one often only sees their eyes and ears protruding from the cool water – a peaceful image of wilderness in an extreme environment.",
+      es: "En las aguas remotas del norte, majestuosos hipopótamos encuentran refugio en profundas lagunas. Durante las horas calurosas del mediodía, a menudo solo se ven sus ojos y orejas sobresaliendo del agua fresca, una imagen pacífica de la vida salvaje en un entorno extremo.",
+      pt: "Nas águas remotas do norte, hipopótamos majestosos encontram refúgio em lagoas profundas. Durante as horas quentes do meio-dia, muitas vezes apenas se veem os seus olhos e orelhas a sair da água fresca – uma imagem pacífica da vida selvagem num ambiente extremo.",
+      fr: "Dans les eaux reculées du nord, des hippopotames majestueux trouvent refuge dans des lagunes profondes. Pendant les heures chaudes de la mi-journée, on ne voit souvent que leurs yeux et leurs oreilles dépasser de l'eau fraîche – une image paisible de la vie sauvage dans un environnement extrême.",
     },
     facts: {
       de: ["Eine der größten Populationen im Norden des Landes.", "Wichtig für das Gleichgewicht der aquatischen Ökosysteme.", "Beobachtungsstelle für seltene Wasservögel.", "Heilig für einige lokale Volksgruppen."],
       hu: ["Az ország északi részének egyik legnagyobb populációja.", "Fontos a vízi ökoszisztémák egyensúlya szempontjából.", "Ritka vízimadarak megfigyelőhelye.", "Szent hely néhány helyi népcsoport számára."],
       ro: ["Una dintre cele mai mari populații din nordul țării.", "Importantă pentru echilibrul ecosistemelor acvatice.", "Loc de observare pentru păsări de apă rare.", "Loc sfânt pentru unele grupuri etnice locale."],
-      en: ["One of the largest populations in the north of the country.", "Vital for the balance of aquatic ecosystems.", "Observation site for rare water birds.", "Sacred to some local ethnic groups."]
+      en: ["One of the largest populations in the north of the country.", "Vital for the balance of aquatic ecosystems.", "Observation site for rare water birds.", "Sacred to some local ethnic groups."],
+      es: ["Una de las poblaciones más grandes del norte del país.", "Importantes para el equilibrio de los ecosistemas acuáticos.", "Punto de observación de aves acuáticas poco comunes.", "Sagrados para algunos grupos étnicos locales."],
+      pt: ["Uma das maiores populações no norte do país.", "Importantes para o equilíbrio dos ecossistemas aquáticos.", "Ponto de observação de aves aquáticas raras.", "Sagrados para alguns grupos étnicos locais."],
+      fr: ["L'une des plus grandes populations du nord du pays.", "Important pour l'équilibre des écosystèmes aquatiques.", "Lieu d'observation d'oiseaux aquatiques rares.", "Sacré pour certains groupes ethniques locaux."],
     }, image: "/poi-images/vakaga-hippos-life-v2.webp"},
   {
     id: "ouaka-palm-life-v2",
@@ -421,18 +520,27 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: ["Ouaka prefektúra az ország egyik legnagyobb pálmaolaj-szállítója.", "Bambari városa a régió pálmaolaj-kereskedelmének központja.", "A vörös pálmaolaj gazdag béta-karotinban és E-vitaminban.", "Az olajpálma vadon és ültetvényeken egyaránt megterem a környéken.", "A helyi szappanfőzés szinte kizárólag pálmaolajra épül.", "A termés betakarítása és feldolgozása főként kézi erővel történik."],
       ro: ["Ouaka furnizează o mare parte din uleiul de palmier consumat în Bangui.", "Orașul Bambari este principalul centru de colectare a uleiului roșu.", "Uleiul de palmier este esențial pentru fabricarea săpunului artizanal.", "Palmierii de ulei cresc optim în zona de tranziție forestieră din Ouaka.", "Extracția tradițională implică fierberea și presarea fructelor de palmier.", "Producția de ulei reprezintă o activitate economică majoră pentru femei."],
       en: ["Ouaka is a leading region for oil palm cultivation in central CAR.", "Bambari is the primary commercial hub for the palm oil trade.", "Red palm oil is a significant source of calories for the local population.", "Oil palms (Elaeis guineensis) are native to the African tropical belt.", "Palm kernel oil is also extracted and used for cosmetic purposes.", "The industry supports thousands of small-scale farmers in the prefecture."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "In der Ouaka-Region prägen hohe Ölpalmen die grüne Landschaft. Die Gewinnung von Palmöl ist eine traditionsreiche Handwerkskunst, die in den Dörfern von Generation zu Generation weitergegeben wird und ein unverzichtbarer Teil der lokalen Ernährung und Wirtschaft ist.",
       hu: "Az Ouaka régióban magas olajpálmák határozzák meg a zöld tájat. A pálmaolaj kinyerése hagyományőrző mesterség, amely a falvakban nemzedékről nemzedékre öröklődik, és a helyi étrend és gazdaság nélkülözhetetlen része.",
       ro: "În regiunea Ouaka, palmierii înalți de ulei domină peisajul verde. Extracția uleiului de palmier este un meșteșug tradițional, transmis din generație în generație în sate, fiind o parte indispensabilă a dietei și economiei locale.",
-      en: "In the Ouaka region, tall oil palms shape the green landscape. The extraction of palm oil is a traditional craft passed down through generations in the villages and is an indispensable part of the local diet and economy."
+      en: "In the Ouaka region, tall oil palms shape the green landscape. The extraction of palm oil is a traditional craft passed down through generations in the villages and is an indispensable part of the local diet and economy.",
+      es: "En la región de Ouaka, las altas palmeras de aceite caracterizan el paisaje verde. La extracción de aceite de palma es un arte tradicional que se transmite de generación en generación en las aldeas y es una parte esencial de la dieta y la economía local.",
+      pt: "Na região de Ouaka, as altas palmeiras de óleo caracterizam a paisagem verde. A extração de óleo de palma é uma arte tradicional que se transmite de geração em geração nas aldeias e é uma parte essencial da dieta e economia local.",
+      fr: "Dans la région de l'Ouaka, de hauts palmiers à huile marquent le paysage verdoyant. L'extraction de l'huile de palme est un artisanat traditionnel transmis de génération en génération dans les villages, constituant un élément indispensable de l'alimentation et de l'économie locales.",
     },
     facts: {
       de: ["Traditionelle Gewinnung durch Stampfen und Kochen.", "Wichtiger Energielieferant in der lokalen Küche.", "Wird auf regionalen Märkten in roten Fässern gehandelt.", "Die Palmen bieten auch Material für den Hausbau."],
       hu: ["Hagyományos kinyerés döngöléssel és főzéssel.", "Fontos energiaforrás a helyi konyhában.", "A regionális piacokon piros hordókban árulják.", "A pálmák az építkezéshez is nyújtanak alapanyagot."],
       ro: ["Extracție tradițională prin pisare și fierbere.", "Sursă importantă de energie în bucătăria locală.", "Comercializat în butoaie roșii pe piețele regionale.", "Palmieri oferă, de asemenea, materiale pentru construcția caselor."],
-      en: ["Traditional extraction through pounding and boiling.", "Key energy source in local cuisine.", "Traded in red drums at regional markets.", "The palms also provide material for house construction."]
+      en: ["Traditional extraction through pounding and boiling.", "Key energy source in local cuisine.", "Traded in red drums at regional markets.", "The palms also provide material for house construction."],
+      es: ["Extracción tradicional mediante machacado y cocción.", "Importante fuente de energía en la cocina local.", "Se comercia en barriles rojos en los mercados regionales.", "Las palmeras también proporcionan material para la construcción de casas."],
+      pt: ["Extração tradicional através de esmagamento e cozedura.", "Importante fonte de energia na cozinha local.", "É comercializado em barris vermelhos nos mercados regionais.", "As palmeiras também fornecem material para a construção de casas."],
+      fr: ["Extraction traditionnelle par pilonnage et cuisson.", "Source d'énergie importante dans la cuisine locale.", "Vendu sur les marchés régionaux dans des fûts rouges.", "Les palmiers fournissent également des matériaux pour la construction des maisons."],
     }, image: "/poi-images/ouaka-palm-life-v2.webp"},
   {
     id: "mbomou-chimps-life-v2",
@@ -456,18 +564,27 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: ["Mbomou a keleti csimpánz egyik legfontosabb közép-afrikai élőhelye.", "A csimpánzok az Mbomou-folyó menti galériaerdőkben fészkelnek.", "Az állatok étrendje főként gyümölcsökből, levelekből és rovarokból áll.", "Egy csimpánzcsoport területe több tíz négyzetkilométerre is kiterjedhet.", "Az orvvadászat elleni védelem kiemelt feladat a prefektúrában.", "A régió a Kongó-medence északi peremén helyezkedik el."],
       ro: ["Mbomou este casa subspeciei de cimpanzeu estic în această țară.", "Râul Mbomou formează granița naturală cu RD Congo.", "Cimpanzeii folosesc unelte rudimentare pentru a obține hrană.", "Populația locală de primate este estimată la câteva sute de exemplare.", "Defrișările ilegale reduc anual habitatul disponibil pentru cimpanzei.", "Sunt animale omnivore, consumând ocazional și mamifere mici."],
       en: ["Mbomou hosts significant populations of the Eastern chimpanzee subspecies.", "Chimpanzees in this region rely on the continuous forest cover along riverbanks.", "They are known to use sticks and stones as tools for foraging.", "The Mbomou River acts as a major geographical barrier for primate groups.", "Conservation efforts focus on preventing the illegal bushmeat trade.", "Chimpanzee social structures in Mbomou are among the most complex in CAR."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "In den unberührten Galeriewäldern entlang des Mbomou-Flusses leben Gemeinschaften von wilden Schimpansen. Diese intelligenten Primaten finden in der dichten Vegetation reichlich Nahrung und Schutz, fernab von menschlichen Siedlungen in einer fast vergessenen Welt.",
       hu: "Az Mbomou folyó menti érintetlen galériaerdőkben vadcsimpánz-közösségek élnek. Ezek az intelligens prímások a sűrű vegetációban bőséges táplálékot és védelmet találnak, távol az emberi településektől, egy szinte elfeledett világban.",
       ro: "În pădurile-galerie virgine de-a lungul râului Mbomou trăiesc comunități de cimpanzei sălbatici. Aceste primate inteligente găsesc hrană din abundență și adăpost în vegetația densă, departe de așezările umane, într-o lume aproape uitată.",
-      en: "Communities of wild chimpanzees live in the pristine gallery forests along the Mbomou River. These intelligent primates find plenty of food and protection in the dense vegetation, far from human settlements in an almost forgotten world."
+      en: "Communities of wild chimpanzees live in the pristine gallery forests along the Mbomou River. These intelligent primates find plenty of food and protection in the dense vegetation, far from human settlements in an almost forgotten world.",
+      es: "En los bosques de galería vírgenes a lo largo del río Mbomou viven comunidades de chimpancés salvajes. Estos primates inteligentes encuentran abundante alimento y refugio en la densa vegetación, lejos de los asentamientos humanos en un mundo casi olvidado.",
+      pt: "Nas florestas de galeria intocadas ao longo do rio Mbomou vivem comunidades de chimpanzés selvagens. Estes primatas inteligentes encontram alimento abundante e abrigo na vegetação densa, longe dos assentamentos humanos num mundo quase esquecido.",
+      fr: "Dans les forêts-galeries vierges le long de la rivière Mbomou vivent des communautés de chimpanzés sauvages. Ces primates intelligents trouvent une nourriture abondante et un abri dans la végétation dense, loin des établissements humains dans un monde presque oublié.",
     },
     facts: {
       de: ["Zentrum für Studien über Primatenverhalten.", "Eines der östlichsten Schimpansen-Vorkommen des Landes.", "Nutzen Werkzeuge zur Gewinnung von Nüssen und Termiten.", "Bedroht durch den Verlust ihres natürlichen Lebensraums."],
       hu: ["A prímásviselkedés tanulmányozásának központja.", "Az ország egyik legkeletibb csimpánz-előfordulási helye.", "Eszközöket használnak a dió- és termeszgyűjtéshez.", "Természetes élőhelyük elvesztése veszélyezteti őket."],
       ro: ["Centru pentru studii despre comportamentul primatelor.", "Una dintre cele mai estice prezențe ale cimpanzeilor din țară.", "Folosesc unelte pentru a obține nuci și termite.", "Amenințați de pierderea habitatului lor natural."],
-      en: ["Center for primate behavior studies.", "One of the easternmost chimpanzee populations in the country.", "Use tools to gather nuts and termites.", "Threatened by the loss of their natural habitat."]
+      en: ["Center for primate behavior studies.", "One of the easternmost chimpanzee populations in the country.", "Use tools to gather nuts and termites.", "Threatened by the loss of their natural habitat."],
+      es: ["Centro de estudios sobre el comportamiento de los primates.", "Una de las poblaciones de chimpancés más orientales del país.", "Utilizan herramientas para obtener nueces y termitas.", "Amenazados por la pérdida de su hábitat natural."],
+      pt: ["Centro de estudos sobre o comportamento dos primatas.", "Uma das populações de chimpanzés mais a leste do país.", "Utilizam ferramentas para obter nozes e térmitas.", "Ameaçados pela perda do seu habitat natural."],
+      fr: ["Centre d'études sur le comportement des primates.", "L'une des populations de chimpanzés les plus à l'est du pays.", "Utilisent des outils pour extraire des noix et des termites.", "Menacés par la perte de leur habitat naturel."],
     }, image: "/poi-images/mbomou-chimps-life-v2.webp"},
   {
     id: "basse-kotto-tobacco-life-v2",
@@ -491,18 +608,27 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: ["Basse-Kotto prefektúra az ország legfőbb dohánytermelő vidéke.", "Mobaye városa a Kotto-folyó partján, a kongói határ mentén fekszik.", "A dohányt elsősorban exportra és a hazai feldolgozóipar számára termelik.", "A levelek szárítása 4-6 hétig tart a speciális pajtákban.", "A régióban a dohánytermesztés több ezer családnak ad munkát.", "A dohány mellett a kávé és a gyapot is megterem a vidéken."],
       ro: ["Basse-Kotto este principala zonă producătoare de tutun din sudul țării.", "Mobaye este nodul comercial pentru tutunul din valea râului Kotto.", "Cultivarea tutunului este o moștenire a perioadei coloniale franceze.", "Procesul de uscare a frunzelor determină aroma și calitatea finală.", "Tutunul este comercializat în principal sub formă de frunze uscate în baloturi.", "Regiunea beneficiază de un sezon ploios lung, favorabil plantelor tehnice."],
       en: ["Basse-Kotto is the historical hub of tobacco production in the CAR.", "The town of Mobaye is situated on the Kotto River, a major waterway.", "Tobacco is the region's most important commercial agricultural product.", "Leaves are traditionally air-cured to achieve specific flavor profiles.", "The sector reached its production peak in the late 20th century.", "The river's alluvial deposits provide natural fertilizer for tobacco fields."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "In den sonnigen Tälern von Basse-Kotto gedeiht kräftiger Tabak, der für seine Qualität bekannt ist. Die großen, grünen Blätter werden nach der Ernte in speziellen Trockenhütten sorgsam gelagert, ein Prozess, der viel Erfahrung und Geduld erfordert.",
       hu: "Basse-Kotto napos völgyeiben erős dohány terem, amely minőségéről híres. A nagy, zöld leveleket a betakarítás után speciális szárítókunyhókban gondosan tárolják; ez a folyamat sok tapasztalatot és türelmet igényel.",
       ro: "În văile însorite din Basse-Kotto prosperă tutunul puternic, cunoscut pentru calitatea sa. Frunzele mari și verzi sunt depozitate cu grijă în colibe speciale de uscare după recoltare, un proces care necesită multă experiență și răbdare.",
-      en: "Strong tobacco, known for its quality, thrives in the sunny valleys of Basse-Kotto. The large, green leaves are carefully stored in special drying huts after harvest, a process that requires great experience and patience."
+      en: "Strong tobacco, known for its quality, thrives in the sunny valleys of Basse-Kotto. The large, green leaves are carefully stored in special drying huts after harvest, a process that requires great experience and patience.",
+      es: "En los valles soleados de Basse-Kotto crece un tabaco robusto conocido por su calidad. Las grandes hojas verdes se almacenan cuidadosamente en cabañas de secado especiales después de la cosecha, un proceso que requiere mucha experiencia y paciencia.",
+      pt: "Nos vales ensolarados de Basse-Kotto cresce um tabaco robusto conhecido pela sua qualidade. As grandes folhas verdes são cuidadosamente armazenadas em cabanas de secagem especiais após a colheita, um processo que exige muita experiência e paciência.",
+      fr: "Dans les vallées ensoleillées de la Basse-Kotto, on cultive un tabac robuste réputé pour sa qualité. Après la récolte, les grandes feuilles vertes sont soigneusement entreposées dans des séchoirs spéciaux, un processus qui exige beaucoup d'expérience et de patience.",
     },
     facts: {
       de: ["Historisch wichtigstes Anbaugebiet für Tabak.", "Die Blätter werden oft zu Zöpfen geflochten.", "Bietet Arbeitsplätze in der lokalen Weiterverarbeitung.", "Wird oft auf regionalen Märkten gegen andere Güter getauscht."],
       hu: ["Történelmileg a legfontosabb dohánytermő vidék.", "A leveleket gyakran fonatokba fonják.", "Munkalehetőséget biztosít a helyi feldolgozóiparban.", "A regionális piacokon gyakran cserélik más árukra."],
       ro: ["Cea mai importantă zonă istorică de cultivare a tutunului.", "Frunzele sunt adesea împletite în cozi.", "Oferă locuri de muncă în prelucrarea locală.", "Este adesea schimbat pe alte bunuri în piețele regionale."],
-      en: ["Historically the most important tobacco cultivation area.", "The leaves are often braided into coils.", "Provides jobs in local processing.", "Often traded for other goods in regional markets."]
+      en: ["Historically the most important tobacco cultivation area.", "The leaves are often braided into coils.", "Provides jobs in local processing.", "Often traded for other goods in regional markets."],
+      es: ["Históricamente la zona de cultivo de tabaco más importante.", "Las hojas a menudo se trenzan.", "Proporciona empleos en el procesamiento local.", "A menudo se intercambia por otros bienes en los mercados regionales."],
+      pt: ["Historicamente a área de cultivo de tabaco mais importante.", "As folhas são frequentemente entrançadas.", "Oferece empregos no processamento local.", "É frequentemente trocado por outros bens nos mercados regionais."],
+      fr: ["Historiquement la plus importante zone de culture du tabac.", "Les feuilles sont souvent tressées.", "Fournit des emplois dans la transformation locale.", "Souvent échangé contre d'autres marchandises sur les marchés régionaux."],
     }, image: "/poi-images/basse-kotto-tobacco-life-v2.webp"},
   {
     id: "haute-kotto-honey-life-v2",
@@ -526,18 +652,27 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: ["Haute-Kotto az ország legnagyobb területű prefektúrája.", "Bria városa a régió központja, ahol a vadmézet nagy mennyiségben értékesítik.", "A mézgyűjtéshez gyakran speciális, liánokból készült mászóköteleket használnak.", "A vadméz színe a sárgától a szinte feketéig terjedhet a virágforrástól függően.", "A gyűjtés szezonális munka, amely a fák virágzásához igazodik.", "A régióban a méz fontos cserekereskedelmi eszköz az elszigetelt falvakban."],
       ro: ["Haute-Kotto este cea mai întinsă prefectură din Republica Centrafricană.", "Orașul Bria este centrul principal de colectare a mierii din estul țării.", "Mierea sălbatică este colectată manual din arbori ce pot depăși 20 de metri înălțime.", "Albinele locale produc o miere densă, bogată în minerale și enzime.", "Activitatea de recoltare a mierii este documentată de secole în această regiune.", "Mierea este un produs alimentar neperisabil, vital pentru securitatea alimentară locală."],
       en: ["Haute-Kotto is the largest prefecture by land area in the Central African Republic.", "Bria serves as the administrative capital and a key hub for wild honey trade.", "Foraging techniques include using smoke to manage wild bee swarms safely.", "Wild honey is a key ingredient in traditional Central African folk medicine.", "Acacia and Shea trees are the primary nectar sources for bees in the region.", "Honey collection is a community-based activity involving specialized forest skills."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "In den weiten Wäldern der Haute-Kotto sammeln lokale Gemeinschaften den kostbaren Wildhonig. Die Imker klettern auf hohe Bäume, um die Waben der wilden Bienen zu ernten – ein gefährliches Handwerk, das mit einem der reinsten Naturprodukte belohnt wird.",
       hu: "Haute-Kotto hatalmas erdőiben a helyi közösségek gyűjtik az értékes vadhonigot. A méhészek magas fákra másznak fel, hogy begyűjtsék a vadméhek lépeit – ez egy veszélyes mesterség, amelyet az egyik legtisztább természetes termékkel jutalmaznak.",
       ro: "În pădurile vaste din Haute-Kotto, comunitățile locale colectează mierea sălbatică prețioasă. Apicultorii urcă în copaci înalți pentru a recolta fagurii albinelor sălbatice – un meșteșug periculos, răsplătit cu unul dintre cele mai pure produse naturale.",
-      en: "Local communities gather precious wild honey in the vast forests of Haute-Kotto. Beekeepers climb tall trees to harvest the combs of wild bees – a dangerous craft rewarded with one of the purest natural products."
+      en: "Local communities gather precious wild honey in the vast forests of Haute-Kotto. Beekeepers climb tall trees to harvest the combs of wild bees – a dangerous craft rewarded with one of the purest natural products.",
+      es: "En los vastos bosques de Haute-Kotto, las comunidades locales recolectan la preciada miel silvestre. Los apicultores trepan a árboles altos para cosechar los panales de las abejas salvajes: un oficio peligroso recompensado con uno de los productos naturales más puros.",
+      pt: "Nas vastas florestas de Haute-Kotto, as comunidades locais recolhem a preciosa mel silvestre. Os apicultores trepam a árvores altas para colher os favos das abelhas selvagens - um ofício perigoso recompensado com um dos produtos naturais mais puros.",
+      fr: "Dans les vastes forêts de la Haute-Kotto, les communautés locales récoltent le précieux miel sauvage. Les apiculteurs grimpent aux arbres les plus hauts pour récolter les rayons des abeilles sauvages – un métier dangereux récompensé par l'un des produits naturels les plus purs.",
     },
     facts: {
       de: ["Der Honig ist für seinen kräftigen Waldgeschmack bekannt.", "Traditionelle Methoden ohne moderne Schutzanzüge.", "Wichtiges Ergänzungseinkommen für Waldgemeinden.", "Wird oft als Medizin und Süßungsmittel verwendet."],
       hu: ["A méz erős erdei ízéről ismert.", "Hagyományos módszerek modern védőruha nélkül.", "Fontos kiegészítő jövedelem az erdei közösségeknek.", "Gyakran használják gyógyszerként és édesítőszerként."],
       ro: ["Mierea este cunoscută pentru gustul său puternic de pădure.", "Metode tradiționale fără costume de protecție moderne.", "Sursă importantă de venit suplimentar pentru comunitățile forestiere.", "Folosită adesea ca medicament și îndulcitor."],
-      en: ["The honey is known for its strong forest flavor.", "Traditional methods used without modern protective suits.", "Important supplemental income for forest communities.", "Often used as both medicine and sweetener."]
+      en: ["The honey is known for its strong forest flavor.", "Traditional methods used without modern protective suits.", "Important supplemental income for forest communities.", "Often used as both medicine and sweetener."],
+      es: ["La miel es conocida por su fuerte sabor a bosque.", "Métodos tradicionales sin trajes de protección modernos.", "Importante ingreso suplementario para las comunidades forestales.", "Se utiliza a menudo como medicina y edulcorante."],
+      pt: ["O mel é conhecido pelo seu forte sabor a floresta.", "Métodos tradicionais sem fatos de proteção modernos.", "Rendimento suplementar importante para as comunidades florestais.", "É frequentemente utilizado como medicamento e adoçante."],
+      fr: ["Le miel est réputé pour son goût de forêt corsé.", "Méthodes traditionnelles sans combinaisons de protection modernes.", "Complément de revenu important pour les communautés forestières.", "Souvent utilisé comme remède et édulcorant."],
     }, image: "/poi-images/haute-kotto-honey-life-v2.webp"},
   {
     id: "nana-grebizi-rice-life-v2",
@@ -561,18 +696,27 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: ["A rizstermesztés központja Kaga-Bandoro környéki mocsárvidék", "Az esős évszak májustól októberig tart a völgyekben", "A helyi gazdák hagyományos árasztásos technikákat alkalmaznak", "A termés nagy részét a regionális piacokon értékesítik", "Nana-Grébizi az ország 16 prefektúrájának egyike", "A rizs stratégiai fontosságú élelmiszer a régióban"],
       ro: ["Cultivarea orezului este concentrată în zonele mlăștinoase din Nana-Grébizi", "Sezonul ploios durează din mai până în octombrie în regiune", "Fermierii folosesc metode tradiționale de irigare naturală", "Piața din Kaga-Bandoro este principalul punct de desfacere", "Nana-Grébizi este una dintre cele 16 prefecturi ale țării", "Orezul este considerat un aliment de bază strategic local"],
       en: ["Rice cultivation is centered in the marshlands of Nana-Grébizi", "The rainy season spans from May to October for crop growth", "Traditional irrigation methods utilize natural floodplains", "Kaga-Bandoro serves as the primary regional market for rice", "Nana-Grébizi is one of the 16 administrative prefectures", "Rice is a strategic staple food for national food security"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "In den feuchten Senken der Nana-Grébizi Region glänzen die grünen Reisfelder in der Sonne. Der Reisanbau ist hier ein Gemeinschaftsprojekt, bei dem ganze Dörfer zusammenarbeiten, um die Bewässerung zu steuern und die kostbare Ernte zu sichern.",
       hu: "A Nana-Grébizi régió párás mélyedéseiben zöldellő rizsföldek csillognak a napfényben. A rizstermesztés itt közösségi projekt, ahol egész falvak fognak össze az öntözés irányítására és az értékes termés biztosítására.",
       ro: "În depresiunile umede ale regiunii Nana-Grébizi, câmpurile verzi de orez strălucesc în soare. Cultivarea orezului este aici un proiect comunitar, în care sate întregi colaborează pentru a gestiona irigațiile și a asigura recolta prețioasă.",
-      en: "In the humid depressions of the Nana-Grébizi region, green rice fields glisten in the sun. Rice cultivation here is a community project where entire villages work together to manage irrigation and secure the precious harvest."
+      en: "In the humid depressions of the Nana-Grébizi region, green rice fields glisten in the sun. Rice cultivation here is a community project where entire villages work together to manage irrigation and secure the precious harvest.",
+      es: "En las depresiones húmedas de la región de Nana-Grébizi, los campos de arroz verdes brillan bajo el sol. El cultivo de arroz es aquí un proyecto comunitario donde aldeas enteras colaboran para gestionar el riego y asegurar la valiosa cosecha.",
+      pt: "Nas depressões húmidas da região de Nana-Grébizi, os campos de arroz verdes brilham ao sol. O cultivo de arroz é aqui um projeto comunitário onde aldeias inteiras colaboram para gerir a irrigação e garantir a colheita valiosa.",
+      fr: "Dans les dépressions humides de la région de Nana-Grébizi, les rizières vertes brillent au soleil. La riziculture y est un projet communautaire où des villages entiers collaborent pour gérer l'irrigation et sécuriser la précieuse récolte.",
     },
     facts: {
       de: ["Zentrum des lokalen Reisanbaus.", "Nutzt natürliche Überschwemmungsgebiete.", "Wichtig für die Ernährungssicherheit im Norden.", "Die Ernte ist ein großes gesellschaftliches Ereignis."],
       hu: ["A helyi rizstermesztés központja.", "Természetes ártéri területeket hasznosít.", "Fontos az északi élelmezésbiztonság szempontjából.", "A betakarítás nagy közösségi esemény."],
       ro: ["Centrul cultivării orezului la nivel local.", "Utilizează zonele naturale inundabile.", "Important pentru securitatea alimentară în nord.", "Recoltarea este un mare eveniment social."],
-      en: ["Center for local rice cultivation.", "Utilizes natural floodplains.", "Vital for food security in the north.", "The harvest is a major social event."]
+      en: ["Center for local rice cultivation.", "Utilizes natural floodplains.", "Vital for food security in the north.", "The harvest is a major social event."],
+      es: ["Centro del cultivo local de arroz.", "Aprovecha las zonas de inundación naturales.", "Importante para la seguridad alimentaria en el norte.", "La cosecha es un gran acontecimiento social."],
+      pt: ["Centro do cultivo local de arroz.", "Utiliza áreas de inundação naturais.", "Importante para a segurança alimentar no norte.", "A colheita é um grande evento social."],
+      fr: ["Centre de la riziculture locale.", "Utilise les zones d'inondation naturelles.", "Important pour la sécurité alimentaire dans le nord.", "La récolte est un événement social majeur."],
     }, image: "/poi-images/nana-grebizi-rice-life-v2.webp"},
   {
     id: "ouham-pende-sorghum-life-v2",
@@ -596,18 +740,27 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: ["A cirok Ouham-Pendé legfontosabb gabonaféléje", "A prefektúra Csád és Kamerun határán fekszik", "A betakarítás novemberben, az esős évszak után kezdődik", "Bocaranga a gabonakereskedelem központi helyszíne", "A cirok kevesebb vizet igényel, mint a kukorica vagy a rizs", "A hagyományos 'Bil-Bil' sört cirokból készítik"],
       ro: ["Sorgul este principala cereală cultivată în Ouham-Pendé", "Prefectura se află la granița cu Ciad și Camerun", "Recoltarea începe de obicei în noiembrie, după sezonul ploios", "Bocaranga este un hub central pentru comerțul cu cereale", "Sorgul necesită mai puțină apă decât porumbul sau orezul", "Berea tradițională 'Bil-Bil' este produsă din sorg"],
       en: ["Sorghum is the leading cereal crop in Ouham-Pendé", "The prefecture borders both Chad and Cameroon", "Harvesting typically begins in November after the rains", "Bocaranga serves as a major hub for the grain trade", "Sorghum requires significantly less water than maize", "Traditional 'Bil-Bil' beer is fermented from sorghum"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Die weiten Ebenen im Nordwesten sind die Heimat des widerstandsfähigen Sorghums. Diese Getreideart trotzt der Hitze und bildet das tägliche Brot für viele Menschen in der Region – ein Symbol für die Stärke und Anpassungsfähigkeit der lokalen Landwirtschaft.",
       hu: "Az északnyugati hatalmas síkságok a szívós cirok hazája. Ez a gabonafaj dacol a hőséggel, és a régió lakói számára a mindennapi betevőt jelenti – a helyi mezőgazdaság erejének és alkalmazkodóképességének szimbóluma.",
       ro: "Câmpiile vaste din nord-vest sunt patria sorgului rezistent. Această cereală sfidează căldura și constituie hrana zilnică pentru mulți oameni din regiune – un simbol al forței și adaptabilității agriculturii locale.",
-      en: "The vast plains of the northwest are home to resilient sorghum. This grain defies the heat and provides the daily bread for many in the region – a symbol of the strength and adaptability of local agriculture."
+      en: "The vast plains of the northwest are home to resilient sorghum. This grain defies the heat and provides the daily bread for many in the region – a symbol of the strength and adaptability of local agriculture.",
+      es: "Las vastas llanuras del noroeste son el hogar del resistente sorgo. Este cereal desafía el calor y constituye el pan de cada día para muchas personas de la región, un símbolo de la fuerza y adaptabilidad de la agricultura local.",
+      pt: "As vastas planícies do noroeste são o lar do resistente sorgo. Este cereal desafia o calor e constitui o pão de cada dia para muitas pessoas da região – um símbolo da força e adaptabilidade da agricultura local.",
+      fr: "Les vastes plaines du nord-ouest abritent le sorgho, une plante très résistante. Cette céréale brave la chaleur et constitue le pain quotidien de nombreuses personnes dans la région – un symbole de la force et de l'adaptabilité de l'agriculture locale.",
     },
     facts: {
       de: ["Hauptnahrungsmittel in den trockeneren Regionen.", "Wird oft zu traditionellem Bier (Bil-Bil) verarbeitet.", "Die Halme dienen als Baumaterial und Brennstoff.", "Besonders hitzeresistent und anspruchslos."],
       hu: ["Fő élelemforrás a szárazabb vidékeken.", "Gyakran dolgozzák fel hagyományos sörré (Bil-Bil).", "A szárakat építőanyagként és tüzelőként használják.", "Különösen hőtűrő és igénytelen növény."],
       ro: ["Aliment de bază în regiunile mai uscate.", "Adesea procesat în bere tradițională (Bil-Bil).", "Tulpinile servesc ca material de construcție și combustibil.", "Deosebit de rezistent la căldură și nepretențios."],
-      en: ["Staple food in the drier regions.", "Often processed into traditional beer (Bil-Bil).", "The stalks serve as building material and fuel.", "Particularly heat-resistant and undemanding."]
+      en: ["Staple food in the drier regions.", "Often processed into traditional beer (Bil-Bil).", "The stalks serve as building material and fuel.", "Particularly heat-resistant and undemanding."],
+      es: ["Alimento básico en las regiones más secas.", "A menudo se procesa para elaborar cerveza tradicional (Bil-Bil).", "Los tallos sirven como material de construcción y combustible.", "Especialmente resistente al calor y poco exigente."],
+      pt: ["Alimento básico nas regiões mais secas.", "Muitas vezes processado para fazer cerveja tradicional (Bil-Bil).", "Os caules servem como material de construção e combustível.", "Especialmente resistente ao calor e pouco exigente."],
+      fr: ["Aliment de base dans les régions les plus sèches.", "Souvent transformé en bière traditionnelle (Bil-Bil).", "Les tiges servent de matériau de construction et de combustible.", "Particulièrement résistant à la chaleur et peu exigeant."],
     }, image: "/poi-images/ouham-pende-sorghum-life-v2.webp"},
   {
     id: "ombella-mpoko-gardens-life-v2",
@@ -631,18 +784,27 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: ["Ombella-M'Poko szinte teljesen körbeveszi Banguit", "Az M'Poko-folyó biztosítja az öntözéshez szükséges vizet", "A kertészetek több mint 60%-át női szövetkezetek vezetik", "Fő termények a paradicsom, a hagyma és a zöld levelesek", "A rövid szállítási útvonal biztosítja a termékek frissességét", "A kertek meghatározóak a főváros élelmezésében"],
       ro: ["Ombella-M'Poko înconjoară aproape complet capitala Bangui", "Râul M'Poko furnizează apa necesară pentru irigații", "Cooperativele de femei gestionează peste 60% din grădini", "Produsele principale sunt roșiile, ceapa și verdețurile", "Transportul rapid garantează prospețimea produselor în Bangui", "Grădinile sunt esențiale pentru securitatea alimentară urbană"],
       en: ["Ombella-M'Poko nearly surrounds the capital city of Bangui", "The M'Poko River provides essential water for irrigation", "Women's cooperatives manage over 60% of the garden plots", "Primary crops include tomatoes, onions, and leafy greens", "Short transport routes ensure freshness in Bangui's markets", "These gardens are vital for the capital's food security"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "In der Nähe der Hauptstadt Bangui versorgen die fruchtbaren Gärten von Ombella-M'Poko die Märkte mit frischem Gemüse. Hier gedeihen Maniok, Tomaten und Blattgemüse in üppiger Fülle, gepflegt von fleißigen Gärtnern, die das grüne Umland der Stadt bewirtschaften.",
       hu: "A főváros, Bangui közelében Ombella-M'Poko termékeny kertjei látják el a piacokat friss zöldséggel. Itt bőségesen terem a manióka, a paradicsom és a leveles zöldségek, hála a szorgos kertészeknek, akik a város zöld környékét művelik.",
       ro: "Lângă capitala Bangui, grădinile fertile din Ombella-M'Poko aprovizionează piețele cu legume proaspete. Aici prosperă maniocul, roșiile și legumele cu frunze în abundență, îngrijite de grădinari harnici care cultivă împrejurimile verzi ale orașului.",
-      en: "Near the capital city of Bangui, the fertile gardens of Ombella-M'Poko supply the markets with fresh vegetables. Cassava, tomatoes, and leafy greens thrive here in lush abundance, tended by hardworking gardeners who farm the city's green outskirts."
+      en: "Near the capital city of Bangui, the fertile gardens of Ombella-M'Poko supply the markets with fresh vegetables. Cassava, tomatoes, and leafy greens thrive here in lush abundance, tended by hardworking gardeners who farm the city's green outskirts.",
+      es: "Cerca de la capital, Bangui, los fértiles huertos de Ombella-M'Poko abastecen los mercados con verduras frescas. Aquí crecen la yuca, los tomates y las verduras de hoja en abundancia, cuidados por diligentes hortelanos que cultivan los alrededores verdes de la ciudad.",
+      pt: "Perto da capital, Bangui, as hortas férteis de Ombella-M'Poko abastecem os mercados com vegetais frescos. Aqui crescem a mandioca, o tomate e os vegetais de folha em abundância, cuidados por hortelãos diligentes que cultivam os arredores verdes da cidade.",
+      fr: "Près de la capitale Bangui, les jardins fertiles de l'Ombella-M'Poko approvisionnent les marchés en légumes frais. Le manioc, les tomates et les légumes-feuilles y poussent en abondance, entretenus par des jardiniers assidus qui cultivent la périphérie verdoyante de la ville.",
     },
     facts: {
       de: ["Wichtigster Gemüselieferant für Bangui.", "Nutzt die Feuchtigkeit der umliegenden Flussläufe.", "Fördert die lokale Selbstversorgung.", "Frauen spielen eine führende Rolle im Gartenbau."],
       hu: ["Bangui legfontosabb zöldségszállítója.", "A környező vízfolyások páráját hasznosítja.", "Segíti a helyi önellátást.", "A nők vezető szerepet játszanak a kertészkedésben."],
       ro: ["Cel mai important furnizor de legume pentru Bangui.", "Utilizează umiditatea cursurilor de apă din jur.", "Promovează autosuficiența locală.", "Femeile joacă un rol de lider în grădinărit."],
-      en: ["The most important vegetable supplier for Bangui.", "Utilizes the moisture from surrounding watercourses.", "Promotes local self-sufficiency.", "Women play a leading role in market gardening."]
+      en: ["The most important vegetable supplier for Bangui.", "Utilizes the moisture from surrounding watercourses.", "Promotes local self-sufficiency.", "Women play a leading role in market gardening."],
+      es: ["Principal proveedor de verduras para Bangui.", "Aprovecha la humedad de los cursos de agua circundantes.", "Promueve el autoabastecimiento local.", "Las mujeres desempeñan un papel de liderazgo en la horticultura."],
+      pt: ["Principal fornecedor de vegetais para Bangui.", "Utiliza a humidade dos cursos de água circundantes.", "Promove o autoabastecimento local.", "As mulheres desempenham um papel de liderança na horticultura."],
+      fr: ["Principal fournisseur de légumes pour Bangui.", "Utilise l'humidité des cours d'eau environnants.", "Favorise l'autosuffisance locale.", "Les femmes jouent un rôle de premier plan dans l'horticulture."],
     }, image: "/poi-images/ombella-mpoko-gardens-life-v2.webp"},
   {
     id: "zemongo-wildlife-life-v2",
@@ -666,18 +828,27 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: ["Zemongót már 1925-ben védett területté nyilvánították", "A rezervátum területe körülbelül 10 100 négyzetkilométer", "Jelentős erdei elefántállománynak ad otthont a terület", "A park a szavanna és az erdő határzónájában található", "Olyan folyók szelik át, mint a Vovodo és a Chinko", "Az elszigeteltség védi az ökoszisztémát a beavatkozástól"],
       ro: ["Zemongo a fost declarată zonă protejată încă din 1925", "Suprafața totală este de aproximativ 10.100 km pătrați", "Găzduiește populații importante de elefanți de pădure", "Rezervația se află la granița dintre savană și pădure", "Râuri precum Vovodo traversează acest teritoriu sălbatic", "Izolarea geografică ajută la menținerea ecosistemului intact"],
       en: ["Zemongo was established as a wildlife reserve in 1925", "The reserve covers roughly 10,100 square kilometers", "It is a vital habitat for threatened forest elephants", "The area lies in a transition zone between forest and savanna", "Rivers like the Vovodo flow through the remote terrain", "Geographic isolation helps protect the ecosystem from encroachment"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Im fernen Osten des Landes liegt das Zemongo-Reservat, ein weitläufiges Schutzgebiet, das eine Brücke zwischen Savanne und Regenwald bildet. In dieser abgelegenen Wildnis finden bedrohte Tierarten einen sicheren Rückzugsort vor menschlichen Einflüssen.",
       hu: "Az ország távoli keleti részén található a Zemongo-rezervátum, egy kiterjedt védett terület, amely hidat képez a szavanna és az esőerdő között. Ebben a távoli vadonban veszélyeztetett állatfajok találnak biztonságos menedéket az emberi hatások elől.",
       ro: "În estul îndepărtat al țării se află Rezervația Zemongo, o zonă protejată vastă care formează o punte între savană și pădurea tropicală. În această sălbăticie izolată, speciile de animale amenințate găsesc un refugiu sigur de influențele umane.",
-      en: "In the far east of the country lies the Zemongo Reserve, an expansive protected area that forms a bridge between savanna and rainforest. In this remote wilderness, endangered animal species find a safe sanctuary from human influences."
+      en: "In the far east of the country lies the Zemongo Reserve, an expansive protected area that forms a bridge between savanna and rainforest. In this remote wilderness, endangered animal species find a safe sanctuary from human influences.",
+      es: "En el extremo este del país se encuentra la Reserva de Zemongo, una vasta área protegida que forma un puente entre la sabana y la selva tropical. En esta remota naturaleza, las especies en peligro encuentran un refugio seguro frente a las influencias humanas.",
+      pt: "No extremo leste do país encontra-se a Reserva de Zemongo, uma vasta área protegida que forma uma ponte entre a savana e a floresta tropical. Nesta natureza remota, espécies ameaçadas encontram um refúgio seguro contra as influências humanas.",
+      fr: "Située à l'extrême est du pays, la réserve de Zemongo est une vaste zone protégée formant un pont entre la savane et la forêt tropicale. Dans cette nature sauvage isolée, les espèces menacées trouvent un refuge sûr loin de l'influence humaine.",
     },
     facts: {
       de: ["Eines der isoliertesten Schutzgebiete Afrikas.", "Bekannt für seine Populationen von Riesenelantilopen.", "Ein wichtiger Korridor für die Tierwanderung nach Osten.", "Wird aktiv zum Schutz vor Wilderei überwacht."],
       hu: ["Afrika egyik legizoláltabb védett területe.", "Az óriás lantilop populációjáról ismert.", "Fontos folyosó az állatok keletre történő vándorlásához.", "Aktívan felügyelik az orvvadászat elleni védelem érdekében."],
       ro: ["Una dintre cele mai izolate zone protejate din Africa.", "Cunoscută pentru populațiile sale de elani giganți.", "Un coridor important pentru migrația animalelor spre est.", "Monitorizată activ pentru protecția împotriva braconajului."],
-      en: ["One of Africa's most isolated protected areas.", "Known for its giant eland populations.", "An important corridor for eastward animal migration.", "Actively monitored for anti-poaching protection."]
+      en: ["One of Africa's most isolated protected areas.", "Known for its giant eland populations.", "An important corridor for eastward animal migration.", "Actively monitored for anti-poaching protection."],
+      es: ["Una de las áreas protegidas más aisladas de África.", "Conocida por sus poblaciones de eland gigante.", "Un corredor importante para la migración animal hacia el este.", "Se supervisa activamente para la protección contra la caza furtiva."],
+      pt: ["Uma das áreas protegidas mais isoladas de África.", "Conhecida pelas suas populações de elande-gigante.", "Um corredor importante para a migração de animais para leste.", "É monitorizada ativamente para proteção contra a caça furtiva."],
+      fr: ["L'une des zones protégées les plus isolées d'Afrique.", "Connue pour ses populations d'élans géants.", "Un corridor important pour la migration de la faune vers l'est.", "Surveillance active pour la protection contre le braconnage."],
     }, image: "/poi-images/zemongo-wildlife-life-v2.webp"},
   {
     id: "lobaye-forestry-life-v2",
@@ -701,18 +872,27 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: ["Lobaye a délnyugati fatermelés központi régiója", "A sapelli és az okoumé a legfontosabb exporttermékek", "A GDP több mint 15%-a származik az erdőgazdálkodásból", "Az erdészeti koncessziók több millió hektárra terjednek ki", "A baka közösségek generációk óta ezekben az erdőkben élnek", "Mbaiki városa a fafeldolgozó ipar egyik központja"],
       ro: ["Lobaye este centrul producției de lemn din sud-vestul țării", "Sapelli și Okoumé sunt printre cele mai importante exporturi", "Peste 15% din PIB provine din sectorul silvic național", "Concesiunile forestiere acoperă milioane de hectare de pădure", "Comunitățile Baka trăiesc în aceste păduri de generații", "Mbaiki este un oraș cheie pentru industria de prelucrare a lemnului"],
       en: ["Lobaye is the hub of timber production in the southwest", "Sapelli and Okoumé are among the most important exports", "Forestry contributes over 15% to the national GDP", "Logging concessions cover millions of hectares of rainforest", "Baka communities have inhabited these forests for generations", "Mbaiki serves as a primary center for the wood processing industry"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "In den dichten Wäldern von Lobaye wird nachhaltige Forstwirtschaft betrieben. Das wertvolle Tropenholz wird sorgsam ausgewählt und geerntet, wobei die Erhaltung des Ökosystems und die Schaffung von Arbeitsplätzen für die lokale Bevölkerung im Vordergrund stehen.",
       hu: "Lobaye sűrű erdőiben fenntartható erdőgazdálkodás folyik. Az értékes trópusi fát gondosan válogatják és takarítják be, miközben az ökoszisztéma megőrzése és a helyi lakosság számára nyújtott munkalehetőség áll az előtérben.",
       ro: "În pădurile dese din Lobaye se practică silvicultura durabilă. Lemnul tropical prețios este selectat și recoltat cu grijă, punând accent pe conservarea ecosistemului și pe crearea de locuri de muncă pentru populația locală.",
-      en: "Sustainable forestry is practiced in the dense forests of Lobaye. Valuable tropical timber is carefully selected and harvested, with a focus on preserving the ecosystem and providing jobs for the local population."
+      en: "Sustainable forestry is practiced in the dense forests of Lobaye. Valuable tropical timber is carefully selected and harvested, with a focus on preserving the ecosystem and providing jobs for the local population.",
+      es: "En los densos bosques de Lobaye se practica la silvicultura sostenible. La valiosa madera tropical se selecciona y cosecha cuidadosamente, priorizando la preservación del ecosistema y la creación de empleos para la población local.",
+      pt: "Nas florestas densas de Lobaye pratica-se a silvicultura sustentável. A valiosa madeira tropical é cuidadosamente selecionada e colhida, priorizando a preservação do ecossistema e a criação de empregos para a população local.",
+      fr: "Dans les forêts denses de la Lobaye, une sylviculture durable est pratiquée. Le bois tropical précieux est soigneusement sélectionné et récolté, en mettant l'accent sur la préservation de l'écosystème et la création d'emplois pour la population locale.",
     },
     facts: {
       de: ["Zentrum der zentralafrikanischen Holzwirtschaft.", "Fördert nachhaltige Erntemethoden.", "Wichtiger Arbeitgeber in der Region.", "Trägt zum Schutz des Regenwaldes durch Management bei."],
       hu: ["A közép-afrikai fapiac központja.", "Támogatja a fenntartható betakarítási módszereket.", "Fontos munkáltató a régióban.", "A gazdálkodás révén hozzájárul az esőerdő védelméhez."],
       ro: ["Centrul industriei lemnului din Africa Centrală.", "Promovează metode de recoltare durabile.", "Angajator important în regiune.", "Contribuie la protejarea pădurii tropicale prin management."],
-      en: ["Center of Central Africa's timber industry.", "Promotes sustainable harvesting methods.", "Major employer in the region.", "Contributes to rainforest protection through management."]
+      en: ["Center of Central Africa's timber industry.", "Promotes sustainable harvesting methods.", "Major employer in the region.", "Contributes to rainforest protection through management."],
+      es: ["Centro de la industria maderera centroafricana.", "Promueve métodos de cosecha sostenibles.", "Importante empleador en la región.", "Contribuye a la protección de la selva mediante la gestión."],
+      pt: ["Centro da indústria madeireira centro-africana.", "Promove métodos de colheita sustentáveis.", "Empregador importante na região.", "Contribui para a proteção da floresta tropical através da gestão."],
+      fr: ["Centre de l'industrie du bois en Centrafrique.", "Favorise des méthodes de récolte durables.", "Employeur important dans la région.", "Contribue à la protection de la forêt tropicale grâce à sa gestion."],
     }
   }
 ];

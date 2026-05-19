@@ -18,25 +18,37 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: "Az Ubangi-folyó a Kongó legnagyobb jobb oldali mellékfolyója Közép-Afrikában, amely jelentős szakaszokon határt képez a Kongói Demokratikus Köztársaság és a Közép-afrikai Köztársaság között. A folyó a Mbomou és az Uele összefolyásával keletkezik, és teljes hossza eléri a 2270 kilométert. Stratégiai fontosságú közlekedési útvonal, amely lehetővé teszi a hajózást egészen Bangui városáig, ami kulcsfontosságú a régió kereskedelme számára. A folyó vízszintje jelentősen ingadozik az évszakok függvényében, ami meghatározza a helyi mezőgazdaság és halászat lehetőségeit. Történelmileg az Ubangi a gyarmati terjeszkedés és a nyersanyagszállítás egyik fő útvonala volt a 19. század végén. Napjainkban a folyó egy nagyszabású terv középpontjában áll, amely vizet szállítana a Csád-tóba annak megmentése érdekében. A part menti trópusi esőerdők gazdag élővilága veszélyben van az erdőirtás és az illegális bányászat miatt. Az Ubangi továbbra is alapvető erőforrás több millió ember számára, akik a folyótól függenek mindennapi megélhetésükben.",
       ro: "Râul Ubangi este cel mai mare afluent de dreapta al fluviului Congo în Africa Centrală, formând granița naturală între Republica Democrată Congo și Republica Centrafricană. Se formează prin confluența râurilor Mbomou și Uele și are o lungime totală de aproximativ 2270 de kilometri. Fluviul servește drept arteră vitală de transport, fiind navigabil până în capitala Bangui, ceea ce facilitează comerțul regional intens. Ciclurile hidrologice ale Ubangi influențează direct agricultura și pescuitul pentru populațiile locale care depind de resursele sale. În perioada colonială, a fost o rută principală pentru expedițiile europene și transportul de resurse naturale precum cauciucul și fildeșul. În prezent, râul este subiectul unui proiect ambițios de transfer de apă către Lacul Ciad pentru a preveni dispariția acestuia din urmă. Ecosistemele forestiere de-a lungul malurilor sale adăpostesc o biodiversitate remarcabilă, dar sunt amenințate de defrișări. Ubangi rămâne un element central al infrastructurii naturale din centrul continentului african.",
       en: "The Ubangi River is the largest right-bank tributary of the Congo River in Central Africa, forming a significant portion of the border between the DRC and the Central African Republic. It is formed by the confluence of the Mbomou and Uele rivers and stretches for a total length of approximately 2,270 kilometers. The river serves as a vital transportation artery, remaining navigable as far as the capital city of Bangui, which is crucial for regional commerce. Its hydrological cycles dictate the rhythm of agriculture and fishing for millions of people inhabiting its vast basin. Historically, the Ubangi was a primary corridor for European colonial expansion and the transport of raw materials like rubber and ivory in the late 19th century. Today, the river is at the heart of a major proposal to transfer water to Lake Chad to prevent its total desiccation. The dense rainforests lining its banks host a rich variety of flora and fauna, though they face threats from deforestation and illegal mining. The Ubangi remains an indispensable economic lifeline for the Central African region.",
+      es: "El Ubangui es el afluente derecho más importante del Congo en África Central y forma, en gran parte de su recorrido, la frontera entre la República Democrática del Congo y la República Centroafricana. Nace de la confluencia de los ríos Mbomou y Uele y se extiende por una longitud total de unos 2.270 kilómetros. Como arteria de transporte vital, permite la navegación hasta la capital, Bangui, lo cual es crucial para el comercio interior de la región. Los ciclos hidrológicos del río determinan el ritmo de la agricultura y la pesca para millones de personas en su cuenca. En la época colonial, el Ubangui sirvió como un importante corredor para las expediciones europeas y el transporte de materias primas como el caucho y el marfil. Hoy en día, el río es el centro de grandes proyectos de infraestructura, como el planeado trasvase de agua al lago Chad para contrarrestar su desecación. Las densas selvas tropicales a lo largo de sus orillas albergan una rica flora y fauna, aunque están amenazadas por la deforestación y la minería ilegal. A pesar de las fluctuaciones estacionales del nivel del agua, el Ubangui sigue siendo un factor económico indispensable para África Central.",
+      pt: "O Ubangui é o afluente direito mais importante do Congo na África Central e forma, em grande parte do seu percurso, a fronteira entre a República Democrática do Congo e a República Centro-Africana. Nasce da confluência dos rios Mbomou e Uele e estende-se por um comprimento total de cerca de 2.270 quilómetros. Como artéria de transporte vital, permite a navegação até à capital, Bangui, o que é crucial para o comércio interno da região. Os ciclos hidrológicos do rio determinam o ritmo da agricultura e da pesca para milhões de pessoas na sua bacia hidrográfica. Na época colonial, o Ubangui serviu como um importante corredor para as expedições europeias e o transporte de matérias-primas como a borracha e o marfim. Hoje, o rio está no centro de grandes projetos de infraestrutura, como a planeada transferência de água para o Lago Chade para contrariar a sua dessecação. As densas florestas tropicais ao longo das suas margens abrigam uma rica flora e fauna, mas estão ameaçadas pela desflorestação e pela mineração ilegal. Apesar das flutuações sazonais do nível da água, o Ubangui continua a ser um fator económico indispensável para a África Central.",
+      fr: "L'Oubangui est le plus important affluent de la rive droite du Congo en Afrique centrale et forme, sur de longues distances, la frontière entre la République démocratique du Congo et la République centrafricaine. Il naît de la confluence des rivières Mbomou et Ouélé et s'étend sur une longueur totale d'environ 2 270 kilomètres. En tant que voie de transport vitale, il permet la navigation jusqu'à la capitale Bangui, ce qui est crucial pour le commerce intérieur de la région. Les cycles hydrologiques de la rivière déterminent le rythme de l'agriculture et de la pêche pour des millions de personnes dans son bassin versant. À l'époque coloniale, l'Oubangui a servi de corridor important pour les expéditions européennes et le transport de matières premières telles que le caoutchouc et l'ivoire. Aujourd'hui, la rivière est au cœur de grands projets d'infrastructure, comme le transfert d'eau prévu vers le lac Tchad pour contrer son assèchement. Les forêts tropicales denses le long de ses rives abritent une flore et une faune riches, mais sont menacées par la déforestation et l'exploitation minière illégale. Malgré les fluctuations saisonnières du niveau d'eau, l'Oubangui reste un facteur économique indispensable pour l'Afrique centrale.",
     },
     factsAdvanced: {
       de: ["Gesamtlänge von etwa 2270 Kilometern", "Gebildet durch den Zusammenfluss von Mbomou und Uele", "Wichtigster rechter Nebenfluss des Kongo-Flusses", "Navigierbar für große Schiffe bis nach Bangui", "Bildet die Grenze zwischen der DR Kongo und der ZAR", "Zentrum des geplanten Transaqua-Wassertransferprojekts"],
       hu: ["Teljes hossza körülbelül 2270 kilométer", "A Mbomou és az Uele folyók összefolyásából ered", "A Kongó-folyó legjelentősebb jobb oldali mellékfolyója", "Bangui városáig hajózható útvonalat biztosít", "Határfolyó a Kongói DK és a Közép-afrikai Köztársaság között", "A Csád-tó feltöltését célzó vízügyi terv része"],
       ro: ["Lungime totală de aproximativ 2270 de kilometri", "Format prin confluența râurilor Mbomou și Uele", "Cel mai mare afluent de dreapta al fluviului Congo", "Navigabil pentru nave mari până la orașul Bangui", "Constituie granița dintre RD Congo și Republica Centrafricană", "Piesă centrală în proiectul de salvare a Lacului Ciad"],
       en: ["Total length of approximately 2,270 kilometers", "Formed by the confluence of the Mbomou and Uele rivers", "Largest right-bank tributary of the Congo River", "Navigable for large vessels up to the city of Bangui", "Forms the border between the DRC and the CAR", "Key component of the proposed Lake Chad water transfer"],
+      es: ["Longitud total de unos 2.270 kilómetros", "Formado por la confluencia de Mbomou y Uele", "Principal afluente derecho del río Congo", "Navegable para grandes barcos hasta Bangui", "Forma la frontera entre la RD del Congo y la RCA", "Centro del planeado proyecto de trasvase Transaqua"],
+      pt: ["Comprimento total de cerca de 2.270 quilómetros", "Formado pela confluência de Mbomou e Uele", "Principal afluente direito do rio Congo", "Navegável para grandes navios até Bangui", "Forma a fronteira entre a RD do Congo e a RCA", "Centro do planeado projeto de transferência de água Transaqua"],
+      fr: ["Longueur totale d'environ 2 270 kilomètres", "Formé par la confluence du Mbomou et de l'Ouélé", "Principal affluent de la rive droite du fleuve Congo", "Navigable pour les grands navires jusqu'à Bangui", "Forme la frontière entre la RD Congo et la RCA", "Centre du projet de transfert d'eau Transaqua prévu"],
     },
     
     description: {
       de: "Der größte rechte Nebenfluss des Kongo-Flusses bildet eine wichtige Lebensader und Grenzregion für das Land.",
       hu: "A Kongó folyó legnagyobb jobb oldali mellékága, az ország fontos élettere és határvidéke.",
       ro: "Cel mai mare afluent de dreapta al fluviului Congo formează o arteră vitală și o regiune de frontieră pentru țară.",
-      en: "The largest right-bank tributary of the Congo River forms a major lifeline and border region for the country."
+      en: "The largest right-bank tributary of the Congo River forms a major lifeline and border region for the country.",
+      es: "El mayor afluente derecho del río Congo constituye una arteria vital y una región fronteriza para el país.",
+      pt: "O maior afluente direito do rio Congo constitui uma artéria vital e uma região de fronteira para o país.",
+      fr: "Le plus grand affluent de la rive droite du fleuve Congo constitue une artère vitale et une région frontalière pour le pays.",
     },
     facts: {
       de: ["Entsteht durch den Zusammenfluss von Mbomou und Uelle.", "Wichtiger Transportweg für den Handel."],
       hu: ["Az Mbomou és az Uelle folyók találkozásából ered.", "Fontos szállítási útvonal a kereskedelem számára."],
       ro: ["Format prin confluența râurilor Mbomou și Uelle.", "Rută importantă de transport pentru comerț."],
-      en: ["Formed by the confluence of the Mbomou and Uele rivers.", "Crucial transportation route for trade."]
+      en: ["Formed by the confluence of the Mbomou and Uele rivers.", "Crucial transportation route for trade."],
+      es: ["Se forma por la confluencia de los ríos Mbomou y Uele.", "Importante ruta de transporte para el comercio."],
+      pt: ["Formado pela confluência dos rios Mbomou e Uele.", "Importante rota de transporte para o comércio."],
+      fr: ["Naît de la confluence du Mbomou et de l'Ouélé.", "Voie de transport importante pour le commerce."],
     }, image: "/poi-images/ubangi-river-nature-v2.webp"},
   {
     id: "sangha-river-nature-v2",
@@ -54,25 +66,37 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: "A Sangha-folyó a Kongó egyik jelentős jobb oldali mellékfolyója, amely Közép-afrikai Köztársaság, Kamerun és a Kongói Köztársaság területén halad keresztül. Körülbelül 790 kilométeres hosszával kulcsfontosságú vízi utat biztosít a faanyag és egyéb áruk szállításához ebben az elszigetelt régióban. A folyó a Mambéré és a Kadéï folyók egyesüléséből születik Berbérati városának közelében. Különleges jelentőségét a Sangha Trinational természetvédelmi terület adja, amely 2012 óta az UNESCO Világörökség része, és három nemzeti parkot foglal magában. Vízgyűjtő területét sűrű trópusi esőerdő borítja, amely rendkívüli biológiai sokféleségnek ad otthont, többek között erdei elefántoknak és síkvidéki gorilláknak. A gyarmati időkben a folyó fontos útvonala volt a gumi-kereskedelemnek és Afrika belső területei feltárásának. Napjainkban a Sangha központi szerepet játszik a regionális ökoszisztémában, és alapvető fontosságú a partjai mentén élő számos őslakos közösség számára.",
       ro: "Râul Sangha este un afluent major de dreapta al fluviului Congo, traversând Republica Centrafricană, Camerun și Republica Congo. Cu o lungime totală de aproximativ 790 de kilometri, acesta reprezintă o cale navigabilă vitală pentru transportul lemnului și al altor mărfuri în această regiune izolată. Din punct de vedere geografic, Sangha se formează prin confluența râurilor Mambéré și Kadéï lângă orașul Berbérati. O importanță deosebită o are situl transfrontalier Sangha Trinational, inclus în patrimoniul mondial UNESCO din 2012, care cuprinde trei parcuri naționale protejate. Bazinul său este caracterizat de o pădure tropicală densă, adăpostind o biodiversitate excepțională, inclusiv elefanți de pădure și gorile de câmpie. În perioada colonială, râul a servit drept rută principală pentru comerțul cu cauciuc și explorarea interiorului Africii. Astăzi, Sangha joacă un rol central în ecosistemul regional și este esențial pentru subzistența numeroaselor comunități indigene care trăiesc de-a lungul malurilor sale.",
       en: "The Sangha River is a major right-bank tributary of the Congo River, flowing through the Central African Republic, Cameroon, and the Republic of the Congo. Spanning approximately 790 kilometers, it serves as a vital waterway for transporting timber and other resources in this remote region. Geographically, the Sangha is formed by the confluence of the Mambéré and Kadéï rivers near the town of Berbérati. Its significance is highlighted by the Sangha Trinational protected area, a UNESCO World Heritage site since 2012 that connects three national parks. The river basin is dominated by dense tropical rainforest, hosting extraordinary biodiversity, including forest elephants and lowland gorillas. During the colonial era, the river was an essential route for the rubber trade and the exploration of the African interior. Today, the Sangha remains central to the regional ecosystem and is fundamental to the livelihoods of numerous indigenous communities residing along its banks.",
+      es: "El río Sangha es un importante afluente derecho del Congo y fluye a través de la República Centroafricana, Camerún y la República del Congo. Con una longitud total de unos 790 kilómetros, constituye una vía fluvial vital para el transporte de madera y otras mercancías en esta región remota. Geográficamente, el Sangha se forma por la confluencia de los ríos Mambéré y Kadéï cerca de la ciudad de Berbérati. Destaca especialmente el área protegida transfronteriza de Sangha Trinational, que forma parte del Patrimonio Mundial de la UNESCO desde 2012 e incluye tres parques nacionales. La cuenca se caracteriza por una densa selva tropical que alberga una biodiversidad excepcional, incluyendo elefantes de bosque y gorilas de llanura. En la época colonial, el río servía como ruta importante para el comercio del caucho y la exploración del África interior. Hoy en día, el Sangha desempeña un papel central en el ecosistema regional y es crucial para la supervivencia de numerosas comunidades indígenas a lo largo de sus orillas.",
+      pt: "O rio Sangha é um importante afluente direito do Congo e corre através da República Centro-Africana, dos Camarões e da República do Congo. Com um comprimento total de cerca de 790 quilómetros, constitui uma via navegável vital para o transporte de madeira e outras mercadorias nesta região remota. Geograficamente, o Sangha é formado pela confluência dos rios Mambéré e Kadéï perto da cidade de Berbérati. Destaca-se especialmente a área protegida transfronteiriça de Sangha Trinational, que faz parte do Património Mundial da UNESCO desde 2012 e inclui três parques nacionais. A bacia hidrográfica é caracterizada por uma densa floresta tropical que abriga uma biodiversidade excecional, incluindo elefantes da floresta e gorilas das planícies. Na época colonial, o rio servia como uma rota importante para o comércio da borracha e para a exploração do interior de África. Hoje, o Sangha desempenha um papel central no ecossistema regional e é crucial para a sobrevivência de numerosas comunidades indígenas ao longo das suas margens.",
+      fr: "La rivière Sangha est un affluent majeur de la rive droite du Congo et traverse la République centrafricaine, le Cameroun et la République du Congo. Avec une longueur totale d'environ 790 kilomètres, elle constitue une voie navigable vitale pour le transport du bois et d'autres marchandises dans cette région isolée. Géographiquement, la Sangha naît de la confluence des rivières Mambéré et Kadéï près de la ville de Berbérati. La zone protégée transfrontalière du Trinational de la Sangha, inscrite au patrimoine mondial de l'UNESCO depuis 2012 et comprenant trois parcs nationaux, est particulièrement remarquable. Le bassin versant est caractérisé par une forêt tropicale dense qui abrite une biodiversité exceptionnelle, notamment des éléphants de forêt et des gorilles de plaine. À l'époque coloniale, la rivière servait de route importante pour le commerce du caoutchouc et l'exploration de l'intérieur de l'Afrique. Aujourd'hui, la Sangha joue un rôle central dans l'écosystème régional et est cruciale pour la survie de nombreuses communautés autochtones le long de ses rives.",
     },
     factsAdvanced: {
       de: ["Die Gesamtlänge des Sangha-Flusses beträgt etwa 790 Kilometer.", "Der Fluss bildet die natürliche Grenze zwischen Kamerun und der Republik Kongo.", "Das Sangha Trinational-Schutzgebiet umfasst eine Fläche von über 750.000 Hektar.", "Er mündet südlich von Mossaka in den mächtigen Kongo-Strom.", "Der Fluss ist fast auf seiner gesamten Länge für Boote mit geringem Tiefgang schiffbar.", "Die jährliche Abflussmenge an der Mündung beträgt im Durchschnitt 2.471 m³/s."],
       hu: ["A Sangha-folyó teljes hossza megközelítőleg 790 kilométer.", "A folyó természetes határt képez Kamerun és a Kongói Köztársaság között.", "A Sangha Trinational védett terület több mint 750 000 hektáron terül el.", "A folyó Mossaka városától délre torkollik a hatalmas Kongóba.", "A folyó szinte teljes hosszában hajózható sekély merülésű vízi járművekkel.", "Az éves átlagos vízhozama a torkolatnál 2471 m³/s körül mozog."],
       ro: ["Lungimea totală a râului Sangha este de aproximativ 790 de kilometri.", "Râul formează frontiera naturală între Camerun și Republica Congo.", "Aria protejată Sangha Trinational acoperă o suprafață de peste 750.000 de hectare.", "Se varsă în fluviul Congo la sud de localitatea Mossaka.", "Râul este navigabil pentru ambarcațiuni cu pescaj mic pe aproape întreaga sa lungime.", "Debitul mediu anual la gura de vărsare este de circa 2.471 m³/s."],
       en: ["The total length of the Sangha River is approximately 790 kilometers.", "The river forms a natural border between Cameroon and the Republic of the Congo.", "The Sangha Trinational protected area covers over 750,000 hectares of land.", "It empties into the Congo River south of the town of Mossaka.", "The river is navigable for shallow-draft vessels throughout most of its course.", "The average annual discharge at its mouth is approximately 2,471 m³/s."],
+      es: ["La longitud total del río Sangha es de unos 790 kilómetros.", "El río forma la frontera natural entre Camerún y la República del Congo.", "El área protegida Sangha Trinational abarca una superficie de más de 750.000 hectáreas.", "Desemboca en el caudaloso río Congo al sur de Mossaka.", "El río es navegable en casi toda su longitud para embarcaciones de poco calado.", "El caudal anual medio en la desembocadura es de 2.471 m³/s."],
+      pt: ["O comprimento total do rio Sangha é de cerca de 790 quilómetros.", "O rio forma a fronteira natural entre os Camarões e a República do Congo.", "A área protegida Sangha Trinational abrange uma superfície de mais de 750.000 hectares.", "Desagua no caudaloso rio Congo a sul de Mossaka.", "O rio é navegável em quase todo o seu comprimento para embarcações de calado reduzido.", "O caudal anual médio na foz é de 2.471 m³/s."],
+      fr: ["La longueur totale de la rivière Sangha est d'environ 790 kilomètres.", "La rivière forme la frontière naturelle entre le Cameroun et la République du Congo.", "La zone protégée du Trinational de la Sangha couvre une superficie de plus de 750 000 hectares.", "Elle se jette dans le puissant fleuve Congo au sud de Mossaka.", "La rivière est navigable sur presque toute sa longueur pour les bateaux à faible tirant d'eau.", "Le débit annuel moyen à l'embouchure est de 2 471 m³/s."],
     },
     
     description: {
       de: "Ein bedeutender Fluss im Südwesten, der durch dichte Regenwälder fließt und Teil eines UNESCO-Welterbes ist.",
       hu: "Jelentős folyó délnyugaton, amely sűrű esőerdőkön folyik keresztül, és az UNESCO Világörökség része.",
       ro: "Un râu important din sud-vest care curge prin păduri tropicale dense și face parte din Patrimoniul Mondial UNESCO.",
-      en: "A significant river in the southwest that flows through dense rainforests and is part of a UNESCO World Heritage site."
+      en: "A significant river in the southwest that flows through dense rainforests and is part of a UNESCO World Heritage site.",
+      es: "Un río importante en el suroeste que fluye a través de densas selvas tropicales y forma parte de un sitio del Patrimonio Mundial de la UNESCO.",
+      pt: "Um rio importante no sudoeste que corre através de densas florestas tropicais e faz parte de um sítio do Património Mundial da UNESCO.",
+      fr: "Une rivière importante dans le sud-ouest qui traverse des forêts tropicales denses et fait partie d'un site du patrimoine mondial de l'UNESCO.",
     },
     facts: {
       de: ["Fließt durch das Dzanga-Sangha-Schutzgebiet.", "Wichtiger Lebensraum für Waldelefanten."],
       hu: ["A Dzanga-Sangha természetvédelmi területen folyik keresztül.", "Az erdei elefántok fontos élőhelye."],
       ro: ["Curge prin Rezervația Dzanga-Sangha.", "Habitat important pentru elefanții de pădure."],
-      en: ["Flows through the Dzanga-Sangha Reserve.", "Key habitat for forest elephants."]
+      en: ["Flows through the Dzanga-Sangha Reserve.", "Key habitat for forest elephants."],
+      es: ["Fluye a través del área protegida de Dzanga-Sangha.", "Hábitat importante para los elefantes de bosque."],
+      pt: ["Corre através da área protegida de Dzanga-Sangha.", "Habitat importante para os elefantes da floresta."],
+      fr: ["Traverse la zone protégée de Dzanga-Sangha.", "Habitat important pour les éléphants de forêt."],
     }, image: "/poi-images/sangha-river-nature-v2.webp"},
   {
     id: "chari-river-nature-v2",
@@ -96,19 +120,28 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: ["A Chari biztosítja a Csád-tó teljes vízutánpótlásának körülbelül 90%-át.", "N'Djamenánál a Chari egyesül a Logone-folyóval.", "A folyó otthont ad az értékes nílusi sügérnek (Capitaine), amely fontos étkezési hal.", "Az esős évszakban a folyó vízszintje akár 6 métert is emelkedhet.", "A Chari-medence területe körülbelül 600 000 négyzetkilométer.", "A folyó természetes határként szolgál Csád és Kamerun között."],
       ro: ["Râul Chari furnizează aproximativ 90% din întregul aport de apă în lacul Ciad.", "La confluența din N'Djamena, Chari se unește cu râul Logone.", "Râul găzduiește valorosul biban de Nil (Capitaine), un pește comestibil important.", "În sezonul ploios, nivelul apei râului crește cu până la 6 metri.", "Bazinul Chari cuprinde o suprafață de aproximativ 600.000 de kilometri pătrați.", "Râul servește drept graniță naturală între Ciad și Camerun."],
       en: ["The Chari provides about 90% of the total water inflow into Lake Chad.", "At the confluence in N'Djamena, the Chari joins with the Logone.", "The river is home to the valuable Nile perch (Capitaine), an important food fish.", "During the rainy season, the river's water level rises by up to 6 meters.", "The Chari basin covers an area of around 600,000 square kilometers.", "The river serves as a natural border between Chad and Cameroon."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Dieser Fluss im Norden des Landes fließt in Richtung Tschadsee und speist das dortige Ökosystem.",
       hu: "Az ország északi részén található folyó a Csád-tó irányába folyik, és táplálja az ottani ökoszisztémát.",
       ro: "Acest râu din nordul țării curge spre Lacul Ciad și hrănește ecosistemul de acolo.",
-      en: "This river in the north of the country flows toward Lake Chad and feeds the local ecosystem."
+      en: "This river in the north of the country flows toward Lake Chad and feeds the local ecosystem.",
+      es: "Este río en el norte del país fluye hacia el lago Chad y alimenta el ecosistema local.",
+      pt: "Este rio no norte do país corre em direção ao lago Chade e alimenta o ecossistema local.",
+      fr: "Ce fleuve du nord du pays coule vers le lac Tchad et alimente l'écosystème local.",
     },
     facts: {
       de: ["Hauptzufluss des Tschadsees.", "Wichtig für die Fischerei in der nördlichen Region."],
       hu: ["A Csád-tó fő vízforrása.", "Fontos a halászat számára az északi régióban."],
       ro: ["Sursă principală de alimentare a Lacului Ciad.", "Important pentru pescuit în regiunea de nord."],
-      en: ["Main source of water for Lake Chad.", "Vital for fishing in the northern region."]
+      en: ["Main source of water for Lake Chad.", "Vital for fishing in the northern region."],
+      es: ["Principal afluente del lago Chad.", "Importante para la pesca en la región norte."],
+      pt: ["Principal afluente do lago Chade.", "Importante para a pesca na região norte."],
+      fr: ["Principal affluent du lac Tchad.", "Important pour la pêche dans la région nord."],
     }, image: "/poi-images/chari-river-nature-v2.webp"},
   {
     id: "mbomou-river-nature-v2",
@@ -126,25 +159,37 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: "A Mbomou-folyó jelentős szakaszán természetes határt alkot a Kongói Demokratikus Köztársaság és a Közép-afrikai Köztársaság között. A körülbelül 800 kilométer hosszú folyó a Kongó és a Nílus vízválasztójának közelében ered, majd nyugat felé tartva az Uele-folyóval egyesülve hozza létre az Ubangi-folyót. Földrajzilag a folyómedret számos zúgó és kisebb sziget tarkítja, ami megnehezíti a folyamatos hajózást, ugyanakkor megőrizte a táj érintetlen vadságát. Történelmileg a Mbomou fontos útvonal volt a régió népei közötti kulturális cseréhez, de a gyarmati határkijelölések egyik fő viszonyítási pontjaként is szolgált. Partjait sűrű esőerdők és szavannák borítják, amelyek fontos vonulási folyosót biztosítanak az elefántok és vízilovak számára. A folyó központi szerepet játszik a helyi közösségek életében, akik halászatból és a víz közvetlen felhasználásából élnek. Napjainkban a terület elszigeteltsége miatt ökológiai szempontból igen értékes, bár a határokon átnyúló konfliktusok és az illegális erőforrás-kiaknázás veszélyeztetik a környezet épségét.",
       ro: "Râul Mbomou formează o frontieră naturală extinsă între Republica Democrată Congo și Republica Centrafricană pe o mare parte a cursului său. Cu o lungime de aproximativ 800 de kilometri, acesta izvorăște în zonele înalte de lângă cumpăna apelor dintre bazinele Congo și Nil, curgând spre vest pentru a se uni cu râul Uele și a forma fluviul Ubangi. Din punct de vedere geografic, cursul râului este marcat de numeroase praguri și insule mici, elemente care limitează navigația la scară largă, dar păstrează un peisaj fluvial sălbatic și nealterat. Istoric, Mbomou a fost o rută esențială pentru schimburile culturale între populațiile locale, devenind ulterior o referință majoră în trasarea frontierelor coloniale. Zonele riverane sunt acoperite de păduri tropicale dense și savane, constituind coridoare ecologice importante pentru fauna sălbatică, inclusiv elefanți și hipopotami. Râul este vital pentru comunitățile locale, fiind principala sursă de hrană prin pescuit și singura sursă sigură de apă dulce. În prezent, izolarea regiunii îi conferă o valoare ecologică ridicată, deși rămâne vulnerabilă în fața conflictelor transfrontaliere.",
       en: "The Mbomou River serves as a long natural border between the Democratic Republic of the Congo and the Central African Republic. Stretching approximately 800 kilometers, it originates in the highlands near the Congo-Nile watershed and flows westward until it converges with the Uele River to form the Ubangi River. Geographically, the river's course is punctuated by numerous rapids and small islands, which restrict continuous navigation but have preserved a wild and pristine riverine landscape. Historically, the Mbomou was a significant corridor for cultural exchange among regional tribes and later became a focal point for colonial border demarcations. The riverbanks are clothed in a mix of dense rainforests and savannas, providing essential corridors for wildlife such as elephants and hippos. The river remains central to the lives of local populations, who depend on it for fishing and as their primary reliable source of water. In modern times, the region's remoteness has granted it high ecological value, though it faces ongoing challenges from cross-border conflicts and the illegal exploitation of natural resources.",
+      es: "El río Mbomou constituye durante un largo tramo la frontera natural entre la República Democrática del Congo y la República Centroafricana. Con una longitud de unos 800 kilómetros, nace en las tierras altas cerca de la divisoria de aguas entre el Congo y el Nilo y fluye hacia el oeste, donde se une con el Uele para formar el Ubangui. Geográficamente, el curso del río está marcado por numerosos rápidos y pequeñas islas, lo que dificulta la navegación continua, pero ha preservado un paisaje fluvial salvaje y virgen. Históricamente, el Mbomou fue una ruta importante para el intercambio cultural entre los pueblos de la región, pero también escenario de delimitaciones coloniales. Las regiones ribereñas están cubiertas por densas selvas y sabanas, que representan corredores vitales para animales salvajes como elefantes e hipopótamos. El río desempeña un papel central para la población local, que lo utiliza para la pesca y como única fuente fiable de agua. En la era moderna, la región es ecológicamente valiosa debido a su aislamiento, aunque enfrenta desafíos por conflictos transfronterizos y explotación ilegal de recursos.",
+      pt: "O rio Mbomou constitui, ao longo de um extenso percurso, a fronteira natural entre a República Democrática do Congo e a República Centro-Africana. Com um comprimento de cerca de 800 quilómetros, nasce nas terras altas perto da divisória de águas entre o Congo e o Nilo e flui para oeste, onde se junta ao Uele para formar o Ubangui. Geograficamente, o curso do rio é marcado por numerosos rápidos e pequenas ilhas, o que dificulta a navegação contínua, mas preservou uma paisagem fluvial selvagem e intocada. Historicamente, o Mbomou foi uma rota importante para o intercâmbio cultural entre os povos da região, mas também um palco de delimitações coloniais. As regiões ribeirinhas são cobertas por densas florestas tropicais e savanas, que representam corredores importantes para animais selvagens como elefantes e hipopótamos. O rio desempenha um papel central para a população local, que o utiliza para a pesca e como única fonte fiável de água. Na era moderna, a região é ecologicamente valiosa devido ao seu isolamento, mas enfrenta desafios decorrentes de conflitos transfronteiriços e da exploração ilegal de recursos.",
+      fr: "La rivière Mbomou constitue sur une longue distance la frontière naturelle entre la République démocratique du Congo et la République centrafricaine. D'une longueur d'environ 800 kilomètres, elle prend sa source dans les hauts plateaux près de la ligne de partage des eaux entre le Congo et le Nil et coule vers l'ouest, où elle s'unit à l'Uele pour former l'Oubangui. Géographiquement, le cours de la rivière est marqué par de nombreux rapides et de petites îles, ce qui rend la navigation continue difficile mais a préservé un paysage fluvial sauvage et intact. Historiquement, le Mbomou était une route importante pour les échanges culturels entre les peuples de la région, mais aussi le théâtre de délimitations coloniales. Les régions riveraines sont couvertes de forêts tropicales denses et de savanes, qui constituent des corridors importants pour la faune sauvage telle que les éléphants et les hippopotames. La rivière joue un rôle central pour la population locale, qui l'utilise pour la pêche et comme seule source d'eau fiable. À l'époque moderne, la région est écologiquement précieuse en raison de son isolement, mais elle est confrontée à des défis liés aux conflits transfrontaliers et à l'exploitation illégale des ressources.",
     },
     factsAdvanced: {
       de: ["Der Mbomou hat eine Gesamtlänge von zirka 800 Kilometern.", "Er vereinigt sich bei Yakoma mit dem Uele zum Ubangi.", "Der Fluss bildet die Nordgrenze der kongolesischen Provinz Bas-Uele.", "Zahlreiche Wasserfälle verhindern die Schifffahrt auf weiten Teilen.", "Das Mbomou-Bassin ist ein wichtiges Siedlungsgebiet des Zande-Volkes.", "Die Region gehört zum Ubangi-Shari-Ökosystem."],
       hu: ["A Mbomou hossza körülbelül 800 kilométer.", "Yakoma városánál egyesül az Uele-folyóval, így jön létre az Ubangi.", "Vízgyűjtő területe mintegy 157 000 négyzetkilométer.", "A folyó mentén található az egyik legnagyobb érintetlen csimpánzpopuláció.", "A Zande nép történelmi szálláshelye a folyó két partján fekszik.", "A folyó vízhozama jelentősen ingadozik a trópusi esők függvényében."],
       ro: ["Lungimea totală a râului Mbomou este de aproximativ 800 km.", "Se unește cu râul Uele la Yakoma pentru a forma Ubangi.", "Bazinul său hidrografic acoperă circa 157.000 km².", "Formează granița de nord a provinciei congoleze Bas-Uele.", "Este o barieră naturală pentru migrația anumitor specii terestre.", "Debitul mediu este influențat drastic de regimul precipitațiilor tropicale."],
       en: ["The Mbomou River is approximately 800 kilometers long.", "It joins the Uele River at Yakoma to create the Ubangi River.", "The river's drainage basin spans about 157,000 square kilometers.", "It marks the northern boundary of the DRC's Bas-Uele province.", "The Zande people are the primary ethnic group in the river basin.", "The river is inaccessible to large vessels due to frequent rapids."],
+      es: ["El Mbomou tiene una longitud total de aproximadamente 800 kilómetros.", "Se une al Uele cerca de Yakoma para formar el Ubangui.", "El río constituye la frontera norte de la provincia congoleña de Bas-Uele.", "Numerosas cascadas impiden la navegación en grandes tramos.", "La cuenca del Mbomou es una zona de asentamiento importante del pueblo Zande.", "La región forma parte del ecosistema Ubangui-Chari."],
+      pt: ["O Mbomou tem um comprimento total de aproximadamente 800 quilómetros.", "Junta-se ao Uele perto de Yakoma para formar o Ubangui.", "O rio constitui a fronteira norte da província congolesa de Bas-Uele.", "Numerosas cascatas impedem a navegação em grandes extensões.", "A bacia do Mbomou é uma importante área de fixação do povo Zande.", "A região pertence ao ecossistema Ubangui-Chari."],
+      fr: ["Le Mbomou a une longueur totale d'environ 800 kilomètres.", "Il s'unit à l'Uele près de Yakoma pour former l'Oubangui.", "La rivière constitue la frontière nord de la province congolaise du Bas-Uele.", "De nombreuses chutes d'eau empêchent la navigation sur de grandes parties.", "Le bassin du Mbomou est une zone d'habitation importante du peuple Zande.", "La région appartient à l'écosystème Oubangui-Chari."],
     },
     
     description: {
       de: "Der Fluss bildet einen großen Teil der südlichen Grenze zur Demokratischen Republik Kongo.",
       hu: "A folyó a Kongói Demokratikus Köztársasággal közös déli határ jelentős részét alkotja.",
       ro: "Râul formează o mare parte a graniței sudice cu Republica Democrată Congo.",
-      en: "The river forms a large part of the southern border with the Democratic Republic of the Congo."
+      en: "The river forms a large part of the southern border with the Democratic Republic of the Congo.",
+      es: "El río forma gran parte de la frontera sur con la República Democrática del Congo.",
+      pt: "O rio forma uma grande parte da fronteira sul com a República Democrática do Congo.",
+      fr: "La rivière forme une grande partie de la frontière sud avec la République démocratique du Congo.",
     },
     facts: {
       de: ["Zusammenfluss mit dem Uelle bildet den Ubangi.", "Fließt durch abgelegene Savannen und Wälder."],
       hu: ["Az Uelle folyóval való találkozása hozza létre az Ubangit.", "Távoli szavannákon és erdőkön folyik keresztül."],
       ro: ["Confluența cu Uelle formează Ubangi.", "Curge prin savane și păduri izolate."],
-      en: ["Confluence with the Uele forms the Ubangi.", "Flows through remote savannas and forests."]
+      en: ["Confluence with the Uele forms the Ubangi.", "Flows through remote savannas and forests."],
+      es: ["Su confluencia con el Uele forma el río Ubangui.", "Fluye a través de sabanas y bosques remotos."],
+      pt: ["A sua confluência com o Uele forma o rio Ubangui.", "Flui através de savanas e florestas remotas."],
+      fr: ["Son confluent avec l'Uele forme l'Oubangui.", "Coule à travers des savanes et des forêts isolées."],
     }, image: "/poi-images/mbomou-river-nature-v2.webp"},
   {
     id: "lobaye-river-nature-v2",
@@ -168,19 +213,28 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: ["A Lobaye az Ouaka-fennsíkon ered", "Banguitól délre torkollik az Ubangi folyóba", "A Lobaye régió az afrikai pigmeusok egyik központja", "A folyó alsó szakaszán gyakoriak a vízilovak", "A helyi faipar egyik legfontosabb szállítási útvonala", "A Lobaye hossza körülbelül 520 kilométer"],
       ro: ["Lobaye izvorăște în zona înaltă din Ouaka", "Se varsă în râul Ubangi la sud de orașul Bangui", "Regiunea Lobaye este un centru al pigmeilor africani", "Hipopotamii sunt frecvenți în cursul inferior al râului", "Este o rută principală de transport pentru industria lemnului", "Lungimea totală a râului Lobaye este de circa 520 km"],
       en: ["The Lobaye originates in the highlands of Ouaka", "It flows into the Ubangi River south of Bangui", "The Lobaye region is a cultural hub for African Pygmies", "Hippos are commonly found in the river's lower reaches", "It is a vital transport link for the local timber industry", "The Lobaye River has a length of approximately 520 km"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Ein wichtiger Nebenfluss des Ubangi, der durch die regenwaldreiche Region Lobaye fließt.",
       hu: "Az Ubangi fontos mellékfolyója, amely a gazdag esőerdőkkel borított Lobaye régión folyik keresztül.",
       ro: "Un afluent important al râului Ubangi, care curge prin regiunea bogată în păduri tropicale Lobaye.",
-      en: "An important tributary of the Ubangi, flowing through the rainforest-rich Lobaye region."
+      en: "An important tributary of the Ubangi, flowing through the rainforest-rich Lobaye region.",
+      es: "Un importante afluente del Ubangui que fluye a través de la región de Lobaye, rica en selva tropical.",
+      pt: "Um importante afluente do Ubangui que flui através da região de Lobaye, rica em floresta tropical.",
+      fr: "Un affluent important de l'Oubangui qui traverse la région de la Lobaye, riche en forêts tropicales.",
     },
     facts: {
       de: ["Zentrum für die traditionelle Flößerei.", "Heimat vieler Flusspferde."],
       hu: ["A hagyományos faúsztatás központja.", "Számos víziló otthona."],
       ro: ["Centru pentru transportul tradițional de bușteni.", "Adăpostește mulți hipopotami."],
-      en: ["Center for traditional timber rafting.", "Home to many hippopotamuses."]
+      en: ["Center for traditional timber rafting.", "Home to many hippopotamuses."],
+      es: ["Centro para el transporte tradicional de madera por flotación.", "Hogar de muchos hipopótamos."],
+      pt: ["Centro para o transporte tradicional de madeira por flutuação.", "Lar de muitos hipopótamos."],
+      fr: ["Centre pour le flottage traditionnel du bois.", "Abrite de nombreux hippopotames."],
     }, image: "/poi-images/lobaye-river-nature-v2.webp"},
   {
     id: "ouham-river-nature-v2",
@@ -204,19 +258,28 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: ["A folyó teljes hossza körülbelül 1050 kilométer.", "Áthalad Bozoum és Bossangoa városokon a Közép-afrikai Köztársaságban.", "Az Ouham a Csád-folyórendszer legnagyobb mellékfolyója.", "Vízgyűjtő területét több mint 70 000 négyzetkilométerre becsülik.", "Francia expedíciók már 1908-ban alaposan feltérképezték a medencét.", "A szezonális vízhozam csúcsa általában augusztus és október között van."],
       ro: ["Râul are o lungime totală de aproximativ 1.050 de kilometri.", "Acesta traversează orașele Bozoum și Bossangoa din Republica Centrafricană.", "Ouham este cel mai mare afluent al sistemului râului Chari.", "Bazinul său hidrografic este estimat la peste 70.000 de kilometri pătrați.", "Expedițiile coloniale franceze au explorat bazinul râului în anul 1908.", "Vârful de debit sezonier apare de obicei între lunile august și octombrie."],
       en: ["The river has a total length of approximately 1,050 kilometers.", "It flows through the cities of Bozoum and Bossangoa in the CAR.", "The Ouham River is the largest tributary of the Chari River system.", "The drainage basin area is estimated at over 70,000 square kilometers.", "In 1908, the river basin was explored extensively by French expeditions.", "The seasonal discharge peaks typically occur between August and October."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Ein bedeutender Fluss im Nordwesten, der eine wichtige Wasserquelle für die Landwirtschaft darstellt.",
       hu: "Jelentős folyó északnyugaton, amely a mezőgazdaság számára fontos vízforrást jelent.",
       ro: "Un râu important din nord-vest, care reprezintă o sursă de apă vitală pentru agricultură.",
-      en: "A significant river in the northwest that provides an important water source for agriculture."
+      en: "A significant river in the northwest that provides an important water source for agriculture.",
+      es: "Un río importante en el noroeste que representa una fuente de agua vital para la agricultura.",
+      pt: "Um rio importante no noroeste que representa uma fonte de água vital para a agricultura.",
+      fr: "Une rivière importante dans le nord-ouest qui constitue une source d'eau vitale pour l'agriculture.",
     },
     facts: {
       de: ["Mündet in den Chari-Fluss.", "Bekannt für seine saisonalen Überschwemmungen."],
       hu: ["A Chari folyóba torkollik.", "Szezonális áradásairól ismert."],
       ro: ["Se varsă în râul Chari.", "Cunoscut pentru inundațiile sale sezoniere."],
-      en: ["Flows into the Chari River.", "Known for its seasonal flooding."]
+      en: ["Flows into the Chari River.", "Known for its seasonal flooding."],
+      es: ["Desemboca en el río Chari.", "Conocido por sus inundaciones estacionales."],
+      pt: ["Desagua no rio Chari.", "Conhecido pelas suas cheias sazonais."],
+      fr: ["Se jette dans la rivière Chari.", "Connu pour ses crues saisonnières."],
     }, image: "/poi-images/ouham-river-nature-v2.webp"},
   {
     id: "kotto-river-nature-v2",
@@ -240,19 +303,28 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: ["A folyó teljes hossza körülbelül 660 kilométer.", "A híres Kembe-vízesés esési magassága körülbelül 25 méter.", "Mobaye-től délre torkollik a nagy Ubangi-folyóba.", "A Bongo-masszívum szolgál a folyó elsődleges forrásaként az északkeleti részen.", "Bria környékén 1947-ben kezdték meg a gyémántbányászatot a folyami hordalékból.", "Az átlagos évi vízhozam körülbelül 450 köbméter másodpercenként."],
       ro: ["Lungimea totală a râului este de aproximativ 660 de kilometri.", "Celebrele cascade Kembe au o înălțime de cădere de aproximativ 25 de metri.", "Se varsă în marele râu Ubangi, la sud de orașul Mobaye.", "Masivul Bongo servește ca sursă primară a râului în nord-est.", "Mineritul de diamante în sedimentele râului a început în regiunea Bria în 1947.", "Rata medie anuală de descărcare este de aproximativ 450 de metri cubi pe secundă."],
       en: ["The total length of the river is approximately 660 kilometers.", "The famous Kembe Falls have a drop height of about 25 meters.", "It empties into the great Ubangi River south of the city of Mobaye.", "The Bongo Massif serves as the river's primary source in the northeast.", "Diamond mining in the river sediment began in the Bria region in 1947.", "The average annual discharge rate is approximately 450 cubic meters per second."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Dieser Fluss fließt durch das Herz des Landes und ist bekannt für seine zahlreichen Wasserfälle.",
       hu: "Ez a folyó az ország szívén folyik keresztül, és számos vízeséséről ismert.",
       ro: "Acest râu curge prin inima țării și este cunoscut pentru numeroasele sale cascade.",
-      en: "This river flows through the heart of the country and is known for its numerous waterfalls."
+      en: "This river flows through the heart of the country and is known for its numerous waterfalls.",
+      es: "Este río fluye por el corazón del país y es conocido por sus numerosas cascadas.",
+      pt: "Este rio flui pelo coração do país e é conhecido pelas suas numerosas cascatas.",
+      fr: "Cette rivière coule au cœur du pays et est réputée pour ses nombreuses chutes d'eau.",
     },
     facts: {
       de: ["Die Kembé-Wasserfälle liegen an diesem Fluss.", "Wichtiger Transportweg in der Haute-Kotto Region."],
       hu: ["A Kembé-vízesések ezen a folyón találhatók.", "Fontos szállítási útvonal a Haute-Kotto régióban."],
       ro: ["Cascadele Kembé sunt situate pe acest râu.", "Rută importantă de transport în regiunea Haute-Kotto."],
-      en: ["The Kembé Falls are located on this river.", "Significant transport route in the Haute-Kotto region."]
+      en: ["The Kembé Falls are located on this river.", "Significant transport route in the Haute-Kotto region."],
+      es: ["Las cataratas de Kembé se encuentran en este río.", "Importante vía de transporte en la región de Haute-Kotto."],
+      pt: ["As cataratas de Kembé situam-se neste rio.", "Importante rota de transporte na região de Haute-Kotto."],
+      fr: ["Les chutes de Kembé sont situées sur cette rivière.", "Voie de transport importante dans la région de la Haute-Kotto."],
     }, image: "/poi-images/kotto-river-nature-v2.webp"},
   {
     id: "mambere-river-nature-v2",
@@ -276,19 +348,28 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: ["A Mambéré vízgyűjtő területe körülbelül 27 000 négyzetkilométer.", "A Kadéï-vel való összefolyás Nola városánál történik.", "Berbérati, az ország második legnagyobb városa, a folyó vízgyűjtő területén található.", "A folyó a nagyobb Sangha Tri-National védett terület része.", "Már a 19. század végén használták a folyót kaucsukszállításra.", "Az átlagos mélység 2 és 6 méter között változik az évszaktól függően."],
       ro: ["Bazinul hidrografic al Mambéré cuprinde aproximativ 27.000 de kilometri pătrați.", "Confluența cu Kadéï are loc în orașul Nola.", "Berbérati, al doilea oraș ca mărime din țară, se află în bazinul râului.", "Râul face parte din aria protejată mai mare Sangha Tri-National.", "Râul a fost folosit pentru transportul cauciucului încă de la sfârșitul secolului al XIX-lea.", "Adâncimea medie variază între 2 și 6 metri, în funcție de sezon."],
       en: ["The drainage basin of the Mambéré covers approximately 27,000 square kilometers.", "The confluence with the Kadéï occurs at the city of Nola.", "Berbérati, the country's second-largest city, is located within the river's basin.", "The river is part of the larger Sangha Tri-National protected area.", "As early as the late 19th century, the river was used for rubber transport.", "The average depth varies between 2 and 6 meters depending on the season."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Ein wichtiger Fluss im Westen, der zusammen mit dem Kadeï den Sangha bildet.",
       hu: "Fontos folyó nyugaton, amely a Kadeï folyóval együtt alkotja a Sangha folyót.",
       ro: "Un râu important din vest care, împreună cu râul Kadeï, formează râul Sangha.",
-      en: "An important river in the west that, together with the Kadeï, forms the Sangha River."
+      en: "An important river in the west that, together with the Kadeï, forms the Sangha River.",
+      es: "Un río clave en el oeste que, junto con el Kadeï, forma el río Sangha.",
+      pt: "Um rio fundamental no oeste que, juntamente com o Kadeï, forma o rio Sangha.",
+      fr: "Une rivière importante de l'ouest qui, avec la Kadeï, forme la Sangha.",
     },
     facts: {
       de: ["Bekannt für die Diamantenvorkommen in seinem Becken.", "Fließt durch fruchtbares Hügelland."],
       hu: ["A medencéjében található gyémántlelőhelyekről ismert.", "Termékeny dombvidéken folyik keresztül."],
       ro: ["Cunoscut pentru depozitele de diamante din bazinul său.", "Curge prin dealuri fertile."],
-      en: ["Known for diamond deposits in its basin.", "Flows through fertile hilly terrain."]
+      en: ["Known for diamond deposits in its basin.", "Flows through fertile hilly terrain."],
+      es: ["Conocido por los yacimientos de diamantes en su cuenca.", "Fluye a través de fértiles tierras de colinas."],
+      pt: ["Conhecido pelas jazidas de diamantes na sua bacia.", "Flui através de terras férteis de colinas."],
+      fr: ["Connu pour les gisements de diamants dans son bassin.", "Coule à travers des collines fertiles."],
     }, image: "/poi-images/mambere-river-nature-v2.webp"},
   {
     id: "kadei-river-nature-v2",
@@ -312,19 +393,28 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: ["A folyó teljes hossza körülbelül 510 kilométer.", "Egy szakaszon a Közép-afrikai Köztársaság és Kamerun közötti határt alkotja.", "Nola a legfontosabb kikötőváros a Sangha-folyó összefolyásánál.", "A folyó felső szakasza számos zúgójáról ismert.", "1924-ben a területet a fakereskedelem egyik fontos központjaként alapították meg.", "A folyó esése a fő szakaszon körülbelül 0,5 méter kilométerenként."],
       ro: ["Râul are o lungime totală de aproximativ 510 kilometri.", "Formează granița dintre Republica Centrafricană și Camerun pe o secțiune.", "Nola servește drept cel mai important port la confluența cu Sangha.", "Cursul râului este cunoscut pentru numeroasele sale praguri în cursul superior.", "În 1924, zona a fost stabilită ca un centru important pentru comerțul cu lemn.", "Panta râului pe traseul principal este de aproximativ 0,5 metri pe kilometru."],
       en: ["The river has a total length of approximately 510 kilometers.", "It forms the border between the CAR and Cameroon along part of its course.", "Nola serves as the most important port at the confluence with the Sangha.", "The river's course is known for its numerous rapids in the upper reaches.", "In 1924, the area was established as an important center for the timber trade.", "The gradient of the river along the main stretch is about 0.5 meters per kilometer."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Ein westlicher Fluss, der in Kamerun entspringt und in Nola mit dem Mambéré zusammenfließt.",
       hu: "Nyugati folyó, amely Kamerunban ered, és Nolánál egyesül a Mambéré folyóval.",
       ro: "Un râu vestic care izvorăște din Camerun și se unește cu Mambéré la Nola.",
-      en: "A western river originating in Cameroon and joining the Mambéré at Nola."
+      en: "A western river originating in Cameroon and joining the Mambéré at Nola.",
+      es: "Un río occidental que nace en Camerún y confluye con el Mambéré en Nola.",
+      pt: "Um rio ocidental que nasce nos Camarões e se funde com o Mambéré em Nola.",
+      fr: "Une rivière de l'ouest qui prend sa source au Cameroun et conflue avec la Mambéré à Nola.",
     },
     facts: {
       de: ["Bildet den Oberlauf des Sangha-Flusses.", "Wichtiger Handelsweg für Holz."],
       hu: ["A Sangha folyó felső szakaszát alkotja.", "Fontos kereskedelmi útvonal a fa számára."],
       ro: ["Formează cursul superior al râului Sangha.", "Rută comercială importantă pentru lemn."],
-      en: ["Forms the upper course of the Sangha River.", "Important trade route for timber."]
+      en: ["Forms the upper course of the Sangha River.", "Important trade route for timber."],
+      es: ["Forma el curso superior del río Sangha.", "Importante ruta comercial para la madera."],
+      pt: ["Forma o curso superior do rio Sangha.", "Rota comercial importante para a madeira."],
+      fr: ["Forme le cours supérieur de la rivière Sangha.", "Importante voie commerciale pour le bois."],
     }, image: "/poi-images/kadei-river-nature-v2.webp"},
   {
     id: "ouaka-river-nature-v2",
@@ -348,19 +438,28 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: ["Az Ouaka hossza körülbelül 550 kilométer.", "A folyó Banguitól körülbelül 100 kilométerre lefelé torkollik az Ubangi-ba.", "Bambari, Ouaka prefektúra székhelye, közvetlenül a partján fekszik.", "A stratégiai Ouaka-hidat eredeti formájában 1950-ben építették.", "A folyómedence termékeny hordalékos talajáról ismert.", "Az évi átlagos csapadékmennyiség a medencében 1400 mm."],
       ro: ["Lungimea râului Ouaka este de aproximativ 550 de kilometri.", "Râul se varsă în Ubangi la aproximativ 100 de kilometri în aval de Bangui.", "Bambari, capitala prefecturii Ouaka, este situat direct pe malurile sale.", "Podul strategic peste Ouaka a fost construit în forma sa originală în 1950.", "Bazinul râului este cunoscut pentru solurile sale aluviale fertile.", "Cantitatea anuală de precipitații în bazin este în medie de 1.400 mm."],
       en: ["The length of the Ouaka is approximately 550 kilometers.", "The river empties into the Ubangi about 100 kilometers downstream from Bangui.", "Bambari, the capital of the Ouaka prefecture, is located directly on its banks.", "The strategic Ouaka Bridge was built in its original form in 1950.", "The river basin is known for its fertile alluvial soils.", "The average annual rainfall in the basin is around 1,400 mm."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Ein Nebenfluss des Ubangi, der durch das Zentrum des Landes fließt und der Präfektur Ouaka ihren Namen gibt.",
       hu: "Az Ubangi egyik mellékfolyója, amely az ország közepén folyik keresztül, és nevet ad Ouaka prefektúrának.",
       ro: "Un afluent al râului Ubangi care curge prin centrul țării și dă numele prefecturii Ouaka.",
-      en: "A tributary of the Ubangi that flows through the center of the country and gives its name to the Ouaka Prefecture."
+      en: "A tributary of the Ubangi that flows through the center of the country and gives its name to the Ouaka Prefecture.",
+      es: "Un afluente del Ubangui que fluye por el centro del país y da nombre a la prefectura de Ouaka.",
+      pt: "Um afluente do Ubangui que corre pelo centro do país e dá nome à prefeitura de Ouaka.",
+      fr: "Un affluent de l'Oubangui qui traverse le centre du pays et donne son nom à la préfecture d'Ouaka.",
     },
     facts: {
       de: ["Bambari liegt an seinen Ufern.", "Wichtig für die lokale Landwirtschaft."],
       hu: ["Bambari a partján fekszik.", "Fontos a helyi mezőgazdaság számára."],
       ro: ["Bambari este situat pe malurile sale.", "Important pentru agricultura locală."],
-      en: ["Bambari is situated on its banks.", "Vital for local agriculture."]
+      en: ["Bambari is situated on its banks.", "Vital for local agriculture."],
+      es: ["Bambari se encuentra a sus orillas.", "Importante para la agricultura local."],
+      pt: ["Bambari situa-se nas suas margens.", "Importante para a agricultura local."],
+      fr: ["Bambari est située sur ses rives.", "Important pour l'agriculture locale."],
     }, image: "/poi-images/ouaka-river-nature-v2.webp"},
   {
     id: "bamingui-river-nature-v2",
@@ -384,18 +483,27 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: ["A Bamingui hossza körülbelül 450 kilométer.", "A Bamingui-Bangoran Nemzeti Parkot már 1933-ban megalapították.", "A Csád-folyórendszer egyik fontos mellékfolyója.", "A folyó természetes itatóként szolgál több mint 40 emlősfaj számára.", "A régióban expedíciókat folytattak a nyugat-afrikai krokodil kutatására.", "A folyó átlagos szélessége a középső szakaszon körülbelül 50 méter."],
       ro: ["Lungimea râului Bamingui este de aproximativ 450 de kilometri.", "Parcul Național Bamingui-Bangoran a fost înființat încă din anul 1933.", "Este un afluent important al sistemului râului Chari.", "Râul servește ca adăpătoare naturală pentru peste 40 de specii de mamifere.", "În regiune au fost efectuate expediții pentru studierea crocodilului vest-african.", "Lățimea medie a râului în cursul mijlociu este de aproximativ 50 de metri."],
       en: ["The length of the Bamingui is approximately 450 kilometers.", "The Bamingui-Bangoran National Park was established as early as 1933.", "It is an important tributary to the Chari River system.", "The river serves as a natural watering hole for over 40 mammal species.", "Expeditions to study the West African crocodile have been conducted in the region.", "The average width of the river in its middle reaches is about 50 meters."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Ein Fluss im Norden, der Teil des Einzugsgebiets des Chari-Flusses ist und durch Wildschutzgebiete fließt.",
       hu: "Északi folyó, amely a Chari folyó vízgyűjtő területéhez tartozik, és vadrezervátumokon folyik keresztül.",
       ro: "Un râu în nord, care face parte din bazinul râului Chari și curge prin rezervații de animale sălbatice.",
-      en: "A river in the north that is part of the Chari River basin and flows through wildlife reserves."
+      en: "A river in the north that is part of the Chari River basin and flows through wildlife reserves.",
+      es: "Un río en el norte que forma parte de la cuenca del río Chari y fluye a través de reservas de vida silvestre.",
+      pt: "Um rio no norte que faz parte da bacia do rio Chari e corre através de reservas de vida selvagem.",
+      fr: "Une rivière du nord qui fait partie du bassin du fleuve Chari et traverse des réserves de faune sauvage.",
     },
     facts: {
       de: ["Namensgeber für den Bamingui-Bangoran-Nationalpark.", "Wichtiger Lebensraum für Krokodile."],
       hu: ["A Bamingui-Bangoran Nemzeti Park névadója.", "Krokodilok fontos élőhelye."],
       ro: ["Dă numele Parcului Național Bamingui-Bangoran.", "Habitat important pentru crocodili."],
-      en: ["Eponym for the Bamingui-Bangoran National Park.", "Important habitat for crocodiles."]
+      en: ["Eponym for the Bamingui-Bangoran National Park.", "Important habitat for crocodiles."],
+      es: ["Da nombre al Parque Nacional Bamingui-Bangoran.", "Hábitat importante para cocodrilos."],
+      pt: ["Dá o nome ao Parque Nacional Bamingui-Bangoran.", "Habitat importante para crocodilos."],
+      fr: ["Donne son nom au parc national de Bamingui-Bangoran.", "Habitat important pour les crocodiles."],
     }, image: "/poi-images/bamingui-river-nature-v2.webp"},
   {
     id: "bangoran-river-nature-v2",
@@ -419,18 +527,27 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: ["A Bangoran teljes hossza körülbelül 400 kilométer.", "A Bamingui-Bangoran UNESCO Bioszféra-rezervátum része.", "A folyó a park északnyugati szélén torkollik a Baminguiba.", "Az 1920-as évekből származó történelmi beszámolók hatalmas bivalycsordákat említenek a partjain.", "A régióban dokumentálták az afrikai vadkutya ritka észleléseit.", "A folyó esése nagyon csekély, körülbelül 0,3 méter kilométerenként."],
       ro: ["Lungimea totală a râului Bangoran este de aproximativ 400 de kilometri.", "Face parte din Rezervația Biosferei UNESCO Bamingui-Bangoran.", "Râul se varsă în Bamingui la marginea de nord-vest a parcului.", "Rapoartele istorice din anii 1920 menționează turme uriașe de bivoli pe malurile sale.", "În regiune au fost documentate observații rare ale câinelui sălbatic african.", "Panta râului este foarte mică, de aproximativ 0,3 metri pe kilometru."],
       en: ["The total length of the Bangoran is approximately 400 kilometers.", "It is part of the Bamingui-Bangoran UNESCO Biosphere Reserve.", "The river empties into the Bamingui at the northwestern edge of the park.", "Historical reports from the 1920s mention massive buffalo herds on its banks.", "Rare sightings of the African wild dog have been documented in the region.", "The river's gradient is very low, at about 0.3 meters per kilometer."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Ein nördlicher Fluss, der zusammen mit dem Bamingui eine bedeutende Naturregion bildet.",
       hu: "Északi folyó, amely a Bamingui folyóval együtt jelentős természeti régiót alkot.",
       ro: "Un râu nordic care, împreună cu Bamingui, formează o regiune naturală semnificativă.",
-      en: "A northern river that, along with the Bamingui, forms a significant natural region."
+      en: "A northern river that, along with the Bamingui, forms a significant natural region.",
+      es: "Un río del norte que, junto con el Bamingui, forma una importante región natural.",
+      pt: "Um rio do norte que, juntamente com o Bamingui, forma uma região natural significativa.",
+      fr: "Une rivière septentrionale qui forme avec le Bamingui une région naturelle importante.",
     },
     facts: {
       de: ["Durchfließt unberührte Savannenlandschaften.", "Reich an verschiedenen Fischarten."],
       hu: ["Érintetlen szavannai tájakon folyik keresztül.", "Különböző halfajokban gazdag."],
       ro: ["Traversează peisaje de savană neatinse.", "Bogat în diverse specii de pești."],
-      en: ["Flows through untouched savanna landscapes.", "Rich in various fish species."]
+      en: ["Flows through untouched savanna landscapes.", "Rich in various fish species."],
+      es: ["Atraviesa paisajes de sabana vírgenes.", "Rico en diversas especies de peces."],
+      pt: ["Atravessa paisagens de savana virgens.", "Rico em várias espécies de peixes."],
+      fr: ["Traverse des paysages de savane préservés.", "Riche en diverses espèces de poissons."],
     }, image: "/poi-images/bangoran-river-nature-v2.webp"},
   {
     id: "mount-ngaoui-nature-v2",
@@ -454,18 +571,27 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: ["A Mount Ngaoui hivatalos csúcsmagassága 1410 méter a tengerszint felett.", "A Közép-afrikai Köztársaság és Kamerun közötti nemzetközi határ részét képezi.", "Földtanilag a hegy főként prekambriumi gránitból áll.", "Az európai földmérők általi első megmászás 1910 körül történt.", "A csúcson az évi átlaghőmérséklet mindössze 18 Celsius-fok.", "A hegy több kisebb, a Sanaga-rendszerhez tartozó mellékfolyó forrásvidéke."],
       ro: ["Înălțimea oficială a vârfului Muntelui Ngaoui este de 1.410 metri deasupra nivelului mării.", "Face parte din granița internațională dintre Republica Centrafricană și Camerun.", "Din punct de vedere geologic, muntele este compus în principal din granit precambrian.", "Prima ascensiune a topografilor europeni a avut loc în jurul anului 1910.", "Temperatura medie anuală la vârf este de doar 18 grade Celsius.", "Muntele este sursa mai multor afluenți mici ai sistemului Sanaga."],
       en: ["The official peak height of Mount Ngaoui is 1,410 meters above sea level.", "It forms part of the international border between the CAR and Cameroon.", "Geologically, the mountain consists primarily of Precambrian granite.", "The first ascent by European surveyors took place around the year 1910.", "The average annual temperature at the summit is only 18 degrees Celsius.", "The mountain is the source for several small tributaries of the Sanaga system."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Der höchste Punkt der Zentralafrikanischen Republik liegt an der Grenze zu Kamerun.",
       hu: "A Közép-afrikai Köztársaság legmagasabb pontja, a kameruni határon fekszik.",
       ro: "Cel mai înalt punct din Republica Centrafricană, situat la granița cu Camerun.",
-      en: "The highest point in the Central African Republic, located on the border with Cameroon."
+      en: "The highest point in the Central African Republic, located on the border with Cameroon.",
+      es: "El punto más alto de la República Centroafricana se encuentra en la frontera con Camerún.",
+      pt: "O ponto mais alto da República Centro-Africana situa-se na fronteira com os Camarões.",
+      fr: "Le point culminant de la République centrafricaine est situé à la frontière avec le Cameroun.",
     },
     facts: {
       de: ["Erreicht eine Höhe von 1.420 Metern.", "Teil des Adamaoua-Plateaus."],
       hu: ["Magassága eléri az 1420 métert.", "Az Adamaoua-fennsík része."],
       ro: ["Atinge o înălțime de 1.420 de metri.", "Face parte din Podișul Adamaoua."],
-      en: ["Reaches an elevation of 1,420 meters.", "Part of the Adamawa Plateau."]
+      en: ["Reaches an elevation of 1,420 meters.", "Part of the Adamawa Plateau."],
+      es: ["Alcanza una altitud de 1.420 metros.", "Parte de la meseta de Adamawa."],
+      pt: ["Atinge uma altitude de 1.420 metros.", "Parte do planalto de Adamaoua."],
+      fr: ["Culmine à 1 420 mètres d'altitude.", "Fait partie du plateau de l'Adamaoua."],
     }, image: "/poi-images/mount-ngaoui-nature-v2.webp"},
   {
     id: "mount-toussoro-nature-v2",
@@ -489,18 +615,27 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: ["A Mount Toussoro magassága körülbelül 1330 méter.", "A hegy az ország nyugati részén, Nana-Mambéré prefektúrában található.", "Az 1960-as évek földtani tanulmányai kvarcit-előfordulásokat azonosítottak.", "A hegy völgyeiben erednek a Mambérét tápláló patakok.", "A páratartalom a csúcsrégiókban gyakran meghaladja a 90 százalékot.", "Az ornitológusok 1985-ben a hegyi nektármadár egy ritka alfaját fedezték fel a lejtőn."],
       ro: ["Înălțimea Muntelui Toussoro este de aproximativ 1.330 de metri.", "Muntele este situat în prefectura Nana-Mambéré, în vestul țării.", "Studiile geologice din anii 1960 au identificat zăcăminte de cuarțit.", "În văile muntelui își au originea pârâuri care alimentează râul Mambéré.", "Umiditatea aerului în zonele de vârf atinge adesea peste 90%.", "Ornitologii au descoperit în 1985 o subspecie rară de pasăre-nectar de munte pe versant."],
       en: ["The height of Mount Toussoro is approximately 1,330 meters.", "The mountain is located in the Nana-Mambéré prefecture in the west of the country.", "Geological studies in the 1960s identified quartzite deposits.", "Streams originating in the mountain's valleys feed the Mambéré River.", "The humidity at the summit levels often reaches over 90 percent.", "Ornithologists discovered a rare subspecies of the mountain sunbird on the slope in 1985."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Ein markanter Berg im Bongo-Massiv im Nordosten des Landes.",
       hu: "Jellegzetes hegy a Bongo-masszívumban, az ország északkeleti részén.",
       ro: "Un munte proeminent din Masivul Bongo în nord-estul țării.",
-      en: "A prominent mountain in the Bongo Massif in the northeast of the country."
+      en: "A prominent mountain in the Bongo Massif in the northeast of the country.",
+      es: "Una montaña prominente en el macizo de Bongo, situada en el noreste del país.",
+      pt: "Uma montanha proeminente no maciço de Bongo, situada no nordeste do país.",
+      fr: "Une montagne proéminente du massif des Bongo, située dans le nord-est du pays.",
     },
     facts: {
       de: ["Höchster Gipfel im Bongo-Massiv.", "Wichtige Wasserscheide in der Region."],
       hu: ["A Bongo-masszívum legmagasabb csúcsa.", "Fontos vízválasztó a régióban."],
       ro: ["Cel mai înalt vârf din Masivul Bongo.", "Cumpănă de ape importantă în regiune."],
-      en: ["Highest peak in the Bongo Massif.", "Significant watershed in the region."]
+      en: ["Highest peak in the Bongo Massif.", "Significant watershed in the region."],
+      es: ["Pico más alto del macizo de Bongo.", "Importante divisoria de aguas en la región."],
+      pt: ["Pico mais alto do maciço de Bongo.", "Importante divisória de águas na região."],
+      fr: ["Plus haut sommet du massif des Bongo.", "Ligne de partage des eaux importante dans la région."],
     }, image: "/poi-images/mount-toussoro-nature-v2.webp"},
   {
     id: "mount-kayang-nature-v2",
@@ -524,18 +659,27 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: ["A Mount Kayang magassága körülbelül 1300 méter.", "Baboua városa közelében, a kameruni határ mentén található.", "A hegy főként gneiszből és metamorf kőzetekből áll.", "Az első térképészeti felméréseket a gyarmati időszakban, 1920-ban végezték.", "Az éjszakai hőmérséklet a csúcson 10 Celsius-fok alá is süllyedhet.", "A Csád-tó medencéje és a Kongó-medence közötti vízválasztóhoz tartozik."],
       ro: ["Muntele Kayang atinge o înălțime de aproximativ 1.300 de metri.", "Este situat în apropierea orașului Baboua, la granița cu Camerunul.", "Muntele este compus în principal din gnais și roci metamorfice.", "Primele înregistrări cartografice au fost efectuate în timpul epocii coloniale în 1920.", "Temperaturile nocturne pe vârf pot scădea sub 10 grade Celsius.", "Face parte din linia de demarcație a apelor între bazinul lacului Ciad și bazinul Congo."],
       en: ["Mount Kayang reaches a height of approximately 1,300 meters.", "It is located near the city of Baboua on the border with Cameroon.", "The mountain consists primarily of gneiss and metamorphic rocks.", "Initial cartographic surveys were conducted during the colonial era in 1920.", "Nighttime temperatures at the summit can drop below 10 degrees Celsius.", "It belongs to the watershed between the Lake Chad basin and the Congo basin."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Ein Berg im Westen des Landes, der Teil der gebirgigen Grenzregion zu Kamerun ist.",
       hu: "Hegy az ország nyugati részén, amely a kameruni határmenti hegyvidéki régió része.",
       ro: "Un munte în vestul țării, care face parte din regiunea montană de frontieră cu Camerun.",
-      en: "A mountain in the west of the country, part of the mountainous border region with Cameroon."
+      en: "A mountain in the west of the country, part of the mountainous border region with Cameroon.",
+      es: "Una montaña en el oeste del país que forma parte de la región montañosa fronteriza con Camerún.",
+      pt: "Uma montanha no oeste do país que faz parte da região montanhosa fronteiriça com os Camarões.",
+      fr: "Une montagne de l'ouest du pays, qui fait partie de la région montagneuse frontalière avec le Cameroun.",
     },
     facts: {
       de: ["Liegt im Yadé-Massiv.", "Umgeben von kühlerem Hochlandklima."],
       hu: ["A Yadé-masszívumban található.", "Hűvösebb felföldi éghajlat veszi körül."],
       ro: ["Situat în Masivul Yadé.", "Înconjurat de un climat de munte mai răcoros."],
-      en: ["Located in the Yadé Massif.", "Surrounded by a cooler highland climate."]
+      en: ["Located in the Yadé Massif.", "Surrounded by a cooler highland climate."],
+      es: ["Situada en el macizo de Yadé.", "Rodeada de un clima de tierras altas más fresco."],
+      pt: ["Situada no maciço de Yadé.", "Rodeada por um clima de terras altas mais fresco."],
+      fr: ["Située dans le massif de Yadé.", "Entourée d'un climat de montagne plus frais."],
     }
   },
   {
@@ -560,18 +704,27 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: ["A hegycsúcs magassága hozzávetőlegesen 1320 méter a tengerszint felett.", "Közigazgatásilag a hegy a Vakaga prefektúrában, az ország északkeleti részén fekszik.", "A hegység a Bongo-masszívum szerves részét képezi.", "A Nílus és a Kongó folyók vízgyűjtőjének határvonalán helyezkedik el.", "A területen az évi középhőmérséklet 25-27 Celsius-fok között mozog.", "A hegy alapkőzete több mint 500 millió éves prekambriumi gránit."],
       ro: ["Altitudinea maximă a vârfului este de aproximativ 1.320 de metri.", "Muntele este situat în prefectura Vakaga, în extremitatea nord-estică.", "Face parte din lanțul muntos Masivul Bongo, format din roci cristaline.", "Este un punct cheie pe cumpăna apelor dintre fluviile Nil și Congo.", "Zona înregistrează o perioadă de secetă pronunțată între noiembrie și martie.", "Vegetația dominantă este cea de savană împădurită cu elemente montane."],
       en: ["The peak reaches an elevation of approximately 1,320 meters above sea level.", "It is located within the Vakaga Prefecture in the northeast of the country.", "The mountain is a major component of the granite Bongo Massif range.", "It serves as a hydrologic divide between the Nile and Congo watersheds.", "The surrounding region has a tropical savanna climate (Aw in Köppen classification).", "Geological surveys date the primary rock formations to the Precambrian era."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Ein bedeutender Gipfel im zentralen Hochland der Zentralafrikanischen Republik.",
       hu: "Jelentős csúcs a Közép-afrikai Köztársaság középső felföldjén.",
       ro: "Un vârf important în podișul central al Republicii Centrafricane.",
-      en: "A significant peak in the central highlands of the Central African Republic."
+      en: "A significant peak in the central highlands of the Central African Republic.",
+      es: "Una cumbre importante en las tierras altas centrales de la República Centroafricana.",
+      pt: "Um cume importante nas terras altas centrais da República Centro-Africana.",
+      fr: "Un sommet important dans les hauts plateaux centraux de la République centrafricaine.",
     },
     facts: {
       de: ["Bietet weite Ausblicke über die umliegende Savanne.", "Geologisch Teil des alten kristallinen Schildes."],
       hu: ["Széles kilátást nyújt a környező szavannára.", "Geológiailag az ősi kristályos pajzs része."],
       ro: ["Oferă vederi largi asupra savanei înconjurătoare.", "Din punct de vedere geologic, face parte din scutul cristalin vechi."],
-      en: ["Offers wide views over the surrounding savanna.", "Geologically part of the ancient crystalline shield."]
+      en: ["Offers wide views over the surrounding savanna.", "Geologically part of the ancient crystalline shield."],
+      es: ["Ofrece amplias vistas sobre la sabana circundante.", "Geológicamente parte del antiguo escudo cristalino."],
+      pt: ["Oferece vistas amplas sobre a savana circundante.", "Geologicamente parte do antigo escudo cristalino."],
+      fr: ["Offre de vastes vues sur la savane environnante.", "Fait géologiquement partie du vieux bouclier cristallin."],
     }, image: "/poi-images/mount-ngaya-nature-v2.webp"},
   {
     id: "bongo-massif-nature-v2",
@@ -595,18 +748,27 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: ["A hegység legmagasabb pontja a Mount Ngaya (1320 m).", "A masszívum hossza megközelítőleg 450 kilométer az északkeleti tengelyen.", "Számos Schari-mellékfolyó forrásvidéke található ezen a területen.", "Geológiai felépítésében jelentős szerepet játszanak a mezozoikumi homokkövek.", "A terület a ZAR, Szudán és Dél-Szudán hármashatárának közelében fekszik.", "A hegység hűvösebb mikroklímája miatt a páratartalom magasabb az átlagnál."],
       ro: ["Cea mai înaltă cotă a masivului este vârful Mount Ngaya, de 1.320 metri.", "Lanțul muntos se întinde pe o distanță de aproximativ 450 de kilometri.", "Regiunea alimentează rețeaua hidrografică a sistemului Chari-Logone.", "Structura geologică include depozite masive de gresie din era mezozoică.", "Masivul constituie o barieră naturală la frontiera cu Sudanul.", "Precipitațiile anuale în zonele înalte pot atinge pragul de 1.200 mm."],
       en: ["The highest peak within the massif is Mount Ngaya at 1,320 meters.", "The range spans approximately 450 kilometers across the northeast.", "It is the source of many tributaries for the Chari River system.", "The geological composition includes significant Mesozoic sandstone deposits.", "The massif forms part of the international border with Sudan.", "The higher elevations receive up to 1,200 mm of annual rainfall."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Ein ausgedehntes Gebirgsmassiv im Nordosten, das als natürliche Grenze fungiert.",
       hu: "Kiterjedt hegység északkeleten, amely természetes határként szolgál.",
       ro: "Un masiv muntos extins în nord-est, care funcționează ca o frontieră naturală.",
-      en: "An extensive mountain massif in the northeast that serves as a natural border."
+      en: "An extensive mountain massif in the northeast that serves as a natural border.",
+      es: "Un extenso macizo montañoso en el noreste que actúa como frontera natural.",
+      pt: "Um maciço montanhoso extenso no nordeste que funciona como uma fronteira natural.",
+      fr: "Un vaste massif montagneux au nord-est qui fait office de frontière naturelle.",
     },
     facts: {
       de: ["Quelle vieler Flüsse, die zum Tschadsee fließen.", "Besteht hauptsächlich aus Sandstein."],
       hu: ["Számos Csád-tó felé folyó folyó forrásvidéke.", "Főként homokkőből épül fel."],
       ro: ["Sursa multor râuri care curg spre Lacul Ciad.", "Format în principal din gresie."],
-      en: ["Source of many rivers flowing toward Lake Chad.", "Composed mainly of sandstone."]
+      en: ["Source of many rivers flowing toward Lake Chad.", "Composed mainly of sandstone."],
+      es: ["Fuente de muchos ríos que fluyen hacia el lago Chad.", "Compuesto principalmente de arenisca."],
+      pt: ["Nascente de muitos rios que correm para o lago Chade.", "Composto principalmente por arenito."],
+      fr: ["Source de nombreuses rivières qui se jettent dans le lac Tchad.", "Composé principalement de grès."],
     }, image: "/poi-images/bongo-massif-nature-v2.webp"},
   {
     id: "yade-massif-nature-v2",
@@ -630,18 +792,27 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: ["A hegység legmagasabb pontja a Mont Ngaoui (1410 méter).", "A terület az Adamaoua-fennsík keleti nyúlványának tekinthető.", "Alapkőzetei többnyire prekambriumi kristályos gránitból állnak.", "Az Ouham folyó forrása itt található, amely a Csád-tó medencéjébe folyik.", "Az éves csapadékmennyiség elérheti az 1500-1600 millimétert.", "A régió központi szerepet játszik a közép-afrikai kávétermesztésben."],
       ro: ["Vârful maxim al masivului este Mont Ngaoui, având 1.410 metri.", "Masivul reprezintă extensia estică a platoului Adamaoua din Camerun.", "Compoziția geologică dominantă este formată din granit precambrian.", "Râul Ouham, un afluent major al sistemului Chari, își are izvorul aici.", "Precipitațiile medii anuale se situează în jurul valorii de 1.500 mm.", "Zona este recunoscută pentru producția agricolă de cafea și tutun."],
       en: ["The highest point of the massif is Mont Ngaoui at 1,410 meters.", "It serves as the eastern extension of the Adamawa Plateau.", "The geological foundation is composed of Precambrian crystalline rocks.", "The Ouham River, a primary tributary of the Chari, originates here.", "The region receives approximately 1,500 mm of annual rainfall.", "The plateau is a key region for the cultivation of coffee and tobacco."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Ein Hochlandgebiet im Westen des Landes, das eine Fortsetzung des Adamaoua-Plateaus ist.",
       hu: "Felföldi terület az ország nyugati részén, amely az Adamaoua-fennsík folytatása.",
       ro: "O zonă de munte în vestul țării, care este o continuare a Podișului Adamaoua.",
-      en: "A highland area in the west of the country, which is a continuation of the Adamawa Plateau."
+      en: "A highland area in the west of the country, which is a continuation of the Adamawa Plateau.",
+      es: "Una zona de tierras altas en el oeste del país, que es una continuación de la meseta de Adamaoua.",
+      pt: "Uma área de planalto no oeste do país, que é uma continuação do planalto de Adamaoua.",
+      fr: "Une zone de hauts plateaux dans l'ouest du pays, qui est le prolongement du plateau de l'Adamaoua.",
     },
     facts: {
       de: ["Wichtiges Wassereinzugsgebiet.", "Gekennzeichnet durch Granit- und Gneisformationen."],
       hu: ["Fontos vízgyűjtő terület.", "Gránit- és gneiszformációk jellemzik."],
       ro: ["Zonă importantă de captare a apei.", "Caracterizat prin formațiuni de granit și gnais."],
-      en: ["Significant water catchment area.", "Characterized by granite and gneiss formations."]
+      en: ["Significant water catchment area.", "Characterized by granite and gneiss formations."],
+      es: ["Importante cuenca hidrográfica.", "Caracterizado por formaciones de granito y gneis."],
+      pt: ["Importante bacia hidrográfica.", "Caracterizado por formações de granito e gnaisse."],
+      fr: ["Bassin versant important.", "Caractérisé par des formations de granit et de gneiss."],
     }
   },
   {
@@ -666,18 +837,27 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: ["A rezervátumot hivatalosan 1990-ben hozták létre.", "2012 óta a Sangha Trinational UNESCO világörökség része.", "A Dzanga Bai tisztáson egyszerre akár 100 elefánt is látható.", "A park a nyugati síkvidéki gorillák egyik legfontosabb menedéke.", "Az éves csapadékmennyiség átlagosan 1500 milliméter körül alakul.", "A területen több mint 300 madárfajt azonosítottak a kutatók."],
       ro: ["Rezervația a fost înființată oficial în anul 1990.", "Face parte din situl Patrimoniului Mondial UNESCO din 2012.", "La Dzanga Bai au fost monitorizați peste 100 de elefanți simultan.", "Parcul deține una dintre cele mai mari densități de gorile de câmpie.", "Precipitațiile medii anuale sunt estimate la 1.500 mm.", "Sunt înregistrate peste 300 de specii de păsări în acest ecosistem."],
       en: ["The protected area was officially established in 1990.", "It has been part of a UNESCO World Heritage site since 2012.", "Over 100 elephants are often sighted simultaneously at Dzanga Bai.", "The park hosts one of the highest densities of western lowland gorillas.", "The area receives an average annual rainfall of approximately 1,500 mm.", "More than 300 bird species have been documented within the forest."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Ein dichter tropischer Regenwald im tiefen Süden, berühmt für seine biologische Vielfalt.",
       hu: "Sűrű trópusi esőerdő a távoli délen, biológiai sokféleségéről híres.",
       ro: "O pădure tropicală densă în sudul îndepărtat, faimoasă pentru biodiversitatea sa.",
-      en: "A dense tropical rainforest in the deep south, famous for its biological diversity."
+      en: "A dense tropical rainforest in the deep south, famous for its biological diversity.",
+      es: "Una densa selva tropical en el extremo sur, famosa por su biodiversidad.",
+      pt: "Uma floresta tropical densa no extremo sul, famosa pela sua biodiversidade.",
+      fr: "Une forêt tropicale dense dans l'extrême sud, célèbre pour sa biodiversité.",
     },
     facts: {
       de: ["Beheimatet Flachlandgorillas und Waldelefanten.", "Teil des trinationalen Schutzgebiets am Sangha."],
       hu: ["Síkvidéki gorilláknak és erdei elefántoknak ad otthont.", "A Sangha háromnemzetiségű természetvédelmi terület része."],
       ro: ["Adăpostește gorile de câmpie și elefanți de pădure.", "Parte a sitului transfrontalier protejat de pe Sangha."],
-      en: ["Home to lowland gorillas and forest elephants.", "Part of the Sangha Trinational protected area."]
+      en: ["Home to lowland gorillas and forest elephants.", "Part of the Sangha Trinational protected area."],
+      es: ["Hogar de gorilas de llanura y elefantes de bosque.", "Parte del área protegida trinacional del Sangha."],
+      pt: ["Lar de gorilas-das-planícies e elefantes-da-floresta.", "Parte da área protegida trinacional do Sangha."],
+      fr: ["Abrite des gorilles des plaines et des éléphants de forêt.", "Fait partie de l'aire protégée trinationale de la Sangha."],
     }, image: "/poi-images/dzanga-sangha-forest-nature-v2.webp"},
   {
     id: "chinko-forest-nature-v2",
@@ -701,18 +881,27 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: ["A védett terület kiterjedése körülbelül 17 600 négyzetkilométer.", "Az African Parks szervezet 2014-ben vette át a terület kezelését.", "Legalább 10 különböző primátafaj él a területen.", "A Chinko folyó a Mbomou folyó egyik legfontosabb mellékfolyója.", "A kutatók több mint 450 madárfajt jegyeztek fel a régióban.", "Itt található a Közép-afrikai Köztársaság egyik utolsó stabil oroszlánpopulációja."],
       ro: ["Aria protejată acoperă o suprafață de aproximativ 17.600 km pătrați.", "Organizația African Parks a preluat managementul în anul 2014.", "În acest ecosistem trăiesc peste 10 specii diferite de primate.", "Râul Chinko este un afluent major al fluviului Mbomou.", "Au fost documentate peste 450 de specii de păsări în zonă.", "Regiunea adăpostește una dintre ultimele populații stabile de lei din țară."],
       en: ["The protected area covers an area of approximately 17,600 square kilometers.", "African Parks assumed management of the Chinko area in 2014.", "The forest is home to more than 10 different species of primates.", "The Chinko River is a major tributary of the Mbomou River.", "Over 450 bird species have been documented within this ecosystem.", "The region hosts one of the last stable lion populations in the CAR."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Ein riesiges Wildnisgebiet im Osten, das eine Mischung aus Savanne und Regenwald darstellt.",
       hu: "Hatalmas vadon keleten, amely a szavanna és az esőerdő keveréke.",
       ro: "O zonă vastă de sălbăticie în est, care reprezintă o mixtură de savană și pădure tropicală.",
-      en: "A vast wilderness area in the east, representing a mixture of savanna and rainforest."
+      en: "A vast wilderness area in the east, representing a mixture of savanna and rainforest.",
+      es: "Una vasta área de naturaleza salvaje en el este que representa una mezcla de sabana y selva tropical.",
+      pt: "Uma vasta área de vida selvagem no leste, representando uma mistura de savana e floresta tropical.",
+      fr: "Une vaste zone sauvage à l'est, représentant un mélange de savane et de forêt tropicale.",
     },
     facts: {
       de: ["Eines der größten unfragmentierten Ökosysteme Afrikas.", "Wichtiger Rückzugsort für Wildhunde und Löwen."],
       hu: ["Afrika egyik legnagyobb összefüggő ökoszisztémája.", "A vadkutyák és oroszlánok fontos menedékhelye."],
       ro: ["Unul dintre cele mai mari ecosisteme nefragmentate din Africa.", "Refugiu important pentru câinii sălbatici și lei."],
-      en: ["One of Africa's largest unfragmented ecosystems.", "Critical refuge for wild dogs and lions."]
+      en: ["One of Africa's largest unfragmented ecosystems.", "Critical refuge for wild dogs and lions."],
+      es: ["Uno de los ecosistemas no fragmentados más grandes de África.", "Refugio importante para licaones y leones."],
+      pt: ["Um dos maiores ecossistemas não fragmentados de África.", "Refúgio importante para cães selvagens e leões."],
+      fr: ["L'un des plus grands écosystèmes non fragmentés d'Afrique.", "Refuge important pour les lycaons et les lions."],
     }, image: "/poi-images/chinko-forest-nature-v2.webp"},
   {
     id: "zemongo-forest-nature-v2",
@@ -736,18 +925,27 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: ["A rezervátumot hivatalosan 1925-ben hozták létre.", "Területe megközelítőleg 10 100 négyzetkilométer.", "A régió átlagos tengerszint feletti magassága 600 méter.", "Zemongo a közép-afrikai csimpánzok egyik fontos élőhelye.", "A Vovodo folyó a terület egyik természetes határát alkotja.", "Az éves csapadékmennyiség 1300 és 1400 mm között mozog."],
       ro: ["Rezervația a fost stabilită oficial în anul 1925.", "Acoperă o suprafață de aproximativ 10.100 kilometri pătrați.", "Regiunea este situată la o altitudine medie de 600 de metri.", "Zemongo adăpostește o populație semnificativă de cimpanzei central-africani.", "Râul Vovodo constituie una dintre limitele naturale ale ariei.", "Cantitatea anuală de precipitații este de aproximativ 1.300 - 1.400 mm."],
       en: ["The reserve was officially established in 1925.", "It covers an area of approximately 10,100 square kilometers.", "The region sits at an average elevation of 600 meters above sea level.", "Zemongo is home to a significant population of Central African chimpanzees.", "The Vovodo River forms one of the natural boundaries of the area.", "The annual rainfall in the region ranges from 1,300 to 1,400 mm."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Ein abgelegenes Waldgebiet im Osten, das für seine unberührte Natur bekannt ist.",
       hu: "Távoli erdős terület keleten, amely érintetlen természetéről ismert.",
       ro: "O zonă forestieră izolată în est, cunoscută pentru natura sa virgină.",
-      en: "A remote forested area in the east, known for its pristine nature."
+      en: "A remote forested area in the east, known for its pristine nature.",
+      es: "Una zona forestal remota en el este, conocida por su naturaleza virgen.",
+      pt: "Uma área florestal remota no leste, conhecida pela sua natureza intocada.",
+      fr: "Une zone forestière isolée dans l'est, connue pour sa nature sauvage.",
     },
     facts: {
       de: ["Liegt im Zemongo-Wildschutzgebiet.", "Wichtiger Korridor für wandernde Wildtiere."],
       hu: ["A Zemongo vadrezervátumban található.", "Fontos folyosó a vándorló vadon élő állatok számára."],
       ro: ["Situat în Rezervația de Faună Zemongo.", "Coridor important pentru animalele sălbatice migratoare."],
-      en: ["Located within the Zemongo Faunal Reserve.", "Significant corridor for migratory wildlife."]
+      en: ["Located within the Zemongo Faunal Reserve.", "Significant corridor for migratory wildlife."],
+      es: ["Ubicada en la Reserva de Fauna de Zemongo.", "Corredor importante para la fauna migratoria."],
+      pt: ["Localizada na Reserva de Fauna de Zemongo.", "Corredor importante para a vida selvagem migratória."],
+      fr: ["Située dans la réserve de faune de Zemongo.", "Corridor important pour la faune migratrice."],
     }, image: "/poi-images/zemongo-forest-nature-v2.webp"},
   {
     id: "lake-goumba-nature-v2",
@@ -771,18 +969,27 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: ["A tó a Schari-medence hidrológiai rendszerének része.", "A vízmélység szezonálisan 0,5 és 3 méter között változik.", "A tó környékén ritka kétéltűfajok élnek.", "A tó fontos pihenőhely az Európából érkező vándorló madaraknak.", "A víz átlaghőmérséklete körülbelül 24 Celsius-fok.", "A helyi lakosság a tavat kisléptékű öntözéses gazdálkodásra használja."],
       ro: ["Lacul aparține sistemului hidrologic al bazinului Chari.", "Adâncimea apei variază sezonier între 0,5 și 3 metri.", "În proximitatea lacului trăiesc specii rare de amfibieni.", "Lacul este un loc de popas crucial pentru păsările migratoare din Europa.", "Temperatura medie a apei este de aproximativ 24 de grade Celsius.", "Populația locală utilizează lacul pentru irigații la scară mică."],
       en: ["The lake is part of the Chari Basin hydrological system.", "Water depth fluctuates seasonally between 0.5 and 3 meters.", "The surrounding area is home to rare amphibian species.", "The lake is a key stopover for migratory birds from Europe.", "The average water temperature is approximately 24 degrees Celsius.", "Local communities use the lake for small-scale irrigation purposes."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Ein kleiner, aber ökologisch wichtiger See im zentralen Hochland des Landes.",
       hu: "Kicsi, de ökológiailag fontos tó az ország középső felföldjén.",
       ro: "Un lac mic, dar important din punct de vedere ecologic, în podișul central al țării.",
-      en: "A small but ecologically important lake in the central highlands of the country."
+      en: "A small but ecologically important lake in the central highlands of the country.",
+      es: "Un lago pequeño pero ecológicamente importante en las tierras altas centrales del país.",
+      pt: "Um lago pequeno mas ecologicamente importante nas terras altas centrais do país.",
+      fr: "Un petit lac, mais écologiquement important, situé dans les hauts plateaux centraux du pays.",
     },
     facts: {
       de: ["Wichtiger Rastplatz für Zugvögel.", "Umgeben von sumpfigen Uferzonen."],
       hu: ["Fontos pihenőhely a költöző madarak számára.", "Mocsaras partmenti zónák veszik körül."],
       ro: ["Loc important de odihnă pentru păsările migratoare.", "Înconjurat de zone de țărm mlaștinoase."],
-      en: ["Significant stopover for migratory birds.", "Surrounded by marshy shore zones."]
+      en: ["Significant stopover for migratory birds.", "Surrounded by marshy shore zones."],
+      es: ["Importante lugar de descanso para aves migratorias.", "Rodeado de zonas ribereñas pantanosas."],
+      pt: ["Importante local de repouso para aves migratórias.", "Rodeado por zonas ribeirinhas pantanosas."],
+      fr: ["Lieu de repos important pour les oiseaux migrateurs.", "Entouré de zones riveraines marécageuses."],
     }, image: "/poi-images/lake-goumba-nature-v2.webp"},
   {
     id: "lake-mamere-nature-v2",
@@ -806,18 +1013,27 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: ["A tó a csádi határ közelében helyezkedik el.", "Az esős évszakban a vízfelület elérheti a 15 négyzetkilométert.", "Fontos itatóhelyként szolgál a Bamingui-Bangoran Park vadállománya számára.", "A tófenék üledékei szerves anyagokban gazdagok.", "A tóban többféle ragadozó halfaj él.", "A régiót trópusi váltakozó nedves-száraz éghajlat jellemzi."],
       ro: ["Lacul se află în proximitatea frontierei cu Ciadul.", "Suprafața maximă în sezonul ploios atinge aproximativ 15 km pătrați.", "Servește ca loc de adăpare major pentru fauna din Parcul Bamingui-Bangoran.", "Sedimentele de pe fundul lacului sunt bogate în materie organică.", "În apele lacului trăiesc diverse specii de pești răpitori.", "Regiunea este caracterizată printr-un climat tropical alternant."],
       en: ["The lake is located near the border with Chad.", "Its maximum surface area reaches about 15 square kilometers during rains.", "It is a crucial watering hole for wildlife from Bamingui-Bangoran Park.", "The lakebed sediments are highly rich in organic matter.", "Various species of predatory fish inhabit the lake waters.", "The region is characterized by a tropical wet-and-dry climate."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Ein natürlicher See in der Haute-Kotto Region, der eine wichtige lokale Ressource darstellt.",
       hu: "Természetes tó a Haute-Kotto régióban, amely fontos helyi erőforrást jelent.",
       ro: "Un lac natural în regiunea Haute-Kotto, care reprezintă o resursă locală importantă.",
-      en: "A natural lake in the Haute-Kotto region, representing an important local resource."
+      en: "A natural lake in the Haute-Kotto region, representing an important local resource.",
+      es: "Un lago natural en la región de Haute-Kotto que representa un recurso local fundamental.",
+      pt: "Um lago natural na região de Haute-Kotto que representa um recurso local fundamental.",
+      fr: "Un lac naturel dans la région de la Haute-Kotto qui constitue une ressource locale importante.",
     },
     facts: {
       de: ["Dient der lokalen Bevölkerung zur Fischerei.", "Wasserspiegel schwankt saisonal stark."],
       hu: ["A helyi lakosság halászatára szolgál.", "Vízszintje szezonálisan erősen ingadozik."],
       ro: ["Servește populației locale pentru pescuit.", "Nivelul apei variază semnificativ în funcție de sezon."],
-      en: ["Used by the local population for fishing.", "Water level fluctuates significantly with the seasons."]
+      en: ["Used by the local population for fishing.", "Water level fluctuates significantly with the seasons."],
+      es: ["Sirve a la población local para la pesca.", "El nivel del agua fluctúa fuertemente según la estación."],
+      pt: ["Serve a população local para a pesca.", "O nível da água flutua fortemente de acordo com a estação."],
+      fr: ["Sert à la population locale pour la pêche.", "Le niveau de l'eau fluctue fortement selon les saisons."],
     }, image: "/poi-images/lake-mamere-nature-v2.webp"},
   {
     id: "matoumbou-hills-nature-v2",
@@ -841,18 +1057,27 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: ["A dombok magassága eléri a tengerszint feletti 750 métert.", "Részben vasban gazdag laterit kőzetből épülnek fel.", "A régióban az éves csapadékmennyiség körülbelül 1200 milliméter.", "A dombok között praehisztorikus kőeszközöket tártak fel.", "A növényzet a szudáni-guineai átmeneti zónához tartozik.", "A dombság a Bangui felé vezető fontos útvonalak közelében fekszik."],
       ro: ["Dealurile ating altitudini de până la 750 de metri deasupra mării.", "Sunt compuse parțial din roci lateritice bogate în fier.", "Regiunea înregistrează precipitații anuale de circa 1.200 mm.", "În zonă au fost descoperite unelte de piatră preistorice.", "Vegetația aparține zonei de tranziție sudano-guineene.", "Dealurile sunt situate în apropierea rutelor comerciale către Bangui."],
       en: ["The hills reach elevations of up to 750 meters above sea level.", "They are partially composed of iron-rich laterite rock.", "The region records an annual rainfall of approximately 1,200 mm.", "Prehistoric stone tools have been discovered within the hills.", "The vegetation is part of the Sudano-Guinean transition zone.", "The hills are located near major transport routes heading to Bangui."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Eine Hügelkette im Süden, die von dichtem Wald bedeckt ist und das Lobaye-Becken überragt.",
       hu: "Dombvidék délen, amelyet sűrű erdő borít, és a Lobaye-medence fölé magasodik.",
       ro: "Un lanț de dealuri în sud, acoperit de pădure densă, care domină bazinul Lobaye.",
-      en: "A chain of hills in the south, covered by dense forest, overlooking the Lobaye basin."
+      en: "A chain of hills in the south, covered by dense forest, overlooking the Lobaye basin.",
+      es: "Una cadena de colinas en el sur, cubierta de bosque denso, que domina la cuenca del Lobaye.",
+      pt: "Uma cadeia de colinas no sul, coberta de floresta densa, que domina a bacia do Lobaye.",
+      fr: "Une chaîne de collines au sud, couverte d'une forêt dense et surplombant le bassin de la Lobaye.",
     },
     facts: {
       de: ["Wichtiger Lebensraum für Primaten.", "Bekannt für ihre reiche Flora."],
       hu: ["Prímások fontos élőhelye.", "Gazdag flórájáról ismert."],
       ro: ["Habitat important pentru primate.", "Cunoscut pentru flora sa bogată."],
-      en: ["Important habitat for primates.", "Known for its rich flora."]
+      en: ["Important habitat for primates.", "Known for its rich flora."],
+      es: ["Hábitat importante para los primates.", "Conocidas por su rica flora."],
+      pt: ["Habitat importante para primatas.", "Conhecidas pela sua rica flora."],
+      fr: ["Habitat important pour les primates.", "Connues pour leur flore riche."],
     }, image: "/poi-images/matoumbou-hills-nature-v2.webp"},
   {
     id: "fertit-mountains-nature-v2",
@@ -876,18 +1101,27 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: ["A hegység a ZAR és Szudán határán húzódik keresztül.", "A szektor legmagasabb pontja körülbelül 1150 méter.", "A kőzetek többnyire prekambriumi és paleozoikumi eredetűek.", "A régió ismert az ásványi ércek előfordulásáról.", "A 'Dar Fertit' elnevezés a helyi nyelveken a Fertit népek földjét jelenti.", "Az éves csapadékmennyiség 800 és 1000 mm között változik."],
       ro: ["Munții se întind peste granița dintre Republica Centrafricană și Sudan.", "Cea mai înaltă cotă din acest sector este de aproximativ 1.150 de metri.", "Rocile sunt predominant de origine precambriană și paleozoică.", "Regiunea este cunoscută pentru zăcămintele sale de minereuri metalifere.", "Dar Fertit înseamnă în limbile locale 'Țara popoarelor Fertit'.", "Cantitatea anuală de precipitații variază între 800 și 1.000 mm."],
       en: ["The mountains span the international border between the CAR and Sudan.", "The highest elevation in this sector is approximately 1,150 meters.", "The rock formations are mainly of Precambrian and Paleozoic origin.", "The region is known for its occurrences of mineral ores.", "Dar Fertit translates in local languages to 'Land of the Fertit peoples.'", "Annual rainfall fluctuates significantly between 800 and 1,000 mm."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Ein Gebirgszug im äußersten Nordosten des Landes an der Grenze zum Sudan.",
       hu: "Hegylánc az ország távoli északkeleti részén, a szudáni határon.",
       ro: "Un lanț muntos în nord-estul extrem al țării, la granița cu Sudanul.",
-      en: "A mountain range in the far northeast of the country on the border with Sudan."
+      en: "A mountain range in the far northeast of the country on the border with Sudan.",
+      es: "Una cadena montañosa en el extremo noreste del país, en la frontera con Sudán.",
+      pt: "Uma cordilheira no extremo nordeste do país, na fronteira com o Sudão.",
+      fr: "Une chaîne de montagnes à l'extrême nord-est du pays, à la frontière avec le Soudan.",
     },
     facts: {
       de: ["Besteht aus sehr altem Gestein.", "Abgelegene Region mit wenig menschlicher Besiedlung."],
       hu: ["Nagyon idős kőzetekből épül fel.", "Távoli régió kevés emberi településsel."],
       ro: ["Format din roci foarte vechi.", "Regiune izolată cu puține așezări umane."],
-      en: ["Composed of very ancient rock.", "Remote region with sparse human settlement."]
+      en: ["Composed of very ancient rock.", "Remote region with sparse human settlement."],
+      es: ["Compuesta por rocas muy antiguas.", "Región remota con poco asentamiento humano."],
+      pt: ["Composta por rochas muito antigas.", "Região remota com pouco povoamento humano."],
+      fr: ["Composée de roches très anciennes.", "Région isolée avec peu de peuplement humain."],
     }
   }
 ];

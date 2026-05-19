@@ -68,7 +68,11 @@ export function generateStaticParams() {
       out.push({ lang, country, state, poi: poiSlug });
     }
   }
-  const LIMIT = Number(process.env.GSP_LIMIT || 0);
+  const LIMIT = Number(process.env.GSP_LIMIT ?? -1);
+  if (LIMIT === 0) {
+    console.error("[gSP] GSP_LIMIT=0, returning empty (POI HTML overlay handles all)");
+    return [];
+  }
   if (LIMIT > 0 && out.length > LIMIT) {
     console.error("[gSP] limiting", out.length, "->", LIMIT, "(interleaved)");
     return out.slice(0, LIMIT);

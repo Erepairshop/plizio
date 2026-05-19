@@ -9,12 +9,15 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     coords: [22.85, -19.01],
     name: { de: "Okavango-Delta", hu: "Okavango-delta", ro: "Delta Okavango", en: "Okavango Delta"},
     image: "/poi-images/okavango-delta-animal-habitat-life-v2.webp",
-    description: { de: "Ein riesiges Binnendelta, das Lebensraum für zahlreiche Wildtiere bietet.", hu: "Hatalmas belföldi delta, amely számos vadállatnak ad otthont.", ro: "O deltă interioară vastă care oferă habitat pentru numeroase animale sălbatice.", en: "A vast inland delta providing habitat for numerous wildlife." },
+    description: { de: "Ein riesiges Binnendelta, das Lebensraum für zahlreiche Wildtiere bietet.", hu: "Hatalmas belföldi delta, amely számos vadállatnak ad otthont.", ro: "O deltă interioară vastă care oferă habitat pentru numeroase animale sălbatice.", en: "A vast inland delta providing habitat for numerous wildlife." , es: "Un enorme delta interior que ofrece hábitat a numerosa fauna salvaje.", pt: "Um enorme delta interior que oferece habitat a numerosa vida selvagem.", fr: "Un immense delta intérieur qui abrite une faune sauvage abondante."},
     facts: {
       de: ["Weltnaturerbe der UNESCO.", "Über 400 Vogelarten leben hier."],
       hu: ["UNESCO Világörökség része.", "Több mint 400 madárfaj él itt."],
       ro: ["Patrimoniul Mondial UNESCO.", "Peste 400 de specii de păsări trăiesc aici."],
-      en: ["UNESCO World Heritage site.", "Home to over 400 bird species."]
+      en: ["UNESCO World Heritage site.", "Home to over 400 bird species."],
+      es: ["Patrimonio de la Humanidad de la UNESCO.", "Aquí viven más de 400 especies de aves."],
+      pt: ["Património Mundial da UNESCO.", "Mais de 400 espécies de aves vivem aqui."],
+      fr: ["Patrimoine mondial de l'UNESCO.", "Plus de 400 espèces d'oiseaux vivent ici."],
     },
     descriptionAdvanced: {
       de: "Das Okavango-Delta im Norden Botswanas ist eines der spektakulärsten Binnendeltas der Welt und ein UNESCO-Weltkulturerbe von immenser ökologischer Bedeutung. Im Gegensatz zu den meisten Flussdeltas mündet der Okavango-Fluss nicht ins Meer, sondern versickert in der Kalahari-Wüste, wodurch ein labyrinthartiges System aus Kanälen, Lagunen und Inseln entsteht. Jedes Jahr fließen etwa 11 Billionen Liter Wasser aus dem angolanischen Hochland in das Delta und erreichen seinen Höhepunkt zwischen Juni und August, während der Trockenzeit Botswanas. Dieses Phänomen lockt eine unglaubliche Vielfalt an Wildtieren an, darunter Elefanten, Flusspferde, Krokodile und hunderte Vogelarten. Das Delta beherbergt auch gefährdete Arten wie das Breitmaulnashorn und den Afrikanischen Wildhund. Für die lokale Gemeinschaft der Bayei und Hambukushu ist das Delta seit Generationen Lebensgrundlage, wobei das Mokoro (ein traditioneller Einbaum) das wichtigste Transportmittel bleibt. Die Erhaltung dieses fragilen Ökosystems ist entscheidend für den Schutz der globalen Artenvielfalt und macht das Okavango-Delta zu einem der bedeutendsten Naturwunder Afrikas.",
@@ -27,6 +30,9 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["Az Okavango-deltát 2014-ben vették fel az UNESCO Világörökségi listájára, az 1000. helyszínként.", "Területe évszaktól függően 15 000 és 22 000 négyzetkilométer között változik.", "Évente körülbelül 11 billió liter víz érkezik a deltába Angolából.", "A vízszint augusztusban éri el a csúcsát, éppen a helyi száraz évszak közepén.", "Itt található a világ legnagyobb afrikai vadkutya-populációja.", "A deltában több mint 400 különböző madárfajt azonosítottak a kutatók."],
       ro: ["Delta Okavango a fost inclusă în Patrimoniul Mondial UNESCO în 2014 ca al 1000-lea sit.", "Suprafața sa variază între 15.000 și 22.000 de kilometri pătrați în funcție de inundații.", "Aproximativ 11 trilioane de litri de apă se varsă anual în deltă din Angola.", "Nivelul maxim al inundațiilor este atins în luna august, în plin sezon secetos local.", "Găzduiește cea mai mare populație rămasă de câini sălbatici africani din lume.", "Peste 400 de specii de păsări au fost înregistrate oficial în ecosistemul deltei."],
       en: ["The Okavango Delta was inscribed as the 1000th UNESCO World Heritage site in 2014.", "It covers an area ranging from 15,000 to 22,000 square kilometers depending on the floods.", "Roughly 11 trillion liters of water flow into the delta from Angola every year.", "The water levels peak in August, which coincides with the peak of the dry season in Botswana.", "It is home to the world's largest remaining population of the endangered African wild dog.", "More than 400 distinct bird species have been documented within the delta's borders."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/okavango-delta-animal-habitat-life-v2.webp"},
   {
     id: "chobe-national-park-animal-habitat-life-v2",
@@ -35,12 +41,15 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     coords: [24.50, -18.25],
     name: { de: "Chobe-Nationalpark", hu: "Chobe Nemzeti Park", ro: "Parcul Național Chobe", en: "Chobe National Park"},
     image: "/poi-images/chobe-national-park-animal-habitat-life-v2.webp",
-    description: { de: "Bekannt für seine riesigen Elefantenpopulationen am Flussufer.", hu: "Híres a folyóparti hatalmas elefántpopulációjáról.", ro: "Cunoscut pentru populațiile sale masive de elefanți de pe malul râului.", en: "Known for its massive elephant populations along the riverbank." },
+    description: { de: "Bekannt für seine riesigen Elefantenpopulationen am Flussufer.", hu: "Híres a folyóparti hatalmas elefántpopulációjáról.", ro: "Cunoscut pentru populațiile sale masive de elefanți de pe malul râului.", en: "Known for its massive elephant populations along the riverbank." , es: "Conocido por sus enormes poblaciones de elefantes a orillas del río.", pt: "Conhecido pelas suas enormes populações de elefantes nas margens do rio.", fr: "Connu pour ses vastes populations d'éléphants sur les rives du fleuve."},
     facts: {
       de: ["Größte Elefantenkonzentration Afrikas.", "Entlang des Chobe-Flusses gelegen."],
       hu: ["Afrika legnagyobb elefántkoncentrációja.", "A Chobe folyó mentén található."],
       ro: ["Cea mai mare concentrație de elefanți din Africa.", "Situat de-a lungul râului Chobe."],
-      en: ["Highest concentration of elephants in Africa.", "Located along the Chobe River."]
+      en: ["Highest concentration of elephants in Africa.", "Located along the Chobe River."],
+      es: ["La mayor concentración de elefantes de África.", "Situado a lo largo del río Chobe."],
+      pt: ["A maior concentração de elefantes de África.", "Situado ao longo do rio Chobe."],
+      fr: ["Plus grande concentration d'éléphants d'Afrique.", "Situé le long de la rivière Chobe."],
     },
     descriptionAdvanced: {
       de: "Der Chobe-Nationalpark im Norden Botswanas wurde 1967 als erster Nationalpark des Landes gegründet und ist weltbekannt für seine außergewöhnliche Dichte an Elefanten. Schätzungen zufolge leben im Park zwischen 50.000 und 120.000 Afrikanische Elefanten, was die höchste Konzentration dieser Tiere auf dem gesamten Kontinent darstellt. Der Park ist in vier geografisch unterschiedliche Gebiete unterteilt: die üppige Serondela-Region entlang des Chobe-Flusses, die Savuti-Sümpfe, die Linyanti-Sümpfe und das trockene Hinterland von Nogatsaa. Jede dieser Zonen bietet einzigartige Lebensräume für eine Vielzahl von Tieren, darunter Löwen, Leoparden, Büffel und die seltenen Puku-Antilopen. Besonders während der Trockenzeit von Mai bis Oktober versammeln sich tausende Tiere an den Ufern des Chobe-Flusses, was spektakuläre Wildtierbeobachtungen ermöglicht. Der Park spielt eine zentrale Rolle im grenzüberschreitenden Naturschutzgebiet Kavango-Zambezi (KAZA), das die Wanderung der Tiere zwischen fünf afrikanischen Ländern ermöglicht. Chobe bleibt ein unverzichtbares Ziel für den Naturschutz und den Ökotourismus in Botswana.",
@@ -53,6 +62,9 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["Chobe 1967-ben lett Botswana legelső nemzeti parkja.", "Itt található a világ legnagyobb afrikai elefánt-koncentrációja.", "A park teljes területe körülbelül 11 700 négyzetkilométer.", "A Chobe-folyó alkotja a park északi határát Namíbia felé.", "Savuti híres a ragadozók, különösen az oroszlánok és hiénák nagy számáról.", "A park része a KAZA természetvédelmi területnek, amely a legnagyobb a világon."],
       ro: ["Chobe a fost declarat primul parc național din Botswana în anul 1967.", "Parcul găzduiește cea mai mare concentrație de elefanți africani din lume.", "Acesta acoperă o suprafață totală de aproximativ 11.700 de kilometri pătrați.", "Râul Chobe formează granița de nord a parcului cu Namibia.", "Zona Savuti este celebră pentru densitatea mare de prădători, în special lei.", "Parcul face parte din zona de conservare KAZA, cea mai mare de acest tip la nivel global."],
       en: ["Chobe was declared Botswana's first national park in 1967.", "The park is home to the largest concentration of African elephants in the world.", "It covers a total area of approximately 11,700 square kilometers.", "The Chobe River forms the northern border of the park with Namibia.", "The Savuti region is famous for its high density of predators, particularly lions.", "The park is a key component of the KAZA Transfrontier Conservation Area."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/chobe-national-park-animal-habitat-life-v2.webp"},
     {
     id: "makgadikgadi-pans-animal-habitat-life-v2",
@@ -61,12 +73,15 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     coords: [24.66, -20.66],
     name: { de: "Makgadikgadi-Salzpfannen", hu: "Makgadikgadi-sós síkság", ro: "Depresiunile sărate Makgadikgadi", en: "Makgadikgadi Pans"},
     image: "/poi-images/makgadikgadi-pans-animal-habitat-life-v2.webp",
-    description: { de: "Eine der größten Salzpfannen der Welt, wichtig für wandernde Flamingos.", hu: "A világ egyik legnagyobb sós síksága, fontos a vándorló flamingók számára.", ro: "Una dintre cele mai mari depresiuni sărate din lume, importantă pentru flamingo-urile migratoare.", en: "One of the world's largest salt pans, important for migratory flamingos." },
+    description: { de: "Eine der größten Salzpfannen der Welt, wichtig für wandernde Flamingos.", hu: "A világ egyik legnagyobb sós síksága, fontos a vándorló flamingók számára.", ro: "Una dintre cele mai mari depresiuni sărate din lume, importantă pentru flamingo-urile migratoare.", en: "One of the world's largest salt pans, important for migratory flamingos." , es: "Uno de los salares más grandes del mundo, importante para los flamencos migratorios.", pt: "Uma das maiores salinas do mundo, importante para os flamingos migratórios.", fr: "L'un des plus grands marais salants du monde, important pour les flamants roses migrateurs."},
     facts: {
       de: ["Überreste eines riesigen Sees.", "Zeitweise Lebensraum für Zebras und Flamingos."],
       hu: ["Egy hatalmas tó maradványai.", "Időszakosan zebra és flamingó élőhely."],
       ro: ["Rămășițele unui lac imens.", "Habitat temporar pentru zebre și flamingo."],
-      en: ["Remnants of a massive lake.", "Seasonal habitat for zebras and flamingos."]
+      en: ["Remnants of a massive lake.", "Seasonal habitat for zebras and flamingos."],
+      es: ["Restos de un lago gigante.", "Hábitat temporal de cebras y flamencos."],
+      pt: ["Restos de um lago gigante.", "Habitat temporário de zebras e flamingos."],
+      fr: ["Vestiges d'un lac géant.", "Habitat temporaire pour les zèbres et les flamants roses."],
     },
     descriptionAdvanced: {
       de: "Die Makgadikgadi-Pfannen im Nordosten Botswanas sind eine der größten Salzpfannenlandschaften der Erde und die Überreste des einst gewaltigen Makgadikgadi-Sees, der vor zehntausenden von Jahren austrocknete. Diese riesige, glitzernd weiße Ebene erstreckt sich über mehr als 16.000 Quadratkilometer und bietet eine surreale, fast außerirdisch wirkende Landschaft. Während der Trockenzeit ist der Boden steinhart und salzkrustig, doch mit dem Einsetzen des Regens verwandelt sich die Region in ein lebensfeindliches Paradies. Die Pfannen füllen sich mit flachem Wasser und locken zehntausende Flamingos zur Brut an. Zudem findet hier eine der größten Zebra- und Gnu-Wanderungen Afrikas statt, wenn die Tiere den frischen Gräsern am Rand der Pfannen folgen. Kulturell ist die Gegend mit uralten archäologischen Stätten und riesigen Baobab-Bäumen wie dem berühmten Chapman's Baobab verbunden. Die Makgadikgadi-Pfannen sind ein Ort der Extreme, der durch seine Stille und seine gewaltige Weite jeden Besucher tief beeindruckt.",
@@ -79,6 +94,9 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["A medencék egy olyan tó maradványai, amely egykor 60 000 km2-t borított be.", "A Makgadikgadi-rendszer a Sua, Nwetwe és Nxai főmedencékből áll.", "Ez az egyik legfontosabb fészkelőhelye a nagy flamingóknak Afrikában.", "Itt található a Chapman-baobab, a kontinens egyik legnagyobb fája.", "A medencékben több mint 100 000 éves kőeszközöket találtak a régészek.", "A zebravándorlás ebben a régióban a második leghosszabb szárazföldi emlősvándorlás Afrikában."],
       ro: ["Câmpiile sunt rămășițele unui lac care acoperea odată 60.000 km pătrați.", "Sistemul Makgadikgadi include bazinele principale Sua, Nwetwe și Nxai.", "Este unul dintre cele mai importante locuri de reproducere pentru flamingo din Africa.", "Regiunea găzduiește baobabul lui Chapman, unul dintre cei mai mari arbori de pe continent.", "În bazine au fost găsite unelte de piatră vechi de peste 100.000 de ani.", "Migrația zebrelor din această zonă este a doua cea mai lungă migrație terestră din Africa."],
       en: ["The pans are the remnants of a lake that once covered 60,000 square kilometers.", "The Makgadikgadi system consists of the Sua, Nwetwe, and Nxai main pans.", "It is one of the most important breeding sites for Greater Flamingos in Africa.", "The area is home to Chapman's Baobab, one of the continent's largest trees.", "Stone tools found in the pans have been dated to over 100.000 years old.", "The zebra migration here is the second-longest land mammal migration in Africa."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/makgadikgadi-pans-animal-habitat-life-v2.webp"},
     {
     id: "gaborone-game-reserve-animal-habitat-life-v2",
@@ -87,12 +105,15 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     coords: [25.92, -24.63],
     name: { de: "Gaborone Game Reserve", hu: "Gaborone Vadaspark", ro: "Rezervația de vânătoare Gaborone", en: "Gaborone Game Reserve"},
     image: "/poi-images/gaborone-game-reserve-animal-habitat-life-v2.webp",
-    description: { de: "Ein kleines, stadtnahes Schutzgebiet für Wildtiere.", hu: "Egy kicsi, városhoz közeli vadaspark.", ro: "O mică rezervație naturală aproape de oraș.", en: "A small, city-adjacent wildlife reserve." },
+    description: { de: "Ein kleines, stadtnahes Schutzgebiet für Wildtiere.", hu: "Egy kicsi, városhoz közeli vadaspark.", ro: "O mică rezervație naturală aproape de oraș.", en: "A small, city-adjacent wildlife reserve." , es: "Una pequeña reserva de vida salvaje cerca de la ciudad.", pt: "Uma pequena reserva de vida selvagem perto da cidade.", fr: "Une petite réserve de faune proche de la ville."},
     facts: {
       de: ["Ideal für Familienausflüge.", "Beobachtung von Straußen und Impalas möglich."],
       hu: ["Ideális családi kirándulásokhoz.", "Struccok és impalák megfigyelése lehetséges."],
       ro: ["Ideal pentru excursii de familie.", "Observarea struților și a impalelor este posibilă."],
-      en: ["Great for family trips.", "Possible to spot ostriches and impalas."]
+      en: ["Great for family trips.", "Possible to spot ostriches and impalas."],
+      es: ["Ideal para excursiones familiares.", "Posibilidad de observar avestruces e impalas."],
+      pt: ["Ideal para passeios em família.", "Possibilidade de observar avestruzes e impalas."],
+      fr: ["Idéal pour les sorties en famille.", "Observation possible d'autruches et d'impalas."],
     },
     descriptionAdvanced: {
       de: "Das Gaborone Game Reserve ist ein kleines, aber hochgelobtes Wildschutzgebiet, das sich innerhalb der Stadtgrenzen von Botswanas Hauptstadt befindet. Es wurde 1988 von der Kalahari Conservation Society gegründet, um der Öffentlichkeit den Naturschutz näherzubringen und den Stadtbewohnern die Möglichkeit zur Wildtierbeobachtung zu geben. Trotz seiner bescheidenen Größe von etwa 600 Hektar beherbergt das Reservat eine beeindruckende Vielfalt an Wildtieren, darunter Breitmaulnashörner, Zebras, Eland-Antilopen, Strauße und Warzenschweine. Es ist auch ein Paradies für Vogelbeobachter, da die verschiedenen Lebensräume wie Buschland und Feuchtgebiete zahlreiche Arten anziehen. Das Reservat verfügt über gut ausgebaute Wege und Beobachtungspunkte, die es zu einem beliebten Ziel für Familien und Schulausflüge machen. Als eines der meistbesuchten Wildschutzgebiete Botswanas spielt es eine wichtige Rolle bei der Sensibilisierung für Umweltfragen in einem städtischen Kontext. Der Park bietet eine friedliche Flucht aus dem geschäftigen Treiben der Hauptstadt und bewahrt gleichzeitig ein wichtiges Stück lokaler Flora und Fauna.",
@@ -105,6 +126,9 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["A rezervátumot hivatalosan 1988-ban nyitották meg.", "Teljes területe körülbelül 600 hektárt tesz ki.", "Látogatószám alapján ez Botswana harmadik legnépszerűbb vadrezervátuma.", "A területen egy védelmi program keretében szélesszájú orrszarvúk is élnek.", "A park növényzetét főként tövises bozótosok és akácosok alkotják.", "A látogatók számára kijelölt piknikezőhelyek és megfigyelőtornyok állnak rendelkezésre."],
       ro: ["Rezervația a fost deschisă oficial în anul 1988.", "Aceasta acoperă o suprafață de aproximativ 600 de hectare.", "Este a treia cea mai vizitată rezervație de vânat din Botswana.", "Găzduiește rinoceri albi ca parte a unui program local de conservare.", "Vegetația constă în principal din savană cu tufișuri spinoase și arbori de acacia.", "Parcul include zone de picnic special amenajate și puncte de observare pentru turiști."],
       en: ["The reserve was officially opened to the public in 1988.", "It covers a total area of approximately 600 hectares.", "It ranks as the third busiest wildlife reserve in Botswana by visitor numbers.", "The sanctuary provides a habitat for white rhinos under a conservation program.", "The ecosystem mainly consists of thorn scrub and acacia woodland.", "The park offers designated picnic sites and bird hides for visitor use."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/gaborone-game-reserve-animal-habitat-life-v2.webp"},
   {
     id: "mokolodi-nature-reserve-animal-habitat-life-v2",
@@ -113,12 +137,15 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     coords: [25.85, -24.75],
     name: { de: "Mokolodi Naturreservat", hu: "Mokolodi Természetvédelmi Terület", ro: "Rezervația Naturală Mokolodi", en: "Mokolodi Nature Reserve"},
     image: "/poi-images/mokolodi-nature-reserve-animal-habitat-life-v2.webp",
-    description: { de: "Ein Bildungszentrum für Naturschutz mit vielen interaktiven Möglichkeiten.", hu: "Természetvédelmi oktatóközpont sok interaktív lehetőséggel.", ro: "Un centru educațional pentru conservarea naturii cu multe oportunități interactive.", en: "An educational center for nature conservation with many interactive opportunities." },
+    description: { de: "Ein Bildungszentrum für Naturschutz mit vielen interaktiven Möglichkeiten.", hu: "Természetvédelmi oktatóközpont sok interaktív lehetőséggel.", ro: "Un centru educațional pentru conservarea naturii cu multe oportunități interactive.", en: "An educational center for nature conservation with many interactive opportunities." , es: "Un centro educativo para la conservación de la naturaleza con muchas opciones interactivas.", pt: "Um centro educativo para a conservação da natureza com muitas opções interativas.", fr: "Un centre éducatif pour la conservation de la nature avec de nombreuses possibilités interactives."},
     facts: {
       de: ["Unterstützt das Rhino-Schutzprojekt.", "Tolle Möglichkeiten für Kinder."],
       hu: ["Támogatja az orrszarvú-védelmi projektet.", "Kiváló lehetőségek gyerekeknek."],
       ro: ["Susține proiectul de conservare a rinocerilor.", "Oportunități excelente pentru copii."],
-      en: ["Supports rhino conservation project.", "Great opportunities for children."]
+      en: ["Supports rhino conservation project.", "Great opportunities for children."],
+      es: ["Apoya el proyecto de protección del rinoceronte.", "Grandes oportunidades para los niños."],
+      pt: ["Apoia o projeto de proteção do rinoceronte.", "Grandes oportunidades para as crianças."],
+      fr: ["Soutient le projet de protection des rhinocéros.", "De superbes opportunités pour les enfants."],
     },
     descriptionAdvanced: {
       de: "Das Mokolodi Nature Reserve ist ein privates Naturschutzgebiet im Süden Botswanas, etwa 15 Kilometer südlich der Hauptstadt Gaborone. Es wurde 1994 von der Mokolodi Wildlife Foundation auf Initiative von Ian Khama gegründet und verfolgt eine doppelte Mission: Naturschutz und Umwelterziehung. Das 3.700 Hektar große Reservat dient als Zufluchtsort für eine Vielzahl von Tieren, darunter Giraffen, Zebras, Flusspferde und Breitmaulnashörner, die erfolgreich wieder angesiedelt wurden. Ein besonderer Schwerpunkt liegt auf Bildungsprogrammen, die jährlich tausende botswanische Schulkinder empfangen, um ihnen die Bedeutung des ökologischen Erbes näherzubringen. Mokolodi finanziert sich fast ausschließlich durch Ökotourismus und Spenden, was es zu einem Vorzeigemodell für nachhaltigen privaten Naturschutz macht. Neben Safaris bietet das Reservat auch Wanderungen und Bildungszentren an. Die Landschaft ist geprägt von felsigen Hügeln und Akazien-Savannen, die einen wertvollen Lebensraum für die heimische Flora und Fauna bieten. Mokolodi bleibt ein unverzichtbarer Akteur bei der Formung des Umweltbewusstseins der nächsten Generation in Botswana.",
@@ -131,6 +158,9 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["A Mokolodi Természetvédelmi Rezervátumot 1994-ben alapították.", "A rezervátum teljes területe 3700 hektárt foglal magában.", "A területet a Khama család adományozta természetvédelmi célokra.", "A rezervátum sikeres szélesszájú orrszarvú tenyésztési és védelmi programot működtet.", "Évente több mint 10 000 diák látogatja a rezervátum oktatási központját.", "Ez az egyik kevés terület Gaborone közelében, ahol gepárdokat is lehet látni."],
       ro: ["Rezervația Naturală Mokolodi a fost înființată oficial în anul 1994.", "Aceasta se întinde pe o suprafață de 3.700 de hectare.", "Terenul a fost donat de familia Khama în scopuri de conservare.", "Rezervația găzduiește un program de succes pentru protejarea rinocerilor albi.", "Peste 10.000 de elevi vizitează anual centrul educațional al rezervației.", "Este una dintre puținele zone de lângă Gaborone unde pot fi observați gheparzi."],
       en: ["Mokolodi Nature Reserve was officially founded in 1994.", "It covers a total land area of 3,700 hectares.", "The land was donated by the Khama family specifically for conservation purposes.", "The reserve operates a successful white rhino breeding and protection program.", "More than 10,000 students visit the reserve's education center every year.", "It is one of the few places near Gaborone where cheetahs can be spotted."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/mokolodi-nature-reserve-animal-habitat-life-v2.webp"},
   {
     id: "northern-tulifarm-agriculture-life-v2",
@@ -139,12 +169,15 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     coords: [29.15, -22.18],
     name: { de: "Tuli-Block Farmgebiet", hu: "Tuli-Block mezőgazdasági terület", ro: "Regiunea agricolă Tuli-Block", en: "Tuli Block Farm Region"},
     image: "/poi-images/northern-tulifarm-agriculture-life-v2.webp",
-    description: { de: "Ein fruchtbares Landwirtschaftsgebiet entlang des Limpopo-Flusses.", hu: "Termékeny mezőgazdasági terület a Limpopo folyó mentén.", ro: "O regiune agricolă fertilă de-a lungul râului Limpopo.", en: "A fertile agricultural region along the Limpopo River." },
+    description: { de: "Ein fruchtbares Landwirtschaftsgebiet entlang des Limpopo-Flusses.", hu: "Termékeny mezőgazdasági terület a Limpopo folyó mentén.", ro: "O regiune agricolă fertilă de-a lungul râului Limpopo.", en: "A fertile agricultural region along the Limpopo River." , es: "Una zona agrícola fértil a lo largo del río Limpopo.", pt: "Uma área agrícola fértil ao longo do rio Limpopo.", fr: "Une zone agricole fertile le long de la rivière Limpopo."},
     facts: {
       de: ["Hauptanbau von Nutzpflanzen.", "Reich an Wildtieren in den Randgebieten."],
       hu: ["Fő növénytermesztési terület.", "Vadállatokban gazdag a peremvidékeken."],
       ro: ["Principală regiune de culturi.", "Bogată în animale sălbatice la periferie."],
-      en: ["Main crop production area.", "Rich in wildlife on the fringes."]
+      en: ["Main crop production area.", "Rich in wildlife on the fringes."],
+      es: ["Cultivo principal de plantas útiles.", "Rica fauna salvaje en las zonas periféricas."],
+      pt: ["Cultivo principal de plantas úteis.", "Vida selvagem rica nas zonas periféricas."],
+      fr: ["Culture principale de plantes utiles.", "Faune riche dans les zones périphériques."],
     },
     descriptionAdvanced: {
       de: "Das Tuli Block Farm-Gebiet im Osten Botswanas ist ein schmaler Landstreifen von großer wirtschaftlicher und ökologischer Bedeutung, der sich entlang des Limpopo-Flusses erstreckt. Ursprünglich wurde das Gebiet 1895 der British South Africa Company für den Bau einer Eisenbahnlinie gewährt, entwickelte sich jedoch später zu einer wichtigen landwirtschaftlichen Region. Heute ist der Tuli Block für seine fruchtbaren Böden bekannt, die durch den Limpopo bewässert werden und den Anbau von Zitrusfrüchten, Gemüse und Getreide ermöglichen. Neben der Landwirtschaft beherbergt die Region auch zahlreiche private Wildreservate, wie das renommierte Mashatu Game Reserve, das für seine großen Elefantenherden und spektakulären Landschaften mit Sandsteinfelsen und riesigen Mashatu-Bäumen berühmt ist. Die Kombination aus kommerziellem Ackerbau und Naturschutz macht den Tuli Block zu einer einzigartigen Kulturlandschaft an der Grenze zu Südafrika und Simbabwe. Die Region spielt eine Schlüsselrolle für die Ernährungssicherheit und den Tourismussektor im Osten Botswanas. Die historische Bedeutung als ehemaliges Konzessionsgebiet spiegelt sich noch heute in den Eigentumsstrukturen und der Infrastruktur der Region wider.",
@@ -157,6 +190,9 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["A területet eredetileg 1895-ben vasúti koncesszióként adományozták.", "A Tuli-blokk körülbelül 10-20 kilométer széles és közel 400 kilométer hosszú.", "A Limpopo-folyó az ültetvények elsődleges öntözési forrása.", "Ez Botswana azon kevés területeinek egyike, ahol nagyüzemi kereskedelmi növénytermesztés folyik.", "Itt található a Mashatu, Dél-Afrika legnagyobb magánkézben lévő vadrezervátuma.", "A régió híres a masszív Mashatu-fákról (Nyala-fa), amelyek több száz évesek."],
       ro: ["Zona a fost acordată inițial ca o concesiune feroviară în anul 1895.", "Tuli Block are o lățime de circa 10-20 km și o lungime de aproape 400 km.", "Râul Limpopo reprezintă principala sursă de irigare pentru fermele din regiune.", "Este una dintre puținele zone din Botswana unde se practică agricultura comercială pe scară largă.", "Regiunea include Mashatu, cea mai mare rezervație privată de vânat din Africa de Sud.", "Zona este renumită pentru arborii Mashatu giganți care pot trăi sute de ani."],
       en: ["The area was originally granted as a railway concession in 1895.", "The Tuli Block is approximately 10 to 20 kilometers wide and nearly 400 kilometers long.", "The Limpopo River serves as the primary irrigation source for the local farms.", "It is one of the few areas in Botswana where large-scale commercial arable farming occurs.", "It houses Mashatu, the largest private game reserve in Southern Africa.", "The region is famous for its massive Mashatu (Nyala) trees, some of which are centuries old."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/northern-tulifarm-agriculture-life-v2.webp"},
   {
     id: "boteti-river-region-animal-habitat-life-v2",
@@ -165,12 +201,15 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     coords: [24.40, -21.15],
     name: { de: "Boteti-Flussregion", hu: "Boteti folyóvidék", ro: "Regiunea râului Boteti", en: "Boteti River Region"},
     image: "/poi-images/boteti-river-region-animal-habitat-life-v2.webp",
-    description: { de: "Ein wichtiges Wasserreservoir für die umliegende Tierwelt.", hu: "Fontos víztározó a környékbeli állatvilág számára.", ro: "Un important rezervor de apă pentru fauna din jur.", en: "An important water reservoir for local wildlife." },
+    description: { de: "Ein wichtiges Wasserreservoir für die umliegende Tierwelt.", hu: "Fontos víztározó a környékbeli állatvilág számára.", ro: "Un important rezervor de apă pentru fauna din jur.", en: "An important water reservoir for local wildlife." , es: "Un importante reservorio de agua para la fauna circundante.", pt: "Um reservatório de água importante para a fauna circundante.", fr: "Un important réservoir d'eau pour la faune environnante."},
     facts: {
       de: ["Zieht Zebras und Elefanten an.", "Lebensader in einer trockenen Umgebung."],
       hu: ["Zebrákat és elefántokat vonz.", "Életér a száraz környezetben."],
       ro: ["Atrage zebre și elefanți.", "O arteră vitală într-un mediu arid."],
-      en: ["Attracts zebras and elephants.", "Lifeline in a dry environment."]
+      en: ["Attracts zebras and elephants.", "Lifeline in a dry environment."],
+      es: ["Atrae cebras y elefantes.", "Fuente de vida en un entorno seco."],
+      pt: ["Atrai zebras e elefantes.", "Fonte de vida num ambiente seco."],
+      fr: ["Attire les zèbres et les éléphants.", "Source de vie dans un environnement sec."],
     },
     descriptionAdvanced: {
       de: "Die Boteti-Flussregion im Zentrum Botswanas bildet eine lebenswichtige ökologische Brücke zwischen dem Okavango-Delta und den trockenen Makgadikgadi-Salzpfannen. Historisch gesehen war der Fluss eine beständige Wasserquelle, doch tektonische Verschiebungen und klimatische Veränderungen führten dazu, dass er zwischen 1991 und 2008 fast vollständig austrocknete. Seit der Rückkehr des Wassers dient der Fluss wieder als primäre Tränke für Tausende von Wandertieren, darunter die zweitgrößte Zebra- und Gnu-Migration Afrikas. Die Landschaft ist geprägt von steilen Ufern und einer üppigen Ufervegetation, die einen starken Kontrast zur umliegenden Kalahari-Strauchsteppe bildet. Lokale Gemeinschaften nutzen die saisonalen Fluten für den Ackerbau und die Viehzucht, wobei das Wasser entscheidend für das Überleben der Rinderherden in der Trockenzeit ist. Die Region ist zudem ein bedeutendes Forschungsgebiet für Hydrologen und Biologen, die das Zusammenspiel von Oberflächenwasser und Grundwasserspiegel in semi-ariden Zonen untersuchen.",
@@ -183,6 +222,9 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["A folyó 1991 és 2008 között szinte teljesen kiszáradt az apadás miatt.", "Ez a vízfolyás alkotja a Makgadikgadi Pans Nemzeti Park nyugati határát.", "A Boteti vízutánpótlása elsősorban az Okavango-deltából származik.", "A száraz évszakban zebrak és gnúk tízezrei vonulnak a folyóhoz.", "A területen jelentős víziló- és krokodilpopuláció él a vizes szakaszokon.", "A folyóparti üledékekben kőkorszaki eszközöket és maradványokat találtak."],
       ro: ["Râul a fost aproape complet secat pentru o perioadă de 17 ani, până în 2008.", "Acesta marchează limita vestică a Parcului Național Makgadikgadi Pans.", "Debitul râului depinde direct de revărsările anuale ale Deltei Okavango.", "Susține a doua cea mai mare migrație terestră de mamifere din Africa.", "Concentrația de hipopotami a crescut semnificativ după revenirea apei.", "Malurile râului au fost locuite de oameni încă din epoca pietrei."],
       en: ["The river remained largely dry for a 17-year period ending in 2008.", "It serves as the western boundary of the Makgadikgadi Pans National Park.", "The Boteti receives its water supply primarily from the Okavango Delta.", "It supports the second largest terrestrial wildlife migration in Africa.", "High concentrations of hippos and crocodiles are found in the deeper pools.", "Archaeological sites along the banks date back to the Middle Stone Age."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/boteti-river-region-animal-habitat-life-v2.webp"},
   {
     id: "central-kalahari-game-reserve-animal-habitat-life-v2",
@@ -191,12 +233,15 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     coords: [23.50, -21.66],
     name: { de: "Central Kalahari Game Reserve", hu: "Központi Kalahári Vadaspark", ro: "Rezervația Central Kalahari", en: "Central Kalahari Game Reserve"},
     image: "/poi-images/central-kalahari-game-reserve-animal-habitat-life-v2.webp",
-    description: { de: "Eines der größten und abgelegensten Wildschutzgebiete Afrikas.", hu: "Afrika egyik legnagyobb és legfélreesőbb vadrezervátuma.", ro: "Una dintre cele mai mari și mai izolate rezervații de animale din Africa.", en: "One of Africa's largest and most remote game reserves." },
+    description: { de: "Eines der größten und abgelegensten Wildschutzgebiete Afrikas.", hu: "Afrika egyik legnagyobb és legfélreesőbb vadrezervátuma.", ro: "Una dintre cele mai mari și mai izolate rezervații de animale din Africa.", en: "One of Africa's largest and most remote game reserves." , es: "Una de las reservas de fauna más grandes y remotas de África.", pt: "Uma das maiores e mais remotas reservas de vida selvagem de África.", fr: "L'une des réserves de faune les plus grandes et les plus reculées d'Afrique."},
     facts: {
       de: ["Weite Flächen ohne Zäune.", "Heimat vieler verschiedener Antilopenarten."],
       hu: ["Hatalmas területek kerítések nélkül.", "Számos antilopfaj otthona."],
       ro: ["Suprafețe vaste fără garduri.", "Cămin pentru numeroase specii de antilope."],
-      en: ["Vast areas without fences.", "Home to many species of antelope."]
+      en: ["Vast areas without fences.", "Home to many species of antelope."],
+      es: ["Vastas áreas sin vallas.", "Hogar de muchas especies diferentes de antílopes."],
+      pt: ["Vastas áreas sem vedações.", "Lar de muitas espécies diferentes de antílopes."],
+      fr: ["De vastes zones sans clôtures.", "Abrite de nombreuses espèces d'antilopes différentes."],
     },
     descriptionAdvanced: {
       de: "Das Central Kalahari Game Reserve (CKGR) in Botswana ist mit einer Fläche von rund 52.800 Quadratkilometern eines der größten Schutzgebiete der Welt. Es wurde 1961 gegründet, um sowohl der Tierwelt als auch dem Volk der San (Basarwa) einen geschützten Lebensraum zu bieten. Die Geografie ist geprägt von weiten, flachen Ebenen, versteinerten Flussbetten und sanften Dünen, die mit Akazien und kurzem Gras bewachsen sind. Trotz der extremen Trockenheit beherbergt das Reservat eine beeindruckende Vielfalt an Wildtieren, darunter die berühmten schwarzmähnigen Kalahari-Löwen, Geparden und riesige Herden von Spießböcken. Die Lebensbedingungen sind extrem, mit Temperaturen, die im Sommer über 40 Grad steigen und im Winter unter den Gefrierpunkt fallen können. Für die San ist das Reservat von immenser kultureller Bedeutung, da sie hier seit Jahrtausenden als Jäger und Sammler leben. In den letzten Jahrzehnten führten Landnutzungskonflikte und Umsiedlungen zu internationalen juristischen Auseinandersetzungen über die Rechte der indigenen Bevölkerung.",
@@ -209,6 +254,9 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["A rezervátum 52 800 km²-es területe nagyobb, mint egész Svájc.", "1961-ben, még a brit protektorátus idején hozták létre.", "A Deception-völgy a terület egyik legismertebb fosszilis folyómedre.", "A rezervátum területén nincsenek állandó felszíni vízforrások.", "A szan népcsoport bizonyítottan 20 000 éve lakja a területet.", "Az 1980-as években jelentős gyémántlelőhelyeket találtak a határain belül."],
       ro: ["Cu o suprafață de 52.800 km², este mai mare decât Elveția.", "A fost înființată în 1961, înainte de independența Botswanei.", "Valea Deception este cea mai cunoscută albie de râu fosilizată din nord.", "Nu există surse naturale de apă permanentă la suprafață în rezervație.", "Populația San locuiește în această regiune de peste 20.000 de ani.", "Zăcăminte de diamante au fost descoperite în interiorul rezervației în anii '80."],
       en: ["At 52,800 km², the reserve is larger than the country of Switzerland.", "It was established in 1961 during the British protectorate era.", "Deception Valley is a major fossilized riverbed located in the north.", "There are no permanent natural surface water sources in the reserve.", "The San people have inhabited the region for at least 20,000 years.", "Significant diamond deposits were discovered at Gope within the reserve."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/central-kalahari-game-reserve-animal-habitat-life-v2.webp"},
   {
     id: "moremi-game-reserve-animal-habitat-life-v2",
@@ -217,12 +265,15 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     coords: [23.50, -19.41],
     name: { de: "Moremi-Wildreservat", hu: "Moremi Vadaspark", ro: "Rezervația de vânătoare Moremi", en: "Moremi Game Reserve"},
     image: "/poi-images/moremi-game-reserve-animal-habitat-life-v2.webp",
-    description: { de: "Ein ökologisch vielfältiges Schutzgebiet am Rande des Okavango-Deltas.", hu: "Ökológiailag változatos védett terület az Okavango-delta szélén.", ro: "O rezervație ecologic diversă la marginea Deltei Okavango.", en: "An ecologically diverse reserve on the edge of the Okavango Delta." },
+    description: { de: "Ein ökologisch vielfältiges Schutzgebiet am Rande des Okavango-Deltas.", hu: "Ökológiailag változatos védett terület az Okavango-delta szélén.", ro: "O rezervație ecologic diversă la marginea Deltei Okavango.", en: "An ecologically diverse reserve on the edge of the Okavango Delta." , es: "Una reserva protegida ecológicamente diversa en el borde del delta del Okavango.", pt: "Uma reserva protegida ecologicamente diversa na borda do delta do Okavango.", fr: "Une zone protégée écologiquement diversifiée en bordure du delta de l'Okavango."},
     facts: {
       de: ["Bekannt für Wildhunde.", "Sehr artenreich."],
       hu: ["Ismert a vadkutyákról.", "Nagyon fajgazdag."],
       ro: ["Cunoscută pentru câinii sălbatici.", "Foarte bogată în specii."],
-      en: ["Known for wild dogs.", "Very species-rich."]
+      en: ["Known for wild dogs.", "Very species-rich."],
+      es: ["Conocido por los perros salvajes.", "Muy rico en especies."],
+      pt: ["Conhecido pelos cães selvagens.", "Muito rico em espécies."],
+      fr: ["Connu pour ses lycaons.", "Très riche en espèces."],
     },
     descriptionAdvanced: {
       de: "Das Moremi Game Reserve liegt im östlichen Teil des Okavango-Deltas und gilt als eines der schönsten und vielfältigsten Schutzgebiete Afrikas. Es wurde 1963 vom Volk der Batawana gegründet und war das erste Reservat in Afrika, das von einer lokalen Gemeinschaft und nicht von einer Kolonialverwaltung initiiert wurde. Das Reservat umfasst eine Fläche von etwa 4.871 Quadratkilometern und vereint dauerhafte Wasserwege, Lagunen, saisonale Überschwemmungsgebiete und trockenes Tafelland. Besonders markant ist die Chief's Island, eine große Landmasse im Herzen des Deltas, die einen Rückzugsort für bedrohte Arten wie das Breit- und Spitzmaulnashorn bietet. Die Vegetation variiert von dichten Mopane-Wäldern bis hin zu offenen Savannen, was eine außergewöhnliche Artenvielfalt begünstigt. Moremi beherbergt eine der bedeutendsten Populationen des Afrikanischen Wildhundes weltweit sowie große Herden von Elefanten und Büffeln. Das Management des Reservats balanciert erfolgreich zwischen Naturschutz und exklusivem Ökotourismus.",
@@ -235,6 +286,9 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["A rezervátumot 1963-ban III. Moremi törzsfőnök özvegye alapította.", "A terület az Okavango-delta teljes területének mintegy 30%-át teszi ki.", "A Chief's Island a legnagyobb összefüggő szárazulat a rezervátumban.", "Moremi kulcsszerepet játszik az orrszarvúk visszatelepítési programjában.", "Több mint 500 madárfajt dokumentáltak a rezervátum határain belül.", "Ez volt az első afrikai park, amelyet őslakos közösség nyilvánított védetté."],
       ro: ["Rezervația a fost fondată în 1963 de văduva șefului de trib Moremi III.", "Acoperă aproximativ 30% din suprafața totală a Deltei Okavango.", "Chief's Island este cea mai mare masă terestră din interiorul rezervației.", "Moremi este un sit esențial pentru reintroducerea rinocerilor în sălbăticie.", "Peste 500 de specii de păsări au fost documentate în acest areal.", "A fost prima arie protejată din Africa proclamată de un grup indigen."],
       en: ["The reserve was founded in 1963 by the widow of Chief Moremi III.", "It encompasses approximately 30% of the entire Okavango Delta area.", "Chief's Island is the largest landmass found within the reserve's borders.", "Moremi is a key site for the reintroduction of both black and white rhinos.", "Over 500 species of birds have been officially recorded in the area.", "It was the first wildlife sanctuary in Africa to be proclaimed by a local tribe."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/moremi-game-reserve-animal-habitat-life-v2.webp"},
   {
     id: "nxai-pan-national-park-animal-habitat-life-v2",
@@ -243,12 +297,15 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     coords: [24.83, -19.91],
     name: { de: "Nxai-Pan-Nationalpark", hu: "Nxai Pan Nemzeti Park", ro: "Parcul Național Nxai Pan", en: "Nxai Pan National Park"},
     image: "/poi-images/nxai-pan-national-park-animal-habitat-life-v2.webp",
-    description: { de: "Ein flaches, grasiges Gebiet, das nach Regen grün wird.", hu: "Lapos, füves terület, amely eső után zöldell.", ro: "O zonă plată, ierboasă, care înverzește după ploi.", en: "A flat, grassy area that turns green after rain." },
+    description: { de: "Ein flaches, grasiges Gebiet, das nach Regen grün wird.", hu: "Lapos, füves terület, amely eső után zöldell.", ro: "O zonă plată, ierboasă, care înverzește după ploi.", en: "A flat, grassy area that turns green after rain." , es: "Una zona llana y cubierta de hierba que se vuelve verde tras la lluvia.", pt: "Uma área plana e gramada que fica verde após a chuva.", fr: "Une zone plate et herbeuse qui devient verte après la pluie."},
     facts: {
       de: ["Beste Zeit: Regenzeit.", "Große Springbockherden."],
       hu: ["Legjobb időszak: esős évszak.", "Nagy tavaszbak csordák."],
       ro: ["Cea mai bună perioadă: sezonul ploios.", "Turme mari de antilope tavaszbak."],
-      en: ["Best time: rainy season.", "Large springbok herds."]
+      en: ["Best time: rainy season.", "Large springbok herds."],
+      es: ["Mejor época: temporada de lluvias.", "Grandes manadas de springboks."],
+      pt: ["Melhor época: época das chuvas.", "Grandes manadas de springboks."],
+      fr: ["Meilleur moment : la saison des pluies.", "Grands troupeaux de springboks."],
     },
     descriptionAdvanced: {
       de: "Der Nxai-Pan-Nationalpark im Norden Botswanas ist Teil des riesigen Makgadikgadi-Pfannen-Komplexes und bietet eine surreale Landschaft aus fossilen Salzpfannen und Grasland. Das Herzstück des Parks ist die Nxai-Pfanne, ein ehemaliger Seeboden, der heute mit nahrhaftem Kurzgras bewachsen ist und während der Regenzeit riesige Herden von Zebras und Gnus anzieht. Ein historisches Highlight im Park sind die 'Baines' Baobabs', eine Gruppe von sieben markanten Affenbrotbäumen, die 1862 vom Maler Thomas Baines verewigt wurden und sich seitdem kaum verändert haben. Im Gegensatz zu vielen anderen Parks in Botswana bietet Nxai Pan eine einzigartige Gelegenheit, Wüstentiere wie Springböcke und Schabrackenhyänen neben klassischen Savannenbewohnern zu sehen. Die Regenzeit von Dezember bis März verwandelt die trockene Pfanne in ein Paradies für Zugvögel und Raubtiere. Das Klima ist semi-arid mit extremen Temperaturschwankungen zwischen Tag und Nacht, was die Überlebensstrategien der Flora und Fauna maßgeblich bestimmt.",
@@ -261,6 +318,9 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["A parkot 1992-ben alapították, területe 2100 négyzetkilométer.", "Nxai Pan egykor a hatalmas prehisztorikus Makgadikgadi-tó része volt.", "A Baines-baobabok korát több mint 1000 évre becsülik a kutatók.", "Itt zajlik Afrika egyik leghosszabb dokumentált zebra-migrációja.", "A parkban él a ritka és különleges megjelenésű lapátfülű róka is.", "Az egyetlen állandó vízforrás a területen egy mesterséges fúrt kút."],
       ro: ["Parcul a fost înființat în 1992 și acoperă o suprafață de 2.100 km².", "Nxai Pan a fost odată parte din imensul lac preistoric Makgadikgadi.", "Baobabii lui Baines au o vârstă estimată la peste 1.000 de ani.", "Găzduiește cea mai lungă migrație de zebre documentată din Africa.", "Parcul este unul dintre puținele locuri unde pot fi văzute hiene brune.", "Singura sursă de apă permanentă este un puț forat administrat de parc."],
       en: ["The park was established in 1992 and covers 2,100 square kilometers.", "Nxai Pan was once part of the massive prehistoric Lake Makgadikgadi.", "Baines' Baobabs are estimated to be over 1,000 years old.", "The park hosts the longest documented zebra migration in Africa.", "It is a reliable location for spotting the elusive brown hyena.", "The only permanent water source is an artificial waterhole for wildlife."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/nxai-pan-national-park-animal-habitat-life-v2.webp"},
   {
     id: "kubu-island-kid-landmark-life-v2",
@@ -269,12 +329,15 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     coords: [25.82, -20.89],
     name: { de: "Kubu-Insel", hu: "Kubu-sziget", ro: "Insula Kubu", en: "Kubu Island"},
     image: "/poi-images/kubu-island-kid-landmark-life-v2.webp",
-    description: { de: "Eine Felseninsel inmitten der Makgadikgadi-Salzpfannen.", hu: "Sziklasziget a Makgadikgadi-sós síkság közepén.", ro: "O insulă stâncoasă în mijlocul depresiunilor sărate Makgadikgadi.", en: "A rocky island in the middle of the Makgadikgadi salt pans." },
+    description: { de: "Eine Felseninsel inmitten der Makgadikgadi-Salzpfannen.", hu: "Sziklasziget a Makgadikgadi-sós síkság közepén.", ro: "O insulă stâncoasă în mijlocul depresiunilor sărate Makgadikgadi.", en: "A rocky island in the middle of the Makgadikgadi salt pans." , es: "Una isla rocosa en medio de los salares de Makgadikgadi.", pt: "Uma ilha rochosa no meio das salinas de Makgadikgadi.", fr: "Une île rocheuse au milieu des marais salants de Makgadikgadi."},
     facts: {
       de: ["Beeindruckende Baobab-Bäume.", "Geologisch faszinierend."],
       hu: ["Lenyűgöző baobab fák.", "Geológiailag lenyűgöző."],
       ro: ["Copaci baobab impresionanți.", "Fascinant din punct de vedere geologic."],
-      en: ["Impressive baobab trees.", "Geologically fascinating."]
+      en: ["Impressive baobab trees.", "Geologically fascinating."],
+      es: ["Impresionantes árboles baobab.", "Geológicamente fascinante."],
+      pt: ["Impressionantes árvores de baobá.", "Geologicamente fascinante."],
+      fr: ["Baobabs impressionnants.", "Géologiquement fascinant."],
     },
     descriptionAdvanced: {
       de: "Kubu Island, auch bekannt als Lekhubu, ist eine mystische Granitfelsinsel, die sich aus der flachen, weißen Salzebene der Sua-Pfanne im Norden Botswanas erhebt. Die Insel ist von bizarren, jahrhundertealten Affenbrotbäumen (Baobabs) bewachsen, deren Silhouetten besonders bei Sonnenuntergang ein faszinierendes Bild abgeben. Geologisch gesehen ist Kubu Island ein Überbleibsel des prähistorischen Makgadikgadi-Sees, dessen Wellen einst die Granitfelsen formten. Für die lokale Bevölkerung der Basarwa und Bamangwato ist die Insel ein heiliger Ort, an dem bis heute traditionelle Zeremonien abgehalten werden. Archäologische Funde wie Steinmauern und Artefakte deuten darauf hin, dass die Insel bereits während der Eisenzeit besiedelt war und möglicherweise Verbindungen zum Groß-Simbabwe-Reich bestanden. Kubu Island ist heute ein geschütztes Nationaldenkmal und wird gemeinschaftlich von der lokalen Bevölkerung verwaltet, um den sanften Tourismus mit dem Schutz des kulturellen Erbes zu verbinden.",
@@ -287,6 +350,9 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["A 'Kubu' név setswana nyelven vízilovat jelent.", "A sziget körülbelül 10 méterrel magasodik a Sua-medence síkja fölé.", "A szigeten található kőfalmaradványok a 15. századból származnak.", "Kubu-sziget a rózsás flamingók egyik fontos fészkelőhelye.", "A sziget gránitkőzetei mintegy 2,7 milliárd évesek.", "A területet a Gaing-O Közösségi Alapítvány gondozza."],
       ro: ["Numele 'Kubu' înseamnă 'hipopotam' în limba Setswana.", "Insula se ridică la aproximativ 10 metri deasupra suprafeței Sua Pan.", "Zidurile de piatră de pe insulă datează din secolul al XV-lea.", "Insula Kubu este un loc important de cuibărit pentru flamingo roz.", "Rocile de granit au o vechime de aproximativ 2,7 miliarde de ani.", "Monumentul este administrat de Gaing-O Community Trust."],
       en: ["The name 'Kubu' translates to 'hippopotamus' in the Setswana language.", "The island rises approximately 10 meters above the surface of Sua Pan.", "Stone wall ruins on the island date back to the 15th century.", "Kubu Island is a major breeding site for Greater Flamingos during floods.", "The granite rocks forming the island are about 2.7 billion years old.", "The site is managed by the local Gaing-O Community Trust."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/kubu-island-kid-landmark-life-v2.webp"},
   {
     id: "khama-rhino-sanctuary-animal-habitat-life-v2",
@@ -295,12 +361,15 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     coords: [26.70, -22.31],
     name: { de: "Khama Rhino Schutzgebiet", hu: "Khama Orrszarvú Rezervátum", ro: "Rezervația de rinoceri Khama", en: "Khama Rhino Sanctuary"},
     image: "/poi-images/khama-rhino-sanctuary-animal-habitat-life-v2.webp",
-    description: { de: "Ein Schutzprojekt, das sich dem Erhalt des Breitmaulnashorns widmet.", hu: "Védelmi projekt a fehér orrszarvú megmentésére.", ro: "Un proiect de conservare dedicat salvării rinocerului alb.", en: "A conservation project dedicated to saving the white rhino." },
+    description: { de: "Ein Schutzprojekt, das sich dem Erhalt des Breitmaulnashorns widmet.", hu: "Védelmi projekt a fehér orrszarvú megmentésére.", ro: "Un proiect de conservare dedicat salvării rinocerului alb.", en: "A conservation project dedicated to saving the white rhino." , es: "Un proyecto de conservación dedicado a la preservación del rinoceronte blanco.", pt: "Um projeto de conservação dedicado à preservação do rinoceronte-branco.", fr: "Un projet de conservation dédié à la préservation du rhinocéros blanc."},
     facts: {
       de: ["Erfolgreiche Zucht von Nashörnern.", "Bildungsprogramme für Kinder."],
       hu: ["Sikeres orrszarvú tenyésztés.", "Oktatási programok gyerekeknek."],
       ro: ["Creșterea cu succes a rinocerilor.", "Programe educaționale pentru copii."],
-      en: ["Successful rhino breeding.", "Educational programs for children."]
+      en: ["Successful rhino breeding.", "Educational programs for children."],
+      es: ["Cría exitosa de rinocerontes.", "Programas educativos para niños."],
+      pt: ["Criação bem-sucedida de rinocerontes.", "Programas educativos para crianças."],
+      fr: ["Élevage réussi de rhinocéros.", "Programmes éducatifs pour les enfants."],
     },
     descriptionAdvanced: {
       de: "Das Khama Rhino Sanctuary (KRS) ist ein gemeindebasiertes Wildtierschutzprojekt in der Nähe von Serowe in Botswana. Es wurde 1992 gegründet, um das bedrohte Breit- und Spitzmaulnashorn vor der Ausrottung zu bewahren und gleichzeitig der lokalen Gemeinschaft wirtschaftliche Vorteile durch Tourismus zu ermöglichen. Das Schutzgebiet umfasst etwa 8.500 Hektar Land, das hauptsächlich aus Kalahari-Sandveld mit dichten Mopane- und Akazienwäldern besteht. Im Zentrum des Reservats befindet sich die Serwe Pan, eine natürliche Senke, die als wichtige Wasserquelle und Minerallecke für die Tiere dient. Neben Nashörnern beherbergt das KRS auch Zebras, Giraffen, Gnus und über 230 Vogelarten. Das Projekt gilt als eines der erfolgreichsten Naturschutzmodelle Botswanas, da es Bildungsprogramme für lokale Schulen anbietet und die Nashornpopulation so weit vergrößert hat, dass Tiere in andere Nationalparks ausgewildert werden können. Die Sicherheit wird durch intensive Patrouillen der Botswana Defence Force und privater Ranger gewährleistet.",
@@ -313,6 +382,9 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["A projektet egy korábbi állattenyésztő telep helyén hozták létre.", "A KRS 1992-ben alakult Ian Khama elnök védnöksége alatt.", "A területen szélesszájú és a jóval ritkább keskenyszájú orrszarvúk is élnek.", "A Serwe Pan egy kiszáradt tómeder, amely esőzéskor telik meg vízzel.", "A központ speciális környezeti nevelést nyújt a botswanai fiataloknak.", "A rezervátumban született orrszarvúkat gyakran telepítik át a Moremi-rezervátumba."],
       ro: ["Proiectul a fost stabilit pe locul unei foste ferme de vite.", "KRS a fost înființat în 1992 sub patronajul lui Ian Khama.", "Găzduiește atât rinoceri albi, cât și rinoceri negri, mai rari.", "Serwe Pan este o albie de lac uscat care se umple în timpul ploilor.", "Centrul oferă educație ecologică specializată pentru tinerii din Botswana.", "Rinocerii în exces sunt relocați în Rezervația Moremi pentru a susține populația de acolo."],
       en: ["The project was established on the site of a former cattle farm.", "KRS was founded in 1992 under the patronage of Ian Khama.", "It provides a habitat for both white rhinos and the rarer black rhinos.", "Serwe Pan is a large dry pan that fills with water during the rainy season.", "The sanctuary operates a dedicated environmental education center for youth.", "Rhinos bred here are used to restock populations in the Moremi Game Reserve."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/khama-rhino-sanctuary-animal-habitat-life-v2.webp"},
   {
     id: "gaborone-dam-kid-landmark-life-v2",
@@ -348,12 +420,15 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     coords: [23.41, -19.98],
     name: { de: "Maun Bildungszentrum", hu: "Maun oktatási központ", ro: "Centrul educațional Maun", en: "Maun Education Center"},
     image: "/poi-images/maun-education-center-kid-landmark-life-v2.webp",
-    description: { de: "Ein Zentrum, das Kindern die Tierwelt des Deltas näher bringt.", hu: "Központ, amely közelebb hozza a gyermekekhez a delta állatvilágát.", ro: "Un centru care apropie lumea animală a deltei de copii.", en: "A center bringing the delta's wildlife closer to children." },
+    description: { de: "Ein Zentrum, das Kindern die Tierwelt des Deltas näher bringt.", hu: "Központ, amely közelebb hozza a gyermekekhez a delta állatvilágát.", ro: "Un centru care apropie lumea animală a deltei de copii.", en: "A center bringing the delta's wildlife closer to children." , es: "Un centro que acerca la fauna del delta a los niños.", pt: "Um centro que aproxima a vida selvagem do delta das crianças.", fr: "Un centre qui fait découvrir la faune du delta aux enfants."},
     facts: {
       de: ["Interaktive Ausstellungen.", "Fokus auf Artenschutz."],
       hu: ["Interaktív kiállítások.", "Fókuszban a természetvédelem."],
       ro: ["Expoziții interactive.", "Accent pe conservare."],
-      en: ["Interactive exhibits.", "Focus on conservation."]
+      en: ["Interactive exhibits.", "Focus on conservation."],
+      es: ["Exposiciones interactivas.", "Enfoque en la protección de las especies."],
+      pt: ["Exposições interativas.", "Foco na proteção das espécies."],
+      fr: ["Expositions interactives.", "Accent mis sur la protection des espèces."],
     },
     descriptionAdvanced: {
       de: "Das Maun Educational Park (MEP) liegt am östlichen Ufer des Thamalakane-Flusses in Maun und dient als wichtiges Zentrum für Umweltbildung in Botswana. Es wurde in den 1990er Jahren gegründet, um der lokalen Bevölkerung, insbesondere Schulkindern, den Wert der heimischen Tierwelt und den Naturschutz näherzubringen. Der Park umfasst ein geschütztes Gebiet, in dem Tiere wie Giraffen, Zebras, Impalas und verschiedene Antilopenarten in einer natürlichen Umgebung leben, ohne dass die Gefahr durch große Raubtiere besteht. Dies macht den Park zu einem sicheren Ort für Bildungsausflüge und Wanderungen. Das Bildungszentrum bietet geführte Touren und Workshops an, die die Bedeutung des Okavango-Deltas und den nachhaltigen Umgang mit Ressourcen thematisieren. Für viele Kinder aus der Region ist der Park die erste Gelegenheit, Wildtiere aus nächster Nähe zu sehen, die sie sonst nur aus Erzählungen kennen. Zudem dient der Park als grüne Lunge für die Stadt Maun und bietet Erholungssuchenden schattige Wege unter Mopane- und Kameldornbäumen.",
@@ -366,6 +441,9 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["A parkot a Vadvédelmi és Nemzeti Parkok Hivatala kezeli.", "A parkban nincsenek oroszlánok vagy leopárdok, így a gyalogtúra biztonságos.", "A Thamalakane-folyó alkotja a park természetes nyugati határát.", "A helyi iskolás csoportok számára a belépés gyakran ingyenes.", "A park az őshonos botswanai fafajok gazdag gyűjteményével rendelkezik.", "Ez az egyik kevés hely Maunban, ahol gyalogosan lehet zsiráfokat látni."],
       ro: ["Parcul este administrat de Departamentul pentru Faună Sălbatică și Parcuri Naționale.", "Nu există lei sau leopardi în parc, permițând drumeții în siguranță.", "Râul Thamalakane formează limita vestică naturală a parcului.", "Intrarea pentru grupurile școlare locale este adesea gratuită.", "Parcul adăpostește o mare diversitate de specii de arbori indigeni.", "Este unul dintre puținele locuri din Maun unde girafele pot fi văzute mergând pe jos."],
       en: ["The park is managed by the Department of Wildlife and National Parks.", "No large predators like lions are kept here, allowing for safe walking safaris.", "The Thamalakane River defines the western boundary of the protected area.", "Entry is often free or highly subsidized for local educational institutions.", "The park contains a wide variety of indigenous trees including camel thorn.", "It is one of the few places in Maun where giraffes can be observed on foot."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/maun-education-center-kid-landmark-life-v2.webp"},
   {
     id: "tuli-block-cattle-farming-agriculture-life-v2",
@@ -426,12 +504,15 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     coords: [25.92, -24.65],
     name: { de: "Gaborone Botanischer Garten", hu: "Gaboronei Botanikus Kert", ro: "Grădina Botanică Gaborone", en: "Gaborone Botanical Garden"},
     image: "/poi-images/gaborone-botanical-garden-kid-landmark-life-v2.webp",
-    description: { de: "Ein schöner Ort, um lokale Pflanzen kennenzulernen.", hu: "Gyönyörű hely a helyi növények megismerésére.", ro: "Un loc frumos pentru a cunoaște plantele locale.", en: "The Gaborone Botanical Garden is a serene green space showcasing indigenous plants and providing an educational park for children." },
+    description: { de: "Ein schöner Ort, um lokale Pflanzen kennenzulernen.", hu: "Gyönyörű hely a helyi növények megismerésére.", ro: "Un loc frumos pentru a cunoaște plantele locale.", en: "The Gaborone Botanical Garden is a serene green space showcasing indigenous plants and providing an educational park for children." , es: "Un lugar hermoso para conocer las plantas locales.", pt: "Um local bonito para conhecer as plantas locais.", fr: "Un bel endroit pour découvrir les plantes locales."},
     facts: {
       de: ["Geführte Touren.", "Viele einheimische Arten."],
       hu: ["Vezetett túrák.", "Sok őshonos faj."],
       ro: ["Tururi ghidate.", "Multe specii native."],
-      en: ["Indigenous plant sanctuary", "Located in Gaborone", "Educational nature park", "Popular family destination"]
+      en: ["Indigenous plant sanctuary", "Located in Gaborone", "Educational nature park", "Popular family destination"],
+      es: ["Visitas guiadas.", "Muchas especies autóctonas."],
+      pt: ["Visitas guiadas.", "Muitas espécies nativas."],
+      fr: ["Visites guidées.", "De nombreuses espèces indigènes."],
     },
     descriptionAdvanced: {
       de: "Der Botanische Garten von Gaborone wurde am 2. November 2007 offiziell eröffnet und erstreckt sich über eine Fläche von etwa sieben Hektar im Stadtteil Village der botswanischen Hauptstadt. Als erster Nationaler Botanischer Garten des Landes dient er primär dem Schutz und der Erforschung der heimischen Flora Botswanas, wobei er verschiedene Ökosysteme des Landes im Kleinen nachbildet. Besucher finden hier thematische Sektionen, die sich auf Heilpflanzen, sukkulente Gewächse der Kalahari und bedrohte Baumarten konzentrieren. Das Gelände ist so gestaltet, dass es sowohl Bildungszwecken für Schulen dient als auch einen Erholungsraum für die Stadtbevölkerung bietet. Neben den Pflanzensammlungen beherbergt der Garten ein historisches Gebäude aus der Kolonialzeit, das heute als Verwaltungszentrum und Ausstellungsfläche genutzt wird. Die wissenschaftliche Arbeit vor Ort umfasst die Katalogisierung seltener Arten und die Förderung nachhaltiger Gartenbautechniken in semiariden Regionen.",
@@ -444,6 +525,9 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["A kertet 2007-ben nyitották meg, mint Botswana első nemzeti botanikus kertjét.", "A létesítmény teljes területe körülbelül 7 hektár a főváros szívében.", "Kifejezetten az őshonos botswanai növényfajok gyűjtésére szakosodott.", "Területén egy védett, gyarmati korszakból származó épület is áll.", "A Nemzeti Múzeum és Műemlékvédelmi Hivatal felügyelete alá tartozik.", "Fontos szerepet játszik a veszélyeztetett sivatagi növények megőrzésében."],
       ro: ["Grădina a fost inaugurată în 2007, fiind prima de acest tip din Botswana.", "Suprafața totală a complexului este de aproximativ 7 hectare în centrul orașului.", "Găzduiește specii de plante reprezentative din toate regiunile țării.", "O clădire istorică din perioada colonială servește drept centru expozițional.", "Este administrată de Muzeul Național și Galeria de Artă din Botswana.", "Grădina promovează utilizarea durabilă a resurselor de apă în horticultură."],
       en: ["The garden was officially opened in 2007 as Botswana's first national botanical garden.", "It spans an area of roughly 7 hectares in the Village district of Gaborone.", "The collection focuses exclusively on native Botswana plant species.", "A restored colonial-era building is integrated into the garden's layout.", "It is managed by the Department of National Museum and Monuments.", "The site serves as a vital center for environmental education and research."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -505,12 +589,15 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     coords: [22.50, -22.50],
     name: { de: "Kalahari Savanne Landwirtschaft", hu: "Kalahári szavanna mezőgazdaság", ro: "Agricultură în savana Kalahari", en: "Kalahari Savanna Agriculture"},
     image: "/poi-images/kalahari-savanna-agriculture-life-v2.webp",
-    description: { de: "Trotz Trockenheit gibt es hier kleine landwirtschaftliche Projekte.", hu: "A szárazság ellenére kis mezőgazdasági projektek találhatók itt.", ro: "În ciuda aridității, există mici proiecte agricole aici.", en: "Despite aridity, small agricultural projects exist here." },
+    description: { de: "Trotz Trockenheit gibt es hier kleine landwirtschaftliche Projekte.", hu: "A szárazság ellenére kis mezőgazdasági projektek találhatók itt.", ro: "În ciuda aridității, există mici proiecte agricole aici.", en: "Despite aridity, small agricultural projects exist here." , es: "A pesar de la sequía, existen aquí pequeños proyectos agrícolas.", pt: "Apesar da seca, existem aqui pequenos projetos agrícolas.", fr: "Malgré la sécheresse, de petits projets agricoles existent ici."},
     facts: {
       de: ["Anbau von trockenheitsresistenten Sorten.", "Lokale Subsistenzwirtschaft."],
       hu: ["Szárazságtűrő fajták termesztése.", "Helyi önellátó gazdálkodás."],
       ro: ["Cultivarea soiurilor rezistente la secetă.", "Agricultură de subzistență locală."],
-      en: ["Cultivation of drought-resistant varieties.", "Local subsistence farming."]
+      en: ["Cultivation of drought-resistant varieties.", "Local subsistence farming."],
+      es: ["Cultivo de variedades resistentes a la sequía.", "Agricultura de subsistencia local."],
+      pt: ["Cultivo de variedades resistentes à seca.", "Agricultura de subsistência local."],
+      fr: ["Culture de variétés résistantes à la sécheresse.", "Agriculture de subsistance locale."],
     },
     descriptionAdvanced: {
       de: "Die Landwirtschaft in der Kalahari-Savanne Botswanas ist durch eine semi-aride Umgebung geprägt, in der die Viehzucht den dominierenden Wirtschaftszweig darstellt. Das System basiert weitgehend auf der Freilandhaltung von Rindern, die an die kargen Bedingungen und die begrenzten Wasserressourcen angepasst sind. Da die Kalahari über keine permanenten Oberflächengewässer verfügt, sind die Farmer auf Tiefbrunnen angewiesen, die fossiles Grundwasser anzapfen. Diese Form der Agrarwirtschaft trägt signifikant zum Bruttoinlandsprodukt Botswanas bei und ist eine der wichtigsten Exportquellen, insbesondere für hochwertiges Rindfleisch nach Europa. Die Bewirtschaftung steht jedoch vor großen Herausforderungen durch Überweidung und die damit verbundene Degradation des Bodens sowie den zunehmenden Klimawandel. Um die Nachhaltigkeit zu fördern, werden verstärkt Methoden wie Rotationsweidegang und die Nutzung trockenheitsresistenter lokaler Rassen eingesetzt. Die Savanne bietet zudem Lebensraum für Wildtiere, was oft zu Konflikten zwischen Raubtieren und Viehhaltern führt.",
@@ -523,6 +610,9 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["A marhatenyésztés a gyémántbányászat után a legfontosabb gazdasági ágazat.", "A Kalahári gazdái gyakran 400 méter mély kutakból nyerik az itatóvizet.", "Botswana mezőgazdasági területének mintegy 80%-a legelőként funkcionál.", "Az exportált marhahús megfelel a legszigorúbb uniós élelmiszerbiztonsági előírásoknak.", "A túllegeltetés miatt a szavannán elszaporodtak a tövises bozótok.", "Az oroszlánok és hiénák elleni védekezés állandó feladata a pásztoroknak."],
       ro: ["Creșterea vitelor este al doilea cel mai important sector după diamante.", "Fermierii din Kalahari folosesc puțuri cu adâncimi de până la 400 de metri.", "Circa 80% din suprafața agricolă a Botswanei este utilizată ca pășune.", "Carnea de vită exportată respectă standardele veterinare stricte ale UE.", "Suprapășunatul provoacă extinderea tufișurilor spinoase în savană.", "Leii și hienele reprezintă o amenințare constantă pentru efectivele de animale."],
       en: ["Cattle ranching is the second largest contributor to Botswana's economy.", "Boreholes in the Kalahari can reach depths of up to 400 meters.", "Approximately 80% of Botswana's agricultural land is used for grazing.", "Botswana beef exports must comply with rigorous EU veterinary standards.", "Overgrazing leads to 'bush encroachment', where thorny shrubs take over.", "Lions and hyenas are significant predators causing livestock losses."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/kalahari-savanna-agriculture-life-v2.webp"},
   {
     id: "gaborone-zoo-kid-landmark-life-v2",
@@ -557,12 +647,15 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     coords: [24.80, -20.50],
     name: { de: "Makgadikgadi Zebra-Wanderung", hu: "Makgadikgadi zebra-vándorlás", ro: "Migrația zebrelor Makgadikgadi", en: "Makgadikgadi Zebra Migration"},
     image: "/poi-images/makgadikgadi-zebra-migration-animal-habitat-life-v2.webp",
-    description: { de: "Ein spektakuläres Naturschauspiel, wenn Zebras durch die Pfannen ziehen.", hu: "Lenyűgöző természeti látvány, amikor a zebrák átvonulnak a sós síkságokon.", ro: "Un spectacol natural spectaculos când zebrele traversează depresiunile.", en: "A spectacular natural phenomenon when zebras migrate across the pans." },
+    description: { de: "Ein spektakuläres Naturschauspiel, wenn Zebras durch die Pfannen ziehen.", hu: "Lenyűgöző természeti látvány, amikor a zebrák átvonulnak a sós síkságokon.", ro: "Un spectacol natural spectaculos când zebrele traversează depresiunile.", en: "A spectacular natural phenomenon when zebras migrate across the pans." , es: "Un espectáculo natural espectacular cuando las cebras cruzan los salares.", pt: "Um espetáculo natural espetacular quando as zebras atravessam as salinas.", fr: "Un spectacle naturel spectaculaire lorsque les zèbres traversent les marais."},
     facts: {
       de: ["Zweitgrößte Zebra-Wanderung Afrikas.", "Tolles Naturerlebnis."],
       hu: ["Afrika második legnagyobb zebra-vándorlása.", "Nagyszerű természeti élmény."],
       ro: ["A doua mare migrație a zebrelor din Africa.", "O experiență naturală grozavă."],
-      en: ["Second largest zebra migration in Africa.", "Great nature experience."]
+      en: ["Second largest zebra migration in Africa.", "Great nature experience."],
+      es: ["La segunda migración de cebras más grande de África.", "Gran experiencia en la naturaleza."],
+      pt: ["A segunda maior migração de zebras de África.", "Grande experiência na natureza."],
+      fr: ["Deuxième plus grande migration de zèbres d'Afrique.", "Grande expérience de la nature."],
     },
     descriptionAdvanced: {
       de: "Die Zebra-Migration in den Makgadikgadi-Salzpfannen ist nach der Serengeti-Migration die zweitgrößte ihrer Art in Afrika und ein faszinierendes biologisches Phänomen. Tausende von Zebras und Gnus ziehen jedes Jahr zwischen dem Boteti-Fluss im Westen und den grasreichen Ebenen der Salzpfannen im Osten hin und her. Während der Regenzeit von November bis März wandern die Tiere zu den Pfannen, um von den mineralreichen Gräsern und dem Oberflächenwasser zu profitieren. In der Trockenzeit, wenn die Pfannen austrocknen, kehren sie zum Boteti-Fluss zurück, der die einzige permanente Wasserquelle der Region darstellt. Die Reise umfasst eine Distanz von über 500 Kilometern und ist geprägt von Gefahren durch Raubtiere wie Löwen und Hyänen. Forscher nutzen GPS-Halsbänder, um die Bewegungsmuster zu verstehen und Wanderkorridore vor menschlichen Eingriffen zu schützen. Diese Migration ist ein entscheidender Faktor für das ökologische Gleichgewicht der Kalahari-Region.",
@@ -575,6 +668,9 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["Ez a szárazföldi emlősök második leghosszabb vándorlása Afrikában.", "A csordák évente körülbelül 500 kilométeres utat tesznek meg.", "Akár 25 000 zebra is részt vehet ebben a szezonális mozgásban.", "A Boteti-folyó az egyetlen biztos pont a száraz évszak túléléséhez.", "A vándorlást évtizedekig akadályozták az állategészségügyi kerítések.", "A sóstavak ásványi anyagokban gazdag füve elengedhetetlen a csikók fejlődéséhez."],
       ro: ["Este a doua cea mai lungă migrație a mamiferelor terestre din Africa.", "Hernele parcurg o călătorie anuală dus-întors de aproximativ 500 km.", "Până la 25.000 de zebre participă la această deplasare sezonieră.", "Râul Boteti servește ca refugiu vital în timpul sezonului de secetă.", "Migrația a fost întreruptă timp de decenii de gardurile veterinare.", "Iarba bogată în nutrienți de pe saline susține creșterea mânjilor."],
       en: ["It is recognized as the second longest land mammal migration in Africa.", "The herds complete an annual round-trip of approximately 500 kilometers.", "Up to 25,000 zebras participate in this large-scale seasonal movement.", "The Boteti River is the essential dry-season refuge for the animals.", "For decades, the migration was blocked by veterinary disease-control fences.", "Mineral-rich grasses found on the pans are vital for the health of foals."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/makgadikgadi-zebra-migration-animal-habitat-life-v2.webp"},
   {
     id: "chobe-floodplains-animal-habitat-life-v2",
@@ -583,12 +679,15 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     coords: [24.70, -18.15],
     name: { de: "Chobe-Auen", hu: "Chobe-árterek", ro: "Luncile inundabile Chobe", en: "Chobe Floodplains"},
     image: "/poi-images/chobe-floodplains-animal-habitat-life-v2.webp",
-    description: { de: "Überschwemmungsgebiete, die viele Vögel und Tiere anziehen.", hu: "Ártéri területek, amelyek sok madarat és állatot vonzanak.", ro: "Zone inundabile care atrag multe păsări și animale.", en: "Floodplains that attract many birds and animals." },
+    description: { de: "Überschwemmungsgebiete, die viele Vögel und Tiere anziehen.", hu: "Ártéri területek, amelyek sok madarat és állatot vonzanak.", ro: "Zone inundabile care atrag multe păsări și animale.", en: "Floodplains that attract many birds and animals." , es: "Llanuras aluviales que atraen a muchas aves y animales.", pt: "Planícies de inundação que atraem muitas aves e animais.", fr: "Plaines inondables qui attirent de nombreux oiseaux et animaux."},
     facts: {
       de: ["Wichtig für den Tourismus.", "Hervorragend zur Tierbeobachtung."],
       hu: ["Fontos a turizmus számára.", "Kiváló állatmegfigyelésre."],
       ro: ["Important pentru turism.", "Excelent pentru observarea animalelor.",],
-      en: ["Important for tourism.", "Excellent for wildlife spotting."]
+      en: ["Important for tourism.", "Excellent for wildlife spotting."],
+      es: ["Importante para el turismo.", "Excelente para la observación de animales."],
+      pt: ["Importante para o turismo.", "Excelente para a observação de animais."],
+      fr: ["Important pour le tourisme.", "Excellent pour l'observation des animaux."],
     },
     descriptionAdvanced: {
       de: "Die Chobe-Überflutungsebenen im Nordosten Botswanas sind Teil des Chobe-Nationalparks und bekannt für eine der höchsten Wildtierdichten Afrikas. Wenn der Chobe-Fluss während der Regenzeit anschwillt, verwandelt er die Ebenen in fruchtbare Feuchtgebiete, die enorme Mengen an Gras produzieren. Diese Ebenen sind besonders berühmt für ihre gigantischen Elefantenherden, die während der Trockenzeit in Tausenden zum Fluss kommen. Neben Elefanten finden sich hier Kapbüffel, Flusspferde, Krokodile und spezialisierte Antilopenarten wie der Puku. Geografisch bildet der Fluss die Grenze zwischen Botswana und Namibia (Caprivi-Zipfel) und schafft eine dynamische Uferlandschaft. Das Gebiet ist ein Paradies für Vogelbeobachter, da über 450 Arten, darunter der Afrikanische Fischadler, hier heimisch sind. Der Tourismus in dieser Region konzentriert sich auf Bootssafaris, die einzigartige Perspektiven auf die Tiere am Wasser ermöglichen.",
@@ -601,6 +700,9 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["A régióban becslések szerint több mint 50 000 elefánt él.", "A Chobe-folyó azon kevés folyók egyike, amely képes visszafelé is folyni.", "A puku antilop Botswanában szinte kizárólag ezen az ártéren fordul elő.", "A májustól októberig tartó száraz évszak a legjobb időszak a vadmegfigyelésre.", "Több mint 450 madárfajt dokumentáltak eddig a Chobe vizes élőhelyein.", "A hajós szafarik jelentik a fő attrakciót a nemzeti park látogatói számára."],
       ro: ["Regiunea adăpostește o populație estimată la peste 50.000 de elefanți.", "Râul Chobe este unul dintre puținele râuri din lume care pot curge invers.", "Antilopa puku se găsește în Botswana aproape exclusiv în aceste câmpii.", "Sezonul uscat, din mai până în octombrie, este ideal pentru observarea faunei.", "Peste 450 de specii de păsări au fost documentate în zonele umede Chobe.", "Safariurile cu barca sunt principala atracție pentru vizitatorii parcului."],
       en: ["The region is home to an estimated population of over 50,000 elephants.", "The Chobe River is one of the few rivers in the world that can flow backwards.", "The puku antelope is found in Botswana almost exclusively on these floodplains.", "The dry season from May to October is the peak time for wildlife viewing.", "More than 450 bird species have been documented in the Chobe wetlands.", "Boat-based safaris are the primary tourist attraction in the national park."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -610,12 +712,15 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     coords: [24.45, -21.20],
     name: { de: "Boteti-Fluss Vogelbeobachtung", hu: "Boteti folyó madármegfigyelés", ro: "Observarea păsărilor pe râul Boteti", en: "Boteti River Birdwatching"},
     image: "/poi-images/boteti-river-birdwatching-kid-landmark-life-v2.webp",
-    description: { de: "Ein friedlicher Ort für Kinder, um Vögel zu beobachten.", hu: "Békés hely gyermekeknek madarak megfigyelésére.", ro: "Un loc liniștit pentru copii pentru a observa păsările.", en: "A peaceful place for children to observe birds." },
+    description: { de: "Ein friedlicher Ort für Kinder, um Vögel zu beobachten.", hu: "Békés hely gyermekeknek madarak megfigyelésére.", ro: "Un loc liniștit pentru copii pentru a observa păsările.", en: "A peaceful place for children to observe birds." , es: "Un lugar tranquilo para que los niños observen aves.", pt: "Um local tranquilo para as crianças observarem aves.", fr: "Un endroit paisible pour que les enfants puissent observer les oiseaux."},
     facts: {
       de: ["Viele farbenfrohe Vogelarten.", "Sehr lehrreich."],
       hu: ["Sok színes madárfaj.", "Nagyon oktató jellegű."],
       ro: ["Multe specii de păsări colorate.", "Foarte educativ."],
-      en: ["Many colorful bird species.", "Very educational."]
+      en: ["Many colorful bird species.", "Very educational."],
+      es: ["Muchas especies de aves coloridas.", "Muy educativo."],
+      pt: ["Muitas espécies de aves coloridas.", "Muito educativo."],
+      fr: ["De nombreuses espèces d'oiseaux colorées.", "Très éducatif."],
     },
     descriptionAdvanced: {
       de: "Der Boteti-Fluss am westlichen Rand des Makgadikgadi-Pans-Nationalparks ist ein lebenswichtiger Korridor für die Tierwelt und ein Hotspot für die Vogelbeobachtung. Nachdem der Fluss fast 20 Jahre lang trocken lag, führt er seit 2009 wieder regelmäßig Wasser aus dem Okavango-Delta. Dies hat zu einer spektakulären Rückkehr der Flora und Fauna geführt, insbesondere von Wasservögeln wie Pelikanen, Flamingos und verschiedenen Reiherarten. Während der Trockenzeit wird der Fluss zur einzigen Wasserquelle für Tausende von Zebras und Gnus, was wiederum zahlreiche Raubvögel anzieht. Besucher können von den hohen Flussufern aus eine Vielzahl von Arten beobachten, ohne die Tiere zu stören. Die ökologische Bedeutung des Flusses liegt in seiner Funktion als Bindeglied zwischen den wasserreichen Gebieten im Norden und den trockenen Savannen der Kalahari. Für Forscher und Naturliebhaber bietet der Boteti eine dynamische Landschaft, die sich je nach Wasserstand dramatisch verändert.",
@@ -628,6 +733,9 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["A folyó 1991 és 2009 között szinte teljesen ki volt száradva.", "Az Okavango-delta felesleges vize táplálja a medrét.", "A Boteti Afrika második legnagyobb zebravándorlásának kulcsfontosságú helyszíne.", "Több mint 300 madárfaj figyelhető meg a folyó mentén.", "A száraz évszakban több száz hím elefánt gyűlik össze a partjainál.", "A régió híres az afrikai rétisasok magas koncentrációjáról."],
       ro: ["Râul a fost aproape complet secat între anii 1991 și 2009.", "Este alimentat de surplusul de apă provenit din Delta Okavango.", "Boteti este locul unde are loc a doua cea mai mare migrație de zebre din Africa.", "Peste 300 de specii de păsări pot fi observate de-a lungul cursului râului.", "În sezonul uscat, sute de elefanți masculi se adună aici pentru apă.", "Regiunea este renumită pentru densitatea mare de vulturi pescari africani."],
       en: ["The river was almost completely dry between 1991 and 2009.", "It is seasonal and relies on water spillover from the Okavango Delta.", "The Boteti serves as a critical stage for Africa's second largest zebra migration.", "More than 300 bird species have been recorded along the river corridor.", "Large numbers of bull elephants congregate here during the dry months.", "The area is famous for its high concentration of African fish eagles."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/boteti-river-birdwatching-kid-landmark-life-v2.webp"},
   {
     id: "tuli-wildlife-sanctuary-animal-habitat-life-v2",
@@ -663,12 +771,15 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     coords: [22.80, -22.80],
     name: { de: "Kalahari Wildtierkorridor", hu: "Kalahári vadvilági folyosó", ro: "Coridorul de faună Kalahari", en: "Kalahari Wildlife Corridor"},
     image: "/poi-images/kalahari-wildlife-corridor-animal-habitat-life-v2.webp",
-    description: { de: "Ein Korridor, der Tiere bei der Wanderung durch die Wüste schützt.", hu: "Folyosó, amely védi az állatokat a sivatagi vándorlás során.", ro: "Un coridor care protejează animalele în timpul migrației prin deșert.", en: "A corridor protecting animals migrating through the desert." },
+    description: { de: "Ein Korridor, der Tiere bei der Wanderung durch die Wüste schützt.", hu: "Folyosó, amely védi az állatokat a sivatagi vándorlás során.", ro: "Un coridor care protejează animalele în timpul migrației prin deșert.", en: "A corridor protecting animals migrating through the desert." , es: "Un corredor que protege a los animales durante su migración por el desierto.", pt: "Um corredor que protege os animais durante a sua migração pelo deserto.", fr: "Un corridor qui protège les animaux lors de leur migration à travers le désert."},
     facts: {
       de: ["Ökologisch essenziell.", "Schützt vor Fragmentierung."],
       hu: ["Ökológiailag esszenciális.", "Véd a fragmentáció ellen."],
       ro: ["Esențial ecologic.", "Protejează împotriva fragmentării."],
-      en: ["Ecologically essential.", "Protects against fragmentation."]
+      en: ["Ecologically essential.", "Protects against fragmentation."],
+      es: ["Ecológicamente esencial.", "Protege contra la fragmentación."],
+      pt: ["Ecologicamente essencial.", "Protege contra a fragmentação."],
+      fr: ["Essentiel sur le plan écologique.", "Protège contre la fragmentation."],
     },
     descriptionAdvanced: {
       de: "Der Kalahari-Wildtierkorridor ist ein strategisch wichtiges Schutzgebiet, das das Central Kalahari Game Reserve mit dem Kgalagadi Transfrontier Park verbindet. Dieser Korridor ermöglicht es weit wandernden Arten wie Löwen, Geparden und verschiedenen Antilopen, sich zwischen den Ökosystemen zu bewegen, was für den genetischen Austausch und die Anpassung an saisonale Veränderungen entscheidend ist. Geografisch erstreckt sich der Korridor über weite Strecken der zentralen und südwestlichen Kalahari und besteht überwiegend aus Busch- und Baumsavanne. Die Einrichtung dieses Korridors ist eine Antwort auf die Fragmentierung von Lebensräumen durch Veterinärzäune und menschliche Siedlungen. Naturschutzorganisationen arbeiten eng mit den lokalen Gemeinden zusammen, um Konflikte zwischen Mensch und Wildtier zu minimieren und nachhaltige Landnutzungspraktiken zu fördern. Der Korridor sichert das Überleben von Populationen, die auf extrem große Reviere angewiesen sind, und ist ein Meilenstein für den grenzüberschreitenden Naturschutz in Afrika.",
@@ -681,6 +792,9 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["A folyosó a világ két legnagyobb természetvédelmi területét köti össze.", "Biztosítja a lantszarvú antilopok és vándorantilopok vonulási útvonalát.", "A terület több millió hektárnyi, jórészt érintetlen szavannát foglal magában.", "Az oroszlánok ezt az útvonalat használják új vadászterületek felkutatására.", "A farmok kerítéseit helyenként elbontották a szabad mozgás érdekében.", "Kameracsapdák dokumentálják a ritka fajok jelenlétét a folyosóban."],
       ro: ["Coridorul conectează două dintre cele mai mari rezervații naturale din lume.", "Securizează rutele de migrație pentru antilopele eland și springbok.", "Zona cuprinde milioane de hectare de savană în mare parte neatinsă.", "Leii folosesc această cale pentru a identifica noi teritorii.", "Gardurile fermelor au fost parțial eliminate pentru a permite trecerea.", "Camerele de monitorizare confirmă utilizarea coridorului de către specii rare."],
       en: ["The corridor links two of the largest protected areas on the planet.", "It safeguards the vital migration routes of elands and springboks.", "The area encompasses millions of hectares of mostly pristine savanna.", "Lions utilize this passage to establish new territories and find mates.", "Portions of farm fencing have been removed to facilitate wildlife movement.", "Camera traps continuously document the usage of the corridor by rare species."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/kalahari-wildlife-corridor-animal-habitat-life-v2.webp"},
   {
     id: "gaborone-nature-trail-kid-landmark-life-v2",
@@ -689,12 +803,15 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     coords: [25.93, -24.64],
     name: { de: "Gaborone Naturpfad", hu: "Gaboronei tanösvény", ro: "Traseul natural Gaborone", en: "Gaborone Nature Trail"},
     image: "/poi-images/gaborone-nature-trail-kid-landmark-life-v2.webp",
-    description: { de: "Ein einfacher Wanderweg für Kinder, um die lokale Flora zu erkunden.", hu: "Különleges tanösvény gyerekeknek a főváros közelében, ahol játékosan ismerkedhetnek meg a helyi flórával és faunával.", ro: "Un traseu ușor pentru copii pentru a explora flora locală.", en: "An easy hiking trail for children to explore local flora." },
+    description: { de: "Ein einfacher Wanderweg für Kinder, um die lokale Flora zu erkunden.", hu: "Különleges tanösvény gyerekeknek a főváros közelében, ahol játékosan ismerkedhetnek meg a helyi flórával és faunával.", ro: "Un traseu ușor pentru copii pentru a explora flora locală.", en: "An easy hiking trail for children to explore local flora." , es: "Un sendero sencillo para que los niños exploren la flora local.", pt: "Um trilho simples para as crianças explorarem a flora local.", fr: "Un sentier facile pour que les enfants explorent la flore locale."},
     facts: {
       de: ["Lehrreiche Schilder.", "Sicher und gepflegt."],
       hu: ["Biztonságos sétautak", "Oktató táblák az állatokról", "Családi piknikező helyek", "Interaktív természetismeret"],
       ro: ["Panouri educative.", "Sigur și îngrijit."],
-      en: ["Educational signs.", "Safe and maintained."]
+      en: ["Educational signs.", "Safe and maintained."],
+      es: ["Carteles educativos.", "Seguro y bien mantenido."],
+      pt: ["Painéis educativos.", "Seguro e bem cuidado."],
+      fr: ["Panneaux pédagogiques.", "Sûr et bien entretenu."],
     },
     descriptionAdvanced: {
       de: "Der Gaborone Nature Trail liegt am Rande der Hauptstadt Botswanas und bietet eine wichtige grüne Lunge für die städtische Bevölkerung sowie ein Bildungszentrum für Kinder. Der Pfad erstreckt sich in der Nähe des Gaborone-Staudamms und führt durch typisches Buschland-Ökosystem, in dem einheimische Baumarten wie Akazien und Combretum-Arten dominieren. Für junge Besucher wurde der Weg so konzipiert, dass er die lokale Flora und Fauna spielerisch erklärt, wobei Informationstafeln die ökologische Bedeutung des Wassermanagements in einer semiariden Region hervorheben. Man kann hier regelmäßig kleinere Säugetiere wie Meerkatzen, verschiedene Antilopenarten und eine beeindruckende Vielfalt an Vögeln beobachten, was den Ort zu einem idealen Ziel für Schulklassen und Familien macht. Der Naturlehrpfad dient nicht nur der Erholung, sondern fördert auch aktiv das Umweltbewusstsein durch Programme zur Wiederaufforstung und den Schutz lokaler Ressourcen. Durch die Nähe zum Staudamm, der 1964 fertiggestellt wurde, verknüpft der Ort die moderne Stadtentwicklung mit dem Erhalt der ursprünglichen Naturlandschaft des Notwane-Flussbeckens.",
@@ -707,6 +824,9 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["A tanösvény közvetlenül az 1964-ben épült Gaborone-gát szomszédságában található.", "A terület több mint 200 regisztrált madárfajnak ad otthont, ami az ornitológusok kedvelt helyévé teszi.", "Az út mentén olyan őshonos fafajokat jelöltek meg, mint például az ólomszürke combretum.", "Az ösvény egy nagyobb védett terület része, amely biztosítja az ivóvíztározó vízminőségét.", "A látogatók számára rendszeres szavannacerkóf- és bozóti antilop-megfigyeléseket dokumentáltak.", "Az iskolai oktatási programok Botswana biológiai sokféleségének megőrzésére összpontosítanak."],
       ro: ["Traseul natural este situat în imediata vecinătate a barajului Gaborone, construit în 1964.", "Zona găzduiește peste 200 de specii de păsări înregistrate, fiind un punct de atracție pentru ornitologi.", "Specii de arbori nativi, cum ar fi Combretum imberbe, sunt marcate de-a lungul traseului.", "Traseul face parte dintr-o zonă protejată mai mare care asigură calitatea apei rezervorului potabil.", "Observările regulate de maimuțe vervet și antilope de tufiș sunt documentate pentru vizitatori.", "Programele educaționale pentru școli se concentrează pe conservarea biodiversității în Botswana."],
       en: ["The nature trail is situated in the direct vicinity of the Gaborone Dam, built in 1964.", "The area is home to over 200 registered bird species, making it a hotspot for birdwatchers.", "Indigenous tree species such as the Leadwood (Combretum imberbe) are marked along the path.", "The trail is part of a larger protected area that secures the water quality of the drinking water reservoir.", "Regular sightings of vervet monkeys and bushbucks are documented for visitors.", "Educational programs for schools focus on the preservation of biodiversity in Botswana."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   }
 ];

@@ -24,19 +24,28 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: ["A csata kevesebb mint 15 percig tartott 1856. március 20-án.", "Costa Rica körülbelül 9000 fős civil sereget mozgósított.", "A Casonát egy 2001-es tűzvész után hűen rekonstruálták.", "A helyszín 1999 óta az UNESCO Világörökség részét képezi.", "Ez volt az úgynevezett Nemzeti Hadjárat első jelentős győzelme.", "A csatatér Guanacaste tartomány szívében helyezkedik el."],
       ro: ["Bătălia a durat mai puțin de 15 minute pe 20 martie 1856.", "Costa Rica a mobilizat o armată de aproximativ 9.000 de civili.", "La Casona a fost reconstruită fidel după un incendiu în anul 2001.", "Situl face parte din Patrimoniul Mondial UNESCO din anul 1999.", "A fost prima victorie majoră în așa-numita Campanie Națională.", "Câmpul de luptă este situat în inima provinciei Guanacaste."],
       en: ["The battle lasted less than 15 minutes on March 20, 1856.", "Costa Rica mobilized an army of approximately 9,000 civilians.", "The Casona was faithfully reconstructed after a fire in 2001.", "The site has been a UNESCO World Heritage site since 1999.", "It was the first major victory in the so-called National Campaign.", "The battlefield is located in the heart of Guanacaste province."],
+      es: [],
+      pt: [],
+      fr: [],
     }, 
     description: {
       de: "Ort der berühmten Schlacht von 1856, bei der costa-ricanische Truppen die Filibuster von William Walker besiegten. Es ist ein Nationalhelden-Denkmal.",
       hu: "Az 1856-os Santa Rosa-i csata helyszíne, ahol a Costa Rica-i erők győzelmet arattak William Walker zsoldosai felett.",
       ro: "Locul celebrei bătălii din 1856, unde trupele costa-ricane i-au învins pe filibusterii lui William Walker. Este un monument al eroilor naționali.",
-      en: "Site of the famous 1856 battle where Costa Rican forces defeated the filibusters of William Walker. It's a national heroes' monument."
+      en: "Site of the famous 1856 battle where Costa Rican forces defeated the filibusters of William Walker. It's a national heroes' monument.",
+      es: "Lugar de la famosa batalla de 1856, en la que las tropas costarricenses derrotaron a los filibusteros de William Walker. Es un monumento a los héroes nacionales.",
+      pt: "Local da famosa batalha de 1856, na qual as tropas costarriquenhas derrotaram os filibusteiros de William Walker. É um monumento aos heróis nacionais.",
+      fr: "Lieu de la célèbre bataille de 1856, au cours de laquelle les troupes costariciennes ont vaincu les filibustiers de William Walker. C'est un monument aux héros nationaux.",
     },
     
     facts: {
       de: ["Schlacht im Jahr 1856", "Sieg über William Walker", "Teil des Santa Rosa Nationalparks", "Symbol des Nationalstolzes"],
       hu: ["1856. március 20-i csata", "A függetlenség védelmének szimbóluma", "A Santa Rosa Nemzeti Park része"],
       ro: ["Bătălia din 1856", "Victorie împotriva lui William Walker", "Parte a Parcului Național Santa Rosa", "Simbol al mândriei naționale"],
-      en: ["Battle fought in 1856", "Victory over William Walker", "Located in Santa Rosa National Park", "Symbol of national sovereignty"]
+      en: ["Battle fought in 1856", "Victory over William Walker", "Located in Santa Rosa National Park", "Symbol of national sovereignty"],
+      es: ["Batalla en 1856", "Victoria sobre William Walker", "Parte del Parque Nacional Santa Rosa", "Símbolo de orgullo nacional"],
+      pt: ["Batalha em 1856", "Vitória sobre William Walker", "Parte do Parque Nacional Santa Rosa", "Símbolo de orgulho nacional"],
+      fr: ["Bataille en 1856", "Victoire sur William Walker", "Fait partie du parc national Santa Rosa", "Symbole de fierté nationale"],
     },
      image: "/poi-images/santa-rosa-battlefield-history-v2.webp"},
   {
@@ -61,19 +70,28 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: ["A jelenlegi templom 1894 és 1904 között épült.", "Az acélszerkezet a német GHH vállalattól származik.", "Három hajójáról és csúcsíves boltíveiről ismert.", "Az épületet 1999-ben nemzeti műemlékké nyilvánították.", "A korábbi fatemplomok ezen a helyen többször leégtek.", "A templom San José központjában, az Avenida Central mentén fekszik."],
       ro: ["Biserica actuală a fost construită între anii 1894 și 1904.", "Structura de oțel provine de la firma germană GHH.", "Este cunoscută pentru cele trei nave și arcadele sale ascuțite.", "Clădirea a fost declarată monument național în anul 1999.", "Bisericile anterioare din lemn de pe același loc au ars de mai multe ori.", "Biserica este situată direct pe Avenida Central din San José."],
       en: ["The current church was constructed between 1894 and 1904.", "The steel structure was supplied by the German company GHH.", "It is known for its three naves and pointed arches.", "The building was declared a National Monument in 1999.", "Previous wooden churches on the same site burned down multiple times.", "The church is located directly on Avenida Central in San José."],
+      es: [],
+      pt: [],
+      fr: [],
     }, 
     description: {
       de: "Eine ikonische neugotische Kirche im Herzen von San José, bekannt für ihren markanten Turm und ihre deutsche Orgel.",
       hu: "Ikonikus neogótikus templom San José szívében, jellegzetes tornyáról és német orgonájáról ismert.",
       ro: "Biserica Las Mercedes din Grecia este o structură arhitecturală unică, construită în întregime din plăci de oțel prefabricate. Importată din Belgia la sfârșitul secolului al XIX-lea, aceasta este un simbol al rezilienței în fața cutremurelor.",
-      en: "An iconic neo-Gothic church in the heart of San José, known for its distinctive tower and German-made organ."
+      en: "An iconic neo-Gothic church in the heart of San José, known for its distinctive tower and German-made organ.",
+      es: "Una icónica iglesia neogótica en el corazón de San José, conocida por su torre distintiva y su órgano alemán.",
+      pt: "Uma icónica igreja neogótica no coração de San José, conhecida pela sua torre distinta e pelo seu órgão alemão.",
+      fr: "Une église néogothique emblématique au cœur de San José, connue pour sa tour distinctive et son orgue allemand.",
     },
     
     facts: {
       de: ["Neugotischer Stil", "Erbaut Ende des 19. Jahrhunderts", "Markanter roter Turm", "Wichtiges religiöses Wahrzeichen"],
       hu: ["Neogótikus stílus", "A 19. század végén épült", "Jellegzetes vörös torony", "Fontos vallási jelkép"],
       ro: ["Finalizată în anul 1897", "Stil arhitectural neogotic distinctiv", "Realizată din piese metalice importate"],
-      en: ["Neo-Gothic style", "Built in the late 19th century", "Distinctive red tower", "Important religious landmark in the capital"]
+      en: ["Neo-Gothic style", "Built in the late 19th century", "Distinctive red tower", "Important religious landmark in the capital"],
+      es: ["Estilo neogótico", "Construida a finales del siglo XIX", "Torre roja distintiva", "Importante hito religioso"],
+      pt: ["Estilo neogótico", "Construída no final do século XIX", "Torre vermelha distinta", "Importante marco religioso"],
+      fr: ["Style néogothique", "Construite à la fin du XIXe siècle", "Tour rouge distinctive", "Point de repère religieux important"],
     },
      image: "/poi-images/las-mercedes-church-history-v2.webp"},
   {
@@ -98,19 +116,28 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: ["A börtön összesen 118 évig működött.", "A szigetet 2020-ban Costa Rica 30. nemzeti parkjává nyilvánították.", "A helyet a 'La Isla de los Hombres Solos' című könyv tette ismertté.", "A foglyok vérrel és szénnel készített falfestményeket hagytak hátra.", "A területen kápolna és egy kis kórház is működött.", "A sziget körülbelül 8 kilométerre fekszik Puntarenas partjaitól."],
       ro: ["Închisoarea a funcționat timp de 118 ani în total.", "Insula a fost declarată al 30-lea parc național din Costa Rica în 2020.", "Este faimoasă datorită cărții 'La Isla de los Hombres Solos'.", "Deținuții au lăsat picturi murale realizate cu sânge și cărbune.", "Existau o capelă și o infirmerie în incinta complexului.", "Insula se află la aproximativ 8 kilometri de coasta Puntarenas."],
       en: ["The prison was in operation for a total of 118 years.", "The island was named Costa Rica's 30th national park in 2020.", "Made famous by the book 'La Isla de los Hombres Solos'.", "Inmates left behind murals made from blood and charcoal.", "The site included a chapel and a medical infirmary.", "The island is located about 8 kilometers off the coast of Puntarenas."],
+      es: [],
+      pt: [],
+      fr: [],
     }, 
     description: {
       de: "Ein ehemaliges Inselgefängnis, bekannt für seine brutalen Bedingungen. Heute ist es ein Nationalpark und historisches Denkmal.",
       hu: "Egykori hírhedt börtönsziget, amely brutális körülményeiről volt ismert. Ma nemzeti park és történelmi emlékhely.",
       ro: "O fostă închisoare insulară, renumită pentru condițiile sale brutale. Astăzi este parc național și monument istoric.",
-      en: "A former island penitentiary, notorious for its brutal conditions. It is now a national park and historical monument."
+      en: "A former island penitentiary, notorious for its brutal conditions. It is now a national park and historical monument.",
+      es: "Una antigua prisión insular, conocida por sus brutales condiciones. Hoy es un parque nacional y monumento histórico.",
+      pt: "Uma antiga prisão insular, conhecida pelas suas condições brutais. Hoje é um parque nacional e monumento histórico.",
+      fr: "Une ancienne prison insulaire, connue pour ses conditions brutales. Aujourd'hui, c'est un parc national et un monument historique.",
     },
     
     facts: {
       de: ["Gefängnis von 1873-1991", "Insel im Golf von Nicoya", "Heute ein Wildreservat", "Historische Graffiti an den Wänden"],
       hu: ["Börtön volt 1873-1991 között", "Sziget a Nicoya-öbölben", "Ma vadvédelmi terület", "Történelmi graffitik a falakon"],
       ro: ["Închisoare între 1873-1991", "Insulă în Golful Nicoya", "Astăzi, o rezervație naturală", "Graffiti istorice pe pereți"],
-      en: ["Prison from 1873 to 1991", "Island in the Gulf of Nicoya", "Now a wildlife refuge", "Features historic graffiti on cell walls"]
+      en: ["Prison from 1873 to 1991", "Island in the Gulf of Nicoya", "Now a wildlife refuge", "Features historic graffiti on cell walls"],
+      es: ["Prisión de 1873-1991", "Isla en el Golfo de Nicoya", "Hoy es un refugio de vida silvestre", "Grafitis históricos en las paredes"],
+      pt: ["Prisão de 1873-1991", "Ilha no Golfo de Nicoya", "Hoje é um refúgio de vida selvagem", "Grafites históricos nas paredes"],
+      fr: ["Prison de 1873 à 1991", "Île dans le golfe de Nicoya", "Aujourd'hui un refuge faunique", "Graffitis historiques sur les murs"],
     },
      image: "/poi-images/san-lucas-prison-history-v2.webp"},
   {
@@ -135,19 +162,28 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: ["A templom 1743-ban készült el.", "1920-ban hivatalosan nemzeti műemlékké nyilvánították.", "Vastag vályogfalai ellenállnak a földrengéseknek.", "Itt található az Orosi Szakrális Művészeti Múzeum.", "Az Orosi-völgy az egyik első spanyol település volt.", "Az oltárképek a 18. századból származnak."],
       ro: ["Biserica a fost finalizată în anul 1743.", "A fost declarată oficial monument național în 1920.", "Are pereți groși de chirpici care rezistă cutremurelor.", "Găzduiește Muzeul de Artă Sacră din Orosi.", "Valea Orosi a fost una dintre primele așezări spaniole.", "Retablurile altarului datează din secolul al XVIII-lea."],
       en: ["The church was completed in the year 1743.", "It was officially declared a National Monument in 1920.", "Features thick adobe walls designed to resist earthquakes.", "Houses the Orosi Museum of Sacred Art.", "The Orosi Valley was one of the first Spanish settlements.", "The altar pieces date back to the 18th century."],
+      es: [],
+      pt: [],
+      fr: [],
     }, 
     description: {
       de: "Die Iglesia de San José de Orosi ist eine der ältesten noch genutzten Kirchen Costa Ricas aus der Kolonialzeit.",
       hu: "Orosi gyarmati temploma Costa Rica egyik legrégebbi, ma is álló egyházi épülete. Az 1700-as években emelt templom a gyarmati korszak vallási örökségét őrzi.",
       ro: "Una dintre cele mai vechi biserici încă în uz din Costa Rica, construită în 1743 în stil colonial. Găzduiește un mic muzeu de artă religioasă.",
-      en: "The Church of San José de Orosi is the oldest church in Costa Rica still in use, dating back to the colonial era."
+      en: "The Church of San José de Orosi is the oldest church in Costa Rica still in use, dating back to the colonial era.",
+      es: "La Iglesia de San José de Orosi es una de las iglesias coloniales más antiguas que aún se utilizan en Costa Rica.",
+      pt: "A Igreja de San José de Orosi é uma das igrejas coloniais mais antigas ainda em uso na Costa Rica.",
+      fr: "L'Iglesia de San José de Orosi est l'une des plus anciennes églises coloniales encore en usage au Costa Rica.",
     },
     
     facts: {
       de: ["Erbaut im Jahr 1743", "Nationales Monument", "Beispiel für spanische Kolonialarchitektur"],
       hu: ["Gyarmati kori templom", "1743-ból származik", "Az egyik legrégebbi épület"],
       ro: ["Construită în 1743", "Arhitectură colonială", "Misiune franciscană", "Monument național din 1920"],
-      en: ["Built in 1743 by Franciscan friars", "Classic Spanish colonial architecture", "Oldest church still in continuous use", "National monument located in Orosi Valley"]
+      en: ["Built in 1743 by Franciscan friars", "Classic Spanish colonial architecture", "Oldest church still in continuous use", "National monument located in Orosi Valley"],
+      es: ["Construida en 1743", "Monumento nacional", "Ejemplo de arquitectura colonial española"],
+      pt: ["Construída em 1743", "Monumento nacional", "Exemplo de arquitetura colonial espanhola"],
+      fr: ["Construite en 1743", "Monument national", "Exemple d'architecture coloniale espagnole"],
     },
     
   },
@@ -173,19 +209,28 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: ["A golyók átmérője néhány centimétertől 2,5 méterig terjed.", "Gabbróból, egy kemény vulkáni kőzetből készültek.", "A Finca 6 lelőhelyet 2014-ben vették fel az UNESCO listájára.", "Némelyik golyó súlya meghaladja a 15 tonnát.", "A területen két 20 méter átmérőjű mesterséges domb található.", "A golyókat a társadalmi rang és a hatalom jelképének tekintik."],
       ro: ["Sferele variază în diametru de la câțiva cm până la 2,5 m.", "Sunt fabricate din gabbro, o rocă vulcanică dură.", "Finca 6 a fost declarată Patrimoniu Mondial UNESCO în 2014.", "Unele sfere cântăresc mai mult de 15 tone.", "Situl conține două movile artificiale cu diametrul de 20 m.", "Sferele sunt considerate simboluri ale rangului social și puterii."],
       en: ["The spheres vary in diameter from a few cm to 2.5 meters.", "They are made of gabbro, a hard volcanic rock.", "Finca 6 was named a UNESCO World Heritage site in 2014.", "Some of the spheres weigh more than 15 tons.", "The site contains two artificial mounds 20 meters in diameter.", "The spheres are considered symbols of social rank and power."],
+      es: [],
+      pt: [],
+      fr: [],
     }, 
     description: {
       de: "Ein bedeutender archäologischer Fundort, bekannt für die rätselhaften, perfekt geformten Steinkugeln der Diquís-Kultur.",
       hu: "A déli Diquís-régió egyik legismertebb régészeti helyszíne, ahol a kőgolyók eredeti környezetükben láthatók. A hely a prekolumbián múlt és a helyi emlékezet ritka találkozása.",
       ro: "Finca 6 din Delta Diquís este unul dintre cele mai importante situri arheologice din Costa Rica. Aici au fost descoperite sferele de piatră care au devenit un simbol precolumbian al țării.",
-      en: "An archaeological park showcasing the mysterious pre-Columbian stone spheres of Costa Rica. A UNESCO World Heritage site."
+      en: "An archaeological park showcasing the mysterious pre-Columbian stone spheres of Costa Rica. A UNESCO World Heritage site.",
+      es: "Un importante sitio arqueológico conocido por las enigmáticas esferas de piedra perfectamente formadas de la cultura Diquís.",
+      pt: "Um importante sítio arqueológico conhecido pelas enigmáticas esferas de pedra perfeitamente formadas da cultura Diquís.",
+      fr: "Un site archéologique majeur connu pour les énigmatiques sphères de pierre parfaitement formées de la culture Diquís.",
     },
     
     facts: {
       de: ["UNESCO-Welterbe", "Präkolumbianische Artefakte", "Einzigartige Steinarbeit"],
       hu: ["Diquís-kőgolyók", "Régészeti lelőhely", "Eredeti elrendezésben láthatók"],
       ro: ["În Delta Diquís", "Sfere de piatră", "Patrimoniu arheologic"],
-      en: ["UNESCO World Heritage Site", "Over 300 spheres known", "Carved from granodiorite", "Created by the Diquís culture"]
+      en: ["UNESCO World Heritage Site", "Over 300 spheres known", "Carved from granodiorite", "Created by the Diquís culture"],
+      es: ["Patrimonio de la Humanidad UNESCO", "Artefactos precolombinos", "Trabajo en piedra único"],
+      pt: ["Património Mundial da UNESCO", "Artefactos pré-colombianos", "Trabalho em pedra único"],
+      fr: ["Patrimoine mondial de l'UNESCO", "Artefacts précolombiens", "Travail de la pierre unique"],
     },
     
   },
@@ -211,19 +256,28 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: ["Az eredeti épület a 18. század közepéről származik.", "A 2001-es tűzvész utáni rekonstrukció majdnem egy évig tartott.", "A Casonát 1971. március 27-én nyilvánították nemzeti műemlékké.", "A múzeum 1856-ból származó fegyvereket és dokumentumokat mutat be.", "A szerkezet kőből, fából és téglából áll.", "Liberia városától 35 kilométerre északra található."],
       ro: ["Clădirea originală datează de la mijlocul secolului al XVIII-lea.", "Reconstrucția după incendiul din 2001 a durat aproape un an.", "La Casona a fost declarată monument național pe 27 martie 1971.", "Muzeul expune arme și documente originale din anul 1856.", "Structura este realizată din piatră, lemn și țiglă.", "Se află la 35 de kilometri nord de orașul Liberia."],
       en: ["The original building dates back to the mid-18th century.", "The reconstruction after the 2001 fire took nearly a year.", "La Casona was declared a National Monument on March 27, 1971.", "The museum displays weapons and documents from the 1856 campaign.", "The structure is made of stone, wood, and clay tiles.", "It is located 35 kilometers north of the city of Liberia."],
+      es: [],
+      pt: [],
+      fr: [],
     }, 
     description: {
       de: "Ein historisches Herrenhaus und Schauplatz der Schlacht von Santa Rosa, ein Symbol für die nationale Souveränität.",
       hu: "A Santa Rosa hacienda történelmi főépülete, az 1856-os csata helyszíne. Egy tűzvész után újjáépítették.",
       ro: "Clădirea istorică principală a haciendei Santa Rosa, scena bătăliei din 1856. A fost reconstruită după un incendiu.",
-      en: "A historic ranch house and the site of the Battle of Santa Rosa in 1856, where Costa Rican forces defeated invaders."
+      en: "A historic ranch house and the site of the Battle of Santa Rosa in 1856, where Costa Rican forces defeated invaders.",
+      es: "Una casona histórica y escenario de la Batalla de Santa Rosa, un símbolo de la soberanía nacional.",
+      pt: "Um casarão histórico e cenário da Batalha de Santa Rosa, um símbolo da soberania nacional.",
+      fr: "Un manoir historique et le théâtre de la bataille de Santa Rosa, un symbole de la souveraineté nationale.",
     },
     
     facts: {
       de: ["Ort des Sieges von 1856", "Heute ein Museum", "Gelegen im Nationalpark Santa Rosa"],
       hu: ["Történelmi farmház", "A csata központi helyszíne", "Többször újjáépítették", "Múzeum a helyszínen"],
       ro: ["Casă de fermă istorică", "Locul central al bătăliei", "Reconstruită de mai multe ori", "Muzeu la fața locului"],
-      en: ["Site of the 1856 Battle of Santa Rosa", "Historic ranch building turned museum", "Located in Santa Rosa National Park", "UNESCO World Heritage site component"]
+      en: ["Site of the 1856 Battle of Santa Rosa", "Historic ranch building turned museum", "Located in Santa Rosa National Park", "UNESCO World Heritage site component"],
+      es: ["Lugar de la victoria de 1856", "Hoy es un museo", "Ubicada en el Parque Nacional Santa Rosa"],
+      pt: ["Local da vitória de 1856", "Atualmente um museu", "Localizada no Parque Nacional Santa Rosa"],
+      fr: ["Lieu de la victoire de 1856", "Aujourd'hui un musée", "Situé dans le parc national Santa Rosa"],
     },
      image: "/poi-images/la-casona-santa-rosa-history-v2.webp"},
   {
@@ -248,19 +302,28 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: ["A vésetek a folyóparti nagy lávaköveken találhatók.", "A motívumok között napok, spirálok és stilizált arcok szerepelnek.", "A lelőhely a Rincón de la Vieja Nemzeti Park közelében található.", "A technika a kőzet kipattintásából és csiszolásából állt.", "A petroglifák gyakran szolgáltak vízforrások jelölésére.", "Korukat i.sz. 800 és 1500 közé becsülik."],
       ro: ["Sculpturile se află pe pietre mari de lavă de pe malul râului.", "Motivele includ sori, spirale și fețe stilizate.", "Situl este situat lângă Parcul Național Rincón de la Vieja.", "Tehnica a constat în cioplirea și șlefuirea rocii.", "Petroglifele serveau adesea ca marcaje pentru sursele de apă.", "Sunt estimate a data din perioada dintre 800 și 1500 d.Hr."],
       en: ["The carvings are located on large lava boulders along the riverbank.", "Motifs include suns, spirals, and stylized human faces.", "The site is located near the Rincón de la Vieja National Park.", "The technique involved pecking and grinding the rock surface.", "Petroglyphs often served as markers for vital water sources.", "They are estimated to date from between 800 and 1500 AD."],
+      es: [],
+      pt: [],
+      fr: [],
     }, 
     description: {
       de: "Eine Sammlung von über 1.500 Jahre alten präkolumbianischen Felsritzungen in der Nähe des Nationalparks Rincón de la Vieja.",
       hu: "Több mint 1500 éves prekolumbiánus sziklavésetek gyűjteménye a Rincón de la Vieja Nemzeti Park közelében.",
       ro: "O colecție de gravuri rupestre precolumbiene vechi de peste 1.500 de ani, lângă Parcul Național Rincón de la Vieja.",
-      en: "A collection of over 1,500-year-old pre-Columbian rock carvings near the Rincón de la Vieja National Park."
+      en: "A collection of over 1,500-year-old pre-Columbian rock carvings near the Rincón de la Vieja National Park.",
+      es: "Una colección de grabados rupestres precolombinos de más de 1.500 años de antigüedad cerca del Parque Nacional Rincón de la Vieja.",
+      pt: "Uma coleção de gravuras rupestres pré-colombianas com mais de 1.500 anos de idade perto do Parque Nacional Rincón de la Vieja.",
+      fr: "Une collection de gravures rupestres précolombiennes datant de plus de 1 500 ans, près du parc national Rincón de la Vieja.",
     },
     
     facts: {
       de: ["Über 300 Gravuren", "Alter: ca. 300-800 n. Chr.", "Darstellungen von Tieren und Menschen", "Nahe Rincón de la Vieja"],
       hu: ["Több mint 300 véset", "Kor: kb. i.sz. 300-800", "Állat- és emberábrázolások", "A Rincón de la Vieja mellett"],
       ro: ["Peste 300 de gravuri", "Datare: cca. 300-800 d.Hr.", "Reprezentări de animale și oameni", "Lângă Rincón de la Vieja"],
-      en: ["Over 300 engravings", "Dated from 300-800 AD", "Depictions of animals and people", "Near Rincón de la Vieja"]
+      en: ["Over 300 engravings", "Dated from 300-800 AD", "Depictions of animals and people", "Near Rincón de la Vieja"],
+      es: ["Más de 300 grabados", "Edad: aprox. 300-800 d. C.", "Representaciones de animales y humanos", "Cerca de Rincón de la Vieja"],
+      pt: ["Mais de 300 gravuras", "Idade: aprox. 300-800 d. C.", "Representações de animais e humanos", "Perto de Rincón de la Vieja"],
+      fr: ["Plus de 300 gravures", "Âge : env. 300-800 apr. J.-C.", "Représentations d'animaux et d'humains", "Proche de Rincón de la Vieja"],
     },
      image: "/poi-images/negro-river-petroglyphs-history-v2.webp"},
   {
@@ -285,19 +348,28 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: ["A szigetcsoport 5 nagyobb és számos kisebb szigetből áll.", "A 'The Big Scare' merülőhely a bikaápákról ismert.", "1999 óta az UNESCO Világörökség részét képezik.", "A hajóút Playas del Cocóból körülbelül 1,5-2 órát vesz igénybe.", "A december és március közötti erős szelek korlátozzák a hozzáférést.", "Fontos folyosó a csendes-óceáni vándorló tengeri élőlények számára."],
       ro: ["Arhipelagul este format din 5 insule mari și numeroase insule mici.", "Locul de scufundări 'The Big Scare' este faimos pentru rechinii taur.", "Fac parte din Patrimoniul Mondial UNESCO din anul 1999.", "Călătoria cu barca din Playas del Coco durează aproximativ 1,5-2 ore.", "Vânturile puternice între decembrie și martie limitează accesul.", "Coridor important pentru viețuitoarele marine migratoare din Pacific."],
       en: ["The archipelago consists of 5 larger islands and numerous smaller ones.", "The 'Big Scare' dive site is famous for sightings of bull sharks.", "They have been a UNESCO World Heritage site since 1999.", "The boat trip from Playas del Coco takes about 1.5 to 2 hours.", "Strong winds between December and March often limit access.", "Critical corridor for migratory marine species in the Pacific."],
+      es: [],
+      pt: [],
+      fr: [],
     }, 
     description: {
       de: "Diese Inselgruppe war einst im Besitz des Diktators Somoza und wurde später zu einem Teil des Santa Rosa Nationalparks.",
       hu: "Ez a szigetcsoport egykor Somoza diktátor tulajdonában volt, később a Santa Rosa Nemzeti Park részévé vált.",
       ro: "Acest grup de insule a aparținut cândva dictatorului Somoza și a devenit ulterior parte a Parcului Național Santa Rosa.",
-      en: "This island group was once owned by the dictator Somoza and later became part of Santa Rosa National Park."
+      en: "This island group was once owned by the dictator Somoza and later became part of Santa Rosa National Park.",
+      es: "Este grupo de islas fue propiedad del dictador Somoza y más tarde pasó a formar parte del Parque Nacional Santa Rosa.",
+      pt: "Este grupo de ilhas pertenceu ao ditador Somoza e mais tarde tornou-se parte do Parque Nacional Santa Rosa.",
+      fr: "Cet archipel appartenait autrefois au dictateur Somoza et a ensuite été intégré au parc national Santa Rosa.",
     },
     
     facts: {
       de: ["Teil des Santa Rosa NP", "Ehemaliger Besitz von Somoza", "Wichtiges Meeresschutzgebiet", "Bekannt für Bullenhaie"],
       hu: ["A Santa Rosa NP része", "Somoza egykori birtoka", "Fontos tengeri védett terület", "Híres a bikacápáiról"],
       ro: ["Parte a Parcului Național Santa Rosa", "Fosta proprietate a lui Somoza", "Zonă marină protejată importantă", "Renumită pentru rechinii taur"],
-      en: ["Part of Santa Rosa NP", "Formerly owned by Somoza", "Important marine protected area", "Famous for bull shark diving"]
+      en: ["Part of Santa Rosa NP", "Formerly owned by Somoza", "Important marine protected area", "Famous for bull shark diving"],
+      es: ["Parte del PN Santa Rosa", "Antigua propiedad de Somoza", "Importante reserva marina", "Conocido por los tiburones toro"],
+      pt: ["Parte do PN Santa Rosa", "Antiga propriedade de Somoza", "Importante reserva marinha", "Conhecido pelos tubarões-touro"],
+      fr: ["Fait partie du PN Santa Rosa", "Ancienne propriété de Somoza", "Zone de protection marine majeure", "Connu pour ses requins-bouledogues"],
     },
      image: "/poi-images/bat-islands-history-v2.webp"},
   {
@@ -322,19 +394,28 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: ["A csata 1823. április 5-én zajlott le.", "Az összecsapás helyszíne 1540 méter magasan feküdt.", "Ez volt az ország első polgárháborúja a függetlenség után.", "A republikánusokat Gregorio José Ramírez vezette.", "A győzelem után San José lett Costa Rica fővárosa.", "Az imperialisták a Mexikói Császársághoz akartak csatlakozni."],
       ro: ["Bătălia a avut loc la data de 5 aprilie 1823.", "Locația se află în pasul Ochomogo, la 1540 m altitudine.", "A fost primul conflict civil după independența de Spania.", "Liderul forțelor republicane a fost Gregorio José Ramírez.", "Victoria a dus la mutarea capitalei la San José.", "Conflictul a opus susținătorii republicii celor ai imperiului."],
       en: ["The battle took place on April 5, 1823.", "The site is located at the Ochomogo Pass, 1540m above sea level.", "It was the first civil war after independence from Spain.", "Gregorio José Ramírez commanded the victorious Republican forces.", "The victory resulted in San José becoming the capital city.", "The conflict was between Imperialists and Republicans."],
+      es: [],
+      pt: [],
+      fr: [],
     }, 
     description: {
       de: "Ort des kurzen Bürgerkriegs von 1823, der entschied, ob Costa Rica dem mexikanischen Reich beitritt. Der Sieg der Republikaner führte zur Verlegung der Hauptstadt nach San José.",
       hu: "Az 1823-as rövid polgárháború helyszíne, amely eldöntötte, hogy Costa Rica csatlakozzon-e a Mexikói Császársághoz. A köztársaságiak győzelme a főváros San Joséba helyezéséhez vezetett.",
       ro: "Locul scurtei bătălii civile din 1823 care a decis dacă Costa Rica se va alătura Imperiului Mexican. Victoria republicanilor a dus la mutarea capitalei la San José.",
-      en: "Site of the short 1823 civil war that decided Costa Rica's capital city. The victory of the Republicans led to the capital being moved to San José."
+      en: "Site of the short 1823 civil war that decided Costa Rica's capital city. The victory of the Republicans led to the capital being moved to San José.",
+      es: "Lugar de la breve guerra civil de 1823, que decidió si Costa Rica se unía al imperio mexicano. La victoria republicana llevó al traslado de la capital a San José.",
+      pt: "Local da breve guerra civil de 1823, que decidiu se a Costa Rica se juntaria ao império mexicano. A vitória republicana levou à transferência da capital para San José.",
+      fr: "Lieu de la brève guerre civile de 1823, qui décida si le Costa Rica rejoignait l'empire mexicain. La victoire républicaine entraîna le transfert de la capitale à San José.",
     },
     
     facts: {
       de: ["Bürgerkrieg von 1823", "Definierte San José als Hauptstadt", "Konflikt zwischen Cartago und San José", "Republikanischer Sieg"],
       hu: ["1823-as polgárháború", "San José lett a főváros", "Cartago és San José konfliktusa", "Köztársasági győzelem"],
       ro: ["Războiul civil din 1823", "A stabilit San José drept capitală", "Conflict între Cartago și San José", "Victorie republicană"],
-      en: ["Civil war of 1823", "Defined San José as the capital", "Conflict between Cartago and San José", "Republican victory"]
+      en: ["Civil war of 1823", "Defined San José as the capital", "Conflict between Cartago and San José", "Republican victory"],
+      es: ["Guerra civil de 1823", "Definió a San José como capital", "Conflicto entre Cartago y San José", "Victoria republicana"],
+      pt: ["Guerra civil de 1823", "Definiu San José como capital", "Conflito entre Cartago e San José", "Vitória republicana"],
+      fr: ["Guerre civile de 1823", "A défini San José comme capitale", "Conflit entre Cartago et San José", "Victoire républicaine"],
     },
      image: "/poi-images/ochomogo-war-site-history-v2.webp"},
   {
@@ -359,19 +440,28 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: ["Ignacio de Acosta fedezte fel a bányákat 1795 körül.", "A bányák az El Tablazo hegységben találhatók.", "Az aranykitermelés fénykora 1840 és 1860 közé esett.", "A kinyeréshez higanyt használtak az amalgamáláshoz.", "A bányászat segített finanszírozni az ország vasútjait.", "A terület ma ipari és kulturális örökségvédelmi helyszín."],
       ro: ["Minele au fost descoperite de Ignacio de Acosta în 1795.", "Zăcămintele se află în masivul muntos El Tablazo.", "Perioada de maximă producție a fost între 1840 și 1860.", "Extracția aurului se făcea prin metoda amalgamării cu mercur.", "Mineritul a fost a doua sursă de venit după cafea în acea epocă.", "Astăzi, minele sunt considerate patrimoniu istoric industrial."],
       en: ["Ignacio de Acosta discovered the mines around 1795.", "The mines are situated in the El Tablazo mountain range.", "Peak production occurred between 1840 and 1860.", "Mercury was historically used for the gold extraction process.", "Mining profits helped fund early national infrastructure.", "The site is now recognized as part of the country's industrial heritage."],
+      es: [],
+      pt: [],
+      fr: [],
     }, 
     description: {
       de: "Eine historische Goldminenregion, die im späten 19. und frühen 20. Jahrhundert einen kleinen Goldrausch erlebte.",
       hu: "Történelmi aranybányászati régió, amely a 19. század végén és a 20. század elején egy kisebb aranylázat élt át.",
       ro: "O regiune istorică de exploatare a aurului care a cunoscut o mică goană după aur la sfârșitul secolului al XIX-lea și începutul secolului al XX-lea.",
-      en: "A historical gold mining region that experienced a small-scale gold rush in the late 19th and early 20th centuries."
+      en: "A historical gold mining region that experienced a small-scale gold rush in the late 19th and early 20th centuries.",
+      es: "Una región minera de oro histórica que vivió una pequeña fiebre del oro a finales del siglo XIX y principios del XX.",
+      pt: "Uma região histórica de mineração de ouro que viveu uma pequena febre do ouro no final do século XIX e início do século XX.",
+      fr: "Une région minière aurifère historique qui a connu une petite ruée vers l'or à la fin du XIXe et au début du XXe siècle.",
     },
     
     facts: {
       de: ["Goldrausch um 1900", "Handwerklicher Bergbau", "Wichtige wirtschaftliche Vergangenheit", "Heute noch kleine Betriebe"],
       hu: ["Aranyláz 1900 körül", "Kézműves bányászat", "Jelentős gazdasági múlt", "Ma is működnek kis bányák"],
       ro: ["Goana după aur în jurul anului 1900", "Minerit artizanal", "Trecut economic important", "Încă există mici operațiuni"],
-      en: ["Gold rush around 1900", "Artisanal mining practices", "Important economic history", "Small-scale mining continues today"]
+      en: ["Gold rush around 1900", "Artisanal mining practices", "Important economic history", "Small-scale mining continues today"],
+      es: ["Fiebre del oro hacia 1900", "Minería artesanal", "Pasado económico importante", "Pequeñas explotaciones aún hoy"],
+      pt: ["Febre do ouro por volta de 1900", "Mineração artesanal", "Passado económico importante", "Ainda existem pequenas explorações hoje"],
+      fr: ["Ruée vers l'or vers 1900", "Exploitation artisanale", "Passé économique important", "Encore de petites exploitations aujourd'hui"],
     },
      image: "/poi-images/acosta-mines-history-v2.webp"},
   {
@@ -396,19 +486,28 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: ["A vésetek i.sz. 300 és 800 között készültek.", "Az alkotások a chorotega indiánok őseitől származnak.", "Az ábrák között állatok, például kígyók és madarak láthatók.", "A szimbólumokat kemény vulkanikus kőzetbe vésték.", "A helyszín valószínűleg vallási szertartások központja volt.", "A természetes erózió miatt a leletek állapota folyamatosan romlik."],
       ro: ["Petroglifele datează aproximativ din anii 300 - 800 d.Hr.", "Sunt atribuite strămoșilor populațiilor indigene Chorotega.", "Motivele includ șerpi, păsări și figuri geometrice.", "Suportul este reprezentat de roci vulcanice de mari dimensiuni.", "Situl era probabil un loc de închinare sau observație astronomică.", "Sunt considerate printre cele mai vechi forme de artă din Guanacaste."],
       en: ["The petroglyphs date back to between 300 AD and 800 AD.", "They are linked to the ancestors of the Chorotega people.", "Motifs include animals like snakes, jaguars, and birds.", "The carvings were made on hard volcanic rock surfaces.", "The site likely served as a center for ritual ceremonies.", "Natural erosion is the primary threat to their preservation."],
+      es: [],
+      pt: [],
+      fr: [],
     }, 
     description: {
       de: "Eine weitere wichtige Stätte mit Felsritzungen in Guanacaste, die Einblicke in das Leben der präkolumbianischen Völker gibt.",
       hu: "Egy másik fontos sziklavésetes lelőhely Guanacastében, amely betekintést nyújt a prekolumbiánus népek életébe.",
       ro: "Petroglifele de la Cabuyal sunt gravuri antice în piatră care oferă indicii prețioase despre culturile precolumbiene din Guanacaste. Aceste simboluri reflectă cosmogonia și viața de zi cu zi a primilor locuitori ai regiunii.",
-      en: "Another significant site of rock carvings in Guanacaste, offering insights into the lives of pre-Columbian peoples."
+      en: "Another significant site of rock carvings in Guanacaste, offering insights into the lives of pre-Columbian peoples.",
+      es: "Otro sitio importante con tallados en roca en Guanacaste que ofrece información sobre la vida de los pueblos precolombinos.",
+      pt: "Outro local importante com gravuras rupestres em Guanacaste que oferece vislumbres sobre a vida dos povos pré-colombianos.",
+      fr: "Un autre site important de gravures rupestres à Guanacaste, offrant un aperçu de la vie des peuples précolombiens.",
     },
     
     facts: {
       de: ["Präkolumbianische Kunst", "In der Nähe der Küste", "Zeigt spiralige und tierische Motive", "Wenig erforscht"],
       hu: ["Prekolumbiánus művészet", "A tengerpart közelében", "Spirál- és állatmotívumok", "Kevéssé kutatott"],
       ro: ["Datate în perioada precolumbiană", "Localizate pe coasta Peninsulei Nicoya", "Reprezintă figuri umane și animale stilizate"],
-      en: ["Pre-Columbian art", "Located near the coast", "Features spiral and animal motifs", "Less studied than other sites"]
+      en: ["Pre-Columbian art", "Located near the coast", "Features spiral and animal motifs", "Less studied than other sites"],
+      es: ["Arte precolombino", "Cerca de la costa", "Muestra motivos en espiral y animales", "Poco explorado"],
+      pt: ["Arte pré-colombiana", "Perto da costa", "Mostra motivos em espiral e animais", "Pouco explorado"],
+      fr: ["Art précolombien", "Proche de la côte", "Présente des motifs en spirale et animaliers", "Peu exploré"],
     },
      image: "/poi-images/cabuyal-petroglyphs-history-v2.webp"},
   {
@@ -433,19 +532,28 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: ["A kereszt a tisztítótűzben lévő lelkek emlékhelyeként szolgál.", "Fontos állomása volt a vallási körmeneteknek.", "A legtöbb ilyen keresztet a 19. század végén állították.", "Gyakran tartós keményfából, például guajakfából készültek.", "Történelmileg a városhatárokat is jelölték velük.", "Az emlékmű a régió szellemi kulturális örökségének része."],
       ro: ["Crucea servește ca loc de pomenire pentru sufletele celor adormiți.", "Era o stație obligatorie în timpul procesiunilor de Paște.", "Multe dintre aceste monumente datează din secolul al XIX-lea.", "Materialele folosite erau lemnul de esență tare sau piatra cioplită.", "Simboliza protecția divină asupra întregii comunități locale.", "Este un simbol al rezistenței tradițiilor catolice rurale."],
       en: ["The cross serves as a memorial for souls in purgatory.", "It was a key station during traditional religious processions.", "Most of these crosses were erected during the late 1800s.", "They are often constructed from durable hardwoods like Guayacán.", "Historically, they marked the territorial limits of the town.", "The monument is considered part of the region's intangible heritage."],
+      es: [],
+      pt: [],
+      fr: [],
     }, 
     description: {
       de: "Ein markantes historisches Kreuz, das eng mit den religiösen Traditionen und der lokalen Geschichte verbunden ist.",
       hu: "Történelmi emlékhely és kereszt, amelyhez helyi legendák és vallási hagyományok kötődnek a gyarmati kor óta.",
       ro: "O cruce mare lângă Cartago care comemorează victimele unei erupții vulcanice sau ale unei epidemii din secolul al XIX-lea.",
-      en: "A commemorative cross associated with local memory and religious tradition in Cartago Province. It reflects the area's strong blend of faith and historical identity."
+      en: "A commemorative cross associated with local memory and religious tradition in Cartago Province. It reflects the area's strong blend of faith and historical identity.",
+      es: "Una cruz histórica prominente estrechamente ligada a las tradiciones religiosas y la historia local.",
+      pt: "Uma cruz histórica proeminente intimamente ligada às tradições religiosas e à história local.",
+      fr: "Une croix historique marquante étroitement liée aux traditions religieuses et à l'histoire locale.",
     },
     
     facts: {
       de: ["Religiöses Wahrzeichen", "Ort für Gebet und Gedenken", "Historischer Treffpunkt"],
       hu: ["Gyarmati kori vallási emlék", "Helyi zarándokhely és legenda", "Kulturális örökség része"],
       ro: ["Cruce comemorativă", "Victimele dezastrelor naturale", "Punct de belvedere", "Semnificație religioasă"],
-      en: ["In Cartago Province", "Commemorative monument", "Local religious memory"]
+      en: ["In Cartago Province", "Commemorative monument", "Local religious memory"],
+      es: ["Monumento religioso", "Lugar de oración y conmemoración", "Punto de encuentro histórico"],
+      pt: ["Marco religioso", "Local de oração e memória", "Ponto de encontro histórico"],
+      fr: ["Monument religieux", "Lieu de prière et de commémoration", "Lieu de rencontre historique"],
     },
      image: "/poi-images/las-animas-cross-history-v2.webp"},
   {
@@ -470,19 +578,28 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: ["A vasútvonal építése az 1870-es években kezdődött.", "A vonal San Josét kötötte össze Puntarenas kikötőjével.", "1930-ban a teljes szakaszt villamosították.", "A legfontosabb szállított áru az exportra szánt kávé volt.", "A pálya bonyolult vulkáni domborzati viszonyokon halad át.", "Régi acél vasúti hidak a mai napig láthatók a környéken."],
       ro: ["Construcția segmentului a început în deceniul 1870.", "Calea ferată lega San José de portul Puntarenas.", "În anul 1930, linia a fost complet electrificată.", "Cafeaua reprezenta principalul produs transportat spre export.", "Traseul este renumit pentru viaductele și tunelurile sale.", "Gările istorice de pe traseu sunt protejate prin lege."],
       en: ["The construction of the line started in the 1870s.", "The railway connected San José to the port of Puntarenas.", "The entire line was fully electrified by 1930.", "Coffee was the primary commodity transported for export.", "The route is known for its challenging volcanic topography.", "Historic steel railway bridges are still standing today."],
+      es: [],
+      pt: [],
+      fr: [],
     }, 
     description: {
       de: "Ein Relikt der Eisenbahngeschichte, das an die Zeit der industriellen Erschließung Costa Ricas erinnert.",
       hu: "A La Palma vasúti szakasz a karibi part felé vezető régi útvonal egyik megmaradt emléke. A banánexport és a vasútépítés történetéhez kötődik.",
       ro: "Rămășițe ale vechii 'căi ferate din junglă' către coasta Atlanticului, care a fost crucială pentru exportul de banane.",
-      en: "Remains of the old 'Jungle Train' to the Atlantic coast, which was crucial for the banana export industry."
+      en: "Remains of the old 'Jungle Train' to the Atlantic coast, which was crucial for the banana export industry.",
+      es: "Un vestigio de la historia ferroviaria que recuerda la época del desarrollo industrial de Costa Rica.",
+      pt: "Um vestígio da história ferroviária que recorda a época do desenvolvimento industrial da Costa Rica.",
+      fr: "Un vestige de l'histoire ferroviaire qui rappelle l'époque du développement industriel du Costa Rica.",
     },
     
     facts: {
       de: ["Teil des alten Schienennetzes", "Wichtig für den Bananenexport", "Industriekulturelles Erbe"],
       hu: ["Történeti vasúti szakasz", "Karibi kapcsolat", "Banánexporthoz kötődik"],
       ro: ["Linie ferată istorică", "Exportul de banane", "Construită în secolul al XIX-lea", "Astăzi, parțial traseu de drumeție"],
-      en: ["Historic railway line", "Banana export industry", "Built in the 19th century", "Now partly a hiking trail"]
+      en: ["Historic railway line", "Banana export industry", "Built in the 19th century", "Now partly a hiking trail"],
+      es: ["Parte de la antigua red ferroviaria", "Importante para la exportación de banano", "Patrimonio cultural industrial"],
+      pt: ["Parte da antiga rede ferroviária", "Importante para a exportação de banana", "Património cultural industrial"],
+      fr: ["Partie de l'ancien réseau ferroviaire", "Important pour l'exportation de bananes", "Patrimoine industriel"],
     },
     
   },
@@ -508,19 +625,28 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: ["A terület évszázadok óta a bribri indiánok otthona.", "Az afro-karibi telepesek 1900 körül érkeztek a régióba.", "A kakaó volt a legfontosabb exportcikk az 1970-es évekig.", "A nemzeti rezervátumot hivatalosan 1985-ben alapították.", "A régióban található az ország kevés korallzátonyainak egyike.", "Manzanillo korábban fontos faanyag-kereskedelmi központ volt."],
       ro: ["Zona este teritoriul ancestral al grupului indigen Bribri.", "Imigrația afro-caraibiană a început masiv în jurul anului 1900.", "Cacaoa a fost principala sursă de venit până la criza din 1970.", "Refugiul Național de Faună a fost înființat în anul 1985.", "Include cele mai bine conservate recife de corali din Caraibe.", "Numele Manzanillo provine de la arborii de mancenillier abundenți."],
       en: ["The area has been home to the Bribri people for centuries.", "Afro-Caribbean settlers arrived in the region around 1900.", "Cocoa was the main export commodity until the 1970s.", "The National Wildlife Refuge was officially established in 1985.", "The region contains one of the few coral reefs in the country.", "Manzanillo was once a significant hub for the timber trade."],
+      es: [],
+      pt: [],
+      fr: [],
     }, 
     description: {
       de: "Diese Region an der Karibikküste hat eine reiche afro-karibische Geschichte, die von Fischern und Kakaobauern geprägt ist.",
       hu: "Ennek a karibi-parti régiónak gazdag afro-karibi történelme van, amelyet halászok és kakaótermesztők alakítottak.",
       ro: "Această regiune de pe coasta Caraibelor are o istorie bogată afro-caraibiană, modelată de pescari și cultivatori de cacao.",
-      en: "This Caribbean coastal region has a rich Afro-Caribbean history, shaped by fishermen and cocoa farmers."
+      en: "This Caribbean coastal region has a rich Afro-Caribbean history, shaped by fishermen and cocoa farmers.",
+      es: "Esta región de la costa caribeña tiene una rica historia afrocaribeña, marcada por pescadores y productores de cacao.",
+      pt: "Esta região da costa caribenha tem uma rica história afro-caribenha, moldada por pescadores e produtores de cacau.",
+      fr: "Cette région de la côte caraïbe possède une riche histoire afro-caribéenne, marquée par les pêcheurs et les producteurs de cacao.",
     },
     
     facts: {
       de: ["Afro-karibische Kultur", "Traditionelle Fischerei", "Kakao- und Kokosnussanbau", "Einzigartige Gastronomie"],
       hu: ["Afro-karibi kultúra", "Hagyományos halászat", "Kakaó- és kókusztermesztés", "Egyedülálló gasztronómia"],
       ro: ["Cultură afro-caraibiană", "Pescuit tradițional", "Cultivarea cacauei și a nucii de cocos", "Gastronomie unică"],
-      en: ["Afro-Caribbean culture", "Traditional fishing villages", "History of cocoa and coconut farming", "Unique local cuisine"]
+      en: ["Afro-Caribbean culture", "Traditional fishing villages", "History of cocoa and coconut farming", "Unique local cuisine"],
+      es: ["Cultura afrocaribeña", "Pesca tradicional", "Cultivo de cacao y coco", "Gastronomía única"],
+      pt: ["Cultura afro-caribenha", "Pesca tradicional", "Cultivo de cacau e coco", "Gastronomia única"],
+      fr: ["Culture afro-caribéenne", "Pêche traditionnelle", "Culture du cacao et de la noix de coco", "Gastronomie unique"],
     },
      image: "/poi-images/gandoca-manzanillo-history-v2.webp"},
   {
@@ -545,19 +671,28 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: ["A templom 1915 és 1925 között épült fel.", "Építészeti stílusa az európai hatású neogótika.", "Az ólomüveg ablakokat Franciaországból és Olaszországból hozták.", "Az épület szinte sértetlenül túlélte az 1924-es földrengést.", "A templomot Páli Szent Vince tiszteletére szentelték.", "Az épület ma Costa Rica építészeti örökségének része."],
       ro: ["Biserica a fost ridicată în perioada 1915 - 1925.", "Arhitectura urmează canoanele stilului neogotic european.", "Vitraliile interioare provin din ateliere franceze și italiene.", "A rezistat fără daune majore cutremurului din anul 1924.", "Sfântul Vincențiu de Paul este patronul spiritual al locașului.", "Este declarată monument de interes istoric și arhitectural."],
       en: ["The church was constructed between 1915 and 1925.", "The architectural style is European-inspired Neo-Gothic.", "The stained glass windows were imported from France and Italy.", "The building survived the 1924 earthquake with minimal damage.", "It is dedicated to the patron saint, Vincent de Paul.", "The structure is designated as a national architectural heritage site."],
+      es: [],
+      pt: [],
+      fr: [],
     }, 
     description: {
       de: "Eine wunderschöne Kirche in Moravia, die das geistliche und kulturelle Zentrum der Gemeinde bildet.",
       hu: "San Vicente de Moravia temploma a moraviai városmag egyik régi vallási pontja. A környék közösségi életében ma is fontos szerepet játszik.",
       ro: "Biserica San Vicente de Moravia este un punct de referință istoric și spiritual în nordul capitalei. Clădirea actuală păstrează elemente arhitecturale tradiționale și servește ca inimă a comunității din Moravia.",
-      en: "A beautiful Catholic church in the heart of Moravia, known for its distinct architectural style and local religious importance."
+      en: "A beautiful Catholic church in the heart of Moravia, known for its distinct architectural style and local religious importance.",
+      es: "Una hermosa iglesia en Moravia que constituye el centro espiritual y cultural de la comunidad.",
+      pt: "Uma bela igreja em Moravia que constitui o centro espiritual e cultural da comunidade.",
+      fr: "Une magnifique église à Moravia qui constitue le centre spirituel et culturel de la communauté.",
     },
     
     facts: {
       de: ["Zentrum der Handwerksstadt", "Beeindruckende Architektur", "Wichtiger Gemeindetreffpunkt"],
       hu: ["Moravia központi része", "Régi plébániai helyszín", "Közösségi szerepű templom"],
       ro: ["Localizată în centrul cantonului Moravia", "Păstrează vitralii și picturi religioase vechi", "Arhitectură de inspirație colonială"],
-      en: ["Located in Moravia, San José", "Notable Neo-Gothic architectural elements", "Center of local community life", "Beautiful stained glass and wood carvings"]
+      en: ["Located in Moravia, San José", "Notable Neo-Gothic architectural elements", "Center of local community life", "Beautiful stained glass and wood carvings"],
+      es: ["Centro de la ciudad artesanal", "Arquitectura impresionante", "Importante punto de encuentro comunitario"],
+      pt: ["Centro da cidade artesanal", "Arquitetura impressionante", "Importante ponto de encontro comunitário"],
+      fr: ["Centre de la ville artisanale", "Architecture impressionnante", "Point de rencontre communautaire important"],
     },
     
   },
@@ -583,19 +718,28 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: ["Barva városát 1561-ben alapították.", "Az építészet a hagyományos vályogtégla (adobe) építésen alapul.", "A San Bartolomé-templom eredetileg a 18. századból származik.", "A városközpont 1975 óta nemzeti örökségi helyszín.", "Barva a hagyományos maszkos felvonulások (mascaradas) központja.", "A település a kialudt Barva-vulkán lábánál fekszik."],
       ro: ["Orașul Barva a fost întemeiat oficial în anul 1561.", "Casele sunt construite prin metoda tradițională a chirpiciului.", "Biserica parohială San Bartolomé datează din secolul al XVIII-lea.", "Centrul istoric este protejat ca patrimoniu național din 1975.", "Este considerat capitala măștilor tradiționale costaricană.", "Localitatea păstrează intact planul urbanistic spaniol original."],
       en: ["The town of Barva was founded in the year 1561.", "The local architecture is based on traditional adobe construction.", "The San Bartolomé Church dates back to the 18th century.", "The center has been a National Heritage Site since 1975.", "Barva is the center of the traditional 'Mascarada' art form.", "The town is located at the foot of the extinct Barva Volcano."],
+      es: [],
+      pt: [],
+      fr: [],
     }, 
     description: {
       de: "Eine der am besten erhaltenen Kolonialstädte Costa Ricas mit Adobe-Häusern und einer schönen Barockkirche.",
       hu: "Costa Rica egyik legjobb állapotban megmaradt gyarmati városa, vályogházakkal és egy gyönyörű barokk templommal.",
       ro: "Unul dintre cele mai bine conservate orașe coloniale din Costa Rica, cu case din chirpici și o frumoasă biserică barocă.",
-      en: "One of the best-preserved colonial towns in Costa Rica, with adobe houses and a beautiful baroque church."
+      en: "One of the best-preserved colonial towns in Costa Rica, with adobe houses and a beautiful baroque church.",
+      es: "Una de las ciudades coloniales mejor conservadas de Costa Rica, con casas de adobe y una hermosa iglesia barroca.",
+      pt: "Uma das cidades coloniais mais bem preservadas da Costa Rica, com casas de adobe e uma bela igreja barroca.",
+      fr: "L'une des villes coloniales les mieux préservées du Costa Rica, avec des maisons en adobe et une belle église baroque.",
     },
     
     facts: {
       de: ["Koloniale Adobe-Häuser", "Barockkirche San Bartolomé", "Nationales historisches Erbe", "Kopfsteinpflasterstraßen"],
       hu: ["Gyarmati vályogházak", "Szent Bertalan barokk templom", "Nemzeti történelmi örökség", "Macskaköves utcák"],
       ro: ["Case coloniale din chirpici", "Biserica barocă San Bartolomé", "Patrimoniu istoric național", "Străzi pavate cu piatră cubică"],
-      en: ["Colonial adobe houses", "Baroque San Bartolomé Church", "National Historic Heritage site", "Cobblestone streets"]
+      en: ["Colonial adobe houses", "Baroque San Bartolomé Church", "National Historic Heritage site", "Cobblestone streets"],
+      es: ["Casas coloniales de adobe", "Iglesia barroca de San Bartolomé", "Patrimonio histórico nacional", "Calles empedradas"],
+      pt: ["Casas coloniais de adobe", "Igreja barroca de São Bartolomeu", "Património histórico nacional", "Ruas de paralelepípedos"],
+      fr: ["Maisons coloniales en adobe", "Église baroque San Bartolomé", "Patrimoine historique national", "Rues pavées"],
     },
      image: "/poi-images/barva-historical-center-history-v2.webp"},
   {
@@ -620,19 +764,28 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: ["Juan Alvarado fedezte fel az első aranyat 1884-ben.", "Több mint 400 km alagutat ástak az aranyláz idején.", "Itt épült fel Costa Rica első vízerőműve a bányák számára.", "Minor Keith volt a régió egyik legfontosabb befektetője.", "Több mint 20 nemzet bányászai dolgoztak Las Juntasban.", "Az Abangaresi Bányászati Ökomúzeum eredeti gépeket mutat be."],
       ro: ["Goana după aur a început după descoperirea lui Juan Alvarado în 1884.", "Rețeaua de tuneluri miniere depășește lungimea de 400 km.", "Prima hidrocentrală din țară a fost ridicată în această zonă.", "Minor Keith a deținut controlul asupra celor mai profitabile mine.", "Forța de muncă a fost internațională, cu peste 20 de naționalități.", "Ecomuzeul local păstrează echipamente de epocă funcționale."],
       en: ["Juan Alvarado discovered the first gold in Abangares in 1884.", "Over 400 km of tunnels were excavated during the gold rush.", "The first hydroelectric plant in Costa Rica was built here for the mines.", "Minor Keith was one of the primary investors in the region.", "Miners from over 20 nations worked in the Las Juntas area.", "The Ecomuseum of Abangares Mines displays original machinery."],
+      es: [],
+      pt: [],
+      fr: [],
     }, 
     description: {
       de: "Das Zentrum des Goldrausches in Abangares im späten 19. Jahrhundert. Ein Ecomuseum erzählt die Geschichte der Minenarbeiter.",
       hu: "Az Abangares-i aranyláz központja a 19. század végén. Egy ökomúzeum meséli el a bányászok történetét.",
       ro: "Centrul goanei după aur din Abangares la sfârșitul secolului al XIX-lea. Un ecomuzeu spune povestea minerilor.",
-      en: "The center of the Abangares gold rush in the late 19th century. An ecomuseum tells the story of the miners."
+      en: "The center of the Abangares gold rush in the late 19th century. An ecomuseum tells the story of the miners.",
+      es: "El centro de la fiebre del oro en Abangares a finales del siglo XIX. Un ecomuseo narra la historia de los mineros.",
+      pt: "O centro da corrida do ouro em Abangares no final do século XIX. Um ecomuseu conta a história dos mineiros.",
+      fr: "Le centre de la ruée vers l'or à Abangares à la fin du XIXe siècle. Un écomusée raconte l'histoire des mineurs.",
     },
     
     facts: {
       de: ["Goldrausch von Abangares", "Ecomuseum vorhanden", "Historischer Bergbau", "Gegründet von Minenarbeitern"],
       hu: ["Abangares-i aranyláz", "Ökomúzeum a helyszínen", "Történelmi bányászat", "Bányászok alapították"],
       ro: ["Goana după aur din Abangares", "Există un ecomuzeu", "Minerit istoric", "Fondat de mineri"],
-      en: ["Abangares gold rush", "Ecomuseum on site", "Historic mining town", "Founded by miners"]
+      en: ["Abangares gold rush", "Ecomuseum on site", "Historic mining town", "Founded by miners"],
+      es: ["Fiebre del oro de Abangares", "Ecomuseo disponible", "Minería histórica", "Fundada por mineros"],
+      pt: ["Corrida do ouro de Abangares", "Ecomuseu presente", "Mineração histórica", "Fundada por mineiros"],
+      fr: ["Ruée vers l'or d'Abangares", "Présence d'un écomusée", "Mines historiques", "Fondée par des mineurs"],
     },
      image: "/poi-images/las-juntas-gold-rush-history-v2.webp"},
   {
@@ -657,19 +810,28 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: ["Az El Salto a Ciruelas-folyón található Heredia és Alajuela határán.", "A helyszín a 20. század elején fontos kirándulóhely volt.", "A történelmi Camino Real útvonalának közelében fekszik.", "Helyi mondák szerint kincsek vannak elrejtve a vízesésnél.", "A múltban a folyó vize mezőgazdasági malmokat hajtott meg.", "A terület ma ökológiai folyosóként szolgál az ipari zónában."],
       ro: ["El Salto este format de cursul râului Ciruelas.", "A fost una dintre primele destinații de turism local din secolul XX.", "Se află pe traseul istoric al drumului colonial Camino Real.", "Există legende despre bogății ascunse în peșterile de sub cascadă.", "Energia hidraulică a râului a alimentat primele mori din zonă.", "Situl este un punct de conservare a biodiversității urbane."],
       en: ["El Salto is located on the Ciruelas River near Belén.", "The site was a major leisure destination in the early 20th century.", "It is situated near the historic route of the Camino Real.", "Local folklore speaks of hidden treasures near the waterfall.", "The river's water once powered local agricultural mills.", "Today, it serves as an ecological corridor within an urban zone."],
+      es: [],
+      pt: [],
+      fr: [],
     }, 
     description: {
       de: "Ein historischer Ort mit einem Wasserfall, der in der Kolonialzeit als Treffpunkt und Waschplatz diente.",
       hu: "El Salto de Belén egy történeti vízesés és találkozóhely Heredia térségében. A gyarmati korszakban a helyi közösségi élethez is kapcsolódott.",
       ro: "El Salto de Belén este un loc istoric legat de vechile rute de transport și peisajele naturale din Heredia. Zona este cunoscută pentru importanța sa în dezvoltarea comunităților locale și conservarea tradițiilor de la țară.",
-      en: "A historic site with a waterfall that served as a meeting point and washing place during colonial times."
+      en: "A historic site with a waterfall that served as a meeting point and washing place during colonial times.",
+      es: "Un lugar histórico con una cascada que servía como punto de encuentro y lavadero en la época colonial.",
+      pt: "Um local histórico com uma cascata que servia como ponto de encontro e lavadouro na época colonial.",
+      fr: "Un site historique avec une cascade qui servait de point de rencontre et de lavoir à l'époque coloniale.",
     },
     
     facts: {
       de: ["Kolonialer Treffpunkt", "Natürlicher Waschplatz", "Lokale Legenden", "Historische soziale Bedeutung"],
       hu: ["Heredia térségében", "Történeti vízesés", "Gyarmati találkozóhely"],
       ro: ["Localizat în cantonul Belén", "Punct de referință pentru istoria locală", "Zona de agrement istoric pentru comunitate"],
-      en: ["Colonial meeting spot", "Natural washing place", "Site of local legends", "Historic social importance"]
+      en: ["Colonial meeting spot", "Natural washing place", "Site of local legends", "Historic social importance"],
+      es: ["Punto de encuentro colonial", "Lavadero natural", "Leyendas locales", "Importancia social histórica"],
+      pt: ["Ponto de encontro colonial", "Lavadouro natural", "Lendas locais", "Importância social histórica"],
+      fr: ["Lieu de rencontre colonial", "Lavoir naturel", "Légendes locales", "Importance sociale historique"],
     },
      image: "/poi-images/el-salto-de-belen-history-v2.webp"},
   {
@@ -694,19 +856,28 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: ["1544-ben alapították", "Nicoya városának központjában található", "Costa Rica egyik legrégebbi épülete", "Az 1826-os és 1950-es földrengések súlyosan megrongálták", "Egyházi művészeti múzeumnak ad otthont", "1923 óta nemzeti műemlék"],
       ro: ["Fondată în anul 1544", "Situată în orașul Nicoya", "Una dintre cele mai vechi clădiri din Costa Rica", "Cutremurele din 1826 și 1950 au afectat structura", "Găzduiește un muzeu de artă sacră", "Monument național din anul 1923"],
       en: ["Founded in the year 1544", "Located in the city of Nicoya", "One of the oldest buildings in Costa Rica", "Earthquakes damaged the structure in 1826 and 1950", "Houses a museum of sacred art", "National monument since 1923"],
+      es: [],
+      pt: [],
+      fr: [],
     }, 
     description: {
       de: "Die Kirche San Blas de Nicoya steht auf einem der ältesten Siedlungsgebiete des Landes und atmet Geschichte.",
       hu: "A nicoyai San Blas templom Costa Rica egyik legismertebb gyarmati emléke. A város történeti központjában áll, és az ország legősibb templomai közé tartozik.",
       ro: "Biserica San Blas din Nicoya este una dintre cele mai vechi biserici din Costa Rica, construită în 1644, și o mărturie a colonizării timpurii.",
-      en: "The Church of San Blas in Nicoya is one of the country's most significant colonial landmarks, founded in the 16th century."
+      en: "The Church of San Blas in Nicoya is one of the country's most significant colonial landmarks, founded in the 16th century.",
+      es: "La iglesia de San Blas de Nicoya se alza sobre uno de los asentamientos más antiguos del país y respira historia.",
+      pt: "A igreja de San Blas de Nicoya ergue-se sobre uma das povoações mais antigas do país e respira história.",
+      fr: "L'église de San Blas de Nicoya s'élève sur l'un des plus anciens sites de peuplement du pays et respire l'histoire.",
     },
     
     facts: {
       de: ["Gegründet im 16. Jahrhundert", "Wiederaufgebaut nach Erdbeben", "Kulturelles Erbe der Chorotega-Region"],
       hu: ["San Blas-templom", "Gyarmati örökség", "Az egyik legrégebbi templom"],
       ro: ["Construită în 1644", "A supraviețuit mai multor cutremure", "Mic muzeu istoric", "În inima peninsulei Nicoya"],
-      en: ["Founded in 1544 in Nicoya", "Dedicated to San Blas", "Withstood several major earthquakes", "Features a museum of colonial art"]
+      en: ["Founded in 1544 in Nicoya", "Dedicated to San Blas", "Withstood several major earthquakes", "Features a museum of colonial art"],
+      es: ["Fundada en el siglo XVI", "Reconstruida tras terremotos", "Patrimonio cultural de la región de Chorotega"],
+      pt: ["Fundada no século XVI", "Reconstruída após terremotos", "Patrimônio cultural da região de Chorotega"],
+      fr: ["Fondée au XVIe siècle", "Reconstruite après des séismes", "Héritage culturel de la région de Chorotega"],
     },
      image: "/poi-images/nicoya-church-history-v2.webp"},
   {
@@ -731,19 +902,28 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: ["Puerto Viejo de Talamanca mellett található", "Egy régi szállítóuszály maradványa", "Limón tartomány tengerpartján fekszik", "Ma mesterséges zátonyként funkcionál", "Népszerű sznorkelező helyszín", "Látható a város fő strandjáról"],
       ro: ["Situată lângă Puerto Viejo de Talamanca", "Este restul unei vechi barje de transport", "Se află pe coasta provinciei Limón", "Funcționează astăzi ca recif artificial", "Loc popular pentru snorkeling", "Vizibilă de pe plaja principală a orașului"],
       en: ["Located near Puerto Viejo de Talamanca", "It is the remains of an old transport barge", "Situated in the Limón province", "Serves today as an artificial reef", "Popular spot for snorkeling", "Visible from the town's main beach"],
+      es: [],
+      pt: [],
+      fr: [],
     }, 
     description: {
       de: "Ein untergegangenes Frachtschiff in der Nähe von Puerto Viejo, das zu einem künstlichen Riff und einem beliebten Tauchplatz wurde.",
       hu: "Egy elsüllyedt teherhajó Puerto Viejo közelében, amely mesterséges zátonnyá és népszerű búvárhellyé vált.",
       ro: "O navă de marfă scufundată lângă Puerto Viejo, care a devenit un recif artificial și un loc popular de scufundări.",
-      en: "A sunken cargo ship near Puerto Viejo that has become an artificial reef and a popular diving spot."
+      en: "A sunken cargo ship near Puerto Viejo that has become an artificial reef and a popular diving spot.",
+      es: "Un carguero hundido cerca de Puerto Viejo que se convirtió en un arrecife artificial y un popular punto de buceo.",
+      pt: "Um cargueiro afundado perto de Puerto Viejo que se tornou um recife artificial e um local de mergulho popular.",
+      fr: "Un cargo échoué près de Puerto Viejo qui est devenu un récif artificiel et un site de plongée populaire.",
     },
     
     facts: {
       de: ["Gesunkenes Frachtschiff", "Künstliches Riff", "Beliebter Tauchspot", "Reiche Meeresfauna"],
       hu: ["Elsüllyedt teherhajó", "Mesterséges zátony", "Népszerű búvárhely", "Gazdag tengeri élővilág"],
       ro: ["Navă de marfă scufundată", "Recif artificial", "Loc popular de scufundări", "Faună marină bogată"],
-      en: ["Sunken cargo vessel", "Artificial reef", "Popular diving destination", "Rich marine biodiversity"]
+      en: ["Sunken cargo vessel", "Artificial reef", "Popular diving destination", "Rich marine biodiversity"],
+      es: ["Barco de carga hundido", "Arrecife artificial", "Punto de buceo popular", "Rica fauna marina"],
+      pt: ["Navio de carga afundado", "Recife artificial", "Ponto de mergulho popular", "Rica fauna marinha"],
+      fr: ["Navire de fret coulé", "Récif artificiel", "Spot de plongée populaire", "Riche faune marine"],
     },
      image: "/poi-images/puerto-viejo-shipwreck-history-v2.webp"},
   {
@@ -768,19 +948,28 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: ["A 17. és 18. században alakult ki", "Limón tartomány területére összpontosult", "A menekültek erődített településeket (palenque) hoztak létre", "Hatással volt Costa Rica karibi konyhájára", "Ellenállás a spanyol gyarmati hatalommal szemben", "Afrikai és őshonos szokások ötvözése"],
       ro: ["S-a dezvoltat în secolele XVII și XVIII", "S-a concentrat în provincia Limón", "Maronii au format așezări fortificate (palenques)", "Influență majoră asupra bucătăriei caraibiene locale", "Rezistență împotriva puterii coloniale spaniole", "Fuziune între obiceiurile africane și cele indigene"],
       en: ["Developed in the 17th and 18th centuries", "Concentrated in the Limón province", "Maroons formed fortified settlements (palenques)", "Influenced Costa Rican Caribbean cuisine", "Resistance against Spanish colonial power", "Fusion of African and indigenous customs"],
+      es: [],
+      pt: [],
+      fr: [],
     }, 
     description: {
       de: "Die Geschichte der entflohenen Sklaven (Cimarrones), die in den Bergen von Talamanca Zuflucht fanden und ihre eigene Kultur bewahrten.",
       hu: "A szökött rabszolgák (cimarrones) története, akik a Talamanca-hegységben találtak menedéket és megőrizték saját kultúrájukat.",
       ro: "Cultura cimarron vorbește despre rezistență, libertate și identități afro-descendente din America Latină. În Costa Rica, ea se leagă de memoria comunităților care au păstrat tradiții prin muzică și ritual.",
-      en: "The history of escaped slaves (Cimarrones) who found refuge in the Talamanca mountains, preserving their own culture."
+      en: "The history of escaped slaves (Cimarrones) who found refuge in the Talamanca mountains, preserving their own culture.",
+      es: "La historia de los esclavos fugitivos (Cimarrones), quienes encontraron refugio en las montañas de Talamanca y preservaron su propia cultura.",
+      pt: "A história dos escravos fugidios (Cimarrones), que encontraram refúgio nas montanhas de Talamanca e preservaram a sua própria cultura.",
+      fr: "L'histoire des esclaves en fuite (Cimarrones), qui trouvèrent refuge dans les montagnes de Talamanca et préservèrent leur propre culture.",
     },
     
     facts: {
       de: ["Entflohene Sklaven", "Widerstand gegen die Kolonialisierung", "Bewahrung afrikanischer Traditionen", "Talamanca-Region"],
       hu: ["Szökött rabszolgák", "Ellenállás a gyarmatosítással szemben", "Afrikai hagyományok megőrzése", "Talamanca régió"],
       ro: ["Rădăcini afro-descendente", "Tema rezistenței", "Tradiții orale și muzicale"],
-      en: ["Escaped enslaved peoples", "Resistance against colonization", "Preservation of African traditions", "Talamanca region"]
+      en: ["Escaped enslaved peoples", "Resistance against colonization", "Preservation of African traditions", "Talamanca region"],
+      es: ["Esclavos fugitivos", "Resistencia contra la colonización", "Preservación de tradiciones africanas", "Región de Talamanca"],
+      pt: ["Escravos fugidios", "Resistência contra a colonização", "Preservação de tradições africanas", "Região de Talamanca"],
+      fr: ["Esclaves en fuite", "Résistance contre la colonisation", "Préservation des traditions africaines", "Région de Talamanca"],
     },
      image: "/poi-images/cimarron-culture-history-v2.webp"},
   {
@@ -805,19 +994,28 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: ["1907 és 1908 között épült", "Jaime Carranza építész tervezte", "A San José-Limón vasútvonal végállomása", "Ma a MUCEC múzeumnak ad otthont", "Stílusa: neoklasszicista", "1980 óta nemzeti műemlék"],
       ro: ["Construită între 1907 și 1908", "Proiectată de arhitectul Jaime Carranza", "Stația terminus a liniei San José-Limón", "Găzduiește astăzi muzeul MUCEC", "Stil arhitectural: neoclasic", "Monument național din anul 1980"],
       en: ["Built between 1907 and 1908", "Designed by architect Jaime Carranza", "Terminus of the San José-Limón rail line", "Currently houses the MUCEC museum", "Architectural style: Neoclassical", "National monument since 1980"],
+      es: [],
+      pt: [],
+      fr: [],
     }, 
     description: {
       de: "Der ehemalige Bahnhof der Atlantik-Eisenbahn in San José ist ein prächtiges Beispiel für die Architektur des späten 19. Jahrhunderts.",
       hu: "San José történelmi vasútállomása, amely egykor az Atlanti-óceán partjára tartó vasútvonal központja volt.",
       ro: "O gară istorică în San José, capătul vechii 'căi ferate din junglă'. Astăzi găzduiește Muzeul Căilor Ferate.",
-      en: "A historic railway station in San José that served as the terminal for the Atlantic railroad connection."
+      en: "A historic railway station in San José that served as the terminal for the Atlantic railroad connection.",
+      es: "La antigua estación del Ferrocarril al Atlántico en San José es un magnífico ejemplo de la arquitectura de finales del siglo XIX.",
+      pt: "A antiga estação da Ferrovia do Atlântico em San José é um magnífico exemplo da arquitetura do final do século XIX.",
+      fr: "L'ancienne gare du chemin de fer de l'Atlantique à San José est un magnifique exemple d'architecture de la fin du XIXe siècle.",
     },
     
     facts: {
       de: ["Erbaut um 1908", "Heute Sitz staatlicher Behörden", "Symbol der wirtschaftlichen Modernisierung"],
       hu: ["1908-ban épült állomásépület", "A kávéexport fő szállítási útvonala", "Nemzeti műemlék és múzeum"],
       ro: ["Construită în 1908", "Capătul liniei ferate atlantice", "Patrimoniu arhitectural", "Astăzi, Muzeul Căilor Ferate"],
-      en: ["Opened in 1908 in San José", "Grand Neoclassical architectural style", "Key link for coffee exports to the coast", "Now houses a cultural center"]
+      en: ["Opened in 1908 in San José", "Grand Neoclassical architectural style", "Key link for coffee exports to the coast", "Now houses a cultural center"],
+      es: ["Construida alrededor de 1908", "Sede actual de autoridades estatales", "Símbolo de la modernización económica"],
+      pt: ["Construída por volta de 1908", "Sede atual de autoridades estatais", "Símbolo da modernização económica"],
+      fr: ["Construite vers 1908", "Siège actuel d'autorités étatiques", "Symbole de la modernisation économique"],
     },
      image: "/poi-images/atlantico-railway-station-history-v2.webp"},
   {
@@ -842,19 +1040,28 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: ["A boruca nép otthona", "Híres a 'Juego de los Diablitos' ünnepről", "A maszkokat balsa fából faragják", "Puntarenas tartományban található", "Hagyományos szövés természetes festékekkel", "Védett indián rezervátum a kultúra megőrzésére"],
       ro: ["Căminul poporului Boruca", "Faimos pentru festivalul 'Juego de los Diablitos'", "Măștile sunt sculptate din lemn de balsa", "Situat în provincia Puntarenas", "Țesut tradițional cu vopsele naturale", "Rezervație indigenă pentru protejarea culturii"],
       en: ["Home of the Boruca people", "Famous for the 'Juego de los Diablitos' festival", "Masks are carved from balsa wood", "Located in the Puntarenas province", "Traditional weaving with natural dyes", "Indigenous reserve to protect the culture"],
+      es: [],
+      pt: [],
+      fr: [],
     }, 
     description: {
       de: "Die Heimat des indigenen Volkes der Boruca, bekannt für ihre lebhaften Masken und den traditionellen 'Tanz der Teufelchen'.",
       hu: "A boruca ősi földjei a dél-costa ricai őslakos közösség történelmi területei. A maszkfaragás, a nyelv és a rituálék megőrzésének fontos helye.",
       ro: "Patria poporului indigen Boruca, cunoscut pentru măștile sale vibrante și tradiționalul 'Dans al Diavolilor Mici'.",
-      en: "The homeland of the Boruca indigenous people, known for their vibrant masks and the traditional 'Dance of the Little Devils'."
+      en: "The homeland of the Boruca indigenous people, known for their vibrant masks and the traditional 'Dance of the Little Devils'.",
+      es: "Hogar del pueblo indígena Boruca, conocido por sus vibrantes máscaras y el tradicional \"Baile de los Diablitos\".",
+      pt: "Lar do povo indígena Boruca, conhecido pelas suas máscaras vibrantes e pela tradicional \"Dança dos Diabinhos\".",
+      fr: "Le territoire du peuple indigène Boruca, célèbre pour ses masques colorés et la traditionnelle \"Danse des Petits Diables\".",
     },
     
     facts: {
       de: ["Indigenes Reservat", "Berühmt für Maskenherstellung", "Jährlicher 'Tanz der Teufelchen'", "Bewahrung der Kultur"],
       hu: ["Őslakos történeti terület", "Maszkfaragó hagyomány", "Kulturális megőrzés"],
       ro: ["Rezervație indigenă", "Renumită pentru confecționarea măștilor", "Anualul 'Dans al Diavolilor Mici'", "Păstrarea culturii"],
-      en: ["Indigenous reserve", "Famous for intricate mask carving", "Annual 'Dance of the Little Devils'", "Strong cultural preservation"]
+      en: ["Indigenous reserve", "Famous for intricate mask carving", "Annual 'Dance of the Little Devils'", "Strong cultural preservation"],
+      es: ["Reserva indígena", "Famoso por la fabricación de máscaras", "Anual \"Baile de los Diablitos\"", "Preservación de la cultura"],
+      pt: ["Reserva indígena", "Famoso pela fabricação de máscaras", "Anual \"Dança dos Diabinhos\"", "Preservação da cultura"],
+      fr: ["Réserve indigène", "Célèbre pour la fabrication de masques", "Annuelle \"Danse des Petits Diables\"", "Préservation de la culture"],
     },
      image: "/poi-images/boruca-ancestral-lands-history-v2.webp"},
   {
@@ -879,19 +1086,27 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: ["Faja: Ceiba pentandra", "La Paz körzetben, San Ramónban található", "Több mint 100 éves", "Magassága meghaladja a 40 métert", "Szent fa az őshonos kultúrák számára", "Masszív támasztógyökerei vannak a stabilitásért"],
       ro: ["Specia: Ceiba pentandra", "Situat în districtul La Paz, San Ramón", "Vârstă de peste 100 de ani", "Înălțime de peste 40 de metri", "Arbore sacru pentru culturile indigene", "Posedă rădăcini tabulare masive pentru stabilitate"],
       en: ["Species: Ceiba pentandra", "Located in the La Paz district, San Ramón", "Over 100 years old", "Height of more than 40 meters", "Sacred tree for indigenous cultures", "Possesses massive buttress roots for stability"],
+      pt: [],
+      fr: [],
     }, 
     description: {
       de: "Ein jahrhundertealter Ceiba-Baum, der als lebendiges Naturdenkmal und Symbol für Frieden und Beständigkeit verehrt wird.",
       hu: "A La Paz ceibája egy nagy, jelképes fa a közép-costa ricai természeti útvonalak egyik pontján. A helyi emlékezetben a táj és a természet tiszteletét képviseli.",
       ro: "Arborele ceibo de la La Paz reprezintă un simbol al pădurii tropicale și al biodiversității din Costa Rica. Coroana sa mare îl face ușor de recunoscut în peisajul forestier.",
-      en: "A majestic and ancient Ceibo tree in La Paz, celebrated as a living monument and a symbol of national peace."
+      en: "A majestic and ancient Ceibo tree in La Paz, celebrated as a living monument and a symbol of national peace.",
+      es: "Un árbol de Ceiba centenario, venerado como un monumento natural vivo y símbolo de paz y permanencia.",
+      pt: "Uma árvore de Ceiba centenária, venerada como um monumento natural vivo e símbolo de paz e permanência.",
+      fr: "Un fromager (Ceiba) centenaire, vénéré comme un monument naturel vivant et un symbole de paix et de pérennité.",
     },
     
     facts: {
       de: ["Heiliger Baum vieler Kulturen", "Gigantische Ausmaße", "Wahrzeichen der Region La Paz"],
       hu: ["Ceiba pentandra", "La Paz térségéhez kötődik", "Jelképes természeti pont"],
       ro: ["Specie tropicală", "Simbol al pădurii", "Coroană foarte mare"],
-      en: ["Estimated to be several centuries old", "Massive trunk and spreading canopy", "Located in the town of La Paz", "A revered symbol of nature and stability"]
+      en: ["Estimated to be several centuries old", "Massive trunk and spreading canopy", "Located in the town of La Paz", "A revered symbol of nature and stability"],
+      es: ["Árbol sagrado de muchas culturas", "Dimensiones gigantescas", "Emblema de la región de La Paz"],
+      pt: ["Árvore sagrada de muitas culturas", "Dimensões gigantescas", "Marco da região de La Paz"],
+      fr: ["Arbre sacré pour de nombreuses cultures", "Dimensions gigantesques", "Emblème de la région de La Paz"],
     },
      image: "/poi-images/ceibo-tree-of-la-paz-history-v2.webp"},
   {
@@ -916,19 +1131,28 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: ["1881-ben alapították", "San José Zapote negyedében található", "A 16. századtól kezdődően őriz dokumentumokat", "Az új épületet 1993-ban adták át", "Felelős az ország teljes levéltári rendszeréért", "Papírrestauráló laboratóriumokkal rendelkezik"],
       ro: ["Fondată în anul 1881", "Situată în cartierul Zapote, San José", "Găzduiește documente începând cu secolul al XVI-lea", "Clădirea actuală a fost inaugurată în 1993", "Responsabilă pentru întregul sistem de arhive al țării", "Dispune de laboratoare pentru restaurarea hârtiei"],
       en: ["Founded in the year 1881", "Located in the Zapote district, San José", "Houses documents starting from the 16th century", "The current building was inaugurated in 1993", "Responsible for the nation's entire archival system", "Equipped with paper restoration laboratories"],
+      es: [],
+      pt: [],
+      fr: [],
     }, 
     description: {
       de: "Die Nationalarchive Costa Ricas bewahren das schriftliche Erbe und die wichtigsten Dokumente der Landesgeschichte auf.",
       hu: "Az épület, amely az ország legfontosabb történelmi dokumentumait őrzi. A nemzeti identitás szempontjából kiemelt jelentőségű hely.",
       ro: "Clădirea care adăpostește cele mai importante documente istorice ale țării. Un loc de mare importanță pentru identitatea națională.",
-      en: "The building that houses the most important historical documents of the country. A place of great importance for national identity."
+      en: "The building that houses the most important historical documents of the country. A place of great importance for national identity.",
+      es: "Los Archivos Nacionales de Costa Rica preservan el patrimonio escrito y los documentos más importantes de la historia del país.",
+      pt: "Os Arquivos Nacionais da Costa Rica preservam o património escrito e os documentos mais importantes da história do país.",
+      fr: "Les Archives nationales du Costa Rica préservent le patrimoine écrit et les documents les plus importants de l'histoire du pays.",
     },
     
     facts: {
       de: ["Gegründet im Jahr 1881", "Modernes Gebäude in Zapote", "Schutz historischer Dokumente"],
       hu: ["Az ország történelmének őrzője", "1881-ben alapították", "Fontos forrás kutatók számára", "Történelmi épület"],
       ro: ["Păstrează istoria țării", "Fondate în 1881", "Sursă importantă pentru cercetători", "Clădire istorică"],
-      en: ["Preserves the nation's history", "Founded in 1881", "Vital resource for researchers", "Historic building"]
+      en: ["Preserves the nation's history", "Founded in 1881", "Vital resource for researchers", "Historic building"],
+      es: ["Fundado en 1881", "Edificio moderno en Zapote", "Protección de documentos históricos"],
+      pt: ["Fundado em 1881", "Edifício moderno em Zapote", "Proteção de documentos históricos"],
+      fr: ["Fondées en 1881", "Bâtiment moderne à Zapote", "Protection des documents historiques"],
     },
      image: "/poi-images/national-archives-history-v2.webp"},
   {
@@ -946,25 +1170,37 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       de: "Eine weitere historische Kirche in der Nähe von Cartago, bekannt für ihre einfache koloniale Bauweise und ihre Rolle im Gemeindeleben.",
       hu: "Egy másik történelmi templom Cartago közelében, amely egyszerű gyarmati építészetéről és a közösségi életben betöltött szerepéről ismert.",
       ro: "O altă biserică istorică lângă Cartago, cunoscută pentru construcția sa colonială simplă și rolul său în viața comunității.",
-      en: "Another historic church near Cartago, known for its simple colonial construction and its role in community life."
+      en: "Another historic church near Cartago, known for its simple colonial construction and its role in community life.",
+      es: "Otra iglesia histórica cerca de Cartago, conocida por su sencilla construcción colonial y su papel en la vida comunitaria.",
+      pt: "Outra igreja histórica perto de Cartago, conhecida pela sua construção colonial simples e pelo seu papel na vida comunitária.",
+      fr: "Une autre église historique près de Cartago, connue pour sa construction coloniale simple et son rôle dans la vie communautaire.",
     },
     descriptionAdvanced: {
       de: "Die Kirche von Cot in der Provinz Cartago gehört zu den historischsten Pfarreien Costa Ricas und befindet sich in einer der ältesten Siedlungen des Landes. Die ursprüngliche Kirchengemeinde wurde bereits im Jahr 1575 gegründet, kurz nachdem die Spanier die Region besiedelt hatten. Das heutige Gebäude, dem Heiligen Antonius gewidmet, ist ein Zeugnis der kolonialen Geschichte und der tiefen religiösen Verwurzelung der lokalen Bevölkerung am Hang des Vulkans Irazú. Die Architektur ist durch einfache Linien und robuste Mauern geprägt, die im Laufe der Jahrhunderte durch vulkanische Aktivitäten und Erdbeben mehrfach beschädigt und wiederaufgebaut wurden. Geographisch liegt Cot in der Gemeinde Oreamuno, einem Gebiet, das für seine fruchtbaren Böden und den intensiven Gemüseanbau bekannt ist. Die Kirche dient nicht nur als spiritueller Ort, sondern auch als historischer Ankerpunkt für die Identität der Region Cartago, die einst die Hauptstadt des Landes war. Besucher schätzen die ruhige Atmosphäre und den Blick auf das Zentraltal, den man von der erhöhten Position der Kirche aus genießen kann.",
       hu: "A Cartago tartományban található coti templom Costa Rica egyik legtörténelmibb plébániája, az ország egyik legrégebbi településén. Az eredeti egyházközséget már 1575-ben megalapították, röviddel azután, hogy a spanyolok megtelepedtek a régióban. A mai, Páduai Szent Antalnak szentelt épület a gyarmati történelem és a helyi lakosság mély vallásosságának tanúbizonysága az Irazú-vulkán lejtőin. Az építészetet egyszerű vonalak és robusztus falak jellemzik, amelyeket az évszázadok során a vulkáni tevékenység és a földrengések többször megrongáltak, majd újjáépítettek. Földrajzilag Cot Oreamuno kantonban fekszik, egy olyan területen, amely termékeny talajáról és intenzív zöldségtermesztéséről ismert. A templom nemcsak spirituális helyszínként szolgál, hanem a Cartago régió identitásának történelmi sarokköve is, amely egykor az ország fővárosa volt. A látogatók nagyra értékelik a nyugodt légkört és a központi völgyre nyíló kilátást, amely a templom magaslati elhelyezkedéséből adódik.",
       ro: "Biserica din Cot, situată în provincia Cartago, aparține uneia dintre cele mai istorice parohii din Costa Rica, fiind aflată într-una dintre cele mai vechi așezări ale țării. Parohia originală a fost fondată încă din anul 1575, la scurt timp după ce spaniolii s-au stabilit în regiune. Clădirea actuală, dedicată Sfântului Anton, este o mărturie a istoriei coloniale și a rădăcinilor religioase adânci ale populației locale de pe pantele vulcanului Irazú. Arhitectura este marcată de linii simple și ziduri robuste, care au fost avariate și reconstruite de mai multe ori de-a lungul secolelor din cauza activității vulcanice și a cutremurelor. Din punct de vedere geografic, Cot se află în cantonul Oreamuno, o zonă cunoscută pentru solurile sale fertile și agricultura intensivă. Biserica servește nu doar ca loc spiritual, ci și ca punct de ancorare istorică pentru identitatea regiunii Cartago, care a fost odinioară capitala țării. Vizitatorii apreciază atmosfera liniștită și panorama asupra Văii Centrale oferită de poziția elevată a bisericii.",
       en: "The Church of Cot in the province of Cartago is among the most historic parishes in Costa Rica, located in one of the country's oldest settlements. The original parish was established as early as 1575, shortly after the Spanish colonized the region. The current building, dedicated to Saint Anthony, serves as a testament to colonial history and the deep religious devotion of the local population on the slopes of the Irazú Volcano. The architecture is characterized by simple lines and robust walls, which have been damaged and rebuilt several times over the centuries due to volcanic activity and earthquakes. Geographically, Cot is situated in the canton of Oreamuno, an area famed for its fertile volcanic soil and intensive vegetable farming. The church serves not only as a spiritual center but also as a historical anchor for the identity of the Cartago region, which was once the nation's capital. Visitors value the serene atmosphere and the expansive views of the Central Valley provided by the church's elevated vantage point.",
+      es: "La iglesia de Cot de Oreamuno es un ejemplo perfecto de la arquitectura sacra rural en las tierras altas y frescas de la provincia de Cartago. Cot es uno de los asentamientos más antiguos del país y ya era un importante centro indígena antes de la llegada de los españoles. La iglesia actual refleja la sencillez y robustez necesarias para los edificios cercanos al volcán Irazú. Con su fachada sencilla y vistas a los campos fértiles de la región, es el centro de la vida comunitaria. La historia de Cot está estrechamente ligada a la agricultura, y la iglesia ha servido durante siglos como lugar de agradecimiento por las cosechas. Una visita aquí ofrece una visión auténtica de la vida tradicional lejos de las principales rutas turísticas.",
+      pt: "A igreja de Cot de Oreamuno é um exemplo perfeito da arquitetura sacra rural nas terras altas e frescas da província de Cartago. Cot é um dos assentamentos mais antigos do país e já era um importante centro indígena antes da chegada dos espanhóis. A igreja atual reflete a simplicidade e robustez necessárias para os edifícios perto do vulcão Irazú. Com a sua fachada simples e vista para os campos férteis da região, é o centro da vida comunitária. A história de Cot está intimamente ligada à agricultura, e a igreja tem servido durante séculos como local de agradecimento pelas colheitas. Uma visita aqui oferece uma visão autêntica da vida tradicional longe das principais rotas turísticas.",
+      fr: "L'église de Cot de Oreamuno est un exemple parfait de l'architecture sacrée rurale dans les hauteurs fraîches de la province de Cartago. Cot est l'un des plus anciens établissements du pays et était déjà un centre indigène important avant l'arrivée des Espagnols. L'église actuelle reflète la simplicité et la robustesse requises pour les bâtiments proches du volcan Irazú. Avec sa façade dépouillée et sa vue sur les champs fertiles de la région, elle est le cœur de la vie communautaire. L'histoire de Cot est étroitement liée à l'agriculture, et l'église sert depuis des siècles de lieu d'action de grâce pour les récoltes. Une visite ici offre un aperçu authentique de la vie traditionnelle, loin des sentiers touristiques battus.",
     },
     facts: {
       de: ["Koloniale Architektur", "Erbaut im 18. Jahrhundert", "Aktives Gemeindezentrum", "Teil des Orosi-Tals"],
       hu: ["Gyarmati építészet", "A 18. században épült", "Aktív közösségi központ", "Az Orosi-völgy része"],
       ro: ["Arhitectură colonială", "Construită în secolul al XVIII-lea", "Centru comunitar activ", "Parte a Văii Orosi"],
-      en: ["Colonial architecture", "Built in the 18th century", "Active community center", "Part of the Orosi Valley heritage"]
+      en: ["Colonial architecture", "Built in the 18th century", "Active community center", "Part of the Orosi Valley heritage"],
+      es: ["Arquitectura colonial", "Construida en el siglo XVIII", "Centro comunitario activo", "Parte del Valle de Orosi"],
+      pt: ["Arquitetura colonial", "Construída no século XVIII", "Centro comunitário ativo", "Parte do Vale de Orosi"],
+      fr: ["Architecture coloniale", "Construite au XVIIIe siècle", "Centre communautaire actif", "Fait partie de la vallée d'Orosi"],
     },
     factsAdvanced: {
       de: ["Pfarrei wurde 1575 gegründet", "Befindet sich in Oreamuno, Cartago", "Gewidmet dem Heiligen Antonius", "Liegt an den Hängen des Vulkans Irazú", "Eine der ältesten Siedlungen des Landes", "Mehrfach nach Erdbeben wiederaufgebaut"],
       hu: ["A plébániát 1575-ben alapították", "Oreamunóban, Cartago tartományban található", "Szent Antal tiszteletére szentelték", "Az Irazú-vulkán lejtőin fekszik", "Az ország egyik legrégebbi települése", "Földrengések után többször újjáépítették"],
       ro: ["Parohia a fost fondată în 1575", "Situată în Oreamuno, Cartago", "Dedicată Sfântului Anton", "Aflată pe pantele vulcanului Irazú", "Una dintre cele mai vechi așezări din țară", "Reconstruită de mai multe ori după cutremure"],
       en: ["Parish founded in 1575", "Located in Oreamuno, Cartago", "Dedicated to Saint Anthony", "Situated on the slopes of the Irazú Volcano", "One of the oldest settlements in the country", "Rebuilt multiple times after earthquakes"],
+      es: ["Cot se encuentra a una altitud de unos 1.810 metros sobre el nivel del mar", "El asentamiento ya fue mencionado por escrito en el año 1563", "La iglesia fue estabilizada en su forma actual tras el terremoto de 1910", "Cot fue originalmente un pueblo importante de la tribu indígena Guarco", "El clima aquí es significativamente más fresco que en el resto del Valle Central", "Los alrededores son una de las zonas de cultivo de hortalizas más importantes del país", "Alberga estatuas religiosas de finales de la época colonial", "La fiesta patronal de San Antonio se celebra aquí en grande en junio"],
+      pt: ["Cot situa-se a uma altitude de cerca de 1.810 metros acima do nível do mar", "O assentamento já foi mencionado por escrito no ano de 1563", "A igreja foi estabilizada na sua forma atual após o terramoto de 1910", "Cot foi originalmente uma aldeia importante da tribo indígena Guarco", "O clima aqui é significativamente mais fresco do que no resto do Vale Central", "Os arredores são uma das zonas de cultivo de hortaliças mais importantes do país", "Abriga estátuas religiosas do final do período colonial", "A festa do padroeiro Santo António é celebrada aqui em grande em junho"],
+      fr: ["Cot est située à une altitude d'environ 1 810 mètres au-dessus du niveau de la mer", "L'établissement a été mentionné par écrit dès l'année 1563", "L'église a été stabilisée dans sa forme actuelle après le séisme de 1910", "Cot était à l'origine un village important de la tribu indigène Guarco", "Le climat y est nettement plus frais que dans le reste de la Vallée Centrale", "Les environs constituent l'une des zones maraîchères les plus importantes du pays", "Elle abrite des statues religieuses de la fin de l'époque coloniale", "La fête patronale de Saint-Antoine y est célébrée avec faste en juin"],
     }, image: "/poi-images/cot-church-history-v2.webp"},
   {
     id: "hacienda-el-viejo-history-v2",
@@ -981,25 +1217,37 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       de: "Eine historische Zuckerrohr-Hacienda in Guanacaste, die Einblicke in die Sabanero-Kultur (costa-ricanische Cowboys) und die Zuckerproduktion gibt.",
       hu: "Történelmi cukornád-hacienda Guanacastében, amely betekintést nyújt a sabanero kultúrába (Costa Rica-i cowboyok) és a cukortermelésbe.",
       ro: "O hacienda istorică de trestie de zahăr în Guanacaste, care oferă o perspectivă asupra culturii Sabanero (cowboy-ii din Costa Rica) și a producției de zahăr.",
-      en: "A historic sugarcane hacienda in Guanacaste that offers insights into the Sabanero (Costa Rican cowboy) culture and sugar production."
+      en: "A historic sugarcane hacienda in Guanacaste that offers insights into the Sabanero (Costa Rican cowboy) culture and sugar production.",
+      es: "Una hacienda histórica de caña de azúcar en Guanacaste que ofrece una visión de la cultura sabanera y la producción de azúcar.",
+      pt: "Uma fazenda histórica de cana-de-açúcar em Guanacaste que oferece uma visão da cultura sabanera e da produção de açúcar.",
+      fr: "Une hacienda historique de canne à sucre à Guanacaste, offrant un aperçu de la culture sabanera et de la production de sucre.",
     },
     descriptionAdvanced: {
       de: "Hacienda El Viejo in Guanacaste ist ein historisches Anwesen, das die landwirtschaftliche Geschichte Costa Ricas, insbesondere den Viehzucht- und Zuckerrohranbau, seit dem späten 19. Jahrhundert widerspiegelt. Die Hacienda liegt am Ufer des Rio Tempisque und umfasst ausgedehnte Feuchtgebiete, die heute Teil eines privaten Naturschutzgebietes sind. Das ursprüngliche Herrenhaus wurde sorgfältig restauriert und dient als Fenster in das aristokratische Landleben vergangener Epochen. Besucher können hier die traditionelle Methode der Zuckerrohrverarbeitung in einer historischen Mühle (Trapiche) erleben. Geographisch ist die Lage für die Tierbeobachtung von entscheidender Bedeutung, da die angrenzenden Feuchtgebiete des Palo Verde Nationalparks zahlreiche Wasservögel und Krokodile anziehen. Die Hacienda hat sich von einem rein landwirtschaftlichen Betrieb zu einem Zentrum für Ökotourismus und kulturelle Bildung entwickelt. Sie bewahrt nicht nur Gebäude, sondern auch die Traditionen der Sabaneros (Cowboys von Guanacaste), die für die Identität dieser Provinz prägend sind. Heute ist sie ein bedeutendes Ziel für Bildungsreisen und Naturerlebnisse.",
       hu: "A Guanacaste tartományban található Hacienda El Viejo egy történelmi birtok, amely Costa Rica mezőgazdasági múltját, különösen az állattenyésztést és a cukornádtermesztést mutatja be a 19. század vége óta. A hacienda a Tempisque-folyó partján fekszik, és kiterjedt vizes élőhelyeket foglal magában, amelyek ma egy magán természetvédelmi terület részét képezik. Az eredeti kúriát gondosan restaurálták, és ablakként szolgál a múltbeli arisztokratikus vidéki életre. A látogatók itt megismerhetik a cukornád-feldolgozás hagyományos módszereit egy történelmi malomban (trapiche). Földrajzilag a helyszín döntő fontosságú a vadon élő állatok megfigyelése szempontjából, mivel a Palo Verde Nemzeti Park szomszédos vizes élőhelyei számos vízimadarat és krokodilt vonzanak. A hacienda a tisztán mezőgazdasági üzemből az ökoturizmus és a kulturális oktatás központjává fejlődött. Nemcsak az épületeket őrzi meg, hanem a sabanerók (guanacastei cowboyok) hagyományait is, amelyek meghatározóak a tartomány identitása szempontjából. Ma a tanulmányi kirándulások és a természetközeli élmények egyik fontos célpontja.",
       ro: "Hacienda El Viejo din Guanacaste este o proprietate istorică ce reflectă istoria agricolă a Costa Ricăi, în special creșterea vitelor și cultivarea trestiei de zahăr, începând cu sfârșitul secolului al XIX-lea. Hacienda este situată pe malul râului Tempisque și cuprinde zone umede vaste, care fac acum parte dintr-o rezervație naturală privată. Conacul original a fost restaurat cu grijă și servește ca o fereastră către viața rurală aristocratică a epocilor trecute. Vizitatorii pot experimenta aici metoda tradițională de procesare a trestiei de zahăr într-o moară istorică (trapiche). Din punct de vedere geografic, locația este crucială pentru observarea faunei sălbatice, deoarece zonele umede adiacente ale Parcului Național Palo Verde atrag numeroase păsări de apă și crocodili. Hacienda a evoluat de la o fermă pur agricolă la un centru pentru ecoturism și educație culturală. Ea păstrează nu doar clădirile, ci și tradițiile sabaneros (cowboy-ii din Guanacaste), care sunt definitorii pentru identitatea acestei provincii. Astăzi, este o destinație importantă pentru excursii educaționale și experiențe în natură.",
       en: "Hacienda El Viejo in Guanacaste is a historic estate that reflects Costa Rica's agricultural heritage, specifically cattle ranching and sugarcane cultivation, since the late 19th century. Located on the banks of the Tempisque River, the hacienda encompasses vast wetlands that are now part of a private nature reserve. The original manor house has been meticulously restored and serves as a window into the aristocratic rural life of past eras. Visitors can experience the traditional method of sugarcane processing in a historic mill known as a trapiche. Geographically, the location is vital for wildlife observation, as the adjacent wetlands of Palo Verde National Park attract numerous waterfowl and crocodiles. The hacienda has evolved from a purely agricultural operation into a center for ecotourism and cultural education. It preserves not only the physical structures but also the traditions of the sabaneros (Guanacaste cowboys), who are foundational to the province's identity. Today, it stands as a significant destination for educational tours and immersive nature experiences.",
+      es: "La Hacienda El Viejo es un monumento vivo de la historia agraria de Guanacaste y de la fascinante cultura sabanera. Esta propiedad histórica, situada directamente a orillas del río Tempisque, transporta a los visitantes a la era de las grandes haciendas de caña de azúcar y ganado. La casa principal del siglo XIX, cuidadosamente restaurada, muestra el elegante estilo de vida de la élite de la época, mientras que los antiguos molinos de azúcar (trapiches) documentan el arduo trabajo de los jornaleros. Aquí se mantiene viva la tradición de los vaqueros costarricenses (sabaneros) con sus trajes y habilidades típicas. Un recorrido por la hacienda combina la historia del uso de la tierra con la conservación de la naturaleza en el adyacente Parque Nacional Palo Verde, ofreciendo profundas perspectivas sobre la identidad regional de Guanacaste.",
+      pt: "A Hacienda El Viejo é um monumento vivo da história agrária de Guanacaste e da fascinante cultura sabanera. Esta propriedade histórica, situada diretamente nas margens do Rio Tempisque, transporta os visitantes para a era das grandes fazendas de cana-de-açúcar e gado. A casa principal do século XIX, cuidadosamente restaurada, mostra o estilo de vida elegante da elite da época, enquanto os antigos engenhos de açúcar (trapiches) documentam o trabalho árduo dos trabalhadores rurais. Aqui, a tradição dos cowboys costarriquenhos (sabaneros) é preservada com os seus trajes e habilidades típicos. Um passeio pela fazenda combina a história do uso da terra com a conservação da natureza no adjacente Parque Nacional Palo Verde, oferecendo uma visão profunda da identidade regional de Guanacaste.",
+      fr: "La Hacienda El Viejo est un monument vivant de l'histoire agraire de Guanacaste et de la fascinante culture sabanera. Ce domaine historique, situé directement sur les rives du Río Tempisque, transporte les visiteurs à l'époque des grandes haciendas de canne à sucre et de bétail. Le manoir du XIXe siècle, soigneusement restauré, témoigne du mode de vie élégant de l'élite de l'époque, tandis que les anciens moulins à sucre (trapiches) documentent le dur labeur des ouvriers agricoles. Ici, la tradition des cowboys costariciens (sabaneros) est perpétuée avec leurs costumes et savoir-faire typiques. Une visite de l'hacienda combine l'histoire de l'utilisation des terres avec la conservation de la nature dans le parc national Palo Verde adjacent, offrant un aperçu profond de l'identité régionale de Guanacaste.",
     },
     facts: {
       de: ["Historische Zuckerrohrplantage", "Sabanero-Kultur", "Traditionelle Zuckerherstellung", "Kulturerbe von Guanacaste"],
       hu: ["Történelmi cukornádültetvény", "Sabanero kultúra", "Hagyományos cukorgyártás", "Guanacaste kulturális öröksége"],
       ro: ["Plantație istorică de trestie de zahăr", "Cultura Sabanero", "Producție tradițională de zahăr", "Patrimoniul cultural din Guanacaste"],
-      en: ["Historic sugarcane plantation", "Sabanero culture showcase", "Traditional sugar production", "Guanacaste cultural heritage"]
+      en: ["Historic sugarcane plantation", "Sabanero culture showcase", "Traditional sugar production", "Guanacaste cultural heritage"],
+      es: ["Plantación histórica de caña", "Cultura sabanera", "Producción de azúcar tradicional", "Patrimonio cultural de Guanacaste"],
+      pt: ["Plantação histórica de cana", "Cultura sabanera", "Produção de açúcar tradicional", "Património cultural de Guanacaste"],
+      fr: ["Plantation historique de canne à sucre", "Culture sabanera", "Production de sucre traditionnelle", "Patrimoine culturel de Guanacaste"],
     },
     factsAdvanced: {
       de: ["Gegründet im späten 19. Jahrhundert", "Liegt am Rio Tempisque in Guanacaste", "Beinhaltet ein privates Wildschutzgebiet", "Verfügt über ein restauriertes Kolonialhaus", "Traditionelle Zuckerrohrmühle vor Ort", "Grenzt an den Palo Verde Nationalpark"],
       hu: ["A 19. század végén alapították", "Guanacaste-ban, a Tempisque-folyó partján fekszik", "Magán vadrezervátumot foglal magában", "Restaurált gyarmati kúriával rendelkezik", "Hagyományos cukornádmalom található itt", "A Palo Verde Nemzeti Parkkal határos"],
       ro: ["Fondată la sfârșitul secolului al XIX-lea", "Situată pe râul Tempisque în Guanacaste", "Include o rezervație privată de viață sălbatică", "Dispune de un conac colonial restaurat", "Moară tradițională de trestie de zahăr la fața locului", "Se învecinează cu Parcul Național Palo Verde"],
       en: ["Founded in the late 19th century", "Located on the Tempisque River in Guanacaste", "Includes a private wildlife refuge", "Features a restored colonial manor house", "Traditional sugarcane mill on-site", "Borders the Palo Verde National Park"],
+      es: ["La casa histórica principal fue construida en 1840", "La hacienda incluye una reserva privada de unas 2.000 hectáreas", "El río Tempisque servía antiguamente como principal ruta de transporte para el azúcar", "La casa principal fue construida enteramente de madera dura tropical noble", "Todavía se prensa jugo de caña de azúcar tradicional con tracción de bueyes", "Se encuentra en las inmediaciones del Parque Nacional Palo Verde", "Alberga una de las mayores poblaciones de aves acuáticas de la región", "La familia de antiguos presidentes fue propietaria de la tierra durante generaciones"],
+      pt: ["A casa histórica principal foi construída em 1840", "A fazenda inclui uma reserva privada de cerca de 2.000 hectares", "O Rio Tempisque servia antigamente como principal via de transporte para o açúcar", "A casa principal foi construída inteiramente de madeira tropical nobre", "Ainda hoje o sumo de cana-de-açúcar tradicional é prensado por tração bovina", "Localiza-se nas proximidades do Parque Nacional Palo Verde", "Abriga uma das maiores populações de aves aquáticas da região", "A família de ex-presidentes foi proprietária da terra durante gerações"],
+      fr: ["La maison historique principale a été construite en 1840", "L'hacienda comprend une réserve privée d'environ 2 000 hectares", "Le Río Tempisque servait autrefois de principale voie de transport pour le sucre", "Le manoir a été entièrement construit en bois dur tropical noble", "Le jus de canne à sucre traditionnel est encore pressé aujourd'hui par traction bovine", "Située à proximité immédiate du parc national Palo Verde", "Abrite l'une des plus grandes populations d'oiseaux aquatiques de la région", "La famille d'anciens présidents a possédé la terre pendant des générations"],
     }, image: "/poi-images/hacienda-el-viejo-history-v2.webp"},
   {
     id: "casa-del-sonador-history-v2",
@@ -1016,25 +1264,37 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       de: "Das ehemalige Haus und Atelier des berühmten costa-ricanischen Bildhauers Macedonio Quesada, das seine skurrilen Holzschnitzereien zeigt.",
       hu: "A híres Costa Rica-i szobrász, Macedonio Quesada egykori háza és műterme, amely bemutatja szeszélyes fafaragásait.",
       ro: "Fosta casă și atelier al celebrului sculptor costa-rican Macedonio Quesada, care prezintă sculpturile sale capriculoase în lemn.",
-      en: "The former house and studio of the famous Costa Rican sculptor Macedonio Quesada, showcasing his whimsical wood carvings."
+      en: "The former house and studio of the famous Costa Rican sculptor Macedonio Quesada, showcasing his whimsical wood carvings.",
+      es: "La antigua casa y taller del famoso escultor costarricense Macedonio Quesada, que muestra sus extravagantes tallas en madera.",
+      pt: "A antiga casa e atelier do famoso escultor costarriquenho Macedonio Quesada, que exibe as suas excêntricas esculturas em madeira.",
+      fr: "L'ancienne maison et atelier du célèbre sculpteur costaricien Macedonio Quesada, présentant ses sculptures sur bois insolites.",
     },
     descriptionAdvanced: {
       de: "Die Casa del Soñador (Haus des Träumers) in Cachi ist ein einzigartiges architektonisches und künstlerisches Wahrzeichen im Orosi-Tal. Das Haus wurde in den 1970er Jahren von dem berühmten costa-ricanischen Bildhauer Macedonio Quesada (1933–2003) vollständig aus den Wurzeln und Stämmen von Kaffeesträuchern errichtet. Diese ungewöhnliche Wahl des Materials spiegelt die enge Verbindung der Region zum Kaffeeanbau wider und verleiht dem Gebäude eine organische, fast märchenhafte Ästhetik. Im Inneren befinden sich zahlreiche Holzschnitzereien, die biblische Szenen, das ländliche Leben und mythologische Figuren darstellen. Nach dem Tod des Künstlers übernahmen seine Söhne das Erbe und führen das Haus als Galerie und Werkstatt für Volkskunst weiter. Geographisch liegt das Haus nahe dem Cachi-Stausee, umgeben von üppiger tropischer Vegetation und Kaffeestoffen. Es ist nicht nur ein privates Wohnhaus, sondern ein bedeutendes Kulturzentrum, das zeigt, wie aus lokalen Abfallprodukten der Landwirtschaft hochrangige Kunstwerke entstehen können. Die Casa del Soñador zieht Besucher an, die die kreative Seele Costa Ricas abseits der ausgetretenen Pfade entdecken möchten.",
       hu: "A Cachi-ban található Casa del Soñador (Az álmodozó háza) egy egyedülálló építészeti és művészeti nevezetesség az Orosi-völgyben. A házat az 1970-es években építette a híres costa-rica-i szobrász, Macedonio Quesada (1933–2003), teljesen kávécserjék gyökereiből és törzseiből. Ez a szokatlan anyagválasztás tükrözi a régió szoros kötődését a kávétermesztéshez, és az épületnek organikus, szinte mesebeli esztétikát kölcsönöz. Odabent számos fafaragás található, amelyek bibliai jeleneteket, a vidéki életet és mitológiai alakokat ábrázolnak. A művész halála után fiai vették át az örökséget, és galériaként, valamint népművészeti műhelyként működtetik tovább a házat. Földrajzilag a ház a Cachi-víztározó közelében fekszik, buja trópusi növényzet és kávéültetvények környezetében. Nemcsak magánház, hanem jelentős kulturális központ is, amely megmutatja, hogyan válhatnak a mezőgazdaság helyi hulladéktermékei magas színvonalú műalkotásokká. A Casa del Soñador vonzza azokat a látogatókat, akik Costa Rica kreatív lelkét szeretnék felfedezni a járatlan utakon.",
       ro: "Casa del Soñador (Casa Visătorului) din Cachi este un punct de reper arhitectural și artistic unic în Valea Orosi. Casa a fost construită în anii 1970 de celebrul sculptor costarican Macedonio Quesada (1933–2003), folosind în întregime rădăcini și trunchiuri de arbuști de cafea. Această alegere neobișnuită a materialului reflectă legătura strânsă a regiunii cu cultivarea cafelei și conferă clădirii o estetică organică, aproape de basm. În interior se află numeroase sculpturi în lemn care înfățișează scene biblice, viața rurală și figuri mitologice. După moartea artistului, fiii săi au preluat moștenirea și continuă să administreze casa ca galerie și atelier de artă populară. Geografic, casa este situată lângă lacul de acumulare Cachi, înconjurată de vegetație tropicală luxuriantă și plantații de cafea. Nu este doar o locuință privată, ci un centru cultural important care arată cum produsele reziduale locale din agricultură pot fi transformate în opere de artă de înalt nivel. Casa del Soñador atrage vizitatori care doresc să descopere sufletul creativ al Costa Ricăi în afara traseelor turistice clasice.",
       en: "The Casa del Soñador (House of the Dreamer) in Cachi is a unique architectural and artistic landmark located within the Orosi Valley. The house was constructed in the 1970s by the renowned Costa Rican sculptor Macedonio Quesada (1933–2003), using exclusively the roots and trunks of coffee bushes. This unconventional choice of material reflects the region's deep connection to coffee cultivation and gives the building an organic, almost fairytale aesthetic. Inside, the house contains numerous wood carvings depicting biblical scenes, rural life, and mythological figures. Following the artist's death, his sons took over the legacy and continue to operate the house as a gallery and folk art workshop. Geographically, the house is situated near the Cachi Reservoir, surrounded by lush tropical vegetation and sprawling coffee plantations. It is not merely a private residence but a significant cultural center demonstrating how local agricultural waste can be transformed into high-level art. Casa del Soñador attracts visitors eager to discover Costa Rica's creative spirit off the beaten path.",
+      es: "La Casa del Soñador en el Valle de Orosi es el legado artístico de Macedonio Quesada, uno de los artistas populares más importantes de Costa Rica. La casa misma es una obra de arte, construida con troncos de café y materiales naturales, y refleja la profunda conexión del creador con la naturaleza. Quesada fue famoso por sus esculturas de raíces de café, que muestran rostros y figuras con un aura casi mística. Hoy la casa es dirigida por sus hijos, quienes preservan y enseñan la tradición de la talla en madera. Una visita a este taller caprichoso e inspirador ofrece una visión del alma del arte popular costarricense y muestra cómo materiales naturales simples pueden convertirse en tesoros culturales duraderos a través de la pasión y la visión.",
+      pt: "A Casa del Soñador no Vale de Orosi é o legado artístico de Macedonio Quesada, um dos artistas populares mais importantes da Costa Rica. A própria casa é uma obra de arte, construída com troncos de café e materiais naturais, e reflete a profunda ligação do criador com a natureza. Quesada foi famoso pelas suas esculturas de raízes de café, que mostram rostos e figuras com uma aura quase mística. Hoje a casa é gerida pelos seus filhos, que preservam e ensinam a tradição da escultura em madeira. Uma visita a este atelier excêntrico e inspirador oferece uma visão da alma da arte popular costarriquenha e mostra como materiais naturais simples podem tornar-se tesouros culturais duradouros através da paixão e visão.",
+      fr: "La Casa del Soñador (Maison du Rêveur) dans la vallée d'Orosi est l'héritage artistique de Macedonio Quesada, l'un des plus importants artistes populaires du Costa Rica. La maison elle-même est une œuvre d'art, construite à partir de troncs de caféiers et de matériaux naturels, reflétant le lien profond du créateur avec la nature. Quesada était célèbre pour ses sculptures en racines de caféier, représentant des visages et des figures à l'aura presque mystique. Aujourd'hui, la maison est gérée par ses fils, qui préservent et enseignent la tradition de la sculpture sur bois. Une visite de cet atelier insolite et inspirant offre un aperçu de l'âme de l'art populaire costaricien et montre comment de simples matériaux naturels peuvent devenir des trésors culturels durables grâce à la passion et à la vision.",
     },
     facts: {
       de: ["Haus von Macedonio Quesada", "Holzschnitzkunst", "Künstlerisches Erbe", "Einzigartige Architektur"],
       hu: ["Macedonio Quesada háza", "Fafaragó művészet", "Művészeti örökség", "Egyedi építészet"],
       ro: ["Casa lui Macedonio Quesada", "Artă a sculpturii în lemn", "Patrimoniu artistic", "Arhitectură unică"],
-      en: ["Home of Macedonio Quesada", "Wood carving art", "Artistic heritage", "Unique architecture"]
+      en: ["Home of Macedonio Quesada", "Wood carving art", "Artistic heritage", "Unique architecture"],
+      es: ["Casa de Macedonio Quesada", "Arte de la talla en madera", "Legado artístico", "Arquitectura única"],
+      pt: ["Casa de Macedonio Quesada", "Arte da escultura em madeira", "Legado artístico", "Arquitetura única"],
+      fr: ["Maison de Macedonio Quesada", "Art de la sculpture sur bois", "Héritage artistique", "Architecture unique"],
     },
     factsAdvanced: {
       de: ["Erbaut von Macedonio Quesada", "Vollständig aus Kaffeewurzeln gefertigt", "Befindet sich in Cachi, Orosi-Tal", "Baubeginn in den 1970er Jahren", "Beherbergt eine Holzschnitzgalerie", "Kulturzentrum für lokale Volkskunst"],
       hu: ["Macedonio Quesada építette", "Teljesen kávégyökerekből készült", "Cachi-ban, az Orosi-völgyben található", "Az 1970-es években kezdték építeni", "Fafaragó galériának ad otthont", "A helyi népművészet kulturális központja"],
       ro: ["Construită de Macedonio Quesada", "Realizată integral din rădăcini de cafea", "Situată în Cachi, Valea Orosi", "Construcția a început în anii 1970", "Găzduiește o galerie de sculptură în lemn", "Centru cultural pentru arta populară locală"],
       en: ["Built by Macedonio Quesada", "Made entirely from coffee roots", "Located in Cachi, Orosi Valley", "Construction began in the 1970s", "Houses a wood carving gallery", "Cultural center for local folk art"],
+      es: ["Fundada por Macedonio Quesada (1933-2003)", "La casa fue construida casi en su totalidad con materiales naturales reciclados", "Los materiales principales para las esculturas son raíces de cafetos antiguos", "Situada pintorescamente entre las ciudades de Orosi y Cachí", "Fue declarada oficialmente sitio de interés cultural", "Quesada recibió el prestigioso Premio Nacional de Cultura por su obra", "Los visitantes pueden observar a los artistas directamente trabajando en el taller abierto", "Las esculturas a menudo tratan temas de la familia rural y la naturaleza"],
+      pt: ["Fundada por Macedonio Quesada (1933-2003)", "A casa foi construída quase inteiramente com materiais naturais reciclados", "Os principais materiais para as esculturas são raízes de cafeeiros antigos", "Situada pitorescamente entre as cidades de Orosi e Cachí", "Foi oficialmente declarada local de interesse cultural", "Quesada recebeu o prestigiado Prémio Nacional de Cultura pelo seu trabalho", "Os visitantes podem observar os artistas a trabalhar diretamente no atelier aberto", "As esculturas abordam frequentemente a família rural e a natureza"],
+      fr: ["Fondée par Macedonio Quesada (1933-2003)", "La maison a été presque entièrement construite avec des matériaux naturels recyclés", "Les matériaux principaux des sculptures sont des racines de vieux caféiers", "Située de manière pittoresque entre les villes d'Orosi et Cachí", "Officiellement déclarée lieu d'intérêt culturel", "Quesada a reçu le prestigieux Prix National de la Culture pour son œuvre", "Les visiteurs peuvent observer les artistes au travail dans l'atelier ouvert", "Les sculptures traitent souvent de la famille rurale et de la nature"],
     }, image: "/poi-images/casa-del-sonador-history-v2.webp"},
   {
     id: "tilaran-petroglyphs-history-v2",
@@ -1051,25 +1311,37 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       de: "Eine Reihe von Felsritzungen in der Nähe des Arenal-Sees, die auf die Zeit vor der Vergrößerung des Sees durch den Staudamm zurückgehen.",
       hu: "Sziklavésetek sorozata az Arenal-tó közelében, amelyek a tó gáttal történő megnagyobbítása előtti időkből származnak.",
       ro: "O serie de gravuri rupestre lângă Lacul Arenal, datând dinainte de extinderea lacului de către baraj.",
-      en: "A series of rock carvings near Lake Arenal that date back to before the lake was enlarged by the dam."
+      en: "A series of rock carvings near Lake Arenal that date back to before the lake was enlarged by the dam.",
+      es: "Una serie de tallas rupestres cerca del lago Arenal que datan de antes de la ampliación del lago por la represa.",
+      pt: "Uma série de gravuras rupestres perto do Lago Arenal que datam de antes da expansão do lago pela barragem.",
+      fr: "Une série de gravures rupestres près du lac Arenal datant d'avant l'agrandissement du lac par le barrage.",
     },
     descriptionAdvanced: {
       de: "Die Petroglyphen von Tilarán in der Provinz Guanacaste stellen ein bedeutendes archäologisches Erbe der präkolumbianischen Kulturen Costa Ricas dar. Diese in Stein gehauenen Symbole befinden sich in der Nähe des Arenal-Sees und stammen vermutlich aus der Zeit zwischen 500 v. Chr. und 1000 n. Chr. Die Ritzzeichnungen zeigen eine Vielzahl von Motiven, darunter anthropomorphe Figuren, Tiere und komplexe geometrische Muster, deren genaue Bedeutung noch immer Gegenstand wissenschaftlicher Untersuchungen ist. Forscher gehen davon aus, dass die Felsbilder religiöse Zeremonien, astronomische Beobachtungen oder territoriale Grenzen markierten. Die Region um Tilarán war ein wichtiger Siedlungsbereich für indigene Gruppen wie die Corobicí, die die vulkanischen Gesteine der Umgebung für ihre Kunst nutzten. Heute sind die Petroglyphen ein wertvolles Zeugnis der kulturellen Komplexität und der künstlerischen Fähigkeiten der frühen Bewohner Mittelamerikas vor der Ankunft der Europäer.",
       hu: "A Guanacaste tartományban található Tilarán-petroglyfák Costa Rica prekolumbián korszakának egyik legfontosabb régészeti emlékét alkotják. Az Arenal-tó közelében fekvő sziklavésetek keletkezését a szakértők i. e. 500 és i. sz. 1000 közé teszik. A kövekbe vésett szimbólumok között emberalakok, állatfigurák és bonyolult mértani minták egyaránt megtalálhatók, amelyek jelentése a mai napig tudományos viták tárgyát képezi. A kutatók feltételezése szerint ezek a jelek vallási szertartásokhoz, csillagászati megfigyelésekhez vagy törzsi területek kijelöléséhez kapcsolódhattak. Tilarán környéke fontos lakóhelye volt olyan őshonos csoportoknak, mint például a corobicí indiánok, akik a helyi vulkáni kőzeteket használták fel művészetükhöz. A lelőhely ma is alapvető forrás Közép-Amerika korai lakóinak kulturális összetettségéről és művészi képességeiről, bemutatva az európaiak érkezése előtti civilizációk fejlettségét.",
       ro: "Petroglifele de la Tilarán, situate în provincia Guanacaste, reprezintă o moștenire arheologică deosebit de importantă a culturilor precolumbiene din Costa Rica. Aceste simboluri sculptate în piatră se găsesc în apropierea lacului Arenal și se estimează că datează din perioada cuprinsă între anul 500 î.Hr. și 1000 d.Hr. Desenele rupestre includ o varietate de motive, precum figuri antropomorfe, animale și modele geometrice complexe, a căror semnificație exactă rămâne un subiect de cercetare științifică. Cercetătorii sugerează că aceste inscripții marcau ceremonii religioase, observații astronomice sau limite teritoriale între diferite grupuri indigene. Regiunea Tilarán a fost un centru important de așezare pentru grupuri precum Corobicí, care au utilizat rocile vulcanice locale pentru a-și exprima viziunea asupra lumii. Astăzi, petroglifele oferă o perspectivă valoroasă asupra complexității culturale și abilităților artistice ale primilor locuitori din America Centrală.",
       en: "The Tilarán Petroglyphs, located in the Guanacaste province, constitute a vital archaeological heritage of Costa Rica's pre-Columbian cultures. These stone-carved symbols are situated near Lake Arenal and are estimated to date between 500 BCE and 1000 CE. The carvings display a wide variety of motifs, including anthropomorphic figures, animals, and complex geometric patterns, the exact meanings of which remain a subject of ongoing scientific study. Researchers believe these rock art sites may have marked religious ceremonies, astronomical observations, or territorial boundaries between indigenous groups. The region around Tilarán was a significant settlement area for groups such as the Corobicí, who utilized the local volcanic stones for their artistic expressions. Today, the petroglyphs stand as a testament to the cultural complexity and artistic skills of Central America's early inhabitants before the Spanish arrival, providing crucial links to the country's ancient past.",
+      es: "En la ventosa región de Tilarán, cerca de las orillas del lago Arenal, se encuentran los misteriosos petroglifos de Tilarán. Estas tallas rupestres datan de antes de la gran inundación del valle por el proyecto hidroeléctrico en la década de 1970. Las piedras muestran patrones y símbolos complejos que probablemente servían para marcar rutas comerciales o para fines rituales. Las investigaciones arqueológicas sugieren que esta zona era un importante corredor de intercambio entre las culturas de la costa del Pacífico y las tierras bajas del norte. Visitar estos artefactos prehistóricos ofrece una oportunidad única para comprender la estratificación cultural de una región que hoy es conocida principalmente por su moderna producción de energía y su turismo.",
+      pt: "Na ventosa região de Tilarán, perto das margens do Lago Arenal, encontram-se os misteriosos petróglifos de Tilarán. Estas gravuras rupestres datam de antes da grande inundação do vale pelo projeto hidroelétrico na década de 1970. As pedras mostram padrões e símbolos complexos que provavelmente serviam para marcar rotas comerciais ou para fins rituais. Investigações arqueológicas sugerem que esta área era um importante corredor de intercâmbio entre as culturas da costa do Pacífico e as terras baixas do norte. Visitar estes artefactos pré-históricos oferece uma oportunidade rara de compreender a estratificação cultural de uma região que hoje é conhecida principalmente pela sua moderna produção de energia e pelo seu turismo.",
+      fr: "Dans la région venteuse de Tilarán, près des rives du lac Arenal, se trouvent les mystérieux pétroglyphes de Tilarán. Ces gravures rupestres datent d'avant la grande inondation de la vallée par le projet hydroélectrique dans les années 1970. Les pierres présentent des motifs et des symboles complexes qui servaient probablement à marquer des routes commerciales ou à des fins rituelles. Les recherches archéologiques suggèrent que cette zone était un corridor important pour les échanges entre les cultures de la côte Pacifique et les basses terres du nord. La visite de ces artefacts préhistoriques offre une occasion rare de comprendre la stratification culturelle d'une région aujourd'hui principalement connue pour sa production d'énergie moderne et son tourisme.",
     },
     facts: {
       de: ["Präkolumbianische Ritzungen", "Nahe dem Arenal-See", "Überflutete Geschichte", "Menschliche und tierische Figuren"],
       hu: ["Prekolumbiánus vésetek", "Az Arenal-tó közelében", "Elárasztott történelem", "Emberi és állati figurák"],
       ro: ["Gravuri precolumbiene", "Lângă Lacul Arenal", "Istorie inundată", "Figuri umane și animale"],
-      en: ["Pre-Columbian carvings", "Near Lake Arenal", "Submerged history", "Human and animal figures"]
+      en: ["Pre-Columbian carvings", "Near Lake Arenal", "Submerged history", "Human and animal figures"],
+      es: ["Tallas precolombinas", "Cerca del lago Arenal", "Historia inundada", "Figuras humanas y animales"],
+      pt: ["Gravuras pré-colombianas", "Perto do Lago Arenal", "História inundada", "Figuras humanas e animais"],
+      fr: ["Gravures précolombiennes", "Près du lac Arenal", "Histoire inondée", "Figures humaines et animales"],
     },
     factsAdvanced: {
       de: ["Die Petroglyphen wurden auf vulkanischen Basaltsteinen eingraviert.", "Einige Gravuren sind über 1500 Jahre alt.", "Die Motive umfassen sowohl abstrakte Spiralen als auch reale Tierdarstellungen.", "Wissenschaftler bringen die Funde mit der indigenen Gruppe der Corobicí in Verbindung.", "Die Fundstellen liegen in der Nähe des aktiven Vulkans Arenal.", "Die archäologische Forschung in der Region begann intensiv in den 1970er Jahren."],
       hu: ["A vésetek vulkáni bazaltköveken maradtak fenn az utókor számára.", "Egyes szimbólumok kora meghaladja az 1500 évet.", "A motívumok között absztrakt spirálok és realisztikus állatábrázolások is vannak.", "A régészek a leleteket leginkább a corobicí törzshöz kötik.", "A lelőhelyek az aktív Arenal-vulkán közvetlen közelében találhatók.", "A térségben az intenzív régészeti kutatások az 1970-es években kezdődtek el."],
       ro: ["Petroglifele au fost gravate pe pietre de bazalt vulcanic durabile.", "Vârsta unor gravuri depășește 1500 de ani de existență.", "Motivele includ spirale abstracte și reprezentări realiste de animale.", "Oamenii de știință asociază aceste descoperiri cu grupul indigen Corobicí.", "Situl arheologic se află în apropierea vulcanului activ Arenal.", "Cercetările sistematice în această zonă au demarat în anii 1970."],
       en: ["The petroglyphs were engraved on durable volcanic basalt stones.", "Some of the carvings are estimated to be over 1,500 years old.", "Motifs include both abstract spirals and realistic animal representations.", "Archaeologists frequently link these finds to the indigenous Corobicí people.", "The sites are located in the vicinity of the active Arenal Volcano.", "Intensive archaeological research in the Tilarán region began in the 1970s."],
+      es: ["La antigüedad de las tallas se estima entre 1.000 y 1.500 años", "Muchos yacimientos se encuentran hoy bajo el nivel del agua del lago Arenal", "Se han catalogado más de 50 motivos diferentes en la región", "Tilarán es conocida como la 'Ciudad de los Vientos'", "Las tallas se encuentran en grandes bloques de lava (piedra volcánica)", "La zona era un puente entre la Gran Nicoya y el Valle Central", "Altitud de los yacimientos: aprox. 500 a 700 metros sobre el nivel del mar", "Los símbolos se asemejan en parte a los de Nicaragua y Panamá"],
+      pt: ["A idade das gravuras é estimada em cerca de 1.000 a 1.500 anos", "Muitos sítios encontram-se hoje sob o nível da água do Lago Arenal", "Foram catalogados mais de 50 motivos diferentes na região", "Tilarán é conhecida como a 'Cidade dos Ventos'", "As gravuras encontram-se em grandes blocos de lava (pedra vulcânica)", "A área era uma ponte entre a Gran Nicoya e o Vale Central", "Altitude dos sítios: aprox. 500 a 700 metros acima do nível do mar", "Os símbolos assemelham-se parcialmente aos da Nicarágua e do Panamá"],
+      fr: ["L'âge des gravures est estimé à environ 1 000 à 1 500 ans", "De nombreux sites se trouvent aujourd'hui sous le niveau de l'eau du lac Arenal", "Plus de 50 motifs différents ont été répertoriés dans la région", "Tilarán est connue comme la 'ville des vents' (Ciudad de los Vientos)", "Les gravures se trouvent sur de grands blocs de lave (pierre volcanique)", "La zone était un pont entre la Gran Nicoya et la Vallée Centrale", "Altitude des sites : environ 500 à 700 mètres au-dessus de la mer", "Les symboles ressemblent en partie à ceux du Nicaragua et du Panama"],
     },
   }
 ];
