@@ -65,26 +65,66 @@ console.log(`Bucketed into ${Object.keys(byCountry).length} countries, ${skipped
 // Strips description / facts / descriptionAdvanced / factsAdvanced / faq /
 // plizioChallenge — those are only used on POI detail pages, never on the map.
 // Result: typical country JSON shrinks from ~2-6 MB to ~0.2-0.6 MB.
-const slim = (p: any) => ({
-  id: p.id,
-  type: p.type,
-  parent: p.parent,
-  coords: p.coords,
-  name: p.name,
-  image: p.image,
-  coa: p.coa,
-  audio: p.audio,
-  subjects: p.subjects,
-  grades: p.grades,
-  // Short popup content shown when clicking a POI on the country map.
-  // Keep `description` (1-2 sentences) and `facts` (3-6 short items) per
-  // language; omit the heavy `descriptionAdvanced`/`factsAdvanced` which the
-  // POI detail page already renders into its own static HTML.
-  ...(p.description ? { description: p.description } : {}),
-  ...(p.facts ? { facts: p.facts } : {}),
-  ...(p.region ? { region: p.region } : {}),
-  ...(p.altNames ? { altNames: p.altNames } : {}),
-});
+function firstSentence(s: string, maxLen = 220): string {
+  if (!s) return "";
+  const t = s.trim();
+  // Take up to the first period, exclamation or question mark; cap at maxLen.
+  const m = t.match(/^[^.!?]+[.!?]/);
+  let out = m ? m[0].trim() : t;
+  if (out.length > maxLen) out = out.slice(0, maxLen).replace(/\s+\S*$/, "") + "…";
+  return out;
+}
+// Synthesise a popup-sized description from descriptionAdvanced when the
+// source POI has no explicit short `description` field (common on V2 POIs).
+function popupDescription(p: any): Record<string, string> | undefined {
+  if (p.description) return p.description;
+  const da = p.descriptionAdvanced;
+  if (!da || typeof da !== "object") return undefined;
+  const out: Record<string, string> = {};
+  for (const lang of ["de", "hu", "ro", "en"]) {
+    const v = da[lang];
+    if (typeof v === "string" && v.trim().length > 0) out[lang] = firstSentence(v);
+  }
+  return Object.keys(out).length > 0 ? out : undefined;
+}
+// Same idea for facts: prefer the explicit short list; otherwise use factsAdvanced
+// (already a 3-6 item array per lang).
+function popupFacts(p: any): Record<string, string[]> | undefined {
+  if (p.facts) return p.facts;
+  const fa = p.factsAdvanced;
+  if (!fa || typeof fa !== "object") return undefined;
+  const out: Record<string, string[]> = {};
+  for (const lang of ["de", "hu", "ro", "en"]) {
+    const arr = fa[lang];
+    if (Array.isArray(arr) && arr.length > 0) out[lang] = arr.slice(0, 6);
+  }
+  return Object.keys(out).length > 0 ? out : undefined;
+}
+
+const slim = (p: any) => {
+  const popDesc = popupDescription(p);
+  const popFacts = popupFacts(p);
+  return {
+    id: p.id,
+    type: p.type,
+    parent: p.parent,
+    coords: p.coords,
+    name: p.name,
+    image: p.image,
+    coa: p.coa,
+    audio: p.audio,
+    subjects: p.subjects,
+    grades: p.grades,
+    // Short popup content shown when clicking a POI on the country map.
+    // If the source has no explicit `description`/`facts`, fall back to the
+    // first sentence of `descriptionAdvanced` and the `factsAdvanced` list —
+    // common on V2 POIs which only got the advanced fields from Flash.
+    ...(popDesc ? { description: popDesc } : {}),
+    ...(popFacts ? { facts: popFacts } : {}),
+    ...(p.region ? { region: p.region } : {}),
+    ...(p.altNames ? { altNames: p.altNames } : {}),
+  };
+};
 
 let totalBytes = 0;
 const sizes: [string, number, number][] = [];
