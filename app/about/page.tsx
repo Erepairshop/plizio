@@ -188,6 +188,57 @@ export default function AboutPage() {
           );
         })}
       </div>
+
+      <div className="mt-12 pt-8 border-t border-white/10">
+        <h2 className="text-xl font-bold text-white mb-3">
+          {{
+            de: "Weitere Projekte",
+            hu: "További projektjeink",
+            ro: "Alte proiecte ale noastre",
+            en: "Our other projects",
+          }[lang ?? "hu"]}
+        </h2>
+        <p className="text-white/70 leading-relaxed mb-4">
+          {{
+            de: "Plizio ist Teil einer Reihe von Projekten, die wir mit Liebe und Aufmerksamkeit für lokale Gemeinschaften bauen.",
+            hu: "A Plizio egy projektcsalád része; mind a helyi közösségekre figyelve, szívvel-lélekkel készülnek.",
+            ro: "Plizio face parte dintr-o familie de proiecte construite cu atenție pentru comunitățile locale.",
+            en: "Plizio is part of a family of projects we build with care for local communities.",
+          }[lang ?? "hu"]}
+        </p>
+        <ul className="space-y-3 text-white/80">
+          <li>
+            <a href="https://punktepass.de" className="text-cyan-300 hover:text-cyan-200 underline-offset-2 hover:underline font-semibold">PunktePass</a>
+            {" — "}
+            {{
+              de: "Treueprogramm für lokale Geschäfte (Bäckerei, Eisdiele, Drogerie).",
+              hu: "Hűségprogram helyi üzleteknek (pékség, fagyizó, drogéria).",
+              ro: "Program de fidelitate pentru magazine locale (brutărie, gelaterie, droguerie).",
+              en: "Loyalty program for local shops (bakery, ice cream parlour, drugstore).",
+            }[lang ?? "hu"]}
+          </li>
+          <li>
+            <a href="https://erepairshop.de" className="text-cyan-300 hover:text-cyan-200 underline-offset-2 hover:underline font-semibold">Erepairshop</a>
+            {" — "}
+            {{
+              de: "Telefon- und Tablet-Reparatur (iPhone, Samsung, Huawei, Xiaomi).",
+              hu: "Telefon- és tablet-javítás (iPhone, Samsung, Huawei, Xiaomi).",
+              ro: "Reparații telefoane și tablete (iPhone, Samsung, Huawei, Xiaomi).",
+              en: "Phone and tablet repair shop (iPhone, Samsung, Huawei, Xiaomi).",
+            }[lang ?? "hu"]}
+          </li>
+          <li>
+            <a href="https://diginachrichten.de" className="text-cyan-300 hover:text-cyan-200 underline-offset-2 hover:underline font-semibold">Diginachrichten</a>
+            {" — "}
+            {{
+              de: "Digitale Nachrichten und Übersichten zu Technologie und Wirtschaft.",
+              hu: "Digitális hírek, technológiai és gazdasági áttekintések.",
+              ro: "Știri digitale, sinteze de tehnologie și economie.",
+              en: "Digital news and concise tech & economy briefings.",
+            }[lang ?? "hu"]}
+          </li>
+        </ul>
+      </div>
     </SimplePageLayout>
   );
 }

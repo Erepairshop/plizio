@@ -33,7 +33,15 @@ export function buildOrganizationSchema(): SchemaNode {
     name: "PLIZIO",
     url: SITE_URL,
     logo: `${SITE_URL}/icon-512.png`,
-    sameAs: [],
+    // Sister projects under the same operator. sameAs declares the entity
+    // is the same organisation on these external sites, helping Google
+    // build a unified Knowledge Graph entity across the project family.
+    sameAs: [
+      "https://punktepass.de",
+      "https://erepairshop.de",
+      "https://diginachrichten.de",
+      "https://borota.dev",
+    ],
   };
 }
 
