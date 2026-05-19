@@ -176,41 +176,23 @@ export interface CountryMapData {
   subregions: Record<string, any> | any[]; // structurally compatible with bundeslandSubregions
 }
 
-// Lazy-load DE map + POI extras only when actually requested.
-// Cached in module scope so repeated calls (e.g. lang change → DE again) reuse
-// the already-fetched chunk instead of re-fetching.
+// Lazy-load DE map (SVG paths + subregions only) when actually requested.
+// POIs are NOT loaded here — InteractiveMap fetches /data/pois/DE.json at
+// runtime (slim shape: 1103 POIs, ~3.7 MB raw / ~500-700 KB gzip vs. ~10 MB
+// of the full TS modules with descriptionAdvanced/factsAdvanced/faq fields
+// that the map runtime doesn't render anyway).
+// Cached in module scope so repeated calls reuse the already-fetched chunk.
 let _dePromise: Promise<CountryMapData> | null = null;
 async function loadDeutschland(): Promise<CountryMapData> {
   if (_dePromise) return _dePromise;
   _dePromise = (async () => {
-    const [svg, poiBase, exCities, ex1, ex2, ex3a, ex3b, ex4a, ex4b, exLeben] = await Promise.all([
-      import("./deutschland.svg"),
-      import("../data/poi"),
-      import("../data/poiExtraDeCities"),
-      import("../data/poiExtraDe1"),
-      import("../data/poiExtraDe2"),
-      import("../data/poiExtraDe3a"),
-      import("../data/poiExtraDe3b"),
-      import("../data/poiExtraDe4a"),
-      import("../data/poiExtraDe4b"),
-      import("../data/poiExtraDeLebenWirtschaft"),
-    ]);
+    const svg = await import("./deutschland.svg");
     return {
       countryId: "DE",
       map: svg.deutschlandMap as unknown as BundeslandPath[],
       viewBox: svg.deutschlandViewBox,
       projectCoords: svg.projectCoords,
-      pois: [
-        ...poiBase.pois,
-        ...exCities.poiExtraDeCities,
-        ...ex1.poiExtraDe1,
-        ...ex2.poiExtraDe2,
-        ...ex3a.poiExtraDe3a,
-        ...ex3b.poiExtraDe3b,
-        ...ex4a.poiExtraDe4a,
-        ...ex4b.poiExtraDe4b,
-        ...exLeben.poiExtraDeLebenWirtschaft,
-      ],
+      pois: [],                  // populated at runtime from /data/pois/DE.json
       subregions: bundeslandSubregions,
     };
   })();
