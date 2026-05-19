@@ -1,7 +1,9 @@
 // Country map resolver — nyelv alapján választ térképet és POI-kat
 // lang: "de" → Deutschland, "ro" → Romania, "hu" → Magyarország (stub), "en" → Deutschland (fallback)
 
-import { deutschlandMap, deutschlandViewBox, projectCoords as projectCoordsDE, type BundeslandPath } from "./deutschland.svg";
+// DE map + POI extras are dynamically imported in loadDeutschland() below.
+// Keeping only the type import here so the static client chunk stays slim.
+import type { BundeslandPath } from "./deutschland.svg";
 import { romaniaMap, romaniaViewBox, projectCoordsRO } from "./romania.svg";
 import { magyarorszagMap, magyarorszagViewBox, projectCoordsHU } from "./magyarorszag.svg";
 import { franceMap, franceViewBox, projectCoordsFR } from "./france.svg";
@@ -15,27 +17,8 @@ import { austriaSubregions } from "./austriaSubregions";
 import { spainSubregions } from "./spainSubregions";
 import { franceSubregions } from "./franceSubregions";
 import { italySubregions } from "./italySubregions";
-import { pois as deutschlandPoisBase } from "../data/poi";
-import { poiExtraDe1 } from "../data/poiExtraDe1";
-import { poiExtraDe2 } from "../data/poiExtraDe2";
-import { poiExtraDe3a } from "../data/poiExtraDe3a";
-import { poiExtraDe3b } from "../data/poiExtraDe3b";
-import { poiExtraDe4a } from "../data/poiExtraDe4a";
-import { poiExtraDe4b } from "../data/poiExtraDe4b";
-import { poiExtraDeCities } from "../data/poiExtraDeCities";
-import { poiExtraDeLebenWirtschaft } from "../data/poiExtraDeLebenWirtschaft";
-
-const deutschlandPois = [
-  ...deutschlandPoisBase,
-  ...poiExtraDeCities,
-  ...poiExtraDe1,
-  ...poiExtraDe2,
-  ...poiExtraDe3a,
-  ...poiExtraDe3b,
-  ...poiExtraDe4a,
-  ...poiExtraDe4b,
-  ...poiExtraDeLebenWirtschaft,
-];
+// DE POI base + extras are also dynamically imported alongside the SVG in
+// loadDeutschland(). Keeps ~1000 POI entries out of every country page's chunk.
 import { romaniaAllPois } from "../data/romaniaPoi"; // Tartalmazza: romaniaCulture, romaniaTraditions, romaniaWildlife, romaniaFolk
 import { poiExtraRo1 } from "../data/poiExtraRo1";
 import { poiExtraRo2 } from "../data/poiExtraRo2";
@@ -193,7 +176,48 @@ export interface CountryMapData {
   subregions: Record<string, any> | any[]; // structurally compatible with bundeslandSubregions
 }
 
-export function getCountryMap(lang: Lang): CountryMapData {
+// Lazy-load DE map + POI extras only when actually requested.
+// Cached in module scope so repeated calls (e.g. lang change → DE again) reuse
+// the already-fetched chunk instead of re-fetching.
+let _dePromise: Promise<CountryMapData> | null = null;
+async function loadDeutschland(): Promise<CountryMapData> {
+  if (_dePromise) return _dePromise;
+  _dePromise = (async () => {
+    const [svg, poiBase, exCities, ex1, ex2, ex3a, ex3b, ex4a, ex4b, exLeben] = await Promise.all([
+      import("./deutschland.svg"),
+      import("../data/poi"),
+      import("../data/poiExtraDeCities"),
+      import("../data/poiExtraDe1"),
+      import("../data/poiExtraDe2"),
+      import("../data/poiExtraDe3a"),
+      import("../data/poiExtraDe3b"),
+      import("../data/poiExtraDe4a"),
+      import("../data/poiExtraDe4b"),
+      import("../data/poiExtraDeLebenWirtschaft"),
+    ]);
+    return {
+      countryId: "DE",
+      map: svg.deutschlandMap as unknown as BundeslandPath[],
+      viewBox: svg.deutschlandViewBox,
+      projectCoords: svg.projectCoords,
+      pois: [
+        ...poiBase.pois,
+        ...exCities.poiExtraDeCities,
+        ...ex1.poiExtraDe1,
+        ...ex2.poiExtraDe2,
+        ...ex3a.poiExtraDe3a,
+        ...ex3b.poiExtraDe3b,
+        ...ex4a.poiExtraDe4a,
+        ...ex4b.poiExtraDe4b,
+        ...exLeben.poiExtraDeLebenWirtschaft,
+      ],
+      subregions: bundeslandSubregions,
+    };
+  })();
+  return _dePromise;
+}
+
+export async function getCountryMap(lang: Lang): Promise<CountryMapData> {
   switch (lang) {
     case "va":
       return {
@@ -633,14 +657,7 @@ export function getCountryMap(lang: Lang): CountryMapData {
       return { countryId: "SV", map: elsalvadorMap as unknown as BundeslandPath[], viewBox: elsalvadorViewBox, projectCoords: projectCoordsSV, pois: elsalvadorAllPoi, subregions: {} };
     case "de":
     default:
-      return {
-        countryId: "DE",
-        map: deutschlandMap,
-        viewBox: deutschlandViewBox,
-        projectCoords: projectCoordsDE,
-        pois: deutschlandPois,
-        subregions: bundeslandSubregions,
-      };
+      return loadDeutschland();
   }
 }
 

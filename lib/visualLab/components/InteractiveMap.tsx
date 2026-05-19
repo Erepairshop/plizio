@@ -9,10 +9,11 @@ import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight, X, Plus, Minus, Maximize2, Volume2, Search, Star, Ruler, Brain } from "lucide-react";
 import { type BundeslandPath } from "../maps/deutschland.svg";
 import { projectInState } from "../maps/bundeslandSubregions";
-import { getCountryMap } from "../maps/resolver";
+import { getCountryMap, type CountryMapData } from "../maps/resolver";
 import { getAfricaCountryMap } from "../maps/africaResolver";
 import { getAsiaCountryMap } from "../maps/asiaResolver";
 import { getSouthAmericaCountryMap } from "../maps/southAmericaResolver";
+import { MapLoadingSkeleton } from "@/components/MapLoadingSkeleton";
 import { getPoiImage } from "@/lib/seo/resolvePoiImage";
 import { useLang } from "@/components/LanguageProvider";
 import { usePanZoom } from "./usePanZoom";
@@ -175,15 +176,7 @@ const writeFavs = (s: Set<string>) => {
 const VALID_LAYERS = new Set<string>(["cities", "nature", "history", "landmarks", "life", "economic", "relief", "all"]);
 const VALID_PERIODS = new Set<string>(["all", "middle-ages", "reformation", "empire", "ww1", "ww2", "ddr", "modern"]);
 
-export const InteractiveMap = ({
-  lang = "de",
-  subject = "geographie",
-  grade = 5,
-  initialPoiId = null,
-  defaultCoords,
-  defaultZoom,
-  countryId,
-}: {
+type InteractiveMapProps = {
   lang?: string;
   subject?: Subject;
   grade?: number;
@@ -192,7 +185,48 @@ export const InteractiveMap = ({
   defaultZoom?: number;
   /** Afrika orszag slug (pl. "egypt", "nigeria") — ha meg van adva, felülírja a lang-alapú resolver-t */
   countryId?: string;
-}) => {
+};
+
+// Outer wrapper: resolves country data (sync for Africa/Asia/SouthAmerica,
+// async for Europe — DE map + POI extras are lazy-loaded via dynamic import).
+// Renders a skeleton until data is ready, then mounts the heavy inner map.
+export const InteractiveMap = (props: InteractiveMapProps) => {
+  const lang = props.lang ?? "de";
+  const countryId = props.countryId;
+  const [countryData, setCountryData] = useState<CountryMapData | null>(null);
+
+  useEffect(() => {
+    let cancelled = false;
+    const sync = countryId
+      ? (getAsiaCountryMap(countryId)
+          ?? getSouthAmericaCountryMap(countryId)
+          ?? getAfricaCountryMap(countryId))
+      : null;
+    if (sync) {
+      setCountryData(sync);
+      return;
+    }
+    setCountryData(null);
+    getCountryMap(lang as Lang).then((d) => {
+      if (!cancelled) setCountryData(d);
+    });
+    return () => { cancelled = true; };
+  }, [countryId, lang]);
+
+  if (!countryData) return <MapLoadingSkeleton />;
+  return <InteractiveMapInner {...props} countryData={countryData} />;
+};
+
+const InteractiveMapInner = ({
+  lang = "de",
+  subject = "geographie",
+  grade = 5,
+  initialPoiId = null,
+  defaultCoords,
+  defaultZoom,
+  countryId,
+  countryData,
+}: InteractiveMapProps & { countryData: CountryMapData }) => {
   const router = useRouter();
   // Static-export-safe URL param reader (avoids useSearchParams Suspense requirement)
   const searchParams = useMemo(() => {
@@ -200,11 +234,10 @@ export const InteractiveMap = ({
     return new URLSearchParams(window.location.search);
   }, []);
 
-  // ---- Country map resolver (countryId prop vagy lang-alapu) --------------
-  const countryData = useMemo(
-    () => (countryId ? getAsiaCountryMap(countryId) ?? getSouthAmericaCountryMap(countryId) ?? getAfricaCountryMap(countryId) ?? getCountryMap(lang as Lang) : getCountryMap(lang as Lang)),
-    [countryId, lang]
-  );
+  // ---- Country map resolver (lazy-loaded by outer wrapper, passed as prop) -
+  // The outer InteractiveMap component handles async loading + skeleton; by the
+  // time we render here, countryData is guaranteed non-null.
+  void countryId; // kept in props for downstream branches; not used for resolve
   const deutschlandMap = countryData.map;
   const deutschlandViewBox = countryData.viewBox;
   const projectCoords = countryData.projectCoords;
