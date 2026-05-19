@@ -587,7 +587,7 @@ export const InteractiveMap = ({
   };
 
   return (
-    <div className="relative w-full flex-1 min-h-[70vh] select-none flex flex-col" style={{ overscrollBehavior: "contain" }}>
+    <div className="relative w-full flex-1 min-h-[70vh] lg:min-h-0 lg:max-w-5xl lg:mx-auto select-none flex flex-col" style={{ overscrollBehavior: "contain" }}>
 
       {/* Mode tabs: Browse / Ruler / Quiz */}
       <div className="flex justify-center mb-2 px-1">
@@ -760,7 +760,7 @@ export const InteractiveMap = ({
       )}
 
       <div
-        className="relative w-full flex-1 mx-auto"
+        className="relative w-full flex-1 mx-auto lg:max-h-[640px]"
         style={{ overscrollBehavior: "contain", touchAction: "none" }}
       >
         <svg

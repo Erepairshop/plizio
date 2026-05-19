@@ -207,7 +207,7 @@ export default function NorthAmericaMap({ lang }: NorthAmericaMapProps) {
       <svg
         ref={svgRef}
         viewBox={northAmericaOverviewViewBox}
-        className="w-full h-[calc(100vh-90px)] lg:h-[75vh] select-none"
+        className="w-full h-[calc(100vh-90px)] lg:h-[70vh] lg:max-h-[720px] select-none"
         preserveAspectRatio="xMidYMid meet"
         style={{
           touchAction: "none",

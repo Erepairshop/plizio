@@ -204,7 +204,7 @@ export default function EuropeMap({ lang }: EuropeMapProps) {
   };
 
   return (
-    <div className="relative w-full max-w-5xl mx-auto flex-1 min-h-[60vh] lg:min-h-0 bg-slate-900 overflow-hidden shadow-2xl border border-white/10 lg:rounded-xl lg:my-4">
+    <div className="relative w-full max-w-6xl mx-auto flex-1 min-h-[60vh] lg:min-h-0 bg-slate-900 overflow-hidden shadow-2xl border border-white/10 lg:rounded-xl lg:my-4">
       <AnimatePresence>
         {toast && (
           <motion.div
@@ -247,7 +247,7 @@ export default function EuropeMap({ lang }: EuropeMapProps) {
       <svg
         ref={svgRef}
         viewBox={europaViewBox}
-        className="w-full h-[calc(100vh-90px)] lg:h-[65vh] lg:max-h-[620px] select-none"
+        className="w-full h-[calc(100vh-90px)] lg:h-[70vh] lg:max-h-[720px] select-none"
         preserveAspectRatio="xMidYMid meet"
         style={{
           touchAction: "none",

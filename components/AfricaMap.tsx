@@ -239,7 +239,7 @@ export default function AfricaMap({ lang }: AfricaMapProps) {
 
       <svg
         ref={svgRef} viewBox={africaViewBox}
-        className="w-full h-[calc(100vh-90px)] lg:h-[75vh] select-none"
+        className="w-full h-[calc(100vh-90px)] lg:h-[70vh] lg:max-h-[720px] select-none"
         preserveAspectRatio="xMidYMid meet"
         style={{ touchAction: "none", cursor: view.scale > 1 ? "grab" : "default", filter: "drop-shadow(0 0 20px rgba(0,255,255,0.08))" }}
         onWheel={onWheel} onPointerDown={onPointerDown} onPointerMove={onPointerMove} onPointerUp={onPointerUp} onPointerCancel={onPointerUp}

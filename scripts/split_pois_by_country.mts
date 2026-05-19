@@ -76,6 +76,12 @@ const slim = (p: any) => ({
   audio: p.audio,
   subjects: p.subjects,
   grades: p.grades,
+  // Short popup content shown when clicking a POI on the country map.
+  // Keep `description` (1-2 sentences) and `facts` (3-6 short items) per
+  // language; omit the heavy `descriptionAdvanced`/`factsAdvanced` which the
+  // POI detail page already renders into its own static HTML.
+  ...(p.description ? { description: p.description } : {}),
+  ...(p.facts ? { facts: p.facts } : {}),
   ...(p.region ? { region: p.region } : {}),
   ...(p.altNames ? { altNames: p.altNames } : {}),
 });
