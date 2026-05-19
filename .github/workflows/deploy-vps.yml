@@ -85,11 +85,67 @@ jobs:
       - name: Flatten sitemap paths (Google directory-scope rule)
         run: node scripts/flatten-sitemap-paths.mjs
 
+      # ─── Conditional POI HTML overlay ─────────────────────────────────
+      # The 152K POI HTML generation takes 10-12 min. Skip it for UI-only
+      # commits that don't touch POI data / SEO copy / generator script —
+      # in that case we rsync the prior release's POI HTMLs into out/ so
+      # the deploy still has all pages.
+      - name: Detect whether POI HTML needs regenerating
+        id: detect_poi
+        shell: bash
+        run: |
+          set -euo pipefail
+          POI_AFFECTING='^(lib/visualLab/data/.*[Pp]oi|lib/seo/|components/seo/|scripts/(generate-poi-html|build-seo-index|split_pois_by_country|prepare_v2_data|flatten-sitemap-paths|generate-image-sitemap)|public/poi-images/|app/\[lang\])'
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "Manual dispatch → regen POI"
+            echo "should_gen=true" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          BEFORE="${{ github.event.before }}"
+          AFTER="${{ github.sha }}"
+          if [ -z "$BEFORE" ] || [ "$BEFORE" = "0000000000000000000000000000000000000000" ]; then
+            echo "No previous SHA → regen POI"
+            echo "should_gen=true" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          # Ensure both SHAs are fetched (actions/checkout defaults to shallow)
+          git fetch --depth=20 origin "$BEFORE" "$AFTER" 2>/dev/null || true
+          if ! git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then
+            echo "BEFORE SHA unreachable → regen POI"
+            echo "should_gen=true" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          CHANGED=$(git diff --name-only "$BEFORE" "$AFTER" || true)
+          echo "Changed files:"; echo "$CHANGED" | head -50
+          if [ -z "$CHANGED" ]; then
+            echo "No changes → skip POI gen"
+            echo "should_gen=false" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          if echo "$CHANGED" | grep -qE "$POI_AFFECTING"; then
+            echo "POI-affecting files changed → regen"
+            echo "should_gen=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "UI-only commit → skip POI gen, will rsync from current release"
+            echo "should_gen=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Generate POI HTML overlay (all 152K, overwrites Next POI pages)
+        if: steps.detect_poi.outputs.should_gen == 'true'
         env:
           OUT_DIR: out
           GEN_LIMIT: '0'
         run: npx tsx scripts/generate-poi-html.mts
+
+      - name: Reuse POI HTMLs from current release (UI-only commit)
+        if: steps.detect_poi.outputs.should_gen != 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+          CURRENT="${{ env.RELEASE_BASE }}/current"
+          if [ ! -L "$CURRENT" ]; then
+            echo "ERROR: no current symlink at $CURRENT — cannot skip POI gen"
+            exit 1
+          fi
+          REAL=$(readlink -f "$CURRENT")
+          echo "Rsyncing POI HTMLs from $REAL into out/ (no-overwrite)"
+          rsync -a --ignore-existing "$REAL/" out/
 
       - name: Verify HTML overlay
         run: |
