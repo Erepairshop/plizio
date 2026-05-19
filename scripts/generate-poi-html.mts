@@ -104,6 +104,34 @@ function getRelatedPois(poi: POI, limit = 6): POI[] {
 const OUT_DIR = path.resolve(process.cwd(), process.env.OUT_DIR || "out");
 const GEN_LIMIT = Number(process.env.GEN_LIMIT || 0);
 
+// Build a set of all valid /{slug}-map/ routes from app/ so we can link
+// "View on map" CTAs to a real page instead of /lang/country/state/ (which
+// is not a route in output:"export" mode and 404s).
+const MAP_SLUGS: Set<string> = (() => {
+  const out = new Set<string>();
+  try {
+    for (const f of fs.readdirSync(path.resolve("app"))) {
+      if (f.endsWith("-map")) out.add(f);
+    }
+  } catch {}
+  return out;
+})();
+// Manual aliases where the folder name does not match a countryId with dashes
+// stripped (e.g. United Arab Emirates → "uae-map" not "unitedarabemirates-map").
+const COUNTRY_MAP_ALIASES: Record<string, string> = {
+  "united-arab-emirates": "uae-map",
+  "democratic-republic-of-congo": "drcongo-map",
+};
+function countryMapUrl(countryId: string): string | null {
+  const alias = COUNTRY_MAP_ALIASES[countryId];
+  if (alias && MAP_SLUGS.has(alias)) return `/${alias}/`;
+  const withDashes = `${countryId}-map`;
+  if (MAP_SLUGS.has(withDashes)) return `/${withDashes}/`;
+  const noDashes = `${countryId.replace(/-/g, "")}-map`;
+  if (MAP_SLUGS.has(noDashes)) return `/${noDashes}/`;
+  return null;
+}
+
 function escapeHtml(s: any): string {
   if (s == null) return "";
   if (typeof s !== "string") s = String(s);
@@ -471,7 +499,7 @@ ${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, count
   ${gameCtaHtml}
   ${faqHtml}
   <section>
-    <a class="plz-cta" href="${poi.parent === countryId ? buildCountryPath(lang, countryId) : buildStatePath(lang, poi.parent)}">${I("viewMap", lang)} →</a>
+    <a class="plz-cta" href="${countryMapUrl(countryId) ?? (poi.parent === countryId ? buildCountryPath(lang, countryId) : buildStatePath(lang, poi.parent))}">${I("viewMap", lang)} →</a>
     ${osmLink}
   </section>
   ${relatedItems}
