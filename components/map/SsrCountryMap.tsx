@@ -9,7 +9,7 @@
 
 type MapPath = {
   id: string;
-  d: string;
+  path: string;      // SVG path `d` string — field name matches BundeslandPath etc.
   name?: { de?: string; hu?: string; ro?: string; en?: string };
 };
 
@@ -35,7 +35,7 @@ export function SsrCountryMap({
       {paths.map((p) => (
         <path
           key={p.id}
-          d={p.d}
+          d={p.path}
           fill="rgba(8, 47, 73, 0.55)"
           stroke="rgba(34, 211, 238, 0.4)"
           strokeWidth="0.7"
