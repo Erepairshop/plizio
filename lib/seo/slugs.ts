@@ -512,10 +512,11 @@ export function countrySlugFor(lang: Lang, countryId: string = "germany") {
 }
 
 // HU: POI parent is "HU-XX" (ISO), but the URL slug is the legacy region.id (pl. "budapest", "pest")
+const _huRegions = regions.filter((r): r is POI => Boolean(r && r.id && (r.id.startsWith("HU") || r.parent?.startsWith("HU-"))));
 const HU_PARENT_TO_SLUG = new Map<string, string>(
-  hungaryRegions.filter(r => r.parent?.startsWith("HU-")).map(r => [r.parent!, r.id])
+  _huRegions.filter(r => r.parent?.startsWith("HU-")).map(r => [r.parent!, r.id])
 );
-const HU_LEGACY_IDS = new Set<string>(hungaryRegions.map(r => r.id));
+const HU_LEGACY_IDS = new Set<string>(_huRegions.map(r => r.id));
 
 export function stateSlugFor(stateId: string, lang: Lang) {
   // HU ISO kod -> legacy slug (HU-FE -> "fejer")
