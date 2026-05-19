@@ -33,7 +33,7 @@ imageHint: "Modern car assembly line in a large industrial hall",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-volkswagen-bratislava-economic-v2.webp",
 },  {
     id: "slovakia-slovnaft-bratislava-economic-v2",
@@ -101,7 +101,7 @@ imageHint: "Massive steel mill with glowing molten metal",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-us-steel-kosice-economic-v2.webp",
 },  {
     id: "slovakia-kia-zilina-economic-v2",
@@ -135,7 +135,7 @@ imageHint: "Kia factory exterior with finished cars in the lot",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-kia-zilina-economic-v2.webp",
 },  {
     id: "slovakia-stellantis-trnava-economic-v2",
@@ -169,7 +169,7 @@ imageHint: "Car factory production line with robots",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-stellantis-trnava-economic-v2.webp",
 },  {
     id: "slovakia-jaguar-land-rover-nitra-economic-v2",
@@ -237,7 +237,7 @@ imageHint: "Nuclear power plant cooling towers with steam",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-mochovce-power-plant-economic-v2.webp",
 },  {
     id: "slovakia-jaslovske-bohunice-power-plant-economic-v2",
@@ -271,7 +271,7 @@ imageHint: "Industrial power plant complex with cooling towers",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-jaslovske-bohunice-power-plant-economic-v2.webp",
 },  {
     id: "slovakia-gabcikovo-dam-economic-v2",
@@ -339,7 +339,7 @@ imageHint: "Large industrial paper mill with smoke stacks",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-mondi-scp-ruzomberok-economic-v2.webp",
 },  {
     id: "slovakia-slovalco-ziar-nad-hronom-economic-v2",
@@ -373,7 +373,7 @@ imageHint: "Industrial aluminum smelting facility",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-slovalco-ziar-nad-hronom-economic-v2.webp",
 },  {
     id: "slovakia-continental-puchov-economic-v2",
@@ -407,7 +407,7 @@ imageHint: "Stacks of new black tires in a factory warehouse",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-continental-puchov-economic-v2.webp",
 },  {
     id: "slovakia-zentiva-hlohovec-economic-v2",
@@ -475,7 +475,7 @@ imageHint: "Large modern electronics assembly plant",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-samsung-galanta-economic-v2.webp",
 },  {
     id: "slovakia-amazon-sered-economic-v2",
@@ -509,7 +509,7 @@ imageHint: "Massive modern warehouse building with many loading docks",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-amazon-sered-economic-v2.webp",
 },  {
     id: "slovakia-whirlpool-poprad-economic-v2",
@@ -577,7 +577,7 @@ imageHint: "Precision industrial manufacturing equipment",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-embraco-spisska-nova-ves-economic-v2.webp",
 },  {
     id: "slovakia-chemosvit-svit-economic-v2",
@@ -611,7 +611,7 @@ imageHint: "Industrial facility for plastic film production",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-chemosvit-svit-economic-v2.webp",
 },  {
     id: "slovakia-zeleziarne-podbrezova-economic-v2",
@@ -645,7 +645,7 @@ imageHint: "Steel pipes stacked in an industrial facility",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-zeleziarne-podbrezova-economic-v2.webp",
 },  {
     id: "slovakia-slovmag-lubenik-economic-v2",
@@ -679,7 +679,7 @@ imageHint: "Industrial mineral mining and processing site",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-slovmag-lubenik-economic-v2.webp",
 },  {
     id: "slovakia-handlova-coal-mine-economic-v2",
@@ -748,7 +748,7 @@ imageHint: "Large industrial steel components for power plants",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-ses-tlmace-economic-v2.webp",
 },  {
     id: "slovakia-pps-group-detva-economic-v2",
@@ -782,7 +782,7 @@ imageHint: "Heavy construction machinery being assembled",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-pps-group-detva-economic-v2.webp",
 },  {
     id: "slovakia-way-industries-krupina-economic-v2",
@@ -816,7 +816,7 @@ imageHint: "Specialized demining robot in a field",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-way-industries-krupina-economic-v2.webp",
 },  {
     id: "slovakia-kremnica-mint-economic-v2",
@@ -850,7 +850,7 @@ imageHint: "Golden and silver coins being minted",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-kremnica-mint-economic-v2.webp",
 },  {
     id: "slovakia-port-of-bratislava-economic-v2",
@@ -884,7 +884,7 @@ imageHint: "River port with cranes and cargo ships on the Danube",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-port-of-bratislava-economic-v2.webp",
 },  {
     id: "slovakia-port-of-komarno-economic-v2",
@@ -918,7 +918,7 @@ imageHint: "Cargo port on a river with storage silos",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-port-of-komarno-economic-v2.webp",
 },  {
     id: "slovakia-tatravagonka-poprad-economic-v2",
@@ -952,7 +952,7 @@ imageHint: "New freight train wagons in an industrial yard",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-tatravagonka-poprad-economic-v2.webp",
 },  {
     id: "slovakia-smurfit-kappa-sturovo-economic-v2",
@@ -986,7 +986,7 @@ imageHint: "Industrial paper production rolls in a factory",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-smurfit-kappa-sturovo-economic-v2.webp",
 },  {
     id: "slovakia-bsh-michalovce-economic-v2",

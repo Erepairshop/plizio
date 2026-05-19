@@ -68,7 +68,7 @@ jobs:
 
       - name: Build (static export → out/)
         env:
-          NODE_OPTIONS: --max-old-space-size=12288
+          NODE_OPTIONS: --max-old-space-size=16384
           GSP_LIMIT: '0'
         run: npx next build --webpack
 

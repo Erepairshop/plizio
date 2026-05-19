@@ -33,7 +33,7 @@ imageHint: "Aukštaitija National Park lake and forest",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-aukstaitija-national-park-life-v2.webp",
 },  {
     id: "lithuania-dzukija-national-park-life-v2",
@@ -67,7 +67,7 @@ imageHint: "Dzūkija National Park pine forest and river",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-dzukija-national-park-life-v2.webp",
 },  {
     id: "lithuania-zemaitija-national-park-life-v2",
@@ -101,7 +101,7 @@ imageHint: "Žemaitija National Park Lake Plateliai",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-zemaitija-national-park-life-v2.webp",
 },  {
     id: "lithuania-trakai-historical-national-park-life-v2",
@@ -135,7 +135,7 @@ imageHint: "Trakai lakes and nature landscape",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-trakai-historical-national-park-life-v2.webp",
 },  {
     id: "lithuania-cepkeliai-nature-reserve-life-v2",
@@ -169,7 +169,7 @@ imageHint: "Čepkeliai bog and swamp landscape",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-cepkeliai-nature-reserve-life-v2.webp",
 },  {
     id: "lithuania-zhuvintas-biosphere-reserve-life-v2",
@@ -203,7 +203,7 @@ imageHint: "Žuvintas lake and wetlands birds",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-zhuvintas-biosphere-reserve-life-v2.webp",
 },  {
     id: "lithuania-kamanos-nature-reserve-life-v2",
@@ -237,7 +237,7 @@ imageHint: "Kamanos bog pools landscape",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-kamanos-nature-reserve-life-v2.webp",
 },  {
     id: "lithuania-viesvile-nature-reserve-life-v2",
@@ -271,7 +271,7 @@ imageHint: "Viešvilė river in forest",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-viesvile-nature-reserve-life-v2.webp",
 },  {
     id: "lithuania-vente-cape-ornithological-station-life-v2",
@@ -305,7 +305,7 @@ imageHint: "Ventė Cape bird ringing station",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-vente-cape-ornithological-station-life-v2.webp",
 },  {
     id: "lithuania-lithuanian-zoo-life-v2",
@@ -373,7 +373,7 @@ imageHint: "Vilnius University Botanical Garden Kairėnai",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-vilnius-university-botanical-garden-life-v2.webp",
 },  {
     id: "lithuania-kaunas-botanical-garden-life-v2",
@@ -407,7 +407,7 @@ imageHint: "Kaunas Botanical Garden greenhouse",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-kaunas-botanical-garden-life-v2.webp",
 },  {
     id: "lithuania-labanoras-regional-park-life-v2",
@@ -441,7 +441,7 @@ imageHint: "Labanoras forest and lakes aerial",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-labanoras-regional-park-life-v2.webp",
 },  {
     id: "lithuania-nemunas-delta-regional-park-life-v2",
@@ -475,7 +475,7 @@ imageHint: "Nemunas Delta river landscape",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-nemunas-delta-regional-park-life-v2.webp",
 },  {
     id: "lithuania-birzai-regional-park-life-v2",
@@ -509,7 +509,7 @@ imageHint: "Biržai karst sinkhole landscape",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-birzai-regional-park-life-v2.webp",
 },  {
     id: "lithuania-neris-regional-park-life-v2",
@@ -543,7 +543,7 @@ imageHint: "Neris River valley and oak forest",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-neris-regional-park-life-v2.webp",
 },  {
     id: "lithuania-grazute-regional-park-life-v2",
@@ -577,7 +577,7 @@ imageHint: "Gražutė Regional Park forest lake",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-grazute-regional-park-life-v2.webp",
 },  {
     id: "lithuania-meteliai-regional-park-life-v2",
@@ -611,7 +611,7 @@ imageHint: "Meteliai Regional Park Lake Dusia",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-meteliai-regional-park-life-v2.webp",
 },  {
     id: "lithuania-pavilniai-regional-park-life-v2",
@@ -645,7 +645,7 @@ imageHint: "Pūčkoriai outcrop Pavilniai park",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-pavilniai-regional-park-life-v2.webp",
 },  {
     id: "lithuania-verkiu-regional-park-life-v2",
@@ -679,7 +679,7 @@ imageHint: "Verkiai Green Lakes landscape",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-verkiu-regional-park-life-v2.webp",
 },  {
     id: "lithuania-sartai-regional-park-life-v2",
@@ -714,7 +714,7 @@ imageHint: "Sartai lake and islands aerial",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-sartai-regional-park-life-v2.webp",
 },  {
     id: "lithuania-dubysa-regional-park-life-v2",
@@ -748,7 +748,7 @@ imageHint: "Dubysa river valley landscape",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-dubysa-regional-park-life-v2.webp",
 },  {
     id: "lithuania-pagramantis-regional-park-life-v2",
@@ -782,7 +782,7 @@ imageHint: "Akmena river valley Pagramantis",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-pagramantis-regional-park-life-v2.webp",
 },  {
     id: "lithuania-rambynas-regional-park-life-v2",
@@ -816,7 +816,7 @@ imageHint: "Nemunas river floodplains Rambynas",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-rambynas-regional-park-life-v2.webp",
 },  {
     id: "lithuania-sirveta-regional-park-life-v2",
@@ -850,7 +850,7 @@ imageHint: "Sirvėta hilly landscape and forest",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-sirveta-regional-park-life-v2.webp",
 },  {
     id: "lithuania-tytuvenai-regional-park-life-v2",
@@ -884,7 +884,7 @@ imageHint: "Tytuvėnai bog and lake landscape",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-tytuvenai-regional-park-life-v2.webp",
 },  {
     id: "lithuania-vistytis-regional-park-life-v2",
@@ -918,7 +918,7 @@ imageHint: "Vištytis lake and hills landscape",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-vistytis-regional-park-life-v2.webp",
 },  {
     id: "lithuania-krekenava-regional-park-life-v2",

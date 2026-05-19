@@ -135,7 +135,7 @@ imageHint: "Kaunas Ninth Fort monument massive concrete sculpture",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-ninth-fort-history-v2.webp",
 },  {
     id: "lithuania-gediminas-tower-history-v2",
@@ -203,7 +203,7 @@ imageHint: "Palace of the Grand Dukes Vilnius courtyard architecture",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-palace-grand-dukes-history-v2.webp",
 },  {
     id: "lithuania-medininkai-castle-history-v2",
@@ -237,7 +237,7 @@ imageHint: "Medininkai Castle brick walls and tower aerial",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-medininkai-castle-history-v2.webp",
 },  {
     id: "lithuania-pazaislis-monastery-history-v2",
@@ -271,7 +271,7 @@ imageHint: "Pažaislis Monastery Baroque church facade dome",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-pazaislis-monastery-history-v2.webp",
 },  {
     id: "lithuania-birzai-castle-history-v2",
@@ -305,7 +305,7 @@ imageHint: "Biržai Castle white walls bridge reflection",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-birzai-castle-history-v2.webp",
 },  {
     id: "lithuania-paneriai-memorial-history-v2",
@@ -339,7 +339,7 @@ imageHint: "Paneriai Memorial stone monument forest path",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-paneriai-memorial-history-v2.webp",
 },  {
     id: "lithuania-raudone-castle-history-v2",
@@ -373,7 +373,7 @@ imageHint: "Raudonė Castle red brick tower river view",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-raudone-castle-history-v2.webp",
 },  {
     id: "lithuania-kedainiai-old-town-history-v2",
@@ -407,7 +407,7 @@ imageHint: "Kėdainiai Old Town market square colorful houses",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-kedainiai-old-town-history-v2.webp",
 },  {
     id: "lithuania-stelmuze-oak-site-history-v2",
@@ -441,7 +441,7 @@ imageHint: "Stelmužė Oak massive old tree Lithuania",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-stelmuze-oak-site-history-v2.webp",
 },  {
     id: "lithuania-apuole-hillfort-history-v2",
@@ -475,7 +475,7 @@ imageHint: "Apuolė hillfort green plateau landscape",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-apuole-hillfort-history-v2.webp",
 },  {
     id: "lithuania-pakruojis-manor-history-v2",
@@ -509,7 +509,7 @@ imageHint: "Pakruojis Manor neoclassical architecture bridge",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-pakruojis-manor-history-v2.webp",
 },  {
     id: "lithuania-panemune-castle-history-v2",
@@ -543,7 +543,7 @@ imageHint: "Panemunė Castle Renaissance towers courtyard",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-panemune-castle-history-v2.webp",
 },  {
     id: "lithuania-klaipeda-castle-history-v2",
@@ -645,7 +645,7 @@ imageHint: "Cold War Museum Lithuania missile silo underground",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-cold-war-museum-history-v2.webp",
 },  {
     id: "lithuania-liubavas-manor-history-v2",
@@ -679,7 +679,7 @@ imageHint: "Liubavas Manor stone watermill museum",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-liubavas-manor-history-v2.webp",
 },  {
     id: "lithuania-norviliskes-castle-history-v2",
@@ -713,7 +713,7 @@ imageHint: "Norviliškės Castle Renaissance architecture facade",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-norviliskes-castle-history-v2.webp",
 },  {
     id: "lithuania-taurage-castle-history-v2",
@@ -781,7 +781,7 @@ imageHint: "Siesikai Castle Renaissance building lake view",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-siesikai-castle-history-v2.webp",
 },  {
     id: "lithuania-rumsiskes-museum-history-v2",
@@ -815,7 +815,7 @@ imageHint: "Rumšiškės Open Air Museum wooden farmhouses",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-rumsiskes-museum-history-v2.webp",
 },  {
     id: "lithuania-plunge-manor-history-v2",
@@ -883,7 +883,7 @@ imageHint: "Zapyškis Church brick Gothic river meadow",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-zapyskis-church-history-v2.webp",
 },  {
     id: "lithuania-saule-battlefield-history-v2",
@@ -917,7 +917,7 @@ imageHint: "Battle of Saulė memorial wooden sculptures",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-saule-battlefield-history-v2.webp",
 },  {
     id: "lithuania-varniai-diocese-history-v2",
@@ -951,7 +951,7 @@ imageHint: "Varniai Cathedral church history Lithuania",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-varniai-diocese-history-v2.webp",
 },  {
     id: "lithuania-kretinga-manor-history-v2",
@@ -985,7 +985,7 @@ imageHint: "Kretinga Manor glass winter garden palace",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/lithuania-kretinga-manor-history-v2.webp",
 },  {
     id: "lithuania-radviliskis-battlefield-history-v2",

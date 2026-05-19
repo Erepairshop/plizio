@@ -33,7 +33,7 @@ imageHint: "Gerlachovsky stit peak in High Tatras",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-gerlachovsky-stit-relief-v2.webp",
 },  {
     id: "slovakia-lomnicky-stit-relief-v2",
@@ -67,7 +67,7 @@ imageHint: "Lomnicky stit peak with observatory",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-lomnicky-stit-relief-v2.webp",
 },  {
     id: "slovakia-krivan-relief-v2",
@@ -101,7 +101,7 @@ imageHint: "Krivan mountain peak Slovakia",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-krivan-relief-v2.webp",
 },  {
     id: "slovakia-dumbier-relief-v2",
@@ -170,7 +170,7 @@ imageHint: "Chopok peak with stone shelter",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-chopok-relief-v2.webp",
 },  {
     id: "slovakia-velky-rozsutec-relief-v2",
@@ -204,7 +204,7 @@ imageHint: "Velky Rozsutec rocky peak",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-velky-rozsutec-relief-v2.webp",
 },  {
     id: "slovakia-ostredok-relief-v2",
@@ -238,7 +238,7 @@ imageHint: "Ostredok peak Velka Fatra",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-ostredok-relief-v2.webp",
 },  {
     id: "slovakia-stiavnicke-vrchy-relief-v2",
@@ -377,7 +377,7 @@ imageHint: "Danubian Lowland fields Slovakia",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-podunajska-nizina-relief-v2.webp",
 },  {
     id: "slovakia-vychodoslovenska-nizina-relief-v2",
@@ -411,7 +411,7 @@ imageHint: "Eastern Slovak Lowland landscape",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-vychodoslovenska-nizina-relief-v2.webp",
 },  {
     id: "slovakia-zahorska-nizina-relief-v2",
@@ -445,7 +445,7 @@ imageHint: "Zahorska Lowland pine forest",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-zahorska-nizina-relief-v2.webp",
 },  {
     id: "slovakia-biele-karpaty-relief-v2",
@@ -584,7 +584,7 @@ imageHint: "Chocske vrchy mountains forest",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-chocske-vrchy-relief-v2.webp",
 },  {
     id: "slovakia-velky-choc-relief-v2",

@@ -33,7 +33,7 @@ imageHint: "Sagrada Familia basilica in Barcelona at sunrise",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-sagrada-familia-landmarks-v2.webp",
 },  {
     id: "spain-mezquita-cordoba-landmarks-v2",
@@ -67,7 +67,7 @@ imageHint: "Interior of Mosque-Cathedral of Cordoba with red and white arches",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-mezquita-cordoba-landmarks-v2.webp",
 },  {
     id: "spain-seville-cathedral-landmarks-v2",
@@ -135,7 +135,7 @@ imageHint: "Main facade of the Prado Museum in Madrid",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-prado-museum-landmarks-v2.webp",
 },  {
     id: "spain-guggenheim-bilbao-landmarks-v2",
@@ -169,7 +169,7 @@ imageHint: "Guggenheim Museum Bilbao with titanium exterior",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-guggenheim-bilbao-landmarks-v2.webp",
 },  {
     id: "spain-aqueduct-segovia-landmarks-v2",
@@ -237,7 +237,7 @@ imageHint: "Burgos Cathedral exterior facade and spires",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-burgos-cathedral-landmarks-v2.webp",
 },  {
     id: "spain-santiago-cathedral-landmarks-v2",
@@ -271,7 +271,7 @@ imageHint: "Facade of Santiago de Compostela Cathedral at Plaza del Obradoiro",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-santiago-cathedral-landmarks-v2.webp",
 },  {
     id: "spain-casa-mila-landmarks-v2",
@@ -339,7 +339,7 @@ imageHint: "Medieval walls of Avila panoramic view",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-walls-avila-landmarks-v2.webp",
 },  {
     id: "spain-hanging-houses-cuenca-landmarks-v2",
@@ -373,7 +373,7 @@ imageHint: "Hanging Houses of Cuenca overlooking the gorge",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-hanging-houses-cuenca-landmarks-v2.webp",
 },  {
     id: "spain-palau-musica-catalana-landmarks-v2",
@@ -407,7 +407,7 @@ imageHint: "Palau de la Musica Catalana concert hall interior",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-palau-musica-catalana-landmarks-v2.webp",
 },  {
     id: "spain-plaza-espana-seville-landmarks-v2",
@@ -441,7 +441,7 @@ imageHint: "Plaza de Espana in Seville with canal and bridges",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-plaza-espana-seville-landmarks-v2.webp",
 },  {
     id: "spain-alcazar-seville-landmarks-v2",
@@ -475,7 +475,7 @@ imageHint: "Patio de las Doncellas in the Alcázar of Seville",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-alcazar-seville-landmarks-v2.webp",
 },  {
     id: "spain-city-arts-sciences-landmarks-v2",
@@ -509,7 +509,7 @@ imageHint: "City of Arts and Sciences Valencia at night",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-city-arts-sciences-landmarks-v2.webp",
 },  {
     id: "spain-monastery-montserrat-landmarks-v2",
@@ -543,7 +543,7 @@ imageHint: "Monastery of Montserrat in the mountains",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-monastery-montserrat-landmarks-v2.webp",
 },  {
     id: "spain-generalife-landmarks-v2",
@@ -577,7 +577,7 @@ imageHint: "Generalife gardens and palace in Granada",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-generalife-landmarks-v2.webp",
 },  {
     id: "spain-puerta-del-sol-landmarks-v2",
@@ -611,7 +611,7 @@ imageHint: "Puerta del Sol square in Madrid with the clock tower",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-puerta-del-sol-landmarks-v2.webp",
 },  {
     id: "spain-toledo-cathedral-landmarks-v2",
@@ -646,7 +646,7 @@ imageHint: "Toledo Cathedral exterior at night",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-toledo-cathedral-landmarks-v2.webp",
 },  {
     id: "spain-casa-battlo-landmarks-v2",
@@ -680,7 +680,7 @@ imageHint: "Casa Batllo facade with colorful mosaics and bone-like columns",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-casa-battlo-landmarks-v2.webp",
 },  {
     id: "spain-castillo-loarre-landmarks-v2",
@@ -714,7 +714,7 @@ imageHint: "Castillo de Loarre fortress on a rocky hill",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-castillo-loarre-landmarks-v2.webp",
 },  {
     id: "spain-palma-cathedral-landmarks-v2",
@@ -748,7 +748,7 @@ imageHint: "Palma de Mallorca Cathedral overlooking the sea",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-palma-cathedral-landmarks-v2.webp",
 },  {
     id: "spain-roman-bridge-cordoba-landmarks-v2",
@@ -782,7 +782,7 @@ imageHint: "Roman Bridge of Cordoba at sunset with the cathedral in the backgrou
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-roman-bridge-cordoba-landmarks-v2.webp",
 },  {
     id: "spain-monastery-poblet-landmarks-v2",

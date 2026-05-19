@@ -33,7 +33,7 @@ imageHint: "Lake Baikal crystal clear ice in winter",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/russia-lake-baikal-nature-v2.webp",
 },  {
     id: "russia-mount-elbrus-nature-v2",
@@ -67,7 +67,7 @@ imageHint: "Mount Elbrus double peaks with snow",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/russia-mount-elbrus-nature-v2.webp",
 },  {
     id: "russia-volga-river-nature-v2",
@@ -101,7 +101,7 @@ imageHint: "Volga River aerial view near Samara",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/russia-volga-river-nature-v2.webp",
 },  {
     id: "russia-lena-pillars-nature-v2",
@@ -169,7 +169,7 @@ imageHint: "Valley of Geysers Kamchatka steam",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/russia-valley-of-geysers-nature-v2.webp",
 },  {
     id: "russia-ural-mountains-nature-v2",
@@ -203,7 +203,7 @@ imageHint: "Ural Mountains landscape northern peaks",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/russia-ural-mountains-nature-v2.webp",
 },  {
     id: "russia-lena-river-nature-v2",
@@ -237,7 +237,7 @@ imageHint: "Lena River delta aerial view",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/russia-lena-river-nature-v2.webp",
 },  {
     id: "russia-putorana-plateau-nature-v2",
@@ -271,7 +271,7 @@ imageHint: "Putorana Plateau waterfalls and canyon",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/russia-putorana-plateau-nature-v2.webp",
 },  {
     id: "russia-klyuchevskaya-sopka-nature-v2",
@@ -305,7 +305,7 @@ imageHint: "Klyuchevskaya Sopka volcano erupting",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/russia-klyuchevskaya-sopka-nature-v2.webp",
 },  {
     id: "russia-lake-ladoga-nature-v2",
@@ -339,7 +339,7 @@ imageHint: "Lake Ladoga rocky shores and islands",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/russia-lake-ladoga-nature-v2.webp",
 },  {
     id: "russia-lake-onega-nature-v2",
@@ -373,7 +373,7 @@ imageHint: "Lake Onega sunset with Kishi island",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/russia-lake-onega-nature-v2.webp",
 },  {
     id: "russia-virgin-komi-forests-nature-v2",
@@ -407,7 +407,7 @@ imageHint: "Virgin Komi Forests taiga landscape",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/russia-virgin-komi-forests-nature-v2.webp",
 },  {
     id: "russia-sikhote-alin-nature-v2",
@@ -441,7 +441,7 @@ imageHint: "Sikhote-Alin mountains amur tiger habitat",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/russia-sikhote-alin-nature-v2.webp",
 },  {
     id: "russia-wrangel-island-nature-v2",
@@ -475,7 +475,7 @@ imageHint: "Wrangel Island polar bear on tundra",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/russia-wrangel-island-nature-v2.webp",
 },  {
     id: "russia-lake-teletskoye-nature-v2",
@@ -509,7 +509,7 @@ imageHint: "Lake Teletskoye mountains mirror reflection",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/russia-lake-teletskoye-nature-v2.webp",
 },  {
     id: "russia-kungur-ice-cave-nature-v2",
@@ -543,7 +543,7 @@ imageHint: "Kungur Ice Cave stalactites and lights",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/russia-kungur-ice-cave-nature-v2.webp",
 },  {
     id: "russia-manpupuner-nature-v2",
@@ -577,7 +577,7 @@ imageHint: "Manpupuner rock formations seven pillars",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/russia-manpupuner-nature-v2.webp",
 },  {
     id: "russia-orda-cave-nature-v2",
@@ -611,7 +611,7 @@ imageHint: "Orda Cave underwater diver gypsum walls",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/russia-orda-cave-nature-v2.webp",
 },  {
     id: "russia-chara-sands-nature-v2",
@@ -645,7 +645,7 @@ imageHint: "Chara Sands dunes with mountains background",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/russia-chara-sands-nature-v2.webp",
 },  {
     id: "russia-vasyugan-swamp-nature-v2",
@@ -679,7 +679,7 @@ imageHint: "Vasyugan Swamp aerial landscape",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/russia-vasyugan-swamp-nature-v2.webp",
 },  {
     id: "russia-commander-islands-nature-v2",
@@ -713,7 +713,7 @@ imageHint: "Commander Islands sea otters and cliffs",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/russia-commander-islands-nature-v2.webp",
 },  {
     id: "russia-franz-josef-land-nature-v2",
@@ -747,7 +747,7 @@ imageHint: "Franz Josef Land icebergs and walruses",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/russia-franz-josef-land-nature-v2.webp",
 },  {
     id: "russia-golden-mountains-of-altai-nature-v2",
@@ -781,7 +781,7 @@ imageHint: "Golden Mountains of Altai landscapes",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/russia-golden-mountains-of-altai-nature-v2.webp",
 },  {
     id: "russia-kuril-islands-nature-v2",
@@ -815,7 +815,7 @@ imageHint: "Kuril Islands volcanic peaks and sea",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/russia-kuril-islands-nature-v2.webp",
 },  {
     id: "russia-sayano-shushensky-nature-v2",
@@ -849,7 +849,7 @@ imageHint: "Sayano-Shushensky reserve mountains and lake",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/russia-sayano-shushensky-nature-v2.webp",
 },  {
     id: "russia-ob-river-nature-v2",
@@ -917,7 +917,7 @@ imageHint: "Yenisei River landscape taiga",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/russia-yenisei-river-nature-v2.webp",
 },  {
     id: "russia-taimyr-peninsula-nature-v2",
@@ -951,7 +951,7 @@ imageHint: "Taimyr Peninsula tundra and musk ox",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/russia-taimyr-peninsula-nature-v2.webp",
 },  {
     id: "russia-dombay-ulgen-nature-v2",

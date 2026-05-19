@@ -33,7 +33,7 @@ imageHint: "Ancient ruins of Sagunto Castle walls and Roman forum",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-sagunto-ruins-history-v2.webp",
 },  {
     id: "spain-numancia-ruins-history-v2",
@@ -102,7 +102,7 @@ imageHint: "Roman amphitheater ruins of Italica near Seville",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-italica-ruins-history-v2.webp",
 },  {
     id: "spain-merida-theatre-history-v2",
@@ -136,7 +136,7 @@ imageHint: "The Scaenae frons of the Roman Theatre in Merida",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-merida-theatre-history-v2.webp",
 },  {
     id: "spain-tarraco-amphitheatre-history-v2",
@@ -205,7 +205,7 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-medina-azahara-ruins-history-v2.webp",
 },  {
     id: "spain-alcazar-segovia-history-v2",
@@ -449,7 +449,7 @@ imageHint: "Monument commemorating the Battle of Bailen",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-battle-bailen-history-v2.webp",
 },  {
     id: "spain-battle-las-navas-tolosa-history-v2",
@@ -483,7 +483,7 @@ imageHint: "Landscape of Las Navas de Tolosa with battle memorial",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-battle-las-navas-tolosa-history-v2.webp",
 },  {
     id: "spain-battle-brunete-history-v2",
@@ -692,7 +692,7 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-tower-hercules-landmark-history-v2.webp",
 },  {
     id: "spain-palace-olite-history-v2",
@@ -901,7 +901,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-empuries-ruins-history-v2.webp",
 },  {
     id: "spain-castle-coca-history-v2",

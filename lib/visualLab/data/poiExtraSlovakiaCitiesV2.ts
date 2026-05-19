@@ -33,7 +33,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-bratislava-cities-v2.webp",
 },  {
     id: "slovakia-kosice-cities-v2",
@@ -67,7 +67,7 @@ imageHint: "St. Elisabeth Cathedral in Košice city center",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-kosice-cities-v2.webp",
 },  {
     id: "slovakia-presov-cities-v2",
@@ -101,7 +101,7 @@ imageHint: "Historic main square of Prešov with St. Nicholas Cathedral",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-presov-cities-v2.webp",
 },  {
     id: "slovakia-nitra-cities-v2",
@@ -135,7 +135,7 @@ imageHint: "Nitra Castle on the hill overlooking the city",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-nitra-cities-v2.webp",
 },  {
     id: "slovakia-trnava-cities-v2",
@@ -169,7 +169,7 @@ imageHint: "Trnava main square with the City Tower and churches",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-trnava-cities-v2.webp",
 },  {
     id: "slovakia-martin-cities-v2",
@@ -203,7 +203,7 @@ imageHint: "Building of Matica slovenská in Martin",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-martin-cities-v2.webp",
 },  {
     id: "slovakia-trencin-cities-v2",
@@ -237,7 +237,7 @@ imageHint: "Trenčín Castle illuminated on the rock above the city",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-trencin-cities-v2.webp",
 },  {
     id: "slovakia-prievidza-cities-v2",
@@ -271,7 +271,7 @@ imageHint: "Piarist Church of St. Demetrius in Prievidza",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-prievidza-cities-v2.webp",
 },  {
     id: "slovakia-zvolen-cities-v2",
@@ -305,7 +305,7 @@ imageHint: "Zvolen Castle (Zvolenský zámok) exterior view",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-zvolen-cities-v2.webp",
 },  {
     id: "slovakia-povazska-bystrica-cities-v2",
@@ -339,7 +339,7 @@ imageHint: "Highway bridge over Považská Bystrica with hills in background",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-povazska-bystrica-cities-v2.webp",
 },  {
     id: "slovakia-michalovce-cities-v2",
@@ -407,7 +407,7 @@ imageHint: "Air view of Nové Zámky showing the hexagonal street pattern",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-nove-zamky-cities-v2.webp",
 },  {
     id: "slovakia-spisska-nova-ves-cities-v2",
@@ -441,7 +441,7 @@ imageHint: "Tall church tower of Spišská Nová Ves on the long square",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-spisska-nova-ves-cities-v2.webp",
 },  {
     id: "slovakia-komarno-cities-v2",
@@ -475,7 +475,7 @@ imageHint: "Courtyard of Europe (Nádvorie Európy) buildings in Komárno",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-komarno-cities-v2.webp",
 },  {
     id: "slovakia-humenne-cities-v2",
@@ -509,7 +509,7 @@ imageHint: "Humenné Renaissance palace and surrounding park",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-humenne-cities-v2.webp",
 },  {
     id: "slovakia-levice-cities-v2",
@@ -543,7 +543,7 @@ imageHint: "Levice Castle ruins and the Tekov Museum",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-levice-cities-v2.webp",
 },  {
     id: "slovakia-bardejov-cities-v2",
@@ -577,7 +577,7 @@ imageHint: "Bardejov UNESCO town square with the historic town hall",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-bardejov-cities-v2.webp",
 },  {
     id: "slovakia-liptovsky-mikulas-cities-v2",
@@ -611,7 +611,7 @@ imageHint: "Liptovský Mikuláš town center with Tatra mountains in background"
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-liptovsky-mikulas-cities-v2.webp",
 },  {
     id: "slovakia-lucenec-cities-v2",
@@ -645,7 +645,7 @@ imageHint: "Large reconstructed synagogue building in Lučenec",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-lucenec-cities-v2.webp",
 },  {
     id: "slovakia-piestany-cities-v2",
@@ -679,7 +679,7 @@ imageHint: "Statue of the Crutch-breaker in Piešťany spa",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-piestany-cities-v2.webp",
 },  {
     id: "slovakia-ruzomberok-cities-v2",
@@ -713,7 +713,7 @@ imageHint: "Ružomberok town hall and historic center buildings",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-ruzomberok-cities-v2.webp",
 },  {
     id: "slovakia-topolcany-cities-v2",
@@ -747,7 +747,7 @@ imageHint: "Topoľčany town hall on the main square",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-topolcany-cities-v2.webp",
 },  {
     id: "slovakia-trebisov-cities-v2",
@@ -781,7 +781,7 @@ imageHint: "Andrássy Palace in Trebišov with the park",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-trebisov-cities-v2.webp",
 },  {
     id: "slovakia-cadca-cities-v2",
@@ -815,7 +815,7 @@ imageHint: "Čadca town center with the Parish Church of St. Bartholomew",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-cadca-cities-v2.webp",
 },  {
     id: "slovakia-rimavska-sobota-cities-v2",
@@ -849,7 +849,7 @@ imageHint: "Rimavská Sobota main square with the church",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-rimavska-sobota-cities-v2.webp",
 },  {
     id: "slovakia-dunajska-streda-cities-v2",
@@ -883,7 +883,7 @@ imageHint: "Dunajská Streda thermal park pools and hotel",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-dunajska-streda-cities-v2.webp",
 },  {
     id: "slovakia-vranov-nad-toplou-cities-v2",
@@ -917,7 +917,7 @@ imageHint: "Baroque Basilica of the Virgin Mary in Vranov nad Topľou",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-vranov-nad-toplou-cities-v2.webp",
 },  {
     id: "slovakia-brezno-cities-v2",
@@ -951,7 +951,7 @@ imageHint: "Brezno main square with the historic tower and park",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-brezno-cities-v2.webp",
 },  {
     id: "slovakia-hlohovec-cities-v2",
@@ -985,7 +985,7 @@ imageHint: "Hlohovec Castle and the Empire Theater building",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-hlohovec-cities-v2.webp",
 },  {
     id: "slovakia-snina-cities-v2",
@@ -1019,7 +1019,7 @@ imageHint: "Snina palace and the statue of Hercules in the garden",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-snina-cities-v2.webp",
 },  {
     id: "slovakia-senica-cities-v2",
@@ -1053,7 +1053,7 @@ imageHint: "Senica city center and the Záhorie Gallery building",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-senica-cities-v2.webp",
 },  {
     id: "slovakia-pezinok-cities-v2",
@@ -1087,7 +1087,7 @@ imageHint: "Pezinok Castle and surrounding park",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-pezinok-cities-v2.webp",
 },  {
     id: "slovakia-banovce-nad-bebravou-cities-v2",
@@ -1121,7 +1121,7 @@ imageHint: "Church of St. Nicholas in Bánovce nad Bebravou",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-banovce-nad-bebravou-cities-v2.webp",
 },  {
     id: "slovakia-dolny-kubin-cities-v2",
@@ -1155,7 +1155,7 @@ imageHint: "Wooden colonnade bridge in Dolný Kubín over Orava river",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-dolny-kubin-cities-v2.webp",
 },  {
     id: "slovakia-ziar-nad-hronom-cities-v2",
@@ -1189,7 +1189,7 @@ imageHint: "Renaissance-Baroque palace in Žiar nad Hronom",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-ziar-nad-hronom-cities-v2.webp",
 },  {
     id: "slovakia-roznava-cities-v2",
@@ -1223,7 +1223,7 @@ imageHint: "Rožňava main square with the historic watchtower",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-roznava-cities-v2.webp",
 },  {
     id: "slovakia-puchov-cities-v2",
@@ -1257,7 +1257,7 @@ imageHint: "Púchov town square with modern administrative buildings",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-puchov-cities-v2.webp",
 },  {
     id: "slovakia-handlova-cities-v2",
@@ -1291,7 +1291,7 @@ imageHint: "Handlová town center with the Church of St. Catherine",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-handlova-cities-v2.webp",
 },  {
     id: "slovakia-malacky-cities-v2",
@@ -1325,7 +1325,7 @@ imageHint: "Pálffy Mansion and park in Malacky",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-malacky-cities-v2.webp",
 },  {
     id: "slovakia-sered-cities-v2",
@@ -1359,7 +1359,7 @@ imageHint: "Sereď town square with the City Hall building",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-sered-cities-v2.webp",
 },  {
     id: "slovakia-kezmarok-cities-v2",
@@ -1393,7 +1393,7 @@ imageHint: "Wooden UNESCO church in Kežmarok",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-kezmarok-cities-v2.webp",
 },  {
     id: "slovakia-stara-lubovna-cities-v2",
@@ -1427,7 +1427,7 @@ imageHint: "Stará Ľubovňa Castle on the hill above the town",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-stara-lubovna-cities-v2.webp",
 },  {
     id: "slovakia-galanta-cities-v2",
@@ -1461,7 +1461,7 @@ imageHint: "Neo-Gothic Esterházy palace in Galanta",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-galanta-cities-v2.webp",
 },  {
     id: "slovakia-senec-cities-v2",
@@ -1495,7 +1495,7 @@ imageHint: "Sunny Lakes (Slnečné jazerá) recreation area in Senec",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-senec-cities-v2.webp",
 },  {
     id: "slovakia-detva-cities-v2",
@@ -1529,7 +1529,7 @@ imageHint: "Folklore festival stage in Detva with people in costumes",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-detva-cities-v2.webp",
 },  {
     id: "slovakia-skalica-cities-v2",
@@ -1563,7 +1563,7 @@ imageHint: "Romanesque Rotunda of St. George in Skalica",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-skalica-cities-v2.webp",
 },  {
     id: "slovakia-levoca-cities-v2",
@@ -1597,7 +1597,7 @@ imageHint: "Levoča main square with the historic town hall and church",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-levoca-cities-v2.webp",
 },  {
     id: "slovakia-sabinov-cities-v2",
@@ -1631,7 +1631,7 @@ imageHint: "Sabinov town center buildings",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-sabinov-cities-v2.webp",
 },  {
     id: "slovakia-velky-krtis-cities-v2",
@@ -1665,7 +1665,7 @@ imageHint: "Veľký Krtíš town center and surroundings",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-velky-krtis-cities-v2.webp",
 },  {
     id: "slovakia-myjava-cities-v2",
@@ -1699,7 +1699,7 @@ imageHint: "Folklore festival in Myjava with traditional music",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-myjava-cities-v2.webp",
 },  {
     id: "slovakia-revuca-cities-v2",
@@ -1733,7 +1733,7 @@ imageHint: "Building of the first Slovak gymnasium in Revúca",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-revuca-cities-v2.webp",
 },  {
     id: "slovakia-samorin-cities-v2",
@@ -1767,7 +1767,7 @@ imageHint: "Modern X-Bionic Sphere sports complex in Šamorín",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-samorin-cities-v2.webp",
 },  {
     id: "slovakia-sabur-cities-v2",
@@ -1801,7 +1801,7 @@ imageHint: "Migazzi family palace in Zlaté Moravce",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-sabur-cities-v2.webp",
 },  {
     id: "slovakia-bytca-cities-v2",
@@ -1835,7 +1835,7 @@ imageHint: "Renaissance Wedding Palace (Sobášny palác) in Bytča",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-bytca-cities-v2.webp",
 },  {
     id: "slovakia-svaty-jur-cities-v2",
@@ -1869,7 +1869,7 @@ imageHint: "Historic center of Svätý Jur with the church tower",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-svaty-jur-cities-v2.webp",
 },  {
     id: "slovakia-moldava-nad-bodvou-cities-v2",
@@ -1903,7 +1903,7 @@ imageHint: "Moldava nad Bodvou town center and churches",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-moldava-nad-bodvou-cities-v2.webp",
 },  {
     id: "slovakia-holic-cities-v2",
@@ -1937,7 +1937,7 @@ imageHint: "Imperial Baroque Palace of Holíč with its bastions",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-holic-cities-v2.webp",
 },  {
     id: "slovakia-sturovo-cities-v2",
@@ -1971,7 +1971,7 @@ imageHint: "Maria Valeria Bridge connecting Štúrovo and Esztergom",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-sturovo-cities-v2.webp",
 },  {
     id: "slovakia-filakovo-cities-v2",
@@ -2005,7 +2005,7 @@ imageHint: "Fiľakovo Castle ruins on the rock above the city",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-filakovo-cities-v2.webp",
 },  {
     id: "slovakia-sastin-straze-cities-v2",
@@ -2039,7 +2039,7 @@ imageHint: "Basilica of the Seven Sorrows of Mary in Šaštín",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-sastin-straze-cities-v2.webp",
 },  {
     id: "slovakia-liptovsky-hradok-cities-v2",
@@ -2073,7 +2073,7 @@ imageHint: "Liptovský Hrádok water castle and manor house",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-liptovsky-hradok-cities-v2.webp",
 },  {
     id: "slovakia-krompachy-cities-v2",
@@ -2107,7 +2107,7 @@ imageHint: "Krompachy city center with mountains in background",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-krompachy-cities-v2.webp",
 },  {
     id: "slovakia-modra-cities-v2",
@@ -2141,7 +2141,7 @@ imageHint: "Modra main square with the church and historic houses",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-modra-cities-v2.webp",
 },  {
     id: "slovakia-zeliezovce-cities-v2",
@@ -2175,7 +2175,7 @@ imageHint: "Esterházy palace and Schubert memorial in Želiezovce",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-zeliezovce-cities-v2.webp",
 },  {
     id: "slovakia-turcianske-teplice-cities-v2",
@@ -2209,7 +2209,7 @@ imageHint: "Turčianske Teplice spa buildings and park",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-turcianske-teplice-cities-v2.webp",
 },  {
     id: "slovakia-spisska-bela-cities-v2",
@@ -2243,7 +2243,7 @@ imageHint: "Renaissance Strážky Manor near Spišská Belá",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-spisska-bela-cities-v2.webp",
 },  {
     id: "slovakia-lipany-cities-v2",
@@ -2277,7 +2277,7 @@ imageHint: "Lipany town center with the Gothic church",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-lipany-cities-v2.webp",
 },  {
     id: "slovakia-tvrdosin-cities-v2",
@@ -2311,7 +2311,7 @@ imageHint: "UNESCO wooden church in Tvrdošín",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-tvrdosin-cities-v2.webp",
 },  {
     id: "slovakia-namestovo-cities-v2",
@@ -2345,7 +2345,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-namestovo-cities-v2.webp",
 },  {
     id: "slovakia-vlkolinec-cities-v2",
@@ -2379,7 +2379,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-vlkolinec-cities-v2.webp",
 },  {
     id: "slovakia-cicmany-cities-v2",
@@ -2413,7 +2413,7 @@ imageHint: "Wooden houses with white ornaments in Čičmany",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-cicmany-cities-v2.webp",
 },  {
     id: "slovakia-kremnica-cities-v2",
@@ -2447,7 +2447,7 @@ imageHint: "Kremnica town castle and the historic mint building",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-kremnica-cities-v2.webp",
 },  {
     id: "slovakia-banska-stiavnica-cities-v2",
@@ -2481,7 +2481,7 @@ imageHint: "Banská Štiavnica historic center with the Calvary on hill",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-banska-stiavnica-cities-v2.webp",
 },  {
     id: "slovakia-podolinec-cities-v2",
@@ -2515,7 +2515,7 @@ imageHint: "Podolínec historic square with the belfry and monastery",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-podolinec-cities-v2.webp",
 },  {
     id: "slovakia-spisska-kapitula-cities-v2",
@@ -2549,7 +2549,7 @@ imageHint: "St. Martin's Cathedral in Spišská Kapitula",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-spisska-kapitula-cities-v2.webp",
 },  {
     id: "slovakia-vysoke-tatry-cities-v2",
@@ -2583,7 +2583,7 @@ imageHint: "Tatra mountains view from Tatranská Lomnica",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-vysoke-tatry-cities-v2.webp",
 },  {
     id: "slovakia-velka-loma-cities-v2",
@@ -2617,7 +2617,7 @@ imageHint: "Golf course in Veľká Lomnica with High Tatras in background",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-velka-loma-cities-v2.webp",
 },  {
     id: "slovakia-tisovec-cities-v2",
@@ -2651,7 +2651,7 @@ imageHint: "Steam rack railway train in Tisovec mountains",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-tisovec-cities-v2.webp",
 },  {
     id: "slovakia-vlkas-cities-v2",
@@ -2685,7 +2685,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/slovakia-vlkas-cities-v2.webp",
 },  {
     id: "slovakia-gabcikovo-cities-v2",

@@ -543,7 +543,7 @@ imageHint: "Masia Freixa Terrassa architecture",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-terrassa-cities-v2.webp",
 },  {
     id: "spain-badalona-cities-v2",
@@ -611,7 +611,7 @@ imageHint: "Oviedo Cathedral facade sunny day",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-oviedo-cities-v2.webp",
 },  {
     id: "spain-sabadell-cities-v2",
@@ -679,7 +679,7 @@ imageHint: "Sherry barrels in Jerez bodega",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-jerez-cities-v2.webp",
 },  {
     id: "spain-mostoles-cities-v2",
@@ -713,7 +713,7 @@ imageHint: "Mostoles city square and monument",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-mostoles-cities-v2.webp",
 },  {
     id: "spain-santa-cruz-cities-v2",
@@ -815,7 +815,7 @@ imageHint: "Alcazaba of Almeria fortress walls",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-almeria-cities-v2.webp",
 },  {
     id: "spain-alcala-cities-v2",
@@ -849,7 +849,7 @@ imageHint: "University of Alcala de Henares facade",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-alcala-cities-v2.webp",
 },  {
     id: "spain-fuenlabrada-cities-v2",
@@ -917,7 +917,7 @@ imageHint: "Leganes Carlos III university campus",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-leganes-cities-v2.webp",
 },  {
     id: "spain-getafe-cities-v2",
@@ -951,7 +951,7 @@ imageHint: "Cerro de los Angeles Getafe monument",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-getafe-cities-v2.webp",
 },  {
     id: "spain-burgos-cities-v2",
@@ -985,7 +985,7 @@ imageHint: "Burgos Cathedral Gothic facade sunset",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-burgos-cities-v2.webp",
 },  {
     id: "spain-albacete-cities-v2",
@@ -1019,7 +1019,7 @@ imageHint: "Pasaje de Lodares Albacete gallery",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-albacete-cities-v2.webp",
 },  {
     id: "spain-castellon-cities-v2",
@@ -1053,7 +1053,7 @@ imageHint: "El Fadri tower Castellon de la Plana",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-castellon-cities-v2.webp",
 },  {
     id: "spain-santander-cities-v2",
@@ -1087,7 +1087,7 @@ imageHint: "Palacio de la Magdalena Santander aerial",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-santander-cities-v2.webp",
 },  {
     id: "spain-alcorcon-cities-v2",
@@ -1155,7 +1155,7 @@ imageHint: "La Laguna old town colorful streets",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-la-laguna-cities-v2.webp",
 },  {
     id: "spain-logrono-cities-v2",
@@ -1189,7 +1189,7 @@ imageHint: "Calle Laurel Logrono tapas bars",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-logrono-cities-v2.webp",
 },  {
     id: "spain-badajoz-cities-v2",
@@ -1223,7 +1223,7 @@ imageHint: "Alcazaba of Badajoz Moorish walls",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-badajoz-cities-v2.webp",
 },  {
     id: "spain-huelva-cities-v2",
@@ -1257,7 +1257,7 @@ imageHint: "Monument to the Discovery Huelva sunset",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-huelva-cities-v2.webp",
 },  {
     id: "spain-marbella-cities-v2",
@@ -1291,7 +1291,7 @@ imageHint: "Puerto Banus Marbella luxury yachts",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-marbella-cities-v2.webp",
 },  {
     id: "spain-lleida-cities-v2",
@@ -1325,7 +1325,7 @@ imageHint: "Seu Vella Lleida cathedral on hill",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-lleida-cities-v2.webp",
 },  {
     id: "spain-dos-hermanas-cities-v2",
@@ -1359,7 +1359,7 @@ imageHint: "Dos Hermanas city town hall facade",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-dos-hermanas-cities-v2.webp",
 },  {
     id: "spain-torrejon-cities-v2",
@@ -1393,7 +1393,7 @@ imageHint: "Parque Europa Torrejon de Ardoz miniatures",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-torrejon-cities-v2.webp",
 },  {
     id: "spain-parla-cities-v2",
@@ -1495,7 +1495,7 @@ imageHint: "Algeciras port containers and ferry",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-algeciras-cities-v2.webp",
 },  {
     id: "spain-alcobendas-cities-v2",
@@ -1529,7 +1529,7 @@ imageHint: "Bonsai Museum Alcobendas garden",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-alcobendas-cities-v2.webp",
 },  {
     id: "spain-cadiz-cities-v2",
@@ -1563,7 +1563,7 @@ imageHint: "Cadiz Cathedral dome from sea",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-cadiz-cities-v2.webp",
 },  {
     id: "spain-jaen-cities-v2",
@@ -1597,7 +1597,7 @@ imageHint: "Jaen Cathedral and Santa Catalina castle",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-jaen-cities-v2.webp",
 },  {
     id: "spain-reus-cities-v2",
@@ -1665,7 +1665,7 @@ imageHint: "As Burgas thermal springs Ourense",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-ourense-cities-v2.webp",
 },  {
     id: "spain-tarragona-cities-v2",
@@ -1699,7 +1699,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
       hu: [],
       ro: [],
       en: []
-    }
+    },
     image: "/poi-images/spain-tarragona-cities-v2.webp",
 },
   {

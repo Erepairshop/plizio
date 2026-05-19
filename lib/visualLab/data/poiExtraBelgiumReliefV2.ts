@@ -45,7 +45,7 @@ imageHint: "Hilly green pastures and orchards of the Herve Plateau",
       es: ["La elevación varía de 200 a 350 metros sobre el nivel del mar", "Situado entre los ríos Mosa y Vesdre en el este de Bélgica", "Caracterizado por el paisaje tradicional de bocage con densos setos", "Famoso por la producción del picante queso Herve", "Sirve como encrucijada cultural cerca de las fronteras alemana y neerlandesa", "Reconocido por sus extensos huertos y la ganadería láctea tradicional"],
       pt: ["A altitude varia entre 200 e 350 metros acima do nível do mar", "Localizado entre os rios Mosa e Vesdre no leste da Bélgica", "Caracterizado pela paisagem tradicional de bocage com sebes densas", "Famoso pela produção do queijo Herve de aroma intenso", "Serve como um cruzamento cultural perto das fronteiras alemã e holandesa", "Reconhecido pelos seus extensos pomares e pecuária leiteira tradicional"],
       fr: ["L'altitude varie de 200 à 350 mètres au-dessus du niveau de la mer", "Situé entre la Meuse et la Vesdre dans l'est de la Belgique", "Caractérisé par un paysage de bocage traditionnel aux haies denses", "Célèbre pour la production du fromage de Herve au goût puissant", "Sert de carrefour culturel près des frontières allemande et néerlandaise", "Réputé pour ses vastes vergers et son élevage laitier traditionnel"],
-    }
+    },
     image: "/poi-images/belgium-plateau-de-herve-relief-v2.webp",
 },  {
     id: "belgium-condroz-plateau-relief-v2",
@@ -91,7 +91,7 @@ imageHint: "Rolling hills and valleys of the Condroz region",
       es: ["Presenta crestas de caliza paralelas intercaladas con depresiones de esquisto", "Las elevaciones suelen oscilar entre los 200 y los 350 metros sobre el nivel del mar", "Se sitúa principalmente al sur de los valles de los ríos Sambre y Mosa", "Los suelos muy fértiles sustentan el cultivo a gran escala de cereales y remolacha azucarera", "La ciudad de Ciney sirve como principal centro agrícola de la región", "Las formaciones geológicas se remontan al intenso plegamiento de la era Paleozoica"],
       pt: ["Apresenta cristas de calcário paralelas intercaladas com depressões de xisto", "As elevações variam tipicamente entre 200 e 350 metros acima do nível do mar", "Localiza-se principalmente a sul dos vales dos rios Sambre e Mosa", "Os solos altamente férteis sustentam o cultivo em grande escala de cereais e beterraba açucareira", "A cidade de Ciney serve como o principal centro agrícola da região", "As formações geológicas remontam ao intenso dobramento da era Paleozóica"],
       fr: ["Présente des crêtes calcaires parallèles entrecoupées de dépressions schisteuses", "Les altitudes varient généralement de 200 à 350 mètres au-dessus du niveau de la mer", "Situé principalement au sud des vallées de la Sambre et de la Meuse", "Les sols très fertiles permettent la culture à grande échelle de céréales et de betteraves sucrières", "La ville de Ciney est le principal centre agricole de la région", "Les formations géologiques datent du plissement intense de l'ère paléozoïque"],
-    }
+    },
     image: "/poi-images/belgium-condroz-plateau-relief-v2.webp",
 },  {
     id: "belgium-famenne-depression-relief-v2",
@@ -229,7 +229,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
       es: ["Vestigio de la antigua época de orogenia varisca", "Los picos más altos superan los 600 metros de altitud", "Compuesto en gran parte por esquisto, cuarcita y arenisca resistentes a la erosión", "Presenta valles fluviales profundamente encajados con espectaculares acantilados rocosos", "Experimenta un clima más fresco y significativamente más húmedo que las llanuras belgas", "Sirve como uno de los hábitats forestales continuos más grandes de Europa Central"],
       pt: ["Vestígio da antiga época de orogenia varisca", "Os picos mais altos ultrapassam os 600 metros de altitude", "Composto em grande parte por xisto, quartzito e arenito resistentes à erosão", "Apresenta vales fluviais profundamente recortados com falésias rochosas espetaculares", "Experimenta um clima mais fresco e significativamente mais húmido do que as terras baixas belgas", "Serve como um dos maiores habitats florestais contínuos da Europa Central"],
       fr: ["Vestige de l'ancienne époque de l'orogénèse varisque", "Les sommets les plus élevés dépassent les 600 mètres d'altitude", "Composé principalement de schiste, quartzite et grès résistants à l'érosion", "Présente des vallées fluviales profondément encaissées avec des falaises rocheuses spectaculaires", "Bénéficie d'un climat plus frais et nettement plus humide que les plaines belges", "Constitue l'un des plus grands habitats forestiers continus d'Europe centrale"],
-    }
+    },
     image: "/poi-images/belgium-ardennes-highlands-relief-v2.webp",
 },  {
     id: "belgium-kemmelberg-relief-v2",

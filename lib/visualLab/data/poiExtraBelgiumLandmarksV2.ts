@@ -45,7 +45,7 @@ imageHint: "Brussels Grand Place square with guildhalls",
       es: ["Inscrita en la lista del Patrimonio de la Humanidad de la UNESCO desde 1998.", "Fue destruida en gran parte en 1695 por las tropas del rey Luis XIV.", "La torre del ayuntamiento alcanza una altura notable de 96 metros.", "En lo alto de la torre hay una estatua del arcángel san Miguel.", "La alfombra de flores consta de unas 500.000 begonias frescas.", "La Maison du Roi alberga hoy el Museo de la Ciudad de Bruselas."],
       pt: ["Inscrita na lista do Património Mundial da UNESCO desde o ano de 1998.", "Foi largamente destruída em 1695 pelas tropas do rei Luís XIV.", "A torre da câmara municipal atinge uma altura considerável de 96 metros.", "No topo da torre repousa uma estátua do Arcanjo Miguel.", "O tapete de flores é composto por cerca de 500.000 begónias frescas.", "A Maison du Roi abriga hoje o museu da cidade de Bruxelas."],
       fr: ["Inscrite sur la liste du patrimoine mondial de l'UNESCO depuis 1998.", "A été largement détruite en 1695 par les troupes du roi Louis XIV.", "La tour de l'hôtel de ville atteint une hauteur remarquable de 96 mètres.", "Une statue de l'archange Saint-Michel trône au sommet de la tour.", "Le tapis de fleurs se compose d'environ 500 000 bégonias frais.", "La Maison du Roi abrite aujourd'hui le musée de la ville de Bruxelles."],
-    }
+    },
     image: "/poi-images/belgium-grand-place-landmarks-v2.webp",
 },  {
     id: "belgium-atomium-landmarks-v2",
@@ -91,7 +91,7 @@ imageHint: "Atomium monument in Brussels daytime",
       es: ["Alcanza una altura total imponente de 102 metros.", "Cada una de las nueve esferas tiene 18 metros de diámetro.", "Fue construido para la Exposición Universal Expo 58.", "Fue renovado y revestido de acero inoxidable entre 2004 y 2006.", "El ascensor central es uno de los más rápidos de Europa.", "Cinco de las nueve esferas están abiertas al público."],
       pt: ["Atinge uma altura total imponente de 102 metros.", "Cada uma das nove esferas tem um diâmetro de 18 metros.", "Foi construído para a Exposição Mundial Expo 58 em 1958.", "Passou por uma renovação profunda com aço inoxidável entre 2004 e 2006.", "O elevador no tubo central é um dos mais rápidos da Europa.", "Cinco das nove esferas estão abertas ao público."],
       fr: ["Atteint une hauteur totale imposante de 102 mètres.", "Chacune des neuf sphères a un diamètre de 18 mètres.", "Construit à l'origine pour l'Exposition universelle de 1958.", "Rénové et recouvert d'acier inoxydable entre 2004 et 2006.", "L'ascenseur du tube central est l'un des plus rapides d'Europe.", "Cinq des neuf sphères sont accessibles au public."],
-    }
+    },
     image: "/poi-images/belgium-atomium-landmarks-v2.webp",
 },  {
     id: "belgium-gravensteen-landmarks-v2",
@@ -419,7 +419,7 @@ imageHint: "Lion's Mound Waterloo monument",
       es: ["Montículo de tierra artificial con una altura imponente de 40 metros.", "Fue construido entre 1823 y 1826 utilizando tierra recolectada del campo de batalla.", "Exactamente 226 escalones conducen a la plataforma de observación en la cima.", "La estatua del león de hierro fundido mide 4,5 metros de alto y pesa 28 toneladas.", "Marca el lugar donde fue herido el Príncipe de Orange.", "El león mira de forma simbólica y amenazante hacia Francia."],
       pt: ["Colina de terra artificial com uma altura imponente de 40 metros.", "Foi construída entre 1823 e 1826, com terra recolhida do campo de batalha.", "Exatamente 226 degraus levam à plataforma de observação no topo.", "A estátua do leão em ferro fundido tem 4,5 metros de altura e pesa 28 toneladas.", "Marca o local do ferimento do Príncipe de Orange.", "O leão olha simbólica e ameaçadoramente em direção à França."],
       fr: ["Tertre artificiel d'une hauteur imposante de 40 mètres.", "Construit entre 1823 et 1826 avec de la terre provenant du champ de bataille.", "Exactement 226 marches mènent à la plateforme d'observation au sommet.", "La statue du lion en fonte mesure 4,5 mètres de haut et pèse 28 tonnes.", "Marque l'endroit où le prince d'Orange a été blessé.", "Le lion regarde symboliquement et de manière menaçante vers la France."],
-    }
+    },
     image: "/poi-images/belgium-lions-mound-landmarks-v2.webp",
 },  {
     id: "belgium-cathedral-of-st-michael-and-st-gudula-landmarks-v2",
