@@ -40,6 +40,18 @@ jobs:
 
       - run: npm ci
 
+      - name: Patch Next worker memory limit (4GB hard-cap → 12GB)
+        run: |
+          set -euo pipefail
+          # Next.js 16 spawns build workers with resourceLimits.maxOldGenerationSizeMb=4096.
+          # Override every literal occurrence in compiled JS to allow large POI builds.
+          BEFORE=$(grep -rl "maxOldGenerationSizeMb" node_modules/next/dist 2>/dev/null | wc -l)
+          echo "Files with resourceLimits before: $BEFORE"
+          grep -rl "maxOldGenerationSizeMb" node_modules/next/dist 2>/dev/null \
+            | xargs -r sed -i -E 's/maxOldGenerationSizeMb:\s*[0-9]+/maxOldGenerationSizeMb: 12288/g' || true
+          AFTER=$(grep -rE "maxOldGenerationSizeMb:\s*12288" node_modules/next/dist 2>/dev/null | wc -l)
+          echo "Patched occurrences with 12288: $AFTER"
+
       - name: Generate V2 POI JSON
         run: npx tsx scripts/prepare_v2_data.mjs
 
