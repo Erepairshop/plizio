@@ -2,7 +2,7 @@
 
 import { useRouter } from "next/navigation";
 import { ChevronLeft } from "lucide-react";
-import { InteractiveMap } from "@/lib/visualLab/components/InteractiveMap";
+import { InteractiveMap, MapPerfOverlay } from "@/lib/visualLab/components/InteractiveMap";
 import { useLang } from "@/components/LanguageProvider";
 
 type Lang = "de" | "hu" | "ro" | "en";
@@ -33,6 +33,7 @@ export default function DeutschlandMapPage() {
       </header>
       <main className="flex-1 min-h-0 relative">
         <InteractiveMap lang="de" subject="geographie" grade={5} />
+        <MapPerfOverlay />
       </main>
     </div>
   );

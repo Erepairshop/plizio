@@ -190,12 +190,35 @@ type InteractiveMapProps = {
 // Outer wrapper: resolves country data (sync for Africa/Asia/SouthAmerica,
 // async for Europe — DE map + POI extras are lazy-loaded via dynamic import).
 // Renders a skeleton until data is ready, then mounts the heavy inner map.
+// Lightweight perf marker — logs to console AND posts to a window-scoped
+// array so the on-screen overlay can read it without prop-drilling.
+type PerfMark = { t: number; label: string };
+const __perf: PerfMark[] = (typeof window !== "undefined" && (window as any).__mapPerf) || [];
+if (typeof window !== "undefined") (window as any).__mapPerf = __perf;
+function perfMark(label: string) {
+  const t = typeof performance !== "undefined" ? performance.now() : Date.now();
+  const last = __perf[__perf.length - 1];
+  const delta = last ? (t - last.t).toFixed(0) : "0";
+  __perf.push({ t, label });
+  // eslint-disable-next-line no-console
+  console.log(`[map-perf] +${delta}ms ${label} (t=${t.toFixed(0)})`);
+  // Trigger overlay refresh
+  if (typeof window !== "undefined" && (window as any).__mapPerfTick) {
+    (window as any).__mapPerfTick();
+  }
+}
+function perfReset() {
+  __perf.length = 0;
+  perfMark("MOUNT");
+}
+
 export const InteractiveMap = (props: InteractiveMapProps) => {
   const lang = props.lang ?? "de";
   const countryId = props.countryId;
   const [countryData, setCountryData] = useState<CountryMapData | null>(null);
 
   useEffect(() => {
+    perfReset();
     let cancelled = false;
     const sync = countryId
       ? (getAsiaCountryMap(countryId)
@@ -203,12 +226,16 @@ export const InteractiveMap = (props: InteractiveMapProps) => {
           ?? getAfricaCountryMap(countryId))
       : null;
     if (sync) {
+      perfMark("sync-resolver-done");
       setCountryData(sync);
       return;
     }
     setCountryData(null);
+    perfMark("async-resolver-start");
     getCountryMap(lang as Lang).then((d) => {
-      if (!cancelled) setCountryData(d);
+      if (cancelled) return;
+      perfMark("async-resolver-done (svg+subregions loaded)");
+      setCountryData(d);
     });
     return () => { cancelled = true; };
   }, [countryId, lang]);
@@ -216,6 +243,32 @@ export const InteractiveMap = (props: InteractiveMapProps) => {
   if (!countryData) return <MapLoadingSkeleton />;
   return <InteractiveMapInner {...props} countryData={countryData} />;
 };
+
+// Visible on-screen perf overlay — top-right corner pill, shows live marks.
+// Only renders if window.__mapPerf has entries (i.e. on a map page).
+export function MapPerfOverlay() {
+  const [tick, setTick] = useState(0);
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    (window as any).__mapPerfTick = () => setTick((n) => n + 1);
+    setTick(1);
+    return () => { (window as any).__mapPerfTick = undefined; };
+  }, []);
+  if (typeof window === "undefined") return null;
+  const marks: PerfMark[] = (window as any).__mapPerf || [];
+  if (marks.length === 0) return null;
+  void tick;
+  const t0 = marks[0]?.t ?? 0;
+  return (
+    <div className="fixed top-2 right-2 z-[9999] max-w-[80vw] bg-black/85 text-white text-[10px] leading-tight font-mono px-2 py-1.5 rounded border border-cyan-400/30 pointer-events-none">
+      {marks.map((m, i) => (
+        <div key={i}>
+          <span className="text-cyan-300">+{(m.t - t0).toFixed(0)}ms</span> {m.label}
+        </div>
+      ))}
+    </div>
+  );
+}
 
 const InteractiveMapInner = ({
   lang = "de",
@@ -249,24 +302,28 @@ const InteractiveMapInner = ({
     let cancelled = false;
     setV2Extras(null); setPoiPaths({}); setStatePaths({});
     const cc = countryData.countryId;
+    perfMark(`inner-mount cc=${cc} basePois=${countryData.pois.length}`);
     // Only split the render for EXTREMELY large datasets (DE has 1000+, FR ~350,
     // US ~330). Below 250 POIs the second commit costs more than it saves and
     // creates a visible "pop" as remaining markers appear. Above 250 we still
     // do the split because layout cost of 700+ SVG nodes blocks the first paint.
     const reveal = (arr: POI[]) => {
       if (cancelled) return;
-      if (arr.length <= 250) { setV2Extras(arr); return; }
+      if (arr.length <= 250) { perfMark(`reveal-all (${arr.length})`); setV2Extras(arr); return; }
+      perfMark(`reveal-first-80 (of ${arr.length})`);
       setV2Extras(arr.slice(0, 80));
-      const finish = () => { if (!cancelled) setV2Extras(arr); };
+      const finish = () => { if (!cancelled) { perfMark(`reveal-rest (${arr.length})`); setV2Extras(arr); } };
       if (typeof (globalThis as any).requestIdleCallback === "function") {
         (globalThis as any).requestIdleCallback(finish, { timeout: 200 });
       } else {
         setTimeout(finish, 50);
       }
     };
+    perfMark(`json-fetch-start /data/pois/${cc}.json`);
     fetch(`/data/pois/${cc}.json`)
-      .then((r) => (r.ok ? r.json() : null))
+      .then((r) => { perfMark(`json-fetch-response status=${r.status}`); return r.ok ? r.json() : null; })
       .then((payload: any) => {
+        perfMark(`json-parsed (${typeof payload === "object" && payload?.pois ? payload.pois.length : (Array.isArray(payload) ? payload.length : "?")} pois)`);
         if (cancelled || !payload) { if (!cancelled) setV2Extras([]); return; }
         // New shape: { pois, poiPaths, statePaths }. Legacy: plain array.
         if (Array.isArray(payload)) { reveal(payload); return; }
@@ -276,7 +333,7 @@ const InteractiveMapInner = ({
       })
       .catch(() => { if (!cancelled) setV2Extras([]); });
     return () => { cancelled = true; };
-  }, [countryData.countryId]);
+  }, [countryData.countryId, countryData.pois.length]);
 
   // Path helpers using pre-computed lookups
   const buildStatePath = (lang: SeoLang, stateId: string): string => {
