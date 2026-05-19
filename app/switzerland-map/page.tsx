@@ -3,11 +3,12 @@
 import { useRouter } from "next/navigation";
 import { ChevronLeft } from "lucide-react";
 import dynamic from "next/dynamic";
+import { MapLoadingSkeleton } from "@/components/MapLoadingSkeleton";
 import { useLang } from "@/components/LanguageProvider";
 
 const InteractiveMap = dynamic(
   () => import("@/lib/visualLab/components/InteractiveMap").then(m => m.InteractiveMap),
-  { ssr: false, loading: () => <div className="w-full h-full bg-slate-900" /> }
+  { ssr: false, loading: () => <MapLoadingSkeleton /> }
 );
 
 type Lang = "de" | "hu" | "ro" | "en";
