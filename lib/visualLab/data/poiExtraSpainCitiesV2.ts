@@ -34,7 +34,7 @@ imageHint: "Plaza de Espana Seville sunny day",
       ro: ["Catedrala din Sevilla este cea mai mare structură gotică din lume ca volum.", "Turnul Giralda a fost construit inițial ca minaret al marii moschei în anul 1198.", "Arhiva Indiilor deține peste 43.000 de dosare despre coloniile spaniole din America.", "Sevilla este considerată capitala mondială a dansului și muzicii flamenco.", "Fluviul Guadalquivir a permis Sevillei să dețină monopolul comercial cu America.", "Plaza de España este un complex semicircular vast, decorat cu azulejos pictate manual."],
       en: ["Seville Cathedral is recognized as the largest Gothic building in the world.", "The Giralda tower was originally constructed as a minaret for the Great Mosque in 1198.", "The General Archive of the Indies houses 43,000 files on Spanish colonial history.", "The Alcázar of Seville is the oldest royal palace still in use in Europe.", "Seville's Plaza de España was a filming location for 'Star Wars: Episode II'.", "The city's Guadalquivir River is the only commercially navigable river in Spain."],
     },
-    , image: "/poi-images/spain-seville-cities-v2.webp",
+    image: "/poi-images/spain-seville-cities-v2.webp",
 },  {
     id: "spain-zaragoza-cities-v2",
     parent: "ES",
@@ -68,7 +68,7 @@ imageHint: "Basilica del Pilar Zaragoza sunset",
       ro: ["Zaragoza a fost fondată în anul 14 î.Hr. de către împăratul Octavian Augustus.", "Bazilica del Pilar găzduiește fresce valoroase pictate de Francisco de Goya.", "Palatul Aljafería a servit drept inspirație pentru opera 'Il Trovatore' de Verdi.", "În Zaragoza se află al treilea cel mai mare teatru roman descoperit în Spania.", "Orașul este situat la o distanță aproape egală de Madrid, Barcelona și Bilbao.", "Podul de Piatră (Puente de Piedra) peste Ebru datează din secolul al XV-lea."],
       en: ["Zaragoza was founded in 14 BC and named after Emperor Augustus.", "The Basilica of the Pillar features frescoes painted by the famous artist Francisco Goya.", "The Aljafería Palace is currently the seat of the regional parliament of Aragon.", "The city hosted the 2008 International Expo, centered on the Ebro River's waterfront.", "The Roman Theater of Zaragoza once had a seating capacity for 6,000 people.", "La Seo Cathedral was the site where Aragonese kings were traditionally crowned."],
     },
-    , image: "/poi-images/spain-zaragoza-cities-v2.webp",
+    image: "/poi-images/spain-zaragoza-cities-v2.webp",
 },  {
     id: "spain-malaga-cities-v2",
     parent: "ES",
@@ -102,7 +102,7 @@ imageHint: "Malaga city view from Gibralfaro castle",
       ro: ["Málaga a fost fondată de fenicieni în jurul anului 770 î.Hr.", "Catedrala din Málaga este supranumită 'La Manquita' din cauza turnului lipsă.", "Pictorul Pablo Picasso s-a născut în Málaga pe 25 octombrie 1881.", "Teatrul roman din oraș datează din secolul I d.Hr., pe timpul lui Augustus.", "Alcazaba este legată de Castelul Gibralfaro printr-un drum fortificat (coracha).", "Orașul este centrul economic al regiunii turistice Costa del Sol."],
       en: ["Málaga was established by Phoenician settlers around 770 BC.", "The city's cathedral is nicknamed 'La Manquita' due to its missing south tower.", "World-renowned artist Pablo Picasso was born in Málaga in 1881.", "The Roman Theater remained hidden until its accidental discovery in 1951.", "The Alcazaba of Málaga is considered the best-preserved alcazaba in Spain.", "Málaga experiences approximately 300 days of sunshine every year."],
     },
-    , image: "/poi-images/spain-malaga-cities-v2.webp",
+    image: "/poi-images/spain-malaga-cities-v2.webp",
 },  {
     id: "spain-murcia-cities-v2",
     parent: "ES",
@@ -136,7 +136,7 @@ imageHint: "Murcia Cathedral facade sunny day",
       ro: ["Murcia a fost fondată de arabi în anul 825 d.Hr. pe malul râului Segura.", "Turnul Catedralei din Murcia are 93 de metri și a fost construit în etape timp de 250 de ani.", "Sistemul de irigații din 'Huerta' datează din perioada dominației maure.", "Real Casino de Murcia este un monument istoric național din anul 1983.", "Sculptorul Francisco Salzillo a realizat 'pasos'-urile celebre pentru Săptămâna Mare.", "Murcia este a șaptea municipalitate ca populație din Spania."],
       en: ["Murcia was founded in 825 AD by the Emir of Córdoba, Abd ar-Rahman II.", "The city's cathedral tower stands at 93 meters, making it the second-tallest in Spain.", "The surrounding region produces nearly 20% of Spain's fruit and vegetable exports.", "The Real Casino de Murcia features a library with 20,000 volumes.", "Famed Baroque sculptor Francisco Salzillo was born and worked in Murcia.", "The Segura River, which runs through the city, was once one of Europe's most polluted but is now restored."],
     },
-    , image: "/poi-images/spain-murcia-cities-v2.webp",
+    image: "/poi-images/spain-murcia-cities-v2.webp",
 },  {
     id: "spain-palma-cities-v2",
     parent: "ES",
@@ -204,7 +204,7 @@ imageHint: "Las Canteras beach Las Palmas skyline",
       ro: ["Las Palmas a fost fondat pe 24 iunie 1478, în ziua de Sfântul Ioan.", "Casa de Colón este situată în fosta reședință a guvernatorilor insulei.", "Catedrala Santa Ana combină stilurile gotic, renascentist și neoclasic.", "Puerto de la Luz a fost principalul motor al dezvoltării economice a orașului din 1883.", "Plaja Las Canteras are o barieră naturală de rocă ce calmează valurile oceanului.", "Orașul împarte statutul de capitală a arhipelagului cu Santa Cruz de Tenerife."],
       en: ["Las Palmas was founded on June 24, 1478, during the Spanish conquest of the islands.", "The Casa de Colón is a former governor's house where Christopher Columbus stayed.", "Santa Ana Cathedral was the first cathedral built in the Canary Islands.", "The Playa de Las Canteras features a natural reef called 'The Bar' (La Barra).", "The city's port, Puerto de la Luz, is a key link for Atlantic shipping routes.", "Las Palmas has been ranked as having the best climate in the world by various climate studies."],
     },
-    , image: "/poi-images/spain-las-palmas-cities-v2.webp",
+    image: "/poi-images/spain-las-palmas-cities-v2.webp",
 },  {
     id: "spain-bilbao-cities-v2",
     parent: "ES",
@@ -238,7 +238,7 @@ imageHint: "Guggenheim Museum Bilbao titanium panels",
       ro: ["Orașul a fost fondat la 15 iunie 1300 de Diego López de Haro V.", "Muzeul Guggenheim este acoperit cu peste 33.000 de plăci de titan.", "Metroul din Bilbao a fost inaugurat în 1995, fiind proiectat de Norman Foster.", "Podul Vizcaya din apropiere a fost construit în 1893 și este sit UNESCO.", "Portul Bilbao este unul dintre cele mai importante noduri comerciale ale Spaniei.", "Catedrala Santiago datează din secolul al XIV-lea și este în stil gotic."],
       en: ["Founded on June 15, 1300, by Diego López de Haro V.", "The Guggenheim Museum's exterior features over 33,000 titanium sheets.", "The Vizcaya Bridge, completed in 1893, is a UNESCO World Heritage site.", "Norman Foster designed the city's metro system, which opened in 1995.", "The Port of Bilbao is among the top five busiest commercial ports in Spain.", "The historic center was originally composed of exactly seven streets."],
     },
-    , image: "/poi-images/spain-bilbao-cities-v2.webp",
+    image: "/poi-images/spain-bilbao-cities-v2.webp",
 },  {
     id: "spain-alicante-cities-v2",
     parent: "ES",
@@ -272,7 +272,7 @@ imageHint: "Alicante Explanada de Espana palm trees",
       ro: ["Castelul Santa Bárbara a fost construit în secolul al IX-lea de arabi.", "Promenada Explanada de España are o lungime de peste 500 de metri.", "Situl arheologic Lucentum datează din secolul al IV-lea î.Hr.", "Orașul găzduiește sediul central al EUIPO din anul 1994.", "Plaja Postiguet se află chiar la poalele castelului și muntelui.", "Alicante are peste 2.800 de ore de soare pe an în medie."],
       en: ["The Santa Bárbara Castle sits on Mount Benacantil at 166 meters elevation.", "Explanada de España is paved with 6.5 million tricolor marble tiles.", "Alicante has served as the headquarters for the EUIPO since 1994.", "The Roman ruins of Lucentum cover approximately 30,000 square meters.", "The average annual temperature in Alicante is approximately 18 degrees Celsius.", "The Bonfires of Saint John (Hogueras) is the city's official festival."],
     },
-    , image: "/poi-images/spain-alicante-cities-v2.webp",
+    image: "/poi-images/spain-alicante-cities-v2.webp",
 },  {
     id: "spain-valladolid-cities-v2",
     parent: "ES",
@@ -306,7 +306,7 @@ imageHint: "Valladolid Plaza Mayor evening",
       ro: ["Valladolid a fost capitala Spaniei sub domnia lui Filip al III-lea.", "Cristofor Columb a decedat în Valladolid la data de 20 mai 1506.", "Plaza Mayor a fost reconstruită în 1561 după un incendiu devastator.", "Orașul găzduiește Grupul Renault, pilon central al economiei locale.", "Muzeul Național de Sculptură deține opere de artă sacră din secolele XIII-XIX.", "Festivalul de film Seminci a fost fondat în anul 1956."],
       en: ["Valladolid served as Spain's capital between 1601 and 1606.", "Christopher Columbus passed away in Valladolid on May 20, 1506.", "The Plaza Mayor was rebuilt in 1561 following a major city fire.", "The city is a major automotive hub, primarily due to the Renault factory.", "The University of Valladolid was established in the mid-13th century.", "The Seminci Film Festival is one of Spain's longest-running cinema events."],
     },
-    , image: "/poi-images/spain-valladolid-cities-v2.webp",
+    image: "/poi-images/spain-valladolid-cities-v2.webp",
 },  {
     id: "spain-vigo-cities-v2",
     parent: "ES",
@@ -340,7 +340,7 @@ imageHint: "Vigo port and bay aerial view",
       ro: ["Portul Vigo este cel mai mare port de descărcare a peștelui din Europa.", "Fabrica Stellantis din Vigo produce peste 400.000 de vehicule anual.", "Bătălia de la Vigo din 1702 este subiectul multor legende despre comori.", "Insulele Cíes au fost declarate parc național în anul 2002.", "Vigo este singurul oraș spaniol cu un sistem extins de rampe mecanice stradale.", "Podul Rande traversează estuarul Vigo și are o lungime de 1.558 de metri."],
       en: ["Vigo's port is a world leader in the handling of fresh and frozen seafood.", "The Stellantis Vigo plant is the largest industrial employer in Galicia.", "The naval Battle of Vigo Bay took place on October 23, 1702.", "The Cíes Islands are home to the beach of Rodas, often ranked top in the world.", "Vigo contains more than 1,500 Romanesque and modern architectural sites.", "The city's elevation ranges from sea level to 450 meters at Mount Alba."],
     },
-    , image: "/poi-images/spain-vigo-cities-v2.webp",
+    image: "/poi-images/spain-vigo-cities-v2.webp",
 },  {
     id: "spain-gijon-cities-v2",
     parent: "ES",
@@ -374,7 +374,7 @@ imageHint: "Gijon San Lorenzo beach and church",
       ro: ["Universidad Laboral de Gijón este cea mai mare construcție din Spania.", "Termele romane din Campo Valdés datează din secolul I d.Hr.", "Portul El Musel este lider în Spania la traficul de cărbune.", "Sculptura 'Elogio del Horizonte' are o înălțime de 10 metri.", "Populația orașului depășește 270.000 de locuitori.", "Gijón găzduiește Festivalul Internațional de Film din 1963."],
       en: ["The Universidad Laboral is the largest building in Spain by square footage.", "The city was known as Gigia during the Roman period in the 1st century.", "The 'Elogio del Horizonte' sculpture weighs approximately 500 tons.", "Gijón's Roman baths are among the best-preserved in northern Spain.", "The port of El Musel is a major European hub for bulk dry goods.", "The city features over 15 kilometers of urban coastal paths and beaches."],
     },
-    , image: "/poi-images/spain-gijon-cities-v2.webp",
+    image: "/poi-images/spain-gijon-cities-v2.webp",
 },  {
     id: "spain-hospitalet-cities-v2",
     parent: "ES",
@@ -442,7 +442,7 @@ imageHint: "Vitoria Gasteiz old town aerial",
       ro: ["Vitoria-Gasteiz a fost desemnată Capitală Verde Europeană în 2012.", "Catedrala Santa María este parte a Patrimoniului Mondial UNESCO.", "Fabrica Mercedes-Benz din oraș a fost inaugurată în anul 1954.", "Inelul Verde al orașului are o suprafață totală de 833 de hectare.", "Orașul găzduiește sediul Parlamentului Basc din 1980.", "Vitoria-Gasteiz este situată la o altitudine medie de 525 metri."],
       en: ["Vitoria-Gasteiz was named European Green Capital in 2012.", "The city was founded by Sancho VI of Navarre on the hill of Gasteiz.", "The Mercedes-Benz factory in Vitoria produces the Vito and V-Class models.", "Santa María Cathedral is a UNESCO World Heritage site under the Way of St. James.", "The 'Green Belt' consists of six large parks surrounding the urban area.", "The city hosts an internationally acclaimed Jazz Festival every July."],
     },
-    , image: "/poi-images/spain-vitoria-cities-v2.webp",
+    image: "/poi-images/spain-vitoria-cities-v2.webp",
 },  {
     id: "spain-coruna-cities-v2",
     parent: "ES",
@@ -476,7 +476,7 @@ imageHint: "Tower of Hercules A Coruna lighthouse",
       ro: ["Turnul lui Hercule a fost inclus în Patrimoniul Mondial UNESCO în 2009.", "Galeriile de sticlă de pe Avenida de la Marina au fost construite între 1870 și 1884.", "Promenada orașului are o lungime totală de peste 13 kilometri.", "María Pita a ucis un stegar englez în timpul asediului din 1589.", "Inditex, firma-mamă a Zara, are sediul în zona metropolitană a orașului.", "Orașul a fost capitala Galiciei între anii 1563 și 1982."],
       en: ["The Tower of Hercules stands 55 meters tall and dates to the 1st century AD.", "A Coruña's 'Galerías' cover a total surface area of over 3,000 square meters.", "The city's promenade is the longest continuous urban walkway in Europe.", "Local hero María Pita has a central square named in her honor.", "The Inditex headquarters in nearby Arteixo is the center of a global fashion empire.", "A Coruña served as the historical capital of the Kingdom of Galicia."],
     },
-    , image: "/poi-images/spain-coruna-cities-v2.webp",
+    image: "/poi-images/spain-coruna-cities-v2.webp",
 },  {
     id: "spain-elche-cities-v2",
     parent: "ES",
@@ -510,7 +510,7 @@ imageHint: "Palm grove of Elche aerial view",
       ro: ["Palmeral de Elche a fost declarat Patrimoniu Mondial UNESCO în 2000.", "Misteri d'Elx este singura piesă de teatru medievală jucată continuu.", "Doamna din Elche a fost sculptată în secolul al IV-lea î.Hr.", "Aproximativ 40% din pantofii produși în Spania provin din Elche.", "Bazilica Santa Maria a fost construită în stil baroc între 1672 și 1784.", "Parcul arheologic La Alcudia se află la 2 km de centrul orașului."],
       en: ["The Palmeral of Elche is the northernmost palm grove of its kind in the world.", "The 'Misteri d'Elx' drama is performed every August 14th and 15th.", "The 'Lady of Elche' was discovered by a local worker in 1897.", "Elche is home to over 1,000 companies related to the footwear sector.", "The city's municipal park covers 20,000 square meters within the palm grove.", "The Vinalopó River flows through the city, dividing it into two main areas."],
     },
-    , image: "/poi-images/spain-elche-cities-v2.webp",
+    image: "/poi-images/spain-elche-cities-v2.webp",
 },  {
     id: "spain-terrassa-cities-v2",
     parent: "ES",
@@ -544,7 +544,7 @@ imageHint: "Masia Freixa Terrassa architecture",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-terrassa-cities-v2.webp",
+    image: "/poi-images/spain-terrassa-cities-v2.webp",
 },  {
     id: "spain-badalona-cities-v2",
     parent: "ES",
@@ -578,7 +578,7 @@ imageHint: "Pont del Petroli pier Badalona sunrise",
       ro: ["Baetulo a fost fondat pe un deal în apropierea mării în anul 100 î.Hr.", "Muzeul din Badalona găzduiește cele mai bine conservate băi romane din Spania.", "Pont del Petroli are o lungime de 250 de metri și 6 metri înălțime.", "Clubul Joventut Badalona a câștigat Euroliga în anul 1994.", "Anís del Mono este unul dintre cele mai vechi branduri de lichior din Spania.", "Sărbătoarea 'Cremada del Dimoni' este declarată de interes turistic."],
       en: ["Baetulo was established as a strategic Roman colony circa 100 BC.", "The Badalona Museum's underground circuit is a national historical monument.", "The Pont del Petroli was saved from demolition by local citizens in 2001.", "Joventut Badalona is one of only two clubs to never be relegated from the top league.", "The Anís del Mono factory is a masterpiece of early 20th-century industrial design.", "The city's 'Festes de Maig' celebrate local culture and history every May."],
     },
-    , image: "/poi-images/spain-badalona-cities-v2.webp",
+    image: "/poi-images/spain-badalona-cities-v2.webp",
 },  {
     id: "spain-oviedo-cities-v2",
     parent: "ES",
@@ -612,7 +612,7 @@ imageHint: "Oviedo Cathedral facade sunny day",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-oviedo-cities-v2.webp",
+    image: "/poi-images/spain-oviedo-cities-v2.webp",
 },  {
     id: "spain-sabadell-cities-v2",
     parent: "ES",
@@ -646,7 +646,7 @@ imageHint: "Torre de l'Aigua Sabadell at night",
       ro: ["Sabadell a primit oficial titlul de oraș în anul 1877 de la regele Alfonso al XII-lea.", "Orașul este situat la o distanță de aproximativ 20 de kilometri de Barcelona.", "Banco Sabadell a fost fondată aici în 1881 pentru a finanța industria locală.", "Prima linie de cale ferată care a legat orașul de Barcelona a fost inaugurată în 1855.", "Supranumele 'Manchester-ul catalan' provine de la dominanța industriei textile în secolul XIX.", "Populația orașului a depășit pragul de 200.000 de locuitori la începutul secolului XXI."],
       en: ["Sabadell was officially granted city status in 1877 by King Alfonso XII.", "The city is located approximately 20 kilometers northwest of Barcelona.", "Banco Sabadell, one of Spain's major banks, was founded here in 1881.", "The railway connection to Barcelona was established in 1855, sparking growth.", "The city is known as 'the Catalan Manchester' due to its 19th-century textile boom.", "The historical Vapor Buxeda Vell factory was the first in the city to use electricity."],
     },
-    , image: "/poi-images/spain-sabadell-cities-v2.webp",
+    image: "/poi-images/spain-sabadell-cities-v2.webp",
 },  {
     id: "spain-jerez-cities-v2",
     parent: "ES",
@@ -680,7 +680,7 @@ imageHint: "Sherry barrels in Jerez bodega",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-jerez-cities-v2.webp",
+    image: "/poi-images/spain-jerez-cities-v2.webp",
 },  {
     id: "spain-mostoles-cities-v2",
     parent: "ES",
@@ -714,7 +714,7 @@ imageHint: "Mostoles city square and monument",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-mostoles-cities-v2.webp",
+    image: "/poi-images/spain-mostoles-cities-v2.webp",
 },  {
     id: "spain-santa-cruz-cities-v2",
     parent: "ES",
@@ -748,7 +748,7 @@ imageHint: "Auditorio de Tenerife Santa Cruz night",
       ro: ["Santa Cruz de Tenerife a fost fondat la data de 3 mai 1494 de către castilieni.", "Auditorio de Tenerife, un simbol al orașului, a fost finalizat în anul 2003.", "Carnavalul local este declarat Festival de Interes Turistic Internațional.", "În 1797, orașul a rezistat atacului flotei britanice conduse de amiralul Nelson.", "Orașul a devenit capitala provinciei Santa Cruz de Tenerife în anul 1833.", "Portul orașului este unul dintre cele mai tranzitate noduri maritime din lume."],
       en: ["Santa Cruz de Tenerife was founded on May 3, 1494, by Spanish conquerors.", "The Auditorio de Tenerife, a modern architectural icon, was opened in 2003.", "The city's Carnival is ranked as the second most popular in the world.", "In 1797, the city successfully defended itself against Admiral Horatio Nelson.", "The city has been a co-capital of the Canary Islands since the 1927 decree.", "The Plaza de España is the largest square in the city and was built in 1929."],
     },
-    , image: "/poi-images/spain-santa-cruz-cities-v2.webp",
+    image: "/poi-images/spain-santa-cruz-cities-v2.webp",
 },  {
     id: "spain-pamplona-cities-v2",
     parent: "ES",
@@ -782,7 +782,7 @@ imageHint: "Pamplona running of the bulls street",
       ro: ["Pamplona a fost fondată în anul 74 î.Hr. sub numele roman de Pompaelo.", "Zidurile cetății, construite în secolul XVI, sunt printre cele mai bine păstrate din Spania.", "Festivalul San Fermín atrage anual peste un milion de vizitatori în luna iulie.", "Pamplona a fost capitala Regatului Navarei timp de peste șapte secole.", "Cursa taurilor are loc în fiecare dimineață la ora 08:00 în timpul festivalului.", "Orașul găzduiește sediul central al uneia dintre cele mai mari fabrici Volkswagen."],
       en: ["Pamplona was founded in 74 BC by Pompey and named Pompaelo.", "The city's 16th-century fortifications are among the best preserved in Europe.", "The San Fermín festival runs annually from July 6th to July 14th.", "Pamplona was the capital of the Kingdom of Navarre from 824 to 1512.", "The Running of the Bulls covers a distance of 875 meters through narrow streets.", "Pamplona consistently ranks first in Spain for environmental sustainability."],
     },
-    , image: "/poi-images/spain-pamplona-cities-v2.webp",
+    image: "/poi-images/spain-pamplona-cities-v2.webp",
 },  {
     id: "spain-almeria-cities-v2",
     parent: "ES",
@@ -816,7 +816,7 @@ imageHint: "Alcazaba of Almeria fortress walls",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-almeria-cities-v2.webp",
+    image: "/poi-images/spain-almeria-cities-v2.webp",
 },  {
     id: "spain-alcala-cities-v2",
     parent: "ES",
@@ -850,7 +850,7 @@ imageHint: "University of Alcala de Henares facade",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-alcala-cities-v2.webp",
+    image: "/poi-images/spain-alcala-cities-v2.webp",
 },  {
     id: "spain-fuenlabrada-cities-v2",
     parent: "ES",
@@ -884,7 +884,7 @@ imageHint: "Fuenlabrada city town hall square",
       ro: ["Fuenlabrada a fost fondată în secolul XII de către coloniști din localitățile vecine.", "Populația orașului a crescut de zece ori între anii 1975 și 1990.", "Zona industrială Cobo Calleja este unul dintre cele mai mari centre de import din Europa.", "Celebrul fotbalist Fernando Torres s-a născut în Fuenlabrada în anul 1984.", "Orașul găzduiește sediul Facultății de Științe ale Comunicării din cadrul URJC.", "Numele orașului face referire la fântânile construite pentru călători în secolul XII."],
       en: ["Fuenlabrada's population exploded from 18,000 in 1975 to nearly 200,000 by 2005.", "The city's name is derived from 'Fuente Labrada,' meaning 'carved fountain.'", "The Cobo Calleja industrial estate is a major European hub for international trade.", "Fernando Torres, the world-famous footballer, was born here in 1984.", "The Rey Juan Carlos University campus was established in the city in 2000.", "The city was officially recognized as a municipality in the late 14th century."],
     },
-    , image: "/poi-images/spain-fuenlabrada-cities-v2.webp",
+    image: "/poi-images/spain-fuenlabrada-cities-v2.webp",
 },  {
     id: "spain-leganes-cities-v2",
     parent: "ES",
@@ -918,7 +918,7 @@ imageHint: "Leganes Carlos III university campus",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-leganes-cities-v2.webp",
+    image: "/poi-images/spain-leganes-cities-v2.webp",
 },  {
     id: "spain-getafe-cities-v2",
     parent: "ES",
@@ -952,7 +952,7 @@ imageHint: "Cerro de los Angeles Getafe monument",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-getafe-cities-v2.webp",
+    image: "/poi-images/spain-getafe-cities-v2.webp",
 },  {
     id: "spain-burgos-cities-v2",
     parent: "ES",
@@ -986,7 +986,7 @@ imageHint: "Burgos Cathedral Gothic facade sunset",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-burgos-cities-v2.webp",
+    image: "/poi-images/spain-burgos-cities-v2.webp",
 },  {
     id: "spain-albacete-cities-v2",
     parent: "ES",
@@ -1020,7 +1020,7 @@ imageHint: "Pasaje de Lodares Albacete gallery",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-albacete-cities-v2.webp",
+    image: "/poi-images/spain-albacete-cities-v2.webp",
 },  {
     id: "spain-castellon-cities-v2",
     parent: "ES",
@@ -1054,7 +1054,7 @@ imageHint: "El Fadri tower Castellon de la Plana",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-castellon-cities-v2.webp",
+    image: "/poi-images/spain-castellon-cities-v2.webp",
 },  {
     id: "spain-santander-cities-v2",
     parent: "ES",
@@ -1088,7 +1088,7 @@ imageHint: "Palacio de la Magdalena Santander aerial",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-santander-cities-v2.webp",
+    image: "/poi-images/spain-santander-cities-v2.webp",
 },  {
     id: "spain-alcorcon-cities-v2",
     parent: "ES",
@@ -1122,7 +1122,7 @@ imageHint: "Valderas Castles Alcorcon building",
       ro: ["Numele Alcorcón derivă cel mai probabil din arabul 'al-qulaya', însemnând mică cetate.", "Castelele Valderas au fost construite între 1917 și 1918 de marchizul de Valderas.", "Orașul găzduiește MAVA, un muzeu dedicat exclusiv artei contemporane în sticlă.", "Populația orașului a explodat în anii '70, ajungând la peste 140.000 de locuitori.", "Biserica Santa María la Blanca este declarată monument de interes cultural.", "Alcorcón este unul dintre nodurile principale ale liniei de metrou circulare Metrosur."],
       en: ["Alcorcón's name likely originates from the Arabic word for 'the little fortress.'", "The Valderas Castles were built in 1917 in a Saxon Gothic architectural style.", "The city is home to the MAVA Museum, featuring contemporary glass art.", "The population grew from roughly 700 residents in 1900 to over 170,000 today.", "The 16th-century Church of Santa María la Blanca is a key historic site.", "Alcorcón became a major satellite city during the industrialization of the 1960s."],
     },
-    , image: "/poi-images/spain-alcorcon-cities-v2.webp",
+    image: "/poi-images/spain-alcorcon-cities-v2.webp",
 },  {
     id: "spain-la-laguna-cities-v2",
     parent: "ES",
@@ -1156,7 +1156,7 @@ imageHint: "La Laguna old town colorful streets",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-la-laguna-cities-v2.webp",
+    image: "/poi-images/spain-la-laguna-cities-v2.webp",
 },  {
     id: "spain-logrono-cities-v2",
     parent: "ES",
@@ -1190,7 +1190,7 @@ imageHint: "Calle Laurel Logrono tapas bars",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-logrono-cities-v2.webp",
+    image: "/poi-images/spain-logrono-cities-v2.webp",
 },  {
     id: "spain-badajoz-cities-v2",
     parent: "ES",
@@ -1224,7 +1224,7 @@ imageHint: "Alcazaba of Badajoz Moorish walls",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-badajoz-cities-v2.webp",
+    image: "/poi-images/spain-badajoz-cities-v2.webp",
 },  {
     id: "spain-huelva-cities-v2",
     parent: "ES",
@@ -1258,7 +1258,7 @@ imageHint: "Monument to the Discovery Huelva sunset",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-huelva-cities-v2.webp",
+    image: "/poi-images/spain-huelva-cities-v2.webp",
 },  {
     id: "spain-marbella-cities-v2",
     parent: "ES",
@@ -1292,7 +1292,7 @@ imageHint: "Puerto Banus Marbella luxury yachts",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-marbella-cities-v2.webp",
+    image: "/poi-images/spain-marbella-cities-v2.webp",
 },  {
     id: "spain-lleida-cities-v2",
     parent: "ES",
@@ -1326,7 +1326,7 @@ imageHint: "Seu Vella Lleida cathedral on hill",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-lleida-cities-v2.webp",
+    image: "/poi-images/spain-lleida-cities-v2.webp",
 },  {
     id: "spain-dos-hermanas-cities-v2",
     parent: "ES",
@@ -1360,7 +1360,7 @@ imageHint: "Dos Hermanas city town hall facade",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-dos-hermanas-cities-v2.webp",
+    image: "/poi-images/spain-dos-hermanas-cities-v2.webp",
 },  {
     id: "spain-torrejon-cities-v2",
     parent: "ES",
@@ -1394,7 +1394,7 @@ imageHint: "Parque Europa Torrejon de Ardoz miniatures",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-torrejon-cities-v2.webp",
+    image: "/poi-images/spain-torrejon-cities-v2.webp",
 },  {
     id: "spain-parla-cities-v2",
     parent: "ES",
@@ -1428,7 +1428,7 @@ imageHint: "Parla Madrid tramway and street",
       ro: ["Parla a fost recunoscută oficial ca municipalitate în anul 1338.", "Populația orașului a trecut de la 10.000 la 100.000 de locuitori în doar 20 de ani.", "Sistemul de tramvai din Parla a fost inaugurat oficial în anul 2007.", "Situl arheologic Humanejos conține vestigii dintr-o perioadă de 5.000 de ani.", "Biserica Nuestra Señora de la Asunción a fost reconstruită în secolul al XVI-lea.", "Orașul este situat la o altitudine medie de 648 de metri deasupra mării."],
       en: ["Parla was officially established as a municipality in the year 1338.", "The city's population grew from roughly 12,000 in 1975 to over 130,000 today.", "The Parla Tram, launched in 2007, is the main mode of sustainable urban transport.", "Archaeological digs at Humanejos have uncovered artifacts from the Copper Age.", "The city is home to a significant number of residents of North African descent.", "Parla is located exactly on the route of the historic road between Madrid and Toledo."],
     },
-    , image: "/poi-images/spain-parla-cities-v2.webp",
+    image: "/poi-images/spain-parla-cities-v2.webp",
 },  {
     id: "spain-mataro-cities-v2",
     parent: "ES",
@@ -1462,7 +1462,7 @@ imageHint: "Nau Gaudi building Mataro architecture",
       ro: ["Prima linie de cale ferată din Spania a fost inaugurată între Barcelona și Mataró în 1848.", "Nau Gaudí, construită în 1883, este prima clădire proiectată de Antoni Gaudí.", "Ruinele orașului roman Iluro includ ziduri și case din secolul I î.Hr.", "Orașul deține un port maritim cu peste 1.000 de locuri de acostare.", "Josep Puig i Cadafalch, maestru al modernismului, s-a născut în Mataró în 1867.", "Bazilica Santa Maria de Mataró păstrează elemente din secolul al XV-lea."],
       en: ["Mataró welcomed the first train in Spain on October 28, 1848.", "The Nau Gaudí, built in 1883, is considered the first professional work of Antoni Gaudí.", "Roman Iluro was established around 80-70 BC on a strategic coastal site.", "The city's 'Les Santes' festival commemorates the patron saints Juliana and Semproniana.", "Mataró is home to the TecnoCampus, a major technology and business park.", "The city's textile tradition dates back to the introduction of steam power in 1839."],
     },
-    , image: "/poi-images/spain-mataro-cities-v2.webp",
+    image: "/poi-images/spain-mataro-cities-v2.webp",
 },  {
     id: "spain-algeciras-cities-v2",
     parent: "ES",
@@ -1496,7 +1496,7 @@ imageHint: "Algeciras port containers and ferry",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-algeciras-cities-v2.webp",
+    image: "/poi-images/spain-algeciras-cities-v2.webp",
 },  {
     id: "spain-alcobendas-cities-v2",
     parent: "ES",
@@ -1530,7 +1530,7 @@ imageHint: "Bonsai Museum Alcobendas garden",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-alcobendas-cities-v2.webp",
+    image: "/poi-images/spain-alcobendas-cities-v2.webp",
 },  {
     id: "spain-cadiz-cities-v2",
     parent: "ES",
@@ -1564,7 +1564,7 @@ imageHint: "Cadiz Cathedral dome from sea",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-cadiz-cities-v2.webp",
+    image: "/poi-images/spain-cadiz-cities-v2.webp",
 },  {
     id: "spain-jaen-cities-v2",
     parent: "ES",
@@ -1598,7 +1598,7 @@ imageHint: "Jaen Cathedral and Santa Catalina castle",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-jaen-cities-v2.webp",
+    image: "/poi-images/spain-jaen-cities-v2.webp",
 },  {
     id: "spain-reus-cities-v2",
     parent: "ES",
@@ -1632,7 +1632,7 @@ imageHint: "Gaudi Centre Reus facade",
       ro: ["Antoni Gaudí s-a născut în Reus pe 25 iunie 1852.", "În secolul al XVIII-lea, Reus fixa prețul internațional al băuturilor spirtoase.", "Institutul Pere Mata a fost precursorul spitalului modern de psihiatrie.", "Casa Navàs a fost construită între 1901 și 1908 de Lluís Domènech i Montaner.", "Reus este renumit pentru producția a peste 30 de mărci diferite de vermut local.", "Piața Prim este numită după generalul Juan Prim, o figură politică născută aici."],
       en: ["Antoni Gaudí was born in Reus in 1852 and lived there until age 16.", "Reus was once known as the 'Paris of Catalonia' due to its fashion and wealth.", "The Gaudí Centre Reus is the only museum in the world dedicated to his life.", "The Casa Navàs features original ceramics, glasswork, and furniture from 1908.", "The city became a major railway hub in 1856 with the line to Tarragona.", "The 'Vermut de Reus' is a protected traditional product of the city."],
     },
-    , image: "/poi-images/spain-reus-cities-v2.webp",
+    image: "/poi-images/spain-reus-cities-v2.webp",
 },  {
     id: "spain-ourense-cities-v2",
     parent: "ES",
@@ -1666,7 +1666,7 @@ imageHint: "As Burgas thermal springs Ourense",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-ourense-cities-v2.webp",
+    image: "/poi-images/spain-ourense-cities-v2.webp",
 },  {
     id: "spain-tarragona-cities-v2",
     parent: "ES",
@@ -1700,7 +1700,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-tarragona-cities-v2.webp",
+    image: "/poi-images/spain-tarragona-cities-v2.webp",
 },
   {
     id: "spain-girona-cities-v2",

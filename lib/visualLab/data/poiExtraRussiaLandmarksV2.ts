@@ -34,7 +34,7 @@ imageHint: "Saint Basil's Cathedral Moscow Red Square colorful domes",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-saint-basils-cathedral-landmarks-v2.webp",
+    image: "/poi-images/russia-saint-basils-cathedral-landmarks-v2.webp",
 },  {
     id: "russia-hermitage-museum-landmarks-v2",
     parent: "RU",
@@ -68,7 +68,7 @@ imageHint: "Winter Palace Hermitage Museum Saint Petersburg green facade",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-hermitage-museum-landmarks-v2.webp",
+    image: "/poi-images/russia-hermitage-museum-landmarks-v2.webp",
 },  {
     id: "russia-motherland-calls-landmarks-v2",
     parent: "RU",
@@ -102,7 +102,7 @@ imageHint: "The Motherland Calls statue Volgograd Mamayev Kurgan",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-motherland-calls-landmarks-v2.webp",
+    image: "/poi-images/russia-motherland-calls-landmarks-v2.webp",
 },  {
     id: "russia-savior-on-spilled-blood-landmarks-v2",
     parent: "RU",
@@ -136,7 +136,7 @@ imageHint: "Church of the Savior on Spilled Blood Saint Petersburg mosaics",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-savior-on-spilled-blood-landmarks-v2.webp",
+    image: "/poi-images/russia-savior-on-spilled-blood-landmarks-v2.webp",
 },  {
     id: "russia-bolshoi-theatre-landmarks-v2",
     parent: "RU",
@@ -170,7 +170,7 @@ imageHint: "Bolshoi Theatre Moscow facade and Quadriga statue",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-bolshoi-theatre-landmarks-v2.webp",
+    image: "/poi-images/russia-bolshoi-theatre-landmarks-v2.webp",
 },  {
     id: "russia-ostankino-tower-landmarks-v2",
     parent: "RU",
@@ -204,7 +204,7 @@ imageHint: "Ostankino Tower Moscow tall structure",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-ostankino-tower-landmarks-v2.webp",
+    image: "/poi-images/russia-ostankino-tower-landmarks-v2.webp",
 },  {
     id: "russia-christ-the-saviour-cathedral-landmarks-v2",
     parent: "RU",
@@ -238,7 +238,7 @@ imageHint: "Cathedral of Christ the Saviour Moscow white walls golden domes",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-christ-the-saviour-cathedral-landmarks-v2.webp",
+    image: "/poi-images/russia-christ-the-saviour-cathedral-landmarks-v2.webp",
 },  {
     id: "russia-smolny-convent-landmarks-v2",
     parent: "RU",
@@ -272,7 +272,7 @@ imageHint: "Smolny Convent Saint Petersburg blue and white Baroque",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-smolny-convent-landmarks-v2.webp",
+    image: "/poi-images/russia-smolny-convent-landmarks-v2.webp",
 },  {
     id: "russia-pskov-krom-landmarks-v2",
     parent: "RU",
@@ -306,7 +306,7 @@ imageHint: "Pskov Krom fortress walls and river",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-pskov-krom-landmarks-v2.webp",
+    image: "/poi-images/russia-pskov-krom-landmarks-v2.webp",
 },  {
     id: "russia-rostov-kremlin-landmarks-v2",
     parent: "RU",
@@ -340,7 +340,7 @@ imageHint: "Rostov Kremlin white walls and silver domes",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-rostov-kremlin-landmarks-v2.webp",
+    image: "/poi-images/russia-rostov-kremlin-landmarks-v2.webp",
 },  {
     id: "russia-kul-sharif-mosque-landmarks-v2",
     parent: "RU",
@@ -374,7 +374,7 @@ imageHint: "Kul Sharif Mosque Kazan blue roof white walls",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-kul-sharif-mosque-landmarks-v2.webp",
+    image: "/poi-images/russia-kul-sharif-mosque-landmarks-v2.webp",
 },  {
     id: "russia-gum-landmarks-v2",
     parent: "RU",
@@ -408,7 +408,7 @@ imageHint: "GUM department store Moscow interior glass roof",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-gum-landmarks-v2.webp",
+    image: "/poi-images/russia-gum-landmarks-v2.webp",
 },  {
     id: "russia-mariinsky-theatre-landmarks-v2",
     parent: "RU",
@@ -442,7 +442,7 @@ imageHint: "Mariinsky Theatre Saint Petersburg facade",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-mariinsky-theatre-landmarks-v2.webp",
+    image: "/poi-images/russia-mariinsky-theatre-landmarks-v2.webp",
 },  {
     id: "russia-palace-bridge-landmarks-v2",
     parent: "RU",
@@ -476,7 +476,7 @@ imageHint: "Palace Bridge Saint Petersburg open at night",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-palace-bridge-landmarks-v2.webp",
+    image: "/poi-images/russia-palace-bridge-landmarks-v2.webp",
 },  {
     id: "russia-peter-the-great-monument-landmarks-v2",
     parent: "RU",
@@ -510,7 +510,7 @@ imageHint: "Peter the Great Monument Moscow river ship",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-peter-the-great-monument-landmarks-v2.webp",
+    image: "/poi-images/russia-peter-the-great-monument-landmarks-v2.webp",
 },  {
     id: "russia-church-of-ascension-kolomenskoye-landmarks-v2",
     parent: "RU",
@@ -544,7 +544,7 @@ imageHint: "Church of the Ascension Kolomenskoye tent roof",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-church-of-ascension-kolomenskoye-landmarks-v2.webp",
+    image: "/poi-images/russia-church-of-ascension-kolomenskoye-landmarks-v2.webp",
 },
   {
     id: "russia-novodevichy-convent-landmarks-v2",
@@ -613,7 +613,7 @@ imageHint: "State Historical Museum red brick building on Red Square Moscow",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-state-historical-museum-landmarks-v2.webp",
+    image: "/poi-images/russia-state-historical-museum-landmarks-v2.webp",
 },  {
     id: "russia-alexander-palace-landmarks-v2",
     parent: "RU",
@@ -647,7 +647,7 @@ imageHint: "Alexander Palace Neoclassical facade in Tsarskoye Selo",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-alexander-palace-landmarks-v2.webp",
+    image: "/poi-images/russia-alexander-palace-landmarks-v2.webp",
 },
   {
     id: "russia-saint-isaacs-cathedral-landmarks-v2",
@@ -716,7 +716,7 @@ imageHint: "Kazan Cathedral Saint Petersburg colonnade view",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-kazan-cathedral-landmarks-v2.webp",
+    image: "/poi-images/russia-kazan-cathedral-landmarks-v2.webp",
 },  {
     id: "russia-tsaritsyno-palace-landmarks-v2",
     parent: "RU",
@@ -750,7 +750,7 @@ imageHint: "Tsaritsyno Palace red brick architecture Moscow",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-tsaritsyno-palace-landmarks-v2.webp",
+    image: "/poi-images/russia-tsaritsyno-palace-landmarks-v2.webp",
 },  {
     id: "russia-tretyakov-gallery-landmarks-v2",
     parent: "RU",
@@ -784,7 +784,7 @@ imageHint: "Tretyakov Gallery facade in Moscow",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-tretyakov-gallery-landmarks-v2.webp",
+    image: "/poi-images/russia-tretyakov-gallery-landmarks-v2.webp",
 },  {
     id: "russia-russian-museum-landmarks-v2",
     parent: "RU",
@@ -818,7 +818,7 @@ imageHint: "State Russian Museum Mikhailovsky Palace Saint Petersburg",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-russian-museum-landmarks-v2.webp",
+    image: "/poi-images/russia-russian-museum-landmarks-v2.webp",
 },  {
     id: "russia-tobolsk-kremlin-landmarks-v2",
     parent: "RU",
@@ -852,7 +852,7 @@ imageHint: "Tobolsk Kremlin white stone walls Siberia",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-tobolsk-kremlin-landmarks-v2.webp",
+    image: "/poi-images/russia-tobolsk-kremlin-landmarks-v2.webp",
 },  {
     id: "russia-russky-bridge-landmarks-v2",
     parent: "RU",
@@ -886,7 +886,7 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-russky-bridge-landmarks-v2.webp",
+    image: "/poi-images/russia-russky-bridge-landmarks-v2.webp",
 },  {
     id: "russia-tula-kremlin-landmarks-v2",
     parent: "RU",
@@ -920,7 +920,7 @@ imageHint: "Tula Kremlin red brick walls and towers",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-tula-kremlin-landmarks-v2.webp",
+    image: "/poi-images/russia-tula-kremlin-landmarks-v2.webp",
 },  {
     id: "russia-kuskovo-estate-landmarks-v2",
     parent: "RU",
@@ -954,7 +954,7 @@ imageHint: "Kuskovo Estate pink palace and pond",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-kuskovo-estate-landmarks-v2.webp",
+    image: "/poi-images/russia-kuskovo-estate-landmarks-v2.webp",
 },  {
     id: "russia-nizhny-novgorod-kremlin-landmarks-v2",
     parent: "RU",
@@ -988,7 +988,7 @@ imageHint: "Nizhny Novgorod Kremlin walls on a hill",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-nizhny-novgorod-kremlin-landmarks-v2.webp",
+    image: "/poi-images/russia-nizhny-novgorod-kremlin-landmarks-v2.webp",
 },  {
     id: "russia-smolensk-fortress-wall-landmarks-v2",
     parent: "RU",

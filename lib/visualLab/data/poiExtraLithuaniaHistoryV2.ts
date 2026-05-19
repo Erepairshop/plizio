@@ -34,7 +34,7 @@ imageHint: "Kernavė hillforts aerial view green landscape",
       ro: ["Kernavė a fost inclus în Lista Patrimoniului Mondial UNESCO în anul 2004.", "Situl ocupă o suprafață de aproximativ 194 de hectare în valea râului Neris.", "Este singurul loc din țările baltice cu cinci movile de fortificație adiacente.", "Descoperirile arheologice atestă locuirea încă din mileniul al IX-lea î.Hr.", "În anul 1390, orașul a fost ars complet de către cavalerii teutoni.", "Muzeul modern de la fața locului expune peste 20.000 de artefacte arheologice."],
       en: ["Kernavė was inscribed on the UNESCO World Heritage List in 2004.", "The site covers an area of approximately 194 hectares in the Neris valley.", "It is the only place in the Baltics featuring five adjacent hill-forts.", "Archaeological evidence shows human habitation since the 9th millennium BC.", "The town was completely burned by the Teutonic Knights in 1390.", "The on-site modern museum displays over 20,000 archaeological exhibits."],
     },
-    , image: "/poi-images/lithuania-kernave-archaeological-site-history-v2.webp",
+    image: "/poi-images/lithuania-kernave-archaeological-site-history-v2.webp",
 },  {
     id: "lithuania-trakai-island-castle-history-v2",
     parent: "LT",
@@ -102,7 +102,7 @@ imageHint: "Vilnius Old Town aerial view red roofs churches",
       ro: ["Orașul vechi cuprinde 74 de cartiere cu un total de 1.487 de clădiri istorice.", "Universitatea din Vilnius a fost fondată în 1579 și este una dintre cele mai vechi din Europa.", "Strada Pilies este cea mai veche și cea mai importantă stradă din centrul istoric.", "Vilnius a fost considerat istoric 'Ierusalimul Nordului' datorită culturii sale evreiești.", "Biserica Sfânta Ana impresionează prin utilizarea a 33 de tipuri diferite de cărămizi.", "Cartierul Užupis din orașul vechi s-a declarat republică independentă în 1997."],
       en: ["The Old Town consists of 74 quarters with a total of 1,487 historic buildings.", "Vilnius University was founded in 1579 and is one of the oldest in Europe.", "Pilies Street is the oldest and most prominent street in the historic center.", "Vilnius was historically known as the 'Jerusalem of the North' for its Jewish culture.", "St. Anne's Church is famous for the use of 33 different types of bricks in its facade.", "The Užupis district within the Old Town declared itself an independent republic in 1997."],
     },
-    , image: "/poi-images/lithuania-vilnius-old-town-history-v2.webp",
+    image: "/poi-images/lithuania-vilnius-old-town-history-v2.webp",
 },  {
     id: "lithuania-ninth-fort-history-v2",
     parent: "LT",
@@ -136,7 +136,7 @@ imageHint: "Kaunas Ninth Fort monument massive concrete sculpture",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-ninth-fort-history-v2.webp",
+    image: "/poi-images/lithuania-ninth-fort-history-v2.webp",
 },  {
     id: "lithuania-gediminas-tower-history-v2",
     parent: "LT",
@@ -170,7 +170,7 @@ imageHint: "Gediminas Tower Vilnius brick tower on hill",
       ro: ["Turnul are o înălțime de aproximativ 20 de metri și are trei etaje.", "Gediminas a fondat Vilnius conform legendei după ce a visat un lup de fier.", "Primul drapel lituanian a fost arborat pe turn la 1 ianuarie 1919.", "În anul 1995, turnul a fost renovat extensiv pentru a-i asigura stabilitatea.", "Dealul castelului este accesibil cu un funicular din curtea Muzeului Național.", "Turnul este reprezentat pe multe monede și bancnote istorice ale Lituaniei."],
       en: ["The tower stands approximately 20 meters tall and consists of three floors.", "Gediminas founded Vilnius according to legend after dreaming of an iron wolf.", "The first Lithuanian flag was hoisted on the tower on January 1, 1919.", "In 1995, the tower underwent extensive renovation to ensure its stability.", "The Castle Hill is accessible via a funicular from the National Museum courtyard.", "The tower is featured on many historical Lithuanian coins and banknotes."],
     },
-    , image: "/poi-images/lithuania-gediminas-tower-history-v2.webp",
+    image: "/poi-images/lithuania-gediminas-tower-history-v2.webp",
 },  {
     id: "lithuania-palace-grand-dukes-history-v2",
     parent: "LT",
@@ -204,7 +204,7 @@ imageHint: "Palace of the Grand Dukes Vilnius courtyard architecture",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-palace-grand-dukes-history-v2.webp",
+    image: "/poi-images/lithuania-palace-grand-dukes-history-v2.webp",
 },  {
     id: "lithuania-medininkai-castle-history-v2",
     parent: "LT",
@@ -238,7 +238,7 @@ imageHint: "Medininkai Castle brick walls and tower aerial",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-medininkai-castle-history-v2.webp",
+    image: "/poi-images/lithuania-medininkai-castle-history-v2.webp",
 },  {
     id: "lithuania-pazaislis-monastery-history-v2",
     parent: "LT",
@@ -272,7 +272,7 @@ imageHint: "Pažaislis Monastery Baroque church facade dome",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-pazaislis-monastery-history-v2.webp",
+    image: "/poi-images/lithuania-pazaislis-monastery-history-v2.webp",
 },  {
     id: "lithuania-birzai-castle-history-v2",
     parent: "LT",
@@ -306,7 +306,7 @@ imageHint: "Biržai Castle white walls bridge reflection",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-birzai-castle-history-v2.webp",
+    image: "/poi-images/lithuania-birzai-castle-history-v2.webp",
 },  {
     id: "lithuania-paneriai-memorial-history-v2",
     parent: "LT",
@@ -340,7 +340,7 @@ imageHint: "Paneriai Memorial stone monument forest path",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-paneriai-memorial-history-v2.webp",
+    image: "/poi-images/lithuania-paneriai-memorial-history-v2.webp",
 },  {
     id: "lithuania-raudone-castle-history-v2",
     parent: "LT",
@@ -374,7 +374,7 @@ imageHint: "Raudonė Castle red brick tower river view",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-raudone-castle-history-v2.webp",
+    image: "/poi-images/lithuania-raudone-castle-history-v2.webp",
 },  {
     id: "lithuania-kedainiai-old-town-history-v2",
     parent: "LT",
@@ -408,7 +408,7 @@ imageHint: "Kėdainiai Old Town market square colorful houses",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-kedainiai-old-town-history-v2.webp",
+    image: "/poi-images/lithuania-kedainiai-old-town-history-v2.webp",
 },  {
     id: "lithuania-stelmuze-oak-site-history-v2",
     parent: "LT",
@@ -442,7 +442,7 @@ imageHint: "Stelmužė Oak massive old tree Lithuania",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-stelmuze-oak-site-history-v2.webp",
+    image: "/poi-images/lithuania-stelmuze-oak-site-history-v2.webp",
 },  {
     id: "lithuania-apuole-hillfort-history-v2",
     parent: "LT",
@@ -476,7 +476,7 @@ imageHint: "Apuolė hillfort green plateau landscape",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-apuole-hillfort-history-v2.webp",
+    image: "/poi-images/lithuania-apuole-hillfort-history-v2.webp",
 },  {
     id: "lithuania-pakruojis-manor-history-v2",
     parent: "LT",
@@ -510,7 +510,7 @@ imageHint: "Pakruojis Manor neoclassical architecture bridge",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-pakruojis-manor-history-v2.webp",
+    image: "/poi-images/lithuania-pakruojis-manor-history-v2.webp",
 },  {
     id: "lithuania-panemune-castle-history-v2",
     parent: "LT",
@@ -544,7 +544,7 @@ imageHint: "Panemunė Castle Renaissance towers courtyard",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-panemune-castle-history-v2.webp",
+    image: "/poi-images/lithuania-panemune-castle-history-v2.webp",
 },  {
     id: "lithuania-klaipeda-castle-history-v2",
     parent: "LT",
@@ -612,7 +612,7 @@ imageHint: "Užutrakis Manor white neoclassical facade lake",
       ro: ["Conacul a fost construit între anii 1897 și 1902.", "Parcul se întinde pe o suprafață de aproximativ 80 de hectare și are 22 de iazuri.", "Arhitectul Édouard André a proiectat peste 100 de parcuri în lume, trei în Lituania.", "Familia Tyszkiewicz a deținut proprietatea până la începutul celui de-al Doilea Război Mondial.", "Decorul interior a fost realizat în stilul Ludovic al XVI-lea.", "De pe malul proprietății se oferă cea mai bună vedere asupra castelului Trakai."],
       en: ["The manor house was built between 1897 and 1902.", "The park covers an area of about 80 hectares and features 22 ponds.", "Architect Édouard André designed over 100 parks worldwide, three in Lithuania.", "The Tyszkiewicz family owned the estate until the start of World War II.", "The interior decoration was designed in the Louis XVI style.", "The shore of the estate offers the best view of the Trakai Island Castle."],
     },
-    , image: "/poi-images/lithuania-uzutrakis-manor-history-v2.webp",
+    image: "/poi-images/lithuania-uzutrakis-manor-history-v2.webp",
 },  {
     id: "lithuania-cold-war-museum-history-v2",
     parent: "LT",
@@ -646,7 +646,7 @@ imageHint: "Cold War Museum Lithuania missile silo underground",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-cold-war-museum-history-v2.webp",
+    image: "/poi-images/lithuania-cold-war-museum-history-v2.webp",
 },  {
     id: "lithuania-liubavas-manor-history-v2",
     parent: "LT",
@@ -680,7 +680,7 @@ imageHint: "Liubavas Manor stone watermill museum",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-liubavas-manor-history-v2.webp",
+    image: "/poi-images/lithuania-liubavas-manor-history-v2.webp",
 },  {
     id: "lithuania-norviliskes-castle-history-v2",
     parent: "LT",
@@ -714,7 +714,7 @@ imageHint: "Norviliškės Castle Renaissance architecture facade",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-norviliskes-castle-history-v2.webp",
+    image: "/poi-images/lithuania-norviliskes-castle-history-v2.webp",
 },  {
     id: "lithuania-taurage-castle-history-v2",
     parent: "LT",
@@ -782,7 +782,7 @@ imageHint: "Siesikai Castle Renaissance building lake view",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-siesikai-castle-history-v2.webp",
+    image: "/poi-images/lithuania-siesikai-castle-history-v2.webp",
 },  {
     id: "lithuania-rumsiskes-museum-history-v2",
     parent: "LT",
@@ -816,7 +816,7 @@ imageHint: "Rumšiškės Open Air Museum wooden farmhouses",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-rumsiskes-museum-history-v2.webp",
+    image: "/poi-images/lithuania-rumsiskes-museum-history-v2.webp",
 },  {
     id: "lithuania-plunge-manor-history-v2",
     parent: "LT",
@@ -884,7 +884,7 @@ imageHint: "Zapyškis Church brick Gothic river meadow",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-zapyskis-church-history-v2.webp",
+    image: "/poi-images/lithuania-zapyskis-church-history-v2.webp",
 },  {
     id: "lithuania-saule-battlefield-history-v2",
     parent: "LT",
@@ -918,7 +918,7 @@ imageHint: "Battle of Saulė memorial wooden sculptures",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-saule-battlefield-history-v2.webp",
+    image: "/poi-images/lithuania-saule-battlefield-history-v2.webp",
 },  {
     id: "lithuania-varniai-diocese-history-v2",
     parent: "LT",
@@ -952,7 +952,7 @@ imageHint: "Varniai Cathedral church history Lithuania",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-varniai-diocese-history-v2.webp",
+    image: "/poi-images/lithuania-varniai-diocese-history-v2.webp",
 },  {
     id: "lithuania-kretinga-manor-history-v2",
     parent: "LT",
@@ -986,7 +986,7 @@ imageHint: "Kretinga Manor glass winter garden palace",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-kretinga-manor-history-v2.webp",
+    image: "/poi-images/lithuania-kretinga-manor-history-v2.webp",
 },  {
     id: "lithuania-radviliskis-battlefield-history-v2",
     parent: "LT",

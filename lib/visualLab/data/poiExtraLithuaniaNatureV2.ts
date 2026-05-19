@@ -34,7 +34,7 @@ imageHint: "Aerial view of the Nemunas river loops in Lithuania",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-nemunas-river-nature-v2.webp",
+    image: "/poi-images/lithuania-nemunas-river-nature-v2.webp",
 },  {
     id: "lithuania-neris-river-nature-v2",
     parent: "LT",
@@ -68,7 +68,7 @@ imageHint: "The Neris river flowing through Vilnius city center",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-neris-river-nature-v2.webp",
+    image: "/poi-images/lithuania-neris-river-nature-v2.webp",
 },  {
     id: "lithuania-druksiai-lake-nature-v2",
     parent: "LT",
@@ -102,7 +102,7 @@ imageHint: "Wide view of Lake Druksiai near the border",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-druksiai-lake-nature-v2.webp",
+    image: "/poi-images/lithuania-druksiai-lake-nature-v2.webp",
 },  {
     id: "lithuania-tauragnas-lake-nature-v2",
     parent: "LT",
@@ -136,7 +136,7 @@ imageHint: "Deep blue water of Lake Tauragnas in the forest",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-tauragnas-lake-nature-v2.webp",
+    image: "/poi-images/lithuania-tauragnas-lake-nature-v2.webp",
 },  {
     id: "lithuania-asveja-lake-nature-v2",
     parent: "LT",
@@ -170,7 +170,7 @@ imageHint: "The wooden Dubingiai bridge over Lake Asveja",
       ro: ["Lungimea totală a lacului, incluzând toate ramificațiile, este de aproximativ 29,7 kilometri.", "Cu o adâncime de 50,2 metri, este al treilea cel mai adânc lac din Lituania.", "Podul Dubingiai a fost primul pod peste un lac construit în Lituania.", "Există aproximativ 30 de insule în lacul Asveja, unele fiind protejate.", "Lacul s-a format prin acțiunea erozivă a apelor provenite din topirea ghețarilor.", "Cercetările subacvatice au descoperit resturi de poduri și așezări din secolul al XVI-lea."],
       en: ["The total length of the lake, including all its branches, is approximately 29.7 kilometers.", "At 50.2 meters, it is the third deepest lake in Lithuania.", "The Dubingiai bridge was the first bridge ever built across a lake in Lithuania.", "There are about 30 islands in Lake Asveja, some of which are protected nature reserves.", "The lake was formed by the erosive action of subglacial meltwater streams.", "Archaeological divers have found remains of a 16th-century bridge on the lake bed."],
     },
-    , image: "/poi-images/lithuania-asveja-lake-nature-v2.webp",
+    image: "/poi-images/lithuania-asveja-lake-nature-v2.webp",
 },  {
     id: "lithuania-parnidis-dune-nature-v2",
     parent: "LT",
@@ -204,7 +204,7 @@ imageHint: "Sundial monument on top of Parnidis Dune",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-parnidis-dune-nature-v2.webp",
+    image: "/poi-images/lithuania-parnidis-dune-nature-v2.webp",
 },  {
     id: "lithuania-vente-cape-nature-v2",
     parent: "LT",
@@ -238,7 +238,7 @@ imageHint: "Lighthouse and bird traps at Vente Cape",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-vente-cape-nature-v2.webp",
+    image: "/poi-images/lithuania-vente-cape-nature-v2.webp",
 },  {
     id: "lithuania-rusne-island-nature-v2",
     parent: "LT",
@@ -306,7 +306,7 @@ imageHint: "Observation tower on the green Aukstojas Hill",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-aukstojas-hill-nature-v2.webp",
+    image: "/poi-images/lithuania-aukstojas-hill-nature-v2.webp",
 },  {
     id: "lithuania-galve-lake-nature-v2",
     parent: "LT",
@@ -340,7 +340,7 @@ imageHint: "Aerial view of Lake Galve with Trakai Castle",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-galve-lake-nature-v2.webp",
+    image: "/poi-images/lithuania-galve-lake-nature-v2.webp",
 },  {
     id: "lithuania-vistytis-lake-nature-v2",
     parent: "LT",
@@ -374,7 +374,7 @@ imageHint: "Panoramic view of Lake Vistytis at sunset",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-vistytis-lake-nature-v2.webp",
+    image: "/poi-images/lithuania-vistytis-lake-nature-v2.webp",
 },  {
     id: "lithuania-dusia-lake-nature-v2",
     parent: "LT",
@@ -408,7 +408,7 @@ imageHint: "Sandy beach of Lake Dusia in Lithuania",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-dusia-lake-nature-v2.webp",
+    image: "/poi-images/lithuania-dusia-lake-nature-v2.webp",
 },  {
     id: "lithuania-sartai-lake-nature-v2",
     parent: "LT",
@@ -442,7 +442,7 @@ imageHint: "Winter horse racing on the frozen Lake Sartai",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-sartai-lake-nature-v2.webp",
+    image: "/poi-images/lithuania-sartai-lake-nature-v2.webp",
 },  {
     id: "lithuania-plateliai-lake-nature-v2",
     parent: "LT",
@@ -476,7 +476,7 @@ imageHint: "Islands on the blue Lake Plateliai in Samogitia",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-plateliai-lake-nature-v2.webp",
+    image: "/poi-images/lithuania-plateliai-lake-nature-v2.webp",
 },  {
     id: "lithuania-zuvintas-bog-nature-v2",
     parent: "LT",
@@ -510,7 +510,7 @@ imageHint: "Birdwatching tower at the Zuvintas wetlands",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-zuvintas-bog-nature-v2.webp",
+    image: "/poi-images/lithuania-zuvintas-bog-nature-v2.webp",
 },  {
     id: "lithuania-cepkeliai-marsh-nature-v2",
     parent: "LT",
@@ -544,7 +544,7 @@ imageHint: "Wooden walkway through the Cepkeliai raised bog",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-cepkeliai-marsh-nature-v2.webp",
+    image: "/poi-images/lithuania-cepkeliai-marsh-nature-v2.webp",
 },  {
     id: "lithuania-labanoras-forest-nature-v2",
     parent: "LT",
@@ -578,7 +578,7 @@ imageHint: "Dense pine forest and lake in Labanoras",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-labanoras-forest-nature-v2.webp",
+    image: "/poi-images/lithuania-labanoras-forest-nature-v2.webp",
 },  {
     id: "lithuania-punia-forest-nature-v2",
     parent: "LT",
@@ -612,7 +612,7 @@ imageHint: "Ancient oak trees in the Punia Forest",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-punia-forest-nature-v2.webp",
+    image: "/poi-images/lithuania-punia-forest-nature-v2.webp",
 },  {
     id: "lithuania-anyksciai-treetop-path-nature-v2",
     parent: "LT",
@@ -646,7 +646,7 @@ imageHint: "Modern treetop walking path structure in a pine forest",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-anyksciai-treetop-path-nature-v2.webp",
+    image: "/poi-images/lithuania-anyksciai-treetop-path-nature-v2.webp",
 },  {
     id: "lithuania-puntukas-stone-nature-v2",
     parent: "LT",
@@ -680,7 +680,7 @@ imageHint: "Massive glacial boulder in the forest with carvings",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-puntukas-stone-nature-v2.webp",
+    image: "/poi-images/lithuania-puntukas-stone-nature-v2.webp",
 },  {
     id: "lithuania-cows-cave-nature-v2",
     parent: "LT",
@@ -714,7 +714,7 @@ imageHint: "Deep circular sinkhole in the ground with water at bottom",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-cows-cave-nature-v2.webp",
+    image: "/poi-images/lithuania-cows-cave-nature-v2.webp",
 },  {
     id: "lithuania-juniper-valley-nature-v2",
     parent: "LT",
@@ -748,7 +748,7 @@ imageHint: "Wooden path overlooking a valley with junipers and a river",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-juniper-valley-nature-v2.webp",
+    image: "/poi-images/lithuania-juniper-valley-nature-v2.webp",
 },  {
     id: "lithuania-dubysa-valley-nature-v2",
     parent: "LT",
@@ -782,7 +782,7 @@ imageHint: "Hilly landscape of the Dubysa river valley",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-dubysa-valley-nature-v2.webp",
+    image: "/poi-images/lithuania-dubysa-valley-nature-v2.webp",
 },  {
     id: "lithuania-nemunas-loops-nature-v2",
     parent: "LT",
@@ -816,7 +816,7 @@ imageHint: "Aerial view of a massive river loop in a forest",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-nemunas-loops-nature-v2.webp",
+    image: "/poi-images/lithuania-nemunas-loops-nature-v2.webp",
 },  {
     id: "lithuania-sesupe-river-nature-v2",
     parent: "LT",
@@ -850,7 +850,7 @@ imageHint: "Calm Sesupe river at the border area",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-sesupe-river-nature-v2.webp",
+    image: "/poi-images/lithuania-sesupe-river-nature-v2.webp",
 },  {
     id: "lithuania-lusiai-lake-nature-v2",
     parent: "LT",
@@ -884,7 +884,7 @@ imageHint: "Kayaks on the shore of Lake Lusiai",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-lusiai-lake-nature-v2.webp",
+    image: "/poi-images/lithuania-lusiai-lake-nature-v2.webp",
 },  {
     id: "lithuania-musos-tyrelis-nature-v2",
     parent: "LT",
@@ -918,7 +918,7 @@ imageHint: "Extremely long wooden boardwalk through a bog",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-musos-tyrelis-nature-v2.webp",
+    image: "/poi-images/lithuania-musos-tyrelis-nature-v2.webp",
 },  {
     id: "lithuania-olando-kepure-nature-v2",
     parent: "LT",
@@ -952,7 +952,7 @@ imageHint: "Steep sandy cliff at the Baltic Sea shore",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-olando-kepure-nature-v2.webp",
+    image: "/poi-images/lithuania-olando-kepure-nature-v2.webp",
 },  {
     id: "lithuania-rambynas-hill-nature-v2",
     parent: "LT",

@@ -34,7 +34,7 @@ imageHint: "Low Tatras mountains landscape",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-low-tatras-national-park-life-v2.webp",
+    image: "/poi-images/slovakia-low-tatras-national-park-life-v2.webp",
 },  {
     id: "slovakia-slovak-paradise-national-park-life-v2",
     parent: "SK",
@@ -68,7 +68,7 @@ imageHint: "Wooden bridges in Slovak Paradise gorge",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-slovak-paradise-national-park-life-v2.webp",
+    image: "/poi-images/slovakia-slovak-paradise-national-park-life-v2.webp",
 },  {
     id: "slovakia-mala-fatra-national-park-life-v2",
     parent: "SK",
@@ -102,7 +102,7 @@ imageHint: "Malá Fatra mountain ridge",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-mala-fatra-national-park-life-v2.webp",
+    image: "/poi-images/slovakia-mala-fatra-national-park-life-v2.webp",
 },  {
     id: "slovakia-muranska-planina-national-park-life-v2",
     parent: "SK",
@@ -136,7 +136,7 @@ imageHint: "Muránska planina karst plateau",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-muranska-planina-national-park-life-v2.webp",
+    image: "/poi-images/slovakia-muranska-planina-national-park-life-v2.webp",
 },  {
     id: "slovakia-poloniny-national-park-life-v2",
     parent: "SK",
@@ -170,7 +170,7 @@ imageHint: "Primeval beech forest in Poloniny",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-poloniny-national-park-life-v2.webp",
+    image: "/poi-images/slovakia-poloniny-national-park-life-v2.webp",
 },  {
     id: "slovakia-slovak-karst-national-park-life-v2",
     parent: "SK",
@@ -204,7 +204,7 @@ imageHint: "Karst landscape in Slovakia",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-slovak-karst-national-park-life-v2.webp",
+    image: "/poi-images/slovakia-slovak-karst-national-park-life-v2.webp",
 },  {
     id: "slovakia-velka-fatra-national-park-life-v2",
     parent: "SK",
@@ -238,7 +238,7 @@ imageHint: "Veľká Fatra mountain meadows",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-velka-fatra-national-park-life-v2.webp",
+    image: "/poi-images/slovakia-velka-fatra-national-park-life-v2.webp",
 },  {
     id: "slovakia-bojnice-zoo-life-v2",
     parent: "SK",
@@ -272,7 +272,7 @@ imageHint: "Elephants in Bojnice Zoo",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-bojnice-zoo-life-v2.webp",
+    image: "/poi-images/slovakia-bojnice-zoo-life-v2.webp",
 },  {
     id: "slovakia-bratislava-zoo-life-v2",
     parent: "SK",
@@ -306,7 +306,7 @@ imageHint: "Tigers in Bratislava Zoo",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-bratislava-zoo-life-v2.webp",
+    image: "/poi-images/slovakia-bratislava-zoo-life-v2.webp",
 },  {
     id: "slovakia-kosice-zoo-life-v2",
     parent: "SK",
@@ -340,7 +340,7 @@ imageHint: "Bears in Košice Zoo enclosure",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-kosice-zoo-life-v2.webp",
+    image: "/poi-images/slovakia-kosice-zoo-life-v2.webp",
 },  {
     id: "slovakia-mlynany-arboretum-life-v2",
     parent: "SK",
@@ -374,7 +374,7 @@ imageHint: "Arboretum Mlyňany botanical garden",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-mlynany-arboretum-life-v2.webp",
+    image: "/poi-images/slovakia-mlynany-arboretum-life-v2.webp",
 },  {
     id: "slovakia-topolcianky-bison-park-life-v2",
     parent: "SK",
@@ -408,7 +408,7 @@ imageHint: "European bison in forest enclosure",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-topolcianky-bison-park-life-v2.webp",
+    image: "/poi-images/slovakia-topolcianky-bison-park-life-v2.webp",
 },  {
     id: "slovakia-morske-oko-lake-life-v2",
     parent: "SK",
@@ -442,7 +442,7 @@ imageHint: "Morské oko lake in Vihorlat forest",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-morske-oko-lake-life-v2.webp",
+    image: "/poi-images/slovakia-morske-oko-lake-life-v2.webp",
 },  {
     id: "slovakia-sur-nature-reserve-life-v2",
     parent: "SK",
@@ -476,7 +476,7 @@ imageHint: "Alder fen forest in Šúr",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-sur-nature-reserve-life-v2.webp",
+    image: "/poi-images/slovakia-sur-nature-reserve-life-v2.webp",
 },  {
     id: "slovakia-devinska-kobyla-life-v2",
     parent: "SK",
@@ -510,7 +510,7 @@ imageHint: "Sandberg fossils on Devínska Kobyla",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-devinska-kobyla-life-v2.webp",
+    image: "/poi-images/slovakia-devinska-kobyla-life-v2.webp",
 },  {
     id: "slovakia-latorica-protected-area-life-v2",
     parent: "SK",
@@ -544,7 +544,7 @@ imageHint: "Latorica river and wetlands",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-latorica-protected-area-life-v2.webp",
+    image: "/poi-images/slovakia-latorica-protected-area-life-v2.webp",
 },  {
     id: "slovakia-danube-floodplains-life-v2",
     parent: "SK",
@@ -578,7 +578,7 @@ imageHint: "Danube river floodplain forest",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-danube-floodplains-life-v2.webp",
+    image: "/poi-images/slovakia-danube-floodplains-life-v2.webp",
 },  {
     id: "slovakia-polana-protected-area-life-v2",
     parent: "SK",
@@ -612,7 +612,7 @@ imageHint: "Poľana mountain forest landscape",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-polana-protected-area-life-v2.webp",
+    image: "/poi-images/slovakia-polana-protected-area-life-v2.webp",
 },  {
     id: "slovakia-kysuce-protected-area-life-v2",
     parent: "SK",
@@ -646,7 +646,7 @@ imageHint: "Kysuce mountain village and meadows",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-kysuce-protected-area-life-v2.webp",
+    image: "/poi-images/slovakia-kysuce-protected-area-life-v2.webp",
 },  {
     id: "slovakia-horna-orava-protected-area-life-v2",
     parent: "SK",
@@ -680,7 +680,7 @@ imageHint: "Orava reservoir with mountains",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-horna-orava-protected-area-life-v2.webp",
+    image: "/poi-images/slovakia-horna-orava-protected-area-life-v2.webp",
 },  {
     id: "slovakia-male-karpaty-protected-area-life-v2",
     parent: "SK",
@@ -714,7 +714,7 @@ imageHint: "Small Carpathians forest and vineyard",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-male-karpaty-protected-area-life-v2.webp",
+    image: "/poi-images/slovakia-male-karpaty-protected-area-life-v2.webp",
 },  {
     id: "slovakia-vihorlat-protected-area-life-v2",
     parent: "SK",
@@ -748,7 +748,7 @@ imageHint: "Vihorlat mountains forest",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-vihorlat-protected-area-life-v2.webp",
+    image: "/poi-images/slovakia-vihorlat-protected-area-life-v2.webp",
 },  {
     id: "slovakia-badin-primeval-forest-life-v2",
     parent: "SK",
@@ -782,7 +782,7 @@ imageHint: "Old growth forest in Badín",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-badin-primeval-forest-life-v2.webp",
+    image: "/poi-images/slovakia-badin-primeval-forest-life-v2.webp",
 },  {
     id: "slovakia-dobroc-primeval-forest-life-v2",
     parent: "SK",
@@ -816,7 +816,7 @@ imageHint: "Giant primeval forest trees",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-dobroc-primeval-forest-life-v2.webp",
+    image: "/poi-images/slovakia-dobroc-primeval-forest-life-v2.webp",
 },  {
     id: "slovakia-stuzica-primeval-forest-life-v2",
     parent: "SK",
@@ -850,7 +850,7 @@ imageHint: "Stužica primeval forest interior",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-stuzica-primeval-forest-life-v2.webp",
+    image: "/poi-images/slovakia-stuzica-primeval-forest-life-v2.webp",
 },  {
     id: "slovakia-havesova-nature-reserve-life-v2",
     parent: "SK",
@@ -884,7 +884,7 @@ imageHint: "Tall beech trees in Havešová",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-havesova-nature-reserve-life-v2.webp",
+    image: "/poi-images/slovakia-havesova-nature-reserve-life-v2.webp",
 },  {
     id: "slovakia-rozok-nature-reserve-life-v2",
     parent: "SK",
@@ -918,7 +918,7 @@ imageHint: "Compact beech forest Rožok",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-rozok-nature-reserve-life-v2.webp",
+    image: "/poi-images/slovakia-rozok-nature-reserve-life-v2.webp",
 },  {
     id: "slovakia-maninska-tiesnava-life-v2",
     parent: "SK",

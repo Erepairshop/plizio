@@ -46,7 +46,7 @@ imageHint: "Purple heathland and pine trees in Hoge Kempen National Park",
       pt: ["Inaugurado como o primeiro parque nacional da Bélgica em março de 2006.", "Abrange uma área de mais de 12.000 hectares em Limburgo.", "Possui uma rede de mais de 220 quilómetros de trilhos para caminhadas marcados.", "O ponto mais alto é uma antiga escombreira mineira que atinge 102 metros.", "Lar de mais de 7.000 espécies registadas de flora e fauna.", "Inclui 6 portas de acesso principais com diferentes centros temáticos.", "Paisagem moldada pela mineração de carvão e cascalho do século XX."],
       fr: ["Inauguré comme premier parc national de Belgique en mars 2006.", "Couvre une superficie de plus de 12 000 hectares dans le Limbourg.", "Dispose d'un réseau de plus de 220 kilomètres de sentiers balisés.", "Le point culminant est un ancien terril minier atteignant 102 mètres.", "Abrite plus de 7 000 espèces recensées de flore et de faune.", "Comprend 6 portes d'accès principales avec différents centres thématiques.", "Paysage façonné par l'extraction de charbon et de gravier au XXe siècle."],
     }
-    , image: "/poi-images/belgium-hoge-kempen-life-v2.webp",
+    image: "/poi-images/belgium-hoge-kempen-life-v2.webp",
 },  {
     id: "belgium-het-zwin-life-v2",
     parent: "BE",
@@ -138,7 +138,7 @@ imageHint: "Giant panda in a thematic enclosure at Pairi Daiza",
       pt: ["Abrange uma área de 75 hectares na antiga propriedade da Abadia de Cambron, do século XII", "Acolhe mais de 7.000 animais representando mais de 700 espécies", "Apresenta o maior jardim chinês autêntico da Europa (4,5 hectares)", "Reprodução bem-sucedida de pandas gigantes com vários nascimentos desde 2016", "Eleito 'Melhor Zoo da Europa' consecutivamente em 2018, 2019 e 2020", "Inclui 'L'Oasis', um ecossistema tropical interior massivo de 4 hectares", "Recebe aproximadamente 2,3 milhões de visitantes anualmente"],
       fr: ["S'étend sur 75 hectares sur le domaine de l'ancienne abbaye de Cambron du XIIe siècle", "Héberge plus de 7 000 animaux représentant plus de 700 espèces", "Dispose du plus grand jardin chinois authentique d'Europe (4,5 hectares)", "Reproduction réussie de pandas géants avec plusieurs naissances depuis 2016", "Élu 'Meilleur zoo d'Europe' consécutivement en 2018, 2019 et 2020", "Comprend 'L'Oasis', un immense écosystème tropical intérieur de 4 hectares", "Accueille environ 2,3 millions de visiteurs par an"],
     }
-    , image: "/poi-images/belgium-pairi-daiza-life-v2.webp",
+    image: "/poi-images/belgium-pairi-daiza-life-v2.webp",
 },  {
     id: "belgium-antwerp-zoo-life-v2",
     parent: "BE",
@@ -231,7 +231,7 @@ imageHint: "Elephants in a naturalistic enclosure at Planckendael",
       pt: ["Adquirido em 1956 pela Real Sociedade Zoológica de Antuérpia", "Abrange uma área de parque de 46 hectares", "Dividido geograficamente em 5 áreas continentais distintas", "Mundialmente reconhecido pelo seu programa de sucesso de reprodução de bonobos", "Acolhe uma próspera colónia de voo livre com mais de 100 cegonhas-brancas", "Apresenta uma estufa maciça de 2.000 metros quadrados para a vida selvagem asiática", "Atrai aproximadamente 1 milhão de visitantes todos os anos"],
       fr: ["Acquis en 1956 par la Société Royale de Zoologie d'Anvers", "S'étend sur un vaste parc de 46 hectares", "Divisé géographiquement en 5 zones continentales distinctes", "Mondialement réputé pour son programme de reproduction de bonobos", "Abrite une colonie florissante en vol libre de plus de 100 cigognes blanches", "Comprend une serre massive de 2 000 mètres carrés pour la faune asiatique", "Attire environ 1 million de visiteurs chaque année"],
     }
-    , image: "/poi-images/belgium-planckendael-life-v2.webp",
+    image: "/poi-images/belgium-planckendael-life-v2.webp",
 },  {
     id: "belgium-meise-botanical-garden-life-v2",
     parent: "BE",
@@ -277,7 +277,7 @@ imageHint: "Large Victorian greenhouses at Meise Botanical Garden",
       pt: ["Abrange uma vasta propriedade histórica de 92 hectares.", "Cultiva mais de 18.000 espécies de plantas vivas de todo o mundo.", "Abriga um herbário massivo com mais de 4 milhões de espécimes secos.", "Apresenta o 'Palácio das Plantas', um enorme complexo de estufas de 1 hectare.", "Centrado no histórico Castelo de Bouchout, datado do século XII.", "Opera um banco de sementes de renome mundial para a conservação de espécies ameaçadas.", "Grande centro de investigação global para a botânica da África Central e tropical."],
       fr: ["S'étend sur un vaste domaine historique de 92 hectares.", "Cultive plus de 18 000 espèces de plantes vivantes du monde entier.", "Abrite un herbier massif avec plus de 4 millions de spécimens séchés.", "Comprend le 'Palais des Plantes', un immense complexe de serres d'un hectare.", "Centré autour du château historique de Bouchout, datant du XIIe siècle.", "Gère une banque de semences de renommée mondiale pour la conservation des espèces menacées.", "Centre de recherche mondial majeur pour la botanique d'Afrique centrale et tropicale."],
     }
-    , image: "/poi-images/belgium-meise-botanical-garden-life-v2.webp",
+    image: "/poi-images/belgium-meise-botanical-garden-life-v2.webp",
 },  {
     id: "belgium-high-fens-life-v2",
     parent: "BE",
@@ -511,7 +511,7 @@ imageHint: "European bison in a hilly landscape at Han Wildlife Park",
       pt: ["Estende-se por 250 hectares de paisagem cárstica no maciço de Boine", "Parte do Geoparque Global da UNESCO oficial Famenne-Ardenne", "Lar dos 'Big Five' da Europa (lobo, urso, lince, bisonte, glutão)", "Participa ativamente em programas europeus de reintrodução do bisonte", "Apresenta um trilho de 5 quilómetros com uma ponte suspensa de 200 metros", "A área foi moldada pelo fluxo subterrâneo do rio Lesse", "Mantém uma grande manada selvagem de raros cavalos de Przewalski"],
       fr: ["S'étend sur 250 hectares de paysage karstique sur le massif de Boine", "Fait partie de l'UNESCO Global Geopark Famenne-Ardenne officiel", "Abrite les « Big Five » d'Europe (loup, ours, lynx, bison, glouton)", "Participe activement aux programmes européens de réintroduction du bison", "Propose un sentier pédestre de 5 kilomètres avec une canopée de 200 mètres", "La zone a été entièrement façonnée par le cours souterrain de la Lesse", "Maintient un grand troupeau semi-sauvage de chevaux de Przewalski rares"],
     }
-    , image: "/poi-images/belgium-wildlife-park-han-life-v2.webp",
+    image: "/poi-images/belgium-wildlife-park-han-life-v2.webp",
 },  {
     id: "belgium-bourgoyen-ossemeersen-life-v2",
     parent: "BE",
@@ -557,7 +557,7 @@ imageHint: "Birdwatching hut overlooking a wetland area",
       pt: ["Estende-se por exatamente 230 hectares adjacentes à cidade de Gante", "Situada principalmente nas planícies de inundação históricas do rio Leie", "Mais de 30% da reserva inunda naturalmente durante os meses de inverno", "Local de invernada crucial que acolhe até 20.000 patos e aves aquáticas anualmente", "Possui um centro de visitantes de última geração inteiramente neutro em energia", "A paisagem consiste principalmente em prados húmidos históricos e canaviais densos", "Equipada com três trilhos circulares principais bem mantidos"],
       fr: ["S'étend sur exactement 230 hectares à proximité immédiate de la ville de Gand", "Située principalement dans les plaines inondables historiques de la Lys", "Plus de 30 % de la réserve est naturellement inondée pendant les mois d'hiver", "Site d'hivernage crucial accueillant jusqu'à 20 000 canards et oiseaux d'eau par an", "Dispose d'un centre de visiteurs de pointe entièrement neutre en énergie", "Le paysage se compose principalement de prairies humides historiques et de roselières denses", "Équipée de trois sentiers de randonnée circulaires principaux bien entretenus"],
     }
-    , image: "/poi-images/belgium-bourgoyen-ossemeersen-life-v2.webp",
+    image: "/poi-images/belgium-bourgoyen-ossemeersen-life-v2.webp",
 },  {
     id: "belgium-deux-ourthes-life-v2",
     parent: "BE",
@@ -603,7 +603,7 @@ imageHint: "Winding river through deep green forested valleys",
       pt: ["Abrange umas maciças 76.000 hectares no coração das Ardenas belgas", "Nomeado pela confluência dos rios Ourthe Oriental e Ocidental", "Apresenta o espetacular Rochedo de Hérou, uma falésia de quartzito com 80 metros de altura", "Alberga a barragem de Nisramont, que retém 3 milhões de metros cúbicos de água", "Proporciona habitat de reprodução crítico para a esquiva cegonha-preta", "Atravessado pelo Escapardenne Eislek Trail, um trilho de qualidade europeia", "Caracterizado por gargantas profundas, encostas íngremes e planaltos agrícolas elevados"],
       fr: ["S'étend sur 76 000 hectares au cœur des Ardennes belges", "Nommé d'après le confluent de l'Ourthe orientale et de l'Ourthe occidentale", "Présente le spectaculaire Rocher du Hérou, une falaise de quartzite de 80 mètres", "Abrite le barrage de Nisramont, qui retient 3 millions de mètres cubes d'eau", "Offre un habitat de reproduction essentiel pour la très discrète cigogne noire", "Traversé par l'Escapardenne Eislek Trail, un sentier européen de grande qualité", "Caractérizado par des ravins profonds, des pentes abruptes et de hauts plateaux"],
     }
-    , image: "/poi-images/belgium-deux-ourthes-life-v2.webp",
+    image: "/poi-images/belgium-deux-ourthes-life-v2.webp",
 },  {
     id: "belgium-viroin-hermeton-life-v2",
     parent: "BE",
@@ -649,7 +649,7 @@ imageHint: "Wild orchids growing on a limestone slope",
       pt: ["Abrange 12.000 hectares ao longo dos vales dos rios Viroin e Hermeton", "Caracterizado pela faixa geológica de calcário única 'Calestienne'", "Apresenta 'Fondrys' espetaculares (enormes fendas naturais de calcário e algares)", "O microclima suporta flora rara de estilo mediterrânico, incluindo orquídeas selvagens", "Reconhecido como o primeiro Destino Europeu de Excelência (EDEN) na Bélgica", "Altamente reconhecido entre entomólogos pela sua vasta diversidade de espécies de borboletas", "Integra florestas densas das Ardenas com prados calcários secos e ensolarados"],
       fr: ["S'étend sur 12 000 hectares le long des vallées du Viroin et de l'Hermeton", "Caractérisé par la bande géologique calcaire unique de la 'Calestienne'", "Présente des 'Fondrys' spectaculaires (gouffres et fissures naturels géants dans le calcaire)", "Le microclimat favorise une flore rare de type méditerranéen, dont des orchidées sauvages", "Reconnu comme la toute première Destination Européenne d'Excellence (EDEN) en Belgique", "Très réputé parmi les entomologistes pour sa vaste diversité d'espèces de papillons", "Intègre des forêts ardennaises denses et des pelouses calcaires sèches et ensoleillées"],
     }
-    , image: "/poi-images/belgium-viroin-hermeton-life-v2.webp",
+    image: "/poi-images/belgium-viroin-hermeton-life-v2.webp",
 },  {
     id: "belgium-westhoek-life-v2",
     parent: "BE",
@@ -741,7 +741,7 @@ imageHint: "Rescued seal pup in a rehabilitation pool",
       pt: ["Abriga mais de 2.500 animais marinhos representando centenas de espécies", "Opera a única clínica de resgate e reabilitação de focas na costa belga", "Apresenta um espetacular túnel subaquático de 8 metros de comprimento", "Contém mais de 50 habitats aquáticos distintos e especializados", "Resgata, reabilita e liberta dezenas de crias de foca locais anualmente", "Parte da rede global Sea Life Trust focada na conservação marinha", "Realiza ativamente campanhas educativas sobre a poluição oceânica por microplásticos"],
       fr: ["Héberge plus de 2 500 animaux marins représentant des centaines d'espèces", "Gère la seule clinique de sauvetage et de réhabilitation de phoques sur la côte belge", "Comprend un spectaculaire tunnel d'observation océanique de 8 mètres de long", "Contient plus de 50 habitats aquatiques distincts et spécialisés", "Sauve, réhabilite et relâche des dizaines de jeunes phoques locaux chaque année", "Fait partie du réseau mondial Sea Life Trust axé sur la conservation marine", "Mène activement des campagnes éducatives sur la pollution océanique par les microplastiques"],
     }
-    , image: "/poi-images/belgium-sea-life-blankenberge-life-v2.webp",
+    image: "/poi-images/belgium-sea-life-blankenberge-life-v2.webp",
 },  {
     id: "belgium-monde-sauvage-life-v2",
     parent: "BE",
@@ -834,7 +834,7 @@ imageHint: "Blooming yellow witch hazel in a winter garden",
       pt: ["Originalmente estabelecido em 1856 como um modesto viveiro comercial de árvores.", "Abrange 12,5 hectares de jardins paisagísticos meticulosamente desenhados.", "Cultiva uma imensa biodiversidade de mais de 7.000 espécies de plantas distintas.", "Abriga uma das coleções de referência de hamamélis mais extensas do mundo.", "Internacionalmente famoso pela sua vibrante e perfumada época de floração de inverno.", "Transformado num refúgio botânico pelos conceituados botânicos Robert e Jelena de Belder.", "Funciona como um centro científico internacional crítico para a nomenclatura botânica."],
       fr: ["Établi à l'origine en 1856 comme une modeste pépinière commerciale.", "S'étend sur 12,5 hectares de jardins paysagers méticuleusement conçus.", "Cultive une immense biodiversité de plus de 7 000 espèces végétales distinctes.", "Abrite l'une des collections de référence d'hamamélis les plus vastes au monde.", "Internationalement célèbre pour sa saison de floraison hivernale vibrante et parfumée.", "Transformé en havre botanique par les botanistes de renom Robert et Jelena de Belder.", "Fonctionne comme un centre scientifique international majeur pour la nomenclature botanique."],
     }
-    , image: "/poi-images/belgium-arboretum-kalmthout-life-v2.webp",
+    image: "/poi-images/belgium-arboretum-kalmthout-life-v2.webp",
 },  {
     id: "belgium-de-blankaart-life-v2",
     parent: "BE",

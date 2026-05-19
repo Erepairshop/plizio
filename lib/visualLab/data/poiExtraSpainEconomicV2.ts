@@ -34,7 +34,7 @@ imageHint: "Aerial view of Algeciras container terminal with cranes",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-port-algeciras-economic-v2.webp",
+    image: "/poi-images/spain-port-algeciras-economic-v2.webp",
 },  {
     id: "spain-port-valencia-economic-v2",
     parent: "ES",
@@ -68,7 +68,7 @@ imageHint: "Port of Valencia container ships and logistics area",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-port-valencia-economic-v2.webp",
+    image: "/poi-images/spain-port-valencia-economic-v2.webp",
 },  {
     id: "spain-port-barcelona-economic-v2",
     parent: "ES",
@@ -103,7 +103,7 @@ imageHint: "Barcelona port logistics area and cruise terminal",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-port-barcelona-economic-v2.webp",
+    image: "/poi-images/spain-port-barcelona-economic-v2.webp",
 },  {
     id: "spain-port-bilbao-economic-v2",
     parent: "ES",
@@ -137,7 +137,7 @@ imageHint: "Industrial docks of Port of Bilbao",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-port-bilbao-economic-v2.webp",
+    image: "/poi-images/spain-port-bilbao-economic-v2.webp",
 },  {
     id: "spain-seat-martorell-economic-v2",
     parent: "ES",
@@ -205,7 +205,7 @@ imageHint: "Stellantis Vigo automobile factory exterior",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-stellantis-vigo-economic-v2.webp",
+    image: "/poi-images/spain-stellantis-vigo-economic-v2.webp",
 },  {
     id: "spain-almeria-greenhouses-economic-v2",
     parent: "ES",
@@ -273,7 +273,7 @@ imageHint: "Modern Inditex headquarters building in Arteixo",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-inditex-hq-economic-v2.webp",
+    image: "/poi-images/spain-inditex-hq-economic-v2.webp",
 },  {
     id: "spain-cuatro-torres-economic-v2",
     parent: "ES",
@@ -307,7 +307,7 @@ imageHint: "Four skyscrapers of Cuatro Torres in Madrid",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-cuatro-torres-economic-v2.webp",
+    image: "/poi-images/spain-cuatro-torres-economic-v2.webp",
 },  {
     id: "spain-azca-district-economic-v2",
     parent: "ES",
@@ -341,7 +341,7 @@ imageHint: "AZCA business district skyscrapers in Madrid",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-azca-district-economic-v2.webp",
+    image: "/poi-images/spain-azca-district-economic-v2.webp",
 },  {
     id: "spain-22-arrob-barcelona-economic-v2",
     parent: "ES",
@@ -409,7 +409,7 @@ imageHint: "Open pit mine and red river of Rio Tinto",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-rio-tinto-mines-economic-v2.webp",
+    image: "/poi-images/spain-rio-tinto-mines-economic-v2.webp",
 },  {
     id: "spain-puertollano-industrial-economic-v2",
     parent: "ES",
@@ -478,7 +478,7 @@ imageHint: "Industrial skyline of Huelva chemical plants",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-huelva-chemical-pole-economic-v2.webp",
+    image: "/poi-images/spain-huelva-chemical-pole-economic-v2.webp",
 },  {
     id: "spain-solar-platform-almeria-economic-v2",
     parent: "ES",
@@ -512,7 +512,7 @@ imageHint: "Solar tower and heliostats at Plataforma Solar de Almería",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-solar-platform-almeria-economic-v2.webp",
+    image: "/poi-images/spain-solar-platform-almeria-economic-v2.webp",
 },  {
     id: "spain-gemasolar-plant-economic-v2",
     parent: "ES",
@@ -546,7 +546,7 @@ imageHint: "Circular array of mirrors and central tower at Gemasolar",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-gemasolar-plant-economic-v2.webp",
+    image: "/poi-images/spain-gemasolar-plant-economic-v2.webp",
 },  {
     id: "spain-arcelormittal-aviles-economic-v2",
     parent: "ES",
@@ -580,7 +580,7 @@ imageHint: "Heavy industry blast furnaces in Avilés",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-arcelormittal-aviles-economic-v2.webp",
+    image: "/poi-images/spain-arcelormittal-aviles-economic-v2.webp",
 },  {
     id: "spain-cartagena-refinery-economic-v2",
     parent: "ES",
@@ -648,7 +648,7 @@ imageHint: "Busy fish market hall in Mercamadrid",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-mercamadrid-economic-v2.webp",
+    image: "/poi-images/spain-mercamadrid-economic-v2.webp",
 },  {
     id: "spain-mercabarna-economic-v2",
     parent: "ES",
@@ -682,7 +682,7 @@ imageHint: "Wholesale fruit and vegetable stands at Mercabarna",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-mercabarna-economic-v2.webp",
+    image: "/poi-images/spain-mercabarna-economic-v2.webp",
 },  {
     id: "spain-airbus-getafe-economic-v2",
     parent: "ES",
@@ -716,7 +716,7 @@ imageHint: "Airbus airplane components in Getafe factory hall",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-airbus-getafe-economic-v2.webp",
+    image: "/poi-images/spain-airbus-getafe-economic-v2.webp",
 },  {
     id: "spain-airbus-seville-economic-v2",
     parent: "ES",
@@ -750,7 +750,7 @@ imageHint: "Airbus A400M transport plane in assembly hangar",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-airbus-seville-economic-v2.webp",
+    image: "/poi-images/spain-airbus-seville-economic-v2.webp",
 },  {
     id: "spain-castellon-ceramic-cluster-economic-v2",
     parent: "ES",
@@ -784,7 +784,7 @@ imageHint: "Ceramic tiles factory and showroom in Castellón",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-castellon-ceramic-cluster-economic-v2.webp",
+    image: "/poi-images/spain-castellon-ceramic-cluster-economic-v2.webp",
 },  {
     id: "spain-elche-footwear-economic-v2",
     parent: "ES",
@@ -818,7 +818,7 @@ imageHint: "Traditional shoemaking workshop in Elche",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-elche-footwear-economic-v2.webp",
+    image: "/poi-images/spain-elche-footwear-economic-v2.webp",
 },  {
     id: "spain-almaden-mercury-mines-economic-v2",
     parent: "ES",
@@ -852,7 +852,7 @@ imageHint: "Entrance to historical Almadén mercury mine",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-almaden-mercury-mines-economic-v2.webp",
+    image: "/poi-images/spain-almaden-mercury-mines-economic-v2.webp",
 },  {
     id: "spain-sagunto-industrial-port-economic-v2",
     parent: "ES",
@@ -886,7 +886,7 @@ imageHint: "Steel industry plants near Sagunto port",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-sagunto-industrial-port-economic-v2.webp",
+    image: "/poi-images/spain-sagunto-industrial-port-economic-v2.webp",
 },  {
     id: "spain-las-cruces-mine-economic-v2",
     parent: "ES",
@@ -920,7 +920,7 @@ imageHint: "Large excavator at Las Cruces open pit mine",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-las-cruces-mine-economic-v2.webp",
+    image: "/poi-images/spain-las-cruces-mine-economic-v2.webp",
 },  {
     id: "spain-escombreras-valley-economic-v2",
     parent: "ES",
@@ -988,7 +988,7 @@ imageHint: "Large petrochemical industrial complex in Tarragona",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-tarragona-petrochemical-economic-v2.webp",
+    image: "/poi-images/spain-tarragona-petrochemical-economic-v2.webp",
 },  {
     id: "spain-guissona-food-complex-economic-v2",
     parent: "ES",

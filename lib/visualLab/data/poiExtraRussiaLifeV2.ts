@@ -34,7 +34,7 @@ imageHint: "Baikal seal nerpa on ice",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-lake-baikal-nerpa-life-v2.webp",
+    image: "/poi-images/russia-lake-baikal-nerpa-life-v2.webp",
 },  {
     id: "russia-kronotsky-reserve-life-v2",
     parent: "RU",
@@ -68,7 +68,7 @@ imageHint: "Kamchatka brown bear catching salmon",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-kronotsky-reserve-life-v2.webp",
+    image: "/poi-images/russia-kronotsky-reserve-life-v2.webp",
 },  {
     id: "russia-wrangel-island-life-v2",
     parent: "RU",
@@ -136,7 +136,7 @@ imageHint: "Amur tiger in snowy forest",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-sikhote-alin-life-v2.webp",
+    image: "/poi-images/russia-sikhote-alin-life-v2.webp",
 },  {
     id: "russia-caucasus-reserve-life-v2",
     parent: "RU",
@@ -170,7 +170,7 @@ imageHint: "Caucasian bison in mountain meadow",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-caucasus-reserve-life-v2.webp",
+    image: "/poi-images/russia-caucasus-reserve-life-v2.webp",
 },  {
     id: "russia-land-of-leopard-life-v2",
     parent: "RU",
@@ -204,7 +204,7 @@ imageHint: "Amur leopard in temperate forest",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-land-of-leopard-life-v2.webp",
+    image: "/poi-images/russia-land-of-leopard-life-v2.webp",
 },  {
     id: "russia-putorana-reserve-life-v2",
     parent: "RU",
@@ -239,7 +239,7 @@ imageHint: "Reindeer herd on Putorana plateau",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-putorana-reserve-life-v2.webp",
+    image: "/poi-images/russia-putorana-reserve-life-v2.webp",
 },  {
     id: "russia-altai-reserve-life-v2",
     parent: "RU",
@@ -273,7 +273,7 @@ imageHint: "Snow leopard in Altai mountains",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-altai-reserve-life-v2.webp",
+    image: "/poi-images/russia-altai-reserve-life-v2.webp",
 },  {
     id: "russia-barguzinsky-reserve-life-v2",
     parent: "RU",
@@ -307,7 +307,7 @@ imageHint: "Russian sable in pine forest",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-barguzinsky-reserve-life-v2.webp",
+    image: "/poi-images/russia-barguzinsky-reserve-life-v2.webp",
 },  {
     id: "russia-voronezh-reserve-life-v2",
     parent: "RU",
@@ -375,7 +375,7 @@ imageHint: "European bison in snowy Moscow forest",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-prioksko-terrasny-life-v2.webp",
+    image: "/poi-images/russia-prioksko-terrasny-life-v2.webp",
 },  {
     id: "russia-astrakhan-reserve-life-v2",
     parent: "RU",
@@ -477,7 +477,7 @@ imageHint: "Moscow Zoo entrance and animals",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-moscow-zoo-life-v2.webp",
+    image: "/poi-images/russia-moscow-zoo-life-v2.webp",
 },  {
     id: "russia-main-botanical-garden-life-v2",
     parent: "RU",
@@ -511,7 +511,7 @@ imageHint: "Main Botanical Garden Moscow greenhouses",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-main-botanical-garden-life-v2.webp",
+    image: "/poi-images/russia-main-botanical-garden-life-v2.webp",
 },  {
     id: "russia-sochi-arboretum-life-v2",
     parent: "RU",
@@ -545,7 +545,7 @@ imageHint: "Sochi Arboretum palms and fountain",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-sochi-arboretum-life-v2.webp",
+    image: "/poi-images/russia-sochi-arboretum-life-v2.webp",
 },  {
     id: "russia-curonian-spit-life-v2",
     parent: "RU",
@@ -579,7 +579,7 @@ imageHint: "Dancing forest trees Curonian Spit",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-curonian-spit-life-v2.webp",
+    image: "/poi-images/russia-curonian-spit-life-v2.webp",
 },  {
     id: "russia-lapland-reserve-life-v2",
     parent: "RU",
@@ -613,7 +613,7 @@ imageHint: "Wild reindeer in Lapland tundra",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-lapland-reserve-life-v2.webp",
+    image: "/poi-images/russia-lapland-reserve-life-v2.webp",
 },  {
     id: "russia-black-lands-life-v2",
     parent: "RU",
@@ -647,7 +647,7 @@ imageHint: "Saiga antelope in Russian steppe",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-black-lands-life-v2.webp",
+    image: "/poi-images/russia-black-lands-life-v2.webp",
 },  {
     id: "russia-great-arctic-reserve-life-v2",
     parent: "RU",
@@ -715,7 +715,7 @@ imageHint: "Siberian ibex on mountain cliff",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-sayano-shushenski-life-v2.webp",
+    image: "/poi-images/russia-sayano-shushenski-life-v2.webp",
 },  {
     id: "russia-commander-islands-life-v2",
     parent: "RU",
@@ -851,7 +851,7 @@ imageHint: "Caucasian chamois in high mountains",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-teberda-reserve-life-v2.webp",
+    image: "/poi-images/russia-teberda-reserve-life-v2.webp",
 },  {
     id: "russia-darwin-reserve-life-v2",
     parent: "RU",
@@ -919,7 +919,7 @@ imageHint: "Russian desman swimming in water",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-oka-reserve-life-v2.webp",
+    image: "/poi-images/russia-oka-reserve-life-v2.webp",
 },  {
     id: "russia-central-forest-reserve-life-v2",
     parent: "RU",
@@ -987,7 +987,7 @@ imageHint: "Moose farm in Komi forest",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-pechora-ilych-life-v2.webp",
+    image: "/poi-images/russia-pechora-ilych-life-v2.webp",
 },  {
     id: "russia-novosibirsk-zoo-life-v2",
     parent: "RU",

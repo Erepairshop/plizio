@@ -46,7 +46,7 @@ imageHint: "Aerial view of large container terminal in Port of Antwerp",
       pt: ["Criado em 2022 pela fusão de Antuérpia e Zeebrugge", "Segundo maior porto marítimo da Europa a seguir a Roterdão", "Volume de movimentação superior a 280 milhões de toneladas por ano", "Acolhe o maior cluster químico europeu", "Porto europeu mais importante para a importação de automóveis", "Emprega direta e indiretamente cerca de 164.000 pessoas"],
       fr: ["Créé en 2022 par la fusion d'Anvers et de Zeebruges", "Deuxième port maritime d'Europe après Rotterdam", "Volume de trafic supérieur à 280 millions de tonnes par an", "Abrite le plus grand cluster chimique européen", "Principal port européen pour l'importation de voitures", "Emploie environ 164 000 personnes directement et indirectement"],
     }
-    , image: "/poi-images/belgium-port-antwerp-economic-v2.webp",
+    image: "/poi-images/belgium-port-antwerp-economic-v2.webp",
 },  {
     id: "belgium-antwerp-diamond-district-economic-v2",
     parent: "BE",
@@ -92,7 +92,7 @@ imageHint: "Antwerp Diamond District street view with jewelry shops",
       pt: ["Volume de negócios de cerca de 40 mil milhões de USD por ano", "Acolhe quatro das 30 bolsas de diamantes do mundo", "Centro de comércio numa área de cerca de um quilómetro quadrado", "Mais de 80% de todos os diamantes brutos passam por Antuérpia", "Emprega cerca de 30.000 pessoas no setor dos diamantes", "Infraestrutura estritamente vigiada junto à estação central"],
       fr: ["Chiffre d'affaires d'environ 40 milliards USD par an", "Abrite quatre des 30 bourses du diamant au monde", "Pôle commercial concentré sur environ un kilomètre carré", "Plus de 80 % des diamants bruts de la planète transitent par Anvers", "Emploie environ 30 000 personnes dans le secteur diamantaire", "Infrastructure sous haute surveillance à côté de la gare centrale"],
     }
-    , image: "/poi-images/belgium-antwerp-diamond-district-economic-v2.webp",
+    image: "/poi-images/belgium-antwerp-diamond-district-economic-v2.webp",
 },  {
     id: "belgium-doel-nuclear-plant-economic-v2",
     parent: "BE",
@@ -138,7 +138,7 @@ imageHint: "Cooling towers of Doel nuclear power plant by the river",
       pt: ["Entrada em funcionamento do primeiro reator no ano de 1974", "Dispõe de 4 reatores de água pressurizada", "Potência elétrica líquida de quase 2.900 MW", "Cobre até 30% das necessidades de eletricidade belgas", "Torres de arrefecimento marcantes com 170 metros de altura", "Vida útil de Doel 4 prolongada até 2035"],
       fr: ["Mise en service du premier réacteur en 1974", "Dispose de 4 réacteurs à eau pressurisée", "Puissance électrique nette de près de 2 900 MW", "Couvre jusqu'à 30 % des besoins en électricité de la Belgique", "Tours de refroidissement distinctives de 170 mètres de haut", "Durée de vie de Doel 4 prolongée jusqu'en 2035"],
     }
-    , image: "/poi-images/belgium-doel-nuclear-plant-economic-v2.webp",
+    image: "/poi-images/belgium-doel-nuclear-plant-economic-v2.webp",
 },  {
     id: "belgium-brussels-north-quarter-economic-v2",
     parent: "BE",
@@ -230,7 +230,7 @@ imageHint: "Barges and cranes at the inland Port of Liège",
       pt: ["Terceiro maior porto interior da Europa", "Estende-se por 26 instalações portuárias", "Ligação direta a Antuérpia via canal Alberto", "Movimentação de cerca de 20 milhões de toneladas de carga fluvial", "Desenvolvimento do Liège Trilogiport multimodal", "Foco na navegação interior sustentável"],
       fr: ["Troisième plus grand port intérieur d'Europe", "S'étend sur 26 zones portuaires", "Liaison directe avec Anvers via le canal Albert", "Trafic d'environ 20 millions de tonnes de fret fluvial", "Développement de la plateforme Liège Trilogiport", "Accent mis sur la navigation intérieure durable"],
     }
-    , image: "/poi-images/belgium-port-liege-economic-v2.webp",
+    image: "/poi-images/belgium-port-liege-economic-v2.webp",
 },  {
     id: "belgium-puurs-pharma-cluster-economic-v2",
     parent: "BE",
@@ -744,7 +744,7 @@ imageHint: "Modern pharmaceutical research campus in Beerse",
       pt: ["Sede da mundialmente famosa Janssen Pharmaceutica", "Fundada na década de 1950 pelo Dr. Paul Janssen", "Pertence hoje ao grupo internacional Johnson & Johnson", "Foco de investigação em oncologia e neurologia", "Emprega mais de 4.000 colaboradores altamente qualificados", "Combina I&D avançada com produção em larga escala"],
       fr: ["Siège social de la célèbre société Janssen Pharmaceutica", "Fondé dans les années 1950 par le Dr Paul Janssen", "Appartient aujourd'hui au groupe international Johnson & Johnson", "Recherche axée sur l'oncologie et la neurologie", "Emploie plus de 4 000 collaborateurs hautement qualifiés", "Allie R&D de pointe et production industrielle"],
     }
-    , image: "/poi-images/belgium-beerse-pharma-center-economic-v2.webp",
+    image: "/poi-images/belgium-beerse-pharma-center-economic-v2.webp",
 },  {
     id: "belgium-wavre-biotech-hub-economic-v2",
     parent: "BE",
@@ -1258,7 +1258,7 @@ imageHint: "Modern office park and logistics warehouses in Nivelles",
       pt: ["Localização estratégica no eixo E19 Bruxelas-Paris", "Acolhe mais de 200 empresas prósperas", "Cria postos de trabalho para mais de 6.000 pessoas", "Hub importante para logística farmacêutica e serviços de TI", "Motor económico central da província do Brabante Valão", "Promoção ativa de indústrias ecológicas e sustentáveis"],
       fr: ["Situation stratégique sur l'axe E19 Bruxelles-Paris", "Abrite plus de 200 entreprises prospères", "Crée des emplois pour plus de 6 000 personnes", "Hub majeur pour la logistique pharmaceutique et l'informatique", "Moteur économique central de la province du Brabant wallon", "Promotion active des entreprises écologiques et durables"],
     }
-    , image: "/poi-images/belgium-nivelles-business-park-economic-v2.webp",
+    image: "/poi-images/belgium-nivelles-business-park-economic-v2.webp",
 },  {
     id: "belgium-north-sea-port-ghent-economic-v2",
     parent: "BE",

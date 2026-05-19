@@ -46,7 +46,7 @@ imageHint: "Waterloo Lion's Mound and battlefield memorial",
       pt: ["A batalha ocorreu a 18 de junho de 1815 com a participação de mais de 150.000 soldados.", "O exército francês mobilizou cerca de 73.000 homens para o combate.", "A Colina do Leão (Butte du Lion) eleva-se a 40 metros de altura.", "Para construir a colina foram movimentados mais de 300.000 metros cúbicos de terra.", "A construção do monumento começou em 1823 e foi concluída em 1826.", "Estima-se que mais de 50.000 pessoas morreram ou ficaram feridas na batalha.", "O peso da estátua do leão de ferro fundido no topo aproxima-se das 28 toneladas."],
       fr: ["La bataille a eu lieu le 18 juin 1815 avec plus de 150 000 soldats engagés.", "L'armée française mobilisa environ 73 000 hommes pour le combat.", "La Butte du Lion s'élève à 40 mètres de hauteur.", "Plus de 300 000 mètres cubes de terre furent déplacés pour construire la butte.", "La construction du monument commença en 1823 et s'acheva en 1826.", "On estime que plus de 50 000 hommes furent tués ou blessés lors de la bataille.", "La statue du lion en fonte au sommet pèse près de 28 tonnes."],
     }
-    , image: "/poi-images/belgium-waterloo-battlefield-history-v2.webp",
+    image: "/poi-images/belgium-waterloo-battlefield-history-v2.webp",
 },  {
     id: "belgium-gravensteen-castle-history-v2",
     parent: "BE",
@@ -92,7 +92,7 @@ imageHint: "Gravensteen Castle in Ghent medieval architecture",
       pt: ["O castelo de pedra visível hoje foi construído pelo conde Filipe da Alsácia no ano 1180", "Os condes da Flandres utilizaram-no como residência oficial até 1353", "A base do castelo era uma fortaleza de madeira anterior do século IX", "A restauração abrangente iniciada no final do século XIX salvou o edifício da demolição", "As muralhas e a torre de menagem foram inspiradas em castelos vistos durante as Cruzadas", "O complexo abriga hoje um museu importante sobre a justiça medieval"],
       fr: ["Le château de pierre visible aujourd'hui fut érigé par le comte Philippe d'Alsace en 1180", "Les comtes de Flandre l'utilisèrent comme résidence officielle jusqu'en 1353", "La base du château était une ancienne fortification en bois datant du IXe siècle", "La restauration complète commencée à la fin du XIXe siècle sauva le bâtiment de la démolition", "Les murs du château et le donjon furent inspirés par les châteaux vus lors des croisades", "Le complexe abrite aujourd'hui un musée important présentant la justice médiévale"],
     }
-    , image: "/poi-images/belgium-gravensteen-castle-history-v2.webp",
+    image: "/poi-images/belgium-gravensteen-castle-history-v2.webp",
 },  {
     id: "belgium-menin-gate-history-v2",
     parent: "BE",
@@ -138,7 +138,7 @@ imageHint: "Menin Gate Memorial Ypres at night",
       pt: ["O monumento foi projetado por Sir Reginald Blomfield e inaugurado em 24 de julho de 1927.", "Nas paredes, podem ler-se os nomes de exatamente 54.896 soldados britânicos e da Commonwealth desaparecidos.", "A cerimónia do 'Last Post' realiza-se todos os dias às 20:00 desde 1928.", "O monumento lista os soldados que caíram antes de 16 de agosto de 1917.", "Durante a ocupação na Segunda Guerra Mundial, a cerimónia foi transferida para o cemitério de Brookwood, em Surrey.", "As forças britânicas que combateram na área do Saliente de Ypres sofreram perdas de mais de 300.000 homens durante a guerra."],
       fr: ["Le mémorial fut conçu par Sir Reginald Blomfield et inauguré le 24 juillet 1927.", "Les noms de 54 896 soldats britanniques et du Commonwealth disparus figurent sur les parois.", "La cérémonie du 'Last Post' a lieu chaque jour à 20h00 depuis 1928.", "Le monument liste les soldats tombés avant le 16 août 1917.", "Pendant l'occupation lors de la Seconde Guerre mondiale, la cérémonie fut déplacée au cimetière de Brookwood, dans le Surrey.", "Les forces britanniques combattant dans le saillant d'Ypres ont subi plus de 300 000 pertes au cours de la guerre."],
     }
-    , image: "/poi-images/belgium-menin-gate-history-v2.webp",
+    image: "/poi-images/belgium-menin-gate-history-v2.webp",
 },  {
     id: "belgium-villers-abbey-history-v2",
     parent: "BE",
@@ -184,7 +184,7 @@ imageHint: "Villers Abbey ruins Villers-la-Ville",
       pt: ["A abadia foi fundada em 1146 por monges de Claraval.", "No seu apogeu, no século XIII, viviam aqui mais de 400 monges e irmãos leigos.", "No seu auge, a propriedade geria aproximadamente 10.000 hectares de terra.", "A construção da igreja gótica da abadia começou no início do século XIII.", "Como resultado da Revolução Francesa, o mosteiro foi definitivamente dissolvido em 1796.", "Os primeiros trabalhos de conservação em grande escala começaram em 1893 para salvar as ruínas."],
       fr: ["L'abbaye a été fondée en 1146 par des moines venus de Clairvaux.", "À son apogée au XIIIe siècle, plus de 400 moines et convers y vivaient.", "Le domaine gérait près de 10 000 hectares de terres à son apogée.", "La construction de l'église abbatiale gothique commença au début du XIIIe siècle.", "Sous l'effet de la Révolution française, le monastère fut définitivement dissous en 1796.", "Les premiers grands travaux de restauration pour sauver les ruines débutèrent en 1893."],
     }
-    , image: "/poi-images/belgium-villers-abbey-history-v2.webp",
+    image: "/poi-images/belgium-villers-abbey-history-v2.webp",
 },  {
     id: "belgium-namur-citadel-history-v2",
     parent: "BE",
@@ -231,7 +231,7 @@ imageHint: "Citadel of Namur overlooking the river",
       pt: ["A área já era um importante posto militar romano no século III d.C.", "No século XVII, o engenheiro militar francês Vauban modernizou a fortaleza.", "Sob a superfície, estende-se um sistema de túneis com mais de 7 quilómetros.", "A área total da cidadela excede os 80 hectares.", "Napoleão participou pessoalmente no cerco da fortaleza em 1692.", "A fortificação perdeu a sua função militar oficial em 1891 e foi parcialmente transformada num parque."],
       fr: ["La zone était déjà un important poste militaire romain au IIIe siècle après J.-C.", "Au XVIIe siècle, l'ingénieur militaire français Vauban modernisa la forteresse.", "Un système de tunnels de plus de 7 kilomètres s'étend sous la surface.", "La superficie totale de la citadelle dépasse les 80 hectares.", "Napoléon participa personnellement au siège de la forteresse en 1692.", "La fortification perdit sa fonction militaire officielle en 1891 et fut en partie transformée en parc."],
     }
-    , image: "/poi-images/belgium-namur-citadel-history-v2.webp",
+    image: "/poi-images/belgium-namur-citadel-history-v2.webp",
 },  {
     id: "belgium-bouillon-castle-history-v2",
     parent: "BE",
@@ -277,7 +277,7 @@ imageHint: "Medieval Castle of Bouillon aerial view",
       pt: ["Os vestígios mais antigos da fortificação datam do século VIII.", "Godofredo de Bouillon vendeu o castelo ao bispo de Liège em 1096.", "No final do século XVII, Vauban modernizou-o como fortaleza de artilharia.", "Um poço de 65 metros de profundidade escavado à mão garantia o abastecimento de água.", "O comprimento das muralhas ultrapassa os 1000 metros sobre a crista rochosa.", "Foi o centro de um ducado independente até 1830, antes de integrar a Bélgica."],
       fr: ["Les traces les plus anciennes de fortification sur le rocher datent du VIIIe siècle.", "Godefroid de Bouillon vendit le château à l'évêque de Liège en 1096.", "À la fin du XVIIe siècle, Vauban l'a modernisé en forteresse d'artillerie.", "Un puits de 65 mètres de profondeur creusé à la main assurait l'eau.", "La longueur des murs dépasse les 1000 mètres le long de la crête rocheuse.", "Il resta le centre d'un duché indépendant jusqu'en 1830 avant de rejoindre la Belgique."],
     }
-    , image: "/poi-images/belgium-bouillon-castle-history-v2.webp",
+    image: "/poi-images/belgium-bouillon-castle-history-v2.webp",
 },  {
     id: "belgium-tyne-cot-cemetery-history-v2",
     parent: "BE",
@@ -323,7 +323,7 @@ imageHint: "Tyne Cot Commonwealth War Cemetery Passchendaele",
       pt: ["O cemitério inclui 11.961 sepulturas da Commonwealth.", "Mais de 70 por cento das sepulturas (8.369) contêm soldados desconhecidos.", "No memorial traseiro podem ler-se os nomes de 34.957 soldados desaparecidos.", "A Cruz do Sacrifício central foi construída sobre o maior bunker alemão.", "Quando a área foi originalmente capturada em outubro de 1917, cerca de 340 soldados foram enterrados aqui.", "A construção do monumento foi concluída em junho de 1927 segundo os projetos de Sir Herbert Baker."],
       fr: ["Le cimetière comprend 11 961 tombes du Commonwealth.", "Plus de 70 % des sépultures (8 369 tombes) abritent des soldats inconnus.", "Sur le mur commémoratif du fond figurent les noms de 34 957 soldats disparus.", "La Croix du Sacrifice centrale a été érigée sur le plus grand bunker allemand.", "Lors de la prise initiale du terrain en octobre 1917, environ 340 soldats y furent enterrés.", "La construction du mémorial s'est achevée en juin 1927 d'après les plans de Sir Herbert Baker."],
     }
-    , image: "/poi-images/belgium-tyne-cot-cemetery-history-v2.webp",
+    image: "/poi-images/belgium-tyne-cot-cemetery-history-v2.webp",
 },  {
     id: "belgium-bruges-belfry-history-v2",
     parent: "BE",
@@ -369,7 +369,7 @@ imageHint: "Belfry of Bruges tower on market square",
       pt: ["A torre sineira eleva-se 83 metros acima da praça do mercado.", "Começou a ser construída em 1240 como extensão do mercado de tecidos.", "Para chegar ao topo, é necessário subir exatamente 366 degraus.", "O carrilhão na torre é composto por 47 sinos.", "O peso total de todos os sinos atinge 27,5 toneladas.", "A parte superior octogonal foi adicionada no final do século XV, após 1482."],
       fr: ["Le beffroi s'élève à 83 mètres au-dessus de la place du Marché.", "Sa construction commença en 1240 en complément de la Halle aux draps.", "Il faut gravir exactement 366 marches pour atteindre le sommet.", "Le carillon situé dans la tour est composé de 47 cloches.", "Le poids total de toutes les cloches réunies atteint 27,5 tonnes.", "La partie supérieure octogonale fut ajoutée à la fin du XVe siècle, après 1482."],
     }
-    , image: "/poi-images/belgium-bruges-belfry-history-v2.webp",
+    image: "/poi-images/belgium-bruges-belfry-history-v2.webp",
 },  {
     id: "belgium-antwerp-steen-history-v2",
     parent: "BE",
@@ -415,7 +415,7 @@ imageHint: "Het Steen castle Antwerp Scheldt river",
       pt: ["A construção começou no início do século XIII, por volta de 1220", "Seu nome provém do contraste entre sua construção em pedra e as casas de madeira da época", "Funcionou como prisão municipal durante mais de cinco séculos, de 1303 a 1823", "No século XVI, foram adicionados elementos renascentistas por ordem de Carlos V", "Quase foi demolido na década de 1880 durante a remodelação do cais do Escalda", "Abrigou o Museu Nacional de Navegação desde os anos 50 até o século XXI"],
       fr: ["La construction a débuté au tout début du XIIIe siècle, vers 1220", "Son nom provient du fait qu'il était bâti en pierre contrairement aux maisons en bois de l'époque", "Il a servi de prison municipale pendant plus de cinq siècles, de 1303 à 1823", "Au XVIe siècle, des éléments de style Renaissance ont été ajoutés sur ordre de Charles Quint", "Il a failli être démoli dans les années 1880 lors de l'aménagement des quais de l'Escaut", "Il a abrité le Musée National de la Marine des années 1950 jusqu'au XXIe siècle"],
     }
-    , image: "/poi-images/belgium-antwerp-steen-history-v2.webp",
+    image: "/poi-images/belgium-antwerp-steen-history-v2.webp",
 },  {
     id: "belgium-prince-bishops-palace-history-v2",
     parent: "BE",
@@ -461,7 +461,7 @@ imageHint: "Prince-Bishops' Palace Liège courtyard columns",
       pt: ["A construção do atual edifício começou em 1526, por ordem do Cardeal Érard de La Marck.", "A decoração esculpida de cada uma das 60 colunas que rodeiam o pátio principal é única.", "A fachada do edifício foi reconstruída em estilo neoclássico após um incêndio em 1734.", "O Bispado de Liège funcionou como um estado independente durante quase oito séculos.", "Durante a Revolução Francesa, em 1794, os príncipes-bispos foram definitivamente expulsos do palácio.", "Desde o século XIX, o Palácio da Justiça funciona na ala leste."],
       fr: ["La construction de l'édifice actuel commença en 1526 sur ordre du cardinal Érard de La Marck.", "Les décors sculptés de chacune des 60 colonnes entourant la cour principale sont uniques.", "La façade du bâtiment fut reconstruite dans un style néoclassique après un incendie en 1734.", "La principauté de Liège fonctionna comme un État indépendant pendant près de huit siècles.", "Lors de la Révolution française en 1794, les princes-évêques furent définitivement chassés du palais.", "Le palais de justice est installé dans l'aile est depuis le XIXe siècle."],
     }
-    , image: "/poi-images/belgium-prince-bishops-palace-history-v2.webp",
+    image: "/poi-images/belgium-prince-bishops-palace-history-v2.webp",
 },  {
     id: "belgium-tournai-belfry-history-v2",
     parent: "BE",
@@ -507,7 +507,7 @@ imageHint: "Belfry of Tournai oldest in Belgium",
       pt: ["A construção começou em 1188 com a permissão do rei francês Filipe II Augusto.", "O campanário tem 72 metros de altura e ergue-se como um edifício independente na praça principal.", "Para chegar ao topo da torre, os visitantes têm de subir 257 degraus.", "O carrilhão atual é composto por 43 sinos de diferentes tamanhos.", "A parte inferior e mais maciça é de estilo românico, enquanto os níveis superiores são góticos.", "Em 1999, foi declarado Património Mundial pela UNESCO como parte dos beffrois da Bélgica."],
       fr: ["La construction débuta en 1188 avec l'autorisation du roi de France Philippe II Auguste.", "Le beffroi mesure 72 mètres de haut et se dresse comme un édifice indépendant sur la Grand-Place.", "Pour atteindre le sommet de la tour, les visiteurs doivent gravir 257 marches.", "Le carillon actuel se compose de 43 cloches de tailles différentes.", "La partie inférieure, plus massive, est de style roman, tandis que les étages supérieurs sont de style gothique.", "En 1999, il a été inscrit au patrimoine mondial de l'UNESCO avec les autres beffrois de Belgique."],
     }
-    , image: "/poi-images/belgium-tournai-belfry-history-v2.webp",
+    image: "/poi-images/belgium-tournai-belfry-history-v2.webp",
 },  {
     id: "belgium-brussels-grand-place-history-v2",
     parent: "BE",
@@ -600,7 +600,7 @@ imageHint: "Mardasson Memorial Bastogne star shape",
       pt: ["O memorial foi inaugurado solenemente a 16 de julho de 1950.", "Nas paredes exteriores, podem ler-se os nomes dos 48 estados americanos da época em letras de bronze.", "A forma de estrela de cinco pontas da estrutura é visível graças às colunas de 12 metros de altura.", "Durante a batalha, o Exército dos EUA sofreu perdas de mais de 76.000 homens.", "A escada que leva ao miradouro no telhado está localizada exatamente no centro da estrela.", "Os eventos e datas mais importantes da ofensiva foram registados em letras douradas nas paredes interiores."],
       fr: ["Le mémorial a été inauguré solennellement le 16 juillet 1950.", "Les noms des 48 États américains de l'époque sont lisibles en lettres de bronze sur les murs extérieurs.", "La forme d'étoile à cinq branches se dessine grâce à des colonnes de 12 mètres de haut.", "L'armée américaine a subi des pertes de plus de 76 000 hommes durant la bataille.", "L'escalier menant au toit-terrasse se trouve exactement au centre de l'étoile.", "Les événements et dates clés de l'offensive sont gravés en lettres d'or sur les murs intérieurs."],
     }
-    , image: "/poi-images/belgium-mardasson-memorial-history-v2.webp",
+    image: "/poi-images/belgium-mardasson-memorial-history-v2.webp",
 },  {
     id: "belgium-gaasbeek-castle-history-v2",
     parent: "BE",
@@ -1161,7 +1161,7 @@ imageHint: "Cathedral of Tournai five towers architecture",
       pt: ["A construção do enorme templo começou na primeira metade do século XII, por volta de 1146.", "A silhueta característica da catedral é conferida por cinco impressionantes torres sineiras de 83 metros de altura.", "A nave românica e o coro gótico estão ligados por um enorme transepto.", "O comprimento total do interior atinge os 134 metros, tornando-a uma das maiores.", "O jubé renascentista foi concluído em 1573 pelo escultor Cornelis Floris de Vriendt.", "A UNESCO declarou todo o complexo arquitetónico como Património Mundial no ano 2000."],
       fr: ["La construction de l'immense édifice commença dans la première moitié du XIIe siècle, vers 1146.", "La silhouette caractéristique de la cathédrale est marquée par cinq clochers impressionnants de 83 mètres de haut.", "La nef romane et le chœur gothique sont reliés par un immense transept.", "La longueur totale intérieure atteint 134 mètres, ce qui en fait l'une des plus grandes cathédrales.", "Le jubé de la Renaissance fut achevé en 1573 par le sculpteur Cornelis Floris de Vriendt.", "L'UNESCO a inscrit l'ensemble de l'édifice au patrimoine mondial en l'an 2000."],
     }
-    , image: "/poi-images/belgium-tournai-cathedral-history-v2.webp",
+    image: "/poi-images/belgium-tournai-cathedral-history-v2.webp",
 },  {
     id: "belgium-gruuthuse-museum-history-v2",
     parent: "BE",
@@ -1207,7 +1207,7 @@ imageHint: "Gruuthusemuseum Bruges courtyard architecture",
       pt: ["O palácio foi construído no século XV para a rica família de mercadores van Gruuthuse", "Lodewijk van Gruuthuse foi um famoso mecenas e cavaleiro da Ordem do Tosão de Ouro", "A riqueza da família vinha do monopólio do comércio da mistura de especiarias para cerveja 'gruut'", "O edifício está diretamente ligado à vizinha Igreja de Nossa Senhora", "A coleção do museu conserva tesouros artísticos do período entre os séculos XV e XIX", "A fachada do palácio foi restaurada no final do século XIX em estilo neogótico historicista"],
       fr: ["Le palais fut construit au XVe siècle pour la riche famille de marchands van Gruuthuse", "Louis de Gruuthuse était un mécène célèbre et chevalier de l'Ordre de la Toison d'or", "La fortune de la famille provenait du monopole sur le mélange d'herbes pour bière appelé 'gruut'", "Le bâtiment possède une liaison directe avec l'église Notre-Dame voisine", "La collection du musée conserve des trésors d'art datant du XVe au XIXe siècle", "La façade du palais fut restaurée à la fin du XIXe siècle dans un style néogothique historiciste"],
     }
-    , image: "/poi-images/belgium-gruuthuse-museum-history-v2.webp",
+    image: "/poi-images/belgium-gruuthuse-museum-history-v2.webp",
 },  {
     id: "belgium-rubenshuis-history-v2",
     parent: "BE",
@@ -1253,7 +1253,7 @@ imageHint: "Rubenshuis Antwerp garden and studio",
       pt: ["Rubens comprou a casa em 1610 e ampliou-a no estilo italiano.", "A casa incluía um atelier enorme onde os seus alunos ajudavam no trabalho.", "O magnífico pórtico no pátio foi construído segundo os próprios projetos arquitetónicos de Rubens.", "O pintor viveu e trabalhou aqui até à sua morte em 1640.", "A cidade de Antuérpia comprou o edifício em 1937 com o objetivo de criar o museu.", "O edifício totalmente restaurado abriu as suas portas ao público em 1946."],
       fr: ["Rubens acheta la maison en 1610 et l'agrandit dans le style italien.", "La maison comprenait un immense atelier où ses élèves l'aidaient dans son travail.", "Le magnifique portique de la cour a été réalisé selon les propres plans architecturaux de Rubens.", "Le peintre y vécut et y travailla jusqu'à sa mort en 1640.", "La ville d'Anvers a acheté le bâtiment en 1937 pour y créer un musée.", "Le bâtiment entièrement restauré a ouvert ses portes au public en 1946."],
     }
-    , image: "/poi-images/belgium-rubenshuis-history-v2.webp",
+    image: "/poi-images/belgium-rubenshuis-history-v2.webp",
 },  {
     id: "belgium-mons-belfry-history-v2",
     parent: "BE",
@@ -1299,7 +1299,7 @@ imageHint: "Belfry of Mons Baroque tower",
       pt: ["A torre sineira foi construída entre 1661 e 1672 segundo os planos do arquiteto Louis Ledoux.", "Este é o único beffroi na Bélgica que apresenta características puramente barrocas.", "A altura da torre é de 87 metros, elevando-se bem acima da cidade.", "A espetacular cúpula em forma de cebola no topo é uma obra-prima da arquitetura do século XVII.", "O carrilhão da torre é atualmente composto por 49 sinos de diferentes tamanhos.", "Em 1999, tornou-se Património Mundial da UNESCO como parte dos Beffrois da Bélgica e da França."],
       fr: ["Le beffroi fut construit entre 1661 et 1672 selon les plans de l'architecte Louis Ledoux.", "C'est le seul beffroi de Belgique à présenter des caractéristiques purement baroques.", "La hauteur de la tour est de 87 mètres, dominant largement la ville.", "Le dôme à bulbe spectaculaire au sommet est un chef-d'œuvre de l'architecture du XVIIe siècle.", "Le carillon de la tour se compose actuellement de 49 cloches de tailles différentes.", "En 1999, il fut classé au patrimoine mondial de l'UNESCO avec les beffrois de Belgique et de France."],
     }
-    , image: "/poi-images/belgium-mons-belfry-history-v2.webp",
+    image: "/poi-images/belgium-mons-belfry-history-v2.webp",
 },  {
     id: "belgium-la-roche-castle-history-v2",
     parent: "BE",
@@ -1345,7 +1345,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
       pt: ["Os vestígios humanos mais antigos no rochedo datam do Neolítico e da época romana.", "A primeira grande ampliação do castelo de pedra foi ordenada no século XI pelos condes de La Roche.", "Em 1681, o rei francês Luís XIV ocupou-o e transformou-o numa guarnição militar.", "O castelo foi destruído por um incêndio enorme em 1721 e depois abandonado.", "Em dezembro de 1944, grande parte da cidade e do castelo foram atingidos por bombas americanas.", "Segundo a lenda local, o fantasma de Berthe aparece nas muralhas ao pôr do sol durante o verão."],
       fr: ["Les traces humaines les plus anciennes sur le rocher datent du néolithique et de l'époque romaine.", "La première extension majeure du château en pierre fut ordonnée au XIe siècle par les comtes de La Roche.", "En 1681, le roi de France Louis XIV s'en empara et le transforma en garnison militaire.", "Le château fut détruit par un immense incendie en 1721, puis abandonné à son sort.", "En décembre 1944, une grande partie de la ville et du château furent touchés par des bombardements américains.", "Selon la légende locale, le fantôme de Berthe apparaît sur les remparts au coucher du soleil en été."],
     }
-    , image: "/poi-images/belgium-la-roche-castle-history-v2.webp",
+    image: "/poi-images/belgium-la-roche-castle-history-v2.webp",
 },  {
     id: "belgium-montaigle-castle-history-v2",
     parent: "BE",

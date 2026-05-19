@@ -46,7 +46,7 @@ imageHint: "Lysaya Hara hill landscape near Minsk",
       pt: ["Atinge uma altitude absoluta de 342 metros", "Segundo ponto geográfico mais alto da Bielorrússia", "Localizado a 21 quilómetros a norte da capital, Minsk", "Formado durante o período da glaciación de Sozh (há 150.000–220.000 anos)", "Apenas 3 metros mais baixo do que o Dzyarzhynskaya Hara (345 metros)", "Composto principalmente por depósitos glaciais areno-argilosos", "Cobre uma área localizada de cerca de 2,5 quilómetros quadrados", "A altitude da base desce para aproximadamente 250 metros"],
       fr: ["Atteint une altitude absolue de 342 mètres", "Deuxième point géographique le plus élevé de Biélorussie", "Situé à 21 kilomètres au nord de la capitale, Minsk", "Formé pendant la période de glaciation de Sozh (il y a 150 000 à 220 000 ans)", "Seulement 3 mètres de moins que le mont Dzyarzhynskaya (345 mètres)", "Composé principalement de dépôts glaciaires sablo-argileux", "Couvre une zone localisée d'environ 2,5 kilomètres carrés", "L'altitude à la base descend à environ 250 mètres"],
     }
-    , image: "/poi-images/belarus-lysaya-hara-relief-v2.webp",
+    image: "/poi-images/belarus-lysaya-hara-relief-v2.webp",
 },  {
     id: "belarus-mayak-hill-relief-v2",
     parent: "BY",
@@ -92,7 +92,7 @@ imageHint: "Mayak Hill view over Braslaw Lakes",
       pt: ["Altitude absoluta de 174,4 metros acima do nível do mar", "Altura relativa de 44,7 metros acima dos lagos circundantes", "Vigia o Lago Strusta (sul) e o Lago Snudy (norte)", "Depósito de kame formado há cerca de 14.000 a 15.000 anos", "Batizado com o nome de uma torre geodésica construída no final do século XIX", "Cobre uma área de cume de menos de 1 quilómetro quadrado", "Ponto de observação central no Parque Nacional dos Lagos Braslaw", "Composto principalmente por areia estratificada, cascalho e seixos"],
       fr: ["Altitude absolue de 174,4 mètres au-dessus du niveau de la mer", "Hauteur relative de 44,7 mètres au-dessus des lacs environnants", "Surplombe le lac Strousta (sud) et le lac Snoudy (nord)", "Dépôt de kames formé il y a environ 14 000 à 15 000 ans", "Nommé d'après une tour géodésique construite à la fin du XIXe siècle", "Couvre une zone de sommet de moins de 1 kilomètre carré", "Point de vue central du parc national des lacs de Braslaw", "Principalement composé de sable stratifié, de gravier et de galets"],
     }
-    , image: "/poi-images/belarus-mayak-hill-relief-v2.webp",
+    image: "/poi-images/belarus-mayak-hill-relief-v2.webp",
 },  {
     id: "belarus-minsk-upland-relief-v2",
     parent: "BY",
@@ -138,7 +138,7 @@ imageHint: "Rolling hills of the Minsk Upland",
       pt: ["O ponto mais alto é o Dzyarzhynskaya Hara, com 345 metros", "Cobre uma área total de aproximadamente 7.300 quilómetros quadrados", "Estende-se por mais de 150 quilómetros de sudoeste a nordeste", "A largura do altiplano varia de 40 a 60 quilómetros", "A altitude média situa-se entre 200 e 250 metros", "Apresenta diferenças de altitude relativa local de até 100 metros", "Grande divisória continental entre as bacias do Báltico e do Mar Negro", "Mais de 30% da superfície do altiplano é florestada"],
       fr: ["Le point culminant est le mont Dzyarzhynskaya à 345 mètres", "Couvre une superficie totale d'environ 7 300 kilomètres carrés", "S'étend sur plus de 150 kilomètres du sud-ouest au nord-est", "La largeur des hauteurs varie de 40 à 60 kilomètres", "L'altitude moyenne est comprise entre 200 et 250 mètres", "Présente des dénivelés relatifs locaux allant jusqu'à 100 mètres", "Ligne de partage des eaux majeure entre les bassins de la Baltique et de la mer Noire", "Plus de 30 % de la surface des hauteurs est boisée"],
     }
-    , image: "/poi-images/belarus-minsk-upland-relief-v2.webp",
+    image: "/poi-images/belarus-minsk-upland-relief-v2.webp",
 },  {
     id: "belarus-navahrudak-upland-relief-v2",
     parent: "BY",
@@ -184,7 +184,7 @@ imageHint: "Hilly terrain of Navahrudak Upland",
       pt: ["Elevação máxima de 323 metros em Zamkavaya Hara", "Abrange uma área de aproximadamente 4.400 quilómetros quadrados", "Estende-se por cerca de 120 quilómetros de norte a sul", "A largura das terras altas varia entre 45 e 60 quilómetros", "As ravinas e vales cortam o planalto em até 100 metros", "Consiste predominantemente em depósitos da glaciação Sozh", "Apresenta uma espessa camada de solo fértil de loess sobre as morenas", "Mais de 25% das terras altas, principalmente encostas, são florestadas"],
       fr: ["Altitude maximale de 323 mètres à Zamkavaya Hara", "Comprend une superficie d'environ 4 400 kilomètres carrés", "S'étend sur environ 120 kilomètres du nord au sud", "La largeur des collines varie entre 45 et 60 kilomètres", "Les ravins et les vallées découpent le plateau jusqu'à 100 mètres", "Se compose principalement de dépôts de la glaciation de Sozh", "Présente une épaisse couche de sol loessique fertile au-dessus des moraines", "Plus de 25 % des collines, principalement les pentes, sont boisés"],
     }
-    , image: "/poi-images/belarus-navahrudak-upland-relief-v2.webp",
+    image: "/poi-images/belarus-navahrudak-upland-relief-v2.webp",
 },  {
     id: "belarus-vitebsk-upland-relief-v2",
     parent: "BY",
@@ -276,7 +276,7 @@ imageHint: "Orsha Upland fields and hills",
       pt: ["A elevação máxima atinge 263 metros acima do nível do mar", "Forma uma ponte terrestre natural conhecida como o Corredor de Orsha", "Divide as bacias dos rios Dniepre superior e Dvina Ocidental", "Compreende uma área de aproximadamente 2.500 quilómetros quadrados", "Estende-se por cerca de 100 quilómetros de norte a sul", "Composto principalmente por depósitos glaciares do Pleistoceno médio", "Caracterizado por encostas suaves a moderadas (2-5 graus)", "Os solos são maioritariamente do tipo sod-podzólico e são intensamente cultivados"],
       fr: ["L'altitude maximale atteint 263 mètres au-dessus du niveau de la mer", "Forme un pont terrestre naturel connu sous le nom de corridor d'Orcha", "Sépare les bassins du haut Dniepr et de la Dvina occidentale", "Comprend une superficie d'environ 2 500 kilomètres carrés", "S'étend sur environ 100 kilomètres du nord au sud", "Composé principalement de dépôts glaciaires du Pléistocène moyen", "Caractérisé par des pentes douces à modérées (2 à 5 degrés)", "Les sols sont largement de type podzolique et intensément cultivés"],
     }
-    , image: "/poi-images/belarus-orsha-upland-relief-v2.webp",
+    image: "/poi-images/belarus-orsha-upland-relief-v2.webp",
 },  {
     id: "belarus-oshmyany-upland-relief-v2",
     parent: "BY",
@@ -322,7 +322,7 @@ imageHint: "Boulders on the Oshmyany Upland",
       pt: ["O ponto mais alto é Milidouskaya Hara com 320 metros", "Estende-se por cerca de 110 quilómetros de noroeste a sudeste", "A largura das terras altas varia entre 30 e 40 quilómetros", "Famosas pelas grandes concentrações de blocos de granito glaciar", "Formadas principalmente por morenas terminais da glaciação Sozh", "As diferenças de altura relativa excedem frequentemente os 50-75 metros", "Faz fronteira geográfica com a República da Lituânia", "O terreno está fortemente dissecado pela bacia do rio Ashmyanka"],
       fr: ["Le point culminant est la Milidouskaya Hara à 320 mètres", "S'étend sur environ 110 kilomètres du nord-ouest au sud-est", "La largeur des collines varie entre 30 et 40 kilomètres", "Réputé pour ses fortes concentrations de blocs erratiques de granit glaciaire", "Formé principalement par les moraines terminales de la glaciation de Sozh", "Les dénivelés relatifs dépassent couramment 50 à 75 mètres", "Borde géographiquement la République de Lituanie", "Le terrain est fortement disséqué par le bassin de la rivière Ashmyanka"],
     }
-    , image: "/poi-images/belarus-oshmyany-upland-relief-v2.webp",
+    image: "/poi-images/belarus-oshmyany-upland-relief-v2.webp",
 },  {
     id: "belarus-grodno-upland-relief-v2",
     parent: "BY",
@@ -368,7 +368,7 @@ imageHint: "River Neman valley near Grodno Upland",
       pt: ["A altitude máxima atinge 247 metros acima do nível do mar", "Bissetado diretamente pelo amplo vale do rio Niémen", "O altiplano estende-se por aproximadamente 60 quilómetros de comprimento", "A largura varia tipicamente entre 20 e 30 quilómetros", "As origens geológicas residem na glaciação Saaliana (Sozh)", "Faz fronteira com as colinas de Sokółka na Polónia, geograficamente semelhantes", "Mais de 40% da terra é dedicada ao uso agrícola", "Apresenta predominantemente colinas suaves em forma de cúpula"],
       fr: ["L'altitude maximale atteint 247 mètres au-dessus du niveau de la mer", "Directement traversé par la large vallée du fleuve Niémen", "Les hauteurs s'étendent sur environ 60 kilomètres de long", "La largeur varie généralement entre 20 et 30 kilomètres", "Les origines géologiques remontent à la glaciation saalienne (Sozh)", "Borde les collines de Sokółka en Pologne, géographiquement similaires", "Plus de 40 % des terres sont consacrées à l'usage agricole", "Présente principalement des collines en forme de dôme en pente douce"],
     }
-    , image: "/poi-images/belarus-grodno-upland-relief-v2.webp",
+    image: "/poi-images/belarus-grodno-upland-relief-v2.webp",
 },  {
     id: "belarus-volkovysk-upland-relief-v2",
     parent: "BY",
@@ -414,7 +414,7 @@ imageHint: "Gentle hills of Volkovysk Upland",
       pt: ["A altitude máxima atinge 242 metros acima do nível do mar", "Cobre uma área total de aproximadamente 3.200 quilómetros quadrados", "Estende-se por 70 quilómetros de norte a sul", "Famosa por extensos depósitos sedimentares de giz perto da superfície", "Pedreiras de giz abandonadas e inundadas formam as 'Maldivas Bielorrussas'", "Forma a linha divisória de águas entre as bacias dos rios Neman e Narew", "Mais de 50% da superfície das terras altas é cultivada ativamente", "Geologicamente composta principalmente por moreias da glaciação de Sozh"],
       fr: ["L'altitude maximale atteint 242 mètres au-dessus du niveau de la mer", "Couvre une superficie totale d'environ 3 200 kilomètres carrés", "S'étend sur 70 kilomètres du nord au sud", "Célèbre pour ses vastes dépôts sédimentaires de craie affleurants", "Les carrières de craie inondées forment les 'Maldives biélorusses'", "Forme la ligne de partage des eaux entre les bassins du Niémen et de la Narew", "Plus de 50 % de la surface est exploitée activement par l'agriculture", "Géologiquement composée principalement de moraines de la glaciation de Sozh"],
     }
-    , image: "/poi-images/belarus-volkovysk-upland-relief-v2.webp",
+    image: "/poi-images/belarus-volkovysk-upland-relief-v2.webp",
 },  {
     id: "belarus-slonim-upland-relief-v2",
     parent: "BY",
@@ -460,7 +460,7 @@ imageHint: "Sandy hills and pine forest of Slonim",
       pt: ["A altitude máxima atinge 223 metros acima do nível do mar", "A área total das terras altas cobre aproximadamente 1.900 quilómetros quadrados", "Estende-se por cerca de 60 quilómetros de comprimento", "Composto maioritariamente por depósitos de areia e cascalho glaciofluviais", "Bisseccionado pelo rio Shchara, um importante afluente do Neman", "Cerca de 35% das terras altas estão cobertas por florestas de pinheiros", "Os solos são principalmente podzóis arenosos, pobres em nutrientes agrícolas", "Formado durante a fase glaciar de Saale (Sozh)"],
       fr: ["L'altitude maximale atteint 223 mètres au-dessus du niveau de la mer", "La superficie totale couvre environ 1 900 kilomètres carrés", "S'étend sur environ 60 kilomètres de long", "Composé en grande partie de dépôts de sable et de gravier glacio-fluviaux", "Traversé par la rivière Chtchara, un affluent majeur du Niémen", "Environ 35 % des hauteurs sont couvertes de forêts de pins sylvestres", "Les sols sont principalement des podzols sableux, pauvres en nutriments agricoles", "Formé pendant le stade glaciaire de la Saale (Sozh)"],
     }
-    , image: "/poi-images/belarus-slonim-upland-relief-v2.webp",
+    image: "/poi-images/belarus-slonim-upland-relief-v2.webp",
 },  {
     id: "belarus-kopyl-ridge-relief-v2",
     parent: "BY",
@@ -693,7 +693,7 @@ imageHint: "Vast marshlands of Polesie",
       pt: ["Ocupa cerca de 30% do território total do país", "A elevação média é excecionalmente baixa, entre 110 e 130 metros", "Centrada em torno do vasto rio Pripiat e da sua planície aluvial", "Constitui o maior complexo contínuo de zonas húmidas da Europa", "Geologicamente situada na depressão tectónica de Pripiat", "Apresenta extensões imensas de planícies arenosas e pântanos de turfa", "Sistemas de drenagem artificial maciços foram construídos na era soviética", "Habitat crítico que acolhe anualmente milhões de aves aquáticas migratórias"],
       fr: ["Occupe environ 30 % du territoire total du pays", "L'altitude moyenne est exceptionnellement basse, entre 110 et 130 mètres", "Centrée sur la vaste rivière Pripiat et sa plaine d'inondation", "Constitue le plus grand complexe de zones humides d'un seul tenant en Europe", "Située géologiquement dans la dépression tectonique de la Pripiat", "Présente d'immenses étendues de plaines sableuses et de tourbières", "D'importants systèmes de drainage artificiel ont été construits à l'époque soviétique", "Habitat critique accueillant chaque année des millions d'oiseaux migrateurs"],
     }
-    , image: "/poi-images/belarus-polesie-lowland-relief-v2.webp",
+    image: "/poi-images/belarus-polesie-lowland-relief-v2.webp",
 },  {
     id: "belarus-logoysk-crater-relief-v2",
     parent: "BY",
@@ -739,7 +739,7 @@ imageHint: "Satellite topographic map of Logoysk",
       pt: ["O diâmetro da estrutura de impacto subterrânea é de cerca de 15 quilómetros", "Formado precisamente há 42,3 milhões de anos durante a época do Eoceno", "Enterrado completamente sob 800 metros de rocha glacial e sedimentar", "Descoberto puramente por acaso em 1973 durante perfurações profundas", "Estima-se que o asteroide de impacto tivesse 650 metros de diâmetro", "A brechação da rocha e a deformação severa estendem-se por mais de 1.000 metros de profundidade", "Gera anomalias magnéticas e gravitacionais locais altamente distintas", "Não possui absolutamente nenhuma expressão topográfica visível na superfície"],
       fr: ["Le diamètre de la structure d'impact souterraine est d'environ 15 kilomètres", "Formé précisément il y a 42,3 millions d'années pendant l'époque de l'Éocène", "Entièrement enfoui sous 800 mètres de roches glaciaires et sédimentaires", "Découvert purement par hasard en 1973 lors d'un forage profond", "L'astéroïde ayant provoqué l'impact est estimé à 650 mètres de diamètre", "La bréchification des roches et la déformation sévère s'étendent sur plus de 1 000 mètres de profondeur", "Génère des anomalies magnétiques et gravitationnelles locales très distinctes", "Ne possède absolument aucune expression topographique visible en surface"],
     }
-    , image: "/poi-images/belarus-logoysk-crater-relief-v2.webp",
+    image: "/poi-images/belarus-logoysk-crater-relief-v2.webp",
 },  {
     id: "belarus-vileyka-lowland-relief-v2",
     parent: "BY",
@@ -785,7 +785,7 @@ imageHint: "Vileyka reservoir and lowlands",
       pt: ["A altitude média varia entre 150 e 180 metros", "Situado ao longo da bacia média do rio Viliya (Neris)", "Dominado pela vasta albufeira de Vileyka (73,6 km²)", "A albufeira foi construída nos anos 70 para abastecer Minsk com água", "Caracterizado por planícies arenosas glaciofluviais planas", "As florestas de pinheiros cobrem cerca de 35% do território", "Inclui inúmeras turfeiras altas e de transição", "O solo é composto principalmente por podzóis arenosos pobres em nutrientes"],
       fr: ["L'altitude moyenne varie entre 150 et 180 mètres", "Situé le long du bassin moyen de la rivière Vilia (Neris)", "Dominé par le vaste réservoir de Vileïka (73,6 km²)", "Le réservoir fut construit dans les années 1970 pour alimenter Minsk", "Caractérisé par des plaines sableuses glacio-fluviales planes", "Les forêts de pins couvrent environ 35 % du territoire", "Comprend de nombreuses tourbières hautes et de transition", "Le sol se compose principalement de podzols sableux pauvres en nutriments"],
     }
-    , image: "/poi-images/belarus-vileyka-lowland-relief-v2.webp",
+    image: "/poi-images/belarus-vileyka-lowland-relief-v2.webp",
 },  {
     id: "belarus-lida-plain-relief-v2",
     parent: "BY",
@@ -831,7 +831,7 @@ imageHint: "Pine forests on the Lida Plain",
       pt: ["A altitude varia tipicamente entre 150 e 200 metros acima do nível do mar", "Centrada em torno da histórica cidade industrial de Lida", "Caracterizada por uma topografia glaciofluvial suavemente ondulada", "Estende-se por aproximadamente 120 quilómetros de oeste a este", "A largura da planície varia entre 40 e 50 quilómetros", "O subsolo consiste principalmente em areias e cascalho da glaciação Saaliana", "Cerca de 30% da planície é coberta por florestas de coníferas e mistas", "Intensamente utilizada tanto para agricultura como para pecuária"],
       fr: ["L'altitude varie généralement de 150 à 200 mètres au-dessus du niveau de la mer", "Centrée autour de la ville manufacturière historique de Lida", "Caractérisée par une topographie glacio-fluviale doucement ondulée", "S'étend sur environ 120 kilomètres d'ouest en est", "La largeur de la plaine varie entre 40 et 50 kilomètres", "Le sous-sol se compose principalement de sables et de graviers de la glaciation saalienne", "Environ 30 % de la plaine est couverte de forêts de conifères et mixtes", "Utilisée intensivement pour la culture et l'élevage"],
     }
-    , image: "/poi-images/belarus-lida-plain-relief-v2.webp",
+    image: "/poi-images/belarus-lida-plain-relief-v2.webp",
 },  {
     id: "belarus-baranovichi-plain-relief-v2",
     parent: "BY",
@@ -877,7 +877,7 @@ imageHint: "Vast agricultural fields of Baranovichi",
       pt: ["A altitude média situa-se consistentemente entre 180 e 200 metros", "Cobre uma área total de aproximadamente 2.500 quilómetros quadrados", "Uma das regiões não pantanosas mais planas de todo o país", "Os solos incluem argilas altamente férteis, ricas em húmus escuro", "Quase completamente desflorestada, com cobertura florestal inferior a 15%", "Serve como um centro agrícola primário e altamente produtivo para o centro da Bielorrússia", "Origina-se de moreias de fundo completamente aplanadas de glaciações antigas", "Drenada pelo curso superior do rio Shchara"],
       fr: ["L'altitude moyenne se situe systématiquement entre 180 et 200 mètres", "Couvre une superficie totale d'environ 2 500 kilomètres carrés", "L'une des régions non marécageuses les plus plates de tout le pays", "Les sols comprennent des limons très fertiles, riches en humus sombre", "Presque entièrement déboisée, avec une couverture forestière inférieure à 15 %", "Sert de pôle agricole primaire hautement productif pour la Biélorussie centrale", "Provient de moraines de fond complètement aplaties de glaciations anciennes", "Drainée par le cours supérieur de la rivière Shchara"],
     }
-    , image: "/poi-images/belarus-baranovichi-plain-relief-v2.webp",
+    image: "/poi-images/belarus-baranovichi-plain-relief-v2.webp",
 },  {
     id: "belarus-pribugskaya-plain-relief-v2",
     parent: "BY",
@@ -1017,7 +1017,7 @@ imageHint: "Sandy plain with dunes near Stolin",
       pt: ["Uma das regiões de terras baixas mais meridionais da Bielorrússia", "A altitude média é excecionalmente baixa, rondando os 125 metros", "Famosa pela presença de dunas de areia eólicas migratórias únicas", "Drenada por importantes afluentes do Pripyat, incluindo o Horyn e o Styr", "Caracterizada por planícies aluviais fluviais muito largas e dinamicamente ativas", "Alta vulnerabilidade regional a cheias primaveris frequentes e extensas", "Apresenta grandes extensões de florestas ribeirinhas de carvalho e carpe", "Caracterizada por solos arenosos com baixa fertilidade agrícola natural"],
       fr: ["L'une des régions de plaines les plus méridionales de Biélorussie", "L'altitude moyenne est exceptionnellement basse, autour de 125 mètres", "Célèbre pour ses dunes de sable éoliennes mobiles uniques", "Drainée par les affluents majeurs du Pripiat, dont le Horyn et le Styr", "Caractérisée par de très larges plaines d'inondation dynamiques", "Forte vulnérabilité régionale aux inondations printanières fréquentes", "Abrite de vastes forêts alluviales de chênes et de charmes", "Caractérisée par des sols sableux à faible fertilité naturelle"],
     }
-    , image: "/poi-images/belarus-stolin-lowland-relief-v2.webp",
+    image: "/poi-images/belarus-stolin-lowland-relief-v2.webp",
 },  {
     id: "belarus-gorodok-upland-relief-v2",
     parent: "BY",
@@ -1109,7 +1109,7 @@ imageHint: "Flat agricultural plain of Chashniki",
       pt: ["Apresenta um terreno plano a muito suavemente ondulado, com uma altitude média de 160 metros", "Formada originalmente no fundo de um enorme lago de degelo pós-glacial", "O subsolo é excecionalmente rico em argilas e lodos altamente férteis", "Situada geograficamente na extensa bacia hidrográfica do rio Duína Ocidental", "Altamente desenvolvida para agricultura intensiva devido à excelente qualidade do solo", "A maioria das florestas naturais foi desmatada exclusivamente para o cultivo de colheitas", "Caracterizada por diferenças de altura relativa muito baixas em toda a planície", "Rodeada dramaticamente pelas terras altas mais íngremes de Vitebsk e Orsha"],
       fr: ["Présente un terrain plat à très légèrement vallonné, avec une altitude moyenne de 160 mètres", "Formée à l'origine au fond d'un immense lac de fonte postglaciaire", "Le sous-sol est exceptionnellement riche en argiles à varves et en limons très fertiles", "Située géographiquement dans le vaste bassin versant de la rivière Dvina occidentale", "Hautement développée pour l'agriculture intensive en raison de l'excellente qualité du sol", "La plupart des forêts naturelles ont été défrichées exclusivement pour les cultures", "Caractérisée par de très faibles différences de hauteur relative à travers la plaine", "Bordée de manière spectaculaire par les plateaux plus escarpés de Vitebsk et d'Orsha"],
     }
-    , image: "/poi-images/belarus-chashniki-plain-relief-v2.webp",
+    image: "/poi-images/belarus-chashniki-plain-relief-v2.webp",
 },  {
     id: "belarus-zamkavaya-hara-relief-v2",
     parent: "BY",
@@ -1201,7 +1201,7 @@ imageHint: "Steep moraine ridge in Oshmyany",
       pt: ["Forma uma crista geográfica distinta dentro das maiores terras altas de Oshmyany", "Estende-se como uma cadeia contínua de moreias terminais íngremes e acidentadas", "As elevações máximas variam tipicamente entre 250 e 320 metros", "Contém altas concentrações de massivos blocos de granito escandinavo", "As encostas são notavelmente íngremes, frequentemente excedendo ângulos de 10 a 15 graus", "A crista atua como uma divisoria de águas local para os afluentes do Neman", "Os solos são principalmente rochosos e podzólicos, limitando severamente a agricultura", "Fortemente arborizada com povoamentos maduros de pinheiros e coníferas mistas"],
       fr: ["Forme une crête géographique distincte au sein des hautes terres d'Oshmyany", "S'étend comme une chaîne continue de moraines terminales escarpées et accidentées", "Les altitudes maximales se situent généralement entre 250 et 320 mètres", "Contient de fortes concentrations de blocs de granit scandinave massifs", "Les pentes sont notablement raides, dépassant souvent des angles de 10 à 15 degrés", "La crête agit comme une ligne de partage des eaux locale pour les affluents du Niémen", "Les sols sont principalement rocheux et podzoliques, limitant sévèrement l'agriculture", "Fortement boisée avec des peuplements matures de pins et de conifères mixtes"],
     }
-    , image: "/poi-images/belarus-ashmyany-ridge-relief-v2.webp",
+    image: "/poi-images/belarus-ashmyany-ridge-relief-v2.webp",
 },  {
     id: "belarus-surazh-lowland-relief-v2",
     parent: "BY",

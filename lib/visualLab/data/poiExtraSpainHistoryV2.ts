@@ -34,7 +34,7 @@ imageHint: "Ancient ruins of Sagunto Castle walls and Roman forum",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-sagunto-ruins-history-v2.webp",
+    image: "/poi-images/spain-sagunto-ruins-history-v2.webp",
 },  {
     id: "spain-numancia-ruins-history-v2",
     parent: "ES",
@@ -103,7 +103,7 @@ imageHint: "Roman amphitheater ruins of Italica near Seville",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-italica-ruins-history-v2.webp",
+    image: "/poi-images/spain-italica-ruins-history-v2.webp",
 },  {
     id: "spain-merida-theatre-history-v2",
     parent: "ES",
@@ -137,7 +137,7 @@ imageHint: "The Scaenae frons of the Roman Theatre in Merida",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-merida-theatre-history-v2.webp",
+    image: "/poi-images/spain-merida-theatre-history-v2.webp",
 },  {
     id: "spain-tarraco-amphitheatre-history-v2",
     parent: "ES",
@@ -206,7 +206,7 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-medina-azahara-ruins-history-v2.webp",
+    image: "/poi-images/spain-medina-azahara-ruins-history-v2.webp",
 },  {
     id: "spain-alcazar-segovia-history-v2",
     parent: "ES",
@@ -450,7 +450,7 @@ imageHint: "Monument commemorating the Battle of Bailen",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-battle-bailen-history-v2.webp",
+    image: "/poi-images/spain-battle-bailen-history-v2.webp",
 },  {
     id: "spain-battle-las-navas-tolosa-history-v2",
     parent: "ES",
@@ -484,7 +484,7 @@ imageHint: "Landscape of Las Navas de Tolosa with battle memorial",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-battle-las-navas-tolosa-history-v2.webp",
+    image: "/poi-images/spain-battle-las-navas-tolosa-history-v2.webp",
 },  {
     id: "spain-battle-brunete-history-v2",
     parent: "ES",
@@ -693,7 +693,7 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-tower-hercules-landmark-history-v2.webp",
+    image: "/poi-images/spain-tower-hercules-landmark-history-v2.webp",
 },  {
     id: "spain-palace-olite-history-v2",
     parent: "ES",
@@ -902,7 +902,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-empuries-ruins-history-v2.webp",
+    image: "/poi-images/spain-empuries-ruins-history-v2.webp",
 },  {
     id: "spain-castle-coca-history-v2",
     parent: "ES",

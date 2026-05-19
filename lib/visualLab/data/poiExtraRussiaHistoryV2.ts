@@ -34,7 +34,7 @@ imageHint: "Borodino battlefield monument and museum building",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-borodino-battlefield-history-v2.webp",
+    image: "/poi-images/russia-borodino-battlefield-history-v2.webp",
 },  {
     id: "russia-kulikovo-field-history-v2",
     parent: "RU",
@@ -68,7 +68,7 @@ imageHint: "Kulikovo Field memorial column and church",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-kulikovo-field-history-v2.webp",
+    image: "/poi-images/russia-kulikovo-field-history-v2.webp",
 },  {
     id: "russia-mamayev-kurgan-history-v2",
     parent: "RU",
@@ -102,7 +102,7 @@ imageHint: "The Motherland Calls statue Mamayev Kurgan Volgograd",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-mamayev-kurgan-history-v2.webp",
+    image: "/poi-images/russia-mamayev-kurgan-history-v2.webp",
 },  {
     id: "russia-peterhof-palace-history-v2",
     parent: "RU",
@@ -136,7 +136,7 @@ imageHint: "Grand Palace and Cascade fountains Peterhof St Petersburg",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-peterhof-palace-history-v2.webp",
+    image: "/poi-images/russia-peterhof-palace-history-v2.webp",
 },  {
     id: "russia-solovetsky-monastery-history-v2",
     parent: "RU",
@@ -170,7 +170,7 @@ imageHint: "Solovetsky Monastery fortress on the White Sea coast",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-solovetsky-monastery-history-v2.webp",
+    image: "/poi-images/russia-solovetsky-monastery-history-v2.webp",
 },  {
     id: "russia-arkaim-ruins-history-v2",
     parent: "RU",
@@ -204,7 +204,7 @@ imageHint: "Aerial view of Arkaim archaeological site circular structure",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-arkaim-ruins-history-v2.webp",
+    image: "/poi-images/russia-arkaim-ruins-history-v2.webp",
 },  {
     id: "russia-derbent-fortress-history-v2",
     parent: "RU",
@@ -238,7 +238,7 @@ imageHint: "Naryn-Kala fortress walls Derbent Dagestan",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-derbent-fortress-history-v2.webp",
+    image: "/poi-images/russia-derbent-fortress-history-v2.webp",
 },  {
     id: "russia-kazan-kremlin-history-v2",
     parent: "RU",
@@ -272,7 +272,7 @@ imageHint: "Kazan Kremlin with Kul Sharif mosque and Annunciation Cathedral",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-kazan-kremlin-history-v2.webp",
+    image: "/poi-images/russia-kazan-kremlin-history-v2.webp",
 },  {
     id: "russia-novgorod-kremlin-history-v2",
     parent: "RU",
@@ -306,7 +306,7 @@ imageHint: "Novgorod Kremlin red brick walls and towers",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-novgorod-kremlin-history-v2.webp",
+    image: "/poi-images/russia-novgorod-kremlin-history-v2.webp",
 },    {
     id: "russia-suzdal-kremlin-history-v2",
     parent: "RU",
@@ -340,7 +340,7 @@ imageHint: "Suzdal Kremlin with blue-domed Cathedral of the Nativity",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-suzdal-kremlin-history-v2.webp",
+    image: "/poi-images/russia-suzdal-kremlin-history-v2.webp",
 },  {
     id: "russia-vladimir-golden-gate-history-v2",
     parent: "RU",
@@ -374,7 +374,7 @@ imageHint: "Golden Gate of Vladimir historic white stone arch",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-vladimir-golden-gate-history-v2.webp",
+    image: "/poi-images/russia-vladimir-golden-gate-history-v2.webp",
 },  {
     id: "russia-bolghar-ruins-history-v2",
     parent: "RU",
@@ -408,7 +408,7 @@ imageHint: "Ancient Bolghar ruins and the White Mosque",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-bolghar-ruins-history-v2.webp",
+    image: "/poi-images/russia-bolghar-ruins-history-v2.webp",
 },  {
     id: "russia-tanais-ruins-history-v2",
     parent: "RU",
@@ -442,7 +442,7 @@ imageHint: "Archaeological excavations of Tanais ancient Greek city",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-tanais-ruins-history-v2.webp",
+    image: "/poi-images/russia-tanais-ruins-history-v2.webp",
 },  {
     id: "russia-shlisselburg-fortress-history-v2",
     parent: "RU",
@@ -476,7 +476,7 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-shlisselburg-fortress-history-v2.webp",
+    image: "/poi-images/russia-shlisselburg-fortress-history-v2.webp",
 },  {
     id: "russia-vyborg-castle-history-v2",
     parent: "RU",
@@ -510,7 +510,7 @@ imageHint: "Vyborg Castle and St. Olaf's Tower",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-vyborg-castle-history-v2.webp",
+    image: "/poi-images/russia-vyborg-castle-history-v2.webp",
 },  {
     id: "russia-winter-palace-history-v2",
     parent: "RU",
@@ -544,7 +544,7 @@ imageHint: "Winter Palace Hermitage Museum St Petersburg",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-winter-palace-history-v2.webp",
+    image: "/poi-images/russia-winter-palace-history-v2.webp",
 },  {
     id: "russia-catherine-palace-history-v2",
     parent: "RU",
@@ -578,7 +578,7 @@ imageHint: "Catherine Palace blue facade Tsarskoye Selo",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-catherine-palace-history-v2.webp",
+    image: "/poi-images/russia-catherine-palace-history-v2.webp",
 },  {
     id: "russia-moscow-kremlin-history-v2",
     parent: "RU",
@@ -612,7 +612,7 @@ imageHint: "Moscow Kremlin towers and cathedrals aerial view",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-moscow-kremlin-history-v2.webp",
+    image: "/poi-images/russia-moscow-kremlin-history-v2.webp",
 },  {
     id: "russia-red-square-history-v2",
     parent: "RU",
@@ -646,7 +646,7 @@ imageHint: "Red Square Moscow with St Basil's Cathedral",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-red-square-history-v2.webp",
+    image: "/poi-images/russia-red-square-history-v2.webp",
 },  {
     id: "russia-peter-paul-fortress-history-v2",
     parent: "RU",
@@ -680,7 +680,7 @@ imageHint: "Peter and Paul Fortress aerial view Hare Island",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-peter-paul-fortress-history-v2.webp",
+    image: "/poi-images/russia-peter-paul-fortress-history-v2.webp",
 },  {
     id: "russia-kizhi-pogost-history-v2",
     parent: "RU",
@@ -714,7 +714,7 @@ imageHint: "Kizhi Pogost multi-domed wooden church",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-kizhi-pogost-history-v2.webp",
+    image: "/poi-images/russia-kizhi-pogost-history-v2.webp",
 },  {
     id: "russia-prokhorovka-battlefield-history-v2",
     parent: "RU",
@@ -748,7 +748,7 @@ imageHint: "Prokhorovka battlefield memorial bell tower and tanks",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-prokhorovka-battlefield-history-v2.webp",
+    image: "/poi-images/russia-prokhorovka-battlefield-history-v2.webp",
 },  {
     id: "russia-intercession-on-nerl-history-v2",
     parent: "RU",
@@ -782,7 +782,7 @@ imageHint: "Church of the Intercession on the Nerl white stone",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-intercession-on-nerl-history-v2.webp",
+    image: "/poi-images/russia-intercession-on-nerl-history-v2.webp",
 },  {
     id: "russia-trinity-lavra-history-v2",
     parent: "RU",
@@ -816,7 +816,7 @@ imageHint: "Trinity Lavra of St Sergius Sergiyev Posad",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-trinity-lavra-history-v2.webp",
+    image: "/poi-images/russia-trinity-lavra-history-v2.webp",
 },  {
     id: "russia-kronstadt-naval-cathedral-history-v2",
     parent: "RU",
@@ -850,7 +850,7 @@ imageHint: "Kronstadt Naval Cathedral St Nicholas",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-kronstadt-naval-cathedral-history-v2.webp",
+    image: "/poi-images/russia-kronstadt-naval-cathedral-history-v2.webp",
 },  {
     id: "russia-yusupov-palace-history-v2",
     parent: "RU",
@@ -884,7 +884,7 @@ imageHint: "Yusupov Palace on Moika River St Petersburg",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-yusupov-palace-history-v2.webp",
+    image: "/poi-images/russia-yusupov-palace-history-v2.webp",
 },  {
     id: "russia-gatchina-palace-history-v2",
     parent: "RU",
@@ -918,7 +918,7 @@ imageHint: "Gatchina Palace and park St Petersburg",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-gatchina-palace-history-v2.webp",
+    image: "/poi-images/russia-gatchina-palace-history-v2.webp",
 },  {
     id: "russia-pavlovsk-palace-history-v2",
     parent: "RU",
@@ -952,7 +952,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-pavlovsk-palace-history-v2.webp",
+    image: "/poi-images/russia-pavlovsk-palace-history-v2.webp",
 },  {
     id: "russia-alexander-nevsky-lavra-history-v2",
     parent: "RU",

@@ -34,7 +34,7 @@ imageHint: "Sagrada Familia basilica in Barcelona at sunrise",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-sagrada-familia-landmarks-v2.webp",
+    image: "/poi-images/spain-sagrada-familia-landmarks-v2.webp",
 },  {
     id: "spain-mezquita-cordoba-landmarks-v2",
     parent: "ES",
@@ -68,7 +68,7 @@ imageHint: "Interior of Mosque-Cathedral of Cordoba with red and white arches",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-mezquita-cordoba-landmarks-v2.webp",
+    image: "/poi-images/spain-mezquita-cordoba-landmarks-v2.webp",
 },  {
     id: "spain-seville-cathedral-landmarks-v2",
     parent: "ES",
@@ -102,7 +102,7 @@ imageHint: "Seville Cathedral and Giralda tower at dusk",
       ro: ["Catedrala a fost construită între anii 1401 și 1506.", "Giralda are 104 metri înălțime și dispune de 35 de rampe în loc de scări.", "Retablo Mayor are 20 de metri înălțime și 18 metri lățime.", "Cristofor Columb a fost înmormântat definitiv în catedrală în 1899.", "Nava centrală are 42 de metri înălțime, fiind cea mai înaltă din Spania.", "Catedrala are 80 de capele și 15 portaluri."],
       en: ["The cathedral was built between 1401 and 1506.", "The Giralda is 104 meters high and features 35 ramps instead of stairs.", "The Retablo Mayor is 20 meters high and 18 meters wide.", "Christopher Columbus was definitively interred in the cathedral in 1899.", "The central nave is 42 meters high, the tallest in Spain.", "The cathedral features 80 chapels and 15 portals."],
     },
-    , image: "/poi-images/spain-seville-cathedral-landmarks-v2.webp",
+    image: "/poi-images/spain-seville-cathedral-landmarks-v2.webp",
 },  {
     id: "spain-prado-museum-landmarks-v2",
     parent: "ES",
@@ -136,7 +136,7 @@ imageHint: "Main facade of the Prado Museum in Madrid",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-prado-museum-landmarks-v2.webp",
+    image: "/poi-images/spain-prado-museum-landmarks-v2.webp",
 },  {
     id: "spain-guggenheim-bilbao-landmarks-v2",
     parent: "ES",
@@ -170,7 +170,7 @@ imageHint: "Guggenheim Museum Bilbao with titanium exterior",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-guggenheim-bilbao-landmarks-v2.webp",
+    image: "/poi-images/spain-guggenheim-bilbao-landmarks-v2.webp",
 },  {
     id: "spain-aqueduct-segovia-landmarks-v2",
     parent: "ES",
@@ -204,7 +204,7 @@ imageHint: "Roman Aqueduct of Segovia at Plaza del Azoguejo",
       ro: ["Construit în secolul I d.Hr.", "Are în total 167 de arcade", "Înălțimea maximă este de 28,5 metri", "Lungimea apeductului este de 15 km", "Construit din granit fără mortar", "Patrimoniu UNESCO din anul 1985"],
       en: ["Built in the 1st century AD", "Features 167 individual arches", "Maximum height of 28.5 meters", "Total length of about 15 kilometers", "Constructed without mortar or cement", "UNESCO World Heritage site since 1985"],
     },
-    , image: "/poi-images/spain-aqueduct-segovia-landmarks-v2.webp",
+    image: "/poi-images/spain-aqueduct-segovia-landmarks-v2.webp",
 },  {
     id: "spain-burgos-cathedral-landmarks-v2",
     parent: "ES",
@@ -238,7 +238,7 @@ imageHint: "Burgos Cathedral exterior facade and spires",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-burgos-cathedral-landmarks-v2.webp",
+    image: "/poi-images/spain-burgos-cathedral-landmarks-v2.webp",
 },  {
     id: "spain-santiago-cathedral-landmarks-v2",
     parent: "ES",
@@ -272,7 +272,7 @@ imageHint: "Facade of Santiago de Compostela Cathedral at Plaza del Obradoiro",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-santiago-cathedral-landmarks-v2.webp",
+    image: "/poi-images/spain-santiago-cathedral-landmarks-v2.webp",
 },  {
     id: "spain-casa-mila-landmarks-v2",
     parent: "ES",
@@ -306,7 +306,7 @@ imageHint: "Casa Mila La Pedrera rooftop with decorated chimneys",
       ro: ["Construită între 1906 și 1912", "Proiectată de arhitectul Antoni Gaudí", "Patrimoniu Mondial UNESCO din 1984", "Poreclită La Pedrera (Cariera de piatră)", "Structură inovatoare fără pereți portanți", "Hornuri sculpturale celebre pe acoperiș"],
       en: ["Constructed between 1906 and 1912", "Designed by architect Antoni Gaudí", "UNESCO World Heritage site since 1984", "Nicknamed La Pedrera (The Quarry)", "First building with an underground garage", "Unique surrealist rooftop chimneys"],
     },
-    , image: "/poi-images/spain-casa-mila-landmarks-v2.webp",
+    image: "/poi-images/spain-casa-mila-landmarks-v2.webp",
 },  {
     id: "spain-walls-avila-landmarks-v2",
     parent: "ES",
@@ -340,7 +340,7 @@ imageHint: "Medieval walls of Avila panoramic view",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-walls-avila-landmarks-v2.webp",
+    image: "/poi-images/spain-walls-avila-landmarks-v2.webp",
 },  {
     id: "spain-hanging-houses-cuenca-landmarks-v2",
     parent: "ES",
@@ -374,7 +374,7 @@ imageHint: "Hanging Houses of Cuenca overlooking the gorge",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-hanging-houses-cuenca-landmarks-v2.webp",
+    image: "/poi-images/spain-hanging-houses-cuenca-landmarks-v2.webp",
 },  {
     id: "spain-palau-musica-catalana-landmarks-v2",
     parent: "ES",
@@ -408,7 +408,7 @@ imageHint: "Palau de la Musica Catalana concert hall interior",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-palau-musica-catalana-landmarks-v2.webp",
+    image: "/poi-images/spain-palau-musica-catalana-landmarks-v2.webp",
 },  {
     id: "spain-plaza-espana-seville-landmarks-v2",
     parent: "ES",
@@ -442,7 +442,7 @@ imageHint: "Plaza de Espana in Seville with canal and bridges",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-plaza-espana-seville-landmarks-v2.webp",
+    image: "/poi-images/spain-plaza-espana-seville-landmarks-v2.webp",
 },  {
     id: "spain-alcazar-seville-landmarks-v2",
     parent: "ES",
@@ -476,7 +476,7 @@ imageHint: "Patio de las Doncellas in the Alcázar of Seville",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-alcazar-seville-landmarks-v2.webp",
+    image: "/poi-images/spain-alcazar-seville-landmarks-v2.webp",
 },  {
     id: "spain-city-arts-sciences-landmarks-v2",
     parent: "ES",
@@ -510,7 +510,7 @@ imageHint: "City of Arts and Sciences Valencia at night",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-city-arts-sciences-landmarks-v2.webp",
+    image: "/poi-images/spain-city-arts-sciences-landmarks-v2.webp",
 },  {
     id: "spain-monastery-montserrat-landmarks-v2",
     parent: "ES",
@@ -544,7 +544,7 @@ imageHint: "Monastery of Montserrat in the mountains",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-monastery-montserrat-landmarks-v2.webp",
+    image: "/poi-images/spain-monastery-montserrat-landmarks-v2.webp",
 },  {
     id: "spain-generalife-landmarks-v2",
     parent: "ES",
@@ -578,7 +578,7 @@ imageHint: "Generalife gardens and palace in Granada",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-generalife-landmarks-v2.webp",
+    image: "/poi-images/spain-generalife-landmarks-v2.webp",
 },  {
     id: "spain-puerta-del-sol-landmarks-v2",
     parent: "ES",
@@ -612,7 +612,7 @@ imageHint: "Puerta del Sol square in Madrid with the clock tower",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-puerta-del-sol-landmarks-v2.webp",
+    image: "/poi-images/spain-puerta-del-sol-landmarks-v2.webp",
 },  {
     id: "spain-toledo-cathedral-landmarks-v2",
     parent: "ES",
@@ -647,7 +647,7 @@ imageHint: "Toledo Cathedral exterior at night",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-toledo-cathedral-landmarks-v2.webp",
+    image: "/poi-images/spain-toledo-cathedral-landmarks-v2.webp",
 },  {
     id: "spain-casa-battlo-landmarks-v2",
     parent: "ES",
@@ -681,7 +681,7 @@ imageHint: "Casa Batllo facade with colorful mosaics and bone-like columns",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-casa-battlo-landmarks-v2.webp",
+    image: "/poi-images/spain-casa-battlo-landmarks-v2.webp",
 },  {
     id: "spain-castillo-loarre-landmarks-v2",
     parent: "ES",
@@ -715,7 +715,7 @@ imageHint: "Castillo de Loarre fortress on a rocky hill",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-castillo-loarre-landmarks-v2.webp",
+    image: "/poi-images/spain-castillo-loarre-landmarks-v2.webp",
 },  {
     id: "spain-palma-cathedral-landmarks-v2",
     parent: "ES",
@@ -749,7 +749,7 @@ imageHint: "Palma de Mallorca Cathedral overlooking the sea",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-palma-cathedral-landmarks-v2.webp",
+    image: "/poi-images/spain-palma-cathedral-landmarks-v2.webp",
 },  {
     id: "spain-roman-bridge-cordoba-landmarks-v2",
     parent: "ES",
@@ -783,7 +783,7 @@ imageHint: "Roman Bridge of Cordoba at sunset with the cathedral in the backgrou
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-roman-bridge-cordoba-landmarks-v2.webp",
+    image: "/poi-images/spain-roman-bridge-cordoba-landmarks-v2.webp",
 },  {
     id: "spain-monastery-poblet-landmarks-v2",
     parent: "ES",

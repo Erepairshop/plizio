@@ -34,7 +34,7 @@ imageHint: "Snowy Verkhoyansk Range peaks under Arctic light",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-verkhoyansk-range-relief-v2.webp",
+    image: "/poi-images/russia-verkhoyansk-range-relief-v2.webp",
 },  {
     id: "russia-chersky-range-relief-v2",
     parent: "RU",
@@ -68,7 +68,7 @@ imageHint: "Rugged granite peaks of the Chersky Range",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-chersky-range-relief-v2.webp",
+    image: "/poi-images/russia-chersky-range-relief-v2.webp",
 },  {
     id: "russia-west-siberian-plain-relief-v2",
     parent: "RU",
@@ -102,7 +102,7 @@ imageHint: "Vast marshy plain with meandering rivers in West Siberia",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-west-siberian-plain-relief-v2.webp",
+    image: "/poi-images/russia-west-siberian-plain-relief-v2.webp",
 },  {
     id: "russia-central-siberian-plateau-relief-v2",
     parent: "RU",
@@ -136,7 +136,7 @@ imageHint: "Elevated forest plateau with river canyon in Central Siberia",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-central-siberian-plateau-relief-v2.webp",
+    image: "/poi-images/russia-central-siberian-plateau-relief-v2.webp",
 },  {
     id: "russia-valdai-hills-relief-v2",
     parent: "RU",
@@ -170,7 +170,7 @@ imageHint: "Gently rolling green hills with lakes in Valdai region",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-valdai-hills-relief-v2.webp",
+    image: "/poi-images/russia-valdai-hills-relief-v2.webp",
 },  {
     id: "russia-sayan-mountains-relief-v2",
     parent: "RU",
@@ -204,7 +204,7 @@ imageHint: "Dramatic granite rock formations in the Sayan Mountains",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-sayan-mountains-relief-v2.webp",
+    image: "/poi-images/russia-sayan-mountains-relief-v2.webp",
 },  {
     id: "russia-stanovoy-highlands-relief-v2",
     parent: "RU",
@@ -238,7 +238,7 @@ imageHint: "High mountain ridges and deep valleys of the Stanovoy Highlands",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-stanovoy-highlands-relief-v2.webp",
+    image: "/poi-images/russia-stanovoy-highlands-relief-v2.webp",
 },  {
     id: "russia-byrranga-mountains-relief-v2",
     parent: "RU",
@@ -272,7 +272,7 @@ imageHint: "Desolate Arctic mountain landscape of the Byrranga range",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-byrranga-mountains-relief-v2.webp",
+    image: "/poi-images/russia-byrranga-mountains-relief-v2.webp",
 },  {
     id: "russia-khibiny-mountains-relief-v2",
     parent: "RU",
@@ -306,7 +306,7 @@ imageHint: "Flat-topped tundra mountains of the Khibiny massif",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-khibiny-mountains-relief-v2.webp",
+    image: "/poi-images/russia-khibiny-mountains-relief-v2.webp",
 },  {
     id: "russia-mount-dykh-tau-relief-v2",
     parent: "RU",
@@ -340,7 +340,7 @@ imageHint: "Sharp granite pyramid of Mount Dykh-Tau in the Caucasus",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-mount-dykh-tau-relief-v2.webp",
+    image: "/poi-images/russia-mount-dykh-tau-relief-v2.webp",
 },  {
     id: "russia-mount-koshtan-tau-relief-v2",
     parent: "RU",
@@ -374,7 +374,7 @@ imageHint: "Snowy peak of Mount Koshtan-Tau against blue sky",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-mount-koshtan-tau-relief-v2.webp",
+    image: "/poi-images/russia-mount-koshtan-tau-relief-v2.webp",
 },  {
     id: "russia-mount-pobeda-relief-v2",
     parent: "RU",
@@ -408,7 +408,7 @@ imageHint: "Isolated snowy peak of Mount Pobeda in Yakutia",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-mount-pobeda-relief-v2.webp",
+    image: "/poi-images/russia-mount-pobeda-relief-v2.webp",
 },  {
     id: "russia-mount-munku-sardyk-relief-v2",
     parent: "RU",
@@ -442,7 +442,7 @@ imageHint: "Snowy peak of Munku-Sardyk on the Mongolian border",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-mount-munku-sardyk-relief-v2.webp",
+    image: "/poi-images/russia-mount-munku-sardyk-relief-v2.webp",
 },  {
     id: "russia-kronotsky-volcano-relief-v2",
     parent: "RU",
@@ -476,7 +476,7 @@ imageHint: "Symmetrical snowy volcano cone reflected in a lake",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-kronotsky-volcano-relief-v2.webp",
+    image: "/poi-images/russia-kronotsky-volcano-relief-v2.webp",
 },  {
     id: "russia-koryaksky-volcano-relief-v2",
     parent: "RU",
@@ -510,7 +510,7 @@ imageHint: "Large volcano overlooking Petropavlovsk-Kamchatsky city",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-koryaksky-volcano-relief-v2.webp",
+    image: "/poi-images/russia-koryaksky-volcano-relief-v2.webp",
 },  {
     id: "russia-avachinsky-volcano-relief-v2",
     parent: "RU",
@@ -544,7 +544,7 @@ imageHint: "Volcano crater with solidified lava and steam vents",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-avachinsky-volcano-relief-v2.webp",
+    image: "/poi-images/russia-avachinsky-volcano-relief-v2.webp",
 },  {
     id: "russia-dzhugdzhur-mountains-relief-v2",
     parent: "RU",
@@ -578,7 +578,7 @@ imageHint: "Mountain range meeting the cold Okhotsk sea coast",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-dzhugdzhur-mountains-relief-v2.webp",
+    image: "/poi-images/russia-dzhugdzhur-mountains-relief-v2.webp",
 },  {
     id: "russia-kolyma-mountains-relief-v2",
     parent: "RU",
@@ -612,7 +612,7 @@ imageHint: "Vast undulating mountain tundra of the Kolyma region",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-kolyma-mountains-relief-v2.webp",
+    image: "/poi-images/russia-kolyma-mountains-relief-v2.webp",
 },  {
     id: "russia-anadyr-plateau-relief-v2",
     parent: "RU",
@@ -646,7 +646,7 @@ imageHint: "Barren rocky plateau in the Chukotka wilderness",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-anadyr-plateau-relief-v2.webp",
+    image: "/poi-images/russia-anadyr-plateau-relief-v2.webp",
 },  {
     id: "russia-barguzin-range-relief-v2",
     parent: "RU",
@@ -680,7 +680,7 @@ imageHint: "Jagged mountain peaks overlooking Lake Baikal",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-barguzin-range-relief-v2.webp",
+    image: "/poi-images/russia-barguzin-range-relief-v2.webp",
 },  {
     id: "russia-khamar-daban-relief-v2",
     parent: "RU",
@@ -714,7 +714,7 @@ imageHint: "Lush green mountain forests and rocky ridges south of Baikal",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-khamar-daban-relief-v2.webp",
+    image: "/poi-images/russia-khamar-daban-relief-v2.webp",
 },  {
     id: "russia-baikal-mountains-relief-v2",
     parent: "RU",
@@ -748,7 +748,7 @@ imageHint: "Snow-capped mountains rising directly from the blue Baikal water",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-baikal-mountains-relief-v2.webp",
+    image: "/poi-images/russia-baikal-mountains-relief-v2.webp",
 },  {
     id: "russia-mount-narodnaya-relief-v2",
     parent: "RU",
@@ -782,7 +782,7 @@ imageHint: "Highest peak of the Ural mountains with rocky terrain",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-mount-narodnaya-relief-v2.webp",
+    image: "/poi-images/russia-mount-narodnaya-relief-v2.webp",
 },  {
     id: "russia-stanovoy-range-relief-v2",
     parent: "RU",
@@ -816,7 +816,7 @@ imageHint: "Forested mountain ridges in the Russian Far East",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-stanovoy-range-relief-v2.webp",
+    image: "/poi-images/russia-stanovoy-range-relief-v2.webp",
 },
   {
     id: "russia-central-russian-upland-relief-v2",
@@ -885,7 +885,7 @@ imageHint: "Sharp peaks of Kodar Mountains in Transbaikalia",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-kodar-mountains-relief-v2.webp",
+    image: "/poi-images/russia-kodar-mountains-relief-v2.webp",
 },  {
     id: "russia-chukchi-highlands-relief-v2",
     parent: "RU",
@@ -953,7 +953,7 @@ imageHint: "Eroded hills and forests of Timan Ridge",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-timan-ridge-relief-v2.webp",
+    image: "/poi-images/russia-timan-ridge-relief-v2.webp",
 },  {
     id: "russia-volga-upland-relief-v2",
     parent: "RU",

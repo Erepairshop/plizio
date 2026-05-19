@@ -34,7 +34,7 @@ imageHint: "Vilnius Cathedral and its bell tower on Cathedral Square",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-vilnius-cathedral-landmarks-v2.webp",
+    image: "/poi-images/lithuania-vilnius-cathedral-landmarks-v2.webp",
 },  {
     id: "lithuania-st-annes-church-landmarks-v2",
     parent: "LT",
@@ -68,7 +68,7 @@ imageHint: "St. Anne's Church Vilnius red brick facade",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-st-annes-church-landmarks-v2.webp",
+    image: "/poi-images/lithuania-st-annes-church-landmarks-v2.webp",
 },  {
     id: "lithuania-gates-of-dawn-landmarks-v2",
     parent: "LT",
@@ -102,7 +102,7 @@ imageHint: "Gates of Dawn Vilnius exterior with chapel window",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-gates-of-dawn-landmarks-v2.webp",
+    image: "/poi-images/lithuania-gates-of-dawn-landmarks-v2.webp",
 },  {
     id: "lithuania-kaunas-castle-landmarks-v2",
     parent: "LT",
@@ -136,7 +136,7 @@ imageHint: "Kaunas Castle round tower and ruins",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-kaunas-castle-landmarks-v2.webp",
+    image: "/poi-images/lithuania-kaunas-castle-landmarks-v2.webp",
 },  {
     id: "lithuania-hill-of-witches-landmarks-v2",
     parent: "LT",
@@ -204,7 +204,7 @@ imageHint: "Europos Parkas outdoor sculptures in Lithuania",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-europos-parkas-landmarks-v2.webp",
+    image: "/poi-images/lithuania-europos-parkas-landmarks-v2.webp",
 },  {
     id: "lithuania-grutas-park-landmarks-v2",
     parent: "LT",
@@ -238,7 +238,7 @@ imageHint: "Grutas Park Soviet statues and monuments",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-grutas-park-landmarks-v2.webp",
+    image: "/poi-images/lithuania-grutas-park-landmarks-v2.webp",
 },  {
     id: "lithuania-open-air-museum-landmarks-v2",
     parent: "LT",
@@ -272,7 +272,7 @@ imageHint: "Rumsiskes Open Air Museum traditional wooden houses",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-open-air-museum-landmarks-v2.webp",
+    image: "/poi-images/lithuania-open-air-museum-landmarks-v2.webp",
 },  {
     id: "lithuania-vilnius-tv-tower-landmarks-v2",
     parent: "LT",
@@ -306,7 +306,7 @@ imageHint: "Vilnius TV Tower skyscraper view",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-vilnius-tv-tower-landmarks-v2.webp",
+    image: "/poi-images/lithuania-vilnius-tv-tower-landmarks-v2.webp",
 },  {
     id: "lithuania-st-peter-paul-church-landmarks-v2",
     parent: "LT",
@@ -340,7 +340,7 @@ imageHint: "St. Peter and St. Paul's Church Vilnius interior stucco",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-st-peter-paul-church-landmarks-v2.webp",
+    image: "/poi-images/lithuania-st-peter-paul-church-landmarks-v2.webp",
 },  {
     id: "lithuania-kaunas-town-hall-landmarks-v2",
     parent: "LT",
@@ -374,7 +374,7 @@ imageHint: "Kaunas Town Hall 'White Swan' building",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-kaunas-town-hall-landmarks-v2.webp",
+    image: "/poi-images/lithuania-kaunas-town-hall-landmarks-v2.webp",
 },  {
     id: "lithuania-kaunas-cathedral-landmarks-v2",
     parent: "LT",
@@ -408,7 +408,7 @@ imageHint: "Kaunas Cathedral Basilica brick exterior",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-kaunas-cathedral-landmarks-v2.webp",
+    image: "/poi-images/lithuania-kaunas-cathedral-landmarks-v2.webp",
 },  {
     id: "lithuania-christ-resurrection-church-landmarks-v2",
     parent: "LT",
@@ -442,7 +442,7 @@ imageHint: "Christ's Resurrection Church Kaunas white modern architecture",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-christ-resurrection-church-landmarks-v2.webp",
+    image: "/poi-images/lithuania-christ-resurrection-church-landmarks-v2.webp",
 },  {
     id: "lithuania-museum-ethnocosmology-landmarks-v2",
     parent: "LT",
@@ -476,7 +476,7 @@ imageHint: "Lithuanian Museum of Ethnocosmology futuristic building",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-museum-ethnocosmology-landmarks-v2.webp",
+    image: "/poi-images/lithuania-museum-ethnocosmology-landmarks-v2.webp",
 },    {
     id: "lithuania-uzupis-angel-landmarks-v2",
     parent: "LT",
@@ -510,7 +510,7 @@ imageHint: "Uzupis Angel statue on column in Vilnius",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-uzupis-angel-landmarks-v2.webp",
+    image: "/poi-images/lithuania-uzupis-angel-landmarks-v2.webp",
 },  {
     id: "lithuania-vilnius-bastion-landmarks-v2",
     parent: "LT",
@@ -544,7 +544,7 @@ imageHint: "Bastion of the Vilnius Defensive Wall brick structure",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-vilnius-bastion-landmarks-v2.webp",
+    image: "/poi-images/lithuania-vilnius-bastion-landmarks-v2.webp",
 },
   {
     id: "lithuania-vilnius-town-hall-landmarks-v2",
@@ -611,7 +611,7 @@ imageHint: "Three Crosses monument Vilnius on a hill at sunset",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-three-crosses-landmarks-v2.webp",
+    image: "/poi-images/lithuania-three-crosses-landmarks-v2.webp",
 },  {
     id: "lithuania-bernardine-church-landmarks-v2",
     parent: "LT",
@@ -644,7 +644,7 @@ imageHint: "Bernardine Church Vilnius red brick gothic exterior",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-bernardine-church-landmarks-v2.webp",
+    image: "/poi-images/lithuania-bernardine-church-landmarks-v2.webp",
 },  {
     id: "lithuania-mo-museum-landmarks-v2",
     parent: "LT",
@@ -677,7 +677,7 @@ imageHint: "MO Museum Vilnius modern architecture by Libeskind",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-mo-museum-landmarks-v2.webp",
+    image: "/poi-images/lithuania-mo-museum-landmarks-v2.webp",
 },  {
     id: "lithuania-national-museum-landmarks-v2",
     parent: "LT",
@@ -710,7 +710,7 @@ imageHint: "National Museum of Lithuania New Arsenal building Vilnius",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-national-museum-landmarks-v2.webp",
+    image: "/poi-images/lithuania-national-museum-landmarks-v2.webp",
 },  {
     id: "lithuania-ciurlionis-museum-landmarks-v2",
     parent: "LT",
@@ -743,7 +743,7 @@ imageHint: "Ciurlionis Art Museum Kaunas exterior building",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-ciurlionis-museum-landmarks-v2.webp",
+    image: "/poi-images/lithuania-ciurlionis-museum-landmarks-v2.webp",
 },  {
     id: "lithuania-raudondvaris-castle-landmarks-v2",
     parent: "LT",
@@ -776,7 +776,7 @@ imageHint: "Raudondvaris Castle manor and red brick tower",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-raudondvaris-castle-landmarks-v2.webp",
+    image: "/poi-images/lithuania-raudondvaris-castle-landmarks-v2.webp",
 },  {
     id: "lithuania-amber-museum-palanga-landmarks-v2",
     parent: "LT",

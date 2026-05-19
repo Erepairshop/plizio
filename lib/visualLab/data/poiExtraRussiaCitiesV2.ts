@@ -34,7 +34,7 @@ imageHint: "Moscow Kremlin and Saint Basil Cathedral",
       ro: ["Moscova a fost menționată pentru prima dată în cronici în anul 1147.", "Populația orașului depășește 13 milioane de locuitori conform datelor din 2023.", "Metroul din Moscova transportă zilnic peste 7 milioane de pasageri.", "Turnul Ostankino, cu o înălțime de 540 de metri, este cea mai înaltă structură din Europa.", "Orașul are peste 100 de parcuri și mai mult de 800 de lăcașuri de cult.", "Moscova este deservită de cinci aeroporturi internaționale majore."],
       en: ["Moscow was first officially mentioned in historical chronicles in 1147.", "The city's population is over 13 million as of 2023 statistics.", "The Moscow Metro serves more than 7 million passengers every day.", "The Ostankino Tower is the tallest free-standing structure in Europe at 540m.", "Moscow contains over 100 parks and more than 800 churches.", "The city is served by five international airports and nine railway terminals."],
     },
-    , image: "/poi-images/russia-moscow-cities-v2.webp",
+    image: "/poi-images/russia-moscow-cities-v2.webp",
 },  {
     id: "russia-saint-petersburg-cities-v2",
     parent: "RU",
@@ -68,7 +68,7 @@ imageHint: "Hermitage Museum in Saint Petersburg",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-saint-petersburg-cities-v2.webp",
+    image: "/poi-images/russia-saint-petersburg-cities-v2.webp",
 },  {
     id: "russia-novosibirsk-cities-v2",
     parent: "RU",
@@ -102,7 +102,7 @@ imageHint: "Novosibirsk Opera and Ballet Theatre",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-novosibirsk-cities-v2.webp",
+    image: "/poi-images/russia-novosibirsk-cities-v2.webp",
 },  {
     id: "russia-yekaterinburg-cities-v2",
     parent: "RU",
@@ -136,7 +136,7 @@ imageHint: "Church on Blood in Yekaterinburg",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-yekaterinburg-cities-v2.webp",
+    image: "/poi-images/russia-yekaterinburg-cities-v2.webp",
 },  {
     id: "russia-kazan-cities-v2",
     parent: "RU",
@@ -170,7 +170,7 @@ imageHint: "Kazan Kremlin with Kul Sharif Mosque",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-kazan-cities-v2.webp",
+    image: "/poi-images/russia-kazan-cities-v2.webp",
 },  {
     id: "russia-nizhny-novgorod-cities-v2",
     parent: "RU",
@@ -204,7 +204,7 @@ imageHint: "Nizhny Novgorod Kremlin wall",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-nizhny-novgorod-cities-v2.webp",
+    image: "/poi-images/russia-nizhny-novgorod-cities-v2.webp",
 },  {
     id: "russia-chelyabinsk-cities-v2",
     parent: "RU",
@@ -238,7 +238,7 @@ imageHint: "Chelyabinsk city center architecture",
       ro: ["Celeabinsk a fost fondat ca fortăreață pe 13 septembrie 1736.", "Populația orașului este de aproximativ 1,19 milioane de locuitori (2023).", "Meteoritul din 2013 a intrat în atmosferă cu o viteză de peste 60.000 km/h.", "În timpul războiului, orașul a produs peste 18.000 de tancuri și vehicule de luptă.", "Orașul este situat la intersecția unor rute comerciale istorice spre Siberia.", "Uzina de Tractoare din Celeabinsk a fost fondată în anul 1933."],
       en: ["Chelyabinsk was founded as a fortress on September 13, 1736.", "The city's population stands at approximately 1.19 million as of 2023.", "The 2013 meteor explosion occurred at an altitude of about 20-25 km.", "Over 18,000 tanks were manufactured in the city during World War II.", "Chelyabinsk serves as a major hub on the Trans-Siberian Railway.", "The city is located on the boundary between the Ural region and Siberia."],
     },
-    , image: "/poi-images/russia-chelyabinsk-cities-v2.webp",
+    image: "/poi-images/russia-chelyabinsk-cities-v2.webp",
 },  {
     id: "russia-omsk-cities-v2",
     parent: "RU",
@@ -272,7 +272,7 @@ imageHint: "Omsk Assumption Cathedral",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-omsk-cities-v2.webp",
+    image: "/poi-images/russia-omsk-cities-v2.webp",
 },  {
     id: "russia-rostov-on-don-cities-v2",
     parent: "RU",
@@ -306,7 +306,7 @@ imageHint: "Don River embankment in Rostov",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-rostov-on-don-cities-v2.webp",
+    image: "/poi-images/russia-rostov-on-don-cities-v2.webp",
 },  {
     id: "russia-ufa-cities-v2",
     parent: "RU",
@@ -340,7 +340,7 @@ imageHint: "Monument to Salavat Yulaev in Ufa",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-ufa-cities-v2.webp",
+    image: "/poi-images/russia-ufa-cities-v2.webp",
 },  {
     id: "russia-krasnoyarsk-cities-v2",
     parent: "RU",
@@ -374,7 +374,7 @@ imageHint: "Paraskeva Pyatnitsa Chapel in Krasnoyarsk",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-krasnoyarsk-cities-v2.webp",
+    image: "/poi-images/russia-krasnoyarsk-cities-v2.webp",
 },  {
     id: "russia-voronezh-cities-v2",
     parent: "RU",
@@ -408,7 +408,7 @@ imageHint: "Peter the Great monument in Voronezh",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-voronezh-cities-v2.webp",
+    image: "/poi-images/russia-voronezh-cities-v2.webp",
 },  {
     id: "russia-perm-cities-v2",
     parent: "RU",
@@ -442,7 +442,7 @@ imageHint: "Kama River view in Perm",
       ro: ["Perm a fost fondat oficial pe data de 15 mai 1723.", "Populația orașului depășește 1 milion de locuitori conform datelor din 2023.", "Fluviul Kama are o lățime de peste 1 km în perimetrul orașului.", "Între anii 1940 și 1957, orașul a purtat numele de Molotov.", "Teatrul de Operă din Perm a fost inaugurat în anul 1870.", "Orașul este situat la o distanță de 1.150 km est de Moscova."],
       en: ["Perm was officially founded on May 15, 1723.", "The city's population is over 1 million as of 2023 census data.", "The Kama River is more than 1 kilometer wide within city limits.", "From 1940 to 1957, the city was renamed Molotov.", "The Perm Opera and Ballet Theatre was established in 1870.", "Perm is located approximately 1,150 kilometers east of Moscow."],
     },
-    , image: "/poi-images/russia-perm-cities-v2.webp",
+    image: "/poi-images/russia-perm-cities-v2.webp",
 },  {
     id: "russia-volgograd-cities-v2",
     parent: "RU",
@@ -476,7 +476,7 @@ imageHint: "The Motherland Calls statue in Volgograd",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-volgograd-cities-v2.webp",
+    image: "/poi-images/russia-volgograd-cities-v2.webp",
 },  {
     id: "russia-krasnodar-cities-v2",
     parent: "RU",
@@ -510,7 +510,7 @@ imageHint: "Alexander Nevsky Cathedral in Krasnodar",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-krasnodar-cities-v2.webp",
+    image: "/poi-images/russia-krasnodar-cities-v2.webp",
 },  {
     id: "russia-saratov-cities-v2",
     parent: "RU",
@@ -544,7 +544,7 @@ imageHint: "Saratov bridge over the Volga River",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-saratov-cities-v2.webp",
+    image: "/poi-images/russia-saratov-cities-v2.webp",
 },  {
     id: "russia-tyumen-cities-v2",
     parent: "RU",
@@ -578,7 +578,7 @@ imageHint: "Tyumen river embankment architecture",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-tyumen-cities-v2.webp",
+    image: "/poi-images/russia-tyumen-cities-v2.webp",
 },  {
     id: "russia-tolyatti-cities-v2",
     parent: "RU",
@@ -612,7 +612,7 @@ imageHint: "AvtoVAZ headquarters in Tolyatti",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-tolyatti-cities-v2.webp",
+    image: "/poi-images/russia-tolyatti-cities-v2.webp",
 },  {
     id: "russia-izhevsk-cities-v2",
     parent: "RU",
@@ -646,7 +646,7 @@ imageHint: "Kalashnikov Museum in Izhevsk",
       ro: ["Ijevsk a fost fondat în 1760 ca așezare industrială sub contele Șuvalov.", "Populația orașului este de aproximativ 620.000 de locuitori (2023).", "Iazul din Ijevsk are o suprafață de peste 22 de kilometri pătrați.", "Prima motocicletă rusească a fost fabricată aici în anul 1929.", "Catedrala Sfântul Mihail are o înălțime de 67 de metri.", "Orașul găzduiește sediul central al Concernului Kalașnikov."],
       en: ["Izhevsk was founded in 1760 as an industrial settlement by Count Shuvalov.", "The city has a population of about 620,000 as of 2023.", "The Izhevsk Pond covers an area of more than 2,200 hectares.", "The first Russian motorcycle production started here in 1929.", "St. Michael's Cathedral was fully reconstructed and consecrated in 2007.", "Mikhail Kalashnikov worked at the Izhevsk Machine-Building Plant since 1948."],
     },
-    , image: "/poi-images/russia-izhevsk-cities-v2.webp",
+    image: "/poi-images/russia-izhevsk-cities-v2.webp",
 },  {
     id: "russia-barnaul-cities-v2",
     parent: "RU",
@@ -680,7 +680,7 @@ imageHint: "Barnaul city view with Ob river",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-barnaul-cities-v2.webp",
+    image: "/poi-images/russia-barnaul-cities-v2.webp",
 },  {
     id: "russia-ulyanovsk-cities-v2",
     parent: "RU",
@@ -714,7 +714,7 @@ imageHint: "Lenin Memorial Complex in Ulyanovsk",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-ulyanovsk-cities-v2.webp",
+    image: "/poi-images/russia-ulyanovsk-cities-v2.webp",
 },  {
     id: "russia-irkutsk-cities-v2",
     parent: "RU",
@@ -748,7 +748,7 @@ imageHint: "Wooden architecture in Irkutsk",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-irkutsk-cities-v2.webp",
+    image: "/poi-images/russia-irkutsk-cities-v2.webp",
 },  {
     id: "russia-khabarovsk-cities-v2",
     parent: "RU",
@@ -782,7 +782,7 @@ imageHint: "Amur River bridge in Khabarovsk",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-khabarovsk-cities-v2.webp",
+    image: "/poi-images/russia-khabarovsk-cities-v2.webp",
 },  {
     id: "russia-makhachkala-cities-v2",
     parent: "RU",
@@ -816,7 +816,7 @@ imageHint: "Makhachkala Grand Mosque architecture",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-makhachkala-cities-v2.webp",
+    image: "/poi-images/russia-makhachkala-cities-v2.webp",
 },  {
     id: "russia-yaroslavl-cities-v2",
     parent: "RU",
@@ -850,7 +850,7 @@ imageHint: "Yaroslavl historical center architecture",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-yaroslavl-cities-v2.webp",
+    image: "/poi-images/russia-yaroslavl-cities-v2.webp",
 },  {
     id: "russia-vladivostok-cities-v2",
     parent: "RU",
@@ -884,7 +884,7 @@ imageHint: "Vladivostok Golden Bridge at sunset",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-vladivostok-cities-v2.webp",
+    image: "/poi-images/russia-vladivostok-cities-v2.webp",
 },  {
     id: "russia-orenburg-cities-v2",
     parent: "RU",
@@ -918,7 +918,7 @@ imageHint: "Bridge over Ural river in Orenburg",
       ro: ["Orenburg a fost fondat oficial pe 30 aprilie 1743.", "Populația orașului este de aproximativ 540.000 de locuitori (2023).", "Complexul de prelucrare a gazelor din Orenburg este un lider mondial în producția de heliu.", "Iuri Gagarin a absolvit Școala Superioară de Aviație Militară din Orenburg în 1957.", "Șalurile de Orenburg sunt atât de fine încât pot trece printr-un inel de nuntă.", "Podul peste râul Ural are inscripționate cuvintele 'Europa' și 'Asia' la capete."],
       en: ["Orenburg was founded at its current location on April 30, 1743.", "The city's population is approximately 540,000 as of 2023.", "The Orenburg gas processing plant is one of the largest in Russia.", "Yuri Gagarin attended the local military aviation school from 1955 to 1957.", "Traditional Orenburg shawls are made from the world's finest goat down.", "The city serves as a major railway junction connecting Europe and Kazakhstan."],
     },
-    , image: "/poi-images/russia-orenburg-cities-v2.webp",
+    image: "/poi-images/russia-orenburg-cities-v2.webp",
 },  {
     id: "russia-tomsk-cities-v2",
     parent: "RU",
@@ -952,7 +952,7 @@ imageHint: "Traditional wooden house in Tomsk",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-tomsk-cities-v2.webp",
+    image: "/poi-images/russia-tomsk-cities-v2.webp",
 },  {
     id: "russia-kemerovo-cities-v2",
     parent: "RU",
@@ -986,7 +986,7 @@ imageHint: "Kemerovo city center and Tom river",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-kemerovo-cities-v2.webp",
+    image: "/poi-images/russia-kemerovo-cities-v2.webp",
 },  {
     id: "russia-ryazan-cities-v2",
     parent: "RU",
@@ -1020,7 +1020,7 @@ imageHint: "Ryazan Kremlin architecture",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-ryazan-cities-v2.webp",
+    image: "/poi-images/russia-ryazan-cities-v2.webp",
 },  {
     id: "russia-naberezhnye-chelny-cities-v2",
     parent: "RU",
@@ -1054,7 +1054,7 @@ imageHint: "KAMAZ factory in Naberezhnye Chelny",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-naberezhnye-chelny-cities-v2.webp",
+    image: "/poi-images/russia-naberezhnye-chelny-cities-v2.webp",
 },  {
     id: "russia-astrakhan-cities-v2",
     parent: "RU",
@@ -1088,7 +1088,7 @@ imageHint: "Astrakhan Kremlin and Volga river",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-astrakhan-cities-v2.webp",
+    image: "/poi-images/russia-astrakhan-cities-v2.webp",
 },  {
     id: "russia-penza-cities-v2",
     parent: "RU",
@@ -1122,7 +1122,7 @@ imageHint: "Penza city center architecture",
       ro: ["Penza a fost fondat în 1663 din ordinul țarului Alexei Mihailovici.", "Populația orașului este de aproximativ 510.000 de locuitori (2023).", "Muzeul unei singure picturi a fost inclus în topul celor mai unice muzee din lume.", "Primul circ staționar din Rusia a fost deschis la Penza în anul 1873.", "Orașul este situat pe șapte dealuri, pe malul râului Sura.", "Uzina locală de ceasuri 'Zarya' a produs milioane de unități în perioada sovietică."],
       en: ["Penza was founded in 1663 by order of Tsar Alexei Mikhailovich.", "The city's population is approximately 510,000 as of 2023.", "The Museum of One Painting was established in 1983 and is unique globally.", "Russia's first stationary circus was founded in Penza in 1873.", "The city is located at the confluence of the Sura and Penza rivers.", "Penza is a major center for the production of diesel engines and electronics."],
     },
-    , image: "/poi-images/russia-penza-cities-v2.webp",
+    image: "/poi-images/russia-penza-cities-v2.webp",
 },  {
     id: "russia-lipetsk-cities-v2",
     parent: "RU",
@@ -1156,7 +1156,7 @@ imageHint: "Novolipetsk Steel plant in Lipetsk",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-lipetsk-cities-v2.webp",
+    image: "/poi-images/russia-lipetsk-cities-v2.webp",
 },  {
     id: "russia-kirov-cities-v2",
     parent: "RU",
@@ -1190,7 +1190,7 @@ imageHint: "Kirov city park and Viatka river",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-kirov-cities-v2.webp",
+    image: "/poi-images/russia-kirov-cities-v2.webp",
 },  {
     id: "russia-cheboksary-cities-v2",
     parent: "RU",
@@ -1224,7 +1224,7 @@ imageHint: "Mother of the Patron Monument in Cheboksary",
       ro: ["Ceboksari a fost menționat pentru prima dată în anul 1469.", "Populația orașului este de aproximativ 500.000 de locuitori (2023).", "Monumentul Mamei Protectoare a fost inaugurat pe 9 mai 2003.", "Orașul se află la aproximativ 675 km est de Moscova.", "Catedrala Vvedenski, construită în 1651, este cel mai vechi monument istoric din oraș.", "Ceboksari găzduiește o uzină celebră de fabricare a tractoarelor industriale."],
       en: ["Cheboksary was first mentioned in historical records in 1469.", "The city's population is approximately 500,000 as of 2023.", "The Mother Patroness monument was unveiled in May 2003.", "Cheboksary is located about 675 kilometers east of Moscow.", "The Vvedensky Cathedral, built in 1651, is the city's oldest building.", "The city is a major center for the production of industrial tractors and electronics."],
     },
-    , image: "/poi-images/russia-cheboksary-cities-v2.webp",
+    image: "/poi-images/russia-cheboksary-cities-v2.webp",
 },  {
     id: "russia-kaliningrad-cities-v2",
     parent: "RU",
@@ -1258,7 +1258,7 @@ imageHint: "Kaliningrad Cathedral on Kant Island",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-kaliningrad-cities-v2.webp",
+    image: "/poi-images/russia-kaliningrad-cities-v2.webp",
 },  {
     id: "russia-balashikha-cities-v2",
     parent: "RU",
@@ -1292,7 +1292,7 @@ imageHint: "Balashikha city park and architecture",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-balashikha-cities-v2.webp",
+    image: "/poi-images/russia-balashikha-cities-v2.webp",
 },  {
     id: "russia-kursk-cities-v2",
     parent: "RU",
@@ -1326,7 +1326,7 @@ imageHint: "Victory Memorial in Kursk",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-kursk-cities-v2.webp",
+    image: "/poi-images/russia-kursk-cities-v2.webp",
 },  {
     id: "russia-ulan-ude-cities-v2",
     parent: "RU",
@@ -1360,7 +1360,7 @@ imageHint: "Giant Lenin Head monument in Ulan-Ude",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-ulan-ude-cities-v2.webp",
+    image: "/poi-images/russia-ulan-ude-cities-v2.webp",
 },  {
     id: "russia-sochi-cities-v2",
     parent: "RU",
@@ -1394,7 +1394,7 @@ imageHint: "Sochi Marine Terminal architecture",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-sochi-cities-v2.webp",
+    image: "/poi-images/russia-sochi-cities-v2.webp",
 },  {
     id: "russia-stavropol-cities-v2",
     parent: "RU",
@@ -1428,7 +1428,7 @@ imageHint: "Guardian Angel monument in Stavropol",
       ro: ["Fondat în 1777 ca parte a liniei defensive Azov-Mozdok.", "Orașul este situat exact pe paralela de 45 de grade latitudine nordică.", "Altitudinea medie a orașului este de aproximativ 600 de metri.", "Între 1935 și 1943, orașul a purtat numele de Voroșilovsk.", "Numele Stavropol provine din limba greacă și înseamnă Orașul Crucii.", "Suprafața totală a orașului este de circa 171 de kilometri pătrați."],
       en: ["Founded in 1777 as a strategic fortress of the Azov-Mozdok line.", "The city is located exactly on the 45th parallel north.", "It sits at an average elevation of 600 meters above sea level.", "From 1935 to 1943, the city was officially named Voroshilovsk.", "The name Stavropol is derived from Greek, meaning City of the Cross.", "The municipality covers an area of approximately 171 square kilometers."],
     },
-    , image: "/poi-images/russia-stavropol-cities-v2.webp",
+    image: "/poi-images/russia-stavropol-cities-v2.webp",
 },  {
     id: "russia-magnitogorsk-cities-v2",
     parent: "RU",
@@ -1462,7 +1462,7 @@ imageHint: "Rear-to-Front Monument in Magnitogorsk",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-magnitogorsk-cities-v2.webp",
+    image: "/poi-images/russia-magnitogorsk-cities-v2.webp",
 },  {
     id: "russia-tver-cities-v2",
     parent: "RU",
@@ -1496,7 +1496,7 @@ imageHint: "Old Volga Bridge in Tver",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-tver-cities-v2.webp",
+    image: "/poi-images/russia-tver-cities-v2.webp",
 },  {
     id: "russia-ivanovo-cities-v2",
     parent: "RU",
@@ -1530,7 +1530,7 @@ imageHint: "Textile factory architecture in Ivanovo",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-ivanovo-cities-v2.webp",
+    image: "/poi-images/russia-ivanovo-cities-v2.webp",
 },  {
     id: "russia-bryansk-cities-v2",
     parent: "RU",
@@ -1564,7 +1564,7 @@ imageHint: "Partisan Square in Bryansk",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-bryansk-cities-v2.webp",
+    image: "/poi-images/russia-bryansk-cities-v2.webp",
 },  {
     id: "russia-belgorod-cities-v2",
     parent: "RU",
@@ -1598,7 +1598,7 @@ imageHint: "Belgorod city center architecture",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-belgorod-cities-v2.webp",
+    image: "/poi-images/russia-belgorod-cities-v2.webp",
 },  {
     id: "russia-surgut-cities-v2",
     parent: "RU",
@@ -1632,7 +1632,7 @@ imageHint: "Yugra Bridge in Surgut",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-surgut-cities-v2.webp",
+    image: "/poi-images/russia-surgut-cities-v2.webp",
 },  {
     id: "russia-vladimir-cities-v2",
     parent: "RU",
@@ -1666,7 +1666,7 @@ imageHint: "Golden Gate of Vladimir architecture",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-vladimir-cities-v2.webp",
+    image: "/poi-images/russia-vladimir-cities-v2.webp",
 },  {
     id: "russia-arkhangelsk-cities-v2",
     parent: "RU",
@@ -1700,7 +1700,7 @@ imageHint: "Arkhangelsk river port architecture",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-arkhangelsk-cities-v2.webp",
+    image: "/poi-images/russia-arkhangelsk-cities-v2.webp",
 },  {
     id: "russia-chita-cities-v2",
     parent: "RU",
@@ -1734,7 +1734,7 @@ imageHint: "Chita railway station and architecture",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-chita-cities-v2.webp",
+    image: "/poi-images/russia-chita-cities-v2.webp",
 },  {
     id: "russia-kaluga-cities-v2",
     parent: "RU",
@@ -1768,7 +1768,7 @@ imageHint: "Tsiolkovsky State Museum of the History of Cosmonautics",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-kaluga-cities-v2.webp",
+    image: "/poi-images/russia-kaluga-cities-v2.webp",
 },  {
     id: "russia-smolensk-cities-v2",
     parent: "RU",
@@ -1802,7 +1802,7 @@ imageHint: "Smolensk fortress wall and cathedral",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-smolensk-cities-v2.webp",
+    image: "/poi-images/russia-smolensk-cities-v2.webp",
 },  {
     id: "russia-saransk-cities-v2",
     parent: "RU",
@@ -1836,7 +1836,7 @@ imageHint: "Mordovia Arena in Saransk",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-saransk-cities-v2.webp",
+    image: "/poi-images/russia-saransk-cities-v2.webp",
 },  {
     id: "russia-cherepovets-cities-v2",
     parent: "RU",
@@ -1870,7 +1870,7 @@ imageHint: "Severstal steel plant in Cherepovets",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-cherepovets-cities-v2.webp",
+    image: "/poi-images/russia-cherepovets-cities-v2.webp",
 },  {
     id: "russia-vologda-cities-v2",
     parent: "RU",
@@ -1904,7 +1904,7 @@ imageHint: "Vologda Kremlin and Saint Sophia Cathedral",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-vologda-cities-v2.webp",
+    image: "/poi-images/russia-vologda-cities-v2.webp",
 },  {
     id: "russia-murmansk-cities-v2",
     parent: "RU",
@@ -1938,7 +1938,7 @@ imageHint: "Alyosha Monument in Murmansk",
       ro: ["Orașul a fost fondat oficial la 4 octombrie 1916.", "Este cel mai mare oraș din lume situat dincolo de Cercul Polar de Nord.", "Portul rămâne liber de gheață tot anul datorită Curentului Golfului.", "Noaptea polară durează de la 2 decembrie până la 11 ianuarie.", "Monumentul Alioșa are o înălțime de 35,5 metri, fiind vizibil de departe.", "În 1985, orașul a fost decorat cu titlul de Oraș Erou."],
       en: ["Founded on October 4, 1916, as the last city established by the Russian Empire.", "It is the most populous city in the world above the Arctic Circle.", "The port is kept ice-free year-round by the North Atlantic Current.", "Polar night lasts for approximately 40 days, starting in early December.", "The city is home to the world's first nuclear icebreaker, the Lenin.", "Murmansk was officially designated a Hero City of the USSR in 1985."],
     },
-    , image: "/poi-images/russia-murmansk-cities-v2.webp",
+    image: "/poi-images/russia-murmansk-cities-v2.webp",
 },  {
     id: "russia-petrozavodsk-cities-v2",
     parent: "RU",

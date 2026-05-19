@@ -34,7 +34,7 @@ imageHint: "Doñana National Park marshes with flamingos",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-donana-life-v2.webp",
+    image: "/poi-images/spain-donana-life-v2.webp",
 },  {
     id: "spain-sierra-nevada-life-v2",
     parent: "ES",
@@ -68,7 +68,7 @@ imageHint: "Sierra Nevada mountains snow capped peaks",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-sierra-nevada-life-v2.webp",
+    image: "/poi-images/spain-sierra-nevada-life-v2.webp",
 },  {
     id: "spain-picos-de-europa-life-v2",
     parent: "ES",
@@ -102,7 +102,7 @@ imageHint: "Picos de Europa limestone mountain peaks",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-picos-de-europa-life-v2.webp",
+    image: "/poi-images/spain-picos-de-europa-life-v2.webp",
 },  {
     id: "spain-teide-life-v2",
     parent: "ES",
@@ -136,7 +136,7 @@ imageHint: "Mount Teide volcano landscape Tenerife",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-teide-life-v2.webp",
+    image: "/poi-images/spain-teide-life-v2.webp",
 },  {
     id: "spain-monfrague-life-v2",
     parent: "ES",
@@ -170,7 +170,7 @@ imageHint: "Monfragüe National Park Salto del Gitano birds",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-monfrague-life-v2.webp",
+    image: "/poi-images/spain-monfrague-life-v2.webp",
 },  {
     id: "spain-cabaneros-life-v2",
     parent: "ES",
@@ -204,7 +204,7 @@ imageHint: "Cabañeros National Park deer in plains",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-cabaneros-life-v2.webp",
+    image: "/poi-images/spain-cabaneros-life-v2.webp",
 },  {
     id: "spain-tablas-de-daimiel-life-v2",
     parent: "ES",
@@ -238,7 +238,7 @@ imageHint: "Tablas de Daimiel National Park wetlands boardwalk",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-tablas-de-daimiel-life-v2.webp",
+    image: "/poi-images/spain-tablas-de-daimiel-life-v2.webp",
 },  {
     id: "spain-timanfaya-life-v2",
     parent: "ES",
@@ -272,7 +272,7 @@ imageHint: "Timanfaya National Park volcanic landscape Lanzarote",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-timanfaya-life-v2.webp",
+    image: "/poi-images/spain-timanfaya-life-v2.webp",
 },  {
     id: "spain-garajonay-life-v2",
     parent: "ES",
@@ -306,7 +306,7 @@ imageHint: "Garajonay National Park misty laurel forest",
       ro: ["Suprafață totală de 3.984 hectare", "Punctul maxim are 1.487 metri", "Patrimoniu Mondial UNESCO din 1986", "Cea mai mare pădure de lauri din Canare", "Peste 70% din suprafață este împădurită", "Adăpostește specii rare de porumbei"],
       en: ["Total area of 3,984 hectares", "Highest peak reaches 1,487 meters", "UNESCO World Heritage site since 1986", "Best-preserved laurel forest in the region", "Over 70% of the park is forested", "Habitat for the endemic Bolles pigeon"],
     },
-    , image: "/poi-images/spain-garajonay-life-v2.webp",
+    image: "/poi-images/spain-garajonay-life-v2.webp",
 },  {
     id: "spain-caldera-de-taburiente-life-v2",
     parent: "ES",
@@ -340,7 +340,7 @@ imageHint: "Caldera de Taburiente National Park landscape La Palma",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-caldera-de-taburiente-life-v2.webp",
+    image: "/poi-images/spain-caldera-de-taburiente-life-v2.webp",
 },  {
     id: "spain-ordesa-monte-perdido-life-v2",
     parent: "ES",
@@ -374,7 +374,7 @@ imageHint: "Ordesa Canyon Pyrenees mountains",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-ordesa-monte-perdido-life-v2.webp",
+    image: "/poi-images/spain-ordesa-monte-perdido-life-v2.webp",
 },  {
     id: "spain-aiguestortes-life-v2",
     parent: "ES",
@@ -408,7 +408,7 @@ imageHint: "Estany de Sant Maurici lake Pyrenees",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-aiguestortes-life-v2.webp",
+    image: "/poi-images/spain-aiguestortes-life-v2.webp",
 },  {
     id: "spain-guadarrama-life-v2",
     parent: "ES",
@@ -442,7 +442,7 @@ imageHint: "Sierra de Guadarrama mountains near Madrid",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-guadarrama-life-v2.webp",
+    image: "/poi-images/spain-guadarrama-life-v2.webp",
 },  {
     id: "spain-islas-atlanticas-life-v2",
     parent: "ES",
@@ -476,7 +476,7 @@ imageHint: "Cíes Islands beach and turquoise water",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-islas-atlanticas-life-v2.webp",
+    image: "/poi-images/spain-islas-atlanticas-life-v2.webp",
 },  {
     id: "spain-cabrera-life-v2",
     parent: "ES",
@@ -650,7 +650,7 @@ imageHint: "Cabo de Gata volcanic cliffs and beach Almeria",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-cabo-de-gata-life-v2.webp",
+    image: "/poi-images/spain-cabo-de-gata-life-v2.webp",
 },  {
     id: "spain-delta-ebre-life-v2",
     parent: "ES",
@@ -684,7 +684,7 @@ imageHint: "Ebro Delta rice fields and lagoons",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-delta-ebre-life-v2.webp",
+    image: "/poi-images/spain-delta-ebre-life-v2.webp",
 },  {
     id: "spain-albufera-valencia-life-v2",
     parent: "ES",
@@ -718,7 +718,7 @@ imageHint: "Albufera Valencia lake sunset with boat",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-albufera-valencia-life-v2.webp",
+    image: "/poi-images/spain-albufera-valencia-life-v2.webp",
 },  {
     id: "spain-rjb-madrid-life-v2",
     parent: "ES",
@@ -752,7 +752,7 @@ imageHint: "Royal Botanical Garden Madrid entrance",
       ro: [],
       en: []
     }
-    , image: "/poi-images/spain-rjb-madrid-life-v2.webp",
+    image: "/poi-images/spain-rjb-madrid-life-v2.webp",
 },  {
     id: "spain-loro-parque-life-v2",
     parent: "ES",

@@ -34,7 +34,7 @@ imageHint: "Industrial skyline of Magnitogorsk Iron and Steel Works",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-magnitogorsk-steel-economic-v2.webp",
+    image: "/poi-images/russia-magnitogorsk-steel-economic-v2.webp",
 },  {
     id: "russia-norilsk-nickel-economic-v2",
     parent: "RU",
@@ -68,7 +68,7 @@ imageHint: "Mining industrial facility in Norilsk Arctic landscape",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-norilsk-nickel-economic-v2.webp",
+    image: "/poi-images/russia-norilsk-nickel-economic-v2.webp",
 },  {
     id: "russia-moscow-city-economic-v2",
     parent: "RU",
@@ -102,7 +102,7 @@ imageHint: "Skyscrapers of Moscow City international business district",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-moscow-city-economic-v2.webp",
+    image: "/poi-images/russia-moscow-city-economic-v2.webp",
 },  {
     id: "russia-avtovaz-factory-economic-v2",
     parent: "RU",
@@ -136,7 +136,7 @@ imageHint: "AvtoVAZ car factory assembly line or building in Tolyatti",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-avtovaz-factory-economic-v2.webp",
+    image: "/poi-images/russia-avtovaz-factory-economic-v2.webp",
 },  {
     id: "russia-kamaz-factory-economic-v2",
     parent: "RU",
@@ -170,7 +170,7 @@ imageHint: "Kamaz truck manufacturing plant or heavy truck",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-kamaz-factory-economic-v2.webp",
+    image: "/poi-images/russia-kamaz-factory-economic-v2.webp",
 },  {
     id: "russia-mir-mine-economic-v2",
     parent: "RU",
@@ -204,7 +204,7 @@ imageHint: "Massive open-pit Mir diamond mine in Siberia",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-mir-mine-economic-v2.webp",
+    image: "/poi-images/russia-mir-mine-economic-v2.webp",
 },  {
     id: "russia-port-novorossiysk-economic-v2",
     parent: "RU",
@@ -238,7 +238,7 @@ imageHint: "Cargo ships and cranes at Port of Novorossiysk",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-port-novorossiysk-economic-v2.webp",
+    image: "/poi-images/russia-port-novorossiysk-economic-v2.webp",
 },  {
     id: "russia-sayano-shushenskaya-dam-economic-v2",
     parent: "RU",
@@ -272,7 +272,7 @@ imageHint: "Massive concrete dam of Sayano-Shushenskaya power station",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-sayano-shushenskaya-dam-economic-v2.webp",
+    image: "/poi-images/russia-sayano-shushenskaya-dam-economic-v2.webp",
 },  {
     id: "russia-surgut-oil-gas-economic-v2",
     parent: "RU",
@@ -306,7 +306,7 @@ imageHint: "Oil refinery and industrial skyline of Surgut",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-surgut-oil-gas-economic-v2.webp",
+    image: "/poi-images/russia-surgut-oil-gas-economic-v2.webp",
 },  {
     id: "russia-vostochny-cosmodrome-economic-v2",
     parent: "RU",
@@ -340,7 +340,7 @@ imageHint: "Launch pad and rocket assembly at Vostochny Cosmodrome",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-vostochny-cosmodrome-economic-v2.webp",
+    image: "/poi-images/russia-vostochny-cosmodrome-economic-v2.webp",
 },  {
     id: "russia-uralvagonzavod-economic-v2",
     parent: "RU",
@@ -374,7 +374,7 @@ imageHint: "Industrial complex of Uralvagonzavod in Nizhny Tagil",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-uralvagonzavod-economic-v2.webp",
+    image: "/poi-images/russia-uralvagonzavod-economic-v2.webp",
 },  {
     id: "russia-yamal-lng-sabetta-economic-v2",
     parent: "RU",
@@ -408,7 +408,7 @@ imageHint: "LNG processing facility and port at Sabetta Arctic",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-yamal-lng-sabetta-economic-v2.webp",
+    image: "/poi-images/russia-yamal-lng-sabetta-economic-v2.webp",
 },  {
     id: "russia-severstal-cherepovets-economic-v2",
     parent: "RU",
@@ -476,7 +476,7 @@ imageHint: "Vast industrial oil refinery complex in Omsk",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-omsk-oil-refinery-economic-v2.webp",
+    image: "/poi-images/russia-omsk-oil-refinery-economic-v2.webp",
 },  {
     id: "russia-bratsk-aluminum-smelter-economic-v2",
     parent: "RU",
@@ -510,7 +510,7 @@ imageHint: "Bratsk aluminum smelter industrial buildings",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-bratsk-aluminum-smelter-economic-v2.webp",
+    image: "/poi-images/russia-bratsk-aluminum-smelter-economic-v2.webp",
 },  {
     id: "russia-ust-luga-port-economic-v2",
     parent: "RU",
@@ -544,7 +544,7 @@ imageHint: "Modern shipping terminals at Port of Ust-Luga",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-ust-luga-port-economic-v2.webp",
+    image: "/poi-images/russia-ust-luga-port-economic-v2.webp",
 },  {
     id: "russia-udachnaya-pipe-economic-v2",
     parent: "RU",
@@ -612,7 +612,7 @@ imageHint: "Beloyarsk nuclear power plant reactors and cooling towers",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-beloyarsk-nuclear-economic-v2.webp",
+    image: "/poi-images/russia-beloyarsk-nuclear-economic-v2.webp",
 },  {
     id: "russia-alabuga-sez-economic-v2",
     parent: "RU",
@@ -646,7 +646,7 @@ imageHint: "Modern industrial warehouses and factories in Alabuga SEZ",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-alabuga-sez-economic-v2.webp",
+    image: "/poi-images/russia-alabuga-sez-economic-v2.webp",
 },  {
     id: "russia-innopolis-tech-economic-v2",
     parent: "RU",
@@ -680,7 +680,7 @@ imageHint: "Modern university building and tech campus in Innopolis",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-innopolis-tech-economic-v2.webp",
+    image: "/poi-images/russia-innopolis-tech-economic-v2.webp",
 },  {
     id: "russia-angarsk-petrochemical-economic-v2",
     parent: "RU",
@@ -714,7 +714,7 @@ imageHint: "Large industrial towers of Angarsk petrochemical complex",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-angarsk-petrochemical-economic-v2.webp",
+    image: "/poi-images/russia-angarsk-petrochemical-economic-v2.webp",
 },  {
     id: "russia-vyksa-steel-economic-v2",
     parent: "RU",
@@ -748,7 +748,7 @@ imageHint: "Large steel factory interior or exterior in Vyksa",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-vyksa-steel-economic-v2.webp",
+    image: "/poi-images/russia-vyksa-steel-economic-v2.webp",
 },  {
     id: "russia-port-murmansk-economic-v2",
     parent: "RU",
@@ -782,7 +782,7 @@ imageHint: "Cargo port with ships in Murmansk winter",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-port-murmansk-economic-v2.webp",
+    image: "/poi-images/russia-port-murmansk-economic-v2.webp",
 },  {
     id: "russia-nlmk-lipetsk-economic-v2",
     parent: "RU",
@@ -816,7 +816,7 @@ imageHint: "NLMK industrial steel factory panorama in Lipetsk",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-nlmk-lipetsk-economic-v2.webp",
+    image: "/poi-images/russia-nlmk-lipetsk-economic-v2.webp",
 },  {
     id: "russia-chelyabinsk-tractor-economic-v2",
     parent: "RU",
@@ -850,7 +850,7 @@ imageHint: "Chelyabinsk tractor plant industrial gate or vehicles",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-chelyabinsk-tractor-economic-v2.webp",
+    image: "/poi-images/russia-chelyabinsk-tractor-economic-v2.webp",
 },  {
     id: "russia-volzhsky-pipe-economic-v2",
     parent: "RU",
@@ -884,7 +884,7 @@ imageHint: "Stacks of large steel pipes at Volzhsky factory",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-volzhsky-pipe-economic-v2.webp",
+    image: "/poi-images/russia-volzhsky-pipe-economic-v2.webp",
 },  {
     id: "russia-krasnoyarsk-aluminum-economic-v2",
     parent: "RU",
@@ -952,7 +952,7 @@ imageHint: "LNG storage tanks and shipping terminal on Sakhalin Island",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-sakhalin-2-lng-economic-v2.webp",
+    image: "/poi-images/russia-sakhalin-2-lng-economic-v2.webp",
 },  {
     id: "russia-bilibino-nuclear-economic-v2",
     parent: "RU",
@@ -986,7 +986,7 @@ imageHint: "Bilibino nuclear power plant in the snowy Arctic tundra",
       ro: [],
       en: []
     }
-    , image: "/poi-images/russia-bilibino-nuclear-economic-v2.webp",
+    image: "/poi-images/russia-bilibino-nuclear-economic-v2.webp",
 },  {
     id: "russia-st-petersburg-port-economic-v2",
     parent: "RU",

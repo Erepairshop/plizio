@@ -34,7 +34,7 @@ imageHint: "Dumbier peak in Low Tatras during summer",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-low-tatras-nature-v2.webp",
+    image: "/poi-images/slovakia-low-tatras-nature-v2.webp",
 },  {
     id: "slovakia-mala-fatra-nature-v2",
     parent: "SK",
@@ -68,7 +68,7 @@ imageHint: "Velky Rozsutec peak in Mala Fatra",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-mala-fatra-nature-v2.webp",
+    image: "/poi-images/slovakia-mala-fatra-nature-v2.webp",
 },  {
     id: "slovakia-velka-fatra-nature-v2",
     parent: "SK",
@@ -102,7 +102,7 @@ imageHint: "Meadows of Velka Fatra mountains",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-velka-fatra-nature-v2.webp",
+    image: "/poi-images/slovakia-velka-fatra-nature-v2.webp",
 },  {
     id: "slovakia-pieniny-nature-v2",
     parent: "SK",
@@ -136,7 +136,7 @@ imageHint: "Rafting on Dunajec river in Pieniny",
       ro: ["Statut de parc național: din 1967", "Cheile Dunajecului: 8,5 km lungime", "Plutărit tradițional: peste 150 de ani vechime", "Cel mai înalt vârf: Trei Coroane (982 m)", "Floră: păpădia de Pieniny", "Monument: Mănăstirea Červený Kláštor"],
       en: ["National Park status: since 1967", "Dunajec Gorge: 8.5 km (5.3 mi) long", "Traditional rafting: over 150 years of history", "Highest peak: Three Crowns (982 m)", "Flora: Pieniny dandelion", "Heritage site: Red Monastery (Červený Kláštor)"],
     },
-    , image: "/poi-images/slovakia-pieniny-nature-v2.webp",
+    image: "/poi-images/slovakia-pieniny-nature-v2.webp",
 },  {
     id: "slovakia-muranska-planina-nature-v2",
     parent: "SK",
@@ -170,7 +170,7 @@ imageHint: "Wild horses on Muranska planina plateau",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-muranska-planina-nature-v2.webp",
+    image: "/poi-images/slovakia-muranska-planina-nature-v2.webp",
 },  {
     id: "slovakia-slovak-karst-nature-v2",
     parent: "SK",
@@ -204,7 +204,7 @@ imageHint: "Limestone plateau of Slovak Karst",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-slovak-karst-nature-v2.webp",
+    image: "/poi-images/slovakia-slovak-karst-nature-v2.webp",
 },  {
     id: "slovakia-orava-river-nature-v2",
     parent: "SK",
@@ -238,7 +238,7 @@ imageHint: "Orava river flowing under a castle",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-orava-river-nature-v2.webp",
+    image: "/poi-images/slovakia-orava-river-nature-v2.webp",
 },  {
     id: "slovakia-vah-river-nature-v2",
     parent: "SK",
@@ -272,7 +272,7 @@ imageHint: "The Vah river landscape near Zilina",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-vah-river-nature-v2.webp",
+    image: "/poi-images/slovakia-vah-river-nature-v2.webp",
 },  {
     id: "slovakia-hron-river-nature-v2",
     parent: "SK",
@@ -306,7 +306,7 @@ imageHint: "Hron river valley in central Slovakia",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-hron-river-nature-v2.webp",
+    image: "/poi-images/slovakia-hron-river-nature-v2.webp",
 },  {
     id: "slovakia-ipel-river-nature-v2",
     parent: "SK",
@@ -340,7 +340,7 @@ imageHint: "Ipel river bordering Slovakia and Hungary",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-ipel-river-nature-v2.webp",
+    image: "/poi-images/slovakia-ipel-river-nature-v2.webp",
 },  {
     id: "slovakia-zemplinska-sirava-nature-v2",
     parent: "SK",
@@ -374,7 +374,7 @@ imageHint: "Sunset over Zemplinska sirava lake",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-zemplinska-sirava-nature-v2.webp",
+    image: "/poi-images/slovakia-zemplinska-sirava-nature-v2.webp",
 },  {
     id: "slovakia-orava-reservoir-nature-v2",
     parent: "SK",
@@ -408,7 +408,7 @@ imageHint: "Orava reservoir with Slanica island",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-orava-reservoir-nature-v2.webp",
+    image: "/poi-images/slovakia-orava-reservoir-nature-v2.webp",
 },  {
     id: "slovakia-liptovska-mara-nature-v2",
     parent: "SK",
@@ -442,7 +442,7 @@ imageHint: "Liptovska Mara lake with mountains in background",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-liptovska-mara-nature-v2.webp",
+    image: "/poi-images/slovakia-liptovska-mara-nature-v2.webp",
 },  {
     id: "slovakia-morske-oko-nature-v2",
     parent: "SK",
@@ -476,7 +476,7 @@ imageHint: "Crystal clear water of Morske oko lake",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-morske-oko-nature-v2.webp",
+    image: "/poi-images/slovakia-morske-oko-nature-v2.webp",
 },  {
     id: "slovakia-demanovska-cave-liberty-nature-v2",
     parent: "SK",
@@ -510,7 +510,7 @@ imageHint: "Inside Demanovska Cave of Liberty",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-demanovska-cave-liberty-nature-v2.webp",
+    image: "/poi-images/slovakia-demanovska-cave-liberty-nature-v2.webp",
 },  {
     id: "slovakia-dobsina-ice-cave-nature-v2",
     parent: "SK",
@@ -544,7 +544,7 @@ imageHint: "Massive ice formations in Dobsina cave",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-dobsina-ice-cave-nature-v2.webp",
+    image: "/poi-images/slovakia-dobsina-ice-cave-nature-v2.webp",
 },  {
     id: "slovakia-ochtinska-aragonite-cave-nature-v2",
     parent: "SK",
@@ -613,7 +613,7 @@ imageHint: "Underground river Styx in Domica cave",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-domica-cave-nature-v2.webp",
+    image: "/poi-images/slovakia-domica-cave-nature-v2.webp",
 },  {
     id: "slovakia-janosikove-diery-nature-v2",
     parent: "SK",
@@ -682,7 +682,7 @@ imageHint: "Deep limestone canyon of Prosiecka dolina",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-prosiecka-dolina-nature-v2.webp",
+    image: "/poi-images/slovakia-prosiecka-dolina-nature-v2.webp",
 },  {
     id: "slovakia-sulov-rocks-nature-v2",
     parent: "SK",
@@ -751,7 +751,7 @@ imageHint: "Forested slopes of Vihorlat mountains",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-vihorlat-mountains-nature-v2.webp",
+    image: "/poi-images/slovakia-vihorlat-mountains-nature-v2.webp",
 },  {
     id: "slovakia-sninsky-kamen-nature-v2",
     parent: "SK",
@@ -785,7 +785,7 @@ imageHint: "View from Sninsky kamen rock summit",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-sninsky-kamen-nature-v2.webp",
+    image: "/poi-images/slovakia-sninsky-kamen-nature-v2.webp",
 },  {
     id: "slovakia-maninska-tiesnava-nature-v2",
     parent: "SK",
@@ -819,7 +819,7 @@ imageHint: "Narrow road through Maninska tiesnava gorge",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-maninska-tiesnava-nature-v2.webp",
+    image: "/poi-images/slovakia-maninska-tiesnava-nature-v2.webp",
 },  {
     id: "slovakia-kvacianska-dolina-nature-v2",
     parent: "SK",
@@ -853,7 +853,7 @@ imageHint: "Old water mills in Kvacianska dolina",
       ro: [],
       en: []
     }
-    , image: "/poi-images/slovakia-kvacianska-dolina-nature-v2.webp",
+    image: "/poi-images/slovakia-kvacianska-dolina-nature-v2.webp",
 },  {
     id: "slovakia-devinska-kobyla-nature-v2",
     parent: "SK",

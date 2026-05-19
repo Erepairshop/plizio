@@ -34,7 +34,7 @@ imageHint: "Juozapine Hill summit area Lithuania",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-juozapine-hill-relief-v2.webp",
+    image: "/poi-images/lithuania-juozapine-hill-relief-v2.webp",
 },  {
     id: "lithuania-kruopine-hill-relief-v2",
     parent: "LT",
@@ -68,7 +68,7 @@ imageHint: "Kruopine hill landscape Lithuania",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-kruopine-hill-relief-v2.webp",
+    image: "/poi-images/lithuania-kruopine-hill-relief-v2.webp",
 },  {
     id: "lithuania-nevaisiai-hill-relief-v2",
     parent: "LT",
@@ -102,7 +102,7 @@ imageHint: "Nevaisiai hill landscape Ignalina Lithuania",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-nevaisiai-hill-relief-v2.webp",
+    image: "/poi-images/lithuania-nevaisiai-hill-relief-v2.webp",
 },  {
     id: "lithuania-medvegalis-hill-relief-v2",
     parent: "LT",
@@ -136,7 +136,7 @@ imageHint: "Medvegalis hill fort and landscape Lithuania",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-medvegalis-hill-relief-v2.webp",
+    image: "/poi-images/lithuania-medvegalis-hill-relief-v2.webp",
 },  {
     id: "lithuania-satrija-hill-relief-v2",
     parent: "LT",
@@ -170,7 +170,7 @@ imageHint: "Satrija hill and landscape Telšiai district Lithuania",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-satrija-hill-relief-v2.webp",
+    image: "/poi-images/lithuania-satrija-hill-relief-v2.webp",
 },  {
     id: "lithuania-pavistytis-hill-relief-v2",
     parent: "LT",
@@ -204,7 +204,7 @@ imageHint: "Pavistytis hill view near Vistytis lake Lithuania",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-pavistytis-hill-relief-v2.webp",
+    image: "/poi-images/lithuania-pavistytis-hill-relief-v2.webp",
 },  {
     id: "lithuania-girniu-hill-relief-v2",
     parent: "LT",
@@ -238,7 +238,7 @@ imageHint: "Girniu hill Anyksciai district Lithuania",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-girniu-hill-relief-v2.webp",
+    image: "/poi-images/lithuania-girniu-hill-relief-v2.webp",
 },  {
     id: "lithuania-ladakalnis-hill-relief-v2",
     parent: "LT",
@@ -272,7 +272,7 @@ imageHint: "Ladakalnis hill view with lakes Lithuania",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-ladakalnis-hill-relief-v2.webp",
+    image: "/poi-images/lithuania-ladakalnis-hill-relief-v2.webp",
 },  {
     id: "lithuania-aukstaiciai-upland-relief-v2",
     parent: "LT",
@@ -306,7 +306,7 @@ imageHint: "Aukstaitija highland hilly landscape with lakes Lithuania",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-aukstaiciai-upland-relief-v2.webp",
+    image: "/poi-images/lithuania-aukstaiciai-upland-relief-v2.webp",
 },  {
     id: "lithuania-zemaiciai-upland-relief-v2",
     parent: "LT",
@@ -374,7 +374,7 @@ imageHint: "Dzukija highland forest and hills Lithuania",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-dzukai-upland-relief-v2.webp",
+    image: "/poi-images/lithuania-dzukai-upland-relief-v2.webp",
 },  {
     id: "lithuania-medininkai-upland-relief-v2",
     parent: "LT",
@@ -442,7 +442,7 @@ imageHint: "Suduva highland agricultural hills Lithuania",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-suduva-upland-relief-v2.webp",
+    image: "/poi-images/lithuania-suduva-upland-relief-v2.webp",
 },  {
     id: "lithuania-middle-lithuanian-lowland-relief-v2",
     parent: "LT",
@@ -476,7 +476,7 @@ imageHint: "Middle Lithuanian lowland flat agricultural fields",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-middle-lithuanian-lowland-relief-v2.webp",
+    image: "/poi-images/lithuania-middle-lithuanian-lowland-relief-v2.webp",
 },  {
     id: "lithuania-pajuris-lowland-relief-v2",
     parent: "LT",
@@ -510,7 +510,7 @@ imageHint: "Pajuris lowland coastal landscape Lithuania",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-pajuris-lowland-relief-v2.webp",
+    image: "/poi-images/lithuania-pajuris-lowland-relief-v2.webp",
 },  {
     id: "lithuania-nemunas-delta-relief-v2",
     parent: "LT",
@@ -578,7 +578,7 @@ imageHint: "Seskine esker ridge park Vilnius Lithuania",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-seskine-esker-relief-v2.webp",
+    image: "/poi-images/lithuania-seskine-esker-relief-v2.webp",
 },  {
     id: "lithuania-linkuva-ridge-relief-v2",
     parent: "LT",
@@ -612,7 +612,7 @@ imageHint: "Linkuva ridge moraine landscape Lithuania",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-linkuva-ridge-relief-v2.webp",
+    image: "/poi-images/lithuania-linkuva-ridge-relief-v2.webp",
 },  {
     id: "lithuania-karsuva-plain-relief-v2",
     parent: "LT",
@@ -646,7 +646,7 @@ imageHint: "Karsuva plain forest and sandy landscape",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-karsuva-plain-relief-v2.webp",
+    image: "/poi-images/lithuania-karsuva-plain-relief-v2.webp",
 },  {
     id: "lithuania-zeimena-plain-relief-v2",
     parent: "LT",
@@ -680,7 +680,7 @@ imageHint: "Zeimena plain pine forest Lithuania",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-zeimena-plain-relief-v2.webp",
+    image: "/poi-images/lithuania-zeimena-plain-relief-v2.webp",
 },  {
     id: "lithuania-dysna-plain-relief-v2",
     parent: "LT",
@@ -714,7 +714,7 @@ imageHint: "Dysna plain marshy landscape Lithuania",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-dysna-plain-relief-v2.webp",
+    image: "/poi-images/lithuania-dysna-plain-relief-v2.webp",
 },  {
     id: "lithuania-musa-nemunelis-lowland-relief-v2",
     parent: "LT",
@@ -748,7 +748,7 @@ imageHint: "Musa-Nemunelis lowland karst sinkhole Birzai Lithuania",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-musa-nemunelis-lowland-relief-v2.webp",
+    image: "/poi-images/lithuania-musa-nemunelis-lowland-relief-v2.webp",
 },  {
     id: "lithuania-sesupe-lowland-relief-v2",
     parent: "LT",
@@ -782,7 +782,7 @@ imageHint: "Sesupe lowland river valley and fields Lithuania",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-sesupe-lowland-relief-v2.webp",
+    image: "/poi-images/lithuania-sesupe-lowland-relief-v2.webp",
 },  {
     id: "lithuania-birute-hill-relief-v2",
     parent: "LT",
@@ -816,7 +816,7 @@ imageHint: "Birute hill with chapel Palanga Lithuania",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-birute-hill-relief-v2.webp",
+    image: "/poi-images/lithuania-birute-hill-relief-v2.webp",
 },  {
     id: "lithuania-ginuciai-hill-relief-v2",
     parent: "LT",
@@ -850,7 +850,7 @@ imageHint: "Ginuciai hill fort and lakes Lithuania",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-ginuciai-hill-relief-v2.webp",
+    image: "/poi-images/lithuania-ginuciai-hill-relief-v2.webp",
 },  {
     id: "lithuania-dyburiai-escarpment-relief-v2",
     parent: "LT",
@@ -884,7 +884,7 @@ imageHint: "Dyburiai river loop view Minija Lithuania",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-dyburiai-escarpment-relief-v2.webp",
+    image: "/poi-images/lithuania-dyburiai-escarpment-relief-v2.webp",
 },  {
     id: "lithuania-puckoriai-exposure-relief-v2",
     parent: "LT",

@@ -34,7 +34,7 @@ imageHint: "Siauliai city square and cathedral",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-siauliai-cities-v2.webp",
+    image: "/poi-images/lithuania-siauliai-cities-v2.webp",
 },  {
     id: "lithuania-panevezys-cities-v2",
     parent: "LT",
@@ -68,7 +68,7 @@ imageHint: "Panevezys city park and river",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-panevezys-cities-v2.webp",
+    image: "/poi-images/lithuania-panevezys-cities-v2.webp",
 },  {
     id: "lithuania-alytus-cities-v2",
     parent: "LT",
@@ -102,7 +102,7 @@ imageHint: "Alytus bridge over Nemunas river",
       ro: ["Orașul a primit drepturile Magdeburg în anul 1581.", "Râul Nemunas separă orașul în două districte administrative distincte.", "Podul Trandafirului Alb este cel mai înalt pod pietonal din Lituania (38 m).", "Prima atestare documentară a localității a avut loc în anul 1377.", "Alytus găzduiește una dintre cele mai mari fabrici de frigidere din regiune.", "Peste 30% din suprafața regiunii este acoperită de păduri de pini."],
       en: ["The city was granted Magdeburg rights in 1581 by Stephen Báthory.", "The Nemunas River divides the city into two parts, Alytus I and Alytus II.", "The White Rose Bridge is the tallest pedestrian bridge in Lithuania at 38 meters.", "Alytus was first mentioned in Teutonic Knight chronicles in 1377.", "It is home to Snaigė, one of the largest refrigerator manufacturers in Northern Europe.", "More than 30 percent of the surrounding municipal area is covered by forests."],
     },
-    , image: "/poi-images/lithuania-alytus-cities-v2.webp",
+    image: "/poi-images/lithuania-alytus-cities-v2.webp",
 },  {
     id: "lithuania-marijampole-cities-v2",
     parent: "LT",
@@ -136,7 +136,7 @@ imageHint: "Marijampole city square and church",
       ro: ["Orașul a primit drepturile de municipalitate în anul 1792.", "Între anii 1955 și 1989, orașul a purtat numele oficial de Kapsukas.", "Marijampolė găzduiește cea mai veche fabrică de zahăr din Lituania.", "Gimnaziul Rygiškių Jonas a fost locul de studiu al multor intelectuali lituanieni.", "Orașul este un punct strategic pe autostrada europeană Via Baltica.", "Râul Šešupė traversează orașul, fiind integrat în arhitectura peisagistică."],
       en: ["The city was granted Magdeburg rights in 1792 by King Stanislaus II Augustus.", "From 1955 to 1989, the city was officially renamed Kapsukas.", "Marijampolė is home to the oldest sugar refinery in Lithuania.", "The Rygiškių Jonas Gymnasium is one of the country's most famous historic schools.", "The city is a critical logistics hub located on the Via Baltica international route.", "The Šešupė River flows through the city center and its various parks."],
     },
-    , image: "/poi-images/lithuania-marijampole-cities-v2.webp",
+    image: "/poi-images/lithuania-marijampole-cities-v2.webp",
 },  {
     id: "lithuania-mazeikiai-cities-v2",
     parent: "LT",
@@ -170,7 +170,7 @@ imageHint: "Mazeikiai industrial skyline and refinery",
       ro: ["Orașul găzduiește singura rafinărie de petrol din regiunea Baltică.", "Dezvoltarea majoră a orașului a început în 1871, după finalizarea căii ferate.", "Mažeikiai se află la o distanță de doar 10 km de granița cu Letonia.", "Numele localității a fost menționat pentru prima dată în secolul al XVI-lea.", "Râul Venta traversează orașul, fiind o zonă importantă de agrement.", "Este un nod feroviar critic pentru transportul de mărfuri spre porturile de la Marea Baltică."],
       en: ["Mažeikiai is home to ORLEN Lietuva, the only oil refinery in the Baltics.", "The town's growth began in 1871 with the completion of major railways.", "It is located approximately 10 kilometers south of the border with Latvia.", "The city's name was first recorded in historical documents in the 16th century.", "The Venta River provides scenic areas and recreational opportunities for residents.", "Mažeikiai remains one of Lithuania's most important railway hubs for freight."],
     },
-    , image: "/poi-images/lithuania-mazeikiai-cities-v2.webp",
+    image: "/poi-images/lithuania-mazeikiai-cities-v2.webp",
 },  {
     id: "lithuania-jonava-cities-v2",
     parent: "LT",
@@ -204,7 +204,7 @@ imageHint: "Jonava city view and bridge",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-jonava-cities-v2.webp",
+    image: "/poi-images/lithuania-jonava-cities-v2.webp",
 },  {
     id: "lithuania-utena-cities-v2",
     parent: "LT",
@@ -238,7 +238,7 @@ imageHint: "Utena brewery and city park",
       ro: ["Utena a fost menționată prima dată în anul 1261 de regele Mindaugas.", "Orașul este sediul popularei mărci de bere lituaniene 'Utenos alus'.", "Teritoriul intravilan al orașului include două lacuri naturale mari.", "În secolul XIX, Utena a fost un nod poștal cheie între Varșovia și Sankt Petersburg.", "Stema orașului reprezintă o potcoavă de aur pe un fundal albastru.", "Industria textilă este reprezentată de gigantul local 'Utenos trikotažas'."],
       en: ["Utena was first recorded in 1261 in a letter by King Mindaugas.", "The city is famous for its brewery, 'Utenos alus', founded in 1977.", "Utena is unique for having two natural lakes located within the city limits.", "It was a major hub on the 19th-century Saint Petersburg–Warsaw postal road.", "The city's coat of arms features a golden horseshoe on a blue shield.", "The 'Utenos trikotažas' factory is a leading textile producer in the region."],
     },
-    , image: "/poi-images/lithuania-utena-cities-v2.webp",
+    image: "/poi-images/lithuania-utena-cities-v2.webp",
 },  {
     id: "lithuania-kedainiai-cities-v2",
     parent: "LT",
@@ -272,7 +272,7 @@ imageHint: "Kedainiai old town market square",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-kedainiai-cities-v2.webp",
+    image: "/poi-images/lithuania-kedainiai-cities-v2.webp",
 },  {
     id: "lithuania-telsiai-cities-v2",
     parent: "LT",
@@ -306,7 +306,7 @@ imageHint: "Telsiai cathedral on the hill",
       ro: ["Asemenea Romei, Telšiai este construit pe șapte coline pitorești.", "Orașul deține titlul oficial de capitală a regiunii Samogiția.", "Catedrala locală are unicul altar cu două etaje din întreaga Lituanie.", "Ursul este simbolul central al orașului, fiind reprezentat în numeroase monumente.", "Malul lacului Mastis dispune de o faleză modernă pentru recreere.", "Prima mențiune istorică a orașului datează din mijlocul secolului al XV-lea."],
       en: ["Telšiai is famously built on seven hills, drawing comparisons to Rome.", "The city is recognized as the official capital of the Samogitia region.", "The St. Anthony of Padua Cathedral features Lithuania's only two-story altar.", "The bear is the city's mascot, appearing in dozens of artistic sculptures.", "Lake Mastis features a 5-kilometer-long renovated waterfront promenade.", "Telšiai was first mentioned in historical records in the year 1450."],
     },
-    , image: "/poi-images/lithuania-telsiai-cities-v2.webp",
+    image: "/poi-images/lithuania-telsiai-cities-v2.webp",
 },  {
     id: "lithuania-visaginas-cities-v2",
     parent: "LT",
@@ -340,7 +340,7 @@ imageHint: "Visaginas modern apartment buildings in forest",
       ro: ["Visaginas a fost fondat în 1975, fiind cel mai nou oraș al Lituaniei.", "Planul urbanistic al orașului a fost proiectat sub formă de fluture.", "A fost construit special pentru a deservi Centrala Nucleară de la Ignalina.", "Orașul se află lângă lacul Drūkšiai, cel mai mare lac ca volum din țară.", "Populația este formată din reprezentanți ai peste 50 de naționalități.", "Orașul nu are străzi rectilinii, fiind proiectat pentru a proteja pinii locali."],
       en: ["Visaginas was founded in 1975, making it the youngest city in Lithuania.", "The city's master plan was designed in the symbolic shape of a butterfly.", "It was originally named Sniečkus before being renamed in 1992.", "The city borders Lake Drūkšiai, which is the largest lake in Lithuania.", "Visaginas is home to a diverse population representing over 50 ethnicities.", "The urban design intentionally preserved most of the original pine forest."],
     },
-    , image: "/poi-images/lithuania-visaginas-cities-v2.webp",
+    image: "/poi-images/lithuania-visaginas-cities-v2.webp",
 },  {
     id: "lithuania-taurage-cities-v2",
     parent: "LT",
@@ -374,7 +374,7 @@ imageHint: "Taurage castle and museum",
       ro: ["Convenția de la Tauroggen a fost semnată aici pe 30 decembrie 1812.", "Castelul Tauragė a fost inițial construit ca un punct vamal strategic.", "Râul Jūra, care traversează orașul, este renumit pentru traseele de caiac.", "Aproape 80% din structura orașului a fost distrusă în Primul Război Mondial.", "Orașul este un model de sustenabilitate, folosind în principal energie eoliană.", "Muzeul Castelului păstrează dovezi ale trecerii țarului Alexandru I prin oraș."],
       en: ["The historic Convention of Tauroggen was signed here on December 30, 1812.", "Tauragė Castle was originally designed to function as a border custom house.", "The Jūra River flowing through the town is a popular destination for kayaking.", "Nearly 80 percent of the city was leveled during the First World War.", "Tauragė is a leader in green energy, utilizing extensive wind power.", "The city's name is derived from the Lithuanian words for 'aurochs' and 'horn'."],
     },
-    , image: "/poi-images/lithuania-taurage-cities-v2.webp",
+    image: "/poi-images/lithuania-taurage-cities-v2.webp",
 },  {
     id: "lithuania-ukmerge-cities-v2",
     parent: "LT",
@@ -408,7 +408,7 @@ imageHint: "Ukmerge hillfort and old town",
       ro: ["Orașul a fost menționat pentru prima dată în Cronica rimată a Livoniei în anul 1225.", "Movila Ukmergė are o înălțime de aproximativ 16 metri față de nivelul râului Šventoji.", "În secolul al XIX-lea, Ukmergė era un centru important al mișcării de iluminism evreiesc (Haskala).", "Biserica Sfinții Petru și Pavel a fost reconstruită în stil neoclasic în anul 1820.", "Bătălia de la Pabaiskas din 1435, desfășurată în apropiere, a fost decisivă pentru istoria Marelui Ducat.", "Ukmergė a primit drepturile de Magdeburg pentru autoguvernare în anul 1792."],
       en: ["The town was first mentioned in the Livonian Rhymed Chronicle in 1225.", "The Ukmergė Mound rises approximately 16 meters above the surrounding river banks.", "During the 19th century, Ukmergė was a significant center for the Jewish Haskalah movement.", "The current neoclassical structure of St. Peter and Paul's Church was completed in 1820.", "The Battle of Pabaiskas took place nearby in 1435, ending a long period of internal conflict.", "Ukmergė was granted Magdeburg rights for self-governance by King Stanisław August Poniatowski in 1792."],
     },
-    , image: "/poi-images/lithuania-ukmerge-cities-v2.webp",
+    image: "/poi-images/lithuania-ukmerge-cities-v2.webp",
 },  {
     id: "lithuania-plunge-cities-v2",
     parent: "LT",
@@ -442,7 +442,7 @@ imageHint: "Plunge Oginski palace and park",
       ro: ["Palatul Oginski a fost proiectat de arhitectul Karl Lorenz în stil neorenascentist în 1879.", "Parcul domeniului Oginski se întinde pe o suprafață de 58 de hectare.", "Stejarul lui Perkūnas din parcul orașului are o vârstă estimată la peste 500 de ani.", "Celebrul artist Mikalojus Konstantinas Čiurlionis a studiat muzica la Plungė între 1889 și 1893.", "Plungė a primit drepturile de oraș Magdeburg în anul 1792.", "Muzeul de Artă din Samogitia funcționează în clădirea palatului încă din anul 1994."],
       en: ["The Oginski Palace was designed by architect Karl Lorenz in Neo-Renaissance style in 1879.", "The Plungė manor park covers an expansive area of 58 hectares.", "The 'Perkūnas Oak' located in the park is estimated to be over 500 years old.", "Composer Mikalojus Konstantinas Čiurlionis studied at the local orchestral school from 1889 to 1893.", "Plungė was officially granted Magdeburg city rights in 1792.", "The Samogitian Art Museum has been established in the palace premises since 1994."],
     },
-    , image: "/poi-images/lithuania-plunge-cities-v2.webp",
+    image: "/poi-images/lithuania-plunge-cities-v2.webp",
 },  {
     id: "lithuania-kretinga-cities-v2",
     parent: "LT",
@@ -476,7 +476,7 @@ imageHint: "Kretinga manor and winter garden",
       ro: ["Kretinga a fost menționat pentru prima dată în 1253 în actul de divizare a Curlandei.", "Biserica Buna Vestire a fost ctitorită de Jonas Karolis Chodkevičius între 1610 și 1617.", "Grădina de Iarnă din palatul Tiškevičius adăpostește peste 5.000 de specii de plante exotice.", "Orașul a primit drepturile de autoguvernare Magdeburg în anul 1609.", "Kretinga a fost printre primele orașe lituaniene cu rețea telefonică, instalată în 1882.", "Prima școală parohială din oraș a fost documentată încă din anul 1610."],
       en: ["The town was first mentioned in 1253 in the treaty of the division of Courland.", "The Church of the Annunciation was built between 1610 and 1617 by commander Chodkevičius.", "The Winter Garden of the Tiškevičius Palace contains over 5,000 species of exotic plants.", "Kretinga was officially granted Magdeburg city rights in 1609.", "One of the first telephone lines in Lithuania was established in Kretinga in 1882.", "The town is home to one of the oldest astronomical calendars in Lithuania, located in the museum."],
     },
-    , image: "/poi-images/lithuania-kretinga-cities-v2.webp",
+    image: "/poi-images/lithuania-kretinga-cities-v2.webp",
 },  {
     id: "lithuania-silute-cities-v2",
     parent: "LT",
@@ -510,7 +510,7 @@ imageHint: "Silute old post office and canal",
       ro: ["Orașul a fost fondat în 1511 sub numele de Heydekrug ca loc de târg.", "Până în 1923, Šilutė a făcut parte din provincia Prusia Orientală a Imperiului German.", "Conacul Hugo Scheu găzduiește astăzi un muzeu dedicat istoriei și folclorului local.", "Biserica evanghelică luterană din oraș a fost construită în stil neogotic în 1926.", "Šilutė se află la o distanță de doar 8 kilometri de Laguna Curoniană.", "În oraș se află o faimoasă pod-basculantă peste râul Šyša, construită în 1906."],
       en: ["The town was founded in 1511 as Heydekrug, meaning 'inn on the heath.'", "Until 1923, the town was part of the East Prussian province of the German Empire.", "The Hugo Scheu Manor is now a museum preserving rare ethnographic collections.", "The town's Lutheran church features a clock tower that was once the tallest in the region.", "Šilutė is located approximately 8 kilometers from the shores of the Curonian Lagoon.", "The city hosts an annual International Fish Soup Cooking Championship."],
     },
-    , image: "/poi-images/lithuania-silute-cities-v2.webp",
+    image: "/poi-images/lithuania-silute-cities-v2.webp",
 },  {
     id: "lithuania-radviliskis-cities-v2",
     parent: "LT",
@@ -544,7 +544,7 @@ imageHint: "Radviliskis railway station and locomotive",
       ro: ["Orașul a fost menționat pentru prima dată în 1567 într-un registru fiscal.", "Radviliškis a primit statutul oficial de oraș în anul 1923.", "Gara din Radviliškis este una dintre cele mai mari stații de triaj din statele baltice.", "Moara de vânt din lemn, construită în 1876, este un monument istoric protejat.", "Bătălia de la Radviliškis din noiembrie 1919 a dus la retragerea trupelor bermondtiene din Lituania.", "Biserica parohială a fost reconstruită în stil neoclasic după distrugerile din al Doilea Război Mondial."],
       en: ["The settlement was first mentioned in historical documents in 1567.", "Radviliškis was officially granted city status in 1923.", "The local railway station is one of the largest marshalling yards in the Baltic states.", "The historic wooden windmill built in 1876 remains a prominent landmark of the city.", "In 1919, Lithuanian forces captured over 30 locomotives and 300 wagons from the Bermondtians here.", "The Church of the Immaculate Conception features a unique blend of folk and neoclassical architecture."],
     },
-    , image: "/poi-images/lithuania-radviliskis-cities-v2.webp",
+    image: "/poi-images/lithuania-radviliskis-cities-v2.webp",
 },  {
     id: "lithuania-palanga-cities-v2",
     parent: "LT",
@@ -578,7 +578,7 @@ imageHint: "Palanga beach and sea pier at sunset",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-palanga-cities-v2.webp",
+    image: "/poi-images/lithuania-palanga-cities-v2.webp",
 },  {
     id: "lithuania-gargzdai-cities-v2",
     parent: "LT",
@@ -612,7 +612,7 @@ imageHint: "Gargzdai city center and park",
       ro: ["Gargždai a fost menționat pentru prima dată în 1253 în tratatul de divizare a teritoriilor curoniene.", "Orașul a primit drepturile de Magdeburg în anul 1792.", "Gargždai este situat la o distanță de aproximativ 18 kilometri de orașul port Klaipėda.", "Clubul de fotbal FK Banga Gargždai este unul dintre cele mai vechi din regiune, fondat în 1966.", "Râul Minija, care trece prin oraș, este singurul râu din Lituania care se varsă direct în Delta Nemunas.", "În oraș se află o biserică modernă cu hramul Sf. Mihail Arhanghelul, finalizată în 1990."],
       en: ["Gargždai was first mentioned in 1253 in a treaty between the Teutonic Order and the Bishop of Courland.", "The town was granted city rights and a coat of arms by King Stanisław August Poniatowski in 1792.", "Gargždai is located roughly 18 kilometers east of the major port city of Klaipėda.", "The football club FK Banga Gargždai, founded in 1966, has a dedicated following in the region.", "Historically, the town was a significant customs point on the border with East Prussia.", "The Minija River bank in Gargždai features a park that is a protected landscape area."],
     },
-    , image: "/poi-images/lithuania-gargzdai-cities-v2.webp",
+    image: "/poi-images/lithuania-gargzdai-cities-v2.webp",
 },  {
     id: "lithuania-druskininkai-cities-v2",
     parent: "LT",
@@ -646,7 +646,7 @@ imageHint: "Druskininkai spa center and fountain",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-druskininkai-cities-v2.webp",
+    image: "/poi-images/lithuania-druskininkai-cities-v2.webp",
 },  {
     id: "lithuania-rokiskis-cities-v2",
     parent: "LT",
@@ -680,7 +680,7 @@ imageHint: "Rokiskis manor and church square",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-rokiskis-cities-v2.webp",
+    image: "/poi-images/lithuania-rokiskis-cities-v2.webp",
 },  {
     id: "lithuania-birzai-cities-v2",
     parent: "LT",
@@ -714,7 +714,7 @@ imageHint: "Birzai castle and lake bridge",
       ro: ["Castelul Biržai a fost construit inițial între 1586 și 1589 de către Kristupas Radvila 'Perkūnas'.", "Lacul Širvėna are o suprafață de 325 de hectare și a fost creat în 1575.", "Există peste 9.000 de doline carstice identificate în districtul Biržai.", "Podul pietonal de peste lacul Širvėna este cel mai lung din Lituania, măsurând 525 de metri.", "Biržai a primit drepturile de oraș Magdeburg în anul 1589.", "Peștera Vacii (Karvės ola) este cea mai adâncă dolină din regiune, având o adâncime de peste 12 metri."],
       en: ["Biržai Castle was originally constructed between 1586 and 1589 by Kristupas Radvila 'Perkūnas'.", "Lake Širvėna is the oldest artificial lake in Lithuania, covering approximately 325 hectares.", "There are more than 9,000 karst sinkholes documented in the Biržai district.", "The pedestrian bridge across Lake Širvėna is the longest in Lithuania, stretching 525 meters.", "Biržai was granted Magdeburg rights for self-governance in 1589.", "The Astravas Manor, built in the 19th century by the Tiškevičius family, features neoclassical architecture."],
     },
-    , image: "/poi-images/lithuania-birzai-cities-v2.webp",
+    image: "/poi-images/lithuania-birzai-cities-v2.webp",
 },  {
     id: "lithuania-elektrenai-cities-v2",
     parent: "LT",
@@ -748,7 +748,7 @@ imageHint: "Elektrenai power plant and church",
       ro: ["Orașul a fost fondat oficial la data de 14 iunie 1961.", "Lacul de acumulare Elektrėnai acoperă o suprafață de 1.264 de hectare.", "Centrala termoelectrică are o capacitate instalată de peste 1.000 MW.", "Biserica catolică din oraș, cu arhitectura sa modernistă, a fost sfințită în 1996.", "Elektrėnai deține prima arenă de hochei pe gheață construită în Lituania (1977).", "Orașul se află la aproximativ 40 de kilometri vest de capitala Vilnius."],
       en: ["Elektrėnai was officially established as a town on June 14, 1961.", "The Elektrėnai Reservoir was created by damming the Strėva River and covers 1,264 hectares.", "The power plant's tallest chimneys reach a height of 250 meters.", "The futuristic Church of Mary Queen of Martyrs was completed and consecrated in 1996.", "The city's 'Energija' hockey club was the dominant force in Lithuanian hockey for decades.", "Elektrėnai is situated precisely halfway between the major cities of Vilnius and Kaunas."],
     },
-    , image: "/poi-images/lithuania-elektrenai-cities-v2.webp",
+    image: "/poi-images/lithuania-elektrenai-cities-v2.webp",
 },  {
     id: "lithuania-kursenai-cities-v2",
     parent: "LT",
@@ -782,7 +782,7 @@ imageHint: "Kursenai pottery monument and bridge",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-kursenai-cities-v2.webp",
+    image: "/poi-images/lithuania-kursenai-cities-v2.webp",
 },  {
     id: "lithuania-jurbarkas-cities-v2",
     parent: "LT",
@@ -816,7 +816,7 @@ imageHint: "Jurbarkas bridge over Nemunas and park",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-jurbarkas-cities-v2.webp",
+    image: "/poi-images/lithuania-jurbarkas-cities-v2.webp",
 },  {
     id: "lithuania-garliava-cities-v2",
     parent: "LT",
@@ -850,7 +850,7 @@ imageHint: "Garliava church and main street",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-garliava-cities-v2.webp",
+    image: "/poi-images/lithuania-garliava-cities-v2.webp",
 },  {
     id: "lithuania-vilkaviskis-cities-v2",
     parent: "LT",
@@ -884,7 +884,7 @@ imageHint: "Vilkaviskis cathedral and park",
       ro: ["Vilkaviškis a primit drepturile de oraș Magdeburg în anul 1660.", "Napoleon Bonaparte a vizitat orașul în 1812, în timpul campaniei sale spre Moscova.", "Catedrala orașului a fost construită între anii 1870 și 1881 în stil neoclasic.", "Vincas Kudirka, autorul imnului național al Lituaniei, este strâns legat de această regiune.", "În secolul al XIX-lea, orașul a fost un punct cheie pentru distribuția cărților lituaniene interzise de regimul țarist.", "Conacul Paežeriai din apropiere este un exemplu remarcabil de arhitectură clasicistă din secolul al XVIII-lea."],
       en: ["Vilkaviškis was granted city rights in 1660 by King John II Casimir Vasa.", "Napoleon Bonaparte stayed in the town in June 1812 while reviewing his army before invading Russia.", "The Cathedral of the Visitation was built between 1870 and 1881 and survived heavy wartime shelling.", "The surrounding district is the birthplace of Jonas Basanavičius, the patriarch of Lithuanian independence.", "During the late 19th century, it was a major center for 'Knygnešiai' (book smugglers) defying the Russian print ban.", "The Paežeriai Manor nearby is considered the 'Pearl of Suvalkija' for its classical beauty."],
     },
-    , image: "/poi-images/lithuania-vilkaviskis-cities-v2.webp",
+    image: "/poi-images/lithuania-vilkaviskis-cities-v2.webp",
 },  {
     id: "lithuania-raseiniai-cities-v2",
     parent: "LT",
@@ -918,7 +918,7 @@ imageHint: "Raseiniai monument and church",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-raseiniai-cities-v2.webp",
+    image: "/poi-images/lithuania-raseiniai-cities-v2.webp",
 },  {
     id: "lithuania-anyksciai-cities-v2",
     parent: "LT",
@@ -952,7 +952,7 @@ imageHint: "Anyksciai treetop walking path",
       ro: ["Turnurile Bisericii Sfântul Matei au o înălțime de 79 de metri, fiind cele mai înalte din Lituania.", "Piatra Puntukas cântărește aproximativ 265 de tone și este gravată cu portretele a doi aviatori celebri.", "Traseul prin coroana arborilor a fost inaugurat în 2015 și are o lungime de 300 de metri.", "Calea ferată cu ecartament îngust Siaurukas este declarată monument de patrimoniu tehnic.", "Anykščiai a primit statutul de stațiune turistică oficială în anul 2007.", "Muzeul Calului din apropiere este singurul de acest fel din Lituania, fondat în 1978."],
       en: ["St. Matthew’s Church towers stand at 79 meters, making them the tallest church spires in Lithuania.", "The Puntukas Stone weighs roughly 265 tons and is the second-largest boulder in the country.", "The Treetop Walking Path was the first of its kind in Eastern Europe when it opened in 2015.", "The 'Siaurukas' narrow-gauge railway was built in 1899 and remains a functional tourist attraction.", "The town was first mentioned in historical documents in 1442.", "Anykščiai is home to the 'A. Baranauskas Granary,' the oldest memorial museum in Lithuania, established in 1927."],
     },
-    , image: "/poi-images/lithuania-anyksciai-cities-v2.webp",
+    image: "/poi-images/lithuania-anyksciai-cities-v2.webp",
 },  {
     id: "lithuania-lentvaris-cities-v2",
     parent: "LT",
@@ -986,7 +986,7 @@ imageHint: "Lentvaris palace and lake",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-lentvaris-cities-v2.webp",
+    image: "/poi-images/lithuania-lentvaris-cities-v2.webp",
 },  {
     id: "lithuania-grigiskes-cities-v2",
     parent: "LT",
@@ -1020,7 +1020,7 @@ imageHint: "Grigiskes industrial area and river",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-grigiskes-cities-v2.webp",
+    image: "/poi-images/lithuania-grigiskes-cities-v2.webp",
 },  {
     id: "lithuania-naujoji-akmene-cities-v2",
     parent: "LT",
@@ -1054,7 +1054,7 @@ imageHint: "Naujoji Akmene cement factory and quarries",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-naujoji-akmene-cities-v2.webp",
+    image: "/poi-images/lithuania-naujoji-akmene-cities-v2.webp",
 },  {
     id: "lithuania-prienai-cities-v2",
     parent: "LT",
@@ -1088,7 +1088,7 @@ imageHint: "Prienai bridge and river loops",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-prienai-cities-v2.webp",
+    image: "/poi-images/lithuania-prienai-cities-v2.webp",
 },  {
     id: "lithuania-joniskis-cities-v2",
     parent: "LT",
@@ -1122,7 +1122,7 @@ imageHint: "Joniskis synagogue and church",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-joniskis-cities-v2.webp",
+    image: "/poi-images/lithuania-joniskis-cities-v2.webp",
 },  {
     id: "lithuania-varena-cities-v2",
     parent: "LT",
@@ -1156,7 +1156,7 @@ imageHint: "Varena forest and railway station",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-varena-cities-v2.webp",
+    image: "/poi-images/lithuania-varena-cities-v2.webp",
 },  {
     id: "lithuania-kelme-cities-v2",
     parent: "LT",
@@ -1190,7 +1190,7 @@ imageHint: "Kelme manor and park",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-kelme-cities-v2.webp",
+    image: "/poi-images/lithuania-kelme-cities-v2.webp",
 },  {
     id: "lithuania-kaisiadorys-cities-v2",
     parent: "LT",
@@ -1224,7 +1224,7 @@ imageHint: "Kaisiadorys cathedral and railway",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-kaisiadorys-cities-v2.webp",
+    image: "/poi-images/lithuania-kaisiadorys-cities-v2.webp",
 },  {
     id: "lithuania-pasvalys-cities-v2",
     parent: "LT",
@@ -1258,7 +1258,7 @@ imageHint: "Pasvalys river and sinkhole park",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-pasvalys-cities-v2.webp",
+    image: "/poi-images/lithuania-pasvalys-cities-v2.webp",
 },  {
     id: "lithuania-kupiskis-cities-v2",
     parent: "LT",
@@ -1292,7 +1292,7 @@ imageHint: "Kupiskis church and reservoir",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-kupiskis-cities-v2.webp",
+    image: "/poi-images/lithuania-kupiskis-cities-v2.webp",
 },  {
     id: "lithuania-zarasai-cities-v2",
     parent: "LT",
@@ -1326,7 +1326,7 @@ imageHint: "Zarasai lake panoramic view and bridge",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-zarasai-cities-v2.webp",
+    image: "/poi-images/lithuania-zarasai-cities-v2.webp",
 },  {
     id: "lithuania-skuodas-cities-v2",
     parent: "LT",
@@ -1360,7 +1360,7 @@ imageHint: "Skuodas city square and park",
       ro: ["Skuodas a fost menționat pentru prima dată în documentele Ordinului Livonian în 1253.", "Bătălia de la Skuodas din 1259 a marcat o victorie importantă a șemaiților asupra ordinului.", "Orașul a primit privilegiile de oraș conform dreptului Magdeburg în anul 1572.", "Râul Bartuva traversează localitatea și reprezintă principala axă hidrografică a zonei.", "Localitatea este recunoscută ca un focar de conservare a tradițiilor populare samogitiene.", "Skuodas se află la o distanță de aproximativ 80 de kilometri nord de orașul Klaipėda."],
       en: ["Skuodas was first mentioned in historical documents of the Livonian Order in 1253.", "The historic Battle of Skuodas took place in 1259, involving Samogitian tribes.", "The town officially received its Magdeburg rights in the year 1572.", "The Bartuva River flows through the town and continues its course into Latvia.", "Skuodas serves as a cultural bastion for the unique Samogitian language and customs.", "The town is located approximately 54 kilometers north of the city of Kretinga."],
     },
-    , image: "/poi-images/lithuania-skuodas-cities-v2.webp",
+    image: "/poi-images/lithuania-skuodas-cities-v2.webp",
 },  {
     id: "lithuania-kazlu-ruda-cities-v2",
     parent: "LT",
@@ -1394,7 +1394,7 @@ imageHint: "Kazlu Ruda railway station and forest",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-kazlu-ruda-cities-v2.webp",
+    image: "/poi-images/lithuania-kazlu-ruda-cities-v2.webp",
 },  {
     id: "lithuania-sirvintos-cities-v2",
     parent: "LT",
@@ -1428,7 +1428,7 @@ imageHint: "Sirvintos city park and river",
       ro: ["Prima atestare documentară a localității Širvintos datează din anul 1475.", "Orașul a fost un punct central în zona neutră dintre Lituania și Polonia în 1920.", "Sculptura elanului din centrul orașului este opera sculptorului R. Antinis.", "Râul Širvinta, care dă numele orașului, este un afluent al râului Šventoji.", "Distanța dintre Širvintos și capitala Vilnius este de aproximativ 50 de kilometri.", "Biserica Sfântului Mihail Arhanghelul din oraș a fost reconstruită în stil neobaroc în 1860."],
       en: ["Širvintos was first documented in 1475 during the era of the Grand Duchy of Lithuania.", "The town was a key site of the neutral zone between Lithuania and Poland in 1919-1920.", "The 'Elk' monument in the town center is a significant piece of local modern art.", "The Širvinta River flows for 129 km before joining the Šventoji River.", "Geographically, Širvintos is situated 50 km northwest of the capital city, Vilnius.", "Significant military clashes took place here in November 1920 during independence struggles."],
     },
-    , image: "/poi-images/lithuania-sirvintos-cities-v2.webp",
+    image: "/poi-images/lithuania-sirvintos-cities-v2.webp",
 },  {
     id: "lithuania-moletai-cities-v2",
     parent: "LT",
@@ -1462,7 +1462,7 @@ imageHint: "Moletai ethnocosmology museum architecture",
       ro: ["Orașul Molėtai a fost menționat documentar pentru prima dată în anul 1387.", "Regiunea Molėtai găzduiește peste 200 de lacuri de origini glaciare.", "Observatorul Astronomic din apropiere deține un telescop cu oglindă de 1,65 metri.", "Muzeul de Etnocosmos a fost fondat în 1990 și este unic prin conceptul său cultural.", "Orașul este situat la o altitudine de aproximativ 155 de metri deasupra nivelului mării.", "Distanța de la Molėtai până la capitala Vilnius este de aproximativ 63 de kilometri."],
       en: ["Molėtai was first mentioned in 1387 as a gift from Jogaila to the Vilnius Bishopric.", "The district surrounding the town contains more than 220 individual lakes.", "The Molėtai Observatory features a 1.65-meter telescope, among the largest in the region.", "The Lithuanian Museum of Ethnocosmology is a world-unique institution opened in 1990.", "The town is located roughly 63 kilometers north of the Lithuanian capital, Vilnius.", "Lake Siesartis, adjacent to the town, features five islands and is a major tourist draw."],
     },
-    , image: "/poi-images/lithuania-moletai-cities-v2.webp",
+    image: "/poi-images/lithuania-moletai-cities-v2.webp",
 },  {
     id: "lithuania-salcininkai-cities-v2",
     parent: "LT",
@@ -1496,7 +1496,7 @@ imageHint: "Salcininkai manor house and park",
       ro: ["Orașul Šalčininkai a fost atestat documentar pentru prima dată în anul 1311.", "Minoritatea poloneză reprezintă aproximativ 72% din populația actuală a orașului.", "Conacul familiei Wagner din secolul XIX este cel mai important monument istoric local.", "Râul Šalčia traversează orașul și dă numele acestei localități lituaniene.", "Distanța de la Šalčininkai până la frontiera cu Belarus este de sub 5 kilometri.", "Orașul este un centru educațional important, având școli în limbile lituaniană și polonă."],
       en: ["Šalčininkai was first mentioned in historical chronicles in the year 1311.", "The town has the highest percentage of ethnic Polish residents in all of Lithuania.", "The Wagner Manor was constructed in the late 19th century as a noble residence.", "The Šalčia River, which runs through the town, is a tributary of the Merkys River.", "The town is located approximately 45 kilometers south of the capital city, Vilnius.", "Šalčininkai officially gained its city status in the year 1956."],
     },
-    , image: "/poi-images/lithuania-salcininkai-cities-v2.webp",
+    image: "/poi-images/lithuania-salcininkai-cities-v2.webp",
 },  {
     id: "lithuania-sakiai-cities-v2",
     parent: "LT",
@@ -1530,7 +1530,7 @@ imageHint: "Sakiai city square and park",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-sakiai-cities-v2.webp",
+    image: "/poi-images/lithuania-sakiai-cities-v2.webp",
 },  {
     id: "lithuania-kybartai-cities-v2",
     parent: "LT",
@@ -1564,7 +1564,7 @@ imageHint: "Kybartai railway border crossing",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-kybartai-cities-v2.webp",
+    image: "/poi-images/lithuania-kybartai-cities-v2.webp",
 },  {
     id: "lithuania-pabrade-cities-v2",
     parent: "LT",
@@ -1598,7 +1598,7 @@ imageHint: "Pabrade bridge and pine forest",
       ro: ["Localitatea Pabradė a devenit un nod feroviar important în anul 1862.", "Orașul este situat la confluența râurilor Žeimena și Dubinga.", "Poligonul militar din apropiere este numit după generalul Silvestras Žukauskas.", "Cea mai mare companie din oraș produce echipamente de asistență respiratorie.", "Distanța de la Pabradė până la granița cu Belarus este de aproximativ 10 kilometri.", "Biserica catolică din oraș a fost ridicată în perioada interbelică, în anul 1927."],
       en: ["Pabradė experienced rapid urbanization after the railway opened in 1862.", "The town is uniquely positioned where the Žeimena and Dubinga rivers meet.", "The local General Silvestras Žukauskas military site is a key NATO training hub.", "The town hosts a major manufacturing facility for international medical equipment.", "Geographically, Pabradė is situated 38 km northeast of the capital, Vilnius.", "The railway station building is a preserved example of 19th-century architecture."],
     },
-    , image: "/poi-images/lithuania-pabrade-cities-v2.webp",
+    image: "/poi-images/lithuania-pabrade-cities-v2.webp",
 },  {
     id: "lithuania-silale-cities-v2",
     parent: "LT",
@@ -1632,7 +1632,7 @@ imageHint: "Silale church and central park",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-silale-cities-v2.webp",
+    image: "/poi-images/lithuania-silale-cities-v2.webp",
 },  {
     id: "lithuania-ignalina-cities-v2",
     parent: "LT",
@@ -1666,7 +1666,7 @@ imageHint: "Ignalina winter sports center and lake",
       ro: ["Ignalina a apărut ca așezare feroviară pe harta Lituaniei în anul 1862.", "Orașul cuprinde 9 lacuri în perimetrul său urban, cel mai cunoscut fiind Lacul Gavys.", "Centrul de Sporturi de Iarnă din Lituania are sediul principal în Ignalina.", "Legenda locală spune că orașul a fost fondat pe locul unde s-au întâlnit Ignalis și Lina.", "Parcul Național Aukštaitija, învecinat cu orașul, acoperă peste 40.000 de hectare.", "Ignalina se află la o distanță de aproximativ 110 kilometri de capitala Vilnius."],
       en: ["Ignalina grew from a small railway stop established in 1862 into a vibrant town.", "There are nine lakes within the administrative boundaries of Ignalina town.", "The town serves as the headquarters and primary gateway to Aukštaitija National Park.", "Ignalina is the official training center for the Lithuanian national biathlon team.", "Local folklore attributes the town's name to the tragic lovers Ignalis and Lina.", "The town is a key destination for outdoor activities such as kayaking and hiking."],
     },
-    , image: "/poi-images/lithuania-ignalina-cities-v2.webp",
+    image: "/poi-images/lithuania-ignalina-cities-v2.webp",
 },  {
     id: "lithuania-nemencine-cities-v2",
     parent: "LT",
@@ -1700,7 +1700,7 @@ imageHint: "Nemencine bridge over Neris river",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-nemencine-cities-v2.webp",
+    image: "/poi-images/lithuania-nemencine-cities-v2.webp",
 },  {
     id: "lithuania-pakruojis-cities-v2",
     parent: "LT",
@@ -1734,7 +1734,7 @@ imageHint: "Pakruojis manor and stone bridge",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-pakruojis-cities-v2.webp",
+    image: "/poi-images/lithuania-pakruojis-cities-v2.webp",
 },  {
     id: "lithuania-svencioneliai-cities-v2",
     parent: "LT",
@@ -1768,7 +1768,7 @@ imageHint: "Svencioneliai railway station and forest",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-svencioneliai-cities-v2.webp",
+    image: "/poi-images/lithuania-svencioneliai-cities-v2.webp",
 },  {
     id: "lithuania-vievis-cities-v2",
     parent: "LT",
@@ -1802,7 +1802,7 @@ imageHint: "Vievis lake and church",
       ro: [],
       en: []
     }
-    , image: "/poi-images/lithuania-vievis-cities-v2.webp",
+    image: "/poi-images/lithuania-vievis-cities-v2.webp",
 },  {
     id: "lithuania-lazdijai-cities-v2",
     parent: "LT",
@@ -1836,7 +1836,7 @@ imageHint: "Lazdijai border crossing and church",
       ro: ["Lazdijai a fost înființat oficial în anul 1570 de către regele Sigismund al II-lea August.", "Privilegiile de oraș conform dreptului Magdeburg au fost acordate în 1597.", "Regiunea Lazdijai este considerată vatra istorică a vechiului popor al iatvingilor.", "Biserica Sfânta Ana, principalul monument al orașului, datează din anul 1895.", "Orașul este situat la intersecția unor rute comerciale vechi spre Varșovia.", "Muzeul local deține o colecție valoroasă de artefacte arheologice iatvinge."],
       en: ["Lazdijai was formally established in 1570 by the Grand Duke Sigismund II Augustus.", "The town was honored with Magdeburg rights in 1597, fostering early growth.", "The area is famous for being the ancestral home of the ancient Yotvingian people.", "The Church of St. Anne, a central landmark, was completed in its current form in 1895.", "The town is located just 7 kilometers from the border with Poland.", "Lazdijai is a major node for European transit on the 'Via Baltica' auxiliary routes."],
     },
-    , image: "/poi-images/lithuania-lazdijai-cities-v2.webp",
+    image: "/poi-images/lithuania-lazdijai-cities-v2.webp",
 },  {
     id: "lithuania-kalvarija-cities-v2",
     parent: "LT",
