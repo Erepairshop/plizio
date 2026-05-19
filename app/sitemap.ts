@@ -12,8 +12,9 @@ import {
 
 export const dynamic = "force-static";
 
-// Google: 50,000 URLs MAX per sitemap. Chunk to 40k to leave safety margin.
-const CHUNK_SIZE = 40_000;
+// Google: 50,000 URLs MAX per sitemap. Chunk to 20K for reliable fetches
+// (smaller XML = fewer "Konnte nicht abgerufen werden" timeouts in GSC).
+const CHUNK_SIZE = 20_000;
 
 export async function generateSitemaps() {
   // Compute how many chunks are needed (rough estimate; safe upper bound).
