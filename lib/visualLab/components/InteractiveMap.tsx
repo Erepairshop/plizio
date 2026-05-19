@@ -185,6 +185,11 @@ type InteractiveMapProps = {
   defaultZoom?: number;
   /** Afrika orszag slug (pl. "egypt", "nigeria") — ha meg van adva, felülírja a lang-alapú resolver-t */
   countryId?: string;
+  /** When true, render nothing while async-loading instead of the skeleton.
+   *  Use when an SsrCountryMap (server-side inline SVG) is already painted
+   *  behind this component — the user sees the country shape immediately
+   *  and we don't want the skeleton to flash over it. */
+  ssrLayer?: boolean;
 };
 
 // Outer wrapper: resolves country data (sync for Africa/Asia/SouthAmerica,
@@ -240,7 +245,7 @@ export const InteractiveMap = (props: InteractiveMapProps) => {
     return () => { cancelled = true; };
   }, [countryId, lang]);
 
-  if (!countryData) return <MapLoadingSkeleton />;
+  if (!countryData) return props.ssrLayer ? null : <MapLoadingSkeleton />;
   return <InteractiveMapInner {...props} countryData={countryData} />;
 };
 
