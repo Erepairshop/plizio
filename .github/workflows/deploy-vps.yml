@@ -66,6 +66,11 @@ jobs:
       - name: Split POIs per country (lazy-fetch source)
         run: npx tsx scripts/split_pois_by_country.mts
 
+      - name: Build SEO index (lite POI/region JSON for slugs.ts)
+        env:
+          NODE_OPTIONS: --max-old-space-size=16384
+        run: npx tsx scripts/build-seo-index.mts
+
       - name: Build (static export → out/)
         env:
           NODE_OPTIONS: --max-old-space-size=12288

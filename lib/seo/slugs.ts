@@ -1,9 +1,17 @@
-import { pois as dePois, regions as deRegions, type POI } from "@/lib/visualLab/data/poi";
-import { romaniaAllPois, romaniaRegions } from "@/lib/visualLab/data/romaniaPoi";
-import { hungaryAllPoi, hungaryRegions } from "@/lib/visualLab/data/hungaryPoi";
-import { vaticanPois, vaticanCountry } from "@/lib/visualLab/data/vaticanPoi";
-import { ALL_COUNTRY_POIS, ALL_DE_EXTRA_POIS } from "@/lib/visualLab/data/allCountryPois";
+import { type POI } from "@/lib/visualLab/data/poi";
 import { slugify } from "@/lib/seo/slugify";
+import fs from "node:fs";
+import path from "node:path";
+
+// SEO data is loaded from a build-time generated JSON (public/data/_seo-index.json)
+// instead of importing the heavy POI .ts files directly. This keeps the Next.js
+// webpack/turbopack module graph small enough to scale to hundreds of thousands of
+// POIs without OOM in build workers. The index is produced by
+// `scripts/build-seo-index.mts` and contains only the lite fields slugs.ts needs
+// (id, type, parent, coords, image, coa, name) plus a precomputed `hasIndexable`
+// flag for routing decisions. Heavy text content (description/facts/advanced)
+// remains in the per-country JSON under public/data/pois/<CC>.json and is read
+// on demand by the POI detail page render path (out of scope here).
 
 export type Lang = "de" | "hu" | "ro" | "en";
 
@@ -13,75 +21,22 @@ function isDefinedPoi(poi: POI | null | undefined): poi is POI {
   return Boolean(poi && poi.id && poi.name && poi.type);
 }
 
-// Base: DE + RO + HU + Vatican (explicit, for backward compat).
-// Plus: all other countries via ALL_COUNTRY_POIS aggregate.
-// De-duplicate by id, keeping the richest version (most desc+facts chars).
-// Earlier first-wins lost content when V1 was thinner than later V2 entry.
-const _poiById = new Map<string, POI>();
-function _richness(p: POI): number {
-  let n = 0;
-  const desc = (p as { description?: Record<string, string> }).description;
-  const descAdv = (p as { descriptionAdvanced?: Record<string, string> }).descriptionAdvanced;
-  const facts = (p as { facts?: Record<string, string[]> }).facts;
-  const factsAdv = (p as { factsAdvanced?: Record<string, string[]> }).factsAdvanced;
-  for (const obj of [desc, descAdv]) {
-    if (!obj) continue;
-    for (const l of ["de", "hu", "ro", "en"]) n += ((obj as Record<string, string>)[l] || "").length;
+// Load the lite POI/region index produced by scripts/build-seo-index.mts.
+// The .ts heavy data files are NOT imported here, so webpack/turbopack workers
+// don't pay the OOM cost of dragging the full POI tree (description/facts) into
+// their module graph. Dedup, richness scoring, and GPS bucketing all happened
+// in the build script; this file just consumes the precomputed list.
+const _seoIndex: { pois: POI[]; regions: POI[] } = (() => {
+  const p = path.resolve("public/data/_seo-index.json");
+  try {
+    return JSON.parse(fs.readFileSync(p, "utf-8")) as { pois: POI[]; regions: POI[] };
+  } catch (e) {
+    console.warn(`[slugs] could not load ${p}; run scripts/build-seo-index.mts first.`, (e as Error).message);
+    return { pois: [], regions: [] };
   }
-  for (const obj of [facts, factsAdv]) {
-    if (!obj) continue;
-    for (const l of ["de", "hu", "ro", "en"]) {
-      const arr = (obj as Record<string, unknown>)[l];
-      if (Array.isArray(arr)) for (const s of arr) n += (typeof s === "string" ? s.length : 0);
-    }
-  }
-  if ((p as { image?: string }).image) n += 50;
-  return n;
-}
-// Build via concat — spread of 50K+ items hits V8 stack limit.
-const _allSources: POI[] = ([] as POI[]).concat(
-  dePois, ALL_DE_EXTRA_POIS, romaniaAllPois, hungaryAllPoi, [vaticanCountry], vaticanPois, ALL_COUNTRY_POIS,
-);
-for (const p of _allSources) {
-  if (!p || !p.id) continue;
-  const prev = _poiById.get(p.id);
-  if (!prev || _richness(p) > _richness(prev)) _poiById.set(p.id, p);
-}
-// GPS-alapú dedup: ha 2 POI ugyanazon koordinátán (~50m radius), keep az
-// "összetettebbet" (parent + description + image). Region/country mindenhol.
-function poiCoords(p: POI): [number, number] | null {
-  if (p.coords && p.coords.length >= 2) return [Number(p.coords[0]), Number(p.coords[1])];
-  const c = (p as { coordinates?: { lat: number; lng: number } }).coordinates;
-  if (c && typeof c.lat === "number" && typeof c.lng === "number") return [c.lng, c.lat];
-  return null;
-}
-function poiScore(p: POI): number {
-  let s = 0;
-  if (p.parent) s += 100; // parent is critical for map rendering
-  if (p.image) s += 10;
-  if (p.description) s += 5;
-  if (p.facts) s += 3;
-  return s;
-}
-const _seenCoords = new Map<string, POI>(); // bucket-key -> best POI so far
-const _passthrough: POI[] = []; // POIs without coords or region/country (keep all)
-for (const p of _poiById.values()) {
-  if (!p || p.type === "region" || p.type === "country") {
-    _passthrough.push(p);
-    continue;
-  }
-  const xy = poiCoords(p);
-  if (!xy) {
-    _passthrough.push(p);
-    continue;
-  }
-  const key = `${Math.round(xy[1] / 0.0005)}:${Math.round(xy[0] / 0.0005)}`;
-  const existing = _seenCoords.get(key);
-  if (!existing || poiScore(p) > poiScore(existing)) {
-    _seenCoords.set(key, p);
-  }
-}
-export const pois: POI[] = _passthrough.concat(Array.from(_seenCoords.values()));
+})();
+
+export const pois: POI[] = _seoIndex.pois;
 
 // Lightweight POI shape for client-side bundles (maps, globes, interactive views).
 // Excludes the heavy text fields (`description`, `facts`, `descriptionAdvanced`,
@@ -101,16 +56,7 @@ export const poisLite: POILite[] = pois.map((p) => ({
   coa: p.coa,
   name: p.name,
 }));
-const _regionById = new Map<string, POI>();
-for (const r of [...deRegions, ...romaniaRegions, ...hungaryRegions]) {
-  if (r && r.id && !_regionById.has(r.id)) _regionById.set(r.id, r);
-}
-for (const p of pois) {
-  if (p && (p.type === "region" || p.type === "country") && !_regionById.has(p.id)) {
-    _regionById.set(p.id, p);
-  }
-}
-export const regions = Array.from(_regionById.values());
+export const regions: POI[] = _seoIndex.regions;
 
 export const COUNTRY_SLUGS: Record<string, Record<Lang, string>> = {
   germany: {

@@ -262,8 +262,12 @@ export function getPoiAlternates(poi: POI) {
  * Threshold: at least one description >= 200 chars AND at least 2 facts in any of 4 langs.
  */
 export function hasIndexableContent(poi: POI): boolean {
-  // Any POI with at least a name in some lang and a description (any length) or facts gets a page.
-  // SEO richness varies per POI (adv content boosts ranking), but every POI MUST be reachable.
+  // Prefer the precomputed flag from the lite index (build-seo-index.mts).
+  // Falls back to inspecting heavy fields when called on a full POI loaded
+  // from per-country JSON (POI detail render path).
+  const lite = poi as POI & { hasIndexable?: boolean };
+  if (typeof lite.hasIndexable === "boolean") return lite.hasIndexable;
+
   const desc = poi.description as Record<string, string> | undefined;
   const facts = poi.facts as Record<string, string[]> | undefined;
   const descAdv = (poi as { descriptionAdvanced?: Record<string, string> }).descriptionAdvanced;
