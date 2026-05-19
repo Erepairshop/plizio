@@ -1,17 +1,14 @@
 import { type POI } from "@/lib/visualLab/data/poi";
 import { slugify } from "@/lib/seo/slugify";
-import fs from "node:fs";
-import path from "node:path";
+import { SEO_POIS, SEO_REGIONS } from "@/lib/seo/_seo-data.generated";
 
-// SEO data is loaded from a build-time generated JSON (public/data/_seo-index.json)
-// instead of importing the heavy POI .ts files directly. This keeps the Next.js
-// webpack/turbopack module graph small enough to scale to hundreds of thousands of
-// POIs without OOM in build workers. The index is produced by
-// `scripts/build-seo-index.mts` and contains only the lite fields slugs.ts needs
-// (id, type, parent, coords, image, coa, name) plus a precomputed `hasIndexable`
-// flag for routing decisions. Heavy text content (description/facts/advanced)
-// remains in the per-country JSON under public/data/pois/<CC>.json and is read
-// on demand by the POI detail page render path (out of scope here).
+// SEO data is loaded from a build-time generated TS module (_seo-data.generated.ts)
+// instead of importing the heavy POI .ts files directly. The lite shape
+// (id, type, parent, coords, image, coa, name + hasIndexable flag) is ~70x smaller
+// than the full POI tree, so the module graph stays inside worker heap limits even
+// at hundreds of thousands of POIs. Heavy text content (description/facts/advanced)
+// remains in per-country JSON under public/data/pois/<CC>.json and is read on
+// demand by the POI detail page render path (out of scope here).
 
 export type Lang = "de" | "hu" | "ro" | "en";
 
@@ -21,22 +18,7 @@ function isDefinedPoi(poi: POI | null | undefined): poi is POI {
   return Boolean(poi && poi.id && poi.name && poi.type);
 }
 
-// Load the lite POI/region index produced by scripts/build-seo-index.mts.
-// The .ts heavy data files are NOT imported here, so webpack/turbopack workers
-// don't pay the OOM cost of dragging the full POI tree (description/facts) into
-// their module graph. Dedup, richness scoring, and GPS bucketing all happened
-// in the build script; this file just consumes the precomputed list.
-const _seoIndex: { pois: POI[]; regions: POI[] } = (() => {
-  const p = path.resolve("public/data/_seo-index.json");
-  try {
-    return JSON.parse(fs.readFileSync(p, "utf-8")) as { pois: POI[]; regions: POI[] };
-  } catch (e) {
-    console.warn(`[slugs] could not load ${p}; run scripts/build-seo-index.mts first.`, (e as Error).message);
-    return { pois: [], regions: [] };
-  }
-})();
-
-export const pois: POI[] = _seoIndex.pois;
+export const pois: POI[] = SEO_POIS as POI[];
 
 // Lightweight POI shape for client-side bundles (maps, globes, interactive views).
 // Excludes the heavy text fields (`description`, `facts`, `descriptionAdvanced`,
@@ -56,7 +38,7 @@ export const poisLite: POILite[] = pois.map((p) => ({
   coa: p.coa,
   name: p.name,
 }));
-export const regions: POI[] = _seoIndex.regions;
+export const regions: POI[] = SEO_REGIONS as POI[];
 
 export const COUNTRY_SLUGS: Record<string, Record<Lang, string>> = {
   germany: {
