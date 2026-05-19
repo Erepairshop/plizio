@@ -15,11 +15,51 @@ const OUT = path.resolve(__dirname, "..", "public", "data", "pois");
 
 fs.mkdirSync(OUT, { recursive: true });
 
-// Pull build helpers + the fully-deduped POI list (V1 + V2 combined).
+// Pull build helpers from slugs (lite — no heavy text).
 import * as _slugs from "../lib/seo/slugs";
 const s: any = (_slugs as any).default ?? _slugs;
-const { buildPoiPath, buildStatePath, SUPPORTED_LANGS, pois: allPois, getCountryId } = s;
-console.log(`Combined POIs (V1+V2 deduped): ${allPois.length}`);
+const { buildPoiPath, buildStatePath, SUPPORTED_LANGS, getCountryId } = s;
+
+// Load the FULL POI dataset (with description / facts / descriptionAdvanced
+// fields) directly from the source TS files. slugs.ts exports only the lite
+// shape now (#50 refactor) so the popup content would be missing if we used
+// `pois` from there. Heavy import is fine here — this script runs as a
+// standalone tsx process with 16 GB heap, no webpack worker constraints.
+const [
+  { pois: dePois },
+  { romaniaAllPois },
+  { hungaryAllPoi },
+  { vaticanPois, vaticanCountry },
+  { ALL_COUNTRY_POIS, ALL_DE_EXTRA_POIS },
+] = await Promise.all([
+  import("../lib/visualLab/data/poi"),
+  import("../lib/visualLab/data/romaniaPoi"),
+  import("../lib/visualLab/data/hungaryPoi"),
+  import("../lib/visualLab/data/vaticanPoi"),
+  import("../lib/visualLab/data/allCountryPois"),
+]);
+
+// Dedup by id keeping the richest copy (matches slugs.ts dedup behaviour).
+function richness(p: any): number {
+  let n = 0;
+  for (const l of ["de", "hu", "ro", "en"]) {
+    n += (p?.description?.[l]?.length || 0);
+    n += (p?.descriptionAdvanced?.[l]?.length || 0);
+  }
+  return n;
+}
+const rawAll: any[] = ([] as any[]).concat(
+  dePois as any[], ALL_DE_EXTRA_POIS as any[], romaniaAllPois as any[], hungaryAllPoi as any[],
+  [vaticanCountry as any], vaticanPois as any[], ALL_COUNTRY_POIS as any[],
+);
+const byId = new Map<string, any>();
+for (const p of rawAll) {
+  if (!p?.id) continue;
+  const prev = byId.get(p.id);
+  if (!prev || richness(p) > richness(prev)) byId.set(p.id, p);
+}
+const allPois = Array.from(byId.values());
+console.log(`Combined POIs (V1+V2 deduped, with full text): ${allPois.length}`);
 
 // Map ISO2_TO_COUNTRY's countryId values back to ISO codes for cc bucketing.
 const COUNTRY_TO_ISO2: Record<string, string> = {
