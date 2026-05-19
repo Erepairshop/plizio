@@ -70,7 +70,8 @@ jobs:
         env:
           NODE_OPTIONS: --max-old-space-size=12288
           GSP_LIMIT: '0'
-        run: npm run build
+          TURBOPACK: '0'
+        run: npx next build --webpack
 
       - name: Verify out/ produced
         run: test -f out/index.html && test -d out/_next
