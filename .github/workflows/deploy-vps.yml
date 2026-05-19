@@ -38,9 +38,16 @@ jobs:
             nextcache-vps-v2-${{ runner.os }}-${{ hashFiles('package-lock.json') }}-
             nextcache-vps-v2-${{ runner.os }}-
 
-      - name: Purge stale .next + out (defensive — runner state lingers between jobs)
+      - name: Purge stale build output (preserve .next/cache for incremental builds)
         shell: bash
-        run: rm -rf .next out
+        run: |
+          # Remove EVERYTHING from .next except the cache subdir that the
+          # actions/cache@v4 step just restored. Removes stale turbopack
+          # artifacts, server/static outputs from previous builds.
+          if [ -d .next ]; then
+            find .next -mindepth 1 -maxdepth 1 ! -name cache -exec rm -rf {} +
+          fi
+          rm -rf out
 
       - run: npm ci
 
