@@ -638,7 +638,7 @@ const InteractiveMapInner = ({
     <div className="relative w-full h-full min-h-[70vh] lg:min-h-0 lg:max-w-5xl lg:mx-auto select-none flex flex-col" style={{ overscrollBehavior: "contain" }}>
 
       {/* Mode tabs: Browse / Ruler / Quiz */}
-      <div className="relative z-10 flex justify-center mb-2 px-1">
+      <div className="flex justify-center mb-2 px-1">
         <div className="inline-flex gap-1 bg-[#0A1929]/80 border border-cyan-400/25 rounded-full px-1 py-1 backdrop-blur-sm">
           {(["browse", "ruler", "quiz"] as const).map((mode) => {
             const active = mapMode === mode;
@@ -692,7 +692,7 @@ const InteractiveMapInner = ({
 
       {/* Top bar: Search + Favorites toggle */}
       {mapMode === "browse" && (
-      <div className="relative z-10 flex items-center gap-2 mb-2 px-1">
+      <div className="flex items-center gap-2 mb-2 px-1">
         {/* POI Search */}
         <div ref={searchRef} className="relative flex-1">
           <div className="flex items-center gap-1.5 bg-[#0A1929]/80 border border-cyan-400/25 rounded-full px-3 py-1.5 backdrop-blur-sm">
@@ -748,7 +748,7 @@ const InteractiveMapInner = ({
 
       {/* Layer toggle — browse mode only */}
       {mapMode === "browse" && (
-      <div className="relative z-10 flex justify-center mb-2">
+      <div className="flex justify-center mb-2">
         <div className="inline-flex gap-1 bg-[#0A1929]/80 border border-cyan-400/25 rounded-full px-1 py-1 backdrop-blur-sm">
           {(Object.keys(LAYER_TYPES) as Layer[]).filter((l) => {
             if (isSimplified && (l === "history" || l === "landmarks")) return false;
@@ -785,7 +785,7 @@ const InteractiveMapInner = ({
 
       {/* History period chip row — browse mode only */}
       {mapMode === "browse" && layer === "history" && (
-        <div className="relative z-10 flex justify-center mb-2 overflow-x-auto">
+        <div className="flex justify-center mb-2 overflow-x-auto">
           <div className="inline-flex gap-1 bg-[#0A1929]/70 border border-pink-400/20 rounded-full px-1 py-1 backdrop-blur-sm whitespace-nowrap">
             {PERIODS.map((p) => {
               const active = period === p.id;
@@ -808,7 +808,7 @@ const InteractiveMapInner = ({
       )}
 
       <div
-        className="absolute inset-0 mx-auto lg:relative lg:flex-1 lg:max-h-[640px]"
+        className="relative w-full flex-1 mx-auto lg:max-h-[640px]"
         style={{ overscrollBehavior: "contain", touchAction: "none" }}
       >
         <svg
