@@ -163,6 +163,8 @@ const slim = (p: any) => {
     ...(popFacts ? { facts: popFacts } : {}),
     ...(p.region ? { region: p.region } : {}),
     ...(p.altNames ? { altNames: p.altNames } : {}),
+    ...(p.sights ? { sights: p.sights } : {}),
+    ...(p.nearbySights ? { nearbySights: p.nearbySights } : {}),
   };
 };
 
