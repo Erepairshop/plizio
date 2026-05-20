@@ -141,10 +141,6 @@ function popupFacts(p: any): Record<string, string[]> | undefined {
   return Object.keys(out).length > 0 ? out : undefined;
 }
 
-// LITE slim — only the bare-minimum fields needed to render a marker + popup
-// header (image, name, short desc, facts). Heavy fields (sights, nearbySights,
-// descriptionAdvanced, factsAdvanced, faq, plizioChallenge) are split out to
-// `/data/sights/{poi-id}.json` and lazy-loaded by the popup on click.
 const slim = (p: any) => {
   const popDesc = popupDescription(p);
   const popFacts = popupFacts(p);
@@ -159,13 +155,16 @@ const slim = (p: any) => {
     audio: p.audio,
     subjects: p.subjects,
     grades: p.grades,
+    // Short popup content shown when clicking a POI on the country map.
+    // If the source has no explicit `description`/`facts`, fall back to the
+    // first sentence of `descriptionAdvanced` and the `factsAdvanced` list —
+    // common on V2 POIs which only got the advanced fields from Flash.
     ...(popDesc ? { description: popDesc } : {}),
     ...(popFacts ? { facts: popFacts } : {}),
     ...(p.region ? { region: p.region } : {}),
     ...(p.altNames ? { altNames: p.altNames } : {}),
-    // Marker only: do NOT include sights / nearbySights / advanced text here.
-    // Mark whether sights data EXISTS so the popup knows to fetch it.
-    ...((p.sights || p.nearbySights) ? { hasSights: true } : {}),
+    ...(p.sights ? { sights: p.sights } : {}),
+    ...(p.nearbySights ? { nearbySights: p.nearbySights } : {}),
   };
 };
 
@@ -198,24 +197,6 @@ for (const [cc, arr] of Object.entries(byCountry)) {
   fs.writeFileSync(fp, json, "utf8");
   totalBytes += json.length;
   sizes.push([cc, arr.length, json.length]);
-
-  // Split out per-POI heavy data (sights + nearbySights + advanced text) into
-  // /data/sights/{poi-id}.json — lazy-loaded by the popup on click. Skipped
-  // if the POI has no heavy data to begin with.
-  const sightsDir = path.join(OUT, "..", "sights");
-  fs.mkdirSync(sightsDir, { recursive: true });
-  for (const p of arr) {
-    if (!p?.id) continue;
-    const heavy: any = {};
-    if (p.sights) heavy.sights = p.sights;
-    if (p.nearbySights) heavy.nearbySights = p.nearbySights;
-    if (p.descriptionAdvanced) heavy.descriptionAdvanced = p.descriptionAdvanced;
-    if (p.factsAdvanced) heavy.factsAdvanced = p.factsAdvanced;
-    if (p.faq) heavy.faq = p.faq;
-    if (Object.keys(heavy).length === 0) continue;
-    const sightFp = path.join(sightsDir, `${p.id}.json`);
-    fs.writeFileSync(sightFp, JSON.stringify(heavy), "utf8");
-  }
 }
 sizes.sort((a, b) => b[2] - a[2]);
 console.log(`Wrote ${sizes.length} country files to ${OUT}`);
