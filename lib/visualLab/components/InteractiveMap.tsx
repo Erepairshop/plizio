@@ -1345,9 +1345,20 @@ const InteractiveMapInner = ({
                     <h4 className="text-cyan-300 font-semibold text-sm mb-2">{sightsLabel} ({sights.length})</h4>
                     <div className="flex flex-col gap-2">
                       {sights.map((s, i) => (
-                        <div key={i} className="bg-white/3 border border-cyan-400/10 rounded-lg px-3 py-2">
-                          <div className="text-white/90 font-medium text-sm">{s.name}</div>
-                          <p className="text-white/65 text-xs leading-relaxed mt-0.5">{s.text}</p>
+                        <div key={i} className="bg-white/3 border border-cyan-400/10 rounded-lg px-3 py-2 flex gap-2.5">
+                          {s.image ? (
+                            <img
+                              src={s.image}
+                              alt={s.name}
+                              className="w-16 h-16 rounded-md object-cover shrink-0 bg-white/5 border border-white/10"
+                              loading="lazy"
+                              onError={(e) => { (e.currentTarget as HTMLImageElement).style.display = "none"; }}
+                            />
+                          ) : null}
+                          <div className="flex-1 min-w-0">
+                            <div className="text-white/90 font-medium text-sm">{s.name}</div>
+                            <p className="text-white/65 text-xs leading-relaxed mt-0.5">{s.text}</p>
+                          </div>
                         </div>
                       ))}
                     </div>
@@ -1367,12 +1378,23 @@ const InteractiveMapInner = ({
                     <h4 className="text-pink-300 font-semibold text-sm mb-2">{nearbyLabel} ({nearby.length})</h4>
                     <div className="flex flex-col gap-2">
                       {nearby.map((s, i) => (
-                        <div key={i} className="bg-white/3 border border-pink-400/10 rounded-lg px-3 py-2">
-                          <div className="flex items-baseline justify-between gap-2">
-                            <span className="text-white/90 font-medium text-sm">{s.name}</span>
-                            {s.distance ? <span className="text-pink-300/80 text-[10px] shrink-0">{s.distance}</span> : null}
+                        <div key={i} className="bg-white/3 border border-pink-400/10 rounded-lg px-3 py-2 flex gap-2.5">
+                          {s.image ? (
+                            <img
+                              src={s.image}
+                              alt={s.name}
+                              className="w-16 h-16 rounded-md object-cover shrink-0 bg-white/5 border border-white/10"
+                              loading="lazy"
+                              onError={(e) => { (e.currentTarget as HTMLImageElement).style.display = "none"; }}
+                            />
+                          ) : null}
+                          <div className="flex-1 min-w-0">
+                            <div className="flex items-baseline justify-between gap-2">
+                              <span className="text-white/90 font-medium text-sm">{s.name}</span>
+                              {s.distance ? <span className="text-pink-300/80 text-[10px] shrink-0">{s.distance}</span> : null}
+                            </div>
+                            <p className="text-white/65 text-xs leading-relaxed mt-0.5">{s.text}</p>
                           </div>
-                          <p className="text-white/65 text-xs leading-relaxed mt-0.5">{s.text}</p>
                         </div>
                       ))}
                     </div>
