@@ -420,13 +420,23 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   // Sights — per-city landmarks rendered as cards with thumbnail + text.
   // Schema.org TouristAttraction JSON-LD added for each so Google can pick
   // them up as discrete entities.
-  type SightItem = { name?: string; text?: string; image?: string; distance?: string };
+  type SightAttr = { author?: string; source?: string; license?: string; platform?: string };
+  type SightItem = { name?: string; text?: string; image?: string; distance?: string; image_attribution?: SightAttr };
+  const renderAttribution = (a?: SightAttr): string => {
+    if (!a || !a.author) return "";
+    const lic = a.license ? ` (${escapeHtml(a.license)})` : "";
+    const link = a.source
+      ? `<a href="${escapeHtml(a.source)}" rel="nofollow noopener" target="_blank">${escapeHtml(a.author)}</a>`
+      : escapeHtml(a.author);
+    return `<span class="plz-sight-attr">📷 ${link}${lic}</span>`;
+  };
   const renderSightCard = (s: SightItem, withDistance: boolean): string => {
     if (!s?.name) return "";
     const img = s.image ? `<img class="plz-sight-img" src="${escapeHtml(s.image)}" alt="${escapeHtml(s.name)}" loading="lazy"/>` : "";
     const dist = withDistance && s.distance ? `<span class="plz-sight-dist">${escapeHtml(s.distance)}</span>` : "";
     const txt = s.text ? `<p>${escapeHtml(s.text)}</p>` : "";
-    return `<article class="plz-sight" itemscope itemtype="https://schema.org/TouristAttraction"><div class="plz-sight-body">${img}<div><h3 itemprop="name">${escapeHtml(s.name)}</h3>${dist}<div itemprop="description">${txt}</div></div></div></article>`;
+    const attr = renderAttribution(s.image_attribution);
+    return `<article class="plz-sight" itemscope itemtype="https://schema.org/TouristAttraction"><div class="plz-sight-body">${img}<div><h3 itemprop="name">${escapeHtml(s.name)}</h3>${dist}<div itemprop="description">${txt}</div>${attr}</div></div></article>`;
   };
   const sightsObj = (poi as { sights?: Record<string, SightItem[]> }).sights;
   const sightsArr = (getLocalized(sightsObj as Partial<Record<string, SightItem[]>>, lang) || []) as SightItem[];

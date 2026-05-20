@@ -400,6 +400,16 @@ footer a { color: rgba(255,255,255,0.7); }
   font-size: 0.8rem; color: rgba(249,168,212,0.8);
   vertical-align: baseline;
 }
+.plz-sight-attr {
+  display: block;
+  font-size: 0.72rem;
+  color: rgba(255,255,255,0.4);
+  margin-top: 0.35rem;
+}
+.plz-sight-attr a {
+  color: rgba(255,255,255,0.55);
+  text-decoration: underline dotted;
+}
 @media (max-width: 480px) {
   .plz-sight-img { width: 56px; height: 56px; max-width: 56px; }
 }

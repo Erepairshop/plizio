@@ -2741,14 +2741,28 @@ export const hungaryCities: POI[] = [
           "text": "Ein moderner Thermalpark mit Erlebnisbecken, Saunawelt und Sportplätzen, der direkt neben der mittelalterlichen Burg liegt.",
           "category": "recreational",
           "confidence": "high",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/siklos-thermal-spa-siklos.webp",
+          "image_attribution": {
+            "author": "neonzu1",
+            "source": "https://www.flickr.com/photos/61466423@N02/53083475855",
+            "license": "CC-BY-NC-ND",
+            "platform": "flickr"
+          }
         },
         {
           "name": "Siklóser Weinkeller",
           "text": "Die Stadt ist Teil der berühmten Weinregion Villány-Siklós und bietet hervorragende Weißweine in traditionellen Kellern an.",
           "category": "culinary",
           "confidence": "high",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/siklos-sikloser-weinkeller.webp",
+          "image_attribution": {
+            "author": "neonzu1",
+            "source": "https://www.flickr.com/photos/61466423@N02/53083475855",
+            "license": "CC-BY-NC-ND",
+            "platform": "flickr"
+          }
         }
       ],
       "hu": [
@@ -2781,14 +2795,28 @@ export const hungaryCities: POI[] = [
           "text": "Modern fürdőkomplexum élménymedencékkel, szaunavilággal és sportpályákkal, közvetlenül a vár szomszédságában.",
           "category": "recreational",
           "confidence": "high",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/siklos-thermal-spa-siklos.webp",
+          "image_attribution": {
+            "author": "neonzu1",
+            "source": "https://www.flickr.com/photos/61466423@N02/53083475855",
+            "license": "CC-BY-NC-ND",
+            "platform": "flickr"
+          }
         },
         {
           "name": "Siklósi borospincék",
           "text": "A Villány-Siklósi borvidék részeként a város híres a fehérborairól; több hagyományos pince várja a borkóstolókat.",
           "category": "culinary",
           "confidence": "high",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/siklos-sikloser-weinkeller.webp",
+          "image_attribution": {
+            "author": "neonzu1",
+            "source": "https://www.flickr.com/photos/61466423@N02/53083475855",
+            "license": "CC-BY-NC-ND",
+            "platform": "flickr"
+          }
         }
       ],
       "ro": [
@@ -2821,14 +2849,28 @@ export const hungaryCities: POI[] = [
           "text": "Un complex balnear modern cu piscine de aventură, o lume a saunelor și facilități sportive, situat chiar lângă castel.",
           "category": "recreational",
           "confidence": "high",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/siklos-thermal-spa-siklos.webp",
+          "image_attribution": {
+            "author": "neonzu1",
+            "source": "https://www.flickr.com/photos/61466423@N02/53083475855",
+            "license": "CC-BY-NC-ND",
+            "platform": "flickr"
+          }
         },
         {
           "name": "Cramele din Siklós",
           "text": "Parte a renumitei regiuni viticole Villány-Siklós, orașul este faimos pentru vinurile sale albe servite în pivnițe tradiționale.",
           "category": "culinary",
           "confidence": "high",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/siklos-sikloser-weinkeller.webp",
+          "image_attribution": {
+            "author": "neonzu1",
+            "source": "https://www.flickr.com/photos/61466423@N02/53083475855",
+            "license": "CC-BY-NC-ND",
+            "platform": "flickr"
+          }
         }
       ],
       "en": [
@@ -2861,14 +2903,28 @@ export const hungaryCities: POI[] = [
           "text": "A modern spa complex featuring adventure pools, a sauna world, and sports fields, located adjacent to the castle.",
           "category": "recreational",
           "confidence": "high",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/siklos-thermal-spa-siklos.webp",
+          "image_attribution": {
+            "author": "neonzu1",
+            "source": "https://www.flickr.com/photos/61466423@N02/53083475855",
+            "license": "CC-BY-NC-ND",
+            "platform": "flickr"
+          }
         },
         {
           "name": "Siklós Wine Cellars",
           "text": "As part of the Villány-Siklós wine region, the town is famous for its quality white wines produced in traditional cellars.",
           "category": "culinary",
           "confidence": "high",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/siklos-sikloser-weinkeller.webp",
+          "image_attribution": {
+            "author": "neonzu1",
+            "source": "https://www.flickr.com/photos/61466423@N02/53083475855",
+            "license": "CC-BY-NC-ND",
+            "platform": "flickr"
+          }
         }
       ]
     },
@@ -2933,21 +2989,42 @@ export const hungaryCities: POI[] = [
           "text": "Die ikonische doppelte Kellerreihe ist das Herz der Stadt, wo renommierte Weingüter den berühmten Villányer Blauportugieser und Cabernet Franc direkt in den historischen Kellern ausschenken.",
           "category": "culinary",
           "confidence": "high",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/villany-villanyer-kellerreihe.webp",
+          "image_attribution": {
+            "author": "Istvan",
+            "source": "https://www.flickr.com/photos/40385587@N00/4453873846",
+            "license": "CC-BY-NC-ND",
+            "platform": "flickr"
+          }
         },
         {
           "name": "Weinbaumuseum (Bormúzeum)",
           "text": "Das in der ehemaligen Teleki-Villa untergebrachte Museum zeigt die Geschichte des Weinbaus in der Region, alte Geräte und die Rettung des europäischen Weinbaus durch die Veredelung von Reben.",
           "category": "culinary",
           "confidence": "high",
-          "source_hint": "wiki"
+          "source_hint": "wiki",
+          "image": "/poi-images/sights/villany-weinbaumuseum-bormuzeum.webp",
+          "image_attribution": {
+            "author": "Photodiary of an Endless Summer",
+            "source": "https://www.flickr.com/photos/43255570@N00/289788492",
+            "license": "CC-BY",
+            "platform": "flickr"
+          }
         },
         {
           "name": "Aussichtsturm auf dem Templom-hegy",
           "text": "Der moderne Aussichtsturm auf dem Kirchenhügel bietet einen weiten Panoramablick über das Villány-Gebirge, die umliegenden Weinberge und bei klarem Wetter bis nach Kroatien.",
           "category": "natural",
           "confidence": "high",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/villany-aussichtsturm-auf-dem-templom-hegy.webp",
+          "image_attribution": {
+            "author": ".::Danka::.",
+            "source": "https://www.flickr.com/photos/7779670@N02/2453184912",
+            "license": "CC-BY-NC-SA",
+            "platform": "flickr"
+          }
         },
         {
           "name": "Szent Vendel Kapelle",
@@ -2962,7 +3039,14 @@ export const hungaryCities: POI[] = [
           "text": "Ein landschaftlich reizvoller Kreuzweg, der zum Gipfel des Templom-hegy führt und mit künstlerisch gestalteten Stationen und einem Friedhof im schwäbischen Stil gesäumt ist.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/villany-villanyer-kalvarienberg.webp",
+          "image_attribution": {
+            "author": "Istvan",
+            "source": "https://www.flickr.com/photos/40385587@N00/4453873846",
+            "license": "CC-BY-NC-ND",
+            "platform": "flickr"
+          }
         }
       ],
       "hu": [
@@ -2971,21 +3055,42 @@ export const hungaryCities: POI[] = [
           "text": "A város jelképe a kettős pincesor, ahol a leghíresebb borászatok kínálják a villányi kékoportót és franc-t a patinás, fehérre meszelt pincékben.",
           "category": "culinary",
           "confidence": "high",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/villany-villanyer-kellerreihe.webp",
+          "image_attribution": {
+            "author": "Istvan",
+            "source": "https://www.flickr.com/photos/40385587@N00/4453873846",
+            "license": "CC-BY-NC-ND",
+            "platform": "flickr"
+          }
         },
         {
           "name": "Villányi Bormúzeum",
           "text": "A Teleki-villában berendezett múzeum a környék szőlőművelésének történetét, régi eszközeit és a híres filoxéra-vész elleni védekezést mutatja be.",
           "category": "culinary",
           "confidence": "high",
-          "source_hint": "wiki"
+          "source_hint": "wiki",
+          "image": "/poi-images/sights/villany-weinbaumuseum-bormuzeum.webp",
+          "image_attribution": {
+            "author": "Photodiary of an Endless Summer",
+            "source": "https://www.flickr.com/photos/43255570@N00/289788492",
+            "license": "CC-BY",
+            "platform": "flickr"
+          }
         },
         {
           "name": "Templom-hegyi kilátó",
           "text": "A kálvária feletti dombon található modern kilátóból lenyűgöző panoráma nyílik a Villányi-hegységre és a végtelen szőlőültetvényekre.",
           "category": "natural",
           "confidence": "high",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/villany-aussichtsturm-auf-dem-templom-hegy.webp",
+          "image_attribution": {
+            "author": ".::Danka::.",
+            "source": "https://www.flickr.com/photos/7779670@N02/2453184912",
+            "license": "CC-BY-NC-SA",
+            "platform": "flickr"
+          }
         },
         {
           "name": "Szent Vendel-kápolna",
@@ -3000,7 +3105,14 @@ export const hungaryCities: POI[] = [
           "text": "A Templom-hegy oldalában futó, művészien kialakított stációkkal szegélyezett keresztút, amely a helyi sváb gyökerekre is emlékeztet.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/villany-villanyer-kalvarienberg.webp",
+          "image_attribution": {
+            "author": "Istvan",
+            "source": "https://www.flickr.com/photos/40385587@N00/4453873846",
+            "license": "CC-BY-NC-ND",
+            "platform": "flickr"
+          }
         }
       ],
       "ro": [
@@ -3009,21 +3121,42 @@ export const hungaryCities: POI[] = [
           "text": "Simbolul iconic al orașului este rândul dublu de crame, unde vinării renumite oferă soiurile locale Blue Port și Villányi Franc direct în pivnițele istorice.",
           "category": "culinary",
           "confidence": "high",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/villany-villanyer-kellerreihe.webp",
+          "image_attribution": {
+            "author": "Istvan",
+            "source": "https://www.flickr.com/photos/40385587@N00/4453873846",
+            "license": "CC-BY-NC-ND",
+            "platform": "flickr"
+          }
         },
         {
           "name": "Muzeul Vinului (Bormúzeum)",
           "text": "Găzduit în fosta Vilă Teleki, acest muzeu prezintă istoria viticulturii din regiune, unelte vechi și lupta împotriva epidemiei de filoxeră.",
           "category": "culinary",
           "confidence": "high",
-          "source_hint": "wiki"
+          "source_hint": "wiki",
+          "image": "/poi-images/sights/villany-weinbaumuseum-bormuzeum.webp",
+          "image_attribution": {
+            "author": "Photodiary of an Endless Summer",
+            "source": "https://www.flickr.com/photos/43255570@N00/289788492",
+            "license": "CC-BY",
+            "platform": "flickr"
+          }
         },
         {
           "name": "Turnul de observație de pe Templom-hegy",
           "text": "Turnul modern de pe Dealul Bisericii oferă o panoramă vastă asupra munților Villány, a podgoriilor înconjurătoare și, în zilele senine, până în Croația.",
           "category": "natural",
           "confidence": "high",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/villany-aussichtsturm-auf-dem-templom-hegy.webp",
+          "image_attribution": {
+            "author": ".::Danka::.",
+            "source": "https://www.flickr.com/photos/7779670@N02/2453184912",
+            "license": "CC-BY-NC-SA",
+            "platform": "flickr"
+          }
         },
         {
           "name": "Capela Sfântul Wendel",
@@ -3038,7 +3171,14 @@ export const hungaryCities: POI[] = [
           "text": "Un drum al crucii pitoresc care urcă pe muntele Templom-hegy, mărginit de stații lucrate artistic și un cimitir în stil șvăbesc.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/villany-villanyer-kalvarienberg.webp",
+          "image_attribution": {
+            "author": "Istvan",
+            "source": "https://www.flickr.com/photos/40385587@N00/4453873846",
+            "license": "CC-BY-NC-ND",
+            "platform": "flickr"
+          }
         }
       ],
       "en": [
@@ -3047,21 +3187,42 @@ export const hungaryCities: POI[] = [
           "text": "The iconic double row of whitewashed wine cellars is the heart of the town, where famous wineries offer local Blue Port and Villányi Franc.",
           "category": "culinary",
           "confidence": "high",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/villany-villanyer-kellerreihe.webp",
+          "image_attribution": {
+            "author": "Istvan",
+            "source": "https://www.flickr.com/photos/40385587@N00/4453873846",
+            "license": "CC-BY-NC-ND",
+            "platform": "flickr"
+          }
         },
         {
           "name": "Wine Museum (Bormúzeum)",
           "text": "Located in the former Teleki Villa, this museum showcases the history of viticulture in the region, ancient tools, and the fight against the phylloxera epidemic.",
           "category": "culinary",
           "confidence": "high",
-          "source_hint": "wiki"
+          "source_hint": "wiki",
+          "image": "/poi-images/sights/villany-weinbaumuseum-bormuzeum.webp",
+          "image_attribution": {
+            "author": "Photodiary of an Endless Summer",
+            "source": "https://www.flickr.com/photos/43255570@N00/289788492",
+            "license": "CC-BY",
+            "platform": "flickr"
+          }
         },
         {
           "name": "Templom-hegy Lookout Tower",
           "text": "A modern lookout tower on Church Hill offering a stunning panorama of the Villány Mountains, the vineyards, and views reaching as far as Croatia.",
           "category": "natural",
           "confidence": "high",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/villany-aussichtsturm-auf-dem-templom-hegy.webp",
+          "image_attribution": {
+            "author": ".::Danka::.",
+            "source": "https://www.flickr.com/photos/7779670@N02/2453184912",
+            "license": "CC-BY-NC-SA",
+            "platform": "flickr"
+          }
         },
         {
           "name": "Saint Vendel Chapel",
@@ -3076,7 +3237,14 @@ export const hungaryCities: POI[] = [
           "text": "A scenic stations-of-the-cross path leading up Church Hill, reflecting the town's Swabian heritage and offering a peaceful walk with artistic monuments.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/villany-villanyer-kalvarienberg.webp",
+          "image_attribution": {
+            "author": "Istvan",
+            "source": "https://www.flickr.com/photos/40385587@N00/4453873846",
+            "license": "CC-BY-NC-ND",
+            "platform": "flickr"
+          }
         }
       ]
     },
@@ -6402,14 +6570,28 @@ export const hungaryCities: POI[] = [
           "text": "Ein wunderschöner Park, der seltene Baumarten beherbergt und als letzte Ruhestätte für legendäre Renn- und Zuchtpferde dient.",
           "category": "natural",
           "confidence": "high",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/babolna-arboretum-und-gedaechtnispark-fuer-beruehmte-pferde.webp",
+          "image_attribution": {
+            "author": "ldjaffe",
+            "source": "https://www.flickr.com/photos/9480126@N02/47098447234",
+            "license": "CC-BY-NC-SA",
+            "platform": "flickr"
+          }
         },
         {
           "name": "Thermalbad und Strand Bábolna",
           "text": "Ein modernes Wellnesszentrum mit Thermalwasser, das Entspannung in mehreren Innen- und Außenbecken bietet.",
           "category": "recreational",
           "confidence": "high",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/babolna-thermalbad-und-strand-babolna.webp",
+          "image_attribution": {
+            "author": "Schnitzel_bank",
+            "source": "https://www.flickr.com/photos/69258414@N08/50918606026",
+            "license": "CC-BY-ND",
+            "platform": "flickr"
+          }
         },
         {
           "name": "St. Georgskirche",
@@ -6450,14 +6632,28 @@ export const hungaryCities: POI[] = [
           "text": "A kertben különleges fafajok és a ménes legendás lovainak síremlékei találhatók, csendes sétákra hívogató környezetben.",
           "category": "natural",
           "confidence": "high",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/babolna-arboretum-und-gedaechtnispark-fuer-beruehmte-pferde.webp",
+          "image_attribution": {
+            "author": "ldjaffe",
+            "source": "https://www.flickr.com/photos/9480126@N02/47098447234",
+            "license": "CC-BY-NC-SA",
+            "platform": "flickr"
+          }
         },
         {
           "name": "Bábolna Strand- és Termálfürdő",
           "text": "Modern, egész évben üzemelő fürdőkomplexum, amely gyógyvizes medencékkel és wellness szolgáltatásokkal várja a látogatókat.",
           "category": "recreational",
           "confidence": "high",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/babolna-thermalbad-und-strand-babolna.webp",
+          "image_attribution": {
+            "author": "Schnitzel_bank",
+            "source": "https://www.flickr.com/photos/69258414@N08/50918606026",
+            "license": "CC-BY-ND",
+            "platform": "flickr"
+          }
         },
         {
           "name": "Szent György római katolikus templom",
@@ -6498,14 +6694,28 @@ export const hungaryCities: POI[] = [
           "text": "Un parc superb care adăpostește specii rare de arbori și servește ca loc de odihnă finală pentru cai de curse legendari.",
           "category": "natural",
           "confidence": "high",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/babolna-arboretum-und-gedaechtnispark-fuer-beruehmte-pferde.webp",
+          "image_attribution": {
+            "author": "ldjaffe",
+            "source": "https://www.flickr.com/photos/9480126@N02/47098447234",
+            "license": "CC-BY-NC-SA",
+            "platform": "flickr"
+          }
         },
         {
           "name": "Ștrandul și Băile Termale Bábolna",
           "text": "Un centru modern de wellness cu apă termală, oferind relaxare în mai multe bazine interioare și exterioare.",
           "category": "recreational",
           "confidence": "high",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/babolna-thermalbad-und-strand-babolna.webp",
+          "image_attribution": {
+            "author": "Schnitzel_bank",
+            "source": "https://www.flickr.com/photos/69258414@N08/50918606026",
+            "license": "CC-BY-ND",
+            "platform": "flickr"
+          }
         },
         {
           "name": "Biserica Sfântul Gheorghe",
@@ -6546,14 +6756,28 @@ export const hungaryCities: POI[] = [
           "text": "A beautiful park home to rare tree species and the final resting places of legendary racing and stud horses.",
           "category": "natural",
           "confidence": "high",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/babolna-arboretum-und-gedaechtnispark-fuer-beruehmte-pferde.webp",
+          "image_attribution": {
+            "author": "ldjaffe",
+            "source": "https://www.flickr.com/photos/9480126@N02/47098447234",
+            "license": "CC-BY-NC-SA",
+            "platform": "flickr"
+          }
         },
         {
           "name": "Bábolna Strand and Thermal Bath",
           "text": "A modern wellness center utilizing local medicinal water, offering relaxation in several indoor and outdoor pools.",
           "category": "recreational",
           "confidence": "high",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/babolna-thermalbad-und-strand-babolna.webp",
+          "image_attribution": {
+            "author": "Schnitzel_bank",
+            "source": "https://www.flickr.com/photos/69258414@N08/50918606026",
+            "license": "CC-BY-ND",
+            "platform": "flickr"
+          }
         },
         {
           "name": "St. George Church",
@@ -9514,14 +9738,28 @@ export const hungaryCities: POI[] = [
           "text": "Die klassizistische Residenz dient heute als Heim für Schriftsteller und ist von einem 9 Hektar großen Park mit seltenen Kiefern und Pflanzen umgeben.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/szigliget-esterhazy-schloss-und-arboretum.webp",
+          "image_attribution": {
+            "author": "Elekes Andor",
+            "source": "https://www.flickr.com/photos/59061037@N02/33423124404",
+            "license": "CC-BY-SA",
+            "platform": "flickr"
+          }
         },
         {
           "name": "Strand von Szigliget",
           "text": "Einer der beliebtesten und modernsten Strände am Nordufer, bekannt für seine gepflegten Grünflächen und vielfältigen gastronomischen Angebote.",
           "category": "recreational",
           "confidence": "high",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/szigliget-strand-von-szigliget.webp",
+          "image_attribution": {
+            "author": "FireCobold - Szilu",
+            "source": "https://www.flickr.com/photos/33723707@N02/6899954503",
+            "license": "CC-BY-NC-ND",
+            "platform": "flickr"
+          }
         },
         {
           "name": "Altes Dorf (Ófalu)",
@@ -9544,7 +9782,14 @@ export const hungaryCities: POI[] = [
           "text": "Ein Aussichtspunkt auf einem vulkanischen Hügel, der seinen Namen seiner charakteristischen Form verdankt und einen Blick auf die Bucht von Szigliget bietet.",
           "category": "natural",
           "confidence": "medium",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/szigliget-kiralyne-szoknyaja-rock-der-koenigin.webp",
+          "image_attribution": {
+            "author": "farukr3",
+            "source": "https://www.flickr.com/photos/109201880@N03/50918733113",
+            "license": "CC-BY-NC-SA",
+            "platform": "flickr"
+          }
         }
       ],
       "hu": [
@@ -9561,14 +9806,28 @@ export const hungaryCities: POI[] = [
           "text": "Az egykori főúri rezidencia ma írók pihenőhelye, melyet egy 9 hektáros, különleges fafajokkal teli védett arborétum vesz körül.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/szigliget-esterhazy-schloss-und-arboretum.webp",
+          "image_attribution": {
+            "author": "Elekes Andor",
+            "source": "https://www.flickr.com/photos/59061037@N02/33423124404",
+            "license": "CC-BY-SA",
+            "platform": "flickr"
+          }
         },
         {
           "name": "Szigligeti strand",
           "text": "Az északi part egyik legszínvonalasabb strandja, amely fokozatosan mélyülő vízzel, árnyas parkkal és kiváló infrastruktúrával várja a pihenni vágyókat.",
           "category": "recreational",
           "confidence": "high",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/szigliget-strand-von-szigliget.webp",
+          "image_attribution": {
+            "author": "FireCobold - Szilu",
+            "source": "https://www.flickr.com/photos/33723707@N02/6899954503",
+            "license": "CC-BY-NC-ND",
+            "platform": "flickr"
+          }
         },
         {
           "name": "Ófalu",
@@ -9591,7 +9850,14 @@ export const hungaryCities: POI[] = [
           "text": "A vár alatti vulkanikus domb, amely nevét különleges formájáról kapta, tetejéről pedig remek kilátás nyílik a szigligeti öbölre és a tanúhegyekre.",
           "category": "natural",
           "confidence": "high",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/szigliget-kiralyne-szoknyaja-rock-der-koenigin.webp",
+          "image_attribution": {
+            "author": "farukr3",
+            "source": "https://www.flickr.com/photos/109201880@N03/50918733113",
+            "license": "CC-BY-NC-SA",
+            "platform": "flickr"
+          }
         }
       ],
       "ro": [
@@ -9608,14 +9874,28 @@ export const hungaryCities: POI[] = [
           "text": "Fosta reședință nobiliară servește astăzi drept casă de creație pentru scriitori, fiind înconjurată de un parc protejat de 9 hectare cu specii rare de arbori.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/szigliget-esterhazy-schloss-und-arboretum.webp",
+          "image_attribution": {
+            "author": "Elekes Andor",
+            "source": "https://www.flickr.com/photos/59061037@N02/33423124404",
+            "license": "CC-BY-SA",
+            "platform": "flickr"
+          }
         },
         {
           "name": "Plaja Szigliget",
           "text": "Una dintre cele mai moderne plaje de pe malul nordic, renumită pentru spațiile verzi bine întreținute și ofertele gastronomice variate.",
           "category": "recreational",
           "confidence": "high",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/szigliget-strand-von-szigliget.webp",
+          "image_attribution": {
+            "author": "FireCobold - Szilu",
+            "source": "https://www.flickr.com/photos/33723707@N02/6899954503",
+            "license": "CC-BY-NC-ND",
+            "platform": "flickr"
+          }
         },
         {
           "name": "Satul Vechi (Ófalu)",
@@ -9638,7 +9918,14 @@ export const hungaryCities: POI[] = [
           "text": "Un deal vulcanic situat sub castel, numit astfel datorită formei sale specifice, oferind un punct de observație excelent asupra golfului.",
           "category": "natural",
           "confidence": "medium",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/szigliget-kiralyne-szoknyaja-rock-der-koenigin.webp",
+          "image_attribution": {
+            "author": "farukr3",
+            "source": "https://www.flickr.com/photos/109201880@N03/50918733113",
+            "license": "CC-BY-NC-SA",
+            "platform": "flickr"
+          }
         }
       ],
       "en": [
@@ -9655,14 +9942,28 @@ export const hungaryCities: POI[] = [
           "text": "A neoclassical aristocratic residence that now functions as a creative retreat for writers, surrounded by a 9-hectare protected park with rare pines.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/szigliget-esterhazy-schloss-und-arboretum.webp",
+          "image_attribution": {
+            "author": "Elekes Andor",
+            "source": "https://www.flickr.com/photos/59061037@N02/33423124404",
+            "license": "CC-BY-SA",
+            "platform": "flickr"
+          }
         },
         {
           "name": "Szigliget Beach",
           "text": "Known as one of the best-quality beaches on the northern shore, it offers shaded areas, family-friendly services, and various sports facilities.",
           "category": "recreational",
           "confidence": "high",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/szigliget-strand-von-szigliget.webp",
+          "image_attribution": {
+            "author": "FireCobold - Szilu",
+            "source": "https://www.flickr.com/photos/33723707@N02/6899954503",
+            "license": "CC-BY-NC-ND",
+            "platform": "flickr"
+          }
         },
         {
           "name": "Old Village (Ófalu)",
@@ -9685,7 +9986,14 @@ export const hungaryCities: POI[] = [
           "text": "A cone-shaped volcanic hill offering a moderate hike and a great viewpoint overlooking the Szigliget bay and the nearby volcanic peaks.",
           "category": "natural",
           "confidence": "high",
-          "source_hint": "known"
+          "source_hint": "known",
+          "image": "/poi-images/sights/szigliget-kiralyne-szoknyaja-rock-der-koenigin.webp",
+          "image_attribution": {
+            "author": "farukr3",
+            "source": "https://www.flickr.com/photos/109201880@N03/50918733113",
+            "license": "CC-BY-NC-SA",
+            "platform": "flickr"
+          }
         }
       ]
     },
