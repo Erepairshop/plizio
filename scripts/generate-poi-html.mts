@@ -188,6 +188,8 @@ const I18N: Record<string, Record<Lang, string>> = {
   viewOSM: { de: "OpenStreetMap", hu: "OpenStreetMap", ro: "OpenStreetMap", en: "OpenStreetMap" },
   home: { de: "Startseite", hu: "Főoldal", ro: "Acasă", en: "Home" },
   langs: { de: "Sprachen", hu: "Nyelvek", ro: "Limbi", en: "Languages" },
+  sightsInTown: { de: "Sehenswürdigkeiten in der Stadt", hu: "Látnivalók a városban", ro: "Obiective turistice în oraș", en: "Sights in the town" },
+  nearbySights: { de: "In der Umgebung", hu: "Környékbeli látnivalók", ro: "Obiective din împrejurimi", en: "Sights nearby" },
 };
 
 const I = (k: string, lang: Lang) => I18N[k]?.[lang] ?? k;
@@ -415,6 +417,28 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     if (items) faqHtml = `<section><h2>FAQ</h2>${items}</section>`;
   }
 
+  // Sights — per-city landmarks rendered as cards with thumbnail + text.
+  // Schema.org TouristAttraction JSON-LD added for each so Google can pick
+  // them up as discrete entities.
+  type SightItem = { name?: string; text?: string; image?: string; distance?: string };
+  const renderSightCard = (s: SightItem, withDistance: boolean): string => {
+    if (!s?.name) return "";
+    const img = s.image ? `<img class="plz-sight-img" src="${escapeHtml(s.image)}" alt="${escapeHtml(s.name)}" loading="lazy"/>` : "";
+    const dist = withDistance && s.distance ? `<span class="plz-sight-dist">${escapeHtml(s.distance)}</span>` : "";
+    const txt = s.text ? `<p>${escapeHtml(s.text)}</p>` : "";
+    return `<article class="plz-sight" itemscope itemtype="https://schema.org/TouristAttraction"><div class="plz-sight-body">${img}<div><h3 itemprop="name">${escapeHtml(s.name)}</h3>${dist}<div itemprop="description">${txt}</div></div></div></article>`;
+  };
+  const sightsObj = (poi as { sights?: Record<string, SightItem[]> }).sights;
+  const sightsArr = (getLocalized(sightsObj as Partial<Record<string, SightItem[]>>, lang) || []) as SightItem[];
+  const sightsHtml = sightsArr.length > 0
+    ? `<section class="plz-sights"><h2>${I("sightsInTown", lang)} ${name} (${sightsArr.length})</h2>${sightsArr.map((s) => renderSightCard(s, false)).join("")}</section>`
+    : "";
+  const nearbyObj = (poi as { nearbySights?: Record<string, SightItem[]> }).nearbySights;
+  const nearbyArr = (getLocalized(nearbyObj as Partial<Record<string, SightItem[]>>, lang) || []) as SightItem[];
+  const nearbyHtml = nearbyArr.length > 0
+    ? `<section class="plz-sights plz-sights-nearby"><h2>${I("nearbySights", lang)} (${nearbyArr.length})</h2>${nearbyArr.map((s) => renderSightCard(s, true)).join("")}</section>`
+    : "";
+
   // Hero image
   const heroHtml = poi.image
     ? `<div class="plz-hero"><img src="${escapeHtml(poi.image)}" alt="${escapeHtml(name)}" loading="lazy"/></div>`
@@ -498,6 +522,8 @@ ${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, count
   ${didYouKnowHtml}
   ${gameCtaHtml}
   ${faqHtml}
+  ${sightsHtml}
+  ${nearbyHtml}
   <section>
     <a class="plz-cta" href="${countryMapUrl(countryId) ?? (poi.parent === countryId ? buildCountryPath(lang, countryId) : buildStatePath(lang, poi.parent))}">${I("viewMap", lang)} →</a>
     ${osmLink}
