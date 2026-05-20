@@ -1332,6 +1332,54 @@ const InteractiveMapInner = ({
                   </div>
                 );
               })()}
+
+              {(() => {
+                const sights = (selectedPoi as POI).sights?.[displayLang as keyof typeof selectedPoi.sights];
+                if (!sights || sights.length === 0) return null;
+                const sightsLabel = lang === "hu" ? "Látnivalók a városban"
+                  : lang === "ro" ? "Obiective turistice în oraș"
+                  : lang === "en" ? "Sights in the town"
+                  : "Sehenswürdigkeiten in der Stadt";
+                return (
+                  <div className="mt-4">
+                    <h4 className="text-cyan-300 font-semibold text-sm mb-2">{sightsLabel} ({sights.length})</h4>
+                    <div className="flex flex-col gap-2">
+                      {sights.map((s, i) => (
+                        <div key={i} className="bg-white/3 border border-cyan-400/10 rounded-lg px-3 py-2">
+                          <div className="text-white/90 font-medium text-sm">{s.name}</div>
+                          <p className="text-white/65 text-xs leading-relaxed mt-0.5">{s.text}</p>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                );
+              })()}
+
+              {(() => {
+                const nearby = (selectedPoi as POI).nearbySights?.[displayLang as keyof NonNullable<POI["nearbySights"]>];
+                if (!nearby || nearby.length === 0) return null;
+                const nearbyLabel = lang === "hu" ? "Környékbeli látnivalók"
+                  : lang === "ro" ? "Obiective din împrejurimi"
+                  : lang === "en" ? "Sights nearby"
+                  : "In der Umgebung";
+                return (
+                  <div className="mt-4">
+                    <h4 className="text-pink-300 font-semibold text-sm mb-2">{nearbyLabel} ({nearby.length})</h4>
+                    <div className="flex flex-col gap-2">
+                      {nearby.map((s, i) => (
+                        <div key={i} className="bg-white/3 border border-pink-400/10 rounded-lg px-3 py-2">
+                          <div className="flex items-baseline justify-between gap-2">
+                            <span className="text-white/90 font-medium text-sm">{s.name}</span>
+                            {s.distance ? <span className="text-pink-300/80 text-[10px] shrink-0">{s.distance}</span> : null}
+                          </div>
+                          <p className="text-white/65 text-xs leading-relaxed mt-0.5">{s.text}</p>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                );
+              })()}
+
               {buildPoiPathById(seoLang, selectedPoi.id) ? (
                 <a
                   href={buildPoiPathById(seoLang, selectedPoi.id)!}

@@ -8029,6 +8029,152 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Harburg = ?"
     },
     image: "/poi-images/harburg-extra.webp",
+  },
+  {
+    "id": "lauingen-extra",
+    "type": "city",
+    "parent": "DE-BY",
+    "coords": [10.4339, 48.5660],
+    "name": {
+      "de": "Lauingen (Donau)",
+      "hu": "Lauingen (Duna)",
+      "ro": "Lauingen (Dunăre)",
+      "en": "Lauingen (Danube)"
+    },
+    "description": {
+      "de": "Lauingen ist eine historische Donaustadt in Bayerisch-Schwaben, bekannt als Geburtsort des Universalgelehrten Albertus Magnus.",
+      "hu": "Lauingen egy történelmi Duna-parti város Bajor-Svábföldön, amely Albertus Magnus polihisztor szülővárosaként ismert.",
+      "ro": "Lauingen este un oraș istoric pe Dunăre, în Suabia Bavareză, cunoscut ca locul de naștere al savantului Albertus Magnus.",
+      "en": "Lauingen is a historic town on the Danube in Bavarian Swabia, known as the birthplace of the polymath Albertus Magnus."
+    },
+    "descriptionAdvanced": {
+      "de": "Lauingen an der Donau ist eine ehemalige Residenzstadt der Herzöge von Pfalz-Neuburg mit rund 11.000 Einwohnern, gelegen im Landkreis Dillingen an der Donau in Bayerisch-Schwaben. Die Stadt blickt auf eine mehr als 1000-jährige Geschichte zurück und gilt als Geburtsort von Albertus Magnus (um 1200), einem der einflussreichsten Theologen und Naturwissenschaftler des Mittelalters. Das Stadtbild wird vom 54 Meter hohen Schimmelturm aus dem 15. Jahrhundert geprägt, einem der bemerkenswertesten Türme Süddeutschlands. Im Stadtkern finden sich Renaissance- und Barockbauten, ein historisches Rathaus und schmale Gassen, die noch den mittelalterlichen Grundriss erkennen lassen. Lauingen liegt an der Donau-Radweg-Route und ist Ausgangspunkt für Ausflüge ins Schwäbische Donautal und in den nahen Naturpark Augsburg.",
+      "hu": "Lauingen a Duna mentén egykori herceg-választófejedelmi székváros, körülbelül 11 000 lakossal, Bajor-Svábföld északi részén, a Dillingen-i járásban. A város több mint 1000 éves múltra tekint vissza, és Albertus Magnus (kb. 1200) szülővárosaként ismert, aki a középkor egyik legbefolyásosabb teológusa és természettudósa volt. A városképet a 15. századi, 54 méter magas Schimmelturm uralja, Dél-Németország egyik legnevezetesebb tornya. A belvárosban reneszánsz és barokk épületek, történelmi városháza és szűk utcák őrzik a középkori városszerkezetet. Lauingen a Duna-menti kerékpárút mellett fekszik, és kiindulópont a Sváb-Duna-völgy és a közeli Augsburgi Természetpark felé.",
+      "ro": "Lauingen pe Dunăre este o fostă reședință a ducilor de Palatinat-Neuburg, cu aproximativ 11.000 de locuitori, situată în districtul Dillingen din Suabia Bavareză. Orașul are o istorie de peste 1000 de ani și este cunoscut ca loc de naștere al lui Albertus Magnus (cca. 1200), unul dintre cei mai influenți teologi și oameni de știință ai Evului Mediu. Centrul orașului este dominat de Schimmelturm înalt de 54 de metri din secolul al XV-lea, unul dintre cele mai remarcabile turnuri din sudul Germaniei. În centrul vechi se găsesc clădiri renascentiste și baroce, o primărie istorică și străduțe înguste care păstrează planul medieval. Lauingen se află pe traseul cicloturistic al Dunării și reprezintă un punct de plecare pentru excursii în Valea Suabă a Dunării și în apropiatul Parc Natural Augsburg.",
+      "en": "Lauingen on the Danube is a former ducal residence town of the Dukes of Palatinate-Neuburg, with around 11,000 inhabitants, located in the Dillingen district of Bavarian Swabia. The town looks back on more than 1000 years of history and is known as the birthplace of Albertus Magnus (c. 1200), one of the most influential theologians and natural scientists of the Middle Ages. Its townscape is dominated by the 54-meter Schimmelturm tower from the 15th century, one of the most remarkable towers in southern Germany. The historic center features Renaissance and Baroque buildings, a historical town hall, and narrow lanes that still trace the medieval street plan. Lauingen lies along the Danube Cycle Route and is a starting point for excursions into the Swabian Danube Valley and the nearby Augsburg Nature Park."
+    },
+    "facts": {
+      "de": ["Geburtsort von Albertus Magnus", "Schimmelturm 54 m", "ca. 11.000 Einwohner", "Bayerisch-Schwaben"],
+      "hu": ["Albertus Magnus szülővárosa", "Schimmelturm 54 m", "kb. 11 000 lakos", "Bajor-Svábföld"],
+      "ro": ["Locul natal al lui Albertus Magnus", "Schimmelturm 54 m", "cca. 11.000 locuitori", "Suabia Bavareză"],
+      "en": ["Birthplace of Albertus Magnus", "Schimmelturm 54 m", "ca. 11,000 residents", "Bavarian Swabia"]
+    },
+    "factsAdvanced": {
+      "de": [
+        "Lauingen erhielt 1268 das Stadtrecht von König Konrad IV.",
+        "Albertus Magnus (1200-1280) lehrte unter anderem Thomas von Aquin in Köln.",
+        "Der Schimmelturm war im Mittelalter Wachturm und Glockenturm zugleich.",
+        "Die Stadt war von 1505 bis 1808 Teil des Fürstentums Pfalz-Neuburg.",
+        "Das Heimatmuseum im ehemaligen Augustinerkloster zeigt die lange Stadtgeschichte."
+      ],
+      "hu": [
+        "Lauingen 1268-ban IV. Konrád királytól kapott városi jogot.",
+        "Albertus Magnus (1200-1280) többek között Aquinói Szent Tamást tanította Kölnben.",
+        "A Schimmelturm a középkorban őrtorony és harangtorony is volt egyben.",
+        "A város 1505-től 1808-ig a Pfalz-Neuburgi Fejedelemség része volt.",
+        "A volt ágostonos kolostorban működő helytörténeti múzeum bemutatja a város hosszú történetét."
+      ],
+      "ro": [
+        "Lauingen a primit statutul de oraș în 1268 de la regele Conrad al IV-lea.",
+        "Albertus Magnus (1200-1280) l-a învățat printre alții pe Toma de Aquino la Köln.",
+        "Schimmelturm a fost în Evul Mediu atât turn de pază, cât și clopotniță.",
+        "Orașul a făcut parte din Principatul Palatinat-Neuburg între 1505 și 1808.",
+        "Muzeul local din fosta mănăstire augustiniană prezintă istoria îndelungată a orașului."
+      ],
+      "en": [
+        "Lauingen received its town charter in 1268 from King Conrad IV.",
+        "Albertus Magnus (1200-1280) taught Thomas Aquinas, among others, in Cologne.",
+        "The Schimmelturm served as both watchtower and bell tower in the Middle Ages.",
+        "The town was part of the Principality of Palatinate-Neuburg from 1505 to 1808.",
+        "The local museum in the former Augustinian monastery showcases the town's long history."
+      ]
+    },
+    "sights": {
+      "de": [
+        { "name": "Schimmelturm", "text": "Der 54 Meter hohe Stadtturm aus dem 15. Jahrhundert ist das Wahrzeichen Lauingens. Er wurde 1457 fertiggestellt und diente als Wacht- und Glockenturm. Eine Aussichtsplattform bietet bei klarem Wetter Blick bis zu den Alpen." },
+        { "name": "Stadtpfarrkirche St. Martin", "text": "Die spätgotische Hallenkirche St. Martin aus dem 15. Jahrhundert ist eine der größten Kirchen im Schwäbischen Donautal. Im Inneren finden sich barocke Altäre und ein bemerkenswertes Chorgestühl." },
+        { "name": "Albertus-Magnus-Denkmal", "text": "Auf dem Marktplatz steht das Denkmal des berühmtesten Sohnes der Stadt, Albertus Magnus. Der Universalgelehrte und Heilige wurde um 1200 in Lauingen geboren." },
+        { "name": "Historisches Rathaus", "text": "Das Rathaus mit Renaissance-Fassade aus dem späten 16. Jahrhundert dominiert den Marktplatz und beherbergt im Erdgeschoss historische Räume." },
+        { "name": "Augustinerkloster und Heimatmuseum", "text": "Das ehemalige Augustinerkloster aus dem 14. Jahrhundert beherbergt heute das Heimatmuseum mit Exponaten zur Stadtgeschichte, zu Albertus Magnus und zum Herzogtum Pfalz-Neuburg." },
+        { "name": "Schloss Lauingen", "text": "Das ehemalige Schloss der Pfalzgrafen von Neuburg wurde im 16. Jahrhundert erbaut und dient heute als Polizeistation, ein Teil ist öffentlich zugänglich." },
+        { "name": "Donau-Promenade", "text": "Der Uferweg an der Donau lädt zum Spazieren und Radfahren ein, mit Blick auf das Schwäbische Donaumoos." },
+        { "name": "Auferstehungskirche", "text": "Die evangelische Auferstehungskirche stammt aus dem 19. Jahrhundert und zeigt neugotische Architektur." }
+      ],
+      "hu": [
+        { "name": "Schimmelturm", "text": "Az 54 méter magas, 15. századi városi torony Lauingen jelképe. 1457-ben fejezték be, és őrtoronyként és harangtoronyként szolgált. Tiszta időben az Alpokig is el lehet látni a kilátóból." },
+        { "name": "Szent Márton plébániatemplom", "text": "A 15. századi késő gótikus csarnoktemplom a Sváb-Duna-völgy egyik legnagyobb temploma. Belsejében barokk oltárok és figyelemre méltó kórusszékek találhatók." },
+        { "name": "Albertus Magnus-emlékmű", "text": "A főtéren áll a város leghíresebb szülöttének, Albertus Magnusnak az emlékműve. A polihisztor és szent kb. 1200-ban született Lauingenben." },
+        { "name": "Történelmi városháza", "text": "A 16. század végi reneszánsz homlokzatú városháza uralja a főteret, földszintjén történelmi termekkel." },
+        { "name": "Ágostonos kolostor és helytörténeti múzeum", "text": "A 14. századi egykori ágostonos kolostor ma a helytörténeti múzeumnak ad otthont, amely a város történetét, Albertus Magnust és a Pfalz-Neuburgi Fejedelemséget mutatja be." },
+        { "name": "Lauingen kastély", "text": "A pfalz-neuburgi grófok egykori kastélyát a 16. században építették, ma rendőrőrsként funkcionál, egy része nyilvánosan látogatható." },
+        { "name": "Duna-promenád", "text": "A Duna-parti sétaút sétára és kerékpározásra hív, kilátással a Sváb-Duna-mocsárra." },
+        { "name": "Feltámadás temploma", "text": "A 19. századi evangélikus Feltámadás temploma neogótikus stílust mutat." }
+      ],
+      "ro": [
+        { "name": "Schimmelturm", "text": "Turnul orașului înalt de 54 de metri din secolul al XV-lea este simbolul Lauingenului. A fost finalizat în 1457 și a servit ca turn de pază și clopotniță. Pe vreme senină, de pe platforma de observație se pot vedea Alpii." },
+        { "name": "Biserica parohială Sf. Martin", "text": "Biserica hală gotică târzie Sf. Martin din secolul al XV-lea este una dintre cele mai mari biserici din Valea Suabă a Dunării. În interior se găsesc altare baroce și un remarcabil stalum coral." },
+        { "name": "Monumentul Albertus Magnus", "text": "În piața centrală se află monumentul celui mai faimos fiu al orașului, Albertus Magnus. Savantul universal și sfântul s-a născut în jurul anului 1200 în Lauingen." },
+        { "name": "Primăria istorică", "text": "Primăria cu fațadă renascentistă de la sfârșitul secolului al XVI-lea domină piața centrală și găzduiește săli istorice la parter." },
+        { "name": "Mănăstirea augustinilor și muzeul local", "text": "Fosta mănăstire a augustinilor din secolul al XIV-lea găzduiește astăzi muzeul local, cu exponate despre istoria orașului, Albertus Magnus și Principatul Palatinat-Neuburg." },
+        { "name": "Castelul Lauingen", "text": "Fostul castel al conților palatini de Neuburg a fost construit în secolul al XVI-lea, astăzi servește ca secție de poliție, iar o parte este accesibilă publicului." },
+        { "name": "Promenada Dunării", "text": "Aleea de pe malul Dunării invită la plimbări și ciclism, cu vedere asupra Mlaștinii Suabe a Dunării." },
+        { "name": "Biserica Învierii", "text": "Biserica evanghelică a Învierii datează din secolul al XIX-lea și prezintă arhitectură neogotică." }
+      ],
+      "en": [
+        { "name": "Schimmelturm", "text": "The 54-meter tower from the 15th century is Lauingen's landmark. Completed in 1457, it served as a watchtower and bell tower. On clear days, an observation platform offers views as far as the Alps." },
+        { "name": "St. Martin Parish Church", "text": "The late Gothic hall church of St. Martin from the 15th century is one of the largest churches in the Swabian Danube Valley. Inside are Baroque altars and remarkable choir stalls." },
+        { "name": "Albertus Magnus Monument", "text": "The monument to the town's most famous son, Albertus Magnus, stands in the market square. The universal scholar and saint was born around 1200 in Lauingen." },
+        { "name": "Historic Town Hall", "text": "The town hall with its late 16th-century Renaissance facade dominates the market square and houses historic rooms on the ground floor." },
+        { "name": "Augustinian Monastery & Local Museum", "text": "The former Augustinian monastery from the 14th century today houses the local museum with exhibits on town history, Albertus Magnus, and the Duchy of Palatinate-Neuburg." },
+        { "name": "Lauingen Castle", "text": "The former castle of the Counts Palatine of Neuburg was built in the 16th century and today serves as a police station, with parts accessible to the public." },
+        { "name": "Danube Promenade", "text": "The riverside path along the Danube invites walking and cycling, offering views of the Swabian Danube Moor." },
+        { "name": "Resurrection Church", "text": "The 19th-century Protestant Resurrection Church showcases Neo-Gothic architecture." }
+      ]
+    },
+    "nearbySights": {
+      "de": [
+        { "name": "Schloss Höchstädt", "distance": "5 km", "text": "Das Renaissance-Schloss aus dem 16. Jahrhundert war Witwensitz der Pfalz-Neuburger Herzöge. Berühmt für die Schlacht von Höchstädt 1704 im Spanischen Erbfolgekrieg." },
+        { "name": "Dillingen an der Donau", "distance": "5 km", "text": "Ehemalige Bischofsstadt mit barocker Studienkirche, Schloss und der Universitätsstraße. Sitz des Landkreises." },
+        { "name": "Gundelfingen an der Donau", "distance": "6 km", "text": "Mittelalterliche Stadt mit nahezu vollständig erhaltener Stadtmauer und historischer Altstadt." },
+        { "name": "Schloss Mödingen", "distance": "12 km", "text": "Ehemaliges Dominikanerinnenkloster mit barocker Klosterkirche, in der die selige Margaretha Ebner lebte." },
+        { "name": "Donauried", "distance": "15 km", "text": "Bedeutendes Naturschutzgebiet im Schwäbischen Donaumoos mit Vogelbeobachtungsstationen." },
+        { "name": "Augsburger Tor & Donauwörth-Altstadt", "distance": "25 km", "text": "Donauwörth ist eine der ältesten Städte Bayerns mit der Reichsstraße und Schloss Harburg in der Nähe." },
+        { "name": "Schloss Harburg", "distance": "30 km", "text": "Eine der größten und besterhaltenen Burganlagen Süddeutschlands aus dem 12. Jahrhundert." },
+        { "name": "Ulm Münster", "distance": "42 km", "text": "Das Ulmer Münster mit dem höchsten Kirchturm der Welt (161,5 m) ist nur eine kurze Bahnfahrt entfernt." }
+      ],
+      "hu": [
+        { "name": "Höchstädt kastély", "distance": "5 km", "text": "A 16. századi reneszánsz kastély a Pfalz-Neuburg hercegnék özvegyi székhelye volt. Híres az 1704-es höchstädti csatáról a spanyol örökösödési háborúban." },
+        { "name": "Dillingen an der Donau", "distance": "5 km", "text": "Egykori püspöki város barokk egyetemi templommal, kastéllyal és az Egyetem-utcával. A járás székhelye." },
+        { "name": "Gundelfingen an der Donau", "distance": "6 km", "text": "Középkori város szinte teljesen ép városfallal és történelmi óvárossal." },
+        { "name": "Mödingen kastély", "distance": "12 km", "text": "Egykori domonkos apácakolostor barokk templommal, ahol Boldog Margaretha Ebner élt." },
+        { "name": "Donauried természetvédelmi terület", "distance": "15 km", "text": "Jelentős természetvédelmi terület a Sváb-Duna-mocsárban madármegfigyelő pontokkal." },
+        { "name": "Donauwörth óvárosa", "distance": "25 km", "text": "Donauwörth Bajorország egyik legrégebbi városa a Birodalmi úttal és a közeli Harburg-kastéllyal." },
+        { "name": "Harburg kastély", "distance": "30 km", "text": "Dél-Németország egyik legnagyobb és legépebb 12. századi várkomplexuma." },
+        { "name": "Ulmi székesegyház", "distance": "42 km", "text": "Az ulmi székesegyház a világ legmagasabb templomtornyával (161,5 m) csak rövid vonatútra van." }
+      ],
+      "ro": [
+        { "name": "Castelul Höchstädt", "distance": "5 km", "text": "Castelul renascentist din secolul al XVI-lea a fost reședința văduvelor ducilor de Palatinat-Neuburg. Faimos pentru Bătălia de la Höchstädt din 1704 din Războiul de Succesiune Spaniol." },
+        { "name": "Dillingen an der Donau", "distance": "5 km", "text": "Fost oraș episcopal cu biserica barocă universitară, castel și Strada Universității. Sediul districtului." },
+        { "name": "Gundelfingen an der Donau", "distance": "6 km", "text": "Oraș medieval cu ziduri urbane aproape complet conservate și un centru istoric." },
+        { "name": "Castelul Mödingen", "distance": "12 km", "text": "Fostă mănăstire dominicană cu biserică barocă, unde a trăit fericita Margaretha Ebner." },
+        { "name": "Rezervația Donauried", "distance": "15 km", "text": "Importantă rezervație naturală în Mlaștina Suabă a Dunării cu puncte de observare a păsărilor." },
+        { "name": "Centrul vechi Donauwörth", "distance": "25 km", "text": "Donauwörth este unul dintre cele mai vechi orașe din Bavaria, cu Drumul Imperial și castelul Harburg în apropiere." },
+        { "name": "Castelul Harburg", "distance": "30 km", "text": "Una dintre cele mai mari și mai bine conservate fortărețe din secolul al XII-lea din sudul Germaniei." },
+        { "name": "Catedrala din Ulm", "distance": "42 km", "text": "Catedrala din Ulm cu cel mai înalt turn bisericesc din lume (161,5 m) se află la doar o scurtă călătorie cu trenul." }
+      ],
+      "en": [
+        { "name": "Höchstädt Castle", "distance": "5 km", "text": "The 16th-century Renaissance castle served as a dowager seat for the Dukes of Palatinate-Neuburg. Famous for the Battle of Höchstädt in 1704 during the War of Spanish Succession." },
+        { "name": "Dillingen an der Donau", "distance": "5 km", "text": "Former bishopric town with the Baroque university church, palace, and University Street. Seat of the district." },
+        { "name": "Gundelfingen an der Donau", "distance": "6 km", "text": "Medieval town with almost completely preserved town walls and a historic old town." },
+        { "name": "Mödingen Castle", "distance": "12 km", "text": "Former Dominican nunnery with a Baroque monastery church where the Blessed Margaretha Ebner lived." },
+        { "name": "Donauried Nature Reserve", "distance": "15 km", "text": "Important nature reserve in the Swabian Danube Moor with bird-watching stations." },
+        { "name": "Donauwörth Old Town", "distance": "25 km", "text": "Donauwörth is one of Bavaria's oldest cities, with the Imperial Road and Harburg Castle nearby." },
+        { "name": "Harburg Castle", "distance": "30 km", "text": "One of the largest and best-preserved 12th-century castle complexes in southern Germany." },
+        { "name": "Ulm Minster", "distance": "42 km", "text": "Ulm Minster, with the world's tallest church spire (161.5 m), is just a short train ride away." }
+      ]
+    },
+    "imageHint": "Lauingen Donau Schimmelturm Altstadt",
+    "image": "/poi-images/lauingen-extra.webp"
   }
 ];
 

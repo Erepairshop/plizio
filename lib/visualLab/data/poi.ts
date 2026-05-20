@@ -43,6 +43,8 @@ export type POI = {
   coa?: string;
   audio?: string;
   plizioChallenge?: MultiLangText;
+  sights?: Partial<Record<keyof MultiLangText, Array<{ name: string; text: string; image?: string }>>>;
+  nearbySights?: Partial<Record<keyof MultiLangText, Array<{ name: string; text: string; distance?: string; image?: string }>>>;
 };
 
 // Minden tartomány (id megegyezik az SVG id-vel)
