@@ -75,13 +75,26 @@ const COUNTRY_TO_ISO2: Record<string, string> = {
   sanmarino: "SM", vatican: "VA",
 };
 
+// Explicit Hungarian county parents → HU. getCountryId() was misclassifying
+// these as "germany" (default fallback) which kept budapest-city + ~120
+// county POIs out of the HU map.
+const HU_PARENTS = new Set<string>([
+  "budapest", "baranya", "bacs-kiskun", "bekes", "borsod-abauj-zemplen",
+  "csongrad-csanad", "csongrad", "fejer", "gyor-moson-sopron", "hajdu-bihar",
+  "heves", "jasz-nagykun-szolnok", "komarom-esztergom", "nograd", "pest",
+  "somogy", "szabolcs-szatmar-bereg", "tolna", "vas", "veszprem", "zala",
+]);
+
 function resolveCC(parent: string): string | null {
   // 1) Direct ISO2/3: "HU", "HU-CS", "USA", "USA-NY"
   const first = parent.split("-")[0];
   if (first && first.length >= 2 && first.length <= 3 && first === first.toUpperCase()) {
     return first;
   }
-  // 2) Legacy lowercase parent ("csongrad-csanad", "budapest", "fejer"): try getCountryId
+  // 2) Hungarian county slugs (explicit allow-list — getCountryId misclassifies these)
+  const head = parent.split("-").slice(0, 3).join("-");
+  if (HU_PARENTS.has(parent) || HU_PARENTS.has(head)) return "HU";
+  // 3) Legacy lowercase parent ("csongrad-csanad", "budapest", "fejer"): try getCountryId
   try {
     const cid = getCountryId(parent);
     const iso = COUNTRY_TO_ISO2[cid];
