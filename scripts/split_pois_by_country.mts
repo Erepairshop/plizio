@@ -15,6 +15,27 @@ const OUT = path.resolve(__dirname, "..", "public", "data", "pois");
 
 fs.mkdirSync(OUT, { recursive: true });
 
+// Population → 5-tier mapping for city POIs. T1>200K, T2>50K, T3>20K, T4>10K, T5<=10K.
+// Map shows T1+T2 by default; user can enable T3-T5 via filter. Only "city" type
+// POIs get a tier; landmarks/rivers/mountains/etc stay always-visible.
+const HU_POP: Record<string, number> = JSON.parse(
+  fs.readFileSync(path.resolve(__dirname, "..", "lib", "visualLab", "data", "hu_city_population.json"), "utf8")
+);
+function popToTier(pop: number): 1 | 2 | 3 | 4 | 5 {
+  if (pop > 200000) return 1;
+  if (pop > 50000) return 2;
+  if (pop > 20000) return 3;
+  if (pop > 10000) return 4;
+  return 5;
+}
+// Returns the tier for a city POI. If no population data exists for the
+// country yet (e.g. DE/RO/etc. tables not written yet), returns tier 1 so
+// the city remains visible — never accidentally hide a city for lack of data.
+function cityTier(poiId: string): 1 | 2 | 3 | 4 | 5 {
+  const pop = HU_POP[poiId];
+  return pop !== undefined ? popToTier(pop) : 1;
+}
+
 // Pull build helpers from slugs (lite — no heavy text).
 import * as _slugs from "../lib/seo/slugs";
 const s: any = (_slugs as any).default ?? _slugs;
@@ -185,6 +206,7 @@ const slim = (p: any) => {
     ...(popDesc ? { description: popDesc } : {}),
     ...(popFacts ? { facts: popFacts } : {}),
     ...((p.sights || p.nearbySights || p.descriptionAdvanced || p.factsAdvanced || p.faq || p.plizioChallenge) ? { hasSights: true as const } : {}),
+    ...((p.type === "city" || p.type === "state-capital") ? { tier: cityTier(p.id) } : {}),
   };
 };
 

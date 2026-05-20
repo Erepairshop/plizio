@@ -416,6 +416,9 @@ const InteractiveMapInner = ({
   const [period, setPeriod] = useState<HistoryPeriod>("all");
   const [favorites, setFavorites] = useState<Set<string>>(() => new Set<string>());
   const [onlyFavorites, setOnlyFavorites] = useState<boolean>(false);
+  // City tier filter: default shows only T1+T2 (large cities). Toggleable via filter UI.
+  // Non-city POIs (landmarks, rivers, etc.) are unaffected by this filter.
+  const [cityTiers, setCityTiers] = useState<Set<number>>(() => new Set<number>([1, 2]));
   useEffect(() => {
     // Mount utan: localStorage + URL-params
     setFavorites(readFavs());
@@ -551,10 +554,16 @@ const InteractiveMapInner = ({
         if (p.type === "city") return false;
         if (!SIMPLIFIED_TYPES.has(p.type)) return false;
       }
+      // City-tier filter: only apply to city + state-capital types; everything
+      // else (landmarks, rivers, mountains, nature) bypasses this check.
+      if ((p.type === "city" || p.type === "state-capital")) {
+        const tier = (p as POI & { tier?: number }).tier;
+        if (tier !== undefined && !cityTiers.has(tier)) return false;
+      }
       if (onlyFavorites && !favorites.has(p.id)) return false;
       return true;
     });
-  }, [mapMode, quiz.visiblePoiTypes, quiz.visiblePoiIds, pois, layer, subject, grade, period, isSimplified, onlyFavorites, favorites]);
+  }, [mapMode, quiz.visiblePoiTypes, quiz.visiblePoiIds, pois, layer, subject, grade, period, isSimplified, onlyFavorites, favorites, cityTiers]);
 
   // ---- Search results ------------------------------------------------------
   const searchResults = useMemo(() => {
@@ -882,6 +891,37 @@ const InteractiveMapInner = ({
         </div>
       </div>
       )} {/* end mapMode === "browse" layer toggle */}
+
+      {/* City-tier toggle — only when cities are visible (layer "all" or "cities") */}
+      {mapMode === "browse" && (layer === "all" || layer === "cities") && !isSimplified && (
+        <div className="flex justify-center mb-2">
+          <div className="inline-flex gap-1 bg-[#0A1929]/70 border border-amber-300/25 rounded-full px-1 py-1 backdrop-blur-sm">
+            {[1, 2, 3, 4, 5].map((tier) => {
+              const active = cityTiers.has(tier);
+              return (
+                <button
+                  key={tier}
+                  onClick={() => {
+                    setCityTiers((prev) => {
+                      const next = new Set(prev);
+                      if (next.has(tier)) next.delete(tier);
+                      else next.add(tier);
+                      return next;
+                    });
+                  }}
+                  title={`Tier ${tier}: ${tier === 1 ? ">200K" : tier === 2 ? "50K-200K" : tier === 3 ? "20K-50K" : tier === 4 ? "10K-20K" : "<10K"}`}
+                  className={`
+                    px-2.5 py-1 rounded-full transition text-xs font-medium
+                    ${active ? "bg-amber-400/30 text-amber-50" : "text-amber-200/60 hover:text-white hover:bg-amber-400/15"}
+                  `}
+                >
+                  T{tier}
+                </button>
+              );
+            })}
+          </div>
+        </div>
+      )}
 
       {/* History period chip row — browse mode only */}
       {mapMode === "browse" && layer === "history" && (
