@@ -1299,7 +1299,7 @@ const InteractiveMapInner = ({
                 </p>
               )}
 
-              {displayLang === "de" && (() => {
+              {(() => {
                 const v = getPoiVideo(selectedPoi);
                 return v ? (
                   <video
