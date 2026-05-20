@@ -13,18 +13,10 @@ const s: any = (_slugs as any).default ?? _slugs;
 const pois = s.pois;
 const SUPPORTED_LANGS = s.SUPPORTED_LANGS as string[];
 const buildPoiPath = s.buildPoiPath;
-const hasIndexableContent = (p: any): boolean => {
-  for (const f of ["description", "descriptionAdvanced", "facts", "factsAdvanced"]) {
-    const obj = p?.[f];
-    if (!obj) continue;
-    for (const l of SUPPORTED_LANGS) {
-      const v = obj[l];
-      if (typeof v === "string" && v.length > 0) return true;
-      if (Array.isArray(v) && v.length > 0) return true;
-    }
-  }
-  return false;
-};
+// build-seo-index.mts already computes `hasIndexable` on each lite POI by
+// looking at the FULL POI's description/descriptionAdvanced/facts/factsAdvanced.
+// The lite shape only exposes the boolean — use it directly.
+const hasIndexableContent = (p: any): boolean => p?.hasIndexable === true;
 
 const ENT: Record<string, string> = { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&apos;" };
 const x = (s: string): string => s.replace(/[&<>"']/g, (c) => ENT[c] || c);
