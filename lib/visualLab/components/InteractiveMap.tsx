@@ -487,10 +487,36 @@ const InteractiveMapInner = ({
     () => (selected ? pois.find((p) => p.id === selected.id) : null),
     [selected]
   );
-  const selectedPoi = useMemo(
+  const selectedPoiBase = useMemo(
     () => (selectedPoiId ? pois.find((p) => p.id === selectedPoiId) : null),
     [selectedPoiId]
   );
+
+  // Lazy-fetch sights data for the selected POI. The lite per-country JSON
+  // carries a `hasSights:true` marker; the full sights/nearbySights live in
+  // /data/sights/{poi-id}.json. Result cached in this map so reopens are free.
+  const [sightsById, setSightsById] = useState<Record<string, { sights?: unknown; nearbySights?: unknown } | "loading">>({});
+  useEffect(() => {
+    if (!selectedPoiId) return;
+    const base = selectedPoiBase as { hasSights?: boolean; sights?: unknown } | null;
+    if (!base?.hasSights) return;
+    if (sightsById[selectedPoiId]) return;
+    setSightsById((prev) => ({ ...prev, [selectedPoiId]: "loading" }));
+    fetch(`/data/sights/${selectedPoiId}.json`)
+      .then((r) => (r.ok ? r.json() : null))
+      .then((data) => setSightsById((prev) => ({ ...prev, [selectedPoiId]: data ?? {} })))
+      .catch(() => setSightsById((prev) => ({ ...prev, [selectedPoiId]: {} })));
+  }, [selectedPoiId, selectedPoiBase, sightsById]);
+
+  // Merge sights into selectedPoi for downstream render code. While the fetch
+  // is in-flight, return the base POI unchanged (popup opens immediately,
+  // sights cards render once available).
+  const selectedPoi = useMemo(() => {
+    if (!selectedPoiBase) return null;
+    const heavy = selectedPoiId ? sightsById[selectedPoiId] : null;
+    if (!heavy || heavy === "loading") return selectedPoiBase;
+    return { ...selectedPoiBase, ...(heavy as object) };
+  }, [selectedPoiBase, selectedPoiId, sightsById]);
 
   // Simplified K1-K2 tier: only state-capitals, main nature, zoos/animal habitats
   const isSimplified = grade <= 2;

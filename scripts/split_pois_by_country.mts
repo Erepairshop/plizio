@@ -141,6 +141,10 @@ function popupFacts(p: any): Record<string, string[]> | undefined {
   return Object.keys(out).length > 0 ? out : undefined;
 }
 
+// Explicit allow-list: only fields needed for map marker + popup head + summary.
+// Heavy fields (sights, nearbySights, descriptionAdvanced, factsAdvanced, faq,
+// plizioChallenge) are stripped — sights/nearbySights are split to
+// /data/sights/{id}.json for lazy-fetch; the rest live on per-POI detail pages.
 const slim = (p: any) => {
   const popDesc = popupDescription(p);
   const popFacts = popupFacts(p);
@@ -155,18 +159,28 @@ const slim = (p: any) => {
     audio: p.audio,
     subjects: p.subjects,
     grades: p.grades,
-    // Short popup content shown when clicking a POI on the country map.
-    // If the source has no explicit `description`/`facts`, fall back to the
-    // first sentence of `descriptionAdvanced` and the `factsAdvanced` list —
-    // common on V2 POIs which only got the advanced fields from Flash.
-    ...(popDesc ? { description: popDesc } : {}),
-    ...(popFacts ? { facts: popFacts } : {}),
+    ...(p.imageHint ? { imageHint: p.imageHint } : {}),
+    ...(p.image_hint ? { image_hint: p.image_hint } : {}),
+    ...(p.coordinates ? { coordinates: p.coordinates } : {}),
+    ...(p.historyPeriod ? { historyPeriod: p.historyPeriod } : {}),
+    ...(p.historyYear !== undefined ? { historyYear: p.historyYear } : {}),
+    ...(p.elevation !== undefined ? { elevation: p.elevation } : {}),
+    ...(p.length !== undefined ? { length: p.length } : {}),
+    ...(p.area !== undefined ? { area: p.area } : {}),
     ...(p.region ? { region: p.region } : {}),
     ...(p.altNames ? { altNames: p.altNames } : {}),
-    ...(p.sights ? { sights: p.sights } : {}),
-    ...(p.nearbySights ? { nearbySights: p.nearbySights } : {}),
+    ...(popDesc ? { description: popDesc } : {}),
+    ...(popFacts ? { facts: popFacts } : {}),
+    ...((p.sights || p.nearbySights || p.descriptionAdvanced || p.factsAdvanced || p.faq || p.plizioChallenge) ? { hasSights: true as const } : {}),
   };
 };
+
+// Per-POI heavy data (sights + nearbySights) is split into /data/sights/{poi-id}.json
+// for lazy-fetch by the popup. Build the index here so the country loop can also
+// write the JSON files alongside.
+const SIGHTS_OUT = path.resolve(__dirname, "..", "public", "data", "sights");
+fs.mkdirSync(SIGHTS_OUT, { recursive: true });
+let sightFilesWritten = 0;
 
 let totalBytes = 0;
 const sizes: [string, number, number][] = [];
@@ -197,7 +211,25 @@ for (const [cc, arr] of Object.entries(byCountry)) {
   fs.writeFileSync(fp, json, "utf8");
   totalBytes += json.length;
   sizes.push([cc, arr.length, json.length]);
+
+  // Write per-POI heavy data (sights + nearbySights + advanced text + faq) for
+  // lazy-fetch by the popup. Only emitted if at least one heavy field exists.
+  for (const p of arr) {
+    if (!p?.id) continue;
+    const heavy: Record<string, unknown> = {};
+    if (p.sights) heavy.sights = p.sights;
+    if (p.nearbySights) heavy.nearbySights = p.nearbySights;
+    if (p.descriptionAdvanced) heavy.descriptionAdvanced = p.descriptionAdvanced;
+    if (p.factsAdvanced) heavy.factsAdvanced = p.factsAdvanced;
+    if (p.faq) heavy.faq = p.faq;
+    if (p.plizioChallenge) heavy.plizioChallenge = p.plizioChallenge;
+    if (Object.keys(heavy).length === 0) continue;
+    const sfp = path.join(SIGHTS_OUT, `${p.id}.json`);
+    fs.writeFileSync(sfp, JSON.stringify(heavy), "utf8");
+    sightFilesWritten += 1;
+  }
 }
+console.log(`Sights split: wrote ${sightFilesWritten} per-POI sights JSON files to ${SIGHTS_OUT}`);
 sizes.sort((a, b) => b[2] - a[2]);
 console.log(`Wrote ${sizes.length} country files to ${OUT}`);
 console.log(`Total: ${(totalBytes / 1024 / 1024).toFixed(1)} MB`);
