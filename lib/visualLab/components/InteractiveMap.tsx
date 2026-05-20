@@ -410,6 +410,10 @@ const InteractiveMapInner = ({
   const [selected, setSelected] = useState<BundeslandPath | null>(null);
   // SSR-safe: alap-default-ok eloszor, URL-bol patch csak mount utan (hydration mismatch elkerulese)
   const [selectedPoiId, setSelectedPoiId] = useState<string | null>(initialPoiId ?? null);
+  // Lazy-loaded heavy POI data (sights, nearbySights, advanced text) — fetched
+  // from /data/sights/{poi-id}.json when the popup opens, cached in this map
+  // so repeat opens are free.
+  const [poiHeavyById, setPoiHeavyById] = useState<Record<string, { sights?: unknown; nearbySights?: unknown; descriptionAdvanced?: unknown; factsAdvanced?: unknown } | "loading">>({});
   const [detailFor, setDetailFor] = useState<string | null>(null);
   const [view, setView] = useState({ x: 0, y: 0, scale: 1 });
   const [layer, setLayer] = useState<Layer>((DEFAULT_LAYER_BY_SUBJECT[subject] ?? "all") as Layer);
@@ -491,6 +495,33 @@ const InteractiveMapInner = ({
     () => (selectedPoiId ? pois.find((p) => p.id === selectedPoiId) : null),
     [selectedPoiId]
   );
+
+  // Lazy-fetch heavy sight data when a POI is selected. The lite per-country
+  // JSON only carries a `hasSights:true` marker; sights/nearbySights live in
+  // /data/sights/{poi-id}.json so the initial map load stays small.
+  useEffect(() => {
+    if (!selectedPoiId) return;
+    const poi = selectedPoi as { hasSights?: boolean } | null;
+    if (!poi?.hasSights) return;
+    if (poiHeavyById[selectedPoiId]) return; // already loaded or loading
+    setPoiHeavyById((prev) => ({ ...prev, [selectedPoiId]: "loading" }));
+    fetch(`/data/sights/${selectedPoiId}.json`)
+      .then((r) => (r.ok ? r.json() : null))
+      .then((data) => {
+        setPoiHeavyById((prev) => ({ ...prev, [selectedPoiId]: data ?? {} }));
+      })
+      .catch(() => {
+        setPoiHeavyById((prev) => ({ ...prev, [selectedPoiId]: {} }));
+      });
+  }, [selectedPoiId, selectedPoi, poiHeavyById]);
+
+  // Merge heavy data into the selected POI for render-time access.
+  const selectedPoiWithHeavy = useMemo(() => {
+    if (!selectedPoi) return null;
+    const heavy = selectedPoiId ? poiHeavyById[selectedPoiId] : null;
+    if (!heavy || heavy === "loading") return selectedPoi;
+    return { ...selectedPoi, ...(heavy as object) };
+  }, [selectedPoi, selectedPoiId, poiHeavyById]);
 
   // Simplified K1-K2 tier: only state-capitals, main nature, zoos/animal habitats
   const isSimplified = grade <= 2;
@@ -1315,7 +1346,7 @@ const InteractiveMapInner = ({
 
               {(() => {
                 const baseFacts = selectedPoi.facts?.[displayLang] ?? [];
-                const advFactsRaw = (selectedPoi as POI & { factsAdvanced?: POI["facts"] }).factsAdvanced?.[displayLang] ?? [];
+                const advFactsRaw = (selectedPoiWithHeavy as POI & { factsAdvanced?: POI["facts"] })?.factsAdvanced?.[displayLang] ?? [];
                 const useAdv = grade >= 5 && advFactsRaw.length > 0;
                 const allFacts = useAdv ? [...baseFacts, ...advFactsRaw] : baseFacts;
                 if (allFacts.length === 0) return null;
