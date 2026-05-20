@@ -385,20 +385,21 @@ footer a { color: rgba(255,255,255,0.7); }
 }
 .plz-sight-body { display: flex; gap: 0.85rem; align-items: flex-start; }
 .plz-sight-img {
-  width: 96px; height: 96px;
+  width: 64px; height: 64px;
   object-fit: cover;
   border-radius: 8px;
   flex-shrink: 0;
   background: rgba(255,255,255,0.05);
   border: 1px solid rgba(255,255,255,0.08);
+  max-width: 64px;
 }
-.plz-sight h3 { margin: 0 0 0.2rem 0; font-size: 1.05rem; color: #fff; }
-.plz-sight p { margin: 0.2rem 0 0 0; color: rgba(255,255,255,0.75); font-size: 0.92rem; line-height: 1.5; }
+.plz-sight h3 { margin: 0 0 0.2rem 0; font-size: 1rem; color: #fff; }
+.plz-sight p { margin: 0.2rem 0 0 0; color: rgba(255,255,255,0.75); font-size: 0.9rem; line-height: 1.5; }
 .plz-sight-dist {
   display: inline-block; margin-left: 0.4rem;
   font-size: 0.8rem; color: rgba(249,168,212,0.8);
   vertical-align: baseline;
 }
 @media (max-width: 480px) {
-  .plz-sight-img { width: 72px; height: 72px; }
+  .plz-sight-img { width: 56px; height: 56px; max-width: 56px; }
 }

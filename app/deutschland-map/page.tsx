@@ -10,7 +10,7 @@ import {
 } from "@/lib/visualLab/maps/deutschland.svg";
 import { SsrCountryMap, type ProjectedPoi } from "@/components/map/SsrCountryMap";
 import { MapBackButton } from "@/components/map/MapBackButton";
-import { InteractiveMap, MapPerfOverlay } from "@/lib/visualLab/components/InteractiveMap";
+import { InteractiveMap } from "@/lib/visualLab/components/InteractiveMap";
 
 export const metadata = {
   title: "Deutschland Karte | Plizio",
@@ -72,7 +72,6 @@ export default function DeutschlandMapPage() {
         />
         {/* Client overlay — hydrates with pan/zoom/click/popups */}
         <InteractiveMap lang="de" subject="geographie" grade={5} ssrLayer />
-        <MapPerfOverlay />
       </main>
     </div>
   );
