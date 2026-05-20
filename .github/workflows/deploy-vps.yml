@@ -184,11 +184,20 @@ jobs:
           TS=$(date -u +%Y%m%d-%H%M%S)
           REL_DIR="${{ env.RELEASE_BASE }}/releases/${TS}"
           mkdir -p "$REL_DIR"
-          cp -a out/. "$REL_DIR"/
+          # Hard-link unchanged files from current release → ~10× faster than cp -a,
+          # disk-usage stays flat (only changed files take new inodes).
+          PREV=$(readlink -f "${{ env.RELEASE_BASE }}/current" 2>/dev/null || echo "")
+          if [ -n "$PREV" ] && [ -d "$PREV" ]; then
+            rsync -a --delete --link-dest="$PREV/" out/ "$REL_DIR/"
+          else
+            cp -a out/. "$REL_DIR"/
+          fi
           test -f "$REL_DIR/index.html" && test -d "$REL_DIR/_next"
           chmod 755 "$REL_DIR"
-          find "$REL_DIR" -type d -exec chmod 755 {} +
-          find "$REL_DIR" -type f -exec chmod 644 {} +
+          # Permissions on inner files: rsync/cp -a already preserved them from out/;
+          # only fix-up needed if a stray perm slipped in (cheap metadata-only walk).
+          find "$REL_DIR" -type d ! -perm 755 -exec chmod 755 {} + || true
+          find "$REL_DIR" -type f ! -perm 644 -exec chmod 644 {} + || true
           ln -sfn "$REL_DIR" "${{ env.RELEASE_BASE }}/current.new"
           mv -Tf "${{ env.RELEASE_BASE }}/current.new" "${{ env.RELEASE_BASE }}/current"
           # Safer cleanup: only delete dirs older than 24h AND not the current target.
