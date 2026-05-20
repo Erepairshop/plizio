@@ -15,6 +15,7 @@ import { getAsiaCountryMap } from "../maps/asiaResolver";
 import { getSouthAmericaCountryMap } from "../maps/southAmericaResolver";
 import { MapLoadingSkeleton } from "@/components/MapLoadingSkeleton";
 import { getPoiImage } from "@/lib/seo/resolvePoiImage";
+import { getPoiVideo } from "@/lib/visualLab/maps/poiVideo";
 import { useLang } from "@/components/LanguageProvider";
 import { usePanZoom } from "./usePanZoom";
 import { type POI } from "../data/poi";
@@ -1297,6 +1298,20 @@ const InteractiveMapInner = ({
                   {selectedPoi.description[displayLang]}
                 </p>
               )}
+
+              {displayLang === "de" && (() => {
+                const v = getPoiVideo(selectedPoi);
+                return v ? (
+                  <video
+                    key={v}
+                    src={v}
+                    controls
+                    playsInline
+                    preload="metadata"
+                    className="w-full rounded-lg border border-cyan-400/20 mb-2 bg-black/40 aspect-video"
+                  />
+                ) : null;
+              })()}
 
               {(() => {
                 const baseFacts = selectedPoi.facts?.[displayLang] ?? [];
