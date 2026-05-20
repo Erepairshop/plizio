@@ -2717,52 +2717,35 @@ export const hungaryCities: POI[] = [
           "text": "Eine der am besten erhaltenen mittelalterlichen Burgen Ungarns, die heute ein Burgmuseum, ein Wachsfigurenkabinett und ein Gefängnismuseum beherbergt.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "wiki",
-          "image": "/poi-images/sights/siklos-burg-siklos.webp"
+          "source_hint": "wiki"
         },
         {
           "name": "Malkocs Bey Moschee",
           "text": "Das im 16. Jahrhundert errichtete Gebetshaus aus der Türkenzeit ist ein bedeutendes Denkmal der osmanischen Herrschaft und kann heute besichtigt werden.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "wiki",
-          "image": "/poi-images/sights/siklos-malkocs-bey-moschee.webp"
+          "source_hint": "wiki"
         },
         {
           "name": "Wallfahrtskirche Máriagyűd",
           "text": "Ein bedeutender katholischer Wallfahrtsort mit einer prächtigen Barockbasilika am Fuße des Tenkes-Berges.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/siklos-wallfahrtskirche-mariagyued.webp"
+          "source_hint": "known"
         },
         {
           "name": "Thermal Spa Siklós",
           "text": "Ein moderner Thermalpark mit Erlebnisbecken, Saunawelt und Sportplätzen, der direkt neben der mittelalterlichen Burg liegt.",
           "category": "recreational",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/siklos-thermal-spa-siklos.webp",
-          "image_attribution": {
-            "author": "neonzu1",
-            "source": "https://www.flickr.com/photos/61466423@N02/53083475855",
-            "license": "CC-BY-NC-ND",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         },
         {
           "name": "Siklóser Weinkeller",
           "text": "Die Stadt ist Teil der berühmten Weinregion Villány-Siklós und bietet hervorragende Weißweine in traditionellen Kellern an.",
           "category": "culinary",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/siklos-sikloser-weinkeller.webp",
-          "image_attribution": {
-            "author": "neonzu1",
-            "source": "https://www.flickr.com/photos/61466423@N02/53083475855",
-            "license": "CC-BY-NC-ND",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         }
       ],
       "hu": [
@@ -2771,52 +2754,35 @@ export const hungaryCities: POI[] = [
           "text": "Az ország egyik legépebben maradt középkori vára, amelyben ma vármúzeum, panoptikum és börtönmúzeum is működik.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "wiki",
-          "image": "/poi-images/sights/siklos-burg-siklos.webp"
+          "source_hint": "wiki"
         },
         {
           "name": "Malkocs bej dzsámija",
           "text": "A 16. században épült török kori imaház az oszmán hódoltság egyik jelentős emléke, amely ma is látogatható.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "wiki",
-          "image": "/poi-images/sights/siklos-malkocs-bey-moschee.webp"
+          "source_hint": "wiki"
         },
         {
           "name": "Máriagyűdi bazilika",
           "text": "Fontos katolikus zarándokhely, a Tenkes-hegy lábánál fekvő barokk kegytemplom évszázadok óta vonzza a hívőket.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/siklos-wallfahrtskirche-mariagyued.webp"
+          "source_hint": "known"
         },
         {
           "name": "Siklósi Thermal Spa",
           "text": "Modern fürdőkomplexum élménymedencékkel, szaunavilággal és sportpályákkal, közvetlenül a vár szomszédságában.",
           "category": "recreational",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/siklos-thermal-spa-siklos.webp",
-          "image_attribution": {
-            "author": "neonzu1",
-            "source": "https://www.flickr.com/photos/61466423@N02/53083475855",
-            "license": "CC-BY-NC-ND",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         },
         {
           "name": "Siklósi borospincék",
           "text": "A Villány-Siklósi borvidék részeként a város híres a fehérborairól; több hagyományos pince várja a borkóstolókat.",
           "category": "culinary",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/siklos-sikloser-weinkeller.webp",
-          "image_attribution": {
-            "author": "neonzu1",
-            "source": "https://www.flickr.com/photos/61466423@N02/53083475855",
-            "license": "CC-BY-NC-ND",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         }
       ],
       "ro": [
@@ -2825,52 +2791,35 @@ export const hungaryCities: POI[] = [
           "text": "Unul dintre cele mai bine conservate castele medievale din Ungaria, găzduind un muzeu al castelului, un panoptic și un muzeu al închisorii.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "wiki",
-          "image": "/poi-images/sights/siklos-burg-siklos.webp"
+          "source_hint": "wiki"
         },
         {
           "name": "Moscheea Malkocs Bey",
           "text": "Construită în secolul al XVI-lea, această casă de rugăciune din epoca otomană este o relicvă semnificativă a ocupației turcești.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "wiki",
-          "image": "/poi-images/sights/siklos-malkocs-bey-moschee.webp"
+          "source_hint": "wiki"
         },
         {
           "name": "Bazilica din Máriagyűd",
           "text": "Un important loc de pelerinaj catolic, această bazilică barocă situată la poalele dealului Tenkes atrage vizitatori de secole.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/siklos-wallfahrtskirche-mariagyued.webp"
+          "source_hint": "known"
         },
         {
           "name": "Siklós Thermal Spa",
           "text": "Un complex balnear modern cu piscine de aventură, o lume a saunelor și facilități sportive, situat chiar lângă castel.",
           "category": "recreational",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/siklos-thermal-spa-siklos.webp",
-          "image_attribution": {
-            "author": "neonzu1",
-            "source": "https://www.flickr.com/photos/61466423@N02/53083475855",
-            "license": "CC-BY-NC-ND",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         },
         {
           "name": "Cramele din Siklós",
           "text": "Parte a renumitei regiuni viticole Villány-Siklós, orașul este faimos pentru vinurile sale albe servite în pivnițe tradiționale.",
           "category": "culinary",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/siklos-sikloser-weinkeller.webp",
-          "image_attribution": {
-            "author": "neonzu1",
-            "source": "https://www.flickr.com/photos/61466423@N02/53083475855",
-            "license": "CC-BY-NC-ND",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         }
       ],
       "en": [
@@ -2879,55 +2828,209 @@ export const hungaryCities: POI[] = [
           "text": "One of the best-preserved medieval castles in Hungary, currently home to a castle museum, waxworks, and a prison museum.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "wiki",
-          "image": "/poi-images/sights/siklos-burg-siklos.webp"
+          "source_hint": "wiki"
         },
         {
           "name": "Malkocs Bey Mosque",
           "text": "A 16th-century Turkish prayer house that serves as a significant relic of the Ottoman occupation and is open to the public.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "wiki",
-          "image": "/poi-images/sights/siklos-malkocs-bey-moschee.webp"
+          "source_hint": "wiki"
         },
         {
           "name": "Basilica of Máriagyűd",
           "text": "An important Catholic pilgrimage site, this Baroque church at the foot of Mount Tenkes has drawn pilgrims for centuries.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/siklos-wallfahrtskirche-mariagyued.webp"
+          "source_hint": "known"
         },
         {
           "name": "Siklós Thermal Spa",
           "text": "A modern spa complex featuring adventure pools, a sauna world, and sports fields, located adjacent to the castle.",
           "category": "recreational",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/siklos-thermal-spa-siklos.webp",
-          "image_attribution": {
-            "author": "neonzu1",
-            "source": "https://www.flickr.com/photos/61466423@N02/53083475855",
-            "license": "CC-BY-NC-ND",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         },
         {
           "name": "Siklós Wine Cellars",
           "text": "As part of the Villány-Siklós wine region, the town is famous for its quality white wines produced in traditional cellars.",
           "category": "culinary",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/siklos-sikloser-weinkeller.webp",
-          "image_attribution": {
-            "author": "neonzu1",
-            "source": "https://www.flickr.com/photos/61466423@N02/53083475855",
-            "license": "CC-BY-NC-ND",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         }
       ]
     },
+    "nearbySights": {
+      "de": [
+        {
+          "name": "Heilbad Harkány",
+          "text": "Eines der berühmtesten Heilbäder Ungarns mit schwefelhaltigem Thermalwasser, nur wenige Kilometer von Siklós entfernt.",
+          "category": "recreational",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "6 km"
+        },
+        {
+          "name": "Villányer Kellerreihe",
+          "text": "Das Zentrum der Weinregion, weltbekannt für seine erstklassigen Rotweine und die stimmungsvollen Kellergassen.",
+          "category": "culinary",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "14 km"
+        },
+        {
+          "name": "Skulpturenpark Nagyharsány",
+          "text": "Ein Freilichtmuseum in einem ehemaligen Steinbruch am Fuße des Szársomlyó-Berges mit monumentalen modernen Statuen.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "8 km"
+        },
+        {
+          "name": "Pécs (Fünfkirchen)",
+          "text": "Eine geschichtsträchtige Stadt mit UNESCO-Weltkulturerbe, einer Kathedrale und einer lebendigen mediterranen Atmosphäre.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "28 km"
+        },
+        {
+          "name": "Nationalpark Donau-Drau",
+          "text": "Unberührte Natur entlang der Drau, ideal für Wanderungen, Bootstouren und Vogelbeobachtungen.",
+          "category": "natural",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "12 km"
+        }
+      ],
+      "hu": [
+        {
+          "name": "Harkányi Gyógyfürdő",
+          "text": "Magyarország egyik legismertebb gyógyfürdője, amely kénes gyógyvizéről híres, Siklóstól mindössze pár percre.",
+          "category": "recreational",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "6 km"
+        },
+        {
+          "name": "Villányi pincesor",
+          "text": "A borvidék központja, amely világhírű vörösborairól és hangulatos, műemléki védelmet élvező pincéiről ismert.",
+          "category": "culinary",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "14 km"
+        },
+        {
+          "name": "Nagyharsányi Szoborpark",
+          "text": "A Szársomlyó-hegy keleti végén, egy elhagyott kőbányában kialakított szabadtéri szoborkiállítás monumentális alkotásokkal.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "8 km"
+        },
+        {
+          "name": "Pécs belvárosa",
+          "text": "A térség központja, ahol UNESCO világörökségi helyszínek, a Székesegyház és ókeresztény sírok várják a látogatókat.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "28 km"
+        },
+        {
+          "name": "Duna-Dráva Nemzeti Park",
+          "text": "A Dráva menti érintetlen természeti területek, ahol túrázásra, hajózásra és madármegfigyelésre is lehetőség nyílik.",
+          "category": "natural",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "12 km"
+        }
+      ],
+      "ro": [
+        {
+          "name": "Băile Harkány",
+          "text": "Una dintre cele mai faimoase stațiuni balneare din Ungaria, renumită pentru apele sale termale sulfuroase, situată la doar câțiva kilometri de Siklós.",
+          "category": "recreational",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "6 km"
+        },
+        {
+          "name": "Crama Villány",
+          "text": "Centrul regiunii viticole, cunoscut la nivel mondial pentru vinurile roșii de calitate superioară și rândurile de pivnițe pitorești.",
+          "category": "culinary",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "14 km"
+        },
+        {
+          "name": "Parcul de sculpturi Nagyharsány",
+          "text": "O expoziție de sculptură în aer liber într-o fostă carieră de piatră de la poalele dealului Szársomlyó.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "8 km"
+        },
+        {
+          "name": "Pécs",
+          "text": "Un oraș istoric cu situri din patrimoniul mondial UNESCO, o catedrală impresionantă și o atmosferă mediteraneană.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "28 km"
+        },
+        {
+          "name": "Parcul Național Dunăre-Drava",
+          "text": "Zonă naturală protejată de-a lungul râului Drava, ideală pentru drumeții, excursii cu barca și observarea păsărilor.",
+          "category": "natural",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "12 km"
+        }
+      ],
+      "en": [
+        {
+          "name": "Harkány Thermal Spa",
+          "text": "One of Hungary's most famous health spas, renowned for its sulfurous healing waters, located just a few kilometers from Siklós.",
+          "category": "recreational",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "6 km"
+        },
+        {
+          "name": "Villány Wine Cellars",
+          "text": "The heart of the wine region, world-famous for its premium red wines and atmospheric historic cellar rows.",
+          "category": "culinary",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "14 km"
+        },
+        {
+          "name": "Nagyharsány Sculpture Park",
+          "text": "An outdoor sculpture exhibition located in a former limestone quarry at the foot of Mount Szársomlyó.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "8 km"
+        },
+        {
+          "name": "Pécs City Center",
+          "text": "The cultural hub of the region, featuring UNESCO World Heritage sites, a magnificent cathedral, and Early Christian tombs.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "28 km"
+        },
+        {
+          "name": "Danube-Drava National Park",
+          "text": "Pristine natural areas along the Drava River, offering opportunities for hiking, boat trips, and bird watching.",
+          "category": "natural",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "12 km"
+        }
+      ]
+    }
+  },
   {
     id: "mohacs",
     type: "city",
@@ -2989,64 +3092,35 @@ export const hungaryCities: POI[] = [
           "text": "Die ikonische doppelte Kellerreihe ist das Herz der Stadt, wo renommierte Weingüter den berühmten Villányer Blauportugieser und Cabernet Franc direkt in den historischen Kellern ausschenken.",
           "category": "culinary",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/villany-villanyer-kellerreihe.webp",
-          "image_attribution": {
-            "author": "Istvan",
-            "source": "https://www.flickr.com/photos/40385587@N00/4453873846",
-            "license": "CC-BY-NC-ND",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         },
         {
           "name": "Weinbaumuseum (Bormúzeum)",
           "text": "Das in der ehemaligen Teleki-Villa untergebrachte Museum zeigt die Geschichte des Weinbaus in der Region, alte Geräte und die Rettung des europäischen Weinbaus durch die Veredelung von Reben.",
           "category": "culinary",
           "confidence": "high",
-          "source_hint": "wiki",
-          "image": "/poi-images/sights/villany-weinbaumuseum-bormuzeum.webp",
-          "image_attribution": {
-            "author": "Photodiary of an Endless Summer",
-            "source": "https://www.flickr.com/photos/43255570@N00/289788492",
-            "license": "CC-BY",
-            "platform": "flickr"
-          }
+          "source_hint": "wiki"
         },
         {
           "name": "Aussichtsturm auf dem Templom-hegy",
           "text": "Der moderne Aussichtsturm auf dem Kirchenhügel bietet einen weiten Panoramablick über das Villány-Gebirge, die umliegenden Weinberge und bei klarem Wetter bis nach Kroatien.",
           "category": "natural",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/villany-aussichtsturm-auf-dem-templom-hegy.webp",
-          "image_attribution": {
-            "author": ".::Danka::.",
-            "source": "https://www.flickr.com/photos/7779670@N02/2453184912",
-            "license": "CC-BY-NC-SA",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         },
         {
           "name": "Szent Vendel Kapelle",
           "text": "Eine barocke Kapelle aus dem Jahr 1754, die dem Schutzpatron der Hirten und Weinbauern gewidmet ist und ein bedeutendes Denkmal der örtlichen Sakralarchitektur darstellt.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "wiki",
-          "image": "/poi-images/sights/villany-szent-vendel-kapelle.webp"
+          "source_hint": "wiki"
         },
         {
           "name": "Villányer Kalvarienberg",
           "text": "Ein landschaftlich reizvoller Kreuzweg, der zum Gipfel des Templom-hegy führt und mit künstlerisch gestalteten Stationen und einem Friedhof im schwäbischen Stil gesäumt ist.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/villany-villanyer-kalvarienberg.webp",
-          "image_attribution": {
-            "author": "Istvan",
-            "source": "https://www.flickr.com/photos/40385587@N00/4453873846",
-            "license": "CC-BY-NC-ND",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         }
       ],
       "hu": [
@@ -3055,64 +3129,35 @@ export const hungaryCities: POI[] = [
           "text": "A város jelképe a kettős pincesor, ahol a leghíresebb borászatok kínálják a villányi kékoportót és franc-t a patinás, fehérre meszelt pincékben.",
           "category": "culinary",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/villany-villanyer-kellerreihe.webp",
-          "image_attribution": {
-            "author": "Istvan",
-            "source": "https://www.flickr.com/photos/40385587@N00/4453873846",
-            "license": "CC-BY-NC-ND",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         },
         {
           "name": "Villányi Bormúzeum",
           "text": "A Teleki-villában berendezett múzeum a környék szőlőművelésének történetét, régi eszközeit és a híres filoxéra-vész elleni védekezést mutatja be.",
           "category": "culinary",
           "confidence": "high",
-          "source_hint": "wiki",
-          "image": "/poi-images/sights/villany-weinbaumuseum-bormuzeum.webp",
-          "image_attribution": {
-            "author": "Photodiary of an Endless Summer",
-            "source": "https://www.flickr.com/photos/43255570@N00/289788492",
-            "license": "CC-BY",
-            "platform": "flickr"
-          }
+          "source_hint": "wiki"
         },
         {
           "name": "Templom-hegyi kilátó",
           "text": "A kálvária feletti dombon található modern kilátóból lenyűgöző panoráma nyílik a Villányi-hegységre és a végtelen szőlőültetvényekre.",
           "category": "natural",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/villany-aussichtsturm-auf-dem-templom-hegy.webp",
-          "image_attribution": {
-            "author": ".::Danka::.",
-            "source": "https://www.flickr.com/photos/7779670@N02/2453184912",
-            "license": "CC-BY-NC-SA",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         },
         {
           "name": "Szent Vendel-kápolna",
           "text": "Az 1754-ben épült barokk kápolna a pásztorok és szőlősgazdák védőszentjének tiszteletére emelték, a helyi vallási építészet fontos emléke.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "wiki",
-          "image": "/poi-images/sights/villany-szent-vendel-kapelle.webp"
+          "source_hint": "wiki"
         },
         {
           "name": "Villányi kálvária",
           "text": "A Templom-hegy oldalában futó, művészien kialakított stációkkal szegélyezett keresztút, amely a helyi sváb gyökerekre is emlékeztet.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/villany-villanyer-kalvarienberg.webp",
-          "image_attribution": {
-            "author": "Istvan",
-            "source": "https://www.flickr.com/photos/40385587@N00/4453873846",
-            "license": "CC-BY-NC-ND",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         }
       ],
       "ro": [
@@ -3121,64 +3166,35 @@ export const hungaryCities: POI[] = [
           "text": "Simbolul iconic al orașului este rândul dublu de crame, unde vinării renumite oferă soiurile locale Blue Port și Villányi Franc direct în pivnițele istorice.",
           "category": "culinary",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/villany-villanyer-kellerreihe.webp",
-          "image_attribution": {
-            "author": "Istvan",
-            "source": "https://www.flickr.com/photos/40385587@N00/4453873846",
-            "license": "CC-BY-NC-ND",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         },
         {
           "name": "Muzeul Vinului (Bormúzeum)",
           "text": "Găzduit în fosta Vilă Teleki, acest muzeu prezintă istoria viticulturii din regiune, unelte vechi și lupta împotriva epidemiei de filoxeră.",
           "category": "culinary",
           "confidence": "high",
-          "source_hint": "wiki",
-          "image": "/poi-images/sights/villany-weinbaumuseum-bormuzeum.webp",
-          "image_attribution": {
-            "author": "Photodiary of an Endless Summer",
-            "source": "https://www.flickr.com/photos/43255570@N00/289788492",
-            "license": "CC-BY",
-            "platform": "flickr"
-          }
+          "source_hint": "wiki"
         },
         {
           "name": "Turnul de observație de pe Templom-hegy",
           "text": "Turnul modern de pe Dealul Bisericii oferă o panoramă vastă asupra munților Villány, a podgoriilor înconjurătoare și, în zilele senine, până în Croația.",
           "category": "natural",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/villany-aussichtsturm-auf-dem-templom-hegy.webp",
-          "image_attribution": {
-            "author": ".::Danka::.",
-            "source": "https://www.flickr.com/photos/7779670@N02/2453184912",
-            "license": "CC-BY-NC-SA",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         },
         {
           "name": "Capela Sfântul Wendel",
           "text": "O capelă barocă construită în 1754, dedicată patronului păstorilor și viticultorilor, fiind un monument important al arhitecturii sacre locale.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "wiki",
-          "image": "/poi-images/sights/villany-szent-vendel-kapelle.webp"
+          "source_hint": "wiki"
         },
         {
           "name": "Calvarul din Villány",
           "text": "Un drum al crucii pitoresc care urcă pe muntele Templom-hegy, mărginit de stații lucrate artistic și un cimitir în stil șvăbesc.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/villany-villanyer-kalvarienberg.webp",
-          "image_attribution": {
-            "author": "Istvan",
-            "source": "https://www.flickr.com/photos/40385587@N00/4453873846",
-            "license": "CC-BY-NC-ND",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         }
       ],
       "en": [
@@ -3187,67 +3203,241 @@ export const hungaryCities: POI[] = [
           "text": "The iconic double row of whitewashed wine cellars is the heart of the town, where famous wineries offer local Blue Port and Villányi Franc.",
           "category": "culinary",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/villany-villanyer-kellerreihe.webp",
-          "image_attribution": {
-            "author": "Istvan",
-            "source": "https://www.flickr.com/photos/40385587@N00/4453873846",
-            "license": "CC-BY-NC-ND",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         },
         {
           "name": "Wine Museum (Bormúzeum)",
           "text": "Located in the former Teleki Villa, this museum showcases the history of viticulture in the region, ancient tools, and the fight against the phylloxera epidemic.",
           "category": "culinary",
           "confidence": "high",
-          "source_hint": "wiki",
-          "image": "/poi-images/sights/villany-weinbaumuseum-bormuzeum.webp",
-          "image_attribution": {
-            "author": "Photodiary of an Endless Summer",
-            "source": "https://www.flickr.com/photos/43255570@N00/289788492",
-            "license": "CC-BY",
-            "platform": "flickr"
-          }
+          "source_hint": "wiki"
         },
         {
           "name": "Templom-hegy Lookout Tower",
           "text": "A modern lookout tower on Church Hill offering a stunning panorama of the Villány Mountains, the vineyards, and views reaching as far as Croatia.",
           "category": "natural",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/villany-aussichtsturm-auf-dem-templom-hegy.webp",
-          "image_attribution": {
-            "author": ".::Danka::.",
-            "source": "https://www.flickr.com/photos/7779670@N02/2453184912",
-            "license": "CC-BY-NC-SA",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         },
         {
           "name": "Saint Vendel Chapel",
           "text": "A Baroque chapel built in 1754 dedicated to the patron saint of shepherds and winegrowers, serving as a key monument of local religious architecture.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "wiki",
-          "image": "/poi-images/sights/villany-szent-vendel-kapelle.webp"
+          "source_hint": "wiki"
         },
         {
           "name": "Villány Calvary",
           "text": "A scenic stations-of-the-cross path leading up Church Hill, reflecting the town's Swabian heritage and offering a peaceful walk with artistic monuments.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/villany-villanyer-kalvarienberg.webp",
-          "image_attribution": {
-            "author": "Istvan",
-            "source": "https://www.flickr.com/photos/40385587@N00/4453873846",
-            "license": "CC-BY-NC-ND",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         }
       ]
     },
+    "nearbySights": {
+      "de": [
+        {
+          "name": "Burg Siklós",
+          "text": "Eine der am besten erhaltenen mittelalterlichen Burgen Ungarns mit historischen Gemächern, einem Kerkermuseum und einer gotischen Kapelle.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "wiki",
+          "distance": "13 km"
+        },
+        {
+          "name": "Skulpturenpark Nagyharsány",
+          "text": "Eine Freiluftgalerie in einem ehemaligen Steinbruch am Fuße des Berges Szársomlyó, die monumentale Werke ungarischer und internationaler Bildhauer zeigt.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "7 km"
+        },
+        {
+          "name": "Palkonyer Kellerreihe",
+          "text": "Ein denkmalgeschütztes Dorf mit einer beeindruckenden Reihe von 53 weißen Kellern und einer einzigartigen Rundkirche mit roter Kuppel.",
+          "category": "culinary",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "6 km"
+        },
+        {
+          "name": "Wallfahrtsort Máriagyűd",
+          "text": "Einer der bedeutendsten katholischen Wallfahrtsorte Ungarns mit einer prachtvollen Barockbasilika am Südhang des Villány-Gebirges.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "wiki",
+          "distance": "15 km"
+        },
+        {
+          "name": "Heilbad Harkány",
+          "text": "Weltberühmt für sein schwefelhaltiges Heilwasser, das besonders wirksam bei Gelenkerkrankungen ist; die Anlage bietet auch einen großen Strandpark.",
+          "category": "recreational",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "20 km"
+        },
+        {
+          "name": "Vylyan Weingut in Kisharsány",
+          "text": "Ein preisgekröntes Weingut in spektakulärer Lage, bekannt für seine kulturellen Veranstaltungen und die Verbindung von Wein mit Literatur.",
+          "category": "culinary",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "4 km"
+        }
+      ],
+      "hu": [
+        {
+          "name": "Siklósi vár",
+          "text": "Magyarország egyik legépebben maradt középkori vára, amely várúri lakosztályokkal, börtönmúzeummal és gótikus kápolnával várja a látogatókat.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "wiki",
+          "distance": "13 km"
+        },
+        {
+          "name": "Nagyharsányi szoborpark",
+          "text": "A Szársomlyó-hegy lábánál fekvő egykori kőbányában monumentális kőszobrok láthatók, amelyeket hazai és nemzetközi művészek alkottak.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "7 km"
+        },
+        {
+          "name": "Palkonyai pincesor és kerek templom",
+          "text": "A szomszédos faluban található 53 fehérre meszelt műemléki pince és a különleges, piros kupolás kerek templom a vidék építészeti ékköve.",
+          "category": "culinary",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "6 km"
+        },
+        {
+          "name": "Máriagyűdi kegyhely",
+          "text": "Magyarország egyik legfontosabb katolikus zarándokhelye, díszes barokk bazilikája a Villányi-hegység déli oldalán fekszik.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "wiki",
+          "distance": "15 km"
+        },
+        {
+          "name": "Harkányi Gyógyfürdő",
+          "text": "Világhírű kénes gyógyvize kiváló mozgásszervi panaszok kezelésére, strandja pedig hatalmas parkkal várja a kikapcsolódni vágyókat.",
+          "category": "recreational",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "20 km"
+        },
+        {
+          "name": "Vylyan Szőlőbirtok",
+          "text": "A kisharsányi Fekete-hegy dűlőin fekvő birtok nemcsak kiváló borairól, hanem irodalmi és művészeti eseményeiről is híres.",
+          "category": "culinary",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "4 km"
+        }
+      ],
+      "ro": [
+        {
+          "name": "Castelul din Siklós",
+          "text": "Unul dintre cele mai bine conservate castele medievale din Ungaria, oferind vizitatorilor apartamente nobiliare, un muzeu al închisorii și o capelă gotică.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "wiki",
+          "distance": "13 km"
+        },
+        {
+          "name": "Parcul de sculptură din Nagyharsány",
+          "text": "O galerie în aer liber situată într-o fostă carieră de piatră la poalele muntelui Szársomlyó, prezentând sculpturi monumentale de artiști internaționali.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "7 km"
+        },
+        {
+          "name": "Palkonya - cramele și biserica rotundă",
+          "text": "Un sat protejat cu un rând impresionant de 53 de crame albe și o biserică rotundă unică, cu cupolă roșie, simbol al arhitecturii rurale.",
+          "category": "culinary",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "6 km"
+        },
+        {
+          "name": "Sanctuarul de la Máriagyűd",
+          "text": "Unul dintre cele mai importante locuri de pelerinaj catolic din Ungaria, cu o bazilică barocă splendidă situată pe versantul sudic al munților Villány.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "wiki",
+          "distance": "15 km"
+        },
+        {
+          "name": "Băile Termale din Harkány",
+          "text": "Faimoase la nivel mondial pentru apa lor medicinală cu sulf, ideală pentru afecțiuni articulare; complexul include și un parc acvatic mare.",
+          "category": "recreational",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "20 km"
+        },
+        {
+          "name": "Domeniul Vylyan (Kisharsány)",
+          "text": "O vinărie premiată situată într-un cadru spectaculos, renumită pentru evenimentele sale culturale care îmbină vinul cu literatura.",
+          "category": "culinary",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "4 km"
+        }
+      ],
+      "en": [
+        {
+          "name": "Siklós Castle",
+          "text": "One of the best-preserved medieval castles in Hungary, featuring period apartments, a dungeon museum, and a stunning Gothic chapel.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "wiki",
+          "distance": "13 km"
+        },
+        {
+          "name": "Nagyharsány Statue Park",
+          "text": "An open-air gallery in a former limestone quarry at the foot of Szársomlyó Hill, featuring monumental stone sculptures by local and international artists.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "7 km"
+        },
+        {
+          "name": "Palkonya Cellar Row and Round Church",
+          "text": "A neighboring village famous for its 53 protected whitewashed wine cellars and its unique, red-domed round church.",
+          "category": "culinary",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "6 km"
+        },
+        {
+          "name": "Máriagyűd Pilgrimage Site",
+          "text": "One of Hungary's most important Catholic shrines, featuring a magnificent Baroque basilica on the southern slopes of the Villány Mountains.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "wiki",
+          "distance": "15 km"
+        },
+        {
+          "name": "Harkány Thermal Spa",
+          "text": "World-famous for its medicinal sulfur water, this spa is excellent for joint treatments and features a vast park with swimming pools.",
+          "category": "recreational",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "20 km"
+        },
+        {
+          "name": "Vylyan Wine Estate",
+          "text": "An award-winning winery in Kisharsány known for its high-quality reds and its dedication to combining wine with art and literature.",
+          "category": "culinary",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "4 km"
+        }
+      ]
+    }
+  },
   {
     id: "kecskemet",
     type: "city",
@@ -3492,64 +3682,56 @@ export const hungaryCities: POI[] = [
           "text": "Die mittelalterliche Backsteinburg aus dem 15. Jahrhundert ist die einzige unversehrte gotische Flachlandburg in Mitteleuropa und beherbergt ein Burgmuseum.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/gyula-burg-von-gyula.webp"
+          "source_hint": "known"
         },
         {
           "name": "Gyulaer Burgbad",
           "text": "Dieses im ehemaligen Park des Schlosses Almásy gelegene Thermal- und Erlebnisbad bietet Heilwasserbecken, Wellenbecken und einen modernen Rutschenpark.",
           "category": "recreational",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/gyula-gyulaer-burgbad.webp"
+          "source_hint": "known"
         },
         {
           "name": "Almásy-Schloss Besucherzentrum",
           "text": "Ein renoviertes Barockschloss mit einer interaktiven Ausstellung, die das Leben des Adels und des Dienstpersonals im 18. und 19. Jahrhundert zeigt.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/gyula-almasy-schloss-besucherzentrum.webp"
+          "source_hint": "known"
         },
         {
           "name": "Hundertjährige Konditorei",
           "text": "Die 1840 gegründete Konditorei ist die zweitälteste Ungarns und bewahrt ihre ursprüngliche Biedermeier-Einrichtung sowie traditionelle Rezepte.",
           "category": "culinary",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/gyula-hundertjaehrige-konditorei.webp"
+          "source_hint": "known"
         },
         {
           "name": "Ferenc-Erkel-Gedenkhaus",
           "text": "Das Geburtshaus des Komponisten der ungarischen Nationalhymne präsentiert persönliche Gegenstände und Dokumente zur Musikgeschichte der Region.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/gyula-ferenc-erkel-gedenkhaus.webp"
+          "source_hint": "known"
         },
         {
           "name": "Rumänisch-Orthodoxe Kathedrale St. Nikolaus",
           "text": "Die 1802 erbaute klassizistische Kirche ist das geistliche Zentrum der rumänischen Minderheit in Ungarn und besitzt eine reiche Ikonostase.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/gyula-rumaenisch-orthodoxe-kathedrale-st-nikolaus.webp"
+          "source_hint": "known"
         },
         {
           "name": "Ladics-Haus",
           "text": "Ein bürgerliches Wohnhaus aus dem 19. Jahrhundert, das die Lebensweise und Einrichtung einer ungarischen Beamtenfamilie über mehrere Generationen zeigt.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/gyula-ladics-haus.webp"
+          "source_hint": "known"
         },
         {
           "name": "Schneckengarten (Csigakert)",
           "text": "Ein malerischer Park auf dem ehemaligen Gelände des Almásy-Anwesens, der ideal für Spaziergänge unter jahrhundertealten Bäumen ist.",
           "category": "natural",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/gyula-schneckengarten-csigakert.webp"
+          "source_hint": "known"
         }
       ],
       "hu": [
@@ -3558,64 +3740,56 @@ export const hungaryCities: POI[] = [
           "text": "Közép-Európa egyetlen épen maradt gótikus síkvidéki téglavára a 15. századból, amelyben ma vármúzeum működik 24 kiállítóteremmel.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/gyula-burg-von-gyula.webp"
+          "source_hint": "known"
         },
         {
           "name": "Gyulai Várfürdő",
           "text": "Az egykori Almásy-kastély parkjában kialakított 5 csillagos gyógy- és élményfürdő, amely gyógyvizes medencékkel és modern csúszdaparkkal várja a vendégeket.",
           "category": "recreational",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/gyula-gyulaer-burgbad.webp"
+          "source_hint": "known"
         },
         {
           "name": "Gyulai Almásy-kastély Látogatóközpont",
           "text": "Interaktív kiállításnak helyet adó felújított kastély, amely a főúri életforma mellett a cselédség mindennapjait is bemutatja.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/gyula-almasy-schloss-besucherzentrum.webp"
+          "source_hint": "known"
         },
         {
           "name": "Százéves Cukrászda",
           "text": "Magyarország második legidősebb, 1840-ben alapított cukrászdája, amely eredeti biedermeier bútoraival és klasszikus süteményeivel igazi időutazást kínál.",
           "category": "culinary",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/gyula-hundertjaehrige-konditorei.webp"
+          "source_hint": "known"
         },
         {
           "name": "Erkel Ferenc Emlékház",
           "text": "A magyar Himnusz zeneszerzőjének szülőháza, ahol a látogatók megismerhetik a zeneszerző életútját és a család relikviáit.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/gyula-ferenc-erkel-gedenkhaus.webp"
+          "source_hint": "known"
         },
         {
           "name": "Szent Miklós román ortodox székesegyház",
           "text": "Az 1802-ben épült klasszicista templom a magyarországi román ortodox egyházmegye központja, gazdagon díszített ikonosztázzal.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/gyula-rumaenisch-orthodoxe-kathedrale-st-nikolaus.webp"
+          "source_hint": "known"
         },
         {
           "name": "Ladics-ház",
           "text": "Egy 19. századi polgári lakóház, amely egy tisztviselőcsalád hagyatékán keresztül mutatja be a korabeli életmódot és berendezési tárgyakat.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/gyula-ladics-haus.webp"
+          "source_hint": "known"
         },
         {
           "name": "Csigakert",
           "text": "Az egykori várkert része, ma közpark, amely hatalmas, több száz éves fáival és sétányaival nyújt kikapcsolódást a város szívében.",
           "category": "natural",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/gyula-schneckengarten-csigakert.webp"
+          "source_hint": "known"
         }
       ],
       "ro": [
@@ -3624,64 +3798,56 @@ export const hungaryCities: POI[] = [
           "text": "Singura cetate de cărămidă în stil gotic din Europa Centrală care a rămas intactă, construită în secolul al XV-lea, găzduiește astăzi un muzeu istoric.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/gyula-burg-von-gyula.webp"
+          "source_hint": "known"
         },
         {
           "name": "Băile Cetății din Gyula",
           "text": "Un complex balnear de 5 stele situat în parcul fostului castel Almásy, oferind bazine cu apă termală, facilități wellness și un aquapark modern.",
           "category": "recreational",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/gyula-gyulaer-burgbad.webp"
+          "source_hint": "known"
         },
         {
           "name": "Centrul de Vizitare al Castelului Almásy",
           "text": "Un castel baroc renovat care găzduiește o expoziție interactivă despre viața aristocrației și a servitorilor în secolele XVIII-XIX.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/gyula-almasy-schloss-besucherzentrum.webp"
+          "source_hint": "known"
         },
         {
           "name": "Cofetăria de o Sută de Ani",
           "text": "Fondată în 1840, este a doua cea mai veche cofetărie din Ungaria, păstrând mobilierul original în stil Biedermeier și rețete tradiționale.",
           "category": "culinary",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/gyula-hundertjaehrige-konditorei.webp"
+          "source_hint": "known"
         },
         {
           "name": "Casa Memorială Ferenc Erkel",
           "text": "Casa natală a compozitorului imnului național al Ungariei, prezentând obiecte personale și documente legate de istoria muzicii.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/gyula-ferenc-erkel-gedenkhaus.webp"
+          "source_hint": "known"
         },
         {
           "name": "Catedrala Ortodoxă Română Sfântul Nicolae",
           "text": "Construită în 1802 în stil clasicist, este sediul Episcopiei Ortodoxe Române din Ungaria și posedă un iconostas deosebit.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/gyula-rumaenisch-orthodoxe-kathedrale-st-nikolaus.webp"
+          "source_hint": "known"
         },
         {
           "name": "Casa Ladics",
           "text": "O casă burgheză din secolul al XIX-lea care expune stilul de viață și mobilierul unei familii de funcționari maghiari de-a lungul generațiilor.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/gyula-ladics-haus.webp"
+          "source_hint": "known"
         },
         {
           "name": "Grădina Csigakert",
           "text": "Un parc pitoresc situat pe fostul domeniu al familiei Almásy, faimos pentru arborii săi seculari și atmosfera liniștită.",
           "category": "natural",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/gyula-schneckengarten-csigakert.webp"
+          "source_hint": "known"
         }
       ],
       "en": [
@@ -3690,67 +3856,230 @@ export const hungaryCities: POI[] = [
           "text": "The only intact gothic brick lowland castle in Central Europe, built in the 15th century, now housing a historical museum with 24 exhibition halls.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/gyula-burg-von-gyula.webp"
+          "source_hint": "known"
         },
         {
           "name": "Gyula Castle Spa",
           "text": "A 5-star thermal and adventure bath located in the former park of the Almásy Mansion, featuring healing waters and a modern slide park.",
           "category": "recreational",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/gyula-gyulaer-burgbad.webp"
+          "source_hint": "known"
         },
         {
           "name": "Almásy Mansion Visitor Center",
           "text": "A renovated Baroque mansion with an interactive exhibition showcasing the lives of both the aristocracy and their servants.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/gyula-almasy-schloss-besucherzentrum.webp"
+          "source_hint": "known"
         },
         {
           "name": "Hundred-Year-Old Confectionery",
           "text": "Founded in 1840, this is the second oldest confectionery in Hungary, featuring original Biedermeier furniture and traditional pastries.",
           "category": "culinary",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/gyula-hundertjaehrige-konditorei.webp"
+          "source_hint": "known"
         },
         {
           "name": "Ferenc Erkel Memorial House",
           "text": "The birthplace of the composer of Hungary's national anthem, displaying personal relics and documenting the local musical heritage.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/gyula-ferenc-erkel-gedenkhaus.webp"
+          "source_hint": "known"
         },
         {
           "name": "St. Nicholas Romanian Orthodox Cathedral",
           "text": "Built in 1802 in Classicist style, this cathedral is the seat of the Romanian Orthodox Diocese in Hungary and features a rich iconostasis.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/gyula-rumaenisch-orthodoxe-kathedrale-st-nikolaus.webp"
+          "source_hint": "known"
         },
         {
           "name": "Ladics House",
           "text": "A 19th-century middle-class home that showcases the lifestyle and original furnishings of an official's family over several generations.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/gyula-ladics-haus.webp"
+          "source_hint": "known"
         },
         {
           "name": "Snail Garden (Csigakert)",
           "text": "A historic park once part of the mansion grounds, offering scenic walking paths under centuries-old trees in the heart of the city.",
           "category": "natural",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/gyula-schneckengarten-csigakert.webp"
+          "source_hint": "known"
         }
       ]
     },
+    "nearbySights": {
+      "de": [
+        {
+          "name": "Békéscsaba",
+          "text": "Die Komitatshauptstadt ist bekannt für das Munkácsy-Museum, ihre lutherische Große Kirche und das jährliche Wurstfestival.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "16 km"
+        },
+        {
+          "name": "Wenckheim-Schloss in Szabadkígyós",
+          "text": "Ein prachtvolles neorenaissance-Schloss, entworfen von Miklós Ybl, umgeben von einem weitläufigen englischen Garten.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "22 km"
+        },
+        {
+          "name": "Szanazug",
+          "text": "Ein beliebtes Erholungsgebiet am Zusammenfluss der Weißen und Schwarzen Körös mit Bademöglichkeiten, Bootsverleih und Campingplätzen.",
+          "category": "recreational",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "10 km"
+        },
+        {
+          "name": "Schlossruine Póstelek",
+          "text": "Die romantischen Ruinen eines einst prachtvollen Wenckheim-Schlosses befinden sich in einem verwilderten Park mit Lehrpfaden.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "12 km"
+        },
+        {
+          "name": "Bréda-Schloss in Lőkösháza",
+          "text": "Ein klassizistisches Schloss, das für seine allabendlichen 3D-Lichtprojektionen (Mapping) an der Fassade bekannt ist.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "25 km"
+        }
+      ],
+      "hu": [
+        {
+          "name": "Békéscsaba",
+          "text": "Vármegyeszékhely, amely a Munkácsy Mihály Múzeumról, az evangélikus nagytemplomról és a Csabai Kolbászfesztiválról híres.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "16 km"
+        },
+        {
+          "name": "Szabadkígyósi Wenckheim-kastély",
+          "text": "Ybl Miklós által tervezett lenyűgöző neoreneszánsz kastély, amelynek angolparkja és tornya is látogatható.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "22 km"
+        },
+        {
+          "name": "Szanazug",
+          "text": "A Fehér- és Fekete-Körös összefolyásánál található üdülőhely, ahol szabadstrand, csónakázási és vízisport lehetőség várja a turistákat.",
+          "category": "recreational",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "10 km"
+        },
+        {
+          "name": "Pósteleki kastélyrom",
+          "text": "Az egykori pazar Wenckheim-kastély maradványai egy vadregényes kastélyparkban, ahol tó és állatsimogató is található.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "12 km"
+        },
+        {
+          "name": "Lőkösházi Bréda-kastély",
+          "text": "Klasszicista kastély, amely különleges homlokzati fényfestéséről (fényfestészeti bemutató) vált ismertté.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "25 km"
+        }
+      ],
+      "ro": [
+        {
+          "name": "Békéscsaba",
+          "text": "Reședința de județ, celebră pentru Muzeul Munkácsy, marea biserică evanghelică și festivalul cârnaților de la Csaba.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "16 km"
+        },
+        {
+          "name": "Castelul Wenckheim din Szabadkígyós",
+          "text": "Un castel neo-renascentist impresionant proiectat de Miklós Ybl, înconjurat de un parc dendrologic vast.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "22 km"
+        },
+        {
+          "name": "Szanazug",
+          "text": "Zonă de agrement la confluența râurilor Crișul Alb și Crișul Negru, oferind plaje, plimbări cu barca și camping.",
+          "category": "recreational",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "10 km"
+        },
+        {
+          "name": "Ruinele castelului din Póstelek",
+          "text": "Resturile unui fost castel luxos al familiei Wenckheim, situate într-un parc natural ideal pentru excursii.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "12 km"
+        },
+        {
+          "name": "Castelul Bréda din Lőkösháza",
+          "text": "Un castel clasicist renumit pentru spectacolele de proiecții luminoase 3D pe fațada clădirii în fiecare seară.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "25 km"
+        }
+      ],
+      "en": [
+        {
+          "name": "Békéscsaba",
+          "text": "The county seat known for the Munkácsy Museum, its massive Lutheran Great Church, and the famous Sausage Festival.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "16 km"
+        },
+        {
+          "name": "Wenckheim Castle in Szabadkígyós",
+          "text": "A stunning Neo-Renaissance mansion designed by Miklós Ybl, featuring a high tower and a beautifully maintained English park.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "22 km"
+        },
+        {
+          "name": "Szanazug",
+          "text": "A recreation area at the confluence of the White and Black Körös rivers, popular for swimming, boating, and fishing.",
+          "category": "recreational",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "10 km"
+        },
+        {
+          "name": "Póstelek Castle Ruins",
+          "text": "The romantic ruins of a former Wenckheim palace located in a forest park that also features a small petting zoo.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "12 km"
+        },
+        {
+          "name": "Bréda Mansion in Lőkösháza",
+          "text": "A Classicist mansion famous for its evening 3D light mapping shows projected onto the building's facade.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "25 km"
+        }
+      ]
+    }
+  },
   {
     id: "szarvas",
     type: "city",
@@ -6554,60 +6883,42 @@ export const hungaryCities: POI[] = [
           "text": "Das 1789 gegründete Gestüt ist das Herzstück der Stadt und weltberühmt für die Zucht der edlen Shagya-Araber-Pferde.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/babolna-nationalgestuet-babolna.webp"
+          "source_hint": "known"
         },
         {
           "name": "Pferdemuseum",
           "text": "Das im ehemaligen Offizierskasino untergebrachte Museum zeigt die reiche Geschichte der ungarischen Pferdezucht und Reitkunst.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/babolna-pferdemuseum.webp"
+          "source_hint": "known"
         },
         {
           "name": "Arboretum und Gedächtnispark für berühmte Pferde",
           "text": "Ein wunderschöner Park, der seltene Baumarten beherbergt und als letzte Ruhestätte für legendäre Renn- und Zuchtpferde dient.",
           "category": "natural",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/babolna-arboretum-und-gedaechtnispark-fuer-beruehmte-pferde.webp",
-          "image_attribution": {
-            "author": "ldjaffe",
-            "source": "https://www.flickr.com/photos/9480126@N02/47098447234",
-            "license": "CC-BY-NC-SA",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         },
         {
           "name": "Thermalbad und Strand Bábolna",
           "text": "Ein modernes Wellnesszentrum mit Thermalwasser, das Entspannung in mehreren Innen- und Außenbecken bietet.",
           "category": "recreational",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/babolna-thermalbad-und-strand-babolna.webp",
-          "image_attribution": {
-            "author": "Schnitzel_bank",
-            "source": "https://www.flickr.com/photos/69258414@N08/50918606026",
-            "license": "CC-BY-ND",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         },
         {
           "name": "St. Georgskirche",
           "text": "Die römisch-katholische Kirche im Stadtzentrum ist ein bedeutendes religiöses Denkmal mit klassizistischen Merkmalen.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/babolna-st-georgskirche.webp"
+          "source_hint": "known"
         },
         {
           "name": "Gestütshof (Ménesudvar)",
           "text": "Der zentrale architektonische Komplex mit historischen Ställen und der beeindruckenden Reithalle aus der Kaiserzeit.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/babolna-gestuetshof-menesudvar.webp"
+          "source_hint": "known"
         }
       ],
       "hu": [
@@ -6616,60 +6927,42 @@ export const hungaryCities: POI[] = [
           "text": "Az 1789-ben alapított birtok a világhírű Shagya-arab lófajta nemesítésének központja és a magyar lótenyésztés büszkesége.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/babolna-nationalgestuet-babolna.webp"
+          "source_hint": "known"
         },
         {
           "name": "Lovasmúzeum",
           "text": "Az egykori tiszti kaszinó épületében berendezett kiállítás a magyar lovasélet és a ménesbirtok történetét mutatja be.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/babolna-pferdemuseum.webp"
+          "source_hint": "known"
         },
         {
           "name": "Arborétum és Híres Lovak Emlékparkja",
           "text": "A kertben különleges fafajok és a ménes legendás lovainak síremlékei találhatók, csendes sétákra hívogató környezetben.",
           "category": "natural",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/babolna-arboretum-und-gedaechtnispark-fuer-beruehmte-pferde.webp",
-          "image_attribution": {
-            "author": "ldjaffe",
-            "source": "https://www.flickr.com/photos/9480126@N02/47098447234",
-            "license": "CC-BY-NC-SA",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         },
         {
           "name": "Bábolna Strand- és Termálfürdő",
           "text": "Modern, egész évben üzemelő fürdőkomplexum, amely gyógyvizes medencékkel és wellness szolgáltatásokkal várja a látogatókat.",
           "category": "recreational",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/babolna-thermalbad-und-strand-babolna.webp",
-          "image_attribution": {
-            "author": "Schnitzel_bank",
-            "source": "https://www.flickr.com/photos/69258414@N08/50918606026",
-            "license": "CC-BY-ND",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         },
         {
           "name": "Szent György római katolikus templom",
           "text": "A város központjában álló, klasszicista stílusjegyeket hordozó épület Bábolna egyik legfontosabb egyházi emléke.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/babolna-st-georgskirche.webp"
+          "source_hint": "known"
         },
         {
           "name": "Ménesudvar",
           "text": "A történelmi épületegyüttes központja, ahol a tiszti épületek, az istállók és a lovarda találhatók.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/babolna-gestuetshof-menesudvar.webp"
+          "source_hint": "known"
         }
       ],
       "ro": [
@@ -6678,60 +6971,42 @@ export const hungaryCities: POI[] = [
           "text": "Fondată în 1789, această herghelie este inima orașului și este renumită la nivel mondial pentru creșterea cailor din rasa Shagya Arabian.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/babolna-nationalgestuet-babolna.webp"
+          "source_hint": "known"
         },
         {
           "name": "Muzeul Calului",
           "text": "Găzduit în fostul cazino al ofițerilor, muzeul prezintă istoria bogată a creșterii cailor și a artei ecvestre maghiare.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/babolna-pferdemuseum.webp"
+          "source_hint": "known"
         },
         {
           "name": "Arboretumul și Parcul Memorial al Cailor Celebri",
           "text": "Un parc superb care adăpostește specii rare de arbori și servește ca loc de odihnă finală pentru cai de curse legendari.",
           "category": "natural",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/babolna-arboretum-und-gedaechtnispark-fuer-beruehmte-pferde.webp",
-          "image_attribution": {
-            "author": "ldjaffe",
-            "source": "https://www.flickr.com/photos/9480126@N02/47098447234",
-            "license": "CC-BY-NC-SA",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         },
         {
           "name": "Ștrandul și Băile Termale Bábolna",
           "text": "Un centru modern de wellness cu apă termală, oferind relaxare în mai multe bazine interioare și exterioare.",
           "category": "recreational",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/babolna-thermalbad-und-strand-babolna.webp",
-          "image_attribution": {
-            "author": "Schnitzel_bank",
-            "source": "https://www.flickr.com/photos/69258414@N08/50918606026",
-            "license": "CC-BY-ND",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         },
         {
           "name": "Biserica Sfântul Gheorghe",
           "text": "Biserica romano-catolică din centrul orașului este un monument religios important cu trăsături neoclasice.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/babolna-st-georgskirche.webp"
+          "source_hint": "known"
         },
         {
           "name": "Curtea Hergheliei (Ménesudvar)",
           "text": "Complexul arhitectural central care include grajdurile istorice și impresionanta sală de călărie din epoca imperială.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/babolna-gestuetshof-menesudvar.webp"
+          "source_hint": "known"
         }
       ],
       "en": [
@@ -6740,63 +7015,248 @@ export const hungaryCities: POI[] = [
           "text": "Established in 1789, this historic estate is the heart of the town and world-famous for breeding the noble Shagya Arabian horses.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/babolna-nationalgestuet-babolna.webp"
+          "source_hint": "known"
         },
         {
           "name": "Horse Museum",
           "text": "Located in the former Officers Casino, the museum showcases the rich history of Hungarian horse breeding and equestrian arts.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/babolna-pferdemuseum.webp"
+          "source_hint": "known"
         },
         {
           "name": "Arboretum and Famous Horses Memorial Park",
           "text": "A beautiful park home to rare tree species and the final resting places of legendary racing and stud horses.",
           "category": "natural",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/babolna-arboretum-und-gedaechtnispark-fuer-beruehmte-pferde.webp",
-          "image_attribution": {
-            "author": "ldjaffe",
-            "source": "https://www.flickr.com/photos/9480126@N02/47098447234",
-            "license": "CC-BY-NC-SA",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         },
         {
           "name": "Bábolna Strand and Thermal Bath",
           "text": "A modern wellness center utilizing local medicinal water, offering relaxation in several indoor and outdoor pools.",
           "category": "recreational",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/babolna-thermalbad-und-strand-babolna.webp",
-          "image_attribution": {
-            "author": "Schnitzel_bank",
-            "source": "https://www.flickr.com/photos/69258414@N08/50918606026",
-            "license": "CC-BY-ND",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         },
         {
           "name": "St. George Church",
           "text": "The Roman Catholic church in the town center is a significant religious monument featuring neoclassical architectural elements.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/babolna-st-georgskirche.webp"
+          "source_hint": "known"
         },
         {
           "name": "Stud Yard (Ménesudvar)",
           "text": "The central architectural complex including historical stables and the impressive riding hall from the imperial era.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/babolna-gestuetshof-menesudvar.webp"
+          "source_hint": "known"
         }
       ]
     },
+    "nearbySights": {
+      "de": [
+        {
+          "name": "Festung Monostor in Komárom",
+          "text": "Eine der größten Festungsanlagen Zentraleuropas aus dem 19. Jahrhundert, heute ein faszinierendes Freilichtmuseum.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "wiki",
+          "distance": "18 km"
+        },
+        {
+          "name": "Burg von Tata",
+          "text": "Die am Ufer des Alten Sees gelegene Burg aus dem 14. Jahrhundert beherbergt das Kuny Domokos Museum.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "wiki",
+          "distance": "28 km"
+        },
+        {
+          "name": "Erzabtei Pannonhalma",
+          "text": "Ein UNESCO-Weltkulturerbe und eines der ältesten Klöster Ungarns mit einer beeindruckenden Bibliothek und Weinkeller.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "wiki",
+          "distance": "30 km"
+        },
+        {
+          "name": "Altstadt von Győr",
+          "text": "Die Stadt der drei Flüsse bietet ein wunderschönes Barockviertel, eine Basilika und eine lebendige Fußgängerzone.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "25 km"
+        },
+        {
+          "name": "Urmensch-Fundstätte Vértesszőlős",
+          "text": "Ein archäologisches Museum, in dem die Überreste des Homo erectus 'Samu' und fossile Fußabdrücke zu sehen sind.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "wiki",
+          "distance": "29 km"
+        },
+        {
+          "name": "Donau-Ufer bei Ács",
+          "text": "Ein natürliches Erholungsgebiet am Flussufer, ideal für Radtouren und ruhige Spaziergänge in der Natur.",
+          "category": "natural",
+          "confidence": "medium",
+          "source_hint": "known",
+          "distance": "12 km"
+        }
+      ],
+      "hu": [
+        {
+          "name": "Komáromi Monostori Erőd",
+          "text": "Közép-Európa egyik legnagyobb 19. századi erődítménye, amely ma lenyűgöző hadtörténeti múzeumként működik.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "wiki",
+          "distance": "18 km"
+        },
+        {
+          "name": "Tatai vár és Öreg-tó",
+          "text": "A 14. századi vár az Öreg-tó partján áll, ma a Kuny Domokos Múzeumnak ad otthont és a város jelképe.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "wiki",
+          "distance": "28 km"
+        },
+        {
+          "name": "Pannonhalmi Főapátság",
+          "text": "Az UNESCO Világörökség része, Magyarország egyik legrégebbi kolostora híres könyvtárral és arborétummal.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "wiki",
+          "distance": "30 km"
+        },
+        {
+          "name": "Győri barokk belváros",
+          "text": "A folyók városa hangulatos barokk utcákkal, a Püspökvárral és a Bazilikával várja a látogatókat.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "25 km"
+        },
+        {
+          "name": "Vértesszőlősi ősemberlelet",
+          "text": "A szabadtéri múzeumban Samu, az előember maradványai és őskori lábnyomok tekinthetők meg.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "wiki",
+          "distance": "29 km"
+        },
+        {
+          "name": "Ácsi Duna-part",
+          "text": "Természetközeli pihenőhely a folyó mellett, amely népszerű a kerékpárosok és a horgászok körében.",
+          "category": "natural",
+          "confidence": "medium",
+          "source_hint": "known",
+          "distance": "12 km"
+        }
+      ],
+      "ro": [
+        {
+          "name": "Cetatea Monostor din Komárom",
+          "text": "Una dintre cele mai mari fortificații din Europa Centrală datând din secolul al XIX-lea, astăzi un muzeu fascinant.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "wiki",
+          "distance": "18 km"
+        },
+        {
+          "name": "Castelul din Tata",
+          "text": "Situat pe malul Lacului Vechi, castelul din secolul al XIV-lea găzduiește Muzeul Kuny Domokos.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "wiki",
+          "distance": "28 km"
+        },
+        {
+          "name": "Abația Teritorială Pannonhalma",
+          "text": "Parte a Patrimoniului Mondial UNESCO, este una dintre cele mai vechi mănăstiri din Ungaria, cu o bibliotecă impresionantă.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "wiki",
+          "distance": "30 km"
+        },
+        {
+          "name": "Centrul vechi din Győr",
+          "text": "Orașul celor trei râuri oferă un cartier baroc superb, o bazilică și o zonă pietonală vibrantă.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "25 km"
+        },
+        {
+          "name": "Situl arheologic Vértesszőlős",
+          "text": "Un muzeu în aer liber unde pot fi văzute rămășițele lui 'Samu' (Homo erectus) și amprente fosile.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "wiki",
+          "distance": "29 km"
+        },
+        {
+          "name": "Malul Dunării la Ács",
+          "text": "O zonă naturală de recreere pe malul râului, ideală pentru plimbări liniștite și ciclism.",
+          "category": "natural",
+          "confidence": "medium",
+          "source_hint": "known",
+          "distance": "12 km"
+        }
+      ],
+      "en": [
+        {
+          "name": "Monostor Fortress in Komárom",
+          "text": "One of Central Europe's largest 19th-century fortresses, now serving as a fascinating military history museum.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "wiki",
+          "distance": "18 km"
+        },
+        {
+          "name": "Castle of Tata",
+          "text": "Standing on the shore of the Old Lake, this 14th-century castle houses the Kuny Domokos Museum.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "wiki",
+          "distance": "28 km"
+        },
+        {
+          "name": "Pannonhalma Archabbey",
+          "text": "A UNESCO World Heritage site and one of Hungary's oldest monasteries, famous for its historic library and winery.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "wiki",
+          "distance": "30 km"
+        },
+        {
+          "name": "Győr Baroque City Center",
+          "text": "Known as the city of rivers, it features beautiful Baroque streets, the Bishop's Castle, and a lively pedestrian zone.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "25 km"
+        },
+        {
+          "name": "Vértesszőlős Prehistoric Site",
+          "text": "An archaeological museum where the remains of 'Samu' (Homo erectus) and ancient footprints are preserved.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "wiki",
+          "distance": "29 km"
+        },
+        {
+          "name": "Danube Bank at Ács",
+          "text": "A natural recreational area by the river, popular for cycling, fishing, and quiet nature walks.",
+          "category": "natural",
+          "confidence": "medium",
+          "source_hint": "known",
+          "distance": "12 km"
+        }
+      ]
+    }
+  },
   {
     id: "szecseny",
     type: "city",
@@ -9730,66 +10190,42 @@ export const hungaryCities: POI[] = [
           "text": "Die im 13. Jahrhundert errichtete Festung auf dem Várhegy ist eine der am besten erhaltenen Burgen Ungarns und bietet ein spektakuläres Panorama auf den Plattensee.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/szigliget-burg-szigliget.webp"
+          "source_hint": "known"
         },
         {
           "name": "Esterházy-Schloss und Arboretum",
           "text": "Die klassizistische Residenz dient heute als Heim für Schriftsteller und ist von einem 9 Hektar großen Park mit seltenen Kiefern und Pflanzen umgeben.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/szigliget-esterhazy-schloss-und-arboretum.webp",
-          "image_attribution": {
-            "author": "Elekes Andor",
-            "source": "https://www.flickr.com/photos/59061037@N02/33423124404",
-            "license": "CC-BY-SA",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         },
         {
           "name": "Strand von Szigliget",
           "text": "Einer der beliebtesten und modernsten Strände am Nordufer, bekannt für seine gepflegten Grünflächen und vielfältigen gastronomischen Angebote.",
           "category": "recreational",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/szigliget-strand-von-szigliget.webp",
-          "image_attribution": {
-            "author": "FireCobold - Szilu",
-            "source": "https://www.flickr.com/photos/33723707@N02/6899954503",
-            "license": "CC-BY-NC-ND",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         },
         {
           "name": "Altes Dorf (Ófalu)",
           "text": "Das historische Zentrum von Szigliget mit seinen charakteristischen reetgedeckten Häusern steht unter Denkmalschutz und bewahrt die traditionelle Architektur der Region.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/szigliget-altes-dorf-ofalu.webp"
+          "source_hint": "known"
         },
         {
           "name": "Kirchenruine von Avasi",
           "text": "Die Überreste einer aus Basaltsteinen erbauten Kirche aus der Arpadenzeit, die einst das Zentrum des mittelalterlichen Dorfes bildete.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/szigliget-kirchenruine-von-avasi.webp"
+          "source_hint": "known"
         },
         {
           "name": "Királyné szoknyája (Rock der Königin)",
           "text": "Ein Aussichtspunkt auf einem vulkanischen Hügel, der seinen Namen seiner charakteristischen Form verdankt und einen Blick auf die Bucht von Szigliget bietet.",
           "category": "natural",
           "confidence": "medium",
-          "source_hint": "known",
-          "image": "/poi-images/sights/szigliget-kiralyne-szoknyaja-rock-der-koenigin.webp",
-          "image_attribution": {
-            "author": "farukr3",
-            "source": "https://www.flickr.com/photos/109201880@N03/50918733113",
-            "license": "CC-BY-NC-SA",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         }
       ],
       "hu": [
@@ -9798,66 +10234,42 @@ export const hungaryCities: POI[] = [
           "text": "A Várhegy csúcsán álló, 13. században épült erődítmény Magyarország egyik leglátványosabb vára, amely 2020-ban teljes megújuláson esett át, és páratlan panorámát nyújt a Balatonra.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "wiki",
-          "image": "/poi-images/sights/szigliget-burg-szigliget.webp"
+          "source_hint": "wiki"
         },
         {
           "name": "Esterházy-kastély és Alkotóház",
           "text": "Az egykori főúri rezidencia ma írók pihenőhelye, melyet egy 9 hektáros, különleges fafajokkal teli védett arborétum vesz körül.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/szigliget-esterhazy-schloss-und-arboretum.webp",
-          "image_attribution": {
-            "author": "Elekes Andor",
-            "source": "https://www.flickr.com/photos/59061037@N02/33423124404",
-            "license": "CC-BY-SA",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         },
         {
           "name": "Szigligeti strand",
           "text": "Az északi part egyik legszínvonalasabb strandja, amely fokozatosan mélyülő vízzel, árnyas parkkal és kiváló infrastruktúrával várja a pihenni vágyókat.",
           "category": "recreational",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/szigliget-strand-von-szigliget.webp",
-          "image_attribution": {
-            "author": "FireCobold - Szilu",
-            "source": "https://www.flickr.com/photos/33723707@N02/6899954503",
-            "license": "CC-BY-NC-ND",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         },
         {
           "name": "Ófalu",
           "text": "Szigliget történelmi faluközpontja, ahol a jellegzetes nádtetős parasztházak és a kanyargós utcák őrzik a Balaton-felvidék népi építészeti örökségét.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/szigliget-altes-dorf-ofalu.webp"
+          "source_hint": "known"
         },
         {
           "name": "Avasi-templomrom",
           "text": "A település szélén található, bazaltkőből emelt Árpád-kori templom maradványa, amely a középkori falu lelki központja volt.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/szigliget-kirchenruine-von-avasi.webp"
+          "source_hint": "known"
         },
         {
           "name": "Királyné szoknyája",
           "text": "A vár alatti vulkanikus domb, amely nevét különleges formájáról kapta, tetejéről pedig remek kilátás nyílik a szigligeti öbölre és a tanúhegyekre.",
           "category": "natural",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/szigliget-kiralyne-szoknyaja-rock-der-koenigin.webp",
-          "image_attribution": {
-            "author": "farukr3",
-            "source": "https://www.flickr.com/photos/109201880@N03/50918733113",
-            "license": "CC-BY-NC-SA",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         }
       ],
       "ro": [
@@ -9866,66 +10278,42 @@ export const hungaryCities: POI[] = [
           "text": "Construită în secolul al XIII-lea pe vârful dealului Várhegy, această fortificație este una dintre cele mai spectaculoase din Ungaria, oferind o panoramă de neegalat asupra lacului Balaton.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/szigliget-burg-szigliget.webp"
+          "source_hint": "known"
         },
         {
           "name": "Conacul Esterházy și Arboretumul",
           "text": "Fosta reședință nobiliară servește astăzi drept casă de creație pentru scriitori, fiind înconjurată de un parc protejat de 9 hectare cu specii rare de arbori.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/szigliget-esterhazy-schloss-und-arboretum.webp",
-          "image_attribution": {
-            "author": "Elekes Andor",
-            "source": "https://www.flickr.com/photos/59061037@N02/33423124404",
-            "license": "CC-BY-SA",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         },
         {
           "name": "Plaja Szigliget",
           "text": "Una dintre cele mai moderne plaje de pe malul nordic, renumită pentru spațiile verzi bine întreținute și ofertele gastronomice variate.",
           "category": "recreational",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/szigliget-strand-von-szigliget.webp",
-          "image_attribution": {
-            "author": "FireCobold - Szilu",
-            "source": "https://www.flickr.com/photos/33723707@N02/6899954503",
-            "license": "CC-BY-NC-ND",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         },
         {
           "name": "Satul Vechi (Ófalu)",
           "text": "Centrul istoric al localității, cu casele sale tradiționale cu acoperiș de stuf și străzi șerpuite, păstrează moștenirea arhitecturală a regiunii.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/szigliget-altes-dorf-ofalu.webp"
+          "source_hint": "known"
         },
         {
           "name": "Ruinele bisericii Avasi",
           "text": "Rămășițele unei biserici din epoca Arpadiană, construită din piatră de bazalt, care a fost centrul spiritual al satului medieval.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/szigliget-kirchenruine-von-avasi.webp"
+          "source_hint": "known"
         },
         {
           "name": "Királyné szoknyája (Fusta Reginei)",
           "text": "Un deal vulcanic situat sub castel, numit astfel datorită formei sale specifice, oferind un punct de observație excelent asupra golfului.",
           "category": "natural",
           "confidence": "medium",
-          "source_hint": "known",
-          "image": "/poi-images/sights/szigliget-kiralyne-szoknyaja-rock-der-koenigin.webp",
-          "image_attribution": {
-            "author": "farukr3",
-            "source": "https://www.flickr.com/photos/109201880@N03/50918733113",
-            "license": "CC-BY-NC-SA",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         }
       ],
       "en": [
@@ -9934,69 +10322,248 @@ export const hungaryCities: POI[] = [
           "text": "Built in the 13th century atop Várhegy hill, this fortress is one of Hungary's most impressive ruins, featuring interactive exhibitions and stunning views over Lake Balaton.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "wiki",
-          "image": "/poi-images/sights/szigliget-burg-szigliget.webp"
+          "source_hint": "wiki"
         },
         {
           "name": "Esterházy Mansion and Arboretum",
           "text": "A neoclassical aristocratic residence that now functions as a creative retreat for writers, surrounded by a 9-hectare protected park with rare pines.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/szigliget-esterhazy-schloss-und-arboretum.webp",
-          "image_attribution": {
-            "author": "Elekes Andor",
-            "source": "https://www.flickr.com/photos/59061037@N02/33423124404",
-            "license": "CC-BY-SA",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         },
         {
           "name": "Szigliget Beach",
           "text": "Known as one of the best-quality beaches on the northern shore, it offers shaded areas, family-friendly services, and various sports facilities.",
           "category": "recreational",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/szigliget-strand-von-szigliget.webp",
-          "image_attribution": {
-            "author": "FireCobold - Szilu",
-            "source": "https://www.flickr.com/photos/33723707@N02/6899954503",
-            "license": "CC-BY-NC-ND",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         },
         {
           "name": "Old Village (Ófalu)",
           "text": "The protected historical core of the village, characterized by traditional thatched-roof cottages and winding streets typical of the Balaton Uplands.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/szigliget-altes-dorf-ofalu.webp"
+          "source_hint": "known"
         },
         {
           "name": "Avasi Church Ruins",
           "text": "The basalt-stone ruins of a 13th-century church, standing as a quiet monument to the village's medieval predecessor.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/szigliget-kirchenruine-von-avasi.webp"
+          "source_hint": "known"
         },
         {
           "name": "Queen's Skirt Hill (Királyné szoknyája)",
           "text": "A cone-shaped volcanic hill offering a moderate hike and a great viewpoint overlooking the Szigliget bay and the nearby volcanic peaks.",
           "category": "natural",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/szigliget-kiralyne-szoknyaja-rock-der-koenigin.webp",
-          "image_attribution": {
-            "author": "farukr3",
-            "source": "https://www.flickr.com/photos/109201880@N03/50918733113",
-            "license": "CC-BY-NC-SA",
-            "platform": "flickr"
-          }
+          "source_hint": "known"
         }
       ]
     },
+    "nearbySights": {
+      "de": [
+        {
+          "name": "Basaltorgeln von Badacsony",
+          "text": "Spektakuläre, säulenartige Felsformationen vulkanischen Ursprungs am Hang des Badacsony-Berges.",
+          "category": "natural",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "6 km"
+        },
+        {
+          "name": "Seehöhle von Tapolca",
+          "text": "Ein einzigartiges unterirdisches Höhlensystem, in dem man mit Booten auf kristallklarem Karstwasser fahren kann.",
+          "category": "natural",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "12 km"
+        },
+        {
+          "name": "Schloss Festetics (Keszthely)",
+          "text": "Eines der größten und prächtigsten Barockschlösser Ungarns mit einer wertvollen Bibliothek und Kutschenmuseum.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "19 km"
+        },
+        {
+          "name": "Szent György-Berg",
+          "text": "Berühmt für seine riesigen Basaltsäulen und hervorragenden Weißweine, ein beliebtes Wanderziel.",
+          "category": "natural",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "8 km"
+        },
+        {
+          "name": "Thermalsee von Hévíz",
+          "text": "Der größte biologisch aktive natürliche Thermalsee der Welt, ideal für ganzjähriges Heilschwimmen.",
+          "category": "recreational",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "26 km"
+        },
+        {
+          "name": "Burgruine Csobánc",
+          "text": "Eine mittelalterliche Ruine auf einem isolierten Hügel, bekannt für ihren weiten Blick und als Startpunkt für Paraglider.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "14 km"
+        }
+      ],
+      "hu": [
+        {
+          "name": "Badacsonyi bazaltorgonák",
+          "text": "A Badacsony-hegy oldalában található monumentális, orgonasípokra emlékeztető bazaltoszlopok, amelyek a vulkáni tevékenység nyomait őrzik.",
+          "category": "natural",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "6 km"
+        },
+        {
+          "name": "Tapolcai-tavasbarlang",
+          "text": "Különleges föld alatti barlangrendszer Tapolca szívében, ahol a látogatók csónakázhatnak a tiszta karsztvízen.",
+          "category": "natural",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "12 km"
+        },
+        {
+          "name": "Festetics-kastély (Keszthely)",
+          "text": "Magyarország egyik legjelentősebb barokk kastélya, amely kiemelkedő Helikon könyvtáráról és gyönyörű parkjáról híres.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "19 km"
+        },
+        {
+          "name": "Szent György-hegyi bazaltorgonák",
+          "text": "A környék talán legszebb bazaltképződményei, a hegyen halad keresztül az Országos Kéktúra útvonala is.",
+          "category": "natural",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "8 km"
+        },
+        {
+          "name": "Hévízi-tó",
+          "text": "A világ legnagyobb biológiailag aktív, természetes termáltava, amely gyógyító erejéről és tavirózsáiról világszerte ismert.",
+          "category": "recreational",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "26 km"
+        },
+        {
+          "name": "Csobánc vára",
+          "text": "A Gyulakeszi felett magasodó várrom, amelyről a Tapolcai-medence legszebb panorámája nyílik, kedvelt siklóernyős helyszín.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "14 km"
+        }
+      ],
+      "ro": [
+        {
+          "name": "Orgene de bazalt din Badacsony",
+          "text": "Formațiuni stâncoase monumentale sub formă de coloane, situate pe versantul muntelui Badacsony, create de activitatea vulcanică.",
+          "category": "natural",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "6 km"
+        },
+        {
+          "name": "Peștera Lacului din Tapolca",
+          "text": "Un sistem de peșteri subterane unice unde vizitatorii se pot plimba cu barca pe apele carstice cristaline.",
+          "category": "natural",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "12 km"
+        },
+        {
+          "name": "Palatul Festetics (Keszthely)",
+          "text": "Unul dintre cele mai mari și mai frumoase palate baroce din Ungaria, renumit pentru biblioteca sa istorică și grădinile superbe.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "19 km"
+        },
+        {
+          "name": "Muntele Szent György",
+          "text": "Cunoscut pentru coloanele sale uriașe de bazalt și vinurile albe excelente produse pe versanții săi însoriți.",
+          "category": "natural",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "8 km"
+        },
+        {
+          "name": "Lacul Termal Hévíz",
+          "text": "Cel mai mare lac termal natural activ biologic din lume, faimos pentru proprietățile sale curative și nuferii exotici.",
+          "category": "recreational",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "26 km"
+        },
+        {
+          "name": "Ruinele cetății Csobánc",
+          "text": "O ruină medievală situată pe un deal izolat, oferind o vedere panoramică spectaculoasă și fiind un loc popular pentru parapantism.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "14 km"
+        }
+      ],
+      "en": [
+        {
+          "name": "Badacsony Basalt Columns",
+          "text": "Towering vertical basalt formations on the slopes of the volcanic Badacsony hill, often called basalt organs.",
+          "category": "natural",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "6 km"
+        },
+        {
+          "name": "Tapolca Lake Cave",
+          "text": "An enchanting underground cave system where visitors can row boats through crystal-clear karst water channels.",
+          "category": "natural",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "12 km"
+        },
+        {
+          "name": "Festetics Palace (Keszthely)",
+          "text": "A grand Baroque palace featuring a stunning library, museum exhibitions, and extensive English-style gardens.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "19 km"
+        },
+        {
+          "name": "St. George Hill (Szent György-hegy)",
+          "text": "Famous for its enormous basalt pillars and wine cellars, it offers one of the best hiking experiences in the region.",
+          "category": "natural",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "8 km"
+        },
+        {
+          "name": "Lake Hévíz",
+          "text": "The world's largest biologically active natural thermal lake, providing unique year-round outdoor bathing in medicinal waters.",
+          "category": "recreational",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "26 km"
+        },
+        {
+          "name": "Csobánc Castle Ruins",
+          "text": "The ruins of a medieval castle on a high plateau, offering arguably the best 360-degree view of the Balaton Uplands.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "14 km"
+        }
+      ]
+    }
+  },
   {
     id: "herend",
     type: "city",
@@ -10087,24 +10654,21 @@ export const hungaryCities: POI[] = [
           "text": "Das Kellerdorf ist mit über 1200 Presshäusern das größte zusammenhängende Ensemble seiner Art in Europa. Die weißen Weinkeller wurden in den Lösshang gegraben und spiegeln die schwäbische Weinbautradition der Region wider.",
           "category": "culinary",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/hajos-kellerdorf-von-hajos.webp"
+          "source_hint": "known"
         },
         {
           "name": "Erzbischöfliches Schloss Hajós",
           "text": "Das im Jahr 1739 erbaute Barockschloss diente ursprünglich als Jagdschloss der Erzbischöfe von Kalocsa. Es ist das älteste Denkmal dieser Art im Komitat Bács-Kiskun und beherbergt heute eine interaktive Ausstellung.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/hajos-erzbischoefliches-schloss-hajos.webp"
+          "source_hint": "known"
         },
         {
           "name": "Sankt-Imre-Kirche",
           "text": "Die barocke römisch-katholische Kirche wurde 1728 erbaut und ist ein bedeutender Wallfahrtsort. Das Gnadenbild der Jungfrau Maria in der Kirche wird von Gläubigen seit Jahrhunderten verehrt.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/hajos-sankt-imre-kirche.webp"
+          "source_hint": "known"
         },
         {
           "name": "Hajósi-homokhát Lehrpfad",
@@ -10120,24 +10684,21 @@ export const hungaryCities: POI[] = [
           "text": "Európa legnagyobb összefüggő pincefaluja, ahol több mint 1200 présház található szabályos utcákba rendeződve. A löszfalba vájt borospincék a helyi sváb borászati hagyományokat és a népi építészetet őrzik.",
           "category": "culinary",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/hajos-kellerdorf-von-hajos.webp"
+          "source_hint": "known"
         },
         {
           "name": "Hajósi Érseki Kastély",
           "text": "Az 1739-ben épült barokk kastély a kalocsai érsekek egykori vadászkastélya és pihenőhelye volt. Bács-Kiskun vármegye legősibb kastélya ma múzeumként és rendezvényhelyszínként üzemel.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/hajos-erzbischoefliches-schloss-hajos.webp"
+          "source_hint": "known"
         },
         {
           "name": "Szent Imre-templom",
           "text": "Az 1728-ban emelt barokk stílusú római katolikus templom híres búcsújáró hely. A templomban őrzött Segítő Szűz Mária-szoborhoz számos hálatábla és vallási tisztelet kapcsolódik.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/hajos-sankt-imre-kirche.webp"
+          "source_hint": "known"
         },
         {
           "name": "Hajósi-homokhát Tanösvény",
@@ -10153,24 +10714,21 @@ export const hungaryCities: POI[] = [
           "text": "Este cel mai mare ansamblu continuu de pivnițe din Europa, cuprinzând peste 1200 de case de presare organizate pe străzi. Pivnițele săpate în loess păstrează tradițiile viticole șvăbești și arhitectura populară locală.",
           "category": "culinary",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/hajos-kellerdorf-von-hajos.webp"
+          "source_hint": "known"
         },
         {
           "name": "Castelul Arhiepiscopal din Hajós",
           "text": "Construit în 1739 în stil baroc, a servit inițial ca reședință de vânătoare pentru arhiepiscopii de Kalocsa. Este cel mai vechi castel din județul Bács-Kiskun și găzduiește astăzi expoziții interactive.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/hajos-erzbischoefliches-schloss-hajos.webp"
+          "source_hint": "known"
         },
         {
           "name": "Biserica Sfântul Emeric",
           "text": "Această biserică romano-catolică barocă a fost ridicată în 1728 și este un important loc de pelerinaj. Statuia făcătoare de minuni a Fecioarei Maria din interior atrage credincioși de secole.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/hajos-sankt-imre-kirche.webp"
+          "source_hint": "known"
         },
         {
           "name": "Traseul educativ Hajósi-homokhát",
@@ -10186,24 +10744,21 @@ export const hungaryCities: POI[] = [
           "text": "The largest contiguous cellar village in Europe, featuring over 1200 press houses arranged in regular streets. The wine cellars dug into the loess banks preserve the local Swabian viticultural traditions.",
           "category": "culinary",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/hajos-kellerdorf-von-hajos.webp"
+          "source_hint": "known"
         },
         {
           "name": "Archiepiscopal Castle of Hajós",
           "text": "Built in 1739, this Baroque castle was originally a hunting lodge for the Archbishops of Kalocsa. It is the oldest castle in Bács-Kiskun County and now serves as an interactive museum.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/hajos-erzbischoefliches-schloss-hajos.webp"
+          "source_hint": "known"
         },
         {
           "name": "St. Imre Church",
           "text": "A Baroque Roman Catholic church built in 1728, which is a well-known pilgrimage site. The miraculous statue of the Virgin Mary kept in the church has been venerated by believers for centuries.",
           "category": "historical",
           "confidence": "high",
-          "source_hint": "known",
-          "image": "/poi-images/sights/hajos-sankt-imre-kirche.webp"
+          "source_hint": "known"
         },
         {
           "name": "Hajósi-homokhát Nature Trail",
@@ -10214,6 +10769,177 @@ export const hungaryCities: POI[] = [
         }
       ]
     },
+    "nearbySights": {
+      "de": [
+        {
+          "name": "Kathedrale von Kalocsa",
+          "text": "Die prächtige barocke Kathedrale ist das religiöse Zentrum der Stadt Kalocsa und ein bedeutendes architektonisches Denkmal.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "22 km"
+        },
+        {
+          "name": "Paprika-Museum Kalocsa",
+          "text": "Dieses Museum zeigt die Geschichte und den Anbau des weltberühmten Kalocsaer Paprikas, dem roten Gold Ungarns.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "22 km"
+        },
+        {
+          "name": "Szelidi-See",
+          "text": "Ein beliebter Ferienort bei Dunapataj mit einem 5 km langen Salzsee, der ideale Bedingungen zum Baden und Angeln bietet.",
+          "category": "recreational",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "32 km"
+        },
+        {
+          "name": "Dreifaltigkeitsplatz Baja",
+          "text": "Einer der schönsten Plätze Ungarns direkt am Donauufer, bekannt für seine mediterrane Atmosphäre und das alljährliche Fischsuppen-Festival.",
+          "category": "recreational",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "31 km"
+        },
+        {
+          "name": "Petőfi-Gedenkmuseum Kiskőrös",
+          "text": "Das Geburtshaus des berühmten ungarischen Dichters Sándor Petőfi ist heute ein bedeutender nationaler Gedenkort.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "30 km"
+        }
+      ],
+      "hu": [
+        {
+          "name": "Kalocsai Főszékesegyház",
+          "text": "A monumentális barokk székesegyház Kalocsa vallási központja, díszes belső terével és érseki kincstárával a régió egyik legfontosabb látnivalója.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "22 km"
+        },
+        {
+          "name": "Paprika Múzeum",
+          "text": "A kalocsai múzeum bemutatja a világhírű fűszerpaprika termesztésének és feldolgozásának történetét, valamint a helyi népművészetet.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "22 km"
+        },
+        {
+          "name": "Szelidi-tó",
+          "text": "Dunapataj közelében található gyógyhatású sós vizű tó, amely népszerű üdülőhely strandolási és horgászati lehetőségekkel.",
+          "category": "recreational",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "32 km"
+        },
+        {
+          "name": "Bajai Szentháromság tér",
+          "text": "Magyarország egyik legszebb, mediterrán hangulatú tere a Duna partján, amely a Sugovica-ág mentén nyújt kellemes kikapcsolódást.",
+          "category": "recreational",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "31 km"
+        },
+        {
+          "name": "Petőfi Sándor Emlékmúzeum",
+          "text": "Kiskőrösön található Petőfi Sándor szülőháza, amely nemzeti emlékhely és a költő életművét bemutató gazdag gyűjtemény.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "30 km"
+        }
+      ],
+      "ro": [
+        {
+          "name": "Catedrala din Kalocsa",
+          "text": "O catedrală barocă monumentală, centrul religios al orașului Kalocsa și un monument arhitectural de prim rang în regiune.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "22 km"
+        },
+        {
+          "name": "Muzeul Papricii din Kalocsa",
+          "text": "Muzeul prezintă istoria cultivării și procesării faimoasei paprica de Kalocsa, considerată aurul roșu al Ungariei.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "22 km"
+        },
+        {
+          "name": "Lacul Szelidi",
+          "text": "Un lac sărat cu proprietăți curative situat lângă Dunapataj, fiind o stațiune populară pentru înot, relaxare și pescuit.",
+          "category": "recreational",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "32 km"
+        },
+        {
+          "name": "Piața Sfânta Treime din Baja",
+          "text": "Una dintre cele mai frumoase piețe din Ungaria, situată pe malul Dunării, cunoscută pentru atmosfera sa mediteraneană.",
+          "category": "recreational",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "31 km"
+        },
+        {
+          "name": "Casa Memorială Petőfi Sándor",
+          "text": "Situată în Kiskőrös, casa natală a celebrului poet maghiar Sándor Petőfi este astăzi un important sit memorial național.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "30 km"
+        }
+      ],
+      "en": [
+        {
+          "name": "Kalocsa Cathedral",
+          "text": "A monumental Baroque cathedral that serves as the religious center of Kalocsa, featuring a rich interior and an archiepiscopal treasury.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "22 km"
+        },
+        {
+          "name": "Paprika Museum Kalocsa",
+          "text": "This museum showcases the history and processing of the world-famous Kalocsa paprika, Hungary's iconic red spice.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "22 km"
+        },
+        {
+          "name": "Lake Szelid",
+          "text": "A salt lake with medicinal properties located near Dunapataj, offering popular beaches and fishing spots in a scenic environment.",
+          "category": "recreational",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "32 km"
+        },
+        {
+          "name": "Trinity Square, Baja",
+          "text": "One of Hungary's most beautiful Mediterranean-style squares located on the banks of the Danube, famous for the annual fish soup festival.",
+          "category": "recreational",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "31 km"
+        },
+        {
+          "name": "Petőfi Birthplace and Museum",
+          "text": "Located in Kiskőrös, this is the birthplace of Sándor Petőfi, Hungary's national poet, and serves as a major national memorial site.",
+          "category": "historical",
+          "confidence": "high",
+          "source_hint": "known",
+          "distance": "30 km"
+        }
+      ]
+    }
+  },
   {
     id: "szentgotthard",
     type: "city",
