@@ -84,6 +84,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "sports",
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Katonadomb",
+                  "text": "Ein beliebtes Erholungsgebiet am Donauufer mit Spielplätzen und Veranstaltungsflächen für Stadtfeste.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Radnóti-Gymnasium",
+                  "text": "Ein imposantes historisches Schulgebäude, das für seine Architektur und akademische Tradition bekannt ist.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -121,6 +133,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "sports",
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Katonadomb",
+                  "text": "A Duna-parton fekvő népszerű szabadidős központ és rendezvényhelyszín, parkokkal és játszóterekkel.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Radnóti Miklós Gimnázium",
+                  "text": "Impozáns történelmi iskolaépület, amely Dunakeszi egyik legszebb építészeti emléke és oktatási központja.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -158,6 +182,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "sports",
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Katonadomb",
+                  "text": "O zonă de recreere populară pe malul Dunării, cu terenuri de joacă și spații pentru evenimente în aer liber.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gimnaziul Radnóti",
+                  "text": "O clădire școlară istorică impunătoare, cunoscută pentru arhitectura sa și tradiția academică.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -195,6 +231,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "sports",
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Katonadomb",
+                  "text": "A popular recreational area by the Danube, hosting city events, featuring parks and modern playgrounds.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Radnóti High School",
+                  "text": "An imposing historical school building, known for its architecture and long-standing academic tradition.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ]
 }
@@ -281,6 +329,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Reformierte Kirche",
+                  "text": "Ein markantes religiöses Bauwerk im Stadtzentrum, das eine wichtige Rolle im Gemeindeleben spielt.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -318,6 +372,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Református templom",
+                  "text": "A város központjában álló jelentős hitéleti központ, melynek épülete meghatározza a településképet.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -355,6 +415,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Biserica Reformată",
+                  "text": "O clădire religioasă importantă în centrul orașului, care joacă un rol central în viața comunității.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -392,6 +458,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Reformed Church",
+                  "text": "A prominent religious building in the town center, serving as a key community and spiritual hub.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ]
 }
@@ -471,6 +543,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Odvas-hegy",
+                  "text": "Ein Naturschutzgebiet mit Wanderwegen, das seltene Pflanzenarten und einen Panoramablick auf die Stadt bietet.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kalvarienberg",
+                  "text": "Ein historischer Hügel mit religiösen Statuen, der einen weiten Blick über Budaörs und Budapest ermöglicht.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -501,6 +585,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Odvas-hegy",
+                  "text": "Természetvédelmi terület tanösvénnyel, ritka növényfajokkal és gyönyörű panorámával a Budaörsi-medencére.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kálvária-domb",
+                  "text": "Vallási szobrokkal díszített domb a város szívében, ahonnan remek kilátás nyílik a környező hegyekre.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -531,6 +627,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Dealul Odvas",
+                  "text": "O zonă protejată cu trasee de drumeție, oferind specii de plante rare și o vedere panoramică asupra orașului.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dealul Calvaria",
+                  "text": "Un deal istoric cu statui religioase, oferind o priveliște panoramică asupra orașelor Budaörs și Budapesta.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -561,6 +669,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Odvas Hill",
+                  "text": "A protected nature area featuring hiking trails, rare flora, and a scenic panoramic view of the basin.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Calvary Hill",
+                  "text": "A historic hill adorned with religious statues, offering a wide view over Budaörs and Budapest.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ]
 }
@@ -640,6 +760,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Reformierte Kirche",
+                  "text": "Ein modernes Kirchengebäude, das als architektonisches und geistliches Zentrum der Gemeinde dient.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -670,6 +796,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Református templom",
+                  "text": "Modern stílusú egyházi épület, amely a helyi közösség fontos hitéleti és kulturális találkozóhelye.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -700,6 +832,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Biserica Reformată",
+                  "text": "O clădire bisericească modernă care servește ca centru spiritual și arhitectural pentru comunitate.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -730,6 +868,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Reformed Church",
+                  "text": "A modern church building serving as an architectural and spiritual center for the local community.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ]
 }
@@ -802,6 +946,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Reformierte Kirche",
+                  "text": "Ein historisches Gotteshaus im Zentrum der Stadt, bekannt für seine Architektur und ruhige Atmosphäre.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Donauufer (Kis-Duna)",
+                  "text": "Ein ruhiger Naturraum am Ufer des kleinen Donauarms, ideal für Spaziergänge und Wassersportaktivitäten.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -825,6 +981,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Református templom",
+                  "text": "A város központjában található műemléki jellegű templom, amely a helyi örökség fontos része.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kis-Duna part",
+                  "text": "A Duna-ág menti csendes természeti terület, amely kiválóan alkalmas sétákra és vízi kikapcsolódásra.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -848,6 +1016,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Biserica Reformată",
+                  "text": "Un lăcaș de cult istoric în centrul orașului, cunoscut pentru arhitectura sa și atmosfera liniștită.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Malul Dunării Mici",
+                  "text": "O zonă naturală liniștită pe malul brațului Dunării Mici, ideală pentru plimbări și sporturi nautice.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -871,6 +1051,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Reformed Church",
+                  "text": "A historic place of worship in the city center, known for its architecture and peaceful atmosphere.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Little Danube Bank",
+                  "text": "A peaceful natural area along the Little Danube branch, perfect for walks and water-related recreation.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ]
 }
@@ -950,6 +1142,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "natural",
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Donau-Strand Göd",
+                  "text": "Dieser öffentliche Strand am Donauufer ist ein beliebter Erholungsort mit Sandstränden und sommerlichen Wassersportmöglichkeiten.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Széchenyi-Herrenhaus",
+                  "text": "Das klassizistische ehemalige Herrenhaus beherbergt heute kulturelle Veranstaltungen und sein Park ist ein beliebter Spazierweg.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -980,6 +1184,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "natural",
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Gődi Dunapart",
+                  "text": "A Duna-parti szabadstrand népszerű pihenőhely, homokos parttal és nyári vízi sportolási lehetőségekkel várja a látogatókat.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Széchenyi-kúria",
+                  "text": "A klasszicista stílusú egykori kúria ma kulturális rendezvényeknek ad otthont, parkja pedig kedvelt sétahely a helyiek számára.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -1010,6 +1226,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "natural",
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Plaja Dunării din Göd",
+                  "text": "Această plajă publică de pe malul Dunării este un loc popular de recreere, cu maluri nisipoase și sporturi nautice de vară.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Conacul Széchenyi",
+                  "text": "Fostul conac neoclasic găzduiește astăzi evenimente culturale, iar parcul său este un loc de plimbare preferat pentru localnici.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -1040,6 +1268,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "natural",
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Göd Danube Beach",
+                  "text": "This public beach on the Danube bank is a popular recreation spot with sandy shores and summer water sports.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Széchenyi Mansion",
+                  "text": "The Neoclassical former mansion now hosts cultural events, and its park is a favorite walking spot for locals.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ]
 }
@@ -1119,6 +1359,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Epres-Wald",
+                  "text": "Dieses Waldgebiet am Stadtrand ist ein hervorragender Wanderort mit einem Lehrpfad und einer reichen Vogelwelt.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kohl-Statue",
+                  "text": "Diese Statue im Zentrum erinnert an das berühmte Sauerkraut der Stadt und dient als Symbol der lokalen Gastronomie.",
+                  "category": "culinary",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -1149,6 +1401,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Epres-erdő",
+                  "text": "A város szélén található erdős terület kiváló kirándulóhely, tanösvénnyel és gazdag madárvilággal büszkélkedhet.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Káposzta-szobor",
+                  "text": "A település híres savanyított káposztájának állít emléket a központban látható szobor, amely a helyi gasztronómia jelképe.",
+                  "category": "culinary",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -1179,6 +1443,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Pădurea Epres",
+                  "text": "Această zonă împădurită de la marginea orașului este un loc excelent pentru drumeții, cu o potecă naturală și păsări bogate.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia Verzei",
+                  "text": "Această statuie din centru comemorează faimoasa varză murată a orașului, servind ca simbol al gastronomiei locale.",
+                  "category": "culinary",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -1209,6 +1485,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Epres Forest",
+                  "text": "This forested area on the edge of town is an excellent hiking spot, featuring a nature trail and rich birdlife.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cabbage Statue",
+                  "text": "This statue in the center commemorates the town's famous sauerkraut, serving as a symbol of local gastronomy.",
+                  "category": "culinary",
+                  "confidence": "high"
             }
       ]
 }
@@ -1295,6 +1583,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "civic",
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Malom-See",
+                  "text": "Der See und seine Umgebung sind ein beliebter Angelplatz und Promenade mit gemütlichen Restaurants und einem Lehrpfad am Ufer.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pamut-See",
+                  "text": "Die Promenade und die Rastplätze am Ufer des Pamut-Sees erwarten Wanderer in der Region der Veresegyház-Seen.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -1332,6 +1632,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "civic",
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Malom-tó",
+                  "text": "A tó és környéke kedvelt horgászhely és sétatér, partján hangulatos éttermek és tanösvény található a természetkedvelőknek.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pamut-tó",
+                  "text": "A Pamut-tó partján kiépített sétány és pihenőhelyek várják a kirándulókat a Veresegyházi-tavak vidékén.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -1369,6 +1681,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "civic",
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Lacul Malom",
+                  "text": "Lacul și împrejurimile sale sunt un loc popular de pescuit și promenadă, cu restaurante primitoare și o potecă naturală pe mal.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lacul Pamut",
+                  "text": "Promenada și locurile de odihnă de pe malul lacului Pamut îi așteaptă pe excursioniști în regiunea lacurilor din Veresegyház.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -1406,6 +1730,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "civic",
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Malom Lake",
+                  "text": "The lake and its surroundings are a popular fishing spot and promenade, with cozy restaurants and a nature trail on its shore.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pamut Lake",
+                  "text": "The promenade and rest areas on the shore of Pamut Lake await hikers in the Veresegyház lakes region.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ]
 }
@@ -1478,6 +1814,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "natural",
                   "confidence": "high",
                   "known": "true"
+            },
+            {
+                  "name": "Fóti-See",
+                  "text": "Dieser Angelsee in der Nähe des Zentrums der Siedlung bietet eine friedliche Umgebung zum Entspannen und Beobachten von Wassertieren.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -1501,6 +1843,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "natural",
                   "confidence": "high",
                   "known": "true"
+            },
+            {
+                  "name": "Fóti-tó",
+                  "text": "A település központjához közeli horgásztó nyugodt környezetet biztosít a pihenésre és a vízi élővilág megfigyelésére.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -1524,6 +1872,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "natural",
                   "confidence": "high",
                   "known": "true"
+            },
+            {
+                  "name": "Lacul Fót",
+                  "text": "Acest lac de pescuit de lângă centrul așezării oferă un mediu liniștit pentru relaxare și observarea vieții sălbatice acvatice.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -1547,6 +1901,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "natural",
                   "confidence": "high",
                   "known": "true"
+            },
+            {
+                  "name": "Lake Fót",
+                  "text": "This fishing lake near the center of the settlement provides a peaceful environment for relaxation and observing aquatic wildlife.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ]
 }
@@ -1626,6 +1986,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Hl. Johann von Nepomuk Kirche",
+                  "text": "Diese barocke katholische Kirche befindet sich im Zentrum von Gyömrő und besticht durch ihr wertvolles Altarbild und ihre Innendekoration.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -1656,6 +2022,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Nepomuki Szent János templom",
+                  "text": "A barokk stílusú katolikus templom Gyömrő központjában található, értékes oltárképe és belső díszítése figyelemre méltó.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -1686,6 +2058,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Biserica Sfântul Ioan de Nepomuk",
+                  "text": "Această biserică catolică barocă este situată în centrul orașului Gyömrő, fiind remarcabilă pentru altarul și decorațiunile sale interioare.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -1716,6 +2094,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "St. John of Nepomuk Church",
+                  "text": "This Baroque Catholic church is located in the center of Gyömrő, notable for its valuable altarpiece and interior decoration.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ]
 }
@@ -1795,6 +2179,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Zichy-Schloss",
+                  "text": "Das barocke Zichy-Schloss beherbergt lokale Ausstellungen und Sammlungen zur Industriegeschichte von Várpalota.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Inotai Kühltürme",
+                  "text": "Die ikonischen Kühltürme des ehemaligen Kraftwerks Inota sind beeindruckende Zeugen der ungarischen Industriearchitektur.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -1825,6 +2221,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Zichy-kastély",
+                  "text": "A barokk stílusú Zichy-kastély helytörténeti kiállításoknak és ipartörténeti gyűjteményeknek ad otthont.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Inotai hűtőtornyok",
+                  "text": "Az egykori inotai erőmű ikonikus hűtőtornyai az ipari építészet lenyűgöző emlékei, kulturális rendezvények helyszínei.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -1855,6 +2263,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Castelul Zichy",
+                  "text": "Castelul baroc Zichy găzduiește expoziții de istorie locală și colecții despre trecutul industrial al orașului.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turnurile de răcire Inota",
+                  "text": "Turnurile de răcire emblematice ale fostei centrale Inota reprezintă monumente impresionante de arhitectură industrială.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -1885,6 +2305,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Zichy Castle",
+                  "text": "The baroque Zichy Castle houses local history exhibitions and industrial heritage collections of Várpalota.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Inota Cooling Towers",
+                  "text": "The iconic cooling towers of the former Inota power plant are impressive monuments of industrial architecture.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ]
 }
@@ -1964,6 +2396,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "recreational",
                   "confidence": "high",
                   "known": "true"
+            },
+            {
+                  "name": "Reformierte Kirche",
+                  "text": "Die reformierte Kirche der Stadt ist ein schlichtes, aber monumentales Gebäude aus dem 18. Jahrhundert im Zentrum.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -1994,6 +2432,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "recreational",
                   "confidence": "high",
                   "known": "true"
+            },
+            {
+                  "name": "Református templom",
+                  "text": "A város református temploma a település központjában álló, 18. századi, monumentális megjelenésű vallási épület.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -2024,6 +2468,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "recreational",
                   "confidence": "high",
                   "known": "true"
+            },
+            {
+                  "name": "Biserica Reformată",
+                  "text": "Biserica reformată a orașului este o clădire monumentală din secolul al XVIII-lea, situată în centrul localității.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -2054,6 +2504,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "recreational",
                   "confidence": "high",
                   "known": "true"
+            },
+            {
+                  "name": "Reformed Church",
+                  "text": "The town's Reformed church is a monumental 18th-century religious building located in the heart of the settlement.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ]
 }
@@ -2140,6 +2596,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Emese Park",
+                  "text": "Ein lebendiger Geschichtspark, der das Leben, Handwerk und die Kriegskunst der Ungarn des 10. Jahrhunderts präsentiert.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -2177,6 +2639,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Emese Park",
+                  "text": "Élő történeti park, amely a 10. századi magyarok életmódját, mesterségeit és hadművészetét mutatja be interaktívan.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -2214,6 +2682,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Parcul Emese",
+                  "text": "Un parc istoric viu care prezintă stilul de viață, meșteșugurile și arta militară a maghiarilor din secolul al X-lea.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -2251,6 +2725,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Emese Park",
+                  "text": "A living history park showcasing the lifestyle, crafts, and warfare of 10th-century Hungarians interactively.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ]
 }
@@ -2337,6 +2817,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Kő-hegy",
+                  "text": "Ein beliebtes Wanderziel im Visegráder Gebirge mit bizarren Felsformationen und einem herrlichen Panorama.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Klissza-Hügel",
+                  "text": "Eine archäologische Ausgrabungsstätte mit den Ruinen einer mittelalterlichen Kirche und Resten alter Siedlungen.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -2374,6 +2866,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Kő-hegy",
+                  "text": "Kedvelt túracélpont a Visegrádi-hegységben, különleges sziklaalakzatokkal és lenyűgöző kilátással a környékre.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Klissza-domb",
+                  "text": "Régészeti lelőhely középkori templomrommal és ősi települések nyomaival, ahonnan szép kilátás nyílik a völgyre.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -2411,6 +2915,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Muntele Kő",
+                  "text": "O destinație populară de drumeție în munții Visegrád, cu formațiuni stâncoase bizare și o panoramă superbă.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dealul Klissza",
+                  "text": "Un sit arheologic cu ruinele unei biserici medievale și urme ale unor așezări străvechi din valea Dunării.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -2448,6 +2964,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Kő Hill",
+                  "text": "A popular hiking destination in the Visegrád Mountains with unique rock formations and a stunning panoramic view.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Klissza Hill",
+                  "text": "An archaeological site featuring ruins of a medieval church and traces of ancient settlements in the valley.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ]
 }
@@ -2527,6 +3055,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Reformierte Kirche von Kerepes",
+                  "text": "Eine elegante evangelisch-reformierte Kirche, die ein wichtiger Treffpunkt für die lokale Kirchengemeinde ist.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -2557,6 +3091,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Kerepesi Református templom",
+                  "text": "Elegáns református templom, amely a helyi közösség fontos vallási és kulturális központjaként működik Kerepesen.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -2587,6 +3127,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Biserica Reformată din Kerepes",
+                  "text": "O biserică reformată elegantă, care servește ca un centru religios și cultural important pentru comunitatea locală.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -2617,6 +3163,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Reformed Church of Kerepes",
+                  "text": "An elegant Reformed church serving as an important religious and cultural center for the local community in Kerepes.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ]
 }
@@ -2703,6 +3255,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Sankt-Johannes-Kapelle",
+                  "text": "Eine kleine Barockkapelle aus dem 18. Jahrhundert, die ein wichtiger Ort für die lokale religiöse Tradition ist.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turjános-Naturschutzgebiet",
+                  "text": "Ein geschütztes Moorgebiet mit seltener Flora und Fauna, das ideale Bedingungen für Naturbeobachtungen bietet.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dabaser Rathaus",
+                  "text": "Ein elegantes klassizistisches Gebäude im Stadtzentrum, das den architektonischen Charakter der Stadt maßgeblich prägt.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -2740,6 +3310,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Szent János kápolna",
+                  "text": "A 18. században épült barokk kápolna a helyi vallási élet fontos helyszíne és értékes műemlék a városban.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dabasi-turjános",
+                  "text": "Országos jelentőségű természetvédelmi terület, amely ritka lápvidéki növényeknek és állatoknak ad otthont.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dabasi Városháza",
+                  "text": "A városközpont meghatározó klasszicista épülete, amely elegáns stílusával a helyi közigazgatás szimbóluma.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -2777,6 +3365,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Capela Sfântul Ioan",
+                  "text": "O mică capelă barocă din secolul al XVIII-lea, care este un loc important pentru tradiția religioasă locală din Dabas.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rezervația naturală Turjános",
+                  "text": "O zonă de mlaștină protejată, cu floră și faună rară, oferind condiții ideale pentru observarea naturii sălbatice.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria din Dabas",
+                  "text": "O clădire clasicistă elegantă situată în centrul orașului, care definește caracterul arhitectural al localității.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -2814,6 +3420,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Saint John Chapel",
+                  "text": "A small Baroque chapel built in the 18th century, serving as an important site for local religious traditions.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dabasi-turjános Nature Reserve",
+                  "text": "A protected marshland area of national importance, home to rare fen vegetation and various protected species.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dabas Town Hall",
+                  "text": "An elegant neoclassical building in the city center that significantly shapes the architectural character of the town.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ]
 }
@@ -2900,6 +3524,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "natural",
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Bokoder See mit schwimmenden Häusern",
+                  "text": "Ein malerischer See nahe der Stadt, bekannt für seine auf Holzpfählen errichteten Fischerhütten im Wasser.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Haraszt-Hügel-Lehrpfad",
+                  "text": "Ein Wanderweg am Fuße des Vértes-Gebirges, der die geologischen Besonderheiten und die lokale Flora erklärt.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -2937,6 +3573,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "natural",
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Bokodi horgásztó és úszóházak",
+                  "text": "A város melletti tó különlegessége a cölöpökre épült horgászházak sora, amelyek festői látványt nyújtanak.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Haraszt-hegyi tanösvény",
+                  "text": "A Vértes lábánál futó ösvény, amely bemutatja a környék sziklagyepeit és különleges geológiai értékeit.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -2974,6 +3622,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "natural",
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Lacul Bokodi cu case plutitoare",
+                  "text": "Un lac pitoresc lângă oraș, faimos pentru căsuțele de pescari construite pe piloni direct deasupra apei.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Traseul educativ Dealul Haraszt",
+                  "text": "Un traseu de drumeție la poalele munților Vértes, care explică particularitățile geologice și flora locală.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -3011,6 +3671,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "category": "natural",
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Lake Bokod Floating Houses",
+                  "text": "A picturesque lake near the town, famous for its rows of wooden fishing huts built on stilts over the water.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Haraszt Hill Nature Trail",
+                  "text": "A hiking trail at the foot of the Vértes Mountains showcasing local geological features and unique rock flora.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ]
 }
@@ -3116,6 +3788,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Magdolna-Quelle",
+                  "text": "Eine idyllisch gelegene Quelle im Gödöllő-Hügelland, die ein beliebter Rastplatz für Wanderer und Naturfreunde ist.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Csunya-Wald",
+                  "text": "Ein ausgedehntes Waldgebiet am Stadtrand von Pécel, ideal für lange Spaziergänge und Naturbeobachtungen.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schlosspark Ráday",
+                  "text": "Der historische Park rund um das Schloss Ráday bietet alte Bäume und eine friedliche Atmosphäre für Besucher.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -3172,6 +3862,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Magdolna-forrás",
+                  "text": "A Gödöllői-dombság szélén található tiszta vizű forrás kedvelt kirándulóhely és pihenőpont az erdőben.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Csunya-erdő",
+                  "text": "Pécel határában elterülő vadregényes erdőség, amely változatos terepével vonzza a túrázni vágyókat.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ráday-kastélypark",
+                  "text": "A kastélyt övező angolpark évszázados fáival és gondozott sétányaival kellemes kikapcsolódást nyújt.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -3228,6 +3936,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Izvorul Magdolna",
+                  "text": "Un izvor situat idilic în dealurile Gödöllő, fiind un loc de popas popular pentru drumeți și iubitorii de natură.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pădurea Csunya",
+                  "text": "O zonă forestieră extinsă la marginea orașului Pécel, ideală pentru plimbări lungi și observarea faunei locale.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Castelului Ráday",
+                  "text": "Parcul istoric care înconjoară castelul Ráday oferă arbori seculari și o atmosferă liniștită pentru vizitatori.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -3284,6 +4010,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Magdolna Spring",
+                  "text": "An idyllic spring in the Gödöllő Hills, serving as a favorite resting spot for hikers and nature enthusiasts.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Csunya Forest",
+                  "text": "A vast forested area on the outskirts of Pécel, offering various trails for hiking and peaceful nature walks.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ráday Mansion Park",
+                  "text": "The English-style park surrounding the Ráday Mansion features century-old trees and well-kept walking paths.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ]
 }
@@ -3447,6 +4191,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Nyíres-See",
+                  "text": "Ein Naturschutzgebiet mit geschützten Sumpfpflanzen und einer reichen Vogelwelt in der Nähe der Stadt.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Veres Péter Kulturzentrum",
+                  "text": "Ein modernes Zentrum für kulturelle Programme, Ausstellungen und Theateraufführungen im Herzen der Stadt.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -3561,6 +4317,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Nyíres-tó",
+                  "text": "A várostól nem messze található természetvédelmi terület ritka vízi növényekkel és gazdag madárvilággal.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Veres Péter Kulturális Központ",
+                  "text": "A város szívében található modern intézmény koncerteknek, kiállításoknak és közösségi eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -3675,6 +4443,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Lacul Nyíres",
+                  "text": "O rezervație naturală cu plante de mlaștină protejate și o avifaună bogată, situată în apropierea orașului.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Centrul Cultural Veres Péter",
+                  "text": "Un centru modern pentru programe culturale, expoziții și spectacole de teatru în inima orașului Balmazújváros.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -3789,6 +4569,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Nyíres Lake",
+                  "text": "A nature reserve near the town preserving rare aquatic plants and providing habitat for numerous bird species.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Veres Péter Cultural Center",
+                  "text": "A modern venue in the city center hosting concerts, theatrical performances, and various community events.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ]
 }
@@ -3963,6 +4755,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Lokalhistorische Sammlung",
+                  "text": "Das Museum zeigt die reiche Geschichte der Hajduken-Siedlung und die traditionelle bäuerliche Lebensweise.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Haus der lokalen Produkte (Nánási Portéka)",
+                  "text": "Ein Ort, an dem handwerkliche Lebensmittel und traditionelle Waren lokaler Erzeuger präsentiert werden.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Somlyai-Wald",
+                  "text": "Ein geschütztes Waldgebiet mit alten Eichen, das ein wichtiger ökologischer Ort für die heimische Tierwelt ist.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -4088,6 +4898,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Helytörténeti Gyűjtemény",
+                  "text": "A múzeum a hajdúváros múltját, néprajzi értékeit és a hagyományos gazdálkodás emlékeit mutatja be.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nánási Portéka",
+                  "text": "A helyi termelők boltja és közösségi tere, ahol kézműves élelmiszereket és nánási termékeket lehet vásárolni.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Somlyai-erdő",
+                  "text": "Hajdúnánás határában fekvő védett tölgyerdő, amely gazdag élővilágával fontos természetvédelmi terület.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -4213,6 +5041,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Colecția de Istorie Locală",
+                  "text": "Muzeul prezintă istoria bogată a așezării haiducilor și modul tradițional de viață al țăranilor din regiune.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Produselor Locale (Nánási Portéka)",
+                  "text": "Un loc unde sunt prezentate alimente artizanale și mărfuri tradiționale ale producătorilor locali.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pădurea Somlyai",
+                  "text": "O zonă forestieră protejată cu stejari seculari, fiind un sit ecologic important pentru fauna locală.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -4338,6 +5184,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Local History Collection",
+                  "text": "The museum showcases the rich history of the Hajduk settlement and the traditional rural way of life.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "House of Local Products (Nánási Portéka)",
+                  "text": "A community space and shop where artisanal food and traditional goods from local producers are sold.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Somlyai Forest",
+                  "text": "A protected oak forest near Hajdúnánás, serving as an important ecological site for regional wildlife.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ]
 }
@@ -4512,6 +5376,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Csergezán-Pál-Aussichtsturm",
+                  "text": "Ein markanter, segelförmiger Holzturm auf dem Gipfel des Berges Nagy-Kopasz, der ein 360-Grad-Panorama bietet.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Makkosmária-Wallfahrtskirche",
+                  "text": "Eine barocke Pilgerkirche in den Wäldern bei Budakeszi, die ein bedeutendes Ziel für Wanderer und Gläubige ist.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Széchenyi-Zsigmond-Denkmal",
+                  "text": "Eine Statue zu Ehren des berühmten ungarischen Jägers und Schriftstellers Zsigmond Széchenyi im Stadtzentrum.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -4637,6 +5519,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Csergezán Pál-kilátó",
+                  "text": "A Budai-hegység legmagasabb pontján, a Nagy-Kopaszon álló, különleges vitorla alakú fa kilátó, teljes körpanorámával.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Makkosmária kegytemplom",
+                  "text": "Kedvelt erdei zarándokhely és barokk templom Budakeszi határában, amely fontos megálló a túraútvonalak mentén.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Széchenyi Zsigmond-szobor",
+                  "text": "A híres magyar vadász és író emlékére állított szobor Budakeszi központjában, az erdőgazdaság közelében.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -4762,6 +5662,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Turnul de belvedere Csergezán Pál",
+                  "text": "Un turn de lemn în formă de velă pe vârful dealului Nagy-Kopasz, oferind o panoramă circulară asupra munților Buda.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica de pelerinaj Makkosmária",
+                  "text": "O biserică barocă situată în pădure, un loc tradițional de pelerinaj și un punct de popas pentru drumeți.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia lui Széchenyi Zsigmond",
+                  "text": "Un monument dedicat celebrului vânător și scriitor maghiar, situat în zona centrală a orașului Budakeszi.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -4887,6 +5805,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Csergezán Pál Lookout Tower",
+                  "text": "A unique, sail-shaped wooden lookout tower on the peak of Nagy-Kopasz hill, offering a full 360-degree panorama.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Makkosmária Pilgrimage Church",
+                  "text": "A baroque pilgrimage church located in the woods near Budakeszi, serving as a popular destination for hikers.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zsigmond Széchenyi Statue",
+                  "text": "A monument dedicated to the famous Hungarian hunter and author, located in the central part of the town.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ]
 }
@@ -5050,6 +5986,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Nyakas-kő-Felsformation",
+                  "text": "Eine markante, überhängende Klippe bei Biatorbágy, die ein beliebtes Wanderziel mit Blick auf das Zsámbék-Becken ist.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kálvária-Hügel",
+                  "text": "Ein Hügel mit einem Kreuzweg, von dessen Gipfel man eine schöne Aussicht auf den berühmten Eisenbahnviadukt hat.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -5164,6 +6112,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Nyakas-kő",
+                  "text": "Biatorbágy jellegzetes, hajlott sziklaformációja, amelyről lenyűgöző kilátás nyílik a környező Zsámbéki-medencére.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kálvária-hegy",
+                  "text": "A település szélén magasodó domb stációkkal, tetejéről panorámás kilátás nyílik a viaduktra és a városra.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -5278,6 +6238,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Formațiunea stâncoasă Nyakas-kő",
+                  "text": "O stâncă proeminentă lângă Biatorbágy, populară pentru drumeții datorită formei sale unice și a panoramei oferite.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dealul Calvariei",
+                  "text": "Un deal situat la marginea localității cu un drum al crucii, oferind o perspectivă superbă asupra viaductului istoric.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -5392,6 +6364,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Nyakas-kő Rock Formation",
+                  "text": "A distinctive, overhanging rock formation near Biatorbágy that provides stunning views of the Zsámbék Basin.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Calvary Hill",
+                  "text": "A hill featuring a stations of the cross walk, offering a great panoramic view of the viaduct and the town.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ]
 }
@@ -5544,6 +6528,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Pistály-Tal",
+                  "text": "Ein malerisches Tal am Rande von Törökbálint, das für seine Weinberge, Obstgärten und ruhigen Wanderwege bekannt ist.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Denkmal für die Vertriebenen",
+                  "text": "Ein Denkmal im Zentrum der Stadt, das an die Zwangsaussiedlung der deutschen Bevölkerung nach 1945 erinnert.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -5647,6 +6643,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Pistályi-völgy",
+                  "text": "Törökbálint határában fekvő hangulatos völgy, amely szőlőskertjeiről, gyümölcsöseiről és kirándulóhelyeiről ismert.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kitelepítési emlékmű",
+                  "text": "A település központjában álló mementó, amely a második világháború után kitelepített német lakosságnak állít emléket.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -5750,6 +6758,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Valea Pistály",
+                  "text": "O vale pitorească la marginea localității Törökbálint, cunoscută pentru podgoriile sale și traseele de relaxare.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monumentul celor expulzați",
+                  "text": "Un monument situat în centrul orașului care comemorează expulzarea populației germane locale după al Doilea Război Mondial.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -5853,6 +6873,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Pistály Valley",
+                  "text": "A scenic valley on the outskirts of Törökbálint, famous for its vineyards, orchards, and peaceful hiking paths.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monument to the Displaced",
+                  "text": "A memorial in the town center commemorating the forced displacement of the local German population after WWII.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ]
 }
@@ -6016,6 +7048,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Thermalbad Abony",
+                  "text": "Ein Thermal- und Strandbad mit Heilwasser, das Erholung und Badespaß für Einheimische und Besucher bietet.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lajos-Kossuth-Statue",
+                  "text": "Ein klassisches Denkmal auf dem Hauptplatz der Stadt zur Erinnerung an den Führer der Revolution von 1848.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -6130,6 +7174,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Abonyi Termálfürdő",
+                  "text": "Helyi jelentőségű gyógyvizes fürdő és strand, amely nyáron kedvelt kikapcsolódási helyszín a városban.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kossuth Lajos-szobor",
+                  "text": "A város főterén álló monumentális alkotás, amely az 1848–49-es szabadságharc vezetőjének állít emléket.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -6244,6 +7300,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Ștrandul Termal Abony",
+                  "text": "Un centru balnear local cu apă termală curativă, oferind facilități de recreere și înot pe timp de vară.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia lui Kossuth Lajos",
+                  "text": "Un monument situat în piața principală a orașului, dedicat liderului revoluției maghiare de la 1848.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -6358,6 +7426,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Abony Thermal Bath",
+                  "text": "A local thermal bath and open-air swimming pool with medicinal waters, providing relaxation and recreation.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lajos Kossuth Statue",
+                  "text": "A monumental statue located in the main square of the town, commemorating the leader of the 1848 revolution.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ]
 }
@@ -6503,6 +7583,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Bergmanns-Gedenkhaus",
+                  "text": "Ein kleines Museum, das die Geschichte des Braunkohlebergbaus und die Traditionen von Pilisvörösvár präsentiert.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ligeti-tó",
+                  "text": "Ein idyllischer kleiner See am Stadtrand, der als Naherholungsgebiet für Spaziergänge und zum Angeln dient.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -6599,6 +7691,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Bányász-emlékház",
+                  "text": "A település egykori szénbányászati múltját és a helyi német nemzetiségi hagyományokat bemutató kiállítóhely.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ligeti-tó",
+                  "text": "Hangulatos kis tó a város szélén, amely kedvelt sétahely és horgászvíz a helyi lakosok körében.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -6695,6 +7799,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Casa Memorială a Minerilor",
+                  "text": "Un mic muzeu care prezintă istoria exploatării cărbunelui și tradițiile comunității germane din localitate.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lacul Ligeti",
+                  "text": "Un lac liniștit la marginea orașului, utilizat de localnici ca spațiu de agrement pentru plimbări și pescuit.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -6791,6 +7907,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Miner's Memorial House",
+                  "text": "A small museum showcasing the history of coal mining and the local German national traditions of the town.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ligeti Lake",
+                  "text": "A charming small lake on the edge of the town, popular among locals for walks and recreational fishing.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ]
 }
@@ -6907,6 +8035,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "II. Rákóczi Ferenc Kulturzentrum",
+                  "text": "Das zentrale Gebäude für kulturelle Veranstaltungen und Gemeinschaftsprogramme in der Stadt, das Ausstellungen und lokale Aufführungen beherbergt.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -6974,6 +8108,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "II. Rákóczi Ferenc Művelődési Ház",
+                  "text": "A város kulturális életének központja, amely számos kiállításnak, előadásnak és közösségi programnak ad otthont egész évben.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -7041,6 +8181,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Centrul Cultural II. Rákóczi Ferenc",
+                  "text": "Centrul principal pentru evenimente culturale și întâlniri comunitare din oraș, găzduind diverse expoziții și spectacole locale.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -7108,6 +8254,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "II. Rákóczi Ferenc Cultural Center",
+                  "text": "The central hub for cultural events and community gatherings in the town, hosting various exhibitions and local performances.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ]
 }
@@ -7275,6 +8427,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Millenniumsdenkmal",
+                  "text": "Ein Denkmal zur Erinnerung an den 1000. Jahrestag der Gründung des ungarischen Staates, das sich in einem öffentlichen Bereich befindet.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -7393,6 +8551,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Millenniumi Emlékmű",
+                  "text": "A magyar államalapítás ezredik évfordulója alkalmából emelt emlékhely a város egyik központi közterületén található.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -7511,6 +8675,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Monumentul Mileniului",
+                  "text": "Un monument care comemorează cea de-a 1000-a aniversare a întemeierii statului maghiar, situat într-o zonă publică a orașului.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -7629,6 +8799,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Millennium Monument",
+                  "text": "A monument commemorating the 1000th anniversary of the founding of the Hungarian state, located in a public area of the town.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ]
 }
@@ -7796,6 +8972,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Simándy József Kulturhaus",
+                  "text": "Das nach dem berühmten Tenor benannte Zentrum beherbergt lokale Theateraufführungen, Konzerte und verschiedene kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -7914,6 +9096,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Simándy József Művelődési Ház",
+                  "text": "A híres tenorról elnevezett központ a helyi előadások, koncertek és különböző kulturális rendezvények helyszíne a közösség számára.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -8032,6 +9220,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Casa de Cultură Simándy József",
+                  "text": "Centrul numit după celebrul tenor găzduiește spectacole de teatru locale, concerte și diverse evenimente culturale pentru comunitate.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -8150,6 +9344,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Simándy József Cultural House",
+                  "text": "Named after the famous tenor, this center hosts local theatrical performances, concerts, and various cultural events for the community.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ]
 }
@@ -8346,6 +9546,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Petőfi-Sándor-Statue",
+                  "text": "Die imposante Statue des weltberühmten Dichters befindet sich auf dem zentralen Platz der Stadt und dient als bedeutende Gedenkstätte.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Petőfi-Skulpturenpark",
+                  "text": "Eine Sammlung von Statuen ausländischer Dichter, die die Werke von Petőfi in ihre Sprachen übersetzt haben, nahe dem Geburtshaus.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -8493,6 +9705,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Petőfi Sándor-szobor",
+                  "text": "A világhírű költő impozáns szobra a város központi terén található, amely a település egyik legfontosabb emlékhelyeként szolgál.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Petőfi-szoborpark",
+                  "text": "Olyan külföldi költők szobrainak gyűjteménye a múzeum mellett, akik Petőfi Sándor műveit lefordították saját anyanyelvükre.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -8640,6 +9864,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Statuia lui Petőfi Sándor",
+                  "text": "Statuia impunătoare a poetului de renume mondial se află în piața centrală a orașului, servind ca un loc memorial semnificativ.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul de sculpturi Petőfi",
+                  "text": "O colecție de statui ale poeților străini care au tradus operele lui Petőfi în limbile lor, situată lângă muzeul casei natale.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -8787,6 +10023,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Petőfi Sándor Statue",
+                  "text": "The imposing statue of the world-famous poet is located in the main square of the town, serving as a significant memorial site.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Petőfi Sculpture Park",
+                  "text": "A collection of statues of foreign poets who translated Petőfi's works into their own languages, located near the birthplace museum.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ]
 }
@@ -8954,6 +10202,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Stadtbibliothek und Heimatmuseum",
+                  "text": "Beinhaltet lokale historische Artefakte und Dokumente zur Geschichte der Region Hajdúság und fördert den Erhalt des kulturellen Erbes.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -9072,6 +10326,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Városi Könyvtár és Helytörténeti Gyűjtemény",
+                  "text": "Helyi történelmi emlékeket és a Hajdúság múltját bemutató dokumentumokat őriz az intézmény, segítve a helyi örökség megőrzését.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -9190,6 +10450,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Biblioteca Orășenească și Muzeul Local",
+                  "text": "Adăpostește artefacte istorice locale și documente despre trecutul regiunii Hajdúság, promovând conservarea moștenirii locale.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -9308,6 +10574,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "City Library and Local History Collection",
+                  "text": "It houses local historical artifacts and documents related to the Hajdúság region's past, promoting the preservation of local heritage.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ]
 }
@@ -9482,6 +10754,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Trianon-Denkmal",
+                  "text": "Das Denkmal auf dem Hauptplatz erinnert an den Friedensvertrag von Trianon und symbolisiert den nationalen Zusammenhalt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Skulpturenpark",
+                  "text": "In diesem Park in der Nähe des Bades können Werke zeitgenössischer Bildhauer im Freien besichtigt werden.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -9607,6 +10891,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Trianon-emlékmű",
+                  "text": "A város főterén álló alkotás a trianoni békeszerződésre emlékeztet, jelképezve a nemzeti összetartozást.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szoborpark",
+                  "text": "A fürdő közelében található parkban kortárs szobrászművészek alkotásai tekinthetők meg szabadtéri környezetben.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -9732,6 +11028,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Monumentul Trianon",
+                  "text": "Monumentul din piața centrală comemorează Tratatul de la Trianon, simbolizând unitatea națională a maghiarilor.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul de sculpturi",
+                  "text": "În parcul situat lângă băi pot fi admirate lucrări ale sculptorilor contemporani într-un cadru natural deschis.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -9857,6 +11165,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Trianon Monument",
+                  "text": "Located in the main square, this monument commemorates the Treaty of Trianon, symbolizing national unity and identity.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sculpture Park",
+                  "text": "Located near the spa, this park features works by contemporary sculptors displayed in an open-air environment.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ]
 }
@@ -10024,6 +11344,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Städtische Sporthalle",
+                  "text": "Eine moderne Gemeinschafts- und Sportstätte, in der das ganze Jahr über zahlreiche lokale Veranstaltungen stattfinden.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Heiliger-Stephan-Statue",
+                  "text": "Die würdevolle Statue, die den staatsgründenden König darstellt, ist ein wichtiger Treffpunkt in der Stadtmitte.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -10142,6 +11474,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Városi Sportcsarnok",
+                  "text": "Modern közösségi és sportlétesítmény, amely számos helyi rendezvénynek és versenynek ad otthont az év során.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent István szobor",
+                  "text": "Az államalapító királyunkat ábrázoló méltóságteljes szobor a város egyik fontos közösségi találkozóhelye.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -10260,6 +11604,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Sala de Sport a Orașului",
+                  "text": "O facilitate modernă comunitară și sportivă care găzduiește numeroase evenimente locale și competiții pe tot parcursul anului.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia Sfântului Ștefan",
+                  "text": "Statuia maiestuoasă a regelui ctitor de stat este un punct important de întâlnire pentru comunitate în centrul orașului.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -10378,6 +11734,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "City Sports Hall",
+                  "text": "A modern community and sports facility that hosts numerous local events and competitions throughout the year.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statue of Saint Stephen",
+                  "text": "This majestic statue of the state-founding king is a significant gathering spot and landmark for the local community.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ]
 }
@@ -10603,6 +11971,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Alter jüdischer Friedhof",
+                  "text": "Ein weltberühmter Wallfahrtsort, an dem der Wunderrabbi Teitelbaum Moses ruht. Ein wichtiges Zentrum des Chassidismus.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ungvári-Kellerreihe",
+                  "text": "Ein zum Weltkulturerbe gehörendes pincerendszer, das die besondere Atmosphäre des Weinguts Tokaj ausstrahlt.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zsólyomka-Kellerreihe",
+                  "text": "Eine gemütliche Kellerreihe am Fuße des Berges, wo traditionelle Keller und exzellente Tokajer Weine warten.",
+                  "category": "culinary",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -10779,6 +12165,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Régi zsidó temető",
+                  "text": "Világhírű zarándokhely, ahol a híres csodarabbi, Teitelbaum Mózes nyugszik. A hászid zsidóság fontos központja.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ungvári pincesor",
+                  "text": "A világörökség részét képező többszintes pincerendszer, amely a tokaji borvidék különleges hangulatát árasztja.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zsólyomkai pincesor",
+                  "text": "Hangulatos pincesor a hegy lábánál, ahol hagyományos pincék és kiváló tokaji borok várják a látogatókat.",
+                  "category": "culinary",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -10955,6 +12359,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Vechiul cimitir evreiesc",
+                  "text": "Un loc de pelerinaj renumit, unde se află mormântul rabinului Moses Teitelbaum, un centru hasidic important.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pivnițele Ungvári",
+                  "text": "Un sistem de pivnițe pe mai multe niveluri, parte a Patrimoniului Mondial, reflectând tradiția viticolă din Tokaj.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pivnițele Zsólyomka",
+                  "text": "Un șir pitoresc de pivnițe la poalele muntelui, unde vinurile de Tokaj își așteaptă vizitatorii într-un decor rustic.",
+                  "category": "culinary",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -11131,6 +12553,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Old Jewish Cemetery",
+                  "text": "A world-famous pilgrimage site housing the tomb of the 'miracle rabbi' Moses Teitelbaum, a key Hasidic center.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ungvári Cellar Row",
+                  "text": "Part of the UNESCO World Heritage, this multi-level cellar system showcases the history of the Tokaj wine region.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zsólyomka Cellar Row",
+                  "text": "A charming row of wine cellars at the foot of the hill, offering traditional settings and excellent local wines.",
+                  "category": "culinary",
+                  "confidence": "high"
             }
       ]
 }
@@ -11320,6 +12760,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "MagHáz Kulturzentrum",
+                  "text": "Das moderne Kulturzentrum der Stadt, in dem Ausstellungen, Konzerte und Gemeinschaftsprogramme organisiert werden.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -11460,6 +12906,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "MagHáz",
+                  "text": "A város modern kulturális központja, ahol kiállításokat, koncerteket és közösségi programokat szerveznek.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -11600,6 +13052,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Centrul Cultural MagHáz",
+                  "text": "Centrul cultural modern al orașului, unde sunt organizate expoziții, concerte și diverse programe comunitare.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -11740,6 +13198,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "MagHáz Cultural Center",
+                  "text": "The city's modern cultural hub, hosting various exhibitions, concerts, and community programs for all ages.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ]
 }
@@ -11907,6 +13371,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Fehér-szik Naturschutzgebiet",
+                  "text": "Ein besonderer Sodasee und Naturschutzgebiet am Rande der Stadt, das eine reiche Vogelwelt beherbergt.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -12025,6 +13495,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Fehér-szik",
+                  "text": "Különleges szikes tó és természetvédelmi terület a város határában, amely gazdag madárvilágnak ad otthont.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -12143,6 +13619,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Rezervația Fehér-szik",
+                  "text": "Un lac sărat special și o rezervație naturală la marginea orașului, ce găzduiește o faună ornitologică bogată.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -12261,6 +13743,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Fehér-szik Nature Reserve",
+                  "text": "A unique saline lake and nature reserve on the outskirts of the town, providing habitat for diverse bird species.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ]
 }
@@ -12450,6 +13938,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Lupa-Insel",
+                  "text": "Eine der einzigartigsten Inseln der Donau, bekannt für ihre modernistischen Bauhaus-Villen aus den 1930er Jahren und ihre autofreie Ruhe.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Silberberg (Ezüst-hegy)",
+                  "text": "Ein beliebtes Wanderziel im Pilis-Gebirge mit alten Steinbrüchen, das einen Panoramablick auf das Donauknie und die Umgebung von Budapest bietet.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -12590,6 +14090,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Lupa-sziget",
+                  "text": "A Duna egyik legkülönlegesebb szigete, amely híres az 1930-as években épült modernista Bauhaus nyaralóiról és autómentes nyugalmáról.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ezüst-hegy",
+                  "text": "Népszerű túracélpont a Pilisben, amely régi kőfejtőiről és a Dunakanyarra, valamint Budapest környékére nyíló panorámájáról ismert.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -12730,6 +14242,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Insula Lupa",
+                  "text": "Una dintre cele mai deosebite insule ale Dunării, faimoasă pentru vilele sale în stil Bauhaus din anii 1930 și liniștea fără mașini.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dealul Ezüst-hegy",
+                  "text": "O destinație populară de drumeție în Munții Pilis, cunoscută pentru carierele vechi de piatră și panorama asupra Cotului Dunării.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -12870,6 +14394,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Lupa Island",
+                  "text": "One of the most unique islands in the Danube, famous for its modernist Bauhaus villas built in the 1930s and its car-free tranquility.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ezüst-hegy (Silver Hill)",
+                  "text": "A popular hiking destination in the Pilis Mountains, known for its old quarries and panoramic views of the Danube Bend.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ]
 }
@@ -13059,6 +14595,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Sankt-Elisabeth-Platz",
+                  "text": "Der zentrale Platz der Stadt, der als Gemeinschaftszentrum dient und Standort verschiedener lokaler Denkmäler und Veranstaltungen ist.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -13199,6 +14741,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Szent Erzsébet tér",
+                  "text": "A település központi tere, amely közösségi találkozóhelyként szolgál, és számos helyi emlékműnek, valamint rendezvénynek ad otthont.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -13339,6 +14887,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Piața Sfânta Elisabeta",
+                  "text": "Piața centrală a orașului, care servește ca centru comunitar și găzduiește diverse monumente locale și evenimente.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -13479,6 +15033,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "St. Elizabeth Square",
+                  "text": "The central square of the town, serving as a community hub and home to various local monuments and public events.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ]
 }
@@ -13653,6 +15213,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "inferred"
+            },
+            {
+                  "name": "Gerje-Quellgebiet",
+                  "text": "Ein Naturschutzgebiet an der Quelle des Gerje-Bachs, das für seine charakteristische Sumpfflora und Wanderwege bekannt ist.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -13778,6 +15344,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "inferred"
+            },
+            {
+                  "name": "Gerje-forrás vidéke",
+                  "text": "A Gerje-patak forrásvidéke védett természeti terület, amely jellegzetes lápi flórájáról és kellemes sétaútjairól nevezetes.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -13903,6 +15475,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "inferred"
+            },
+            {
+                  "name": "Zona izvoarelor Gerje",
+                  "text": "O zonă naturală protejată la izvoarele pârâului Gerje, cunoscută pentru flora sa specifică de mlaștină și traseele de plimbare.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -14028,6 +15606,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "inferred"
+            },
+            {
+                  "name": "Gerje Spring Area",
+                  "text": "A protected natural area at the source of the Gerje stream, noted for its characteristic marshland flora and pleasant walking paths.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ]
 }
@@ -14195,6 +15779,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Bárány-Kurie (Stadtbibliothek)",
+                  "text": "Ein ehemaliges Herrenhaus, das heute die Stadtbibliothek beherbergt und ein wichtiges architektonisches Erbe der Region darstellt.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -14313,6 +15903,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Bárány-kúria (Városi Könyvtár)",
+                  "text": "Egykori nemesi kúria, amely ma a városi könyvtárnak ad otthont, és a település egyik fontos építészeti öröksége.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -14431,6 +16027,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Conacul Bárány (Biblioteca)",
+                  "text": "Un fost conac nobiliar care astăzi găzduiește biblioteca orașului, reprezentând o moștenire arhitecturală importantă a zonei.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -14549,6 +16151,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Bárány Mansion (City Library)",
+                  "text": "A former noble residence that now houses the city library, standing as an important architectural heritage of the town.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ]
 }
@@ -14752,6 +16360,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Seufzerbrücke",
+                  "text": "Eine kleine Holzbrücke in der Nähe des Liget-Bades, die wegen ihrer romantischen Gestaltung oft mit Venedig verglichen wird.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sirató-Totarm der Körös",
+                  "text": "Ein malerischer Altarm des Flusses Körös, der ein beliebtes Ziel für Angler, Naturliebhaber und zur aktiven Erholung ist.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -14906,6 +16526,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Sóhajok hídja",
+                  "text": "A Liget fürdő közelében található kisméretű fahíd, amelyet romantikus hangulata miatt gyakran emlegetnek a velencei híd után.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sirató-holtág",
+                  "text": "A Hármas-Körös egyik festői holtága, amely a horgászok, a természetjárók és a vízi sportok kedvelőinek népszerű célpontja.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -15060,6 +16692,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Podul Suspinelor",
+                  "text": "Un mic pod de lemn situat lângă băile Liget, denumit astfel datorită atmosferei sale romantice care amintește de Veneția.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brațul mort Sirató",
+                  "text": "Un braț pitoresc al râului Criș, care este o destinație populară pentru pescari, iubitorii de natură și recreere activă.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -15214,6 +16858,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Bridge of Sighs",
+                  "text": "A small wooden bridge located near the Liget Spa, often compared to its Venetian namesake due to its romantic atmosphere.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sirató Dead-arm of Körös",
+                  "text": "A picturesque oxbow lake of the Körös river, which is a popular spot for fishing, nature walks, and active recreation.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ]
 }
@@ -15370,6 +17026,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Diósd-Plateau",
+                  "text": "Teil des Nationalparks Donau-Ipoly, mit geschützter Flora und Panorama-Wanderwegen auf dem Kalksteinplateau.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Reformierte Kirche Diósd",
+                  "text": "Die moderne reformierte Kirche der Siedlung, die als wichtiges Gemeinde- und Glaubenszentrum fungiert.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Heiliger-Stephan-Statue",
+                  "text": "Eine zu Ehren unseres Staatsgründerkönigs errichtete Statue, ein zentraler Ort für festliche Gedenkfeiern.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -15477,6 +17151,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Diósdi-fennsík",
+                  "text": "A Duna–Ipoly Nemzeti Park része, védett növényvilággal és panorámás sétányokkal a mészkőfennsíkon.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Diósdi Református Templom",
+                  "text": "A település modern református temploma, amely fontos közösségi és hitéleti központként működik.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent István-szobor",
+                  "text": "Az államalapító királyunk tiszteletére emelt köztéri szobor, az ünnepi megemlékezések egyik központi helyszíne.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -15584,6 +17276,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Platoul Diósd",
+                  "text": "Parte a Parcului Național Dunăre-Ipoly, cu floră protejată și trasee panoramice pe platoul de calcar.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Reformată din Diósd",
+                  "text": "Biserica reformată modernă a localității, care funcționează ca un important centru comunitar și religios.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia Sfântului Ștefan",
+                  "text": "Statuie ridicată în onoarea regelui fondator al statului, fiind un loc central pentru comemorările festive.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -15691,6 +17401,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Diósd Plateau",
+                  "text": "Part of the Danube-Ipoly National Park, featuring protected flora and panoramic trails on the limestone plateau.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Reformed Church of Diósd",
+                  "text": "The modern Reformed church of the settlement, serving as an important community and religious center.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statue of Saint Stephen",
+                  "text": "A public statue erected in honor of our state-founding king, serving as a central site for festive commemorations.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ]
 }
@@ -15825,6 +17553,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Arany János Kulturzentrum",
+                  "text": "Städtisches Kulturzentrum, in dem Theateraufführungen, Konzerte und Gemeinschaftsprogramme stattfinden.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aussichtsturm am Tisza-Ufer",
+                  "text": "Ein hölzerner Aussichtsturm mit Blick auf die Theiß-Schleife und die Auenwälder, ein beliebtes Ausflugsziel.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -15910,6 +17650,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Arany János Művelődési Központ",
+                  "text": "Városi kulturális központ, ahol színházi előadásokat, koncerteket és közösségi programokat rendeznek.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tisza-parti Kilátó",
+                  "text": "A Tisza kanyarulatára és az ártéri erdőkre néző fa kilátó, kedvelt kirándulóhely a természetjáróknak.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -15995,6 +17747,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Centrul Cultural Arany János",
+                  "text": "Centru cultural orășenesc, unde se organizează spectacole de teatru, concerte și programe comunitare.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turn de observație de pe malul Tisei",
+                  "text": "Turn de observație din lemn cu vedere spre cotul Tisei și pădurile inundabile, loc popular pentru drumeții.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -16080,6 +17844,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Arany János Cultural Center",
+                  "text": "Urban cultural center hosting theatrical performances, concerts, and various community programs and events.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tisza Riverbank Lookout",
+                  "text": "Wooden lookout tower overlooking the Tisza river bend and floodplain forests, a popular destination for hikers.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ]
 }
@@ -16218,6 +17994,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Gábor-Áron-Statue",
+                  "text": "Denkmal für den Helden der Revolution von 1848/49 und Kanonengießer Gábor Áron im Stadtzentrum.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bahnhof Isaszeg",
+                  "text": "Ein architektonisch schönes, historisches Bahnhofsgebäude an der wichtigen Bahnstrecke Budapest-Hatvan.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Petőfi-Baum von Isaszeg",
+                  "text": "Ein Gedenkort mit einer alten Stieleiche, unter der sich laut Legende Sándor Petőfi in Isaszeg ausruhte.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -16307,6 +18101,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Gábor Áron-szobor",
+                  "text": "Az 1848–49-es szabadságharc hős ágyúöntőjének emléket állító szobor a település központjában.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Isaszegi vasútállomás",
+                  "text": "Szép architektúrájú, patinás vasútállomás épület, amely a Budapest-Hatvan vasútvonal egyik fontos állomása.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Isaszegi Petőfi-fa",
+                  "text": "Az emlékhely egy ősi kocsányos tölgy, amelynél a legenda szerint Petőfi Sándor is megpihent Isaszegen.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -16396,6 +18208,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Statuia lui Gábor Áron",
+                  "text": "Statuie ridicată în centrul localității în memoria eroului turnător de tunuri din revoluția de la 1848-49.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gara Isaszeg",
+                  "text": "Clădire de gară istorică cu o arhitectură frumoasă, stație importantă pe linia ferată Budapesta-Hatvan.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stejarul lui Petőfi din Isaszeg",
+                  "text": "Un loc memorial cu un stejar secular unde, conform legendei, Sándor Petőfi s-ar fi odihnit în Isaszeg.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -16485,6 +18315,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Gábor Áron Statue",
+                  "text": "Statue in the center of the settlement commemorating the heroic cannon founder of the 1848–49 revolution.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Isaszeg Railway Station",
+                  "text": "Historically significant railway station building with beautiful architecture on the Budapest-Hatvan line.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Petőfi Tree of Isaszeg",
+                  "text": "A memorial site featuring an ancient oak tree where, according to legend, Sándor Petőfi rested in Isaszeg.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ]
 }
@@ -16630,6 +18478,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Lokalgeschichtliche Sammlung",
+                  "text": "Ausstellung im Kulturzentrum, die die Vergangenheit, Folklore und landwirtschaftlichen Geräte der Siedlung zeigt.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Trianon-Denkmal",
+                  "text": "Öffentliches Denkmal zum Gedenken an den Friedensvertrag von Trianon, das die nationale Einheit symbolisiert.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -16726,6 +18586,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Helytörténeti Gyűjtemény",
+                  "text": "A település múltját, néprajzi emlékeit és mezőgazdasági eszközeit bemutató kiállítás a kulturális központban.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Trianon-emlékmű",
+                  "text": "A trianoni békediktátum emlékére állított köztéri emlékmű, amely a nemzeti összetartozást jelképezi.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -16822,6 +18694,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Colecția de Istorie Locală",
+                  "text": "Expoziție în centrul cultural care prezintă trecutul, amintirile etnografice și uneltele agricole locale.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monumentul Trianon",
+                  "text": "Monument public ridicat în memoria tratatului de la Trianon, simbolizând coeziunea națională maghiară.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -16918,6 +18802,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Local History Collection",
+                  "text": "Exhibition in the cultural center showcasing the settlement's past, ethnographic heritage, and farming tools.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Trianon Memorial",
+                  "text": "Public monument commemorating the Treaty of Trianon, symbolizing national unity and historical remembrance.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ]
 }
@@ -17085,6 +18981,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Tököler Parkwald",
+                  "text": "Ein Waldgebiet im südlichen Teil der Insel Csepel, ideal für Spaziergänge und Erholung im Freien.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Donaufähre",
+                  "text": "Eine regelmäßige Fährverbindung zwischen Tököl und Százhalombatta, die ein besonderes Wassererlebnis bietet.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lokalgeschichtliche Sammlung",
+                  "text": "Die lokalgeschichtliche Sammlung bewahrt alte Gebrauchsgegenstände und Fotos aus dem Leben des Dorfes auf.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -17203,6 +19117,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Tököli Parkerdő",
+                  "text": "A Csepel-sziget déli részén elterülő erdős terület, amely kiválóan alkalmas sétákra és szabadtéri kikapcsolódásra.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dunai komp",
+                  "text": "Menetrend szerinti kompjárat, amely Tökölt köti össze Százhalombattával, különleges vízi utazást kínálva.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Helytörténeti Gyűjtemény",
+                  "text": "A település helytörténeti gyűjteménye régi használati tárgyakat és a falu életét bemutató fotókat őriz.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -17321,6 +19253,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Pădurea Parc Tököl",
+                  "text": "Zonă împădurită în partea de sud a insulei Csepel, excelentă pentru plimbări și recreere în aer liber.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bacul de pe Dunăre",
+                  "text": "Serviciu de bac regulat care leagă Tököl de Százhalombatta, oferind o experiență de călătorie pe apă.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Colecția de Istorie Locală",
+                  "text": "Colecția de istorie locală păstrează obiecte vechi de uz casnic și fotografii care prezintă viața satului.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -17439,6 +19389,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Tököl Park Forest",
+                  "text": "Forested area in the southern part of Csepel Island, perfect for long walks and outdoor recreation activities.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Danube Ferry",
+                  "text": "Scheduled ferry service connecting Tököl with Százhalombatta, providing a unique travel experience across the Danube.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Local History Collection",
+                  "text": "The local history collection preserves old household items and photographs depicting the life of the village.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ]
 }
@@ -17606,6 +19574,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Millenniumi Emlékpark",
+                  "text": "Ein gepflegter Park im Zentrum der Stadt, der an die Gründung Ungarns erinnert und als lokaler Erholungsort dient.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sajó-Ufer",
+                  "text": "Die natürlichen Uferabschnitte des Flusses Sajó bieten Möglichkeiten zum Angeln und für Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -17724,6 +19704,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Millenniumi Emlékpark",
+                  "text": "A város központjában található gondozott park, amely a honfoglalás emlékét őrzi és pihenésre alkalmas területet nyújt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sajó-part",
+                  "text": "A Sajó folyó természetközeli partrészei lehetőséget nyújtanak horgászatra és kellemes sétákra a természetben.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -17842,6 +19834,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Parcul Millennium",
+                  "text": "Un parc bine întreținut în centrul orașului, care comemorează fondarea Ungariei și servește ca loc de recreere locală.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Malul râului Sajó",
+                  "text": "Malurile naturale ale râului Sajó oferă oportunități pentru pescuit și plimbări relaxante în mijlocul naturii.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -17960,6 +19964,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Millennium Memorial Park",
+                  "text": "A well-kept park in the town center commemorating the founding of Hungary, offering a space for local recreation.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sajó river bank",
+                  "text": "The natural banks of the Sajó River provide opportunities for fishing and pleasant walks in a natural setting.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ]
 }
@@ -18109,6 +20125,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Heiliger-Stephan-Statue",
+                  "text": "Eine Statue des ersten ungarischen Königs, die ein wichtiger Ort für lokale Gedenkfeiern und nationale Feiertage ist.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -18209,6 +20231,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Szent István szobor",
+                  "text": "Az államalapító király szobra a város egyik központi pontja, a helyi ünnepségek és megemlékezések fontos helyszíne.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -18309,6 +20337,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Statuia Sfântului Ștefan",
+                  "text": "O statuie a primului rege maghiar, fiind un loc important pentru festivitățile locale și sărbătorile naționale.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -18409,6 +20443,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Saint Stephen Statue",
+                  "text": "A statue of the first Hungarian king, serving as a key location for local celebrations and national holidays.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ]
 }
@@ -18561,6 +20601,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Rathaus von Nyírbátor",
+                  "text": "Ein markantes Gebäude im Stadtzentrum, das die lokale Verwaltung beherbergt und ein Beispiel für die moderne Stadtarchitektur ist.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Platz der Freiheit",
+                  "text": "Der zentrale Platz der Stadt, auf dem zahlreiche Veranstaltungen stattfinden und der von wichtigen Gebäuden und Cafés umgeben ist.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -18664,6 +20716,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Nyírbátori Városháza",
+                  "text": "A városközpont egyik meghatározó épülete, amely a helyi közigazgatás központja és a modern városkép fontos eleme.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szabadság tér",
+                  "text": "A város központi tere, ahol számos rendezvényt tartanak, és környékén fontos műemlékek, kávézók találhatók.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -18767,6 +20831,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Primăria din Nyírbátor",
+                  "text": "O clădire proeminentă în centrul orașului, care găzduiește administrația locală și reprezintă arhitectura urbană modernă.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Libertății",
+                  "text": "Piața centrală a orașului, unde au loc numeroase evenimente, fiind înconjurată de monumente importante și cafenele.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -18870,6 +20946,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Nyírbátor Town Hall",
+                  "text": "A prominent building in the town center housing the local administration and representing modern urban architecture.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Liberty Square",
+                  "text": "The central square of the city, where numerous events are held, surrounded by important monuments and cozy cafes.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ]
 }
@@ -19026,6 +21114,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Schlossgarten",
+                  "text": "Der weitläufige Park um das Schloss Gyürky-Solymossy mit alten Bäumen lädt zu langen Spaziergängen und Entspannung ein.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -19133,6 +21227,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Kastélypark",
+                  "text": "A Gyürky-Solymossy-kastélyt körülölelő tágas, ősfás park kiváló helyszín hosszú sétákhoz és kikapcsolódáshoz.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -19240,6 +21340,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Parcul Castelului",
+                  "text": "Parcul spațios care înconjoară castelul Gyürky-Solymossy, cu arbori seculari, ideal pentru plimbări lungi și relaxare.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -19347,6 +21453,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Castle Park",
+                  "text": "The spacious park surrounding the Gyürky-Solymossy Castle, featuring ancient trees, is perfect for long walks and relaxation.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ]
 }
@@ -19485,6 +21597,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Reiterstatue des Heiligen Georg",
+                  "text": "Eine beeindruckende Skulptur auf dem Hauptplatz, die den Schutzpatron der örtlichen katholischen Kirche darstellt.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -19574,6 +21692,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Szent György lovasszobor",
+                  "text": "Impozáns szobor a főtéren, amely a helyi katolikus templom védőszentjét ábrázolja és a város jelképe.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -19663,6 +21787,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Statuia ecvestră a Sfântului Gheorghe",
+                  "text": "O sculptură impresionantă în piața principală, reprezentându-l pe sfântul patron al bisericii catolice locale.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -19752,6 +21882,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Saint George Equestrian Statue",
+                  "text": "An impressive sculpture in the main square depicting the patron saint of the local Catholic church.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ]
 }
@@ -19926,6 +22062,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Wasserfall im Jegenye-Tal",
+                  "text": "Der größte Wasserfall im Budaer Gebirge, ein 5 Meter hoher Fall im Jegenye-Tal, ein beliebtes Ausflugsziel für Wanderer.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ördögtorony (Teufelsturm)",
+                  "text": "Spektakuläre Dolomitfelsformation am Hang des Zsíros-Berges, eines der bekanntesten Naturdenkmäler der Gegend.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -20051,6 +22199,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Jegenye-völgyi vízesés",
+                  "text": "A Budai-hegység legnagyobb vízesése, a Jegenye-völgyben található 5 méteres zuhatag népszerű kirándulóhely.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ördögtorony",
+                  "text": "Látványos dolomit sziklaképződmény a Zsíros-hegy oldalában, a környék egyik legismertebb természeti jelképe.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -20176,6 +22336,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Cascada din valea Jegenye",
+                  "text": "Cea mai mare cascadă din Munții Buda, o cădere de 5 metri în valea Jegenye, o destinație populară pentru turiști.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ördögtorony (Turnul Diavolului)",
+                  "text": "Formațiune stâncoasă spectaculoasă de dolomit pe versantul dealului Zsíros, un reper natural faimos al zonei.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -20301,6 +22473,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Jegenye Valley Waterfall",
+                  "text": "The largest waterfall in the Buda Mountains, a 5-meter drop in the Jegenye Valley, popular for hikers and families.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ördögtorony (Devil's Tower)",
+                  "text": "Spectacular dolomite rock formation on the slope of Zsíros Hill, one of the most famous natural landmarks of the area.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ]
 }
@@ -20490,6 +22674,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Kalksteinbruch von Tárnok",
+                  "text": "Die riesigen Hohlräume des Kalksteinbruchs aus der Römerzeit dienen heute als besondere Orte für kulturelle Veranstaltungen.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -20630,6 +22820,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Tárnoki Kőfejtő",
+                  "text": "A római korig visszanyúló mészkőbánya hatalmas üregei ma kulturális rendezvények és koncertek különleges helyszínei.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -20770,6 +22966,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Cariera de piatră din Tárnok",
+                  "text": "Cavitățile masive ale carierei de calcar din epoca romană servesc astăzi ca locații speciale pentru evenimente culturale.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -20910,6 +23112,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Tárnok Limestone Quarry",
+                  "text": "Massive limestone quarry caves dating back to Roman times, now used as unique venues for cultural events and concerts.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ]
 }
@@ -21099,6 +23307,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Bulvár-See",
+                  "text": "Ein gemütlicher kleiner See am Rande der Siedlung, der Naturliebhaber zum Entspannen und zu Spaziergängen einlädt.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -21239,6 +23453,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Bulvár-tó",
+                  "text": "A település szélén található hangulatos kis tó, amely pihenésre és kellemes sétákra hívja a természet kedvelőit.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -21379,6 +23599,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Lacul Bulvár",
+                  "text": "Un mic lac primitor la marginea localității, care invită iubitorii de natură la relaxare și plimbări plăcute.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -21519,6 +23745,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Bulvár Lake",
+                  "text": "A cozy little lake on the edge of the settlement, inviting nature lovers for relaxation and pleasant walks.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ]
 }
@@ -21715,6 +23947,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Vöröskő-Lehrpfad",
+                  "text": "Ein geologischer Lehrpfad in den Hügeln über der Stadt, der den charakteristischen roten Sandstein der Region zeigt.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Skulpturenpark (Szent Erzsébet Park)",
+                  "text": "Sammlung zeitgenössischer Skulpturen im Park am Plattensee zwischen alten Platanen und gepflegten Blumenbeeten.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bügeleisenhaus (Vasalóház)",
+                  "text": "Ein in den 1920er Jahren erbautes Eckgebäude in Form eines Bügeleisens, eine architektonische Besonderheit der Stadt.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -21862,6 +24112,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Vöröskő-tanösvény",
+                  "text": "A város feletti dombokon kanyargó geológiai útvonal, amely a környék jellegzetes vörös homokkövét mutatja be.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szoborpark (Szent Erzsébet-liget)",
+                  "text": "A Balaton-parti parkban kortárs és klasszikus szobrok gyűjteménye látható a platánfák és virágágyások között.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vasalóház",
+                  "text": "Az 1920-as években épült, különleges vasaló alakú saroképület, amely a város egyik építészeti érdekessége.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -22009,6 +24277,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Traseul educativ Piatra Roșie",
+                  "text": "Un traseu geologic prin dealurile de deasupra orașului, prezentând gresia roșie caracteristică regiunii.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul de sculpturi (Szent Erzsébet)",
+                  "text": "O colecție de sculpturi în parcul de pe malul lacului Balaton, printre platani și straturi de flori.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Fier de Călcat",
+                  "text": "O clădire de colț unică în formă de fier de călcat, construită în anii 1920, o curiozitate arhitecturală locală.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -22156,6 +24442,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Vöröskő Nature Trail",
+                  "text": "A geological trail winding through the hills above the town, showcasing the region's characteristic red sandstone.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sculpture Park (Szent Erzsébet Grove)",
+                  "text": "A collection of contemporary and classical sculptures in the lakeside park among plane trees and flower beds.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Iron House (Vasalóház)",
+                  "text": "A unique iron-shaped corner building built in the 1920s, one of the architectural curiosities of the town.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ]
 }
@@ -22817,6 +25121,30 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Heiliger Florian Statue",
+                  "text": "Diese Statue des Schutzpatrons der Feuerwehr steht im Stadtzentrum und erinnert an den Schutz vor historischen Stadtbränden.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Heldendenkmal",
+                  "text": "Ein monumentales Denkmal im Zentrum, das den Opfern der beiden Weltkriege aus Kapuvár und der Umgebung gewidmet ist.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sankt-Rosalia-Kapelle",
+                  "text": "Eine barocke Kapelle aus dem 18. Jahrhundert, die als Dank nach einer Pestepidemie am Rande der Stadt errichtet wurde.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bicskás-Statue",
+                  "text": "Die Statue stellt einen Mann mit Taschenmesser dar und symbolisiert die berühmte Gastronomie und die lokalen Traditionen von Kapuvár.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -22964,6 +25292,30 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Szent Flórián-szobor",
+                  "text": "A tűzoltók védőszentjének szobra a városközpontban áll, emlékeztetve a települést sújtó történelmi tűzvészek elleni védelemre.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hősi emlékmű",
+                  "text": "A város központjában található monumentális alkotás, amely a világháborúkban elesett kapuvári katonáknak állít méltó emléket.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Rozália-kápolna",
+                  "text": "A 18. században épült barokk stílusú fogadalmi kápolna, amelyet a pestisjárvány után hálából emeltek a város szélén.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bicskás-szobor",
+                  "text": "A szobor a helyi „bicskás” hagyományokat és a híres kapuvári gasztronómiát jelképezi a város egyik központi helyszínén.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -23111,6 +25463,30 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Statuia Sfântului Florian",
+                  "text": "Această statuie a patronului pompierilor se află în centrul orașului, amintind de protecția împotriva incendiilor istorice ale localității.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monumentul Eroilor",
+                  "text": "Un monument impresionant situat în centru, dedicat soldaților din Kapuvár care și-au pierdut viața în cele două războaie mondiale.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Capela Sfânta Rozalia",
+                  "text": "O capelă barocă din secolul al XVIII-lea, construită la marginea orașului ca semn de recunoștință după o epidemie de ciumă.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia Bicskás",
+                  "text": "Statuia reprezintă un om cu un briceag, simbolizând tradițiile gastronomice faimoase și identitatea culturală locală a orașului Kapuvár.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -23258,6 +25634,30 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Saint Florian Statue",
+                  "text": "This statue of the patron saint of firefighters stands in the city center, commemorating protection against historic city fires.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "War Memorial",
+                  "text": "A monumental memorial in the center dedicated to the soldiers from Kapuvár who fell in the two World Wars.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint Rosalia Chapel",
+                  "text": "An 18th-century Baroque votive chapel built on the outskirts of the city in gratitude after a plague epidemic.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bicskás Statue",
+                  "text": "The statue depicts a man with a pocket knife, symbolizing the famous gastronomy and local traditions of Kapuvár.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ]
 }
@@ -23432,6 +25832,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Selyem-rét Lehrpfad",
+                  "text": "Ein malerischer Lehrpfad im Naturschutzgebiet, der die einzigartige Flora und Fauna der lokalen Moorlandschaften präsentiert.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turul-Denkmal",
+                  "text": "Ein Denkmal des mystischen ungarischen Turul-Vogels, das zur Erinnerung an die tausendjährige Geschichte der Nation errichtet wurde.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -23557,6 +25969,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Selyem-réti tanösvény",
+                  "text": "A tájvédelmi körzetben kanyargó festői tanösvény, amely bemutatja a helyi láperdők és mocsárrétek különleges élővilágát.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turul-szobor",
+                  "text": "A magyarok mitikus madarát ábrázoló alkotás, amelyet a nemzet ezeréves történelmének emlékére emeltek a településen.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -23682,6 +26106,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Traseul didactic Selyem-rét",
+                  "text": "Un traseu pitoresc în rezervația naturală, care prezintă flora și fauna unică a pădurilor de mlaștină și a pajiștilor locale.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monumentul Turul",
+                  "text": "O sculptură a pasării mitice maghiare Turul, ridicată pentru a comemora istoria milenară a națiunii în această localitate.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -23807,6 +26243,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Selyem-rét Nature Trail",
+                  "text": "A scenic educational trail in the nature reserve showcasing the unique flora and fauna of local swamp forests and wet meadows.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turul Monument",
+                  "text": "A sculpture of the mythical Hungarian Turul bird, erected to commemorate the thousand-year history of the nation.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ]
 }
@@ -23974,6 +26422,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Kossuth-Lajos-Denkmal",
+                  "text": "Eine Statue des berühmten ungarischen Staatsmannes im Stadtpark, die an die Ideale der Revolution von 1848 erinnert.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Städtische Galerie",
+                  "text": "Ein lokales Kulturzentrum, das regelmäßig Ausstellungen zeitgenössischer regionaler Künstler und historischer Sammlungen beherbergt.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -24092,6 +26552,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Kossuth Lajos-szobor",
+                  "text": "A híres államférfi szobra a városi parkban, amely az 1848-as forradalom és szabadságharc eszméinek állít emléket.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Városi Galéria",
+                  "text": "Helyi kulturális központ, amely rendszeresen ad otthont kortárs regionális művészek kiállításainak és helytörténeti gyűjteményeknek.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -24210,6 +26682,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Monumentul lui Lajos Kossuth",
+                  "text": "O statuie a celebrului om de stat maghiar situată în parcul orașului, amintind de idealurile revoluției din 1848.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Galeria Orășenească",
+                  "text": "Un centru cultural local care găzduiește regulat expoziții ale artiștilor regionali contemporani și colecții istorice.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -24328,6 +26812,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Lajos Kossuth Monument",
+                  "text": "A statue of the famous Hungarian statesman in the city park, commemorating the ideals of the 1848 Revolution.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "City Gallery",
+                  "text": "A local cultural center that regularly hosts exhibitions by contemporary regional artists and historical collections.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ]
 }
@@ -24466,6 +26962,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Petőfi-Sándor-Statue",
+                  "text": "Ein Denkmal für den ungarischen Nationaldichter, der durch seine Reisen und Werke eine starke Bindung zur Kiskunság-Region hatte.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sankt-Stephan-Statue",
+                  "text": "Eine Statue des ersten ungarischen Königs, die ein wichtiger Ort für staatliche und kirchliche Gedenkfeiern in der Gemeinde ist.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -24555,6 +27063,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Petőfi Sándor-szobor",
+                  "text": "A nemzeti költő emlékműve, akit utazásai és művei révén szoros szálak fűztek a Kiskunság vidékéhez és a településhez.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent István-szobor",
+                  "text": "Az államalapító király szobra, amely a település állami és egyházi ünnepségeinek egyik kiemelt emlékhelye.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -24644,6 +27164,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Statuia lui Sándor Petőfi",
+                  "text": "Un monument dedicat poetului național maghiar, care a avut legături strânse cu regiunea Kiskunság prin călătoriile și operele sale.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia Sfântului Ștefan",
+                  "text": "O statuie a primului rege maghiar, fiind un loc important pentru ceremoniile comemorative de stat și religioase din comunitate.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -24733,6 +27265,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Sándor Petőfi Statue",
+                  "text": "A monument to the Hungarian national poet, who had strong ties to the Kiskunság region through his travels and works.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint Stephen Statue",
+                  "text": "A statue of the first Hungarian king, which is a key site for state and religious commemorative celebrations in the town.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ]
 }
@@ -24889,6 +27433,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Berény Hotel Gebäude",
+                  "text": "Dieses imposante historische Gebäude im Stadtzentrum ist ein bedeutendes Baudenkmal aus dem frühen 20. Jahrhundert.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Denkmal der Weltkriege",
+                  "text": "Ein zentrales Denkmal, das die Namen der lokalen Gefallenen trägt und als Ort des Gedenkens und der Ehrung dient.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Slowakisches Regionalhaus",
+                  "text": "Ein Museum, das die traditionelle Lebensweise und die reiche Volkskunst der slowakischen Minderheit in Mezőberény präsentiert.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -24996,6 +27558,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Berény Szálló épülete",
+                  "text": "A városközpontban található impozáns történelmi épület, amely a 20. század eleji építészet egyik legfontosabb helyi emléke.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Világháborús emlékmű",
+                  "text": "A központi helyszínen álló alkotás, amely a helyi áldozatok neveit őrzi, és a kegyelet lerovásának fontos helyszíne.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szlovák Tájház",
+                  "text": "A településre jellemző szlovák nemzetiség hagyományos életmódját és gazdag népművészetét bemutató múzeumépület.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -25103,6 +27683,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Clădirea Hotelului Berény",
+                  "text": "Această clădire istorică impunătoare din centrul orașului este un monument arhitectural semnificativ de la începutul secolului XX.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monumentul Războaielor Mondiale",
+                  "text": "Un monument central care poartă numele victimelor locale și servește ca loc de reculegere și onorare a memoriei acestora.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Regională Slovacă",
+                  "text": "Un muzeu care prezintă modul de viață tradițional și arta populară bogată a minorității slovace din Mezőberény.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -25210,6 +27808,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Berény Hotel Building",
+                  "text": "This imposing historic building in the city center is a significant architectural monument from the early 20th century.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "World Wars Memorial",
+                  "text": "A central monument bearing the names of local fallen soldiers, serving as a place of remembrance and honor.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Slovak Regional House",
+                  "text": "A museum presenting the traditional lifestyle and rich folk art of the Slovak minority in Mezőberény.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ]
 }
@@ -25366,6 +27982,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Bertalan-Kapelle",
+                  "text": "Eine kleine, barocke Kapelle am Rande der Stadt, die dem Heiligen Bartholomäus gewidmet ist und Ruhe ausstrahlt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kulturzentrum Nagyatád",
+                  "text": "Das Herz des lokalen Kulturlebens mit regelmäßigen Theateraufführungen, Konzerten und Ausstellungen regionaler Künstler.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -25473,6 +28101,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Bertalan-kápolna",
+                  "text": "A város szélén található apró barokk kápolna, amely Szent Bertalan tiszteletére épült és békés környezetben fekszik.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nagyatádi Kulturális Központ",
+                  "text": "A helyi közösségi élet központja, amely színházi előadásoknak, koncerteknek és kiállításoknak ad otthont.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -25580,6 +28220,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Capela Bertalan",
+                  "text": "O mică capelă barocă situată la marginea orașului, dedicată Sfântului Bartolomeu, oferind o atmosferă de liniște.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Centrul Cultural Nagyatád",
+                  "text": "Inima vieții culturale locale, găzduind spectacole de teatru, concerte și expoziții ale artiștilor regionali.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -25687,6 +28339,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Bertalan Chapel",
+                  "text": "A small Baroque chapel located on the outskirts of the town, dedicated to Saint Bartholomew, offering a peaceful atmosphere.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nagyatád Cultural Center",
+                  "text": "The hub of local cultural life, hosting regular theater performances, concerts, and exhibitions by regional artists.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ]
 }
@@ -25854,6 +28518,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Bódva-Ufer",
+                  "text": "Ein natürliches Erholungsgebiet entlang des Flusses Bódva, ideal für Spaziergänge und Naturbeobachtungen in der Region.",
+                  "category": "natural",
+                  "confidence": "medium"
             }
       ],
       "hu": [
@@ -25972,6 +28642,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Bódva-part",
+                  "text": "A Bódva folyó menti természetes pihenőövezet, amely kiválóan alkalmas sétákra és a helyi élővilág megfigyelésére.",
+                  "category": "natural",
+                  "confidence": "medium"
             }
       ],
       "ro": [
@@ -26090,6 +28766,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Malul râului Bódva",
+                  "text": "O zonă naturală de recreere de-a lungul râului Bódva, ideală pentru plimbări și observarea florei și faunei locale.",
+                  "category": "natural",
+                  "confidence": "medium"
             }
       ],
       "en": [
@@ -26208,6 +28890,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Bódva Riverbank",
+                  "text": "A natural recreational area along the Bódva River, perfect for walks and observing the local wildlife in the region.",
+                  "category": "natural",
+                  "confidence": "medium"
             }
       ]
 }
@@ -26364,6 +29052,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Kállay-Krypta",
+                  "text": "Die letzte Ruhestätte der adeligen Familie Kállay, die eine bedeutende Rolle in der ungarischen Geschichte spielte.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aussichtsturm auf dem Berg",
+                  "text": "Ein lokaler Aussichtspunkt, der einen weiten Blick über die sanften Hügel des Komitats Szabolcs-Szatmár-Bereg bietet.",
+                  "category": "recreational",
+                  "confidence": "medium"
             }
       ],
       "hu": [
@@ -26471,6 +29171,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Kállay-kripta",
+                  "text": "A nemesi Kállay család végső nyughelye, akik meghatározó szerepet játszottak a magyar történelemben.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hegyi kilátó",
+                  "text": "Helyi kilátópont, ahonnan pazar kilátás nyílik a Szabolcs-Szatmár-Bereg vármegyei dombvidékre.",
+                  "category": "recreational",
+                  "confidence": "medium"
             }
       ],
       "ro": [
@@ -26578,6 +29290,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Cripta Kállay",
+                  "text": "Locul de odihnă veșnică al nobilei familii Kállay, care a jucat un rol semnificativ în istoria Ungariei.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turnul de belvedere de pe deal",
+                  "text": "Un punct de observație local ce oferă o vedere panoramică asupra dealurilor din județul Szabolcs-Szatmár-Bereg.",
+                  "category": "recreational",
+                  "confidence": "medium"
             }
       ],
       "en": [
@@ -26685,6 +29409,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Kállay Crypt",
+                  "text": "The final resting place of the noble Kállay family, who played a significant role in Hungarian history.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hill Viewpoint",
+                  "text": "A local observation point providing a wide view over the rolling hills of Szabolcs-Szatmár-Bereg county.",
+                  "category": "recreational",
+                  "confidence": "medium"
             }
       ]
 }
@@ -26863,6 +29599,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Sarkad-Zuckerfabrik-Gedenkstätte",
+                  "text": "Ein Denkmal zur Erinnerung an die einst blühende Zuckerindustrie der Stadt, die das Stadtbild lange prägte.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -26992,6 +29734,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Sarkadi Cukorgyári Emlékhely",
+                  "text": "Emlékhely, amely a város egykor virágzó cukoriparának állít emléket, mely hosszú ideig meghatározta a települést.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -27121,6 +29869,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Memorialul Fabricii de Zahăr din Sarkad",
+                  "text": "Un monument ridicat în memoria industriei zahărului odinioară înfloritoare, care a marcat istoria orașului.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -27250,6 +30004,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Sarkad Sugar Factory Memorial",
+                  "text": "A memorial site dedicated to the town's once-flourishing sugar industry, which shaped the settlement for a long time.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ]
 }
@@ -27406,6 +30166,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Duna-Ufer von Varsány",
+                  "text": "Ein malerischer Abschnitt am Ufer der Donau, beliebt für Angeln, Wassersport und entspannte Nachmittage in der Natur.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -27513,6 +30279,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Varsányi Duna-part",
+                  "text": "A Duna partjának festői szakasza, amely népszerű a horgászok, vízisportolók és a természetben pihenni vágyók körében.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -27620,6 +30392,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Malul Dunării din Varsány",
+                  "text": "O porțiune pitorească a malului Dunării, populară pentru pescuit, sporturi nautice și relaxare în mijlocul naturii.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -27727,6 +30505,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Varsány Danube Bank",
+                  "text": "A picturesque stretch of the Danube riverbank, popular for fishing, water sports, and relaxing afternoons in nature.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ]
 }
@@ -27865,6 +30649,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Fenyves-hegyi Naturpfad",
+                  "text": "Ein Rundwanderweg im Kiefernwald, der die lokale Flora und Geologie des Zsámbéker Beckens anschaulich präsentiert.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Heiliger-Donatus-Statue",
+                  "text": "Eine barocke Statue des Schutzpatrons der Weinbauern in der Nähe der Kellerreihe, die die Weinbautradition ehrt.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -27954,6 +30750,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Fenyves-hegyi tanösvény",
+                  "text": "A fenyveserdőben kanyargó tanösvény a Zsámbéki-medence élővilágát és geológiai értékeit mutatja be a túrázóknak.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Donát-szobor",
+                  "text": "A szőlősgazdák védőszentjének barokk szobra a pincesor közelében, a helyi bortermelés hagyományait jelképezi.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -28043,6 +30851,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Traseul educativ Fenyves-hegy",
+                  "text": "Un traseu de drumeție prin pădurea de pini, prezentând flora locală și valorile geologice ale bazinului Zsámbék.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia Sfântului Donat",
+                  "text": "O statuie barocă a sfântului protector al podgorenilor, situată lângă rândul de pivnițe, onorând tradiția viticolă.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -28132,6 +30952,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Fenyves Hill Nature Trail",
+                  "text": "A hiking trail winding through pine forests, showcasing the local flora and geological values of the Zsámbék Basin.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statue of Saint Donatus",
+                  "text": "A Baroque statue of the patron saint of winemakers located near the cellar row, representing local viticulture traditions.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ]
 }
@@ -28281,6 +31113,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Csergezán Pál-Aussichtsturm",
+                  "text": "Der auf dem Gipfel des Nagy-Kopasz stehende Turm bietet ein Panorama auf das Pilis-Gebirge und die Budaer Berge.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Naturschutzgebiet Kis-Szénás",
+                  "text": "Ein geschütztes Gebiet, das für seine seltene Flora, insbesondere die Pannonische Lein-Art, international bekannt ist.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -28381,6 +31225,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Csergezán Pál-kilátó",
+                  "text": "A Nagy-Kopasz csúcsán álló különleges faépítmény lenyűgöző körpanorámát nyújt a Pilisre és a Budai-hegységre.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kis-Szénás tanösvény",
+                  "text": "Európa-diplomás védett terület, amely ritka növényvilágáról, különösen a pilisi lenről vált nemzetközileg ismertté.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -28481,6 +31337,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Turnul de belvedere Csergezán Pál",
+                  "text": "Situat pe vârful Nagy-Kopasz, acest turn oferă o panoramă superbă asupra munților Pilis și a dealurilor Buda.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rezervația Naturală Kis-Szénás",
+                  "text": "O zonă protejată renumită pentru flora sa rară, în special pentru specia endemică de in de Pilis.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -28581,6 +31449,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Csergezán Pál Observation Tower",
+                  "text": "Standing atop the Nagy-Kopasz peak, this unique wooden structure offers a 360-degree panorama of the Pilis and Buda Hills.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kis-Szénás Nature Reserve",
+                  "text": "A protected area internationally recognized for its rare flora, including the endemic Pilis flax plant.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ]
 }
@@ -28712,6 +31592,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Wohnsiedlung der Gasfabrik Óbuda",
+                  "text": "Eine denkmalgeschützte Siedlung mit Backsteingebäuden, die Anfang des 20. Jahrhunderts für Fabrikarbeiter gebaut wurde.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Graphisoft Park",
+                  "text": "Ein moderner Technologiepark am Donauufer mit moderner Architektur, Grünflächen und künstlerischen Statuen.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -28794,6 +31686,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Óbudai Gázgyári lakótelep",
+                  "text": "Műemléki védelem alatt álló, különleges téglaépítésű kerti városrész, amely a 20. század elején épült a munkásoknak.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Graphisoft Park",
+                  "text": "A Duna-parton elterülő technológiai park, amely modern építészetéről, parkosított környezetéről és szobrairól ismert.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -28876,6 +31780,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Cartierul Fabricii de Gaz din Óbuda",
+                  "text": "O zonă rezidențială istorică cu clădiri din cărămidă, construită la începutul secolului XX pentru muncitorii fabricii.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Graphisoft Park",
+                  "text": "Un parc tehnologic modern pe malul Dunării, cunoscut pentru arhitectura sa contemporană, spațiile verzi și statui.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -28958,6 +31874,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Óbuda Gas Works Housing Estate",
+                  "text": "A protected historical residential area with unique brick architecture, built in the early 20th century for factory workers.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Graphisoft Park",
+                  "text": "A modern technology park on the Danube bank known for its contemporary architecture, landscaped gardens, and sculptures.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ]
 }
@@ -29103,6 +32031,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Gombás-sziklák",
+                  "text": "Markante Kalksteinformationen in der Nähe der Stadt, die aufgrund ihrer pilzartigen Form ein beliebtes Wanderziel sind.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -29199,6 +32133,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Gombás-sziklák",
+                  "text": "Különleges formájú mészkőalakzatok a város határában, amelyek népszerű kirándulóhelyet jelentenek a természetjárók számára.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -29295,6 +32235,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Stâncile Gombás",
+                  "text": "Formațiuni calcaroase cu forme neobișnuite situate la marginea orașului, fiind o destinație populară pentru drumeții.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -29391,6 +32337,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Gombás Rocks",
+                  "text": "Distinctive limestone formations near the town, popular among hikers for their unusual mushroom-like shapes.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ]
 }
@@ -29529,6 +32481,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Hevesy-Schloss",
+                  "text": "Ein klassizistisches Herrenhaus mit einem weitläufigen Park, das einst der Adelsfamilie Hevesy gehörte.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sülysáper Angelteiche",
+                  "text": "Ein weitläufiges System von Teichen am Rande der Siedlung, das Entspannung für Fischer und Naturliebhaber bietet.",
+                  "category": "recreational",
+                  "confidence": "medium"
             }
       ],
       "hu": [
@@ -29618,6 +32582,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Hevesy-kastély",
+                  "text": "Klasszicista stílusú nemesi kúria tágas parkkal, amely egykor a névadó család rezidenciájaként szolgált a településen.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sülysápi horgásztavak",
+                  "text": "A település szélén fekvő tórendszer, amely horgászati lehetőséget és nyugodt kikapcsolódást kínál a természetben.",
+                  "category": "recreational",
+                  "confidence": "medium"
             }
       ],
       "ro": [
@@ -29707,6 +32683,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Castelul Hevesy",
+                  "text": "Un conac în stil clasicist cu un parc spațios, care a servit cândva drept reședință pentru familia nobiliară Hevesy.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lacurile de pescuit din Sülysáp",
+                  "text": "Un sistem de lacuri situat la marginea localității, oferind relaxare pentru pescari și iubitorii de natură.",
+                  "category": "recreational",
+                  "confidence": "medium"
             }
       ],
       "en": [
@@ -29796,6 +32784,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Hevesy Castle",
+                  "text": "A Neoclassical manor house with a spacious park, formerly serving as the residence of the noble Hevesy family.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sülysáp Fishing Lakes",
+                  "text": "A system of lakes on the outskirts of the settlement, offering fishing opportunities and quiet recreation in nature.",
+                  "category": "recreational",
+                  "confidence": "medium"
             }
       ]
 }
@@ -29970,6 +32970,30 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Millennium-Denkmal",
+                  "text": "Dieses Denkmal im Zentrum des Ortes wurde zu Ehren des tausendjährigen Jubiläums des ungarischen Staates errichtet und ist Ort lokaler Feiern.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hauptplatz",
+                  "text": "Der Hauptplatz von Mogyoród dient als großzügiger Gemeinschaftsraum mit Grünanlagen und modernen Stadtmöbeln für die Besucher.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Standort der ehemaligen Benediktinerabtei",
+                  "text": "Der Standort der nach der Schlacht von Mogyoród gegründeten Abtei ist eine wichtige historische Gedenkstätte auf dem Hügel über dem Dorf.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kalvarienberg",
+                  "text": "Eine Reihe von Kreuzwegstationen und eine Kapelle auf dem Hügel, von wo aus man einen schönen Blick auf die Umgebung und den Hungaroring hat.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -30095,6 +33119,30 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Millenniumi emlékmű",
+                  "text": "A település központjában álló emlékmű a magyar államiság ezeréves évfordulójának tiszteletére készült, helyi ünnepségek helyszíne.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fő tér",
+                  "text": "Mogyoród központi tere, amely tágas közösségi térként szolgál, parkosított részekkel és modern utcabútorokkal várja a látogatókat.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent László Bencés Apátság helye",
+                  "text": "A mogyoródi csata után alapított apátság egykori helyszíne, amely fontos történelmi emlékhely a település feletti dombon.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kálvária",
+                  "text": "A település feletti dombon található stációsor és kápolna, ahonnan szép kilátás nyílik a környékre és a Hungaroring versenypályára.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -30220,6 +33268,30 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Monumentul Mileniului",
+                  "text": "Acest monument din centrul localității a fost ridicat în cinstea mileniului statului maghiar și este locul de desfășurare a festivităților locale.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Centrală",
+                  "text": "Piața centrală din Mogyoród servește ca un spațiu comunitar generos, oferind vizitatorilor zone verzi amenajate și mobilier urban modern.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Locul fostei Abații Benedictine",
+                  "text": "Fostul amplasament al abației întemeiate după bătălia de la Mogyoród, un sit istoric important situat pe dealul de deasupra localității.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Calvarul",
+                  "text": "O serie de stațiuni ale Căii Crucii și o capelă pe deal, oferind o panoramă frumoasă asupra împrejurimilor și a circuitului Hungaroring.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -30345,6 +33417,30 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Millennium Monument",
+                  "text": "Located in the town center, this monument was erected to honor the millennium of the Hungarian state and serves as a site for local celebrations.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Main Square",
+                  "text": "The main square of Mogyoród serves as a spacious community area, featuring landscaped sections and modern street furniture for visitors.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Site of the former Benedictine Abbey",
+                  "text": "The former site of the abbey founded after the Battle of Mogyoród, an important historical landmark on the hill above the town.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Calvary",
+                  "text": "A series of Stations of the Cross and a chapel on the hill, offering a beautiful view of the surroundings and the Hungaroring racing circuit.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ]
 }
@@ -30541,6 +33637,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Derecsker Angelsee",
+                  "text": "Der am Stadtrand gelegene See bietet Erholung und Sportmöglichkeiten für Naturliebhaber in einer malerischen Umgebung.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -30688,6 +33790,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Derecskei Horgásztó",
+                  "text": "A város szélén elhelyezkedő horgásztó festői környezetben kínál pihenési és sportolási lehetőséget a természet kedvelőinek.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -30835,6 +33943,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Lacul de pescuit Derecske",
+                  "text": "Lacul de pescuit situat la marginea orașului oferă oportunități de relaxare și sport pentru iubitorii de natură, într-un cadru pitoresc.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -30982,6 +34096,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Derecske Fishing Lake",
+                  "text": "Located on the outskirts of the town, this fishing lake offers relaxation and sporting opportunities for nature lovers in a scenic setting.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ]
 }
@@ -31149,6 +34269,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Steinbruch Róka-hegy",
+                  "text": "Das Gebiet des ehemaligen Steinbruchs ist heute ein beliebtes Ausflugsziel mit markanten Felsformationen und Ausblick auf die Hügel.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -31267,6 +34393,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Róka-hegyi kőfejtő",
+                  "text": "Az egykori kőfejtő területe ma kedvelt kirándulóhely, különleges sziklaformációkkal és kilátással a környező dombokra.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -31385,6 +34517,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Cariera de piatră de pe Dealul Vulpii",
+                  "text": "Zona fostei cariere de piatră este astăzi o destinație populară de excursii, cu formațiuni stâncoase deosebite și vedere spre dealurile din jur.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -31503,6 +34641,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Róka Hill Quarry",
+                  "text": "The area of the former stone quarry is now a popular hiking destination, featuring unique rock formations and views of the surrounding hills.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ]
 }
@@ -32110,6 +35254,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Jugendlager Győrújbarát",
+                  "text": "Das am Waldrand gelegene Lager ist seit Jahrzehnten ein beliebter Ort für Klassenfahrten und sommerliche Sportcamps in der Natur.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lösswände und Hohlwege",
+                  "text": "Die für die Umgebung charakteristischen Lösswände und Hohlwege stellen besondere Naturformationen und interessante Wanderwege dar.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -32242,6 +35398,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Győrújbaráti Gyermektábor",
+                  "text": "Az erdő szélén fekvő ifjúsági tábor évtizedek óta népszerű helyszíne az osztálykirándulásoknak és nyári sporttáboroknak.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Löszfalak és mélyutak",
+                  "text": "A település környékére jellemző löszfalak és mélyutak különleges természeti képződmények és kedvelt túraútvonalak helyszínei.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -32367,6 +35535,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Tabăra de copii Győrújbarát",
+                  "text": "Tabăra situată la marginea pădurii este de zeci de ani o locație populară pentru excursii școlare și tabere sportive de vară.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pereți de loess și drumuri adâncite",
+                  "text": "Pereții de loess și drumurile adâncite caracteristice zonei reprezintă formațiuni naturale deosebite și trasee de drumeție interesante.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -32492,6 +35672,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Győrújbarát Youth Camp",
+                  "text": "Located at the forest edge, this camp has been a popular venue for school trips and summer sports camps for decades.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Loess walls and sunken lanes",
+                  "text": "The loess walls and sunken lanes characteristic of the area are unique natural formations and sites for popular hiking trails.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ]
 }
@@ -32655,6 +35847,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Heldendenkmal von Hajdúdorog",
+                  "text": "Dieses Denkmal auf dem Hauptplatz erinnert an die lokalen Opfer des Ersten und Zweiten Weltkriegs.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -32769,6 +35967,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Hajdúdorogi Hősök emlékműve",
+                  "text": "A főtéren álló emlékmű az első és második világháború áldozatainak állít méltó emléket a város szívében.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -32883,6 +36087,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Monumentul Eroilor din Hajdúdorog",
+                  "text": "Acest monument din piața centrală comemorează victimele locale din Primul și al Doilea Război Mondial.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -32997,6 +36207,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Hajdúdorog Heroes' Monument",
+                  "text": "This monument in the main square commemorates the local victims of the First and Second World Wars.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ]
 }
@@ -33149,6 +36365,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Statue von Sándor Pallavicini",
+                  "text": "Die Statue des gründenden Markgrafen steht im Stadtzentrum und ehrt das historische Erbe der Siedlung.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -33252,6 +36474,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Pallavicini Sándor szobra",
+                  "text": "A városalapító őrgróf szobra a település központjában található, tisztelegve a település múltja előtt.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -33355,6 +36583,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Statuia lui Sándor Pallavicini",
+                  "text": "Statuia margrafului fondator se află în centrul orașului, onorând moștenirea istorică a localității.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -33458,6 +36692,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Statue of Sándor Pallavicini",
+                  "text": "The statue of the founding margrave stands in the town center, honoring the historical legacy of the area.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ]
 }
@@ -33603,6 +36843,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Balázs-Diószegi-Gedenkhaus",
+                  "text": "Das ehemalige Wohnhaus des Malers dient heute als Galerie und bewahrt das künstlerische Erbe der Region.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -33699,6 +36945,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Diószegi Balázs Emlékház",
+                  "text": "A Munkácsy-díjas festőművész egykori lakóháza ma galériaként és emlékmúzeumként üzemel a látogatók előtt.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -33795,6 +37047,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Casa Memorială Balázs Diószegi",
+                  "text": "Fosta casă a pictorului laureat al Premiului Munkácsy servește astăzi ca galerie și muzeu memorial.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -33891,6 +37149,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Balázs Diószegi Memorial House",
+                  "text": "The former home of the Munkácsy Prize-winning painter now serves as a gallery and memorial museum.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ]
 }
@@ -34036,6 +37300,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Duna-Ufer-Promenade",
+                  "text": "Die Uferpromenade bietet Spaziergängern eine entspannte Umgebung mit herrlichem Blick auf die Donau.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -34132,6 +37402,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Duna-parti sétány",
+                  "text": "A folyóparti sétány pihentető környezetet kínál a sétálók számára a Duna látványával és friss levegővel.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -34228,6 +37504,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Promenada malului Dunării",
+                  "text": "Promenada de pe malul râului oferă un mediu relaxant pentru plimbări cu vederi uimitoare spre Dunăre.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -34324,6 +37606,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Danube Riverside Promenade",
+                  "text": "The riverside promenade offers a relaxing environment for walkers with stunning views of the Danube river.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ]
 }
@@ -34458,6 +37746,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Sándor-Petőfi-Denkmal",
+                  "text": "Die zu Ehren des berühmten ungarischen Dichters errichtete Statue ist ein wichtiges Kulturdenkmal der Stadt.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -34543,6 +37837,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Petőfi Sándor-szobor",
+                  "text": "A híres magyar költő tiszteletére emelt szobor a település egyik fontos kulturális és közösségi emlékhelye.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -34628,6 +37928,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Monumentul Sándor Petőfi",
+                  "text": "Statuia ridicată în onoarea celebrului poet maghiar este un sit cultural important din centrul orașului.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -34713,6 +38019,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Sándor Petőfi Monument",
+                  "text": "The statue erected in honor of the famous Hungarian poet is an important cultural site in the town center.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ]
 }
@@ -34847,6 +38159,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Hortobágy-Berettyó",
+                  "text": "Ein ruhiger Flussabschnitt, der die Stadt durchquert und ideale Bedingungen für Naturliebhaber und Angler bietet.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mészáros Lázár Gedenkstätte",
+                  "text": "Gedenkstätte für den ersten ungarischen Verteidigungsminister der Revolution von 1848, der in dieser Stadt geboren wurde.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -34932,6 +38256,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Hortobágy-Berettyó",
+                  "text": "A városon áthaladó csendes folyószakasz, amely kiváló horgászhelyeket és természetközeli kikapcsolódást nyújt.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mészáros Lázár emlékhely",
+                  "text": "Az 1848-as szabadságharc első hadügyminiszterének szülővárosában állított emlékhely a hős katonatiszt tiszteletére.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -35017,6 +38353,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Râul Hortobágy-Berettyó",
+                  "text": "O secțiune liniștită de râu care traversează orașul, oferind condiții ideale pentru iubitorii de natură și pescuit.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Memorialul Mészáros Lázár",
+                  "text": "Memorial dedicat primului ministru al apărării din Ungaria de la 1848, născut în această localitate istorică.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -35102,6 +38450,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Hortobágy-Berettyó River",
+                  "text": "A peaceful river section flowing through the town, offering excellent spots for fishing and nature walks.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mészáros Lázár Memorial",
+                  "text": "Memorial dedicated to the first Hungarian Minister of Defence during the 1848 revolution, born in this town.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ]
 }
@@ -35276,6 +38636,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Hauszmann-Gschwindt-Schloss",
+                  "text": "Ein neobarockes Schloss mit einem weitläufigen Park, das einst der Familie des berühmten Architekten Alajos Hauszmann gehörte.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Velence-See Radweg",
+                  "text": "Ein moderner Radweg rund um den See, der atemberaubende Ausblicke auf das Wasser und die Hügellandschaft bietet.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -35401,6 +38773,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Hauszmann-Gschwindt-kastély",
+                  "text": "Alajos Hauszmann építész családjának egykori neobarokk kastélya, amelyet hatalmas, gondozott park övez a városban.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Velencei-tavi kerékpárút",
+                  "text": "A tavat megkerülő modern kerékpárút, amely lenyűgöző kilátást nyújt a vízre és a környező Velencei-hegységre.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -35526,6 +38910,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Castelul Hauszmann-Gschwindt",
+                  "text": "Un castel neobaroc înconjurat de un parc vast, care a aparținut familiei celebrului arhitect Alajos Hauszmann.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pista de biciclete Lacul Velence",
+                  "text": "O pistă de biciclete modernă în jurul lacului, oferind vederi spectaculoase asupra apei și a dealurilor din jur.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -35651,6 +39047,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Hauszmann-Gschwindt Mansion",
+                  "text": "A Neo-Baroque mansion surrounded by a large park, formerly owned by the family of famous architect Alajos Hauszmann.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lake Velence Bike Path",
+                  "text": "A modern bicycle path circling the lake, providing stunning views of the water and the surrounding Velence Hills.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ]
 }
@@ -35796,6 +39204,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Stadtmuseum Kecel",
+                  "text": "Das Museum dokumentiert die Siedlungsgeschichte, bäuerliche Traditionen und lokale Handwerkskunst der Stadt Kecel.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -35892,6 +39306,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Keceli Városi Múzeum",
+                  "text": "A múzeum bemutatja Kecel településtörténetét, a paraszti hagyományokat és a helyi kézműves mesterségek emlékeit.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -35988,6 +39408,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Muzeul Orașului Kecel",
+                  "text": "Muzeul documentează istoria așezării, tradițiile țărănești și meșteșugurile locale din orașul Kecel.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -36084,6 +39510,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Kecel City Museum",
+                  "text": "The museum documents the history of the settlement, peasant traditions, and local craftsmanship of Kecel.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ]
 }
@@ -36211,6 +39643,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Heldenpark",
+                  "text": "Ein zentraler Gedenkpark, der den gefallenen Soldaten der Weltkriege gewidmet ist und als Ort der Ruhe dient.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -36289,6 +39727,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Hősök kertje",
+                  "text": "A városközpontban található emlékpark, amely a világháborúk áldozatainak állít emléket egy csendes környezetben.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -36367,6 +39811,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Grădina Eroilor",
+                  "text": "Un parc memorial central dedicat soldaților căzuți în războaiele mondiale, servind ca loc de reculegere liniștit.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -36445,6 +39895,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Heroes Garden",
+                  "text": "A central memorial park dedicated to the fallen soldiers of the World Wars, serving as a quiet place of reflection.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ]
 }
@@ -36568,6 +40024,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Berettyó-Körös Museale Sammlung",
+                  "text": "Eine regionale Sammlung, die die Naturwelt und das ethnographische Erbe der Sárrét-Region in Szeghalom präsentiert.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tildy Zoltán Denkmal",
+                  "text": "Denkmal für den ehemaligen ungarischen Staatspräsidenten, der prägende Jahre in Szeghalom als Pfarrer verbrachte.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -36642,6 +40110,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Berettyó-Körös Museális Gyűjtemény",
+                  "text": "A Sárrét néprajzi és természeti értékeit bemutató gazdag gyűjtemény, amely a város kulturális központjában található.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tildy Zoltán emlékmű",
+                  "text": "Az egykori köztársasági elnök emlékműve, aki lelkészként fontos éveket töltött Szeghalmon a helyi közösségben.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -36716,6 +40196,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Colecția Muzeală Berettyó-Körös",
+                  "text": "O colecție regională care prezintă lumea naturală și moștenirea etnografică a regiunii Sárrét din Szeghalom.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monumentul Tildy Zoltán",
+                  "text": "Monument dedicat fostului președinte al Ungariei, care a petrecut ani importanți în Szeghalom ca preot local.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -36790,6 +40282,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Berettyó-Körös Museum Collection",
+                  "text": "A regional collection presenting the natural world and ethnographic heritage of the Sárrét region in Szeghalom.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tildy Zoltán Monument",
+                  "text": "Monument to the former Hungarian president, who spent significant years in Szeghalom serving as a local pastor.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ]
 }
@@ -36950,6 +40454,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Statue des Hl. Johannes von Nepomuk",
+                  "text": "Eine barocke religiöse Statue im Ort, die den Schutzpatron der Brücken und Wasserwege in traditioneller Tracht darstellt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jagdhorn-Denkmal",
+                  "text": "Ein modernes Kunstwerk, das an die Jagdtraditionen des Ortes erinnert und die Verbindung zwischen Mensch und Natur symbolisiert.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -37061,6 +40577,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Nepomuki Szent János szobor",
+                  "text": "Barokk stílusú vallási emlék a településen, amely a folyók és hidak védőszentjét ábrázolja hagyományos öltözetben.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vadászszarv emlékmű",
+                  "text": "A település vadászati hagyományaira emlékeztető modern köztéri alkotás, amely a helyi közösség és a természet kapcsolatát jelképezi.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -37172,6 +40700,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Statuia Sfântului Ioan Nepomuk",
+                  "text": "O statuie religioasă barocă situată în localitate, reprezentându-l pe sfântul protector al podurilor și al apelor.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monumentul Cornului de Vânătoare",
+                  "text": "O operă de artă modernă în spațiul public, care amintește de tradițiile de vânătoare ale localității și simbolizează legătura cu natura.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -37283,6 +40823,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Statue of St. John of Nepomuk",
+                  "text": "A Baroque religious statue in the settlement depicting the patron saint of bridges and waterways in traditional attire.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hunting Horn Monument",
+                  "text": "A modern public artwork reminding of the town's hunting traditions, symbolizing the connection between the community and nature.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ]
 }
@@ -37494,6 +41046,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Ecseg-puszta",
+                  "text": "Teil des Nationalparks Körös-Maros, ein geschütztes Naturgebiet mit reicher Vogelwelt und typischer Puszta-Vegetation.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Millenniumsdenkmal",
+                  "text": "Ein zur Tausendjahrfeier der Staatsgründung errichtetes Denkmal, das die historische Kontinuität und den Stolz der Stadt verkündet.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -37656,6 +41220,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Ecseg-puszta",
+                  "text": "A Körös-Maros Nemzeti Park része, gazdag madárvilággal és jellegzetes pusztai növényzettel rendelkező védett természeti terület.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Millenniumi emlékmű",
+                  "text": "A magyar államalapítás ezredik évfordulójára emelt díszes emlékmű, amely a város történelmi folytonosságát és büszkeségét hirdeti.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -37818,6 +41394,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Ecseg-puszta",
+                  "text": "Parte a Parcului Național Körös-Maros, o zonă naturală protejată cu o avifaună bogată și vegetație specifică de stepă.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monumentul Mileniului",
+                  "text": "Un monument ridicat la aniversarea de o mie de ani a statului maghiar, proclamând continuitatea istorică și mândria orașului.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -37980,6 +41568,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Ecseg-puszta",
+                  "text": "Part of the Körös-Maros National Park, a protected natural area with rich birdlife and characteristic puszta vegetation.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Millennium Monument",
+                  "text": "A monument erected for the thousandth anniversary of the Hungarian state foundation, proclaiming the city's historical continuity and pride.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ]
 }
@@ -38118,6 +41718,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Denkmal für den Ersten Weltkrieg",
+                  "text": "Eine monumentale Skulpturengruppe im Stadtzentrum zum Gedenken an die örtlichen Opfer des Krieges.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Heilige Familie Statue",
+                  "text": "Ein barockes Denkmal, das die tiefe katholische Glaubenswelt der Jászság-Region im öffentlichen Raum darstellt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stroh-Haus",
+                  "text": "Eine Ausstellungsstätte für traditionelle Strohflechtkunst und lokales Handwerk, die einen besonderen Zweig der Volkskunst zeigt.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -38207,6 +41825,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "I. világháborús emlékmű",
+                  "text": "A hősök emlékére állított monumentális szoborkompozíció a város központjában, amely a helyi áldozatok előtt tiszteleg.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Család szobor",
+                  "text": "Szépen kidolgozott barokk vallási emlék, amely a Jászság mély katolikus hitvilágát és a család szentségét reprezentálja.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szalma-ház",
+                  "text": "A hagyományos szalmatárgy-készítés és helyi kézművesség bemutatóhelye, amely a jász népművészet különleges ágát ismerteti meg.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -38296,6 +41932,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Monumentul Primului Război Mondial",
+                  "text": "O compoziție sculpturală monumentală în centrul orașului, ridicată în memoria victimelor locale ale războiului.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia Sfintei Familii",
+                  "text": "Un monument religios baroc frumos lucrat, care reprezintă credința catolică profundă a regiunii Jászság în spațiul public.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Paielor",
+                  "text": "Un loc de prezentare a meșteșugului tradițional al obiectelor din paie, unde vizitatorii pot descoperi arta populară jász.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -38385,6 +42039,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "World War I Memorial",
+                  "text": "A monumental sculpture composition in the city center erected in memory of the local victims of the Great War.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Holy Family Statue",
+                  "text": "A beautifully crafted Baroque religious monument representing the deep Catholic faith of the Jászság region in public.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Straw House",
+                  "text": "A showcase for traditional straw-weaving and local handicrafts, where visitors can discover a unique branch of Jász folk art.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ]
 }
@@ -38574,6 +42246,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Donaupromenade",
+                  "text": "Ein angenehmer Wanderweg entlang des Flusses mit herrlichem Blick auf die Donau und die gegenüberliegenden Berge.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Florian Statue",
+                  "text": "Die Figur des Schutzpatrons der Feuerwehrleute, der der Tradition nach den Ort vor Bränden und Naturkatastrophen schützt.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -38714,6 +42398,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Duna-parti sétány",
+                  "text": "Kellemes sétaútvonal a folyó mentén, ahonnan kiváló kilátás nyílik a Dunára és a szemközti hegyekre a természetben.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Flórián szobor",
+                  "text": "A tűzoltók védőszentjének alakja a városban, aki a hagyomány szerint óvja a települést a tűzvészektől és csapásoktól.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -38854,6 +42550,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Promenada Dunării",
+                  "text": "Un traseu plăcut de plimbare de-a lungul fluviului, oferind o vedere excelentă asupra Dunării și a munților de pe malul opus.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia Sfântului Florian",
+                  "text": "Figura sfântului protector al pompierilor, care conform tradiției ocrotește localitatea de incendii și calamități naturale.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -38994,6 +42702,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Danube Promenade",
+                  "text": "A pleasant walking route along the river, offering excellent views of the Danube and the mountains on the opposite bank.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Florian Statue",
+                  "text": "The figure of the patron saint of firefighters in the city, who according to tradition protects the town from disasters.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ]
 }
@@ -39154,6 +42874,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Ruinen der Puszta-Kirche von Gúth",
+                  "text": "Überreste einer mittelalterlichen Kirche tief im Wald, die eine historische und sakrale Atmosphäre ausstrahlen.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statue von König St. Stephan",
+                  "text": "Ein Werk, das an den Staatsgründer erinnert und die Bedeutung nationalen Bewusstseins und christlicher Werte betont.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -39265,6 +42997,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Gúti pusztemplom romjai",
+                  "text": "A középkori falu egykori templomának maradványai az erdő mélyén, amely történelmi és szakrális hangulatot áraszt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent István király szobor",
+                  "text": "Az államalapító királyt ábrázoló méltóságteljes alkotás, amely a nemzeti öntudat és keresztény hagyományok fontosságát jelképezi.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -39376,6 +43120,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Ruinele bisericii din Gúth",
+                  "text": "Vestigiile unei biserici medievale situate în adâncul pădurii, emanând o atmosferă istorică și sacră deosebită.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia Regelui Sfântul Ștefan",
+                  "text": "O operă reprezentându-l pe regele întemeietor, simbolizând importanța identității naționale și a tradițiilor creștine.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -39487,6 +43243,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Puszta Church Ruins of Gúth",
+                  "text": "Remnants of a medieval church located deep in the forest, exuding a unique historical and sacred atmosphere.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statue of King St. Stephen",
+                  "text": "A dignified artwork depicting the founding king, symbolizing the importance of national identity and Christian traditions.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ]
 }
@@ -39536,7 +43304,113 @@ export const poiExtraHungaryCitiesV3: POI[] = [
       ]
     },
     "imageHint": "Füzesabony Hungary aerial",
-    "image": "/poi-images/fuezesabony-extra.webp"
+    "image": "/poi-images/fuezesabony-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Bahnhof Füzesabony",
+                  "text": "Der von Ferenc Pfaff entworfene Bahnhof ist ein bedeutendes eklektisches Baudenkmal aus dem späten 19. Jahrhundert.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Johannes-der-Täufer-Kirche",
+                  "text": "Eine spätbarocke römisch-katholische Kirche aus dem Jahr 1824, die mit wertvollen Fresken und Altären ausgestattet ist.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Remenyik Zsigmond Museum",
+                  "text": "Dieses Museum präsentiert lokale archäologische Funde und erinnert an das Leben des berühmten ungarischen Schriftstellers.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Historischer Getreidespeicher",
+                  "text": "Ein massives barockes Wirtschaftsgebäude, das heute als Veranstaltungsort für kulturelle Ausstellungen und lokale Feste dient.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vasútállomás",
+                  "text": "A Pfaff Ferenc által tervezett állomásépület az ország egyik legszebb eklektikus stílusú vasúti műemléke a 19. század végéről.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Keresztelő Szent János-templom",
+                  "text": "1824-ben épült késő barokk stílusú római katolikus templom, amely a város központi vallási és építészeti emléke.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Remenyik Zsigmond Emlékház",
+                  "text": "A neves író emlékét őrző kiállítás mellett a környék gazdag régészeti leleteit is bemutatja az érdeklődőknek.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Városi Magtár",
+                  "text": "Impozáns barokk stílusú gazdasági épület, amely felújítása óta közösségi térként és kiállítóhelyként funkcionál.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gara Füzesabony",
+                  "text": "Gara proiectată de Ferenc Pfaff este un monument arhitectural eclectic remarcabil, construit la sfârșitul secolului al XIX-lea.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfântul Ioan Botezătorul",
+                  "text": "O biserică romano-catolică în stil baroc târziu din 1824, decorată cu fresce valoroase și elemente arhitecturale clasice.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Remenyik Zsigmond",
+                  "text": "Acest muzeu prezintă descoperiri arheologice locale și comemorează viața și opera celebrului scriitor maghiar Zsigmond Remenyik.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Granarul Istoric",
+                  "text": "O clădire barocă masivă folosită anterior pentru depozitarea cerealelor, transformată astăzi în centru cultural și spațiu expozițional.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Füzesabony Railway Station",
+                  "text": "Designed by Ferenc Pfaff, this station is one of Hungary's finest examples of eclectic railway architecture from the late 1800s.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. John the Baptist Church",
+                  "text": "A late Baroque Roman Catholic church built in 1824, serving as a key religious and architectural landmark in the town center.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Remenyik Zsigmond Museum",
+                  "text": "This museum houses local archaeological collections and an exhibition dedicated to the famous writer born in the town.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Historic Granary",
+                  "text": "An impressive Baroque economic building that has been renovated to host cultural events, exhibitions, and local gatherings.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     "id": "kunszentmarton-extra",
@@ -39701,6 +43575,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Haus der Handwerker",
+                  "text": "Ein Kulturzentrum, das die Traditionen des lokalen Handwerks bewahrt und Werke regionaler Künstler und Meister präsentiert.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Holocaust-Denkmal",
+                  "text": "Ein bewegendes Denkmal im Stadtpark, das an die jüdischen Opfer des Zweiten Weltkriegs aus der Region erinnert.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -39819,6 +43705,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Alkotóház",
+                  "text": "A helyi kézműves hagyományokat bemutató kulturális központ, ahol környékbeli művészek és mesterek munkái láthatóak.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Holokauszt-emlékmű",
+                  "text": "A városi parkban elhelyezett megrázó alkotás, amely a második világháború helyi zsidó áldozatainak állít emléket.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -39937,6 +43835,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Casa Creatorilor",
+                  "text": "Un centru cultural care conservă tradițiile meșteșugărești locale și expune lucrări ale artiștilor și meșterilor din regiune.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monumentul Holocaustului",
+                  "text": "O lucrare comemorativă emoționantă situată în parcul orașului, dedicată victimelor evreiești locale din al Doilea Război Mondial.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -40055,6 +43965,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Craftsman House",
+                  "text": "A cultural hub preserving local handicraft traditions and showcasing works by contemporary regional artists and masters.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Holocaust Memorial",
+                  "text": "A moving monument located in the city park, commemorating the local Jewish victims of the Second World War.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ]
 }
@@ -40229,6 +44151,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Zentraler Marktplatz",
+                  "text": "Ein lebhafter Treffpunkt im Herzen der Stadt, bekannt für seine regionalen Produkte und das geschäftige Markttreiben.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kleinstadt-Sportzentrum",
+                  "text": "Eine moderne Anlage für verschiedene Sportarten, die ein wichtiger Bestandteil des aktiven Gemeinschaftslebens ist.",
+                  "category": "recreational",
+                  "confidence": "medium"
             }
       ],
       "hu": [
@@ -40354,6 +44288,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Központi Piactér",
+                  "text": "A város szívében található nyüzsgő tér, amely a helyi termelők portékáiról és a közösségi életről híres.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Városi Sportcsarnok",
+                  "text": "Modern sportlétesítmény, amely számos sportágnak ad otthont és a helyi közösség aktív kikapcsolódását szolgálja.",
+                  "category": "recreational",
+                  "confidence": "medium"
             }
       ],
       "ro": [
@@ -40479,6 +44425,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Piața Centrală",
+                  "text": "Un loc de întâlnire animat în inima orașului, renumit pentru produsele locale și atmosfera vibrantă de târg.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Centrul Sportiv",
+                  "text": "O facilitate modernă pentru diverse sporturi, reprezentând un pilon important al vieții comunitare active din oraș.",
+                  "category": "recreational",
+                  "confidence": "medium"
             }
       ],
       "en": [
@@ -40604,6 +44562,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Central Market Square",
+                  "text": "A bustling square in the heart of the town, famous for its local produce and vibrant market atmosphere.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Town Sports Hall",
+                  "text": "A modern sports facility hosting various athletic events and serving as a hub for the community's active lifestyle.",
+                  "category": "recreational",
+                  "confidence": "medium"
             }
       ]
 }
@@ -40764,6 +44734,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Solymossy-Landhaus",
+                  "text": "Ein historisches Herrenhaus, das von einem schönen Park umgeben ist und Einblicke in die Architektur des lokalen Adels bietet.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -40875,6 +44851,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Solymossy-kastély",
+                  "text": "Szép parkkal övezett történelmi úrilak, amely a helyi nemesi építészet egyik figyelemreméltó emléke a településen.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -40986,6 +44968,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Conacul Solymossy",
+                  "text": "O reședință nobiliară istorică înconjurată de un parc frumos, oferind o perspectivă asupra arhitecturii locale de epocă.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -41097,6 +45085,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Solymossy Mansion",
+                  "text": "A historic manor house surrounded by a scenic park, representing a notable example of local noble architecture.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ]
 }
@@ -41264,6 +45258,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Soltvadkert Motormuseum",
+                  "text": "Eine beeindruckende Privatsammlung historischer Motorräder und technischer Raritäten, die Technikbegeisterte aus ganz Ungarn anzieht.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Evangelische Kirche",
+                  "text": "Eine markante klassizistische Kirche im Stadtzentrum, die ein wichtiges Symbol für die religiöse Vielfalt der Region ist.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -41382,6 +45388,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Soltvadkerti Motormúzeum",
+                  "text": "Lenyűgöző magángyűjtemény régi motorkerékpárokból és technikai ritkaságokból, amely az ország minden részéről vonzza a látogatókat.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Evangélikus templom",
+                  "text": "A városközpont meghatározó klasszicista épülete, amely a helyi közösség hitéletének és történelmének fontos helyszíne.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -41500,6 +45518,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Muzeul Motocicletelor",
+                  "text": "O colecție privată impresionantă de motociclete istorice și rarități tehnice, care atrage pasionații de mecanică din întreaga țară.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Evanghelică",
+                  "text": "O clădire clasicistă impunătoare în centrul orașului, reprezentând un simbol important al diversității religioase locale.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -41618,6 +45648,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Soltvadkert Motor Museum",
+                  "text": "An impressive private collection of vintage motorcycles and technical rarities, drawing visitors from all over Hungary.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lutheran Church",
+                  "text": "A prominent Classicist building in the town center, serving as an important site for the local community's religious life.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ]
 }
@@ -41814,6 +45856,30 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Statue von Johannes Calvin",
+                  "text": "Die Statue vor der reformierten Kirche erinnert an das religiöse Erbe und den Einfluss des Reformators in der Stadt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Petőfi-Sándor-Statue",
+                  "text": "Ein Denkmal für den ungarischen Nationaldichter im Stadtpark, das ein beliebter Ort für lokale Gedenkfeiern ist.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nagykun-Kulturzentrum",
+                  "text": "Das kulturelle Herz der Stadt, das Platz für Theateraufführungen, Konzerte und Gemeinschaftsveranstaltungen bietet.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Haus der Volkskunst",
+                  "text": "Ein Ausstellungsraum, der die reiche Tradition der Nagykun-Stickerei und lokale Handwerkskunst präsentiert.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -41961,6 +46027,30 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Kálvin János-szobor",
+                  "text": "A református templom előtt álló alkotás a neves reformátor emlékét és a település vallási örökségét hirdeti.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Petőfi Sándor-szobor",
+                  "text": "A magyar nemzet költőjének emléket állító szobor a városi parkban található, és helyi ünnepségek helyszíne.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nagykun Kulturális Központ",
+                  "text": "A város kulturális szíve, amely színházi előadásoknak, koncerteknek és közösségi eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Népművészeti Ház",
+                  "text": "A nagykun hímzés és a helyi kézműves hagyományok gazdag tárházát bemutató kiállítóhely a városban.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -42108,6 +46198,30 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Statuia lui Jean Calvin",
+                  "text": "Statuia situată în fața bisericii reformate onorează moștenirea religioasă și influența reformatorului în oraș.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia lui Sándor Petőfi",
+                  "text": "Un monument dedicat poetului național maghiar în parcul orașului, fiind un loc popular pentru ceremonii locale.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Centrul Cultural Nagykun",
+                  "text": "Inima culturală a orașului, care găzduiește spectacole de teatru, concerte și evenimente comunitare.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa de Artă Populară",
+                  "text": "Un spațiu expozițional care prezintă tradiția bogată a broderiei Nagykun și meșteșugurile locale.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -42255,6 +46369,30 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Statue of John Calvin",
+                  "text": "Located in front of the Reformed Church, this statue honors the religious legacy and influence of the reformer in town.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statue of Sándor Petőfi",
+                  "text": "A monument dedicated to the Hungarian national poet in the city park, serving as a site for local celebrations.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nagykun Cultural Center",
+                  "text": "The cultural heart of the city, hosting theater performances, concerts, and various community events.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "House of Folk Art",
+                  "text": "An exhibition space showcasing the rich tradition of Nagykun embroidery and local handicraft heritage.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ]
 }
@@ -42382,6 +46520,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Wand der Helden",
+                  "text": "Eine Gedenkwand im Stadtzentrum, die den Opfern der Weltkriege aus der örtlichen Gemeinschaft gewidmet ist.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statue des Heiligen Emmerich",
+                  "text": "Eine Statue zu Ehren des heiligen Prinzen, die als wichtiges lokales religiöses Denkmal im Zentrum steht.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -42460,6 +46610,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Hősök fala",
+                  "text": "A városközpontban található emlékfal, amelyet a világháborúk helyi áldozatainak tiszteletére emeltek.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Imre-szobor",
+                  "text": "A szent herceg tiszteletére emelt alkotás a központi részen található, a település fontos vallási emléke.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -42538,6 +46700,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Zidul Eroilor",
+                  "text": "Un zid memorial situat în centrul orașului, dedicat victimelor locale ale războaielor mondiale.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia Sfântului Emeric",
+                  "text": "O statuie în onoarea sfântului prinț, situată în zona centrală, reprezentând un monument religios local important.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -42616,6 +46790,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Wall of Heroes",
+                  "text": "A memorial wall located in the city center, dedicated to the local victims of the world wars.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statue of Saint Emeric",
+                  "text": "A statue honoring the holy prince, located in the central area, serving as a significant local religious monument.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ]
 }
@@ -42761,6 +46947,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Denkmal zum 1848er Freiheitskampf",
+                  "text": "Ein Denkmal für die Helden der ungarischen Revolution von 1848, das sich im Zentrum der Gemeinde befindet.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nepomuk-Statue",
+                  "text": "Eine barocke Statue am Ufer der Kleinen Donau, die den Schutzpatron der Brücken und Fischer darstellt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Marienkapelle",
+                  "text": "Eine kleine, charmante Kapelle am Rande der Siedlung, die ein Ort der Ruhe und des stillen Gebets ist.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -42857,6 +47061,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "1848-as szabadságharc emlékműve",
+                  "text": "Az 1848-as magyar forradalom hőseinek emléket állító műalkotás a település központi részén található.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nepomuki Szent János-szobor",
+                  "text": "A Kis-Duna partján álló barokk stílusú szobor, amely a hidak és a halászok védőszentjét ábrázolja.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mária-kápolna",
+                  "text": "A település szélén található apró, bájos kápolna, amely a nyugalom és a csendes ima helyszíne.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -42953,6 +47175,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Monumentul Revoluției din 1848",
+                  "text": "Un monument dedicat eroilor revoluției maghiare din 1848, situat în partea centrală a localității.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia Sfântului Ioan Nepomuc",
+                  "text": "O statuie barocă situată pe malul Dunării Mici, reprezentându-l pe sfântul patron al podurilor și pescarilor.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Capela Maria",
+                  "text": "O capelă mică și fermecătoare la marginea localității, fiind un loc de liniște și rugăciune tăcută.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -43049,6 +47289,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "1848 Revolution Memorial",
+                  "text": "A memorial dedicated to the heroes of the 1848 Hungarian Revolution, located in the central part of the village.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statue of Saint John of Nepomuk",
+                  "text": "A Baroque statue standing on the banks of the Little Danube, depicting the patron saint of bridges and fishermen.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mary Chapel",
+                  "text": "A small, charming chapel on the edge of the settlement, serving as a place of peace and quiet prayer.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ]
 }
@@ -43205,6 +47463,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Jüdische Gedenkstätte",
+                  "text": "Ein Denkmal zur Erinnerung an die einstige jüdische Gemeinde von Létavértes und deren kulturellen Beitrag.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arany-János-Statue",
+                  "text": "Ein Denkmal zu Ehren des berühmten Dichters, der eng mit der Geschichte dieser Region verbunden ist.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sportzentrum Létavértes",
+                  "text": "Eine moderne Sportanlage, die als Zentrum für lokale Wettkämpfe und Freizeitaktivitäten der Bewohner dient.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -43312,6 +47588,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Zsidó emlékmű",
+                  "text": "A hajdani létavértesi zsidó közösségnek és kulturális hozzájárulásuknak emléket állító kegyhely a városban.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arany János-szobor",
+                  "text": "A neves magyar költő tiszteletére emelt alkotás, aki szoros szálakkal kötődött a település történelméhez.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Létavértesi Sportcentrum",
+                  "text": "Modern sportlétesítmény, amely a helyi versenyek és a lakosság szabadidős tevékenységeinek központja.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -43419,6 +47713,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Memorialul Evreiesc",
+                  "text": "Un monument care comemorează fosta comunitate evreiască din Létavértes și contribuția lor culturală semnificativă.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia lui János Arany",
+                  "text": "Un monument ridicat în onoarea celebrului poet maghiar, care a avut legături strânse cu istoria regiunii.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Centrul Sportiv Létavértes",
+                  "text": "O facilitate sportivă modernă care servește ca centru pentru competiții locale și activități de recreere.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -43526,6 +47838,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Jewish Memorial",
+                  "text": "A memorial site commemorating the former Jewish community of Létavértes and their significant cultural contribution.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statue of János Arany",
+                  "text": "A monument erected in honor of the famous Hungarian poet, who had close ties to the history of the region.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Létavértes Sports Center",
+                  "text": "A modern sports facility serving as a hub for local competitions and recreational activities for residents.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ]
 }
@@ -43664,6 +47994,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Trianon-Denkmal",
+                  "text": "Ein Denkmal zur Erinnerung an den Friedensvertrag von Trianon im Millenniumspark der Gemeinde.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statue des Heiligen Emmerich",
+                  "text": "Ein Standbild des ungarischen Prinzen, das als Symbol für Jugend und Frömmigkeit auf dem Hauptplatz steht.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wand der Helden",
+                  "text": "Ein Denkmal im Stadtzentrum, das an die mutigen Bewohner erinnert, die in den Weltkriegen fielen.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -43753,6 +48101,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Trianon-emlékmű",
+                  "text": "A trianoni békeszerződés emlékére állított műalkotás, amely a község Millenniumi emlékparkjában található.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Imre-szobor",
+                  "text": "A magyar herceg szobra a főtéren áll, az ifjúság és a vallásos áhítat jelképeként a közösség számára.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hősök fala",
+                  "text": "A település központjában álló emlékmű, amely a világháborúkban elesett bátor helyi lakosoknak állít emléket.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -43842,6 +48208,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Monumentul Trianon",
+                  "text": "Un monument care comemorează Tratatul de Pace de la Trianon, situat în Parcul Memorial Millennium.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia Sfântului Emeric",
+                  "text": "O statuie a prințului maghiar situată în piața principală, servind ca simbol al tinereții și pioșeniei.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zidul Eroilor",
+                  "text": "Un monument situat în centrul localității, care comemorează locuitorii curajoși căzuți în războaiele mondiale.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -43931,6 +48315,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Trianon Memorial",
+                  "text": "A memorial work commemorating the Trianon Peace Treaty, located in the village's Millennium Memorial Park.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statue of Saint Emeric",
+                  "text": "A statue of the Hungarian prince located in the main square, serving as a symbol of youth and piety.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wall of Heroes",
+                  "text": "A monument in the village center commemorating the brave local residents who fell in the world wars.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ]
 }
@@ -44069,6 +48471,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Szadaer Kalvarienberg",
+                  "text": "Der Kreuzweg und die Kapelle auf dem Hügel bieten einen ruhigen Ort der Besinnung und einen weiten Blick über das Umland.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Margita-Berg",
+                  "text": "Der höchste Punkt des Gödöllő-Hügellandes, ein beliebtes Wanderziel für Naturliebhaber und Besucher, die ein Panorama suchen.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -44158,6 +48572,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Szadai Kálvária",
+                  "text": "A falu melletti dombon emelt stációk és a keresztút végén álló kápolna csendes helyszínt biztosít az elmélyüléshez.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Margita-hegy",
+                  "text": "A Gödöllői-dombság legmagasabb pontja, amely népszerű túracélpont a természetkedvelők és a panorámára vágyó látogatók számára.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -44247,6 +48673,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Calvarul din Szada",
+                  "text": "Stațiile crucii și capela de pe deal oferă un loc liniștit pentru reflecție și vederi panoramice asupra dealurilor Gödöllő.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dealul Margita",
+                  "text": "Cel mai înalt punct al dealurilor Gödöllő, o destinație populară de drumeții pentru iubitorii de natură și vizitatorii dornici de panoramă.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -44336,6 +48774,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Calvary of Szada",
+                  "text": "The stations of the cross and the chapel on the hill offer a quiet location for reflection and views of the Gödöllő Hills.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Margita Hill",
+                  "text": "The highest point of the Gödöllő Hills, a popular hiking destination for nature lovers and visitors seeking panoramic views.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ]
 }
@@ -44488,6 +48938,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Heldenplatz",
+                  "text": "Der begrünte Platz im Herzen der Stadt ist ein zentraler Treffpunkt für lokale Zeremonien und verschiedene Veranstaltungen.",
+                  "category": "civic",
+                  "confidence": "medium"
             }
       ],
       "hu": [
@@ -44591,6 +49047,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Hősök tere",
+                  "text": "A város szívében található parkosított tér központi találkozóhely, ahol helyi ünnepségeket és rendezvényeket tartanak.",
+                  "category": "civic",
+                  "confidence": "medium"
             }
       ],
       "ro": [
@@ -44694,6 +49156,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Piața Eroilor",
+                  "text": "Situată în inima orașului, această piață amenajată este un punct central de întâlnire pentru ceremonii și evenimente locale.",
+                  "category": "civic",
+                  "confidence": "medium"
             }
       ],
       "en": [
@@ -44797,6 +49265,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Heroes Square",
+                  "text": "Located in the heart of the town, this landscaped square is a central meeting point for local ceremonies and events.",
+                  "category": "civic",
+                  "confidence": "medium"
             }
       ]
 }
@@ -44942,6 +49416,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Angelsee von Enying",
+                  "text": "Das Seensystem am Stadtrand bietet hervorragende Möglichkeiten für Sportfischer und Erholungssuchende in der Natur.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -45038,6 +49518,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Enyingi horgásztó",
+                  "text": "A város szélén elterülő tórendszer kiváló lehetőséget nyújt a sporthorgászoknak és a természetben pihenni vágyóknak.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -45134,6 +49620,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Lacul de pescuit Enying",
+                  "text": "Sistemul de lacuri de la marginea orașului oferă oportunități excelente pentru pescarii sportivi și cei care caută relaxare.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -45230,6 +49722,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Fishing Lake of Enying",
+                  "text": "The lake system on the edge of town provides excellent opportunities for sport fishers and those seeking rest in nature.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ]
 }
@@ -45375,6 +49873,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Ferenctanyai-See",
+                  "text": "Dieser Angelsee in der Nähe der Stadt ist ein beliebter Erholungsort für Einheimische in einer ruhigen, schilfumsäumten Umgebung.",
+                  "category": "natural",
+                  "confidence": "medium"
             }
       ],
       "hu": [
@@ -45471,6 +49975,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Ferenctanyai-tó",
+                  "text": "A város közelében fekvő horgásztó kedvelt pihenőhely a környékbeliek számára, csendes, náddal övezett környezetben.",
+                  "category": "natural",
+                  "confidence": "medium"
             }
       ],
       "ro": [
@@ -45567,6 +50077,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Lacul Ferenctanya",
+                  "text": "Acest lac de pescuit de lângă oraș este un loc de recreere popular pentru localnici, situat într-un mediu liniștit cu stuf.",
+                  "category": "natural",
+                  "confidence": "medium"
             }
       ],
       "en": [
@@ -45663,6 +50179,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Lake Ferenctanya",
+                  "text": "This fishing lake near the town is a popular recreation spot for locals, set in a quiet environment surrounded by reeds.",
+                  "category": "natural",
+                  "confidence": "medium"
             }
       ]
 }
@@ -46250,6 +50772,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Equestrisches Zentrum Futó-Dobó",
+                  "text": "Ein modernes Reitzentrum, das internationale Wettbewerbe und Reitshows veranstaltet und die ungarische Reittradition pflegt.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -46371,6 +50899,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Futó-Dobó Lovasközpont",
+                  "text": "Modern lovas rendezvényhelyszín és oktatóközpont, amely nemzetközi versenyeknek és látványos lovasbemutatóknak ad otthont.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -46492,6 +51026,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Centrul de Echitație Futó-Dobó",
+                  "text": "Un centru modern care găzduiește competiții internaționale și spectacole ecvestre, promovând tradițiile călare maghiare.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -46613,6 +51153,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Futó-Dobó Equestrian Centre",
+                  "text": "A modern venue hosting international competitions and equestrian shows, dedicated to preserving Hungarian riding heritage.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ]
 }
@@ -46754,6 +51300,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Varga Tanya Reiterhof",
+                  "text": "Ein berühmter Gasthof mit traditionellen Reitvorführungen und Puszta-Programmen in der Nähe des Kiskunság-Nationalparks.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ökogehöft Rendek",
+                  "text": "Ein lebendiges Museum für Landwirtschaft und Handwerk, das alte ungarische Tierrassen und Anbaumethoden präsentiert.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -46846,6 +51404,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Varga Tanya",
+                  "text": "Országos hírű lovastanya és étterem, ahol látványos pusztai bemutatókkal és hagyományos magyar ételekkel várják a vendégeket.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rendek Ökogazdaság és Családi Tanya",
+                  "text": "Hagyományőrző biogazdaság és múzeum, amely a régi paraszti életmódot és az őshonos magyar állatfajtákat mutatja be.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -46938,6 +51508,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Ferma Varga Tanya",
+                  "text": "O pensiune renumită care oferă spectacole de echitație tradițională și programe în Puszta, lângă Parcul Național Kiskunság.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gospodăria Ecologică Rendek",
+                  "text": "Un muzeu viu al agriculturii care prezintă metode tradiționale de cultivare și rase de animale autohtone maghiare.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -47030,6 +51612,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Varga Tanya Horse Ranch",
+                  "text": "A famous ranch offering traditional horse shows, local cuisine, and Puszta programs near the Kiskunság National Park.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rendek Eco-Farm",
+                  "text": "A traditional living museum showcasing old farming techniques, crafts, and indigenous Hungarian livestock breeds.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ]
 }
@@ -47215,6 +51809,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Sándor-Petőfi-Statue",
+                  "text": "Ein Denkmal zu Ehren des berühmten ungarischen Nationaldichters im Zentrum der Siedlung, nahe dem Rathaus.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gedenkstätte des Unabhängigkeitskrieges 1848/49",
+                  "text": "Ein Denkmal zur Erinnerung an die siegreiche Schlacht von Zsolca während der ungarischen Revolution von 1848.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -47351,6 +51957,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Petőfi Sándor-szobor",
+                  "text": "A nemzeti költő tiszteletére emelt alkotás a város központjában, amely a helyi kulturális események egyik helyszíne.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "1848-as emlékmű",
+                  "text": "A szabadságharc győztes zsolcai csatájának emlékére állított emlékmű, amely a hős honvédek előtt tiszteleg.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -47487,6 +52105,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Statuia lui Sándor Petőfi",
+                  "text": "Un monument dedicat poetului național maghiar, situat în centrul localității, lângă clădirea primăriei.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monumentul Revoluției de la 1848",
+                  "text": "Un monument comemorativ dedicat bătăliei victorioase de la Zsolca din timpul războiului de independență maghiar.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -47623,6 +52253,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Sándor Petőfi Statue",
+                  "text": "A statue honoring the famous Hungarian national poet, located in the central part of the settlement.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "1848 War of Independence Memorial",
+                  "text": "A monument commemorating the victorious battle of Zsolca fought during the Hungarian Revolution of 1848.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ]
 }
@@ -47764,6 +52406,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Waldlehrpfad Pintér-hegy",
+                  "text": "Ein abwechslungsreicher Lehrpfad im bewaldeten Erholungsgebiet von Zirc mit Aussichtspunkten auf das Bakony-Gebirge.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mariensäule",
+                  "text": "Eine barocke Steinstatue vor der Zisterzienserabtei, die ein wichtiges religiöses Denkmal der Stadt darstellt.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -47856,6 +52510,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Pintér-hegyi tanösvény és parkerdő",
+                  "text": "A város szélén elterülő erdős pihenőhely, ahol tanösvények és kilátópontok mutatják be a Bakony élővilágát.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mária-oszlop",
+                  "text": "A Ciszterci Apátság előtt álló barokk stílusú vallási emlékmű, a város egyik legrégebbi köztéri szobra.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -47948,6 +52614,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Traseul educativ Pintér-hegy",
+                  "text": "O zonă forestieră de agrement la marginea orașului, cu trasee tematice și puncte de belvedere asupra Munților Bakony.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Coloana Fecioarei Maria",
+                  "text": "O statuie barocă situată în fața Abației Cisterciene, reprezentând un monument religios semnificativ al orașului.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -48040,6 +52718,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Pintér Hill Forest Nature Trail",
+                  "text": "An educational trail in the forested recreation area of Zirc, offering views and insights into the Bakony mountains.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Marian Column",
+                  "text": "A Baroque religious monument standing in front of the Cistercian Abbey, one of the oldest public statues in Zirc.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ]
 }
@@ -48163,6 +52853,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Bodor Major Erlebnispark",
+                  "text": "Ein weitläufiger Bauernhof auf der Insel Szentendre mit Reitmöglichkeiten, Streichelzoo und Abenteuerprogrammen.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Altes Dorfzentrum von Tótfalu",
+                  "text": "Ein malerischer Ortsteil mit traditionellen Bauernhäusern, der die historische Atmosphäre der Insel bewahrt.",
+                  "category": "historical",
+                  "confidence": "medium"
             }
       ],
       "hu": [
@@ -48237,6 +52939,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Bodor Major",
+                  "text": "A Szentendrei-szigeten fekvő élménypark lovaglási lehetőséggel, őshonos állatokkal és családi rendezvényhelyszínnel.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tótfalui faluközpont",
+                  "text": "A település történelmi magja, ahol számos régi parasztház és hagyományos utcakép idézi a múltat.",
+                  "category": "historical",
+                  "confidence": "medium"
             }
       ],
       "ro": [
@@ -48311,6 +53025,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Parcul de Aventură Bodor Major",
+                  "text": "O fermă de agrement pe insula Szentendre, oferind echitație, o grădină zoologică și activități în aer liber.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Centrul vechi din Tótfalu",
+                  "text": "Nucleul istoric al localității, păstrând case tradiționale și atmosfera autentică a insulei Dunării.",
+                  "category": "historical",
+                  "confidence": "medium"
             }
       ],
       "en": [
@@ -48385,6 +53111,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Bodor Major Adventure Farm",
+                  "text": "A recreational park on Szentendre Island featuring horse riding, a petting zoo, and outdoor activities for families.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tótfalu Old Village Center",
+                  "text": "The historical heart of the settlement, featuring traditional rural houses and a classic island atmosphere.",
+                  "category": "historical",
+                  "confidence": "medium"
             }
       ]
 }
@@ -48541,6 +53279,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Rathaus von Téglás",
+                  "text": "Das moderne Verwaltungsgebäude im Stadtzentrum dient als Sitz der lokalen Regierung und ist ein wichtiger Treffpunkt der Bürger.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -48648,6 +53392,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Téglási Városháza",
+                  "text": "A város központjában található modern közigazgatási épület, amely a helyi önkormányzat székhelye és fontos közösségi találkozóhely.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -48755,6 +53505,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Primăria din Téglás",
+                  "text": "Clădirea administrativă modernă din centrul orașului servește drept sediu al guvernului local și este un punct de întâlnire comunitar.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -48862,6 +53618,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Town Hall of Téglás",
+                  "text": "The modern administrative building in the city center serves as the seat of local government and a key community gathering place.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ]
 }
@@ -49014,6 +53776,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Römisch-katholische Kirche St. Josef",
+                  "text": "Ein modernes religiöses Bauwerk der Stadt, das der geistliche Mittelpunkt für die katholische Gemeinde der Region Ibrány ist.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -49117,6 +53885,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Szent József római katolikus templom",
+                  "text": "A város modern vallási építménye, amely az ibrányi katolikus közösség hitéletének és spirituális tevékenységének központja.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -49220,6 +53994,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Biserica Romano-Catolică Sfântul Iosif",
+                  "text": "O structură religioasă modernă a orașului, care este centrul spiritual pentru comunitatea catolică din regiunea Ibrány.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -49323,6 +54103,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Saint Joseph Roman Catholic Church",
+                  "text": "A modern religious structure in the town, serving as the spiritual hub for the Catholic community of the Ibrány region.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ]
 }
@@ -49453,6 +54239,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Flugplatz Esztergom",
+                  "text": "Ein Sportflughafen in der Nähe des Stadtteils, der für seine Segelfliegertradition und Rundflüge über das Donauknie bekannt ist.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -49534,6 +54326,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Esztergomi repülőtér",
+                  "text": "A városrész határában fekvő sportrepülőtér, amely vitorlázórepülő hagyományairól és a Dunakanyar feletti sétarepülésekről ismert.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -49615,6 +54413,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Aeroportul Esztergom",
+                  "text": "Un aeroport sportiv situat lângă cartier, cunoscut pentru tradiția sa în planorism și zborurile panoramice deasupra Cotului Dunării.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -49696,6 +54500,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Esztergom Airport",
+                  "text": "A sports airport located near the district, famous for its gliding traditions and scenic flights over the Danube Bend.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ]
 }
@@ -49892,6 +54702,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Sajó-Ufer",
+                  "text": "Die natürliche Umgebung entlang des Flusses Sajó bietet ruhige Wanderwege und beliebte Angelplätze für Naturliebhaber in Putnok.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lajos-Kossuth-Statue",
+                  "text": "Ein Denkmal auf dem zentralen Platz, das dem berühmten ungarischen Staatsmann des Freiheitskampfes von 1848 gewidmet ist.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -50039,6 +54861,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Sajó-part",
+                  "text": "A Sajó folyó menti természetes környezet nyugodt sétányokat és népszerű horgászhelyeket kínál a természet kedvelőinek Putnokon.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kossuth Lajos-szobor",
+                  "text": "A központi téren álló emlékmű, amelyet az 1848-as szabadságharc híres magyar államférfijának tiszteletére emeltek.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -50186,6 +55020,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Malul Râului Sajó",
+                  "text": "Cadrul natural de-a lungul râului Sajó oferă trasee liniștite de plimbare și locuri de pescuit populare pentru iubitorii de natură.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia lui Lajos Kossuth",
+                  "text": "Un monument situat în piața centrală, dedicat celebrului om de stat maghiar din timpul luptei de eliberare de la 1848.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -50333,6 +55179,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Bank of the Sajó River",
+                  "text": "The natural setting along the Sajó river offers peaceful walking paths and popular fishing spots for nature lovers in Putnok.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lajos Kossuth Statue",
+                  "text": "A monument standing in the central square, dedicated to the famous Hungarian statesman of the 1848 War of Independence.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ]
 }
@@ -50471,6 +55329,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Sankt-Florian-Statue",
+                  "text": "Eine historische Statue des Schutzpatrons der Feuerwehr, die an einem prominenten Platz im Ort zum Schutz vor Bränden steht.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sankt-Stephan-Denkmal",
+                  "text": "Ein Denkmal zu Ehren des ersten ungarischen Königs, das die historische Identität und das Erbe der Gemeinde Mindszent symbolisiert.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -50560,6 +55430,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Szent Flórián-szobor",
+                  "text": "A tűzoltók védőszentjének történelmi szobra, amely a település egyik kiemelt pontján áll a tűzesetek elleni védelem jelképeként.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent István-emlékmű",
+                  "text": "Az első magyar király tiszteletére emelt alkotás, amely a közösség történelmi identitását és örökségét szimbolizálja Mindszenten.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -50649,6 +55531,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Statuia Sfântului Florian",
+                  "text": "O statuie istorică a patronului pompierilor, situată într-un loc proeminent ca simbol al protecției împotriva incendiilor.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monumentul Sfântului Ștefan",
+                  "text": "O lucrare ridicată în cinstea primului rege maghiar, simbolizând identitatea istorică și moștenirea comunității din Mindszent.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -50738,6 +55632,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Saint Florian Statue",
+                  "text": "A historical statue of the patron saint of firefighters, standing in a prominent place as a symbol of protection against fire.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint Stephen Monument",
+                  "text": "A work erected in honor of the first Hungarian king, symbolizing the historical identity and heritage of the Mindszent community.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ]
 }
@@ -50865,6 +55771,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Sáp-hegyi kilátópont",
+                  "text": "Ein Aussichtspunkt in der Nähe des Sáp-Hügels mit Panoramablick auf die Tápió-Region und die umliegende Natur.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -50943,6 +55855,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Sáp-hegyi kilátópont",
+                  "text": "A Sáp-hegy közelében található pontról szép kilátás nyílik a Tápió-vidék lankáira és a természetre.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -51021,6 +55939,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Punct de belvedere Sáp-hegy",
+                  "text": "Un punct de belvedere lângă dealul Sáp, oferind o vedere panoramică asupra regiunii Tápió și a naturii înconjurătoare.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -51099,6 +56023,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Sáp-hegy Viewpoint",
+                  "text": "A viewpoint near Sáp Hill offering panoramic views of the Tápió region and the surrounding natural landscape.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ]
 }
@@ -51273,6 +56203,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Régi zsidó temető",
+                  "text": "Ein historischer Friedhof mit Grabsteinen aus dem 18. und 19. Jahrhundert, der die Geschichte der örtlichen Gemeinde bewahrt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Városi Könyvtár",
+                  "text": "Die Stadtbibliothek befindet sich in einem charakteristischen Gebäude und dient als wichtiges kulturelles Zentrum für die Bewohner.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -51398,6 +56340,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Régi zsidó temető",
+                  "text": "Történelmi temető 18-19. századi síremlékekkel, amely az egykori helyi közösség emlékét és kultúráját őrzi.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Városi Könyvtár",
+                  "text": "A városi könyvtár jellegzetes épületben kapott helyet, és a helyi lakosok fontos kulturális találkozóhelyeként szolgál.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -51523,6 +56477,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Vechiul cimitir evreiesc",
+                  "text": "Un cimitir istoric cu pietre funerare din secolele XVIII-XIX, care păstrează memoria comunității locale de odinioară.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biblioteca Orașului",
+                  "text": "Biblioteca orașului este situată într-o clădire caracteristică și servește ca un centru cultural important pentru locuitori.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -51648,6 +56614,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Old Jewish Cemetery",
+                  "text": "A historical cemetery with gravestones from the 18th and 19th centuries, preserving the local community history.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "City Library",
+                  "text": "The city library is housed in a distinctive building and serves as an important cultural center for the residents.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ]
 }
@@ -51786,6 +56764,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Robinson-sziget",
+                  "text": "Eine kleine Halbinsel im Seensystem, die ein beliebter Ort für Angler und Naturliebhaber in ruhiger Umgebung ist.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -51875,6 +56859,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Robinson-sziget",
+                  "text": "A tórendszer egyik kis szigete, amely a horgászok és a természetet kedvelők kedvelt, nyugodt pihenőhelye.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -51964,6 +56954,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Insula Robinson",
+                  "text": "O mică insulă în sistemul de lacuri, un loc popular pentru pescari și iubitorii de natură într-un cadru liniștit.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -52053,6 +57049,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Robinson Island",
+                  "text": "A small island within the lake system, a popular spot for anglers and nature lovers seeking a peaceful environment.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ]
 }
@@ -52180,6 +57182,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Abaújdevecseri kastélypark",
+                  "text": "Ein weitläufiger Park rund um das Csoma-Schloss mit alten Bäumen, ideal für ruhige Spaziergänge in historischer Atmosphäre.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Encsi Városi Piac",
+                  "text": "Der lokale Markt bietet frische Produkte aus der Region und ist ein lebendiger Treffpunkt für Einwohner und Besucher der Stadt.",
+                  "category": "culinary",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -52258,6 +57272,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Abaújdevecseri kastélypark",
+                  "text": "A Csoma-kastély körüli tágas park öreg fákkal, amely ideális helyszín a csendes sétákhoz történelmi környezetben.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Encsi Városi Piac",
+                  "text": "A helyi piac friss termelői árukat kínál a környékről, és élénk találkozóhely a város lakói és a látogatók számára.",
+                  "category": "culinary",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -52336,6 +57362,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Parcul castelului din Abaújdevecser",
+                  "text": "Un parc spațios în jurul castelului Csoma cu arbori bătrâni, ideal pentru plimbări liniștite într-un cadru istoric.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Orașului Encs",
+                  "text": "Piața locală oferă produse proaspete din regiune și este un punct de întâlnire plin de viață pentru locuitori și vizitatori.",
+                  "category": "culinary",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -52414,6 +57452,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Abaújdevecser Castle Park",
+                  "text": "A spacious park surrounding the Csoma Mansion with old trees, ideal for quiet walks in a historical atmosphere.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Encs City Market",
+                  "text": "The local market offers fresh regional produce and serves as a lively meeting point for residents and visitors alike.",
+                  "category": "culinary",
+                  "confidence": "high"
             }
       ]
 }
@@ -52552,6 +57602,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Szent Vendel-szobor",
+                  "text": "Eine Statue zu Ehren des Schutzpatrons der Hirten, die ein wichtiges religiöses Denkmal in der Siedlung darstellt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Művelődési Ház",
+                  "text": "Das Kulturhaus ist der Schauplatz für lokale Veranstaltungen, Ausstellungen und Gemeinschaftsprogramme in der Siedlung.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -52641,6 +57703,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Szent Vendel-szobor",
+                  "text": "A pásztorok védőszentjének tiszteletére emelt szobor, amely a település egyik jelentős vallási emlékműve.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Művelődési Ház",
+                  "text": "A művelődési ház a helyi rendezvények, kiállítások és közösségi programok központi helyszíne a településen.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -52730,6 +57804,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Statuia Sfântului Vendel",
+                  "text": "O statuie ridicată în cinstea sfântului patron al păstorilor, reprezentând un monument religios important al localității.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa de Cultură",
+                  "text": "Casa de cultură este locul de desfășurare a evenimentelor locale, expozițiilor și programelor comunitare din așezare.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -52819,6 +57905,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Saint Wendelin Statue",
+                  "text": "A statue erected in honor of the patron saint of shepherds, representing a significant religious monument in the area.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cultural Center",
+                  "text": "The cultural center is the venue for local events, exhibitions, and community programs within the settlement.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ]
 }
@@ -52964,6 +58062,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Berettyó-Altwasser",
+                  "text": "Ein ruhiges Naturgebiet am Rande der Stadt, das ideale Bedingungen zum Angeln und zur Naturbeobachtung bietet.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -53060,6 +58164,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Berettyó-holtág",
+                  "text": "A város szélén elterülő nyugodt vízterület, amely kiváló horgászhely és természetközeli pihenőövezet a látogatóknak.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -53156,6 +58266,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Brațul mort al râului Berettyó",
+                  "text": "O zonă naturală liniștită la marginea orașului, care oferă condiții ideale pentru pescuit și observarea naturii.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -53252,6 +58368,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Berettyó Oxbow Lake",
+                  "text": "A quiet natural area on the edge of town, providing ideal conditions for fishing and nature observation for visitors.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ]
 }
@@ -54191,6 +59313,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Blaudruckerei Skorutyák",
+                  "text": "Diese traditionelle Werkstatt bewahrt das alte Handwerk des Blaudrucks und bietet Einblicke in historische Färbetechniken.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -54287,6 +59415,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Skorutyák kékfestő műhely",
+                  "text": "A hagyományos műhely a kékfestés mesterségét őrzi, betekintést nyújtva a látogatóknak a történelmi festési technikákba.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -54383,6 +59517,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Atelierul de vopsit în albastru Skorutyák",
+                  "text": "Acest atelier tradițional păstrează vechiul meșteșug al vopsitului în albastru, oferind detalii despre tehnicile istorice.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -54479,6 +59619,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Skorutyák Blue-dyeing Workshop",
+                  "text": "This traditional workshop preserves the old craft of blue-dyeing, offering insights into historical fabric dyeing techniques.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ]
 }
@@ -54631,6 +59777,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Bay-Herrenhaus",
+                  "text": "Ein klassizistisches Gebäude, das als kultureller Treffpunkt dient und regelmäßig lokale Kunstausstellungen beherbergt.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -54734,6 +59886,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Bay-kúria",
+                  "text": "Klasszicista stílusú épület, amely kulturális találkozóhelyként szolgál, és rendszeresen ad otthont helyi művészeti kiállításoknak.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -54837,6 +59995,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Conacul Bay",
+                  "text": "O clădire în stil clasicist care servește ca punct de întâlnire cultural și găzduiește regulat expoziții de artă locală.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -54940,6 +60104,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Bay Mansion",
+                  "text": "A classicist-style building that serves as a cultural meeting point and regularly hosts local art exhibitions.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ]
 }
@@ -55085,6 +60255,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Trianon-Denkmal",
+                  "text": "Dieses Denkmal erinnert an den Friedensvertrag von Trianon und befindet sich in der Nähe des Stadtzentrums.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statue des Heiligen Stephan",
+                  "text": "Die Statue des Staatsgründers, König Stephan I., schmückt einen der zentralen Plätze von Szentlőrinc.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -55181,6 +60363,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Trianon-emlékmű",
+                  "text": "A város központjában található emlékmű a trianoni békeszerződés évfordulójára készült, méltó emlékhely.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent István-szobor",
+                  "text": "Az államalapító király, I. István alakját megformáló szobor a város egyik központi terét díszíti.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -55277,6 +60471,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Monumentul Trianon",
+                  "text": "Acest monument comemorează tratatul de pace de la Trianon și este situat într-un spațiu public central al orașului.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia Sfântului Ștefan",
+                  "text": "Statuia regelui fondator al statului, Ștefan I, împodobește una dintre piețele centrale din Szentlőrinc.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -55373,6 +60579,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Trianon Memorial",
+                  "text": "This monument commemorates the Trianon Peace Treaty and is located in a central public space of the town.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint Stephen Statue",
+                  "text": "The statue of King Saint Stephen, the founder of the state, adorns one of the central squares of Szentlőrinc.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ]
 }
@@ -55540,6 +60758,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "1956-Denkmal",
+                  "text": "Dieses Denkmal im Stadtpark ehrt die Helden und Opfer der ungarischen Revolution und des Freiheitskampfes von 1956.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Millenniums-Gedenkpark",
+                  "text": "Ein schön angelegter Park, der zur Tausendjahrfeier der ungarischen Staatsgründung mit Denkmälern errichtet wurde.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -55658,6 +60888,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "1956-os emlékmű",
+                  "text": "A városi parkban álló emlékmű az 1956-os forradalom és szabadságharc hőseinek és áldozatainak állít emléket.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Millenniumi Emlékpark",
+                  "text": "A magyar államalapítás ezeréves évfordulójára létrehozott, szépen gondozott park és emlékhely a városban.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -55776,6 +61018,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Monumentul din 1956",
+                  "text": "Acest monument din parcul orașului onorează eroii și victimele revoluției maghiare din anul 1956.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Memorial al Mileniului",
+                  "text": "Un parc frumos amenajat, creat pentru a marca aniversarea de o mie de ani a întemeierii statului maghiar.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -55894,6 +61148,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "1956 Memorial",
+                  "text": "This monument in the city park honors the heroes and victims of the 1956 Hungarian Revolution and freedom fight.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Millennium Memorial Park",
+                  "text": "A beautifully landscaped park created to mark the thousand-year anniversary of the founding of the Hungarian state.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ]
 }
@@ -56061,6 +61327,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Militärtechnischer Park",
+                  "text": "Ein Freilichtmuseum auf einer ehemaligen sowjetischen Raketenbasis mit Radargeräten und Panzern.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nyakas-Hügel",
+                  "text": "Ein beliebtes Wanderziel mit Panoramablick auf das Zsámbéker Becken und interessanten Kalksteinformationen.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -56179,6 +61457,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Haditechnikai Park",
+                  "text": "Az egykori szovjet rakétabázis területén kialakított szabadtéri múzeum harckocsikat és radarokat mutat be.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nyakas-hegy",
+                  "text": "Népszerű túraútvonal, amely panorámás kilátást nyújt a Zsámbéki-medencére és különleges mészkőalakzataira.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -56297,6 +61587,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Parcul de Tehnică Militară",
+                  "text": "Un muzeu în aer liber situat pe o fostă bază de rachete sovietice, prezentând tancuri și radare militare.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dealul Nyakas",
+                  "text": "O destinație populară de drumeție, oferind o vedere panoramică asupra bazinului Zsámbék și formațiuni calcaroase.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -56415,6 +61717,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Military Technology Park",
+                  "text": "An open-air museum located on a former Soviet missile base, featuring tanks and radar equipment.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nyakas Hill",
+                  "text": "A popular hiking destination offering panoramic views of the Zsámbék basin and unique limestone formations.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ]
 }
@@ -56604,6 +61918,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "1956-Denkmal",
+                  "text": "Ein schlichtes und würdevolles Denkmal, das an die Ereignisse und die Opfer der ungarischen Revolution erinnert.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statue des Heiligen Florian",
+                  "text": "Diese Statue ehrt den Schutzpatron der Feuerwehrleute und steht an einem prominenten Platz im Ort.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -56751,6 +62077,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "1956-os emlékmű",
+                  "text": "Egy egyszerű és méltóságteljes emlékhely, amely a magyar forradalom helyi eseményeire és áldozataira emlékeztet.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Flórián-szobor",
+                  "text": "A tűzoltók védőszentjét ábrázoló szobor a település egyik fontos vallási és közösségi emlékhelye.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -56891,6 +62229,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Monumentul din 1956",
+                  "text": "Un monument simplu și demn care comemorează evenimentele și victimele revoluției maghiare în această regiune.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia Sfântului Florian",
+                  "text": "Această statuie îl onorează pe sfântul patron al pompierilor și este situată într-un loc proeminent din localitate.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -57031,6 +62381,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "1956 Memorial",
+                  "text": "A simple and dignified monument commemorating the events and victims of the Hungarian Revolution in the region.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint Florian Statue",
+                  "text": "This statue honors the patron saint of firefighters and stands in a prominent place within the community.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ]
 }
@@ -57191,6 +62553,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Dreifaltigkeitssäule",
+                  "text": "Eine historische Skulptur im Zentrum der Stadt, die als Symbol für den Glauben und den Zusammenhalt der Gemeinde gilt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "1956-Gedenkstein",
+                  "text": "Ein Gedenkstein zur Erinnerung an den Volksaufstand von 1956 und den Mut der lokalen Bevölkerung.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -57302,6 +62676,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Szentháromság-szobor",
+                  "text": "A település egyik legrégebbi köztéri szobra, amely a hívők közösségének összefogását jelképezi a központban.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "1956-os emlékmű",
+                  "text": "Az 1956-os forradalom eseményeire emlékeztető alkotás, amely a helyi lakosok bátorsága előtt tiszteleg.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -57413,6 +62799,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Statuia Sfintei Treimi",
+                  "text": "O sculptură istorică aflată în centrul orașului, reprezentând credința și unitatea comunității locale.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monumentul din 1956",
+                  "text": "O piatră memorială ridicată în cinstea revoluției din 1956 și a curajului demonstrat de populația locală.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -57524,6 +62922,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Trinity Statue",
+                  "text": "A historical sculpture in the town center, serving as a symbol of faith and community solidarity for locals.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "1956 Memorial",
+                  "text": "A memorial stone commemorating the 1956 revolution and honoring the courage of the local citizens.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ]
 }
@@ -57691,6 +63101,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "József-Attila-Denkmal",
+                  "text": "Eine Statue zu Ehren des berühmten ungarischen Dichters József Attila, dessen Familie eng mit der Geschichte der Stadt verbunden ist.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -57809,6 +63225,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "József Attila-szobor",
+                  "text": "A híres költő emlékére állított szobor a település központjában, mivel családja szorosan kötődik Szabadszállás történelméhez.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -57927,6 +63349,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Statuia József Attila",
+                  "text": "O statuie dedicată celebrului poet maghiar József Attila, a cărui familie are legături istorice profunde cu această localitate.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -58045,6 +63473,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "József Attila Statue",
+                  "text": "A statue honoring the famous Hungarian poet József Attila, whose family has deep historical roots in Szabadszállás.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ]
 }
@@ -58212,6 +63646,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Wirtschaftsgebäude des Blaskovich-Anwesens",
+                  "text": "Die erhaltenen Wirtschaftsgebäude und Stallungen des Gutes zeigen die landwirtschaftliche Vergangenheit und Pferdezucht der Region.",
+                  "category": "historical",
+                  "confidence": "medium"
             }
       ],
       "hu": [
@@ -58330,6 +63770,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Blaskovich-kúria gazdasági épületei",
+                  "text": "A kúriához tartozó megmaradt gazdasági épületek és istállók, amelyek a régió mezőgazdasági múltját és a lótenyésztést hirdetik.",
+                  "category": "historical",
+                  "confidence": "medium"
             }
       ],
       "ro": [
@@ -58448,6 +63894,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Clădirile anexă ale conacului Blaskovich",
+                  "text": "Anexele și grajdurile conservate ale domeniului ilustrează trecutul agricol și tradiția creșterii cailor din această regiune.",
+                  "category": "historical",
+                  "confidence": "medium"
             }
       ],
       "en": [
@@ -58566,6 +64018,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Outbuildings of the Blaskovich Mansion",
+                  "text": "The preserved farm buildings and stables of the estate showcase the agricultural past and horse-breeding traditions of the area.",
+                  "category": "historical",
+                  "confidence": "medium"
             }
       ]
 }
@@ -58740,6 +64198,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Pincefalu (Kellerdorf)",
+                  "text": "Eine malerische Reihe traditioneller Weinkeller am Rande der Stadt, die für den lokalen Weinbau und die Gastfreundschaft bekannt ist.",
+                  "category": "culinary",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -58865,6 +64329,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Solti Pincefalu",
+                  "text": "A város szélén található hangulatos borospince-sor, amely a helyi szőlőtermesztés és borászat központja, népszerű kirándulóhely.",
+                  "category": "culinary",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -58990,6 +64460,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Satul Pivnițelor din Solt",
+                  "text": "Un rând pitoresc de pivnițe tradiționale de vin situat la marginea orașului, reprezentativ pentru viticultura locală.",
+                  "category": "culinary",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -59115,6 +64591,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Solt Cellar Village",
+                  "text": "A picturesque row of traditional wine cellars on the outskirts of town, serving as a hub for local viticulture and tourism.",
+                  "category": "culinary",
+                  "confidence": "high"
             }
       ]
 }
@@ -59282,6 +64764,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Weinberge von Bátaszék",
+                  "text": "Die sanften Hügel rund um die Stadt gehören zum Weinbaugebiet Szekszárd und bieten hervorragende Bedingungen für Rotweine.",
+                  "category": "natural",
+                  "confidence": "medium"
             }
       ],
       "hu": [
@@ -59400,6 +64888,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Bátaszéki szőlőhegyek",
+                  "text": "A települést körülölelő lankás dombok a Szekszárdi borvidék részei, híresek a kiváló vörösborokról és a szép kilátásról.",
+                  "category": "natural",
+                  "confidence": "medium"
             }
       ],
       "ro": [
@@ -59518,6 +65012,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Podgoriile din Bátaszék",
+                  "text": "Dealurile domoale care înconjoară orașul fac parte din regiunea viticolă Szekszárd, fiind renumite pentru vinurile roșii de calitate.",
+                  "category": "natural",
+                  "confidence": "medium"
             }
       ],
       "en": [
@@ -59636,6 +65136,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Vineyards of Bátaszék",
+                  "text": "The rolling hills surrounding the town are part of the Szekszárd wine region, known for excellent red wines and scenic views.",
+                  "category": "natural",
+                  "confidence": "medium"
             }
       ]
 }
@@ -59810,6 +65316,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Historisches Bahnhofsgebäude",
+                  "text": "Ein bedeutender Bahnknotenpunkt mit einem architektonisch interessanten Gebäude, das die wichtige Rolle der Eisenbahn betont.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -59935,6 +65447,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Vasútállomás épülete",
+                  "text": "Pusztaszabolcs fontos vasúti csomópont, melynek állomásépülete jellegzetes építészeti stílusával a város fejlődését szimbolizálja.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -60060,6 +65578,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Clădirea Gării",
+                  "text": "Un nod feroviar important cu o clădire de gară reprezentativă, subliniind rolul crucial al căilor ferate în istoria localității.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -60185,6 +65709,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Historic Railway Station",
+                  "text": "A major railway junction with an architecturally notable station building, highlighting the town's importance in transport history.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ]
 }
@@ -60323,6 +65853,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Benedek-Schloss (Abapuszta)",
+                  "text": "Ein klassizistisches Herrenhaus aus dem 19. Jahrhundert im Stadtteil Abapuszta, ein wichtiges lokales Kulturerbe.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Petőfi-Statue",
+                  "text": "Eine dem berühmten ungarischen Dichter gewidmete Statue in einem öffentlichen Park, die an das Erbe des Nationalhelden erinnert.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -60412,6 +65954,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Benedek-kastély (Abapuszta)",
+                  "text": "A 19. században épült klasszicista kúria az abapusztai városrészen található, a település egyik jelentős műemléke.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Petőfi Sándor-szobor",
+                  "text": "A híres költő tiszteletére állított alkotás a város egyik parkjában kapott helyet, emléket állítva a nemzeti hősnek.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -60501,6 +66055,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Castelul Benedek (Abapuszta)",
+                  "text": "Un conac neoclasic construit în secolul al XIX-lea în cartierul Abapuszta, reprezentând un monument istoric local important.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia lui Sándor Petőfi",
+                  "text": "O statuie dedicată celebrului poet maghiar, situată într-un parc public, comemorând moștenirea eroului național.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -60590,6 +66156,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Benedek Mansion (Abapuszta)",
+                  "text": "A 19th-century Neoclassical manor located in the Abapuszta district, serving as a significant local architectural heritage.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sándor Petőfi Statue",
+                  "text": "A monument dedicated to the renowned Hungarian poet, set in a public park to honor his literary and national impact.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ]
 }
@@ -60764,6 +66342,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Sportmuseum",
+                  "text": "Ein lokales Museum, das die sportlichen Erfolge des Dorfes zeigt, insbesondere im Bereich des Pferdesports.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kincsem-Statue",
+                  "text": "Eine lebensgroße Statue der Wunderstute Kincsem, dem erfolgreichsten Rennpferd der Geschichte, das hier geboren wurde.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -60889,6 +66479,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Sportmúzeum",
+                  "text": "A falu sporteredményeit bemutató helyi gyűjtemény, amely különös figyelmet szentel a lovas hagyományoknak.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kincsem-szobor",
+                  "text": "A híres „csodakanca”, Kincsem életnagyságú szobra a településen, ahol a világ legsikeresebb versenylova született.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -61014,6 +66616,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Muzeul Sportului",
+                  "text": "Un muzeu local care prezintă realizările sportive ale satului, în special cele legate de tradițiile ecvestre.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia Kincsem",
+                  "text": "O statuie în mărime naturală a legendarei iepe Kincsem, cel mai de succes cal de curse din istorie, născută aici.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -61139,6 +66753,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Sports Museum",
+                  "text": "A local museum showcasing the village's sporting achievements, with a special focus on equestrian traditions.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kincsem Statue",
+                  "text": "A life-sized statue of the legendary mare Kincsem, the most successful racehorse in history, who was born here.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ]
 }
@@ -61349,6 +66975,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Weinmuseum Palotapince",
+                  "text": "Ein historischer Weinkeller unter dem Bischofspalast, der die Weinbautraditionen der Region Balaton-Oberland präsentiert.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kálmán Darnay Gedenkmuseum",
+                  "text": "Ein Museum zu Ehren des berühmten Archäologen und Historikers mit bedeutenden lokalgeschichtlichen Sammlungen.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sándor Kisfaludy Aussichtsturm",
+                  "text": "Ein auf dem Berg gelegener Aussichtsturm, der einen herrlichen Rundblick auf die Stadt Sümeg und die Burg bietet.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -61510,6 +67154,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Palotapince Bormúzeum",
+                  "text": "A püspöki palota alatt található történelmi pincészet, amely a Balaton-felvidék borászati hagyományait mutatja be.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Darnay Kálmán Emlékmúzeum",
+                  "text": "A híres régész és helytörténész emlékére létrehozott múzeum, amely jelentős helytörténeti gyűjteménynek ad otthont.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kisfaludy Sándor-kilátó",
+                  "text": "A hegyen található építmény, ahonnan pazar panoráma nyílik Sümeg városára és a középkori várra.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -61671,6 +67333,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Muzeul Vinului Palotapince",
+                  "text": "O cramă istorică situată sub Palatul Episcopal, care prezintă tradițiile viticole din regiunea Balatonului.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Memorial Darnay Kálmán",
+                  "text": "Un muzeu dedicat celebrului arheolog și istoric local, adăpostind colecții semnificative de istorie locală.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Belvedere Sándor Kisfaludy",
+                  "text": "Un turn de observație situat pe deal, oferind o vedere panoramică superbă asupra orașului Sümeg și a cetății.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -61832,6 +67512,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Palotapince Wine Museum",
+                  "text": "A historical wine cellar beneath the Bishop's Palace, showcasing the winemaking traditions of the Balaton region.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kálmán Darnay Memorial Museum",
+                  "text": "A museum dedicated to the famous archaeologist and historian, housing significant local historical collections.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sándor Kisfaludy Lookout Tower",
+                  "text": "An observation tower located on the hill, offering a splendid panoramic view of Sümeg and the castle.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ]
 }
@@ -62035,6 +67733,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Aranyoder Weinberg",
+                  "text": "Ein malerisches Hügelgebiet mit traditionellen Weinkellern und einem herrlichen Blick auf das Zala-Tal.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lajos Batthyány Denkmal",
+                  "text": "Eine Statue zu Ehren des ersten ungarischen Ministerpräsidenten, die sich im zentralen Park der Stadt befindet.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -62189,6 +67899,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Aranyodi-szőlőhegy",
+                  "text": "Gondozott szőlőültetvényekkel és borospincékkel teli dombság, amely kiváló kirándulóhely és kilátópont.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Batthyány Lajos-szobor",
+                  "text": "Magyarország első felelős miniszterelnökének emlékére állított szobor a város egyik központi parkjában.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -62343,6 +68065,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Dealul Viticol Aranyod",
+                  "text": "O zonă deluroasă pitorească cu crame tradiționale, oferind o priveliște minunată asupra văii râului Zala.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monumentul Lajos Batthyány",
+                  "text": "O statuie ridicată în onoarea primului prim-ministru al Ungariei, situată în parcul central al orașului.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -62497,6 +68231,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Aranyod Wine Hill",
+                  "text": "A scenic hilly area filled with traditional wine cellars, offering beautiful views over the Zala River valley.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lajos Batthyány Monument",
+                  "text": "A statue honoring the first Prime Minister of Hungary, located in one of the central parks of the town.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ]
 }
@@ -62664,6 +68410,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "inferred"
+            },
+            {
+                  "name": "István Széchenyi Statue",
+                  "text": "Eine Statue zu Ehren des „größten Ungarn“, die an einem zentralen Platz der Siedlung steht.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alsónémedi-Moorwiesen",
+                  "text": "Ein geschütztes Naturgebiet mit einzigartiger Flora und Fauna, Teil des Nationalparks Donau-Ipoly.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -62782,6 +68540,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "inferred"
+            },
+            {
+                  "name": "Széchenyi István-szobor",
+                  "text": "A „legnagyobb magyar” tiszteletére emelt alkotás a település egyik központi közterületén található.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alsónémedi láprétek",
+                  "text": "Védett természeti terület egyedi növény- és állatvilággal, a Duna–Ipoly Nemzeti Park része, kiváló kirándulóhely.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -62900,6 +68670,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "inferred"
+            },
+            {
+                  "name": "Statuia lui István Széchenyi",
+                  "text": "O statuie ridicată în cinstea „celui mai mare maghiar”, situată într-o piață centrală a localității.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pajiștile mlăștinoase din Alsónémedi",
+                  "text": "O arie naturală protejată cu floră și faună unică, parte a Parcului Național Dunăre-Ipoly.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -63018,6 +68800,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "inferred"
+            },
+            {
+                  "name": "István Széchenyi Statue",
+                  "text": "A monument dedicated to the „Greatest Hungarian”, located in a central public space of the settlement.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alsónémedi Fen Meadows",
+                  "text": "A protected natural area featuring unique flora and fauna, part of the Duna-Ipoly National Park.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ]
 }
@@ -63214,6 +69008,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Pásti-Kurie",
+                  "text": "Ein klassizistisches Herrenhaus aus dem 19. Jahrhundert, das einst einer wohlhabenden lokalen Adelsfamilie gehörte.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Insel Bél",
+                  "text": "Ein naturbelassenes Schutzgebiet in der Theiß-Aue, bekannt für seine reiche Vogelwelt und unberührte Flora.",
+                  "category": "natural",
+                  "confidence": "medium"
             }
       ],
       "hu": [
@@ -63361,6 +69167,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Pásti-kúria",
+                  "text": "Klasszicista stílusú nemesi udvarház a 19. századból, amely a település egykori földbirtokos családjának emléke.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bél-sziget",
+                  "text": "A Tisza árterében található természetvédelmi terület, amely gazdag madárvilágáról és ártéri erdőiről nevezetes.",
+                  "category": "natural",
+                  "confidence": "medium"
             }
       ],
       "ro": [
@@ -63508,6 +69326,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Conacul Pásti",
+                  "text": "Un conac în stil neoclasic din secolul al XIX-lea, care a aparținut unei familii nobiliare locale înstărite.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Insula Bél",
+                  "text": "O zonă naturală protejată în lunca Tisei, cunoscută pentru avifauna bogată și flora de luncă neatinsă.",
+                  "category": "natural",
+                  "confidence": "medium"
             }
       ],
       "en": [
@@ -63655,6 +69485,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Pásti Mansion",
+                  "text": "A 19th-century neoclassical manor house that once belonged to a wealthy local noble family of the region.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bél Island",
+                  "text": "A protected natural area in the Tisza floodplain, famous for its diverse bird species and untouched flora.",
+                  "category": "natural",
+                  "confidence": "medium"
             }
       ]
 }
@@ -63800,6 +69642,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Besucherzentrum Bárka",
+                  "text": "Eine interaktive Ausstellung über die Tier- und Pflanzenwelt des Kolon-Sees und des Kiskunság-Nationalparks.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kurjantó-Aussichtsturm",
+                  "text": "Ein hölzerner Beobachtungsturm, der einen weiten Blick über die Sumpflandschaften und Schilfgebiete bietet.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -63896,6 +69750,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Bárka Látogatóközpont",
+                  "text": "Interaktív kiállítóhely, amely a Kolon-tó és a Kiskunsági Nemzeti Park különleges élővilágát mutatja be.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kurjantó-kilátó",
+                  "text": "Fából készült megfigyelőtorony, ahonnan pazar kilátás nyílik a lápvidékre és a nádasokkal borított tóra.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -63992,6 +69858,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Centrul de vizitatori Bárka",
+                  "text": "O expoziție interactivă despre fauna și flora lacului Kolon și a Parcului Național Kiskunság.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turnul de observație Kurjantó",
+                  "text": "Un turn de observație din lemn ce oferă o panoramă largă asupra zonelor mlăștinoase și a stufărișului.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -64088,6 +69966,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Bárka Visitor Center",
+                  "text": "An interactive exhibition space showcasing the unique wildlife and plants of Lake Kolon and the national park.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kurjantó Lookout",
+                  "text": "A wooden observation tower providing a wide view over the marshlands and vast reed beds of the area.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ]
 }
@@ -64284,6 +70174,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Bata-Siedlung",
+                  "text": "Eine funktionale Arbeitersiedlung, die im charakteristischen Baustil der Bata-Schuhfabrik errichtet wurde.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Theiß-Uferpromenade",
+                  "text": "Ein malerischer Spazierweg entlang des Flusses, ideal für Naturbeobachtungen und entspannende Wanderungen.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -64431,6 +70333,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Bata-lakótelep",
+                  "text": "A cipőgyár munkásai számára épült, egységes stílusú, funkcionalista építészeti emlékeket őrző lakóövezet.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tisza-parti sétány",
+                  "text": "A folyó mentén húzódó hangulatos útvonal, amely pihenésre és a vízi világ megfigyelésére is alkalmas.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -64578,6 +70492,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Cartierul Bata",
+                  "text": "O colonie de locuințe muncitorești construită într-un stil funcționalist specific epocii fabricii de încălțăminte.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Promenada Tisa",
+                  "text": "Un traseu pitoresc de plimbare de-a lungul râului, ideal pentru relaxare și admirarea peisajului fluvial.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -64725,6 +70651,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Bata Housing Estate",
+                  "text": "A functionalist residential area built in a uniform style for the workers of the local shoe factory.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tisza Riverbank Promenade",
+                  "text": "A scenic walking path along the river, perfect for relaxation and observing the local riverine ecosystem.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ]
 }
@@ -64885,6 +70823,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Denkmal der Revolution von 1956",
+                  "text": "Ein Denkmal im Zentrum der Gemeinde, das den lokalen Helden des ungarischen Freiheitskampfes gewidmet ist.",
+                  "category": "historical",
+                  "confidence": "medium"
             }
       ],
       "hu": [
@@ -64996,6 +70940,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "1956-os emlékmű",
+                  "text": "A település központjában álló mementó, amely a forradalom helyi áldozatainak és hőseinek állít emléket.",
+                  "category": "historical",
+                  "confidence": "medium"
             }
       ],
       "ro": [
@@ -65107,6 +71057,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Monumentul Revoluției din 1956",
+                  "text": "Un monument situat în centrul localității, dedicat eroilor locali ai luptei pentru libertate din Ungaria.",
+                  "category": "historical",
+                  "confidence": "medium"
             }
       ],
       "en": [
@@ -65218,6 +71174,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "1956 Revolution Monument",
+                  "text": "A memorial located in the town center, dedicated to the local heroes of the Hungarian uprising of 1956.",
+                  "category": "historical",
+                  "confidence": "medium"
             }
       ]
 }
@@ -65356,6 +71318,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Zichy-Schlosspark",
+                  "text": "Ein historisches Arboretum rund um das Herrenhaus mit mehreren hundert Jahre alten, geschützten Bäumen.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -65445,6 +71413,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Zichy-kastélypark",
+                  "text": "A kúria körül elterülő védett park, amelyben több száz éves faóriások és ritka növényfajok találhatók.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -65534,6 +71508,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Parcul Castelului Zichy",
+                  "text": "Un arboretum istoric situat în jurul conacului, adăpostind specii de arbori protejați vechi de secole.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -65623,6 +71603,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Zichy Mansion Park",
+                  "text": "A historic arboretum surrounding the manor house, home to several centuries-old protected tree species.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ]
 }
@@ -65768,6 +71754,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Dreiländereck (Skulpturenpark)",
+                  "text": "Ein markanter Punkt an der Grenze zwischen Ungarn, Österreich und der Slowakei mit verschiedenen modernen Skulpturen und Rastplätzen.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Donau-Auen bei Rajka",
+                  "text": "Ausgedehnte Auenlandschaften entlang der Donauarme, die sich ideal zum Wandern, Radfahren und zur Naturbeobachtung eignen.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -65864,6 +71862,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Hármashatár (Szoborpark)",
+                  "text": "Magyarország, Ausztria és Szlovákia találkozási pontja, ahol modern szobrok és pihenőhelyek várják a látogatókat.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rajkai Duna-ártér",
+                  "text": "A Duna ágai mentén elterülő gazdag élővilágú ártéri erdők, amelyek kiválóak túrázásra és vízi sportokra.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -65960,6 +71970,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Triplex Confinium (Parcul de Sculpturi)",
+                  "text": "Punctul de întâlnire al frontierelor Ungariei, Austriei și Slovaciei, decorat cu sculpturi moderne și spații de relaxare.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lunca Dunării la Rajka",
+                  "text": "Zone naturale extinse de-a lungul brațelor Dunării, ideale pentru drumeții, ciclism și observarea faunei locale.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -66056,6 +72078,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Tripoint (Sculpture Park)",
+                  "text": "The meeting point of the borders of Hungary, Austria, and Slovakia, featuring various modern sculptures and picnic spots.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Danube Floodplains at Rajka",
+                  "text": "Beautiful natural areas along the Danube branches, perfect for hiking, cycling, and enjoying the river landscape.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ]
 }
@@ -66230,6 +72264,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Sportkomplex Alsózsolca",
+                  "text": "Ein modernes lokales Sportzentrum, das als zentraler Ort für Gemeindeereignisse und sportliche Aktivitäten dient.",
+                  "category": "recreational",
+                  "confidence": "medium"
             }
       ],
       "hu": [
@@ -66355,6 +72395,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Alsózsolcai Sportpálya",
+                  "text": "Modern helyi sportközpont, amely a közösségi események és a sportélet meghatározó helyszíne a településen.",
+                  "category": "recreational",
+                  "confidence": "medium"
             }
       ],
       "ro": [
@@ -66480,6 +72526,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Complexul Sportiv Alsózsolca",
+                  "text": "Un centru sportiv local modern, utilizat pentru activități atletice și diverse evenimente ale comunității.",
+                  "category": "recreational",
+                  "confidence": "medium"
             }
       ],
       "en": [
@@ -66605,6 +72657,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Alsózsolca Sports Complex",
+                  "text": "A modern local sports facility that serves as a hub for community events and athletic activities in the area.",
+                  "category": "recreational",
+                  "confidence": "medium"
             }
       ]
 }
@@ -66801,6 +72859,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "HELL Ring",
+                  "text": "Eine professionelle Rennstrecke und ein Veranstaltungszentrum in der Nähe von Szikszó für Motorsportbegeisterte.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Angelsee Szikszó",
+                  "text": "Ein lokaler Angelsee, der Ruhe bietet und bei Fischern der Region für seinen guten Bestand bekannt ist.",
+                  "category": "recreational",
+                  "confidence": "medium"
             }
       ],
       "hu": [
@@ -66948,6 +73018,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "HELL Ring",
+                  "text": "Szikszó mellett található professzionális autó- és versenypálya, amely technikai sporteseményeknek ad otthont.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szikszói horgásztó",
+                  "text": "A város szélén található csendes pihenőhely, amely kedvelt a helyi horgászok és a természetjárók körében.",
+                  "category": "recreational",
+                  "confidence": "medium"
             }
       ],
       "ro": [
@@ -67095,6 +73177,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Circuitul HELL Ring",
+                  "text": "O pistă de curse profesionistă situată lângă Szikszó, destinată sporturilor cu motor și evenimentelor auto.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lacul de pescuit Szikszó",
+                  "text": "Un lac local liniștit, popular printre pescari pentru varietatea de pești și cadrul natural relaxant.",
+                  "category": "recreational",
+                  "confidence": "medium"
             }
       ],
       "en": [
@@ -67242,6 +73336,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "HELL Ring",
+                  "text": "A professional racing circuit and event center located near Szikszó, popular for motorsport and driving experiences.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szikszó Fishing Lake",
+                  "text": "A peaceful local lake offering great fishing opportunities and a quiet escape into nature for visitors.",
+                  "category": "recreational",
+                  "confidence": "medium"
             }
       ]
 }
@@ -67438,6 +73544,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Gedenksäule der Helden",
+                  "text": "Ein Denkmal im Ortszentrum, das den Opfern der Weltkriege gewidmet ist und an die lokale Geschichte erinnert.",
+                  "category": "historical",
+                  "confidence": "medium"
+            },
+            {
+                  "name": "Vértes-Gebirge Wanderwege",
+                  "text": "Zahlreiche markierte Pfade führen von Csákvár in die dichten Wälder des Vértes-Gebirges zu Felsen und Aussichtspunkten.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -67585,6 +73703,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Hősi emlékmű",
+                  "text": "A település központjában álló emlékmű, amely a világháborúk helyi áldozatainak állít méltó emléket.",
+                  "category": "historical",
+                  "confidence": "medium"
+            },
+            {
+                  "name": "Vértesi turistaútvonalak",
+                  "text": "Csákvárról induló jelzett turistautak, amelyek a hegység különleges szikláihoz és kilátóihoz vezetnek.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -67732,6 +73862,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Trasee montane în Munții Vértes",
+                  "text": "Numeroase poteci marcate pornesc din Csákvár spre pădurile dese și formațiunile stâncoase ale masivului Vértes.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -67879,6 +74015,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Heroes' Memorial",
+                  "text": "A monument in the town center dedicated to the local victims of the World Wars, serving as a place of remembrance.",
+                  "category": "historical",
+                  "confidence": "medium"
+            },
+            {
+                  "name": "Vértes Mountains Hiking Trails",
+                  "text": "Various marked trails lead from Csákvár into the dense forests and unique rock formations of the Vértes hills.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ]
 }
@@ -68075,6 +74223,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Kincsem-Gedenkstätte",
+                  "text": "Erinnerungsort für das berühmteste ungarische Rennpferd, das auf dem ehemaligen Staatsgestüt in Kisbér geboren wurde.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ehemalige Offizierskasino",
+                  "text": "Ein repräsentatives historisches Gebäude, das einst dem gesellschaftlichen Leben der Offiziere des Gestüts diente.",
+                  "category": "historical",
+                  "confidence": "medium"
             }
       ],
       "hu": [
@@ -68222,6 +74382,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Kincsem-emléktábla és istálló",
+                  "text": "A világhírű magyar versenyló emlékhelye a kisbéri ménesbirtokon, ahol a csodaló született és nevelkedett.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tiszti Kaszinó épülete",
+                  "text": "Impozáns történelmi épület, amely egykor a ménesbirtok tisztjeinek társasági életét és rendezvényeit szolgálta.",
+                  "category": "historical",
+                  "confidence": "medium"
             }
       ],
       "ro": [
@@ -68369,6 +74541,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Locul memorial Kincsem",
+                  "text": "Un sit dedicat celui mai faimos cal de curse maghiar, născut și antrenat la herghelia de stat din Kisbér.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fostul Cazinou al Ofițerilor",
+                  "text": "O clădire istorică elegantă care servea drept centru social pentru ofițerii hergheliei regale în secolul al XIX-lea.",
+                  "category": "historical",
+                  "confidence": "medium"
             }
       ],
       "en": [
@@ -68516,6 +74700,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Kincsem Memorial Site",
+                  "text": "A memorial dedicated to the world-famous Hungarian racehorse, Kincsem, born at the royal stud farm in Kisbér.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Former Officers' Casino",
+                  "text": "An impressive historical building that once hosted social events for the officers of the famous local stud farm.",
+                  "category": "historical",
+                  "confidence": "medium"
             }
       ]
 }
@@ -68690,6 +74886,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Petőfi-Kulturzentrum",
+                  "text": "Das Zentrum des kulturellen Lebens der Stadt, in dem das ganze Jahr über Theateraufführungen, Ausstellungen und Gemeindeveranstaltungen stattfinden.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Denkmal der Zuckerfabrik Selyp",
+                  "text": "Ein Denkmal auf dem ehemaligen Gelände der Fabrik, das an die industrielle Vergangenheit der Stadt und die dort arbeitende Bevölkerung erinnert.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -68815,6 +75023,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Petőfi Sándor Művelődési Ház",
+                  "text": "A város kulturális életének központja, ahol színházi előadásokat, kiállításokat és közösségi eseményeket rendeznek egész évben.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Selypi Cukorgyár emlékműve",
+                  "text": "A selypi cukorgyár egykori területén álló emlékmű, amely a város ipari múltjának és az ott dolgozóknak állít méltó emléket.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -68940,6 +75160,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Centrul Cultural Petőfi",
+                  "text": "Centrul vieții culturale a orașului, unde au loc spectacole de teatru, expoziții și evenimente comunitare pe tot parcursul anului.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monumentul Fabricii de Zahăr Selyp",
+                  "text": "Un monument situat pe fostul amplasament al fabricii, care comemorează trecutul industrial al orașului și pe lucrătorii de acolo.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -69065,6 +75297,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Petőfi Cultural Center",
+                  "text": "The center of the town's cultural life, hosting theater performances, exhibitions, and community events throughout the year.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Selyp Sugar Factory Memorial",
+                  "text": "A memorial on the former site of the sugar factory, commemorating the town's industrial past and the people who worked there.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ]
 }
@@ -69239,6 +75483,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Gemeindehaus Algyő",
+                  "text": "Ein modernes Gemeinschaftsgebäude am Hauptplatz, das kulturelle Programme, Konzerte und lokale festliche Veranstaltungen beherbergt.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sportzentrum Algyő",
+                  "text": "Eine moderne Sportanlage, die Platz für zahlreiche Sportarten bietet und der aktiven Erholung der örtlichen Gemeinschaft dient.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -69364,6 +75620,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Algyői Faluház",
+                  "text": "Modern közösségi épület, amely kulturális programoknak, koncerteknek és helyi rendezvényeknek ad otthont az Algyő főterén.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Algyői Sportközpont",
+                  "text": "Modern sportlétesítmény, amely számos sportág számára biztosít helyszínt, és a helyi közösség aktív kikapcsolódását szolgálja.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -69489,6 +75757,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Casa Comunitară Algyő",
+                  "text": "O clădire comunitară modernă în piața principală, care găzduiește programe culturale, concerte și evenimente locale festive.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Centrul Sportiv Algyő",
+                  "text": "O bază sportivă modernă care oferă spațiu pentru numeroase sporturi și servește recreerii active a comunității locale.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -69614,6 +75894,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Algyő Community House",
+                  "text": "A modern community building in the main square, hosting cultural programs, concerts, and local festive events.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Algyő Sports Center",
+                  "text": "A modern sports facility providing space for numerous sports and serving the active recreation of the local community.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ]
 }
@@ -69759,6 +76051,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "inferred"
+            },
+            {
+                  "name": "Sankt-Stephan-Kapelle",
+                  "text": "Das geistliche Zentrum der katholischen Gläubigen des Ortes, ein modernes Gebäude, das den Namen des Königs St. Stephan trägt.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -69855,6 +76153,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Szent István király kápolna",
+                  "text": "A település katolikus hívőinek lelki központja, egy modern stílusú épület, amely Szent István király nevét viseli.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -69951,6 +76255,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "inferred"
+            },
+            {
+                  "name": "Capela Sfântul Ștefan",
+                  "text": "Centrul spiritual al credincioșilor catolici din localitate, o clădire modernă care poartă numele regelui Sfântul Ștefan.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -70047,6 +76357,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Saint Stephen Chapel",
+                  "text": "The spiritual center for the Catholic faithful of the village, a modern-style building named after King Saint Stephen.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ]
 }
@@ -70243,6 +76559,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Strandbad Tiszalök",
+                  "text": "Ein beliebter Badeort am Ufer der Theiß, der Touristen mit Liegewiesen und erfrischendem Wasser zum Entspannen einlädt.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Theiß-Uferpromenade",
+                  "text": "Eine Promenade am Damm der Theiß, die einen herrlichen Blick auf den Fluss und die unberührte Natur der Umgebung bietet.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -70390,6 +76718,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Tiszalöki Strandfürdő",
+                  "text": "A Tisza partján fekvő népszerű fürdőhely, amely füves területekkel és frissítő vízzel várja a pihenni vágyó turistákat.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tisza-parti sétány",
+                  "text": "A Tisza gátján kialakított sétány, amely gyönyörű kilátást nyújt a folyóra és a környék érintetlen természetére.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -70537,6 +76877,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Ștrandul Tiszalök",
+                  "text": "Un loc de scăldat popular pe malul Tisei, care oferă turiștilor zone verzi și apă răcoritoare pentru relaxare.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Promenada de pe malul Tisei",
+                  "text": "O promenadă pe digul Tisei, care oferă o priveliște superbă asupra râului și a naturii virgine din împrejurimi.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -70684,6 +77036,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Tiszalök Beach Bath",
+                  "text": "A popular bathing spot on the banks of the Tisza, offering grassy areas and refreshing water for tourists to relax.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tisza Riverside Promenade",
+                  "text": "A promenade on the Tisza levee, offering a beautiful view of the river and the untouched nature of the surroundings.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ]
 }
@@ -70851,6 +77215,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Forster-Jagdschloss",
+                  "text": "Ein im eklektischen Stil der 1890er Jahre erbautes Schloss, das heute als Veranstaltungszentrum und Hotel in einem Park dient.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ürbőer Seen",
+                  "text": "Ein Seensystem in der Nähe des Ortes, das ein beliebtes Ziel für Angler ist und über eine reiche Vogelwelt verfügt.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -70969,6 +77345,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Forster Vadászkastély",
+                  "text": "Az 1890-es években épült eklektikus stílusú kastély, amely ma rendezvényközpontként és szállodaként funkcionál egy parkban.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ürbői-tavak",
+                  "text": "A település közelében található tórendszer, amely a horgászok kedvelt célpontja és gazdag madárvilággal rendelkezik.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -71087,6 +77475,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Castelul de Vânătoare Forster",
+                  "text": "Un castel în stil eclectic construit în anii 1890, care funcționează astăzi ca centru de evenimente și hotel într-un parc.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lacurile Ürbő",
+                  "text": "Un sistem de lacuri situat lângă localitate, care este o destinație populară pentru pescari și are o avifaună bogată.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -71205,6 +77605,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Forster Hunting Lodge",
+                  "text": "An eclectic-style castle built in the 1890s, which today serves as an event center and hotel set in a beautiful park.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ürbő Lakes",
+                  "text": "A lake system located near the village, which is a popular destination for anglers and has a rich birdlife.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ]
 }
@@ -71401,6 +77813,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Fischl-Haus",
+                  "text": "Ein kulturelles Zentrum in einem Gebäude aus dem 19. Jahrhundert, das lokale historische Ausstellungen beherbergt.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sziget-Strand",
+                  "text": "Ein gemütlicher freier Strand neben dem Hafen, der mit flachem Wasser und schattigen Bäumen zum Entspannen einlädt.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -71548,6 +77972,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Fischl-ház",
+                  "text": "A város kulturális központja, amely egy 19. századi épületben kapott helyet, és helytörténeti kiállításoknak ad otthont.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sziget-strand",
+                  "text": "A kikötő szomszédságában fekvő hangulatos szabadstrand, amely sekély vizével és árnyas fáival várja a pihenőket.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -71695,6 +78131,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Casa Fischl",
+                  "text": "Un centru cultural situat într-o clădire din secolul al XIX-lea, care găzduiește expoziții de istorie locală.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plaja Sziget",
+                  "text": "O plajă publică primitoare situată lângă port, oferind apă puțin adâncă și copaci umbroși pentru relaxare.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -71842,6 +78290,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Fischl House",
+                  "text": "A cultural center housed in a 19th-century building, featuring local history exhibitions and art galleries.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sziget Beach",
+                  "text": "A cozy public beach located next to the harbor, offering shallow waters and shaded areas for relaxation.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ]
 }
@@ -71980,6 +78440,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Millenniums-Gedenkpark",
+                  "text": "Ein friedlicher Gedenkpark im Stadtzentrum, der dem 1000-jährigen Jubiläum des ungarischen Staates gewidmet ist.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -72069,6 +78535,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Millenniumi Emlékpark",
+                  "text": "A város központjában található pihenőpark, amelyet a magyar államiság ezeréves évfordulójára hoztak létre.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -72158,6 +78630,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Parcul Memorial al Mileniului",
+                  "text": "Un parc memorial liniștit în centrul orașului, dedicat aniversării de 1000 de ani a statului maghiar.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -72247,6 +78725,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Millennium Memorial Park",
+                  "text": "A commemorative park in the city center dedicated to the 1000-year anniversary of the Hungarian state.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ]
 }
@@ -72465,6 +78949,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Bahnhof Mezőkovácsháza",
+                  "text": "Ein charakteristisches Bahnhofsgebäude aus dem späten 19. Jahrhundert, das die Verkehrsgeschichte der Region repräsentiert.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -72634,6 +79124,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Mezőkovácsháza vasútállomás",
+                  "text": "A város 19. század végén épült, jellegzetes stílusú vasúti épülete, amely a helyi közlekedés történetét őrzi.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -72803,6 +79299,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Gara Mezőkovácsháza",
+                  "text": "O clădire de gară caracteristică de la sfârșitul secolului al XIX-lea, care reprezintă istoria transportului regional.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -72972,6 +79474,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Mezőkovácsháza Railway Station",
+                  "text": "A historic late 19th-century railway station building that represents the architectural style of the era.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ]
 }
@@ -73168,6 +79676,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Jüdischer Friedhof",
+                  "text": "Ein stiller, historischer Friedhof, der als Denkmal für die ehemalige jüdische Gemeinde der Stadt und ihre Geschichte dient.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kertész-Landhaus",
+                  "text": "Ein elegantes klassizistisches Herrenhaus, das einst der Familie Kertész gehörte und heute lokalen Zwecken dient.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -73315,6 +79835,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Zsidó temető",
+                  "text": "Csendes, történelmi sírkert, amely a város egykori zsidó közösségének és múltjának állít méltó emléket.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kertész-kúria",
+                  "text": "Elegáns klasszicista stílusú kúriaépület, amely egykor a Kertész család tulajdona volt, ma közösségi célokat szolgál.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -73462,6 +79994,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Cimitirul Evreiesc",
+                  "text": "Un cimitir istoric tăcut care servește ca memorial pentru fosta comunitate evreiască a orașului și istoria sa.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Conacul Kertész",
+                  "text": "Un conac neoclasic elegant care a aparținut cândva familiei Kertész, servind acum scopurilor locale.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -73609,6 +80153,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Jewish Cemetery",
+                  "text": "A silent, historical cemetery that serves as a memorial to the town's former Jewish community and history.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kertész Manor",
+                  "text": "An elegant neoclassical manor building that once belonged to the Kertész family, now serving local goals.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ]
 }
@@ -73776,6 +80332,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Gedenkstätte Zuckerfabrik",
+                  "text": "Eine Gedenkstätte am Eingang der ehemaligen Zuckerfabrik, die einst der wichtigste Arbeitgeber der Stadt war.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -73894,6 +80456,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Cukorgyári emlékhely",
+                  "text": "Az egykori kabai cukorgyár bejáratánál kialakított emlékhely, amely a város ipari múltjának állít emléket.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -74012,6 +80580,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Loc memorial Fabrica de Zahăr",
+                  "text": "Un sit comemorativ la intrarea fostei fabrici de zahăr, care a fost cândva principalul angajator al orașului.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -74130,6 +80704,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Sugar Factory Memorial",
+                  "text": "A commemorative site at the entrance of the former sugar factory, once the main employer of the town.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ]
 }
@@ -74275,6 +80855,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Donauufer",
+                  "text": "Das Donauufer bietet einen entspannenden Spazierweg mit Panoramablick auf den Fluss und die gegenüberliegenden Berge des Pilis-Gebirges.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Heldenmonument",
+                  "text": "Dieses Denkmal im Zentrum der Stadt erinnert an die lokalen Opfer des Ersten und Zweiten Weltkriegs in einem würdigem Rahmen.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kulturhaus",
+                  "text": "Das örtliche Kulturhaus ist das Zentrum des Gemeinschaftslebens und kultureller Veranstaltungen, in dem regelmäßig Aufführungen stattfinden.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -74371,6 +80969,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Duna-part",
+                  "text": "A Duna menti sétány népszerű kirándulóhely, ahonnan szép kilátás nyílik a folyóra és a környező Pilis hegység vonulataira.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hősök emlékműve",
+                  "text": "A település központjában álló emlékmű az első és második világháború helyi áldozatainak állít méltó emléket.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Művelődési Ház",
+                  "text": "A helyi Művelődési Ház a közösségi élet és kulturális események központja, ahol rendszeresen tartanak előadásokat és kiállításokat.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -74467,6 +81083,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Malul Dunării",
+                  "text": "Malul Dunării oferă o zonă de promenadă relaxantă, cu vederi panoramice spre fluviu și dealurile din zona muntoasă Pilis.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monumentul Eroilor",
+                  "text": "Monumentul situat în centrul localității este dedicat victimelor locale din Primul și al Doilea Război Mondial.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa de Cultură",
+                  "text": "Casa de Cultură locală este centrul vieții comunitare și al evenimentelor culturale, găzduind în mod regulat spectacole și expoziții.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -74563,6 +81197,24 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Danube Bank",
+                  "text": "The Danube bank provides a scenic promenade for walks, offering beautiful views of the river and the nearby Pilis mountains.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monument to the Heroes",
+                  "text": "Located in the town center, this monument commemorates the local residents who lost their lives in the World Wars.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cultural House",
+                  "text": "The local Cultural House is the center of community life and cultural events, regularly hosting performances and exhibitions.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ]
 }
@@ -74690,6 +81342,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Bahnhofsgebäude",
+                  "text": "Das charakteristische Bahnhofsgebäude spiegelt den Stil der Eisenbahnarchitektur des frühen 20. Jahrhunderts wider.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -74768,6 +81426,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Vasútállomás épülete",
+                  "text": "A jellegzetes állomásépület a 20. század eleji vasúti építészet stílusát tükrözi, fontos közlekedési csomópont.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -74846,6 +81510,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Clădirea gării",
+                  "text": "Clădirea gării reflectă arhitectura feroviară de la începutul secolului al XX-lea, fiind un punct important de transport.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -74924,6 +81594,12 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Railway Station Building",
+                  "text": "The characteristic station building reflects early 20th-century railway architecture and serves as a vital transport hub.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ]
 }
@@ -75098,6 +81774,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Haus der Hajdu-Traditionen",
+                  "text": "Diese Kultureinrichtung präsentiert die Vergangenheit der Hajdu-Stadt sowie ethnografische Werte und lokale Traditionen.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kölcsey Ferenc Kulturhaus",
+                  "text": "Das Kölcsey Ferenc Kulturhaus ist das kulturelle Zentrum der Stadt und beherbergt eine Bibliothek sowie Gemeinschaftsprogramme.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -75223,6 +81911,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Hajdú Hagyományok Háza",
+                  "text": "A kulturális intézmény a hajdúváros múltját, néprajzi értékeit és a helyi mesterségek hagyományait mutatja be.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kölcsey Ferenc Művelődési Ház",
+                  "text": "A Kölcsey Ferenc Művelődési Ház a település kulturális központja, amely könyvtárnak és közösségi programoknak ad otthont.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -75348,6 +82048,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Casa Tradițiilor Haiducilor",
+                  "text": "Instituția culturală prezintă trecutul orașului haiduc, valorile etnografice și tradițiile meșteșugurilor locale.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa de Cultură Kölcsey Ferenc",
+                  "text": "Casa de Cultură Kölcsey Ferenc este centrul cultural al localității, adăpostind o bibliotecă și diverse programe comunitare.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -75473,6 +82185,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "House of Hajdú Traditions",
+                  "text": "This cultural institution showcases the past of the Hajdú town, its ethnographic values, and local craft traditions.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kölcsey Ferenc Cultural House",
+                  "text": "The Kölcsey Ferenc Cultural House is the town's cultural center, housing a library and various community programs.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ]
 }
@@ -75614,6 +82338,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Haltestelle der Kecskeméter Kleinbahn",
+                  "text": "Ein Haltepunkt der Kecskeméter Kleinbahn, der oft Ausgangspunkt für nostalgische Fahrten durch die Sandlandschaft ist.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lokalhistorische Ausstellung",
+                  "text": "Die lokalhistorische Ausstellung zeigt die Gründung von Helvécia und das Erbe der Schweizer Siedler anhand von Exponaten.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -75706,6 +82442,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Kecskeméti Kisvasút állomás",
+                  "text": "A Kecskeméti Kisvasút egyik megállója, amely a környék homoki tájain keresztül haladó nosztalgiautazások helyszíne.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Helytörténeti kiállítás",
+                  "text": "A helyi történeti kiállítás Helvécia alapítását és a svájci telepesek örökségét mutatja be tárgyi emlékeken keresztül.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -75798,6 +82546,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Stația de cale ferată îngustă",
+                  "text": "O oprire a căii ferate înguste din Kecskemét, locul unor călătorii nostalgice prin peisajele nisipoase din regiune.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Expoziția istorică locală",
+                  "text": "Expoziția istorică locală prezintă fondarea localității Helvécia și moștenirea coloniștilor elvețieni prin diverse artefacte.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -75890,6 +82650,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Kecskemét Narrow Gauge Railway Station",
+                  "text": "A stop on the Kecskemét narrow-gauge railway, serving as a site for nostalgic trips through the local sandy landscapes.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Local Historical Exhibition",
+                  "text": "The local historical exhibition presents the founding of Helvécia and the heritage of Swiss settlers through various artifacts.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ]
 }
@@ -76071,6 +82843,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Lokalhistorische Sammlung",
+                  "text": "Die Ausstellung informiert über die Entwicklung der Stadt, archäologische Funde und die Geschichte der Seenlandschaft.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Heldenmonument",
+                  "text": "Das Heldenmonument ehrt die Bewohner von Nyékládháza, die in den Weltkriegen gefallen sind, und dient als Ort des Gedenkens.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -76203,6 +82987,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Helytörténeti Gyűjtemény",
+                  "text": "A kiállítás a település kialakulását, régészeti leleteit és a tórendszer történetét ismerteti meg a látogatókkal.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hősök emlékműve",
+                  "text": "A Hősök emlékműve a világháborúkban elesett nyékládházi lakosok előtt tiszteleg, méltó helyszíne a megemlékezéseknek.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "ro": [
@@ -76335,6 +83131,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Colecția de istorie locală",
+                  "text": "Expoziția prezintă dezvoltarea localității, descoperirile arheologice și istoria sistemului de lacuri din apropiere.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monumentul Eroilor",
+                  "text": "Monumentul Eroilor aduce un omagiu locuitorilor din Nyékládháza care au căzut în războaiele mondiale, fiind un loc de comemorare.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -76467,6 +83275,18 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Local History Collection",
+                  "text": "The exhibition introduces visitors to the town's development, archaeological finds, and the history of the lake system.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Heroes' Monument",
+                  "text": "The Heroes' Monument pays tribute to the residents of Nyékládháza who fell in the World Wars, serving as a site for commemorations.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ]
 }
