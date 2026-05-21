@@ -32,7 +32,378 @@ export const poiExtraHu1: POI[] = [
       hu: ["Az ókori római Aquincum városa itt terült el.", "Két római amfiteátrummal is rendelkezik.", "Fő tere a barokk építészetéről nevezetes.", "Az Óbudai-sziget ad otthont a Sziget Fesztiválnak."],
       ro: ["Casa orașului antic roman Aquincum.", "Deține două amfiteatre romane.", "Piața principală este cunoscută pentru arhitectura sa barocă.", "Gazda Festivalului Sziget pe insula Óbuda."],
       en: ["Home to the ancient Roman city of Aquincum.", "Features two Roman amphitheaters.", "The main square is famous for its Baroque architecture.", "Host to the Sziget Festival on Óbuda Island."]
-    }, image: "/poi-images/city-obuda-extra.webp"},
+    }, image: "/poi-images/city-obuda-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Fő tér (Hauptplatz)",
+                  "text": "Das Herz des alten Óbuda ist ein wunderschöner barocker Platz, der von historischen Gebäuden umgeben ist. Mit seinen Kopfsteinpflastergassen und gemütlichen Restaurants bewahrt er die Atmosphäre einer Kleinstadt innerhalb der Metropole.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Aquincum Museum und Archäologischer Park",
+                  "text": "Dieser weitläufige Park präsentiert die Ruinen der antiken römischen Stadt Aquincum. Besucher können Überreste von Wohnhäusern, Tempeln und ein rekonstruiertes römisches Orgelmodell besichtigen.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Zichy-Schloss",
+                  "text": "Das barocke Palais der Grafen Zichy am Hauptplatz ist ein beeindruckendes Architekturdenkmal. Heute beherbergt es mehrere Kultureinrichtungen, darunter das Kassák-Museum und das Vasarely-Museum.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Militärisches Amphitheater von Aquincum",
+                  "text": "Dieses riesige römische Amphitheater war einst eines der größten in den Provinzen und bot Platz für bis zu 13.000 Zuschauer. Die beeindruckenden Steinmauern stehen heute mitten in einem modernen Stadtviertel.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Synagoge von Óbuda",
+                  "text": "Erbaut im frühen 19. Jahrhundert, ist dies eine der ältesten und prächtigsten Synagogen Ungarns. Ihre klassizistische Fassade und die reiche Innenausstattung spiegeln die bedeutende Geschichte der lokalen jüdischen Gemeinde wider.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Ziviles Amphitheater von Aquincum",
+                  "text": "Dieses antike Theater bot Platz für bis zu 6.000 Zuschauer und diente den Bewohnern der Zivilstadt von Aquincum zur Unterhaltung.",
+                  "category": "historical",
+                  "coords": [
+                        19.049,
+                        47.564
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Thermae Maiores (Römisches Bademuseum)",
+                  "text": "Die monumentalen Ruinen des einstigen Legionsbades liegen unter einer modernen Brücke und zeigen beeindruckende Reste von Fußbodenheizungen.",
+                  "category": "historical",
+                  "coords": [
+                        19.037,
+                        47.541
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Kiscell-Museum",
+                  "text": "In einem barocken ehemaligen Kloster untergebracht, zeigt das Museum stadtgeschichtliche Sammlungen und die Städtische Galerie von Budapest.",
+                  "category": "historical",
+                  "coords": [
+                        19.027,
+                        47.543
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Varga-Imre-Sammlung",
+                  "text": "Ein Museum, das dem Werk des berühmten ungarischen Bildhauers Imre Varga gewidmet ist, dessen Skulpturen auch im Außenbereich zu sehen sind.",
+                  "category": "historical",
+                  "coords": [
+                        19.047,
+                        47.541
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Ungarisches Museum für Handel und Gastgewerbe",
+                  "text": "Das Museum präsentiert die Geschichte des ungarischen Handels und der Gastronomie in einem charmanten historischen Gebäude im alten Óbuda.",
+                  "category": "culinary",
+                  "coords": [
+                        19.044,
+                        47.539
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fő tér",
+                  "text": "Óbuda szíve egy gyönyörű barokk tér, melyet műemlék épületek vesznek körül. Macskaköves utcáival és hangulatos éttermeivel egy kisvárosi szigetet alkot a modern fővároson belül.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Aquincumi Múzeum és Régészeti Park",
+                  "text": "A kiterjedt régészeti park az egykori római város, Aquincum maradványait mutatja be. Láthatók itt lakóházak, szentélyek romjai, valamint egy világhírű rekonstruált római orgona is.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Zichy-kastély",
+                  "text": "A Fő téren álló barokk kastély a Zichy család egykori rezidenciája volt. Ma több fontos kulturális intézménynek, többek között a Kassák Múzeumnak és a Vasarely Múzeumnak ad helyet.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Óbudai katonai amfiteátrum",
+                  "text": "A római kori katonai amfiteátrum a provinciák egyik legnagyobb ilyen építménye volt, befogadóképessége elérte a 13 ezer főt. Hatalmas kőfalai ma is lenyűgöző látványt nyújtanak a lakóházak között.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Óbudai zsinagóga",
+                  "text": "A 19. század elején épült klasszicista zsinagóga az egyik legrégebbi és legszebb zsidó templom Magyarországon. Különleges homlokzata és belső tere az óbudai zsidóság gazdag múltját hirdeti.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Aquincumi polgárvárosi amfiteátrum",
+                  "text": "Az ókori Aquincum polgárvárosának szórakoztató központja, amely közel 6000 néző befogadására volt alkalmas a II. században.",
+                  "category": "historical",
+                  "coords": [
+                        19.049,
+                        47.564
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Thermae Maiores (Római fürdőmúzeum)",
+                  "text": "A római légiótábor monumentális közfürdőjének romjai a Flórián tér alatt, ahol az egykori padlófűtés és tornaterem maradványai láthatók.",
+                  "category": "historical",
+                  "coords": [
+                        19.037,
+                        47.541
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Kiscell Múzeum",
+                  "text": "Az egykori trinitárius kolostor és kastély épületében működő múzeum Óbuda helytörténeti emlékeit és a Fővárosi Képtárat mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        19.027,
+                        47.543
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Varga Imre Gyűjtemény",
+                  "text": "Varga Imre világhírű szobrászművész állandó kiállítása, ahol a kertben és a belső terekben is láthatóak emblematikus alkotásai.",
+                  "category": "historical",
+                  "coords": [
+                        19.047,
+                        47.541
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Magyar Kereskedelmi és Vendéglátóipari Múzeum",
+                  "text": "A magyar kereskedelem és vendéglátás történetét bemutató különleges gyűjtemény a hangulatos óbudai Krúdy-negyedben.",
+                  "category": "culinary",
+                  "coords": [
+                        19.044,
+                        47.539
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fő tér (Piața Principală)",
+                  "text": "Inima vechiului Óbuda este o piață barocă superbă, înconjurată de clădiri istorice. Cu străzile sale pietruite și restaurantele primitoare, păstrează atmosfera unui orășel în interiorul metropolei.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Muzeul și Parcul Arheologic Aquincum",
+                  "text": "Acest parc vast prezintă ruinele fostului oraș roman Aquincum. Vizitatorii pot vedea vestigii ale locuințelor, templelor și un model reconstruit al unei orgi romane celebre.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Castelul Zichy",
+                  "text": "Palatul baroc al familiei Zichy din piața principală este un monument arhitectural impresionant. Astăzi găzduiește mai multe instituții culturale, inclusiv muzeele Kassák și Vasarely.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Amfiteatrul Militar din Aquincum",
+                  "text": "Acest uriaș amfiteatru roman a fost unul dintre cele mai mari din provincii, având o capacitate de până la 13.000 de spectatori. Ruinele sale sunt vizibile astăzi în mijlocul unui cartier modern.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Sinagoga din Óbuda",
+                  "text": "Construită la începutul secolului al XIX-lea, este una dintre cele mai vechi și mai fastuoase sinagogi din Ungaria. Fațada sa clasicistă reflectă istoria bogată a comunității evreiești locale.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Amfiteatrul civil din Aquincum",
+                  "text": "Acest amfiteatru antic servea divertismentului locuitorilor din orașul civil Aquincum, având o capacitate de aproximativ 6.000 de spectatori.",
+                  "category": "historical",
+                  "coords": [
+                        19.049,
+                        47.564
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Thermae Maiores (Muzeul Băilor Romane)",
+                  "text": "Ruinele monumentale ale băilor legiunii romane se află sub pasajul Flórián tér și păstrează vestigii ale sistemului de încălzire prin pardoseală.",
+                  "category": "historical",
+                  "coords": [
+                        19.037,
+                        47.541
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Muzeul Kiscell",
+                  "text": "Găzduit într-o fostă mănăstire barocă, muzeul prezintă istoria modernă a Budapestei și găzduiește Galeria Municipală de Artă.",
+                  "category": "historical",
+                  "coords": [
+                        19.027,
+                        47.543
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Colecția Varga Imre",
+                  "text": "O expoziție dedicată operei celebrului sculptor maghiar Imre Varga, cu numeroase lucrări expuse atât în interior, cât și în grădina muzeului.",
+                  "category": "historical",
+                  "coords": [
+                        19.047,
+                        47.541
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Muzeul Maghiar al Comerțului și Turismului",
+                  "text": "Situat în inima cartierului istoric Óbuda, muzeul documentează istoria fascinantă a gastronomiei și comerțului din Ungaria.",
+                  "category": "culinary",
+                  "coords": [
+                        19.044,
+                        47.539
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fő tér (Main Square)",
+                  "text": "The heart of Old Óbuda is a beautiful Baroque square surrounded by historic buildings. With its cobblestone streets and cozy restaurants, it preserves a small-town atmosphere within the modern capital.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Aquincum Museum and Archaeological Park",
+                  "text": "This extensive park showcases the ruins of the ancient Roman city of Aquincum. Visitors can explore the remains of residential houses, shrines, and a reconstructed Roman water organ.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Zichy Mansion",
+                  "text": "The Baroque palace of the Zichy family on the Main Square is an architectural landmark. Today it houses several cultural institutions, including the Kassák Museum and the Vasarely Museum.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Roman Military Amphitheatre",
+                  "text": "This massive Roman amphitheatre was once one of the largest in the provinces, seating up to 13,000 spectators. Its impressive stone walls stand preserved in the middle of a modern residential neighborhood.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Óbuda Synagogue",
+                  "text": "Built in the early 19th century, this Classicist synagogue is one of the oldest and most beautiful in Hungary. Its grand facade and interior reflect the significant history of the local Jewish community.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Civilian Amphitheater of Aquincum",
+                  "text": "This ancient Roman theater could accommodate nearly 6,000 spectators and served the residents of the civilian settlement of Aquincum.",
+                  "category": "historical",
+                  "coords": [
+                        19.049,
+                        47.564
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Thermae Maiores (Roman Bath Museum)",
+                  "text": "The monumental ruins of the Roman legionary baths are preserved under the Flórián Square overpass, featuring underfloor heating systems.",
+                  "category": "historical",
+                  "coords": [
+                        19.037,
+                        47.541
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Kiscell Museum",
+                  "text": "Housed in a former Baroque monastery and castle, it features local history exhibitions and the Municipal Gallery of Budapest.",
+                  "category": "historical",
+                  "coords": [
+                        19.027,
+                        47.543
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Imre Varga Collection",
+                  "text": "A permanent exhibition of the world-renowned sculptor Imre Varga, showcasing his iconic works in both the indoor gallery and outdoor garden.",
+                  "category": "historical",
+                  "coords": [
+                        19.047,
+                        47.541
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Hungarian Museum of Trade and Tourism",
+                  "text": "A unique museum located in the historic Krúdy quarter of Óbuda, dedicated to the history of Hungarian commerce and gastronomy.",
+                  "category": "culinary",
+                  "coords": [
+                        19.044,
+                        47.539
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ]
+}
+  },
   {
     id: "city-ujpest-extra",
     type: "city",
@@ -62,7 +433,334 @@ export const poiExtraHu1: POI[] = [
       hu: ["1840-ben alapították.", "Az Újpest FC futballcsapatáról híres.", "Gyönyörű eklektikus városházája van.", "Egykor a bőr- és bútoripar központja volt."],
       ro: ["Fondat în anul 1840.", "Cunoscut pentru clubul de fotbal Újpest FC.", "Deține o primărie eclectică magnifică.", "Odată un centru al industriei pielăriei și mobilei."],
       en: ["Founded in 1840.", "Known for the Újpest FC football club.", "Has a magnificent eclectic city hall.", "Once a center for the leather and furniture industry."]
-    }, image: "/poi-images/city-ujpest-extra.webp"},
+    }, image: "/poi-images/city-ujpest-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Rathaus von Újpest",
+                  "text": "Das 1899 im neugotischen und eklektischen Stil errichtete Gebäude ist eines der markantesten Bauwerke des Bezirks und dient heute als Sitz der lokalen Verwaltung.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Synagoge von Újpest",
+                  "text": "Die 1886 fertiggestellte neologe Synagoge besticht durch ihre romantische Architektur und ihre Ähnlichkeit mit der berühmten Synagoge in der Dohány-Straße.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Kirche der Himmelskönigin",
+                  "text": "Die erste katholische Kirche der Siedlung wurde zwischen 1875 und 1881 erbaut und befindet sich direkt hinter dem Rathaus.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Szusza Ferenc Stadion",
+                  "text": "Das Heimstadion des traditionsreichen Sportvereins Újpest FC ist eine wichtige Sportstätte und ein Treffpunkt für Fußballfans in Budapest.",
+                  "category": "sports",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Farkas-erdő (Wolfswald)",
+                  "text": "Das größte zusammenhängende Waldgebiet im IV. Bezirk bietet zahlreiche Wanderwege, Spielplätze und Erholungsmöglichkeiten im Freien.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Szent-István-Pfarrkirche von Újpest-Kertváros",
+                  "text": "Diese neoromanische Kirche im Gartenstadt-Viertel wurde zwischen 1942 und 1946 erbaut. Sie ist bekannt für ihre imposante Architektur und ihre Rolle als lokales spirituelles Zentrum.",
+                  "category": "historical",
+                  "coords": [
+                        19.1171,
+                        47.5752
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Újpester Wasserturm",
+                  "text": "Dieser 1912 errichtete Wasserturm ist ein Wahrzeichen des Bezirks und ein bedeutendes Industriedenkmal. Er wurde von Győző Mihailich entworfen und dominiert die Silhouette des Viertels.",
+                  "category": "civic",
+                  "coords": [
+                        19.1028,
+                        47.5684
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Újpester Markthalle",
+                  "text": "Die moderne Újpester Markthalle ist ein belebter Ort für den täglichen Einkauf von frischen regionalen Produkten. Sie dient auch als wichtiger sozialer Treffpunkt für die Bewohner des Bezirks.",
+                  "category": "culinary",
+                  "coords": [
+                        19.0918,
+                        47.5615
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Schmetterlingsmuseum",
+                  "text": "Dieses Museum beherbergt eine einzigartige Privatsammlung von Tausenden exotischen Schmetterlingen und Insekten. Die Ausstellung zeigt seltene Exemplare aus der ganzen Welt in der Dessewffy-Straße.",
+                  "category": "family",
+                  "coords": [
+                        19.0988,
+                        47.5632
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Újpesti Városháza",
+                  "text": "Az 1899-ben épült neogótikus és eklektikus stílusú épület a kerület egyik legszebb jelképe, amely ma is a helyi önkormányzat székhelye.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Újpesti Zsinagóga",
+                  "text": "Az 1886-ban felszentelt neológ zsinagóga romantikus stílusban épült, belső kialakítása a Dohány utcai zsinagóga elrendezését követi.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Egek Királynéja főplébánia-templom",
+                  "text": "A Városháza mögött található templom Újpest első katolikus temploma volt, amely 1875 és 1881 között épült fel.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Szusza Ferenc Stadion",
+                  "text": "Az Újpest FC otthonául szolgáló stadion a magyar labdarúgás egyik patinás helyszíne, amely rendszeresen ad otthont rangos mérkőzéseknek.",
+                  "category": "sports",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Farkas-erdő",
+                  "text": "A IV. kerület legnagyobb összefüggő zöldterülete, amely sétautakkal, játszóterekkel és tanösvényekkel várja a kikapcsolódni vágyókat.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Újpest-Kertvárosi Szent István Plébániatemplom",
+                  "text": "A kertvárosban található neoromán stílusú templom 1942 és 1946 között épült fel. Az épület a városrész egyik legjelentősebb hitéleti központja és építészeti látványossága.",
+                  "category": "historical",
+                  "coords": [
+                        19.1171,
+                        47.5752
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Újpesti Víztorony",
+                  "text": "Az 1912-ben emelt víztorony Újpest egyik legismertebb jelképe és jelentős ipartörténeti emléke. Mihailich Győző tervei alapján készült, és ma is meghatározza a környék látképét.",
+                  "category": "civic",
+                  "coords": [
+                        19.1028,
+                        47.5684
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Újpesti Piac és Vásárcsarnok",
+                  "text": "A modern vásárcsarnok a kerület kereskedelmi és közösségi életének lüktető központja. A látogatók friss őstermelői áruk és helyi specialitások széles választékát találják itt.",
+                  "category": "culinary",
+                  "coords": [
+                        19.0918,
+                        47.5615
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Lepkemúzeum",
+                  "text": "A Dessewffy utcában található múzeum egy különleges magángyűjteménynek ad otthont, amely több ezer egzotikus lepkét és rovart mutat be. A tárlat a világ minden tájáról származó ritka példányokat vonultat fel.",
+                  "category": "family",
+                  "coords": [
+                        19.0988,
+                        47.5632
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Primăria din Újpest",
+                  "text": "Construită în 1899 în stil neogotic și eclectic, această clădire este un simbol al sectorului și găzduiește administrația locală.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Sinagoga din Újpest",
+                  "text": "Finalizată în 1886, această sinagogă neologă se remarcă prin arhitectura sa romantică și asemănarea cu sinagoga de pe strada Dohány.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Biserica Regina Cerului",
+                  "text": "Aceasta a fost prima biserică catolică a localității, construită între 1875 și 1881 chiar în spatele primăriei.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Stadionul Szusza Ferenc",
+                  "text": "Stadionul de acasă al clubului Újpest FC este un loc istoric pentru fotbalul maghiar, fiind vizitat frecvent de suporteri.",
+                  "category": "sports",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Pădurea Farkas",
+                  "text": "Cea mai mare zonă verde compactă din sectorul IV, oferind trasee de plimbare, locuri de joacă și spații de recreere în natură.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Biserica Parohială Sfântul Ștefan din Újpest-Kertváros",
+                  "text": "Această biserică în stil neoromanic din cartierul oraș-grădină a fost construită între 1942 și 1946. Este cunoscută pentru arhitectura sa impunătoare și rolul său de centru spiritual local.",
+                  "category": "historical",
+                  "coords": [
+                        19.1171,
+                        47.5752
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Turnul de apă din Újpest",
+                  "text": "Construit în 1912, acest turn de apă este un simbol al districtului și un monument industrial semnificativ. A fost proiectat de Győző Mihailich și domină silueta cartierului.",
+                  "category": "civic",
+                  "coords": [
+                        19.1028,
+                        47.5684
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Hala de piață din Újpest",
+                  "text": "Hala modernă din Újpest este un loc animat pentru cumpărături zilnice de produse locale proaspete. Servește, de asemenea, ca un punct important de întâlnire socială pentru locuitori.",
+                  "category": "culinary",
+                  "coords": [
+                        19.0918,
+                        47.5615
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Muzeul Fluturilor",
+                  "text": "Situat pe strada Dessewffy, acest muzeu adăpostește o colecție privată unică de mii de fluturi și insecte exotice. Expoziția prezintă exemplare rare din întreaga lume.",
+                  "category": "family",
+                  "coords": [
+                        19.0988,
+                        47.5632
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Újpest Town Hall",
+                  "text": "Built in 1899 in Neo-Gothic and Eclectic styles, this building is a prominent symbol of the district and currently houses the local government.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Újpest Synagogue",
+                  "text": "Completed in 1886, this Neolog synagogue features Romantic architecture and an interior layout inspired by the famous Dohány Street Synagogue.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Queen of Heavens Parish Church",
+                  "text": "Located behind the Town Hall, this was the settlement's first Catholic church, constructed between 1875 and 1881.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Szusza Ferenc Stadium",
+                  "text": "The home stadium of the historic Újpest FC football club is a significant sporting venue and a hub for football culture in Budapest.",
+                  "category": "sports",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Farkas Forest",
+                  "text": "The largest contiguous green area in the 4th district, offering hiking trails, playgrounds, and nature paths for outdoor recreation.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Saint Stephen's Parish Church of Újpest-Kertváros",
+                  "text": "This neo-Romanesque church in the garden city district was built between 1942 and 1946. It is known for its imposing architecture and its role as a local spiritual center.",
+                  "category": "historical",
+                  "coords": [
+                        19.1171,
+                        47.5752
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Újpest Water Tower",
+                  "text": "Erected in 1912, this water tower is a landmark of the district and a significant industrial monument. It was designed by Győző Mihailich and dominates the neighborhood's skyline.",
+                  "category": "civic",
+                  "coords": [
+                        19.1028,
+                        47.5684
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Újpest Market Hall",
+                  "text": "The modern Újpest Market Hall is a vibrant place for daily shopping of fresh local products. It also serves as an important social hub for the residents of the 4th district.",
+                  "category": "culinary",
+                  "coords": [
+                        19.0918,
+                        47.5615
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Butterfly Museum",
+                  "text": "Located on Dessewffy Street, this museum houses a unique private collection of thousands of exotic butterflies and insects. The exhibition features rare specimens from all over the world.",
+                  "category": "family",
+                  "coords": [
+                        19.0988,
+                        47.5632
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ]
+}
+  },
   {
     id: "geschichte-citadella-extra",
     type: "geschichte",
@@ -127,6 +825,260 @@ export const poiExtraHu1: POI[] = [
       en: ["First written mention dates back to 1235.", "Granted city status in 1996.", "Its population is approximately 6,000 people.", "One of the important railway junctions in Southern Transdanubia.", "The Esterházy Mansion was built in Baroque style.", "The Szentlőrinc Farmer's Days attract tens of thousands of visitors annually."],
     },
     image: "/poi-images/city-szentlorinc-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Schloss Esterházy",
+                  "text": "Das im 18. Jahrhundert erbaute Schloss ist das bedeutendste Baudenkmal der Stadt und zeugt von der herrschaftlichen Vergangenheit der Region.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Rathaus von Szentlőrinc",
+                  "text": "Ein elegantes Gebäude im Stadtzentrum, das die administrative Bedeutung der Stadt als Sitz des Kleingebietes unterstreicht.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Heimatmuseum",
+                  "text": "Die Ausstellung präsentiert die lokale Geschichte, bäuerliche Werkzeuge und volkskundliche Traditionen der Umgebung von Szentlőrinc.",
+                  "category": "historical",
+                  "confidence": "medium",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Szent Lőrinc Kirche",
+                  "text": "Die im Barockstil erbaute katholische Kirche ist dem heiligen Laurentius gewidmet und bildet den geistlichen Mittelpunkt der Gemeinde.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Szentlőrinc Messegelände",
+                  "text": "Das weitläufige Gelände im Norden der Stadt ist Schauplatz der berühmten Szentlőrinc-Agrartage. Die Fachausstellung ist seit Jahrzehnten eine der bedeutendsten landwirtschaftlichen Veranstaltungen Südtransdanubiens.",
+                  "category": "civic",
+                  "coords": [
+                        17.983,
+                        46.048
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Szentlőrinc Bahnhof",
+                  "text": "Ein wichtiger Verkehrsknotenpunkt an der Bahnstrecke Budapest-Pécs mit einem charakteristischen Empfangsgebäude aus der Zeit der Jahrhundertwende. Er spielt eine zentrale Rolle im Pendlerverkehr der Region.",
+                  "category": "civic",
+                  "coords": [
+                        17.994,
+                        46.037
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Denkmal des Ersten Weltkriegs",
+                  "text": "Die im Stadtzentrum errichtete Skulpturengruppe erinnert an die Gefallenen des Großen Krieges. Das Denkmal befindet sich in einer gepflegten Parkanlage und ist ein zentraler Ort der lokalen Gedenkkultur.",
+                  "category": "historical",
+                  "coords": [
+                        17.986,
+                        46.041
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Esterházy-kastély",
+                  "text": "A 18. században épült kastély a város legjelentősebb műemléke, amely az Esterházy család egykori birtokközpontjaként szolgált.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Városháza",
+                  "text": "A város központjában álló elegáns épület Szentlőrinc járási székhelyi szerepét és közigazgatási jelentőségét reprezentálja.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Helytörténeti Gyűjtemény",
+                  "text": "A múzeum a település és a környék múltját, a mezőgazdasági hagyományokat és a helyi néprajzi értékeket mutatja be.",
+                  "category": "historical",
+                  "confidence": "medium",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Szent Lőrinc templom",
+                  "text": "A barokk stílusú római katolikus templom a város névadó szentjének tiszteletére épült, belső tere értékes oltárképeket rejt.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Szentlőrinci Vásártér",
+                  "text": "A város északi részén található terület ad otthont a neves Szentlőrinci Gazdanapoknak. A mezőgazdasági szakkiállítás évtizedek óta a dél-dunántúli régió egyik legfontosabb gazdasági eseménye.",
+                  "category": "civic",
+                  "coords": [
+                        17.983,
+                        46.048
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Szentlőrinc vasútállomás",
+                  "text": "A Budapest–Pécs-vasútvonal egyik fontos csomópontja, jellegzetes, századfordulós stílusú felvételi épülettel. Az állomás meghatározó szerepet tölt be a kisváros és a járás közlekedésében.",
+                  "category": "civic",
+                  "coords": [
+                        17.994,
+                        46.037
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "I. világháborús emlékmű",
+                  "text": "A városközpontban álló szoborkompozíció a nagy háború áldozatainak állít emléket. A gondozott parkosított környezetben elhelyezkedő alkotás fontos helyszíne a helyi közösségi megemlékezéseknek.",
+                  "category": "historical",
+                  "coords": [
+                        17.986,
+                        46.041
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelul Esterházy",
+                  "text": "Construit în secolul al XVIII-lea, acest castel este cel mai important monument istoric al orașului, reflectând trecutul nobiliar al regiunii.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Primăria din Szentlőrinc",
+                  "text": "O clădire elegantă situată în centrul orașului, reprezentând centrul administrativ al districtului.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Muzeul de Istorie Locală",
+                  "text": "Expoziția prezintă istoria locală, unelte agricole vechi și tradițiile populare specifice zonei Szentlőrinc.",
+                  "category": "historical",
+                  "confidence": "medium",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Biserica Sfântul Laurențiu",
+                  "text": "Biserica catolică barocă este dedicată sfântului patron al orașului și reprezintă centrul spiritual al comunității.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Locul Târgului din Szentlőrinc",
+                  "text": "Acest teren extins din nordul orașului găzduiește faimoasele Zile Agricole din Szentlőrinc. Expoziția este de decenii unul dintre cele mai importante evenimente agricole din regiunea Transdanubia de Sud.",
+                  "category": "civic",
+                  "coords": [
+                        17.983,
+                        46.048
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Gara Szentlőrinc",
+                  "text": "Un nod feroviar important pe linia Budapesta-Pécs, având o clădire de gară caracteristică de la începutul secolului XX. Gara joacă un rol central în naveta zilnică și transportul regional.",
+                  "category": "civic",
+                  "coords": [
+                        17.994,
+                        46.037
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Monumentul Primului Război Mondial",
+                  "text": "Grupul statuar situat în centrul orașului onorează memoria soldaților căzuți în Marele Război. Monumentul este amplasat într-un parc îngrijit, fiind un loc central pentru ceremoniile de comemorare.",
+                  "category": "historical",
+                  "coords": [
+                        17.986,
+                        46.041
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Esterházy Mansion",
+                  "text": "This 18th-century mansion is the town's most significant historical monument, once serving as a center for the Esterházy family's estates.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Szentlőrinc Town Hall",
+                  "text": "An elegant building in the town center that reflects Szentlőrinc's administrative role as a district seat.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Local History Collection",
+                  "text": "The museum showcases the settlement's past, traditional agricultural tools, and folk heritage of the surrounding region.",
+                  "category": "historical",
+                  "confidence": "medium",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Saint Lawrence Church",
+                  "text": "This Baroque Roman Catholic church was built in honor of the town's patron saint and serves as the community's spiritual heart.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Szentlőrinc Fairground",
+                  "text": "The extensive fairground in the northern part of the town hosts the famous Szentlőrinc Agricultural Days. The exhibition has been a major regional professional event for several decades.",
+                  "category": "civic",
+                  "coords": [
+                        17.983,
+                        46.048
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Szentlőrinc Railway Station",
+                  "text": "A significant railway junction on the Budapest-Pécs line, featuring a characteristic station building from the turn of the century. It is a vital hub for regional commuters and transport.",
+                  "category": "civic",
+                  "coords": [
+                        17.994,
+                        46.037
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "World War I Memorial",
+                  "text": "This sculpture group in the town center commemorates the victims of the Great War. Located in a well-kept park, the monument is an important site for local community remembrance events.",
+                  "category": "historical",
+                  "coords": [
+                        17.986,
+                        46.041
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ]
+}
   },
   {
     id: "geo-mecsek-extra",
@@ -251,6 +1203,332 @@ export const poiExtraHu1: POI[] = [
       en: ["Halas Lace was born in 1902.", "The city regained its autonomy in 1753 (Redemptio).", "It has a thermal spa with 36°C water.", "The City Hall was built in Art Nouveau style.", "Its population is approximately 27,000.", "Halas Lace has been a Hungaricum since 2014."],
     },
     image: "/poi-images/city-kiskunhalas-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Spitzenhaus (Csipkeház)",
+                  "text": "Heimat der weltberühmten Halas-Spitze. Hier können Besucher die filigrane Handarbeit bewundern und die Technik des Spitzenklöppelns kennenlernen.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Thorma János Museum",
+                  "text": "Das Museum beherbergt archäologische Funde aus der Region und eine beeindruckende Sammlung von Gemälden des Künstlers János Thorma.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Halasthermál Heilbad",
+                  "text": "Ein beliebtes Thermalbad mit jodhaltigem Heilwasser, das sich besonders zur Behandlung von rheumatischen Beschwerden eignet.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Safarik-Windmühle",
+                  "text": "Diese gut erhaltene Windmühle aus dem 19. Jahrhundert ist ein Denkmal der landwirtschaftlichen Geschichte der ungarischen Tiefebene.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Csetényi Erlebnispark",
+                  "text": "Ein moderner Freizeitpark am Ufer eines Sees, der mit Wanderwegen, Aussichtstürmen und Spielplätzen Erholung für die ganze Familie bietet.",
+                  "category": "family",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Reformierte Kirche von Kiskunhalas",
+                  "text": "Die spätbarocke Kirche am Hauptplatz wurde im frühen 19. Jahrhundert fertiggestellt. Ihr markanter Turm ist ein prägendes Element des Stadtbildes von Kiskunhalas.",
+                  "category": "historical",
+                  "coords": [
+                        19.4842,
+                        46.4312
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Rathaus von Kiskunhalas",
+                  "text": "Das eklektische Gebäude der Stadtverwaltung prägt die Atmosphäre des zentralen Platzes. Es beherbergt die lokale Regierung und ist ein schönes Beispiel für die Architektur der Jahrhundertwende.",
+                  "category": "civic",
+                  "coords": [
+                        19.4851,
+                        46.4305
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Katholische Kirche Maria Hilfe der Christen",
+                  "text": "Diese Barockkirche wurde 1770 erbaut und ist eines der ältesten Gebäude der Stadt. Ihr Innenraum beherbergt wertvolle sakrale Kunstwerke und Fresken.",
+                  "category": "historical",
+                  "coords": [
+                        19.487,
+                        46.4325
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Sóstó-Lehrpfad und Aussichtsturm",
+                  "text": "Das Sóstó-Gebiet am nördlichen Stadtrand bietet einen Naturlehrpfad und einen Aussichtsturm. Die Uferpromenade ist ein beliebter Ort für Erholung in der Natur und Vogelbeobachtung.",
+                  "category": "natural",
+                  "coords": [
+                        19.4975,
+                        46.4492
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Halasi Csipkeház",
+                  "text": "A világhírű halasi csipke otthona, ahol a látogatók megismerhetik a csipkevarrás művészetét és megtekinthetik az egyedülálló gyűjteményt.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Thorma János Múzeum",
+                  "text": "A múzeum gazdag régészeti leleteket és Thorma János festőművész nagyméretű történelmi tablóit mutatja be.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Halasthermál Gyógyfürdő",
+                  "text": "A város híres gyógyfürdője jódos-alkalikus vizéről ismert, amely kiválóan alkalmas mozgásszervi panaszok enyhítésére.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Safarik-szélmalom",
+                  "text": "A 19. század közepén épült, ma is látványos ipartörténeti műemlék, amely az alföldi molnárvilág emlékeit őrzi.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Csetényi Park és Élményösvény",
+                  "text": "A város szélén található tó körüli pihenőpark pallóösvénnyel, kilátóval és közösségi terekkel várja a természetbarátokat.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Református templom",
+                  "text": "A főtéren álló késő barokk stílusú templom a 19. század elején nyerte el mai formáját. Impozáns tornya Kiskunhalas városképének egyik legmeghatározóbb eleme.",
+                  "category": "historical",
+                  "coords": [
+                        19.4842,
+                        46.4312
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Városháza",
+                  "text": "A főtér hangulatát meghatározó eklektikus épület a városi közigazgatás központja. Az épület a századforduló építészetének szép példája, tornya messziről látható.",
+                  "category": "civic",
+                  "coords": [
+                        19.4851,
+                        46.4305
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Szűz Mária Keresztények Segítsége templom",
+                  "text": "Az 1770-ben épült barokk stílusú katolikus templom a város egyik legrégebbi műemléke. Belső tere értékes szakrális műalkotásokat és freskókat rejt.",
+                  "category": "historical",
+                  "coords": [
+                        19.487,
+                        46.4325
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Sóstói tanösvény és kilátó",
+                  "text": "A város északi szélén fekvő Sóstó környéke kedvelt kirándulóhely tanösvénnyel és kilátóval. A tóparti sétány kiváló helyszín a természetközeli kikapcsolódáshoz és madármegfigyeléshez.",
+                  "category": "natural",
+                  "coords": [
+                        19.4975,
+                        46.4492
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa Danteliei (Csipkeház)",
+                  "text": "Locul unde se păstrează tradiția celebrei dantele de Halas. Vizitatorii pot admira exponatele și pot vedea procesul manual de execuție.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Muzeul Thorma János",
+                  "text": "Muzeul expune descoperiri arheologice locale și o colecție impresionantă de picturi semnate de artistul János Thorma.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Băile Termale Halasthermál",
+                  "text": "O stațiune balneară populară, renumită pentru apele sale iodurate cu proprietăți curative, ideale pentru relaxare și tratament.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Moara de vânt Safarik",
+                  "text": "Această moară de vânt din secolul al XIX-lea este un monument istoric industrial care amintește de agricultura tradițională din câmpie.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Parcul de Agrement Csetényi",
+                  "text": "O zonă modernă de recreere situată lângă un lac, dotată cu pontoane, foișoare și spații verzi pentru întreaga familie.",
+                  "category": "family",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Biserica Reformată din Kiskunhalas",
+                  "text": "Biserica în stil baroc târziu din piața principală a fost finalizată la începutul secolului al XIX-lea. Turnul său impunător este un element definitoriu al peisajului urban din Kiskunhalas.",
+                  "category": "historical",
+                  "coords": [
+                        19.4842,
+                        46.4312
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Primăria din Kiskunhalas",
+                  "text": "Clădirea eclectică a administrației orășenești domină atmosfera pieței centrale. Găzduiește guvernul local și este un exemplu frumos de arhitectură de la începutul secolului.",
+                  "category": "civic",
+                  "coords": [
+                        19.4851,
+                        46.4305
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Biserica Catolică Sfânta Maria Ajutorul Creștinilor",
+                  "text": "Această biserică barocă a fost construită în 1770 și este una dintre cele mai vechi clădiri din oraș. Interiorul său adăpostește opere de artă sacră și fresce valoroase.",
+                  "category": "historical",
+                  "coords": [
+                        19.487,
+                        46.4325
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Traseul tematic și turnul de observație Sóstó",
+                  "text": "Zona Sóstó de la marginea de nord a orașului oferă un traseu tematic natural și un turn de observație. Promenada de pe malul lacului este un loc popular pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        19.4975,
+                        46.4492
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Halas Lace House (Csipkeház)",
+                  "text": "The home of the world-famous Halas lace, where visitors can admire intricate masterpieces and see how the lace is handmade.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Thorma János Museum",
+                  "text": "The museum houses significant archaeological finds from the region and a large collection of paintings by the artist János Thorma.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Halasthermál Spa",
+                  "text": "A popular thermal bath known for its medicinal waters rich in iodine, perfect for treating joint issues and for general relaxation.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Safarik Windmill",
+                  "text": "A well-preserved 19th-century windmill that stands as a monument to the industrial and agricultural history of the Great Plain.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Csetényi Adventure Park",
+                  "text": "A modern recreational park around a lake featuring boardwalks, an observation tower, and outdoor spaces for families.",
+                  "category": "family",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Reformed Church of Kiskunhalas",
+                  "text": "The late Baroque church on the main square was completed in the early 19th century. Its striking tower is a defining element of Kiskunhalas' cityscape.",
+                  "category": "historical",
+                  "coords": [
+                        19.4842,
+                        46.4312
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Town Hall of Kiskunhalas",
+                  "text": "The eclectic building of the city administration defines the atmosphere of the central square. It houses the local government and is a beautiful example of turn-of-the-century architecture.",
+                  "category": "civic",
+                  "coords": [
+                        19.4851,
+                        46.4305
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Catholic Church of Mary Help of Christians",
+                  "text": "This Baroque church was built in 1770 and is one of the oldest buildings in the city. Its interior houses valuable sacred artworks and frescoes.",
+                  "category": "historical",
+                  "coords": [
+                        19.487,
+                        46.4325
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Sóstó Nature Trail and Lookout Tower",
+                  "text": "The Sóstó area on the northern edge of the city features a nature trail and a lookout tower. The lakeside promenade is an excellent spot for nature relaxation and birdwatching.",
+                  "category": "natural",
+                  "coords": [
+                        19.4975,
+                        46.4492
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ]
+}
   },
   {
     id: "city-lajosmizse-extra",
@@ -281,7 +1559,262 @@ export const poiExtraHu1: POI[] = [
       hu: ["1993-ban kapott városi rangot.", "Neve a Lajos és Mizse kun szállásokból ered.", "Híres a tavasszal megrendezett Szamócafesztiválról.", "Itt található a neves Tanyacsárda.", "Fontos megálló a Budapest-Lajosmizse-Kecskemét vasútvonalon.", "Lovasbemutatók tradicionális helyszíne."],
       ro: ["A primit rangul de oraș în anul 1993.", "Numele provine de la așezările cumane Lajos și Mizse.", "Renumit pentru Festivalul Căpșunilor organizat primăvara.", "Aici se află renumitul han Tanyacsárda.", "Stație importantă pe linia ferată Budapesta-Lajosmizse-Kecskemét.", "Locație tradițională pentru spectacole ecvestre."],
       en: ["Granted city status in 1993.", "Its name originates from the Cuman settlements of Lajos and Mizse.", "Famous for the Strawberry Festival held in spring.", "The renowned Tanyacsárda is located here.", "An important stop on the Budapest-Lajosmizse-Kecskemét railway line.", "A traditional venue for equestrian shows."],
-    },},
+    },
+    "sights": {
+      "de": [
+            {
+                  "name": "Bauernmuseum (Tanyamúzeum)",
+                  "text": "Ein authentisches Freilichtmuseum, das das Leben auf den Einödhof-Siedlungen der Tiefebene und die traditionelle Landwirtschaft präsentiert.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Römisch-katholische Kirche St. Ludwig",
+                  "text": "Die 1896 im eklektischen Stil erbaut Kirche ist dem heiligen Ludwig gewidmet und beherbergt Kopien der ungarischen Krönungsinsignien.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Reformierte Kirche",
+                  "text": "Ein markantes Gebäude aus dem Jahr 1902, das das religiöse Erbe der lokalen protestantischen Gemeinde widerspiegelt.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Tanyacsárda (Heide-Tscharda)",
+                  "text": "Eine landesweit bekannte Gaststätte, die für ihre traditionelle ungarische Küche und spektakuläre Reiterspiele berühmt ist.",
+                  "category": "culinary",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Ruinen der Mizse-Puszta-Kirche",
+                  "text": "Die Mauerreste der gotischen Kirche aus dem 15. Jahrhundert zeugen von der mittelalterlichen Siedlung Mizse. Die Ruine ist ein bedeutendes historisches Denkmal in der Steppenlandschaft außerhalb des Stadtzentrums.",
+                  "category": "historical",
+                  "coords": [
+                        19.522,
+                        47.013
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Mizse-Quelle",
+                  "text": "Eine natürliche Quelle in der Nähe der Kirchenruine, die von einer idyllischen Baumgruppe umgeben ist. Sie ist ein beliebtes Ziel für Wanderer und ein ruhiger Ort für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        19.528,
+                        47.018
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Rathaus von Lajosmizse",
+                  "text": "Das imposante eklektische Gebäude im Stadtzentrum wurde Ende des 19. Jahrhunderts errichtet. Es ist das administrative Herz der Stadt und prägt mit seiner Fassade den zentralen Platz.",
+                  "category": "civic",
+                  "coords": [
+                        19.556,
+                        47.02
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lajosmizsei Tanyamúzeum",
+                  "text": "Az ország első tanyamúzeuma, amely egy régi paraszti portán keresztül mutatja be az alföldi tanyavilág mindennapjait és eszközeit.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Szent Lajos római katolikus templom",
+                  "text": "Az 1896-ban épült eklektikus templom egyik különlegessége a Turini Lepel és a magyar koronázási ékszerek másolata.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Református templom",
+                  "text": "A város 1902-ben felszentelt temploma, amely a helyi református hitélet központja és a településkép meghatározó eleme.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Új Tanyacsárda",
+                  "text": "Híres gasztronómiai és turisztikai központ, ahol a hagyományos magyar ételek mellett látványos lovasbemutatókat is tartanak.",
+                  "category": "culinary",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Mizsei Pusztatemplom romjai",
+                  "text": "A 15. századi gótikus templom falmaradványai a középkori Mizse település emlékét őrzik. A pusztai környezetben álló rom a város egyik legfontosabb történelmi és régészeti látnivalója.",
+                  "category": "historical",
+                  "coords": [
+                        19.522,
+                        47.013
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Mizse-forrás",
+                  "text": "A templomrom közelében fakadó természetes forrás, amelyet ligetes fás terület vesz körül. Kedvelt kirándulóhely és pihenőpont a pusztai túrák során.",
+                  "category": "natural",
+                  "coords": [
+                        19.528,
+                        47.018
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Lajosmizsei Városháza",
+                  "text": "A város központjában álló impozáns eklektikus épület a 19. század végén készült el. A település közigazgatási központja és a főtér egyik legszebb építészeti emléke.",
+                  "category": "civic",
+                  "coords": [
+                        19.556,
+                        47.02
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeul Fermelor (Tanyamúzeum)",
+                  "text": "Un muzeu în aer liber autentic care prezintă modul de viață tradițional în fermele izolate din Marea Câmpie Ungară.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Biserica Catolică Sfântul Ludovic",
+                  "text": "Construită în 1896, această biserică eclectică găzduiește copii ale bijuteriilor coroanei maghiare și ale Giulgiului din Torino.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Biserica Reformată",
+                  "text": "O clădire semnificativă din 1902, reprezentativă pentru comunitatea protestantă locală din Lajosmizse.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Hanul Tanyacsárda",
+                  "text": "Un centru gastronomic și turistic faimos, renumit pentru bucătăria tradițională maghiară și spectacolele ecvestre deosebite.",
+                  "category": "culinary",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Ruinele bisericii Mizse",
+                  "text": "Rămășițele zidurilor bisericii gotice din secolul al XV-lea atestă existența așezării medievale Mizse. Ruina este un monument istoric important situat în peisajul de stepă din afara centrului.",
+                  "category": "historical",
+                  "coords": [
+                        19.522,
+                        47.013
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Izvorul Mizse",
+                  "text": "Un izvor natural situat în apropierea ruinelor bisericii, înconjurat de un grup pitoresc de arbori. Este o destinație populară pentru drumeții și un loc liniștit pentru recreere în natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.528,
+                        47.018
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Primăria din Lajosmizse",
+                  "text": "Clădirea eclectică impunătoare din centrul orașului a fost finalizată la sfârșitul secolului al XIX-lea. Reprezintă centrul administrativ și un reper arhitectural definitoriu al pieței centrale.",
+                  "category": "civic",
+                  "coords": [
+                        19.556,
+                        47.02
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Farmstead Museum (Tanyamúzeum)",
+                  "text": "An authentic open-air museum showcasing the unique lifestyle and traditional tools of the Great Plain's isolated farmstead settlements.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Saint Louis Catholic Church",
+                  "text": "Built in 1896 in Eclectic style, this church houses replicas of the Shroud of Turin and the Hungarian Coronation Regalia.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Reformed Church",
+                  "text": "A prominent religious building consecrated in 1902, serving as a landmark for the local Protestant community.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Tanyacsárda (Old Farm Inn)",
+                  "text": "A world-renowned restaurant and equestrian center famous for its traditional Hungarian hospitality and horse shows.",
+                  "category": "culinary",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Ruins of Mizse Puszta Church",
+                  "text": "The wall remains of a 15th-century Gothic church preserve the memory of the medieval settlement of Mizse. It is one of the town's most significant historical and archaeological landmarks.",
+                  "category": "historical",
+                  "coords": [
+                        19.522,
+                        47.013
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Mizse Spring",
+                  "text": "A natural spring located near the church ruins, surrounded by a pleasant grove. It is a popular hiking destination and a peaceful resting spot during excursions in the puszta.",
+                  "category": "natural",
+                  "coords": [
+                        19.528,
+                        47.018
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Lajosmizse Town Hall",
+                  "text": "The imposing eclectic building in the town center was completed at the end of the 19th century. It serves as the administrative heart of the town and a key architectural monument of the main square.",
+                  "category": "civic",
+                  "coords": [
+                        19.556,
+                        47.02
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ]
+}
+  },
   {
     id: "geo-kiskunsagi-nemzeti-park-extra",
     type: "geo",
@@ -406,6 +1939,332 @@ export const poiExtraHu1: POI[] = [
       en: ["Created in 1982 by merging two villages.", "The Kner Printing House was founded in 1882.", "Liget Bath has thermal water at 40°C.", "Home to Hungary's only printing industry museum.", "There are 16 backwaters of the Körös in the city area.", "The Roman Catholic church in Endrőd was built in 1804."],
     },
     image: "/poi-images/city-gyomaendrod-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kner Druckereimuseum",
+                  "text": "Das einzige Museum dieser Art in Ungarn, das die Geschichte der berühmten Druckerfamilie Kner und die Entwicklung der Buchdruckkunst präsentiert.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Liget Thermalbad",
+                  "text": "Ein idyllisch gelegenes Heilbad im Stadtwäldchen, das mit seinen Außenbecken und Heilwasser Erholungssuchende anzieht.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Vidovszky Béla Städtische Galerie",
+                  "text": "Die Galerie zeigt Werke des namensgebenden Malers sowie temporäre Ausstellungen zeitgenössischer regionaler Künstler.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Hármas-Körös Flussufer",
+                  "text": "Der Fluss und seine Totarme bieten hervorragende Möglichkeiten zum Angeln, für Bootstouren und Naturbeobachtungen.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Herz-Jesu-Kirche",
+                  "text": "Die 1876 erbaute katholische Kirche beeindruckt durch ihre Glasfenster, die von namhaften Künstlern wie Alajos Hauszmann entworfen wurden.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Römisch-katholische Kirche Szent Imre",
+                  "text": "Diese im Zopfstil erbaute Kirche aus dem späten 18. Jahrhundert befindet sich im Stadtteil Endrőd. Sie ist bekannt für ihre harmonische barocke Architektur und die historische Innenausstattung.",
+                  "category": "historical",
+                  "coords": [
+                        20.811,
+                        46.915
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Heimatmuseum Endrőd",
+                  "text": "Ein authentisches Heimatmuseum in einem traditionellen Bauernhaus, das die Lebensweise und Handwerkstraditionen der Region Békés zeigt. Die Sammlung umfasst originale Möbel und landwirtschaftliche Geräte.",
+                  "category": "historical",
+                  "coords": [
+                        20.814,
+                        46.918
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Reformierte Kirche von Gyoma",
+                  "text": "Die klassizistische Kirche prägt das Stadtbild des Gyomaer Teils der Stadt. Sie dient als wichtiges geistliches Zentrum für die protestantische Gemeinde und besitzt eine bedeutende Orgel.",
+                  "category": "historical",
+                  "coords": [
+                        20.823,
+                        46.935
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Evangelische Kirche Gyomaendrőd",
+                  "text": "Die zwischen 1861 und 1862 erbaute Kirche ist ein markantes religiöses Gebäude im Stadtzentrum. Sie zeichnet sich durch ihre schlichte Eleganz und ihre Rolle in der lokalen lutherischen Gemeinschaft aus.",
+                  "category": "historical",
+                  "coords": [
+                        20.825,
+                        46.932
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kner Nyomdaipari Múzeum",
+                  "text": "Magyarország egyetlen nyomdaipari múzeuma, amely a világhírű Kner család munkásságát és a könyvnyomtatás történetét mutatja be.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Liget Gyógyfürdő",
+                  "text": "Az Erzsébet ligetben található fürdő gyógyvizes medencékkel, uszodával és családias környezettel várja a pihenni vágyókat.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Vidovszky Béla Városi Képtár",
+                  "text": "A képtár Vidovszky Béla festőművész hagyatéka mellett több neves helyi alkotó gyűjteményét is őrzi.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Hármas-Körös és holtágai",
+                  "text": "A várost átszelő folyó és annak számos holtága a horgászok és a vízi túrázók paradicsoma, érintetlen természeti környezettel.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Jézus Szíve templom",
+                  "text": "Az 1876-ban épült római katolikus templom különlegessége a Hauszmann Alajos és Kratzmann Ede által tervezett üvegablakok.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Szent Imre római katolikus templom",
+                  "text": "A város endrődi részén álló, 18. század végén épült copf stílusú templom. Harmonikus barokk homlokzatával és értékes belső berendezésével a környék egyik meghatározó műemléke.",
+                  "category": "historical",
+                  "coords": [
+                        20.811,
+                        46.915
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Endrődi Tájház",
+                  "text": "Egy jellegzetes parasztházban berendezett múzeum, amely az egykori endrődi paraszti életmódot és kismesterségeket mutatja be. A gyűjtemény eredeti használati tárgyakat és népviseleteket őriz.",
+                  "category": "historical",
+                  "coords": [
+                        20.814,
+                        46.918
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Gyomai Református templom",
+                  "text": "A város gyomai részén található klasszicista templom, mely monumentális megjelenésével a helyi református közösség gazdag történelmét hirdeti.",
+                  "category": "historical",
+                  "coords": [
+                        20.823,
+                        46.935
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Gyomaendrődi evangélikus templom",
+                  "text": "Az 1861 és 1862 között épült templom a város evangélikus híveinek vallási központja. Letisztult építészeti formái és nyugodt környezete miatt kedvelt látnivaló.",
+                  "category": "historical",
+                  "coords": [
+                        20.825,
+                        46.932
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeul Tipografiei Kner",
+                  "text": "Singurul muzeu de acest tip din Ungaria, prezentând istoria celebrei familii de tipografi Kner și evoluția artei tipografice.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Băile Termale Liget",
+                  "text": "O stațiune balneară situată într-un cadru natural deosebit, oferind bazine cu apă curativă și relaxare în mijlocul naturii.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Galeria Municipală Vidovszky Béla",
+                  "text": "Galeria expune operele pictorului Vidovszky Béla și găzduiește expoziții temporare ale artiștilor contemporani din regiune.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Râul Hármas-Körös și brațele moarte",
+                  "text": "Râul și numeroasele sale brațe moarte oferă condiții excelente pentru pescuit, plimbări cu barca și observarea naturii.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Biserica Inima lui Isus",
+                  "text": "Această biserică catolică construită în 1876 este remarcabilă pentru vitraliile sale realizate de artiști de renume precum Alajos Hauszmann.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Biserica Romano-Catolică Sfântul Emeric",
+                  "text": "O biserică construită la sfârșitul secolului al XVIII-lea în stil Zopf, situată în districtul Endrőd. Este cunoscută pentru arhitectura sa barocă armonioasă și decorațiunile interioare istorice.",
+                  "category": "historical",
+                  "coords": [
+                        20.811,
+                        46.915
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Casa Populară din Endrőd",
+                  "text": "Un muzeu amenajat într-o casă țărănească tradițională, care prezintă stilul de viață și meșteșugurile locale din regiunea Békés. Colecția cuprinde mobilier original și unelte agricole.",
+                  "category": "historical",
+                  "coords": [
+                        20.814,
+                        46.918
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Biserica Reformată din Gyoma",
+                  "text": "Această biserică neoclasică definește peisajul urban al părții Gyoma a orașului. Servește ca un centru spiritual important pentru comunitatea protestantă locală.",
+                  "category": "historical",
+                  "coords": [
+                        20.823,
+                        46.935
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Biserica Evanghelică din Gyomaendrőd",
+                  "text": "Construită între 1861 și 1862, această biserică este centrul religios al comunității luterane din oraș. Se remarcă prin eleganța sa simplă și importanța istorică locală.",
+                  "category": "historical",
+                  "coords": [
+                        20.825,
+                        46.932
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kner Printing Industry Museum",
+                  "text": "The only museum of its kind in Hungary, dedicated to the legacy of the world-famous Kner family and the history of book printing.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Liget Thermal Spa",
+                  "text": "A pleasant medicinal bath located in a park setting, offering outdoor pools and therapeutic waters for relaxation and health.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Vidovszky Béla Municipal Gallery",
+                  "text": "The gallery houses the legacy of painter Béla Vidovszky and features collections from several other prominent local artists.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Hármas-Körös River and Oxbows",
+                  "text": "The river and its many backwaters are a paradise for anglers and water sports enthusiasts, surrounded by beautiful scenery.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Sacred Heart Church",
+                  "text": "Constructed in 1876, this Roman Catholic church is famous for its stained-glass windows designed by the architect Alajos Hauszmann.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Saint Emeric Roman Catholic Church",
+                  "text": "A late 18th-century church built in Zopf style, located in the Endrőd district of the town. It is known for its harmonious Baroque architecture and historical interior furnishings.",
+                  "category": "historical",
+                  "coords": [
+                        20.811,
+                        46.915
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Endrőd Folk House",
+                  "text": "An authentic local history museum set in a traditional peasant house, showcasing the lifestyle and crafts of the Békés region. The collection includes original furniture and agricultural tools.",
+                  "category": "historical",
+                  "coords": [
+                        20.814,
+                        46.918
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Reformed Church of Gyoma",
+                  "text": "A Neoclassical church that defines the cityscape of the Gyoma part of the city. It serves as a significant spiritual center for the local Protestant community.",
+                  "category": "historical",
+                  "coords": [
+                        20.823,
+                        46.935
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Evangelical Church of Gyomaendrőd",
+                  "text": "Built between 1861 and 1862, this church is the religious hub for the town's Lutheran community. It is noted for its simple architectural elegance and peaceful atmosphere.",
+                  "category": "historical",
+                  "coords": [
+                        20.825,
+                        46.932
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            }
+      ]
+}
   },
   {
     id: "geschichte-wenckheim-kastely-extra",
@@ -535,6 +2394,404 @@ export const poiExtraHu1: POI[] = [
       en: ["The first written record of Szentes dates back to 1332.", "The city sits atop one of Europe's largest geothermal water reserves.", "The historic County Hall was built in 1883 in Neo-Renaissance style.", "It is a major center for greenhouse agriculture in Central Europe.", "The Koszta József Museum holds a significant collection of Avar-era artifacts.", "The thermal spring at the local bath reaches a temperature of 71°C."],
     },
     image: "/poi-images/city-szentes-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Reformierte Großkirche",
+                  "text": "Eines der größten reformierten Gotteshäuser Ungarns, erbaut im klassizistischen Stil am Anfang des 19. Jahrhunderts. Ihr Turm überragt die Stadt und bietet ein charakteristisches Stadtbild.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Szent-Anna-Kathedrale",
+                  "text": "Die römisch-katholische Hauptkirche der Stadt wurde zwischen 1843 und 1847 im klassizistischen Stil errichtet. Das Altarbild zeigt die heilige Anna, die Schutzpatronin der Kirche.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Ehemaliges Komitatshaus",
+                  "text": "Ein imposantes Gebäude im Stil der Neorenaissance und des Klassizismus, das einst das Verwaltungszentrum des Komitats Csongrád war. Heute beherbergt es kulturelle Institutionen und das Stadtarchiv.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Stadtbibliothek (Ehemalige Synagoge)",
+                  "text": "Die ehemalige Synagoge von Szentes ist ein wunderschönes Beispiel eklektischer Architektur mit maurischen Elementen. Nach einer Renovierung dient das Gebäude heute als moderne öffentliche Bibliothek.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Szenteser Freizeitzentrum und Thermalbad",
+                  "text": "Ein beliebtes Erholungsgebiet am Ufer des Kurca-Flusses mit mehreren Thermalbecken und Sportanlagen. Es ist bekannt für sein heilkräftiges Thermalwasser und seine ruhige, grüne Umgebung.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Kirchenruine von Ecser",
+                  "text": "Die Überreste einer romanischen Kirche aus dem 13. Jahrhundert befinden sich am Rande der Stadt. Die Ruine ist ein bedeutendes Denkmal aus der Zeit der Árpáden-Dynastie.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Serbisch-Orthodoxe Kirche St. Nikolaus",
+                  "text": "Die 1786 im Barockstil erbaute Kirche beherbergt eine prachtvolle Ikonostase, ein bedeutendes Werk der sakralen Kunst des 18. Jahrhunderts. Sie zeugt von der einst bedeutenden orthodoxen Gemeinde der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        20.2585,
+                        46.6528
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Fridrich-Fotostudio",
+                  "text": "Dieses einzigartige Museum ist das einzige erhaltene Fotostudio in Mitteleuropa, das ausschließlich mit natürlichem Oberlicht arbeitet. Es bewahrt die Atmosphäre und Ausrüstung der Fotografie des frühen 20. Jahrhunderts.",
+                  "category": "historical",
+                  "coords": [
+                        20.2662,
+                        46.6545
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Széchenyi-Hain",
+                  "text": "Der größte Park der Stadt am Ufer der Kurca bietet mit seinen alten Platanen und dem klassizistischen Museumspavillon eine ideale Umgebung für Erholung. Im Park befinden sich auch mehrere Denkmäler und Spielplätze.",
+                  "category": "natural",
+                  "coords": [
+                        20.2705,
+                        46.6535
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Lutherische Kirche Szentes",
+                  "text": "Die neugotische Kirche wurde Anfang des 20. Jahrhunderts nach Plänen von Aladár Arányi erbaut. Ihr markanter Turm und die schlichte, elegante Innenausstattung prägen das Stadtbild in der Nähe des Zentrums.",
+                  "category": "historical",
+                  "coords": [
+                        20.2552,
+                        46.6488
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Bürgerhaus Péter Pál",
+                  "text": "Das historische Gebäude beherbergt eine lokalgeschichtliche Sammlung, die das bürgerliche Leben in Szentes im 19. Jahrhundert präsentiert. Die authentisch eingerichteten Räume zeigen Möbel und Gebrauchsgegenstände der Epoche.",
+                  "category": "historical",
+                  "coords": [
+                        20.2565,
+                        46.6512
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Református nagytemplom",
+                  "text": "Magyarország egyik legnagyobb református temploma, amely a 19. század elején épült klasszicista stílusban. Tornya messziről látható, meghatározva a város sziluettjét.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Szent Anna római katolikus nagytemplom",
+                  "text": "A város főterén álló, 1843-1847 között emelt klasszicista épület. Belső tere és oltárképe Szent Annát, a templom védőszentjét ábrázolja.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Volt Megyeháza",
+                  "text": "Impozáns neoreneszánsz és klasszicista stílusú épület, amely egykor Csongrád vármegye székhelye volt. Jelenleg kulturális intézményeknek és a levéltárnak ad otthont.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Városi Könyvtár (Egykori Zsinagóga)",
+                  "text": "A szentesi zsinagóga az eklektikus építészet remeke maurís elemekkel díszítve. A felújítás után a város egyik legszebb könyvtáraként működik tovább.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Szentesi Üdülőközpont",
+                  "text": "A Kurca-partján elterülő komplexum gyógyvizes medencékkel, uszodával és sportpályákkal várja a látogatókat. Kedvelt pihenőhely a vízi sportok kedvelői számára is.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Ecseri templomrom",
+                  "text": "A Szentes határában található 13. századi román stílusú templom maradványai fontos Árpád-kori műemléknek számítanak. A romokat szántóföldek ölelik körül, különleges hangulatot árasztva.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Szent Miklós görögkeleti templom",
+                  "text": "Az 1786-ban barokk stílusban épült templom gazdag ikonosztázzal rendelkezik, amely a 18. századi egyházművészet kiemelkedő alkotása. A város egykori jelentős görög és szerb közösségének emlékét őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        20.2585,
+                        46.6528
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Fridrich-féle fényíróterem",
+                  "text": "Közép-Európa egyetlen épségben maradt napfényműterme, amely ma múzeumként működik. A különleges üvegtetővel rendelkező épület a 20. század eleji fényképészet eszközeit és hangulatát mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        20.2662,
+                        46.6545
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Széchenyi-liget",
+                  "text": "A Kurca folyó partján elterülő hatalmas park a város tüdeje, ahol évszázados platánfák és ritka növények találhatók. Területén áll a múzeumpavilon, amely néprajzi és helytörténeti kiállításoknak ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        20.2705,
+                        46.6535
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Szentesi Evangélikus templom",
+                  "text": "A neogótikus stílusú templom 1905-ben épült Arányi Aladár tervei alapján. Kecses tornya és belső terének puritán eleganciája fontos részét képezi a város építészeti örökségének.",
+                  "category": "historical",
+                  "coords": [
+                        20.2552,
+                        46.6488
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Péter Pál Polgárház",
+                  "text": "A 19. századi polgári életmódot bemutató tájház és múzeum, amely egykor módos kereskedőcsalád otthona volt. A korhűen berendezett szobák Szentes történelmi mindennapjait idézik fel.",
+                  "category": "historical",
+                  "coords": [
+                        20.2565,
+                        46.6512
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marea Biserică Reformată",
+                  "text": "Una dintre cele mai mari biserici reformate din Ungaria, construită în stil clasicist la începutul secolului al XIX-lea. Turnul său domină peisajul urban al orașului.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Catedrala Sfânta Ana",
+                  "text": "Biserica principală romano-catolică a orașului, ridicată între 1843 și 1847 în stil clasicist. Interiorul găzduiește o pictură deosebită a altarului reprezentând-o pe Sfânta Ana.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Fostul Sediu al Comitatului",
+                  "text": "O clădire impunătoare în stil neorenascentist și clasicist care a servit drept centru administrativ al comitatului Csongrád. Astăzi găzduiește arhivele orașului și diverse instituții culturale.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Biblioteca Municipală (Fosta Sinagogă)",
+                  "text": "Fosta sinagogă din Szentes este un exemplu superb de arhitectură eclectică cu motive maure. După renovare, clădirea a fost transformată într-o bibliotecă publică modernă.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Centrul de Recreere și Băile Termale Szentes",
+                  "text": "Situat pe malul râului Kurca, acest complex oferă bazine cu apă termală curativă și numeroase facilități sportive. Este o destinație populară pentru relaxare în natură.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Ruinele bisericii din Ecser",
+                  "text": "Rămășițele unei biserici în stil romanic din secolul al XIII-lea, situate la marginea orașului. Este un monument istoric important din epoca dinastiei Arpadiene.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfântul Nicolae",
+                  "text": "Construită în 1786 în stil baroc, biserica adăpostește o iconostasă magnifică, o lucrare importantă a artei sacre din secolul al XVIII-lea. Aceasta reflectă istoria comunității ortodoxe din oraș.",
+                  "category": "historical",
+                  "coords": [
+                        20.2585,
+                        46.6528
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Studioul foto Fridrich",
+                  "text": "Acest muzeu unic este singurul studio fotografic din Europa Centrală care a supraviețuit folosind exclusiv lumină naturală. Conservă atmosfera și echipamentele fotografiei de la începutul secolului XX.",
+                  "category": "historical",
+                  "coords": [
+                        20.2662,
+                        46.6545
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Parcul Széchenyi",
+                  "text": "Cel mai mare parc al orașului, situat pe malul râului Kurca, oferă un cadru ideal pentru relaxare cu platanii săi seculari. În parc se află un pavilion muzeal și numeroase monumente locale.",
+                  "category": "natural",
+                  "coords": [
+                        20.2705,
+                        46.6535
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Biserica Evanghelică din Szentes",
+                  "text": "Biserica în stil neogotic a fost construită la începutul secolului al XX-lea după planurile lui Aladár Arányi. Turnul său distinctiv este un punct de reper important în apropierea centrului orașului.",
+                  "category": "historical",
+                  "coords": [
+                        20.2552,
+                        46.6488
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Casa Cetățenească Péter Pál",
+                  "text": "Această clădire istorică găzduiește o colecție de istorie locală care prezintă viața burgheză din Szentes în secolul al XIX-lea. Camerele sunt mobilate autentic cu obiecte din acea epocă.",
+                  "category": "historical",
+                  "coords": [
+                        20.2565,
+                        46.6512
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Reformed Great Church",
+                  "text": "One of the largest Reformed churches in Hungary, built in Classical style at the beginning of the 19th century. Its tower is a prominent landmark visible from far across the plain.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "St. Anne Roman Catholic Church",
+                  "text": "The main Catholic church of the town, constructed between 1843 and 1847 in Classical style. It features a beautiful interior and an altarpiece dedicated to Saint Anne.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Former County Hall",
+                  "text": "An imposing Neo-Renaissance and Classical building that once served as the administrative center for Csongrád County. Today it houses the city archives and cultural institutions.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "City Library (Former Synagogue)",
+                  "text": "The former synagogue of Szentes is a masterpiece of Eclectic architecture with Moorish decorative elements. Following its restoration, it serves as the town's stunning public library.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Szentes Recreation Center and Thermal Bath",
+                  "text": "Located along the Kurca river, this complex offers thermal pools, a swimming stadium, and various sports facilities. It is famous for its healing waters and green surroundings.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Ecser Church Ruins",
+                  "text": "The remains of a 13th-century Romanesque church located on the outskirts of Szentes. It is a significant monument from the Arpadian era, standing solitary in the fields.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Saint Nicholas Orthodox Church",
+                  "text": "Built in 1786 in Baroque style, this church features a magnificent iconostasis, a significant work of 18th-century religious art. It stands as a reminder of the city's former Greek and Serbian communities.",
+                  "category": "historical",
+                  "coords": [
+                        20.2585,
+                        46.6528
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Fridrich Photography Studio",
+                  "text": "This unique museum is Central Europe's only surviving daylight photography studio. It preserves the original equipment and the authentic atmosphere of early 20th-century professional photography.",
+                  "category": "historical",
+                  "coords": [
+                        20.2662,
+                        46.6545
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Széchenyi Grove",
+                  "text": "The city's largest park, located along the Kurca river, is home to centennial plane trees and a classicist museum pavilion. It is a favorite spot for recreation, featuring several historic monuments.",
+                  "category": "natural",
+                  "coords": [
+                        20.2705,
+                        46.6535
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Lutheran Church of Szentes",
+                  "text": "A Neo-Gothic church built in 1905 based on the designs of Aladár Arányi. Its slender spire and elegant, simple interior are notable features of the local architectural landscape.",
+                  "category": "historical",
+                  "coords": [
+                        20.2552,
+                        46.6488
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Péter Pál Citizen's House",
+                  "text": "A local history museum set in a 19th-century bourgeois home, showcasing the lifestyle of wealthy merchant families. The rooms are furnished with authentic period pieces and household items.",
+                  "category": "historical",
+                  "coords": [
+                        20.2565,
+                        46.6512
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ]
+}
   },
     {
     id: "geo-maros-folyo-extra",
@@ -631,6 +2888,288 @@ export const poiExtraHu1: POI[] = [
       en: ["The first written record of Bicske dates back to 1306.", "Batthyány Castle was originally built in 1754 but later modernized by Mihály Pollack.", "The 'Hajnalóvár' observatory was established in 1847 by the local count.", "Bicske serves as a major railway station on the Budapest–Vienna line.", "The town was a market center for the region throughout the 19th century.", "The local Catholic church features frescoes painted by renowned artists."],
     },
     image: "/poi-images/city-bicske-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Schloss Batthyány",
+                  "text": "Ein prächtiges barock-klassizistisches Schloss im Zentrum der Stadt, umgeben von einem großen Park. Heute dient es als Kinderheim, bleibt aber ein bedeutendes historisches Wahrzeichen.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Römisch-katholische Dreifaltigkeitskirche",
+                  "text": "Diese im Jahr 1770 im Barockstil fertiggestellte Kirche ist das wichtigste religiöse Denkmal der Stadt. Ihr prachtvoller Innenraum beherbergt wertvolle sakrale Kunstwerke.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Báder Heimat- und Weinmuseum",
+                  "text": "Ein lokales Museum, das die Geschichte von Bicske und die Traditionen des Weinbaus in der Region präsentiert. Es bietet Einblicke in das bürgerliche Leben vergangener Jahrhunderte.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Sternwartenruine",
+                  "text": "Die Überreste eines Observatoriums aus dem 19. Jahrhundert, das von Miklós Konkoly-Thege gegründet wurde. Es ist ein Denkmal für die bedeutende astronomische Forschung in Ungarn.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Mittelalterliche Kirchenruinen",
+                  "text": "Ausgrabungen am Rande der Stadt haben Fundamente einer Kirche aus dem 12. Jahrhundert freigelegt, die die lange Siedlungsgeschichte von Bicske bezeugen.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Reformierte Kirche Bicske",
+                  "text": "Ein klassizistisches Gebäude im Stadtzentrum, das im 19. Jahrhundert erbaut wurde. Es ist ein wichtiger Versammlungsort für die örtliche protestantische Gemeinde.",
+                  "category": "historical",
+                  "coords": [
+                        18.631,
+                        47.484
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Bahnhof Bicske",
+                  "text": "Das vom Architekten Ferenc Pfaff entworfene Bahnhofsgebäude ist ein schönes Beispiel für die eklektische Eisenbahnarchitektur des späten 19. Jahrhunderts.",
+                  "category": "civic",
+                  "coords": [
+                        18.641,
+                        47.476
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Weinkeller im Galagonyás-Tal",
+                  "text": "Ein malerisches Tal am Stadtrand von Bicske, das für seine traditionellen Weinkeller bekannt ist. Es bietet Besuchern Einblicke in die lokale Weinbaukultur.",
+                  "category": "culinary",
+                  "coords": [
+                        18.618,
+                        47.491
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Batthyány-kastély",
+                  "text": "A város központjában álló monumentális barokk-klasszicista kastély, amelyet hatalmas angolpark vesz körül. Ma gyermekotthonként működik, de építészeti jelentősége kiemelkedő.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Szentháromság római katolikus templom",
+                  "text": "Az 1770-ben barokk stílusban épült templom Bicske legjelentősebb egyházi műemléke. Gazdagon díszített belső tere és oltára figyelemre méltó.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Báder Helytörténeti és Bormúzeum",
+                  "text": "A múzeum Bicske múltját és a környék borászati hagyományait mutatja be. A látogatók megismerhetik a település néprajzi értékeit és a helyi gazdálkodás történetét.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Csillagda romjai",
+                  "text": "A 19. században Konkoly-Thege Miklós által alapított csillagvizsgáló maradványai, amelyek a magyar csillagászati kutatások aranykorára emlékeztetnek.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Árpád-kori templomrom",
+                  "text": "A 12. századi templom alapfalai a város határában találhatók, tanúsítva a település ősi eredetét és középkori jelentőségét.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Bicskei Református templom",
+                  "text": "A város központjában álló klasszicista épület, mely a 19. század során nyerte el mai formáját. A helyi hitélet egyik legfontosabb helyszíne és építészeti emléke.",
+                  "category": "historical",
+                  "coords": [
+                        18.631,
+                        47.484
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Bicskei Vasútállomás",
+                  "text": "A neves építész, Pfaff Ferenc által tervezett eklektikus stílusú épület a 19. század végi vasúti építészet kiemelkedő példája a jellegzetes téglahomlokzatával.",
+                  "category": "civic",
+                  "coords": [
+                        18.641,
+                        47.476
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Galagonyás-völgyi pincesor",
+                  "text": "A város szélén elterülő völgy, ahol számos patinás borospince sorakozik. A helyszín a bicskei bortermelés évszázados hagyományait őrzi.",
+                  "category": "culinary",
+                  "coords": [
+                        18.618,
+                        47.491
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelul Batthyány",
+                  "text": "Un castel grandios în stil baroc-clasicist situat în centrul orașului, înconjurat de un parc vast. Deși astăzi servește drept orfelinat, rămâne un simbol istoric major al regiunii.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Biserica Romano-Catolică Sfânta Treime",
+                  "text": "Construită în anul 1770 în stil baroc, această biserică este principalul monument religios al orașului Bicske, având un interior bogat ornamentat.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Muzeul de Istorie Locală și al Vinului Báder",
+                  "text": "O colecție muzeală dedicată istoriei locale și tradițiilor viticole din zonă. Expoziția prezintă obiecte etnografice și unelte folosite în producția de vin.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Ruinele Observatorului Astronomic",
+                  "text": "Rămășițele unui observator fondat în secolul al XIX-lea de Miklós Konkoly-Thege, fiind un martor important al începuturilor cercetării astronomice în Ungaria.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Ruinele bisericii medievale",
+                  "text": "Fundațiile unei biserici din secolul al XII-lea, descoperite la marginea orașului, care atestă vechimea așezării în epoca Arpadiană.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Biserica Reformată din Bicske",
+                  "text": "O clădire neoclasică situată în centrul orașului, construită în secolul al XIX-lea. Este un loc important de adunare pentru comunitatea protestantă locală.",
+                  "category": "historical",
+                  "coords": [
+                        18.631,
+                        47.484
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Gara din Bicske",
+                  "text": "Clădirea gării, proiectată de arhitectul Ferenc Pfaff, este un exemplu frumos de arhitectură feroviară eclectică de la sfârșitul secolului al XIX-lea.",
+                  "category": "civic",
+                  "coords": [
+                        18.641,
+                        47.476
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Cramele din Valea Galagonyás",
+                  "text": "O vale pitorească la marginea orașului Bicske, renumită pentru cramele sale tradiționale. Oferă vizitatorilor o privire asupra culturii viticole locale.",
+                  "category": "culinary",
+                  "coords": [
+                        18.618,
+                        47.491
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Batthyány Castle",
+                  "text": "A magnificent Baroque-Classical mansion in the town center, surrounded by an extensive English park. It currently functions as a children's home but remains a key architectural landmark.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Holy Trinity Roman Catholic Church",
+                  "text": "Completed in 1770 in Baroque style, this church is Bicske's most significant religious monument, featuring a grand interior and sacred artworks.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Báder Local History and Wine Museum",
+                  "text": "A local museum showcasing the history of Bicske and the regional wine-making traditions. It houses ethnographic collections and artifacts from everyday life in the past.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Observatory Ruins",
+                  "text": "The remains of a 19th-century astronomical observatory founded by Miklós Konkoly-Thege. It stands as a monument to the golden age of Hungarian astronomical science.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Medieval Church Ruins",
+                  "text": "Excavated foundations of a 12th-century church located on the town's outskirts, providing evidence of the settlement's early medieval origins.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Bicske Reformed Church",
+                  "text": "A Neoclassical building in the city center, constructed during the 19th century. It serves as a spiritual hub for the local Reformed community.",
+                  "category": "historical",
+                  "coords": [
+                        18.631,
+                        47.484
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Bicske Railway Station",
+                  "text": "Designed by architect Ferenc Pfaff, this eclectic-style station building is a fine example of late 19th-century railway architecture.",
+                  "category": "civic",
+                  "coords": [
+                        18.641,
+                        47.476
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Galagonyás Valley Wine Cellars",
+                  "text": "A picturesque valley on the outskirts of Bicske, known for its historic wine cellars. It preserves the centuries-old traditions of local wine production.",
+                  "category": "culinary",
+                  "coords": [
+                        18.618,
+                        47.491
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ]
+}
   },
     {
     id: "geo-velencei-hegyseg-extra",
@@ -758,6 +3297,332 @@ export const poiExtraHu1: POI[] = [
       en: ["The Premonstratensian Abbey of Csorna was established in 1180.", "A significant battle took place here on June 13, 1849, during the War of Independence.", "The town is a key railway junction for lines connecting Győr, Sopron, and Szombathely.", "The current population of Csorna is approximately 10,000 inhabitants.", "The Municipal Museum is housed within the Baroque abbey complex.", "Csorna officially regained its town status in 1971."],
     },
     image: "/poi-images/city-csorna-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Prämonstratenser-Propstei",
+                  "text": "Das spirituelle und kulturelle Herz von Csorna. Das barocke Klostergebäude ist ein monumentales Wahrzeichen der Stadt und beherbergt bedeutende religiöse Schätze.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Csornaer Museum",
+                  "text": "Im Gebäude der Propstei untergebracht, zeigt dieses Museum eine reiche lokalgeschichtliche und ethnografische Sammlung über das Leben in der Rábaköz-Region.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Herz-Jesu-Pfarrkirche",
+                  "text": "Bekannt für ihre beeindruckenden Fresken von Sándor Nagy, ist diese Kirche ein wichtiges Beispiel modernerer sakraler Kunst im historischen Rahmen.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Aquatermál Thermalbad und Camping",
+                  "text": "Ein modernes Thermalbad mit Heilwasserbecken, Rutschen und Wellness-Bereich. Es ist ein beliebter Erholungsort für Familien und Kurgäste in Nordwestungarn.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Ausstellung über die Flora und Fauna des Hanság",
+                  "text": "Eine interaktive Ausstellung im Kulturhaus, die die einzigartige Naturwelt des nahegelegenen Fertő-Hanság Nationalparks präsentiert.",
+                  "category": "family",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Mariensäule",
+                  "text": "Ein wichtiges Denkmal des religiösen Erbes der Stadt, das im Zentrum steht und die Geschichte Csornas widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        17.249,
+                        47.612
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Denkmal für den Zweiten Weltkrieg",
+                  "text": "Diese Gedenkstätte im Stadtzentrum erinnert an die Opfer des Zweiten Weltkriegs und ist ein Ort des stillen Gedenkens.",
+                  "category": "civic",
+                  "coords": [
+                        17.248,
+                        47.611
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Mosaik von Géza Fónyi",
+                  "text": "Ein beeindruckendes Wandmosaik an der Zoltán-Csukás-Fachschule, das ein bedeutendes Beispiel lokaler moderner Kunst darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        17.245,
+                        47.608
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Millennium-Gedenkpark",
+                  "text": "Ein gepflegter Park im Herzen der Stadt, der Erholung bietet und an die tausendjährige Geschichte Ungarns erinnert.",
+                  "category": "recreational",
+                  "coords": [
+                        17.251,
+                        47.61
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Premontrei Prépostság",
+                  "text": "Csorna szellemi és kulturális központja. A monumentális barokk rendház a város legfontosabb építészeti emléke, amely évszázadok óta meghatározza a település arculatát.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Csornai Múzeum",
+                  "text": "A prépostság épületében található intézmény helytörténeti és néprajzi gyűjteménye a Rábaköz mindennapjait és hagyományait mutatja be a látogatóknak.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Jézus Szíve-plébániatemplom",
+                  "text": "A templom belső terét Nagy Sándor neves művész freskói díszítik, amelyek a magyar szecessziós szakrális művészet kiemelkedő alkotásai.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Csornai Aquatermál Fürdő",
+                  "text": "Kiváló minőségű gyógyvízzel rendelkező fürdő, amely kempinggel és számos szabadidős szolgáltatással várja a pihenni vágyókat egész évben.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Hanság élővilága kiállítás",
+                  "text": "A Művelődési Központban található interaktív tárlat a Fertő-Hanság Nemzeti Park különleges mocsárvilágát és állatvilágát ismerteti meg az érdeklődőkkel.",
+                  "category": "family",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Szűz Mária-oszlop",
+                  "text": "A város központjában álló, vallási örökséget őrző barokk emlékoszlop, a helyi közösség hitének szimbóluma.",
+                  "category": "historical",
+                  "coords": [
+                        17.249,
+                        47.612
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Második világháborús emlékmű",
+                  "text": "A város szívében található emlékmű a világégés helyi áldozatainak állít méltó emléket.",
+                  "category": "civic",
+                  "coords": [
+                        17.248,
+                        47.611
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Fónyi Géza mozaikja",
+                  "text": "A Csukás Zoltán Mezőgazdasági Szakközépiskola külső falát díszítő nagyméretű, művészeti szempontból értékes alkotás.",
+                  "category": "historical",
+                  "coords": [
+                        17.245,
+                        47.608
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Millenniumi emlékpark",
+                  "text": "Gondozott zöldterület a város központjában, amely a kikapcsolódás mellett a magyar államiság ezeréves évfordulójára is emlékeztet.",
+                  "category": "recreational",
+                  "coords": [
+                        17.251,
+                        47.61
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abatia Premonstratensă",
+                  "text": "Centrul spiritual și cultural al orașului Csorna. Clădirea barocă a mănăstirii este un monument arhitectural de o importanță deosebită, dominând piața centrală.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Muzeul din Csorna",
+                  "text": "Găzduit în clădirea abației, muzeul prezintă o colecție bogată de istorie locală și etnografie, ilustrând viața și tradițiile din regiunea Rábaköz.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Biserica Parohială Inima lui Isus",
+                  "text": "Faimoasă pentru frescele realizate de artistul Sándor Nagy, această biserică reprezintă un reper important al artei sacre maghiare din secolul XX.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Băile Termale Aquatermál",
+                  "text": "Un complex termal modern care oferă bazine cu apă curativă, tobogane și facilități de camping, fiind o destinație de vacanță populară în regiune.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Expoziția despre flora și fauna din Hanság",
+                  "text": "O prezentare interactivă situată în Centrul Cultural, dedicată ecosistemului unic al Parcului Național Fertő-Hanság și faunei sale specifice.",
+                  "category": "family",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Coloana Fecioarei Maria",
+                  "text": "O coloană barocă situată în centrul orașului, care păstrează moștenirea religioasă și simbolizează credința comunității locale.",
+                  "category": "historical",
+                  "coords": [
+                        17.249,
+                        47.612
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Monumentul celui de-al Doilea Război Mondial",
+                  "text": "Situat în inima orașului, acest monument este dedicat memoriei victimelor locale ale celei de-a doua conflagrații mondiale.",
+                  "category": "civic",
+                  "coords": [
+                        17.248,
+                        47.611
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Mozaicul lui Géza Fónyi",
+                  "text": "O lucrare artistică de mari dimensiuni care decorează peretele exterior al Școlii Agricole Zoltán Csukás.",
+                  "category": "historical",
+                  "coords": [
+                        17.245,
+                        47.608
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Parcul Memorial al Mileniului",
+                  "text": "O zonă verde bine întreținută în centrul orașului, ideală pentru relaxare și comemorarea istoriei maghiare.",
+                  "category": "recreational",
+                  "coords": [
+                        17.251,
+                        47.61
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Premonstratensian Abbey",
+                  "text": "The spiritual and cultural heart of Csorna. The monumental Baroque abbey building is the town's most important architectural landmark and houses religious treasures.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Csorna Museum",
+                  "text": "Located within the abbey building, this museum features local history and ethnographic collections that showcase the life and traditions of the Rábaköz region.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Jesus' Heart Parish Church",
+                  "text": "Notable for its stunning frescoes by artist Sándor Nagy, the church is a prime example of Hungarian Art Nouveau sacred art in a religious setting.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Aquatermál Thermal Spa",
+                  "text": "A modern spa offering medicinal thermal pools, water slides, and camping facilities. It is a popular spot for relaxation and wellness in Northwest Hungary.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Hanság Wildlife Exhibition",
+                  "text": "An interactive exhibit in the Cultural Center that introduces visitors to the unique marshland ecosystem and fauna of the nearby Fertő-Hanság National Park.",
+                  "category": "family",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Mary Column",
+                  "text": "A Baroque column standing in the city center, preserving religious heritage and symbolizing the faith of the local community.",
+                  "category": "historical",
+                  "coords": [
+                        17.249,
+                        47.612
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "World War II Memorial",
+                  "text": "Located in the heart of the city, this monument pays tribute to the local victims of the global conflict.",
+                  "category": "civic",
+                  "coords": [
+                        17.248,
+                        47.611
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Géza Fónyi Mosaic",
+                  "text": "A large-scale, artistically valuable mosaic decorating the exterior wall of the Zoltán Csukás Agricultural School.",
+                  "category": "historical",
+                  "coords": [
+                        17.245,
+                        47.608
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Millennium Memorial Park",
+                  "text": "A well-kept green space in the city center, ideal for recreation and commemorating a thousand years of Hungarian history.",
+                  "category": "recreational",
+                  "coords": [
+                        17.251,
+                        47.61
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ]
+}
   },
     {
     id: "geschichte-eszterhazy-kastely-extra",
@@ -918,6 +3783,376 @@ export const poiExtraHu1: POI[] = [
       en: ["Füzesabony is a major railway hub for lines to Budapest, Miskolc, and Eger.", "The town gave its name to the globally significant Bronze Age Füzesabony Culture.", "The first written record of the settlement dates back to the year 1261.", "The town's late Baroque Catholic church was constructed in the late 18th century.", "The current population of the town is approximately 7,500 inhabitants.", "The town is strategically located next to the M3 motorway."],
     },
     image: "/poi-images/city-fuzesabony-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Römisch-katholische Kirche St. Johannes der Täufer",
+                  "text": "Eine barocke Pfarrkirche, die zwischen 1731 und 1735 erbaut wurde. Sie ist das bedeutendste religiöse Denkmal der Stadt und ein zentraler Punkt des historischen Ortskerns.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Bahnhof Füzesabony",
+                  "text": "Eines der schönsten historischen Bahnhofsgebäude Ungarns, entworfen von dem berühmten Architekten Ferenc Pfaff. Die prächtige Ziegelarchitektur zeugt von der Bedeutung der Stadt als Verkehrsknotenpunkt.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Lokalgeschichtliche Sammlung",
+                  "text": "Das Museum präsentiert archäologische Funde aus der Bronzezeit und Exponate zur jüngeren Geschichte der Siedlung. Es bietet einen tiefen Einblick in das Leben der Menschen im Heves-Komitat.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Szent-Vendel-Kapelle in Pusztaszikszó",
+                  "text": "Diese malerische Kapelle am Rande der Stadt ist ein wichtiges lokales Denkmal. Sie steht an einem Ort, der schon im Mittelalter besiedelt war.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Trianon-Denkmal",
+                  "text": "Ein monumentales Denkmal im Stadtzentrum, das an den Friedensvertrag von Trianon erinnert. Es ist ein Ort des Gedenkens und wichtiger nationaler Feierlichkeiten.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Artesischer Brunnen",
+                  "text": "Dieser Brunnen aus dem Jahr 1930 ist ein wichtiges lokales Denkmal und ein Treffpunkt im Stadtzentrum.",
+                  "category": "civic",
+                  "coords": [
+                        20.411,
+                        47.751
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Reformierte Kirche",
+                  "text": "Eine schlichte, aber bedeutende Kirche der protestantischen Gemeinde, die zur architektonischen Vielfalt der Stadt beiträgt.",
+                  "category": "historical",
+                  "coords": [
+                        20.408,
+                        47.752
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Skulptur 'Lesende Frau'",
+                  "text": "Ein Werk des Bildhauers Agamemnon Makrisz aus dem Jahr 1973, das eine friedliche Atmosphäre im öffentlichen Raum schafft.",
+                  "category": "civic",
+                  "coords": [
+                        20.412,
+                        47.75
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Remenyik-Zsigmond-Denkmal",
+                  "text": "Ein 1988 eingeweihtes Denkmal zu Ehren des berühmten ungarischen Schriftstellers Zsigmond Remenyik.",
+                  "category": "historical",
+                  "coords": [
+                        20.41,
+                        47.749
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Denkmal für den Ersten Weltkrieg",
+                  "text": "Ein Denkmal auf dem Hauptplatz, das an die tapferen Soldaten erinnert, die im Ersten Weltkrieg ihr Leben ließen.",
+                  "category": "civic",
+                  "coords": [
+                        20.413,
+                        47.753
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Keresztelő Szent János-templom",
+                  "text": "A város 1731 és 1735 között épült barokk stílusú plébániatemploma. Füzesabony legfontosabb egyházi műemléke, belső tere értékes oltárképeket őriz.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Füzesabonyi vasútállomás",
+                  "text": "A Pfaff Ferenc által tervezett eklektikus stílusú épület az ország egyik legszebb vasúti műemléke. Díszes téglaarchitektúrája hűen tükrözi a város közlekedési csomópont szerepét.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Helytörténeti gyűjtemény",
+                  "text": "A gyűjtemény a bronzkori leletektől kezdve mutatja be a település és környékének fejlődését. Gazdag néprajzi és vasúttörténeti tárgyi emlékekkel várja a látogatókat.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Pusztaszikszó, Szent Vendel-kápolna",
+                  "text": "A város külterületén található kápolna egy ősi település maradványait jelzi. Csendes környezete és történelmi kisugárzása miatt kedvelt kirándulási célpont.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Trianon-emlékmű",
+                  "text": "A város központjában felállított impozáns emlékmű, amely a magyar történelem egyik sorsfordító eseményének állít emléket. A helyi ünnepségek fontos helyszíne.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Artézi kút",
+                  "text": "Az 1930-ban létesített kút a város egyik kedvelt találkozóhelye és ipartörténeti emléke a belvárosban.",
+                  "category": "civic",
+                  "coords": [
+                        20.411,
+                        47.751
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Református templom",
+                  "text": "A protestáns közösség központja, amely letisztult formáival gazdagítja a város építészeti arculatát.",
+                  "category": "historical",
+                  "coords": [
+                        20.408,
+                        47.752
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Olvasó nő szobra",
+                  "text": "Makrisz Agamemnon 1973-ban készült alkotása, amely a nyugodt pihenést és a művelődést hirdeti a közterületen.",
+                  "category": "civic",
+                  "coords": [
+                        20.412,
+                        47.75
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Remenyik Zsigmond-emlékmű",
+                  "text": "A neves író tiszteletére 1988-ban állított emlékmű, Szöllőssy Enikő szobrászművész alkotása.",
+                  "category": "historical",
+                  "coords": [
+                        20.41,
+                        47.749
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "I. világháborús emlékmű",
+                  "text": "A főtéren álló szoborkompozíció a nagy háborúban elesett helyi hősöknek állít méltó emléket.",
+                  "category": "civic",
+                  "coords": [
+                        20.413,
+                        47.753
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica Sfântul Ioan Botezătorul",
+                  "text": "O biserică parohială în stil baroc construită între anii 1731 și 1735. Este cel mai de seamă monument religios al orașului Füzesabony, aflat în centrul localității.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Gara Füzesabony",
+                  "text": "Proiectată de celebrul arhitect Ferenc Pfaff, clădirea este una dintre cele mai frumoase monumente feroviare din Ungaria. Arhitectura sa din cărămidă decorativă este impresionantă.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Colecția de Istorie Locală",
+                  "text": "Prezintă descoperiri arheologice din epoca bronzului și exponate legate de istoria modernă a orașului. Muzeul oferă o perspectivă asupra evoluției economice și sociale a zonei.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Capela Sfântul Vendel din Pusztaszikszó",
+                  "text": "O capelă pitorească situată în zona rurală a orașului, reprezentând o mărturie a vechii așezări medievale care a existat odinioară pe acest loc.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Monumentul Trianon",
+                  "text": "Un monument grandios situat în centrul orașului, dedicat tratatului de pace de la Trianon. Este un loc important pentru ceremoniile comemorative locale.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Fântâna arteziană",
+                  "text": "O fântână datând din 1930, care servește ca punct de întâlnire popular și monument istoric în centrul orașului.",
+                  "category": "civic",
+                  "coords": [
+                        20.411,
+                        47.751
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Biserica Reformată",
+                  "text": "Centrul comunității protestante, o clădire simplă dar semnificativă care contribuie la diversitatea arhitecturală a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        20.408,
+                        47.752
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Statuia 'Femeia care citește'",
+                  "text": "O sculptură din 1973 realizată de Agamemnon Makrisz, care aduce o notă de liniște și cultură spațiului public.",
+                  "category": "civic",
+                  "coords": [
+                        20.412,
+                        47.75
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Monumentul lui Zsigmond Remenyik",
+                  "text": "Un monument ridicat în 1988 în cinstea renumitului scriitor maghiar, creat de artista Enikő Szöllőssy.",
+                  "category": "historical",
+                  "coords": [
+                        20.41,
+                        47.749
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Monumentul Primului Război Mondial",
+                  "text": "Situat în piața centrală, acest monument comemorează eroii locali care și-au pierdut viața în Primul Război Mondial.",
+                  "category": "civic",
+                  "coords": [
+                        20.413,
+                        47.753
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. John the Baptist Roman Catholic Church",
+                  "text": "A Baroque parish church built between 1731 and 1735. It serves as the town's primary religious landmark, featuring a classic facade and historical interior.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Füzesabony Railway Station",
+                  "text": "One of Hungary's most beautiful historic railway stations, designed by the renowned architect Ferenc Pfaff. Its ornate brickwork reflects the town's importance as a regional hub.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Local History Collection",
+                  "text": "The collection showcases archaeological finds from the Bronze Age alongside artifacts detailing the town's modern development and railway heritage.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "St. Vendel Chapel in Pusztaszikszó",
+                  "text": "Located on the outskirts of the town, this historic chapel marks the site of an ancient settlement and provides a quiet, spiritual spot for visitors.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Trianon Memorial",
+                  "text": "An impressive monument in the town center commemorating the Trianon Peace Treaty. It serves as a focal point for national remembrance and local events.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Artesian Well",
+                  "text": "An artesian well established in 1930, serving as a popular local landmark and meeting point in the city center.",
+                  "category": "civic",
+                  "coords": [
+                        20.411,
+                        47.751
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Reformed Church",
+                  "text": "The center of the local Protestant community, characterized by its clean architectural lines and spiritual significance.",
+                  "category": "historical",
+                  "coords": [
+                        20.408,
+                        47.752
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Sculpture 'Reading Woman'",
+                  "text": "A 1973 work by sculptor Agamemnon Makrisz, symbolizing peace, education, and cultural life in the public square.",
+                  "category": "civic",
+                  "coords": [
+                        20.412,
+                        47.75
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Zsigmond Remenyik Memorial",
+                  "text": "A monument erected in 1988 to honor the famous Hungarian writer, created by the sculptor Enikő Szöllőssy.",
+                  "category": "historical",
+                  "coords": [
+                        20.41,
+                        47.749
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "World War I Memorial",
+                  "text": "An impressive sculpture in the main square dedicated to the memory of local heroes who fell in the Great War.",
+                  "category": "civic",
+                  "coords": [
+                        20.413,
+                        47.753
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            }
+      ]
+}
   },
   {
     id: "geschichte-egri-bazilika-extra",
@@ -1077,6 +4312,404 @@ export const poiExtraHu1: POI[] = [
       en: ["First written mention of the settlement in 1193", "Commencement of coal mining in the area in 1845", "Founding of the Dorogi FC sports club in 1914", "Dorog was granted town status in 1984", "Home to the first reinforced concrete church in Hungary", "The town is located on the National Blue Tour hiking trail"],
     },
     image: "/poi-images/city-dorog-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Bergbaumuseum (Bányász Emlékház)",
+                  "text": "Das Museum ehrt die lange Tradition des Kohlebergbaus in Dorog. Es zeigt authentische Werkzeuge, Dokumente und persönliche Gegenstände der Bergleute, die die Stadt prägten.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Römisch-katholische Kirche St. Borbála (Bányásztemplom)",
+                  "text": "Die in den 1920er Jahren erbaute 'Bergarbeiterkirche' ist der Schutzpatronin der Bergleute gewidmet. Ihre Architektur ist eine einzigartige Mischung aus Moderne und Tradition.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "József Attila Kulturhaus",
+                  "text": "Ein prächtiges Gebäude, das das kulturelle Zentrum der Stadt bildet. Nach einer gründlichen Renovierung beherbergt es heute ein Theater, ein Kino und verschiedene Veranstaltungsräume.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Römisch-katholische Kirche St. József",
+                  "text": "Eine wunderschöne Barockkirche aus dem 18. Jahrhundert (1767–1775). Sie ist das älteste religiöse Gebäude in Dorog und besitzt wertvolle Altäre.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Maria-Grotte (Mária-barlang)",
+                  "text": "Ein Ort der Andacht und Ruhe im Wald am Rande der Stadt. Die künstlich geschaffene Grotte ist ein beliebtes Ziel für Pilger und Spaziergänger.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Doroger Sportmuseum",
+                  "text": "Dieses kleine Museum dokumentiert die reiche Sportgeschichte der Stadt, insbesondere die Erfolge der lokalen Fußball- und Ringervereine.",
+                  "category": "sports",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Reimann Bergbaugeschichte Miniversum",
+                  "text": "Dieses moderne interaktive Museum präsentiert die reiche Bergbautradition des Dorog-Beckens. Mit Modellen, digitalen Displays und Originalwerkzeugen wird die Geschichte der Kohleförderung lebendig gemacht.",
+                  "category": "historical",
+                  "coords": [
+                        18.7242,
+                        47.7178
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Reformierte Kirche Dorog",
+                  "text": "Die in den 1930er Jahren im siebenbürgischen Stil erbaute Holzkirche ist ein architektonisches Juwel der Stadt. Ihre einzigartige Struktur und Innenausstattung weichen vom klassischen Kirchenbau der Region ab.",
+                  "category": "historical",
+                  "coords": [
+                        18.7332,
+                        47.7215
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Palatinus-See",
+                  "text": "Der künstlich durch Bergbau entstandene See gilt als eines der saubersten Gewässer Ungarns. Er ist ein Zentrum für Wassersportler, Taucher und Badegäste im Sommer.",
+                  "category": "natural",
+                  "coords": [
+                        18.7485,
+                        47.7152
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Jubiläumsplatz",
+                  "text": "Ein zentraler Platz mit mehreren Denkmälern, die an die Gründung und die Industriegeschichte von Dorog erinnern. Er dient oft als Ort für städtische Feierlichkeiten und Gedenkveranstaltungen.",
+                  "category": "civic",
+                  "coords": [
+                        18.7285,
+                        47.7212
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Bergbau-Bohrturm-Denkmal",
+                  "text": "Ein markantes Denkmal in Form eines Bohrturms, das an die Pionierarbeit der geologischen Erkundung in der Region erinnert. Es symbolisiert den technischen Fortschritt der lokalen Industrie.",
+                  "category": "historical",
+                  "coords": [
+                        18.7292,
+                        47.7195
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bányász Emlékház",
+                  "text": "Dorog bányászati múltjának állít emléket. A múzeumban eredeti bányászati eszközök, fotók és dokumentumok láthatók, amelyek a város ipari fejlődését mutatják be.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Szent Borbála-templom (Bányásztemplom)",
+                  "text": "Az 1920-as években épült, a bányászok védőszentjéről elnevezett templom a város egyik legjellegzetesebb épülete. Különleges építészeti megoldásai miatt ipari műemlékként is jelentős.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "József Attila Művelődési Ház",
+                  "text": "Impozáns neoreneszánsz stílusú épület, amely a város kulturális életének szíve. Színházteremmel, mozival és könyvtárral várja a látogatókat a felújított komplexum.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Szent József-plébániatemplom",
+                  "text": "Dorog legrégebbi egyházi épülete, amely 1767 és 1775 között épült barokk stílusban. Gazdagon díszített belső tere fontos szakrális értékeket rejt.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Mária-barlang",
+                  "text": "A Kálvária-domb tövében található kegyhely, amely a hívők és a túrázók körében egyaránt népszerű. Csendes környezete ideális hely az elmélyülésre és pihenésre.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Sportmúzeum",
+                  "text": "A múzeum a dorogi sportélet aranykorát és sikereit mutatja be. Különös figyelmet szentelnek a helyi labdarúgásnak és a város híres olimpikonjainak.",
+                  "category": "sports",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Reimann Bányászattörténeti Miniverzum",
+                  "text": "Modern, interaktív látogatóközpont, amely a Dorogi-medence szénbányászatának 200 éves múltját mutatja be. Makettekkel, digitális eszközökkel és bányászati ereklyékkel teszi élvezetessé a tanulást minden korosztálynak.",
+                  "category": "historical",
+                  "coords": [
+                        18.7242,
+                        47.7178
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Dorogi Református templom",
+                  "text": "Az 1930-as években épült, erdélyi stílusjegyeket hordozó fatemplom különleges színfoltja a városnak. Belső tere és különleges építészeti megoldásai a népi építészet hagyományait idézik.",
+                  "category": "historical",
+                  "coords": [
+                        18.7332,
+                        47.7215
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Palatinus-tó",
+                  "text": "A bányászat során keletkezett tó Magyarország egyik legtisztább vizű állóvize. Kedvelt kirándulóhely, amely strandolásra, búvárkodásra és horgászatra is kiválóan alkalmas.",
+                  "category": "natural",
+                  "coords": [
+                        18.7485,
+                        47.7152
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Jubileumi tér",
+                  "text": "A város egyik központi tere, ahol számos emlékmű állít emléket a bányászatnak és a város történelmi eseményeinek. Fontos közösségi helyszín és rendezvénytér.",
+                  "category": "civic",
+                  "coords": [
+                        18.7285,
+                        47.7212
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Bányász-fúrótorony emlékmű",
+                  "text": "Eredeti bányászati fúrótoronyból kialakított emlékmű, amely a környék mélyfúrási és kutatási munkáit szimbolizálja. A város ipari örökségének egyik látványos eleme.",
+                  "category": "historical",
+                  "coords": [
+                        18.7292,
+                        47.7195
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeul Mineritului (Bányász Emlékház)",
+                  "text": "Un muzeu dedicat bogatei tradiții a mineritului din Dorog. Expoziția cuprinde unelte autentice, fotografii și mărturii ale muncii grele desfășurate în minele de cărbune.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Biserica Sfânta Varvara (Biserica Minerilor)",
+                  "text": "Construită în anii 1920, această biserică este dedicată ocrotitoarei minerilor. Arhitectura sa robustă și interiorul simbolic reflectă identitatea industrială a orașului.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Casa de Cultură József Attila",
+                  "text": "O clădire monumentală care reprezintă centrul cultural și social al orașului Dorog. Găzduiește un teatru, un cinematograf și spații pentru diverse evenimente comunitare.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Biserica Romano-Catolică Sfântul Iosif",
+                  "text": "Cea mai veche biserică din oraș, ridicată în stil baroc între 1767 și 1775. Este un monument istoric valoros cu un altar și picturi murale remarcabile.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Grota Maria (Mária-barlang)",
+                  "text": "Un loc de rugăciune și liniște situat la baza dealului Calvaria. Această grotă artificială atrage numeroși pelerini și vizitatori dornici de reculegere în natură.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Muzeul Sportului din Dorog",
+                  "text": "Documentează istoria glorioasă a sportului local, evidențiind succesele clubului de fotbal și ale luptătorilor din Dorog de-a lungul deceniilor.",
+                  "category": "sports",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Miniversul de Istorie Minieră Reimann",
+                  "text": "Un centru modern de vizitare care prezintă istoria mineritului din bazinul Dorog prin expoziții interactive. Include machete detaliate și dispozitive digitale care explică tehnologia minieră.",
+                  "category": "historical",
+                  "coords": [
+                        18.7242,
+                        47.7178
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Biserica Reformată din Dorog",
+                  "text": "Construită în anii 1930 în stil transilvănean, această biserică de lemn este o raritate arhitecturală în regiune. Designul său interior reflectă tradițiile artei populare maghiare.",
+                  "category": "historical",
+                  "coords": [
+                        18.7332,
+                        47.7215
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Lacul Palatinus",
+                  "text": "Format prin activități miniere, acest lac este renumit pentru puritatea apei sale. Este o destinație populară pentru activități de agrement, scufundări și relaxare în timpul verii.",
+                  "category": "natural",
+                  "coords": [
+                        18.7485,
+                        47.7152
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Piața Jubileului",
+                  "text": "O piață centrală care găzduiește mai multe monumente dedicate trecutului industrial al orașului. Este un loc principal de adunare pentru evenimente comunitare și comemorări.",
+                  "category": "civic",
+                  "coords": [
+                        18.7285,
+                        47.7212
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Monumentul Turnului de Foraj Minier",
+                  "text": "Un monument distinctiv format dintr-un turn de foraj autentic, onorând munca geologilor și a minerilor. Reprezintă progresul tehnic și importanța industriei extractive locale.",
+                  "category": "historical",
+                  "coords": [
+                        18.7292,
+                        47.7195
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Miners' Memorial House (Mining Museum)",
+                  "text": "This museum commemorates Dorog's deep-rooted coal mining heritage. It displays authentic equipment, historical photographs, and documents illustrating the life of the miners.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "St. Barbara Church (Miners' Church)",
+                  "text": "Built in the 1920s, this church is dedicated to the patron saint of miners. Its distinctive architecture reflects the town's industrial identity and religious devotion.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "József Attila Culture House",
+                  "text": "An impressive Neo-Renaissance style building that serves as the town's cultural hub. Following its renovation, it houses a theater, a cinema, and various event halls.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "St. Joseph Roman Catholic Church",
+                  "text": "The oldest religious building in Dorog, constructed between 1767 and 1775 in Baroque style. It features a richly decorated interior and valuable altars.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Maria Grotto",
+                  "text": "A place of pilgrimage and quiet contemplation located at the foot of Calvary Hill. The artificial cave is a popular destination for both religious visitors and hikers.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Dorog Sports Museum",
+                  "text": "This museum details the town's prestigious sporting history, focusing on the achievements of local football players, wrestlers, and Olympic athletes.",
+                  "category": "sports",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Reimann Mining History Miniverse",
+                  "text": "A modern, interactive visitor center showcasing the 200-year history of coal mining in the Dorog Basin. It features detailed models and digital tools that bring industrial history to life.",
+                  "category": "historical",
+                  "coords": [
+                        18.7242,
+                        47.7178
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Reformed Church of Dorog",
+                  "text": "Built in the 1930s in a traditional Transylvanian style, this wooden church is a unique architectural landmark in the city. Its interior design and structure draw from folk art traditions.",
+                  "category": "historical",
+                  "coords": [
+                        18.7332,
+                        47.7215
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Palatinus Lake",
+                  "text": "Created by mining activities, this lake is known for having some of the clearest water in Hungary. It is a major local hub for swimming, diving, and outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        18.7485,
+                        47.7152
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Jubilee Square",
+                  "text": "A central square featuring several monuments that commemorate the city's industrial past and important historical events. It serves as a primary venue for community festivals and ceremonies.",
+                  "category": "civic",
+                  "coords": [
+                        18.7285,
+                        47.7212
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Mining Drill Tower Monument",
+                  "text": "An impressive monument made from an original drilling rig, symbolizing the deep exploration work done in the region. It stands as a tribute to the technological heritage of the mining town.",
+                  "category": "historical",
+                  "coords": [
+                        18.7292,
+                        47.7195
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ]
+}
   },
     {
     id: "city-orosz lany-extra",
@@ -1108,6 +4741,248 @@ export const poiExtraHu1: POI[] = [
       ro: ["Descoperirea primelor straturi de cărbune în anul 1937", "Obținerea statutului de oraș în anul 1954", "Muzeul Mineritului este situat la fosta mină numărul XVI", "Proximitatea față de complexul baroc al Ermitajului Majk", "Lacul Bokod a funcționat inițial ca iaz de răcire pentru termocentrală", "Din anii 1990, orașul este un centru important al industriei auto"],
       en: ["Discovery of the first coal seams in 1937", "Oroszlány was elevated to town status in 1954", "The Mining Museum is located at the former Shaft XVI", "Proximity to the historic Majk Kamalduli Hermitage complex", "Bokodi Lake originally served as a cooling pond for the power plant", "Significant automotive industry investments since the 1990s"],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Eremitage von Majk",
+                  "text": "Ein einzigartiges barockes Denkmalensemble aus dem 18. Jahrhundert, bestehend aus 17 separaten Zellenhäusern der Kamaldulenser-Mönche. Die Anlage umfasst zudem ein prächtiges Klostergebäude und die Ruine einer Kirche mit einem markanten Turm.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Bergbaumuseum Oroszlány",
+                  "text": "Das Museum befindet sich am ehemaligen Schacht XVI und präsentiert die reiche Bergbaugeschichte der Region. Besucher können originale Maschinen, Werkzeuge und die Arbeitsbedingungen der Bergleute in den ehemaligen Kohleminen besichtigen.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "St.-Stephans-Kirche",
+                  "text": "Eine katholische Kirche im modernen Zentrum der Stadt, die ein wichtiger Ort für das Gemeinschaftsleben der Gläubigen ist. Der Innenraum ist mit modernen Kunstwerken geschmückt.",
+                  "category": "civic",
+                  "coords": [
+                        18.318,
+                        47.485
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Evangelische Kirche",
+                  "text": "Die historisch bedeutsame Kirche der evangelischen Gemeinde im alten Stadtteil. Das im späten 18. Jahrhundert im Barockstil errichtete Gebäude symbolisiert die religiöse Vielfalt.",
+                  "category": "historical",
+                  "coords": [
+                        18.315,
+                        47.488
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Mühlenteich",
+                  "text": "Ein künstlicher See im Herzen der Stadt, der hervorragende Möglichkeiten zur Entspannung bietet. An seinen Ufern erwarten Promenaden und Ruhebänke die Besucher.",
+                  "category": "recreational",
+                  "coords": [
+                        18.305,
+                        47.478
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Bergmanns-Gedenkpark",
+                  "text": "Eine Gedenkstätte zu Ehren der Bergbauvergangenheit der Stadt, in der alte Bergbaumaschinen zu sehen sind. Die Denkmäler erinnern an den einst wichtigsten Industriezweig.",
+                  "category": "historical",
+                  "coords": [
+                        18.322,
+                        47.49
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Majki műemlékegyüttes",
+                  "text": "Európa-szerte ritkaságnak számító barokk műemlékegyüttes, amely a 18. században épült a kamalduli szerzetesek számára. A komplexum 17 különálló cellaházból, egy központi kolostorépületből és egy templomtoronyból áll.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Oroszlányi Bányászati Múzeum",
+                  "text": "A város egykori XVI-os aknájának területén kialakított kiállítóhely, amely a helyi szénbányászat emlékeit őrzi. A látogatók megtekinthetik az eredeti bányagépeket, szerszámokat és a bányászok egykori munkakörülményeit bemutató tárlatokat.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Szent István király plébániatemplom",
+                  "text": "A város modern központjában álló katolikus templom, amely a hívők közösségi életének fontos helyszíne. Az épület belső tere letisztult, modern művészeti alkotásokkal díszített.",
+                  "category": "civic",
+                  "coords": [
+                        18.318,
+                        47.485
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Evangélikus templom",
+                  "text": "Az oroszlányi evangélikus gyülekezet történelmi jelentőségű temploma a régi városrészben. A 18. század végén épült barokk stílusú épület a város vallási sokszínűségét jelképezi.",
+                  "category": "historical",
+                  "coords": [
+                        18.315,
+                        47.488
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Malom-tó",
+                  "text": "A város szívében található mesterséges tó, amely kiváló lehetőséget nyújt a kikapcsolódásra. Partján sétányok és pihenőpadok várják a természetbe vágyókat.",
+                  "category": "recreational",
+                  "coords": [
+                        18.305,
+                        47.478
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Bányász Emlékpark",
+                  "text": "A város bányász múltja előtt tisztelgő emlékhely, ahol régi bányászati gépek és eszközök láthatók. Az emlékművek a térség egykori legfontosabb iparágára emlékeztetnek.",
+                  "category": "historical",
+                  "coords": [
+                        18.322,
+                        47.49
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ermitul din Majk",
+                  "text": "Un ansamblu monumental baroc unic din secolul al XVIII-lea, construit pentru călugării camalduleni. Complexul cuprinde 17 case de chilii separate, o clădire centrală de mănăstire și ruinele unei biserici cu un turn impunător.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Muzeul Mineritului din Oroszlány",
+                  "text": "Situat în incinta fostei mine XVI, muzeul prezintă istoria bogată a exploatării cărbunelui din regiune. Vizitatorii pot vedea utilaje originale, unelte și expoziții care detaliază viața și munca dificilă a minerilor locali.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Biserica Sfântul Ștefan",
+                  "text": "O biserică catolică situată în centrul modern al orașului, un loc important pentru viața comunitară a credincioșilor. Interiorul clădirii este decorat cu opere de artă modernă.",
+                  "category": "civic",
+                  "coords": [
+                        18.318,
+                        47.485
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Biserica Evanghelică",
+                  "text": "Biserica de importanță istorică a comunității evanghelice din Oroszlány. Clădirea în stil baroc, construită la sfârșitul secolului al XVIII-lea, simbolizează diversitatea religioasă.",
+                  "category": "historical",
+                  "coords": [
+                        18.315,
+                        47.488
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Lacul Morii",
+                  "text": "Un lac artificial situat în inima orașului, care oferă oportunități excelente pentru relaxare. Pe malurile sale, alei și bănci îi așteaptă pe cei care doresc să petreacă timp în natură.",
+                  "category": "recreational",
+                  "coords": [
+                        18.305,
+                        47.478
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Parcul Memorial al Minerilor",
+                  "text": "Un loc memorial care aduce omagiu trecutului minier al orașului, unde pot fi văzute vechi utilaje și unelte miniere. Monumentele amintesc de lucrătorii din industria de odinioară.",
+                  "category": "historical",
+                  "coords": [
+                        18.322,
+                        47.49
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Majk Hermitage",
+                  "text": "A unique 18th-century Baroque architectural ensemble built for Camaldolese monks. The complex consists of 17 separate cell houses, a central monastery building, and the remains of a church with a distinctive tower.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Oroszlány Mining Museum",
+                  "text": "Located at the former shaft XVI, this museum preserves the memories of the local coal mining industry. Visitors can explore original mining machinery, tools, and exhibitions depicting the daily lives and working conditions of miners.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "St. Stephen's Church",
+                  "text": "A Catholic church in the modern center of the city, which is an important site for the community life of the faithful. The interior of the building is clean and decorated with modern art.",
+                  "category": "civic",
+                  "coords": [
+                        18.318,
+                        47.485
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Lutheran Church",
+                  "text": "The historically significant church of the Lutheran congregation of Oroszlány in the old town. The Baroque-style building, built in the late 18th century, symbolizes religious diversity.",
+                  "category": "historical",
+                  "coords": [
+                        18.315,
+                        47.488
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Mill Pond",
+                  "text": "An artificial lake in the heart of the city, offering excellent opportunities for relaxation and fishing. Promenades and benches along its shores await those seeking nature.",
+                  "category": "recreational",
+                  "coords": [
+                        18.305,
+                        47.478
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Miners' Memorial Park",
+                  "text": "A memorial site honoring the city's mining past, where old mining machinery and tools can be seen. The monuments commemorate the workers of the region's formerly key industry.",
+                  "category": "historical",
+                  "coords": [
+                        18.322,
+                        47.49
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ]
+}
   },
     {
     id: "geo-gerecse-extra",
@@ -1234,6 +5109,232 @@ export const poiExtraHu1: POI[] = [
       en: ["Founding of the Cistercian abbey in 1190", "The Schoolmaster's House dates back to the 15th century", "Pásztó received market town privileges in 1298", "The town was a center for glass manufacturing in the 15th century", "Home to the Pásztó Museum in the former monastery building", "Located in the Zagyva River valley at an elevation of 171 meters"],
     },
     image: "/poi-images/city-paszto-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Schulmeisterhaus",
+                  "text": "Eines der ältesten erhaltenen mittelalterlichen Wohngebäude Ungarns, dessen Fundamente auf das Jahr 1428 zurückgehen. Das Haus bietet Einblicke in das Leben der spätmittelalterlichen Stadtbürger und beherbergt archäologische Funde.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Zisterzienserkloster und Kirche",
+                  "text": "Die gotischen Fundamente des Klosters stammen aus dem 12. Jahrhundert, während das heutige Gebäude barocke Züge trägt. Die dem Heiligen Laurentius geweihte Kirche ist das spirituelle Zentrum der Stadt mit wertvoller Ausstattung.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Csohány Kálmán Galerie",
+                  "text": "In einem historischen Gebäude untergebracht, zeigt die Galerie die Werke des namhaften ungarischen Grafikers Kálmán Csohány. Die Sammlung ist ein bedeutender Teil des kulturellen Erbes der Region Nógrád.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Schloss Teleki-Wattaay",
+                  "text": "Ein Barockschloss aus dem 18. Jahrhundert, das heute als Kulturzentrum und Bibliothek dient. Das Gebäude und sein gepflegter Garten sind wichtige Bestandteile des Stadtbildes.",
+                  "category": "historical",
+                  "coords": [
+                        19.6896,
+                        47.9221
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Strandbad Pásztó",
+                  "text": "Ein beliebtes Freizeitziel mit mehreren Becken und Grünanlagen, das besonders in den Sommermonaten Entspannung bietet. Es ist ein idealer Ort für Familien und Erholungssuchende.",
+                  "category": "recreational",
+                  "coords": [
+                        19.6952,
+                        47.9158
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Heilige-Elisabeth-Kapelle",
+                  "text": "Eine kleine historische Kapelle im südlichen Teil der Stadt, die der Heiligen Elisabeth von Ungarn gewidmet ist. Sie ist ein ruhiger Ort der Besinnung und ein Denkmal lokaler Frömmigkeit.",
+                  "category": "historical",
+                  "coords": [
+                        19.6872,
+                        47.9185
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Oskolamester háza",
+                  "text": "Magyarország egyik legrégebbi épségben maradt gótikus lakóháza, amelynek első említése 1428-ból származik. Az épület a középkori mezővárosi életmódot mutatja be, falai között helytörténeti kiállítás tekinthető meg.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Ciszterci kolostor és templom",
+                  "text": "A 12. századi alapokon nyugvó középkori kolostor a város egyik legfontosabb műemléke, amely a barokk korban nyerte el mai formáját. A mellette álló Szent Lőrinc-plébániatemplom értékes freskókkal és berendezéssel rendelkezik.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Csohány Kálmán Galéria",
+                  "text": "A város neves szülöttének, a grafikusművész Csohány Kálmánnak az életművét bemutató kiállítóhely. A galéria a művész hagyatékát és a kortárs magyar grafika kiemelkedő alkotásait tárja a látogatók elé.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Teleki-Wattaay-kastély",
+                  "text": "18. századi barokk stílusú nemesi kúria, amely ma kulturális központként és könyvtárként működik. Az épület és gondozott kertje a városi séták kedvelt állomása.",
+                  "category": "historical",
+                  "coords": [
+                        19.6896,
+                        47.9221
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Pásztói Strandfürdő",
+                  "text": "Népszerű szabadidős központ több medencével és zöldfelülettel, amely a nyári hónapokban kínál kikapcsolódást. Ideális helyszín családok és pihenni vágyók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        19.6952,
+                        47.9158
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Szent Erzsébet-kápolna",
+                  "text": "A város déli részén található kisméretű történelmi kápolna, amelyet Árpád-házi Szent Erzsébet tiszteletére szenteltek. A helyi vallásos élet egyik csendes emlékhelye.",
+                  "category": "historical",
+                  "coords": [
+                        19.6872,
+                        47.9185
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa Maestrului Școlar",
+                  "text": "Una dintre cele mai vechi clădiri rezidențiale medievale din Ungaria, datând din 1428. Casa oferă o privire fascinantă asupra vieții urbane din Evul Mediu târziu și găzduiește expoziții arheologice locale.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Mănăstirea Cisterciană și Biserica Sf. Laurențiu",
+                  "text": "Mănăstirea are fundații gotice din secolul al XII-lea, fiind reconstruită ulterior în stil baroc. Biserica parohială alăturată este un monument istoric important, cu un interior bogat decorat și o istorie de peste opt secole.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Galeria Csohány Kálmán",
+                  "text": "Găzduită într-o clădire istorică, galeria prezintă opera graficianului maghiar Kálmán Csohány, originar din Pásztó. Colecția este o componentă esențială a vieții culturale și artistice a județului Nógrád.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Castelul Teleki-Wattaay",
+                  "text": "Un conac în stil baroc din secolul al XVIII-lea, care servește astăzi drept centru cultural și bibliotecă. Clădirea și grădina sa îngrijită sunt repere importante ale orașului.",
+                  "category": "historical",
+                  "coords": [
+                        19.6896,
+                        47.9221
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Ștrandul Pásztó",
+                  "text": "O destinație populară de agrement cu mai multe bazine și spații verzi, care oferă relaxare în special în lunile de vară. Este un loc ideal pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        19.6952,
+                        47.9158
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Capela Sfânta Elisabeta",
+                  "text": "O mică chapelă istorică situată în partea de sud a orașului, dedicată Sfintei Elisabeta a Ungariei. Este un loc liniștit de reculegere și un monument al pioșeniei locale.",
+                  "category": "historical",
+                  "coords": [
+                        19.6872,
+                        47.9185
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schoolmaster's House",
+                  "text": "One of the oldest surviving medieval residential buildings in Hungary, first mentioned in 1428. The house showcases the late medieval urban lifestyle and hosts significant local archaeological finds.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Cistercian Monastery and Church",
+                  "text": "The monastery has 12th-century Gothic foundations and was later rebuilt in the Baroque style. The adjacent Church of Saint Lawrence is a major historical landmark with a richly decorated interior and long history.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Kálmán Csohány Gallery",
+                  "text": "Dedicated to the life and work of the renowned Hungarian graphic artist Kálmán Csohány, who was born in the town. The gallery houses a significant collection of his prints and illustrations.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Teleki-Wattaay Mansion",
+                  "text": "An 18th-century Baroque-style noble mansion that today serves as a cultural center and library. The building and its well-kept garden are important parts of the cityscape.",
+                  "category": "historical",
+                  "coords": [
+                        19.6896,
+                        47.9221
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Pásztó Thermal Bath",
+                  "text": "A popular leisure destination with several pools and green areas, offering relaxation especially during the summer months. It is an ideal place for families and those seeking rest.",
+                  "category": "recreational",
+                  "coords": [
+                        19.6952,
+                        47.9158
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "St. Elizabeth Chapel",
+                  "text": "A small historical chapel in the southern part of the city, dedicated to St. Elizabeth of Hungary. It is a quiet place of reflection and a monument of local piety.",
+                  "category": "historical",
+                  "coords": [
+                        19.6872,
+                        47.9185
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ]
+}
   },
     {
     id: "geo-karanc-extra",
@@ -1360,6 +5461,304 @@ export const poiExtraHu1: POI[] = [
       en: ["Settlement of Serbian refugees in 1440", "Savoyai Mansion built between 1702 and 1722", "The Orthodox church features frescoes from 1771", "Ráckeve regained its town status in 1989", "Famous weekly market held on Wednesdays and Saturdays", "Located along the 58 km long Soroksár Danube branch"],
     },
     image: "/poi-images/city-rackeve-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Schloss Savoyai",
+                  "text": "Erbaut zwischen 1702 und 1750 nach Plänen von Johann Lucas von Hildebrandt für Prinz Eugen von Savoyen. Es ist das erste weltliche Barockschloss in Ungarn und besticht durch seine harmonische Architektur direkt am Donauufer.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Serbisch-Orthodoxe Kirche",
+                  "text": "Die einzige gotische serbisch-orthodoxe Kirche Ungarns, fertiggestellt im Jahr 1487. Ihr Inneres ist mit prächtigen Fresken aus dem 18. Jahrhundert geschmückt und beherbergt eine wertvolle Ikonostase.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Schiffmühle von Ráckeve",
+                  "text": "Ein originalgetreuer Nachbau der letzten funktionierenden Schiffmühle auf der ungarischen Donau. Die Mühle demonstriert die historische Mahltechnik, die die Wasserkraft des Flusses zum Mahlen von Getreide nutzt.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Rathaus mit Aussichtsturm",
+                  "text": "Ein imposantes sezessionistisches Gebäude aus dem Jahr 1901. Vom Turm aus bietet sich ein herrlicher Blick über die Stadt und die verzweigten Arme der Ráckeve-Donau.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Árpád-Museum",
+                  "text": "Das Museum ist in einem Gebäude aus dem Jahr 1921 untergebracht und präsentiert die reiche archäologische und lokale Geschichte der Region Csepel.",
+                  "category": "historical",
+                  "coords": [
+                        18.9442,
+                        47.1621
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Reformierte Kirche",
+                  "text": "Die neogotische Kirche wurde zwischen 1909 und 1913 erbaut und besticht durch ihre markante Architektur am Ufer der Kleinen Donau.",
+                  "category": "historical",
+                  "coords": [
+                        18.9448,
+                        47.1663
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Römisch-katholische Kirche Keresztelő Szent János",
+                  "text": "Diese im Zopfstil errichtete Barockkirche beherbergt beeindruckende monumentale Seccofresken des Künstlers László Patay.",
+                  "category": "historical",
+                  "coords": [
+                        18.9415,
+                        47.1642
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Städtische Galerie Patay László",
+                  "text": "Die Galerie befindet sich in der ehemaligen Horváth-Kurie und stellt bedeutende Werke lokaler und zeitgenössischer Künstler aus.",
+                  "category": "civic",
+                  "coords": [
+                        18.9405,
+                        47.1612
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Savoyai-kastély",
+                  "text": "Savoyai Jenő herceg számára épült 1702 és 1750 között Johann Lucas von Hildebrandt tervei alapján. Ez az első világi barokk kastély Magyarországon, amely közvetlenül a Duna-parton, parkkal övezve várja a látogatókat.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Szerb Ortodox Templom",
+                  "text": "Magyarország egyetlen gótikus stílusú szerb ortodox temploma, amely 1487-ben épült. Belső terét lenyűgöző 18. századi freskók és egyedülálló ikonosztáz díszíti, kertjében régi sírkövek találhatók.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Ráckevei Hajómalom",
+                  "text": "Az utolsó magyarországi dunai hajómalom hűen rekonstruált, működőképes mása. A látogatók megismerhetik a hagyományos őrlési technológiát, amely a folyó sodrását használja fel a gabona feldolgozására.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Városháza és Tűztorony",
+                  "text": "Az 1901-ben épült, szecessziós stílusú épület Ráckeve egyik jelképe. A toronyból gyönyörű panoráma nyílik a városra, a Csepel-szigetre és a Duna kanyargó ágaira.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Árpád Muzeális Gyűjtemény",
+                  "text": "Az 1921-ben emelt épületben helyet kapó múzeum a Csepel-sziget déli részének régészeti és helytörténeti kincseit mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        18.9442,
+                        47.1621
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Református templom",
+                  "text": "Az 1913-ban elkészült neogótikus stílusú templom a tiszakécskei templom tervei alapján épült a Duna-part közelében.",
+                  "category": "historical",
+                  "coords": [
+                        18.9448,
+                        47.1663
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Keresztelő Szent János római katolikus templom",
+                  "text": "A copf stílusú barokk templom belső terét Patay László nagyszabású, bibliai jeleneteket ábrázoló szekkói teszik különlegessé.",
+                  "category": "historical",
+                  "coords": [
+                        18.9415,
+                        47.1642
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Patay László Városi Képtár",
+                  "text": "Az eklektikus stílusú Horváth-kúriában működő galéria a város képzőművészeti gyűjteményének ad otthont.",
+                  "category": "civic",
+                  "coords": [
+                        18.9405,
+                        47.1612
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelul Savoyai",
+                  "text": "Construit între 1702 și 1750 conform planurilor arhitectului Johann Lucas von Hildebrandt pentru prințul Eugen de Savoia. Este primul castel baroc secular din Ungaria, situat pitoresc pe malul brațului Ráckeve al Dunării.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Biserica Ortodoxă Sârbă",
+                  "text": "Singura biserică ortodoxă sârbă în stil gotic din Ungaria, finalizată în 1487. Interiorul său este decorat cu fresce spectaculoase din secolul al XVIII-lea și deține o catapeteasmă de o valoare artistică rară.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Moara de Apă Plutitoare",
+                  "text": "O replică funcțională a ultimei mori de apă de pe Dunărea maghiară. Moara demonstrează tehnica istorică de măcinare a cerealelor folosind exclusiv forța curentului de apă al râului.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Primăria și Turnul de Observație",
+                  "text": "O clădire impozantă construită în 1901 în stil Secession. Turnul oferă vizitatorilor o vedere panoramică excelentă asupra orașului, a insulei Csepel și a peisajului fluvial înconjurător.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Muzeul Árpád",
+                  "text": "Găzduit într-o clădire din 1921, muzeul prezintă istoria arheologică și locală bogată a regiunii insulei Csepel.",
+                  "category": "historical",
+                  "coords": [
+                        18.9442,
+                        47.1621
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Biserica Reformată",
+                  "text": "Biserica neogotică a fost construită între 1909 și 1913 și impresionează prin arhitectura sa distinctivă pe malul Dunării Mici.",
+                  "category": "historical",
+                  "coords": [
+                        18.9448,
+                        47.1663
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Biserica Romano-Catolică Sfântul Ioan Botezătorul",
+                  "text": "Această biserică barocă în stil Zopf adăpostește fresce secco monumentale impresionante realizate de artistul László Patay.",
+                  "category": "historical",
+                  "coords": [
+                        18.9415,
+                        47.1642
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Galeria Municipală Patay László",
+                  "text": "Galeria este situată în fostul conac Horváth și expune lucrări semnificative ale artiștilor locali și contemporani.",
+                  "category": "civic",
+                  "coords": [
+                        18.9405,
+                        47.1612
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Savoy Mansion",
+                  "text": "Built for Prince Eugene of Savoy between 1702 and 1750, designed by Johann Lucas von Hildebrandt. It is the first secular Baroque palace in Hungary, featuring harmonious architecture right on the Danube bank.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Serbian Orthodox Church",
+                  "text": "The only Gothic Serbian Orthodox church in Hungary, completed in 1487. Its interior is adorned with magnificent 18th-century frescoes and a unique iconostasis, surrounded by a peaceful historic churchyard.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Ráckeve Ship Mill",
+                  "text": "A faithfully reconstructed, working replica of the last Danube ship mill in Hungary. It demonstrates traditional milling technology using the river's current to grind grain into flour.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Town Hall and Fire Tower",
+                  "text": "A stunning Secessionist building from 1901. The tower serves as a lookout point, offering a panoramic view of the town, the Csepel Island, and the winding branches of the Danube River.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Árpád Museum",
+                  "text": "Housed in a building from 1921, the museum presents the rich archaeological and local history of the Csepel Island region.",
+                  "category": "historical",
+                  "coords": [
+                        18.9442,
+                        47.1621
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Reformed Church",
+                  "text": "The Neo-Gothic church was built between 1909 and 1913 and stands out with its distinctive architecture near the Danube bank.",
+                  "category": "historical",
+                  "coords": [
+                        18.9448,
+                        47.1663
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "St. John the Baptist Roman Catholic Church",
+                  "text": "This Zopf-style Baroque church houses impressive monumental secco murals by the artist László Patay.",
+                  "category": "historical",
+                  "coords": [
+                        18.9415,
+                        47.1642
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Patay László Municipal Gallery",
+                  "text": "Located in the former Horváth Mansion, the gallery exhibits significant works by local and contemporary artists.",
+                  "category": "civic",
+                  "coords": [
+                        18.9405,
+                        47.1612
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            }
+      ]
+}
   },
     {
     id: "city-nagymaros-extra",
@@ -1391,6 +5790,304 @@ export const poiExtraHu1: POI[] = [
       ro: ["A primit rangul de oraș de la regele Carol Robert în 1324", "Populație de aproximativ 4.750 de persoane în anul 2024", "Locația bisericii medievale Sfânta Cruce din secolul al XIV-lea", "Centrul protestelor împotriva barajului de pe Dunăre în anii 1980", "Conexiune directă cu feribotul către castelul istoric din Visegrád", "Situat la poalele vârfului Hegyes-tető, cu o înălțime de 482 metri"],
       en: ["Received town status from King Charles Robert in 1324", "Population of approximately 4,750 people in 2024", "Home to the 14th-century Church of the Holy Cross", "Center of environmental protests against the Danube dam in the 1980s", "Direct ferry connection to the historic Visegrád Citadel", "Located at the foot of the 482-meter high Hegyes-tető hill"],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Römisch-katholische Kirche Szent Kereszt",
+                  "text": "Die im 14. Jahrhundert erbaute Kirche ist eines der bedeutendsten gotischen Baudenkmäler am Donauknie. Ihr achteckiger Turm aus dem Jahr 1509 ist ein markantes Wahrzeichen der Stadtansicht.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Kittenberger Kálmán Gedenkhaus",
+                  "text": "Das ehemalige Wohnhaus des berühmten ungarischen Afrikaforschers und Jägers Kálmán Kittenberger. Das Museum präsentiert seine persönlichen Gegenstände, Jagdtrophäen und Exponate zu seinen Expeditionen.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Julianus-Aussichtsturm",
+                  "text": "Der Turm auf dem Hegyes-tető bietet einen der spektakulärsten Ausblicke auf das Donauknie und die gegenüberliegende Burg von Visegrád. Er ist ein beliebtes Ziel für Wanderer in den Visegráder Bergen.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Donaupromenade Nagymaros",
+                  "text": "Ein malerischer Gehweg entlang des Flusses mit Blick auf Visegrád. Die Promenade ist ideal für Spaziergänge, zum Radfahren oder um die entspannte Atmosphäre am Wasser zu genießen.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Kalvarienberg und Kapelle",
+                  "text": "Die barocke Kalvarienkapelle aus dem Jahr 1773 bietet nach einem kurzen Aufstieg ein herrliches Panorama auf das Donauknie.",
+                  "category": "historical",
+                  "coords": [
+                        18.9558,
+                        47.7941
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Reformierte Kirche",
+                  "text": "Diese spätbarocke Kirche wurde 1798 erbaut und ist ein zentrales architektonisches Denkmal im Herzen von Nagymaros.",
+                  "category": "historical",
+                  "coords": [
+                        18.9625,
+                        47.7915
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Szent Rókus Kapelle",
+                  "text": "Eine charmante kleine Barockkapelle aus dem Jahr 1770, die an die Zeit der Pestepidemien erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        18.9598,
+                        47.7878
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Strand von Nagymaros",
+                  "text": "Ein beliebter Gras- und Sandstrand am Donauufer, der einen direkten Blick auf die gegenüberliegende Burg von Visegrád ermöglicht.",
+                  "category": "recreational",
+                  "coords": [
+                        18.9652,
+                        47.7891
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szent Kereszt felmagasztalása templom",
+                  "text": "A 14. században épült római katolikus templom a Dunakanyar egyik legértékesebb gótikus emléke. Különleges, nyolcszögletű felső résszel rendelkező tornya 1509-ben nyerte el végső formáját.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Kittenberger Kálmán Emlékház",
+                  "text": "A neves Afrika-kutató és vadász író egykori lakóháza, ahol megismerhetjük Kittenberger Kálmán életútját és munkásságát. A kiállítás személyes tárgyakat, trófeákat és expedíciós emlékeket mutat be.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Julianus-barát kilátó",
+                  "text": "A Hegyes-tető csúcsán álló kilátó a Dunakanyar egyik legszebb panorámáját kínálja. Innen belátható a folyó kanyarulata, a visegrádi vár és a környező Börzsöny hegység vonulatai.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Nagymarosi Duna-part",
+                  "text": "Kedvelt kirándulóhely és korzó közvetlenül a folyó mentén, ahonnan páratlan kilátás nyílik a szemközti Visegrádra. A part menti sétány ideális kikapcsolódást nyújt a kerékpárosok és a vízi sportok kedvelői számára is.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Kálvária-domb és kápolna",
+                  "text": "Az 1773-ban épült barokk kálváriakápolnához stációk vezetnek fel, a dombtetőről pedig pazar kilátás nyílik a Dunakanyarra.",
+                  "category": "historical",
+                  "coords": [
+                        18.9558,
+                        47.7941
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Református templom",
+                  "text": "A belvárosban álló, 1798-ban emelt késő barokk stílusú templom a város egyik legrégebbi protestáns építménye.",
+                  "category": "historical",
+                  "coords": [
+                        18.9625,
+                        47.7915
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Szent Rókus kápolna",
+                  "text": "Az 1770 körül épült kisméretű barokk kápolna a település alsó részén található fogadalmi emlékhely.",
+                  "category": "historical",
+                  "coords": [
+                        18.9598,
+                        47.7878
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Nagymarosi szabadstrand",
+                  "text": "A Dunakanyar egyik legszebb fekvésű strandja, ahonnan közvetlenül a visegrádi fellegvár panorámájában gyönyörködhetünk.",
+                  "category": "recreational",
+                  "coords": [
+                        18.9652,
+                        47.7891
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica Romano-Catolică Sfânta Cruce",
+                  "text": "Construită în secolul al XIV-lea, biserica este unul dintre cele mai importante monumente gotice de pe Cotul Dunării. Turnul său octogonal din 1509 este un reper vizual distinctiv al orașului.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Casa Memorială Kittenberger Kálmán",
+                  "text": "Fosta reședință a celebrului explorator și vânător maghiar din Africa, Kálmán Kittenberger. Muzeul expune obiecte personale, trofee de vânătoare și documente legate de expedițiile sale africane.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Turnul Belvedere Julianus",
+                  "text": "Situat pe vârful Hegyes-tető, turnul oferă una dintre cele mai spectaculoase panorame asupra Cotului Dunării și a castelului din Visegrád. Este o destinație de top pentru drumeții în munții Visegrád.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Promenada Dunării din Nagymaros",
+                  "text": "O alee pitorească de-a lungul fluviului, oferind o vedere frontală asupra cetății Visegrád. Promenada este locul perfect pentru plimbări, ciclism și relaxare în apropierea apei.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Dealul Calvarului și Capela",
+                  "text": "Capela barocă a Calvarului din 1773 oferă, după o scurtă urcare, o panoramă superbă asupra Cotului Dunării.",
+                  "category": "historical",
+                  "coords": [
+                        18.9558,
+                        47.7941
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Biserica Reformată",
+                  "text": "Această biserică barocă târzie a fost construită în 1798 și este un monument arhitectural central în inima orașului Nagymaros.",
+                  "category": "historical",
+                  "coords": [
+                        18.9625,
+                        47.7915
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Capela Sfântul Rochus",
+                  "text": "O mică și fermecătoare capelă barocă construită în jurul anului 1770, care amintește de perioada epidemiilor de ciumă.",
+                  "category": "historical",
+                  "coords": [
+                        18.9598,
+                        47.7878
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Plaja Nagymaros",
+                  "text": "O plajă populară de iarbă și nisip pe malul Dunării, care oferă o vedere directă spre cetatea Visegrád de pe malul opus.",
+                  "category": "recreational",
+                  "coords": [
+                        18.9652,
+                        47.7891
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Church of the Exaltation of the Holy Cross",
+                  "text": "A significant 14th-century Gothic church, being one of the most important architectural monuments of the Danube Bend. Its unique octagonal tower was completed in 1509 and dominates the town's skyline.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Kálmán Kittenberger Memorial House",
+                  "text": "The former home of the famous Hungarian African explorer, naturalist, and hunter. The museum displays his personal belongings, hunting trophies, and artifacts from his numerous expeditions to Africa.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Julianus Lookout Tower",
+                  "text": "Located on the Hegyes-tető peak, this tower offers one of the most breathtaking panoramic views of the Danube Bend and the Visegrád Castle. It is a popular destination for hikers in the Börzsöny Mountains.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Nagymaros Danube Bank",
+                  "text": "A scenic riverside promenade offering spectacular views of Visegrád on the opposite bank. The area is ideal for strolls, cycling, and enjoying the natural beauty of the Danube Bend.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Calvary Hill and Chapel",
+                  "text": "The Baroque calvary chapel from 1773 offers a magnificent panorama of the Danube Bend after a short climb.",
+                  "category": "historical",
+                  "coords": [
+                        18.9558,
+                        47.7941
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Reformed Church",
+                  "text": "This late Baroque church was built in 1798 and is a central architectural monument in the heart of Nagymaros.",
+                  "category": "historical",
+                  "coords": [
+                        18.9625,
+                        47.7915
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "St. Roch Chapel",
+                  "text": "A charming small Baroque chapel built around 1770, commemorating the period of plague epidemics.",
+                  "category": "historical",
+                  "coords": [
+                        18.9598,
+                        47.7878
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Nagymaros Beach",
+                  "text": "A popular grass and sand beach on the Danube bank, offering a direct view of the Visegrád Citadel on the opposite side.",
+                  "category": "recreational",
+                  "coords": [
+                        18.9652,
+                        47.7891
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ]
+}
   },
     {
     id: "geo-duna-kanyar-extra",
@@ -1581,6 +6278,304 @@ export const poiExtraHu1: POI[] = [
       en: ["First mentioned in historical records in 1327", "Population of approximately 8,000 people in 2024", "Home to a significant Reformed Church from the 15th century", "Features a thermal bath with curative water at 38 degrees Celsius", "Gateway to the Szatmár-Bereg Landscape Protection Area", "Regained its town status in 1978"],
     },
     image: "/poi-images/city-fehergyarmat-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Reformierte Kirche Fehérgyarmat",
+                  "text": "Eine im Jahr 1486 im gotischen Stil errichtete Kirche, die später mehrfach umgebaut wurde. Im Inneren befinden sich wertvolle Fragmente von bemalten Holzdecken aus dem 18. Jahrhundert.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Kirche des Dritten Jahrtausends",
+                  "text": "Ein moderner reformierter Sakralbau, der im Jahr 2003 eingeweiht wurde. Die preisgekrönte Holzarchitektur von Mihály Balázs verbindet traditionelle Motive mit zeitgenössischer Formsprache.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Schloss Jékey",
+                  "text": "Ein zu Beginn des 20. Jahrhunderts im neobarocken Stil erbautes Herrenhaus. Das Schloss ist von einem gepflegten Park umgeben und zeugt vom einstigen Wohlstand des lokalen Adels.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Sankt-Georgs-Brunnen",
+                  "text": "Ein künstlerisch gestalteter Brunnen mit einer Statue des Heiligen Georg im Kampf mit dem Drachen. Das Werk des Bildhauers Lajos Bíró ist ein zentraler Treffpunkt in der Innenstadt.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Katholische Kirche Szent Péter és Pál",
+                  "text": "Diese spätbarocke Kirche wurde 1816 erbaut und prägt das Stadtzentrum. Nach mehreren Bränden wurde sie Anfang des 20. Jahrhunderts sorgfältig restauriert.",
+                  "category": "historical",
+                  "coords": [
+                        22.5159,
+                        47.9846
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Hochwasser-Denkmal",
+                  "text": "Das Denkmal von László Szomor erinnert an die verheerende Überschwemmung des Theiß-Gebiets im Jahr 1970. Es steht als Symbol für den Wiederaufbau und den Zusammenhalt der Region.",
+                  "category": "civic",
+                  "coords": [
+                        22.5185,
+                        47.9855
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Griechisch-katholische Kirche Szentháromság",
+                  "text": "Ein modernes sakrales Gebäude, das nach den Plänen des Architekten Mihály Balázs errichtet wurde. Die Kirche ist ein bedeutendes Beispiel zeitgenössischer ungarischer Architektur.",
+                  "category": "civic",
+                  "coords": [
+                        22.5134,
+                        47.9882
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Kossuth-Park",
+                  "text": "Die zentrale Grünanlage der Stadt bietet Platz für Erholung und Spaziergänge. Im Park befinden sich mehrere Denkmäler bedeutender Persönlichkeiten der ungarischen Geschichte.",
+                  "category": "recreational",
+                  "coords": [
+                        22.517,
+                        47.985
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fehérgyarmati református templom",
+                  "text": "1486-ban épült gótikus stílusú templom, amely a város legrégebbi műemléke. Belső terében 18. századi festett fatáblás mennyezet töredékei láthatók, tornya messziről jelzi a városközpontot.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "A Harmadik Évezred Temploma",
+                  "text": "2003-ban felszentelt modern református templom, amely Balázs Mihály tervei alapján épült. A különleges faépítmény a kortárs magyar építészet egyik kiemelkedő alkotása a Szamos-parti városban.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Jékey-kastély",
+                  "text": "A 20. század elején épült neobarokk stílusú kúria, amely a helyi nemesi életmód emlékét őrzi. Az épületet tágas park övezi, díszes homlokzata a korszak eleganciáját tükrözi.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Szent György-kút",
+                  "text": "Bíró Lajos szobrászművész alkotása, amely a sárkányölő Szent Györgyöt ábrázolja lovon. A díszkút a város egyik kedvelt találkozóhelye és esztétikai központja a Városháza közelében.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Szent Péter és Pál apostolok templom",
+                  "text": "A város központjában álló római katolikus templom 1816-ban épült késő barokk stílusban. A 20. század elején, több tűzvész után nyerte el mai formáját.",
+                  "category": "historical",
+                  "coords": [
+                        22.5159,
+                        47.9846
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Árvízi emlékmű",
+                  "text": "Szomor László alkotása az 1970-es nagy tiszai árvíznek állít emléket. A szobor a pusztítás utáni újjáépítés és összefogás jelképe a városban.",
+                  "category": "civic",
+                  "coords": [
+                        22.5185,
+                        47.9855
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Szentháromság görögkatolikus templom",
+                  "text": "Balázs Mihály tervei alapján épült modern egyházi épület, amely a kortárs magyar építészet egyik kiemelkedő példája. Letisztult formavilága különleges látványt nyújt.",
+                  "category": "civic",
+                  "coords": [
+                        22.5134,
+                        47.9882
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Kossuth park",
+                  "text": "A város legnagyobb központi parkja, amely pihenőhelyként és rendezvényhelyszínként is szolgál. Területén több köztéri szobor és emlékhely található.",
+                  "category": "recreational",
+                  "coords": [
+                        22.517,
+                        47.985
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica Reformată din Fehérgyarmat",
+                  "text": "O biserică construită în stil gotic în anul 1486, fiind cel mai vechi monument al orașului. În interior se păstrează fragmente valoroase din tavanul de lemn pictat din secolul al XVIII-lea.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Biserica celui de-al Treilea Mileniu",
+                  "text": "O structură sacrală reformată modernă, sfințită în 2003 și proiectată de arhitectul Mihály Balázs. Arhitectura premiată din lemn îmbină motivele tradiționale cu formele contemporane.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Castelul Jékey",
+                  "text": "Un conac construit la începutul secolului al XX-lea în stil neobaroc. Clădirea este înconjurată de un parc frumos și reprezintă eleganța rezidențială a nobilimii locale de odinioară.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Fântâna Sfântul Gheorghe",
+                  "text": "O fântână ornamentală artistică ce îl înfățișează pe Sfântul Gheorghe ucigând balaurul, operă a sculptorului Lajos Bíró. Monumentul este un punct central de atracție în centrul orașului.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Biserica Catolică Sfinții Petru și Pavel",
+                  "text": "Această biserică în stil baroc târziu a fost construită în 1816 și domină centrul orașului. A fost restaurată la începutul secolului al XX-lea după mai multe incendii.",
+                  "category": "historical",
+                  "coords": [
+                        22.5159,
+                        47.9846
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Monumentul Inundațiilor",
+                  "text": "Opera lui László Szomor comemorează marea inundație a regiunii Tisei din anul 1970. Este un monument local important care simbolizează reconstrucția.",
+                  "category": "civic",
+                  "coords": [
+                        22.5185,
+                        47.9855
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Biserica Greco-Catolică Sfânta Treime",
+                  "text": "O clădire sacră modernă, construită după planurile arhitectului Mihály Balázs. Biserica reprezintă un exemplu remarcabil al arhitecturii ecleziastice contemporane maghiare.",
+                  "category": "civic",
+                  "coords": [
+                        22.5134,
+                        47.9882
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Parcul Kossuth",
+                  "text": "Principalul spațiu verde central al orașului, oferind un mediu plăcut pentru plimbări. Parcul găzduiește mai multe statui ale unor personalități istorice.",
+                  "category": "recreational",
+                  "coords": [
+                        22.517,
+                        47.985
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fehérgyarmat Reformed Church",
+                  "text": "A Gothic-style church built in 1486, later modified several times. Its interior preserves valuable fragments of 18th-century painted wooden ceiling panels, making it a key historical site.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Church of the Third Millennium",
+                  "text": "A modern Reformed church consecrated in 2003, designed by architect Mihály Balázs. This award-winning wooden structure is an outstanding example of contemporary Hungarian sacred architecture.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Jékey Mansion",
+                  "text": "Built at the beginning of the 20th century in Neobaroque style, this mansion reflects the lifestyle of the local gentry. It is surrounded by a well-kept park and features ornate architectural details.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Saint George Fountain",
+                  "text": "A decorative fountain featuring a statue of Saint George slaying the dragon, created by sculptor Lajos Bíró. It serves as an aesthetic focal point and a popular meeting spot in the town center.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Saints Peter and Paul Catholic Church",
+                  "text": "This late Baroque church was built in 1816 and stands in the town center. It was carefully restored in the early 20th century after several fires.",
+                  "category": "historical",
+                  "coords": [
+                        22.5159,
+                        47.9846
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Flood Monument",
+                  "text": "Created by László Szomor, this monument commemorates the devastating 1970 flood of the Tisza region. It serves as a symbol of resilience and local unity.",
+                  "category": "civic",
+                  "coords": [
+                        22.5185,
+                        47.9855
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Holy Trinity Greek Catholic Church",
+                  "text": "A modern ecclesiastical building designed by architect Mihály Balázs. It is a significant example of contemporary Hungarian church architecture.",
+                  "category": "civic",
+                  "coords": [
+                        22.5134,
+                        47.9882
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Kossuth Park",
+                  "text": "The main central park of the town, providing a pleasant green space for recreation. The park features various statues of important historical figures.",
+                  "category": "recreational",
+                  "coords": [
+                        22.517,
+                        47.985
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            }
+      ]
+}
   },
   {
     id: "city-ujfeherto-extra",
@@ -1612,6 +6607,276 @@ export const poiExtraHu1: POI[] = [
       ro: ["A primit rangul de oraș de piață în anul 1836", "Populație de aproximativ 12.200 de persoane în anul 2024", "Locul de origine al soiului de vișine protejat 'Újfehértói fürtös'", "Găzduiește o biserică greco-catolică în stil baroc", "Nod de transport important pe drumul principal 4", "Deține o colecție semnificativă de artă populară locală"],
       en: ["Granted market town status in 1836", "Population of approximately 12,200 people in 2024", "Home to the protected 'Újfehértói fürtös' sour cherry variety", "Features a notable Baroque Greek Catholic church", "Important transportation hub along the main road 4", "Home to a significant local ethnographic collection"],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Ferenc Zajti Heimatgeschichtliche Sammlung",
+                  "text": "Dieses lokale Museum bewahrt das kulturelle Erbe der Stadt und präsentiert archäologische Funde sowie Ausstellungen zur Volkskunst. Benannt ist es nach dem in der Stadt geborenen Maler und Forscher Ferenc Zajti.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Römisch-katholische Kirche Magyarok Nagyasszonya",
+                  "text": "Ein spätbarockes Gebäude, das zwischen 1804 und 1812 erbaut wurde und die Skyline der Stadt prägt. Die Kirche verfügt über beeindruckende Glasfenster und eine reich verzierte Innenausstattung aus dem 19. Jahrhundert.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Hauptplatz und Rathaus",
+                  "text": "Das Zentrum von Újfehértó ist ein gepflegter Parkbereich mit dem imposanten Rathausgebäude. Hier befinden sich auch mehrere Denkmäler, darunter das 1848er Denkmal und die moderne 1956er Glas-Stein-Skulptur.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "1848er-Denkmal",
+                  "text": "Dieses von Lajos Orr geschaffene Monument erinnert an die Helden der ungarischen Revolution von 1848/49. Es befindet sich im Stadtzentrum und ist ein zentraler Ort für lokale Gedenkfeiern.",
+                  "category": "historical",
+                  "coords": [
+                        21.684,
+                        47.818
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "1956er-Denkmal",
+                  "text": "Ein modernes Kunstwerk aus Glas und Stein, das von József Cseresznye und József Török zum Gedenken an die Revolution von 1956 entworfen wurde. Die Komposition symbolisiert das Streben nach Freiheit und nationalem Widerstand.",
+                  "category": "historical",
+                  "coords": [
+                        21.682,
+                        47.817
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Skulptur Álló lány",
+                  "text": "Die 1967 von Sándor Fazekas geschaffene Bronzestatue eines stehenden Mädchens ist ein beliebtes Kunstwerk im öffentlichen Raum. Sie stellt die friedliche Atmosphäre und die Jugendlichkeit der Siedlung dar.",
+                  "category": "civic",
+                  "coords": [
+                        21.683,
+                        47.816
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Griechisch-katholische Kirche",
+                  "text": "Dieses religiöse Bauwerk ist ein bedeutendes Zentrum für die griechisch-katholische Gemeinde in der Region Hajdúság. Das Innere der Kirche ist mit einer kunstvollen Ikonostase und traditionellen Wandgemälden geschmückt.",
+                  "category": "historical",
+                  "coords": [
+                        21.681,
+                        47.819
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zajti Ferenc Helytörténeti Gyűjtemény",
+                  "text": "A múzeum a város kulturális örökségét őrzi, régészeti leleteket és néprajzi kiállításokat mutat be. Nevét a város szülöttéről, Zajti Ferenc festőművészről és kelet-kutatóról kapta.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Magyarok Nagyasszonya római katolikus templom",
+                  "text": "1804 és 1812 között épült késő barokk stílusú épület, amely meghatározza a városképet. Belső terét értékes üvegablakok és korabeli oltárok díszítik.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Főtér és Városháza",
+                  "text": "Újfehértó központja egy gondozott parkos terület az impozáns városháza épületével. Itt látható az 1848/49-es emlékmű, valamint az 1956-os forradalom különleges, üvegből és kőből készült emlékműve is.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "1848-as emlékmű",
+                  "text": "Orr Lajos szobrászművész alkotása, amely az 1848–49-es forradalom és szabadságharc hőseinek állít emléket. A város központjában található emlékmű fontos helyszíne a helyi ünnepségeknek.",
+                  "category": "historical",
+                  "coords": [
+                        21.684,
+                        47.818
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "1956-os emlékmű",
+                  "text": "Különleges üveg- és kőkompozíció, amelyet Cseresznye József és Török József készített az 1956-os forradalom tiszteletére. A modern stílusú alkotás a szabadságvágyat és a nemzeti összefogást jelképezi.",
+                  "category": "historical",
+                  "coords": [
+                        21.682,
+                        47.817
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Álló lány szobor",
+                  "text": "Fazekas Sándor 1967-ben készült alkotása, amely a város egyik kedvelt köztéri dísze. A kecses alakú bronzszobor a település békés, mindennapi életét szimbolizálja.",
+                  "category": "civic",
+                  "coords": [
+                        21.683,
+                        47.816
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Görögkatolikus templom",
+                  "text": "A település vallási életének egyik fontos központja, amely a Hajdúság görögkatolikus örökségét őrzi. Belső terét díszes ikonosztáz és vallási festmények ékesítik.",
+                  "category": "historical",
+                  "coords": [
+                        21.681,
+                        47.819
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Colecția de Istorie Locală Ferenc Zajti",
+                  "text": "Acest muzeu păstrează moștenirea culturală a orașului, prezentând descoperiri arheologice și expoziții de artă populară. Este numit după pictorul și cercetătorul Ferenc Zajti, născut în localitate.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Biserica Romano-Catolică Maica Domnului a Ungariei",
+                  "text": "O clădire în stil baroc târziu, construită între 1804 și 1812, care domină peisajul urban. Biserica are vitralii impresionante și un interior bogat decorat din secolul al XIX-lea.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Piața Centrală și Primăria",
+                  "text": "Centrul orașului Újfehértó este o zonă de parc bine întreținută, cu clădirea impunătoare a primăriei. Aici se află mai multe monumente, inclusiv cel dedicat revoluției din 1848 și o sculptură modernă din sticlă și piatră pentru 1956.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Monumentul 1848",
+                  "text": "O operă a sculptorului Lajos Orr care comemorează eroii revoluției maghiare din 1848-49. Situat în centrul orașului, monumentul este un loc important pentru festivitățile locale.",
+                  "category": "historical",
+                  "coords": [
+                        21.684,
+                        47.818
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Monumentul 1956",
+                  "text": "O compoziție modernă din sticlă și piatră, creată de József Cseresznye și József Török în onoarea revoluției din 1956. Lucrarea simbolizează dorința de libertate a poporului.",
+                  "category": "historical",
+                  "coords": [
+                        21.682,
+                        47.817
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Statuia Fata stând",
+                  "text": "Creată de Sándor Fazekas în 1967, această sculptură din bronz este un decor îndrăgit în spațiul public al orașului. Figura grațioasă reprezintă viața pașnică a comunității.",
+                  "category": "civic",
+                  "coords": [
+                        21.683,
+                        47.816
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Biserica Greco-Catolică",
+                  "text": "Un centru religios important pentru comunitatea greco-catolică din regiune. Interiorul este decorat cu un iconostas bogat ornamentat și picturi religioase tradiționale.",
+                  "category": "historical",
+                  "coords": [
+                        21.681,
+                        47.819
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ferenc Zajti Local History Collection",
+                  "text": "The local museum preserves the city's cultural heritage, showcasing archaeological finds and folk art exhibitions. It is named after the locally born painter and scholar Ferenc Zajti.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Our Lady of Hungary Roman Catholic Church",
+                  "text": "A late Baroque building constructed between 1804 and 1812 that defines the town's skyline. The church features impressive stained glass windows and ornate interior furnishings.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Main Square and Town Hall",
+                  "text": "The center of Újfehértó is a well-kept park area featuring the imposing Town Hall building. Several monuments are located here, including the 1848 memorial and a unique 1956 glass-and-stone monument.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "1848 Memorial",
+                  "text": "Created by sculptor Lajos Orr, this monument commemorates the heroes of the Hungarian Revolution of 1848-49. It is a central venue for local commemorative events in the town center.",
+                  "category": "historical",
+                  "coords": [
+                        21.684,
+                        47.818
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "1956 Memorial",
+                  "text": "A unique composition of glass and stone created by József Cseresznye and József Török to honor the 1956 revolution. The modern artwork symbolizes the pursuit of freedom and national unity.",
+                  "category": "historical",
+                  "coords": [
+                        21.682,
+                        47.817
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Standing Girl Statue",
+                  "text": "A bronze sculpture created by Sándor Fazekas in 1967, which is a popular public art piece in the town. It symbolizes the peaceful daily life and youthful energy of the community.",
+                  "category": "civic",
+                  "coords": [
+                        21.683,
+                        47.816
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Greek Catholic Church",
+                  "text": "A significant religious center for the Greek Catholic community in the region. The interior features an ornate iconostasis and traditional religious paintings.",
+                  "category": "historical",
+                  "coords": [
+                        21.681,
+                        47.819
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ]
+}
   },
   {
     id: "geo-szatmari-siksag-extra",
@@ -1738,6 +7003,332 @@ export const poiExtraHu1: POI[] = [
       en: ["Tamási was officially granted town status in 1984.", "The local thermal water reaches the surface at a temperature of 52 °C.", "The Gyulaj Forest is home to a fallow deer population that has produced world-record trophies.", "The town has a population of approximately 7,700 residents as of 2023.", "The thermal bath complex features a total water surface area exceeding 2,000 square meters.", "The remains of the medieval Tamási Castle can still be found on the outskirts of the town."],
     },
     image: "/poi-images/city-tamasi-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Thermalbad Tamási",
+                  "text": "Eines der bedeutendsten Heilbäder des Komitats Tolna, bekannt für sein schwefelhaltiges Wasser, das mit 52 Grad aus der Tiefe sprudelt. Die Anlage bietet zahlreiche Außen- und Innenbecken sowie moderne Wellness-Dienstleistungen.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Jagdschloss Esterházy",
+                  "text": "Ein im 18. Jahrhundert erbautes Barockschloss, das einst der berühmten Adelsfamilie Esterházy gehörte. Es dient heute als Jagdmuseum und erinnert an die reiche Jagdtradition der Region.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Wildpark Tamási",
+                  "text": "Ein weitläufiges Naturschutzgebiet in Stadtnähe, das für seinen Bestand an Damhirschen berühmt ist. Besucher können das Wild in seiner natürlichen Umgebung beobachten und die Waldwege erkunden.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Várhegy Aussichtsturm",
+                  "text": "Auf dem Gipfel des Burgbergs gelegen, bietet dieser Aussichtsturm einen weitreichenden Panoramablick auf die Stadt Tamási und die umliegende Hügellandschaft von Tolna.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Rosalienkapelle",
+                  "text": "Eine historische Kapelle mit einem gotischen Altarraum aus dem Jahr 1542, der später barock und romantisch erweitert wurde. Sie ist ein bedeutendes Denkmal sakraler Architektur am Rande der Stadt.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Römisch-katholische Kirche Mariä Himmelfahrt",
+                  "text": "Diese barocke Kirche wurde 1719 auf den Ruinen eines antiken römischen Tempels erbaut und prägt das Stadtbild von Tamási.",
+                  "category": "historical",
+                  "coords": [
+                        18.2882,
+                        46.6293
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Jagdmuseum",
+                  "text": "Das Museum präsentiert die reiche Jagdtradition der Region mit beeindruckenden Trophäen und forstwirtschaftlichen Exponaten.",
+                  "category": "recreational",
+                  "coords": [
+                        18.2858,
+                        46.6305
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Dreifaltigkeitssäule",
+                  "text": "Ein sakrales Denkmal aus dem Jahr 1883, das von Béla Gerenday im Stadtzentrum errichtet wurde.",
+                  "category": "civic",
+                  "coords": [
+                        18.2885,
+                        46.6315
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Ruinen der Burg Tamási",
+                  "text": "Die Überreste der mittelalterlichen kővár erinnern an die strategische Bedeutung des Ortes während der osmanischen Kriege.",
+                  "category": "historical",
+                  "coords": [
+                        18.2862,
+                        46.6295
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tamási Termálfürdő",
+                  "text": "Tolna vármegye egyik legjelentősebb gyógyfürdője, amely 52 fokos, ásványi anyagokban gazdag vizéről híres. A komplexum számos kültéri és beltéri medencével, valamint modern wellness-szolgáltatásokkal várja a látogatókat.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Esterházy-vadászkastély",
+                  "text": "A 18. században épült barokk stílusú kastély egykor a neves Esterházy család birtoka volt. Ma vadászmúzeumnak ad otthont, bemutatva a környék gazdag vadászati hagyományait.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Tamási Vadaspark",
+                  "text": "A város határában elterülő hatalmas erdős terület, amely világhírű dámszarvas-állományáról ismert. A látogatók természetes környezetükben figyelhetik meg az állatokat.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Várhegyi kilátó",
+                  "text": "A Várhegy tetején álló építményről lenyűgöző panoráma nyílik Tamási városára és a Tolnai-hegyhát lankáira.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Rozália-kápolna",
+                  "text": "Gótikus szentélye 1542-ből származik, amit később barokk és romantikus stílusban építettek tovább. A Kálvária-domb mellett található kápolna a város egyik legrégebbi műemléke.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Nagyboldogasszony római katolikus templom",
+                  "text": "Az 1719-ben barokk stílusban épült templom egy ókori római épület alapjaira emelték, Tamási vallási központja.",
+                  "category": "historical",
+                  "coords": [
+                        18.2882,
+                        46.6293
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Vadászmúzeum",
+                  "text": "A kiállítás a környék világhírű vadászati múltját és trófeáit mutatja be az egykori uradalmi környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        18.2858,
+                        46.6305
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Szentháromság-szobor",
+                  "text": "A városközpontban álló, 1883-ban készült fogadalmi emlékmű Gerenday Béla alkotása.",
+                  "category": "civic",
+                  "coords": [
+                        18.2885,
+                        46.6315
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Tamási várromok",
+                  "text": "A középkori kővár csekély maradványai a Várhegyen láthatóak, melyet egykor Lipót király seregei is ostromoltak.",
+                  "category": "historical",
+                  "coords": [
+                        18.2862,
+                        46.6295
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Băile Termale Tamási",
+                  "text": "Una dintre cele mai importante stațiuni balneare din județul Tolna, renumită pentru apele sale bogate în minerale care izvorăsc la 52 de grade. Complexul oferă numeroase bazine exterioare și interioare.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Castelul de vânătoare Esterházy",
+                  "text": "Un castel baroc construit în secolul al XVIII-lea, care a aparținut cândva nobilei familii Esterházy. Astăzi găzduiește un muzeu de vânătoare ce prezintă tradițiile cinegetice ale regiunii.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Parcul de animale sălbatice Tamási",
+                  "text": "O zonă naturală vastă lângă oraș, celebră pentru populația sa de cerbi lopătari. Vizitatorii pot observa animalele în habitatul lor natural pe traseele de vizitare.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Belvedere Várhegy",
+                  "text": "Situat pe vârful dealului cetății, acest turn oferă o vedere panoramică spectaculoasă asupra orașului Tamási și a dealurilor din jur.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Capela Rozália",
+                  "text": "O capelă istorică cu un sanctuar gotic din 1542, extinsă ulterior în stil baroc și romantic. Este un monument religios important situat la marginea orașului.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Biserica Romano-Catolică Sfânta Maria",
+                  "text": "Construită în stil baroc în 1719 pe ruinele unui templu roman, această biserică este un reper istoric al orașului.",
+                  "category": "historical",
+                  "coords": [
+                        18.2882,
+                        46.6293
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Muzeul Vânătorii",
+                  "text": "Prezintă trofee impresionante și istoria vânătorii în renumitele păduri de cerbi din jurul localității Tamási.",
+                  "category": "recreational",
+                  "coords": [
+                        18.2858,
+                        46.6305
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Coloana Sfintei Treimi",
+                  "text": "Un monument religios ridicat în centrul orașului în 1883, opera sculptorului Béla Gerenday.",
+                  "category": "civic",
+                  "coords": [
+                        18.2885,
+                        46.6315
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Ruinele cetății Tamási",
+                  "text": "Vestigii ale unei fortificații medievale de piatră care a jucat un rol în campaniile militare ale secolului al XVII-lea.",
+                  "category": "historical",
+                  "coords": [
+                        18.2862,
+                        46.6295
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tamási Thermal Spa",
+                  "text": "One of the most significant thermal baths in Tolna County, famous for its mineral-rich water surfacing at 52 degrees Celsius. The facility offers numerous indoor and outdoor pools and wellness services.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Esterházy Hunting Lodge",
+                  "text": "An 18th-century Baroque castle that once belonged to the prominent Esterházy family. It currently houses a hunting museum showcasing the region's rich forestry and hunting traditions.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Tamási Wildlife Park",
+                  "text": "A vast nature reserve near the town, world-renowned for its fallow deer population. Visitors can observe wild animals in their natural environment along guided forest paths.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Várhegy Lookout Tower",
+                  "text": "Located on the summit of the Castle Hill, this lookout offers a panoramic view of Tamási and the rolling landscape of the Tolna hills.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Rozália Chapel",
+                  "text": "A historic chapel featuring a Gothic sanctuary dating back to 1542, later extended with Baroque and Romantic elements. It is one of the town's oldest religious monuments.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Assumption of Mary Catholic Church",
+                  "text": "A Baroque church built in 1719 on the ruins of an ancient Roman temple in the heart of the town.",
+                  "category": "historical",
+                  "coords": [
+                        18.2882,
+                        46.6293
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Hunting Museum",
+                  "text": "Exhibits trophies and historical artifacts related to the region's famous hunting heritage.",
+                  "category": "recreational",
+                  "coords": [
+                        18.2858,
+                        46.6305
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Holy Trinity Statue",
+                  "text": "A religious monument erected in 1883 by sculptor Béla Gerenday in the central square.",
+                  "category": "civic",
+                  "coords": [
+                        18.2885,
+                        46.6315
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Castle Ruins",
+                  "text": "Sparse remains of the medieval stone castle that once stood guard over the area during the Ottoman wars.",
+                  "category": "historical",
+                  "coords": [
+                        18.2862,
+                        46.6295
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            }
+      ]
+}
   },
   {
     id: "geo-siocsatorna-extra",
@@ -1864,6 +7455,260 @@ export const poiExtraHu1: POI[] = [
       en: ["Vasvár served as the first seat of Vas County during the Middle Ages.", "The historic Peace of Vasvár was signed on August 10, 1664.", "The Dominican monastery was established in the mid-13th century.", "The Statue of the Angel of Peace commemorates the 1664 treaty in the town.", "The Roman-era Amber Road once passed near the settlement.", "The town's parish church originally dates back to the 13th-century Romanesque period."],
     },
     image: "/poi-images/city-vasvar-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Dominikanerkirche und Kloster",
+                  "text": "Eines der ältesten Klöster Ungarns, dessen Fundamente bis ins 13. Jahrhundert zurückreichen. Heute beherbergt das Gebäude ein Museum für Kirchenkunst und ein Pilgerzentrum.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Schanze von Vasvár",
+                  "text": "Überreste eines mittelalterlichen Grenzwehrsystems, bekannt als Gyepű. Die rekonstruierten Erdwälle bieten einen Einblick in die militärische Verteidigungsstrategie der frühen ungarischen Geschichte.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Friedenshaus",
+                  "text": "Ein historisches Gebäude, in dem der Überlieferung nach 1664 der Friede von Eisenburg zwischen dem Habsburgerreich und den Osmanen unterzeichnet wurde.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Szentkút-Heilquelle und Thermalbad",
+                  "text": "Ein beliebter Wallfahrtsort und Erholungsbereich mit einer Heilquelle. Das Thermalbad der Stadt bietet Entspannung in mineralhaltigem Wasser in ruhiger, waldreicher Umgebung.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Bootsteich von Vasvár",
+                  "text": "Ein malerischer Freizeitsee am Rande der Stadt, der von Waldwegen umgeben ist. Er ist ein beliebter Ort für entspannte Spaziergänge und Naturbeobachtungen.",
+                  "category": "recreational",
+                  "coords": [
+                        16.812,
+                        47.055
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Jubiläums-Gedenkpark",
+                  "text": "Diese gepflegte Parkanlage im Stadtzentrum erinnert an wichtige Meilensteine der Stadtgeschichte. Mehrere Denkmäler und Gedenktafeln finden sich auf seinem Gelände.",
+                  "category": "civic",
+                  "coords": [
+                        16.806,
+                        47.052
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Rathaus von Vasvár",
+                  "text": "Ein repräsentatives historistisches Gebäude am Hauptplatz, das das administrative Zentrum der Kleinstadt bildet. Es prägt das architektonische Bild des Stadtkerns.",
+                  "category": "civic",
+                  "coords": [
+                        16.8045,
+                        47.0505
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dominikánus templom és kolostor",
+                  "text": "Magyarország egyik legrégebbi kolostora, amelynek alapjai a 13. századra nyúlnak vissza. Az épületegyüttes ma múzeumnak és zarándokszállásnak ad helyet.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Vasvári Sánc",
+                  "text": "A középkori magyar határvédelmi rendszer, a gyepű része, amelynek egy szakaszát rekonstruálták. A területen régészeti bemutatóhely és tanösvény várja a látogatókat.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Békeház",
+                  "text": "Történelmi jelentőségű épület, ahol a hagyomány szerint 1664-ben aláírták a vasvári békét a Habsburg Birodalom és az Oszmán Birodalom között.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Szentkút és Termálfürdő",
+                  "text": "Híres búcsújáróhely a város szélén, amelynek forrásvizét gyógyító erejűnek tartják. Mellette található a város hangulatos termálfürdője.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Vasvári Csónakázó-tó",
+                  "text": "A város szélén fekvő mesterséges tó kellemes pihenőhelyet kínál a természet kedvelőinek. A partján kialakított sétányok népszerűek a helyiek és a látogatók körében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.812,
+                        47.055
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Jubileumi Emlékpark",
+                  "text": "A városközpontban található park a település alapításának évfordulóira emlékeztet. Területén több történelmi emlékhely és szobor kapott helyet.",
+                  "category": "civic",
+                  "coords": [
+                        16.806,
+                        47.052
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Városháza",
+                  "text": "A főtéren álló historizáló stílusú épület a város közigazgatási központja. Homlokzata és belső terei hűen tükrözik a település polgári múltját.",
+                  "category": "civic",
+                  "coords": [
+                        16.8045,
+                        47.0505
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica și Mănăstirea Dominicană",
+                  "text": "Una dintre cele mai vechi mănăstiri din Ungaria, ale cărei fundații datează din secolul al XIII-lea. Astăzi, clădirea găzduiește un muzeu de artă religioasă și un centru de pelerinaj.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Valul de apărare Vasvár",
+                  "text": "Rămășițele unui sistem medieval de apărare a frontierei maghiare, parțial reconstruit. Situl oferă o perspectivă asupra strategiilor militare timpurii din istoria Ungariei.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Casa Păcii",
+                  "text": "O clădire istorică unde, conform tradiției, a fost semnat în 1664 Tratatul de Pace de la Vasvár între Imperiul Habsburgic și Imperiul Otoman.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Sursă de vindecare Szentkút și Baia Termală",
+                  "text": "Un loc de pelerinaj renumit situat într-o zonă împădurită liniștită. Stațiunea termală a orașului oferă relaxare în ape minerale curative.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Lacul de agrement din Vasvár",
+                  "text": "Un lac pitoresc situat la marginea orașului, ideal pentru relaxare și activități în aer liber. Este înconjurat de zone verzi și trasee pentru plimbări.",
+                  "category": "recreational",
+                  "coords": [
+                        16.812,
+                        47.055
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Parcul Memorial Jubiliar",
+                  "text": "Un spațiu verde situat în centrul orașului care onorează momentele cheie din istoria locală. Găzduiește mai multe monumente și plăci comemorative.",
+                  "category": "civic",
+                  "coords": [
+                        16.806,
+                        47.052
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Primăria din Vasvár",
+                  "text": "O clădire administrativă impunătoare situată în piața principală, construită în stil historist. Este un punct de reper arhitectural important pentru centrul orașului.",
+                  "category": "civic",
+                  "coords": [
+                        16.8045,
+                        47.0505
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dominican Church and Monastery",
+                  "text": "One of the oldest monasteries in Hungary, with foundations dating back to the 13th century. Today, it houses a museum of religious art and a pilgrimage center.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Vasvár Earthworks (Gyepű)",
+                  "text": "Remnants of a medieval Hungarian border defense system. The reconstructed section of the earthen ramparts provides insight into early military fortifications and history.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Peace House",
+                  "text": "A historic building where the Peace of Vasvár was reportedly signed in 1664, concluding the war between the Habsburg and Ottoman Empires.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Szentkút Holy Well and Thermal Bath",
+                  "text": "A famous pilgrimage site located at the town's edge with a spring believed to have healing powers. The adjacent thermal bath offers relaxation in a natural forest setting.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Vasvár Boating Lake",
+                  "text": "A scenic recreational lake on the edge of town, surrounded by peaceful walking paths. It is a popular spot for outdoor relaxation and light sports.",
+                  "category": "recreational",
+                  "coords": [
+                        16.812,
+                        47.055
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Jubilee Memorial Park",
+                  "text": "A well-maintained park in the town center that commemorates major milestones in local history. It features several statues and historical markers.",
+                  "category": "civic",
+                  "coords": [
+                        16.806,
+                        47.052
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Town Hall of Vasvár",
+                  "text": "A grand historicist building located on the main square, serving as the town's administrative hub. It is a defining piece of the local architectural landscape.",
+                  "category": "civic",
+                  "coords": [
+                        16.8045,
+                        47.0505
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ]
+}
   },
   {
     id: "city-janoshaza-extra",
@@ -1895,6 +7740,232 @@ export const poiExtraHu1: POI[] = [
       ro: ["Castelul Erdődy-Choron a fost construit în forma sa actuală în secolul al XVI-lea.", "Jánosháza a primit din nou statutul de oraș în anul 2007.", "Biserica catolică din oraș a fost construită în stil baroc în anul 1734.", "Așezarea a fost numită după fondatorul său, un nobil pe nume János.", "Castelul are turnuri de colț distinctive care serveau odinioară în scopuri defensive.", "Orașul este situat la intersecția drumurilor principale 8 și 84."],
       en: ["The Erdődy-Choron Castle was rebuilt in its current Renaissance form in the 16th century.", "Jánosháza regained its town status in 2007.", "The Catholic church dedicated to St. John the Baptist was built in 1734.", "The settlement was named after its founder, a nobleman named János.", "The castle features characteristic corner towers designed for defense.", "The town is located at the intersection of the strategic main roads 8 and 84."],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Burgschloss Erdődy",
+                  "text": "Ein ursprünglich im Mittelalter errichtetes Bauwerk, das später im Renaissancestil zum Schloss der Familie Erdődy umgebaut wurde. Es ist das markanteste historische Gebäude der Stadt.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Keresztelő Szent János Kirche",
+                  "text": "Die im Jahr 1734 im Barockstil erbaute römisch-katholische Pfarrkirche steht im Zentrum von Jánosháza und verfügt über wertvolle sakrale Kunstwerke.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Szent Vendel Kapelle",
+                  "text": "Eine kleine Barockkapelle aus dem Jahr 1781, die dem heiligen Wendelin gewidmet ist. Sie ist ein schönes Beispiel für die ländliche Sakralarchitektur des 18. Jahrhunderts.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Marienstandbild",
+                  "text": "Eine barocke Statue der Jungfrau Maria, die auf dem Hauptplatz der Stadt steht und ein bedeutendes religiöses Denkmal ist. Das fein gearbeitete Werk spiegelt das spirituelle Erbe der Siedlung wider.",
+                  "category": "historical",
+                  "coords": [
+                        17.164,
+                        47.128
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Antall-József-Denkmal",
+                  "text": "Diese Statue erinnert an József Antall, den ersten demokratisch gewählten Ministerpräsidenten Ungarns nach der Wende. Das Denkmal im Zentrum ist ein Symbol für das nationale Gedächtnis.",
+                  "category": "civic",
+                  "coords": [
+                        17.162,
+                        47.126
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Weltkriegsdenkmal",
+                  "text": "Ein würdevolles Denkmal, das die Namen der lokalen Opfer beider Weltkriege trägt. Es dient als Ort der Besinnung und des Gedenkens an die Opfer der Geschichte.",
+                  "category": "historical",
+                  "coords": [
+                        17.161,
+                        47.127
+                  ],
+                  "confidence": "medium",
+                  "source_hint": "known"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Erdődy-várkastély",
+                  "text": "Középkori alapokra épült, majd reneszánsz stílusban átalakított erődítmény, amely az Erdődy család tulajdona volt. A város legjelentősebb műemléke.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Keresztelő Szent János-templom",
+                  "text": "1734 körül épült barokk stílusú római katolikus templom a város központjában. Belső berendezése gazdag vallási értékeket képvisel.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Szent Vendel-kápolna",
+                  "text": "1781-ben emelt barokk kápolna, amely a mezőgazdaság védőszentjének tiszteletére épült. Kedvelt helyi vallási emlékhely.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Szűz Mária szobor",
+                  "text": "A város főterén álló barokk stílusú vallási emlékhely a hívők és a látogatók számára egyaránt fontos pont. A finoman megmunkált alkotás a környék vallási örökségét tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        17.164,
+                        47.128
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Antall József szobra",
+                  "text": "A rendszerváltás utáni első magyar miniszterelnök tiszteletére emelt szobor a település központjában kapott helyet. Az alkotás a nemzeti emlékezet és a modern magyar demokrácia jelképe.",
+                  "category": "civic",
+                  "coords": [
+                        17.162,
+                        47.126
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Világháborús emlékmű",
+                  "text": "A két világháború helyi áldozatainak neveit tartalmazó emlékmű a kegyelet és a tiszteletadás helyszíne. A méltóságteljes obeliszk a hősök önfeláldozására emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        17.161,
+                        47.127
+                  ],
+                  "confidence": "medium",
+                  "source_hint": "known"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelul Erdődy",
+                  "text": "O structură ridicată inițial în Evul Mediu și ulterior reconstruită în stil renascentist ca reședință a familiei Erdődy. Este cea mai remarcabilă clădire istorică a orașului.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Biserica Sfântul Ioan Botezătorul",
+                  "text": "Biserica parohială romano-catolică construită în stil baroc în jurul anului 1734, situată în centrul localității Jánosháza.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Capela Sfântul Vendel",
+                  "text": "O mică capelă barocă din 1781 dedicată Sfântului Vendelin, protectorul animalelor. Reprezintă un exemplu fin al arhitecturii sacre rurale din secolul al XVIII-lea.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Statuia Fecioarei Maria",
+                  "text": "Un monument religios în stil baroc situat în piața centrală a orașului, fiind un punct important pentru credincioși. Lucrarea reflectă moștenirea spirituală a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        17.164,
+                        47.128
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Statuia lui József Antall",
+                  "text": "Ridicată în onoarea primului prim-ministru maghiar de după căderea comunismului, această statuie se află în centrul orașului. Este un simbol al memoriei naționale și al democrației moderne.",
+                  "category": "civic",
+                  "coords": [
+                        17.162,
+                        47.126
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Monumentul eroilor",
+                  "text": "Un monument care poartă numele victimelor locale din ambele războaie mondiale. Obeliscul este un loc de reculegere și respect pentru sacrificiul eroilor.",
+                  "category": "historical",
+                  "coords": [
+                        17.161,
+                        47.127
+                  ],
+                  "confidence": "medium",
+                  "source_hint": "known"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Erdődy Castle",
+                  "text": "Originally a medieval fortress, it was later converted into a Renaissance-style castle by the Erdődy family. It remains the most prominent historical landmark in the town.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Church of St. John the Baptist",
+                  "text": "A Roman Catholic parish church built in the Baroque style around 1734. It is located in the town center and contains valuable religious artifacts.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "St. Vendel Chapel",
+                  "text": "A small Baroque chapel built in 1781, dedicated to Saint Wendelin. It is a charming example of 18th-century rural religious architecture.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Statue of Virgin Mary",
+                  "text": "A Baroque-style religious monument standing in the town's main square, serving as an important point for faithful visitors. The finely crafted work reflects the spiritual heritage of the area.",
+                  "category": "historical",
+                  "coords": [
+                        17.164,
+                        47.128
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Statue of József Antall",
+                  "text": "Erected in honor of the first Hungarian Prime Minister after the regime change, this statue is located in the town center. It stands as a symbol of national memory and modern democracy.",
+                  "category": "civic",
+                  "coords": [
+                        17.162,
+                        47.126
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "World War Memorial",
+                  "text": "A dignified monument listing the names of local victims from both World Wars. It serves as a place of remembrance and respect for those who gave their lives.",
+                  "category": "historical",
+                  "coords": [
+                        17.161,
+                        47.127
+                  ],
+                  "confidence": "medium",
+                  "source_hint": "known"
+            }
+      ]
+}
   },
   {
     id: "geo-pinka-extra",
@@ -2021,6 +8092,332 @@ export const poiExtraHu1: POI[] = [
       en: ["Brown coal mining first commenced in the area in 1865", "The Ajka Crystal factory was established in 1878 by Bernard Neumann", "The modern city was created in 1959 by merging four villages", "The red mud environmental disaster occurred on October 4, 2010", "The Mining Museum is located at the former Ármin shaft site", "Ajka is situated approximately 30 kilometers west of Lake Balaton"],
     },
     image: "/poi-images/city-ajka-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Ajka Kristal Glasfabrik",
+                  "text": "Die weltberühmte Glasfabrik bietet Besuchern Einblicke in die Kunst der handgefertigten Kristallglasherstellung. Hier werden seit über einem Jahrhundert hochwertige Gläser für den internationalen Markt produziert.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Bergbaumuseum und Fossilienausstellung",
+                  "text": "In einem ehemaligen Zechengelände gelegen, zeigt dieses Museum die Geschichte des Kohlebergbaus in der Region sowie eine beeindruckende Sammlung lokaler Fossilien.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Stadtpark und Bootsteich",
+                  "text": "Eine grüne Oase im Herzen der Stadt mit einem künstlichen See. Hier befinden sich Denkmäler des Schriftstellers István Fekete und Skulpturen seiner berühmten Tierfiguren wie Vuk, der Fuchs.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Stadtmuseum auf dem Templomdomb",
+                  "text": "Das Museum in einem historischen Gebäude auf dem Kirchenhügel beherbergt Ausstellungen zur Lokalgeschichte sowie Gedenkräume für die Schriftsteller István Fekete und Gábor Molnár.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Tósokberénder Kirche",
+                  "text": "Die römisch-katholische Kirche des Stadtteils Tósokberénd ist bekannt für ihr prächtiges Altarbild von Vinzenz Fischer, das den Heiligen Stephan bei der Krönung darstellt.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Evangelische Kirche",
+                  "text": "Eine spätbarocke Kirche aus den Jahren 1786-89, die auf dem markanten Templomdomb (Kirchhügel) steht.",
+                  "category": "historical",
+                  "coords": [
+                        17.554,
+                        47.104
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Ehemalige Kryptongasfabrik",
+                  "text": "Die weltweit erste Fabrik zur industriellen Gewinnung von Kryptongas, basierend auf der Erfindung von Imre Bródy.",
+                  "category": "historical",
+                  "coords": [
+                        17.561,
+                        47.1075
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Szent Borbála Denkmal",
+                  "text": "Ein Denkmal in Padragkút zu Ehren der Schutzpatronin der Bergleute an einem ehemaligen Schachteingang.",
+                  "category": "civic",
+                  "coords": [
+                        17.5335,
+                        47.0545
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Kulturzentrum Agóra",
+                  "text": "Das moderne kulturelle Herz der Stadt, das Platz für Ausstellungen, Konzerte und Gemeinschaftsveranstaltungen bietet.",
+                  "category": "civic",
+                  "coords": [
+                        17.5595,
+                        47.1015
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ajka Kristály",
+                  "text": "Világhírű üveggyár, ahol a látogatók megismerkedhetnek a kézzel készített kristályüveg gyártásának titkaival. A manufaktúra több mint egy évszázada készít prémium termékeket.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Bányászati Múzeum és Őslénytár",
+                  "text": "A parkerdőben található múzeum a környék szénbányászatának múltját mutatja be egy egykori bányaüzem területén, gazdag kőzet- és őslénygyűjteménnyel kiegészítve.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Városliget és csónakázótó",
+                  "text": "Népszerű pihenőhely mesterséges tóval. Itt találhatók Fekete István író és állatfiguráinak (például Vuk, a róka) bronzszobrai is.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Városi Múzeum (Templomdomb)",
+                  "text": "A város legrégebbi részén, a Templomdombon található múzeum helytörténeti kiállításnak, valamint Fekete István és Molnár Gábor emlékgyűjteményének ad otthont.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Tósokberéndi római katolikus templom",
+                  "text": "A városrész barokk temploma Vinzenz Fischer híres oltárképéről nevezetes, amely azt a jelenetet ábrázolja, amikor Szent István felajánlja a koronát Máriának.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Evangélikus templom",
+                  "text": "A Templomdombon álló késő barokk stílusú templom 1786 és 1789 között épült a helyi közösség számára.",
+                  "category": "historical",
+                  "coords": [
+                        17.554,
+                        47.104
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Kriptongyár",
+                  "text": "Ipari műemlék, ahol a világon először állítottak elő kriptongázt Bródy Imre eljárása alapján.",
+                  "category": "historical",
+                  "coords": [
+                        17.561,
+                        47.1075
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Szent Borbála-emlékmű",
+                  "text": "A bányászok védőszentjének szobra Padragkúton, az egykori bányabejárat közelében található.",
+                  "category": "civic",
+                  "coords": [
+                        17.5335,
+                        47.0545
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Agóra Városi Kulturális Központ",
+                  "text": "A város modern közösségi és kulturális központja, amely számos rendezvénynek és kiállításnak ad otthont.",
+                  "category": "civic",
+                  "coords": [
+                        17.5595,
+                        47.1015
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fabrica de Cristal Ajka",
+                  "text": "Fabrica de sticlă renumită la nivel mondial oferă vizitatorilor o perspectivă asupra procesului de fabricare manuală a cristalului. De peste un secol, aici se produc obiecte de lux pentru export.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Muzeul Mineritului și Expoziția de Paleontologie",
+                  "text": "Situat în incinta unei foste mine, acest muzeu prezintă istoria exploatării cărbunelui din regiune și o colecție impresionantă de fosile locale.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Parcul Orașului și Lacul de Agrement",
+                  "text": "O zonă verde în centrul orașului cu un lac artificial. Aici pot fi găsite monumente dedicate scriitorului István Fekete și sculpturi ale personajelor sale celebre, precum Vuk vulpea.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Muzeul Orașului pe Templomdomb",
+                  "text": "Găzduit într-o clădire istorică pe dealul bisericii, muzeul cuprinde expoziții de istorie locală și camere memoriale pentru scriitorii István Fekete și Gábor Molnár.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Biserica Tósokberénd",
+                  "text": "Biserica romano-catolică din cartierul Tósokberénd este cunoscută pentru pictura sa de altar realizată de Vinzenz Fischer, reprezentând încoronarea lui Ștefan cel Sfânt.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Biserica Evanghelică",
+                  "text": "O biserică construită în stil baroc târziu între anii 1786-1789, situată pe dealul Templomdomb.",
+                  "category": "historical",
+                  "coords": [
+                        17.554,
+                        47.104
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Fabrica de Cripton",
+                  "text": "Prima fabrică din lume care a produs kripton la scară industrială, folosind invenția cercetătorului Imre Bródy.",
+                  "category": "historical",
+                  "coords": [
+                        17.561,
+                        47.1075
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Monumentul Sfânta Barbara",
+                  "text": "Situat în Padragkút, acest monument este dedicat patroanei minerilor, marcând istoria industrială a zonei.",
+                  "category": "civic",
+                  "coords": [
+                        17.5335,
+                        47.0545
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Centrul Cultural Agóra",
+                  "text": "Un spațiu modern multifuncțional pentru evenimente culturale, expoziții și viața socială a comunității din Ajka.",
+                  "category": "civic",
+                  "coords": [
+                        17.5595,
+                        47.1015
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ajka Crystal Glass Factory",
+                  "text": "The world-renowned glassworks offers tours showing the traditional process of handmade crystal glass manufacturing. It has been producing premium glass products for over a century.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Mining Museum and Fossil Collection",
+                  "text": "Located at a former mine site, this museum showcases the region's coal mining history along with an extensive collection of local rocks and fossils.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "City Park and Boating Lake",
+                  "text": "A central recreation area featuring an artificial lake. It is home to statues of writer István Fekete and his beloved animal characters, including Vuk the fox.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "City Museum (Church Hill)",
+                  "text": "Situated on the historic Templomdomb, this museum features local history exhibits and memorial collections dedicated to writers István Fekete and Gábor Molnár.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Tósokberénd Catholic Church",
+                  "text": "This Baroque parish church is famous for its altarpiece painted by Vinzenz Fischer, depicting King St. Stephen offering the Hungarian crown to the Virgin Mary.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Evangelical Church",
+                  "text": "A late Baroque church built between 1786 and 1789, standing prominently on Temple Hill.",
+                  "category": "historical",
+                  "coords": [
+                        17.554,
+                        47.104
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Krypton Factory",
+                  "text": "An industrial landmark as the world's first plant to produce krypton gas using Imre Bródy's invention.",
+                  "category": "historical",
+                  "coords": [
+                        17.561,
+                        47.1075
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Saint Barbara Monument",
+                  "text": "Located in Padragkút at a former mine entrance, this monument honors the patron saint of miners.",
+                  "category": "civic",
+                  "coords": [
+                        17.5335,
+                        47.0545
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Agóra Cultural Center",
+                  "text": "The town's modern hub for cultural events, concerts, and community gatherings.",
+                  "category": "civic",
+                  "coords": [
+                        17.5595,
+                        47.1015
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ]
+}
   },
   {
     id: "city-berhida-extra",
@@ -2052,6 +8449,232 @@ export const poiExtraHu1: POI[] = [
       ro: ["Biserica Sfântul Ladislau are un acoperiș de piatră rar din secolul XIII", "Un cutremur de 5,2 grade a lovit orașul pe 15 august 1985", "Berhida a primit statutul de oraș în anul 2004", "Așezarea este situată la intersecția pâraielor Séd și Sényő", "În hotarul orașului au fost găsite monede și fundații din epoca romană", "Cartierul Peremarton este un centru istoric al industriei chimice"],
       en: ["The St. Ladislaus Church features a rare 13th-century stone roof", "A 5.2 magnitude earthquake struck the town on August 15, 1985", "Berhida officially received city status in the year 2004", "The settlement is built at the confluence of the Séd and Sényő creeks", "Roman era coins and building foundations were discovered in the area", "The industrial district of Peremarton is a major chemical production site"],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Heiligkreuzkirche",
+                  "text": "Diese gotische Kirche aus dem 14. Jahrhundert ist für ihr einzigartiges Steindach bekannt. Der barocke Hochaltar im Inneren wurde 1749 errichtet und ist ein bedeutendes Kunstdenkmal der Region.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Industriegebiet Peremarton",
+                  "text": "Ein historisches Industrieviertel aus den 1920er Jahren, das die Entwicklung der Stadt maßgeblich geprägt hat. Es ist ein interessantes Beispiel für die ungarische Industriearchitektur des frühen 20. Jahrhunderts.",
+                  "category": "historical",
+                  "confidence": "medium",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Séd-Bach-Tal",
+                  "text": "Ein naturbelassenes Gebiet entlang des Baches, das sich ideal für kurze Spaziergänge im Grünen eignet. Es bietet eine ruhige Atmosphäre abseits des Stadtzentrums.",
+                  "category": "natural",
+                  "confidence": "medium",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Heimatmuseum Berhida",
+                  "text": "Ein Gebäude, das die ethnografische und lokalgeschichtliche Sammlung der Siedlung beherbergt. Die Ausstellung zeigt die traditionelle bäuerliche Lebensweise und Gebrauchsgegenstände der Region.",
+                  "category": "historical",
+                  "coords": [
+                        18.134,
+                        47.112
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Millennium-Gedenkpark",
+                  "text": "Ein Park im Stadtzentrum, der zu Ehren des tausendjährigen Jubiläums der ungarischen Landnahme angelegt wurde. Ein beliebter Erholungsort mit Denkmalen und gepflegten Grünflächen.",
+                  "category": "recreational",
+                  "coords": [
+                        18.13,
+                        47.114
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "St.-Ladislaus-Kirche",
+                  "text": "Eine mittelalterliche Kirche im Ortsteil Kiskovácsi, die im 13. Jahrhundert erbaut wurde. Sie bewahrt romanische Stilmerkmale und ist eines der ältesten Baudenkmäler der Siedlung.",
+                  "category": "historical",
+                  "coords": [
+                        18.14,
+                        47.108
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szent Kereszt-templom",
+                  "text": "A 14. századból származó gótikus templom Berhida legfontosabb műemléke, amelynek különlegessége az egyedülálló kőből készült tetőszerkezet. Belső terében egy 1749-ben készült barokk főoltár látható.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Peremartoni gyártelep",
+                  "text": "Az 1920-as években alapított ipari negyed, amely meghatározta a település fejlődését és arculatát. Az ipari örökség iránt érdeklődők számára tartogat építészeti látnivalókat.",
+                  "category": "historical",
+                  "confidence": "medium",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Séd-patak völgye",
+                  "text": "A várost átszelő patak menti zöldterület, amely pihentető környezetet biztosít a természetben való sétáláshoz.",
+                  "category": "natural",
+                  "confidence": "medium",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Berhidai Tájház",
+                  "text": "A település néprajzi és helytörténeti gyükteményének otthont adó épület. A kiállítás a környék hagyományos paraszti életformáját és használati tárgyait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        18.134,
+                        47.112
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Millenniumi Emlékpark",
+                  "text": "A város központjában található park, amely a honfoglalás ezredik évfordulójának tiszteletére létesült. Kedvelt pihenőhely emlékművekkel és gondozott zöldfelületekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        18.13,
+                        47.114
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Szent László-templom",
+                  "text": "A kiskovácsi településrészen található középkori eredetű templom, amely a 13. században épült. Román kori stílusjegyeket őriz, és a település egyik legrégebbi emléke.",
+                  "category": "historical",
+                  "coords": [
+                        18.14,
+                        47.108
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica Sfânta Cruce",
+                  "text": "Această biserică gotică din secolul al XIV-lea este renumită pentru acoperișul său unic din piatră. Altarul principal în stil baroc a fost instalat în 1749 și reprezintă o piesă centrală a patrimoniului local.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Cartierul Industrial Peremarton",
+                  "text": "O zonă industrială istorică fondată în anii 1920, care a jucat un rol crucial în dezvoltarea orașului. Arhitectura industrială de aici reflectă perioada de expansiune economică a secolului trecut.",
+                  "category": "historical",
+                  "confidence": "medium",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Valea Pârâului Séd",
+                  "text": "O zonă naturală plăcută de-a lungul pârâului Séd, ideală pentru plimbări relaxante și observarea naturii locale.",
+                  "category": "natural",
+                  "confidence": "medium",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Casa Tradițiilor din Berhida",
+                  "text": "O clădire care găzduiește colecția etnografică și de istorie locală a așezării. Expoziția prezintă modul tradițiolal de viață țărănesc și obiectele de uz cotidian din zonă.",
+                  "category": "historical",
+                  "coords": [
+                        18.134,
+                        47.112
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Parcul Memorial al Mileniului",
+                  "text": "Un parc situat în centrul orașului, creat în onoarea celei de-a mia aniversări a descălecării maghiare. Este un loc popular de relaxare, cu monumente și spații verzi bine întreținute.",
+                  "category": "recreational",
+                  "coords": [
+                        18.13,
+                        47.114
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Biserica Sfântul Ladislau",
+                  "text": "O biserică de origine medievală situată în cartierul Kiskovácsi, construită în secolul al XIII-lea. Păstrează elemente stilistice romanice și este un monument arhitectural valoros.",
+                  "category": "historical",
+                  "coords": [
+                        18.14,
+                        47.108
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Holy Cross Church",
+                  "text": "A 14th-century Gothic church famous for its unique stone roof structure. The Baroque high altar inside was built in 1749 and is a significant local historical monument.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Peremarton Industrial District",
+                  "text": "An industrial area established in the 1920s that defined the town's modern development. It preserves various architectural elements from the early industrial era of Hungary.",
+                  "category": "historical",
+                  "confidence": "medium",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Séd Stream Valley",
+                  "text": "A scenic natural area along the Séd stream, offering a peaceful environment for walks and outdoor relaxation near the town.",
+                  "category": "natural",
+                  "confidence": "medium",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Berhida Local History House",
+                  "text": "A building housing the settlement's ethnographic and local history collection. The exhibition presents the traditional peasant lifestyle and everyday objects of the region.",
+                  "category": "historical",
+                  "coords": [
+                        18.134,
+                        47.112
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Millennium Memorial Park",
+                  "text": "A park in the city center established in honor of the millennium of the Hungarian Conquest. It is a popular resting spot with monuments and well-maintained green areas.",
+                  "category": "recreational",
+                  "coords": [
+                        18.13,
+                        47.114
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "St. Ladislaus Church",
+                  "text": "A medieval church located in the Kiskovácsi district, built in the 13th century. It preserves Romanesque architectural features and is one of the oldest monuments in the settlement.",
+                  "category": "historical",
+                  "coords": [
+                        18.14,
+                        47.108
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            }
+      ]
+}
   },
   {
     id: "geo-csobanc-extra",
@@ -2178,6 +8801,244 @@ export const poiExtraHu1: POI[] = [
       en: ["Letenye was first recorded in a charter in the year 1341", "The town obtained market town status as early as 1431", "The giant plane tree in the mansion park is over 500 years old", "The Andrássy-Szapáry Mansion was built in neoclassical style", "The town is a key stop along the M7 international motorway", "The Mura River marks the natural boundary between Hungary and Croatia"],
     },
     image: "/poi-images/city-letenye-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Andrássy-Szapáry-Schloss und Park",
+                  "text": "Das barocke Herrenhaus beherbergt heute ein Kulturzentrum und ist von einem prächtigen Park umgeben. Die Anlage ist der Mittelpunkt des kulturellen Lebens in Letenye.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "500-jährige Platane",
+                  "text": "Diese riesige ahornblättrige Platane im Schlosspark ist eines der größten Exemplare des Landes. Im Jahr 2011 vertrat sie Ungarn beim Wettbewerb zum Europäischen Baum des Jahres.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Makovecz-Bibliothek",
+                  "text": "Ein markantes Holzgebäude im organischen Stil, entworfen vom berühmten Architekten Imre Makovecz. Die Struktur fügt sich harmonisch in die Umgebung ein und ist ein architektonisches Highlight.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Thermalbad Letenye",
+                  "text": "Ein gemütliches Freibad mit Heilwasser und einem angrenzenden Campingplatz. Es bietet Entspannung für Familien und Reisende in der Nähe der kroatischen Grenze.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Ufer der Mur",
+                  "text": "Die nahegelegene Mur ist ein beliebtes Ziel für Angler und Naturfreunde. Entlang des Flusses gibt es Wander- und Radwege durch die unberührte Aulandschaft.",
+                  "category": "natural",
+                  "confidence": "medium",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Dreifaltigkeitskirche",
+                  "text": "Die spätbarocke Kirche wurde 1765 mit Unterstützung der Familie Szapáry erbaut. Ihr Inneres bewahrt wertvolle Fresken und ein Altarbild aus der Mitte des 18. Jahrhunderts.",
+                  "category": "historical",
+                  "coords": [
+                        16.7225,
+                        46.4332
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Kriegerdenkmal",
+                  "text": "Das Denkmal im Stadtzentrum erinnert mit einer klassischen Statuengruppe an die im Ersten Weltkrieg gefallenen Soldaten des Ortes.",
+                  "category": "civic",
+                  "coords": [
+                        16.7241,
+                        46.4351
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Andrássy-Szapáry-kastély és park",
+                  "text": "A barokk stílusú kastély ma művelődési központként működik, és egy hatalmas, gondozott park veszi körül. A város egyik legfontosabb történelmi és közösségi helyszíne.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "500 éves platánfa",
+                  "text": "A kastélyparkban álló hatalmas juharlevelű platán a térség egyik legnagyobb fája. 2011-ben részt vett az Európai Év Fája versenyen, mint Magyarország képviselője.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Makovecz-könyvtár",
+                  "text": "Makovecz Imre által tervezett különleges organikus faépület a kastélypark szélén. Az építészet iránt érdeklődők számára kötelező látnivaló a városban.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Letenyei Termálfürdő és Kemping",
+                  "text": "Családias hangulatú strandfürdő, amely gyógyvizes medencékkel és sportolási lehetőségekkel várja a látogatókat a horvát határ közvetlen közelében.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Mura-folyó partja",
+                  "text": "A várostól nem messze folyó Mura kiváló horgászhelyeket és természeti túraútvonalakat kínál az érintetlen ártéri erdőkben.",
+                  "category": "natural",
+                  "confidence": "medium",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Szentháromság-templom",
+                  "text": "A késő barokk stílusú templom 1765-ben épült a Szapáry család támogatásával. Belseje értékes freskókat és 18. század közepi főoltárképet őriz.",
+                  "category": "historical",
+                  "coords": [
+                        16.7225,
+                        46.4332
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Világháborús emlékmű",
+                  "text": "A város központjában álló emlékmű klasszikus szoborcsoporttal állít emléket az első világháborúban elesett helyi katonáknak.",
+                  "category": "civic",
+                  "coords": [
+                        16.7241,
+                        46.4351
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelul Andrássy-Szapáry și Parcul",
+                  "text": "Acest conac baroc servește astăzi drept centru cultural și este înconjurat de un parc dendrologic vast. Este locul principal pentru evenimentele comunității din Letenye.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Platanul de 500 de ani",
+                  "text": "Situat în parcul castelului, acest platan uriaș este unul dintre cele mai vechi din Ungaria. A reprezentat țara în competiția Arborele European al Anului în 2011.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Biblioteca Makovecz",
+                  "text": "O clădire unică din lemn, proiectată de renumitul arhitect Imre Makovecz în stil organic. Arhitectura sa spectaculoasă este o atracție majoră pentru vizitatorii orașului.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Băile Termale Letenye",
+                  "text": "Un complex de agrement cu ape termale și camping, ideal pentru relaxare în familie. Se află în proximitatea punctului de trecere a frontierei cu Croația.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Malul Râului Mura",
+                  "text": "Râul Mura oferă peisaje naturale sălbatice și oportunități excelente pentru pescuit și drumeții prin pădurile de luncă.",
+                  "category": "natural",
+                  "confidence": "medium",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Biserica Sfânta Treime",
+                  "text": "Biserica în stil baroc târziu a fost construită în 1765 cu sprijinul familiei Szapáry. Interiorul său păstrează fresce valoroase și un tablou de altar de la mijlocul secolului al XVIII-lea.",
+                  "category": "historical",
+                  "coords": [
+                        16.7225,
+                        46.4332
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Monumentul Războiului",
+                  "text": "Monumentul din centrul orașului onorează soldații locali căzuți în Primul Război Mondial printr-un grup statuar clasic.",
+                  "category": "civic",
+                  "coords": [
+                        16.7241,
+                        46.4351
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Andrássy-Szapáry Mansion and Park",
+                  "text": "A Baroque-style mansion that currently serves as a cultural center, surrounded by a large, well-maintained park. It is the historical heart of the town.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "500-year-old Plane Tree",
+                  "text": "A giant maple-leaved plane tree located in the castle park. It is one of the oldest and largest trees in the region and represented Hungary in the European Tree of the Year contest in 2011.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Makovecz Library",
+                  "text": "A unique wooden building designed by the famous architect Imre Makovecz in his signature organic style. It is a stunning example of contemporary Hungarian architecture.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Letenye Thermal Bath",
+                  "text": "A friendly local spa with thermal pools and a campsite. It is a popular spot for relaxation for both locals and travelers crossing the nearby Croatian border.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Banks of the Mura River",
+                  "text": "The river Mura provides a wild natural setting for fishing, cycling, and hiking through pristine floodplains and forests.",
+                  "category": "natural",
+                  "confidence": "medium",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Holy Trinity Church",
+                  "text": "The late Baroque church was built in 1765 with the support of the Szapáry family. Its interior preserves valuable frescoes and an altar painting from the mid-18th century.",
+                  "category": "historical",
+                  "coords": [
+                        16.7225,
+                        46.4332
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "War Memorial",
+                  "text": "Standing in the town center, this monument commemorates local soldiers who fell in World War I with a classical statue group.",
+                  "category": "civic",
+                  "coords": [
+                        16.7241,
+                        46.4351
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            }
+      ]
+}
   },
   {
     id: "city-zalalovo-extra",
@@ -2209,6 +9070,288 @@ export const poiExtraHu1: POI[] = [
       ro: ["În epoca romană, orașul se numea Salla și era pe Drumul Chihlimbarului", "Orașul este situat pe ambele maluri ale râului Zala", "Muzeul în aer liber prezintă vestigii romane din secolele I-IV", "Zalalövő a redobândit statutul de oraș în anul 2000", "Așezarea este considerată poarta de est a regiunii Őrség", "Numele provine de la trăgătorii (arcașii) care păzeau granița medievală"],
       en: ["In Roman times, the town was known as Salla on the Amber Road", "The city is located on both banks of the Zala River in West Hungary", "The open-air archaeological site displays ruins from the 1st-4th centuries", "Zalalövő officially regained its city status in the year 2000", "The settlement serves as the eastern entrance to the Őrség region", "The name 'Lövő' refers to the medieval archers who guarded the border"],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Archäologischer Park Aelium Salla",
+                  "text": "In diesem Park können die Überreste einer bedeutenden römischen Siedlung besichtigt werden. Eine Ausstellung zeigt wertvolle Funde aus der Antike und informiert über das Leben an der Bernsteinstraße.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Borostyán-See",
+                  "text": "Ein 35 Hektar großer künstlicher See mit sauberem Wasser, der zum Baden, Bootfahren und Angeln einlädt. Sein Name erinnert an die historische Bernsteinstraße, die hier verlief.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Allerheiligenkirche",
+                  "text": "Diese mittelalterliche Kirche im Stadtteil Zalamindszent bewahrt romanische und gotische Bauelemente. Sie ist eines der ältesten Baudenkmäler im Zala-Tal.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Heimatmuseum (Tájház)",
+                  "text": "Ein traditionelles Bauernhaus aus dem 19. Jahrhundert, das die ländliche Architektur und Lebensweise der Göcsej-Region anschaulich präsentiert.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Borosán-Tal und Heiliger Brunnen",
+                  "text": "Ein malerisches Waldtal mit einer Kapelle und einer als heilig verehrten Quelle. Es ist ein beliebter Ort für Wanderer und Pilger auf dem Martinusweg.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "St.-Ladislaus-Kirche",
+                  "text": "Die neugotische Kirche wurde zwischen 1924 und 1927 im Stadtzentrum errichtet. Sie besticht durch ihre farbenfrohen Glasfenster und den kunstvoll geschnitzten Hauptaltar.",
+                  "category": "historical",
+                  "coords": [
+                        16.5855,
+                        46.8481
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "St.-Anna-Kirche",
+                  "text": "Die barocke Kirche im Stadtteil Zalamindszent wurde zwischen 1747 und 1749 erbaut. Sie ist ein schlichtes Beispiel für die sakrale Architektur des 18. Jahrhunderts in der Region.",
+                  "category": "historical",
+                  "coords": [
+                        16.5985,
+                        46.8442
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Denkmal für die Opfer des Zweiten Weltkriegs",
+                  "text": "Dieses 1989 eingeweihte Werk des Bildhauers Péter Szabolcs aus Bronze erinnert an die lokalen Opfer des Krieges.",
+                  "category": "civic",
+                  "coords": [
+                        16.5845,
+                        46.8492
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aelium Salla régészeti park",
+                  "text": "Az egykori római város maradványait bemutató kiállítóhely, ahol a Borostyánút menti ókori élet emlékeit fedezhetik fel a látogatók. A parkban egy modern múzeumi épület is helyet kapott.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Borostyán-tó",
+                  "text": "A város határában fekvő 35 hektáros víztározó kristálytiszta vízzel várja a strandolókat és a horgászokat. A partján kemping és szabadidős központ is található.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Mindenszentek-templom",
+                  "text": "Középkori eredetű, román és gótikus stílusjegyeket őrző műemlék templom a Zala folyó völgyében. Építészeti részletei a település ősi múltjáról tanúskodnak.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Zalalövői Tájház",
+                  "text": "A 19. századi népi építészet remekműve, amely a Göcsej és az Őrség határvidékének paraszti életmódját és berendezési tárgyait mutatja be.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Borosán-völgy és Szentkút",
+                  "text": "Hangulatos erdei kegyhely egy forrással és egy kápolnával. Kedvelt kirándulóhely, amely érinti a Szent Márton európai kulturális útvonalat is.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Szent László-templom",
+                  "text": "A város központjában álló neogótikus templom 1924 és 1927 között épült. Színes üvegablakai és faragott főoltára a templom belső terének legfőbb díszei.",
+                  "category": "historical",
+                  "coords": [
+                        16.5855,
+                        46.8481
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Szent Anna-templom",
+                  "text": "A barokk stílusú templom 1747 és 1749 között épült Zalamindszent városrészben. Az épület hűen őrzi a 18. századi zalai szakrális építészet egyszerűségét.",
+                  "category": "historical",
+                  "coords": [
+                        16.5985,
+                        46.8442
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Második világháborús emlékmű",
+                  "text": "Szabolcs Péter szobrászművész 1989-ben felavatott bronz alkotása a világháború helyi áldozatainak állít emléket.",
+                  "category": "civic",
+                  "coords": [
+                        16.5845,
+                        46.8492
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parcul Arheologic Aelium Salla",
+                  "text": "Prezintă ruinele unei așezări romane importante situate pe Drumul Chihlimbarului. Expoziția include artefacte antice și oferă o incursiune în istoria provinciei Pannonia.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Lacul Borostyán",
+                  "text": "Un lac artificial de 35 de hectare cu apă curată, perfect pentru scăldat, plimbări cu barca și pescuit. Numele său provine de la vechiul drum al chihlimbarului care trecea prin zonă.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Biserica Tuturor Sfinților",
+                  "text": "O biserică medievală situată în valea râului Zala, care păstrează elemente arhitecturale romanice și gotice. Este un monument istoric deosebit de bine conservat.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Casa Tradițională (Tájház)",
+                  "text": "O casă țărănească autentică din secolul al XIX-lea, transformată în muzeu. Expune stilul de viață și obiectele de uz casnic specifice regiunilor Göcsej și Őrség.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Valea Borosán și Fântâna Sfântă",
+                  "text": "Un loc de pelerinaj situat într-o pădure liniștită, cu un izvor considerat tămăduitor. Este un punct important pe ruta culturală europeană Sfântul Martin.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Biserica Sfântul Ladislau",
+                  "text": "Biserica neogotică situată în centrul orașului a fost construită între 1924 și 1927. Vitraliile colorate și altarul principal sculptat sunt principalele podoabe ale interiorului.",
+                  "category": "historical",
+                  "coords": [
+                        16.5855,
+                        46.8481
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Biserica Sfânta Ana",
+                  "text": "Biserica în stil baroc a fost construită între 1747 și 1749 în cartierul Zalamindszent. Clădirea păstrează simplitatea arhitecturii sacre din secolul al XVIII-lea din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        16.5985,
+                        46.8442
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Monumentul victimelor celui de-al Doilea Război Mondial",
+                  "text": "Această operă din bronz a sculptorului Péter Szabolcs, inaugurată în 1989, comemorează victimele locale ale războiului.",
+                  "category": "civic",
+                  "coords": [
+                        16.5845,
+                        46.8492
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aelium Salla Archaeological Park",
+                  "text": "The park showcases the remains of an important Roman settlement located along the ancient Amber Road. The exhibition includes artifacts and reconstructed ruins of the former Roman town.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Lake Borostyán",
+                  "text": "A 35-hectare lake with clear water, ideal for swimming, boating, and fishing. It is a popular summer destination named after the historic Amber Road.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "All Saints' Church",
+                  "text": "A medieval church with Romanesque and Gothic architectural features. It is one of the oldest monuments in the Zala River valley, dating back centuries.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Local History House (Tájház)",
+                  "text": "A 19th-century folk monument house presenting the traditional peasant life and architecture of the Göcsej region.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Borosán Valley and Holy Well",
+                  "text": "A scenic forest shrine with a holy well and a chapel. It is a peaceful hiking destination and part of the Saint Martin European Cultural Route.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "St. Ladislaus Church",
+                  "text": "This Neo-Gothic church in the town center was built between 1924 and 1927. Its stained glass windows and carved main altar are the primary decorations of the interior.",
+                  "category": "historical",
+                  "coords": [
+                        16.5855,
+                        46.8481
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "St. Anne's Church",
+                  "text": "The Baroque-style church was built between 1747 and 1749 in the Zalamindszent district. It faithfully preserves the simplicity of 18th-century sacred architecture in the Zala region.",
+                  "category": "historical",
+                  "coords": [
+                        16.5985,
+                        46.8442
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "World War II Memorial",
+                  "text": "A bronze work by sculptor Péter Szabolcs, inaugurated in 1989, this monument commemorates the local victims of the world war.",
+                  "category": "civic",
+                  "coords": [
+                        16.5845,
+                        46.8492
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            }
+      ]
+}
   },
   {
     id: "geo-kisbalaton-extra",
