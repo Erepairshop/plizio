@@ -1825,14 +1825,7 @@ export const hungaryCities: POI[] = [
                   "text": "Die historische Residenz der ungarischen Könige auf dem Burgberg beherbergt heute die Nationalgalerie und das Historische Museum.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/budapest-city-burgpalast.webp",
-                  "image_attribution": {
-                        "author": "grozsa11",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=28099266016355261",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Fischerbastei",
@@ -1846,28 +1839,14 @@ export const hungaryCities: POI[] = [
                   "text": "Eine prachtvolle Krönungskirche mit farbenfrohen Ziegeldächern und einer reichen Geschichte im Herzen des Burgviertels.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/budapest-city-matthiaskirche.webp",
-                  "image_attribution": {
-                        "author": "kami911",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1166436740471241",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Széchenyi-Heilbad",
                   "text": "Eines der größten Thermalbadkomplexe Europas, bekannt für seine beeindruckende neobarocke Architektur und die heißen Außenbecken.",
                   "category": "recreational",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/budapest-city-szechenyi-heilbad.webp",
-                  "image_attribution": {
-                        "author": "grozsa11",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1038038171480716",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             },
             {
                   "name": "Heldenplatz",
@@ -1881,14 +1860,7 @@ export const hungaryCities: POI[] = [
                   "text": "Ein riesiges neugotisches Gebäude, in dem man ungarische Spezialitäten, frische Lebensmittel und Souvenirs auf mehreren Etagen kaufen kann.",
                   "category": "civic",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/budapest-city-grosse-markthalle.webp",
-                  "image_attribution": {
-                        "author": "grozsa11",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1258250972626269",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "St.-Stephans-Basilika",
@@ -1902,84 +1874,42 @@ export const hungaryCities: POI[] = [
                   "text": "Ein weitläufiger Park mit dem Schloss Vajdahunyad, dem Zoo, dem Zirkus und zahlreichen Spazierwegen.",
                   "category": "natural",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/budapest-city-stadtwaeldchen.webp",
-                  "image_attribution": {
-                        "author": "grozsa11",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1240781353801997",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Kettenbrücke",
                   "text": "Die älteste und bekannteste Brücke der Stadt, die Buda und Pest verbindet und von majestätischen Steinlöwen bewacht wird.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/budapest-city-kettenbruecke.webp",
-                  "image_attribution": {
-                        "author": "grozsa11",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1308614853518771",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Ungarische Staatsoper",
                   "text": "Ein prächtiges Gebäude im Neorenaissancestil an der Andrássy-Straße, bekannt für seine Akustik und prunkvolle Innenausstattung.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/budapest-city-ungarische-staatsoper.webp",
-                  "image_attribution": {
-                        "author": "grozsa11",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1028709188806619",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Zitadelle und Freiheitsstatue",
                   "text": "Auf dem Gipfel des Gellértbergs gelegen, bieten diese Denkmäler einen spektakulären Rundblick über die gesamte Stadt.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/budapest-city-zitadelle-und-freiheitsstatue.webp",
-                  "image_attribution": {
-                        "author": "toebee",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=300290798400298",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Margareteninsel",
                   "text": "Eine grüne Oase inmitten der Donau mit einem Musikbrunnen, mittelalterlichen Ruinen und einem japanischen Garten.",
                   "category": "natural",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/budapest-city-margareteninsel.webp",
-                  "image_attribution": {
-                        "author": "grozsa11",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1226970302315987",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "New York Kávéház",
                   "text": "Oft als das schönste Café der Welt bezeichnet, beeindruckt es durch seinen luxuriösen Golddekor und die Atmosphäre des 19. Jahrhunderts.",
                   "category": "culinary",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/budapest-city-new-york-kavehaz.webp",
-                  "image_attribution": {
-                        "author": "grozsa11",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1224257378630829",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Schuhe am Donauufer",
@@ -3454,126 +3384,63 @@ export const hungaryCities: POI[] = [
                   "text": "Ein monumentales vier-türmiges Bauwerk mit romanischen Wurzeln und einer beeindruckenden Innenausstattung.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/pecs-kathedrale-st-peter-und-paul.webp",
-                  "image_attribution": {
-                        "author": "domcsi",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=158844879577296",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Moschee von Pascha Qasim",
                   "text": "Einst eine osmanische Moschee, dient das Gebäude heute als katholische Kirche und ist ein Symbol der wechselvollen Geschichte der Stadt.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/pecs-moschee-von-pascha-qasim.webp",
-                  "image_attribution": {
-                        "author": "domcsi",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1450010348692629",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Frühchristliche Nekropole (Sopianae)",
                   "text": "Ein UNESCO-Weltkulturerbe mit spätantiken Grabkammern und Wandmalereien aus dem 4. Jahrhundert.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/pecs-fruehchristliche-nekropole-sopianae.webp",
-                  "image_attribution": {
-                        "author": "keresztvolgyi",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=4128115360583290",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Zsolnay-Kulturviertel",
                   "text": "Auf dem Gelände der weltberühmten Porzellanmanufaktur gelegen, bietet es Museen, Ausstellungen und wunderschöne Keramikfassaden.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/pecs-zsolnay-kulturviertel.webp",
-                  "image_attribution": {
-                        "author": "vst",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=217330983259431",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Széchenyi-Platz",
                   "text": "Der zentrale Platz von Pécs, gesäumt von historischen Gebäuden, Statuen und gemütlichen Cafés.",
                   "category": "civic",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/pecs-szechenyi-platz.webp",
-                  "image_attribution": {
-                        "author": "domcsi",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=657608701736897",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Barbakán",
                   "text": "Ein kreisrunder Wehrturm aus dem 15. Jahrhundert, der Teil der alten Stadtbefestigung war und heute einen Garten besitzt.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/pecs-barbakan.webp",
-                  "image_attribution": {
-                        "author": "chrisbeddow",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=513902623310353",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Nationaltheater Pécs",
                   "text": "Ein prachtvolles eklektisches Gebäude am Ende der Király-Straße, bekannt für seine hochwertige Akustik und Aufführungen.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/pecs-nationaltheater-pecs.webp",
-                  "image_attribution": {
-                        "author": "geox123",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=301451248228826",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Victor Vasarely Museum",
                   "text": "Das Geburtshaus des weltberühmten Begründers der Op-Art beherbergt eine umfangreiche Sammlung seiner geometrischen Kunstwerke.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/pecs-victor-vasarely-museum.webp",
-                  "image_attribution": {
-                        "author": "chrisbeddow",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=220528046544920",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             },
             {
                   "name": "Mecsek-Zoo",
                   "text": "Ein familienfreundlicher Tierpark in den bewaldeten Hängen des Mecsek-Gebirges mit einer Vielzahl von Tieren und einem Aquarium.",
                   "category": "family",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/pecs-mecsek-zoo.webp",
-                  "image_attribution": {
-                        "author": "geox123",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=222372909691376",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             },
             {
                   "name": "Fernsehturm Pécs",
@@ -3624,14 +3491,7 @@ export const hungaryCities: POI[] = [
                   "text": "A 15. századi püspökvár kör alakú bástyája, amely a középkori városfalak egyik leglátványosabb megmaradt része.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/pecs-barbakan.webp",
-                  "image_attribution": {
-                        "author": "chrisbeddow",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=513902623310353",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Pécsi Nemzeti Színház",
@@ -3703,14 +3563,7 @@ export const hungaryCities: POI[] = [
                   "text": "Un turn de apărare circular din secolul al XV-lea, care făcea parte din fortificațiile palatului episcopal.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/pecs-barbakan.webp",
-                  "image_attribution": {
-                        "author": "chrisbeddow",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=513902623310353",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Teatrul Național din Pécs",
@@ -3782,14 +3635,7 @@ export const hungaryCities: POI[] = [
                   "text": "A 15th-century circular defense bastion that was once part of the episcopal castle's fortifications.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/pecs-barbakan.webp",
-                  "image_attribution": {
-                        "author": "chrisbeddow",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=513902623310353",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "National Theatre of Pécs",
@@ -4240,84 +4086,42 @@ export const hungaryCities: POI[] = [
                   "text": "Ein interaktives Museum, das dem berühmten Busójárás-Karneval gewidmet ist und Masken sowie Kostüme des UNESCO-Kulturerbes zeigt.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/mohacs-buso-hof-busoudvar.webp",
-                  "image_attribution": {
-                        "author": "utvonalfelmeresek",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1385642685125992",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Votivkirche (Fogadalmi templom)",
                   "text": "Ein monumentales Kuppelgebäude auf dem Hauptplatz, das zum Gedenken an die Schlacht von Mohács errichtet wurde.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/mohacs-votivkirche-fogadalmi-templom.webp",
-                  "image_attribution": {
-                        "author": "utvonalfelmeresek",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=3940699552714288",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Rathaus von Mohács",
                   "text": "Ein prächtiges Gebäude am Széchenyi-Platz, das im orientalischen Stil erbaut wurde und die Stadtverwaltung beherbergt.",
                   "category": "civic",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/mohacs-rathaus-von-mohacs.webp",
-                  "image_attribution": {
-                        "author": "utvonalfelmeresek",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=482064973214551",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             },
             {
                   "name": "Donaulände",
                   "text": "Ein malerischer Spazierweg am Flussufer, von dem aus man die Schifffahrt beobachten und den großen Donau-Kanal sehen kann.",
                   "category": "natural",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/mohacs-donaulaende.webp",
-                  "image_attribution": {
-                        "author": "utvonalfelmeresek",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=876692709546793",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             },
             {
                   "name": "Serbisch-Orthodoxe Kirche",
                   "text": "Ein historisches Sakralgebäude, das an die bedeutende serbische Minderheit erinnert, die die Geschichte der Stadt mitgeprägt hat.",
                   "category": "historical",
                   "confidence": "medium",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/mohacs-serbisch-orthodoxe-kirche.webp",
-                  "image_attribution": {
-                        "author": "magyarsi",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=479824294430837",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             },
             {
                   "name": "Kanizsai Dorottya Museum",
                   "text": "Ein regionales Museum, das die Volkskunst und das kulturelle Erbe der verschiedenen ethnischen Gruppen in der Region Mohács präsentiert.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/mohacs-kanizsai-dorottya-museum.webp",
-                  "image_attribution": {
-                        "author": "utvonalfelmeresek",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=180064877314391",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "St. Nikolaus Wassermühle",
@@ -4581,14 +4385,7 @@ export const hungaryCities: POI[] = [
                   "text": "A museum displaying regional folk art, ethnography, and history, with a focus on the diverse cultures of the Mohács area.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/mohacs-kanizsai-dorottya-museum.webp",
-                  "image_attribution": {
-                        "author": "utvonalfelmeresek",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=180064877314391",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "St. Nicholas Water Mill",
@@ -5138,112 +4935,56 @@ export const hungaryCities: POI[] = [
                   "text": "Ein Meisterwerk des ungarischen Jugendstils von Ödön Lechner, bekannt für sein Glockenspiel und die farbenfrohen Zsolnay-Keramiken.",
                   "category": "civic",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/kecskemet-rathaus-von-kecskemet.webp",
-                  "image_attribution": {
-                        "author": "Antissimo",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=178179338550684",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Cifra-Palast (Cifrapalota)",
                   "text": "Ein ikonisches Gebäude mit reich verzierten Majolika-Fassaden, das heute eine Kunstgalerie beherbergt.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/kecskemet-cifra-palast-cifrapalota.webp",
-                  "image_attribution": {
-                        "author": "vst",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1557047197822709",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Große Kirche (Alte Kirche)",
                   "text": "Die größte spätbarocke Kirche der Region, die das Stadtbild mit ihrem massiven Turm prägt.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/kecskemet-grosse-kirche-alte-kirche.webp",
-                  "image_attribution": {
-                        "author": "Antissimo",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=286059853843495",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Katona József Theater",
                   "text": "Ein elegantes Theatergebäude im eklektischen Stil, benannt nach dem berühmten Dramatiker aus Kecskemét.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/kecskemet-katona-jozsef-theater.webp",
-                  "image_attribution": {
-                        "author": "Antissimo",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=957155605514433",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Ungarisches Fotomuseum",
                   "text": "Das einzige Museum dieser Art in Ungarn, das eine umfangreiche Sammlung historischer Fotografien und Kameras zeigt.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/kecskemet-ungarisches-fotomuseum.webp",
-                  "image_attribution": {
-                        "author": "Antissimo",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=2897730597284387",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Leskowsky-Musikinstrumentensammlung",
                   "text": "Ungarns größte Sammlung von Musikinstrumenten, die viele kuriose und seltene Exponate zum Klingen bringt.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/kecskemet-leskowsky-musikinstrumentensammlung.webp",
-                  "image_attribution": {
-                        "author": "geox123",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1202340433541279",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             },
             {
                   "name": "Kecskemét Wildpark",
                   "text": "Ein kleiner, aber feiner Zoo, der sich besonders für Familien eignet und viele heimische Tierarten präsentiert.",
                   "category": "family",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/kecskemet-kecskemet-wildpark.webp",
-                  "image_attribution": {
-                        "author": "vst",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=342480481666666",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             },
             {
                   "name": "Bozsó-Sammlung",
                   "text": "Ein Museum in einem historischen Bürgerhaus, das Möbel, Volkskunst und religiöse Kunstschätze aus mehreren Jahrhunderten zeigt.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/kecskemet-bozso-sammlung.webp",
-                  "image_attribution": {
-                        "author": "vst",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1127422487777900",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             }
       ],
       "hu": [
@@ -5456,98 +5197,49 @@ export const hungaryCities: POI[] = [
                   "text": "Eine prächtige Barockkathedrale, die auf den Fundamenten früherer Kirchen steht und das geistige Zentrum der Erzdiözese bildet.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/kalocsa-dom-zu-kalocsa.webp",
-                  "image_attribution": {
-                        "author": "dszalont",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1116472882197574",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Erzbischöflicher Palais",
                   "text": "Ein prunkvolles Gebäude neben dem Dom, das eine bedeutende Bibliothek und wertvolle Kunstschätze beherbergt.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/kalocsa-erzbischoeflicher-palais.webp",
-                  "image_attribution": {
-                        "author": "dszalont",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=319798846428751",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Ungarisches Paprika-Museum",
                   "text": "In der Stadt des 'roten Goldes' zeigt dieses Museum die Geschichte und Verarbeitung des weltberühmten Kalocsaer Paprikas.",
                   "category": "culinary",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/kalocsa-ungarisches-paprika-museum.webp",
-                  "image_attribution": {
-                        "author": "dszalont",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=497475464783326",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Haus der Volkskunst (Tájház)",
                   "text": "Ein authentisches Bauernhaus, das die berühmte Kalocsaer Stickerei, Malerei und die traditionelle bäuerliche Lebensweise zeigt.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/kalocsa-haus-der-volkskunst-tajhaz.webp",
-                  "image_attribution": {
-                        "author": "dszalont",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1116472882197574",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Kalocsaer Porzellanmanufaktur",
                   "text": "Besucher können hier die Handbemalung von Porzellan mit den typischen floralen Motiven der Region beobachten.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/kalocsa-kalocsaer-porzellanmanufaktur.webp",
-                  "image_attribution": {
-                        "author": "dszalont",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=930192187773051",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             },
             {
                   "name": "Csajda-Heilbad",
                   "text": "Ein lokales Thermalbad mit heilkräftigem Wasser, das ideal zur Entspannung und Behandlung von Gelenkbeschwerden ist.",
                   "category": "recreational",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/kalocsa-csajda-heilbad.webp",
-                  "image_attribution": {
-                        "author": "tracker",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=791014596492269",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Nicolas Schöffer Sammlung",
                   "text": "Ein Museum, das dem in Kalocsa geborenen Pionier der kybernetischen und Lichtkunst gewidmet ist.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/kalocsa-nicolas-schoeffer-sammlung.webp",
-                  "image_attribution": {
-                        "author": "dszalont",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=497475464783326",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Rathaus von Kalocsa",
@@ -6188,14 +5880,7 @@ export const hungaryCities: POI[] = [
                   "text": "Das Museum beherbergt die weltweit größte Sammlung von Werken des berühmten Malers Mihály Munkácsy, der hier seine Kindheit verbrachte. Es präsentiert zudem reiche völkerkundliche Schätze aus dem Komitat Békés.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/bekescsaba-munkacsy-mihaly-museum.webp",
-                  "image_attribution": {
-                        "author": "vst",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1374267149941566",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Árpád Heil- und Strandbad",
@@ -6209,42 +5894,21 @@ export const hungaryCities: POI[] = [
                   "text": "Ein interaktives Ausstellungszentrum, das mit den märchenhaften Skulpturen und Grafiken von Mihály Schéner geschmückt ist. Es ist ein besonderes Erlebnis für Familien und Kinder.",
                   "category": "family",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/bekescsaba-maerchenhaus-mesehaz.webp",
-                  "image_attribution": {
-                        "author": "vst",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1824173628107029",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Slowakisches Heimathaus",
                   "text": "Ein authentisches Bauernhaus aus dem 19. Jahrhundert, das die Architektur und Lebensweise der hier lebenden slowakischen Minderheit dokumentiert. Die Inneneinrichtung zeigt originale Möbel und Textilien.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/bekescsaba-slowakisches-heimathaus.webp",
-                  "image_attribution": {
-                        "author": "geox123",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=834542837145982",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Jókai-Theater",
                   "text": "Das erste steinerne Theater der Tiefebene, erbaut Ende des 19. Jahrhunderts. Das prächtige Gebäude ist das kulturelle Zentrum der Region mit einem vielfältigen Spielplan.",
                   "category": "civic",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/bekescsaba-jokai-theater.webp",
-                  "image_attribution": {
-                        "author": "pppetra",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=788320295220324",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             }
       ],
       "hu": [
@@ -6348,14 +6012,7 @@ export const hungaryCities: POI[] = [
                   "text": "Home to the world's largest collection of works by the famous painter Mihály Munkácsy, who spent his childhood here. The museum also showcases rich archaeological and ethnographic artifacts of Békés County.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/bekescsaba-munkacsy-mihaly-museum.webp",
-                  "image_attribution": {
-                        "author": "vst",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1374267149941566",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Árpád Spa and Thermal Baths",
@@ -6430,84 +6087,42 @@ export const hungaryCities: POI[] = [
                   "text": "Ein renoviertes Barockschloss mit einer interaktiven Ausstellung, die das Leben des Adels und des Dienstpersonals im 18. und 19. Jahrhundert zeigt.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/gyula-almasy-schloss-besucherzentrum.webp",
-                  "image_attribution": {
-                        "author": "utvonalfelmeresek",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=228756142361018",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             },
             {
                   "name": "Hundertjährige Konditorei",
                   "text": "Die 1840 gegründete Konditorei ist die zweitälteste Ungarns und bewahrt ihre ursprüngliche Biedermeier-Einrichtung sowie traditionelle Rezepte.",
                   "category": "culinary",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/gyula-hundertjaehrige-konditorei.webp",
-                  "image_attribution": {
-                        "author": "vst",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=321691697258611",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             },
             {
                   "name": "Ferenc-Erkel-Gedenkhaus",
                   "text": "Das Geburtshaus des Komponisten der ungarischen Nationalhymne präsentiert persönliche Gegenstände und Dokumente zur Musikgeschichte der Region.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/gyula-ferenc-erkel-gedenkhaus.webp",
-                  "image_attribution": {
-                        "author": "geox123",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=325165948962884",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             },
             {
                   "name": "Rumänisch-Orthodoxe Kathedrale St. Nikolaus",
                   "text": "Die 1802 erbaute klassizistische Kirche ist das geistliche Zentrum der rumänischen Minderheit in Ungarn und besitzt eine reiche Ikonostase.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/gyula-rumaenisch-orthodoxe-kathedrale-st-nikolaus.webp",
-                  "image_attribution": {
-                        "author": "geox123",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=805620340354944",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             },
             {
                   "name": "Ladics-Haus",
                   "text": "Ein bürgerliches Wohnhaus aus dem 19. Jahrhundert, das die Lebensweise und Einrichtung einer ungarischen Beamtenfamilie über mehrere Generationen zeigt.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/gyula-ladics-haus.webp",
-                  "image_attribution": {
-                        "author": "vst",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1479732919647167",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             },
             {
                   "name": "Schneckengarten (Csigakert)",
                   "text": "Ein malerischer Park auf dem ehemaligen Gelände des Almásy-Anwesens, der ideal für Spaziergänge unter jahrhundertealten Bäumen ist.",
                   "category": "natural",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/gyula-schneckengarten-csigakert.webp",
-                  "image_attribution": {
-                        "author": "pppetra",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=747415589282675",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             }
       ],
       "hu": [
@@ -7163,14 +6778,7 @@ export const hungaryCities: POI[] = [
                   "text": "Die prachtvoll restaurierte Ritterburg war einst die Residenz ungarischer Königinnen. Interaktive Ausstellungen und mittelalterliche Turniere lassen die Geschichte lebendig werden.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/miskolc-burg-diosgyoer.webp",
-                  "image_attribution": {
-                        "author": "knusprig",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1144742812660008",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Lillafüred Palasthotel und Hängegärten",
@@ -7198,28 +6806,14 @@ export const hungaryCities: POI[] = [
                   "text": "Das Museum präsentiert die reiche Geschichte der Region und beherbergt eine bedeutende mineralogische Sammlung sowie Funde aus dem Pannon-Meer.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/miskolc-herman-otto-museum.webp",
-                  "image_attribution": {
-                        "author": "vst",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=295543905449899",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Orthodoxe Kirche und Museum",
                   "text": "Die Kirche beherbergt die größte Ikonostase Mitteleuropas mit 88 Bildern. Das angeschlossene Museum zeigt wertvolle liturgische Gegenstände und Kunstwerke.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/miskolc-orthodoxe-kirche-und-museum.webp",
-                  "image_attribution": {
-                        "author": "kriszbp",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=201815244885493",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             }
       ],
       "hu": [
@@ -7365,14 +6959,7 @@ export const hungaryCities: POI[] = [
                   "text": "The city's main museum, showcasing regional history, a world-class mineral collection, and prehistoric finds from the Pannonian Sea period.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/miskolc-herman-otto-museum.webp",
-                  "image_attribution": {
-                        "author": "vst",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=295543905449899",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Orthodox Church and Museum",
@@ -7968,84 +7555,42 @@ export const hungaryCities: POI[] = [
                   "text": "Die nach dem großen Hochwasser von 1879 errichtete Kathedrale ist das Wahrzeichen von Szeged. Sie verfügt über zwei 81 Meter hohe Türme und eine beeindruckende Orgel mit über 9.000 Pfeifen.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szeged-votivkirche-dom.webp",
-                  "image_attribution": {
-                        "author": "fawkes2",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1180390002891360",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Dömötör-Turm",
                   "text": "Dies ist das älteste Bauwerk der Stadt, dessen Fundamente beim Bau der Votivkirche entdeckt wurden. Der Turm stammt aus dem 11. Jahrhundert und ist heute ein restauriertes Denkmal auf dem Domplatz.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szeged-doemoetoer-turm.webp",
-                  "image_attribution": {
-                        "author": "kami911",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=320541509524795",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Neue Synagoge",
                   "text": "Eine der schönsten und größten Synagogen Europas, die 1903 im Jugendstil mit maurischen und gotischen Elementen erbaut wurde. Besonders beeindruckend ist die Glaskuppel, die den Himmel symbolisiert.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szeged-neue-synagoge.webp",
-                  "image_attribution": {
-                        "author": "molnarb",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=458082359134309",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Széchenyi-Platz und Rathaus",
                   "text": "Einer der größten und schönsten Plätze Ungarns, gesäumt von Statuen und Brunnen. Das neobarocke Rathaus ist bekannt für seine 'Seufzerbrücke', die es mit dem Nachbargebäude verbindet.",
                   "category": "civic",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szeged-szechenyi-platz-und-rathaus.webp",
-                  "image_attribution": {
-                        "author": "esandorhu",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=594151804888361",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Kárász-Straße",
                   "text": "Die Haupteinkaufs- und Fußgängerzone von Szeged, bekannt für ihre prächtigen Gebäude im Stil des Eklektizismus und Jugendstils. Sie ist das lebendige Herz der Innenstadt mit zahlreichen Cafés und Geschäften.",
                   "category": "civic",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szeged-karasz-strasse.webp",
-                  "image_attribution": {
-                        "author": "goprohero",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1761570114513270",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Móra-Ferenc-Museum",
                   "text": "Das imposante Museumsgebäude am Ufer der Theiß beherbergt bedeutende archäologische, ethnografische und naturwissenschaftliche Sammlungen. Es ist nach dem berühmten ungarischen Schriftsteller benannt, der das Museum einst leitete.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szeged-mora-ferenc-museum.webp",
-                  "image_attribution": {
-                        "author": "fawkes2",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=118214600997095",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Szegeder Vadaspark",
@@ -8059,14 +7604,7 @@ export const hungaryCities: POI[] = [
                   "text": "Eine einzigartige Ausstellung über die Geschichte der weltberühmten Pick-Salami und des Szegeder Paprikas. Besucher erfahren hier alles über die traditionellen Herstellungsprozesse dieser ungarischen Spezialitäten.",
                   "category": "culinary",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szeged-pick-salami-und-paprika-museum.webp",
-                  "image_attribution": {
-                        "author": "molnarb",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1175410886256042",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             }
       ],
       "hu": [
@@ -8558,28 +8096,14 @@ export const hungaryCities: POI[] = [
                   "text": "Die im späten 19. Jahrhundert erbaute Synagoge ist die einzige erhaltene orthodoxe Synagoge in Ungarn. Das Gebäude wurde wunderschön restauriert und zeigt die einstige religiöse Bedeutung der Gemeinde.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/mako-orthodoxe-synagoge.webp",
-                  "image_attribution": {
-                        "author": "geox123",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=230688548817028",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Hagymaház (Zwiebelhaus)",
                   "text": "Ein weiteres beeindruckendes Gebäude von Imre Makovecz, das als Kulturzentrum dient. Seine Form erinnert an die berühmte Makóer Zwiebel und ist ein Zentrum für lokales Theater und Veranstaltungen.",
                   "category": "civic",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/mako-hagymahaz-zwiebelhaus.webp",
-                  "image_attribution": {
-                        "author": "geox123",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=468266724464184",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             }
       ],
       "hu": [
@@ -8781,98 +8305,49 @@ export const hungaryCities: POI[] = [
                   "text": "Eine nationale Gedenkstätte an der Stelle der einstigen Krönungsbasilika, in der 37 ungarische Könige gekrönt und 15 beigesetzt wurden. Heute sind die freigelegten Grundmauern und das Mausoleum des heiligen Stephan zu besichtigen.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szekesfehervar-koenigsbasilika-ruinengarten.webp",
-                  "image_attribution": {
-                        "author": "grozsa11",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1015981014076938",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "St.-Stephans-Kathedrale",
                   "text": "Die prächtige Barockkirche steht an der Stelle des mittelalterlichen Krönungsortes. Sie dient als Kathedrale der Diözese und beherbergt bedeutende religiöse Kunstwerke sowie die Gräber von Königen in der Unterkirche.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szekesfehervar-st-stephans-kathedrale.webp",
-                  "image_attribution": {
-                        "author": "grozsa11",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1009414531360596",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Bory-Burg",
                   "text": "Ein märchenhaftes Schloss, das der Bildhauer Jenő Bory über Jahrzehnte hinweg allein errichtete. Die Burg ist ein besonderes Beispiel für symbolische Architektur und beherbergt zahlreiche Skulpturen und Gemälde.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szekesfehervar-bory-burg.webp",
-                  "image_attribution": {
-                        "author": "rieszj",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=225759932284697",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Országalma (Orb-Monument)",
                   "text": "Ein symbolträchtiges Steindenkmal auf dem Rathausplatz, das den königlichen Reichsapfel darstellt. Die lateinische Inschrift erinnert an die Freiheitsrechte, die der heilige Stephan der Stadt verlieh.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szekesfehervar-orszagalma-orb-monument.webp",
-                  "image_attribution": {
-                        "author": "grozsa11",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1024321396018154",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "St.-Anna-Kapelle",
                   "text": "Das einzige gotische Gebäude der Stadt, das die Türkenzeit unbeschadet überstanden hat. Die kleine Kapelle aus dem 15. Jahrhundert ist ein architektonisches Juwel im historischen Zentrum.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szekesfehervar-st-anna-kapelle.webp",
-                  "image_attribution": {
-                        "author": "grozsa11",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1005468795088077",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Bischofspalast",
                   "text": "Ein beeindruckendes spätbarockes (Zopfstil) Gebäude am Rathausplatz, das Ende des 18. Jahrhunderts erbaut wurde. Es beherbergt eine wertvolle kirchliche Bibliothek und ist der Sitz des Bischofs.",
                   "category": "civic",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szekesfehervar-bischofspalast.webp",
-                  "image_attribution": {
-                        "author": "grozsa11",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1005884778406992",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Blumenuhr",
                   "text": "Ein charmantes Wahrzeichen der Stadt, das jedes Jahr mit Tausenden von frischen Blumen bepflanzt wird. Die Uhr zeigt die Zeit präzise an und ist ein beliebter Treffpunkt in der Nähe des Stadtparks.",
                   "category": "civic",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/szekesfehervar-blumenuhr.webp",
-                  "image_attribution": {
-                        "author": "grozsa11",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1014390064164958",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             }
       ],
       "hu": [
@@ -9063,84 +8538,42 @@ export const hungaryCities: POI[] = [
                   "text": "Die Ausstellung präsentiert die Überreste des römischen Militärkastells Intercisa und eine bedeutende Sammlung von Steindenkmälern aus dem 2. bis 4. Jahrhundert. Es ist eine der wichtigsten archäologischen Stätten der Region.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/dunaujvaros-intercisa-museum-und-roemisches-lapidarium.webp",
-                  "image_attribution": {
-                        "author": "abcotncozbsl",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1429887244815191",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Skulpturenpark an der Donau",
                   "text": "Eine einzigartige Freilichtausstellung monumentaler Stahlskulpturen, die das industrielle Erbe der Stadt mit moderner Kunst verbinden. Der Park erstreckt sich entlang des malerischen Donauufers.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/dunaujvaros-skulpturenpark-an-der-donau.webp",
-                  "image_attribution": {
-                        "author": "osminng",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1280227867118145",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Evangelische Kirche",
                   "text": "Ein modernes, preisgekröntes Backsteingebäude mit ovalem Grundriss, entworfen von Tamás Nagy. Die organischen Formen symbolisieren Unendlichkeit und das Leben.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/dunaujvaros-evangelische-kirche.webp",
-                  "image_attribution": {
-                        "author": "Winner_hun",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1372346144015514",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Serbisch-Orthodoxe Kirche",
                   "text": "Diese Barockkirche aus dem Jahr 1696 ist eines der ältesten Gebäude der Stadt und verfügt über eine wertvolle Ikonostase. Sie zeugt von der frühen Besiedlung durch serbische Kaufleute.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/dunaujvaros-serbisch-orthodoxe-kirche.webp",
-                  "image_attribution": {
-                        "author": "abcotncozbsl",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1482452742735598",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Reformierte Kirche",
                   "text": "Ein markantes Gebäude mit einer Stahlkonstruktion, die auf die lokale Eisen- und Stahlindustrie anspielt. Das Innere ist mit reformierter Symbolik gestaltet.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/dunaujvaros-reformierte-kirche.webp",
-                  "image_attribution": {
-                        "author": "Winner_hun",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=2457267757971015",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Dunaferr-Stahlwerk",
                   "text": "Das größte Stahlwerk Ungarns prägt das Stadtbild und die Geschichte der ehemaligen Stalinstadt. Ein bedeutendes Industriedenkmal der ungarischen Moderne.",
                   "category": "historical",
                   "confidence": "medium",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/dunaujvaros-dunaferr-stahlwerk.webp",
-                  "image_attribution": {
-                        "author": "pattka",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=3078298759100569",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             }
       ],
       "hu": [
@@ -9831,112 +9264,56 @@ export const hungaryCities: POI[] = [
                   "text": "Das Wahrzeichen von Sopron wurde auf römischen Ruinen erbaut und bietet einen fantastischen Blick über die Stadt. Das barocke Tor unter dem Turm wird als Tor der Treue bezeichnet.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/sopron-feuerturm-tueztorony.webp",
-                  "image_attribution": {
-                        "author": "blaszlo",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=271141798023915",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Hauptplatz (Fő tér)",
                   "text": "Ein harmonisches Ensemble aus mittelalterlichen und barocken Gebäuden, darunter das Rathaus und die Mariensäule. Hier schlägt das historische Herz der Stadt.",
                   "category": "civic",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/sopron-hauptplatz-foe-ter.webp",
-                  "image_attribution": {
-                        "author": "robot8a",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1220697125439357",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Geißkirche (Kecske-templom)",
                   "text": "Diese gotische Kirche war Schauplatz von Krönungen und Landtagen. Ihren Namen verdankt sie einer Legende über einen Ziegenhirten, der einen Schatz fand, mit dem der Bau finanziert wurde.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/sopron-geisskirche-kecske-templom.webp",
-                  "image_attribution": {
-                        "author": "blaszlo",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=271141798023915",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Storno-Haus",
                   "text": "Eines der prächtigsten Palasthäuser am Hauptplatz, das eine bedeutende Kunstsammlung der Familie Storno beherbergt. Es ist bekannt für seine reiche Fassade und historische Einrichtung.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/sopron-storno-haus.webp",
-                  "image_attribution": {
-                        "author": "robot8a",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=378920664209541",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Sankt-Michael-Kirche",
                   "text": "Eine imposante gotische Hallenkirche aus dem 13. Jahrhundert, die auf einem Hügel über der Stadt thront. Neben der Kirche befindet sich die ebenfalls gotische Jakobus-Kapelle.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/sopron-sankt-michael-kirche.webp",
-                  "image_attribution": {
-                        "author": "grozsa11",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1019831933119409",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Lőverek (Löweneck)",
                   "text": "Das hügelige Erholungsgebiet von Sopron ist bekannt für seine reine Luft, Villenviertel und Wanderwege. Es ist ein beliebtes Ziel für Naturfreunde und Sportler.",
                   "category": "natural",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/sopron-loeverek-loeweneck.webp",
-                  "image_attribution": {
-                        "author": "grozsa11",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=475212098463058",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Alte Synagoge",
                   "text": "Eine der ältesten erhaltenen Synagogen Europas aus dem 14. Jahrhundert im Herzen des jüdischen Viertels. Sie dient heute als Museum für jüdische Geschichte.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/sopron-alte-synagoge.webp",
-                  "image_attribution": {
-                        "author": "blaszlo",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=271141798023915",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Harrers Schokoladenwerkstatt",
                   "text": "Eine familiengeführte Manufaktur, die für ihre handgemachten Pralinen und Schokoladenverkostungen bekannt ist. Ein Muss für kulinarische Genießer.",
                   "category": "culinary",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/sopron-harrers-schokoladenwerkstatt.webp",
-                  "image_attribution": {
-                        "author": "kriszbp",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=248079720376768",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             }
       ],
       "hu": [
@@ -10228,56 +9605,28 @@ export const hungaryCities: POI[] = [
                   "text": "Das Wahrzeichen von Debrecen und die größte calvinistische Kirche Ungarns. Hier wurde 1849 die Unabhängigkeit Ungarns vom Hause Habsburg verkündet.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/debrecen-grosse-reformierte-kirche.webp",
-                  "image_attribution": {
-                        "author": "zsolt",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=368132831280737",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Reformiertes Kollegium",
                   "text": "Eine der traditionsreichsten Bildungseinrichtungen Ungarns mit einer prachtvollen Bibliothek und einem Museum für Schulgeschichte. Es wird oft als Wiege der ungarischen Kultur bezeichnet.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/debrecen-reformiertes-kollegium.webp",
-                  "image_attribution": {
-                        "author": "zsolt",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=164281812189476",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Déri-Museum",
                   "text": "Ein bedeutendes Kunst- und Volkskundemuseum, das die berühmte Munkácsy-Trilogie (Bilder der Passion Christi) beherbergt. Es verfügt auch über eine beeindruckende ägyptische Sammlung.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/debrecen-deri-museum.webp",
-                  "image_attribution": {
-                        "author": "grozsa11",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=356535597013843",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Universität Debrecen Hauptgebäude",
                   "text": "Ein monumentales neobarockes Gebäude mit einem beeindruckenden verglasten Innenhof. Der umliegende Park mit seinen Brunnen gehört zu den schönsten Campus-Anlagen Europas.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/debrecen-universitaet-debrecen-hauptgebaeude.webp",
-                  "image_attribution": {
-                        "author": "Winner_hun",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1410119196870408",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Nagyerdő (Großer Wald)",
@@ -10291,56 +9640,28 @@ export const hungaryCities: POI[] = [
                   "text": "Ein moderner Wellness-Komplex unter einer riesigen Glaskuppel im Großen Wald. Er bietet Heilwasserbecken und einen tropischen Wasserpark für Familien.",
                   "category": "recreational",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/debrecen-aquaticum-thermal-und-erlebnisbad.webp",
-                  "image_attribution": {
-                        "author": "Winner_hun",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1275808894197912",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Kleine Reformierte Kirche (Csonkatemplom)",
                   "text": "Eine Kirche mit einem charakteristischen Turm ohne Helm, der ihr das Aussehen einer Burgruine verleiht. Sie ist ein markantes Denkmal im Stadtzentrum.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/debrecen-kleine-reformierte-kirche-csonkatemplom.webp",
-                  "image_attribution": {
-                        "author": "zsolt",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=134408842067034",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "St.-Anna-Kathedrale",
                   "text": "Die wichtigste katholische Kirche der Stadt, ein prachtvolles Barockgebäude aus dem 18. Jahrhundert. Sie ist der Sitz der Diözese Debrecen-Nyíregyháza.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/debrecen-st-anna-kathedrale.webp",
-                  "image_attribution": {
-                        "author": "zsolt",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=304775247667621",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Csokonai-Theater",
                   "text": "Ein historisches Theatergebäude im romantischen Stil, benannt nach dem berühmten Dichter der Stadt. Es ist das Zentrum des kulturellen Lebens in Ostungarn.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/debrecen-csokonai-theater.webp",
-                  "image_attribution": {
-                        "author": "zsolt",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=368623821166109",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Zsuzsi-Waldbahn",
@@ -10629,56 +9950,28 @@ export const hungaryCities: POI[] = [
                   "text": "Der größte Badekomplex Europas umfasst ein Heilbad, ein Strandbad, einen Aquapark und ein Erlebnisbad. Das jod-, brom- und salzhaltige Heilwasser zieht seit der ersten Bohrung im Jahr 1925 jährlich Millionen von Besuchern an, die Heilung und Entspannung suchen.",
                   "category": "recreational",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/hajduszoboszlo-hungarospa-heilbad.webp",
-                  "image_attribution": {
-                        "author": "czadzik",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1450389825310934",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Bocskai István Museum",
                   "text": "Das Museum präsentiert die Geschichte von Hajdúszoboszló und der Heiducken-Siedler mit bedeutenden regionalgeschichtlichen und völkerkundlichen Sammlungen. Es bewahrt Kopien der Gründungsurkunde und historische Waffen aus der Zeit der Freiheitskämpfe auf.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/hajduszoboszlo-bocskai-istvan-museum.webp",
-                  "image_attribution": {
-                        "author": "km2bp",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=497880111258732",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Glockenhaus",
                   "text": "Dieses architektonische Werk von Zoltán Rácz beherbergt eine einzigartige Glockensammlung von Edit Oborzil und Tibor Jeney, die aus einer speziellen Legierung gefertigt wurden. Die symbolischen Säulen und die Klänge der Glocken erinnern an wichtige Etappen der ungarischen Geschichte.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/hajduszoboszlo-glockenhaus.webp",
-                  "image_attribution": {
-                        "author": "czadzik",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=987916145283165",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Griechisch-katholische Kirche",
                   "text": "Die im modernen byzantinischen Stil errichtete Kirche wurde 1994 fertiggestellt und ist im Inneren mit beeindruckenden, farbenfrohen Fresken geschmückt. Das Gebäude ist ein architektonisches Symbol für die religiöse Vielfalt und die moderne Entwicklung der Kurstadt.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/hajduszoboszlo-griechisch-katholische-kirche.webp",
-                  "image_attribution": {
-                        "author": "km2bp",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=497880111258732",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             }
       ],
       "hu": [
@@ -10754,14 +10047,7 @@ export const hungaryCities: POI[] = [
                   "text": "The museum showcases the history of Hajdúszoboszló and the Hajdú people with significant local history and ethnographic collections. It houses historical weapons and documents related to the town's founding and its regional importance.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/hajduszoboszlo-bocskai-istvan-museum.webp",
-                  "image_attribution": {
-                        "author": "km2bp",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=497880111258732",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Bell House",
@@ -10866,98 +10152,49 @@ export const hungaryCities: POI[] = [
                   "text": "Eines der wichtigsten Symbole der ungarischen Geschichte, bekannt für die heldenhafte Verteidigung gegen das osmanische Heer im Jahr 1552. Heute beherbergt sie das Dobó-István-Burghistorische Museum und bietet Einblicke in mittelalterliche Befestigungen.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/eger-burg-von-eger.webp",
-                  "image_attribution": {
-                        "author": "utvonalfelmeresek",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=369016627781396",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Basilika von Eger",
                   "text": "Die zweitgrößte Kirche Ungarns wurde im 19. Jahrhundert im klassizistischen Stil nach Plänen von József Hild erbaut. Sie besticht durch ihre imposante Säulenhalle, prachtvolle Innenausstattung und eine der größten Orgeln des Landes.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/eger-basilika-von-eger.webp",
-                  "image_attribution": {
-                        "author": "chrisbeddow",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=365747668204303",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Minarett von Eger",
                   "text": "Das nördlichste erhaltene Denkmal aus der Zeit der osmanischen Herrschaft in Europa, erbaut Ende des 16. Jahrhunderts. Besucher können die 97 Stufen des 40 Meter hohen Turms erklimmen, um einen Panoramablick über die Altstadt zu genießen.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/eger-minarett-von-eger.webp",
-                  "image_attribution": {
-                        "author": "burdiuzha",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=326129635526287",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Tal der schönen Frauen",
                   "text": "Das berühmteste Weinkellerviertel von Eger mit Hunderten von Kellern, die in den weichen Tuffstein gehauen wurden. Hier können Besucher den berühmten Egri Bikavér (Stierblut) und andere lokale Weine direkt beim Erzeuger verkosten.",
                   "category": "culinary",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/eger-tal-der-schoenen-frauen.webp",
-                  "image_attribution": {
-                        "author": "chrisbeddow",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=514698906220135",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Dobó-Platz",
                   "text": "Der barocke Hauptplatz der Stadt mit der Statue von István Dobó, dem Anführer der Burgverteidiger. Der Platz ist das lebendige Zentrum des gesellschaftlichen Lebens von Eger mit zahlreichen Cafés, Restaurants und Veranstaltungen.",
                   "category": "civic",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/eger-dobo-platz.webp",
-                  "image_attribution": {
-                        "author": "utvonalfelmeresek",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=517140763002106",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Lyzeum und Zauberturm",
                   "text": "Das prächtige barocke Gebäude der Katholischen Universität beherbergt eine historische Bibliothek und den Zauberturm mit einem Astronomiemuseum. Dort befindet sich auch die älteste funktionierende Camera Obscura Ungarns.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/eger-lyzeum-und-zauberturm.webp",
-                  "image_attribution": {
-                        "author": "chrisbeddow",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=241432327759127",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Türkisches Bad",
                   "text": "Ein authentisches rituelles Bad aus dem frühen 17. Jahrhundert, das während der osmanischen Besatzung erbaut wurde. Es ist bekannt für seine goldene Kuppel, die kunstvollen Mosaike und das radonhaltige Heilwasser.",
                   "category": "recreational",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/eger-tuerkisches-bad.webp",
-                  "image_attribution": {
-                        "author": "blaszlo",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=961917437891500",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             }
       ],
       "hu": [
@@ -11400,70 +10637,35 @@ export const hungaryCities: POI[] = [
                   "text": "Die längste Fußgänger- und Radfahrerbrücke Mitteleuropas, deren elegante Form an die Flügel der Theiß-Eintagsfliege erinnert. Sie verbindet die historische Innenstadt mit dem beliebten Erholungsgebiet Tiszaliget.",
                   "category": "civic",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szolnok-tiszavirag-bruecke.webp",
-                  "image_attribution": {
-                        "author": "osminng",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1264846355304479",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Damjanich János Museum",
                   "text": "Das Regionalmuseum ist in einem ehemaligen Grand Hotel untergebracht und bewahrt bedeutende archäologische, ethnografische und kunsthistorische Sammlungen der Region auf. Es ist ein wichtiges kulturelles Zentrum an der Theiß.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szolnok-damjanich-janos-museum.webp",
-                  "image_attribution": {
-                        "author": "geox123",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=150706347016922",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Tisza Hotel und Heilbad",
                   "text": "Das beeindruckende Gebäude im Neobarock-Stil ist eines der Wahrzeichen von Szolnok und liegt direkt am Ufer der Theiß. Es ist bekannt für sein jodhaltiges Heilwasser und sein historisches, mondänes Ambiente.",
                   "category": "recreational",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szolnok-tisza-hotel-und-heilbad.webp",
-                  "image_attribution": {
-                        "author": "osminng",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1252684816336342",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Galerie von Szolnok (Synagoge)",
                   "text": "In der ehemaligen, prachtvollen Synagoge sind heute wechselnde Kunstausstellungen zu sehen. Das von Lipót Baumhorn entworfene Gebäude ist mit seiner markanten Kuppel eines der schönsten Baudenkmäler der Stadt.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szolnok-galerie-von-szolnok-synagoge.webp",
-                  "image_attribution": {
-                        "author": "osminng",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=807698178916800",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Sörárium",
                   "text": "Ein interaktives Biermuseum und eine Schaubrauerei im Keller des Rathauses, die die jahrhundertealte Geschichte des Brauens in Ungarn zeigt. Besucher können handwerklich gebraute Biere verkosten und den Brauprozess kennenlernen.",
                   "category": "culinary",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szolnok-soerarium.webp",
-                  "image_attribution": {
-                        "author": "osminng",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=3743477382626653",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             }
       ],
       "hu": [
@@ -11507,14 +10709,7 @@ export const hungaryCities: POI[] = [
                   "text": "Interaktív sörmúzeum és látványfőzde a Városháza pincehelyiségében, ahol a sörfőzés történelmével és technológiájával ismerkedhetnek meg a látogatók. A helyszínen különleges kézműves sörök kóstolására is lehetőség van.",
                   "category": "culinary",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szolnok-soerarium.webp",
-                  "image_attribution": {
-                        "author": "osminng",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=3743477382626653",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             }
       ],
       "ro": [
@@ -11558,14 +10753,7 @@ export const hungaryCities: POI[] = [
                   "text": "Un muzeu interactiv al berii și microberărie situat în subsolul Primăriei, prezentând istoria fabricării berii în Ungaria. Oferă o experiență educativă completată de posibilitatea degustării unor beri artizanale locale.",
                   "category": "culinary",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szolnok-soerarium.webp",
-                  "image_attribution": {
-                        "author": "osminng",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=3743477382626653",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             }
       ],
       "en": [
@@ -11588,14 +10776,7 @@ export const hungaryCities: POI[] = [
                   "text": "Housed in a grand former hotel building, the county museum features significant archaeological, ethnographic, and fine arts collections from the Middle Tisza region. It is a key cultural institution in Szolnok.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szolnok-damjanich-janos-museum.webp",
-                  "image_attribution": {
-                        "author": "geox123",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=150706347016922",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Tisza Hotel and Spa",
@@ -11655,70 +10836,35 @@ export const hungaryCities: POI[] = [
                   "text": "Der 1958 gegründete Zoo präsentiert heimische und exotische Tierarten in einer naturnahen und familienfreundlichen Umgebung. Er ist bekannt für seine Schaufütterungen, Greifvogelshows und sein Engagement für den Naturschutz.",
                   "category": "family",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/jaszbereny-tier-und-pflanzenpark-jaszbereny.webp",
-                  "image_attribution": {
-                        "author": "JNSZ",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=2117028865757399",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Jász-Museum",
                   "text": "Das bedeutendste Exponat dieses Museums ist das legendäre Horn von Lehel, ein Symbol ungarischer Heldenlieder. Die Sammlung bewahrt die einzigartige kulturelle Identität und die Traditionen der Jász-Region.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/jaszbereny-jasz-museum.webp",
-                  "image_attribution": {
-                        "author": "geox123",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=169038705038553",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Franziskanerkirche und Kloster",
                   "text": "Das im 15. Jahrhundert im gotischen Stil errichtete Ensemble ist eines der ältesten Baudenkmäler der Stadt. Während der Türkenzeit diente es als befestigte Anlage und wurde später barock umgestaltet.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/jaszbereny-franziskanerkirche-und-kloster.webp",
-                  "image_attribution": {
-                        "author": "geox123",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=133368188741043",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Hauptpfarrkirche Mariä Himmelfahrt",
                   "text": "Die imposante barocke Hauptkirche von Jászberény trägt auf ihrer Turmspitze die ungarische Stephanskrone, welche das Kreuz hält. Das prachtvolle Innere beherbergt wertvolle Altäre und religiöse Kunstwerke.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/jaszbereny-hauptpfarrkirche-mariae-himmelfahrt.webp",
-                  "image_attribution": {
-                        "author": "chrisbeddow",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=302335104799898",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Steinbrücke",
                   "text": "Die klassizistische Brücke über den Fluss Zagyva wurde im Jahr 1806 erbaut. Sie ist bis heute ein wichtiger Verkehrsknotenpunkt und ein architektonisches Wahrzeichen der Stadt Jászberény.",
                   "category": "civic",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/jaszbereny-steinbruecke.webp",
-                  "image_attribution": {
-                        "author": "chrisbeddow",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=215426313330949",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             }
       ],
       "hu": [
@@ -12090,98 +11236,49 @@ export const hungaryCities: POI[] = [
                   "text": "Die größte Vogelstatue Europas mit einer Flügelspannweite von 15 Metern. Sie steht auf dem Kő-Berg und erinnert an den legendären Turul-Vogel der ungarischen Mythologie.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/tatabanya-turul-denkmal.webp",
-                  "image_attribution": {
-                        "author": "nicevalley",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1009285837659563",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Szelim-Höhle",
                   "text": "Eine riesige, natürliche Höhle auf dem Kő-Berg mit mehreren Öffnungen, die einen spektakulären Blick auf die Stadt bieten. Archäologische Funde belegen eine Besiedlung seit der Steinzeit.",
                   "category": "natural",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/tatabanya-szelim-hoehle.webp",
-                  "image_attribution": {
-                        "author": "nicevalley",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=2479290475800670",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Bergbaustollen und Industrie-Freilichtmuseum",
                   "text": "Ein einzigartiges Museum in einem ehemaligen Bergwerk, das die Geschichte des Kohlebergbaus in der Region zeigt. Besucher können echte Stollen und Bergbaumaschinen besichtigen.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/tatabanya-bergbaustollen-und-industrie-freilichtmuseum.webp",
-                  "image_attribution": {
-                        "author": "osminng",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1031342709198366",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Gyémánt Fürdő",
                   "text": "Ein moderner Erlebnis- und Thermalbadkomplex mit Rutschen, Wellnessbereichen und mehreren Außenbecken für die ganze Familie.",
                   "category": "recreational",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/tatabanya-gyemant-fuerdoe.webp",
-                  "image_attribution": {
-                        "author": "geox123",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=251622383411711",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Jászai-Mari-Theater",
                   "text": "Das kulturelle Zentrum der Stadt, das in einem historischen Volkshaus untergebracht ist. Es bietet ein vielfältiges Programm an Theaterstücken und Konzerten.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/tatabanya-jaszai-mari-theater.webp",
-                  "image_attribution": {
-                        "author": "nicevalley",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1202124961663286",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Tulipános ház",
                   "text": "Ein markantes Gebäude mit Tulpenmotiven, das früher als Offizierskasino diente und heute eines der schönsten Baudenkmäler der Stadt ist.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/tatabanya-tulipanos-haz.webp",
-                  "image_attribution": {
-                        "author": "nicevalley",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1417976129619394",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Csónakázó-tó (Bootssee)",
                   "text": "Ein künstlicher See im Herzen der Stadt, ideal für Spaziergänge. Er ist bekannt für seine kleine Insel und die dort lebenden Schildkröten.",
                   "category": "natural",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/tatabanya-csonakazo-to-bootssee.webp",
-                  "image_attribution": {
-                        "author": "geox123",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1154543548303458",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             }
       ],
       "hu": [
@@ -12211,14 +11308,7 @@ export const hungaryCities: POI[] = [
                   "text": "Modern élmény- és gyógyfürdő komplexum, amely csúszdaparkkal, szaunavilággal és számos kinti-benti medencével várja a látogatókat.",
                   "category": "recreational",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/tatabanya-gyemant-fuerdoe.webp",
-                  "image_attribution": {
-                        "author": "geox123",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=251622383411711",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Jászai Mari Színház (Népház)",
@@ -12232,14 +11322,7 @@ export const hungaryCities: POI[] = [
                   "text": "Szecessziós jegyeket mutató, tulipánmotívumokkal díszített épület, amely eredetileg tiszti kaszinóként funkcionált, ma a város egyik legszebb műemléke.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/tatabanya-tulipanos-haz.webp",
-                  "image_attribution": {
-                        "author": "nicevalley",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1417976129619394",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Csónakázó-tó",
@@ -12439,98 +11522,49 @@ export const hungaryCities: POI[] = [
                   "text": "Die größte Kirche Ungarns und Sitz des katholischen Primas. Das klassizistische Bauwerk beeindruckt durch seine riesige Kuppel und die Renaissance-Bakócz-Kapelle.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/esztergom-basilika-von-esztergom.webp",
-                  "image_attribution": {
-                        "author": "grozsa11",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1379332730570858",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Königlicher Burgpalast (Vármúzeum)",
                   "text": "Eine historische Burg auf dem Burgberg, die die Überreste des mittelalterlichen Palastes der ungarischen Könige beherbergt, inklusive gotischer Kapellen und Fresken.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/esztergom-koeniglicher-burgpalast-varmuzeum.webp",
-                  "image_attribution": {
-                        "author": "grozsa11",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1076548800217417",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Christliches Museum (Keresztény Múzeum)",
                   "text": "Das bedeutendste kirchliche Museum Ungarns im Primas-Palast, das eine weltberühmte Sammlung mittelalterlicher Tafelbilder und sakraler Kunst zeigt.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/esztergom-christliches-museum-kereszteny-muzeum.webp",
-                  "image_attribution": {
-                        "author": "grozsa11",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1006495694207994",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Mária-Valéria-Brücke",
                   "text": "Eine symbolträchtige Brücke über die Donau, die Esztergom mit der slowakischen Stadt Štúrovo verbindet und nach dem Zweiten Weltkrieg erst 2001 wieder aufgebaut wurde.",
                   "category": "civic",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/esztergom-maria-valeria-bruecke.webp",
-                  "image_attribution": {
-                        "author": "grozsa11",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1042285320969477",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Schatzkammer der Basilika",
                   "text": "Die reichste kirchliche Schatzkammer Mitteleuropas mit Meisterwerken der Goldschmiedekunst wie dem berühmten Matthias-Kalvarienberg.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/esztergom-schatzkammer-der-basilika.webp",
-                  "image_attribution": {
-                        "author": "grozsa11",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1078442012565734",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Víziváros (Wasserstadt)",
                   "text": "Ein malerisches historisches Viertel am Fuße des Burgbergs mit Barockkirchen, dem Primas-Palast und engen Gassen entlang der Donau.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/esztergom-vizivaros-wasserstadt.webp",
-                  "image_attribution": {
-                        "author": "istefanos",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1314697336374912",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Szent Tamás-Berg",
                   "text": "Ein kleiner Hügel gegenüber dem Burgberg mit einer Kapelle und einem Kreuzweg, der einen der besten Ausblicke auf die Basilika und die Donau bietet.",
                   "category": "natural",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/esztergom-szent-tamas-berg.webp",
-                  "image_attribution": {
-                        "author": "grozsa11",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=361211293681571",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             }
       ],
       "hu": [
@@ -12722,98 +11756,49 @@ export const hungaryCities: POI[] = [
                   "text": "Eine wunderschöne Wasserburg am Ufer des Alten Sees, die ursprünglich im 14. Jahrhundert erbaut wurde. Sie beherbergt das Kuny Domokos Museum.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/tata-burg-von-tata.webp",
-                  "image_attribution": {
-                        "author": "segi",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=135860678571218",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Alter See (Öreg-tó)",
                   "text": "Ein künstlicher See im Stadtzentrum, der für Wassersport und als Rastplatz für Zugvögel bekannt ist. Ein beliebter Rundweg führt um das gesamte Ufer.",
                   "category": "natural",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/tata-alter-see-oereg-to.webp",
-                  "image_attribution": {
-                        "author": "istefanos",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=940922713325098",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Esterházy-Schloss",
                   "text": "Ein spätbarockes Schloss direkt neben der Burg, das kürzlich renoviert wurde und die glanzvolle Geschichte der Adelsfamilie Esterházy zeigt.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/tata-esterhazy-schloss.webp",
-                  "image_attribution": {
-                        "author": "geox123",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1090037178159613",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Englischer Garten (Angolkert)",
                   "text": "Der erste Landschaftspark im englischen Stil in Ungarn, angelegt im 18. Jahrhundert. Er beherbergt den Cseke-See, künstliche Ruinen und ein Sommertheater.",
                   "category": "natural",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/tata-englischer-garten-angolkert.webp",
-                  "image_attribution": {
-                        "author": "esandorhu",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=182593920377469",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Fényes-Lehrpfad",
                   "text": "Ein ökologisches Besucherzentrum mit einem Holzsteg über Moore und Quellen. Es bietet Einblick in eine einzigartige Sumpflandschaft mit warmen Quellen.",
                   "category": "natural",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/tata-fenyes-lehrpfad.webp",
-                  "image_attribution": {
-                        "author": "utvonalfelmeresek",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=4077685212253189",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             },
             {
                   "name": "Kálvária-Hügel",
                   "text": "Ein geologisches Schutzgebiet und Aussichtspunkt mit einer Kapelle und einem alten Aussichtsturm, der früher eine Schrotfabrik war.",
                   "category": "natural",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/tata-kalvaria-huegel.webp",
-                  "image_attribution": {
-                        "author": "vasony",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=878648892715324",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Glockenturm (Harangláb)",
                   "text": "Ein markanter hölzerner Glockenturm am Országgyűlés-Platz, der ohne eiserne Nägel erbaut wurde und stündlich ein Glockenspiel spielt.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/tata-glockenturm-haranglab.webp",
-                  "image_attribution": {
-                        "author": "utvonalfelmeresek",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=291062992494776",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             }
       ],
       "hu": [
@@ -13005,14 +11990,7 @@ export const hungaryCities: POI[] = [
                   "text": "Das einzige Museum seiner Art in Ungarn, das sich in einem echten, stillgelegten Stollen befindet und das harte Leben der Bergleute hautnah zeigt.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/salgotarjan-unterirdisches-bergbaumuseum.webp",
-                  "image_attribution": {
-                        "author": "pememejot",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=249644080291496",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Burg Salgó",
@@ -13026,56 +12004,28 @@ export const hungaryCities: POI[] = [
                   "text": "Ein Museum, das die Industriegeschichte von Nógrád sowie die lokale Archäologie und bildende Kunst in modernen Ausstellungen präsentiert.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/salgotarjan-dornyay-bela-museum.webp",
-                  "image_attribution": {
-                        "author": "vazezolee2",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=211346657248047",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Fő tér (Hauptplatz)",
                   "text": "Das moderne Stadtzentrum, das nach 1960 erbaut wurde und mit seinen markanten Gebäuden und Skulpturen den Geist der sozialistischen Architektur widerspiegelt.",
                   "category": "civic",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/salgotarjan-foe-ter-hauptplatz.webp",
-                  "image_attribution": {
-                        "author": "vazezolee2",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=194496289181038",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Römisch-katholische Kirche Szent Miklós",
                   "text": "Die wichtigste Kirche der Stadt aus dem 18. Jahrhundert, die im Barockstil erbaut wurde und den historischen Kern von Salgótarján markiert.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/salgotarjan-roemisch-katholische-kirche-szent-miklos.webp",
-                  "image_attribution": {
-                        "author": "vazezolee2",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=476797153583807",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Radnóti-Statue",
                   "text": "Ein berühmtes Denkmal des Bildhauers Imre Varga, das dem Dichter Miklós Radnóti gewidmet ist und sich im Stadtzentrum befindet.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/salgotarjan-radnoti-statue.webp",
-                  "image_attribution": {
-                        "author": "vazezolee2",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=315758919971624",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             }
       ],
       "hu": [
@@ -13584,84 +12534,42 @@ export const hungaryCities: POI[] = [
                   "text": "Das Herz der Altstadt mit prachtvollen Barockgebäuden und der berühmten Pestsäule von 1763. Hier pulsiert das Leben in zahlreichen Cafés und Galerien.",
                   "category": "civic",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szentendre-hauptplatz-foe-ter.webp",
-                  "image_attribution": {
-                        "author": "grozsa11",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1055450832800617",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Mariä-Verkündigungs-Kirche",
                   "text": "Eine wunderschöne orthodoxe Kirche am Hauptplatz mit einer prächtigen Rokoko-Ikonostase. Sie zeugt vom kulturellen Erbe der serbischen Gemeinde in Szentendre.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szentendre-mariae-verkuendigungs-kirche.webp",
-                  "image_attribution": {
-                        "author": "grozsa11",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1022676756463576",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Belgrad-Kathedrale",
                   "text": "Die serbisch-orthodoxe Hauptkirche der Stadt, bekannt für ihren hohen Glockenturm und die wertvolle Innenausstattung. Sie liegt inmitten eines ruhigen, ummauerten Gartens.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szentendre-belgrad-kathedrale.webp",
-                  "image_attribution": {
-                        "author": "grozsa11",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1216509942991234",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Skanzen – Ethnographisches Freilichtmuseum",
                   "text": "Eines der größten Freilichtmuseen Ungarns, das die ländliche Architektur und Lebensweise verschiedener Regionen des Landes auf einer riesigen Fläche präsentiert.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/szentendre-skanzen-ethnographisches-freilichtmuseum.webp",
-                  "image_attribution": {
-                        "author": "teamwork",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1495455718130214",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             },
             {
                   "name": "Szabó-Marzipanmuseum",
                   "text": "Eine faszinierende Ausstellung von Kunstwerken aus Marzipan, darunter Gebäude, Märchenfiguren und Porträts berühmter Persönlichkeiten.",
                   "category": "culinary",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szentendre-szabo-marzipanmuseum.webp",
-                  "image_attribution": {
-                        "author": "grozsa11",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1035719618252581",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Donauufer-Promenade",
                   "text": "Ein beliebter Ort für Spaziergänge entlang der Donau mit Blick auf die Schiffe und das malerische Panorama der Stadt.",
                   "category": "recreational",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/szentendre-donauufer-promenade.webp",
-                  "image_attribution": {
-                        "author": "grozsa11",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1001026391369782",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             }
       ],
       "hu": [
@@ -13996,70 +12904,35 @@ export const hungaryCities: POI[] = [
                   "text": "Ein monumentales Meisterwerk des Spätbarock und Klassizismus, erbaut im 18. Jahrhundert. Die Innenräume sind mit beeindruckenden Fresken von Franz Anton Maulbertsch geschmückt.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/vac-vacer-dom-kathedrale.webp",
-                  "image_attribution": {
-                        "author": "feed",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=217974256505717",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Platz des 15. März (Hauptplatz)",
                   "text": "Ein einzigartiger dreieckiger Platz, umgeben von Barockgebäuden, der Dominikanerkirche und dem Rathaus. Unter dem Platz befinden sich archäologische Ausgrabungen.",
                   "category": "civic",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/vac-platz-des-15-maerz-hauptplatz.webp",
-                  "image_attribution": {
-                        "author": "teamwork",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1846679822473494",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Steintor (Kőkapu)",
                   "text": "Ungarns einziger Triumphbogen, errichtet 1764 zu Ehren des Besuchs von Kaiserin Maria Theresia. Er ist ein seltenes und ikonisches Monument der Stadt.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/vac-steintor-koekapu.webp",
-                  "image_attribution": {
-                        "author": "teamwork",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=999942604594924",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Memento Mori Ausstellung",
                   "text": "Eine faszinierende und weltweit bekannte Ausstellung in der Krypta der Dominikanerkirche, die natürlich mumifizierte Körper aus dem 18. Jahrhundert zeigt.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/vac-memento-mori-ausstellung.webp",
-                  "image_attribution": {
-                        "author": "kami911",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=286334706528322",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             },
             {
                   "name": "Barockbrücke über den Gombás-Bach",
                   "text": "Die einzige Barockbrücke in Ungarn, die mit sechs Steinstatuen von Heiligen geschmückt ist. Sie ist ein technisches und künstlerisches Denkmal aus dem Jahr 1757.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/vac-barockbruecke-ueber-den-gombas-bach.webp",
-                  "image_attribution": {
-                        "author": "ramap",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1251080272000890",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             }
       ],
       "hu": [
@@ -14289,70 +13162,35 @@ export const hungaryCities: POI[] = [
                   "text": "Eines der imposantesten und größten Theatergebäude Ungarns, ein Juwel des ungarischen Jugendstils, das 1911 eröffnet wurde.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/kaposvar-csiky-gergely-theater.webp",
-                  "image_attribution": {
-                        "author": "robertjozsa",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1214787405652308",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Rippl-Rónai-Museum",
                   "text": "Das Museum präsentiert das Lebenswerk des berühmten Malers József Rippl-Rónai sowie bedeutende archäologische und lokalhistorische Sammlungen.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/kaposvar-rippl-ronai-museum.webp",
-                  "image_attribution": {
-                        "author": "robertjozsa",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=831624927560812",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             },
             {
                   "name": "Kossuth-Platz",
                   "text": "Der prächtige Hauptplatz der Stadt mit dem Rathaus, dem Hotel Dorottya und zahlreichen Statuen. Er ist bekannt für seine mediterrane Atmosphäre im Sommer.",
                   "category": "civic",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/kaposvar-kossuth-platz.webp",
-                  "image_attribution": {
-                        "author": "robertjozsa",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=829608794312710",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Mariä-Himmelfahrt-Kathedrale",
                   "text": "Die neugotische Kathedrale von Kaposvár mit ihren markanten Türmen ist das religiöse Zentrum der Stadt und ein bedeutendes architektonisches Wahrzeichen.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/kaposvar-mariae-himmelfahrt-kathedrale.webp",
-                  "image_attribution": {
-                        "author": "robertjozsa",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=797146977897035",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Deseda-See",
                   "text": "Ungarns längster künstlicher See am Rande der Stadt. Er bietet hervorragende Möglichkeiten zum Wandern, Radfahren, Angeln und für Wassersport.",
                   "category": "natural",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/kaposvar-deseda-see.webp",
-                  "image_attribution": {
-                        "author": "utvonalfelmeresek",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1829618873886834",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             }
       ],
       "hu": [
@@ -14502,98 +13340,49 @@ export const hungaryCities: POI[] = [
                   "text": "Das Wahrzeichen der Stadt ist der 1912 erbauten, 45 Meter hohe Turm im Zentrum des Hauptplatzes. Nach einer umfassenden Renovierung im Jahr 2012 beherbergt er nun ein rotierendes Café und eine Aussichtsplattform mit Panorama-Glaswänden. Ein moderner Aufzug bringt die Besucher nach oben, von wo aus man einen herrlichen Blick über den Balaton genießen kann.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/siofok-wasserturm-von-siofok.webp",
-                  "image_attribution": {
-                        "author": "Winner_hun",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=23910726081925828",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Evangelische Kirche (Imre-Makovecz-Kirche)",
                   "text": "Dieses organische Bauwerk wurde vom weltberühmten Architekten Imre Makovecz entworfen und erinnert an ein umgestülptes Holzschiff. Das Holz für die Kirche wurde von der finnischen Partnerstadt Oulu gespendet. Die markante Dachkonstruktion und die madonnenartigen Flügel über dem Eingang machen sie zu einem der einzigartigsten Sakralbauten Ungarns.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/siofok-evangelische-kirche-imre-makovecz-kirche.webp",
-                  "image_attribution": {
-                        "author": "Winner_hun",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1948941872525555",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Imre-Kálmán-Gedächtnismuseum",
                   "text": "Das Museum befindet sich im Geburtshaus des berühmten Operettenkomponisten Imre Kálmán, der durch Werke wie die „Csárdásfürstin“ Weltruhm erlangte. Die Ausstellung zeigt persönliche Gegenstände, das Klavier und Originalpartituren des Künstlers in einer authentischen Atmosphäre. Es ist ein Muss für Liebhaber der ungarischen Musikgeschichte.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/siofok-imre-kalman-gedaechtnismuseum.webp",
-                  "image_attribution": {
-                        "author": "grozsa11",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=997061135300727",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Hafen von Siófok",
                   "text": "Es ist der verkehrsreichste Hafen am Plattensee, von dem aus regelmäßig Fähren, Ausflugsschiffe und historische Dampfer ablegen. Die Kaianlage lädt zu Spaziergängen ein und bietet einen direkten Zugang zum Sió-Kanal und zur berühmten Mole. Im Sommer ist der Hafen der Ausgangspunkt für die beliebten Partyboote.",
                   "category": "civic",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/siofok-hafen-von-siofok.webp",
-                  "image_attribution": {
-                        "author": "tamas",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1116750018730545",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             },
             {
                   "name": "Petőfi-Promenade",
                   "text": "Die berühmte Promenade am Ufer ist das Zentrum des pulsierenden Nachtlebens von Siófok, gesäumt von Restaurants, Bars und Clubs. Tagsüber ist sie ein beliebter Ort zum Flanieren, während sie sich abends in die größte Unterhaltungsmeile des Landes verwandelt. Der angrenzende Strandabschnitt „Plázs“ ist Schauplatz großer Open-Air-Konzerte.",
                   "category": "recreational",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/siofok-petoefi-promenade.webp",
-                  "image_attribution": {
-                        "author": "kolesajr",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1109503502889634",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Rosengarten (Rózsakert)",
                   "text": "Dieser malerische Park direkt am Hafen verdankt seinen Namen den hunderten von Rosenstöcken, die hier im Sommer blühen. Er bietet schattige Wege, Bänke und Statuen, darunter das Denkmal der ersten Balaton-Überquerung. Von hier aus hat man einen fantastischen Blick auf den Sonnenuntergang über dem See.",
                   "category": "natural",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/siofok-rosengarten-rozsakert.webp",
-                  "image_attribution": {
-                        "author": "kolesajr",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=478876633191725",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Mineralienmuseum",
                   "text": "In der Kálmán-Imre-Straße befindet sich eine der größten privaten Mineraliensammlungen Mitteleuropas. Über 3.000 Exponate, darunter seltene Kristalle und Funde aus dem Karpatenbecken, sind in den Vitrinen ausgestellt. Die Sammlung bietet einen faszinierenden Einblick in die geologische Vielfalt der Region.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/siofok-mineralienmuseum.webp",
-                  "image_attribution": {
-                        "author": "FODORP",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=730533828173923",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             }
       ],
       "hu": [
@@ -15058,56 +13847,28 @@ export const hungaryCities: POI[] = [
                   "text": "Inmitten des Kurortes Sóstógyógyfürdő gelegen, bietet dieser moderne Badekomplex das ganze Jahr über Heil-, Wellness- und Erlebnisbecken. Besonders beliebt ist die Kinderwelt mit Schatzinsel und die Thermalabteilung, die das zertifizierte Heilwasser der Region nutzt. Es ist ein perfektes Ziel für Familien und Erholungssuchende gleichermaßen.",
                   "category": "recreational",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/nyiregyhaza-aquarius-erlebnisbad.webp",
-                  "image_attribution": {
-                        "author": "balintzoltan",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=5372241819516628",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Kathedrale Unserer Lieben Frau von Ungarn",
                   "text": "Die imposante neoromanische Kirche auf dem Kossuth-Platz ist das geistliche Zentrum der Stadt und wurde 1904 geweiht. Die markante Doppelturmfassade und der prächtige Innenraum mit Fresken machen sie zu einem der bedeutendsten Baudenkmäler der Region. Sie wurde durch großzügige Spenden des Erzbischofs József Samassa errichtet.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/nyiregyhaza-kathedrale-unserer-lieben-frau-von-ungarn.webp",
-                  "image_attribution": {
-                        "author": "ml11",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=178511410801980",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Botanischer Garten Tuzson János",
                   "text": "Der auf dem Gelände der Universität gelegene Garten beherbergt eine reiche Sammlung exotischer und heimischer Pflanzen, darunter riesige Seerosen und Palmen. In den Gewächshäusern sind Kakteen, Orchideen und fleischfressende Pflanzen zu sehen, während das Freigelände durch einen japanischen Garten und ein Arboretum besticht. Er ist eine Oase der Ruhe im Stadtgebiet.",
                   "category": "natural",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/nyiregyhaza-botanischer-garten-tuzson-janos.webp",
-                  "image_attribution": {
-                        "author": "vst",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=129725799325635",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Komitatshaus (Megyeháza)",
                   "text": "Dieses prachtvolle Gebäude im eklektischen Stil wurde vom berühmten Architekten Ignác Alpár entworfen und dominiert den Hősök-Platz. Die Fassade ist mit Statuen lokaler historischer Persönlichkeiten geschmückt, und der prunkvolle Prunksaal im Inneren ist ein Meisterwerk der Innenarchitektur. Es ist der Sitz der Regionalverwaltung und ein wichtiges Symbol der Stadt.",
                   "category": "civic",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/nyiregyhaza-komitatshaus-megyehaza.webp",
-                  "image_attribution": {
-                        "author": "geox123",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=307172240982840",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             }
       ],
       "hu": [
@@ -15598,84 +14359,42 @@ export const hungaryCities: POI[] = [
                   "text": "Die Überreste der von König Béla I. im 11. Jahrhundert gegründeten Abtei befinden sich im Innenhof des klassizistischen Komitatshauses. Das Gebäude ist das administrative Zentrum des Komitats Tolna.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szekszard-ruinen-der-abtei-und-komitatshaus.webp",
-                  "image_attribution": {
-                        "author": "utvonalfelmeresek",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=2905261496398005",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Mihály Babits Gedenkhaus",
                   "text": "Das Geburtshaus des berühmten ungarischen Dichters Mihály Babits beherbergt eine Ausstellung über sein Leben und Werk. Das Gebäude bewahrt die Atmosphäre des bürgerlichen Lebens im späten 19. Jahrhundert.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szekszard-mihaly-babits-gedenkhaus.webp",
-                  "image_attribution": {
-                        "author": "utvonalfelmeresek",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=477423536868070",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Weinkeller im Porkoláb-völgy",
                   "text": "Das Porkoláb-Tal ist eines der stimmungsvollsten Kellergebiete von Szekszárd, wo zahlreiche Winzer den berühmten Rotwein Kadarka und den Szekszárder Stierblut anbieten.",
                   "category": "culinary",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/szekszard-weinkeller-im-porkolab-voelgy.webp",
-                  "image_attribution": {
-                        "author": "pememejot",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=944369893984930",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             },
             {
                   "name": "Augusz-Haus",
                   "text": "In diesem prächtigen Gebäude war Franz Liszt mehrmals zu Gast, woran eine Gedenktafel erinnert. Heute beherbergt es eine Musikschule und dient als kultureller Veranstaltungsort.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szekszard-augusz-haus.webp",
-                  "image_attribution": {
-                        "author": "utvonalfelmeresek",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=477423536868070",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Wosinsky Mór Museum",
                   "text": "Das Museum präsentiert reiche archäologische Funde aus der Region, darunter römische Relikte und Ausstellungen zur lokalen Volkskunde und Handwerksgeschichte.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/szekszard-wosinsky-mor-museum.webp",
-                  "image_attribution": {
-                        "author": "pememejot",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1149707722878689",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             },
             {
                   "name": "Einsiedler-Kapelle",
                   "text": "Diese Barockkapelle in den Hügeln von Szekszárd ist eine traditionelle Wallfahrtsstätte und bietet einen ruhigen Ort zur Besinnung inmitten von Weingärten.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szekszard-einsiedler-kapelle.webp",
-                  "image_attribution": {
-                        "author": "pememejot",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1473084373557841",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             }
       ],
       "hu": [
@@ -15843,28 +14562,14 @@ export const hungaryCities: POI[] = [
                   "text": "Diese außergewöhnliche Kirche wurde von dem berühmten ungarischen Architekten Imre Makovecz im Stil der organischen Architektur entworfen. Ihre markanten Türme und Holzkonstruktionen machen sie zu einem Wahrzeichen der Stadt.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/paks-heilig-geist-kirche.webp",
-                  "image_attribution": {
-                        "author": "Winner_hun",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1358685979027071",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Sárgödör-Platz Weinkeller",
                   "text": "Ein einzigartiges Ensemble aus über 60 traditionellen Presshäusern und Weinkellern. Der Platz ist das Herz der lokalen Weinkultur und ein beliebter Ort für Verkostungen.",
                   "category": "culinary",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/paks-sargoedoer-platz-weinkeller.webp",
-                  "image_attribution": {
-                        "author": "Winner_hun",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1344378230119254",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Erzsébet Grand Hotel",
@@ -16323,84 +15028,42 @@ export const hungaryCities: POI[] = [
                   "text": "Die drittgrößte Kathedrale Ungarns ist ein prächtiges Bauwerk im Zopfstil. Trotz schwerer Schäden im Zweiten Weltkrieg wurde sie originalgetreu restauriert und ist das geistliche Zentrum der Stadt.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szombathely-kathedrale-mariae-heimsuchung.webp",
-                  "image_attribution": {
-                        "author": "kolesajr",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=472947080708031",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Iseum Savariense",
                   "text": "Ein archäologisches Museum, das auf den Ruinen eines antiken Heiligtums der Göttin Isis errichtet wurde. Es ist eines der bedeutendsten Denkmäler der römischen Vergangenheit von Savaria.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szombathely-iseum-savariense.webp",
-                  "image_attribution": {
-                        "author": "bitnapper",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=461688528243030",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Bischofspalast und Sala Terrena",
                   "text": "Der Palast beherbergt die Sala Terrena, den ersten öffentlichen Ausstellungsraum in Ungarn mit beeindruckenden Barockfresken. Die bischöfliche Bibliothek ist ebenfalls Teil des Ensembles.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szombathely-bischofspalast-und-sala-terrena.webp",
-                  "image_attribution": {
-                        "author": "bitnapper",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1190130968067434",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Hauptplatz (Fő tér)",
                   "text": "Der weitläufige, dreieckige Platz ist das lebendige Herz von Szombathely. Er ist gesäumt von schönen Barock- und klassizistischen Gebäuden und dient als Ort für viele Stadtfeste.",
                   "category": "civic",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szombathely-hauptplatz-foe-ter.webp",
-                  "image_attribution": {
-                        "author": "bitnapper",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=553781585628242",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Sankt-Martins-Kirche",
                   "text": "An der Stelle dieser Kirche soll der Heilige Martin von Tours geboren worden sein. Das heutige Gebäude stammt aus dem Barock und beherbergt bedeutende religiöse Relikte.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szombathely-sankt-martins-kirche.webp",
-                  "image_attribution": {
-                        "author": "szcsabesz",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=534217784617840",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Vasi Freilichtmuseum",
                   "text": "In diesem Museumsdorf werden originale Bauernhäuser und Nebengebäude aus dem Komitat Vas präsentiert, die einen Einblick in das ländliche Leben vergangener Jahrhunderte geben.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szombathely-vasi-freilichtmuseum.webp",
-                  "image_attribution": {
-                        "author": "geox123",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=222922539266840",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Bootssee (Csónakázó-tó)",
@@ -16423,14 +15086,7 @@ export const hungaryCities: POI[] = [
                   "text": "Régészeti múzeum, amely az egykori római Isis-szentély romjai fölé épült. A Savaria római múltját bemutató kiállítás nemzetközi hírű.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szombathely-iseum-savariense.webp",
-                  "image_attribution": {
-                        "author": "bitnapper",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=461688528243030",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Püspöki Palota és Sala Terrena",
@@ -16481,14 +15137,7 @@ export const hungaryCities: POI[] = [
                   "text": "Un muzeu arheologic construit pe ruinele unui sanctuar antic al zeiței Isis. Este unul dintre cele mai importante monumente ale trecutului roman al orașului Savaria.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szombathely-iseum-savariense.webp",
-                  "image_attribution": {
-                        "author": "bitnapper",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=461688528243030",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Palatul Episcopal și Sala Terrena",
@@ -16539,14 +15188,7 @@ export const hungaryCities: POI[] = [
                   "text": "An archaeological site and museum built over the ruins of a Roman Temple of Isis, reflecting the prestige of ancient Savaria in the Roman Empire.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szombathely-iseum-savariense.webp",
-                  "image_attribution": {
-                        "author": "bitnapper",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=461688528243030",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Bishop's Palace and Sala Terrena",
@@ -17685,42 +16327,21 @@ export const hungaryCities: POI[] = [
                   "text": "Ein einzigartiges Freilichtmuseum, das die Geschichte der ungarischen Ölindustrie zeigt. Es stellt riesige Bohrinseln, Maschinen und Werkzeuge aus, die bei der Erschließung der Zalaer Ölfelder verwendet wurden.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/zalaegerszeg-ungarisches-erdoel-und-erdgas-museum.webp",
-                  "image_attribution": {
-                        "author": "kami911",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=3054256891471133",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Fernsehturm Bazita",
                   "text": "Der auf einem Hügel gelegene Turm bietet eine großartige Aussichtsplattform und ein Café. Von hier aus kann man das Panorama von Zalaegerszeg und bei klarem Wetter sogar die fernen Alpen sehen.",
                   "category": "recreational",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/zalaegerszeg-fernsehturm-bazita.webp",
-                  "image_attribution": {
-                        "author": "kami911",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=181543210393554",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Maria-Magdalena-Pfarrkirche",
                   "text": "Die im 18. Jahrhundert im Barockstil erbaute Kirche ist das bedeutendste sakrale Gebäude der Stadt. Ihre Fassade mit den zwei Türmen prägt das Stadtbild des zentralen Deák-Platzes.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/zalaegerszeg-maria-magdalena-pfarrkirche.webp",
-                  "image_attribution": {
-                        "author": "kami911",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=148357820594312",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Gébárter See",
@@ -17874,42 +16495,21 @@ export const hungaryCities: POI[] = [
                   "text": "Der zentrale Platz der Stadt ist ein großzügig angelegter Raum mit Springbrunnen und Denkmälern. Er wird von bedeutenden Gebäuden wie dem Rathaus und dem ehemaligen Hotel Central gesäumt.",
                   "category": "civic",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/nagykanizsa-elisabeth-platz.webp",
-                  "image_attribution": {
-                        "author": "rbader",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1393201287702725",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             },
             {
                   "name": "Thúry-György-Museum",
                   "text": "Das Museum ist nach dem legendären Festungskommandanten György Thúry benannt. Es präsentiert Ausstellungen zur lokalen Geschichte, Archäologie und Volkskunst der Region Kanizsa.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/nagykanizsa-thury-gyoergy-museum.webp",
-                  "image_attribution": {
-                        "author": "rbader",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=302902438033786",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             },
             {
                   "name": "Untere Stadtkirche",
                   "text": "Diese barocke Kirche ist der Schmerzhaften Muttergottes geweiht und wurde im 18. Jahrhundert erbaut. Sie ist bekannt für ihre wertvolle Innenausstattung und dient als geistliches Zentrum des Stadtteils.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/nagykanizsa-untere-stadtkirche.webp",
-                  "image_attribution": {
-                        "author": "goprohero",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=183039646978789",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             },
             {
                   "name": "Bootssee (Csónakázó-tó)",
@@ -17923,14 +16523,7 @@ export const hungaryCities: POI[] = [
                   "text": "Ein ikonisches Gebäude der Stadt, das seinen Namen von der Statue eines geharnischten Kriegers an seiner Ecke hat. Ursprünglich war es ein Geschäftshaus und gehört heute zu den meistfotografierten Baudenkmälern.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/nagykanizsa-eisenmaennchen-haus.webp",
-                  "image_attribution": {
-                        "author": "ramap",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1160841618052704",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             }
       ],
       "hu": [
@@ -18077,70 +16670,35 @@ export const hungaryCities: POI[] = [
                   "text": "Dieses prächtige Barockschloss ist eines der bedeutendsten Baudenkmäler Ungarns und verfügt über 101 prunkvolle Räume. Es beherbergt die berühmte Helikon-Bibliothek mit über 50.000 historischen Bänden und einen wunderschönen englischen Landschaftsgarten.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/keszthely-schloss-festetics.webp",
-                  "image_attribution": {
-                        "author": "vst",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1349805912084678",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Balaton-Museum",
                   "text": "Das Museum präsentiert die Archäologie, Ethnographie und Naturgeschichte der Balaton-Region in einem repräsentativen neoklassizistischen Gebäude. Besucher können hier alles über die Entstehung des Sees und die Schifffahrt erfahren.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/keszthely-balaton-museum.webp",
-                  "image_attribution": {
-                        "author": "vasony",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1930162874471214",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Hauptplatz (Fő tér)",
                   "text": "Das Herz der Stadt beherbergt das Rathaus, die Franziskanerkirche aus dem 14. Jahrhundert und zahlreiche Gebäude im eklektischen Stil. Der Platz ist ein beliebter Ort für Veranstaltungen und Spaziergänge.",
                   "category": "civic",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/keszthely-hauptplatz-foe-ter.webp",
-                  "image_attribution": {
-                        "author": "vst",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=288046222944559",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Inselbad Keszthely",
                   "text": "Ein historisches Badehaus am Seeufer, das ursprünglich im 19. Jahrhundert erbaut wurde und heute modernen Komfort mit nostalgischem Flair verbindet. Es ist eines der ikonischsten Gebäude am westlichen Balaton-Ufer.",
                   "category": "recreational",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/keszthely-inselbad-keszthely.webp",
-                  "image_attribution": {
-                        "author": "utvonalfelmeresek",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=764270424291880",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             },
             {
                   "name": "Georgikon Meiereimuseum",
                   "text": "Auf dem Gelände der ersten landwirtschaftlichen Hochschule Europas gelegen, zeigt dieses Museum die Geschichte des Ackerbaus und traditionelle Handwerke. Es bietet einen Einblick in das ländliche Leben vergangener Jahrhunderte.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/keszthely-georgikon-meiereimuseum.webp",
-                  "image_attribution": {
-                        "author": "utvonalfelmeresek",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1103562230141642",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             }
       ],
       "hu": [
@@ -18621,14 +17179,7 @@ export const hungaryCities: POI[] = [
                   "text": "Ein malerischer, kopfsteingepflasterter Platz am Ufer des Sugovica-Arms, der oft mit mediterranen Städten verglichen wird. Hier befinden sich das Rathaus und die namensgebende Dreifaltigkeitssäule.",
                   "category": "civic",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/baja-dreifaltigkeitsplatz-szentharomsag-ter.webp",
-                  "image_attribution": {
-                        "author": "goprohero",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=214002717390446",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Sugovica-Strand",
@@ -18642,42 +17193,21 @@ export const hungaryCities: POI[] = [
                   "text": "Benannt nach dem berühmten ungarischen General und Kanalbauer, zeigt dieses Museum Exponate zur Fischerei, Ethnographie und Stadtgeschichte der Region Nord-Batschka.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/baja-tuerr-istvan-museum.webp",
-                  "image_attribution": {
-                        "author": "goprohero",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=120040443723850",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Synagoge (Stadtbibliothek)",
                   "text": "Ein beeindruckendes spätklassizistisches Gebäude aus dem Jahr 1845, das heute als Stadtbibliothek genutzt wird. Die prachtvolle Innengestaltung und das doppelte Galerie-System sind erhalten geblieben.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/baja-synagoge-stadtbibliothek.webp",
-                  "image_attribution": {
-                        "author": "szdini",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=483846842938394",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Bajaer Fischsuppe",
                   "text": "Kein physisches Monument, aber ein kulinarisches Erlebnis. Die Stadt ist weltberühmt für ihre Fischsuppe mit hausgemachten Nudeln, die jährlich mit einem riesigen Volksfest gefeiert wird.",
                   "category": "culinary",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/baja-bajaer-fischsuppe.webp",
-                  "image_attribution": {
-                        "author": "goprohero",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=214002717390446",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             }
       ],
       "hu": [
@@ -18824,70 +17354,35 @@ export const hungaryCities: POI[] = [
                   "text": "Eines der schönsten Jugendstilgebäude Ungarns, erbaut 1911. Die Fassade ist reich mit bunten Zsolnay-Majolikaplatten und ungarischen Volksmotiven verziert.",
                   "category": "civic",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/kiskunfelegyhaza-rathaus.webp",
-                  "image_attribution": {
-                        "author": "geox123",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=261595175746641",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Kiskun-Museum",
                   "text": "Das Museum befindet sich im ehemaligen Gebäude der Kumanischen Kapitäne. Es zeigt die Geschichte der Region Kiskunság und beherbergt eine wertvolle Sammlung zur Volkskunst.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/kiskunfelegyhaza-kiskun-museum.webp",
-                  "image_attribution": {
-                        "author": "geox123",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=2557207464572944",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Móra-Ferenc-Gedenkhaus",
                   "text": "Das Geburtshaus des berühmten ungarischen Schriftstellers Ferenc Móra. Die Ausstellung präsentiert persönliche Gegenstände und Dokumente aus dem Leben des Autors.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/kiskunfelegyhaza-mora-ferenc-gedenkhaus.webp",
-                  "image_attribution": {
-                        "author": "Antissimo",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=2561667240664130",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Sándor-Petőfi-Gedenkhaus",
                   "text": "Obwohl der Geburtsort umstritten ist, verbrachte der Nationaldichter Sándor Petőfi seine Kindheit hier. Das Museum ehrt sein Werk und sein Vermächtnis.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/kiskunfelegyhaza-sandor-petoefi-gedenkhaus.webp",
-                  "image_attribution": {
-                        "author": "geox123",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1229437710809512",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Kalvarienberg",
                   "text": "Ein sakraler Ort mit einer Kapelle und Kreuzwegstationen, der im 18. Jahrhundert errichtet wurde. Er ist ein bedeutendes religiöses Denkmal der Stadt.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/kiskunfelegyhaza-kalvarienberg.webp",
-                  "image_attribution": {
-                        "author": "Antissimo",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=795777128737156",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             }
       ],
       "hu": [
@@ -19059,70 +17554,35 @@ export const hungaryCities: POI[] = [
                   "text": "Das als Perle der Tiefebene bekannte Bad liegt in einem 10 Hektar großen Park am Ufer des Gyopáros-Sees. Es bietet zertifiziertes Heilwasser, ein Erlebnisbecken und einen modernen Saunapark für Erholungssuchende.",
                   "category": "recreational",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/oroshaza-heil-park-und-erlebnisbad-gyoparosfuerdoe.webp",
-                  "image_attribution": {
-                        "author": "pppetra",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=481442023186808",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Brunnenmuseum (Kútmúzeum)",
                   "text": "Das landesweit einzigartige Museum befindet sich in einem ehemaligen Wasserturm in der Könd-Straße. Die Ausstellung präsentiert die Geschichte der Wasserversorgung und verschiedene historische Brunnenkonstruktionen.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/oroshaza-brunnenmuseum-kutmuzeum.webp",
-                  "image_attribution": {
-                        "author": "pppetra",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=784377172466708",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Evangelische Barockkirche",
                   "text": "Die 1777 errichtete Kirche ist das älteste Baudenkmal der Stadt und ein Symbol für die Neubesiedlung durch lutherische Bauern. Ihr Turm prägt das Stadtbild und beherbergt wertvolle Glocken.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/oroshaza-evangelische-barockkirche.webp",
-                  "image_attribution": {
-                        "author": "pppetra",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=371514390944618",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Rágyánszky-Arboretum",
                   "text": "Dieser private botanische Garten beherbergt über 2.000 Pflanzenarten, darunter seltene Nadelbäume und exotische Sträucher. Er wurde vom Gartenbauexperten János Rágyánszky angelegt.",
                   "category": "natural",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/oroshaza-ragyanszky-arboretum.webp",
-                  "image_attribution": {
-                        "author": "pppetra",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=534615194613472",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Hauptplatz und Glasbirnbaum",
                   "text": "Der modernisierte Stadtplatz ist für seine interaktive Brunnenanlage und den kunstvollen Glasbirnbaum bekannt. Der Baum aus Glas erinnert an die bedeutende Glasindustrie der Stadt.",
                   "category": "civic",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/oroshaza-hauptplatz-und-glasbirnbaum.webp",
-                  "image_attribution": {
-                        "author": "pppetra",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=480790546562494",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             }
       ],
       "hu": [
@@ -20339,84 +18799,42 @@ export const hungaryCities: POI[] = [
                   "text": "Eine historische Festung aus dem 14. Jahrhundert, in der sich heute die landwirtschaftliche Fakultät der Universität befindet.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/mosonmagyarovar-burg-von-altenburg.webp",
-                  "image_attribution": {
-                        "author": "geox123",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=149469797192828",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Flexum Thermal & Heilbad",
                   "text": "Eines der wirksamsten Heilbäder Europas, das Besucher mit seinen mineralreichen Thermalbecken anzieht.",
                   "category": "recreational",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/mosonmagyarovar-flexum-thermal-heilbad.webp",
-                  "image_attribution": {
-                        "author": "geox123",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1003678723499491",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             },
             {
                   "name": "Futura Erlebnismuseum",
                   "text": "Ein interaktives Wissenschaftszentrum in einem 300 Jahre alten Getreidespeicher, das Naturphänomene spielerisch erklärt.",
                   "category": "family",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/mosonmagyarovar-futura-erlebnismuseum.webp",
-                  "image_attribution": {
-                        "author": "geox123",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=2894762034115141",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Cselley-Haus",
                   "text": "Ein Gebäude mit mittelalterlichen Elementen, das heute Kunstsammlungen und historische Möbel ausstellt.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/mosonmagyarovar-cselley-haus.webp",
-                  "image_attribution": {
-                        "author": "kafri",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1221935358231638",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Sankt-Gotthard-Kirche",
                   "text": "Barocke Stadtpfarrkirche im Zentrum von Magyaróvár, die auf mittelalterlichen Fundamenten steht.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/mosonmagyarovar-sankt-gotthard-kirche.webp",
-                  "image_attribution": {
-                        "author": "istefanos",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=762195541156305",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Deák-Platz",
                   "text": "Der zentrale Platz mit dem neoklassizistischen Rathaus und dem Habsburghaus, in dem einst die Erzherzöge residierten.",
                   "category": "civic",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/mosonmagyarovar-deak-platz.webp",
-                  "image_attribution": {
-                        "author": "geox123",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=216185630033569",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             }
       ],
       "hu": [
@@ -21991,14 +20409,7 @@ export const hungaryCities: POI[] = [
                   "text": "Die größte neuzeitliche Festung Mitteleuropas, die zwischen 1850 und 1871 erbaut wurde. Sie verfügt über riesige unterirdische Kasematten und dient heute als bedeutendes Kulturzentrum und Freilichtmuseum.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/komarom-festung-monostor.webp",
-                  "image_attribution": {
-                        "author": "istefanos",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=989741215040246",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Brigetio-Thermalbad",
@@ -22019,14 +20430,7 @@ export const hungaryCities: POI[] = [
                   "text": "Das Museum präsentiert archäologische Funde aus der römischen Stadt Brigetio sowie Exponate zur Militärgeschichte der Festungsstadt Komárom.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/komarom-klapka-gyoergy-museum.webp",
-                  "image_attribution": {
-                        "author": "bitnapper",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=215334790055228",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Elisabethbrücke",
@@ -22895,14 +21299,7 @@ export const hungaryCities: POI[] = [
                   "text": "Eines der drei erhaltenen osmanischen Minarette Ungarns stammt aus dem 17. Jahrhundert. Der 23 Meter hohe Turm aus Kalkstein steht im Stadtteil Ófalu und ist ein bedeutendes Denkmal der Türkenzeit.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/erd-minarett-von-erd.webp",
-                  "image_attribution": {
-                        "author": "kvir",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=2959542327608749",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Ungarisches Geographisches Museum",
@@ -22916,28 +21313,14 @@ export const hungaryCities: POI[] = [
                   "text": "Diese Ruine aus dem 15. Jahrhundert war laut Überlieferung die Hundezwinger-Anlage für die Jagdgesellschaften von König Matthias Corvinus. Heute sind nur noch einige Mauerreste auf einem kleinen Hügel zu sehen.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/erd-kutyavar-hundeburg.webp",
-                  "image_attribution": {
-                        "author": "grozsa11",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=700004879502824",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Naturschutzgebiet Kakukk-hegy",
                   "text": "Ein wertvolles Naturareal am Rande der Stadt mit seltener Lössflora und Fauna. Vom Hügel aus bietet sich ein herrlicher Ausblick auf die Donau und die umliegenden Landschaften.",
                   "category": "natural",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/erd-naturschutzgebiet-kakukk-hegy.webp",
-                  "image_attribution": {
-                        "author": "vst",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=510529263645983",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             }
       ],
       "hu": [
@@ -23066,70 +21449,35 @@ export const hungaryCities: POI[] = [
                   "text": "Dies ist die größte reformierte Kirche in Mitteleuropa, entworfen vom berühmten Architekten József Hild. Ihre monumentale klassizistische Fassade prägt den Hauptplatz von Cegléd.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/cegled-reformierte-grosskirche.webp",
-                  "image_attribution": {
-                        "author": "utvonalfelmeresek",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=2562478107387979",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Kossuth-Museum",
                   "text": "Das Museum widmet sich der Erinnerung an Lajos Kossuth und der lokalen Geschichte. Es beherbergt eine umfangreiche Sammlung von Kossuth-Reliquien und volkskundlichen Schätzen der Region.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/cegled-kossuth-museum.webp",
-                  "image_attribution": {
-                        "author": "mkpest2",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1796521380980179",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Heil- und Strandbad Cegléd",
                   "text": "Ein moderner Kurkomplex mit Thermalbecken und einem großen Wasserpark (Aqua Centrum). Das Heilwasser ist besonders für die Behandlung von Gelenk- und Knochenbeschwerden geeignet.",
                   "category": "recreational",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/cegled-heil-und-strandbad-cegled.webp",
-                  "image_attribution": {
-                        "author": "mkpest",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=591697169654789",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             },
             {
                   "name": "Trommelmuseum (Dobmúzeum)",
                   "text": "Eine weltweit einzigartige private Sammlung, die die Geschichte des Schlagzeugs und der Perkussion präsentiert. Besucher können seltene Instrumente und Ausrüstungsgegenstände berühmter Schlagzeuger sehen.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/cegled-trommelmuseum-dobmuzeum.webp",
-                  "image_attribution": {
-                        "author": "utvonalfelmeresek",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=313438723510674",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             },
             {
                   "name": "Szent-Kereszt-Kirche",
                   "text": "Die römisch-katholische Heilig-Kreuz-Kirche ist ein beeindruckendes klassizistisches Bauwerk im Stadtzentrum. Sie wurde im 19. Jahrhundert errichtet und verfügt über eine prächtige Innenausstattung.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/cegled-szent-kereszt-kirche.webp",
-                  "image_attribution": {
-                        "author": "mkpest2",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1081440234184291",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             }
       ],
       "hu": [
@@ -24727,56 +23075,28 @@ export const hungaryCities: POI[] = [
                   "text": "Ein prächtiges Barockschloss, das auf den Ruinen einer mittelalterlichen Burg errichtet wurde. Es beherbergt Ausstellungen zur gräflichen Lebensweise und die Schlosskapelle.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/papa-schloss-esterhazy.webp",
-                  "image_attribution": {
-                        "author": "utvonalfelmeresek",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=780403745883150",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Blaudruckmuseum",
                   "text": "Das Museum befindet sich in der ehemaligen Werkstatt der Familie Kluge und zeigt die traditionelle Technik des Blaudrucks, die zum UNESCO-Welterbe gehört.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/papa-blaudruckmuseum.webp",
-                  "image_attribution": {
-                        "author": "goprohero",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1145240202616588",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             },
             {
                   "name": "Große Katholische Kirche St. Stephan",
                   "text": "Eine monumentale spätbarocke Kirche am Hauptplatz, entworfen von Jakob Fellner. Die Deckenfresken stammen von Franz Anton Maulbertsch.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/papa-grosse-katholische-kirche-st-stephan.webp",
-                  "image_attribution": {
-                        "author": "goprohero",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=374533663939763",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Várkert Thermalbad",
                   "text": "Ein modernes Freizeit- und Heilbad im ehemaligen Schlossgarten mit zahlreichen Innen- und Außenbecken sowie Wellness-Dienstleistungen.",
                   "category": "recreational",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/papa-varkert-thermalbad.webp",
-                  "image_attribution": {
-                        "author": "goprohero",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=224802932391085",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             }
       ],
       "hu": [
@@ -27744,70 +26064,35 @@ export const hungaryCities: POI[] = [
                   "text": "Das spätbarocke U-förmige Schloss wurde zwischen 1754 und 1763 erbaut und prägte den sogenannten Grassalkovich-Stil. Heute beherbergt es unter anderem das Ungarische Jagdmuseum.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/hatvan-schloss-grassalkovich.webp",
-                  "image_attribution": {
-                        "author": "grozsa11",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=358517090223262",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "St. Adalbert Pfarrkirche",
                   "text": "Die spätbarocke Kirche am Kossuth-Platz wurde zwischen 1751 und 1755 an der Stelle eines zerstörten mittelalterlichen Gotteshauses errichtet.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/hatvan-st-adalbert-pfarrkirche.webp",
-                  "image_attribution": {
-                        "author": "istefanos",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1164766151250181",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Lajos-Hatvany-Museum",
                   "text": "Das Museum befindet sich im Gebäude einer ehemaligen Brauerei aus dem 18. Jahrhundert und präsentiert die Lokalgeschichte sowie bedeutende Kunstsammlungen.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/hatvan-lajos-hatvany-museum.webp",
-                  "image_attribution": {
-                        "author": "istefanos",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1235476200812007",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Rathaus von Hatvan",
                   "text": "Das Gebäude wurde 1729 ursprünglich als Frauenkloster auf dem Gelände eines zerstörten Prämonstratenserklosters errichtet.",
                   "category": "civic",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/hatvan-rathaus-von-hatvan.webp",
-                  "image_attribution": {
-                        "author": "vst",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1069095891015300",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Kossuth Platz",
                   "text": "Der zentrale Platz der Stadt, umgeben von den bedeutendsten Baudenkmälern wie dem Schloss, der Kirche und dem Rathaus.",
                   "category": "civic",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/hatvan-kossuth-platz.webp",
-                  "image_attribution": {
-                        "author": "kardave",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=465960051149120",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             }
       ],
       "hu": [
@@ -28127,70 +26412,35 @@ export const hungaryCities: POI[] = [
                   "text": "Ein beliebtes Naherholungsgebiet der Stadt mit Spazierwegen und Möglichkeiten zur Entspannung im Grünen.",
                   "category": "natural",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/kazincbarcika-csonakazo-to-bootssee.webp",
-                  "image_attribution": {
-                        "author": "geox123",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1501447533553661",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Reformierte Kirche Felsőbarcika",
                   "text": "Eine historische Kirche im Barockstil aus dem 18. Jahrhundert, die zu den ältesten Bauwerken der heutigen Stadt gehört.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/kazincbarcika-reformierte-kirche-felsoebarcika.webp",
-                  "image_attribution": {
-                        "author": "geox123",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=512676506594218",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Griechisch-katholische Kirche",
                   "text": "Ein modernes Kirchengebäude, das 1995 eingeweiht wurde und durch seine besondere Architektur besticht.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/kazincbarcika-griechisch-katholische-kirche.webp",
-                  "image_attribution": {
-                        "author": "dyaz",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=241180074455075",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Römisch-katholische Kirche Szent Család",
                   "text": "Ein beeindruckender moderner Kirchenbau, der zwischen 2003 und 2007 nach Plänen von Róza Kiss errichtet wurde.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/kazincbarcika-roemisch-katholische-kirche-szent-csalad.webp",
-                  "image_attribution": {
-                        "author": "vst",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=776817067182303",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Mezey István Kunstzentrum",
                   "text": "Ein kulturelles Zentrum, das Ausstellungen lokaler Künstler und verschiedene kulturelle Veranstaltungen beherbergt.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/kazincbarcika-mezey-istvan-kunstzentrum.webp",
-                  "image_attribution": {
-                        "author": "vst",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=245326088188641",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             }
       ],
       "hu": [
@@ -28368,14 +26618,7 @@ export const hungaryCities: POI[] = [
                   "text": "Ein modernes Ausstellungs- und Kulturzentrum in den Mauern des ehemaligen Kraftwerks der Eisenhütte.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/ozd-digitale-kraftwerk-digitalis-eroemue.webp",
-                  "image_attribution": {
-                        "author": "vst",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1340655123210404",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             }
       ],
       "hu": [
@@ -30005,56 +28248,28 @@ export const hungaryCities: POI[] = [
                   "text": "Das Denkmal erinnert an das Volk der Kumanen (Kyptschaken), das sich im 13. Jahrhundert in dieser Region niederließ. Die Statuengruppe symbolisiert die Bewahrung der Identität und Geschichte des Nagykunság.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/karcag-kumanen-gedenkstaette.webp",
-                  "image_attribution": {
-                        "author": "balazskozak",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=2952379334899585",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Györffy István Nagykun Museum",
                   "text": "Das Museum präsentiert die reiche Volkskunst und Geschichte der Großkumanen (Nagykun). Die Ausstellungen zeigen traditionelle Trachten, Landwirtschaft und das Alltagsleben der Kumanen über die Jahrhunderte.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/karcag-gyoerffy-istvan-nagykun-museum.webp",
-                  "image_attribution": {
-                        "author": "balazskozak",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=674458830776608",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Sándor Kántor Töpferhaus",
                   "text": "Karcag ist berühmt für seine traditionelle Töpferkunst mit kumanischen Einflüssen. Das Haus des berühmten Meisters Sándor Kántor zeigt die charakteristische grüne Glasur und die typischen Motive der Region.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/karcag-sandor-kantor-toepferhaus.webp",
-                  "image_attribution": {
-                        "author": "JNSZ",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1508080004161675",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Reformierte Großkirche",
                   "text": "Die im klassizistischen Stil am Ende des 18. Jahrhunderts erbaut Kirche ist ein dominantes Gebäude am Hauptplatz. Sie ist das geistliche Zentrum der reformierten Gemeinde der Stadt.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/karcag-reformierte-grosskirche.webp",
-                  "image_attribution": {
-                        "author": "balazskozak",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=269984252405873",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Akácliget Heil- und Strandbad",
@@ -30151,14 +28366,7 @@ export const hungaryCities: POI[] = [
                   "text": "The museum showcases the unique history and ethnographic values of the Great Cuman region. It features impressive collections of traditional costumes, pastoral tools, and artifacts from Cuman daily life.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/karcag-gyoerffy-istvan-nagykun-museum.webp",
-                  "image_attribution": {
-                        "author": "balazskozak",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=674458830776608",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Sándor Kántor Pottery House",
@@ -30602,14 +28810,7 @@ export const hungaryCities: POI[] = [
                   "text": "Dieses Museum erinnert an die Vergangenheit der Stadt als bedeutendes Kohlebergbauzentrum im Mecsek-Gebirge. Die Ausstellung zeigt Werkzeuge, Uniformen und Modelle, die die gefährliche Arbeit der Bergleute und den Alltag in der Bergbaustadt veranschaulichen.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/komlo-bergbaugeschichtliche-sammlung-komlo.webp",
-                  "image_attribution": {
-                        "author": "magyarsi",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=438473295596139",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             },
             {
                   "name": "Sikonda-Bad",
@@ -30766,56 +28967,28 @@ export const hungaryCities: POI[] = [
                   "text": "Ein architektonisches Meisterwerk des berühmten Architekten Imre Makovecz, das im organischen Stil erbaut wurde. Die Kirche zeichnet sich durch ihre fließenden Linien, die Verwendung von Holz und ihre symbolträchtige Form aus.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szazhalombatta-sankt-stephans-kirche.webp",
-                  "image_attribution": {
-                        "author": "kolesajr",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=489040838908675",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Sankt-Ladislaus-Kirche",
                   "text": "Diese im neoklassizistischen Stil erbaute katholische Kirche im alten Teil der Stadt ist ein wichtiges religiöses Denkmal. Sie beherbergt wunderschöne Fresken und ist ein ruhiger Ort für Besinnung.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/szazhalombatta-sankt-ladislaus-kirche.webp",
-                  "image_attribution": {
-                        "author": "vst",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1459526241611544",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Donau-Ufer in Százhalombatta",
                   "text": "Das Flussufer bietet wunderschöne Ausblicke auf die Donau und ist ein idealer Ort für Spaziergänge, Angeln oder Radtouren. In den Sommermonaten ist es ein beliebter Erholungsort für die Einwohner.",
                   "category": "natural",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/szazhalombatta-donau-ufer-in-szazhalombatta.webp",
-                  "image_attribution": {
-                        "author": "athy",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=862112564660162",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             },
             {
                   "name": "Csónakázó-tó (Rudersee)",
                   "text": "Ein künstlich angelegter See, der von einem Park umgeben ist und Möglichkeiten zum Bootfahren und Entspannen bietet. Er ist ein zentraler Punkt für Freizeitaktivitäten im Freien in der Stadt.",
                   "category": "recreational",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/szazhalombatta-csonakazo-to-rudersee.webp",
-                  "image_attribution": {
-                        "author": "vasony",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=902905434495563",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             }
       ],
       "hu": [
@@ -30979,42 +29152,21 @@ export const hungaryCities: POI[] = [
                   "text": "Die im spätbarocken Stil erbaute katholische Kirche ist ein markantes Bauwerk im Zentrum. Ihr Innenraum ist mit sakraler Kunst geschmückt und sie spielt eine zentrale Rolle im religiösen Leben der Stadt.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/monor-pfarrkirche-st-stephan.webp",
-                  "image_attribution": {
-                        "author": "mkpest2",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=2185952252177774",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Reformierte Kirche Monor",
                   "text": "Ein historisches Gebäude mit einer charakteristischen Architektur, das die tiefen Wurzeln des Protestantismus in der Region repräsentiert. Die Kirche ist bekannt für ihre schlichte Eleganz und ihre Rolle in der Lokalgeschichte.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki",
-                  "image": "/poi-images/sights/monor-reformierte-kirche-monor.webp",
-                  "image_attribution": {
-                        "author": "pulsarxp",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=1891197231258668",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "wiki"
             },
             {
                   "name": "Stadtbad und Schwimmhalle",
                   "text": "Ein moderner Freizeitkomplex mit Außenbecken für den Sommer und einer Schwimmhalle für das ganze Jahr. Er bietet sportliche Aktivitäten und Entspannung für alle Altersgruppen.",
                   "category": "recreational",
                   "confidence": "high",
-                  "source_hint": "known",
-                  "image": "/poi-images/sights/monor-stadtbad-und-schwimmhalle.webp",
-                  "image_attribution": {
-                        "author": "geolada",
-                        "source": "https://www.mapillary.com/app/?focus=photo&pKey=3212243129002855",
-                        "license": "CC-BY-SA",
-                        "platform": "mapillary"
-                  }
+                  "source_hint": "known"
             }
       ],
       "hu": [
