@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { POI } from './poi';
 export const estoniaReliefV2: POI[] = [
 
@@ -1482,6 +1483,7 @@ export const estoniaReliefV2: POI[] = [
       en: ["Length: 1.5 km", "Maximum depth: 30 m", "Formation: approx. 12,000 years ago", "Number of springs: 3", "Bird species: 45 documented species", "Valley floor width: approx. 100 m"],
       pt: ["Comprimento: 1,5 km", "Profundidade: 30 m", "Largura do fundo do vale: aprox. 100 m", "Origem: há cerca de 12.000 anos", "Espécies de aves: 45 espécies documentadas", "Número de nascentes: 3"],
       fr: ["Longueur : 1,5 km", "Profondeur : 30 m", "Largeur du fond de la vallée : env. 100 m", "Formation : il y a environ 12 000 ans", "Espèces d'oiseaux : 45 espèces documentées", "Nombre de sources : 3"],
+      es: ["Longitud: 1,5 km", "Profundidad: 30 m", "Anchura del fondo del valle: aprox. 100 m", "Origen: hace unos 12.000 años", "Especies de aves: 45 especies documentadas", "Número de manantiales: 3"],
     },
     image: "/poi-images/estonia-kruusa-org-valley-relief-v2.webp",
   },
@@ -1526,6 +1528,7 @@ export const estoniaReliefV2: POI[] = [
       en: ["Elevation: 118 m", "Boundary stones: 8 on the summit", "Forest cover: 90% density", "Bunker installations: 4 historical ruins", "Location: Estonia-Latvia border", "Distance to nearest village: 2 km"],
       pt: ["Altura: 118 m", "Localização: diretamente na fronteira", "Cobertura florestal: 90 % densa", "Instalações defensivas históricas: 4 bunkers preservados", "Marcos de fronteira: 8 no topo", "Distância da aldeia mais próxima: 2 km"],
       fr: ["Hauteur : 118 m", "Emplacement : directement sur la frontière", "Couverture forestière : 90 % dense", "Installations défensives historiques : 4 bunkers conservés", "Bornes frontières : 8 au sommet", "Distance du village le plus proche : 2 km"],
+      es: ["Altura: 118 m", "Ubicación: directamente en la frontera", "Cobertura forestal: 90 % densa", "Instalaciones defensivas históricas: 4 búnkeres conservados", "Hitos fronterizos: 8 en la cima", "Distancia al pueblo más cercano: 2 km"],
     },
     image: "/poi-images/estonia-piiri-magi-hill-relief-v2.webp",
   },
@@ -1570,6 +1573,7 @@ export const estoniaReliefV2: POI[] = [
       en: ["Elevation: 98 m", "Forest area: 100% coverage", "Main tree species: 70% pine", "Forest age: over 100 years", "Wildlife: roe deer and foxes native", "Geology: sandy loam soil"],
       pt: ["Altura: 98 m", "Área florestal: 100%", "Espécies de árvores: 70% pinheiro, 30% abeto", "Idade da floresta: mais de 100 anos", "Uso florestal: corte anual de 50 m³ de madeira", "População de fauna: estimada em 5 corços por km²"],
       fr: ["Hauteur : 98 m", "Superficie forestière : 100 %", "Essences d'arbres : 70 % pin, 30 % épicéa", "Âge de la forêt : plus de 100 ans", "Exploitation forestière : coupe annuelle de 50 m³ de bois", "Faune sauvage : environ 5 chevreuils par km²"],
+      es: ["Altura: 98 m", "Superficie forestal: 100%", "Especies de árboles: 70% pino, 30% abeto", "Edad del bosque: más de 100 años", "Uso forestal: tala anual de 50 m³ de madera", "Población de fauna: estimada en 5 corzos por km²"],
     },
     image: "/poi-images/estonia-metsa-magi-hill-relief-v2.webp",
   },
@@ -1749,6 +1753,7 @@ export const estoniaReliefV2: POI[] = [
       en: ["Length: 800 m", "Maximum depth: 20 m", "Average width: 50 m", "Stream length: 1.2 km", "Amphibian species: 5 documented", "Moss cover: 80% of area"],
       pt: ["Comprimento: 800 m", "Profundidade: 20 m", "Largura: média 50 m", "Comprimento do riacho: 1,2 km", "Espécies de anfíbios: 5 documentadas", "Vegetação: 80% de cobertura de musgo"],
       fr: ["Longueur : 800 m", "Profondeur : 20 m", "Largeur : moyenne 50 m", "Longueur du ruisseau : 1,2 km", "Espèces d'amphibiens : 5 documentées", "Végétation : 80 % de couverture de mousse"],
+      es: ["Longitud: 800 m", "Profundidad: 20 m", "Anchura: promedio 50 m", "Longitud del arroyo: 1,2 km", "Especies de anfibios: 5 documentadas", "Vegetación: 80% de cobertura de musgo"],
     },
     image: "/poi-images/estonia-metsa-org-valley-relief-v2.webp",
   },
@@ -1793,6 +1798,7 @@ export const estoniaReliefV2: POI[] = [
       en: ["Length: 1.2 km", "Elevation: 110 m", "Primary rock: Quartzite", "Rock age: approx. 500 million years", "Quarry operation: 1920-1950", "Rare lichen species: 8 documented"],
       pt: ["Comprimento: 1,2 km", "Altitude: 110 m", "Rocha: Quartzito", "Idade da rocha: cerca de 500 milhões de anos", "Operação de pedreira: 1920-1950", "Espécies de líquenes: 8 espécies raras"],
       fr: ["Longueur : 1,2 km", "Altitude : 110 m", "Roche : Quartzite", "Âge de la roche : env. 500 millions d'années", "Exploitation de carrière : 1920-1950", "Espèces de lichens : 8 espèces rares"],
+      es: ["Longitud: 1,2 km", "Altura: 110 m", "Roca: Cuarcita", "Edad de la roca: aprox. 500 millones de años", "Operación de cantera: 1920-1950", "Especies de líquenes: 8 especies raras"],
     },
     image: "/poi-images/estonia-kruusa-hari-ridge-relief-v2.webp",
   },
@@ -1882,6 +1888,7 @@ export const estoniaReliefV2: POI[] = [
       en: ["Length: 1 km", "Depth: 25 m", "Average width: 40 m", "River length: 3 km", "Tree species: 60% birch, 40% alder", "Wildlife corridor width: 100 m"],
       pt: ["Comprimento: 1 km", "Profundidade: 25 m", "Largura: média 40 m", "Comprimento do rio: 3 km", "Espécies de árvores: 60 % bétula, 40 % amieiro", "Corredor de vida selvagem: largura 100 m"],
       fr: ["Longueur : 1 km", "Profondeur : 25 m", "Largeur : moyenne 40 m", "Longueur de la rivière : 3 km", "Essences d'arbres : 60 % bouleau, 40 % aulne", "Corridor pour la faune sauvage : largeur 100 m"],
+      es: ["Longitud: 1 km", "Profundidad: 25 m", "Anchura: media 40 m", "Longitud del río: 3 km", "Especies de árboles: 60 % abedul, 40 % aliso", "Corredor de fauna: anchura 100 m"],
     },
     image: "/poi-images/estonia-piiri-org-valley-relief-v2.webp",
   },

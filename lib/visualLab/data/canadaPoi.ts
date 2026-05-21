@@ -945,6 +945,7 @@ export const canadaCities: POI[] = [
       hu: ["Quebec adja a világ juharszirup-termelésének körülbelül 70%-át.", "Egy liter juharszirup előállításához 40 liter nyers nedvre van szükség.", "A betakarítási szezon tavasszal mindössze 4-8 hétig tart.", "Quebecben több mint 13 000 regisztrált juharszirup-termelő működik.", "A juharszirupot szín és íz intenzitása alapján négy kategóriába sorolják.", "A juharfákat csak körülbelül 40 éves koruk után lehet először megcsapolni."],
       ro: ["Provincia Quebec produce aproximativ 70% din siropul de arțar la nivel mondial.", "Sunt necesari circa 40 de litri de sevă pentru a obține un singur litru de sirop.", "Sezonul de recoltare durează de regulă între 4 și 8 săptămâni, primăvara.", "În Quebec există peste 13.000 de producători autorizați de sirop de arțar.", "Siropul de arțar este clasificat în patru grade distincte de culoare.", "Arțarii de zahăr trebuie să aibă cel puțin 40 de ani pentru a putea fi recoltați."],
       en: ["Quebec produces approximately 70% of the world's total maple syrup supply.", "It takes roughly 40 liters of sap to create one liter of finished syrup.", "The maple harvesting season typically lasts only 4 to 8 weeks each spring.", "There are more than 13,000 registered maple producers in the province of Quebec.", "Maple syrup is classified into four color classes: Golden, Amber, Dark, and Very Dark.", "Sugar maple trees must be at least 40 years old before they can be tapped."],
+      es: [],
       pt: [],
       fr: [],
     },

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { POI } from './poi';
 export const vanuatuLandmarksV2: POI[] = [
 

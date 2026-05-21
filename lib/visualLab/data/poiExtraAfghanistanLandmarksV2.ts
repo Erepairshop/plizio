@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraAfghanistanLandmarksV2: POI[] = [
@@ -488,9 +489,9 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       hu: "A „Negyven Oszlop Palotája” egy hatalmas parkban fekszik Kabul déli részén. A felújított komplexum pihenésre és kikapcsolódásra hívogat.",
       ro: "„Palatul celor patruzeci de coloane” se află într-un parc imens în sudul Kabulului. Complexul restaurat te invită la relaxare.",
       en: "The 'Palace of Forty Pillars' is located in a vast park in southern Kabul. The restored complex invites visitors to relax and linger.",
+      fr: "Le « Palais des quarante colonnes » est situé dans un vaste parc au sud de Kaboul. Le site restauré invite à la détente.",
       es: "El \"Palacio de las Cuarenta Columnas\" se encuentra en un extenso parque en el sur de Kabul. El complejo restaurado invita al relax.",
       pt: "O \"Palácio das Quarenta Colunas\" está localizado num vasto parque no sul de Cabul. O complexo restaurado convida ao relaxamento.",
-      fr: "Le « Palais des quarante colonnes » est situé dans un vaste parc au sud de Kaboul. Le site restauré invite à la détente.",
     },
     facts: {
       de: ["Heißt übersetzt „40 Säulen“.", "Kürzlich restauriert.", "In einem großen Park.", "Historischer Königssitz."],

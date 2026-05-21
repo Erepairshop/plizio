@@ -9,12 +9,15 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     coords: [48.418, -18.933],
     name: { de: "Andasibe-Mantadia Nationalpark", hu: "Andasibe-Mantadia Nemzeti Park", ro: "Parcul Național Andasibe-Mantadia", en: "Andasibe-Mantadia National Park"},
     image: "/poi-images/andasibe-mantadia-life-v2.webp",
-    description: { de: "Lebensraum für Indri-Lemuren und viele endemische Arten.", hu: "Élőhely az indri makiknak és számos endemikus fajnak.", ro: "Habitat pentru lemurienii Indri și multe specii endemice.", en: "Habitat for Indri lemurs and many endemic species." },
+    description: { de: "Lebensraum für Indri-Lemuren und viele endemische Arten.", hu: "Élőhely az indri makiknak és számos endemikus fajnak.", ro: "Habitat pentru lemurienii Indri și multe specii endemice.", en: "Habitat for Indri lemurs and many endemic species." , es: "Hábitat del lémur indri y de muchas especies endémicas.", pt: "Habitat para lémures Indri e muitas espécies endémicas.", fr: "Habitat des lémuriens Indri et de nombreuses espèces endémiques."},
     facts: {
       de: ["Berühmt für den Indri", "Regenwaldgebiet", "Hohe Biodiversität", "NAtschatten-Lemuren beobachtbar"],
       hu: ["Híres az indriről", "Esőerdő terület", "Magas biodiverzitás", "Éjszakai makik megfigyelhetők"],
       ro: ["Faimos pentru Indri", "Zonă de pădure tropicală", "Biodiversitate ridicată", "Lemurieni nocturni observabili"],
-      en: ["Famous for the Indri", "Rainforest area", "High biodiversity", "Nocturnal lemurs observable"]
+      en: ["Famous for the Indri", "Rainforest area", "High biodiversity", "Nocturnal lemurs observable"],
+      es: ["Famoso por el indri", "Zona de selva tropical", "Alta biodiversidad", "Posibilidad de observar lémures nocturnos"],
+      pt: ["Famoso pelo Indri", "Área de floresta tropical", "Alta biodiversidade", "Observação de lémures noturnos possível"],
+      fr: ["Célèbre pour l'Indri", "Zone de forêt tropicale", "Grande biodiversité", "Possibilité d'observer des lémuriens nocturnes"],
     },
     descriptionAdvanced: {
       de: "Der Nationalpark Andasibe-Mantadia ist eines der bekanntesten Schutzgebiete Madagaskars und liegt etwa 150 Kilometer östlich der Hauptstadt. Er erstreckt sich über eine Fläche von 155 Quadratkilometern und besteht hauptsächlich aus primärem Regenwald in mittlerer Höhenlage. Der Park ist weltberühmt für das Vorkommen des Indri Indri, der größten lebenden Lemurenart, deren charakteristische Gesänge kilometerweit durch den Wald zu hören sind. Neben dem Indri beherbergt das Gebiet elf weitere Lemurenarten, darunter den Diadem-Sifaka und den Bambuslemuren. Die Flora ist ebenso beeindruckend, mit einer riesigen Vielfalt an Orchideen, Farnen und Lianen, die eine dichte, grüne Kulisse bilden. Das Klima ist feucht-tropisch mit häufigen Niederschlägen, was die hohe Biodiversität begünstigt. Für Forscher und Ökotouristen bietet der Park ein einzigartiges Ökosystem, das viele endemische Amphibien- und Reptilienarten sowie über 100 Vogelarten schützt, die nur auf dieser Insel vorkommen.",
@@ -27,6 +30,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
       hu: ["155 négyzetkilométeres terület", "Az Indri maki legnagyobb populációja", "1989-ben alapították", "Több mint 100 madárfaj otthona", "Két különálló részből áll", "Több mint 100 orchideafaj él itt"],
       ro: ["Suprafață de 155 km pătrați", "Habitatul principal pentru Indri Indri", "Înființat în anul 1989", "Adăpostește peste 100 specii de păsări", "Format din două zone distincte", "Peste 100 de specii de orhidee"],
       en: ["Covers an area of 155 square km", "Home to the largest lemur, the Indri", "Established in 1989", "Home to over 100 bird species", "Comprises two distinct protected areas", "Contains over 100 species of orchids"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/andasibe-mantadia-life-v2.webp",
     
     
@@ -38,12 +44,15 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     coords: [45.867, -25.017],
     name: { de: "Berenty-Reservat", hu: "Berenty Rezervátum", ro: "Rezervația Berenty", en: "Berenty Reserve"},
     image: "/poi-images/berenty-reservat-life-v2.webp",
-    description: { de: "Ein privates Reservat, das für seine Ringelschwanz-Lemuren bekannt ist.", hu: "Egy magánrezervátum, amely a gyűrűsfarkú makikról híres.", ro: "O rezervație privată cunoscută pentru lemurienii cu coadă inelată.", en: "A private reserve known for its ring-tailed lemurs." },
+    description: { de: "Ein privates Reservat, das für seine Ringelschwanz-Lemuren bekannt ist.", hu: "Egy magánrezervátum, amely a gyűrűsfarkú makikról híres.", ro: "O rezervație privată cunoscută pentru lemurienii cu coadă inelată.", en: "A private reserve known for its ring-tailed lemurs." , es: "Una reserva privada conocida por sus lémures de cola anillada.", pt: "Uma reserva privada conhecida pelos seus lémures de cauda anelada.", fr: "Une réserve privée célèbre pour ses lémuriens à queue annelée."},
     facts: {
       de: ["Ringelschwanz-Lemuren", "Dornenwald-Ökosystem", "Privates Schutzgebiet", "Forschungsschwerpunkt"],
       hu: ["Gyűrűsfarkú makik", "Tüskés erdő ökoszisztéma", "Magán természetvédelmi terület", "Kutatási központ"],
       ro: ["Lemurieni cu coadă inelată", "Ecosistem de pădure spinoasă", "Arie protejată privată", "Centru de cercetare"],
-      en: ["Ring-tailed lemurs", "Spiny forest ecosystem", "Private protected area", "Research center"]
+      en: ["Ring-tailed lemurs", "Spiny forest ecosystem", "Private protected area", "Research center"],
+      es: ["Lémures de cola anillada", "Ecosistema de bosque espinoso", "Área protegida privada", "Foco en investigación"],
+      pt: ["Lémures de cauda anelada", "Ecossistema de floresta espinhosa", "Área protegida privada", "Foco em investigação"],
+      fr: ["Makis catta", "Écosystème de forêt épineuse", "Aire protégée privée", "Centre de recherche"],
     },
     descriptionAdvanced: {
       de: "Das Berenty-Reservat ist ein privates Naturschutzgebiet im Süden Madagaskars, das 1936 von der Familie de Heaulme gegründet wurde. Es liegt am Ufer des Mandrare-Flusses und ist bekannt für seine einzigartige Kombination aus Galeriewald und Trockenwald. Das Reservat wurde international berühmt durch die jahrzehntelangen Studien der Primatologin Alison Jolly über die hier lebenden Kattas (Ringelschwanzlemuren). Neben den Kattas können Besucher auch die tanzenden Larvensifakas und Rote Lemuren aus nächster Nähe beobachten. Das Ökosystem ist geprägt von den bizarren Alluaudia-Pflanzen des Dornwalds, die perfekt an die extrem trockenen Bedingungen der Region angepasst sind. Berenty ist eines der am besten untersuchten Gebiete Madagaskars und bietet wichtige Einblicke in das Verhalten von Lemuren in freier Wildbahn. Trotz seiner geringen Größe von nur wenigen Quadratkilometern ist es ein bedeutendes Refugium für bedrohte Tierarten und ein Beispiel für erfolgreichen privaten Naturschutz auf der Insel.",
@@ -56,6 +65,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
       hu: ["1936-ban alapították", "A de Heaulme család tulajdona", "A Mandrare-folyó partján fekszik", "A gyűrűsfarkú makik fő kutatóhelye", "Ritka tüskés bozótos erdő található itt", "Híres a táncoló szifakákról"],
       ro: ["Fondată în anul 1936", "Proprietatea privată a familiei de Heaulme", "Situată pe malul râului Mandrare", "Centru major de cercetare pentru lemuri", "Adăpostește pădurea de spini", "Faimoasă pentru sifaka 'dansatori'"],
       en: ["Established in 1936", "Privately owned by the de Heaulme family", "Located on the Mandrare River", "Major site for ring-tailed lemur research", "Contains rare spiny forest habitat", "Famous for its 'dancing' sifakas"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/berenty-reservat-life-v2.webp",
     
     
@@ -67,12 +79,15 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     coords: [44.667, -20.083],
     name: { de: "Kirindy-Wald", hu: "Kirindy-erdő", ro: "Pădurea Kirindy", en: "Kirindy Forest"},
     image: "/poi-images/kirindy-wald-life-v2.webp",
-    description: { de: "Ein Trockenwald, in dem der Fossa-Raubtier vorkommt.", hu: "Egy száraz erdő, ahol a fossa ragadozó előfordul.", ro: "O pădure uscată unde trăiește prădătorul Fossa.", en: "A dry forest where the Fossa predator is found." },
+    description: { de: "Ein Trockenwald, in dem der Fossa-Raubtier vorkommt.", hu: "Egy száraz erdő, ahol a fossa ragadozó előfordul.", ro: "O pădure uscată unde trăiește prădătorul Fossa.", en: "A dry forest where the Fossa predator is found." , es: "Un bosque seco donde habita el depredador fosa.", pt: "Uma floresta seca onde habita o predador fossa.", fr: "Une forêt sèche abritant le prédateur fossa."},
     facts: {
       de: ["Heimat des Fossa", "Trockenwald", "Nacht-Lemuren", "Baobab-Bäume in der Nähe"],
       hu: ["A fossa otthona", "Száraz erdő", "Éjszakai makik", "Baobabfák a közelben"],
       ro: ["Casa Fossa", "Pădure uscată", "Lemurieni nocturni", "Baobabi în apropiere"],
-      en: ["Home of the Fossa", "Dry forest", "Nocturnal lemurs", "Baobab trees nearby"]
+      en: ["Home of the Fossa", "Dry forest", "Nocturnal lemurs", "Baobab trees nearby"],
+      es: ["Hogar del fosa", "Bosque seco", "Lémures nocturnos", "Baobabs cercanos"],
+      pt: ["Habitat do fossa", "Floresta seca", "Lémures noturnos", "Baobás nas proximidades"],
+      fr: ["Habitat du fossa", "Forêt sèche", "Lémuriens nocturnes", "Baobabs à proximité"],
     },
     descriptionAdvanced: {
       de: "Der Kirindy-Wald, etwa 60 Kilometer nördlich von Morondava gelegen, ist eines der bedeutendsten Beispiele für den trockenen Laubwald Westmadagaskars. Das Schutzgebiet ist vor allem als bester Ort bekannt, um die Fossa zu beobachten, das größte Raubtier der Insel, das hier eine hohe Populationsdichte aufweist. Neben der Fossa beherbergt der Wald den gefährdeten Riesen-Springratten-Endemiten, der nur in diesem speziellen Ökosystem vorkommt. Die Vegetation ist geprägt von beeindruckenden Affenbrotbäumen (Baobabs) und einer Vielzahl von dornigen Pflanzen, die an die langen Trockenperioden angepasst sind. Kirindy dient als wichtiges Forschungszentrum für das deutsche Primatenzentrum, das hier seit Jahren Studien zu den acht verschiedenen Lemurenarten durchführt, darunter der kleinste Primat der Welt, der Berthe-Mausmaki. Die extremen saisonalen Unterschiede verwandeln den Wald von einer grauen, blattlosen Dornenlandschaft in der Trockenzeit in ein dichtes grünes Paradies während des kurzen Regens. Der Erhalt dieses Waldes ist entscheidend, da der trockene Laubwald einer der am stärksten bedrohten Lebensräume Madagaskars ist.",
@@ -85,6 +100,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
       hu: ["A fossza, a legnagyobb ragadozó otthona", "Itt él a világ legkisebb főemlőse", "Morondavától 60 km-re északra fekszik", "Német kutatóközpont működik itt", "Az óriás ugrópatkány egyetlen élőhelye", "Jellegzetes baobab erdők találhatók itt"],
       ro: ["Habitat principal pentru Fossa", "Găzduiește cel mai mic primat din lume", "Situată la 60 km nord de Morondava", "Centru de cercetare german activ", "Singurul habitat al șobolanului săritor gigant", "Cunoscută pentru baobabii spectaculoși"],
       en: ["Home to the Fossa, the largest predator", "Home to the world's smallest primate", "Located 60 km north of Morondava", "Host to a German research center", "Only habitat of the giant jumping rat", "Famous for its iconic baobab trees"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/kirindy-wald-life-v2.webp",
     
     
@@ -96,12 +114,15 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     coords: [44.75, -18.7],
     name: { de: "Tsingy von Bemaraha Park", hu: "Bemaraha Nemzeti Park", ro: "Parcul Național Bemaraha", en: "Bemaraha National Park"},
     image: "/poi-images/tsingy-bemaraha-park-life-v2.webp",
-    description: { de: "Einzigartige Karstformationen und Lebensraum für seltene Lemuren.", hu: "Egyedülálló karsztképződmények és élőhely ritka makiknak.", ro: "Formațiuni carstice unice și habitat pentru lemurieni rari.", en: "Unique karst formations and habitat for rare lemurs." },
+    description: { de: "Einzigartige Karstformationen und Lebensraum für seltene Lemuren.", hu: "Egyedülálló karsztképződmények és élőhely ritka makiknak.", ro: "Formațiuni carstice unice și habitat pentru lemurieni rari.", en: "Unique karst formations and habitat for rare lemurs." , es: "Formaciones kársticas únicas y hábitat de lémures poco comunes.", pt: "Formações cársticas únicas e habitat para lémures raros.", fr: "Formations karstiques uniques et habitat pour des lémuriens rares."},
     facts: {
       de: ["UNESCO-Welterbe", "Karstfelsen", "Seltene Lemurenarten", "Schwieriges Terrain"],
       hu: ["UNESCO Világörökség", "Karsztos sziklák", "Ritka makifajok", "Nehéz terep"],
       ro: ["Patrimoniu UNESCO", "Stânci carstice", "Specii rare de lemurieni", "Teren dificil"],
-      en: ["UNESCO World Heritage", "Karst rocks", "Rare lemur species", "Difficult terrain"]
+      en: ["UNESCO World Heritage", "Karst rocks", "Rare lemur species", "Difficult terrain"],
+      es: ["Patrimonio de la Humanidad UNESCO", "Rocas kársticas", "Especies de lémures raras", "Terreno difícil"],
+      pt: ["Património Mundial da UNESCO", "Rochas cársticas", "Espécies raras de lémures", "Terreno difícil"],
+      fr: ["Patrimoine mondial de l'UNESCO", "Rochas karstiques", "Espèces de lémuriens rares", "Terrain difficile"],
     },
     descriptionAdvanced: {
       de: "Der Nationalpark Tsingy de Bemaraha im Westen Madagaskars ist ein UNESCO-Weltnaturerbe und bekannt für seine spektakulären Karstlandschaften. Die namensgebenden 'Tsingy' sind messerscharfe Kalksteinnadeln, die durch Jahrtausende der Erosion und tektonischer Hebungen entstanden sind. Das Gebiet ist in den Großen und den Kleinen Tsingy unterteilt und bietet ein Labyrinth aus tiefen Schluchten, Höhlen und Plateaus. Trotz der lebensfeindlich wirkenden Steinwüste beherbergt der Park eine erstaunliche Biodiversität, darunter elf Lemurenarten und zahlreiche endemische Reptilien. Die Flora hat sich an die extremen Bedingungen angepasst, wobei Sukkulenten und kleine Bäume direkt in den Felsspalten wachsen. Der Park ist durch den Manambolo-Fluss begrenzt, der eine tiefe Schlucht in den Kalkstein geschnitten hat. Für Besucher wurden spektakuläre Hängebrücken und Klettersteige (Via Ferrata) installiert, um die Durchquerung der scharfkantigen Felsen zu ermöglichen. Tsingy de Bemaraha gilt als einer der am schwersten zugänglichen, aber visuell beeindruckendsten Orte der Erde.",
@@ -114,6 +135,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
       hu: ["1990 óta UNESCO Világörökség", "Borotvaéles mészkőoszlopok alkotják", "Nagy és Kis Tsingy részekre oszlik", "11 makifaj él a területén", "A Manambolo-folyó határolja", "Híres a szédítő függőhídjairól"],
       ro: ["Patrimoniu Mondial UNESCO din 1990", "Format din ace de calcar ascuțite", "Divizat în Marele și Micul Tsingy", "Găzduiește 11 specii de lemurieni", "Traversat de râul Manambolo", "Cunoscut pentru podurile suspendate"],
       en: ["UNESCO World Heritage site since 1990", "Composed of razor-sharp limestone needles", "Divided into Great and Little Tsingy", "Home to 11 species of lemurs", "Bordered by the Manambolo River", "Famous for its dramatic hanging bridges"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/tsingy-bemaraha-park-life-v2.webp",
     
     
@@ -125,12 +149,15 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     coords: [47.45, -21.41],
     name: { de: "Sahambavy Teeplantage", hu: "Sahambavy teaültetvény", ro: "Plantația de ceai Sahambavy", en: "Sahambavy Tea Plantation"},
     image: "/poi-images/sahambavy-tee-plantage-life-v2.webp",
-    description: { de: "Madagaskars größte Teeplantage in einer schönen Hügellandschaft.", hu: "Madagaszkár legnagyobb teaültetvénye egy szép dombos tájon.", ro: "Cea mai mare plantație de ceai din Madagascar într-un peisaj deluros frumos.", en: "Madagascar's largest tea plantation in a beautiful hilly landscape." },
+    description: { de: "Madagaskars größte Teeplantage in einer schönen Hügellandschaft.", hu: "Madagaszkár legnagyobb teaültetvénye egy szép dombos tájon.", ro: "Cea mai mare plantație de ceai din Madagascar într-un peisaj deluros frumos.", en: "Madagascar's largest tea plantation in a beautiful hilly landscape." , es: "La plantación de té más grande de Madagascar en un hermoso paisaje de colinas.", pt: "A maior plantação de chá de Madagáscar numa bela paisagem de colinas.", fr: "La plus grande plantation de thé de Madagascar dans un magnifique paysage de collines."},
     facts: {
       de: ["Größte Teeplantage", "Qualitätstee", "Hügelige Region", "Lokale Beschäftigung"],
       hu: ["Legnagyobb teaültetvény", "Minőségi tea", "Dombos vidék", "Helyi munkahelyek"],
       ro: ["Cea mai mare plantație de ceai", "Ceai de calitate", "Regiune deluroasă", "Locuri de muncă locale"],
-      en: ["Largest tea plantation", "Quality tea", "Hilly region", "Local employment"]
+      en: ["Largest tea plantation", "Quality tea", "Hilly region", "Local employment"],
+      es: ["Plantación de té más grande", "Té de calidad", "Región montañosa", "Empleo local"],
+      pt: ["Maior plantação de chá", "Chá de qualidade", "Região montanhosa", "Emprego local"],
+      fr: ["Plus grande plantation de thé", "Thé de qualité", "Région vallonnée", "Emploi local"],
     },
     descriptionAdvanced: {
       de: "Die Teeplantage Sahambavy ist die einzige kommerzielle Teeplantage Madagaskars und liegt in der Nähe der Stadt Fianarantsoa im zentralen Hochland. Sie wurde 1970 mit technischer Unterstützung aus Kenia gegründet und erstreckt sich heute über eine Fläche von etwa 335 Hektar. Das kühle, feuchte Klima der Region bietet ideale Bedingungen für den Anbau von Teesträuchern auf einer Höhe von rund 1.100 Metern. Die Plantage produziert jährlich etwa 500 Tonnen Tee, von denen der größte Teil über die Teebörse in Mombasa weltweit exportiert wird. Ein kleinerer Anteil wird lokal unter dem Namen 'Sidibe' vermarktet. Besucher können die weitläufigen grünen Hügel besichtigen, den Teepflückerinnen bei ihrer mühsamen Arbeit zusehen und den Verarbeitungsprozess in der Fabrik verfolgen. Die Plantage ist nicht nur ein bedeutender Wirtschaftsfaktor für die Region, sondern auch ein beliebtes Ausflugsziel, das einen Einblick in eine für Madagaskar seltene Form der Landwirtschaft bietet.",
@@ -143,6 +170,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
       hu: ["Madagaszkár egyetlen teaültetvénye", "1970-ben alapították", "Területe kb. 335 hektár", "Évi 500 tonna teát termel", "1100 méteres magasságban fekszik", "Exportra termelnek a mambasai tőzsdére"],
       ro: ["Singura plantație de ceai din Madagascar", "Înființată în anul 1970", "Suprafață de aproximativ 335 hectare", "Producție anuală de 500 tone de ceai", "Situată la 1.100 metri altitudine", "Exportă ceai prin bursa din Mombasa"],
       en: ["Only tea plantation in Madagascar", "Established in the year 1970", "Covers about 335 hectares of land", "Produces 500 tons of tea per year", "Situated at 1,100 meters altitude", "Exports via the Mombasa tea auction"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/sahambavy-tee-plantage-life-v2.webp",
     
     
@@ -154,12 +184,15 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     coords: [47.03, -19.86],
     name: { de: "Antsirabe Kinderpark", hu: "Antsirabe gyermekpark", ro: "Parcul pentru copii Antsirabe", en: "Antsirabe Children's Park"},
     image: "/poi-images/antsirabe-kinderpark-life-v2.webp",
-    description: { de: "Ein beliebter Ort für Familien in der Stadt Antsirabe.", hu: "Népszerű hely családoknak Antsirabe városában.", ro: "Un loc popular pentru familii în orașul Antsirabe.", en: "A popular place for families in the city of Antsirabe." },
+    description: { de: "Ein beliebter Ort für Familien in der Stadt Antsirabe.", hu: "Népszerű hely családoknak Antsirabe városában.", ro: "Un loc popular pentru familii în orașul Antsirabe.", en: "A popular place for families in the city of Antsirabe." , es: "Un lugar popular para las familias en la ciudad de Antsirabe.", pt: "Um local popular para famílias na cidade de Antsirabe.", fr: "Un lieu prisé des familles dans la ville d'Antsirabe."},
     facts: {
       de: ["Familienfreundlich", "Spielplätze", "Grünfläche", "Zentral gelegen"],
       hu: ["Családbarát", "Játszóterek", "Zöldövezet", "Központi fekvés"],
       ro: ["Prietenos cu familiile", "Locuri de joacă", "Spațiu verde", "Amplasare centrală"],
-      en: ["Family friendly", "Playgrounds", "Green space", "Centrally located"]
+      en: ["Family friendly", "Playgrounds", "Green space", "Centrally located"],
+      es: ["Ideal para familias", "Zonas de juego", "Espacio verde", "Céntrico"],
+      pt: ["Amigo das famílias", "Parques infantis", "Espaço verde", "Localização central"],
+      fr: ["Adapté aux familles", "Aires de jeux", "Espace vert", "Situation centrale"],
     },
     descriptionAdvanced: {
       de: "Der Kinderpark von Antsirabe ist eine zentrale Grünanlage in der drittgrößten Stadt Madagaskars, die für ihr kühles Klima und ihre Thermalquellen bekannt ist. Der Park dient als wichtiger Erholungsraum für die lokale Bevölkerung und ist besonders an Wochenenden ein beliebter Treffpunkt für Familien. Er bietet verschiedene Spielgeräte für Kinder sowie weitläufige Rasenflächen und schattenspendende Bäume, die Schutz vor der intensiven Hochlandsonne bieten. Gelegen im Vakinankaratra-Hochland auf etwa 1.500 Metern Höhe, spiegelt der Park die entspannte Atmosphäre der Stadt wider, die oft als 'Stadt des Wassers' bezeichnet wird. In der Nähe befinden sich historische Gebäude aus der Kolonialzeit und die berühmten Thermalbäder, was den Park zu einem idealen Ausgangspunkt für Stadtbesichtigungen macht. Obwohl er im Vergleich zu den Nationalparks bescheidener ist, erfüllt er eine wichtige soziale Funktion als Gemeinschaftsort und bietet einen authentischen Einblick in das tägliche Leben der Bewohner von Antsirabe.",
@@ -172,6 +205,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
       hu: ["Antsirabe központi pihenőhelye", "1500 méteres magasságban fekszik", "Népszerű családi találkozóhely", "A városi termálforrások közelében található", "Öreg fák nyújtanak árnyékot", "Madagaszkár 3. legnagyobb városában van"],
       ro: ["Loc central de recreere în Antsirabe", "Situat la 1.500 metri altitudine", "Loc de întâlnire popular pentru familii", "Aproape de izvoarele termale ale orașului", "Dispune de arbori seculari pentru umbră", "Situat în al treilea oraș ca mărime"],
       en: ["Central recreational spot in Antsirabe", "Located at 1,500 meters altitude", "Popular gathering place for families", "Close to the city's thermal springs", "Features mature trees for shade", "Located in Madagascar's 3rd largest city"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/antsirabe-kinderpark-life-v2.webp",
     
     
@@ -183,12 +219,15 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     coords: [48.42, -18.94],
     name: { de: "Andasibe Orchideenpark", hu: "Andasibe orchideapark", ro: "Parcul de orhidee Andasibe", en: "Andasibe Orchid Park"},
     image: "/poi-images/andasibe-orchid-park-life-v2.webp",
-    description: { de: "Ein kleiner Park voller exotischer Orchideen, ideal für Kinder.", hu: "Kicsi park tele egzotikus orchideákkal, ideális gyerekeknek.", ro: "Un parc mic plin de orhidee exotice, ideal pentru copii.", en: "A small park full of exotic orchids, ideal for kids." },
+    description: { de: "Ein kleiner Park voller exotischer Orchideen, ideal für Kinder.", hu: "Kicsi park tele egzotikus orchideákkal, ideális gyerekeknek.", ro: "Un parc mic plin de orhidee exotice, ideal pentru copii.", en: "A small park full of exotic orchids, ideal for kids." , es: "Un pequeño parque lleno de orquídeas exóticas, ideal para niños.", pt: "Um pequeno parque cheio de orquídeas exóticas, ideal para crianças.", fr: "Un petit parc plein d'orchidées exotiques, idéal pour les enfants."},
     facts: {
       de: ["Exotische Flora", "Einfache Wege", "Lehrreich für Kinder", "Schön angelegt"],
       hu: ["Egzotikus növényvilág", "Könnyű ösvények", "Tanulságos gyerekeknek", "Szépen kialakított"],
       ro: ["Floră exotică", "Poteci ușoare", "Educativ pentru copii", "Frumos amenajat"],
-      en: ["Exotic flora", "Easy paths", "Educational for kids", "Beautifully laid out"]
+      en: ["Exotic flora", "Easy paths", "Educational for kids", "Beautifully laid out"],
+      es: ["Flora exótica", "Senderos sencillos", "Educativo para niños", "Bellamente diseñado"],
+      pt: ["Flora exótica", "Caminhos simples", "Educativo para crianças", "Bem desenhado"],
+      fr: ["Flore exotique", "Sentiers faciles", "Éducatif pour les enfants", "Joliment aménagé"],
     },
     descriptionAdvanced: {
       de: "Der Orchideenpark von Andasibe ist ein spezialisierter botanischer Garten, der sich der Erhaltung und Ausstellung der enormen Orchideenvielfalt Madagaskars widmet. In unmittelbarer Nähe zum Andasibe-Mantadia Nationalpark gelegen, beherbergt er über 100 verschiedene Orchideenarten, von denen viele endemisch und stark bedroht sind. Das Highlight des Parks ist zweifellos die Angraecum sesquipedale, auch bekannt als 'Stern von Madagaskar', die durch Charles Darwin und seine Evolutionstheorie Weltruhm erlangte. Die beste Besuchszeit ist zwischen Oktober und Januar, wenn die meisten Arten in voller Blüte stehen und ein beeindruckendes Farb- und Formenspektrum zeigen. Neben Orchideen finden sich hier auch fleischfressende Pflanzen und seltene Farne, die im feuchten Regenwaldklima gedeihen. Der Park bietet Bildungsprogramme über die komplexe Symbiose zwischen Orchideen und ihren Bestäubern an. Er ist ein Muss für Botanik-Liebhaber und bietet eine konzentrierte Übersicht der madagassischen Flora auf kleinstem Raum.",
@@ -201,6 +240,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
       hu: ["Több mint 100 orchideafaj él itt", "A 'Madagaszkár csillaga' otthona", "Fő virágzási idő: október-január", "Az Andasibe-Mantadia Park mellett van", "Húsevő növények is láthatók itt", "Botanikai oktatóközpontként is működik"],
       ro: ["Peste 100 de specii de orhidee", "Habitat pentru 'Steaua Madagascarului'", "Înflorire maximă în octombrie-ianuarie", "Lângă Parcul Andasibe-Mantadia", "Conține și specii de plante carnivore", "Centru de studiu pentru polenizare"],
       en: ["Features over 100 species of orchids", "Home of the 'Star of Madagascar'", "Peak flowering from October to January", "Located near Andasibe-Mantadia Park", "Contains various carnivorous plants", "Focuses on orchid pollination research"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/andasibe-orchid-park-life-v2.webp",
     
     
@@ -212,12 +254,15 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     coords: [48.43, -18.92],
     name: { de: "Vakona Lemureninsel", hu: "Vakona maki-sziget", ro: "Insula Lemurienilor Vakona", en: "Vakona Lemur Island"},
     image: "/poi-images/vakona-lemuren-insel-life-v2.webp",
-    description: { de: "Eine Insel, wo Lemuren frei herumlaufen und man sie hautnah erleben kann.", hu: "Sziget, ahol a makik szabadon szaladgálnak és közelről megismerhetők.", ro: "O insulă unde lemurienii aleargă liberi și pot fi experimentați de aproape.", en: "An island where lemurs run free and can be experienced up close." },
+    description: { de: "Eine Insel, wo Lemuren frei herumlaufen und man sie hautnah erleben kann.", hu: "Sziget, ahol a makik szabadon szaladgálnak és közelről megismerhetők.", ro: "O insulă unde lemurienii aleargă liberi și pot fi experimentați de aproape.", en: "An island where lemurs run free and can be experienced up close." , es: "Una isla donde los lémures deambulan libremente y se pueden experimentar de cerca.", pt: "Uma ilha onde os lémures andam livremente e podem ser vividos de perto.", fr: "Une île où les lémuriens circulent librement et peuvent être observés de près."},
     facts: {
       de: ["Direkter Lemurenkontakt", "Sehr beliebt bei Kindern", "Sicherer Bereich", "Einfacher Zugang"],
       hu: ["Közvetlen maki-kapcsolat", "Nagyon népszerű gyerekeknél", "Biztonságos terület", "Könnyű megközelíthetőség"],
       ro: ["Contact direct cu lemurienii", "Foarte popular la copii", "Zonă sigură", "Acces ușor"],
-      en: ["Direct lemur contact", "Very popular with kids", "Safe area", "Easy access"]
+      en: ["Direct lemur contact", "Very popular with kids", "Safe area", "Easy access"],
+      es: ["Contacto directo con lémures", "Muy popular entre los niños", "Zona segura", "Fácil acceso"],
+      pt: ["Contacto direto com lémures", "Muito popular entre as crianças", "Área segura", "Acesso fácil"],
+      fr: ["Contact direct avec les lémuriens", "Très populaire auprès des enfants", "Zone sécurisée", "Accès facile"],
     },
     descriptionAdvanced: {
       de: "Vakona Lemur Island ist ein privates Reservat, das zur Vakona Forest Lodge in der Nähe von Andasibe gehört. Das Reservat besteht aus vier kleinen Inseln, die durch Kanäle voneinander getrennt sind und nur mit dem Kanu erreicht werden können. Hier wurden verschiedene Lemurenarten angesiedelt, die aus schlechter Haltung gerettet wurden oder verwaist waren. Da die Tiere auf den Inseln isoliert sind und regelmäßig gefüttert werden, haben sie ihre Scheu vor Menschen weitgehend verloren. Dies ermöglicht Besuchern eine außergewöhnlich nahe Begegnung mit Schwarzweißen Vari, Braunen Lemuren und Bambuslemuren, die oft direkt auf die Schultern der Gäste springen. Obwohl es kein völlig wildes Habitat ist, dient die Insel als wichtiges Bildungszentrum, um das Bewusstsein für den Schutz dieser bedrohten Primaten zu schärfen. Die dichte Vegetation auf den Inseln bietet den Tieren dennoch Rückzugsmöglichkeiten und ein naturnahes Umfeld. Für Fotografen und Familien ist Vakona einer der wenigen Orte, an denen man Lemuren ohne Fernglas aus nächster Nähe erleben kann.",
@@ -230,6 +275,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
       hu: ["Négy kis szigetből áll", "Csak kenuval érhető el", "Mentett makik menedékhelye", "Szelíd fekete-fehér varik élnek itt", "A Vakona Lodge magánterülete", "Népszerű hely a maki-fotózáshoz"],
       ro: ["Compusă din patru insule mici", "Accesibilă doar cu canoea", "Refugiu pentru lemurieni salvați", "Lemurieni Vari alb-negru prietenoși", "Parte a complexului privat Vakona Lodge", "Loc ideal pentru fotografierea lemurienilor"],
       en: ["Consists of four small islands", "Accessible only by canoe", "Home to rescued and orphaned lemurs", "Friendly black-and-white ruffed lemurs", "Part of the private Vakona Forest Lodge", "Popular spot for close-up photography"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/vakona-lemuren-insel-life-v2.webp",
     
     
@@ -241,12 +289,15 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     coords: [46.7, -19.1],
     name: { de: "Ampefy Geysir-Park", hu: "Ampefy gejzírpark", ro: "Parcul de gheizere Ampefy", en: "Ampefy Geyser Park"},
     image: "/poi-images/ampefy-geyser-park-life-v2.webp",
-    description: { de: "Interessante natürliche Geysire, die Kinder faszinieren.", hu: "Érdekes természetes gejzírek, amelyek lenyűgözik a gyerekeket.", ro: "Gheizere naturale interesante care fascinează copiii.", en: "Interesting natural geysers that fascinate children." },
+    description: { de: "Interessante natürliche Geysire, die Kinder faszinieren.", hu: "Érdekes természetes gejzírek, amelyek lenyűgözik a gyerekeket.", ro: "Gheizere naturale interesante care fascinează copiii.", en: "Interesting natural geysers that fascinate children." , es: "Interesantes géiseres naturales que fascinan a los niños.", pt: "Géisers naturais interessantes que fascinam as crianças.", fr: "Des geysers naturels intéressants qui fascinent les enfants."},
     facts: {
       de: ["Naturphänomen", "Leicht zugänglich", "Spannend für Kinder", "Einzigartig in Madagaskar"],
       hu: ["Természeti jelenség", "Könnyen elérhető", "Izgalmas gyerekeknek", "Egyedülálló Madagaszkáron"],
       ro: ["Fenomen natural", "Ușor accesibil", "Captivant pentru copii", "Unic în Madagascar"],
-      en: ["Natural phenomenon", "Easily accessible", "Exciting for kids", "Unique in Madagascar"]
+      en: ["Natural phenomenon", "Easily accessible", "Exciting for kids", "Unique in Madagascar"],
+      es: ["Fenómeno natural", "Fácilmente accesible", "Emocionante para los niños", "Único en Madagascar"],
+      pt: ["Fenómeno natural", "Facilmente acessível", "Emocionante para as crianças", "Único em Madagáscar"],
+      fr: ["Phénomène naturel", "Facilement accessible", "Passionnant pour les enfants", "Unique à Madagascar"],
     },
     descriptionAdvanced: {
       de: "Die Geysire von Ampefy, die sich in der Nähe der Ortschaft Analavory im zentralen Hochland von Madagaskar befinden, stellen ein seltenes geologisches Phänomen dar. Im Gegensatz zu typischen vulkanischen Geysiren handelt es sich hierbei um Kaltwassergeysire, die durch den Druck von Kohlendioxid aus der Zersetzung von Kalkstein im Untergrund gespeist werden. Das mineralreiche Wasser führt zur Bildung von Travertinterrassen und markanten ockerfarbenen Ablagerungen, die die Umgebung der Austrittsstellen prägen. Es gibt vier Hauptquellen, aus denen das Wasser in unregelmäßigen Abständen bis zu drei Meter hoch schießen kann, wobei die Intensität vom Gasdruck abhängt. Die Region um Ampefy ist zudem für ihre vulkanische Vergangenheit bekannt, was sich in den nahegelegenen Kraterseen wie dem Itasy-See widerspiegelt. Die Geysire dienen heute sowohl wissenschaftlichen Untersuchungen als auch dem lokalen Tourismus, da das mineralhaltige Wasser oft in künstlich angelegten Becken aufgefangen wird. Die geologische Struktur der Region ermöglicht einen tiefen Einblick in die post-vulkanischen Aktivitäten der Insel.",
@@ -259,6 +310,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
       hu: ["A gejzírek körülbelül 12 kilométerre találhatók Analavory városától.", "Hidegvizes források, amelyeket szén-dioxid nyomása hoz működésbe.", "A víz magas kalcium-tartalma miatt sárgásbarna travertin dombok jöttek létre.", "A vízsugarak magassága elérheti a 3 métert a gáznyomástól függően.", "A terület az Itasy-masszívum vulkanikus övezetéhez tartozik.", "A források környékén mesterséges medencék épültek a látogatók számára."],
       ro: ["Gheizerele se află la o distanță de aproximativ 12 kilometri de Analavory.", "Sunt clasificate ca gheizere de apă rece, alimentate de presiunea CO2.", "Depunerile de travertin au creat formațiuni masive de culoare galben-maronie.", "Apa poate fi aruncată în aer până la o înălțime de aproximativ 3 metri.", "Regiunea face parte din câmpul vulcanic al masivului Itasy.", "Bazinele din jurul gheizerelor sunt folosite pentru băi minerale."],
       en: ["The geysers are located approximately 12 kilometers from the town of Analavory.", "They are cold-water geysers powered by subterranean carbon dioxide pressure.", "Massive travertine deposits have formed around the vents due to high mineral content.", "Water eruptions can reach a height of up to 3 meters during peak pressure.", "The site is situated within the volcanic region of the Itasy Massif.", "Man-made pools have been constructed to capture the mineral-rich water for bathing."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/ampefy-geyser-park-life-v2.webp",
     
     
@@ -270,12 +324,15 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     coords: [49.4, -18.15],
     name: { de: "Tamatave Stadtpark", hu: "Tamatave városi park", ro: "Parcul orașului Tamatave", en: "Tamatave City Park"},
     image: "/poi-images/tamatave-stadtpark-life-v2.webp",
-    description: { de: "Ein grüner Rückzugsort in der Hafenstadt Tamatave.", hu: "Zöld menedék Tamatave kikötővárosban.", ro: "O retragere verde în orașul port Tamatave.", en: "A green retreat in the port city of Tamatave." },
+    description: { de: "Ein grüner Rückzugsort in der Hafenstadt Tamatave.", hu: "Zöld menedék Tamatave kikötővárosban.", ro: "O retragere verde în orașul port Tamatave.", en: "A green retreat in the port city of Tamatave." , es: "Un refugio verde en la ciudad portuaria de Tamatave.", pt: "Um refúgio verde na cidade portuária de Tamatave.", fr: "Un refuge verdoyant dans la ville portuaire de Tamatave."},
     facts: {
       de: ["Große Parkfläche", "Schattenreiche Bäume", "Perfekt für Picknicks", "Stadtzentrum"],
       hu: ["Nagy parkterület", "Árnyékos fák", "Tökéletes piknikezéshez", "Városközpont"],
       ro: ["Suprafață mare de parc", "Copaci cu umbră", "Perfect pentru picnicuri", "Centru oraș"],
-      en: ["Large park area", "Shady trees", "Perfect for picnics", "City center"]
+      en: ["Large park area", "Shady trees", "Perfect for picnics", "City center"],
+      es: ["Gran área de parque", "Árboles sombreados", "Perfecto para picnics", "Centro de la ciudad"],
+      pt: ["Grande área de parque", "Árvores sombreadas", "Perfeito para piqueniques", "Centro da cidade"],
+      fr: ["Grande surface de parc", "Arbres ombragés", "Parfait pour les pique-niques", "Centre-ville"],
     },
     descriptionAdvanced: {
       de: "Der Stadtpark von Tamatave, oft mit der Place Bienaimé oder der Place de la Colonne assoziiert, bildet das grüne Herz der wichtigsten Hafenstadt Madagaskars, Toamasina. Der Park ist ein bedeutendes Zeugnis der kolonialen Stadtplanung und zeichnet sich durch seine Alleen aus jahrhundertealten Banyan-Feigenbäumen aus, deren Luftwurzeln beeindruckende Formationen bilden. Inmitten des geschäftigen Treibens des Hafens und der Märkte bietet die Anlage einen Rückzugsort für die lokale Bevölkerung und Besucher gleichermaßen. Das Denkmal in der Mitte des Parks erinnert an historische Ereignisse der Stadt und spiegelt die wechselvolle Geschichte der Ostküste wider. Die Architektur der umgebenden Gebäude zeigt noch heute den Einfluss französischer Bauweise aus dem frühen 20. Jahrhundert. Botanisch gesehen beherbergt der Park verschiedene tropische Pflanzenarten, die typisch für das feuchte Klima der Küstenregion sind. Als sozialer Treffpunkt dient er regelmäßig für öffentliche Veranstaltungen und kulturelle Zusammenkünfte, was seine zentrale Bedeutung für das städtische Leben von Toamasina unterstreicht.",
@@ -288,6 +345,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
       hu: ["Toamasina (Tamatave) Madagaszkár legnagyobb kereskedelmi kikötője.", "A park monumentális banjanfügefáknak ad otthont, hatalmas léggyökerekkel.", "A Place Bienaimé a francia gyarmati időszak alatt alakult ki.", "Központi emlékművek őrzik a város felszabadításának és múltjának emlékét.", "A park mindössze néhány száz méterre fekszik a tengerparttól.", "Toamasina az Antananarivóból induló vasútvonal végállomása."],
       ro: ["Toamasina (Tamatave) este cel mai mare port comercial din Madagascar.", "Parcul găzduiește arbori banyan monumentali cu rădăcini aeriene vaste.", "Place Bienaimé a fost amenajată în timpul perioadei coloniale franceze.", "Monumentele centrale comemorează eliberarea și istoria locală.", "Parcul este situat la doar câteva sute de metri de linia țărmului.", "Toamasina reprezintă punctul terminus al liniei ferate din Antananarivo."],
       en: ["Toamasina (Tamatave) is the largest commercial port in Madagascar.", "The park features monumental Banyan trees with extensive aerial roots.", "Place Bienaimé was designed and established during the French colonial era.", "Central monuments commemorate local history and national independence.", "The park is located within walking distance of the Indian Ocean coastline.", "Toamasina serves as the final destination for the railway from Antananarivo."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/tamatave-stadtpark-life-v2.webp",
     
     
@@ -299,12 +359,15 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     coords: [49.73, -15.43],
     name: { de: "Maroantsetra Vanillefarm", hu: "Maroantsetra vaníliagazdaság", ro: "Ferma de vanilie Maroantsetra", en: "Maroantsetra Vanilla Farm"},
     image: "/poi-images/maroantsetra-vanille-farm-life-v2.webp",
-    description: { de: "Besuch einer echten Vanillefarm, um mehr über die Würze zu erfahren.", hu: "Egy igazi vaníliagazdaság látogatása, hogy többet megtudj a fűszerről.", ro: "Vizitarea unei ferme adevărate de vanilie pentru a afla mai multe despre condiment.", en: "Visit to a real vanilla farm to learn more about the spice." },
+    description: { de: "Besuch einer echten Vanillefarm, um mehr über die Würze zu erfahren.", hu: "Egy igazi vaníliagazdaság látogatása, hogy többet megtudj a fűszerről.", ro: "Vizitarea unei ferme adevărate de vanilie pentru a afla mai multe despre condiment.", en: "Visit to a real vanilla farm to learn more about the spice." , es: "Visita a una auténtica granja de vainilla para aprender más sobre esta especia.", pt: "Visita a uma autêntica quinta de baunilha para aprender mais sobre esta especiaria.", fr: "Visite d'une authentique ferme de vanille pour en savoir plus sur cette épice."},
     facts: {
       de: ["Vanilleanbau", "Lerne die Ernte kennen", "Duftende Umgebung", "Lehrreich für Familien"],
       hu: ["Vaníliatermesztés", "Ismerd meg a betakarítást", "Illatos környezet", "Tanulságos családoknak"],
       ro: ["Cultivarea vaniliei", "Învață despre recoltare", "Mediu parfumat", "Educativ pentru familii"],
-      en: ["Vanilla cultivation", "Learn about the harvest", "Fragrant environment", "Educational for families"]
+      en: ["Vanilla cultivation", "Learn about the harvest", "Fragrant environment", "Educational for families"],
+      es: ["Cultivo de vainilla", "Conoce la cosecha", "Entorno fragante", "Educativo para familias"],
+      pt: ["Cultivo de baunilha", "Conheça a colheita", "Ambiente perfumado", "Educativo para famílias"],
+      fr: ["Culture de la vanille", "Découvrez la récolte", "Environnement parfumé", "Éducatif pour les familles"],
     },
     descriptionAdvanced: {
       de: "Maroantsetra, gelegen am nördlichen Ende der Bucht von Antongil, ist ein Zentrum des Vanilleanbaus in Madagaskar, dem weltweit führenden Produzenten dieses Gewürzes. Die Vanillefarmen in dieser Region nutzen das extrem feuchte, tropische Klima der Analanjirofo-Region, das ideale Wachstumsbedingungen für die Orchideenart Vanilla planifolia bietet. Da die natürlichen Bestäuber in Madagaskar fehlen, muss jede Blüte auf den Farmen mühsam von Hand bestäubt werden, ein Prozess, der als 'Mariage' bekannt ist. Nach der Ernte durchlaufen die grünen Schoten einen monatelangen Fermentations- und Trocknungsprozess, bei dem sie ihr charakteristisches Aroma und ihre dunkle Farbe entwickeln. Die Farmen sind oft in Agroforstsysteme integriert, in denen die Vanilleranken an Stützbäumen wie Kakao oder Kaffee hochwachsen, was die Biodiversität schützt. Maroantsetra dient als wichtigster Exporthafen für die Erzeugnisse der umliegenden Dörfer, trotz der schwierigen logistischen Erreichbarkeit der Region. Die Vanilleproduktion ist der wirtschaftliche Rückgrat der lokalen Bevölkerung und bestimmt den Lebensrhythmus im Nordosten der Insel.",
@@ -317,6 +380,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
       hu: ["Madagaszkár biztosítja a világ vaníliaszükségletének mintegy 80%-át.", "Maroantsetra a Masoala Nemzeti Park bejáratánál fekszik.", "A vaníliavirágok beporzása kizárólag kézzel történik.", "A vaníliahüvelyek fermentálása általában 3-6 hónapig tart.", "Az Analanjirofo név jelentése: 'szegfűszegerdő'.", "A régióban az évi csapadékmennyiség meghaladja a 3000 mm-t."],
       ro: ["Madagascar furnizează aproximativ 80% din cererea mondială de vanilie.", "Maroantsetra se află la poarta de intrare în Parcul Național Masoala.", "Polenizarea florilor de vanilie se face exclusiv prin metodă manuală.", "Fermentarea păstăilor durează de obicei între 3 și 6 luni.", "Analanjirofo se traduce literal prin 'pădurea de cuișoare'.", "Regiunea înregistrează precipitații de peste 3000 mm pe an."],
       en: ["Madagascar produces approximately 80% of the world's natural vanilla supply.", "Maroantsetra serves as the primary gateway to Masoala National Park.", "Pollination of vanilla orchids is performed entirely by hand.", "The curing process for vanilla beans typically lasts between 3 to 6 months.", "The regional name Analanjirofo means 'forest of cloves.'", "The area receives an annual rainfall exceeding 3,000 mm."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/maroantsetra-vanille-farm-life-v2.webp",
     
     
@@ -328,12 +394,15 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     coords: [48.25, -13.3],
     name: { de: "Nosy Be Korallenriff", hu: "Nosy Be korallzátony", ro: "Reciful de corali Nosy Be", en: "Nosy Be Coral Reef"},
     image: "/poi-images/nosy-be-korallenriff-life-v2.webp",
-    description: { de: "Ein Paradies für Unterwasserbeobachtungen von Fischen und Schildkröten.", hu: "Paradicsom a halak és teknősök víz alatti megfigyelésére.", ro: "Un paradis pentru observarea subacvatică a peștilor și țestoaselor.", en: "A paradise for underwater observation of fish and turtles." },
+    description: { de: "Ein Paradies für Unterwasserbeobachtungen von Fischen und Schildkröten.", hu: "Paradicsom a halak és teknősök víz alatti megfigyelésére.", ro: "Un paradis pentru observarea subacvatică a peștilor și țestoaselor.", en: "A paradise for underwater observation of fish and turtles." , es: "Un paraíso para la observación submarina de peces y tortugas.", pt: "Um paraíso para a observação subaquática de peixes e tartarugas.", fr: "Un paradis pour l'observation sous-marine des poissons et des tortues."},
     facts: {
       de: ["Schnorcheln möglich", "Bunte Korallen", "Tropische Fische", "Meeresschildkröten"],
       hu: ["Snorkelezés lehetséges", "Színes korallok", "Trópusi halak", "Tengeri teknősök"],
       ro: ["Snorkeling posibil", "Corali colorați", "Pești tropicali", "Țestoase marine"],
-      en: ["Snorkeling possible", "Colorful corals", "Tropical fish", "Sea turtles"]
+      en: ["Snorkeling possible", "Colorful corals", "Tropical fish", "Sea turtles"],
+      es: ["Esnórquel disponible", "Corales coloridos", "Peces tropicales", "Tortugas marinas"],
+      pt: ["Snorkeling disponível", "Corais coloridos", "Peixes tropicais", "Tartarugas marinhas"],
+      fr: ["Snorkeling possible", "Coraux colorés", "Poissons tropicaux", "Tortues de mer"],
     },
     descriptionAdvanced: {
       de: "Das Korallenriff von Nosy Be im Nordwesten Madagaskars gehört zu den artenreichsten marinen Ökosystemen im Indischen Ozean. Es wird durch die warme Strömung des Mosambik-Kanals begünstigt und beheimatet eine enorme Vielfalt an Hart- und Weichkorallen, die als Lebensraum für Hunderte von Fischarten dienen. Das Riffsystem erstreckt sich um die Hauptinsel und zahlreiche Nebeninseln wie Nosy Tanikely und Nosy Komba. Neben bunten Riffbarschen und Papageienfischen können Taucher hier regelmäßig Meeresschildkröten, Rochen und während der Wanderungszeit auch Buckelwale beobachten. Die Gesundheit des Riffs ist jedoch durch steigende Wassertemperaturen und Sedimentation bedroht, weshalb Schutzmaßnahmen in Form von Meeresreservaten verstärkt wurden. Diese Reservate reglementieren den Fischfang und fördern einen nachhaltigen Tauchtourismus, der zur lokalen Wirtschaft beiträgt. Die Sichtweiten unter Wasser sind aufgrund des klaren, nährstoffreichen Wassers oft exzellent. Die geologische Beschaffenheit der Korallenbänke bietet zudem Schutz für die Küstenlinie vor Erosion durch starke Meeresströmungen.",
@@ -346,6 +415,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
       hu: ["A Nosy Be név malgas nyelven 'Nagy Szigetet' jelent.", "A Mozambiki-csatorna több mint 400 korallfajnak ad otthont.", "A hosszúszárnyú bálnák augusztus és november között láthatók.", "Nosy Tanikelyt 2010-ben nyilvánították tengeri nemzeti parkká.", "A tengervíz hőmérséklete egész évben 25°C és 30°C között mozog.", "A zátony védi a mangroveerdőket a közvetlen hullámveréstől."],
       ro: ["Numele Nosy Be înseamnă 'Insula Mare' în limba Sakalava.", "Canalul Mozambic găzduiește peste 400 de specii de corali.", "Balenele cu cocoașă vizitează aceste ape între august și noiembrie.", "Nosy Tanikely a fost declarat parc național marin în anul 2010.", "Temperatura apei variază între 25°C și 30°C pe tot parcursul anului.", "Reciful protejează pădurile de mangrove de acțiunea directă a valurilor."],
       en: ["The name Nosy Be translates to 'Big Island' in the Sakalava language.", "The Mozambique Channel is home to over 400 distinct coral species.", "Humpback whales migrate through these waters from August to November.", "Nosy Tanikely was officially designated a Marine National Park in 2010.", "Water temperatures remain between 25°C and 30°C throughout the year.", "The reefs serve to shield mangrove forests from direct wave impact."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/nosy-be-korallenriff-life-v2.webp",
     
     
@@ -357,12 +429,15 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     coords: [47.45, -21.25],
     name: { de: "Ranomafana Zoo-Bereich", hu: "Ranomafana állatkerti terület", ro: "Zona zoologică Ranomafana", en: "Ranomafana Zoo Area"},
     image: "/poi-images/ranomafana-zoo-bereich-life-v2.webp",
-    description: { de: "Ein geschützter Bereich zur Beobachtung der lokalen Fauna.", hu: "Védett terület a helyi fauna megfigyelésére.", ro: "O zonă protejată pentru observarea faunei locale.", en: "A protected area for observing local fauna." },
+    description: { de: "Ein geschützter Bereich zur Beobachtung der lokalen Fauna.", hu: "Védett terület a helyi fauna megfigyelésére.", ro: "O zonă protejată pentru observarea faunei locale.", en: "A protected area for observing local fauna." , es: "Una zona protegida para la observación de la fauna local.", pt: "Uma área protegida para a observação da fauna local.", fr: "Une zone protégée pour l'observation de la faune locale."},
     facts: {
       de: ["Lokale Fauna", "Gut für Fotos", "Natur pur", "Lehrreich"],
       hu: ["Helyi fauna", "Jó fotózáshoz", "Tiszta természet", "Tanulságos"],
       ro: ["Fauna locală", "Bun pentru fotografii", "Natură pură", "Educativ"],
-      en: ["Local fauna", "Good for photos", "Pure nature", "Educational"]
+      en: ["Local fauna", "Good for photos", "Pure nature", "Educational"],
+      es: ["Fauna local", "Ideal para fotos", "Naturaleza pura", "Educativo"],
+      pt: ["Fauna local", "Bom para fotos", "Natureza pura", "Educativo"],
+      fr: ["Faune locale", "Idéal pour les photos", "Pleine nature", "Éducatif"],
     },
     descriptionAdvanced: {
       de: "Der Zoo- und Forschungsbereich von Ranomafana ist eng mit dem gleichnamigen Nationalpark im Südosten Madagaskars verbunden, der 1991 nach der Entdeckung des Goldenen Bambusmaki gegründet wurde. Das Centre ValBio, eine international renommierte Forschungsstation am Rande des Parks, dient als Zentrum für die Erforschung der einzigartigen Biodiversität der Region. In den kontrollierten Bereichen können Besucher und Wissenschaftler bedrohte Lemurenarten sowie seltene Reptilien und Amphibien in ihrem natürlichen Habitat beobachten. Der Bergregenwald von Ranomafana zeichnet sich durch eine extrem hohe Niederschlagsrate und eine dichte Vegetation aus, die ideale Bedingungen für endemische Arten bietet. Das Gelände umfasst steile Hänge und Täler, die vom Namorona-Fluss durchquert werden, dessen Wasserfälle eine markante Landmarke darstellen. Neben der Forschung spielt der Bereich eine zentrale Rolle bei Bildungsinitiativen für die lokale Bevölkerung, um das Bewusstsein für den Naturschutz zu schärfen. Die Einrichtung unterstützt zudem Aufforstungsprojekte, um die Pufferzonen um das geschützte Kerngebiet des Parks zu erweitern. Als Teil des UNESCO-Welterbes der Regenwälder von Atsinanana ist die Erhaltung dieses Bereichs von globaler Bedeutung.",
@@ -375,6 +450,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
       hu: ["A Ranomafana név 'forró vizet' jelent a helyi termálforrások miatt.", "A parkban 12 különböző makifaj él szabadon.", "Az arany bambuszmakit csak 1986-ban írták le tudományosan.", "A terület 600 és 1200 méter közötti tengerszint feletti magasságban fekszik.", "Ranomafana 2007 óta az UNESCO Világörökség része.", "A Centre ValBio állomást Dr. Patricia Wright társalapította."],
       ro: ["Numele Ranomafana înseamnă 'apă fierbinte' datorită izvoarelor termale.", "Parcul găzduiește 12 specii diferite de lemuri.", "Lemurul auriu de bambus a fost descris științific abia în 1986.", "Terenul se întinde la o altitudine cuprinsă între 600 și 1200 de metri.", "Ranomafana face parte din Patrimoniul Mondial UNESCO din 2007.", "Centre ValBio a fost co-fondat de Dr. Patricia Wright."],
       en: ["The name Ranomafana translates to 'hot water' in Malagasy.", "The park is home to 12 distinct species of lemurs.", "The Golden Bamboo Lemur was first scientifically described in 1986.", "The protected area spans altitudes from 600 to 1,200 meters.", "Ranomafana was designated a UNESCO World Heritage site in 2007.", "Centre ValBio was co-founded by renowned primatologist Dr. Patricia Wright."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/ranomafana-zoo-bereich-life-v2.webp",
     
     
@@ -386,12 +464,15 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     coords: [48.3, -18.9],
     name: { de: "Lakato Lemurenschutz", hu: "Lakato maki-védelem", ro: "Protecția lemurienilor Lakato", en: "Lakato Lemur Conservation"},
     image: "/poi-images/lakato-lemuren-schutz-life-v2.webp",
-    description: { de: "Ein engagiertes Projekt zum Schutz und zur Beobachtung der Lemuren.", hu: "Elkötelezett projekt a makik védelmére és megfigyelésére.", ro: "Un proiect dedicat pentru protejarea și observarea lemurienilor.", en: "A dedicated project for protecting and observing lemurs." },
+    description: { de: "Ein engagiertes Projekt zum Schutz und zur Beobachtung der Lemuren.", hu: "Elkötelezett projekt a makik védelmére és megfigyelésére.", ro: "Un proiect dedicat pentru protejarea și observarea lemurienilor.", en: "A dedicated project for protecting and observing lemurs." , es: "Un proyecto dedicado a la protección y observación de los lémures.", pt: "Um projeto dedicado à proteção e observação dos lémures.", fr: "Un projet engagé pour la protection et l'observation des lémuriens."},
     facts: {
       de: ["Artenschutz", "Naturbeobachtung", "Einsatz für Lemuren", "Familiengerecht"],
       hu: ["Fajvédelem", "Természetmegfigyelés", "Elkötelezettség a makikért", "Családbarát"],
       ro: ["Conservarea speciilor", "Observarea naturii", "Dedicație pentru lemurieni", "Prietenos cu familia"],
-      en: ["Species conservation", "Nature observation", "Dedication to lemurs", "Family friendly"]
+      en: ["Species conservation", "Nature observation", "Dedication to lemurs", "Family friendly"],
+      es: ["Protección de especies", "Observación de la naturaleza", "Compromiso con los lémures", "Apto para familias"],
+      pt: ["Proteção de espécies", "Observação da natureza", "Empenho pelos lémures", "Adequado para famílias"],
+      fr: ["Protection des espèces", "Observation de la nature", "Engagement pour les lémuriens", "Adapté aux familles"],
     },
     descriptionAdvanced: {
       de: "Das Lemuren-Schutzgebiet von Lakato liegt in der Nähe von Moramanga im Osten Madagaskars und ist ein kritischer Lebensraum für einige der am stärksten bedrohten Primaten der Welt. Besonders bekannt ist die Region für den Indri (Indri indri), den größten lebenden Lemuren, dessen charakteristische Gesänge kilometerweit durch den dichten Regenwald zu hören sind. Die Schutzbemühungen in Lakato konzentrieren sich auf den Erhalt der verbleibenden Waldkorridore, die durch Brandrodung und illegalen Holzeinschlag gefährdet sind. Lokale Gemeinschaften sind aktiv in die Überwachung und den Schutz des Gebiets eingebunden, wobei Ökotourismus als nachhaltige Alternative zur Waldnutzung gefördert wird. Die Topographie des Gebiets ist durch hügeliges Gelände und primären Regenwald geprägt, der eine enorme botanische Vielfalt aufweist. Neben den Indris beheimatet Lakato auch verschiedene Arten von Mauslemuren und den Diadem-Sifaka. Die wissenschaftliche Erforschung der Bestände in Lakato liefert wichtige Daten für nationale Erhaltungsstrategien. Die Region dient zudem als wichtiges Wassereinzugsgebiet für die umliegenden landwirtschaftlichen Flächen, was die ökologische Bedeutung des Waldschutzes weiter unterstreicht.",
@@ -404,6 +485,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
       hu: ["Az indri az egyetlen makifaj, amelynek nincs hosszú farka.", "Lakato a népszerű Andasibe-Mantadia Nemzeti Park közelében fekszik.", "Az indrik éneke a terület kijelölését és a kommunikációt szolgálja.", "Az égetéses erdőirtás (tavy) a legnagyobb veszély a területre.", "A védett övezetben él a ritka diadémszifaka is.", "A régiót magas páratartalom és gyakori ködképződés jellemzi."],
       ro: ["Indri este singurul lemur care nu posedă o coadă lungă.", "Lakato se află în proximitatea celebrului Parc Național Andasibe-Mantadia.", "Cântecele lemurilor Indri servesc la delimitarea teritoriului.", "Agricultura prin ardere (tavy) reprezintă cea mai mare amenințare.", "Zona adăpostește exemplare rare de sifaka cu diademă.", "Regiunea este caracterizată de umiditate ridicată și ceață densă."],
       en: ["The Indri is the only lemur species that lacks a long tail.", "Lakato is located near the well-known Andasibe-Mantadia National Park.", "The vocalizations of the Indri are used for territorial defense.", "Slash-and-burn agriculture (tavy) is the primary threat to the habitat.", "The area is a key sanctuary for the endangered Diademed Sifaka.", "The region is characterized by high humidity and frequent forest mist."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/lakato-lemuren-schutz-life-v2.webp",
     
     
@@ -415,12 +499,15 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     coords: [47.05, -19.9],
     name: { de: "Antsirabe Reisfelder", hu: "Antsirabe rizsföldek", ro: "Orezăriile Antsirabe", en: "Antsirabe Rice Fields"},
     image: "/poi-images/antsirabe-reis-felder-life-v2.webp",
-    description: { de: "Beeindruckende terrassierte Reisfelder in der Hochebene.", hu: "Lenyűgöző teraszos rizsföldek a fennsíkon.", ro: "Orezării terasate impresionante pe platou.", en: "Impressive terraced rice fields in the highlands." },
+    description: { de: "Beeindruckende terrassierte Reisfelder in der Hochebene.", hu: "Lenyűgöző teraszos rizsföldek a fennsíkon.", ro: "Orezării terasate impresionante pe platou.", en: "Impressive terraced rice fields in the highlands." , es: "Impresionantes campos de arroz en terrazas en las tierras altas.", pt: "Impressionantes campos de arroz em socalcos nas terras altas.", fr: "Impressionnantes rizières en terrasses sur les hauts plateaux."},
     facts: {
       de: ["Landwirtschaftliche Technik", "Grüne Terrassen", "Traditionell", "Fotogen"],
       hu: ["Mezőgazdasági technika", "Zöld teraszok", "Hagyományos", "Fotogén"],
       ro: ["Tehnică agricolă", "Terase verzi", "Tradițional", "Fotogenic"],
-      en: ["Agricultural technique", "Green terraces", "Traditional", "Photogenic"]
+      en: ["Agricultural technique", "Green terraces", "Traditional", "Photogenic"],
+      es: ["Técnica agrícola", "Terrazas verdes", "Tradicional", "Fotogénico"],
+      pt: ["Técnica agrícola", "Terraços verdes", "Tradicional", "Fotogénico"],
+      fr: ["Technique agricole", "Terrasses vertes", "Traditionnel", "Photogénique"],
     },
     descriptionAdvanced: {
       de: "Die Reisfelder um Antsirabe im zentralen Hochland von Madagaskar sind ein eindrucksvolles Beispiel für die Anpassung der Landwirtschaft an die vulkanische Topographie der Region. Das Vakinankaratra-Plateau ist durch fruchtbare, mineralreiche Böden geprägt, die den intensiven Anbau von Reis, dem Grundnahrungsmittel der Madagassen, ermöglichen. In den Tälern und an den Hängen finden sich kunstvoll angelegte Terrassen, die oft über Jahrhunderte hinweg von Hand geformt wurden. Die Bewässerung erfolgt über ein komplexes System aus Kanälen, die das Wasser der zahlreichen Gebirgsbäche verteilen. Neben dem Reisanbau wird in der Region auch Gemüse und Obst kultiviert, was Antsirabe zum 'Gemüsegarten' der Insel macht. Die landwirtschaftliche Nutzung prägt das Landschaftsbild maßgeblich und spiegelt die kulturelle Bedeutung des Reises (Vary) wider, der tief in den Traditionen der Merina und Betsileo verwurzelt ist. Während der Erntezeit im April und Mai herrscht in den Feldern rege Betriebsamkeit, wobei traditionelle Methoden oft noch Vorrang vor modernen Maschinen haben. Die vulkanischen Kegel im Hintergrund bilden eine dramatische Kulisse für diese agrarische Kulturlandschaft.",
@@ -433,6 +520,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
       hu: ["Antsirabe körülbelül 1500 méteres tengerszint feletti magasságban fekszik.", "Madagaszkáron az egyik legmagasabb az egy főre jutó rizsfogyasztás a világon.", "A termékeny talaj a korábbi vulkáni hamuból származik.", "A teraszos művelés megakadályozza a talajeróziót a meredek lejtőkön.", "A rizs mellett Antsirabe a termálforrásairól is nevezetes.", "Hagyományosan a rizsföldeket gyakran ma is zebukkal szántják fel."],
       ro: ["Antsirabe este situat la o altitudine de aproximativ 1500 de metri.", "Madagascar are unul dintre cele mai mari consumuri de orez pe cap de locuitor.", "Solurile fertile provin din depunerile de cenușă vulcanică.", "Terasarea previne eroziunea solului pe pantele abrupte.", "Pe lângă orez, Antsirabe este renumit pentru izvoarele sale termale.", "În mod tradițional, orezul este încă arat cu ajutorul zebubilor."],
       en: ["Antsirabe is situated at an elevation of approximately 1,500 meters.", "Madagascar has one of the highest per capita rice consumption rates globally.", "The region's fertile soil is derived from ancient volcanic ash deposits.", "Terracing is essential for preventing soil erosion on the steep highland slopes.", "Antsirabe is equally famous for its natural thermal springs.", "Traditional rice cultivation often utilizes zebus for plowing the paddies."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/antsirabe-reis-felder-life-v2.webp",
     
     
@@ -444,12 +534,15 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     coords: [48.24, -13.48],
     name: { de: "Nosy Tanikely Meeresschutzgebiet", hu: "Nosy Tanikely tengeri rezervátum", ro: "Rezervația marină Nosy Tanikely", en: "Nosy Tanikely Marine Reserve"},
     image: "/poi-images/nosy-tanikely-marine-life-v2.webp",
-    description: { de: "Hervorragendes Gebiet zum Schnorcheln mit reicher Unterwasserwelt.", hu: "Kiváló terület snorkelezéshez gazdag víz alatti világgal.", ro: "Zonă excelentă pentru snorkeling cu o viață subacvatică bogată.", en: "Excellent area for snorkeling with a rich underwater world." },
+    description: { de: "Hervorragendes Gebiet zum Schnorcheln mit reicher Unterwasserwelt.", hu: "Kiváló terület snorkelezéshez gazdag víz alatti világgal.", ro: "Zonă excelentă pentru snorkeling cu o viață subacvatică bogată.", en: "Excellent area for snorkeling with a rich underwater world." , es: "Excelente zona para practicar esnórquel con una rica vida submarina.", pt: "Excelente zona para snorkeling com uma rica vida subaquática.", fr: "Excellente zone de snorkeling avec une riche vie sous-marine."},
     facts: {
       de: ["Sehr klares Wasser", "Reiche Unterwasserfauna", "Geschützt", "Beliebt für Ausflüge"],
       hu: ["Nagyon tiszta víz", "Gazdag víz alatti fauna", "Védett", "Népszerű kirándulásokhoz"],
       ro: ["Apă foarte clară", "Faună subacvatică bogată", "Protejat", "Popular pentru excursii"],
-      en: ["Very clear water", "Rich underwater fauna", "Protected", "Popular for trips"]
+      en: ["Very clear water", "Rich underwater fauna", "Protected", "Popular for trips"],
+      es: ["Agua muy clara", "Rica fauna submarina", "Protegida", "Popular para excursiones"],
+      pt: ["Água muito límpida", "Rica fauna subaquática", "Protegida", "Popular para excursões"],
+      fr: ["Eau très claire", "Riche faune sous-marine", "Protégée", "Populaire pour les excursions"],
     },
     descriptionAdvanced: {
       de: "Das Meeresreservat Nosy Tanikely, südlich von Nosy Be gelegen, ist einer der erfolgreichsten Meeresnationalparks Madagaskars. Die kleine Vulkaninsel ist von einem intakten Korallenriff umgeben, das aufgrund seines Schutzstatus eine außergewöhnliche Dichte an mariner Flora und Fauna aufweist. Da das Fischen im Umkreis der Insel streng verboten ist, haben sich die Fischbestände regeneriert und bieten Tauchern sowie Schnorchlern die Möglichkeit, Meeresschildkröten, Leopardenhaie und riesige Fischschwärme in geringer Tiefe zu beobachten. Das klare, türkisfarbene Wasser bietet Sichtweiten von bis zu 30 Metern, was den Ort zu einem der besten Schnorchelreviere des Landes macht. Auf der Insel selbst befindet sich ein historischer Leuchtturm aus der Kolonialzeit, der einen Panoramablick über den Archipel bietet. Die terrestrische Fauna umfasst unter anderem Flughunde und verschiedene Reptilienarten. Das Reservat wird streng bewacht, um den Schutz der empfindlichen Korallenbänke vor mechanischen Schäden durch Boote zu gewährleisten. Die geologische Struktur der Insel besteht vorwiegend aus Basaltgestein, das einen kontrastreichen Hintergrund zu den weißen Sandstränden bildet.",
@@ -462,6 +555,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
       hu: ["Nosy Tanikelyt 2010-ben nyilvánították hivatalosan nemzeti parkká.", "A sziget lakatlan, és kizárólag természetvédelmi célokat szolgál.", "A sziget csúcsán álló történelmi világítótorony 1908-ban épült.", "A szigeten jelentős repülőkutya-kolónia (Pteropus rufus) él.", "A korallpadok több mint 200 különböző halfajnak adnak otthont.", "A Nosy Tanikely név jelentése: 'a kis föld szigete'."],
       ro: ["Nosy Tanikely a fost declarat oficial parc național în anul 2010.", "Insula este nelocuită și servește exclusiv conservării naturii.", "Farul istoric de pe vârful insulei a fost construit în anul 1908.", "Aici există o colonie mare de vulpi zburătoare (Pteropus rufus).", "Bancurile de corali găzduiesc peste 200 de specii de pești de recif.", "Nosy Tanikely se traduce prin 'Insula Pământului Mic'."],
       en: ["Nosy Tanikely was officially designated as a National Park in 2010.", "The island is uninhabited and dedicated solely to conservation.", "The historic lighthouse atop the island's peak was constructed in 1908.", "A significant colony of Malagasy fruit bats inhabits the island's trees.", "The surrounding reefs are home to more than 200 species of reef fish.", "The name Nosy Tanikely means 'Island of the Small Earth' in Malagasy."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/nosy-tanikely-marine-life-v2.webp",
     
     
@@ -473,12 +569,15 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     coords: [43.66, -23.35],
     name: { de: "Toliara Botanischer Garten", hu: "Toliara botanikus kert", ro: "Grădina Botanică Toliara", en: "Toliara Botanical Garden"},
     image: "/poi-images/toliara-botanischer-garten-life-v2.webp",
-    description: { de: "Ein kleiner Garten mit endemischen Pflanzen Madagaskars.", hu: "Kis kert Madagaszkár endemikus növényeivel.", ro: "O grădină mică cu plante endemice din Madagascar.", en: "A small garden with endemic plants of Madagascar." },
+    description: { de: "Ein kleiner Garten mit endemischen Pflanzen Madagaskars.", hu: "Kis kert Madagaszkár endemikus növényeivel.", ro: "O grădină mică cu plante endemice din Madagascar.", en: "A small garden with endemic plants of Madagascar." , es: "Un pequeño jardín con plantas endémicas de Madagascar.", pt: "Um pequeno jardim com plantas endémicas de Madagáscar.", fr: "Un petit jardin avec des plantes endémiques de Madagascar."},
     facts: {
       de: ["Endemische Arten", "Bildungsort", "Ruhig", "Schön gepflegt"],
       hu: ["Endemikus fajok", "Oktatóhely", "Nyugodt", "Szépen karbantartott"],
       ro: ["Specii endemice", "Loc educațional", "Liniștit", "Frumos întreținut"],
-      en: ["Endemic species", "Educational place", "Quiet", "Beautifully maintained"]
+      en: ["Endemic species", "Educational place", "Quiet", "Beautifully maintained"],
+      es: ["Especies endémicas", "Lugar educativo", "Tranquilo", "Bien cuidado"],
+      pt: ["Espécies endémicas", "Local educativo", "Tranquilo", "Bem cuidado"],
+      fr: ["Espèces endémiques", "Lieu éducatif", "Calme", "Bien entretenu"],
     },
     descriptionAdvanced: {
       de: "Der Botanische Garten von Toliara, primär bekannt als Arboretum d'Antsokay, ist eine der wichtigsten Einrichtungen zur Erhaltung der Flora des trockenen Südwestens Madagaskars. Er wurde 1980 vom Schweizer Botaniker Hermann Petignat gegründet und beherbergt über 900 Pflanzenarten, von denen 90 % endemisch für die Region sind. Die Sammlung konzentriert sich auf die einzigartige Flora des Dornwaldes (Spiny Forest), darunter zahlreiche Arten von Didiereaceae und massiven Baobabs. Das Arboretum dient nicht nur als Schaugarten, sondern auch als Forschungszentrum für die Vermehrung seltener und bedrohter Sukkulenten. Die Region Toliara ist durch ein extrem semiarides Klima geprägt, an das die Pflanzen durch außergewöhnliche morphologische Merkmale wie Wasserspeicher und Dornen angepasst sind. Besucher können auf dem Gelände auch lokale Tierarten wie Lemuren, Chamäleons und verschiedene Vögel beobachten, die in den geschützten Bäumen Zuflucht finden. Ein Informationszentrum vermittelt Wissen über die traditionelle medizinische Nutzung vieler Pflanzen durch die einheimische Bevölkerung. Die Anlage spielt eine entscheidende Rolle im Kampf gegen die fortschreitende Wüstenbildung und den Verlust der Biodiversität im Süden der Insel.",
@@ -491,6 +590,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
       hu: ["Az arborétum területe körülbelül 40 hektárt tesz ki.", "Az itt bemutatott növények több mint 90%-a endemikus.", "Hermann Petignat 30 évet szentelt életéből ennek a projektnek.", "Toliara régiója évente kevesebb mint 400 mm csapadékot kap.", "Itt található a ritka 'polipfa' (Alluaudia procera) is.", "A központ szorosan együttműködik a Toliara-i Egyetemmel."],
       ro: ["Arboretumul se întinde pe o suprafață de aproximativ 40 de hectare.", "Peste 90% dintre plantele expuse aici sunt endemice.", "Hermann Petignat a dedicat 30 de ani din viața sa acestui proiect.", "Regiunea Toliara primește mai puțin de 400 mm de precipitații pe an.", "Aici poate fi găsit rarul 'copac caracatiță' (Alluaudia procera).", "Centrul colaborează strâns cu Universitatea din Toliara."],
       en: ["The arboretum covers a total area of approximately 40 hectares.", "Over 90% of the plant species within the collection are endemic.", "Hermann Petignat spent 30 years developing this botanical sanctuary.", "The Toliara region receives an annual rainfall of less than 400 mm.", "The collection features the rare 'octopus tree' (Alluaudia procera).", "The center maintains a close partnership with the University of Toliara."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/toliara-botanischer-garten-life-v2.webp",
     
     
@@ -502,12 +604,15 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     coords: [48.0, -22.14],
     name: { de: "Manakara Kanal", hu: "Manakara csatorna", ro: "Canalul Manakara", en: "Manakara Canal"},
     image: "/poi-images/manakara-kanal-life-v2.webp",
-    description: { de: "Eine entspannte Bootsfahrt auf dem Kanal, ideal für Kinder.", hu: "Pihentető csónakázás a csatornán, ideális gyerekeknek.", ro: "O plimbare relaxantă cu barca pe canal, ideală pentru copii.", en: "A relaxing boat trip on the canal, ideal for kids." },
+    description: { de: "Eine entspannte Bootsfahrt auf dem Kanal, ideal für Kinder.", hu: "Pihentető csónakázás a csatornán, ideális gyerekeknek.", ro: "O plimbare relaxantă cu barca pe canal, ideală pentru copii.", en: "A relaxing boat trip on the canal, ideal for kids." , es: "Un relajante paseo en barco por el canal, ideal para niños.", pt: "Um passeio de barco relaxante pelo canal, ideal para crianças.", fr: "Une promenade en bateau relaxante sur le canal, idéale pour les enfants."},
     facts: {
       de: ["Bootsausflug", "Naturerlebnis", "Sehr entspannend", "Familienaktivität"],
       hu: ["Csónakázás", "Természetélmény", "Nagyon pihentető", "Családi tevékenység"],
       ro: ["Excursie cu barca", "Experiență în natură", "Foarte relaxant", "Activitate de familie"],
-      en: ["Boat trip", "Nature experience", "Very relaxing", "Family activity"]
+      en: ["Boat trip", "Nature experience", "Very relaxing", "Family activity"],
+      es: ["Excursión en barco", "Experiencia natural", "Muy relajante", "Actividad familiar"],
+      pt: ["Passeio de barco", "Experiência na natureza", "Muito relaxante", "Atividade familiar"],
+      fr: ["Excursion en bateau", "Expérience naturelle", "Très relaxant", "Activité familiale"],
     },
     descriptionAdvanced: {
       de: "Der Manakara-Kanal ist ein wichtiger Teil des historischen Canal des Pangalanes, einer über 600 Kilometer langen Wasserstraße entlang der Ostküste Madagaskars. Dieser Kanal wurde während der französischen Kolonialzeit durch die Verbindung natürlicher Seen und Flüsse geschaffen, um den Warentransport in der stürmischen Küstenregion zu erleichtern. In der Umgebung von Manakara dient die Wasserstraße heute als lebenswichtige Verkehrsader für die lokale Bevölkerung, die Waren wie Gewürze, Reis und Fisch in traditionellen Einbäumen transportiert. Die Ufer sind von üppiger tropischer Vegetation geprägt, darunter Fächerpalmen (Ravenala) und Mangroven, die zahlreichen Vogelarten Lebensraum bieten. Das Wasser des Kanals ist meist ruhig und bildet einen starken Kontrast zum wilden Indischen Ozean, der nur durch eine schmale Düne vom Kanal getrennt ist. Manakara selbst ist bekannt für seine Eisenbahnverbindung zum Hochland, die am Hafen des Kanals endet. Die Durchquerung des Kanals bietet tiefe Einblicke in das traditionelle Leben der Menschen im Osten der Insel. Die Wartung des Kanals stellt aufgrund von Sedimentation und invasiven Wasserpflanzen eine ständige Herausforderung dar.",
@@ -520,6 +625,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
       hu: ["A Pangalanes-csatorna a világ egyik leghosszabb mesterséges vízi útja.", "Manakara a Fianarantsoából induló vasútvonal végállomása.", "A vízi utat az óceántól gyakran mindössze 50-100 méter választja el.", "A hagyományos bödönhajókat Madagaszkáron pirogoknak nevezik.", "A csatorna építése 1896-tól 1904-ig tartott.", "A régió a szegfűszeg és a licsi egyik fő termesztési központja."],
       ro: ["Canalul des Pangalanes este una dintre cele mai lungi căi navigabile din lume.", "Manakara este punctul terminus al liniei ferate din Fianarantsoa.", "Calea navigabilă este separată de ocean adesea prin doar 50-100 de metri.", "Pirogile tradiționale sunt principalul mijloc de transport pe canal.", "Construcția canalului a avut loc între anii 1896 și 1904.", "Regiunea este o zonă principală de producție pentru cuișoare și litchi."],
       en: ["The Canal des Pangalanes is among the longest man-made waterways in the world.", "Manakara serves as the final stop for the FCE railway from Fianarantsoa.", "The canal is often separated from the ocean by a strip of land only 50-100 meters wide.", "Traditional dugout canoes, or pirogues, are the primary vessels used on the canal.", "Initial construction of the canal system occurred between 1896 and 1904.", "This coastal region is a major producer of cloves and lychees for export."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     
@@ -560,12 +668,15 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     coords: [46.7, -24.8],
     name: { de: "Andohahela Nationalpark", hu: "Andohahela Nemzeti Park", ro: "Parcul Național Andohahela", en: "Andohahela National Park"},
     image: "/poi-images/andohahela-nationalpark-life-v2.webp",
-    description: { de: "Ein Übergangsgebiet mit verschiedenen Lebensräumen und vielen Lemuren.", hu: "Átmeneti terület különböző élőhelyekkel és sok makival.", ro: "O zonă de tranziție cu habitate diferite și mulți lemurieni.", en: "A transition area with various habitats and many lemurs." },
+    description: { de: "Ein Übergangsgebiet mit verschiedenen Lebensräumen und vielen Lemuren.", hu: "Átmeneti terület különböző élőhelyekkel és sok makival.", ro: "O zonă de tranziție cu habitate diferite și mulți lemurieni.", en: "A transition area with various habitats and many lemurs." , es: "Una zona de transición con diversos hábitats y muchos lémures.", pt: "Uma área de transição com diversos habitats e muitos lémures.", fr: "Une zone de transition avec divers habitats et de nombreux lémuriens."},
     facts: {
       de: ["Verschiedene Ökosysteme", "Lemurenvielfalt", "Naturbeobachtung", "UNESCO Welterbe"],
       hu: ["Különböző ökoszisztémák", "Makivariáció", "Természetmegfigyelés", "UNESCO Világörökség"],
       ro: ["Diferite ecosisteme", "Diversitate de lemurieni", "Observarea naturii", "Patrimoniu UNESCO"],
-      en: ["Various ecosystems", "Lemur diversity", "Nature observation", "UNESCO World Heritage"]
+      en: ["Various ecosystems", "Lemur diversity", "Nature observation", "UNESCO World Heritage"],
+      es: ["Diversos ecosistemas", "Variedad de lémures", "Observación de la naturaleza", "Patrimonio de la Humanidad de la UNESCO"],
+      pt: ["Diversos ecossistemas", "Variedade de lémures", "Observação da natureza", "Património Mundial da UNESCO"],
+      fr: ["Différents écosystèmes", "Diversité des lémuriens", "Observation de la nature", "Patrimoine mondial de l'UNESCO"],
     },
     descriptionAdvanced: {
       de: "Der Andohahela-Nationalpark im Südosten Madagaskars umfasst eine Fläche von etwa 760 Quadratkilometern und ist Teil des UNESCO-Weltnaturerbes Regenwälder der Atsinanana. Er zeichnet sich durch seine außergewöhnliche geografische Lage im Anosy-Gebirge aus, die eine abrupte Übergangszone zwischen feuchtem Regenwald im Osten und trockenem Dornwald im Westen schafft. Diese klimatische Vielfalt auf engstem Raum ermöglicht das Bestehen von drei verschiedenen Ökosystemen innerhalb eines einzigen Parks. Historisch wurde das Gebiet bereits 1939 unter Schutz gestellt und 1997 zum Nationalpark aufgewertet, um die enorme biologische Vielfalt zu bewahren. Der Park beherbergt 13 Lemurenarten, darunter den bekannten Katta und den Verreaux-Sifaka, sowie über 120 Vogelarten. Neben der ökologischen Bedeutung ist Andohahela ein wichtiges Wassereinzugsgebiet, das die umliegenden landwirtschaftlichen Flächen der Region mit lebensnotwendigem Süßwasser versorgt.",
@@ -578,6 +689,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
       hu: ["A területet már 1939-ben természetvédelmi területté nyilvánították.", "Andohahela 2007 óta az UNESCO Világörökség része.", "A parkban 13 különböző makifaj él három különálló klímazónában.", "Az itt található növényfajok több mint 90 százaléka endemikus.", "Ez az egyetlen hely, ahol a vörös vari és a gyűrűsfarkú maki egy területen él.", "A park hegyláncai elérik az 1972 méteres tengerszint feletti magasságot."],
       ro: ["Parcul a fost desemnat rezervație naturală încă din anul 1939.", "Andohahela face parte din Patrimoniul Mondial UNESCO din anul 2007.", "Adăpostește 13 specii diferite de lemurieni în trei zone climatice distincte.", "Peste 90 la sută din speciile de plante găsite aici sunt endemice.", "Este singurul loc unde vari roșu și lemurul cu coadă inelată coexistă.", "Munții din cadrul parcului ating înălțimi de până la 1972 de metri."],
       en: ["The park was designated as a nature reserve as early as 1939.", "Andohahela has been a UNESCO World Heritage site since 2007.", "It houses 13 different lemur species across three distinct climate zones.", "More than 90 percent of the plant species found here are endemic.", "It is the only place where the red ruffed lemur and ring-tailed lemur coexist.", "The mountains within the park reach elevations of up to 1,972 meters."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/andohahela-nationalpark-life-v2.webp",
     
     
@@ -589,12 +703,15 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     coords: [44.8, -16.4],
     name: { de: "Tsingy von Namoroka Park", hu: "Namoroka-Tsingy Park", ro: "Parcul Tsingy din Namoroka", en: "Tsingy of Namoroka Park"},
     image: "/poi-images/tsingy-namoroka-park-life-v2.webp",
-    description: { de: "Ein weniger bekannter Park mit spektakulären Felsformationen und Tieren.", hu: "Kevésbé ismert park látványos sziklaképződményekkel és állatokkal.", ro: "Un parc mai puțin cunoscut cu formațiuni stâncoase spectaculoase și animale.", en: "A less known park with spectacular rock formations and animals." },
+    description: { de: "Ein weniger bekannter Park mit spektakulären Felsformationen und Tieren.", hu: "Kevésbé ismert park látványos sziklaképződményekkel és állatokkal.", ro: "Un parc mai puțin cunoscut cu formațiuni stâncoase spectaculoase și animale.", en: "A less known park with spectacular rock formations and animals." , es: "Un parque menos conocido con espectaculares formaciones rocosas y fauna.", pt: "Um parque menos conhecido com formações rochosas e animais espetaculares.", fr: "Un parc moins connu avec des formations rocheuses et des animaux spectaculaires."},
     facts: {
       de: ["Felsformationen", "Unberührte Natur", "Lemuren", "Abseits der Pfade"],
       hu: ["Sziklaképződmények", "Érintetlen természet", "Makik", "Járatlan utakon"],
       ro: ["Formațiuni stâncoase", "Natură nealterată", "Lemurieni", "În afara cărărilor"],
-      en: ["Rock formations", "Untouched nature", "Lemurs", "Off the beaten path"]
+      en: ["Rock formations", "Untouched nature", "Lemurs", "Off the beaten path"],
+      es: ["Formaciones rocosas", "Naturaleza virgen", "Lémures", "Fuera de las rutas habituales"],
+      pt: ["Formações rochosas", "Natureza intocada", "Lémures", "Fora dos caminhos habituais"],
+      fr: ["Formations rocheuses", "Nature vierge", "Lémuriens", "Hors des sentiers battus"],
     },
     descriptionAdvanced: {
       de: "Der Tsingy-de-Namoroka-Nationalpark liegt in der Region Boeny im Nordwesten Madagaskars und ist bekannt für seine beeindruckenden Karstformationen. Diese scharfkantigen Kalksteinstrukturen, die als Tsingy bezeichnet werden, entstanden über Millionen von Jahren durch Erosion und bilden ein komplexes Labyrinth aus Canyons und Höhlen. Der Park wurde ursprünglich 1927 als strenges Naturreservat gegründet und 2002 zum Nationalpark erklärt, um das empfindliche Ökosystem zu schützen. Geografisch umfasst das Areal 222 Quadratkilometer und beherbergt eine Vielzahl endemischer Arten, darunter acht Lemurenarten und über 80 Vogelarten. Die Vegetation ist an die extremen Bedingungen angepasst und umfasst seltene Sukkulenten sowie monumentale Baobabs. Trotz seiner Abgeschiedenheit ist der Park ein wichtiges Forschungsgebiet für Geologen und Biologen gleichermaßen. Das Klima ist durch eine ausgeprägte Trockenzeit geprägt, in der viele Tierarten in den kühleren Höhlensystemen Schutz suchen.",
@@ -607,6 +724,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
       hu: ["Namoroka a sziget egyik első védett területeként jött létre 1927-ben.", "A nemzeti park területe pontosan 222,27 négyzetkilométer.", "Nyolc makifaj, köztük a Von der Decken-szifaka él a területen.", "A mészkősziklák számos még felfedezetlen barlangrendszert rejtenek.", "A régióban májustól októberig tartó, hat hónapos száraz évszak uralkodik.", "A tsingy név a helyi nyelven azt jelenti, hogy \"ahol nem lehet mezítláb járni\"."],
       ro: ["Namoroka a fost înființat în 1927 ca una dintre primele arii protejate de pe insulă.", "Parcul național acoperă o suprafață de exact 222,27 kilometri pătrați.", "Opt specii de lemurieni, inclusiv sifaka lui Von der Decken, trăiesc aici.", "În stâncile de calcar se află numeroase sisteme de peșteri încă neexplorate.", "Regiunea înregistrează un sezon uscat de șase luni, din mai până în octombrie.", "Numele Tsingy înseamnă în limba locală \"unde nu se poate merge desculț\"."],
       en: ["Namoroka was established in 1927 as one of the island's first protected areas.", "The national park covers an area of exactly 222.27 square kilometers.", "Eight lemur species, including Von der Decken's sifaka, inhabit the area.", "Numerous undiscovered cave systems are located within the limestone cliffs.", "The region experiences a six-month dry season from May to October.", "The name Tsingy means \"where one cannot walk barefoot\" in the local language."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/tsingy-namoroka-park-life-v2.webp",
     
     
@@ -618,12 +738,15 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     coords: [47.1, -21.4],
     name: { de: "Fianarantsoa Weingut", hu: "Fianarantsoa borászat", ro: "Crama Fianarantsoa", en: "Fianarantsoa Winery"},
     image: "/poi-images/fianarantsoa-weingut-life-v2.webp",
-    description: { de: "Eine Region in Madagaskar, die für ihren Weinanbau bekannt ist.", hu: "Madagaszkár egy bortermeléséről ismert régiója.", ro: "O regiune din Madagascar cunoscută pentru cultivarea vinului.", en: "A region in Madagascar known for its wine cultivation." },
+    description: { de: "Eine Region in Madagaskar, die für ihren Weinanbau bekannt ist.", hu: "Madagaszkár egy bortermeléséről ismert régiója.", ro: "O regiune din Madagascar cunoscută pentru cultivarea vinului.", en: "A region in Madagascar known for its wine cultivation." , es: "Una región de Madagascar conocida por su viticultura.", pt: "Uma região de Madagáscar conhecida pela sua viticultura.", fr: "Une région de Madagascar réputée pour sa viticulture."},
     facts: {
       de: ["Weinbau", "Hügelige Landschaft", "Kulturell interessant", "Lokale Produkte"],
       hu: ["Szőlőtermesztés", "Dombos táj", "Kulturálisan érdekes", "Helyi termékek"],
       ro: ["Cultivarea vinului", "Peisaj deluros", "Interesant cultural", "Produse locale"],
-      en: ["Wine cultivation", "Hilly landscape", "Culturally interesting", "Local products"]
+      en: ["Wine cultivation", "Hilly landscape", "Culturally interesting", "Local products"],
+      es: ["Viticultura", "Paisaje ondulado", "Interés cultural", "Productos locales"],
+      pt: ["Viticultura", "Paisagem ondulada", "Interesse cultural", "Produtos locais"],
+      fr: ["Viticulture", "Paysage vallonné", "Intérêt culturel", "Produits locaux"],
     },
     descriptionAdvanced: {
       de: "Fianarantsoa, die Hauptstadt der Region Haute Matsiatra, gilt als das Zentrum des madagassischen Weinbaus. Die Weinbautradition in dieser Region geht auf französische Jesuitenmissionare zurück, die in den 1970er Jahren die ersten Reben anpflanzten, um Messwein zu produzieren. Dank der fruchtbaren Vulkanböden und des milden Hochlandklimas auf etwa 1200 Metern Höhe entwickelten sich die Weinberge zu einem wichtigen Wirtschaftszweig. Heute ist die Marke Lazan'ny Matsiatra das bekannteste Aushängeschild der lokalen Weinproduktion, die sowohl Rot-, Weiß- als auch Roséweine umfasst. Die Ernte erfolgt traditionell in Handarbeit zwischen Februar und April, wobei Rebsorten wie Petit Bouchet und Gamay dominieren. Die Weingüter rund um die Stadt bieten Einblicke in den gesamten Herstellungsprozess, von der Kelterung bis zur Reifung in Fässern. Diese kulturelle Besonderheit hebt Fianarantsoa von anderen madagassischen Städten ab und verbindet europäische Einflüsse mit lokalem Terroir.",
@@ -636,6 +759,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
       hu: ["A bortermelés Fianarantsoában az 1970-es években kezdődött nagyobb léptékben.", "A régió 1100 és 1300 méter közötti tengerszint feletti magasságban fekszik.", "A Lazan'ny Matsiatra név jelentése: \"Matsiatra büszkesége\".", "Főként francia szőlőfajtákat, például Petit Bouchet-t és Gamay-t termesztenek.", "A környék vulkanikus talaja sajátos ásványosságot kölcsönöz a boroknak.", "A szüret az esős évszak idején, február és április között zajlik."],
       ro: ["Producția de vin în Fianarantsoa a început la scară largă în anii 1970.", "Regiunea este situată la o altitudine de aproximativ 1100 până la 1300 de metri.", "Lazan'ny Matsiatra se traduce prin „Mândria regiunii Matsiatra”.", "Sunt cultivate în principal soiuri de struguri francezi, cum ar fi Petit Bouchet și Gamay.", "Solurile vulcanice din zonă conferă vinului o mineralitate specifică.", "Recoltarea strugurilor are loc în timpul sezonului ploios, între februarie și aprilie."],
       en: ["Wine production in Fianarantsoa began on a large scale in the 1970s.", "The region is situated at an altitude of approximately 1,100 to 1,300 meters.", "Lazan'ny Matsiatra translates to \"The Pride of Matsiatra.\"", "Mainly French grape varieties like Petit Bouchet and Gamay are cultivated here.", "The surrounding volcanic soils provide the wine with a specific minerality.", "The grape harvest takes place during the rainy season between February and April."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/fianarantsoa-weingut-life-v2.webp",
     
     
@@ -647,12 +773,15 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     coords: [48.35, -13.4],
     name: { de: "Nosy Komba Lemurenhalbinsel", hu: "Nosy Komba maki-félsziget", ro: "Peninsula Lemurienilor Nosy Komba", en: "Nosy Komba Lemur Peninsula"},
     image: "/poi-images/nosy-komba-lemuren-life-v2.webp",
-    description: { de: "Berühmt für die vielen freundlichen Lemuren auf der Insel.", hu: "Híres a szigeten lévő sok barátságos makiról.", ro: "Faimos pentru mulți lemurieni prietenoși de pe insulă.", en: "Famous for the many friendly lemurs on the island." },
+    description: { de: "Berühmt für die vielen freundlichen Lemuren auf der Insel.", hu: "Híres a szigeten lévő sok barátságos makiról.", ro: "Faimos pentru mulți lemurieni prietenoși de pe insulă.", en: "Famous for the many friendly lemurs on the island." , es: "Famosa por los muchos lémures amigables de la isla.", pt: "Famosa pelos muitos lémures amigáveis da ilha.", fr: "Célèbre pour les nombreux lémuriens amicaux de l'île."},
     facts: {
       de: ["Freilebende Lemuren", "Beliebt bei Touristen", "Insel-Atmosphäre", "Einfach erreichbar"],
       hu: ["Szabadon élő makik", "Népszerű turisták körében", "Sziget-hangulat", "Könnyen elérhető"],
       ro: ["Lemurieni liberi", "Popular la turiști", "Atmosferă de insulă", "Ușor accesibil"],
-      en: ["Free-living lemurs", "Popular with tourists", "Island atmosphere", "Easily accessible"]
+      en: ["Free-living lemurs", "Popular with tourists", "Island atmosphere", "Easily accessible"],
+      es: ["Lémures en libertad", "Popular entre turistas", "Atmósfera isleña", "Fácil acceso"],
+      pt: ["Lémures em liberdade", "Popular entre turistas", "Atmosfera de ilha", "Fácil acesso"],
+      fr: ["Lémuriens en liberté", "Populaire auprès des touristes", "Atmosphère insulaire", "Facilement accessible"],
     },
     descriptionAdvanced: {
       de: "Nosy Komba, eine kreisrunde Vulkaninsel zwischen Nosy Be und dem madagassischen Festland, ist weltweit für ihre Population an Mohrenlemuren bekannt. Der Name der Insel bedeutet übersetzt „Insel der Lemuren“, was ihre ökologische Bedeutung unterstreicht. Die Tiere in diesem Schutzgebiet haben eine bemerkenswerte Zutraulichkeit gegenüber Menschen entwickelt, da sie von den lokalen Gemeinschaften seit langem geschützt werden. Geografisch wird die Insel von einem 622 Meter hohen, erloschenen Vulkan dominiert, der mit dichtem tropischem Regenwald bedeckt ist. Das Dorf Ampangorina dient als Hauptzugangspunkt und ist zudem bekannt für sein exquisites Kunsthandwerk, insbesondere aufwendige Stickereien und Holzschnitzereien. Da es auf der Insel keine Straßen oder motorisierten Fahrzeuge gibt, blieb die unberührte Natur weitgehend erhalten. Besucher erreichen die Insel ausschließlich mit dem Boot, was zu einer ruhigen und authentischen Atmosphäre beiträgt, die sowohl Naturbegeisterte als auch Kultursuchende anzieht.",
@@ -665,6 +794,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
       hu: ["A sziget legmagasabb pontja, az Antaninaomby, 622 méter magasan van.", "A szerecsenmaki (Eulemur macaco) erős ivari dimorfizmust mutat.", "A hím szerecsenmakik teljesen feketék, a nőstények barna-narancssárgák.", "Az egész szigeten nincsenek autók vagy aszfaltozott utak.", "Ampangorina falu a hagyományos Richelieu-hímzések központja.", "A hajóút Nosy Be szigetéről gyorshajóval körülbelül 20 percet vesz igénybe."],
       ro: ["Cel mai înalt punct al insulei, Antaninaomby, se află la 622 de metri altitudine.", "Lemurul negru (Eulemur macaco) prezintă un dimorfism sexual accentuat.", "Lemurii negri masculi sunt complet negri, în timp ce femelele sunt maro-portocalii.", "Pe întreaga insulă nu există mașini sau drumuri asfaltate.", "Satul Ampangorina este un centru pentru broderiile tradiționale Richelieu.", "Traversarea de la Nosy Be cu o șalupă rapidă durează aproximativ 20 de minute."],
       en: ["The island's highest point, Antaninaomby, reaches an elevation of 622 meters.", "The black lemur (Eulemur macaco) exhibits strong sexual dimorphism.", "Male black lemurs are entirely black, while females are brown-orange.", "There are no cars or paved roads anywhere on the island.", "The village of Ampangorina is a hub for traditional Richelieu embroidery.", "The boat trip from Nosy Be takes approximately 20 minutes by speedboat."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/nosy-komba-lemuren-life-v2.webp",
     
     
@@ -676,12 +808,15 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     coords: [44.7, -22.8],
     name: { de: "Zombitse-Vohibasia Nationalpark", hu: "Zombitse-Vohibasia Nemzeti Park", ro: "Parcul Național Zombitse-Vohibasia", en: "Zombitse-Vohibasia National Park"},
     image: "/poi-images/zombitse-vohibasia-park-life-v2.webp",
-    description: { de: "Ein Schutzgebiet, das Trockenwald und Feuchtgebiete vereint.", hu: "Védett terület, amely egyesíti a száraz erdőt és a vizes élőhelyeket.", ro: "O arie protejată care combină pădurea uscată și zonele umede.", en: "A protected area that combines dry forest and wetlands." },
+    description: { de: "Ein Schutzgebiet, das Trockenwald und Feuchtgebiete vereint.", hu: "Védett terület, amely egyesíti a száraz erdőt és a vizes élőhelyeket.", ro: "O arie protejată care combină pădurea uscată și zonele umede.", en: "A protected area that combines dry forest and wetlands." , es: "Una zona protegida que combina bosque seco y humedales.", pt: "Uma área protegida que combina floresta seca e zonas húmidas.", fr: "Une zone protégée qui combine forêt sèche et zones humides."},
     facts: {
       de: ["Einzigartige Lemuren", "Seltene Vögel", "Vielfältige Biome", "Natur pur"],
       hu: ["Egyedülálló makik", "Ritka madarak", "Változatos biomok", "Tiszta természet"],
       ro: ["Lemurieni unici", "Păsări rare", "Biomi diverși", "Natură pură"],
-      en: ["Unique lemurs", "Rare birds", "Diverse biomes", "Pure nature"]
+      en: ["Unique lemurs", "Rare birds", "Diverse biomes", "Pure nature"],
+      es: ["Lémures únicos", "Aves raras", "Biomas diversos", "Naturaleza pura"],
+      pt: ["Lémures únicos", "Aves raras", "Biomas diversos", "Natureza pura"],
+      fr: ["Lémuriens uniques", "Oiseaux rares", "Biomes diversifiés", "Nature pure"],
     },
     descriptionAdvanced: {
       de: "Der Zombitse-Vohibasia-Nationalpark im Südwesten Madagaskars stellt ein ökologisches Bindeglied zwischen den trockenen Dornwäldern und den feuchten Bergwäldern der Insel dar. Gegründet im Jahr 1997, umfasst das Schutzgebiet eine Fläche von rund 363 Quadratkilometern und ist besonders für seine ornithologische Bedeutung bekannt. Der Park beherbergt 85 Vogelarten, von denen viele endemisch sind, darunter der äußerst seltene Appert-Tetraka, der nirgendwo sonst auf der Welt vorkommt. Geografisch ist das Gebiet durch dichten Übergangswald und monumentale Baobabs geprägt, die in der flachen Landschaft weithin sichtbar sind. Neben der Vogelwelt bietet der Park Lebensraum für acht Lemurenarten, wie den Verreaux-Sifaka und den Hubbard-Wieselmaki. Die Flora umfasst zudem zahlreiche Orchideenarten, die besonders während der Regenzeit blühen. Für die lokale Bevölkerung der Bara hat der Wald eine hohe spirituelle Bedeutung und wird oft für traditionelle Zeremonien genutzt.",
@@ -694,6 +829,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
       hu: ["A parkot hivatalosan 1997. december 1-jén avatták nemzeti parkká.", "A ritka Appert-tetraka (Xanthomixis apperti) a park jelképe.", "85 madárfaj él itt, ami Madagaszkár madárvilágának mintegy 33 százaléka.", "A parkban az Adansonia za majomkenyérfa hatalmas példányai nőnek.", "Nyolc makifaj őshonos itt, köztük a Verreaux-szifaka.", "A park közvetlenül a 7-es főút (RN7) mellett fekszik Toliara és Isalo között."],
       ro: ["Parcul a fost inaugurat oficial ca parc național pe 1 decembrie 1997.", "Rara pasăre Appert's tetraka (Xanthomixis apperti) este simbolul parcului.", "Aici trăiesc 85 de specii de păsări, ceea ce reprezintă circa 33% din păsările Madagascarului.", "În parc cresc exemplare masive de baobab din specia Adansonia za.", "Opt specii de lemurieni sunt native aici, inclusiv sifaka lui Verreaux.", "Parcul este situat direct pe drumul național 7 (RN7) între Toliara și Isalo."],
       en: ["The park was officially inaugurated as a national park on December 1, 1997.", "The rare Appert's tetraka (Xanthomixis apperti) is the emblem of the park.", "85 bird species live here, representing about 33 percent of Madagascar's birds.", "Massive specimens of the Adansonia za baobab grow within the park.", "Eight lemur species are native here, including Verreaux's sifaka.", "The park is located directly on National Road 7 (RN7) between Toliara and Isalo."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/zombitse-vohibasia-park-life-v2.webp",
     
     
@@ -705,12 +843,15 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     coords: [47.04, -19.87],
     name: { de: "Antsirabe Thermalbad", hu: "Antsirabe termálfürdő", ro: "Băile Termale Antsirabe", en: "Antsirabe Thermal Baths"},
     image: "/poi-images/antsirabe-thermalbad-life-v2.webp",
-    description: { de: "Natürliche Thermalquellen, die für Familien entspannend sind.", hu: "Természetes termálforrások, amelyek pihentetőek családok számára.", ro: "Izvoare termale naturale care sunt relaxante pentru familii.", en: "Natural thermal springs that are relaxing for families." },
+    description: { de: "Natürliche Thermalquellen, die für Familien entspannend sind.", hu: "Természetes termálforrások, amelyek pihentetőek családok számára.", ro: "Izvoare termale naturale care sunt relaxante pentru familii.", en: "Natural thermal springs that are relaxing for families." , es: "Fuentes termales naturales que resultan relajantes para las familias.", pt: "Fontes termais naturais que são relaxantes para as famílias.", fr: "Sources thermales naturelles offrant une détente pour les familles."},
     facts: {
       de: ["Heilwasser", "Entspannung", "Familienfreundlich", "In der Stadt"],
       hu: ["Gyógyvíz", "Pihenés", "Családbarát", "A városban"],
       ro: ["Apă terapeutică", "Relaxare", "Prietenos cu familia", "În oraș"],
-      en: ["Healing water", "Relaxation", "Family friendly", "In the city"]
+      en: ["Healing water", "Relaxation", "Family friendly", "In the city"],
+      es: ["Agua curativa", "Relajación", "Ideal para familias", "En la ciudad"],
+      pt: ["Água curativa", "Relaxamento", "Amigo das famílias", "Na cidade"],
+      fr: ["Eau curative", "Détente", "Adapté aux familles", "En ville"],
     },
     descriptionAdvanced: {
       de: "Antsirabe, auf einer Höhe von 1500 Metern im zentralen Hochland gelegen, ist als „Stadt des Wassers“ bekannt und beherbergt die berühmtesten Thermalbäder Madagaskars. Die Geschichte des Kurortes begann im späten 19. Jahrhundert, als norwegische Missionare und später französische Kolonialbeamte die gesundheitsfördernden Eigenschaften der mineralhaltigen Quellen entdeckten. Das Thermalbad Ranomafana wurde zum Zentrum der Erholung ausgebaut, wobei das imposante Hotel des Thermes aus dem Jahr 1922 noch heute das Stadtbild prägt. Geografisch ist die Region durch vulkanische Aktivität geprägt, die für die Erwärmung des Grundwassers und den Reichtum an gelösten Mineralien verantwortlich ist. Die Thermalquellen von Ranovisy liefern zudem wertvolles Mineralwasser, das landesweit vertrieben wird. Neben den Heilbädern ist Antsirabe für sein kühleres Klima und die zahlreichen bunten Rikschas, lokal Pousse-Pousse genannt, berühmt. Diese Kombination aus historischer Architektur, Wellness-Tradition und lebendiger lokaler Kultur macht die Stadt zu einem einzigartigen Ziel im madagassischen Hochland.",
@@ -723,6 +864,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
       hu: ["Antsirabe körülbelül 1500 méteres magasságával Madagaszkár harmadik legmagasabb városa.", "A Hotel des Thermes 1922-ben nyílt meg, és egykor a marokkói szultánt is vendégül látta.", "A Ranomafana név a helyi nyelven egyszerűen \"forró vizet\" jelent.", "A források vízhőmérséklete 35 és 52 Celsius-fok között mozog.", "Antsirabe a féldrágakő-bányászat és -megmunkálás gazdasági központja.", "Több mint 5000 regisztrált pousse-pousse (riksa) határozza meg a mindennapi közlekedést."],
       ro: ["Antsirabe este al treilea oraș ca mărime din Madagascar, situat la circa 1500 metri.", "Hotel des Thermes a fost deschis în 1922 și l-a găzduit cândva pe sultanul Marocului.", "Numele Ranomafana înseamnă pur și simplu „apă fierbinte” în limba malgașă.", "Temperatura apei din izvoare variază între 35 și 52 de grade Celsius.", "Antsirabe este centrul economic pentru exploatarea și prelucrarea pietrelor semiprețioase.", "Peste 5000 de ricșe (pousse-pousse) înregistrate domină traficul zilnic."],
       en: ["Antsirabe is the third-highest city in Madagascar at about 1,500 meters.", "The Hotel des Thermes opened in 1922 and once hosted the Sultan of Morocco.", "The name Ranomafana simply means \"hot water\" in the local language.", "The water temperature of the springs ranges between 35 and 52 degrees Celsius.", "Antsirabe is the economic center for the mining and trade of semi-precious stones.", "Over 5,000 registered pousse-pousse (rickshaws) characterize the daily traffic."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/antsirabe-thermalbad-life-v2.webp",
     
     
@@ -734,12 +878,15 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     coords: [46.8, -16.3],
     name: { de: "Ankarafantsika Vogelbeobachtung", hu: "Ankarafantsika madármegfigyelés", ro: "Observarea păsărilor Ankarafantsika", en: "Ankarafantsika Bird Watching"},
     image: "/poi-images/ankarafantsika-vogelbeobachtung-life-v2.webp",
-    description: { de: "Hervorragender Ort zur Beobachtung endemischer Vogelarten.", hu: "Kiváló hely endemikus madárfajok megfigyelésére.", ro: "Loc excelent pentru observarea speciilor de păsări endemice.", en: "Excellent place for observing endemic bird species." },
+    description: { de: "Hervorragender Ort zur Beobachtung endemischer Vogelarten.", hu: "Kiváló hely endemikus madárfajok megfigyelésére.", ro: "Loc excelent pentru observarea speciilor de păsări endemice.", en: "Excellent place for observing endemic bird species." , es: "Excelente lugar para la observación de especies de aves endémicas.", pt: "Excelente local para a observação de espécies de aves endémicas.", fr: "Lieu excellent pour l'observation d'espèces d'oiseaux endémiques."},
     facts: {
       de: ["Vogelvielfalt", "Lehrreich", "Naturbeobachtung", "Schön gelegen"],
       hu: ["Madárvilág", "Tanulságos", "Természetmegfigyelés", "Szép fekvés"],
       ro: ["Diversitate de păsări", "Educativ", "Observarea naturii", "Frumos amplasat"],
-      en: ["Bird diversity", "Educational", "Nature observation", "Beautifully located"]
+      en: ["Bird diversity", "Educational", "Nature observation", "Beautifully located"],
+      es: ["Diversidad de aves", "Educativo", "Observación de la naturaleza", "Bellamente situado"],
+      pt: ["Diversidade de aves", "Educativo", "Observação da natureza", "Bela localização"],
+      fr: ["Diversité d'oiseaux", "Éducatif", "Observation de la nature", "Magnifiquement situé"],
     },
     descriptionAdvanced: {
       de: "Der Ankarafantsika-Nationalpark im Nordwesten Madagaskars ist eines der letzten großen Refugien für dichte, trockene Laubwälder auf der Insel. Geografisch erstreckt sich der Park über 1350 Quadratkilometer und wird vom malerischen Ravelobe-See sowie tiefen Sandsteincanyons geprägt. Er gilt als ein wahres Paradies für Ornithologen, da hier 129 Vogelarten dokumentiert sind, von denen etwa 75 Prozent endemisch sind. Zu den seltensten Bewohnern gehört der Madagaskar-Seealer, einer der am stärksten bedrohten Greifvögel der Welt. Historisch wurde das Gebiet bereits 1927 unter Schutz gestellt und später zum Nationalpark erklärt, um die einzigartige Flora und Fauna vor der Abholzung zu bewahren. Neben der Vogelwelt beherbergt der Park acht Lemurenarten, darunter den winzigen Goldbraunen Mausmaki. Die Vegetation besteht aus widerstandsfähigen Baumarten, die an die lange Trockenzeit angepasst sind. Die Kombination aus aquatischen Ökosystemen am See und terrestrischen Waldgebieten bietet eine außergewöhnliche biologische Vielfalt, die Wissenschaftler aus aller Welt anzieht.",
@@ -752,6 +899,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
       hu: ["Ankarafantsika 129 madárfajnak ad otthont, amelyek közül 75 csak Madagaszkáron él.", "A kihalástól veszélyeztetett madagaszkári rétisas a Ravelobe-tó partján fészkel.", "A parkot eredetileg 1927-ben alapították természetvédelmi területként.", "Nyolc különböző makifaj, köztük a Coquerel-szifaka él a parkban.", "A Ravelobe-tó híres a nagy méretű nílusi krokodil populációjáról.", "Két különböző ökoszisztéma, a szavanna és a száraz erdő találkozik itt."],
       ro: ["Ankarafantsika găzduiește 129 de specii de păsări, dintre care 75 sunt endemice.", "Vulturul pescar malgaș, aflat în pericol critic, cuibărește pe malurile lacului Ravelobe.", "Parcul a fost fondat inițial în anul 1927 ca rezervație naturală.", "Opt specii diferite de lemurieni, inclusiv sifaka lui Coquerel, trăiesc în parc.", "Lacul Ravelobe este cunoscut pentru populația sa de crocodili de Nil de mari dimensiuni.", "Două ecosisteme diferite, savana și pădurea uscată, se întâlnesc în această zonă."],
       en: ["Ankarafantsika is home to 129 bird species, 75 of which are found only in Madagascar.", "The critically endangered Madagascar fish eagle nests on the shores of Lake Ravelobe.", "The park was originally established as a nature reserve in 1927.", "Eight different lemur species, including Coquerel's sifaka, inhabit the park.", "Lake Ravelobe is famous for its population of large Nile crocodiles.", "Two distinct ecosystems, savanna and dry forest, meet within the park's boundaries."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/ankarafantsika-vogelbeobachtung-life-v2.webp",
     
     
@@ -763,12 +913,15 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     coords: [48.6, -12.9],
     name: { de: "Nosy Mitsio Tauchen", hu: "Nosy Mitsio búvárkodás", ro: "Scufundări Nosy Mitsio", en: "Nosy Mitsio Diving"},
     image: "/poi-images/nosy-mitsio-tauchen-life-v2.webp",
-    description: { de: "Spektakuläre Unterwasserwelt für erfahrene Taucher und Schnorchler.", hu: "Látványos víz alatti világ tapasztalt búvároknak és snorkeleseknek.", ro: "Lume subacvatică spectaculoasă pentru scafandri experimentați și snorkeleri.", en: "Spectacular underwater world for experienced divers and snorkelers." },
+    description: { de: "Spektakuläre Unterwasserwelt für erfahrene Taucher und Schnorchler.", hu: "Látványos víz alatti világ tapasztalt búvároknak és snorkeleseknek.", ro: "Lume subacvatică spectaculoasă pentru scafandri experimentați și snorkeleri.", en: "Spectacular underwater world for experienced divers and snorkelers." , es: "Espectacular mundo submarino para buceadores y snórquel experimentados.", pt: "Mundo subaquático espetacular para mergulhadores e praticantes de snorkeling experientes.", fr: "Un monde sous-marin spectaculaire pour les plongeurs et snorkelers expérimentés."},
     facts: {
       de: ["Große Artenvielfalt", "Korallen", "Klares Wasser", "Abenteuer"],
       hu: ["Nagy fajgazdagság", "Korallok", "Tiszta víz", "Kaland"],
       ro: ["Biodiversitate mare", "Corali", "Apă clară", "Aventură"],
-      en: ["Great biodiversity", "Corals", "Clear water", "Adventure"]
+      en: ["Great biodiversity", "Corals", "Clear water", "Adventure"],
+      es: ["Gran biodiversidad", "Corales", "Agua cristalina", "Aventura"],
+      pt: ["Grande biodiversidade", "Corais", "Água cristalina", "Aventura"],
+      fr: ["Grande biodiversité", "Coraux", "Eau cristalline", "Aventure"],
     },
     descriptionAdvanced: {
       de: "Das Mitsio-Archipel, nördlich von Nosy Be gelegen, ist eines der exklusivsten und unberührtesten Tauchgebiete Madagaskars. Die Inselgruppe besteht aus mehreren vulkanischen Inseln, darunter Grande Mitsio, Nosy Lava und die beeindruckenden Basaltformationen von Nosy Antaly. Geografisch zeichnet sich das Archipel durch die spektakulären „Orgelpfeifen“ (Les Orgues) aus – vertikale Basaltsäulen, die aus dem azurblauen Wasser ragen. Unter der Wasseroberfläche bietet das Gebiet eine außergewöhnliche marine Biodiversität mit intakten Korallenriffen, Steilwänden und mehreren Schiffswracks. Taucher können hier regelmäßig auf Walhaie, Mantarochen, Meeresschildkröten und große Schwärme von Barrakudas treffen. Historisch dienten die Inseln den lokalen Antakarana-Königen als Zufluchtsort, was ihnen eine besondere kulturelle Aura verleiht. Da die Inseln nur per Boot oder Hubschrauber erreichbar sind, blieb der Massentourismus aus, was die Ursprünglichkeit des marinen Ökosystems bewahrte. Die Kombination aus geologischen Wundern und einer reichen Unterwasserwelt macht Nosy Mitsio zu einem Ziel von Weltrang für anspruchsvolle Taucher.",
@@ -781,6 +934,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
       hu: ["A Nosy Antaly szigetén található „Les Orgues” bazaltoszlopok több mint 50 méter magasak.", "A szigetcsoport körülbelül 55 kilométerre északkeletre fekszik Nosy Be-től.", "Cetcápák különösen október és december között figyelhetők meg a térségben.", "A „Mitsio” hajóroncs körülbelül 25 méteres mélységben nyugszik.", "Grande Mitsio a szigetcsoport egyetlen állandóan lakott szigete.", "A „Négy Testvér” nevű sziklák jelentős tengeri madárfészkelő helyek."],
       ro: ["Coloanele de bazalt „Les Orgues” de pe Nosy Antaly au o înălțime de peste 50 de metri.", "Arhipelagul este situat la aproximativ 55 de kilometri nord-est de Nosy Be.", "Rechinii balenă pot fi observați aici mai ales între lunile octombrie și decembrie.", "Epava navei „Mitsio” se află la o adâncime de aproximativ 25 de metri.", "Grande Mitsio este singura insulă locuită permanent din arhipelag.", "Patru stânci numite „Cei Patru Frați” sunt locuri importante de cuibărit pentru păsările marine."],
       en: ["The \"Les Orgues\" basalt columns on Nosy Antaly are over 50 meters high.", "The archipelago is located about 55 kilometers northeast of Nosy Be.", "Whale sharks can be observed here particularly between October and December.", "The shipwreck of the \"Mitsio\" lies at a depth of approximately 25 meters.", "Grande Mitsio is the only permanently inhabited island in the archipelago.", "Four rocks known as the \"Four Brothers\" are significant nesting sites for tropical seabirds."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/nosy-mitsio-tauchen-life-v2.webp",
     
     
@@ -792,12 +948,15 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     coords: [49.4, -17.3],
     name: { de: "Tampolo Naturreservat", hu: "Tampolo természetvédelmi terület", ro: "Rezervația naturală Tampolo", en: "Tampolo Nature Reserve"},
     image: "/poi-images/tampolo-naturreservat-life-v2.webp",
-    description: { de: "Ein schönes Reservat mit dichter Vegetation und vielen Lemuren.", hu: "Szép rezervátum sűrű növényzettel és sok makival.", ro: "O rezervație frumoasă cu vegetație densă și mulți lemurieni.", en: "A beautiful reserve with dense vegetation and many lemurs." },
+    description: { de: "Ein schönes Reservat mit dichter Vegetation und vielen Lemuren.", hu: "Szép rezervátum sűrű növényzettel és sok makival.", ro: "O rezervație frumoasă cu vegetație densă și mulți lemurieni.", en: "A beautiful reserve with dense vegetation and many lemurs." , es: "Una hermosa reserva con vegetación densa y muchos lémures.", pt: "Uma bela reserva com vegetação densa e muitos lémures.", fr: "Une belle réserve avec une végétation dense et de nombreux lémuriens."},
     facts: {
       de: ["Dichter Wald", "Lemuren", "Wanderungen", "Natur pur"],
       hu: ["Sűrű erdő", "Makik", "Túrák", "Tiszta természet"],
       ro: ["Pădure densă", "Lemurieni", "Drumeții", "Natură pură"],
-      en: ["Dense forest", "Lemurs", "Hikes", "Pure nature"]
+      en: ["Dense forest", "Lemurs", "Hikes", "Pure nature"],
+      es: ["Bosque denso", "Lémures", "Senderismo", "Naturaleza pura"],
+      pt: ["Floresta densa", "Lémures", "Caminhadas", "Natureza pura"],
+      fr: ["Forêt dense", "Lémuriens", "Randonnées", "Pleine nature"],
     },
     descriptionAdvanced: {
       de: "Das Tampolo-Naturreservat an der Ostküste der Masoala-Halbinsel ist ein außergewöhnliches Beispiel für die Verbindung von primärem Küstenwald und marinen Ökosystemen. Geografisch liegt es am Rande des Indischen Ozeans und ist Teil des Masoala-Nationalparks, Madagaskars größtem Schutzgebiet. Der Park zeichnet sich dadurch aus, dass der dichte Regenwald direkt bis an die weißen Sandstrände und Korallenriffe heranreicht. Historisch wurde das Gebiet 1997 unter Schutz gestellt, um eines der letzten intakten Waldgebiete dieser Art zu bewahren. Das Reservat beherbergt seltene Arten wie den Roten Vari und die Helm-Vanga, einen auffälligen Vogel mit blauem Schnabel. In den Gewässern vor Tampolo befindet sich zudem ein Meeresreservat, das zwischen Juli und September als wichtiger Aufzuchtsort für Buckelwale dient. Die Unzugänglichkeit der Region, die meist nur per Boot erreichbar ist, garantiert den Erhalt dieser ökologisch sensiblen Zone. Für Forscher und Naturbegeisterte bietet Tampolo eine ungestörte Beobachtung madagassischer Biodiversität in ihrer reinsten Form.",
@@ -810,6 +969,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
       hu: ["Tampolo a Masoala Nemzeti Park része, amely az UNESCO Világörökséghez tartozik.", "A vörös vari az egyik legikonikusabb makifaj, amely itt megtalálható.", "A hosszúszárnyú bálnák a déli télen (július-szeptember) az Antongil-öbölbe vándorolnak.", "A rezervátum a világ egyik utolsó elsődleges part menti esőerdőjét védi.", "A sisakos vanga (Euryceros prevostii) csak Madagaszkár ezen régiójában őshonos.", "Tampolo korallzátonyai több mint 300 halfajnak adnak otthont."],
       ro: ["Tampolo face parte din Parcul Național Masoala, inclus în patrimoniul UNESCO.", "Vari roșu este una dintre cele mai emblematice specii de lemurieni de aici.", "Balenele cu cocoașă migrează în Golful Antongil din fața Tampolo în perioada iulie-septembrie.", "Rezervația protejează una dintre ultimele păduri tropicale de coastă primare din lume.", "Vanga cu cască (Euryceros prevostii) este nativă doar în această regiune a Madagascarului.", "Reciful de corali de la Tampolo găzduiește peste 300 de specii de pești."],
       en: ["Tampolo is part of Masoala National Park, a UNESCO World Heritage site.", "The red ruffed lemur is one of the most iconic lemur species found here.", "Humpback whales migrate to the Antongil Bay off Tampolo during July-September.", "The reserve protects one of the world's last primary coastal rainforests.", "The helmet vanga (Euryceros prevostii) is native only to this region of Madagascar.", "The coral reef of Tampolo is home to over 300 distinct species of fish."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/tampolo-naturreservat-life-v2.webp",
     
     
@@ -821,12 +983,15 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     coords: [47.46, -21.26],
     name: { de: "Amphibien-Wald Ranomafana", hu: "Ranomafana kétéltű-erdő", ro: "Pădurea amfibienilor Ranomafana", en: "Ranomafana Amphibian Forest"},
     image: "/poi-images/amphibien-wald-ranomafana-life-v2.webp",
-    description: { de: "Ein einzigartiger Lebensraum für viele Froscharten.", hu: "Egyedülálló élőhely sok békafajnak.", ro: "Un habitat unic pentru multe specii de broaște.", en: "A unique habitat for many frog species." },
+    description: { de: "Ein einzigartiger Lebensraum für viele Froscharten.", hu: "Egyedülálló élőhely sok békafajnak.", ro: "Un habitat unic pentru multe specii de broaște.", en: "A unique habitat for many frog species." , es: "Un hábitat único para muchas especies de ranas.", pt: "Um habitat único para muitas espécies de rãs.", fr: "Un habitat unique pour de nombreuses espèces de grenouilles."},
     facts: {
       de: ["Froschvielfalt", "Seltene Arten", "Naturbeobachtung", "Lehrreich"],
       hu: ["Békafaj-gazdagság", "Ritka fajok", "Természetmegfigyelés", "Tanulságos"],
       ro: ["Diversitate de broaște", "Specii rare", "Observarea naturii", "Educativ"],
-      en: ["Frog diversity", "Rare species", "Nature observation", "Educational"]
+      en: ["Frog diversity", "Rare species", "Nature observation", "Educational"],
+      es: ["Diversidad de ranas", "Especies raras", "Observación de la naturaleza", "Educativo"],
+      pt: ["Diversidade de rãs", "Espécies raras", "Observação da natureza", "Educativo"],
+      fr: ["Diversité des grenouilles", "Espèces rares", "Observation de la nature", "Éducatif"],
     },
     descriptionAdvanced: {
       de: "Der Ranomafana-Nationalpark im südöstlichen Hochland von Madagaskar wurde 1991 gegründet, nachdem 1986 der Goldene Bambusmaki hier entdeckt wurde. Das Schutzgebiet umfasst etwa 41.600 Hektar dichten Bergregenwalds und dient als kritischer Lebensraum für zahlreiche bedrohte Arten. Besonders bekannt ist die Region für ihre enorme Vielfalt an Amphibien, darunter zahlreiche endemische Froscharten der Familie Mantellidae, die in den feuchten Mikrohabitaten des Parks gedeihen. Die geographische Lage auf einer Höhe von 800 bis 1.200 Metern sorgt für ein kühleres, feuchtes Klima mit jährlichen Niederschlagsmengen von bis zu 4.000 Millimetern. Wissenschaftliche Forschungsstationen wie Centre ValBio unterstützen die Erhaltung und Untersuchung der lokalen Flora und Fauna. Die Vegetation wird von Farnen, Orchideen und Moosen dominiert, die den Waldboden und die Baumstämme in diesem biodiversitätsreichen Ökosystem bedecken.",
@@ -839,6 +1004,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
       hu: ["Alapítás éve: 1991, az arany bambuszmaki felfedezése után", "Terület: kb. 416 négyzetkilométernyi védett hegyi esőerdő", "Tengerszint feletti magasság: 800 és 1200 méter között", "Csapadék: évente akár 4000 mm eső is hullhat a területen", "Biodiverzitás: 12 különböző makifaj otthona a parkban", "Kutatás: Itt található a nemzetközi Centre ValBio állomás"],
       ro: ["Anul înființării: 1991, după descoperirea lemurului bambus auriu", "Suprafață: aproximativ 416 kilometri pătrați de pădure montană", "Altitudine: între 800 și 1.200 de metri deasupra mării", "Precipitații: până la 4.000 mm de ploaie pe an în sezonul umed", "Biodiversitate: Habitat pentru 12 specii diferite de lemuri", "Cercetare: Găzduiește stația internațională Centre ValBio"],
       en: ["Year of establishment: 1991, following the Golden Bamboo Lemur discovery", "Area: approximately 416 square kilometers of protected rainforest", "Elevation: ranging between 800 and 1,200 meters above sea level", "Rainfall: up to 4,000 mm per year during the wet season", "Biodiversity: habitat for 12 distinct species of lemurs", "Research: home to the international Centre ValBio research station"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/amphibien-wald-ranomafana-life-v2.webp",
     
     
@@ -850,12 +1018,15 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     coords: [46.31, -15.71],
     name: { de: "Mahajanga Zoo", hu: "Mahajanga állatkert", ro: "Grădina Zoologică Mahajanga", en: "Mahajanga Zoo"},
     image: "/poi-images/mahajanga-zoo-life-v2.webp",
-    description: { de: "Ein kleiner Zoo, der die Tiere Madagaskars für Kinder erlebbar macht.", hu: "Kis állatkert, amely a gyerekek számára megismerhetővé teszi Madagaszkár állatait.", ro: "O mică grădină zoologică care face animalele din Madagascar accesibile copiilor.", en: "A small zoo that makes Madagascar's animals accessible to kids." },
+    description: { de: "Ein kleiner Zoo, der die Tiere Madagaskars für Kinder erlebbar macht.", hu: "Kis állatkert, amely a gyerekek számára megismerhetővé teszi Madagaszkár állatait.", ro: "O mică grădină zoologică care face animalele din Madagascar accesibile copiilor.", en: "A small zoo that makes Madagascar's animals accessible to kids." , es: "Un pequeño zoológico que acerca los animales de Madagascar a los niños.", pt: "Um pequeno jardim zoológico que aproxima os animais de Madagáscar das crianças.", fr: "Un petit zoo permettant aux enfants de découvrir les animaux de Madagascar."},
     facts: {
       de: ["Heimische Tiere", "Bildung", "Familienfreundlich", "Klein"],
       hu: ["Hazai állatok", "Oktatás", "Családbarát", "Kicsi"],
       ro: ["Animale locale", "Educație", "Prietenos cu familia", "Mic"],
-      en: ["Native animals", "Education", "Family friendly", "Small"]
+      en: ["Native animals", "Education", "Family friendly", "Small"],
+      es: ["Animales nativos", "Educación", "Ideal para familias", "Pequeño"],
+      pt: ["Animais nativos", "Educação", "Amigo das famílias", "Pequeno"],
+      fr: ["Animaux indigènes", "Éducation", "Adapté aux familles", "Petit"],
     },
     descriptionAdvanced: {
       de: "Der Zoo von Mahajanga, oft mit dem regionalen Naturerbe und Forschungseinrichtungen wie dem Akiba-Museum verbunden, präsentiert die einzigartige Fauna der Boeny-Region im Nordwesten Madagaskars. Die Einrichtung konzentriert sich auf den Erhalt lokaler Arten, insbesondere Trockenwald-Lemuren und Reptilien, die in dieser semiariden Zone heimisch sind. Mahajanga selbst ist ein wichtiger Hafen und historisches Zentrum, wobei der Zoo als Bildungsstandort für die lokale Bevölkerung und Besucher dient. In den Gehegen sind oft Arten wie der Coquerel-Sifaka oder verschiedene Chamäleonarten zu finden, die typisch für den nahegelegenen Ankarafantsika-Nationalpark sind. Die Anlage integriert botanische Elemente der Region, darunter Affenbrotbäume und trockenheitsresistente Pflanzen. Trotz seiner bescheidenen Größe spielt der Zoo eine Rolle im Bewusstsein für den Naturschutz in einer Region, die stark von Abholzung und Landwirtschaft betroffen ist.",
@@ -868,6 +1039,9 @@ export const poiExtraMadagascarLifeV2: POI[] = [
       hu: ["Helyszín: Mahajanga kikötővárosában, Boeny régióban", "Fókusz: A madagaszkári száraz erdők faunájának megőrzése", "Fajok: Olyan makiknak ad otthont, mint a Coquerel-szifaka", "Oktatás: Szorosan kapcsolódik a helyi Akiba Természettudományi Múzeumhoz", "Flóra: Regionális növényeket, például baobabfákat is bemutat", "Jelentőség: A helyi természetvédelmi tudatosság fontos központja"],
       ro: ["Locație: În orașul de coastă Mahajanga, regiunea Boeny", "Focus: Conservarea faunei pădurilor uscate din Madagascar", "Specii: Găzduiește lemuri precum Sifaka lui Coquerel", "Educație: Strâns legată de Muzeul de Istorie Naturală Akiba", "Floră: Include plante regionale precum baobabul Adansonia", "Importanță: Centru vital pentru conștientizarea conservării locale"],
       en: ["Location: In the coastal city of Mahajanga, Boeny region", "Focus: Conservation of Madagascar's dry forest fauna", "Species diversity: Home to lemurs such as Coquerel's Sifaka", "Education: Closely linked to the Akiba Museum of Natural History", "Flora: Features regional plants including Adansonia baobab trees", "Significance: Key center for local environmental awareness"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     

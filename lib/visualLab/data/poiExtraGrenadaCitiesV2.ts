@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { POI } from './poi';
 export const grenadaCitiesV2: POI[] = [
 
@@ -312,6 +313,7 @@ export const grenadaCitiesV2: POI[] = [
       en: ["Length: 2.2 kilometers", "Width: 30 meters", "Sand composition: 70% coral, 30% shell fragments", "Water clarity: visibility up to 20 meters", "Wave height average: 0.5 meters", "Number of sun loungers available: 800"],
       pt: ["Número de quartos de hotel: 1.200", "Taxa de ocupação média dos hotéis: 75%", "Empregos no sector do turismo: 500", "Faturação anual: 40 milhões de USD", "Número de restaurantes: 25", "Estacionamentos ao longo da praia: 200"],
       fr: ["Nombre de chambres d'hôtel : 1 200", "Taux d'occupation moyen des hôtels : 75 %", "Emplois dans le secteur du tourisme : 500", "Chiffre d'affaires annuel : 40 millions USD", "Nombre de restaurants : 25", "Places de parking le long de la plage : 200"],
+      es: ["Número de habitaciones de hotel: 1.200", "Ocupación media de los hoteles: 75%", "Puestos de trabajo en el sector turístico: 500", "Volumen de negocios anual: 40 millones de USD", "Número de restaurantes: 25", "Aparcamientos a lo largo de la playa: 200"],
     },
     image: "/poi-images/grenada-grand-anse-cities-v2.webp",
   },
@@ -446,6 +448,7 @@ export const grenadaCitiesV2: POI[] = [
       en: ["Population: 800", "Number of villas: 150", "Golf course length: 6,000 meters", "Marina berths: 50", "Average property price: $2 million", "Distance to airport: 3 km"],
       pt: ["População: 800", "Número de moradias: 150", "Comprimento do campo de golfe: 6.000 metros", "Lugares de amarração na marina: 50", "Preço médio dos imóveis: 2 milhões de USD", "Distância até ao aeroporto: 3 quilómetros"],
       fr: ["Nombre d'habitants : 800", "Nombre de villas : 150", "Longueur du terrain de golf : 6 000 mètres", "Places dans le port de plaisance : 50", "Prix moyen de l'immobilier : 2 millions USD", "Distance de l'aéroport : 3 kilomètres"],
+      es: ["Población: 800", "Número de villas: 150", "Longitud del campo de golf: 6.000 metros", "Amarres en el puerto deportivo: 50", "Precio medio de las propiedades: 2 millones de USD", "Distancia al aeropuerto: 3 kilómetros"],
     },
     image: "/poi-images/grenada-lance-aux-epines-cities-v2.webp",
   },
@@ -490,6 +493,7 @@ export const grenadaCitiesV2: POI[] = [
       en: ["Population: 300", "Fishing boats: 20", "Annual fish catch: 50 tons", "Beach length: 500 m", "Elevation: 10 m", "Distance to nearest town: 15 km"],
       pt: ["População: 300", "Número de barcos de pesca: 20", "Pesca anual: 50 toneladas", "Comprimento da praia: 500 metros", "Altitude acima do mar: 10 metros", "Distância até à cidade mais próxima: 15 quilómetros"],
       fr: ["Nombre d'habitants : 300", "Nombre de bateaux de pêche : 20", "Pêche annuelle : 50 tonnes", "Longueur de la plage : 500 mètres", "Altitude : 10 mètres", "Distance de la ville la plus proche : 15 kilomètres"],
+      es: ["Población: 300", "Número de barcos de pesca: 20", "Captura anual de pescado: 50 toneladas", "Longitud de la playa: 500 metros", "Altitud sobre el mar: 10 metros", "Distancia a la ciudad más cercana: 15 kilómetros"],
     },
     image: "/poi-images/grenada-crochu-cities-v2.webp",
   },

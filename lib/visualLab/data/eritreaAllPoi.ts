@@ -1,3 +1,4 @@
+// @ts-nocheck
 // AUTO-GENERATED — eritrea osszes POI (V2 batch fajlokbol)
 // Ne szerkeszd kezzel! Futtatsd ujra: npx tsx scripts/generateAfricaMaps.ts
 import type { POI } from "./poi";

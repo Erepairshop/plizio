@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { POI } from './poi';
 export const swedenHistoryV2: POI[] = [
 

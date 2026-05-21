@@ -9,12 +9,15 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     coords: [48.8, -14.03],
     name: { de: "Tsaratanana-Massiv", hu: "Tsaratanana-hegység", ro: "Masivul Tsaratanana", en: "Tsaratanana Massif"},
     image: "/poi-images/tsaratanana-nature-v2.webp",
-    description: { de: "Das Tsaratanana-Massiv ist das höchste Bergmassiv Madagaskars.", hu: "A Tsaratanana-hegység Madagaszkár legmagasabb hegyvidéke.", ro: "Masivul Tsaratanana este cel mai înalt masiv muntos din Madagascar.", en: "The Tsaratanana Massif is the highest mountain massif in Madagascar." },
+    description: { de: "Das Tsaratanana-Massiv ist das höchste Bergmassiv Madagaskars.", hu: "A Tsaratanana-hegység Madagaszkár legmagasabb hegyvidéke.", ro: "Masivul Tsaratanana este cel mai înalt masiv muntos din Madagascar.", en: "The Tsaratanana Massif is the highest mountain massif in Madagascar." , es: "El macizo de Tsaratanana es el macizo montañoso más alto de Madagascar.", pt: "O maciço de Tsaratanana é o maciço montanhoso mais alto de Madagáscar.", fr: "Le massif du Tsaratanana est le massif montagneux le plus élevé de Madagascar."},
     facts: {
       de: ["Höchster Punkt ist der Maromokotro", "Vulkanischen Ursprungs", "Teil des Tsaratanana-Reservats", "Wichtiger Wasserlieferant"],
       hu: ["Legmagasabb pontja a Maromokotro", "Vulkáni eredetű", "A Tsaratanana-rezervátum része", "Fontos vízforrás"],
       ro: ["Cel mai înalt punct este Maromokotro", "De origine vulcanică", "Face parte din Rezervația Tsaratanana", "Sursă importantă de apă"],
-      en: ["Highest point is Maromokotro", "Of volcanic origin", "Part of the Tsaratanana Reserve", "Important source of water"]
+      en: ["Highest point is Maromokotro", "Of volcanic origin", "Part of the Tsaratanana Reserve", "Important source of water"],
+      es: ["El punto más alto es el Maromokotro", "De origen volcánico", "Parte de la Reserva de Tsaratanana", "Importante proveedor de agua"],
+      pt: ["O ponto mais alto é o Maromokotro", "De origem vulcânica", "Parte da Reserva de Tsaratanana", "Importante fornecedor de água"],
+      fr: ["Le point culminant est le Maromokotro", "D'origine volcanique", "Fait partie de la réserve du Tsaratanana", "Fournisseur d'eau important"],
     },
     descriptionAdvanced: {
       de: "Das Tsaratanana-Massiv im Norden Madagaskars beherbergt mit dem Maromokotro den höchsten Gipfel der Insel, der eine Höhe von 2.876 Metern erreicht. Die Region ist als strenges Naturreservat (Réserve Naturelle Intégrale) klassifiziert und für die allgemeine Öffentlichkeit weitgehend unzugänglich, was ihren unberührten Zustand bewahrt hat. Geologisch gesehen handelt es sich um ein vulkanisches Gebirge, das durch tief eingeschnittene Täler und steile Hänge gekennzeichnet ist. Die Vegetation variiert je nach Höhenlage von tropischem Regenwald bis hin zu hochmontanem Heidekraut und Flechtenmatten. Tsaratanana ist ein wichtiges Wassereinzugsgebiet, aus dem mehrere bedeutende Flüsse der Insel entspringen. Die Isolation des Massivs hat zur Evolution zahlreicher lokaler endemischer Arten geführt, darunter seltene Amphibien und Vögel, die ausschließlich in diesen Hochlagen überleben können. Aufgrund der schwierigen Erreichbarkeit bleibt das Gebiet eines der am wenigsten erforschten Ökosysteme Madagaskars.",
@@ -27,6 +30,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
       hu: ["Legmagasabb pont: Maromokotro-csúcs, 2876 méter", "Státusz: Szigorúan védett természetvédelmi terület", "Geológia: Harmadidőszaki vulkanikus eredetű hegység", "Hidrológia: Olyan nagy folyók forrásvidéke, mint a Mahavavy", "Flóra: Az egyetlen régió a szigeten magashegyi növényzettel", "Endemizmus: Itt él a ritka Tsaratanana-kaméleon"],
       ro: ["Cel mai înalt punct: Vârful Maromokotro la 2.876 de metri", "Statut: Rezervație Naturală Integrală (protecție strictă)", "Geologie: Masiv vulcanic datând din perioada terțiară", "Hidrologie: Sursa unor râuri mari precum Mahavavy", "Floră: Singura regiune cu vegetație alpină înaltă de pe insulă", "Endemism: Găzduiește cameleonul rar de Tsaratanana"],
       en: ["Highest point: Maromokotro peak at 2,876 meters", "Status: Strict Nature Reserve (Réserve Naturelle Intégrale)", "Geology: Volcanic massif dating from the Tertiary period", "Hydrology: Source of major rivers such as the Mahavavy", "Flora: The only region on the island with high-alpine vegetation", "Endemism: Home to the rare Tsaratanana chameleon"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/tsaratanana-nature-v2.webp",
     
     
@@ -38,12 +44,15 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     coords: [50.2, -15.2],
     name: { de: "Masoala-Regenwald", hu: "Masoala esőerdő", ro: "Pădurea tropicală Masoala", en: "Masoala Rainforest"},
     image: "/poi-images/masoala-nature-v2.webp",
-    description: { de: "Der Masoala-Nationalpark schützt den größten verbliebenen Regenwald Madagaskars.", hu: "A Masoala Nemzeti Park Madagaszkár legnagyobb megmaradt esőerdőjét védi.", ro: "Parcul Național Masoala protejează cea mai mare pădure tropicală rămasă din Madagascar.", en: "Masoala National Park protects the largest remaining rainforest in Madagascar." },
+    description: { de: "Der Masoala-Nationalpark schützt den größten verbliebenen Regenwald Madagaskars.", hu: "A Masoala Nemzeti Park Madagaszkár legnagyobb megmaradt esőerdőjét védi.", ro: "Parcul Național Masoala protejează cea mai mare pădure tropicală rămasă din Madagascar.", en: "Masoala National Park protects the largest remaining rainforest in Madagascar." , es: "El Parque Nacional de Masoala protege la mayor selva tropical restante de Madagascar.", pt: "O Parque Nacional de Masoala protege a maior floresta tropical restante de Madagascar.", fr: "Le parc national de Masoala protège la plus grande forêt tropicale restante de Madagascar."},
     facts: {
       de: ["Größtes Schutzgebiet Madagaskars", "UNESCO-Welterbe", "Beheimatet seltene Arten", "Umfasst auch Meeresgebiete"],
       hu: ["Madagaszkár legnagyobb védett területe", "UNESCO világörökség", "Ritka fajok otthona", "Tengeri területeket is magában foglal"],
       ro: ["Cea mai mare zonă protejată din Madagascar", "Patrimoniul mondial UNESCO", "Adăpostește specii rare", "Include și zone marine"],
-      en: ["Largest protected area in Madagascar", "UNESCO World Heritage Site", "Home to rare species", "Includes marine areas"]
+      en: ["Largest protected area in Madagascar", "UNESCO World Heritage Site", "Home to rare species", "Includes marine areas"],
+      es: ["Área protegida más grande de Madagascar", "Patrimonio de la Humanidad de la UNESCO", "Hogar de especies raras", "Incluye áreas marinas"],
+      pt: ["Maior área protegida de Madagascar", "Patrimônio Mundial da UNESCO", "Lar de espécies raras", "Inclui áreas marinhas"],
+      fr: ["Plus grande zone protégée de Madagascar", "Patrimoine mondial de l'UNESCO", "Abrite des espèces rares", "Comprend également des zones marines"],
     },
     descriptionAdvanced: {
       de: "Der Masoala-Nationalpark an der Nordostküste Madagaskars ist das größte Schutzgebiet der Insel und umfasst rund 2.300 Quadratkilometer Landfläche sowie 100 Quadratkilometer Meeresparks. Er wurde 1997 gegründet und gehört seit 2007 zum UNESCO-Weltnaturerbe 'Regenwälder von Atsinanana'. Der Park schützt eine außergewöhnliche Vielfalt an Lebensräumen, von primärem Regenwald, der direkt auf den Meeresspiegel trifft, bis hin zu Mangroven und Korallenriffen. Masoala ist bekannt für den Roten Vari, eine Lemurenart, die fast ausschließlich auf dieser Halbinsel vorkommt. Die Region erhält enorme Niederschlagsmengen von über 5.000 Millimetern pro Jahr, was eine üppige, immergrüne Vegetation begünstigt. Drei Meeresparks innerhalb des Schutzgebiets schützen wichtige Brutgebiete für Buckelwale, die zwischen Juli und September in die Antongil-Bucht kommen. Die Abgeschiedenheit des Parks macht ihn zu einem der unberührtesten Refugien für madagassische Biodiversität, erfordert jedoch eine Anreise per Boot oder Kleinflugzeug.",
@@ -56,6 +65,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
       hu: ["Méret: Madagaszkár legnagyobb nemzeti parkja (2300 km²)", "Világörökség: Az UNESCO Atsinanana esőerdői helyszín része", "Fauna: A veszélyeztetett vörös vari fő élőhelye", "Tengerbiológia: Három védett tengeri rezervátumot foglal magában", "Csapadék: A sziget legcsapadékosabb régiója (>5000 mm/év)", "Bálnák: A hosszúszárnyú bálnák fontos szaporodóhelye"],
       ro: ["Mărime: Cel mai mare parc național din Madagascar (2.300 km²)", "Patrimoniu: Parte a sitului UNESCO Pădurile din Atsinanana", "Faună: Habitatul principal al lemurului Vari roșu, pe cale de dispariție", "Biologie marină: Include trei rezervații marine protejate", "Precipitații: Cea mai umedă regiune a insulei (>5.000 mm/an)", "Balene: Loc crucial de împerechere pentru balenele cu cocoașă"],
       en: ["Size: Largest national park in Madagascar (2,300 km²)", "Heritage: Part of the UNESCO Rainforests of the Atsinanana", "Fauna: Main habitat of the endangered Red Ruffed Lemur", "Marine biology: Includes three protected marine reserves", "Rainfall: Wettest region of the island (>5,000 mm per year)", "Whales: Critical mating ground for humpback whales in Antongil Bay"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/masoala-nature-v2.webp",
     
     
@@ -67,12 +79,15 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     coords: [44.7, -18.7],
     name: { de: "Tsingy de Bemaraha", hu: "Tsingy de Bemaraha", ro: "Tsingy de Bemaraha", en: "Tsingy de Bemaraha"},
     image: "/poi-images/tsingy-bemaraha-nature-v2.webp",
-    description: { de: "Eine spektakuläre Kalkstein-Karstlandschaft im Westen Madagaskars.", hu: "Látványos mészkő karsztvidék Madagaszkár nyugati részén.", ro: "Un peisaj carstic spectaculos din calcar în vestul Madagascarului.", en: "A spectacular limestone karst landscape in western Madagascar." },
+    description: { de: "Eine spektakuläre Kalkstein-Karstlandschaft im Westen Madagaskars.", hu: "Látványos mészkő karsztvidék Madagaszkár nyugati részén.", ro: "Un peisaj carstic spectaculos din calcar în vestul Madagascarului.", en: "A spectacular limestone karst landscape in western Madagascar." , es: "Una espectacular paisaje kárstico de piedra caliza en el oeste de Madagascar.", pt: "Uma paisagem cárstica de calcário espetacular no oeste de Madagáscar.", fr: "Un paysage karstique calcaire spectaculaire dans l'ouest de Madagascar."},
     facts: {
       de: ["Einzigartige 'Tsingy'-Felsformationen", "UNESCO-Welterbe", "Schwieriges Gelände für Wanderer", "Beheimatet endemische Lemuren"],
       hu: ["Egyedülálló 'Tsingy' sziklaképződmények", "UNESCO világörökség", "Nehéz terep túrázóknak", "Endémikus makik élőhelye"],
       ro: ["Formațiuni stâncoase unice 'Tsingy'", "Patrimoniul mondial UNESCO", "Teren dificil pentru drumeți", "Adăpostește lemurieni endemici"],
-      en: ["Unique 'Tsingy' rock formations", "UNESCO World Heritage Site", "Difficult terrain for hikers", "Home to endemic lemurs"]
+      en: ["Unique 'Tsingy' rock formations", "UNESCO World Heritage Site", "Difficult terrain for hikers", "Home to endemic lemurs"],
+      es: ["Formaciones rocosas 'Tsingy' únicas", "Patrimonio de la Humanidad de la UNESCO", "Terreno difícil para excursionistas", "Hogar de lémures endémicos"],
+      pt: ["Formações rochosas 'Tsingy' únicas", "Património Mundial da UNESCO", "Terreno difícil para caminhantes", "Lar de lémures endémicos"],
+      fr: ["Formations rocheuses 'Tsingy' uniques", "Patrimoine mondial de l'UNESCO", "Terrain difficile pour les randonneurs", "Abrite des lémuriens endémiques"],
     },
     descriptionAdvanced: {
       de: "Der Nationalpark Tsingy de Bemaraha im Westen Madagaskars ist berühmt für seine spektakulären Karstlandschaften, die aus messerscharfen Kalksteinnadeln bestehen. Diese geologische Formation entstand durch die Erosion von Kalksteinplateaus über Millionen von Jahren, wobei Grundwasser horizontale Höhlen und vertikale Klüfte schuf. Das Gebiet wurde 1990 als erstes madagassisches Objekt in das UNESCO-Weltnaturerbe aufgenommen. Die labyrinthartigen Strukturen bieten einzigartige Mikrohabitate für zahlreiche endemische Arten, die sich an das Leben auf dem nackten Stein oder in den tiefen Schluchten angepasst haben. Elf Lemurenarten, darunter der Von-der-Decken-Sifaka, bewohnen das Reservat. Der Park ist in 'Petit Tsingy' und 'Grand Tsingy' unterteilt, wobei letzterer über spektakuläre Hängebrücken und Klettersteige für Besucher zugänglich ist. Während der Trockenzeit von Mai bis November ist der Park erreichbar, während er in der Regenzeit aufgrund unpassierbarer Pisten isoliert bleibt.",
@@ -85,6 +100,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
       hu: ["UNESCO: Madagaszkár első világörökségi helyszíne (1990 óta)", "Geológia: Borotvaéles karsztformációk jura kori mészkőből", "Terület: A teljes rezervátum körülbelül 1500 km²-t tesz ki", "Fauna: 11 makifaj és több mint 100 madárfaj otthona", "Infrastruktúra: Híres a 50 méter mély hasadékok feletti függőhidakról", "Szezonalitás: Csak májustól novemberig érhető el szárazföldön"],
       ro: ["UNESCO: Primul sit din Patrimoniul Mondial din Madagascar (1990)", "Geologie: Formațiuni carstice ascuțite din calcar jurasic", "Suprafață: Întreaga rezervație acoperă aproximativ 1.500 km²", "Faună: Adăpostește 11 specii de lemuri și peste 100 de păsări", "Infrastructură: Cunoscut pentru podurile suspendate peste canioane de 50 m", "Acces: Disponibil doar din mai până în noiembrie pe cale terestră"],
       en: ["UNESCO: Madagascar's first World Heritage site (since 1990)", "Geology: Razor-sharp karst formations made of Jurassic limestone", "Area: The entire reserve covers approximately 1,500 km²", "Fauna: Home to 11 lemur species and over 100 bird species", "Infrastructure: Famous for suspension bridges over 50-meter deep fissures", "Seasonality: Only accessible by land from May to November"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/tsingy-bemaraha-nature-v2.webp",
     
     
@@ -96,12 +114,15 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     coords: [48.5, -17.5],
     name: { de: "Alaotra-See", hu: "Alaotra-tó", ro: "Lacul Alaotra", en: "Lake Alaotra"},
     image: "/poi-images/lake-alaotra-nature-v2.webp",
-    description: { de: "Der größte See Madagaskars, bekannt für seine Bedeutung in der Landwirtschaft.", hu: "Madagaszkár legnagyobb tava, amely mezőgazdasági jelentőségéről ismert.", ro: "Cel mai mare lac din Madagascar, cunoscut pentru importanța sa în agricultură.", en: "The largest lake in Madagascar, known for its agricultural importance." },
+    description: { de: "Der größte See Madagaskars, bekannt für seine Bedeutung in der Landwirtschaft.", hu: "Madagaszkár legnagyobb tava, amely mezőgazdasági jelentőségéről ismert.", ro: "Cel mai mare lac din Madagascar, cunoscut pentru importanța sa în agricultură.", en: "The largest lake in Madagascar, known for its agricultural importance." , es: "El lago más grande de Madagascar, conocido por su importancia en la agricultura.", pt: "O maior lago de Madagáscar, conhecido pela sua importância na agricultura.", fr: "Le plus grand lac de Madagascar, connu pour son importance dans l'agriculture."},
     facts: {
       de: ["Wichtiges Zentrum für Reisbau", "Bettet in ein großes Feuchtgebiet ein", "Gefährdeter Lebensraum", "Süßwassersee"],
       hu: ["Fontos rizstermesztési központ", "Egy nagy vizesélőhely része", "Veszélyeztetett élőhely", "Édesvizű tó"],
       ro: ["Centru important pentru cultivarea orezului", "Face parte dintr-o zonă umedă mare", "Habitat amenințat", "Lac de apă dulce"],
-      en: ["Important center for rice cultivation", "Part of a large wetland", "Endangered habitat", "Freshwater lake"]
+      en: ["Important center for rice cultivation", "Part of a large wetland", "Endangered habitat", "Freshwater lake"],
+      es: ["Centro importante para el cultivo de arroz", "Situado en un gran humedal", "Hábitat en peligro", "Lago de agua dulce"],
+      pt: ["Centro importante para o cultivo de arroz", "Inserido numa grande zona húmida", "Habitat ameaçado", "Lago de água doce"],
+      fr: ["Centre important pour la culture du riz", "Situé dans une vaste zone humide", "Habitat menacé", "Lac d'eau douce"],
     },
     descriptionAdvanced: {
       de: "Der Alaotra-See ist mit einer permanenten Wasserfläche von etwa 182 Quadratkilometern der größte See Madagaskars und liegt im zentralen Hochland in der Region Alaotra-Mangoro. Das umliegende Becken ist das wichtigste Reisanbaugebiet der Insel und wird oft als 'Reiskammer' bezeichnet. Der See ist von ausgedehnten Papyrus- und Schilfgürteln umgeben, die einen einzigartigen Lebensraum für den Alaotra-Bambusmaki (Bandro) bieten, den einzigen Lemuren, der ausschließlich in Feuchtgebieten lebt. Dieses Ökosystem ist durch Sedimentation aufgrund von Entwaldung in den umliegenden Hügeln und durch Überfischung stark bedroht. Seit 2003 ist der See als Ramsar-Gebiet von internationaler Bedeutung anerkannt. Die Region spielt eine zentrale Rolle für die Ernährungssicherheit der Insel, leidet jedoch unter ökologischem Druck. Ornithologisch ist der See bedeutend als Rast- und Brutplatz für zahlreiche Wasservögel, von denen einige wie der Alaotra-Zwergtaucher bereits als ausgestorben gelten.",
@@ -114,6 +135,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
       hu: ["Méret: Madagaszkár legnagyobb belső tava (kb. 182 km² vízfelület)", "Gazdaság: A madagaszkári rizstermesztés központja", "Fauna: Az Alaotra-bambuszmaki (Bandro) egyetlen élőhelye", "Védettség: 2003 óta nemzetközileg elismert Ramsari terület", "Veszély: Magas üledékképződés a talajerózió következtében", "Madárvilág: A már kihalt Alaotra-vöcsök egykori otthona"],
       ro: ["Mărime: Cel mai mare lac interior din Madagascar (182 km²)", "Economie: Centrul producției de orez din Madagascar", "Faună: Singurul habitat al lemurului de bambus Alaotra (Bandro)", "Protecție: Sit Ramsar de importanță internațională din 2003", "Amenințare: Rată ridicată de sedimentare din cauza eroziunii solului", "Ornitologie: Fostul habitat al corcodelului de Alaotra, acum dispărut"],
       en: ["Size: Largest inland lake in Madagascar (approx. 182 km² water surface)", "Economy: Center of Malagasy rice production", "Fauna: Only habitat of the Lac Alaotra Gentle Lemur (Bandro)", "Conservation: Recognized Ramsar wetland site since 2003", "Threat: High sedimentation rate caused by soil erosion", "Birds: Former home of the now-extinct Alaotra Grebe"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/lake-alaotra-nature-v2.webp",
     
     
@@ -125,12 +149,15 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     coords: [48.3, -13.4],
     name: { de: "Lokobe-Wald", hu: "Lokobe erdő", ro: "Pădurea Lokobe", en: "Lokobe Forest"},
     image: "/poi-images/lokobe-nature-v2.webp",
-    description: { de: "Ein bedeutendes Naturschutzgebiet auf der Insel Nosy Be.", hu: "Fontos természetvédelmi terület Nosy Be szigetén.", ro: "O rezervație naturală importantă pe insula Nosy Be.", en: "An important nature reserve on the island of Nosy Be." },
+    description: { de: "Ein bedeutendes Naturschutzgebiet auf der Insel Nosy Be.", hu: "Fontos természetvédelmi terület Nosy Be szigetén.", ro: "O rezervație naturală importantă pe insula Nosy Be.", en: "An important nature reserve on the island of Nosy Be." , es: "Una importante reserva natural en la isla de Nosy Be.", pt: "Uma importante reserva natural na ilha de Nosy Be.", fr: "Une réserve naturelle importante sur l'île de Nosy Be."},
     facts: {
       de: ["Auf Nosy Be gelegen", "Primärwald-Überreste", "Beheimatet den Schwarzen Lemur", "Schützt seltene Flora"],
       hu: ["Nosy Be szigetén található", "Őserdő maradványok", "A fekete maki otthona", "Ritka növényeket véd"],
       ro: ["Situată pe Nosy Be", "Rămășițe de pădure primară", "Adăpostește lemurianul negru", "Protejează flora rară"],
-      en: ["Located on Nosy Be", "Primary forest remnants", "Home to the Black Lemur", "Protects rare flora"]
+      en: ["Located on Nosy Be", "Primary forest remnants", "Home to the Black Lemur", "Protects rare flora"],
+      es: ["Situado en Nosy Be", "Restos de bosque primario", "Hogar del lémur negro", "Protege flora rara"],
+      pt: ["Localizada em Nosy Be", "Restos de floresta primária", "Lar do lêmure preto", "Protege flora rara"],
+      fr: ["Située sur Nosy Be", "Vestiges de forêt primaire", "Abrite le lémur noir", "Protège une flore rare"],
     },
     descriptionAdvanced: {
       de: "Das Lokobe-Spezialreservat liegt im Südosten der Insel Nosy Be und schützt den letzten verbliebenen primären Tieflandregenwald der Region. Auf einer Fläche von etwa 740 Hektar bietet das Reservat Schutz für eine Vielzahl endemischer Arten, darunter den Mohrenmaki (Eulemur macaco), dessen Männchen völlig schwarz und Weibchen rotbraun sind. Geologisch ist das Gebiet durch vulkanisches Gestein und steile Hänge geprägt, die bis zum Meer abfallen. Die Flora zeichnet sich durch riesige Canarium-Bäume und endemische Palmenarten aus. Da es keine befahrbaren Wege im Inneren gibt, erreichen Besucher das Reservat oft mit traditionellen Pirogen (Einbaumkanus) von den umliegenden Dörfern aus. Neben den Lemuren ist Lokobe ein Refugium für seltene Reptilien und Amphibien, wie den winzigen Brookesia-Chamäleons und verschiedenen tagaktiven Geckos. Das Reservat spielt eine entscheidende Rolle für das lokale Mikroklima und die Wasserversorgung der umliegenden Gemeinden auf Nosy Be.",
@@ -143,6 +170,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
       hu: ["Helyszín: Nosy Be vulkanikus szigetének délkeleti csücske", "Ökoszisztéma: A régió utolsó elsődleges alföldi esőerdője", "Fauna: A szerecsenmaki kifejezett ivari dimorfizmusáról ismert", "Megközelítés: Leginkább csak hagyományos pirogon, a víz felől", "Méret: Viszonylag kicsi, de sűrű, kb. 740 hektáros védett terület", "Biodiverzitás: Az apró Brookesia-kaméleon élőhelye"],
       ro: ["Locație: Vârful sud-estic al insulei vulcanice Nosy Be", "Ecosistem: Ultima pădure tropicală primară de câmpie din regiune", "Faună: Cunoscut pentru dimorfismul pronunțat al lemurului negru", "Acces: De cele mai multe ori accesibil doar cu piroga pe apă", "Suprafață: Rezervație relativ mică, dar densă, de circa 740 ha", "Biodiversitate: Habitat pentru micuțul cameleon Brookesia"],
       en: ["Location: Southeastern tip of the volcanic island Nosy Be", "Ecosystem: Region's last remaining primary lowland rainforest", "Fauna: Known for the distinct dimorphism of the Black Lemur", "Access: Usually only reachable by traditional pirogue from the sea", "Size: Relatively small but dense protected area of approx. 740 ha", "Biodiversity: Habitat for the tiny Brookesia chameleon"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/lokobe-nature-v2.webp",
     
     
@@ -154,12 +184,15 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     coords: [48.2, -13.3],
     name: { de: "Nosy Be", hu: "Nosy Be", ro: "Nosy Be", en: "Nosy Be"},
     image: "/poi-images/nosy-be-nature-v2.webp",
-    description: { de: "Die bekannteste Urlaubsinsel Madagaskars vor der Nordwestküste.", hu: "Madagaszkár legismertebb üdülőszigete az északnyugati partoknál.", ro: "Cea mai cunoscută insulă de vacanță a Madagascarului în largul coastei de nord-vest.", en: "The most famous resort island of Madagascar off the northwest coast." },
+    description: { de: "Die bekannteste Urlaubsinsel Madagaskars vor der Nordwestküste.", hu: "Madagaszkár legismertebb üdülőszigete az északnyugati partoknál.", ro: "Cea mai cunoscută insulă de vacanță a Madagascarului în largul coastei de nord-vest.", en: "The most famous resort island of Madagascar off the northwest coast." , es: "La isla de vacaciones más famosa de Madagascar, frente a la costa noroeste.", pt: "A ilha de férias mais famosa de Madagascar, na costa noroeste.", fr: "L'île de vacances la plus célèbre de Madagascar, au large de la côte nord-ouest."},
     facts: {
       de: ["Berühmt für Ylang-Ylang-Plantagen", "Traumhafte Strände", "Vulkanischer Ursprung", "Touristen-Hotspot"],
       hu: ["Híres az ilang-ilang ültetvényeiről", "Csodálatos strandok", "Vulkáni eredetű", "Turisztikai központ"],
       ro: ["Faimoasă pentru plantațiile de ylang-ylang", "Plaje de vis", "Origine vulcanică", "Centru turistic"],
-      en: ["Famous for ylang-ylang plantations", "Dreamy beaches", "Volcanic origin", "Tourist hotspot"]
+      en: ["Famous for ylang-ylang plantations", "Dreamy beaches", "Volcanic origin", "Tourist hotspot"],
+      es: ["Famosa por sus plantaciones de Ylang-Ylang", "Playas de ensueño", "Origen volcánico", "Punto turístico destacado"],
+      pt: ["Famosa pelas plantações de Ylang-Ylang", "Praias deslumbrantes", "Origem vulcânica", "Ponto turístico central"],
+      fr: ["Célèbre pour ses plantations d'Ylang-Ylang", "Plages de rêve", "Origine volcanique", "Haut lieu touristique"],
     },
     descriptionAdvanced: {
       de: "Nosy Be, auch bekannt als 'Ambariobe' oder die 'Duftinsel', ist mit einer Fläche von 321 Quadratkilometern die größte und bedeutendste vorgelagerte Insel Madagaskars. Sie liegt im Kanal von Mosambik, etwa acht Kilometer vor der Nordwestküste. Geologisch ist die Insel vulkanischen Ursprungs und beherbergt mehrere Kraterseen, die als heilige Orte für die lokale Sakalava-Bevölkerung gelten. Das Klima ist tropisch mit einer ausgeprägten Regenzeit von Dezember bis März. Nosy Be ist weltweit berühmt für die Produktion von Ylang-Ylang-Essenz, die eine tragende Säule der lokalen Wirtschaft bildet und der Insel ihren Spitznamen gab. Neben dem Tourismus spielt die Landwirtschaft, insbesondere der Anbau von Kakao, Vanille und Pfeffer, eine wichtige Rolle. Die Insel bietet eine Mischung aus vulkanischen Hügeln, Korallenriffen und dem Lokobe-Regenwald, was sie zu einem Zentrum der regionalen Biodiversität macht.",
@@ -172,6 +205,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
       hu: ["Terület: Madagaszkár legnagyobb mellékszigete, kb. 321 km²", "Gazdaság: Az ilang-ilang olaj kitermelésének világközpontja", "Geológia: Vulkanikus sziget 11 krátertóval a belsejében", "Kultúra: A krátertavakat szentnek (fady) tekintik a szakalavák", "Éghajlat: Trópusi meleg, 26°C-os éves átlaghőmérséklettel", "Történelem: 1840-ben hivatalosan francia protektorátus lett"],
       ro: ["Suprafață: Cea mai mare insulă adiacentă a Madagascarului (321 km²)", "Economie: Centru mondial pentru extracția uleiului de Ylang-Ylang", "Geologie: Insulă vulcanică având 11 lacuri de crater în interior", "Cultură: Lacurile de crater sunt considerate sacre (fady) de Sakalava", "Climat: Tropical cald, cu o temperatură medie anuală de 26°C", "Istorie: A devenit oficial protectorat francez în anul 1840"],
       en: ["Area: Madagascar's largest offshore island at approx. 321 km²", "Economy: World center for Ylang-Ylang essential oil production", "Geology: Volcanic island featuring 11 inland crater lakes", "Culture: The crater lakes are considered sacred (fady) by the Sakalava", "Climate: Tropical and warm with an average annual temperature of 26°C", "History: Officially became a French protectorate in 1840"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/nosy-be-nature-v2.webp",
     
     
@@ -183,12 +219,15 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     coords: [46.7, -15.7],
     name: { de: "Betsiboka-Fluss", hu: "Betsiboka-folyó", ro: "Râul Betsiboka", en: "Betsiboka River"},
     image: "/poi-images/betsiboka-river-nature-v2.webp",
-    description: { de: "Ein bedeutender Fluss im Nordwesten, bekannt für sein rotes Sediment.", hu: "Jelentős folyó az északnyugaton, vörös üledékéről ismert.", ro: "Un râu important în nord-vest, cunoscut pentru sedimentele sale roșii.", en: "A significant river in the northwest, known for its red sediment." },
+    description: { de: "Ein bedeutender Fluss im Nordwesten, bekannt für sein rotes Sediment.", hu: "Jelentős folyó az északnyugaton, vörös üledékéről ismert.", ro: "Un râu important în nord-vest, cunoscut pentru sedimentele sale roșii.", en: "A significant river in the northwest, known for its red sediment." , es: "Un río importante en el noroeste, conocido por su sedimento rojo.", pt: "Um rio importante no noroeste, conhecido pelo seu sedimento vermelho.", fr: "Un fleuve important dans le nord-ouest, connu pour ses sédiments rouges."},
     facts: {
       de: ["Starker Erosionsabfluss", "Mündet in die Bombetoka-Bucht", "Rot gefärbtes Wasser", "Wichtig für die lokale Fischerei"],
       hu: ["Erős eróziós lefolyás", "A Bombetoka-öbölbe torkollik", "Vörösre színeződött víz", "Fontos a helyi halászat számára"],
       ro: ["Scurgere puternică de eroziune", "Se varsă în Golful Bombetoka", "Apă colorată în roșu", "Important pentru pescuitul local"],
-      en: ["Strong erosion runoff", "Flows into Bombetoka Bay", "Red-colored water", "Important for local fishing"]
+      en: ["Strong erosion runoff", "Flows into Bombetoka Bay", "Red-colored water", "Important for local fishing"],
+      es: ["Fuerte descarga de erosión", "Desemboca en la bahía de Bombetoka", "Agua de color rojo", "Importante para la pesca local"],
+      pt: ["Forte descarga de erosão", "Desagua na Baía de Bombetoka", "Água de cor vermelha", "Importante para a pesca local"],
+      fr: ["Fort débit d'érosion", "Se jette dans la baie de Bombetoka", "Eau de couleur rouge", "Important pour la pêche locale"],
     },
     descriptionAdvanced: {
       de: "Der Betsiboka ist mit einer Länge von etwa 527 Kilometern einer der bedeutendsten Flüsse Madagaskars und entwässert große Teile des zentralen Hochlands nach Nordwesten in den Kanal von Mosambik. Ein markantes Merkmal des Flusses ist seine tiefrote Farbe, die durch die enorme Menge an abgetragenem Lateritboden verursacht wird. Diese Sedimentfracht ist ein direktes Resultat der massiven Entwaldung im Einzugsgebiet des Flusses, was den Betsiboka zu einem Symbol für die ökologischen Herausforderungen der Insel gemacht hat. In der Bombetoka-Bucht bildet der Fluss ein riesiges Delta mit ausgedehnten Mangrovenwäldern, die wichtige Ökosysteme für Fische und Wasservögel darstellen. Die Sedimentablagerungen im Delta sind so massiv, dass sie aus dem Weltraum sichtbar sind und die Schifffahrt zum Hafen von Mahajanga zunehmend behindern. Trotz der Umweltproblematik bleibt der Fluss eine lebenswichtige Wasserquelle für den Reisanbau in den fruchtbaren Ebenen seiner Unterläufe.",
@@ -201,6 +240,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
       hu: ["Hossz: Kb. 527 km a felföldtől a tengerpartig", "Szín: Jellegzetes mélyvörös a laterit üledékek miatt", "Delta: A Mahajanga melletti Bombetoka-öbölbe torkollik", "Környezet: Az űrből is látható talajerózió helyszíne", "Mangrove: A sziget egyik legnagyobb mangrove-területének otthona", "Gazdaság: Fontos vízforrás a Boeny-medence rizstermesztéséhez"],
       ro: ["Lungime: Aproximativ 527 km de la podiș până la coastă", "Culoare: Roșu profund caracteristic datorat sedimentelor lateritice", "Deltă: Se varsă în Golful Bombetoka lângă Mahajanga", "Mediu: Eroziunea solului este documentată vizibil din spațiu", "Mangrove: Găzduiește una dintre cele mai mari zone de mangrove", "Economie: Sursă de apă crucială pentru orezul din bazinul Boeny"],
       en: ["Length: Approximately 527 km from the highlands to the coast", "Color: Distinctive deep red due to suspended laterite sediments", "Delta: Empties into Bombetoka Bay near Mahajanga", "Environment: Soil erosion so severe it is visible from space", "Mangroves: Home to one of the largest mangrove systems on the island", "Economy: Vital water source for rice farming in the Boeny basin"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/betsiboka-river-nature-v2.webp",
     
     
@@ -212,12 +254,15 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     coords: [44.5, -19.5],
     name: { de: "Tsiribihina-Fluss", hu: "Tsiribihina-folyó", ro: "Râul Tsiribihina", en: "Tsiribihina River"},
     image: "/poi-images/tsiribihina-river-nature-v2.webp",
-    description: { de: "Ein Fluss im Westen, beliebt für Kanutouren durch die Schluchten.", hu: "Nyugati folyó, népszerű a szurdokon átvezető kenu-túrák miatt.", ro: "Un râu în vest, popular pentru tururile cu canoe prin canioane.", en: "A river in the west, popular for canoe tours through the gorges." },
+    description: { de: "Ein Fluss im Westen, beliebt für Kanutouren durch die Schluchten.", hu: "Nyugati folyó, népszerű a szurdokon átvezető kenu-túrák miatt.", ro: "Un râu în vest, popular pentru tururile cu canoe prin canioane.", en: "A river in the west, popular for canoe tours through the gorges." , es: "Un río en el oeste, popular por los recorridos en canoa a través de los cañones.", pt: "Um rio no oeste, popular para passeios de canoa pelos desfiladeiros.", fr: "Un fleuve de l'ouest, prisé pour les randonnées en pirogue à travers les gorges."},
     facts: {
       de: ["Beliebt bei Touristen", "Durchquert beeindruckende Schluchten", "Reich an Tierwelt", "Wichtig für den Transport"],
       hu: ["Népszerű a turisták körében", "Lenyűgöző szurdokon halad át", "Gazdag vadvilág", "Fontos a közlekedésben"],
       ro: ["Popular printre turiști", "Traversează canioane impresionante", "Bogată în viață sălbatică", "Important pentru transport"],
-      en: ["Popular with tourists", "Crosses impressive gorges", "Rich in wildlife", "Important for transportation"]
+      en: ["Popular with tourists", "Crosses impressive gorges", "Rich in wildlife", "Important for transportation"],
+      es: ["Popular entre los turistas", "Atraviesa cañones impresionantes", "Rico en vida silvestre", "Importante para el transporte"],
+      pt: ["Popular entre os turistas", "Atravessa desfiladeiros impressionantes", "Rico em vida selvagem", "Importante para o transporte"],
+      fr: ["Prisé par les touristes", "Traverse des gorges impressionnantes", "Riche en faune", "Important pour le transport"],
     },
     descriptionAdvanced: {
       de: "Der Tsiribihina-Fluss im Westen Madagaskars ist bekannt für seine ruhigen Gewässer und die spektakuläre Passage durch die Schluchten des Bemaraha-Massivs. Er entsteht durch den Zusammenfluss mehrerer Flüsse aus dem zentralen Hochland und fließt etwa 120 Kilometer weit, bevor er in den Kanal von Mosambik mündet. Eine Fahrt auf dem Fluss mit traditionellen Flößen oder motorisierten Booten gehört zu den klassischen Naturerlebnissen der Insel und bietet Einblicke in unberührte Landschaften und abgelegene Dörfer. Entlang der Ufer lassen sich oft Krokodile, Wasservögel und Lemuren in den angrenzenden Wäldern beobachten. Ein Höhepunkt des Flusslaufs sind die Wasserfälle von Anosin'ampela, die in ein natürliches Becken stürzen. Der Fluss dient als wichtige Verkehrsader für die lokale Bevölkerung, die landwirtschaftliche Produkte wie Tabak und Mais transportiert. Geologisch durchquert der Fluss Schichten aus Kalkstein und Sandstein, was zu abwechslungsreichen Uferformationen führt.",
@@ -230,6 +275,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
       hu: ["Hossz: Kb. 120 km-es szakasz a sziget nyugati részén", "Természet: Híres a Bemaraha-szurdokokon való áthaladásáról", "Fauna: Számos nílusi krokodil és gém él a partok mentén", "Látnivaló: Az Anosin'ampela-vízesés a folyó mentén", "Közlekedés: Létfontosságú útvonal a távoli falvak számára", "Geológia: Mezozoikumi mészkőfennsíkokat vág át"],
       ro: ["Curs: Segment de aproximativ 120 km în vestul insulei", "Natură: Renumit pentru traversarea canioanelor Bemaraha", "Faună: Densitate mare de crocodili de Nil și stârci pe maluri", "Atracție: Cascadele Anosin'ampela situate pe cursul râului", "Transport: Rută vitală de comunicație pentru satele izolate", "Geologie: Taie prin platouri de calcar din era mezozoică"],
       en: ["Course: Approximately 120 km stretch in the west of the island", "Nature: Famous for cutting through the Bemaraha gorges", "Fauna: High density of Nile crocodiles and herons along the banks", "Landmark: The Anosin'ampela waterfalls located mid-course", "Transport: Vital supply route for remote riverside villages", "Geology: Incises through Mesozoic limestone plateaus"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/tsiribihina-river-nature-v2.webp",
     
     
@@ -241,12 +289,15 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     coords: [44.3, -21.7],
     name: { de: "Mangoky-Fluss", hu: "Mangoky-folyó", ro: "Râul Mangoky", en: "Mangoky River"},
     image: "/poi-images/mangoky-river-nature-v2.webp",
-    description: { de: "Der längste Fluss Madagaskars, der durch den Südwesten fließt.", hu: "Madagaszkár leghosszabb folyója, amely a délnyugaton folyik keresztül.", ro: "Cel mai lung râu din Madagascar, care curge prin sud-vest.", en: "The longest river in Madagascar, flowing through the southwest." },
+    description: { de: "Der längste Fluss Madagaskars, der durch den Südwesten fließt.", hu: "Madagaszkár leghosszabb folyója, amely a délnyugaton folyik keresztül.", ro: "Cel mai lung râu din Madagascar, care curge prin sud-vest.", en: "The longest river in Madagascar, flowing through the southwest." , es: "El río más largo de Madagascar, que fluye a través del suroeste.", pt: "O rio mais longo de Madagascar, que flui pelo sudoeste.", fr: "Le plus long fleuve de Madagascar, traversant le sud-ouest."},
     facts: {
       de: ["Länge ca. 560 km", "Entspringt im zentralen Hochland", "Mündet in den Indischen Ozean", "Wichtig für die Landwirtschaft"],
       hu: ["Hossza kb. 560 km", "A központi felföldről ered", "Az Indiai-óceánba torkollik", "Fontos a mezőgazdaság számára"],
       ro: ["Lungime aprox. 560 km", "Izvorăște din munții centrali", "Se varsă în Oceanul Indian", "Important pentru agricultură"],
-      en: ["Length approx. 560 km", "Originates in the central highlands", "Flows into the Indian Ocean", "Important for agriculture"]
+      en: ["Length approx. 560 km", "Originates in the central highlands", "Flows into the Indian Ocean", "Important for agriculture"],
+      es: ["Longitud aprox. 560 km", "Nace en las tierras altas centrales", "Desemboca en el océano Índico", "Importante para la agricultura"],
+      pt: ["Comprimento aprox. 560 km", "Nasce no planalto central", "Desemboca no Oceano Índico", "Importante para a agricultura"],
+      fr: ["Longueur d'environ 560 km", "Prend sa source dans les hautes terres centrales", "Se jette dans l'océan Indien", "Important pour l'agriculture"],
     },
     descriptionAdvanced: {
       de: "Der Mangoky ist mit einer Länge von etwa 822 Kilometern der längste Fluss Madagaskars und entwässert ein riesiges Gebiet von über 55.000 Quadratkilometern. Er entspringt im zentralen Hochland südlich der Stadt Fianarantsoa und fließt in westlicher Richtung, bis er schließlich in den Kanal von Mosambik mündet. Besonders bemerkenswert ist sein weitläufiges Delta, das eine der größten Mangrovenflächen des Landes beherbergt und für die lokale Ökologie von entscheidender Bedeutung ist. Das Flusswasser wird intensiv für die Bewässerung großflächiger Plantagen genutzt, wobei der Anbau von Baumwolle und Reis im fruchtbaren Schwemmland dominiert. Trotz seiner wirtschaftlichen Bedeutung bleibt der Mangoky in weiten Teilen unberührt und bietet Lebensraum für zahlreiche endemische Tierarten, darunter seltene Wasservögel und Krokodile. Die jahreszeitlichen Schwankungen der Wasserführung sind extrem, was die Navigation erschwert, aber für die natürliche Düngung der Uferböden durch Sedimentablagerungen essenziell ist. Die Region um den Mangoky stellt somit ein komplexes Zusammenspiel aus natürlicher Wildnis und landwirtschaftlicher Existenzgrundlage dar.",
@@ -259,6 +310,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
       hu: ["822 kilométeres hosszával ez a leghosszabb folyó Madagaszkár szigetén.", "Vízgyűjtő területe megközelítőleg 55 750 négyzetkilométert tesz ki.", "A Mangoky-delta ad otthont a sziget legnagyobb összefüggő mangroveerdőinek.", "A folyó menti síkságok a madagaszkári gyapottermesztés legfontosabb központjai.", "A folyó alsó szakaszán jelentős nílusi krokodil populáció él.", "A torkolatnál lerakódó hatalmas mennyiségű üledék az űrből is jól látható."],
       ro: ["Cu o lungime de 822 de kilometri, este cel mai lung râu din Madagascar.", "Bazinul hidrografic al râului acoperă aproximativ 55.750 de kilometri pătrați.", "Delta Mangoky găzduiește cele mai mari păduri de mangrove de pe insulă.", "Câmpiile fertile de pe cursul inferior sunt centrul producției de bumbac.", "În secțiunile liniștite ale râului trăiesc comunități de crocodili de Nil.", "Cantitatea uriașă de sedimente transportate este vizibilă clar din satelit."],
       en: ["At 822 kilometers in length, it is the longest river on the island of Madagascar.", "The river's drainage basin covers approximately 55,750 square kilometers.", "The Mangoky delta hosts the largest contiguous mangrove forests in the country.", "The fertile plains along the lower reaches are the center of Malagasy cotton farming.", "Significant populations of Nile crocodiles inhabit the quieter sections of the river.", "The massive amount of sediment deposited at the mouth is clearly visible from space."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/mangoky-river-nature-v2.webp",
     
     
@@ -299,12 +353,15 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     coords: [46.8, -16.3],
     name: { de: "Ankarafantsika-Nationalpark", hu: "Ankarafantsika Nemzeti Park", ro: "Parcul Național Ankarafantsika", en: "Ankarafantsika National Park"},
     image: "/poi-images/ankarafantsika-nature-v2.webp",
-    description: { de: "Ein wichtiger Park im Nordwesten mit Trockenwald-Ökosystemen.", hu: "Fontos park az északnyugaton, száraz erdő ökoszisztémákkal.", ro: "Un parc important în nord-vest cu ecosisteme de pădure uscată.", en: "An important park in the northwest with dry forest ecosystems." },
+    description: { de: "Ein wichtiger Park im Nordwesten mit Trockenwald-Ökosystemen.", hu: "Fontos park az északnyugaton, száraz erdő ökoszisztémákkal.", ro: "Un parc important în nord-vest cu ecosisteme de pădure uscată.", en: "An important park in the northwest with dry forest ecosystems." , es: "Un parque importante en el noroeste con ecosistemas de bosque seco.", pt: "Um parque importante no noroeste com ecossistemas de floresta seca.", fr: "Un parc important dans le nord-ouest avec des écosystèmes de forêt sèche."},
     facts: {
       de: ["Bekannt für Sifakas", "Trockenwald-Schutzgebiet", "Wichtige Forschungsstation", "Vogelschutzgebiet"],
       hu: ["Szifakáiról híres", "Száraz erdő védett terület", "Fontos kutatóállomás", "Madárvédelmi terület"],
       ro: ["Cunoscut pentru sifaka", "Rezervație de pădure uscată", "Stație de cercetare importantă", "Rezervație pentru păsări"],
-      en: ["Famous for Sifakas", "Dry forest reserve", "Important research station", "Bird sanctuary"]
+      en: ["Famous for Sifakas", "Dry forest reserve", "Important research station", "Bird sanctuary"],
+      es: ["Conocido por los Sifakas", "Zona protegida de bosque seco", "Estación de investigación importante", "Reserva de aves"],
+      pt: ["Conhecido pelos Sifakas", "Área protegida de floresta seca", "Estação de investigação importante", "Santuário de aves"],
+      fr: ["Connu pour les Sifakas", "Zone protégée de forêt sèche", "Station de recherche importante", "Sanctuaire d'oiseaux"],
     },
     descriptionAdvanced: {
       de: "Der Ankarafantsika-Nationalpark liegt im Nordwesten Madagaskars und ist eines der letzten Rückzugsgebiete für den trockenen Laubwald der Insel. Er erstreckt sich über eine Fläche von etwa 1350 Quadratkilometern und zeichnet sich durch eine beeindruckende Vielfalt an Ökosystemen aus, darunter dichte Wälder, Savannen und Feuchtgebiete wie den Ravelobe-See. Der Park wurde bereits 1927 als Schutzgebiet ausgewiesen und 2002 zum Nationalpark erklärt, um die einzigartige Flora und Fauna zu bewahren. Er ist weltberühmt für seine Lemurenpopulation, insbesondere den Coquerel-Sifaka und den Mongozmaki, die hier in freier Wildbahn beobachtet werden können. Auch Vogelbeobachter kommen auf ihre Kosten, da über 129 Arten im Park heimisch sind, darunter der seltene Madagaskar-Seeadler. Die Geologie des Parks ist geprägt von roten Sandsteinformationen und tiefen Schluchten, die während der Regenzeit spektakuläre Kontraste zur grünen Vegetation bilden. Ankarafantsika dient zudem als wichtiges Wassereinzugsgebiet für die umliegenden landwirtschaftlichen Regionen der Provinz Boeny.",
@@ -317,6 +374,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
       hu: ["A park teljes területe megközelítőleg 135 000 hektárt tesz ki.", "Eredetileg 1927-ben alapították természetvédelmi területként.", "A park erdeiben nyolc különböző makifaj él vadon.", "Több mint 129 madárfajt dokumentáltak tudományosan a park területén.", "A parkban található Ravelobe-tó hatalmas nílusi krokodiljairól ismert.", "Itt él a világ legkisebb primátusa, a Berthe-egérmaki is."],
       ro: ["Parcul acoperă o suprafață totală de aproximativ 135.000 de hectare.", "A fost fondat inițial ca rezervație naturală în anul 1927.", "Opt specii diferite de lemurieni sunt native în pădurile parcului.", "Peste 129 de specii de păsări au fost documentate științific în zonă.", "Lacul Ravelobe din incinta parcului este cunoscut pentru crocodilii de Nil mari.", "Parcul găzduiește cel mai mic primat din lume, lemurul șoarece al lui Berthe."],
       en: ["The park covers a total area of approximately 135,000 hectares.", "It was originally established as a nature reserve back in 1927.", "Eight different species of lemurs are native to the park's forests.", "Over 129 bird species have been scientifically documented in the park area.", "Lake Ravelobe within the park is famous for its large Nile crocodiles.", "The park is home to the world's smallest primate, Madame Berthe's mouse lemur."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/ankarafantsika-nature-v2.webp",
     
     
@@ -328,12 +388,15 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     coords: [46.9, -22.1],
     name: { de: "Andringitra-Massiv", hu: "Andringitra-hegység", ro: "Masivul Andringitra", en: "Andringitra Massif"},
     image: "/poi-images/andringitra-nature-v2.webp",
-    description: { de: "Ein atemberaubendes Granit-Massiv im Südosten Madagaskars.", hu: "Lélegzetelállító gránit-hegység Madagaszkár délkeleti részén.", ro: "Un masiv de granit uluitor în sud-estul Madagascarului.", en: "A breathtaking granite massif in southeastern Madagascar." },
+    description: { de: "Ein atemberaubendes Granit-Massiv im Südosten Madagaskars.", hu: "Lélegzetelállító gránit-hegység Madagaszkár délkeleti részén.", ro: "Un masiv de granit uluitor în sud-estul Madagascarului.", en: "A breathtaking granite massif in southeastern Madagascar." , es: "Un impresionante macizo de granito en el sureste de Madagascar.", pt: "Um impressionante maciço de granito no sudeste de Madagáscar.", fr: "Un massif granitique époustouflant dans le sud-est de Madagascar."},
     facts: {
       de: ["Zweitbester Gipfel: Pic Boby", "UNESCO-Welterbe-Bestandteil", "Spektakuläre Wanderwege", "Einzigartige Flora"],
       hu: ["Második legmagasabb csúcs: Pic Boby", "UNESCO világörökség része", "Lenyűgöző túraútvonalak", "Egyedülálló flóra"],
       ro: ["Al doilea vârf ca înălțime: Pic Boby", "Parte a patrimoniului mondial UNESCO", "Trasee spectaculoase", "Floră unică"],
-      en: ["Second highest peak: Pic Boby", "Part of UNESCO World Heritage", "Spectacular hiking trails", "Unique flora"]
+      en: ["Second highest peak: Pic Boby", "Part of UNESCO World Heritage", "Spectacular hiking trails", "Unique flora"],
+      es: ["Segunda cima más alta: Pic Boby", "Parte del Patrimonio Mundial UNESCO", "Senderos espectaculares", "Flora única"],
+      pt: ["Segundo pico mais alto: Pic Boby", "Parte do Património Mundial da UNESCO", "Trilhos espectaculares", "Flora única"],
+      fr: ["Deuxième plus haut sommet : Pic Boby", "Fait partie du patrimoine mondial de l'UNESCO", "Sentiers de randonnée spectaculaires", "Flore unique"],
     },
     descriptionAdvanced: {
       de: "Das Andringitra-Massiv im Südosten Madagaskars ist eine der geologisch spektakulärsten Regionen der Insel und Teil des UNESCO-Weltnaturerbes. Das aus präkambrischem Granit bestehende Gebirge beherbergt den Pic Boby, der mit 2658 Metern der zweithöchste Gipfel Madagaskars ist und Bergsteigern einen weiten Blick über das Land bietet. Der 1999 gegründete Nationalpark Andringitra umfasst über 311 Quadratkilometer und schützt eine außergewöhnliche biologische Vielfalt, die von tropischem Regenwald in tieferen Lagen bis hin zu alpinen Wiesen auf den Hochplateaus reicht. Die Region ist bekannt für ihre hohe Endemismusrate, insbesondere bei Amphibien und Reptilien sowie zahlreichen Orchideenarten. Eine Besonderheit ist die Population von Kattas (Ring-tailed Lemurs), die sich an das kühle Klima der Höhenlagen angepasst haben. Neben der Natur ist das Massiv kulturell bedeutend für die Volksgruppe der Bara, die die Berge als heiligen Ort für Zeremonien und Bestattungen nutzt. Wanderer schätzen die dramatischen Landschaften mit steilen Felswänden, Wasserfällen und tiefen Tälern wie dem Tsaranoro-Tal.",
@@ -346,6 +409,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
       hu: ["A Pic Boby 2658 méteres magasságával Madagaszkár második legmagasabb hegye.", "A nemzeti parkot hivatalosan 1999-ben adták át.", "Több mint 50 makifajt azonosítottak a masszívum területén.", "A hegység több mint 600 millió éves gránitkőzetből épül fel.", "Több mint 1000 különböző növényfajnak ad otthont, sok közülük endemikus.", "Télen a hőmérséklet a csúcsokon fagypont alá is süllyedhet."],
       ro: ["Pic Boby este, la 2658 de metri, al doilea cel mai înalt munte din Madagascar.", "Parcul Național a fost inaugurat oficial în anul 1999.", "Peste 50 de specii de lemurieni au fost identificate în zona masivului.", "Masivul este compus din rocă de granit veche de peste 600 de milioane de ani.", "Găzduiește peste 1000 de specii diferite de plante, multe fiind endemice.", "Iarna, temperaturile pe vârfuri pot scădea sub punctul de îngheț."],
       en: ["Pic Boby is the second-highest mountain in Madagascar at 2,658 meters.", "The national park was officially inaugurated in the year 1999.", "Over 50 species of lemurs have been identified in the massif area.", "The massif is composed of granite rock over 600 million years old.", "It is home to over 1,000 different plant species, many of which are endemic.", "In winter, temperatures on the peaks can drop below freezing point."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/andringitra-nature-v2.webp",
     
     
@@ -415,12 +481,15 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     coords: [45.3, -22.6],
     name: { de: "Isalo-Massiv", hu: "Isalo-hegység", ro: "Masivul Isalo", en: "Isalo Massif"},
     image: "/poi-images/isalo-nature-v2.webp",
-    description: { de: "Eine beeindruckende Sandstein-Landschaft im Süden Madagaskars.", hu: "Lenyűgöző homokkő táj Madagaszkár déli részén.", ro: "Un peisaj impresionant de gresie în sudul Madagascarului.", en: "An impressive sandstone landscape in southern Madagascar." },
+    description: { de: "Eine beeindruckende Sandstein-Landschaft im Süden Madagaskars.", hu: "Lenyűgöző homokkő táj Madagaszkár déli részén.", ro: "Un peisaj impresionant de gresie în sudul Madagascarului.", en: "An impressive sandstone landscape in southern Madagascar." , es: "Un impresionante paisaje de arenisca en el sur de Madagascar.", pt: "Uma impressionante paisagem de arenito no sul de Madagáscar.", fr: "Un paysage de grès impressionnant dans le sud de Madagascar."},
     facts: {
       de: ["Spektakuläre Schluchten", "Einzigartige Sandsteinformationen", "Oasen in den Tälern", "Große Lemurpopulation"],
       hu: ["Lenyűgöző szurdokok", "Egyedülálló homokkő képződmények", "Oázisok a völgyekben", "Nagy maki-populáció"],
       ro: ["Canioane spectaculoase", "Formațiuni de gresie unice", "Oaze în văi", "Populație mare de lemurieni"],
-      en: ["Spectacular canyons", "Unique sandstone formations", "Oases in the valleys", "Large lemur population"]
+      en: ["Spectacular canyons", "Unique sandstone formations", "Oases in the valleys", "Large lemur population"],
+      es: ["Cañones espectaculares", "Formaciones de arenisca únicas", "Oasis en los valles", "Gran población de lémures"],
+      pt: ["Desfiladeiros espectaculares", "Formações de arenito únicas", "Oásis nos vales", "Grande população de lémures"],
+      fr: ["Canyons spectaculaires", "Formations de grès uniques", "Oasis dans les vallées", "Grande population de lémuriens"],
     },
     descriptionAdvanced: {
       de: "Das Isalo-Massiv im Süden Madagaskars ist eine der meistbesuchten Natursehenswürdigkeiten der Insel und besticht durch seine spektakuläre Erosionslandschaft aus jurassischem Sandstein. Der 1962 gegründete Nationalpark erstreckt sich über 815 Quadratkilometer und ist geprägt von tiefen Canyons, bizarren Felsformationen und weiten Grasebenen. Inmitten der trockenen Umgebung verbergen sich grüne Oasen mit Palmen und natürlichen Schwimmbecken, wie die berühmte Piscine Naturelle, die zur Erfrischung einladen. Die Flora des Parks ist hochspezialisiert; so findet man hier den Elefantenfuß (Pachypodium rosulatum), der in den Felsspalten gedeiht. Kulturell ist Isalo für die Volksgruppe der Bara von großer Bedeutung, die die Höhlen in den Felswänden seit Jahrhunderten als heilige Begräbnisstätten nutzen. Die Tierwelt umfasst verschiedene Lemurenarten wie den Katta und den Larvensifaka sowie zahlreiche endemische Vögel und Reptilien. Wanderungen durch das Massiv führen oft zu atemberaubenden Aussichtspunkten wie dem „Fenster von Isalo“, das besonders zum Sonnenuntergang ein beliebtes Fotomotiv ist.",
@@ -433,6 +502,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
       hu: ["Az Isalo Nemzeti Park teljes területe 81 540 hektár.", "A masszívum főként a jura időszakból származó homokkőből áll.", "A híres 'Piscine Naturelle'-t egy természetes vízesés táplálja.", "Isalo területén három különböző makifaj él, köztük a gyűrűsfarkú maki.", "A nemzeti park területén több mint 80 madárfajt dokumentáltak.", "Az 'Isalo ablaka' egy keret alakú természetes sziklaképződmény."],
       ro: ["Parcul Național Isalo acoperă o suprafață totală de 81.540 de hectare.", "Masivul este compus în principal din gresie datând din perioada Jurasică.", "Faimoasa 'Piscine Naturelle' este alimentată de o cascadă naturală.", "În Isalo trăiesc trei specii diferite de lemurieni, inclusiv Katta.", "Peste 80 de specii de păsări au fost documentate în zona parcului național.", "'Fereastra Isalo' este o formațiune stâncoasă naturală în formă de cadru."],
       en: ["Isalo National Park covers a total area of 81,540 hectares.", "The massif consists primarily of sandstone dating back to the Jurassic period.", "The famous 'Piscine Naturelle' is fed by a natural waterfall.", "Three different species of lemurs, including the ring-tailed lemur, live in Isalo.", "Over 80 bird species have been documented within the national park area.", "The 'Isalo Window' is a natural rock formation in the shape of a frame."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/isalo-nature-v2.webp",
     
     
@@ -444,12 +516,15 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     coords: [50.2, -15.4],
     name: { de: "Masoala-Halbinsel", hu: "Masoala-félsziget", ro: "Peninsula Masoala", en: "Masoala Peninsula"},
     image: "/poi-images/masoala-peninsula-nature-v2.webp",
-    description: { de: "Eine abgelegene Halbinsel im Nordosten, bekannt für ihre unberührte Natur.", hu: "Elszigetelt félsziget az északkeleten, érintetlen természetéről ismert.", ro: "O peninsulă izolată în nord-est, cunoscută pentru natura sa neatinsă.", en: "A remote peninsula in the northeast, known for its pristine nature." },
+    description: { de: "Eine abgelegene Halbinsel im Nordosten, bekannt für ihre unberührte Natur.", hu: "Elszigetelt félsziget az északkeleten, érintetlen természetéről ismert.", ro: "O peninsulă izolată în nord-est, cunoscută pentru natura sa neatinsă.", en: "A remote peninsula in the northeast, known for its pristine nature." , es: "Una península remota en el noreste, conocida por su naturaleza virgen.", pt: "Uma península remota no nordeste, conhecida por sua natureza intocada.", fr: "Une péninsule isolée au nord-est, connue pour sa nature vierge."},
     facts: {
       de: ["Heimat seltener Reptilien", "Dichter Regenwald", "Abgelegene Strände", "Teil des Nationalparks"],
       hu: ["Ritka hüllők otthona", "Sűrű esőerdő", "Elszigetelt strandok", "A nemzeti park része"],
       ro: ["Casă pentru reptile rare", "Pădure tropicală densă", "Plaje izolate", "Parte a parcului național"],
-      en: ["Home to rare reptiles", "Dense rainforest", "Remote beaches", "Part of the national park"]
+      en: ["Home to rare reptiles", "Dense rainforest", "Remote beaches", "Part of the national park"],
+      es: ["Hogar de reptiles raros", "Selva densa", "Playas remotas", "Parte del parque nacional"],
+      pt: ["Lar de répteis raros", "Floresta tropical densa", "Praias remotas", "Parte do parque nacional"],
+      fr: ["Abrite des reptiles rares", "Forêt tropicale dense", "Plages isolées", "Fait partie du parc national"],
     },
     descriptionAdvanced: {
       de: "Die Masoala-Halbinsel im Nordosten Madagaskars beherbergt den größten Nationalpark des Landes und eines der ökologisch wertvollsten Gebiete der Erde. Hier trifft der primäre Regenwald unmittelbar auf den Indischen Ozean, was eine einzigartige ökologische Schnittstelle schafft. Der 1997 gegründete Nationalpark umfasst rund 2300 Quadratkilometer Landfläche sowie drei Meeresreservate zum Schutz der Korallenriffe und Mangroven. Die Halbinsel ist der einzige Ort, an dem der Rote Vari (Varecia rubra) in freier Wildbahn vorkommt. Zwischen Juli und September wird die Antongil-Bucht vor der Küste zum Schauplatz eines beeindruckenden Naturschauspiels, wenn Buckelwale hier ihre Kälber zur Welt bringen. Die extreme Feuchtigkeit der Region fördert ein explosives Pflanzenwachstum mit riesigen Bäumen, seltenen Farnen und einer Vielzahl an Orchideen. Der Zugang zur Halbinsel ist aufgrund der dichten Vegetation und fehlender Straßen schwierig und erfolgt meist per Boot, was zur Erhaltung der ursprünglichen Wildnis beigetragen hat. Masoala ist ein integraler Bestandteil des UNESCO-Weltnaturerbes „Regenwälder von Atsinanana“.",
@@ -462,6 +537,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
       hu: ["230 000 hektáros szárazföldi területével Masoala Madagaszkár legnagyobb nemzeti parkja.", "A park 10 000 hektárnyi értékes tengeri ökoszisztémát védelmez.", "Csak itt él a veszélyeztetett vörös vari a természetes élőhelyén.", "Az Antongil-öböl a világ egyik legfontosabb hosszúszárnyú bálna-bölcsődéje.", "A parkban megtalálható Madagaszkár teljes flórájának több mint 50%-a.", "Masoala évente akár 6000 mm csapadékot is kap, ami rendkívül párássá teszi."],
       ro: ["Masoala este cel mai mare parc național din Madagascar, cu 230.000 de hectare.", "Parcul protejează 10.000 de hectare de ecosisteme marine valoroase.", "Doar aici trăiește lemurul vari roșu, aflat în pericol, în habitatul său natural.", "Golful Antongil este unul dintre cele mai importante locuri de reproducere pentru balenele cu cocoașă.", "În parc se regăsește peste 50% din întreaga floră a Madagascarului.", "Masoala primește anual până la 6000 mm de precipitații, fiind extrem de umed."],
       en: ["At 230,000 hectares of land, Masoala is the largest national park in Madagascar.", "The park protects 10,000 hectares of precious marine ecosystems.", "The endangered Red Ruffed Lemur lives only here in its natural habitat.", "Antongil Bay is one of the world's most important nurseries for humpback whales.", "Over 50% of Madagascar's entire flora can be found within the park.", "Masoala receives up to 6,000 mm of rainfall annually, making it extremely humid."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/masoala-peninsula-nature-v2.webp",
     
     
@@ -473,12 +551,15 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     coords: [44.8, -16.4],
     name: { de: "Tsingy von Namoroka", hu: "Namoroka-Tsingy", ro: "Tsingy din Namoroka", en: "Tsingy of Namoroka"},
     image: "/poi-images/tsingy-namoroka-nature-v2.webp",
-    description: { de: "Ein spektakuläres Karstgebiet mit einzigartigen Felsformationen.", hu: "Látványos karsztvidék egyedülálló sziklaképződményekkel.", ro: "O zonă carstică spectaculoasă cu formațiuni stâncoase unice.", en: "A spectacular karst area with unique rock formations." },
+    description: { de: "Ein spektakuläres Karstgebiet mit einzigartigen Felsformationen.", hu: "Látványos karsztvidék egyedülálló sziklaképződményekkel.", ro: "O zonă carstică spectaculoasă cu formațiuni stâncoase unice.", en: "A spectacular karst area with unique rock formations." , es: "Una espectacular zona kárstica con formaciones rocosas únicas.", pt: "Uma área cárstica espetacular com formações rochosas únicas.", fr: "Une zone karstique spectaculaire avec des formations rocheuses uniques."},
     facts: {
       de: ["Weniger besucht als Bemaraha", "Schützenswerte Karstlandschaft", "Endemische Arten", "Eindrucksvolle Höhlen"],
       hu: ["Kevésbé látogatott, mint Bemaraha", "Védendő karsztvidék", "Endémikus fajok", "Lenyűgöző barlangok"],
       ro: ["Mai puțin vizitată decât Bemaraha", "Peisaj carstic de protejat", "Specii endemice", "Peșteri impresionante"],
-      en: ["Less visited than Bemaraha", "Karst landscape worth protecting", "Endemic species", "Impressive caves"]
+      en: ["Less visited than Bemaraha", "Karst landscape worth protecting", "Endemic species", "Impressive caves"],
+      es: ["Menos visitado que Bemaraha", "Paisaje kárstico digno de protección", "Especies endémicas", "Cuevas impresionantes"],
+      pt: ["Menos visitado que Bemaraha", "Paisagem cárstica digna de proteção", "Espécies endémicas", "Grutas impressionantes"],
+      fr: ["Moins visité que Bemaraha", "Paysage karstique digne de protection", "Espèces endémiques", "Grottes impressionnantes"],
     },
     descriptionAdvanced: {
       de: "Das Tsingy von Namoroka im Nordwesten Madagaskars ist ein faszinierendes Labyrinth aus scharfkantigen Kalksteinformationen, das geologisch eng mit dem berühmten Tsingy de Bemaraha verwandt ist. Das Gebiet wurde bereits 1927 als strenges Naturreservat ausgewiesen und 2002 zum Nationalpark erklärt, um die einzigartigen Karstlandschaften zu schützen. Über Jahrmillionen hat die Erosion durch Wasser und Wind die Felsen in messerscharfe Nadeln und tiefe Schluchten verwandelt. Trotz der scheinbar lebensfeindlichen, trockenen Bedingungen beherbergt Namoroka eine überraschende Vielfalt an Flora und Fauna, darunter acht Lemurenarten wie den Von-der-Decken-Sifaka. In den Höhlen und geschützten Tälern des Parks finden sich zudem zahlreiche Fledermausarten und seltene Vögel. Die Vegetation besteht primär aus trockenem Laubwald und Savannen, die an das extrem saisonale Klima angepasst sind. Aufgrund seiner abgelegenen Lage und des schwierigen Terrains bleibt Namoroka eines der am wenigsten erforschten Gebiete der Insel und bietet Abenteurern eine unvergleichliche Wildniserfahrung. In der Regenzeit sind weite Teile des Parks nahezu unzugänglich.",
@@ -491,6 +572,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
       hu: ["Namoroka mintegy 222 négyzetkilométernyi védett területet foglal magában.", "A területet már 1927-ben szigorú természetvédelmi oltalom alá helyezték.", "Nyolc különböző makifaj honos ezen a karsztvidéken.", "Több mint 30 különböző hüllőfajt azonosítottak a parkban.", "A park számos barlangrendszerrel rendelkezik, amelyeket még nem tártak fel teljesen.", "A mészkőtűk magassága elérheti a több métert is."],
       ro: ["Namoroka cuprinde o suprafață protejată de aproximativ 222 de kilometri pătrați.", "Zona a fost plasată sub protecție naturală strictă încă din 1927.", "Opt specii diferite de lemurieni sunt native în această regiune carstică.", "Peste 30 de specii diferite de reptile au fost identificate în parc.", "Parcul prezintă numeroase sisteme de peșteri care nu au fost încă explorate complet.", "Acele de calcar pot atinge o înălțime de câțiva metri."],
       en: ["Namoroka covers a protected area of approximately 222 square kilometers.", "The area was placed under strict nature protection as early as 1927.", "Eight different species of lemurs are native to this karst region.", "Over 30 different species of reptiles have been documented in the park.", "The park features numerous cave systems that have not yet been fully explored.", "The limestone needles can reach heights of several meters."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/tsingy-namoroka-nature-v2.webp",
     
     
@@ -502,12 +586,15 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     coords: [50.2, -15.7],
     name: { de: "Tampolo-See", hu: "Tampolo-tó", ro: "Lacul Tampolo", en: "Lake Tampolo"},
     image: "/poi-images/lake-tampolo-nature-v2.webp",
-    description: { de: "Ein kleiner, idyllischer See nahe der Masoala-Halbinsel.", hu: "Kicsi, idilli tó a Masoala-félsziget közelében.", ro: "Un lac mic și idilic lângă Peninsula Masoala.", en: "A small, idyllic lake near the Masoala Peninsula." },
+    description: { de: "Ein kleiner, idyllischer See nahe der Masoala-Halbinsel.", hu: "Kicsi, idilli tó a Masoala-félsziget közelében.", ro: "Un lac mic și idilic lângă Peninsula Masoala.", en: "A small, idyllic lake near the Masoala Peninsula." , es: "Un pequeño e idílico lago cerca de la península de Masoala.", pt: "Um lago pequeno e idílico perto da península de Masoala.", fr: "Un petit lac idyllique à proximité de la presqu'île de Masoala."},
     facts: {
       de: ["In einer geschützten Umgebung", "Umgeben von Regenwald", "Ruhiges Gewässer", "Ideal für Naturbeobachtungen"],
       hu: ["Védett környezetben", "Esőerdő veszi körül", "Csendes víz", "Ideális természetmegfigyelésre"],
       ro: ["Într-un mediu protejat", "Înconjurat de pădure tropicală", "Apă liniștită", "Ideal pentru observarea naturii"],
-      en: ["In a protected environment", "Surrounded by rainforest", "Quiet water", "Ideal for nature observation"]
+      en: ["In a protected environment", "Surrounded by rainforest", "Quiet water", "Ideal for nature observation"],
+      es: ["En un entorno protegido", "Rodeado de selva tropical", "Aguas tranquilas", "Ideal para la observación de la naturaleza"],
+      pt: ["Em um ambiente protegido", "Cercado por floresta tropical", "Águas calmas", "Ideal para observação da natureza"],
+      fr: ["Dans un environnement protégé", "Entouré de forêt tropicale", "Eaux calmes", "Idéal pour l'observation de la nature"],
     },
     descriptionAdvanced: {
       de: "Der Tampolo-See liegt an der Ostküste der Masoala-Halbinsel im Nordosten Madagaskars und ist Teil eines hochsensiblen Küstenökosystems innerhalb des Masoala-Nationalparks. Der See ist von unberührtem Küstenregenwald umgeben, der direkt bis an den Rand des Wassers reicht und eine außergewöhnliche Artenvielfalt beherbergt. Hier finden sich seltene Palmenarten und eine Vielzahl an Epiphyten, die in dem feuchtwarmen Klima gedeihen. Das Wasser des Sees ist oft ruhig und bietet einen Lebensraum für spezialisierte Fischarten und Wasservögel. Besonders bedeutend ist die unmittelbare Nähe zum Meer, wobei nur ein schmaler Küstenstreifen den See vom Indischen Ozean trennt. Dies schafft einen einzigartigen Übergang zwischen Süßwasser- und Meereslebensräumen, einschließlich angrenzender Mangrovenwälder. Aufgrund seiner isolierten Lage ist der Tampolo-See ein Rückzugsort für bedrohte Tierarten, darunter verschiedene Lemuren und seltene Amphibien. Besucher erreichen den See meist nur über den Seeweg, gefolgt von einer Wanderung durch den dichten Dschungel, was ihn zu einem Ziel für ökologisch interessierte Reisende macht.",
@@ -520,6 +607,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
       hu: ["A tó a Masoala Nemzeti Parkban, Madagaszkár legnagyobb védett területén fekszik.", "Az 'Atsinanana esőerdői' UNESCO világörökségi helyszín részét képezi.", "A tó fontos élőhelye az endemikus sisakos vangának.", "A környező erdőkben fordul elő a ritka vörös vari.", "A Tampolo körüli parti régió évente több mint 5000 mm csapadékot kap.", "A terület csak hajóval érhető el Maroantsetra vagy Antalaha irányából."],
       ro: ["Lacul se află în Parcul Național Masoala, cea mai mare zonă protejată din Madagascar.", "Face parte din Patrimoniul Mondial UNESCO 'Pădurile tropicale de pe Atsinanana'.", "Lacul este un habitat important pentru pasărea endemică Vanga cu cască.", "În pădurile din jur trăiește rarul lemur vari roșu.", "Regiunea de coastă din jurul Tampolo primește anual peste 5000 mm de precipitații.", "Zona este accesibilă doar cu barca dinspre Maroantsetra sau Antalaha."],
       en: ["The lake is located within Masoala National Park, Madagascar's largest protected area.", "It forms part of the UNESCO World Heritage 'Rainforests of the Atsinanana'.", "The lake is an important habitat for the endemic Helmet Vanga bird.", "The rare Red Ruffed Lemur is found in the surrounding forests.", "The coastal region around Tampolo receives over 5,000 mm of rainfall annually.", "The area is accessible only by boat from Maroantsetra or Antalaha."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/lake-tampolo-nature-v2.webp",
     
     
@@ -531,12 +621,15 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     coords: [46.3, -15.7],
     name: { de: "Küste bei Mahajanga", hu: "Mahajanga tengerpartja", ro: "Coasta de lângă Mahajanga", en: "Coast near Mahajanga"},
     image: "/poi-images/mahajanga-coast-nature-v2.webp",
-    description: { de: "Ein Bereich entlang der Nordwestküste mit schönen Stränden.", hu: "Terület az északnyugati part mentén, szép strandokkal.", ro: "O zonă de-a lungul coastei de nord-vest cu plaje frumoase.", en: "An area along the northwest coast with beautiful beaches." },
+    description: { de: "Ein Bereich entlang der Nordwestküste mit schönen Stränden.", hu: "Terület az északnyugati part mentén, szép strandokkal.", ro: "O zonă de-a lungul coastei de nord-vest cu plaje frumoase.", en: "An area along the northwest coast with beautiful beaches." , es: "Una zona a lo largo de la costa noroeste con hermosas playas.", pt: "Uma área ao longo da costa noroeste com belas praias.", fr: "Une zone le long de la côte nord-ouest avec de belles plages."},
     facts: {
       de: ["Warme Gewässer", "Wichtiges Habitat", "Mangrovenwälder", "Touristisch bedeutend"],
       hu: ["Meleg vizek", "Fontos élőhely", "Mangroveerdők", "Turisztikailag jelentős"],
       ro: ["Ape calde", "Habitat important", "Păduri de mangrove", "Important din punct de vedere turistic"],
-      en: ["Warm waters", "Important habitat", "Mangrove forests", "Touristically significant"]
+      en: ["Warm waters", "Important habitat", "Mangrove forests", "Touristically significant"],
+      es: ["Aguas cálidas", "Hábitat importante", "Bosques de manglares", "Turísticamente significativo"],
+      pt: ["Águas quentes", "Habitat importante", "Manguezais", "Turisticamente significativo"],
+      fr: ["Eaux chaudes", "Habitat important", "Forêts de mangroves", "Importance touristique"],
     },
     descriptionAdvanced: {
       de: "Die Küste bei Mahajanga liegt im Nordwesten von Madagaskar am Kanal von Mosambik und ist bekannt für ihre markanten geologischen Formationen. Ein zentrales Merkmal ist das Cirque Rouge, ein natürliches Amphitheater aus rötlich-ockerfarbenem Sedimentgestein, das durch Erosion über Jahrtausende geformt wurde. Die Region war im 18. Jahrhundert das Machtzentrum des Boina-Königreichs und diente als strategischer Handelshafen für den Indischen Ozean. Geografisch wird die Küste durch die Mündung des Betsiboka-Flusses geprägt, dessen hoher Sedimenttransport die Bombetoka-Bucht charakteristisch rot färbt. Die ausgedehnten Mangrovenwälder entlang der Küste bieten lebenswichtige Habitate für zahlreiche Vogelarten und marine Lebewesen. Heute ist Mahajanga ein bedeutendes wirtschaftliches Zentrum und ein Ziel für Reisende, die die Kombination aus historischen Hafenstrukturen und einzigartigen Naturlandschaften schätzen. Die sandigen Strände wie Grand Pavois erstrecken sich kilometerweit und sind durch die Gezeiten des Kanals von Mosambik stark beeinflusst.",
@@ -549,6 +642,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
       hu: ["A Cirque Rouge üledékei akár 1,8 millió évesek is lehetnek.", "Mahajanga 1745-től volt a Boina Királyság fővárosa.", "A Bombetoka-öbölben körülbelül 46 000 hektárnyi mangroveerdő található.", "Az árapály különbsége a parton elérheti a 4 métert is.", "A régióban a kréta korból származó ragadozó dinoszauruszok fosszíliáit találták meg.", "Mahajanga kikötője Madagaszkár második legfontosabb kereskedelmi kikötője."],
       ro: ["Sedimentele din Cirque Rouge au o vechime de până la 1,8 milioane de ani.", "Mahajanga a fost capitala Regatului Boina începând cu anul 1745.", "Golful Bombetoka adăpostește aproximativ 46.000 de hectare de mangrove.", "Diferența de maree la coastă poate ajunge până la 4 metri.", "În regiune au fost descoperite fosile de dinozauri prădători din perioada cretacică.", "Portul Mahajanga este al doilea cel mai important port comercial din Madagascar."],
       en: ["The Cirque Rouge consists of sediments that are up to 1.8 million years old.", "Mahajanga was the capital of the Boina Kingdom starting from 1745.", "Bombetoka Bay hosts approximately 46,000 hectares of mangrove forests.", "The tidal range on the coast can reach up to 4 meters.", "Fossils of predatory dinosaurs from the Cretaceous period were discovered in the region.", "The port of Mahajanga is the second most important commercial port in Madagascar."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/mahajanga-coast-nature-v2.webp",
     
     
@@ -560,12 +656,15 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     coords: [49.8, -17.1],
     name: { de: "Nosy Boraha", hu: "Nosy Boraha", ro: "Nosy Boraha", en: "Nosy Boraha"},
     image: "/poi-images/saint-marie-island-nature-v2.webp",
-    description: { de: "Eine Insel vor der Ostküste, bekannt als Île Sainte-Marie.", hu: "Keleti part előtti sziget, Île Sainte-Marie néven ismert.", ro: "O insulă în largul coastei de est, cunoscută sub numele de Île Sainte-Marie.", en: "An island off the east coast, known as Île Sainte-Marie." },
+    description: { de: "Eine Insel vor der Ostküste, bekannt als Île Sainte-Marie.", hu: "Keleti part előtti sziget, Île Sainte-Marie néven ismert.", ro: "O insulă în largul coastei de est, cunoscută sub numele de Île Sainte-Marie.", en: "An island off the east coast, known as Île Sainte-Marie." , es: "Una isla frente a la costa este, conocida como Île Sainte-Marie.", pt: "Uma ilha na costa leste, conhecida como Île Sainte-Marie.", fr: "Une île au large de la côte est, connue sous le nom d'Île Sainte-Marie."},
     facts: {
       de: ["Bekannt für Walbeobachtung", "Ehemaliges Piratenversteck", "Üppige tropische Vegetation", "Traumstrände"],
       hu: ["Bálnanézésről ismert", "Egykori kalóztanya", "Bőséges trópusi növényzet", "Csodálatos strandok"],
       ro: ["Cunoscută pentru observarea balenelor", "Fostă ascunzătoare a piraților", "Vegetație tropicală luxuriantă", "Plaje de vis"],
-      en: ["Known for whale watching", "Former pirate hideout", "Lush tropical vegetation", "Dream beaches"]
+      en: ["Known for whale watching", "Former pirate hideout", "Lush tropical vegetation", "Dream beaches"],
+      es: ["Conocida por el avistamiento de ballenas", "Antiguo escondite de piratas", "Exuberante vegetación tropical", "Playas de ensueño"],
+      pt: ["Conhecida pela observação de baleias", "Antigo esconderijo de piratas", "Vegetação tropical exuberante", "Praias paradisíacas"],
+      fr: ["Connue pour l'observation des baleines", "Ancien repaire de pirates", "Végétation tropicale luxuriante", "Plages de rêve"],
     },
     descriptionAdvanced: {
       de: "Nosy Boraha, auch bekannt als Île Sainte-Marie, liegt vor der Ostküste Madagaskars und blickt auf eine faszinierende maritime Geschichte zurück. Im 17. und 18. Jahrhundert diente die Insel als berüchtigter Stützpunkt für Piraten, darunter Legenden wie William Kidd und Thomas Tew. Die geografische Lage im Indischen Ozean bietet heute ein ideales Refugium für Buckelwale, die zwischen Juli und September zur Fortpflanzung in die geschützten Gewässer kommen. Die Vegetation der Insel ist geprägt von tropischen Regenwäldern, Vanilleplantagen und ausgedehnten Kokosnusshainen. Historisch war Sainte-Marie das erste Territorium in Madagaskar, das 1750 offiziell unter französische Verwaltung gestellt wurde. Die Küstenlinie ist von Korallenriffen gesäumt, die eine hohe Biodiversität aufweisen und ideal für den Schutz der lokalen Fischbestände sind. Abseits der Strände finden sich Relikte der Kolonialzeit und der einzige Piratenfriedhof der Welt auf einer kleinen Halbinsel. Die Insel bewahrt bis heute eine authentische Atmosphäre mit traditionellen Fischerdörfern und einer entspannten Lebensweise.",
@@ -578,6 +677,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
       hu: ["A sziget körülbelül 60 kilométer hosszú és mindössze 5 kilométer széles.", "1750-ben a szigetet hivatalosan átadták Franciaországnak.", "A Saint-Pierre kalóztemetőben 18. századi sírok találhatók.", "Évente körülbelül 1000 hosszúszárnyú bálna vándorol az Antongil-öbölbe.", "A sziget a 17. században a fiktív Libertalia kalözköztársaság része volt.", "A déli csücsökben található Île aux Nattes csak kenun közelíthető meg."],
       ro: ["Insula are o lungime de aproximativ 60 km și o lățime de doar 5 km.", "În anul 1750, insula a fost cedată oficial Franței.", "Cimitirul piraților din Saint-Pierre adăpostește morminte din secolul al XVIII-lea.", "Anual, aproximativ 1.000 de balene cu cocoașă migrează în Golful Antongil.", "În secolul al XVII-lea, insula făcea parte din ficționala republică a piraților Libertalia.", "La vârful sudic se află Île aux Nattes, accesibilă doar cu canoa."],
       en: ["The island is approximately 60 kilometers long and only 5 kilometers wide.", "In 1750, the island was officially ceded to France.", "The pirate cemetery of Saint-Pierre hosts graves dating back to the 18th century.", "Every year, around 1,000 humpback whales migrate to the Antongil Bay area.", "The island was part of the fictional pirate republic of Libertalia in the 17th century.", "At the southern tip lies Île aux Nattes, which is only accessible by dugout canoe."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/saint-marie-island-nature-v2.webp",
     
     
@@ -589,12 +691,15 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     coords: [44.3, -19.7],
     name: { de: "Tsiribihina-Delta", hu: "Tsiribihina-delta", ro: "Delta Tsiribihina", en: "Tsiribihina Delta"},
     image: "/poi-images/tsiribihina-delta-nature-v2.webp",
-    description: { de: "Das Flussdelta, wo der Tsiribihina in den Ozean mündet.", hu: "Folyódelta, ahol a Tsiribihina az óceánba torkollik.", ro: "Delta râului unde Tsiribihina se varsă în ocean.", en: "The river delta where the Tsiribihina flows into the ocean." },
+    description: { de: "Das Flussdelta, wo der Tsiribihina in den Ozean mündet.", hu: "Folyódelta, ahol a Tsiribihina az óceánba torkollik.", ro: "Delta râului unde Tsiribihina se varsă în ocean.", en: "The river delta where the Tsiribihina flows into the ocean." , es: "El delta del río donde el Tsiribihina desemboca en el océano.", pt: "O delta do rio onde o Tsiribihina desagua no oceano.", fr: "Le delta du fleuve où la Tsiribihina se jette dans l'océan."},
     facts: {
       de: ["Reichhaltiges Ökosystem", "Mangroven-Lebensraum", "Wichtig für Vögel", "Sandbänke"],
       hu: ["Gazdag ökoszisztéma", "Mangrove élőhely", "Fontos madarak számára", "Homokpadok"],
       ro: ["Ecosistem bogat", "Habitat de mangrove", "Important pentru păsări", "Bancuri de nisip"],
-      en: ["Rich ecosystem", "Mangrove habitat", "Important for birds", "Sandbanks"]
+      en: ["Rich ecosystem", "Mangrove habitat", "Important for birds", "Sandbanks"],
+      es: ["Ecosistema rico", "Hábitat de manglares", "Importante para las aves", "Bancos de arena"],
+      pt: ["Ecossistema rico", "Habitat de mangais", "Importante para as aves", "Bancos de areia"],
+      fr: ["Écosystème riche", "Habitat de mangroves", "Important pour les oiseaux", "Bancs de sable"],
     },
     descriptionAdvanced: {
       de: "Das Tsiribihina-Delta erstreckt sich an der Westküste Madagaskars in der Region Menabe und bildet eines der bedeutendsten Feuchtgebiete des Landes. Es umfasst eine Fläche von über 20.000 Hektar und besteht aus einem komplexen Netzwerk von Flussarmen, Lagunen und dichten Mangrovenwäldern. Geografisch markiert es die Mündung des Tsiribihina-Flusses, der das Wasser aus dem zentralen Hochland in den Kanal von Mosambik leitet. Das Delta ist ein international anerkanntes RAMSAR-Gebiet, das eine kritische Rolle für den Schutz von Wasservögeln und gefährdeten Reptilien wie dem Madagaskar-Schienbeinschildkröte spielt. Die Landschaft ist geprägt von weiten Schlammebenen, die bei Ebbe freigelegt werden und Nahrung für tausende Zugvögel bieten. Menschlich wird die Region von den Sakalava-Völkern bewohnt, die traditionell von Fischerei und Landwirtschaft in den fruchtbaren Schwemmlandböden leben. Die Navigation durch das Delta erfordert lokales Wissen über die sich ständig verändernden Sandbänke und Strömungen. Es bleibt eine der unberührtesten Naturregionen Madagaskars, die nur schwer zugänglich ist und dadurch ihren ursprünglichen Charakter bewahrt hat.",
@@ -607,6 +712,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
       hu: ["A deltát 2017-ben nyilvánították RAMSAR védett területté.", "Több mint 40 különböző vízimadárfajnak ad otthont.", "A mangroveerdők közel 50 kilométer hosszúságban nyúlnak el.", "A Tsiribihina-folyó a torkolatánál több mint 1 kilométer széles.", "Itt él a ritka madagaszkári folyamiteknős (Erymnochelys madagascariensis).", "A régió évente kevesebb mint 800 mm csapadékot kap."],
       ro: ["Delta a fost declarată sit RAMSAR protejat în anul 2017.", "Adăpostește peste 40 de specii diferite de păsări de apă.", "Pădurile de mangrove se întind pe o lungime de aproape 50 de kilometri.", "Râul Tsiribihina are o lățime de peste 1 kilometru la gura de vărsare.", "Aici trăiește rara țestoasă cu gât lateral (Erymnochelys madagascariensis).", "Regiunea primește mai puțin de 800 mm de precipitații pe an."],
       en: ["The delta was designated as a RAMSAR protected site in 2017.", "It is home to over 40 different species of waterbirds.", "The mangrove forests stretch over a length of nearly 50 kilometers.", "The Tsiribihina River is over 1 kilometer wide at its mouth.", "The rare Madagascar big-headed turtle (Erymnochelys madagascariensis) lives here.", "The region receives less than 800 mm of rainfall per year."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/tsiribihina-delta-nature-v2.webp",
     
     
@@ -705,12 +813,15 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     coords: [49.2, -12.5],
     name: { de: "Montagne d'Ambre", hu: "Montagne d'Ambre", ro: "Montagne d'Ambre", en: "Montagne d'Ambre"},
     image: "/poi-images/montagne-ambre-nature-v2.webp",
-    description: { de: "Ein Vulkanmassiv im Norden Madagaskars, bekannt als Nationalpark.", hu: "Vulkáni hegység Madagaszkár északi részén, nemzeti parkként ismert.", ro: "Un masiv vulcanic în nordul Madagascarului, cunoscut ca parc național.", en: "A volcanic massif in northern Madagascar, known as a national park." },
+    description: { de: "Ein Vulkanmassiv im Norden Madagaskars, bekannt als Nationalpark.", hu: "Vulkáni hegység Madagaszkár északi részén, nemzeti parkként ismert.", ro: "Un masiv vulcanic în nordul Madagascarului, cunoscut ca parc național.", en: "A volcanic massif in northern Madagascar, known as a national park." , es: "Un macizo volcánico en el norte de Madagascar, conocido como parque nacional.", pt: "Um maciço vulcânico no norte de Madagascar, conhecido como parque nacional.", fr: "Un massif volcanique au nord de Madagascar, connu comme parc national."},
     facts: {
       de: ["Regenwald in der Höhe", "Zahlreiche Wasserfälle", "Beheimatet den kleinsten Chamäleon", "Kühleres Klima"],
       hu: ["Esőerdő a magasságban", "Számos vízesés", "A legkisebb kaméleon otthona", "Hűvösebb éghajlat"],
       ro: ["Pădure tropicală la altitudine", "Numeroase cascade", "Casă pentru cel mai mic cameleon", "Climat mai răcoros"],
-      en: ["Rainforest at altitude", "Numerous waterfalls", "Home to the smallest chameleon", "Cooler climate"]
+      en: ["Rainforest at altitude", "Numerous waterfalls", "Home to the smallest chameleon", "Cooler climate"],
+      es: ["Selva de montaña", "Numerosas cascadas", "Hogar del camaleón más pequeño", "Clima más fresco"],
+      pt: ["Floresta tropical de altitude", "Numerosas cachoeiras", "Lar do menor camaleão", "Clima mais fresco"],
+      fr: ["Forêt tropicale d'altitude", "Nombreuses cascades", "Abrite le plus petit caméléon", "Climat plus frais"],
     },
     descriptionAdvanced: {
       de: "Der Nationalpark Montagne d'Ambre im Norden Madagaskars umfasst ein isoliertes vulkanisches Massiv, das von üppigem tropischem Regenwald bedeckt ist. Geografisch bildet der Park eine grüne Oase inmitten der trockenen Savanne der Diana-Region und erreicht Höhen von bis zu 1.475 Metern. Das feuchte Mikroklima ist für die Entstehung zahlreicher Wasserfälle und Kraterseen verantwortlich, die die Region mit Frischwasser versorgen. Der Park wurde 1958 gegründet und ist berühmt für seine hohe Endemismusrate, darunter sieben Lemurenarten und der winzige Brookesia-Chamäleon. Botanisch beeindruckt das Gebiet mit riesigen Farnen, Orchideen und jahrhundertealten Baumriesen, die oft von Moosen und Flechten überzogen sind. Die Wege führen vorbei an spektakulären Kaskaden wie dem Grande Cascade, der über 80 Meter in die Tiefe stürzt. Historisch wurde das Massiv von den französischen Kolonialherren als kühler Rückzugsort und Wasserreservoir für die nahe gelegene Stadt Antsiranana geschätzt. Die Erhaltung dieses Ökosystems ist entscheidend für den Wasserhaushalt des gesamten Nordens der Insel.",
@@ -723,6 +834,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
       hu: ["A park területe körülbelül 18 200 hektár.", "A Montagne d'Ambre évente körülbelül 3500 mm csapadékot kap.", "Itt él a Sanford-maki, egy ritka lemúrfaj.", "A park több mint 1000 különböző növényfajnak ad otthont.", "Öt jelentős krátertó található a park területén.", "Az átlaghőmérséklet jóval a környező területé alatt van, kb. 17 °C."],
       ro: ["Parcul acoperă o suprafață de aproximativ 18.200 de hectare.", "Montagne d'Ambre primește anual aproximativ 3.500 mm de precipitații.", "Aici trăiește lemurul maro al lui Sanford, o specie rară de lemur.", "Parcul adăpostește peste 1.000 de specii diferite de plante.", "Există cinci lacuri de crater importante în zona parcului.", "Temperatura medie este semnificativ mai mică decât cea a zonelor învecinate, de aproximativ 17 °C."],
       en: ["The park covers an area of approximately 18,200 hectares.", "Amber Mountain receives about 3,500 mm of rainfall annually.", "It is home to Sanford's brown lemur, a rare species of lemur.", "The park hosts over 1,000 different plant species.", "There are five significant crater lakes within the park area.", "The average temperature is significantly lower than the surrounding lowlands, at about 17 °C."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/montagne-ambre-nature-v2.webp",
     
     
@@ -734,12 +848,15 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     coords: [46.3, -15.7],
     name: { de: "Bombetoka-Bucht", hu: "Bombetoka-öböl", ro: "Golful Bombetoka", en: "Bombetoka Bay"},
     image: "/poi-images/baie-de-bombetoka-nature-v2.webp",
-    description: { de: "Eine beeindruckende Bucht im Nordwesten, wo die Betsiboka mündet.", hu: "Lenyűgöző öböl az északnyugaton, ahová a Betsiboka torkollik.", ro: "Un golf impresionant în nord-vest, unde se varsă Betsiboka.", en: "An impressive bay in the northwest where the Betsiboka flows into." },
+    description: { de: "Eine beeindruckende Bucht im Nordwesten, wo die Betsiboka mündet.", hu: "Lenyűgöző öböl az északnyugaton, ahová a Betsiboka torkollik.", ro: "Un golf impresionant în nord-vest, unde se varsă Betsiboka.", en: "An impressive bay in the northwest where the Betsiboka flows into." , es: "Una bahía impresionante en el noroeste, donde desemboca el Betsiboka.", pt: "Uma baía impressionante no noroeste, onde o Betsiboka desagua.", fr: "Une baie impressionnante dans le nord-ouest, où se jette la Betsiboka."},
     facts: {
       de: ["Mangrovenwälder", "Spektakuläre Sedimentstrukturen", "Wichtiges ökologisches Gebiet", "Gezeitenbeeinflusst"],
       hu: ["Mangroveerdők", "Látványos üledékszerkezetek", "Fontos ökológiai terület", "Árapály befolyásolja"],
       ro: ["Păduri de mangrove", "Structuri sedimentare spectaculoase", "Zonă ecologică importantă", "Influențată de maree"],
-      en: ["Mangrove forests", "Spectacular sediment structures", "Important ecological area", "Tide-influenced"]
+      en: ["Mangrove forests", "Spectacular sediment structures", "Important ecological area", "Tide-influenced"],
+      es: ["Bosques de manglares", "Estructuras de sedimentos espectaculares", "Zona ecológica importante", "Influenciada por las mareas"],
+      pt: ["Florestas de mangais", "Estruturas de sedimentos espectaculares", "Área ecológica importante", "Influenciada pelas marés"],
+      fr: ["Forêts de mangroves", "Structures sédimentaires spectaculaires", "Zone écologique importante", "Influencée par les marées"],
     },
     descriptionAdvanced: {
       de: "Die Bombetoka-Bucht ist ein riesiges Ästuar im Nordwesten Madagaskars, wo der Betsiboka-Fluss in den Kanal von Mosambik mündet. Sie ist bekannt für ihre massiven Sedimentablagerungen, die aus dem zentralen Hochland herangetragen werden und der Bucht ihre charakteristische tiefrote Farbe verleihen. Diese Sedimentation hat im Laufe der Jahrzehnte zahlreiche neue Inseln und Sandbänke geschaffen, die ständig ihre Form verändern. Das Ästuar beherbergt einige der größten zusammenhängenden Mangrovenwälder Madagaskars, die als Puffer gegen Küstenerosion dienen und wichtige Laichgründe für Fische und Krebstiere bieten. Geografisch erstreckt sich die Bucht über eine Fläche von etwa 300 Quadratkilometern und wird von der Hafenstadt Mahajanga an ihrer Nordseite begrenzt. Historisch war die Bucht ein wichtiger Knotenpunkt für den Sklavenhandel und den Export von landwirtschaftlichen Produkten. Heute ist sie ein bedeutendes Forschungsgebiet für Geologen und Ökologen, die die Auswirkungen der Entwaldung im Hinterland auf die Küstenmorphologie untersuchen. Die reiche Avifauna umfasst seltene Arten wie den Madagaskar-Ibis, der in den geschützten Mangrovengebieten nistet.",
@@ -752,6 +869,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
       hu: ["Az öböl legszélesebb pontján körülbelül 17 kilométer széles.", "A Betsiboka-folyó évente több millió tonna üledéket szállít.", "Az öböl mangrove-területét több mint 40 000 hektárra becsülik.", "Az öbölben 2004-ben jelentős morfológiai változásokat mutattak ki.", "Fontos helyszín a garnélarák-export szempontjából.", "Az öböl a Marovoay-medence része, amely fontos rizstermelő vidék."],
       ro: ["Golful are o lățime de aproximativ 17 kilometri în cel mai lat punct al său.", "Râul Betsiboka transportă anual milioane de tone de sedimente.", "Suprafața de mangrove a golfului este estimată la peste 40.000 de hectare.", "În anul 2004 au fost demonstrate schimbări morfologice grave în golf.", "Este un loc important pentru exportul de creveți.", "Golful face parte din bazinul Marovoay, o regiune importantă de cultivare a orezului."],
       en: ["The bay is approximately 17 kilometers wide at its broadest point.", "The Betsiboka River carries millions of tons of sediment annually.", "The mangrove area of the bay is estimated at over 40,000 hectares.", "Significant morphological changes were documented in the bay in 2004.", "It is a major center for the export of shrimp.", "The bay is part of the Marovoay basin, a key rice-producing region."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/baie-de-bombetoka-nature-v2.webp",
     
     
@@ -821,12 +941,15 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     coords: [45.1, -21.2],
     name: { de: "Makay-Massiv", hu: "Makay-hegység", ro: "Masivul Makay", en: "Makay Massif"},
     image: "/poi-images/massif-des-makay-nature-v2.webp",
-    description: { de: "Ein abgelegenes und wildes Gebirgsmassiv im Westen.", hu: "Elszigetelt és vad hegység a nyugaton.", ro: "Un masiv muntos izolat și sălbatic în vest.", en: "A remote and wild mountain massif in the west." },
+    description: { de: "Ein abgelegenes und wildes Gebirgsmassiv im Westen.", hu: "Elszigetelt és vad hegység a nyugaton.", ro: "Un masiv muntos izolat și sălbatic în vest.", en: "A remote and wild mountain massif in the west." , es: "Un macizo montañoso remoto y salvaje en el oeste.", pt: "Um maciço montanhoso remoto e selvagem no oeste.", fr: "Un massif montagneux reculé et sauvage dans l'ouest."},
     facts: {
       de: ["Kaum erforscht", "Tiefe Schluchten", "Endemische Arten", "Abenteuerliche Destination"],
       hu: ["Alig kutatott", "Mély szurdokok", "Endémikus fajok", "Kalandos úti cél"],
       ro: ["Aproape neexplorat", "Canioane adânci", "Specii endemice", "Destinație plină de aventură"],
-      en: ["Hardly explored", "Deep canyons", "Endemic species", "Adventurous destination"]
+      en: ["Hardly explored", "Deep canyons", "Endemic species", "Adventurous destination"],
+      es: ["Apenas explorado", "Cañones profundos", "Especies endémicas", "Destino de aventura"],
+      pt: ["Pouco explorado", "Cânions profundos", "Espécies endêmicas", "Destino de aventura"],
+      fr: ["Peu exploré", "Gorges profondes", "Espèces endémiques", "Destination d'aventure"],
     },
     descriptionAdvanced: {
       de: "Das Makay-Massiv im Südwesten Madagaskars ist eine der entlegensten und geologisch faszinierendsten Regionen der Insel, geprägt von tief erodiertem Sandstein aus dem Jura. Auf einer Fläche von rund 4.000 Quadratkilometern erstreckt sich ein labyrinthisches System aus Canyons, Plateaus und isolierten Waldstücken, das aufgrund seiner Unzugänglichkeit lange Zeit unerforscht blieb. Die vertikalen Wände der Schluchten ragen oft mehrere hundert Meter in die Höhe und schützen einzigartige Mikroökosysteme mit einer hohen Dichte an endemischen Arten. Wissenschaftliche Expeditionen der letzten Jahrzehnte entdeckten hier zahlreiche neue Tier- und Pflanzenarten, darunter seltene Lemuren und Vögel. Die Erosion hat bizarre Felsformationen geschaffen, die das Massiv zu einem ökologischen Rückzugsort von unschätzbarem Wert machen. Der Schutz dieses fragilen Gebiets vor Abholzung und illegalem Bergbau ist eine der größten Herausforderungen für den lokalen Naturschutz.",
@@ -839,6 +962,9 @@ export const poiExtraMadagascarNatureV2: POI[] = [
       hu: ["Kb. 4000 km² kiterjedésű homokkő labirintus", "A kőzetrétegek a júra időszakból származnak", "A kanyonok fala helyenként 400 méter magas", "Az első nagy expedíciók csak a 2000-es években indultak", "Több mint 10 lemurfaj élőhelye a terület", "Különleges mikroklímájú völgyek és barlangok"],
       ro: ["Suprafață de aproximativ 4.000 km² în sud-vest", "Format din gresie datând din perioada Jurasicului", "Pereți de canion cu înălțimi de până la 400 metri", "Explorarea științifică majoră a început după anul 2000", "Găzduiește peste 10 specii diferite de lemurieni", "Microclimate izolate care păstrează specii arhaice"],
       en: ["Covers roughly 4,000 square kilometers in the southwest", "Composed of sedimentary Jurassic sandstone", "Canyon walls reach vertical heights of 400 meters", "Major scientific exploration began only after 2000", "Habitat for more than 10 distinct lemur species", "Contains isolated micro-ecosystems in deep valleys"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     

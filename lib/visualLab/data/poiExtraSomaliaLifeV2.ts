@@ -683,6 +683,7 @@ export const poiExtraSomaliaLifeV2: POI[] = [
       en: ["Geographical location: Border between Somalia and Ethiopia.", "Primary export destination: Port of Berbera.", "Main livestock species: Camels and goats.", "Regional affiliation: Cayn region.", "Economic basis: Nomadic pastoralism.", "Key products: Live animals, milk, and meat."],
       pt: ["Superfície da fazenda: 250 hectares", "Superfície de cultivo de forragem: 100 hectares", "Cabeças de gado: 5.000", "Número de camelos: 2.000", "Abates anuais: 1.000 vacas, 500 camelos", "Ano de fundação: 2005"],
       fr: ["Superficie de la ferme : 250 hectares", "Surface de culture fourragère : 100 hectares", "Têtes de bétail : 5 000", "Nombre de chameaux : 2 000", "Abattages annuels : 1 000 vaches, 500 chameaux", "Année de fondation : 2005"],
+      es: ["Superficie de la granja: 250 hectáreas", "Superficie de cultivo de forraje: 100 hectáreas", "Cabezas de ganado: 5.000", "Número de camellos: 2.000", "Sacrificios anuales: 1.000 vacas, 500 camellos", "Año de fundación: 2005"],
     },
   },
   {
@@ -754,6 +755,7 @@ export const poiExtraSomaliaLifeV2: POI[] = [
       en: ["Geographical location: Gulf of Aden, Bari region.", "Economic status: Commercial center of Puntland.", "Main fish species: Tuna, lobster, and sharks.", "Export markets: Primarily Europe and Asia.", "Infrastructure: Modern port and fish processing plants.", "Challenge: Combating illegal fishing in coastal waters."],
       pt: ["Captura anual: 30.000 toneladas", "Pessoas empregadas diretamente: 20.000", "Número de barcos de pesca: 550 (500 madeira, 50 arrastões)", "Espécies principais: atum, cavala, sardinhas", "Destinos de exportação: Iémen, Omã", "Patrulhas costeiras iniciadas: 2015"],
       fr: ["Capture annuelle : 30 000 tonnes", "Personnes directement employées : 20 000", "Nombre de bateaux de pêche : 550 (500 en bois, 50 chalutiers)", "Espèces principales : thon, maquereau, sardines", "Destinations d'exportation : Yémen, Oman", "Patrouilles côtières lancées : 2015"],
+      es: ["Captura anual: 30.000 toneladas", "Personas empleadas directamente: 20.000", "Número de barcos pesqueros: 550 (500 madera, 50 arrastreros)", "Especies principales: atún, caballa, sardinas", "Destinos de exportación: Yemen, Omán", "Patrullas costeras iniciadas: 2015"],
     },
   },
   {
@@ -933,6 +935,7 @@ export const poiExtraSomaliaLifeV2: POI[] = [
       en: ["Location: Center of Hargeisa, Somaliland.", "Function: Urban recreational area.", "Flora: Predominantly native acacia trees.", "User groups: Families, students, and tourists.", "Activities: Cultural events and leisure.", "Significance: Most important public open space in the capital."],
       pt: ["Área do parque: 20 hectares", "Ano de fundação: 2005", "Visitantes anuais: 50.000", "Equipamentos: lago artificial, pedalinhos, parquinhos, anfiteatro", "Lago artificial: tamanho desconhecido, mas com pedalinhos", "Número de luzes solares: desconhecido, mas instaladas"],
       fr: ["Surface du parc : 20 hectares", "Année de fondation : 2005", "Visiteurs annuels : 50 000", "Équipements : lac artificiel, pédalos, aires de jeux, amphithéâtre", "Lac artificiel : taille inconnue, mais avec pédalos", "Nombre d'éclairages solaires : inconnu, mais installés"],
+      es: ["Superficie del parque: 20 hectáreas", "Año de fundación: 2005", "Visitantes anuales: 50.000", "Equipamiento: lago artificial, botes de pedales, parques infantiles, anfiteatro", "Lago artificial: tamaño desconocido, pero con botes de pedales", "Número de luces solares: desconocido, pero instaladas"],
     },
   },
   {
@@ -968,6 +971,7 @@ export const poiExtraSomaliaLifeV2: POI[] = [
       en: ["Location: Galkayo city, border region of Puntland/Galmudug.", "Target group: Children and youth.", "Facilities: Football pitches and modern play equipment.", "Social role: Promotion of community cohesion.", "Operation: Well-lit during evening hours.", "Significance: First modern recreational facility of its kind in the city."],
       pt: ["Área do parque: 10 hectares", "Ano de abertura: 2010", "Visitantes anuais: 30.000", "Atrações: parquinhos, montanha-russa, campo de futebol, quadra de tênis", "Montanha-russa: modelo pequeno", "Usina solar instalada: sim"],
       fr: ["Surface du parc : 10 hectares", "Année d'ouverture : 2010", "Visiteurs annuels : 30 000", "Attractions : aires de jeux, montagne russe, terrain de football, court de tennis", "Montagne russe : petit modèle", "Installation solaire : oui"],
+      es: ["Superficie del parque: 10 hectáreas", "Año de apertura: 2010", "Visitantes anuales: 30.000", "Atracciones: parques infantiles, montaña rusa, campo de fútbol, pista de tenis", "Montaña rusa: diseño pequeño", "Planta solar instalada: sí"],
     },
   },
   {

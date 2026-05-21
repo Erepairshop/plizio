@@ -13,7 +13,10 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       de: "Eines der größten Laterit-Nickel-Bergbauprojekte der Welt, das tief in den Wäldern im Osten Madagaskars angesiedelt ist.",
       hu: "A világ egyik legnagyobb laterites nikkelbányászati projektje, amely Madagaszkár keleti erdeinek mélyén található.",
       ro: "Unul dintre cele mai mari proiecte de exploatare a nichelului lateritic din lume, situat adânc în pădurile din estul Madagascarului.",
-      en: "One of the world's largest lateritic nickel mining projects, located deep in the forests of eastern Madagascar."
+      en: "One of the world's largest lateritic nickel mining projects, located deep in the forests of eastern Madagascar.",
+      es: "Uno de los proyectos mineros de níquel laterítico más grandes del mundo, ubicado en las profundidades de los bosques del este de Madagascar.",
+      pt: "Um dos maiores projetos de mineração de níquel laterítico do mundo, localizado nas profundezas das florestas do leste de Madagáscar.",
+      fr: "L'un des plus grands projets d'exploitation de nickel latéritique au monde, situé au cœur des forêts de l'est de Madagascar.",
     },
     descriptionAdvanced: {
       de: "Die Ambatovy-Mine ist eines der weltweit größten Laterit-Nickel- und Kobalt-Bergbauprojekte und liegt im Osten Madagaskars in der Nähe von Moramanga. Mit einer Investition von über 8 Milliarden US-Dollar stellt sie das größte ausländische Direktinvestitionsprojekt in der Geschichte des Landes dar. Das Projekt umfasst eine Mine, eine 220 Kilometer lange Pipeline und eine Verarbeitungsanlage in Toamasina an der Küste. Ambatovy produziert jährlich bis zu 60.000 Tonnen raffiniertes Nickel und 5.600 Tonnen Kobalt, was wesentlich zum Bruttoinlandsprodukt Madagaskars beiträgt. Der Bergbau erfolgt im Tagebauverfahren, wobei modernste Technologien zur Minimierung der Umweltauswirkungen in der biodiversitätsreichen Region eingesetzt werden. Das Unternehmen hat umfangreiche Programme zur Wiederaufforstung und zum Schutz lokaler Lemurenarten implementiert. Als wichtiger Arbeitgeber beschäftigt das Projekt Tausende von Madagassen und fördert die lokale Infrastruktur sowie die industrielle Entwicklung.",
@@ -26,12 +29,18 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       hu: ["8 milliárd dolláros beruházás", "220 km hosszú csővezeték", "Nikkel és kobalt kitermelése", "Évi 60 000 tonna nikkel", "Moramanga közelében fekszik", "Külszíni fejtésű bánya"],
       ro: ["Investiție de 8 miliarde USD", "Conductă de 220 km lungime", "Producție de nichel și cobalt", "Cea mai mare investiție străină", "Localizată lângă Moramanga", "Rafinărie în Toamasina"],
       en: ["8 billion USD investment", "220 km slurry pipeline", "Produces nickel and cobalt", "Largest project in Madagascar", "Open-pit mine near Moramanga", "Refinery located in Toamasina"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     facts: {
       de: ["Kosten von über 8 Milliarden Dollar", "Produziert auch Kobalt"],
       hu: ["Több mint 8 milliárd dolláros beruházás", "Kobaltot is termel"],
       ro: ["Costă peste 8 miliarde de dolari", "Produce și cobalt"],
-      en: ["Cost over 8 billion dollars", "Also produces cobalt"]
+      en: ["Cost over 8 billion dollars", "Also produces cobalt"],
+      es: ["Costes de más de 8.000 millones de dólares", "También produce cobalto"],
+      pt: ["Custos de mais de 8 mil milhões de dólares", "Também produz cobalto"],
+      fr: ["Coûts de plus de 8 milliards de dollars", "Produit également du cobalt"],
     }, image: "/poi-images/ambatovy-mine-economic-v2.webp",
     
     
@@ -47,7 +56,10 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       de: "Der wichtigste Seehafen des Landes wickelt den Großteil des internationalen Seehandels der Insel ab.",
       hu: "Az ország legfontosabb tengeri kikötője a sziget nemzetközi tengeri kereskedelmének nagy részét bonyolítja le.",
       ro: "Principalul port maritim al țării gestionează majoritatea comerțului maritim internațional al insulei.",
-      en: "The country's most important seaport handles the vast majority of the island's international maritime trade."
+      en: "The country's most important seaport handles the vast majority of the island's international maritime trade.",
+      es: "El puerto marítimo más importante del país maneja la mayor parte del comercio marítimo internacional de la isla.",
+      pt: "O porto marítimo mais importante do país movimenta a maior parte do comércio marítimo internacional da ilha.",
+      fr: "Le port maritime le plus important du pays assure la majeure partie du commerce maritime international de l'île.",
     },
     descriptionAdvanced: {
       de: "Der Hafen von Toamasina, auch bekannt als Grand Port de l'Est, ist das wirtschaftliche Tor Madagaskars zur Welt und der größte Seehafen des Landes. Er wickelt etwa 75 Prozent des nationalen Frachtaufkommens und fast 90 Prozent des Containerverkehrs ab. Strategisch an der Ostküste am Indischen Ozean gelegen, ist der Hafen der primäre Exportpunkt für madagassische Produkte wie Vanille, Gewürznelken und Mineralien aus der Ambatovy-Mine. Die Geschichte des Hafens reicht bis ins 19. Jahrhundert zurück, als er unter der Merina-Monarchie zu einem zentralen Handelsplatz ausgebaut wurde. In den letzten Jahren wurde der Hafen mit signifikanter Unterstützung der japanischen Entwicklungszusammenarbeit umfassend modernisiert und erweitert. Diese Maßnahmen zielen darauf ab, die Kapazität für Containerschiffe zu erhöhen und die Effizienz der Logistikketten zu verbessern. Trotz der Bedrohung durch regelmäßige Wirbelstürme bleibt Toamasina das unverzichtbare logistische Rückgrat der Inselnation.",
@@ -60,12 +72,18 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       hu: ["Madagaszkár legnagyobb kikötője", "A konténerforgalom 90%-át adja", "Fő vaníliaexport-központ", "Japán támogatással bővítik", "Az Ambatovy projekt fő bázisa", "Indiai-óceáni stratégiai pont"],
       ro: ["Cel mai mare port din țară", "Gestionează 90% din containere", "Principalul punct de export vanilie", "Modernizat cu ajutor japonez", "Punct terminus pentru Ambatovy", "Situat pe coasta de est"],
       en: ["Largest port in Madagascar", "Handles 90% of containers", "Main vanilla export hub", "Modernized with Japanese aid", "Terminus for Ambatovy minerals", "Strategically on the East Coast"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     facts: {
       de: ["Wichtigstes Tor für Importe", "Betrieben von SPAT"],
       hu: ["A legfőbb kapu az import számára", "Az SPAT üzemelteti"],
       ro: ["Principala poartă pentru importuri", "Operat de SPAT"],
-      en: ["Main gateway for imports", "Operated by SPAT"]
+      en: ["Main gateway for imports", "Operated by SPAT"],
+      es: ["Puerta principal para las importaciones", "Operado por SPAT"],
+      pt: ["Principal porta de entrada para importações", "Operado por SPAT"],
+      fr: ["Principale porte d'entrée des importations", "Exploité par la SPAT"],
     }, image: "/poi-images/toamasina-port-economic-v2.webp",
     
     
@@ -81,7 +99,10 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       de: "Dieser moderne Tiefseehafen in der Nähe von Tolagnaro wurde hauptsächlich für den Export von Ilmenit errichtet.",
       hu: "Ezt a modern mélyvízi kikötőt Tolagnaro közelében elsősorban ilmenit exportálására építették.",
       ro: "Acest port modern de mare adâncime din apropiere de Tolagnaro a fost construit în principal pentru exportul de ilmenit.",
-      en: "This modern deep-water port near Tolagnaro was built primarily to facilitate the export of ilmenite."
+      en: "This modern deep-water port near Tolagnaro was built primarily to facilitate the export of ilmenite.",
+      es: "Este moderno puerto de aguas profundas cerca de Tolagnaro fue construido principalmente para la exportación de ilmenita.",
+      pt: "Este moderno porto de águas profundas perto de Tolagnaro foi construído principalmente para a exportação de ilmenite.",
+      fr: "Ce port moderne en eau profonde près de Tolagnaro a été construit principalement pour l'exportation d'ilménite.",
     },
     descriptionAdvanced: {
       de: "Port Ehoala ist ein moderner Tiefwasserhafen in der Nähe von Fort-Dauphin (Tolagnaro) an der Südostspitze Madagaskars. Er wurde 2009 eingeweiht und primär gebaut, um den Export von Ilmenit aus der nahegelegenen QMM-Mine zu ermöglichen. Das Projekt ist ein bemerkenswertes Beispiel für eine öffentlich-private Partnerschaft zwischen der madagassischen Regierung und dem Bergbaukonzern Rio Tinto. Der Hafen verfügt über eine Wassertiefe von bis zu 15 Metern, was ihn für große Frachtschiffe und sogar Kreuzfahrtschiffe zugänglich macht. Neben seiner industriellen Funktion dient Ehoala als regionaler Handelsknotenpunkt, der die Isolation des Südens verringert und neue wirtschaftliche Möglichkeiten für die Region Anosy schafft. Die Infrastruktur umfasst moderne Terminals und Lagerflächen, die nach internationalen Sicherheitsstandards betrieben werden. Seine Lage am Indischen Ozean macht ihn zudem zu einem strategischen Zwischenstopp für den Seeverkehr im südlichen Afrika.",
@@ -94,12 +115,18 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       hu: ["2009-ben adták át", "15 méteres mélyvízi kikötő", "Ilmenit exportjára specializálódott", "Rio Tinto-val közös beruházás", "Fort-Dauphin közelében található", "Üdülőhajókat is fogad"],
       ro: ["Inaugurat în 2009", "Adâncime de 15 metri", "Construit pentru exportul de ilmenit", "Parteneriat cu Rio Tinto", "Localizat lângă Fort-Dauphin", "Accesibil pentru nave de croazieră"],
       en: ["Opened in 2009", "15-meter water depth", "Built for ilmenite exports", "Rio Tinto partnership", "Located near Fort-Dauphin", "Accessible for cruise ships"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     facts: {
       de: ["Eröffnet im Jahr 2009", "Wird für den Bergbau genutzt"],
       hu: ["2009-ben nyílt meg", "Bányászati célokra használják"],
       ro: ["Deschis în 2009", "Folosit pentru minerit"],
-      en: ["Opened in 2009", "Used for mining operations"]
+      en: ["Opened in 2009", "Used for mining operations"],
+      es: ["Inaugurado en 2009", "Utilizado para la minería"],
+      pt: ["Inaugurado em 2009", "Utilizado para a mineração"],
+      fr: ["Inauguré en 2009", "Utilisé pour l'industrie minière"],
     }, image: "/poi-images/ehola-port-economic-v2.webp",
     
     
@@ -115,7 +142,10 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       de: "Ein umfangreiches Abbaugebiet im Südosten, in dem Ilmenit für die Titanoxidproduktion gewonnen wird.",
       hu: "Kiterjedt bányaterület délkeleten, ahol ilmenitet bányásznak titán-dioxid termeléshez.",
       ro: "O zonă vastă de extracție în sud-est unde se extrage ilmenit pentru producția de dioxid de titan.",
-      en: "A vast extraction area in the southeast where ilmenite is mined for titanium dioxide production."
+      en: "A vast extraction area in the southeast where ilmenite is mined for titanium dioxide production.",
+      es: "Una extensa zona minera en el sureste donde se extrae ilmenita para la producción de óxido de titanio.",
+      pt: "Uma vasta área mineira no sudeste onde a ilmenite é extraída para a produção de óxido de titânio.",
+      fr: "Un vaste site minier du sud-est où l'ilménite est extraite pour la production d'oxyde de titane.",
     },
     descriptionAdvanced: {
       de: "Die QMM-Mine (QIT Madagascar Minerals) ist ein bedeutendes Bergbauprojekt in der Nähe von Fort-Dauphin im Südosten Madagaskars. Die Mine wird mehrheitlich von Rio Tinto betrieben und konzentriert sich auf den Abbau von Ilmenit, einem wichtigen Erz zur Gewinnung von Titandioxid. Das Projekt umfasst drei Hauptstandorte: Mandena, Petriky und Sainte-Luce, wobei Mandena der derzeit aktive Bereich ist. Der Abbau erfolgt durch Trockenbaggerung in den Küstendünen, wobei das Erz vor Ort konzentriert und dann über den Hafen Ehoala exportiert wird. Neben Ilmenit werden auch Zirkon und Monazit als Nebenprodukte gewonnen. Da die Mine in einem ökologisch sensiblen Gebiet liegt, hat QMM umfangreiche Biodiversitätsprogramme und Schutzgebiete eingerichtet, um den endemischen Küstenwald zu erhalten. Die Mine ist der wichtigste Wirtschaftsfaktor der Region Anosy und bietet Beschäftigung sowie soziale Programme für die lokale Bevölkerung.",
@@ -128,12 +158,18 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       hu: ["Rio Tinto a többségi tulajdonos", "Ilmenit (titán-érc) kitermelése", "Mandena a fő lelőhely", "Export az Ehoala kikötőn át", "Cirkont is termelnek itt", "Anosy régió gazdasági motorja"],
       ro: ["Operată majoritar de Rio Tinto", "Extracție de ilmenit", "Situl activ este Mandena", "Export prin portul Ehoala", "Produce zircon ca subprodus", "Principalul angajator din Anosy"],
       en: ["Majority-owned by Rio Tinto", "Extracts ilmenite for titanium", "Primary site is Mandena", "Exports via Port Ehoala", "Recovers zircon as a byproduct", "Major employer in Anosy Region"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     facts: {
       de: ["Betrieben von Rio Tinto", "Liegt in der Region Anosy"],
       hu: ["A Rio Tinto üzemelteti", "Az Anosy régióban található"],
       ro: ["Operat de Rio Tinto", "Situat în regiunea Anosy"],
-      en: ["Operated by Rio Tinto", "Located in the Anosy region"]
+      en: ["Operated by Rio Tinto", "Located in the Anosy region"],
+      es: ["Operada por Rio Tinto", "Situada en la región de Anosy"],
+      pt: ["Operada pela Rio Tinto", "Localizada na região de Anosy"],
+      fr: ["Exploitée par Rio Tinto", "Située dans la région d'Anosy"],
     }, image: "/poi-images/qmm-mine-economic-v2.webp",
     
     
@@ -149,7 +185,10 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       de: "Ein historischer Hafen an der Westküste, der eine wichtige Rolle im regionalen Warenverkehr spielt.",
       hu: "Egy történelmi kikötő a nyugati parton, amely fontos szerepet játszik a regionális áruforgalomban.",
       ro: "Un port istoric pe coasta de vest, care joacă un rol important în traficul regional de mărfuri.",
-      en: "A historic port on the west coast playing an important role in regional freight traffic."
+      en: "A historic port on the west coast playing an important role in regional freight traffic.",
+      es: "Un puerto histórico en la costa oeste que desempeña un papel importante en el tráfico regional de mercancías.",
+      pt: "Um porto histórico na costa oeste que desempenha um papel importante no tráfego regional de mercadorias.",
+      fr: "Un port historique sur la côte ouest, qui joue un rôle important dans le commerce régional de marchandises.",
     },
     descriptionAdvanced: {
       de: "Der Hafen von Mahajanga, an der Nordwestküste Madagaskars gelegen, ist der zweitwichtigste Seehafen des Landes. Er befindet sich an der Mündung des Betsiboka-Flusses in der Bombetoka-Bucht, was ihn zu einem wichtigen Handelsplatz für die Region Boeny macht. Historisch gesehen war Mahajanga ein zentraler Knotenpunkt für den Handel mit den Komoren und Ostafrika. Der Hafen wickelt primär den Export von landwirtschaftlichen Produkten wie Reis, Tabak und Holz sowie den wichtigen Export von Garnelen ab. Aufgrund der starken Sedimentation des Betsiboka-Flusses erfordert der Hafen regelmäßige Baggerarbeiten, um die Schiffbarkeit zu gewährleisten. Neben der kommerziellen Schifffahrt dient der Hafen als Basis für die lokale Fischereiindustrie. Die lebhafte Hafenpromenade, bekannt als Le Bord, spiegelt die kosmopolitische Atmosphäre der Stadt wider, die durch jahrhundertelange Handelskontakte über den Indischen Ozean geprägt wurde.",
@@ -162,12 +201,18 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       hu: ["Madagaszkár második legnagyobb kikötője", "A Betsiboka-folyó torkolatánál fekszik", "Garnélarák-export központja", "Kereskedelmi kapcsolat a Comore-szigetekkel", "Rendszeres kotrást igényel", "Boeny régió fő kikötője"],
       ro: ["Al doilea port ca mărime din țară", "Situat la gura râului Betsiboka", "Centru pentru exportul de creveți", "Legătură comercială cu Comore", "Probleme mari cu sedimentarea", "Bază pentru industria pescuitului"],
       en: ["Second largest port in Madagascar", "Located at the Betsiboka River mouth", "Major hub for shrimp exports", "Trade link to the Comoros Islands", "Requires frequent dredging", "Key port for the Boeny Region"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     facts: {
       de: ["Zweitgrößter Hafen der Insel", "Liegt am Betsiboka-Fluss"],
       hu: ["A sziget második legnagyobb kikötője", "A Betsiboka folyónál fekszik"],
       ro: ["Al doilea port ca mărime al insulei", "Situat pe râul Betsiboka"],
-      en: ["Second largest port of the island", "Located on the Betsiboka river"]
+      en: ["Second largest port of the island", "Located on the Betsiboka river"],
+      es: ["Segundo puerto más grande de la isla", "Situado en el río Betsiboka"],
+      pt: ["Segundo maior porto da ilha", "Situado no rio Betsiboka"],
+      fr: ["Deuxième plus grand port de l'île", "Situé sur le fleuve Betsiboka"],
     }, image: "/poi-images/mahajanga-port-economic-v2.webp",
     
     
@@ -183,7 +228,10 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       de: "Diese Mine im zentralen Hochland war lange Zeit das Zentrum der madagassischen Chromerzförderung.",
       hu: "Ez a közép-felföldi bánya hosszú ideig a madagaszkári krómérc-kitermelés központja volt.",
       ro: "Această mină din zonele înalte centrale a fost mult timp centrul extracției minereului de crom malgaș.",
-      en: "This mine in the central highlands was long the center of Malagasy chrome ore extraction."
+      en: "This mine in the central highlands was long the center of Malagasy chrome ore extraction.",
+      es: "Esta mina en las tierras altas centrales fue durante mucho tiempo el centro de la extracción de mineral de cromo en Madagascar.",
+      pt: "Esta mina no planalto central foi durante muito tempo o centro da extração de minério de crómio em Madagáscar.",
+      fr: "Cette mine dans les hautes terres centrales a longtemps été le centre de l'extraction de minerai de chrome à Madagascar.",
     },
     descriptionAdvanced: {
       de: "Die Kraoma-Mine (Kraomita Malagasy) ist ein staatliches Bergbauunternehmen in Brieville (Andriamena), das sich auf den Abbau von Chromit spezialisiert hat. Seit der Gründung im Jahr 1969 ist sie eine tragende Säule der madagassischen Bergbauindustrie und bekannt für die hohe Qualität ihres Chromerzes. Die Mine liegt im zentralen Hochland und betreibt sowohl Tagebau als auch Untertagebau, um die wertvollen Mineralien zu gewinnen. Das geförderte Chromit wird hauptsächlich für die Herstellung von Ferrochrom und in der chemischen Industrie verwendet. Der Transport des Erzes erfolgt über eine Kombination aus Lkw und Bahn zum Hafen von Toamasina, von wo aus es weltweit exportiert wird. Als staatlicher Betrieb hat Kraoma eine wichtige strategische Bedeutung für die nationale Wirtschaft und die Beschäftigung in der Region Betsiboka. In den letzten Jahren wurden Anstrengungen unternommen, die Produktion zu modernisieren und neue Reserven zu erschließen.",
@@ -196,12 +244,18 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       hu: ["1969-ben alapították", "Állami tulajdonú vállalat", "Krómércet (kromitot) termel ki", "Brieville (Andriamena) a központja", "Vasúton szállítják az ércet", "A Betsiboka régióban található"],
       ro: ["Fondată în anul 1969", "Companie deținută de stat", "Extracție de cromit (crom)", "Localizată în Brieville", "Exportă prin portul Toamasina", "Situată în regiunea Betsiboka"],
       en: ["Established in 1969", "State-owned enterprise", "Extracts chromite (chromium ore)", "Located in Brieville (Andriamena)", "Exports via Port of Toamasina", "Key industry in Betsiboka Region"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     facts: {
       de: ["Staatliches Bergbauunternehmen", "Produziert Chromkonzentrat"],
       hu: ["Állami bányászati vállalat", "Krómkoncentrátumot állít elő"],
       ro: ["Companie minieră de stat", "Produce concentrat de crom"],
-      en: ["State-owned mining company", "Produces chrome concentrate"]
+      en: ["State-owned mining company", "Produces chrome concentrate"],
+      es: ["Empresa minera estatal", "Produce concentrado de cromo"],
+      pt: ["Empresa mineira estatal", "Produz concentrado de crómio"],
+      fr: ["Entreprise minière d'État", "Produit du concentré de chrome"],
     }, image: "/poi-images/kraoma-mine-economic-v2.webp",
     
     
@@ -217,7 +271,10 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       de: "Gelegen in einer großen Bucht im Norden, ist dieser Hafen ein wichtiger Knotenpunkt für den Marine- und Handelsverkehr.",
       hu: "Az északi nagy öbölben található kikötő a haditengerészeti és kereskedelmi forgalom fontos csomópontja.",
       ro: "Situat într-un golf mare din nord, acest port este un nod important pentru traficul naval și comercial.",
-      en: "Located in a large bay in the north, this port is a major hub for naval and commercial traffic."
+      en: "Located in a large bay in the north, this port is a major hub for naval and commercial traffic.",
+      es: "Situado en una gran bahía en el norte, este puerto es un centro importante para el tráfico marítimo y comercial.",
+      pt: "Situado numa grande baía no norte, este porto é um centro importante para o tráfego marítimo e comercial.",
+      fr: "Situé dans une grande baie au nord, ce port est une plaque tournante majeure pour le trafic maritime et commercial.",
     },
     descriptionAdvanced: {
       de: "Der Hafen von Antsiranana, ehemals Diego Suarez, liegt in einer der größten und sichersten natürlichen Buchten der Welt an der Nordspitze Madagaskars. Seine strategische Bedeutung wurde im 19. und 20. Jahrhundert von der französischen Marine erkannt, die hier eine bedeutende Basis unterhielt. Heute dient der Hafen sowohl militärischen als auch zivilen Zwecken und ist ein entscheidender Umschlagplatz für den Norden der Insel. Zu den wichtigsten Exportgütern gehören Zucker, Kakao und Textilien aus den umliegenden Anbaugebieten. Der Hafen beheimatet zudem die SECREN-Werft, die größte Schiffswerft des Landes, die Reparaturdienstleistungen für Schiffe im westlichen Indischen Ozean anbietet. Dank der großen Wassertiefe können auch schwere Frachter und Kreuzfahrtschiffe problemlos anlegen. Die Architektur der Hafenstadt spiegelt die koloniale Vergangenheit wider, während der Hafen selbst das pulsierende wirtschaftliche Herz der Region Diana bleibt.",
@@ -230,12 +287,18 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       hu: ["A világ egyik legnagyobb természetes öble", "Korábbi francia tengerészeti bázis", "Itt működik a SECREN hajógyár", "Diana régió gazdasági központja", "Cukor- és kakaóexport", "Mélyvízi kikötő"],
       ro: ["Unul dintre cele mai mari golfuri naturale", "Fostă bază navală franceză", "Găzduiește șantierul naval SECREN", "Principalul port din regiunea Diana", "Export de zahăr și cacao", "Port cu adâncime naturală mare"],
       en: ["One of the world's largest natural bays", "Former French naval base", "Home to the SECREN shipyard", "Primary port for the Diana Region", "Exports sugar and cocoa", "Deep natural water harbor"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     facts: {
       de: ["Früher als Diego Suarez bekannt", "Hat ein tiefes natürliches Becken"],
       hu: ["Korábban Diego Suarez néven ismerték", "Mély természetes medencével rendelkezik"],
       ro: ["Cunoscut anterior ca Diego Suarez", "Are un bazin natural adânc"],
-      en: ["Formerly known as Diego Suarez", "Has a deep natural basin"]
+      en: ["Formerly known as Diego Suarez", "Has a deep natural basin"],
+      es: ["Anteriormente conocido como Diego Suarez", "Posee una cuenca natural profunda"],
+      pt: ["Anteriormente conhecido como Diego Suarez", "Possui uma bacia natural profunda"],
+      fr: ["Anciennement connu sous le nom de Diego Suarez", "Dispose d'un bassin naturel profond"],
     }, image: "/poi-images/antsiranana-port-economic-v2.webp",
     
     
@@ -251,7 +314,10 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       de: "Der Hauptsitz und die größte Produktionsstätte der bekannten madagassischen Getränkemarke in der Hauptstadt.",
       hu: "Az ismert madagaszkári italmárka központja és legnagyobb gyártóüzeme a fővárosban.",
       ro: "Sediul central și cea mai mare unitate de producție a renumitei mărci de băuturi din Madagascar în capitală.",
-      en: "The headquarters and largest production facility of the famous Malagasy beverage brand in the capital."
+      en: "The headquarters and largest production facility of the famous Malagasy beverage brand in the capital.",
+      es: "La sede y la mayor planta de producción de la conocida marca de bebidas malgache en la capital.",
+      pt: "A sede e a maior unidade de produção da conhecida marca de bebidas malgaxe na capital.",
+      fr: "Le siège et le plus grand site de production de la célèbre marque de boissons malgache, situé dans la capitale.",
     },
     descriptionAdvanced: {
       de: "Die STAR-Brauerei in Antananarivo (Société Tananarivienne d'Articles Réfrigérés) ist der führende Getränkehersteller Madagaskars und ein nationales Industriesymbol. Gegründet im Jahr 1953, produziert das Unternehmen das berühmte Three Horses Beer (THB), das als das Nationalbier der Insel gilt. Die Brauerei ist Teil der Castel-Gruppe und betreibt eine der modernsten Industrieanlagen des Landes in der Hauptstadt. Neben Bier stellt STAR auch eine breite Palette an Erfrischungsgetränken und Mineralwasser unter verschiedenen Marken her. Das Unternehmen ist ein bedeutender Arbeitgeber und trägt durch Steuern und soziale Investitionen massiv zur madagassischen Wirtschaft bei. Die Marke THB ist tief in der lokalen Kultur verwurzelt und auf der gesamten Insel präsent. STAR legt großen Wert auf Nachhaltigkeit und lokale Beschaffung, insbesondere beim Bezug von Gerste und Mais von madagassischen Landwirten.",
@@ -264,12 +330,18 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       hu: ["1953-ban alapították", "A Three Horses Beer (THB) gyártója", "A Castel Group tagja", "Központja Antananarivóban van", "Madagaszkár legnagyobb italgyártója", "Helyi árpát és kukoricát használ"],
       ro: ["Înființată în 1953", "Producătorul Three Horses Beer (THB)", "Parte a Grupului Castel", "Sediu în Antananarivo", "Lider în producția de băuturi", "Susține fermierii locali de cereale"],
       en: ["Founded in 1953", "Producer of Three Horses Beer (THB)", "Member of the Castel Group", "Located in Antananarivo", "Leading beverage manufacturer", "Sources barley and maize locally"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     facts: {
       de: ["Produziert THB-Bier", "Gründung 1953"],
       hu: ["THB sört gyárt", "1953-ban alapították"],
       ro: ["Produce berea THB", "Fondată în 1953"],
-      en: ["Produces THB beer", "Founded in 1953"]
+      en: ["Produces THB beer", "Founded in 1953"],
+      es: ["Produce cerveza THB", "Fundada en 1953"],
+      pt: ["Produz cerveja THB", "Fundada em 1953"],
+      fr: ["Produit la bière THB", "Fondée en 1953"],
     }, image: "/poi-images/star-brewery-tana-economic-v2.webp",
     
     
@@ -285,7 +357,10 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       de: "Ein bedeutender Zweigbetrieb der STAR-Brauereien, der von den hervorragenden Wasserquellen der Region profitiert.",
       hu: "A STAR sörfőzdék jelentős fióktelepe, amely a régió kiváló vízforrásaiból profitál.",
       ro: "O ramură importantă a fabricilor de bere STAR, beneficiind de izvoarele excelente de apă din regiune.",
-      en: "A major branch of the STAR breweries benefiting from the region's excellent water sources."
+      en: "A major branch of the STAR breweries benefiting from the region's excellent water sources.",
+      es: "Una importante sucursal de las cervecerías STAR que se beneficia de las excelentes fuentes de agua de la región.",
+      pt: "Uma importante filial das cervejarias STAR que beneficia das excelentes fontes de água da região.",
+      fr: "Une succursale importante des brasseries STAR, qui profite des excellentes sources d'eau de la région.",
     },
     descriptionAdvanced: {
       de: "Die STAR-Brauerei in Antsirabe ist eine der bedeutendsten Industrieanlagen Madagaskars und gehört zur Société Tananarivienne d'Articles Réfrigérés. Gegründet wurde das Unternehmen 1953, wobei die Brauerei in Antsirabe aufgrund der hervorragenden Wasserqualität der Region zum wichtigsten Produktionsstandort wurde. Hier wird unter anderem das berühmte Three Horses Beer (THB) gebraut, das als Nationalbier des Landes gilt. Die Anlage beschäftigt hunderte Mitarbeiter und nutzt moderne Abfülltechnologien, um den gesamten madagassischen Markt zu versorgen. Neben Bier produziert der Standort auch Erfrischungsgetränke unter internationalen Lizenzen. Die Brauerei spielt eine zentrale Rolle für die Wirtschaft der Vakinankaratra-Region und ist ein wichtiger Steuerzahler. In den letzten Jahren wurden erhebliche Investitionen in die Abwasserreinigung und Nachhaltigkeit getätigt, um den ökologischen Fußabdruck der Produktion zu minimieren.",
@@ -298,12 +373,18 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       hu: ["A STAR vállalatot 1953-ban alapították Madagaszkáron.", "Itt gyártják a híres Three Horses Beer (THB) márkát.", "A gyár Antsirabe vulkáni vízforrásait használja a termeléshez.", "A cég 2011 óta a francia Castel-csoport többségi tulajdonában van.", "A sörgyár mellett jelentős üdítőital-palackozó kapacitással bír.", "Az üzem a Vakinankaratra régió egyik legnagyobb adófizetője."],
       ro: ["Compania STAR a fost înființată în anul 1953.", "Produce Three Horses Beer (THB), simbolul național al Madagascarului.", "Locația din Antsirabe profită de calitatea apei vulcanice locale.", "Din 2011, fabrica face parte din portofoliul grupului francez Castel.", "Unitatea produce sub licență mărci internaționale de băuturi răcoritoare.", "Este un angajator strategic pentru sute de muncitori calificați din regiune."],
       en: ["The STAR company was established in 1953.", "It is the sole producer of the famous Three Horses Beer (THB).", "The brewery utilizes local volcanic water known for its purity.", "Since 2011, the company has been part of the French Castel Group.", "The facility also produces soft drinks under Coca-Cola licenses.", "It is a cornerstone of the industrial economy in the central highlands."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     facts: {
       de: ["Bekannt für Mineralwasser", "Wichtiger Arbeitgeber"],
       hu: ["Ásványvizéről ismert", "Jelentős munkáltató"],
       ro: ["Cunoscut pentru apa minerală", "Angajator major"],
-      en: ["Known for mineral water", "Major employer"]
+      en: ["Known for mineral water", "Major employer"],
+      es: ["Conocida por el agua mineral", "Importante empleador"],
+      pt: ["Conhecida pela água mineral", "Empregador importante"],
+      fr: ["Réputée pour son eau minérale", "Employeur important"],
     }, image: "/poi-images/star-brewery-antsirabe-economic-v2.webp",
     
     
@@ -319,7 +400,10 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       de: "Dieser regionale Hafen im Südwesten fertigt landwirtschaftliche Produkte und Fischereierzeugnisse ab.",
       hu: "Ez a délnyugati regionális kikötő mezőgazdasági és halászati termékeket kezel.",
       ro: "Acest port regional din sud-vest gestionează produse agricole și pescărești.",
-      en: "This regional port in the southwest handles agricultural and fishery products."
+      en: "This regional port in the southwest handles agricultural and fishery products.",
+      es: "Este puerto regional del suroeste procesa productos agrícolas y pesqueros.",
+      pt: "Este porto regional no sudoeste processa produtos agrícolas e pesqueiros.",
+      fr: "Ce port régional du sud-ouest traite des produits agricoles et halieutiques.",
     },
     descriptionAdvanced: {
       de: "Der Hafen von Toliara liegt an der Südwestküste Madagaskars und ist der wichtigste Handelsknotenpunkt für die Region Atsimo-Andrefana. Er wurde strategisch in einer geschützten Lagune errichtet, die durch das zweitlängste Korallenriff der Welt begrenzt wird. Der Hafen spielt eine entscheidende Rolle beim Export von landwirtschaftlichen Produkten wie Sisal, Mais, Baumwolle und Hülsenfrüchten, die im trockenen Hinterland angebaut werden. In den letzten Jahren hat seine Bedeutung durch die Entwicklung von Bergbauprojekten, insbesondere im Bereich der Mineralsande, erheblich zugenommen. Die Infrastruktur umfasst Kais für Küstenschiffe und Tiefwasserliegeplätze für größere Frachter, obwohl Versandung ein wiederkehrendes Problem darstellt. Als Tor zum südlichen Afrika und zum Indischen Ozean ist der Hafen für die Versorgung der lokalen Bevölkerung mit Importgütern unverzichtbar. Er ist zudem ein wichtiger Anlaufpunkt für die regionale Fischereiindustrie und bietet Treibstoffdepots für die Schifffahrt.",
@@ -332,12 +416,18 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       hu: ["Toliara Madagaszkár legfontosabb szizál-exportáló kikötője.", "A kikötő előtti korallzátony hossza meghaladja a 18 kilométert.", "A létesítményt már a gyarmati időkben jelentősen kibővítették.", "Az eliszapolódás miatt rendszeres kotrási munkálatokra van szükség.", "A kikötő az ilmenit és a cirkon bányászati exportjának bázisa.", "A kikötő az RN7-es főúton keresztül kapcsolódik a fővároshoz."],
       ro: ["Toliara este cel mai important port de export pentru sisal din țară.", "Reciful de corali din fața portului are o lungime de peste 18 km.", "Infrastructura portuară a fost modernizată semnificativ după 1960.", "Colmatarea necesită lucrări periodice de dragare a canalului de acces.", "Portul este esențial pentru proiectul minier de nisipuri Ranobe.", "Este conectat direct cu capitala prin drumul național RN7."],
       en: ["Toliara is the leading export terminal for Madagascar's sisal production.", "The Great Reef protecting the port spans over 18 kilometers.", "Port infrastructure underwent major expansion during the mid-20th century.", "Siltation requires frequent dredging to maintain vessel access.", "The port is a key logistics point for the Toliara Sands mineral project.", "It serves as the maritime terminus for the RN7 national highway."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     facts: {
       de: ["Dient dem Süden", "Wichtig für den Export"],
       hu: ["A déli részt szolgálja ki", "Fontos az export szempontjából"],
       ro: ["Deservește sudul", "Important pentru export"],
-      en: ["Serves the south", "Important for export"]
+      en: ["Serves the south", "Important for export"],
+      es: ["Sirve al sur", "Importante para la exportación"],
+      pt: ["Serve o sul", "Importante para a exportação"],
+      fr: ["Sert le sud", "Important pour l'exportation"],
     }, image: "/poi-images/toliara-port-economic-v2.webp",
     
     
@@ -353,7 +443,10 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       de: "Ein Traditionsunternehmen der Textilindustrie, das Baumwolle verarbeitet und Stoffe für den Binnen- und Exportmarkt herstellt.",
       hu: "A textilipar hagyományos vállalata, amely pamutot dolgoz fel és textíliákat gyárt a belföldi és exportpiacokra.",
       ro: "O companie tradițională din industria textilă care prelucrează bumbacul și produce țesături pentru piețele interne și de export.",
-      en: "A traditional textile industry company that processes cotton and produces fabrics for domestic and export markets."
+      en: "A traditional textile industry company that processes cotton and produces fabrics for domestic and export markets.",
+      es: "Una empresa tradicional de la industria textil que procesa algodón y fabrica tejidos para los mercados nacional y de exportación.",
+      pt: "Uma empresa tradicional da indústria têxtil que processa algodão e fabrica tecidos para os mercados interno e de exportação.",
+      fr: "Une entreprise traditionnelle de l'industrie textile qui transforme le coton et fabrique des tissus pour les marchés intérieur et d'exportation.",
     },
     descriptionAdvanced: {
       de: "Die COTONA (Cotonnière d'Antsirabe) ist eine der größten und ältesten Textilfabriken Madagaskars und befindet sich im industriellen Herzen von Antsirabe. Gegründet im Jahr 1955, hat sich das Unternehmen zu einem integrierten Textilkomplex entwickelt, der alle Produktionsstufen von der Baumwollverarbeitung über das Spinnen und Weben bis hin zum Färben und Veredeln umfasst. COTONA gehört zur Socota-Gruppe und ist für die hohe Qualität seiner Stoffe bekannt, die sowohl für den lokalen Markt als auch für den Export nach Europa und in die USA produziert werden. Die Fabrik nutzt die günstigen klimatischen Bedingungen und die Verfügbarkeit von Arbeitskräften in den Hochlandregionen. Mit tausenden Angestellten ist sie ein entscheidender Wirtschaftsfaktor für die Stadt Antsirabe. In den letzten Jahrzehnten hat das Unternehmen massiv in moderne Maschinen und ökologische Standards investiert, um im globalen Wettbewerb zu bestehen. Die Fabrik ist zudem ein Vorreiter bei sozialen Programmen für ihre Mitarbeiter.",
@@ -366,12 +459,18 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       hu: ["A COTONA-t 1955-ben alapították gyapotfonó üzemként.", "A gyár a Socota-csoport tagja, amely a régió egyik fő konszernje.", "Évente több mint 15 millió méter szövetet állítanak elő.", "Az üzem saját szennyvíztisztító teleppel rendelkezik a környezetvédelemért.", "A felhasznált gyapot egy részét közvetlenül Madagaszkáron termesztik.", "A vállalat ISO 9001 minőségirányítási tanúsítvánnyal rendelkezik."],
       ro: ["COTONA a fost înființată în 1955 ca filatură de bumbac.", "Fabrica aparține grupului Socota, un lider industrial regional.", "Capacitatea de producție depășește 15 milioane de metri de material anual.", "Unitatea dispune de propria stație de epurare a apelor industriale.", "O parte din materia primă provine din plantațiile locale de bumbac.", "Compania este certificată ISO 9001 pentru managementul calității."],
       en: ["COTONA was founded in 1955 as a cotton spinning mill.", "The factory is a key subsidiary of the Socota Group.", "Annual production capacity exceeds 15 million meters of fabric.", "The site features its own wastewater treatment plant for sustainability.", "Much of the raw cotton is sourced from Malagasy plantations.", "The company holds ISO 9001 certification for its production processes."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     facts: {
       de: ["Liegt in Antsirabe", "Gegründet im 20. Jahrhundert"],
       hu: ["Antsirabében található", "A 20. században alapították"],
       ro: ["Situată în Antsirabe", "Fondată în secolul al XX-lea"],
-      en: ["Located in Antsirabe", "Founded in the 20th century"]
+      en: ["Located in Antsirabe", "Founded in the 20th century"],
+      es: ["Se encuentra en Antsirabe", "Fundada en el siglo XX"],
+      pt: ["Localiza-se em Antsirabe", "Fundada no século XX"],
+      fr: ["Située à Antsirabe", "Fondée au XXe siècle"],
     }, image: "/poi-images/cotona-textile-economic-v2.webp",
     
     
@@ -387,7 +486,10 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       de: "Eine der wichtigsten Anlagen zur Verarbeitung von Zuckerrohr im nördlichen Teil der Insel.",
       hu: "Az egyik legfontosabb cukornád-feldolgozó létesítmény a sziget északi részén.",
       ro: "Una dintre cele mai importante unități de prelucrare a trestiei de zahăr din partea de nord a insulei.",
-      en: "One of the most important sugar cane processing facilities in the northern part of the island."
+      en: "One of the most important sugar cane processing facilities in the northern part of the island.",
+      es: "Una de las instalaciones más importantes para el procesamiento de caña de azúcar en la parte norte de la isla.",
+      pt: "Uma das instalações mais importantes para o processamento de cana-de-açúcar na parte norte da ilha.",
+      fr: "L'une des installations de transformation de la canne à sucre les plus importantes du nord de l'île.",
     },
     descriptionAdvanced: {
       de: "Die Zuckerfabrik in Ambilobe, betrieben von der SUCOMA, ist das wirtschaftliche Rückgrat der Region Diana im Norden Madagaskars. Die Anlage wurde in den 1970er Jahren im fruchtbaren Becken des Mahavavy-Flusses errichtet, wo das heiße und feuchte Klima ideale Bedingungen für den Zuckerrohranbau bietet. Die Fabrik ist ein riesiger Industriekomplex, der die Ernte von tausenden Hektar umliegender Plantagen verarbeitet. Der hier produzierte Zucker wird sowohl für den heimischen Markt als auch für den Export unter bevorzugten Quoten genutzt. Neben Kristallzucker produziert der Standort auch Melasse und Ethanol. Die Fabrik ist der größte Arbeitgeber im Norden des Landes und bietet Lebensgrundlagen für zehntausende Menschen in der Region. Trotz technischer Herausforderungen und der Notwendigkeit von Modernisierungen bleibt Ambilobe ein strategischer Standort für die madagassische Lebensmittelindustrie. Die Integration von Kleinbauern in die Lieferkette ist ein wichtiger Aspekt der lokalen Entwicklung.",
@@ -400,12 +502,18 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       hu: ["A gyárat ma a SUCOMA (Sucreries de la Côte Ouest) társaság üzemelteti.", "Az éves cukortermelés 20 000 és 30 000 tonna között mozog.", "A cukornádat több mint 10 000 hektáros területen termesztik.", "A gyár a Mahavavy-folyó vizét használja az ültetvények öntözésére.", "A betakarítási szezonban több ezer idénymunkást foglalkoztatnak.", "Az Ambilobéban előállított etanolt bioüzemanyagként is hasznosítják."],
       ro: ["Fabrica este operată în prezent de compania SUCOMA.", "Producția anuală de zahăr este estimată la 20.000-30.000 de tone.", "Trestia de zahăr este cultivată pe o suprafață de peste 10.000 de hectare.", "Unitatea utilizează apele râului Mahavavy pentru irigații masive.", "În timpul sezonului de recoltare, numărul angajaților crește semnificativ.", "Etanolul produs aici este o sursă importantă de energie regenerabilă locală."],
       en: ["The factory is currently managed by SUCOMA (Sucreries de la Côte Ouest).", "Annual sugar production ranges from 20,000 to 30,000 metric tons.", "Sugarcane is grown on a dedicated area exceeding 10,000 hectares.", "The Mahavavy River provides essential water for plantation irrigation.", "Thousands of seasonal workers are employed during the harvest cycle.", "The facility produces ethanol used for both industrial and fuel purposes."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     facts: {
       de: ["Liegt im Flusstal des Mahavavy", "Stärkt die lokale Landwirtschaft"],
       hu: ["A Mahavavy folyó völgyében fekszik", "Erősíti a helyi mezőgazdaságot"],
       ro: ["Situată în valea râului Mahavavy", "Sprijină agricultura locală"],
-      en: ["Located in the Mahavavy river valley", "Boosts local agriculture"]
+      en: ["Located in the Mahavavy river valley", "Boosts local agriculture"],
+      es: ["Se encuentra en el valle del río Mahavavy", "Fortalece la agricultura local"],
+      pt: ["Localiza-se no vale do rio Mahavavy", "Fortalece a agricultura local"],
+      fr: ["Située dans la vallée du fleuve Mahavavy", "Renforce l'agriculture locale"],
     }, image: "/poi-images/ambilobe-sugar-economic-v2.webp",
     
     
@@ -421,7 +529,10 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       de: "Ein entscheidender Zulieferer für die Bauindustrie auf Madagaskar, der lokal abgebauten Kalkstein verwendet.",
       hu: "A madagaszkári építőipar kulcsfontosságú beszállítója, amely helyben bányászott mészkövet használ.",
       ro: "Un furnizor crucial pentru industria construcțiilor din Madagascar, utilizând calcar extras local.",
-      en: "A crucial supplier to the Malagasy construction industry, utilizing locally mined limestone."
+      en: "A crucial supplier to the Malagasy construction industry, utilizing locally mined limestone.",
+      es: "Un proveedor crucial para la industria de la construcción en Madagascar, que utiliza piedra caliza extraída localmente.",
+      pt: "Um fornecedor crucial para a indústria da construção em Madagáscar, que utiliza calcário extraído localmente.",
+      fr: "Un fournisseur crucial pour l'industrie de la construction à Madagascar, utilisant du calcaire extrait localement.",
     },
     descriptionAdvanced: {
       de: "Das Zementwerk Holcim in Ibity, in der Nähe von Antsirabe, ist die größte und wichtigste Produktionsstätte für Baustoffe in Madagaskar. Die Anlage nutzt die riesigen Kalksteinvorkommen des Ibity-Massivs, um hochwertigen Zement für die nationale Bauwirtschaft herzustellen. Das Werk ist ein Schlüsselakteur für die Infrastrukturentwicklung des Landes, da es einen Großteil des Bedarfs an Portlandzement deckt. Unter dem Markennamen 'Orimbato' ist der hier produzierte Zement überall auf der Insel bekannt. Das Werk verfügt über einen massiven Drehrohrofen und moderne Mahlanlagen, die eine effiziente Produktion ermöglichen. Holcim Madagascar hat in den letzten Jahren stark in die Reduzierung von CO2-Emissionen und in die Nutzung alternativer Brennstoffe investiert. Die Fabrik ist nicht nur ein bedeutender Arbeitgeber, sondern unterstützt auch zahlreiche lokale Gemeinschaftsprojekte in der Vakinankaratra-Region. Ohne diese Anlage wäre Madagaskar vollständig auf teure Zementimporte angewiesen.",
@@ -434,12 +545,18 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       hu: ["Az ibity-i üzemet az 1970-es években helyezték üzembe.", "Az éves termelési kapacitás körülbelül 160 000 tonna cement.", "A legismertebb cementmárka, amelyet itt gyártanak, az 'Orimbato'.", "A mészkövet közvetlenül az Ibity-masszívumban, külszíni fejtéssel bányásszák.", "A Holcim biomasszát (például rizshéjat) használ alternatív üzemanyagként.", "Az üzem a legfontosabb beszállítója az állami út- és hídépítési projekteknek."],
       ro: ["Uzina din Ibity a fost pusă în funcțiune în deceniul 1970.", "Capacitatea anuală de producție este de aproximativ 160.000 de tone de ciment.", "Principalul brand de ciment comercializat este 'Orimbato'.", "Calcarul este extras direct din masivul Ibity prin exploatare la suprafață.", "Holcim utilizează biomasă (precum coji de orez) ca sursă alternativă de energie.", "Fabrica este furnizorul principal pentru marile proiecte de infrastructură națională."],
       en: ["The Ibity plant commenced operations in the 1970s.", "Its annual production capacity is approximately 160,000 metric tons of cement.", "The facility's primary commercial brand is 'Orimbato'.", "Limestone is sourced directly from an adjacent open-pit quarry in the Ibity Massif.", "The plant integrates biomass, such as rice husks, into its fuel mix to reduce emissions.", "It is the primary domestic supplier for national road and bridge construction."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     facts: {
       de: ["Wichtigstes Zementwerk", "Teil einer globalen Gruppe"],
       hu: ["Legfontosabb cementgyár", "Egy globális csoport része"],
       ro: ["Cea mai importantă fabrică de ciment", "Parte a unui grup global"],
-      en: ["Main cement plant", "Part of a global group"]
+      en: ["Main cement plant", "Part of a global group"],
+      es: ["Fábrica de cemento más importante", "Parte de un grupo global"],
+      pt: ["Fábrica de cimento mais importante", "Parte de um grupo global"],
+      fr: ["Principale cimenterie", "Fait partie d'un groupe mondial"],
     }, image: "/poi-images/holcim-cement-ibity-economic-v2.webp",
     
     
@@ -455,7 +572,10 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       de: "Die einzige Anlage dieser Art im Land, die für die Verarbeitung importierten Rohöls und die Versorgung mit Kraftstoffen zuständig ist.",
       hu: "Az ország egyetlen ilyen jellegű létesítménye, amely az importált nyersolaj feldolgozásáért és az üzemanyag-ellátásért felelős.",
       ro: "Singura instalație de acest gen din țară, responsabilă cu procesarea țițeiului importat și furnizarea de combustibili.",
-      en: "The only facility of its kind in the country, responsible for processing imported crude oil and supplying fuels."
+      en: "The only facility of its kind in the country, responsible for processing imported crude oil and supplying fuels.",
+      es: "La única planta de este tipo en el país, responsable del procesamiento de petróleo crudo importado y del suministro de combustibles.",
+      pt: "A única instalação deste tipo no país, responsável pelo processamento de petróleo bruto importado e pelo fornecimento de combustíveis.",
+      fr: "La seule installation de ce type dans le pays, responsable du raffinage du pétrole brut importé et de l'approvisionnement en carburants.",
     },
     descriptionAdvanced: {
       de: "Die Galana-Raffinerie in Toamasina ist die einzige Erdölraffinerie Madagaskars und ein strategischer Eckpfeiler der nationalen Energieversorgung. Sie wurde ursprünglich 1970 als Société Malgache de Raffinage (SRE) gegründet und im Jahr 2000 privatisiert, wobei sie in die Galana-Gruppe überging. Die Anlage befindet sich in unmittelbarer Nähe zum Haupthafen des Landes, was den Import von Rohöl und den Export von Fertigprodukten erleichtert. Die Raffinerie verarbeitet verschiedene Erdölfraktionen zu Benzin, Diesel, Kerosin und Heizöl für den Inlandsmarkt. Neben der eigentlichen Raffination dient der Standort als massives Terminal für die Lagerung von strategischen Ölreserven. Galana spielt eine entscheidende Rolle bei der Stabilisierung der Kraftstoffpreise und der Sicherstellung der Treibstoffverfügbarkeit auf der gesamten Insel. In den letzten Jahren wurden die Lagerkapazitäten erweitert, um der wachsenden Nachfrage im Transportsektor gerecht zu werden. Die Sicherheit und Umweltüberwachung am Standort unterliegen strengen internationalen Protokollen.",
@@ -468,12 +588,18 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       hu: ["A finomítót 1970-ben nyitották meg állami vállalatként (SRE).", "A privatizáció 2000-ben történt a Galana-csoport által.", "A tárolótartályok teljes kapacitása körülbelül 350 000 köbméter.", "Ez az egyetlen ilyen jellegű ipari létesítmény egész Madagaszkáron.", "A finomító biztosítja az ország szinte teljes repülőgép-üzemanyag igényét.", "2016-ban a Galanát felvásárolta a francia Rubis-csoport."],
       ro: ["Rafinăria a fost inaugurată în 1970 ca întreprindere de stat (SRE).", "Privatizarea a avut loc în anul 2000 prin intermediul grupului Galana.", "Capacitatea totală de stocare a rezervoarelor este de circa 350.000 mc.", "Este singura unitate industrială de acest tip din întreg Madagascarul.", "Unitatea furnizează aproape tot necesarul de combustibil pentru aviație.", "În 2016, Galana a fost achiziționată de grupul francez Rubis."],
       en: ["The refinery opened in 1970 as the state-owned SRE.", "It was privatized in 2000 and acquired by the Galana Group.", "The total storage tank capacity is approximately 350,000 cubic meters.", "This is the only industrial petroleum processing facility in Madagascar.", "The refinery produces nearly all of the country's aviation turbine fuel.", "In 2016, Galana was acquired by the French energy company Rubis."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     facts: {
       de: ["Befindet sich in Toamasina", "Strategische Infrastruktur"],
       hu: ["Toamasinában található", "Stratégiai infrastruktúra"],
       ro: ["Situată în Toamasina", "Infrastructură strategică"],
-      en: ["Located in Toamasina", "Strategic infrastructure"]
+      en: ["Located in Toamasina", "Strategic infrastructure"],
+      es: ["Se encuentra en Toamasina", "Infraestructura estratégica"],
+      pt: ["Localiza-se em Toamasina", "Infraestrutura estratégica"],
+      fr: ["Située à Toamasina", "Infrastructure stratégique"],
     }, image: "/poi-images/galana-refinery-economic-v2.webp",
     
     
@@ -489,7 +615,10 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       de: "Ein kleiner, aber essentieller Küstenhafen, der den Menabe-Bezirk mit wichtigen Gütern versorgt.",
       hu: "Egy kis, de létfontosságú part menti kikötő, amely alapvető árukkal látja el a Menabe régiót.",
       ro: "Un port de coastă mic, dar esențial, care aprovizionează regiunea Menabe cu bunuri de bază.",
-      en: "A small but essential coastal port supplying the Menabe region with essential goods."
+      en: "A small but essential coastal port supplying the Menabe region with essential goods.",
+      es: "Un puerto costero pequeño pero esencial que suministra bienes importantes al distrito de Menabe.",
+      pt: "Um porto costeiro pequeno mas essencial que abastece o distrito de Menabe com bens importantes.",
+      fr: "Un petit port côtier, mais essentiel, qui approvisionne le district de Menabe en marchandises importantes.",
     },
     descriptionAdvanced: {
       de: "Der Hafen von Morondava an der Westküste Madagaskars ist der zentrale Wirtschaftsknotenpunkt der Menabe-Region. Er dient traditionell als wichtiger Umschlagplatz für landwirtschaftliche Güter und ist das Herz der lokalen Fischereiindustrie. Eine Besonderheit des Hafens ist die Flotte von traditionellen Holzsegelschiffen, den sogenannten Boutres, die den Transport entlang der Küste dominieren, wo Straßen oft unpassierbar sind. Morondava ist zudem ein bedeutender Standort für den Export von Wildgarnelen, die in den nährstoffreichen Gewässern des Mosambik-Kanals gefangen werden. Der Hafen ist durch eine sandige Barre geschützt, was die Zufahrt für große Seeschiffe einschränkt und regelmäßige Ausbaggerungen erfordert. Trotz dieser geografischen Hürden bleibt er lebenswichtig für die Versorgung der Region mit Treibstoff und Baumaterialien. Der Hafenbereich ist auch ein kultureller Treffpunkt, an dem die maritime Tradition der Sakalava lebendig bleibt. Zukünftige Ausbaupläne zielen darauf ab, den Tourismus und die Logistik besser miteinander zu verknüpfen.",
@@ -502,12 +631,18 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       hu: ["Morondava a 'Pêcheries de Nosy Be' vállalat garnélahalászatának bázisa.", "A kikötő hagyományos vitorlásokat (boutre) használ a part menti szállításra.", "A Hellot-csatorna eliszapolódása állandó logisztikai problémát jelent.", "Főként rizst, kukoricát és szárított halat exportálnak innen.", "A kikötő a Menabe régió legfontosabb ellátási központja.", "A tengeri infrastruktúra alapjait már a gyarmati korszakban lefektették."],
       ro: ["Morondava este baza operațională pentru pescuitul de creveți al 'Pêcheries de Nosy Be'.", "Portul utilizează bărci tradiționale cu pânze (boutres) pentru cabotaj.", "Colmatarea canalului Hellot reprezintă o problemă logistică permanentă.", "Principalele produse exportate sunt orezul, porumbul și peștele uscat.", "Este principalul punct de aprovizionare pentru întreaga regiune Menabe.", "Infrastructura maritimă datează în mare parte din perioada colonială."],
       en: ["Morondava serves as the base for the 'Pêcheries de Nosy Be' shrimp fleet.", "The port relies on traditional dhows (boutres) for regional coastal trade.", "Siltation of the Hellot Channel is a persistent challenge for larger vessels.", "Key exports include rice, maize, and high-quality dried fish.", "The port is the primary logistics gateway for the Menabe administrative region.", "Maritime infrastructure was first established during the colonial era."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     facts: {
       de: ["Fischerei- und Handelszentrum", "Liegt am Kanal von Mosambik"],
       hu: ["Halászati és kereskedelmi központ", "A Mozambiki-csatornánál fekszik"],
       ro: ["Centru de pescuit și comerț", "Situat pe Canalul Mozambic"],
-      en: ["Fishing and trade center", "Located on the Mozambique Channel"]
+      en: ["Fishing and trade center", "Located on the Mozambique Channel"],
+      es: ["Centro pesquero y comercial", "Situado en el canal de Mozambique"],
+      pt: ["Centro de pesca e comércio", "Localizado no canal de Moçambique"],
+      fr: ["Centre de pêche et de commerce", "Situé sur le canal du Mozambique"],
     }, image: "/poi-images/morondava-port-economic-v2.webp",
     
     
@@ -523,7 +658,10 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       de: "Eine historische Destillerie auf der Insel Nosy Be, berühmt für die Herstellung traditioneller Rumsorten aus lokalem Zuckerrohr.",
       hu: "Egy történelmi lepárlóüzem Nosy Be szigetén, amely a helyi cukornádból készült hagyományos rumokról híres.",
       ro: "O distilerie istorică pe insula Nosy Be, renumită pentru producția de romuri tradiționale din trestie de zahăr locală.",
-      en: "A historic distillery on the island of Nosy Be, famous for producing traditional rums from local sugar cane."
+      en: "A historic distillery on the island of Nosy Be, famous for producing traditional rums from local sugar cane.",
+      es: "Una destilería histórica en la isla de Nosy Be, famosa por la producción de rones tradicionales a partir de caña de azúcar local.",
+      pt: "Uma destilaria histórica na ilha de Nosy Be, famosa pela produção de runs tradicionais a partir de cana-de-açúcar local.",
+      fr: "Une distillerie historique sur l'île de Nosy Be, célèbre pour la production de rhums traditionnels à partir de canne à sucre locale.",
     },
     descriptionAdvanced: {
       de: "Die Dzamandzar-Rum-Fabrik auf der Insel Nosy Be ist eine der geschichtsträchtigsten Industrieanlagen Madagaskars. Gegründet in den 1920er Jahren, war sie ursprünglich das Herzstück einer riesigen Zuckerrohrplantage, die die gesamte Wirtschaft der Insel dominierte. Heute ist der Standort weltbekannt für die Herstellung des 'Dzama Rum', der als einer der besten Rumsorten des Indischen Ozeans gilt. Die Fabrik nutzt traditionelle Destillationsmethoden und profitiert von dem einzigartigen Terroir von Nosy Be, wo Ylang-Ylang- und Vanilleplantagen den Boden und das Klima prägen. Der Rum wird in Eichenfässern gelagert, was ihm sein charakteristisches Aroma verleiht. Dzamandzar ist nicht nur eine Produktionsstätte, sondern auch ein wichtiges Industriedenkmal, das den Übergang von der Kolonialwirtschaft zur modernen Spirituosenindustrie dokumentiert. Die Fabrik trägt wesentlich zum Export Madagaskars bei und ist ein fester Bestandteil der touristischen Identität von Nosy Be. Die Marke Dzama hat international zahlreiche Preise für ihre Qualität und Reinheit gewonnen.",
@@ -536,12 +674,18 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       hu: ["A gyárat 1920 körül, a francia gyarmati időszakban alapították.", "A 'Dzama' név Dzamandzar település nevéből származik.", "Régebben Nosy Be szigetét szinte teljesen a gyár cukornádja borította.", "A Dzama rumot a világ több mint 15 országába exportálják.", "Az érlelés gyakran olyan hordókban történik, amelyekben korábban whiskyt tároltak.", "Dzamandzar Madagaszkár legrégebbi, ma is működő lepárlóüzeme."],
       ro: ["Fabrica a fost înființată în jurul anului 1920, în perioada colonială franceză.", "Numele 'Dzama' este o prescurtare a localității Dzamandzar.", "În trecut, Nosy Be era acoperită aproape integral de trestia pentru această fabrică.", "Romul Dzama este exportat în peste 15 țări din întreaga lume.", "Maturarea are loc adesea în butoaie care au conținut anterior whisky.", "Dzamandzar este cea mai veche distilerie activă din Madagascar."],
       en: ["The factory was established around 1920 during the French colonial era.", "The brand name 'Dzama' is derived from the village name, Dzamandzar.", "In the past, Nosy Be was almost entirely covered in sugarcane for the mill.", "Dzama Rum is currently exported to over 15 countries worldwide.", "The rum is often aged in barrels previously used for Scotch whisky.", "Dzamandzar remains the oldest continuously operating distillery in Madagascar."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     facts: {
       de: ["Gegründet im 19. Jahrhundert", "Verarbeitet Ylang-Ylang-Essenzen"],
       hu: ["A 19. században alapították", "Ylang-ylang esszenciákat is feldolgoz"],
       ro: ["Fondată în secolul al XIX-lea", "Procesează esențe de ylang-ylang"],
-      en: ["Founded in the 19th century", "Processes ylang-ylang essences"]
+      en: ["Founded in the 19th century", "Processes ylang-ylang essences"],
+      es: ["Fundada en el siglo XIX", "Procesa esencias de Ylang-Ylang"],
+      pt: ["Fundada no século XIX", "Processa essências de Ylang-Ylang"],
+      fr: ["Fondée au XIXe siècle", "Transforme des essences d'Ylang-Ylang"],
     }, image: "/poi-images/dzamandzar-rum-economic-v2.webp",
     
     
@@ -557,7 +701,10 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       de: "Der alte Hafen der Stadt im tiefen Süden Madagaskars, der nach und nach durch modernere Anlagen ergänzt wurde.",
       hu: "A város régi kikötője Madagaszkár mély déli részén, amelyet fokozatosan kiegészítettek modernebb létesítményekkel.",
       ro: "Vechiul port al orașului din sudul profund al Madagascarului, completat treptat de facilități mai moderne.",
-      en: "The old port of the town in the deep south of Madagascar, gradually complemented by more modern facilities."
+      en: "The old port of the town in the deep south of Madagascar, gradually complemented by more modern facilities.",
+      es: "El antiguo puerto de la ciudad, en el extremo sur de Madagascar, que ha sido complementado gradualmente por instalaciones más modernas.",
+      pt: "O antigo porto da cidade, no extremo sul de Madagáscar, que foi gradualmente complementado por instalações mais modernas.",
+      fr: "L'ancien port de la ville, à l'extrême sud de Madagascar, qui a été progressivement complété par des installations plus modernes.",
     },
     descriptionAdvanced: {
       de: "Der Hafen von Tolagnaro (Ehoala Port) ist der modernste Tiefwasserhafen Madagaskars und liegt an der Südostspitze der Insel. Er wurde 2009 fertiggestellt, primär um den Export von Ilmenit aus dem nahegelegenen QMM-Bergbauprojekt (Rio Tinto) zu ermöglichen. Der Hafen verfügt über eine Wassertiefe von 15 Metern, was ihn für große Frachtschiffe und Kreuzfahrtschiffe zugänglich macht, die andere madagassische Häfen nicht anlaufen können. Ehoala ist ein Vorzeigeprojekt für öffentlich-private Partnerschaften und wird von einer Tochtergesellschaft der Bolloré-Gruppe verwaltet. Neben dem Bergbau dient der Hafen der regionalen Entwicklung der Anosy-Region, indem er den Import von Lebensmitteln und Treibstoff beschleunigt. Die Infrastruktur umfasst moderne Terminals für Container und Massengut sowie eine Freihandelszone, die Investoren anlocken soll. Durch seine strategische Lage am Indischen Ozean hat der Hafen das Potenzial, sich zu einem wichtigen Logistikzentrum für den regionalen Handel zu entwickeln.",
@@ -570,12 +717,18 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       hu: ["Az Ehoala kikötőt hivatalosan 2009-ben avatták fel.", "Az építési költségek körülbelül 260 millió dollárt tettek ki.", "15 méteres mélységével ez Madagaszkár legmélyebb kikötője.", "Zöldmezős beruházásként, korábban beépítetlen területen jött létre.", "A kikötőt a Port d'Ehoala SA vállalat üzemelteti.", "Ez az ilmenit ásvány exportjának legfontosabb csomópontja."],
       ro: ["Portul Ehoala a fost inaugurat oficial în anul 2009.", "Costurile de construcție s-au ridicat la aproximativ 260 de milioane USD.", "Cu o adâncime de 15 metri, este cel mai profund port din Madagascar.", "A fost construit ca port 'greenfield' pe un teren anterior neexploatat.", "Administrarea portului este asigurată de compania Port d'Ehoala SA.", "Este principalul punct de expediție pentru mineralul ilmenit."],
       en: ["Ehoala Port was officially inaugurated in 2009.", "Construction costs totaled approximately 260 million USD.", "With a 15-meter draft, it is the deepest port in Madagascar.", "The facility was built as a 'greenfield' port on undeveloped land.", "The port is managed by the private operator Port d'Ehoala SA.", "It serves as the main export terminal for ilmenite mineral sands."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     facts: {
       de: ["Wichtig für lokalen Handel", "Alte Infrastruktur"],
       hu: ["Fontos a helyi kereskedelem számára", "Régi infrastruktúra"],
       ro: ["Important pentru comerțul local", "Infrastructură veche"],
-      en: ["Important for local trade", "Old infrastructure"]
+      en: ["Important for local trade", "Old infrastructure"],
+      es: ["Importante para el comercio local", "Infraestructura antigua"],
+      pt: ["Importante para o comércio local", "Infraestrutura antiga"],
+      fr: ["Important pour le commerce local", "Ancienne infrastructure"],
     }, image: "/poi-images/tolanaro-port-economic-v2.webp",
     
     
@@ -591,7 +744,10 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       de: "Ein großes Bergbauvorhaben zur Erschließung von Schwermineralsanden wie Zirkon und Rutil in der südwestlichen Küstenregion.",
       hu: "Egy nagy bányászati projekt a nehéz ásványi homok, például a cirkon és a rutil feltárására a délnyugati part menti régióban.",
       ro: "Un proiect minier major pentru exploatarea nisipurilor de minerale grele, cum ar fi zirconul și rutilul, în regiunea de coastă sud-vestică.",
-      en: "A major mining project for the exploitation of heavy mineral sands like zircon and rutile in the southwestern coastal region."
+      en: "A major mining project for the exploitation of heavy mineral sands like zircon and rutile in the southwestern coastal region.",
+      es: "Un gran proyecto minero para el desarrollo de arenas minerales pesadas como el circón y el rutilo en la región costera del suroeste.",
+      pt: "Um grande projeto mineiro para o desenvolvimento de areias minerais pesadas, como zircão e rutilo, na região costeira do sudoeste.",
+      fr: "Un projet minier majeur pour l'exploitation de sables minéralisés lourds tels que le zircon et le rutile dans la région côtière du sud-ouest.",
     },
     descriptionAdvanced: {
       de: "Das Toliara-Sands-Projekt, auch bekannt als Ranobe-Projekt, ist eines der bedeutendsten Bergbauvorhaben im Südwesten Madagaskars. Es zielt auf den Abbau massiver Vorkommen von Mineralsanden ab, die reich an Ilmenit, Zirkon und Rutil sind. Das Projekt wird von der australischen Firma Base Resources geleitet und befindet sich etwa 40 Kilometer nördlich von Toliara. Es wird erwartet, dass das Vorhaben über seine geplante Laufzeit von mehr als 30 Jahren Milliarden an Exporterlösen und Steuern generiert. Die industrielle Erschließung umfasst den Bau von spezialisierten Aufbereitungsanlagen und einer neuen Exportinfrastruktur an der Küste. Trotz seines enormen wirtschaftlichen Potenzials ist das Projekt aufgrund ökologischer Bedenken und sozialer Spannungen mit lokalen Gemeinschaften umstritten. Die Regierung Madagaskars sieht darin jedoch einen entscheidenden Motor für das Wirtschaftswachstum und die Modernisierung des Bergbausektors. Umfangreiche Umweltverträglichkeitsprüfungen und Sozialpläne sollen die Auswirkungen auf die Region minimieren.",
@@ -604,12 +760,18 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       hu: ["A projekt a Ranobe nevű lelőhelyre összpontosít.", "A homok nehézásvány-tartalma körülbelül 10-12 százalék.", "A bánya tervezett élettartama körülbelül 33 év.", "A Base Resources több mint 600 millió dolláros beruházást tervez.", "A fő termékek az ilmenit (titán-dioxid) és a cirkon.", "A projekt egy új kiviteli móló megépítését irányozza elő Monombóban."],
       ro: ["Proiectul se concentrează pe zăcământul de la Ranobe.", "Conținutul de minerale grele din nisip este de aproximativ 10-12%.", "Durata de viață estimată a minei este de circa 33 de ani.", "Base Resources estimează investiții de peste 600 de milioane USD.", "Principalele produse sunt ilmenitul (dioxid de titan) și zirconul.", "Planul include construcția unui nou terminal de export la Monombo."],
       en: ["The project focuses on the large-scale Ranobe mineral deposit.", "The heavy mineral concentration in the sands is roughly 10-12 percent.", "The estimated operational life of the mine is 33 years.", "Base Resources anticipates a total investment exceeding 600 million USD.", "Primary outputs include high-grade ilmenite and zircon.", "Plans include the construction of a new export jetty at Monombo."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     facts: {
       de: ["Internationale Investitionen", "Kontroverse Umweltauswirkungen"],
       hu: ["Nemzetközi befektetések", "Vitatott környezeti hatások"],
       ro: ["Investiții internaționale", "Impacturi ecologice controversate"],
-      en: ["International investments", "Controversial environmental impacts"]
+      en: ["International investments", "Controversial environmental impacts"],
+      es: ["Inversiones internacionales", "Impactos ambientales controvertidos"],
+      pt: ["Investimentos internacionais", "Impactos ambientais controversos"],
+      fr: ["Investissements internationaux", "Impacts environnementaux controversés"],
     }, image: "/poi-images/toliara-sands-economic-v2.webp",
     
     
@@ -625,7 +787,10 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       de: "Ein Traditionsbetrieb, der seit Jahrzehnten Reinigungsmittel und Körperpflegeprodukte für den madagassischen Markt herstellt.",
       hu: "Egy hagyományos vállalat, amely évtizedek óta gyárt tisztítószereket és testápoló termékeket a madagaszkári piacra.",
       ro: "O companie tradițională care produce de zeci de ani detergenți și produse de îngrijire personală pentru piața malgașă.",
-      en: "A traditional company producing detergents and personal care products for the Malagasy market for decades."
+      en: "A traditional company producing detergents and personal care products for the Malagasy market for decades.",
+      es: "Una empresa tradicional que fabrica detergentes y productos de cuidado personal para el mercado malgache desde hace décadas.",
+      pt: "Uma empresa tradicional que fabrica detergentes e produtos de cuidados pessoais para o mercado malgaxe há décadas.",
+      fr: "Une entreprise traditionnelle qui fabrique depuis des décennies des produits de nettoyage et de soins corporels pour le marché malgache.",
     },
     descriptionAdvanced: {
       de: "Die Savonnerie Tropicale ist eine traditionsreiche Seifenfabrik in Antananarivo, die im Jahr 1967 gegründet wurde. Sie gilt als Pionier der madagassischen Kosmetikindustrie und ist bekannt für die Herstellung hochwertiger Seifen auf Basis natürlicher Inhaltsstoffe wie Kokosnussöl und ätherischer Öle. Das Unternehmen spielt eine entscheidende Rolle in der nationalen Wirtschaft und exportiert seine zertifizierten Bio-Produkte erfolgreich auf den europäischen Markt. In den letzten Jahrzehnten hat sich die Fabrik auf ökologische Produktionsmethoden spezialisiert, um internationalen Standards gerecht zu werden. Die Anlage verfügt über moderne Extraktionssysteme für Essenzen, die direkt aus der vielfältigen Flora Madagaskars gewonnen werden. Als einer der stabilsten Arbeitgeber der Hauptstadt sichert der Betrieb den Lebensunterhalt für hunderte Familien und fördert die lokale Wertschöpfungskette durch den Aufkauf regionaler Rohstoffe.",
@@ -638,12 +803,18 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       hu: ["1967-ben alapították Antananarivóban", "Bio szappanok és illóolajok gyártására szakosodott", "Jelentős exportőr Európa és Réunion irányába", "Kizárólag természetes madagaszkári nyersanyagokat használ", "Nemzetközi ökológiai tanúsítványokkal rendelkezik", "Több száz helyi munkavállalót foglalkoztat a fővárosban"],
       ro: ["Fondată în anul 1967 în Antananarivo", "Specializată în săpunuri organice și uleiuri esențiale", "Exportator major către Europa și insula Réunion", "Utilizează exclusiv materii prime naturale malgașe", "Certificată conform standardelor ecologice internaționale", "Asigură locuri de muncă pentru sute de angajați locali"],
       en: ["Founded in 1967 in Antananarivo", "Specializes in organic soaps and essential oils", "Major exporter to Europe and Reunion Island", "Uses exclusively natural Malagasy raw materials", "Certified under international ecological standards", "Employs hundreds of workers in the capital region"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     facts: {
       de: ["Lokal verwurzelte Marke", "Großteil der Seifenproduktion"],
       hu: ["Helyi gyökerű márka", "A szappangyártás nagy része"],
       ro: ["Marcă cu rădăcini locale", "Majoritatea producției de săpun"],
-      en: ["Locally rooted brand", "Majority of soap production"]
+      en: ["Locally rooted brand", "Majority of soap production"],
+      es: ["Marca arraigada localmente", "Gran parte de la producción de jabón"],
+      pt: ["Marca com raízes locais", "Grande parte da produção de sabão"],
+      fr: ["Marque localement ancrée", "Grande partie de la production de savon"],
     }, image: "/poi-images/savonnerie-tropicale-economic-v2.webp",
     
     
@@ -659,7 +830,10 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       de: "Einer der bekanntesten Hersteller von Keksen, Schokolade und anderen Süßigkeiten in Antananarivo.",
       hu: "A kekszek, csokoládék és egyéb édességek egyik legismertebb gyártója Antananarivóban.",
       ro: "Unul dintre cei mai renumiți producători de biscuiți, ciocolată și alte dulciuri din Antananarivo.",
-      en: "One of the best-known manufacturers of biscuits, chocolate and other sweets in Antananarivo."
+      en: "One of the best-known manufacturers of biscuits, chocolate and other sweets in Antananarivo.",
+      es: "Uno de los fabricantes más conocidos de galletas, chocolate y otros dulces en Antananarivo.",
+      pt: "Um dos fabricantes mais conhecidos de bolachas, chocolate e outros doces em Antananarivo.",
+      fr: "L'un des fabricants de biscuits, de chocolat et d'autres sucreries les plus connus à Antananarivo.",
     },
     descriptionAdvanced: {
       de: "Die JB Confectionery Factory, oft als Biscuits JB bekannt, ist einer der führenden Lebensmittelhersteller Madagaskars mit Sitz in Antananarivo. Das Unternehmen wurde in seiner heutigen industriellen Form in den 1990er Jahren ausgebaut und hat sich seitdem zum Marktführer im Bereich Backwaren und Süßwaren entwickelt. Die Fabrik produziert eine breite Palette an Keksen, Waffeln und Bonbons, die im ganzen Land als Grundnahrungsmittel und Snacks verbreitet sind. Dank moderner Produktionslinien und strenger Qualitätskontrollen konnte JB die Abhängigkeit Madagaskars von importierten Süßwaren drastisch reduzieren. Die Marke ist tief in der lokalen Kultur verwurzelt und für ihre charakteristischen gelben Verpackungen bekannt. Neben der Deckung des Inlandsbedarfs exportiert das Unternehmen seine Produkte auch in benachbarte Inselstaaten im Indischen Ozean. Als Großbetrieb leistet die Fabrik einen erheblichen Beitrag zum Bruttoinlandsprodukt der Industrieregion Analamanga.",
@@ -672,12 +846,18 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       hu: ["Piacvezető Madagaszkár keksz- és édességpiacán", "Az 1990-es évek elején vált nagyüzemi vállalattá", "Székhelye Antananarivo ipari negyedében található", "Évente több ezer tonna pékárut állít elő", "Jelentős exportőr a Comore-szigetekre és Mauritiusra", "Ikonikus sárga csomagolásáról ismert márka"],
       ro: ["Lider de piață pentru biscuiți și dulciuri în Madagascar", "Extins la scară industrială la începutul anilor 1990", "Sediul se află în zona industrială din Antananarivo", "Produce anual câteva mii de tone de produse de panificație", "Exportator important către Comore și Mauritius", "Marcă recunoscută după ambalajul galben iconic"],
       en: ["Market leader for biscuits and sweets in Madagascar", "Expanded to industrial scale in the early 1990s", "Headquartered in the industrial zone of Antananarivo", "Produces several thousand tons of bakery goods annually", "Key exporter to the Comoros and Mauritius", "Known for its iconic yellow brand packaging"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     facts: {
       de: ["Beliebt bei Kindern", "Nationale Vertriebskanäle"],
       hu: ["Népszerű a gyerekek körében", "Országos értékesítési csatornák"],
       ro: ["Popular printre copii", "Canale naționale de distribuție"],
-      en: ["Popular with children", "National distribution channels"]
+      en: ["Popular with children", "National distribution channels"],
+      es: ["Popular entre los niños", "Canales de distribución nacionales"],
+      pt: ["Popular entre as crianças", "Canais de distribuição nacionais"],
+      fr: ["Populaire auprès des enfants", "Canaux de distribution nationaux"],
     }, image: "/poi-images/jb-confectionery-economic-v2.webp",
     
     
@@ -693,7 +873,10 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       de: "Ein bedeutendes Onshore-Schwerölfeld, das mithilfe von Dampfinjektionsverfahren erschlossen wird.",
       hu: "Jelentős szárazföldi nehézolajmező, amelyet gőzbefecskendezéses technikával termelnek ki.",
       ro: "Un câmp petrolier onshore semnificativ, exploatat folosind tehnici de injecție cu abur.",
-      en: "A significant onshore heavy oil field, developed using steam injection techniques."
+      en: "A significant onshore heavy oil field, developed using steam injection techniques.",
+      es: "Un importante campo de petróleo pesado en tierra que se está desarrollando mediante procesos de inyección de vapor.",
+      pt: "Um importante campo de petróleo pesado em terra que está sendo desenvolvido através de processos de injeção de vapor.",
+      fr: "Un important gisement de pétrole lourd terrestre exploité au moyen de procédés d'injection de vapeur.",
     },
     descriptionAdvanced: {
       de: "Das Tsimiroro-Ölfeld ist eine der bedeutendsten Onshore-Kohlenwasserstofflagerstätten Madagaskars und liegt im Morondava-Becken im Westen der Insel. Es zeichnet sich durch riesige Reserven an Schweröl aus, die auf etwa 1,7 Milliarden Barrel geschätzt werden. Das Feld wird von der Firma Madagascar Oil betrieben, die hier seit Jahren umfangreiche Testbohrungen und Pilotprojekte zur thermischen Gewinnung durchführt. Aufgrund der hohen Viskosität des Öls kommt das CSS-Verfahren (Cyclic Steam Stimulation) zum Einsatz, bei dem heißer Dampf in die Lagerstätte injiziert wird. Die Entwicklung von Tsimiroro gilt als strategisches Projekt zur Sicherung der nationalen Energieunabhängigkeit, da das gewonnene Schweröl unter anderem in lokalen Kraftwerken zur Stromerzeugung genutzt werden kann. Trotz technischer und logistischer Herausforderungen in der abgelegenen Region Melaky bleibt das Feld ein zentraler Baustein für die zukünftige industrielle Entwicklung des Landes.",
@@ -706,12 +889,18 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       hu: ["A nyugat-madagaszkári Morondava-medencében található", "Becsült készlete 1,7 milliárd hordó nehézolaj", "A Madagascar Oil vállalat üzemelteti a projektet", "Termikus gőzbefecskendezéses (CSS) eljárást alkalmaznak", "Stratégiai forrás a nemzeti áramtermelés számára", "Az első kereskedelmi tesztértékesítések 2014-ben kezdődtek"],
       ro: ["Situat în bazinul Morondava din vestul Madagascarului", "Rezerve estimate la 1,7 miliarde de barili de țiței greu", "Operat de compania Madagascar Oil", "Utilizează metoda stimulării ciclice cu abur (CSS)", "Resursă strategică pentru producția națională de energie", "Primele vânzări comerciale de test au început în 2014"],
       en: ["Located in the Morondava Basin of western Madagascar", "Estimated reserves of 1.7 billion barrels of heavy oil", "Operated by the company Madagascar Oil", "Uses thermal recovery through steam injection (CSS)", "Strategic resource for national power generation", "First commercial test sales commenced in 2014"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     facts: {
       de: ["Produziert Schweröl", "Wichtiges Energieprojekt"],
       hu: ["Nehézolajat termel", "Fontos energiaprojekt"],
       ro: ["Produce petrol greu", "Proiect energetic important"],
-      en: ["Produces heavy oil", "Important energy project"]
+      en: ["Produces heavy oil", "Important energy project"],
+      es: ["Produce petróleo pesado", "Proyecto energético importante"],
+      pt: ["Produz petróleo pesado", "Importante projeto de energia"],
+      fr: ["Produit du pétrole lourd", "Projet énergétique majeur"],
     }, image: "/poi-images/tsimiroro-oil-economic-v2.webp",
     
     
@@ -727,7 +916,10 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       de: "Eine riesige Lagerstätte für bituminöse Sande, die als zukünftige Kohlenwasserstoffquelle für die Region angesehen wird.",
       hu: "Hatalmas bitumenes homoklelőhely, amelyet a régió jövőbeli szénhidrogén-forrásának tekintenek.",
       ro: "Un depozit masiv de nisipuri bituminoase văzut ca o viitoare sursă de hidrocarburi pentru regiune.",
-      en: "A massive deposit of bituminous sands seen as a future source of hydrocarbons for the region."
+      en: "A massive deposit of bituminous sands seen as a future source of hydrocarbons for the region.",
+      es: "Un enorme yacimiento de arenas bituminosas que se considera una futura fuente de hidrocarburos para la región.",
+      pt: "Uma enorme jazida de areias betuminosas que é vista como uma futura fonte de hidrocarbonetos para a região.",
+      fr: "Un immense gisement de sables bitumineux considéré comme une future source d'hydrocarbures pour la région.",
     },
     descriptionAdvanced: {
       de: "Die Bemolanga-Teersande stellen eines der weltweit größten unerschlossenen Vorkommen an Bitumen dar und befinden sich im nordwestlichen Teil des Morondava-Beckens in Madagaskar. Das Gebiet erstreckt sich über hunderte Quadratkilometer und beherbergt geschätzte Ressourcen von etwa 9,8 Milliarden Barrel Öl im Boden. Die Gewinnung aus diesen Sanden erfordert komplexe Bergbaumethoden und technologische Verfahren zur Trennung des Bitumens vom Sand, ähnlich den Projekten in Kanada. Historisch gesehen wurde die Lagerstätte bereits im frühen 20. Jahrhundert entdeckt, doch die großflächige industrielle Erschließung wurde durch hohe Investitionskosten und ökologische Bedenken verzögert. Als potenzielles Megaprojekt könnte Bemolanga die wirtschaftliche Landkarte Ostafrikas verändern und Madagaskar zu einem bedeutenden Akteur auf dem globalen Energiemarkt machen. Die Infrastrukturentwicklung in der Region Melaky hängt maßgeblich vom Fortschritt dieses Vorhabens ab.",
@@ -740,12 +932,18 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       hu: ["A világ egyik legnagyobb bitumenvagyona", "Becsült készlete 9,8 milliárd hordó olaj", "A nyugati Melaky régióban található", "Felfedezése már a 20. század elején megtörtént", "Felszíni bányászati technológiát igényel a kitermelés", "Madagaszkárt jelentős exportőrré alakíthatja"],
       ro: ["Unul dintre cele mai mari depozite de bitum din lume", "Resurse estimate la 9,8 miliarde de barili de petrol", "Situat în regiunea Melaky din vestul insulei", "Descoperit inițial la începutul secolului al XX-lea", "Necesită tehnici de minerit la suprafață pentru extracție", "Are potențialul de a transforma Madagascarul într-un exportator"],
       en: ["One of the largest bitumen deposits in the world", "Estimated resources of 9.8 billion barrels of oil", "Located in the Melaky region of western Madagascar", "Discovered as early as the start of the 20th century", "Requires open-pit mining techniques for extraction", "Potential to transform Madagascar into a major oil exporter"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     facts: {
       de: ["Potenzial für große Ölreserven", "Lange Explorationsgeschichte"],
       hu: ["Nagy olajkészletek potenciálja", "Hosszú feltárási történelem"],
       ro: ["Potențial pentru rezerve mari de petrol", "Istorie lungă de explorare"],
-      en: ["Potential for large oil reserves", "Long history of exploration"]
+      en: ["Potential for large oil reserves", "Long history of exploration"],
+      es: ["Potencial para grandes reservas de petróleo", "Larga historia de exploración"],
+      pt: ["Potencial para grandes reservas de petróleo", "Longa história de exploração"],
+      fr: ["Potentiel pour d'importantes réserves de pétrole", "Longue histoire d'exploration"],
     }, image: "/poi-images/bemolanga-tar-sands-economic-v2.webp",
     
     
@@ -761,7 +959,10 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       de: "Ein ausgedehntes Steinkohlebecken im Südwesten, das ein großes Potenzial für die Energieerzeugung und den Export bietet.",
       hu: "Kiterjedt feketeszén-medence délnyugaton, amely nagy potenciált kínál az energiatermelés és az export számára.",
       ro: "Un vast bazin de cărbune antracit în sud-vest, oferind un mare potențial pentru producerea de energie și export.",
-      en: "An extensive bituminous coal basin in the southwest offering great potential for power generation and export."
+      en: "An extensive bituminous coal basin in the southwest offering great potential for power generation and export.",
+      es: "Una extensa cuenca de carbón en el suroeste que ofrece un gran potencial para la generación de energía y la exportación.",
+      pt: "Uma vasta bacia de carvão no sudoeste que oferece um grande potencial para a geração de energia e exportação.",
+      fr: "Un vaste bassin houiller du sud-ouest offrant un grand potentiel pour la production d'énergie et l'exportation.",
     },
     descriptionAdvanced: {
       de: "Das Sakoa-Kohlebecken ist die bedeutendste Kohlelagerstätte Madagaskars und liegt im Südwesten der Insel in der Region Atsimo-Andrefana. Die Kohleflöze stammen aus dem Oberkarbon und dem Perm und beherbergen geschätzte Reserven von über 200 Millionen Tonnen hochwertiger Kraftwerkskohle. Die Erschließung dieses Beckens ist ein zentrales Element der nationalen Energiestrategie, um die Abhängigkeit von teuren Ölimporten für die Stromerzeugung zu verringern. Neben der energetischen Nutzung besteht großes Potenzial für den Export über den geplanten Tiefwasserhafen von Soalara. Die industrielle Entwicklung der Sakoa-Mine erfordert jedoch massive Investitionen in die Schienen- und Hafeninfrastruktur in einer bisher strukturschwachen Region. Seit Jahrzehnten gibt es Bestrebungen, die Mine im großen Stil in Betrieb zu nehmen, wobei ökologische Standards und die Rechte der lokalen Bevölkerung zunehmend in den Fokus rücken. Erfolgreich betrieben, könnte Sakoa den industriellen Aufschwung im Süden Madagaskars maßgeblich beschleunigen.",
@@ -774,12 +975,18 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       hu: ["Délnyugat-Madagaszkár legnagyobb szénlelőhelye", "Becsült készlete meghaladja a 200 millió tonnát", "A szén a karbon és a perm időszakból származik", "Stratégiai jelentőségű az energiaimport csökkentésében", "Tervezett export az új soalara-i kikötőn keresztül", "A száraz Atsimo-Andrefana régióban található"],
       ro: ["Cel mai mare depozit de cărbune din sud-vestul Madagascarului", "Rezerve estimate la peste 200 de milioane de tone", "Cărbunele datează din perioadele Carbonifer și Permian", "Strategic pentru reducerea costurilor importurilor de energie", "Export planificat prin noul port de la Soalara", "Situat în regiunea aridă Atsimo-Andrefana"],
       en: ["Largest coal deposit in southwestern Madagascar", "Estimated reserves of over 200 million tons", "Coal dates back to the Carboniferous and Permian eras", "Strategically vital for lowering energy import costs", "Planned export through the new port at Soalara", "Located in the arid Atsimo-Andrefana region"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     facts: {
       de: ["Ressourcen im Millionen-Tonnen-Bereich", "Entwicklungsprojekt"],
       hu: ["Több millió tonnás erőforrás", "Fejlesztési projekt"],
       ro: ["Resurse de milioane de tone", "Proiect de dezvoltare"],
-      en: ["Resources in the millions of tons", "Development project"]
+      en: ["Resources in the millions of tons", "Development project"],
+      es: ["Recursos de millones de toneladas", "Proyecto de desarrollo"],
+      pt: ["Recursos na ordem dos milhões de toneladas", "Projeto de desenvolvimento"],
+      fr: ["Ressources s'élevant à des millions de tonnes", "Projet de développement"],
     }, image: "/poi-images/sakoa-coal-economic-v2.webp",
     
     
@@ -795,7 +1002,10 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       de: "Dieses riesige Aufforstungsgebiet verwaltet weite Kiefernwälder und liefert Nutzholz für die lokale Wirtschaft.",
       hu: "Ez a hatalmas erdőtelepítési terület fenyőerdőket kezel és fát biztosít a helyi gazdaság számára.",
       ro: "Această zonă vastă de reîmpădurire gestionează păduri extinse de pini și furnizează cherestea pentru economia locală.",
-      en: "This vast reforestation area manages extensive pine forests and provides timber for the local economy."
+      en: "This vast reforestation area manages extensive pine forests and provides timber for the local economy.",
+      es: "Esta vasta zona de reforestación gestiona extensos bosques de pinos y suministra madera para la economía local.",
+      pt: "Esta vasta zona de reflorestação gere extensas florestas de pinheiros e fornece madeira para a economia local.",
+      fr: "Cette vaste zone de reboisement gère d'importantes forêts de pins et fournit du bois d'œuvre pour l'économie locale.",
     },
     descriptionAdvanced: {
       de: "Fanalamanga, offiziell als Fanalamanga Forestry Company bekannt, ist das größte staatliche Forstunternehmen Madagaskars mit Sitz in Moramanga. Gegründet im Jahr 1975, verwaltet das Unternehmen riesige Kiefernplantagen, die sich über mehr als 70.000 Hektar in der Region Alaotra-Mangoro erstrecken. Das Hauptziel ist die nachhaltige Holzproduktion für den Inlandsmarkt sowie die Aufforstung zur Bekämpfung der Erosion in den zentralen Hochlandregionen. In den Fabriken von Fanalamanga wird Rundholz zu Baumaterialien, Strommasten und Brennholz verarbeitet, was die Abhängigkeit von Primärwäldern verringert. Das Unternehmen ist ein wichtiger Arbeitgeber und spielt eine Vorreiterrolle beim Brandschutz und der Waldbewirtschaftung in Madagaskar. Trotz Herausforderungen wie illegalem Holzeinschlag und Waldbränden bleibt Fanalamanga ein Eckpfeiler der madagassischen Forstwirtschaft und ein Modell für industrielle Plantagenwirtschaft in Ostafrika.",
@@ -808,12 +1018,18 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       hu: ["1975-ben alapították ipari erdőgazdálkodásra", "Több mint 70 000 hektár fenyőültetvényt kezel", "Székhelye és fő feldolgozóüzeme Moramangában van", "Villanyoszlopokat és építőanyagot gyárt az ország számára", "Kulcsszerepet játszik a talajerózió elleni küzdelemben", "Több ezer állandó és idénymunkást foglalkoztat"],
       ro: ["Fondată în 1975 pentru silvicultură industrială", "Gestionează peste 70.000 de hectare de plantații de pini", "Sediul și unitatea principală de procesare sunt la Moramanga", "Produce stâlpi de utilități și materiale de construcții", "Actor principal în lupta împotriva eroziunii solului", "Angajează mii de lucrători permanenți și sezonieri"],
       en: ["Founded in 1975 for industrial forest management", "Manages over 70,000 hectares of pine plantations", "Headquarters and main processing plant in Moramanga", "Produces utility poles and construction timber for the nation", "Key player in the fight against soil erosion", "Employs thousands of permanent and seasonal workers"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     facts: {
       de: ["Pflanzt Kiefern an", "Lieg in Moramanga"],
       hu: ["Fenyőket telepít", "Moramangában található"],
       ro: ["Plantează pini", "Situată în Moramanga"],
-      en: ["Plants pine trees", "Located in Moramanga"]
+      en: ["Plants pine trees", "Located in Moramanga"],
+      es: ["Planta pinos", "Se encuentra en Moramanga"],
+      pt: ["Planta pinheiros", "Localiza-se em Moramanga"],
+      fr: ["Plante des pins", "Située à Moramanga"],
     }, image: "/poi-images/fanalamanga-forestry-economic-v2.webp",
     
     
@@ -829,7 +1045,10 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       de: "Ein wichtiger Verarbeitungsbetrieb für Meeresfrüchte, insbesondere Garnelen, die von hier aus auf internationale Märkte verschifft werden.",
       hu: "Fontos tengeri élelmiszer-feldolgozó üzem, különösen garnélarákok esetében, amelyeket innen szállítanak a nemzetközi piacokra.",
       ro: "O importantă fabrică de procesare a fructelor de mare, în special a creveților, care sunt expediați de aici către piețele internaționale.",
-      en: "An important seafood processing plant, especially for shrimp, which are shipped from here to international markets."
+      en: "An important seafood processing plant, especially for shrimp, which are shipped from here to international markets.",
+      es: "Una importante planta de procesamiento de mariscos, especialmente camarones, que se envían desde aquí a los mercados internacionales.",
+      pt: "Uma importante unidade de processamento de mariscos, especialmente camarão, que é enviado daqui para os mercados internacionais.",
+      fr: "Une importante usine de transformation de produits de la mer, notamment de crevettes, qui sont expédiées d'ici vers les marchés internationaux.",
     },
     descriptionAdvanced: {
       de: "Die Pêcheries de Nosy Be (PNB) sind einer der bedeutendsten Akteure der madagassischen Fischereiindustrie und haben ihren Sitz in Hell-Ville auf der Insel Nosy Be. Das Unternehmen wurde in den 1960er Jahren gegründet und spezialisierte sich früh auf den Fang und die Verarbeitung von Garnelen, die als das 'rosa Gold' Madagaskars gelten. Die Fabrik verfügt über moderne Kühl- und Verarbeitungsanlagen, die den strengen Hygienestandards der Europäischen Union entsprechen. Ein Großteil der Produktion wird nach Frankreich und Japan exportiert, was Nosy Be zu einem wichtigen Devisenbringer für das Land macht. Neben der industriellen Fischerei engagiert sich das Unternehmen auch in der Aquakultur und in Programmen zur nachhaltigen Bewirtschaftung der marinen Ressourcen. Als größter privater Arbeitgeber der Insel sichert PNB das Einkommen von tausenden Menschen und unterstützt soziale Projekte in der lokalen Gemeinschaft. Die Flotte der PNB operiert in den nährstoffreichen Gewässern des Kanals von Mosambik.",
@@ -842,12 +1061,18 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       hu: ["Székhelye Nosy Be szigetén, Hell-Ville-ben van", "Vadon fogott garnélarák exportjára szakosodott", "Az 1960-as években alapították", "Megfelel az Európai Unió export-szabványainak", "Nosy Be legnagyobb magánfoglalkoztatója", "Saját flottát üzemeltet a Mozambiki-csatornán"],
       ro: ["Sediul în Hell-Ville, pe insula Nosy Be", "Specializată în exportul de creveți sălbatici", "Fondată în anii 1960", "Respectă standardele de export ale Uniunii Europene", "Cel mai mare angajator privat din Nosy Be", "Operează o flotă proprie în Canalul Mozambic"],
       en: ["Based in Hell-Ville on the island of Nosy Be", "Specializes in the export of wild-caught shrimp", "Founded in the 1960s", "Complies with European Union export standards", "Largest private employer on Nosy Be", "Operates its own fleet in the Mozambique Channel"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     facts: {
       de: ["Garnelenexport", "Fördert die blaue Wirtschaft"],
       hu: ["Garnélarák-export", "Támogatja a kék gazdaságot"],
       ro: ["Export de creveți", "Sprijină economia albastră"],
-      en: ["Shrimp export", "Supports the blue economy"]
+      en: ["Shrimp export", "Supports the blue economy"],
+      es: ["Exportación de camarones", "Promueve la economía azul"],
+      pt: ["Exportação de camarão", "Promove a economia azul"],
+      fr: ["Exportation de crevettes", "Favorise l'économie bleue"],
     }, image: "/poi-images/pecheries-nosy-be-economic-v2.webp",
     
     
@@ -863,7 +1088,10 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       de: "Einer der führenden Textilhersteller Madagaskars, spezialisiert auf Decken, Handtücher und gewebte Baumwollprodukte.",
       hu: "Madagaszkár egyik vezető textilgyártója, amely takarókra, törölközőkre és szőtt pamuttermékekre specializálódott.",
       ro: "Unul dintre principalii producători de textile din Madagascar, specializat în pături, prosoape și produse din bumbac țesut.",
-      en: "One of Madagascar's leading textile manufacturers, specializing in blankets, towels and woven cotton products."
+      en: "One of Madagascar's leading textile manufacturers, specializing in blankets, towels and woven cotton products.",
+      es: "Uno de los principales fabricantes de textiles de Madagascar, especializado en mantas, toallas y productos de algodón tejido.",
+      pt: "Um dos principais fabricantes têxteis de Madagáscar, especializado em cobertores, toalhas e produtos de algodão tecido.",
+      fr: "L'un des principaux fabricants de textiles de Madagascar, spécialisé dans les couvertures, les serviettes et les produits en coton tissé.",
     },
     descriptionAdvanced: {
       de: "SOMACOU, die Société Malgache de Couvertures, ist ein traditionsreiches Textilunternehmen mit Sitz in Antananarivo, das eine zentrale Rolle in der madagassischen Industriegeschichte spielt. Bekannt wurde der Betrieb vor allem durch die Herstellung von Wolldecken und den traditionellen 'Lamba'-Tüchern, die für die madagassische Kultur von großer Bedeutung sind. Die Fabrik verarbeitet sowohl lokale als auch importierte Baumwolle und Fasern zu einer Vielzahl von Heimtextilien. Seit seiner Gründung hat SOMACOU die lokale Wirtschaft gestärkt, indem es erschwingliche Textilprodukte für die breite Bevölkerung bereitstellte. In den letzten Jahren hat das Unternehmen seine Produktionslinien modernisiert, um auch auf dem internationalen Markt wettbewerbsfähig zu bleiben und Exportchancen zu nutzen. Als einer der großen Arbeitgeber im Industriesektor von Analamanga bietet SOMACOU Arbeitsplätze für qualifizierte Textilarbeiter und trägt zur Ausbildung im Bereich Weberei und Veredelung bei. Die Beständigkeit der Marke über Jahrzehnte hinweg macht sie zu einem Symbol für madagassische Industrieproduktion.",
@@ -876,12 +1104,18 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       hu: ["Székhelye a fővárosban, Antananarivóban található", "Takarók és hagyományos lamba kendők gyártására szakosodott", "Az ország egyik legrégebbi textilipari üzeme", "Helyi és importált szálakat egyaránt feldolgoz", "A madagaszkári lakástextil-piac meghatározó szállítója", "A nemzeti ipari önállóság egyik jelképe"],
       ro: ["Sediul în capitala Antananarivo", "Specializată în pături și țesături tradiționale Lamba", "Una dintre cele mai vechi fabrici textile din țară", "Procesează atât fibre locale, cât și importate", "Furnizor major pentru piața malgașă de textile de casă", "Simbol al autonomiei industriale naționale"],
       en: ["Based in the capital city of Antananarivo", "Specializes in blankets and traditional lamba cloths", "One of the oldest textile operations in the country", "Processes both locally sourced and imported fibers", "Key supplier for the Malagasy home textile market", "A symbol of national industrial self-reliance"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     facts: {
       de: ["Seit 1968 aktiv", "Große Produktionskapazität"],
       hu: ["1968 óta aktív", "Nagy termelési kapacitás"],
       ro: ["Activă din 1968", "Capacitate mare de producție"],
-      en: ["Active since 1968", "Large production capacity"]
+      en: ["Active since 1968", "Large production capacity"],
+      es: ["Activa desde 1968", "Gran capacidad de producción"],
+      pt: ["Ativa desde 1968", "Grande capacidade de produção"],
+      fr: ["Active depuis 1968", "Grande capacité de production"],
     }, image: "/poi-images/somacou-textile-economic-v2.webp",
     
     
@@ -897,7 +1131,10 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       de: "Eine kleine Anlegestelle im Landesinneren, die den Transport von landwirtschaftlichen Gütern über die Wasserwege ermöglicht.",
       hu: "Egy kis szárazföldi kikötőhely, amely lehetővé teszi a mezőgazdasági termékek vízi szállítását.",
       ro: "Un mic port interior care permite transportul de mărfuri agricole pe căile navigabile.",
-      en: "A small inland landing stage that allows the transport of agricultural goods via the waterways."
+      en: "A small inland landing stage that allows the transport of agricultural goods via the waterways.",
+      es: "Un pequeño atracadero en el interior del país que permite el transporte de bienes agrícolas a través de las vías fluviales.",
+      pt: "Um pequeno ancoradouro no interior do país que permite o transporte de bens agrícolas através das vias fluviais.",
+      fr: "Un petit point d'amarrage à l'intérieur des terres qui permet le transport de produits agricoles par les voies navigables.",
     },
     descriptionAdvanced: {
       de: "Der Flusshafen Antsingy ist ein wichtiger logistischer Knotenpunkt in der Region Melaky im Westen Madagaskars. Er liegt am Unterlauf des Antsingy-Flusses und dient als lebenswichtige Verbindung für den Transport von landwirtschaftlichen Produkten aus dem Hinterland zur Küste. Da die Straßenverbindungen in dieser entlegenen Gegend oft unzureichend sind, ist der Schiffsverkehr auf dem Fluss die effizienteste Methode für den Handel. Der Hafen ermöglicht den Umschlag von Waren wie Reis, Mais und Hülsenfrüchten, die von lokalen Bauern produziert werden. Darüber hinaus spielt der Hafen eine Rolle bei der Versorgung der nahegelegenen Dörfer mit lebensnotwendigen Gütern, die auf dem Seeweg in die Region gelangen. Die Infrastruktur besteht aus einfachen Anlegestellen und Lagerhäusern, die an die saisonalen Wasserstandsschwankungen des Flusses angepasst sind. In der Nähe befinden sich die berühmten Kalksteinformationen der Tsingy de Bemaraha, was dem Hafen auch eine strategische Bedeutung für die Logistik im Tourismussektor verleiht.",
@@ -910,12 +1147,18 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       hu: ["Fontos folyami kikötő a Melaky régióban", "Rizs és kukorica tengerhez szállítását szolgálja", "Pótolja a hiányos közúti infrastruktúrát", "Az Antsingy-folyó hajózható alsó szakaszán fekszik", "Ellátási csomópont a távoli falvak számára", "Stratégiai közelség a Tsingy de Bemaraha Nemzeti Parkhoz"],
       ro: ["Port fluvial important în regiunea Melaky", "Utilizat pentru transportul orezului și porumbului către mare", "Compensează infrastructura rutieră insuficientă", "Situat pe cursul inferior navigabil al râului Antsingy", "Punct de aprovizionare pentru satele izolate", "Apropiere strategică de Parcul Național Tsingy de Bemaraha"],
       en: ["Important river port in the Melaky region", "Used for transporting rice and maize to the sea", "Compensates for inadequate road infrastructure", "Located on the navigable lower stretches of the Antsingy", "Supply hub for remote and isolated villages", "Strategically close to the Tsingy de Bemaraha National Park"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     facts: {
       de: ["Verbindet abgelegene Dörfer", "Genutzt für Pirogen"],
       hu: ["Távoli falvakat köt össze", "Pirogok használják"],
       ro: ["Conectează sate îndepărtate", "Folosit de pirogi"],
-      en: ["Connects remote villages", "Used by pirogues"]
+      en: ["Connects remote villages", "Used by pirogues"],
+      es: ["Conecta pueblos remotos", "Utilizado para piraguas"],
+      pt: ["Liga aldeias remotas", "Utilizado para pirogas"],
+      fr: ["Relie des villages isolés", "Utilisé pour les pirogues"],
     }, image: "/poi-images/antsingy-port-economic-v2.webp",
     
     
@@ -931,7 +1174,10 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       de: "Dieser Küstenpunkt dient hauptsächlich kleinen Handelsschiffen und Fischern im Westen der Insel.",
       hu: "Ez a part menti pont elsősorban a sziget nyugati részén lévő kis kereskedelmi hajókat és halászokat szolgálja ki.",
       ro: "Acest punct de coastă deservește în principal mici nave comerciale și pescari din vestul insulei.",
-      en: "This coastal point mainly serves small merchant ships and fishermen in the west of the island."
+      en: "This coastal point mainly serves small merchant ships and fishermen in the west of the island.",
+      es: "Este punto costero sirve principalmente a pequeños buques comerciales y pescadores en el oeste de la isla.",
+      pt: "Este ponto costeiro serve principalmente pequenos navios comerciais e pescadores no oeste da ilha.",
+      fr: "Ce point côtier dessert principalement les petits navires de commerce et les pêcheurs dans l'ouest de l'île.",
     },
     descriptionAdvanced: {
       de: "Der Hafen von Maintirano ist das maritime Tor zur Region Melaky an der Westküste Madagaskars. Er spielt eine zentrale Rolle für die regionale Wirtschaft, da Maintirano als Provinzhauptstadt auf die Seeanbindung angewiesen ist, um den Handel mit anderen Küstenstädten wie Mahajanga und Morondava aufrechtzuerhalten. Der Hafen wird hauptsächlich von Küstenschiffen und traditionellen Boutres genutzt, die lebensnotwendige Güter, Treibstoff und Baumaterialien liefern. Im Gegenzug werden landwirtschaftliche Erzeugnisse und Fischereiprodukte aus der Region exportiert. Da Maintirano auf dem Landweg während der Regenzeit oft schwer erreichbar ist, stellt der Hafen die einzige zuverlässige Verbindung zur Außenwelt dar. In den letzten Jahren wurden Anstrengungen unternommen, die Hafeneinrichtungen zu verbessern, um die Sicherheit des Warenverkehrs zu erhöhen. Die strategische Lage gegenüber dem Kanal von Mosambik macht ihn zudem zu einem potenziellen Stützpunkt für die künftige Exploration von Offshore-Ressourcen.",
@@ -944,12 +1190,18 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       hu: ["A Melaky régió fő tengeri kikötője", "A legfontosabb összeköttetés az esős évszakban", "Hal és mezőgazdasági áruk rakodóhelye", "Rendszeres forgalom Mahajangával és Morondavával", "A hagyományos madagaszkári vitorlások bázisa", "A Mozambiki-csatorna partján fekszik"],
       ro: ["Portul maritim principal al regiunii Melaky", "Cea mai importantă legătură în timpul sezonului ploios", "Punct de transbordare pentru pește și produse agricole", "Trafic regulat cu orașele Mahajanga și Morondava", "Bază pentru ambarcațiunile tradiționale malgașe", "Situat la Canalul Mozambic"],
       en: ["Primary seaport of the Melaky region", "Most critical transport link during the rainy season", "Transshipment point for fish and agricultural goods", "Regular traffic with Mahajanga and Morondava", "Base for traditional Malagasy sailing vessels", "Located on the shores of the Mozambique Channel"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     facts: {
       de: ["Fischerei-Hub", "Schwer auf dem Landweg erreichbar"],
       hu: ["Halászati csomópont", "Szárazföldön nehezen megközelíthető"],
       ro: ["Hub de pescuit", "Greu accesibil pe uscat"],
-      en: ["Fishing hub", "Difficult to reach by land"]
+      en: ["Fishing hub", "Difficult to reach by land"],
+      es: ["Centro pesquero", "Difícil de alcanzar por tierra"],
+      pt: ["Centro de pesca", "Difícil de alcançar por terra"],
+      fr: ["Plaque tournante de la pêche", "Difficilement accessible par voie terrestre"],
     }, image: "/poi-images/maintirano-port-economic-v2.webp",
     
     
@@ -965,7 +1217,10 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       de: "Der Haupthafen der Insel Sainte-Marie, der eine wichtige Brücke für den Tourismus und den Gütertransport zum Festland bildet.",
       hu: "Sainte-Marie szigetének fő kikötője, amely fontos hidat képez a turizmus és a szárazföld felé irányuló áruszállítás számára.",
       ro: "Portul principal al insulei Sainte-Marie, formând o punte importantă pentru turism și transportul de mărfuri către continent.",
-      en: "The main port of the island of Sainte-Marie, forming an important bridge for tourism and freight transport to the mainland."
+      en: "The main port of the island of Sainte-Marie, forming an important bridge for tourism and freight transport to the mainland.",
+      es: "El puerto principal de la isla de Sainte-Marie, que constituye un puente importante para el turismo y el transporte de mercancías al continente.",
+      pt: "O porto principal da ilha de Sainte-Marie, que constitui uma ponte importante para o turismo e o transporte de mercadorias para o continente.",
+      fr: "Le port principal de l'île de Sainte-Marie, qui constitue un pont important pour le tourisme et le transport de marchandises vers la Grande Terre.",
     },
     descriptionAdvanced: {
       de: "Ambodifotatra ist das wirtschaftliche und administrative Zentrum der Insel Sainte-Marie vor der Nordostküste Madagaskars. Der Hafen dient als wichtigster Knotenpunkt für den Güterumschlag und die Personenbeförderung zwischen der Insel und dem Festlandhafen Soanierana Ivongo. In der Region werden bedeutende Mengen an Gewürznelken und Vanille für den Weltmarkt produziert, die über diesen Hafen exportiert werden. Historisch war die Bucht im 17. und 18. Jahrhundert ein berühmter Piratenstützpunkt, was heute die Grundlage für den florierenden Kulturtourismus bildet. Jährlich von Juli bis September wird der Hafen zum Ausgangspunkt für Walbeobachtungstouren, die eine wesentliche Einnahmequelle für die lokale Bevölkerung darstellen. Die Infrastruktur umfasst modernisierte Anlegestellen für Schnellfähren und Versorgungsschiffe, die die autarke Versorgung der Inselbewohner sicherstellen. Trotz der wirtschaftlichen Entwicklung bewahrt die Stadt ihren kolonialen Charakter mit historischen Gebäuden aus der französischen Ära.",
@@ -978,12 +1233,18 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       hu: ["Sainte-Marie szigetének fővárosa", "A régió legfontosabb szegfűszeg-exportáló kikötője", "A bálnaleső turizmus központja (púpos bálnák)", "Történelmi kalózbázis 1685 és 1726 között", "Rendszeres kompjárat Soanierana Ivongo irányába", "Sainte-Marie járási adminisztrációjának székhelye"],
       ro: ["Orașul principal al insulei Sainte-Marie", "Cel mai important port de export pentru cuișoare din regiune", "Centrul turismului de observare a balenelor (balene cu cocoașă)", "Bază istorică a piraților între 1685 și 1726", "Conexiune regulată cu feribotul către Soanierana Ivongo", "Sediul administrației districtuale din Sainte-Marie"],
       en: ["Main town of Sainte-Marie Island", "Key export hub for the region's clove production", "Center for humpback whale-watching tourism", "Historical pirate refuge between 1685 and 1726", "Regular ferry service to Soanierana Ivongo", "Seat of the Sainte-Marie district administration"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     facts: {
       de: ["Tor für Walbeobachter", "Fähren nach Soanierana Ivongo"],
       hu: ["Bálna-nézők kapuja", "Kompok Soanierana Ivongóba"],
       ro: ["Poarta pentru observarea balenelor", "Feriboturi către Soanierana Ivongo"],
-      en: ["Gateway for whale watchers", "Ferries to Soanierana Ivongo"]
+      en: ["Gateway for whale watchers", "Ferries to Soanierana Ivongo"],
+      es: ["Puerta de entrada para observadores de ballenas", "Ferris a Soanierana Ivongo"],
+      pt: ["Porta de entrada para observadores de baleias", "Ferries para Soanierana Ivongo"],
+      fr: ["Porte d'entrée pour les observateurs de baleines", "Ferries vers Soanierana Ivongo"],
     }, image: "/poi-images/sainte-marie-port-economic-v2.webp",
     
     
@@ -999,7 +1260,10 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       de: "Ein staatliches Agrarunternehmen im Sambava-Distrikt, das aus riesigen Plantagen wertvolles Kokosöl gewinnt.",
       hu: "Egy állami mezőgazdasági vállalat a Sambava körzetben, amely hatalmas ültetvényekből értékes kókuszolajat von ki.",
       ro: "O companie agricolă de stat din districtul Sambava, care extrage ulei de cocos valoros din plantații uriașe.",
-      en: "A state-owned agricultural company in the Sambava district extracting valuable coconut oil from vast plantations."
+      en: "A state-owned agricultural company in the Sambava district extracting valuable coconut oil from vast plantations.",
+      es: "Una empresa agrícola estatal en el distrito de Sambava que extrae valioso aceite de coco de enormes plantaciones.",
+      pt: "Uma empresa agrícola estatal no distrito de Sambava que extrai valioso óleo de coco de vastas plantações.",
+      fr: "Une entreprise agro-industrielle d'État dans le district de Sambava, qui extrait de l'huile de coco précieuse à partir de vastes plantations.",
     },
     descriptionAdvanced: {
       de: "Die Soavoanio-Kokosnussplantage in Sambava wurde 1974 gegründet und ist einer der größten landwirtschaftlichen Industriebetriebe Madagaskars. Das Unternehmen bewirtschaftet eine Fläche von über 5.000 Hektar entlang der Nordostküste in der Region Sava und ist auf den Anbau sowie die Verarbeitung von Kokosnüssen spezialisiert. Die Fabrikanlage produziert hochwertiges Kokosöl, Kopra und Seifen für den Inlandsmarkt und den Export. Soavoanio spielt eine zentrale Rolle in der regionalen Wirtschaft, da es Tausende von Arbeitsplätzen direkt und indirekt in der Ernte und Logistik schafft. Das Unternehmen hat erfolgreich Hybrid-Kokospalmen eingeführt, die eine höhere Widerstandsfähigkeit gegenüber tropischen Stürmen und Krankheiten aufweisen. Die Plantage ist ein integrierter Komplex, der neben der Produktion auch Forschungsstationen zur Verbesserung der Bodenfruchtbarkeit und Schädlingsbekämpfung betreibt. Als bedeutender Devisenbringer trägt Soavoanio wesentlich zur Stabilität der landwirtschaftlichen Exportstruktur Madagaskars bei.",
@@ -1012,12 +1276,18 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
       hu: ["1974-ben alapították Sambavában", "Több mint 5000 hektárnyi ültetvényt kezel", "Kókuszolaj, kopra és szappangyártásra szakosodott", "Hibrid kókuszpálmák alkalmazása a hozam növelésére", "A Sava régió legfontosabb munkáltatója", "Északkeleti mezőgazdasági kutatóközpont"],
       ro: ["Fondată în anul 1974 în Sambava", "Administrează peste 5.000 de hectare de plantații", "Specializată în producția de ulei de cocos, copra și săpun", "Utilizează palmieri hibrizi pentru creșterea randamentului", "Cel mai important angajator din regiunea Sava", "Centru de cercetare agricolă în nord-estul țării"],
       en: ["Founded in 1974 in the town of Sambava", "Manages over 5,000 hectares of plantation land", "Specializes in coconut oil, copra, and soap production", "Employs hybrid coconut palms for higher yields", "Largest employer in the Sava region", "Hub for agricultural research in northeastern Madagascar"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     facts: {
       de: ["Tausende Hektar Plantagen", "Produziert Seife und Speiseöl"],
       hu: ["Több ezer hektár ültetvény", "Szappant és étolajat termel"],
       ro: ["Mii de hectare de plantații", "Produce săpun și ulei de gătit"],
-      en: ["Thousands of hectares of plantations", "Produces soap and cooking oil"]
+      en: ["Thousands of hectares of plantations", "Produces soap and cooking oil"],
+      es: ["Miles de hectáreas de plantaciones", "Produce jabón y aceite comestible"],
+      pt: ["Milhares de hectares de plantações", "Produz sabão e óleo alimentar"],
+      fr: ["Milliers d'hectares de plantations", "Produit du savon et de l'huile alimentaire"],
     },
     
     

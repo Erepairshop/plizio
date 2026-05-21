@@ -1143,6 +1143,7 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
       en: ["Opened: 1982", "Area: 8 hectares", "Animal species: over 60", "Annual visitors: approx. 200,000", "Reconstructed buildings: 4", "Watchtower height: 12 meters"],
       pt: ["Ano de abertura: 1982", "Área: 8 hectares", "Espécies animais: mais de 60", "Visitantes anuais: cerca de 200.000", "Número de edifícios reconstruídos: 4", "Edificação mais alta: torre de vigia com 12 metros de altura"],
       fr: ["Année d'ouverture : 1982", "Superficie : 8 hectares", "Espèces animales : plus de 60", "Visiteurs annuels : environ 200 000", "Nombre de bâtiments reconstitués : 4", "Plus haut édifice : tour de guet de 12 mètres de haut"],
+      es: ["Año de inauguración: 1982", "Superficie: 8 hectáreas", "Especies animales: más de 60", "Visitantes anuales: aprox. 200.000", "Número de edificios reconstruidos: 4", "Construcción más alta: torre de vigilancia de 12 metros de altura"],
     },
   },
   {

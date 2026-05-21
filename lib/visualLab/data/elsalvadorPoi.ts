@@ -259,6 +259,7 @@ export const elsalvadorCities: POI[] = [
       en: ["The total length of the river is approximately 422 kilometers.", "The basin drains an area of about 18,246 square kilometers.", "Provides over 30% of El Salvador's electricity through hydro power.", "The Cerrón Grande Dam was officially inaugurated in 1976.", "Flows through three countries: Guatemala, Honduras, and El Salvador.", "The mouth is located between the departments of San Vicente and Usulután."],
       pt: ["O rio fornece energia a várias grandes centrais hidroelétricas.", "Forma um delta enorme na costa do Pacífico, rico em mangais.", "A proteção da bacia hidrográfica é uma questão ecológica importante na região."],
       fr: ["Le fleuve alimente plusieurs grandes centrales hydroélectriques en énergie.", "Il forme un delta immense sur la côte Pacifique, riche en mangroves.", "La protection du bassin versant est un enjeu écologique majeur dans la région."],
+      es: ["El río abastece de energía a varias grandes centrales hidroeléctricas.", "Forma un enorme delta en la costa del Pacífico, rico en manglares.", "La protección de la cuenca es un tema ecológico importante en la región."],
     },
     length: 422, image: "/poi-images/sv-rio-lempa.webp"},
   {

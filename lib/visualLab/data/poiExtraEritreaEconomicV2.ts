@@ -623,6 +623,7 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       en: ["Year established: 2008", "Annual capacity: 10,000 tons", "Employees: 200", "Main products: mango juice, tomato paste", "Export share: 60%", "Cold storage capacity: 1,000 tons"],
       pt: ["Ano de fundação: 2008", "Capacidade anual: 10.000 toneladas", "Funcionários: 200", "Produtos principais: sumo de manga, conservas de tomate", "Quota de exportação: 60%", "Capacidade de armazenamento a frio: 1.000 toneladas"],
       fr: ["Année de fondation : 2008", "Capacité annuelle : 10 000 tonnes", "Employés : 200", "Principaux produits : jus de mangue, conserves de tomate", "Part à l'exportation : 60%", "Capacité de stockage frigorifique : 1 000 tonnes"],
+      es: ["Año de fundación: 2008", "Capacidad anual: 10.000 toneladas", "Empleados: 200", "Productos principales: zumo de mango, conservas de tomate", "Cuota de exportación: 60%", "Capacidad de almacenamiento en frío: 1.000 toneladas"],
     },
   },
   {

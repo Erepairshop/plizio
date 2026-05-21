@@ -630,6 +630,7 @@ export const poiExtraZambiaNatureV2: POI[] = [
       en: ["Area: 15 km²", "Maximum depth: 5 m", "Elevation: 1,200 m", "Annual rainfall: 1,200 mm", "Fish species: 20+", "Inflow: Lusiwashi River"],
       pt: ["Área: 15 km²", "Profundidade máxima: 5 m", "Altitude: 1.200 m", "Precipitação anual: cerca de 1.200 mm", "Espécies de peixes: pelo menos 20", "Afluente: rio Lusiwashi"],
       fr: ["Surface : 15 km²", "Profondeur maximale : 5 m", "Altitude : 1 200 m", "Précipitations annuelles : env. 1 200 mm", "Espèces de poissons : au moins 20", "Affluent : rivière Lusiwashi"],
+      es: ["Superficie: 15 km²", "Profundidad máxima: 5 m", "Altitud: 1.200 m", "Precipitación anual: aprox. 1.200 mm", "Especies de peces: al menos 20", "Afluente: río Lusiwashi"],
     },
   },
   {

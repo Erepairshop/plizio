@@ -1086,6 +1086,7 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: ["Faja: Ceiba pentandra", "La Paz körzetben, San Ramónban található", "Több mint 100 éves", "Magassága meghaladja a 40 métert", "Szent fa az őshonos kultúrák számára", "Masszív támasztógyökerei vannak a stabilitásért"],
       ro: ["Specia: Ceiba pentandra", "Situat în districtul La Paz, San Ramón", "Vârstă de peste 100 de ani", "Înălțime de peste 40 de metri", "Arbore sacru pentru culturile indigene", "Posedă rădăcini tabulare masive pentru stabilitate"],
       en: ["Species: Ceiba pentandra", "Located in the La Paz district, San Ramón", "Over 100 years old", "Height of more than 40 meters", "Sacred tree for indigenous cultures", "Possesses massive buttress roots for stability"],
+      es: [],
       pt: [],
       fr: [],
     }, 

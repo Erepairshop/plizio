@@ -1074,6 +1074,7 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
       en: ["Location: Along the 37 km Atlantic coastline", "Site: Near the mouth of the Congo River", "Protects the coast from erosion", "Important nursery for fish and crustaceans", "Threatened by oil extraction and urbanization", "Dominant species: Rhizophora"],
       pt: ["Área: cerca de 600 km²", "Espécie de mangue mais comum: Rhizophora racemosa", "Altura das árvores: até 20 m", "Sequestro anual de carbono: 200 toneladas por km²", "Número de espécies de aves: mais de 150", "Amplitude das marés: até 2 m"],
       fr: ["Superficie : environ 600 km²", "Espèce de palétuvier la plus commune : Rhizophora racemosa", "Hauteur des arbres : jusqu'à 20 m", "Séquestration annuelle du carbone : 200 tonnes par km²", "Nombre d'espèces d'oiseaux : plus de 150", "Marnage : jusqu'à 2 m"],
+      es: ["Superficie: aprox. 600 km²", "Especie de manglar más común: Rhizophora racemosa", "Altura de los árboles: hasta 20 m", "Secuestro anual de carbono: 200 toneladas por km²", "Número de especies de aves: más de 150", "Rango de marea: hasta 2 m"],
     },
   }
 ];

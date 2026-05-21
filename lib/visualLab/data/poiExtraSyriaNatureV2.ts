@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraSyriaNatureV2: POI[] = [

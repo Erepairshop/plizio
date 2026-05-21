@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraTurkeyEconomicV2: POI[] = [

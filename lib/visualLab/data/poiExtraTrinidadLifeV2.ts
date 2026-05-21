@@ -791,6 +791,7 @@ export const poiExtraTrinidadLifeV2: POI[] = [
       en: ["Seine fishing is a deeply rooted community tradition practiced in Castara.", "The village is situated between two distinct beaches: Big Bay and Little Bay.", "A natural waterfall is located within the rainforest just behind the village.", "Local bakeries still utilize traditional dirt ovens for baking bread.", "Fishing has served as the primary livelihood for residents since the 19th century.", "The Castara Tourism Development Association manages sustainable local initiatives."],
       pt: ["Conhecido pelo nome de Castara.", "Situado na ilha caribenha de Trinidad.", "Parte do património cultural e geográfico de Trinidad.", "Inserido na zona climática tropical do sul das Caraíbas."],
       fr: ["Connu sous le nom de Castara.", "Situé sur l'île caribéenne de Trinidad.", "Fait partie du patrimoine culturel et géographique de Trinidad.", "Intégré dans la zone climatique tropicale du sud des Caraïbes."],
+      es: ["Conocido bajo el nombre de Castara.", "Situado en la isla caribeña de Trinidad.", "Parte del patrimonio cultural y geográfico de Trinidad.", "Insertado en la zona climática tropical del sur del Caribe."],
     },
   },
   {

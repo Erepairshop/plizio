@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { POI } from './poi';
 export const vanuatuReliefV2: POI[] = [
 

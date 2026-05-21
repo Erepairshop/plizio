@@ -337,6 +337,9 @@ export const liechtensteinCulture: POI[] = [
       hu: ["A vár legrégebbi része a 12. századi öregtorony, falai 4 méter vastagok.", "A fejedelmi család 1938 óta lakik életvitelszerűen a vár falai között.", "A várat 1499-ben a svájciak felgyújtották a sváb háború során.", "Az épületet mintegy 120 méteres magasság választja el a városközponttól."],
       ro: ["Turnul principal datează din secolul al XII-lea și are ziduri masive.", "Accesul în interior este interzis turiștilor, fiind reședință privată.", "Castelul a fost extins semnificativ în secolele al XVI-lea și al XVII-lea.", "În fiecare an, pe 15 august, grădinile sunt deschise pentru cetățeni."],
       en: ["The oldest parts of the keep date back to the 12th century.", "It has been the primary residence of the Prince since 1938.", "The castle interior is private and not open for regular public tours.", "A fireworks display is held at the castle every National Day (August 15)."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -379,6 +382,9 @@ export const liechtensteinCulture: POI[] = [
       hu: ["A vár alapjai a 13. századból, a középkor virágkorából származnak.", "A várudvar nyaranta népszerű szabadtéri színházi előadások helyszíne.", "A dombon végzett ásatások során ókori fogadalmi szobrokat találtak.", "A belső kápolna és a rózsakert a látogatók előtt is nyitva áll."],
       ro: ["Castelul nu a fost niciodată folosit ca reședință princiară oficială.", "Donjonul central păstrează elemente arhitecturale din secolul al XII-lea.", "Restaurarea din secolul XX a fost finanțată de sculptorul Egon Rheinberger.", "Situl arheologic din jur atestă prezența culturii Rössen pe acest deal."],
       en: ["The castle was originally built as a defensive structure in the 1200s.", "It is one of two surviving castles in the country alongside Vaduz.", "The state acquired the property from private hands in 1979.", "Local bronze statues dating to the Iron Age were discovered here."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -421,6 +427,9 @@ export const liechtensteinCulture: POI[] = [
       hu: ["Az épület sötét falaiba csiszolt folyami kavicsokat kevertek a Rajnából.", "A múzeum rendszeresen rendez időszaki tárlatokat a Hilti Art Foundationnel.", "A belső terek tágasak és természetes fénnyel világítják meg a műveket.", "A gyűjtőkör elsősorban a 19. század végétől napjainkig tart."],
       ro: ["Muzeul a fost inaugurat oficial pe data de 12 noiembrie 2000.", "Structura este recunoscută internațional pentru designul său minimalist.", "Colecția include lucrări importante din mișcarea italiană Arte Povera.", "Fundația de Artă Hilti are o aripă dedicată în cadrul complexului."],
       en: ["The museum was completed by architects Morger & Degelo in 2000.", "It focuses on three-dimensional artworks and large installations.", "The building features a seamless exterior of polished black basalt.", "Guided tours are offered in German, English, and French languages."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -463,6 +472,9 @@ export const liechtensteinCulture: POI[] = [
       hu: ["Az épület egykor a hercegi parlament és a bíróság székhelye is volt.", "A múzeum állandó kiállítása a kőkorszaktól a modern korig tart.", "A gyermekek számára interaktív tanösvény és foglalkozások állnak rendelkezésre.", "Külön szekció foglalkozik az Alpok növény- és állatvilágának bemutatásával."],
       ro: ["Complexul muzeal a fost renovat integral între anii 1999 și 2003.", "Există o expoziție permanentă dedicată vânătorii și naturii alpine.", "Clădirea istorică a servit și ca sediu al guvernului în secolul al XIX-lea.", "Muzeul este situat direct pe strada principală pietonală din Vaduz."],
       en: ["The museum building dates back to 1438 and once housed a tavern.", "It features 42 thematic rooms covering archaeology and folklore.", "A modern extension was added to the hillside to increase space.", "It is located in the government district, close to the town hall."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -505,6 +517,9 @@ export const liechtensteinCulture: POI[] = [
       hu: ["A ház melletti szőlőskertben ma is termelnek minőségi bort.", "A 19. század közepén került a Rheinberger művészcsalád tulajdonába.", "A jellegzetes vörös színt a 19. századi felújítás során kapta.", "Az épület belső része nem látogatható, mivel magántulajdonban van."],
       ro: ["Construcția originală a fost ridicată în secolul al XV-lea.", "Turnul a fost adăugat ulterior pentru a servi procesului de vinificație.", "Este una dintre cele mai fotografiate clădiri din Liechtenstein.", "Familia Rheinberger deține proprietatea de peste 170 de ani."],
       en: ["The current structure dates primarily back to the year 1438.", "It features a large wine press room and a stepped-gable tower.", "The property has been owned by the Rheinberger family since 1848.", "It is situated in the scenic Mitteldorf district of the capital."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -547,6 +562,9 @@ export const liechtensteinCulture: POI[] = [
       hu: ["A múzeum egy 400 éves eredeti rönkházat is magában foglal.", "A tárlat bemutatja a walser nyelvjárás sajátosságait és szavait.", "A gyűjteményben számos régi faeszköz és konyhai felszerelés található.", "A kiállítás kitér a vándorlás útvonalára Svájcból Liechtensteinbe."],
       ro: ["Muzeul a fost înființat în 1961 de către comunitatea locală.", "Include o casă tradițională veche de 400 de ani, perfect conservată.", "Sunt expuse unelte de tâmplărie și obiecte casnice specifice epocii.", "Triesenberg este cea mai înaltă așezare din principat, la 884 metri."],
       en: ["The museum opened in 1961 to preserve the local high-alpine heritage.", "It includes a fully furnished 400-year-old traditional wooden house.", "Exhibits focus on the unique Alemannic dialect spoken in the village.", "Agricultural tools used for mountain farming are a highlight of the collection."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -589,6 +607,9 @@ export const liechtensteinCulture: POI[] = [
       hu: ["A templom építését Friedrich von Schmidt osztrák építész irányította.", "A déli homlokzaton egy nagy rózsaablak díszíti az épületet.", "A templomkertben található a fejedelmi család temetkezési helye.", "A belső térben értékes színes üvegablakok és faragott oltár látható."],
       ro: ["Piatra de temelie a fost pusă în anul 1869 pe locul unei biserici vechi.", "Turnul bisericii are o înălțime totală de 45 de metri.", "Cripta princiară a fost finalizată în anul 1960 lângă catedrală.", "Interiorul a fost renovat substanțial în anii 1970 pentru modernizare."],
       en: ["Construction took place between 1869 and 1873 in Neo-Gothic style.", "The architect, Friedrich von Schmidt, also designed Vienna City Hall.", "It was elevated to the status of a cathedral by the Pope in 1997.", "The princely burial vault is located immediately adjacent to it."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -631,6 +652,9 @@ export const liechtensteinCulture: POI[] = [
       hu: ["A múzeum 1930-ban nyílt meg, és a nemzeti múzeum része.", "A belépés díjtalan, így a város egyik leglátogatottabb pontja.", "A gyűjteményben találhatók régi postakocsik és távírókészülékek is.", "Liechtenstein bélyegei világszerte ismertek magas művészeti értékükről."],
       ro: ["Fondat în 1930, muzeul este acum administrat de Muzeul Național.", "Intrarea este gratuită, făcându-l o atracție populară pentru turiști.", "Sunt expuse plăci metalice originale folosite pentru imprimarea timbrelor.", "Muzeul este situat în clădirea 'Engländerbau' din zona pietonală."],
       en: ["Established in 1930, it is a section of the National Museum.", "Admission to the museum has traditionally been free of charge.", "The collection includes rare proofs and original artist sketches.", "Interactive displays explain the process of modern stamp production."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -673,6 +697,9 @@ export const liechtensteinCulture: POI[] = [
       hu: ["A múzeum a vaduzi kormányzati negyed Engländerbau épületében található.", "A kiállítás fénypontja a fejedelmi süveg (korona) pontos másolata.", "Itt őriznek olyan holdkőzeteket is, amelyeket az USA adományozott.", "A belépéshez külön jegy váltása szükséges a látogatóközpontban."],
       ro: ["Expoziția a fost inaugurată în anul 2015 într-un spațiu securizat.", "Colecția include 'Oul cu flori de măr' creat de Peter Carl Fabergé.", "Sunt prezentate și fragmente de rocă lunară aduse de misiunea Apollo 11.", "Vizitatorii pot vedea replica exactă a pălăriei princiare istorice."],
       en: ["The museum opened in 2015 to showcase the Prince's private treasures.", "It features the Apple Blossom Egg, a masterpiece by Carl Fabergé.", "Lunar rocks gifted to the country after the Apollo 11 mission are on display.", "The vault is located within the Engländerbau building in central Vaduz."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -715,6 +742,9 @@ export const liechtensteinCulture: POI[] = [
       hu: ["Az épületet Hansjörg Göritz német építész tervezte meg.", "A tető meredek formája a hagyományos építészeti elemeket idézi.", "A parlament 25 választott képviselőnek biztosít üléstermet.", "Az építkezés során kizárólag fenntartható anyagokat használtak."],
       ro: ["Construcția a fost finalizată în 2008 după șase ani de lucru.", "Sunt folosite peste un milion de cărămizi speciale aduse din Germania.", "Clădirea se află chiar la baza dealului unde se ridică castelul.", "Acoperișul ascuțit atinge o înălțime de 19 metri deasupra pieței."],
       en: ["Opened in 2008, it houses the sessions of the 25 Landtag members.", "Approximately 1.1 million bricks were used for the entire complex.", "The high-pitched roof echoes the shape of mountain peaks.", "It is part of the Peter-Kaiser-Platz government square development."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -757,6 +787,9 @@ export const liechtensteinCulture: POI[] = [
       hu: ["A híd 1901-ben készült el, felváltva a korábbi kompátkelőt.", "A tartószerkezet Howe-rendszerű rácsos tartókból épül fel.", "A Rajna közepén található tábla jelzi a két ország közötti határt.", "2010-ben egy nagyobb felújítás során megerősítették a tetőszerkezetet."],
       ro: ["Lungimea totală a podului este de 135 de metri între maluri.", "Construcția a fost finalizată în 1901 pentru traficul rutier greu.", "Astăzi, podul este declarat monument istoric protejat prin lege.", "Pilonii centrali sunt construiți pe baze de piatră masivă în râu."],
       en: ["The bridge is 135 meters long and built entirely of timber.", "Construction was finished in 1901 using locally sourced wood.", "It is closed to motorized vehicles but open to bikes and hikers.", "The structure underwent a major restoration project in 2010."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -1018,6 +1051,9 @@ export const liechtensteinNature: POI[] = [
       hu: ["A hegycsúcs pontos magassága 2599 méter a tengerszint felett.", "Két különálló csúcsa van, melyek közül az elülső (Vorder) a magasabb.", "Nincs kiépített turistaút a csúcsra, így csak gyakorlottaknak ajánlott.", "A hegy déli oldala már Svájc Graubünden kantonjához tartozik."],
       ro: ["Altitudinea de 2599 metri îl face punctul culminant al țării.", "Vârful este compus din două creste: Vorder Grauspitz și Hinter Grauspitz.", "Nu există trasee marcate oficial care să ducă până pe cel mai înalt punct.", "Accesul se face de obicei prin valea elvețiană Älpli."],
       en: ["At 2,599 meters, it is the highest point of the entire country.", "The mountain features two distinct peaks: Vorder and Hinter Grauspitz.", "No officially maintained hiking trails lead to the actual summit.", "It is located in the Rätikon Alps, shared with the Swiss canton of Grisons."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -1060,6 +1096,9 @@ export const liechtensteinNature: POI[] = [
       hu: ["A csúcs magassága 2570 méter, és három ország találkozási pontja.", "A hegy lábánál található a népszerű Pfälzerhütte menedékház.", "A túraútvonalak gyakran keresztezik a láthatatlan államhatárokat.", "A csúcsról tiszta időben az osztrák Vorarlberg hegyei is jól látszanak."],
       ro: ["Altitudinea vârfului este de 2570 de metri deasupra mării.", "Este un punct de triplex confinium (graniță triplă) în Alpii Rätikon.", "Cabana Pfälzerhütte oferă cazare drumeților în apropierea vârfului.", "Ascensiunea finală necesită atenție sporită din cauza grohotișului."],
       en: ["The summit reaches 2,570 meters and marks a triple international border.", "It belongs to the Rätikon mountain group in the Central Eastern Alps.", "The Pfälzerhütte alpine hut serves as a base for climbers nearby.", "Hikers can cross from Liechtenstein into Austria and Switzerland on one route."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -1102,6 +1141,9 @@ export const liechtensteinNature: POI[] = [
       hu: ["A hegycsúcs magassága 2562 méter, és a svájci határon fekszik.", "A csúcsról belátható a Maienfeld környéki borvidék is.", "A Falknis kőzetanyaga főként üledékes mészkőből épül fel.", "A megmászása meredek ösvényeken keresztül, több irányból lehetséges."],
       ro: ["Vârful atinge o înălțime de 2562 de metri deasupra nivelului mării.", "Acest munte face parte din masivul Rätikon, la granița cu Elveția.", "Este un habitat important pentru caprele negre și vulturii alpini.", "Traseul cel mai cunoscut pornește din localitatea Balzers."],
       en: ["The summit stands at an elevation of 2,562 meters above sea level.", "It forms part of the international border between Liechtenstein and Switzerland.", "Geologically, the mountain is composed largely of limestone and dolomite.", "It is frequently visited by hikers starting from the Lawena Valley."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -1144,6 +1186,9 @@ export const liechtensteinNature: POI[] = [
       hu: ["A legmagasabb csúcs 2053 méterrel magasodik a tengerszint fölé.", "A legenda szerint három lány kövült sziklává, mert vasárnap bogyót gyűjtöttek.", "A hegygerincen vezető túraútvonal tapasztalt túrázóknak ajánlott.", "A csúcsról tiszta időben az egész Rajna-völgy és a Bodeni-tó is látszik."],
       ro: ["Altitudinea maximă a acestui masiv este de 2053 de metri.", "Traseul montan include scări metalice fixate direct în peretele stâncos.", "Legenda locală spune că stâncile sunt fete pedepsite pentru necredință.", "Vârful oferă o vedere panoramică asupra lacului Constanța (Bodensee)."],
       en: ["The highest peak of the trio reaches an elevation of 2,053 meters.", "A famous local legend claims the rocks are three sisters turned to stone.", "The mountain trail involves steep ladders and narrow ridge paths.", "It is part of a popular hiking route starting from the village of Planken."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -1186,6 +1231,9 @@ export const liechtensteinNature: POI[] = [
       hu: ["A hágó 1991 méteres magasságban található a tenger felett.", "Malbunból egy kényelmes libegő viszi fel a látogatókat a csúcsra.", "A hágónál található hegyi étterem híres a panorámás teraszáról.", "Télen a terület a Malbun síterep részét képezi, kiváló pályákkal."],
       ro: ["Trecătoarea se află la o altitudine de 1991 de metri.", "Accesul este facilitat de un telescaun modern care pornește din Malbun.", "Este un punct de plecare ideal pentru ascensiunea spre vârful Augstenberg.", "Panorama cuprinde atât valea Rinului, cât și munții din Austria."],
       en: ["The pass is situated at an elevation of 1,991 meters above sea level.", "A chairlift carries visitors from Malbun directly to the summit station.", "It marks the start of the popular Princess Gina circular hiking trail.", "A mountain restaurant at the top offers views across to the Vorarlberg."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -1228,6 +1276,9 @@ export const liechtensteinNature: POI[] = [
       hu: ["A folyó teljes hossza 17 kilométer, mielőtt az Ill folyóba torkollik.", "A vízenergiát egy földalatti erőmű hasznosítja áramtermelésre.", "A völgy szinte teljesen lakatlan, csak erdei utak szelik át.", "A folyó vize kristálytiszta, és gazdag pisztrángállománnyal rendelkezik."],
       ro: ["Lungimea totală a râului este de aproximativ 17 kilometri.", "Izvorăște din regiunea montană situată deasupra localității Steg.", "Valea Samina este considerată una dintre cele mai curate zone din Alpi.", "Râul părăsește țara în dreptul localității Frastanz din Austria."],
       en: ["The river flows for 17 kilometers before joining the Ill in Austria.", "The Samina Valley is largely undeveloped and covered by dense forest.", "Hydroelectric power is generated using the river's significant drop.", "It is a popular location for fly fishing and mountain hiking."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -1270,6 +1321,9 @@ export const liechtensteinNature: POI[] = [
       hu: ["A folyó liechtensteini szakasza körülbelül 27 kilométer hosszú.", "A part menti gátak tetején népszerű kerékpárutak találhatók.", "A 19. században végzett szabályozás előtt a folyó gyakran kiöntött.", "A Rajna völgye a fejedelemség legfontosabb mezőgazdasági területe."],
       ro: ["Segmentul de frontieră al Rinului are o lungime de 27 de kilometri.", "Râul a fost canalizat în secolul al XIX-lea pentru a preveni inundațiile.", "Debitul mediu crește semnificativ primăvara, odată cu topirea zăpezii.", "Există șase poduri rutiere care leagă Liechtenstein de malul elvețian."],
       en: ["The section of the Rhine bordering Liechtenstein is 27 kilometers long.", "Flood protection embankments were extensively built in the 1800s.", "It originates in the Swiss Alps before flowing into Lake Constance.", "The river dams are popular for cycling and jogging with scenic views."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -1312,6 +1366,9 @@ export const liechtensteinNature: POI[] = [
       hu: ["A tó 1300 méteres magasságban fekszik, hegyekkel körülvéve.", "A vízparton kijelölt tűzrakó helyek várják a kirándulókat.", "A tó vizét a Samina vízerőmű áramtermeléséhez használják fel.", "Télen a tó befagyott felszíne látványos fotótéma a turistáknak."],
       ro: ["Lacul este situat la o altitudine de aproximativ 1300 de metri.", "Este alimentat de apele râului Samina și ale pâraielor adiacente.", "Malurile lacului sunt amenajate pentru picnic și activități în familie.", "Energia produsă aici acoperă o parte importantă din consumul local."],
       en: ["The lake is located at an altitude of approximately 1,300 meters.", "It provides water for the Samina hydroelectric power station downstream.", "The area features public barbecue spots and a small swimming beach.", "It is surrounded by high peaks, making it a favorite for photographers."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
     {

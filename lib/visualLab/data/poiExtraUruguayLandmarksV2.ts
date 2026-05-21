@@ -468,6 +468,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       en: ["Sculptor: José Luis Zorrilla de San Martín", "Inaugurated: 1938", "Height: 40 meters", "Material: Pink granite and bronze", "Commemorates: First Constitution of 1830", "Allegorical statues: Law, Liberty, Force"],
       pt: ["O Obelisco a los Constituyentes oferece uma visão profunda da cultura e tradição regional.", "O local caracteriza-se pela sua diversidade arquitetónica e importância histórica.", "Os viajantes encontrarão nos arredores do Obelisco a los Constituyentes diversas oportunidades para atividades de lazer."],
       fr: ["L'Obelisco a los Constituyentes offre un aperçu profond de la culture et de la tradition régionales.", "Le lieu se caractérise par sa diversité architecturale et son importance historique.", "Les voyageurs trouveront dans les environs de l'Obelisco a los Constituyentes de nombreuses opportunités d'activités de loisirs."],
+      es: ["El Obelisco a los Constituyentes ofrece una visión profunda de la cultura y tradición regional.", "El lugar se caracteriza por su diversidad arquitectónica e importancia histórica.", "Los viajeros encontrarán en los alrededores del Obelisco a los Constituyentes diversas oportunidades para actividades de ocio."],
     }, image: "/poi-images/uy-mo-obelisco-a-los-constituyentes-landmarks-v2.webp"},
   {
     id: "uy-mo-mercado-del-puerto-landmarks-v2",

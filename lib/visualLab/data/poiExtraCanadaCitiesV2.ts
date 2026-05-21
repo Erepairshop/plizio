@@ -31,7 +31,10 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Population exceeds 700,000 residents.", "Home to more than 60 Fortune 500 company headquarters.", "Toronto Pearson Airport handles over 40 million passengers annually.", "Incorporated as a city in 1974.", "Located in the Greater Toronto Area (GTA).", "Features over 500 parks and 200 kilometers of trails."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/mississauga-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/mississauga-cities-v2.webp"},
   {
     id: "brampton-cities-v2",
     type: "city",
@@ -235,7 +238,10 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Hosts the largest Oktoberfest outside of Germany.", "Formed the Tri-City area with Waterloo and Cambridge.", "Historic center of manufacturing in Ontario.", "Rapidly evolving into a Canadian technology hub.", "Home to the Kitchener-Waterloo Art Gallery.", "First known as Berlin before changing its name in 1916."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/kitchener-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/kitchener-cities-v2.webp"},
   {
     id: "windsor-cities-v2",
     type: "city",
@@ -509,7 +515,10 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Located directly across the river from Ottawa.", "Part of the National Capital Region (NCR).", "Includes the Canadian Museum of History.", "Gatineau Park, a vast conservation area, lies just north of the city.", "Significant portion of the population works for the federal government.", "Home to the Conservatoire de musique du Québec."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/gatineau-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/gatineau-cities-v2.webp"},
   {
     id: "longueuil-cities-v2",
     type: "city",
@@ -888,7 +897,10 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Economic center of the Maritime provinces.", "Known for its unique Tidal Bore on the Petitcodiac River.", "Strong emphasis on bilingualism and francophone culture.", "Major hub for rail and road transportation in the region.", "Home to the Université de Moncton."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/moncton-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/moncton-cities-v2.webp"},
   {
     id: "saint-john-cities-v2",
     type: "city",
@@ -917,7 +929,10 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Located on the Bay of Fundy, home to the world's highest tides.", "Famous for the Reversing Falls rapids.", "Historic port and shipbuilding center.", "Deeply rooted in maritime and colonial history.", "Major industrial player in Atlantic Canada."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/saint-john-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/saint-john-cities-v2.webp"},
   {
     id: "cape-breton-cities-v2",
     type: "city",
@@ -1051,7 +1066,10 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Home to the University of Guelph, specializing in agricultural science.", "Renowned for its historic limestone architecture.", "Planned city established in the 19th century.", "Strong focus on environmental sustainability initiatives.", "Situated within a fertile agricultural region of southern Ontario.", "Known for a vibrant, creative local community."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/guelph-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/guelph-cities-v2.webp"},
   {
     id: "kingston-cities-v2",
     type: "city",
@@ -1325,7 +1343,10 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Largest city in northern Ontario by area and population.", "World-renowned center for nickel mining and metallurgy.", "Major environmental restoration success story.", "Home to the Science North museum and planetarium.", "Significant hub for Laurentian University.", "Characterized by a unique geography of lakes and rocky terrain."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/sudbury-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/sudbury-cities-v2.webp"},
   {
     id: "brantford-cities-v2",
     type: "city",
@@ -1354,7 +1375,10 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Known as the 'Telephone City'.", "Birthplace of the telephone, invented by Alexander Graham Bell.", "Located along the banks of the Grand River.", "Strong history of industrial manufacturing.", "Features the Bell Homestead National Historic Site.", "Active community in southern Ontario's industrial corridor."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/brantford-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/brantford-cities-v2.webp"},
   {
     id: "peterborough-cities-v2",
     type: "city",
@@ -1523,7 +1547,10 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Expansive municipality in southwestern Ontario.", "Rich, productive agricultural land between two major lakes.", "Historically important for early Black Canadian settlements.", "Economy primarily driven by agriculture and automotive parts.", "Centrally located in the Ontario agricultural corridor.", "Includes multiple small communities within one municipality."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/chatham-kent-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/chatham-kent-cities-v2.webp"},
   {
     id: "new-westminster-cities-v2",
     type: "city",
@@ -2794,6 +2821,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       en: "Delta is a major municipality in British Columbia's Lower Mainland, situated south of Vancouver at the delta of the Fraser River. The city is comprised of three distinct communities: Ladner, North Delta, and Tsawwassen. Geographically, Delta is surrounded by water and fertile marshlands, making the region one of the most vital agricultural areas in the province. An ecological highlight is Burns Bog, the largest undeveloped raised bog on the west coast of North America. Delta plays a pivotal role in Canadian trade, housing the GCT Deltaport and the Tsawwassen Ferry Terminal, which provides the primary link to Vancouver Island. The city balances its industrial significance with the preservation of precious ecosystems and offers diverse recreational activities along its extensive coastlines.",
       pt: "Delta está localizada no sul da região metropolitana de Vancouver, no delta do rio Fraser, e consiste em três comunidades distintas: Ladner, Tsawwassen e North Delta. Com cerca de 110.000 habitantes, a cidade é conhecida pelos seus solos agrícolas férteis, que produzem grande parte dos vegetais frescos da região. Tsawwassen abriga o principal porto de ferries para as ligações da BC Ferries para a Ilha de Vancouver, Sunshine Coast e Gulf Islands. Boundary Bay é também um dos locais de observação de aves mais importantes da costa do Pacífico, com mais de 270 espécies de aves.",
       fr: "Delta est située dans le sud du Grand Vancouver, dans le delta du fleuve Fraser, et comprend trois communautés distinctes : Ladner, Tsawwassen et North Delta. Comptant environ 110 000 habitants, la ville est réputée pour ses terres agricoles fertiles qui produisent une grande partie des légumes frais de la région. Tsawwassen abrite le principal terminal de traversiers de BC Ferries vers l'île de Vancouver, la Sunshine Coast et les îles Gulf. La baie Boundary est également l'un des sites d'observation d'oiseaux les plus importants de la côte Pacifique, avec plus de 270 espèces recensées.",
+      es: "Delta se encuentra en el sur del Gran Vancouver, en el delta del río Fraser, y consta de tres comunidades independientes: Ladner, Tsawwassen y North Delta. Con unos 110.000 habitantes, la ciudad es conocida por sus fértiles suelos agrícolas que producen gran parte de las verduras frescas de la región. En Tsawwassen se encuentra el principal puerto de ferris para las conexiones de BC Ferries hacia la isla de Vancouver, la Sunshine Coast y las islas del Golfo. Boundary Bay es también uno de los lugares de observación de aves más importantes de la costa del Pacífico, con más de 270 especies.",
     }, image: "/poi-images/delta-cities-v2.webp",
     factsAdvanced: {
       de: ["Delta wurde am 10. November 1879 als Gemeinde inkorporiert.", "Burns Bog umfasst eine Fläche von rund 3.000 Hektar und ist ein geschütztes Ökosystem.", "Das Tsawwassen Ferry Terminal ist eines der größten Fährterminals der Welt.", "Delta beherbergt das Reifel Bird Sanctuary, einen wichtigen Stopp für Zugvögel.", "Der George Massey Tunnel verbindet Delta seit 1959 mit Richmond.", "Ladner wurde als Fischerdorf am Fraser River gegründet und bewahrt seinen historischen Kern."],

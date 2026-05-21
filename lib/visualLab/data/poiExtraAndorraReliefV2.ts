@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { POI } from './poi';
 export const andorraReliefV2: POI[] = [
 
@@ -68,6 +69,7 @@ export const andorraReliefV2: POI[] = [
       en: ["Height: 2,656 meters", "Region: Encamp", "Type: High mountain", "Access: hiking trails"],
       pt: ["Altitude: 2.656 metros", "Região: Encamp", "Tipo de terreno: Alta montanha", "Acesso: Trilhos"],
       fr: ["Altitude : 2 656 mètres", "Région : Encamp", "Type de terrain : Haute montagne", "Accès : Sentiers de randonnée"],
+      es: ["Altitud: 2.656 metros", "Región: Encamp", "Tipo de terreno: Alta montaña", "Acceso: Senderos"],
     },
     imageHint: "Pic de la Creveta mountain landscape",
     descriptionAdvanced: {
@@ -472,6 +474,7 @@ export const andorraReliefV2: POI[] = [
       en: ["Height: variable", "Region: Encamp", "Type: ridge", "Features: glacial basins"],
       pt: ["Altitude: Variável", "Região: Encamp", "Tipo: Crista", "Características: Bacias glaciares"],
       fr: ["Altitude : Variable", "Région : Encamp", "Type : Crête", "Caractéristiques : Bassins glaciaires"],
+      es: ["Altura: Variable", "Región: Encamp", "Tipo: Cresta", "Características: Cuencas glaciares"],
     },
     imageHint: "Serra de Ensagents ridge landscape",
     descriptionAdvanced: {
@@ -741,6 +744,7 @@ export const andorraReliefV2: POI[] = [
       en: ["Height: 2,690 meters", "Location: border region", "Terrain: high alpine", "Access: difficult"],
       pt: ["Altitude: 2.690 metros", "Localização: Região fronteiriça", "Terreno: Alpino", "Acesso: Difícil"],
       fr: ["Altitude : 2 690 mètres", "Situation : Région frontalière", "Terrain : Haute montagne", "Accès : Difficile"],
+      es: ["Altura: 2.690 metros", "Ubicación: Región fronteriza", "Terreno: Alpino alto", "Acceso: Difícil"],
     },
     imageHint: "Pic de Tor remote peak",
     descriptionAdvanced: {

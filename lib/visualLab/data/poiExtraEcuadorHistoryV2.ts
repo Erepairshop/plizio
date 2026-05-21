@@ -47,6 +47,7 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       en: ["Altitude: 3,200 meters above sea level", "Built: 15th century", "Height of Temple of the Sun: 12 meters", "Site extent: about 4 hectares", "Distance from Cuenca: about 80 kilometers", "UNESCO World Heritage: part of Qhapaq Ñan (since 2014)"],
       pt: ["Altitude: 3.200 metros acima do nível do mar", "Época de construção: século XV", "Altura principal do Templo do Sol: 12 metros", "Extensão do terreno: cerca de 4 hectares", "Distância de Cuenca: cerca de 80 quilómetros", "Património da UNESCO: parte do Qhapaq Ñan (desde 2014)"],
       fr: ["Altitude : 3 200 mètres au-dessus du niveau de la mer", "Période de construction : XVe siècle", "Hauteur principale du temple du Soleil : 12 mètres", "Étendue du site : environ 4 hectares", "Distance de Cuenca : environ 80 kilomètres", "Patrimoine mondial de l'UNESCO : fait partie du Qhapaq Ñan (depuis 2014)"],
+      es: ["Altitud: 3.200 metros sobre el nivel del mar", "Época de construcción: siglo XV", "Altura principal del Templo del Sol: 12 metros", "Extensión del terreno: unas 4 hectáreas", "Distancia a Cuenca: unos 80 kilómetros", "Patrimonio de la UNESCO: parte del Qhapaq Ñan (desde 2014)"],
     },
   },
   {

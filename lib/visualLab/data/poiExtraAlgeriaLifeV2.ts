@@ -105,6 +105,7 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
       en: ["The park was officially established as a national park in 1983.", "UNESCO designated the area as a Biosphere Reserve in 1990.", "The park contains three major lakes: Tonga, Oubeira, and Mellah.", "It is home to the only wild population of Barbary stag in Algeria.", "The total area of the park is approximately 80,000 hectares.", "Over 40 mammal species and hundreds of bird species inhabit the park."],
       pt: ["Um parque costeiro que protege zonas húmidas importantes e rotas de aves migratórias.", "Situado no território da República Argelina Democrática e Popular.", "Desempenha um papel na identidade local da região.", "Conhecido pela sua importância paisagística ou cultural."],
       fr: ["Un parc côtier qui protège d'importantes zones humides et des routes d'oiseaux migrateurs.", "Situé sur le territoire de la République Algérienne Démocratique et Populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle."],
+      es: ["Un parque costero que protege importantes humedales y rutas de aves migratorias.", "Situado en el territorio de la República Argelina Democrática y Popular.", "Desempeña un papel en la identidad local de la región.", "Conocido por su importancia paisajística o cultural."],
     }, image: "/poi-images/el-kala-national-park-life-v2.webp"},
   {
     id: "chrea-national-park-life-v2",

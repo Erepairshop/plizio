@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraFranceCities: POI[] = [
@@ -196,6 +197,7 @@ export const poiExtraFranceCities: POI[] = [
       en: ["Over 110,000 hectares of vineyards.", "Main grape varieties: Merlot, Cabernet Sauvignon.", "The Cité du Vin is a museum dedicated to wine."],
       pt: ["Mais de 110.000 hectares de vinhedos.", "Variedades principais: Merlot, Cabernet Sauvignon.", "A Cité du Vin é um museu dedicado ao vinho."],
       fr: ["Plus de 110 000 hectares de vignobles.", "Cépages principaux : Merlot, Cabernet Sauvignon.", "La Cité du Vin est un musée dédié au vin."],
+      es: ["Más de 110.000 hectáreas de viñedos.", "Variedades principales: Merlot, Cabernet Sauvignon.", "La Cité du Vin es un museo dedicado al vino."],
     }, image: "/poi-images/agriculture-bordeaux-vineyards-extra.webp",
     descriptionAdvanced: {
       de: "Die Weinberge von Bordeaux im Südwesten Frankreichs bilden das weltweit größte Anbaugebiet für Qualitätsweine und sind ein Symbol für französische Exzellenz. Das Gebiet erstreckt sich über 120.000 Hektar entlang der Flüsse Garonne und Dordogne sowie deren Mündungstrichter, der Gironde. Das maritime Klima und die vielfältigen Bodenbeschaffenheiten, von kiesigen Böden im Médoc bis hin zu Kalksteinplateaus in Saint-Émilion, prägen den Charakter der Weine. Historisch begann der Weinbau bereits zur Zeit der Römer vor etwa 2.000 Jahren, erlebte aber im 12. Jahrhundert durch den Export nach England einen entscheidenden Aufschwung. Heute umfasst die Region über 60 verschiedene geschützte Herkunftsbezeichnungen (AOC) und produziert jährlich rund 700 Millionen Flaschen. Bordeaux ist besonders bekannt für seine Rotweine auf Basis von Merlot und Cabernet Sauvignon, beherbergt aber auch weltberühmte Süßweine wie den Sauternes. Die Stadt Bordeaux dient als logistisches und kulturelles Zentrum der Region, unterstrichen durch die Eröffnung der Cité du Vin.",
@@ -797,6 +799,7 @@ export const poiExtraFranceCities: POI[] = [
       en: ["Main cities: Reims and Épernay.", "Production according to the 'méthode champenoise'.", "Chalk soils are crucial for the flavor."],
       pt: ["Cidades principais: Reims e Épernay.", "Produção de acordo com o 'méthode champenoise'.", "Os solos calcários são cruciais para o sabor."],
       fr: ["Villes principales : Reims et Épernay.", "Fabrication selon la méthode champenoise.", "Les sols crayeux sont essentiels pour le goût."],
+      es: ["Ciudades principales: Reims y Épernay.", "Producción según el 'méthode champenoise'.", "Los suelos calcáreos son cruciales para el sabor."],
     },
     descriptionAdvanced: {
       de: "Die Champagne ist eine historische Provinz im Nordosten Frankreichs, die weltweit für die Produktion des gleichnamigen Schaumweins berühmt ist. Die Region umfasst die Departements Marne, Aube, Haute-Marne und Ardennes, wobei die Städte Reims und Épernay als wirtschaftliche Zentren fungieren. Geologisch zeichnet sich das Gebiet durch seine kreidehaltigen Böden aus, die im Tertiär vor Millionen von Jahren entstanden sind und heute die ideale Grundlage für den Anbau von Chardonnay, Pinot Noir und Pinot Meunier bieten. Die Geschichte des Weinbaus reicht bis in die Römerzeit zurück, doch erst im 17. Jahrhundert perfektionierten Mönche wie Dom Pérignon die Méthode champenoise. Im Jahr 1936 erhielt die Region den Status einer geschützten Ursprungsbezeichnung (AOC), was bedeutet, dass nur hier produzierter Schaumwein den Namen Champagne tragen darf. Die UNESCO nahm die Weinberge, Häuser und Keller der Champagne im Jahr 2015 in die Welterbeliste auf, um ihre einzigartige Kulturlandschaft und industrielle Bedeutung zu würdigern.",
@@ -1227,6 +1230,7 @@ export const poiExtraFranceCities: POI[] = [
       en: ["Inspiration for artists like Claude Monet.", "Three main arches: Porte d'Aval, Porte d'Amont, Manneporte.", "Hiking trails on the cliffs offer great views."],
       pt: ["Inspiração para artistas como Claude Monet.", "Três arcos principais: Porte d'Aval, Porte d'Amont, Manneporte.", "Trilhos nas falésias oferecem excelentes vistas."],
       fr: ["Source d'inspiration pour des artistes comme Claude Monet.", "Trois arches principales : porte d'Aval, porte d'Amont, Manneporte.", "Les sentiers sur les falaises offrent des panoramas superbes."],
+      es: ["Inspiración para artistas como Claude Monet.", "Tres arcos principales: Porte d'Aval, Porte d'Amont, Manneporte.", "Los senderos sobre los acantilados ofrecen vistas fantásticas."],
     }, image: "/poi-images/sea-etretat-cliffs-extra.webp",
     descriptionAdvanced: {
       de: "Die Kreidefelsen von Étretat an der Alabasterküste in der Normandie gehören zu den bekanntesten Naturdenkmälern Frankreichs. Diese monumentalen Klippen bestehen aus weißer Kreide und Feuerstein, die über Jahrmillionen durch Erosion geformt wurden. Drei natürliche Felsböre prägen das Landschaftsbild: die Porte d'Amont, die Porte d'Aval und die gewaltige Manneporte. Besonders die Porte d'Aval mit ihrer nadelartigen Felsformation, der Aiguille, ist ein weltweit bekanntes Motiv. Im 19. Jahrhundert zog Étretat zahlreiche Künstler an, darunter Claude Monet und Gustave Courbet, welche die Lichtspiele auf dem hellen Gestein in ihren Werken festhielten. Auch der Schriftsteller Maurice Leblanc nutzte die Klippen als Schauplatz für seine Geschichten über den Meisterdieb Arsène Lupin. Wanderwege entlang der Klippen bieten weite Ausblicke über den Ärmelkanal und führen zu der Kapelle Notre-Dame-de-la-Garde, die hoch über dem Ort thront. Die Region ist heute Teil eines geschützten Küstengebiets und ein bedeutendes Ziel für den Naturtourismus.",

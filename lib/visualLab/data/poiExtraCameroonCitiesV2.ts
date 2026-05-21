@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraCameroonCitiesV2: POI[] = [
@@ -29,7 +30,10 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Situated at an elevation of approximately 750 meters.", "Home to the University of Yaoundé I, founded in 1962.", "The National Museum is housed in the former presidential palace.", "Ahmadou Ahidjo Stadium is the country's largest sporting venue.", "Founded in 1888 by German expeditions.", "Cultural melting pot for over 200 distinct ethnic groups."]
-    , es: [], pt: [], fr: []},
+    ,
+      es: [],
+      pt: [],
+      fr: [],},
   },
   {
     id: "cameroon-douala-cities-v2",
@@ -59,7 +63,10 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Population exceeds 3 million inhabitants.", "Primary commercial port for Central Africa.", "Douala International Airport (DLA) is the nation's busiest.", "Served as a major administrative hub during German colonial rule.", "Characterized by a humid, equatorial coastal climate.", "Primary financial and industrial center of Cameroon."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/cameroon-douala-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/cameroon-douala-cities-v2.webp"},
   {
     id: "cameroon-garoua-cities-v2",
     type: "state-capital",
@@ -88,7 +95,10 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Situated on the banks of the Bénoué River.", "Major center for cotton processing in Northern Cameroon.", "Located near the Bénoué National Park.", "Gateway to nature reserves in the northern part of the country.", "Sudano-Sahelian tropical climate with distinct wet and dry seasons.", "Critical transport node for the Cameroonian Sahel region."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/cameroon-garoua-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/cameroon-garoua-cities-v2.webp"},
   {
     id: "cameroon-bamenda-cities-v2",
     type: "state-capital",
@@ -117,7 +127,10 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Located at an elevation exceeding 1,200 meters.", "Famous for the 'Bamenda Handicraft Centre'.", "Heartland of traditional chieftaincies (Fons).", "Key educational center within the Anglophone region.", "Surrounded by extensive coffee plantations.", "Primary gateway for hiking in the Bamenda Highlands."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/cameroon-bamenda-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/cameroon-bamenda-cities-v2.webp"},
   {
     id: "cameroon-maroua-cities-v2",
     type: "state-capital",
@@ -146,7 +159,10 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Famous for the 'Marché de l'Artisanat' craft market.", "Principal center of Islamic culture in Northern Cameroon.", "Located in close proximity to Waza National Park.", "Renowned for the production of vibrant, colorful textiles.", "Historical seat of the Mandara culture.", "Important trading hub linking Cameroon with the Chad basin."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/cameroon-maroua-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/cameroon-maroua-cities-v2.webp"},
   {
     id: "cameroon-bafoussam-cities-v2",
     type: "state-capital",
@@ -175,7 +191,10 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Major trading center for coffee and local agricultural produce.", "Historical seat of the Bafoussam chiefdom.", "Known for its traditional architecture and art.", "Located in the heart of the fertile Western Highlands.", "Key cultural site for the Bamileke ethnic group.", "Modern urban development set against a backdrop of traditional influence."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/cameroon-bafoussam-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/cameroon-bafoussam-cities-v2.webp"},
   {
     id: "cameroon-ngaoundere-cities-v2",
     type: "state-capital",
@@ -204,7 +223,10 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Situated on the Adamaoua Plateau at over 1,100 meters.", "Terminal station of the Trans-Cameroon Railway.", "Major center for cattle ranching in the region.", "Site of an important historic Lamidat.", "Cooler, upland climate throughout the year.", "Strategic transit point between northern and southern Cameroon."]
-    , es: [], pt: [], fr: []}
+    ,
+      es: [],
+      pt: [],
+      fr: [],}
   },
   {
     id: "cameroon-bertoua-cities-v2",
@@ -234,7 +256,10 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Gateway to the dense forests of the Congo Basin.", "Major regional center for timber and logging industries.", "Important hub for regional gold mining activities.", "Strategic stopover for traffic between Cameroon and the Central African Republic.", "Rapidly growing urban center in the east.", "Tropical rainforest climate with year-round high humidity."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/cameroon-bertoua-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/cameroon-bertoua-cities-v2.webp"},
   {
     id: "cameroon-ebolowa-cities-v2",
     type: "state-capital",
@@ -259,10 +284,14 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       en: "Ebolowa is the capital of the South Region, set in equatorial lowland rainforest south of Yaoundé at about 600 metres elevation. With roughly 90 000 inhabitants, it is one of Cameroon's leading cocoa-trading centres: the surrounding South Region produces a significant share of national cocoa, and the Cocoa Development Corporation operates major facilities here. The city is also a hub for bananas, palm oil and rubber. Architectural highlights include the French colonial-era administrative building, the Saint-Pierre and Saint-Paul episcopal seat and the Lac d'Ebolowa recreation area. The population is predominantly Bulu and Ewondo. With the expansion of the Kribi and Campo deep-sea ports, Ebolowa is becoming a strategic link between the inland regions and the Atlantic coast. The humid tropical climate with two rainy seasons supports intensive farming and forestry.",
       pt: "Ebolowa é a capital da região do Sul e situa-se na floresta tropical de planície equatorial ao sul de Yaoundé, a cerca de 600 metros de altitude. Com cerca de 90.000 habitantes, é um dos centros de comércio de cacau mais importantes dos Camarões: a região circundante produz uma parte considerável do cacau nacional e a Cocoa Development Corporation mantém aqui instalações importantes. A cidade é também um centro de distribuição de bananas, óleo de palma e borracha. Arquitetonicamente, impressiona o antigo edifício administrativo em estilo colonial francês, a sede episcopal de Saint-Pierre e Saint-Paul e a área de lazer do Lac d'Ebolowa. A população é predominantemente bulu e ewondo. Com a expansão dos portos de águas profundas de Kribi e Campo, Ebolowa está a tornar-se uma ligação estratégica entre o interior e a costa atlântica. O clima tropical húmido com duas estações chuvosas favorece a agricultura e a exploração florestal intensivas.",
       fr: "Ebolowa est la capitale de la région du Sud et se situe dans la forêt tropicale équatoriale de plaine au sud de Yaoundé, à environ 600 mètres d'altitude. Avec environ 90 000 habitants, c'est l'un des plus importants centres de commerce du cacao au Cameroun : la région Sud environnante produit une part considérable du cacao national, et la Sodecao y entretient des installations majeures. La ville est également une plaque tournante pour les bananes, l'huile de palme et le caoutchouc. Sur le plan architectural, l'ancien bâtiment administratif de style colonial français, l'évêché Saint-Pierre et Saint-Paul ainsi que la zone de loisirs du lac d'Ebolowa sont impressionnants. La population est principalement composée de Bulu et d'Ewondo. Avec le développement des ports en eau profonde de Kribi et Campo, Ebolowa devient un lien stratégique entre l'intérieur des terres et la côte atlantique. Le climat tropical humide avec deux saisons des pluies favorise l'agriculture et la sylviculture intensives.",
+      es: "Ebolowa es la capital de la región del Sur y se encuentra en la selva baja ecuatorial al sur de Yaundé, a unos 600 metros de altitud. Con unos 90.000 habitantes, es uno de los centros de comercio de cacao más importantes de Camerún: la región circundante produce una parte considerable del cacao nacional, y la Cocoa Development Corporation mantiene aquí importantes instalaciones. La ciudad es también un centro de distribución de plátanos, aceite de palma y caucho. Arquitectónicamente, impresiona el antiguo edificio administrativo de estilo colonial francés, la sede episcopal de Saint-Pierre y Saint-Paul, así como la zona recreativa del lago de Ebolowa. La población es predominantemente bulu y ewondo. Con la expansión de los puertos de aguas profundas de Kribi y Campo, Ebolowa se está convirtiendo en un vínculo estratégico entre el interior y la costa atlántica. El clima tropical húmedo con dos estaciones de lluvia favorece la agricultura y la silvicultura intensivas.",
     },
     factsAdvanced: {
       en: ["Major hub for the regional cocoa and palm oil trade.", "Set in a dense, lush tropical rainforest landscape.", "Important administrative center for the South Region.", "Key market town for agricultural communities in the forest zone.", "Located in a region with high biodiversity.", "Historical significance as an administrative seat."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/cameroon-ebolowa-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/cameroon-ebolowa-cities-v2.webp"},
   {
     id: "cameroon-buea-cities-v2",
     type: "state-capital",
@@ -291,7 +320,10 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Located on the slopes of the active Mount Cameroon.", "Former capital of German Kamerun (1901-1909).", "Home to the University of Buea.", "Famous for the annual Mount Cameroon Race of Hope.", "Known for a cool, temperate climate due to high elevation.", "Rich in historical German colonial architecture."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/cameroon-buea-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/cameroon-buea-cities-v2.webp"},
   {
     id: "cameroon-kousseri-cities-v2",
     type: "city",
@@ -320,7 +352,10 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Situated on the banks of the Logone River.", "Major border gateway connecting Cameroon and Chad.", "Key center for cross-border trade and logistics.", "Historically significant as an entry point for regional caravans.", "Fast-paced urban environment influenced by cross-border dynamics.", "Economic reliance on commerce and transit goods."]
-    , es: [], pt: [], fr: []}
+    ,
+      es: [],
+      pt: [],
+      fr: [],}
   },
   {
     id: "cameroon-loum-cities-v2",
@@ -346,10 +381,14 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       en: "Loum is a bustling market town in the Moungo Department of the Littoral Region, about 100 kilometres north-east of Douala along the railway to Nkongsamba and at the foot of the volcanic Manengouba Mountains. Its roughly 130 000 inhabitants live mainly from banana, cocoa, coffee and palm-oil plantations spreading across the fertile floodplains between the Mungo and Nkam rivers. Loum is also a key transshipment point for bananas grown by the Cameroon Development Corporation and Plantations du Haut Penja. The population is highly mixed, with Bamiléké, Bakossi, Mbo and Bassa communities living side by side. Long, wet rainy seasons and fertile volcanic soils allow year-round harvests. The town also functions as a transport hub between the Atlantic coast, the western highlands and the Anglophone Southwest.",
       pt: "Loum é uma vibrante cidade de mercado no departamento de Moungo, região do Litoral, situada a cerca de 100 quilómetros a nordeste de Douala, na linha férrea para Nkongsamba e no sopé das montanhas vulcânicas de Manengouba. Os seus cerca de 130 000 habitantes vivem predominantemente das plantações de banana, cacau, café e óleo de palma que caracterizam as planícies aluviais férteis entre os rios Mungo e Nkam. Loum é também um importante centro de transbordo para as bananas da Cameroon Development Corporation e das Plantations du Haut Penja. A cidade possui uma população muito mista, onde convivem Bamiléké, Bakossi, Mbo e Bassa. Característicos são as longas estações das chuvas e os solos vulcânicos férteis que permitem colheitas durante todo o ano. Loum serve também como nó de transporte entre a costa atlântica, o planalto ocidental e o Sudoeste de língua inglesa.",
       fr: "Loum est une ville de marché dynamique dans le département du Moungo, région du Littoral, située à environ 100 kilomètres au nord-est de Douala, sur la ligne de chemin de fer vers Nkongsamba et au pied des monts Manengouba volcaniques. Ses quelque 130 000 habitants vivent principalement des plantations de bananes, de cacao, de café et d'huile de palme qui marquent les riches terres alluviales entre les fleuves Moungo et Nkam. Loum est en outre un centre de transit important pour les bananes de la Cameroon Development Corporation et des Plantations du Haut Penja. La ville possède une population très mixte où cohabitent Bamiléké, Bakossi, Mbo et Bassa. Les longues saisons des pluies et les sols volcaniques fertiles permettent des récoltes tout au largo de l'année. Loum sert également de carrefour routier entre la côte atlantique, les hauts plateaux de l'Ouest et le Sud-Ouest anglophone.",
+      es: "Loum es una vibrante ciudad de mercado en el departamento de Moungo, región del Litoral, situada a unos 100 kilómetros al noreste de Duala, en la línea ferroviaria hacia Nkongsamba y al pie de las montañas volcánicas de Manengouba. Sus aproximadamente 130 000 habitantes viven principalmente de las plantaciones de plátano, cacao, café y aceite de palma que caracterizan las fértiles tierras aluviales entre los ríos Mungo y Nkam. Loum es además un importante punto de transbordo para los plátanos de la Cameroon Development Corporation y de las Plantations du Haut Penja. La ciudad cuenta con una población muy diversa en la que conviven los grupos Bamiléké, Bakossi, Mbo y Bassa. Son características las largas estaciones de lluvia y los fértiles suelos volcánicos que permiten cosechas durante todo el año. Loum sirve también como nudo de comunicaciones entre la costa atlántica, las tierras altas occidentales y el Suroeste anglófono.",
     },
     factsAdvanced: {
       en: ["Situated in a region known for rich volcanic soil.", "Major center for large-scale banana plantations.", "Important contributor to Cameroon's agricultural exports.", "Economic base primarily supported by farming and forestry.", "Located along a major transport artery to the coast.", "Growing center for agribusiness in the Littoral Region."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/cameroon-loum-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/cameroon-loum-cities-v2.webp"},
   {
     id: "cameroon-kumba-cities-v2",
     type: "city",
@@ -378,7 +417,10 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Home to one of the largest regional markets in Southwest Cameroon.", "Crucial hub for the trade of cocoa, palm oil, and rubber.", "Known for its bustling and energetic trade environment.", "Serves as a key logistics point for agricultural produce from surrounding villages.", "Fast-growing urban center in the Southwest Region.", "Important economic contributor to the region's agricultural output."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/cameroon-kumba-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/cameroon-kumba-cities-v2.webp"},
   {
     id: "cameroon-edea-cities-v2",
     type: "city",
@@ -407,7 +449,10 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Home to the significant Edéa hydroelectric power station.", "Known for its large-scale aluminum processing industry (ALUCAM).", "Situated on the banks of the Sanaga River.", "Key provider of hydroelectric power to the national grid.", "Major industrial town within the Littoral Region.", "Strategic location along the main transit route between Douala and Yaoundé."]
-    , es: [], pt: [], fr: []}
+    ,
+      es: [],
+      pt: [],
+      fr: [],}
   },
   {
     id: "cameroon-foumban-cities-v2",
@@ -437,7 +482,10 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Renowned center of Bamoun art and traditional woodcarving.", "Famous for the 18th-century Foumban Sultanate palace.", "Home to the Royal Museum of the Bamoun Sultanate.", "Known for its unique traditional architecture and city plan.", "Key site for preserving Bamoun cultural identity.", "Famous for its bronze casting and metalwork traditions."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/cameroon-foumban-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/cameroon-foumban-cities-v2.webp"},
   {
     id: "cameroon-mbouda-cities-v2",
     type: "city",
@@ -466,7 +514,10 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Important hub for high-altitude crop cultivation.", "Key market town for agricultural goods in the Western Highlands.", "Known for significant poultry and livestock production.", "Strategic stopover for transport along the western regional circuit.", "Characterized by a cool climate conducive to temperate agriculture.", "Fast-growing commercial hub for the surrounding rural areas."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/cameroon-mbouda-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/cameroon-mbouda-cities-v2.webp"},
   {
     id: "cameroon-dschang-cities-v2",
     type: "city",
@@ -495,7 +546,10 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Site of the renowned University of Dschang.", "Known for its pleasant, cool high-altitude climate.", "Features remnants of colonial-era architectural design.", "Key center for regional agriculture and education.", "Famous for the 'Museum of Civilisations' located in the city.", "Primary destination for academic and research pursuits in the West."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/cameroon-dschang-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/cameroon-dschang-cities-v2.webp"},
   {
     id: "cameroon-nkongsamba-cities-v2",
     type: "city",
@@ -524,7 +578,10 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Historically known as the center of Cameroon's coffee industry.", "Situated at the base of the volcanic Manengouba Mountains.", "Important transit town connecting the Littoral and Western Regions.", "Known for its lush, verdant landscapes and fertile volcanic soil.", "Historical importance as a center for coffee export.", "Main trade destination for goods traveling to the coast."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/cameroon-nkongsamba-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/cameroon-nkongsamba-cities-v2.webp"},
   {
     id: "cameroon-kribi-cities-v2",
     type: "city",
@@ -553,7 +610,10 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Home to the iconic and unique Lobe waterfalls directly falling into the sea.", "Cameroon's most famous coastal tourism destination.", "Strategic site for the large-scale Kribi Deep-Sea Port project.", "Famous for its abundant, fresh seafood markets.", "Located in the heart of the South Region's forested coastline.", "Significant potential as a future economic maritime gateway."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/cameroon-kribi-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/cameroon-kribi-cities-v2.webp"},
   {
     id: "cameroon-sangmelima-cities-v2",
     type: "city",
@@ -582,7 +642,10 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Important administrative capital of the Dja-et-Lobo division.", "Vital hub for the local cocoa and timber trade.", "Connected to a wider network of rural forest communities.", "Strategically located in the southern tropical forest zone.", "Known for its steady urban growth and regional commercial activity.", "Essential node in the transportation infrastructure of Southern Cameroon."]
-    , es: [], pt: [], fr: []}
+    ,
+      es: [],
+      pt: [],
+      fr: [],}
   },
   {
     id: "cameroon-bafia-cities-v2",
@@ -612,7 +675,10 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Administrative capital of the Mbam-et-Inoubou division.", "Key market town for agricultural goods in the region.", "Positioned at a transit point between forest and savanna zones.", "Known for its role in the trade of tropical agricultural products.", "Growing regional center with significant commercial potential.", "Historical site of regional administrative importance."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/cameroon-bafia-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/cameroon-bafia-cities-v2.webp"},
   {
     id: "cameroon-guider-cities-v2",
     type: "city",
@@ -641,7 +707,10 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Important agricultural town in the North Region.", "Contributes to the regional production of staple crops.", "Small-scale trade center for the local savanna population.", "Economic hub that serves the surrounding rural agricultural communities.", "Positioned in a transitional zone of Northern Cameroon.", "Vital link in the supply chain for regional markets."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/cameroon-guider-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/cameroon-guider-cities-v2.webp"},
   {
     id: "cameroon-yagoua-cities-v2",
     type: "city",
@@ -666,10 +735,14 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       en: "Yagoua sits in Cameroon's far north-east on the Logone River at the Chadian border and is the capital of Mayo-Danay Department in the Far North Region. With around 80 000 inhabitants, it is one of Central Africa's most important rice-producing centres: the SEMRY rice paddies supply a large share of Cameroonian rice and feed markets in N'Djamena, Maroua and Garoua. The population is predominantly Massa and Toupouri, known for their traditional dances, round mud-brick huts and initiation rites. Yagoua lies in a floodplain that becomes a vast wetland during the rainy season and, together with the nearby Maga reservoir, hosts large populations of waterbirds. The semi-arid climate with a short, intense rainy season between July and October shapes both rice farming and fishing in the Logone wetlands.",
       pt: "Yagoua situa-se no extremo nordeste dos Camarões, junto ao rio Logone na fronteira com o Chade, e é a capital do departamento de Mayo-Danay, na região do Extremo-Norte. Com cerca de 80 000 habitantes, é um dos centros de cultivo de arroz mais importantes da África Central: as plantações de arroz SEMRY fornecem grande parte do arroz camaronês a mercados em N'Djamena, Maroua e Garoua. A população é maioritariamente Massa e Toupouri, ambos conhecidos pelas suas danças tradicionais, cabanas redondas de barro e ritos de iniciação. Yagoua localiza-se numa zona de aluvião que inunda extensamente durante a estação das chuvas, oferecendo habitat para aves aquáticas.",
       fr: "Yagoua est située à l'extrême nord-est du Cameroun, au bord du fleuve Logone à la frontière avec le Tchad, et est le chef-lieu du département du Mayo-Danay dans la région de l'Extrême-Nord. Avec environ 80 000 habitants, c'est l'un des principaux centres rizicoles d'Afrique centrale : les rizeries de la SEMRY fournissent une grande partie du riz camerounais. La population est majoritairement Massa et Toupouri, connus pour leurs danses traditionnelles, leurs cases rondes et leurs rites d'initiation. Yagoua se trouve dans une zone alluviale largement inondée pendant la saison des pluies, constituant avec le lac de Maga voisin un sanctuaire pour les oiseaux aquatiques. Le climat semi-aride rythme la riziculture et la pêche.",
+      es: "Yagoua se encuentra en el extremo noreste de Camerún, junto al río Logone en la frontera con Chad, y es la capital del departamento de Mayo-Danay en la región del Extremo Norte. Con unos 80 000 habitantes, es uno de los centros de cultivo de arroz más importantes de África Central: las plantaciones de arroz SEMRY suministran gran parte del arroz camerunés a mercados en Yamena, Maroua y Garoua. La población es mayoritariamente Massa y Toupouri, conocidos por sus danzas tradicionales y chozas de barro. Yagoua se sitúa en una zona de llanura aluvial que se inunda ampliamente durante la estación de lluvias, ofreciendo hábitat para aves acuáticas junto con el embalse de Maga. El clima es semiárido.",
     },
     factsAdvanced: {
       en: ["Situated on the banks of the Logone River.", "Crucial regional market hub in the Far North.", "Border crossing point and trading node with Chad.", "Known for its active fishing and river-based transport.", "Agricultural center for local grain and staple crop production.", "Key point for cross-border movement in the Logone region."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/cameroon-yagoua-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/cameroon-yagoua-cities-v2.webp"},
   {
     id: "cameroon-mokolo-cities-v2",
     type: "city",
@@ -698,7 +771,10 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Administrative center of the Mayo-Tsanaga division.", "Set in a scenic, rugged mountainous environment.", "Known for unique mountain-based agricultural terraces.", "Important cultural hub for the Mafa ethnic group.", "Renowned for its traditional pottery and artisan crafts.", "Key regional market for mountain-grown crops."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/cameroon-mokolo-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/cameroon-mokolo-cities-v2.webp"},
   {
     id: "cameroon-meiganga-cities-v2",
     type: "city",
@@ -727,7 +803,10 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Positioned on the high-altitude Adamaoua Plateau.", "Important transit town for north-south transport.", "Key center for regional cattle trade and livestock farming.", "Economic hub for the surrounding pastoral communities.", "Known for its cool climate and strategic transport access.", "Acts as a market node for agricultural products in the region."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/cameroon-meiganga-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/cameroon-meiganga-cities-v2.webp"},
   {
     id: "cameroon-banyo-cities-v2",
     type: "city",
@@ -756,7 +835,10 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Historical town with a long tradition of local chiefdoms.", "Strategically located in the Adamawa region.", "Important market hub for regional livestock and trade.", "High-altitude setting within the Adamaoua plateau landscape.", "Known for its cultural heritage and traditional governance.", "Vital link for local trade between rural interior communities."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/cameroon-banyo-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/cameroon-banyo-cities-v2.webp"},
   {
     id: "cameroon-tibati-cities-v2",
     type: "city",
@@ -785,7 +867,10 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Located near the vast Lake Mbakaou reservoir.", "Important center for regional fishing and lake-based trade.", "Key agricultural site for the surrounding plateau communities.", "Historically significant as a regional administrative and trade hub.", "Strategic node for transport along the Adamawa axis.", "Economic focus on livestock and reservoir-based farming."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/cameroon-tibati-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/cameroon-tibati-cities-v2.webp"},
   {
     id: "cameroon-bafang-cities-v2",
     type: "city",
@@ -814,7 +899,10 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Located in the rolling, high-altitude Western Highlands.", "Major center for coffee and cocoa production.", "Known for its lush, verdant, and mountainous landscape.", "Key market town for high-quality highland produce.", "Important cultural and social hub for the local communities.", "Popular destination for experiencing the Western highland climate."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/cameroon-bafang-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/cameroon-bafang-cities-v2.webp"},
   {
     id: "cameroon-bangangte-cities-v2",
     type: "city",
@@ -843,7 +931,10 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Administrative capital of the Ndé division.", "Widely praised for its urban cleanliness and organization.", "Central hub for agricultural trade in the Ndé region.", "High-altitude setting providing a pleasant highland climate.", "Key center for regional health and development initiatives.", "Important cultural site for the local community chiefdoms."]
-    , es: [], pt: [], fr: []}
+    ,
+      es: [],
+      pt: [],
+      fr: [],}
   },
   {
     id: "cameroon-obala-cities-v2",
@@ -873,7 +964,10 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Strategically located in close proximity to Yaoundé.", "Important source of fresh produce for the capital's markets.", "Rapidly expanding as a satellite residential and commercial town.", "Center for agricultural and local small-scale industry.", "Vital link in the transport network between the capital and the north.", "Rapid urban growth driven by proximity to the political hub."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/cameroon-obala-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/cameroon-obala-cities-v2.webp"},
   {
     id: "cameroon-mbalmayo-cities-v2",
     type: "city",
@@ -902,7 +996,10 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Located along the banks of the Nyong River.", "Important gateway for transport between Yaoundé and the south.", "Key center for regional timber processing and agriculture.", "Major market town for the products of the southern forest zone.", "Strategic stop for long-distance transport through central Cameroon.", "Historical importance as a commercial and transport node."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/cameroon-mbalmayo-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/cameroon-mbalmayo-cities-v2.webp"},
   {
     id: "cameroon-tiko-cities-v2",
     type: "city",
@@ -931,7 +1028,10 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Famous for extensive, large-scale banana plantations.", "Important coastal and port town in the Southwest Region.", "Key center for industrial agricultural processing and export.", "Located in fertile lowlands near the Mount Cameroon foothills.", "Essential node for the regional trade of agricultural produce.", "Significant economic contributor to the Southwest's agrarian output."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/cameroon-tiko-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/cameroon-tiko-cities-v2.webp"},
   {
     id: "cameroon-mutengene-cities-v2",
     type: "city",
@@ -960,7 +1060,10 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Located strategically between the regional hubs of Buea and Limbe.", "Crucial transport point along the main coastal highway.", "Serves as a bustling commercial center for the surrounding area.", "Proximity to major agro-industrial plantations in the Southwest.", "Fast-growing urban environment with a strong trade presence.", "Key junction for regional commuters and goods transit."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/cameroon-mutengene-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/cameroon-mutengene-cities-v2.webp"},
   {
     id: "cameroon-limbe-cities-v2",
     type: "city",
@@ -989,7 +1092,10 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Famous for its distinct black volcanic sand beaches.", "Home to the historic and ecologically rich Limbe Botanic Garden.", "Important maritime port and industrial city.", "Situated at the base of the Mount Cameroon volcanic massif.", "Significant destination for tourism and coastal activities.", "Rich in colonial heritage and historic architecture."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/cameroon-limbe-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/cameroon-limbe-cities-v2.webp"},
   {
     id: "cameroon-muyuka-cities-v2",
     type: "city",
@@ -1018,7 +1124,10 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Renowned for large-scale cocoa and oil palm production.", "Strategically located in the fertile lowlands of the Southwest.", "Serves as a central market hub for nearby rural farming communities.", "Important contributor to the region's agricultural export base.", "Growing commercial center with a focus on agrarian trade.", "Key link in the regional supply chain for plantation crops."]
-    , es: [], pt: [], fr: []}
+    ,
+      es: [],
+      pt: [],
+      fr: [],}
   },
   {
     id: "cameroon-wum-cities-v2",
@@ -1048,7 +1157,10 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Located in the high-altitude landscape of the Northwest Region.", "Important market hub for local agricultural and livestock products.", "Known for its scenic views and traditional highland culture.", "Key center for regional rural life and local trade.", "Fast-developing urban center within a rugged terrain.", "Important site for preserving Northwest traditional practices."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/cameroon-wum-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/cameroon-wum-cities-v2.webp"},
   {
     id: "cameroon-kumbo-cities-v2",
     type: "city",
@@ -1077,7 +1189,10 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Capital of the Bui division and major cultural center.", "Famous for the traditional chiefdom of the Nso Fon.", "Key production center for high-quality highland coffee.", "Significant educational and social hub in the Northwest.", "Characterized by a cool, temperate highland climate.", "Renowned for its traditional arts and cultural ceremonies."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/cameroon-kumbo-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/cameroon-kumbo-cities-v2.webp"},
   {
     id: "cameroon-ndop-cities-v2",
     type: "city",
@@ -1106,7 +1221,10 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Known as the center of the productive Ndop rice plains.", "Critical hub for Cameroon's regional rice cultivation.", "Strategically situated in a broad, fertile river valley.", "Major market hub for rice processing and distribution.", "Economic pillar for the agricultural community of the Northwest.", "Landscape defined by extensive and scenic paddy fields."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/cameroon-ndop-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/cameroon-ndop-cities-v2.webp"},
   {
     id: "cameroon-mbengwi-cities-v2",
     type: "city",
@@ -1135,7 +1253,10 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Administrative capital of the Momo division.", "Key center for regional administration and education.", "Set in a picturesque, hilly landscape of the Northwest.", "Hub for local community life and agricultural trade.", "Important site for preserving local Northwest traditions.", "Fast-developing urban and social center."]
-    , es: [], pt: [], fr: []}
+    ,
+      es: [],
+      pt: [],
+      fr: [],}
   },
   {
     id: "cameroon-fundong-cities-v2",
@@ -1165,7 +1286,10 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Administrative capital of the Boyo division.", "Major commercial hub for the high-altitude Boyo region.", "Significant center for traditional governance and chieftaincies.", "Situated in a rugged, high-altitude mountain landscape.", "Key producer of traditional highland crops and crafts.", "Important urban center for the surrounding rural populations."]
-    , es: [], pt: [], fr: []}
+    ,
+      es: [],
+      pt: [],
+      fr: [],}
   },
   {
     id: "cameroon-mora-cities-v2",
@@ -1195,7 +1319,10 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Serves as a primary gateway to the Mandara Mountains.", "Important commercial center for the Far North Region.", "Historical significance as a regional administrative point.", "Vital link for local trade between mountain and plains communities.", "Economic focus on agriculture and local commerce.", "Key node in the Far North regional transportation network."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/cameroon-mora-cities-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/cameroon-mora-cities-v2.webp"},
   {
     id: "cameroon-kaele-cities-v2",
     type: "city",
@@ -1224,7 +1351,10 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Administrative capital of the Mayo-Kani division.", "Key agricultural hub for cotton and grain production.", "Significant center for regional trade in the Far North.", "Characterized by its role in promoting local agrarian development.", "Vibrant commercial hub serving northern rural communities.", "Vital contributor to the regional food supply chain."]
-    , es: [], pt: [], fr: []}
+    ,
+      es: [],
+      pt: [],
+      fr: [],}
   },
   {
     id: "cameroon-bogo-cities-v2",
@@ -1790,6 +1920,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       en: "Foumbot is an important agricultural market town in Noun Department of the West Region and sits at about 1 100 metres elevation on the broad volcanic plateau between Foumban and Bafoussam. With around 80 000 inhabitants, it is one of West Africa's most important vegetable- and tomato-growing centres: the fertile volcanic soils of the Mont Mbapit crater complex allow several harvests per year and supply Yaoundé, Douala, Libreville and N'Djamena with fresh produce. The population is predominantly Bamum, with large Bamiléké and Fulbe communities. The economy rests on tomatoes, potatoes, carrots, groundnuts, maize and coffee. Highlights include the volcanic craters of Mbapit, the nearby Bamum kingdom, the huge Marché Central and the Lac Petponoun lagoon. The mild plateau climate with marked rainy and dry seasons supports particularly intensive agricultural use.",
       pt: "Foumbot é uma importante cidade de mercado agrícola no departamento de Noun da Região do Oeste e situa-se a cerca de 1 100 metros de altitude no vasto planalto vulcânico entre Foumban e Bafoussam. Com cerca de 80 000 habitantes, a cidade é um dos centros de cultivo de legumes e tomates mais importantes da África Ocidental: os solos vulcânicos férteis do complexo de crateras do Monte Mbapit permitem várias colheitas por ano e abastecem Yaoundé, Douala, Libreville e N'Djamena com frutas e legumes frescos. A população pertence predominantemente aos Bamum, com grandes comunidades Bamiléké e Fulas. Economicamente, Foumbot baseia-se em tomates, batatas, cenouras, amendoins, milho e café. Merecem destaque as crateras vulcânicas de Mbapit, o vizinho Reino de Bamum, o enorme Marché Central e a lagoa do Lago Petponoun. O clima suave das terras altas com estações seca e chuvosa marcadas suporta uma utilização agrícola particularmente intensiva.",
       fr: "Foumbot est une importante ville de marché agricole dans le département du Noun de la région de l'Ouest et se situe à environ 1 100 mètres d'altitude dans le vaste plateau volcanique entre Foumban et Bafoussam. Avec environ 80 000 habitants, la ville est l'un des centres de culture maraîchère et de tomates les plus importants d'Afrique de l'Ouest : les sols volcaniques fertiles du complexe de cratères du mont Mbapit permettent plusieurs récoltes par an et approvisionnent Yaoundé, Douala, Libreville et N'Djamena en fruits et légumes frais. La population appartient majoritairement aux Bamoun, avec de grandes communautés Bamiléké et Peuls. Économiquement, Foumbot repose sur la tomate, la pomme de terre, la carotte, l'arachide, le maïs et le café. À voir : les cratères volcaniques de Mbapit, la royauté Bamoun voisine, l'immense Marché Central et la lagune du Lac Petponoun. Le climat doux des hautes terres avec des saisons des pluies et sèches marquées favorise une utilisation agricole particulièrement intensive.",
+      es: "Foumbot es una importante ciudad de mercado agrícola en el departamento de Noun de la región del Oeste y se encuentra a unos 1 100 metros de altitud en la vasta meseta volcánica entre Foumban y Bafoussam. Con unos 80 000 habitantes, la ciudad es uno de los centros de cultivo de verduras y tomates más importantes de África Occidental: los fértiles suelos volcánicos del complejo de cráteres del Mont Mbapit permiten varias cosechas al año y abastecen a Yaundé, Duala, Libreville y Yamena de frutas y verduras frescas. La población pertenece principalmente a los Bamum, con grandes comunidades Bamiléké y Fulbe. Económicamente, Foumbot se basa en tomates, patatas, zanahorias, cacahuetes, maíz y café. Destacan los cráteres volcánicos de Mbapit, el cercano reino Bamum, el enorme Marché Central y la laguna del Lac Petponoun. El clima suave de las tierras altas, con marcadas estaciones seca y lluviosa, permite un uso agrícola especialmente intenso.",
     }, image: "/poi-images/cameroon-foumbot-cities-v2.webp",
     factsAdvanced: {
       de: ["Liegt am Fuße des Berges Mount Foumbot.", "Gehört zum Departement Noun in der Westregion.", "Bekannt als das Zentrum der Gemüseproduktion in Kamerun.", "Wird hauptsächlich vom Volk der Bamoun bewohnt.", "Liegt auf einer Höhe von etwa 1050 Metern.", "Wichtiger Marktplatz für den Handel mit Agrarprodukten."],

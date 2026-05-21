@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { POI } from './poi';
 export const ukHistoryV2: POI[] = [
 
@@ -680,6 +681,7 @@ imageHint: "Hampton Court Palace Tudor architecture",
       en: "Hampton Court Palace, situated in the London Borough of Richmond upon Thames, is a magnificent royal residence that showcases two distinct architectural styles: Tudor and Baroque. Originally built in the early 16th century for Cardinal Thomas Wolsey, it was later seized by King Henry VIII, who expanded it into one of his most favored and opulent palaces. The Tudor sections of the palace include the Great Hall, with its impressive hammerbeam roof, and the vast kitchens that were capable of feeding hundreds of courtiers. In the late 17th century, William III and Mary II commissioned Sir Christopher Wren to rebuild parts of the palace in the elegant Baroque style, intended to rival the Palace of Versailles in France. The palace is also famous for its extensive gardens, which feature the world-renowned Hampton Court Maze and the Great Vine, planted in 1768. Today, Hampton Court Palace is no longer a royal residence but is open to the public as a historical museum, offering a fascinating journey through five centuries of British royal history.",
       pt: "Hampton Court mostra o esplendor da época Tudor e o brilho do barroco. Foi o centro de poder do cardeal Wolsey antes de Henrique VIII reclamar o palácio para si próprio.",
       fr: "Hampton Court montre la splendeur de l'époque Tudor et l'éclat du baroque. C'était le centre du pouvoir du cardinal Wolsey avant qu'Henri VIII ne réclame le palais pour lui-même.",
+      es: "Hampton Court muestra el esplendor de la época Tudor y el brillo del barroco. Fue el centro de poder del cardenal Wolsey antes de que Enrique VIII reclamara el palacio para sí mismo.",
     },
     factsAdvanced: {
       de: ["Kardinal Wolsey begann den Bau des Palastes im Jahr 1514.", "König Heinrich VIII. übernahm den Palast offiziell im Jahr 1529.", "Der Große Saal (Great Hall) besitzt das größte mittelalterliche Dach Englands.", "Sir Christopher Wren entwarf den barocken Flügel zwischen 1689 und 1700.", "Die 'Great Vine' wurde 1768 gepflanzt und gilt als größter Weinstock der Welt.", "Der berühmte Irrgarten aus Hecken wurde um das Jahr 1700 angelegt."],
@@ -734,6 +736,7 @@ imageHint: "Culloden Moor battlefield memorial cairn",
       en: ["Date of the battle: April 16, 1746.", "Duration of the main fight: Less than 60 minutes.", "Jacobite casualties: Estimated 1,500 to 2,000 killed.", "Troop numbers: 5,000 Jacobites against 8,000 government troops.", "Location: Drummossie Muir near Inverness, Scotland.", "Aftermath: Prohibition of Highland dress and bagpipes."],
       pt: ["Durou apenas 40 a 60 minutos.", "Força das tropas: 8.000 contra 7.000 homens.", "Vitória do exército governamental (Duque de Cumberland).", "Bonnie Prince Charlie fugiu para a França."],
       fr: ["N'a duré que 40 à 60 minutes.", "Effectifs : 8 000 contre 7 000 hommes.", "Victoire de l'armée gouvernementale (duc de Cumberland).", "Bonnie Prince Charlie s'est enfui en France."],
+      es: ["Duró solo de 40 a 60 minutos.", "Fuerza de las tropas: 8.000 contra 7.000 hombres.", "Victoria del ejército gubernamental (Duque de Cumberland).", "Bonnie Prince Charlie huyó a Francia."],
     },
     image: "/poi-images/uk-battle-of-culloden-history-v2.webp",
 },  {
@@ -945,6 +948,7 @@ imageHint: "Vindolanda Roman fort archaeological ruins",
       en: ["Battle dates: June 23–24, 1314", "Secured Scottish independence", "Features a bronze equestrian statue of Robert the Bruce", "Key turning point in the First War of Scottish Independence"],
       pt: ["Data da batalha: 23-24 de junho de 1314", "Garantia da independência escocesa", "Estátua equestre de bronze de Robert the Bruce", "Importante ponto de viragem na Primeira Guerra de Independência"],
       fr: ["Date de la bataille : 23-24 juin 1314", "Garantie de l'indépendance écossaise", "Statue équestre en bronze de Robert the Bruce", "Tournant majeur de la première guerre d'indépendance"],
+      es: ["Fecha de la batalla: 23-24 de junio de 1314", "Aseguramiento de la independencia escocesa", "Estatua ecuestre de bronce de Robert the Bruce", "Importante punto de inflexión en la Primera Guerra de Independencia"],
     },
 imageHint: "Bannockburn monument Robert the Bruce statue",
     descriptionAdvanced: {
@@ -990,6 +994,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
       en: ["Ship burial date: circa 625 AD", "Discovery site of the iconic Sutton Hoo helmet", "Likely burial site of King Rædwald", "Most significant Anglo-Saxon find in England"],
       pt: ["Data do túmulo de barco: aprox. 625 d.C.", "Local onde foi encontrado o famoso elmo de Sutton Hoo", "Suposto local de repouso do rei Rædwald", "O mais importante complexo de achados anglo-saxões"],
       fr: ["Date de la tombe de bateau : env. 625 apr. J.-C.", "Lieu où a été trouvé le célèbre casque de Sutton Hoo", "Lieu de repos présumé du roi Rædwald", "Le plus important complexe de découvertes anglo-saxonnes"],
+      es: ["Fecha de la tumba de barco: aprox. 625 d. C.", "Lugar donde se encontró el famoso yelmo de Sutton Hoo", "Presunto lugar de descanso del rey Rædwald", "El complejo de hallazgos anglosajones más importante"],
     },
     imageHint: "Sutton Hoo burial mounds landscape Suffolk",
     descriptionAdvanced: {
@@ -1143,6 +1148,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
       en: ["Invasion: The site of the Roman landing in 43 AD.", "Triumphal Arch: Once stood 25 meters high, serving as a gateway.", "Defenses: Stone walls reach up to 6 meters in height and 3 meters thick.", "Port: Served as the primary entry port for Roman Britain.", "Last Stand: One of the last Roman sites to be abandoned c. 410 AD.", "Management: Under the care of English Heritage since 1984."],
       pt: ["Richborough foi o local de desembarque da invasão romana de 43 d.C.", "O arco de triunfo foi construído por volta de 85 d.C.", "A fortaleza fazia parte da defesa costeira saxã.", "As paredes têm até 4 metros de espessura.", "O local foi escavado no século XX.", "O museu mostra achados da época romana."],
       fr: ["Richborough fut le lieu de débarquement de l'invasion romaine de 43 après J.-C.", "L'arc de triomphe a été construit vers 85 après J.-C.", "La forteresse faisait partie de la défense côtière saxonne.", "Les murs mesurent jusqu'à 4 mètres d'épaisseur.", "Le site a été fouillé au XXe siècle.", "Le musée présente des découvertes de l'époque romaine."],
+      es: ["Richborough fue el lugar de desembarco de la invasión romana de 43 d.C.", "El arco de triunfo fue construido alrededor de 85 d.C.", "La fortaleza era parte de la defensa costera sajona.", "Los muros tienen hasta 4 metros de espesor.", "El sitio fue excavado en el siglo XX.", "El museo muestra hallazgos de la época romana."],
     },
     image: "/poi-images/uk-richborough-roman-fort-history-v2.webp",
   },

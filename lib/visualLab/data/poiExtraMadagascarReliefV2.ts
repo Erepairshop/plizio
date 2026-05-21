@@ -67,12 +67,15 @@ export const poiExtraMadagascarReliefV2: POI[] = [
     coords: [47.4167, -19.3333],
     name: { de: "Ankaratra-Gebirge", hu: "Ankaratra-hegység", ro: "Munții Ankaratra", en: "Ankaratra Mountains"},
     image: "/poi-images/ankaratra-mountains-relief-v2.webp",
-    description: { de: "Ein bedeutendes vulkanisches Gebirge im zentralen Hochland.", hu: "Jelentős vulkáni hegység a központi felföldön.", ro: "Un lanț muntos vulcanic important în platoul central.", en: "A significant volcanic mountain range in the central highlands." },
+    description: { de: "Ein bedeutendes vulkanisches Gebirge im zentralen Hochland.", hu: "Jelentős vulkáni hegység a központi felföldön.", ro: "Un lanț muntos vulcanic important în platoul central.", en: "A significant volcanic mountain range in the central highlands." , es: "Una importante cadena montañosa volcánica en las tierras altas centrales.", pt: "Uma importante cordilheira vulcânica nas terras altas centrais.", fr: "Une importante chaîne de montagnes volcaniques dans les hautes terres centrales."},
     facts: {
       de: ["Zweithöchstes Gebirge der Insel.", "Wichtiges Wassereinzugsgebiet."],
       hu: ["A sziget második legmagasabb hegysége.", "Fontos vízgyűjtő terület."],
       ro: ["Al doilea cel mai înalt lanț muntos al insulei.", "Zona importantă de captare a apei."],
-      en: ["Second highest range on the island.", "Important water catchment area."]
+      en: ["Second highest range on the island.", "Important water catchment area."],
+      es: ["Segunda cadena montañosa más alta de la isla.", "Importante cuenca hidrográfica."],
+      pt: ["Segunda cordilheira mais alta da ilha.", "Importante bacia hidrográfica."],
+      fr: ["Deuxième massif montagneux le plus élevé de l'île.", "Bassin versant important."],
     },
     descriptionAdvanced: {
       de: "Das Ankaratra-Gebirge ist eine bedeutende vulkanische Gebirgskette im zentralen Hochland von Madagaskar, südlich der Hauptstadt Antananarivo. Es erstreckt sich über etwa 100 Kilometer und besteht aus einer Reihe erloschener Vulkane, die im Känozoikum entstanden sind. Die Region ist bekannt für ihr kühles Klima, das deutlich von den tropischen Küstengebieten abweicht und oft dichte Nebelbildung aufweist. Geologisch ist das Gebirge durch Basalt- und Rhyolith-Gesteine geprägt, die durch tektonische Hebungen und vulkanische Aktivität an die Oberfläche gelangten. Die Hänge des Ankaratra sind heute weitgehend entwaldet und werden für den Anbau von Getreide und Obst genutzt, doch in den höheren Lagen finden sich noch Relikte der ursprünglichen Hochlandvegetation. Das Gebirge dient als wichtiges Wassereinzugsgebiet für die umliegenden Täler und speist mehrere Flüsse und Seen. Aufgrund seiner Nähe zur Hauptstadt ist es ein beliebtes Ziel für Wanderungen, wobei der Gipfel des Tsiafajavona die markanteste Erhebung darstellt. Kulturell ist das Gebirge eng mit der Geschichte der Merina-Könige verbunden.",
@@ -85,6 +88,9 @@ export const poiExtraMadagascarReliefV2: POI[] = [
       hu: ["Kb. 100 km hosszú hegylánc", "A sziget második legmagasabb hegysége", "Vulkáni emelkedés révén jött létre", "Közép-Madagaszkár legfőbb forrásvidéke", "Átlagos magassága 2000 méter felett van", "Ritka felföldi kétéltűfajok élőhelye"],
       ro: ["Se întinde pe o lungime de cca. 100 km", "Al doilea cel mai înalt lanț muntos de pe insulă", "Format prin ridicare vulcanică", "Principalul bazin hidrografic pentru centrul insulei", "Altitudine medie de peste 2.000 de metri", "Găzduiește specii rare de amfibieni montani"],
       en: ["Stretches approximately 100 km in length", "Second highest mountain range on the island", "Created by significant volcanic uplift", "Primary watershed for Central Madagascar", "Average elevation exceeds 2,000 meters", "Habitat for rare highland amphibian species"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/ankaratra-mountains-relief-v2.webp",
     
     
@@ -125,12 +131,15 @@ export const poiExtraMadagascarReliefV2: POI[] = [
     coords: [46.8833, -22.1333],
     name: { de: "Andringitra-Massiv", hu: "Andringitra-hegység", ro: "Masivul Andringitra", en: "Andringitra Massif"},
     image: "/poi-images/andringitra-massif-relief-v2.webp",
-    description: { de: "Granitisches Massiv im südlichen zentralen Hochland.", hu: "Gránitmasszívum a déli központi felföldön.", ro: "Masiv granitic în platoul central sudic.", en: "Granitic massif in the southern central highlands." },
+    description: { de: "Granitisches Massiv im südlichen zentralen Hochland.", hu: "Gránitmasszívum a déli központi felföldön.", ro: "Masiv granitic în platoul central sudic.", en: "Granitic massif in the southern central highlands." , es: "Macizo granítico en las tierras altas del centro-sur.", pt: "Maciço granítico nas terras altas do centro-sul.", fr: "Massif granitique dans les hautes terres du centre-sud."},
     facts: {
       de: ["Bekannt für schroffe Gipfel.", "Enthält den Pic Boby."],
       hu: ["Meredek csúcsairól ismert.", "Itt található a Pic Boby."],
       ro: ["Cunoscut pentru vârfurile abrupte.", "Include vârful Pic Boby."],
-      en: ["Known for rugged peaks.", "Contains Pic Boby."]
+      en: ["Known for rugged peaks.", "Contains Pic Boby."],
+      es: ["Conocido por sus picos escarpados.", "Contiene el Pic Boby."],
+      pt: ["Conhecido pelos seus picos escarpados.", "Contém o Pic Boby."],
+      fr: ["Connu pour ses sommets escarpés.", "Comprend le Pic Boby."],
     },
     descriptionAdvanced: {
       de: "Das Andringitra-Massiv im Südosten Madagaskars ist eines der geologisch und biologisch vielfältigsten Gebirge der Insel. Es besteht überwiegend aus hartem Granit und Gneis, die im Präkambrium entstanden sind und durch tektonische Prozesse emporgehoben wurden. Das Massiv ist das Herzstück des Andringitra-Nationalparks und zeichnet sich durch dramatische Steilwände, tiefe Täler und weite Hochplateaus aus. Aufgrund der extremen Höhenunterschiede beherbergt es drei verschiedene Ökosysteme: tropischen Regenwald in den unteren Lagen, Bergwälder in mittleren Höhen und alpine Heidelandschaften auf den Gipfeln. Die Flora ist außerordentlich reich an Endemiten, darunter zahlreiche Orchideen- und Aloe-Arten. Das Andringitra-Massiv ist zudem bekannt für seine außergewöhnliche Vielfalt an Lemuren, wie den Katta, der hier in den felsigen Hochlagen lebt. Für Wanderer und Bergsteiger bietet es einige der anspruchsvollsten und spektakulärsten Routen des Landes, einschließlich der Besteigung des Pic Boby. Die Region hat auch eine große kulturelle Bedeutung für das Volk der Bara und Betsileo.",
@@ -143,6 +152,9 @@ export const poiExtraMadagascarReliefV2: POI[] = [
       hu: ["Több mint 100 millió éves gránit építi fel", "Az UNESCO Világörökség része (Atsinanana esőerdők)", "Több mint 50 különböző emlősfaj otthona", "Madagaszkár legmagasabb látogatható nemzeti parkja", "Híres a 'Papagájok völgyéről'", "A parkban több mint 1000 növényfajt regisztráltak"],
       ro: ["Format din granit vechi de peste 100 milioane de ani", "Parte a Patrimoniului UNESCO (Pădurile Atsinanana)", "Adăpostește peste 50 de specii de mamifere", "Cel mai înalt parc național accesibil din Madagascar", "Cunoscut pentru 'Valea Papagalilor'", "Peste 1.000 de specii de plante înregistrate în parc"],
       en: ["Composed of granite over 100 million years old", "Part of the UNESCO World Heritage (Atsinanana Rainforests)", "Home to over 50 different mammal species", "Highest accessible national park in Madagascar", "Famous for the 'Valley of Parrots'", "Over 1,000 plant species registered in the park"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/andringitra-massif-relief-v2.webp",
     
     
@@ -212,12 +224,15 @@ export const poiExtraMadagascarReliefV2: POI[] = [
     coords: [47.5, -19.5],
     name: { de: "Zentrales Hochland", hu: "Központi felföld", ro: "Platoul central", en: "Central Highlands"},
     image: "/poi-images/central-highlands-relief-v2.webp",
-    description: { de: "Die zentrale Bergregion, die die Insel in zwei Hälften teilt.", hu: "A központi hegyvidék, amely két részre osztja a szigetet.", ro: "Regiunea muntoasă centrală care împarte insula în două.", en: "The central mountain region dividing the island." },
+    description: { de: "Die zentrale Bergregion, die die Insel in zwei Hälften teilt.", hu: "A központi hegyvidék, amely két részre osztja a szigetet.", ro: "Regiunea muntoasă centrală care împarte insula în două.", en: "The central mountain region dividing the island." , es: "La región montañosa central que divide la isla en dos mitades.", pt: "A região montanhosa central que divide a ilha em duas metades.", fr: "La région montagneuse centrale qui divise l'île en deux."},
     facts: {
       de: ["Durchschnittliche Höhe um 1.000 Meter.", "Dicht besiedeltes Kernland."],
       hu: ["Átlagos magasság 1000 méter körül.", "Sűrűn lakott központi terület."],
       ro: ["Altitudinea medie în jur de 1.000 metri.", "Zona centrală dens populată."],
-      en: ["Average elevation around 1,000 meters.", "Densely populated heartland."]
+      en: ["Average elevation around 1,000 meters.", "Densely populated heartland."],
+      es: ["Altitud media de unos 1.000 metros.", "Corazón densamente poblado."],
+      pt: ["Altitude média de cerca de 1.000 metros.", "Coração densamente povoado."],
+      fr: ["Altitude moyenne d'environ 1 000 mètres.", "Cœur du pays densément peuplé."],
     },
     descriptionAdvanced: {
       de: "Das zentrale Hochland, auch als 'Hauts Plateaux' bekannt, bildet das geografische und kulturelle Rückgrat Madagaskars. Diese Region erstreckt sich über den größten Teil des Landesinneren und liegt auf einer durchschnittlichen Höhe von 800 bis 1.800 Metern. Geprägt durch sanfte Hügel, tiefe Täler und markante Gebirgsmassive wie das Ankaratra, unterscheidet sich das Hochland klimatisch deutlich von den heißen Küstenebenen. Die Landschaft ist heute weitgehend durch menschliche Tätigkeit geformt, insbesondere durch die charakteristischen terrassierten Reisfelder, die ein Zeugnis der jahrhundertealten Landwirtschaft der Völker Merina und Betsileo sind. Historisch gesehen war das Hochland das Zentrum politischer Macht und beherbergt die Hauptstadt Antananarivo sowie zahlreiche historische Stätten. Trotz der weitflächigen Entwaldung finden sich in abgelegenen Gebieten noch Reste der ursprünglichen Hochlandfauna und -flora. Die Region ist zudem reich an mineralischen Ressourcen und dient als wichtigster Agrarproduzent der Insel. Das Hochland verkörpert die einzigartige Verschmelzung von afrikanischen und südostasiatischen Kultureinflüssen auf Madagaskar.",
@@ -230,6 +245,9 @@ export const poiExtraMadagascarReliefV2: POI[] = [
       hu: ["Átlagos magassága 800 és 1800 m között van", "A merina és a betsileo kultúra központja", "Teraszos rizstermesztés jellemzi", "Hűvösebb éghajlat a partvidékekhez képest", "A sziget legfőbb gazdasági központja", "Gazdag drágakő- és félidrágakő-lelőhelyekben"],
       ro: ["Altitudine medie între 800 și 1.800 metri", "Centrul culturilor Merina și Betsileo", "Dominat de cultivarea orezului în terase", "Climat mai răcoros decât în zonele de coastă", "Principalul centru economic al insulei", "Bogat în pietre prețioase și semiprețioase"],
       en: ["Average elevation between 800 and 1,800 meters", "Heartland of the Merina and Betsileo cultures", "Dominated by terraced rice cultivation", "Cooler climate compared to coastal regions", "Primary economic engine of the island", "Abundant in gemstones and semi-precious minerals"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/central-highlands-relief-v2.webp",
     
     
@@ -270,12 +288,15 @@ export const poiExtraMadagascarReliefV2: POI[] = [
     coords: [44.2, -22.7],
     name: { de: "Analavelona-Wald", hu: "Analavelona-erdő", ro: "Pădurea Analavelona", en: "Analavelona Forest"},
     image: "/poi-images/analavelona-forest-relief-v2.webp",
-    description: { de: "Ein einzigartiges Waldgebiet im trockenen Südwesten.", hu: "Egyedülálló erdőség a száraz délnyugaton.", ro: "O zonă forestieră unică în sud-vestul arid.", en: "A unique forest area in the dry southwest." },
+    description: { de: "Ein einzigartiges Waldgebiet im trockenen Südwesten.", hu: "Egyedülálló erdőség a száraz délnyugaton.", ro: "O zonă forestieră unică în sud-vestul arid.", en: "A unique forest area in the dry southwest." , es: "Una zona forestal única en el seco suroeste.", pt: "Uma área florestal única no sudoeste seco.", fr: "Une zone forestière unique dans le sud-ouest aride."},
     facts: {
       de: ["Trockenwald-Refugium.", "Höhenlage um 1.000 Meter."],
       hu: ["Szárazerdő-menedék.", "1000 méter körüli magasság."],
       ro: ["Refugiu de pădure uscată.", "Altitudine în jur de 1.000 metri."],
-      en: ["Dry forest refuge.", "Elevation around 1,000 meters."]
+      en: ["Dry forest refuge.", "Elevation around 1,000 meters."],
+      es: ["Refugio de bosque seco.", "Altitud de unos 1.000 metros."],
+      pt: ["Refúgio de floresta seca.", "Altitude de cerca de 1.000 metros."],
+      fr: ["Refuge de forêt sèche.", "Altitude d'environ 1 000 mètres."],
     },
     descriptionAdvanced: {
       de: "Der Analavelona-Wald ist ein isoliertes Hochland-Feuchtwaldgebiet im Südwesten Madagaskars, etwa 50 Kilometer nördlich von Sakaraha. Dieses Ökosystem erhebt sich als grüne Insel inmitten der umliegenden Trockensavannen und fungiert als entscheidender Wasserspeicher für die lokale Landwirtschaft. Für das Volk der Bara ist der Wald heilig, da er traditionell als Grabstätte dient, was historisch zu seinem Schutz vor Rodungen beigetragen hat. Die Region beherbergt eine außergewöhnliche Biodiversität, darunter endemische Lemurenarten und über 60 verschiedene Vogelarten. Aufgrund seiner Lage in einer Übergangszone zwischen verschiedenen Klimazonen weist der Wald eine einzigartige Flora auf. Trotz seines spirituellen Status ist das Gebiet zunehmend durch Buschfeuer und illegalen Holzeinschlag gefährdet. Die Erhaltung dieses ökologischen Refugiums ist für das regionale Mikroklima von existenzieller Bedeutung.",
@@ -288,6 +309,9 @@ export const poiExtraMadagascarReliefV2: POI[] = [
       hu: ["Az erdő tengerszint feletti magassága eléri az 1300 métert.", "Ez a Fiherenana-folyó egyik legfontosabb vízgyűjtő területe.", "A tudósok 65 különböző madárfajt dokumentáltak a területen.", "Az erdő körülbelül 4500 hektáros területet foglal el.", "A bara népcsoport évszázadok óta használja a masszívum barlangjait sírhelyként.", "A régióban olyan ritka fajokat azonosítottak, mint a vörös vari."],
       ro: ["Pădurea este situată la o altitudine de până la 1300 de metri peste nivelul mării.", "Este una dintre cele mai importante zone de captare a apei pentru râul Fiherenana.", "Oamenii de știință au documentat 65 de specii diferite de păsări în zonă.", "Pădurea acoperă o suprafață de aproximativ 4500 de hectare.", "Etnia Bara folosește peșterile din masiv ca morminte de secole.", "În regiune au fost identificate specii rare, precum lemurul vari roșu."],
       en: ["The forest is situated at elevations reaching up to 1,300 meters above sea level.", "It serves as a primary catchment area for the Fiherenana River system.", "Ornithologists have documented 65 different bird species within the forest.", "The forested area covers approximately 4,500 hectares of territory.", "The Bara ethnic group has used the massif's caves for burials for centuries.", "Rare species such as the red ruffed lemur have been recorded in the region."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/analavelona-forest-relief-v2.webp",
     
     
@@ -705,12 +729,15 @@ export const poiExtraMadagascarReliefV2: POI[] = [
     coords: [46.7, -19.1],
     name: { de: "Itasy-Vulkangebiet", hu: "Itasy-vulkáni terület", ro: "Zona vulcanică Itasy", en: "Itasy Volcanic Field"},
     image: "/poi-images/itasy-volcanic-field-relief-v2.webp",
-    description: { de: "Eine Region geprägt durch vulkanische Krater und Seen.", hu: "Vulkáni kráterek és tavak által formált régió.", ro: "O regiune marcată de cratere vulcanice și lacuri.", en: "A region shaped by volcanic craters and lakes." },
+    description: { de: "Eine Region geprägt durch vulkanische Krater und Seen.", hu: "Vulkáni kráterek és tavak által formált régió.", ro: "O regiune marcată de cratere vulcanice și lacuri.", en: "A region shaped by volcanic craters and lakes." , es: "Una región caracterizada por cráteres volcánicos y lagos.", pt: "Uma região caracterizada por crateras vulcânicas e lagos.", fr: "Une région caractérisée par des cratères volcaniques et des lacs."},
     facts: {
       de: ["Zahlreiche Kraterseen.", "Aktive geologische Vergangenheit."],
       hu: ["Számos krátertó.", "Aktív geológiai múlt."],
       ro: ["Numeroase lacuri crater.", "Trecut geologic activ."],
-      en: ["Numerous crater lakes.", "Active geological past."]
+      en: ["Numerous crater lakes.", "Active geological past."],
+      es: ["Numerosos lagos de cráter.", "Pasado geológico activo."],
+      pt: ["Numerosos lagos de cratera.", "Passado geológico ativo."],
+      fr: ["Nombreux lacs de cratère.", "Passé géologique actif."],
     },
     descriptionAdvanced: {
       de: "Das Itasy-Vulkanfeld im zentralen Hochland von Madagaskar ist eine geologisch junge und faszinierende Landschaft, die durch vulkanische Aktivitäten im Quartär geprägt wurde. Das Relief besteht aus über 40 einzelnen Vulkankegeln, Kratern und erstarrten Lavaströmen, die das Gebiet westlich von Antananarivo dominieren. Herzstück der Region ist der Itasy-See, der durch einen Lavastrom entstand, welcher ein Flusstal aufstaute. Die vulkanischen Böden sind äußerst fruchtbar, was zu einer intensiven landwirtschaftlichen Nutzung der Umgebung geführt hat, insbesondere für den Reisanbau und Obstplantagen. In der Region finden sich noch heute Anzeichen für geothermische Aktivität, wie heiße Quellen und Geysire, die als Beweis für die noch nicht vollständig erloschene magmatische Energie gelten. Die kegelförmigen Erhebungen verleihen der Landschaft ein charakteristisches Aussehen, das sich deutlich von den Granitmassiven des restlichen Hochlandes abhebt. Heute ist das Gebiet nicht nur für Geologen von Interesse, sondern auch ein beliebtes Naherholungsziel für die Bewohner der Hauptstadt.",
@@ -723,6 +750,9 @@ export const poiExtraMadagascarReliefV2: POI[] = [
       hu: ["A vulkáni mező körülbelül 400 négyzetkilométernyi területet fed le.", "Az utolsó jelentős kitörések mintegy 8000–10 000 évvel ezelőtt történtek.", "Az Itasy-tó Madagaszkár második legnagyobb tava az Alaotra-tó után.", "Az andranomandrautrai gejzírek a terület legismertebb geotermikus jelenségei.", "A környéken számos vulkáni bomba és lapilli található a talaj felszínén.", "A vulkáni hamu miatt ez a régió Madagaszkár egyik éléstára."],
       ro: ["Câmpul vulcanic acoperă o suprafață de aproximativ 400 de kilometri pătrați.", "Cele mai recente erupții majore au avut loc acum aproximativ 8.000-10.000 de ani.", "Lacul Itasy este al doilea cel mai mare lac din Madagascar ca suprafață.", "Gheizerele din Andranomandrautra sunt printre puținele de acest tip din țară.", "Regiunea conține numeroase conuri de cenușă și domuri de trahit.", "Datorită fertilității solului, zona este celebră pentru producția de roșii și fructe."],
       en: ["The volcanic field covers an area of approximately 400 square kilometers.", "The most recent significant eruptions occurred about 8,000 to 10,000 years ago.", "Lake Itasy is the second-largest lake in Madagascar by surface area.", "The geysers at Andranomandrautra are a prominent geothermal feature of the field.", "Volcanic bombs and lapilli are commonly found throughout the regional landscape.", "The fertile volcanic soil supports one of Madagascar's most productive farming districts."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     

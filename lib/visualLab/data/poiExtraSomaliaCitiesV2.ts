@@ -1804,6 +1804,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       en: ["Geographic coordinates: 11°58' North and 50°45' East.", "Alula is the northernmost town on the Somali mainland.", "Located approximately 50 kilometers west of Cape Guardafui.", "Former administrative center for the Majeerteen Sultanate.", "Strategic location for monitoring shipping lanes in the Gulf of Aden.", "Economy is driven by fishing and the harvesting of frankincense."],
       pt: ["População: aprox. 2.000", "Construção da fortaleza: século XVI", "Distância de Qandala: 30 km", "Número de cavernas com pinturas rupestres: 5", "Peixe principal: sardinhas", "Império: Império Otomano"],
       fr: ["Population : env. 2 000", "Construction de la forteresse : XVIe siècle", "Distance de Qandala : 30 km", "Nombre de grottes avec peintures rupestres : 5", "Poisson principal : sardines", "Empire : Empire ottoman"],
+      es: ["Población: aprox. 2.000", "Construcción de la fortaleza: Siglo XVI", "Distancia a Qandala: 30 km", "Número de cuevas con pinturas rupestres: 5", "Pez principal: sardinas", "Imperio: Imperio Otomano"],
     },
   },
   {
@@ -1846,6 +1847,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       en: ["Geographic coordinates: 9°29' North and 50°48' East.", "Situated on the eastern coast of Africa along the Indian Ocean.", "Severely impacted by the Indian Ocean tsunami on December 26, 2004.", "Renowned for the production and export of high-quality lobster.", "Administratively part of the Bandarbeyla District in the Bari region.", "The population consists primarily of fishing communities."],
       pt: ["População: aprox. 1.500", "Número de estaleiros tradicionais de dhows: 2", "Distância de Bosaso: 50 km", "Peixe principal: lagosta", "Área dos mangais: aprox. 10 km²", "Tipo de barco: Dhow"],
       fr: ["Population : env. 1 500", "Nombre de chantiers navaux traditionnels de dhows : 2", "Distance de Bosaso : 50 km", "Poisson principal : homard", "Surface des mangroves : env. 10 km²", "Type de bateau : Dhow"],
+      es: ["Población: aprox. 1.500", "Número de astilleros tradicionales de dhows: 2", "Distancia a Bosaso: 50 km", "Pez principal: langosta", "Área de los manglares: aprox. 10 km²", "Tipo de barco: Dhow"],
     },
   },
   {
@@ -1888,6 +1890,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       en: ["Geographic coordinates: 7°13' North and 48°51' East.", "The administrative center of the Jariban District in the Mudug region.", "Situated at an average elevation of approximately 190 meters above sea level.", "A major livestock trading hub in central Somalia.", "Serves as a connection point between Galkayo and the coast at Garacad.", "Water supply is primarily sourced from deep boreholes."],
       pt: ["População estimada: 6.000", "Distância de Galkayo: 150 km", "Número de poços profundos: 4", "Gado principal: camelos", "Temperatura média: 30 °C", "Rota comercial: Mogadíscio - Norte"],
       fr: ["Population estimée : 6 000", "Distance de Galkayo : 150 km", "Nombre de puits profonds : 4", "Bétail principal : chameaux", "Température moyenne : 30 °C", "Route commerciale : Mogadiscio - Nord"],
+      es: ["Población estimada: 6.000", "Distancia a Galkayo: 150 km", "Número de pozos profundos: 4", "Ganado principal: camellos", "Temperatura media: 30 °C", "Ruta comercial: Mogadiscio - Norte"],
     },
   },
   {
@@ -1930,6 +1933,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       en: ["Geographic coordinates: 5°21' North and 48°31' East.", "Former capital of the Sultanate of Hobyo (founded in 1878).", "An important ancient commercial outpost of the Ajuran Empire.", "Located approximately 500 kilometers north of the capital, Mogadishu.", "Renowned for its distinctive white sand dunes that migrate inland.", "The Italian protectorate over Hobyo was established in 1888."],
       pt: ["População: aprox. 15.000", "Capital do Sultanato de Hobyo: 1878-1926", "Extensão costeira: Oceano Índico", "Distância de Mogadíscio: 350 km", "Número de mesquitas: 4", "Fundador do Sultanato: Yusuf Ali Kenadid"],
       fr: ["Population : env. 15 000", "Capitale du sultanat de Hobyo : 1878-1926", "Longueur de la côte : océan Indien", "Distance de Mogadiscio : 350 km", "Nombre de mosquées : 4", "Fondateur du sultanat : Yusuf Ali Kenadid"],
+      es: ["Población: aprox. 15.000", "Capital del Sultanato de Hobyo: 1878-1926", "Longitud costera: Océano Índico", "Distancia a Mogadiscio: 350 km", "Número de mezquitas: 4", "Fundador del Sultanato: Yusuf Ali Kenadid"],
     },
   },
   {
@@ -1972,6 +1976,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       en: ["Geographic coordinates: 4°39' North and 47°51' East.", "The center of the eponymous district in the Mudug region.", "Located approximately 30 kilometers inland from the Indian Ocean coast.", "A major trading center for camels and goats in Galmudug.", "Liberated from long-term militant control in January 2023.", "Local economy relies on pastoralism and coastal fishing activities."],
       pt: ["População: aprox. 5.000", "Pico da pirataria: 2005-2012", "Distância de Hobyo: 50 km", "Número de mesquitas: 2", "Peixe principal: atum", "Número de poços: aprox. 10"],
       fr: ["Population : env. 5 000", "Période de pointe de la piraterie : 2005-2012", "Distance de Hobyo : 50 km", "Nombre de mosquées : 2", "Poisson principal : thon", "Nombre de puits : env. 10"],
+      es: ["Población: aprox. 5.000", "Fase pico de piratería: 2005-2012", "Distancia a Hobyo: 50 km", "Número de mezquitas: 2", "Pez principal: atún", "Número de pozos: aprox. 10"],
     },
   },
   {
@@ -2014,6 +2019,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       en: ["Geographic coordinates: 6°14' North and 46°25' East.", "Features the Abudwak Airport, which was primarily constructed through local funding.", "The primary commercial hub for the Marehan clans in central Somalia.", "Positioned on the vital route connecting central Ethiopia with the Indian Ocean.", "Elevation: Approximately 450 meters above sea level.", "A center for large-scale livestock vaccination campaigns in Galguduud."],
       pt: ["População: aprox. 20.000", "Rio: Shebelle", "Distância de Mogadíscio: 400 km", "Número de escolas: 4", "Cultivo principal: Milho", "Hospital: 1"],
       fr: ["Population : env. 20 000", "Rivière : Shebelle", "Distance de Mogadiscio : 400 km", "Nombre d'écoles : 4", "Culture principale : Maïs", "Hôpital : 1"],
+      es: ["Población: aprox. 20.000", "Río: Shebelle", "Distancia a Mogadiscio: 400 km", "Número de escuelas: 4", "Cultivo principal: Maíz", "Hospital: 1"],
     },
   },
   {
@@ -2056,6 +2062,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       en: ["Geographic coordinates: 4°40' North and 46°37' East.", "Globally recognized as a center for the production of meerschaum pipes.", "One of the oldest continuously inhabited settlements in central Somalia.", "The seat of the El Bur District within the Galguduud region.", "A significant site of historical conflicts during the Somali Civil War.", "The area contains substantial deposits of the mineral sepiolite."],
       pt: ["População: aprox. 10 000", "Altura da colina: aprox. 50 m acima do entorno", "Distância a Mogadíscio: 350 km", "Número de mesquitas: 2", "Dia de mercado: semanal", "Conflitos: década de 1990"],
       fr: ["Population : env. 10 000", "Hauteur de la colline : env. 50 m au-dessus du sol", "Distance de Mogadiscio : 350 km", "Nombre de mosquées : 2", "Jour de marché : hebdomadaire", "Conflits : années 1990"],
+      es: ["Población: aprox. 10 000", "Altura de la colina: aprox. 50 m sobre el entorno", "Distancia a Mogadiscio: 350 km", "Número de mezquitas: 2", "Día de mercado: semanal", "Conflictos: década de 1990"],
     },
   },
   {
@@ -2098,6 +2105,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       en: ["Geographic coordinates: 3°53' North and 47°11' East.", "A key coastal stronghold in the Galguduud region.", "Renowned as a significant center for Islamic scholarship.", "Located on the strategic coastal road between Mogadishu and Hobyo.", "Home to a growing fishing industry on the Indian Ocean.", "Was recaptured by government forces in January 2023."],
       pt: ["População: aprox. 3000", "Distância a Abudwak: 60 km", "Número de poços: 3", "Gado principal: camelo", "Curandeiros tradicionais: ativos", "Mercado: diário"],
       fr: ["Population : env. 3 000", "Distance d'Abudwak : 60 km", "Nombre de puits : 3", "Bétail principal : chameau", "Guérisseurs traditionnels : actifs", "Marché : quotidien"],
+      es: ["Población: aprox. 3000", "Distancia a Abudwak: 60 km", "Número de pozos: 3", "Ganado principal: camello", "Curanderos tradicionales: activos", "Mercado: diario"],
     },
   },
   {
@@ -2140,6 +2148,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       en: ["Geographic coordinates: 2°49' North and 45°32' East.", "Located in the fertile valley of the Shabelle River.", "A major producer of sugarcane and various fruits for Mogadishu.", "Home to significant irrigation systems dating back to the colonial era.", "Infrastructurally connected via the road between Mogadishu and Beledweyne.", "The population consists primarily of sedentary agropastoralists."],
       pt: ["População: aprox. 15.000", "Rio: Shabelle", "Fábrica de açúcar: construída nos anos 70", "Cultivo principal: cana-de-açúcar", "Distância de Mogadíscio: 70 km", "Risco de inundação: sazonal"],
       fr: ["Population : env. 15 000", "Fleuve : Shabelle", "Sucrerie : construite dans les années 70", "Culture principale : canne à sucre", "Distance de Mogadiscio : 70 km", "Risque d'inondation : saisonnier"],
+      es: ["Población: aprox. 15.000", "Río: Shabelle", "Fábrica de azúcar: construida en los 70", "Cultivo principal: caña de azúcar", "Distancia a Mogadiscio: 70 km", "Riesgo de inundación: estacional"],
     },
   },
   {
@@ -2182,6 +2191,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       en: ["Geographic coordinates: 2°39' North and 46°19' East.", "Former administrative center of the Italian protectorate (prior to 1905).", "A significant coastal outpost for maritime trade in Middle Shabelle.", "Renowned for its extensive and ecologically important coral reefs.", "Positioned on the historical frankincense trade route along the coast.", "The local population is primarily composed of the Abgaal clan."],
       pt: ["População: aprox. 5.000", "Distância de Mogadíscio: 100 km", "Número de mesquitas: 2", "Peixe principal: Atum", "Porto: natural", "Recifes de coral: presentes"],
       fr: ["Population : env. 5 000", "Distance de Mogadiscio : 100 km", "Nombre de mosquées : 2", "Poisson principal : Thon", "Port : naturel", "Récifs coralliens : présents"],
+      es: ["Población: aprox. 5.000", "Distancia a Mogadiscio: 100 km", "Número de mezquitas: 2", "Pescado principal: Atún", "Puerto: natural", "Arrecifes de coral: presentes"],
     },
   },
   {

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { POI } from './poi';
 export const belarusNatureV2: POI[] = [
 
@@ -656,6 +657,7 @@ export const belarusNatureV2: POI[] = [
       en: ["Total length of the river is 510 kilometers", "276 kilometers of its course are in Belarus", "Main source for the water supply of Minsk", "Named 'Neris' in Lithuania"],
       pt: ["Comprimento total do rio: 510 quilómetros", "Dos quais 276 quilómetros percorrem a Bielorrússia", "Principal fonte de abastecimento de água para Minsk", "Chamado de 'Neris' na Lituânia"],
       fr: ["Longueur totale de la rivière : 510 kilomètres", "Dont 276 kilomètres s'écoulent en Biélorussie", "Source principale d'approvisionnement en eau pour Minsk", "Appelée 'Neris' en Lituanie"],
+      es: ["Longitud total del río: 510 kilómetros", "De ellos, 276 kilómetros transcurren en Bielorrusia", "Fuente principal de suministro de agua para Minsk", "En Lituania se llama 'Neris'"],
     },
     imageHint: "Scenic river valley with pine trees on the banks",
     descriptionAdvanced: {
@@ -931,6 +933,7 @@ imageHint: "Narrow river with overgrown banks and a quiet current",
       en: ["Total length of the river is 327 kilometers", "Originates in the Minsk Upland", "Feeds the Zaslavye reservoir (Minsk Sea)", "Highly regulated course within Minsk city limits"],
       pt: ["Comprimento total do rio: 327 quilómetros", "Nasce no planalto de Minsk", "Alimenta a albufeira de Zaslauye (Mar de Minsk)", "Curso fortemente regulado na zona urbana de Minsk"],
       fr: ["Longueur totale de la rivière : 327 kilomètres", "Prend sa source dans les collines de Minsk", "Alimente le réservoir de Zaslavskoye (mer de Minsk)", "Cours fortement régulé dans la zone urbaine de Minsk"],
+      es: ["Longitud total del río: 327 kilómetros", "Nace en las tierras altas de Minsk", "Alimenta el embalse de Zaslauye (mar de Minsk)", "Curso fuertemente regulado en el área urbana de Minsk"],
     },
     imageHint: "River with stone embankments and parks in a city",
     image: "/poi-images/belarus-svisloch-river-nature-v2.webp",

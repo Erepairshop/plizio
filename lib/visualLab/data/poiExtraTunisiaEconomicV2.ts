@@ -1120,6 +1120,7 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       en: ["Year of discovery: 1971", "Commenced production: 1973", "Peak daily output: 30,000 barrels", "Total recoverable reserves: 100 million barrels", "Water depth: 60 metres", "Number of producing wells: 18"],
       pt: ["Início da produção: 1973", "Número de plataformas: 12", "Produção média diária em 2020: 12.000 barris", "Reservas estimadas originalmente: 120 milhões de barris", "Custos de investimento: 150 milhões de dólares americanos", "Profundidade da água: 60 metros"],
       fr: ["Début de la production : 1973", "Nombre de plateformes : 12", "Production quotidienne moyenne en 2020 : 12 000 barils", "Réserves initialement estimées : 120 millions de barils", "Coûts d'investissement : 150 millions de dollars américains", "Profondeur de l'eau : 60 mètres"],
+      es: ["Inicio de la producción: 1973", "Número de plataformas: 12", "Producción media diaria 2020: 12.000 barriles", "Reservas estimadas originales: 120 millones de barriles", "Costes de inversión: 150 millones de dólares estadounidenses", "Profundidad del agua: 60 metros"],
     },
   },
   {

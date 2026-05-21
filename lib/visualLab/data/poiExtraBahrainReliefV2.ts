@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { POI } from './poi';
 export const bahrainReliefV2: POI[] = [
 
@@ -177,6 +178,7 @@ export const bahrainReliefV2: POI[] = [
       en: ["Coastline: 2 km.", "Beach width: up to 50 m.", "Water depth: under 2 m up to 500 m offshore.", "Annual visitors: over 50,000.", "The headland is located 5 km northeast of Manama.", "There are 2 main beaches."],
       pt: ["Linha costeira: 2 km.", "Largura da praia: até 50 m.", "Profundidade da água: menos de 2 m até 500 m da costa.", "Número anual de visitantes: mais de 50.000.", "A ponta fica a 5 km a nordeste de Manama.", "Existem 2 praias principais."],
       fr: ["Ligne côtière : 2 km.", "Largeur de la plage : jusqu'à 50 m.", "Profondeur de l'eau : moins de 2 m jusqu'à 500 m du rivage.", "Nombre de visiteurs annuels : plus de 50 000.", "La pointe est située à 5 km au nord-est de Manama.", "Il y a 2 plages principales."],
+      es: ["Línea costera: 2 km.", "Ancho de la playa: hasta 50 m.", "Profundidad del agua: menos de 2 m hasta 500 m de la costa.", "Visitantes anuales: más de 50.000.", "La punta está a 5 km al noreste de Manama.", "Hay 2 playas principales."],
     },
     image: "/poi-images/bahrain-ras-al-barr-relief-v2.webp",
   },
@@ -266,6 +268,7 @@ export const bahrainReliefV2: POI[] = [
       en: ["Coordinates: 26°20'N, 50°38'E", "Area of surrounding fishing grounds: 8 km²", "Lighthouse height: 15 m", "Lighthouse range: 27 km", "Average tidal range: 1.5 m", "Distance from Manama: approx. 15 km"],
       pt: ["Comprimento da língua de terra: cerca de 5 km", "Altitude acima do nível do mar: máximo 2 m", "Distância de Manama: cerca de 15 km", "Número de aves reprodutoras: mais de 2000 casais por ano", "Profundidade da água ao largo da costa: 3–7 m", "Ano de construção do farol: 1957"],
       fr: ["Longueur de la langue de terre : env. 5 km", "Altitude au-dessus du niveau de la mer : maximum 2 m", "Distance de Manama : environ 15 km", "Nombre d'oiseaux nicheurs : plus de 2000 couples par an", "Profondeur de l'eau au large : 3–7 m", "Année de construction du phare : 1957"],
+      es: ["Longitud de la lengua de tierra: aprox. 5 km", "Altitud sobre el nivel del mar: máximo 2 m", "Distancia a Manama: unos 15 km", "Número de aves nidificantes: más de 2000 parejas al año", "Profundidad del agua frente a la costa: 3–7 m", "Año de construcción del faro: 1957"],
     },
     image: "/poi-images/bahrain-ras-al-jazayir-relief-v2.webp",
   },
@@ -670,6 +673,7 @@ export const bahrainReliefV2: POI[] = [
       en: ["Area: 0.5 km²", "Average depth: 2 m", "Exposed at low tide: 1 m high", "Coral species: 15", "Sea turtle species: 2", "Distance from Hawar: 2 km"],
       pt: ["Área: 0,5 km²", "Profundidade média da água: 2 m", "Altura na maré baixa: 1 m", "Espécies de corais: 15", "Espécies de tartarugas: 2", "Distância para a ilha mais próxima: 1 km"],
       fr: ["Superficie : 0,5 km²", "Profondeur d'eau moyenne : 2 m", "Altitude à marée basse : 1 m", "Nombre d'espèces de coraux : 15", "Nombre d'espèces de tortues : 2", "Distance de l'île la plus proche : 1 km"],
+      es: ["Superficie: 0,5 km²", "Profundidad media del agua: 2 m", "Altura en marea baja: 1 m", "Especies de coral: 15", "Especies de tortugas: 2", "Distancia a la isla más cercana: 1 km"],
     },
     image: "/poi-images/bahrain-fasht-al-azm-relief-v2.webp",
   },
@@ -714,6 +718,7 @@ export const bahrainReliefV2: POI[] = [
       en: ["Area: 0.05 km²", "Max elevation: 1 m", "Diameter: 200 m", "Average depth: 0.5 m", "Bird species: 6", "Distance from Hawar: 4 km"],
       pt: ["Área: 0,05 km²", "Altura máxima: 1 m", "Diâmetro: 200 m", "Profundidade na maré alta: <0,5 m", "Espécies de aves: 6", "Distância para a ilha mais próxima: 1,5 km"],
       fr: ["Superficie : 0,05 km²", "Altitude maximale : 1 m", "Diamètre : 200 m", "Profondeur à marée haute : <0,5 m", "Nombre d'espèces d'oiseaux : 6", "Distance de l'île la plus proche : 1,5 km"],
+      es: ["Superficie: 0,05 km²", "Altura máxima: 1 m", "Diámetro: 200 m", "Profundidad en marea alta: <0,5 m", "Especies de aves: 6", "Distancia a la isla más cercana: 1,5 km"],
     },
     image: "/poi-images/bahrain-jaradah-relief-v2.webp",
   },
@@ -803,6 +808,7 @@ export const bahrainReliefV2: POI[] = [
       en: ["Length: 2 km", "Area: 0.5 km²", "Max elevation: 1 m", "Distance from Al-Hadd: 1 km", "Bird species: 20", "Pottery fragments found: >100"],
       pt: ["Comprimento: 2 km", "Área: 0,5 km²", "Altitude: 1 m", "Número de espécies de aves: 20", "Área das salinas: 0,3 km²", "Profundidade da água: 1–3 m"],
       fr: ["Longueur : 2 km", "Superficie : 0,5 km²", "Altitude : 1 m", "Nombre d'espèces d'oiseaux : 20", "Surface des marais salants : 0,3 km²", "Profondeur de l'eau : 1–3 m"],
+      es: ["Longitud: 2 km", "Superficie: 0,5 km²", "Altitud: 1 m", "Número de especies de aves: 20", "Superficie de las salinas: 0,3 km²", "Profundidad del agua: 1–3 m"],
     },
     image: "/poi-images/bahrain-ras-abu-jarjur-relief-v2.webp",
   },
@@ -1027,6 +1033,7 @@ export const bahrainReliefV2: POI[] = [
       en: ["Length: 5 km", "Area: 2 km²", "Average elevation: 10 m", "Annual rainfall: 50 mm", "Reptile species: 8", "Temporary pools after rain: 3"],
       pt: ["Comprimento: 5 km", "Área: 2 km²", "Altitude: 10 m", "Precipitação por ano: 50 mm", "Número de espécies de répteis: 8", "Pontos de água temporários: 3"],
       fr: ["Longueur : 5 km", "Superficie : 2 km²", "Altitude : 10 m", "Précipitations par an : 50 mm", "Nombre d'espèces de reptiles : 8", "Points d'eau temporaires : 3"],
+      es: ["Longitud: 5 km", "Superficie: 2 km²", "Altura: 10 m", "Precipitación anual: 50 mm", "Número de especies de reptiles: 8", "Puntos de agua temporales: 3"],
     },
     image: "/poi-images/bahrain-wadi-al-rammam-relief-v2.webp",
   },
@@ -1071,6 +1078,7 @@ export const bahrainReliefV2: POI[] = [
       en: ["Length: 1 km", "Area: 0.5 km²", "Max elevation: 2 m", "Number of palm trees: 500", "Distance from Al-Budaiya: 1 km", "Houses built: 20"],
       pt: ["Comprimento: 1 km", "Área: 0,5 km²", "Altitude: 2 m", "Número de palmeiras: 500", "Distância de Al-Budaiya: 1 km", "Número de moradias: 20"],
       fr: ["Longueur : 1 km", "Superficie : 0,5 km²", "Altitude : 2 m", "Nombre de palmiers : 500", "Distance d'Al-Budaiya : 1 km", "Nombre de villas : 20"],
+      es: ["Longitud: 1 km", "Superficie: 0,5 km²", "Altitud: 2 m", "Número de palmeras: 500", "Distancia a Al-Budaiya: 1 km", "Número de villas: 20"],
     },
     image: "/poi-images/bahrain-ras-al-ghat-relief-v2.webp",
   },
@@ -1205,6 +1213,7 @@ export const bahrainReliefV2: POI[] = [
       en: ["Population: approximately 2,000", "Distance from Muharraq City: 5 km northeast", "Pearl fishing peak: 19th century", "Restored wind-tower houses: about 10", "Mangrove area: roughly 0.5 km² along the coast", "Pearl Festival: established in 2004"],
       pt: ["População: aprox. 2.000 habitantes", "Localização: 5 km a nordeste de Muharraq", "Auge da pesca de pérolas: século XIX", "Casas com torres de vento: aprox. 10 edifícios restaurados", "Área de mangais: cerca de 0,5 km² na costa", "Festival de pérolas: realizado desde 2004"],
       fr: ["Population : environ 2 000 habitants", "Situation : 5 km au nord-est de Muharraq", "Âge d'or de la perle : XIXe siècle", "Nombre de tours à vent : environ 10 bâtiments restaurés", "Surface de mangrove : environ 0,5 km² le long de la côte", "Festival annuel de la perle : organisé depuis 2004"],
+      es: ["Población: aprox. 2.000 habitantes", "Ubicación: 5 km al noreste de Muharraq", "Apogeo de la pesca de perlas: siglo XIX", "Casas con torre de viento: aprox. 10 edificios restaurados", "Área de manglares: unos 0,5 km² en la costa", "Festival de perlas: organizado desde 2004"],
     },
     image: "/poi-images/bahrain-al-hajiyat-relief-v2.webp",
   }

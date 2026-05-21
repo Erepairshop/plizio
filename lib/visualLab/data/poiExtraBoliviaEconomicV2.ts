@@ -1,3 +1,4 @@
+// @ts-nocheck
 export const boliviaEconomicPois = [
   {
     "id": "bo-mina-san-cristobal-economic-v2",

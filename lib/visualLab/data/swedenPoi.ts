@@ -85,7 +85,10 @@ export const swedenRegions: POI[] = [
     },
     facts: {
       en: [], de: [], hu: [], ro: []
-    , es: [], pt: [], fr: []},
+    ,
+      es: [],
+      pt: [],
+      fr: [],},
     factsAdvanced: {
       de: ["Die Stockholmer U-Bahn erstreckt sich über 110 Kilometer und ist mit über 90 gestalteten Stationen die längste Kunstgalerie der Welt.", "Stockholm verteilt sich auf 14 Inseln, die durch ein komplexes Netzwerk von 57 Brücken verbunden sind.", "Der Stockholmer Königspalast verfügt über mehr als 600 Zimmer und ist einer der größten aktiven königlichen Paläste weltweit.", "Das Vasa-Museum beherbergt das einzige nahezu intakte Schiff des 17. Jahrhunderts, das 1961 nach 333 Jahren Unterwasserzeit geborgen wurde."],
       hu: [],
@@ -146,7 +149,10 @@ export const swedenRegions: POI[] = [
     },
     facts: {
       en: [], de: [], hu: [], ro: []
-    , es: [], pt: [], fr: []},
+    ,
+      es: [],
+      pt: [],
+      fr: [],},
     factsAdvanced: {
       de: ["Die Stadt Göteborg wurde im Jahr 1621 mit einem königlichen Freibrief gegründet, um als strategisch wichtiger Handelsposten zu fungieren.", "Das Unternehmen Volvo wurde 1927 in Göteborg gegründet und hat dort noch immer einen seiner wichtigsten Hauptsitze.", "Der Gothia Cup in Göteborg gilt als das größte Jugendfußballturnier der Welt und begrüßt jährlich zehntausende Spieler aus über 80 Nationen.", "Liseberg ist der am meisten besuchte Vergnügungspark in Skandinavien und wurde 1923 eröffnet."],
       hu: [],
@@ -204,7 +210,10 @@ export const swedenRegions: POI[] = [
     },
     facts: {
       en: [], de: [], hu: [], ro: []
-    , es: [], pt: [], fr: []},
+    ,
+      es: [],
+      pt: [],
+      fr: [],},
     factsAdvanced: {
       de: ["Die Öresundbrücke verbindet Schweden mit Dänemark und ist insgesamt 7,8 Kilometer lang.", "Der Wolkenkratzer 'Turning Torso' ist 190 Meter hoch und weist eine Verdrehung von 90 Grad von der Basis bis zur Spitze auf.", "Malmö wandelt sich durch das Projekt 'Västra Hamnen' von einer Industriegemeinde zu einem nachhaltigen, modernen Wohnviertel.", "Mit Bewohnern aus über 170 Nationen gilt Malmö als eine der diversesten Städte Schwedens."],
       hu: [],
@@ -262,7 +271,10 @@ export const swedenRegions: POI[] = [
     },
     facts: {
       en: [], de: [], hu: [], ro: []
-    , es: [], pt: [], fr: []},
+    ,
+      es: [],
+      pt: [],
+      fr: [],},
     factsAdvanced: {
       de: ["Die Universität Uppsala wurde bereits 1477 gegründet und ist damit die älteste Universität in den skandinavischen Ländern.", "Carl von Linné, der Begründer der modernen Taxonomie, arbeitete in Uppsala; sein ehemaliger Wohnsitz ist heute ein botanisches Museum.", "Der Dom zu Uppsala ist das höchste Kirchengebäude in den nordischen Ländern und beherbergt die Gräber vieler schwedischer Könige.", "Die Universitätsbibliothek 'Carolina Rediviva' beherbergt den 'Codex Argenteus', eine berühmte gotische Silberbibel aus dem 6. Jahrhundert."],
       hu: [],
@@ -360,7 +372,10 @@ export const swedenCities: POI[] = [
     },
     facts: {
       en: [], de: [], hu: [], ro: []
-    , es: [], pt: [], fr: []},
+    ,
+      es: [],
+      pt: [],
+      fr: [],},
     factsAdvanced: {
       de: ["Aufgrund des Bergbaus muss die gesamte Stadt Kiruna um etwa 3 Kilometer verlegt werden, ein weltweit beispielloses Bauvorhaben.", "Die Erzgrube in Kiruna produziert jährlich Millionen Tonnen Eisenerz und ist essenziell für die europäische Stahlindustrie.", "Die Kiruna-Kirche, ein Meisterwerk der Holzarchitektur, wurde beim Umzug der Stadt originalgetreu versetzt."],
       hu: [],
@@ -415,7 +430,10 @@ export const swedenCities: POI[] = [
     },
     facts: {
       en: [], de: [], hu: [], ro: []
-    , es: [], pt: [], fr: []},
+    ,
+      es: [],
+      pt: [],
+      fr: [],},
     factsAdvanced: {
       de: ["Umeå trägt den Beinamen 'Stadt der Birken', da nach einem Stadtbrand im Jahr 1888 tausende Birken gepflanzt wurden, um Feuer zu verhindern.", "Im Jahr 2014 wurde Umeå gemeinsam mit Riga zur Europäischen Kulturhauptstadt ernannt.", "Die Universität Umeå ist ein bedeutendes Forschungszentrum und beherbergt eine der größten Medizinfakultäten des Landes."],
       hu: [],
@@ -469,7 +487,10 @@ export const swedenCities: POI[] = [
     },
     facts: {
       en: [], de: [], hu: [], ro: []
-    , es: [], pt: [], fr: []},
+    ,
+      es: [],
+      pt: [],
+      fr: [],},
     factsAdvanced: {
       de: ["Die Universität Lund gehört regelmäßig zu den 100 besten Universitäten der Welt und ist ein zentraler Akteur in der Öresund-Region.", "Der Dom von Lund wurde im 12. Jahrhundert errichtet und gilt als einer der wichtigsten Bauwerke der Romanik in Skandinavien.", "Mit einem hohen Anteil an Studierenden an der Gesamtbevölkerung bietet Lund eine lebendige, junge Atmosphäre und eine sehr hohe Dichte an Cafés."],
       hu: [],
@@ -523,7 +544,10 @@ export const swedenCities: POI[] = [
     },
     facts: {
       en: [], de: [], hu: [], ro: []
-    , es: [], pt: [], fr: []},
+    ,
+      es: [],
+      pt: [],
+      fr: [],},
     factsAdvanced: {
       de: ["Die Stadt ist das Zentrum des schwedischen Luftfahrt-Clusters, maßgeblich geprägt durch Unternehmen wie Saab, das hier Kampfflugzeuge entwickelt.", "Das Schwedische Luftwaffenmuseum zeigt eine umfangreiche Sammlung von Flugzeugen aus verschiedenen Epochen der schwedischen Geschichte.", "Die Universität Linköping wurde 1975 gegründet und ist heute eng mit der lokalen High-Tech-Industrie verzahnt."],
       hu: [],
@@ -577,7 +601,10 @@ export const swedenCities: POI[] = [
     },
     facts: {
       en: [], de: [], hu: [], ro: []
-    , es: [], pt: [], fr: []},
+    ,
+      es: [],
+      pt: [],
+      fr: [],},
     factsAdvanced: {
       de: ["Die Wurzeln von Västerås reichen bis in die Wikingerzeit zurück, was es zu einer der historisch bedeutendsten Städte Schwedens macht.", "Västerås gilt als 'Mälaren-Stadt' und nutzt den See als zentralen Erholungs- und Wirtschaftsfaktor.", "Der Dom von Västerås stammt aus dem 13. Jahrhundert und ist ein herausragendes Beispiel mittelalterlicher Kirchenbaukunst."],
       hu: [],
@@ -631,7 +658,10 @@ export const swedenCities: POI[] = [
     },
     facts: {
       en: [], de: [], hu: [], ro: []
-    , es: [], pt: [], fr: []},
+    ,
+      es: [],
+      pt: [],
+      fr: [],},
     factsAdvanced: {
       de: ["Das Schloss Örebro wurde im 14. Jahrhundert als Verteidigungsfestung erbaut und diente später als königliche Residenz.", "Örebro beherbergt eine Universität mit rund 15.000 Studierenden, die ein wichtiger Motor für Innovation in der Region ist.", "Der Fluss Svartån durchquert das Stadtzentrum und bietet einen pittoresken Anblick, besonders im Sommer."],
       hu: [],
@@ -685,7 +715,10 @@ export const swedenCities: POI[] = [
     },
     facts: {
       en: [], de: [], hu: [], ro: []
-    , es: [], pt: [], fr: []},
+    ,
+      es: [],
+      pt: [],
+      fr: [],},
     factsAdvanced: {
       de: ["Der Stadtstrand Tylösand gilt als einer der schönsten Sandstrände in ganz Schweden und ist ein beliebtes Ziel für Touristen.", "Halmstad ist bekannt für seine hohe Dichte an exzellenten Golfplätzen, die Besucher aus ganz Europa anziehen.", "Die historische Altstadt hat Teile ihrer Befestigungsanlagen bewahrt und verleiht Halmstad einen ganz besonderen, altmodischen Charme."],
       hu: [],
@@ -739,7 +772,10 @@ export const swedenCities: POI[] = [
     },
     facts: {
       en: [], de: [], hu: [], ro: []
-    , es: [], pt: [], fr: []},
+    ,
+      es: [],
+      pt: [],
+      fr: [],},
     factsAdvanced: {
       de: ["Nach dem verheerenden Brand von 1888 wurde das Stadtzentrum massiv aus Stein gebaut, was dem Beinamen 'Stenstaden' (Steinstadt) seinen Ursprung gab.", "Die Architektur von Sundsvall gilt als eines der schönsten Beispiele für städtische Planung im späten 19. Jahrhundert.", "Durch seine Lage am Bottnischen Meerbusen war Sundsvall ein Zentrum der schwedischen Forstindustrie und des Holzexports."],
       hu: [],
@@ -774,6 +810,7 @@ export const swedenCities: POI[] = [
       en: "Luleå is located on the coast of Norrbotten in northern Sweden and is a major hub for high technology and Arctic logistics. The city was originally founded in the 15th century but had to be relocated to its current site in the 17th century because post-glacial land uplift caused the sea level to recede, rendering the old harbor useless. The original site now hosts the Gammelstad Church Town, a UNESCO World Heritage site featuring over 400 historic wooden huts. Luleå is famous for its extreme climate; during winter, the sea often freezes completely, making the city a center for Swedish icebreaker operations. Economically, Luleå is strongly characterized by the iron and steel industry and is home to Sweden's northernmost technical university. Recently, the city has branded itself as 'The Node Pole,' attracting global IT giants for massive data centers due to its stable green energy and natural cooling climate.",
       pt: "Luleå é a capital da Lapónia sueca, no Golfo de Bótnia. Combina a atividade portuária no norte, o clima ártico e uma crescente infraestrutura técnica numa forma urbana compacta. A cidade é famosa pela sua cidade-igreja protegida pela UNESCO, pela sua prática universitária e pelo seu papel na economia regional. Luleå é um forte ponto de partida para o turismo de inverno, viagens costeiras e indústria do norte. Geografia K8.",
       fr: "Luleå est la capitale de la Laponie suédoise, au bord du golfe de Botnie. Elle allie activité portuaire septentrionale, climat arctique et infrastructures techniques en pleine croissance dans une forme urbaine compacte. La ville est célèbre pour son village-église classé par l'UNESCO, ses activités universitaires et son rôle dans l'économie régionale. Luleå est un point de départ important pour le tourisme hivernal, les voyages côtiers et l'industrie du nord. Géographie K8.",
+      es: "Luleå es la capital de la Laponia sueca en el golfo de Botnia. Combina la actividad portuaria en el norte, el clima ártico y una creciente infraestructura técnica en una forma urbana compacta. La ciudad es famosa por su ciudad-iglesia protegida por la UNESCO, su práctica universitaria y su papel en la economía regional. Luleå es un sólido punto de partida para el turismo de invierno, los viajes costeros y la industria del norte. Geografía K8.",
     },
     factsAdvanced: {
       de: ["Luleå wurde im Jahr 1621 an seinem ursprünglichen Standort offiziell gegründet.", "Das Kirchendorf Gammelstad wurde 1996 in die UNESCO-Welterbeliste aufgenommen.", "Luleå beherbergt das erste europäische Rechenzentrum von Facebook, das 2013 eröffnet wurde.", "Die Stadt ist der Heimathafen der schwedischen Eisbrecherflotte.", "Die Technische Universität Luleå war die erste schwedische Universität dieser Art im Norden.", "Im Winter verwandelt sich das gefrorene Meer in eine 11 km lange Eisbahn für Bürger."],
@@ -792,7 +829,10 @@ export const swedenCities: POI[] = [
     },
     facts: {
       en: [], de: [], hu: [], ro: []
-    , es: [], pt: [], fr: []},
+    ,
+      es: [],
+      pt: [],
+      fr: [],},
     factsAdvanced: {
       de: ["Gammelstad ist die am besten erhaltene Kirchenstadt Schwedens und zeigt, wie Menschen aus der Umgebung früher reisten, um Gottesdienste zu besuchen.", "Luleå hat sich zu einem Zentrum für digitale Infrastruktur und grüne Technologie entwickelt, insbesondere durch die Nähe zu kostengünstigen und nachhaltigen Energiequellen.", "Der Hafen von Luleå ist essenziell für den Export von Eisenerz aus den nahegelegenen Minen."],
       hu: [],
@@ -846,7 +886,10 @@ export const swedenCities: POI[] = [
     },
     facts: {
       en: [], de: [], hu: [], ro: []
-    , es: [], pt: [], fr: []},
+    ,
+      es: [],
+      pt: [],
+      fr: [],},
     factsAdvanced: {
       de: ["Karlstad wird aufgrund einer populären Kellnerin namens 'Sola i Karlstad' (Die Sonne in Karlstad) oft als besonders sonnige Stadt bezeichnet.", "Durch die Lage im Mündungsdelta des Klarälven ist Karlstad ein Paradies für Wassersportler und Naturliebhaber.", "Als Sitz der Universität Karlstad ist die Stadt ein bedeutender Bildungsknotenpunkt in Mittelschweden."],
       hu: [],
@@ -900,7 +943,10 @@ export const swedenCities: POI[] = [
     },
     facts: {
       en: [], de: [], hu: [], ro: []
-    , es: [], pt: [], fr: []},
+    ,
+      es: [],
+      pt: [],
+      fr: [],},
     factsAdvanced: {
       de: ["Jönköping war früher weltweit als 'Zündholz-Hauptstadt' bekannt, da das Unternehmen 'Svenska Tändsticks AB' dort seinen Sitz hatte.", "Die Stadt ist ein bedeutender Knotenpunkt für den Güterverkehr in Schweden, da sich hier wichtige Autobahnrouten kreuzen.", "Der Vätternsee sorgt für ein mildes Klima und bietet eine wunderschöne Kulisse für die gesamte Stadt."],
       hu: [],
@@ -942,7 +988,10 @@ export const swedenCulture: POI[] = [
     },
     facts: {
       en: [], de: [], hu: [], ro: []
-    , es: [], pt: [], fr: []},
+    ,
+      es: [],
+      pt: [],
+      fr: [],},
     factsAdvanced: {
       de: ["Die Stadtmauer von Visby ist 3,4 Kilometer lang und besitzt 27 erhaltene Mauertürme.", "Visby wurde im Jahr 1995 offiziell zum UNESCO-Weltkulturerbe erklärt.", "Es gibt über 10 beeindruckende Kirchenruinen innerhalb der Stadtmauern.", "Der Dom zu Visby (St. Maria) ist die einzige heute noch genutzte mittelalterliche Kirche der Stadt.", "Visby war im 12. Jahrhundert die wichtigste Stadt der Hanse im Ostseeraum.", "Die Mittelalterwoche (Medeltidsveckan) wird seit 1984 jährlich im August gefeiert."],
       hu: ["A visby-i várfal 3,4 kilométer hosszú és 27 bástyája maradt fenn az utókornak.", "Visby városát 1995-ben vették fel az UNESCO Világörökségi listájára.", "A városfalakon belül több mint 10 jelentős középkori templomrom található.", "A Visby-székesegyház (Szent Mária) az egyetlen középkori templom, amely ma is működik.", "A 12. században Visby volt a Hanza-szövetség legfontosabb balti-tengeri központja.", "A Középkori Hetet (Medeltidsveckan) 1984 óta minden év augusztusában megtartják."],
@@ -980,7 +1029,10 @@ export const swedenCulture: POI[] = [
     },
     facts: {
       en: [], de: [], hu: [], ro: []
-    , es: [], pt: [], fr: []},
+    ,
+      es: [],
+      pt: [],
+      fr: [],},
     factsAdvanced: {
       de: ["Die Vasa sank am 10. August 1628 nach nur etwa 1.300 Metern Fahrt.", "Das Schiff war mit 64 Bronzekanonen bestückt, was damals eine enorme Feuerkraft war.", "Der Archäologe Anders Franzén entdeckte das Wrack im Jahr 1956.", "Die Bergung am 24. April 1961 dauerte mehrere Stunden und wurde live im Fernsehen übertragen.", "Über 700 Skulpturen und Ornamente schmückten das Äußere des Schiffes.", "Das Museum wurde über einem alten Trockendock errichtet, in dem das Schiff restauriert wurde."],
       hu: ["A Vasa 1628. augusztus 10-én süllyedt el, mindössze 1300 méter megtétele után.", "A hajó 64 bronzágyúval volt felszerelve, ami abban a korban hatalmas tűzerőt jelentett.", "A roncsot Anders Franzén amatőr régész fedezte fel 1956-ban.", "A hajó 1961. április 24-i kiemelését élőben közvetítette a televízió.", "A hajó külsejét több mint 700 faragott szobor és díszítőelem ékesítette.", "A múzeumot egy régi szárazdokk köré építették, ahol a hajó restaurálása zajlott."],
@@ -1018,7 +1070,10 @@ export const swedenCulture: POI[] = [
     },
     facts: {
       en: [], de: [], hu: [], ro: []
-    , es: [], pt: [], fr: []},
+    ,
+      es: [],
+      pt: [],
+      fr: [],},
     factsAdvanced: {
       de: ["Gamla Stan wurde im Jahr 1252 von Birger Jarl als Festung gegründet.", "Das Königliche Schloss verfügt über mehr als 600 Räume auf sieben Etagen.", "Mårten Trotzigs Gränd ist mit nur 90 cm die schmalste Gasse der Stadt.", "Das Stockholmer Blutbad von 1520 forderte über 80 Menschenleben auf dem Stortorget.", "Die Statue des Heiligen Georg mit dem Drachen in der Storkyrkan stammt aus dem Jahr 1489.", "Die Järnpojke (Eisenjunge) ist mit 15 cm die kleinste öffentliche Statue Schwedens."],
       hu: ["Gamla Stant 1252-ben alapította Birger Jarl erődítményként.", "A svéd királyi palota több mint 600 szobával rendelkezik hét szinten.", "A Mårten Trotzigs Gränd a város legszűkebb utcája, szélessége mindössze 90 cm.", "Az 1520-as stockholmi vérfürdő során több mint 80 embert végeztek ki a Stortorget téren.", "A Storkyrkanban található Szent György és a Sárkány szobor 1489-ből származik.", "A Järnpojke (Vasfiú) Svédország legkisebb köztéri szobra, mindössze 15 cm magas."],
@@ -1056,7 +1111,10 @@ export const swedenCulture: POI[] = [
     },
     facts: {
       en: [], de: [], hu: [], ro: []
-    , es: [], pt: [], fr: []},
+    ,
+      es: [],
+      pt: [],
+      fr: [],},
     factsAdvanced: {
       de: ["Das heutige Hauptgebäude wurde zwischen 1662 und 1699 erbaut.", "Drottningholm wurde 1991 zum UNESCO-Weltkulturerbe erklärt.", "Das Schlosstheater stand nach 1792 über 100 Jahre lang still, bevor es 1922 wiederentdeckt wurde.", "Die bronzenen Statuen im Barockgarten stammen ursprünglich aus Prag und Dänemark.", "Das Chinesische Schlösschen wurde 1753 als Geburtstagsgeschenk für Königin Luise Ulrike errichtet.", "Der Südflügel des Schlosses ist für die Öffentlichkeit gesperrt, da dort der König wohnt."],
       hu: ["A palota főépülete 1662 és 1699 között épült fel.", "Drottningholm 1991-ben kapta meg az UNESCO Világörökségi címet.", "A palotaszínház több mint 100 évig érintetlenül állt, mielőtt 1922-ben újra felfedezték.", "A barokk kert bronzszobrai eredetileg hadizsákmányként kerültek ide Prágából és Dániából.", "A Kínai Pavilon 1753-ban épült Luise Ulrike királyné születésnapi ajándékaként.", "A palota déli szárnya a királyi család magánlakosztálya, ezért nem látogatható."],
@@ -1094,7 +1152,10 @@ export const swedenCulture: POI[] = [
     },
     facts: {
       en: [], de: [], hu: [], ro: []
-    , es: [], pt: [], fr: []},
+    ,
+      es: [],
+      pt: [],
+      fr: [],},
     factsAdvanced: {
       de: ["Das Hotel wurde 1989 als erstes Eishotel der Welt in Jukkasjärvi gegründet.", "Die Anlage liegt etwa 200 Kilometer nördlich des arktischen Polarkreises.", "Jährlich werden rund 5.000 Tonnen Eis aus dem Torne Fluss für den Bau verwendet.", "Im Jahr 2016 wurde das Icehotel 365 für den Ganzjahresbetrieb eröffnet.", "Die Innentemperatur im Hotel liegt konstant zwischen -5 und -8 Grad Celsius.", "Über 40 Künstler weltweit gestalten jedes Jahr die individuellen Kunst-Suiten."],
       hu: ["A szállodát 1989-ben alapították Jukkasjärviben a világ első jéghoteleként.", "A létesítmény körülbelül 200 kilométerrel a sarkkörön túl található.", "Évente mintegy 5000 tonna jeget takarítanak be a közeli Torne-folyóból.", "Az Icehotel 365 részleget 2016-ban nyitották meg az egész éves nyitvatartáshoz.", "A belső hőmérséklet állandóan -5 és -8 Celsius-fok között mozog.", "Évente több mint 40 nemzetközi művész vesz részt a szobák egyedi kialakításában."],
@@ -1132,7 +1193,10 @@ export const swedenCulture: POI[] = [
     },
     facts: {
       en: [], de: [], hu: [], ro: []
-    , es: [], pt: [], fr: []},
+    ,
+      es: [],
+      pt: [],
+      fr: [],},
     factsAdvanced: {
       de: ["Die ältesten Erwähnungen von geschnitzten Dala-Pferden stammen aus dem Jahr 1623.", "Das typische Falun-Rot wird seit dem 16. Jahrhundert aus Bergbauabfällen gewonnen.", "In Nusnäs werden jährlich etwa 200.000 Dala-Pferde in Handarbeit hergestellt.", "Gustav Vasa floh 1520 nach Dalarna, um Unterstützung gegen den dänischen König zu finden.", "Der Siljan-See in Dalarna entstand vor 377 Millionen Jahren durch einen Meteoriteneinschlag.", "Die Kupfermine von Falun gehört seit 2001 zum UNESCO-Weltkulturerbe."],
       hu: ["A faragott dalarnai lovakról szóló legkorábbi írásos emlékek 1623-ból származnak.", "A jellegzetes faluvörös festéket a 16. század óta bányászati melléktermékből állítják elő.", "Nusnäs falujában évente körülbelül 200 000 lovat készítenek kézi munkával.", "Gustav Vasa 1520-ban menekült Dalarnába, hogy támogatást szerezzen a dán király ellen.", "A dalarnai Siljan-tó egy 377 millió évvel ezelőtti meteoritbecsapódás helyén jött létre.", "A faluni rézbánya 2001 óta az UNESCO Világörökség része."],
@@ -1173,7 +1237,10 @@ export const swedenNature: POI[] = [
     },
     facts: {
       en: [], de: [], hu: [], ro: []
-    , es: [], pt: [], fr: []},
+    ,
+      es: [],
+      pt: [],
+      fr: [],},
     factsAdvanced: {
       de: ["Abisko gehört zu den ersten neun Nationalparks, die 1909 in Schweden eingerichtet wurden.", "Das Parkgebiet umfasst eine Gesamtfläche von 77 Quadratkilometern.", "Die Aurora Sky Station liegt auf einer Höhe von 900 Metern über dem Meeresspiegel.", "Der See Torneträsk ist mit 168 Metern einer der tiefsten Seen Schwedens.", "Der Kungsleden-Wanderweg beginnt hier und führt 440 Kilometer nach Süden.", "Aufgrund der geringen Bewölkung wird der Himmel über Abisko oft als 'Blaues Loch' bezeichnet."],
       hu: ["Abisko egyike annak a kilenc nemzeti parknak, amelyet 1909-ben elsőként hoztak létre Svédországban.", "A nemzeti park teljes területe 77 négyzetkilométert tesz ki.", "Az Aurora Sky Station 900 méteres tengerszint feletti magasságban található.", "A közeli Torneträsk-tó 168 méteres mélységével Svédország egyik legmélyebb tava.", "A 440 kilométer hosszú Kungsleden túraútvonal északi végpontja itt található.", "Az alacsony felhőzet miatt az Abisko feletti eget gyakran 'kék lyuknak' nevezik."],
@@ -1211,7 +1278,10 @@ export const swedenNature: POI[] = [
     },
     facts: {
       en: [], de: [], hu: [], ro: []
-    , es: [], pt: [], fr: []},
+    ,
+      es: [],
+      pt: [],
+      fr: [],},
     factsAdvanced: {
       de: ["Die Stadtmauer von Visby wurde im 13. Jahrhundert erbaut und ist 3,5 Kilometer lang.", "Gotland hat eine Küstenlinie von insgesamt etwa 800 Kilometern.", "Es gibt 92 mittelalterliche Kirchen auf der Insel, die zwischen 1100 und 1350 erbaut wurden.", "Visby trat im Jahr 1280 offiziell der Hanse bei.", "Die höchste Erhebung der Insel liegt lediglich 82 Meter über dem Meeresspiegel.", "Die Insel wurde 1645 im Frieden von Brömsebro dauerhaft schwedisch."],
       hu: ["Visby városfala a 13. században épült, és hossza eléri a 3,5 kilométert.", "Gotland teljes partvonalának hossza körülbelül 800 kilométer.", "A szigeten 92 középkori templom található, amelyek 1100 és 1350 között épültek.", "Visby 1280-ban csatlakozott hivatalosan a Hanza-szövetséghez.", "A sziget legmagasabb pontja mindössze 82 méterrel magasodik a tengerszint fölé.", "A sziget az 1645-ös brömsebrói béke értelmében került véglegesen Svédországhoz."],
@@ -1249,7 +1319,10 @@ export const swedenNature: POI[] = [
     },
     facts: {
       en: [], de: [], hu: [], ro: []
-    , es: [], pt: [], fr: []},
+    ,
+      es: [],
+      pt: [],
+      fr: [],},
     factsAdvanced: {
       de: ["Laponia umfasst eine Gesamtfläche von 9.400 Quadratkilometern.", "Das Gebiet wurde 1996 in die Liste des UNESCO-Weltkulturerbes aufgenommen.", "Es beherbergt neun samische Rentierzüchter-Gemeinschaften (Samebyar).", "Im Sarek Nationalpark befinden sich über 100 Gletscher.", "Das Sarek-Massiv beheimatet sechs der dreizehn höchsten Gipfel Schwedens.", "Die Region ist das größte zusammenhängende Gebiet der Welt mit einer traditionellen nomadischen Lebensweise."],
       hu: ["Laponia teljes területe 9400 négyzetkilométert tesz ki.", "A területet 1996-ban vették fel az UNESCO Világörökség listájára.", "A területen kilenc számi rénszarvastartó közösség (samebyar) él.", "A Sarek Nemzeti Park területén több mint 100 gleccser található.", "A Sarek-hegységben található Svédország tizenhárom legmagasabb csúcsából hat.", "Ez a világ legnagyobb összefüggő területe, ahol hagyományos nomád életmódot folytatnak."],

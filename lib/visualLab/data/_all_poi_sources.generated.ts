@@ -421,6 +421,7 @@ import * as _src_poiExtraDe4a from "./poiExtraDe4a";
 import * as _src_poiExtraDe4b from "./poiExtraDe4b";
 import * as _src_poiExtraDeCities from "./poiExtraDeCities";
 import * as _src_poiExtraDeLebenWirtschaft from "./poiExtraDeLebenWirtschaft";
+import * as _src_poiExtraDeV1 from "./poiExtraDeV1";
 import * as _src_poiExtraDemocraticrepublicofcongoCitiesV2 from "./poiExtraDemocraticrepublicofcongoCitiesV2";
 import * as _src_poiExtraDemocraticrepublicofcongoEconomicV2 from "./poiExtraDemocraticrepublicofcongoEconomicV2";
 import * as _src_poiExtraDemocraticrepublicofcongoHistoryV2 from "./poiExtraDemocraticrepublicofcongoHistoryV2";
@@ -2090,6 +2091,7 @@ const _raw: any[] = [
   ...((_src_poiExtraDe4b as any).poiExtraDe4b as any[]),
   ...((_src_poiExtraDeCities as any).poiExtraDeCities as any[]),
   ...((_src_poiExtraDeLebenWirtschaft as any).poiExtraDeLebenWirtschaft as any[]),
+  ...((_src_poiExtraDeV1 as any).poiExtraDeV1 as any[]),
   ...((_src_poiExtraDemocraticrepublicofcongoCitiesV2 as any).poiExtraDemocraticrepublicofcongoCitiesV2 as any[]),
   ...((_src_poiExtraDemocraticrepublicofcongoEconomicV2 as any).poiExtraDemocraticrepublicofcongoEconomicV2 as any[]),
   ...((_src_poiExtraDemocraticrepublicofcongoHistoryV2 as any).poiExtraDemocraticrepublicofcongoHistoryV2 as any[]),

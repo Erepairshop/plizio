@@ -24,19 +24,28 @@ export const poiExtraLesothoNatureV2: POI[] = [
       hu: ["Dél-Afrika legmagasabb pontja, 3482 méter magas.", "Az UNESCO Maloti-Drakensberg világörökség része.", "A név jelentése sesotho nyelven: 'szép kis hegy'.", "Rendkívül kemény és ősi bazaltkőzetből épül fel.", "Fontos kontinentális vízválasztó hegység.", "Júniustól augusztusig gyakran teljesen hó fedi."],
       ro: ["Cel mai înalt vârf din Africa Australă, având 3482 metri.", "Parte a Patrimoniului Mondial UNESCO Maloti-Drakensberg.", "Numele înseamnă „micul munte frumos” în limba Sesotho.", "Compus din rocă bazaltică antică și extrem de dură.", "Marchează o cumpănă de ape continentală esențială.", "Adesea complet acoperit de zăpadă din iunie până în august."],
       en: ["Highest mountain in Southern Africa at 3,482 meters.", "Part of the Maloti-Drakensberg UNESCO World Heritage site.", "The name translates to 'beautiful little mountain' in Sesotho.", "Composed of extremely hard and ancient basalt rock.", "Forms a major continental watershed divide.", "Frequently covered in snow from June to August."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Der Thabana Ntlenyana ist mit 3482 Metern der höchste Berg in Lesotho und das gesamte südliche Afrika.",
       hu: "A Thabana Ntlenyana 3482 méteres magasságával Lesotho és az egész dél-afrikai régió legmagasabb pontja.",
       ro: "Thabana Ntlenyana este cel mai înalt munte din Lesotho și din întreaga Africă de Sud, având 3482 de metri.",
-      en: "Thabana Ntlenyana is the highest mountain in Lesotho and the entire southern African region, reaching 3482 meters."
+      en: "Thabana Ntlenyana is the highest mountain in Lesotho and the entire southern African region, reaching 3482 meters.",
+      es: "Thabana Ntlenyana es, con 3482 metros, la montaña más alta de Lesoto y de todo el sur de África.",
+      pt: "Thabana Ntlenyana é, com 3482 metros, a montanha mais alta do Lesoto e de toda a África Austral.",
+      fr: "Thabana Ntlenyana est, avec 3482 mètres, la plus haute montagne du Lesotho et de toute l'Afrique australe.",
     },
     facts: {
       de: ["Höchster Gipfel der Drakensberge.", "Name bedeutet 'Schöner kleiner Berg'.", "Besteht aus Basaltgestein."],
       hu: ["A Drakensberg-hegység legmagasabb csúcsa.", "Neve 'szép kis hegyet' jelent.", "Bazaltkőzetből épül fel."],
       ro: ["Cel mai înalt vârf din munții Drakensberg.", "Numele înseamnă 'Frumosul munte mic'.", "Format din rocă bazaltică."],
-      en: ["Highest peak in the Drakensberg mountains.", "Name means 'Beautiful little mountain'.", "Composed of basalt rock."]
+      en: ["Highest peak in the Drakensberg mountains.", "Name means 'Beautiful little mountain'.", "Composed of basalt rock."],
+      es: ["Pico más alto de los Drakensberg.", "El nombre significa 'Hermosa montaña pequeña'.", "Compuesta de roca basáltica."],
+      pt: ["Pico mais alto dos Montes Drakensberg.", "O nome significa 'Bela montanha pequena'.", "Composta por rocha basáltica."],
+      fr: ["Plus haut sommet du Drakensberg.", "Son nom signifie 'Belle petite montagne'.", "Composé de roche basaltique."],
     }, image: "/poi-images/ls-thabana-ntlenyana-nature-v2.webp",
     
     
@@ -63,19 +72,28 @@ export const poiExtraLesothoNatureV2: POI[] = [
       hu: ["Lesotho teljes területének több mint 70%-át borítják.", "Több csúcsa is meghaladja a 3400 méteres magasságot.", "Az Orange-folyó legfontosabb vízgyűjtő területe.", "Évezredes San (busman) sziklarajzok találhatók benne.", "Geológiailag vulkáni bazaltrétegekből épülnek fel.", "A veszélyeztetett szakállas saskeselyű és alpesi flóra otthona."],
       ro: ["Acoperă peste 70% din suprafața totală a statului Lesotho.", "Includ vârfuri care depășesc altitudinea de 3400 de metri.", "Cea mai importantă zonă de captare pentru râul Orange.", "Adăpostesc picturi rupestre ale Sanilor vechi de milenii.", "Compus geologic din straturi masive de bazalt vulcanic.", "Habitat pentru vulturul cu barbă și flora alpină rară."],
       en: ["Cover over 70% of the total land area of Lesotho.", "Include several peaks soaring above 3,400 meters.", "Primary water catchment area for the Orange River system.", "Home to ancient San rock art sites dating back millennia.", "Geologically composed of massive volcanic basalt layers.", "Sanctuary for the bearded vulture and unique alpine flora."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Ein Gebirgszug im Hochland von Lesotho, der Teil des Drakensberg-Systems ist und spektakuläre alpine Landschaften bietet.",
       hu: "Lesotho felföldjén található hegylánc, amely a Drakensberg-rendszer része, és látványos alpesi tájakat kínál.",
       ro: "Un lanț muntos în zonele muntoase din Lesotho, parte a sistemului Drakensberg, oferind peisaje alpine spectaculoase.",
-      en: "A mountain range in the highlands of Lesotho, part of the Drakensberg system, offering spectacular alpine landscapes."
+      en: "A mountain range in the highlands of Lesotho, part of the Drakensberg system, offering spectacular alpine landscapes.",
+      es: "Una cadena montañosa en las tierras altas de Lesoto que forma parte del sistema Drakensberg y ofrece espectaculares paisajes alpinos.",
+      pt: "Uma cordilheira nas terras altas do Lesoto que faz parte do sistema Drakensberg e oferece paisagens alpinas espetaculares.",
+      fr: "Une chaîne de montagnes dans les hauts plateaux du Lesotho qui fait partie du système du Drakensberg et offre des paysages alpins spectaculaires.",
     },
     facts: {
       de: ["Heimat vieler endemischer Pflanzenarten.", "Oft im Winter schneebedeckt.", "Wichtiges Wassereinzugsgebiet."],
       hu: ["Számos endemikus növényfaj otthona.", "Télen gyakran hó fedi.", "Fontos vízgyűjtő terület."],
       ro: ["Adăpostește multe specii de plante endemice.", "Aproape întotdeauna acoperit de zăpadă iarna.", "Zonă importantă de captare a apei."],
-      en: ["Home to many endemic plant species.", "Often snow-capped during winter.", "Important water catchment area."]
+      en: ["Home to many endemic plant species.", "Often snow-capped during winter.", "Important water catchment area."],
+      es: ["Hogar de muchas especies de plantas endémicas.", "A menudo cubierta de nieve en invierno.", "Importante cuenca hidrográfica."],
+      pt: ["Lar de muitas espécies de plantas endémicas.", "Muitas vezes coberta de neve no inverno.", "Importante bacia hidrográfica."],
+      fr: ["Abrite de nombreuses espèces de plantes endémiques.", "Souvent enneigée en hiver.", "Bassin versant important."],
     }, image: "/poi-images/ls-maloti-mountains-nature-v2.webp",
     
     
@@ -102,19 +120,28 @@ export const poiExtraLesothoNatureV2: POI[] = [
       hu: ["Dél-Afrika leghosszabb folyója (kb. 2200 km).", "Csaknem 3300 méteren ered a Maloti-hegységben.", "Dél-Afrika ipari területeit látja el édesvízzel.", "A Lesotho-felföldi Vízprojekt alapvető vízbázisa.", "Mély szurdokokat vájt az alpesi bazaltkőzetbe.", "Nyugaton, Alexander Bay-nél ömlik az Atlanti-óceánba."],
       ro: ["Cel mai lung râu din Africa Australă (circa 2200 km).", "Izvorăște la aproape 3300 metri în Munții Maloti.", "Alimentează zonele industriale din Africa de Sud cu apă.", "Reprezintă baza Proiectului de Apă al Zonelor Înalte.", "Sapă defilee adânci în roca bazaltică alpină dură.", "Se varsă în Atlantic, în vest, lângă Alexander Bay."],
       en: ["Longest river in Southern Africa, spanning 2,200 km.", "Originates at nearly 3,300 meters in the Maloti Mountains.", "Provides critical water for South Africa's industrial heartland.", "Foundation of the Lesotho Highlands Water Project (LHWP).", "Carves deep, dramatic gorges through alpine basalt rock.", "Empties into the Atlantic Ocean at Alexander Bay in the west."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Der Senqu-Fluss, in Südafrika als Oranje-Fluss bekannt, entspringt in den Maloti-Bergen von Lesotho.",
       hu: "A Senqu-folyó, amely Dél-Afrikában Orange-folyóként ismert, Lesotho Maloti-hegységében ered.",
       ro: "Râul Senqu, cunoscut în Africa de Sud sub numele de Râul Orange, izvorăște din munții Maloti din Lesotho.",
-      en: "The Senqu River, known as the Orange River in South Africa, originates in the Maloti Mountains of Lesotho."
+      en: "The Senqu River, known as the Orange River in South Africa, originates in the Maloti Mountains of Lesotho.",
+      es: "El río Senqu, conocido en Sudáfrica como el río Orange, nace en las montañas Maloti de Lesoto.",
+      pt: "O rio Senqu, conhecido na África do Sul como o rio Orange, nasce nas montanhas Maloti do Lesoto.",
+      fr: "Le fleuve Senqu, connu en Afrique du Sud sous le nom de fleuve Orange, prend sa source dans les monts Maloti au Lesotho.",
     },
     facts: {
       de: ["Längster Fluss in Lesotho.", "Wichtige Quelle für Wasserkraft.", "Fließt durch tiefe Schluchten."],
       hu: ["Lesotho leghosszabb folyója.", "Fontos vízenergia-forrás.", "Mély szurdokokon folyik keresztül."],
       ro: ["Cel mai lung râu din Lesotho.", "Sursă importantă de energie hidroelectrică.", "Curge prin canioane adânci."],
-      en: ["Longest river in Lesotho.", "Major source for hydroelectric power.", "Flows through deep gorges."]
+      en: ["Longest river in Lesotho.", "Major source for hydroelectric power.", "Flows through deep gorges."],
+      es: ["El río más largo de Lesoto.", "Fuente importante de energía hidroeléctrica.", "Fluye a través de profundos cañones."],
+      pt: ["O rio mais longo do Lesoto.", "Fonte importante de energia hidroelétrica.", "Flui através de desfiladeiros profundos."],
+      fr: ["Plus longue rivière du Lesotho.", "Source importante d'énergie hydroélectrique.", "Traverse des gorges profondes."],
     }, image: "/poi-images/ls-senqu-river-nature-v2.webp",
     
     
@@ -141,19 +168,28 @@ export const poiExtraLesothoNatureV2: POI[] = [
       hu: ["A Katse-gát helyszíne, amelyet 1996-ban fejeztek be.", "A gát fala 185 méter magas és 710 méter hosszú.", "Itt található Afrika legmagasabban fekvő botanikus kertje.", "A víztározó kapacitása csaknem 2 milliárd köbméter.", "Dél-Afrika iparának legfontosabb vízszállítója.", "A tó vizének hőmérséklete egész évben nagyon alacsony marad."],
       ro: ["Locația barajului Katse, finalizat în anul 1996.", "Zidul barajului are 185 de metri înălțime și 710 metri lungime.", "Găzduiește cea mai înaltă grădină botanică din Africa.", "Rezervorul are o capacitate de aproape 2 miliarde de metri cubi.", "Cel mai important furnizor de apă pentru industria din Africa de Sud.", "Temperatura apei în lac rămâne foarte scăzută pe tot parcursul anului."],
       en: ["Site of the Katse Dam, which was completed in 1996.", "The dam wall stands 185 meters high and is 710 meters long.", "Home to Africa's highest botanical garden, focused on alpine flora.", "The reservoir has a total capacity of nearly 2 billion cubic meters.", "Primary water supplier for the industrial heartland of South Africa.", "The water temperature in the lake remains very low year-round."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Ein massiver Stausee im zentralen Lesotho, der Teil des Lesotho Highlands Water Project ist.",
       hu: "Hatalmas víztározó Lesotho középső részén, a Lesotho-felföldi Vízprojekt része.",
       ro: "Un rezervor masiv în centrul Lesotho, parte a Proiectului de Apă din Zonele Muntoase din Lesotho.",
-      en: "A massive reservoir in central Lesotho, part of the Lesotho Highlands Water Project."
+      en: "A massive reservoir in central Lesotho, part of the Lesotho Highlands Water Project.",
+      es: "Un enorme embalse en el centro de Lesoto, que forma parte del Proyecto de Agua de las Tierras Altas de Lesoto.",
+      pt: "Um enorme reservatório no centro do Lesoto, que faz parte do Projeto de Água das Terras Altas do Lesoto.",
+      fr: "Un réservoir massif au centre du Lesotho, faisant partie du projet hydroélectrique des hauts plateaux du Lesotho.",
     },
     facts: {
       de: ["Zweitgrößte Bogenstaumauer Afrikas.", "Liegt auf über 2000 Metern Höhe.", "Versorgt Südafrika mit Wasser."],
       hu: ["Afrika második legnagyobb íves gátja.", "2000 méter feletti magasságban fekszik.", "Vízzel látja el Dél-Afrikát."],
       ro: ["Al doilea cel mai mare baraj în arc din Africa.", "Situat la peste 2000 de metri altitudine.", "Furnizează apă Africii de Sud."],
-      en: ["Africa's second largest double-curvature arch dam.", "Situated at over 2000 meters elevation.", "Supplies water to South Africa."]
+      en: ["Africa's second largest double-curvature arch dam.", "Situated at over 2000 meters elevation.", "Supplies water to South Africa."],
+      es: ["Segunda presa de arco más grande de África.", "Situada a más de 2000 metros de altura.", "Suministra agua a Sudáfrica."],
+      pt: ["Segunda maior barragem em arco de África.", "Situada a mais de 2000 metros de altitude.", "Fornece água à África do Sul."],
+      fr: ["Deuxième plus grand barrage voûte d'Afrique.", "Situé à plus de 2000 mètres d'altitude.", "Fournit de l'eau à l'Afrique du Sud."],
     }, image: "/poi-images/ls-katse-dam-nature-v2.webp",
     
     
@@ -180,19 +216,28 @@ export const poiExtraLesothoNatureV2: POI[] = [
       hu: ["Dél-Afrika legmagasabb egylépcsős vízesése.", "A függőleges esési magasság pontosan 192 méter.", "Guinness-világrekord a leghosszabb kereskedelmi kötélugrásról.", "A 'Semonkong' név sesotho nyelven 'füstös helyet' jelent.", "Télen a vízesés gyakran hatalmas jégoszlopokat alkot.", "Vulkáni tevékenység és erózió útján jött létre."],
       ro: ["Cea mai înaltă cascadă dintr-un singur salt din Africa Australă.", "Înălțimea căderii verticale este de exact 192 de metri.", "Record Guinness pentru cel mai lung rapel comercial din lume.", "Numele 'Semonkong' înseamnă „locul fumului” în Sesotho.", "Iarna, cascada formează adesea coloane gigantice de gheață.", "Formată prin activitate vulcanică și eroziune intensă."],
       en: ["Highest single-drop waterfall in Southern Africa.", "Features a total vertical drop of exactly 192 meters.", "Guinness World Record for the longest commercial abseil.", "The name 'Semonkong' means 'Place of Smoke' in Sesotho.", "Often forms massive ice columns during the winter months.", "Created by ancient volcanic activity and subsequent erosion."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Ein spektakulärer 192 Meter hoher Wasserfall am Maletsunyane-Fluss, einer der höchsten einstufigen Wasserfälle Afrikas.",
       hu: "Látványos, 192 méter magas vízesés a Maletsunyane-folyón, Afrika egyik legmagasabb egylépcsős vízesése.",
       ro: "O cascadă spectaculoasă de 192 de metri pe râul Maletsunyane, una dintre cele mai înalte căderi de apă dintr-o singură treaptă din Africa.",
-      en: "A spectacular 192-meter high waterfall on the Maletsunyane River, one of Africa's highest single-drop waterfalls."
+      en: "A spectacular 192-meter high waterfall on the Maletsunyane River, one of Africa's highest single-drop waterfalls.",
+      es: "Una espectacular cascada de 192 metros de altura en el río Maletsunyane, una de las cascadas de un solo salto más altas de África.",
+      pt: "Uma queda de água espetacular de 192 metros de altura no rio Maletsunyane, uma das mais altas quedas de água de salto único de África.",
+      fr: "Une chute d'eau spectaculaire de 192 mètres de haut sur la rivière Maletsunyane, l'une des plus hautes chutes d'eau à un seul saut d'Afrique.",
     },
     facts: {
       de: ["Erzeugt einen gewaltigen Nebel.", "Nahe der Stadt Semonkong gelegen.", "Im Winter oft teilweise gefroren."],
       hu: ["Hatalmas ködöt képez.", "Semonkong városa közelében található.", "Télen gyakran részben befagy."],
       ro: ["Creează o ceață densă.", "Situată lângă orașul Semonkong.", "Iarna este adesea parțial înghețată."],
-      en: ["Creates a massive mist spray.", "Located near the town of Semonkong.", "Often partially freezes in winter."]
+      en: ["Creates a massive mist spray.", "Located near the town of Semonkong.", "Often partially freezes in winter."],
+      es: ["Genera una niebla masiva.", "Situada cerca de la ciudad de Semonkong.", "A menudo se congela parcialmente en invierno."],
+      pt: ["Gera uma névoa massiva.", "Localizada perto da cidade de Semonkong.", "Muitas vezes congela parcialmente no inverno."],
+      fr: ["Génère une brume massive.", "Située près de la ville de Semonkong.", "Souvent partiellement gelée en hiver."],
     }, image: "/poi-images/ls-maletsunyane-falls-nature-v2.webp",
     
     
@@ -219,19 +264,28 @@ export const poiExtraLesothoNatureV2: POI[] = [
       hu: ["A neve a kőzet színére utalva 'Kék hegyet' jelent.", "A tengerszint feletti magassága kb. 3096 méter.", "A ritka szakállas saskeselyű fontos fészkelőhelye.", "Lesotho központi felföldi hegyláncának része.", "Egyedülálló, hidegtűrő alpesi flórával rendelkezik.", "Szinte kizárólag hagyományos pásztorok használják."],
       ro: ["Numele înseamnă „Muntele Albastru” datorită culorii rocii.", "Atinge o altitudine de aproximativ 3096 metri deasupra mării.", "Loc important de cuibărit pentru rariul vultur cu barbă.", "Parte a lanțului muntos din podișul central al Lesotho.", "Posedă o floră alpină unică, rezistentă la frig extrem.", "Utilizat aproape exclusiv de către păstorii tradiționali."],
       en: ["Name means 'Blue Mountain' due to its rock coloration.", "Reaches an elevation of approximately 3,096 meters.", "Critical nesting site for the rare bearded vulture.", "Part of the central Lesotho highland mountain range.", "Features highly specialized, cold-resistant alpine flora.", "Primarily used by traditional shepherds for grazing."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Ein markanter Berg im zentralen Lesotho, dessen Name 'Blauer Berg' bedeutet.",
       hu: "Jellegzetes hegy Lesotho középső részén, melynek neve 'Kék hegyet' jelent.",
       ro: "Un munte proeminent în centrul Lesotho, al cărui nume înseamnă 'Muntele Albastru'.",
-      en: "A prominent mountain in central Lesotho, whose name translates to 'Blue Mountain'."
+      en: "A prominent mountain in central Lesotho, whose name translates to 'Blue Mountain'.",
+      es: "Una montaña prominente en el centro de Lesoto, cuyo nombre significa 'Montaña Azul'.",
+      pt: "Uma montanha proeminente no centro do Lesoto, cujo nome significa 'Montanha Azul'.",
+      fr: "Une montagne proéminente du centre du Lesotho, dont le nom signifie 'Montagne Bleue'.",
     },
     facts: {
       de: ["Bekannt für seine bläuliche Färbung.", "Erreicht fast 3000 Meter Höhe.", "Beliebtes Ziel für Wanderer."],
       hu: ["Kékes árnyalatáról ismert.", "Majdnem 3000 méteres magasságot ér el.", "Népszerű a túrázók körében."],
       ro: ["Cunoscut pentru nuanța sa albăstruie.", "Atinge aproape 3000 de metri înălțime.", "Destinație populară pentru drumeții."],
-      en: ["Known for its bluish tint.", "Reaches nearly 3000 meters in height.", "Popular destination for hikers."]
+      en: ["Known for its bluish tint.", "Reaches nearly 3000 meters in height.", "Popular destination for hikers."],
+      es: ["Conocida por su coloración azulada.", "Alcanza casi los 3000 metros de altura.", "Destino popular para senderistas."],
+      pt: ["Conhecida pela sua coloração azulada.", "Atinge quase 3000 metros de altura.", "Destino popular para caminhantes."],
+      fr: ["Connue pour sa coloration bleuâtre.", "Culmine à près de 3000 mètres d'altitude.", "Destination prisée des randonneurs."],
     }, image: "/poi-images/ls-thaba-putsoa-nature-v2.webp",
     
     
@@ -258,19 +312,28 @@ export const poiExtraLesothoNatureV2: POI[] = [
       hu: ["Lesotho legrégebbi nemzeti parkjának ad otthont, amelyet 1969-ben alapítottak.", "A Maloti-Drakensberg Park UNESCO világörökségi helyszín része.", "Átlagosan 2400 méteres tengerszint feletti magasságban fekszik.", "Híres az endemikus Sehlabathebe tündérrózsáról.", "A területen számos San sziklarajz található.", "A madármegfigyelők és túrázók igazi paradicsoma."],
       ro: ["Găzduiește cel mai vechi parc național din Lesotho, fondat în 1969.", "Parte a sitului Patrimoniului Mondial UNESCO Maloti-Drakensberg.", "Situat la o altitudine medie de 2400 de metri.", "Faimos pentru nufărul endemic de Sehlabathebe.", "Zona conține numeroase picturi rupestre ale sanilor.", "Un paradis pentru observatorii de păsări și pasionații de drumeții."],
       en: ["Home to Lesotho's oldest national park, established in 1969.", "Part of the Maloti-Drakensberg UNESCO World Heritage site.", "Located at an average elevation of 2400 meters above sea level.", "Famous for the endemic Sehlabathebe water lily (Aponogeton ranunculiflorus).", "The area contains numerous ancient San rock art sites.", "A premier destination for birdwatchers and high-altitude hikers."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Ein abgelegenes Hochplateau im Südosten, das für seine einzigartigen Felsformationen und seltene Flora bekannt ist.",
       hu: "Távoli fennsík az ország délkeleti részén, egyedülálló sziklaformációiról és ritka flórájáról híres.",
       ro: "Un podiș înalt izolat în sud-est, cunoscut pentru formațiunile sale stâncoase unice și flora rară.",
-      en: "A remote high-altitude plateau in the southeast, known for its unique rock formations and rare flora."
+      en: "A remote high-altitude plateau in the southeast, known for its unique rock formations and rare flora.",
+      es: "Una remota meseta elevada en el sureste, conocida por sus formaciones rocosas únicas y su flora poco común.",
+      pt: "Um planalto remoto no sudeste, conhecido pelas suas formações rochosas únicas e flora rara.",
+      fr: "Un haut plateau reculé du sud-est, connu pour ses formations rocheuses uniques et sa flore rare.",
     },
     facts: {
       de: ["Teil des Weltnaturerbes der UNESCO.", "Beherbergt seltene Seerosen.", "Alte Felsmalereien der San vorhanden."],
       hu: ["Az UNESCO világörökség része.", "Ritka tavirózsáknak ad otthont.", "Ősi sziklarajzok is találhatók itt."],
       ro: ["Parte a Patrimoniului Mondial UNESCO.", "Adăpostește nuferi rari.", "Există picturi rupestre vechi ale populației San."],
-      en: ["Part of the UNESCO World Heritage site.", "Home to rare water lilies.", "Ancient San rock art present."]
+      en: ["Part of the UNESCO World Heritage site.", "Home to rare water lilies.", "Ancient San rock art present."],
+      es: ["Parte del Patrimonio Mundial de la UNESCO.", "Alberga lirios de agua poco comunes.", "Existen antiguas pinturas rupestres de los San."],
+      pt: ["Parte do Património Mundial da UNESCO.", "Abriga nenúfares raros.", "Existem pinturas rupestres antigas dos San."],
+      fr: ["Fait partie du patrimoine mondial de l'UNESCO.", "Abrite des nénuphars rares.", "Présence de peintures rupestres anciennes des San."],
     }, image: "/poi-images/ls-sehlabathebe-nature-v2.webp",
     
     
@@ -297,19 +360,28 @@ export const poiExtraLesothoNatureV2: POI[] = [
       hu: ["Legfontosabb nemzeti műemlék és a nemzet bölcsője.", "I. Moshoeshoe király választotta erődként 1824-ben.", "A név jelentése sesotho nyelven: 'hegy éjszaka'.", "Bevehetetlennek tartják, soha nem hódították meg katonailag.", "A lesothói királyok szent sírjainak ad otthont.", "Homokkő fennsíkon fekszik, 20 km-re keletre Maserutól."],
       ro: ["Cel mai înalt monument național și leagănul națiunii.", "Ales drept fortăreață de regele Moshoeshoe I în 1824.", "Numele înseamnă „muntele pe timp de noapte” în Sesotho.", "Considerat inexpugnabil, nu a fost niciodată cucerit militar.", "Găzduiește mormintele sacre ale regilor din Lesotho.", "Situat pe un platou de gresie la 20 km est de Maseru."],
       en: ["Most important national monument and cradle of the nation.", "Selected as a fortress by King Moshoeshoe I in 1824.", "The name translates to 'Mountain at Night' in Sesotho.", "Regarded as impregnable and was never military conquered.", "Home to the sacred graves of Lesotho's monarchs and chiefs.", "Located on a sandstone plateau 20 km east of Maseru."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Ein Sandsteinplateau mit flachem Gipfel, das als Geburtsort der basothischen Nation gilt.",
       hu: "Lapos tetejű homokkő fennsík, amelyet a basotho nemzet bölcsőjének tekintenek.",
       ro: "Un podiș de gresie cu vârf plat, considerat locul de naștere al națiunii Basotho.",
-      en: "A flat-topped sandstone plateau considered the birthplace of the Basotho nation."
+      en: "A flat-topped sandstone plateau considered the birthplace of the Basotho nation.",
+      es: "Una meseta de arenisca de cima plana, considerada la cuna de la nación basoto.",
+      pt: "Um planalto de arenito de topo plano, considerado o berço da nação basoto.",
+      fr: "Un plateau de grès au sommet plat, considéré comme le berceau de la nation Basotho.",
     },
     facts: {
       de: ["Name bedeutet 'Berg bei Nacht'.", "Natürliche Festung von König Moshoeshoe I.", "Bietet Panoramablick auf das Tal."],
       hu: ["Neve 'hegy éjszaka' jelentéssel bír.", "Moshoeshoe I. király természetes erődje volt.", "Panorámás kilátást nyújt a völgyre."],
       ro: ["Numele înseamnă 'Muntele pe timp de noapte'.", "Fortăreață naturală a regelui Moshoeshoe I.", "Oferă vederi panoramice asupra văii."],
-      en: ["Name means 'Mountain at Night'.", "Natural fortress of King Moshoeshoe I.", "Offers panoramic views of the valley."]
+      en: ["Name means 'Mountain at Night'.", "Natural fortress of King Moshoeshoe I.", "Offers panoramic views of the valley."],
+      es: ["Su nombre significa 'Montaña de Noche'.", "Fortaleza natural del rey Moshoeshoe I.", "Ofrece vistas panorámicas del valle."],
+      pt: ["O nome significa 'Montanha à Noite'.", "Fortaleza natural do Rei Moshoeshoe I.", "Oferece vistas panorâmicas sobre o vale."],
+      fr: ["Son nom signifie 'Montagne de nuit'.", "Forteresse naturelle du roi Moshoeshoe Ier.", "Offre une vue panoramique sur la vallée."],
     }, image: "/poi-images/ls-thaba-bosiu-nature-v2.webp",
     
     
@@ -336,19 +408,28 @@ export const poiExtraLesothoNatureV2: POI[] = [
       hu: ["A parkot 1991-ben alapították Lesotho természetvédelmi programjának részeként.", "Területe megközelítőleg 5600 hektár a Maloti-hegység északi részén.", "Itt található Lesotho egyik legnagyobb őshonos hegyi bambusz állománya.", "Legmagasabb pontja eléri a 3112 méteres tengerszint feletti magasságot.", "A park az UNESCO Világörökség részét képező Maloti-Drakensberg területéhez tartozik.", "Fontos szerepet tölt be a Hololo-folyó vízgyűjtő rendszerében."],
       ro: ["Parcul a fost stabilit în anul 1991 pentru a proteja biodiversitatea montană.", "Acoperă o suprafață de circa 5.600 de hectare în Munții Maloti.", "Adăpostește păduri rare de bambus de munte (Thamnocalamus tessellatus).", "Altitudinea maximă în interiorul parcului este de 3.112 metri.", "Face parte din Zona de Conservare Transfrontalieră Maloti-Drakensberg.", "Este o zonă critică de captare a apei pentru râul Hololo."],
       en: ["Established in 1991 as part of Lesotho's nature conservation efforts.", "Covers an area of approximately 5,600 hectares in the Maloti Mountains.", "Home to the significant high-altitude berg bamboo (Thamnocalamus tessellatus).", "The highest point in the park reaches an elevation of 3,112 meters.", "Part of the Maloti-Drakensberg Transfrontier Conservation Area.", "Acts as a major water catchment area for the Hololo River system."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Eines der wenigen Gebiete in Lesotho mit dichtem, einheimischem Bergwald und hoher Artenvielfalt.",
       hu: "Egyike Lesotho azon kevés területeinek, ahol sűrű, őshonos hegyi erdő és nagy biológiai sokféleség található.",
       ro: "Una dintre puținele zone din Lesotho cu pădure montană indigenă densă și biodiversitate ridicată.",
-      en: "One of the few areas in Lesotho with dense, indigenous mountain forest and high biodiversity."
+      en: "One of the few areas in Lesotho with dense, indigenous mountain forest and high biodiversity.",
+      es: "Una de las pocas zonas de Lesoto con bosque de montaña autóctono denso y una gran biodiversidad.",
+      pt: "Uma das poucas áreas do Lesoto com floresta de montanha nativa densa e elevada biodiversidade.",
+      fr: "L'une des rares zones du Lesotho possédant une forêt de montagne indigène dense et une grande biodiversité.",
     },
     facts: {
       de: ["Schützt seltene Farnarten.", "Liegt in einem tiefen Bergtal.", "Wichtig für den Naturschutz."],
       hu: ["Ritka párafajokat védelmez.", "Mély hegyi völgyben fekszik.", "Fontos a természetvédelem szempontjából."],
       ro: ["Protejează specii rare de ferigi.", "Situată într-o vale montană adâncă.", "Importantă pentru conservarea naturii."],
-      en: ["Protects rare fern species.", "Located in a deep mountain valley.", "Important for nature conservation."]
+      en: ["Protects rare fern species.", "Located in a deep mountain valley.", "Important for nature conservation."],
+      es: ["Protege especies raras de helechos.", "Situado en un profundo valle de montaña.", "Importante para la conservación de la naturaleza."],
+      pt: ["Protege espécies raras de fetos.", "Localizado num vale de montanha profundo.", "Importante para a conservação da natureza."],
+      fr: ["Protège des espèces rares de fougères.", "Situé dans une vallée de montagne profonde.", "Important pour la conservation de la nature."],
     }, image: "/poi-images/ls-tsehlanyane-nature-v2.webp",
     
     
@@ -375,19 +456,28 @@ export const poiExtraLesothoNatureV2: POI[] = [
       hu: ["A folyó teljes hossza megközelítőleg 480 kilométer.", "A Drakensberg-hegységben ered, körülbelül 3000 méteres magasságban.", "Határt képez a dél-afrikai Szabadállam tartomány és Lesotho között.", "Az Orange-folyó egyik legfontosabb mellékfolyója.", "A 'Mohokare' név sesotho nyelven azt jelenti: 'középen'.", "Kulcsfontosságú vízforrás Maseru lakossága számára."],
       ro: ["Râul are o lungime totală de aproximativ 480 de kilometri.", "Izvorăște din Munții Drakensberg la o altitudine de circa 3.000 de metri.", "Formează granița naturală între provincia Free State și Lesotho.", "Este un afluent major al râului Orange (Senqu).", "Numele local 'Mohokare' înseamnă 'în mijloc' în limba sesotho.", "Reprezintă principala sursă de apă pentru capitala Maseru."],
       en: ["The river has a total length of approximately 480 kilometers.", "It originates in the Drakensberg Mountains at an elevation of about 3,000 meters.", "Forms the international border between South Africa's Free State province and Lesotho.", "A major tributary of the Orange (Senqu) River.", "The name 'Mohokare' means 'in the middle' in the Sesotho language.", "Serves as the primary water supply for the capital city, Maseru."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Ein wichtiger Fluss, der einen großen Teil der Grenze zwischen Lesotho und Südafrika bildet.",
       hu: "Fontos folyó, amely Lesotho és Dél-Afrika határának jelentős részét alkotja.",
       ro: "Un râu important care formează o mare parte a graniței dintre Lesotho și Africa de Sud.",
-      en: "An important river forming much of the border between Lesotho and South Africa."
+      en: "An important river forming much of the border between Lesotho and South Africa.",
+      es: "Un río importante que forma una gran parte de la frontera entre Lesotho y Sudáfrica.",
+      pt: "Um rio importante que constitui uma grande parte da fronteira entre o Lesoto e a África do Sul.",
+      fr: "Une rivière importante qui forme une grande partie de la frontière entre le Lesotho et l'Afrique du Sud.",
     },
     facts: {
       de: ["Wichtig für die Landwirtschaft.", "Mündet in den Oranje-Fluss.", "Wird in Sesotho 'Mohokare' genannt."],
       hu: ["Fontos a mezőgazdaság számára.", "Az Orange-folyóba torkollik.", "Sotho nyelven 'Mohokare' a neve."],
       ro: ["Important pentru agricultură.", "Se varsă în râul Orange.", "Numit 'Mohokare' în limba sesotho."],
-      en: ["Important for agriculture.", "Flows into the Orange River.", "Called 'Mohokare' in Sesotho."]
+      en: ["Important for agriculture.", "Flows into the Orange River.", "Called 'Mohokare' in Sesotho."],
+      es: ["Importante para la agricultura.", "Desemboca en el río Orange.", "Llamado 'Mohokare' en Sesotho."],
+      pt: ["Importante para a agricultura.", "Desagua no rio Orange.", "Chamado 'Mohokare' em Sesotho."],
+      fr: ["Crucial pour l'agriculture.", "Se jette dans le fleuve Orange.", "Nommée 'Mohokare' en sesotho."],
     }, image: "/poi-images/ls-caledon-river-nature-v2.webp",
     
     
@@ -414,19 +504,28 @@ export const poiExtraLesothoNatureV2: POI[] = [
       hu: ["2004. július 1-jén nyilvánították nemzetközi jelentőségű RAMSAR-területté.", "Körülbelül 2400 méteres tengerszint feletti magasságban fekszik.", "Lesotho déli részén, a Quthing körzetben található.", "A Letsie-tó Természetvédelmi Terület központi eleme.", "Fontos élőhelye a veszélyeztetett pápaszemes darunak.", "Kulcsszerepet játszik a hegyi legelők vízellátásának szabályozásában."],
       ro: ["A fost desemnat sit RAMSAR de importanță internațională la 1 iulie 2004.", "Este situat la o altitudine de aproximativ 2.400 de metri.", "Se află în districtul Quthing, în partea de sud a țării.", "Face parte din Aria Protejată a Lacului Letsie.", "Este un habitat esențial pentru cocorul cu mărgele (Bugeranus carunculatus).", "Alimentează sistemul hidrologic local prin colectarea precipitațiilor montane."],
       en: ["Designated as a RAMSAR wetland of international importance on July 1, 2004.", "Located at an elevation of approximately 2,400 meters above sea level.", "Situated in the southern Quthing District of Lesotho.", "Part of the Letsie Lake Protected Area conservation initiative.", "A vital breeding and feeding ground for the endangered wattled crane.", "Serves as a critical water catchment area for local river systems."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Ein natürlicher See im südlichen Lesotho, der ein wichtiges Feuchtgebiet für Vögel darstellt.",
       hu: "Természetes tó Lesotho déli részén, amely fontos vizes élőhely a madarak számára.",
       ro: "Un lac natural în sudul Lesotho, reprezentând o zonă umedă importantă pentru păsări.",
-      en: "A natural lake in southern Lesotho, representing an important wetland for birds."
+      en: "A natural lake in southern Lesotho, representing an important wetland for birds.",
+      es: "Un lago natural en el sur de Lesoto que representa un importante humedal para las aves.",
+      pt: "Um lago natural no sul do Lesoto, que representa uma importante zona húmida para as aves.",
+      fr: "Un lac naturel dans le sud du Lesotho, qui constitue une zone humide importante pour les oiseaux.",
     },
     facts: {
       de: ["Wichtiger Rastplatz für Zugvögel.", "Umgeben von weiten Weideflächen.", "Sehr abgelegene Lage."],
       hu: ["Vándormadarak fontos pihenőhelye.", "Tágas legelők veszik körül.", "Nagyon távoli elhelyezkedésű."],
       ro: ["Loc important de popas pentru păsările migratoare.", "Înconjurat de pășuni vaste.", "Locație foarte izolată."],
-      en: ["Important stopover for migratory birds.", "Surrounded by vast grazing lands.", "Very remote location."]
+      en: ["Important stopover for migratory birds.", "Surrounded by vast grazing lands.", "Very remote location."],
+      es: ["Importante lugar de descanso para aves migratorias.", "Rodeado de extensas zonas de pasto.", "Ubicación muy remota."],
+      pt: ["Importante local de descanso para aves migratórias.", "Rodeado por vastas áreas de pastagens.", "Localização muito remota."],
+      fr: ["Lieu de repos important pour les oiseaux migrateurs.", "Entouré de vastes zones de pâturage.", "Emplacement très isolé."],
     }, image: "/poi-images/ls-letsie-lake-nature-v2.webp",
     
     
@@ -453,19 +552,28 @@ export const poiExtraLesothoNatureV2: POI[] = [
       hu: ["A folyó teljes hossza körülbelül 209 kilométer.", "Mohale's Hoek közelében torkollik az Orange-folyóba.", "Itt található a látványos Qiloane-vízesés.", "Vízgyűjtő területe Lesotho nyugati felföldjének nagy részét lefedi.", "Kulcsfontosságú vízforrás a mezőgazdaság számára Maseru és Mohale's Hoek körzetekben.", "A folyó medre jelentős bazalt- és homokkő-formációkon halad keresztül."],
       ro: ["Râul are o lungime totală de aproximativ 209 kilometri.", "Se varsă în râul Orange în apropiere de Mohale's Hoek.", "Găzduiește spectaculoasele cascade Qiloane.", "Bazinul său hidrografic acoperă zone vaste din vestul țării.", "Este o sursă vitală de apă pentru fermierii din districtele Maseru și Mohale's Hoek.", "Geomorfologia râului este marcată de eroziunea profundă a stratului de bazalt."],
       en: ["The river has a total length of approximately 209 kilometers.", "It flows into the Orange River near the town of Mohale's Hoek.", "Home to the distinctive and scenic Qiloane Falls.", "The catchment area covers large parts of the western Lesotho highlands.", "Crucial water source for agriculture in the Maseru and Mohale's Hoek districts.", "The river's path is defined by deep gorges cut through basaltic rock layers."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Ein Nebenfluss des Senqu-Flusses, der durch die malerischen Ebenen im Westen Lesothos fließt.",
       hu: "A Senqu-folyó mellékfolyója, amely Lesotho nyugati, festői síkságain folyik keresztül.",
       ro: "Un afluent al râului Senqu, care curge prin câmpiile pitorești din vestul Lesotho.",
-      en: "A tributary of the Senqu River, flowing through the picturesque plains of western Lesotho."
+      en: "A tributary of the Senqu River, flowing through the picturesque plains of western Lesotho.",
+      es: "Un afluente del río Senqu que fluye a través de las pintorescas llanuras del oeste de Lesoto.",
+      pt: "Um afluente do rio Senqu que flui através das planícies pitorescas no oeste do Lesoto.",
+      fr: "Un affluent de la rivière Senqu qui coule à travers les plaines pittoresques de l'ouest du Lesotho.",
     },
     facts: {
       de: ["Bekannt für dramatische Schluchten.", "Entspringt in den Maloti-Bergen.", "Führt im Sommer oft Hochwasser."],
       hu: ["Dramatikus szurdokairól ismert.", "A Maloti-hegységben ered.", "Nyáron gyakran megárad."],
       ro: ["Cunoscut pentru canioanele dramatice.", "Izvorăște din munții Maloti.", "Adesea are viituri în timpul verii."],
-      en: ["Known for dramatic gorges.", "Originates in the Maloti Mountains.", "Often has high water levels in summer."]
+      en: ["Known for dramatic gorges.", "Originates in the Maloti Mountains.", "Often has high water levels in summer."],
+      es: ["Conocido por sus dramáticos desfiladeros.", "Nace en las montañas Maloti.", "Suele desbordarse en verano."],
+      pt: ["Conhecido por desfiladeiros dramáticos.", "Nasce nas montanhas Maloti.", "Frequentemente inunda no verão."],
+      fr: ["Connu pour ses gorges spectaculaires.", "Prend sa source dans les monts Maloti.", "Connaît souvent des crues en été."],
     }, image: "/poi-images/ls-makhaleng-river-nature-v2.webp",
     
     
@@ -492,19 +600,28 @@ export const poiExtraLesothoNatureV2: POI[] = [
       hu: ["145 méteres magasságával Afrika legmagasabb betonburkolatú kőgátja.", "Az építési munkálatok 2002-ben fejeződtek be hivatalosan.", "A Lesotho-felvidéki Vízprojekt (LHWP) 1B szakaszának része.", "A tározó befogadóképessége körülbelül 947 millió köbméter víz.", "Egy 32 kilométeres alagút köti össze a Katse-gáttal.", "A gát építése során megvalósult a modern 'Mountain Road' úthálózat."],
       ro: ["Are o înălțime de 145 de metri, fiind cel mai înalt baraj de acest tip din Africa.", "Construcția a fost finalizată oficial în anul 2002.", "Este componenta principală a Fazei 1B a Proiectului LHWP.", "Rezervorul are o capacitate de stocare de aproximativ 947 milioane metri cubi.", "Este conectat la barajul Katse printr-un tunel de transfer lung de 32 km.", "Proiectul a inclus măsuri extinse de protecție pentru peștele Maloti Minnow."],
       en: ["Standing 145 meters tall, it is Africa's highest concrete-faced rock-fill dam.", "Construction work was officially completed in the year 2002.", "A key part of Phase 1B of the Lesotho Highlands Water Project (LHWP).", "The reservoir has a total storage capacity of about 947 million cubic meters.", "Connected to Katse Dam via a 32-kilometer-long transfer tunnel.", "Its construction led to the development of the high-standard 'Mountain Road'."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Ein großer Stausee am Senqunyane-Fluss, der durch einen Tunnel mit dem Katse-Stausee verbunden ist.",
       hu: "Nagy víztározó a Senqunyane-folyón, amelyet alagút köt össze a Katse-víztározóval.",
       ro: "Un rezervor mare pe râul Senqunyane, conectat printr-un tunel cu barajul Katse.",
-      en: "A large reservoir on the Senqunyane River, connected to Katse Dam via a tunnel."
+      en: "A large reservoir on the Senqunyane River, connected to Katse Dam via a tunnel.",
+      es: "Un gran embalse en el río Senqunyane, conectado por un túnel con el embalse de Katse.",
+      pt: "Uma grande albufeira no rio Senqunyane, ligada por um túnel à albufeira de Katse.",
+      fr: "Un grand réservoir sur la rivière Senqunyane, relié par un tunnel au réservoir de Katse.",
     },
     facts: {
       de: ["Höchste Steinschüttdammmauer Afrikas.", "Liegt in einer unberührten Berglandschaft.", "Teil des Wasserprojekts Highlands."],
       hu: ["Afrika legmagasabb kőgátja.", "Érintetlen hegyi tájon fekszik.", "A Felföldi Vízprojekt része."],
       ro: ["Cel mai înalt baraj din anrocamente din Africa.", "Situat într-un peisaj montan virgin.", "Parte a proiectului de apă din zonele muntoase."],
-      en: ["Highest rock-fill dam in Africa.", "Located in a pristine mountain landscape.", "Part of the Highlands water project."]
+      en: ["Highest rock-fill dam in Africa.", "Located in a pristine mountain landscape.", "Part of the Highlands water project."],
+      es: ["El muro de presa de escollera más alto de África.", "Situado en un paisaje montañoso virgen.", "Parte del Proyecto de Agua de las Tierras Altas."],
+      pt: ["A barragem de enrocamento mais alta de África.", "Localizada numa paisagem montanhosa intocada.", "Parte do Projeto de Água das Tierras Altas."],
+      fr: ["Le plus haut barrage en enrochement d'Afrique.", "Situé dans un paysage de montagne préservé.", "Fait partie du projet hydroélectrique des Highlands."],
     }, image: "/poi-images/ls-mohale-dam-nature-v2.webp",
     
     
@@ -531,19 +648,28 @@ export const poiExtraLesothoNatureV2: POI[] = [
       hu: ["A Katse-tározó, Lesotho legnagyobb gátjának fő vízutánpótlása.", "A Maloti-hegységben, a Mont-aux-Sources közelében ered.", "A név sesotho nyelven körülbelül azt jelenti: 'sós vizek helye'.", "A folyó folyását jelentősen módosította az 1996-ban befejezett Katse-gát.", "Fontos élőhelye a betelepített szivárványos pisztrángnak.", "Az északi felföld vizét szállítja dél felé a Senqu-folyóba."],
       ro: ["Este principalul afluent care alimentează rezervorul Katse.", "Izvorăște în apropiere de Mont-aux-Sources, în Munții Maloti.", "Numele se traduce din sesotho prin 'locul apelor sărate'.", "Cursul său a fost radical modificat de construcția barajului Katse în 1996.", "Este o locație populară pentru pescuitul de păstrăv curcubeu.", "Transportă apele din zonele înalte de nord către râul principal Senqu."],
       en: ["The primary inflow for the Katse Reservoir, Lesotho's largest dam.", "Originates near Mont-aux-Sources in the rugged Maloti Mountains.", "The name translates from Sesotho roughly as 'place of salty waters'.", "The river's flow was significantly altered by the Katse Dam, completed in 1996.", "A notable habitat for introduced rainbow trout species.", "Carries water from the northern highlands southward to the Senqu River."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Ein bedeutender Fluss im Norden Lesothos, der den Katse-Stausee speist.",
       hu: "Jelentős folyó Lesotho északi részén, amely a Katse-víztározót táplálja.",
       ro: "Un râu semnificativ în nordul Lesotho, care alimentează barajul Katse.",
-      en: "A significant river in northern Lesotho that feeds the Katse Dam."
+      en: "A significant river in northern Lesotho that feeds the Katse Dam.",
+      es: "Un río importante en el norte de Lesoto que alimenta el embalse de Katse.",
+      pt: "Um rio importante no norte do Lesoto que alimenta o reservatório de Katse.",
+      fr: "Une rivière importante au nord du Lesotho qui alimente le réservoir de Katse.",
     },
     facts: {
       de: ["Fließt durch zerklüftetes Gelände.", "Bedeutend für die Wasserversorgung.", "Name bezieht sich auf 'dunkle Tümpel'."],
       hu: ["Tagolt terepen folyik keresztül.", "Jelentős a vízellátás szempontjából.", "Neve 'sötét tavakra' utal."],
       ro: ["Curge printr-un teren accidentat.", "Semnificativ pentru aprovizionarea cu apă.", "Numele se referă la 'bălți întunecate'."],
-      en: ["Flows through rugged terrain.", "Significant for water supply.", "Name refers to 'dark pools'."]
+      en: ["Flows through rugged terrain.", "Significant for water supply.", "Name refers to 'dark pools'."],
+      es: ["Fluye por terrenos accidentados.", "Importante para el suministro de agua.", "El nombre se refiere a 'charcos oscuros'."],
+      pt: ["Flui através de terreno acidentado.", "Importante para o abastecimento de água.", "O nome refere-se a 'poços escuros'."],
+      fr: ["Coule à travers un terrain accidenté.", "Important pour l'approvisionnement en eau.", "Le nom fait référence aux 'étangs sombres'."],
     }, image: "/poi-images/ls-malibamatso-river-nature-v2.webp",
     
     
@@ -570,19 +696,28 @@ export const poiExtraLesothoNatureV2: POI[] = [
       hu: ["A Matsoku-alagútat táplálja, amely körülbelül 5,6 km hosszú.", "A vizet a Matsoku-gáttól a Katse-tározóba irányítják át.", "A folyó Mokhotlong és Leribe körzeteken halad keresztül.", "A Matsoku-eltérítési projekt 2001-ben fejeződött be.", "A Lesotho-felvidéki Vízprojekt 1B szakaszának fontos része.", "A régióban télen gyakran fagypont alatti hőmérsékleteket mérnek."],
       ro: ["Alimentează tunelul Matsoku, care are o lungime de aproximativ 5,6 km.", "Apa este deviată de la deversorul Matsoku către barajul Katse.", "Râul traversează districtele Mokhotlong și Leribe.", "Proiectul de deviere Matsoku a fost finalizat în anul 2001.", "Este o componentă cheie a Fazei 1B a proiectului LHWP.", "Regiunea este caracterizată de un climat montan sever cu ierni geroase."],
       en: ["Feeds the Matsoku Tunnel, which is approximately 5.6 kilometers long.", "Water is diverted from the Matsoku Weir to the Katse Reservoir.", "The river flows through the Mokhotlong and Leribe districts.", "The Matsoku Diversion Project was completed in the year 2001.", "An important component of Phase 1B of the Lesotho Highlands Water Project.", "The region frequently experiences sub-zero temperatures during winter."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Ein Gebirgsfluss, der durch das zerklüftete Hochland von Lesotho fließt.",
       hu: "Hegyi folyó, amely Lesotho tagolt felföldjén folyik keresztül.",
       ro: "Un râu de munte care curge prin zonele muntoase accidentate din Lesotho.",
-      en: "A mountain river flowing through the rugged highlands of Lesotho."
+      en: "A mountain river flowing through the rugged highlands of Lesotho.",
+      es: "Un río de montaña que fluye a través de las escarpadas tierras altas de Lesoto.",
+      pt: "Um rio de montanha que flui através das terras altas escarpadas do Lesoto.",
+      fr: "Une rivière de montagne qui traverse les hauts plateaux accidentés du Lesotho.",
     },
     facts: {
       de: ["Bietet Lebensraum für Gebirgsfische.", "Wird für Bewässerung genutzt.", "Kaltes, klares Bergwasser."],
       hu: ["Hegyi halfajok élőhelye.", "Öntözésre használják.", "Hideg, tiszta hegyi víz."],
       ro: ["Oferă habitat pentru pești de munte.", "Folosit pentru irigații.", "Apă de munte rece și limpede."],
-      en: ["Provides habitat for mountain fish.", "Used for irrigation.", "Cold, clear mountain water."]
+      en: ["Provides habitat for mountain fish.", "Used for irrigation.", "Cold, clear mountain water."],
+      es: ["Proporciona hábitat para peces de montaña.", "Se utiliza para el riego.", "Agua de montaña fría y clara."],
+      pt: ["Fornece habitat para peixes de montanha.", "É utilizado para irrigação.", "Água de montanha fria e límpida."],
+      fr: ["Offre un habitat aux poissons de montagne.", "Utilisée pour l'irrigation.", "Eau de montagne froide et claire."],
     }, image: "/poi-images/ls-matsoku-river-nature-v2.webp",
     
     
@@ -609,19 +744,28 @@ export const poiExtraLesothoNatureV2: POI[] = [
       hu: ["Lesotho déli határvidékén torkollik a Senqu (Orange) folyóba.", "A Quthing körzet híres sziklarajzairól és dinoszaurusz-lábnyomairól.", "A folyó az ország legidősebb kőzetrétegein halad keresztül.", "Kulcsfontosságú vízforrás Quthing (Moyeni) városa számára.", "A régió gabona- és hüvelyesnövény-termesztéséről ismert.", "A Quthing-folyó látványos kanyarulatokat képez az alsó szakaszán."],
       ro: ["Se varsă în râul Senqu (Orange) în zona de frontieră sudică a țării.", "Districtul Quthing este faimos pentru picturile rupestre și urmele de dinozauri.", "Râul traversează unele dintre cele mai vechi formațiuni geologice din Lesotho.", "Este principala sursă de apă pentru orașul Quthing (Moyeni).", "Valea este o regiune agricolă importantă pentru culturile de cereale.", "Râul Quthing formează meandre spectaculoase în cursul său inferior."],
       en: ["Merges with the Senqu (Orange) River in the southern border region of Lesotho.", "The Quthing District is famous for its San rock art and dinosaur tracks.", "The river flows through some of the country's oldest geological strata.", "Acts as a primary water source for the town of Quthing (Moyeni).", "The valley is a key agricultural region for cereal and legume production.", "The Quthing River creates spectacular meanders along its lower reaches."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Ein Fluss im Süden Lesothos, der für die Entdeckung von Dinosaurier-Fußabdrücken in seinem Bett bekannt ist.",
       hu: "Folyó Lesotho déli részén, amely a medrében talált dinoszaurusz-lábnyomokról ismert.",
       ro: "Un râu în sudul Lesotho, cunoscut pentru descoperirea urmelor de dinozaur în albia sa.",
-      en: "A river in southern Lesotho known for the discovery of dinosaur footprints in its bed."
+      en: "A river in southern Lesotho known for the discovery of dinosaur footprints in its bed.",
+      es: "Un río en el sur de Lesoto, conocido por el descubrimiento de huellas de dinosaurio en su cauce.",
+      pt: "Um rio no sul do Lesoto, conhecido pela descoberta de pegadas de dinossauros no seu leito.",
+      fr: "Une rivière du sud du Lesotho, célèbre pour la découverte de traces de dinosaures dans son lit.",
     },
     facts: {
       de: ["Fließt durch Sandsteinschluchten.", "Wichtig für lokale Gemeinden.", "Nahe prähistorischer Fundstätten."],
       hu: ["Homokkő szurdokokon folyik át.", "Fontos a helyi közösségeknek.", "Prehisztorikus lelőhelyek közelében."],
       ro: ["Curge prin canioane de gresie.", "Important pentru comunitățile locale.", "Lângă situri preistorice."],
-      en: ["Flows through sandstone gorges.", "Important for local communities.", "Near prehistoric sites."]
+      en: ["Flows through sandstone gorges.", "Important for local communities.", "Near prehistoric sites."],
+      es: ["Fluye a través de cañones de arenisca.", "Importante para las comunidades locales.", "Cerca de yacimientos prehistóricos."],
+      pt: ["Flui através de desfiladeiros de arenito.", "Importante para as comunidades locais.", "Perto de locais pré-históricos."],
+      fr: ["Traverse des gorges de grès.", "Importante pour les communautés locales.", "À proximité de sites préhistoriques."],
     },
     
     
@@ -648,19 +792,28 @@ export const poiExtraLesothoNatureV2: POI[] = [
       hu: ["A Sehlabathebe Nemzeti Park lábainál ered.", "Fontos élőhelye a veszélyeztetett Maloti-márnának (Pseudobarbus quathlambae).", "A Maloti-Drakensberg Park UNESCO Világörökségi helyszínének része.", "A folyó természetes határt képez a távoli felföldi régiók között.", "Számos őskori szan sziklarajz található a völgyében.", "Kiváló feltételeket biztosít a pisztránghorgászathoz (legyező horgászat)."],
       ro: ["Izvorăște la poalele Parcului Național Sehlabathebe.", "Habitat crucial pentru specia periclitată Maloti Minnow.", "Inclus în situl Patrimoniului Mondial UNESCO Maloti-Drakensberg.", "Râul formează o barieră naturală între regiuni montane izolate.", "Adăpostește numeroase picturi rupestre preistorice ale populației San.", "Este renumit pentru condițiile excelente de pescuit la păstrăv."],
       en: ["Originates in the foothills of the Sehlabathebe National Park.", "A crucial habitat for the endangered Maloti minnow (Pseudobarbus quathlambae).", "Part of the Maloti-Drakensberg Park UNESCO World Heritage site.", "The river forms a natural boundary between remote highland regions.", "Home to numerous prehistoric San rock art sites along its course.", "Well-known for its excellent trout fly-fishing opportunities."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Ein malerischer Fluss im Bezirk Qacha's Nek, der sich durch die Berge schlängelt.",
       hu: "Festői folyó Qacha's Nek kerületben, amely a hegyek között kanyarog.",
       ro: "Un râu pitoresc în districtul Qacha's Nek, care șerpuiește printre munți.",
-      en: "A scenic river in the Qacha's Nek district, meandering through the mountains."
+      en: "A scenic river in the Qacha's Nek district, meandering through the mountains.",
+      es: "Un pintoresco río en el distrito de Qacha's Nek que serpentea a través de las montañas.",
+      pt: "Um rio pitoresco no distrito de Qacha's Nek que serpenteia pelas montanhas.",
+      fr: "Une rivière pittoresque dans le district de Qacha's Nek qui serpente à travers les montagnes.",
     },
     facts: {
       de: ["Beliebt für Forellenangeln.", "Fernab der Hauptverkehrswege.", "Unberührte Flusslandschaft."],
       hu: ["Népszerű a pisztránghorgászat.", "Távol esik a fő utaktól.", "Érintetlen folyóparti táj."],
       ro: ["Popular pentru pescuitul de păstrăv.", "Departe de drumurile principale.", "Peisaj fluvial virgin."],
-      en: ["Popular for trout fishing.", "Remote from main roads.", "Pristine river landscape."]
+      en: ["Popular for trout fishing.", "Remote from main roads.", "Pristine river landscape."],
+      es: ["Popular para la pesca de truchas.", "Lejos de las rutas de tráfico principales.", "Paisaje fluvial virgen."],
+      pt: ["Popular para a pesca de trutas.", "Longe das principais rotas de tráfego.", "Paisagem fluvial intocada."],
+      fr: ["Apprécié pour la pêche à la truite.", "Loin des axes de circulation principaux.", "Paysage fluvial préservé."],
     }, image: "/poi-images/ls-tsoelike-river-nature-v2.webp",
     
     
@@ -687,19 +840,28 @@ export const poiExtraLesothoNatureV2: POI[] = [
       hu: ["Lesotho legmagasabb körzetén, Mokhotlongon folyik keresztül.", "A Senqu (Orange), Dél-Afrika leghosszabb folyójának fontos mellékfolyója.", "Mokhotlong városát eredetileg rendőrőrsként alapították 1905-ben.", "A régió híres a kiváló minőségű gyapjú- és mohertermeléséről.", "A folyót télen gyakran jég és hó táplálja.", "Kiindulópontja a Thabana Ntlenyana, Dél-Afrika legmagasabb csúcsa felé tartó túráknak."],
       ro: ["Traversează cel mai înalt district din Lesotho, Mokhotlong.", "Este un afluent major al râului Senqu (Orange), cel mai lung din Africa de Sud.", "Orașul Mokhotlong a fost fondat inițial ca post de poliție în anul 1905.", "Regiunea este renumită pentru calitatea superioară a lânii și a mohairului.", "Râul este alimentat frecvent de topirea zăpezilor în timpul primăverii.", "Reprezintă o poartă de acces către vârful Thabana Ntlenyana, cel mai înalt din Africa Australă."],
       en: ["Flows through Lesotho's highest district, Mokhotlong.", "A significant tributary of the Senqu (Orange) River, South Africa's longest river.", "The town of Mokhotlong was originally established as a police post in 1905.", "The region is renowned for the high quality of its wool and mohair production.", "The river's flow is often supplemented by snowmelt during the winter and spring.", "A primary starting point for treks to Thabana Ntlenyana, the highest peak in southern Africa."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Ein Fluss im Osten Lesothos, der die gleichnamige Stadt durchfließt.",
       hu: "Folyó Lesotho keleti részén, amely az azonos nevű városon folyik keresztül.",
       ro: "Un râu în estul Lesotho, care traversează orașul cu același nume.",
-      en: "A river in eastern Lesotho flowing through the town of the same name."
+      en: "A river in eastern Lesotho flowing through the town of the same name.",
+      es: "Un río en el este de Lesoto que atraviesa la ciudad del mismo nombre.",
+      pt: "Um rio no leste do Lesoto que atravessa a cidade com o mesmo nome.",
+      fr: "Une rivière de l'est du Lesotho qui traverse la ville du même nom.",
     },
     facts: {
       de: ["Einzugsgebiet im Hochgebirge.", "Quelle des Senqu-Flusssystems.", "Oft im Winter zugefroren."],
       hu: ["Magashegyi vízgyűjtő terület.", "A Senqu-folyórendszer forrásvidéke.", "Télen gyakran befagy."],
       ro: ["Bazin de captare în munte înalt.", "Sursă a sistemului de râuri Senqu.", "Adesea înghețat iarna."],
-      en: ["High mountain catchment area.", "Source of the Senqu river system.", "Often frozen in winter."]
+      en: ["High mountain catchment area.", "Source of the Senqu river system.", "Often frozen in winter."],
+      es: ["Cuenca hidrográfica en alta montaña.", "Fuente del sistema fluvial del Senqu.", "A menudo congelado en invierno."],
+      pt: ["Bacia hidrográfica em alta montanha.", "Nascente do sistema fluvial do Senqu.", "Frequentemente congelado no inverno."],
+      fr: ["Bassin versant en haute montagne.", "Source du système fluvial Senqu.", "Souvent gelé en hiver."],
     },
     
     
@@ -726,19 +888,28 @@ export const poiExtraLesothoNatureV2: POI[] = [
       hu: ["A Khubelu a Senqu folyóba torkollik, amely Lesotho legfontosabb vízfolyása.", "Vízgyűjtő területe átlagosan 2000 méter feletti tengerszint feletti magasságban található.", "A folyó keresztülhalad az északkeleti Mokhotlong körzeten.", "A folyó völgyének közelében található a híres Letšeng gyémántbánya.", "A téli hónapokban a folyó felső szakasza gyakran befagy az extrém hideg miatt.", "A folyó ad otthont a ritka Maloti-csellének, amely egy endemikus halfaj."],
       ro: ["Khubelu se varsă în fluviul Senqu, cel mai lung râu din Lesotho.", "Bazinul său hidrografic este situat la o altitudine medie de peste 2000 de metri.", "Râul traversează districtul Mokhotlong din nord-estul țării.", "Mina de diamante Letšeng se află în apropierea bazinului râului.", "Iarna, porțiuni din cursul superior al râului pot îngheța din cauza temperaturilor scăzute.", "Este un habitat crucial pentru peștele endemic Pseudobarbus quathlambae."],
       en: ["The Khubelu is a primary tributary of the Senqu (Orange) River.", "Its catchment area is situated at an average elevation exceeding 2000 meters.", "The river flows through the Mokhotlong District in northeastern Lesotho.", "The world-famous Letšeng diamond mine is located in its vicinity.", "During winter, upper sections of the river can freeze due to sub-zero temperatures.", "The river supports the Maloti minnow, a critically endangered fish species."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Ein wichtiger Quellfluss des Senqu, der im Nordosten Lesothos entspringt.",
       hu: "A Senqu fontos forrásfolyója, amely Lesotho északkeleti részén ered.",
       ro: "Un râu sursă important pentru Senqu, izvorând din nord-estul Lesotho.",
-      en: "An important source river of the Senqu, originating in northeastern Lesotho."
+      en: "An important source river of the Senqu, originating in northeastern Lesotho.",
+      es: "Un importante río fuente del Senqu, que nace en el noreste de Lesoto.",
+      pt: "Um importante afluente do Senqu, que nasce no nordeste do Lesoto.",
+      fr: "Une importante source de la rivière Senqu, prenant naissance dans le nord-est du Lesotho.",
     },
     facts: {
       de: ["Führt klares Gletscherwasser.", "Bekannt für Diamantenfunde.", "Fließt durch alpines Gelände."],
       hu: ["Tiszta gleccservizet szállít.", "Gyémántleleteiről ismert.", "Alpesi terepen folyik át."],
       ro: ["Transportă apă de ghețar limpede.", "Cunoscut pentru descoperiri de diamante.", "Curge prin teren alpin."],
-      en: ["Carries clear glacial water.", "Known for diamond discoveries.", "Flows through alpine terrain."]
+      en: ["Carries clear glacial water.", "Known for diamond discoveries.", "Flows through alpine terrain."],
+      es: ["Lleva agua clara de glaciar.", "Conocido por los hallazgos de diamantes.", "Fluye por terreno alpino."],
+      pt: ["Transporta águas glaciares límpidas.", "Conhecido por descobertas de diamantes.", "Flui através de terreno alpino."],
+      fr: ["Charrie de l'eau glaciaire claire.", "Connu pour ses découvertes de diamants.", "Coule à travers un terrain alpin."],
     }, image: "/poi-images/ls-khubelu-river-nature-v2.webp",
     
     
@@ -765,19 +936,28 @@ export const poiExtraLesothoNatureV2: POI[] = [
       hu: ["A Hlotse a Mohokare (Caledon) folyó egyik legfontosabb mellékfolyója.", "A folyó partján épült Hlotse városa, Leribe körzet központja.", "A folyó mentén találhatók a híres Tsikoane dinoszaurusz-lábnyomok.", "A forrásvidék a Maloti-hegység nyugati részén, 2500 méter magasságban található.", "A Hlotse völgye Lesotho egyik legfontosabb gabonatermesztő vidéke.", "A folyó vízhozama a nyári esős évszakban éri el a maximumát."],
       ro: ["Hlotse este un afluent important al râului Mohokare (Caledon).", "Râul trece pe lângă orașul Hlotse, capitala districtului Leribe.", "Situl paleontologic Tsikoane, cu urme de dinozauri, se află în valea râului.", "Izvoarele sale sunt situate la aproximativ 2500 de metri în munții Maloti.", "Valea Hlotse este una dintre cele mai fertile zone agricole din țară.", "Râul a jucat un rol strategic în timpul conflictelor de frontieră din secolul al XIX-lea."],
       en: ["The Hlotse is a key tributary of the Mohokare (Caledon River).", "It flows past the town of Hlotse, the administrative center of Leribe.", "The Tsikoane dinosaur footprints are located in the vicinity of the river.", "The river's source is at an elevation of roughly 2500 meters in the Maloti Mountains.", "The Hlotse valley is a primary region for maize and sorghum production in Lesotho.", "The river experiences its highest flow during the summer rainy season from October to March."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Ein Fluss im Norden Lesothos, der durch fruchtbare Täler fließt.",
       hu: "Folyó Lesotho északi részén, amely termékeny völgyeken folyik keresztül.",
       ro: "Un râu în nordul Lesotho, care curge prin văi fertile.",
-      en: "A river in northern Lesotho flowing through fertile valleys."
+      en: "A river in northern Lesotho flowing through fertile valleys.",
+      es: "Un río en el norte de Lesoto que fluye a través de valles fértiles.",
+      pt: "Um rio no norte do Lesoto que flui através de vales férteis.",
+      fr: "Une rivière au nord du Lesotho qui coule à travers des vallées fertiles.",
     },
     facts: {
       de: ["Versorgt die Stadt Hlotse.", "Wichtig für den Maisanbau.", "Mündet in den Caledon-Fluss."],
       hu: ["Hlotse városát látja el vízzel.", "Fontos a kukoricatermesztéshez.", "A Caledon-folyóba torkollik."],
       ro: ["Alimentează orașul Hlotse.", "Important pentru cultivarea porumbului.", "Se varsă în râul Caledon."],
-      en: ["Supplies water to Hlotse town.", "Important for maize farming.", "Tributary of the Caledon River."]
+      en: ["Supplies water to Hlotse town.", "Important for maize farming.", "Tributary of the Caledon River."],
+      es: ["Abastece a la ciudad de Hlotse.", "Importante para el cultivo de maíz.", "Desemboca en el río Caledon."],
+      pt: ["Abastece a cidade de Hlotse.", "Importante para o cultivo de milho.", "Desagua no rio Caledon."],
+      fr: ["Alimente la ville de Hlotse.", "Important pour la culture du maïs.", "Se jette dans la rivière Caledon."],
     }, image: "/poi-images/ls-hlotse-river-nature-v2.webp",
     
     
@@ -804,19 +984,28 @@ export const poiExtraLesothoNatureV2: POI[] = [
       hu: ["Lesothóban két különálló Phuthiatsana-folyó található (Északi és Déli).", "A Déli-Phuthiatsana a Mohokare (Caledon) folyóba torkollik.", "A folyó menti homokkő barlangokban ősi busman sziklarajzok láthatók.", "A folyó a Maseru körzet egyik legfontosabb öntözővíz-forrása.", "A közeli Metolong-gát segít a főváros vízellátásának szabályozásában.", "A folyó völgye gazdag pleisztocén kori régészeti leletekben."],
       ro: ["Există două râuri numite Phuthiatsana în Lesotho (Nord și Sud).", "Phuthiatsana de Sud se varsă în râul Mohokare (Caledon).", "Picturi rupestre San pot fi găsite în peșterile de gresie de-a lungul râului.", "Râul reprezintă o sursă principală de apă pentru districtul Maseru.", "Barajul Metolong este situat pe un afluent al râului Phuthiatsana de Sud.", "Viiturile de vară pot crește nivelul apei cu câțiva metri în doar câteva ore."],
       en: ["Lesotho has two distinct Phuthiatsana rivers, known as North and South.", "The Southern Phuthiatsana is a major tributary of the Mohokare (Caledon).", "Ancient San rock art is preserved in sandstone shelters along the river valley.", "The river is a primary source of water for agricultural activities in the Maseru District.", "The Metolong Dam, located nearby, is vital for the water supply of the capital city.", "Sudden flash floods are common during the rainy season from October to April."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Ein bedeutender Fluss im Westen Lesothos, der für seine Wasserressourcen genutzt wird.",
       hu: "Jelentős folyó Lesotho nyugati részén, melyet vízkészletei miatt hasznosítanak.",
       ro: "Un râu semnificativ în vestul Lesotho, utilizat pentru resursele sale de apă.",
-      en: "A significant river in western Lesotho utilized for its water resources."
+      en: "A significant river in western Lesotho utilized for its water resources.",
+      es: "Un río importante en el oeste de Lesoto, utilizado por sus recursos hídricos.",
+      pt: "Um rio importante no oeste do Lesoto, utilizado pelos seus recursos hídricos.",
+      fr: "Une rivière importante de l'ouest du Lesotho, exploitée pour ses ressources en eau.",
     },
     facts: {
       de: ["Speist die Metolong-Talsperre.", "Wichtig für Maseru.", "Zwei Arme: Nord und Süd."],
       hu: ["A Metolong-gátat táplálja.", "Fontos Maseru vízellátásához.", "Két ága van: Északi és Déli."],
       ro: ["Alimentează barajul Metolong.", "Important pentru orașul Maseru.", "Două brațe: de Nord și de Sud."],
-      en: ["Feeds the Metolong Dam.", "Vital for Maseru's water supply.", "Two branches: North and South."]
+      en: ["Feeds the Metolong Dam.", "Vital for Maseru's water supply.", "Two branches: North and South."],
+      es: ["Alimenta la presa de Metolong.", "Importante para Maseru.", "Dos brazos: norte y sur."],
+      pt: ["Alimenta a barragem de Metolong.", "Importante para Maseru.", "Dois braços: norte e sul."],
+      fr: ["Alimente le barrage de Metolong.", "Importante pour Maseru.", "Deux bras : nord et sud."],
     }, image: "/poi-images/ls-phuthiatsana-river-nature-v2.webp",
     
     
@@ -843,19 +1032,28 @@ export const poiExtraLesothoNatureV2: POI[] = [
       hu: ["A Bokong a Katse-víztározóba torkollik, amely Afrika legmagasabb gátja.", "A Bokong Természetvédelmi Terület 3200 méter feletti magasságban található.", "Télen a folyó Lepaqoa nevű vízesése gyakran teljesen jéggé fagy.", "A folyó a ritka Maloti-cselle egyik legfontosabb élőhelye.", "A környék tőzegmohalápjai kulcsszerepet játszanak a víz körforgásában.", "A folyó völgyében különleges alpesi növényvilág, például havasi liliomok találhatók."],
       ro: ["Râul Bokong se varsă în lacul de acumulare Katse, cel mai înalt baraj din Africa.", "Rezervația Naturală Bokong este situată la altitudini de până la 3200 de metri.", "Cascada Lepaqoa de pe râul Bokong îngheață complet în timpul iernii.", "Râul este un habitat esențial pentru peștele endemic Maloti minnow.", "Zonele umede din bazinul Bokong acționează ca filtre naturale de apă.", "Valea râului este o destinație populară pentru observarea vulturului bărbos."],
       en: ["The Bokong River flows into the Katse Reservoir, Africa's highest dam.", "The Bokong Nature Reserve is situated at elevations up to 3200 meters above sea level.", "The Lepaqoa Waterfall on the Bokong often freezes into a solid ice pillar in winter.", "The river is a vital habitat for the critically endangered Maloti minnow.", "High-altitude wetlands in the Bokong basin store water and release it slowly year-round.", "The area is a prime spot for viewing the rare bearded vulture and other alpine birds."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Ein kleinerer Fluss im Norden, bekannt für das Bokong-Naturreservat an seinem Oberlauf.",
       hu: "Kisebb folyó északon, mely a felső szakaszán található Bokong Természetvédelmi Területről ismert.",
       ro: "Un râu mai mic în nord, cunoscut pentru Rezervația Naturală Bokong situată în cursul superior.",
-      en: "A smaller river in the north, known for the Bokong Nature Reserve located in its upper reaches."
+      en: "A smaller river in the north, known for the Bokong Nature Reserve located in its upper reaches.",
+      es: "Un río menor en el norte, conocido por la Reserva Natural de Bokong en su curso superior.",
+      pt: "Um rio menor no norte, conhecido pela Reserva Natural de Bokong no seu curso superior.",
+      fr: "Une petite rivière du nord, connue pour la réserve naturelle de Bokong sur son cours supérieur.",
     },
     facts: {
       de: ["Höchstgelegenes Reservat Lesothos.", "Faszinierende Hochlandvögel.", "Heimat endemischer Frösche."],
       hu: ["Lesotho legmagasabban fekvő rezervátuma.", "Lenyűgöző felföldi madarak.", "Endemikus békák otthona."],
       ro: ["Rezervația la cea mai mare altitudine din Lesotho.", "Păsări de podiș fascinante.", "Adăpostește broaște endemice."],
-      en: ["Lesotho's highest altitude reserve.", "Fascinating highland birds.", "Home to endemic frogs."]
+      en: ["Lesotho's highest altitude reserve.", "Fascinating highland birds.", "Home to endemic frogs."],
+      es: ["Reserva más alta de Lesotho.", "Fascinantes aves de montaña.", "Hogar de ranas endémicas."],
+      pt: ["Reserva mais alta do Lesoto.", "Aves de montanha fascinantes.", "Lar de rãs endémicas."],
+      fr: ["Plus haute réserve du Lesotho.", "Oiseaux de haute montagne fascinants.", "Habitat de grenouilles endémiques."],
     }, image: "/poi-images/ls-bokong-river-nature-v2.webp",
     
     
@@ -882,19 +1080,28 @@ export const poiExtraLesothoNatureV2: POI[] = [
       hu: ["A hegység legmagasabb pontja 3282 méterrel van a tengerszint felett.", "Itt ered a Tugela-folyó, amely az Indiai-óceánba torkollik.", "A Senqu (Orange) folyó is innen indul az Atlanti-óceán felé.", "A Tugela-vízesés teljes magassága kb. 948 méter, ami világrekord-közeli.", "A hegy nevét 1836-ban adták francia misszionáriusok.", "A csúcs eléréséhez használt lánclétrák két szakaszból állnak."],
       ro: ["Masivul atinge o altitudine maximă de 3282 de metri.", "Râul Tugela izvorăște de aici și curge spre est în Oceanul Indian.", "Fluviul Senqu (Orange) pornește din acest masiv spre vest, către Oceanul Atlantic.", "Cascada Tugela are o cădere totală de aproximativ 948 de metri.", "Misionarii francezi au numit muntele în 1836 după izvoarele sale numeroase.", "Scările de lanț folosite pentru urcare au fost instalate pentru a facilita accesul pe platou."],
       en: ["The massif reaches a peak elevation of 3282 meters above sea level.", "It is the source of the Tugela River, which flows into the Indian Ocean.", "The Senqu (Orange) River begins here and traverses the continent to the Atlantic.", "The Tugela Falls drop roughly 948 meters, making them among the world's tallest.", "The mountain was officially named by French missionaries in 1836.", "The iconic chain ladders used by hikers were installed to scale the final rock buttress."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Einer der höchsten Gipfel der Drakensberge, an dem drei bedeutende Flüsse entspringen.",
       hu: "A Drakensberg-hegység egyik legmagasabb csúcsa, ahol három jelentős folyó is ered.",
       ro: "Unul dintre cele mai înalte vârfuri din munții Drakensberg, unde izvorăsc trei râuri importante.",
-      en: "One of the highest peaks in the Drakensberg mountains, where three major rivers originate."
+      en: "One of the highest peaks in the Drakensberg mountains, where three major rivers originate.",
+      es: "Uno de los picos más altos de las montañas Drakensberg, donde nacen tres ríos importantes.",
+      pt: "Um dos picos mais altos das montanhas Drakensberg, onde nascem três rios importantes.",
+      fr: "L'un des plus hauts sommets des montagnes du Drakensberg, où prennent source trois rivières majeures.",
     },
     facts: {
       de: ["Name bedeutet 'Berg der Quellen'.", "Tugela-Fälle entspringen hier.", "Schnittpunkt dreier Provinzen."],
       hu: ["Neve 'források hegyét' jelenti.", "Itt ered a Tugela-vízesés.", "Három tartomány találkozási pontja."],
       ro: ["Numele înseamnă 'Muntele Izvoarelor'.", "Cascada Tugela izvorăște aici.", "Punct de întâlnire a trei provincii."],
-      en: ["Name means 'Mountain of Springs'.", "Tugela Falls originates here.", "Meeting point of three provinces."]
+      en: ["Name means 'Mountain of Springs'.", "Tugela Falls originates here.", "Meeting point of three provinces."],
+      es: ["Su nombre significa 'Montaña de las Fuentes'.", "Aquí nacen las cataratas del Tugela.", "Punto de encuentro de tres provincias."],
+      pt: ["O nome significa 'Montanha das Fontes'.", "As cataratas do Tugela nascem aqui.", "Ponto de encontro de três províncias."],
+      fr: ["Son nom signifie 'Montagne des Sources'.", "Les chutes de la Tugela y prennent source.", "Point de rencontre de trois provinces."],
     }, image: "/poi-images/ls-mont-aux-sources-nature-v2.webp",
     
     
@@ -921,19 +1128,28 @@ export const poiExtraLesothoNatureV2: POI[] = [
       hu: ["A Thabana Ntlenyana a hegység legmagasabb pontja (3482 méter).", "A hegylánc teljes hossza meghaladja az 1000 kilométert.", "Több mint 35 000 különálló sziklarajzot regisztráltak a területen.", "A hegység bazaltrétegei néhol az 1400 méteres vastagságot is elérik.", "A téli hónapokban rendszeresek a nagy havazások a csúcsokon.", "Az UNESCO 2000-ben nyilvánította a területet a Világörökség részévé."],
       ro: ["Vârful Thabana Ntlenyana are o înălțime de 3482 de metri.", "Lanțul muntos se întinde pe o distanță de peste 1000 de kilometri.", "Există peste 35.000 de picturi rupestre individuale în peșterile din munți.", "Grosimea straturilor de bazalt vulcanice atinge până la 1400 de metri.", "Zăpada este comună la altitudini mari în perioada mai-august.", "Regiunea găzduiește Aloe polyphylla (aloe spiralată), o plantă endemică rară."],
       en: ["Thabana Ntlenyana is the highest peak in the Drakensberg at 3482 meters.", "The mountain range stretches for over 1000 kilometers across Southern Africa.", "There are over 35,000 individual San rock paintings recorded in the region.", "The basalt layers of the range can be up to 1400 meters thick in some areas.", "Snowfall is frequent in the high altitudes between May and August.", "The Drakensberg was inscribed as a UNESCO World Heritage site in 2000."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Die mächtige Bergkette, die die östliche Grenze Lesothos bildet und für ihre schroffen Gipfel bekannt ist.",
       hu: "Hatalmas hegylánc Lesotho keleti határán, mely meredek csúcsairól ismert.",
       ro: "Lanțul muntos masiv care formează granița de est a Lesotho, cunoscut pentru vârfurile sale abrupte.",
-      en: "The massive mountain range forming Lesotho's eastern border, known for its rugged peaks."
+      en: "The massive mountain range forming Lesotho's eastern border, known for its rugged peaks.",
+      es: "La imponente cadena montañosa que forma la frontera oriental de Lesoto y es conocida por sus picos escarpados.",
+      pt: "A imponente cordilheira que forma a fronteira oriental do Lesoto e é conhecida pelos seus picos escarpados.",
+      fr: "La puissante chaîne de montagnes qui forme la frontière orientale du Lesotho et est connue pour ses sommets escarpés.",
     },
     facts: {
       de: ["Höchstes Gebirge im südlichen Afrika.", "UNESCO-Weltkulturerbe.", "Wird in Sesotho 'Maloti' genannt."],
       hu: ["Dél-Afrika legmagasabb hegysége.", "UNESCO világörökségi helyszín.", "Sotho nyelven 'Maloti' a neve."],
       ro: ["Cel mai înalt lanț muntos din Africa de Sud.", "Patrimoniu Mondial UNESCO.", "Numit 'Maloti' în limba sesotho."],
-      en: ["Highest range in southern Africa.", "UNESCO World Heritage site.", "Called 'Maloti' in Sesotho."]
+      en: ["Highest range in southern Africa.", "UNESCO World Heritage site.", "Called 'Maloti' in Sesotho."],
+      es: ["Montaña más alta del sur de África.", "Patrimonio de la Humanidad de la UNESCO.", "Se llama 'Maloti' en sesoto."],
+      pt: ["Montanha mais alta da África Austral.", "Património Mundial da UNESCO.", "Chama-se 'Maloti' em sesoto."],
+      fr: ["Plus haute montagne d'Afrique australe.", "Patrimoine mondial de l'UNESCO.", "Appelée 'Maloti' en sesotho."],
     }, image: "/poi-images/ls-drakensberg-lesotho-nature-v2.webp",
     
     
@@ -960,19 +1176,28 @@ export const poiExtraLesothoNatureV2: POI[] = [
       hu: ["Lesotho területének több mint 80%-a 1800 méter feletti magasságban fekszik.", "A felföldet hatalmas, 1400 méter vastag bazaltvulkáni kőzet építi fel.", "Itt található a Katse-gát, amely Afrika egyik legnagyobb mérnöki projektje.", "Télen a hőmérséklet a felföldön gyakran -15°C alá süllyed.", "A régió a világ egyik legnagyobb mohair (kecskeszőr) termelője.", "A területen található Maloti-Drakensberg Park az UNESCO Világörökség része."],
       ro: ["Peste 80% din suprafața statului Lesotho se află la peste 1800 de metri altitudine.", "Podișul este format din straturi de lavă bazaltică vechi de peste 180 milioane de ani.", "Barajul Katse din această zonă are o înălțime de 185 de metri.", "Temperaturile pot scădea sub -15°C în nopțile de iarnă din zonele înalte.", "Regiunea este celebră pentru producția de lână și mohair de înaltă calitate.", "Poneiul Basotho este animalul de povară indispensabil în zonele fără drumuri."],
       en: ["Over 80% of Lesotho's land area lies above 1800 meters in elevation.", "The highlands are composed of basalt layers up to 1400 meters thick.", "The Katse Dam in the highlands is the second-highest dam in Africa.", "Temperatures in the highlands can plummet below -15°C during winter nights.", "The region is a global leader in the production of high-quality mohair.", "The Basotho pony is specially bred for endurance in this rugged terrain."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     description: {
       de: "Das Herzstück Lesothos, ein weites Gebiet aus hohen Plateaus und tiefen Tälern.",
       hu: "Lesotho szíve, magas fennsíkokból és mély völgyekből álló tágas terület.",
       ro: "Inima Lesotho, o zonă vastă de platouri înalte și văi adânci.",
-      en: "The heart of Lesotho, a vast area of high plateaus and deep valleys."
+      en: "The heart of Lesotho, a vast area of high plateaus and deep valleys.",
+      es: "El corazón de Lesoto, una vasta zona de altas mesetas y valles profundos.",
+      pt: "O coração do Lesoto, uma vasta área de planaltos elevados e vales profundos.",
+      fr: "Le cœur du Lesotho, une vaste zone de hauts plateaux et de vallées profondes.",
     },
     facts: {
       de: ["Prägt das Klima des Landes.", "Wichtig für die Schafzucht.", "Enthält die meisten Stauseen."],
       hu: ["Meghatározza az ország éghajlatát.", "Fontos a juhtenyésztéshez.", "Itt található a legtöbb víztározó."],
       ro: ["Definește clima țării.", "Important pentru creșterea oilor.", "Conține cele mai multe baraje."],
-      en: ["Shapes the country's climate.", "Important for sheep farming.", "Contains most of the reservoirs."]
+      en: ["Shapes the country's climate.", "Important for sheep farming.", "Contains most of the reservoirs."],
+      es: ["Influye en el clima del país.", "Importante para la cría de ovejas.", "Contiene la mayoría de los embalses."],
+      pt: ["Moldam o clima do país.", "Importante para a criação de ovelhas.", "Contém a maioria dos reservatórios."],
+      fr: ["Façonne le climat du pays.", "Important pour l'élevage de moutons.", "Contient la plupart des réservoirs."],
     },
     
     

@@ -1858,6 +1858,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       en: ["The town sits at an elevation of approximately 1,890 meters.", "Gateway to three Virunga volcanoes: Muhabura, Mgahinga, and Sabinyo.", "Key border post for Rwanda (Cyanika) and DR Congo (Bunagana).", "Kisoro District was formally established in 1991.", "The area is home to the rare and endangered Golden Monkey.", "The scenic Lake Mutanda is located just a few kilometers north."],
       pt: ["Kisoro fica a cerca de 500 quilómetros a sudoeste de Kampala.", "O distrito de Kisoro tem uma área de 1.280 quilómetros quadrados.", "A cidade situa-se a 1.900 metros de altitude.", "O Parque Nacional Mgahinga alberga gorilas-das-montanhas.", "A temperatura média anual é de 16°C.", "O vulcão Muhavura tem 4.127 metros de altura."],
       fr: ["Kisoro est située à environ 500 kilomètres au sud-ouest de Kampala.", "Le district de Kisoro a une superficie de 1 280 kilomètres carrés.", "La ville se situe à 1 900 mètres d'altitude.", "Le parc national de Mgahinga abrite des gorilles de montagne.", "La température annuelle moyenne est de 16°C.", "Le volcan Muhavura culmine à 4 127 mètres."],
+      es: ["Kisoro se encuentra a unos 500 kilómetros al suroeste de Kampala.", "El distrito de Kisoro tiene una superficie de 1.280 kilómetros cuadrados.", "La ciudad está a 1.900 metros de altitud.", "El Parque Nacional Mgahinga alberga gorilas de montaña.", "La temperatura media anual es de 16°C.", "El volcán Muhavura tiene 4.127 metros de altura."],
     },
   },
   {

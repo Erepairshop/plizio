@@ -295,6 +295,7 @@ export const poiExtraChadHistoryV2: POI[] = [
       en: ["Age approx. 7 million years.", "Located in the Sahara.", "Global scientific sensation.", "Species: Sahelanthropus tchadensis."],
       pt: ["Cerca de 7 milhões de anos de idade.", "Local de descoberta no Sara.", "Sensação científica mundial.", "Espécie: Sahelanthropus tchadensis."],
       fr: ["Âge d'environ 7 millions d'années.", "Lieu de découverte dans le Sahara.", "Sensation scientifique mondiale.", "Espèce : Sahelanthropus tchadensis."],
+      es: ["Antigüedad de unos 7 millones de años.", "Yacimiento en el Sahara.", "Sensación científica mundial.", "Especie: Sahelanthropus tchadensis."],
     }, image: "/poi-images/toros-menalla-history-v2.webp"},
   {
     id: "goulfeil-history-v2",

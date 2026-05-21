@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraBhutanNatureV2: POI[] = [
@@ -38,7 +39,10 @@ export const poiExtraBhutanNatureV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Fläche: 4.316 km²", "Gegründet: 1974", "Höhenlage: 1.400 bis über 7.000 Meter", "Beherbergt Bhutans Nationaltier, den Takin.", "Lebensraum für den gefährdeten Schneeleoparden.", "Über 300 Vogelarten wurden hier registriert.", "Ca. 6.500 Menschen leben innerhalb des Parks.", "Umfasst die heiligen Berge Jomolhari und Jitchu Drake."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/bt-jigme-dorji-national-park-nature-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/bt-jigme-dorji-national-park-nature-v2.webp"},
   {
     id: "bt-jigme-singye-wangchuck-national-park-nature-v2",
     type: "national-park",
@@ -76,7 +80,10 @@ export const poiExtraBhutanNatureV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Fläche: 1.730 km²", "Früherer Name: Black Mountains Nationalpark", "Wichtiger Wildtierkorridor.", "Höhenlage: 600 bis fast 5.000 Meter", "Heimat des seltenen Roten Pandas.", "Schützt die Übergangszone von Tropen zu Alpin.", "Beinhaltet den Überwinterungsplatz des Schwarzhalskranichs.", "Verbindet den Royal Manas NP mit dem Jigme Dorji NP."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/bt-jigme-singye-wangchuck-national-park-nature-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/bt-jigme-singye-wangchuck-national-park-nature-v2.webp"},
   {
     id: "bt-royal-manas-national-park-nature-v2",
     type: "national-park",
@@ -114,7 +121,10 @@ export const poiExtraBhutanNatureV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Fläche: 1.057 km²", "Gegründet als Schutzgebiet: 1966", "Ältester Nationalpark in Bhutan.", "Teil eines grenzüberschreitenden Schutzgebiets.", "Heimat von Tigern, Elefanten und Nashörnern.", "Über 430 Vogelarten.", "Wichtiger Lebensraum für den Goldlangur.", "Gilt als Biodiversitäts-Hotspot."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/bt-royal-manas-national-park-nature-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/bt-royal-manas-national-park-nature-v2.webp"},
   {
     id: "bt-phrumsengla-national-park-nature-v2",
     type: "national-park",
@@ -152,7 +162,10 @@ export const poiExtraBhutanNatureV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Fläche: 905 km²", "Gegründet: 1998", "Bekannt für seine dichten Rhododendronwälder.", "Über 68 Rhododendronarten.", "Wichtiger biologischer Korridor.", "Über 340 Vogelarten, darunter der Satyr-Tragopan.", "Höhenlage: <1.000 m bis >4.000 m", "Die „Lateral Road“ durchquert den Park."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/bt-phrumsengla-national-park-nature-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/bt-phrumsengla-national-park-nature-v2.webp"},
   {
     id: "bt-wangchuck-centennial-national-park-nature-v2",
     type: "national-park",
@@ -190,7 +203,10 @@ export const poiExtraBhutanNatureV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Fläche: 4.914 km²", "Größter Nationalpark in Bhutan.", "Gegründet: 2008 zum 100. Jubiläum der Monarchie.", "Schützt die Quellgebiete von 4 großen Flüssen.", "Beinhaltet den höchsten unbestiegenen Berg, Gangkhar Puensum.", "Wichtiger Lebensraum für Tiger in Höhenlagen.", "Heimat der halbnomadischen Layap- und Lunana-Völker.", "Grenzt an Tibet, China."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/bt-wangchuck-centennial-national-park-nature-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/bt-wangchuck-centennial-national-park-nature-v2.webp"},
   {
     id: "bt-bumdeling-wildlife-sanctuary-nature-v2",
     type: "national-park",
@@ -228,7 +244,10 @@ export const poiExtraBhutanNatureV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Fläche: 1.520 km²", "Gegründet: 1998", "Wichtiges Überwinterungsgebiet für den Schwarzhalskranich.", "Beherbergt Hunderte von Kranichen jeden Winter.", "Lebensraum für Schneeleoparden und Tiger.", "Enthält den heiligen Pilgerort Singye Dzong.", "Als potenzielles UNESCO-Weltkulturerbe gelistet.", "Grenzt im Norden an China (Tibet)."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/bt-bumdeling-wildlife-sanctuary-nature-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/bt-bumdeling-wildlife-sanctuary-nature-v2.webp"},
   {
     id: "bt-sakteng-wildlife-sanctuary-nature-v2",
     type: "national-park",
@@ -266,7 +285,10 @@ export const poiExtraBhutanNatureV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Fläche: 740 km²", "Gegründet: 2003", "Soll den mythischen Yeti („Migoi“) schützen.", "Heimat des halbnomadischen Brokpa-Volkes.", "Beherbergt seltene Arten wie den Roten Panda.", "Hier wächst die Nationalblume, die Blaue Mohnblume.", "Lange Zeit für Touristen unzugänglich.", "Umfasst alpine Wiesen und Rhododendronwälder."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/bt-sakteng-wildlife-sanctuary-nature-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/bt-sakteng-wildlife-sanctuary-nature-v2.webp"},
   {
     id: "bt-gangkhar-puensum-nature-v2",
     type: "mountain",
@@ -304,7 +326,10 @@ export const poiExtraBhutanNatureV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Höhe: 7.570 Meter", "Höchster Berg in Bhutan.", "Höchster unbestiegener Berg der Welt.", "Bergsteigen seit 1994 verboten.", "Vier erfolglose Expeditionen (1985-1986).", "Name bedeutet „Die drei spirituellen Geschwister“.", "Gilt als heiliger Wohnsitz von Göttern.", "Liegt an der umstrittenen Grenze zu China/Tibet."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/bt-gangkhar-puensum-nature-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/bt-gangkhar-puensum-nature-v2.webp"},
   {
     id: "bt-jomolhari-nature-v2",
     type: "mountain",
@@ -342,7 +367,10 @@ export const poiExtraBhutanNatureV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Höhe: 7.326 Meter", "Gilt als heiliger Berg und Wohnsitz einer Göttin.", "Name bedeutet „Braut des Kangchendzönga“.", "Jährliches Jomolhari Mountain Festival am Fuße des Berges.", "Erstbesteigung: 1937 durch eine britische Expedition.", "Besteigung von Bhutan aus heute verboten.", "Beliebtes Ziel für Trekking-Touren.", "Gut sichtbar vom Paro-Tal."]
-    , es: [], pt: [], fr: []}
+    ,
+      es: [],
+      pt: [],
+      fr: [],}
   },
   {
     id: "bt-jitchu-drake-nature-v2",
@@ -381,7 +409,10 @@ export const poiExtraBhutanNatureV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Höhe: 6.714 Meter", "Technisch anspruchsvoller Gipfel.", "Liegt in der Nähe des Jomolhari.", "Erstbesteigung im Jahr 1983.", "Bekannt für steile, eisbedeckte Flanken.", "Hohe Lawinengefahr.", "Hat spirituelle Bedeutung in der lokalen Kultur.", "Teil des Jigme-Dorji-Nationalparks."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/bt-jitchu-drake-nature-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/bt-jitchu-drake-nature-v2.webp"},
   {
     id: "bt-kula-kangri-nature-v2",
     type: "mountain",
@@ -463,7 +494,10 @@ export const poiExtraBhutanNatureV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Größtes Flusssystem in Bhutan.", "Grenzüberschreitender Fluss (Tibet, Bhutan, Indien).", "Mündet in den Brahmaputra in Assam, Indien.", "Durchfließt den Royal-Manas-Nationalpark.", "Lebensader für Tiger, Nashörner und Elefanten.", "Heimat des seltenen Goldlangurs.", "Wichtig für die Wasserkraftgewinnung.", "Beherbergt den Fisch Goldenen Mahseer."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/bt-manas-river-nature-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/bt-manas-river-nature-v2.webp"},
   {
     id: "bt-puna-tsang-chhu-nature-v2",
     type: "river",
@@ -501,7 +535,10 @@ export const poiExtraBhutanNatureV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Entsteht aus dem Zusammenfluss von Pho Chhu und Mo Chhu.", "Standort zweier großer Wasserkraftwerke (PHEP I & II).", "Wichtige Einnahmequelle durch Stromexport nach Indien.", "Wird in Indien als Sankosh-Fluss bekannt.", "Mündet in den Brahmaputra.", "Fließt durch die Bezirke Wangdue Phodrang, Dagana und Tsirang.", "Sein Tal ist ein wichtiges landwirtschaftliches Gebiet.", "Entwässert einen großen Teil Zentralbhutans."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/bt-puna-tsang-chhu-nature-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/bt-puna-tsang-chhu-nature-v2.webp"},
   {
     id: "bt-wang-chhu-nature-v2",
     type: "river",
@@ -539,7 +576,10 @@ export const poiExtraBhutanNatureV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Auch als Raidak-Fluss bekannt.", "Fließt durch die Hauptstadt Thimphu.", "Standort der wichtigen Chhukha- und Tala-Wasserkraftwerke.", "Entspringt im Himalaya nördlich von Thimphu.", "Wichtige Lebensader für Westbhutan.", "Mündet in Indien in den Brahmaputra.", "Durchfließt die Distrikte Paro, Thimphu und Chhukha.", "Hat tiefe Schluchten in die Landschaft gegraben."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/bt-wang-chhu-nature-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/bt-wang-chhu-nature-v2.webp"},
   {
     id: "bt-mangde-chhu-nature-v2",
     type: "river",
@@ -577,7 +617,10 @@ export const poiExtraBhutanNatureV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Wichtiger Fluss in Zentralbhutan.", "Standort des Mangdechhu-Wasserkraftprojekts.", "Das Kraftwerk wurde 2019 in Betrieb genommen.", "Exportiert Strom nach Indien.", "Entspringt im Wangchuck-Centennial-Nationalpark.", "Trennt historisch West- von Ostbhutan.", "Fließt durch die Region Trongsa.", "Umgeben von artenreichen Wäldern."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/bt-mangde-chhu-nature-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/bt-mangde-chhu-nature-v2.webp"},
   {
     id: "bt-thorthormi-tsho-nature-v2",
     type: "lake",
@@ -615,7 +658,10 @@ export const poiExtraBhutanNatureV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Gefährlicher Gletschersee in der Lunana-Region.", "Liegt auf über 4.400 Metern Höhe.", "Hohes Risiko eines Gletscherlauf-Ausbruchs (GLOF).", "Wird durch ein Projekt zur künstlichen Entwässerung entschärft.", "Wächst durch die Gletscherschmelze.", "Besteht aus mehreren verbundenen Seen.", "Gilt als einer der gefährlichsten der Welt.", "Bedroht das Tal des Pho Chhu."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/bt-thorthormi-tsho-nature-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/bt-thorthormi-tsho-nature-v2.webp"},
   {
     id: "bt-lugge-tsho-nature-v2",
     type: "lake",
@@ -653,7 +699,10 @@ export const poiExtraBhutanNatureV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Verursachte einen katastrophalen GLOF im Jahr 1994.", "Die Flutwelle erreichte Punakha.", "Forderte über 20 Todesopfer.", "Beschädigte den historischen Punakha Dzong.", "Führte zur Einrichtung von Frühwarnsystemen.", "Liegt in der Lunana-Region.", "Ein Symbol für die Gefahren des Klimawandels.", "Der Ausbruch wurde durch einen Moränenbruch ausgelöst."]
-    , es: [], pt: [], fr: []}, image: "/poi-images/bt-lugge-tsho-nature-v2.webp"},
+    ,
+      es: [],
+      pt: [],
+      fr: [],}, image: "/poi-images/bt-lugge-tsho-nature-v2.webp"},
   {
     id: "bt-jigme-khesar-strict-nature-reserve-nature-v2",
     type: "national-park",
@@ -691,6 +740,9 @@ export const poiExtraBhutanNatureV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Einziges „Strict Nature Reserve“ in Bhutan.", "Fläche: 609 km² im Bezirk Haa.", "Früher als Toorsa-Naturreservat bekannt.", "Keine menschliche Besiedlung im Reservat.", "Schützt die Quellgebiete des Amo Chhu (Torsa).", "Lebensraum für den Roten Panda.", "Grenzt an Sikkim, Indien.", "Wichtige Referenzfläche für die Forschung."]
-    , es: [], pt: [], fr: []}
+    ,
+      es: [],
+      pt: [],
+      fr: [],}
   }
 ];

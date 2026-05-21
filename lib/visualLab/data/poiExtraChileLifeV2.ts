@@ -864,6 +864,7 @@ export const poiExtraChileLifeV2: POI[] = [
       en: ["Established as a National Park in 2008", "Total area: 5,148 hectares", "Primary watercourse: Claro River", "Height of Velo de la Novia waterfall: 50 meters", "Altitude range: 600 to 2,100 meters above sea level", "Key tree species: Raulí and Coihue"],
       pt: ["Conhecido pelas sete piscinas naturais de basalto consecutivas.", "Importante refúgio e área protegida para espécies ameaçadas.", "Habitat do raro e esquivo pudu, o menor cervo do mundo.", "Singularidade geológica devido à força erosiva do rio Claro."],
       fr: ["Connu pour ses sept vasques de basalte naturelles consécutives.", "Refuge important et zone protégée pour les espèces menacées.", "Habitat du rare et timide pudu, le plus petit cerf au monde.", "Unicité géologique due à la force érosive du río Claro."],
+      es: ["Conocido por las siete pozas naturales de basalto consecutivas.", "Importante refugio y área protegida para especies en peligro.", "Hábitat del raro y esquivo pudú, el ciervo más pequeño del mundo.", "Singularidad geológica debida a la fuerza erosiva del río Claro."],
     },
     facts: {
       de: [
@@ -922,6 +923,7 @@ export const poiExtraChileLifeV2: POI[] = [
       en: ["Established in 1982", "Total area: 39,255 hectares", "Oldest Alerce trees: Over 3,000 years old", "Number of lagoons: More than 50", "Biosphere Reserve designation: Since 2007", "Maximum altitude: Approximately 1,558 meters"],
       pt: ["Parte importante da reserva da biosfera de florestas temperadas.", "Área protegida para os antigos ciprestes-da-patagônia (alerces).", "Patrimônio botânico com árvores com mais de 3.000 anos.", "Cerca de 50% da área do parque coberta por importantes florestas de alerce."],
       fr: ["Élément important de la réserve de biosphère des forêts tempérées humides.", "Zone protégée pour les cyprès de Patagonie millénaires (alerces).", "Héritage botanique avec des arbres âgés de plus de 3 000 ans.", "Environ 50 % de la surface du parc est couverte par d'importantes forêts d'alerces."],
+      es: ["Parte importante de la reserva de la biosfera de bosques templados lluviosos.", "Área protegida para los antiguos alerces patagónicos.", "Patrimonio botánico con árboles de más de 3.000 años de antigüedad.", "Aproximadamente el 50% de la superficie del parque cubierta por bosques de alerces."],
     },
     facts: {
       de: [
@@ -980,6 +982,7 @@ export const poiExtraChileLifeV2: POI[] = [
       en: ["Chile's largest national park: 3.5 million hectares", "Established in: 1969", "Home to Pío XI Glacier: Largest in the Southern Hemisphere", "Geography: Includes the Southern Patagonian Ice Field", "Endangered species: South Andean Huemul", "Accessibility: Primarily by boat through the fjords"],
       pt: ["Maior parque nacional do Chile em área (mais de 3,5 milhões de hectares).", "Geograficamente caracterizado por fiordes, glaciares e canais virgens.", "Importante área protegida para cervos huemul e elefantes-marinhos-do-sul.", "De difícil acesso, o que favorece a preservação da natureza intocada."],
       fr: ["Plus grand parc national du Chili (plus de 3,5 millions d'hectares).", "Géographiquement caractérisé par des fjords vierges, des glaciers et des canaux.", "Zone de protection importante pour les huemuls et les éléphants de mer du sud.", "Difficilement accessible, ce qui favorise la préservation de la nature sauvage."],
+      es: ["El parque nacional más grande de Chile (más de 3,5 millones de hectáreas).", "Geográficamente caracterizado por fiordos virgenes, glaciares y canales.", "Importante área protegida para huemules y elefantes marinos del sur.", "Difícil acceso, lo que favorece la preservación de la naturaleza intacta."],
     },
     facts: {
       de: [
@@ -1097,6 +1100,7 @@ export const poiExtraChileLifeV2: POI[] = [
       en: ["Total area: Approximately 100,000 hectares", "Location: Los Ríos Region, Chile", "Key conservation species: South Andean Huemul", "Famous landmark: Montaña Mágica Lodge", "Nearby volcano: Mocho-Choshuenco", "Ecosystem type: Valdivian temperate rain forest"],
       pt: ["Reserva natural privada nas florestas patagónicas.", "Foco principal na preservação de espécies ameaçadas como o cervo huemul.", "Pioneira na combinação de conservação e turismo sustentável (hotéis ecológicos).", "Programas significativos de criação e preservação de fauna endémica ameaçada."],
       fr: ["Réserve naturelle privée située dans les forêts de Patagonie.", "Mise l'accent sur la préservation d'espèces menacées comme le cerf huemul.", "Pionnière dans l'alliance entre conservation et tourisme durable (hôtels écologiques).", "Programmes majeurs d'élevage et de conservation de la faune endémique menacée."],
+      es: ["Reserva natural privada en los bosques patagónicos.", "Enfoque principal en la preservación de especies amenazadas como el huemul.", "Pionera en la combinación de conservación y turismo sostenible (hoteles ecológicos).", "Programas significativos de cría y preservación de fauna endémica en peligro."],
     },
     facts: {
       de: [
@@ -1214,6 +1218,7 @@ export const poiExtraChileLifeV2: POI[] = [
       en: ["Region: Coquimbo, Chile", "Main river: Limarí River", "Famous grape varieties: Chardonnay and Syrah", "Archaeological site: Valle del Encanto (Diaguita heritage)", "Climate phenomenon: Camanchaca coastal fog", "Water management: Recoleta and Cogotí reservoirs"],
       pt: ["Conhecido como o 'Norte Verde' devido à sua fertilidade agrícola.", "Irrigação eficiente através de grandes barragens como a de Recoleta.", "Os solos calcários oferecem excelentes condições para Chardonnay e Pinot Noir.", "Centro de produção de abacates, uvas e papaias."],
       fr: ["Surnommée le 'Nord Vert' en raison de sa fertilité agricole.", "Irrigation efficace grâce à de grands réservoirs comme celui de Recoleta.", "Les sols calcaires offrent d'excellentes conditions pour le Chardonnay et le Pinot Noir.", "Centre de production d'avocats, de raisins et de papayes."],
+      es: ["Conocido como el 'Norte Verde' debido a su fertilidad agrícola.", "Riego eficiente a través de grandes embalses como el Recoleta.", "Los suelos calcáreos ofrecen condiciones excelentes para Chardonnay y Pinot Noir.", "Centro para la producción de aguacates, uvas y papayas."],
     },
     facts: {
       de: [
@@ -1331,6 +1336,7 @@ export const poiExtraChileLifeV2: POI[] = [
       en: ["Region: Valparaíso Region, Chile", "Primary watercourse: Aconcagua River", "Named after: Mount Aconcagua (highest in the Americas)", "Key wine varieties: Cabernet Sauvignon and Syrah", "Agricultural focus: Table grapes and avocados", "Climate: Mediterranean influenced by the Andes"],
       pt: ["Vale ensolarado ao pé dos Andes, regado pelo degelo do Aconcágua.", "Condições de cultivo ideais para excelentes frutas de mesa e vinho de alta qualidade.", "Dinâmica climática marcada por dias quentes e noites frescas."],
       fr: ["Vallée ensoleillée au pied des Andes, irriguée par la fonte des neiges de l'Aconcagua.", "Conditions de culture optimales pour des fruits de table d'excellence et du vin de qualité.", "Dynamique climatique caractérisée par des journées chaudes et des nuits fraîches."],
+      es: ["Valle soleado al pie de los Andes, regado por el deshielo del Aconcagua.", "Condiciones de cultivo óptimas para frutas de mesa excelentes y vino de alta calidad.", "Dinámica climática marcada por días calurosos y noches frescas."],
     },
     facts: {
       de: [
@@ -1380,6 +1386,7 @@ export const poiExtraChileLifeV2: POI[] = [
       en: "The Los Flamencos National Reserve is located in the Antofagasta Region of northern Chile, near the town of San Pedro de Atacama. Established in 1990, the reserve covers approximately 74,000 hectares and is divided into seven distinct sectors, each protecting a unique ecosystem within the Atacama Desert and the Altiplano. Its diverse territory includes iconic landmarks such as the Valle de la Luna (Moon Valley), the Salar de Atacama salt flat, and the high-altitude Miscanti and Miñiques lagoons. As its name suggests, the reserve is a critical sanctuary for three flamingo species: the Andean, Chilean, and James's flamingos. The landscape is a dramatic display of salt crusts, active volcanoes, and wind-sculpted rock formations at elevations reaching over 4,000 meters. Wildlife also includes vicuñas, Darwin's rheas, and Andean foxes. In addition to its ecological value, the reserve preserves archaeological sites of the Atacameño people, reflecting ancient human adaptation to one of Earth's driest environments. It remains one of Chile's most popular protected areas for its otherworldly scenery and specialized biodiversity.",
       pt: "A Reserva Nacional Los Flamencos, no deserto de sal de Atacama, é uma área protegida indispensável para a frágil biodiversidade desta região única. O parque está dividido em sete setores e protege os locais de nidificação de três espécies de flamingos: andino, chileno e de James. Como ecossistema de importância global, demonstra como espécies altamente especializadas podem sobreviver e prosperar em condições extremas.",
       fr: "La Reserva Nacional Los Flamencos, dans le désert de sel d'Atacama, est une zone protégée indispensable à la fragile biodiversité de cette région unique. Le parc est divisé en sept secteurs et protège les lieux de nidification de trois espèces de flamants : l'andin, le chilien et celui de James. En tant qu'écosystème d'importance mondiale, il illustre comment des espèces hautement spécialisées survivent dans des conditions extrêmes.",
+      es: "La Reserva Nacional Los Flamencos, en el desierto de sal de Atacama, es un área protegida indispensable para la frágil biodiversidad de esta región única. El parque se divide en siete sectores y protege los sitios de anidación de tres especies de flamencos: andino, chileno y de James. Como ecosistema de importancia global, muestra cómo especies altamente especializadas pueden sobrevivir y prosperar en condiciones extremas.",
     },
     factsAdvanced: {
       de: ["Gründungsjahr: 1990", "Gesamtfläche: ca. 74.000 Hektar", "Anzahl der Sektoren: 7 getrennte Gebiete", "Vogelarten: 3 verschiedene Flamingoarten", "Bekannteste Lagunen: Miscanti und Miñiques", "Lage: Nahe San Pedro de Atacama"],

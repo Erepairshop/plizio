@@ -288,6 +288,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
       en: ["The temple complex is divided into three main zones: Birojeon, Daeungjeon, and Geuknakjeon.", "The Seokgatap pagoda was found to contain the Pure Light Dharani Sutra, printed before 751 AD.", "The Dabotap pagoda is uniquely shaped and features a stone lion on one of its four sides.", "Bulguksa is considered a masterpiece of the 'Golden Age' of Buddhist art in East Asia.", "The stone bridges are called 'bridges' because they symbolically span the gap between the mundane and the sacred.", "The temple houses several wooden Buddha statues that are designated as National Treasures."],
       pt: ["Construído: 774", "Património Mundial desde: 1995", "Número de tesouros nacionais: 2 (Dabotap, Seokgatap)", "Altura da Seokgatap: 10,4 m", "Superfície: 37.000 m²", "Visitantes anuais: mais de 1 milhão"],
       fr: ["Construit : 774", "Patrimoine mondial depuis : 1995", "Nombre de trésors nationaux : 2 (Dabotap, Seokgatap)", "Hauteur de la Seokgatap : 10,4 m", "Superficie : 37 000 m²", "Visiteurs par an : plus d'un million"],
+      es: ["Construido: 774", "Patrimonio de la Humanidad desde: 1995", "Número de tesoros nacionales: 2 (Dabotap, Seokgatap)", "Altura de la Seokgatap: 10,4 m", "Superficie: 37.000 m²", "Visitantes anuales: más de 1 millón"],
     },
   },
   {

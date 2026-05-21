@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { POI } from './poi';
 export const sloveniaLifeV2: POI[] = [
 

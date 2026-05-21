@@ -17,13 +17,19 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       de: "Ein riesiger Freizeit- und Wildtierpark, in dem Besucher Safaris unternehmen, mit Löwen spazieren gehen und exotische Vögel beobachten können.",
       hu: "Egy hatalmas szabadidő- és vadaspark, ahol a látogatók szafarikon vehetnek részt, oroszlánokkal sétálhatnak és egzotikus madarakat figyelhetnek meg.",
       ro: "Un imens parc de distracții și faună sălbatică, unde vizitatorii pot merge în safari, se pot plimba cu leii și pot observa păsări exotice.",
-      en: "A massive leisure and wildlife park where visitors can go on safaris, walk with lions, and observe exotic birds in a natural setting."
+      en: "A massive leisure and wildlife park where visitors can go on safaris, walk with lions, and observe exotic birds in a natural setting.",
+      es: "Un enorme parque de ocio y vida silvestre donde los visitantes pueden hacer safaris, caminar con leones y observar aves exóticas.",
+      pt: "Um enorme parque de lazer e vida selvagem onde os visitantes podem fazer safaris, caminhar com leões e observar aves exóticas.",
+      fr: "Un immense parc de loisirs et de vie sauvage où les visiteurs peuvent faire des safaris, marcher avec des lions et observer des oiseaux exotiques.",
     },
     facts: {
       de: ["Berühmt für 'Walk with Lions'", "Über 1.500 Vogelarten", "Bietet aufregende Zipline-Touren"],
       hu: ["Híres az oroszlánokkal való sétáról", "Több mint 1500 madárfaj", "Izgalmas drótkötélpályák"],
       ro: ["Faimos pentru 'Plimbarea cu leii'", "Peste 1.500 de specii de păsări", "Oferă trasee de tiroliană"],
-      en: ["Famous for 'Walk with Lions'", "Home to over 1,500 birds", "Offers thrilling zipline tours"]
+      en: ["Famous for 'Walk with Lions'", "Home to over 1,500 birds", "Offers thrilling zipline tours"],
+      es: ["Famoso por 'Walk with Lions'", "Más de 1.500 especies de aves", "Ofrece emocionantes tours de tirolina"],
+      pt: ["Famoso por 'Walk with Lions'", "Mais de 1.500 espécies de aves", "Oferece emocionantes tours de tirolesa"],
+      fr: ["Célèbre pour le 'Walk with Lions'", "Plus de 1 500 espèces d'oiseaux", "Propose des parcours de tyrolienne passionnants"],
     }, image: "/poi-images/casela-nature-parks-life-v2.webp",
     descriptionAdvanced: {
       de: "Casela Nature Parks liegt an der Westküste von Mauritius in der Nähe von Cascavelle und erstreckt sich über eine Fläche von rund 350 Hektar. Eröffnet im Jahr 1979 als Vogelschutzgebiet, hat sich der Park zu einem bedeutenden Zentrum für den Schutz der biologischen Vielfalt entwickelt. Die Anlage beherbergt heute eine Vielzahl von Tierarten, darunter endemische Vögel sowie Großkatzen und afrikanische Huftiere. Geographisch zeichnet sich das Gebiet durch seine trockene Savannenlandschaft und die markanten Berge der Westküste im Hintergrund aus. Casela engagiert sich aktiv in Zuchtprogrammen für gefährdete Arten, um deren Bestand auf der Insel und darüber hinaus zu sichern. Das Management des Parks integriert moderne Erhaltungsmethoden mit Umweltbildung für Besucher und Einheimische. Neben der Tierhaltung bietet das Gelände auch geologische Formationen, die Einblicke in die vulkanische Entstehungsgeschichte von Mauritius geben.",
@@ -36,6 +42,9 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       hu: ["A parkot 1979-ben nyitották meg hivatalosan a nagyközönség előtt.", "A terület körülbelül 350 hektárnyi eredeti és regenerált földet foglal el.", "A Casela több mint 1500 madárnak ad otthont a világ minden tájáról.", "A park tagja a veszélyeztetett fajok védelmét szolgáló nemzetközi hálózatnak.", "Mauritius nyugati partja jóval kevesebb csapadékot kap, mint a keleti oldal.", "Itt védelmezik a veszélyeztetett endemikus fajokat, például a rózsaszín galambot."],
       ro: ["Parcul a fost deschis oficial publicului în anul 1979.", "Teritoriul cuprinde aproximativ 350 de hectare de teren nativ și regenerat.", "Casela găzduiește peste 1.500 de păsări din diverse continente.", "Parcul face parte dintr-o rețea internațională pentru conservarea speciilor.", "Coasta de vest a insulei Mauritius primește mult mai puține precipitații decât estul.", "Aici sunt protejate specii endemice amenințate, precum porumbelul roz."],
       en: ["The park was officially opened to the public in 1979.", "The grounds encompass approximately 350 hectares of native and reclaimed land.", "Casela is home to over 1,500 birds from various continents.", "The park is part of an international network for species conservation.", "The west coast of Mauritius receives significantly less rainfall than the east.", "Threatened endemic species such as the pink pigeon are protected here."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -53,13 +62,19 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       de: "Dieser Park ist bekannt für seine Tausenden von Nilkrokodilen und riesigen Aldabra-Schildkröten, die Besucher füttern können.",
       hu: "Ez a park a több ezer nílusi krokodiljáról és óriási Aldabra-teknőseiről ismert, amelyeket a látogatók meg is etethetnek.",
       ro: "Acest parc este renumit pentru miile sale de crocodili de Nil și țestoasele gigantice Aldabra, pe care vizitatorii le pot hrăni.",
-      en: "This park is famous for its thousands of Nile crocodiles and giant Aldabra tortoises that visitors can interact with and feed."
+      en: "This park is famous for its thousands of Nile crocodiles and giant Aldabra tortoises that visitors can interact with and feed.",
+      es: "Este parque es conocido por sus miles de cocodrilos del Nilo y tortugas gigantes de Aldabra, que los visitantes pueden alimentar.",
+      pt: "Este parque é conhecido pelos seus milhares de crocodilos do Nilo e tartarugas gigantes de Aldabra, que os visitantes podem alimentar.",
+      fr: "Ce parc est connu pour ses milliers de crocodiles du Nil et ses tortues géantes d'Aldabra, que les visiteurs peuvent nourrir.",
     },
     facts: {
       de: ["Größte Schildkrötenzucht der Welt", "Besitzt ein Insektarium", "Ehemals als Krokodilpark bekannt"],
       hu: ["A világ legnagyobb teknőstenyészete", "Rovarházzal is rendelkezik", "Korábban krokodilparkként volt ismert"],
       ro: ["Cea mai mare crescătorie de țestoase", "Deține un insectar vast", "Cunoscut anterior ca parcul crocodililor"],
-      en: ["World's largest tortoise colony", "Features an extensive insectarium", "Formerly known as the Crocodile Park"]
+      en: ["World's largest tortoise colony", "Features an extensive insectarium", "Formerly known as the Crocodile Park"],
+      es: ["Mayor cría de tortugas del mundo", "Posee un insectario", "Anteriormente conocido como parque de cocodrilos"],
+      pt: ["Maior criação de tartarugas do mundo", "Possui um insectário", "Anteriormente conhecido como parque de crocodilos"],
+      fr: ["Plus grand élevage de tortues au monde", "Possède un insectarium", "Anciennement connu sous le nom de parc aux crocodiles"],
     },
     descriptionAdvanced: {
       de: "Der La Vanille Nature Park liegt im Süden von Mauritius im Tal des Rivière des Anguilles und wurde 1985 gegründet. Ursprünglich als Krokodilfarm konzipiert, hat sich die Anlage zu einem bedeutenden Naturpark entwickelt, der den Fokus auf die Erhaltung der mauritischen Flora und Fauna legt. Besonders bekannt ist der Park für seine Zuchtstation von Aldabra-Riesenschildkröten, die hier in einer natürlichen Umgebung leben. Die dichte, dschungelartige Vegetation des Tals bietet einen Lebensraum für zahlreiche Reptilien, Insekten und Säugetiere. Ein wissenschaftlicher Höhepunkt des Parks ist das Insektarium, das eine der weltweit größten privaten Sammlungen beherbergt und von Jacques de Spéville über 30 Jahre lang aufgebaut wurde. Der Park spielt eine wichtige Rolle in der Umwelterziehung und sensibilisiert Besucher für die ökologischen Herausforderungen der Insel. Geologisch ist der Standort durch tiefe Schluchten und üppige Flusstäler geprägt, die typisch für die südliche Küstenregion sind.",
@@ -72,6 +87,9 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       hu: ["A parkot 1985-ben alapították a Savanne kerületben.", "Itt található a világ egyik legnagyobb Aldabra-óriásteknős kolóniája.", "Az inszektárium több mint 23 000 lepke- és bogárfajt mutat be.", "A nílusi krokodilokat eredetileg Madagaszkárról hozták ide.", "A terület egy buja völgyben fekszik, saját mikroklímával rendelkezik.", "A tudományos programok támogatják a helyi denevérfajok védelmét."],
       ro: ["Parcul a fost înființat în 1985 în districtul Savanne.", "Găzduiește una dintre cele mai mari colonii de țestoase gigant de Aldabra din lume.", "Insectarul cuprinde peste 23.000 de specii de fluturi și gândaci.", "Crocodilii de Nil au fost aduși inițial din Madagascar pentru cercetare.", "Situl este amplasat într-o vale luxuriantă cu un microclimat propriu.", "Programele științifice susțin conservarea speciilor locale de lilieci."],
       en: ["The park was founded in 1985 in the Savanne district.", "It hosts one of the largest colonies of Aldabra giant tortoises in the world.", "The insectarium contains over 23,000 species of butterflies and beetles.", "Nile crocodiles were originally imported from Madagascar for the facility.", "The site is located in a lush valley with its own microclimate.", "Scientific programs at the park support the conservation of local bat species."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -89,13 +107,19 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       de: "In einem kleinen Dorf im Norden gelegen, beherbergt dieses Aquarium Hunderte von Meeresbewohnern der lokalen Korallenriffe.",
       hu: "A sziget északi részén található akvárium több száz helyi korallzátonyokon élő tengeri élőlénynek ad otthont.",
       ro: "Situat într-un sat din nord, acest acvariu găzduiește sute de creaturi marine din recifele de corali locale.",
-      en: "Located in a northern village, this aquarium houses hundreds of marine species found in the local coral reefs."
+      en: "Located in a northern village, this aquarium houses hundreds of marine species found in the local coral reefs.",
+      es: "Situado en un pequeño pueblo del norte, este acuario alberga cientos de habitantes marinos de los arrecifes de coral locales.",
+      pt: "Situado numa pequena aldeia no norte, este aquário alberga centenas de habitantes marinhos dos recifes de coral locais.",
+      fr: "Situé dans un petit village du nord, cet aquarium abrite des centaines d'habitants marins des récifs coralliens locaux.",
     },
     facts: {
       de: ["Über 200 Fischarten", "Besitzt ein Haifischbecken", "Interaktives Berührungsbecken"],
       hu: ["Több mint 200 halfaj", "Cápamedencével rendelkezik", "Interaktív simogatómedence"],
       ro: ["Peste 200 de specii de pești", "Deține un bazin cu rechini", "Bazin interactiv cu animale marine"],
-      en: ["Over 200 species of fish", "Features a shark tank", "Interactive touch pool for kids"]
+      en: ["Over 200 species of fish", "Features a shark tank", "Interactive touch pool for kids"],
+      es: ["Más de 200 especies de peces", "Cuenta con un tanque de tiburones", "Tanque de contacto interactivo"],
+      pt: ["Mais de 200 espécies de peixes", "Possui um tanque de tubarões", "Tanque de toque interativo"],
+      fr: ["Plus de 200 espèces de poissons", "Possède un bassin aux requins", "Bassin tactile interactif"],
     },
     descriptionAdvanced: {
       de: "Das Mauritius Aquarium befindet sich im Dorf Pointe aux Piments an der Nordwestküste der Insel. Es bietet eine umfassende Darstellung der marinen Biodiversität des Indischen Ozeans in einer kontrollierten Umgebung. Die Anlage verfügt über mehrere Becken, die verschiedene Ökosysteme simulieren, von flachen Korallenriffen bis hin zu den tieferen Gewässern der Lagunen. Besucher können eine Vielzahl lokaler Arten beobachten, darunter Muränen, Steinfische, Haie und Meeresschildkröten. Ein besonderer Schwerpunkt liegt auf der Bedeutung des Korallenschutzes, da diese Riffe den natürlichen Schutzwall der Insel bilden. Das Aquarium dient als Bildungszentrum, das über die Gefährdung der Meeresumwelt durch den Klimawandel und Verschmutzung aufklärt. Durch die Nähe zum Meer wird ein kontinuierlicher Austausch von frischem Meerwasser gewährleistet, was die Gesundheit der Meeresbewohner unterstützt. Die Architektur der Anlage ist funktional gestaltet, um eine störungsfreie Beobachtung der Tiere zu ermöglichen.",
@@ -108,6 +132,9 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       hu: ["Az akvárium több mint 200 tengeri fajnak ad otthont.", "A Pamplemousses kerületben, az északnyugati parton található.", "A tartályok összesen több ezer liter keringetett tengervizet tartalmaznak.", "A kőhalak a térség legmérgezőbb tengeri élőlényei közé tartoznak.", "A központ speciális etetési bemutatókat tart oktatási célból.", "Mauritiust szinte teljesen körbeveszi egy korallzátony-rendszer."],
       ro: ["Acvariul găzduiește peste 200 de specii de creaturi marine.", "Este situat în districtul Pamplemousses, pe coasta de nord-vest.", "Bazinele conțin în total mii de litri de apă de mare recirculată.", "Peștii-piatră sunt printre cele mai veninoase creaturi din aceste ape.", "Centrul oferă demonstrații de hrănire în scopuri educaționale.", "Mauritius este înconjurat de un recif de corali aproape continuu."],
       en: ["The aquarium is home to over 200 species of marine animals.", "It is located in the Pamplemousses district on the northwest coast.", "The tanks hold a total of thousands of liters of circulating seawater.", "Stonefish are among the most venomous marine creatures in these waters.", "The center provides special feeding demonstrations for educational purposes.", "Mauritius is encircled by an almost continuous coral reef system."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -125,13 +152,19 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       de: "Das größte Ozeanarium im Indischen Ozean bietet einen faszinierenden Einblick in die Meeresökosysteme rund um Mauritius.",
       hu: "Az Indiai-óceán legnagyobb óceanáriuma lenyűgöző betekintést nyújt a Mauritius körüli tengeri ökoszisztémákba.",
       ro: "Cel mai mare oceanariu din Oceanul Indian oferă o perspectivă fascinantă asupra ecosistemelor marine din jurul Mauritiusului.",
-      en: "The largest oceanarium in the Indian Ocean provides a fascinating look into the marine ecosystems surrounding Mauritius."
+      en: "The largest oceanarium in the Indian Ocean provides a fascinating look into the marine ecosystems surrounding Mauritius.",
+      es: "El mayor oceanario del Océano Índico ofrece una visión fascinante de los ecosistemas marinos de Mauricio.",
+      pt: "O maior oceanário do Oceano Índico oferece uma visão fascinante dos ecossistemas marinhos das Maurícias.",
+      fr: "Le plus grand océanarium de l'océan Indien offre un aperçu fascinant des écosystèmes marins autour de l'île Maurice.",
     },
     facts: {
       de: ["45 verschiedene Becken", "Fokus auf Meeresschutz", "Gelegen im Hafen von Port Louis"],
       hu: ["45 különböző medence", "Fókuszban a tengerbiológia", "Port Louis kikötőjében található"],
       ro: ["45 de bazine diferite", "Focus pe conservarea marină", "Situat în portul din Port Louis"],
-      en: ["45 different display tanks", "Focus on marine conservation", "Located in Port Louis harbor area"]
+      en: ["45 different display tanks", "Focus on marine conservation", "Located in Port Louis harbor area"],
+      es: ["45 tanques diferentes", "Enfoque en la conservación marina", "Ubicado en el puerto de Port Louis"],
+      pt: ["45 tanques diferentes", "Foco na conservação marinha", "Localizado no porto de Port Louis"],
+      fr: ["45 bassins différents", "Accent sur la conservation marine", "Situé dans le port de Port Louis"],
     }, image: "/poi-images/odysseo-oceanarium-life-v2.webp",
     descriptionAdvanced: {
       de: "Das Odysseo Oceanarium in Port Louis ist das größte seiner Art in den Maskarenen und wurde im September 2021 eröffnet. Die Anlage erstreckt sich über 5.500 Quadratmeter und beherbergt etwa 3.500 Exemplare aus 200 verschiedenen Arten. Das Ziel von Odysseo ist es, die Besucher für den Schutz der Ozeane zu sensibilisieren und gleichzeitig wissenschaftliche Forschung zu betreiben. Geographisch liegt es strategisch günstig am Hafen der Hauptstadt und verbindet moderne Architektur mit ökologischen Bildungskonzepten. Die Ausstellungen sind thematisch gegliedert und führen von den Küstengebieten bis in die Tiefsee des Indischen Ozeans. Ein Highlight ist der begehbare Tunnel durch das Großbecken, in dem Haie und Rochen beobachtet werden können. Odysseo engagiert sich zudem in Naturschutzprojekten, wie der Wiederansiedlung von bedrohten Meeresarten und der Reinigung von Küstenabschnitten. Die technische Ausstattung umfasst modernste Filtersysteme, um optimale Bedingungen für die empfindlichen Ökosysteme zu schaffen.",
@@ -144,6 +177,9 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       hu: ["Az Odysseo-t hivatalosan 2021 szeptemberében nyitották meg.", "Körülbelül 3500 tengeri élőlényt mutat be 45 különböző medencében.", "A teljes létesítmény területe mintegy 5500 négyzetméter.", "Ez a délnyugat-indiai-óceáni térség legnagyobb óceánáriuma.", "A főmedence több mint 2 millió liter tengervizet tartalmaz.", "Az Odysseo saját tengerbiológiai akadémiát is működtet."],
       ro: ["Odysseo a fost deschis oficial în septembrie 2021.", "Găzduiește aproximativ 3.500 de creaturi marine în 45 de bazine.", "Întreaga facilitate acoperă o suprafață de circa 5.500 de metri pătrați.", "Este cel mai mare oceanariu din sud-vestul Oceanului Indian.", "Bazinul principal conține peste 2 milioane de litri de apă de mare.", "Odysseo operează propria academie pentru științe marine."],
       en: ["Odysseo was officially opened in September 2021.", "It houses around 3,500 marine animals in 45 different tanks.", "The entire facility covers an area of approximately 5,500 square meters.", "It is the largest oceanarium in the South-West Indian Ocean.", "The main tank contains over 2 million liters of seawater.", "Odysseo operates its own academy for marine sciences."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -161,13 +197,19 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       de: "Ein Haus voller optischer Täuschungen und interaktiver Rätsel, das Besucher jeden Alters zum Staunen bringt.",
       hu: "Optikai csalódásokkal és interaktív rejtvényekkel teli ház, amely minden korosztályt lenyűgöz.",
       ro: "O casă plină de iluzii optice și puzzle-uri interactive care uimește vizitatorii de toate vârstele.",
-      en: "A house full of optical illusions and interactive puzzles designed to amaze and confuse visitors of all ages."
+      en: "A house full of optical illusions and interactive puzzles designed to amaze and confuse visitors of all ages.",
+      es: "Una casa llena de ilusiones ópticas y acertijos interactivos que asombra a visitantes de todas las edades.",
+      pt: "Uma casa cheia de ilusões óticas e enigmas interativos que surpreende visitantes de todas as idades.",
+      fr: "Une maison pleine d'illusions d'optique et d'énigmes interactives qui émerveille les visiteurs de tous âges.",
     },
     facts: {
       de: ["Interaktive Exponate", "Spiegel-Labyrinth", "Haus steht teilweise Kopf"],
       hu: ["Interaktív kiállítások", "Tükörlabirintus", "Fejjel lefelé épült szobák"],
       ro: ["Expoziții interactive", "Labirint de oglinzi", "Camere construite cu susul în jos"],
-      en: ["Interactive exhibits", "Features a mirror maze", "Rooms where gravity feels wrong"]
+      en: ["Interactive exhibits", "Features a mirror maze", "Rooms where gravity feels wrong"],
+      es: ["Exposiciones interactivas", "Laberinto de espejos", "La casa está parcialmente al revés"],
+      pt: ["Exposições interativas", "Labirinto de espelhos", "A casa está parcialmente de pernas para o ar"],
+      fr: ["Expositions interactives", "Labyrinthe de miroirs", "La maison est partiellement à l'envers"],
     }, image: "/poi-images/curious-corner-life-v2.webp",
     descriptionAdvanced: {
       de: "Curious Corner of Chamarel liegt im Südwesten von Mauritius, direkt gegenüber der berühmten Siebenfarbigen Erde. Es handelt sich um eine spezialisierte Anlage für optische Täuschungen und interaktive physikalische Phänomene, die wissenschaftliche Prinzipien auf spielerische Weise vermittelt. Das Gebäude beherbergt über 40 verschiedene Exponate, die Wahrnehmung, Perspektive und Gravitation in Frage stellen. Geographisch profitiert der Standort von der touristischen Bedeutung der Chamarel-Region, die für ihre geologischen Besonderheiten bekannt ist. Zu den bekanntesten Räumen gehören der Spiegellabyrinth und das 'Ames-Zimmer', welches die Größenvorstellung der Betrachter manipuliert. Die Gestaltung der Exponate nutzt mathematische Präzision, um visuelle Effekte zu erzielen, die das menschliche Gehirn herausfordern. Curious Corner dient als Ergänzung zum Naturtourismus der Region und bietet Einblicke in die Psychologie der visuellen Wahrnehmung. Die Architektur ist modern und darauf ausgelegt, Besucherströme effizient durch die verschiedenen Themenwelten zu leiten.",
@@ -180,6 +222,9 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       hu: ["A létesítmény több mint 40 interaktív optikai csalódást mutat be.", "A délnyugati Rivière Noire kerületben található.", "A tükörlabirintus tükröződő felületek komplex elrendezéséből áll.", "A 'fordított szoba' a gravitáció felcserélését szimulálja.", "Minden vizuális kiállítási tárgy mögött matematikai számítások állnak.", "Chamarel híres geológiai sokszínűségéről és mikroklímájáról."],
       ro: ["Facilitatea găzduiește peste 40 de iluzii optice interactive.", "Este situată în districtul Rivière Noire, în sud-vest.", "Labirintul de oglinzi constă dintr-un aranjament complex de suprafețe reflectorizante.", "Camera 'Upside Down' simulează o inversare a gravitației.", "Calcule matematice riguroase stau la baza tuturor exponatelor vizuale.", "Chamarel este renumit pentru diversitatea sa geologică și microclimat."],
       en: ["The facility houses over 40 interactive optical illusions.", "It is located in the Rivière Noire district in the southwest.", "The mirror maze consists of a complex arrangement of reflective surfaces.", "The 'Upside Down Room' simulates a reversal of gravity.", "Mathematical calculations underpin all the visual exhibits.", "Chamarel is famous for its geological diversity and microclimate."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -197,13 +242,19 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       de: "Ein weitläufiger Park, der Landwirtschaft mit Freizeitaktivitäten wie Bootfahren, Quadfahren und einem Streichelzoo verbindet.",
       hu: "Hatalmas park, amely a mezőgazdaságot ötvözi szabadidős tevékenységekkel, mint a csónakázás, quadozás és egy állatsimogató.",
       ro: "Un parc vast care combină agricultura cu activități de agrement, cum ar fi plimbări cu barca, quad și o grădină zoologică.",
-      en: "A sprawling park combining agriculture with leisure activities like boating, quad biking, and a petting farm for children."
+      en: "A sprawling park combining agriculture with leisure activities like boating, quad biking, and a petting farm for children.",
+      es: "Un extenso parque que combina la agricultura con actividades de ocio como paseos en bote, quad y un zoológico interactivo.",
+      pt: "Um parque amplo que combina agricultura com atividades de lazer, como passeios de barco, moto-quatro e um jardim zoológico.",
+      fr: "Un vaste parc qui allie l'agriculture à des activités de loisirs telles que le bateau, le quad et une ferme pédagogique.",
     },
     facts: {
       de: ["Großer Streichelzoo", "Eigene Baumschule", "Abenteuerspielplatz für Kinder"],
       hu: ["Nagy állatsimogató", "Saját faiskola", "Kalandjátszótér gyerekeknek"],
       ro: ["Grădină zoologică cu mângâiere", "Pepiniară proprie", "Teren de joacă pentru copii"],
-      en: ["Large petting farm", "On-site plant nursery", "Adventure playground for kids"]
+      en: ["Large petting farm", "On-site plant nursery", "Adventure playground for kids"],
+      es: ["Gran zoológico interactivo", "Vivero propio", "Parque de aventuras para niños"],
+      pt: ["Grande jardim zoológico", "Viveiro próprio", "Parque de aventuras para crianças"],
+      fr: ["Grande ferme pédagogique", "Propre pépinière", "Aire de jeux d'aventure pour enfants"],
     },
     descriptionAdvanced: {
       de: "Der Gros Cailloux Leisure Park liegt im Westen von Mauritius, in der Nähe von Petite Rivière, und ist auf einem historischen landwirtschaftlichen Anwesen errichtet worden. Das Gebiet erstreckt sich über weite Flächen, die früher intensiv für den Anbau von Zuckerrohr und Gemüse genutzt wurden. Heute verbindet der Park landwirtschaftliche Traditionen mit modernen Freizeitaktivitäten und dem Naturschutz. Geographisch zeichnet sich die Region durch ihr trockenes Klima und die Nähe zur Küste aus, was die Flora und Fauna maßgeblich beeinflusst. Die Anlage verfügt über einen Streichelzoo, Naturpfade und Wasserflächen, die die lokale Biodiversität fördern. Gros Cailloux spielt eine wichtige Rolle in der lokalen Gemeinschaft, indem es Arbeitsplätze schafft und die Geschichte der mauritischen Landwirtschaft bewahrt. Die Transformation des Geländes zeigt den Übergang von einer rein produktionstechnischen Nutzung hin zu einem multifunktionalen Raum für Umweltbildung. Besucher können hier die traditionelle Lebensweise der Region in Verbindung mit ökologischen Projekten erleben.",
@@ -216,6 +267,9 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       hu: ["A birtok hosszú múltra tekint vissza mezőgazdasági üzemként.", "A nyugati parton, a Rivière Noire kerületben található.", "Ez a régió Mauritius egyik legszárazabb területe.", "A park különböző mezőgazdasági és rekreációs zónákra oszlik.", "A helyi növényfajokat célzottan használják a park fásítására.", "A létesítmény példaként szolgál a régi cukorültetvények diverzifikálására."],
       ro: ["Domeniul are o istorie îndelungată ca exploatație agricolă.", "Este situat în districtul Rivière Noire, pe coasta de vest.", "Regiunea este una dintre cele mai aride zone din Mauritius.", "Parcul cuprinde diverse zone dedicate agriculturii și recreerii.", "Specii de plante locale sunt utilizate specific pentru reîmpădurire.", "Facilitatea servește ca exemplu de diversificare a vechilor plantații de zahăr."],
       en: ["The estate has a long history as a functioning agricultural operation.", "It is located in the Rivière Noire district on the west coast.", "The region is one of the driest areas in Mauritius.", "The park encompasses various zones for agriculture and recreation.", "Local plant species are specifically used for landscaping the area.", "The facility serves as an example of the diversification of old sugar estates."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -233,13 +287,19 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       de: "Ein privates Naturreservat, das für seine reiche Flora und Fauna bekannt ist und zahlreiche Outdoor-Aktivitäten anbietet.",
       hu: "Magán természetvédelmi terület, amely gazdag flórájáról és faunájáról ismert, és számos szabadtéri tevékenységet kínál.",
       ro: "O rezervație naturală privată, cunoscută pentru flora și fauna sa bogată, oferind numeroase activități în aer liber.",
-      en: "A private nature reserve known for its rich flora and fauna, offering numerous outdoor activities and wildlife viewing."
+      en: "A private nature reserve known for its rich flora and fauna, offering numerous outdoor activities and wildlife viewing.",
+      es: "Una reserva natural privada conocida por su rica flora y fauna que ofrece numerosas actividades al aire libre.",
+      pt: "Uma reserva natural privada conhecida pela sua rica flora e fauna que oferece inúmeras atividades ao ar livre.",
+      fr: "Une réserve naturelle privée réputée pour sa flore et sa faune abondantes, proposant de nombreuses activités de plein air.",
     },
     facts: {
       de: ["Reich an Java-Hirschen", "Längste Zipline der Insel", "Über 1.200 Hektar groß"],
       hu: ["Számos jávai szarvas él itt", "A sziget leghosszabb drótkötélpályája", "Több mint 1200 hektár"],
       ro: ["Bogat în căprioare Java", "Cea mai lungă tiroliană", "Suprafață de peste 1.200 hectare"],
-      en: ["Home to many Java deer", "Longest zipline on the island", "Covers over 1,200 hectares"]
+      en: ["Home to many Java deer", "Longest zipline on the island", "Covers over 1,200 hectares"],
+      es: ["Rica en ciervos de Java", "La tirolina más larga de la isla", "Más de 1.200 hectáreas"],
+      pt: ["Rica em cervos de Java", "A tirolesa mais longa da ilha", "Mais de 1.200 hectares"],
+      fr: ["Riche en cerfs de Java", "Plus longue tyrolienne de l'île", "Plus de 1 200 hectares"],
     }, image: "/poi-images/domaine-de-letoile-life-v2.webp",
     descriptionAdvanced: {
       de: "Das Domaine de l'Etoile ist das größte private Naturschutzgebiet auf Mauritius und erstreckt sich über 1.200 Hektar im Osten der Insel. Das Gelände, das früher eine Zuckerplantage war, zeichnet sich durch seine bergige Topographie, dichte Wälder und fließende Wasserläufe aus. Es beheimatet eine reiche Vielfalt an endemischer Flora und Fauna, darunter den mauritischen Turmfalken und seltene Hirscharten wie den Java-Mähnendank. Geographisch liegt das Reservat zwischen den Bergen von Bambous und der Küstenebene, was spektakuläre Panoramablicke bietet. Das Management des Gebiets konzentriert sich auf Ökotourismus und die Wiederaufforstung einheimischer Baumarten. Die Erhaltung der natürlichen Wasserquellen im Reservat ist entscheidend für das regionale Ökosystem. Domaine de l'Etoile bietet Einblicke in die ursprüngliche Wildnis der Insel, die vor der großflächigen landwirtschaftlichen Nutzung existierte. Wissenschaftliche Studien im Gebiet tragen zum Verständnis der Interaktionen zwischen eingeführten und endemischen Arten bei.",
@@ -252,6 +312,9 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       hu: ["A rezervátum teljes területe 1200 hektár.", "Mauritius keleti részén, a Flacq kerületben található.", "A jávai szarvasokat a hollandok telepítették be a 17. században.", "A terület része a mauritusi vércse visszatelepítési programjának.", "Számos folyó ered az uradalom erdős dombjai között.", "A domborzat 100 és 600 méter közötti tengerszint feletti magasságban mozog."],
       ro: ["Rezervația cuprinde o suprafață totală de 1.200 de hectare.", "Este situată în estul insulei Mauritius, în districtul Flacq.", "Cerbii de Java au fost introduși de olandezi în secolul al XVII-lea.", "Zona face parte dintr-un program de reintroducere a vânturelului de Mauritius.", "Mai multe râuri își au izvoarele în dealurile împădurite ale domeniului.", "Topografia variază de la 100 la peste 600 de metri deasupra nivelului mării."],
       en: ["The reserve covers a total area of 1,200 hectares.", "It is located in eastern Mauritius in the Flacq district.", "Java deer were introduced by the Dutch in the 17th century.", "The area is part of a program for the reintroduction of the Mauritius kestrel.", "Several rivers originate in the forested hills of the estate.", "The topography ranges from 100 to over 600 meters above sea level."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -269,13 +332,19 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       de: "Eine kleine Koralleninsel, die als Naturschutzgebiet dient und Heimat für seltene Vögel und Riesenschildkröten ist.",
       hu: "Egy kis korallsziget, amely természetvédelmi területként szolgál, és ritka madaraknak és óriásteknősöknek ad otthont.",
       ro: "O mică insulă de corali care servește drept rezervație naturală, adăpostind păsări rare și țestoase gigantice.",
-      en: "A small coral island serving as a nature reserve, home to rare birds and giant tortoises in a restored habitat."
+      en: "A small coral island serving as a nature reserve, home to rare birds and giant tortoises in a restored habitat.",
+      es: "Una pequeña isla de coral que sirve como reserva natural y es el hogar de aves raras y tortugas gigantes.",
+      pt: "Uma pequena ilha de coral que serve como reserva natural e é o lar de aves raras e tartarugas gigantes.",
+      fr: "Une petite île corallienne qui sert de réserve naturelle et abrite des oiseaux rares et des tortues géantes.",
     },
     facts: {
       de: ["Lebensraum der Rosentaube", "Fokus auf endemische Arten", "Einstige Militärbasis"],
       hu: ["A rózsaszín galamb élőhelye", "Endemikus fajokra fókuszál", "Egykori katonai bázis"],
       ro: ["Habitatul porumbelului roz", "Focus pe specii endemice", "Fostă bază militară"],
-      en: ["Habitat of the Pink Pigeon", "Focus on endemic species", "Former military outpost"]
+      en: ["Habitat of the Pink Pigeon", "Focus on endemic species", "Former military outpost"],
+      es: ["Hábitat de la paloma rosada", "Enfoque en especies endémicas", "Antigua base militar"],
+      pt: ["Habitat do pombo-rosado", "Foco em espécies endémicas", "Antiga base militar"],
+      fr: ["Habitat du pigeon rose", "Accent sur les espèces endémiques", "Ancienne base militaire"],
     }, image: "/poi-images/ile-aux-aigrettes-life-v2.webp",
     descriptionAdvanced: {
       de: "Die Île aux Aigrettes ist eine 26 Hektar große Kalksteininsel in der Bucht von Mahebourg, vor der Südostküste von Mauritius. Sie wird von der Mauritian Wildlife Foundation verwaltet und dient als Zufluchtsort für die letzten Reste des trockenen Küstenwaldes der Insel. Seit den 1980er Jahren wurden massive Anstrengungen unternommen, um invasive Arten zu entfernen und das ursprüngliche Ökosystem wiederherzustellen. Die Insel ist heute die Heimat für seltene endemische Arten wie die Rosentaube, den Mauritius-Webervogel und Aldabra-Riesenschildkröten. Geographisch unterscheidet sich die Korallenkalk-Struktur der Insel deutlich vom vulkanischen Festland. Das Reservat fungiert als Freilichtmuseum für die Biodiversität und bietet wichtige Daten für die Erhaltungsbiologie im Indischen Ozean. Wissenschaftler nutzen die isolierte Lage der Insel, um das Überleben gefährdeter Populationen in einem geschützten Umfeld zu untersuchen. Der Schutz dieses fragilen Ökosystems ist für die Erhaltung des natürlichen Erbes von Mauritius von zentraler Bedeutung.",
@@ -288,6 +357,9 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       hu: ["A sziget teljes egészében korallmészkőből épül fel.", "A terület pontosan 26 hektárt tesz ki.", "A Mauritian Wildlife Foundation 1984-ben vette át a kezelését.", "Itt él a Telfair-szkink egyetlen vadon élő populációja.", "Több mint 20 endemikus növényfajt telepítettek vissza sikeresen.", "A sziget mindössze 800 méterre fekszik Mahebourg partjaitól."],
       ro: ["Insula este formată în întregime din calcar coraligen.", "Aceasta acoperă o suprafață exactă de 26 de hectare.", "Mauritian Wildlife Foundation a preluat administrarea în 1984.", "Găzduiește singura populație sălbatică de skink al lui Telfair.", "Peste 20 de specii de plante endemice au fost reintroduse cu succes.", "Insula este situată la doar 800 de metri de coasta Mahebourg."],
       en: ["The island is composed entirely of coral limestone.", "It covers an area of exactly 26 hectares.", "The Mauritian Wildlife Foundation took over management in 1984.", "It hosts the only wild population of Telfair's skinks.", "Over 20 endemic plant species have been successfully reintroduced.", "The island is situated only 800 meters off the coast of Mahebourg."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -305,13 +377,19 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       de: "Ein Naturschutzprojekt zur Wiederherstellung der ursprünglichen Ebenholzwälder von Mauritius, das seltene Tierarten beherbergt.",
       hu: "Természetvédelmi projekt Mauritius eredeti ébenfaerdőinek helyreállítására, amely ritka állatfajoknak ad otthont.",
       ro: "Un proiect de conservare pentru restaurarea pădurilor de abanos originale din Mauritius, adăpostind specii rare.",
-      en: "A conservation project restoring the original ebony forests of Mauritius, providing a refuge for rare native wildlife."
+      en: "A conservation project restoring the original ebony forests of Mauritius, providing a refuge for rare native wildlife.",
+      es: "Un proyecto de conservación para restaurar los bosques de ébano originales de Mauricio que alberga especies animales raras.",
+      pt: "Um projeto de conservação para restaurar as florestas de ébano originais das Maurícias que abriga espécies animais raras.",
+      fr: "Un projet de conservation visant à restaurer les forêts d'ébène originelles de Maurice, abritant des espèces animales rares.",
     },
     facts: {
       de: ["Aussichtspunkt 'Sublime Point'", "Über 140.000 gepflanzte Bäume", "Heimat des Mauritius-Falken"],
       hu: ["'Sublime Point' kilátó", "Több mint 140 000 elültetett fa", "A mauritiusi vércse otthona"],
       ro: ["Punct de belvedere 'Sublime Point'", "Peste 140.000 de arbori plantați", "Adăpost pentru șoimul de Mauritius"],
-      en: ["'Sublime Point' viewpoint", "Over 140,000 trees planted", "Home to the Mauritius Kestrel"]
+      en: ["'Sublime Point' viewpoint", "Over 140,000 trees planted", "Home to the Mauritius Kestrel"],
+      es: ["Mirador 'Sublime Point'", "Más de 140.000 árboles plantados", "Hogar del cernícalo de Mauricio"],
+      pt: ["Miradouro 'Sublime Point'", "Mais de 140.000 árvores plantadas", "Lar do peneireiro das Maurícias"],
+      fr: ["Point de vue 'Sublime Point'", "Plus de 140 000 arbres plantés", "Refuge de la crécerelle de Maurice"],
     }, image: "/poi-images/ebony-forest-life-v2.webp",
     descriptionAdvanced: {
       de: "Das Ebony Forest Reserve in Chamarel ist ein ambitioniertes ökologisches Restaurierungsprojekt im Südwesten von Mauritius. Seit 2006 werden auf dem Gelände invasive Pflanzen entfernt, um Platz für die Wiederansiedlung des seltenen mauritischen Ebenholzes (Diospyros tessellaria) zu schaffen. Das Reservat umfasst etwa 50 Hektar und dient als wichtiger Korridor für endemische Vögel wie den Mauritius-Brillenvogel und den Mauritius-Fliegenschnäpper. Geographisch bietet der Standort durch den 'Sublime Point' einen der besten Ausblicke über die Südwestküste und den Berg Le Morne Brabant. Neben der botanischen Arbeit betreibt Ebony Forest ein Informationszentrum, das die Geschichte der Entwaldung auf der Insel dokumentiert. Das Projekt finanziert sich teilweise durch Ökotourismus, wobei die Einnahmen direkt in die weitere Pflanzung von einheimischen Bäumen fließen. Die Wiederherstellung dieses Waldtyps ist essenziell für den Erhalt der genetischen Vielfalt der mauritischen Flora. Es ist ein Beispiel für erfolgreiches privates Engagement im Naturschutz.",
@@ -324,6 +402,9 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       hu: ["Az erdőhelyreállítási projekt 2006-ban vette kezdetét.", "A rezervátum területe körülbelül 50 hektárt tesz ki.", "Eddig több mint 140 000 őshonos növényt ültettek el.", "A Diospyros tessellaria a sziget tizenegy ébenfafajtája közül a legismertebb.", "A Sublime Point körülbelül 400 méteres magasságban található.", "Az információs központ részletes betekintést nyújt a sziget ökológiájába."],
       ro: ["Proiectul de restaurare a pădurii a început în anul 2006.", "Rezervația acoperă o suprafață de aproximativ 50 de hectare.", "Peste 140.000 de plante native au fost plantate până în prezent.", "Diospyros tessellaria este cea mai cunoscută dintre cele 11 specii de abanos locale.", "Sublime Point este situat la o altitudine de circa 400 de metri.", "Centrul de informare oferă detalii riguroase despre ecologia insulei."],
       en: ["The forest restoration project commenced in 2006.", "The reserve encompasses an area of approximately 50 hectares.", "Over 140,000 native plants have been planted to date.", "Diospyros tessellaria is the most famous of the island's eleven ebony species.", "Sublime Point is located at an altitude of around 400 meters.", "The information center provides detailed insights into island ecology."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -341,13 +422,19 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       de: "Das einzige Weingut der Welt, das Wein ausschließlich aus Litschis herstellt und Einblicke in diesen speziellen Prozess bietet.",
       hu: "A világ egyetlen borászata, amely kizárólag licsiből készít bort, és betekintést nyújt ebbe a különleges folyamatba.",
       ro: "Singura vinărie din lume care produce vin exclusiv din litchi, oferind perspective asupra acestui proces special.",
-      en: "The only winery in the world producing wine exclusively from lychees, offering tours of its unique production process."
+      en: "The only winery in the world producing wine exclusively from lychees, offering tours of its unique production process.",
+      es: "La única bodega del mundo que elabora vino exclusivamente a partir de lichis, ofreciendo una visión de este proceso especial.",
+      pt: "A única adega do mundo que produz vinho exclusivamente a partir de litchis, oferecendo uma visão deste processo especial.",
+      fr: "Le seul vignoble au monde à produire du vin exclusivement à partir de litchis, offrant un aperçu de ce processus spécial.",
     },
     facts: {
       de: ["Herstellung aus Litschis", "Verkostung lokaler Weine", "Handwerkliche Produktion"],
       hu: ["Licsiből készül a bor", "Helyi borkóstolás", "Kézműves termelés"],
       ro: ["Produs din litchi", "Degustare de vinuri locale", "Producție artizanală"],
-      en: ["Wine made from lychees", "Local wine tastings", "Artisanal production method"]
+      en: ["Wine made from lychees", "Local wine tastings", "Artisanal production method"],
+      es: ["Producción a partir de lichis", "Degustación de vinos locales", "Producción artesanal"],
+      pt: ["Produção a partir de litchis", "Degustação de vinhos locais", "Produção artesanal"],
+      fr: ["Fabrication à partir de litchis", "Dégustation de vins locaux", "Production artisanale"],
     }, image: "/poi-images/takamaka-winery-life-v2.webp",
     descriptionAdvanced: {
       de: "Die Takamaka Boutique Winery im zentralen Hochland von Mauritius bei Vacoas-Phoenix ist das einzige Weingut der Welt, das sich auf die Herstellung von Wein aus Litschis spezialisiert hat. Das im Jahr 2014 von Önologe Alexander Oxenham gegründete Unternehmen nutzt die optimalen klimatischen Bedingungen der Insel für den Anbau hochwertiger Litschi-Früchte. Der Herstellungsprozess folgt klassischen önologischen Traditionen, wobei die Früchte geschält, entkernt und anschließend in Edelstahltanks fermentiert werden. Das Ergebnis sind Weine mit unterschiedlichen Profilen, von trocken bis süß, die das tropische Terroir widerspiegeln. Neben der Produktion dient das Weingut als Bildungszentrum für lokale Weinherstellung und bietet Einblicke in die Fermentationstechniken fernab der klassischen Traube. Die Anlage umfasst moderne Keller sowie Verkostungsräume, in denen die önologische Vielfalt von Mauritius präsentiert wird.",
@@ -360,6 +447,9 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       hu: ["2014-ben alapította Alexander Oxenham borász", "Szőlő helyett kizárólag licsit használnak alapanyagként", "A Plaines Wilhems körzetben, Vacoas városában található", "A gyártási folyamat része a kézi válogatás és hámozás", "Rozsdamentes acéltartályokban zajlik az erjesztés", "A kínálatban száraz, félédes és édes borok is szerepelnek"],
       ro: ["Fondată în anul 2014 de enologul Alexander Oxenham", "Utilizează fructe de litchi în locul strugurilor tradiționali", "Situată în districtul Plaines Wilhems, zona Vacoas", "Procesul include fermentarea în tancuri de inox", "Produce o gamă variată, de la vinuri seci la licoroase", "Este singura unitate de acest profil de pe insulă"],
       en: ["Founded in 2014 by oenologist Alexander Oxenham", "Uses lychees exclusively as the base fruit for wine", "Located in the Plaines Wilhems district near Vacoas", "Features fermentation in stainless steel tanks", "Offers five distinct wine varieties with different sweetness levels", "Promotes sustainable local agriculture through fruit processing"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -377,13 +467,19 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       de: "Eine erstklassige Rum-Destillerie, die inmitten von Zuckerrohrplantagen liegt und traditionelle Destillationsmethoden zeigt.",
       hu: "Kiváló rumlepárló, amely cukornádültetvények közepén található, és hagyományos lepárlási módszereket mutat be.",
       ro: "O distilerie de rom de clasă mondială, situată în mijlocul plantațiilor de trestie de zahăr, prezentând metode tradiționale.",
-      en: "A world-class rum distillery located amidst sugarcane plantations, demonstrating traditional distillation methods."
+      en: "A world-class rum distillery located amidst sugarcane plantations, demonstrating traditional distillation methods.",
+      es: "Una destilería de ron de primera clase, ubicada entre plantaciones de caña de azúcar, que muestra métodos tradicionales de destilación.",
+      pt: "Uma destilaria de rum de primeira classe, situada entre plantações de cana-de-açúcar, que mostra métodos tradicionais de destilação.",
+      fr: "Une distillerie de rhum de premier ordre, située au milieu des plantations de canne à sucre, présentant les méthodes de distillation traditionnelles.",
     },
     facts: {
       de: ["Eigene Zuckerrohrfelder", "Besichtigung der Brennerei", "Gehobenes Restaurant vor Ort"],
       hu: ["Saját cukornádültetvények", "A lepárló látogatható", "Színvonalas étterem a helyszínen"],
       ro: ["Câmpuri proprii de trestie", "Tururi ale distileriei", "Restaurant rafinat la fața locului"],
-      en: ["Own sugarcane fields", "Distillery tours available", "Upscale on-site restaurant"]
+      en: ["Own sugarcane fields", "Distillery tours available", "Upscale on-site restaurant"],
+      es: ["Campos de caña de azúcar propios", "Visita a la destilería", "Restaurante de lujo en el lugar"],
+      pt: ["Campos de cana-de-açúcar próprios", "Visita à destilaria", "Restaurante de luxo no local"],
+      fr: ["Propres champs de canne à sucre", "Visite de la distillerie", "Restaurant haut de gamme sur place"],
     }, image: "/poi-images/rhumerie-de-chamarel-life-v2.webp",
     descriptionAdvanced: {
       de: "Die Rhumerie de Chamarel im Südwesten von Mauritius ist eine der wenigen noch aktiven Destillerien der Welt, die Rum direkt aus frischem Zuckerrohrsaft herstellt. Das 2008 in Betrieb genommene Unternehmen liegt in einem fruchtbaren Tal auf etwa 300 Metern über dem Meeresspiegel, wo das spezifische Mikroklima den Anbau von Premium-Zuckerrohr begünstigt. Im Gegensatz zur industriellen Produktion aus Melasse wird hier der 'Rhum Agricole' durch Pressen, Fermentieren und anschließende Destillation in Kupferkesseln oder Kolonnen gewonnen. Die Anlage wurde nach ökologischen Gesichtspunkten entworfen, wobei das gepresste Zuckerrohr (Bagasse) als Brennstoff für die Energiegewinnung genutzt wird. Die Architektur verbindet Holz, Stein und Metall zu einem harmonischen Gesamtbild, das sich in die umliegende Plantagenlandschaft einfügt. Neben der Produktion beherbergt die Destillerie ein erstklassiges Restaurant und bietet geführte Touren an, die den gesamten Veredelungsprozess des mauritischen Rums dokumentieren.",
@@ -396,6 +492,9 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       hu: ["2008-ban nyitotta meg kapuit a nagyközönség előtt", "A cukornád levét használják alapanyagként melasz helyett", "300 méteres tengerszint feletti magasságban helyezkedik el", "A bagasse-t (nádrostot) bioüzemanyagként hasznosítják", "Rézüstökben végzik a szakaszos lepárlást", "A birtok része egy neves fine dining étterem is"],
       ro: ["Distileria a fost inaugurată oficial în anul 2008", "Produce rom tip 'Agricole' direct din must de trestie", "Amplasată la o altitudine de aproximativ 300 de metri", "Folosește resturile vegetale (bagasa) pentru energie", "Distilarea se face în alambicuri tradiționale de cupru", "Deține plantații proprii de trestie de zahăr în Chamarel"],
       en: ["Officially opened for production and tourism in 2008", "Uses fresh sugarcane juice instead of traditional molasses", "Located at an altitude of 300 meters in a fertile valley", "Repurposes bagasse fiber to power the distillery operations", "Features double distillation in copper pot stills", "Includes an on-site restaurant serving local cuisine"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -413,13 +512,19 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       de: "Die einzige Kaffeeproduktionsstätte auf Mauritius, die die berühmte Arabica-Bohne in der fruchtbaren Erde von Chamarel anbaut.",
       hu: "Mauritius egyetlen kávétermesztő helye, ahol a híres Arabica kávét termesztik Chamarel termékeny földjén.",
       ro: "Singura plantație de cafea din Mauritius, care cultivă faimoasele boabe Arabica în solul fertil din Chamarel.",
-      en: "The only coffee production site in Mauritius, growing the famous Arabica beans in the fertile soil of Chamarel."
+      en: "The only coffee production site in Mauritius, growing the famous Arabica beans in the fertile soil of Chamarel.",
+      es: "El único centro de producción de café en Mauricio que cultiva el famoso grano Arábica en la fértil tierra de Chamarel.",
+      pt: "O único local de produção de café nas Maurícias que cultiva o famoso grão Arábica no solo fértil de Chamarel.",
+      fr: "Le seul site de production de café à Maurice qui cultive le célèbre grain Arabica dans la terre fertile de Chamarel.",
     },
     facts: {
       de: ["Anbau von Arabica-Kaffee", "Einzige Plantage der Insel", "Handverlesene Bohnen"],
       hu: ["Arabica kávé termesztése", "A sziget egyetlen ültetvénye", "Kézzel válogatott szemek"],
       ro: ["Cultivă cafea Arabica", "Singura plantație de pe insulă", "Boabe culese manual"],
-      en: ["Grows Arabica coffee", "Only plantation on the island", "Hand-picked coffee beans"]
+      en: ["Grows Arabica coffee", "Only plantation on the island", "Hand-picked coffee beans"],
+      es: ["Cultivo de café Arábica", "Única plantación de la isla", "Granos seleccionados a mano"],
+      pt: ["Cultivo de café Arábica", "Única plantação da ilha", "Grãos selecionados à mão"],
+      fr: ["Culture du café Arabica", "Unique plantation de l'île", "Grains cueillis à la main"],
     }, image: "/poi-images/chamarel-coffee-plantation-life-v2.webp",
     descriptionAdvanced: {
       de: "Die Chamarel Kaffeeplantage im Südwesten von Mauritius ist der einzige Ort auf der Insel, an dem Kaffee im kommerziellen Maßstab angebaut wird. Die Geschichte des Kaffeeanbaus in der Region reicht bis in das 18. Jahrhundert zurück, als französische Siedler die Sorte Coffea Arabica einführten. Heute wird vor allem die seltene Varietät 'Laurina' kultiviert, die für ihren natürlich niedrigen Koffeingehalt und ihr feines Aroma bekannt ist. Die Plantagen liegen in den fruchtbaren, vulkanischen Böden des Chamarel-Plateaus, wo das kühle Klima und regelmäßige Niederschläge optimale Bedingungen schaffen. Der gesamte Prozess, von der Ernte der Kaffeekirschen per Hand bis hin zur Trocknung und Röstung, erfolgt vor Ort, um die Frische und Qualität zu gewährleisten. Diese lokale Produktion ist ein wichtiger Bestandteil des landwirtschaftlichen Erbes von Mauritius und bietet einen Einblick in eine Nischenwirtschaft jenseits des dominierenden Zuckerrohrs. Die Plantage ist eng mit der lokalen Tourismusindustrie verknüpft und fördert nachhaltige Anbaumethoden.",
@@ -432,6 +537,9 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       hu: ["Mauritius egyetlen kereskedelmi célú kávéültetvénye", "A ritka, alacsony koffeintartalmú 'Laurina' fajtát termesztik", "A termesztés gyökerei a 18. századi francia korszakba nyúlnak", "A vulkanikus eredetű Chamarel-fennsíkon található", "A kávészemeket kizárólag kézzel szüretelik", "Helyi pörkölőüzem biztosítja a frissességet"],
       ro: ["Este singura plantație comercială de cafea din Mauritius", "Cultivă varietatea 'Laurina', cu puțină cofeină naturală", "Primele culturi au fost introduse în secolul al XVIII-lea", "Solul este de origine vulcanică, bogat în minerale", "Recoltarea se face manual pentru a selecta boabele coapte", "Procesarea și prăjirea au loc în incinta unității"],
       en: ["The only commercial-scale coffee plantation in Mauritius", "Focuses on the rare 'Laurina' Arabica variety", "Coffee was first introduced to the area in the 1700s", "Located on the high-altitude volcanic Chamarel plateau", "Harvesting is done by hand to ensure fruit quality", "The entire value chain from farm to roast is local"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -449,13 +557,19 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       de: "Ein Schutzgebiet im Süden, das eine Mischung aus Küstenwald und Berglandschaft bietet und Heimat für Hirsche und Wildschweine ist.",
       hu: "Déli természetvédelmi terület, amely tengerparti erdők és hegyi tájak keverékét kínálja, szarvasok és vaddisznók otthona.",
       ro: "O rezervație în sud, oferind un amestec de pădure de coastă și peisaj montan, adăpostind căprioare și mistreți.",
-      en: "A conservation area in the south offering a mix of coastal forest and mountain scenery, home to deer and wild boars."
+      en: "A conservation area in the south offering a mix of coastal forest and mountain scenery, home to deer and wild boars.",
+      es: "Una zona protegida en el sur que ofrece una mezcla de bosque costero y paisaje de montaña, hogar de ciervos y jabalíes.",
+      pt: "Uma área protegida no sul que oferece uma mistura de floresta costeira e paisagem montanhosa, lar de veados e javalis.",
+      fr: "Une zone protégée au sud offrant un mélange de forêt côtière et de paysage montagneux, abritant des cerfs et des sangliers.",
     },
     facts: {
       de: ["Bietet Safari-Touren", "Historische Ruinen im Wald", "Endemische Pflanzenarten"],
       hu: ["Szafari túrákat kínál", "Történelmi romok az erdőben", "Endemikus növényfajok"],
       ro: ["Oferă tururi de safari", "Ruine istorice în pădure", "Specii de plante endemice"],
-      en: ["Offers safari tours", "Historical ruins in the forest", "Home to endemic plant species"]
+      en: ["Offers safari tours", "Historical ruins in the forest", "Home to endemic plant species"],
+      es: ["Ofrece tours de safari", "Ruinas históricas en el bosque", "Especies de plantas endémicas"],
+      pt: ["Ofrece tours de safari", "Ruínas históricas na floresta", "Espécies de plantas endémicas"],
+      fr: ["Propose des safaris", "Ruines historiques dans la forêt", "Espèces végétales endémiques"],
     }, image: "/poi-images/heritage-nature-reserve-life-v2.webp",
     descriptionAdvanced: {
       de: "Das Heritage Nature Reserve, gelegen im unberührten Süden von Mauritius bei Bel Ombre, umfasst ein Areal von etwa 1.300 Hektar und ist ein bedeutendes Schutzgebiet für die endemische Flora und Fauna der Insel. Das Reservat erstreckt sich von den vulkanischen Hügeln bis hinunter zur Küste und bietet eine beeindruckende geologische Vielfalt. Historisch gesehen war das Gebiet Teil der Zuckerrohrbaronie Bel Ombre, heute dient es primär dem Ökotourismus und der Erhaltung bedrohter Arten wie dem Mauritius-Turmfalken oder der Rosa Taube. Die Vegetation ist geprägt von tropischen Wäldern, Wasserfällen und weiten Savannenlandschaften, die Lebensraum für Hirsche, Wildschweine und zahlreiche seltene Vogelarten bieten. Forscher nutzen das Reservat zur Untersuchung der ursprünglichen Ökosysteme von Mauritius vor der massiven menschlichen Besiedlung. Durch geführte Wanderungen und Geländewagentouren wird ein Bewusstsein für die Zerbrechlichkeit der Inselökologie geschaffen, wobei der Fokus auf nachhaltigem Management und dem Schutz der Biodiversität liegt.",
@@ -468,6 +582,9 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       hu: ["Körülbelül 1300 hektárnyi védett területet foglal magában", "Veszélyeztetett fajok, köztük a rózsaszín galamb otthona", "A történelmi Bel Ombre birtok területén fekszik", "Változatos táj: trópusi erdők és szavannák váltják egymást", "Aktív tudományos kutatások helyszíne a biodiverzitásról", "Kizárólag engedéllyel és vezetővel látogatható terület"],
       ro: ["Se întinde pe o suprafață de circa 1.300 de hectare", "Protejează specii rare precum șoimul de Mauritius", "Face parte din domeniul istoric Bel Ombre din sud", "Relieful include păduri montane și câmpii de savană", "Este un centru important pentru cercetarea ecologică", "Permite observarea cerbilor în habitatul lor natural"],
       en: ["Spans a total area of approximately 1,300 hectares", "Home to endangered species like the pink pigeon", "Located within the historic Bel Ombre sugar estate", "Features diverse landscapes from forests to savannahs", "A key site for international conservation research", "Offers eco-friendly tours focused on endemic biodiversity"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -485,13 +602,19 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       de: "Der größte Wasserpark auf Mauritius mit zahlreichen Rutschen und Pools, ideal für einen Familienausflug.",
       hu: "Mauritius legnagyobb víziparkja számos csúszdával és medencével, ideális családi kirándulásokhoz.",
       ro: "Cel mai mare parc acvatic din Mauritius, cu numeroase tobogane și piscine, ideal pentru o excursie în familie.",
-      en: "The largest water park in Mauritius featuring numerous slides and pools, perfect for a fun-filled family day out."
+      en: "The largest water park in Mauritius featuring numerous slides and pools, perfect for a fun-filled family day out.",
+      es: "El parque acuático más grande de Mauricio, con numerosos toboganes y piscinas, ideal para una excursión familiar.",
+      pt: "O maior parque aquático das Maurícias, com inúmeros escorregas e piscinas, ideal para um passeio em família.",
+      fr: "Le plus grand parc aquatique de l'île Maurice avec de nombreux toboggans et piscines, idéal pour une sortie en famille.",
     },
     facts: {
       de: ["Vielzahl von Wasserrutschen", "Wellenbad vorhanden", "Gelegen in Belle Mare"],
       hu: ["Számos vízi csúszda", "Hullámmedencével rendelkezik", "Belle Mare-ban található"],
       ro: ["Varietate de tobogane", "Piscină cu valuri", "Situat în Belle Mare"],
-      en: ["Multiple water slides", "Features a wave pool", "Located in Belle Mare"]
+      en: ["Multiple water slides", "Features a wave pool", "Located in Belle Mare"],
+      es: ["Gran variedad de toboganes", "Piscina de olas disponible", "Situado en Belle Mare"],
+      pt: ["Grande variedade de escorregas", "Piscina de ondas disponível", "Localizado em Belle Mare"],
+      fr: ["Grande variété de toboggans", "Piscine à vagues disponible", "Situé à Belle Mare"],
     }, image: "/poi-images/splash-n-fun-life-v2.webp",
     descriptionAdvanced: {
       de: "Der Splash N Fun Leisure Park in Belle Mare, an der Ostküste von Mauritius, ist der größte Wasserpark der Insel und ein zentraler Ort für familienorientierte Freizeitgestaltung. Ursprünglich als 'Waterpark Leisure Village' bekannt, wurde die Anlage umfassend renoviert und im Jahr 2011 unter neuem Namen und Management wiedereröffnet. Der Park erstreckt sich über eine Fläche von etwa 12 Hektar und bietet eine Vielzahl von Attraktionen, darunter Riesenrutschen, ein Wellenbecken und einen Strömungskanal. Neben den Wasseraktivitäten verfügt der Park über moderne Einrichtungen für Kinder, Spielhallen und gastronomische Angebote, die auf lokale und internationale Besucher zugeschnitten sind. Die technische Infrastruktur umfasst fortschrittliche Wasseraufbereitungsanlagen, um hohe Hygienestandards zu gewährleisten. Der Park spielt eine wichtige Rolle im regionalen Tourismus von Flacq und ist besonders an Wochenenden und Feiertagen ein beliebter Treffpunkt für Einheimische. Die Architektur des Parks orientiert sich an einem tropischen Dorf-Design, das sich harmonisch in die Küstenlandschaft von Belle Mare einfügt.",
@@ -504,6 +627,9 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       hu: ["Mauritius legnagyobb vízi vidámparkja", "2011-ben nyílt meg újra teljes felújítás után", "Belle Mare tengerparti övezetében található", "Körülbelül 12 hektáros területet foglal el", "Óriáscsúszdák és hullámmedence a fő attrakciók", "Népszerű hétvégi célpont a helyi családok számára"],
       ro: ["Cel mai mare parc acvatic de pe insulă", "Redeschis sub numele actual în anul 2011", "Amplasat în districtul Flacq, zona Belle Mare", "Suprafața totală este de aproximativ 12 hectare", "Include un râu leneș și multiple tobogane de mare viteză", "Dispune de sisteme moderne de recirculare a apei"],
       en: ["The largest water-themed leisure park in Mauritius", "Reopened with modern facilities in late 2011", "Situated in the coastal region of Belle Mare", "Covers a total area of approximately 12 hectares", "Features a variety of pools, slides, and dry attractions", "A major recreational hub for the eastern districts"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -521,13 +647,19 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       de: "Ein Reitzentrum im Norden, das Ausritte entlang der Strände und durch wunderschöne Landschaften anbietet.",
       hu: "Északi lovasközpont, amely lovaglást kínál a strandok mentén és gyönyörű tájakon keresztül.",
       ro: "Un centru de echitație în nord, oferind plimbări cu calul de-a lungul plajelor și prin peisaje superbe.",
-      en: "An equestrian center in the north offering horseback riding along the beaches and through beautiful landscapes."
+      en: "An equestrian center in the north offering horseback riding along the beaches and through beautiful landscapes.",
+      es: "Un centro ecuestre en el norte que ofrece cabalgatas por las playas y a través de hermosos paisajes.",
+      pt: "Um centro equestre no norte que oferece passeios a cavalo pelas praias e através de belas paisagens.",
+      fr: "Un centre équestre dans le nord qui propose des promenades à cheval le long des plages et à travers de magnifiques paysages.",
     },
     facts: {
       de: ["Strandausritte möglich", "Rettungspferde-Programm", "Für alle Niveaus geeignet"],
       hu: ["Lovaglás a tengerparton", "Lómentő program", "Minden tudásszintnek megfelel"],
       ro: ["Plimbări pe plajă", "Program de salvare a cailor", "Potrivit pentru toate nivelurile"],
-      en: ["Beach rides available", "Horse rescue program", "Suitable for all skill levels"]
+      en: ["Beach rides available", "Horse rescue program", "Suitable for all skill levels"],
+      es: ["Paseos por la playa posibles", "Programa de rescate de caballos", "Apto para todos los niveles"],
+      pt: ["Passeios na praia possíveis", "Programa de resgate de cavalos", "Adequado para todos os níveis"],
+      fr: ["Promenades sur la plage possibles", "Programme de sauvetage de chevaux", "Adapté à tous les niveaux"],
     }, image: "/poi-images/mauritius-horse-trails-life-v2.webp",
     descriptionAdvanced: {
       de: "Mauritius Horse Trails, primär im Süden der Insel in der Region Riambel ansässig, bietet spezialisierte Reiterlebnisse, die Naturerlebnis und Tierschutz miteinander verbinden. Das Unternehmen ist bekannt für die Rettung und Umschulung ehemaliger Rennpferde von der berühmten Rennbahn Champ de Mars in Port Louis, wodurch den Tieren nach ihrer sportlichen Karriere ein neues Leben ermöglicht wird. Die Ausritte führen entlang der unberührten Strände von Riambel, durch Küstenwälder und teilweise sogar in das flache Lagunenwasser. Im Gegensatz zu kommerziellen Massenbetrieben liegt der Fokus hier auf kleinen Gruppen und einer ethischen Behandlung der Pferde. Die Pferde werden speziell trainiert, um im sandigen Gelände und im Wasser sicher zu agieren. Diese Aktivität bietet Besuchern eine einzigartige Perspektive auf die wilde Südküste von Mauritius, die weit weniger bebaut ist als der Norden. Das Projekt fördert zudem die lokale Verbundenheit zur Reitkultur, die auf der Insel eine lange, koloniale Tradition hat.",
@@ -540,6 +672,9 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       hu: ["Visszavonult versenylovak befogadására szakosodtak", "A túrák fő helyszíne a déli Riambel tengerpartja", "Lehetőséget biztosítanak a tengerben való lovaglásra", "Az etikus állattartás és a kiscsoportos túrák hívei", "A lovak többsége a Champ de Mars pályáról érkezik", "A déli partvidék természetes, beépítetlen részén működik"],
       ro: ["Specializat în salvarea cailor de pe hipodrom", "Locația principală este pe plaja Riambel din sud", "Include sesiuni de călărie în apa oceanului", "Promovează turismul ecvestru etic și sustenabil", "Caii sunt reabilitați după cariera sportivă din Port Louis", "Traseele evită zonele aglomerate de turiști"],
       en: ["Specializes in retraining retired Thoroughbred racehorses", "Based primarily on the scenic beaches of Riambel", "Offers the unique experience of riding horses into the sea", "Operates with a strong focus on animal welfare and ethics", "Horses are sourced from the historic Champ de Mars track", "Provides tours through less-developed southern landscapes"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -557,13 +692,19 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       de: "Weite Obstgärten im Osten der Insel, in denen eine Vielzahl von tropischen Früchten wie Mangos und Papayas angebaut werden.",
       hu: "Hatalmas gyümölcsöskertek a sziget keleti részén, ahol számos trópusi gyümölcsöt, például mangót és papaját termesztenek.",
       ro: "Livezi întinse în estul insulei, unde se cultivă o varietate de fructe tropicale, cum ar fi mango și papaya.",
-      en: "Vast fruit orchards in the east of the island growing a variety of tropical fruits like mangoes and papayas."
+      en: "Vast fruit orchards in the east of the island growing a variety of tropical fruits like mangoes and papayas.",
+      es: "Extensos huertos en el este de la isla donde se cultiva una gran variedad de frutas tropicales como mangos y papayas.",
+      pt: "Vastos pomares no leste da ilha onde é cultivada uma grande variedade de frutas tropicais, como mangas e papaias.",
+      fr: "De vastes vergers dans l'est de l'île où est cultivée une grande variété de fruits tropicaux tels que des mangues et des papayes.",
     },
     facts: {
       de: ["Tropische Fruchtvielfalt", "Saisonale Ernten", "Wichtiges Anbaugebiet"],
       hu: ["Trópusi gyümölcsválaszték", "Szezonális betakarítás", "Fontos termőterület"],
       ro: ["Diversitate de fructe", "Recolte sezoniere", "Zonă agricolă importantă"],
-      en: ["Tropical fruit variety", "Seasonal harvests", "Key agricultural region"]
+      en: ["Tropical fruit variety", "Seasonal harvests", "Key agricultural region"],
+      es: ["Variedad de frutas tropicales", "Cosechas estacionales", "Importante zona de cultivo"],
+      pt: ["Variedade de frutas tropicais", "Colheitas sazonais", "Importante área de cultivo"],
+      fr: ["Diversité de fruits tropicaux", "Récoltes saisonnières", "Zone de culture importante"],
     }, image: "/poi-images/belle-mare-fruit-orchards-life-v2.webp",
     descriptionAdvanced: {
       de: "Die Belle Mare Fruit Orchards an der Ostküste von Mauritius repräsentieren den traditionellen Obstanbau der Insel in einer Region, die sonst primär für den Tourismus bekannt ist. Diese Obstgärten beherbergen eine Vielzahl tropischer Arten, darunter Mango, Papaya, Litschi und die berühmten mauritischen Victoria-Ananas. Die Bewirtschaftung erfolgt oft nach Methoden, die über Generationen weitergegeben wurden, wobei das warme Küstenklima und die sandigen Böden der Region Flacq besonders vorteilhaft für die Süße der Früchte sind. Während der Erntesaison, insbesondere für Litschis zwischen November und Januar, werden diese Plantagen zu Zentren lokaler wirtschaftlicher Aktivität. Besucher können hier Einblicke in die Agrarökologie der Insel gewinnen und die Vielfalt der saisonalen Ernten direkt vor Ort erleben. Die Obstgärten dienen auch als Pufferzonen zwischen der Küstenbebauung und dem Hinterland und tragen zur Erhaltung der grünen Lunge im Osten bei. Neben dem Verkauf auf lokalen Märkten beliefern diese Plantagen auch die umliegenden Luxushotels mit frischen Erzeugnissen.",
@@ -576,6 +717,9 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       hu: ["Trópusi gyümölcsök, például licsi és mangó termesztésére szakosodott", "A sziget keleti részén, Flacq körzetben található", "Itt termesztik a híres Victoria-ananász fajtát is", "A fő licsiszezon novembertől januárig tart", "A helyi piacok és luxusszállodák fő beszállítója", "A homokos tengerparti talaj kedvez a gyümölcsök ízének"],
       ro: ["Cultivă fructe tropicale variate, inclusiv mango și litchi", "Situată în estul insulei, în districtul Flacq", "Produce renumitul soi de ananas Victoria", "Vârful de sezon pentru litchi este în lunile noiembrie-ianuarie", "Aprovizionează resorturile de lux din zona de coastă", "Beneficiază de un microclimat cald și umed constant"],
       en: ["Focuses on tropical fruits such as lychee and mango", "Located in the eastern district of Flacq near Belle Mare", "Home to the sweet Mauritian Victoria pineapple variety", "Peak harvest for lychees occurs from November to January", "Supplies fresh produce to local markets and nearby resorts", "Utilizes traditional coastal farming techniques"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -593,13 +737,19 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       de: "Das Herzland der Zuckerindustrie auf Mauritius mit endlosen Feldern aus grünem Zuckerrohr, die die Landschaft prägen.",
       hu: "Mauritius cukoriparának központja, ahol a végtelen zöld cukornádültetvények meghatározzák a tájat.",
       ro: "Inima industriei zahărului din Mauritius, cu câmpuri nesfârșite de trestie de zahăr verde care domină peisajul.",
-      en: "The heartland of the sugar industry in Mauritius, with endless fields of green sugarcane shaping the landscape."
+      en: "The heartland of the sugar industry in Mauritius, with endless fields of green sugarcane shaping the landscape.",
+      es: "El corazón de la industria azucarera en Mauricio, con interminables campos de caña de azúcar verde que definen el paisaje.",
+      pt: "O coração da indústria açucareira nas Maurícias, com campos intermináveis de cana-de-açúcar verde que moldam a paisagem.",
+      fr: "Le cœur de l'industrie sucrière à Maurice, avec des champs infinis de canne à sucre verte qui façonnent le paysage.",
     },
     facts: {
       de: ["Größte Anbaufläche", "Basis der Rumproduktion", "Historisch bedeutsam"],
       hu: ["A legnagyobb termőterület", "A rumgyártás alapja", "Történelmileg jelentős"],
       ro: ["Cea mai mare suprafață", "Baza producției de rom", "Importanță istorică"],
-      en: ["Largest cultivation area", "Basis of rum production", "Historically significant"]
+      en: ["Largest cultivation area", "Basis of rum production", "Historically significant"],
+      es: ["Mayor superficie de cultivo", "Base de la producción de ron", "Históricamente significativo"],
+      pt: ["Maior área de cultivo", "Base da produção de rum", "Historicamente significativo"],
+      fr: ["Plus grande zone de culture", "Base de la production de rhum", "Importance historique"],
     },
     descriptionAdvanced: {
       de: "Die Zuckerrohrfelder von Flacq im Osten von Mauritius bilden das Herzstück der landwirtschaftlichen Identität des Landes. Flacq ist der größte Distrikt der Insel und beherbergt einige der weitläufigsten zusammenhängenden Plantagenflächen. Historisch gesehen war die Zuckerindustrie seit dem 18. Jahrhundert der wichtigste Wirtschaftszweig von Mauritius, wobei Flacq durch seine fruchtbaren Ebenen eine Schlüsselrolle spielte. Die Landschaft ist geprägt von endlosen grünen Feldern, die während der Erntezeit (Juni bis Dezember) von großen Erntemaschinen und LKWs dominiert werden. In dieser Region befinden sich auch einige der historisch bedeutendsten Zuckerfabriken, von denen heute viele zu modernen Verarbeitungszentren oder Kraftwerken umgebaut wurden, die Bagasse zur Energiegewinnung nutzen. Die Zuckerrohrkultur hat die demografische Struktur der Insel durch die Einwanderung von Vertragsarbeitern aus Indien nachhaltig geprägt. Ein Besuch dieser Felder bietet einen tiefen Einblick in die koloniale Vergangenheit und die industrielle Transformation von Mauritius.",
@@ -612,6 +762,9 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       hu: ["A sziget legnagyobb mezőgazdasági művelés alatt álló körzete", "A cukornád a 18. század óta a fő exporttermék", "A betakarítás júniustól decemberig tart", "A nádrostot (bagasse) helyi erőművekben hasznosítják", "Flacq síkságai a legalkalmasabbak a gépi művelésre", "Az indiai munkások betelepítése szorosan kötődik e tájhoz"],
       ro: ["Cel mai mare district agricol de pe insulă", "Trestia de zahăr a fost introdusă masiv în secolul XVIII", "Sezonul de recoltare durează din iunie până în decembrie", "Resturile vegetale sunt folosite pentru energie verde", "Relieful de câmpie favorizează culturile pe scară largă", "Regiunea păstrează ruinele unor mori de zahăr istorice"],
       en: ["Flacq is the largest district by area in Mauritius", "Sugarcane remains a primary agricultural export for the nation", "The harvest season runs annually from June to December", "Byproducts like bagasse are used for renewable electricity", "The district features the island's most fertile volcanic plains", "The industry led to the diverse ethnic makeup of the region"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -629,13 +782,19 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       de: "Ein kleiner Park innerhalb des Botanischen Gartens, in dem Javanerhirsche in einer geschützten Umgebung leben.",
       hu: "A botanikus kertben található kis park, ahol jávai szarvasok élnek védett környezetben.",
       ro: "Un mic parc în cadrul Grădinii Botanice, unde căprioarele Java trăiesc într-un mediu protejat.",
-      en: "A small enclosure within the Botanical Garden where Java deer live in a protected natural environment."
+      en: "A small enclosure within the Botanical Garden where Java deer live in a protected natural environment.",
+      es: "Un pequeño parque dentro del Jardín Botánico donde los ciervos de Java viven en un entorno protegido.",
+      pt: "Um pequeno parque dentro do Jardim Botânico onde os cervos de Java vivem num ambiente protegido.",
+      fr: "Un petit parc à l'intérieur du Jardin Botanique où les cerfs de Java vivent dans un environnement protégé.",
     },
     facts: {
       de: ["Javanerhirsche", "Teil des Botanischen Gartens", "Beliebt bei Kindern"],
       hu: ["Jávai szarvasok lakják", "A botanikus kert része", "Népszerű a gyerekek körében"],
       ro: ["Adăpostește căprioare Java", "Parte a grădinii botanice", "Popular printre copii"],
-      en: ["Home to Java deer", "Part of the Botanical Garden", "Popular spot for children"]
+      en: ["Home to Java deer", "Part of the Botanical Garden", "Popular spot for children"],
+      es: ["Ciervos de Java", "Parte del Jardín Botánico", "Popular entre los niños"],
+      pt: ["Cervos de Java", "Parte do Jardim Botânico", "Popular entre as crianças"],
+      fr: ["Cerfs de Java", "Fait partie du Jardin Botanique", "Populaire auprès des enfants"],
     }, image: "/poi-images/pamplemousses-deer-park-life-v2.webp",
     descriptionAdvanced: {
       de: "Der Pamplemousses Deer Park befindet sich innerhalb des weltberühmten Sir Seewoosagur Ramgoolam Botanical Garden im Norden von Mauritius. Dieser Bereich des Gartens ist der Erhaltung der Java-Hirsche (Cervus timorensis) gewidmet, die ursprünglich im 17. Jahrhundert von den Niederländern auf die Insel eingeführt wurden. Während der botanische Garten primär für seine exotischen Pflanzen und die riesigen Wasserlilien bekannt ist, bietet der Wildpark einen Einblick in die eingeführte Fauna der Insel. Die Hirsche leben in einem großzügigen Gehege, das von alten Bäumen beschattet wird, was ihnen einen natürlichen Lebensraum inmitten der Parkanlage bietet. Historisch gesehen dienten die Hirsche als Nahrungsquelle für frühe Siedler, heute sind sie ein Symbol für das koloniale Erbe und ein beliebter Anziehungspunkt für Familien. Der Park unterstreicht die Bemühungen um den Erhalt von Tierarten in einer kontrollierten Umgebung. Die Nähe zu anderen Sehenswürdigkeiten wie dem Schloss Mon Plaisir macht diesen Bereich zu einem festen Bestandteil des kulturellen und naturkundlichen Rundgangs in Pamplemousses.",
@@ -648,6 +807,9 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       hu: ["A pamplemousses-i SSR Botanikus Kert területén található", "A jávai szarvasok (Cervus timorensis) menedéke", "A fajt a hollandok telepítették be a 17. században", "A kifutót hatalmas, őshonos és egzotikus fák övezik", "A déli félteke legöregebb botanikus kertjének része", "Fontos oktatási helyszín a sziget faunájáról"],
       ro: ["Situat în interiorul Grădinii Botanice din Pamplemousses", "Adăpostește exemplare de cerb Java (Cervus timorensis)", "Specia a fost introdusă pe insulă în secolul al XVII-lea", "Spațiul este împrejmuit și umbrit de arbori exotici", "Face parte dintr-un complex istoric datând din 1770", "Este o atracție tradițională pentru vizitatorii grădinii"],
       en: ["Located inside the Sir Seewoosagur Ramgoolam Botanical Garden", "Home to a herd of Javanese deer (Cervus timorensis)", "The species was introduced by Dutch settlers in 1639", "The enclosure is set among century-old botanical specimens", "The garden itself was founded by Pierre Poivre in 1770", "A long-standing feature representing the island's colonial fauna"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -665,13 +827,19 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       de: "Ein Abenteuerpark, der für seine 23-farbige Erde bekannt ist und zahlreiche Aktivitäten wie Ziplining und Quadfahren bietet.",
       hu: "Kalandpark, amely a 23 színű földjéről ismert, és számos tevékenységet kínál, például drótkötélpályát és quadozást.",
       ro: "Un parc de aventură renumit pentru pământul în 23 de culori, oferind activități precum tiroliană și quad.",
-      en: "An adventure park famous for its 23-colored earth and offering numerous activities like ziplining and quad biking."
+      en: "An adventure park famous for its 23-colored earth and offering numerous activities like ziplining and quad biking.",
+      es: "Un parque de aventuras famoso por su tierra de 23 colores, que ofrece actividades como tirolina y recorridos en quad.",
+      pt: "Um parque de aventura famoso pela sua terra de 23 cores, que oferece atividades como tirolesa e passeios de moto-quatro.",
+      fr: "Un parc d'aventure célèbre pour sa terre aux 23 couleurs, offrant de nombreuses activités comme la tyrolienne et le quad.",
     },
     facts: {
       de: ["23-farbige Erde", "Längste Zipline im Ozean", "Viele Wasserfälle im Park"],
       hu: ["23 színű föld", "Az óceán leghosszabb drótkötélpályája", "Számos vízesés a parkban"],
       ro: ["Pământ în 23 de culori", "Cea mai lungă tiroliană", "Multe cascade în parc"],
-      en: ["23-colored earth", "Longest zipline in the region", "Features multiple waterfalls"]
+      en: ["23-colored earth", "Longest zipline in the region", "Features multiple waterfalls"],
+      es: ["Tierra de 23 colores", "Tirolina más larga del océano", "Muchas cascadas en el parque"],
+      pt: ["Terra de 23 cores", "Tirolesa mais longa do oceano", "Muitas cascatas no parque"],
+      fr: ["Terre aux 23 couleurs", "Plus longue tyrolienne de l'océan", "Nombreuses cascades dans le parc"],
     }, image: "/poi-images/vallee-des-couleurs-life-v2.webp",
     descriptionAdvanced: {
       de: "Der Vallee des Couleurs Nature Park in Chamouny im Süden von Mauritius ist weltberühmt für sein einzigartiges geologisches Phänomen der 23-farbigen Erde. Entdeckt wurde diese Stätte im Jahr 1998, und sie unterscheidet sich deutlich von der bekannteren 7-farbigen Erde in Chamarel durch die größere Vielfalt an Nuancen, die durch vulkanische Aktivitäten und chemische Zersetzung von Basalt entstanden sind. Der Park erstreckt sich über ein weites Areal mit Wasserfällen, Seen und einer dichten endemischen Vegetation. Neben der geologischen Bedeutung hat sich das Reservat zu einem Zentrum für Abenteuertourismus entwickelt, mit der längsten Seilrutsche des Indischen Ozeans und einer Hängebrücke, die weite Ausblicke über die Südküste bietet. Wissenschaftlich gesehen dokumentiert der Ort die komplexen vulkanischen Prozesse der Inselentstehung vor Millionen von Jahren. Die verschiedenen Erdschichten sind reich an Eisen- und Aluminiumoxiden, was die charakteristischen Rot-, Gelb- und Blautöne erklärt. Der Park setzt auf ein integriertes Konzept aus Naturschutz und aktiver Freizeitgestaltung.",
@@ -684,6 +852,9 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       hu: ["A 23 színű föld néven ismert geológiai ritkaság lelőhelye", "A területet 1998-ban fedezték fel és nyitották meg", "Itt található az Indiai-óceán leghosszabb zipline pályája", "A színeket a bazaltban lévő vas- és alumínium-oxidok adják", "A sziget déli, hegyvidéki Chamouny régiójában fekszik", "Négy természetes vízesés található a park területén"],
       ro: ["Cunoscut pentru fenomenul pământului în 23 de culori", "Situl a fost descoperit oficial în anul 1998", "Include cea mai lungă tiroliană din regiunea Oceanului Indian", "Nuanțele solului sunt de origine vulcanică naturală", "Situat în districtul Savanne, zona Chamouny", "Dispune de poduri suspendate și trasee pentru quad-uri"],
       en: ["Features a unique formation of earth with 23 distinct colors", "The site was officially discovered on July 4, 1998", "Home to the longest zip line in the Indian Ocean region", "Color variations result from differing concentrations of minerals", "Located in the southern mountainous area of Chamouny", "The park contains four scenic natural waterfalls"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -701,13 +872,19 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       de: "Ein spezialisierter Vergnügungspark für Kinder innerhalb von Casela, mit sicheren Fahrgeschäften und Spielbereichen.",
       hu: "Speciális vidámpark gyerekeknek a Casela területén belül, biztonságos játékokkal és játszóterekkel.",
       ro: "Un parc de distracții specializat pentru copii în cadrul Casela, cu atracții sigure și zone de joacă.",
-      en: "A specialized amusement park for children within the Casela complex, featuring safe rides and play areas."
+      en: "A specialized amusement park for children within the Casela complex, featuring safe rides and play areas.",
+      es: "Un parque de atracciones especializado para niños dentro de Casela, con atracciones y áreas de juego seguras.",
+      pt: "Um parque de diversões especializado para crianças dentro de Casela, com diversões e áreas de lazer seguras.",
+      fr: "Un parc d'attractions spécialisé pour les enfants au sein de Casela, avec des manèges et des aires de jeux sécurisés.",
     },
     facts: {
       de: ["Mini-Fahrgeschäfte", "Sicherer Spielbereich", "Gehört zum Casela-Park"],
       hu: ["Mini játékok", "Biztonságos játszótér", "A Casela-park része"],
       ro: ["Mini-atracții", "Zonă de joacă sigură", "Parte a complexului Casela"],
-      en: ["Features mini-rides", "Safe indoor/outdoor play", "Part of Casela World of Adventures"]
+      en: ["Features mini-rides", "Safe indoor/outdoor play", "Part of Casela World of Adventures"],
+      es: ["Mini atracciones", "Área de juego segura", "Pertenece al parque Casela"],
+      pt: ["Mini diversões", "Área de lazer segura", "Pertence ao parque Casela"],
+      fr: ["Mini-manèges", "Aire de jeux sécurisée", "Fait partie du parc Casela"],
     },
     descriptionAdvanced: {
       de: "Der Pangia Kids Park im Trianon Shopping Park im Zentrum von Mauritius stellt einen der modernsten kombinierten Indoor- und Outdoor-Freizeitkomplexe des Landes dar. Die Anlage wurde konzipiert, um vielfältige Aktivitäten anzubieten, die von klassischen Karussells bis hin zu modernen interaktiven Spielgeräten reichen. Der Park ist in verschiedene Zonen unterteilt, darunter ein Kleinkindbereich und anspruchsvollere Fahrgeschäfte für ältere Kinder. Über seine Funktion als Spielplatz hinaus dient er als zentraler Ort für Gemeinschaftsveranstaltungen und Geburtstagsfeiern, was den Wandel der mauritischen Freizeitkultur widerspiegelt. Die Sicherheitsstandards entsprechen internationalen Richtlinien, um ein kontrolliertes Umfeld für körperliches Spiel zu gewährleisten. Dank seiner strategischen Lage an der Hauptautobahn ist der Park für Familien aus der gesamten Insel leicht erreichbar. Die Attraktionen werden regelmäßig aktualisiert, um die Relevanz des Parks im lokalen Unterhaltungssektor aufrechtzuerhalten.",
@@ -720,6 +897,9 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       hu: ["A parkot 2021-ben nyitották meg a látogatók előtt", "A Trianon Shopping Park területén helyezkedik el", "Kültéri és beltéri játékelemekkel egyaránt rendelkezik", "A biztonsági rendszerek megfelelnek a nemzetközi előírásoknak", "Külön zónákat alakítottak ki a különböző korosztályoknak", "Az ország egyik legnépszerűbb szülinapi helyszíne gyerekeknek"],
       ro: ["Parcul a fost deschis oficial în cursul anului 2021", "Este situat în incinta complexului Trianon Shopping Park", "Include atât atracții de interior, cât și de exterior", "Standardele de siguranță aplicate sunt conforme cu normele internaționale", "Dispune de zone dedicate pentru diferite grupe de vârstă", "Funcționează ca locație principală pentru evenimente private pentru copii"],
       en: ["The park officially opened its doors in 2021", "Located within the Trianon Shopping Park complex", "Offers a mix of indoor and outdoor recreational attractions", "Safety standards are compliant with international regulations", "Features specialized zones for different age groups", "Serves as a primary venue for local children's birthday events"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   }
 ];

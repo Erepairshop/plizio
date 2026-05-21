@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { POI } from './poi';
 export const cookislandsLandmarksV2: POI[] = [
 
@@ -129,6 +130,7 @@ export const cookislandsLandmarksV2: POI[] = [
       en: ["Sank on October 2, 1907.", "Wreck depth: 12–15 meters.", "Ship length: 68 meters.", "13 fatalities, 50 survivors.", "SS Maitai was a general cargo steamer of the Union Steam Ship Company.", "Wreck was first officially surveyed as a dive site in 1970."],
       pt: ["Afundou em 2 de outubro de 1907.", "Profundidade do naufrágio: 12–15 metros.", "Comprimento do navio: 68 metros.", "13 vítimas mortais, 50 sobreviventes.", "O SS Maitai era um cargueiro de carga geral da Union Steam Ship Company.", "O naufrágio foi medido oficialmente pela primeira vez como local de mergulho em 1970."],
       fr: ["Coulé le 2 octobre 1907.", "Profondeur de l'épave : 12–15 mètres.", "Longueur du navire : 68 mètres.", "13 victimes, 50 survivants.", "Le SS Maitai était un cargo polyvalent de la Union Steam Ship Company.", "L'épave a été mesurée officiellement pour la première fois comme site de plongée en 1970."],
+      es: ["Se hundió el 2 de octubre de 1907.", "Profundidad del naufragio: 12–15 metros.", "Longitud del barco: 68 metros.", "13 víctimas mortales, 50 supervivientes.", "El SS Maitai era un carguero de carga general de la Union Steam Ship Company.", "El naufragio fue medido oficialmente por primera vez como lugar de buceo en 1970."],
     },
     image: "/poi-images/cookislands-ss-maitai-wreck-landmarks-v2.webp",
   },

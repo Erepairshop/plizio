@@ -24,18 +24,27 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       hu: ["A palota 1872-ben épült Rainilaiarivony miniszterelnök rezidenciájaként.", "Az épületet William Pool brit építész tervezte.", "A tengerszint feletti magassága 1461 méter.", "Ma múzeumként működik, ahol a Rova tűzvészéből kimentett kincseket őrzik.", "Az építészetre az erős barokk hatás jellemző, négy hangsúlyos saroktoronnyal.", "Rainilaiarivony Madagaszkár utolsó három királynőjének férje volt."],
       ro: ["Palatul a fost construit în 1872 ca reședință pentru prim-ministrul Rainilaiarivony.", "Designul clădirii a fost realizat de arhitectul britanic William Pool.", "Se află la o altitudine de 1.461 de metri deasupra nivelului mării.", "Funcționează în prezent ca muzeu pentru însemnele regale salvate din Rova.", "Arhitectura prezintă o influență barocă puternică, cu patru turnuri distincte.", "Rainilaiarivony a fost soțul ultimelor trei regine ale Madagascarului."],
       en: ["The palace was built in 1872 as the residence for Prime Minister Rainilaiarivony.", "The building was designed by the British architect William Pool.", "It is situated at an altitude of 1,461 meters above sea level.", "It currently serves as a museum for royal regalia salvaged from the Rova fire.", "The architecture displays a strong Baroque influence with four prominent towers.", "Rainilaiarivony was the husband of the last three queens of Madagascar."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Ehemalige Residenz des Premierministers Rainilaiarivony, die heute als Museum f\\u00fcr historische Artefakte dient.",
       hu: "Rainilaiarivony minisztereln\\u00f6k egykori rezidenci\\u00e1ja, amely ma t\\u00f6rt\\u00e9nelmi m\\u0171t\\u00e1rgyak m\\u00fazeumak\\u00e9nt m\\u0171k\\u00f6dik.",
       ro: "Fosta re\\u0219edin\\u021b\\u0103 a prim-ministrului Rainilaiarivony, care ast\\u0103zi serve\\u0219te drept muzeu pentru artefacte istorice.",
-      en: "Former residence of Prime Minister Rainilaiarivony, now serving as a museum for historical artifacts."
+      en: "Former residence of Prime Minister Rainilaiarivony, now serving as a museum for historical artifacts.",
+      es: "Antigua residencia del primer ministro Rainilaiarivony, que hoy sirve como museo de artefactos históricos.",
+      pt: "Antiga residência do primeiro-ministro Rainilaiarivony, que hoje serve de museu de artefactos históricos.",
+      fr: "Ancienne résidence du Premier ministre Rainilaiarivony, qui sert aujourd'hui de musée d'objets historiques.",
     },
     facts: {
       de: ["Ende des 19. Jahrhunderts erbaut", "Auff\\u00e4llige rote Ziegelfassade"],
       hu: ["A 19. sz\\u00e1zad v\\u00e9g\\u00e9n \\u00e9p\\u00fclt", "Felt\\u0171n\\u0151 piros t\\u00e9gla homlokzat"],
       ro: ["Construit la sf\\u00e2r\\u0219itul secolului al XIX-lea", "Fa\\u021bad\\u0103 de c\\u0103r\\u0103mid\\u0103 ro\\u0219ie izbitoare"],
-      en: ["Built in the late 19th century", "Striking red brick facade"]
+      en: ["Built in the late 19th century", "Striking red brick facade"],
+      es: ["Construido a finales del siglo XIX", "Llamativa fachada de ladrillo rojo"],
+      pt: ["Construído no final do século XIX", "Fachada de tijolo vermelho impressionante"],
+      fr: ["Construit à la fin du XIXe siècle", "Façade en briques rouges frappante"],
     }, image: "/poi-images/andafiavaratra-palace-landmarks-v2.webp",
     
     
@@ -62,18 +71,27 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       hu: ["A katedrális alapkövét 1873. május 8-án rakták le.", "Az építkezés 1890-ben fejeződött be, ekkor szentelték fel a templomot.", "Antananarivo történelmi negyedében, Andohalóban található.", "II. János Pál pápa 1989-es madagaszkári látogatása során felkereste a katedrálist.", "Az építészetet a 19. századi francia neogótikus stílus határozza meg.", "A templom azon a helyen épült, ahol korábban keresztény mártírokat öltek meg."],
       ro: ["Piatra de temelie a catedralei a fost pusă pe 8 mai 1873.", "Construcția a fost finalizată în 1890, an în care a fost și sfințită.", "Este situată în cartierul istoric Andohalo, în partea de sus a orașului.", "Papa Ioan Paul al II-lea a vizitat catedrala în timpul turneului său din 1989.", "Arhitectura este dominată de stilul neogotic francez din secolul al XIX-lea.", "Clădirea este ridicată pe locul unde misionarii creștini au fost persecutați anterior."],
       en: ["The foundation stone of the cathedral was laid on May 8, 1873.", "Construction was completed in 1890, the same year it was consecrated.", "It is located in the historical Andohalo district of the upper city.", "Pope John Paul II visited the cathedral during his trip to Madagascar in 1989.", "The architecture is defined by the 19th-century French Neo-Gothic style.", "The building stands on the site where Christian martyrs were formerly executed."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Eine beeindruckende r\\u00f6misch-katholische Kathedrale im Viertel Andohalo in Antananarivo, erbaut in der franz\\u00f6sischen Kolonialzeit.",
       hu: "Egy leny\\u0171g\\u00f6z\\u0151 r\\u00f3mai katolikus katedr\\u00e1lis Antananarivo Andohalo negyed\\u00e9ben, a francia gyarmati id\\u0151szakban \\u00e9p\\u00fclt.",
       ro: "O catedral\\u0103 romano-catolic\\u0103 impresionant\\u0103 \\u00een cartierul Andohalo din Antananarivo, construit\\u0103 \\u00een perioada colonial\\u0103 francez\\u0103.",
-      en: "An impressive Roman Catholic cathedral in the Andohalo district of Antananarivo, built during the French colonial period."
+      en: "An impressive Roman Catholic cathedral in the Andohalo district of Antananarivo, built during the French colonial period.",
+      es: "Una impresionante catedral católica romana en el barrio de Andohalo de Antananarivo, construida durante la época colonial francesa.",
+      pt: "Uma impressionante catedral católica romana no bairro de Andohalo, em Antananarivo, construída durante o período colonial francês.",
+      fr: "Une impressionnante cathédrale catholique romaine située dans le quartier d'Andohalo à Antananarivo, construite à l'époque coloniale française.",
     },
     facts: {
       de: ["Erbaut ab 1873", "Sitz der Erzdi\\u00f6zese Antananarivo"],
       hu: ["1873-ban kezdt\\u00e9k \\u00e9p\\u00edteni", "Az Antananariv\\u00f3i F\\u0151egyh\\u00e1zmegye sz\\u00e9khelye"],
       ro: ["Construit\\u0103 \\u00eencep\\u00e2nd cu 1873", "Sediul Arhiepiscopiei de Antananarivo"],
-      en: ["Construction began in 1873", "Seat of the Archdiocese of Antananarivo"]
+      en: ["Construction began in 1873", "Seat of the Archdiocese of Antananarivo"],
+      es: ["Construida a partir de 1873", "Sede de la Archidiócesis de Antananarivo"],
+      pt: ["Construída a partir de 1873", "Sede da Arquidiocese de Antananarivo"],
+      fr: ["Construite à partir de 1873", "Siège de l'archidiocèse d'Antananarivo"],
     }, image: "/poi-images/cathedrale-andohalo-landmarks-v2.webp",
     
     
@@ -100,18 +118,27 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       hu: ["A stadion befogadóképessége a felújítás után körülbelül 40 880 fő.", "2021-ben hivatalosan 'Kianja Barea' névre keresztelték át.", "Történelmileg ez a hely volt a madagaszkári királyok koronázásának szent helyszíne.", "A létesítmény modern rekortán pályával rendelkezik a nemzetközi atlétikai versenyekhez.", "Az alsóvárosban, közvetlenül az Anosy-tó mellett található.", "Ez a helyszíne az évente megrendezett függetlenség napi katonai parádénak."],
       ro: ["Stadionul are o capacitate de aproximativ 40.880 de locuri după renovare.", "În 2021, a fost redenumit oficial 'Kianja Barea' în onoarea echipei naționale.", "Istoric, locul a fost incinta sacră pentru încoronarea regilor malgași.", "Complexul include o pistă modernă de atletism pentru evenimente internaționale.", "Este situat în imediata vecinătate a lacului Anosy, în partea de jos a orașului.", "Stadionul găzduiește anual parada militară centrală de Ziua Independenței."],
       en: ["The stadium has a seating capacity of approximately 40,880 following its expansion.", "It was officially renamed 'Kianja Barea' in 2021 after the national football team.", "Historically, the site was the sacred ground for the coronation of Malagasy monarchs.", "The facility features a modern synthetic track for international athletic events.", "It is located in the immediate vicinity of Lake Anosy in the lower city.", "The stadium is the venue for the annual Independence Day military parade."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Das gr\\u00f6\\u00dfte Stadion Madagaskars, das f\\u00fcr Rugbyspiele, Fu\\u00dfballturniere und nationale Veranstaltungen genutzt wird.",
       hu: "Madagaszk\\u00e1r legnagyobb stadionja, amelyet r\\u00f6gbim\\u00e9rk\\u0151z\\u00e9sekre, labdar\\u00fag\\u00f3-torn\\u00e1kra \\u00e9s nemzeti rendezv\\u00e9nyekre haszn\\u00e1lnak.",
       ro: "Cel mai mare stadion din Madagascar, folosit pentru meciuri de rugby, turnee de fotbal \\u0219i evenimente na\\u021bionale.",
-      en: "Madagascar's largest stadium, used for rugby matches, football tournaments, and national events."
+      en: "Madagascar's largest stadium, used for rugby matches, football tournaments, and national events.",
+      es: "El estadio más grande de Madagascar, utilizado para partidos de rugby, torneos de fútbol y eventos nacionales.",
+      pt: "O maior estádio de Madagascar, utilizado para jogos de râguebi, torneios de futebol e eventos nacionais.",
+      fr: "Le plus grand stade de Madagascar, utilisé pour les matchs de rugby, les tournois de football et les événements nationaux.",
     },
     facts: {
       de: ["Bietet Platz f\\u00fcr etwa 40.000 Zuschauer", "K\\u00fcrzlich in Barea-Stadion umbenannt"],
       hu: ["K\\u00f6r\\u00fclbel\\u00fcl 40 000 n\\u00e9z\\u0151 befogad\\u00e1s\\u00e1ra alkalmas", "Nemr\\u00e9g \\u00e1tnevezt\\u00e9k Barea Stadionra"],
       ro: ["Are o capacitate de aproximativ 40.000 de spectatori", "Recent redenumit Stadionul Barea"],
-      en: ["Capacity for around 40,000 spectators", "Recently renamed to Barea Stadium"]
+      en: ["Capacity for around 40,000 spectators", "Recently renamed to Barea Stadium"],
+      es: ["Capacidad para unos 40.000 espectadores", "Recientemente rebautizado como Estadio Barea"],
+      pt: ["Capacidade para cerca de 40.000 espectadores", "Recentemente renomeado Estádio Barea"],
+      fr: ["Capacité d'environ 40 000 spectateurs", "Récemment rebaptisé Stade Barea"],
     }, image: "/poi-images/mahamasina-stadium-landmarks-v2.webp",
     
     
@@ -138,18 +165,27 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       hu: ["A vasútállomás építése 1908-tól 1910-ig tartott.", "Ez volt a kiindulópontja a Toamasinába vezető 371 km hosszú TCE vonalnak.", "A 'Soarano' név madagaszkári nyelven 'Jó vizet' jelent.", "Az épületet Fouchard építész tervezte francia stílusban.", "Ma az állomás többek között egy híres ínyenc étteremnek is helyet ad.", "Madagaszkár egyik legjobb állapotban fennmaradt gyarmati épületeként tartják számon."],
       ro: ["Construcția gării s-a desfășurat între anii 1908 și 1910.", "A fost punctul de plecare al liniei TCE, lungă de 371 km, către Toamasina.", "Numele 'Soarano' înseamnă 'Apă Bună' în limba malgașă.", "Clădirea a fost proiectată de arhitectul Fouchard în stil francez.", "În prezent, gara găzduiește, printre altele, un renumit restaurant gourmet.", "Este considerată una dintre cele mai bine conservate clădiri coloniale din Madagascar."],
       en: ["The construction of the station took place from 1908 to 1910.", "It was the starting point for the 371 km TCE line to Toamasina.", "The name 'Soarano' translates to 'Good Water' in Malagasy.", "The building was designed by architect Fouchard in a French style.", "Today, the station houses a well-known gourmet restaurant and retail spaces.", "It is regarded as one of the best-preserved colonial buildings in Madagascar."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Ein historischer Bahnhof in Antananarivo mit kolonialer Architektur, der heute als Gesch\\u00e4fts- und Ausstellungszentrum genutzt wird.",
       hu: "T\\u00f6rt\\u00e9nelmi p\\u00e1lyaudvar Antananariv\\u00f3ban gyarmati \\u00e9p\\u00edt\\u00e9szettel, amelyet ma \\u00fczleti \\u00e9s ki\\u00e1ll\\u00edt\\u00e1si k\\u00f6zpontk\\u00e9nt haszn\\u00e1lnak.",
       ro: "O gar\\u0103 istoric\\u0103 din Antananarivo cu arhitectur\\u0103 colonial\\u0103, folosit\\u0103 ast\\u0103zi ca centru comercial \\u0219i de expozi\\u021bii.",
-      en: "A historic railway station in Antananarivo featuring colonial architecture, now used as a business and exhibition center."
+      en: "A historic railway station in Antananarivo featuring colonial architecture, now used as a business and exhibition center.",
+      es: "Una estación de tren histórica en Antananarivo con arquitectura colonial, utilizada hoy como centro comercial y de exposiciones.",
+      pt: "Uma estação ferroviária histórica em Antananarivo com arquitetura colonial, hoje utilizada como centro comercial e de exposições.",
+      fr: "Une gare historique d'Antananarivo à l'architecture coloniale, aujourd'hui utilisée comme centre commercial et d'exposition.",
     },
     facts: {
       de: ["1910 vom Architekten Fouchard entworfen", "Zentraler Punkt der Hauptstadt"],
       hu: ["1910-ben Fouchard \\u00e9p\\u00edt\\u00e9sz tervezte", "A f\\u0151v\\u00e1ros k\\u00f6zponti pontja"],
       ro: ["Proiectat\\u0103 \\u00een 1910 de arhitectul Fouchard", "Punct central al capitalei"],
-      en: ["Designed by architect Fouchard in 1910", "A central point of the capital"]
+      en: ["Designed by architect Fouchard in 1910", "A central point of the capital"],
+      es: ["Diseñada en 1910 por el arquitecto Fouchard", "Punto central de la capital"],
+      pt: ["Projetada em 1910 pelo arquiteto Fouchard", "Ponto central da capital"],
+      fr: ["Conçue en 1910 par l'architecte Fouchard", "Point central de la capitale"],
     }, image: "/poi-images/gare-soarano-landmarks-v2.webp",
     
     
@@ -176,18 +212,27 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       hu: ["Az emlékművet hivatalosan 1927. május 26-án avatták fel.", "Az angyalalakot Barberis szobrászművész tervezte.", "Az első világháborúban elesett több mint 2300 madagaszkári katonának állít emléket.", "A talapzat körülbelül 15 méter magas, ezen áll a bronzszobor.", "Az Anosy-tó, amelyben az emlékmű áll, mesterséges eredetű.", "Az emlékmű a Mahamasina negyedben, a kormányzati negyed közelében található."],
       ro: ["Monumentul a fost inaugurat oficial la data de 26 mai 1927.", "Designul figurii îngerului aparține sculptorului Barberis.", "Omagiază cei peste 2.300 de soldați malgași căzuți în Primul Război Mondial.", "Soclul are o înălțime de aproximativ 15 metri, susținând îngerul de bronz.", "Lacul Anosy, unde se află monumentul, este un lac artificial creat în epoca regală.", "Monumentul este situat în cartierul Mahamasina, aproape de clădirile guvernamentale."],
       en: ["The monument was officially inaugurated on May 26, 1927.", "The design of the angel figure was created by the sculptor Barberis.", "It honors more than 2,300 Malagasy soldiers who perished in World War I.", "The pedestal stands about 15 meters high, topped by the bronze angel.", "Lake Anosy, where the monument is located, is a man-made lake.", "The site is situated in the Mahamasina district, near the government offices."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Ein Kriegsdenkmal in Form eines schwarzen Engels auf einer Insel im Anosy-See, das den Gefallenen des Ersten Weltkriegs gewidmet ist.",
       hu: "Egy fekete angyal alak\\u00fa h\\u00e1bor\\u00fas eml\\u00e9km\\u0171 az Anosy-t\\u00f3 sziget\\u00e9n, amelyet az els\\u0151 vil\\u00e1gh\\u00e1bor\\u00fa h\\u0151seinek \\u00e1ll\\u00edtottak.",
       ro: "Un monument de r\\u0103zboi \\u00een form\\u0103 de \\u00eenger negru pe o insul\\u0103 de pe lacul Anosy, dedicat celor c\\u0103zu\\u021bi \\u00een Primul R\\u0103zboi Mondial.",
-      en: "A war memorial in the shape of a black angel on an island in Lake Anosy, dedicated to the fallen of World War I."
+      en: "A war memorial in the shape of a black angel on an island in Lake Anosy, dedicated to the fallen of World War I.",
+      es: "Un monumento de guerra en forma de ángel negro en una isla del lago Anosy, dedicado a los caídos de la Primera Mundial.",
+      pt: "Um monumento de guerra em forma de anjo negro numa ilha do Lago Anosy, dedicado aos mortos na Primeira Guerra Mundial.",
+      fr: "Un monument aux morts en forme d'ange noir sur une île du lac Anosy, dédié aux combattants de la Première Guerre mondiale.",
     },
     facts: {
       de: ["Erbaut von den Franzosen 1927", "Steht im Zentrum eines herzf\\u00f6rmigen Sees"],
       hu: ["A franci\\u00e1k \\u00e9p\\u00edtett\\u00e9k 1927-ben", "Egy sz\\u00edv alak\\u00fa t\\u00f3 k\\u00f6zep\\u00e9n \\u00e1ll"],
       ro: ["Construit de francezi \\u00een 1927", "Situat \\u00een centrul unui lac \\u00een form\\u0103 de inim\\u0103"],
-      en: ["Built by the French in 1927", "Located in the center of a heart-shaped lake"]
+      en: ["Built by the French in 1927", "Located in the center of a heart-shaped lake"],
+      es: ["Construido por los franceses en 1927", "Se encuentra en el centro de un lago en forma de corazón"],
+      pt: ["Construído pelos franceses em 1927", "Situa-se no centro de um lago em forma de coração"],
+      fr: ["Construit par les Français en 1927", "Situé au centre d'un lac en forme de cœur"],
     }, image: "/poi-images/lake-anosy-monument-landmarks-v2.webp",
     
     
@@ -214,18 +259,27 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       hu: ["A jelenlegi világítótorony 1908-ban készült el.", "A torony magassága 14 méter a földfelszíntől mérve.", "A fény magassága a tengerszint felett 43 méter.", "A torony a Diego Suarez kikötő bejáratának keleti oldalán található.", "A fény hatótávolsága körülbelül 16 tengeri mérföld.", "A terület a második világháború alatt az Ironclad hadművelet helyszíne volt."],
       ro: ["Actualul far a fost finalizat în anul 1908.", "Înălțimea turnului este de 14 metri de la nivelul solului.", "Înălțimea planului focal este de 43 de metri deasupra nivelului mării.", "Este situat pe partea de est a intrării în portul Diego Suarez.", "Lumina farului are o rază de aproximativ 16 mile marine.", "Zona a fost locul de desfășurare a Operațiunii Ironclad în timpul celui de-al Doilea Război Mondial."],
       en: ["The current lighthouse was completed in the year 1908.", "The tower has a height of 14 meters from the ground up.", "The focal plane of the light is 43 meters above sea level.", "It is located on the eastern side of the entrance to the port of Diego Suarez.", "The light has a range of approximately 16 nautical miles.", "The area was a key site for Operation Ironclad during World War II."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Ein alter Leuchtturm in der Bucht von Diego Suarez, der noch immer Schiffen den Weg in eine der gr\\u00f6\\u00dften Buchten der Welt weist.",
       hu: "R\\u00e9gi vil\\u00e1g\\u00edt\\u00f3torony a Diego Suarez \\u00f6b\\u00f6lben, amely m\\u00e9g mindig utat mutat a haj\\u00f3knak a vil\\u00e1g egyik legnagyobb \\u00f6bl\\u00e9be.",
       ro: "Un far vechi din golful Diego Suarez, care \\u00eenc\\u0103 mai ghideaz\\u0103 navele \\u00eentr-unul dintre cele mai mari golfuri din lume.",
-      en: "An old lighthouse in the bay of Diego Suarez, which still guides ships into one of the world's largest bays."
+      en: "An old lighthouse in the bay of Diego Suarez, which still guides ships into one of the world's largest bays.",
+      es: "Un antiguo faro en la bahía de Diego Suarez, que aún guía a los barcos hacia una de las bahías más grandes del mundo.",
+      pt: "Um antigo faro na baía de Diego Suarez, que ainda guia os navios para uma das maiores baías do mundo.",
+      fr: "Un ancien phare dans la baie de Diego Suarez, qui guide encore les navires vers l'une des plus grandes baies du monde.",
     },
     facts: {
       de: ["Erbaut 1895", "15 Meter hoher Steinturm"],
       hu: ["1895-ben \\u00e9p\\u00fclt", "15 m\\u00e9ter magas k\\u0151torony"],
       ro: ["Construit \\u00een 1895", "Turn de piatr\\u0103 \\u00eenalt de 15 metri"],
-      en: ["Built in 1895", "15-meter-high stone tower"]
+      en: ["Built in 1895", "15-meter-high stone tower"],
+      es: ["Construido en 1895", "Torre de piedra de 15 metros de altura"],
+      pt: ["Construído em 1895", "Torre de pedra de 15 metros de altura"],
+      fr: ["Construit en 1895", "Tour en pierre de 15 mètres de haut"],
     },
     
     
@@ -252,18 +306,27 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       hu: ["A mai főépület 1922-ben épült gyarmati stílusban.", "V. Mohamed marokkói szultán 1954-ben itt élt száműzetésben.", "A szálloda 32 történelmi hangulatú szobával és lakosztállyal rendelkezik.", "Antsirabéban, körülbelül 1500 méteres tengerszint feletti magasságban található.", "Az épületet Madagaszkár nemzeti örökségének részévé nyilvánították.", "Az 1920-as években az ország legfényűzőbb szállodájaként tartották számon."],
       ro: ["Clădirea principală actuală a fost construită în 1922 în stil colonial.", "Sultanul Mohammed al V-lea al Marocului a locuit aici în exil în 1954.", "Hotelul dispune de 32 de camere și apartamente cu decor istoric.", "Este situat în Antsirabe la o altitudine de aproximativ 1.500 de metri.", "Clădirea este clasificată ca făcând parte din patrimoniul național al Madagascarului.", "În anii 1920, era considerat cel mai luxos hotel din întreaga țară."],
       en: ["The current main building was constructed in 1922 in a colonial style.", "Sultan Mohammed V of Morocco lived here in exile in 1954.", "The hotel features 32 rooms and suites with historic decor.", "It is located in Antsirabe at an altitude of approximately 1,500 meters.", "The building has been designated as a national heritage site in Madagascar.", "In the 1920s, it was considered the most luxurious hotel in the country."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Ein pr\\u00e4chtiges historisches Hotel in Antsirabe, bekannt f\\u00fcr seine beeindruckende Architektur und seine Thermalb\\u00e4der.",
       hu: "Egy pomp\\u00e1s t\\u00f6rt\\u00e9nelmi sz\\u00e1lloda Antsirabe v\\u00e1ros\\u00e1ban, amely leny\\u0171g\\u00f6z\\u0151 \\u00e9p\\u00edt\\u00e9szet\\u00e9r\\u0151l \\u00e9s term\\u00e1lf\\u00fcrd\\u0151ir\\u0151l ismert.",
       ro: "Un hotel istoric magnific \\u00een Antsirabe, cunoscut pentru arhitectura sa impresionant\\u0103 \\u0219i b\\u0103ile termale.",
-      en: "A magnificent historic hotel in Antsirabe, known for its impressive architecture and thermal baths."
+      en: "A magnificent historic hotel in Antsirabe, known for its impressive architecture and thermal baths.",
+      es: "Un magnífico hotel histórico en Antsirabe, conocido por su impresionante arquitectura y sus baños termales.",
+      pt: "Um magnífico hotel histórico em Antsirabe, conhecido pela sua impressionante arquitetura e banhos termais.",
+      fr: "Un magnifique hôtel historique à Antsirabe, réputé pour son architecture impressionnante et ses bains thermaux.",
     },
     facts: {
       de: ["Er\\u00f6ffnet im Jahr 1897", "Zufluchtsort von K\\u00f6nig Mohammed V. von Marokko 1954"],
       hu: ["1897-ben nyitott\\u00e1k meg", "V. Mohammed marokk\\u00f3i kir\\u00e1ly mened\\u00e9ke volt 1954-ben"],
       ro: ["Deschis \\u00een 1897", "Loc de refugiu pentru regele Mohammed al V-lea al Marocului \\u00een 1954"],
-      en: ["Opened in 1897", "Refuge of King Mohammed V of Morocco in 1954"]
+      en: ["Opened in 1897", "Refuge of King Mohammed V of Morocco in 1954"],
+      es: ["Inaugurado en 1897", "Refugio del rey Mohammed V de Marruecos en 1954"],
+      pt: ["Inaugurado em 1897", "Refúgio do rei Mohammed V de Marrocos em 1954"],
+      fr: ["Ouvert en 1897", "Lieu d'exil du roi Mohammed V du Maroc en 1954"],
     },
     
     
@@ -290,18 +353,27 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       hu: ["A mecset a Menabe régió legnagyobb iszlám imaháza.", "Építészete klasszikus arab hatásokat mutat modern részletekkel ötvözve.", "A minaretek a környék legmagasabb építményei.", "Morondava városközpontjában, a csatorna közelében található.", "A mecsetben Korán-tanfolyamokat is tartanak a közösség gyermekei számára.", "Morondavában történelmileg jelentős muszlim kereskedelmi közösség él."],
       ro: ["Moscheea este cel mai mare lăcaș de cult islamic din regiunea Menabe.", "Arhitectura sa prezintă influențe arabe clasice împletite cu detalii moderne.", "Minaretele moscheii sunt cele mai înalte structuri din zona imediată.", "Este situată în centrul orașului Morondava, aproape de canal.", "În incintă se desfășoară cursuri coranice pentru copiii din comunitate.", "Morondava găzduiește o comunitate istorică de comercianți musulmani."],
       en: ["The mosque is the largest Islamic place of worship in the Menabe region.", "Its architecture displays classical Arabic influences with modern accents.", "The minarets are the tallest structures in the immediate vicinity.", "It is located in Morondava's city center, near the main canal.", "The mosque also hosts Quranic classes for the community's children.", "Morondava has a historically significant Muslim merchant community."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Die wichtigste Moschee in der K\\u00fcstenstadt Morondava, die einen wichtigen Treffpunkt f\\u00fcr die lokale muslimische Gemeinschaft darstellt.",
       hu: "A legfontosabb mecset a tengerparti Morondava v\\u00e1ros\\u00e1ban, amely fontos tal\\u00e1lkoz\\u00e1si pont a helyi muszlim k\\u00f6z\\u00f6ss\\u00e9g sz\\u00e1m\\u00e1ra.",
       ro: "Cea mai important\\u0103 moschee din ora\\u0219ul de coast\\u0103 Morondava, care reprezint\\u0103 un punct de \\u00eent\\u00e2lnire important pentru comunitatea musulman\\u0103 local\\u0103.",
-      en: "The main mosque in the coastal town of Morondava, serving as an important gathering place for the local Muslim community."
+      en: "The main mosque in the coastal town of Morondava, serving as an important gathering place for the local Muslim community.",
+      es: "La mezquita más importante de la ciudad costera de Morondava, que representa un punto de encuentro clave para la comunidad musulmana local.",
+      pt: "A mesquita mais importante da cidade costeira de Morondava, que representa um ponto de encontro fundamental para a comunidade muçulmana local.",
+      fr: "La plus importante mosquée de la ville côtière de Morondava, qui constitue un point de rencontre majeur pour la communauté musulmane locale.",
     },
     facts: {
       de: ["Markantes gr\\u00fcnes Minarett", "Zentrum des islamischen Lebens in der Menabe-Region"],
       hu: ["Jellegzetes z\\u00f6ld minaret", "Az iszl\\u00e1m \\u00e9let k\\u00f6zpontja a Menabe r\\u00e9gi\\u00f3ban"],
       ro: ["Minaret verde distinctiv", "Centrul vie\\u021bii islamice din regiunea Menabe"],
-      en: ["Distinctive green minaret", "Center of Islamic life in the Menabe region"]
+      en: ["Distinctive green minaret", "Center of Islamic life in the Menabe region"],
+      es: ["Minarete verde distintivo", "Centro de la vida islámica en la región de Menabe"],
+      pt: ["Minarete verde distinto", "Centro da vida islâmica na região de Menabe"],
+      fr: ["Minaret vert distinctif", "Centre de la vie islamique dans la région du Menabe"],
     }, image: "/poi-images/morondava-mosque-landmarks-v2.webp",
     
     
@@ -328,18 +400,27 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       hu: ["A Fianarantsoai Főegyházmegye érseki székhelye.", "A város történelmi felső negyedében, a Haute Ville-ben áll.", "A 20. század elején, a francia gyarmati uralom alatt épült.", "Homlokzatát két jellegzetes, robusztus harangtorony díszíti.", "A Betsileo népcsoport legfontosabb katolikus vallási központja.", "Kiemelkedő pontjáról belátható az egész város és környéke."],
       ro: ["Sediul oficial al Arhidiecezei de Fianarantsoa.", "Situată în cartierul istoric superior, numit Haute Ville.", "Construită la începutul secolului XX în stil neogotic.", "Fațada principală prezintă două turnuri simetrice masive.", "Reprezintă principalul centru spiritual pentru etnia Betsileo.", "Locația oferă o vedere panoramică asupra zonelor de viță-de-vie."],
       en: ["Official seat of the Archdiocese of Fianarantsoa.", "Located in the historic Upper Town district (Haute Ville).", "Built during the early 20th century colonial era.", "The facade features two distinctive square bell towers.", "Primary religious center for the Betsileo ethnic group.", "Provides a vantage point for viewing the city's terraced hills."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Eine markante Kathedrale aus roten Ziegeln in der Altstadt von Fianarantsoa, oft als religi\\u00f6ses Zentrum des s\\u00fcdlichen Madagaskar bezeichnet.",
       hu: "Egy jellegzetes v\\u00f6r\\u00f6st\\u00e9gl\\u00e1s katedr\\u00e1lis Fianarantsoa \\u00f3v\\u00e1ros\\u00e1ban, amelyet gyakran D\\u00e9l-Madagaszk\\u00e1r vall\\u00e1si k\\u00f6zpontj\\u00e1nak neveznek.",
       ro: "O catedral\\u0103 distinctiv\\u0103 din c\\u0103r\\u0103mid\\u0103 ro\\u0219ie \\u00een ora\\u0219ul vechi din Fianarantsoa, adesea numit\\u0103 centrul religios al sudului Madagascarului.",
-      en: "A distinctive red-brick cathedral in the old town of Fianarantsoa, often considered the religious center of southern Madagascar."
+      en: "A distinctive red-brick cathedral in the old town of Fianarantsoa, often considered the religious center of southern Madagascar.",
+      es: "Una prominente catedral de ladrillo rojo en el casco antiguo de Fianarantsoa, a menudo llamada el centro religioso del sur de Madagascar.",
+      pt: "Uma proeminente catedral de tijolo vermelho na cidade velha de Fianarantsoa, frequentemente referida como o centro religioso do sul de Madagáscar.",
+      fr: "Une cathédrale remarquable en briques rouges dans la vieille ville de Fianarantsoa, souvent considérée comme le centre religieux du sud de Madagascar.",
     },
     facts: {
       de: ["Erbaut zwischen 1871 und 1890", "Liegt auf dem H\\u00fcgel der Altstadt (Haute Ville)"],
       hu: ["1871 \\u00e9s 1890 k\\u00f6z\\u00f6tt \\u00e9p\\u00fclt", "Az \\u00f3v\\u00e1ros (Haute Ville) dombj\\u00e1n tal\\u00e1lhat\\u00f3"],
       ro: ["Construit\\u0103 \\u00eentre 1871 \\u0219i 1890", "Situat\\u0103 pe dealul ora\\u0219ului vechi (Haute Ville)"],
-      en: ["Built between 1871 and 1890", "Located on the hill of the Old Town (Haute Ville)"]
+      en: ["Built between 1871 and 1890", "Located on the hill of the Old Town (Haute Ville)"],
+      es: ["Construida entre 1871 y 1890", "Ubicada en la colina de la ciudad vieja (Haute Ville)"],
+      pt: ["Construída entre 1871 e 1890", "Localizada na colina da cidade velha (Haute Ville)"],
+      fr: ["Construite entre 1871 et 1890", "Située sur la colline de la vieille ville (Haute Ville)"],
     }, image: "/poi-images/cathedrale-st-joseph-fianarantsoa-landmarks-v2.webp",
     
     
@@ -366,18 +447,27 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       hu: ["Az eredeti híd 1934-ben készült el francia tervek alapján.", "Az RN4-es főúton található, 400 km-re Antananarivótól.", "Az új modern híd teljes hossza 280 méter.", "A fejlesztést a Japán Nemzetközi Együttműködési Ügynökség támogatta.", "A régi híd szegecselt acélszerkezete az Eiffel-stílus jegyeit hordozza.", "A híd alapvető a Mahajanga kikötőjébe tartó teherforgalom számára."],
       ro: ["Podul original a fost inaugurat în anul 1934.", "Este situat pe drumul național RN4, vital pentru economie.", "Noul pod modern are o lungime totală de 280 de metri.", "Construcția noului pod a fost finanțată de Japonia (JICA).", "Structura veche utilizează tehnici metalice specifice stilului Eiffel.", "Reprezintă singura legătură rutieră majoră peste râul Kamoro."],
       en: ["The original bridge was completed in 1934.", "Located on National Road 4, the main link to Mahajanga.", "The new replacement bridge is 280 meters long.", "Funding for the new bridge was provided by Japan (JICA).", "The old structure reflects the iconic Eiffel engineering style.", "Crucial for transporting commercial goods to the northwest coast."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Eine historische H\\u00e4ngebr\\u00fccke \\u00fcber den Kamoro-Fluss auf der Nationalstra\\u00dfe 4, entworfen in der Eiffel-\\u00c4ra.",
       hu: "T\\u00f6rt\\u00e9nelmi f\\u00fcgg\\u0151h\\u00edd a Kamoro foly\\u00f3 felett a 4-es f\\u0151\\u00faton, amelyet az Eiffel-korszakban terveztek.",
       ro: "Un pod suspendat istoric peste r\\u00e2ul Kamoro de pe drumul na\\u021bional 4, proiectat \\u00een era Eiffel.",
-      en: "A historic suspension bridge over the Kamoro River on National Road 4, designed in the Eiffel era."
+      en: "A historic suspension bridge over the Kamoro River on National Road 4, designed in the Eiffel era.",
+      es: "Un histórico puente colgante sobre el río Kamoro en la Carretera Nacional 4, diseñado en la época de Eiffel.",
+      pt: "Uma histórica ponte suspensa sobre o rio Kamoro na Estrada Nacional 4, projetada na era Eiffel.",
+      fr: "Un pont suspendu historique sur la rivière Kamoro sur la Route Nationale 4, conçu à l'époque Eiffel.",
     },
     facts: {
       de: ["Erbaut 1927", "Erneuert im Jahr 2017 f\\u00fcr schwereren Verkehr"],
       hu: ["1927-ben \\u00e9p\\u00fclt", "2017-ben fel\\u00faj\\u00edtott\\u00e1k a nehezebb forgalom sz\\u00e1m\\u00e1ra"],
       ro: ["Construit \\u00een 1927", "Renovat \\u00een 2017 pentru trafic mai greu"],
-      en: ["Built in 1927", "Renovated in 2017 for heavier traffic"]
+      en: ["Built in 1927", "Renovated in 2017 for heavier traffic"],
+      es: ["Construido en 1927", "Renovado en 2017 para tráfico más pesado"],
+      pt: ["Construída em 1927", "Renovada em 2017 para tráfego mais pesado"],
+      fr: ["Construit en 1927", "Rénové en 2017 pour un trafic plus lourd"],
     }, image: "/poi-images/pont-kamoro-landmarks-v2.webp",
     
     
@@ -404,18 +494,27 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       hu: ["Az egyetemet hivatalosan 1961-ben alapították.", "A campus az Ankatso nevű városrészben található.", "Évente több mint 30 000 hallgató tanul itt.", "Az 1955-ben létrehozott felsőoktatási központból fejlődött ki.", "Madagaszkár legnagyobb kutatási és tudományos bázisa.", "Területén számos kar, laboratórium és könyvtár működik."],
       ro: ["Fondată oficial în anul 1961.", "Campusul este situat în districtul Ankatso.", "Găzduiește anual peste 30.000 de studenți.", "A evoluat din Centrul de Studii Superioare creat în 1955.", "Este principala bază de cercetare științifică din țară.", "Include numeroase facultăți, de la științe la litere."],
       en: ["Founded in 1961 as the national university.", "The campus is located in the Ankatso district.", "Enrolls more than 30,000 students every year.", "Developed from the 1955 Center for Higher Education.", "Main hub for scientific research in Madagascar.", "Comprises several specialized faculties and institutes."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Der Hauptcampus der \\u00e4ltesten und gr\\u00f6\\u00dften Universit\\u00e4t in Madagaskar in Ankatso, bekannt f\\u00fcr seine modernistische Architektur aus den 1960er Jahren.",
       hu: "Madagaszk\\u00e1r legr\\u00e9gebbi \\u00e9s legnagyobb egyetem\\u00e9nek f\\u0151 kampusza Ankatso-ban, amely 1960-as \\u00e9vekbeli modernista \\u00e9p\\u00edt\\u00e9szet\\u00e9r\\u0151l ismert.",
       ro: "Campusul principal al celei mai vechi \\u0219i mari universit\\u0103\\u021bi din Madagascar din Ankatso, cunoscut pentru arhitectura sa modernist\\u0103 din anii 1960.",
-      en: "The main campus of the oldest and largest university in Madagascar in Ankatso, known for its modernist architecture from the 1960s."
+      en: "The main campus of the oldest and largest university in Madagascar in Ankatso, known for its modernist architecture from the 1960s.",
+      es: "El campus principal de la universidad más antigua y grande de Madagascar en Ankatso, conocido por su arquitectura modernista de la década de 1960.",
+      pt: "O campus principal da maior e mais antiga universidade de Madagáscar, em Ankatso, conhecido pela sua arquitetura modernista dos anos 60.",
+      fr: "Le campus principal de la plus ancienne et de la plus grande université de Madagascar à Ankatso, connu pour son architecture moderniste des années 1960.",
     },
     facts: {
       de: ["Gegr\\u00fcndet 1955", "Liegt am Rande der Hauptstadt"],
       hu: ["1955-ben alap\\u00edtott\\u00e1k", "A f\\u0151v\\u00e1ros sz\\u00e9l\\u00e9n tal\\u00e1lhat\\u00f3"],
       ro: ["Fondat\\u0103 \\u00een 1955", "Situat\\u0103 la marginea capitalei"],
-      en: ["Founded in 1955", "Located on the outskirts of the capital"]
+      en: ["Founded in 1955", "Located on the outskirts of the capital"],
+      es: ["Fundada en 1955", "Situada en las afueras de la capital"],
+      pt: ["Fundada em 1955", "Situada na periferia da capital"],
+      fr: ["Fondée en 1955", "Située à la périphérie de la capitale"],
     }, image: "/poi-images/university-of-antananarivo-landmarks-v2.webp",
     
     
@@ -442,18 +541,27 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       hu: ["A 20. század első évtizedeiben épült.", "Antananarivo Amparibe nevű városrészében található.", "A város első modern vízellátó rendszerének része volt.", "A neves Szent Mihály Kollégium szomszédságában áll.", "Szerkezete masszív kőből és betonból készült.", "Az alsóbb városrészek víznyomásának biztosítására szolgált."],
       ro: ["Construit la începutul secolului al XX-lea.", "Situat în cartierul Amparibe din Antananarivo.", "Face parte din primul sistem modern de alimentare cu apă.", "Se află în apropierea renumitului Colegiu Saint-Michel.", "Structura este realizată din piatră masivă și beton.", "A fost proiectat pentru a alimenta cartierele de la altitudine joasă."],
       en: ["Built at the beginning of the 20th century.", "Located in the Amparibe district of Antananarivo.", "Part of the city's first modern water supply network.", "Situated near the prestigious Saint-Michel College.", "The structure is made of massive stone and concrete.", "Designed to supply water to the lower city neighborhoods."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Ein historischer Wasserturm aus der franz\\u00f6sischen Kolonialzeit im Viertel Amparibe in Antananarivo.",
       hu: "Egy t\\u00f6rt\\u00e9nelmi v\\u00edztorony a francia gyarmati id\\u0151szakb\\u00f3l Antananarivo Amparibe negyed\\u00e9ben.",
       ro: "Un turn de ap\\u0103 istoric din perioada colonial\\u0103 francez\\u0103 \\u00een cartierul Amparibe din Antananarivo.",
-      en: "A historic water tower from the French colonial era in the Amparibe district of Antananarivo."
+      en: "A historic water tower from the French colonial era in the Amparibe district of Antananarivo.",
+      es: "Una histórica torre de agua de la época colonial francesa en el barrio de Amparibe, en Antananarivo.",
+      pt: "Uma torre de água histórica da era colonial francesa no bairro de Amparibe, em Antananarivo.",
+      fr: "Un château d'eau historique de l'époque coloniale française situé dans le quartier d'Amparibe à Antananarivo.",
     },
     facts: {
       de: ["Fr\\u00fches Beispiel industrieller Infrastruktur", "Sichtbares Wahrzeichen der Stadt"],
       hu: ["Az ipari infrastrukt\\u00fara korai p\\u00e9ld\\u00e1ja", "A v\\u00e1ros l\\u00e1that\\u00f3 nevezetess\\u00e9ge"],
       ro: ["Exemplu timpuriu al infrastructurii industriale", "Punct de reper vizibil al ora\\u0219ului"],
-      en: ["Early example of industrial infrastructure", "Visible landmark of the city"]
+      en: ["Early example of industrial infrastructure", "Visible landmark of the city"],
+      es: ["Ejemplo temprano de infraestructura industrial", "Hito visible de la ciudad"],
+      pt: ["Exemplo precoce de infraestrutura industrial", "Marco visível da cidade"],
+      fr: ["Exemple précoce d'infrastructure industrielle", "Repère visible de la ville"],
     }, image: "/poi-images/chateau-d-eau-amparibe-landmarks-v2.webp",
     
     
@@ -480,18 +588,27 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       hu: ["Madagaszkár legnagyobb kikötője, a konténerforgalom 90%-át adja.", "Az állami tulajdonú SPAT társaság működteti.", "Japán jelentős hitellel támogatta a 2018-ban kezdődött bővítést.", "A világ vaníliaexportjának egyik legfontosabb indítóállomása.", "Speciális olajterminállal és gabonasilókkal is rendelkezik.", "Közvetlen vasúti összeköttetése van a fővárossal."],
       ro: ["Cel mai mare port din țară, procesând 90% din containere.", "Administrat de entitatea de stat SPAT.", "Japonia a finanțat o expansiune masivă începând cu 2018.", "Principalul punct de export pentru vanilie și nichel.", "Include terminale specializate pentru petrol și silozuri de cereale.", "Conectat direct la Antananarivo prin calea ferată TCE."],
       en: ["Largest port in Madagascar, handling 90% of container traffic.", "Managed by the state-owned authority SPAT.", "Japan funded a massive expansion project starting in 2018.", "Main export hub for the world's vanilla and industrial minerals.", "Features specialized oil terminals and large grain silos.", "Directly connected to Antananarivo by the TCE railway line."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Die Hauptinfrastruktur des gr\\u00f6\\u00dften Seehafens Madagaskars, der den gr\\u00f6\\u00dften Teil des internationalen Handels des Landes abwickelt.",
       hu: "Madagaszk\\u00e1r legnagyobb tengeri kik\\u00f6t\\u0151j\\u00e9nek f\\u0151 infrastrukt\\u00far\\u00e1ja, amely az orsz\\u00e1g nemzetk\\u00f6zi kereskedelm\\u00e9nek nagy r\\u00e9sz\\u00e9t bonyol\\u00edtja.",
       ro: "Infrastructura principal\\u0103 a celui mai mare port maritim din Madagascar, care gestioneaz\\u0103 cea mai mare parte a comer\\u021bului interna\\u021bional al \\u021b\\u0103rii.",
-      en: "The main infrastructure of Madagascar's largest seaport, which handles most of the country's international trade."
+      en: "The main infrastructure of Madagascar's largest seaport, which handles most of the country's international trade.",
+      es: "La infraestructura principal del puerto marítimo más grande de Madagascar, que maneja la mayor parte del comercio internacional del país.",
+      pt: "A infraestrutura principal do maior porto marítimo de Madagascar, que movimenta a maior parte do comércio internacional do país.",
+      fr: "L'infrastructure principale du plus grand port maritime de Madagascar, qui gère la majeure partie du commerce international du pays.",
     },
     facts: {
       de: ["Verarbeitet \\u00fcber 70% des Seehandels", "Derzeit umfangreiche Modernisierung"],
       hu: ["A tengeri kereskedelem t\\u00f6bb mint 70%-\\u00e1t kezeli", "Jelenleg \\u00e1tfog\\u00f3 moderniz\\u00e1ci\\u00f3n esik \\u00e1t"],
       ro: ["Gestioneaz\\u0103 peste 70% din comer\\u021bul maritim", "\\u00cen prezent \\u00een curs de modernizare masiv\\u0103"],
-      en: ["Handles over 70% of maritime trade", "Currently undergoing massive modernization"]
+      en: ["Handles over 70% of maritime trade", "Currently undergoing massive modernization"],
+      es: ["Maneja más del 70% del comercio marítimo", "Actualmente en proceso de modernización extensiva"],
+      pt: ["Processa mais de 70% do comércio marítimo", "Atualmente em fase de modernização extensiva"],
+      fr: ["Traite plus de 70 % du commerce maritime", "Actuellement en cours de modernisation complète"],
     }, image: "/poi-images/port-of-toamasina-landmarks-v2.webp",
     
     
@@ -518,18 +635,27 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       hu: ["Madagaszkár egyik legmagasabb irodaháza.", "Az Ankorondrano nevű modern üzleti negyedben áll.", "Nemzetközi cégek és bankok központja.", "Építészetére a nagy üvegfelületek használata jellemző.", "Korszerű biztonsági és kommunikációs rendszerekkel felszerelt.", "Meghatározó eleme Antananarivo északi látképének."],
       ro: ["Una dintre cele mai înalte clădiri de birouri din Madagascar.", "Situată în cartierul de afaceri Ankorondrano.", "Găzduiește numeroase bănci și corporații internaționale.", "Arhitectura se bazează pe fațade largi de sticlă.", "Echipată cu sisteme moderne de securitate și telecomunicații.", "Reprezintă un element cheie al orizontului urban din Antananarivo."],
       en: ["One of the tallest office buildings in Madagascar.", "Located in the Ankorondrano business district.", "A hub for international corporations and banks.", "The architecture features extensive glass facades.", "Equipped with modern security and communication systems.", "A key component of the Antananarivo city skyline."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Eines der wenigen modernen Hochh\\u00e4user und Gesch\\u00e4ftszentren in Antananarivo im Gesch\\u00e4ftsviertel Ankorondrano.",
       hu: "Antananarivo kev\\u00e9s modern toronyh\\u00e1z\\u00e1nak \\u00e9s \\u00fczleti k\\u00f6zpontj\\u00e1nak egyike az Ankorondrano \\u00fczleti negyedben.",
       ro: "Unul dintre pu\\u021binele cl\\u0103diri moderne \\u0219i centre de afaceri din Antananarivo, situat \\u00een cartierul de afaceri Ankorondrano.",
-      en: "One of the few modern high-rises and business centers in Antananarivo, located in the Ankorondrano business district."
+      en: "One of the few modern high-rises and business centers in Antananarivo, located in the Ankorondrano business district.",
+      es: "Uno de los pocos rascacielos y centros de negocios modernos de Antananarivo, situado en el distrito financiero de Ankorondrano.",
+      pt: "Um dos poucos arranha-céus e centros de negócios modernos em Antananarivo, no distrito comercial de Ankorondrano.",
+      fr: "L'un des rares gratte-ciel et centres d'affaires modernes d'Antananarivo, situé dans le quartier des affaires d'Ankorondrano.",
     },
     facts: {
       de: ["Symbol der modernen Wirtschaft", "Verf\\u00fcgt \\u00fcber moderne Glasfassaden"],
       hu: ["A modern gazdas\\u00e1g szimb\\u00f3luma", "Modern \\u00fcveghomlokzatokkal rendelkezik"],
       ro: ["Simbol al economiei moderne", "Prezint\\u0103 fa\\u021bade moderne din sticl\\u0103"],
-      en: ["Symbol of the modern economy", "Features modern glass facades"]
+      en: ["Symbol of the modern economy", "Features modern glass facades"],
+      es: ["Símbolo de la economía moderna", "Cuenta con modernas fachadas de cristal"],
+      pt: ["Símbolo da economia moderna", "Possui fachadas de vidro modernas"],
+      fr: ["Symbole de l'économie moderne", "Dispose de façades en verre modernes"],
     }, image: "/poi-images/tour-zital-landmarks-v2.webp",
     
     
@@ -556,18 +682,27 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       hu: ["A Tengerészeti Tudományok Intézetének (IHSM) része.", "Egy ritka, tartósított bojtosúszós maradványhalat őriz.", "Az 1960-as években alapították a tengerpart kutatására.", "Hatalmas korall- és kagylógyűjteménnyel rendelkezik.", "Dél-Madagaszkár legfontosabb tengerbiológiai oktatóközpontja.", "Toliara kikötőjének közelében található."],
       ro: ["Face parte din Institutul de Științe Marine (IHSM).", "Găzduiește un exemplar rar de coelacant conservat.", "Fondat în anii 1960 pentru cercetarea zonei de coastă.", "Prezintă o colecție vastă de corali și scoici marine.", "Principalul centru educațional de biologie marină din sud.", "Este situat în apropierea portului din Toliara."],
       en: ["Part of the Institute of Marine Sciences (IHSM).", "Houses a rare preserved coelacanth specimen.", "Established in the 1960s for coastal research.", "Features an extensive collection of corals and shells.", "Main educational center for marine biology in the south.", "Located near the port area of Toliara."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Ein wichtiges wissenschaftliches Geb\\u00e4ude und Museum der Universit\\u00e4t Toliara, das der maritimen Biodiversit\\u00e4t gewidmet ist.",
       hu: "A Toliara Egyetem fontos tudom\\u00e1nyos \\u00e9p\\u00fclete \\u00e9s m\\u00fazeuma, amelyet a tengeri biodiverzit\\u00e1snak szenteltek.",
       ro: "O cl\\u0103dire \\u0219tiin\\u021bific\\u0103 important\\u0103 \\u0219i muzeu al Universit\\u0103\\u021bii din Toliara, dedicat biodiversit\\u0103\\u021bii maritime.",
-      en: "An important scientific building and museum of the University of Toliara, dedicated to maritime biodiversity."
+      en: "An important scientific building and museum of the University of Toliara, dedicated to maritime biodiversity.",
+      es: "Un importante edificio científico y museo de la Universidad de Toliara, dedicado a la biodiversidad marina.",
+      pt: "Um importante edifício científico e museu da Universidade de Toliara, dedicado à biodiversidade marinha.",
+      fr: "Un bâtiment scientifique et un musée importants de l'université de Toliara, consacrés à la biodiversité marine.",
     },
     facts: {
       de: ["Enth\\u00e4lt seltene Quastenflosser-Pr\\u00e4parate", "Wichtiges Forschungszentrum im S\\u00fcden"],
       hu: ["Ritka bojtos\\u00fasz\\u00f3s hal prepar\\u00e1tumokat tartalmaz", "Fontos kutat\\u00f3k\\u00f6zpont d\\u00e9len"],
       ro: ["Con\\u021bine exemplare rare de celacant", "Important centru de cercetare din sud"],
-      en: ["Contains rare coelacanth specimens", "Important research center in the south"]
+      en: ["Contains rare coelacanth specimens", "Important research center in the south"],
+      es: ["Contiene especímenes raros de celacanto", "Importante centro de investigación en el sur"],
+      pt: ["Contém espécimes raros de celacanto", "Importante centro de investigação no sul"],
+      fr: ["Contient des spécimens rares de coelacanthes", "Centre de recherche important dans le sud"],
     }, image: "/poi-images/tulear-sea-museum-landmarks-v2.webp",
     
     
@@ -594,18 +729,27 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       hu: ["Claude Laurige francia építész tervezte az 1930-as években.", "A híres pénteki piac, a Zoma helyszíne volt.", "Az épületeket jellegzetes fehér, íves tetőszerkezet jellemzi.", "A textil- és kézműves kereskedelem központja.", "A Függetlenség sugárút (Avenue de l'Indépendance) végén áll.", "Antananarivo alsóvárosának legfontosabb kereskedelmi csomópontja."],
       ro: ["Proiectate de arhitectul Claude Laurige în anii 1930.", "Locația istorică a faimoasei piețe în aer liber Zoma.", "Pavilioanele au acoperișuri în formă de boltă de culoare albă.", "Centru major pentru comerțul cu textile și artizanat.", "Situate la capătul bulevardului Avenue de l'Indépendance.", "Inima comercială a orașului de jos din Antananarivo."],
       en: ["Designed by architect Claude Laurige in the 1930s.", "The former site of the famous outdoor 'Zoma' market.", "The pavilions are known for their distinctive vaulted white roofs.", "A central hub for trading textiles and local handicrafts.", "Located at the foot of the Avenue de l'Indépendance.", "The primary commercial center for the lower city of Antananarivo."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Eine Reihe historischer Pavillons im Stadtzentrum von Antananarivo, die als \\u00fcberdachter Markt dienen.",
       hu: "T\\u00f6rt\\u00e9nelmi pavilonok sora Antananarivo k\\u00f6zpontj\\u00e1ban, amelyek fedett piack\\u00e9nt m\\u0171k\\u00f6dnek.",
       ro: "O serie de pavilioane istorice din centrul ora\\u0219ului Antananarivo, care servesc drept pia\\u021b\\u0103 acoperit\\u0103.",
-      en: "A series of historic pavilions in downtown Antananarivo that serve as a covered market."
+      en: "A series of historic pavilions in downtown Antananarivo that serve as a covered market.",
+      es: "Una serie de pabellones históricos en el centro de Antananarivo que sirven como mercado cubierto.",
+      pt: "Uma série de pavilhões históricos no centro de Antananarivo que servem como mercado coberto.",
+      fr: "Une série de pavillons historiques au centre d'Antananarivo servant de marché couvert.",
     },
     facts: {
       de: ["Erbaut in den 1920er Jahren", "Charakteristische wei\\u00dfe Ziegeld\\u00e4cher"],
       hu: ["Az 1920-as \\u00e9vekben \\u00e9p\\u00fcltek", "Jellegzetes feh\\u00e9r cserepes tet\\u0151k"],
       ro: ["Construite \\u00een anii 1920", "Acoperi\\u0219uri albe distinctive"],
-      en: ["Built in the 1920s", "Distinctive white tiled roofs"]
+      en: ["Built in the 1920s", "Distinctive white tiled roofs"],
+      es: ["Construido en la década de 1920", "Característicos techos de tejas blancas"],
+      pt: ["Construído na década de 1920", "Telhados de telha branca característicos"],
+      fr: ["Construit dans les années 1920", "Toits en tuiles blanches caractéristiques"],
     }, image: "/poi-images/ambalonamana-market-hall-landmarks-v2.webp",
     
     
@@ -632,18 +776,27 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       hu: ["Fontos navigációs pont Nosy Be északi részén.", "Biztosítja az eljutást Ambatoloaka turisztikai központjába.", "A francia gyarmati igazgatás idején épült.", "Kilátást nyújt a Mozambiki-csatornára.", "A közelében számos búváriskola működik.", "Alapvető a regionális hajózás biztonsága szempontjából."],
       ro: ["Punct de navigație major în nordul insulei Nosy Be.", "Asigură accesul către centrul turistic Ambatoloaka.", "Construit în timpul administrației coloniale franceze.", "Oferă o panoramă asupra Canalului Mozambic.", "În apropiere se află numeroase școli de scufundări.", "Contribuie la siguranța navigației regionale."],
       en: ["Crucial navigation point in the north of Nosy Be.", "Secures access to the tourist hub of Ambatoloaka.", "Built during the French colonial administration.", "Provides a view over the Mozambique Channel.", "Located near numerous diving schools and resorts.", "Essential for the safety of regional maritime traffic."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Ein markanter Navigationspunkt auf der Insel Nosy Be, der eine weite Sicht \\u00fcber den Kanal von Mosambik bietet.",
       hu: "Kiemelked\\u0151 navig\\u00e1ci\\u00f3s pont Nosy Be sziget\\u00e9n, amely sz\\u00e9les kil\\u00e1t\\u00e1st ny\\u00fajt a Mozambiki-csatorn\\u00e1ra.",
       ro: "Un punct de naviga\\u021bie proeminent pe insula Nosy Be, oferind o vedere larg\\u0103 asupra Canalului Mozambic.",
-      en: "A prominent navigation point on the island of Nosy Be, offering a wide view over the Mozambique Channel."
+      en: "A prominent navigation point on the island of Nosy Be, offering a wide view over the Mozambique Channel.",
+      es: "Un punto de navegación prominente en la isla de Nosy Be, que ofrece una amplia vista sobre el Canal de Mozambique.",
+      pt: "Um ponto de navegação proeminente na ilha de Nosy Be, que oferece uma vista ampla sobre o Canal de Moçambique.",
+      fr: "Un point de navigation marquant sur l'île de Nosy Be, offrant une vue étendue sur le canal du Mozambique.",
     },
     facts: {
       de: ["Wichtig f\\u00fcr den lokalen Fischfang", "Beliebtes Ziel f\\u00fcr Sonnenunterg\\u00e4nge"],
       hu: ["Fontos a helyi hal\\u00e1szat sz\\u00e1m\\u00e1ra", "N\\u00e9pszer\\u0171 c\\u00e9lpont naplementekor"],
       ro: ["Important pentru pescuitul local", "Destina\\u021bie popular\\u0103 pentru apusuri de soare"],
-      en: ["Important for local fishing", "Popular destination for sunsets"]
+      en: ["Important for local fishing", "Popular destination for sunsets"],
+      es: ["Importante para la pesca local", "Destino popular para los atardeceres"],
+      pt: ["Importante para a pesca local", "Destino popular para o pôr do sol"],
+      fr: ["Important pour la pêche locale", "Destination prisée pour les couchers de soleil"],
     }, image: "/poi-images/nosy-be-lighthouse-landmarks-v2.webp",
     
     
@@ -670,18 +823,27 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       hu: ["1643-ban alapították a francia telepesek.", "Étienne de Flacourt kormányzóról kapta a nevét.", "Madagaszkár első állandó francia települése volt.", "Tolagnaro egyik stratégiai fontosságú félszigetén fekszik.", "Egy kis múzeum mutatja be a gyarmati korszak emlékeit.", "A helyszínen ma is láthatók eredeti történelmi ágyúk."],
       ro: ["Fondat în anul 1643 de către francezi.", "Numit după guvernatorul și exploratorul Étienne de Flacourt.", "Prima așezare franceză permanentă din Madagascar.", "Situat pe o peninsulă strategică în Tolagnaro.", "Găzduiește un muzeu cu artefacte din epoca colonială.", "Tunuri istorice originale sunt încă vizibile la fața locului."],
       en: ["Founded in 1643 by the French East India Company.", "Named after the 17th-century governor Étienne de Flacourt.", "First permanent French settlement in Madagascar.", "Located on a strategic peninsula in Tolagnaro.", "Houses a museum dedicated to the area's colonial history.", "Original historical cannons are still displayed on the grounds."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "\\u00dcberreste einer franz\\u00f6sischen Kolonialfestung aus dem 17. Jahrhundert in Fort-Dauphin (Tolagnaro).",
       hu: "Egy 17. sz\\u00e1zadi francia gyarmati er\\u0151d\\u00edtm\\u00e9ny maradv\\u00e1nyai Fort-Dauphin (Tolagnaro) v\\u00e1ros\\u00e1ban.",
       ro: "R\\u0103m\\u0103\\u0219i\\u021be ale unei fort\\u0103re\\u021be coloniale franceze din secolul al XVII-lea \\u00een Fort-Dauphin (Tolagnaro).",
-      en: "Remains of a 17th-century French colonial fortress in Fort-Dauphin (Tolagnaro)."
+      en: "Remains of a 17th-century French colonial fortress in Fort-Dauphin (Tolagnaro).",
+      es: "Restos de una fortaleza colonial francesa del siglo XVII en Fort-Dauphin (Tolagnaro).",
+      pt: "Restos de uma fortaleza colonial francesa do século XVII em Fort-Dauphin (Tolagnaro).",
+      fr: "Vestiges d'un fort colonial français du XVIIe siècle à Fort-Dauphin (Tolagnaro).",
     },
     facts: {
       de: ["Erbaut 1643", "Benannt nach \\u00c9tienne de Flacourt"],
       hu: ["1643-ban \\u00e9p\\u00fclt", "\\u00c9tienne de Flacourt-r\\u00f3l nevezt\\u00e9k el"],
       ro: ["Construit \\u00een 1643", "Numit dup\\u0103 \\u00c9tienne de Flacourt"],
-      en: ["Built in 1643", "Named after \\u00c9tienne de Flacourt"]
+      en: ["Built in 1643", "Named after \\u00c9tienne de Flacourt"],
+      es: ["Construido en 1643", "Nombrado en honor a Étienne de Flacourt"],
+      pt: ["Construído em 1643", "Nomeado em homenagem a Étienne de Flacourt"],
+      fr: ["Construit en 1643", "Nommé d'après Étienne de Flacourt"],
     }, image: "/poi-images/fort-flacourt-ruins-landmarks-v2.webp",
     
     
@@ -708,18 +870,27 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       hu: ["Az épületet 1881-ben fejezték be II. Ranavalona királynő megrendelésére.", "A homlokzatot 16 monumentális ión oszlop díszíti.", "Az építmény az antananarivói felsőváros (La Haute Ville) negyedében található.", "A tervezésben James Cameron skót misszionárius és építész játszott kulcsszerepet.", "Az épület helyszíne korábban a tradicionális népgyűlések és ítélkezések tere volt.", "Ez volt Madagaszkár első állandó, kőből készült igazságügyi épülete."],
       ro: ["Clădirea a fost finalizată în anul 1881, în timpul domniei reginei Ranavalona a II-a.", "Fațada este susținută de 16 coloane masive realizate în stil ionic.", "Monumentul este situat în Orașul de Sus din Antananarivo, aproape de complexul Rova.", "Arhitectul și misionarul scoțian James Cameron a coordonat construcția din piatră.", "Locul era folosit pentru adunări juridice populare înainte de ridicarea palatului.", "Structura este un exemplu rar de arhitectură neoclasică pură în Madagascarul secolului XIX."],
       en: ["The palace was completed in 1881 under the orders of Queen Ranavalona II.", "It features 16 massive Ionic columns arranged in a classical temple style.", "The site is located in the historic Upper Town of Antananarivo.", "Scottish missionary James Cameron was the primary architectural influence.", "It served as the official venue for the royal court and legal proclamations.", "The building marks the transition from traditional oral law to formalized institutions."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Ein historisches Steingeb\\u00e4ude im klassischen Stil, das fr\\u00fcher als oberstes Gericht der Merina-K\\u00f6nige diente.",
       hu: "Klasszikus st\\u00edlus\\u00fa t\\u00f6rt\\u00e9nelmi k\\u0151\\u00e9p\\u00fclet, amely kor\\u00e1bban a Merina kir\\u00e1lyok legfels\\u0151bb b\\u00edr\\u00f3s\\u00e1gak\\u00e9nt szolg\\u00e1lt.",
       ro: "O cl\\u0103dire istoric\\u0103 de piatr\\u0103 \\u00een stil clasic, care a servit anterior ca instan\\u021b\\u0103 suprem\\u0103 a regilor Merina.",
-      en: "A historic stone building in classical style that formerly served as the supreme court of the Merina kings."
+      en: "A historic stone building in classical style that formerly served as the supreme court of the Merina kings.",
+      es: "Un edificio histórico de piedra en estilo clásico, que antiguamente servía como el tribunal supremo de los reyes Merina.",
+      pt: "Um edifício histórico de pedra em estilo clássico, que antigamente servia como o tribunal supremo dos reis Merina.",
+      fr: "Un bâtiment historique en pierre de style classique, qui servait autrefois de cour suprême aux rois Merina.",
     },
     facts: {
       de: ["Erbaut im Jahr 1881", "16 massive ionische S\\u00e4ulen"],
       hu: ["1881-ben \\u00e9p\\u00fclt", "16 hatalmas i\\u00f3n oszlop"],
       ro: ["Construit \\u00een 1881", "16 coloane ionice masive"],
-      en: ["Built in 1881", "16 massive Ionic columns"]
+      en: ["Built in 1881", "16 massive Ionic columns"],
+      es: ["Construido en 1881", "16 columnas jónicas masivas"],
+      pt: ["Construído em 1881", "16 colunas jónicas maciças"],
+      fr: ["Construit en 1881", "16 colonnes ioniques massives"],
     }, image: "/poi-images/palais-justice-amboasary-landmarks-v2.webp",
     
     
@@ -746,18 +917,27 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       hu: ["Az emlékmű az első és második világháború áldozatainak állít emléket.", "Antsiranana központjában, a kikötőhöz közel helyezkedik el.", "1942 májusában itt zajlott az Ironclad hadművelet, a szövetségesek inváziója.", "Az emlékművet korabeli tüzérségi eszközök és ágyúk veszik körül.", "Diego Suarez az Indiai-óceán egyik legnagyobb természetes mélyvízi kikötője.", "A helyszín a francia-madagaszkári közös katonai történelem mementója."],
       ro: ["Memorialul este dedicat victimelor din ambele Războaie Mondiale.", "Este situat în orașul Antsiranana, în apropiere de malul mării.", "Localitatea a fost scena Operațiunii Ironclad în anul 1942.", "Tunuri istorice din epoca colonială sunt expuse în perimetrul monumentului.", "Locația reflectă rolul orașului de bază navală strategică în Oceanul Indian.", "Monumentul este un punct central pentru ceremoniile diplomatice anuale."],
       en: ["The monument commemorates soldiers from Madagascar and France who died in both World Wars.", "It is located in the center of Antsiranana, near the harbor entrance.", "Diego Suarez was the primary objective of the Allied Operation Ironclad in 1942.", "The memorial site features several authentic colonial-era cannons.", "The bay of Diego Suarez is one of the world's largest natural deep-water harbors.", "The site is regularly used for official Armistice Day commemorations on November 11th."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Ein Denkmal auf der Place Joffre in Antsiranana, das den Opfern der verschiedenen Konflikte in Madagaskar gewidmet ist.",
       hu: "Egy eml\\u00e9km\\u0171 a Place Joffre t\\u00e9ren Antsiranana-ban, amelyet a madagaszk\\u00e1ri konfliktusok \\u00e1ldozatainak szenteltek.",
       ro: "Un monument \\u00een Place Joffre din Antsiranana, dedicat victimelor diverselor conflicte din Madagascar.",
-      en: "A memorial in Place Joffre in Antsiranana dedicated to the victims of the various conflicts in Madagascar."
+      en: "A memorial in Place Joffre in Antsiranana dedicated to the victims of the various conflicts in Madagascar.",
+      es: "Un monumento en la Place Joffre de Antsiranana, dedicado a las víctimas de los diversos conflictos en Madagascar.",
+      pt: "Um monumento na Place Joffre, em Antsiranana, dedicado às vítimas dos diversos conflitos em Madagascar.",
+      fr: "Un monument sur la Place Joffre à Antsiranana, dédié aux victimes des divers conflits à Madagascar.",
     },
     facts: {
       de: ["\\u00dcberblickt den Hafen", "Wichtiger Treffpunkt in der Stadt"],
       hu: ["A kik\\u00f6t\\u0151re n\\u00e9z", "Fontos tal\\u00e1lkoz\\u00f3hely a v\\u00e1rosban"],
       ro: ["Are vedere spre port", "Punct de \\u00eent\\u00e2lnire important \\u00een ora\\u0219"],
-      en: ["Overlooks the port", "Important meeting point in the city"]
+      en: ["Overlooks the port", "Important meeting point in the city"],
+      es: ["Domina el puerto", "Importante punto de encuentro en la ciudad"],
+      pt: ["Domina o porto", "Importante ponto de encontro na cidade"],
+      fr: ["Surplombe le port", "Point de rencontre important dans la ville"],
     }, image: "/poi-images/monument-aux-morts-diego-suarez-landmarks-v2.webp",
     
     
@@ -784,18 +964,27 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       hu: ["A vasútállomást hivatalosan 1923-ban adták át.", "Ez az Antananarivótól délre futó 170 km-es vasútvonal végpontja.", "Az épület építészeti stílusa klasszikus francia gyarmati hatást mutat.", "A vasút kiépítése tette Antsirabét az ország egyik legfontosabb ipari központjává.", "A személyszállító vonatok helyét mára főként a teherszállítmányok vették át.", "Az állomás épülete előtt található a város egyik forgalmas riksa (pousse-pousse) csomópontja."],
       ro: ["Gara a fost inaugurată oficial în anul 1923.", "Stația reprezintă capătul liniei feroviare de 170 km ce vine din capitală.", "Arhitectura clădirii urmează canoanele stilului colonial francez de epocă.", "Conexiunea feroviară a stimulat dezvoltarea Antsirabe ca oraș industrial și balnear.", "În prezent, linia este utilizată preponderent pentru transportul de mărfuri.", "Clădirea gării este considerată un sit de patrimoniu protejat în Madagascar."],
       en: ["The railway station was officially opened in 1923.", "It marks the terminus of the 170-kilometer TA railway line from the capital.", "The architecture is a classic example of the French colonial style in East Africa.", "The railway played a crucial role in developing Antsirabe's thermal springs tourism.", "Current operations on the line are almost exclusively limited to freight transport.", "The station square is a famous hub for the city's iconic colorful rickshaws (pousse-pousse)."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Ein charmanter Bahnhof im Zentrum der Stadt Antsirabe, der Endpunkt der Tananarive-Antsirabe Linie.",
       hu: "Egy b\\u00e1jos vas\\u00fat\\u00e1llom\\u00e1s Antsirabe k\\u00f6zpontj\\u00e1ban, amely a Tananarive-Antsirabe vonal v\\u00e9g\\u00e1llom\\u00e1sa.",
       ro: "O gar\\u0103 fermec\\u0103toare \\u00een centrul ora\\u0219ului Antsirabe, care este cap\\u0103tul liniei Tananarive-Antsirabe.",
-      en: "A charming railway station in the center of Antsirabe, serving as the terminus of the Tananarive-Antsirabe line."
+      en: "A charming railway station in the center of Antsirabe, serving as the terminus of the Tananarive-Antsirabe line.",
+      es: "Una encantadora estación de tren en el centro de la ciudad de Antsirabe, punto final de la línea Tananarive-Antsirabe.",
+      pt: "Uma charmosa estação ferroviária no centro da cidade de Antsirabe, o ponto final da linha Tananarive-Antsirabe.",
+      fr: "Une charmante gare ferroviaire au centre de la ville d'Antsirabe, terminus de la ligne Tananarive-Antsirabe.",
     },
     facts: {
       de: ["1923 fertiggestellt", "Symbol der Wirtschaftsentwicklung"],
       hu: ["1923-ban k\\u00e9sz\\u00fclt el", "A gazdas\\u00e1gi fejl\\u0151d\\u00e9s szimb\\u00f3luma"],
       ro: ["Finalizat\\u0103 \\u00een 1923", "Simbol al dezvolt\\u0103rii economice"],
-      en: ["Completed in 1923", "Symbol of economic development"]
+      en: ["Completed in 1923", "Symbol of economic development"],
+      es: ["Terminada en 1923", "Símbolo del desarrollo económico"],
+      pt: ["Concluída em 1923", "Símbolo do desenvolvimento económico"],
+      fr: ["Achevée en 1923", "Symbole du développement économique"],
     }, image: "/poi-images/gare-antsirabe-landmarks-v2.webp",
     
     
@@ -822,18 +1011,27 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       hu: ["A téglaépítkezés tilalmát a köznép számára 1868-ban törölték el.", "A 'Trano Gasy' kifejezés jelentése szó szerint 'madagaszkári ház'.", "Ezek az épületek általában kétszintesek és meredek nyeregtetővel rendelkeznek.", "A házak díszes fa verandája az egyik legfontosabb stílusjegy.", "Az alapanyagul szolgáló vörös téglát a helyi laterit talajból égetik.", "A házak tájolása gyakran vallási és asztrológiai szabályokhoz kötött."],
       ro: ["Interdicția de a folosi piatra pentru casele private a fost ridicată în 1868.", "Numele 'Trano Gasy' se traduce literal prin 'casă malgașă'.", "Aceste locuințe au în mod tradițional o formă dreptunghiulară și acoperișuri înalte.", "Veranda din lemn sculptat este elementul central de design al fațadei.", "Culoarea roșie a cărămizilor provine din solul lateritic bogat în fier al insulei.", "Organizarea interiorului respectă deseori cosmologia tradițională malgașă."],
       en: ["The prohibition on using brick and stone for commoners was abolished in 1868.", "The term 'Trano Gasy' literally translates to 'Malagasy house'.", "These structures typically feature two levels and a steep, thatched or tiled roof.", "The wooden veranda is a key feature introduced to protect the brickwork from erosion.", "Most Trano Gasy houses utilize local red laterite clay for brick production.", "The layout traditionally prioritizes the northeast corner for sacred family rituals."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Ein traditioneller madagassischer Architekturstil, gekennzeichnet durch hohe, schmale Backsteinh\\u00e4user mit h\\u00f6lzernen Balkonen in Antananarivo.",
       hu: "Hagyom\\u00e1nyos madagaszk\\u00e1ri \\u00e9p\\u00edt\\u00e9szeti st\\u00edlus, amelyet magas, keskeny t\\u00e9glah\\u00e1zak \\u00e9s fateraszok jellemeznek Antananariv\\u00f3ban.",
       ro: "Un stil arhitectural tradi\\u021bional malga\\u0219, caracterizat prin case de c\\u0103r\\u0103mid\\u0103 \\u00eenalte \\u0219i \\u00eenguste cu balcoane din lemn \\u00een Antananarivo.",
-      en: "A traditional Malagasy architectural style characterized by tall, narrow brick houses with wooden balconies in Antananarivo."
+      en: "A traditional Malagasy architectural style characterized by tall, narrow brick houses with wooden balconies in Antananarivo.",
+      es: "Un estilo arquitectónico tradicional malgache, caracterizado por casas de ladrillo altas y estrechas con balcones de madera en Antananarivo.",
+      pt: "Um estilo arquitectónico tradicional malgaxe, caracterizado por casas de tijolo altas e estreitas com varandas de madeira em Antananarivo.",
+      fr: "Un style architectural traditionnel malgache, caractérisé par de hautes et étroites maisons en briques avec des balcons en bois à Antananarivo.",
     },
     facts: {
       de: ["Eingef\\u00fchrt im 19. Jahrhundert durch Missionare", "Pr\\u00e4gt das Bild der Haute Ville"],
       hu: ["A 19. sz\\u00e1zadban honos\\u00edtott\\u00e1k meg a misszion\\u00e1riusok", "A Haute Ville arculat\\u00e1t hat\\u00e1rozza meg"],
       ro: ["Introdus \\u00een secolul al XIX-lea de misionari", "Define\\u0219te imaginea Haute Ville"],
-      en: ["Introduced in the 19th century by missionaries", "Defines the image of the Haute Ville"]
+      en: ["Introduced in the 19th century by missionaries", "Defines the image of the Haute Ville"],
+      es: ["Introducido en el siglo XIX por misioneros", "Define el paisaje de la Haute Ville"],
+      pt: ["Introduzido no século XIX por missionários", "Define a imagem da Haute Ville"],
+      fr: ["Introduit au XIXe siècle par des missionnaires", "Façonne l'image de la Haute Ville"],
     }, image: "/poi-images/trano-gasy-architecture-landmarks-v2.webp",
     
     
@@ -860,18 +1058,27 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       hu: ["Az Ambatovy a világ egyik legnagyobb laterit-alapú nikkelbányászati projektje.", "A beruházás összértéke meghaladja a 8 milliárd amerikai dollárt.", "A bányát és a finomítót egy 220 kilométeres földalatti csővezeték köti össze.", "Az üzem tervezett éves kapacitása 60 000 tonna finomított nikkel.", "A projekt Madagaszkár bruttó hazai termékének (GDP) jelentős részét adja.", "A vállalat több mint 25 000 hektárnyi erdő védelmét vállalta kompenzációként."],
       ro: ["Ambatovy este una dintre cele mai mari rafinării de nichel și cobalt de pe glob.", "Valoarea totală a investiției a depășit pragul de 8 miliarde de dolari americani.", "Conducta care leagă mina de rafinărie are o lungime de 220 de kilometri.", "Capacitatea nominală de producție este de 60.000 de tone de nichel pe an.", "Proiectul contribuie cu aproximativ 30% la valoarea totală a exporturilor țării.", "Situl industrial utilizează tehnologia de lixiviere acidă sub presiune (HPAL)."],
       en: ["Ambatovy is one of the world's largest lateritic nickel and cobalt mining operations.", "The total investment for the project was approximately US$8 billion.", "A 220-kilometer pipeline transports ore in slurry form from the highlands to the coast.", "The refinery has a production capacity of 60,000 tonnes of refined nickel annually.", "It is the single largest contributor to Madagascar's total export value.", "The project includes extensive environmental buffer zones and conservation areas."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Eine massive hydrometallurgische Anlage in der N\\u00e4he von Toamasina, die eine der gr\\u00f6\\u00dften Nickel- und Kobaltminen der Welt verarbeitet.",
       hu: "Massz\\u00edv hidrometallurgiai \\u00fczem Toamasina k\\u00f6zel\\u00e9ben, amely a vil\\u00e1g egyik legnagyobb nikkel- \\u00e9s kobaltb\\u00e1ny\\u00e1j\\u00e1nak term\\u00e9k\\u00e9t dolgozza fel.",
       ro: "O instala\\u021bie hidrometalurgic\\u0103 masiv\\u0103 l\\u00e2ng\\u0103 Toamasina, care proceseaz\\u0103 una dintre cele mai mari mine de nichel \\u0219i cobalt din lume.",
-      en: "A massive hydrometallurgical plant near Toamasina, processing one of the world's largest nickel and cobalt mines."
+      en: "A massive hydrometallurgical plant near Toamasina, processing one of the world's largest nickel and cobalt mines.",
+      es: "Una enorme planta hidrometalúrgica cerca de Toamasina que procesa una de las minas de níquel y cobalto más grandes del mundo.",
+      pt: "Uma enorme central hidrometalúrgica perto de Toamasina que processa uma das maiores minas de níquel e cobalto do mundo.",
+      fr: "Une usine hydrométallurgique massive près de Toamasina qui traite l'une des plus grandes mines de nickel et de cobalt au monde.",
     },
     facts: {
       de: ["Gr\\u00f6\\u00dfte Auslandsinvestition Madagaskars", "220 km lange Pipeline zur Mine"],
       hu: ["Madagaszk\\u00e1r legnagyobb k\\u00fclf\\u00f6ldi beruh\\u00e1z\\u00e1sa", "220 km hossz\\u00fa cs\\u0151vezet\\u00e9k a b\\u00e1ny\\u00e1hoz"],
       ro: ["Cea mai mare investi\\u021bie str\\u0103in\\u0103 din Madagascar", "Conduct\\u0103 de 220 km c\\u0103tre min\\u0103"],
-      en: ["Madagascar's largest foreign investment", "220 km long pipeline to the mine"]
+      en: ["Madagascar's largest foreign investment", "220 km long pipeline to the mine"],
+      es: ["La mayor inversión extranjera de Madagascar", "Tubería de 220 km hasta la mina"],
+      pt: ["O maior investimento estrangeiro de Madagáscar", "Pipeline de 220 km até à mina"],
+      fr: ["Le plus grand investissement étranger de Madagascar", "Pipeline de 220 km vers la mine"],
     }, image: "/poi-images/ambatovy-plant-landmarks-v2.webp",
     
     
@@ -898,18 +1105,27 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       hu: ["A híd a stratégiai fontosságú RN4-es főútvonalon található.", "A Betsiboka-folyón ível át, amely Madagaszkár egyik legbővizűbb folyója.", "Az eredeti szerkezetet a híres Gustave Eiffel irodája tervezte.", "1942-ben katonai célokból megsemmisítették, majd a háború után helyreállították.", "A híd alatti folyó vörös színe a súlyos talajerózió következménye.", "A híd hossza és magassága lehetővé teszi a nagy hajók áthaladását áradások idején is."],
       ro: ["Podul este un punct cheie pe ruta națională RN4 între capitală și nord-vest.", "Traversează râul Betsiboka, cunoscut pentru debitul său impresionant.", "Prima variantă a podului a fost realizată după planurile firmei lui Gustave Eiffel.", "Distrugerea sa în 1942 a fost o manevră defensivă în timpul campaniei din Madagascar.", "Culoarea roșie a apei de sub pod provine din sedimentele bogate în oxizi de fier.", "Structura metalică este supusă constant unor lucrări de întreținere din cauza coroziunii."],
       en: ["The bridge is located on the RN4, the primary highway connecting the capital to the north.", "It spans the Betsiboka, Madagascar's largest river by discharge volume.", "The original structural design was produced by Gustave Eiffel's engineering firm.", "In 1942, the bridge was sabotaged to prevent Allied forces from reaching Antananarivo.", "The river's red hue visible from the bridge is a result of extensive upstream erosion.", "It serves as a vital infrastructure link for the transport of goods to Mahajanga."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Eine wichtige Stra\\u00dfenbr\\u00fccke in Maevatanana, die den roten Betsiboka-Fluss \\u00fcberquert und Antananarivo mit Mahajanga verbindet.",
       hu: "Fontos k\\u00f6z\\u00fati h\\u00edd Maevatanan\\u00e1ban, amely keresztezi a v\\u00f6r\\u00f6s Betsiboka foly\\u00f3t, \\u00e9s \\u00f6sszek\\u00f6ti Antananariv\\u00f3t Mahajang\\u00e1val.",
       ro: "Un important pod rutier \\u00een Maevatanana, care traverseaz\\u0103 r\\u00e2ul ro\\u0219u Betsiboka \\u0219i face leg\\u0103tura \\u00eentre Antananarivo \\u0219i Mahajanga.",
-      en: "An important road bridge in Maevatanana crossing the red Betsiboka River, connecting Antananarivo with Mahajanga."
+      en: "An important road bridge in Maevatanana crossing the red Betsiboka River, connecting Antananarivo with Mahajanga.",
+      es: "Un importante puente de carretera en Maevatanana, que cruza el río rojo Betsiboka y conecta Antananarivo con Mahajanga.",
+      pt: "Uma importante ponte rodoviária em Maevatanana, que atravessa o rio vermelho Betsiboka e liga Antananarivo a Mahajanga.",
+      fr: "Un pont routier important à Maevatanana, qui traverse le fleuve rouge Betsiboka et relie Antananarivo à Mahajanga.",
     },
     facts: {
       de: ["1941 neu gebaut", "Oft von Zyklonen bedroht"],
       hu: ["1941-ben \\u00e9p\\u00fclt \\u00fajj\\u00e1", "Gyakran fenyegetik a ciklonok"],
       ro: ["Reconstruit \\u00een 1941", "Adesea amenin\\u021bat de cicloni"],
-      en: ["Rebuilt in 1941", "Often threatened by cyclones"]
+      en: ["Rebuilt in 1941", "Often threatened by cyclones"],
+      es: ["Reconstruido en 1941", "A menudo amenazado por ciclones"],
+      pt: ["Reconstruída em 1941", "Muitas vezes ameaçada por ciclones"],
+      fr: ["Reconstruit en 1941", "Souvent menacé par les cyclones"],
     }, image: "/poi-images/pont-betsiboka-landmarks-v2.webp",
     
     
@@ -936,18 +1152,27 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       hu: ["A városháza közvetlen közelében található a város jelképévé vált óriási majomkenyérfa.", "Az épületet a 20. század elején, a francia fennhatóság alatt emelték.", "Kiemelt szerepet kap Mahajanga tengerparti városképének formálásában.", "Tervezésekor a forró trópusi klíma elleni védekezés volt a fő szempont.", "A közelben található kikötő az ország egyik legfontosabb tengeri kapuja.", "Az épület előtt gyakran tartanak katonai díszszemléket és ünnepségeket."],
       ro: ["Primăria este situată foarte aproape de celebrul baobab gigant al orașului.", "Edificiul a fost construit în prima jumătate a secolului XX.", "Reprezintă un punct de referință pe promenada de-a lungul mării.", "Designul interior include curți interioare pentru a facilita circulația aerului.", "Mahajanga este al doilea cel mai mare port al Madagascarului.", "Fațada clădirii este iluminată spectaculos în timpul nopții."],
       en: ["The City Hall is located just a short walk from the city's iconic 700-year-old Baobab tree.", "The building was constructed during the French administration in the early 20th century.", "It serves as the anchor point for the scenic 'Le Bord' coastal promenade.", "Architectural features include wide verandas to mitigate the intense coastal heat.", "Mahajanga functions as a key commercial link to Africa and the Comoros.", "The venue is the traditional site for hoisting the national flag on Independence Day."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Ein Verwaltungsgeb\\u00e4ude im Zentrum der K\\u00fcstenstadt Mahajanga, bekannt f\\u00fcr seine Architektur im Kolonialstil.",
       hu: "K\\u00f6zigazgat\\u00e1si \\u00e9p\\u00fclet a tengerparti Mahajanga v\\u00e1ros k\\u00f6zpontj\\u00e1ban, amely gyarmati st\\u00edlus\\u00fa \\u00e9p\\u00edt\\u00e9szet\\u00e9r\\u0151l ismert.",
       ro: "O cl\\u0103dire administrativ\\u0103 \\u00een centrul ora\\u0219ului de coast\\u0103 Mahajanga, cunoscut\\u0103 pentru arhitectura sa \\u00een stil colonial.",
-      en: "An administrative building in the center of the coastal city of Mahajanga, known for its colonial-style architecture."
+      en: "An administrative building in the center of the coastal city of Mahajanga, known for its colonial-style architecture.",
+      es: "Un edificio administrativo en el centro de la ciudad costera de Mahajanga, conocido por su arquitectura de estilo colonial.",
+      pt: "Um edifício administrativo no centro da cidade costeira de Mahajanga, conhecido pela sua arquitetura de estilo colonial.",
+      fr: "Un bâtiment administratif au centre de la ville côtière de Mahajanga, connu pour son architecture de style colonial.",
     },
     facts: {
       de: ["Wei\\u00df get\\u00fcnchte W\\u00e4nde", "Symbol der Zivilverwaltung der Boeny-Region"],
       hu: ["Feh\\u00e9rre meszelt falak", "A Boeny r\\u00e9gi\\u00f3 polg\\u00e1ri k\\u00f6zigazgat\\u00e1s\\u00e1nak szimb\\u00f3luma"],
       ro: ["Pere\\u021bi v\\u0103rui\\u021bi \\u00een alb", "Simbol al administra\\u021biei civile din regiunea Boeny"],
-      en: ["Whitewashed walls", "Symbol of civil administration in the Boeny region"]
+      en: ["Whitewashed walls", "Symbol of civil administration in the Boeny region"],
+      es: ["Paredes encaladas en blanco", "Símbolo de la administración civil de la región de Boeny"],
+      pt: ["Paredes caiadas de branco", "Símbolo da administração civil da região de Boeny"],
+      fr: ["Murs blanchis à la chaux", "Symbole de l'administration civile de la région Boeny"],
     }, image: "/poi-images/hotel-de-ville-mahajanga-landmarks-v2.webp",
     
     
@@ -974,18 +1199,27 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       hu: ["A templomot hivatalosan 1867. január 22-én szentelték fel.", "Ez az első a fővárosban épült négy nagy emléktemplom közül.", "James Sibree, a Londoni Missziós Társaság tagja tervezte az épületet.", "A templom építéséhez a környéken bányászott gránitot használták fel.", "A helyszín korábban börtönként szolgált a keresztényüldözések idején.", "Az épület belső tere egyszerű, követve a protestáns hagyományokat."],
       ro: ["Biserica a fost inaugurată oficial la data de 22 ianuarie 1867.", "Este prima dintre cele patru biserici memoriale ridicate în Antananarivo.", "Arhitectul James Sibree a utilizat stilul gotic simplificat pentru design.", "Structura este realizată integral din blocuri de granit local cioplit.", "Locul este considerat sacru datorită suferințelor îndurate de primii martiri.", "Ambatonakanga este un punct de referință în istoria literaturii și educației malgașe."],
       en: ["The church was officially dedicated on January 22, 1867.", "It is the first of four memorial churches built to honor the Malagasy martyrs.", "James Sibree, a prominent missionary architect, led the design and construction.", "The building is constructed from locally quarried granite blocks.", "The site served as a prison for Christians before the rise of King Radama II.", "It is a key heritage site for the London Missionary Society's legacy in Africa."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Die erste Steinkirche in Madagaskar, erbaut zum Gedenken an die christlichen M\\u00e4rtyrer, die unter K\\u00f6nigin Ranavalona I. get\\u00f6tet wurden.",
       hu: "Madagaszk\\u00e1r els\\u0151 k\\u0151temploma, amelyet a I. Ranavalona kir\\u00e1lyn\\u0151 alatt meg\\u00f6lt kereszt\\u00e9ny m\\u00e1rt\\u00edrok eml\\u00e9k\\u00e9re \\u00e9p\\u00edtettek.",
       ro: "Prima biseric\\u0103 de piatr\\u0103 din Madagascar, construit\\u0103 \\u00een memoria martirilor cre\\u0219tini uci\\u0219i sub regina Ranavalona I.",
-      en: "The first stone church in Madagascar, built in memory of the Christian martyrs killed under Queen Ranavalona I."
+      en: "The first stone church in Madagascar, built in memory of the Christian martyrs killed under Queen Ranavalona I.",
+      es: "La primera iglesia de piedra en Madagascar, construida en memoria de los mártires cristianos asesinados bajo la reina Ranavalona I.",
+      pt: "A primeira igreja de pedra em Madagascar, construída em memória dos mártires cristãos que foram mortos sob a rainha Ranavalona I.",
+      fr: "La première église en pierre de Madagascar, construite en mémoire des martyrs chrétiens tués sous la reine Ranavalona I.",
     },
     facts: {
       de: ["1867 eingeweiht", "Entworfen vom britischen Architekten James Sibree"],
       hu: ["1867-ben szentelt\\u00e9k fel", "James Sibree brit \\u00e9p\\u00edt\\u00e9sz tervezte"],
       ro: ["Inaugurat\\u0103 \\u00een 1867", "Proiectat\\u0103 de arhitectul britanic James Sibree"],
-      en: ["Inaugurated in 1867", "Designed by British architect James Sibree"]
+      en: ["Inaugurated in 1867", "Designed by British architect James Sibree"],
+      es: ["Inaugurada en 1867", "Diseñada por el arquitecto británico James Sibree"],
+      pt: ["Inaugurada em 1867", "Projetada pelo arquiteto britânico James Sibree"],
+      fr: ["Inaugurée en 1867", "Conçue par l'architecte britannique James Sibree"],
     }, image: "/poi-images/temple-ambatonakanga-landmarks-v2.webp",
     
     
@@ -1012,18 +1246,27 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       hu: ["A torony Antananarivo egyik legmagasabb irodaháza.", "Az Ankorondrano negyedben található, amely a város pénzügyi központja.", "Az épület az Orange Madagascar telekommunikációs cég központja.", "A homlokzat modern, tükröződő üvegelemekből áll.", "Az épületben fontos informatikai és hálózati központ működik.", "A torony jelzi a város északi irányú terjeszkedését és modernizációját."],
       ro: ["Turnul este printre cele mai înalte structuri de birouri din capitală.", "Locația sa este în Ankorondrano, inima comercială a orașului.", "Găzduiește operațiunile centrale ale companiei Orange în Madagascar.", "Designul exterior este bazat pe o estetică minimalistă și sticlă securizată.", "Clădirea dispune de sisteme avansate de securitate și eficiență energetică.", "Este un simbol al investițiilor străine directe în sectorul tehnologic."],
       en: ["The tower is among the tallest office buildings in Antananarivo.", "It is situated in the Ankorondrano district, the city's premier business zone.", "The building functions as the head office for Orange Madagascar.", "The architectural style features a sleek glass curtain wall.", "It houses critical data centers for national telecommunications traffic.", "The tower represents the modern economic face of 21st-century Madagascar."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Eines der modernsten Telekommunikations- und B\\u00fcrogeb\\u00e4ude in Madagaskar, Sitz eines der gr\\u00f6\\u00dften Mobilfunkanbieter.",
       hu: "Madagaszk\\u00e1r egyik legmodernebb t\\u00e1vk\\u00f6zl\\u00e9si \\u00e9s iroda\\u00e9p\\u00fclete, az egyik legnagyobb mobilszolg\\u00e1ltat\\u00f3 sz\\u00e9khelye.",
       ro: "Una dintre cele mai moderne cl\\u0103diri de telecomunica\\u021bii \\u0219i birouri din Madagascar, sediul unuia dintre cei mai mari operatori de telefonie mobil\\u0103.",
-      en: "One of the most modern telecommunications and office buildings in Madagascar, headquarters of a major mobile operator."
+      en: "One of the most modern telecommunications and office buildings in Madagascar, headquarters of a major mobile operator.",
+      es: "Uno de los edificios de oficinas y telecomunicaciones más modernos de Madagascar, sede de uno de los mayores proveedores de telefonía móvil.",
+      pt: "Um dos edifícios de telecomunicações e escritórios mais modernos de Madagáscar, sede de um dos maiores operadores de comunicações móveis.",
+      fr: "L'un des bâtiments de télécommunications et de bureaux les plus modernes de Madagascar, siège de l'un des plus grands opérateurs de téléphonie mobile.",
     },
     facts: {
       de: ["Wichtiges Zentrum f\\u00fcr Konnektivit\\u00e4t", "Auff\\u00e4llige moderne Architektur"],
       hu: ["A konnektivit\\u00e1s fontos k\\u00f6zpontja", "Kiemelked\\u0151 modern \\u00e9p\\u00edt\\u00e9szet"],
       ro: ["Centru important pentru conectivitate", "Arhitectur\\u0103 modern\\u0103 remarcabil\\u0103"],
-      en: ["Important center for connectivity", "Striking modern architecture"]
+      en: ["Important center for connectivity", "Striking modern architecture"],
+      es: ["Centro importante para la conectividad", "Arquitectura moderna llamativa"],
+      pt: ["Centro importante de conectividade", "Arquitetura moderna apelativa"],
+      fr: ["Centre important pour la connectivité", "Architecture moderne frappante"],
     }, image: "/poi-images/tour-orange-antananarivo-landmarks-v2.webp",
     
     
@@ -1050,18 +1293,27 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       hu: ["A sugárút a Soarano pályaudvart köti össze az Analakely piaccal.", "A francia sugárutak mintájára alakították ki a gyarmati időkben.", "A jellegzetes árkádok alatt számos népszerű étterem és bolt található.", "Minden év június 26-án itt tartják a függetlenség napi díszszemlét.", "Az út korábbi neve Avenue Fallières volt, egy francia elnök után.", "A sugárút központi részén gyakran láthatók helyi árusok és utcai zenészek."],
       ro: ["Bulevardul face legătura între gara Soarano și piața Analakely.", "Proiectul urbanistic a fost inspirat de bulevardele pariziene.", "Arcadele clădirilor sunt un element arhitectural definitoriu al zonei.", "Este locul tradițional de desfășurare a paradei militare de Ziua Națională.", "Bulevardul a fost redenumit după 1960 pentru a celebra suveranitatea.", "Zona este considerată 'Kilometrul Zero' al capitalei malgașe."],
       en: ["The avenue connects the historic Soarano Station with the Analakely market.", "It was modeled after grand French boulevards during the colonial era.", "The iconic arcades house some of the city's oldest and most famous hotels.", "It is the official site for the annual Independence Day parade on June 26.", "The street was originally named Avenue Fallières before 1960.", "It serves as the main venue for public gatherings and national celebrations."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Die Hauptachse des Stadtzentrums von Antananarivo, flankiert von kolonialen Arkaden, die bis zum alten Bahnhof f\\u00fchrt.",
       hu: "Antananarivo v\\u00e1rosk\\u00f6zpontj\\u00e1nak f\\u0151 tengelye, amelyet gyarmati \\u00e1rk\\u00e1dok szeg\\u00e9lyeznek, \\u00e9s a r\\u00e9gi vas\\u00fat\\u00e1llom\\u00e1sig vezet.",
       ro: "Axa principal\\u0103 a centrului ora\\u0219ului Antananarivo, flancat\\u0103 de arcade coloniale care duc p\\u00e2n\\u0103 la vechea gar\\u0103.",
-      en: "The main axis of downtown Antananarivo, flanked by colonial arcades leading to the old railway station."
+      en: "The main axis of downtown Antananarivo, flanked by colonial arcades leading to the old railway station.",
+      es: "El eje principal del centro de la ciudad de Antananarivo, flanqueado por arcadas coloniales, que conduce a la antigua estación de tren.",
+      pt: "O eixo principal do centro da cidade de Antananarivo, ladeado por arcadas coloniais, que conduz à antiga estação ferroviária.",
+      fr: "L'axe principal du centre-ville d'Antananarivo, bordé d'arcades coloniales, menant à l'ancienne gare.",
     },
     facts: {
       de: ["Herz des Handels in der Stadt", "Charakteristische wei\\u00dfe Pavillons"],
       hu: ["A kereskedelem sz\\u00edve a v\\u00e1rosban", "Jellegzetes feh\\u00e9r pavilonok"],
       ro: ["Inima comer\\u021bului din ora\\u0219", "Pavilioane albe caracteristice"],
-      en: ["Heart of commerce in the city", "Characteristic white pavilions"]
+      en: ["Heart of commerce in the city", "Characteristic white pavilions"],
+      es: ["Corazón del comercio en la ciudad", "Pabellones blancos característicos"],
+      pt: ["Coração do comércio na cidade", "Pavilhões brancos característicos"],
+      fr: ["Cœur du commerce de la ville", "Pavillons blancs caractéristiques"],
     }, image: "/poi-images/independance-avenue-arc-landmarks-v2.webp",
     
     
@@ -1088,18 +1340,27 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       hu: ["Az építkezés 1862-ben kezdődött", "A templom a Faravohitra-dombon áll", "Az antananarivói érsek székhelye", "Jellegzetes vörös téglás építészeti stílus", "I. Ranavalona idején itt végezték ki a keresztényeket", "A Szeplőtelen Fogantatás tiszteletére szentelték"],
       ro: ["Construcție realizată între 1862 și 1875", "Situată pe dealul istoric Faravohitra", "Sediul Arhiepiscopiei de Antananarivo", "Arhitectură specifică din cărămidă roșie", "Ridicată pe locul martiriului creștinilor", "Dedicată Neprihănitei Zămisliri"],
       en: ["Constructed between 1862 and 1875", "Located on the Faravohitra hill", "Seat of the Archbishop of Antananarivo", "Characterized by red-brick architecture", "Built on the site of Christian persecutions", "Dedicated to the Immaculate Conception"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Eine katholische Backsteinkirche auf einem der h\\u00f6chsten H\\u00fcgel von Antananarivo.",
       hu: "Egy katolikus t\\u00e9glatemplom Antananarivo egyik legmagasabb dombj\\u00e1n.",
       ro: "O biseric\\u0103 catolic\\u0103 din c\\u0103r\\u0103mid\\u0103 situat\\u0103 pe unul dintre cele mai \\u00eenalte dealuri din Antananarivo.",
-      en: "A Catholic brick church located on one of the highest hills in Antananarivo."
+      en: "A Catholic brick church located on one of the highest hills in Antananarivo.",
+      es: "Una iglesia católica de ladrillo situada en una de las colinas más altas de Antananarivo.",
+      pt: "Uma igreja católica de tijolo situada numa das colinas mais altas de Antananarivo.",
+      fr: "Une église catholique en briques située sur l'une des plus hautes collines d'Antananarivo.",
     },
     facts: {
       de: ["1899 erbaut", "Weithin sichtbar"],
       hu: ["1899-ben \\u00e9p\\u00fclt", "Messzir\\u0151l l\\u00e1that\\u00f3"],
       ro: ["Construit\\u0103 \\u00een 1899", "Vizibil\\u0103 de la mare distan\\u021b\\u0103"],
-      en: ["Built in 1899", "Visible from afar"]
+      en: ["Built in 1899", "Visible from afar"],
+      es: ["Construida en 1899", "Visible desde lejos"],
+      pt: ["Construída em 1899", "Visível de longe"],
+      fr: ["Construite en 1899", "Visible de loin"],
     }, image: "/poi-images/katedraly-faravohitra-landmarks-v2.webp",
     
     
@@ -1126,18 +1387,27 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       hu: ["A világ egyetlen kalóztemetője", "A 17. és 18. századból származik", "Nosy Boraha szigetén található", "Kilátás a Baie des Forbans-öbölre", "Halálfejes díszítésű sírkövek", "William Kidd kapitány egyik bázisa volt"],
       ro: ["Singurul cimitir de pirați din lume", "Datează din secolele XVII și XVIII", "Situat pe insula Nosy Boraha", "Vedere spre Baie des Forbans", "Pietre funerare cu simbolul craniului", "Refugiu pentru pirați celebri ca William Kidd"],
       en: ["Only pirate cemetery in the world", "Dates back to the 17th and 18th centuries", "Located on Nosy Boraha island", "Overlooks the Baie des Forbans", "Tombstones feature skull and crossbones", "Refuge for pirates like Captain William Kidd"],
+      es: [],
+      pt: [],
+      fr: [],
     },
     description: {
       de: "Ein historischer Friedhof auf der Insel Sainte-Marie, wo ber\\u00fchmte Piraten des 17. und 18. Jahrhunderts begraben liegen.",
       hu: "T\\u00f6rt\\u00e9nelmi temet\\u0151 Sainte-Marie sziget\\u00e9n, ahol a 17. \\u00e9s 18. sz\\u00e1zad h\\u00edres kal\\u00f3zai nyugszanak.",
       ro: "Un cimitir istoric pe insula Sainte-Marie, unde sunt \\u00eengropa\\u021bi pira\\u021bi faimo\\u0219i din secolele XVII \\u0219i XVIII.",
-      en: "A historic cemetery on \\u00cele Sainte-Marie where famous pirates of the 17th and 18th centuries are buried."
+      en: "A historic cemetery on \\u00cele Sainte-Marie where famous pirates of the 17th and 18th centuries are buried.",
+      es: "Un cementerio histórico en la isla de Sainte-Marie, donde yacen enterrados famosos piratas de los siglos XVII y XVIII.",
+      pt: "Um cemitério histórico na ilha de Sainte-Marie, onde estão enterrados piratas famosos dos séculos XVII e XVIII.",
+      fr: "Un cimetière historique sur l'île Sainte-Marie, où sont enterrés de célèbres pirates des XVIIe et XVIIIe siècles.",
     },
     facts: {
       de: ["Grabsteine mit Totenkopfmotiven", "Zeugnis der Piratengeschichte"],
       hu: ["Koponya mot\\u00edvumos s\\u00edrk\\u00f6vek", "A kal\\u00f3zt\\u00f6rt\\u00e9nelem tan\\u00faja"],
       ro: ["Pietre funerare cu motive de cranii", "M\\u0103rturie a istoriei pirateriei"],
-      en: ["Tombstones with skull and crossbones", "Testament to pirate history"]
+      en: ["Tombstones with skull and crossbones", "Testament to pirate history"],
+      es: ["Lápidas con motivos de calaveras", "Testimonio de la historia pirata"],
+      pt: ["Lápides com motivos de caveiras", "Testemunho da história da pirataria"],
+      fr: ["Pierres tombales avec des motifs de têtes de mort", "Témoignage de l'histoire des pirates"],
     },
     
     

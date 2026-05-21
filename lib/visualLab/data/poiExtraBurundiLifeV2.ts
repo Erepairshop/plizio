@@ -671,6 +671,7 @@ export const poiExtraBurundiLifeV2: POI[] = [
       en: ["Year built: 1975.", "Tea plantation area: 2,500 hectares.", "Annual capacity: 5,000 tons.", "Elevation: 1,800 meters.", "Employees: 800.", "Modernized in 2005."],
       pt: ["Ano de construção: 1975.", "Área de cultivo processada: 2.500 hectares.", "Capacidade anual: 5.000 toneladas.", "Altitude: 1.800 metros.", "Empregados: 800.", "Modernização em 2005."],
       fr: ["Année de construction : 1975.", "Surface de culture traitée : 2 500 hectares.", "Capacité annuelle : 5 000 tonnes.", "Altitude : 1 800 mètres.", "Employés : 800.", "Modernisation en 2005."],
+      es: ["Año de construcción: 1975.", "Superficie de cultivo procesada: 2.500 hectáreas.", "Capacidad anual: 5.000 toneladas.", "Altitud: 1.800 metros.", "Empleados: 800.", "Modernización en 2005."],
     },
   },
   {

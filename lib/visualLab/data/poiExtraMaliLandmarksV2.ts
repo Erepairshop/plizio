@@ -17,13 +17,19 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Die älteste Moschee in Timbuktu, erbaut im 14. Jahrhundert und bekannt für ihre Lehmbauweise.",
       hu: "Timbuktu legrégebbi mecsete, amely a 14. században épült, és híres vályogépítészetéről.",
       ro: "Cea mai veche moschee din Timbuktu, construită în secolul al XIV-lea și cunoscută pentru arhitectura sa de lut.",
-      en: "The oldest mosque in Timbuktu, built in the 14th century and renowned for its mud-brick architecture."
+      en: "The oldest mosque in Timbuktu, built in the 14th century and renowned for its mud-brick architecture.",
+      es: "La mezquita más antigua de Tombuctú, construida en el siglo XIV y famosa por su construcción en adobe.",
+      pt: "A mesquita mais antiga de Tombuctu, construída no século XIV e famosa pela sua construção em adobe.",
+      fr: "La plus ancienne mosquée de Tombouctou, construite au XIVe siècle et célèbre pour sa construction en terre crue.",
     },
     facts: {
       de: ["Erbaut von Abu Ishaq al-Sahili", "Teil des UNESCO-Welterbes"],
       hu: ["Abu Ishaq al-Sahili építette", "Az UNESCO Világörökség része"],
       ro: ["Construită de Abu Ishaq al-Sahili", "Face parte din Patrimoniul Mondial UNESCO"],
-      en: ["Built by Abu Ishaq al-Sahili", "Part of a UNESCO World Heritage site"]
+      en: ["Built by Abu Ishaq al-Sahili", "Part of a UNESCO World Heritage site"],
+      es: ["Construida por Abu Ishaq al-Sahili", "Parte del Patrimonio de la Humanidad de la UNESCO"],
+      pt: ["Construída por Abu Ishaq al-Sahili", "Parte do Património Mundial da UNESCO"],
+      fr: ["Construite par Abou Ishaq el-Saheli", "Inscrite au patrimoine mondial de l'UNESCO"],
     }, image: "/poi-images/djingareyber-mosque-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Die Djingareyber-Moschee in Timbuktu ist eines der bedeutendsten Denkmäler der goldenen Ära des Mali-Reiches und ein Meisterwerk der sudano-sahelischen Architektur. Sie wurde 1327 im Auftrag des Kaisers Mansa Musa nach dessen Rückkehr von seiner legendären Pilgerreise nach Mekka errichtet. Entworfen wurde die Moschee von dem andalusischen Architekten Abu Ishaq al-Sahili, der neue Techniken und Formen in die Region brachte. Das Bauwerk besteht fast vollständig aus Erde, Holz und Stroh, wobei die charakteristischen Minarette und die herausragenden Holzbalken (Toron) sowohl strukturelle als auch wartungstechnische Funktionen erfüllen. Als Teil der Universität von Timbuktu war die Moschee über Jahrhunderte ein Zentrum für islamische Gelehrsamkeit und Wissenschaft. Trotz der Bedrohung durch Desertifikation und politische Unruhen bleibt sie ein aktiver Ort des Gebets und ist seit 1988 als UNESCO-Weltkulturerbe geschützt.",
@@ -36,6 +42,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["Mansa Musa állítólag 200 kilogramm aranyat fizetett al-Sahilinek a tervekért.", "A mecset szinte teljes egészében 'banco'-ból, napon szárított vályogtéglából épült.", "Ez Timbuktu három nagy mecsetje közül a legrégebbi.", "Az épület körülbelül 2000 hívő befogadására alkalmas a pénteki ima idején.", "A fagerendák állványzatként szolgálnak a homlokzat éves újravakolásához.", "Djingareybert 1988-ban nyilvánították az UNESCO örökség részévé Sankoréval és Sidi Yahyával együtt."],
       ro: ["Mansa Musa i-ar fi plătit lui al-Sahili 200 de kilograme de aur pentru proiect.", "Moscheea este construită aproape în întregime din 'banco', o cărămidă din pământ uscată la soare.", "Este cea mai veche dintre cele trei mari moșchei din Timbuktu.", "Clădirea poate găzdui aproximativ 2.000 de credincioși în timpul rugăciunii de vineri.", "Grinzile de lemn servesc drept schelă pentru tencuirea anuală a fațadei.", "Djingareyber a fost declarată patrimoniu UNESCO în 1988, împreună cu Sankoré și Sidi Yahya."],
       en: ["Mansa Musa reportedly paid al-Sahili 200 kilograms of gold for the design.", "The mosque is built almost entirely of 'banco,' a sun-dried mud brick.", "It is the oldest of the three great mosques of Timbuktu.", "The building can accommodate approximately 2,000 worshippers during Friday prayers.", "The timber beams serve as scaffolding for the annual replastering of the facade.", "Djingareyber was designated a UNESCO site in 1988 along with Sankoré and Sidi Yahya."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -53,13 +62,19 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Das bedeutendste archäologische und ethnologische Museum des Landes, gelegen in der Hauptstadt Bamako.",
       hu: "Az ország legjelentősebb régészeti és néprajzi múzeuma, mely a fővárosban, Bamakóban található.",
       ro: "Cel mai important muzeu arheologic și etnologic din țară, situat în capitala Bamako.",
-      en: "The most significant archaeological and ethnological museum in the country, located in the capital Bamako."
+      en: "The most significant archaeological and ethnological museum in the country, located in the capital Bamako.",
+      es: "El museo arqueológico y etnológico más importante del país, situado en la capital, Bamako.",
+      pt: "O museu arqueológico e etnológico mais importante do país, localizado na capital, Bamako.",
+      fr: "Le musée archéologique et ethnologique le plus important du pays, situé dans la capitale, Bamako.",
     },
     facts: {
       de: ["Eröffnet im Jahr 1953", "Beherbergt antike Terrakotta-Skulpturen"],
       hu: ["1953-ban nyílt meg", "Ősi terrakotta szobrokat őriz"],
       ro: ["Deschis în 1953", "Adăpostește sculpturi antice din teracotă"],
-      en: ["Opened in 1953", "Houses ancient terracotta sculptures"]
+      en: ["Opened in 1953", "Houses ancient terracotta sculptures"],
+      es: ["Inaugurado en el año 1953", "Alberga antiguas esculturas de terracota"],
+      pt: ["Inaugurado no ano de 1953", "Abriga esculturas antigas de terracota"],
+      fr: ["Ouvert en 1953", "Abrite d'anciennes sculptures en terre cuite"],
     }, image: "/poi-images/national-museum-mali-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Das Nationalmuseum von Mali in Bamako ist eine der führenden archäologischen und ethnographischen Institutionen Afrikas. Gegründet 1953 als Teil des Institut Français d'Afrique Noire, wurde es nach der Unabhängigkeit Malis zu einem zentralen Ort der nationalen Identitätsbildung ausgebaut. Die Architektur des Museums ist selbst ein Kunstwerk; es nutzt lokale Baumaterialien und traditionelle sudanesische Stilelemente, um ein kühles und angenehmes Klima für die Exponate zu schaffen. Die Sammlungen umfassen prähistorische Funde, mittelalterliche Terrakotten aus dem Binnendelta des Niger sowie eine weltberühmte Kollektion traditioneller Textilien und Masken. Besonders hervorzuheben sind die Tellem-Textilien aus den Dogon-Klippen, die zu den ältesten erhaltenen Stoffen Subsahara-Afrikas gehören. Das Museum ist nicht nur ein Aufbewahrungsort für die Vergangenheit, sondern ein lebendiges Kulturzentrum, das regelmäßig zeitgenössische Kunst und Musikveranstaltungen präsentiert.",
@@ -72,6 +87,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["A múzeum a Mali Nemzeti Parkban található, a Koulouba-domb lábánál.", "A mai főépületet 1982-ben avatták fel az UNESCO támogatásával.", "A textilgyűjtemény több mint 3000 darabot tartalmaz különböző korszakokból.", "Az ország nagy vályogmecsetjeinek élethű másolatait is őrzi.", "A Tellem-textilek a Kr. u. 11. századig nyúlnak vissza.", "A múzeum ismert az európai intézményekkel folytatott visszaszolgáltatási együttműködéséről."],
       ro: ["Muzeul este situat în Parcul Național din Mali, la poalele dealului Koulouba.", "Clădirea principală actuală a fost inaugurată în 1982 cu sprijinul UNESCO.", "Colecția de textile cuprinde peste 3.000 de piese din diferite epoci.", "Găzduiește replici în mărime naturală ale marilor moșchei de pământ din țară.", "Textilele Tellem datează din secolul al XI-lea d.Hr.", "Muzeul este cunoscut pentru colaborarea sa cu instituțiile europene pentru restituire."],
       en: ["The museum is located in the Parc National du Mali at the foot of Koulouba Hill.", "The current main building was inaugurated in 1982 with UNESCO support.", "The textile collection includes over 3,000 pieces from various eras.", "It houses life-sized replicas of the country's great mud mosques.", "The Tellem textiles date back to the 11th century AD.", "The museum is known for its collaboration with European institutions on restitution."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -89,13 +107,19 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Ein modernes Hochhaus in Bamako, das die Hauptgeschäftsstelle der Westafrikanischen Zentralbank in Mali beherbergt.",
       hu: "Modern felhőkarcoló Bamakóban, amely a Nyugat-afrikai Központi Bank mali központjának ad otthont.",
       ro: "Un zgârie-nori modern din Bamako, care găzduiește sediul Băncii Centrale a Africii de Vest în Mali.",
-      en: "A modern high-rise in Bamako housing the headquarters of the Central Bank of West African States in Mali."
+      en: "A modern high-rise in Bamako housing the headquarters of the Central Bank of West African States in Mali.",
+      es: "Un rascacielos moderno en Bamako que alberga la sede principal del Banco Central de los Estados de África Occidental en Mali.",
+      pt: "Um moderno arranha-céu em Bamako que alberga a sede do Banco Central dos Estados da África Ocidental no Mali.",
+      fr: "Un gratte-ciel moderne à Bamako abritant le siège de la Banque Centrale des États de l'Afrique de l'Ouest au Mali.",
     },
     facts: {
       de: ["Über 80 Meter hoch", "Neosudanesischer Architekturstil"],
       hu: ["Több mint 80 méter magas", "Neoszudáni építészeti stílus"],
       ro: ["Peste 80 de metri înălțime", "Stil arhitectural neo-sudanez"],
-      en: ["Over 80 meters tall", "Neo-Sudanese architectural style"]
+      en: ["Over 80 meters tall", "Neo-Sudanese architectural style"],
+      es: ["Más de 80 metros de altura", "Estilo arquitectónico neosudanés"],
+      pt: ["Mais de 80 metros de altura", "Estilo arquitetónico neo-sudanês"],
+      fr: ["Plus de 80 mètres de hauteur", "Style architectural néo-soudanais"],
     }, image: "/poi-images/bceao-tower-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Der BCEAO-Turm in Bamako ist das markanteste Symbol der modernen wirtschaftlichen Ambitionen Malis und das höchste Gebäude des Landes. Als Hauptsitz der Zentralbank der westafrikanischen Staaten (BCEAO) in Mali wurde der Wolkenkratzer 1994 fertiggestellt. Das Design ist ein einzigartiges Beispiel für neosudanesische Postmoderne, wobei die vertikale Struktur durch vertikale Linien und ornamentale Abschlüsse betont wird, die an die traditionelle Lehmarchitektur des Sahel erinnern. Mit seinen 20 Stockwerken dominiert der Turm das Stadtbild von Bamako und das Bankenviertel am Ufer des Niger. Er repräsentiert die Integration Malis in das regionale Finanzsystem der Westafrikanischen Wirtschafts- und Währungsunion. Trotz seiner modernen Funktion bleibt der Turm durch seine ästhetischen Anleihen tief in der lokalen Baukultur verwurzelt und dient als Orientierungspunkt für Einheimische und Besucher gleichermaßen.",
@@ -108,6 +132,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["A torony teljes magassága körülbelül 80 méter.", "1994-ben nyitották meg, Alpha Oumar Konaré elnöksége alatt.", "Az épület a Quartier du Fleuve negyedben található.", "A BCEAO mozaikszó a Banque Centrale des États de l'Afrique de l'Ouest rövidítése.", "A homlokzatot olyan elemek díszítik, amelyek a vályogmecsetek toron-gerendáira emlékeztetnek.", "A torony ad otthont az ország aranytartalékainak és a központi valutakezelésnek."],
       ro: ["Turnul are o înălțime totală de aproximativ 80 de metri.", "A fost inaugurat în anul 1994, în timpul președinției lui Alpha Oumar Konaré.", "Clădirea este situată în cartierul Quartier du Fleuve.", "BCEAO este acronimul pentru Banque Centrale des États de l'Afrique de l'Ouest.", "Fațada este decorată cu elemente care amintesc de grinzile toron ale moșcheilor de pământ.", "Turnul găzduiește rezervele de aur și managementul valutar central al țării."],
       en: ["The tower has a total height of approximately 80 meters.", "It was inaugurated in 1994 during the presidency of Alpha Oumar Konaré.", "The building is located in the Quartier du Fleuve district.", "BCEAO stands for Banque Centrale des États de l'Afrique de l'Ouest.", "The facade is decorated with elements reminiscent of the toron beams of mud mosques.", "The tower houses the country's gold reserves and central currency management."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -125,13 +152,19 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Eine wichtige Brücke über den Nigerfluss in Bamako, die das Stadtzentrum mit den südlichen Vororten verbindet.",
       hu: "Fontos híd a Niger folyón Bamakóban, amely összeköti a városközpontot a déli külvárosokkal.",
       ro: "Un pod important peste râul Niger în Bamako, care leagă centrul orașului de suburbiile sudice.",
-      en: "An important bridge over the Niger River in Bamako connecting the city center with the southern suburbs."
+      en: "An important bridge over the Niger River in Bamako connecting the city center with the southern suburbs.",
+      es: "Un importante puente sobre el río Níger en Bamako, que conecta el centro de la ciudad con los suburbios del sur.",
+      pt: "Uma ponte importante sobre o rio Níger em Bamako, que liga o centro da cidade aos subúrbios do sul.",
+      fr: "Un pont important sur le fleuve Niger à Bamako, reliant le centre-ville aux banlieues sud.",
     },
     facts: {
       de: ["Erbaut in den 1990er Jahren", "Finanziert durch Saudi-Arabien"],
       hu: ["Az 1990-es években épült", "Szaúd-Arábia finanszírozta"],
       ro: ["Construit în anii 1990", "Finanțat de Arabia Saudită"],
-      en: ["Built in the 1990s", "Financed by Saudi Arabia"]
+      en: ["Built in the 1990s", "Financed by Saudi Arabia"],
+      es: ["Construido en la década de 1990", "Financiado por Arabia Saudita"],
+      pt: ["Construído na década de 1990", "Financiado pela Arábia Saudita"],
+      fr: ["Construit dans les années 1990", "Financé par l'Arabie Saoudite"],
     }, image: "/poi-images/pont-du-roi-fahd-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Die King-Fahd-Brücke ist eine der wichtigsten Verkehrsadern in Bamako und überpannt den Niger-Fluss, um das Stadtzentrum mit den südlichen Stadtteilen zu verbinden. Das Bauwerk wurde Anfang der 1990er Jahre mit finanzieller Unterstützung aus Saudi-Arabien errichtet und nach dem damaligen saudischen König Fahd ibn Abd al-Aziz benannt. Mit einer Länge von über 750 Metern entlastet sie die ältere Märtyrer-Brücke und ermöglicht den Transport von Gütern und Pendlern in der schnell wachsenden malischen Hauptstadt. Die Architektur ist funktional und robust, wobei die Brücke auch als markantes Wahrzeichen der Stadt am Ufer des Nigers wahrgenommen wird. Für die wirtschaftliche Entwicklung Bamakos spielt sie eine zentrale Rolle, da sie den Zugang zum Flughafen und zu wichtigen Wohngebieten im Süden sichert. In den Abendstunden bietet sie einen weitreichenden Blick auf die Skyline der Stadt und den Schiffsverkehr auf dem Fluss.",
@@ -144,6 +177,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["A hidat hivatalosan 1992-ben adták át a forgalomnak.", "Az építkezést a Szaúdi Fejlesztési Alap kedvezményes hitele finanszírozta.", "A szerkezet teljes hossza megközelítőleg 750 méter.", "Közvetlen kapcsolatot teremt Bamako központja és Badalabougou negyed között.", "A fővárosban ez volt a második állandó híd, amely átíveli a Niger folyót.", "Kulcsfontosságú útvonal a Bamako-Sénou nemzetközi repülőtér felé."],
       ro: ["Podul a fost inaugurat oficial pentru trafic în cursul anului 1992.", "Finanțarea proiectului a fost asigurată de Fondul Saudit pentru Dezvoltare.", "Lungimea totală a structurii este de aproximativ 750 de metri.", "Realizează legătura directă între centrul orașului și cartierul Badalabougou.", "A fost a doua traversare permanentă a Nigerului construită în capitală.", "Este o arteră principală de acces către Aeroportul Internațional Bamako-Sénou."],
       en: ["The bridge was officially opened for public traffic in 1992.", "Construction was funded by a loan from the Saudi Fund for Development.", "The total length of the bridge structure is approximately 750 meters.", "It connects central Bamako directly with the Badalabougou district.", "This was the second permanent bridge built over the Niger in the capital.", "It serves as a primary route for reaching the Bamako-Sénou International Airport."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -161,13 +197,19 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Das größte Sportstadion Malis, das oft für internationale Fußballspiele und Großveranstaltungen genutzt wird.",
       hu: "Mali legnagyobb sportstadionja, amelyet gyakran használnak nemzetközi labdarúgó-mérkőzésekhez és nagy eseményekhez.",
       ro: "Cel mai mare stadion sportiv din Mali, adesea folosit pentru meciuri internaționale de fotbal și evenimente majore.",
-      en: "The largest sports stadium in Mali, often used for international football matches and major events."
+      en: "The largest sports stadium in Mali, often used for international football matches and major events.",
+      es: "El estadio deportivo más grande de Malí, utilizado frecuentemente para partidos de fútbol internacionales y grandes eventos.",
+      pt: "O maior estádio desportivo do Mali, frequentemente utilizado para jogos de futebol internacionais e grandes eventos.",
+      fr: "Le plus grand stade de sport du Mali, souvent utilisé pour les matchs de football internationaux et les grands événements.",
     },
     facts: {
       de: ["Fasst über 50.000 Zuschauer", "Eröffnet im Jahr 2001"],
       hu: ["Több mint 50 000 néző befogadására alkalmas", "2001-ben nyitották meg"],
       ro: ["Capacitate de peste 50.000 de spectatori", "Deschis în 2001"],
-      en: ["Holds over 50,000 spectators", "Opened in 2001"]
+      en: ["Holds over 50,000 spectators", "Opened in 2001"],
+      es: ["Capacidad para más de 50.000 espectadores", "Inaugurado en 2001"],
+      pt: ["Capacidade para mais de 50.000 espectadores", "Inaugurado em 2001"],
+      fr: ["Plus de 50 000 spectateurs", "Ouvert en 2001"],
     }, image: "/poi-images/stade-26-mars-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Das Stade du 26 Mars ist das größte und bedeutendste Nationalstadion von Mali und befindet sich im südlichen Teil der Hauptstadt Bamako. Der Name des Stadions erinnert an den 26. März 1991, den Tag des Sturzes der Diktatur von Moussa Traoré und den Beginn des demokratischen Übergangs im Land. Es wurde im Jahr 2001 fertiggestellt, um als Hauptaustragungsort für die Fußball-Afrikameisterschaft 2002 zu dienen, die Mali ausrichtete. Mit einer Kapazität von etwa 55.000 Zuschauern bietet es eine beeindruckende Kulisse für Länderspiele der malischen Nationalmannschaft sowie für große Leichtathletik-Wettbewerbe. Die Anlage umfasst neben dem Fußballfeld auch eine Laufbahn und verschiedene Trainingseinrichtungen für olympische Disziplinen. Als kulturelles Zentrum wird das Stadion zudem für nationale Feierlichkeiten, Konzerte und politische Großveranstaltungen genutzt, was seine Bedeutung über den Sport hinaus unterstreicht. Die Architektur zeichnet sich durch ihre offene Bauweise und die markanten Tribünen aus, die weithin sichtbar sind.",
@@ -180,6 +222,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["A stadiont hivatalosan 2001-ben adták át.", "A létesítmény hivatalos befogadóképessége 55 000 fő.", "Neve az 1991-es Moussa Traoré elleni felkelés dátumára utal.", "Itt rendezték a 2002-es afrikai nemzetek kupája nyitó- és döntő mérkőzését.", "Az építkezést jelentős részben a Kínai Népköztársaság finanszírozta.", "A stadion a malis nemzeti labdarúgó-válogatott (Les Aigles) elsődleges otthona."],
       ro: ["Stadionul a fost inaugurat oficial în cursul anului 2001.", "Capacitatea oficială a arenei este de 55.000 de spectatori.", "Numele provine de la data revoluției din 1991 împotriva lui Moussa Traoré.", "A găzduit meciurile de deschidere și finala Cupei Africii pe Națiuni din 2002.", "Proiectul de construcție a fost finanțat în mare parte de Republica Populară Chineză.", "Este sediul principal pentru meciurile echipei naționale de fotbal a Mali."],
       en: ["The stadium was officially inaugurated in the year 2001.", "It has an official seating capacity of 55,000 spectators.", "The name refers to the March 1991 overthrow of President Moussa Traoré.", "It hosted the opening match and the final of the 2002 Africa Cup of Nations.", "The construction was largely funded by the People's Republic of China.", "It is the permanent home venue for the Malian national football team (Les Aigles)."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -197,13 +242,19 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Ein wichtiges islamisches Gotteshaus im Zentrum von Bamako, geprägt von ihrer modernen weißen Architektur.",
       hu: "Fontos iszlám istentiszteleti hely Bamako központjában, melyet modern fehér építészete jellemez.",
       ro: "Un important lăcaș de cult islamic în centrul orașului Bamako, caracterizat prin arhitectura sa albă modernă.",
-      en: "An important Islamic place of worship in the center of Bamako, characterized by its modern white architecture."
+      en: "An important Islamic place of worship in the center of Bamako, characterized by its modern white architecture.",
+      es: "Un importante lugar de culto islámico en el centro de Bamako, caracterizado por su moderna arquitectura blanca.",
+      pt: "Um importante local de culto islâmico no centro de Bamako, caracterizado pela sua moderna arquitetura branca.",
+      fr: "Un lieu de culte islamique important au centre de Bamako, caractérisé par son architecture blanche moderne.",
     },
     facts: {
       de: ["Steht auf dem Gelände einer älteren Moschee", "Finanziert durch Saudi-Arabien"],
       hu: ["Egy régebbi mecset helyén áll", "Szaúd-Arábia finanszírozta"],
       ro: ["Se află pe locul unei moschei mai vechi", "Finanțată de Arabia Saudită"],
-      en: ["Stands on the site of an older mosque", "Financed by Saudi Arabia"]
+      en: ["Stands on the site of an older mosque", "Financed by Saudi Arabia"],
+      es: ["Se levanta sobre el emplazamiento de una mezquita antigua", "Financiada por Arabia Saudí"],
+      pt: ["Situada no local de uma mesquita mais antiga", "Financiada pela Arábia Saudita"],
+      fr: ["S'élève sur le site d'une ancienne mosquée", "Financée par l'Arabie saoudite"],
     },
     descriptionAdvanced: {
       de: "Die Große Moschee von Bamako ist das geistige Zentrum der malischen Hauptstadt und ein herausragendes Beispiel für die moderne religiöse Architektur des Landes. Das heutige Gebäude wurde in den 1970er Jahren an der Stelle einer älteren Moschee aus der Kolonialzeit errichtet, wobei die Finanzierung maßgeblich durch Saudi-Arabien unterstützt wurde. Die Moschee befindet sich im Herzen des geschäftigen Stadtzentrums, in der Nähe des Großen Marktes, und bietet Platz für Tausende von Gläubigen während des Freitagsgebets. Mit ihren zwei markanten Minaretten, die das Stadtbild überragen, ist sie ein weithin sichtbares Symbol des Islam, der die Kultur Malis seit Jahrhunderten prägt. Die Architektur verbindet traditionelle sudanesische Stilelemente mit modernen Bautechniken und Materialien wie Beton und Fliesen. Neben dem Gebetssaal dient der Komplex auch als Ort der religiösen Unterweisung und als Treffpunkt für die muslimische Gemeinschaft der Stadt. Ihre zentrale Lage macht sie zu einem wichtigen Orientierungspunkt für Besucher und Bewohner gleichermaßen.",
@@ -216,6 +267,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["A jelenlegi mecset építése 1975-ben fejeződött be.", "Az épület egy korábbi, 1948-ban emelt mecset helyén áll.", "A kivitelezést Szaúd-Arábia finanszírozta ajándékként Mali népének.", "Két magas minaretje a város egyik legjellegzetesebb ismertetőjele.", "A mecset Bamako központi Bagadadji negyedében található.", "Közvetlen szomszédságában működik a Grand Marché, a város főpiaca."],
       ro: ["Edificiul actual al moscheii a fost finalizat în anul 1975.", "A fost construită pe amplasamentul unei moschei anterioare din 1948.", "Arabia Saudită a asigurat finanțarea integrală a proiectului de construcție.", "Structura este flancată de două minarete impunătoare și moderne.", "Moscheea este amplasată în cartierul central Bagadadji din Bamako.", "Se află la mică distanță de Grand Marché, cel mai mare târg din capitală."],
       en: ["The current mosque building was completed in the year 1975.", "It was constructed on the site of an earlier mosque dating from 1948.", "The project was funded by Saudi Arabia as a gift to the people of Mali.", "The structure features two tall, prominent minarets that define its profile.", "The mosque is located in the Bagadadji district of central Bamako.", "It is situated very close to the Grand Marché, the city's central market."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -233,13 +287,19 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Die wichtigste römisch-katholische Kirche in Bamako, ein Symbol für das christliche Erbe der Stadt.",
       hu: "Bamako legfontosabb római katolikus temploma, a város keresztény örökségének szimbóluma.",
       ro: "Cea mai importantă biserică romano-catolică din Bamako, un simbol al moștenirii creștine a orașului.",
-      en: "The most important Roman Catholic church in Bamako, a symbol of the city's Christian heritage."
+      en: "The most important Roman Catholic church in Bamako, a symbol of the city's Christian heritage.",
+      es: "La iglesia católica romana más importante de Bamako, símbolo de la herencia cristiana de la ciudad.",
+      pt: "A igreja católica romana mais importante de Bamako, um símbolo da herança cristã da cidade.",
+      fr: "La plus importante église catholique romaine de Bamako, symbole de l'héritage chrétien de la ville.",
     },
     facts: {
       de: ["Fertiggestellt im Jahr 1936", "Sitz der Erzdiözese Bamako"],
       hu: ["1936-ban készült el", "A bamakói főegyházmegye székhelye"],
       ro: ["Finalizată în 1936", "Sediul Arhidiecezei de Bamako"],
-      en: ["Completed in 1936", "Seat of the Archdiocese of Bamako"]
+      en: ["Completed in 1936", "Seat of the Archdiocese of Bamako"],
+      es: ["Completada en 1936", "Sede de la archidiócesis de Bamako"],
+      pt: ["Concluída em 1936", "Sede da arquidiocese de Bamako"],
+      fr: ["Achevée en 1936", "Siège de l'archidiocèse de Bamako"],
     }, image: "/poi-images/sacred-heart-cathedral-bamako-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Die Kathedrale Sacré-Cœur in Bamako ist die bedeutendste römisch-katholische Kirche Malis und der Sitz des Erzbistums Bamako. Das im neoromanischen Stil errichtete Bauwerk wurde in der Zeit zwischen 1925 und 1936 während der französischen Kolonialherrschaft erbaut. Die feierliche Grundsteinlegung erfolgte durch den damaligen Apostolischen Vikar, wobei die Fertigstellung über ein Jahrzehnt dauerte. Die Kathedrale zeichnet sich durch ihre helle Fassade und die zwei charakteristischen Glockentürme aus, die sich harmonisch in das Stadtbild der malischen Hauptstadt einfügen. Im Inneren finden sich kunstvolle Glasfenster und eine schlichte, aber würdevolle Ausstattung, die einen Ort der Stille inmitten der quirligen Metropole bietet. Während die Mehrheit der Bevölkerung Malis muslimisch ist, dient die Kathedrale als wichtiges Zentrum für die christliche Minderheit und als Symbol für religiöse Toleranz im Land. Sie befindet sich im Zentrum von Bamako und ist ein Zeugnis der Missionsgeschichte Westafrikas.",
@@ -252,6 +312,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["A székesegyház alapkövét 1925. február 21-én rakták le.", "Az épületet 1936. június 30-án szentelték fel ünnepélyes keretek között.", "Ez a Bamakói Főegyházmegye érseki székhelye.", "Az építészeti stílus neoromán, erős európai hatásokkal.", "Az épület a belvárosi Avenue de la Cathédrale úton található.", "Ez a legnagyobb keresztény templom Mali egész területén."],
       ro: ["Piatra de temelie a catedralei a fost pusă la 21 februarie 1925.", "Construcția a fost sfințită oficial la data de 30 iunie 1936.", "Catedrala este reședința oficială a Arhiepiscopului de Bamako.", "Stilul arhitectural adoptat este neoromanic, specific epocii coloniale.", "Este situată pe Avenue de la Cathédrale, în centrul capitalei.", "Reprezintă cel mai mare edificiu religios creștin din Republica Mali."],
       en: ["The foundation stone of the cathedral was laid on February 21, 1925.", "The building was formally consecrated on June 30, 1936.", "It serves as the seat of the Archbishop of the Archdiocese of Bamako.", "The architectural style is Neo-Romanesque with European colonial traits.", "The cathedral is located on Avenue de la Cathédrale in central Bamako.", "It is the largest Christian church structure in the Republic of Mali."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -269,13 +332,19 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Die historischen Überreste einer monumentalen Moschee in der einstigen Hauptstadt des Massina-Reichs.",
       hu: "Egy monumentális mecset történelmi maradványai a Massina Birodalom egykori fővárosában.",
       ro: "Rămășițele istorice ale unei moschei monumentale din fosta capitală a Imperiului Massina.",
-      en: "The historical remains of a monumental mosque in the former capital of the Massina Empire."
+      en: "The historical remains of a monumental mosque in the former capital of the Massina Empire.",
+      es: "Los restos históricos de una mezquita monumental en la que fuera capital del Imperio de Massina.",
+      pt: "Os vestígios históricos de uma mesquita monumental na antiga capital do Império Massina.",
+      fr: "Les vestiges historiques d'une mosquée monumentale dans l'ancienne capitale de l'Empire du Macina.",
     },
     facts: {
       de: ["Teil der historischen Stadt Hamdallaye", "Erbaut im frühen 19. Jahrhundert"],
       hu: ["A történelmi Hamdallaye város része", "A 19. század elején épült"],
       ro: ["Face parte din orașul istoric Hamdallaye", "Construită la începutul secolului al XIX-lea"],
-      en: ["Part of the historic city of Hamdallaye", "Built in the early 19th century"]
+      en: ["Part of the historic city of Hamdallaye", "Built in the early 19th century"],
+      es: ["Parte de la ciudad histórica de Hamdallaye", "Construida a principios del siglo XIX"],
+      pt: ["Parte da cidade histórica de Hamdallaye", "Construída no início do século XIX"],
+      fr: ["Fait partie de la ville historique de Hamdallaye", "Construite au début du XIXe siècle"],
     }, image: "/poi-images/hamdallaye-mosque-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Die Überreste der Moschee von Hamdallaye markieren den Ort der einstigen Hauptstadt des Massina-Reiches, das im 19. Jahrhundert ein Zentrum der islamischen Gelehrsamkeit in Westafrika war. Hamdallaye wurde 1820 von Sékou Amadou gegründet, um einen strengen theokratischen Staat zu errichten, der sich von den Einflüssen der Bambara-Königreiche abgrenzte. Die Moschee war das Herzstück dieser Siedlung und spiegelte in ihrer schlichten Lehmbauweise die asketischen Werte des Herrschers wider. Im Jahr 1862 wurde die Stadt nach einer Belagerung durch die Truppen von El Hadj Umar Tall zerstört, was das Ende des Massina-Reiches einläutete. Heute sind von der einst prächtigen Anlage nur noch Ruinen und Grundmauern erhalten, die Archäologen und Historikern wichtige Einblicke in die Architektur und Gesellschaft dieser Ära bieten. Die Stätte liegt südlich von Mopti und gilt als bedeutendes kulturelles Erbe, das an den religiösen Eifer und die politische Organisation der Fulbe-Dschihadisten erinnert. Trotz des Verfalls bleibt Hamdallaye ein Ort der Erinnerung an eine kurze, aber einflussreiche Periode malischer Geschichte.",
@@ -288,6 +357,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["Hamdallayét 1820-ban alapították a Masszina Birodalom fővárosaként.", "Sékou Amadou a várost a vallási tisztaság központjának szánta.", "A települést 1862-ben El Hadj Umar Tall csapatai pusztították el.", "A régészeti feltárások egy nagy, négyszögletes mecset alapjait mutatják.", "A lelőhely körülbelül 50 kilométerre délre található Mopti városától.", "Fénykorában a városban becslések szerint 600 korániskola működött."],
       ro: ["Hamdallaye a fost fondat în 1820 drept capitală a Imperiului Massina.", "Sékou Amadou a conceput orașul ca un bastion al purității religioase.", "Orașul a fost asediat și distrus în anul 1862 de El Hadj Umar Tall.", "Vestigiile arheologice indică prezența unei moschei de formă pătrată.", "Situl se află la o distanță de aproximativ 50 km sud de orașul Mopti.", "La apogeul său, orașul găzduia circa 600 de școli coranice active."],
       en: ["Hamdallaye was founded in 1820 as the capital of the Massina Empire.", "Sékou Amadou designed the city as a center for religious purity.", "The city was destroyed in 1862 by the invading forces of El Hadj Umar Tall.", "Archaeological remains show the outlines of a large, square mosque.", "The site is located approximately 50 kilometers south of Mopti.", "At its height, the city was estimated to host around 600 Quranic schools."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -305,13 +377,19 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Eine weitere bedeutende Lehmbau-Moschee in Djenné, die das reiche islamische Erbe der Region widerspiegelt.",
       hu: "Egy másik jelentős vályogépítésű mecset Djennében, amely a régió gazdag iszlám örökségét tükrözi.",
       ro: "O altă moschee importantă din lut în Djenné, reflectând bogata moștenire islamică a regiunii.",
-      en: "Another significant mud-brick mosque in Djenné reflecting the region's rich Islamic heritage."
+      en: "Another significant mud-brick mosque in Djenné reflecting the region's rich Islamic heritage.",
+      es: "Otra importante mezquita de adobe en Djenné que refleja la rica herencia islámica de la región.",
+      pt: "Outra importante mesquita de adobe em Djenné que reflete a rica herança islâmica da região.",
+      fr: "Une autre importante mosquée en terre crue à Djenné qui reflète le riche héritage islamique de la région.",
     },
     facts: {
       de: ["Architektonisch ähnlich der Großen Moschee", "Wichtiger Treffpunkt für lokale Gläubige"],
       hu: ["Építészetileg hasonló a Nagymecsethez", "A helyi hívők fontos találkozóhelye"],
       ro: ["Similară arhitectural cu Marea Moschee", "Loc important de întâlnire pentru credincioșii locali"],
-      en: ["Architecturally similar to the Great Mosque", "Important gathering place for local believers"]
+      en: ["Architecturally similar to the Great Mosque", "Important gathering place for local believers"],
+      es: ["Arquitectónicamente similar a la Gran Mezquita", "Importante punto de encuentro para los creyentes locales"],
+      pt: ["Arquitetonicamente semelhante à Grande Mesquita", "Importante ponto de encontro para os crentes locais"],
+      fr: ["Architecturalement similaire à la Grande Mosquée", "Lieu de rassemblement important pour les fidèles locaux"],
     }, image: "/poi-images/niando-mosque-djenne-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Die Niando-Moschee, auch bekannt als Sané-Moschee, ist eines der ältesten religiösen Gebäude in der historischen Stadt Djenné und ein wichtiges Beispiel für den sudano-sahelischen Baustil. Djenné ist weltweit für seine Lehmarchitektur bekannt, und die Niando-Moschee verkörpert die jahrhundertealte Tradition der Verwendung von sonnengetrockneten Ziegeln (Banco). Das Gebäude zeichnet sich durch seine charakteristischen Holzbalken aus, die aus der Fassade ragen und sowohl als dauerhaftes Gerüst für jährliche Instandsetzungsarbeiten als auch als Dekoration dienen. Im Gegensatz zur monumentalen Großen Moschee von Djenné hat die Niando-Moschee einen intimeren Charakter und dient der lokalen Gemeinschaft in ihrem Viertel als Gebetsstätte. Ihre Geschichte ist eng mit der Ausbreitung des Islam im Niger-Binnendelta verknüpft und spiegelt die Anpassung religiöser Architektur an lokale klimatische Bedingungen wider. Als Teil der Altstadt von Djenné gehört sie zum UNESCO-Weltkulturerbe. Die Erhaltung dieser Struktur erfordert ständige Pflege durch die Bewohner, was die soziale Bindung innerhalb der Stadt stärkt.",
@@ -324,6 +402,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["A mecset Djenné UNESCO Világörökségi helyszínének szerves része.", "Hagyományos, napon szárított vályogtéglából (banco) épült.", "A homlokzatból kiálló fagerendákat 'toron'-nak nevezik.", "A történelmi óváros egyik legrégebbi negyedi mecseteként tartják számon.", "Az épületet minden évben, az esős évszak után újra kell vakolni vályoggal.", "Az építészeti stílus a nyugat-afrikai vályogépítészet klasszikus példája."],
       ro: ["Moscheea face parte integrantă din situl UNESCO Orașele Vechi din Djenné.", "Este construită integral din cărămizi de pământ uscate la soare (banco).", "Grinzile de lemn care străpung zidurile sunt cunoscute sub numele de 'toron'.", "Este considerată una dintre cele mai vechi moschei de cartier din centrul istoric.", "Edificiul necesită o retencuire anuală cu lut după încheierea sezonului ploios.", "Stilul arhitectural este un exemplu clasic al tradiției sudano-saheliene."],
       en: ["The mosque is an integral part of the UNESCO World Heritage site of Djenné.", "It was constructed traditionally using sun-dried mud bricks known as banco.", "The protruding wooden beams in the facade are locally called 'toron'.", "It is recognized as one of the oldest neighborhood mosques in the historic center.", "The building requires annual replastering with mud after each rainy season.", "The architectural style is a classic example of West African earth architecture."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -341,13 +422,19 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Eine beeindruckende Lehmpyramide in Gao, die als Ruhestätte für Askia Mohammad I., den Kaiser des Songhai-Reiches, dient.",
       hu: "Lenyűgöző vályogpiramis Gaóban, amely Askia Mohammad I, a Szonghai Birodalom császárának végső nyughelye.",
       ro: "O impresionantă piramidă de lut în Gao, care servește drept loc de odihnă pentru Askia Mohammad I, împăratul Imperiului Songhai.",
-      en: "An impressive mud-brick pyramid in Gao serving as the resting place of Askia Mohammad I, Emperor of the Songhai Empire."
+      en: "An impressive mud-brick pyramid in Gao serving as the resting place of Askia Mohammad I, Emperor of the Songhai Empire.",
+      es: "Una impresionante pirámide de barro en Gao que sirve como lugar de descanso para Askia Mohammad I, el emperador del Imperio Songhai.",
+      pt: "Uma impressionante pirâmide de barro em Gao que serve de local de descanso para Askia Mohammad I, o imperador do Império Songhai.",
+      fr: "Une impressionnante pyramide de terre à Gao, servant de sépulture à Askia Mohammad Ier, empereur de l'Empire songhaï.",
     },
     facts: {
       de: ["Erbaut am Ende des 15. Jahrhunderts", "Ist ein UNESCO-Weltkulturerbe"],
       hu: ["A 15. század végén épült", "UNESCO Világörökség része"],
       ro: ["Construit la sfârșitul secolului al XV-lea", "Este un sit al Patrimoniului Mondial UNESCO"],
-      en: ["Built at the end of the 15th century", "Is a UNESCO World Heritage site"]
+      en: ["Built at the end of the 15th century", "Is a UNESCO World Heritage site"],
+      es: ["Construida a finales del siglo XV", "Es Patrimonio de la Humanidad por la UNESCO"],
+      pt: ["Construída no final do século XV", "É Património Mundial da UNESCO"],
+      fr: ["Construit à la fin du XVe siècle", "Classé au patrimoine mondial de l'UNESCO"],
     }, image: "/poi-images/tomb-of-askia-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Das Grabmal von Askia in Gao ist ein monumentales Zeugnis der Macht und des Reichtums des Songhai-Reiches im späten 15. Jahrhundert. Es wurde 1495 von Askia Mohammad I., dem Begründer der Askia-Dynastie, nach seiner Rückkehr von einer Pilgerreise nach Mekka errichtet. Das markanteste Merkmal ist die 17 Meter hohe, pyramidenförmige Struktur aus Lehm, die von zahlreichen Holzbalken durchzogen ist. Diese Balken dienen als dauerhaftes Gerüst für die regelmäßigen Instandsetzungsarbeiten, die für den Erhalt der Lehmstruktur in der trockenen Sahelzone unerlässlich sind. Der Komplex umfasst neben dem Grabmal auch zwei Flachdach-Moscheen, einen Friedhof und einen Versammlungsplatz. Das Grabmal von Askia wurde 2004 in die UNESCO-Welterbeliste aufgenommen, da es die Verschmelzung lokaler Bautraditionen mit islamischen Einflüssen auf einzigartige Weise dokumentiert. Es bleibt ein wichtiges kulturelles und religiöses Symbol für die Menschen in Gao und ganz Mali. Die Architektur spiegelt die strategische Bedeutung von Gao als Knotenpunkt des Transsahara-Handels wider.",
@@ -360,6 +447,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["A sírbolt Krisztus után 1495-ben épült.", "A piramis alakú központi építmény magassága eléri a 17 métert.", "I. Askia Mohammad a legenda szerint Mekkából hozatott földet az építéshez.", "Az építmény 2004 óta szerepel az UNESCO Világörökségi listáján.", "A sírbolt Gao városában, Mali északi részén található.", "Ez a Songhai Birodalom legjobb állapotban fennmaradt műemléke."],
       ro: ["Mormântul a fost construit în anul 1495 după Hristos.", "Structura piramidală principală are o înălțime de 17 metri.", "Se spune că Askia Mohammad I a adus pământ din Mecca pentru construcție.", "Edificiul a fost înscris în Patrimoniul Mondial UNESCO în anul 2004.", "Este situat în orașul Gao, în regiunea de nord a statului Mali.", "Reprezintă cel mai bine conservat monument al fostului Imperiu Songhai."],
       en: ["The tomb was constructed in the year 1495 AD.", "The central pyramidal structure reaches a height of 17 meters.", "Askia Mohammad I reportedly brought mud from Mecca for the construction.", "It was officially inscribed as a UNESCO World Heritage site in 2004.", "The site is located in the city of Gao in northern Mali.", "It is considered the best-preserved monument of the Songhai Empire."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -377,13 +467,19 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Ein historisches religiöses Zentrum in Gao, das eng mit der Geschichte des Songhai-Reiches verbunden ist.",
       hu: "Gao történelmi vallási központja, amely szorosan kapcsolódik a Szonghai Birodalom történetéhez.",
       ro: "Un centru religios istoric din Gao, strâns legat de istoria Imperiului Songhai.",
-      en: "A historic religious center in Gao closely tied to the history of the Songhai Empire."
+      en: "A historic religious center in Gao closely tied to the history of the Songhai Empire.",
+      es: "Un centro religioso histórico en Gao, estrechamente vinculado a la historia del Imperio Songhai.",
+      pt: "Um centro religioso histórico em Gao, estreitamente ligado à história do Império Songhai.",
+      fr: "Un centre religieux historique à Gao, étroitement lié à l'histoire de l'Empire songhaï.",
     },
     facts: {
       de: ["Erbaut in der Nähe des Askia-Grabmals", "Traditionelle Sahel-Architektur"],
       hu: ["Az Askia sírhely közelében épült", "Hagyományos száheli építészet"],
       ro: ["Construită în apropierea Mormântului lui Askia", "Arhitectură tradițională din Sahel"],
-      en: ["Built near the Tomb of Askia", "Traditional Sahelian architecture"]
+      en: ["Built near the Tomb of Askia", "Traditional Sahelian architecture"],
+      es: ["Construida cerca de la Tumba de los Askia", "Arquitectura tradicional del Sahel"],
+      pt: ["Construída perto do Túmulo de Ásquia", "Arquitetura tradicional do Sahel"],
+      fr: ["Construite à proximité du Tombeau des Askia", "Architecture sahélienne traditionnelle"],
     }, image: "/poi-images/gao-grand-mosque-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Die Große Moschee von Gao ist ein bedeutendes religiöses und historisches Bauwerk in einer der ältesten Städte Westafrikas. Gao war einst die blühende Hauptstadt des Songhai-Reiches, und die Moschee zeugt von der tiefen Verwurzelung des Islam in dieser Region seit dem Mittelalter. Die Architektur ist im traditionellen sudano-sahelischen Stil gehalten, wobei sonnengetrockneter Lehm als primäres Baumaterial dient. Charakteristisch sind die dicken Mauern, die im Inneren für Kühle sorgen, sowie die markanten Minarette, die die Umgebung überragen. Obwohl das Gebäude im Laufe der Jahrhunderte mehrfach renoviert und erweitert wurde, hat es seine authentische Form und spirituelle Bedeutung bewahrt. Als Zentrum des Gebets und der Gemeinschaft spielt die Moschee eine zentrale Rolle im täglichen Leben der Bewohner von Gao. Sie steht in enger architektonischer und historischer Verbindung zum nahegelegenen Grabmal von Askia. Die Erhaltung dieses Lehmbauwerks ist eine ständige Herausforderung, die durch gemeinschaftliches Engagement und traditionelles Handwerk bewältigt wird.",
@@ -396,6 +492,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["A mecset Gao történelmi központjában található.", "Hagyományos szudáni-száheli vályogépítészeti stílusban készült.", "Gao a 15. és 16. században a Songhai Birodalom hatalmi központja volt.", "A mecset szoros kapcsolatban áll az UNESCO Világörökség részét képező Askia-sírbolttal.", "A vastag vályogfalak természetes hőmérséklet-szabályozóként működnek.", "A rendszeres karbantartás biztosítja a szerkezet védelmét az időjárás ellen."],
       ro: ["Moscheea este situată în centrul istoric al orașului Gao.", "A fost construită în stilul tradițional sudano-sahelian din chirpici.", "Gao a fost centrul de putere al Imperiului Songhai în secolele XV și XVI.", "Este strâns asociată cu Mormântul lui Askia, sit aflat în patrimoniul UNESCO.", "Zidurile groase de lut asigură reglarea naturală a temperaturii interioare.", "Întreținerea periodică este vitală pentru protejarea structurii de eroziune."],
       en: ["The mosque is located in the historical center of the city of Gao.", "It was built using the traditional Sudano-Sahelian mud-brick technique.", "Gao was the power center of the Songhai Empire during the 15th and 16th centuries.", "The mosque is historically linked to the UNESCO-listed Tomb of Askia.", "The thick mud walls function as a natural form of climate control.", "Regular community maintenance is required to protect the structure from erosion."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -413,13 +512,19 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Ein modernes Wahrzeichen in Gao, das lokale kulturelle Elemente und historische Bedeutung in sich vereint.",
       hu: "Egy modern nevezetesség Gaóban, amely ötvözi a helyi kulturális elemeket és a történelmi jelentőséget.",
       ro: "Un punct de reper modern în Gao care combină elemente culturale locale și semnificație istorică.",
-      en: "A modern landmark in Gao combining local cultural elements and historical significance."
+      en: "A modern landmark in Gao combining local cultural elements and historical significance.",
+      es: "Un hito moderno en Gao que combina elementos culturales locales y significado histórico.",
+      pt: "Um marco moderno em Gao que combina elementos culturais locais e significado histórico.",
+      fr: "Un monument moderne à Gao qui combine des éléments culturels locaux et une importance historique.",
     },
     facts: {
       de: ["Zentral gelegen", "Treffpunkt in der Stadt"],
       hu: ["Központi elhelyezkedésű", "Találkozóhely a városban"],
       ro: ["Situat central", "Punct de întâlnire în oraș"],
-      en: ["Centrally located", "Gathering place in the city"]
+      en: ["Centrally located", "Gathering place in the city"],
+      es: ["Ubicación céntrica", "Punto de encuentro en la ciudad"],
+      pt: ["Localização central", "Ponto de encontro na cidade"],
+      fr: ["Situé au centre", "Point de rencontre dans la ville"],
     }, image: "/poi-images/monument-alkabass-gao-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Das Alkabass-Monument in Gao ist ein bedeutendes Denkmal, das an die historische Herkunft und die islamische Identität der Songhai-Bevölkerung erinnert. Es symbolisiert den Übergang der Region zum Islam und die Ankunft muslimischer Gelehrter und Siedler, die das kulturelle Gefüge des Niger-Knies nachhaltig prägten. Der Name 'Alkabass' bezieht sich oft auf die Stadt Al-Abbas oder historische Verbindungen in den Nahen Osten, die in der mündlichen Überlieferung der Region eine wichtige Rolle spielen. Das Monument ist architektonisch schlicht gehalten, trägt aber eine tiefe symbolische Last als Wahrzeichen für den Stolz und die Geschichte von Gao. Es dient als Treffpunkt für kulturelle Veranstaltungen und als Ort der Erinnerung an die glorreichen Zeiten der mittelalterlichen westafrikanischen Reiche. In der Stadtlandschaft von Gao stellt es einen wichtigen Bezugspunkt dar, der die Verbindung zwischen Vergangenheit und Gegenwart verdeutlicht. Es unterstreicht die Rolle Gaos als Zentrum des Wissens und des Handels in der Sahara-Region.",
@@ -432,6 +537,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["Az emlékmű Gao városában, Kelet-Maliban található.", "Az 'Alkabass' név történelmi közel-keleti kapcsolatokra utal.", "Az iszlám telepesek régióba érkezésének állít emléket.", "A monumentum a songhai etnikai identitás egyik jelképe.", "Gyakran szolgál városi ünnepségek és ceremóniák központi helyszíneként.", "Gao a 15. és 16. században a Songhai Birodalom központja volt."],
       ro: ["Monumentul este amplasat în orașul Gao din estul statului Mali.", "Denumirea 'Alkabass' sugerează legături istorice cu Orientul Mijlociu.", "Comemorează sosirea primilor coloniști musulmani în această regiune.", "Este un simbol important al identității etnice Songhai.", "Servește frecvent ca punct central pentru ceremoniile urbane.", "Gao a fost nucleul Imperiului Songhai în secolele al XV-lea și al XVI-lea."],
       en: ["The monument is located in the city of Gao in eastern Mali.", "The name 'Alkabass' refers to historical links with the Middle East.", "It commemorates the arrival of Islamic settlers in the Niger region.", "The landmark is a symbol of Songhai ethnic and cultural identity.", "It often serves as a focal point for public city ceremonies.", "Gao was the capital of the Songhai Empire during the 15th and 16th centuries."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -449,13 +557,19 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Ein prächtiges Gebäude der islamischen Architektur in Ségou, dem historischen Zentrum des Bamana-Reiches.",
       hu: "A ségoui iszlám építészet pompás épülete, a Bamana Birodalom történelmi központjában.",
       ro: "O clădire magnifică a arhitecturii islamice din Ségou, centrul istoric al Imperiului Bamana.",
-      en: "A magnificent building of Islamic architecture in Ségou, the historic center of the Bamana Empire."
+      en: "A magnificent building of Islamic architecture in Ségou, the historic center of the Bamana Empire.",
+      es: "Un magnífico edificio de arquitectura islámica en Ségou, el centro histórico del Imperio Bamana.",
+      pt: "Um magnífico edifício de arquitetura islâmica em Ségou, o centro histórico do Império Bamana.",
+      fr: "Un magnifique édifice d'architecture islamique à Ségou, le centre historique de l'Empire bambara.",
     },
     facts: {
       de: ["Große Gebetshalle", "Auffällige Minarette"],
       hu: ["Nagy imaterem", "Feltűnő minaretek"],
       ro: ["Sală mare de rugăciune", "Minarete atrăgătoare"],
-      en: ["Large prayer hall", "Striking minarets"]
+      en: ["Large prayer hall", "Striking minarets"],
+      es: ["Gran sala de oración", "Minaretes llamativos"],
+      pt: ["Grande sala de oração", "Minaretes impressionantes"],
+      fr: ["Grande salle de prière", "Minarets remarquables"],
     }, image: "/poi-images/segou-grand-mosque-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Die Große Moschee von Ségou ist ein architektonisches Juwel am Ufer des Nigers und repräsentiert die religiöse und kulturelle Vielfalt der Region Ségou. Die Stadt war im 18. und 19. Jahrhundert die Hauptstadt des Bambara-Reiches und später ein Zentrum des Toucouleur-Reiches, was sich in den unterschiedlichen Einflüssen auf die Sakralarchitektur widerspiegelt. Die Moschee ist im klassischen sudano-sahelischen Stil aus Lehm errichtet und verfügt über markante, spitz zulaufende Minarette und dicke Stützmauern. Die Fassade ist mit den typischen Holzbalken verziert, die sowohl dekorativ als auch funktional für die jährliche Erneuerung des Verputzes sind. Im Inneren bietet die Moschee eine kühle und ruhige Atmosphäre für die Gebete der lokalen muslimischen Gemeinschaft. Ihre Lage in der Nähe des Flusses macht sie zu einem malerischen Orientierungspunkt und unterstreicht die historische Bedeutung Ségous als Handelszentrum am Niger. Das Gebäude wird von den Bewohnern mit Stolz gepflegt und ist ein lebendiges Symbol für den Fortbestand traditioneller Bautechniken in Mali.",
@@ -468,6 +582,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["A mecset Ségou városában, a Niger folyó partján található.", "Hagyományos nyugat-afrikai vályogépítészeti stílusban készült.", "Ségou egykor a hatalmas Bambara Birodalom fővárosa volt.", "A mecset minaretjei jellegzetes, csúcsos formájúak.", "Mali többi vályogépületéhez hasonlóan évente közösségi munkával újítják fel.", "Az építészet a bambara és az iszlám kultúra hatásait egyaránt tükrözi."],
       ro: ["Moscheea este situată în orașul Ségou, pe malul fluviului Niger.", "A fost ridicată folosind tehnica tradițională a chirpiciului vest-african.", "Ségou a fost în trecut capitala influentului Imperiu Bambara.", "Minaretele moscheii au o formă ascuțită, specifică regiunii.", "La fel ca alte structuri din lut, este tencuită anual prin efort comunitar.", "Arhitectura îmbină elemente culturale Bambara cu motive islamice."],
       en: ["The mosque is located in Ségou city on the banks of the Niger River.", "It was constructed using the traditional West African earth-building style.", "Ségou was once the capital of the powerful Bambara Empire.", "The mosque's minarets feature a characteristic pointed, tapering shape.", "Like all mud structures in Mali, it undergoes annual community replastering.", "The architecture reflects a blend of Bambara cultural and Islamic motifs."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -485,13 +602,19 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Die historischen Überreste der Residenz des Gründers des Bamana-Reiches im 18. Jahrhundert nahe Ségou.",
       hu: "A Bamana Birodalom 18. századi alapítójának rezidenciájának történelmi maradványai Ségou közelében.",
       ro: "Rămășițele istorice ale reședinței fondatorului din secolul al XVIII-lea al Imperiului Bamana, lângă Ségou.",
-      en: "The historical remains of the residence of the 18th-century founder of the Bamana Empire near Ségou."
+      en: "The historical remains of the residence of the 18th-century founder of the Bamana Empire near Ségou.",
+      es: "Los restos históricos de la residencia del fundador del Imperio Bamana en el siglo XVIII, cerca de Ségou.",
+      pt: "Os vestígios históricos da residência do fundador do Império Bamana no século XVIII, perto de Ségou.",
+      fr: "Les vestiges historiques de la résidence du fondateur de l'Empire bambara au XVIIIe siècle, près de Ségou.",
     },
     facts: {
       de: ["Stammt aus dem 18. Jahrhundert", "Befindet sich in Ségou-Koro"],
       hu: ["A 18. századból származik", "Ségou-Koróban található"],
       ro: ["Datează din secolul al XVIII-lea", "Situat în Ségou-Koro"],
-      en: ["Dates from the 18th century", "Located in Ségou-Koro"]
+      en: ["Dates from the 18th century", "Located in Ségou-Koro"],
+      es: ["Data del siglo XVIII", "Se encuentra en Ségou-Koro"],
+      pt: ["Data do século XVIII", "Localizado em Ségou-Koro"],
+      fr: ["Date du XVIIIe siècle", "Situé à Ségou-Koro"],
     },
     descriptionAdvanced: {
       de: "Der Palast von Biton Mamary Coulibaly in Ségou-Koro stellt das historische und spirituelle Zentrum des ehemaligen Bamana-Reiches dar. Mamary Coulibaly, der von 1712 bis 1755 regierte, festigte in dieser Residenz seine Macht und schuf eine schlagkräftige militärische Organisation namens Tonjon. Die heute sichtbaren Ruinen aus traditionellen Lehmziegeln zeugen von der westafrikanischen Lehmbauarchitektur des 18. Jahrhunderts und dem einstigen Glanz der Dynastie. Ségou-Koro war die ursprüngliche Hauptstadt des Reiches, bevor sich das administrative Zentrum später in die moderne Stadt Ségou verschob. Der Gebäudekomplex umfasst neben den Palastresten auch das Grab des Herrschers, welches bis heute ein bedeutender Ort für lokale Zeremonien ist. Historiker betrachten die Stätte als essenziell für die Erforschung der politischen Strukturen Westafrikas vor der Kolonialzeit. Die Erhaltung der Ruinen ist eine Herausforderung, da das Material anfällig für die jährlichen Regenfälle ist.",
@@ -504,6 +627,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["Biton Coulibaly uralkodásának ideje: 1712–1755.", "Ségou-Koro körülbelül 10 kilométerre fekszik a modern Ségou városától.", "A helyszínen található a Coulibaly-dinasztia alapítójának sírja.", "A palota volt a Tonjon nevű elit katonai egység központja.", "Az építmények hagyományos vályogból (banco) készültek.", "Ségou-Koro volt a Bamana Birodalom legelső fővárosa."],
       ro: ["Perioada de domnie a lui Biton Coulibaly: 1712–1755.", "Ségou-Koro este situat la aproximativ 10 kilometri de orașul modern Ségou.", "Situl adăpostește mormântul fondatorului dinastiei Coulibaly.", "Palatul a fost centrul de comandă al elitei militare Tonjon.", "Construcția utilizează tehnica tradițională banco (pământ și paie).", "Ségou-Koro a fost prima capitală a Imperiului Bamana."],
       en: ["Reign of Biton Mamary Coulibaly lasted from 1712 to 1755.", "Ségou-Koro is located approximately 10 kilometers from modern Ségou.", "The site houses the tomb of the Bamana Empire's founder.", "The palace served as the headquarters for the Tonjon military elite.", "Structures are built using traditional banco mud-brick techniques.", "Ségou-Koro served as the first capital of the Bamana Empire."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -521,13 +647,19 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Das größte Stauwerk in Mali, errichtet auf dem Niger, um eine umfangreiche Bewässerung in der Region Office du Niger zu ermöglichen.",
       hu: "Mali legnagyobb duzzasztógátja, amelyet a Niger folyón építettek az Office du Niger régió kiterjedt öntözésének lehetővé tételére.",
       ro: "Cel mai mare baraj din Mali, construit pe Niger pentru a permite o irigare extinsă în regiunea Office du Niger.",
-      en: "The largest dam in Mali, constructed on the Niger River to allow extensive irrigation in the Office du Niger region."
+      en: "The largest dam in Mali, constructed on the Niger River to allow extensive irrigation in the Office du Niger region.",
+      es: "La mayor presa de Malí, construida sobre el Níger para permitir un amplio riego en la región de Office du Niger.",
+      pt: "A maior barragem do Mali, construída no Níger para permitir uma vasta irrigação na região do Office du Niger.",
+      fr: "Le plus grand barrage du Mali, érigé sur le Niger pour permettre une irrigation étendue dans la région de l'Office du Niger.",
     },
     facts: {
       de: ["Erbaut von der französischen Kolonialverwaltung", "Fertiggestellt im Jahr 1947"],
       hu: ["A francia gyarmati közigazgatás építette", "1947-ben fejezték be"],
       ro: ["Construit de administrația colonială franceză", "Finalizat în 1947"],
-      en: ["Built by the French colonial administration", "Completed in 1947"]
+      en: ["Built by the French colonial administration", "Completed in 1947"],
+      es: ["Construida por la administración colonial francesa", "Terminada en el año 1947"],
+      pt: ["Construída pela administração colonial francesa", "Concluída em 1947"],
+      fr: ["Construit par l'administration coloniale française", "Achevé en 1947"],
     }, image: "/poi-images/markala-dam-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Das Markala-Wehr, auch bekannt als Sansanding-Staudamm, ist das bedeutendste Wasserbauwerk Malis am Niger. Es wurde zwischen 1934 und 1947 von der französischen Kolonialverwaltung unter der Leitung des Office du Niger errichtet. Das Bauwerk erstreckt sich über eine Länge von etwa 816 Metern und dient primär der Bewässerung der umliegenden Trockengebiete für den großflächigen Baumwoll- und Reisanbau. Durch die gezielte Anhebung des Wasserspiegels ermöglicht der Damm die Versorgung eines weitläufigen Kanalsystems, das über 100.000 Hektar Land im Niger-Binnendelta erreicht. Markala entwickelte sich infolgedessen zu einem strategischen Knotenpunkt für die Landwirtschaft in der Region Ségou. Der Bau des Damms war ein Mammutprojekt des 20. Jahrhunderts, das den Einsatz von Tausenden von Zwangsarbeitern aus ganz Westafrika erforderte. Heute bleibt das Wehr das Rückgrat der malischen Nahrungsmittelproduktion und ein Zeugnis kolonialer Infrastrukturplanung. Neben seiner wirtschaftlichen Funktion dient der Damm auch als Brücke für den Straßenverkehr über den Niger.",
@@ -540,6 +672,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["A gát építése 1934-től 1947-ig tartott.", "A műtárgy teljes hossza 816 méter.", "Több mint 100 000 hektárnyi termőföld öntözését teszi lehetővé.", "Az Office du Niger projekt legfontosabb eleme.", "Közúti hídként is funkcionál Ségou és az északi országrész között.", "Az építmény betonból és masszív acél zsilipkapukból áll."],
       ro: ["Perioada de construcție a barajului: 1934–1947.", "Lungimea totală a structurii este de 816 metri.", "Capacitate de irigare pentru peste 100.000 de hectare de teren.", "Principala componentă a proiectului Office du Niger.", "Servește ca pod rutier între Ségou și regiunile nordice.", "Structura este realizată din beton și porți masive din oțel."],
       en: ["Construction period of the dam lasted from 1934 to 1947.", "The total length of the structure is 816 meters.", "It provides irrigation for more than 100,000 hectares of land.", "The central component of the massive Office du Niger project.", "The dam functions as a road bridge crossing the Niger River.", "Built using concrete and featuring massive steel sluice gates."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -557,13 +692,19 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Eine markante Verkehrsverbindung über den Fluss Senegal in der heißen Stadt Kayes.",
       hu: "Jellegzetes közlekedési kapcsolat a Szenegál folyón át a forró Kayes városában.",
       ro: "O legătură de transport vizibilă peste fluviul Senegal în orașul fierbinte Kayes.",
-      en: "A prominent transport link across the Senegal River in the hot city of Kayes."
+      en: "A prominent transport link across the Senegal River in the hot city of Kayes.",
+      es: "Una destacada conexión de transporte sobre el río Senegal en la calurosa ciudad de Kayes.",
+      pt: "Uma importante ligação de transporte sobre o rio Senegal na quente cidade de Kayes.",
+      fr: "Une liaison de transport marquante sur le fleuve Sénégal dans la ville chaude de Kayes.",
     },
     facts: {
       de: ["Wichtig für den regionalen Handel", "Überspannt den Senegal-Fluss"],
       hu: ["Fontos a regionális kereskedelem számára", "A Szenegál folyót íveli át"],
       ro: ["Important pentru comerțul regional", "Traversează fluviul Senegal"],
-      en: ["Important for regional trade", "Spans the Senegal River"]
+      en: ["Important for regional trade", "Spans the Senegal River"],
+      es: ["Importante para el comercio regional", "Cruza el río Senegal"],
+      pt: ["Importante para o comércio regional", "Atravessa o rio Senegal"],
+      fr: ["Important pour le commerce régional", "Enjambe le fleuve Sénégal"],
     }, image: "/poi-images/kayes-bridge-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Die Brücke von Kayes über den Senegal-Fluss ist eine lebenswichtige Verkehrsader, die Mali mit den Küstenländern und dem Atlantikhafen in Dakar verbindet. Kayes, historisch bekannt als die erste Hauptstadt des französischen Sudan, liegt in einer der heißesten Regionen Afrikas, was den Bau und die Instandhaltung der Infrastruktur erschwert. Die ursprüngliche Eisenbahnbrücke war Teil des ehrgeizigen Dakar-Niger-Bahnprojekts, das Ende des 19. Jahrhunderts begann, um das Binnenland zu erschließen. In den letzten Jahrzehnten wurde eine moderne Straßenbrücke errichtet, um dem wachsenden LKW-Verkehr gerecht zu werden, der für die malische Wirtschaft unverzichtbar ist. Die Brücke ermöglicht den ganzjährigen Transport von Mineralien, Textilien und Nahrungsmitteln über den Senegal-Fluss. Sie ist ein Symbol für die Rolle der Stadt als kommerzielles Tor und wichtiger Knotenpunkt regionaler Handelswege zwischen Mali und Senegal. Das Bauwerk hat die Stadtentwicklung von Kayes auf beiden Seiten des Flusses maßgeblich geprägt und fördert die regionale Integration.",
@@ -576,6 +717,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["Kayes 1892 és 1899 között volt Francia Szudán fővárosa.", "A híd a Szenegál folyón ível át, amely itt nyugat felé tart.", "A Szenegállal folytatott kereskedelem legfontosabb ellenőrző pontja.", "Kayes a kontinens egyik legforróbb városa, gyakran mérnek 45 fok felett.", "A híd a stratégiai Dakar-Bamako szállítási folyosó része.", "Az eredeti vasúti összeköttetést 1924-ben fejezték be teljesen."],
       ro: ["Kayes a fost capitala Sudanului Francez între 1892 și 1899.", "Podul traversează fluviul Senegal în prima regiune administrativă a Maliului.", "Punct de trecere esențial pentru comerțul cu Senegalul vecin.", "Orașul Kayes este considerat polul căldurii în Africa, depășind 45 de grade.", "Podul face parte din coridorul internațional Dakar-Bamako.", "Conexiunea feroviară originală a fost finalizată în anul 1924."],
       en: ["Kayes served as the capital of French Sudan from 1892 to 1899.", "The bridge crosses the Senegal River in Mali's first administrative region.", "Key border post for international trade with Senegal.", "Kayes is often cited as the hottest city in Africa, exceeding 45 degrees Celsius.", "The bridge is a crucial part of the Dakar-Bamako transport corridor.", "The original railway connection through Kayes was completed in 1924."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -593,13 +737,19 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Die verbliebenen Strukturen der königlichen Residenz im Kenedougou-Reich in Sikasso.",
       hu: "A Kenedougou Királyság egykori királyi rezidenciájának fennmaradt szerkezetei Sikassóban.",
       ro: "Structurile rămase ale reședinței regale a Regatului Kenedougou din Sikasso.",
-      en: "The remaining structures of the royal residence of the Kenedougou Kingdom in Sikasso."
+      en: "The remaining structures of the royal residence of the Kenedougou Kingdom in Sikasso.",
+      es: "Las estructuras restantes de la residencia real del Imperio Kenedougou en Sikasso.",
+      pt: "As estruturas restantes da residência real do Império Kenedougou em Sikasso.",
+      fr: "Les structures subsistantes de la résidence royale de l'Empire du Kenedougou à Sikasso.",
     },
     facts: {
       de: ["Wichtiges Kulturdenkmal", "Spiegelt die Macht des Königreichs wider"],
       hu: ["Fontos kulturális műemlék", "A királyság hatalmát tükrözi"],
       ro: ["Important monument cultural", "Reflectă puterea regatului"],
-      en: ["Important cultural monument", "Reflects the power of the kingdom"]
+      en: ["Important cultural monument", "Reflects the power of the kingdom"],
+      es: ["Importante monumento cultural", "Refleja el poder del reino"],
+      pt: ["Importante monumento cultural", "Reflete o poder do reino"],
+      fr: ["Monument culturel important", "Reflète la puissance du royaume"],
     }, image: "/poi-images/palace-of-tieba-traore-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Der Palast von Tiéba Traoré in Sikasso ist eine bedeutende historische Stätte, die eng mit der Geschichte des Kénédougou-Königreichs verknüpft ist. Tiéba Traoré, der von 1866 bis 1893 regierte, machte Sikasso zu seiner Hauptstadt und befestigte sie gegen äußere Bedrohungen. Die Residenz befand sich innerhalb der gewaltigen Verteidigungsmauern, dem sogenannten Tata von Sikasso, das einst über neun Kilometer lang war. Der Palast war das administrative und militärische Machtzentrum, von dem aus Traoré Widerstand gegen regionale Eroberer wie Samori Ture leistete. Obwohl große Teile der ursprünglichen Lehmbauten über die Zeit verfallen sind, bleibt das Areal ein Symbol für den malischen Widerstand und die Staatskunst des 19. Jahrhunderts. Die Architektur entsprach dem sudano-sahelischen Stil, der durch die Verwendung von Lehmziegeln und Holzstreben charakterisiert ist. Heute erinnern Gedenkstätten und verbliebene Mauerreste an die strategische Bedeutung Sikassos als Bollwerk. Die Stätte wird von der lokalen Bevölkerung als wichtiger Teil ihrer kulturellen Identität geschätzt.",
@@ -612,6 +762,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["Tiéba Traoré 1866 és 1893 között volt a Kénédougou Birodalom ura.", "Sikasso a stratégiai fekvése miatt lett a birodalom fővárosa.", "Sikasso védőfala (Tata) eredetileg 9 kilométer hosszú volt.", "A város 1887-ben sikeresen ellenállt Samori Ture ostromának.", "A helyszín a szudáni-száheli vályogépítészet egyik példája.", "Sikasso ma Mali második legnépesebb városa."],
       ro: ["Tiéba Traoré a condus Regatul Kénédougou între 1866 și 1893.", "Sikasso a fost aleasă drept capitală pentru poziția sa strategică.", "Zidul defensiv (Tata) din Sikasso avea inițial o lungime de 9 km.", "Rezistență victorioasă împotriva asediului lui Samori Ture în 1887.", "Situl este un exemplu al arhitecturii tradiționale din pământ.", "Sikasso este în prezent al doilea cel mai mare oraș din Mali."],
       en: ["Tiéba Traoré reigned over the Kénédougou Kingdom from 1866 to 1893.", "Sikasso was selected as the capital due to its strategic location.", "The defensive wall (Tata) of Sikasso originally spanned 9 kilometers.", "The city successfully resisted a siege by Samori Ture in 1887.", "The site showcases traditional Sudano-Sahelian mud architecture.", "Sikasso is currently the second-largest city in Mali."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -629,13 +782,19 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Eine einzigartige Kultstätte nahe Sikasso, die in natürliche Felsformationen integriert ist.",
       hu: "Egyedülálló istentiszteleti hely Sikasso közelében, amely a természetes sziklaképződményekbe illeszkedik.",
       ro: "Un loc de cult unic lângă Sikasso, integrat în formațiunile stâncoase naturale.",
-      en: "A unique place of worship near Sikasso integrated into natural rock formations."
+      en: "A unique place of worship near Sikasso integrated into natural rock formations.",
+      es: "Un lugar de culto único cerca de Sikasso, integrado en formaciones rocosas naturales.",
+      pt: "Um local de culto único perto de Sikasso, integrado em formações rochosas naturais.",
+      fr: "Un lieu de culte unique près de Sikasso, intégré dans des formations rocheuses naturelles.",
     },
     facts: {
       de: ["Zieht Pilger an", "Verbindet Natur und Religion"],
       hu: ["Zarándokokat vonz", "Ötvözi a természetet és a vallást"],
       ro: ["Atrage pelerini", "Combină natura și religia"],
-      en: ["Attracts pilgrims", "Combines nature and religion"]
+      en: ["Attracts pilgrims", "Combines nature and religion"],
+      es: ["Atrae a peregrinos", "Combina naturaleza y religión"],
+      pt: ["Atrai peregrinos", "Combina natureza e religião"],
+      fr: ["Attire les pèlerins", "Allie nature et religion"],
     },
     descriptionAdvanced: {
       de: "Die Missirikoro-Moschee in der Grotte ist eine außergewöhnliche religiöse Stätte etwa 12 Kilometer südwestlich von Sikasso. Es handelt sich um eine natürliche Felshöhle in einem Sandsteinhügel, die seit Generationen sowohl für islamische Gebete als auch für traditionelle animistische Riten genutzt wird. Die Grotte ist in verschiedene Bereiche unterteilt, wobei ein Teil als formelle Moschee dient, während andere Bereiche für Opfergaben und Ahnenverehrung vorgesehen sind. Diese friedliche Koexistenz verschiedener Glaubensrichtungen macht Missirikoro zu einem Symbol religiöser Toleranz in Mali. Der Hügel selbst erhebt sich etwa 80 Meter über die umliegende Ebene und bietet einen weiten Ausblick auf die bewaldete Landschaft der Region Sikasso. Im Inneren der Grotte herrscht eine kühle Atmosphäre, die Gläubige und Reisende gleichermaßen anzieht. Die Wände sind teilweise durch den Rauch ritueller Feuer und Kerzen geschwärzt. Jedes Jahr am Freitag finden hier wichtige Gebetsversammlungen statt, die Muslime aus der ganzen Umgebung zusammenbringen. Missirikoro ist nicht nur ein Ort der Anbetung, sondern auch ein bedeutendes Naturdenkmal Malis.",
@@ -648,6 +807,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["Helyszín: kb. 12 km-re délnyugatra Sikasso városától.", "A domb magassága körülbelül 80 méter.", "A barlang évszázadok óta spirituális központ.", "Az iszlám és az animista hagyományok különleges találkozóhelye.", "Természetes homokkő formációk alkotják.", "Dél-Mali egyik legfontosabb zarándok- és turistacélpontja."],
       ro: ["Locație: aproximativ 12 km sud-vest de Sikasso.", "Dealul atinge o înălțime de circa 80 de metri.", "Grota este utilizată ca spațiu sacru de sute de ani.", "Exemplu rar de sincretism între islam și animism.", "Formațiune naturală compusă din gresie.", "Destinație majoră pentru pelerinaj și turism în sudul Maliului."],
       en: ["Location: about 12 km southwest of Sikasso.", "The hill rises to a height of approximately 80 meters.", "The grotto has served as a sacred site for centuries.", "Showcases a unique blend of Islamic and animist traditions.", "Consists of natural sandstone geological formations.", "A key destination for pilgrims and tourists in southern Mali."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/missirikoro-grotto-landmarks-v2.webp"},
   {
     id: "monument-al-farouk-landmarks-v2",
@@ -664,13 +826,19 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Ein Wahrzeichen in Timbuktu, das den Schutzpatron der Stadt auf einem Pferd darstellt, bevor es während der Krise beschädigt wurde.",
       hu: "Timbuktu nevezetessége, amely a város védőszentjét ábrázolja egy lovon, a válság idején elszenvedett sérülése előtt.",
       ro: "Un punct de reper în Timbuktu care îl înfățișează pe sfântul patron al orașului călare pe un cal, înainte de a fi deteriorat în timpul crizei.",
-      en: "A landmark in Timbuktu depicting the city's patron saint on a horse, prior to its damage during the crisis."
+      en: "A landmark in Timbuktu depicting the city's patron saint on a horse, prior to its damage during the crisis.",
+      es: "Un hito en Tombuctú que representa al santo patrón de la ciudad sobre un caballo, antes de ser dañado durante la crisis.",
+      pt: "Um marco em Tombuctu que representa o santo padroeiro da cidade num cavalo, antes de ter sido danificado durante a crise.",
+      fr: "Un monument emblématique à Tombouctou représentant le saint patron de la ville sur un cheval, avant d'être endommagé pendant la crise.",
     },
     facts: {
       de: ["Stand im Zentrum von Timbuktu", "Symbol der Wächterlegende"],
       hu: ["Timbuktu központjában állt", "Az őrzőlegenda szimbóluma"],
       ro: ["Situat în centrul Timbuktu", "Simbol al legendei gardianului"],
-      en: ["Stood in the center of Timbuktu", "Symbol of the guardian legend"]
+      en: ["Stood in the center of Timbuktu", "Symbol of the guardian legend"],
+      es: ["Situado en el centro de Tombuctú", "Símbolo de la leyenda de los guardianes"],
+      pt: ["Situado no centro de Tombuctu", "Símbolo da lenda dos guardiões"],
+      fr: ["Situé au centre de Tombouctou", "Symbole de la légende des gardiens"],
     }, image: "/poi-images/monument-al-farouk-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Das Al-Farouk-Monument in Timbuktu ist ein bedeutendes Wahrzeichen, das dem mythischen Beschützer der Stadt gewidmet ist. Al-Farouk wird in der lokalen Überlieferung als ein Geist auf einem weißen Pferd dargestellt, der nachts über Timbuktu wacht und die Gerechten schützt. Das ursprüngliche Monument wurde im Jahr 2012 von extremistischen Gruppen zerstört, die während des Nordmali-Konflikts die Stadt besetzten. Unter der Schirmherrschaft der UNESCO und mit Unterstützung der lokalen Gemeinschaft wurde das Denkmal zwischen 2013 und 2015 originalgetreu wiederaufgebaut. Es steht symbolisch für die Widerstandsfähigkeit und den kulturellen Stolz der Bewohner von Timbuktu gegenüber Intoleranz und Gewalt. Das Monument zeigt eine stilisierte Darstellung des Reiters und ist weiß gestrichen, was Reinheit und Schutz symbolisiert. Es befindet sich an einem zentralen Platz der Stadt und dient als Treffpunkt sowie als Erinnerung an die wechselvolle Geschichte der Wüstenmetropole. Der Wiederaufbau war Teil eines größeren Projekts zur Restaurierung der beschädigten Mausoleen und Kulturgüter Timbuktus.",
@@ -683,6 +851,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["A szélsőségesek 2012-ben rombolták le az emlékművet.", "Az UNESCO vezetésével építették újjá 2013 és 2015 között.", "Al-Farouk Timbuktu legendás védelmező szelleme.", "A szobor fehér színe a tisztaságot és védelmet jelképezi.", "Az óváros egyik központi terén helyezkedik el.", "A háború utáni kulturális helyreállítási program része volt."],
       ro: ["Distrus de extremiști în anul 2012.", "Reconstruit sub egida UNESCO între 2013 și 2015.", "Al-Farouk este spiritul legendar protector al orașului Timbuktu.", "Culoarea albă simbolizează protecția și puritatea.", "Monumentul este situat într-o piață centrală din orașul vechi.", "Face parte din programul de restaurare a patrimoniului post-conflict."],
       en: ["The original monument was destroyed by extremists in 2012.", "Reconstructed under UNESCO guidance between 2013 and 2015.", "Al-Farouk is the legendary guardian spirit of Timbuktu.", "The white color of the monument symbolizes protection and purity.", "Located in a central square within the historic old city.", "Part of the post-conflict heritage restoration project in Mali."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -700,13 +871,19 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Die regionale Filiale der Zentralbank in Mopti, bekannt für ihre interessante Mischung aus moderner und traditioneller Architektur.",
       hu: "A Központi Bank regionális fiókja Moptiban, amely a modern és a hagyományos építészet érdekes ötvözetéről ismert.",
       ro: "Filiala regională a Băncii Centrale din Mopti, cunoscută pentru amestecul său interesant de arhitectură modernă și tradițională.",
-      en: "The regional branch of the Central Bank in Mopti, known for its interesting blend of modern and traditional architecture."
+      en: "The regional branch of the Central Bank in Mopti, known for its interesting blend of modern and traditional architecture.",
+      es: "La sucursal regional del Banco Central en Mopti, conocida por su interesante mezcla de arquitectura moderna y tradicional.",
+      pt: "A sucursal regional do Banco Central em Mopti, conhecida pela sua interessante mistura de arquitetura moderna e tradicional.",
+      fr: "La succursale régionale de la Banque Centrale à Mopti, connue pour son mélange intéressant d'architecture moderne et traditionnelle.",
     },
     facts: {
       de: ["Wichtiges Finanzzentrum der Region", "Stilisiert traditionelle Muster"],
       hu: ["A régió fontos pénzügyi központja", "Hagyományos mintákat stilizál"],
       ro: ["Centru financiar important al regiunii", "Stilizează modele tradiționale"],
-      en: ["Important financial center of the region", "Stylizes traditional patterns"]
+      en: ["Important financial center of the region", "Stylizes traditional patterns"],
+      es: ["Importante centro financiero de la región", "Estiliza patrones tradicionales"],
+      pt: ["Importante centro financeiro da região", "Estiliza padrões tradicionais"],
+      fr: ["Important centre financier de la région", "Stylise des motifs traditionnels"],
     }, image: "/poi-images/bceao-building-mopti-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Das BCEAO-Gebäude in Mopti ist der regionale Sitz der Zentralbank der westafrikanischen Staaten und ein markantes Beispiel für moderne neo-sudanesische Architektur. Gelegen am Zusammenfluss von Niger und Bani, fügt sich das Bauwerk harmonisch in das Stadtbild von Mopti ein, das oft als das „Venedig Malis“ bezeichnet wird. Die Architektur greift traditionelle Elemente der sudano-sahelischen Baukunst auf, wie stilisierte Zinnen und vertikale Streben, kombiniert diese jedoch mit modernen Materialien wie Beton. Dies verleiht der Bank eine monumentale Präsenz und schützt gleichzeitig die Innenräume vor der extremen Hitze der Region. Das Gebäude spiegelt die wirtschaftliche Bedeutung Moptis als wichtigster Handelsknotenpunkt und Hafen des Binnendeltas wider. Als Sitz einer Finanzinstitution symbolisiert es Stabilität und die Integration Malis in die westafrikanische Währungsunion. Nachts ist das Gebäude oft beleuchtet und dient als architektonischer Orientierungspunkt am Flussufer. Die Gestaltung zeigt, wie traditionelle Ästhetik in die funktionale Architektur des 20. Jahrhunderts übersetzt werden kann.",
@@ -719,6 +896,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["A Nyugat-afrikai Államok Központi Bankjának (BCEAO) székhelye.", "Építészeti stílus: neo-szudáni (modern vályogstílus).", "Moptiban, a Niger belső deltájának legfontosabb kikötőjében található.", "A modern beton és a tradicionális esztétika ötvözete.", "Közép-Mali legfontosabb pénzügyi központja.", "A bank kezeli a régióban használt CFA frank valutát."],
       ro: ["Sediul Băncii Centrale a Statelor din Africa de Vest (BCEAO).", "Stil arhitectural: Neo-sudanez (interpretare modernă a stilului tradițional).", "Situat în Mopti, cel mai important port din delta interioară a Nigerului.", "Combinație între beton modern și estetică tradițională.", "Nod financiar crucial pentru regiunea centrală a Maliului.", "Banca administrează moneda CFA în această regiune."],
       en: ["Headquarters of the Central Bank of West African States (BCEAO).", "Architectural style: Neo-Sudanese (modern interpretation of mud architecture).", "Located in Mopti, the primary port of the Niger Inland Delta.", "Features a combination of modern concrete and traditional aesthetics.", "Major financial hub for the Central Mali region.", "The bank manages the CFA franc currency in the region."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -736,13 +916,19 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Ein kleines, aber sehr wichtiges traditionelles Gebäude in Kangaba, das bei zeremoniellen Erneuerungen eine zentrale Rolle spielt.",
       hu: "Egy kicsi, de nagyon fontos hagyományos épület Kangabában, amely központi szerepet játszik az ünnepélyes felújításokban.",
       ro: "O clădire tradițională mică, dar foarte importantă din Kangaba, cu rol central în reînnoirile ceremoniale.",
-      en: "A small but highly important traditional building in Kangaba, playing a central role in ceremonial renewals."
+      en: "A small but highly important traditional building in Kangaba, playing a central role in ceremonial renewals.",
+      es: "Un pequeño pero muy importante edificio tradicional en Kangaba, que desempeña un papel central en las renovaciones ceremoniales.",
+      pt: "Um pequeno mas muito importante edifício tradicional em Kangaba, que desempenha um papel central nas renovações cerimoniais.",
+      fr: "Un petit bâtiment traditionnel mais très important à Kangaba, jouant un rôle central lors des renouvellements cérémoniels.",
     },
     facts: {
       de: ["Alle sieben Jahre neu gedeckt", "Zentrum der Malinke-Tradition"],
       hu: ["Hétévente újra fedik", "A malinke hagyomány központja"],
       ro: ["Acoperișul este refăcut la fiecare șapte ani", "Centrul tradiției Malinke"],
-      en: ["Re-roofed every seven years", "Center of the Malinke tradition"]
+      en: ["Re-roofed every seven years", "Center of the Malinke tradition"],
+      es: ["Se techa de nuevo cada siete años", "Centro de la tradición Malinke"],
+      pt: ["Re-coberta com colmo a cada sete anos", "Centro da tradição Malinke"],
+      fr: ["Toiture refaite tous les sept ans", "Centre de la tradition malinké"],
     },
     descriptionAdvanced: {
       de: "Die Heilige Hütte von Kangaba, bekannt als Kama Blon, ist eines der bedeutendsten spirituellen Zentren des Manding-Volkes. Sie befindet sich in der Stadt Kangaba, im Herzen des ehemaligen Mali-Reiches, und gilt als Symbol der Einheit und Kontinuität der Manden-Kultur. Die kreisförmige Hütte mit ihrem charakteristischen Strohdach beherbergt heilige Gegenstände und ist der Ort für wichtige rituelle Zeremonien. Besonders berühmt ist die alle sieben Jahre stattfindende Zeremonie zur Neueindeckung des Daches, an der Vertreter verschiedener Clans der Region teilnehmen. Während dieses Ereignisses werden mündliche Überlieferungen, Genealogien und das Wissen über das Weltbild der Manding weitergegeben. Die Kama Blon wurde im Jahr 2009 von der UNESCO in die Liste des immateriellen Kulturerbes der Menschheit aufgenommen. Die Struktur selbst ist schlicht, wird aber durch die mit ihr verbundenen Traditionen und die historische Verbindung zu Sundiata Keita, dem Gründer des Mali-Reiches, geadelt. Die Zeremonie stärkt den sozialen Zusammenhalt und bewahrt das jahrhundertealte kulturelle Erbe der Region.",
@@ -755,6 +941,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["2009 óta az UNESCO szellemi kulturális örökségének része.", "A tetőfelújítási ceremóniát hétévente tartják meg.", "Kangaba a Manden-vidéken, a Mali Birodalom központjában fekszik.", "A kunyhót a Keita-dinasztia tagjai őrzik és gondozzák.", "A szájhagyomány útján terjedő történelem és törvények átadásának helye.", "A 17. században épült (a jelenlegi forma a hagyományt követi)."],
       ro: ["Patrimoniu UNESCO din anul 2009.", "Ceremonia de refacere a acoperișului are loc la fiecare 7 ani.", "Kangaba se află în regiunea Manden, centrul istoric al Imperiului Mali.", "Coliba este păzită și îngrijită de membrii dinastiei Keita.", "Loc de transmitere a istoriei orale și a legilor tradiționale.", "Construită în secolul al XVII-lea (reconstrucțiile respectă tradiția)."],
       en: ["Inscribed on the UNESCO Intangible Heritage list in 2009.", "The re-roofing ceremony is performed exactly every 7 years.", "Kangaba is located in the Manden region, the core of the Mali Empire.", "The hut is guarded and maintained by members of the Keita dynasty.", "A primary site for transmitting oral history and traditional laws.", "Originally built in the 17th century (maintained through tradition)."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -772,13 +961,19 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Ein markantes Denkmal in Bamako, das den Opfern der Revolution von 1991 gewidmet ist.",
       hu: "Jelentős emlékmű Bamakóban, amelyet az 1991-es forradalom áldozatainak szenteltek.",
       ro: "Un monument proeminent din Bamako dedicat victimelor revoluției din 1991.",
-      en: "A prominent monument in Bamako dedicated to the victims of the 1991 revolution."
+      en: "A prominent monument in Bamako dedicated to the victims of the 1991 revolution.",
+      es: "Un monumento destacado en Bamako, dedicado a las víctimas de la revolución de 1991.",
+      pt: "Um monumento proeminente em Bamako, dedicado às vítimas da revolução de 1991.",
+      fr: "Un monument marquant à Bamako, dédié aux victimes de la révolution de 1991.",
     },
     facts: {
       de: ["Erinnert an den 26. März 1991", "Wichtiges nationales Symbol"],
       hu: ["1991. március 26-ra emlékeztet", "Fontos nemzeti szimbólum"],
       ro: ["Comemorează 26 martie 1991", "Simbol național important"],
-      en: ["Commemorates March 26, 1991", "Important national symbol"]
+      en: ["Commemorates March 26, 1991", "Important national symbol"],
+      es: ["Conmemora el 26 de marzo de 1991", "Importante símbolo nacional"],
+      pt: ["Recorda o 26 de março de 1991", "Importante símbolo nacional"],
+      fr: ["Commémore le 26 mars 1991", "Symbole national important"],
     }, image: "/poi-images/martyrs-monument-bamako-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Das Martyrs Monument in Bamako, lokal als „Monument des Martyrs“ bekannt, ist eine bedeutende nationale Gedenkstätte im Herzen der malischen Hauptstadt. Es wurde errichtet, um die Opfer der Ereignisse vom 26. März 1991 zu ehren, als während der pro-demokratischen Proteste gegen das Regime von Moussa Traoré zahlreiche Menschen ihr Leben verloren. Das Denkmal befindet sich an der Avenue Modibo Keita und ist ein zentraler Ort für nationale Gedenkfeiern. Die Architektur des Monuments ist modern und symbolträchtig, wobei eine offene Flamme oft als Zeichen ewiger Erinnerung brennt. Für die Malier verkörpert die Stätte den schwierigen Weg zur Demokratie und den Preis der Freiheit. Jedes Jahr am 26. März legt der Präsident der Republik dort Kränze nieder, um die „Märtyrer der Demokratie“ zu würdigen. Das Monument dient auch als Treffpunkt für zivilgesellschaftliche Versammlungen und friedliche Demonstrationen. In der Umgebung befinden sich wichtige Regierungsgebäude und Bildungseinrichtungen, was die zentrale Bedeutung des Ortes unterstreicht. Es ist ein Ort der Besinnung und ein dauerhaftes Zeugnis für den politischen Wandel Malis in den 1990er Jahren.",
@@ -791,6 +986,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["Az 1991. március 26-i események (Moussa Traoré bukása) emlékére.", "Bamakóban, a központi Modibo Keita sugárúton található.", "Mali demokratikus átmenetének szimbóluma.", "Az államfő minden évben hivatalos koszorúzást tart itt.", "Modern építészeti kialakítás, jelképes motívumokkal.", "Békés gyülekezések és nemzeti ünnepségek helyszíne."],
       ro: ["Comemorează evenimentele din 26 martie 1991 (căderea lui Moussa Traoré).", "Situat pe Bulevardul central Modibo Keita din Bamako.", "Simbol al tranziției Maliului către democrație.", "Ceremonie anuală de depunere a coroanelor de către președinte.", "Design arhitectural modern cu elemente simbolice.", "Loc de întâlnire pentru manifestații pașnice și sărbători naționale."],
       en: ["Commemorates the events of March 26, 1991 (overthrow of Moussa Traoré).", "Located on the central Avenue Modibo Keita in Bamako.", "Serves as a symbol of Mali's transition to democratic rule.", "Annual wreath-laying ceremony attended by the President.", "Features a modern architectural design with symbolic elements.", "A primary location for peaceful rallies and national holidays."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -808,13 +1006,19 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Ein bekanntes Monument in Form eines großen Affenbrotbaums an einem Hauptverkehrsknotenpunkt in Bamako, das die afrikanische Einheit symbolisiert.",
       hu: "Egy hatalmas majomkenyérfa alakú ismert emlékmű egy bamakói fő csomópontban, amely az afrikai egységet szimbolizálja.",
       ro: "Un monument binecunoscut sub forma unui mare baobab, situat la o intersecție majoră din Bamako, simbolizând unitatea africană.",
-      en: "A well-known monument in the shape of a large baobab tree at a major intersection in Bamako, symbolizing African unity."
+      en: "A well-known monument in the shape of a large baobab tree at a major intersection in Bamako, symbolizing African unity.",
+      es: "Un conocido monumento en forma de gran baobab en un importante nudo de comunicaciones en Bamako, que simboliza la unidad africana.",
+      pt: "Um monumento conhecido em forma de um grande baobá num importante nó de tráfego em Bamako, que simboliza a unidade africana.",
+      fr: "Un monument célèbre en forme de grand baobab situé à un carrefour majeur de Bamako, symbolisant l'unité africaine.",
     },
     facts: {
       de: ["Befindet sich auf dem Weg zum Flughafen", "Beliebter Orientierungspunkt"],
       hu: ["A repülőtér felé vezető úton található", "Népszerű tájékozódási pont"],
       ro: ["Situat pe drumul spre aeroport", "Punct de reper popular"],
-      en: ["Located on the way to the airport", "Popular orientation point"]
+      en: ["Located on the way to the airport", "Popular orientation point"],
+      es: ["Ubicado en el camino al aeropuerto", "Punto de referencia popular"],
+      pt: ["Localizado no caminho para o aeroporto", "Ponto de referência popular"],
+      fr: ["Situé sur la route de l'aéroport", "Point de repère populaire"],
     }, image: "/poi-images/tour-d-afrique-bamako-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Die Tour d'Afrique in Bamako ist ein monumentales Bauwerk, das an der Kreuzung von Faladié am östlichen Eingang der malischen Hauptstadt steht. Sie wurde im Jahr 2001 unter der Präsidentschaft von Alpha Oumar Konaré eingeweiht, um das Ideal der afrikanischen Einheit und die Gründung der Afrikanischen Union zu feiern. Der Turm ist mit kunstvollen Reliefs und Gravuren verziert, die wichtige Momente der Geschichte des Kontinents sowie kulturelle Symbole verschiedener afrikanischer Völker darstellen. Mit einer Höhe von etwa 46 Metern dient das Monument als architektonisches Wahrzeichen und wichtiger Orientierungspunkt für Reisende, die aus dem Süden des Landes kommen. Die Struktur verkörpert den panafrikanischen Geist Malis und ist ein weithin sichtbares Symbol für die Hoffnung auf eine integrierte Zukunft Afrikas. Umgeben von gepflegten Gärten, ist der Platz auch ein Ort für öffentliche Versammlungen und zeremonielle Anlässe. Das Design kombiniert moderne Bautechniken mit traditionellen ästhetischen Elementen, die die reiche Vielfalt des afrikanischen Erbes widerspiegeln. Es ist eines der am meisten fotografierten modernen Monumente in Bamako.",
@@ -827,6 +1031,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["2001-ben avatta fel Alpha Oumar Konaré elnök.", "A torony magassága körülbelül 46 méter.", "A bamakói Faladié csomópontnál, a város bejáratánál található.", "A domborművek Afrika történelmét és kultúráját mutatják be.", "Az Afrikai Unió megalakulásának állít emléket.", "Bamakó legfontosabb pánafrikai emlékműve."],
       ro: ["Inaugurat în anul 2001 sub președinția lui Alpha Oumar Konaré.", "Înălțimea turnului este de aproximativ 46 de metri.", "Situat în sensul giratoriu Faladié, la intrarea în Bamako.", "Reliefurile de pe turn ilustrează istoria și cultura Africii.", "Simbolizează crearea Uniunii Africane.", "Cea mai importantă structură panafricană din capitală."],
       en: ["Inaugurated in 2001 during the presidency of Alpha Oumar Konaré.", "The tower stands approximately 46 meters tall.", "Located at the Faladié roundabout at the city's eastern entrance.", "Reliefs on the structure depict African history and culture.", "Symbolizes the establishment of the African Union.", "Considered the most important pan-African monument in Bamako."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -844,13 +1051,19 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Ein Denkmal in Timbuktu, das an das Ende der Tuareg-Rebellion in den 1990er Jahren und die symbolische Verbrennung von Waffen erinnert.",
       hu: "Timbuktui emlékmű, amely a tuareg lázadás 1990-es évekbeli lezárásának és a fegyverek szimbolikus elégetésének állít emléket.",
       ro: "Un monument din Timbuktu care comemorează sfârșitul rebeliunii Tuareg din anii 1990 și arderea simbolică a armelor.",
-      en: "A monument in Timbuktu commemorating the end of the Tuareg rebellion in the 1990s and the symbolic burning of weapons."
+      en: "A monument in Timbuktu commemorating the end of the Tuareg rebellion in the 1990s and the symbolic burning of weapons.",
+      es: "Un monumento en Tombuctú que conmemora el fin de la rebelión tuareg en la década de 1990 y la quema simbólica de armas.",
+      pt: "Um monumento em Timbuktu que comemora o fim da rebelião Tuaregue na década de 1990 e a queima simbólica de armas.",
+      fr: "Un monument à Tombouctou commémorant la fin de la rébellion touarègue dans les années 1990 et la combustion symbolique des armes.",
     },
     facts: {
       de: ["Erbaut im Jahr 1996", "Symbol für Versöhnung"],
       hu: ["1996-ban épült", "A megbékélés szimbóluma"],
       ro: ["Construit în 1996", "Simbol al reconcilierii"],
-      en: ["Built in 1996", "Symbol of reconciliation"]
+      en: ["Built in 1996", "Symbol of reconciliation"],
+      es: ["Construido en 1996", "Símbolo de reconciliación"],
+      pt: ["Construído em 1996", "Símbolo de reconciliação"],
+      fr: ["Construit en 1996", "Symbole de réconciliation"],
     }, image: "/poi-images/peace-monument-tombouctou-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Das Monument der Flamme des Friedens in Timbuktu ist ein bedeutendes Symbol für das Ende des bewaffneten Konflikts zwischen der malischen Regierung und den Tuareg-Rebellen in den 1990er Jahren. Es wurde an der Stelle errichtet, an der am 27. März 1996 über 3.000 Waffen feierlich verbrannt wurden, um den Friedensprozess zu besiegeln. Das schlichte, weiße Denkmal steht im nordwestlichen Teil der Stadt und erinnert an den Moment der nationalen Versöhnung, an dem auch internationale Beobachter und Staatschefs teilnahmen. Timbuktu, einst ein Zentrum des Handels und der Gelehrsamkeit, erhielt durch dieses Ereignis eine neue Bedeutung als Ort des Friedensdialogs. Die Zeremonie markierte den Übergang von Jahren der Instabilität zu einer Ära des demokratischen Aufbruchs in Mali. Heute ist das Monument ein fester Bestandteil der Stadtführung und ein Mahnmal gegen Gewalt. Die Anlage wird regelmäßig für Gedenkveranstaltungen genutzt und ist ein wichtiges Ziel für geschichtlich interessierte Besucher der Region.",
@@ -863,6 +1076,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["1996. március 27-én avatták fel.", "Több mint 3000 fegyvert égettek el a helyszínen.", "A turaegi felkelés végét szimbolizálja.", "Timbuktu északnyugati szélén található.", "A nemzeti megbékélés legfontosabb jelképe Maliban.", "Az emlékmű egy egyszerű, fehérre meszelt építmény."],
       ro: ["Inaugurat la 27 martie 1996.", "Peste 3.000 de arme au fost arse simbolic aici.", "Marchează sfârșitul rebeliunii tuarege.", "Situat la marginea de nord-vest a orașului Timbuktu.", "Simbol al reconcilierii naționale în Mali.", "Monumentul are o structură albă, minimalistă."],
       en: ["Inaugurated on March 27, 1996.", "Over 3,000 firearms were ceremoniously burned at the site.", "Commemorates the end of the Tuareg rebellion.", "Located on the northwestern outskirts of Timbuktu.", "A key symbol of national reconciliation in Mali.", "Features a simple, white-washed architectural design."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -880,13 +1096,19 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Ein wichtiges Denkmal in Bamako, das den afrikanischen Soldaten gewidmet ist, die im Ersten Weltkrieg kämpften.",
       hu: "Fontos emlékmű Bamakóban, amelyet az első világháborúban harcolt afrikai katonáknak szenteltek.",
       ro: "Un monument important din Bamako, dedicat soldaților africani care au luptat în Primul Război Mondial.",
-      en: "An important monument in Bamako dedicated to the African soldiers who fought in the First World War."
+      en: "An important monument in Bamako dedicated to the African soldiers who fought in the First World War.",
+      es: "Un importante monumento en Bamako dedicado a los soldados africanos que lucharon en la Primera Guerra Mundial.",
+      pt: "Um importante monumento em Bamako dedicado aos soldados africanos que lutaram na Primeira Guerra Mundial.",
+      fr: "Un monument important à Bamako dédié aux soldats africains qui ont combattu pendant la Première Guerre mondiale.",
     },
     facts: {
       de: ["1924 errichtet", "Ehrt die 'Tirailleurs Sénégalais'"],
       hu: ["1924-ben állították", "A 'Tirailleurs Sénégalais' tiszteletére"],
       ro: ["Ridicat în 1924", "Onorează 'Tirailleurs Sénégalais'"],
-      en: ["Erected in 1924", "Honors the 'Tirailleurs Sénégalais'"]
+      en: ["Erected in 1924", "Honors the 'Tirailleurs Sénégalais'"],
+      es: ["Erguido en 1924", "Honra a los 'Tirailleurs Sénégalais'"],
+      pt: ["Erguido em 1924", "Homenageia os 'Tirailleurs Sénégalais'"],
+      fr: ["Érigé en 1924", "Honore les 'Tirailleurs Sénégalais'"],
     }, image: "/poi-images/monument-des-heros-de-larmee-noire-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Das Denkmal für die Helden der Schwarzen Armee in Bamako ist eine bedeutende Gedenkstätte, die den Beitrag afrikanischer Soldaten im Ersten Weltkrieg würdigt. Es handelt sich um eine Nachbildung des ursprünglichen Monuments, das 1924 im französischen Reims errichtet und 1940 während der deutschen Besatzung zerstört wurde. Das Denkmal zeigt eine Gruppe von Tirailleurs Sénégalais, einer Eliteeinheit der französischen Kolonialtruppen, die für ihre Tapferkeit auf den europäischen Schlachtfeldern bekannt war. In Mali dient das Denkmal als Symbol des Stolzes und der Anerkennung für die Vorfahren, die unter schwierigen Bedingungen kämpften. Die Bronzestatuen auf einem massiven Sockel vermitteln einen Eindruck von Entschlossenheit und Kameradschaft. Es befindet sich in einem zentralen Teil von Bamako und ist ein wichtiger Ort für offizielle Gedenkzeremonien. Die Geschichte des Monuments spiegelt die komplexe Beziehung zwischen Afrika und Europa im 20. Jahrhundert wider und unterstreicht die Opferbereitschaft für eine gemeinsame Freiheit.",
@@ -899,6 +1121,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["Az 1924-es reimsi emlékmű hű másolata.", "Az eredeti szobrot a németek rombolták le 1940-ben.", "Az első világháborús afrikai lövészek előtt tiszteleg.", "Bronz szoborcsoport egy masszív kőtalapzaton.", "Bamako központi részén helyezkedik el.", "A hadsereg éves megemlékezéseinek helyszíne."],
       ro: ["Replică a monumentului din 1924 din orașul Reims.", "Originalul a fost distrus de naziști în 1940.", "Onorează memoria trupelor „Tirailleurs Sénégalais”.", "Realizat dintr-un grup statuar de bronz pe soclu de piatră.", "Amplasat în centrul capitalei Bamako.", "Gazdă pentru ceremoniile anuale de comemorare militară."],
       en: ["A replica of a monument first erected in Reims in 1924.", "The original was destroyed by German forces in 1940.", "Honors the Tirailleurs Sénégalais of World War I.", "Features bronze statues mounted on a stone base.", "Located in the central district of Bamako.", "Serves as a site for annual military commemorations."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -916,13 +1141,19 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Die moderne Zweigstelle der westafrikanischen Zentralbank in der südlichen Landwirtschaftsmetropole Sikasso.",
       hu: "A nyugat-afrikai központi bank modern fiókja a déli mezőgazdasági metropoliszban, Sikassóban.",
       ro: "Sucursala modernă a băncii centrale vest-africane din metropola agricolă sudică Sikasso.",
-      en: "The modern branch of the West African central bank in the southern agricultural metropolis of Sikasso."
+      en: "The modern branch of the West African central bank in the southern agricultural metropolis of Sikasso.",
+      es: "La moderna sucursal del Banco Central de los Estados de África Occidental en la metrópoli agrícola del sur, Sikasso.",
+      pt: "A moderna filial do Banco Central dos Estados da África Ocidental na metrópole agrícola do sul, Sikasso.",
+      fr: "La succursale moderne de la Banque Centrale des États de l'Afrique de l'Ouest dans la métropole agricole du sud, Sikasso.",
     },
     facts: {
       de: ["Spiegelt die wirtschaftliche Bedeutung der Region wider", "Moderne Architektur"],
       hu: ["A régió gazdasági jelentőségét tükrözi", "Modern építészet"],
       ro: ["Reflectă importanța economică a regiunii", "Arhitectură modernă"],
-      en: ["Reflects the economic importance of the region", "Modern architecture"]
+      en: ["Reflects the economic importance of the region", "Modern architecture"],
+      es: ["Refleja la importancia económica de la región", "Arquitectura moderna"],
+      pt: ["Reflete a importância económica da região", "Arquitetura moderna"],
+      fr: ["Reflète l'importance économique de la région", "Architecture moderne"],
     }, image: "/poi-images/tour-bceao-sikasso-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Das Gebäude der Zentralbank der westafrikanischen Staaten (BCEAO) in Sikasso ist ein markantes Beispiel für moderne Institutionenarchitektur im Süden Malis. Als zweitgrößte Stadt des Landes ist Sikasso ein wichtiges Handelszentrum, insbesondere für landwirtschaftliche Produkte wie Baumwolle und Früchte, was die Präsenz einer so bedeutenden Finanzinstitution rechtfertigt. Die Architektur des Gebäudes zeichnet sich durch klare Linien und funktionale Ästhetik aus, die Stabilität und Fortschritt vermitteln soll. Die BCEAO verwaltet die gemeinsame Währung der Region, den CFA-Franc, und spielt eine zentrale Rolle in der Wirtschaftspolitik der Westafrikanischen Währungsunion. Das Gebäude ist nicht nur ein administratives Zentrum, sondern auch ein Symbol für die wirtschaftliche Integration und die finanzielle Souveränität Malis innerhalb der Region. Für Besucher der Stadt stellt es einen modernen Kontrast zur traditionellen Bauweise der umliegenden Viertel dar. Die Sicherheitseinrichtungen und die gepflegten Außenanlagen unterstreichen den prestigeträchtigen Charakter des Komplexes.",
@@ -935,6 +1166,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["A nyugat-afrikai központi bank regionális székhelye.", "Sikassóban, Mali második legnagyobb városában található.", "A CFA frank monetáris kezeléséért felelős.", "A mezőgazdasági szektor kulcsfontosságú pénzintézete.", "Modern, funkcionális stílusú építészeti megoldások.", "A regionális gazdasági integráció jelképe."],
       ro: ["Sediul regional al Băncii Centrale a Statelor Africii de Vest.", "Situat în Sikasso, al doilea oraș ca mărime din Mali.", "Gestionează moneda CFA franc la nivel regional.", "Centru financiar vital pentru sectorul agricol din sud.", "Arhitectură în stil instituțional modern.", "Simbol al integrării economice în Africa de Vest."],
       en: ["Regional branch of the Central Bank of West African States.", "Located in Sikasso, Mali's second-largest city.", "Manages the CFA franc within the regional economy.", "Key financial hub for the southern agricultural sector.", "Features modern, institutional architectural design.", "Represents regional economic integration in West Africa."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -952,13 +1186,19 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Die erste Brücke, die den Niger in Bamako überspannte, sie erinnert heute an die Opfer politischer Proteste.",
       hu: "Az első híd, amely átívelt a Nigeren Bamakóban, ma a politikai tiltakozások áldozataira emlékeztet.",
       ro: "Primul pod care a traversat Nigerul în Bamako, astăzi comemorează victimele protestelor politice.",
-      en: "The first bridge to span the Niger in Bamako, today it commemorates the victims of political protests."
+      en: "The first bridge to span the Niger in Bamako, today it commemorates the victims of political protests.",
+      es: "El primer puente que cruzó el Níger en Bamako; hoy recuerda a las víctimas de las protestas políticas.",
+      pt: "A primeira ponte a atravessar o Níger em Bamako; hoje recorda as vítimas dos protestos políticos.",
+      fr: "Le premier pont à enjamber le Niger à Bamako, il commémore aujourd'hui les victimes des manifestations politiques.",
     },
     facts: {
       de: ["Erbaut in den 1950er Jahren", "Ursprünglich 'Pont de Badalabougou'"],
       hu: ["Az 1950-es években épült", "Eredetileg 'Pont de Badalabougou'"],
       ro: ["Construit în anii 1950", "Inițial 'Pont de Badalabougou'"],
-      en: ["Built in the 1950s", "Originally 'Pont de Badalabougou'"]
+      en: ["Built in the 1950s", "Originally 'Pont de Badalabougou'"],
+      es: ["Construido en la década de 1950", "Originalmente llamado 'Pont de Badalabougou'"],
+      pt: ["Construído na década de 1950", "Originalmente chamado 'Pont de Badalabougou'"],
+      fr: ["Construit dans les années 1950", "Initialement appelé 'Pont de Badalabougou'"],
     }, image: "/poi-images/pont-martyrs-bamako-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Die Märtyrerbrücke in Bamako ist eine der wichtigsten Verkehrsverbindungen über den Fluss Niger und verbindet das Stadtzentrum mit den südlichen Vierteln der Hauptstadt. Ursprünglich im Jahr 1957 als „Pont d'Outre-Mer“ während der französischen Kolonialzeit eröffnet, wurde sie später zu Ehren der Opfer des demokratischen Aufstands von 1991 umbenannt. Während der Unruhen im März jenes Jahres wurden zahlreiche Demonstranten, die für politische Reformen kämpften, auf oder in der Nähe der Brücke getötet. Mit einer Länge von über 800 Metern ist sie ein beeindruckendes Ingenieurbauwerk, das täglich von Tausenden Fahrzeugen und Fußgängern genutzt wird. Von der Brücke aus bietet sich ein weiter Blick auf den majestätischen Niger, der die Lebensader der Stadt und des ganzen Landes darstellt. Die Umbenennung symbolisiert den Übergang Malis zu einem Mehrparteiensystem und die Anerkennung des Opfers der Bürger für die Freiheit. Als zentrales Element der städtischen Infrastruktur ist sie Schauplatz des lebendigen Alltags in Bamako.",
@@ -971,6 +1211,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["1957-ben adták át Pont d'Outre-Mer néven.", "Az 1991-es márciusi felkelés után nevezték át.", "Bamako területén ível át a Niger folyón.", "Teljes hossza körülbelül 816 méter.", "A főváros első állandó hídkapcsolata volt.", "A demokratikus átalakulás mártírjainak emlékhelye."],
       ro: ["Inaugurat în 1957 sub numele de Pont d'Outre-Mer.", "Redenumit după revolta pro-democrație din martie 1991.", "Traversează fluviul Niger în capitala Bamako.", "Lungimea totală este de aproximativ 816 metri.", "Prima legătură permanentă peste râu în oraș.", "Loc de comemorare pentru lupta împotriva dictaturii."],
       en: ["Opened in 1957 as the Pont d'Outre-Mer.", "Renamed following the March 1991 pro-democracy uprising.", "Spans the Niger River in the heart of Bamako.", "Has a total length of approximately 816 meters.", "Was the first permanent bridge built in the capital.", "Serves as a memorial for the struggle for political reform."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -988,13 +1231,19 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Eine markante Skulptur im Zentrum von Bamako, die das Flusspferd – das Namenssymbol der Stadt ('Bama-ko') – darstellt.",
       hu: "Jellegzetes szobor Bamako központjában, amely a vízilovat - a város nevét adó szimbólumot ('Bama-ko') - ábrázolja.",
       ro: "O sculptură marcantă în centrul orașului Bamako, reprezentând hipopotamul - simbolul numelui orașului ('Bama-ko').",
-      en: "A striking sculpture in the center of Bamako depicting the hippopotamus – the symbol behind the city's name ('Bama-ko')."
+      en: "A striking sculpture in the center of Bamako depicting the hippopotamus – the symbol behind the city's name ('Bama-ko').",
+      es: "Una escultura llamativa en el centro de Bamako que representa al hipopótamo, el símbolo del nombre de la ciudad ('Bama-ko').",
+      pt: "Uma escultura marcante no centro de Bamako que representa o hipopótamo, o símbolo do nome da cidade ('Bama-ko').",
+      fr: "Une sculpture remarquable au centre de Bamako représentant l'hippopotame, le symbole du nom de la ville ('Bama-ko').",
     },
     facts: {
       de: ["Symbol der Stadt Bamako", "Beliebtes Fotomotiv"],
       hu: ["Bamako város szimbóluma", "Népszerű fotótéma"],
       ro: ["Simbol al orașului Bamako", "Motiv popular pentru fotografii"],
-      en: ["Symbol of the city of Bamako", "Popular photo motif"]
+      en: ["Symbol of the city of Bamako", "Popular photo motif"],
+      es: ["Símbolo de la ciudad de Bamako", "Lugar popular para fotografías"],
+      pt: ["Símbolo da cidade de Bamako", "Local popular para fotografias"],
+      fr: ["Symbole de la ville de Bamako", "Lieu de photo populaire"],
     }, image: "/poi-images/monument-hippopotame-bamako-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Das Nilpferd-Monument in Bamako ist eine markante Skulptur, die eines der wichtigsten Nationalsymbole Malis darstellt. Der Name der Hauptstadt, Bamako, bedeutet in der Sprache Bambara „Krokodilfluss“, doch das Nilpferd wird aufgrund seiner Stärke und seiner Verbindung zum Fluss Niger gleichermaßen verehrt. Das Denkmal zeigt ein massives Nilpferd in einer kraftvollen Pose und befindet sich im Zentrum wichtiger Plätze der Stadt. Es dient als Erinnerung an die reiche Tierwelt des Landes und die kulturelle Bedeutung des Niger-Flusses für die Bevölkerung. Nilpferde spielen eine zentrale Rolle in den Mythen und Legenden vieler malischer Volksgruppen und stehen für Schutz und Beständigkeit. Die Skulptur ist ein beliebter Treffpunkt für Einheimische und ein häufiges Motiv für Fotografien von Reisenden. Durch seine Präsenz im öffentlichen Raum betont das Monument die enge Bindung zwischen der urbanen Entwicklung und dem natürlichen Erbe Malis. Es ist ein Ausdruck der nationalen Identität, der über moderne politische Grenzen hinausgeht und die Kraft der Natur ehrt.",
@@ -1007,6 +1256,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["Mali egyik legfontosabb nemzeti szimbólumát ábrázolja.", "A víziló az erőt és a védelmet jelképezi.", "Bamako neve bambara nyelven „krokodilfolyót” jelent.", "A város egyik központi közlekedési csomópontjában áll.", "Népszerű találkozóhely és tájékozódási pont.", "A Niger folyóhoz fűződő szoros kapcsolatot szimbolizálja."],
       ro: ["Reprezintă unul dintre cele mai importante simboluri naționale.", "Hipopotamul simbolizează forța și protecția.", "Bamako înseamnă „râul crocodilului” în limba bambara.", "Situat într-un nod rutier central al capitalei.", "Punct de întâlnire popular pentru localnici și turiști.", "Simbol al legăturii culturale cu fluviul Niger."],
       en: ["Depicts one of Mali's most significant national symbols.", "The hippopotamus represents strength and protection.", "Bamako translates as 'crocodile river' in the Bambara language.", "Located at a major central traffic intersection.", "Serves as a popular landmark and meeting point.", "Symbolizes the deep cultural connection to the Niger River."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -1024,13 +1276,19 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Ein monumentaler Komplex in Bamako zu Ehren des ersten Präsidenten des unabhängigen Mali, Modibo Keïta.",
       hu: "Monumentális komplexum Bamakóban a független Mali első elnöke, Modibo Keïta tiszteletére.",
       ro: "Un complex monumental din Bamako în onoarea primului președinte al Maliului independent, Modibo Keïta.",
-      en: "A monumental complex in Bamako honoring the first president of independent Mali, Modibo Keïta."
+      en: "A monumental complex in Bamako honoring the first president of independent Mali, Modibo Keïta.",
+      es: "Un complejo monumental en Bamako en honor al primer presidente del Malí independiente, Modibo Keïta.",
+      pt: "Um complexo monumental em Bamako em honra do primeiro presidente do Mali independente, Modibo Keïta.",
+      fr: "Un complexe monumental à Bamako en l'honneur du premier président du Mali indépendant, Modibo Keïta.",
     },
     facts: {
       de: ["1999 eingeweiht", "Umfasst eine Statue und ein Museum"],
       hu: ["1999-ben avatták fel", "Egy szobrot és egy múzeumot foglal magában"],
       ro: ["Inaugurat în 1999", "Include o statuie și un muzeu"],
-      en: ["Inaugurated in 1999", "Includes a statue and a museum"]
+      en: ["Inaugurated in 1999", "Includes a statue and a museum"],
+      es: ["Inaugurado en 1999", "Incluye una estatua y un museo"],
+      pt: ["Inaugurado em 1999", "Inclui uma estátua e um museu"],
+      fr: ["Inauguré en 1999", "Comprend une statue et un musée"],
     }, image: "/poi-images/memorial-modibo-keita-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Das Modibo-Keïta-Memorial in Bamako ist eine bedeutende Kultur- und Gedenkstätte, die dem ersten Präsidenten der Republik Mali gewidmet ist. Modibo Keïta, ein glühender Panafrikanist und Anführer des Unabhängigkeitskampfes, regierte das Land von 1960 bis zu seinem Sturz im Jahr 1968. Das am 6. Juni 1999 eingeweihte Denkmal befindet sich in der Nähe des Bahnhofs und umfasst ein Museum, eine Bibliothek sowie einen weitläufigen Garten. Es dient dazu, das Erbe des Gründervaters zu bewahren und die Geschichte der Dekolonisierung Westafrikas zu vermitteln. Im Inneren finden Besucher persönliche Gegenstände, Fotografien und Dokumente, die das Leben und die politischen Visionen Keïtas dokumentieren. Die Architektur des Komplexes verbindet moderne Elemente mit symbolischen Bezügen zur malischen Geschichte. Es ist nicht nur ein Ort der Erinnerung, sondern auch ein Zentrum für kulturelle Veranstaltungen und wissenschaftliche Forschung. Für viele Malier ist das Memorial ein Symbol für nationale Souveränität und den Stolz auf die eigene Geschichte.",
@@ -1043,6 +1301,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["1999. június 6-án avatták fel Bamakóban.", "Mali első elnökének (1960–1968) emlékére emelték.", "Múzeumot és szakkönyvtárat is magában foglal.", "A központi vasútállomás közvetlen közelében található.", "Modibo Keïta a pánafrikanizmus egyik vezető alakja volt.", "A komplexumhoz tágas, parkosított kertek tartoznak."],
       ro: ["Inaugurat la 6 iunie 1999 în orașul Bamako.", "Dedicat primului președinte al Mali (1960–1968).", "Cuprinde un muzeu și o bibliotecă specializată.", "Situat în vecinătatea gării principale de tren.", "Modibo Keïta a fost un lider marcant al panafricanismului.", "Complexul include spații verzi și grădini amenajate."],
       en: ["Inaugurated on June 6, 1999, in Bamako.", "Dedicated to Mali's first president (1960–1968).", "Houses a museum and a specialized library.", "Located in the vicinity of the central railway station.", "Modibo Keïta was a prominent leader of Pan-Africanism.", "The complex includes extensive landscaped gardens."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -1060,13 +1321,19 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       de: "Ein bedeutendes Gebäude nahe dem großen Markt von Bamako, das die architektonische Förderung des lokalen Handwerks zeigt.",
       hu: "Jelentős épület a bamakói nagy piac közelében, amely a helyi kézművesség építészeti támogatását mutatja be.",
       ro: "O clădire importantă lângă piața mare din Bamako, care arată promovarea arhitecturală a meșteșugurilor locale.",
-      en: "A significant building near the grand market of Bamako showcasing the architectural promotion of local craftsmanship."
+      en: "A significant building near the grand market of Bamako showcasing the architectural promotion of local craftsmanship.",
+      es: "Un edificio destacado cerca del gran mercado de Bamako, que muestra el apoyo arquitectónico a la artesanía local.",
+      pt: "Um edifício de destaque perto do grande mercado de Bamako, que demonstra o apoio arquitetónico ao artesanato local.",
+      fr: "Un bâtiment remarquable situé près du grand marché de Bamako, illustrant le soutien architectural à l'artisanat local.",
     },
     facts: {
       de: ["Erbaut im Jahr 1933", "Zentrum für Goldschmiede und Holzschnitzer"],
       hu: ["1933-ban épült", "Ötvösök és fafaragók központja"],
       ro: ["Construit în 1933", "Centru pentru aurari și sculptori în lemn"],
-      en: ["Built in 1933", "Center for goldsmiths and woodcarvers"]
+      en: ["Built in 1933", "Center for goldsmiths and woodcarvers"],
+      es: ["Construido en el año 1933", "Centro para orfebres y talladores de madera"],
+      pt: ["Construído em 1933", "Centro de ourives e entalhadores de madeira"],
+      fr: ["Construit en 1933", "Centre pour orfèvres et sculpteurs sur bois"],
     },
     descriptionAdvanced: {
       de: "Das Haus der Kunsthandwerker (Maison des Artisans) in Bamako ist das Herzstück des traditionellen malischen Handwerks und ein lebendiges Zentrum für Kreativität. Es wurde bereits 1933 gegründet und befindet sich direkt neben dem Großen Markt der Hauptstadt. Der Gebäudekomplex besticht durch seinen neo-sudanesischen Architekturstil mit charakteristischen Lehmziegel-Optiken und Holzelementen. Hier arbeiten zahlreiche Handwerker in offenen Werkstätten und stellen hochwertige Produkte wie Lederwaren, Silberschmuck, Holzschnitzereien und Bogolan-Stoffe her. Besucher haben die einmalige Gelegenheit, den Künstlern bei ihrer präzisen Arbeit über die Schulter zu schauen und die Techniken zu lernen, die seit Generationen weitergegeben werden. Die Maison des Artisans dient nicht nur dem Verkauf, sondern ist auch eine Ausbildungsstätte für junge Lehrlinge. Die hier gefertigten Stücke sind für ihre Qualität und Authentizität bekannt und spiegeln die Vielfalt der verschiedenen ethnischen Gruppen Malis wider. Ein Besuch bietet einen tiefen Einblick in die künstlerische Seele des Landes.",
@@ -1079,6 +1346,9 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["1933-ban alapították az intézményt.", "Az épület neo-szudáni stílusban készült.", "Közvetlenül a bamakói Nagy Piac mellett található.", "Bőráruk, ékszerek és bogolan textilek központja.", "Nyitott műhelyeket kínál a látogatók számára.", "Fontos képzési helyszín a fiatal kézműveseknek."],
       ro: ["Instituție fondată în anul 1933.", "Arhitectură realizată în stil neo-sudanez.", "Situată imediat lângă Marea Piață din Bamako.", "Centru pentru marochinărie, bijuterii și textile Bogolan.", "Dispune de ateliere deschise pentru public.", "Centru vital de formare pentru tinerii artizani."],
       en: ["Established in 1933 as a center for crafts.", "Features architecture in the neo-Sudanese style.", "Located directly adjacent to the Grand Marché.", "Hub for leather goods, jewelry, and Bogolan cloth.", "Offers open workshops for visitors to observe.", "Key training site for traditional Malian artisanship."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   }
 ];

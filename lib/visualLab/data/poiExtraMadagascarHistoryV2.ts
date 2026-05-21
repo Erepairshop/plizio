@@ -9,12 +9,15 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     coords: [47.5619, -18.7597],
     name: { de: "Königshügel von Ambohimanga", hu: "Ambohimanga Királyi Dombja", ro: "Dealul Regal din Ambohimanga", en: "Royal Hill of Ambohimanga"},
     image: "/poi-images/ambohimanga-royal-hill-history-v2.webp",
-    description: { de: "Ein historisches Dorf und eine königliche Grabstätte der Merina.", hu: "Történelmi falu és a Merina uralkodók királyi temetkezőhelye.", ro: "Un sat istoric și loc de înmormântare regală a suveranilor Merina.", en: "A historic village and royal burial ground of the Merina monarchs." },
+    description: { de: "Ein historisches Dorf und eine königliche Grabstätte der Merina.", hu: "Történelmi falu és a Merina uralkodók királyi temetkezőhelye.", ro: "Un sat istoric și loc de înmormântare regală a suveranilor Merina.", en: "A historic village and royal burial ground of the Merina monarchs." , es: "Un pueblo histórico y lugar de enterramiento real de los Merina.", pt: "Uma aldeia histórica e local de enterro real dos Merina.", fr: "Un village historique et un lieu de sépulture royale des Merina."},
     facts: {
       de: ["UNESCO-Weltkulturerbe", "Zentrum der Merina-Kultur"],
       hu: ["UNESCO Világörökség", "A Merina kultúra központja"],
       ro: ["Patrimoniu Mondial UNESCO", "Centrul culturii Merina"],
-      en: ["UNESCO World Heritage site", "Center of Merina culture"]
+      en: ["UNESCO World Heritage site", "Center of Merina culture"],
+      es: ["Patrimonio de la Humanidad por la UNESCO", "Centro de la cultura Merina"],
+      pt: ["Património Mundial da UNESCO", "Centro da cultura Merina"],
+      fr: ["Patrimoine mondial de l'UNESCO", "Centre de la culture Merina"],
     },
     descriptionAdvanced: {
       de: "Ambohimanga, der „Blaue Hügel“, ist die bedeutendste heilige Stätte Madagaskars und seit 2001 UNESCO-Weltkulturerbe. Der Hügel war über Jahrhunderte die religiöse Hauptstadt und Begräbnisstätte der Merina-Monarchen, die im 18. Jahrhundert die Insel einigten. Die Anlage umfasst den Königspalast von Andrianampoinimerina, der aus Ebenholz errichtet wurde, sowie heilige Becken und Grabanlagen. Eine massive Befestigungsmauer aus dem Jahr 1847 umschließt den Komplex, wobei der Mörtel traditionell aus Kalk und Millionen von Eiweiß hergestellt wurde. Bis zum Ende des 19. Jahrhunderts war der Zugang für Ausländer streng verboten, was die spirituelle Exklusivität des Ortes betonte. Auch heute noch finden hier rituelle Opfergaben und Zeremonien zur Ahnenverehrung statt, da Ambohimanga als Symbol der madagassischen Identität gilt. Die Architektur spiegelt eine einzigartige Mischung aus traditionellen Baustilen der Hochebene und frühen europäischen Einflüssen wider.",
@@ -27,6 +30,9 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
       hu: ["2001-ben lett az UNESCO Világörökség része", "Andrianampoinimerina király rezidenciája (1787–1810)", "A városfal habarcsához 16 millió tojást használtak", "A Merina nép legszentebb helye", "1897-ig az európaiaknak tilos volt a belépés", "Jelentős madagaszkári királyok sírjait tartalmazza"],
       ro: ["Inclus în Patrimoniul Mondial UNESCO în 2001", "Reședința regelui Andrianampoinimerina (1787–1810)", "Zid defensiv construit cu 16 milioane de ouă în mortar", "Cel mai sacru loc al poporului Merina", "Accesul europenilor a fost interzis până în 1897", "Adăpostește mormintele unor monarhi malgași importanți"],
       en: ["Designated a UNESCO World Heritage site in 2001", "Residence of King Andrianampoinimerina (1787–1810)", "Defensive walls used 16 million egg whites in mortar", "The most sacred site for the Merina people", "Strictly forbidden to Europeans until 1897", "Contains the tombs of several Malagasy monarchs"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/ambohimanga-royal-hill-history-v2.webp",
     
     
@@ -38,12 +44,15 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     coords: [47.5325, -18.9236],
     name: { de: "Rova von Antananarivo", hu: "Antananarivo Rova", ro: "Rova din Antananarivo", en: "Rova of Antananarivo"},
     image: "/poi-images/rova-antananarivo-history-v2.webp",
-    description: { de: "Ein königlicher Palastkomplex, der das Königreich Madagaskar regierte.", hu: "Királyi palotakomplexum, amelyből a Madagaszkári Királyságot irányították.", ro: "Un complex de palate regale care a condus Regatul Madagascarului.", en: "A royal palace complex that ruled the Kingdom of Madagascar." },
+    description: { de: "Ein königlicher Palastkomplex, der das Königreich Madagaskar regierte.", hu: "Királyi palotakomplexum, amelyből a Madagaszkári Királyságot irányították.", ro: "Un complex de palate regale care a condus Regatul Madagascarului.", en: "A royal palace complex that ruled the Kingdom of Madagascar." , es: "Un complejo de palacios reales que gobernó el Reino de Madagascar.", pt: "Um complexo de palácios reais que governou o Reino de Madagáscar.", fr: "Un complexe de palais royaux qui a dirigé le royaume de Madagascar."},
     facts: {
       de: ["Wurde 1995 durch ein Feuer zerstört", "Befindet sich auf dem höchsten Hügel der Stadt"],
       hu: ["1995-ben tűzvész pusztította el", "A város legmagasabb dombján található"],
       ro: ["A fost distrus de un incendiu în 1995", "Situat pe cel mai înalt deal al orașului"],
-      en: ["Destroyed by fire in 1995", "Located on the city's highest hill"]
+      en: ["Destroyed by fire in 1995", "Located on the city's highest hill"],
+      es: ["Fue destruido por un incendio en 1995", "Se encuentra en la colina más alta de la ciudad"],
+      pt: ["Foi destruído por um incêndio em 1995", "Está localizado na colina mais alta da cidade"],
+      fr: ["A été détruit par un incendie en 1995", "Situé sur la plus haute colline de la ville"],
     },
     descriptionAdvanced: {
       de: "Der Rova von Antananarivo ist ein monumentaler Palastkomplex auf dem Analamanga-Hügel, der höchsten Erhebung der Hauptstadt. Er diente über Jahrhunderte als politisches und spirituelles Zentrum des Merina-Königreichs und später des geeinten Madagaskars. Das zentrale Gebäude, der Manjakamiadana (Palast der Königin), wurde ursprünglich 1839 für Königin Ranavalona I. aus Holz erbaut und später mit einer markanten Steinfassade versehen. Im November 1995 zerstörte ein verheerender Brand weite Teile der Anlage, was zum Verlust zahlreicher unersetzlicher Kulturschätze führte. In den darauffolgenden Jahrzehnten wurde der Komplex aufwendig rekonstruiert, um die historische Silhouette der Stadt wiederherzustellen. Heute beherbergt der Rova ein Nationalmuseum und die Gräber bedeutender Herrscher, was ihn zu einem zentralen Ort der madagassischen Souveränität macht. Von den Palastmauern aus bietet sich ein Panoramablick über die gesamte Stadt und die umliegenden zwölf heiligen Hügel.",
@@ -56,6 +65,9 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
       hu: ["A város legmagasabb pontja (1480 m tengerszint felett)", "A Merina monarchia székhelye a 17. század óta", "Tűzkatasztrófa 1995. november 6-án", "A palota kőszerkezetének újjáépítése befejeződött", "Tartalmazza a királyok sírjait (Fitampoha)", "Madagaszkár nemzeti egységének szimbóluma"],
       ro: ["Cel mai înalt punct din oraș (1.480 m deasupra mării)", "Sediul monarhiei Merina din secolul al XVII-lea", "Incendiu catastrofal la 6 noiembrie 1995", "Reconstrucția structurii de piatră a fost finalizată", "Adăpostește mormintele regale (Fitampoha)", "Simbol al unității naționale a Madagascarului"],
       en: ["Highest point in the city (1,480m above sea level)", "Seat of the Merina monarchy since the 17th century", "Devastated by a major fire on November 6, 1995", "Reconstruction of the stone facade is complete", "Contains the royal tombs known as Fitampoha", "A symbol of Madagascar's national identity"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/rova-antananarivo-history-v2.webp",
     
     
@@ -67,12 +79,15 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     coords: [49.8392, -17.0006],
     name: { de: "Piratenfriedhof Sainte Marie", hu: "Sainte Marie Kalóztemető", ro: "Cimitirul Piraților din Sainte Marie", en: "Sainte Marie Pirate Cemetery"},
     image: "/poi-images/ile-sainte-marie-pirate-cemetery-history-v2.webp",
-    description: { de: "Eine historische Begräbnisstätte für Piraten aus dem 17. und 18. Jahrhundert.", hu: "Történelmi temetkezőhely a 17. és 18. századi kalózok számára.", ro: "Un loc de înmormântare istoric pentru pirații din secolele XVII și XVIII.", en: "A historical burial ground for pirates from the 17th and 18th centuries." },
+    description: { de: "Eine historische Begräbnisstätte für Piraten aus dem 17. und 18. Jahrhundert.", hu: "Történelmi temetkezőhely a 17. és 18. századi kalózok számára.", ro: "Un loc de înmormântare istoric pentru pirații din secolele XVII și XVIII.", en: "A historical burial ground for pirates from the 17th and 18th centuries." , es: "Un cementerio histórico para piratas de los siglos XVII y XVIII.", pt: "Um cemitério histórico para piratas dos séculos XVII e XVIII.", fr: "Un cimetière historique pour les pirates des XVIIe et XVIIIe siècles."},
     facts: {
       de: ["Gräber mit Totenkopf-Symbolen", "Beliebter Piratenstützpunkt"],
       hu: ["Koponyás szimbólumokkal díszített sírok", "Népszerű kalózbázis volt"],
       ro: ["Morminte cu simboluri cu cranii", "Fostă bază populară pentru pirați"],
-      en: ["Graves with skull and crossbones", "Popular pirate base"]
+      en: ["Graves with skull and crossbones", "Popular pirate base"],
+      es: ["Tumbas con símbolos de calaveras", "Popular base pirata"],
+      pt: ["Túmulos com símbolos de caveiras", "Popular base pirata"],
+      fr: ["Tombes avec symboles de tête de mort", "Base pirate populaire"],
     },
     descriptionAdvanced: {
       de: "Der Piratenfriedhof von Sainte-Marie liegt auf einer Hügelkuppe mit Blick auf die Baie des Forbans und ist die einzige bekannte Grabstätte dieser Art weltweit. Im späten 17. und frühen 18. Jahrhundert war die Insel ein strategischer Zufluchtsort für über tausend Piraten, darunter legendäre Gestalten wie William Kidd und Thomas Tew. Der Friedhof beherbergt verwitterte Grabsteine aus schwarzem Lavagestein, auf denen teilweise noch die klassischen Symbole der Freibeuter, wie Totenköpfe und gekreuzte Knochen, zu erkennen sind. Diese Stätte zeugt von einer Ära, in der die Insel als inoffizielles Zentrum des Seehandels und der Piraterie im Indischen Ozean fungierte. Die Gräber sind heute von üppiger tropischer Vegetation umgeben und nur über einen schmalen Pfad zu erreichen, der bei Flut teilweise unter Wasser steht. Für Historiker bietet der Ort wertvolle Einblicke in die soziale Struktur und die internationalen Verbindungen der Seeräuber-Gemeinschaften jener Zeit. Viele Legenden über vergrabene Schätze in der nahen Umgebung locken bis heute Abenteurer und Touristen an.",
@@ -85,6 +100,9 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
       hu: ["A világ egyetlen hiteles kalóztemetője", "Az Indiai-óceán kalózainak legfontosabb bázisa", "Olyan kapitányok sírjait feltételezik itt, mint William Kidd", "Sírkövek klasszikus halálfejes szimbólumokkal", "Az Île aux Forbans szigeten található Sainte-Marie mellett", "Aktív kalózkorszak 1680 és 1730 között"],
       ro: ["Singurul cimitir autentic al piraților din lume", "Cea mai importantă bază a piraților din Oceanul Indian", "Se presupune prezența mormintelor unor căpitani ca William Kidd", "Pietre funerare cu simboluri clasice (craniu și oase)", "Situat pe Île aux Forbans, lângă Sainte-Marie", "Epoca de aur a pirateriei între 1680 și 1730"],
       en: ["The only authentic pirate cemetery in the world", "Key stronghold for Indian Ocean pirates", "Believed to contain graves of captains like William Kidd", "Headstones feature classic skull and crossbones motifs", "Located on Île aux Forbans off Sainte-Marie", "Peak pirate activity occurred between 1680 and 1730"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/ile-sainte-marie-pirate-cemetery-history-v2.webp",
     
     
@@ -96,12 +114,15 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     coords: [47.0864, -21.4526],
     name: { de: "Altstadt von Fianarantsoa", hu: "Fianarantsoa Óvárosa", ro: "Orașul Vechi din Fianarantsoa", en: "Fianarantsoa Old Town"},
     image: "/poi-images/fianarantsoa-old-town-history-v2.webp",
-    description: { de: "Ein gut erhaltenes historisches Zentrum mit traditioneller madagassischer Architektur.", hu: "Jól megőrzött történelmi központ hagyományos madagaszkári építészettel.", ro: "Un centru istoric bine conservat, cu arhitectură tradițională malgașă.", en: "A well-preserved historic center featuring traditional Malagasy architecture." },
+    description: { de: "Ein gut erhaltenes historisches Zentrum mit traditioneller madagassischer Architektur.", hu: "Jól megőrzött történelmi központ hagyományos madagaszkári építészettel.", ro: "Un centru istoric bine conservat, cu arhitectură tradițională malgașă.", en: "A well-preserved historic center featuring traditional Malagasy architecture." , es: "Un centro histórico bien conservado con arquitectura tradicional malgache.", pt: "Um centro histórico bem preservado com arquitetura tradicional malgaxe.", fr: "Un centre historique bien préservé avec une architecture malgache traditionnelle."},
     facts: {
       de: ["1830 gegründet", "Auf einem Hügel gelegen"],
       hu: ["1830-ban alapították", "Egy dombon fekszik"],
       ro: ["Fondat în 1830", "Situat pe un deal"],
-      en: ["Founded in 1830", "Located on a hill"]
+      en: ["Founded in 1830", "Located on a hill"],
+      es: ["Fundado en 1830", "Situado en una colina"],
+      pt: ["Fundada em 1830", "Situada numa colina"],
+      fr: ["Fondée en 1830", "Située sur une colline"],
     },
     descriptionAdvanced: {
       de: "Die Oberstadt von Fianarantsoa, bekannt als Antsenakely, wurde 1830 von Königin Ranavalona I. als Verwaltungszentrum für den Süden des Landes gegründet. Die Architektur der Altstadt ist einzigartig, mit ihren schmalen, gepflasterten Gassen und den mehrstöckigen Backsteinhäusern, die sich terrassenförmig an den Hügel schmiegen. Fianarantsoa gilt als das spirituelle und intellektuelle Zentrum Madagaskars, geprägt durch zahlreiche Kirchen, Klöster und Bildungseinrichtungen der christlichen Missionen. Aufgrund ihres außergewöhnlichen Erhaltungszustands und ihrer kulturellen Bedeutung wurde die Altstadt in die Liste der gefährdeten Denkmäler des World Monuments Fund aufgenommen. Besucher können hier die traditionelle Bauweise des Betsileo-Volkes bewundern, die geschickt an die steile Topografie angepasst wurde. Die Restaurierung der historischen Gebäude wird heute durch internationale Projekte unterstützt, um das Erbe für künftige Generationen zu bewahren. Das Viertel bietet eine authentische Atmosphäre, die weitgehend vom modernen Verkehr verschont geblieben ist.",
@@ -114,6 +135,9 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
       hu: ["1830-ban alapította I. Ranavalona királynő", "Szerepel a World Monuments Watch listáján", "Fianarantsoa legmagasabban fekvő városrésze", "A keresztény oktatás és misszió központja", "Madagaszkár egyetlen teraszos szerkezetű óvárosa", "A kormányzói palota székhelye a 19. században"],
       ro: ["Fondat în 1830 de regina Ranavalona I", "Inclus în lista World Monuments Watch", "Cel mai înalt cartier din Fianarantsoa", "Centru al educației și misiunilor creștine", "Singurul oraș din Madagascar cu un centru vechi terasat", "Sediul palatului guvernatorului în secolul al XIX-lea"],
       en: ["Founded in 1830 by Queen Ranavalona I", "Listed on the World Monuments Watch list", "The highest district of Fianarantsoa city", "Hub for Christian education and mission work", "The only city in Madagascar with a terraced old town", "Seat of the governor's palace during the 19th century"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/fianarantsoa-old-town-history-v2.webp",
     
     
@@ -125,12 +149,15 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     coords: [46.9972, -25.0319],
     name: { de: "Fort Dauphin", hu: "Fort Dauphin", ro: "Fort Dauphin", en: "Fort Dauphin"},
     image: "/poi-images/fort-dauphin-tolanaro-history-v2.webp",
-    description: { de: "Eine der ältesten europäischen Siedlungen in Madagaskar, gegründet von den Franzosen.", hu: "Az egyik legrégebbi európai település Madagaszkáron, amelyet a franciák alapítottak.", ro: "Una dintre cele mai vechi așezări europene din Madagascar, fondată de francezi.", en: "One of the oldest European settlements in Madagascar, founded by the French." },
+    description: { de: "Eine der ältesten europäischen Siedlungen in Madagaskar, gegründet von den Franzosen.", hu: "Az egyik legrégebbi európai település Madagaszkáron, amelyet a franciák alapítottak.", ro: "Una dintre cele mai vechi așezări europene din Madagascar, fondată de francezi.", en: "One of the oldest European settlements in Madagascar, founded by the French." , es: "Uno de los asentamientos europeos más antiguos de Madagascar, fundado por los franceses.", pt: "Um dos assentamentos europeus mais antigos de Madagascar, fundado pelos franceses.", fr: "L'un des plus anciens établissements européens de Madagascar, fondé par les Français."},
     facts: {
       de: ["1643 gegründet", "Historischer Seehafen"],
       hu: ["1643-ban alapították", "Történelmi tengeri kikötő"],
       ro: ["Fondat în 1643", "Port maritim istoric"],
-      en: ["Founded in 1643", "Historic seaport"]
+      en: ["Founded in 1643", "Historic seaport"],
+      es: ["Fundado en 1643", "Puerto marítimo histórico"],
+      pt: ["Fundado em 1643", "Porto marítimo histórico"],
+      fr: ["Fondé en 1643", "Port maritime historique"],
     },
     descriptionAdvanced: {
       de: "Tolanaro, historisch bekannt als Fort Dauphin, liegt an der Südostküste Madagaskars und war die erste dauerhafte französische Siedlung auf der Insel. Das Fort wurde 1643 von der Französischen Ostindien-Kompanie gegründet und nach dem damaligen Kronprinzen, dem späteren Ludwig XIV., benannt. Die strategische Lage auf einer Halbinsel ermöglichte die Kontrolle der Seewege um das Kap der Guten Hoffnung. In der Umgebung treffen verschiedene Klimazonen aufeinander, was zu einer außergewöhnlichen Flora und Fauna führt, die von feuchten Regenwäldern bis hin zur trockenen Dornenwüste reicht. Heute ist Tolanaro ein bedeutendes Wirtschaftszentrum, das durch den modernen Ehoala-Hafen und den Bergbau (Ilmenit) international vernetzt ist. Historische Ruinen der ursprünglichen Festungsanlagen und ein Museum erinnern an die oft konfliktreiche Kolonialgeschichte zwischen Siedlern und lokalen Stämmen. Die Stadt gilt zudem als Tor zu den Nationalparks des Südens und ist für ihre unberührten Strände bekannt.",
@@ -143,6 +170,9 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
       hu: ["A legidősebb francia település Madagaszkáron (1643)", "A francia trónörökösről (Dauphin) nevezték el", "Stratégiai kikötő az indiai kereskedelemben a 17. században", "A modern Ehoala mélyvízi kikötő helyszíne", "A madagaszkári ilmenitbányászat központja", "Az esőerdő és a tüskés sivatag találkozási pontja"],
       ro: ["Cea mai veche așezare franceză din Madagascar (1643)", "Numit după moștenitorul tronului Franței (Dauphin)", "Port strategic pentru comerțul cu India în secolul al XVII-lea", "Locația portului modern de mare adâncime Ehoala", "Centrul mineritului de ilmenit din Madagascar", "Punct de intersecție între pădurea tropicală și deșertul de spini"],
       en: ["Oldest French settlement in Madagascar, founded in 1643", "Named in honor of the French Crown Prince (the Dauphin)", "Strategic 17th-century port for trade with India", "Site of the modern Ehoala deep-water port", "Center of Madagascar's ilmenite mining industry", "Meeting point of tropical rainforest and spiny desert"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/fort-dauphin-tolanaro-history-v2.webp",
     
     
@@ -154,12 +184,15 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     coords: [47.5333, -18.92],
     name: { de: "Andafiavaratra Palast", hu: "Andafiavaratra Palota", ro: "Palatul Andafiavaratra", en: "Andafiavaratra Palace"},
     image: "/poi-images/prime-minister-palace-andafiavaratra-history-v2.webp",
-    description: { de: "Die ehemalige Residenz des Premierministers im 19. Jahrhundert, heute ein Museum.", hu: "A miniszterelnök egykori rezidenciája a 19. században, ma múzeum.", ro: "Fosta reședință a prim-ministrului în secolul al XIX-lea, în prezent muzeu.", en: "The former prime minister's residence in the 19th century, now a museum." },
+    description: { de: "Die ehemalige Residenz des Premierministers im 19. Jahrhundert, heute ein Museum.", hu: "A miniszterelnök egykori rezidenciája a 19. században, ma múzeum.", ro: "Fosta reședință a prim-ministrului în secolul al XIX-lea, în prezent muzeu.", en: "The former prime minister's residence in the 19th century, now a museum." , es: "La antigua residencia del primer ministro en el siglo XIX, hoy un museo.", pt: "A antiga residência do primeiro-ministro no século XIX, hoje um museu.", fr: "L'ancienne résidence du Premier ministre au XIXe siècle, aujourd'hui un musée."},
     facts: {
       de: ["Rotes Backsteingebäude", "Enthält königliche Artefakte"],
       hu: ["Vörös téglás épület", "Királyi műtárgyakat tartalmaz"],
       ro: ["Clădire din cărămidă roșie", "Conține artefacte regale"],
-      en: ["Red brick building", "Contains royal artifacts"]
+      en: ["Red brick building", "Contains royal artifacts"],
+      es: ["Edificio de ladrillo rojo", "Contiene artefactos reales"],
+      pt: ["Edifício de tijolo vermelho", "Contém artefactos reais"],
+      fr: ["Bâtiment en briques rouges", "Contient des artefacts royaux"],
     },
     descriptionAdvanced: {
       de: "Der Andafiavaratra-Palast steht auf einem der höchsten Hügel von Antananarivo, unweit des königlichen Rova. Er war die offizielle Residenz von Rainilaiarivony, der im 19. Jahrhundert als Premierminister drei aufeinanderfolgende Königinnen heiratete und faktisch das Land regierte. Das imposante rote Backsteingebäude wurde von dem Architekten William Pool entworfen und spiegelt mit seinen vier Ecktürmen und der Glaskuppel den europäischen Einfluss auf die madagassische Elite jener Zeit wider. Nach einem Brand im Jahr 1976 wurde der Palast restauriert und dient heute als Museum, das die geretteten Artefakte aus dem Rova-Brand von 1995 beherbergt. Zu den Exponaten gehören königliche Kronen, Kleidung, Staatsurkunden und Möbel, die die Geschichte der Merina-Monarchie dokumentieren. Der Palast ist ein bedeutendes Denkmal für die politische Transformation Madagaskars vor der französischen Kolonialisierung. Von seinen Terrassen aus haben Besucher einen weiten Blick über die Unterstadt und die Reisfelder der Ebene.",
@@ -172,6 +205,9 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
       hu: ["Rainilaiarivony miniszterelnök egykori rezidenciája", "William Pool brit építész tervezte (1872)", "A Rova-tűzből kimentett kincseket őrzi", "Jellegzetes vörös téglaépítészet négy toronnyal", "A Nemzeti Történeti Múzeum székhelye", "A történelmi Haute-Ville negyedben található"],
       ro: ["Fosta reședință a prim-ministrului Rainilaiarivony", "Proiectat de arhitectul britanic William Pool (1872)", "Adăpostește comorile salvate din incendiul de la Rova", "Arhitectură distinctivă din cărămidă roșie cu patru turnuri", "Sediul Muzeului Național de Istorie", "Situat în cartierul istoric Haute-Ville"],
       en: ["Former residence of Prime Minister Rainilaiarivony", "Designed by British architect William Pool in 1872", "Houses treasures rescued from the Rova fire of 1995", "Imposing red brick architecture with four corner towers", "Home to the National Museum of History", "Located in the historic Haute-Ville district"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/prime-minister-palace-andafiavaratra-history-v2.webp",
     
     
@@ -183,12 +219,15 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     coords: [48.9667, -14.0333],
     name: { de: "Königliche Gräber von Maromokotro", hu: "Maromokotro Királyi Sírok", ro: "Mormintele Regale din Maromokotro", en: "Royal Tombs of Maromokotro"},
     image: "/poi-images/maromokotro-royal-tombs-history-v2.webp",
-    description: { de: "Ein traditioneller Begräbnisort der Sakalava-Könige im Norden Madagaskars.", hu: "A Sakalava királyok hagyományos temetkezési helye Észak-Madagaszkáron.", ro: "Un loc tradițional de înmormântare a regilor Sakalava în nordul Madagascarului.", en: "A traditional burial site of the Sakalava kings in northern Madagascar." },
+    description: { de: "Ein traditioneller Begräbnisort der Sakalava-Könige im Norden Madagaskars.", hu: "A Sakalava királyok hagyományos temetkezési helye Észak-Madagaszkáron.", ro: "Un loc tradițional de înmormântare a regilor Sakalava în nordul Madagascarului.", en: "A traditional burial site of the Sakalava kings in northern Madagascar." , es: "Un lugar de entierro tradicional de los reyes Sakalava en el norte de Madagascar.", pt: "Um local de sepultamento tradicional dos reis Sakalava no norte de Madagascar.", fr: "Un lieu de sépulture traditionnel des rois Sakalava dans le nord de Madagascar."},
     facts: {
       de: ["Heiliger Ort der Sakalava", "Traditionelle Rituale"],
       hu: ["A Sakalavák szent helye", "Hagyományos rituálék"],
       ro: ["Loc sacru pentru Sakalava", "Ritualuri tradiționale"],
-      en: ["Sacred site for the Sakalava", "Traditional rituals"]
+      en: ["Sacred site for the Sakalava", "Traditional rituals"],
+      es: ["Lugar sagrado de los Sakalava", "Rituales tradicionales"],
+      pt: ["Local sagrado dos Sakalava", "Rituais tradicionais"],
+      fr: ["Lieu sacré des Sakalava", "Rituels traditionnels"],
     },
     descriptionAdvanced: {
       de: "Die königlichen Gräber in der Region Sofia, nahe dem Maromokotro-Massiv, sind bedeutende spirituelle Stätten der Sakalava- und Tsimihety-Völker im Norden Madagaskars. Diese Begräbnisstätten dienen als letzte Ruhestätte für lokale Herrscher und Ahnen, deren Geist in der madagassischen Kultur als Beschützer des Landes gilt. Die Architektur der Gräber variiert von einfachen Steinkonstruktionen bis hin zu kunstvoll verzierten Holzschnitzereien, die den Status der Verstorbenen widerspiegeln. Der Ort ist von strengen sozialen Regeln und Tabus, den sogenannten „Fady“, umgeben, die das Verhalten der Besucher regeln, um die Ruhe der Ahnen nicht zu stören. Jährlich finden ritueller Zeremonien statt, bei denen Opfergaben dargebracht werden, um Segen für die Ernte und die Gemeinschaft zu erbitten. Die Abgeschiedenheit in der Nähe des höchsten Berges der Insel hat dazu beigetragen, dass die Stätten weitgehend in ihrem ursprünglichen Zustand erhalten geblieben sind. Sie sind ein wichtiges Zeugnis für die dezentralen Machtstrukturen und religiösen Praktiken im vorkolonialen Norden.",
@@ -201,6 +240,9 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
       hu: ["A Sakalava és Tsimihety népek szent temetkezési helyei", "Az északi Sofia régió elszigetelt részén található", "Több évszázadnyi helyi dinasztia sírjait foglalja magában", "Szigorú hagyományos tabuk (fady) helyszíne", "Az éves ősök tiszteletére rendezett rituálék központja", "A Tsaratanana-masszívum közelében fekszik"],
       ro: ["Locuri de înmormântare sacre pentru popoarele Sakalava și Tsimihety", "Situat în regiunea izolată Sofia din nordul țării", "Cuprinde morminte ale dinastiilor locale de câteva secole", "Loc guvernat de tabuuri tradiționale stricte (Fady)", "Centru pentru ritualurile anuale de venerare a strămoșilor", "Se află în apropierea masivului Tsaratanana"],
       en: ["Sacred burial sites for the Sakalava and Tsimihety peoples", "Located in the remote Sofia region of northern Madagascar", "Contains the tombs of local dynasties spanning several centuries", "Subject to strict traditional taboos (fady)", "A center for annual ancestor worship rituals", "Situated in the vicinity of the Tsaratanana massif"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/maromokotro-royal-tombs-history-v2.webp",
     
     
@@ -212,12 +254,15 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     coords: [46.995, -25.029],
     name: { de: "Fort Flacourt", hu: "Flacourt Erőd", ro: "Fort Flacourt", en: "Fort Flacourt"},
     image: "/poi-images/amozon-fort-flacourt-history-v2.webp",
-    description: { de: "Die Überreste einer französischen Festung aus dem 17. Jahrhundert in Fort Dauphin.", hu: "Egy 17. századi francia erőd romjai Fort Dauphinban.", ro: "Rămășițele unei fortărețe franceze din secolul al XVII-lea din Fort Dauphin.", en: "The remains of a 17th-century French fortress in Fort Dauphin." },
+    description: { de: "Die Überreste einer französischen Festung aus dem 17. Jahrhundert in Fort Dauphin.", hu: "Egy 17. századi francia erőd romjai Fort Dauphinban.", ro: "Rămășițele unei fortărețe franceze din secolul al XVII-lea din Fort Dauphin.", en: "The remains of a 17th-century French fortress in Fort Dauphin." , es: "Los restos de una fortaleza francesa del siglo XVII en Fort Dauphin.", pt: "Os restos de uma fortaleza francesa do século XVII em Fort Dauphin.", fr: "Les vestiges d'une forteresse française du XVIIe siècle à Fort Dauphin."},
     facts: {
       de: ["Benannt nach Étienne de Flacourt", "Frühe Kolonialgeschichte"],
       hu: ["Étienne de Flacourt-ról nevezték el", "Korai gyarmati történelem"],
       ro: ["Numit după Étienne de Flacourt", "Istorie colonială timpurie"],
-      en: ["Named after Étienne de Flacourt", "Early colonial history"]
+      en: ["Named after Étienne de Flacourt", "Early colonial history"],
+      es: ["Llamado así por Étienne de Flacourt", "Temprana historia colonial"],
+      pt: ["Nomeado em homenagem a Étienne de Flacourt", "Início da história colonial"],
+      fr: ["Nommé d'après Étienne de Flacourt", "Début de l'histoire coloniale"],
     },
     descriptionAdvanced: {
       de: "Fort Flacourt ist die historische Keimzelle der Stadt Tolanaro und markiert den Ort der ersten organisierten französischen Präsenz in Madagaskar im 17. Jahrhundert. Es wurde nach Étienne de Flacourt benannt, dem Gouverneur der französischen Kolonie, der hier zwischen 1648 und 1655 residierte. Flacourt verfasste an diesem Ort seine wegweisende Schrift „Histoire de la grande isle de Madagascar“, die als erste umfassende wissenschaftliche Beschreibung der Insel gilt. Das Fort diente als strategischer Verteidigungsposten gegen lokale Angriffe und als Basis für die Erforschung des südlichen Hinterlandes. Von der ursprünglichen Festung sind heute nur noch Mauerreste und Fundamente erhalten, die sich auf einer Klippe über dem Indischen Ozean befinden. Das Gelände beherbergt ein kleines Museum, das archäologische Funde wie Keramik und Kanonen aus der Gründungszeit ausstellt. Der Ort ist ein bedeutendes Denkmal für die frühen kulturellen und oft gewaltsamen Begegnungen zwischen Europa und Madagaskar.",
@@ -230,6 +275,9 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
       hu: ["1643 körül alapította a Francia Kelet-indiai Társaság", "Étienne de Flacourt kormányzó székhelye (1648–1655)", "Madagaszkár első tudományos leírásának születési helye", "Stratégiai fennsíkon helyezkedik el a tenger felett", "Az eredeti bástyák romjait tartalmazza", "Kis múzeum a gyarmati korszakból származó műtárgyakkal"],
       ro: ["Fondat în jurul anului 1643 de Compania Franceză a Indiilor Orientale", "Sediul guvernatorului Étienne de Flacourt (1648–1655)", "Locul de redactare a primei descrieri științifice a Madagascarului", "Situat pe un platou strategic deasupra mării", "Conține ruinele bastioanelor originale", "Muzeu mic cu artefacte din perioada colonială"],
       en: ["Established around 1643 by the French East India Company", "Residence of Governor Étienne de Flacourt (1648–1655)", "Birthplace of the first scientific description of Madagascar", "Positioned on a strategic plateau overlooking the ocean", "Features ruins of the original 17th-century bastions", "Home to a small museum with colonial-era artifacts"],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/amozon-fort-flacourt-history-v2.webp",
     
     
@@ -241,12 +289,15 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     coords: [47.525, -18.916],
     name: { de: "Ila Fitsarana", hu: "Ila Fitsarana", ro: "Ila Fitsarana", en: "Ila Fitsarana"},
     image: "/poi-images/ila-fitsarana-history-v2.webp",
-    description: { de: "Ehemaliger Gerichtshof der madagassischen Monarchie.", hu: "A madagaszkári monarchia egykori bírósági épülete.", ro: "Fosta curte de justiție a monarhiei malgașe.", en: "Former court of justice of the Malagasy monarchy." },
+    description: { de: "Ehemaliger Gerichtshof der madagassischen Monarchie.", hu: "A madagaszkári monarchia egykori bírósági épülete.", ro: "Fosta curte de justiție a monarhiei malgașe.", en: "Former court of justice of the Malagasy monarchy." , es: "Antiguo tribunal de justicia de la monarquía malgache.", pt: "Antigo tribunal de justiça da monarquia malgaxe.", fr: "Ancienne cour de justice de la monarchie malgache."},
     facts: {
       de: ["Ort historischer Urteile", "Bedeutende Architektur"],
       hu: ["Történelmi ítéletek helyszíne", "Jelentős építészet"],
       ro: ["Locul unor sentințe istorice", "Arhitectură importantă"],
-      en: ["Site of historical judgments", "Significant architecture"]
+      en: ["Site of historical judgments", "Significant architecture"],
+      es: ["Lugar de sentencias históricas", "Arquitectura significativa"],
+      pt: ["Local de sentenças históricas", "Arquitetura significativa"],
+      fr: ["Lieu de jugements historiques", "Architecture remarquable"],
     },
     descriptionAdvanced: {
       de: "Ila Fitsarana ist eine bedeutende historische Stätte im zentralen Hochland von Madagaskar, die eng mit der traditionellen Rechtsprechung des Merina-Königreichs verbunden ist. Der Ort diente über Jahrhunderte als Schauplatz für öffentliche Gerichtsverfahren und die Vollstreckung von Urteilen, wobei das berüchtigte Tangena-Gottesurteil eine zentrale Rolle spielte. Die Richter und Ältesten versammelten sich hier, um über schwere Verbrechen wie Hexerei oder Verrat zu entscheiden, oft unter der Aufsicht königlicher Gesandter. Die Architektur der Stätte spiegelt die soziale Hierarchie wider, mit spezifischen Plätzen für die Ankläger, die Angeklagten und das Publikum. Trotz der Abschaffung vieler dieser Praktiken im 19. Jahrhundert unter dem Einfluss europäischer Missionare bleibt Ila Fitsarana ein kraftvolles Symbol für die vorkoloniale Souveränität und die kulturelle Identität der Region. Die erhaltenen Strukturen und die mündlich überlieferte Geschichte bieten tiefe Einblicke in das komplexe Geflecht aus Ahnenverehrung, Gesetz und königlicher Macht.",
@@ -259,6 +310,9 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
       hu: ["Az Ila Fitsarana név malgas nyelven szó szerint az ítélet helyét jelenti.", "A tangena-próbát egészen 1863-as hivatalos betiltásáig rendszeresen alkalmazták itt.", "Becslések szerint évente több ezer ember vesztette életét a tangena fa mérgező magjai miatt.", "A helyszín stratégiai közelségben található Ambohimanga egykori királyi fővárosához.", "Történelmi feljegyzések szerint I. Ranavalona királynő uralkodása alatt használták leggyakrabban a helyet.", "A területen nagy, lapos kövek találhatók, amelyek a vének tanácsának ülőhelyeiként szolgáltak."],
       ro: ["Ila Fitsarana se traduce literal prin Locul Judecății în limba malgașă.", "Judecata prin tangena a fost practicată aici până la abolirea sa oficială în anul 1863.", "Se estimează că mii de oameni mureau anual din cauza semințelor toxice ale arborelui tangena.", "Situl este situat strategic în apropierea fostei capitale regale Ambohimanga.", "Documentele istorice atestă că Regina Ranavalona I a intensificat utilizarea acestui loc.", "Locul cuprinde adesea pietre mari și plate care serveau drept scaune pentru consiliul bătrânilor."],
       en: ["Ila Fitsarana literally translates to Place of Judgment in the Malagasy language.", "The tangena ordeal was practiced here until its official abolition in 1863.", "Estimates suggest thousands of people died annually from the toxic seeds of the tangena tree.", "The site is strategically located near the former royal capital of Ambohimanga.", "Historical records show that Queen Ranavalona I significantly increased the use of this site.", "The area features large, flat stones that functioned as ceremonial seats for the village elders."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/ila-fitsarana-history-v2.webp",
     
     
@@ -270,12 +324,15 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     coords: [44.3833, -23.7167],
     name: { de: "Mahafaly Gräber von Betioky", hu: "Betioky Mahafaly Sírok", ro: "Mormintele Mahafaly din Betioky", en: "Mahafaly Tombs of Betioky"},
     image: "/poi-images/betioky-royal-tombs-history-v2.webp",
-    description: { de: "Komplexe Grabanlagen des Mahafaly-Stammes, bekannt für ihre geschnitzten Holzpfähle (Aloalo).", hu: "A Mahafaly törzs összetett síremlékei, amelyek faragott faoszlopaikról (Aloalo) ismertek.", ro: "Complexe funerare ale tribului Mahafaly, cunoscute pentru stâlpii din lemn sculptați (Aloalo).", en: "Complex tomb structures of the Mahafaly tribe, known for their carved wooden posts (Aloalo)." },
+    description: { de: "Komplexe Grabanlagen des Mahafaly-Stammes, bekannt für ihre geschnitzten Holzpfähle (Aloalo).", hu: "A Mahafaly törzs összetett síremlékei, amelyek faragott faoszlopaikról (Aloalo) ismertek.", ro: "Complexe funerare ale tribului Mahafaly, cunoscute pentru stâlpii din lemn sculptați (Aloalo).", en: "Complex tomb structures of the Mahafaly tribe, known for their carved wooden posts (Aloalo)." , es: "Complejos funerarios de la tribu Mahafaly, conocidos por sus postes de madera tallada (Aloalo).", pt: "Complexos funerários da tribo Mahafaly, conhecidos pelos seus postes de madeira esculpida (Aloalo).", fr: "Complexes funéraires de la tribu Mahafaly, connus pour leurs poteaux en bois sculpté (Aloalo)."},
     facts: {
       de: ["Verziert mit Zebuhörnern", "Symbolisieren Status"],
       hu: ["Zebuszarvakkal díszített", "Státuszt szimbolizálnak"],
       ro: ["Decorate cu coarne de zebu", "Simbolizează statutul"],
-      en: ["Decorated with zebu horns", "Symbolize status"]
+      en: ["Decorated with zebu horns", "Symbolize status"],
+      es: ["Decoradas con cuernos de cebú", "Simbolizan el estatus"],
+      pt: ["Decorados com chifres de zebu", "Simbolizam o estatuto"],
+      fr: ["Décorés de cornes de zébu", "Symbolisent le statut"],
     },
     descriptionAdvanced: {
       de: "Die königlichen Gräber der Mahafaly in der Region Betioky sind herausragende Beispiele für die Bestattungskultur und die sakrale Kunst Südwest-Madagaskars. Diese monumentalen Strukturen sind nicht nur Grabstätten, sondern komplexe Denkmäler, die den sozialen Status und die Macht der verstorbenen Führer widerspiegeln. Charakteristisch sind die kunstvoll geschnitzten Holzstelen, bekannt als Aloalo, die Szenen aus dem Leben des Verstorbenen oder symbolische Motive darstellen. Zudem sind die Gräber oft mit Hunderten von Zebu-Hörnern geschmückt, die als Zeichen von Reichtum und Opferbereitschaft gelten. Die Mahafaly glauben, dass diese Bauwerke eine Brücke zwischen der Welt der Lebenden und der Ahnen bilden, weshalb ihre Pflege und ihr Schutz von höchster spiritueller Bedeutung sind. Die Architektur kombiniert massive Steinmauern mit filigranen Holzarbeiten und hat sich über Jahrhunderte kaum verändert, was sie zu einem wichtigen Zeugnis der kulturellen Kontinuität macht. Besucher und Forscher betrachten diese Gräber als eine der eindrucksvollsten Ausdrucksformen indigener madagassischer Ästhetik und Tradition.",
@@ -288,6 +345,9 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
       hu: ["Betioky régiója büszkélkedhet e monumentális sírok legnagyobb koncentrációjával.", "Az aloalo oszlopok akár két méter magasak is lehetnek, és egész családtörténeteket mesélnek el.", "Egyetlen királyi temetés alkalmával történelmileg akár 1000 zebit is feláldozhattak.", "A sírok kőfalait kötőanyag nélkül, szárazfalazási technikával építik.", "Némelyik sír területe meghaladja a 100 négyzetmétert.", "Az aloalo faragásokon az 1970-es évek óta megjelentek modern elemek is, például autók vagy repülők."],
       ro: ["Regiunea Betioky este cunoscută pentru cea mai mare concentrație a acestor morminte monumentale.", "Stelele Aloalo pot avea o înălțime de până la doi metri și relatează istorii familiale întregi.", "Din punct de vedere istoric, la o singură înmormântare regală puteau fi sacrificați până la 1000 de zebu.", "Zidurile de piatră ale mormintelor sunt construite fără mortar, folosind tehnica zidăriei uscate.", "Unele morminte se întind pe o suprafață de peste 100 de metri pătrați.", "Motivele de pe Aloalo s-au diversificat începând cu anii 1970, incluzând elemente moderne precum mașinile."],
       en: ["The Betioky region is home to the highest concentration of these monumental Mahafaly tombs.", "Aloalo steles can stand up to two meters tall and depict complex family lineages.", "Historically, as many as 1000 zebu could be sacrificed during a single royal funeral.", "The stone walls of the tombs are constructed using dry-stone techniques without mortar.", "Some larger royal tombs cover an area of more than 100 square meters.", "Since the 1970s, Aloalo motifs have evolved to include modern items like cars and airplanes."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/betioky-royal-tombs-history-v2.webp",
     
     
@@ -299,12 +359,15 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     coords: [44.6833, -20.3833],
     name: { de: "Mahabo Königlicher Friedhof", hu: "Mahabo Királyi Temető", ro: "Cimitirul Regal Mahabo", en: "Mahabo Royal Cemetery"},
     image: "/poi-images/mahabo-royal-cemetery-history-v2.webp",
-    description: { de: "Die letzte Ruhestätte mehrerer Sakalava-Könige, ein Ort von großer kultureller Bedeutung.", hu: "Számos Sakalava király végső nyughelye, nagy kulturális jelentőségű hely.", ro: "Locul de odihnă al mai multor regi Sakalava, un loc cu a mare importanță culturală.", en: "The final resting place of several Sakalava kings, a site of great cultural importance." },
+    description: { de: "Die letzte Ruhestätte mehrerer Sakalava-Könige, ein Ort von großer kultureller Bedeutung.", hu: "Számos Sakalava király végső nyughelye, nagy kulturális jelentőségű hely.", ro: "Locul de odihnă al mai multor regi Sakalava, un loc cu a mare importanță culturală.", en: "The final resting place of several Sakalava kings, a site of great cultural importance." , es: "El lugar de descanso final de varios reyes Sakalava, un sitio de gran importancia cultural.", pt: "O lugar de descanso final de vários reis Sakalava, um local de grande importância cultural.", fr: "Le lieu de repos final de plusieurs rois Sakalava, un site d'une grande importance culturelle."},
     facts: {
       de: ["Zentrum des Sakalava-Glaubens", "Nur mit Erlaubnis zugänglich"],
       hu: ["A Sakalava hit központja", "Csak engedéllyel látogatható"],
       ro: ["Centrul credinței Sakalava", "Accesibil doar cu permis"],
-      en: ["Center of Sakalava belief", "Accessible only with permission"]
+      en: ["Center of Sakalava belief", "Accessible only with permission"],
+      es: ["Centro de la fe Sakalava", "Accesible solo con permiso"],
+      pt: ["Centro da fé Sakalava", "Acessível apenas com permissão"],
+      fr: ["Centre de la foi Sakalava", "Accessible uniquement avec permission"],
     },
     descriptionAdvanced: {
       de: "Der königliche Friedhof von Mahabo ist die heiligste Begräbnisstätte der Sakalava-Dynastie des Menabe-Königreichs in West-Madagaskar. Er liegt etwa 45 Kilometer südlich von Morondava und beherbergt die sterblichen Überreste bedeutender Herrscher, darunter König Andriamisara. Die Stätte ist berühmt für das Fitampoha-Ritual, das Bad der königlichen Reliquien, das alle sieben Jahre stattfindet und Tausende von Pilgern anzieht. Während dieses Festes werden die heiligen Knochen der Könige zum Fluss Tsiribihina getragen, um sie rituell zu reinigen und den Segen der Ahnen zu erbitten. Die Gräber selbst sind oft von kunstvollen Holzschnitzereien umgeben, die sowohl erotische als auch alltägliche Motive darstellen und die Fruchtbarkeit sowie den Kreislauf des Lebens symbolisieren. Der Zugang zum Friedhof ist streng reglementiert und unterliegt zahlreichen Tabus (Fady), um die spirituelle Reinheit des Ortes zu bewahren. Mahabo ist nicht nur ein historisches Denkmal, sondern ein lebendiges Zentrum sakraler Traditionen, das die Kontinuität der Sakalava-Kultur über Jahrhunderte hinweg dokumentiert.",
@@ -317,6 +380,9 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
       hu: ["A temető Belo-sur-Tsiribihina falu közelében helyezkedik el.", "Andriamisara királyt a Menabe-Sakalava nép spirituális alapítójaként tisztelik.", "A Fitampoha-szertartás gyakran egy teljes hétig tart, legutóbb 2024-ben rendezték meg.", "A Sakalava sírokon található erotikus fafaragások világszerte egyedülállóak.", "Szigorúan tilos piros ruhát viselni a temető szent területén.", "A királyi ereklyéket egy speciális épületben, a Zombában őrizik."],
       ro: ["Cimitirul este situat în apropierea satului Belo-sur-Tsiribihina.", "Regele Andriamisara este considerat fondatorul spiritual al poporului Sakalava din Menabe.", "Ritualul Fitampoha durează adesea o săptămână întreagă și a avut loc ultima dată în 2024.", "Sculpturile erotice în lemn de pe mormintele Sakalava sunt unice în lume.", "Este strict interzisă purtarea hainelor de culoare roșie în perimetrul cimitirului.", "Relicvele sunt păstrate într-o casă specială numită Zomba."],
       en: ["The cemetery is located near the village of Belo-sur-Tsiribihina.", "King Andriamisara is regarded as the spiritual founder of the Menabe Sakalava people.", "The Fitampoha ritual often lasts an entire week and was most recently held in 2024.", "Erotic wooden carvings found on Sakalava tombs are unique in the global artistic record.", "It is strictly forbidden to wear red clothing within the sacred grounds of the cemetery.", "The royal relics are kept in a specially designated building known as a Zomba."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/mahabo-royal-cemetery-history-v2.webp",
     
     
@@ -328,12 +394,15 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     coords: [47.525, -18.91],
     name: { de: "Historischer Zoma-Markt", hu: "Történelmi Zoma Piac", ro: "Piața Istorică Zoma", en: "Historical Zoma Market"},
     image: "/poi-images/zoma-market-historical-site-history-v2.webp",
-    description: { de: "Früher der zweitgrößte Freiluftmarkt der Welt, ein zentraler Handelsplatz im 19. und 20. Jahrhundert.", hu: "Egykor a világ második legnagyobb szabadtéri piaca volt, a 19. és 20. század központi kereskedelmi helye.", ro: "Cândva a doua cea mai mare piață în aer liber din lume, un loc central de comerț în secolele XIX și XX.", en: "Once the world's second-largest open-air market, a central trading hub in the 19th and 20th centuries." },
+    description: { de: "Früher der zweitgrößte Freiluftmarkt der Welt, ein zentraler Handelsplatz im 19. und 20. Jahrhundert.", hu: "Egykor a világ második legnagyobb szabadtéri piaca volt, a 19. és 20. század központi kereskedelmi helye.", ro: "Cândva a doua cea mai mare piață în aer liber din lume, un loc central de comerț în secolele XIX și XX.", en: "Once the world's second-largest open-air market, a central trading hub in the 19th and 20th centuries." , es: "Antiguamente el segundo mercado al aire libre más grande del mundo, un centro comercial clave en los siglos XIX y XX.", pt: "Antigamente o segundo maior mercado ao ar livre do mundo, um centro comercial fundamental nos séculos XIX e XX.", fr: "Autrefois le deuxième plus grand marché de plein air au monde, un centre commercial clé aux XIXe et XXe siècles."},
     facts: {
       de: ["Fand freitags statt", "Wurde in den 1990ern aufgelöst"],
       hu: ["Péntekenként tartották", "Az 1990-es években feloszlatták"],
       ro: ["Avea loc vinerea", "A fost desființată în anii 1990"],
-      en: ["Took place on Fridays", "Was disbanded in the 1990s"]
+      en: ["Took place on Fridays", "Was disbanded in the 1990s"],
+      es: ["Se celebraba los viernes", "Fue disuelto en la década de 1990"],
+      pt: ["Realizava-se às sextas-feiras", "Foi dissolvido na década de 1990"],
+      fr: ["Se tenait le vendredi", "A été dissous dans les années 1990"],
     },
     descriptionAdvanced: {
       de: "Der historische Zoma-Markt in Antananarivo war einst einer der größten Freiluftmärkte der Welt und das pulsierende Herz der madagassischen Hauptstadt. Sein Name leitet sich vom madagassischen Wort für Freitag ab, dem Tag, an dem der Hauptmarkt stattfand, obwohl der Handel die ganze Woche über florierte. Gegründet unter der Herrschaft von König Andrianampoinimerina im späten 18. Jahrhundert, diente er als zentraler Knotenpunkt für den Austausch von Waren aus allen Regionen der Insel, von handgewebten Textilien bis hin zu exotischen Gewürzen. Die charakteristischen weißen Sonnenschirme aus Leinen prägten jahrzehntelang das Stadtbild von Analakely und schufen ein einzigartiges visuelles Mosaik. Der Zoma war nicht nur ein Ort des Handels, sondern auch ein wichtiger sozialer Treffpunkt, an dem Nachrichten ausgetauscht und politische Diskussionen geführt wurden. Trotz seiner Schließung im Jahr 1997 zur Entlastung des Stadtverkehrs bleibt er in der kollektiven Erinnerung als Symbol für die Vitalität und kulturelle Vielfalt Madagaskars bestehen. Heute erinnern nur noch architektonische Überreste und die umliegenden Arkaden an die einstige Größe dieses kommerziellen Epizentrums.",
@@ -346,6 +415,9 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
       hu: ["A Zoma-piacot hivatalosan 1997-ben számolta fel a városvezetés.", "Andrianampoinimerina király rendelte el, hogy a hét minden napja más-más piaci helyszínnek legyen szentelve.", "Fénykorában a piac szinte a teljes Analakely-völgyet elfoglalta.", "A kézzel készített papír (Antaimoro) árusítása a piac egyik különlegessége volt.", "Az analakely-i pavilonok 1920-ban épültek gyarmati stílusban.", "Egy átlagos piaci napon több mint 10 000 kereskedő volt jelen."],
       ro: ["Piața Zoma a fost desființată oficial în anul 1997 de către administrația municipală.", "Regele Andrianampoinimerina a ordonat ca fiecare zi a săptămânii să fie dedicată unei alte piețe.", "La apogeul său, piața acoperea aproape întreaga vale Analakely.", "Vânzarea hârtiei lucrate manual (Antaimoro) era o specialitate a pieței.", "Pavilioanele din Analakely au fost construite în stil colonial în anul 1920.", "Peste 10.000 de comercianți erau prezenți într-o zi obișnuită de piață."],
       en: ["The Zoma Market was officially disbanded by the municipal government in 1997.", "King Andrianampoinimerina decreed that each day of the week be dedicated to a different market location.", "At its peak, the market occupied nearly the entire Analakely valley floor.", "The sale of handmade Antaimoro paper was a renowned specialty of the market.", "The iconic Analakely pavilions were constructed in 1920 during the colonial era.", "More than 10,000 individual vendors were present on an average market day."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/zoma-market-historical-site-history-v2.webp",
     
     
@@ -357,12 +429,15 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     coords: [49.8167, -15.45],
     name: { de: "Niederländische Siedlung Antongil", hu: "Antongil Holland Település", ro: "Așezarea Olandeză Antongil", en: "Antongil Dutch Settlement"},
     image: "/poi-images/antongil-bay-dutch-settlement-history-v2.webp",
-    description: { de: "Die Überreste eines frühen niederländischen Handelspostens in der Antongil-Bucht.", hu: "Egy korai holland kereskedelmi állomás romjai az Antongil-öbölben.", ro: "Rămășițele unui vechi punct comercial olandez din Golful Antongil.", en: "The remains of an early Dutch trading post in Antongil Bay." },
+    description: { de: "Die Überreste eines frühen niederländischen Handelspostens in der Antongil-Bucht.", hu: "Egy korai holland kereskedelmi állomás romjai az Antongil-öbölben.", ro: "Rămășițele unui vechi punct comercial olandez din Golful Antongil.", en: "The remains of an early Dutch trading post in Antongil Bay." , es: "Los restos de un antiguo puesto comercial holandés en la bahía de Antongil.", pt: "Os restos de um antigo posto comercial holandês na baía de Antongil.", fr: "Les vestiges d'un ancien comptoir commercial néerlandais dans la baie d'Antongil."},
     facts: {
       de: ["17. Jahrhundert", "Handel mit Gewürzen"],
       hu: ["17. század", "Fűszerkereskedelem"],
       ro: ["Secolul al XVII-lea", "Comerț cu condimente"],
-      en: ["17th century", "Spice trade"]
+      en: ["17th century", "Spice trade"],
+      es: ["Siglo XVII", "Comercio de especias"],
+      pt: ["Século XVII", "Comércio de especiarias"],
+      fr: ["XVIIe siècle", "Commerce d'épices"],
     },
     descriptionAdvanced: {
       de: "Die niederländische Siedlung in der Bucht von Antongil markiert ein faszinierendes, wenn auch kurzlebiges Kapitel der europäischen Kolonialbestrebungen im 17. Jahrhundert auf Madagaskar. Ab 1641 versuchte die Niederländische Ostindien-Kompanie (VOC), einen strategischen Stützpunkt zu errichten, um den lukrativen Gewürzhandel nach Asien abzusichern und Sklaven für ihre Plantagen in Mauritius und Batavia zu beschaffen. Die Siedler errichteten das Fort Nassau auf einer kleinen Insel in der Bucht, doch die extremen klimatischen Bedingungen und tropische Krankheiten wie Malaria forderten einen hohen Tribut. Die Interaktionen mit der lokalen Bevölkerung waren komplex und schwankten zwischen Handel und bewaffneten Konflikten um Ressourcen. Trotz der Errichtung von Befestigungen und Versuchen, Nutzpflanzen anzubauen, wurde die Siedlung aufgrund der hohen Sterblichkeitsrate und der mangelnden Rentabilität nach nur wenigen Jahren aufgegeben. Heute zeugen nur noch vereinzelte archäologische Spuren und historische Aufzeichnungen in den VOC-Archiven von diesem ehrgeizigen Unternehmen. Die Bucht von Antongil bleibt jedoch als Ort historischer Begegnungen zwischen europäischen Seefahrern und den Küstenvölkern Madagaskars von großer Bedeutung.",
@@ -375,6 +450,9 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
       hu: ["A hollandok 1641-ben építették fel a Nassau-erődöt.", "Az Antongil-öböl Madagaszkár legnagyobb öble, amely ideális védelmet nyújtott a hajóknak.", "A legnagyobb kiterjedés idején körülbelül 100 telepes élt a kolónián.", "Adriaen Maertensz Block holland tengerész vezette az első expedíciókat a területre.", "A település elsősorban a Mauritiusra irányuló rabszolga-export köztes állomásaként szolgált.", "A malária-járványok miatt a hollandok a helyet temetőként emlegették jelentéseikben."],
       ro: ["Olandezii au construit Fortul Nassau în anul 1641.", "Antongil este cel mai mare golf din Madagascar, oferind o protecție ideală pentru nave.", "Aproximativ 100 de coloniști trăiau în colonie în perioada sa de maximă expansiune.", "Navigatorul olandez Adriaen Maertensz Block a condus primele expediții în zonă.", "Așezarea a servit în principal ca stație intermediară pentru exportul de sclavi către Mauritius.", "Din cauza epidemiilor de malarie, locul a fost supranumit cimitir de către olandezi."],
       en: ["The Dutch settlers constructed Fort Nassau in 1641.", "Antongil Bay is the largest bay in Madagascar, providing ideal shelter for 17th-century ships.", "Approximately 100 settlers lived in the colony at its peak expansion.", "Dutch navigator Adriaen Maertensz Block led the first major expeditions to the bay.", "The settlement functioned primarily as a transit station for the slave trade to Mauritius.", "Due to recurring malaria epidemics, the location was often referred to as a graveyard in Dutch records."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/antongil-bay-dutch-settlement-history-v2.webp",
     
     
@@ -386,12 +464,15 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     coords: [46.3167, -15.7167],
     name: { de: "Arabischer Handelsposten Mahajanga", hu: "Mahajanga Arab Kereskedelmi Állomás", ro: "Punctul Comercial Arab Mahajanga", en: "Mahajanga Arab Trading Post"},
     image: "/poi-images/mahajanga-arab-trading-post-history-v2.webp",
-    description: { de: "Ein historisches Zentrum des arabischen und swahilischen Seehandels an der Nordwestküste.", hu: "Az arab és szuahéli tengeri kereskedelem történelmi központja az északnyugati parton.", ro: "Un centru istoric al comerțului maritim arab și swahili pe coasta de nord-vest.", en: "A historic center of Arab and Swahili maritime trade on the northwest coast." },
+    description: { de: "Ein historisches Zentrum des arabischen und swahilischen Seehandels an der Nordwestküste.", hu: "Az arab és szuahéli tengeri kereskedelem történelmi központja az északnyugati parton.", ro: "Un centru istoric al comerțului maritim arab și swahili pe coasta de nord-vest.", en: "A historic center of Arab and Swahili maritime trade on the northwest coast." , es: "Un centro histórico del comercio marítimo árabe y suajili en la costa noroeste.", pt: "Um centro histórico do comércio marítimo árabe e suaíli na costa noroeste.", fr: "Un centre historique du commerce maritime arabe et swahili sur la côte nord-ouest."},
     facts: {
       de: ["Gründung im 18. Jahrhundert", "Verknüpfung mit Ostafrika"],
       hu: ["18. századi alapítás", "Kapcsolat Kelet-Afrikával"],
       ro: ["Fondată în secolul al XVIII-lea", "Legătură cu Africa de Est"],
-      en: ["18th-century founding", "Link to East Africa"]
+      en: ["18th-century founding", "Link to East Africa"],
+      es: ["Fundación en el siglo XVIII", "Vínculo con África Oriental"],
+      pt: ["Fundação no século XVIII", "Conexão com a África Oriental"],
+      fr: ["Fondation au XVIIIe siècle", "Lien avec l'Afrique de l'Est"],
     },
     descriptionAdvanced: {
       de: "Der arabische Handelsposten von Mahajanga an der Nordwestküste Madagaskars war über Jahrhunderte ein entscheidendes Tor zum Indischen Ozean. Gegründet im 18. Jahrhundert von arabischen und indischen Händlern, entwickelte sich die Stadt schnell zum kommerziellen Zentrum des Boina-Königreichs. Die strategische Lage an der Mündung des Betsiboka-Flusses ermöglichte einen florierenden Austausch von Waren wie Reis, Rindern und Edelhölzern gegen Stoffe, Waffen und Keramik aus dem Nahen Osten. Die Architektur der Altstadt spiegelt bis heute diesen kosmopolitischen Einfluss wider, mit ihren charakteristischen geschnitzten Holztüren und engen Gassen, die an die Swahili-Küste erinnern. Mahajanga war jedoch auch ein dunkler Knotenpunkt des Sklavenhandels, bevor dieser im 19. Jahrhundert offiziell abgeschafft wurde. Die Verschmelzung von arabischen, indischen und madagassischen Traditionen schuf eine einzigartige kulturelle Identität, die sich in der lokalen Küche, Musik und den Bräuchen manifestiert. Heute ist die Stadt ein wichtiges administratives Zentrum, das stolz auf seine reiche maritime Geschichte und seine Rolle als historischer Vermittler zwischen den Kulturen blickt.",
@@ -404,6 +485,9 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
       hu: ["Andrianaginarivo király 1745-ben tette Mahajangát Boina fővárosává.", "A Mahajanga név malgas nyelven a gyógyulás helyét jelenti.", "A város híres faragott ajtói gyakran indiai műhelyekből származnak.", "A tengerparton álló baobab fa több mint 700 éves, és a város jelképe.", "A 18. században a város az Indiai-óceán kalózainak egyik fontos bázisa volt.", "Madagaszkár francia megszállása 1895-ben Mahajangában kezdődött."],
       ro: ["Regele Andrianaginarivo a făcut din Mahajanga capitala Boina în anul 1745.", "Numele Mahajanga înseamnă Locul de vindecare în limba malgașă.", "Celebrele uși sculptate ale orașului provin adesea din ateliere indiene.", "Baobabul de pe faleză are peste 700 de ani și este simbolul orașului.", "În secolul al XVIII-lea, orașul a fost o bază importantă pentru pirații din Oceanul Indian.", "Invazia franceză a Madagascarului a început la Mahajanga în anul 1895."],
       en: ["King Andrianaginarivo declared Mahajanga the capital of the Boina Kingdom in 1745.", "The name Mahajanga translates to Place of Healing in the Malagasy language.", "The city's famous carved wooden doors were often imported from Indian workshops.", "The massive baobab on the waterfront is over 700 years old and a city landmark.", "During the 18th century, the city served as a notable base for Indian Ocean pirates.", "The French invasion of Madagascar officially began at Mahajanga in 1895."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/mahajanga-arab-trading-post-history-v2.webp",
     
     
@@ -415,12 +499,15 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     coords: [48.2917, -13.3361],
     name: { de: "Geisterstadt Marodoka", hu: "Marodoka Szellemváros", ro: "Orașul Fantomă Marodoka", en: "Marodoka Ghost Town"},
     image: "/poi-images/nosy-be-marodoka-history-v2.webp",
-    description: { de: "Einst eine blühende Handelsstadt indischer Händler auf Nosy Be, heute verlassene Ruinen.", hu: "Egykor az indiai kereskedők virágzó városa Nosy Be-n, ma elhagyatott romok.", ro: "Cândva un oraș comercial prosper al negustorilor indieni de pe Nosy Be, astăzi ruine abandonate.", en: "Once a thriving trading town of Indian merchants on Nosy Be, today abandoned ruins." },
+    description: { de: "Einst eine blühende Handelsstadt indischer Händler auf Nosy Be, heute verlassene Ruinen.", hu: "Egykor az indiai kereskedők virágzó városa Nosy Be-n, ma elhagyatott romok.", ro: "Cândva un oraș comercial prosper al negustorilor indieni de pe Nosy Be, astăzi ruine abandonate.", en: "Once a thriving trading town of Indian merchants on Nosy Be, today abandoned ruins." , es: "Antaño una próspera ciudad comercial de mercaderes indios en Nosy Be, hoy ruinas abandonadas.", pt: "Outrora uma próspera cidade comercial de mercadores indianos em Nosy Be, hoje ruínas abandonadas.", fr: "Autrefois une ville commerçante prospère de marchands indiens sur Nosy Be, aujourd'hui des ruines abandonnées."},
     facts: {
       de: ["Im 19. Jahrhundert erbaut", "Zeugt von asiatischem Einfluss"],
       hu: ["19. században épült", "Ázsiai hatást mutat"],
       ro: ["Construit în secolul al XIX-lea", "Dovadă a influenței asiatice"],
-      en: ["Built in the 19th century", "Shows Asian influence"]
+      en: ["Built in the 19th century", "Shows Asian influence"],
+      es: ["Construido en el siglo XIX", "Testimonio de la influencia asiática"],
+      pt: ["Construído no século XIX", "Testemunho da influência asiática"],
+      fr: ["Construit au XIXe siècle", "Témoigne de l'influence asiatique"],
     },
     descriptionAdvanced: {
       de: "Marodoka, oft als Geisterstadt bezeichnet, ist das älteste Dorf auf der Insel Nosy Be und ein faszinierendes Zeugnis der maritimen Handelsgeschichte Madagaskars. Im 17. Jahrhundert von indischen und arabischen Händlern gegründet, diente es lange vor der Entwicklung von Hell-Ville als primärer Hafen der Insel. Die Ruinen von Steinhäusern, die erste Moschee der Region und die Überreste alter indischer Friedhöfe zeugen von einer wohlhabenden und multikulturellen Vergangenheit. Marodoka war ein wichtiger Knotenpunkt für den Handel mit Gewürzen, Sklaven und Gold, der die Insel mit den Netzwerken des Indischen Ozeans verband. Die lokale Sakalava-Bevölkerung hat den Ort mit zahlreichen Legenden und Geistergeschichten verwoben, was ihm seine mystische Atmosphäre verleiht. Trotz des Verfalls vieler Gebäude werden Anstrengungen unternommen, die historischen Stätten zu bewahren und den kulturellen Tourismus zu fördern. Besucher können heute durch die überwucherten Ruinen wandern und die stille Pracht einer Ära erleben, in der Nosy Be ein Zentrum des globalen Austauschs war.",
@@ -433,6 +520,9 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
       hu: ["Marodoka volt Nosy Be szigetének első állandó kikötője.", "A marodokai mecsetet Madagaszkár egyik legrégebbi mecsetjeként tartják számon.", "A 19. században jelentős indiai kereskedő közösség (karana) élt itt.", "A falu mindössze öt kilométerre fekszik a fővárostól, Hell-Ville-től.", "A romok az indiai, arab és szuahéli építészet különleges keverékét mutatják.", "Egy helyi kulturális egyesület vezetett túrákat kínál a rabszolga-kereskedelem történetéről."],
       ro: ["Marodoka a fost primul port permanent de pe insula Nosy Be.", "Moscheea din Marodoka este considerată una dintre cele mai vechi din întreg Madagascarul.", "În secolul al XIX-lea, aici trăia o comunitate mare de negustori indieni (Karana).", "Satul este situat la doar cinci kilometri de capitala Hell-Ville.", "Ruinele prezintă o mixtură de arhitectură indiană, arabă și Swahili.", "O asociație culturală locală oferă tururi ghidate despre istoria comerțului cu sclavi."],
       en: ["Marodoka served as the first permanent port facility on the island of Nosy Be.", "The mosque in Marodoka is regarded as one of the oldest in all of Madagascar.", "A large community of Indian traders, known as Karana, lived here during the 19th century.", "The village is located only five kilometers from the current capital, Hell-Ville.", "The ruins exhibit a unique blend of Indian, Arab, and Swahili architectural styles.", "A local cultural association provides guided tours focusing on the history of the slave trade."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/nosy-be-marodoka-history-v2.webp",
     
     
@@ -444,12 +534,15 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     coords: [47.0864, -21.4526],
     name: { de: "Königspalast von Fianarantsoa", hu: "Fianarantsoa Királyi Palota", ro: "Palatul Regal din Fianarantsoa", en: "Fianarantsoa Royal Palace"},
     image: "/poi-images/amohi-palace-fianarantsoa-history-v2.webp",
-    description: { de: "Historischer Palast der Betsileo-Könige, bevor die Merina die Region eroberten.", hu: "A Betsileo királyok történelmi palotája, mielőtt a Merina uralkodók meghódították volna a régiót.", ro: "Palatul istoric al regilor Betsileo, înainte ca regiunea să fie cucerită de Merina.", en: "Historic palace of the Betsileo kings, before the Merina conquered the region." },
+    description: { de: "Historischer Palast der Betsileo-Könige, bevor die Merina die Region eroberten.", hu: "A Betsileo királyok történelmi palotája, mielőtt a Merina uralkodók meghódították volna a régiót.", ro: "Palatul istoric al regilor Betsileo, înainte ca regiunea să fie cucerită de Merina.", en: "Historic palace of the Betsileo kings, before the Merina conquered the region." , es: "Palacio histórico de los reyes Betsileo antes de que los Merina conquistaran la región.", pt: "Palácio histórico dos reis Betsileo antes de os Merina conquistarem a região.", fr: "Palais historique des rois Betsileo avant que les Merina ne conquièrent la région."},
     facts: {
       de: ["Betsileo-Architektur", "Historische Machtbasis"],
       hu: ["Betsileo építészet", "Történelmi hatalmi bázis"],
       ro: ["Arhitectură Betsileo", "Bază istorică de putere"],
-      en: ["Betsileo architecture", "Historical power base"]
+      en: ["Betsileo architecture", "Historical power base"],
+      es: ["Arquitectura Betsileo", "Base de poder histórica"],
+      pt: ["Arquitetura Betsileo", "Base de poder histórica"],
+      fr: ["Architecture Betsileo", "Base historique du pouvoir"],
     },
     descriptionAdvanced: {
       de: "Der königliche Palast von Fianarantsoa, gelegen in der historischen Oberstadt (Haute Ville), ist ein bedeutendes Wahrzeichen der Merina-Expansion im 19. Jahrhundert. Er wurde um 1830 auf Befehl von Königin Ranavalona I. erbaut und sollte als Verwaltungszentrum und Residenz für den königlichen Gouverneur der Betsileo-Region dienen. Die Architektur ist stark von den Palastbauten in Antananarivo beeinflusst, zeichnet sich aber durch spezifische lokale Anpassungen aus. Der Palastkomplex umfasst mehrere Gebäude, die einst die königliche Autorität und die administrative Ordnung des Merina-Reiches im südlichen Hochland verkörperten. Im Laufe der Jahrzehnte wurde der Palast Zeuge wichtiger politischer Ereignisse und kultureller Zeremonien der Betsileo. Obwohl Teile der ursprünglichen Strukturen durch die Zeit und Brände beschädigt wurden, bleibt der Ort ein zentraler Bestandteil des kulturellen Erbes von Fianarantsoa. Die Haute Ville, die den Palast umgibt, wurde aufgrund ihrer gut erhaltenen Architektur des 19. Jahrhunderts in die Liste des gefährdeten Welterbes aufgenommen.",
@@ -462,6 +555,9 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
       hu: ["Fianarantsoát 1830-ban alapították Antananarivo adminisztratív másaként.", "A palota az Ambozoroke-domb legmagasabb pontján helyezkedik el.", "Fianarantsoa felsővárosa hat történelmi templomnak ad otthont.", "A Fianarantsoa név jelentése malgasul a hely, ahol a jót tanulják.", "I. Ranavalona királynő személyesen is meglátogatta a palotát déli útja során.", "A negyedet 2008-ban felvették a World Monuments Watch listájára."],
       ro: ["Fianarantsoa a fost fondat în 1830 ca o replică administrativă a Antananarivo.", "Palatul este situat pe vârful dealului Ambozoroke.", "Haute Ville din Fianarantsoa adăpostește șase biserici istorice.", "Numele Fianarantsoa înseamnă Locul unde se învață binele în limba malgașă.", "Regina Ranavalona I a vizitat palatul personal în timpul călătoriilor sale în sud.", "Cartierul a fost inclus în World Monuments Watch în anul 2008."],
       en: ["Fianarantsoa was founded in 1830 as an administrative replica of Antananarivo.", "The palace is situated at the highest point of Ambozoroke Hill.", "The Haute Ville of Fianarantsoa is home to six major historic churches.", "The name Fianarantsoa means The place where one learns good in Malagasy.", "Queen Ranavalona I personally visited the palace during her royal tours of the south.", "The district was added to the World Monuments Watch in 2008 to encourage preservation."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/amohi-palace-fianarantsoa-history-v2.webp",
     
     
@@ -473,12 +569,15 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     coords: [47.8167, -18.9833],
     name: { de: "Jean Laborde Haus in Mantasoa", hu: "Jean Laborde Ház Mantasoában", ro: "Casa Jean Laborde din Mantasoa", en: "Jean Laborde House in Mantasoa"},
     image: "/poi-images/jean-laborde-house-mantasoa-history-v2.webp",
-    description: { de: "Wohnhaus und Fabrikkomplex des französischen Abenteurers, der für die madagassischen Königinnen arbeitete.", hu: "A madagaszkári királynőknek dolgozó francia kalandor lakóháza és gyárkomplexuma.", ro: "Casa și complexul de fabrici ale aventurierului francez care a lucrat pentru reginele Madagascarului.", en: "House and factory complex of the French adventurer who worked for the Malagasy queens." },
+    description: { de: "Wohnhaus und Fabrikkomplex des französischen Abenteurers, der für die madagassischen Königinnen arbeitete.", hu: "A madagaszkári királynőknek dolgozó francia kalandor lakóháza és gyárkomplexuma.", ro: "Casa și complexul de fabrici ale aventurierului francez care a lucrat pentru reginele Madagascarului.", en: "House and factory complex of the French adventurer who worked for the Malagasy queens." , es: "Casa y complejo de fábricas del aventurero francés que trabajó para las reinas malgaches.", pt: "Casa e complexo de fábricas do aventureiro francês que trabalhou para as rainhas malgaxes.", fr: "Maison et complexe industriel de l'aventurier français qui travailla pour les reines malgaches."},
     facts: {
       de: ["Im 19. Jahrhundert erbaut", "Frühe industrielle Entwicklung"],
       hu: ["A 19. században épült", "Korai ipari fejlődés"],
       ro: ["Construit în secolul al XIX-lea", "Dezvoltare industrială timpurie"],
-      en: ["Built in the 19th century", "Early industrial development"]
+      en: ["Built in the 19th century", "Early industrial development"],
+      es: ["Construido en el siglo XIX", "Primer desarrollo industrial"],
+      pt: ["Construído no século XIX", "Desenvolvimento industrial inicial"],
+      fr: ["Construit au XIXe siècle", "Développement industriel précoce"],
     },
     descriptionAdvanced: {
       de: "Das Haus von Jean Laborde in Mantasoa ist das Herzstück einer außergewöhnlichen industriellen und architektonischen Stätte aus der Mitte des 19. Jahrhunderts. Jean Laborde, ein französischer Abenteurer und Ingenieur, wurde zum Günstling von Königin Ranavalona I. und errichtete hier einen riesigen Industriekomplex. Das Wohnhaus selbst zeigt eine einzigartige Mischung aus europäischem Klassizismus und madagassischen Baustilen, wobei lokale Materialien wie Laterit und Holz verwendet wurden. In Mantasoa gründete Laborde Fabriken für die Produktion von Eisen, Kanonen, Seife, Glas und Textilien, was Madagaskar eine Phase beispielloser technologischer Eigenständigkeit bescherte. Die Anlage umfasste auch künstliche Seen und Gärten, die Labordes Vision einer industriellen Utopie widerspiegelten. Nach seinem Sturz und der Vertreibung der Europäer im Jahr 1857 verfiel der Komplex teilweise, doch das Haus und Labordes monumentales Grabmal blieben erhalten. Heute ist die Stätte ein wichtiges Denkmal für die Epoche der frühen madagassischen Industrialisierung und zieht Geschichtsinteressierte aus aller Welt an.",
@@ -491,6 +590,9 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
       hu: ["Jean Laborde 1831-ben, egy hajótörést követően került Madagaszkárra.", "Az ipari komplexum fénykorában több mint 20 000 kényszermunkást foglalkoztatott.", "Laborde lakóházát 1878-as halála után teljesen restaurálták.", "Mantasoában épült fel a szubszaharai Afrika első modern nagyolvasztója.", "Laborde monumentális síremléke a Soatsimanampy nevet viseli.", "A mai Mantasoa-tavat jóval később, egy gátépítés során duzzasztották fel."],
       ro: ["Jean Laborde a ajuns în Madagascar în 1831, în urma unui naufragiu.", "Complexul industrial a angajat la un moment dat peste 20.000 de muncitori forțați.", "Casa lui Laborde a fost restaurată după moartea sa în anul 1878.", "În Mantasoa a fost construit primul furnal modern din Africa subsahariană.", "Mormântul monumental al lui Laborde poartă numele de Soatsimanampy.", "Actualul lac Mantasoa a fost mărit mult mai târziu prin construcția unui baraj."],
       en: ["Jean Laborde arrived in Madagascar in 1831 after surviving a shipwreck.", "The industrial complex employed over 20,000 forced laborers at its peak production.", "Laborde's residence was meticulously restored following his death in 1878.", "The site in Mantasoa hosted the first modern blast furnace in sub-Saharan Africa.", "Laborde's monumental tomb at the site is officially named Soatsimanampy.", "The present-day Mantasoa Lake was enlarged much later by the construction of a dam."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/jean-laborde-house-mantasoa-history-v2.webp",
     
     
@@ -502,12 +604,15 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     coords: [47.3, -18.9333],
     name: { de: "Festungen von Antongona", hu: "Antongona Erődítményei", ro: "Fortificațiile din Antongona", en: "Fortifications of Antongona"},
     image: "/poi-images/antongona-fortifications-history-v2.webp",
-    description: { de: "Zwei historische königliche Dörfer auf Felsgipfeln, erbaut im 16. Jahrhundert zur Verteidigung.", hu: "Két történelmi királyi falu sziklacsúcsokon, amelyeket a 16. században építettek védekezés céljából.", ro: "Două sate regale istorice pe vârfuri stâncoase, construite în secolul al XVI-lea pentru apărare.", en: "Two historical royal villages on rocky peaks, built in the 16th century for defense." },
+    description: { de: "Zwei historische königliche Dörfer auf Felsgipfeln, erbaut im 16. Jahrhundert zur Verteidigung.", hu: "Két történelmi királyi falu sziklacsúcsokon, amelyeket a 16. században építettek védekezés céljából.", ro: "Două sate regale istorice pe vârfuri stâncoase, construite în secolul al XVI-lea pentru apărare.", en: "Two historical royal villages on rocky peaks, built in the 16th century for defense." , es: "Dos aldeas reales históricas situadas en cimas rocosas, construidas en el siglo XVI con fines defensivos.", pt: "Duas aldeias reais históricas situadas em picos rochosos, construídas no século XVI para defesa.", fr: "Deux villages royaux historiques perchés sur des sommets rocheux, construits au XVIe siècle pour la défense."},
     facts: {
       de: ["Merina-Kultur", "Archäologische Stätte"],
       hu: ["Merina kultúra", "Régészeti lelőhely"],
       ro: ["Cultura Merina", "Sit arheologic"],
-      en: ["Merina culture", "Archaeological site"]
+      en: ["Merina culture", "Archaeological site"],
+      es: ["Cultura Merina", "Sitio arqueológico"],
+      pt: ["Cultura Merina", "Sítio arqueológico"],
+      fr: ["Culture Merina", "Site archéologique"],
     },
     descriptionAdvanced: {
       de: "Die Befestigungsanlagen von Antongona sind beeindruckende Beispiele für die Militärarchitektur des Merina-Königreichs im 17. und 18. Jahrhundert. Sie liegen auf zwei markanten Granithügeln etwa 36 Kilometer westlich von Antananarivo und dienten als strategische Wachtürme und Verteidigungsanlagen. Die Stätte besteht aus mehreren hölzernen Gebäuden auf hohen Steinplattformen, die von massiven Gräben und Steinmauern umgeben sind. Charakteristisch sind die riesigen Steinscheiben (Vavahady), die als Tore dienten und bei Gefahr vor die Eingänge gerollt wurden. Diese Festungen spielten eine entscheidende Rolle bei der Sicherung des zentralen Hochlands gegen feindliche Angriffe der Sakalava und anderer Stämme. Von der Spitze der Hügel bietet sich ein strategischer Weitblick über die umliegenden Ebenen, was die Verteidiger frühzeitig vor herannahenden Bedrohungen warnte. In den 1990er Jahren wurden die hölzernen Strukturen originalgetreu rekonstruiert, um den Besuchern einen Einblick in das Leben der Garnisonen und den Schutz des Königreichs zu geben. Antongona ist heute ein geschütztes Kulturdenkmal, das die technologische und militärische Raffinesse der madagassischen Vorfahren verdeutlicht.",
@@ -520,6 +625,9 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
       hu: ["Antongona két dombja közel 1500 méteres tengerszint feletti magasságban fekszik.", "Andriamasinavalona király a 17. században határőrizetre használta az erődöt.", "A vavahady kőkapuk gyakran több tonnát nyomnak, és tökéletesen kerekre vannak faragva.", "A helyszínen ma egy kis múzeum működik, amely a felföld történelmét mutatja be.", "Régészeti leletek bizonyítják, hogy a terület már a Merina-korszak előtt is lakott volt.", "Az erőd körüli árkok (hadivory) mélysége helyenként eléri az öt métert."],
       ro: ["Cele două dealuri din Antongona sunt situate la o altitudine de aproape 1500 de metri.", "Regele Andriamasinavalona a folosit fortăreața în secolul al XVII-lea pentru monitorizarea granițelor.", "Porțile de piatră Vavahady cântăresc adesea câteva tone și sunt cioplite perfect rotund.", "Situl găzduiește astăzi un mic muzeu dedicat istoriei zonelor înalte.", "Descoperirile arheologice atestă o locuire a zonei încă dinaintea epocii Merina.", "Șanțurile (Hadivory) din jurul fortăreței au o adâncime de până la cinci metri."],
       en: ["The two hills of Antongona rise to an elevation of nearly 1,500 meters above sea level.", "King Andriamasinavalona utilized the fortress for border surveillance in the 17th century.", "The Vavahady stone gates often weigh several tons and are carved into near-perfect circles.", "The site currently houses a small museum dedicated to the history of the central highlands.", "Archaeological evidence suggests the area was inhabited prior to the rise of the Merina Kingdom.", "The defensive trenches (Hadivory) surrounding the forts are up to five meters deep."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/antongona-fortifications-history-v2.webp",
     
     
@@ -531,12 +639,15 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     coords: [48.4, -18.9333],
     name: { de: "Kolonialstation Analamazaotra", hu: "Analamazaotra Gyarmati Állomás", ro: "Stația Colonială Analamazaotra", en: "Analamazaotra Colonial Station"},
     image: "/poi-images/analamazaotra-colonial-station-history-v2.webp",
-    description: { de: "Ein früher kolonialer Eisenbahn- und Forstposten während der französischen Herrschaft.", hu: "Korai gyarmati vasúti és erdészeti állomás a francia uralom idején.", ro: "Un fost post colonial feroviar și forestier în timpul dominației franceze.", en: "An early colonial railway and forestry post during French rule." },
+    description: { de: "Ein früher kolonialer Eisenbahn- und Forstposten während der französischen Herrschaft.", hu: "Korai gyarmati vasúti és erdészeti állomás a francia uralom idején.", ro: "Un fost post colonial feroviar și forestier în timpul dominației franceze.", en: "An early colonial railway and forestry post during French rule." , es: "Un antiguo puesto ferroviario y forestal colonial durante el dominio francés.", pt: "Um antigo posto ferroviário e florestal colonial durante o domínio francês.", fr: "Un ancien poste ferroviaire et forestier colonial sous la domination française."},
     facts: {
       de: ["Ende 19. Jahrhundert", "Nahe Andasibe"],
       hu: ["19. század vége", "Andasibe közelében"],
       ro: ["Sfârșitul secolului al XIX-lea", "Lângă Andasibe"],
-      en: ["Late 19th century", "Near Andasibe"]
+      en: ["Late 19th century", "Near Andasibe"],
+      es: ["Finales del siglo XIX", "Cerca de Andasibe"],
+      pt: ["Final do século XIX", "Perto de Andasibe"],
+      fr: ["Fin du XIXe siècle", "Près d'Andasibe"],
     },
     descriptionAdvanced: {
       de: "Die koloniale Station von Analamazaotra wurde zu Beginn des 20. Jahrhunderts im Zuge des Baus der Eisenbahnlinie Tananarive-Côte Est (TCE) errichtet, die das Hochland mit dem Hafen von Toamasina verband. Die Station diente primär als administratives Zentrum für die Forstwirtschaft und als Erholungsort für französische Kolonialbeamte, die das kühlere Klima des Regenwaldes suchten. Architektonisch spiegeln die Gebäude den utilitaristischen Kolonialstil dieser Ära wider, wobei lokale Baumaterialien mit europäischen Entwürfen kombiniert wurden. Das Gebiet um die Station war entscheidend für die Erforschung der endemischen Flora und Fauna Madagaskars, insbesondere des Indri-Indri, des größten heute lebenden Lemuren. Heute sind Teile der ursprünglichen Strukturen noch sichtbar und zeugen von der infrastrukturellen Erschließung der Region während der französischen Mandatszeit. Die Station markiert den Übergang zwischen dem industriellen Fortschritt der Eisenbahn und der wissenschaftlichen Dokumentation der biologischen Vielfalt der Insel.",
@@ -549,6 +660,9 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
       hu: ["Az állomás 1901 és 1913 között épült a TCE vasútvonal stratégiai pontjaként.", "A helyszín tengerszint feletti magassága megközelítőleg 900 méter.", "Itt létesítették az első francia erdészeti kísérleti telepet a szigeten.", "A vasútvonal teljes hossza Antananarivo és Toamasina között 371 kilométer volt.", "Az állomás környékét 1970-ben nyilvánították különleges természetvédelmi területté.", "Az épületek szerkezete ellenállt a trópusi esőerdő magas páratartalmának."],
       ro: ["Stația a fost construită între anii 1901 și 1913 ca parte a proiectului feroviar TCE.", "Localitatea este situată la o altitudine de aproximativ 900 de metri.", "Zona a găzduit primele pepiniere forestiere experimentale ale administrației franceze.", "Calea ferată acoperea o distanță de 371 km între capitală și coasta de est.", "Rezervația Specială Analamazaotra a fost oficial înființată în anul 1970.", "Multe clădiri originale au fost edificate folosind tehnici de îmbinare a lemnului fără cuie."],
       en: ["The station was constructed between 1901 and 1913 as part of the TCE rail project.", "It is situated at an elevation of approximately 900 meters above sea level.", "The site hosted the first experimental forestry nurseries in colonial Madagascar.", "The railway line spans a total distance of 371 km between the capital and the coast.", "The Analamazaotra Special Reserve was officially established in the vicinity in 1970.", "Original structures featured a mix of European brickwork and local timber."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/analamazaotra-colonial-station-history-v2.webp",
     
     
@@ -560,12 +674,15 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     coords: [43.6667, -23.35],
     name: { de: "Kolonialzentrum Toliara", hu: "Toliara Gyarmati Központja", ro: "Centrul Colonial Toliara", en: "Toliara Colonial Center"},
     image: "/poi-images/toliara-colonial-center-history-v2.webp",
-    description: { de: "Die historischen Gebäude und breiten Alleen, die während der französischen Kolonialzeit angelegt wurden.", hu: "A francia gyarmati időszakban épült történelmi épületek és széles sugárutak.", ro: "Clădirile istorice și bulevardele largi construite în timpul perioadei coloniale franceze.", en: "The historical buildings and broad avenues established during the French colonial era." },
+    description: { de: "Die historischen Gebäude und breiten Alleen, die während der französischen Kolonialzeit angelegt wurden.", hu: "A francia gyarmati időszakban épült történelmi épületek és széles sugárutak.", ro: "Clădirile istorice și bulevardele largi construite în timpul perioadei coloniale franceze.", en: "The historical buildings and broad avenues established during the French colonial era." , es: "Los edificios históricos y las amplias avenidas que se crearon durante la época colonial francesa.", pt: "Os edifícios históricos e as amplas avenidas que foram criados durante o período colonial francês.", fr: "Les bâtiments historiques et les larges avenues créés pendant la période coloniale française."},
     facts: {
       de: ["Architektur des 20. Jahrhunderts", "Wichtiger Hafen"],
       hu: ["20. századi építészet", "Fontos kikötő"],
       ro: ["Arhitectura secolului XX", "Port important"],
-      en: ["20th-century architecture", "Important port"]
+      en: ["20th-century architecture", "Important port"],
+      es: ["Arquitectura del siglo XX", "Puerto importante"],
+      pt: ["Arquitetura do século XX", "Porto importante"],
+      fr: ["Architecture du XXe siècle", "Port important"],
     },
     descriptionAdvanced: {
       de: "Das koloniale Zentrum von Toliara, ehemals Tuléar, wurde Ende des 19. Jahrhunderts systematisch ausgebaut, nachdem Frankreich 1895 die volle Kontrolle über die Region übernommen hatte. Die Stadtplanung folgte einem schachbrettartigen Muster, das typisch für französische Kolonialstädte ist, um Ordnung und Verwaltungseffizienz im trockenen Südwesten zu gewährleisten. Entlang der breiten Boulevards entstanden repräsentative Verwaltungsgebäude, Handelskontore und Residenzen, die durch ihre dicken Kalksteinwände und hohen Decken an das semiaride Klima angepasst waren. Toliara entwickelte sich schnell zum wichtigsten Exporthafen für Agrarprodukte aus dem Süden, darunter Sisal, Mais und Viehbestand. Die Architektur des Zentrums spiegelt die Ambitionen einer Seemacht wider, die den Kanal von Mosambik kontrollieren wollte. Trotz der Modernisierung in den letzten Jahrzehnten bewahren viele Straßenzüge den Charme der Jahrhundertwende und zeugen von der Bedeutung der Stadt als administratives Rückgrat des tiefen Südens. Heute ist das koloniale Erbe ein wichtiger Teil der kulturellen Identität Toliaras und ein Anziehungspunkt für Geschichtsinteressierte.",
@@ -578,6 +695,9 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
       hu: ["Toliara 1895-ben lett a francia dél-madagaszkári közigazgatás székhelye.", "A városszerkezetet eredetileg francia katonai mérnökök tervezték.", "A település kikötője a sziget harmadik legnagyobb forgalmú exportpontja volt.", "A központi mészkőépületek többsége 1900 és 1930 között épült.", "A város pontosan a Baktérítő vonalán helyezkedik el.", "A történelmi negyed épületeihez a közeli korallzátonyok anyagát is felhasználták."],
       ro: ["Toliara a devenit centrul administrativ al sudului în anul 1895.", "Planul urbanistic a fost conceput de ingineri militari francezi în secolul XIX.", "Portul local a fost clasat ca al treilea cel mai important punct de export al insulei.", "Majoritatea structurilor din calcar datează din perioada 1900-1930.", "Orașul este situat geografic chiar pe Tropicul Capricornului.", "Arhitectura colonială a utilizat blocuri de calcar coralier pentru fundații."],
       en: ["Toliara was established as the administrative capital of the South in 1895.", "The urban plan was originally drafted by French military engineers.", "The local port served as the third-largest export hub in Madagascar.", "Most limestone structures in the center date from between 1900 and 1930.", "The city is located directly on the Tropic of Capricorn.", "Colonial buildings often featured coral limestone blocks for durability."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/toliara-colonial-center-history-v2.webp",
     
     
@@ -589,12 +709,15 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     coords: [44.2833, -20.2833],
     name: { de: "Königsgräber von Morondava", hu: "Morondava Királysírok", ro: "Mormintele Regale din Morondava", en: "Morondava Royal Tombs"},
     image: "/poi-images/morondava-royal-tombs-history-v2.webp",
-    description: { de: "Traditionelle Sakalava-Gräber in der Region Menabe, bekannt für ihre erotischen Holzskulpturen.", hu: "Hagyományos Sakalava sírok a Menabe régióban, amelyek erotikus faszobraikról ismertek.", ro: "Morminte tradiționale Sakalava în regiunea Menabe, cunoscute pentru sculpturile lor erotice din lemn.", en: "Traditional Sakalava tombs in the Menabe region, known for their erotic wooden sculptures." },
+    description: { de: "Traditionelle Sakalava-Gräber in der Region Menabe, bekannt für ihre erotischen Holzskulpturen.", hu: "Hagyományos Sakalava sírok a Menabe régióban, amelyek erotikus faszobraikról ismertek.", ro: "Morminte tradiționale Sakalava în regiunea Menabe, cunoscute pentru sculpturile lor erotice din lemn.", en: "Traditional Sakalava tombs in the Menabe region, known for their erotic wooden sculptures." , es: "Tumbas tradicionales Sakalava en la región de Menabe, conocidas por sus esculturas eróticas de madera.", pt: "Túmulos tradicionais Sakalava na região de Menabe, conhecidos por suas esculturas eróticas de madeira.", fr: "Tombes traditionnelles Sakalava dans la région de Menabe, connues pour leurs sculptures érotiques en bois."},
     facts: {
       de: ["Zelebration von Leben und Fruchtbarkeit", "Sakalava-Kultur"],
       hu: ["Az élet és a termékenység ünneplése", "Sakalava kultúra"],
       ro: ["Celebrarea vieții și fertilității", "Cultura Sakalava"],
-      en: ["Celebration of life and fertility", "Sakalava culture"]
+      en: ["Celebration of life and fertility", "Sakalava culture"],
+      es: ["Celebración de la vida y la fertilidad", "Cultura Sakalava"],
+      pt: ["Celebração da vida e da fertilidade", "Cultura Sakalava"],
+      fr: ["Célébration de la vie et de la fertilité", "Culture Sakalava"],
     },
     descriptionAdvanced: {
       de: "Die königlichen Gräber von Morondava sind bedeutende historische Stätten des Menabe-Sakalava-Königreichs, das im 17. und 18. Jahrhundert die Westküste Madagaskars dominierte. Diese Grabanlagen sind weltweit bekannt für ihre einzigartigen Holzskulpturen, die sogenannten Aloalo, welche auf den Gräbern platziert werden, um das Leben des Verstorbenen zu ehren. Die Schnitzereien zeigen oft Szenen aus dem Alltag, mythologische Motive und in einigen Fällen berühmte erotische Darstellungen, die Fruchtbarkeit und den Kreislauf des Lebens symbolisieren. Die Architektur der Gräber selbst besteht meist aus Stein oder massivem Holz und ist tief in den Ahnenkult der Sakalava-Kultur eingebettet. Morondava diente als spirituelles Zentrum für die Monarchen von Menabe, wobei die Bestattungsriten aufwendige Zeremonien und Opfergaben beinhalteten. Diese Stätten sind nicht nur Grabmale, sondern fungieren als lebendige Museen der madagassischen Geschichte und Kunstfertigkeit vor der Kolonialzeit. Der Schutz dieser Gräber ist für die lokale Gemeinschaft von höchster Bedeutung, da sie die Verbindung zwischen der Gegenwart und den mächtigen Vorfahren der Sakalava darstellen.",
@@ -607,6 +730,9 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
       hu: ["A Menabe Királyságot Andriandahifotsy király szilárdította meg 1685 körül.", "Az aloalo sztélék magassága elérheti a 2 métert is.", "Az erotikus faragások a szakalava sírművészet egyedülálló jellegzetességei.", "A temetési szertartások során gyakran több tucat zebut áldoztak fel.", "Egyes királyi sírok a híres Baobab sugárút közelében találhatók.", "A faragványokat tartós tikfából vagy ébenfából készítik a környezeti hatások ellen."],
       ro: ["Regatul Menabe a fost consolidat în jurul anului 1685 de regele Andriandahifotsy.", "Stelale aloalo pot atinge o înălțime de până la 2 metri.", "Sculpturile erotice reprezintă o trăsătură specifică artei funerare Sakalava.", "Ritualurile funerare includeau sacrificii rituale de tauri zebu.", "Unele morminte regale sunt situate în proximitatea celebrei Alee a Baobabilor.", "Sculpturile sunt realizate din esențe de lemn rezistente la coroziune și insecte."],
       en: ["The Menabe Kingdom was consolidated around 1685 by King Andriandahifotsy.", "The aloalo stelae can reach a height of up to 2 meters.", "Erotic carvings are a distinctive feature of Sakalava funerary art.", "Traditional burials involved the entire community and zebu sacrifices.", "Some royal tombs are located near the iconic Avenue of the Baobabs.", "The sculptures are primarily crafted from weather-resistant teak or ebony."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/morondava-royal-tombs-history-v2.webp",
     
     
@@ -618,12 +744,15 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     coords: [46.95, -19.4],
     name: { de: "Missionsstation Faratsiho", hu: "Faratsiho Misszió", ro: "Misiunea Faratsiho", en: "Faratsiho Mission"},
     image: "/poi-images/faratsiho-mission-history-v2.webp",
-    description: { de: "Eine der ältesten christlichen Missionen im zentralen Hochland von Madagaskar.", hu: "Az egyik legrégebbi keresztény misszió a madagaszkári központi fennsíkon.", ro: "Una dintre cele mai vechi misiuni creștine din zonele înalte centrale din Madagascar.", en: "One of the oldest Christian missions in the central highlands of Madagascar." },
+    description: { de: "Eine der ältesten christlichen Missionen im zentralen Hochland von Madagaskar.", hu: "Az egyik legrégebbi keresztény misszió a madagaszkári központi fennsíkon.", ro: "Una dintre cele mai vechi misiuni creștine din zonele înalte centrale din Madagascar.", en: "One of the oldest Christian missions in the central highlands of Madagascar." , es: "Una de las misiones cristianas más antiguas en las tierras altas centrales de Madagascar.", pt: "Uma das missões cristãs mais antigas no planalto central de Madagascar.", fr: "L'une des plus anciennes missions chrétiennes des hauts plateaux centraux de Madagascar."},
     facts: {
       de: ["Im 19. Jahrhundert erbaut", "Religiöses Zentrum"],
       hu: ["19. században épült", "Vallási központ"],
       ro: ["Construită în secolul al XIX-lea", "Centru religios"],
-      en: ["Built in the 19th century", "Religious center"]
+      en: ["Built in the 19th century", "Religious center"],
+      es: ["Construida en el siglo XIX", "Centro religioso"],
+      pt: ["Construída no século XIX", "Centro religioso"],
+      fr: ["Construite au XIXe siècle", "Centre religieux"],
     },
     descriptionAdvanced: {
       de: "Die Faratsiho-Mission liegt in der vulkanischen Region Vakinankaratra auf einer Höhe von fast 2000 Metern und ist eine der höchstgelegenen christlichen Siedlungen Madagaskars. Die Gründung der katholischen Mission Ende des 19. Jahrhunderts markierte den Beginn einer bedeutenden sozialen und architektonischen Transformation in diesem isolierten Hochlandgebiet. Die markante Steinkirche, die das Stadtbild dominiert, wurde von französischen Missionaren und lokalen Handwerkern im neugotischen Stil errichtet, wobei massiver lokaler Basalt verwendet wurde. Faratsiho entwickelte sich durch die Mission zu einem Bildungs- und Gesundheitszentrum, das Schulen und medizinische Versorgung in die entlegene Region brachte. Die Architektur der Missionsgebäude zeichnet sich durch ihre Robustheit gegenüber den kühlen und feuchten Bedingungen der Hochebene aus. Historisch gesehen war der Ort ein strategischer Punkt für die christliche Expansion im zentralen Madagaskar während der Regierungszeit von Ranavalona II. und III. Heute bleibt die Mission ein wichtiger spiritueller Bezugspunkt und ein Symbol für die Verschmelzung europäischer Architekturtraditionen mit der madagassischen Hochlandkultur.",
@@ -636,6 +765,9 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
       hu: ["Faratsiho kb. 1920 méteres magasságával az ország egyik legmagasabb városa.", "A katolikus missziót hivatalosan 1889-ben alapították.", "A főtemplom falaihoz kizárólag a környéken bányászott sötét bazaltot használták.", "A Vakinankaratra-hegység híres termékeny vulkáni talajáról.", "A gyarmati időkben Faratsiho a sziget burgonyatermesztési központja volt.", "A misszió a régió egyik első nyomdáját is üzemeltette."],
       ro: ["Faratsiho este situat la o altitudine de aproximativ 1920 de metri.", "Misiunea catolică a fost înființată oficial în anul 1889.", "Biserica principală este construită integral din piatră de bazalt de culoare închisă.", "Munții Vakinankaratra sunt recunoscuți pentru solurile vulcanice fertile.", "În epoca colonială, Faratsiho a fost un centru major pentru cultivarea cartofului.", "Misiunea a gestionat una dintre primele tipografii din această regiune muntoasă."],
       en: ["Faratsiho is one of the highest towns in Madagascar at approx. 1920m altitude.", "The Catholic mission was officially established in 1889.", "The main church was constructed entirely from locally quarried dark basalt.", "The Vakinankaratra mountains are famous for their fertile volcanic soil.", "During the colonial era, Faratsiho was a key center for potato cultivation.", "The mission operated one of the first printing presses in the regional interior."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/faratsiho-mission-history-v2.webp",
     
     
@@ -647,12 +779,15 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     coords: [49.3333, -12.2333],
     name: { de: "Militärfestung Cap d'Ambre", hu: "Cap d'Ambre Katonai Erőd", ro: "Fortăreața Militară Cap d'Ambre", en: "Cap d'Ambre Military Fort"},
     image: "/poi-images/cap-mined-diego-suarez-history-v2.webp",
-    description: { de: "Alte französische Militärinstallationen und Küstenbatterien, die den Hafen von Diego Suarez bewachten.", hu: "Régi francia katonai létesítmények és parti ütegek, amelyek Diego Suarez kikötőjét őrizték.", ro: "Vechi instalații militare franceze și baterii de coastă care păzeau portul Diego Suarez.", en: "Old French military installations and coastal batteries that guarded the port of Diego Suarez." },
+    description: { de: "Alte französische Militärinstallationen und Küstenbatterien, die den Hafen von Diego Suarez bewachten.", hu: "Régi francia katonai létesítmények és parti ütegek, amelyek Diego Suarez kikötőjét őrizték.", ro: "Vechi instalații militare franceze și baterii de coastă care păzeau portul Diego Suarez.", en: "Old French military installations and coastal batteries that guarded the port of Diego Suarez." , es: "Antiguas instalaciones militares francesas y baterías costeras que protegían el puerto de Diego Suarez.", pt: "Antigas instalações militares francesas e baterias costeiras que protegiam o porto de Diego Suarez.", fr: "Anciennes installations militaires françaises et batteries côtières qui gardaient le port de Diego Suarez."},
     facts: {
       de: ["Zweiter Weltkrieg", "Strategischer Hafen"],
       hu: ["Második világháború", "Stratégiai kikötő"],
       ro: ["Al Doilea Război Mondial", "Port strategic"],
-      en: ["World War II", "Strategic port"]
+      en: ["World War II", "Strategic port"],
+      es: ["Segunda Guerra Mundial", "Puerto estratégico"],
+      pt: ["Segunda Guerra Mundial", "Porto estratégico"],
+      fr: ["Seconde Guerre mondiale", "Port stratégique"],
     },
     descriptionAdvanced: {
       de: "Das Militärfort am Cap d'Ambre, an der nördlichsten Spitze Madagaskars gelegen, war ein entscheidender strategischer Außenposten der französischen Marine während der Kolonialzeit. Das Fort wurde errichtet, um den Zugang zur Bucht von Diego Suarez (Antsiranana), einem der weltweit größten natürlichen Tiefwasserhäfen, zu kontrollieren und zu schützen. Die Anlage umfasste Beobachtungsposten, Kasernen und schwere Artilleriestellungen, die strategisch auf den Klippen über dem Indischen Ozean und dem Kanal von Mosambik positioniert waren. Die rauen klimatischen Bedingungen und die isolierte Lage machten den Bau und die Versorgung des Forts zu einer logistischen Herausforderung. Historisch gesehen spielte Cap d'Ambre eine wichtige Rolle bei der Sicherung der Seewege nach Französisch-Indochina und zur Insel Réunion. Nach der Unabhängigkeit Madagaskars im Jahr 1960 verlor das Fort seine primäre militärische Bedeutung, bleibt jedoch ein wichtiges Denkmal der Verteidigungsarchitektur. Die Ruinen bieten heute einen beeindruckenden Blick auf den Zusammenfluss zweier Meere und zeugen von der geopolitischen Bedeutung des Nordens im frühen 20. Jahrhundert.",
@@ -665,6 +800,9 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
       hu: ["A Cap d'Ambre Madagaszkár legészakibb pontja, a déli szélesség 11° 57' fokán.", "Az erődöt 1900 körül erősítették meg a Diego Suarez-öböl védelmére.", "A foknál álló jellegzetes világítótorony 1899-ben kezdte meg működését.", "A környéken számos, különböző korszakból származó hajóroncs található.", "A terület hírhedt a rendkívül erős szeléről, amelyet Varatrazának hívnak.", "A stratégiai pontról akár 25 km távolságra lévő hajókat is észlelni tudtak."],
       ro: ["Cap d'Ambre reprezintă extremitatea nordică a Madagascarului, la 11° 57' S.", "Fortul a fost consolidat în jurul anului 1900 pentru apărarea golfului Diego Suarez.", "Farul distinctiv de la cap a fost dat în folosință în anul 1899.", "În apele din apropiere se află epave din diverse perioade ale navigației maritime.", "Regiunea este cunoscută pentru vânturile extrem de puternice numite Varatraza.", "Instalațiile strategice puteau monitoriza traficul naval pe o rază de 25 km."],
       en: ["Cap d'Ambre marks the northernmost tip of Madagascar at 11° 57' S latitude.", "The fort was reinforced around 1900 to secure the strategic Diego Suarez Bay.", "The prominent lighthouse at the cape was commissioned in 1899.", "The surrounding waters contain numerous shipwrecks from various maritime eras.", "The area is famous for its extremely powerful winds known as the Varatraza.", "The strategic outpost could monitor naval traffic up to 25 km offshore."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/cap-mined-diego-suarez-history-v2.webp",
     
     
@@ -676,12 +814,15 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     coords: [49.4, -18.15],
     name: { de: "Alter Hafen von Toamasina", hu: "Toamasina Régi Kikötője", ro: "Portul Vechi din Toamasina", en: "Old Port of Toamasina"},
     image: "/poi-images/tamatave-old-port-history-v2.webp",
-    description: { de: "Historische Anlegestellen, die die Rolle von Toamasina als wichtigstes Handelszentrum Ostmadagaskars prägten.", hu: "Történelmi rakpartok, amelyek Toamasina szerepét alakították Kelet-Madagaszkár fő kereskedelmi központjaként.", ro: "Cheiuri istorice care au modelat rolul Toamasina ca principal centru comercial din estul Madagascarului.", en: "Historical docks that shaped Toamasina's role as the main trading hub of eastern Madagascar." },
+    description: { de: "Historische Anlegestellen, die die Rolle von Toamasina als wichtigstes Handelszentrum Ostmadagaskars prägten.", hu: "Történelmi rakpartok, amelyek Toamasina szerepét alakították Kelet-Madagaszkár fő kereskedelmi központjaként.", ro: "Cheiuri istorice care au modelat rolul Toamasina ca principal centru comercial din estul Madagascarului.", en: "Historical docks that shaped Toamasina's role as the main trading hub of eastern Madagascar." , es: "Muelles históricos que definieron el papel de Toamasina como el centro comercial más importante del este de Madagascar.", pt: "Docas históricas que moldaram o papel de Toamasina como o centro comercial mais importante do leste de Madagáscar.", fr: "Quais historiques qui ont façonné le rôle de Toamasina en tant que principal centre commercial de l'est de Madagascar."},
     facts: {
       de: ["Koloniale Infrastruktur", "Ostküstenhandel"],
       hu: ["Gyarmati infrastruktúra", "Keleti parti kereskedelem"],
       ro: ["Infrastructură colonială", "Comerțul pe coasta de est"],
-      en: ["Colonial infrastructure", "East coast trade"]
+      en: ["Colonial infrastructure", "East coast trade"],
+      es: ["Infraestructura colonial", "Comercio en la costa este"],
+      pt: ["Infraestrutura colonial", "Comércio na costa leste"],
+      fr: ["Infrastructure coloniale", "Commerce de la côte est"],
     },
     descriptionAdvanced: {
       de: "Der alte Hafen von Toamasina (ehemals Tamatave) ist der historisch bedeutendste Handelsknotenpunkt an der Ostküste Madagaskars. Seine Entwicklung war eng mit dem Aufstieg des Merina-Königreichs im 19. Jahrhundert und der späteren französischen Kolonialherrschaft verknüpft. Der Hafen diente als Haupttor für den Export von Gewürzen, insbesondere Vanille und Nelken, sowie für den Import europäischer Waren. Eine Zäsur in der Geschichte des Hafens war der verheerende Zyklon von 1927, der fast die gesamte Infrastruktur zerstörte und einen kompletten Wiederaufbau nach modernsten Standards der 1930er Jahre erforderte. Architektonisch mischen sich im Hafenviertel massive Lagerhäuser aus Stahlbeton mit den Resten älterer Kolonialbauten. Der Hafen war zudem ein Schauplatz wichtiger diplomatischer Begegnungen zwischen madagassischen Monarchen und europäischen Mächten. Heute ist der Hafen von Toamasina der größte des Landes und ein Symbol für den wirtschaftlichen Wandel Madagaskars. Die historischen Kaimauern und Gebäude erzählen die Geschichte von Welthandel, kolonialer Ausbeutung und nationalem Wiederaufbau.",
@@ -694,6 +835,9 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
       hu: ["Toamasina Madagaszkár legnagyobb mélyvízi kikötője.", "A kikötőt az 1927-es ciklon után szinte teljesen alapjaitól újjáépítették.", "A 19. században a rabszolga- és fűszerkereskedelem legfontosabb központja volt.", "A TCE vasútvonal közvetlenül összeköti a kikötőt a fővárossal.", "A madagaszkári tengeri kereskedelem mintegy 80%-a ezen a kikötőn halad keresztül.", "A kikötői negyed újjáépítése az 1930-as évek Art Deco stílusában történt."],
       ro: ["Toamasina este cel mai mare port de mare adâncime din Madagascar.", "Portul a fost reconstruit integral după distrugerile provocate de ciclonul din 1927.", "În secolul al XIX-lea, a fost centrul principal pentru comerțul cu mirodenii.", "Linia ferată TCE conectează direct portul cu capitala Antananarivo.", "Aproximativ 80% din comerțul maritim al țării trece prin acest port.", "Zona portuară reconstruită prezintă elemente arhitecturale de tip Art Deco."],
       en: ["Toamasina is the largest deep-water port in Madagascar.", "The port was almost entirely redesigned after the devastating 1927 cyclone.", "In the 19th century, it was the key hub for the spice and cattle trade.", "The TCE railway line provides a direct link between the port and the capital.", "Approximately 80% of Madagascar's maritime trade passes through Toamasina.", "The port district was rebuilt featuring 1930s Art Deco architectural elements."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/tamatave-old-port-history-v2.webp",
     
     
@@ -705,12 +849,15 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     coords: [49.85, -16.9833],
     name: { de: "Französische Festung Île Sainte-Marie", hu: "Sainte-Marie Francia Erőd", ro: "Fortul Francez Île Sainte-Marie", en: "Île Sainte-Marie French Fort"},
     image: "/poi-images/nosy-boraha-fort-history-v2.webp",
-    description: { de: "Überreste des französischen Militärhauptquartiers nach der Eroberung der Pirateninsel.", hu: "A francia katonai főhadiszállás maradványai a kalózsziget meghódítása után.", ro: "Rămășițele sediului militar francez după cucerirea insulei piraților.", en: "Remains of the French military headquarters after the conquest of the pirate island." },
+    description: { de: "Überreste des französischen Militärhauptquartiers nach der Eroberung der Pirateninsel.", hu: "A francia katonai főhadiszállás maradványai a kalózsziget meghódítása után.", ro: "Rămășițele sediului militar francez după cucerirea insulei piraților.", en: "Remains of the French military headquarters after the conquest of the pirate island." , es: "Restos del cuartel general militar francés tras la conquista de la isla de los piratas.", pt: "Restos do quartel-general militar francês após a conquista da ilha dos piratas.", fr: "Vestiges du quartier général militaire français après la conquête de l'île aux pirates."},
     facts: {
       de: ["18. Jahrhundert", "Kontrolle des Seehandels"],
       hu: ["18. század", "A tengeri kereskedelem ellenőrzése"],
       ro: ["Secolul al XVIII-lea", "Controlul comerțului maritim"],
-      en: ["18th century", "Control of maritime trade"]
+      en: ["18th century", "Control of maritime trade"],
+      es: ["Siglo XVIII", "Control del comercio marítimo"],
+      pt: ["Século XVIII", "Controlo do comércio marítimo"],
+      fr: ["XVIIIe siècle", "Contrôle du commerce maritime"],
     },
     descriptionAdvanced: {
       de: "Das französische Fort auf der Insel Sainte-Marie (Nosy Boraha) ist eines der ältesten kolonialen Bauwerke Madagaskars und zeugt von den frühen Ambitionen Frankreichs im Indischen Ozean. Es wurde Mitte des 18. Jahrhunderts, etwa um 1750, auf einem Hügel über der Bucht von Ambodifotatra errichtet, nachdem die Insel offiziell an Frankreich abgetreten worden war. Das Fort diente als militärischer Stützpunkt zur Sicherung der Insel gegen Piraten, die Sainte-Marie lange Zeit als Rückzugsort genutzt hatten, sowie zur Überwachung der Handelswege. Die Architektur ist durch massive Steinmauern und Bastionen gekennzeichnet, die typisch für die europäische Festungsbaukunst dieser Zeit sind. In der Nähe befindet sich die älteste Steinkirche Madagaskars, die 1857 eingeweiht wurde und eng mit der Missionsgeschichte der Insel verbunden ist. Trotz der tropischen Witterung sind Teile der Befestigungsanlagen und Kanonen bis heute erhalten geblieben. Das Fort ist ein Symbol für den Beginn der dauerhaften französischen Präsenz in der Region und bietet einen tiefen Einblick in die koloniale Militärgeschichte und die strategische Bedeutung der Insel.",
@@ -723,6 +870,9 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
       hu: ["Az erődöt 1750-ben építették, miután Betia királynő átadta a szigetet.", "Az építmény az Ambodifotatra kikötőjében található 'Îlot Madame'-on áll.", "Szent Mária szigete a 17. században hírhedt kalózközpont volt.", "A közeli katolikus templom 1857-ben épült korallmészkőből.", "Számos 18. és 19. századi ágyú ma is az erőd udvarán látható.", "Az erőd egykor a francia kormányzó rezidenciájaként is szolgált."],
       ro: ["Fortul a fost construit în 1750 după cedarea insulei de către regina Betia.", "Este situat pe mica insulă 'Îlot Madame' din portul Ambodifotatra.", "Insula Sainte-Marie a fost un refugiu celebru pentru pirați în secolul XVII.", "Biserica catolică din apropiere a fost ridicată în 1857 din calcar coralier.", "Mai multe tunuri din secolele XVIII și XIX sunt încă vizibile pe sit.", "Fortul a funcționat și ca reședință oficială pentru guvernatorul francez."],
       en: ["The fort was built in 1750 following the island's cession by Queen Betia.", "It is located on 'Îlot Madame' in the harbor of Ambodifotatra.", "Sainte-Marie Island was a notorious pirate stronghold in the 17th century.", "The nearby Catholic church was constructed in 1857 using coral limestone.", "Several cannons from the 18th and 19th centuries remain on-site.", "The fort also served as the official residence for the French governor."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/nosy-boraha-fort-history-v2.webp",
     
     
@@ -734,12 +884,15 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     coords: [47.5667, -18.9667],
     name: { de: "Königliches Dorf Alasora", hu: "Alasora Királyi Falu", ro: "Satul Regal Alasora", en: "Alasora Royal Village"},
     image: "/poi-images/alasora-royal-village-history-v2.webp",
-    description: { de: "Eine der ältesten der Zwölf Heiligen Hügel von Imerina, verbunden mit König Andriamanelo.", hu: "Az Imerina tizenkét szent dombjának egyike, Andriamanelo királyhoz köthető.", ro: "Unul dintre cele mai vechi dintre cele Douăsprezece Dealuri Sfinte ale Imerina, asociat cu Regele Andriamanelo.", en: "One of the oldest of the Twelve Sacred Hills of Imerina, associated with King Andriamanelo." },
+    description: { de: "Eine der ältesten der Zwölf Heiligen Hügel von Imerina, verbunden mit König Andriamanelo.", hu: "Az Imerina tizenkét szent dombjának egyike, Andriamanelo királyhoz köthető.", ro: "Unul dintre cele mai vechi dintre cele Douăsprezece Dealuri Sfinte ale Imerina, asociat cu Regele Andriamanelo.", en: "One of the oldest of the Twelve Sacred Hills of Imerina, associated with King Andriamanelo." , es: "Una de las más antiguas de las Doce Colinas Sagradas de Imerina, vinculada al rey Andriamanelo.", pt: "Uma das mais antigas das Doze Colinas Sagradas de Imerina, ligada ao rei Andriamanelo.", fr: "L'une des plus anciennes des douze collines sacrées d'Imerina, liée au roi Andriamanelo."},
     facts: {
       de: ["16. Jahrhundert", "Wiege des Imerina-Reiches"],
       hu: ["16. század", "Az Imerina Birodalom bölcsője"],
       ro: ["Secolul al XVI-lea", "Leagănul Imperiului Imerina"],
-      en: ["16th century", "Cradle of the Imerina Empire"]
+      en: ["16th century", "Cradle of the Imerina Empire"],
+      es: ["Siglo XVI", "Cuna del Reino de Imerina"],
+      pt: ["Século XVI", "Berço do Reino de Imerina"],
+      fr: ["XVIe siècle", "Berceau du royaume d'Imerina"],
     },
     descriptionAdvanced: {
       de: "Alasora ist eines der bedeutendsten königlichen Dörfer und zählt zu den zwölf heiligen Hügeln des Imerina-Königreichs im zentralen Hochland Madagaskars. Es gilt als Geburtsort der Imerina-Monarchie, da hier im 16. Jahrhundert die legendären Herrscherinnen Rafohy und Rangita residierten. Das Dorf ist berühmt für seine gut erhaltenen Verteidigungsanlagen, insbesondere die massiven Gräben (Hadivory), die den Hügel umgeben und Schutz vor Angriffen boten. Das monumentale Steintor (Vavahady) am Eingang des Dorfes ist ein klassisches Beispiel für die Befestigungsarchitektur der Merina. Alasora war das politische und spirituelle Zentrum, von dem aus die Vereinigung der Merina-Clans unter König Andriamanelo begann. Die Gräber der frühen Monarchen innerhalb der Anlage sind bis heute heilige Stätten für das madagassische Volk. Die kulturelle Bedeutung von Alasora liegt in seiner Rolle als Bewahrer der Ahnenriten und der frühen Geschichte der madagassischen Staatswerdung. Ein Besuch des Dorfes ermöglicht ein tiefes Verständnis der sozialen Hierarchie und der religiösen Praktiken, die Madagaskar vor der Ankunft der Europäer prägten.",
@@ -752,6 +905,9 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
       hu: ["Alasora a 16. században vált királyi székhellyé.", "A dombot övező védőárkok (Hadivory) mélysége eléri az 5 métert.", "Andriamanelo király itt vezette be a körülmetélés hagyományát.", "A faluban találhatók Rafohy és Rangita királynők sírjai.", "A monumentális kőkaput kötőanyag nélkül, hatalmas tömbökből építették.", "Alasora a merina nemesi kultúra (Andriana) bölcsője."],
       ro: ["Alasora a devenit reședință regală în secolul al XVI-lea.", "Șanțurile de apărare (Hadivory) au o adâncime de până la 5 metri.", "Regele Andriamanelo a introdus aici tradiția ritualului circumciziei.", "Satul adăpostește mormintele reginelor Rafohy și Rangita.", "Poarta monumentală de piatră a fost construită fără mortar.", "Alasora este considerată originea castei nobiliare Merina (Andriana)."],
       en: ["Alasora was elevated to a royal residence in the 16th century.", "The defensive ditches (Hadivory) are up to 5 meters deep.", "King Andriamanelo introduced the tradition of circumcision here.", "The village contains the tombs of Queens Rafohy and Rangita.", "The monumental stone gate was constructed without mortar using massive blocks.", "Alasora is considered the origin of the Merina noble class (Andriana)."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/alasora-royal-village-history-v2.webp",
     
     
@@ -763,12 +919,15 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     coords: [47.53, -18.922],
     name: { de: "Märtyrerklippe Antsahamanitra", hu: "Antsahamanitra Mártírok Sziklája", ro: "Stânca Martirilor Antsahamanitra", en: "Antsahamanitra Martyrs Cliff"},
     image: "/poi-images/antahakana-martyrs-cliff-history-v2.webp",
-    description: { de: "Der Ort, an dem im 19. Jahrhundert christliche Märtyrer unter Königin Ranavalona I. hingerichtet wurden.", hu: "Az a hely, ahol a 19. században I. Ranavalona királynő alatt keresztény mártírokat végeztek ki.", ro: "Locul unde martirii creștini au fost executați în secolul al XIX-lea sub Regina Ranavalona I.", en: "The site where Christian martyrs were executed in the 19th century under Queen Ranavalona I." },
+    description: { de: "Der Ort, an dem im 19. Jahrhundert christliche Märtyrer unter Königin Ranavalona I. hingerichtet wurden.", hu: "Az a hely, ahol a 19. században I. Ranavalona királynő alatt keresztény mártírokat végeztek ki.", ro: "Locul unde martirii creștini au fost executați în secolul al XIX-lea sub Regina Ranavalona I.", en: "The site where Christian martyrs were executed in the 19th century under Queen Ranavalona I." , es: "El lugar donde en el siglo XIX fueron ejecutados mártires cristianos bajo el reinado de la reina Ranavalona I.", pt: "O local onde, no século XIX, mártires cristãos foram executados sob o reinado da rainha Ranavalona I.", fr: "Le lieu où des martyrs chrétiens ont été exécutés au XIXe siècle sous le règne de la reine Ranavalona Ire."},
     facts: {
       de: ["Historische Stätte der Verfolgung", "In Antananarivo gelegen"],
       hu: ["Az üldözés történelmi helyszíne", "Antananarivóban található"],
       ro: ["Loc istoric al persecuției", "Situat în Antananarivo"],
-      en: ["Historical site of persecution", "Located in Antananarivo"]
+      en: ["Historical site of persecution", "Located in Antananarivo"],
+      es: ["Sitio histórico de persecución", "Situado en Antananarivo"],
+      pt: ["Sítio histórico de perseguição", "Situado em Antananarivo"],
+      fr: ["Site historique de persécution", "Situé à Antananarivo"],
     },
     descriptionAdvanced: {
       de: "Der Felsen der Märtyrer in Antananarivo (oft als Ampamarinana bezeichnet) ist ein Ort von tiefgreifender historischer und religiöser Bedeutung für Madagaskar. Während der Herrschaft von Königin Ranavalona I. in der Mitte des 19. Jahrhunderts, einer Zeit, die von heftigem Widerstand gegen europäische Einflüsse und das Christentum geprägt war, diente dieser Ort als Hinrichtungsstätte. Im Jahr 1849 wurden christliche Konvertiten, die sich weigerten, ihrem Glauben abzuschwören, von diesen steilen Klippen in den Tod gestoßen. Heute steht die Gedenkkirche von Ampamarinana direkt am Rand des Abgrunds, um an das Opfer dieser Märtyrer zu erinnern. Die Architektur der Kirche ist schlicht und würdevoll, erbaut aus lokalem Granit, der die Beständigkeit des Glaubens symbolisiert. Der Ort bietet nicht nur eine dramatische Aussicht auf die Unterstadt von Antananarivo, sondern dient auch als Mahnmal für die komplexen Konflikte zwischen Tradition und Moderne während der madagassischen Monarchie. Für viele Gläubige ist der Fels ein heiliger Ort des Gebets und der Besinnung auf die nationale Geschichte.",
@@ -781,6 +940,9 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
       hu: ["A leghíresebb kivégzés 1849. március 28-án történt.", "Ezen a napon 14 keresztényt taszítottak le a szikláról.", "A sziklafal magassága ezen a ponton kb. 80-100 méter.", "Az emléktemplomot 1874-ben, II. Ranavalona idején építették.", "Az 'Ampamarinana' név jelentése: 'Az ítélet helyén'.", "A helyszín közvetlen közelében található a királyi palota (Rova)."],
       ro: ["Cea mai cunoscută execuție a avut loc pe 28 martie 1849.", "14 creștini au fost aruncați de pe stâncă în acea zi.", "Înălțimea căderii în acest punct este de aproximativ 80-100 de metri.", "Biserica memorială a fost ridicată în 1874, sub Ranavalona II.", "Numele 'Ampamarinana' se traduce prin 'La locul judecății'.", "Situl este situat în imediata apropiere a palatului regal (Rova)."],
       en: ["The most famous execution occurred on March 28, 1849.", "14 Christians were pushed from the cliff on that day.", "The vertical drop at this point is approximately 80 to 100 meters.", "The memorial church was built in 1874 during Ranavalona II's reign.", "The name 'Ampamarinana' translates to 'At the place of judgment'.", "The site is located in very close proximity to the Royal Palace (Rova)."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/antahakana-martyrs-cliff-history-v2.webp",
     
     
@@ -792,12 +954,15 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     coords: [47.8333, -22.35],
     name: { de: "Arabische Siedlung Vohipeno", hu: "Vohipeno Arab Település", ro: "Așezarea Arabă Vohipeno", en: "Vohipeno Arab Settlement"},
     image: "/poi-images/vohipeno-arab-settlement-history-v2.webp",
-    description: { de: "Historisches Zentrum der Antemoro, bekannt für das traditionelle Sorabe-Papier und arabische Schriften.", hu: "Az Antemoro nép történelmi központja, amely a hagyományos Sorabe papírról és az arab írásokról ismert.", ro: "Centrul istoric al poporului Antemoro, cunoscut pentru hârtia tradițională Sorabe și scrierile arabe.", en: "Historical center of the Antemoro people, known for traditional Sorabe paper and Arabic scripts." },
+    description: { de: "Historisches Zentrum der Antemoro, bekannt für das traditionelle Sorabe-Papier und arabische Schriften.", hu: "Az Antemoro nép történelmi központja, amely a hagyományos Sorabe papírról és az arab írásokról ismert.", ro: "Centrul istoric al poporului Antemoro, cunoscut pentru hârtia tradițională Sorabe și scrierile arabe.", en: "Historical center of the Antemoro people, known for traditional Sorabe paper and Arabic scripts." , es: "Centro histórico de los Antemoro, conocido por el papel tradicional Sorabe y las escrituras árabes.", pt: "Centro histórico dos Antemoro, conhecido pelo papel tradicional Sorabe e pelas escritas árabes.", fr: "Centre historique des Antemoro, connu pour le papier traditionnel Sorabe et les écritures arabes."},
     facts: {
       de: ["Einfluss aus Mekka", "Bewahrung alter Manuskripte"],
       hu: ["Mekkai befolyás", "Ősi kéziratok megőrzése"],
       ro: ["Influență din Mecca", "Păstrarea manuscriselor vechi"],
-      en: ["Influence from Mecca", "Preservation of ancient manuscripts"]
+      en: ["Influence from Mecca", "Preservation of ancient manuscripts"],
+      es: ["Influencia de La Meca", "Preservación de manuscritos antiguos"],
+      pt: ["Influência de Meca", "Preservação de manuscritos antigos"],
+      fr: ["Influence de La Mecque", "Préservation de manuscrits anciens"],
     },
     descriptionAdvanced: {
       de: "Vohipeno, gelegen im Südosten Madagaskars am Ufer des Matitanana-Flusses, ist das kulturelle und spirituelle Herz des Antemoro-Volkes, deren Vorfahren arabisch-islamische Siedler waren. Die Siedlung geht auf das 15. Jahrhundert zurück, als muslimische Migranten aus der Golfregion oder dem heutigen Somalia eintrafen und ihre Bräuche mit lokalen Traditionen vermischten. Vohipeno ist weltberühmt für die Bewahrung der 'Sora-be', einer madagassischen Sprache, die in arabischen Schriftzeichen geschrieben wird. Die Stadt ist der Sitz der 'Katibo', der traditionellen Schriftgelehrten, die heilige Manuskripte auf handgeschöpftem Antemoro-Papier (Papier aus dem Avoha-Baum) verfassen. Die Architektur in Vohipeno ist zwar heute weitgehend modern, doch die sakrale Anordnung des Dorfes und die königlichen Residenzen (Tranobe) folgen alten islamisch beeinflussten Mustern. Historisch gesehen war Vohipeno ein Zentrum für Astrologie, Heilkunde und politische Beratung für die madagassischen Könige. Bis heute ist der Ort ein lebendiges Zeugnis für den frühen interkulturellen Austausch zwischen der arabischen Welt und Madagaskar.",
@@ -810,6 +975,9 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
       hu: ["Vohipenót a 15. században alapította Ramakararo.", "A Sora-be a legősibb ismert írásrendszer Madagaszkáron.", "Az antemoro papírt ma is 500 éves módszerrel készítik.", "A várost a madagaszkári asztrológia (Sikidy) bölcsőjének tekintik.", "A 'Tranobe' a klánfőnök hagyományos, rituális háza.", "Vohipeno fontos zarándokhely az iszlám ünnepek idején."],
       ro: ["Vohipeno a fost fondat în secolul al XV-lea de Ramakararo.", "Scrierea Sora-be este cel mai vechi sistem de scriere cunoscut în Madagascar.", "Hârtia Antemoro este produsă și azi după o metodă de peste 500 de ani.", "Orașul este considerat leagănul astrologiei malgașe (Sikidy).", "Clădirea 'Tranobe' reprezintă casa tradițională a șefului de clan.", "Vohipeno este o destinație majoră de pelerinaj în timpul sărbătorilor islamice."],
       en: ["Vohipeno was founded in the 15th century by Ramakararo.", "Sora-be is the oldest known writing system in Madagascar.", "Antemoro paper is still produced using a 500-year-old traditional method.", "The town is regarded as the cradle of Malagasy astrology (Sikidy).", "The 'Tranobe' serves as the traditional grand house of the clan leader.", "Vohipeno is a significant pilgrimage site during Islamic religious festivals."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/vohipeno-arab-settlement-history-v2.webp",
     
     
@@ -821,12 +989,15 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     coords: [49.5, -17.6667],
     name: { de: "Manda-Fort Mahavelona", hu: "Mahavelona Manda Erőd", ro: "Fortul Manda Mahavelona", en: "Manda Fort Mahavelona"},
     image: "/poi-images/foulpointe-fort-manda-history-v2.webp",
-    description: { de: "Ein Korallenstein-Fort, das im 19. Jahrhundert von König Radama I. erbaut wurde, um die Küste zu schützen.", hu: "Egy korallkőből épült erőd, amelyet a 19. században I. Radama király épített a part védelmére.", ro: "Un fort din piatră de coral construit în secolul al XIX-lea de Regele Radama I pentru a proteja coasta.", en: "A coral stone fort built in the 19th century by King Radama I to protect the coast." },
+    description: { de: "Ein Korallenstein-Fort, das im 19. Jahrhundert von König Radama I. erbaut wurde, um die Küste zu schützen.", hu: "Egy korallkőből épült erőd, amelyet a 19. században I. Radama király épített a part védelmére.", ro: "Un fort din piatră de coral construit în secolul al XIX-lea de Regele Radama I pentru a proteja coasta.", en: "A coral stone fort built in the 19th century by King Radama I to protect the coast." , es: "Un fuerte de piedra de coral construido en el siglo XIX por el rey Radama I para proteger la costa.", pt: "Um forte de pedra de coral construído no século XIX pelo rei Radama I para proteger a costa.", fr: "Un fort en pierre de corail construit au XIXe siècle par le roi Radama Ier pour protéger la côte."},
     facts: {
       de: ["Mit Eiklar und Korallen gebaut", "Abwehr europäischer Angriffe"],
       hu: ["Tojásfehérjével és korallal épült", "Európai támadások elhárítása"],
       ro: ["Construit cu albuș de ou și coral", "Apărare împotriva atacurilor europene"],
-      en: ["Built with egg whites and coral", "Defense against European attacks"]
+      en: ["Built with egg whites and coral", "Defense against European attacks"],
+      es: ["Construido con clara de huevo y coral", "Defensa contra ataques europeos"],
+      pt: ["Construído com clara de ovo e coral", "Defesa contra ataques europeus"],
+      fr: ["Construit avec du blanc d'œuf et du corail", "Défense contre les attaques européennes"],
     },
     descriptionAdvanced: {
       de: "Das Fort Manda in Mahavelona, auch bekannt als Foulpointe, ist eine bedeutende Verteidigungsanlage aus dem frühen 19. Jahrhundert an der Ostküste Madagaskars. Es wurde zwischen 1822 und 1832 auf Befehl von König Radama I. errichtet, um den strategisch wichtigen Hafen vor europäischen Invasionen und Piratenangriffen zu schützen. Die Architektur des Forts ist bemerkenswert, da die massiven Mauern aus einer Mischung aus Korallenkalk, Sand und Eiweiß als Bindemittel erbaut wurden, was ihnen eine außergewöhnliche Stabilität verlieh. Mit einer Höhe von etwa acht Metern und einem kreisförmigen Grundriss bot die Festung Platz für eine Garnison und zahlreiche Kanonen, von denen einige noch heute vor Ort zu sehen sind. Als historisches Denkmal zeugt es von der militärischen Expansion des Merina-Königreichs und der Kontrolle über den Überseehandel während der Kolonialzeit. Heute sind die Ruinen ein beliebtes Ziel für Reisende, die sich für die maritime Geschichte und die einstige Macht der madagassischen Monarchie interessieren.",
@@ -839,6 +1010,9 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
       hu: ["1822 és 1832 között épült I. Radama király uralkodása alatt.", "A falak kötőanyagaként több ezer tojás fehérjéjét használták fel.", "Az erőd kör alakú, átmérője körülbelül 60 méter.", "A védművek magassága eléri a 8 métert.", "A Merina Királyság keleti partvidéki katonai bázisaként funkcionált.", "Az udvaron ma is láthatók eredeti, 19. századi brit ágyúk."],
       ro: ["Construit între 1822 și 1832 în timpul domniei regelui Radama I.", "Zidurile utilizează albuș de ou ca liant în amestecul de corali și nisip.", "Fortul are o formă circulară cu un diametru de aproximativ 60 de metri.", "Zidurile de apărare au o înălțime de până la 8 metri.", "A servit drept garnizoană principală pentru trupele regatului Merina pe coasta de est.", "Mai multe tunuri britanice originale din secolul al XIX-lea sunt expuse în incintă."],
       en: ["Built between 1822 and 1832 during the reign of King Radama I.", "The walls were bonded using thousands of egg whites mixed with coral lime.", "The fort features a circular design with a diameter of about 60 meters.", "The defensive walls reach a height of up to 8 meters.", "It served as a key military garrison for the Merina Kingdom's eastern forces.", "Original 19th-century British cannons are still preserved within the ruins."],
+      es: [],
+      pt: [],
+      fr: [],
     }, image: "/poi-images/foulpointe-fort-manda-history-v2.webp",
     
     
@@ -850,12 +1024,15 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     coords: [49.7667, -15.5],
     name: { de: "Niederländische Inschriften Nosy Mangabe", hu: "Nosy Mangabe Holland Feliratok", ro: "Inscripțiile Olandeze Nosy Mangabe", en: "Nosy Mangabe Dutch Inscriptions"},
     image: "/poi-images/nosy-mangabe-dutch-inscriptions-history-v2.webp",
-    description: { de: "Felsinschriften, die von niederländischen Seeleuten im 17. Jahrhundert in Stein gemeißelt wurden.", hu: "Sziklafeliratok, amelyeket holland tengerészek véstek a kőbe a 17. században.", ro: "Inscripții rupestre sculptate în piatră de marinarii olandezi în secolul al XVII-lea.", en: "Rock inscriptions carved into stone by Dutch sailors in the 17th century." },
+    description: { de: "Felsinschriften, die von niederländischen Seeleuten im 17. Jahrhundert in Stein gemeißelt wurden.", hu: "Sziklafeliratok, amelyeket holland tengerészek véstek a kőbe a 17. században.", ro: "Inscripții rupestre sculptate în piatră de marinarii olandezi în secolul al XVII-lea.", en: "Rock inscriptions carved into stone by Dutch sailors in the 17th century." , es: "Inscripciones rupestres talladas en piedra por marineros holandeses en el siglo XVII.", pt: "Inscrições rupestres esculpidas em pedra por marinheiros holandeses no século XVII.", fr: "Inscriptions rupestres gravées dans la pierre par des marins néerlandais au XVIIe siècle."},
     facts: {
       de: ["Postübergabestelle", "Frühe europäische Navigation"],
       hu: ["Postaátadó hely", "Korai európai navigáció"],
       ro: ["Punct de predare a corespondenței", "Navigație europeană timpurie"],
-      en: ["Mail drop site", "Early European navigation"]
+      en: ["Mail drop site", "Early European navigation"],
+      es: ["Punto de entrega de correo", "Navegación europea temprana"],
+      pt: ["Ponto de entrega de correio", "Navegação europeia precoce"],
+      fr: ["Point de remise du courrier", "Navigation européenne précoce"],
     },
     descriptionAdvanced: {
       de: "Auf der Insel Nosy Mangabe, die in der Bucht von Antongil liegt, befinden sich faszinierende historische Zeugnisse in Form von holländischen Inschriften auf Felsen. Diese Gravuren stammen aus dem 16. und 17. Jahrhundert und wurden von Seeleuten der Niederländischen Ostindien-Kompanie (VOC) hinterlassen, die hier während ihrer langen Reisen nach Indien Halt machten. Die Inschriften dienten als eine Art maritimes Postamt; Kapitäne ritzten Namen von Schiffen, Daten ihrer Ankunft und Nachrichten für nachfolgende Schiffe in den Stein. Besonders bekannt ist der Bereich als 'Plage des Hollandais', wo die flachen Felsen am Strand als ideale Schreibfläche dienten. Diese Artefakte bieten heute wertvolle Einblicke in die frühe europäische Seefahrtgeschichte und die Bedeutung Madagaskars als Erfrischungsstation auf der Gewürzroute. Trotz der Witterungseinflüsse sind viele der Namen und Jahreszahlen noch erstaunlich gut lesbar und machen die Insel zu einem wichtigen archäologischen Freilichtmuseum.",
@@ -868,6 +1045,9 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
       hu: ["A legkorábbi olvasható feliratok 1601 környékéről származnak.", "A feliratokat a Holland Kelet-indiai Társaság (VOC) matrózai készítették.", "A helyszínt a köznyelv 'Plage des Hollandais'-nak nevezi.", "A sziklák üzenőfalként szolgáltak az Indiába tartó hajók számára.", "Nosy Mangabe a Masoala Nemzeti Park része, így a feliratok védettek.", "Több mint egy tucat különböző holland hajó neve azonosítható a sziklákon."],
       ro: ["Cele mai vechi inscripții lizibile de pe insulă datează din jurul anului 1601.", "Au fost create de marinarii Companiei Olandeze a Indiilor de Est (VOC).", "Locul este cunoscut sub denumirea de 'Plage des Hollandais'.", "Stâncile funcționau ca un sistem de mesagerie pentru navele de pe ruta mirodeniilor.", "Nosy Mangabe face parte din Parcul Național Masoala, fiind arie protejată.", "Numele a peste zece nave olandeze diferite au fost documentate pe aceste pietre."],
       en: ["The oldest legible inscriptions on the island date back to approximately 1601.", "They were left by sailors from the Dutch East India Company (VOC).", "The location is locally referred to as 'Plage des Hollandais'.", "The rocks served as a communication system for ships traveling the spice route.", "Nosy Mangabe is part of the Masoala National Park, ensuring the site's protection.", "Names from more than a dozen different Dutch ships have been identified on the rocks."],
+      es: [],
+      pt: [],
+      fr: [],
     },
     
     

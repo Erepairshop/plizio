@@ -164,6 +164,9 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A farmon több mint 200 védett ciprusi szamár él biztonságban.", "A terület központjában egy 1500 évesre becsült olajfa látható.", "A látogatók szamártejből készült termékeket, például szappant is kóstolhatnak.", "Ez az egyik legnagyobb ilyen jellegű farm a Földközi-tenger térségében."],
       ro: ["Ferma găzduiește peste 200 de măgari ciprioți aflați sub protecție.", "Un măslin vechi de 1500 de ani se află chiar în centrul proprietății.", "Vizitatorii pot încerca produse din lapte de măgăriță, inclusiv săpunuri.", "Este una dintre cele mai mari ferme de acest tip din bazinul mediteranean."],
       en: ["The farm is home to more than 200 protected Cypriot donkeys.", "A 1,500-year-old olive tree stands in the center of the grounds.", "Visitors can sample donkey milk products, such as soaps and liqueurs.", "It is one of the largest donkey farms in the entire Mediterranean region."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -285,6 +288,9 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A muflon Ciprus legnagyobb vadon élő szárazföldi emlősállata.", "Az állatok félénkek, de itt a látogatók közelebbről is megfigyelhetik őket.", "A karám Stavros tis Psokas távoli, hegyvidéki erdős területén fekszik.", "Korábban a kihalás szélén állt, de a védelmi programoknak hála elszaporodott."],
       ro: ["Muflonul este cel mai mare mamifer terestru sălbatic din Cipru.", "Animalele sunt timide, dar aici pot fi observate de la o distanță sigură.", "Țarcul este situat în zona montană izolată Stavros tis Psokas.", "Specia a fost salvată de la dispariție prin eforturi intense de conservare."],
       en: ["The mouflon is the largest wild land mammal found on Cyprus.", "The animals are shy, but here they can be observed from a close distance.", "The enclosure is located in the remote mountain region of Stavros tis Psokas.", "Once near extinction, the population recovered through strict protection."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -330,6 +336,9 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A téli hónapokban több mint 12 000 flamingó látogatja a tavat.", "A tó a Natura 2000 európai ökológiai hálózat védett területei közé tartozik.", "Nyáron a víz gyakran teljesen elpárolog, vastag sóréteget hagyva maga után.", "Ez a második legnagyobb kiterjedésű sós tó Ciprus egész szigetén."],
       ro: ["Peste 12.000 de păsări flamingo vizitează lacul în timpul lunilor de iarnă.", "Lacul este inclus în rețeaua europeană de protecție Natura 2000.", "Vara, apa se evaporă adesea complet, lăsând în urmă o crustă albă de sare.", "Este al doilea cel mai mare lac sărat de pe întreaga insulă Cipru."],
       en: ["Over 12,000 flamingos visit the lake during the peak winter season.", "The lake is part of the Natura 2000 European network of protected areas.", "In summer, the water often evaporates entirely, leaving a thick salt crust.", "It is the second largest salt lake on the entire island of Cyprus."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -527,6 +536,9 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A létesítmény közvetlenül Lárnaka tengerparti városának központjában van.", "Az állatkert egyik fő profilja a különböző madárfajok bemutatása.", "A szomszédos park játszóterekkel és árnyas sétányokkal várja a családokat.", "A belépődíj minden korosztály számára kifejezetten kedvező összegű."],
       ro: ["Grădina este situată chiar în centrul orașului de coastă Larnaca.", "Un accent deosebit se pune pe îngrijirea diverselor specii de păsări.", "Parcul adiacent oferă locuri de joacă și alei umbrite pentru plimbare.", "Taxa de intrare este accesibilă pentru toate categoriile de vizitatori."],
       en: ["The facility is located right in the center of the coastal town of Larnaka.", "One of the zoo's main focuses is on various species of exotic birds.", "The adjacent municipal park features playgrounds and shaded walkways.", "The entrance fee is kept very affordable for visitors of all ages."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -1342,6 +1354,9 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A parkban egy professzionális gokartpálya is működik.", "A legnépszerűbb játékok közé tartozik az óriáskerék és a kisvasút.", "A belépés ingyenes, fizetni csak a választott játékokért kell.", "A vidámpark kiváló helyszín szabadtéri születésnapi zsúrokhoz."],
       ro: ["Parcul include o pistă de karting de mari dimensiuni.", "Atracțiile variază de la carusele clasice la jocuri mecanice.", "Există un restaurant spațios în incinta parcului de distracții.", "Locația este situată la doar câteva minute de mers cu mașina de Larnaca."],
       en: ["The park features a dedicated go-karting track for racing enthusiasts.", "Attractions include a Ferris wheel, bumper cars, and a safari train.", "Entrance to the park grounds is free with a pay-per-ride system.", "It is a prime destination for large-scale children's events and parties."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -1501,6 +1516,9 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A pályák különböző nehézségi szintekre vannak osztva a kor alapján.", "A parkban több mint 100 különböző erdei akadály várja a kísérletezőket.", "Minden látogató számára kötelező a biztonsági oktatás és felszerelés.", "A legmagasabb pontokról csodás kilátás nyílik a Troodos-hegyre."],
       ro: ["Parcul dispune de numeroase trasee cu grade de dificultate variate.", "Tirolienele lungi oferă o doză mare de adrenalină pentru vizitatori.", "Sunt folosite sisteme de siguranță de ultimă generație pentru cățărare.", "Locația se află la o altitudine ridicată, oferind aer curat de munte."],
       en: ["There are specialized courses for toddlers as well as extreme levels.", "The park features more than 100 challenges suspended in the trees.", "Safety is ensured by a permanent lifeline system for all participants.", "It is open most of the year, depending on the mountain weather."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -1584,6 +1602,9 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A gyerekek több mint 70 különböző szakmát próbálhatnak ki.", "A városnak saját pénzneme van, amit a gyerekek „kereshetnek” meg.", "A foglalkozások 30-40 percesek és szakavatott vezetők kísérik őket.", "A helyszín teljesen fedett, így télen és nyáron is látogatható."],
       ro: ["Copiii pot alege dintr-o listă de peste 70 de scenarii profesionale.", "Orașul are propriul spital, secție de poliție și sistem bancar.", "Activitățile sunt adaptate pentru copii cu vârste între 4 și 15 ani.", "Este un concept educațional bazat pe învățarea prin experiență."],
       en: ["Children can explore over 70 different job scenarios and crafts.", "The 'city' has its own currency that kids earn and spend.", "Each workshop is designed to teach real-life skills and responsibility.", "The facility spans several thousand square meters of indoor space."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -1629,6 +1650,9 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A pálya a MyMall Limassol épületének alsó szintjén található.", "Rendszeresen tartanak itt jégkorong- és műkorcsolyaedzéseket.", "Ez az egyetlen állandóan üzemelő jégpálya egész Cipruson.", "A pálya mellett kávézó várja a várakozó szülőket és nézőket."],
       ro: ["Pista de patinaj se află în interiorul centrului comercial MyMall.", "Sunt disponibile sesiuni de antrenament cu instructori profesioniști.", "Este singura facilitate permanentă de acest tip de pe insulă.", "Se pot închiria patine de toate mărimile direct de la recepție."],
       en: ["The rink is located in the basement level of MyMall Limassol.", "It offers professional skating lessons for kids and adults.", "The facility is the only full-size permanent ice rink in Cyprus.", "It is a favorite venue for children's birthday parties and events."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -1750,6 +1774,9 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A központ 24 sávos professzionális bowlingpályával rendelkezik.", "Külön részleget alakítottak ki a legkisebbeknek és a tiniknek.", "Az emeleten egy nagyméretű rendezvényterem is található.", "A helyszín népszerű célpont iskolai kirándulások számára."],
       ro: ["Centrul include o zonă de bowling cu 24 de piste moderne.", "Există numeroase jocuri arcade și simulatoare de ultimă oră.", "Facilitatea găzduiește frecvent petreceri aniversare pentru copii.", "Este situat în zona Mesa Geitonia din orașul Limassol."],
       en: ["The facility features a 24-lane professional bowling alley.", "It includes an extensive indoor soft play area for young children.", "A variety of restaurants and cafes are located within the complex.", "The center is open daily and serves as a major community hub."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -1947,6 +1974,9 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A labirintust több mint 2000 darab tujából alakították ki.", "A teljes terület körülbelül 2000 négyzetmétert foglal el.", "Ez a sziget egyetlen ilyen jellegű, növényekből álló útvesztője.", "A kijárat megtalálása általában 20-30 percet vesz igénybe."],
       ro: ["Labirintul este format din mii de plante aromatice și arbuști.", "Acoperă o suprafață de peste 2.000 de metri pătrați în aer liber.", "Există un turn de observație pentru a vedea traseul de sus.", "Este o destinație populară pentru excursii școlare și familii."],
       en: ["The maze is constructed from over 2,000 cypress trees.", "It covers an area of approximately 2,000 square meters.", "A lookout tower in the middle helps visitors navigate the paths.", "It is part of a larger herb garden and educational lavender farm."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -2220,6 +2250,9 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A játszótér közvetlenül a híres pálmafás sétány szomszédságában van.", "A területet kerítéssel vették körül a gyermekek biztonsága érdekében.", "A közelben számos fagyizó és étterem várja a látogatókat.", "Esténként a terület kivilágított, így sötétedés után is népszerű."],
       ro: ["Locul de joacă este situat strategic pe faimoasa promenadă cu palmiere.", "Dispune de diverse structuri de cățărat și leagăne moderne.", "Accesul este facil pentru familiile care vizitează plaja Finikoudes.", "Este una dintre cele mai vizitate zone de recreere din oraș."],
       en: ["The playground is situated directly on the iconic Finikoudes beach front.", "It features modern climbing frames and slides for different ages.", "Numerous cafes and palm trees line the adjacent pedestrian walk.", "Public access is generally free, making it a staple for local families."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -3583,6 +3616,9 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["Az erőmű több blokkból áll, amelyek különféle tüzelőanyagot használnak.", "A létesítmény Mari falu közelében, a déli tengerparton található.", "A 2011-es súlyos robbanás után teljesen újjáépítették és korszerűsítették.", "Jelenleg folyik az átállás a földgázalapú áramtermelésre."],
       ro: ["Capacitatea totală instalată depășește 800 de megawați.", "Unitatea a fost reconstruită complet după incidentul tragic din 2011.", "Este punctul central al sistemului energetic național cipriot.", "Se fac investiții majore pentru reducerea emisiilor de carbon."],
       en: ["The plant has a combined cycle capacity of over 800 megawatts.", "It is located on the southern coast between Limassol and Larnaca.", "Significant reconstruction took place after the massive 2011 explosion.", "The facility is transitionining towards natural gas power generation."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -3743,6 +3779,9 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A sörgyár 1969-ben kezdte meg működését a szigeten.", "A Photos Photiades Group Ciprus egyik legnagyobb vállalata.", "Az üzem szigorú dán minőségellenőrzési szabványokat követ.", "A létesítmény éves termelési kapacitása több millió hektoliter."],
       ro: ["Producția de bere a început oficial în acest amplasament în 1969.", "Grupul Photos Photiades administrează întreaga unitate de producție.", "Fabrica este un motor economic important pentru capitala Nicosia.", "Standardele de producție respectă rețeta originală din Danemarca."],
       en: ["Brewing operations at this facility officially started in 1969.", "It was a global milestone for the Carlsberg brand expansion.", "The plant supplies a large portion of the domestic Cypriot market.", "Modern environmental standards are applied to the brewing process."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -3902,6 +3941,9 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A területen több száz kis- és középvállalkozás telepedett le.", "Az ipari park közvetlenül a Paphos felé vezető autópálya mellett van.", "Főként fémipari és bútorgyártó üzemek találhatók a zónában.", "A régió egyik leggyorsabban fejlődő kereskedelmi övezete."],
       ro: ["Găzduiește sute de depozite și unități de producție ușoară.", "Locația oferă acces facil către portul comercial din Limassol.", "Zona este renumită pentru atelierele de prelucrare a lemnului.", "Infrastructura rutieră a fost modernizată recent pentru transport greu."],
       en: ["Hundreds of small and medium-sized enterprises operate in this zone.", "It is strategically located adjacent to the Limassol-Paphos highway.", "The area specializes in construction materials and food processing.", "Ypsonas has seen rapid expansion due to its proximity to the port."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -3947,6 +3989,9 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["Az üzemet 2001-ben adták át a vízhiány enyhítése céljából.", "A napi termelési kapacitás eléri a 62 000 köbméter tiszta vizet.", "A technológia alapja a nagy nyomáson végzett fordított ozmózis.", "Ez a létesítmény tette lehetővé a sziget vízi függetlenségét."],
       ro: ["Unitatea a început să funcționeze la capacitate maximă în 2001.", "Capacitatea de producție zilnică este de 62.000 de metri cubi.", "Folosește procesul de osmoză inversă pentru purificarea apei.", "Este amplasată strategic în apropierea aeroportului din Larnaca."],
       en: ["The facility was officially inaugurated in the year 2001.", "It produces up to 62,000 cubic meters of potable water per day.", "Reverse osmosis is the primary method used for desalination here.", "The plant significantly reduces Cyprus's dependence on rainfall."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -3992,6 +4037,9 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["Az üzem építése 2012-ben fejeződött be a Limassol-öbölben.", "A napi kapacitása körülbelül 60 000 köbméter friss ivóvíz.", "A létesítmény segít fenntartani a közeli ültetvények vízellátását.", "Kiemelt figyelmet fordítanak az energiafelhasználás optimalizálására."],
       ro: ["Construcția acestei unități a fost finalizată în anul 2012.", "Produce zilnic aproximativ 60.000 de metri cubi de apă dulce.", "Tehnologia utilizată reduce impactul asupra mediului marin local.", "Este una dintre cele mai noi unități de acest tip de pe insulă."],
       en: ["The plant was commissioned in 2012 to combat chronic water shortages.", "It has a maximum output of 60,000 cubic meters of water daily.", "Advanced membrane filtration is used to remove salt and minerals.", "The site is located on the coast to the west of Limassol city."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -4075,6 +4123,9 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A cég termékeit Európa-szerte és a Közel-Keleten is értékesítik.", "Az üzemek megfelelnek a legszigorúbb uniós előírásoknak.", "A vállalat fő profilja a generikus gyógyszerek fejlesztése.", "Kiemelt figyelmet fordítanak a helyi munkaerő képzésére."],
       ro: ["Compania exportă produse farmaceutice în peste 20 de țări.", "Unitățile de producție dețin certificări internaționale de siguranță.", "Pharmanel se concentrează pe dezvoltarea de medicamente generice.", "Sediul central este localizat în zona industrială a capitalei."],
       en: ["The company distributes its products to several international markets.", "Production facilities adhere to strict Good Manufacturing Practices.", "Research and development is a core focus for their generic range.", "It is one of the leading pharmaceutical exporters in the country."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -4196,6 +4247,9 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["Az erőművet a Ciprusi Elektromos Művek (EAC) üzemelteti.", "A létesítmény gázturbinákat is használ az áramtermeléshez.", "Az erőmű közvetlenül a tengerparton, Limassoltól keletre található.", "Az utóbbi években korszerűsítették a környezetvédelmi rendszereit."],
       ro: ["Este operată de Autoritatea de Electricitate din Cipru (EAC).", "Centrala utilizează turbine cu gaz pentru a suplimenta producția.", "Amplasamentul este situat strategic între Limassol și Larnaca.", "Unitatea a fost extinsă de mai multe ori de la inaugurarea sa."],
       en: ["The facility is managed by the Electricity Authority of Cyprus.", "It utilizes gas turbines to meet peak electricity demands.", "The plant is located near the historic site of ancient Amathus.", "Moni contributes to the stability of the national power grid."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -4431,6 +4485,9 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A bányákból elsősorban mészkövet és agyagot nyernek ki.", "A kitermelt anyagot a közeli Vassiliko Cementműben dolgozzák fel.", "A terület közvetlen összeköttetésben áll a teherkikötővel.", "A bányászat évtizedek óta meghatározó a régió gazdaságában."],
       ro: ["Sursa principală de calcar pentru fabrica de ciment se află aici.", "Exploatarea este situată strategic lângă terminalul maritim.", "Peisajul este marcat de terasele uriașe de excavare albă.", "Activitatea industrială susține mii de locuri de muncă indirecte."],
       en: ["Limestone and clay are the primary minerals extracted at this site.", "The quarries directly supply the nearby Vassiliko Cement Works.", "The site is strategically positioned for easy maritime export.", "Visual impact studies are conducted to manage the landscape changes."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -4864,6 +4921,9 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A kikötő 650 helyet kínál, akár 110 méteres jachtok számára is.", "Az itt található luxusvillák saját, közvetlen hajókikötővel rendelkeznek.", "Számos elegáns étterem és exkluzív üzlet található a komplexumban.", "A Marina elnyerte az '5 Gold Anchor Platinum' rangos szakmai minősítést."],
       ro: ["Complexul oferă 650 de dane pentru iahturi de până la 110 metri.", "Vilele de lux din cadrul marinei au dane private chiar în fața casei.", "Include o zonă comercială vastă cu restaurante de tip fine-dining.", "Deține certificarea '5 Gold Anchor Platinum' pentru servicii de elită."],
       en: ["The facility provides 650 berths for yachts up to 110 meters long.", "Luxury villas within the marina feature their own private berths.", "It hosts a wide variety of gourmet restaurants and upscale boutiques.", "The marina has been awarded the prestigious '5 Gold Anchor Platinum' status."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -4909,6 +4969,9 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A kikötőben körülbelül 450 különböző méretű jacht fér el.", "A híres pálmafás Phinikoudes sétány déli végén helyezkedik el.", "Teljes körű karbantartási és javítási szolgáltatásokat nyújt a hajóknak.", "Hivatalos belépési pontként szolgál a Ciprusi Köztársaságba."],
       ro: ["Marina poate găzdui aproximativ 450 de iahturi de diverse dimensiuni.", "Este situată la capătul celebrei promenade cu palmieri Phinikoudes.", "Oferă servicii complete de întreținere și reparații pentru ambarcațiuni.", "Este un punct oficial de intrare vamală în Republica Cipru."],
       en: ["The marina has a capacity for approximately 450 yachts of various sizes.", "It is situated at the southern end of the famous Phinikoudes promenade.", "The facility offers full maintenance and repair services for vessels.", "It serves as an official Port of Entry for the Republic of Cyprus."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -4993,6 +5056,9 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A kikötőt nemrégiben kibővítették, így már jachtokat is tud fogadni.", "Zigi híres a településen található számos speciális halétteremről.", "Itt található a sziget egyik legfontosabb tenger alatti kábelállomása.", "A kikötő a régió helyi halászflottájának központi bázisaként szolgál."],
       ro: ["Portul a fost extins recent pentru a găzdui și iahturi de agrement.", "Localitatea Zygi este celebră pentru numărul mare de taverne cu specific.", "Găzduiește o stație terestră importantă pentru cablurile submarine.", "Portul este un centru activ pentru flota pescărească din zona de sud."],
       en: ["The harbor was recently expanded to include modern facilities for yachts.", "Zygi is renowned for its high concentration of specialized fish taverns.", "The village hosts a critical landing station for international subsea cables.", "The port serves as the main hub for the region's local fishing fleet."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -5076,6 +5142,9 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A repülőteret Glafkosz Klirídisz korábbi elnökről nevezték el.", "Az új, modern terminált 2009 novemberében nyitották meg.", "Közvetlenül a lárnakai sóstó mellett fekszik a délkeleti parton.", "A futópálya teljes hossza megközelítőleg 2980 méter."],
       ro: ["Aeroportul poartă numele fostului președinte cipriot Glafcos Clerides.", "Actualul terminal modern a fost inaugurat în noiembrie 2009.", "Este situat chiar lângă Lacul Sărat din Larnaca, pe coasta de sud-est.", "Pista principală de aterizare are o lungime de 2.980 de metri."],
       en: ["The airport is named after former Cypriot President Glafcos Clerides.", "The current modern terminal was opened in November 2009.", "It is located adjacent to the Larnaca Salt Lake on the coast.", "The main runway measures approximately 2,980 meters in length."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -5122,6 +5191,9 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A repülőteret 2008-ban teljesen felújították és jelentősen kibővítették.", "Számos európai diszkont légitársaság kiemelt bázisaként működik.", "Páfosz városától mindössze 6 kilométerre délkeletre található.", "Évente átlagosan több mint 2 millió utas fordul meg a terminálján."],
       ro: ["Aeroportul a beneficiat de o modernizare majoră finalizată în 2008.", "Este un punct strategic pentru companiile aeriene de tip low-cost.", "Locația sa este la doar 6 kilometri sud-est de centrul orașului Paphos.", "Gestionează anual un trafic de peste 2 milioane de pasageri."],
       en: ["The airport underwent major redevelopment and expansion in 2008.", "It serves as a key base for several European low-cost carriers.", "The facility is located just 6 kilometers southeast of Paphos city.", "It handles an average of over 2 million passengers on an annual basis."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -5167,6 +5239,9 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["Az új, modern terminálépületet 2023-ban nyitották meg.", "A futópálya hossza eléri a 3000 métert a bővítés után.", "A repülőtér Nicosiától nagyjából 13 kilométerre keletre fekszik.", "Jelenleg minden nemzetközi járat törökországi érintéssel közlekedik."],
       ro: ["O nouă clădire modernă a terminalului a fost deschisă în 2023.", "Pista de aterizare are o lungime de aproximativ 3.000 de metri.", "Aeroportul este situat la 13 kilometri est de capitala Nicosia.", "Toate zborurile internaționale tranzitează obligatoriu Turcia."],
       en: ["A brand new terminal building was officially inaugurated in 2023.", "The airport features a runway length of approximately 3,000 meters.", "It is located roughly 13 kilometers east of the city of Nicosia.", "Currently, all arriving international flights must touch down in Turkey."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -5212,6 +5287,9 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A kikötő a Tróodosz-hegység meredek északnyugati lábánál fekszik.", "Ez a sziget egyik legkisebb és legnyugodtabb hivatalos halászkikötője.", "Közvetlenül a parton egy népszerű, friss halakat kínáló étterem működik.", "Pomos környéke Ciprus egyik legérintetlenebb tengerparti szakasza."],
       ro: ["Portul este situat la poalele munților Troodos, pe coasta de nord-vest.", "Este unul dintre cele mai mici adăposturi pescărești oficiale din insulă.", "O tavernă faimoasă pentru pește proaspăt este situată chiar pe dig.", "Regiunea Pomos este considerată printre cele mai sălbatice zone de coastă."],
       en: ["The shelter is nestled at the base of the Troodos mountains' foothills.", "It is one of the smallest official fishing harbors on the island.", "A renowned fish tavern is located directly on the waterfront quay.", "The Pomos area is regarded as one of Cyprus's most unspoiled coastlines."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -5257,6 +5335,9 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A kikötőt ma leginkább jachtok és kirándulóhajók használják.", "A keríniai vár alapjai még a bizánci korszakból származnak.", "A rakpartot egykori raktárépületekből kialakított éttermek szegélyezik.", "Itt találták meg a világ egyik legrégebbi, i.e. 4. századi hajóroncsát."],
       ro: ["Portul este utilizat în prezent pentru iahturi și ambarcațiuni turistice.", "Castelul Kyrenia adiacent are origini ce datează din epoca bizantină.", "Falezele sunt mărginite de cafenele amenajate în foste depozite de marfă.", "O faimoasă epavă din secolul IV î.Hr. a fost descoperită în apropiere."],
       en: ["The harbor is now primarily used by yachts and tourist excursion boats.", "The adjacent Kyrenia Castle dates back to the Byzantine period.", "Historic carob warehouses along the quay have been turned into cafes.", "A famous 4th-century BC shipwreck was discovered in these waters."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -5302,6 +5383,9 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A kikötő maximum 10 méteres merülésű hajókat tud fogadni.", "Közvetlenül Famagusta középkori óvárosa mellett helyezkedik el.", "A régió legfontosabb exportcikke a citrusféle és a textiláru.", "A területen modern szabadkereskedelmi zóna működik a cégeknek."],
       ro: ["Portul poate primi nave cu un pescaj de până la 10 metri.", "Este situat în imediata apropiere a orașului vechi medieval.", "Principalul nod de export pentru citrice și produse textile locale.", "Include o zonă de port liber pentru stimularea schimburilor comerciale."],
       en: ["The port can accommodate vessels with a draft of up to 10 meters.", "It is situated adjacent to the historic walled city of Famagusta.", "Major exports handled here include citrus fruits and textiles.", "The facility operates a designated Free Port and Zone area."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -5347,6 +5431,9 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A kikötő mellett egy jellegzetes fehér-kék görög kápolna áll.", "A móló megvédi a kis hajókat a nyílt tenger hullámaitól.", "Reggelente közvetlenül a hajókról lehet friss halat vásárolni.", "A kikötő melletti öböl népszerű a búvárkodók körében."],
       ro: ["Portul este dominat de o capelă pitorească cu dom albastru.", "Este unul dintre cele mai fotografiate locuri din zona Protaras.", "Pescarii locali încă folosesc metode tradiționale de pescuit.", "Accesul la port este liber pentru turiștii care doresc o plimbare."],
       en: ["The harbor is home to a charming blue and white seaside chapel.", "It provides essential protection for small vessels from sea swells.", "Local fishermen can be seen mending their nets here daily.", "The surrounding bay features shallow, turquoise waters ideal for swimming."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -5696,6 +5783,9 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A kikötő egy védett öbölben fekszik a Dekélia brit bázis közelében.", "Körülbelül 30-40 kis hagyományos halászhajónak ad állandó bázist.", "A látogatók gyakran vásárolhatnak friss fogást közvetlenül a halászoktól.", "A környék a tömegturizmustól mentes, nyugodt hangulatáról ismert."],
       ro: ["Portul este situat într-un golf mic în zona bazei suverane Dhekelia.", "Servește drept bază pentru aproximativ 30-40 de bărci pescărești mici.", "Vizitatorii pot cumpăra adesea pește proaspăt direct de la pescari.", "Zona este apreciată pentru atmosfera autentică și liniștea de pe coastă."],
       en: ["The shelter is located in a small cove near the Dhekelia Sovereign Base Area.", "It provides a base for approximately 30 to 40 small fishing vessels.", "Freshly caught fish can often be purchased directly from the boatmen.", "The area is known for its peaceful environment away from main tourist spots."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -5858,6 +5948,9 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["Az új utasterminált 2017-ben adták át a forgalomnak.", "A kikötői móló teljes hossza eléri a 800 métert.", "Ciprus legnagyobb mélyvízi kikötői létesítménye.", "Kiemelt szerepet játszik a földközi-tengeri olaj- és gázkutatásban."],
       ro: ["Noul terminal de pasageri a fost inaugurat oficial în 2017.", "Dispune de o dană de acostare cu o lungime de 800 de metri.", "Este cel mai mare port comercial cu ape adânci din Cipru.", "Gestionează operațiuni complexe pentru sectorul energetic marin."],
       en: ["The new passenger terminal was officially opened in 2017.", "The facility features a total quay length of 800 meters.", "It is the largest deep-water commercial port in Cyprus.", "The terminal supports offshore oil and gas exploration activities."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -6101,6 +6194,9 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A vízesés Pano Platres falu közvetlen közelében található.", "Egy könnyen járható tanösvény vezet a vízesés aljához.", "A víz hőmérséklete még a legmelegebb nyáron is igen alacsony.", "A név eredete a „millos” (nedves) és „meros” (hely) szavakra utal."],
       ro: ["Cascada este situată la o altitudine de 1.050 de metri.", "Accesul a fost facilitat recent prin construirea unor scări din lemn.", "Este alimentată de râul Kryos Potamos (Râul Rece).", "Este o destinație foarte populară pentru fotografiile de nuntă."],
       en: ["The waterfall is located near the mountain resort of Pano Platres.", "It features a total vertical drop of 15 meters over solid rock.", "The site is accessible via a 1 km trail or by a nearby road.", "It is fed by the Kryos Potamos, which translates to 'Cold River'."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -6184,6 +6280,9 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A folyó teljes hossza megközelítőleg 98 kilométer.", "Nicosia belterületén népszerű sétány épült a folyó mentén.", "Nyári időszakban a folyómeder általában teljesen kiszárad.", "Történelmileg fontos szerepe volt a főváros vízellátásában."],
       ro: ["Lungimea totală a cursului de apă este de aproximativ 98 km.", "Un parc liniar modern a fost amenajat de-a lungul malurilor sale.", "Debitul râului depinde în totalitate de precipitațiile de iarnă.", "Vărsarea râului are loc în golful Famagusta din estul insulei."],
       en: ["The river has a total length of approximately 98 kilometers.", "A 14 km linear park follows the river through the city of Nicosia.", "It is mostly an ephemeral stream, flowing only after heavy rain.", "The river's name is ancient, appearing in various Greek texts."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -6229,6 +6328,9 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A gát építése 1968-ban fejeződött be az Amathos folyón.", "A tározó maximális befogadóképessége 13,5 millió köbméter.", "Gyakran rendeznek itt kenuzási és evezési gyakorlatokat.", "A gát melletti ösvények népszerűek a kutyasétáltatók körében."],
       ro: ["Barajul a fost construit în anul 1968 pe cursul râului Amathos.", "Capacitatea sa este de aproximativ 13,5 milioane de metri cubi.", "Lacul este adesea folosit pentru antrenamente de canotaj.", "În anii ploioși, deversarea apei creează un spectacol vizual."],
       en: ["The dam was completed in 1968 to supply water to Limassol.", "It has a water capacity of 13.5 million cubic meters.", "The reservoir is a known spot for national rowing training.", "Rich birdlife can be found around the lake during winter months."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -6388,6 +6490,9 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A gát építése 1982-ben fejeződött be a Xeros folyón.", "A tározó maximális befogadóképessége meghaladja az 52 millió köbmétert.", "A gát túlcsordulása ritka esemény, amely sok látogatót vonz.", "A tó környéke fontos élőhelye a vándormadaraknak."],
       ro: ["Construcția barajului a fost finalizată în anul 1982.", "Capacitatea sa este de aproximativ 52 de milioane de metri cubi.", "Barajul este alimentat în principal de râul Xeros Potamos.", "Este un loc preferat pentru pescuit sportiv și plimbări în natură."],
       en: ["The dam was completed in 1982 to manage the water of the Xeros river.", "It has a total capacity of approximately 52.3 million cubic meters.", "Spilling of the dam is a celebrated event during very wet winters.", "The area is a designated IBA (Important Bird Area) for many species."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -6471,6 +6576,9 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A vízesés magassága körülbelül 8 métert tesz ki.", "A vizet a Trooditissa folyó táplálja, amely nyáron sem szárad ki.", "A közelben lévő Foini falu híres a hagyományos fazekasságáról.", "A terület hűvös mikroklímája frissítő a forró nyári napokon."],
       ro: ["Cascada are o înălțime totală de aproximativ 8 metri.", "Accesul se face pe un drum forestier pitoresc din satul Foini.", "Apa curge pe roci vulcanice specifice masivului Troodos.", "Este considerată una dintre cele mai frumoase cascade ascunse din Cipru."],
       en: ["The waterfall has a vertical drop of approximately 8 meters.", "It is fed by the Trooditissa river and flows year-round.", "A nature trail connects the waterfall to the village of Foini.", "The surrounding area is ideal for studying Cyprus's igneous rocks."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -6554,6 +6662,9 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A vízesés magassága körülbelül 7 métert ér el.", "A híres Trooditissa-kolostor mindössze néhány kilométerre van.", "A területen jól felszerelt piknikezőhely várja a kirándulókat.", "Az erdőben gyakran látni endemikus ciprusi növényfajokat."],
       ro: ["Cascada are o înălțime de aproximativ 7 metri.", "Zona este înconjurată de pini și arini specifici zonei înalte.", "Există un loc de picnic amenajat de Departamentul Pădurilor.", "Este un punct de oprire popular pe traseul spre vârful Olimp."],
       en: ["The waterfall has a drop of approximately 7 meters.", "It is situated near the historic Trooditissa Monastery.", "A large official picnic site is located just above the falls.", "The area is known for its biodiversity and dense pine forest."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -7084,6 +7195,9 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A gátat 1985-ben adták át a vízkészletek kezelése céljából.", "A tározó kapacitása körülbelül 15,5 millió köbméter víz.", "Két kisebb folyó, a Syrkatis és a Tremithos vizét gyűjti össze.", "A tó körüli dombokon gyakran látni legelő juhnyájakat."],
       ro: ["Construcția barajului a fost finalizată în anul 1985.", "Rezervorul poate stoca până la 15 milioane de metri cubi de apă.", "Barajul are o înălțime de aproximativ 60 de metri.", "Este o destinație liniștită pentru observarea faunei sălbatice locale."],
       en: ["The construction of the dam was finished in the year 1985.", "It has a storage capacity of roughly 15.5 million cubic meters.", "The dam captures water from the Syrkatis and Tremithos rivers.", "It is a popular spot for freshwater fishing under local regulations."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {

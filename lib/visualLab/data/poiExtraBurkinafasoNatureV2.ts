@@ -467,6 +467,7 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
       en: ["Highest peak: 749 m (2,457 ft) in the Cascades region", "Geology: Formed from Precambrian sandstone", "Hydrology: Critical watershed for the Mouhoun River", "Ecology: Important habitat for Sudan-Guinean species", "Resources: Notable for gold and manganese deposits", "Cultural value: Sacred sites for the Lobi ethnic group"],
       pt: ["Ponto mais alto: 749 m acima do nível do mar", "Extensão: cerca de 80 km de noroeste a sudeste", "Tipo de rocha: predominantemente arenito do Pré-câmbrico", "Densidade populacional: menos de 5 hab/km²", "Precipitação anual: 800-1000 mm", "Minerais importantes: Ouro, manganês e calcário"],
       fr: ["Point culminant : 749 m au-dessus du niveau de la mer", "Étendue : env. 80 km du nord-ouest au sud-est", "Type de roche : principalement du grès précambrien", "Densité de population : moins de 5 hab/km²", "Précipitations annuelles : 800-1000 mm", "Minéraux importants : Or, manganèse et calcaire"],
+      es: ["Punto más alto: 749 m sobre el nivel del mar", "Extensión: aprox. 80 km de noroeste a sureste", "Tipo de roca: predominantemente arenisca del Precámbrico", "Densidad de población: menos de 5 hab/km²", "Precipitación anual: 800-1000 mm", "Minerales importantes: Oro, manganeso y piedra caliza"],
     },
   },
   {
@@ -538,6 +539,7 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
       en: ["Location: Diapaga Department, Eastern Burkina Faso", "Maximum area: approx. 15 km² (5.8 sq miles) seasonally", "Utility: Critical watering hole for nomadic livestock", "Ecology: Major stopover for Palearctic migratory birds", "Mineral resources: Known for natron extraction in dry months", "Climate: Receives less than 600 mm (24 inches) of annual rain"],
       pt: ["Extensão máxima: cerca de 15 km² durante a época das chuvas", "Profundidade: máximo 3 m", "Precipitação: cerca de 400 mm anuais", "Taxa de evaporação: elevada, até 2.000 mm por ano", "Temperatura da água: 25-30 °C", "Espécies de peixes: principalmente tilápia e bagres"],
       fr: ["Superficie maximale : env. 15 km² en saison des pluies", "Profondeur : max. 3 m", "Précipitations : env. 400 mm par an", "Taux d'évaporation : élevé, jusqu'à 2 000 mm par an", "Température de l'eau : 25-30 °C", "Espèces de poissons : surtout tilapias et silures"],
+      es: ["Extensión máxima: aprox. 15 km² durante la época de lluvias", "Profundidad: máximo 3 m", "Precipitación: unos 400 mm anuales", "Tasa de evaporación: alta, hasta 2.000 mm por año", "Temperatura del agua: 25-30 °C", "Especies de peces: principalmente tilapias y bagres"],
     },
   },
   {
@@ -645,6 +647,7 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
       en: ["Area: approx. 10 km² (3.9 sq miles) in the Sahel region", "Maximum depth: 8 meters (26 feet)", "Storage capacity: approx. 25 million m³", "Purpose: Drinking water and irrigation for agriculture", "Fisheries: Yields about 50 tons of fish annually", "Climate: Evaporation rate reaches 2,500 mm (98 inches) per year"],
       pt: ["Área: cerca de 10 km²", "Profundidade máxima: 8 m", "Volume de armazenamento: 25 milhões de m³", "Ano de construção: 1995", "Evaporação anual: 2.500 mm", "Produção de peixe: cerca de 50 toneladas por ano"],
       fr: ["Superficie : env. 10 km²", "Profondeur maximale : 8 m", "Volume de stockage : 25 millions de m³", "Année de construction : 1995", "Évaporation annuelle : 2 500 mm", "Production de poisson : env. 50 tonnes par an"],
+      es: ["Superficie: aprox. 10 km²", "Profundidad máxima: 8 m", "Volumen de almacenamiento: 25 millones de m³", "Año de construcción: 1995", "Evaporación anual: 2.500 mm", "Producción pesquera: unas 50 toneladas por año"],
     },
   },
   {

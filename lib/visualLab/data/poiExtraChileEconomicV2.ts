@@ -24,6 +24,7 @@ export const poiExtraChileEconomicV2: POI[] = [
       hu: ["Tranzit: Bolívia legfontosabb tengeri kijárata", "Csata dátuma: 1879. május 21.", "Gazdaság: A ZOFRI szabadkereskedelmi övezet kapuja", "Éves forgalom: Több mint 2 millió tonna áru", "Infrastruktúra: ITI többcélú terminál működik itt", "Földrajz: Mesterséges félsziget védi a mólókat"],
       ro: ["Rol strategic: Principalul punct de tranzit pentru Bolivia", "Istorie: Locul Bătăliei Navale din 21 mai 1879", "Comerț: Centru logistic pentru Zona Liberă ZOFRI", "Capacitate: Peste 2 milioane de tone anual", "Infrastructură: Terminale rezistente la cutremure", "Pescuit: Unul dintre cele mai mari porturi de pescuit din Chile"],
       en: ["Trade role: Key transit port for landlocked Bolivia", "Historical event: Naval Battle of Iquique (May 21, 1879)", "Economy: Directly supports the ZOFRI Free Trade Zone", "Annual throughput: Over 2 million tons of cargo", "Protection: Sheltered by a 1,000-meter breakwater", "Facilities: Multi-purpose and container terminals (ITI)"],
+      es: [],
       pt: [],
       fr: [],
     },

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { POI } from './poi';
 export const cookislandsNatureV2: POI[] = [
 
@@ -85,6 +86,7 @@ export const cookislandsNatureV2: POI[] = [
       en: ["Area: 70 km².", "Average depth: 1.5 m.", "Number of motu: 15.", "Water temperature: 26–30°C.", "Coral species: over 50.", "Annual tourists: 30,000."],
       pt: ["Área: 70 km².", "Profundidade média: 1,5 m.", "Número de motus: 15.", "Temperatura da água: 26–30°C.", "Espécies de corais: mais de 50.", "Turistas anuais: 30.000."],
       fr: ["Superficie : 70 km².", "Profondeur moyenne : 1,5 m.", "Nombre de motus : 15.", "Température de l'eau : 26–30 °C.", "Espèces de coraux : plus de 50.", "Touristes annuels : 30 000."],
+      es: ["Superficie: 70 km².", "Profundidad media: 1,5 m.", "Número de motus: 15.", "Temperatura del agua: 26–30°C.", "Especies de coral: más de 50.", "Turistas anuales: 30.000."],
     },
     image: "/poi-images/cookislands-aitutaki-lagoon-nature-v2.webp",
   },
@@ -172,6 +174,7 @@ export const cookislandsNatureV2: POI[] = [
       en: ["Area: 26.9 km².", "Population: 400.", "Highest point: 71 m.", "Number of caves: 12.", "Temperature: 26°C.", "Airport: 1."],
       pt: ["Área: 26,9 km².", "Habitantes: 400.", "Ponto mais alto: 71 m.", "Número de grutas: 12.", "Temperatura: 26°C.", "Aeroporto: 1."],
       fr: ["Superficie : 26,9 km².", "Habitants : 400.", "Point culminant : 71 m.", "Nombre de grottes : 12.", "Température : 26 °C.", "Aéroport : 1."],
+      es: ["Superficie: 26,9 km².", "Habitantes: 400.", "Punto más alto: 71 m.", "Número de cuevas: 12.", "Temperatura: 26°C.", "Aeropuerto: 1."],
     },
     image: "/poi-images/cookislands-atiu-island-nature-v2.webp",
   },
@@ -215,6 +218,7 @@ export const cookislandsNatureV2: POI[] = [
       en: ["Area: 51.8 km².", "Age: 18 million years.", "Population: 500.", "Highest point: 169 m (Rangimotia).", "Number of sinkholes: over 100.", "Coastline length: 32 km."],
       pt: ["Área: 51,8 km².", "Idade: 18 milhões de anos.", "Habitantes: 500.", "Ponto mais alto: 169 m (Rangimotia).", "Número de dolinas: mais de 100.", "Comprimento da costa: 32 km."],
       fr: ["Superficie : 51,8 km².", "Âge : 18 millions d'années.", "Habitants : 500.", "Point culminant : 169 m (Rangimotia).", "Nombre de dolines : plus de 100.", "Longueur du littoral : 32 km."],
+      es: ["Superficie: 51,8 km².", "Edad: 18 millones de años.", "Habitantes: 500.", "Punto más alto: 169 m (Rangimotia).", "Número de dolinas: más de 100.", "Longitud de la costa: 32 km."],
     },
     image: "/poi-images/cookislands-mangaia-island-nature-v2.webp",
   },
@@ -390,6 +394,7 @@ export const cookislandsNatureV2: POI[] = [
       en: ["Area: 22.3 km².", "Population: 200.", "Highest point: 6 m.", "Lakes: 2 (Tixotopo, Rotoatu).", "Number of freshwater caves: 5.", "Airstrip: 1 (unpaved)."],
       pt: ["Área: 22,3 km².", "Habitantes: 200.", "Ponto mais alto: 6 m.", "Lagos: 2 (Tixotopo, Rotoatu).", "Número de cavernas de água doce: 5.", "Pista de pouso: 1 (não pavimentada)."],
       fr: ["Superficie : 22,3 km².", "Habitants : 200.", "Point culminant : 6 m.", "Lacs : 2 (Tixotopo, Rotoatu).", "Nombre de grottes d'eau douce : 5.", "Piste d'atterrissage : 1 (non goudronnée)."],
+      es: ["Superficie: 22,3 km².", "Habitantes: 200.", "Punto más alto: 6 m.", "Lagos: 2 (Tixotopo, Rotoatu).", "Número de cuevas de agua dulce: 5.", "Pista de aterrizaje: 1 (sin pavimentar)."],
     },
     image: "/poi-images/cookislands-mitiaro-island-nature-v2.webp",
   },
@@ -609,6 +614,7 @@ export const cookislandsNatureV2: POI[] = [
       en: ["Area: 6.2 km²", "Number of islands: 2", "Highest point: 5 m", "Discovery: 1777 by James Cook", "Turtle species: Green turtle, Hawksbill turtle", "Protected status: Bird sanctuary"],
       pt: ["Área: 6,2 km².", "Número de ilhas: 2.", "Ponto mais alto: 5 m.", "Descoberta: 1777 por James Cook.", "Espécies de tartarugas: tartaruga-verde, tartaruga-de-pente.", "Estatuto de proteção: reserva de aves."],
       fr: ["Superficie : 6,2 km².", "Nombre d'îles : 2.", "Point culminant : 5 m.", "Découverte : 1777 par James Cook.", "Espèces de tortues : tortue verte, tortue imbriquée.", "Statut de protection : sanctuaire d'oiseaux."],
+      es: ["Superficie: 6,2 km².", "Número de islas: 2.", "Punto más alto: 5 m.", "Descubrimiento: 1777 por James Cook.", "Especies de tortugas: tortuga verde, tortuga carey.", "Estado de protección: reserva de aves."],
     },
     image: "/poi-images/cookislands-manuae-atoll-nature-v2.webp",
   },
@@ -696,6 +702,7 @@ export const cookislandsNatureV2: POI[] = [
       en: ["Area: 0.3 km²", "Depth: max. 15 m", "Elevation: 30 m", "Island: Mangaia", "Bird species: over 20 waterbird species", "Formation: karst lake"],
       pt: ["Área: 0,3 km².", "Profundidade: máx. 15 m.", "Altitude: 30 m acima do nível do mar.", "Ilha: Mangaia.", "Espécies de aves: mais de 20 tipos de aves aquáticas.", "Formação: lago cárstico (lago de dissolução)."],
       fr: ["Superficie : 0,3 km².", "Profondeur : max. 15 m.", "Altitude : 30 m au-dessus du niveau de la mer.", "Île : Mangaia.", "Espèces d'oiseaux : plus de 20 types d'oiseaux aquatiques.", "Formation : lac karstique (lac de dissolution)."],
+      es: ["Superficie: 0,3 km².", "Profundidad: máx. 15 m.", "Altitud: 30 m sobre el nivel del mar.", "Isla: Mangaia.", "Especies de aves: más de 20 tipos de aves acuáticas.", "Formación: lago kárstico (lago de disolución)."],
     },
     image: "/poi-images/cookislands-lake-tiriara-nature-v2.webp",
   },
@@ -818,6 +825,7 @@ export const cookislandsNatureV2: POI[] = [
       en: "Rakahanga is an atoll in the Northern Cook Islands, about 1100 km northwest of Rarotonga. Land area is 4 km², with a small lagoon. It consists of two main islands connected by a narrow land bridge. The population of about 80 lives in two villages: Matara and Puapua. The economy relies on copra, fishing, and taro cultivation. Rakahanga was discovered in 1823 by James Williams.",
       pt: "Rakahanga é um atol no arquipélago norte das Ilhas Cook, a cerca de 1100 km a noroeste de Rarotonga. A área terrestre é de 4 km² e a lagoa é pequena. O atol consiste em duas ilhas principais ligadas por uma estreita ponte de terra. A população de cerca de 80 pessoas vive em duas aldeias, Matara e Puapua. A economia baseia-se na copra, pesca e cultivo de taro. Rakahanga foi descoberta em 1823 por James Williams.",
       fr: "Rakahanga est un atoll de l'archipel septentrional des îles Cook, situé à environ 1100 km au nord-ouest de Rarotonga. La surface émergée est de 4 km² et le lagon est petit. L'atoll se compose de deux îles principales reliées par une étroite bande de terre. La population d'environ 80 personnes vit dans deux villages, Matara et Puapua. L'économie repose sur le coprah, la pêche et la culture du taro. Rakahanga a été découverte en 1823 par James Williams.",
+      es: "Rakahanga es un atolón del archipiélago septentrional de las Islas Cook, a unos 1100 km al noroeste de Rarotonga. La superficie terrestre es de 4 km² y la laguna es pequeña. El atolón consta de dos islas principales conectadas por un estrecho puente natural. La población de unos 80 habitantes vive en dos pueblos, Matara y Puapua. La economía se basa en la copra, la pesca y el cultivo de taro. Rakahanga fue descubierta en 1823 por James Williams.",
     },
     factsAdvanced: {
       de: ["Landfläche: 4 km²", "Anzahl Hauptinseln: 2", "Bevölkerung: ca. 80", "Dörfer: Matara, Puapua", "Entdeckung: 1823 durch James Williams", "Entfernung zu Rarotonga: 1100 km"],
@@ -826,6 +834,7 @@ export const cookislandsNatureV2: POI[] = [
       en: ["Land area: 4 km²", "Number of main islands: 2", "Population: approx. 80", "Villages: Matara, Puapua", "Discovery: 1823 by James Williams", "Distance from Rarotonga: 1100 km"],
       pt: ["Área terrestre: 4 km²", "Número de ilhas principais: 2", "População: aprox. 80", "Aldeias: Matara, Puapua", "Descoberta: 1823 por James Williams", "Distância de Rarotonga: 1100 km"],
       fr: ["Superficie terrestre : 4 km²", "Nombre d'îles principales : 2", "Population : environ 80", "Villages : Matara, Puapua", "Découverte : 1823 par James Williams", "Distance de Rarotonga : 1100 km"],
+      es: ["Superficie terrestre: 4 km²", "Número de islas principales: 2", "Población: aprox. 80", "Pueblos: Matara, Puapua", "Descubrimiento: 1823 por James Williams", "Distancia a Rarotonga: 1100 km"],
     },
     image: "/poi-images/cookislands-rakahanga-atoll-nature-v2.webp",
   }

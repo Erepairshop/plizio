@@ -668,6 +668,7 @@ export const poiExtraVietnamLifeV2: POI[] = [
       en: ["Year of establishment: 1890 by French colonial planners", "Current area: approximately 10 hectares in central Hanoi", "Flora: Contains hundreds of tropical tree species and rare plants", "Features: Includes an artificial lake and the Nui Khan hill", "Proximity: Located near the Ho Chi Minh Mausoleum complex", "Heritage: One of the oldest botanical gardens in Southeast Asia"],
       pt: ["Um espaço verde tranquilo perto do Mausoléu de Ho Chi Minh, que abriga uma coleção de árvores e plantas raras.", "Localiza-se no território da República Socialista do Vietname.", "Desempenha um papel na identidade local da região."],
       fr: ["Un espace vert paisible à proximité du mausolée de Hô Chi Minh, abritant une collection d'arbres et de plantes rares.", "Situé sur le territoire de la République socialiste du Vietnam.", "Joue un rôle dans l'identité locale de la région."],
+      es: ["Un tranquilo espacio verde cerca del Mausoleo de Ho Chi Minh que alberga una colección de árboles y plantas poco comunes.", "Se encuentra en el territorio de la República Socialista de Vietnam.", "Desempeña un papel en la identidad local de la región."],
     }, image: "/poi-images/hanoi-botanical-garden-life-v2.webp"},
   {
     id: "buon-ma-thuot-coffee-plantations-life-v2",
@@ -808,6 +809,7 @@ export const poiExtraVietnamLifeV2: POI[] = [
       en: ["Location: Lan Ha Bay, part of the Cat Ba Archipelago", "Wildlife: Home to a colony of approximately 30-50 macaques", "Beaches: Features two main sandy areas, Cat Dua 1 and 2", "Access: Reached exclusively by boat from Ben Beo harbor", "Activities: Hiking to the summit for 360-degree bay views", "Travel time: Approximately 10-15 minutes from Cat Ba town"],
       pt: ["Uma pequena ilha na Baía de Lan Ha, conhecida pela sua grande população de macacos que se movem livremente pela ilha.", "Localiza-se no território da República Socialista do Vietname.", "Desempenha um papel na identidade local da região."],
       fr: ["Une petite île de la baie de Lan Ha, connue pour sa grande population de macaques qui circulent librement sur l'île.", "Situé sur le territoire de la République socialiste du Vietnam.", "Joue un rôle dans l'identité locale de la région."],
+      es: ["Una pequeña isla en la bahía de Lan Ha, conocida por su gran población de macacos que se mueven libremente por la isla.", "Se encuentra en el territorio de la República Socialista de Vietnam.", "Desempeña un papel en la identidad local de la región."],
     }, image: "/poi-images/monkey-island-cat-ba-life-v2.webp"},
   {
     id: "gia-dinh-park-life-v2",
@@ -854,6 +856,7 @@ export const poiExtraVietnamLifeV2: POI[] = [
       en: ["Total area: Approximately 32 hectares of land", "Tree count: Home to more than 700 large shade trees", "Location: Situated near Tan Son Nhat International Airport", "Layout: Bisected by the major Pham Van Dong boulevard", "Facilities: Features a 3,000-square-meter playground area", "Origin: Formerly used as a golf course before becoming a park"],
       pt: ["Um dos maiores parques públicos da Cidade de Ho Chi Minh, oferecendo amplos espaços verdes para lazer e desporto.", "Localiza-se no território da República Socialista do Vietname.", "Desempenha um papel na identidade local da região."],
       fr: ["L'un des plus grands parcs publics d'Hô Chi Minh-Ville, offrant de nombreux espaces verts pour la détente et le sport.", "Situé sur le territoire de la République socialiste du Vietnam.", "Joue un rôle dans l'identité locale de la région."],
+      es: ["Uno de los parques públicos más grandes de Ciudad Ho Chi Minh, que ofrece amplias zonas verdes para el ocio y el deporte.", "Se encuentra en el territorio de la República Socialista de Vietnam.", "Desempeña un papel en la identidad local de la región."],
     }, image: "/poi-images/gia-dinh-park-life-v2.webp"},
   {
     id: "thai-nguyen-tea-hills-life-v2",

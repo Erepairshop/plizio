@@ -599,6 +599,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
       en: ["The museum officially opened its doors in November 2001.", "Chronological scope of the main exhibits: 1948 to 1994.", "Number of distinct exhibition areas in the complex: 22 rooms.", "Construction cost of the museum was approximately 80 million Rand.", "The site area covers approximately 7 hectares of reclaimed land.", "It features a prominent display of the Casspir armored vehicle."],
       pt: ["Inauguração: 2001", "Área: 6.000 m²", "Visitantes anuais: ~300.000", "Número de objetos expostos: >1.000", "Localização: Gold Reef City", "Preço do bilhete: aprox. 100 ZAR"],
       fr: ["Inauguration : 2001", "Surface : 6 000 m²", "Visiteurs annuels : ~300 000", "Nombre d'objets exposés : >1 000", "Lieu : Gold Reef City", "Prix d'entrée : env. 100 ZAR"],
+      es: ["Inauguración: 2001", "Superficie: 6.000 m²", "Visitantes anuales: ~300.000", "Número de objetos expuestos: >1.000", "Ubicación: Gold Reef City", "Precio de la entrada: aprox. 100 ZAR"],
     },
   },
   {
@@ -658,6 +659,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
       en: ["Date of establishment: 13 July 1685 by Simon van der Stel.", "The Cloete Cellar was added to the estate in 1791.", "Napoleon Bonaparte requested 30 liters of Constantia wine monthly.", "The manor house was severely damaged by fire in 1925.", "It is the oldest functioning wine estate in the Southern Hemisphere.", "The estate was declared a National Monument in 1936."],
       pt: ["Fundação: 1685", "Localização: Constantia, Cidade do Cabo", "Área: 200 hectares", "Produção anual: ~1 milhão de garrafas", "Vinícola mais antiga: Sim", "Visitantes anuais: ~250.000"],
       fr: ["Fondation : 1685", "Localisation : Constantia, Le Cap", "Superficie : 200 hectares", "Production annuelle : ~1 million de bouteilles", "Plus vieux domaine : Oui", "Visiteurs annuels : ~250 000"],
+      es: ["Fundación: 1685", "Ubicación: Constantia, Ciudad del Cabo", "Superficie: 200 hectáreas", "Producción anual: ~1 millón de botellas", "Bodega más antigua: Sí", "Visitantes anuales: ~250.000"],
     },
   },
   {
@@ -837,6 +839,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
       en: ["Operating years of the Kimberley Mine: 1871 to 1914.", "Total weight of diamonds extracted: 14.5 million carats.", "Estimated amount of earth removed by hand: 22.5 million tons.", "The current depth from the rim to the water level is 175 meters.", "The underground mine eventually reached a depth of 1,097 meters.", "The site was declared a National Heritage Site in 2004."],
       pt: ["Área: 17 hectares", "Profundidade: 214 m", "Construção: 1871-1914", "Extração: 2.720 kg de diamantes", "Número de trabalhadores: ~50.000", "Visitantes anuais: ~200.000"],
       fr: ["Superficie : 17 hectares", "Profondeur : 214 m", "Construction : 1871-1914", "Extraction : 2 720 kg de diamants", "Nombre d'ouvriers : ~50 000", "Visiteurs annuels : ~200 000"],
+      es: ["Superficie: 17 hectáreas", "Profundidad: 214 m", "Construcción: 1871-1914", "Extracción: 2.720 kg de diamantes", "Número de trabajadores: ~50.000", "Visitantes anuales: ~200.000"],
     },
   },
   {
@@ -896,6 +899,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
       en: ["Date of the 'Mrs. Ples' discovery: 18 April 1947.", "Estimated age of the 'Little Foot' skeleton: 3.67 million years.", "Inscribed as a UNESCO World Heritage Site in 1999.", "The caves are located approximately 50 kilometers from Johannesburg.", "The site has produced more than 500 individual hominid fossils.", "It is the longest continuously running archaeological excavation in the world."],
       pt: ["As grutas fazem parte do Património da Humanidade 'Berço da Humanidade' (desde 1999).", "'Mrs. Ples' foi descoberta a 18 de abril de 1947 por Robert Broom.", "A idade do fóssil é estimada em cerca de 2,1 milhões de anos.", "As grutas estendem-se ao longo de mais de 1,2 quilómetros.", "Cerca de 100.000 turistas visitam as grutas todos os anos.", "Até agora foram recuperados mais de 500 fósseis de hominídeos."],
       fr: ["Les grottes font partie du patrimoine mondial du « Berceau de l'humanité » (depuis 1999).", "« Mrs. Ples » a été découverte le 18 avril 1947 par Robert Broom.", "L'âge du fossile est estimé à environ 2,1 millions d'années.", "Les grottes s'étendent sur plus de 1,2 kilomètre.", "Environ 100 000 touristes visitent les grottes chaque année.", "Plus de 500 fossiles d'hominidés ont été récupérés jusqu'à présent."],
+      es: ["Las cuevas forman parte del Patrimonio de la Humanidad 'Cuna de la Humanidad' (desde 1999).", "'Mrs. Ples' fue descubierta el 18 de abril de 1947 por Robert Broom.", "La edad del fósil se estima en unos 2,1 millones de años.", "Las cuevas se extienden a lo largo de más de 1,2 kilómetros.", "Unos 100.000 turistas visitan las cuevas cada año.", "Hasta ahora se han recuperado más de 500 fósiles de homínidos."],
     },
   },
   {

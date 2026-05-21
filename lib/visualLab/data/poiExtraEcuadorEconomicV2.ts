@@ -1222,6 +1222,7 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
       en: ["Annual production: over 200,000 tons", "Salt pan area: more than 1,000 hectares", "Number of employees: about 1,000", "Production start: 1960s", "Average sunny days per year: 300", "Export share of total revenue: approximately 60%"],
       pt: ["Produção anual: mais de 200.000 toneladas.", "Área das salinas: mais de 1.000 hectares.", "Empregados: cerca de 1.000.", "Início da produção: década de 1960.", "Média de dias de sol por ano: 300.", "Quota de exportação no volume de negócios total: cerca de 60%."],
       fr: ["Production annuelle : plus de 200 000 tonnes.", "Surface des salines : plus de 1 000 hectares.", "Employés : environ 1 000.", "Début de la production : années 1960.", "Moyenne de jours de soleil par an : 300.", "Part de l'exportation dans le chiffre d'affaires total : environ 60 %."],
+      es: ["Producción anual: más de 200.000 toneladas.", "Superficie de las salinas: más de 1.000 hectáreas.", "Empleados: alrededor de 1.000.", "Inicio de la producción: década de 1960.", "Promedio de días de sol al año: 300.", "Cuota de exportación sobre las ventas totales: unos 60%."],
     },
   },
   {
@@ -1317,6 +1318,7 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
       en: ["Year founded: 1972", "Area: 50,000 square meters", "Employees: about 1,500", "Annual production capacity: over 2 million tires", "Export markets: several Latin American countries", "Product range: over 100 tire models"],
       pt: ["Ano de fundação: 1972", "Área: 50.000 metros quadrados", "Funcionários: cerca de 1.500", "Capacidade de produção anual: mais de 2 milhões de pneus", "Mercados de exportação: vários países da América Latina", "Gama de produtos: mais de 100 modelos de pneus"],
       fr: ["Année de fondation : 1972", "Superficie : 50 000 mètres carrés", "Employés : environ 1 500", "Capacité de production annuelle : plus de 2 millions de pneus", "Marchés d'exportation : plusieurs pays d'Amérique latine", "Gamme de produits : plus de 100 modèles de pneus"],
+      es: ["Año de fundación: 1972", "Superficie: 50.000 metros cuadrados", "Empleados: aproximadamente 1.500", "Capacidad de producción anual: más de 2 millones de neumáticos", "Mercados de exportación: varios países latinoamericanos", "Gama de productos: más de 100 modelos de neumáticos"],
     },
   },
   {

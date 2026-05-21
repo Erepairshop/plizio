@@ -403,6 +403,7 @@ export const poiExtraGhanaNatureV2: POI[] = [
       en: ["Established as a forest reserve in 1962.", "Covers a total area of 51 square kilometers.", "Home to more than 170 different bird species.", "Highest elevation reaches approximately 290 meters.", "Features three primary caves: Adwuku, Sayu, and Hiewayo.", "Located just 50 kilometers northeast of Accra."],
       pt: ["Fundação como reserva florestal no ano de 1962.", "Área de exatamente 51 quilómetros quadrados.", "Abriga mais de 170 espécies diferentes de aves.", "O ponto mais alto situa-se a cerca de 290 metros acima do nível do mar.", "Presença de três grutas principais: Adwuku, Sayu e Hiewayo.", "Situada a apenas 50 quilómetros a nordeste da capital, Acra."],
       fr: ["Création en tant que réserve forestière en 1962.", "Superficie exacte de 51 kilomètres carrés.", "Abrite plus de 170 espèces d'oiseaux différentes.", "Le point culminant est à environ 290 mètres d'altitude.", "Présence de trois grottes principales : Adwuku, Sayu et Hiewayo.", "Située à seulement 50 kilomètres au nord-est de la capitale Accra."],
+      es: ["Fundada como reserva forestal en el año 1962.", "Superficie de exactamente 51 kilómetros cuadrados.", "Hogar de más de 170 especies diferentes de aves.", "El punto más alto se encuentra a unos 290 metros sobre el nivel del mar.", "Presencia de tres cuevas principales: Adwuku, Sayu e Hiewayo.", "Situada a solo 50 kilómetros al noreste de la capital, Accra."],
     },
   },
   {

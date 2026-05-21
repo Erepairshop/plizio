@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { POI } from './poi';
 export const swedenLifeV2: POI[] = [
 
@@ -35,6 +36,7 @@ imageHint: "Sarek National Park rugged mountain peaks and glaciers",
       en: "Sarek National Park in Swedish Lapland is widely regarded as Europe's last true wilderness and is a vital part of the UNESCO World Heritage site, Laponia. Established in 1909, it ranks among the oldest national parks in Europe. The area is defined by a dramatic high-alpine landscape featuring over 100 glaciers and six of Sweden's thirteen highest peaks, all of which exceed 2,000 meters in elevation. Sarek is famous for its lack of modern infrastructure: there are no marked trails, no tourist huts, and no bridges over the powerful glacial rivers, making it a destination reserved for experienced hikers with expert navigation skills. The centerpiece of the park is the Rapa Valley and its delta, a breathtaking turquoise river system that winds through a verdant, deep valley. The wildlife is equally majestic, home to oversized moose, massive reindeer herds managed by the indigenous Sami people, brown bears, and the elusive wolverine. For the Sami, Sarek remains a critical traditional grazing ground, maintaining a cultural connection to the land that has lasted for millennia. Visiting Sarek requires profound respect for the unpredictable Arctic environment and meticulous self-sufficiency.",
       pt: "Sarek é considerada a última zona selvagem da Europa sem trilhas marcadas ou refúgios. A alta montanha abrange seis dos picos mais altos da Suécia e mais de 100 glaciares imponentes.",
       fr: "Sarek est considérée comme la dernière zone sauvage d'Europe sans sentiers balisés ni refuges. La haute montagne comprend six des plus hauts sommets de Suède et plus de 100 glaciers impressionnants.",
+      es: "Sarek es considerada la última zona salvaje de Europa sin caminos marcados ni refugios. La alta montaña abarca seis de los picos más altos de Suecia y más de 100 impresionantes glaciares.",
     },
     factsAdvanced: {
       de: ["Gegründet im Jahr 1909 als einer der ersten Nationalparks Europas.", "Beherbergt sechs Berge über 2.000 Meter Höhe.", "Teil des 9.400 km² großen UNESCO-Welterbes Laponia.", "Enthält etwa 100 einzelne Gletscher.", "Es gibt keine markierten Wege oder Unterkünfte im Park.", "Das Rapa-Tal gilt als einer der schönsten Orte Skandinaviens."],

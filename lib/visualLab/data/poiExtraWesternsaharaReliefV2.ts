@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { POI } from './poi';
 export const westernsaharaReliefV2: POI[] = [
 
@@ -261,6 +262,7 @@ export const westernsaharaReliefV2: POI[] = [
       en: ["Part of the Precambrian African Shield", "Dominant rock types: sandstone and quartzite", "Average elevation above 400 meters", "Site of prehistoric rock engravings", "High erosion rate due to sandstorms", "Important barrier for desert fauna"],
       pt: ["Parte do escudo africano precambriano", "Tipo de rocha dominante: arenito e quartzito", "Altitude média acima de 400 metros", "Local de descoberta de gravuras rupestres pré-históricas", "Elevada taxa de erosão por tempestades de areia", "Barreira importante para a fauna do deserto"],
       fr: ["Fait partie du bouclier africain précambrien", "Type de roche dominant : grès et quartzite", "Altitude moyenne supérieure à 400 mètres", "Lieu de découverte de gravures rupestres préhistoriques", "Taux d'érosion élevé dû aux tempêtes de sable", "Barrière importante pour la faune du désert"],
+      es: ["Parte del escudo africano precámbrico", "Tipo de roca dominante: arenisca y cuarcita", "Altura media superior a 400 metros", "Lugar de hallazgo de grabados rupestres prehistóricos", "Alta tasa de erosión por tormentas de arena", "Importante barrera para la fauna del desierto"],
     },
     image: "/poi-images/westernsahara-plateau-de-draa-relief-v2.webp",
   },

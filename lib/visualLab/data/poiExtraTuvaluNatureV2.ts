@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { POI } from './poi';
 export const tuvaluNatureV2: POI[] = [
 

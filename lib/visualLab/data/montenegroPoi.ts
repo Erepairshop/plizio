@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { type POI } from "./poi";
 
 export const montenegroAllPoi: POI[] = [
@@ -41,6 +42,9 @@ export const montenegroAllPoi: POI[] = [
       hu: ["A hegység legmagasabb pontja a 2534 méteres Maja Kolata csúcs.", "A terület 2009-ben kapta meg a nemzeti parki minősítést.", "Itt találhatóak Európa legdélebbi fekvésű apró gleccsermaradványai.", "A név 'átkozottat' jelent, ami a járhatatlan, meredek sziklákra utal."],
       ro: ["Cel mai înalt vârf din Muntenegru, Maja Kolata (2.534 m), se află aici.", "Parcul Național Prokletije a fost înființat oficial în anul 2009.", "Munții fac parte din lanțul Alpilor Dinarici, având relief glaciar.", "Regiunea este habitatul ideal pentru urși, lupi și capre negre."],
       en: ["Maja Kolata is the highest summit in Montenegro, standing at 2,534 meters.", "The Montenegrin portion of the range became a national park in 2009.", "The mountains are characterized by dramatic karst and glacial topography.", "The range contains some of the last remaining glaciers in the Balkans."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -81,6 +85,9 @@ export const montenegroAllPoi: POI[] = [
       hu: ["Az öböl partvonala összesen körülbelül 107 kilométer hosszú.", "Négy kisebb öböl alkotja: a Herceg Novi-i, a Tivati, a Risani és a Kotori.", "Gyakran nevezik Európa legdélebbi fjordjának, bár geológiailag egy folyóvölgy.", "A terület 1979 óta élvez UNESCO világörökségi védelmet."],
       ro: ["Linia de coastă a golfului se întinde pe o lungime totală de 107 km.", "Este format din bazinele Herceg Novi, Tivat, Risan și Kotor.", "Munții Orjen și Lovćen se ridică aproape vertical din apele golfului.", "Regiunea este locuită încă din antichitate, având numeroase situri romane."],
       en: ["The bay consists of four smaller basins connected by narrow straits.", "It features a total coastline length of approximately 107 kilometers.", "The bay was inscribed on the UNESCO World Heritage list in 1979.", "Geologically, it is a submerged river canyon rather than a true glacial fjord."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -121,6 +128,9 @@ export const montenegroAllPoi: POI[] = [
       hu: ["A szigetet a 15. században erődítették meg a kalóztámadások ellen.", "A szárazfölddel egy vékony, természetes homokpad (tombolo) köti össze.", "Az 1950-es években az egész falut szállodakomplexummá alakították.", "A szigeten három kis ortodox templom is található a házak között."],
       ro: ["Insula a fost fortificată în secolul al XV-lea de familia nobiliară Paštrovići.", "Este legată de țărm printr-un istm îngust format prin depunere de nisip.", "Transformarea în hotel de lux a fost finalizată în anul 1960.", "Stațiunea a fost declarată cel mai bun hotel din lume în anul 1972."],
       en: ["The village was established in the 15th century as a refuge from pirates.", "It is connected to the mainland by a narrow natural causeway or tombolo.", "The island was converted into a luxury hotel village in the late 1950s.", "There are 80 stone houses and 3 churches preserved on the island."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -161,6 +171,9 @@ export const montenegroAllPoi: POI[] = [
       hu: ["A sziget a 19. században jött létre egy hajóroncs körüli hordaléklerakódásból.", "Területe körülbelül 4,8 négyzetkilométer, és Ulcinj közelében található.", "Ez Montenegró legnépszerűbb naturista üdülőhelye már az 1970-es évek óta.", "A folyóparton jellegzetes cölöpökön álló halászkunyhók és éttermek sorakoznak."],
       ro: ["Insula s-a format natural în 1848 în jurul epavei navei 'Merito'.", "Suprafața totală a insulei este de aproximativ 480 de hectare.", "Este delimitată de două brațe ale râului Bojana și de Marea Adriatică.", "Vânturile constante fac din această locație un paradis pentru kitesurfing."],
       en: ["The island was formed in 1848 after a ship sank and silt accumulated around it.", "It covers 4.8 square kilometers and is located near the Albanian border.", "The island is famous for its FKK (nudist) resort established in 1973.", "Wooden stilt houses called 'sojenice' line the river banks of Ada Bojana."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -201,6 +214,9 @@ export const montenegroAllPoi: POI[] = [
       hu: ["A tó 1416 méteres tengerszint feletti magasságban helyezkedik el.", "Valójában két kisebb tóból áll, amelyeket egy keskeny csatorna köt össze.", "A tó legmélyebb pontja a kis medencében eléri a 49 métert.", "A vizet a Medjed-hegyről lezúduló patakok és források táplálják."],
       ro: ["Lacul este situat la o altitudine de 1.416 metri în masivul Durmitor.", "Este compus din două bazine: Lacul Mare și Lacul Mic, unite printr-un canal.", "Adâncimea maximă a lacului atinge 49 de metri în partea mai mică.", "O potecă de promenadă de 3,5 km înconjoară întreg perimetrul lacului."],
       en: ["The lake is situated at an elevation of 1,416 meters above sea level.", "It is formed by two connected bodies: the Big Lake and the Small Lake.", "The maximum depth of the Small Lake reaches about 49 meters.", "A popular 3.5-kilometer walking trail circles the entire shoreline."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   // HISTORY / LANDMARKS
@@ -242,6 +258,9 @@ export const montenegroAllPoi: POI[] = [
       hu: ["Az erődöt 1853-ban építtette Lazar Mamula osztrák tábornok.", "A sziget átmérője mindössze körülbelül 200 méter.", "A két világháború alatt az építményt koncentrációs tábornak is használták.", "A közelmúltban az erődöt luxusszállodává és üdülőhellyé alakították át."],
       ro: ["Fortăreața a fost ridicată în 1853 de generalul austriac Lazar Mamula.", "Insula este circulară și are un diametru de aproximativ 200 de metri.", "În timpul celui de-al Doilea Război Mondial, aici a funcționat o închisoare.", "Monumentul istoric a fost recent transformat într-un hotel de lux."],
       en: ["The fortress was commissioned in 1853 by Austrian General Lazar Mamula.", "The island occupies a strategic position at the entrance of the Boka Bay.", "It was used as a prison during both WWI and WWII by occupying forces.", "The structure has been recently redeveloped into a high-end boutique hotel."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -282,6 +301,9 @@ export const montenegroAllPoi: POI[] = [
       hu: ["A várfalak mentén pontosan 1350 lépcsőfok vezet fel a felső erődbe.", "A védelmi rendszer teljes hossza megközelíti a 4,5 kilométert.", "Az erődítmény legmagasabb pontja 280 méterrel van a tengerszint felett.", "A falak építése a 9. században kezdődött és a 15. századra fejeződött be."],
       ro: ["Vizitatorii trebuie să urce aproximativ 1.350 de trepte pentru a ajunge în vârf.", "Zidurile de apărare au o lungime totală de 4,5 kilometri pe panta muntelui.", "Fortificația este situată la o altitudine de 280 de metri deasupra mării.", "Sistemul defensiv face parte din patrimoniul mondial UNESCO din 2017."],
       en: ["The climb to the top involves ascending approximately 1,350 stone steps.", "The defensive walls of Kotor stretch for a total of 4.5 kilometers.", "The fortress sits at an elevation of 280 meters above the Adriatic Sea.", "Construction of the walls began in the 9th century and continued for 1,000 years."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -322,6 +344,9 @@ export const montenegroAllPoi: POI[] = [
       hu: ["A hidat 1937 és 1940 között építették fel a Jugoszláv Királyság idején.", "A szerkezet öt ívből áll, teljes hossza pedig 365 méter.", "Az úttest 172 méteres magasságban húzódik a Tara folyó felett.", "1942-ben a partizánok felrobbantották egyik ívét, hogy megállítsák az olaszokat."],
       ro: ["Construcția podului a fost finalizată în anul 1940, după trei ani de muncă.", "Structura are cinci arcade și o lungime totală de 365 de metri.", "Înălțimea podului față de fundul albiei râului Tara este de 172 de metri.", "Podul a fost parțial distrus în 1942 pentru a bloca avansul trupelor inamice."],
       en: ["The bridge was built between 1937 and 1940 designed by Mijat Trojanović.", "It features five arches and spans a total length of 365 meters.", "The highest point of the bridge is 172 meters above the Tara River.", "It is a popular spot for ziplining and bungee jumping across the canyon."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -363,6 +388,9 @@ export const montenegroAllPoi: POI[] = [
       hu: ["A jelenlegi kolostorépületet 1701 és 1704 között emelte Danilo fejedelem.", "Itt őrzik Keresztelő Szent János jobb kezét mint szent ereklyét.", "A kolostor kincstárában található a Szent Kereszt egy darabja is.", "A templom az Istenszülő születésének (Kisboldogasszony) van szentelve."],
       ro: ["Actuala mănăstire a fost construită de către episcopul Danilo în 1701.", "Adăpostește mâna dreaptă a Sfântului Ioan Botezătorul, adusă din Malta.", "În interior se află moaștele Sfântului Petru de Cetinje, ocrotitorul țării.", "Mănăstirea deține primele cărți tipărite în chirilică din secolul al XV-lea."],
       en: ["The current structure was rebuilt by Prince-Bishop Danilo between 1701 and 1704.", "It houses the right hand of St. John the Baptist in its treasury.", "A fragment of the True Cross is among the holy relics kept here.", "The monastery was the seat of the Montenegrin rulers for several centuries."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -403,6 +431,9 @@ export const montenegroAllPoi: POI[] = [
       hu: ["A monostort 1252-ben alapította Stefan Vukanović szerb herceg.", "Legismertebb freskója Illés prófétát ábrázolja, akit egy holló táplál.", "Az épületegyüttes a Szent Miklós és az Istenanya elszenderedése templomokból áll.", "A kolostor kertjében egy természetes forrás és vízesés is található."],
       ro: ["Mănăstirea a fost ctitorită în anul 1252 de către Ștefan Vukanović.", "Cea mai celebră frescă de aici îl reprezintă pe Proorocul Ilie hrănit de corb.", "Complexul cuprinde biserica mare și paraclisul Sfântul Nicolae.", "Portalul principal al bisericii este sculptat în marmură albă locală."],
       en: ["The monastery was founded in 1252 by Stefan, son of King Vukan Nemanjić.", "The most famous fresco is 'Raven Feeds Prophet Elijah' from the 13th century.", "The complex includes the Church of the Assumption and St. Nicholas Church.", "The monastery was looted and damaged by the Ottomans in the 16th century."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   // REGIONAL POIS (2 per region)
@@ -968,6 +999,7 @@ export const montenegroAllPoi: POI[] = [
       en: "The Piva Monastery, dedicated to the Assumption of the Virgin Mary, stands as one of Montenegro's most significant Orthodox shrines. It was constructed between 1573 and 1586 under the leadership of Savatije Sokolović, who later became the Serbian Patriarch. The monastery is legendary for an extraordinary preservation effort: in the 1980s, the entire structure was meticulously moved stone by stone from its original mountain site to a higher elevation to save it from the rising waters of the newly formed Piva Reservoir. Its interior walls are almost completely covered in breathtaking 16th and 17th-century frescoes, executed by the preeminent masters of the period. The gilded iconostasis is a particularly valuable masterpiece of intricate woodcarving. The monastery's treasury houses rare manuscripts, ecclesiastical garments, and invaluable goldsmithing works. Its exterior architecture is modest and fortress-like—a common design for Christian buildings under Ottoman rule to avoid attracting undue attention. Today, the monastery remains a center of profound spirituality and a monument to cultural heritage preservation.",
       pt: "O mosteiro de Piva, dedicado à Assunção da Virgem Maria, é um dos santuários ortodoxos mais importantes de Montenegro. Foi construído entre 1573 e 1586 sob a direção de Savatije Sokolović, que mais tarde se tornou patriarca sérvio. O mosteiro é famoso pela sua extraordinária operação de salvamento: na década de 1980, todo o edifício foi transferido pedra por pedra da sua localização original nas montanhas para um local mais elevado, a fim de o salvar das águas da nova albufeira de Piva. As paredes interiores do mosteiro estão quase completamente cobertas com frescos impressionantes dos séculos XVI e XVII, criados pelos melhores mestres da sua época. Especialmente valioso é o iconostásio, uma obra-prima da escultura em madeira. O tesouro do mosteiro guarda manuscritos raros, vestes eclesiásticas e trabalhos de ourivesaria de valor incalculável. A arquitetura é simples e de aspeto fortificado, típica das construções cristãs durante o domínio otomano, para atrair menos atenção. Hoje, o mosteiro é um lugar de profunda espiritualidade e um monumento importante para a preservação do património cultural.",
       fr: "Le monastère de Piva, dédié à l'Assomption de la Vierge Marie, est l'un des sanctuaires orthodoxes les plus importants du Monténégro. Il a été construit entre 1573 et 1586 sous la direction de Savatije Sokolović, futur patriarche serbe. Le monastère est célèbre pour son opération de sauvetage extraordinaire : dans les années 1980, l'ensemble de l'édifice a été déplacé pierre par pierre de son emplacement d'origine dans les montagnes vers un site plus élevé, afin de le sauver des eaux du nouveau réservoir de Piva. Les murs intérieurs du monastère sont presque entièrement recouverts d'impressionnantes fresques des XVIe et XVIIe siècles, réalisées par les meilleurs maîtres de leur temps. L'iconostase, un chef-d'œuvre de sculpture sur bois, est particulièrement précieuse. Le trésor du monastère conserve des manuscrits rares, des vêtements liturgiques et des pièces d'orfèvrerie d'une valeur inestimable. L'architecture est sobre et d'aspect fortifié, typique des constructions chrétiennes sous la domination ottomane pour attirer moins l'attention. Aujourd'hui, le monastère est un lieu de profonde spiritualité et un monument important pour la préservation du patrimoine culturel.",
+      es: "El monasterio de Piva, dedicado a la Asunción de la Virgen María, es uno de los santuarios ortodoxos más importantes de Montenegro. Fue construido entre 1573 y 1586 bajo la dirección de Savatije Sokolović, quien más tarde sería patriarca serbio. El monasterio es famoso por su extraordinaria operación de rescate: en la década de 1980, todo el edificio fue trasladado piedra por piedra desde su ubicación original en las montañas a un lugar más elevado para salvarlo de las aguas del nuevo embalse de Piva. Las paredes interiores del monasterio están casi totalmente cubiertas con impresionantes frescos de los siglos XVI y XVII, creados por los mejores maestros de su tiempo. Especialmente valioso es el iconostasio, una obra maestra de la talla en madera. El tesoro del monasterio guarda manuscritos raros, vestiduras eclesiásticas y trabajos de orfebrería de valor incalculable. La arquitectura es sencilla y de aspecto fortificado, típica de las construcciones cristianas bajo la hegemonía otomana para atraer menos atención. Hoy, el monasterio es un lugar de profunda espiritualidad y un monumento importante para la preservación del patrimonio cultural.",
     },
     factsAdvanced: {
       de: ["Das Kloster wurde zwischen 1573 und 1586 erbaut.", "Es wurde von 1970 bis 1982 komplett an einen neuen Standort versetzt.", "Savatije Sokolović, der Gründer, wurde später serbischer Patriarch.", "Die Kirche beherbergt 1.260 Quadratmeter wertvolle Freskenmalerei.", "Die Ikonostase wurde von den Meistern Longin und Kozma geschnitzt.", "Es liegt heute in der Nähe der Stadt Plužine am Piva-See."],

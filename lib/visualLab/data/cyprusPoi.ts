@@ -92,6 +92,9 @@ export const cyprusRegions: POI[] = [
       hu: ["A világ utolsó osztott fővárosa", "16. századi velencei falak", "Ledra utca a határátkelő", "Kulturális és politikai központ"],
       ro: ["Ultima capitală divizată", "Ziduri venețiene circulare", "Punct de trecere Strada Ledra", "Oraș locuit de 4500 de ani"],
       en: ["World's last divided capital", "16th-century Venetian walls", "Ledra Street crossing point", "Capital since the 10th century"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -132,6 +135,9 @@ export const cyprusRegions: POI[] = [
       hu: ["Ciprus második legnagyobb városa", "A sziget legnagyobb kikötője", "A ciprusi borászat központja", "Modern jachtkikötővel rendelkezik"],
       ro: ["Al doilea oraș ca mărime", "Cel mai mare port al insulei", "Centrul industriei vinului", "Marina modernă pentru iahturi"],
       en: ["Second largest city in Cyprus", "Largest port on the island", "Center of the wine industry", "Modern marina opened in 2014"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -172,6 +178,9 @@ export const cyprusRegions: POI[] = [
       hu: ["Finikoudes pálmafás sétány", "Az ókori Kition helyén fekszik", "Ciprus legforgalmasabb repülőtere", "Ciprus harmadik legnagyobb városa"],
       ro: ["Promenada cu palmieri Finikoudes", "Construit pe ruinele Kitionului", "Principalul aeroport internațional", "Al treilea oraș ca mărime"],
       en: ["Finikoudes palm tree promenade", "Ancient city-state of Kition", "Largest international airport", "Third largest city in Cyprus"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -212,6 +221,9 @@ export const cyprusRegions: POI[] = [
       hu: ["UNESCO világörökségi helyszín", "Aphrodité születési helye", "Híres ókori mozaikok", "Európa Kulturális Fővárosa 2017"],
       ro: ["Patrimoniu Mondial UNESCO", "Locul de naștere al Afroditei", "Mozaicuri romane unice", "Capitală Culturală Europeană 2017"],
       en: ["UNESCO World Heritage Site", "Birthplace of Aphrodite", "Intricate Roman mosaics", "European Capital of Culture 2017"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -252,6 +264,9 @@ export const cyprusRegions: POI[] = [
       hu: ["A városfal hossza kb. 3 kilométer, és szinte teljesen ép maradt.", "A Lala Musztafa pasa mecset eredetileg gótikus székesegyház volt.", "Az Othello-torony a legenda szerint Shakespeare-t is megihlette.", "A középkorban Famagusta a világ egyik leggazdagabb városának számított."],
       ro: ["Zidurile orașului au o lungime de 3 km și sunt aproape intacte.", "Moscheea Lala Mustafa Pașa a fost inițial o catedrală gotică.", "Turnul lui Othello ar fi fost sursa de inspirație pentru piesa lui Shakespeare.", "În Evul Mediu, Famagusta era considerată una dintre cele mai bogate cetăți."],
       en: ["The city walls are about 3 kilometers long and remarkably well-preserved.", "The Lala Mustafa Pasha Mosque was originally a Gothic cathedral.", "Othello Tower is said to have inspired Shakespeare's famous play.", "During the Middle Ages, Famagusta was one of the wealthiest cities in the world."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -325,6 +340,9 @@ export const cyprusRegions: POI[] = [
       hu: ["A Nissi Beach-et Európa legszebb strandjai között tartják számon.", "A város központjában álló középkori kolostor 1500 körül épült.", "Ayia Napa az 1970-es évekig csupán egy apró halászfalu volt.", "A település neve magyarul annyit tesz: 'Szent erdő'."],
       ro: ["Plaja Nissi este considerată una dintre cele mai frumoase din Europa.", "Mănăstirea medievală din centrul orașului a fost construită în jurul anului 1500.", "Până în anii 1970, Ayia Napa era doar un mic sat de pescari.", "Numele orașului se traduce prin 'Pădurea Sfântă'."],
       en: ["Nissi Beach is consistently ranked among the most beautiful in Europe.", "The medieval monastery in the town center was built around 1500 AD.", "Ayia Napa remained a small fishing village until the 1970s.", "The name Ayia Napa translates literally to 'Holy Wooded Valley'."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -365,6 +383,9 @@ export const cyprusRegions: POI[] = [
       hu: ["Ókori görög-római színház", "Az Eustolios-ház mozaikjai", "Sziklaszirten fekvő romváros", "4. századi földrengés pusztította"],
       ro: ["Teatru antic greco-roman", "Mozaicurile din Casa Eustolios", "Situat pe o stâncă înaltă", "Distrus de cutremur în secolul IV"],
       en: ["Ancient Greco-Roman theater", "House of Eustolios mosaics", "Founded by Argive colonists", "Ruined by 4th-century earthquakes"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -405,6 +426,9 @@ export const cyprusRegions: POI[] = [
       hu: ["UNESCO világörökségi helyszín", "Hellenisztikus stílusú sírok", "Sziklába vájt udvarok", "Dór oszlopos oszlopcsarnokok"],
       ro: ["Patrimoniu Mondial UNESCO", "Datate din perioada elenistică", "Necropolă săpată în stâncă", "Coloane dorice impresionante"],
       en: ["UNESCO World Heritage Site", "Hellenistic and Roman period", "Rock-cut underground tombs", "Features Doric style columns"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -445,6 +469,9 @@ export const cyprusRegions: POI[] = [
       hu: ["A 13. században épült vár", "A johannita lovagok központja", "Híres a Commandaria borról", "21 méter magas toronnyal rendelkezik"],
       ro: ["Construit în secolul al XIII-lea", "Sediu al Cavalerilor Ioaniți", "Originea vinului Commandaria", "Turnul are 21 de metri înălțime"],
       en: ["Built in the 13th century", "Knights Hospitaller commandery", "Birthplace of Commandaria wine", "Three-story square keep structure"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -485,6 +512,9 @@ export const cyprusRegions: POI[] = [
       hu: ["1816-ban épült a mecset", "Umm Haram nyughelye", "Lárnaka repülőtere közelében", "Zarándokhely Ciprus szigetén"],
       ro: ["Construită în anul 1816", "Mormântul lui Umm Haram", "Lângă lacul sărat Larnaca", "Loc de pelerinaj musulman"],
       en: ["Built in the year 1816", "Tomb of Umm Haram inside", "Located near Larnaca airport", "Major Islamic shrine in Cyprus"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -525,6 +555,9 @@ export const cyprusRegions: POI[] = [
       hu: ["A 11. század végén alapították", "Szent Lukács Mária-ikonja", "1318 méterrel a tengerszint felett", "Makariosz érsek sírhelye itt van"],
       ro: ["Fondată în secolul al XI-lea", "Icoana Maicii Domnului de Sf. Luca", "Situată la 1318 metri altitudine", "Mormântul Arhiepiscopului Makarios III"],
       en: ["Founded in the late 11th century", "Icon painted by Apostle Luke", "Altitude of 1318 meters", "Burial site of Makarios III"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -565,6 +598,9 @@ export const cyprusRegions: POI[] = [
       hu: ["Ciprus egykori fővárosa", "Hatalmas római színház", "Gimnázium és fürdők romjai", "A trójai háború után alapították"],
       ro: ["Fosta capitală a Ciprului", "Teatru roman impunător", "Ruine de băi și gimnaziu", "Fondat după Războiul Troian"],
       en: ["Ancient capital of the island", "Large Roman theater remains", "Complex of baths and gymnasium", "Founded by Teucer of Salamis"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -638,6 +674,9 @@ export const cyprusRegions: POI[] = [
       hu: ["A 9. század végén épült", "Lázár második sírhelye", "Bizánci stílusú épület", "Aranyozott ikonosztáz látható"],
       ro: ["Construită în secolul al IX-lea", "Mormântul Sfântului Lazăr", "Stil arhitectural bizantin", "Iconostas sculptat și aurit"],
       en: ["Built in the late 9th century", "Tomb of Saint Lazarus", "Byzantine architectural style", "Intricate gold-covered iconostasis"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -678,6 +717,9 @@ export const cyprusRegions: POI[] = [
       hu: ["Magassága 1951 méter", "A Troodos-hegység része", "Sípályák üzemelnek télen", "Radar állomás a csúcsán"],
       ro: ["Altitudine de 1951 metri", "Parte din munții Troodos", "Singura zonă de schi din insulă", "Radare militare pe vârf"],
       en: ["Height of 1,951 meters", "Part of Troodos Range", "Skiing available in winter", "British military radar station"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -718,6 +760,9 @@ export const cyprusRegions: POI[] = [
       hu: ["A nemzeti park területe majdnem eléri a 400 hektárt.", "Itt található a híres 'Szerelmesek hídja' nevű természetes sziklaív.", "Túraútvonalak hálózata fut végig a látványos tengerparti vonalon.", "A környék a búvárok és a sziklaugrók egyik kedvelt találkozóhelye."],
       ro: ["Parcul național se întinde pe o suprafață de aproape 400 de hectare.", "Aici se află celebrul 'Pod al Îndrăgostiților', un arc de piatră natural.", "O rețea de trasee de drumeție străbate linia spectaculoasă a coastei.", "Zona este foarte populară printre scufundători și amatorii de salturi."],
       en: ["The national park covers an area of nearly 400 hectares.", "It features the famous 'Love Bridge', a natural limestone sea arch.", "A network of nature trails leads hikers along the dramatic coastline.", "The area is a highly popular spot for divers and cliff jumpers."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -758,6 +803,9 @@ export const cyprusRegions: POI[] = [
       hu: ["A terület megközelítőleg 230 négyzetkilométernyi felszínt ölel fel.", "A távoli strandokon veszélyeztetett tengeri teknősök fészkelnek.", "Ebben a nemzeti parkban több mint 168 különböző madárfaj él.", "A terület nagy része csak terepjáróval vagy gyalogosan közelíthető meg."],
       ro: ["Zona acoperă o suprafață de aproximativ 230 de kilometri pătrați.", "Țestoasele marine protejate cuibăresc pe plajele izolate de aici.", "În acest parc național pot fi observate peste 168 de specii de păsări.", "Accesul este permis în mare parte doar vehiculelor 4x4 sau drumeților."],
       en: ["The area covers a surface of approximately 230 square kilometers.", "Endangered sea turtles nest on the peninsula's secluded beaches.", "There are over 168 different species of birds within this national park.", "Most of the area is accessible only by off-road vehicles or on foot."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -798,6 +846,9 @@ export const cyprusRegions: POI[] = [
       hu: ["Ciprus második legnagyobb sós tava", "Flamingók kedvelt pihenőhelye", "Négy kisebb tóból áll", "Hajdanán sót bányásztak itt"],
       ro: ["Al doilea lac sărat ca mărime", "Loc de iernare pentru flamingo", "Format din patru bazine", "Sursă istorică de sare"],
       en: ["Second largest salt lake in Cyprus", "Winter home for flamingos", "Consists of four distinct lakes", "Historic site for salt harvesting"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -838,6 +889,9 @@ export const cyprusRegions: POI[] = [
       hu: ["A helyi lakosok Petra tou Romiounak, azaz Görög sziklának is hívják.", "A látványos formáció a Páfosz és Limassol közötti parti út mentén fekszik.", "A monda szerint aki háromszor körbeússza a sziklát, örök ifjúságot nyer.", "Az erős áramlatok miatt a szikla körüli úszás nem mindig biztonságos."],
       ro: ["Locul este cunoscut local și sub numele de Petra tou Romiou.", "Formațiunea este situată pe drumul de coastă între Paphos și Limassol.", "Legenda spune că înconjurarea stâncii de trei ori aduce tinerețe veșnică.", "Din cauza curenților puternici, înotul în jurul stâncii nu este recomandat."],
       en: ["The site is also known locally as Petra tou Romiou (Rock of the Greek).", "The iconic formation is located on the coast road between Paphos and Limassol.", "Legend claims that swimming around the rock three times grants eternal youth.", "Due to strong sea currents, swimming around the stack is not advised."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -878,6 +932,9 @@ export const cyprusRegions: POI[] = [
       hu: ["A szurdokot egy patak vize formálta évezredeken keresztül.", "A szurdokon átvezető túraútvonal hossza körülbelül 3 kilométer.", "Itt él a ritka és őshonos Centaurea akamantis nevű növényfaj.", "A kanyon legszűkebb részein a szélesség alig éri el a 10 métert."],
       ro: ["Defileul a fost sculptat de un pârâu pe parcursul a mii de ani.", "Traseul de drumeție prin chei are o lungime de aproximativ 3 kilometri.", "Aici crește planta rară și endemică numită Centaurea akamantis.", "În cele mai înguste puncte, lățimea cheilor este de sub 10 metri."],
       en: ["The gorge was carved out by a stream over thousands of years.", "The hiking trail through the canyon is approximately 3 kilometers long.", "The rare endemic plant Centaurea akamantis grows within the gorge.", "At its narrowest points, the passage is less than 10 meters wide."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -918,6 +975,9 @@ export const cyprusRegions: POI[] = [
       hu: ["500 méter hosszú homokos part", "Gyalogosan elérhető kis sziget", "Kék zászlós minősítés", "Vízi sportok központja"],
       ro: ["500 de metri de nisip fin", "Insulă accesibilă la pas", "Certificat Blue Flag", "Locație populară de petreceri"],
       en: ["500 meters of golden sand", "Walkable islet offshore", "Blue Flag beach status", "Major hub for watersports"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -958,6 +1018,9 @@ export const cyprusRegions: POI[] = [
       hu: ["11 napig tartó ünnepség", "Nagy vasárnapi felvonulás", "Több mint 100 éves hagyomány", "Karnevál Király megkoronázása"],
       ro: ["Sărbătoare de unsprezece zile", "Marea paradă de duminică", "Tradiție de peste un secol", "Încoronarea Regelui Carnaval"],
       en: ["Eleven days of festivities", "Grand parade on the last Sunday", "Century-old cultural tradition", "Coronation of King Carnival"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -999,6 +1062,9 @@ export const cyprusRegions: POI[] = [
       hu: ["Szabadtéri operafesztivál", "A páfoszi vár előtt tartják", "Minden év szeptemberében", "Nemzetközi produkciók"],
       ro: ["Festival de operă în aer liber", "În fața castelului din Paphos", "Se desfășoară în septembrie", "Spectacole internaționale"],
       en: ["Outdoor opera performances", "Held at Paphos Medieval Castle", "Annual event in September", "International cast and orchestras"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -1039,6 +1105,9 @@ export const cyprusRegions: POI[] = [
       hu: ["50 nappal húsvét után tartják", "Az özönvíz ünnepének hívják", "Vízi sportok és versenyek", "Lárnakában a legnépszerűbb"],
       ro: ["Cunoscut ca Sărbătoarea Potopului", "Are loc după Paștele ortodox", "Concursuri de înot și bărci", "Eveniment cultural major pe litoral"],
       en: ["Marks the biblical flood story", "Held 50 days after Easter", "Focuses on water activities", "Main celebrations in Larnaca"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -1079,6 +1148,9 @@ export const cyprusRegions: POI[] = [
       hu: ["Augusztus végén kezdődik", "A városi parkban tartják", "Ciprusi borok kóstolója", "Hagyományos népzenei műsorok"],
       ro: ["Sfârșitul lunii august", "În grădina publică Limassol", "Degustări de vinuri locale", "Muzică și dansuri populare"],
       en: ["Starts late August annually", "Held in Limassol Municipal Garden", "Tasting of local Commandaria", "Traditional Cypriot folk dances"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -1185,6 +1257,9 @@ export const cyprusRegions: POI[] = [
       hu: ["Famagusta városában található", "Shakespeare drámája ihlette", "Velencei stílusú építészet", "Szent Márk oroszlánja a kapun"],
       ro: ["Situat în portul Famagusta", "Legat de piesa lui Shakespeare", "Arhitectură de apărare venețiană", "Basorelief cu leul Sfântului Marcu"],
       en: ["Located in Famagusta port", "Linked to Shakespeare's play", "Venetian military architecture", "Lion of St. Mark carving"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -1225,6 +1300,9 @@ export const cyprusRegions: POI[] = [
       hu: ["A víz olyan tiszta, hogy nagy mélységben is látni lehet a tengerfeneket.", "A lagúna legkönnyebben Latchi kikötőjéből induló hajókkal érhető el.", "A fehér homokos aljzat adja a víz jellegzetes, világítóan kék színét.", "Ez Ciprus egyik legtöbbet fényképezett természeti helyszíne."],
       ro: ["Apa este atât de limpede încât fundul mării este vizibil la mari adâncimi.", "Laguna este accesibilă cel mai ușor cu barca din portul Latchi.", "Fundul mării nisipos îi conferă apei culoarea azurie caracteristică.", "Este unul dintre cele mai fotografiate locuri naturale din întreg Ciprul."],
       en: ["The water is so transparent that the seabed is visible at great depths.", "The lagoon is most easily reached by boat excursions from Latchi harbor.", "The sandy bottom gives the water its distinctively bright turquoise hue.", "It is one of the most photographed natural locations in all of Cyprus."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {

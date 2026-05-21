@@ -647,6 +647,7 @@ export const poiExtraUgandaLifeV2: POI[] = [
       en: ["Lake area: 68,800 km²", "Annual catch: >300,000 tons", "Lake's share of UG fish: 80%", "Key species: Nile perch, tilapia, mukene", "Direct employment: >200,000", "Export ratio: 40% to EU & Middle East"],
       pt: ["Superfície do lago: 68.800 km²", "Captura anual: mais de 300.000 toneladas", "Contribuição do lago para a pesca de UG: 80%", "Espécies de peixes: perca-do-nilo, tilápia, Mukene", "Empregados diretos: mais de 200.000", "Exportação: 40% para a UE e Oriente Médio"],
       fr: ["Superficie du lac : 68 800 km²", "Prise annuelle : plus de 300 000 tonnes", "Contribution du lac à la pêche en Ouganda : 80 %", "Espèces de poissons : perche du Nil, tilapia, Mukene", "Employés directs : plus de 200 000", "Exportation : 40 % vers l'UE et le Moyen-Orient"],
+      es: ["Superficie del lago: 68.800 km²", "Captura anual: más de 300.000 toneladas", "Contribución del lago a la pesca de UG: 80%", "Especies de peces: perca del Nilo, tilapia, Mukene", "Empleados directos: más de 200.000", "Exportación: 40% a la UE y Oriente Medio"],
     },
   },
   {
@@ -718,6 +719,7 @@ export const poiExtraUgandaLifeV2: POI[] = [
       en: ["Pollination rate: 100% manual", "Curing time: 3-6 months", "Organic share: 30%", "Harvest season: June-September", "Average yield: 200 kg/ha", "Number of cooperatives: 15"],
       pt: ["Volume de produção: aprox. 150 toneladas por ano", "Teor de vanilina: 1,5% a 2,5%", "Principais regiões de cultivo: Mukono, Kayunga, Masaka", "Polinização: 100% à mão", "Primeiro ano de cultivo: anos 90", "Tempo de maturação das vagens: 8-9 meses"],
       fr: ["Volume de production : env. 150 tonnes par an", "Teneur en vanilline : 1,5 % à 2,5 %", "Régions de culture majeures : Mukono, Kayunga, Masaka", "Pollinisation : 100 % à la main", "Première année de culture : années 1990", "Temps de maturation des gousses : 8-9 mois"],
+      es: ["Volumen de producción: aprox. 150 toneladas al año", "Contenido de vainillina: 1,5 % a 2,5 %", "Principales regiones de cultivo: Mukono, Kayunga, Masaka", "Polinización: 100 % a mano", "Primer año de cultivo: años 90", "Tiempo de maduración de las vainas: 8-9 meses"],
     },
   },
   {
@@ -825,6 +827,7 @@ export const poiExtraUgandaLifeV2: POI[] = [
       en: ["Average yield: 2.5 t/ha", "Major varieties: Longe 5, 7, DH10", "Aflatoxin prevalence: high", "Conservation agriculture adoption: growing", "Number of smallholder farmers: 2 million", "Maize millers: 3,000 small-scale units"],
       pt: ["Área de cultivo: 1,2 milhões de hectares", "Produção anual: 3,5 milhões de toneladas", "Rendimento médio: 1,5-3 t/ha", "Zonas principais: Tororo, Busia, Kayunga", "Perdas por gorgulho: até 30%", "Variedades híbridas: Longe 5, Longe 7"],
       fr: ["Surface cultivée : 1,2 million d'hectares", "Production annuelle : 3,5 millions de tonnes", "Rendement moyen : 1,5-3 t/ha", "Zones principales : Tororo, Busia, Kayunga", "Pertes dues aux charançons : jusqu'à 30 %", "Variétés hybrides : Longe 5, Longe 7"],
+      es: ["Superficie de cultivo: 1,2 millones de hectáreas", "Producción anual: 3,5 millones de toneladas", "Rendimiento medio: 1,5-3 t/ha", "Zonas principales: Tororo, Busia, Kayunga", "Pérdidas por gorgojo: hasta 30%", "Variedades híbridas: Longe 5, Longe 7"],
     },
   },
   {
@@ -860,6 +863,7 @@ export const poiExtraUgandaLifeV2: POI[] = [
       en: ["Growing seasons: 2 per year", "Post-harvest loss: 20%", "Screenhouse production: minitubers", "Resistant varieties: Mpologoma, Nkumba", "Processing demand: fast-food sector", "Storage technology: diffused light storage"],
       pt: ["Área de cultivo: 150.000 hectares", "Produção anual: 500.000 toneladas", "Rendimento médio: 10-15 t/ha", "Altitude de cultivo: 1.500-3.000 m s.n.m.", "Variedades principais: Victoria, Cruza", "Zonas de cultivo principais: Kabale, Kisoro"],
       fr: ["Surface cultivée : 150 000 hectares", "Production annuelle : 500 000 tonnes", "Rendement moyen : 10-15 t/ha", "Altitude de culture : 1 500-3 000 m au-dessus du niveau de la mer", "Variétés principales : Victoria, Cruza", "Zones de culture principales : Kabale, Kisoro"],
+      es: ["Superficie de cultivo: 150.000 hectáreas", "Producción anual: 500.000 toneladas", "Rendimiento medio: 10-15 t/ha", "Altitud de cultivo: 1.500-3.000 m s.n.m.", "Variedades principales: Victoria, Cruza", "Zonas de cultivo principales: Kabale, Kisoro"],
     },
   },
   {
@@ -931,6 +935,7 @@ export const poiExtraUgandaLifeV2: POI[] = [
       en: ["Area: 30 km²", "Bird species: 200+", "Mammals: zebras, impalas, monkeys", "Management: Uganda Wildlife Authority", "Access: 10 km from Jinja", "Habitat: savannah and wetlands"],
       pt: ["Tamanho da área protegida: 3.000 hectares", "Ano de fundação: 1950", "Espécies de aves: mais de 200", "Altitude acima do nível do mar: 1.100 m", "Salinidade da água: água doce", "Cidade mais próxima: Jinja (10 km)"],
       fr: ["Taille de la zone protégée : 3 000 hectares", "Année de fondation : 1950", "Espèces d'oiseaux : plus de 200", "Altitude au-dessus du niveau de la mer : 1 100 m", "Salinité de l'eau : eau douce", "Ville la plus proche : Jinja (10 km)"],
+      es: ["Tamaño del área protegida: 3.000 hectáreas", "Año de fundación: 1950", "Especies de aves: más de 200", "Altitud sobre el nivel del mar: 1.100 m", "Salinidad del agua: agua dulce", "Ciudad más cercana: Jinja (10 km)"],
     },
   },
   {
@@ -993,6 +998,7 @@ export const poiExtraUgandaLifeV2: POI[] = [
       en: "The Katonga Wildlife Reserve, located in western Uganda, is a unique protected area characterized by its swampy landscape dominated by the Katonga River. Established in 1998, the reserve covers an area of 207 square kilometers, protecting a mosaic of wetlands, savanna, and riverine forest. This habitat diversity supports a rich array of wildlife, although many of the larger mammal populations were decimated by past poaching. Today, stocks are recovering, and the reserve is known for elusive species like the sitatunga antelope, which is perfectly adapted to the swampy terrain. Other residents include elephants, waterbucks, bushbucks, and over 150 bird species, with many water-dependent species. The reserve's distinctive feature lies in its activities: as roads are limited, exploration is often conducted on foot or by canoe, offering a more intimate and adventurous safari experience.",
       pt: "A Reserva de Vida Selvagem de Katonga está localizada no sul de Uganda, ao longo do rio Katonga. Abrange 211 quilômetros quadrados e inclui pântanos, florestas e pastagens. A reserva foi fundada em 1964. Abriga uma fauna diversificada, incluindo elefantes, búfalos, cobos e mais de 300 espécies de aves. O rio Katonga é um importante corredor de vida selvagem entre o Lago Vitória e as florestas do oeste. Os visitantes podem desfrutar de passeios de canoa e caminhadas. A população de elefantes africanos é de cerca de 100 animais. A reserva sofre com a caça furtiva e a perda de habitat devido à expansão agrícola. Existem programas de reflorestamento e proteção de pântanos.",
       fr: "La réserve faunique de Katonga est située dans le sud de l'Ouganda, le long de la rivière Katonga. Elle s'étend sur 211 kilomètres carrés et comprend des zones humides, des forêts et des prairies. La réserve a été fondée en 1964. Elle abrite une faune diversifiée, notamment des éléphants, des buffles, des cobes et plus de 300 espèces d'oiseaux. La rivière Katonga est un corridor important pour la faune entre le lac Victoria et les forêts de l'ouest. Les visiteurs peuvent faire du canoë et de la randonnée. La population d'éléphants d'Afrique est d'environ 100 individus. La réserve souffre du braconnage et de la perte d'habitat due à l'expansion agricole. Il existe des programmes de reforestation et de protection des zones humides.",
+      es: "La Reserva de Vida Silvestre de Katonga se encuentra en el sur de Uganda, a lo largo del río Katonga. Abarca 211 kilómetros cuadrados e incluye humedales, bosques y pastizales. La reserva se fundó en 1964. Alberga una fauna diversa, como elefantes, búfalos, antílopes acuáticos y más de 300 especies de aves. El río Katonga es un corredor importante para la fauna entre el lago Victoria y los bosques del oeste. Los visitantes pueden realizar paseos en canoa y senderismo. La población de elefantes africanos es de unos 100 ejemplares. La reserva sufre la caza furtiva y la pérdida de hábitat debido a la expansión agrícola. Existen programas de reforestación y protección de los humedales.",
     },
     factsAdvanced: {
       de: ["Gegründet im Jahr 1998.", "Umfasst eine Fläche von 207 Quadratkilometern.", "Der Katonga-Fluss ist etwa 220 Kilometer lang.", "Beherbergt über 150 Vogelarten.", "Es gibt mindestens 40 Säugetierarten im Reservat.", "Kanusafaris sind eine der Hauptattraktionen."],

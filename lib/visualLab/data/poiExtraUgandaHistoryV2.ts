@@ -527,6 +527,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       en: ["Age: over 400 years.", "Circumference: over 30 meters.", "Height: 20 meters.", "Species: Ficus natalensis.", "National monument since 1996.", "Annual visitors: 50,000."],
       pt: ["Idade: mais de 400 anos.", "Circunferência: mais de 30 metros.", "Altura: 20 metros.", "Espécie: Ficus natalensis.", "Monumento nacional desde 1996.", "Número de visitantes: 50.000 por ano."],
       fr: ["Âge : plus de 400 ans.", "Circonférence : plus de 30 mètres.", "Hauteur : 20 mètres.", "Espèce : Ficus natalensis.", "Monument national depuis 1996.", "Nombre de visiteurs : 50 000 par an."],
+      es: ["Edad: más de 400 años.", "Circunferencia: más de 30 metros.", "Altura: 20 metros.", "Especie de árbol: Ficus natalensis.", "Monumento nacional desde 1996.", "Número de visitantes: 50.000 al año."],
     },
   },
   {

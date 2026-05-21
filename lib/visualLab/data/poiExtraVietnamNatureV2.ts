@@ -47,6 +47,7 @@ export const poiExtraVietnamNatureV2: POI[] = [
       en: ["Establishment: Officially declared a national park in 1992", "Lake depth: Reaches a maximum depth of 35 meters", "Total area: Covers approximately 7,610 hectares of land", "Recognition: Designated as a Ramsar site in 2011", "Elevation: The lake is situated 145 meters above sea level", "Species: Home to the rare and endemic Tonkin snub-nosed monkey"],
       pt: ["Um dos maiores lagos naturais de água doce do Vietnã.", "A região inclui uma extensa cordilheira cárstica.", "Lar do macaco-de-nariz-arrebitado-de-tonquim, em perigo crítico.", "Local importante para intercâmbio cultural com minorias étnicas.", "O parque foi oficialmente designado como parque nacional em 1992.", "Inúmeras grutas e cascatas caracterizam o terreno."],
       fr: ["L'un des plus grands lacs naturels d'eau douce du Vietnam.", "La région comprend un vaste massif karstique.", "Abrite le rhinopithèque du Tonkin, une espèce gravement menacée.", "Lieu important pour les échanges culturels avec les minorités ethniques.", "Le parc a été officiellement désigné parc national en 1992.", "De nombreuses grottes et cascades caractérisent le terrain."],
+      es: ["Uno de los lagos naturales de agua dulce más grandes de Vietnam.", "La región incluye una extensa cordillera kárstica.", "Hogar del mono de nariz chata de Tonkín, en peligro crítico.", "Lugar importante para el intercambio cultural con minorías étnicas.", "El parque fue designado oficialmente como parque nacional en 1992.", "Numerosas cuevas y cascadas caracterizan el terreno."],
     },
   },
   {
@@ -190,6 +191,7 @@ export const poiExtraVietnamNatureV2: POI[] = [
       en: ["Legend: Named after King Le Loi's 15th-century victory", "Icon: The Turtle Tower was constructed around 1886", "Shrine: Ngoc Son Temple dates back to the 18th century", "Bridge: The red Huc Bridge was first built in 1865", "Pedestrian Zone: Surroundings close to traffic every weekend", "Fauna: Formerly home to the near-extinct Hoan Kiem turtle"],
       pt: ["Um lago histórico no coração de Hanói, conhecido como o 'Lago da Espada Devolvida'.", "Localizado no território da República Socialista do Vietnã.", "Desempenha um papel na identidade local da região."],
       fr: ["Un lac historique au cœur de Hanoï, connu sous le nom de 'Lac de l'Épée restituée'.", "Situé sur le territoire de la République socialiste du Vietnam.", "Joue un rôle dans l'identité locale de la région."],
+      es: ["Un lago histórico en el centro de Hanói, conocido como el 'Lago de la Espada Restituida'.", "Situado en el territorio de la República Socialista de Vietnam.", "Juega un papel fundamental en la identidad local de la capital."],
     },
   },
   {
@@ -321,6 +323,7 @@ export const poiExtraVietnamNatureV2: POI[] = [
       en: ["Length: The river spans a total distance of about 80 kilometers", "Name: Inspired by fragrant flowers floating from upstream forests", "Path: Flows directly past the historic Imperial City of Hue", "Landmarks: Home to the iconic seven-story Thien Mu Pagoda", "Activities: Famous for sightseeing tours on traditional dragon boats", "Destination: Empties into the South China Sea at the Thuan An inlet"],
       pt: ["Um rio que flui pela cidade de Huế, nomeado pelas flores perfumadas no outono.", "Localizado no território da República Socialista do Vietnã.", "Desempenha um papel na identidade local da região."],
       fr: ["Une rivière qui traverse la ville de Hué, nommée d'après les fleurs parfumées en automne.", "Situé sur le territoire de la République socialiste du Vietnam.", "Joue un rôle dans l'identité locale de la région."],
+      es: ["Un río que atraviesa Huế, nombrado por las flores fragantes de los huertos en otoño.", "Situado en el territorio de la República Socialista de Vietnam.", "Juega un papel fundamental en la identidad local de la región."],
     },
   },
   {

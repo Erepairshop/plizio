@@ -253,6 +253,7 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       en: ["Area size: Approximately 4,375 hectares", "Maximum altitude: Over 3,700 meters above sea level", "Established in: 2009", "Endemic species: Habitat for the Ethiopian wolf and Gelada baboon", "Location: South Wollo Zone, Amhara Region", "Climatic zone: Afro-alpine with frequent frost"],
       pt: ["Área: cerca de 4.375 hectares", "Altitude máxima: Mais de 3.700 metros acima do nível do mar", "Ano de fundação: 2009 (como parque nacional)", "Endemismos: Habitat do lobo etíope e do babuíno Gelada", "Localização: Zona administrativa de Wollo do Sul, região de Amhara", "Zona climática: Zona afro-alpina com noites de geada"],
       fr: ["Superficie : environ 4 375 hectares", "Altitude maximale : plus de 3 700 mètres au-dessus du niveau de la mer", "Année de fondation : 2009 (en tant que parc national)", "Endémisme : habitat du loup d'Éthiopie et du babouin gélada", "Localisation : zone administrative du Wollo Sud, région d'Amhara", "Zone climatique : zone afro-alpine avec des nuits de gel"],
+      es: ["Superficie: aprox. 4.375 hectáreas", "Altitud máxima: más de 3.700 metros sobre el nivel del mar", "Año de fundación: 2009 (como parque nacional)", "Endemismos: Hábitat del lobo etíope y del babuino Gelada", "Ubicación: Zona administrativa Wollo del Sur, región de Amhara", "Zona climática: Zona afroalpina con noches de heladas"],
     }, image: "/poi-images/borena-saynt-habitat-life-v2.webp"},
   {
     id: "guassa-habitat-life-v2",

@@ -421,6 +421,7 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       en: ["Established in 2010", "Area: 30 hectares", "Over 1,000 juvenile caimans tagged", "Reduction in poaching: 80%", "Annual visitors: 800", "Bird species: over 200"],
       pt: ["Fundado em 2010", "Área: 30 hectares", "Redução da caça furtiva em 80%", "Mais de 1.000 crias marcadas desde a fundação", "Abriga mais de 200 espécies de aves", "800 visitantes anuais"],
       fr: ["Fondé en 2010", "Superficie : 30 hectares", "Réduction du braconnage de 80 %", "Plus de 1 000 jeunes marqués depuis la fondation", "Abrite plus de 200 espèces d'oiseaux", "800 visiteurs par an"],
+      es: ["Fundado en 2010", "Superficie: 30 hectáreas", "Reducción de la caza furtiva en un 80%", "Más de 1.000 juveniles marcados desde su fundación", "Alberga más de 200 especies de aves", "800 visitantes anuales"],
     },
   }, {
     id: "mapari-wilderness-life-v2",

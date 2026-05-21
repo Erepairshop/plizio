@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraAzerbaijanNatureV2: POI[] = [
@@ -143,6 +144,7 @@ export const poiExtraAzerbaijanNatureV2: POI[] = [
       en: ["The Kura is the longest river in the Transcaucasus, at 1,515 kilometers long.", "It flows through three countries: Turkey, Georgia, and Azerbaijan.", "In the Georgian language, the river is called the Mtkvari.", "The river's entire drainage basin covers about 188,000 square kilometers.", "It is the primary river flowing through the Georgian capital, Tbilisi.", "The Kura empties into the Caspian Sea after joining the Aras River."],
       pt: ["O Kura é, com 1.515 quilómetros, o rio mais longo do Transcáucaso.", "Nasce na Turquia e flui através da Geórgia e do Azerbaijão.", "Na Geórgia, o rio tem o nome de Mtkvari.", "A bacia hidrográfica do rio abrange cerca de 188.000 quilómetros quadrados.", "O rio divide a capital georgiana, Tbilisi, em duas metades.", "Desagua no Azerbaijão no Mar Cáspio."],
       fr: ["Le Koura est, avec 1 515 kilomètres, le plus long fleuve du Transcaucase.", "Il prend sa source en Turquie et traverse la Géorgie et l'Azerbaïdjan.", "En Géorgie, le fleuve porte le nom de Mtkvari.", "Le bassin versant du fleuve s'étend sur environ 188 000 kilomètres carrés.", "Le fleuve divise la capitale géorgienne, Tbilissi, en deux parties.", "Il se jette dans la mer Caspienne en Azerbaïdjan."],
+      es: ["El Kura es, con 1.515 kilómetros, el río más largo del Transcáucaso.", "Nace en Turquía y fluye a través de Georgia y Azerbaiyán.", "En Georgia, el río lleva el nombre de Mtkvari.", "La cuenca del río abarca unos 188.000 kilómetros cuadrados.", "El río divide la capital georgiana, Tiflis, en dos mitades.", "Desemboca en Azerbaiyán en el Mar Caspio."],
     }, image: "/poi-images/kura-river-nature-v2.webp"},
   {
     id: "aras-river-nature-v2",

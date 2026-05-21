@@ -140,6 +140,7 @@ export const poiExtraCameroonNatureV2: POI[] = [
       en: ["The Logone is divided into two main branches: Logone Occidental and Logone Oriental.", "The Yaéré plains cover an area of approximately 8,000 square kilometers.", "The river is navigable for small boats as far as Bongor during the rainy season.", "The Logone forms the state border between Cameroon and Chad over long stretches.", "Musgum houses (Tolek) in the Logone valley are famous for their shell-like shape.", "Over 50,000 tons of fish are caught annually in the Logone floodplains."],
       pt: ["Rio fronteiriço com o Chade.", "Importante fonte de água para a planície de Waza.", "Essencial para a manutenção das zonas húmidas no norte.", "Significativo para a irrigação agrícola.", "Habitat de numerosas espécies de aves aquáticas.", "Importante corredor na zona seca do Sahel."],
       fr: ["Rivière frontalière avec le Tchad.", "Source d'eau importante pour la plaine de Waza.", "Essentiel au maintien des zones humides du nord.", "Important pour l'irrigation agricole.", "Habitat de nombreuses espèces d'oiseaux aquatiques.", "Couloir important dans la zone sèche du Sahel."],
+      es: ["Río fronterizo con Chad.", "Importante fuente de agua para la llanura de Waza.", "Esencial para el mantenimiento de los humedales del norte.", "Significativo para el riego agrícola.", "Hábitat de numerosas especies de aves acuáticas.", "Importante corredor en la zona seca del Sahel."],
     }, image: "/poi-images/logone-river-nature-v2.webp"},
   {
     id: "nkam-river-nature-v2",

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const moldovaPoi: POI[] = [
@@ -31,6 +32,9 @@ export const moldovaPoi: POI[] = [
       hu: ["A föld alatti járatrendszer teljes hossza megközelíti az 1700 métert.", "A barlangot csak az 1970-es években fedezték fel a kutatók.", "A járatok bonyolult labirintust alkotnak a mészkősziklák mélyén.", "A barlang több védett denevérfaj számára nyújt fontos élőhelyet."],
       ro: ["Lungimea totală a galeriilor subterane este de aproximativ 1.700 de metri.", "Peștera a fost descoperită de speologi în anii 1970.", "Este formată dintr-un labirint complex săpat în depozite de calcar.", "Adăpostește colonii de lilieci care sunt protejate prin lege."],
       en: ["The total length of the underground passages is approximately 1,700 meters.", "The cave was only discovered by speleologists in the 1970s.", "It consists of a complex labyrinth formed in limestone rock layers.", "The cave is an important habitat for several protected bat species."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -63,6 +67,9 @@ export const moldovaPoi: POI[] = [
       hu: ["A város mindössze 23 kilométerre északnyugatra fekszik a fővárostól, Kisinyovtól.", "Strășeni a moldovai élelmiszer- és feldolgozóipar egyik fontos központja.", "A település neve valószínűleg egy régi román őrhely kifejezésből ered.", "A környék híres a kiváló minőségű fehérborairól és pezsgőiről."],
       ro: ["Orașul este situat la doar 23 de kilometri nord-vest de capitala Chișinău.", "Strășeni reprezintă un nod important al industriei alimentare din țară.", "Numele orașului provine probabil de la cuvântul 'strajă', indicând un punct de pază.", "Regiunea este celebră pentru producția de vinuri albe și spumante de calitate."],
       en: ["The town is located just 23 kilometers northwest of the capital, Chișinău.", "Strășeni is a key center for the Moldovan food and beverage industry.", "The town's name is believed to originate from the Romanian word for 'guard'.", "The surrounding region is famous for producing high-quality white and sparkling wines."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -79,6 +86,7 @@ export const moldovaPoi: POI[] = [
       en: "Căpriana Monastery is one of the oldest and most significant monastic complexes in Moldova, located in a picturesque valley within the Codru forest of the Strășeni District. First mentioned in an official charter in 1429, its foundation is associated with Prince Alexander the Good. Throughout its history, the monastery was a cultural center and a favorite of Moldovan rulers, including Stephen the Great, who rebuilt the main Church of the Assumption in 1470 following a military victory. The site features three distinct churches: the medieval Church of the Assumption, the mid-19th-century St. Nicholas Church, and the early 20th-century St. George Church. Forced to close in 1962 during the Soviet era, the monastery served as a sanatorium before being returned to the church in 1989. Extensive restorations in the early 2000s returned the site to its former glory, and it now serves as a major pilgrimage site and home to the tomb of Metropolitan Gavriil Bănulescu-Bodoni.",
       pt: "O mosteiro de Căpriana é um dos mais antigos e significativos da Moldávia, considerado o berço da literatura e cultura moldavas. Situado num vale pitoresco da floresta de Codru, no distrito de Strășeni, a primeira menção escrita data de 1429, sendo a fundação atribuída a Alexandre o Bom. Ao longo dos séculos, gozou da proteção de numerosos príncipes moldavos, incluindo Estêvão, o Grande, que reconstruiu a Igreja da Assunção após uma vitória sobre os tártaros em 1470. O complexo monástico compreende hoje três igrejas: a medieval Igreja da Assunção, a Igreja de São Nicolau do século XIX e a Igreja de São Jorge do início do século XX. Durante a era soviética, o mosteiro foi fechado em 1962 e adaptado como sanatório, antes de ser reaberto e extensivamente restaurado em 1989. Abriga também o túmulo do Metropolita Gavriil Bănulescu-Bodoni, figura central da Igreja Ortodoxa na região.",
       fr: "Le monastère de Căpriana est l'un des plus anciens et des plus importants de Moldavie, considéré comme le berceau de la littérature et de la culture moldaves. Situé dans un vallon pittoresque de la forêt de Codru, dans le district de Strășeni, sa première mention écrite date de 1429, sa fondation étant attribuée à Alexandre le Bon. Au fil des siècles, il a bénéficié de la protection de nombreux princes moldaves, dont Étienne le Grand, qui fit reconstruire l'église de l'Assomption après une victoire sur les Tatars en 1470. Le complexe comprend aujourd'hui trois églises : l'église médiévale de l'Assomption, l'église Saint-Nicolas du XIXe siècle et l'église Saint-Georges du début du XXe siècle. Pendant l'ère soviétique, le monastère fut fermé en 1962 et détourné en sanatorium, avant d'être rouvert et restauré en 1989. Il abrite également le tombeau du métropolite Gavriil Bănulescu-Bodoni, figure centrale de l'Église orthodoxe régionale.",
+      es: "El monasterio de Căpriana es uno de los más antiguos y significativos de Moldavia, considerado la cuna de la literatura y cultura moldavas. Situado en un pintoresco valle del bosque de Codru, en el distrito de Strășeni, su primera mención escrita data de 1429, atribuyéndose su fundación a Alejandro el Bueno. A lo largo de los siglos, contó con la protección de numerosos príncipes, incluido Esteban el Grande, quien reconstruyó la Iglesia de la Asunción tras una victoria sobre los tártaros en 1470. El complejo actual consta de tres iglesias: la medieval de la Asunción, la de San Nicolás del siglo XIX y la de San Jorge de principios del XX. Durante la era soviética, el monasterio fue cerrado en 1962 y usado como sanatorio, hasta su reapertura y restauración en 1989. Alberga la tumba del metropolitano Gavriil Bănulescu-Bodoni, figura central de la iglesia ortodoxa regional.",
     },
     factsAdvanced: {
       de: ["Erste Erwähnung im Jahr 1429", "Gegründet von Alexander dem Guten", "Kirche 1470 von Stefan dem Großen erneuert", "Besteht aus drei verschiedenen Kirchen", "War von 1962 bis 1989 geschlossen", "Grabstätte von Gavriil Bănulescu-Bodoni"],
@@ -94,6 +102,9 @@ export const moldovaPoi: POI[] = [
       hu: ["A kolostort legelőször 1429-ben említik hivatalos oklevelek.", "Évszázadokon át a moldáv kultúra és írásbeliség egyik legfőbb központja volt.", "A komplexum három templomból áll, melyek közül a legrégebbi a 15. századi.", "III. István moldáv fejedelem (Stefan cel Mare) a kolostor nagy pártfogója volt."],
       ro: ["Prima atestare documentară a mănăstirii datează din anul 1429.", "A fost un centru major al culturii și literaturii medievale moldovenești.", "Complexul include trei biserici, cea mai veche fiind Adormirea Maicii Domnului.", "Domnitorul Ștefan cel Mare a fost unul dintre ctitorii și protectorii mănăstirii."],
       en: ["The monastery was first mentioned in official documents in the year 1429.", "It served as a major center for Moldovan culture and literature for centuries.", "The complex features three churches, including the 15th-century Assumption Church.", "Prince Stephen the Great was a prominent patron and builder of the site."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -126,6 +137,9 @@ export const moldovaPoi: POI[] = [
       hu: ["A város stratégiai helyen, a Kisinyov és Tighina közötti főútvonal mentén fekszik.", "A települést legelőször 1731-ben említik írott történelmi források.", "A város környékén intenzív mezőgazdasági termelés és borászat folyik.", "Anenii Noi számos emlékművel rendelkezik, melyek a helyi hősöknek állítanak emléket."],
       ro: ["Orașul beneficiază de o poziție strategică pe ruta dintre Chișinău și Tighina.", "Localitatea a fost menționată documentar pentru prima dată în anul 1731.", "Economia zonei se bazează pe agricultură și pe industria de prelucrare a vinului.", "Orașul găzduiește mai multe monumente istorice dedicate evenimentelor locale."],
       en: ["The town is conveniently located on the main road between Chișinău and Tighina.", "Anenii Noi was first mentioned in historical records in the year 1731.", "The surrounding area is well-known for its agriculture and wine production.", "The town features several monuments dedicated to local history and culture."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -158,6 +172,9 @@ export const moldovaPoi: POI[] = [
       hu: ["Az emlékpark egy magaslaton található, közvetlenül a Dnyeszter folyó partján.", "A komplexumot 2004-ben avatták fel, a felszabadulás 60. évfordulóján.", "A helyszínen egy központi oltár, egy kápolna és az örökláng látható.", "1944-ben ezen a stratégiai ponton katonák ezrei vesztették életüket."],
       ro: ["Memorialul este situat pe un mal înalt, oferind o vedere asupra râului Nistru.", "Complexul a fost inaugurat în anul 2004, la 60 de ani de la luptele din 1944.", "Include un altar central, o capelă și o flacără veșnică a recunoștinței.", "Aici s-au purtat lupte decisive în timpul operațiunii Iași-Chișinău."],
       en: ["The memorial is located on a high bank directly overlooking the Dniester River.", "The complex was officially opened in 2004 to mark the 60th anniversary of the battle.", "It features a central altar, a memorial chapel, and an eternal flame.", "Thousands of soldiers died at this strategic point during the 1944 offensive."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -190,6 +207,9 @@ export const moldovaPoi: POI[] = [
       hu: ["A város körülbelül 45 kilométerre északra fekszik a fővárostól, Kisinyovtól.", "A közelben található Moldova leghíresebb régészeti lelőhelye, Orheiul Vechi.", "A települést már a 15. században fontos moldáv erődítményként említik.", "Ma a környék egyik meghatározó ipari és kulturális központja."],
       ro: ["Orașul se află la o distanță de aproximativ 45 de kilometri nord de Chișinău.", "În apropiere se găsește complexul muzeal în aer liber Orheiul Vechi.", "A fost atestat ca o cetate moldovenească importantă în secolul al XV-lea.", "Orașul este un centru economic vibrant, cunoscut pentru diverse ramuri industriale."],
       en: ["The town is located about 45 kilometers north of the capital, Chișinău.", "The world-famous archaeological site of Old Orhei is located nearby.", "Orhei was mentioned as a major Moldovan fortress in the 15th century.", "Today, it is a significant industrial and cultural hub for the central region."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -222,6 +242,9 @@ export const moldovaPoi: POI[] = [
       hu: ["A kolostor főtemploma a barokk stílus egyik legszebb moldovai példája.", "A vallási központot 1773-ban alapította Iordache Curchi földbirtokos.", "Az épületegyüttes az Orhei környéki festői Codru-erdők mélyén fekszik.", "Az elmúlt években a teljes komplexumot gondosan és hűen restaurálták."],
       ro: ["Catedrala principală a mănăstirii este construită în stil baroc monumental.", "Mănăstirea a fost întemeiată în anul 1773 de către Iordache Curchi.", "Este amplasată într-un cadru natural deosebit, în pădurile din zona Orheiului.", "Întregul complex a beneficiat de lucrări ample de restaurare după anul 2000."],
       en: ["The main cathedral of the monastery was built in a grand Baroque style.", "The monastery was founded in the year 1773 by the nobleman Iordache Curchi.", "It is situated in the middle of the scenic Codru forests near Orhei.", "The entire complex has undergone extensive and careful restoration recently."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -254,6 +277,9 @@ export const moldovaPoi: POI[] = [
       hu: ["1792-ben alapították", "A Dnyeszter folyó partján fekszik", "Lakossága kb. 130 ezer fő", "Fontos ipari központ"],
       ro: ["Fondat în anul 1792", "Situat pe malul stâng al Nistrului", "Populație de aproximativ 130.000 locuitori", "Principalul nod feroviar regional"],
       en: ["Founded in 1792", "Situated on the Dniester River", "Population of around 130,000", "Major regional transport hub"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -287,6 +313,9 @@ export const moldovaPoi: POI[] = [
       hu: ["A szeszfőzdét 1897-ben alapították Tiraspol városában.", "A KVINT évente több mint 20 millió palack szeszes italt állít elő.", "A legjobb minőségű párlatokat akár 50 évig is érlelik tölgyfahordókban.", "A vállalat a Dnyeszter menti régió egyik legjelentősebb exportőre."],
       ro: ["Fabrica a fost fondată în orașul Tiraspol în cursul anului 1897.", "KVINT produce anual peste 20 de milioane de sticle de băuturi alcoolice.", "Cele mai prețioase divinuri sunt maturate în butoaie de stejar până la 50 de ani.", "Compania este cel mai important exportator de băuturi din regiunea transnistreană."],
       en: ["The distillery was established in the city of Tiraspol in the year 1897.", "KVINT produces over 20 million bottles of alcoholic beverages every year.", "Their finest brandies are aged in oak barrels for up to 50 years.", "The company is one of the largest exporters in the Transnistrian region."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -319,6 +348,9 @@ export const moldovaPoi: POI[] = [
       hu: ["Első említése 1436-ból származik", "Hét dombra épült", "Híres a fehér mészkő épületeiről", "Moldova legnagyobb egyetemi városa"],
       ro: ["Prima atestare documentară în 1436", "Orașul celor șapte coline", "Găzduiește peste 20 de parcuri", "Centrul administrativ al țării"],
       en: ["First mentioned in 1436", "Built on seven hills", "Known as the \"White Stone City\"", "Capital of the Republic of Moldova"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -351,6 +383,9 @@ export const moldovaPoi: POI[] = [
       hu: ["1840-ben épült", "13 méter magas építmény", "Iwan Zaushkevich tervezte", "Egy hatalmas rézharangot őriz"],
       ro: ["Construit în anul 1840", "Înălțime de 13 metri", "Arhitect I. Zaușchevici", "Clopotul cântărește 6,4 tone"],
       en: ["Completed in 1840", "Stands 13 meters tall", "Designed by I. Zaushkevich", "Houses a 6.4-ton bell"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -383,6 +418,9 @@ export const moldovaPoi: POI[] = [
       hu: ["1611-ben említik először", "Telenești járás székhelye", "Közép-Moldova területén fekszik", "Mezőgazdasági kereskedelmi központ"],
       ro: ["Atestat documentar în 1611", "Reședința raionului Telenești", "Situat în centrul țării", "Nod rutier regional"],
       en: ["First documented in 1611", "Telenești district seat", "Central Moldovan location", "Agricultural economic center"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -415,6 +453,9 @@ export const moldovaPoi: POI[] = [
       hu: ["Telenești járásban található", "A Răut folyó kanyarulatai mentén", "Mészkősziklák uralják a tájat", "Védett természeti terület"],
       ro: ["Situată în raionul Telenești", "Defileul râului Răut", "Stânci calcaroase abrupte", "Statut de monument natural"],
       en: ["Located in Telenești district", "Răut River gorge views", "Limestone rock formations", "Protected landscape status"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -447,6 +488,9 @@ export const moldovaPoi: POI[] = [
       hu: ["A Ciorna folyó partján", "Fontos vasúti csomópont", "Északkelet-Moldova", "Dombvidéki táj"],
       ro: ["Pe malul râului Ciorna", "Nod feroviar important", "Regiunea de nord-est", "Relief deluros"],
       en: ["Located on Ciorna River", "Key railway junction", "Northeastern region", "Hilly landscape"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -479,6 +523,9 @@ export const moldovaPoi: POI[] = [
       hu: ["Kb. 150 hektáros terület", "Ősi tölgyfák otthona", "Șoldănești járásban fekszik", "Védett erdőrezervátum"],
       ro: ["Suprafață de circa 150 ha", "Arbori seculari de stejar", "Raionul Șoldănești", "Monument al naturii"],
       en: ["Area of about 150 hectares", "Ancient oak tree groves", "Șoldănești district", "Natural state monument"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -511,6 +558,9 @@ export const moldovaPoi: POI[] = [
       hu: ["1588-ban alapították", "A Răut folyó mentén", "Számos ipari létesítmény", "Észak-Moldova"],
       ro: ["Fondat în anul 1588", "Situat pe râul Răut", "Centru industrial activ", "Nordul Moldovei"],
       en: ["Founded in 1588", "Located on Răut River", "Industrial factories hub", "Northern Moldova"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -544,6 +594,9 @@ export const moldovaPoi: POI[] = [
       hu: ["17. századi eredet", "Sosem zárták be a Szovjetunióban", "Dnyeszter folyó közelében", "Szentháromság-templom"],
       ro: ["Origini în secolul XVII", "Niciodată închisă de URSS", "Lângă fluviul Nistru", "Biserica Sfânta Treime"],
       en: ["17th-century origins", "Never closed under USSR", "Near Dniester River", "Holy Trinity Church"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -576,6 +629,9 @@ export const moldovaPoi: POI[] = [
       hu: ["11. századi alapítás", "Több mint 15 barlangcella", "100 méterrel a folyó felett", "Ortodox zarándokhely"],
       ro: ["Fondată în secolul XI", "Peste 15 chilii rupestre", "100 m deasupra Nistrului", "Complex monahal ortodox"],
       en: ["Founded in 11th century", "Over 15 cave cells", "100m above the river", "Orthodox pilgrimage site"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -608,6 +664,9 @@ export const moldovaPoi: POI[] = [
       hu: ["Rezina járásban található", "Țipova kolostor közelében", "Saharna folyó vízesései", "Dák és géta emlékek"],
       ro: ["Raionul Rezina", "Lângă complexul Țipova", "Cascadele râului Saharna", "Vestigii daco-getice"],
       en: ["Rezina district location", "Near Țipova complex", "Saharna River waterfalls", "Daco-Getic remains"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   }
 ];

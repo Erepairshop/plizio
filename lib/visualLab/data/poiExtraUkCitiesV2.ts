@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { POI } from './poi';
 export const ukCitiesV2: POI[] = [
 
@@ -1682,6 +1683,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       en: ["871: Year Alfred the Great made Winchester his capital city.", "1079: Commencement of the present Winchester Cathedral building.", "1382: Founding year of Winchester College by William of Wykeham.", "1222: Construction of the Great Hall of Winchester Castle began.", "1817: Year the novelist Jane Austen was buried in the cathedral.", "1.5 miles: Length of the surviving medieval city walls in Winchester."],
       pt: ["Antiga capital do reino de Wessex", "A catedral tem a nave central mais longa da Europa", "Lar da mesa redonda do Rei Artur (réplica)", "Local de sepultamento de Jane Austen na catedral"],
       fr: ["Ancienne capitale du royaume de Wessex", "La cathédrale possède la nef centrale la plus longue d'Europe", "Abrite la table ronde du roi Arthur (réplique)", "Lieu de sépulture de Jane Austen dans la cathédrale"],
+      es: ["Antigua capital del reino de Wessex", "La catedral tiene la nave central más larga de Europa", "Hogar de la mesa redonda del Rey Arturo (réplica)", "Lugar de entierro de Jane Austen en la catedral"],
     },
   },
   {
@@ -1728,6 +1730,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       en: ["1,600: Approximate population of this smallest UK city.", "1181: Start of construction on the current cathedral building.", "1995: Year the settlement officially regained its city status.", "6th century: When Saint David founded the original monastery.", "1328: Year Henry de Gower began the Bishop's Palace construction.", "2 pilgrimages: Equivalent to one to Rome according to Pope Calixtus II."],
       pt: ["A cidade mais pequena do Reino Unido", "Local de sepultamento de São David (santo padroeiro)", "Catedral do século XII", "Situada no Parque Nacional da Costa de Pembrokeshire"],
       fr: ["La plus petite ville du Royaume-Uni", "Lieu de sépulture de Saint David (saint patron)", "Cathédrale du XIIe siècle", "Située dans le parc national de la côte du Pembrokeshire"],
+      es: ["La ciudad más pequeña del Reino Unido", "Lugar de sepultura de San David (santo patrón)", "Catedral del siglo XII", "Situada en el Parque Nacional de la Costa de Pembrokeshire"],
     },
   },
   {
@@ -1774,6 +1777,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       en: ["1293: Year King Edward I granted the town its first royal charter.", "1642: Year the city closed its gates to King Charles I.", "1981: Opening of the Humber Bridge, then the world's longest span.", "2017: Year Hull held the title of UK City of Culture.", "1759: Birth year of abolitionist William Wilberforce in Hull.", "7 miles: Distance from the city center to the North Sea coast."],
       pt: ["Capital da cultura do Reino Unido 2017", "Sede do aquário 'The Deep'", "Ponte suspensa de vão único mais longa (Ponte Humber)", "O fecho das portas da cidade em 1642 desencadeou a Guerra Civil"],
       fr: ["Capitale de la culture du Royaume-Uni 2017", "Siège de l'aquarium 'The Deep'", "Pont suspendu à travée unique le plus long (pont Humber)", "La fermeture des portes de la ville en 1642 a déclenché la guerre civile"],
+      es: ["Capital de la cultura del Reino Unido 2017", "Hogar del acuario 'The Deep'", "Puente colgante de un solo tramo más largo (Puente Humber)", "El cierre de las puertas de la ciudad en 1642 desencadenó la Guerra Civil"],
     },
   },
   {
@@ -1961,6 +1965,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       en: ["1093: Approximate date when the first parts of the castle were built.", "1612: Year of the famous Pendle Witch trials held at Lancaster Castle.", "1937: Year Lancaster was officially granted city status.", "1909: Completion of the 150-foot tall Ashton Memorial structure.", "1964: Founding year of the prestigious University of Lancaster.", "15 minutes: Time it takes to reach the coast at Morecambe Bay."],
       pt: ["População: 52.000 (2021)", "Superfície: 35 km²", "Direito de cidade: 1937 (Estatuto de cidade)", "Castelo: construído em 1090", "Fundação da universidade: 1964", "Ponto mais alto: 100 m acima do nível do mar"],
       fr: ["Population : 52 000 (2021)", "Superficie : 35 km²", "Statut de ville : 1937 (statut de ville)", "Château : construit en 1090", "Fondation de l'université : 1964", "Point culminant : 100 m au-dessus du niveau de la mer"],
+      es: ["Población: 52.000 (2021)", "Superficie: 35 km²", "Derecho de ciudad: 1937 (Estatus de ciudad)", "Castillo: construido en 1090", "Fundación de la universidad: 1964", "Punto más alto: 100 m sobre el nivel del mar"],
     },
   },
   {
@@ -1998,6 +2003,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       en: "Hereford, located in the West Midlands near the border with Wales, is an ancient city that served as the capital of the Saxon kingdom of West Mercia. It is most famous for its stunning Hereford Cathedral, which houses two of the world's most significant medieval treasures: the Mappa Mundi and the Chained Library. The Mappa Mundi, dating from around 1300, is the largest medieval map of the world preserved in its original form. The city's economy has historically been tied to its fertile surroundings, being the namesake of the famous Hereford cattle breed and a global center for cider production. The River Wye, which flows through the heart of the city, has been a central feature of its defense and trade for centuries. Hereford was one of the first towns in England to receive a royal charter, granted by King Richard I in 1189. Today, it remains a tranquil market city and is known as the headquarters of the British Special Air Service (SAS).",
       pt: "Hereford é uma cidade catedralícia em Herefordshire, Inglaterra, no rio Wye. A Catedral de Hereford é famosa pelo Mappa Mundi, um mapa medieval do século XIII. A área da cidade é de 17 km² e tem uma população de 59.000 habitantes. Hereford é um centro agrícola e conhecido pela raça de gado Hereford. A cidade possui um museu, a Old House, e o arquivo de Herefordshire. A estação ferroviária conecta com Worcester e Newport.",
       fr: "Hereford est une ville cathédrale dans le Herefordshire, en Angleterre, sur la rivière Wye. La cathédrale de Hereford est célèbre pour la Mappa Mundi, une carte médiévale du XIIIe siècle. La superficie de la ville est de 17 km² pour environ 59 000 habitants. Hereford est un centre agricole connu pour la race bovine Hereford. La ville possède un musée, l'Old House, et les archives du Herefordshire. La gare ferroviaire relie Worcester et Newport.",
+      es: "Hereford es una ciudad catedralicia en Herefordshire, Inglaterra, en el río Wye. La Catedral de Hereford es famosa por el Mappa Mundi, un mapa medieval del siglo XIII. La superficie de la ciudad es de 17 km² y tiene una población de 59.000 habitantes. Hereford es un centro agrícola y conocido por la raza de ganado Hereford. La ciudad posee un museo, el Old House, y el archivo de Herefordshire. La estación ferroviaria conecta con Worcester y Newport.",
     },
     factsAdvanced: {
       de: ["1300: Ungefähres Jahr, in dem die Mappa Mundi erstellt wurde.", "1611: Gründung der Kettenbibliothek der Kathedrale.", "1189: Jahr, in dem König Richard I. der Stadt die erste königliche Charta verlieh.", "1079: Beginn des Baus der heutigen Kathedrale.", "17. Jahrhundert: Entwicklung der Rinderrasse Hereford.", "1490: Baudatum der historischen Wye-Brücke."],

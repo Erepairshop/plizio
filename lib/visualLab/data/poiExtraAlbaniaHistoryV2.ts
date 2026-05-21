@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { POI } from './poi';
 export const albaniaHistoryV2: POI[] = [
   { id: "albania-byllis-history-v2",

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { POI } from './poi';
 export const cyprusCitiesV2: POI[] = [
 

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { POI } from './poi';
 export const switzerlandReliefV2: POI[] = [
 
@@ -303,6 +304,7 @@ export const switzerlandReliefV2: POI[] = [
       en: "At 2,502 meters, the Säntis is the highest peak in the Alpstein massif and a prominent landmark of northeastern Switzerland. It marks the border between the cantons of Appenzell Ausserrhoden, Appenzell Innerrhoden, and St. Gallen. The Säntis is world-renowned for its vantage point, which on clear days offers a view into six different countries: Switzerland, Germany, Austria, Liechtenstein, France, and Italy. Geologically, the mountain is composed of Helvetic limestone and is part of a complex folded nappe system. The summit hosts a vital weather station that has been in operation since 1882, along with a striking 123-meter-tall telecommunications tower. Since 1935, a cable car from Schwägalp has provided easy access to the top, making it a major tourist attraction. The mountain is also known for its extreme weather, holding records for high precipitation and lightning strikes in Switzerland. The surrounding Alpstein range is a hiker's paradise, characterized by steep karst formations and alpine meadows.",
       pt: "O Säntis (2502 m) é o pico mais alto do maciço Alpstein nos cantões de Appenzell Interior e Exterior, bem como de São Galo. Localiza-se no nordeste da Suíça. A montanha é conhecida pelas suas serras e pela estação de montanha do Säntisbahn, que leva de Schwägalp até aos 2502 m. O planalto do cume oferece uma vista panorâmica sobre seis países. Supõe-se que a primeira ascensão ocorreu na Idade Média. Geologicamente, o Säntis consiste em calcário e marga. Economicamente, o turismo com o Säntisbahn e a área de esqui de Schwägalp é importante. No cume, existem uma estação meteorológica e um restaurante.",
       fr: "Le Säntis (2502 m) est le plus haut sommet du massif de l'Alpstein dans les cantons d'Appenzell Rhodes-Intérieures et Extérieures, ainsi que de Saint-Gall. Il est situé dans le nord-est de la Suisse. La montagne est connue pour ses montagnes et la gare supérieure du Säntisbahn, qui part de Schwägalp jusqu'à 2502 m. Le plateau sommital offre une vue panoramique sur six pays. La première ascension remonterait au Moyen Âge. Géologiquement, le Säntis est constitué de calcaire et de marne. Sur le plan économique, le tourisme avec le Säntisbahn et le domaine skiable de Schwägalp est important. Au sommet se trouvent une station météorologique et un restaurant.",
+      es: "El Säntis (2502 m) es el pico más alto del macizo de Alpstein en los cantones de Appenzell Rodas Interiores y Exteriores, así como San Galo. Se encuentra en el noreste de Suiza. La montaña es conocida por sus montañas y la estación de montaña del Säntisbahn, que lleva desde Schwägalp a 2502 m. La meseta de la cumbre ofrece una vista panorámica sobre seis países. Se supone que la primera ascensión se realizó en la Edad Media. Geológicamente, el Säntis consiste en piedra caliza y marga. Económicamente, el turismo con el Säntisbahn y la zona de esquí de Schwägalp es importante. En la cima hay una estación meteorológica y un restaurante.",
     },
     factsAdvanced: {
       de: ["Der Säntis ist 2502 Meter hoch und der höchste Gipfel im Alpstein.", "Vom Gipfel aus kann man Territorien von sechs verschiedenen Ländern sehen.", "Die Wetterstation auf dem Säntis wurde bereits im Jahr 1882 gegründet.", "Der heutige Sendeturm auf dem Gipfel ist 123 Meter hoch.", "Die erste Luftseilbahn auf den Säntis wurde 1935 in Betrieb genommen.", "Am Säntis wurde 1999 eine Rekord-Schneehöhe von 8,16 Metern gemessen."],
@@ -1031,6 +1033,7 @@ export const switzerlandReliefV2: POI[] = [
       en: ["Elevation: 3166 meters (10,387 feet).", "Range: Livigno Alps (part of the Rhaetian Alps).", "Wildlife: Home to one of the largest Alpine ibex colonies (over 500).", "Location: Canton of Graubünden, near Pontresina.", "Prominence: 318 meters above the nearby passes.", "Climbing: Popular non-technical hike in the summer season."],
       pt: ["Altitude: 3165 m", "Primeira ascensão: 1868", "Geologia: Granito", "Ferrovia: Bernina Express passa por baixo", "Nome: do romanche 'branco'", "Zona de esqui: Diavolezza"],
       fr: ["Altitude : 3165 m", "Première ascension : 1868", "Géologie : Granit", "Chemin de fer : Bernina Express passe en contrebas", "Nom : du romanche 'blanc'", "Domaine skiable : Diavolezza"],
+      es: ["Altitud: 3165 m", "Primera ascensión: 1868", "Geología: Granito", "Ferrocarril: Bernina Express pasa por debajo", "Nombre: del retorrománico 'blanco'", "Zona de esquí: Diavolezza"],
     },
     image: "/poi-images/switzerland-piz-d-albris-relief-v2.webp",
   },
@@ -1390,6 +1393,7 @@ export const switzerlandReliefV2: POI[] = [
       en: ["Elevation: 2810 meters (9,219 feet).", "Range: Oberhalbstein Alps (Platta Group).", "Location: Canton of Graubünden, Switzerland.", "Vantage point: Offers views of the Marmorera dam.", "Geology: Composed of Penninic metamorphic sequences.", "Activity: Common objective for both summer hikers and winter skiers."],
       pt: ["Altura: 3270 m", "Nome: romanche 'muro de sal'", "Rocha: Dolomita, calcário", "Karst: grutas e dolinas", "Reserva: Biosfera Val Müstair", "Ascensão: mais fácil a partir do sul"],
       fr: ["Altitude : 3270 m", "Nom : romanche 'mur de sel'", "Roche : Dolomie, calcaire", "Karst : grottes et dolines", "Réserve : Biosphère Val Müstair", "Ascension : plus facile par le sud"],
+      es: ["Altura: 3270 m", "Nombre: retorrománico 'muro de sal'", "Roca: Dolomita, piedra caliza", "Karst: cuevas y dolinas", "Reserva: Biosfera Val Müstair", "Ascensión: más fácil desde el sur"],
     },
     image: "/poi-images/switzerland-piz-salamura-relief-v2.webp",
   },

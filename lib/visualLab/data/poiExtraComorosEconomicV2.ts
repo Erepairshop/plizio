@@ -639,6 +639,7 @@ export const poiExtraComorosEconomicV2: POI[] = [
       en: ["Founded in 1920", "25 employees", "500 furniture pieces per year", "Wood types: mahogany, teak", "Exports to Moroni", "Apprenticeship positions for 5 trainees"],
       pt: ["Fundação em 1920", "25 funcionários", "500 móveis por ano", "Tipos de madeira: mogno, teca", "Exportação para Moroni", "Vagas de formação para 5 aprendizes"],
       fr: ["Fondation en 1920", "25 employés", "500 meubles par an", "Essences de bois : acajou, teck", "Exportation vers Moroni", "Places de formation pour 5 apprentis"],
+      es: ["Fundación en 1920", "25 empleados", "500 muebles al año", "Tipos de madera: caoba, teca", "Exportación a Moroni", "Plazas de formación para 5 aprendices"],
     },
   },
   {

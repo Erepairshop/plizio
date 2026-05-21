@@ -17,13 +17,19 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       de: "Der höchste Gipfel von Mauritius bietet einen atemberaubenden Rundblick über die Insel und ist Teil des Black River Gorges Nationalparks.",
       hu: "Mauritius legmagasabb csúcsa, amely lélegzetelállító körpanorámát kínál a szigetre, és a Black River Gorges Nemzeti Park része.",
       ro: "Cel mai înalt vârf din Mauritius oferă o vedere panoramică uluitoare asupra insulei și face parte din Parcul Național Black River Gorges.",
-      en: "The highest peak in Mauritius offers breathtaking panoramic views of the island and is part of the Black River Gorges National Park."
+      en: "The highest peak in Mauritius offers breathtaking panoramic views of the island and is part of the Black River Gorges National Park.",
+      es: "El pico más alto de Mauricio ofrece una impresionante vista panorámica de la isla y forma parte del Parque Nacional de las Gargantas del Río Negro.",
+      pt: "O pico mais alto das Maurícias oferece uma vista panorâmica deslumbrante sobre a ilha e faz parte do Parque Nacional Black River Gorges.",
+      fr: "Le plus haut sommet de l'île Maurice offre une vue panoramique imprenable sur l'île et fait partie du parc national des Gorges de la Rivière Noire.",
     },
     facts: {
       de: ["Höchster Punkt des Landes", "828 Meter über dem Meeresspiegel", "Beliebtes Wanderziel"],
       hu: ["Az ország legmagasabb pontja", "828 méterrel a tengerszint felett", "Népszerű túracélpont"],
       ro: ["Cel mai înalt punct al țării", "828 de metri deasupra mării", "Destinație populară de drumeție"],
-      en: ["Highest point in the country", "Stands at 828 meters above sea level", "Popular hiking destination"]
+      en: ["Highest point in the country", "Stands at 828 meters above sea level", "Popular hiking destination"],
+      es: ["Punto más alto del país", "828 metros sobre el nivel del mar", "Destino popular para el senderismo"],
+      pt: ["Ponto mais alto do país", "828 metros acima do nível do mar", "Destino popular para caminhadas"],
+      fr: ["Point culminant du pays", "828 mètres au-dessus du niveau de la mer", "Destination de randonnée populaire"],
     }, image: "/poi-images/piton-de-la-petite-riviere-noire-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Piton de la Petite Rivière Noire ist mit einer Höhe von 828 Metern über dem Meeresspiegel der höchste Punkt der Insel Mauritius. Er befindet sich im Südwesten der Insel innerhalb des Black River Gorges Nationalparks und gehört zur Gebirgskette der Rivière Noire. Der Gipfel bietet einen weitreichenden Blick über die bewaldeten Schluchten des Nationalparks sowie auf die Küstenlinie des Indischen Ozeans. Geologisch besteht der Berg aus vulkanischem Basaltgestein, das charakteristisch für die Entstehung der Maskarenen-Inseln ist. Wanderwege führen von verschiedenen Punkten, wie der Plaine Champagne, zum Gipfel, wobei der letzte Abschnitt durch steileres Gelände gekennzeichnet ist. Auf dem Gipfel befindet sich eine Metallbank und eine Markierung, die den höchsten Punkt kennzeichnet. Der Schutz des Gebiets ist entscheidend für den Erhalt der endemischen Flora und Fauna der Insel, da der Berg Teil eines geschützten Ökosystems ist.",
@@ -36,6 +42,9 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       hu: ["Mauritius legmagasabb pontja, 828 méter magas", "A sziget délnyugati részén, a Rivière Noire hegységben található", "Teljes területe a Black River Gorges Nemzeti Parkhoz tartozik", "A túraútvonal leggyakrabban a Plaine Champagne útról indul", "Kőzeteit főként vulkáni eredetű bazalt alkotja", "A csúcsról rálátni a Le Morne-félszigetre és a lagúnákra"],
       ro: ["Este cel mai înalt vârf din Mauritius, la 828 de metri", "Face parte din lanțul muntos Rivière Noire din sud-vest", "Se află integral în limitele Parcului Național Black River Gorges", "Traseul principal de acces pornește de la drumul Plaine Champagne", "Structura geologică este compusă din roci basaltice vulcanice", "Vârful oferă o perspectivă asupra peninsulei Le Morne și oceanului"],
       en: ["Highest peak in Mauritius at 828 meters above sea level", "Part of the Rivière Noire mountain range in the southwest", "Located entirely within the Black River Gorges National Park", "Most popular hiking trail starts from Plaine Champagne road", "Geological structure is primarily composed of volcanic basalt", "The summit offers panoramic views of the Le Morne peninsula"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -53,13 +62,19 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       de: "Ein ikonischer Berg, der für den riesigen, balancierenden Felsbrocken an seinem Gipfel bekannt ist, der einem menschlichen Kopf ähnelt.",
       hu: "Ikonikus hegy, amely a csúcsán egyensúlyozó hatalmas szikláról ismert, amely egy emberi fejre emlékeztet.",
       ro: "Un munte iconic, cunoscut pentru bolovanul uriaș aflat în echilibru pe vârful său, care seamănă cu un cap de om.",
-      en: "An iconic mountain famous for the massive balancing rock at its summit, which resembles a human head."
+      en: "An iconic mountain famous for the massive balancing rock at its summit, which resembles a human head.",
+      es: "Una montaña icónica conocida por la enorme roca en equilibrio en su cima, que se asemeja a una cabeza humana.",
+      pt: "Uma montanha icónica conhecida pela enorme rocha equilibrada no seu topo, que se assemelha a uma cabeça humana.",
+      fr: "Une montagne emblématique connue pour l'énorme rocher en équilibre à son sommet, qui ressemble à une tête humaine.",
     },
     facts: {
       de: ["Zweithöchster Gipfel der Insel", "Markante Felsformation am Gipfel", "Herausfordernde Kletterstrecke"],
       hu: ["A sziget második legmagasabb csúcsa", "Jellegzetes sziklaalakzat a csúcson", "Kihívást jelentő mászóútvonal"],
       ro: ["Al doilea cel mai înalt vârf de pe insulă", "Formațiune stâncoasă distinctivă", "Traseu de escaladă provocator"],
-      en: ["Second highest peak on the island", "Distinctive rock formation at the top", "Challenging climb for experienced hikers"]
+      en: ["Second highest peak on the island", "Distinctive rock formation at the top", "Challenging climb for experienced hikers"],
+      es: ["Segundo pico más alto de la isla", "Distintiva formación rocosa en la cima", "Ruta de escalada desafiante"],
+      pt: ["Segundo pico mais alto da ilha", "Formação rochosa distinta no topo", "Percurso de escalada desafiante"],
+      fr: ["Deuxième plus haut sommet de l'île", "Formation rocheuse distinctive au sommet", "Parcours d'escalade difficile"],
     }, image: "/poi-images/pieter-both-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Pieter Both ist mit 820 Metern der zweithöchste Berg von Mauritius und eines der markantesten Wahrzeichen der Insel. Er gehört zur Moka-Gebirgskette im Norden und ist nach dem ersten Generalgouverneur von Niederländisch-Ostindien benannt, der 1615 bei einem Schiffbruch vor der Küste ums Leben kam. Charakteristisch für den Berg ist die massive, fast kugelförmige Felsformation an seiner Spitze, die einem menschlichen Kopf ähnelt und scheinbar prekär auf dem Gipfel balanciert. Diese Formation ist das Ergebnis von Millionen Jahren Erosion, die das weichere umgebende Gestein abgetragen hat. Der Aufstieg gilt als anspruchsvoll und erfordert teilweise Kletterausrüstung, insbesondere für das Erreichen des obersten Felsens. In der lokalen Folklore ranken sich zahlreiche Legenden um den Stein, darunter die Geschichte eines Milchmanns, der ein übernatürliches Wesen sah. Der Schutz der umliegenden Vegetation ist wichtig für die Erhaltung seltener endemischer Pflanzenarten.",
@@ -72,6 +87,9 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       hu: ["Mauritius második legmagasabb hegye, 820 méter magas", "Pieter Both-ról, Holland Kelet-India főkormányzójáról kapta a nevét", "A csúcsán egy emberi fejre emlékeztető szikla egyensúlyoz", "A sziget északi részén található Moka-hegység tagja", "Az első dokumentált megmászása 1832-ben történt", "A helyi folklórban a 'tejárus legendája' kapcsolódik hozzá"],
       ro: ["Al doilea cel mai înalt munte din insulă, la 820 de metri", "Numit după Pieter Both, guvernatorul Indiilor de Est Olandeze", "Stânca din vârf seamănă cu un cap uman aflat în echilibru", "Face parte din lanțul muntos Moka, situat în nordul insulei", "Prima ascensiune documentată a avut loc în anul 1832", "Este subiectul 'Legendei Lăptarului' în folclorul local din Mauritius"],
       en: ["Second highest mountain in Mauritius at 820 meters", "Named after Pieter Both, Governor-General of the Dutch East Indies", "The summit rock resembles a balancing human head", "Part of the Moka mountain range in the northern region", "First documented successful ascent took place in 1832", "Famous for the 'Legend of the Milkman' in local folklore"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -89,13 +107,19 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       de: "Dieser Berg hat die Form eines Daumens und bietet einen der besten Panoramablicke auf Port Louis und den Norden der Insel.",
       hu: "Ez a hegy hüvelykujj alakú, és az egyik legjobb panorámát nyújtja Port Louis-ra és a sziget északi részére.",
       ro: "Acest munte are forma unui deget mare și oferă una dintre cele mai bune vederi panoramice asupra Port Louis și a nordului insulei.",
-      en: "This mountain is shaped like a thumb and offers one of the best panoramic views of Port Louis and the north of the island."
+      en: "This mountain is shaped like a thumb and offers one of the best panoramic views of Port Louis and the north of the island.",
+      es: "Esta montaña tiene forma de pulgar y ofrece una de las mejores vistas panorámicas de Port Louis y del norte de la isla.",
+      pt: "Esta montanha tem a forma de um polegar e oferece uma das melhores vistas panorâmicas de Port Louis e do norte da ilha.",
+      fr: "Cette montagne a la forme d'un pouce et offre l'une des meilleures vues panoramiques sur Port Louis et le nord de l'île.",
     },
     facts: {
       de: ["Name bedeutet 'Der Daumen'", "Dritthöchster Berg von Mauritius", "Von Charles Darwin bestiegen"],
       hu: ["A neve 'Hüvelykujjat' jelent", "Mauritius harmadik legmagasabb hegye", "Charles Darwin is megmászta"],
       ro: ["Numele înseamnă 'Degetul mare'", "Al treilea cel mai înalt munte", "Urcat de Charles Darwin în 1836"],
-      en: ["Name translates to 'The Thumb'", "Third highest mountain in Mauritius", "Climbed by Charles Darwin in 1836"]
+      en: ["Name translates to 'The Thumb'", "Third highest mountain in Mauritius", "Climbed by Charles Darwin in 1836"],
+      es: ["El nombre significa 'El Pulgar'", "Tercera montaña más alta de Mauricio", "Escalada por Charles Darwin"],
+      pt: ["O nome significa 'O Polegar'", "Terceira montanha mais alta das Maurícias", "Escalada por Charles Darwin"],
+      fr: ["Son nom signifie 'Le Pouce'", "Troisième plus haute montagne de Maurice", "Gravie par Charles Darwin"],
     }, image: "/poi-images/le-pouce-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Le Pouce, was auf Französisch 'der Daumen' bedeutet, ist mit 812 Metern der dritthöchste Berg von Mauritius. Er gehört zur Moka-Gebirgskette und verdankt seinen Namen seiner markanten Form, die an einen nach oben gestreckten Daumen erinnert. Der Berg liegt direkt hinter der Hauptstadt Port Louis und bietet einen der besten Panoramablicke über die Stadt, den Hafen und die umliegenden Ebenen. Geologisch besteht er aus vulkanischen Formationen, die während der zweiten Phase der Inselbildung entstanden sind. Historisch ist der Berg dafür bekannt, dass Charles Darwin ihn am 2. Mai 1836 während seiner Reise mit der HMS Beagle bestieg. Der Wanderweg zum Gipfel gilt als moderat und ist einer der beliebtesten der Insel, da er relativ leicht zugänglich ist. Die Spitze ist sehr schmal und bietet Platz für nur wenige Personen gleichzeitig. Die Hänge beherbergen verschiedene endemische Pflanzenarten, die typisch für die höheren Lagen der Moka-Kette sind.",
@@ -108,6 +132,9 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       hu: ["Mauritius harmadik legmagasabb hegye, 812 méter magas", "Neve 'hüvelykujjat' jelent, utalva a hegy formájára", "Charles Darwin 1836. május 2-án mászta meg a hegyet", "360 fokos panorámát nyújt Port Louis városára és a kikötőre", "A sziget középső részén húzódó Moka-hegység része", "A csúcs a sziget második vulkáni korszakában keletkezett"],
       ro: ["Al treilea cel mai înalt munte din Mauritius, la 812 metri", "Numele se traduce prin 'Degetul Mare' datorită formei sale", "Celebrul naturalist Charles Darwin a urcat pe vârf în 1836", "Oferă o vedere panoramică de 360 de grade asupra Port Louis", "Face parte din lanțul muntos Moka din zona centrală", "Vârful este de origine vulcanică din a doua fază eruptivă"],
       en: ["Third highest mountain in Mauritius at 812 meters", "The name translates to 'The Thumb' due to its unique shape", "Famous scientist Charles Darwin climbed the mountain in 1836", "Offers a full 360-degree view of Port Louis and the harbor", "Part of the Moka mountain range in the central island area", "The peak is of volcanic origin from the second eruption phase"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -125,13 +152,19 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       de: "Ein schlafender Vulkankrater in Curepipe, der heute mit dichtem Wald bedeckt ist und einen kleinen See in seiner Mitte birgt.",
       hu: "Egy Curepipe-ben található alvó vulkáni kráter, amelyet ma sűrű erdő borít, közepén pedig egy kis tó található.",
       ro: "Un crater vulcanic latent situat în Curepipe, acoperit astăzi de o pădure deasă și având un mic lac în centru.",
-      en: "A dormant volcanic crater located in Curepipe, now covered in lush forest with a small lake at its center."
+      en: "A dormant volcanic crater located in Curepipe, now covered in lush forest with a small lake at its center.",
+      es: "Un cráter volcánico inactivo en Curepipe, actualmente cubierto por un denso bosque y con un pequeño lago en su centro.",
+      pt: "Uma cratera vulcânica adormecida em Curepipe, agora coberta por uma floresta densa e com um pequeno lago no seu centro.",
+      fr: "Un cratère volcanique endormi à Curepipe, aujourd'hui recouvert d'une forêt dense et abritant un petit lac en son centre.",
     },
     facts: {
       de: ["Durchmesser von etwa 350 Metern", "85 Meter tiefer Krater", "Rundweg für Spaziergänger"],
       hu: ["Körülbelül 350 méter átmérőjű", "85 méter mély kráter", "Gyalogos körút a peremén"],
       ro: ["Diametru de aproximativ 350 de metri", "Crater adânc de 85 de metri", "Traseu circular pentru plimbări"],
-      en: ["Approximately 350 meters in diameter", "Crater is 85 meters deep", "Features a circular jogging path"]
+      en: ["Approximately 350 meters in diameter", "Crater is 85 meters deep", "Features a circular jogging path"],
+      es: ["Diámetro de unos 350 metros", "Cráter de 85 metros de profundidad", "Sendero circular para paseantes"],
+      pt: ["Diâmetro de cerca de 350 metros", "Cratera com 85 metros de profundidade", "Caminho circular para peões"],
+      fr: ["Diamètre d'environ 350 mètres", "Cratère de 85 mètres de profondeur", "Sentier circulaire pour les promeneurs"],
     }, image: "/poi-images/trou-aux-cerfs-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Trou aux Cerfs ist ein schlafender Vulkankrater in Curepipe, im zentralen Hochland von Mauritius. Er liegt etwa 605 Meter über dem Meeresspiegel und hat einen Durchmesser von etwa 300 bis 350 Metern sowie eine Tiefe von rund 80 Metern. Der Krater ist fast kreisförmig und zeichnet sich durch seine steilen, bewaldeten Innenwände aus, während der Boden heute von einem kleinen See und Sumpfland bedeckt ist. Wissenschaftler schätzen, dass der Vulkan vor etwa 600.000 bis 700.000 Jahren aktiv war und heute als 'schlafend' gilt, da ein erneuter Ausbruch theoretisch möglich, aber unwahrscheinlich ist. Ein beliebter Rundweg führt um den Kraterrand und bietet spektakuläre Ausblicke auf die Moka-Gebirgskette und den Rempart-Berg. Der Name bedeutet 'Hirschloch' und geht auf die Zeit zurück, als Hirsche hier Zuflucht vor Jägern suchten. Der Krater ist ein wichtiges Ziel für geologische Studien und ein Naherholungsgebiet für die lokale Bevölkerung.",
@@ -144,6 +177,9 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       hu: ["Alvó vulkáni kráter, átmérője 300 és 350 méter között van", "Curepipe városában, 605 méteres tengerszint feletti magasságon fekszik", "A kráter mélysége körülbelül 80-85 méter", "Utolsó aktivitása 600 000 - 700 000 évvel ezelőttre tehető", "A név jelentése 'szarvas-lyuk', a korábbi vadászatok emlékére", "A kráter alján egy kis természetes tó alakult ki"],
       ro: ["Crater vulcanic adormit cu diametrul între 300 și 350 de metri", "Situat la o altitudine de 605 metri în localitatea Curepipe", "Adâncimea totală a craterului este de aproximativ 80-85 de metri", "Ultima activitate vulcanică a avut loc acum 600.000-700.000 ani", "Numele înseamnă 'Gaura Cerbului', amintind de vânătorile de altădată", "Fundul craterului adăpostește un mic lac natural format prin acumulare"],
       en: ["Dormant volcanic crater with a diameter of 300 to 350 meters", "Located at an altitude of 605 meters in the town of Curepipe", "The total depth of the crater is approximately 80 to 85 meters", "Estimated to have been active 600,000 to 700,000 years ago", "The name 'Trou aux Cerfs' means 'Stag's Hole' in French", "The crater floor contains a small, permanent natural lake"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -161,13 +197,19 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       de: "Ein geologisches Phänomen aus Dünen in sieben verschiedenen Farben, das durch die Umwandlung von Basaltlava in Tonminerale entstand.",
       hu: "Hét különböző színű dűnékből álló geológiai jelenség, amely a bazaltláva agyagásványokká történő átalakulásával jött létre.",
       ro: "Un fenomen geologic format din dune de șapte culori diferite, apărut prin transformarea lavei bazaltice în minerale argiloase.",
-      en: "A geological phenomenon consisting of dunes in seven distinct colors, created by the conversion of basaltic lava into clay minerals."
+      en: "A geological phenomenon consisting of dunes in seven distinct colors, created by the conversion of basaltic lava into clay minerals.",
+      es: "Un fenómeno geológico de dunas en siete colores diferentes, surgido por la transformación de lava basáltica en minerales arcillosos.",
+      pt: "Um fenómeno geológico de dunas em sete cores diferentes, resultante da transformação de lava basáltica em minerais argilosos.",
+      fr: "Un phénomène géologique de dunes de sept couleurs différentes, né de la transformation de la lave basaltique en minéraux argileux.",
     },
     facts: {
       de: ["Farben mischen sich nie", "Vulkanischen Ursprungs", "Einzigartige Touristenattraktion"],
       hu: ["A színek soha nem keverednek", "Vulkáni eredetű", "Egyedülálló turisztikai látványosság"],
       ro: ["Culorile nu se amestecă niciodată", "Origine vulcanică", "Atracție turistică unică"],
-      en: ["Colors never mix even after rain", "Of volcanic origin", "Unique natural tourist attraction"]
+      en: ["Colors never mix even after rain", "Of volcanic origin", "Unique natural tourist attraction"],
+      es: ["Los colores nunca se mezclan", "De origen volcánico", "Atracción turística única"],
+      pt: ["As cores nunca se misturam", "De origem vulcânica", "Atração turística única"],
+      fr: ["Les couleurs ne se mélangent jamais", "D'origine volcanique", "Attraction touristique unique"],
     }, image: "/poi-images/chamarel-seven-coloured-earths-relief-v2.webp",
     descriptionAdvanced: {
       de: "Die Siebenfarbige Erde von Chamarel ist eine weltweit einzigartige geologische Formation im Südwesten von Mauritius. Es handelt sich um eine etwa 8.500 Quadratmeter große Fläche mit Dünen aus buntem Sand, die in sieben verschiedenen Farben schimmern: Rot, Braun, Violett, Grün, Blau, Purpur und Gelb. Diese Farben entstanden durch die Umwandlung von vulkanischem Basaltgestein in Tonminerale durch Hydrolyse. Die unterschiedlichen Farbtöne sind auf die hohe Konzentration von Eisen- und Aluminiumoxiden zurückzuführen, die unter verschiedenen Temperaturen und Bedingungen oxidierten. Ein faszinierendes Phänomen ist, dass sich die Farben selbst nach heftigen Regenfällen oder bei mechanischer Vermischung der Sandkörner immer wieder in ihre ursprünglichen Schichten trennen. Die Dünen sind heute eingezäunt, um die empfindliche Struktur vor Erosion durch Touristen zu schützen. Das Gebiet umfasst auch einen nahegelegenen Wasserfall und einen Park mit Riesenschildkröten. Es bleibt eines der meistfotografierten Naturwunder der Insel.",
@@ -180,6 +222,9 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       hu: ["A geológiai képződmény körülbelül 8500 négyzetmétert tesz ki", "A hét színt az agyagban lévő vas- és alumínium-oxidok okozzák", "Különleges jelenség: a homok keverés után is színek szerint szétválik", "A sziget délnyugati részén, a Black River körzetben található", "Vulkáni bazaltkőzet lebomlása során jött létre", "A dűnék az esőzések ellenére sem mutatnak eróziós nyomokat"],
       ro: ["Formațiunea geologică acoperă o suprafață de circa 8.500 mp", "Cele șapte culori sunt date de oxizii de fier și aluminiu din argilă", "Fenomen rar: nisipul se separă natural pe culori după amestecare", "Situat în districtul Black River din sud-vestul insulei", "Format prin descompunerea rocilor bazaltice de origine vulcanică", "Dunele nu prezintă semne de eroziune majoră în ciuda ploilor"],
       en: ["The geological formation covers an area of about 8,500 square meters", "The seven colors are caused by iron and aluminum oxides in the clay", "Unique phenomenon: sand particles naturally separate by color", "Located in the Black River district in the southwestern part of Mauritius", "Created by the decomposition of volcanic basaltic rock", "The dunes show no significant signs of erosion despite tropical rains"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -197,13 +242,19 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       de: "Ein Kratersee im Hochland von Mauritius, der in einem erloschenen Vulkan liegt und als heiligste hinduistische Stätte der Insel gilt.",
       hu: "Mauritius felföldjén található krátertó, amely egy kialudt vulkánban fekszik, és a sziget legszentebb hindu helyszíne.",
       ro: "Un lac de crater în podișul Mauritius, situat într-un vulcan stins, considerat cel mai sfânt loc hindu de pe insulă.",
-      en: "A crater lake in the Mauritian highlands, situated in an extinct volcano and regarded as the island's most sacred Hindu site."
+      en: "A crater lake in the Mauritian highlands, situated in an extinct volcano and regarded as the island's most sacred Hindu site.",
+      es: "Un lago de cráter en las tierras altas de Mauricio, situado en un volcán extinguido y considerado el lugar hindú más sagrado de la isla.",
+      pt: "Um lago de cratera nas terras altas das Maurícias, situado num vulcão extinto e considerado o local hindu mais sagrado da ilha.",
+      fr: "Un lac de cratère dans les hauts plateaux de Maurice, situé dans un volcan éteint et considéré comme le site hindou le plus sacré de l'île.",
     },
     facts: {
       de: ["Heiliger See in einem Krater", "Umgeben von hinduistischen Tempeln", "550 Meter über dem Meeresspiegel"],
       hu: ["Szent tó egy kráterben", "Hindu templomok veszik körül", "550 méterrel a tengerszint felett"],
       ro: ["Lac sfânt într-un crater", "Înconjurat de temple hindu", "Situat la 550 metri altitudine"],
-      en: ["Sacred lake in a volcanic crater", "Surrounded by Hindu temples", "Located 550 meters above sea level"]
+      en: ["Sacred lake in a volcanic crater", "Surrounded by Hindu temples", "Located 550 meters above sea level"],
+      es: ["Lago sagrado en un cráter", "Rodeado de templos hindúes", "550 metros sobre el nivel del mar"],
+      pt: ["Lago sagrado numa cratera", "Rodeado de templos hindus", "550 metros acima do nível do mar"],
+      fr: ["Lac sacré dans un cratère", "Entouré de temples hindous", "550 mètres au-dessus du niveau de la mer"],
     }, image: "/poi-images/grand-bassin-relief-v2.webp",
     descriptionAdvanced: {
       de: "Grand Bassin, auch bekannt als Ganga Talao, ist ein heiliger Kratersee im Bezirk Savanne auf Mauritius und gilt als die wichtigste hinduistische Pilgerstätte außerhalb Indiens. Der See liegt etwa 550 Meter über dem Meeresspiegel in einem abgelegenen Gebirgsgebiet und ist von Tempeln und Schreinen umgeben, die verschiedenen hinduistischen Gottheiten gewidmet sind. Der Legende nach ist der See mit dem heiligen Fluss Ganges in Indien verbunden, weshalb während des Maha-Shivaratri-Festes jährlich Hunderttausende Pilger zu Fuß hierher wandern. Am Eingang der Stätte stehen zwei monumentale Statuen: Mangal Mahadev (Shiva) und die Göttin Durga, die beide eine Höhe von 33 Metern erreichen. Geologisch gesehen handelt es sich um ein Maar, einen wassergefüllten Vulkanbecken, das während der aktiven vulkanischen Phasen der Insel entstand. Die ruhige Atmosphäre des Sees wird durch die dichten Nebelwälder verstärkt, die die Region oft einhüllen. Die Anlage ist das ganze Jahr über für Besucher zugänglich und bietet einen tiefen Einblick in die religiöse Identität der mauritischen Gesellschaft.",
@@ -216,6 +267,9 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       hu: ["Szent kráter-tó 550 méteres tengerszint feletti magasságban", "A legfontosabb hindu zarándokhely az indiai szubkontinensen kívül", "Két monumentális, 33 méter magas Siva és Durga szobornak ad otthont", "A mauritiusi éves Maha Shivaratri ünnepségek központi helyszíne", "Geológiailag a tó egy vízzel teli vulkáni kráterben (maar) található", "A Mangal Mahadev szobrot 2007-ben fejezték be és szentelték fel"],
       ro: ["Lac sacru format într-un crater vulcanic la 550 de metri altitudine", "Cel mai important loc de pelerinaj hindu din afara Indiei", "Găzduiește două statui monumentale de 33 de metri: Shiva și Durga", "Centrul festivităților anuale Maha Shivaratri din Mauritius", "Lacul este din punct de vedere geologic un maar umplut cu apă", "Statuia Mangal Mahadev a fost finalizată oficial în anul 2007"],
       en: ["Sacred crater lake located 550 meters above sea level", "Most important Hindu pilgrimage site outside the Indian subcontinent", "Home to two monumental 33-meter high statues of Shiva and Durga", "Center of the annual Maha Shivaratri celebrations in Mauritius", "The lake is geologically a water-filled volcanic basin (maar)", "The statue of Mangal Mahadev was completed in 2007"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -233,13 +287,19 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       de: "Das größte Schutzgebiet von Mauritius bewahrt die letzten Reste des ursprünglichen Regenwaldes und spektakuläre Schluchten.",
       hu: "Mauritius legnagyobb védett területe, amely megőrzi az eredeti esőerdő utolsó maradványait és látványos szurdokait.",
       ro: "Cea mai mare zonă protejată din Mauritius păstrează ultimele rămășițe ale pădurii tropicale originale și chei spectaculoase.",
-      en: "The largest protected area in Mauritius preserves the last remains of the original rainforest and spectacular gorges."
+      en: "The largest protected area in Mauritius preserves the last remains of the original rainforest and spectacular gorges.",
+      es: "El área protegida más grande de Mauricio conserva los últimos restos de la selva tropical original y gargantas espectaculares.",
+      pt: "A maior área protegida das Maurícias preserva os últimos vestígios da floresta tropical original e desfiladeiros espetaculares.",
+      fr: "La plus grande zone protégée de l'île Maurice préserve les derniers restes de la forêt tropicale originelle et des gorges spectaculaires.",
     },
     facts: {
       de: ["Größter Nationalpark der Insel", "Über 6.500 Hektar Fläche", "Heimat vieler endemischer Arten"],
       hu: ["A sziget legnagyobb nemzeti parkja", "Több mint 6500 hektár terület", "Számos endemikus faj otthona"],
       ro: ["Cel mai mare parc național", "Suprafață de peste 6.500 hectare", "Adăpostește multe specii endemice"],
-      en: ["Largest national park on the island", "Covers over 6,500 hectares", "Home to many endemic plant species"]
+      en: ["Largest national park on the island", "Covers over 6,500 hectares", "Home to many endemic plant species"],
+      es: ["Parque nacional más grande de la isla", "Más de 6.500 hectáreas de superficie", "Hogar de muchas especies endémicas"],
+      pt: ["Maior parque nacional da ilha", "Mais de 6.500 hectares de área", "Habitat de muitas espécies endémicas"],
+      fr: ["Plus grand parc national de l'île", "Plus de 6 500 hectares de superficie", "Habitat de nombreuses espèces endémiques"],
     }, image: "/poi-images/black-river-gorges-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Black River Gorges Nationalpark ist das größte Schutzgebiet auf Mauritius und umfasst etwa 6.754 Hektar Regenwald im Südwesten der Insel. Der Park wurde am 15. Juni 1994 proklamiert und dient dem Schutz der letzten zusammenhängenden ursprünglichen Wälder der Insel sowie zahlreicher bedrohter Tierarten. Hier finden seltene Vögel wie die Rosentaube, der Mauritiussittich und der Mauritiusfalke einen geschützten Lebensraum. Die Landschaft ist geprägt von tiefen Schluchten, dramatischen Wasserfällen wie den Alexandra Falls und dichten, endemischen Vegetationstypen. Mehr als 60 Kilometer Wanderwege durchziehen das Gebiet und führen zu Aussichtspunkten wie dem Gorges Viewpoint, von dem aus man bis zur Küste blicken kann. Der Park spielt eine zentrale Rolle in der wissenschaftlichen Forschung und im Ökotourismus des Landes. Die Erhaltung dieses Ökosystems ist entscheidend, da viele der hier vorkommenden Pflanzenarten weltweit nur auf Mauritius existieren.",
@@ -252,6 +312,9 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       hu: ["Mauritius legnagyobb nemzeti parkja, területe 6754 hektár", "A parkot hivatalosan 1994. június 15-én alapították", "Több mint 300 őshonos virágos növényfajnak ad otthont", "A kihalástól megmentett mauritiusi vércse legfontosabb élőhelye", "Több mint 60 kilométernyi kijelölt túraútvonal található benne", "Itt látható az Alexandra-vízesés, a sziget egyik jelképe"],
       ro: ["Cel mai mare parc național din Mauritius, cu 6.754 de hectare", "Proclamarea oficială a parcului a avut loc la 15 iunie 1994", "Adăpostește peste 300 de specii de plante cu flori native", "Habitat principal pentru șoimul de Mauritius, specie salvată de la dispariție", "Dispune de o rețea de trasee de drumeție de peste 60 de kilometri", "Include cascada Alexandra Falls, o atracție majoră a parcului"],
       en: ["Largest national park in Mauritius, covering 6,754 hectares", "The park was officially proclaimed on June 15, 1994", "Home to over 300 species of native flowering plants", "Crucial sanctuary for the endangered Mauritius Kestrel", "Features a network of more than 60 kilometers of hiking trails", "Contains Alexandra Falls, one of the island's most famous waterfalls"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -269,13 +332,19 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       de: "Ein majestätischer Basaltfelsen auf einer Halbinsel im Südwesten, der als UNESCO-Welterbe und Symbol des Widerstands gegen die Sklaverei gilt.",
       hu: "Fenséges bazalthegy a délnyugati félszigeten, amely az UNESCO Világörökség része és a rabszolgaság elleni ellenállás szimbóluma.",
       ro: "O stâncă de bazalt maiestuoasă pe o peninsulă din sud-vest, sit UNESCO și simbol al rezistenței împotriva sclaviei.",
-      en: "A majestic basaltic rock on a southwest peninsula, a UNESCO World Heritage site and symbol of resistance to slavery."
+      en: "A majestic basaltic rock on a southwest peninsula, a UNESCO World Heritage site and symbol of resistance to slavery.",
+      es: "Una majestuosa roca de basalto en una península del suroeste, declarada Patrimonio de la Humanidad por la UNESCO y símbolo de la resistencia contra la esclavitud.",
+      pt: "Uma majestosa rocha de basalto numa península do sudoeste, Património Mundial da UNESCO e símbolo da resistência contra a escravatura.",
+      fr: "Un majestueux rocher de basalte sur une péninsule au sud-ouest, classé au patrimoine mondial de l'UNESCO et symbole de la résistance à l'esclavage.",
     },
     facts: {
       de: ["UNESCO-Welterbe", "Gipfel auf 556 Metern Höhe", "Steile Klippen über dem Ozean"],
       hu: ["UNESCO Világörökségi helyszín", "Csúcsa 556 méter magasan van", "Meredek sziklák az óceán felett"],
       ro: ["Sit al Patrimoniului Mondial UNESCO", "Vârf la 556 metri înălțime", "Stânci abrupte deasupra oceanului"],
-      en: ["UNESCO World Heritage site", "Summit is 556 meters high", "Dramatic cliffs overlooking the ocean"]
+      en: ["UNESCO World Heritage site", "Summit is 556 meters high", "Dramatic cliffs overlooking the ocean"],
+      es: ["Patrimonio de la Humanidad UNESCO", "Cumbre a 556 metros de altura", "Acantilados escarpados sobre el océano"],
+      pt: ["Património Mundial da UNESCO", "Cume a 556 metros de altitude", "Falésias íngremes sobre o oceano"],
+      fr: ["Patrimoine mondial de l'UNESCO", "Sommet à 556 mètres d'altitude", "Falaises abruptes au-dessus de l'océan"],
     }, image: "/poi-images/le-morne-brabant-relief-v2.webp",
     descriptionAdvanced: {
       de: "Le Morne Brabant ist eine markante Halbinsel am südwestlichen Zipfel von Mauritius, die von einem 556 Meter hohen Basaltfelsen dominiert wird. Die Stätte wurde 2008 in die Liste des UNESCO-Weltkulturerbes aufgenommen und ist ein mächtiges Symbol für den Widerstand gegen die Sklaverei. Im 18. und frühen 19. Jahrhundert diente der unzugängliche Gipfel als Zufluchtsort für entflohene Sklaven, bekannt als Maroons, die in kleinen Siedlungen in den Höhlen und auf dem Plateau lebten. Die Halbinsel ist von einer Korallenlagune umgeben und beherbergt einige der seltensten Pflanzenarten der Welt, darunter die Trochetia boutoniana, die Nationalblume von Mauritius. Der Aufstieg zum Gipfel bietet atemberaubende Ausblicke auf das berühmte Phänomen des 'unterseeischen Wasserfalls', einer optischen Täuschung durch Sandablagerungen. Heute ist Le Morne nicht nur ein Ort der Erinnerung, sondern auch ein Zentrum für Naturschutz und sanften Tourismus. Die kulturelle Bedeutung und die natürliche Schönheit machen es zu einem der wichtigsten Wahrzeichen des Indischen Ozeans.",
@@ -288,6 +357,9 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       hu: ["2008 óta az UNESCO Világörökség hivatalos része", "A központi bazaltszikla 556 méter magasra emelkedik", "A 18. században szökött rabszolgák (marunok) menedékhelye volt", "A ritka nemzeti virág, a Trochetia boutoniana természetes élőhelye", "Híres a part menti 'víz alatti vízesés' optikai csalódásról", "A félsziget területe körülbelül 12 hektárt tesz ki"],
       ro: ["Inclus în Patrimoniul Mondial UNESCO începând cu anul 2008", "Monolitul central de bazalt atinge o înălțime de 556 de metri", "Refugiu istoric pentru sclavii fugari (maroni) în secolul XVIII", "Locul unde crește floarea națională rară, Trochetia boutoniana", "Cunoscut pentru iluzia optică de 'cascadă subacvatică' din larg", "Acoperă o suprafață de aproximativ 12 hectare la baza muntelui"],
       en: ["Inscribed as a UNESCO World Heritage site in 2008", "The central basaltic mountain reaches a height of 556 meters", "Historical sanctuary for escaped slaves known as maroons", "Natural habitat of the rare national flower, Trochetia boutoniana", "Famous for the 'underwater waterfall' optical illusion off its coast", "Covers an area of approximately 12 hectares on the peninsula"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -305,13 +377,19 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       de: "Ein markanter Berg mit einer Silhouette, die an einen schlafenden Wachposten erinnert und die Zentralebene überragt.",
       hu: "Jellegzetes hegy, amelynek sziluettje egy alvó őrszemre emlékeztet, és a középső síkság fölé magasodik.",
       ro: "Un munte distinctiv cu o siluetă care seamănă cu o santinelă adormită, dominând câmpia centrală.",
-      en: "A distinctive mountain with a silhouette resembling a sleeping sentry, overlooking the central plains."
+      en: "A distinctive mountain with a silhouette resembling a sleeping sentry, overlooking the central plains.",
+      es: "Una montaña prominente con una silueta que recuerda a un guardia dormido y domina la llanura central.",
+      pt: "Uma montanha proeminente com uma silhueta que lembra um guarda adormecido e domina a planície central.",
+      fr: "Une montagne imposante dont la silhouette rappelle un garde endormi et qui surplombe la plaine centrale.",
     },
     facts: {
       de: ["Höhe von 720 Metern", "Vulkanischen Ursprungs", "Bekannt für seltene Pflanzen"],
       hu: ["720 méter magas", "Vulkáni eredetű", "Ritka növényeiről ismert"],
       ro: ["Înălțime de 720 metri", "Origine vulcanică", "Cunoscut pentru plante rare"],
-      en: ["Stands 720 meters high", "Of volcanic origin", "Known for rare endemic flora"]
+      en: ["Stands 720 meters high", "Of volcanic origin", "Known for rare endemic flora"],
+      es: ["Altura de 720 metros", "De origen volcánico", "Conocida por sus plantas raras"],
+      pt: ["Altitude de 720 metros", "De origem vulcânica", "Conhecida por plantas raras"],
+      fr: ["Altitude de 720 mètres", "D'origine volcanique", "Réputée pour ses plantes rares"],
     }, image: "/poi-images/corps-de-garde-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Corps de Garde ist ein imposanter Berg vulkanischen Ursprungs mit einer Höhe von 720 Metern im Bezirk Plaines Wilhems auf Mauritius. Sein Name geht auf die Zeit der französischen Kolonialherrschaft zurück, als ein militärischer Wachposten an seinen Hängen stationiert war, um die umliegenden Siedlungen zu überwachen. Der Berg hat eine markante Silhouette, die viele an die Gestalt eines liegenden Wächters erinnert. Geologisch gehört er zur Moka-Gebirgskette und besteht aus Basaltformationen, die durch Jahrmillionen der Erosion geformt wurden. Das Gebiet ist als Naturreservat eingestuft, da es eine wichtige Zufluchtsstätte für seltene endemische Pflanzen ist, darunter die seltene Trochetia triflora. Wanderer schätzen den anspruchsvollen Pfad zum Gipfel, der weite Ausblicke über die Städte Rose Hill, Quatre Bornes und die Westküste bietet. Die Hänge sind oft von trockenem Waldland und Grasflächen bedeckt, was einen Kontrast zu den feuchten Regenwäldern im Süden bildet. Der Berg ist ein wichtiges lokales Wahrzeichen und ein fester Bestandteil der mauritischen Identität.",
@@ -324,6 +402,9 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       hu: ["A hegycsúcs 720 méteres tengerszint feletti magasságban van", "Neve a 18. századi francia katonai őrhelyekről származik", "Olyan ritka endemikus növények otthona, mint a Trochetia triflora", "Fontos természetvédelmi terület a sűrűn lakott Plaines Wilhems körzetben", "Geológiailag a Moka-hegység része, a második vulkáni szakaszból", "Panorámás kilátást nyújt Rose Hill és Quatre Bornes városaira"],
       ro: ["Vârful muntelui atinge o altitudine de 720 de metri", "Numele provine de la un post militar francez din secolul al XVIII-lea", "Găzduiește plante endemice foarte rare, precum Trochetia triflora", "Funcționează ca rezervație naturală în districtul Plaines Wilhems", "Face parte geologic din lanțul Moka, format în a doua etapă eruptivă", "Oferă o vedere panoramică asupra orașelor Rose Hill și Quatre Bornes"],
       en: ["The mountain peak reaches an elevation of 720 meters", "The name originates from an 18th-century French military post", "Home to extremely rare endemic plants like Trochetia triflora", "Important nature reserve located in the Plaines Wilhems district", "Geologically part of the Moka range from the second volcanic stage", "Offers panoramic views of the towns of Rose Hill and Quatre Bornes"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -341,13 +422,19 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       de: "Dieser Berg in Port Louis diente früher der Signalübermittlung für ankommende Schiffe und bietet heute einen einfachen Aufstieg.",
       hu: "Ez a Port Louis-i hegy korábban a beérkező hajók jelzésére szolgált, ma pedig könnyű túraútvonalat kínál.",
       ro: "Acest munte din Port Louis a servit în trecut pentru semnalizarea navelor care soseau, oferind astăzi un urcuș ușor.",
-      en: "This mountain in Port Louis was formerly used for signaling incoming ships and now offers an easy hiking path."
+      en: "This mountain in Port Louis was formerly used for signaling incoming ships and now offers an easy hiking path.",
+      es: "Esta montaña en Port Louis servía antiguamente para transmitir señales a los barcos que llegaban y hoy ofrece un ascenso fácil.",
+      pt: "Esta montanha em Port Louis servia antigamente para a transmissão de sinais aos navios que chegavam e hoje oferece uma subida fácil.",
+      fr: "Cette montagne de Port-Louis servait autrefois à la transmission de signaux pour les navires arrivants et offre aujourd'hui une ascension facile.",
     },
     facts: {
       de: ["Bester Blick auf die Hauptstadt", "Wichtige Funkantennen am Gipfel", "Beliebter Ort für Sonnenuntergänge"],
       hu: ["A legjobb kilátás a fővárosra", "Fontos rádióantennák a csúcson", "Népszerű hely naplementéhez"],
       ro: ["Cea mai bună vedere spre capitală", "Antene radio importante pe vârf", "Loc popular pentru apusuri"],
-      en: ["Best viewpoint for the capital", "Hosts important radio antennas", "Popular spot for viewing sunsets"]
+      en: ["Best viewpoint for the capital", "Hosts important radio antennas", "Popular spot for viewing sunsets"],
+      es: ["Mejor vista de la capital", "Importantes antenas de radio en la cima", "Lugar popular para ver puestas de sol"],
+      pt: ["Melhor vista sobre a capital", "Antenas de rádio importantes no topo", "Local popular para o pôr do sol"],
+      fr: ["Meilleure vue sur la capitale", "Importantes antennes radio au sommet", "Lieu prisé pour les couchers de soleil"],
     }, image: "/poi-images/signal-mountain-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Signal Mountain erhebt sich 323 Meter über der mauritischen Hauptstadt Port Louis und ist ein markantes geografisches Merkmal der Region. Historisch gesehen diente der Gipfel als entscheidender Kommunikationspunkt für den Hafen, wobei Flaggen und Laternen genutzt wurden, um den Schiffsverkehr zu leiten. Die strategische Lage ermöglichte eine frühzeitige Sichtung ankommender Schiffe aus dem Indischen Ozean. Heute beherbergt der Berg zahlreiche Telekommunikationsmasten und eine Wetterstation, die 1946 zur Beobachtung von Zyklonen errichtet wurde. Geologisch besteht das Massiv hauptsächlich aus Basaltgestein, das während der ersten vulkanischen Phase der Inselbildung vor Millionen von Jahren entstand. Ein asphaltierter Weg führt zum Gipfel und wird intensiv für sportliche Aktivitäten sowie zur Beobachtung der städtischen Entwicklung von Port Louis genutzt. Die Flora an den Hängen ist durch eine Mischung aus eingeführten Arten und einigen resilienten einheimischen Gewächsen geprägt.",
@@ -360,6 +447,9 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       hu: ["A tengerszint feletti magassága 323 méter", "1946-ban épült rajta az első ciklonfigyelő állomás", "Port Louis városának elsődleges tájékozódási pontja", "A francia és brit korszakban jelzőállomásként működött", "Kőzetanyaga döntően bazaltos eredetű", "Kiépített, gyalogosan és kerékpárral is járható út vezet fel"],
       ro: ["Înălțime de 323 de metri deasupra mării", "Găzduiește o stație radar meteo din anul 1946", "Punct strategic de comunicare în perioada colonială", "Compus din roci bazaltice de origine vulcanică", "Situat în imediata apropiere a capitalei Port Louis", "Accesul spre vârf se face pe un drum asfaltat"],
       en: ["Elevation of 323 meters above sea level", "Site of a weather radar station built in 1946", "Primary signaling point for Port Louis harbor", "Composed of basaltic rocks from the first volcanic phase", "Located within the district of Port Louis", "Features a paved path for public recreational use"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -377,13 +467,19 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       de: "Ein Trockenwald-Nationalpark im Osten der Insel, der sich durch seine reiche Vogelwelt und Wanderwege auszeichnet.",
       hu: "Száraz erdei nemzeti park a sziget keleti részén, amely gazdag madárvilágával és túraútvonalaival tűnik ki.",
       ro: "Un parc național de pădure uscată în estul insulei, remarcat prin fauna aviară bogată și traseele de drumeție.",
-      en: "A dry forest national park in the east of the island, noted for its rich birdlife and network of nature trails."
+      en: "A dry forest national park in the east of the island, noted for its rich birdlife and network of nature trails.",
+      es: "Un parque nacional de bosque seco en el este de la isla, que destaca por su rica avifauna y senderos para caminar.",
+      pt: "Um parque nacional de floresta seca no leste da ilha, que se destaca pela sua rica avifauna e trilhos para caminhadas.",
+      fr: "Un parc national de forêt sèche à l'est de l'île, qui se distingue par sa riche avifaune et ses sentiers de randonnée.",
     },
     facts: {
       de: ["Heimat des Mauritius-Paradiesschnäppers", "Ehemalige Zuckerrohrplantage", "Besitzt einen Naturlehrpfad"],
       hu: ["A mauritiusi paradicsom-légyvadász otthona", "Egykori cukornádültetvény", "Természeti tanösvénye van"],
       ro: ["Adăpostește muscarul de paradis", "Fostă plantație de trestie", "Deține o potecă interpretativă"],
-      en: ["Home to the Mauritius Paradise Flycatcher", "Located on a former sugar estate", "Features an interpretive nature trail"]
+      en: ["Home to the Mauritius Paradise Flycatcher", "Located on a former sugar estate", "Features an interpretive nature trail"],
+      es: ["Hogar del monarca colilargo de Mauricio", "Antigua plantación de caña de azúcar", "Posee un sendero natural educativo"],
+      pt: ["Habitat do papa-moscas-do-paraíso das Maurícias", "Antiga plantação de cana-de-açúcar", "Possui um trilho natural educativo"],
+      fr: ["Habitat du gobe-mouche de paradis de Maurice", "Ancienne plantation de cane à sucre", "Possède un sentier pédagogique naturel"],
     }, image: "/poi-images/bras-deau-forest-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Bras d'Eau Nationalpark im Osten von Mauritius umfasst eine Fläche von etwa 497 Hektar und stellt eines der letzten verbliebenen Küstenwaldgebiete der Insel dar. Das Schutzgebiet wurde 2011 offiziell zum Nationalpark erklärt, um die verbliebene Biodiversität, insbesondere die endemischen Ebenholzbestände, zu bewahren. Historisch war das Gebiet Standort französischer Zuckerrohrplantagen, wovon Ruinen einer alten Zuckermühle und eines Kalkofens aus dem 19. Jahrhundert zeugen. Die Topographie ist durch Lavatunnel und vulkanische Höhlen geprägt, die einen Einblick in die geologische Entstehung der Region geben. Der Park ist ein kritischer Lebensraum für den seltenen Mauritius-Paradiesschnäpper, einen endemischen Vogel, dessen Population hier streng überwacht wird. Ein Netz von Wanderwegen durchzieht das Gelände, wobei der Mare Sarcelle, ein Brackwassersee, ein wichtiger Rastplatz für Zugvögel ist. Die Aufforstungsbemühungen konzentrieren sich auf die Verdrängung invasiver Arten wie der Brasilianischen Kirsche durch einheimische Hölzer.",
@@ -396,6 +492,9 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       hu: ["2011-ben alapított nemzeti park", "497 hektárnyi védett terület Mauritius keleti részén", "A ritka mauritusi paradicsom-légykapó élőhelye", "19. századi mészégető és cukormalom romjai találhatók itt", "Számos vulkáni eredetű lávacsatorna található a területén", "A Mare Sarcelle tó vándorló vízimadarak pihenőhelye"],
       ro: ["Statut oficial de parc național obținut în 2011", "Suprafață totală protejată de 497 de hectare", "Habitat principal pentru Terpsiphone desolata", "Include ruine industriale din secolul al XIX-lea", "Prezența unor structuri geologice tip tunel de lavă", "Lacul Mare Sarcelle este situat în incinta parcului"],
       en: ["Established as a national park in 2011", "Covers approximately 497 hectares of land", "Key sanctuary for the Mauritius Paradise Flycatcher", "Contains ruins of a historical French sugar mill", "Characterized by volcanic lava tube formations", "Includes the Mare Sarcelle brackish water lake"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -413,13 +512,19 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       de: "Ein Teil des Hochland-Regenwaldes im Black River Gorges Park, der für seine uralten Ebenholzbäume bekannt ist.",
       hu: "A Black River Gorges Park felföldi esőerdejének része, amely ősi ébenfáiról ismert.",
       ro: "O parte a pădurii tropicale de munte din parcul Black River Gorges, cunoscută pentru arborii de abanos antici.",
-      en: "A section of upland rainforest within the Black River Gorges Park, famous for its ancient ebony trees."
+      en: "A section of upland rainforest within the Black River Gorges Park, famous for its ancient ebony trees.",
+      es: "Parte de la selva tropical de las tierras altas del Parque de las Gargantas del Río Negro, conocida por sus antiguos árboles de ébano.",
+      pt: "Parte da floresta tropical das terras altas no Parque Nacional Black River Gorges, conhecida pelas suas árvores de ébano antigas.",
+      fr: "Une partie de la forêt tropicale des hauts plateaux dans le parc des Gorges de la Rivière Noire, connue pour ses ébéniers centenaires.",
     },
     facts: {
       de: ["Teil des größten Nationalparks", "Hervorragendes Wandergebiet", "Ausblicke auf die Westküste"],
       hu: ["A legnagyobb nemzeti park része", "Kiváló túraterület", "Kilátás a nyugati partra"],
       ro: ["Parte a celui mai mare parc național", "Zonă excelentă de drumeție", "Vederi spre coasta de vest"],
-      en: ["Part of the major national park", "Excellent area for hiking", "Viewpoints over the west coast"]
+      en: ["Part of the major national park", "Excellent area for hiking", "Viewpoints over the west coast"],
+      es: ["Parte del mayor parque nacional", "Excelente zona de senderismo", "Vistas de la costa oeste"],
+      pt: ["Parte do maior parque nacional", "Excelente zona para caminhadas", "Vistas sobre a costa oeste"],
+      fr: ["Fait partie du plus grand parc national", "Excellente zone de randonnée", "Vues sur la côte ouest"],
     }, image: "/poi-images/macchabee-forest-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Macchabée-Wald ist ein wesentlicher Bestandteil des Black River Gorges Nationalparks im Südwesten von Mauritius und gilt als eines der bedeutendsten Reservate für einheimische Flora und Fauna. Dieses Hochlandwaldgebiet erstreckt sich auf einer Höhe zwischen 500 und 700 Metern über dem Meeresspiegel und beherbergt eine Vielzahl endemischer Pflanzenarten, darunter seltene Orchideen und Ebenhölzer. Historisch blieb der Wald aufgrund seiner schroffen Topographie weitgehend von der großflächigen Rodung für die Landwirtschaft verschont. Er bietet heute einen Rückzugsort für bedrohte Tierarten wie den Mauritius-Turmfalken und den Mauritussittich. Die Niederschlagsmengen sind hier deutlich höher als in den Küstenregionen, was zur Entwicklung eines dichten Regenwaldes mit komplexen ökologischen Nischen geführt hat. Ein markanter Aussichtspunkt ermöglicht den Blick über die tiefen Schluchten und den Indischen Ozean. Wissenschaftliche Projekte im Wald konzentrieren sich auf die Wiederherstellung des ursprünglichen Ökosystems durch die Entfernung invasiver Arten wie der chinesischen Guave.",
@@ -432,6 +537,9 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       hu: ["A Black River Gorges Nemzeti Park része", "500-700 méteres tengerszint feletti magasság", "A veszélyeztetett mauritusi vércse egyik fészkelőhelye", "Több mint 300 őshonos növényfaj otthona", "A csapadék éves mennyisége meghaladja a 2500 mm-t", "Fontos tudományos kutatóhely az invazív fajok irtására"],
       ro: ["Situată în incinta Parcului Național Black River Gorges", "Altitudine medie între 500 și 700 de metri", "Refugiu critic pentru specia Falco punctatus", "Găzduiește sute de specii de plante endemice", "Regiune cu un nivel ridicat de precipitații anuale", "Include trasee montane cu puncte de observație"],
       en: ["Located within Black River Gorges National Park", "Elevation ranges from 500 to 700 meters", "Critical habitat for the endangered Mauritius Kestrel", "Home to over 300 species of endemic flowering plants", "Receives significantly more rainfall than coastal areas", "Target of extensive native forest restoration efforts"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -449,13 +557,19 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       de: "Das höchste Plateau von Mauritius, bekannt für seine kühleren Temperaturen und die Ernte von wilden Guaven.",
       hu: "Mauritius legmagasabb fennsíkja, amely hűvösebb hőmérsékletéről és a vadguajáva betakarításáról ismert.",
       ro: "Cel mai înalt platou din Mauritius, cunoscut pentru temperaturile mai scăzute și recoltarea guavelor sălbatice.",
-      en: "The highest plateau in Mauritius, known for its cooler temperatures and the harvesting of wild Chinese guavas."
+      en: "The highest plateau in Mauritius, known for its cooler temperatures and the harvesting of wild Chinese guavas.",
+      es: "La meseta más alta de Mauricio, conocida por sus temperaturas más frescas y la cosecha de guayabas silvestres.",
+      pt: "O planalto mais alto das Maurícias, conhecido pelas suas temperaturas mais frescas e pela colheita de goiabas silvestres.",
+      fr: "Le plus haut plateau de l'île Maurice, connu pour ses températures plus fraîches et la récolte de goyaves sauvages.",
     },
     facts: {
       de: ["Höchstgelegenes Plateau der Insel", "Zentrum für Guavenernte im Mai/Juni", "Wichtige Wasserscheide"],
       hu: ["A sziget legmagasabb fennsíkja", "Guajáva-szüret központja májusban", "Fontos vízválasztó"],
       ro: ["Cel mai înalt platou de pe insulă", "Centru pentru culesul guavelor", "Cumpănă de ape importantă"],
-      en: ["Highest plateau on the island", "Center for guava picking in May/June", "Important watershed area"]
+      en: ["Highest plateau on the island", "Center for guava picking in May/June", "Important watershed area"],
+      es: ["Meseta más elevada de la isla", "Centro de cosecha de guayabas en mayo/junio", "Importante divisoria de aguas"],
+      pt: ["Planalto mais elevado da ilha", "Centro de colheita de goiabas em Maio/Junho", "Importante bacia hidrográfica"],
+      fr: ["Plus haut plateau de l'île", "Centre de récolte des goyaves en mai/juin", "Ligne de partage des eaux importante"],
     }, image: "/poi-images/plaine-champagne-relief-v2.webp",
     descriptionAdvanced: {
       de: "Plaine Champagne ist das höchste Plateau auf Mauritius und liegt im südwestlichen Teil der Insel auf einer durchschnittlichen Höhe von etwa 600 bis 700 Metern. Diese Region ist bekannt für ihre kühlen Temperaturen und die markante vulkanische Bodenbeschaffenheit, die eine einzigartige Hochlandvegetation begünstigt. Geologisch bildet das Plateau eine wichtige Wasserscheide, von der zahlreiche Flüsse in die umliegenden Täler abfließen. Historisch wurde das Gebiet für forstwirtschaftliche Zwecke genutzt, doch heute steht der Schutz der Biodiversität im Vordergrund, da hier viele seltene endemische Pflanzenarten wie der Tambalacoque-Baum zu finden sind. Während der Erntesaison zwischen Mai und Juli ist die Hochebene ein bekannter Ort für das Sammeln von chinesischen Guaven, einer invasiven Frucht, die jedoch tief in der lokalen Kultur verwurzelt ist. Von mehreren Aussichtspunkten entlang der Hauptstraße bietet sich ein direkter Blick auf die Wasserfälle von Alexandra Falls und die tiefen Schluchten des Black River Gorges. Die Region spielt zudem eine wichtige Rolle für den Ökotourismus und die wissenschaftliche Erforschung der mauritischen Ökosysteme.",
@@ -468,6 +582,9 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       hu: ["Mauritius szigetének legmagasabb fennsíkja", "600 és 700 méter közötti magasságban fekszik", "A ritka Tambalacoque-fa egyik természetes élőhelye", "A kínai guava gyűjtésének fő központja", "Közvetlen rálátást biztosít az Alexandra-vízesésre", "Fontos vízgyűjtő terület a déli folyók számára"],
       ro: ["Cel mai înalt platou de pe insula Mauritius", "Altitudine medie situată între 600 și 700 de metri", "Habitat pentru specia endemică Sideroxylon grandiflorum", "Locație principală pentru recoltarea guavelor chinezești", "Oferă acces la punctele de belvedere Alexandra Falls", "Sursă importantă de apă pentru râurile din sud"],
       en: ["Highest plateau on the island of Mauritius", "Average elevation between 600 and 700 meters", "Habitat for the rare endemic Tambalacoque tree", "Primary area for seasonal Chinese guava picking", "Features viewpoints overlooking Alexandra Falls", "Functions as a major watershed for the island"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -485,13 +602,19 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       de: "Der höchste Punkt der Insel Rodrigues bietet einen beeindruckenden 360-Grad-Blick auf die Lagune und das Korallenriff.",
       hu: "Rodrigues szigetének legmagasabb pontja, amely lenyűgöző 360 fokos kilátást nyújt a lagúnára és a korallzátonyra.",
       ro: "Cel mai înalt punct al insulei Rodrigues oferă o vedere impresionantă de 360 de grade asupra lagunei.",
-      en: "The highest point on Rodrigues Island, offering an impressive 360-degree view of the lagoon and coral reef."
+      en: "The highest point on Rodrigues Island, offering an impressive 360-degree view of the lagoon and coral reef.",
+      es: "El punto más alto de la isla Rodrigues ofrece una impresionante vista de 360 grados de la laguna y el arrecife de coral.",
+      pt: "O ponto mais alto da ilha Rodrigues oferece uma impressionante vista de 360 graus da lagoa e do recife de coral.",
+      fr: "Le point culminant de l'île Rodrigues offre une vue impressionnante à 360 degrés sur le lagon et la barrière de corail.",
     },
     facts: {
       de: ["Höchster Berg von Rodrigues", "398 Meter hoch", "Beste Aussicht der Insel"],
       hu: ["Rodrigues legmagasabb hegye", "398 méter magas", "A sziget legjobb kilátóhelye"],
       ro: ["Cel mai înalt munte din Rodrigues", "Înălțime de 398 metri", "Cea mai bună vedere de pe insulă"],
-      en: ["Highest mountain in Rodrigues", "Stands 398 meters tall", "Best panoramic view of the island"]
+      en: ["Highest mountain in Rodrigues", "Stands 398 meters tall", "Best panoramic view of the island"],
+      es: ["Montaña más alta de Rodrigues", "398 metros de altura", "La mejor vista de la isla"],
+      pt: ["Montanha mais alta de Rodrigues", "398 metros de altitude", "Melhor vista da ilha"],
+      fr: ["Plus haute montagne de Rodrigues", "398 mètres d'altitude", "La plus belle vue de l'île"],
     }, image: "/poi-images/mont-limon-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Mont Limon ist mit einer Höhe von 398 Metern die höchste Erhebung der Insel Rodrigues im Indischen Ozean. Als zentraler geografischer Punkt bietet der Gipfel einen vollständigen Rundumblick über die gesamte Insel, einschließlich der Korallenriffe und der Küstenlinie. Geologisch ist der Berg vulkanischen Ursprungs und besteht überwiegend aus basaltischen Gesteinsformationen, die typisch für die Entstehung der Maskarenen sind. Der Aufstieg zum Gipfel ist verhältnismäßig kurz und führt durch Gebiete mit aufgeforsteter Vegetation und landwirtschaftlich genutzten Flächen. Historisch diente der Berg als wichtiger Orientierungspunkt für Seefahrer und die lokale Bevölkerung. In der Umgebung finden sich Reste der ursprünglichen Flora von Rodrigues, die durch Schutzmaßnahmen vor invasiven Spezies bewahrt werden soll. Das Klima auf dem Gipfel ist oft windiger und kühler als an der Küste, was die Ansiedlung spezifischer Pflanzen begünstigt. Der Mont Limon ist ein unverzichtbarer Ort für die Vermessung der Insel und ein Symbol für die natürliche Vielfalt von Rodrigues.",
@@ -504,6 +627,9 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       hu: ["Rodrigues legmagasabb pontja (398 méter)", "360 fokos kilátást nyújt a teljes szigetre", "Bazaltos kőzetekből álló vulkáni kúp", "A sziget földmérési alappontja", "Gyakoriak az erős szelek a csúcs környékén", "A csúcs közelében eredeti növénytársulások élnek"],
       ro: ["Cel mai înalt vârf din Rodrigues la 398 m", "Oferă o vedere panoramică completă asupra insulei", "Format din roci vulcanice bazaltice", "Punct central de referință pentru cartografiere", "Temperaturi mai scăzute față de nivelul mării", "Accesibil printr-un traseu de drumeție scurt"],
       en: ["Highest peak on Rodrigues Island at 398 meters", "Provides a 360-degree view of the lagoon", "Geological formation composed of basalt rock", "Central point for geographical surveying", "Features a cooler microclimate than the plains", "Easily accessible via a short hiking trail"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -521,13 +647,19 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       de: "Der zweithöchste Gipfel von Rodrigues liegt im zentralen Gebirge und ist ein wichtiger trigonometrischer Punkt.",
       hu: "Rodrigues második legmagasabb csúcsa a központi hegységben található, és fontos geodéziai pont.",
       ro: "Al doilea cel mai înalt vârf din Rodrigues se află în munții centrali și este un punct trigonometric important.",
-      en: "The second highest peak in Rodrigues, located in the central mountain range, and an important trigonometric point."
+      en: "The second highest peak in Rodrigues, located in the central mountain range, and an important trigonometric point.",
+      es: "El segundo pico más alto de Rodrigues se encuentra en la cordillera central y es un importante punto trigonométrico.",
+      pt: "O segundo pico mais alto de Rodrigues situa-se na cordilheira central e é um ponto trigonométrico importante.",
+      fr: "Le deuxième plus haut sommet de Rodrigues est situé dans la chaîne centrale et constitue un point trigonométrique important.",
     },
     facts: {
       de: ["Zweithöchster Punkt von Rodrigues", "392 Meter über dem Meer", "Teil des Zentralgebirges"],
       hu: ["Rodrigues második legmagasabb pontja", "392 méterrel a tenger felett", "A központi hegység része"],
       ro: ["Al doilea cel mai înalt punct", "392 metri deasupra mării", "Parte a lanțului muntos central"],
-      en: ["Second highest point in Rodrigues", "392 meters above sea level", "Part of the central mountain range"]
+      en: ["Second highest point in Rodrigues", "392 meters above sea level", "Part of the central mountain range"],
+      es: ["Segundo punto más alto de Rodrigues", "392 metros sobre el nivel del mar", "Parte de la cordillera central"],
+      pt: ["Segundo ponto mais alto de Rodrigues", "392 metros acima do nível do mar", "Parte da cordilheira central"],
+      fr: ["Deuxième point le plus élevé de Rodrigues", "392 mètres au-dessus du niveau de la mer", "Fait partie de la chaîne de montagnes centrale"],
     }, image: "/poi-images/mont-malartic-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Mont Malartic ist mit 392 Metern die zweithöchste Erhebung auf der Insel Rodrigues und befindet sich im zentralen Hochland südlich der Hauptstadt Port Mathurin. Die Region um den Berg ist von großer Bedeutung für die lokale Landwirtschaft, da die fruchtbaren vulkanischen Böden den Anbau verschiedener Nutzpflanzen ermöglichen. Geologisch ist der Mont Malartic Teil des alten Vulkansystems der Insel und weist charakteristische Basaltformationen auf. Historisch wurde der Berg nach dem Grafen von Malartic benannt, einem ehemaligen französischen Gouverneur von Mauritius und den abhängigen Gebieten. Der Gipfel bietet eine weite Sicht über die südliche Lagune und die zerklüfteten Täler des Inselinneren. Die Vegetation ist geprägt von einer Mischung aus Nutzpflanzen, Weideland und vereinzelten Beständen einheimischer Sträucher. Der Mont Malartic ist zudem ein wichtiger Punkt für das Wassermanagement der Insel, da von seinen Hängen mehrere kleine Bäche in die Küstenebene abfließen. Die Erhaltung der Bodenqualität und der Schutz vor Erosion sind zentrale Themen in dieser landwirtschaftlich intensiv genutzten Zone.",
@@ -540,6 +672,9 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       hu: ["Rodrigues második legmagasabb csúcsa (392 méter)", "Malartic francia kormányzóról kapta a nevét", "Mezőgazdaságilag hasznosított vulkáni terület", "Kilátás nyílik róla a sziget déli lagúnájára", "A központi felföldi régió meghatározó eleme", "Fontos szerepe van a sziget vízellátásában"],
       ro: ["Al doilea cel mai înalt vârf din Rodrigues (392 m)", "Denumit după guvernatorul francez Anne-Joseph-Hippolyte de Malartic", "Zonă agricolă importantă datorită solului fertil", "Oferă vederi panoramice spre sudul insulei", "Format din roci bazaltice străvechi", "Sursă pentru fluxurile de apă locale"],
       en: ["Second highest point on Rodrigues at 392 meters", "Named after the French Governor Count Malartic", "Surrounded by fertile volcanic agricultural land", "Overlooks the southern lagoon and coral reef", "Integral part of the island's central highland", "Source of several small streams and springs"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -557,13 +692,19 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       de: "Der höchste Wasserfall von Mauritius stürzt über eine steile Basaltklippe in ein hufeisenförmiges Becken.",
       hu: "Mauritius legmagasabb vízesése, amely egy meredek bazaltszikláról zúdul le egy patkó alakú medencébe.",
       ro: "Cea mai înaltă cascadă din Mauritius cade peste o stâncă abruptă de bazalt într-un bazin în formă de potcoavă.",
-      en: "The highest waterfall in Mauritius, plummeting over a steep basaltic cliff into a horseshoe-shaped pool."
+      en: "The highest waterfall in Mauritius, plummeting over a steep basaltic cliff into a horseshoe-shaped pool.",
+      es: "La cascada más alta de Mauricio cae por un escarpado acantilado de basalto en una cuenca con forma de herradura.",
+      pt: "A cascata mais alta das Maurícias precipita-se sobre uma falésia escarpada de basalto para uma bacia em forma de ferradura.",
+      fr: "La plus haute cascade de Maurice se jette d'une falaise de basalte abrupte dans un bassin en forme de fer à cheval.",
     },
     facts: {
       de: ["Höchster Wasserfall der Insel", "Etwa 100 Meter Fallhöhe", "Spektakuläre Aussichtsplattform"],
       hu: ["A sziget legmagasabb vízesése", "Körülbelül 100 méter magas", "Látványos kilátóterasz"],
       ro: ["Cea mai înaltă cascadă de pe insulă", "Înălțime de aproximativ 100 metri", "Platformă de vizionare spectaculoasă"],
-      en: ["Highest waterfall on the island", "Drops roughly 100 meters", "Spectacular viewing platform"]
+      en: ["Highest waterfall on the island", "Drops roughly 100 meters", "Spectacular viewing platform"],
+      es: ["Cascada más alta de la isla", "Unos 100 metros de altura", "Espectacular plataforma de observación"],
+      pt: ["Cascata mais alta da ilha", "Cerca de 100 metros de altura", "Plataforma de observação espetacular"],
+      fr: ["Plus haute cascade de l'île", "Environ 100 mètres de haut", "Plate-forme d'observation spectaculaire"],
     }, image: "/poi-images/chamarel-waterfall-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Chamarel-Wasserfall ist mit einer Fallhöhe von etwa 83 bis 100 Metern der höchste einreihige Wasserfall auf Mauritius und liegt im Südwesten der Insel. Er wird von den Flüssen St. Denis und Viande Salée gespeist, die über eine hufeisenförmige Basaltkante in eine dichte, tropische Schlucht stürzen. Die geologische Struktur der Kante stammt aus der vulkanischen Aktivität vor Millionen von Jahren und zeigt deutlich die verschiedenen Lavaströme der Inselbildung. Historisch ist das Gebiet eng mit der Familie Chamarel verbunden, die im 18. Jahrhundert Landkonzessionen in dieser Region hielt. Der Wasserfall ist ein zentraler Bestandteil des Chamarel-Naturparks und befindet sich in unmittelbarer Nähe der berühmten Siebenfarbigen Erde. Zwei Aussichtsplattformen ermöglichen eine detaillierte Beobachtung der Fallkante und der umgebenden Regenwaldvegetation, in der häufig Flughunde gesichtet werden. Die Wassermenge schwankt saisonal stark und erreicht nach heftigen Regenfällen im Südsommer ihr Maximum. Der Wasserfall ist nicht nur ein Wahrzeichen für den Tourismus, sondern auch ein wichtiges Studienobjekt für die Erosion vulkanischer Landschaften.",
@@ -576,6 +717,9 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       hu: ["Mauritius legmagasabb egylépcsős vízesése", "A víz esési magassága 83 és 100 méter között van", "A St. Denis és a Viande Salée folyók táplálják", "Földtanilag ősi bazaltrétegeken zúdul át", "A Chamarel család birtoka volt a 18. században", "Közelében található a Hétszínű Föld"],
       ro: ["Cea mai înaltă cascadă cu o singură treaptă din Mauritius", "Înălțimea căderii de apă este între 83 și 100 de metri", "Alimentată de cursul râului St. Denis", "Situată într-un amfiteatru natural de bazalt", "Aproape de formațiunea geologică Seven Coloured Earths", "Vizibilă de pe două platforme special amenajate"],
       en: ["Highest single-drop waterfall in Mauritius", "Total drop height is approximately 83-100 meters", "Fed by the St. Denis and Viande Salée rivers", "Flows over ancient basaltic lava layers", "Named after 18th-century landowner Charles de Chamarel", "Located near the Seven Coloured Earths attraction"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -593,13 +737,19 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       de: "Ein weiterer vulkanischer Kratersee im Süden, der von dichtem Wald umgeben ist und als wichtiges Vogelschutzgebiet gilt.",
       hu: "Egy másik vulkáni krátertó délen, amelyet sűrű erdő vesz körül, és fontos madárvédelmi terület.",
       ro: "Un alt lac de crater vulcanic în sud, înconjurat de pădure deasă, considerat o zonă importantă pentru păsări.",
-      en: "Another volcanic crater lake in the south, surrounded by dense forest and recognized as an important bird area."
+      en: "Another volcanic crater lake in the south, surrounded by dense forest and recognized as an important bird area.",
+      es: "Otro lago de cráter volcánico en el sur, rodeado de un bosque denso y considerado un área importante para la protección de aves.",
+      pt: "Mais um lago de cratera vulcânica no sul, rodeado por floresta densa e considerado uma área importante para a conservação de aves.",
+      fr: "Un autre lac de cratère volcanique au sud, entouré d'une forêt dense et considéré comme une zone importante pour la protection des oiseaux.",
     },
     facts: {
       de: ["Vulkanischer Kratersee", "Ruhige und abgelegene Lage", "Wichtig für den Naturschutz"],
       hu: ["Vulkáni krátertó", "Csendes és eldugott helyszín", "Fontos természetvédelmi szempontból"],
       ro: ["Lac de crater vulcanic", "Locație liniștită și retrasă", "Important pentru conservare"],
-      en: ["Volcanic crater lake", "Quiet and secluded location", "Important site for nature conservation"]
+      en: ["Volcanic crater lake", "Quiet and secluded location", "Important site for nature conservation"],
+      es: ["Lago de cráter volcánico", "Ubicación tranquila y apartada", "Importante para la conservación de la naturaleza"],
+      pt: ["Lago de cratera vulcânica", "Localização tranquila e isolada", "Importante para a conservação da natureza"],
+      fr: ["Lac de cratère volcanique", "Emplacement calme et isolé", "Important pour la conservation de la nature"],
     }, image: "/poi-images/bassin-blanc-relief-v2.webp",
     descriptionAdvanced: {
       de: "Bassin Blanc ist ein beeindruckender Kratersee vulkanischen Ursprungs im südlichen Hochland von Mauritius, unweit von Bois Chéri. Der See liegt in einem erloschenen Vulkankrater und ist von steilen Wänden umgeben, die mit dichtem, unberührtem Regenwald bewachsen sind. Geologisch ist er ein Beweis für die späten vulkanischen Aktivitäten der Insel und dient als wichtiges natürliches Reservoir. Historisch wurde das Gebiet aufgrund seiner Abgeschiedenheit lange Zeit kaum erschlossen, was zur Erhaltung einer hohen Biodiversität beitrug. In den Wäldern rund um den See finden sich zahlreiche endemische Vogelarten, darunter der Mauritius-Brillenvogel und seltene Orchideenarten. Der Zugang zum See ist aufgrund des unwegsamen Geländes begrenzt, was ihm eine ruhige und abgeschiedene Atmosphäre verleiht. Die Tiefe des Sees ist beträchtlich, und das Wasser erscheint aufgrund der umgebenden Vegetation oft dunkelgrün. Bassin Blanc spielt eine wichtige Rolle im lokalen Ökosystem und ist ein geschätztes Ziel für Naturforscher und Vogelbeobachter, die die ursprüngliche Flora von Mauritius studieren möchten.",
@@ -612,6 +762,9 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       hu: ["Kialudt vulkáni kráterben fekvő természetes tó", "Mauritius déli felföldjén, Bois Chéri közelében található", "A veszélyeztetett mauritusi pápaszemesmadár élőhelye", "Érintetlen trópusi esőerdő veszi körül", "A vízmélysége geológiailag jelentős", "Fontos természetes vízgyűjtő terület"],
       ro: ["Lac natural situat într-un crater vulcanic stins", "Localizat în podișul sudic, lângă Bois Chéri", "Habitat pentru pasărea endemică Zosterops chloronothos", "Înconjurat de pădure tropicală primară densă", "Rezervor natural de apă cu adâncime mare", "Zonă de conservare cu acces limitat"],
       en: ["Natural lake situated within an extinct volcanic crater", "Located in the southern highlands near Bois Chéri", "Habitat for the endangered Mauritius Olive White-eye", "Surrounded by primary tropical rainforest", "Serves as a significant natural water reservoir", "Noted for its high level of floral biodiversity"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -629,13 +782,19 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       de: "Ein Berg im Südosten, dessen Umrisse an einen liegenden Löwen erinnern und einen Blick auf die Bucht von Grand Port bieten.",
       hu: "Hegy a délkeleti részen, amelynek körvonalai egy fekvő oroszlánra emlékeztetnek, és kilátást nyújtanak a Grand Port-öbölre.",
       ro: "Un munte în sud-est, a cărui formă amintește de un leu culcat, oferind vederi asupra golfului Grand Port.",
-      en: "A mountain in the southeast whose outline resembles a reclining lion, offering views over the historic Grand Port bay."
+      en: "A mountain in the southeast whose outline resembles a reclining lion, offering views over the historic Grand Port bay.",
+      es: "Una montaña en el sureste cuyos contornos recuerdan a un león tumbado y ofrece vistas de la bahía de Grand Port.",
+      pt: "Uma montanha no sudeste cujos contornos lembram um leão deitado e oferece vistas sobre a baía de Grand Port.",
+      fr: "Une montagne du sud-est dont les contours rappellent un lion couché et qui offre une vue sur la baie de Grand Port.",
     },
     facts: {
       de: ["Charakteristische Löwenform", "Blick auf Grand Port Bay", "Beliebt für anspruchsvolle Wanderungen"],
       hu: ["Jellegzetes oroszlán alak", "Kilátás a Grand Port-öbölre", "Népszerű a nehéz túrák kedvelői körében"],
       ro: ["Formă caracteristică de leu", "Vedere spre golful Grand Port", "Popular pentru drumeții solicitante"],
-      en: ["Characteristic lion shape", "Overlooks Grand Port Bay", "Popular for challenging hikes"]
+      en: ["Characteristic lion shape", "Overlooks Grand Port Bay", "Popular for challenging hikes"],
+      es: ["Forma característica de león", "Vistas de la bahía de Grand Port", "Popular para excursiones exigentes"],
+      pt: ["Forma de leão caraterística", "Vista sobre a baía de Grand Port", "Popular para caminhadas exigentes"],
+      fr: ["Forme de lion caractéristique", "Vue sur la baie de Grand Port", "Appréciée pour les randonnées exigeantes"],
     }, image: "/poi-images/lion-mountain-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Lion Mountain ist ein markanter Gipfel in der Grand Port-Bergkette im Südosten von Mauritius und erreicht eine Höhe von etwa 480 Metern. Seinen Namen verdankt der Berg seiner charakteristischen Silhouette, die aus der Ferne an einen liegenden Löwen oder eine Sphinx erinnert. Geologisch besteht der Berg aus altem Basaltgestein und ist Teil der ersten vulkanischen Phase der Inselbildung. Historisch spielte der Lion Mountain eine strategische Rolle während der Schlacht von Grand Port im Jahr 1810, da er einen hervorragenden Überblick über die Bucht und die feindlichen Schiffsbewegungen bot. Der Aufstieg zum Gipfel ist anspruchsvoll und erfordert Kletterpassagen über felsiges Gelände. Die Vegetation umfasst eine Reihe von endemischen Pflanzen, die sich an die exponierten, windigen Bedingungen der Bergkämme angepasst haben. Vom 'Kopf' des Löwen bietet sich eine weite Aussicht auf die Lagune von Mahebourg, den Flughafen und die umliegenden Inseln. Heute ist der Berg ein beliebtes Ziel für Wanderer, die sowohl die sportliche Herausforderung als auch die historische Bedeutung des Ortes schätzen.",
@@ -648,6 +807,9 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       hu: ["Körülbelül 480 méter magas csúcs", "Formája egy fekvő oroszlánra hasonlít", "Az 1810-es tengeri csata fontos figyelőpontja volt", "A Grand Port-hegység legjellegzetesebb tagja", "Ősi, vulkáni bazaltkőzet építi fel", "Technikás túraútvonal vezet a csúcsra"],
       ro: ["Altitudine de aproximativ 480 de metri", "Profilul muntelui seamănă cu un leu culcat", "Punct de observație în Bătălia de la Grand Port din 1810", "Situat în sud-estul insulei Mauritius", "Format din roci bazaltice din prima eră vulcanică", "Traseul spre vârf implică porțiuni de cățărare"],
       en: ["Elevation of approximately 480 meters", "Silhouette resembles a crouching lion or sphinx", "Strategic vantage point during the 1810 naval battle", "Part of the Grand Port mountain range", "Composed of primary volcanic basalt rock", "Popular for its challenging trekking route"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -665,13 +827,19 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       de: "Eine markante Vulkaninsel vor der Nordküste, die durch ihre keilförmige Form und ihre steilen Klippen auffällt.",
       hu: "Jellegzetes vulkáni sziget az északi partoknál, amely ék alakjáról és meredek szikláiról ismert.",
       ro: "O insulă vulcanică distinctivă în largul coastei de nord, remarcată prin forma sa de pană și stâncile abrupte.",
-      en: "A distinctive volcanic islet off the north coast, notable for its wedge-like shape and steep sea cliffs."
+      en: "A distinctive volcanic islet off the north coast, notable for its wedge-like shape and steep sea cliffs.",
+      es: "Una prominente isla volcánica frente a la costa norte, que destaca por su forma de cuña y sus acantilados escarpados.",
+      pt: "Uma ilha vulcânica proeminente ao largo da costa norte, que se destaca pela sua forma de cunha e falésias íngremes.",
+      fr: "Une île volcanique marquante au large de la côte nord, qui se distingue par sa forme de coin et ses falaises abruptes.",
     },
     facts: {
       de: ["Keilförmige Vulkaninsel", "Naturschutzgebiet für Seevögel", "Beliebtes Tauchrevier"],
       hu: ["Ék alakú vulkáni sziget", "Tengeri madarak természetvédelmi területe", "Népszerű búvárhely"],
       ro: ["Insulă vulcanică în formă de pană", "Rezervație pentru păsări marine", "Zonă populară de scufundări"],
-      en: ["Wedge-shaped volcanic islet", "Nature reserve for seabirds", "Popular spot for diving and snorkeling"]
+      en: ["Wedge-shaped volcanic islet", "Nature reserve for seabirds", "Popular spot for diving and snorkeling"],
+      es: ["Isla volcánica en forma de cuña", "Reserva natural de aves marinas", "Zona popular para el buceo"],
+      pt: ["Ilha vulcânica em forma de cunha", "Reserva natural para aves marinhas", "Zona de mergulho popular"],
+      fr: ["Île volcanique en forme de coin", "Réserve naturelle pour les oiseaux marins", "Lieu de plongée très prisé"],
     },
     descriptionAdvanced: {
       de: "Coin de Mire, auch als Gunner's Quoin bekannt, ist eine markante Insel vor der Nordküste von Mauritius, etwa 4,5 Kilometer von Cap Malheureux entfernt. Die Insel ist vulkanischen Ursprungs und zeichnet sich durch ihre steilen Basaltklippen aus, die an der höchsten Stelle 158 Meter erreichen. Geologisch ist sie ein Überrest der vulkanischen Aktivität, die das nördliche Plateau von Mauritius formte. Historisch diente die Insel als Orientierungspunkt für die britische Flotte während der Invasion von Mauritius im Jahr 1810. Coin de Mire ist heute ein staatliches Naturschutzgebiet und darf nicht betreten werden, um die dort lebenden bedrohten Tierarten zu schützen. Die Klippen sind ein wichtiger Nistplatz für den Rotschwanz-Tropikvogel (Paille-en-Queue). In den umliegenden Gewässern befinden sich bedeutende Korallenformationen, die eine reiche marine Biodiversität beherbergen. Die Insel ist aufgrund ihrer markanten Keilform ein weithin sichtbares Wahrzeichen des Nordens und ein zentrales Element der maritimen Landschaft von Mauritius.",
@@ -684,6 +852,9 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       hu: ["Legmagasabb pontja 158 méter", "A parttól mért távolsága 4,5 km", "Szigorúan védett természetvédelmi terület", "A vörösfarkú trópusimadár fészkelőhelye", "Bazaltos szerkezetű vulkáni maradvány", "Az 1810-es brit invázió egyik tájékozódási pontja"],
       ro: ["Altitudine maximă de 158 de metri", "Situată la 4,5 km de Cap Malheureux", "Rezervație naturală cu acces restricționat", "Loc de cuibărit pentru Phaethon rubricauda", "Formată din stânci vulcanice de bazalt", "Reper crucial pentru navigarea în nordul insulei"],
       en: ["Highest elevation of 158 meters", "Located 4.5 km off the coast of Cap Malheureux", "Designated as a state nature reserve", "Nesting site for the Red-tailed Tropicbird", "Composed of steep basaltic volcanic cliffs", "Historical landmark for the 1810 British invasion"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -701,13 +872,19 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       de: "Ein erloschener Vulkankrater im Zentralplateau, der Einblicke in die vulkanische Entstehungsgeschichte der Insel gibt.",
       hu: "Kialudt vulkáni kráter a központi fennsíkon, amely betekintést nyújt a sziget vulkáni eredetébe.",
       ro: "Un crater vulcanic stins în podișul central, oferind indicii despre istoria vulcanică a insulei.",
-      en: "An extinct volcanic crater in the central plateau area, providing evidence of the island's volcanic origins."
+      en: "An extinct volcanic crater in the central plateau area, providing evidence of the island's volcanic origins.",
+      es: "Un cráter volcánico extinguido en la meseta central que ofrece una visión de la historia de la formación volcánica de la isla.",
+      pt: "Uma cratera vulcânica extinta no planalto central que oferece uma visão da história da formação vulcânica da ilha.",
+      fr: "Un cratère volcanique éteint sur le plateau central, qui donne un aperçu de l'histoire de la formation volcanique de l'île.",
     },
     facts: {
       de: ["Erloschener Vulkankrater", "Geologisches Denkmal", "Umgeben von endemischer Flora"],
       hu: ["Kialudt vulkáni kráter", "Geológiai emlékhely", "Endemikus flóra veszi körül"],
       ro: ["Crater vulcanic stins", "Monument geologic", "Înconjurat de floră endemică"],
-      en: ["Extinct volcanic crater", "Geological landmark", "Surrounded by endemic vegetation"]
+      en: ["Extinct volcanic crater", "Geological landmark", "Surrounded by endemic vegetation"],
+      es: ["Cráter volcánico extinguido", "Monumento geológico", "Rodeado de flora endémica"],
+      pt: ["Cratera vulcânica extinta", "Monumento geológico", "Rodeada por flora endémica"],
+      fr: ["Cratère volcanique éteint", "Monument géologique", "Entouré d'une flore endémique"],
     },
     descriptionAdvanced: {
       de: "Der Kanaka-Krater, auch bekannt als Lonar-Krater, befindet sich im indischen Bundesstaat Maharashtra und ist einer der spektakulärsten Meteoriteneinschlagkrater der Welt. Er entstand vor etwa 52.000 Jahren im Pleistozän durch den Einschlag eines Asteroiden in das harte Basaltgestein des Dekkan-Plateaus. Der Krater hat einen Durchmesser von etwa 1,8 Kilometern und eine Tiefe von rund 150 Metern, wobei das Zentrum von einem einzigartigen Salz-Alkali-See eingenommen wird. Wissenschaftlich ist die Stätte von enormer Bedeutung, da sie einer von nur wenigen Einschlagkratern weltweit ist, die in basaltischem Gestein entstanden sind, was Vergleiche mit der Oberfläche des Mars ermöglicht. Die Umgebung des Sees beherbergt ein reiches Ökosystem und zahlreiche historische Tempelruinen aus dem 12. Jahrhundert, wie den Daitya-Sudan-Tempel. Im Jahr 2020 erregte der Krater internationale Aufmerksamkeit, als sich das Wasser des Sees aufgrund von Mikroorganismen und Salzgehaltsveränderungen vorübergehend rosa färbte.",
@@ -720,6 +897,9 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       hu: ["Körülbelül 52 000 évvel ezelőtt keletkezett becsapódás útján.", "A kráter átmérője megközelítőleg 1,8 kilométer.", "A központi tó egyszerre sós és lúgos kémhatású.", "A Föld egyetlen ismert becsapódási krátere bazaltkőzeten.", "A víz 2020 júniusában rózsaszínűre változott a mikrobák miatt.", "A kráter peremének kerülete körülbelül 6 kilométer."],
       ro: ["Format în urmă cu aproximativ 52.000 de ani prin impact.", "Diametrul craterului este de aproximativ 1,8 kilometri.", "Lacul central este simultan salin și alcalin.", "Singurul crater de impact cunoscut pe Pământ în rocă bazaltică.", "Apa a devenit roz în iunie 2020 din cauza microbilor.", "Circumferința marginii craterului este de aproximativ 6 kilometri."],
       en: ["Created approximately 52,000 years ago by meteorite impact.", "The crater diameter is about 1.8 kilometers.", "The central lake is both saline and alkaline in nature.", "Earth's only known impact crater in basaltic rock.", "Water turned pink in June 2020 due to haloarchaea microbes.", "The circumference of the crater rim is roughly 6 kilometers."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   }
 ];

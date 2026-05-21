@@ -179,6 +179,9 @@ export const bosniaPois: POI[] = [
       hu: ["Lakossága megközelítőleg 110 000 fő.", "Nevét a török só szóról kapta.", "A Pannon-tenger maradványaként sós tavai vannak.", "Fontos kulturális és oktatási központ a régióban."],
       ro: ["Orașul are o populație de circa 110.000 locuitori.", "Exploatarea sării datează din perioada romană.", "Găzduiește singurele lacuri sărate din Europa.", "Este situat pe cursul râului Jala."],
       en: ["The city has a population of around 110,000.", "Salt mining has occurred here since Roman times.", "The Pannonian Lakes are the only salt lakes in Europe.", "Its name originates from the Turkish word for salt."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -219,6 +222,9 @@ export const bosniaPois: POI[] = [
       hu: ["A Boszna-folyó völgyében fekszik Közép-Boszniában.", "Hatalmas acélműve meghatározza a város látképét.", "Itt található a Čelik Zenica futballklub székhelye.", "Lakossága körülbelül 115 000 fő."],
       ro: ["Situat în valea râului Bosna, în centrul țării.", "Dezvoltarea industrială masivă a început în 1892.", "Găzduiește clubul de fotbal local Čelik Zenica.", "Populația zonei metropolitane este de circa 115.000 locuitori."],
       en: ["Located in the Bosna River valley in central Bosnia.", "Industrial growth accelerated under Austria-Hungary in 1892.", "Home to the Čelik Zenica professional football club.", "Population is approximately 115,000 residents."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -259,6 +265,9 @@ export const bosniaPois: POI[] = [
       hu: ["Az Una Nemzeti Park kapujában fekszik", "A közelben található az Ostrožac várkastély", "Híres az évente megrendezett Una-regattáról", "A középkorban fontos királyi város volt"],
       ro: ["Situat la marginea Parcului Național Una", "Fortăreața istorică Ostrožac se află în apropiere", "Cunoscut pentru evenimentul anual Una Regatta", "A fost un oraș regal important în Evul Mediu"],
       en: ["Located at the edge of the Una National Park", "Nearby is the historic Ostrožac Castle", "Famous for hosting the annual Una Regatta", "Served as a royal city during the Middle Ages"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -299,6 +308,9 @@ export const bosniaPois: POI[] = [
       hu: ["A hidat eredetileg Szulejmán szultán parancsára építették 1566-ban.", "A híd íve egyetlen kőboltozatból áll, amely a Neretva fölé feszül.", "2005-ben az UNESCO a világörökség részévé nyilvánította a hidat.", "Évente nemzetközi sziklaugró versenyt rendeznek a híd tetejéről."],
       ro: ["Podul are o lungime de 30 de metri și o lățime de 4 metri.", "Piatra folosită la construcție se numește Tenelija, extrasă local.", "Cele două turnuri de la capete se numesc Helebija și Tara.", "Reconstrucția a utilizat tehnici tradiționale și bucăți din podul vechi."],
       en: ["The bridge stood for exactly 427 years before its destruction in 1993.", "The jumping tradition dates back to at least 1664, when first recorded.", "Mimar Hayreddin was a student of the famous architect Mimar Sinan.", "The peak of the arch rises 24 meters above the emerald Neretva river."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -339,6 +351,9 @@ export const bosniaPois: POI[] = [
       hu: ["1577-ben készült el Mimar Sinan tervei alapján.", "A híd 179 méter hosszú és tizenegy íve van.", "Ivo Andrić Nobel-díjas regénye tette világhírűvé.", "A Drina-folyón ível át Kelet-Boszniában."],
       ro: ["Finalizat în 1577 de celebrul arhitect Mimar Sinan.", "Podul are 179 de metri lungime și 11 arcade.", "Eternizat în literatura de premiul Nobel Ivo Andrić.", "Traversează râul Drina în estul Bosniei."],
       en: ["Completed in 1577 by the architect Mimar Sinan.", "The bridge spans 179 meters with eleven stone arches.", "Famous as the setting of Ivo Andrić's Nobel-winning novel.", "It crosses the Drina River in eastern Bosnia."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -380,6 +395,9 @@ export const bosniaPois: POI[] = [
       hu: ["Jajca volt a középkori Bosnyák Királyság utolsó székhelye.", "A vízesés a világ egyik ritka példája, amely egy város központjában van.", "A várfalak közül pazar kilátás nyílik a Pliva és Vrbas folyókra.", "A városban található Mithrász-szentély a római korból maradt fenn."],
       ro: ["Cascada Jajce este considerată una dintre cele mai frumoase 12 din lume.", "Cetatea a fost construită de Hrvoje Vukčić Hrvatinić în secolul al XIV-lea.", "Orașul este inclus pe lista tentativă a Patrimoniului Mondial UNESCO.", "Există mori de apă istorice din lemn situate în apropierea orașului."],
       en: ["The AVNOJ Museum commemorates the 1943 founding of new Yugoslavia.", "The fortress dates back to the late 14th and early 15th centuries.", "Jajce was one of the few Bosnian cities to resist early Ottoman attacks.", "The Pliva Waterfall's height was slightly reduced during the 1990s war."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -420,6 +438,9 @@ export const bosniaPois: POI[] = [
       hu: ["Travnik városa az Oszmán Birodalom boszniai vezírjeinek székhelye volt.", "A várban ma egy kis múzeum működik a helyi történeti leletekkel.", "Itt született az irodalmi Nobel-díjas író, Ivo Andrić.", "A város híres a speciális sajtjáról és a 'Lutvina kava' nevű kávéjáról."],
       ro: ["Cetatea este situată pe o terasă deasupra râului Lašva.", "Travnik este singurul oraș din țară cu două turnuri cu ceas istorice.", "Sistemul de apărare al cetății a fost modernizat de austrieci în secolul al XIX-lea.", "Centrul vechi păstrează multe case tradiționale și moschei colorate."],
       en: ["The fortress is one of the best-preserved medieval structures in the region.", "Travnik is known as the 'European Istanbul' due to its oriental feel.", "The Jeni Mosque in the town dates back to the year 1549.", "The colorful 'Šarena džamija' is famous for its unique painted decorations."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -460,6 +481,9 @@ export const bosniaPois: POI[] = [
       hu: ["A 15. században jött létre oszmán uralom alatt", "A Sebilj-kút a tér legfontosabb jelképe", "Itt található a híres Gazi Husrev-bég mecset", "Híres a hagyományos rézműves műhelyeiről"],
       ro: ["Fondat în secolul al XV-lea în perioada otomană", "Fântâna Sebilj este simbolul central al pieței", "Găzduiește istorica moschee Gazi Husrev-beg", "Cunoscut pentru atelierele de prelucrare a cuprului"],
       en: ["Founded in the 15th century during Ottoman rule", "The Sebilj fountain is the square's iconic landmark", "Home to the historic Gazi Husrev-beg Mosque", "Famous for its traditional coppersmith shops"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -500,6 +524,9 @@ export const bosniaPois: POI[] = [
       hu: ["A vár a középkorban a bosnyák bánok egyik legfontosabb lakhelye volt.", "A falakról tiszta időben az egész Majevica-hegység látható.", "Az erődítmény bevehetetlennek számított a földrajzi fekvése miatt.", "A várat 1333-ban említették először írásos források."],
       ro: ["Fortăreața este situată la nord de orașul Tuzla, în nord-estul țării.", "Podul de lemn care leagă stânca de restul muntelui este o reconstrucție modernă.", "Arhitectura sa defensivă este un exemplu clasic de cetate de munte.", "Legenda spune că aici a fost semnat un tratat important cu Republica Ragusa."],
       en: ["Srebrenik was the capital of the medieval Bosnian state for a short period.", "The fortress contains several towers and remains of a royal palace.", "It was captured by the Ottoman Empire in 1512 after several attempts.", "The site is designated as a National Monument of Bosnia and Herzegovina."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -540,6 +567,9 @@ export const bosniaPois: POI[] = [
       hu: ["1520 körül épült az Oszmán Birodalom idején", "A Buna forrása Európa egyik legbővizűbb karsztforrása", "Az oszmán építészet és a természet harmóniája", "Csupán néhány kilométerre található Mostartól"],
       ro: ["Construită în jurul anului 1520 în stil otoman", "Izvorul Buna este unul dintre cele mai puternice din Europa", "Îmbină arhitectura dervișă cu relieful stâncos", "Situată la mică distanță sud de orașul Mostar"],
       en: ["Founded around 1520 during the Ottoman period", "Buna Spring is one of Europe's largest karst springs", "Unique mix of Ottoman architecture and nature", "Located just a few kilometers south of Mostar"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -580,6 +610,9 @@ export const bosniaPois: POI[] = [
       hu: ["A települést a 14. században alapította I. Tvrtko bosnyák király.", "A falut magas kőfalak és egy masszív védőbástya, a Kula őrzi.", "A Hadzsi Alija-mecset az oszmán templomépítészet egyik legszebb darabja.", "Itt működik Délkelet-Európa egyik legrégebbi művésztelepe."],
       ro: ["Počitelj este situat pe drumul principal dintre Mostar și mare.", "Satul este construit în întregime din piatră pe versantul unui munte.", "Turnul cu ceas este unul dintre puținele de acest tip din regiune.", "UNESCO a inclus centrul istoric al așezării în lista sa de patrimoniu."],
       en: ["The Gavrankapetanović house is the largest example of a residential building.", "Počitelj served as a strategic administrative center of the Dubrava župa.", "The village is famous for its pomegranates and figs sold along the road.", "The fort was significantly expanded by the Ottomans in the 15th century."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -620,6 +653,9 @@ export const bosniaPois: POI[] = [
       hu: ["A vízesés Ljubuški városa közelében, Hercegovina szívében található.", "A vízhozam tavasszal a legnagyobb, amikor elolvad a hó a hegyekben.", "A medence vize tiszta és nyáron is kellemesen hűvös marad.", "A helyszínt gyakran nevezik Bosznia-Hercegovina mini Niagarájának."],
       ro: ["Râul Trebižat pe care se află cascada este un afluent al Neretvei.", "Lățimea totală a cascadei ajunge la aproximativ 120 de metri.", "În lunile de vară, turiștii pot înota în lacul format la baza căderii de apă.", "Accesul se face printr-o zonă amenajată cu restaurante și terase."],
       en: ["The waterfall is situated near the town of Ljubuški in Herzegovina.", "The surrounding area is filled with fig trees and green poplars.", "The water temperature remains around 15-20 degrees Celsius in summer.", "Canoeing safaris are available on the river downstream from the falls."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -660,6 +696,9 @@ export const bosniaPois: POI[] = [
       hu: ["2008-ban alapították Bosznia legújabb parkjaként.", "Területe körülbelül 198 négyzetkilométer.", "A Štrbački buk vízesés magassága 24 méter.", "Gazdag madárvilággal és ritka növényekkel büszkélkedhet."],
       ro: ["Înființat în 2008 ca cel mai nou parc național.", "Acoperă o suprafață de 198 de kilometri pătrați.", "Cascada Štrbački buk are o înălțime de 24 de metri.", "Râul Una este renumit pentru puritatea apei sale."],
       en: ["Established in 2008 as the newest national park.", "Covers an area of approximately 198 square kilometers.", "The Štrbački buk waterfall reaches 24 meters in height.", "Home to endemic fish and rare plant species."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -700,6 +739,9 @@ export const bosniaPois: POI[] = [
       hu: ["A park területén található a Perućica őserdő, amely fokozottan védett.", "A Tjentište völgyben áll az 1943-as csata hatalmas betonemlékműve.", "A nemzeti park területe több mint 17 000 hektáron terül el.", "A területen kilenc gyönyörű glaciális tó (hegyi szem) található."],
       ro: ["Sutjeska a fost scena unei bătălii decisive în timpul celui de-al Doilea Război Mondial.", "Canionul râului Sutjeska are o adâncime de peste 1000 de metri în unele locuri.", "Parcul adăpostește peste 300 de specii de păsări și numeroase mamifere mari.", "Este o destinație populară pentru alpinism, trekking și fotografie de natură."],
       en: ["Mount Maglić is located on the border between Bosnia and Montenegro.", "The Valley of Heroes monument is a masterwork of Yugoslav Brutalism.", "The park contains 17 rivers and streams that eventually join the Drina.", "Zelengora mountain within the park is famous for its 'mountain eyes' lakes."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -740,6 +782,9 @@ export const bosniaPois: POI[] = [
       hu: ["A tavak között 20 darab apró, fából készült vízimalom található.", "A terület kedvelt üdülőhely kempingekkel és vízi sportolási lehetőségekkel.", "A tavak vize lassan folyik, így nyáron hamar felmelegszik fürdéshez.", "A Pliva folyó itt egy látványos tórendszert alkot a karsztvidéken."],
       ro: ["Lacul Pliva Mare are o lungime de aproximativ 3,3 kilometri.", "Morile de apă au fost folosite secole la rând pentru măcinarea grâului.", "Zona a găzduit numeroase campionate internaționale de caiac-canoe.", "Malurile lacurilor sunt amenajate cu trasee pentru plimbări și biciclete."],
       en: ["The cluster of small watermills is known locally as 'Mlinčići'.", "The lakes were formed naturally by tufa deposits on the Pliva river.", "The Large Pliva Lake is approximately 33 meters deep at its deepest point.", "The water density of the lakes makes them ideal for professional rowing."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -780,6 +825,9 @@ export const bosniaPois: POI[] = [
       hu: ["A hegység legmagasabb pontja az 1916 méter magas Ogorjelica-csúcs.", "Télen a hóréteg vastagsága gyakran eléri az egy métert a pályákon.", "A központban modern felvonók és éjszakai síelési lehetőség is van.", "Nyáron a terület a túrázók és a hegyi kerékpárosok paradicsoma."],
       ro: ["Masivul Jahorina face parte din lanțul munților Dinarici.", "Stațiunea oferă condiții excelente pentru schi alpin și snowboarding.", "Sunt disponibile numeroase hoteluri de lux construite recent în zonă.", "Zăpada persistă pe munte în medie 175 de zile pe an."],
       en: ["The ski resort is located in the Pale municipality of the Republika Srpska.", "In 1984, it hosted the women's alpine skiing events of the Olympics.", "The total length of the ski slopes exceeds 40 kilometers for all levels.", "It is known for its high-quality snow conditions and vibrant nightlife."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -820,6 +868,9 @@ export const bosniaPois: POI[] = [
       hu: ["Az első látomás 1981. június 24-én történt hat helyi fiatal számára.", "A Jelenések hegyére vezető utat a rózsafüzér titkait ábrázoló domborművek díszítik.", "A településen minden évben megrendezik a Nemzetközi Ifjúsági Fesztivált.", "A Vatikán különmegbízottat nevezett ki a zarándoklatok felügyeletére."],
       ro: ["Dealul Aparițiilor este marcat de o statuie a Fecioarei Maria din marmură albă.", "Orașul dispune de o infrastructură turistică vastă cu mii de locuri de cazare.", "Pelerinii urcă adesea desculți pe dealul abrupt Križevac, unde se află o cruce.", "Slujbele religioase de seară sunt transmise în direct prin internet în toată lumea."],
       en: ["Medjugorje literally means 'between the mountains' in the Bosnian language.", "The Saint James Church was completed in 1969, before the visions began.", "Pope Francis authorized official pilgrimages to the site in 2019.", "The Blue Cross at the base of Apparition Hill is a popular gathering spot."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -860,6 +911,9 @@ export const bosniaPois: POI[] = [
       hu: ["A fesztivál fődíja a Szarajevó Szíve, amelyet több kategóriában osztanak ki.", "A rendezvény alatt a város utcái élettel telnek meg és szabadtéri mozik nyílnak.", "Minden évben több mint 100 000 látogatót vonz a nemzetközi esemény.", "A program kiemelt figyelmet fordít a délkelet-európai tehetségekre."],
       ro: ["Trofeul suprem al festivalului se numește 'Inima Sarajevoului'.", "Evenimentul atrage anual peste 200 de filme din întreaga lume.", "A fost lansat ca un act de rezistență culturală în timpul războiului.", "Cineaști celebri precum Angelina Jolie au vizitat festivalul de-a lungul anilor."],
       en: ["The festival was established to help reconstruct civil society in Sarajevo.", "It features the 'CineLink' platform for regional film industry professionals.", "The red carpet events take place in front of the National Theater.", "It is recognized as an Oscar-qualifying festival for short films."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -966,6 +1020,9 @@ export const bosniaPois: POI[] = [
       hu: ["Először 1410-ben említik az írott források.", "A vár tornya és falai ma is jó állapotban vannak.", "Egy kis múzeum mutatja be a középkori életet.", "A Boszna folyó kanyarulatában épült sziklára."],
       ro: ["Prima mențiune documentară datează din anul 1410.", "Cetatea are un donjon central bine conservat.", "Găzduiește un muzeu dedicat istoriei medievale.", "Situată strategic deasupra unei curbe a râului Bosna."],
       en: ["First mentioned in historical records in 1410.", "The fortress features a well-preserved main tower.", "Now home to a museum of medieval regional history.", "Located near a sharp bend of the Bosna River."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -1006,6 +1063,9 @@ export const bosniaPois: POI[] = [
       hu: ["A park területén több mint 600 növényfaj és 240 madárfaj él.", "A terület 1995-ben kapta meg a természetvédelmi park státuszt.", "A mocsárvidéket a Krupa-folyó és számos forrás táplálja vízzel.", "A vándormadarak egyik legfontosabb megállóhelye az Adria mentén."],
       ro: ["Parcul a fost inclus pe lista Ramsar a zonelor umede de importanță mondială.", "Hutovo Blato este considerat unul dintre cele mai bogate ecosisteme din Balcani.", "În apele sale trăiesc 22 de specii de pești, printre care și anghila.", "Rezervația oferă tururi cu barca prin labirintul său de stuf și lacuri."],
       en: ["The park is situated at the meeting point of Mediterranean and karst landscapes.", "It was officially declared a nature park in 1995 to protect the wetlands.", "The Deransko Lake is the largest of several interconnected lakes in the park.", "Birdwatching is the main tourist activity, especially during migration seasons."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -1046,6 +1106,9 @@ export const bosniaPois: POI[] = [
       hu: ["A doboji várat a 13. században építették stratégiai védelmi célból.", "A város három folyó, a Boszna, az Usora és a Spreča találkozásánál fekszik.", "Itt található az ország egyik legfontosabb vasúti rendező pályaudvara.", "A település központjában több mecset és templom is található."],
       ro: ["Cetatea Doboj a fost parțial reconstruită pentru a fi deschisă turiștilor.", "Orașul a suferit inundații catastrofale în luna mai a anului 2014.", "Se află la aproximativ 70 de kilometri est de orașul Banja Luka.", "Fortăreața a rezistat numeroaselor asedii de-a lungul secolelor."],
       en: ["The fortress is often called Gradina and sits on a limestone hill.", "Doboj was a significant administrative center during the Ottoman era.", "The city hosts the annual International Handball TV Champions Tournament.", "It is located at the intersection of several major highways and rail lines."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -1086,6 +1149,9 @@ export const bosniaPois: POI[] = [
       hu: ["A város környékén található Bosznia egyik legnagyobb vasérclelőhelye.", "Prijedor a Kozara Nemzeti Park egyik legfontosabb kiindulópontja.", "A Sana folyó tiszta vize és strandjai népszerűek a helyiek körében.", "A település kulturális életének központja a Kozara Múzeum."],
       ro: ["Prijedor este al treilea oraș ca mărime din Republica Srpska.", "Festivalul de pictură murală 'Prijedor, orașul picturilor' are loc anual.", "Orașul are o istorie lungă în industria minieră și a prelucrării lemnului.", "În apropiere se află lacul artificial Tomašica, format într-o fostă mină."],
       en: ["The city serves as the administrative seat of the Prijedor region.", "It hosts the annual 'International Street Race' on the city's streets.", "The Mrakovica peak in the Kozara mountains is a popular nearby destination.", "Prijedor was once an important trade station on the path to the Adriatic."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -1159,6 +1225,9 @@ export const bosniaPois: POI[] = [
       hu: ["A 15. században alapították egy 4. századi templom helyén.", "Híres borospincéiben ma is érlelik a bort.", "Szent Vaszilije itt kezdte szerzetesi életét.", "A kolostor Trebinje városának közvetlen közelében található."],
       ro: ["Fondată în secolul al XV-lea pe fundații din secolul IV.", "Biserica principală este dedicată Adormirii Maicii Domnului.", "Este celebră pentru cramele sale de vin Vranac.", "Situată pe malul drept al râului Trebišnjica."],
       en: ["Founded in the 15th century on 4th-century foundations.", "The main church is dedicated to the Dormition of Mary.", "Famous for its award-winning Vranac variety wine.", "Located on the banks of the Trebišnjica River."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -1199,6 +1268,9 @@ export const bosniaPois: POI[] = [
       hu: ["Legmagasabb csúcsa 2067 méter magas", "Az 1984-es férfi alpesi síversenyek helyszíne", "Szarajevó legnépszerűbb téli sportközpontja", "Híres az autentikus Umoljani hegyi faluról"],
       ro: ["Vârful principal atinge 2067 metri", "Locul probelor masculine de schi alpin în 1984", "Cea mai populară stațiune de schi din regiune", "Cunoscut pentru satul tradițional Umoljani"],
       en: ["Highest peak stands at 2067 meters", "Site of the men's alpine skiing events in 1984", "Top winter sports destination for Sarajevo locals", "Famous for the remote traditional village Umoljani"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -1239,6 +1311,9 @@ export const bosniaPois: POI[] = [
       hu: ["Az őserdő területe nagyjából 1434 hektárt tesz ki a nemzeti parkon belül.", "A Skakavac-vízesés az erdő mélyén 75 méter magasból zúdul alá.", "Néhány itt élő fa kora meghaladja az 500 évet is.", "A területet csak képzett túravezetők kíséretében szabad látogatni."],
       ro: ["Perućica este strict protejată ca rezervație integrală din anul 1952.", "Se estimează că în această pădure există arbori de peste 60 de metri înălțime.", "Biodiversitatea zonei include numeroase specii de plante endemice balcanice.", "Cascada Skakavac este unul dintre punctele de atracție majore ale pădurii."],
       en: ["Perućica forest is a strictly protected area of Sutjeska National Park.", "The Skakavac waterfall is hidden in the middle of this dense forest.", "It is estimated to be over 20,000 years old as a forest ecosystem.", "The forest is home to various rare species of insects and birds."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -1280,6 +1355,9 @@ export const bosniaPois: POI[] = [
       hu: ["A vár a középkorban a bosnyák királyok fontos védelmi vonala volt.", "A település neve valószínűleg a környéket gyakran borító ködre utal.", "A várfalakról lenyűgöző kilátás nyílik a modern városra és a folyóra.", "Az erődítmény területén régészeti ásatások is folynak folyamatosan."],
       ro: ["Fortificația a fost construită pe o stâncă abruptă deasupra râului.", "Maglaj este cunoscut pentru industria sa de prelucrare a hârtiei.", "În interiorul cetății se află rămășițele unei vechi biserici creștine.", "Arhitectura cetății combină elemente gotice cu cele de stil otoman."],
       en: ["The fortress is a national monument of Bosnia and Herzegovina.", "It was a vital stronghold during the clashes between Austria and Turkey.", "The old town of Maglaj features traditional Bosnian wooden houses.", "The town was a major center for papermaking in the former Yugoslavia."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -1320,6 +1398,9 @@ export const bosniaPois: POI[] = [
       hu: ["Orašje a Száva menti Posavina kanton adminisztratív központja.", "A város ad otthont a Horvát Film Napjai nevű rangos rendezvénynek.", "A település környéke kiváló adottságokkal rendelkezik a növénytermesztéshez.", "A helyi futballklub, a HNK Orašje már az élvonalban is szerepelt."],
       ro: ["Orașul este situat în partea de nord-est a țării, la granița fluvială.", "Podul peste Sava a fost reconstruit pentru a facilita traficul internațional.", "Orašje este un centru comercial important pentru locuitorii din împrejurimi.", "Gastronomia locală este renumită pentru preparatele din pește de apă dulce."],
       en: ["Orašje is the seat of the Posavina Canton in the Federation of Bosnia.", "The town hosts an annual 'Days of Croatian Film' festival in September.", "It is located at an altitude of only 80 meters above sea level.", "The nearby village of Tolisa has one of the largest churches in the country."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -1360,6 +1441,9 @@ export const bosniaPois: POI[] = [
       hu: ["A folyó a Júlia-Alpokban ered, Szlovénia területén.", "Bosznia területén a folyó hossza körülbelül 330 kilométer.", "A Száva fontos hajózási útvonal az ország áruszállítása számára.", "A torkolata Belgrádnál található, ahol a Dunába ömlik."],
       ro: ["Sava colectează apele multor râuri bosniace, precum Una, Bosna și Drina.", "Lunca râului este o zonă fertilă utilizată intensiv în agricultură.", "Podurile de peste Sava sunt puncte vamale internaționale majore.", "Râul este cunoscut pentru inundațiile sale periodice de primăvară."],
       en: ["The Sava River basin covers about 95,000 square kilometers of land.", "It flows through four different countries: Slovenia, Croatia, Bosnia, and Serbia.", "The Lonjsko Polje nature park in Croatia lies just across the river border.", "In history, the river was the border between the Ottoman and Austrian empires."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -1400,6 +1484,9 @@ export const bosniaPois: POI[] = [
       hu: ["A Brčko körzet 2000-ben jött létre kondomíniumként a két entitás között.", "A város fontos közúti és vasúti csomópont a Száva folyó mentén.", "Lakossága a 2013-as népszámláláskor körülbelül 83 000 fő volt.", "A település ad otthont a régió legnagyobb élelmiszeripari üzemeinek."],
       ro: ["Districtul Brčko este guvernat sub supraveghere internațională directă.", "Orașul este situat la o altitudine medie de 92 de metri deasupra mării.", "Podul peste râul Sava face legătura directă cu orașul Gunja din Croația.", "Economia locală se bazează pe comerț și tranzitul de mărfuri fluviale."],
       en: ["Brčko District functions as a condominium of both Bosnian entities.", "The city serves as a key link between the eastern and western RS.", "It hosts a major annual theater festival founded in 1973.", "The Arizona Market near the city is one of the largest in the Balkans."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -1441,6 +1528,9 @@ export const bosniaPois: POI[] = [
       hu: ["1892-ben fejezték be az építését.", "Ćiril Iveković horvát építész tervezte.", "A Brčkói Körzet kormányzati központja.", "Díszes homlokzata a mór újjászületés stílusjegyeit hordozza."],
       ro: ["Finalizată în anul 1892 după planurile lui Ćiril Iveković.", "Clădirea găzduiește sediul administrației districtului.", "Este considerată cea mai frumoasă clădire din Brčko.", "Fațada prezintă elemente decorative orientale distincte."],
       en: ["Completed in 1892 by architect Ćiril Iveković.", "Serves as the seat of the Brčko District administration.", "Regarded as the city's most beautiful landmark.", "Features intricate Moorish revival architectural details."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -1481,6 +1571,9 @@ export const bosniaPois: POI[] = [
       hu: ["Itt található a népszerű Stanišići etno-falu", "A boszniai Szerb Köztársaság második legnagyobb városa", "A szerb határ közvetlen közelében fekszik", "A környék híres a Tavna-kolostorról"],
       ro: ["Găzduiește popularul sat etno Stanišići", "Al doilea oraș ca mărime din Republika Srpska", "Situat foarte aproape de granița cu Serbia", "Cunoscut pentru mănăstirea Tavna din zonă"],
       en: ["Home to the popular Ethno Village Stanišići", "Second largest city in the Republika Srpska", "Located near the international border with Serbia", "Famous for the nearby Tavna Monastery"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -1521,6 +1614,9 @@ export const bosniaPois: POI[] = [
       hu: ["A falut eredeti, régi házakból állították össze, amelyeket az országban gyűjtöttek.", "A központban egy Noé bárkája alakú szálloda is található a tavon.", "A helyszín kedvelt esküvői helyszín a hagyományos környezet miatt.", "A látogatók megismerhetik a régi kézműves mesterségeket az épületekben."],
       ro: ["Complexul este situat în regiunea Semberia, aproape de granița cu Serbia.", "Există mori de apă funcționale care macină făină în mod tradițional.", "O replică a unei mănăstiri ortodoxe se află în centrul satului etno.", "Arhitectura combină lemnul vechi cu piatra cioplită manual."],
       en: ["The village is divided into a spiritual and a secular part with authentic tools.", "It was built by Boris Stanišić using materials from the central Bosnian mountains.", "The complex covers an area of several hectares with paved stone paths.", "Horse-drawn carriage rides are a popular activity for tourists in the park."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -1561,6 +1657,9 @@ export const bosniaPois: POI[] = [
       hu: ["Livno a legnagyobb karsztmező, a Livanjsko polje szélén fekszik.", "A livnói sajt készítésének titkait francia mesterektől tanulták el.", "A Cincar-hegyen élő vadlovak az ország egyik legfőbb természeti kincse.", "A városban több török kori mecset és egy ferences kolostor is található."],
       ro: ["Orașul este situat la o altitudine de 724 metri deasupra mării.", "Turnul cu ceas din Livno este un monument istoric din secolul al XVII-lea.", "Brânza de Livno este exportată în toată Europa pentru gustul său unic.", "Zona este ideală pentru turism de aventură și observarea naturii sălbatice."],
       en: ["Livno is the administrative seat of the Canton 10 of Bosnia.", "The Duman spring is the source of the Bistrica river in the old town.", "The local cheese production began officially in 1885 during Austrian rule.", "Mount Cincar near the city rises to an elevation of 2,006 meters."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -1601,6 +1700,9 @@ export const bosniaPois: POI[] = [
       hu: ["A tó vízfelülete nagyjából 55,8 négyzetkilométert tesz ki.", "A tározót a horvátországi Orlovac vízerőmű táplálására építették.", "A terület kedvelt célpontja a horgászoknak és a vízi sportoknak.", "A tó déli partján található a festői Grabovica település."],
       ro: ["Lacul este situat la o altitudine de 716 metri în apropiere de Livno.", "Volumul total de apă al lacului este de aproape 800 de milioane de metri cubi.", "Proiectul hidroenergetic a fost finalizat în anul 1974.", "Este un loc important pentru odihna păsărilor migratoare în timpul iernii."],
       en: ["The lake is situated in the Livanjsko Polje region of western Bosnia.", "It was created by damming the underground waters of the karst field.", "The shoreline stretches for more than 40 kilometers around the lake.", "Average water temperature in summer reaches up to 25 degrees Celsius."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -1634,12 +1736,16 @@ export const bosniaPois: POI[] = [
       en: ["Construction start: June 28, 2011", "Inauguration: 2014", "Founder: Emir Kusturica", "Location: Peninsula between Drina and Rzav", "Styles: Byzantine, Ottoman, Renaissance", "Dedicated to: Ivo Andrić (Nobel Prize 1961)"],
       pt: ["Início da construção: 28 de junho de 2011", "Inauguração: 28 de junho de 2014", "Fundador: Emir Kusturica", "Localização: Península entre o Drina e o Rzav", "Mistura de estilos: Bizantino, otomano, renascentista", "Dedicação: Ivo Andrić (Prémio Nobel 1961)"],
       fr: ["Début des travaux : 28 juin 2011", "Ouverture : 28 juin 2014", "Fondateur : Emir Kusturica", "Emplacement : Péninsule entre la Drina et le Rzav", "Mélange de styles : Byzantin, ottoman, Renaissance", "Dédicace : Ivo Andrić (Prix Nobel 1961)"],
+      es: ["Inicio de construcción: 28 de junio de 2011", "Inauguración: 28 de junio de 2014", "Fundador: Emir Kusturica", "Ubicación: Península entre el Drina y el Rzav", "Mezcla de estilos: Bizantino, otomano, renacentista", "Dedicación: Ivo Andrić (Premio Nobel 1961)"],
     }, image: "/poi-images/ba-andricgrad.webp",
     facts: {
       de: ["Erbaut vom Regisseur Emir Kusturica", "Liegt auf einer Halbinsel am Fluss Drina", "Eröffnet am 28. Juni 2014", "Wird auch als 'Steinstadt' bezeichnet"],
       hu: ["Emir Kusturica filmrendező álmodta meg", "A Drina folyó által alkotott félszigeten fekszik", "Hivatalosan 2014. június 28-án nyitották meg", "Gyakran nevezik 'Kővárosnak' is"],
       ro: ["Creat de celebrul regizor Emir Kusturica", "Situat pe o peninsulă pe râul Drina", "Inaugurat oficial la 28 iunie 2014", "Mai este cunoscut sub numele de 'Orașul de Piatră'"],
       en: ["Built by the acclaimed director Emir Kusturica", "Located on a peninsula in the Drina River", "Officially opened on June 28, 2014", "Also frequently called the 'Stone Town'"],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -1680,6 +1786,9 @@ export const bosniaPois: POI[] = [
       hu: ["A barlang teljes hossza meghaladja a 2500 métert a hegy gyomrában.", "Itt fedezték fel Európa egyik legnagyobb barlangi medve-temetőjét.", "A látogatók számára kiépített útvonalon különleges formájú cseppkövek láthatók.", "A barlang a Pale község területén, Szarajevó közelében helyezkedik el."],
       ro: ["Peștera adăpostește o faună cavernicolă diversă și rară.", "Sistemul de galerii este dispus pe mai multe niveluri geologice.", "Descoperirile arheologice atestă prezența omului din epoca de piatră.", "Accesul turiștilor este permis doar cu ghid specializat în grupuri mici."],
       en: ["The cave system was officially opened to tourists in 2002.", "Bones of cave bears dating back 16,000 years were found inside.", "It contains spectacular formations of helictites and dripstones.", "The cave is situated about 10 kilometers east of the capital, Sarajevo."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -1720,6 +1829,9 @@ export const bosniaPois: POI[] = [
       hu: ["A város a Drina-völgyben, az ország keleti részén helyezkedik el.", "Goražde híres a fegyvergyártásáról és a precíziós gépiparáról.", "Itt nyomtatták az első cirill betűs könyveket a régióban a 16. században.", "A települést minden oldalról magas hegyek és sűrű erdők övezik."],
       ro: ["Orașul este centrul administrativ al Cantonului Podrinje Bosniac.", "Goražde a rămas singura enclavă bosniacă de pe Drina care nu a căzut în război.", "Podul de sub pod a fost o construcție ingenioasă de camuflaj în timpul asediului.", "Economia orașului a cunoscut o creștere rapidă în ultimul deceniu."],
       en: ["Goražde is situated about 45 kilometers southeast of Sarajevo.", "It hosts the International Friendship Festival every year in August.", "The city's resistance earned it the nickname 'Hero City' in Bosnia.", "A unique war-time hydroelectric power plant was built here on the river."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -1761,6 +1873,9 @@ export const bosniaPois: POI[] = [
       hu: ["A háború alatt a lakók egy rejtett alsó szintet építettek a híd alá.", "Ezen a rejtett úton hordták az ételt és a vizet a bombázások alatt.", "A Drina folyó felett átívelő híd ma már modern, felújított formában áll.", "A híd története a modern bosnyák hadtörténet egyik legérdekesebb fejezete."],
       ro: ["Podul a fost construit inițial în perioada iugoslavă pentru trafic auto.", "Sub structura principală a fost improvizat un pasaj pietonal protejat.", "Traversarea podului era una dintre cele mai periculoase acțiuni din oraș.", "Monumentul amintește de cele peste 1300 de zile de asediu ale orașului."],
       en: ["The bridge connects the two main parts of the city across the Drina.", "Improvised shields were placed to protect pedestrians from snipers.", "The 'Bridge under the Bridge' is a unique concept in military history.", "It has been fully reconstructed and now serves as a central meeting point."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   }
 ];

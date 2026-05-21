@@ -1199,6 +1199,7 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
       en: ["Length: 240 meters.", "Width: 8 meters.", "Year completed: 1973.", "Load capacity: 30 tons.", "Number of traffic lanes: 2.", "Rehabilitation cost (2016): $5 million."],
       pt: ["Comprimento: 240 metros.", "Largura: 8 metros.", "Ano de construção: 1973.", "Construção: Treliça de aço.", "Construtor: Dorman Long (RU).", "Capacidade de tráfego: 10.000 veículos por dia (2019)."],
       fr: ["Longueur : 240 mètres.", "Largeur : 8 mètres.", "Année de construction : 1973.", "Construction : Treillis en acier.", "Constructeur : Dorman Long (RU).", "Capacité de trafic : 10 000 véhicules par jour (2019)."],
+      es: ["Longitud: 240 metros.", "Ancho: 8 metros.", "Año de construcción: 1973.", "Construcción: Cercha de acero.", "Constructor: Dorman Long (Reino Unido).", "Capacidad de tráfico: 10.000 vehículos por día (2019)."],
     },
   }
 ];

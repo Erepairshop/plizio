@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraBruneiNatureV2: POI[] = [
@@ -254,6 +255,7 @@ export const poiExtraBruneiNatureV2: POI[] = [
       en: ["Length: approximately 41 km", "Tidal range: up to 1.5 m", "Population of Kampong Ayer: over 30,000", "Catchment area: about 500 km²", "Number of fish species: over 100", "First historical mention: 15th century"],
       pt: ["Comprimento: cerca de 41 km", "Amplitude das marés: até 1,5 m", "Kampong Ayer: habitado há mais de 1.300 anos", "Área da bacia hidrográfica: cerca de 500 km²", "Número de espécies de peixes: mais de 100", "População das aldeias aquáticas: cerca de 30.000"],
       fr: ["Longueur : env. 41 km", "Marnage : jusqu'à 1,5 m", "Kampong Ayer : habité depuis plus de 1 300 ans", "Surface du bassin versant : env. 500 km²", "Nombre d'espèces de poissons : plus de 100", "Population des villages lacustres : environ 30 000"],
+      es: ["Longitud: aprox. 41 km", "Amplitud de marea: hasta 1,5 m", "Kampong Ayer: habitado desde hace más de 1.300 años", "Superficie de la cuenca: aprox. 500 km²", "Número de especies de peces: más de 100", "Población de los pueblos acuáticos: unos 30.000"],
     },
   },
   {

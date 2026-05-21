@@ -783,6 +783,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       en: ["Height: 40 meters", "Material: Pink granite", "Inaugurated in 1930, for the centenary of the first Constitution", "Sculptor: José Luis Zorrilla de San Martín", "Three bronze sculptures: Law, Liberty, and Force", "Commemorates Uruguay's first Constitution of 1830"],
       pt: ["Recorda a constituição de 1830.", "Instalado em Montevidéu.", "Monumento aos constituintes.", "Parte da cultura de memória nacional.", "Forma monumental na paisagem urbana.", "Ligado à fase inicial da república."],
       fr: ["Rappelle la constitution de 1830.", "Situé à Montevideo.", "Monument aux rédacteurs de la constitution.", "Partie de la culture mémorielle nationale.", "Forme monumentale dans le paysage urbain.", "Lié aux débuts de la république."],
+      es: ["Conmemora la constitución de 1830.", "Ubicado en Montevideo.", "Monumento a los legisladores constituyentes.", "Parte de la cultura de memoria nacional.", "Forma monumental en el paisaje urbano.", "Vinculado a la república temprana."],
     },
     facts: {
       de: ["Errichtet im Jahr 1930.", "Aus Bronze und Granit gefertigt."],

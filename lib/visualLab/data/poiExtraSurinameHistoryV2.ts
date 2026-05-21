@@ -1318,6 +1318,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       en: ["Dedicated to the Maroon struggle for liberty", "Named after the escape of an enslaved man named Kofi", "Site of important 18th-century peace talks", "The location is now officially called Lantiwei", "A central site for Maroon Day (Marrondag) events", "Symbolizes resistance against colonial slavery"],
       pt: ["O monumento foi erguido em homenagem à brava luta dos marrons."],
       fr: ["Le monument a été érigé en l'honneur du courageux combat des Marrons."],
+      es: ["El monumento fue erigido en honor a la valiente lucha de los cimarrones."],
     }, image: "/poi-images/sr-kofidjompo-monument-history-v2.webp"},
   {
     id: "sr-gouvernementsgebouw-history-v2",

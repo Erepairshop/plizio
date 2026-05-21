@@ -252,6 +252,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
       hu: ["A dél-costa ricai boruca nép hagyományos művészete", "Könnyű balsa- vagy cédrusfából készül", "A 'Juego de los Diablitos' fesztivál központi eleme", "A spanyolok elleni őshonos ellenállást jelképezi", "Két fő stílus: hagyományos ördögök és modern természeti motívumok", "Minden maszk egyedi, kézzel készült alkotás"],
       ro: ["Arta tradițională a poporului Boruca din sudul Costa Ricăi", "Sculptate din lemn ușor de balsa sau cedru local", "Element central al festivalului ritualic 'Juego de los Diablitos'", "Simbolizează rezistența indigenă în fața colonizării spaniole", "Două stiluri: 'Diablitos' (tradițional) și 'Ecológicos' (natură)", "Fiecare piesă este unică și realizată integral manual"],
       en: ["Traditional art of the Boruca people in southern Costa Rica", "Crafted from lightweight balsa or cedar wood", "Central feature of the annual 'Juego de los Diablitos' festival", "Symbolizes indigenous resistance against Spanish conquest", "Two primary styles: traditional devil faces and ecological themes", "Every mask is a unique, individually hand-painted masterpiece"],
+      es: [],
       pt: [],
       fr: [],
     },

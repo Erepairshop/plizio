@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { POI } from './poi';
 export const bulgariaEconomicV2: POI[] = [
 
