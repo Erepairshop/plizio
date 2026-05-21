@@ -21,6 +21,7 @@ async function main() {
     { vaticanPois, vaticanCountry },
     { ALL_COUNTRY_POIS, ALL_DE_EXTRA_POIS },
     { poiExtraHuV4 },
+    { poiExtraRoV1 },
   ] = await Promise.all([
     import("../lib/visualLab/data/poi"),
     import("../lib/visualLab/data/romaniaPoi"),
@@ -28,6 +29,7 @@ async function main() {
     import("../lib/visualLab/data/vaticanPoi"),
     import("../lib/visualLab/data/allCountryPois"),
     import("../lib/visualLab/data/poiExtraHuV4"),
+    import("../lib/visualLab/data/poiExtraRoV1"),
   ]);
 
   type POI = Record<string, unknown> & { id?: string; type?: string; parent?: string; coords?: number[]; image?: string; coa?: unknown; name?: Record<string, string> };
@@ -58,7 +60,7 @@ async function main() {
   const allSources: POI[] = ([] as POI[]).concat(
     dePois as POI[], ALL_DE_EXTRA_POIS as POI[], romaniaAllPois as POI[], hungaryAllPoi as POI[],
     [vaticanCountry as POI], vaticanPois as POI[], ALL_COUNTRY_POIS as POI[],
-    poiExtraHuV4 as POI[],
+    poiExtraHuV4 as POI[], poiExtraRoV1 as POI[],
   );
   console.log(`[build-seo-index] raw sources: ${allSources.length}`);
 

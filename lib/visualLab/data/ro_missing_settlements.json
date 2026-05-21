@@ -1,0 +1,2940 @@
+[
+  {
+    "qid": "Q19660",
+    "name_ro": "București",
+    "name_hu": "Bukarest",
+    "name_de": "Bukarest",
+    "name_en": "Bucharest",
+    "population": 1716961,
+    "coords": [
+      26.097777777,
+      44.413361111
+    ],
+    "postal": "010011–062397"
+  },
+  {
+    "qid": "Q46852",
+    "name_ro": "Iași",
+    "name_hu": "Jászvásár",
+    "name_de": "Iași",
+    "name_en": "Iași",
+    "population": 271692,
+    "coords": [
+      27.588888888,
+      47.162222222
+    ],
+    "postal": "700001–700951"
+  },
+  {
+    "qid": "Q79808",
+    "name_ro": "Constanța",
+    "name_hu": "Konstanca",
+    "name_de": "Constanța",
+    "name_en": "Constanța",
+    "population": 263707,
+    "coords": [
+      28.6507598,
+      44.1767161
+    ],
+    "postal": "900003–900746"
+  },
+  {
+    "qid": "Q82174",
+    "name_ro": "Brașov",
+    "name_hu": "Brassó",
+    "name_de": "Brașov",
+    "name_en": "Brașov",
+    "population": 237589,
+    "coords": [
+      25.610555555,
+      45.652222222
+    ],
+    "postal": "500001–500670"
+  },
+  {
+    "qid": "Q170996",
+    "name_ro": "Galați",
+    "name_hu": "Galac",
+    "name_de": "Galați",
+    "name_en": "Galați",
+    "population": 217851,
+    "coords": [
+      28.0425,
+      45.423333333
+    ],
+    "postal": "800001–800702"
+  },
+  {
+    "qid": "Q188478",
+    "name_ro": "Brăila",
+    "name_hu": "Brăila",
+    "name_de": "Brăila",
+    "name_en": "Brăila",
+    "population": 154686,
+    "coords": [
+      27.9575,
+      45.269166666
+    ],
+    "postal": "810001–810542"
+  },
+  {
+    "qid": "Q173591",
+    "name_ro": "Arad",
+    "name_hu": "Arad",
+    "name_de": "Arad",
+    "name_en": "Arad",
+    "population": 145078,
+    "coords": [
+      21.316666666,
+      46.166666666
+    ],
+    "postal": "310001–310508"
+  },
+  {
+    "qid": "Q10737004",
+    "name_ro": "Bacău",
+    "name_hu": "Bákó",
+    "name_de": "Bacău",
+    "name_en": "Bacău",
+    "population": 136087,
+    "coords": [
+      26.916666666,
+      46.583333333
+    ],
+    "postal": "600001–600408"
+  },
+  {
+    "qid": "Q83324",
+    "name_ro": "Sibiu",
+    "name_hu": "Nagyszeben",
+    "name_de": "Hermannstadt",
+    "name_en": "Sibiu",
+    "population": 134308,
+    "coords": [
+      24.15,
+      45.8
+    ],
+    "postal": "550003–550550"
+  },
+  {
+    "qid": "Q46400",
+    "name_ro": "Suceava",
+    "name_hu": "Szucsáva",
+    "name_de": "Suceava",
+    "name_en": "Suceava",
+    "population": 119694,
+    "coords": [
+      26.255555555,
+      47.651388888
+    ],
+    "postal": "720001–720285"
+  },
+  {
+    "qid": "Q201404",
+    "name_ro": "Buzău",
+    "name_hu": "Bodzavásár",
+    "name_de": "Buzau",
+    "name_en": "Buzău",
+    "population": 103481,
+    "coords": [
+      26.816666666,
+      45.151666666
+    ],
+    "postal": "120001–120282"
+  },
+  {
+    "qid": "Q185332",
+    "name_ro": "Satu Mare",
+    "name_hu": "Szatmárnémeti",
+    "name_de": "Satu Mare",
+    "name_en": "Satu Mare",
+    "population": 91520,
+    "coords": [
+      22.89,
+      47.79
+    ],
+    "postal": "440004–440278"
+  },
+  {
+    "qid": "Q178855",
+    "name_ro": "Botoșani",
+    "name_hu": "Botosán",
+    "name_de": "Botoșani",
+    "name_en": "Botoșani",
+    "population": 90010,
+    "coords": [
+      26.669444444,
+      47.748611111
+    ],
+    "postal": "710001–710383"
+  },
+  {
+    "qid": "Q187945",
+    "name_ro": "Piatra-Neamț",
+    "name_hu": "Karácsonkő",
+    "name_de": "Piatra Neamț",
+    "name_en": "Piatra Neamț",
+    "population": 79679,
+    "coords": [
+      26.370833333,
+      46.9275
+    ],
+    "postal": "610004–610292"
+  },
+  {
+    "qid": "Q192269",
+    "name_ro": "Vaslui",
+    "name_hu": "Vászló",
+    "name_de": "Wassluy",
+    "name_en": "Vaslui",
+    "population": 63035,
+    "coords": [
+      27.729166666,
+      46.638333333
+    ],
+    "postal": "730006–730242"
+  },
+  {
+    "qid": "Q202351",
+    "name_ro": "Giurgiu",
+    "name_hu": "Gyurgyevó",
+    "name_de": "Giurgiu",
+    "name_en": "Giurgiu",
+    "population": 54551,
+    "coords": [
+      25.966666666,
+      43.9
+    ],
+    "postal": "080011–080882"
+  },
+  {
+    "qid": "Q913997",
+    "name_ro": "Florești",
+    "name_hu": "Szászfenes",
+    "name_de": "Florești",
+    "name_en": "Florești",
+    "population": 50307,
+    "coords": [
+      23.490833333,
+      46.7475
+    ],
+    "postal": "407280"
+  },
+  {
+    "qid": "Q16898574",
+    "name_ro": "Roșiori de Vede",
+    "name_hu": "Roșiori de Vede",
+    "name_de": "Roșiori de Vede",
+    "name_en": "Roșiori de Vede",
+    "population": 22294,
+    "coords": [
+      24.99536,
+      44.112724
+    ],
+    "postal": "145100"
+  },
+  {
+    "qid": "Q1044083",
+    "name_ro": "Dumbrăvița",
+    "name_hu": "Újszentes",
+    "name_de": "Dumbrăvița",
+    "name_en": "Dumbrăvița",
+    "population": 20014,
+    "coords": [
+      21.2475,
+      45.80194444
+    ],
+    "postal": "307160"
+  },
+  {
+    "qid": "Q390156",
+    "name_ro": "Petrila",
+    "name_hu": "Petrilla",
+    "name_de": "Petrila",
+    "name_en": "Petrila",
+    "population": 19600,
+    "coords": [
+      23.398055555,
+      45.451111111
+    ],
+    "postal": ""
+  },
+  {
+    "qid": "Q221214",
+    "name_ro": "Cugir",
+    "name_hu": "Kudzsir",
+    "name_de": "Kudschir",
+    "name_en": "Cugir",
+    "population": 19473,
+    "coords": [
+      23.363611111,
+      45.843611111
+    ],
+    "postal": "515600"
+  },
+  {
+    "qid": "Q616538",
+    "name_ro": "Dudu",
+    "name_hu": "Dudu",
+    "name_de": "Dudu",
+    "name_en": "Dudu",
+    "population": 19347,
+    "coords": [
+      25.99064,
+      44.456283
+    ],
+    "postal": "077041"
+  },
+  {
+    "qid": "Q16898195",
+    "name_ro": "Gherla",
+    "name_hu": "Szamosújvár",
+    "name_de": "Gherla",
+    "name_en": "Gherla",
+    "population": 18995,
+    "coords": [
+      23.9,
+      47.02
+    ],
+    "postal": "405300"
+  },
+  {
+    "qid": "Q16898421",
+    "name_ro": "Târnăveni",
+    "name_hu": "Târnăveni",
+    "name_de": "Târnăveni",
+    "name_en": "Târnăveni",
+    "population": 18945,
+    "coords": [
+      24.27,
+      46.329722222
+    ],
+    "postal": "545600"
+  },
+  {
+    "qid": "Q16898311",
+    "name_ro": "Vulcan",
+    "name_hu": "Vulcan",
+    "name_de": "Vulcan",
+    "name_en": "Vulcan",
+    "population": 18527,
+    "coords": [
+      23.291388888,
+      45.375
+    ],
+    "postal": "336200"
+  },
+  {
+    "qid": "Q1030603",
+    "name_ro": "Giroc",
+    "name_hu": "Gyüreg",
+    "name_de": "Giroc",
+    "name_en": "Giroc",
+    "population": 17999,
+    "coords": [
+      21.23333333,
+      45.7
+    ],
+    "postal": "307220"
+  },
+  {
+    "qid": "Q12165670",
+    "name_ro": "Fetești-Gară",
+    "name_hu": "Fetești-Gară",
+    "name_de": "Fetești-Gară",
+    "name_en": "Fetești-Gară",
+    "population": 17904,
+    "coords": [
+      27.828904,
+      44.420182
+    ],
+    "postal": "925150"
+  },
+  {
+    "qid": "Q16898317",
+    "name_ro": "Orăștie",
+    "name_hu": "Orăștie",
+    "name_de": "Orăștie",
+    "name_en": "Orăștie",
+    "population": 16825,
+    "coords": [
+      23.199444444,
+      45.840277777
+    ],
+    "postal": "335700"
+  },
+  {
+    "qid": "Q931160",
+    "name_ro": "Valu lui Traian",
+    "name_hu": "Valu lui Traian",
+    "name_de": "Valu lui Traian",
+    "name_en": "Valu lui Traian",
+    "population": 16617,
+    "coords": [
+      28.455,
+      44.165
+    ],
+    "postal": "907300"
+  },
+  {
+    "qid": "Q12148972",
+    "name_ro": "Roșu",
+    "name_hu": "Roșu",
+    "name_de": "Roșu",
+    "name_en": "Roșu",
+    "population": 16189,
+    "coords": [
+      26.00827,
+      44.450888
+    ],
+    "postal": "77042"
+  },
+  {
+    "qid": "Q590443",
+    "name_ro": "Balș",
+    "name_hu": "Balș",
+    "name_de": "Balș",
+    "name_en": "Balș",
+    "population": 16114,
+    "coords": [
+      24.098611111,
+      44.354166666
+    ],
+    "postal": "235100"
+  },
+  {
+    "qid": "Q209977",
+    "name_ro": "Ștefănești",
+    "name_hu": "Ștefănești",
+    "name_de": "Ștefănești",
+    "name_en": "Ștefănești",
+    "population": 15931,
+    "coords": [
+      24.9526897,
+      44.8716933
+    ],
+    "postal": "117715"
+  },
+  {
+    "qid": "Q790338",
+    "name_ro": "Râșnov",
+    "name_hu": "Barcarozsnyó",
+    "name_de": "Rosenau",
+    "name_en": "Râșnov",
+    "population": 15920,
+    "coords": [
+      25.460277777,
+      45.593055555
+    ],
+    "postal": "505400"
+  },
+  {
+    "qid": "Q276145",
+    "name_ro": "Vicovu de Sus",
+    "name_hu": "Vicovu de Sus",
+    "name_de": "Oberwikow",
+    "name_en": "Vicovu de Sus",
+    "population": 15143,
+    "coords": [
+      25.68,
+      47.925833333
+    ],
+    "postal": "727610"
+  },
+  {
+    "qid": "Q736276",
+    "name_ro": "Cernavodă",
+    "name_hu": "Csernavoda",
+    "name_de": "Cernavodă",
+    "name_en": "Cernavodă",
+    "population": 15088,
+    "coords": [
+      28.033611111,
+      44.338055555
+    ],
+    "postal": "905200"
+  },
+  {
+    "qid": "Q14920788",
+    "name_ro": "Șelimbăr",
+    "name_hu": "Sellenberk",
+    "name_de": "Șelimbăr",
+    "name_en": "Șelimbăr",
+    "population": 14861,
+    "coords": [
+      24.190966,
+      45.769437
+    ],
+    "postal": "557260"
+  },
+  {
+    "qid": "Q899563",
+    "name_ro": "Cumpăna",
+    "name_hu": "Cumpăna",
+    "name_de": "Cumpăna",
+    "name_en": "Cumpăna",
+    "population": 14757,
+    "coords": [
+      28.555833333,
+      44.112777777
+    ],
+    "postal": "907105"
+  },
+  {
+    "qid": "Q2537535",
+    "name_ro": "Valea Lupului",
+    "name_hu": "Valea Lupului",
+    "name_de": "Valea Lupului",
+    "name_en": "Valea Lupului",
+    "population": 14510,
+    "coords": [
+      27.502139,
+      47.177386
+    ],
+    "postal": "707410"
+  },
+  {
+    "qid": "Q803706",
+    "name_ro": "Baia Sprie",
+    "name_hu": "Felsőbánya",
+    "name_de": "Mittelstadt",
+    "name_en": "Baia Sprie",
+    "population": 14329,
+    "coords": [
+      23.688611111,
+      47.660833333
+    ],
+    "postal": "435100"
+  },
+  {
+    "qid": "Q756585",
+    "name_ro": "Buhuși",
+    "name_hu": "Buhus",
+    "name_de": "Buhuși",
+    "name_en": "Buhuși",
+    "population": 14152,
+    "coords": [
+      26.704166666,
+      46.715
+    ],
+    "postal": ""
+  },
+  {
+    "qid": "Q305182",
+    "name_ro": "Dărmănești",
+    "name_hu": "Dormánfalva",
+    "name_de": "Dărmănești",
+    "name_en": "Dărmănești",
+    "population": 13069,
+    "coords": [
+      26.479722222,
+      46.37
+    ],
+    "postal": ""
+  },
+  {
+    "qid": "Q75504",
+    "name_ro": "Bocșa",
+    "name_hu": "Boksánbánya",
+    "name_de": "Bokschan",
+    "name_en": "Bocșa",
+    "population": 12949,
+    "coords": [
+      21.710555555,
+      45.374722222
+    ],
+    "postal": "325300"
+  },
+  {
+    "qid": "Q16425426",
+    "name_ro": "Vladimirescu",
+    "name_hu": "Glogovác község",
+    "name_de": "Vladimirescu",
+    "name_en": "Vladimirescu",
+    "population": 12772,
+    "coords": [
+      21.46156,
+      46.167353
+    ],
+    "postal": "317405"
+  },
+  {
+    "qid": "Q837152",
+    "name_ro": "Ocna Mureș",
+    "name_hu": "Marosújvár",
+    "name_de": "Miereschhall",
+    "name_en": "Ocna Mureș",
+    "population": 12480,
+    "coords": [
+      23.86,
+      46.39
+    ],
+    "postal": "515700"
+  },
+  {
+    "qid": "Q16898548",
+    "name_ro": "Vatra Dornei",
+    "name_hu": "Vatra Dornei",
+    "name_de": "Vatra Dornei",
+    "name_en": "Vatra Dornei",
+    "population": 11856,
+    "coords": [
+      25.366666666,
+      47.35
+    ],
+    "postal": "725700"
+  },
+  {
+    "qid": "Q15279385",
+    "name_ro": "Sânpetru",
+    "name_hu": "Barcaszentpéter",
+    "name_de": "Sânpetru",
+    "name_en": "Sânpetru",
+    "population": 11794,
+    "coords": [
+      25.632284,
+      45.706349
+    ],
+    "postal": "507190"
+  },
+  {
+    "qid": "Q946916",
+    "name_ro": "Matca",
+    "name_hu": "Matca",
+    "name_de": "Matca",
+    "name_en": "Matca",
+    "population": 11535,
+    "coords": [
+      27.53333333,
+      45.85
+    ],
+    "postal": "807185"
+  },
+  {
+    "qid": "Q12087395",
+    "name_ro": "Valea Adâncă",
+    "name_hu": "Valea Adâncă",
+    "name_de": "Valea Adâncă",
+    "name_en": "Valea Adâncă",
+    "population": 11472,
+    "coords": [
+      27.556496,
+      47.125551
+    ],
+    "postal": "707317"
+  },
+  {
+    "qid": "Q837154",
+    "name_ro": "Simeria",
+    "name_hu": "Piski",
+    "name_de": "Simeria",
+    "name_en": "Simeria",
+    "population": 11268,
+    "coords": [
+      23.01,
+      45.85
+    ],
+    "postal": "335900"
+  },
+  {
+    "qid": "Q1084311",
+    "name_ro": "Marginea",
+    "name_hu": "Marginea",
+    "name_de": "Mardzina",
+    "name_en": "Marginea",
+    "population": 11164,
+    "coords": [
+      25.83333333,
+      47.81666667
+    ],
+    "postal": "727345"
+  },
+  {
+    "qid": "Q386888",
+    "name_ro": "Târgu Lăpuș",
+    "name_hu": "Magyarlápos",
+    "name_de": "Târgu Lăpuș",
+    "name_en": "Târgu Lăpuș",
+    "population": 11163,
+    "coords": [
+      23.863055555,
+      47.4525
+    ],
+    "postal": "435600"
+  },
+  {
+    "qid": "Q851037",
+    "name_ro": "Comarnic",
+    "name_hu": "Comarnic",
+    "name_de": "Comarnic",
+    "name_en": "Comarnic",
+    "population": 11106,
+    "coords": [
+      25.635277777,
+      45.251111111
+    ],
+    "postal": "105700"
+  },
+  {
+    "qid": "Q276117",
+    "name_ro": "Dolhasca",
+    "name_hu": "Dolhasca",
+    "name_de": "Dolhasca",
+    "name_en": "Dolhasca",
+    "population": 11007,
+    "coords": [
+      26.609444444,
+      47.430277777
+    ],
+    "postal": ""
+  },
+  {
+    "qid": "Q16898312",
+    "name_ro": "Brad",
+    "name_hu": "Brad",
+    "name_de": "Brad",
+    "name_en": "Brad",
+    "population": 10942,
+    "coords": [
+      22.79,
+      46.129444444
+    ],
+    "postal": "335200"
+  },
+  {
+    "qid": "Q376233",
+    "name_ro": "Săcueni",
+    "name_hu": "Székelyhíd",
+    "name_de": "Zickelhid",
+    "name_en": "Săcueni",
+    "population": 10720,
+    "coords": [
+      22.0914,
+      47.3525
+    ],
+    "postal": "417435"
+  },
+  {
+    "qid": "Q1019174",
+    "name_ro": "Jilava",
+    "name_hu": "Jilava",
+    "name_de": "Jilava",
+    "name_en": "Jilava",
+    "population": 10611,
+    "coords": [
+      26.083333333,
+      44.333333333
+    ],
+    "postal": "77120"
+  },
+  {
+    "qid": "Q12118822",
+    "name_ro": "Lunca Cetățuii",
+    "name_hu": "Lunca Cetățuii",
+    "name_de": "Lunca Cetățuii",
+    "name_en": "Lunca Cetățuii",
+    "population": 10606,
+    "coords": [
+      27.566183,
+      47.093131
+    ],
+    "postal": "707085"
+  },
+  {
+    "qid": "Q275904",
+    "name_ro": "Flămânzi",
+    "name_hu": "Flamonza",
+    "name_de": "Flămânzi",
+    "name_en": "Flămânzi",
+    "population": 10561,
+    "coords": [
+      26.87277778,
+      47.56444444
+    ],
+    "postal": "717155"
+  },
+  {
+    "qid": "Q556266",
+    "name_ro": "Târgu Ocna",
+    "name_hu": "Aknavásár",
+    "name_de": "Târgu Ocna",
+    "name_en": "Târgu Ocna",
+    "population": 10410,
+    "coords": [
+      26.609444444,
+      46.280277777
+    ],
+    "postal": "605600"
+  },
+  {
+    "qid": "Q276135",
+    "name_ro": "Dăbuleni",
+    "name_hu": "Dăbuleni",
+    "name_de": "Dăbuleni",
+    "name_en": "Dăbuleni",
+    "population": 10333,
+    "coords": [
+      24.091944444,
+      43.801111111
+    ],
+    "postal": ""
+  },
+  {
+    "qid": "Q1058724",
+    "name_ro": "Pechea",
+    "name_hu": "Pechea",
+    "name_de": "Pechea",
+    "name_en": "Pechea",
+    "population": 10182,
+    "coords": [
+      27.8,
+      45.63333333
+    ],
+    "postal": "807240"
+  },
+  {
+    "qid": "Q641218",
+    "name_ro": "Videle",
+    "name_hu": "Videle",
+    "name_de": "Videle",
+    "name_en": "Videle",
+    "population": 10107,
+    "coords": [
+      25.533333333,
+      44.283333333
+    ],
+    "postal": "145300"
+  },
+  {
+    "qid": "Q518992",
+    "name_ro": "Călan",
+    "name_hu": "Pusztakalán",
+    "name_de": "Călan",
+    "name_en": "Călan",
+    "population": 10055,
+    "coords": [
+      23.008611111,
+      45.736111111
+    ],
+    "postal": ""
+  },
+  {
+    "qid": "Q12166351",
+    "name_ro": "Fundeni",
+    "name_hu": "Fundeni",
+    "name_de": "Fundeni",
+    "name_en": "Fundeni",
+    "population": 9850,
+    "coords": [
+      26.166805,
+      44.459492
+    ],
+    "postal": "77086"
+  },
+  {
+    "qid": "Q508057",
+    "name_ro": "Drăgănești-Olt",
+    "name_hu": "Drăgănești-Olt",
+    "name_de": "Drăgănești-Olt",
+    "name_en": "Drăgănești-Olt",
+    "population": 9721,
+    "coords": [
+      24.53,
+      44.169722222
+    ],
+    "postal": ""
+  },
+  {
+    "qid": "Q267708",
+    "name_ro": "Sovata",
+    "name_hu": "Szováta",
+    "name_de": "Sowata",
+    "name_en": "Sovata",
+    "population": 9703,
+    "coords": [
+      25.074444444,
+      46.596111111
+    ],
+    "postal": "545500"
+  },
+  {
+    "qid": "Q851029",
+    "name_ro": "Aleșd",
+    "name_hu": "Élesd",
+    "name_de": "Aleșd",
+    "name_en": "Aleșd",
+    "population": 9662,
+    "coords": [
+      22.396944444,
+      47.057222222
+    ],
+    "postal": "415100"
+  },
+  {
+    "qid": "Q1159853",
+    "name_ro": "Lumina",
+    "name_hu": "Lumina",
+    "name_de": "Lumina",
+    "name_en": "Lumina",
+    "population": 9648,
+    "coords": [
+      28.566666666,
+      44.283333333
+    ],
+    "postal": "907175"
+  },
+  {
+    "qid": "Q253825",
+    "name_ro": "Salcea",
+    "name_hu": "Salcea",
+    "name_de": "Salcea",
+    "name_en": "Salcea",
+    "population": 9513,
+    "coords": [
+      26.37,
+      47.65
+    ],
+    "postal": "727475"
+  },
+  {
+    "qid": "Q1188944",
+    "name_ro": "Săbăoani",
+    "name_hu": "Szabófalva",
+    "name_de": "Săbăoani",
+    "name_en": "Săbăoani",
+    "population": 9511,
+    "coords": [
+      26.865672,
+      47.013129
+    ],
+    "postal": "617400"
+  },
+  {
+    "qid": "Q850992",
+    "name_ro": "Costești",
+    "name_hu": "Costești",
+    "name_de": "Costești",
+    "name_en": "Costești",
+    "population": 9460,
+    "coords": [
+      24.88,
+      44.669722222
+    ],
+    "postal": ""
+  },
+  {
+    "qid": "Q743752",
+    "name_ro": "Odobești",
+    "name_hu": "Odobest",
+    "name_de": "Odobești",
+    "name_en": "Odobești",
+    "population": 9423,
+    "coords": [
+      27.1155094,
+      45.7497328
+    ],
+    "postal": "625300"
+  },
+  {
+    "qid": "Q739444",
+    "name_ro": "Topoloveni",
+    "name_hu": "Topoloveni",
+    "name_de": "Topoloveni",
+    "name_en": "Topoloveni",
+    "population": 9373,
+    "coords": [
+      25.083888888,
+      44.806944444
+    ],
+    "postal": "115500"
+  },
+  {
+    "qid": "Q12735837",
+    "name_ro": "Moisei",
+    "name_hu": "Majszin",
+    "name_de": "Moisei",
+    "name_en": "Moisei",
+    "population": 9317,
+    "coords": [
+      24.550684,
+      47.653981
+    ],
+    "postal": "437195"
+  },
+  {
+    "qid": "Q280364",
+    "name_ro": "Titu",
+    "name_hu": "Titu",
+    "name_de": "Titu",
+    "name_en": "Titu",
+    "population": 9291,
+    "coords": [
+      25.573611111,
+      44.662222222
+    ],
+    "postal": "135500"
+  },
+  {
+    "qid": "Q1006101",
+    "name_ro": "Poienile de sub Munte",
+    "name_hu": "Ruszpolyána",
+    "name_de": "Poienile de sub Munte",
+    "name_en": "Poienile de sub Munte",
+    "population": 9291,
+    "coords": [
+      24.433333333,
+      47.816666666
+    ],
+    "postal": "437220"
+  },
+  {
+    "qid": "Q829051",
+    "name_ro": "Moldova Nouă",
+    "name_hu": "Újmoldova",
+    "name_de": "Neumoldowa",
+    "name_en": "Moldova Nouă",
+    "population": 9278,
+    "coords": [
+      21.666388888,
+      44.734722222
+    ],
+    "postal": "325500"
+  },
+  {
+    "qid": "Q593157",
+    "name_ro": "Murfatlar",
+    "name_hu": "Murfatlar",
+    "name_de": "Murfatlar",
+    "name_en": "Murfatlar",
+    "population": 9173,
+    "coords": [
+      28.408333333,
+      44.173611111
+    ],
+    "postal": "905100"
+  },
+  {
+    "qid": "Q1092812",
+    "name_ro": "Sângeorgiu de Mureș",
+    "name_hu": "Marosszentgyörgy",
+    "name_de": "Sângeorgiu de Mureș",
+    "name_en": "Sângeorgiu de Mureș",
+    "population": 9149,
+    "coords": [
+      24.604207,
+      46.576434
+    ],
+    "postal": "547530"
+  },
+  {
+    "qid": "Q275810",
+    "name_ro": "Cajvana",
+    "name_hu": "Cajvana",
+    "name_de": "Cajvana",
+    "name_en": "Cajvana",
+    "population": 9139,
+    "coords": [
+      25.969444444,
+      47.704444444
+    ],
+    "postal": ""
+  },
+  {
+    "qid": "Q16426501",
+    "name_ro": "Poiana Mare",
+    "name_hu": "Poiana Mare",
+    "name_de": "Poiana Mare",
+    "name_en": "Poiana Mare",
+    "population": 9047,
+    "coords": [
+      23.093976,
+      43.912651
+    ],
+    "postal": "207470"
+  },
+  {
+    "qid": "Q275981",
+    "name_ro": "Podu Iloaiei",
+    "name_hu": "Podu Iloaiei",
+    "name_de": "Podu Iloaiei",
+    "name_en": "Podu Iloaiei",
+    "population": 8992,
+    "coords": [
+      27.266666666,
+      47.216666666
+    ],
+    "postal": "707365"
+  },
+  {
+    "qid": "Q221331",
+    "name_ro": "Apahida",
+    "name_hu": "Apahida",
+    "name_de": "Apahida",
+    "name_en": "Apahida",
+    "population": 8989,
+    "coords": [
+      23.74,
+      46.807777777
+    ],
+    "postal": "407035"
+  },
+  {
+    "qid": "Q252061",
+    "name_ro": "Valea lui Mihai",
+    "name_hu": "Érmihályfalva",
+    "name_de": "Valea lui Mihai",
+    "name_en": "Valea lui Mihai",
+    "population": 8969,
+    "coords": [
+      22.13,
+      47.52
+    ],
+    "postal": "415700"
+  },
+  {
+    "qid": "Q276119",
+    "name_ro": "Liteni",
+    "name_hu": "Liteni",
+    "name_de": "Liteni",
+    "name_en": "Liteni",
+    "population": 8878,
+    "coords": [
+      26.531944444,
+      47.52
+    ],
+    "postal": ""
+  },
+  {
+    "qid": "Q222953",
+    "name_ro": "Baciu",
+    "name_hu": "Kisbács",
+    "name_de": "Baciu",
+    "name_en": "Baciu",
+    "population": 8818,
+    "coords": [
+      23.525,
+      46.792777777
+    ],
+    "postal": "407055"
+  },
+  {
+    "qid": "Q835227",
+    "name_ro": "Ineu",
+    "name_hu": "Borosjenő",
+    "name_de": "Ineu",
+    "name_en": "Ineu",
+    "population": 8807,
+    "coords": [
+      21.836944444,
+      46.425833333
+    ],
+    "postal": ""
+  },
+  {
+    "qid": "Q851056",
+    "name_ro": "Cristuru Secuiesc",
+    "name_hu": "Székelykeresztúr",
+    "name_de": "Szeklerkreuz",
+    "name_en": "Cristuru Secuiesc",
+    "population": 8797,
+    "coords": [
+      25.035277777,
+      46.291666666
+    ],
+    "postal": "535400"
+  },
+  {
+    "qid": "Q837167",
+    "name_ro": "Hațeg",
+    "name_hu": "Hátszeg",
+    "name_de": "Hațeg",
+    "name_en": "Hațeg",
+    "population": 8793,
+    "coords": [
+      22.95,
+      45.6075
+    ],
+    "postal": ""
+  },
+  {
+    "qid": "Q748068",
+    "name_ro": "Hârșova",
+    "name_hu": "Hârșova",
+    "name_de": "Hârșova",
+    "name_en": "Hârșova",
+    "population": 8737,
+    "coords": [
+      27.951944444,
+      44.683333333
+    ],
+    "postal": "905400"
+  },
+  {
+    "qid": "Q1059052",
+    "name_ro": "Tomești",
+    "name_hu": "Tomești",
+    "name_de": "Tomești",
+    "name_en": "Tomești",
+    "population": 8713,
+    "coords": [
+      27.7,
+      47.1333
+    ],
+    "postal": "707515"
+  },
+  {
+    "qid": "Q586387",
+    "name_ro": "Eforie",
+    "name_hu": "Eforie",
+    "name_de": "Eforie",
+    "name_en": "Eforie",
+    "population": 8630,
+    "coords": [
+      28.65083,
+      44.02528
+    ],
+    "postal": "905300"
+  },
+  {
+    "qid": "Q957694",
+    "name_ro": "Liești",
+    "name_hu": "Liești",
+    "name_de": "Liești",
+    "name_en": "Liești",
+    "population": 8505,
+    "coords": [
+      27.544218,
+      45.616012
+    ],
+    "postal": "807180"
+  },
+  {
+    "qid": "Q75537",
+    "name_ro": "Oțelu Roșu",
+    "name_hu": "Nándorhegy",
+    "name_de": "Ferdinandsberg",
+    "name_en": "Oțelu Roșu",
+    "population": 8497,
+    "coords": [
+      22.366666666,
+      45.533333333
+    ],
+    "postal": ""
+  },
+  {
+    "qid": "Q930102",
+    "name_ro": "Tăuții-Măgherăuș",
+    "name_hu": "Miszmogyorós",
+    "name_de": "Tăuții-Măgherăuș",
+    "name_en": "Tăuții-Măgherăuș",
+    "population": 8463,
+    "coords": [
+      23.4722,
+      47.6678
+    ],
+    "postal": "437345"
+  },
+  {
+    "qid": "Q13722890",
+    "name_ro": "Sântandrei",
+    "name_hu": "Biharszentandrás",
+    "name_de": "Sântandrei",
+    "name_en": "Sântandrei",
+    "population": 8430,
+    "coords": [
+      21.855392,
+      47.069117
+    ],
+    "postal": "417515"
+  },
+  {
+    "qid": "Q325555",
+    "name_ro": "Recaș",
+    "name_hu": "Temesrékas",
+    "name_de": "Rekasch",
+    "name_en": "Recaș",
+    "population": 8347,
+    "coords": [
+      21.513333333,
+      45.801388888
+    ],
+    "postal": "307340"
+  },
+  {
+    "qid": "Q666373",
+    "name_ro": "Seini",
+    "name_hu": "Szinérváralja",
+    "name_de": "Leuchtenburg",
+    "name_en": "Seini",
+    "population": 8198,
+    "coords": [
+      23.285277777,
+      47.747777777
+    ],
+    "postal": "435400"
+  },
+  {
+    "qid": "Q275642",
+    "name_ro": "Roznov",
+    "name_hu": "Roznov",
+    "name_de": "Roznov",
+    "name_en": "Roznov",
+    "population": 8133,
+    "coords": [
+      26.511666666,
+      46.835555555
+    ],
+    "postal": "617390"
+  },
+  {
+    "qid": "Q750220",
+    "name_ro": "Huedin",
+    "name_hu": "Bánffyhunyad",
+    "name_de": "Heynod",
+    "name_en": "Huedin",
+    "population": 8069,
+    "coords": [
+      23.0041212,
+      46.8737583
+    ],
+    "postal": "405400"
+  },
+  {
+    "qid": "Q12116357",
+    "name_ro": "Chiajna",
+    "name_hu": "Chiajna",
+    "name_de": "Chiajna",
+    "name_en": "Chiajna",
+    "population": 8052,
+    "coords": [
+      25.97845,
+      44.459431
+    ],
+    "postal": "77040"
+  },
+  {
+    "qid": "Q1077654",
+    "name_ro": "Mihail Kogălniceanu",
+    "name_hu": "Mihail Kogălniceanu",
+    "name_de": "Mihail Kogălniceanu",
+    "name_en": "Mihail Kogălniceanu",
+    "population": 7987,
+    "coords": [
+      28.458333333,
+      44.366666666
+    ],
+    "postal": "907195"
+  },
+  {
+    "qid": "Q12137490",
+    "name_ro": "Palazu Mare",
+    "name_hu": "Palazu Mare",
+    "name_de": "Palazu Mare",
+    "name_en": "Palazu Mare",
+    "population": 7945,
+    "coords": [
+      28.601141,
+      44.229018
+    ],
+    "postal": "900002"
+  },
+  {
+    "qid": "Q3791441",
+    "name_ro": "Bărbulești",
+    "name_hu": "Bărbulești",
+    "name_de": "Bărbulești",
+    "name_en": "Bărbulești",
+    "population": 7878,
+    "coords": [
+      26.599166666,
+      44.726111111
+    ],
+    "postal": "927031"
+  },
+  {
+    "qid": "Q533078",
+    "name_ro": "Baraolt",
+    "name_hu": "Barót",
+    "name_de": "Boralth",
+    "name_en": "Baraolt",
+    "population": 7730,
+    "coords": [
+      25.6,
+      46.075
+    ],
+    "postal": "525100"
+  },
+  {
+    "qid": "Q275895",
+    "name_ro": "Șomcuta Mare",
+    "name_hu": "Nagysomkút",
+    "name_de": "Großhorn",
+    "name_en": "Șomcuta Mare",
+    "population": 7703,
+    "coords": [
+      23.466666666,
+      47.516666666
+    ],
+    "postal": "437335"
+  },
+  {
+    "qid": "Q584531",
+    "name_ro": "Bumbești-Jiu",
+    "name_hu": "Bumbești-Jiu",
+    "name_de": "Bumbești-Jiu",
+    "name_en": "Bumbești-Jiu",
+    "population": 7684,
+    "coords": [
+      23.381388888,
+      45.178611111
+    ],
+    "postal": "215100"
+  },
+  {
+    "qid": "Q666521",
+    "name_ro": "Târgu Cărbunești",
+    "name_hu": "Szénvásárhely",
+    "name_de": "Târgu Cărbunești",
+    "name_en": "Târgu Cărbunești",
+    "population": 7616,
+    "coords": [
+      23.506388888,
+      44.958333333
+    ],
+    "postal": "215500"
+  },
+  {
+    "qid": "Q275890",
+    "name_ro": "Băbeni",
+    "name_hu": "Băbeni",
+    "name_de": "Băbeni",
+    "name_en": "Băbeni",
+    "population": 7570,
+    "coords": [
+      24.231111111,
+      44.975
+    ],
+    "postal": ""
+  },
+  {
+    "qid": "Q313689",
+    "name_ro": "Agnita",
+    "name_hu": "Szentágota",
+    "name_de": "Agnetheln",
+    "name_en": "Agnita",
+    "population": 7564,
+    "coords": [
+      24.623333333,
+      45.974444444
+    ],
+    "postal": ""
+  },
+  {
+    "qid": "Q12124039",
+    "name_ro": "Modelu",
+    "name_hu": "Modelu",
+    "name_de": "Modelu",
+    "name_en": "Modelu",
+    "population": 7529,
+    "coords": [
+      27.385194,
+      44.196246
+    ],
+    "postal": "917180"
+  },
+  {
+    "qid": "Q911099",
+    "name_ro": "Dumbrăveni",
+    "name_hu": "Dombrovén",
+    "name_de": "Dumbrăveni",
+    "name_en": "Dumbrăveni",
+    "population": 7493,
+    "coords": [
+      26.424569,
+      47.661
+    ],
+    "postal": "727225"
+  },
+  {
+    "qid": "Q12084774",
+    "name_ro": "Brănești",
+    "name_hu": "Brănești",
+    "name_de": "Brănești",
+    "name_en": "Brănești",
+    "population": 7458,
+    "coords": [
+      26.33501,
+      44.457562
+    ],
+    "postal": "77030"
+  },
+  {
+    "qid": "Q12099500",
+    "name_ro": "Dancu",
+    "name_hu": "Dancu",
+    "name_de": "Dancu",
+    "name_en": "Dancu",
+    "population": 7437,
+    "coords": [
+      27.661885,
+      47.152963
+    ],
+    "postal": "707252"
+  },
+  {
+    "qid": "Q3500298",
+    "name_ro": "Strejnicu",
+    "name_hu": "Strejnicu",
+    "name_de": "Strejnicu",
+    "name_en": "Strejnicu",
+    "population": 7393,
+    "coords": [
+      25.956262,
+      44.917628
+    ],
+    "postal": "107592"
+  },
+  {
+    "qid": "Q325054",
+    "name_ro": "Sâncraiu de Mureș",
+    "name_hu": "Marosszentkirály",
+    "name_de": "Sâncraiu de Mureș",
+    "name_en": "Sâncraiu de Mureș",
+    "population": 7356,
+    "coords": [
+      24.52,
+      46.55
+    ],
+    "postal": "547525"
+  },
+  {
+    "qid": "Q850974",
+    "name_ro": "Segarcea",
+    "name_hu": "Segarcea",
+    "name_de": "Segarcea",
+    "name_en": "Segarcea",
+    "population": 7356,
+    "coords": [
+      23.7333898,
+      44.0918691
+    ],
+    "postal": "205400"
+  },
+  {
+    "qid": "Q375371",
+    "name_ro": "Călimănești",
+    "name_hu": "Călimănești",
+    "name_de": "Călimănești",
+    "name_en": "Călimănești",
+    "population": 7348,
+    "coords": [
+      24.343333333,
+      45.239166666
+    ],
+    "postal": ""
+  },
+  {
+    "qid": "Q949614",
+    "name_ro": "Sadova",
+    "name_hu": "Sadova",
+    "name_de": "Sadova",
+    "name_en": "Sadova",
+    "population": 7284,
+    "coords": [
+      23.96666667,
+      43.9
+    ],
+    "postal": "207505"
+  },
+  {
+    "qid": "Q850982",
+    "name_ro": "Curtici",
+    "name_hu": "Kürtös",
+    "name_de": "Kurtitsch",
+    "name_en": "Curtici",
+    "population": 7279,
+    "coords": [
+      21.306111111,
+      46.341944444
+    ],
+    "postal": "315200"
+  },
+  {
+    "qid": "Q2924205",
+    "name_ro": "Gilău",
+    "name_hu": "Gyalu",
+    "name_de": "Gilău",
+    "name_en": "Gilău",
+    "population": 7248,
+    "coords": [
+      23.383333333,
+      46.75
+    ],
+    "postal": "407310"
+  },
+  {
+    "qid": "Q851001",
+    "name_ro": "Măcin",
+    "name_hu": "Măcin",
+    "name_de": "Măcin",
+    "name_en": "Măcin",
+    "population": 7248,
+    "coords": [
+      28.123055555,
+      45.245555555
+    ],
+    "postal": "825300"
+  },
+  {
+    "qid": "Q1195057",
+    "name_ro": "Moșnița Nouă",
+    "name_hu": "Újmosnica",
+    "name_de": "Moșnița Nouă",
+    "name_en": "Moșnița Nouă",
+    "population": 7232,
+    "coords": [
+      21.32583333,
+      45.71805556
+    ],
+    "postal": "307285"
+  },
+  {
+    "qid": "Q12724560",
+    "name_ro": "Borcea",
+    "name_hu": "Borcea",
+    "name_de": "Borcea",
+    "name_en": "Borcea",
+    "population": 7219,
+    "coords": [
+      27.731492,
+      44.329375
+    ],
+    "postal": "917015"
+  },
+  {
+    "qid": "Q508670",
+    "name_ro": "Chișineu-Criș",
+    "name_hu": "Kisjenő",
+    "name_de": "Chișineu-Criș",
+    "name_en": "Chișineu-Criș",
+    "population": 7212,
+    "coords": [
+      21.515833333,
+      46.5225
+    ],
+    "postal": "315100"
+  },
+  {
+    "qid": "Q851409",
+    "name_ro": "Budești",
+    "name_hu": "Budești",
+    "name_de": "Budești",
+    "name_en": "Budești",
+    "population": 7126,
+    "coords": [
+      26.45,
+      44.23
+    ],
+    "postal": "915100"
+  },
+  {
+    "qid": "Q276120",
+    "name_ro": "Ulmeni",
+    "name_hu": "Sülelmed",
+    "name_de": "Ulmendorf",
+    "name_en": "Ulmeni",
+    "population": 7110,
+    "coords": [
+      23.300277777,
+      47.465555555
+    ],
+    "postal": "437355"
+  },
+  {
+    "qid": "Q12101557",
+    "name_ro": "Dobroești",
+    "name_hu": "Dobroești",
+    "name_de": "Dobroești",
+    "name_en": "Dobroești",
+    "population": 7025,
+    "coords": [
+      26.183348,
+      44.451036
+    ],
+    "postal": "77085"
+  },
+  {
+    "qid": "Q167121",
+    "name_ro": "Ungheni",
+    "name_hu": "Nyárádtő",
+    "name_de": "Nyaradfluß",
+    "name_en": "Ungheni",
+    "population": 7007,
+    "coords": [
+      24.460833333,
+      46.485833333
+    ],
+    "postal": "547605"
+  },
+  {
+    "qid": "Q186214",
+    "name_ro": "Turceni",
+    "name_hu": "Turceni",
+    "name_de": "Turceni",
+    "name_en": "Turceni",
+    "population": 6891,
+    "coords": [
+      23.37305556,
+      44.67944444
+    ],
+    "postal": "217520"
+  },
+  {
+    "qid": "Q276004",
+    "name_ro": "Murgeni",
+    "name_hu": "Murgeni",
+    "name_de": "Murgeni",
+    "name_en": "Murgeni",
+    "population": 6853,
+    "coords": [
+      28.016666666,
+      46.2
+    ],
+    "postal": "737370"
+  },
+  {
+    "qid": "Q655818",
+    "name_ro": "Buziaș",
+    "name_hu": "Buziásfürdő",
+    "name_de": "Busiasch",
+    "name_en": "Buziaș",
+    "population": 6834,
+    "coords": [
+      21.6,
+      45.65
+    ],
+    "postal": "305100"
+  },
+  {
+    "qid": "Q868112",
+    "name_ro": "Cobadin",
+    "name_hu": "Cobadin",
+    "name_de": "Cobadin",
+    "name_en": "Cobadin",
+    "population": 6821,
+    "coords": [
+      28.234902,
+      44.062672
+    ],
+    "postal": "907065"
+  },
+  {
+    "qid": "Q276009",
+    "name_ro": "Amara",
+    "name_hu": "Amara",
+    "name_de": "Amara",
+    "name_en": "Amara",
+    "population": 6805,
+    "coords": [
+      27.32,
+      44.62
+    ],
+    "postal": ""
+  },
+  {
+    "qid": "Q851021",
+    "name_ro": "Pâncota",
+    "name_hu": "Pankota",
+    "name_de": "Pankota",
+    "name_en": "Pâncota",
+    "population": 6787,
+    "coords": [
+      21.686944444,
+      46.3225
+    ],
+    "postal": "315500"
+  },
+  {
+    "qid": "Q15279391",
+    "name_ro": "Tărlungeni",
+    "name_hu": "Tatrang",
+    "name_de": "Tărlungeni",
+    "name_en": "Tărlungeni",
+    "population": 6719,
+    "coords": [
+      25.762688,
+      45.649742
+    ],
+    "postal": "507220"
+  },
+  {
+    "qid": "Q923254",
+    "name_ro": "Fundulea",
+    "name_hu": "Fundulea",
+    "name_de": "Fundulea",
+    "name_en": "Fundulea",
+    "population": 6714,
+    "coords": [
+      26.515277777,
+      44.452777777
+    ],
+    "postal": "915200"
+  },
+  {
+    "qid": "Q508313",
+    "name_ro": "Nădlac",
+    "name_hu": "Nagylak",
+    "name_de": "Nădlac",
+    "name_en": "Nădlac",
+    "population": 6713,
+    "coords": [
+      20.75,
+      46.166666666
+    ],
+    "postal": "315500"
+  },
+  {
+    "qid": "Q679428",
+    "name_ro": "Tălmaciu",
+    "name_hu": "Nagytalmács",
+    "name_de": "Talmesch",
+    "name_en": "Tălmaciu",
+    "population": 6711,
+    "coords": [
+      24.261111111,
+      45.666666666
+    ],
+    "postal": "555700"
+  },
+  {
+    "qid": "Q587746",
+    "name_ro": "Siret",
+    "name_hu": "Szeretvásár",
+    "name_de": "Sereth",
+    "name_en": "Siret",
+    "population": 6708,
+    "coords": [
+      26.06,
+      47.95
+    ],
+    "postal": "725500"
+  },
+  {
+    "qid": "Q570113",
+    "name_ro": "Uricani",
+    "name_hu": "Hobicaurikány",
+    "name_de": "Uricani",
+    "name_en": "Uricani",
+    "population": 6669,
+    "coords": [
+      23.1525,
+      45.336388888
+    ],
+    "postal": "336100"
+  },
+  {
+    "qid": "Q207196",
+    "name_ro": "Zlatna",
+    "name_hu": "Zalatna",
+    "name_de": "Kleinschlatten",
+    "name_en": "Zlatna",
+    "population": 6652,
+    "coords": [
+      23.221111111,
+      46.158888888
+    ],
+    "postal": "516100"
+  },
+  {
+    "qid": "Q2620875",
+    "name_ro": "Chirnogi",
+    "name_hu": "Chirnogi",
+    "name_de": "Chirnogi",
+    "name_en": "Chirnogi",
+    "population": 6629,
+    "coords": [
+      26.583333333,
+      44.116666666
+    ],
+    "postal": "917025"
+  },
+  {
+    "qid": "Q2538137",
+    "name_ro": "Cudalbi",
+    "name_hu": "Cudalbi",
+    "name_de": "Cudalbi",
+    "name_en": "Cudalbi",
+    "population": 6614,
+    "coords": [
+      27.7,
+      45.78333333
+    ],
+    "postal": "807105"
+  },
+  {
+    "qid": "Q1030777",
+    "name_ro": "Ghiroda",
+    "name_hu": "Győröd",
+    "name_de": "Ghiroda",
+    "name_en": "Ghiroda",
+    "population": 6609,
+    "coords": [
+      21.3,
+      45.76666667
+    ],
+    "postal": "307200"
+  },
+  {
+    "qid": "Q851048",
+    "name_ro": "Făget",
+    "name_hu": "Facsád",
+    "name_de": "Fatschet",
+    "name_en": "Făget",
+    "population": 6595,
+    "coords": [
+      22.18,
+      45.85
+    ],
+    "postal": "305300"
+  },
+  {
+    "qid": "Q855187",
+    "name_ro": "Câmpeni",
+    "name_hu": "Topánfalva",
+    "name_de": "Topesdorf",
+    "name_en": "Câmpeni",
+    "population": 6569,
+    "coords": [
+      23.045555555,
+      46.3625
+    ],
+    "postal": "515500"
+  },
+  {
+    "qid": "Q1065953",
+    "name_ro": "Tuzla",
+    "name_hu": "Tuzla",
+    "name_de": "Tuzla",
+    "name_en": "Tuzla",
+    "population": 6494,
+    "coords": [
+      28.633333333,
+      44.0
+    ],
+    "postal": "907295"
+  },
+  {
+    "qid": "Q1014935",
+    "name_ro": "Săcălaz",
+    "name_hu": "Szakálháza",
+    "name_de": "Sackelhausen",
+    "name_en": "Săcălaz",
+    "population": 6482,
+    "coords": [
+      21.110776,
+      45.759704
+    ],
+    "postal": "307370"
+  },
+  {
+    "qid": "Q935846",
+    "name_ro": "Vlăhița",
+    "name_hu": "Szentegyháza",
+    "name_de": "Vlăhița",
+    "name_en": "Vlăhița",
+    "population": 6468,
+    "coords": [
+      25.5298049,
+      46.3445399
+    ],
+    "postal": "535500"
+  },
+  {
+    "qid": "Q850969",
+    "name_ro": "Victoria",
+    "name_hu": "Viktóriaváros",
+    "name_de": "Viktoriastadt",
+    "name_en": "Victoria",
+    "population": 6446,
+    "coords": [
+      24.7058523,
+      45.6465638
+    ],
+    "postal": "505700"
+  },
+  {
+    "qid": "Q678884",
+    "name_ro": "Fieni",
+    "name_hu": "Fieni",
+    "name_de": "Fieni",
+    "name_en": "Fieni",
+    "population": 6378,
+    "coords": [
+      25.418333333,
+      45.122222222
+    ],
+    "postal": "135100"
+  },
+  {
+    "qid": "Q848206",
+    "name_ro": "Bosanci",
+    "name_hu": "Bosanci",
+    "name_de": "Bosanci",
+    "name_en": "Bosanci",
+    "population": 6363,
+    "coords": [
+      26.31666667,
+      47.58333333
+    ],
+    "postal": "727045"
+  },
+  {
+    "qid": "Q383306",
+    "name_ro": "Tismana",
+    "name_hu": "Tismana",
+    "name_de": "Tismana",
+    "name_en": "Tismana",
+    "population": 6359,
+    "coords": [
+      22.948888888,
+      45.050555555
+    ],
+    "postal": "217495"
+  },
+  {
+    "qid": "Q5060127",
+    "name_ro": "Agigea",
+    "name_hu": "Agigea",
+    "name_de": "Agigea",
+    "name_en": "Agigea",
+    "population": 6358,
+    "coords": [
+      28.610413,
+      44.091463
+    ],
+    "postal": "907015"
+  },
+  {
+    "qid": "Q946893",
+    "name_ro": "Teiuș",
+    "name_hu": "Tövis",
+    "name_de": "Dreikirchen",
+    "name_en": "Teiuș",
+    "population": 6308,
+    "coords": [
+      23.68,
+      46.2
+    ],
+    "postal": "515900"
+  },
+  {
+    "qid": "Q275990",
+    "name_ro": "Răcari",
+    "name_hu": "Răcari",
+    "name_de": "Răcari",
+    "name_en": "Răcari",
+    "population": 6306,
+    "coords": [
+      25.733333333,
+      44.633333333
+    ],
+    "postal": "137385"
+  },
+  {
+    "qid": "Q15244252",
+    "name_ro": "Cristian",
+    "name_hu": "Keresztényfalva",
+    "name_de": "Cristian",
+    "name_en": "Cristian",
+    "population": 6292,
+    "coords": [
+      25.483342,
+      45.628842
+    ],
+    "postal": "507055"
+  },
+  {
+    "qid": "Q276168",
+    "name_ro": "Pătârlagele",
+    "name_hu": "Pătârlagele",
+    "name_de": "Pătârlagele",
+    "name_en": "Pătârlagele",
+    "population": 6276,
+    "coords": [
+      26.359722222,
+      45.318888888
+    ],
+    "postal": "127430"
+  },
+  {
+    "qid": "Q8273783",
+    "name_ro": "Sfântu Ilie",
+    "name_hu": "Sfântu Ilie",
+    "name_de": "Sfântu Ilie",
+    "name_en": "Sfântu Ilie",
+    "population": 6270,
+    "coords": [
+      26.208373,
+      47.636603
+    ],
+    "postal": "727528"
+  },
+  {
+    "qid": "Q15244612",
+    "name_ro": "Hărman",
+    "name_hu": "Szászhermány",
+    "name_de": "Hărman",
+    "name_en": "Hărman",
+    "population": 6263,
+    "coords": [
+      25.685619,
+      45.706792
+    ],
+    "postal": "507085"
+  },
+  {
+    "qid": "Q2720017",
+    "name_ro": "Ipotești",
+    "name_hu": "Ipotești",
+    "name_de": "Ipotești",
+    "name_en": "Ipotești",
+    "population": 6254,
+    "coords": [
+      26.28333333,
+      47.61666667
+    ],
+    "postal": "727325"
+  },
+  {
+    "qid": "Q752831",
+    "name_ro": "Moșnița Veche",
+    "name_hu": "Mosnica",
+    "name_de": "Moșnița Veche",
+    "name_en": "Moșnița Veche",
+    "population": 6230,
+    "coords": [
+      21.330255,
+      45.734462
+    ],
+    "postal": "307287"
+  },
+  {
+    "qid": "Q1093270",
+    "name_ro": "Diosig",
+    "name_hu": "Bihardiószeg",
+    "name_de": "Diosig",
+    "name_en": "Diosig",
+    "population": 6209,
+    "coords": [
+      22.0,
+      47.3
+    ],
+    "postal": "417235"
+  },
+  {
+    "qid": "Q1190764",
+    "name_ro": "Turț",
+    "name_hu": "Turc",
+    "name_de": "Turț",
+    "name_en": "Turț",
+    "population": 6203,
+    "coords": [
+      23.197908,
+      47.988761
+    ],
+    "postal": "447330"
+  },
+  {
+    "qid": "Q167792",
+    "name_ro": "Sărmașu",
+    "name_hu": "Nagysármás",
+    "name_de": "Sarmen",
+    "name_en": "Sărmașu",
+    "population": 6186,
+    "coords": [
+      24.166666666,
+      46.753611111
+    ],
+    "postal": "547515"
+  },
+  {
+    "qid": "Q275997",
+    "name_ro": "Ardud",
+    "name_hu": "Erdőd",
+    "name_de": "Erdeed",
+    "name_en": "Ardud",
+    "population": 6124,
+    "coords": [
+      22.883333333,
+      47.633333333
+    ],
+    "postal": "447020"
+  },
+  {
+    "qid": "Q225100",
+    "name_ro": "Bicaz",
+    "name_hu": "Békás",
+    "name_de": "Bicaz",
+    "name_en": "Bicaz",
+    "population": 6106,
+    "coords": [
+      26.091111111,
+      46.910833333
+    ],
+    "postal": "615100"
+  },
+  {
+    "qid": "Q1195081",
+    "name_ro": "Volovăț",
+    "name_hu": "Volovăț",
+    "name_de": "Volovăț",
+    "name_en": "Volovăț",
+    "population": 6106,
+    "coords": [
+      25.894141111,
+      47.803338888
+    ],
+    "postal": "727615"
+  },
+  {
+    "qid": "Q957788",
+    "name_ro": "Peretu",
+    "name_hu": "Peretu",
+    "name_de": "Peretu",
+    "name_en": "Peretu",
+    "population": 6090,
+    "coords": [
+      25.083333333,
+      44.05
+    ],
+    "postal": "147240"
+  },
+  {
+    "qid": "Q2717072",
+    "name_ro": "Roseți",
+    "name_hu": "Roseți",
+    "name_de": "Roseți",
+    "name_en": "Roseți",
+    "population": 6017,
+    "coords": [
+      27.448134,
+      44.210552
+    ],
+    "postal": "917210"
+  },
+  {
+    "qid": "Q12081399",
+    "name_ro": "Baia",
+    "name_hu": "Moldvabánya",
+    "name_de": "Baia",
+    "name_en": "Baia",
+    "population": 6002,
+    "coords": [
+      26.219004,
+      47.418317
+    ],
+    "postal": "727020"
+  },
+  {
+    "qid": "Q591285",
+    "name_ro": "Piatra-Olt",
+    "name_hu": "Piatra-Olt",
+    "name_de": "Piatra-Olt",
+    "name_en": "Piatra-Olt",
+    "population": 6000,
+    "coords": [
+      24.294166666,
+      44.360277777
+    ],
+    "postal": "235500"
+  },
+  {
+    "qid": "Q2604028",
+    "name_ro": "Vicovu de Jos",
+    "name_hu": "Vicovu de Jos",
+    "name_de": "Oberwikow",
+    "name_en": "Vicovu de Jos",
+    "population": 5978,
+    "coords": [
+      25.726585,
+      47.901119
+    ],
+    "postal": "727605"
+  },
+  {
+    "qid": "Q1029387",
+    "name_ro": "Remetea",
+    "name_hu": "Gyergyóremete",
+    "name_de": "Remetea",
+    "name_en": "Remetea",
+    "population": 5927,
+    "coords": [
+      25.450284,
+      46.793532
+    ],
+    "postal": "537250"
+  },
+  {
+    "qid": "Q276336",
+    "name_ro": "Livada",
+    "name_hu": "Sárköz",
+    "name_de": "Wiesenhaid",
+    "name_en": "Livada",
+    "population": 5892,
+    "coords": [
+      23.133333333,
+      47.866666666
+    ],
+    "postal": "447180"
+  },
+  {
+    "qid": "Q12162113",
+    "name_ro": "Toflea",
+    "name_hu": "Toflea",
+    "name_de": "Toflea",
+    "name_en": "Toflea",
+    "population": 5863,
+    "coords": [
+      27.334106,
+      46.063719
+    ],
+    "postal": "807058"
+  },
+  {
+    "qid": "Q14027649",
+    "name_ro": "Homocea",
+    "name_hu": "Homocea",
+    "name_de": "Homocea",
+    "name_en": "Homocea",
+    "population": 5834,
+    "coords": [
+      27.241185,
+      46.137506
+    ],
+    "postal": "627175"
+  },
+  {
+    "qid": "Q276128",
+    "name_ro": "Frasin",
+    "name_hu": "Frasin",
+    "name_de": "Frassin",
+    "name_en": "Frasin",
+    "population": 5817,
+    "coords": [
+      25.781944444,
+      47.518333333
+    ],
+    "postal": ""
+  },
+  {
+    "qid": "Q14946230",
+    "name_ro": "Dragalina",
+    "name_hu": "Dragalina",
+    "name_de": "Dragalina",
+    "name_en": "Dragalina",
+    "population": 5810,
+    "coords": [
+      27.331766,
+      44.434557
+    ],
+    "postal": "917080"
+  },
+  {
+    "qid": "Q15728749",
+    "name_ro": "Oituz",
+    "name_hu": "Gorzafalva",
+    "name_de": "Oituz",
+    "name_en": "Oituz",
+    "population": 5808,
+    "coords": [
+      26.623125,
+      46.203912
+    ],
+    "postal": "607365"
+  },
+  {
+    "qid": "Q1027868",
+    "name_ro": "Rodna",
+    "name_hu": "Óradna",
+    "name_de": "Rodna",
+    "name_en": "Rodna",
+    "population": 5795,
+    "coords": [
+      24.812222222,
+      47.421666666
+    ],
+    "postal": "427245"
+  },
+  {
+    "qid": "Q3573941",
+    "name_ro": "Săliște",
+    "name_hu": "Szelistye",
+    "name_de": "Großendorf",
+    "name_en": "Săliște",
+    "population": 5710,
+    "coords": [
+      23.886388888,
+      45.794166666
+    ],
+    "postal": "557225"
+  },
+  {
+    "qid": "Q2281894",
+    "name_ro": "Suraia",
+    "name_hu": "Suraia",
+    "name_de": "Suraia",
+    "name_en": "Suraia",
+    "population": 5705,
+    "coords": [
+      27.383692,
+      45.681949
+    ],
+    "postal": "627330"
+  },
+  {
+    "qid": "Q526019",
+    "name_ro": "Brezoi",
+    "name_hu": "Brezoi",
+    "name_de": "Brezoi",
+    "name_en": "Brezoi",
+    "population": 5696,
+    "coords": [
+      24.23944444,
+      45.34416667
+    ],
+    "postal": ""
+  },
+  {
+    "qid": "Q1021599",
+    "name_ro": "Maieru",
+    "name_hu": "Major",
+    "name_de": "Maieru",
+    "name_en": "Maieru",
+    "population": 5675,
+    "coords": [
+      24.746666666,
+      47.400277777
+    ],
+    "postal": "427130"
+  },
+  {
+    "qid": "Q851007",
+    "name_ro": "Deta",
+    "name_hu": "Detta",
+    "name_de": "Detta",
+    "name_en": "Deta",
+    "population": 5670,
+    "coords": [
+      21.22,
+      45.4
+    ],
+    "postal": "305200"
+  },
+  {
+    "qid": "Q509836",
+    "name_ro": "Sândominic",
+    "name_hu": "Csíkszentdomokos",
+    "name_de": "Sândominic",
+    "name_en": "Sândominic",
+    "population": 5667,
+    "coords": [
+      25.783333333,
+      46.583333333
+    ],
+    "postal": "537275"
+  },
+  {
+    "qid": "Q1092821",
+    "name_ro": "Corund",
+    "name_hu": "Korond",
+    "name_de": "Corund",
+    "name_en": "Corund",
+    "population": 5549,
+    "coords": [
+      25.183333333,
+      46.466666666
+    ],
+    "postal": "537060"
+  },
+  {
+    "qid": "Q14024085",
+    "name_ro": "Gugești",
+    "name_hu": "Gugești",
+    "name_de": "Gugești",
+    "name_en": "Gugești",
+    "population": 5539,
+    "coords": [
+      27.128654,
+      45.567018
+    ],
+    "postal": "627155"
+  },
+  {
+    "qid": "Q548502",
+    "name_ro": "Anina",
+    "name_hu": "Stájerlakanina",
+    "name_de": "Steierdorf",
+    "name_en": "Anina",
+    "population": 5521,
+    "coords": [
+      21.853333333,
+      45.091666666
+    ],
+    "postal": "325100"
+  },
+  {
+    "qid": "Q325732",
+    "name_ro": "Gătaia",
+    "name_hu": "Gátalja",
+    "name_de": "Gătaia",
+    "name_en": "Gătaia",
+    "population": 5473,
+    "coords": [
+      21.433333333,
+      45.433333333
+    ],
+    "postal": "307185"
+  },
+  {
+    "qid": "Q2289283",
+    "name_ro": "Ivești",
+    "name_hu": "Ivești",
+    "name_de": "Ivești",
+    "name_en": "Ivești",
+    "population": 5473,
+    "coords": [
+      27.51802,
+      45.684778
+    ],
+    "postal": "807170"
+  },
+  {
+    "qid": "Q12087498",
+    "name_ro": "Valea Mare-Podgoria",
+    "name_hu": "Valea Mare-Podgoria",
+    "name_de": "Valea Mare-Podgoria",
+    "name_en": "Valea Mare-Podgoria",
+    "population": 5470,
+    "coords": [
+      24.906131,
+      44.885129
+    ],
+    "postal": "117721"
+  },
+  {
+    "qid": "Q15273086",
+    "name_ro": "Prejmer",
+    "name_hu": "Prázsmár",
+    "name_de": "Prejmer",
+    "name_en": "Prejmer",
+    "population": 5456,
+    "coords": [
+      25.771479,
+      45.720534
+    ],
+    "postal": "507165"
+  },
+  {
+    "qid": "Q325736",
+    "name_ro": "Ciacova",
+    "name_hu": "Csák",
+    "name_de": "Tschakowa",
+    "name_en": "Ciacova",
+    "population": 5434,
+    "coords": [
+      21.133333333,
+      45.5
+    ],
+    "postal": "307110"
+  },
+  {
+    "qid": "Q2720010",
+    "name_ro": "Voitinel",
+    "name_hu": "Voitinel",
+    "name_de": "Voitinel",
+    "name_en": "Voitinel",
+    "population": 5429,
+    "coords": [
+      25.75735,
+      47.883655
+    ],
+    "postal": "727282"
+  },
+  {
+    "qid": "Q166829",
+    "name_ro": "Miercurea Nirajului",
+    "name_hu": "Nyárádszereda",
+    "name_de": "Sereda",
+    "name_en": "Miercurea Nirajului",
+    "population": 5414,
+    "coords": [
+      24.8,
+      46.53
+    ],
+    "postal": "547410"
+  },
+  {
+    "qid": "Q715296",
+    "name_ro": "Șiria",
+    "name_hu": "Világos",
+    "name_de": "Șiria",
+    "name_en": "Șiria",
+    "population": 5413,
+    "coords": [
+      21.61666667,
+      46.25
+    ],
+    "postal": "317340"
+  },
+  {
+    "qid": "Q507846",
+    "name_ro": "Sebiș",
+    "name_hu": "Borossebes",
+    "name_de": "Sebesch",
+    "name_en": "Sebiș",
+    "population": 5410,
+    "coords": [
+      22.129444444,
+      46.372777777
+    ],
+    "postal": "315700"
+  },
+  {
+    "qid": "Q775498",
+    "name_ro": "Feldru",
+    "name_hu": "Földra",
+    "name_de": "Feldru",
+    "name_en": "Feldru",
+    "population": 5409,
+    "coords": [
+      24.6,
+      47.28333333
+    ],
+    "postal": "427080"
+  },
+  {
+    "qid": "Q963318",
+    "name_ro": "Horodnic de Sus",
+    "name_hu": "Horodnic de Sus",
+    "name_de": "Horodnic de Sus",
+    "name_en": "Horodnic de Sus",
+    "population": 5407,
+    "coords": [
+      25.835449,
+      47.835631
+    ],
+    "postal": "727305"
+  },
+  {
+    "qid": "Q16898121",
+    "name_ro": "Ștei",
+    "name_hu": "Ștei",
+    "name_de": "Ștei",
+    "name_en": "Ștei",
+    "population": 5398,
+    "coords": [
+      22.47,
+      46.54
+    ],
+    "postal": "415600"
+  },
+  {
+    "qid": "Q15634262",
+    "name_ro": "Arbore",
+    "name_hu": "Arbore",
+    "name_de": "Arbore",
+    "name_en": "Arbore",
+    "population": 5379,
+    "coords": [
+      25.920002,
+      47.731267
+    ],
+    "postal": "727015"
+  },
+  {
+    "qid": "Q1089930",
+    "name_ro": "Ruscova",
+    "name_hu": "Ruszkova",
+    "name_de": "Ruscova",
+    "name_en": "Ruscova",
+    "population": 5373,
+    "coords": [
+      24.280807,
+      47.788269
+    ],
+    "postal": "437260"
+  },
+  {
+    "qid": "Q1069832",
+    "name_ro": "Șag",
+    "name_hu": "Temesság",
+    "name_de": "Șag",
+    "name_en": "Șag",
+    "population": 5303,
+    "coords": [
+      21.1669,
+      45.6517
+    ],
+    "postal": "307395"
+  },
+  {
+    "qid": "Q386091",
+    "name_ro": "Novaci",
+    "name_hu": "Novaci",
+    "name_de": "Novaci",
+    "name_en": "Novaci",
+    "population": 5276,
+    "coords": [
+      23.67,
+      45.18
+    ],
+    "postal": "215300"
+  },
+  {
+    "qid": "Q12085094",
+    "name_ro": "Breaza de Sus",
+    "name_hu": "Breaza de Sus",
+    "name_de": "Breaza de Sus",
+    "name_en": "Breaza de Sus",
+    "population": 5269,
+    "coords": [
+      25.655777,
+      45.198793
+    ],
+    "postal": "105400"
+  },
+  {
+    "qid": "Q2719738",
+    "name_ro": "Straja",
+    "name_hu": "Straja",
+    "name_de": "Straja",
+    "name_en": "Straja",
+    "population": 5258,
+    "coords": [
+      25.55,
+      47.92
+    ],
+    "postal": "727495"
+  },
+  {
+    "qid": "Q1027863",
+    "name_ro": "Giarmata",
+    "name_hu": "Temesgyarmat",
+    "name_de": "Giarmata",
+    "name_en": "Giarmata",
+    "population": 5235,
+    "coords": [
+      21.31,
+      45.836666666
+    ],
+    "postal": "307210"
+  },
+  {
+    "qid": "Q12100675",
+    "name_ro": "Geamăna",
+    "name_hu": "Geamăna",
+    "name_de": "Geamăna",
+    "name_en": "Geamăna",
+    "population": 5232,
+    "coords": [
+      24.889812,
+      44.818852
+    ],
+    "postal": "117141"
+  },
+  {
+    "qid": "Q276083",
+    "name_ro": "Potcoava",
+    "name_hu": "Potcoava",
+    "name_de": "Potcoava",
+    "name_en": "Potcoava",
+    "population": 5229,
+    "coords": [
+      24.641199192,
+      44.474850736
+    ],
+    "postal": "237355"
+  },
+  {
+    "qid": "Q12115966",
+    "name_ro": "Curcani",
+    "name_hu": "Curcani",
+    "name_de": "Curcani",
+    "name_en": "Curcani",
+    "population": 5227,
+    "coords": [
+      26.588156,
+      44.198506
+    ],
+    "postal": "917040"
+  },
+  {
+    "qid": "Q679924",
+    "name_ro": "Vișeu de Jos",
+    "name_hu": "Alsóvisó",
+    "name_de": "Vișeu de Jos",
+    "name_en": "Vișeu de Jos",
+    "population": 5212,
+    "coords": [
+      24.366944444,
+      47.725
+    ],
+    "postal": "437390"
+  },
+  {
+    "qid": "Q1215007",
+    "name_ro": "Faraoani",
+    "name_hu": "Forrófalva",
+    "name_de": "Faraoani",
+    "name_en": "Faraoani",
+    "population": 5200,
+    "coords": [
+      26.896309,
+      46.432109
+    ],
+    "postal": "607170"
+  },
+  {
+    "qid": "Q10860283",
+    "name_ro": "Broșteni",
+    "name_hu": "Broșteni",
+    "name_de": "Broșteni",
+    "name_en": "Broșteni",
+    "population": 5179,
+    "coords": [
+      25.698055555,
+      47.244166666
+    ],
+    "postal": ""
+  },
+  {
+    "qid": "Q2484442",
+    "name_ro": "Bascov",
+    "name_hu": "Bascov",
+    "name_de": "Bascov",
+    "name_en": "Bascov",
+    "population": 5163,
+    "coords": [
+      24.81666667,
+      44.9
+    ],
+    "postal": "117045"
+  },
+  {
+    "qid": "Q2534789",
+    "name_ro": "Rucăr",
+    "name_hu": "Rucăr",
+    "name_de": "Rucăr",
+    "name_en": "Rucăr",
+    "population": 5115,
+    "coords": [
+      25.174051,
+      45.388571
+    ],
+    "postal": "117630"
+  },
+  {
+    "qid": "Q1017982",
+    "name_ro": "Geoagiu",
+    "name_hu": "Algyógy",
+    "name_de": "Gergesdorf",
+    "name_en": "Geoagiu",
+    "population": 5087,
+    "coords": [
+      23.2,
+      45.92
+    ],
+    "postal": "335400"
+  },
+  {
+    "qid": "Q2639798",
+    "name_ro": "Miroslava",
+    "name_hu": "Miroslava",
+    "name_de": "Miroslava",
+    "name_en": "Miroslava",
+    "population": 5078,
+    "coords": [
+      27.51666667,
+      47.15
+    ],
+    "postal": "707305"
+  },
+  {
+    "qid": "Q14232840",
+    "name_ro": "Păunești",
+    "name_hu": "Pávafalva",
+    "name_de": "Păunești",
+    "name_en": "Păunești",
+    "population": 5077,
+    "coords": [
+      27.113352,
+      46.032254
+    ],
+    "postal": "627260"
+  },
+  {
+    "qid": "Q2605741",
+    "name_ro": "Săvinești",
+    "name_hu": "Săvinești",
+    "name_de": "Săvinești",
+    "name_en": "Săvinești",
+    "population": 5048,
+    "coords": [
+      26.46867,
+      46.860186
+    ],
+    "postal": "617410"
+  },
+  {
+    "qid": "Q12170626",
+    "name_ro": "Ciorogârla",
+    "name_hu": "Ciorogârla",
+    "name_de": "Ciorogârla",
+    "name_en": "Ciorogârla",
+    "population": 5045,
+    "coords": [
+      25.884562,
+      44.44316
+    ],
+    "postal": "77055"
+  },
+  {
+    "qid": "Q12085091",
+    "name_ro": "Breaza de Jos",
+    "name_hu": "Breaza de Jos",
+    "name_de": "Breaza de Jos",
+    "name_en": "Breaza de Jos",
+    "population": 5036,
+    "coords": [
+      25.675714,
+      45.171254
+    ],
+    "postal": "105401"
+  },
+  {
+    "qid": "Q2539879",
+    "name_ro": "Tudor Vladimirescu",
+    "name_hu": "Tudor Vladimirescu",
+    "name_de": "Tudor Vladimirescu",
+    "name_en": "Tudor Vladimirescu",
+    "population": 5032,
+    "coords": [
+      27.648908,
+      45.563407
+    ],
+    "postal": "807295"
+  },
+  {
+    "qid": "Q2721368",
+    "name_ro": "Plosca",
+    "name_hu": "Plosca",
+    "name_de": "Plosca",
+    "name_en": "Plosca",
+    "population": 5015,
+    "coords": [
+      25.148836,
+      44.023616
+    ],
+    "postal": "147265"
+  }
+]
