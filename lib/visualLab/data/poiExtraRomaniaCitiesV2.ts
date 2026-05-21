@@ -33,6 +33,112 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Salina Turda is first mentioned in documents dating back to 1271.", "The Roman Castrum Potaissa is the largest of its kind in Dacia.", "The Edict of Turda (1568) guaranteed freedom of religious practice.", "The city currently has a population of approximately 47,000 inhabitants.", "The nearby Turda Gorge features limestone walls up to 200m high.", "In the Middle Ages, Turda was a significant meeting place for the Diet."],
     },
     image: "/poi-images/romania-turda-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Salina Turda",
+                  "text": "Ein spektakuläres unterirdisches Salzbergwerk, das in einen modernen Freizeitpark mit Riesenrad umgewandelt wurde.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turda-Schlucht (Cheile Turzii)",
+                  "text": "Ein beeindruckendes Naturschutzgebiet mit steilen Kalksteinfelsen, Höhlen und Wanderwegen in der Nähe der Stadt.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Römisches Lager Potaissa",
+                  "text": "Die Ruinen des Castra Potaissa, einst das Hauptquartier der Legio V Macedonica zur Römerzeit.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Historisches Museum Turda",
+                  "text": "Das Museum befindet sich im ehemaligen Fürstenpalast und zeigt archäologische Funde aus der Region.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tordai hasadék",
+                  "text": "Lenyűgöző mészkőszurdok Turda közelében, amely ritka növényvilágáról és látványos sziklafalairól híres.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tordai sóbánya",
+                  "text": "Egy hatalmas, futurisztikus élményparkká alakított sóbánya, amely világszerte egyedülálló látványosság.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tordai református templom",
+                  "text": "Gótikus stílusú templom az óvárosban, amely fontos történelmi események, például országgyűlések helyszíne volt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Potaissa római castrum",
+                  "text": "A római korból származó katonai tábor romjai, ahol az V. Macedonica légió állomásozott.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Salina Turda",
+                  "text": "O mină de sare spectaculoasă transformată într-un parc de distracții subteran unic în lume.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cheile Turzii",
+                  "text": "O rezervație naturală deosebită, cu peisaje carstice, peșteri și trasee de alpinism spectaculoase.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castrul Roman Potaissa",
+                  "text": "Vestigiile celui mai important centru militar și economic din Dacia Romană, sediul Legiunii a V-a Macedonica.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul de Istorie Turda",
+                  "text": "Adăpostit în Palatul Voievodal, muzeul prezintă bogate colecții de arheologie și istorie locală.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Turda Salt Mine",
+                  "text": "An incredible underground salt mine converted into a futuristic theme park and a top tourist destination.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turda Gorge",
+                  "text": "A stunning natural reserve featuring limestone cliffs, numerous caves, and diverse hiking trails nearby.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Potaissa Roman Castrum",
+                  "text": "The archaeological remains of a major Roman legionary fortress built for the Legio V Macedonica.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turda History Museum",
+                  "text": "Located in the former Princely Palace, it houses significant archaeological finds and local heritage items.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-resita-cities-v2",
@@ -66,6 +172,112 @@ export const romaniaCitiesV2: POI[] = [
       en: ["The first ironworks were put into operation on July 3, 1771.", "The first steam locomotive built in Reșița was named 'Resicza' (1872).", "The Steam Locomotive Museum was opened to the public in 1972.", "Historically, Reșița was a major hub for the StEG railway company.", "The city is situated at an average altitude of 245 meters.", "A key economic branch was the manufacturing of marine engines."],
     },
     image: "/poi-images/romania-resita-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Dampflokomotivmuseum",
+                  "text": "Dieses Freilichtmuseum beherbergt eine beeindruckende Sammlung von Dampflokomotiven, die seit 1872 in Reschitza gebaut wurden.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum des Berg-Banats",
+                  "text": "Diese Kultureinrichtung zeigt Sammlungen zu Geschichte, Kunst und Ethnografie der industriellen Bergregion des Banats.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zoo Ion Crișan",
+                  "text": "Der Zoo von Reschitza bietet Besuchern die Möglichkeit, verschiedene lokale und exotische Tierarten in einer Waldumgebung zu sehen.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kinetischer Brunnen",
+                  "text": "Der im Stadtzentrum gelegene kinetische Brunnen ist ein modernes Wahrzeichen und ein beliebter Treffpunkt für Einwohner.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gőzmozdony-múzeum",
+                  "text": "Ez a szabadtéri múzeum a Resicabányán 1872-től gyártott gőzmozdonyok lenyűgöző és ritka gyűjteményét mutatja be.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bánsági-hegyvidék Múzeuma",
+                  "text": "A kulturális intézmény a régió ipari múltjához kapcsolódó történelmi, művészeti és néprajzi emlékeket őrzi és mutatja be.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ion Crișan Állatkert",
+                  "text": "A resicabányai állatkert kellemes környezetben kínál lehetőséget helyi és egzotikus állatfajok megfigyelésére a családoknak.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kinetikus szökőkút",
+                  "text": "A városközpontban található modern kinetikus szökőkút a település egyik jelképe és a közösségi élet fontos központja.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeul de Locomotive cu Abur",
+                  "text": "Muzeul în aer liber găzduiește o colecție impresionantă de locomotive fabricate la Reșița începând cu anul 1872.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Banatului Montan",
+                  "text": "Instituția de cultură expune colecții de istorie, artă și etnografie specifice regiunii industriale a Banatului de munte.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădina Zoologică Ion Crișan",
+                  "text": "Grădina zoologică din Reșița oferă vizitatorilor posibilitatea de a observa diverse specii de animale locale și exotice.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fântâna Cinetică",
+                  "text": "Situată în centrul civic, fântâna cinetică este un simbol modern al orașului și principalul loc de întâlnire al localnicilor.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Steam Locomotive Museum",
+                  "text": "This unique open-air museum houses an impressive collection of steam locomotives manufactured in Resita since 1872.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum of Mountainous Banat",
+                  "text": "This cultural institution exhibits history, art, and ethnography collections specific to the industrial mountain region of Banat.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ion Crișan Zoo",
+                  "text": "The Resita Zoo offers visitors the chance to observe various local and exotic animal species in a natural forest setting.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kinetic Fountain",
+                  "text": "Located in the civic center, this kinetic fountain is a modern landmark of the city and a popular meeting spot for locals.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-medias-cities-v2",
@@ -99,6 +311,64 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Mediaș was first mentioned in historical records in 1267.", "The Trumpeters' Tower stands 68.5 meters tall and is slightly tilted.", "Romania's first natural gas field was discovered near Mediaș in 1909.", "The city walls originally featured 33 towers and bastions.", "In 1913, the first public gas lighting in Europe was installed here.", "Astronautics pioneer Hermann Oberth spent part of his life in Mediaș."],
     },
     image: "/poi-images/romania-medias-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Margarethenkirche",
+                  "text": "Die Margarethenkirche ist eine spätgotische Hallenkirche mit einem schiefen Turm, der 1467 fertiggestellt wurde.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hermann-Oberth-Haus",
+                  "text": "Das Museum zeigt Dokumente und Modelle zur Raketentechnik des in Mediaș geborenen Raumfahrtpioniers Hermann Oberth.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szent Margit-templom",
+                  "text": "A Szent Margit-templom gótikus csarnoktemplom, amely 1467-ben épült, és 68 méter magas ferde toronnyal rendelkezik.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hermann Oberth Emlékház",
+                  "text": "A múzeum a Medgyesen született Hermann Oberth űrkutatási úttörő rakétatechnikai munkásságát bemutató dokumentumokat őriz.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica Sfânta Margareta",
+                  "text": "Biserica Sfânta Margareta este o biserică gotică din 1467, având un turn înclinat cu o înălțime de 68 de metri.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Memorială Hermann Oberth",
+                  "text": "Muzeul prezintă documente și modele despre tehnologia rachetelor create de pionierul astronauticii Hermann Oberth.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. Margaret's Church",
+                  "text": "St. Margaret's Church is a Gothic building completed in 1467, featuring a 68-meter high leaning tower in the center.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hermann Oberth Memorial House",
+                  "text": "The museum displays documents and models of rocket technology created by the astronautics pioneer Hermann Oberth.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-targu-jiu-cities-v2",
@@ -132,6 +402,112 @@ export const romaniaCitiesV2: POI[] = [
       en: ["The city was first documented in 1406 in a charter issued by Prince Mircea the Elder.", "The Brâncuși ensemble was built between 1937 and 1938 to honor World War I heroes.", "The Endless Column stands exactly 29.33 meters tall and consists of 15 whole modules.", "The Table of Silence is surrounded by 12 stone chairs representing the months of the year.", "Târgu Jiu serves as the administrative capital of Gorj County in southwestern Romania.", "In 1916, a significant battle of World War I took place at the bridge over the Jiu River."],
     },
     image: "/poi-images/romania-targu-jiu-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Die Unendliche Säule",
+                  "text": "Das Meisterwerk von Constantin Brâncuși ist den gefallenen Helden des Ersten Weltkriegs gewidmet und fast 30 Meter hoch.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Der Tisch des Schweigens",
+                  "text": "Diese kreisförmige Steinskulptur von Brâncuși symbolisiert die Zeit und den Ort der Versammlung der Soldaten vor der Schlacht.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Das Tor des Kusses",
+                  "text": "Das monumentale Steintor stellt den Übergang zum Jenseits durch die Liebe dar und ist Teil des berühmten Brâncuși-Ensembles.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ecaterina-Teodoroiu-Haus",
+                  "text": "Das kleine Gedenkhaus ist der 'Heldin vom Jiu' gewidmet und zeigt persönliche Gegenstände der rumänischen Kriegsheldin.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Végtelen oszlop",
+                  "text": "Constantin Brâncuși világhírű alkotása az első világháború hőseinek állít emléket; magassága megközelíti a 30 métert.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hallgatás asztala",
+                  "text": "Brâncuși mészkőből készült kerek asztala a katonák csata előtti utolsó vacsoráját és az idő múlását szimbolizálja a parkban.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Csók kapuja",
+                  "text": "A szoboregyüttes monumentális kőkapuja a szerelem és az egység révén az örökkévalóságba való átlépést jelképezi.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ecaterina Teodoroiu emlékház",
+                  "text": "A 'Zsil hősnőjének' szentelt kis parasztházban a román háborús hős személyes tárgyait és életútját ismerhetik meg a látogatók.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Coloana Infinitului",
+                  "text": "Capodopera lui Constantin Brâncuși, dedicată eroilor români din Primul Război Mondial, are o înălțime de aproape 30 de metri.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Masa Tăcerii",
+                  "text": "Sculptura circulară în calcar reprezintă locul de adunare al ostașilor înainte de bătălie, simbolizând timpul și comuniunea.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Poarta Sărutului",
+                  "text": "Poarta monumentală din piatră face parte din ansamblul Brâncuși și simbolizează trecerea către eternitate prin iubire.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Ecaterina Teodoroiu",
+                  "text": "Casa memorială a 'Eroinei de la Jiu' păstrează obiecte personale și documente despre viața tinerei care a luptat în război.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Endless Column",
+                  "text": "Constantin Brâncuși's masterpiece, dedicated to fallen Romanian heroes, consists of 16 rhomboidal modules reaching 30 meters height.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Table of Silence",
+                  "text": "This circular stone sculpture represents the gathering of soldiers before battle, symbolizing time and the silence of waiting.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gate of the Kiss",
+                  "text": "A monumental stone gate symbolizing the transition to another life through love, part of the UNESCO-recognized Brâncuși ensemble.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ecaterina Teodoroiu House",
+                  "text": "The memorial house of the 'Heroine of the Jiu' exhibits personal belongings of the first female officer in the Romanian Army.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-deva-cities-v2",
@@ -165,6 +541,136 @@ export const romaniaCitiesV2: POI[] = [
       en: ["The city was first mentioned in a document in 1269 under the name Dewa.", "Deva Citadel is located on an extinct volcanic cone at an altitude of 371 meters.", "The Magna Curia palace was extensively renovated in Renaissance style in 1582.", "In 1849, the citadel's ammunition depot exploded, causing massive destruction.", "The national gymnastics center in Deva was formally established in 1978.", "Deva is the administrative seat of Hunedoara County in the Transylvania region."],
     },
     image: "/poi-images/romania-deva-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Festung Deva",
+                  "text": "Eine mittelalterliche Höhenburg aus dem 13. Jahrhundert auf einem Vulkankegel, die einen weiten Blick über das Mureș-Tal bietet.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schloss Magna Curia",
+                  "text": "Ein historisches Palais am Fuße des Burgbergs, das heute das Museum für dakische und römische Zivilisation in Deva beherbergt.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stadtpark Deva",
+                  "text": "Eine gepflegte Grünanlage am Fuße der Festung, die Einheimischen und Touristen Raum für Erholung und kulturelle Events bietet.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Decebal-Statue",
+                  "text": "Ein monumentales Reiterstandbild im Stadtzentrum, das dem letzten König der Daker gewidmet ist und die lokale Geschichte ehrt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aqualand Deva",
+                  "text": "Ein moderner Indoor-Wasserpark mit verschiedenen Schwimmbecken, Rutschen und Wellnessbereichen für Sport und Familienspaß.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dévai vár",
+                  "text": "A 13. században épült középkori vár egy kialudt vulkáni kúpon, a Maros völgyének egyik legfontosabb történelmi erődítménye.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Magna Curia palota",
+                  "text": "A várhegy lábánál álló reneszánsz-barokk épület, amely ma a Dák és Római Civilizáció Múzeumának ad otthont a városban.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Városi park",
+                  "text": "A várhegy tövében elterülő gondozott zöldövezet, pihenőhelyekkel és kulturális rendezvényeknek helyet adó sétányokkal.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Decebal szobra",
+                  "text": "A város központjában álló monumentális lovasszobor, amely az utolsó dák királynak állít emléket a történelmi főtéren.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aqualand Déva",
+                  "text": "Modern fedett élményfürdő és szabadidőközpont csúszdákkal, medencékkel és wellness szolgáltatásokkal a pihenni vágyóknak.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cetatea Devei",
+                  "text": "O fortăreață medievală construită în secolul al XIII-lea pe un deal vulcanic, oferind o panoramă spectaculoasă asupra văii Mureșului.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Magna Curia",
+                  "text": "Un palat istoric la poalele dealului Cetății, găzduind astăzi Muzeul Civilizației Dacice și Romane din municipiul Deva.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Municipal Cetate",
+                  "text": "O zonă verde relaxantă situată la baza dealului Cetății, ideală pentru plimbări și evenimente culturale în aer liber.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia lui Decebal",
+                  "text": "Un monument impunător situat în centrul orașului, dedicat ultimului rege al Daciei, reprezentând un simbol al istoriei locale.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aqualand Deva",
+                  "text": "Un complex modern de agrement cu bazine acoperite, tobogane și facilități spa, fiind o destinație populară pentru familii.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Deva Fortress",
+                  "text": "A 13th-century medieval citadel perched atop a volcanic hill, accessible by cable car and offering panoramic views of the Mureș Valley.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Magna Curia Palace",
+                  "text": "A historic Renaissance and Baroque palace at the foot of the Citadel hill, now housing the Museum of Dacian and Roman Civilization.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "City Park",
+                  "text": "A relaxing green area located at the base of the Citadel hill, featuring walking paths and hosting various local cultural events.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statue of Decebalus",
+                  "text": "An imposing monument in the city center dedicated to the last king of Dacia, symbolizing the region's ancient ancient heritage.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aqualand Deva",
+                  "text": "A modern indoor water park featuring various swimming pools, slides, and spa facilities, popular for family leisure activities.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-ramnicu-valcea-cities-v2",
@@ -198,6 +704,184 @@ export const romaniaCitiesV2: POI[] = [
       en: ["The city was first mentioned in 1388 in a document by Prince Mircea the Elder.", "On July 29, 1848, the Romanian national anthem was officially sung here for the first time.", "The Olt River flows through the city, serving as a major geographic feature.", "The nearby Cozia Monastery was founded in 1388 by the Wallachian ruler.", "Râmnicu Vâlcea has a total population of approximately 100,000 residents.", "The city is located about 173 kilometers away from the national capital, Bucharest."],
     },
     image: "/poi-images/romania-ramnicu-valcea-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Zăvoi-Park",
+                  "text": "Einer der ältesten Parks des Landes; hier wurde 1848 zum ersten Mal offiziell die Nationalhymne Rumäniens gesungen.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Simian-Haus",
+                  "text": "Ein prächtiges Gebäude im neorumänischen Stil, das das Kunstmuseum beherbergt und eine wertvolle Sammlung von Gemälden bietet.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St.-Nikolaus-Kathedrale",
+                  "text": "Ein architektonisches Juwel mit Fresken von Gheorghe Tattarescu, das geistliche Zentrum der Diözese Râmnic.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dorfmuseum Vâlcea",
+                  "text": "In Bujoreni gelegen, bewahrt dieses Freilichtmuseum die traditionelle Architektur und das Handwerk der Region.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cetățuia-Kirche",
+                  "text": "Auf einem Hügel mit herrlichem Panorama über die Stadt gelegen, diente diese historische Kirche oft als Zufluchtsort.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zoo Râmnicu Vâlcea",
+                  "text": "Im Süden der Stadt gelegen, beherbergt er einheimische und exotische Tierarten und ist ein beliebtes Ziel für Familien.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Verkündigungskirche",
+                  "text": "Eine alte Gründung des Fürsten Radu cel Mare, bemerkenswert durch ihre Innenmalerei und historische Bedeutung.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zăvoi park",
+                  "text": "Az ország egyik legrégebbi parkja, ahol 1848-ban először énekelték el hivatalosan Románia nemzeti himnuszát.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Simian-ház",
+                  "text": "Egy pompás, neoromán stílusban épült épület, amely a Művészeti Múzeumnak ad otthont értékes gyűjteményével.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Miklós-székesegyház",
+                  "text": "Építészeti remekmű, amelyet Gheorghe Tattarescu festett, a Râmnic-i egyházmegye szellemi központja.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vâlcea falumúzeum",
+                  "text": "Bujoreniben található szabadtéri múzeum, amely a vidék hagyományos építészetét és mesterségeit őrzi.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cetățuia templom",
+                  "text": "A városra néző dombon található történelmi templom, amely a múltban menedékként is szolgált.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Állatkert",
+                  "text": "A város déli részén található, helyi és egzotikus állatfajoknak ad otthont, népszerű célpont a családok számára.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gyümölcsoltó Boldogasszony templom",
+                  "text": "Radu cel Mare fejedelem régi alapítása, belső festése és történelmi jelentősége miatt figyelemre méltó.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parcul Zăvoi",
+                  "text": "Unul dintre cele mai vechi parcuri din țară, locul unde s-a cântat oficial pentru prima dată imnul național al României în anul 1848.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Simian",
+                  "text": "Un superb edificiu construit în stil neoromânesc ce adăpostește Muzeul de Artă, oferind o colecție valoroasă de pictură.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala Episcopală Sfântul Nicolae",
+                  "text": "O bijuterie arhitecturală pictată de Gheorghe Tattarescu, fiind centrul spiritual al Eparhiei Râmnicului.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Satului Vâlcean",
+                  "text": "Situat la Bujoreni, acest muzeu în aer liber conservă arhitectura tradițională și meșteșugurile specifice zonei.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Cetățuia",
+                  "text": "Aflată pe un deal cu o panoramă superbă asupra orașului, această biserică istorică a servit drept refugiu în vremuri grele.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădina Zoologică",
+                  "text": "Situată în sudul orașului, găzduiește specii de animale locale și exotice, fiind o destinație populară pentru familii.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Buna Vestire",
+                  "text": "O ctitorie veche a domnitorului Radu cel Mare, remarcabilă prin pictura sa interioară și importanța istorică.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zăvoi Park",
+                  "text": "One of the oldest parks in the country, where the national anthem of Romania was officially sung for the first time in 1848.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Simian House",
+                  "text": "A superb building constructed in Neo-Romanian style that houses the Art Museum, offering a valuable collection of painting.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint Nicholas Cathedral",
+                  "text": "An architectural gem painted by Gheorghe Tattarescu, serving as the spiritual center of the Diocese of Râmnic.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vâlcea Village Museum",
+                  "text": "Located in Bujoreni, this open-air museum preserves traditional architecture and crafts specific to the area.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cetățuia Church",
+                  "text": "Located on a hill with a superb panorama over the city, this historical church served as a refuge in difficult times.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zoo Râmnicu Vâlcea",
+                  "text": "Located in the south of the city, it houses local and exotic animal species, being a popular destination for families.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Annunciation Church",
+                  "text": "An old foundation of Prince Radu cel Mare, remarkable for its interior painting and historical importance.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-codlea-cities-v2",
@@ -231,6 +915,64 @@ export const romaniaCitiesV2: POI[] = [
       en: ["The settlement was founded by the Teutonic Knights around 1211 in the Burzenland.", "The Black Fortress (Schwarzburg) on the mountain was first mentioned in 1265.", "Măgura Codlei Mountain reaches a peak altitude of 1,292 meters above sea level.", "The fortified Evangelical Church in the city center dates back to the 15th century.", "Codlea was famous in the 20th century for having massive industrial greenhouses.", "The municipality is located in Brașov County, roughly 15 kilometers west of Brașov."],
     },
     image: "/poi-images/romania-codlea-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Zeidner Kirchenburg",
+                  "text": "Die evangelische Zeidner Kirchenburg wurde im 13. Jahrhundert erbaut und besticht durch ihren massiven Glockenturm und Wehrmauern.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Magura Codlei",
+                  "text": "Magura Codlei ist ein Bergmassiv in der Nähe der Stadt, das zahlreiche Wanderwege und herrliche Panoramablicke über das Burzenland bietet.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Feketehalmi erődtemplom",
+                  "text": "Feketehalom evangélikus erődtemploma a 13. században épült, és masszív harangtornyával, falaival nyűgözi le a látogatókat.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Feketehalmi-hegy",
+                  "text": "A Feketehalmi-hegy a város melletti hegytömb, amely számos túraútvonalat és lenyűgöző panorámát kínál a Barcaságra.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica Evanghelică Fortificată",
+                  "text": "Biserica evanghelică fortificată din Codlea a fost construită în secolul al XIII-lea și impresionează prin turnul său masiv și fortificații.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Măgura Codlei",
+                  "text": "Măgura Codlei este un masiv muntos din apropierea orașului, oferind numeroase trasee de drumeție și panorame superbe asupra Țării Bârsei.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Codlea Fortified Church",
+                  "text": "The fortified evangelical church in Codlea was built in the 13th century and impresses with its massive clock tower and defensive walls.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Magura Codlei Mountain",
+                  "text": "Magura Codlei is a mountain massif near the city, offering numerous hiking trails and superb panoramic views over Burzenland.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-lupeni-cities-v2",
@@ -264,6 +1006,64 @@ export const romaniaCitiesV2: POI[] = [
       en: ["The first documentary mention of the settlement Lupeni dates back to 1770.", "Industrial coal mining in the region officially began in the year 1881.", "The Lupeni Strike of 1929 was a pivotal moment in Romanian social and labor history.", "The city is located in the western Jiu Valley, at the base of the Vâlcan Mountains.", "The nearby Straja resort was officially granted tourist resort status in 2003.", "Lupeni is an integral part of the industrial landscape of Hunedoara County."],
     },
     image: "/poi-images/romania-lupeni-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Skigebiet Straja",
+                  "text": "Ein bedeutender Wintersportort in der Nähe von Lupeni mit zahlreichen Skipisten und einer Bergkapelle.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bergbaumuseum Lupeni",
+                  "text": "Ein Museum, das der harten Arbeit der Bergleute im Schiltal gewidmet ist und deren Geschichte zeigt.",
+                  "category": "cultural",
+                  "confidence": "medium"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Straja üdülőhely",
+                  "text": "A város közelében lévő hegyi központ, amely kiváló sípályákkal és egy különleges hegyi kápolnával várja a látogatókat.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lupényi Bányászati Múzeum",
+                  "text": "A Zsil-völgyi bányászat történetét és a munkások mindennapjait bemutató helyi gyűjtemény.",
+                  "category": "cultural",
+                  "confidence": "medium"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stațiunea Straja",
+                  "text": "O destinație montană de top, situată în apropiere, cunoscută pentru sporturile de iarnă și schitul Straja.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Mineritului Lupeni",
+                  "text": "Un spațiu cultural dedicat istoriei mineritului din Valea Jiului și eforturilor depuse de comunitatea locală.",
+                  "category": "cultural",
+                  "confidence": "medium"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Straja Resort",
+                  "text": "A popular mountain destination located nearby, offering excellent skiing facilities and a wooden skete.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lupeni Mining Museum",
+                  "text": "A museum reflecting the town's industrial past, showcasing the tools and life of the local coal miners.",
+                  "category": "cultural",
+                  "confidence": "medium"
+            }
+      ]
+}
   },
   {
     id: "romania-toplita-cities-v2",
@@ -297,6 +1097,112 @@ export const romaniaCitiesV2: POI[] = [
       en: ["The town was first mentioned in historical records in 1567 as Taplocza.", "Miron Cristea, the first Patriarch of Romania, was born here in 1868.", "The city is located at an average altitude of about 650 meters above sea level.", "The thermal waterfall is a protected geological and biological natural monument.", "The Mureș River flows through the town, dividing the surrounding mountain ranges.", "Toplița is bordered by the Călimani, Gurghiu, and Giurgeu volcanic mountains."],
     },
     image: "/poi-images/romania-toplita-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Thermalwasserfall Toplița",
+                  "text": "Der Thermalwasserfall in Toplița ist ein seltenes Naturphänomen in Rumänien, dessen Wasser aufgrund der hohen Temperatur selten gefriert.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bánffy-Wellnesskomplex",
+                  "text": "Das Bánffy-Bad bietet mesothermale Wasserbecken mit konstanter Temperatur und ist ein beliebtes Ziel für Entspannung und Kuranwendungen.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schloss Urmánczy",
+                  "text": "Das Schloss Urmánczy wurde Anfang des 20. Jahrhunderts im Jugendstil erbaut und beherbergt heute das Ethnografische Museum von Toplița.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kloster des Heiligen Elias",
+                  "text": "Das Kloster des Heiligen Propheten Elias wurde von Patriarch Miron Cristea gegründet und ist ein wichtiges Zentrum mit einer Holzkirche.",
+                  "category": "monastic",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maroshévízi termálvízesés",
+                  "text": "A maroshévízi termálvízesés ritka természeti jelenség Romániában, vize a magas hőmérséklet miatt ritkán fagy meg a téli hónapokban.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bánffy-fürdő",
+                  "text": "A Bánffy-fürdő állandó hőmérsékletű mezotermikus vizet kínál, amely népszerű célpont a pihenésre és gyógyulásra vágyók számára.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Urmánczy-kastély",
+                  "text": "Az Urmánczy-kastély a 20. század elején épült szecessziós stílusban, és ma a maroshévízi néprajzi múzeumnak ad otthont.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Illés próféta kolostor",
+                  "text": "A Szent Illés próféta kolostort Miron Cristea pátriárka alapította, fontos szellemi központ, amely egy jellegzetes fatemplommal rendelkezik.",
+                  "category": "monastic",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cascada cu apă termală",
+                  "text": "Cascada cu apă termală din Toplița este un fenomen natural rar în România, apa sa înghețând rar datorită temperaturii ridicate.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Complexul Wellness Bánffy",
+                  "text": "Complexul Bánffy oferă bazine cu apă mezotermală la o temperatură constantă, fiind o destinație populară pentru relaxare și tratament.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Urmánczy",
+                  "text": "Castelul Urmánczy a fost construit la începutul secolului XX în stil Art Nouveau și găzduiește astăzi Muzeul de Etnografie din Toplița.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mănăstirea Sfântul Prooroc Ilie",
+                  "text": "Mănăstirea Sfântul Prooroc Ilie a fost ctitorită de patriarhul Miron Cristea, fiind un centru spiritual important cu o biserică din lemn.",
+                  "category": "monastic",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Toplița Thermal Waterfall",
+                  "text": "The Toplița Thermal Waterfall is a rare natural phenomenon in Romania, its water rarely freezing due to its high temperature.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bánffy Wellness Complex",
+                  "text": "The Bánffy Wellness complex offers mesothermal water pools at a constant temperature, being a popular destination for relaxation and health.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Urmánczy Castle",
+                  "text": "Urmánczy Castle was built in the early 20th century in Art Nouveau style and today houses the Ethnographic Museum of Toplița.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint Elias Monastery",
+                  "text": "Saint Elias Monastery was founded by Patriarch Miron Cristea and is an important spiritual center featuring a traditional wooden church.",
+                  "category": "monastic",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-ovidiu-cities-v2",
@@ -330,6 +1236,64 @@ export const romaniaCitiesV2: POI[] = [
       en: ["The city was officially named Ovidiu in 1930 to honor the famous Roman poet.", "Publius Ovidius Naso was born in 43 BC and died in exile in Tomis in 17 AD.", "Lake Siutghiol is a freshwater lake that borders the western part of the city.", "The city is located approximately 10 kilometers north of downtown Constanța.", "Ovidiu Island in the lake is the only limestone island of its kind in Romania.", "The municipality is a major road junction connected to the A4 motorway."],
     },
     image: "/poi-images/romania-ovidiu-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Ovidiu-Insel",
+                  "text": "Eine kleine Insel im Siutghiol-See, die mit dem Boot erreichbar ist und Legenden über den römischen Dichter Ovid beherbergt.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Siutghiol-See",
+                  "text": "Ein großer Süßwassersee in der Nähe des Schwarzen Meeres, ideal für Wassersport und zur Beobachtung der lokalen Flora und Fauna.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ovidius-sziget",
+                  "text": "A Siutghiol-tó közepén található kis sziget, amely a hagyomány szerint a száműzött római költő, Ovidius kedvenc helye volt.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Siutghiol-tó",
+                  "text": "Hatalmas édesvizű tó a Fekete-tenger partján, amely kikapcsolódási lehetőséget és festői kilátást nyújt a látogatóknak.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Insula Ovidiu",
+                  "text": "O insulă pitorească situată pe lacul Siutghiol, legată de numele poetului exilat Publius Ovidius Naso, accesibilă cu vaporașul.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lacul Siutghiol",
+                  "text": "Un lac de apă dulce întins, situat lângă stațiunea Mamaia, popular pentru plimbări cu barca și activități recreative.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ovidiu Island",
+                  "text": "A charming small island on Lake Siutghiol, legendary for its association with the Roman poet Ovid, accessible by ferry.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lake Siutghiol",
+                  "text": "A large freshwater lake near the Black Sea coast, offering beautiful landscapes and various water sports opportunities.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-cisnadie-cities-v2",
@@ -363,6 +1327,64 @@ export const romaniaCitiesV2: POI[] = [
       en: ["The town was first mentioned in a document in 1204 under the name Heltau.", "The fortified church featured the first clock tower in Transylvania in 1425.", "Cisnădie was for centuries the center of the textile and carpet-making guilds.", "In 1734, the church tower was severely damaged by a lightning strike.", "The city is located only about 10 kilometers south of the city of Sibiu.", "The first lightning rod in Transylvania was installed on the Cisnădie church tower."],
     },
     image: "/poi-images/romania-cisnadie-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kirchenburg Heltau",
+                  "text": "Eine imposante romanische Basilika aus dem 12. Jahrhundert, die für den ersten Blitzableiter Siebenbürgens bekannt ist.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Textilmuseum",
+                  "text": "Dieses Museum dokumentiert die reiche Tradition der Teppichherstellung und Textilindustrie, die Heltau einst europaweit berühmt machte.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nagydisznódi erődtemplom",
+                  "text": "12. századi román stílusú bazilika, amely védőfalaival és az első erdélyi villámhárítóval vált nevezetessé.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Textilmúzeum",
+                  "text": "A város híres szőnyegszövő és textilipari múltját bemutató gyűjtemény, amely a helyi céhek emlékeit őrzi.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica Fortificată Cisnădie",
+                  "text": "O bazilică romanică din secolul XII, celebră pentru turnul său unde a fost instalat primul paratrăsnet din Transilvania.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Textilelor",
+                  "text": "Prezintă istoria industriei textile locale, Cisnădie fiind renumită pentru producția de covoare și tradiția breslelor de postăvari.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cisnădie Fortified Church",
+                  "text": "A majestic 12th-century Romanesque basilica famous for having the first lightning rod installed in Transylvania on its tower.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Textile Museum",
+                  "text": "Dedicated to the town's long-standing tradition of carpet making and weaving, showcasing industrial tools and local crafts.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-pangrati-cities-v2",
@@ -396,6 +1418,64 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Pangrati Monastery was founded in 1460 by the Moldavian Prince Stephen the Great.", "The current church of the monastery was completed in 1560 by Alexandru Lăpușneanu.", "The monastery features a rare architectural style with two superimposed churches.", "The Bistrița River flows through the commune and powers a local hydroelectric dam.", "Pangrati is located in Neamț County, near the city of Piatra Neamț.", "The Pangrati Reservoir is a protected area and an important habitat for waterbirds."],
     },
     image: "/poi-images/romania-pangrati-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kloster Pângărați",
+                  "text": "Eine alte Klosteranlage aus dem 15. Jahrhundert, berühmt für ihre einzigartige Kirche auf zwei Ebenen.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pângărați-See",
+                  "text": "Ein malerischer Stausee am Fluss Bistrița, der als wichtiges Vogelschutzgebiet für Naturliebhaber dient.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pangráci kolostor",
+                  "text": "15. századi kolostoregyüttes, amely egyedülálló, két szinten elhelyezkedő templomáról nevezetes Neamț megyében.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pangráci-tó",
+                  "text": "Festői víztározó a Beszterce folyón, amely fontos természetvédelmi terület és a vándormadarak kedvelt helye.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mănăstirea Pângărați",
+                  "text": "Un ansamblu monastic vechi din secolul XV, renumit pentru biserica sa unică construită pe două niveluri.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lacul Pângărați",
+                  "text": "Un lac de acumulare pitoresc pe râul Bistrița, fiind o arie protejată importantă pentru păsările migratoare.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pângărați Monastery",
+                  "text": "An ancient monastic complex dating back to the 15th century, notable for its rare double-layered church structure.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lake Pângărați",
+                  "text": "A scenic reservoir on the Bistrița River, serving as an important protected area for various species of migratory birds.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-techirghiol-cities-v2",
@@ -429,6 +1509,88 @@ export const romaniaCitiesV2: POI[] = [
       en: ["The town was first mentioned in an Ottoman document in the year 1560.", "The first official mud-treatment sanatorium was opened here in 1899.", "Lake Techirghiol covers a total surface area of approximately 11.6 square kilometers.", "The lake's salinity level can reach up to 95 grams per liter of water.", "The historic wooden church at the local monastery was built in the year 1750.", "Techirghiol is located very close to the Black Sea resort of Eforie Nord."],
     },
     image: "/poi-images/romania-techirghiol-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Techirghiol-See",
+                  "text": "Der Techirghiol-See ist berühmt für sein Salzwasser und den Heilschlamm zur Behandlung von rheumatischen Beschwerden.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kloster Hl. Maria",
+                  "text": "Das Kloster Hl. Maria beherbergt eine kleine Holzkirche aus der Maramureș und ist ein Ort der spirituellen Einkehr am Seeufer.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statue von Tekir",
+                  "text": "Die Statue von Tekir und seinem Esel erinnert an die Legende über die Entdeckung der Heilkraft des Schlamms im örtlichen See.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Techirghiol-tó",
+                  "text": "A Techirghiol-tó híres sós vizéről és gyógyhatású iszapjáról, amelyet reumatikus és bőrgyógyászati betegségek kezelésére használnak.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Mária-kolostor",
+                  "text": "A Szent Mária-kolostor egy kicsiny máramarosi fatemplomnak ad otthont, és lelki elvonulási helyként szolgál a tó partján.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tekir szobra",
+                  "text": "Tekir és szamara szobra a helyi tó iszapjának gyógyító hatásait felfedező legenda emlékét őrzi a város központjában.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lacul Techirghiol",
+                  "text": "Lacul Techirghiol este faimos pentru apa sărată și nămolul terapeutic folosit în tratarea afecțiunilor reumatice și dermatologice.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mănăstirea Sfânta Maria",
+                  "text": "Mănăstirea Sfânta Maria adăpostește o bisericuță de lemn maramureșeană, fiind un loc de reculegere spirituală pe malul lacului.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia lui Tekir",
+                  "text": "Statuia lui Tekir și a măgarului său amintește de legenda descoperirii proprietăților vindecătoare ale nămolului din lacul local.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lake Techirghiol",
+                  "text": "Lake Techirghiol is famous for its salt water and therapeutic mud used to treat rheumatic and dermatological conditions.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Mary's Monastery",
+                  "text": "St. Mary's Monastery houses a small Maramureș wooden church, serving as a place of spiritual retreat on the lakeshore.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statue of Tekir",
+                  "text": "The statue of Tekir and his donkey commemorates the legend of discovering the healing properties of the mud in the local lake.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-balan-cities-v2",
@@ -462,6 +1624,64 @@ export const romaniaCitiesV2: POI[] = [
       en: ["The local copper mine was officially closed in the year 2006.", "The town is situated at an average elevation of 850 meters.", "The headwaters of the Olt River are located just a few kilometers away.", "Bălan was officially declared a town in the year 1968.", "The nearby Piatra Singuratică rock formation reaches 1608 meters.", "The total administrative area of the town is roughly 37 square kilometers."],
     },
     image: "/poi-images/romania-balan-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Einsamer Stein (Piatra Singuratică)",
+                  "text": "Die Einsame Stein ist eine markante Felsformation im Hășmaș-Gebirge, die ein beliebtes Ziel für Wanderer bei Balánbánya ist.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Römisch-katholische Kirche",
+                  "text": "Die katholische Kirche in Balánbánya ist der Heiligen Barbara gewidmet, der Schutzpatronin der Bergleute in dieser Bergbaustadt.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Egyeskő",
+                  "text": "Az Egyeskő a Hagymás-hegység egyik leglátványosabb sziklaalakzata, amely népszerű túracélpont Balánbánya közvetlen közelében.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Borbála templom",
+                  "text": "Balánbánya római katolikus temploma a bányászok védőszentjének tiszteletére épült, emlékeztetve a város ipari múltjára.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piatra Singuratică",
+                  "text": "Piatra Singuratică este o formațiune stâncoasă spectaculoasă din Munții Hășmaș, oferind panorame deosebite și trasee montane populare.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Romano-Catolică Sfânta Varvara",
+                  "text": "Biserica catolică din Bălan este legată de trecutul minier al orașului, fiind dedicată ocrotitoarei minerilor, Sfânta Varvara.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lonely Rock (Piatra Singuratică)",
+                  "text": "The Lonely Rock is a spectacular rock formation in the Hășmaș Mountains, a favorite destination for hikers near the town of Bălan.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint Barbara Catholic Church",
+                  "text": "The Catholic church in Bălan is dedicated to Saint Barbara, the patron of miners, reflecting the town's industrial heritage.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-ghimbav-cities-v2",
@@ -495,6 +1715,88 @@ export const romaniaCitiesV2: POI[] = [
       en: ["The Brașov-Ghimbav International Airport was inaugurated in 2023.", "The IAR aerospace company was founded in 1925 and later relocated here.", "The fortified Evangelical church dates back to the 15th century.", "The town is situated at an elevation of approximately 550 meters.", "The first documentary mention of the settlement is from 1342.", "Ghimbav is home to an Airbus Helicopters production facility."],
     },
     image: "/poi-images/romania-ghimbav-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kirchenburg Weidenbach",
+                  "text": "Eine sächsische Wehrkirche aus dem 13. Jahrhundert mit massiven Mauern und Türmen, die als Schutz vor mittelalterlichen Invasionen diente.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rathaus von Ghimbav",
+                  "text": "Ein repräsentatives Verwaltungsgebäude im Zentrum, das den architektonischen Wandel des Ortes zu einer modernen Stadt im Kreis Brașov zeigt.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Flughafen Brașov-Ghimbav",
+                  "text": "Der erste nach dem Kommunismus neu gebaute Flughafen Rumäniens ist ein modernes Wahrzeichen und wichtiges Tor zur Region Siebenbürgen.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vidombáki szász erődtemplom",
+                  "text": "A 13. századi szász erődtemplom masszív falaival és tornyaival a középkori támadások elleni védekezés egyik fontos barcasági helyszíne volt.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vidombáki Városháza",
+                  "text": "A település központjában álló közigazgatási épület, amely tükrözi Ghimbav modern várossá fejlődését Brassó megyében.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brassó-Vidombák Nemzetközi Repülőtér",
+                  "text": "Románia első, a kommunizmus utáni korszakban épült új repülőtere, amely modern tájékozódási pont és Erdély fontos kapuja.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica Fortificată Ghimbav",
+                  "text": "O biserică săsească din secolul al XIII-lea, prevăzută cu ziduri și turnuri de apărare impunătoare, folosită pentru protecție în evul mediu.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria orașului Ghimbav",
+                  "text": "Clădirea administrativă centrală care marchează transformarea localității într-un oraș modern și prosper din județul Brașov.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aeroportul Internațional Brașov-Ghimbav",
+                  "text": "Primul aeroport construit de la zero în România după Revoluție, reprezentând un nod vital de transport și un simbol al modernizării.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ghimbav Fortified Church",
+                  "text": "A 13th-century Saxon fortified church featuring massive defensive walls and towers, built to protect the community during medieval raids.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ghimbav Town Hall",
+                  "text": "A prominent administrative building in the center that reflects the town's evolution into a modern urban area in Brașov county.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brașov-Ghimbav International Airport",
+                  "text": "The first airport built from scratch in post-communist Romania, serving as a modern landmark and a key gateway to Transylvania.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-valenii-de-munte-cities-v2",
@@ -528,6 +1830,88 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Nicolae Iorga purchased his local residence in the year 1908.", "The town is located 28 kilometers north of the city of Ploiești.", "The first documentary mention of the town dates back to 1433.", "The settlement is situated at an altitude of around 350 meters.", "The annual Plum Spirit Festival takes place every October.", "Historically, the town was the capital of the former Săcueni County."],
     },
     image: "/poi-images/romania-valenii-de-munte-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Nicolae-Iorga-Gedenkhaus",
+                  "text": "Das Nicolae-Iorga-Gedenkhaus ist der Ort, an dem der berühmte rumänische Historiker lebte und arbeitete, und bewahrt persönliche Gegenstände auf.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ethnografisches Museum des Teleajen-Tals",
+                  "text": "Das Ethnografische Museum des Teleajen-Tals zeigt lokale Traditionen, Volkstrachten und alte Werkzeuge, die für diese Hügelregion typisch sind.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Naturmuseum Cultura Prunului",
+                  "text": "Das Naturmuseum Cultura Prunului in Vălenii de Munte erforscht die Geschichte der Pflaumengärten und die mit dieser Frucht verbundenen Traditionen.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nicolae Iorga Emlékmúzeum",
+                  "text": "A Nicolae Iorga Emlékmúzeum az a ház, ahol a híres román történész élt és alkotott, személyes tárgyakat és értékes könyvtárat őrizve.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Teleajen-völgyi Néprajzi Múzeum",
+                  "text": "A Teleajen-völgyi Néprajzi Múzeum bemutatja a helyi hagyományokat, a népviseletet és a festői dombvidékre jellemző régi eszközöket.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cultura Prunului Természettudományi Múzeum",
+                  "text": "A Vălenii de Munte-i Cultura Prunului Természettudományi Múzeum a szilváskertek történetét és a gyümölcshöz kapcsolódó helyi hagyományokat mutatja be.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeul Memorial Nicolae Iorga",
+                  "text": "Muzeul Memorial Nicolae Iorga este casa în care marele istoric român a trăit și a lucrat, păstrând obiecte personale și o bibliotecă valoroasă.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul de Etnografie al Văii Teleajenului",
+                  "text": "Muzeul de Etnografie al Văii Teleajenului prezintă tradițiile locale, portul popular și unelte vechi specifice acestei zone colinare pitorești.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul de Științe Naturale Cultura Prunului",
+                  "text": "Muzeul de Științe Naturale Cultura Prunului din Vălenii de Munte explorează istoria livezilor de pruni și tradițiile locale legate de acest fruct.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nicolae Iorga Memorial House",
+                  "text": "The Nicolae Iorga Memorial House is where the famous Romanian historian lived and worked, preserving personal items and a vast, valuable library.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Teleajen Valley Ethnography Museum",
+                  "text": "The Teleajen Valley Ethnography Museum showcases local traditions, folk costumes, and ancient tools specific to this picturesque hilly region.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cultura Prunului Nature Museum",
+                  "text": "The Cultura Prunului Nature Museum in Vălenii de Munte explores the history of plum orchards and local traditions related to this symbolic fruit.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-mizil-cities-v2",
@@ -561,6 +1945,40 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Mizil was first mentioned in 1585 under the name Etepilia.", "The town is situated in a plain area at an elevation of 125 meters.", "The Mizil railway station was inaugurated in the year 1870.", "The town is located exactly 35 km from both Ploiești and Buzău.", "Mayor Leonida Condeescu is a key historical figure for the town's development.", "Historically, the town was a major center for the arms and textile industries."],
     },
     image: "/poi-images/romania-mizil-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Heldenmonument von Mizil",
+                  "text": "Ein Denkmal im Stadtzentrum, das den Soldaten gewidmet ist, die im Ersten Weltkrieg für die nationale Einheit gekämpft haben.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mizili hősök emlékműve",
+                  "text": "A városközpontban található emlékmű az első világháborúban a nemzeti egységért küzdő katonák előtt tiszteleg.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumentul Eroilor din Mizil",
+                  "text": "Un monument situat în centrul orașului, dedicat soldaților care s-au jertfit în Primul Război Mondial pentru unitatea națională.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mizil Heroes Monument",
+                  "text": "A central monument dedicated to the soldiers who fought during World War I for the national unity of Romania.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-campina-cities-v2",
@@ -594,6 +2012,88 @@ export const romaniaCitiesV2: POI[] = [
       en: ["The Steaua Română oil refinery was inaugurated in the year 1895.", "The town holds the record for the most sunny days per year in Romania.", "The Julia Hasdeu Castle was constructed between 1893 and 1896.", "Painter Nicolae Grigorescu lived here from 1904 until his death in 1907.", "Câmpina is located approximately 90 kilometers north of Bucharest.", "The world's first oil drilling school was established here in 1904."],
     },
     image: "/poi-images/romania-campina-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Schloss Iulia Hasdeu",
+                  "text": "Ein mystisches Schloss, das von B.P. Hasdeu im Gedenken an seine jung verstorbene Tochter Iulia nach spiritistischen Plänen erbaut wurde.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nicolae Grigorescu Gedenkmuseum",
+                  "text": "Das ehemalige Wohnhaus des berühmten Malers Nicolae Grigorescu, das heute seine persönlichen Gegenstände und Kunstwerke ausstellt.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Die Kirche an der Herberge",
+                  "text": "Eine historische Kirche im Stadtzentrum von Câmpina, bekannt für ihre Architektur und die ruhige Atmosphäre auf ihrem Gelände.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Iulia Hasdeu-kastély",
+                  "text": "Misztikus kastély, amelyet B.P. Hasdeu építtetett fiatalon elhunyt lánya emlékére, különleges spiritiszta tervek alapján.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nicolae Grigorescu Emlékmúzeum",
+                  "text": "A híres festő, Nicolae Grigorescu egykori lakóháza, amely ma személyes tárgyait és számos műalkotását mutatja be.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fogadó melletti templom",
+                  "text": "Câmpina központjában található történelmi templom, amely építészetéről és békés udvaráról nevezetes.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelul Iulia Hasdeu",
+                  "text": "Un castel mistic construit de B.P. Hasdeu în memoria fiicei sale Iulia, după planuri dictate în ședințe de spiritism.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Memorial Nicolae Grigorescu",
+                  "text": "Fosta locuință a celebrului pictor Nicolae Grigorescu, care adăpostește astăzi obiecte personale și lucrări importante.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica de la Han",
+                  "text": "O biserică istorică situată în centrul orașului Câmpina, renumită pentru arhitectura sa și atmosfera liniștită.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Julia Hasdeu Castle",
+                  "text": "A mystical castle built by B.P. Hasdeu in memory of his daughter Julia, based on plans supposedly received during spiritism sessions.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nicolae Grigorescu Memorial Museum",
+                  "text": "The former residence of the famous painter Nicolae Grigorescu, now showcasing his personal belongings and many artworks.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Church at the Inn",
+                  "text": "A historical church located in the center of Câmpina, known for its traditional architecture and peaceful grounds.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-baicoi-cities-v2",
@@ -627,6 +2127,64 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Băicoi was officially granted town status in the year 1948.", "The town consists of six distinct neighborhoods, including Țintea.", "The average elevation of the town is approximately 310 meters.", "Băicoi is located roughly 15 kilometers northwest of Ploiești.", "The first documentary mention of the settlement dates back to 1597.", "The Țintea area is historically famous for its curative salt lakes."],
     },
     image: "/poi-images/romania-baicoi-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Heilbad Țintea",
+                  "text": "Bekannt für sein chlorid- und natriumhaltiges Mineralwasser sowie Sapropel-Schlamm, der zur Behandlung rheumatischer Leiden genutzt wird.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kirche der Heiligen Kaiser Konstantin und Helena",
+                  "text": "Eine historische orthodoxe Kirche in Băicoi, die ein wichtiges spirituelles Zentrum und ein Beispiel lokaler religiöser Architektur darstellt.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Țintea-sósfürdő",
+                  "text": "Klóros-nátriumos ásványvizéről és szapropél iszapjáról híres gyógyfürdő, amelyet mozgásszervi és reumatikus panaszok kezelésére használnak.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Konstantin és Heléna templom",
+                  "text": "Băicoi városának egyik jelentős ortodox temploma, amely a helyi közösség hitéletének és vallási építészetének fontos emléke.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Băile Minerale Țintea",
+                  "text": "Renumite pentru apele clorosodice și nămolul sapropelic, aceste băi sunt utilizate tradițional pentru tratarea afecțiunilor reumatismale.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sf. Împărați Constantin și Elena",
+                  "text": "Un lăcaș de cult ortodox reprezentativ pentru orașul Băicoi, servind ca centru spiritual pentru comunitatea locală de decenii.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Țintea Mineral Baths",
+                  "text": "Famous for its chlorosodic waters and sapropelic mud, these baths are used for the therapeutic treatment of various rheumatic conditions.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Constantine and Helen Church",
+                  "text": "A historical Orthodox church in Băicoi, representing a central spiritual landmark and traditional religious architecture of the region.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-breaza-cities-v2",
@@ -660,6 +2218,64 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Breaza was officially declared a health resort in the year 1952.", "The town's altitude ranges between 450 and 600 meters.", "The first documentary mention of the town is from 1431.", "The town is home to one of Romania's first golf courses (Lac de Verde).", "The road distance to the capital city, Bucharest, is about 100 km.", "The 'Dimitrie Cantemir' National Military College is based in the town."],
     },
     image: "/poi-images/romania-breaza-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Zentralpark Breaza",
+                  "text": "Der Zentralpark von Breaza ist eine Oase der Ruhe und des Grüns, ideal für entspannte Spaziergänge in der frischen Bergluft des Kurortes.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lac de Verde Golf Club",
+                  "text": "Lac de Verde ist ein renommierter Golfclub in Breaza, der moderne Plätze und herrliche Berglandschaften für Sportbegeisterte bietet.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Breazai Központi Park",
+                  "text": "Breaza központi parkja a nyugalom és a zöldövezet oázisa, amely ideális a hegyi üdülőhely friss levegőjén tett pihentető sétákhoz.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lac de Verde Golfklub",
+                  "text": "A Lac de Verde egy neves golfklub Breazában, amely modern pályákat és gyönyörű hegyi tájakat kínál a sport kedvelőinek.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parcul Central Breaza",
+                  "text": "Parcul Central din Breaza este o oază de liniște și verdeață, ideală pentru plimbări relaxante în aerul curat al stațiunii montane.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lac de Verde",
+                  "text": "Lac de Verde este un club de golf renumit situat în Breaza, oferind terenuri moderne și peisaje montane superbe pentru iubitorii sportului.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Breaza Central Park",
+                  "text": "The Central Park of Breaza is an oasis of peace and greenery, ideal for relaxing walks in the fresh mountain air of the resort.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lac de Verde Golf Club",
+                  "text": "Lac de Verde is a renowned golf club located in Breaza, offering modern courses and superb mountain landscapes for sports enthusiasts.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-boldesti-scaeni-cities-v2",
@@ -693,6 +2309,64 @@ export const romaniaCitiesV2: POI[] = [
       en: ["The town was officially established on August 1, 1968.", "The settlement is located just 10 kilometers north of Ploiești.", "The Scăeni glass factory was a cornerstone of local industry.", "The average elevation of the town is approximately 200 meters.", "The first documentary mention of Boldești dates back to 1502.", "The Seciu hill is famous for its vineyards and panoramic viewpoints."],
     },
     image: "/poi-images/romania-boldesti-scaeni-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "St.-Nikolaus-Kirche",
+                  "text": "Diese im 19. Jahrhundert erbaut orthodoxe Kirche ist das wichtigste religiöse Zentrum für die Gemeinde in Boldești.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Heldenmonument",
+                  "text": "Ein Denkmal im Stadtzentrum, das den lokalen Soldaten gewidmet ist, die im Ersten Weltkrieg ihr Leben ließen.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szent Miklós-templom",
+                  "text": "A 19. században épült ortodox templom Boldești közösségének legfontosabb vallási és szellemi központja.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hősök emlékműve",
+                  "text": "A város központjában található emlékmű, amelyet az első világháborúban elesett helyi katonák emlékére emeltek.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica Sfântul Nicolae",
+                  "text": "Veche biserică ortodoxă construită în secolul al XIX-lea, servind drept centru spiritual principal pentru comunitatea locală.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monumentul Eroilor",
+                  "text": "Un monument situat în centrul orașului, dedicat soldaților locali care s-au jertfit în timpul Primului Război Mondial.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saint Nicholas Church",
+                  "text": "An Orthodox church built in the 19th century, serving as the main spiritual center for the community of Boldești.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Heroes' Monument",
+                  "text": "A monument located in the city center, dedicated to the local soldiers who fought in the First World War.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-urlati-cities-v2",
@@ -726,6 +2400,64 @@ export const romaniaCitiesV2: POI[] = [
       en: ["The first documentary mention of the town dates back to 1777.", "The Bellu Manor was constructed in the middle of the 19th century.", "The town is situated at an elevation of approximately 150 meters.", "Urlați is located 25 kilometers east of the city of Ploiești.", "The Dealu Mare region is nicknamed the 'Homeland of Red Wines'.", "The town hosts a major production facility for Procter & Gamble."],
     },
     image: "/poi-images/romania-urlati-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Herrenhaus Bellu",
+                  "text": "Ein architektonisches Juwel aus dem 19. Jahrhundert, das heute ein Museum mit wertvollen Kunstsammlungen beherbergt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kloster Jercălăi",
+                  "text": "Eine wunderschöne Holzkirche aus dem 18. Jahrhundert, die ursprünglich aus Siebenbürgen in diese Weinregion gebracht wurde.",
+                  "category": "monastic",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bellu-kúria",
+                  "text": "A 19. századi nemesi udvarház ma múzeumként működik, értékes művészeti gyűjteményeket és korabeli bútorokat mutat be.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jercălăi-kolostor",
+                  "text": "Egy különleges, 18. századi erdélyi fatemplom, amelyet a szocializmus idején telepítettek át ebbe a borvidéki városba.",
+                  "category": "monastic",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Conacul Bellu",
+                  "text": "Monument de arhitectură din secolul al XIX-lea, conacul găzduiește azi un muzeu cu colecții de artă și mobilier de epocă.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mănăstirea Jercălăi",
+                  "text": "Biserică de lemn pictată, construită în secolul XVIII în Transilvania și strămutată ulterior în zona viticolă a Urlațiului.",
+                  "category": "monastic",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bellu Manor",
+                  "text": "A 19th-century architectural gem that currently houses a museum featuring valuable art collections and period furniture.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jercălăi Monastery",
+                  "text": "A beautiful 18th-century wooden church originally built in Transylvania and later moved to this famous wine region.",
+                  "category": "monastic",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-slanic-cities-v2",
@@ -759,6 +2491,88 @@ export const romaniaCitiesV2: POI[] = [
       en: ["The Unirea Salt Mine is located at a depth of 208 meters underground.", "The Salt Mountain is a unique and protected geological natural monument.", "The first documentary mention of Slănic dates back to 1532.", "The temperature inside the salt mine is a constant 12 degrees Celsius.", "The mine consists of 14 chambers with a height of 54 meters.", "The town is situated approximately 45 kilometers north of Ploiești."],
     },
     image: "/poi-images/romania-slanic-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Salzbergwerk Unirea",
+                  "text": "Eines der größten Salzbergwerke Europas mit einem konstanten Mikroklima, heute ein bedeutendes Ziel für Gesundheitstourismus.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Salzberg und die Grüne Lagune",
+                  "text": "Ein einzigartiges Naturdenkmal, bestehend aus einem Salzberg und einem See mit hohem Salzgehalt, ideal für Außenbäder.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Salzmuseum",
+                  "text": "Das Museum befindet sich im Casa Camarasiei und zeigt die Geschichte des Salzabbaus in der Region Slănic durch verschiedene Exponate.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Unirea-sóbánya",
+                  "text": "Európa egyik legnagyobb sóbányája, amely híres gyógyhatású mikroklímájáról és hatalmas föld alatti csarnokairól.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sómustra és a Zöld-tó",
+                  "text": "Különleges természeti képződmény, ahol egy sószikla mellett található egy magas sókoncentrációjú, fürdésre alkalmas tó.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sómúzeum",
+                  "text": "A Casa Camarasiei épületében berendezett múzeum a környék sóbányászatának történelmi emlékeit és eszközeit mutatja be.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Salina Unirea",
+                  "text": "Una dintre cele mai mari saline din Europa, recunoscută pentru microclimatul salin terapeutic și dimensiunile impresionante ale galeriilor.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muntele de Sare și Grota Miresei",
+                  "text": "Un monument al naturii unic, format prin eroziunea sării, incluzând un lac sărat format într-o fostă prăbușire de mină.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Sării",
+                  "text": "Găzduit în Casa Cămărășiei, muzeul prezintă istoria exploatării sării în zona Slănicului prin documente și unelte vechi.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Unirea Salt Mine",
+                  "text": "One of the largest salt mines in Europe, famous for its therapeutic microclimate and vast underground chambers used for tourism.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Salt Mountain and Green Lake",
+                  "text": "A unique natural monument consisting of a salt karst formation and a highly saline lake used for outdoor bathing.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Salt Museum",
+                  "text": "Located in the historic Casa Camarasiei, this museum exhibits the long history of salt extraction techniques in the Slănic area.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-azuga-cities-v2",
@@ -792,6 +2606,88 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Home to the first FIS-certified ski slope in Romania (Sorica).", "The Rhein & CIE Azuga Cellars were founded in 1892.", "Situated at an average altitude of approximately 900 meters.", "Located at the confluence of the Azuga and Prahova rivers.", "Official supplier to the Romanian Royal Family since 1920.", "The town has a population of roughly 4,000 inhabitants."],
     },
     image: "/poi-images/romania-azuga-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Rhein-Weinkeller",
+                  "text": "Die ehemaligen kaiserlichen Hoflieferanten bieten Verkostungen von Schaumwein und Einblicke in die traditionelle Weinherstellung.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Skigebiet Sorica",
+                  "text": "Eine bekannte Skipiste in den Karpaten, die sowohl für Anfänger als auch für Fortgeschrittene geeignet ist.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Skigebiet Cazacu",
+                  "text": "Eine anspruchsvolle Skipiste, die Azuga zu einem beliebten Ziel für Wintersportbegeisterte in Rumänien macht.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rhein Pezsgőpincészet",
+                  "text": "A román királyi udvar egykori szállítója, ahol ma is hagyományos módszerrel készített pezsgőket kóstolhatnak a látogatók.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sorica sípálya",
+                  "text": "Népszerű kárpátoki sípálya, amely modern felvonókkal és kiváló hóviszonyokkal várja a téli sportok kedvelőit.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cazacu sípálya",
+                  "text": "Azuga másik jelentős sípályája, amely változatos nehézségi fokozataival vonzza a síelőket és snowboardosokat.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Crama Rhein & Cie 1892",
+                  "text": "Fost furnizor al Casei Regale, locația oferă degustări de vin spumant produs prin metoda tradițională în pivnițe istorice.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pârtia Sorica",
+                  "text": "Una dintre cele mai renumite pârtii de schi din Valea Prahovei, dotată cu telegondolă și instalații de zăpadă artificială.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pârtia Cazacu",
+                  "text": "O pârtie versatilă situată în Azuga, apreciată de sportivii de iarnă pentru peisajele montane și calitatea zăpezii.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rhein Wine Cellars",
+                  "text": "Former supplier to the Romanian Royal House, this venue offers sparkling wine tastings produced using traditional methods.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sorica Ski Slope",
+                  "text": "A popular ski run in the Prahova Valley, known for its modern gondola lift and excellent conditions for winter sports.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cazacu Ski Slope",
+                  "text": "A well-known slope in Azuga that attracts skiers and snowboarders with its diverse terrain and scenic mountain views.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-busteni-cities-v2",
@@ -825,6 +2721,136 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Home to the Caraiman Cross (Heroes' Cross), built 1926-1928.", "Cantacuzino Castle was a filming location for the series \"Wednesday\".", "Primary access point to the Bucegi Natural Park.", "Elevation is 850 meters at the town center.", "Host to the Cezar Petrescu Memorial Museum.", "The Bușteni cable car is one of the longest in the country."],
     },
     image: "/poi-images/romania-busteni-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Schloss Cantacuzino",
+                  "text": "Ein neorumänisches Schloss aus dem Jahr 1911 mit einem Park, Brunnen und Blick auf die Bucegi-Berge.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Heldenkreuz auf dem Caraiman",
+                  "text": "Ein monumentales Kreuz auf 2291 m Höhe, errichtet zum Gedenken an die Helden des Ersten Weltkriegs.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kloster Caraiman",
+                  "text": "Ein friedliches orthodoxes Kloster am Fuße des Berges, bekannt für seine Spiritualität und Holzarchitektur.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gedenkmuseum Cezar Petrescu",
+                  "text": "Das ehemalige Wohnhaus des Schriftstellers Cezar Petrescu, heute ein Museum für sein literarisches Werk.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kalinderu Skipiste",
+                  "text": "Eines der modernsten Skigebiete Rumäniens, ideal für Wintersport mit Blick auf das Caraiman-Massiv.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cantacuzino-kastély",
+                  "text": "1911-ben épült neoromán kastély, melynek kertjéből páratlan kilátás nyílik a Bucsecs-hegységre.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Caraiman-kereszt",
+                  "text": "A hősök keresztje 2291 méteres magasságban, az első világháború áldozatainak emlékére állítva.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Caraiman-kolostor",
+                  "text": "A hegy lábánál fekvő ortodox kolostor, amely nyugalmáról és gyönyörű fatemplomáról híres.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cezar Petrescu Emlékmúzeum",
+                  "text": "A híres román író egykori lakóháza, ahol eredeti bútorok és kéziratok tekinthetők meg.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kalinderu sípálya",
+                  "text": "Népszerű téli sportközpont modern felvonókkal, közvetlenül a város felett a hegyoldalban.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelul Cantacuzino",
+                  "text": "Construit în 1911 în stil neoromânesc, castelul oferă o grădină superbă și vedere spre masivul Bucegi.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Crucea Eroilor de pe Caraiman",
+                  "text": "Monument impresionant situat la cota 2291, ridicat în memoria eroilor căzuți în Primul Război Mondial.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mănăstirea Caraiman",
+                  "text": "Oază de liniște la poalele muntelui, cunoscută pentru arhitectura sa și cadrul natural deosebit.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Memorial Cezar Petrescu",
+                  "text": "Casa în care a locuit scriitorul Cezar Petrescu, păstrând atmosfera originală și obiectele sale personale.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pârtia Kalinderu",
+                  "text": "Una dintre cele mai dotate pârtii de schi din România, oferind facilități moderne pentru sporturi de iarnă.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cantacuzino Castle",
+                  "text": "Built in 1911 in Neo-Romanian style, this castle features a scenic park and views of the Bucegi Mountains.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Caraiman Heroes' Cross",
+                  "text": "A monumental cross located at 2291m altitude, dedicated to the heroes of World War I.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Caraiman Monastery",
+                  "text": "A serene Orthodox monastery at the foot of the mountains, famous for its architecture and peaceful setting.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cezar Petrescu Memorial Museum",
+                  "text": "The former home of writer Cezar Petrescu, now a museum showcasing his library and personal belongings.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kalinderu Ski Slope",
+                  "text": "A modern ski resort in Bușteni, popular for winter sports with great accessibility and mountain views.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-sinaia-cities-v2",
@@ -858,6 +2884,112 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Peles Castle was the first castle in Europe to have electricity and central heating.", "Sinaia Monastery contains a library with rare 17th-century books.", "The town was the funeral site for several Romanian monarchs.", "Altitude ranges from 767 to 1,055 meters.", "Home to the George Enescu Memorial House (Villa Luminis).", "The railway station has a dedicated royal platform used by the Orient Express."],
     },
     image: "/poi-images/romania-sinaia-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Schloss Peleș",
+                  "text": "Die ehemalige Sommerresidenz der rumänischen Könige ist ein Meisterwerk der Neorenaissance mit prunkvollen Räumen.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kloster Sinaia",
+                  "text": "Ein orthodoxes Kloster aus dem 17. Jahrhundert, das nach dem Berg Sinai benannt wurde und zwei historische Kirchen beherbergt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casino Sinaia",
+                  "text": "Dieses markante Gebäude im Park Dimitrie Ghica ist ein architektonisches Wahrzeichen und dient heute als Kulturzentrum.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stadtpark Dimitrie Ghica",
+                  "text": "Ein weitläufiger historischer Park im Stadtzentrum, der sich ideal für entspannte Spaziergänge in alpiner Atmosphäre eignet.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Peleș-kastély",
+                  "text": "A román királyi család egykori nyári rezidenciája, a neoreneszánsz építészet egyik legszebb európai példája.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szinajai kolostor",
+                  "text": "A 17. században alapított ortodox monostor, amely nevét a Sínai-hegyről kapta, és két értékes templommal rendelkezik.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szinajai Kaszinó",
+                  "text": "A Dimitrie Ghica parkban található impozáns épület a város egyik jelképe, ma kulturális események helyszíne.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dimitrie Ghica park",
+                  "text": "Sinaia központjában fekvő patinás park, amely pihentető sétákat kínál az évszázados fák és szobrok között.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelul Peleș",
+                  "text": "Fosta reședință de vară a regilor României, un monument de arhitectură neorenascentistă considerat printre cele mai frumoase din Europa.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mănăstirea Sinaia",
+                  "text": "Ansamblu monahal ortodox ctitorit în secolul al XVII-lea, numit după Muntele Sinai, care include două biserici istorice.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cazinoul din Sinaia",
+                  "text": "Clădire emblematică situată în parcul Dimitrie Ghica, construită la începutul secolului XX, astăzi centru internațional de conferințe.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Dimitrie Ghica",
+                  "text": "Parc istoric central înființat în 1881, oferind un spațiu de promenadă liniștit și găzduind diverse evenimente locale.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Peleș Castle",
+                  "text": "The former summer residence of Romanian royalty, a stunning Neo-Renaissance masterpiece featuring over 160 luxurious rooms.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sinaia Monastery",
+                  "text": "A 17th-century Orthodox monastery named after Mount Sinai, housing two beautiful churches with remarkable religious art.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sinaia Casino",
+                  "text": "An architectural landmark in Dimitrie Ghica Park, this historic building now serves as a major cultural and conference center.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dimitrie Ghica Park",
+                  "text": "A scenic historical park in the heart of the city, perfect for leisurely walks and home to various statues and local events.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-plopeni-cities-v2",
@@ -891,6 +3023,64 @@ export const romaniaCitiesV2: POI[] = [
       en: ["The Mechanical Plant Plopeni was established in 1937.", "Surrounded by the \"Stejarul\" forest, a protected natural area.", "Elevated to town status in 1968.", "Population: roughly 6,700 inhabitants.", "Home to the \"Plopeni\" Cultural Center.", "The local football club, CSO Plopeni, was founded in 1947."],
     },
     image: "/poi-images/romania-plopeni-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Zentralpark Plopeni",
+                  "text": "Eine gepflegte Grünanlage für Spaziergänge und Erholung im Herzen der Stadt Plopeni.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kulturhaus",
+                  "text": "Das Zentrum für künstlerische Veranstaltungen und Gemeinschaftsaktivitäten in der Region.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plopeni központi park",
+                  "text": "Gondozott zöldterület a város szívében, amely ideális helyszín sétákhoz és pihenéshez.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kultúrház",
+                  "text": "Művészeti események és közösségi tevékenységek központja, a helyi kulturális élet tartóoszlopa.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parcul Central Plopeni",
+                  "text": "Spațiu verde amenajat pentru plimbări și recreere, fiind principala zonă de relaxare a orașului.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa de Cultură",
+                  "text": "Centru pentru evenimente artistice și activități comunitare, pilon al vieții culturale locale.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plopeni Central Park",
+                  "text": "A well-maintained green space for walks and recreation, serving as the town's main leisure area.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cultural House",
+                  "text": "The center for artistic events and community activities, a pillar of local cultural life.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-cornu-cities-v2",
@@ -924,6 +3114,40 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Located at an altitude of approximately 500 meters.", "Mentioned in documents dating back to 1538.", "Known for its honey production and fruit orchards.", "Home to the Cornu Ethnographic Museum.", "The commune has a very high standard of living for a rural area.", "Proximity to the DN1 road ensures easy access to Bucharest and Brasov."],
     },
     image: "/poi-images/romania-cornu-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kirche der Heiligen Parascheva",
+                  "text": "Ein zentrales religiöses Denkmal in diesem malerischen Dorf, bekannt für seine traditionelle Architektur.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szent Parascheva-templom",
+                  "text": "A festői falu központi vallási emlékműve, amely a hagyományos román ortodox építészet jegyeit viseli magán.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica Sfânta Parascheva",
+                  "text": "Un monument religios central al localității Cornu, reprezentativ pentru arhitectura ortodoxă tradițională din zonă.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saint Parascheva Church",
+                  "text": "A central religious landmark in the village of Cornu, representing the traditional Orthodox architecture of the region.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ]
+}
   },
   {
     id: "romania-banesti-cities-v2",
@@ -957,6 +3181,64 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Site of the Aurel Vlaicu Memorial Monument (erected in 1930).", "Located at the confluence of the Prahova and Doftana rivers.", "Documented since the 15th century.", "Part of the Câmpina-Ploiești metropolitan development area.", "Home to the \"Saints Constantine and Helen\" Church, built in 1724.", "The commune includes the village of Urleta."],
     },
     image: "/poi-images/romania-banesti-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Aurel-Vlaicu-Denkmal",
+                  "text": "Das Aurel-Vlaicu-Denkmal erinnert an die Stelle, an der der rumänische Luftfahrtpionier im Jahr 1913 abstürzte.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Erzengel-Kirche",
+                  "text": "Die Erzengel-Kirche in Bănești stammt aus dem 18. Jahrhundert und bewahrt die traditionelle walachische Architektur.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aurel Vlaicu-emlékmű",
+                  "text": "Az Aurel Vlaicu-emlékmű azon a helyen áll, ahol a híres román repülőgép-tervező 1913-ban szerencsétlenül járt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Arkangyalok-templom",
+                  "text": "A bănești-i Szent Arkangyalok-templom a 18. századból származik, és a havasalföldi építészet jegyeit őrzi.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumentul Aurel Vlaicu",
+                  "text": "Monumentul ridicat în memoria aviatorului Aurel Vlaicu marchează locul unde acesta s-a prăbușit în anul 1913.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfinții Arhangheli Mihail și Gavriil",
+                  "text": "Biserica Sfinții Arhangheli din Bănești datează din secolul al XVIII-lea și păstrează o arhitectură tradițională valahă.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aurel Vlaicu Monument",
+                  "text": "The Aurel Vlaicu Monument commemorates the site where the Romanian aviation pioneer tragically crashed in 1913.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saints Archangels Church",
+                  "text": "The Saints Archangels Church in Bănești dates back to the 18th century and preserves traditional Wallachian architecture.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ]
+}
   },
   {
     id: "romania-posesti-cities-v2",
@@ -990,6 +3272,64 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Comprises 10 constituent villages.", "Home to a 17th-century wooden church (Sf. Nicolae).", "Famous for its traditional plum brandy (țuică).", "Located at an average elevation of 550 meters.", "First documentary mention dates back to 1506.", "The Teleajen river basin influences the local hydrology."],
     },
     image: "/poi-images/romania-posesti-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kirche der Heiligen Erzengel",
+                  "text": "Ein historisches religiöses Denkmal in Poseștii-Pământeni, das die traditionelle rumänische Landarchitektur des Kreises Prahova zeigt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Subkarpaten-Landschaften",
+                  "text": "Die hügelige Umgebung bietet malerische Ausblicke auf die Obstplantagen und Weinberge der Region am Fuße der Karpaten.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szent Arkangyalok templom",
+                  "text": "Poseștii-Pământeni történelmi vallási műemléke, amely a Prahova megyei hagyományos vidéki építészet jellegzetes példája.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szubkárpáti tájak",
+                  "text": "A dombos környék festői kilátást nyújt a Kárpátok lábánál fekvő régió gyümölcsöskertjeire és szőlőültetvényeire.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica Sfinții Arhangheli Mihail și Gavriil",
+                  "text": "Monument istoric din Poseștii-Pământeni, reprezentativ pentru arhitectura religioasă rurală și tradițiile constructive din Prahova.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Peisajele Subcarpaților de Curbură",
+                  "text": "Zona deluroasă oferă panorame spectaculoase asupra livezilor și podgoriilor locale, fiind ideală pentru drumeții ușoare în natură.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Holy Archangels Church",
+                  "text": "A historical religious monument in Poseștii-Pământeni, representative of traditional rural architecture in the Prahova County.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sub-Carpathian Landscapes",
+                  "text": "The hilly surroundings offer picturesque views of the local orchards and vineyards at the foothills of the Carpathian Mountains.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-drajna-cities-v2",
@@ -1023,6 +3363,112 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Home to a Roman castrum used by the Legio V Macedonica.", "The Filipescu-Kretzulescu Mansion was built around 1850.", "Divided into two main parts: Drajna de Jos and Drajna de Sus.", "Host of the annual \"Mask Festival\" during winter holidays.", "First documentary attestation dates to 1429.", "The dendrological park contains secular oak trees."],
     },
     image: "/poi-images/romania-drajna-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Römisches Kastell Drajna de Sus",
+                  "text": "Überreste einer römischen Befestigung aus der Zeit Kaiser Trajans, die zur Überwachung der Bergpässe in den Karpaten diente.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Herrenhaus Filipescu-Kretzulescu",
+                  "text": "Ein prächtiges Herrenhaus aus dem 17. Jahrhundert, umgeben von einem dendrologischen Park mit seltenen botanischen Arten.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St.-Nikolaus-Kirche",
+                  "text": "Eine alte orthodoxe Kirche mit wertvollen Wandmalereien, die ein wichtiges spirituelles Zentrum der Gemeinde Drajna darstellt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Die Wassermühle von Wacker",
+                  "text": "Ein technisches Denkmal, das die traditionelle Art des Getreidemahlens mit Wasserkraft in dieser ländlichen Region veranschaulicht.",
+                  "category": "historical",
+                  "confidence": "medium"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Felsődrajnai római castrum",
+                  "text": "Traianus császár idejéből származó római erődítmény maradványai, amely a kárpáti hágók ellenőrzésére épült a 2. században.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Filipescu-Kretzulescu udvarház",
+                  "text": "17. századi nemesi kúria, amelyet ritka növényfajokat bemutató dendrológiai park és évszázados fák vesznek körül.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Miklós-templom",
+                  "text": "Régi ortodox templom értékes falfestményekkel, amely a drajnai közösség egyik legfontosabb szellemi és építészeti emléke.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wacker-féle vízimalom",
+                  "text": "Ipari műemlék, amely a vízi erővel történő hagyományos gabonaőrlés folyamatát mutatja be a látogatóknak.",
+                  "category": "historical",
+                  "confidence": "medium"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castrul Roman de la Drajna de Sus",
+                  "text": "Vestigii ale unei fortificații romane din timpul împăratului Traian, utilizată pentru controlul trecătorilor montane din Carpați.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Conacul Filipescu-Kretzulescu",
+                  "text": "Monument de arhitectură nobiliară din secolul al XVII-lea, înconjurat de un parc dendrologic cu specii rare de arbori.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfântul Nicolae",
+                  "text": "Lăcaș de cult vechi, cu o arhitectură deosebită și picturi interioare valoroase, fiind inima spirituală a localității Drajna.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Moara de apă Wacker",
+                  "text": "Monument de tehnică populară care păstrează mecanismele tradiționale de măcinare a cerealelor folosind forța apei.",
+                  "category": "historical",
+                  "confidence": "medium"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roman Castrum of Drajna de Sus",
+                  "text": "Remains of a Roman fortification from Emperor Trajan's era, used to control the mountain passes in the Carpathians.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Filipescu-Kretzulescu Mansion",
+                  "text": "A 17th-century noble residence surrounded by a dendrological park featuring rare tree species and secular oaks.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint Nicholas Church",
+                  "text": "An old Orthodox church with valuable frescoes, representing an important architectural and spiritual site in Drajna.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wacker Water Mill",
+                  "text": "A technical monument showcasing traditional grain milling methods using water power in the rural Prahova region.",
+                  "category": "historical",
+                  "confidence": "medium"
+            }
+      ]
+}
   },
   {
     id: "romania-stefesti-cities-v2",
@@ -1056,6 +3502,40 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Located along the Vărbilău river.", "Comprises the villages of Ștefești, Scurtești, and Zâmbroaia.", "Average altitude: 480 meters.", "Bordered by the high hills of the Slănic region.", "Known for traditional woodworking crafts.", "First documented in the early 17th century."],
     },
     image: "/poi-images/romania-stefesti-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Varbilău-Tal",
+                  "text": "Das Varbilău-Tal bietet wunderschöne Naturlandschaften und ist ein ideales Gebiet zum Wandern und Entspannen in der Nähe der Prahova-Hügel.",
+                  "category": "natural",
+                  "confidence": "medium"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Varbilău-völgy",
+                  "text": "A Varbilău-völgy gyönyörű természeti tájakat kínál, ideális hely a túrázásra és a szabadtéri kikapcsolódásra a Prahova-dombság közelében.",
+                  "category": "natural",
+                  "confidence": "medium"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Valea Varbilăului",
+                  "text": "Valea Varbilăului oferă peisaje naturale deosebite, fiind o zonă ideală pentru drumeții și relaxare în aer liber lângă dealurile Prahovei.",
+                  "category": "natural",
+                  "confidence": "medium"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Varbilău Valley",
+                  "text": "Varbilău Valley offers beautiful natural landscapes, being an ideal area for hiking and outdoor relaxation near the Prahova hills.",
+                  "category": "natural",
+                  "confidence": "medium"
+            }
+      ]
+}
   },
   {
     id: "romania-teisani-cities-v2",
@@ -1089,6 +3569,64 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Located 8 km south of Vălenii de Munte.", "Crossed by the 45th parallel north.", "The commune includes the villages of Teișani, Olari, Ștubeiu, and Valea Stâlpului.", "Altitude: approximately 400-500 meters.", "Mentioned in documents from the late 16th century.", "Known for the \"Plum Festival\" celebrated in the region."],
     },
     image: "/poi-images/romania-teisani-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kirche St. Nikolaus",
+                  "text": "Eine malerische orthodoxe Kirche, die für ihre traditionelle Bauweise und die ruhige Lage im Teleajen-Tal geschätzt wird.",
+                  "category": "religious",
+                  "confidence": "medium"
+            },
+            {
+                  "name": "Heldenmahnmal Teișani",
+                  "text": "Ein Denkmal im Zentrum des Dorfes, das den gefallenen Soldaten gewidmet ist und als Ort des Gedenkens dient.",
+                  "category": "civic",
+                  "confidence": "medium"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szent Miklós-templom",
+                  "text": "Ortodox templom, amely hagyományos építészeti stílusával és békés környezetével tűnik ki a Teleajen völgyében.",
+                  "category": "religious",
+                  "confidence": "medium"
+            },
+            {
+                  "name": "Teișani hősi emlékmű",
+                  "text": "A falu központjában álló emlékmű, amelyet az elesett katonák tiszteletére emeltek a helyi emlékezet jegyében.",
+                  "category": "civic",
+                  "confidence": "medium"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica Sfântul Nicolae",
+                  "text": "O biserică ortodoxă pitorească situată în Teișani, apreciată pentru stilul său tradițional și amplasarea liniștită.",
+                  "category": "religious",
+                  "confidence": "medium"
+            },
+            {
+                  "name": "Monumentul Eroilor Teișani",
+                  "text": "Monument situat în centrul comunei, dedicat soldaților căzuți în războaie, fiind un punct de referință local.",
+                  "category": "civic",
+                  "confidence": "medium"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saint Nicholas Church",
+                  "text": "A picturesque Orthodox church in Teișani, valued for its traditional style and peaceful location within the valley.",
+                  "category": "religious",
+                  "confidence": "medium"
+            },
+            {
+                  "name": "Teișani Heroes Monument",
+                  "text": "A monument located in the center of the commune, dedicated to fallen soldiers and serving as a key point of remembrance.",
+                  "category": "civic",
+                  "confidence": "medium"
+            }
+      ]
+}
   },
   {
     id: "romania-aricestii-rahtivani-cities-v2",
@@ -1122,6 +3660,40 @@ export const romaniaCitiesV2: POI[] = [
       en: ["The commune is situated at an average altitude of approximately 160 meters above sea level.", "The village of Nedelea was historically a separate administrative entity before its incorporation.", "The DN72 national road passes through the northern part of the commune's administrative area.", "The Ariceștii Rahtivani Industrial Park covers an area of several hundred hectares.", "Documents from the reign of Michael the Brave confirm the existence of the settlement in the 16th century.", "The commune directly borders the administrative territory of the city of Ploiești to the east."],
     },
     image: "/poi-images/romania-aricestii-rahtivani-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "St.-Elias-Kirche",
+                  "text": "Die St.-Elias-Kirche in Rahtivani wurde im 18. Jahrhundert erbaut und ist ein wertvolles Denkmal religiöser Architektur.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szent Illés próféta templom",
+                  "text": "A rahtivani Szent Illés próféta templom a 18. században épült, és a vallási építészet értékes helyi emléke a térségben.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica Sfântul Prooroc Ilie",
+                  "text": "Biserica Sfântul Prooroc Ilie din Rahtivani a fost ridicată în secolul al XVIII-lea, fiind un valoros reper de arhitectură religioasă.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. Elias Church",
+                  "text": "The St. Elias Church in Rahtivani was built in the 18th century, representing a valuable landmark of religious architecture.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-barcanesti-cities-v2",
@@ -1155,6 +3727,40 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Bărcănești serves as a southern transit hub for traffic between Ploiești and the capital city, Bucharest.", "The Ghighiu Monastery, located within the commune, was founded in 1817 on the ruins of an older wooden church.", "The A3 Bucharest-Ploiești motorway terminates in close proximity to the commune's administrative boundaries.", "The Prahova River forms the natural southern border of the commune with neighboring settlements.", "The commune consists of five villages and has a total population exceeding 9,000 residents.", "Historical documents dating back to 1642 already mention the settlement by its current name."],
     },
     image: "/poi-images/romania-barcanesti-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "St.-Nikolaus-Kirche",
+                  "text": "Die St.-Nikolaus-Kirche in Bărcănești ist ein wichtiges orthodoxes Gotteshaus für die lokale Gemeinde in Prahova.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szent Miklós-templom",
+                  "text": "A bărcănești-i Szent Miklós-templom a Prahova megyei település helyi közösségének fontos ortodox hitéleti központja.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica Sfântul Nicolae",
+                  "text": "Biserica Sfântul Nicolae din Bărcănești este un lăcaș de cult ortodox important pentru comunitatea locală din Prahova.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. Nicholas Church",
+                  "text": "St. Nicholas Church in Bărcănești is an important Orthodox place of worship for the local community in Prahova.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ]
+}
   },
   {
     id: "romania-targsoru-vechi-cities-v2",
@@ -1188,6 +3794,64 @@ export const romaniaCitiesV2: POI[] = [
       en: ["The Roman castrum at Târgșoru Vechi was built during the reign of Emperor Trajan in the 2nd century AD.", "The settlement was first documented as an important trading town in 1413 by Voivode Mircea the Elder.", "The ruins of the 'White Church' date back to the 16th century and are a protected historical monument.", "An important hoard dating from the Migration Period was discovered in the Târgșoru Vechi area.", "The village of Strejnicu within the commune is home to a well-known airfield used for sports aviation.", "The archaeological reserve covers over 150 hectares and is considered one of the most complex sites in Romania."],
     },
     image: "/poi-images/romania-targsoru-vechi-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Ruinen des Fürstenhofs",
+                  "text": "Ruinen eines Fürstenhofs aus dem 15. Jahrhundert, eine bedeutende archäologische Stätte für die Geschichte der Walachei.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kloster Turnu",
+                  "text": "Historisches Kloster, das 1461 von Vlad dem Pfähler an der Stelle älterer römischer und byzantinischer Siedlungen erbaut wurde.",
+                  "category": "monastic",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fejedelmi udvar romjai",
+                  "text": "Egy 15. századi fejedelmi udvar romjai, Havasalföld történelmének fontos régészeti lelőhelye.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turnu kolostor",
+                  "text": "Történelmi kolostor, amelyet Vlad Tepes építtetett 1461-ben korábbi római és bizánci települések helyén.",
+                  "category": "monastic",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruinele Curții Domnești",
+                  "text": "Ruinele unei curți domnești medievale din secolul al XV-lea, un sit arheologic important pentru istoria Munteniei.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mănăstirea Turnu",
+                  "text": "Mănăstire istorică ridicată de Vlad Țepeș în 1461 pe locul unor așezări romane și bizantine mai vechi.",
+                  "category": "monastic",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruins of the Princely Court",
+                  "text": "Ruins of a 15th-century princely court, an important archaeological site for the history of Wallachia.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turnu Monastery",
+                  "text": "Historical monastery built by Vlad the Impaler in 1461 on the site of older Roman and Byzantine settlements.",
+                  "category": "monastic",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-filipestii-de-padure-cities-v2",
@@ -1221,6 +3885,64 @@ export const romaniaCitiesV2: POI[] = [
       en: ["The ruins of the Cantacuzino Palace date back to around 1640 and show influences of the Wallachian Renaissance.", "The Church of the Three Hierarchs was founded in 1688 by Bălașa Cantacuzino.", "The famous painter Pârvu Mutu created the interior frescoes of the local church between 1692 and 1694.", "Filipeștii de Pădure was one of the first and most important centers for lignite extraction in Romania.", "The village of Minieri developed in the 20th century as a dedicated worker colony for the coal mines.", "The commune is situated in a hilly area at the transition between the plain and the Carpathian foothills."],
     },
     image: "/poi-images/romania-filipestii-de-padure-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kirche der Heiligen Drei Hierarchen",
+                  "text": "Eine von Cantacuzino im 17. Jahrhundert erbaute Kirche, bekannt für ihre wertvollen Innenmalereien von Pârvu Mutu.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ruinen des Cantacuzino-Palastes",
+                  "text": "Die Überreste eines einst prächtigen Palastes aus dem 17. Jahrhundert, der den Einfluss des Adelsgeschlechts Cantacuzino zeigt.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Három Szent Főpap-templom",
+                  "text": "A 17. században épült Cantacuzino-alapítású templom, amely Pârvu Mutu híres falfestményeiről nevezetes.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cantacuzino-kastély romjai",
+                  "text": "Egykoron pompás 17. századi főúri lakhely maradványai, melyek a Cantacuzino család regionális hatalmát hirdetik.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica Sfinții Trei Ierarhi",
+                  "text": "Ctitorie a familiei Cantacuzino din secolul al XVII-lea, celebră pentru pictura murală realizată de celebrul Pârvu Mutu.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ruinele Palatului Cantacuzino",
+                  "text": "Vestigiile unui palat somptuos ridicat în secolul al XVII-lea, reprezentativ pentru arhitectura rezidențială nobiliară de epocă.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Church of the Three Holy Hierarchs",
+                  "text": "A 17th-century Cantacuzino foundation, renowned for its exceptional interior frescoes painted by the famous artist Pârvu Mutu.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ruins of the Cantacuzino Palace",
+                  "text": "The remains of a grand 17th-century aristocratic residence that reflects the political and cultural power of the Cantacuzino family.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-brazi-cities-v2",
@@ -1254,6 +3976,40 @@ export const romaniaCitiesV2: POI[] = [
       en: ["The Petrobrazi Refinery was originally founded in 1934.", "The combined cycle power plant in Brazi has an installed capacity of 860 MW.", "The commune is located near the junction of the A3 motorway and the future A7 motorway.", "Brazi possesses one of the largest industrial railway stations in the country.", "The commune is administratively composed of six component villages.", "The first petrochemical plant for synthetic rubber production in Romania was built on this platform."],
     },
     image: "/poi-images/romania-brazi-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Nicolau-Herrenhaus",
+                  "text": "Ein historisches Herrenhaus aus dem 19. Jahrhundert, das heute als Museum für die Kultur des Kreises Prahova dient.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nicolau-kúria",
+                  "text": "Egy 19. századi történelmi udvarház, amely ma a Prahova megyei kultúra múzeumaként és kulturális központként működik.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Conacul Nicolau",
+                  "text": "O clădire istorică din secolul al XIX-lea care găzduiește astăzi Muzeul Culturii Prahovene „Constantin Stere”.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nicolau Manor",
+                  "text": "A 19th-century historical building that currently houses the Museum of Prahova Culture, dedicated to local traditions.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-bucov-cities-v2",
@@ -1287,6 +4043,88 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Bucov was first mentioned in a document from 1429 issued by Voivode Dan II.", "The Constantin Stere Park hosts the only zoo in Prahova County.", "The politician Constantin Stere died in 1936 at his estate in Bucov.", "The commune is situated on the banks of the Teleajen River, a major tributary of the Prahova.", "The village of Chițorani produces wines that are internationally recognized for their quality.", "Bucov is directly connected to the eastern bypass road of Ploiești."],
     },
     image: "/poi-images/romania-bucov-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Constantin-Stere-Park",
+                  "text": "Dieser weitläufige Park bei Ploiești bietet Erholungsgebiete, einen Zoo und Wanderwege in einer wunderschönen natürlichen Umgebung.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zoo Bucov",
+                  "text": "Ein beliebter Tierpark innerhalb des Constantin-Stere-Parks, der eine Vielzahl einheimischer und exotischer Tierarten beherbergt.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Constantin-Stere-Gedenkmuseum",
+                  "text": "Das Museum ist dem Leben und Werk des Schriftstellers Constantin Stere gewidmet und befindet sich in seinem ehemaligen Wohnhaus im Park.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Constantin Stere Emlékpark",
+                  "text": "Ez a Ploiești melletti tágas park szabadidős területeket, állatkertet és sétautakat kínál gyönyörű természeti környezetben.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bucovi Állatkert",
+                  "text": "Népszerű állatkert a Constantin Stere parkon belül, amely számos hazai és egzotikus állatfajnak ad otthont.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Constantin Stere Emlékmúzeum",
+                  "text": "Az író és politikus Constantin Stere életének szentelt múzeum, amely egykori lakóházában kapott helyet a park területén.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parcul Memorial Constantin Stere",
+                  "text": "Vast spațiu de recreere lângă Ploiești, ce oferă alei de plimbare, un lac amenajat și multiple zone de picnic în natură.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădina Zoologică Bucov",
+                  "text": "Adăpostește o mare varietate de specii de animale și păsări, fiind una dintre principalele atracții ale Parcului Constantin Stere.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Memorial Constantin Stere",
+                  "text": "Situat în incinta parcului, muzeul prezintă obiecte personale și documente legate de viața scriitorului și omului politic Bucovean.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Constantin Stere Memorial Park",
+                  "text": "A large recreational area near Ploiești featuring walking paths, a lake, and various picnic spots in a scenic natural setting.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bucov Zoo",
+                  "text": "A popular zoo located within the Constantin Stere Park, home to a wide range of local and exotic animal species.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Constantin Stere Memorial Museum",
+                  "text": "Dedicated to the life of writer and politician Constantin Stere, this museum is housed in his former residence within the park.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-valcanesti-cities-v2",
@@ -1353,6 +4191,40 @@ export const romaniaCitiesV2: POI[] = [
       en: ["The commune is located exactly halfway between Bucharest and Ploiești.", "The pottery tradition of Puchenii Mari dates back at least to the 18th century.", "The Saint George Church in Puchenii Mari village was built in 1855.", "Historical documents from 1523 already mention inhabited settlements in this area.", "The commune is situated at an altitude of approximately 100 meters in the Wallachian Plain.", "Numerous businesses specializing in construction materials are located along the DN1 road."],
     },
     image: "/poi-images/romania-puchenii-mari-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "St.-Georgs-Kirche",
+                  "text": "Die St.-Georgs-Kirche ist berühmt für ihre Wandmalereien, die der große Künstler Nicolae Grigorescu in seiner Jugend schuf.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szent György-templom",
+                  "text": "A Szent György-templom híres belső falfestményeiről, amelyeket a neves művész, Nicolae Grigorescu készített ifjúkorában.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica Sfântul Gheorghe",
+                  "text": "Biserica Sfântul Gheorghe este celebră pentru pictura murală realizată de marele artist Nicolae Grigorescu în tinerețe.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. George Church",
+                  "text": "St. George Church is famous for its interior murals painted by the renowned artist Nicolae Grigorescu in his youth.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-blejoi-cities-v2",
@@ -1386,6 +4258,40 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Blejoi is located at the crucial intersection of the DN1 and DN1A national roads.", "The Ploiești Shopping City complex covers an area of over 55,000 square meters.", "The commune was first mentioned in historical documents in 1448.", "The Teleajen River forms the natural eastern boundary of the commune's territory.", "There are over 500 medium and large companies registered in Blejoi.", "The commune features a modern sports stadium and international-standard tennis facilities."],
     },
     image: "/poi-images/romania-blejoi-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kirche Mariä Entschlafung",
+                  "text": "Ein bedeutendes religiöses Gebäude in Blejoi, das für die lokale orthodoxe Gemeinschaft wichtig ist.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mária Elszenderülése templom",
+                  "text": "Fontos vallási épület Blejoi-ban, amely a helyi ortodox közösség hitéletének központja.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica Adormirea Maicii Domnului",
+                  "text": "O clădire religioasă importantă din Blejoi, servind drept centru spiritual pentru comunitatea locală.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dormition of the Mother of God Church",
+                  "text": "A significant religious building in Blejoi, serving as a spiritual center for the local community.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-dumbravesti-cities-v2",
@@ -1419,6 +4325,40 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Dumbrăvești is located on the Ploiești-Slănic railway line, a significant route for local tourism.", "The Teleajen River flows through the commune's territory from north to south.", "The Saint Nicholas Church in Mălăeștii de Jos originally dates back to 1815.", "The commune is administratively composed of six component villages.", "There are exploitable deposits of diatomite and bentonite within the Dumbrăvești area.", "The village of Plopeni within the commune is distinct from the neighboring city of the same name."],
     },
     image: "/poi-images/romania-dumbravesti-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Burg Mălăiești",
+                  "text": "Die Burg Mălăiești ist eine kürzlich restaurierte mittelalterliche Festung, die Einblicke in die Verteidigungsarchitektur des 14. Jahrhunderts bietet.",
+                  "category": "fortress",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mălăiești vára",
+                  "text": "A nemrégiben felújított Mălăiești vára egy középkori erődítmény, amely betekintést nyújt a 14. századi védelmi építészetbe.",
+                  "category": "fortress",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cetatea Mălăiești",
+                  "text": "Cetatea Mălăiești este o fortificație medievală recent restaurată, oferind o privire asupra arhitecturii defensive din secolul al XIV-lea.",
+                  "category": "fortress",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mălăiești Fortress",
+                  "text": "Mălăiești Fortress is a recently restored medieval fortification, offering a glimpse into 14th-century defensive architecture.",
+                  "category": "fortress",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-gura-vitioarei-cities-v2",
@@ -1452,6 +4392,40 @@ export const romaniaCitiesV2: POI[] = [
       en: ["The settlement was first documented in the 16th century.", "The commune comprises 5 villages, including Bughea de Jos and Poiana Copăceni.", "It is crossed by the Teleajen River and is located near Vălenii de Munte.", "The locality is situated at an average altitude of approximately 300 meters.", "The total area of the commune is about 33 square kilometers.", "Main access is via the DN1A national road towards Brașov."],
     },
     image: "/poi-images/romania-gura-vitioarei-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Holzkirche Hl. Archangel",
+                  "text": "Eine historische Holzkirche aus dem 18. Jahrhundert, die ein bedeutendes Zeugnis der ländlichen Architektur im Kreis Prahova darstellt.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szent Arkangyalok fatemplom",
+                  "text": "18. századi műemlék fatemplom, amely a hagyományos román népi építészet egyik fontos példája a Teleajen-völgy vidékén.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica de lemn Sf. Arhangheli",
+                  "text": "Monument din secolul al XVIII-lea, reprezentativ pentru arhitectura religioasă rurală și tradițiile populare din zona Văii Teleajenului.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Holy Archangels Wooden Church",
+                  "text": "An 18th-century historical monument representing the traditional rural religious architecture of the Prahova region.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ]
+}
   },
   {
     id: "romania-cocorastii-colt-cities-v2",
@@ -1485,6 +4459,40 @@ export const romaniaCitiesV2: POI[] = [
       en: ["The commune was officially established in 2003 by separating from Mănești.", "The locality consists of 8 villages, with the administrative center in Cocorăștii Colț.", "It is located at a distance of approximately 15 kilometers from the city of Ploiești.", "The relief is a plain one, specific to the southern area of Prahova County.", "The commune population was approximately 2,800 inhabitants in the 2021 census.", "The Prahova River passes near the administrative boundaries of the commune."],
     },
     image: "/poi-images/romania-cocorastii-colt-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Ruinen des Cantacuzino-Palastes",
+                  "text": "Überreste eines einst prächtigen Herrenhauses aus dem 17. Jahrhundert, das die Geschichte des lokalen Adels zeigt.",
+                  "category": "historical",
+                  "confidence": "medium"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cantacuzino-palota romjai",
+                  "text": "A 17. századból származó egykori nemesi rezidencia maradványai, amelyek a térség történelmi jelentőségét tükrözik.",
+                  "category": "historical",
+                  "confidence": "medium"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruinele Palatului Cantacuzino",
+                  "text": "Rămășițele unei reședințe nobiliare din secolul al XVII-lea, marturie a influenței familiei Cantacuzino în zonă.",
+                  "category": "historical",
+                  "confidence": "medium"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruins of the Cantacuzino Palace",
+                  "text": "The remains of a 17th-century noble residence, showing the historical heritage of the Cantacuzino family.",
+                  "category": "historical",
+                  "confidence": "medium"
+            }
+      ]
+}
   },
   {
     id: "romania-colceag-cities-v2",
@@ -1518,6 +4526,40 @@ export const romaniaCitiesV2: POI[] = [
       en: ["The commune includes the villages of Colceag, Inotești, Parepa-Rușani, and Vâlcelele.", "It is in the contact zone between the Bărăgan Plain and the Gherghița Plain.", "The locality is served by the Bucharest-Buzău railway main line.", "The economy is predominantly agrarian, with a focus on cereal cultivation.", "The population exceeds 4,400 inhabitants according to 2021 data.", "It borders the territory of Buzău County in the eastern part."],
     },
     image: "/poi-images/romania-colceag-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kirche der Heiligen Konstantin und Helena",
+                  "text": "Die Kirche der Heiligen Konstantin und Helena ist das historische Hauptgotteshaus des Dorfes mit spezifisch orthodoxer Architektur.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szent Konstantin és Heléna templom",
+                  "text": "A Szent Konstantin és Heléna templom a falu legfőbb történelmi istentiszteleti helye, jellegzetes ortodox építészeti stílussal.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica Sfinții Împărați Constantin și Elena",
+                  "text": "Biserica Sfinții Împărați Constantin și Elena este principalul lăcaș de cult istoric din localitate, cu o arhitectură ortodoxă specifică.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Church of Saints Constantine and Helen",
+                  "text": "The Church of Saints Constantine and Helen is the main historical place of worship in the village, featuring specific Orthodox architecture.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ]
+}
   },
   {
     id: "romania-tomstesti-cities-v2",
@@ -1551,6 +4593,40 @@ export const romaniaCitiesV2: POI[] = [
       en: ["The locality of Tomșani is documented as early as the 16th century.", "The commune consists of three villages: Tomșani, Loloiasca, and Magula.", "It is located along the DN1B national road, between Ploiești and Buzău.", "The area belongs to the famous Dealu Mare viticultural area in Muntenia.", "The average altitude of the locality is approximately 120 meters.", "The commune population numbers about 3,900 people according to statistics."],
     },
     image: "/poi-images/romania-tomstesti-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Ländliche Architektur von Tomșești",
+                  "text": "Das Dorf bewahrt traditionelle Bauernhäuser und eine ruhige Atmosphäre, die typisch für die Hügelzone von Prahova ist.",
+                  "category": "historical",
+                  "confidence": "medium"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tomșești vidéki építészete",
+                  "text": "A falu megőrizte a hagyományos parasztházakat és a Prahova megyei dombságra jellemző nyugodt, vidéki hangulatot.",
+                  "category": "historical",
+                  "confidence": "medium"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arhitectura rurală din Tomșești",
+                  "text": "Satul păstrează case tradiționale muntenești și o atmosferă liniștită, specifică zonei de deal din județul Prahova.",
+                  "category": "historical",
+                  "confidence": "medium"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rural Architecture of Tomșești",
+                  "text": "The village preserves traditional farmhouses and a peaceful atmosphere typical of the Prahova hilly region.",
+                  "category": "historical",
+                  "confidence": "medium"
+            }
+      ]
+}
   },
   {
     id: "romania-filipeștii-de-târg-cities-v2",
@@ -1584,6 +4660,64 @@ export const romaniaCitiesV2: POI[] = [
       en: ["The ruins of the Cantacuzino Palace in the locality date from the 1633-1641 period.", "The Pană Filipescu Mansion is a restored Brâncovenesc architecture monument.", "The locality was in the past an important regional commercial market.", "It is crossed by the Prahova River in its northwestern part.", "The population of the locality is approximately 7,400 inhabitants (2021).", "The commune comprises 3 villages: Filipeștii de Târg, Brătășanca, and Eremia Grigorescu."],
     },
     image: "/poi-images/romania-filipeștii-de-târg-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Herrenhaus Pană Filipescu",
+                  "text": "Das Herrenhaus Pană Filipescu ist ein restauriertes Baudenkmal im Brâncoveanu-Stil, das heute ein Heimatmuseum beherbergt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ruinen des Cantacuzino-Palastes",
+                  "text": "Die Ruinen des Cantacuzino-Palastes in Filipeștii de Târg erinnern an den einstigen Glanz dieser adligen walachischen Familie.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pană Filipescu-udvarház",
+                  "text": "A Pană Filipescu-udvarház egy restaurált brâncovenești stílusú építészeti műemlék, amely ma helytörténeti múzeumnak ad otthont.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cantacuzino-palota romjai",
+                  "text": "A Filipeștii de Târg-i Cantacuzino-palota romjai e befolyásos havasalföldi nemesi család egykori dicsőségét idézik fel.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Conacul Pană Filipescu",
+                  "text": "Conacul Pană Filipescu este un monument de arhitectură brâncovenească restaurat, care găzduiește acum un muzeu de istorie locală.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ruinele Palatului Cantacuzino",
+                  "text": "Ruinele Palatului Cantacuzino din Filipeștii de Târg amintesc de gloria de odinioară a acestei influente familii nobiliare muntene.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pană Filipescu Manor",
+                  "text": "Pană Filipescu Manor is a restored Brancovenesc style architectural monument, currently housing a local history museum.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cantacuzino Palace Ruins",
+                  "text": "The ruins of the Cantacuzino Palace in Filipeștii de Târg recall the former glory of this influential Wallachian noble family.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-magurele-cities-v2",
@@ -1617,6 +4751,64 @@ export const romaniaCitiesV2: POI[] = [
       en: ["The commune is located on the DN1A national road, north of Ploiești.", "It consists of three villages: Măgurele, Coada Malului, and Iazu.", "It is crossed by the Teleajen River, offering a terrace relief.", "The locality is served by the Ploiești-Măneciu railway line.", "The first documentary mentions of the villages appear in the 17th century.", "The population is approximately 4,300 inhabitants according to the 2021 census."],
     },
     image: "/poi-images/romania-magurele-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Schloss Oteteleșanu",
+                  "text": "Ein historisches Denkmal aus dem 19. Jahrhundert, einst ein Adelssitz, heute Teil des nationalen Forschungszentrums.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "ELI-NP Laserzentrum",
+                  "text": "Eines der weltweit fortschrittlichsten Laserforschungszentren und ein wichtiger Teil der europäischen Physik-Infrastruktur.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Oteteleșanu-kastély",
+                  "text": "19. századi történelmi emlékmű, egykori nemesi rezidencia, amely ma tudományos kutatóintézeteknek ad otthont.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "ELI-NP lézerközpont",
+                  "text": "A világ egyik legfejlettebb lézerkutató központja, az európai magfizikai infrastruktúra kulcsfontosságú létesítménye.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Conacul Oteteleșanu",
+                  "text": "Monument istoric ridicat în secolul al XIX-lea, fostă reședință boierească ce găzduiește azi institute de cercetare.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Laserul ELI-NP",
+                  "text": "Unul dintre cele mai avansate centre de cercetare laser din lume, pilon central al proiectului european de fizică nucleară.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Oteteleșanu Mansion",
+                  "text": "A 19th-century historical monument, formerly an aristocratic residence, now part of the national research center.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "ELI-NP Laser Facility",
+                  "text": "One of the world's most advanced laser research centers, a key part of the European nuclear physics infrastructure.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-buftea-cities-v2",
@@ -1650,6 +4842,40 @@ export const romaniaCitiesV2: POI[] = [
       en: ["The film studios in Buftea were established in 1950.", "The Stirbey Palace was built in neo-Gothic style in 1864.", "Buftea officially received city status in 1968.", "The city is located at a distance of 20 kilometers from Bucharest.", "It is crossed by the Colentina River, which forms Lake Buftea.", "The city's population exceeds 20,000 inhabitants (2021)."],
     },
     image: "/poi-images/romania-buftea-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Schloss Stirbey",
+                  "text": "Das Schloss Stirbey aus dem 19. Jahrhundert ist von einem weitläufigen Park umgeben und beherbergt wichtige kulturelle Veranstaltungen.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stirbey-kastély",
+                  "text": "A 19. században épült Stirbey-kastélyt hatalmas park veszi körül, és fontos kulturális eseményeknek ad otthont.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palatul Știrbey",
+                  "text": "Palatul Știrbey, construit în secolul al XIX-lea, este înconjurat de un parc vast și găzduiește evenimente culturale importante.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stirbey Palace",
+                  "text": "Stirbey Palace, built in the 19th century, is surrounded by a vast park and hosts significant cultural events.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-otopeni-cities-v2",
@@ -1683,6 +4909,64 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Henri Coandă International Airport was opened to civilians in 1970.", "The locality has been documented since 1587 under the name Otopeni.", "Otopeni became a city in the post-Revolution period, receiving new functions.", "DN1 crosses the locality over its entire length from south to north.", "It hosts one of the most modern Olympic swimming complexes in the region.", "The city's population is approximately 15,000 people (2021)."],
     },
     image: "/poi-images/romania-otopeni-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Water Park Otopeni",
+                  "text": "Einer der größten Outdoor-Wasserparks des Landes mit zahlreichen Rutschen und Pools, ideal für Familienfreizeit im Sommer.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kulturzentrum Ion Manu",
+                  "text": "Das kulturelle Herz der Stadt, in dem regelmäßig Theateraufführungen, Konzerte und lokale Kunstausstellungen stattfinden.",
+                  "category": "cultural",
+                  "confidence": "medium"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Otopeni Aquapark",
+                  "text": "Az ország egyik legnagyobb szabadtéri víziparkja, amely számos csúszdával és medencével várja a kikapcsolódni vágyókat.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ion Manu Kulturális Központ",
+                  "text": "A város közösségi és művészeti eseményeinek otthont adó intézmény, ahol színházi előadásokat és koncerteket rendeznek.",
+                  "category": "cultural",
+                  "confidence": "medium"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Water Park Otopeni",
+                  "text": "Unul dintre cele mai mari parcuri acvatice în aer liber din România, oferind numeroase tobogane și piscine pentru relaxare.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Centrul Cultural Ion Manu",
+                  "text": "Instituție care concentrează viața culturală a orașului, găzduind spectacole de teatru, expoziții și evenimente comunitare.",
+                  "category": "cultural",
+                  "confidence": "medium"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Otopeni Water Park",
+                  "text": "A major outdoor aquatic leisure center featuring many slides and pools, a popular destination for summer recreation.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ion Manu Cultural Center",
+                  "text": "The main hub for local arts and events in Otopeni, hosting theater plays, concerts, and various community workshops.",
+                  "category": "cultural",
+                  "confidence": "medium"
+            }
+      ]
+}
   },
   {
     id: "romania-pantelimon-cities-v2",
@@ -1716,6 +5000,64 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Pantelimon Monastery was founded in 1735 by Prince Grigore II Ghica.", "It was declared a city by law during the year 2005.", "Lake Pantelimon has an area of approximately 260 hectares.", "It is located on the eastern limit of Bucharest, near the Cernica Forest.", "It is crossed by the DN3 national road leading to Călărași.", "The city's population was approximately 27,000 inhabitants in 2021."],
     },
     image: "/poi-images/romania-pantelimon-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Pantelimon-See",
+                  "text": "Ein großer See am östlichen Rand von Bukarest, ideal für Bootsfahrten und Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kloster Pantelimon",
+                  "text": "Eine historische religiöse Stätte, die dem Heiligen Pantelimon gewidmet ist und der Siedlung ihren Namen gab.",
+                  "category": "monastic",
+                  "confidence": "medium"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pantelimon-tó",
+                  "text": "Bukarest keleti határában fekvő kiterjedt tó, amely népszerű horgászhely és kikapcsolódási pont a természetben.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pantelimon-kolostor",
+                  "text": "Történelmi egyházi helyszín, amely Szent Pantelimonról kapta nevét, és meghatározta a település fejlődését.",
+                  "category": "monastic",
+                  "confidence": "medium"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lacul Pantelimon",
+                  "text": "Un lac întins situat la marginea de est a Capitalei, oferind spații pentru recreere, pescuit și plimbări cu barca.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mănăstirea Pantelimon",
+                  "text": "Așezământ monastic istoric care a dat numele localității, reprezentând un punct de reper spiritual important în zonă.",
+                  "category": "monastic",
+                  "confidence": "medium"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pantelimon Lake",
+                  "text": "A large lake on the eastern edge of Bucharest, providing a natural escape for boating, fishing, and outdoor walks.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pantelimon Monastery",
+                  "text": "Historical religious site dedicated to Saint Pantelimon, which played a key role in the early history of the town.",
+                  "category": "monastic",
+                  "confidence": "medium"
+            }
+      ]
+}
   },
   {
     id: "romania-popesti-leordeni-cities-v2",
@@ -1749,6 +5091,88 @@ export const romaniaCitiesV2: POI[] = [
       en: ["The city was formed by the merger of three villages: Popești-Conduratu, Popești-Români, and Leordeni.", "It was officially declared a city in 2004 through administrative reorganization.", "It hosts a metro station that facilitates access to the capital.", "The population has grown massively, reaching about 53,000 inhabitants in 2021.", "In the past, the important Viscofil fiber factory operated here.", "It is the locality with the highest demographic growth in Ilfov County."],
     },
     image: "/poi-images/romania-popesti-leordeni-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Vintilă-Vodă-Kirche",
+                  "text": "Die Vintilă-Vodă-Kirche ist ein bedeutendes Baudenkmal aus dem 17. Jahrhundert, das Elemente der Brâncovenesc-Architektur bewahrt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Heldenmonument",
+                  "text": "Das Heldenmonument im Stadtzentrum ist den lokalen Soldaten gewidmet, die im Ersten und Zweiten Weltkrieg für ihr Vaterland fielen.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Katholische Kirche St. Maria",
+                  "text": "Die römisch-katholische Kirche St. Maria der Gnaden dient der in Popești-Leordeni ansässigen bulgarischen katholischen Gemeinde.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vintilă Vodă-templom",
+                  "text": "A Vintilă Vodă-templom egy fontos történelmi műemlék a 17. századból, amely megőrzi a brâncoveneascan építészet stílusjegyeit.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hősök emlékműve",
+                  "text": "A városközpontban található Hősök emlékműve a helyi katonáknak állít emléket, akik az első és második világháborúban estek el.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Mária katolikus templom",
+                  "text": "A Szent Mária kegyelmeinek római katolikus templom a Popești-Leordeni-ben letelepedett bolgár katolikus közösséget szolgálja.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica Vintilă Vodă",
+                  "text": "Biserica Vintilă Vodă este un monument istoric important, ctitorit în secolul al XVII-lea, păstrând elemente de arhitectură brâncovenească.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monumentul Eroilor",
+                  "text": "Monumentul Eroilor din centrul orașului este dedicat soldaților locali căzuți în Primul și al Doilea Război Mondial pentru patrie.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Catolică Sfânta Maria",
+                  "text": "Biserica Romano-Catolică Sfânta Maria a Harurilor deservește comunitatea bulgară catolică stabilită de mult timp în Popești-Leordeni.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vintilă Vodă Church",
+                  "text": "Vintilă Vodă Church is an important historical monument, founded in the 17th century, preserving Brâncovenesc architectural elements.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Heroes Monument",
+                  "text": "The Heroes Monument in the city center is dedicated to local soldiers who fell in the First and Second World Wars for their country.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Mary Catholic Church",
+                  "text": "The Roman Catholic Church Saint Mary of Graces serves the Bulgarian Catholic community long established in Popești-Leordeni.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-voluntari-cities-v2",
@@ -1782,6 +5206,64 @@ export const romaniaCitiesV2: POI[] = [
       en: ["The settlement was officially founded in 1921", "It was granted city status in the year 2004", "Home to the Pipera district, a major business hub", "The city covers an area of approximately 37.4 km²", "Population reached over 47,000 residents by 2021", "Serves as a key junction for the A3 motorway"],
     },
     image: "/poi-images/romania-voluntari-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kathedrale der Heiligen Parascheva",
+                  "text": "Eine imposante orthodoxe Kirche im Zentrum von Voluntari, bekannt für ihre beeindruckende Größe und Architektur.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Handelszentrum Dragonul Roșu",
+                  "text": "Eines der größten Handelszentren in Osteuropa, ein wichtiger Knotenpunkt für den Großhandel und Importwaren.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szent Paraszkiva-székesegyház",
+                  "text": "Egy impozáns ortodox templom Voluntari központjában, amely méreteiről és modern vallási építészetéről ismert.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dragonul Roșu kereskedelmi központ",
+                  "text": "Kelet-Európa egyik legnagyobb kereskedelmi negyede, amely az importáruk és a nagykereskedelem központja.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala Sfânta Parascheva",
+                  "text": "O biserică ortodoxă impunătoare situată în centrul orașului Voluntari, remarcabilă prin dimensiuni și arhitectură.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Complexul Comercial Dragonul Roșu",
+                  "text": "Unul dintre cele mai mari centre comerciale din Europa de Est, un hub major pentru comerțul en-gros și importuri.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saint Parascheva Cathedral",
+                  "text": "An imposing Orthodox church in the center of Voluntari, notable for its grand scale and religious architecture.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dragonul Roșu Commercial Center",
+                  "text": "One of the largest trading hubs in Eastern Europe, majorly focused on wholesale commerce and international imports.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-bragadiru-cities-v2",
@@ -1815,6 +5297,40 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Granted city status on December 29, 2005", "Founded by industrialist Dumitru Bragadiru in the 19th century", "Population increased to over 15,000 by 2021", "Located on the DN6 national road corridor", "The Sabar River flows through the city's territory", "Home to the historic Bragadiru Palace monument"],
     },
     image: "/poi-images/romania-bragadiru-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Bragadiru-Palast",
+                  "text": "Ein prachtvolles eklektisches Gebäude aus dem 19. Jahrhundert, das ursprünglich als Kulturzentrum für die Brauereiarbeiter diente.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bragadiru-palota",
+                  "text": "Díszes 19. századi épület, amelyet eredetileg a helyi sörgyár munkásainak kulturális központjaként emeltek.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palatul Bragadiru",
+                  "text": "O clădire monumentală de la sfârșitul secolului XIX, construită ca un colos cultural pentru angajații fabricii de bere.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bragadiru Palace",
+                  "text": "A grand 19th-century building originally constructed as a cultural center for the brewery's employees.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-chitila-cities-v2",
@@ -1848,6 +5364,64 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Officially became a city in the year 2005", "Major railway hub since the 19th century", "Population is approximately 14,700 residents", "Located on the banks of the Colentina River", "Directly accessible via the DN7 national road", "Site of several large regional logistics parks"],
     },
     image: "/poi-images/romania-chitila-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Dendrologischer Park Chitila",
+                  "text": "Dieser weitläufige Park am Ufer des Chitila-Sees bietet Entspannung im Grünen mit einer vielfältigen Sammlung von Baumarten und Spazierwegen.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Chitila-See",
+                  "text": "Ein natürlicher See am Rande der Stadt, der für Freizeitaktivitäten, Angeln und die Beobachtung lokaler Wasservögel in Stadtnähe genutzt wird.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chitilai Dendrológiai Park",
+                  "text": "A Chitila-tó partján fekvő park gazdag faállománnyal, sétányokkal és pihenőhelyekkel várja a természetbe vágyó látogatókat Bukarest közelében.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Chitila-tó",
+                  "text": "A település határában található tó kedvelt horgászhely és rekreációs övezet, amely természetes élőhelyet biztosít számos madárfaj számára.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parcul Dendrologic Chitila",
+                  "text": "Amenajat pe malul lacului Chitila, acest parc oferă un spațiu verde generos cu specii variate de arbori, alei de promenadă și zone de relaxare.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lacul Chitila",
+                  "text": "Un lac natural pitoresc ce mărginește localitatea, fiind o destinație populară pentru pescuit sportiv și activități de recreere în aer liber.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chitila Dendrological Park",
+                  "text": "Located on the banks of Lake Chitila, this park features a diverse collection of trees, walking paths, and quiet spots for outdoor relaxation.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lake Chitila",
+                  "text": "A scenic natural lake bordering the town, providing opportunities for fishing, birdwatching, and enjoying the peaceful landscape near the capital.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-darasti-ilfov-cities-v2",
@@ -1881,6 +5455,40 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Located about 20 kilometers south of Bucharest", "The Argeș River flows in close proximity", "Renowned for its intensive vegetable farming", "Population is approximately 3,000 residents", "Part of the Bucharest Metropolitan Area", "Maintains traditional Muntenian village structures"],
     },
     image: "/poi-images/romania-darasti-ilfov-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "St.-Nikolaus-Kirche",
+                  "text": "Die St.-Nikolaus-Kirche in Dărăști-Ilfov ist ein lokales Baudenkmal, das der orthodoxen Gemeinde seit dem 19. Jahrhundert dient.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szent Miklós-templom",
+                  "text": "A dărăști-ilfovi Szent Miklós-templom egy helyi jelentőségű történelmi műemlék, amely a 19. század óta szolgálja a közösséget.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica Sfântul Nicolae",
+                  "text": "Biserica Sfântul Nicolae din Dărăști-Ilfov este un monument istoric de importanță locală, servind comunitatea din secolul al XIX-lea.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. Nicholas Church",
+                  "text": "St. Nicholas Church in Dărăști-Ilfov is a historic local monument, serving the Orthodox community since the 19th century.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-copaceni-cities-v2",
@@ -1914,6 +5522,40 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Situated on the left bank of the Argeș River", "Name is derived from the Romanian word for trees", "Population is approximately 3,100 residents", "Often associated with the nearby Adunații-Copăceni", "Key area for local cereal production", "Member of the Bucharest Metropolitan Area"],
     },
     image: "/poi-images/romania-copaceni-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kirche Mariä Entschlafung",
+                  "text": "Die örtliche orthodoxe Kirche von Copăceni, ein Ort der Ruhe und des Gebets für die Gemeinde.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mária Elszenderülése templom",
+                  "text": "Copăceni helyi ortodox temploma, a közösség csendes lelki és vallási központja.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica Adormirea Maicii Domnului",
+                  "text": "Biserica ortodoxă locală din Copăceni, un lăcaș de cult important pentru viața spirituală a satului.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dormition of the Mother of God Church",
+                  "text": "The local Orthodox church of Copăceni, a place of worship and spiritual significance for the village.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-1-decembrie-cities-v2",
@@ -1947,6 +5589,40 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Formerly known as Copăcenii de Sus", "Renamed in honor of Romania's National Day", "Population is approximately 9,500 residents", "Located on the strategic DN5 Bucharest-Giurgiu route", "Major industrial hub in the southern Ilfov area", "Situated just 15 kilometers from central Bucharest"],
     },
     image: "/poi-images/romania-1-decembrie-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Argeș-Ufer",
+                  "text": "Das Ufer des Flusses Argeș bietet Möglichkeiten für Freizeitaktivitäten und Angeln in der Nähe von Bukarest.",
+                  "category": "natural",
+                  "confidence": "medium"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Argeș-part",
+                  "text": "Az Argeș folyó partja kikapcsolódási és horgászati lehetőségeket kínál a Bukarest közeli településen.",
+                  "category": "natural",
+                  "confidence": "medium"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Malul Argeșului",
+                  "text": "Malul râului Argeș oferă oportunități pentru activități recreative și pescuit în apropierea Bucureștiului.",
+                  "category": "natural",
+                  "confidence": "medium"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Argeș River Bank",
+                  "text": "The banks of the Argeș River offer opportunities for recreational activities and fishing near Bucharest.",
+                  "category": "natural",
+                  "confidence": "medium"
+            }
+      ]
+}
   },
   {
     id: "romania-vidra-cities-v2",
@@ -1980,6 +5656,40 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Main center for tomato cultivation in Ilfov", "The Sabar River flows through the commune's land", "Population is roughly 9,500 residents", "Includes the villages of Vidra, Crețești, and Sintești", "Archaeological evidence shows habitation since the Bronze Age", "Key supplier of fresh produce to Bucharest retailers"],
     },
     image: "/poi-images/romania-vidra-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kirche des Heiligen Nikolaus",
+                  "text": "Diese historische orthodoxe Kirche ist ein zentrales religiöses Denkmal der Gemeinde Vidra nahe Bukarest.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szent Miklós-templom",
+                  "text": "Ez a történelmi ortodox templom Vidra község központi vallási műemléke Bukarest közelében.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica Sfântul Nicolae",
+                  "text": "Această biserică ortodoxă istorică reprezintă un monument religios central al comunei Vidra de lângă București.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. Nicholas Church",
+                  "text": "This historical Orthodox church is a central religious monument of the Vidra commune near Bucharest.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-sindrilita-cities-v2",
@@ -2013,6 +5723,40 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Administratively part of the Găneasa commune", "Located on the DN2 (E85) national road", "Population is approximately 1,200 residents", "Major transit point between Bucharest and Moldavia", "Surrounded by remnants of the ancient Vlăsiei Forests", "Historically a site for sheep farming in the region"],
     },
     image: "/poi-images/romania-sindrilita-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kirche St. Nikolaus",
+                  "text": "Ein historisches Gebäude aus dem 19. Jahrhundert, das für seine Wandmalereien und seine kulturelle Bedeutung bekannt ist.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szent Miklós-templom",
+                  "text": "19. századi vallási emlék, amely falfestményeiről és a falu történetében betöltött jelentős szerepéről nevezetes.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica Sfântul Nicolae",
+                  "text": "Edificiu religios din secolul al XIX-lea situat în Șindrilița, renumit pentru picturile sale și importanța culturală.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saint Nicholas Church",
+                  "text": "A 19th-century religious building in Șindrilița, known for its interior murals and its role in local history.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ]
+}
   },
   {
     id: "romania-gagu-cities-v2",
@@ -2046,6 +5790,40 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Part of the Dascălu commune in Ilfov County", "Located near the upper reaches of the Mostiștea River", "Population is approximately 600 residents", "Famous for maize and wheat cultivation", "Popular getaway for weekenders from Bucharest", "Preserves typical Wallachian rural architecture"],
     },
     image: "/poi-images/romania-gagu-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Gagu-Kirche",
+                  "text": "Die im ehemaligen Vlăsia-Wald gelegene Gagu-Kirche besticht durch ihre traditionelle Architektur und ihre friedliche Atmosphäre.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gagu-templom",
+                  "text": "A hajdani Vlăsia-erdő közepén található Gagu-templom hagyományos építészetével és nyugodt légkörével nyűgözi le a látogatókat.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica din Gagu",
+                  "text": "Biserica Gagu, situată în mijlocul foștilor Codri ai Vlăsiei, impresionează prin arhitectura sa tradițională și liniștea locului.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gagu Church",
+                  "text": "Gagu Church, located in the middle of the former Vlăsia Woods, impresses with its traditional architecture and peaceful atmosphere.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ]
+}
   },
   {
     id: "romania-dascalu-cities-v2",
@@ -2079,6 +5857,40 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Headquarters of the namesake commune in Ilfov", "Located about 20 kilometers northeast of Bucharest", "Population is approximately 3,200 residents", "Situated within the historic Vlăsiei Forest region", "Excellent connectivity to the A3 motorway corridor", "Known locally for promoting organic farming practices"],
     },
     image: "/poi-images/romania-dascalu-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "St.-Nikolaus-Kirche",
+                  "text": "Die St.-Nikolaus-Kirche in Dascălu ist das wichtigste orthodoxe Gotteshaus der Gemeinde mit traditioneller Architektur.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szent Miklós-templom",
+                  "text": "A dascălui Szent Miklós-templom a község fő ortodox vallási helyszíne, amely hagyományos román építészeti stílusban épült.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica Sfântul Nicolae",
+                  "text": "Biserica Sfântul Nicolae din Dascălu este principalul lăcaș de cult ortodox al comunei, având o arhitectură tradițională românească.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. Nicholas Church",
+                  "text": "St. Nicholas Church in Dascălu is the main Orthodox place of worship in the commune, featuring traditional Romanian architecture.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-mogosoaia-cities-v2",
@@ -2112,6 +5924,88 @@ export const romaniaCitiesV2: POI[] = [
       en: ["The palace was completed in the year 1702.", "Constantin Brâncoveanu ruled Wallachia from 1688 to 1714.", "The Brâncovenesc style is considered the first authentic Romanian national style.", "The Bibescu family owned the estate for over 120 years.", "In 1945, the property was nationalized by the communist regime.", "The palace is situated on the shores of one of the lakes along the Colentina River."],
     },
     image: "/poi-images/romania-mogosoaia-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Schloss Mogoșoaia",
+                  "text": "Der 1702 erbaute Palast im Brâncoveanu-Stil besticht durch seine Arkaden und Loggien, die orientalische und venezianische Elemente vereinen.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kirche St. Georg",
+                  "text": "Diese 1688 gegründete Kirche befindet sich im Schlosspark und ist ein bedeutendes Beispiel für die sakrale walachische Architektur.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mogoșoaia Park",
+                  "text": "Eine weitläufige Parkanlage am Ufer des Mogoșoaia-Sees, die ideal für Spaziergänge und kulturelle Veranstaltungen im Freien ist.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mogoșoaia-palota",
+                  "text": "Az 1702-ben épült palota a Brâncoveanu-stílus remekműve, amely velencei és keleti építészeti elemeket ötvöz harmonikus egységben.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent György-templom",
+                  "text": "A palota udvarán álló, 1688-ban emelt templom a korszak vallási építészetének egyik legszebb fennmaradt emléke Havasalföldön.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mogoșoaia park",
+                  "text": "A tó partján fekvő hatalmas zöldterület népszerű pihenőhely, amely rendezvényeknek és szabadtéri kiállításoknak is otthont ad.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palatul Mogoșoaia",
+                  "text": "Edificat în 1702 de Constantin Brâncoveanu, palatul reprezintă un etalon al stilului brâncovenesc, îmbinând elemente venețiene și orientale.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfântul Gheorghe",
+                  "text": "Ctitorită în 1688, această biserică aflată în curtea palatului păstrează picturi murale valoroase și arhitectură specifică epocii.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Mogoșoaia",
+                  "text": "O zonă vastă de agrement situată pe malul lacului, oferind spații verzi generoase pentru recreere și evenimente culturale.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mogoșoaia Palace",
+                  "text": "Built in 1702 by Constantin Brâncoveanu, this palace showcases a unique architectural style with Venetian and Oriental influences.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. George Church",
+                  "text": "Founded in 1688, this church located within the palace grounds is a significant example of Wallachian religious architecture.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mogoșoaia Park",
+                  "text": "A large recreational area on the shores of the lake, perfect for walks and hosting various outdoor cultural festivals.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-peris-cities-v2",
@@ -2145,6 +6039,64 @@ export const romaniaCitiesV2: POI[] = [
       en: ["The commune is bordered to the north by the Ialomița River.", "Bălteni village houses a historical monument church from the 17th century.", "Periș is located about 30 kilometers north of Bucharest.", "The furniture factory in Periș was a major economic pillar before 1989.", "The settlement was once part of the vast Vlăsia Forests.", "The population of the commune is approximately 7,500 residents."],
     },
     image: "/poi-images/romania-peris-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kloster Periș",
+                  "text": "Das Kloster Periș ist ein spirituelles Ziel im Kreis Ilfov, bekannt für seine Architektur und die Atmosphäre der Ruhe und Einkehr.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Periș-See",
+                  "text": "Der Periș-See ist ein beliebtes Ziel zum Angeln und zur Entspannung, umgeben von einer ruhigen Naturlandschaft in der Nähe von Bukarest.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Periș-kolostor",
+                  "text": "A Periș-kolostor Ilfov megye egyik spirituális helyszíne, amely vallási építészetéről és a csendes, elmélyülésre alkalmas környezetről ismert.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Periș-tó",
+                  "text": "A Periș-tó népszerű horgászhely és szabadtéri kikapcsolódási célpont, amelyet csendes természeti környezet vesz körül Bukarest közelében.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mănăstirea Periș",
+                  "text": "Mănăstirea Periș este o destinație spirituală din județul Ilfov, cunoscută pentru arhitectura religioasă și atmosfera de liniște și reculegere.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lacul Periș",
+                  "text": "Lacul Periș este o destinație populară pentru pescuit și relaxare, fiind înconjurat de o zonă naturală liniștită situată lângă București.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Periș Monastery",
+                  "text": "Periș Monastery is a spiritual destination in Ilfov County, known for its religious architecture and atmosphere of peace and reflection.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Periș Lake",
+                  "text": "Periș Lake is a popular destination for fishing and outdoor relaxation, surrounded by a peaceful natural area located near Bucharest.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-snagov-cities-v2",
@@ -2178,6 +6130,112 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Snagov Lake has a maximum depth of approximately 9 meters.", "Snagov Monastery was first mentioned in documents in 1364.", "The monastery island has been accessible via a pedestrian bridge since 2010.", "The Snagov Forest is a nature reserve covering a protected area of 10 hectares.", "Nicolae Ceaușescu maintained one of his favorite summer residences here.", "Snagov is home to a major national training center for Romanian competitive rowing."],
     },
     image: "/poi-images/romania-snagov-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kloster Snagov",
+                  "text": "Mittelalterliches Kloster auf einer Insel im Snagov-See, bekannt als mutmaßliche Grabstätte von Vlad dem Pfähler.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Snagov-See",
+                  "text": "Ein großer Naturbassee, beliebt für Wassersport, Angeln und Erholung, umgeben von Wäldern und Protokollvillen.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wald von Snagov",
+                  "text": "Geschütztes Naturreservat mit alten Eichen und verschiedenen Pflanzen- und Tierarten der Vlasia-Ebene.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palast von Snagov",
+                  "text": "Ein imposantes Gebäude aus den 1930er Jahren im Brâncovenesc-Stil, das heute für offizielle Veranstaltungen genutzt wird.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Snagov kolostor",
+                  "text": "Középkori kolostor a Snagov-tó egyik szigetén, amely Vlad Tepes állítólagos temetkezési helyeként ismert.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Snagov-tó",
+                  "text": "Nagy kiterjedésű természetes tó, népszerű vízi sportok, horgászat és kikapcsolódás helyszíne, erdőkkel övezve.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Snagovi erdő",
+                  "text": "Védett természetvédelmi terület, amely ősi tölgyfáknak és a Vlasia-alföldön őshonos növényfajoknak ad otthont.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Snagov palota",
+                  "text": "Az 1930-as években épült impozáns épület brâncovenesc stílusban, amelyet ma hivatalos eseményekre használnak.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mănăstirea Snagov",
+                  "text": "Mănăstirea medievală situată pe o insulă a lacului Snagov, faimoasă ca fiind locul de înmormântare al lui Vlad Țepeș.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lacul Snagov",
+                  "text": "Un lac natural întins, popular pentru sporturi nautice, pescuit și agrement, înconjurat de păduri și vile de protocol.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pădurea Snagov",
+                  "text": "Rezervație naturală protejată ce adăpostește exemplare vechi de stejar și diverse specii de plante și animale.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Snagov",
+                  "text": "Edificiu impunător construit în anii 1930 în stil brâncovenesc, folosit în prezent pentru evenimente oficiale.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Snagov Monastery",
+                  "text": "Medieval monastery on an island in Snagov Lake, famous as the alleged burial site of Vlad the Impaler.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Snagov Lake",
+                  "text": "A large natural lake popular for water sports, fishing, and leisure, surrounded by forests and protocol villas.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Snagov Forest",
+                  "text": "Protected nature reserve home to ancient oak trees and various plant and animal species native to the area.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Snagov Palace",
+                  "text": "An imposing building constructed in the 1930s in the Brancovenesc style, currently used for official events.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-găneasa-cities-v2",
@@ -2211,6 +6269,64 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Pasărea Monastery was founded by Abbot Timotei of Cernica.", "The commune is situated about 20 kilometers east of Bucharest.", "The Pasărea River forms several natural lakes on the commune's borders.", "The DN2 national road connects Găneasa with the town of Urziceni.", "The Piteasca Forest contains century-old oak trees, remnants of the Vlăsia woods.", "The village of Moara Domnească was historically an important princely estate."],
     },
     image: "/poi-images/romania-găneasa-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kloster Pasărea",
+                  "text": "Ein berühmtes Frauenkloster aus dem Jahr 1813, bekannt für seine spirituelle Atmosphäre am Ufer des Flusses Pasărea.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kirche Piteasca",
+                  "text": "Eine historische orthodoxe Kirche aus dem späten 18. Jahrhundert, die für ihre gut erhaltene Architektur bekannt ist.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pasărea-kolostor",
+                  "text": "Híres, 1813-ban alapított női kolostor, amely spirituális légköréről és a Pasărea-folyó partján fekvő gyönyörű fekvéséről ismert.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piteasca-templom",
+                  "text": "Történelmi ortodox templom a községben, amely késő 18. századi építészeti stílusáról és vallási emlékeiről ismert.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mănăstirea Pasărea",
+                  "text": "Renumit așezământ monahal fondat în 1813, cunoscut pentru atmosfera spirituală și cadrul natural deosebit de pe malul râului.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Piteasca",
+                  "text": "Lăcaș de cult istoric datând de la sfârșitul secolului al XVIII-lea, remarcabil prin arhitectura sa bine conservată.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pasărea Monastery",
+                  "text": "A famous nunnery founded in 1813, renowned for its spiritual atmosphere and beautiful setting on the banks of the river.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piteasca Church",
+                  "text": "A historical Orthodox church dating back to the late 18th century, noted for its well-preserved architecture and heritage.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ]
+}
   },
   {
     id: "romania-afumati-cities-v2",
@@ -2244,6 +6360,64 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Radu de la Afumați was Prince of Wallachia between 1522 and 1529.", "The Cantacuzino manor was completed in the year 1696.", "The name 'Afumați' literally translates from Romanian as 'the smoked ones'.", "The commune is located approximately 15 kilometers from central Bucharest.", "The well-known 'Doraly' commercial park is located here.", "The Pasărea River flows through the territory of Afumați commune."],
     },
     image: "/poi-images/romania-afumati-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Cantacuzino-Herrenhaus",
+                  "text": "Das Cantacuzino-Herrenhaus aus dem 17. Jahrhundert ist ein bedeutendes Denkmal des Brâncovenesc-Stils und spiegelt die aristokratische Geschichte wider.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kirche Mariä Himmelfahrt",
+                  "text": "Diese im Brâncovenesc-Stil erbaute orthodoxe Kirche ist Teil des historischen Cantacuzino-Komplexes in Afumați.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cantacuzino-kastély",
+                  "text": "A 17. századi Cantacuzino-kastély a Brâncovenesc-stílus egyik jelentős emléke, amely a havasalföldi nemesi életmódot tükrözi.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nagyboldogasszony-templom",
+                  "text": "Ez a Brâncovenesc-stílusban épült ortodox templom az afumați Cantacuzino-történelmi együttes szerves részét képezi.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Conacul Cantacuzino",
+                  "text": "Conacul Cantacuzino din secolul al XVII-lea este un monument reprezentativ al stilului brâncovenesc, reflectând istoria aristocratică a zonei.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Adormirea Maicii Domnului",
+                  "text": "Această biserică ortodoxă construită în stil brâncovenesc face parte din ansamblul istoric Cantacuzino din Afumați.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cantacuzino Mansion",
+                  "text": "The 17th-century Cantacuzino Mansion is a significant monument of the Brâncovenesc style, reflecting the aristocratic history of the region.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dormition of the Virgin Church",
+                  "text": "This Orthodox church built in the Brâncovenesc style is part of the historic Cantacuzino ensemble in Afumați.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-stefanestii-de-jos-cities-v2",
@@ -2277,6 +6451,40 @@ export const romaniaCitiesV2: POI[] = [
       en: ["The commune is situated at the northern edge of the Bucharest metropolitan area.", "The A3 Bucharest-Ploiești highway passes directly through the commune's territory.", "Cosmopolis is one of the largest gated communities in Romania.", "The population has grown by over 50% in the last 10 years.", "The church in the village center is dedicated to Saint Nicholas.", "The commune includes the villages of Ștefăneștii de Jos, Ștefăneștii de Sus, and Crețuleasca."],
     },
     image: "/poi-images/romania-stefanestii-de-jos-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Pasărea Fluss",
+                  "text": "Ein Wasserlauf, der den Ort durchquert und malerische Feuchtgebiete und Naturlandschaften in der Vlăsia-Ebene bildet.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pasărea-folyó",
+                  "text": "A településen áthaladó vízfolyás, amely festői vizes élőhelyeket és természeti tájakat alkot a Vlăsia-alföldön.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Râul Pasărea",
+                  "text": "Curs de apă care traversează localitatea, formând pe alocuri zone umede și peisaje naturale pitorești specifice Câmpiei Vlăsiei.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pasărea River",
+                  "text": "A watercourse crossing the locality, forming picturesque wetlands and natural landscapes typical of the Vlăsia Plain.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-tunari-cities-v2",
@@ -2310,6 +6518,64 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Tunari is located about 12 kilometers north of central Bucharest.", "The commune is adjacent to the perimeter of Otopeni Airport.", "Constantin Brâncoveanu commissioned a church in Tunari in 1742.", "Access to the settlement is easy via the DN1 road and the Bucharest Ring Road.", "Tunari has become a hub for expat communities and IT specialists.", "The administrative area of the commune is approximately 29 square kilometers."],
     },
     image: "/poi-images/romania-tunari-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Fort 4 Tunari",
+                  "text": "Teil des Bukarester Befestigungsgürtels, der Ende des 19. Jahrhunderts zum Schutz der Hauptstadt erbaut wurde.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kirche des Heiligen Nikolaus",
+                  "text": "Ein lokales religiöses Wahrzeichen in Tunari mit traditioneller Architektur und historischer Bedeutung für die Gemeinde.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tunari 4-es erőd",
+                  "text": "Bukarest védelmi erődítményrendszerének része, amelyet a 19. század végén építettek a főváros védelmére.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Miklós templom",
+                  "text": "Tunari helyi vallási emléke, amely hagyományos építészetével a közösség kulturális és hitéletének központja.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fortul 4 Tunari",
+                  "text": "Face parte din centura de fortificații a Bucureștiului, construită la sfârșitul secolului al XIX-lea pentru apărare.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfântul Nicolae",
+                  "text": "Lăcaș de cult istoric în Tunari, reprezentativ pentru arhitectura religioasă locală și viața spirituală a comunei.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort 4 Tunari",
+                  "text": "Part of the Bucharest fortification ring built at the end of the 19th century to defend the Romanian capital.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint Nicholas Church",
+                  "text": "A historic place of worship in Tunari, reflecting local religious architecture and serving the community for generations.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-corbeanca-cities-v2",
@@ -2343,6 +6609,40 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Corbeanca is located about 20 kilometers north of Bucharest.", "The settlement is famous for the 'Paradisul Verde' residential neighborhood.", "The Petrești Forest is a significant recreational area in the commune.", "Corbeanca borders the town of Otopeni and its airport to the south.", "The commune hosts several equestrian centers and sports bases.", "Primary access to the area is provided by the DN1 national road."],
     },
     image: "/poi-images/romania-corbeanca-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Therme București",
+                  "text": "Unweit von Corbeanca gelegen, ist dies das größte Wellness- und Thermalzentrum Europas mit Palmen und Thermalbecken.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Therme București",
+                  "text": "Corbeanca szomszédságában található Európa egyik legnagyobb termálfürdő- és wellnessközpontja trópusi növényekkel.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Therme București",
+                  "text": "Situat în imediata apropiere, este cel mai mare centru de relaxare și wellness din Europa, dotat cu piscine termale și grădini botanice.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Therme Bucharest",
+                  "text": "Located nearby Corbeanca, this is the largest relaxation and wellness center in Europe, featuring thermal pools and tropical gardens.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-balotesti-cities-v2",
@@ -2376,6 +6676,64 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Balotești hosts Therme București, one of the largest wellness centers in Europe.", "Edenland adventure park in the commune is one of the largest of its kind in Romania.", "The commune is located about 10 kilometers north of Otopeni Airport.", "The Săftica manor was historically owned by prominent noble families.", "The stable population of the commune exceeds 11,000 residents.", "Balotești Lake is a popular destination for sport fishing."],
     },
     image: "/poi-images/romania-balotesti-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Edenland Park",
+                  "text": "Rumäniens größter Abenteuerpark bietet Kletterparcours, Paintball und Entspannung inmitten des Vlăsia-Waldes.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Therme Bukarest",
+                  "text": "Ein moderner Thermalkomplex nördlich von Bukarest mit exotischen Pools, Rutschen und einem beeindruckenden botanischen Garten.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Edenland Park",
+                  "text": "Románia legnagyobb kalandparkja, amely erdei kötélpályákat, paintballt és kikapcsolódást kínál a Vlăsia-erdőben.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Therme București",
+                  "text": "Modern termálfürdő-komplexum Bukaresttől északra, egzotikus medencékkel, csúszdákkal és lenyűgöző botanikus kerttel.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Edenland Park",
+                  "text": "Cel mai mare parc de aventură din România, oferind trasee în copaci, paintball și relaxare în mijlocul pădurii Vlăsia.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Therme București",
+                  "text": "Un complex termal modern situat la nord de București, cu piscine exotice, tobogane și o grădină botanică impresionantă.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Edenland Park",
+                  "text": "The largest adventure park in Romania, offering tree courses, paintball, and relaxation in the Vlăsia Forest.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Therme Bucharest",
+                  "text": "A modern thermal complex north of Bucharest, featuring exotic pools, waterslides, and an impressive botanical garden.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-gradistea-cities-v2",
@@ -2442,6 +6800,40 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Includes 5 component villages in Ilfov", "Bordering Ialomița and Prahova counties", "Situated along the banks of Ialomița River", "Total administrative area of 53 square kilometers", "Historical link to the Snagov monastery estate", "Direct access via the Bucharest-Ploiești A3 motorway"],
     },
     image: "/poi-images/romania-nuci-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Pissiota-Kloster",
+                  "text": "Ein architektonisches Juwel im byzantinischen Stil, erbaut von Nicolae Pissiota im Jahr 1928, bekannt für seine Wandmalereien.",
+                  "category": "monastic",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pissiota-kolostor",
+                  "text": "1928-ban épült bizánci stílusú templom Nicolae Pissiota alapításával, amely gyönyörű falfestményeiről és nyugalmáról híres.",
+                  "category": "monastic",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mănăstirea Pissiota",
+                  "text": "Un lăcaș de cult deosebit construit în 1928 de Nicolae Pissiota, îmbinând stilul bizantin cu elemente renascentiste.",
+                  "category": "monastic",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pissiota Monastery",
+                  "text": "Built in 1928 by Nicolae Pissiota, this monastery features a unique blend of Byzantine and Renaissance architectural styles.",
+                  "category": "monastic",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-petrachioaia-cities-v2",
@@ -2508,6 +6900,64 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Located on the DN1 Bucharest-Ploiești road", "Includes 4 villages: Ciolpani, Izvorani, Lupăria, Piscu", "Piscu village is a national center for pottery", "Izvorani hosts the Romanian Olympic Complex", "Surrounded by remnants of the Vlăsia Forest", "Total population was 4,811 in the 2021 census"],
     },
     image: "/poi-images/romania-ciolpani-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kloster Țigănești",
+                  "text": "Das Kloster Țigănești ist bekannt für seine Werkstätten für kirchliche Stickerei und seine ruhige Atmosphäre.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Motocross-Strecke Ciolpani",
+                  "text": "Die Motocross-Strecke in Ciolpani ist eine der am besten ausgestatteten und professionellsten Strecken in Rumänien.",
+                  "category": "recreational",
+                  "confidence": "medium"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Țigănești-kolostor",
+                  "text": "A Țigănești-kolostor híres egyházi hímzőműhelyeiről és a Bukarest közeli csendes, spirituális környezetéről.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ciolpani motokrosszpálya",
+                  "text": "A ciolpani motokrosszpálya Románia egyik legjobban felszerelt és legnépszerűbb technikai sportközpontja.",
+                  "category": "recreational",
+                  "confidence": "medium"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mănăstirea Țigănești",
+                  "text": "Mănăstirea Țigănești este renumită pentru atelierele sale de broderie și țesut straie preoțești, fiind o oază de liniște.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Circuitul de Motocross Ciolpani",
+                  "text": "Circuitul de motocross de la Ciolpani este unul dintre cele mai bine amenajate trasee de profil din România.",
+                  "category": "recreational",
+                  "confidence": "medium"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tiganesti Monastery",
+                  "text": "Tiganesti Monastery is famous for its ecclesiastical embroidery workshops and its peaceful atmosphere near Bucharest.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ciolpani Motocross Track",
+                  "text": "The motocross track in Ciolpani is one of the best-equipped and most professional tracks of its kind in Romania.",
+                  "category": "recreational",
+                  "confidence": "medium"
+            }
+      ]
+}
   },
   {
     id: "romania-domnesti-cities-v2",
@@ -2541,6 +6991,40 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Includes the villages of Domnești and Țegheș", "Located on the western sector of the Ring Road", "Bordered by the Sabar and Argeș rivers", "Population exceeded 12,800 in the 2021 census", "Features a unique suspended roundabout over DNCB", "Historically documented since the 16th century"],
     },
     image: "/poi-images/romania-domnesti-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kirche der Heilenden Quelle",
+                  "text": "Die 1817 erbaut Kirche der Heilenden Quelle ist ein historisches Denkmal, das für die traditionelle religiöse Architektur im Kreis Ilfov steht.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gyógyító Forrás-templom",
+                  "text": "Az 1817-ben épült Gyógyító Forrás-templom Ilfov megye hagyományos vallási építészetének egyik jelentős történelmi emléke.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica Izvorul Tămăduirii",
+                  "text": "Biserica Izvorul Tămăduirii, construită în 1817, este un monument istoric reprezentativ pentru arhitectura religioasă tradițională din județul Ilfov.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Church of the Healing Spring",
+                  "text": "The Church of the Healing Spring, built in 1817, is a historical monument representative of the traditional religious architecture in Ilfov County.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ]
+}
   },
   {
     id: "romania-clinceni-cities-v2",
@@ -2574,6 +7058,40 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Consists of Clinceni, Olteni, and Ordoreanu villages", "Home to the Clinceni Airfield for sports aviation", "Base for the 'Hawks of Romania' aerobatic team", "Population reached 9,712 in the 2021 census", "Located along the banks of the Sabar River", "Features a football stadium used for professional leagues"],
     },
     image: "/poi-images/romania-clinceni-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Flugplatz Clinceni",
+                  "text": "Ein bekanntes Zentrum für Sportfliegerei und Fallschirmspringen in der Nähe von Bukarest, oft genutzt für Flugshows.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Clinceni repülőtér",
+                  "text": "Bukarest közelében található sportrepülőtér, amely az ejtőernyőzés és a műrepülő edzések egyik fő romániai központja.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aerodromul Clinceni",
+                  "text": "Un important centru pentru aviația sportivă și parașutism situat lângă București, gazdă frecventă pentru mitinguri aviatice.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Clinceni Airfield",
+                  "text": "A well-known sports aviation hub near Bucharest, famous for skydiving activities and aerobatic flight training.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-cornetu-cities-v2",
@@ -2607,6 +7125,64 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Includes the component villages of Cornetu and Buda", "Located on the DN6 road towards Alexandria", "Situated next to the Argeș River and Mihăilești lake", "Features an 18th-century church built by Stoica Ludescu", "Population was 7,132 in the 2021 census", "Major hub for commercial and residential development"],
     },
     image: "/poi-images/romania-cornetu-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Cornetu-Staudamm",
+                  "text": "Ein Staudamm am Fluss Argeș, der einen Stausee bildet, der bei lokalen Fischern und für Freizeitaktivitäten beliebt ist.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kirche St. Johannes der Täufer",
+                  "text": "Das wichtigste religiöse Gebäude in Cornetu, bekannt für seine lokale historische und spirituelle Bedeutung.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cornetu-gát",
+                  "text": "Az Argeș folyón található gát, amely egy horgászok és kirándulók körében népszerű víztározót hoz létre.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Keresztelő Szent János templom",
+                  "text": "Cornetu legfontosabb vallási épülete, amely helyi történelmi és spirituális jelentőséggel bír.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Barajul Cornetu",
+                  "text": "Un baraj pe râul Argeș care formează un lac de acumulare popular pentru pescarii locali și activități de recreere.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfântul Ioan Botezătorul",
+                  "text": "Cel mai important lăcaș de cult din Cornetu, cunoscut pentru semnificația sa istorică și spirituală locală.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cornetu Dam",
+                  "text": "A dam on the Argeș River that forms a reservoir popular among local fishermen and for recreational activities.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. John the Baptist Church",
+                  "text": "The most important place of worship in Cornetu, known for its local historical and spiritual significance.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ]
+}
   },
   {
     id: "romania-cernica-cities-v2",
@@ -2640,6 +7216,112 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Cernica Monastery was founded in 1608", "Comprised of 5 villages east of Bucharest", "Home to the relics of Saint Callinicus of Cernica", "Situated on the banks of the Colentina River", "Population reached 11,871 in the 2021 census", "Main recreation spot with a large adventure park"],
     },
     image: "/poi-images/romania-cernica-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kloster Cernica",
+                  "text": "Ein berühmtes orthodoxes Kloster auf einer Insel im Cernica-See, gegründet im 17. Jahrhundert.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cernica-See",
+                  "text": "Ein beliebtes Erholungsgebiet in der Nähe von Bukarest, ideal zum Angeln und für Bootsfahrten.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wald von Cernica",
+                  "text": "Ein weitläufiges Waldgebiet, das Wanderwege und einen Abenteuerpark für Familien bietet.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Extreme Park Cernica",
+                  "text": "Ein Abenteuerpark im Freien mit Kletterparcours und Seilrutschen inmitten der Natur.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cernicai kolostor",
+                  "text": "Híres ortodox kolostor a Cernica-tó egyik szigetén, amelyet a 17. században alapítottak.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cernica-tó",
+                  "text": "Népszerű pihenőhely Bukarest közelében, ideális horgászathoz és csónakázáshoz.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cernicai erdő",
+                  "text": "Kiterjedt erdőterület, amely túraútvonalakat és kalandparkot kínál a látogatóknak.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Extreme Park Cernica",
+                  "text": "Szabadtéri kalandpark mászópályákkal és kötélpályákkal a természet lágy ölén.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mănăstirea Cernica",
+                  "text": "O celebră mănăstire ortodoxă situată pe o insulă a lacului Cernica, ctitorită în secolul XVII.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lacul Cernica",
+                  "text": "O destinație populară de agrement lângă București, potrivită pentru pescuit și plimbări cu barca.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pădurea Cernica",
+                  "text": "O zonă forestieră vastă care oferă trasee de plimbare și un parc de aventură pentru familii.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Extreme Park Cernica",
+                  "text": "Un parc de aventură în aer liber cu trasee de cățărare și tiroliene, situat în mijlocul naturii.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cernica Monastery",
+                  "text": "A famous Orthodox monastery located on an island of Lake Cernica, founded in the 17th century.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cernica Lake",
+                  "text": "A popular leisure destination near Bucharest, ideal for fishing and boat trips.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cernica Forest",
+                  "text": "A vast forested area offering walking trails and an adventure park for visitors.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Extreme Park Cernica",
+                  "text": "An outdoor adventure park with climbing courses and ziplines, set in a natural environment.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-glina-cities-v2",
@@ -2673,6 +7355,40 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Gives the name to the Bronze Age 'Glina Culture'", "Hosts the main wastewater treatment plant for Bucharest", "Comprises 3 villages: Glina, Cățelu, and Manolache", "Located near the A2 'Sun' Motorway", "Population was 9,378 in the 2021 census", "Vital industrial and infrastructure hub for the capital"],
     },
     image: "/poi-images/romania-glina-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kloster Glina",
+                  "text": "Das Kloster Glina ist eine orthodoxe Kultstätte in der Nähe von Bukarest, bekannt für seine Ruhe und Geschichte.",
+                  "category": "monastic",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Glina kolostor",
+                  "text": "A Glina kolostor egy ortodox vallási helyszín Bukarest közelében, amely nyugalmáról és történelméről ismert.",
+                  "category": "monastic",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mănăstirea Glina",
+                  "text": "Mănăstirea Glina este un lăcaș de cult ortodox situat lângă București, cunoscut pentru istoria și liniștea sa.",
+                  "category": "monastic",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Glina Monastery",
+                  "text": "Glina Monastery is an Orthodox religious site located near Bucharest, known for its spiritual history and peace.",
+                  "category": "monastic",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-berceni-cities-v2",
@@ -2706,6 +7422,40 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Named after the Hungarian noble family Bercsényi", "Settled by hussars in the early 18th century", "Connected to the Bucharest Metro via M2 line extension", "Population reached 13,766 in the 2021 census", "Located adjacent to the southern sector of the Ring Road", "Highly sought-after residential area for young families"],
     },
     image: "/poi-images/romania-berceni-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kloster Samurcășești",
+                  "text": "Ein bedeutendes Nonnenkloster in der Nähe von Berceni, bekannt für seine drei Altäre und die ruhige Atmosphäre.",
+                  "category": "monastic",
+                  "confidence": "medium"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Samurcășești-kolostor",
+                  "text": "Berceni közelében található ortodox apácakolostor, amely egyedülálló módon három oltárral rendelkezik.",
+                  "category": "monastic",
+                  "confidence": "medium"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mănăstirea Samurcășești",
+                  "text": "Situată în apropiere de Berceni, este o mănăstire de maici celebră pentru biserica sa cu trei altare, unică în țară.",
+                  "category": "monastic",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Samurcășești Monastery",
+                  "text": "A notable nunnery located near Berceni, distinguished by its church featuring three altars and serene surroundings.",
+                  "category": "monastic",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "romania-dragomiresti-vale-cities-v2",
@@ -2739,6 +7489,40 @@ export const romaniaCitiesV2: POI[] = [
       en: ["Comprises Dragomirești-Vale, Dragomirești-Deal, and Zurbaua", "Located on the left bank of the Dâmbovița River", "Major logistics hub near the A1 highway to Pitesti", "Population was 6,532 in the 2021 census", "Features the 19th-century St. Nicholas Church", "Key economic area in the western Bucharest suburbs"],
     },
     image: "/poi-images/romania-dragomiresti-vale-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kirche St. Nikolaus",
+                  "text": "Das wichtigste religiöse Gebäude im Ort, bekannt für seine klassische orthodoxe Architektur und seine Rolle in der lokalen Gemeinschaft.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szent Miklós-templom",
+                  "text": "A település központjában található vallási épület, amely a helyi közösség lelki életének és örökségének fontos helyszíne.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica Sfântul Nicolae",
+                  "text": "Principalul lăcaș de cult din localitate, un edificiu cu arhitectură tradițională ce deservește comunitatea locală de decenii.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saint Nicholas Church",
+                  "text": "The main place of worship in the village, featuring traditional architecture and serving as a spiritual center for the community.",
+                  "category": "religious",
+                  "confidence": "medium"
+            }
+      ]
+}
   },
   {
     id: "romania-crevedia-cities-v2",
@@ -2772,5 +7556,39 @@ export const romaniaCitiesV2: POI[] = [
       en: ["The commune consists of five villages: Crevedia, Cocani, Dârza, Manasia, and Samurcași.", "It is located approximately 20 kilometers northwest of the center of Bucharest.", "The Colentina River forms a series of man-made lakes used for fish farming here.", "The Samurcășești Monastery in the area was founded in 1808 by Constantin Samurcaș.", "The population reached over 7,700 inhabitants according to the 2021 census data.", "The area has been a known agricultural supply center for the capital since the 16th century."],
     },
     image: "/poi-images/romania-crevedia-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Seen von Crevedia",
+                  "text": "Die Seen von Crevedia sind ein beliebtes Ziel für Sportfischen und Erholung und bieten eine schöne Naturkulisse.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Crevedia-tavak",
+                  "text": "A Crevedia-tavak népszerű célpontok a sporthorgászat és a kikapcsolódás kedvelői számára, szép természeti környezetben.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lacurile Crevedia",
+                  "text": "Lacurile de la Crevedia sunt o destinație populară pentru pescuit sportiv și agrement, oferind peisaje naturale frumoase.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Crevedia Lakes",
+                  "text": "The Crevedia Lakes are a popular destination for sport fishing and recreation, offering beautiful natural scenery.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ]
+}
   }
 ];

@@ -46,23 +46,9 @@ const { buildPoiPath, buildStatePath, SUPPORTED_LANGS, getCountryId } = s;
 // shape now (#50 refactor) so the popup content would be missing if we used
 // `pois` from there. Heavy import is fine here — this script runs as a
 // standalone tsx process with 16 GB heap, no webpack worker constraints.
-const [
-  { pois: dePois },
-  { romaniaAllPois },
-  { hungaryAllPoi },
-  { vaticanPois, vaticanCountry },
-  { ALL_COUNTRY_POIS, ALL_DE_EXTRA_POIS },
-  { poiExtraHuV4 },
-  { poiExtraRoV1 },
-] = await Promise.all([
-  import("../lib/visualLab/data/poi"),
-  import("../lib/visualLab/data/romaniaPoi"),
-  import("../lib/visualLab/data/hungaryPoi"),
-  import("../lib/visualLab/data/vaticanPoi"),
-  import("../lib/visualLab/data/allCountryPois"),
-  import("../lib/visualLab/data/poiExtraHuV4"),
-  import("../lib/visualLab/data/poiExtraRoV1"),
-]);
+// Use the auto-generated manifest as single source of truth for all POI files.
+const { ALL_POI_SOURCES } = await import("../lib/visualLab/data/_all_poi_sources.generated");
+const { vaticanCountry } = await import("../lib/visualLab/data/vaticanPoi");
 
 // Dedup by id keeping the richest copy (matches slugs.ts dedup behaviour).
 function richness(p: any): number {
@@ -73,11 +59,7 @@ function richness(p: any): number {
   }
   return n;
 }
-const rawAll: any[] = ([] as any[]).concat(
-  dePois as any[], ALL_DE_EXTRA_POIS as any[], romaniaAllPois as any[], hungaryAllPoi as any[],
-  [vaticanCountry as any], vaticanPois as any[], ALL_COUNTRY_POIS as any[],
-  poiExtraHuV4 as any[], poiExtraRoV1 as any[],
-);
+const rawAll: any[] = (ALL_POI_SOURCES as any[]).concat([vaticanCountry as any]);
 const byId = new Map<string, any>();
 for (const p of rawAll) {
   if (!p?.id) continue;

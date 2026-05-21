@@ -14,22 +14,20 @@ const OUT = path.resolve("lib/seo/_seo-data.generated.ts");
 
 async function main() {
   console.log("[build-seo-index] importing POI sources...");
+  // Use the auto-generated manifest as the single source of truth for ALL
+  // POI files. Run `scripts/gen_poi_manifest.mts` if you've added/removed POI
+  // data files (CI does this automatically). Replaces ad-hoc 7-file imports.
+  const { ALL_POI_SOURCES } = await import("../lib/visualLab/data/_all_poi_sources.generated");
   const [
-    { pois: dePois, regions: deRegions },
-    { romaniaAllPois, romaniaRegions },
-    { hungaryAllPoi, hungaryRegions },
-    { vaticanPois, vaticanCountry },
-    { ALL_COUNTRY_POIS, ALL_DE_EXTRA_POIS },
-    { poiExtraHuV4 },
-    { poiExtraRoV1 },
+    { regions: deRegions },
+    { romaniaRegions },
+    { hungaryRegions },
+    { vaticanCountry },
   ] = await Promise.all([
     import("../lib/visualLab/data/poi"),
     import("../lib/visualLab/data/romaniaPoi"),
     import("../lib/visualLab/data/hungaryPoi"),
     import("../lib/visualLab/data/vaticanPoi"),
-    import("../lib/visualLab/data/allCountryPois"),
-    import("../lib/visualLab/data/poiExtraHuV4"),
-    import("../lib/visualLab/data/poiExtraRoV1"),
   ]);
 
   type POI = Record<string, unknown> & { id?: string; type?: string; parent?: string; coords?: number[]; image?: string; coa?: unknown; name?: Record<string, string> };
@@ -57,11 +55,7 @@ async function main() {
     return n;
   }
 
-  const allSources: POI[] = ([] as POI[]).concat(
-    dePois as POI[], ALL_DE_EXTRA_POIS as POI[], romaniaAllPois as POI[], hungaryAllPoi as POI[],
-    [vaticanCountry as POI], vaticanPois as POI[], ALL_COUNTRY_POIS as POI[],
-    poiExtraHuV4 as POI[], poiExtraRoV1 as POI[],
-  );
+  const allSources: POI[] = (ALL_POI_SOURCES as POI[]).concat([vaticanCountry as POI]);
   console.log(`[build-seo-index] raw sources: ${allSources.length}`);
 
   for (const p of allSources) {
