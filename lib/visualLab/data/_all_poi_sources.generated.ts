@@ -249,7 +249,6 @@ import * as _src_poiExtraBosniaherzegovinaNatureV2 from "./poiExtraBosniaherzego
 import * as _src_poiExtraBosniaherzegovinaReliefV2 from "./poiExtraBosniaherzegovinaReliefV2";
 import * as _src_poiExtraBotswanaCitiesV2 from "./poiExtraBotswanaCitiesV2";
 import * as _src_poiExtraBotswanaEconomicV2 from "./poiExtraBotswanaEconomicV2";
-import * as _src_poiExtraBotswanaEconomicV2_old from "./poiExtraBotswanaEconomicV2_old";
 import * as _src_poiExtraBotswanaHistoryV2 from "./poiExtraBotswanaHistoryV2";
 import * as _src_poiExtraBotswanaLandmarksV2 from "./poiExtraBotswanaLandmarksV2";
 import * as _src_poiExtraBotswanaLifeV2 from "./poiExtraBotswanaLifeV2";
@@ -1550,7 +1549,7 @@ import * as _src_vietnamPoi from "./vietnamPoi";
 import * as _src_zambiaAllPoi from "./zambiaAllPoi";
 import * as _src_zimbabweAllPoi from "./zimbabweAllPoi";
 
-export const ALL_POI_SOURCES: any[] = [
+const _raw: any[] = [
   ...((_src_albaniaPoi as any).albaniaCities as any[]),
   ...((_src_albaniaPoi as any).albaniaHistorical as any[]),
   ...((_src_albaniaPoi as any).albaniaNature as any[]),
@@ -1919,7 +1918,6 @@ export const ALL_POI_SOURCES: any[] = [
   ...((_src_poiExtraBosniaherzegovinaReliefV2 as any).bosniaherzegovinaReliefV2 as any[]),
   ...((_src_poiExtraBotswanaCitiesV2 as any).poiExtraBotswanaCitiesV2 as any[]),
   ...((_src_poiExtraBotswanaEconomicV2 as any).poiExtraBotswanaEconomicV2 as any[]),
-  ...((_src_poiExtraBotswanaEconomicV2_old as any).poiExtraBotswanaEconomicV2 as any[]),
   ...((_src_poiExtraBotswanaHistoryV2 as any).poiExtraBotswanaHistoryV2 as any[]),
   ...((_src_poiExtraBotswanaLandmarksV2 as any).poiExtraBotswanaLandmarksV2 as any[]),
   ...((_src_poiExtraBotswanaLifeV2 as any).poiExtraBotswanaLifeV2 as any[]),
@@ -3279,3 +3277,27 @@ export const ALL_POI_SOURCES: any[] = [
   ...((_src_zambiaAllPoi as any).zambiaAllPoi as any[]),
   ...((_src_zimbabweAllPoi as any).zimbabweAllPoi as any[]),
 ];
+
+// Dedup by id, keep RICHEST copy (counts description/descriptionAdvanced length
+// + sights heavily + image + factsAdvanced + faq). 119K entries → ~44K unique.
+function _richness(p: any): number {
+  let n = 0;
+  for (const L of ["de","hu","ro","en"]) {
+    n += (p?.description?.[L]?.length || 0);
+    n += (p?.descriptionAdvanced?.[L]?.length || 0);
+  }
+  if (p?.image) n += 50;
+  if (p?.sights) for (const L of ["de","hu","ro","en"]) n += ((p.sights[L]?.length || 0) * 100);
+  if (p?.nearbySights) for (const L of ["de","hu","ro","en"]) n += ((p.nearbySights[L]?.length || 0) * 100);
+  if (p?.factsAdvanced) for (const L of ["de","hu","ro","en"]) n += ((p.factsAdvanced[L]?.length || 0) * 10);
+  if (p?.faq) n += 100;
+  return n;
+}
+const _byId = new Map<string, any>();
+const _noId: any[] = [];
+for (const p of _raw) {
+  if (!p?.id) { _noId.push(p); continue; }
+  const prev = _byId.get(p.id);
+  if (!prev || _richness(p) > _richness(prev)) _byId.set(p.id, p);
+}
+export const ALL_POI_SOURCES: any[] = [..._byId.values(), ..._noId];
