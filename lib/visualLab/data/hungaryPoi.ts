@@ -1987,6 +1987,72 @@ export const hungaryCities: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Große Synagoge in der Dohánystraße",
+                  "text": "Dies ist die größte Synagoge in Europa und die zweitgrößte der Welt, erbaut im maurischen Stil mit zwei markanten Zwiebeltürmen. Der Komplex beherbergt auch das Jüdische Museum und den Garten der Gerechten unter den Völkern.",
+                  "category": "historical",
+                  "coords": [
+                        19.0594,
+                        47.4959
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Gellért-Heilbad",
+                  "text": "Dieses prächtige Jugendstil-Bad am Fuße des Gellértbergs ist berühmt für seine prunkvollen Mosaiken, bunten Glasfenster und kunstvollen Statuen. Es bietet sowohl Thermalbecken als auch ein ikonisches Wellenbad im Freien.",
+                  "category": "recreational",
+                  "coords": [
+                        19.0519,
+                        47.4841
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Ungarisches Nationalmuseum",
+                  "text": "Das im klassizistischen Stil errichtete Gebäude bewahrt die wichtigsten archäologischen und historischen Schätze Ungarns auf. Die Stufen des Museums waren 1848 ein zentraler Schauplatz der ungarischen Revolution.",
+                  "category": "historical",
+                  "coords": [
+                        19.0619,
+                        47.4912
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Haus des Terrors",
+                  "text": "Dieses Museum in der Andrássy-Straße erinnert an die Opfer der faschistischen und kommunistischen Regime in Ungarn. Es befindet sich im ehemaligen Hauptquartier der Geheimpolizei und bietet bedrückende Einblicke in die Zeitgeschichte.",
+                  "category": "historical",
+                  "coords": [
+                        19.0649,
+                        47.5068
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Burg Vajdahunyad",
+                  "text": "Das im Stadtwäldchen gelegene Schloss wurde für die Millenniumsfeierlichkeiten 1896 erbaut und vereint verschiedene Baustile Ungarns. Besonders markant ist die Kopie der Burg Hunedoara aus Siebenbürgen.",
+                  "category": "historical",
+                  "coords": [
+                        19.0822,
+                        47.5147
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Andrássy-Straße",
+                  "text": "Diese elegante Prachtstraße gehört zum UNESCO-Welterbe und verbindet die Innenstadt mit dem Heldenplatz. Sie ist gesäumt von prächtigen Villen, exklusiven Boutiquen und der historischen Millenniums-U-Bahn.",
+                  "category": "civic",
+                  "coords": [
+                        19.0617,
+                        47.505
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
             }
       ],
       "hu": [
@@ -2092,6 +2158,72 @@ export const hungaryCities: POI[] = [
                   "name": "Cipők a Duna-parton",
                   "text": "60 pár vasból öntött cipőből álló holokauszt-emlékmű, amely a folyóparton kivégzett áldozatoknak állít emléket.",
                   "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Dohány utcai zsinagóga",
+                  "text": "Európa legnagyobb és a világ második legnagyobb zsinagógája, amely mór stílusban épült két jellegzetes hagymakupolás toronnyal. A komplexum magában foglalja a Zsidó Múzeumot és az Igazak kertjét is.",
+                  "category": "historical",
+                  "coords": [
+                        19.0594,
+                        47.4959
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Gellért Gyógyfürdő",
+                  "text": "A Gellért-hegy lábánál található szecessziós fürdő híres díszes mozaikjairól, színes üvegablakairól és művészi szobrairól. Termálmedencéi mellett ikonikus szabadtéri hullámfürdővel is rendelkezik.",
+                  "category": "recreational",
+                  "coords": [
+                        19.0519,
+                        47.4841
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Magyar Nemzeti Múzeum",
+                  "text": "A klasszicista stílusú épület Magyarország legfontosabb régészeti és történelmi kincseit őrzi. A múzeum lépcsői az 1848-as forradalom egyik központi helyszínéül szolgáltak.",
+                  "category": "historical",
+                  "coords": [
+                        19.0619,
+                        47.4912
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Terror Háza Múzeum",
+                  "text": "Az Andrássy úti múzeum a magyarországi fasiszta és kommunista diktatúrák áldozatainak állít emléket. Az egykori titkosrendőrség székházában berendezett tárlat megrázó bepillantást nyújt a 20. századi történelembe.",
+                  "category": "historical",
+                  "coords": [
+                        19.0649,
+                        47.5068
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Vajdahunyad vára",
+                  "text": "A Városligetben található vár az 1896-os millenniumi ünnepségekre épült, és Magyarország különböző építészeti stílusait ötvözi. Legismertebb része az erdélyi Vajdahunyad várának másolata.",
+                  "category": "historical",
+                  "coords": [
+                        19.0822,
+                        47.5147
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Andrássy út",
+                  "text": "Az UNESCO Világörökség részét képező sugárút a belvárost köti össze a Hősök terével. Elegáns paloták, luxusüzletek és a történelmi kisföldalatti vonala szegélyezi az utat.",
+                  "category": "civic",
+                  "coords": [
+                        19.0617,
+                        47.505
+                  ],
                   "confidence": "high",
                   "source_hint": "known"
             }
@@ -2201,6 +2333,72 @@ export const hungaryCities: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Marea Sinagogă de pe strada Dohány",
+                  "text": "Aceasta este cea mai mare sinagogă din Europa și a doua din lume, construită în stil maur cu două turnuri cupolă distinctive. Complexul găzduiește și Muzeul Evreiesc și Grădina celor Drepți între Popoare.",
+                  "category": "historical",
+                  "coords": [
+                        19.0594,
+                        47.4959
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Băile Gellért",
+                  "text": "Situate la poalele dealului Gellért, aceste băi în stil Art Nouveau sunt faimoase pentru mozaicurile lor somptuoase și vitraliile colorate. Oferă atât bazine termale, cât și o piscină iconică cu valuri în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        19.0519,
+                        47.4841
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Muzeul Național Maghiar",
+                  "text": "Clădirea construită în stil neoclasic păstrează cele mai importante comori arheologice și istorice ale Ungariei. Treptele muzeului au fost un loc central al revoluției maghare din 1848.",
+                  "category": "historical",
+                  "coords": [
+                        19.0619,
+                        47.4912
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Casa Terorii",
+                  "text": "Acest muzeu de pe bulevardul Andrássy onorează memoria victimelor regimurilor fascist și comunist din Ungaria. Se află în fostul sediu al poliției secrete și oferă o perspectivă tulburătoare asupra istoriei recente.",
+                  "category": "historical",
+                  "coords": [
+                        19.0649,
+                        47.5068
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Castelul Vajdahunyad",
+                  "text": "Situat în Parcul Orașului, castelul a fost construit pentru sărbătorile mileniului din 1896 și combină diverse stiluri arhitecturale din Ungaria. Este remarcabilă copia castelului Huniazilor din Transilvania.",
+                  "category": "historical",
+                  "coords": [
+                        19.0822,
+                        47.5147
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Bulevardul Andrássy",
+                  "text": "Acest bulevard elegant face parte din patrimoniul mondial UNESCO și leagă centrul orașului de Piața Eroilor. Este mărginit de palate superbe, magazine de lux și linia istorică de metrou Millennium.",
+                  "category": "civic",
+                  "coords": [
+                        19.0617,
+                        47.505
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
             }
       ],
       "en": [
@@ -2306,6 +2504,72 @@ export const hungaryCities: POI[] = [
                   "name": "Shoes on the Danube Bank",
                   "text": "A moving memorial made of 60 pairs of iron shoes, honoring those who were executed at the riverbank during the Holocaust.",
                   "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Dohány Street Synagogue",
+                  "text": "Europe's largest and the world's second-largest synagogue, built in a stunning Moorish Revival style with twin onion-domed towers. The complex includes the Jewish Museum and the Garden of the Righteous.",
+                  "category": "historical",
+                  "coords": [
+                        19.0594,
+                        47.4959
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Gellért Thermal Bath",
+                  "text": "Located at the foot of Gellért Hill, this world-famous Art Nouveau bath features intricate mosaics, stained glass, and marble columns. It offers both indoor thermal pools and an iconic outdoor wave pool.",
+                  "category": "recreational",
+                  "coords": [
+                        19.0519,
+                        47.4841
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Hungarian National Museum",
+                  "text": "This neoclassical landmark houses Hungary's most important historical and archaeological artifacts. Its steps were a focal point of the 1848 revolution, where national poems were famously recited.",
+                  "category": "historical",
+                  "coords": [
+                        19.0619,
+                        47.4912
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "House of Terror",
+                  "text": "A memorial and museum dedicated to the victims of the fascist and communist regimes in Hungary. Housed in the former secret police headquarters, it offers a chilling look into 20th-century political history.",
+                  "category": "historical",
+                  "coords": [
+                        19.0649,
+                        47.5068
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Vajdahunyad Castle",
+                  "text": "Located in City Park, this eclectic castle was built for the 1896 Millennial Exhibition to showcase various Hungarian architectural styles. It is most famous for its replica of the Hunyad Castle in Transylvania.",
+                  "category": "historical",
+                  "coords": [
+                        19.0822,
+                        47.5147
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Andrássy Avenue",
+                  "text": "A grand UNESCO World Heritage boulevard connecting the city center with Heroes' Square. It is lined with neo-Renaissance palaces, high-end boutiques, and the historic Millennium Underground line.",
+                  "category": "civic",
+                  "coords": [
+                        19.0617,
+                        47.505
+                  ],
                   "confidence": "high",
                   "source_hint": "known"
             }
@@ -4054,6 +4318,50 @@ export const hungaryCities: POI[] = [
                         "license": "CC-BY-SA",
                         "platform": "mapillary"
                   }
+            },
+            {
+                  "name": "St. Nikolaus Wassermühle",
+                  "text": "Diese seltene, funktionstüchtige Wassermühle an der Donau zeigt die traditionelle Mehlproduktion. Besucher können das Mahlwerk und eine kleine Ausstellung besichtigen.",
+                  "category": "historical",
+                  "coords": [
+                        18.685,
+                        46.002
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "St. Rochus Kapelle",
+                  "text": "Die Kapelle wurde 1739 zum Dank für das Ende einer Pestepidemie errichtet. Sie ist ein bedeutendes barockes Baudenkmal am südlichen Rand der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        18.682,
+                        45.989
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Mohácser Fährhafen",
+                  "text": "Der geschäftige Hafen verbindet die Stadt mit der gegenüberliegenden Mohács-Insel. Es ist ein lebendiger Ort an der Donau mit Blick auf den Flussverkehr.",
+                  "category": "civic",
+                  "coords": [
+                        18.691,
+                        45.996
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Széchenyi Jugendzentrum",
+                  "text": "Dieses moderne Mehrzweckgebäude dient als kultureller Treffpunkt für Ausstellungen und Konferenzen. Es verfügt über eine große Aula und regelmäßige Programme.",
+                  "category": "civic",
+                  "coords": [
+                        18.681,
+                        45.994
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
             }
       ],
       "hu": [
@@ -4098,6 +4406,50 @@ export const hungaryCities: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Szent Miklós Vízi-taposómalom",
+                  "text": "A Duna partján található különleges, működőképes vízimalom a hagyományos őrlési technikát mutatja be. A látogatók megtekinthetik a malomszerkezetet és a kiállítást.",
+                  "category": "historical",
+                  "coords": [
+                        18.685,
+                        46.002
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Szent Rókus-kápolna",
+                  "text": "A kápolna 1739-ben épült fogadalmi emlékként a pestisjárvány megszűnésének tiszteletére. Az épület a város egyik jelentős barokk műemléke.",
+                  "category": "historical",
+                  "coords": [
+                        18.682,
+                        45.989
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Mohácsi kompkikötő",
+                  "text": "A kikötő biztosítja az összeköttetést a várost és a Mohácsi-szigetet között. A Duna-part egyik legforgalmasabb pontja, ahonnan remek kilátás nyílik a folyóra.",
+                  "category": "civic",
+                  "coords": [
+                        18.691,
+                        45.996
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Széchenyi Ifjúsági Centrum",
+                  "text": "A modern közösségi épület kiállításoknak, konferenciáknak és kulturális eseményeknek ad otthont. A belváros egyik fontos találkozóhelye.",
+                  "category": "civic",
+                  "coords": [
+                        18.681,
+                        45.994
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
             }
       ],
       "ro": [
@@ -4140,6 +4492,50 @@ export const hungaryCities: POI[] = [
                   "name": "Muzeul Kanizsai Dorottya",
                   "text": "Muzeul prezintă tradițiile populare și arta regiunii, punând un accent deosebit pe moștenirea multietnică locală.",
                   "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Moara de apă Sfântul Nicolae",
+                  "text": "Această moară de apă funcțională de pe malul Dunării prezintă tehnica tradițională de măcinare. Vizitatorii pot vedea mecanismul morii și o mică expoziție.",
+                  "category": "historical",
+                  "coords": [
+                        18.685,
+                        46.002
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Capela Sfântul Rochus",
+                  "text": "Capela a fost ridicată în 1739 ca monument votiv după încetarea epidemiei de ciumă. Este un monument baroc important situat la marginea de sud a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        18.682,
+                        45.989
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Portul de feribot Mohács",
+                  "text": "Portul asigură legătura între oraș și Insula Mohács, fiind un punct vital pe Dunăre. Oferă o priveliște frumoasă asupra traficului fluvial și a fluviului.",
+                  "category": "civic",
+                  "coords": [
+                        18.691,
+                        45.996
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Centrul de Tineret Széchenyi",
+                  "text": "Această clădire modernă servește ca punct de întâlnire cultural pentru expoziții și conferințe. Dispune de o aulă mare și găzduiește programe regulate.",
+                  "category": "civic",
+                  "coords": [
+                        18.681,
+                        45.994
+                  ],
                   "confidence": "high",
                   "source_hint": "wiki"
             }
@@ -4193,6 +4589,50 @@ export const hungaryCities: POI[] = [
                         "license": "CC-BY-SA",
                         "platform": "mapillary"
                   }
+            },
+            {
+                  "name": "St. Nicholas Water Mill",
+                  "text": "This rare, functioning water mill on the Danube bank showcases traditional flour production techniques. Visitors can tour the machinery and a small exhibition.",
+                  "category": "historical",
+                  "coords": [
+                        18.685,
+                        46.002
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "St. Roch Chapel",
+                  "text": "The chapel was built in 1739 as a votive monument after the end of a plague epidemic. It is a significant Baroque landmark on the southern edge of town.",
+                  "category": "historical",
+                  "coords": [
+                        18.682,
+                        45.989
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Mohács Ferry Port",
+                  "text": "The busy port connects the city with the Mohács Island on the opposite bank. It is a lively spot on the Danube with views of the river traffic.",
+                  "category": "civic",
+                  "coords": [
+                        18.691,
+                        45.996
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Széchenyi Youth Center",
+                  "text": "This modern multi-purpose building serves as a cultural hub for exhibitions and conferences. it features a large hall and hosts regular community programs.",
+                  "category": "civic",
+                  "coords": [
+                        18.681,
+                        45.994
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
             }
       ]
 }
@@ -5108,6 +5548,61 @@ export const hungaryCities: POI[] = [
                         "license": "CC-BY-SA",
                         "platform": "mapillary"
                   }
+            },
+            {
+                  "name": "Rathaus von Kalocsa",
+                  "text": "Das imposante Rathaus am Szentháromság-Platz wurde im neorenaissancistischen Stil erbaut und ist eines der architektonischen Wahrzeichen der Stadt.",
+                  "category": "civic",
+                  "coords": [
+                        18.9737,
+                        46.5288
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Großes Seminar (Nagyszeminárium)",
+                  "text": "Ein bedeutendes barockes Gebäude aus dem 18. Jahrhundert, das eng mit der Geschichte der Erzdiözese verknüpft ist und heute kulturelle Ausstellungen beherbergt.",
+                  "category": "historical",
+                  "coords": [
+                        18.9729,
+                        46.5295
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Szent-József-Kirche",
+                  "text": "Diese im 19. Jahrhundert errichtete Kirche befindet sich an der Hauptstraße und gehörte ursprünglich zum Kloster der Schwestern Unserer Lieben Frau.",
+                  "category": "historical",
+                  "coords": [
+                        18.9815,
+                        46.5281
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Theater von Kalocsa",
+                  "text": "Das Theatergebäude war ursprünglich eine Aula der Jesuiten und dient heute als Zentrum für kulturelle Aufführungen und Gemeinschaftsevents.",
+                  "category": "recreational",
+                  "coords": [
+                        18.9822,
+                        46.5275
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Szentháromság tér (Dreifaltigkeitsplatz)",
+                  "text": "Der zentrale Platz der Stadt, umgeben von bedeutenden Barockgebäuden, der Domfassade und verschiedenen Denkmälern.",
+                  "category": "historical",
+                  "coords": [
+                        18.9732,
+                        46.5298
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
             }
       ],
       "hu": [
@@ -5159,6 +5654,61 @@ export const hungaryCities: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Kalocsai Városháza",
+                  "text": "A Szentháromság téren álló, neoreneszánsz stílusban épült Városháza a város közigazgatási központja és egyik legszebb középülete.",
+                  "category": "civic",
+                  "coords": [
+                        18.9737,
+                        46.5288
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Nagyszeminárium",
+                  "text": "A 18. századi barokk épületegyüttes a főszékesegyház mellett található; ma az Astriceum Érseki Múzeumnak is helyet ad.",
+                  "category": "historical",
+                  "coords": [
+                        18.9729,
+                        46.5295
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Szent József-templom",
+                  "text": "A Szent István úton található templom a Miasszonyunkról nevezett Kalocsai Iskolanővérek rendjéhez tartozik, 19. századi építmény.",
+                  "category": "historical",
+                  "coords": [
+                        18.9815,
+                        46.5281
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Kalocsai Színház",
+                  "text": "Az egykori jezsuita gimnázium aulájából kialakított színházépület a város kulturális életének egyik legfontosabb helyszíne.",
+                  "category": "recreational",
+                  "coords": [
+                        18.9822,
+                        46.5275
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Szentháromság tér",
+                  "text": "Kalocsa barokk főtere, ahol a Főszékesegyház, az Érseki Palota és számos történelmi szobor látható.",
+                  "category": "historical",
+                  "coords": [
+                        18.9732,
+                        46.5298
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
             }
       ],
       "ro": [
@@ -5210,6 +5760,61 @@ export const hungaryCities: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Primăria din Kalocsa",
+                  "text": "O clădire impresionantă în stil neorenascentist situată în Piața Sfintei Treimi, reprezentând centrul administrativ al orașului.",
+                  "category": "civic",
+                  "coords": [
+                        18.9737,
+                        46.5288
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Seminarul Mare (Nagyszeminárium)",
+                  "text": "O clădire barocă monumentală din secolul al XVIII-lea, parte a ansamblului arhitectural al arhidiecezei din Kalocsa.",
+                  "category": "historical",
+                  "coords": [
+                        18.9729,
+                        46.5295
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Biserica Sfântul Iosif",
+                  "text": "Situată pe drumul principal, această biserică din secolul al XIX-lea a aparținut ordinului surorilor catolice locale.",
+                  "category": "historical",
+                  "coords": [
+                        18.9815,
+                        46.5281
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Teatrul din Kalocsa",
+                  "text": "Inițial o aulă a gimnaziului iezuit, această clădire istorică găzduiește astăzi spectacole de teatru și evenimente culturale.",
+                  "category": "recreational",
+                  "coords": [
+                        18.9822,
+                        46.5275
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Piața Sfintei Treimi",
+                  "text": "Piața centrală a orașului, renumită pentru arhitectura sa barocă unitară și monumentele istorice care o înconjoară.",
+                  "category": "historical",
+                  "coords": [
+                        18.9732,
+                        46.5298
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
             }
       ],
       "en": [
@@ -5261,6 +5866,61 @@ export const hungaryCities: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Kalocsa Town Hall",
+                  "text": "Located on the Holy Trinity Square, this Neo-Renaissance building is the administrative heart and an architectural landmark of the city.",
+                  "category": "civic",
+                  "coords": [
+                        18.9737,
+                        46.5288
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Great Seminary",
+                  "text": "A notable 18th-century Baroque building complex that served as an educational center for the archdiocese and now houses museum archives.",
+                  "category": "historical",
+                  "coords": [
+                        18.9729,
+                        46.5295
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "St. Joseph Church",
+                  "text": "This 19th-century church on Szent István Street belonged to the local Sisters of Our Lady and is a fine example of ecclesiastical architecture.",
+                  "category": "historical",
+                  "coords": [
+                        18.9815,
+                        46.5281
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Kalocsa Theater",
+                  "text": "Formerly a Jesuit gymnasium auditorium, this building was transformed into a professional theater in the early 20th century.",
+                  "category": "recreational",
+                  "coords": [
+                        18.9822,
+                        46.5275
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Holy Trinity Square",
+                  "text": "The main Baroque square of Kalocsa, featuring the Cathedral, the Archbishop's Palace, and several historic statues.",
+                  "category": "historical",
+                  "coords": [
+                        18.9732,
+                        46.5298
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
             }
       ]
 }
