@@ -25,7 +25,14 @@ export const moldovaPoi: POI[] = [
       es: ["Descubierta en el año 1970", "Segunda cueva más larga de Moldavia", "Longitud total: aprox. 1.700 metros", "Temperatura constante: 12-14°C", "El punto más profundo está a 37 metros", "Ubicada en el distrito de Criuleni"],
       pt: ["Descoberta no ano de 1970", "Segunda gruta mais longa da Moldávia", "Comprimento total: cerca de 1.700 metros", "Temperatura constante: 12-14°C", "O ponto mais profundo é de 37 metros", "Localizada no distrito de Criuleni"],
       fr: ["Découverte en 1970", "Deuxième plus longue grotte de Moldavie", "Longueur totale : env. 1 700 mètres", "Température constante : 12-14°C", "Point le plus bas à 37 mètres", "Située dans le district de Criuleni"],
-    }, image: "/poi-images/MD-026-surprise-cave.webp"},
+    }, image: "/poi-images/MD-026-surprise-cave.webp",
+    facts: {
+      de: ["Die Gesamtlänge der unterirdischen Gänge beträgt etwa 1.700 Meter.", "Die Höhle wurde erst in den 1970er Jahren von Speleologen entdeckt.", "Sie besteht aus einem komplexen Labyrinth in Kalksteinfelsen.", "In der Höhle leben verschiedene Arten von Fledermäusen unter Naturschutz."],
+      hu: ["A föld alatti járatrendszer teljes hossza megközelíti az 1700 métert.", "A barlangot csak az 1970-es években fedezték fel a kutatók.", "A járatok bonyolult labirintust alkotnak a mészkősziklák mélyén.", "A barlang több védett denevérfaj számára nyújt fontos élőhelyet."],
+      ro: ["Lungimea totală a galeriilor subterane este de aproximativ 1.700 de metri.", "Peștera a fost descoperită de speologi în anii 1970.", "Este formată dintr-un labirint complex săpat în depozite de calcar.", "Adăpostește colonii de lilieci care sunt protejate prin lege."],
+      en: ["The total length of the underground passages is approximately 1,700 meters.", "The cave was only discovered by speleologists in the 1970s.", "It consists of a complex labyrinth formed in limestone rock layers.", "The cave is an important habitat for several protected bat species."],
+    },
+  },
   {
     id: "MD-027-straseni-city",
     type: "city",
@@ -50,7 +57,14 @@ export const moldovaPoi: POI[] = [
       es: ["Primera mención en el año 1545", "Situada a 23 km de Chisinau", "Centro del distrito de Strășeni", "Adyacente a la zona forestal de Codru", "Población: aprox. 18.000 habitantes", "Importante nudo ferroviario"],
       pt: ["Primeira menção no ano de 1545", "Localizada a 23 km de Chisinau", "Centro do distrito de Strășeni", "Adjacente à área florestal de Codru", "População: cerca de 18.000 habitantes", "Importante nó ferroviário"],
       fr: ["Première mention en 1545", "Située à 23 km de Chișinău", "Chef-lieu du district de Strășeni", "Adjacente à la zone forestière de Codru", "Population : env. 18 000 habitants", "Nœud ferroviaire important"],
-    }, image: "/poi-images/MD-027-straseni-city.webp"},
+    }, image: "/poi-images/MD-027-straseni-city.webp",
+    facts: {
+      de: ["Die Stadt liegt nur etwa 23 Kilometer nordwestlich der Hauptstadt Chișinău.", "Strășeni ist ein wichtiges Zentrum der moldauischen Lebensmittelindustrie.", "Der Name der Stadt leitet sich vermutlich von einem alten rumänischen Wort für 'Wache' ab.", "Die Region um Strășeni ist berühmt für ihre hochwertigen Weiß- und Schaumweine."],
+      hu: ["A város mindössze 23 kilométerre északnyugatra fekszik a fővárostól, Kisinyovtól.", "Strășeni a moldovai élelmiszer- és feldolgozóipar egyik fontos központja.", "A település neve valószínűleg egy régi román őrhely kifejezésből ered.", "A környék híres a kiváló minőségű fehérborairól és pezsgőiről."],
+      ro: ["Orașul este situat la doar 23 de kilometri nord-vest de capitala Chișinău.", "Strășeni reprezintă un nod important al industriei alimentare din țară.", "Numele orașului provine probabil de la cuvântul 'strajă', indicând un punct de pază.", "Regiunea este celebră pentru producția de vinuri albe și spumante de calitate."],
+      en: ["The town is located just 23 kilometers northwest of the capital, Chișinău.", "Strășeni is a key center for the Moldovan food and beverage industry.", "The town's name is believed to originate from the Romanian word for 'guard'.", "The surrounding region is famous for producing high-quality white and sparkling wines."],
+    },
+  },
   {
     id: "MD-027-capriana-monastery",
     type: "historical",
@@ -74,7 +88,14 @@ export const moldovaPoi: POI[] = [
       es: ["Primera mención en el año 1429", "Fundado por Alejandro el Bueno", "Iglesia renovada en 1470 por Esteban el Grande", "Consta de tres iglesias diferentes", "Estuvo cerrado de 1962 a 1989", "Lugar de sepultura de Gavriil Bănulescu-Bodoni"],
       pt: ["Primeira menção no ano de 1429", "Fundado por Alexandre o Bom", "Igreja renovada em 1470 por Estêvão, o Grande", "Composto por três igrejas diferentes", "Esteve fechado de 1962 a 1989", "Túmulo de Gavriil Bănulescu-Bodoni"],
       fr: ["Première mention en 1429", "Fondé par Alexandre le Bon", "Église rénovée en 1470 par Étienne le Grand", "Composé de trois églises différentes", "Fermé de 1962 à 1989", "Tombeau de Gavriil Bănulescu-Bodoni"],
-    }, image: "/poi-images/MD-027-capriana-monastery.webp"},
+    }, image: "/poi-images/MD-027-capriana-monastery.webp",
+    facts: {
+      de: ["Das Kloster wurde erstmals im Jahr 1429 offiziell urkundlich erwähnt.", "Es war über Jahrhunderte ein Zentrum der moldauischen Kultur und Literatur.", "Die Anlage beherbergt drei Kirchen, darunter die Mariä-Entschlafens-Kirche.", "Der berühmte moldauische Fürst Stefan der Große war ein Gönner des Klosters."],
+      hu: ["A kolostort legelőször 1429-ben említik hivatalos oklevelek.", "Évszázadokon át a moldáv kultúra és írásbeliség egyik legfőbb központja volt.", "A komplexum három templomból áll, melyek közül a legrégebbi a 15. századi.", "III. István moldáv fejedelem (Stefan cel Mare) a kolostor nagy pártfogója volt."],
+      ro: ["Prima atestare documentară a mănăstirii datează din anul 1429.", "A fost un centru major al culturii și literaturii medievale moldovenești.", "Complexul include trei biserici, cea mai veche fiind Adormirea Maicii Domnului.", "Domnitorul Ștefan cel Mare a fost unul dintre ctitorii și protectorii mănăstirii."],
+      en: ["The monastery was first mentioned in official documents in the year 1429.", "It served as a major center for Moldovan culture and literature for centuries.", "The complex features three churches, including the 15th-century Assumption Church.", "Prince Stephen the Great was a prominent patron and builder of the site."],
+    },
+  },
   {
     id: "MD-028-anenii-noi-city",
     type: "city",
@@ -99,7 +120,14 @@ export const moldovaPoi: POI[] = [
       es: ["Primera mención en el año 1731", "Situada a 36 km al sureste de Chisinau", "Sede administrativa del distrito de Anenii Noi", "Nombre anterior: Pașcani pe Bîc", "Población con carácter multiétnico", "Cerca se encuentra la reserva de Hîrbovăț"],
       pt: ["Primeira menção no ano de 1731", "Localizada a 36 km a sudeste de Chisinau", "Sede administrativa do distrito de Anenii Noi", "Nome anterior: Pașcani pe Bîc", "População de caráter multiétnico", "Perto localiza-se a reserva de Hîrbovăț"],
       fr: ["Première mention en 1731", "Située à 36 km au sud-est de Chișinău", "Chef-lieu du district d'Anenii Noi", "Ancien nom : Pașcani pe Bîc", "Population à caractère multiethnique", "À proximité se trouve la réserve de Hîrbovăț"],
-    }, image: "/poi-images/MD-028-anenii-noi-city.webp"},
+    }, image: "/poi-images/MD-028-anenii-noi-city.webp",
+    facts: {
+      de: ["Die Stadt liegt verkehrsgünstig an der Straße zwischen Chișinău und Tighina.", "Anenii Noi wurde im Jahr 1731 zum ersten Mal in historischen Dokumenten erwähnt.", "In der Umgebung wird intensiv Landwirtschaft und Weinbau betrieben.", "Die Stadt beherbergt mehrere Denkmäler, die an die lokale Geschichte erinnern."],
+      hu: ["A város stratégiai helyen, a Kisinyov és Tighina közötti főútvonal mentén fekszik.", "A települést legelőször 1731-ben említik írott történelmi források.", "A város környékén intenzív mezőgazdasági termelés és borászat folyik.", "Anenii Noi számos emlékművel rendelkezik, melyek a helyi hősöknek állítanak emléket."],
+      ro: ["Orașul beneficiază de o poziție strategică pe ruta dintre Chișinău și Tighina.", "Localitatea a fost menționată documentar pentru prima dată în anul 1731.", "Economia zonei se bazează pe agricultură și pe industria de prelucrare a vinului.", "Orașul găzduiește mai multe monumente istorice dedicate evenimentelor locale."],
+      en: ["The town is conveniently located on the main road between Chișinău and Tighina.", "Anenii Noi was first mentioned in historical records in the year 1731.", "The surrounding area is well-known for its agriculture and wine production.", "The town features several monuments dedicated to local history and culture."],
+    },
+  },
   {
     id: "MD-028-serpeni-bridgehead",
     type: "historical",
@@ -124,7 +152,14 @@ export const moldovaPoi: POI[] = [
       es: ["Inaugurado en el año 2004", "Conmemora los combates de 1944", "Más de 11.000 soldados cayeron aquí", "El campanario central mide 15 m de alto", "Situado a orillas del río Dniéster", "Diseñado por el arquitecto Semyon Shoikhet"],
       pt: ["Inaugurado no ano de 2004", "Recorda os combates de 1944", "Mais de 11.000 soldados caíram aqui", "A torre sineira central tem 15m de altura", "Localizado nas margens do rio Dniestre", "Projetado pelo arquiteto Semyon Shoikhet"],
       fr: ["Inauguré en 2004", "Commémore les combats de 1944", "Plus de 11 000 soldats y sont tombés", "Le clocher central mesure 15 m de haut", "Situé sur les rives du Dniestr", "Conçu par l'architecte Semyon Shoikhet"],
-    }, image: "/poi-images/MD-028-serpeni-bridgehead.webp"},
+    }, image: "/poi-images/MD-028-serpeni-bridgehead.webp",
+    facts: {
+      de: ["Das Denkmal liegt auf einer Anhöhe direkt am Ufer des Flusses Dnister.", "Die Anlage wurde im Jahr 2004 zum 60. Jahrestag der Befreiung eingeweiht.", "Sie besteht aus einem zentralen Altar, einer Kapelle und einer ewigen Flamme.", "An diesem strategischen Punkt fielen im Jahr 1944 tausende Soldaten."],
+      hu: ["Az emlékpark egy magaslaton található, közvetlenül a Dnyeszter folyó partján.", "A komplexumot 2004-ben avatták fel, a felszabadulás 60. évfordulóján.", "A helyszínen egy központi oltár, egy kápolna és az örökláng látható.", "1944-ben ezen a stratégiai ponton katonák ezrei vesztették életüket."],
+      ro: ["Memorialul este situat pe un mal înalt, oferind o vedere asupra râului Nistru.", "Complexul a fost inaugurat în anul 2004, la 60 de ani de la luptele din 1944.", "Include un altar central, o capelă și o flacără veșnică a recunoștinței.", "Aici s-au purtat lupte decisive în timpul operațiunii Iași-Chișinău."],
+      en: ["The memorial is located on a high bank directly overlooking the Dniester River.", "The complex was officially opened in 2004 to mark the 60th anniversary of the battle.", "It features a central altar, a memorial chapel, and an eternal flame.", "Thousands of soldiers died at this strategic point during the 1944 offensive."],
+    },
+  },
   {
     id: "MD-029-orhei-city",
     type: "city",
@@ -149,7 +184,14 @@ export const moldovaPoi: POI[] = [
       es: ["Primera mención en el año 1470", "Catedral de San Demetrio (1631-1636)", "Situada junto al río Răut", "Población: aprox. 21.000 habitantes", "Sede de la fábrica Orhei-Vit", "Orheiland es el parque de ocio más grande"],
       pt: ["Primeira menção no ano de 1470", "Catedral de São Demétrio (1631-1636)", "Localizada no rio Răut", "População: cerca de 21.000 habitantes", "Sede da fábrica Orhei-Vit", "Orheiland é o maior parque de lazer"],
       fr: ["Première mention en 1470", "Cathédrale Saint-Démétrios (1631-1636)", "Située sur la rivière Răut", "Population : env. 21 000 habitants", "Siège de l'usine Orhei-Vit", "Orheiland est le plus grand parc de loisirs"],
-    }, image: "/poi-images/MD-029-orhei-city.webp"},
+    }, image: "/poi-images/MD-029-orhei-city.webp",
+    facts: {
+      de: ["Die Stadt liegt etwa 45 Kilometer nördlich der Hauptstadt Chișinău.", "In der Nähe befindet sich das berühmte Freilichtmuseum Orheiul Vechi.", "Orhei wurde im 15. Jahrhundert als wichtige moldauische Festung erwähnt.", "Die Stadt ist heute ein bedeutendes Industrie- und Kulturzentrum der Region."],
+      hu: ["A város körülbelül 45 kilométerre északra fekszik a fővárostól, Kisinyovtól.", "A közelben található Moldova leghíresebb régészeti lelőhelye, Orheiul Vechi.", "A települést már a 15. században fontos moldáv erődítményként említik.", "Ma a környék egyik meghatározó ipari és kulturális központja."],
+      ro: ["Orașul se află la o distanță de aproximativ 45 de kilometri nord de Chișinău.", "În apropiere se găsește complexul muzeal în aer liber Orheiul Vechi.", "A fost atestat ca o cetate moldovenească importantă în secolul al XV-lea.", "Orașul este un centru economic vibrant, cunoscut pentru diverse ramuri industriale."],
+      en: ["The town is located about 45 kilometers north of the capital, Chișinău.", "The world-famous archaeological site of Old Orhei is located nearby.", "Orhei was mentioned as a major Moldovan fortress in the 15th century.", "Today, it is a significant industrial and cultural hub for the central region."],
+    },
+  },
   {
     id: "MD-029-curchi-monastery",
     type: "historical",
@@ -174,7 +216,14 @@ export const moldovaPoi: POI[] = [
       es: ["Fundación en el año 1773", "Cúpula principal de 57 metros de altura", "Cerrado por las autoridades soviéticas en 1958", "Uso como psiquiátrico hasta 2002", "Comprende 5 iglesias diferentes", "La restauración comenzó en el año 2002"],
       pt: ["Fundação no ano de 1773", "Cúpula principal com 57 metros de altura", "Fechado pelas autoridades soviéticas em 1958", "Utilizado como psiquiatria até 2002", "Compreende 5 igrejas diferentes", "A restauração começou no ano de 2002"],
       fr: ["Fondation en 1773", "Coupole principale de 57 mètres de haut", "Fermé par les autorités soviétiques en 1958", "Utilisé comme hôpital psychiatrique jusqu'en 2002", "Comprend 5 églises différentes", "La restauration a débuté en 2002"],
-    }, image: "/poi-images/MD-029-curchi-monastery.webp"},
+    }, image: "/poi-images/MD-029-curchi-monastery.webp",
+    facts: {
+      de: ["Die Hauptkirche des Klosters wurde im prachtvollen Barockstil erbaut.", "Das Kloster wurde im Jahr 1773 von Iordache Curchi gegründet.", "Es liegt inmitten der malerischen Codru-Wälder im Bezirk Orhei.", "Die Anlage wurde in den letzten Jahren umfassend und detailgetreu restauriert."],
+      hu: ["A kolostor főtemploma a barokk stílus egyik legszebb moldovai példája.", "A vallási központot 1773-ban alapította Iordache Curchi földbirtokos.", "Az épületegyüttes az Orhei környéki festői Codru-erdők mélyén fekszik.", "Az elmúlt években a teljes komplexumot gondosan és hűen restaurálták."],
+      ro: ["Catedrala principală a mănăstirii este construită în stil baroc monumental.", "Mănăstirea a fost întemeiată în anul 1773 de către Iordache Curchi.", "Este amplasată într-un cadru natural deosebit, în pădurile din zona Orheiului.", "Întregul complex a beneficiat de lucrări ample de restaurare după anul 2000."],
+      en: ["The main cathedral of the monastery was built in a grand Baroque style.", "The monastery was founded in the year 1773 by the nobleman Iordache Curchi.", "It is situated in the middle of the scenic Codru forests near Orhei.", "The entire complex has undergone extensive and careful restoration recently."],
+    },
+  },
   {
     id: "MD-030-tiraspol-city",
     type: "city",
@@ -199,7 +248,14 @@ export const moldovaPoi: POI[] = [
       es: ["Fundada en 1792 por Suvorov", "Capital de la RSSAM (1924-1940)", "Sede de la fábrica textil Tirotex", "Situada en la orilla izquierda del Dniéster", "Población aprox. 130.000 habitantes", "Centro de la región de Transnistria"],
       pt: ["Fundada em 1792 por Suvorov", "Capital da RSSAM (1924-1940)", "Sede da fábrica têxtil Tirotex", "Situada na margem esquerda do Dniestre", "População de cerca de 130.000 habitantes", "Centro da região da Transnístria"],
       fr: ["Fondée en 1792 par Souvorov", "Capitale de la RSSAM (1924-1940)", "Siège de l'usine textile Tirotex", "Située sur la rive gauche du Dniestr", "Population env. 130 000 habitants", "Centre de la région de Transnistrie"],
-    }, image: "/poi-images/MD-030-tiraspol-city.webp"},
+    }, image: "/poi-images/MD-030-tiraspol-city.webp",
+    facts: {
+      de: ["Gegründet im Jahr 1792", "Liegt am Fluss Dnister", "Über 130.000 Einwohner", "Zentrum der Region Transnistrien"],
+      hu: ["1792-ben alapították", "A Dnyeszter folyó partján fekszik", "Lakossága kb. 130 ezer fő", "Fontos ipari központ"],
+      ro: ["Fondat în anul 1792", "Situat pe malul stâng al Nistrului", "Populație de aproximativ 130.000 locuitori", "Principalul nod feroviar regional"],
+      en: ["Founded in 1792", "Situated on the Dniester River", "Population of around 130,000", "Major regional transport hub"],
+    },
+  },
   {
     id: "MD-030-kvint-distillery",
     type: "landmark",
@@ -226,6 +282,12 @@ export const moldovaPoi: POI[] = [
       fr: ["Fondée en 1897", "20 millions de bouteilles par an", "Plus de 2 000 hectares de vignes", "Stocke des distillats jusqu'à 60 ans", "Acronyme pour les spiritueux de Tiraspol", "Plus de 200 médailles d'or internationales"],
     },
     image: "/poi-images/MD-030-kvint-distillery.webp",
+    facts: {
+      de: ["Die Brennerei wurde bereits im Jahr 1897 in Tiraspol gegründet.", "KVINT produziert jährlich über 20 Millionen Flaschen alkoholischer Getränke.", "Die hochwertigsten Brände reifen bis zu 50 Jahre lang in Eichenfässern.", "Das Unternehmen ist eines der größten Exporteure in der Region Transnistrien."],
+      hu: ["A szeszfőzdét 1897-ben alapították Tiraspol városában.", "A KVINT évente több mint 20 millió palack szeszes italt állít elő.", "A legjobb minőségű párlatokat akár 50 évig is érlelik tölgyfahordókban.", "A vállalat a Dnyeszter menti régió egyik legjelentősebb exportőre."],
+      ro: ["Fabrica a fost fondată în orașul Tiraspol în cursul anului 1897.", "KVINT produce anual peste 20 de milioane de sticle de băuturi alcoolice.", "Cele mai prețioase divinuri sunt maturate în butoaie de stejar până la 50 de ani.", "Compania este cel mai important exportator de băuturi din regiunea transnistreană."],
+      en: ["The distillery was established in the city of Tiraspol in the year 1897.", "KVINT produces over 20 million bottles of alcoholic beverages every year.", "Their finest brandies are aged in oak barrels for up to 50 years.", "The company is one of the largest exporters in the Transnistrian region."],
+    },
   },
   {
     id: "MD-031-chisinau-city",
@@ -251,7 +313,14 @@ export const moldovaPoi: POI[] = [
       es: ["Mencionada por primera vez en 1436", "Reconstrucción tras 1945 por Shchusev", "Apodada 'ciudad de piedra blanca'", "Sede de la Academia Moldava", "Parque central dedicado a Esteban el Grande", "Población de unos 530.000 en el centro"],
       pt: ["Mencionada pela primeira vez em 1436", "Reconstrução após 1945 por Shchusev", "Apelidada de 'cidade de pedra branca'", "Sede da Academia Moldava", "Parque central dedicado a Estêvão, o Grande", "População de cerca de 530.000 no centro"],
       fr: ["Mentionnée pour la première fois en 1436", "Reconstruction après 1945 par Chtchoussev", "Surnommée la « ville de pierre blanche »", "Siège de l'Académie moldave", "Parc central nommé d'après Étienne le Grand", "Population env. 530 000 au centre"],
-    }, image: "/poi-images/MD-031-chisinau-city.webp"},
+    }, image: "/poi-images/MD-031-chisinau-city.webp",
+    facts: {
+      de: ["Erstmals 1436 erwähnt", "Liegt auf sieben Hügeln", "Über 20 Quadratkilometer Grünflächen", "Sitz der Nationalbibliothek"],
+      hu: ["Első említése 1436-ból származik", "Hét dombra épült", "Híres a fehér mészkő épületeiről", "Moldova legnagyobb egyetemi városa"],
+      ro: ["Prima atestare documentară în 1436", "Orașul celor șapte coline", "Găzduiește peste 20 de parcuri", "Centrul administrativ al țării"],
+      en: ["First mentioned in 1436", "Built on seven hills", "Known as the \"White Stone City\"", "Capital of the Republic of Moldova"],
+    },
+  },
   {
     id: "MD-031-triumphal-arch",
     type: "landmark",
@@ -276,7 +345,14 @@ export const moldovaPoi: POI[] = [
       es: ["Periodo de construcción de 1840 a 1841", "La altura es exactamente de 13 metros", "Campana de 6,4 toneladas de peso", "Campana fundida con cañones capturados", "Arquitecto: Ivan Zauškevič", "Victoria sobre el Imperio otomano"],
       pt: ["Período de construção de 1840 a 1841", "A altura é de exatamente 13 metros", "Sino de 6,4 toneladas", "Sino fundido a partir de canhões capturados", "Arquiteto: Ivan Zauškevič", "Vitória sobre o Império Otomano"],
       fr: ["Construction de 1840 à 1841", "Hauteur exacte de 13 mètres", "Cloche pesant 6,4 tonnes", "Cloche fondue à partir de canons de guerre", "Architecte : Ivan Zauškevič", "Victoire sur l'Empire ottoman"],
-    }, image: "/poi-images/MD-031-triumphal-arch.webp"},
+    }, image: "/poi-images/MD-031-triumphal-arch.webp",
+    facts: {
+      de: ["Baujahr 1840", "Höhe von 13 Metern", "Architekt war Iwan Zauschkewitsch", "Beherbergt eine 6,4 Tonnen Glocke"],
+      hu: ["1840-ben épült", "13 méter magas építmény", "Iwan Zaushkevich tervezte", "Egy hatalmas rézharangot őriz"],
+      ro: ["Construit în anul 1840", "Înălțime de 13 metri", "Arhitect I. Zaușchevici", "Clopotul cântărește 6,4 tone"],
+      en: ["Completed in 1840", "Stands 13 meters tall", "Designed by I. Zaushkevich", "Houses a 6.4-ton bell"],
+    },
+  },
   {
     id: "MD-032-telenesti-city",
     type: "city",
@@ -301,7 +377,14 @@ export const moldovaPoi: POI[] = [
       es: ["Mencionada por primera vez en el s. XVII", "Sede administrativa del distrito", "Antiguo shtetl judío", "Centro de la industria alimentaria", "Situada al borde de los bosques de Codru", "Nudo de carreteras regionales"],
       pt: ["Mencionada pela primeira vez no séc. XVII", "Sede administrativa do distrito", "Antigo shtetl judaico", "Centro da indústria alimentar", "Localizada na borda das florestas de Codru", "Nó de estradas regionais"],
       fr: ["Mentionnée dès le XVIIe siècle", "Chef-lieu du district", "Ancien shtetl juif", "Centre de l'industrie alimentaire", "Située à la lisière des forêts de Codru", "Nœud routier régional"],
-    }, image: "/poi-images/MD-032-telenesti-city.webp"},
+    }, image: "/poi-images/MD-032-telenesti-city.webp",
+    facts: {
+      de: ["Erstmals 1611 erwähnt", "Zentrum des Bezirks Telenești", "Zentrale Lage in Moldau", "Wichtiger Agrarstandort"],
+      hu: ["1611-ben említik először", "Telenești járás székhelye", "Közép-Moldova területén fekszik", "Mezőgazdasági kereskedelmi központ"],
+      ro: ["Atestat documentar în 1611", "Reședința raionului Telenești", "Situat în centrul țării", "Nod rutier regional"],
+      en: ["First documented in 1611", "Telenești district seat", "Central Moldovan location", "Agricultural economic center"],
+    },
+  },
   {
     id: "MD-032-inesti-nature",
     type: "landmark",
@@ -326,7 +409,14 @@ export const moldovaPoi: POI[] = [
       es: ["Superficie total de 406 hectáreas", "Situada en el distrito de Telenești", "Protege antiguos bosques de robles", "Geología del Mioceno", "Hogar de orquídeas raras", "Parte de la cuenca del río Răut"],
       pt: ["Área total de 406 hectares", "Localizada no distrito de Telenești", "Protege florestas de carvalhos antigos", "Geologia do Mioceno", "Lar de orquídeas raras", "Parte da bacia do rio Răut"],
       fr: ["Superficie totale de 406 hectares", "Située dans le district de Telenești", "Protège de vieilles forêts de chênes", "Géologie datant du Miocène", "Abrite des orchidées rares", "Fait partie du bassin de la Răut"],
-    }, image: "/poi-images/MD-032-inesti-nature.webp"},
+    }, image: "/poi-images/MD-032-inesti-nature.webp",
+    facts: {
+      de: ["Bezirk Telenești", "Liegt am Fluss Răut", "Kalksteinfelsen vorhanden", "Geschütztes Ökosystem"],
+      hu: ["Telenești járásban található", "A Răut folyó kanyarulatai mentén", "Mészkősziklák uralják a tájat", "Védett természeti terület"],
+      ro: ["Situată în raionul Telenești", "Defileul râului Răut", "Stânci calcaroase abrupte", "Statut de monument natural"],
+      en: ["Located in Telenești district", "Răut River gorge views", "Limestone rock formations", "Protected landscape status"],
+    },
+  },
   {
     id: "MD-033-soldanesti-city",
     type: "city",
@@ -351,7 +441,14 @@ export const moldovaPoi: POI[] = [
       es: ["Centro del distrito de Șoldănești", "Conexión ferroviaria desde el s. XIX", "Situada en el valle del río Ciorna", "Conocida por el procesamiento de granos", "Cerca del búnker 'Objeto 1180'", "Centro comercial históricamente importante"],
       pt: ["Centro do distrito de Șoldănești", "Ligação ferroviária desde o séc. XIX", "Situada no vale do rio Ciorna", "Conhecida pelo processamento de cereais", "Perto do bunker 'Objeto 1180'", "Centro comercial historicamente importante"],
       fr: ["Centre du district de Șoldănești", "Liaison ferroviaire depuis le XIXe s.", "Située dans la vallée de la Ciorna", "Connue pour la transformation des céréales", "Proche du bunker 'Objet 1180'", "Centre commercial historique important"],
-    }, image: "/poi-images/MD-033-soldanesti-city.webp"},
+    }, image: "/poi-images/MD-033-soldanesti-city.webp",
+    facts: {
+      de: ["Am Fluss Ciorna gelegen", "Bedeutender Eisenbahnknoten", "Nordöstliche Region", "Hügeliges Gelände"],
+      hu: ["A Ciorna folyó partján", "Fontos vasúti csomópont", "Északkelet-Moldova", "Dombvidéki táj"],
+      ro: ["Pe malul râului Ciorna", "Nod feroviar important", "Regiunea de nord-est", "Relief deluros"],
+      en: ["Located on Ciorna River", "Key railway junction", "Northeastern region", "Hilly landscape"],
+    },
+  },
   {
     id: "MD-033-poiana-curtii",
     type: "landmark",
@@ -376,7 +473,14 @@ export const moldovaPoi: POI[] = [
       es: ["Superficie de aprox. 21 hectáreas", "Situada en el distrito de Șoldănești", "Protección de rodales de roble pubescente", "Diversidad botánica de la estepa boscosa", "Rocas calizas en la zona", "Refugio para plantas raras"],
       pt: ["Área de aprox. 21 hectares", "Localizada no distrito de Șoldănești", "Proteção de povoamentos de carvalhos-pubescentes", "Diversidade botânica da estepe florestal", "Rochas calcárias na área", "Refúgio para plantas raras"],
       fr: ["Superficie d'environ 21 hectares", "Située dans le district de Șoldănești", "Protection des chênes pubescents", "Diversité botanique de la forêt-steppe", "Rochers calcaires dans la zone", "Refuge pour plantes rares"],
-    }, image: "/poi-images/MD-033-poiana-curtii.webp"},
+    }, image: "/poi-images/MD-033-poiana-curtii.webp",
+    facts: {
+      de: ["Fläche von ca. 150 Hektar", "Sehr alter Eichenbestand", "Bezirk Șoldănești", "Naturdenkmal"],
+      hu: ["Kb. 150 hektáros terület", "Ősi tölgyfák otthona", "Șoldănești járásban fekszik", "Védett erdőrezervátum"],
+      ro: ["Suprafață de circa 150 ha", "Arbori seculari de stejar", "Raionul Șoldănești", "Monument al naturii"],
+      en: ["Area of about 150 hectares", "Ancient oak tree groves", "Șoldănești district", "Natural state monument"],
+    },
+  },
   {
     id: "MD-034-floresti-city",
     type: "city",
@@ -401,7 +505,14 @@ export const moldovaPoi: POI[] = [
       es: ["Ciudad junto al río Răut", "Centro del distrito de Florești", "Yacimientos de Cucuteni-Trypillia", "Importante nudo ferroviario", "Centro de la industria azucarera", "Puente de hierro histórico"],
       pt: ["Cidade junto ao rio Răut", "Centro do distrito de Florești", "Sítios da cultura Cucuteni-Tripolye", "Importante nó ferroviário", "Centro da indústria açucareira", "Ponte de ferro histórica"],
       fr: ["Ville au bord de la Răut", "Chef-lieu du district de Florești", "Sites de Cucuteni-Trypillia", "Nœud ferroviaire important", "Centre de l'industrie sucrière", "Pont de fer historique"],
-    }, image: "/poi-images/MD-034-floresti-city.webp"},
+    }, image: "/poi-images/MD-034-floresti-city.webp",
+    facts: {
+      de: ["Gegründet im Jahr 1588", "Liegt am Fluss Răut", "Industrielle Fabriken", "Norden von Moldau"],
+      hu: ["1588-ban alapították", "A Răut folyó mentén", "Számos ipari létesítmény", "Észak-Moldova"],
+      ro: ["Fondat în anul 1588", "Situat pe râul Răut", "Centru industrial activ", "Nordul Moldovei"],
+      en: ["Founded in 1588", "Located on Răut River", "Industrial factories hub", "Northern Moldova"],
+    },
+  },
   {
     id: "MD-034-japca-monastery",
     type: "historical",
@@ -428,6 +539,12 @@ export const moldovaPoi: POI[] = [
       fr: ["Fondé vers l'an 1693 sur les rives du Dniestr.", "Seul monastère moldave n'ayant jamais fermé à l'époque soviétique.", "Possède une église rupestre taillée dans le calcaire.", "L'église principale a été bâtie au XIXe siècle en style néoclassique.", "Abrite plusieurs sources sacrées d'eau minérale.", "Situé à environ 160 kilomètres au nord de la capitale Chișinău."],
     },
     image: "/poi-images/MD-034-japca-monastery.webp",
+    facts: {
+      de: ["Ursprung im 17. Jahrhundert", "Nie in der UdSSR geschlossen", "Nähe zum Fluss Dnister", "Dreifaltigkeitskirche"],
+      hu: ["17. századi eredet", "Sosem zárták be a Szovjetunióban", "Dnyeszter folyó közelében", "Szentháromság-templom"],
+      ro: ["Origini în secolul XVII", "Niciodată închisă de URSS", "Lângă fluviul Nistru", "Biserica Sfânta Treime"],
+      en: ["17th-century origins", "Never closed under USSR", "Near Dniester River", "Holy Trinity Church"],
+    },
   },
   {
     id: "MD-035-tipova-monastery",
@@ -453,7 +570,14 @@ export const moldovaPoi: POI[] = [
       es: ["Uno de los monasterios rupestres más grandes de Europa del Este.", "Las partes más antiguas del complejo datan del siglo VI.", "Consta de un total de 18 salas y celdas excavadas en la roca.", "Situado a una altura de unos 100 metros sobre el río Dniéster.", "En las cercanías hay varias cascadas de hasta 16 metros de altura.", "Fue reabierto en 1994 tras un periodo de abandono."],
       pt: ["Um dos maiores mosteiros rupestres da Europa de Leste.", "As partes mais antigas do complexo datam do século VI.", "Composto por um total de 18 salas e celas escavadas na rocha.", "Localizado a uma altitude de cerca de 100 metros acima do rio Dniester.", "Nas proximidades encontram-se várias cascatas com até 16 metros de altura.", "Foi reaberto em 1994 após um período de abandono."],
       fr: ["L'un des plus grands monastères troglodytiques d'Europe de l'Est.", "Les parties les plus anciennes du site remontent au VIe siècle.", "Comprend un total de 18 pièces et cellules taillées dans la roche.", "Situé à une altitude d'environ 100 mètres au-dessus du Dniestr.", "On trouve à proximité plusieurs cascades atteignant 16 mètres de haut.", "A rouvert ses portes en 1994 après une période d'abandon."],
-    }, image: "/poi-images/MD-035-tipova-monastery.webp"},
+    }, image: "/poi-images/MD-035-tipova-monastery.webp",
+    facts: {
+      de: ["Gegründet im 11. Jahrhundert", "Über 15 Höhlenzellen", "100 Meter über dem Fluss", "Orthodoxer Pilgerort"],
+      hu: ["11. századi alapítás", "Több mint 15 barlangcella", "100 méterrel a folyó felett", "Ortodox zarándokhely"],
+      ro: ["Fondată în secolul XI", "Peste 15 chilii rupestre", "100 m deasupra Nistrului", "Complex monahal ortodox"],
+      en: ["Founded in 11th century", "Over 15 cave cells", "100m above the river", "Orthodox pilgrimage site"],
+    },
+  },
   {
     id: "MD-035-horodiste-village",
     type: "landmark",
@@ -478,5 +602,12 @@ export const moldovaPoi: POI[] = [
       es: ["Situado en el distrito de Rezina, en el noreste de Moldavia.", "Conocido por una quesería local que utiliza recetas francesas.", "En los alrededores se encuentran restos de antiguas fortalezas tracias.", "El pueblo forma parte de una gran red de senderos ecológicos.", "La región alberga más de 20 cascadas pequeñas y grandes.", "Sede habitual de festivales culturales y ecológicos."],
       pt: ["Localizada no distrito de Rezina, no nordeste da República da Moldávia.", "Conhecida por uma queijaria local que utiliza receitas francesas.", "Nas proximidades encontram-se vestígios de antigas fortalezas trácias.", "A aldeia faz parte de uma grande rede de trilhos ecológicos.", "A região alberga mais de 20 cascatas de vários tamanhos.", "Local habitual de festivais culturais e ecológicos."],
       fr: ["Situé dans le district de Rezina, au nord-est de la République de Moldavie.", "Réputé pour sa fromagerie locale utilisant des recettes françaises.", "On trouve aux alentours des vestiges d'anciennes forteresses thraces.", "Le village fait partie d'un vaste réseau de sentiers de randonnée écologiques.", "La région abrite plus de 20 cascades de tailles diverses.", "Lieu d'accueil régulier de festivals culturels et écologiques."],
-    }, image: "/poi-images/MD-035-horodiste-village.webp"}
+    }, image: "/poi-images/MD-035-horodiste-village.webp",
+    facts: {
+      de: ["Bezirk Rezina", "Höhlenkloster Țipova nah", "Saharna-Wasserfälle", "Dakische Ruinen"],
+      hu: ["Rezina járásban található", "Țipova kolostor közelében", "Saharna folyó vízesései", "Dák és géta emlékek"],
+      ro: ["Raionul Rezina", "Lângă complexul Țipova", "Cascadele râului Saharna", "Vestigii daco-getice"],
+      en: ["Rezina district location", "Near Țipova complex", "Saharna River waterfalls", "Daco-Getic remains"],
+    },
+  }
 ];

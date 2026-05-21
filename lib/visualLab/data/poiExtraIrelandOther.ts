@@ -22,7 +22,14 @@ export const poiExtraIrelandOther: POI[] = [
       hu: ["Az állatkert 2006-ban nyitotta meg hivatalosan kapuit.", "Több mint 50 különböző állatfajt mutatnak be az intézményben.", "Ez Írország egyetlen specializált hüllőállatkertje.", "James Hennessy, az alapító, ismert állatszakértő.", "Az állatkert mobil oktatási programot is működtet iskolák számára.", "Speciális tenyésztési programok segítik a veszélyeztetett fajok megőrzését."],
       ro: ["Grădina zoologică a fost deschisă oficial în anul 2006.", "Sunt prezentate peste 50 de specii diferite de animale.", "Aceasta este singura grădină zoologică de reptile din Irlanda.", "James Hennessy, fondatorul, este un cunoscut expert în animale.", "Grădina operează un program educațional mobil pentru școli.", "Programe speciale de reproducere ajută la conservarea speciilor."],
       en: ["The zoo was officially opened to the public in 2006.", "More than 50 different animal species are on display.", "It is Ireland's only specialised reptile-focused zoo.", "James Hennessy, the founder, is a well-known animal expert.", "The zoo operates a mobile educational programme for schools.", "Specific breeding programmes assist in conserving endangered species."],
-    }, image: "/poi-images/animal-habitat-national-reptile-extra.webp"},
+    }, image: "/poi-images/animal-habitat-national-reptile-extra.webp",
+    facts: {
+      de: ["Sitz in Kilkenny City", "Über 50 verschiedene Arten", "Fokus auf Naturschutzbildung", "Ganzjährig geöffnet"],
+      hu: ["Kilkenny városában székel", "Több mint 50 hüllőfaj látható", "Természetvédelmi oktatási központ", "Egész évben látogatható"],
+      ro: ["Locație în orașul Kilkenny", "Peste 50 de specii expuse", "Centru de educație ecologică", "Deschis pe tot parcursul anului"],
+      en: ["Located in Kilkenny City", "Features over 50 species", "Focus on conservation education", "Open to public all year round"],
+    },
+  },
   {
     id: "animal-habitat-secret-valley-extra", type: "animal-habitat", parent: "IE", coords: [-6.7725, 52.3456],
     name: { de: "Secret Valley Wildlife", hu: "Secret Valley Vadaspark", ro: "Secret Valley Wildlife", en: "Secret Valley Wildlife" },
@@ -45,5 +52,11 @@ export const poiExtraIrelandOther: POI[] = [
       en: ["The park was officially established in the year 2007.", "The site covers a total area of approximately 14 acres.", "More than 40 different animal species are housed in the park.", "The park has won the 'Wexford Business Award' multiple times.", "Ann O'Connor is the founder and managing director.", "Visitors can participate in activities such as goat feeding."],
     },
     image: "/poi-images/animal-habitat-secret-valley-extra.webp",
+    facts: {
+      de: ["In Clonroche, Co. Wexford", "Gegründet im Jahr 2007", "Fläche von ca. 14 Hektar", "Besucher dürfen Tiere füttern"],
+      hu: ["Clonroche faluban található", "2007-ben nyitotta meg kapuit", "14 hektáros területen fekszik", "Interaktív állatetetési programok"],
+      ro: ["Situat în Clonroche, Wexford", "Fondat în anul 2007", "Suprafață de 14 hectare", "Activități de hrănire a animalelor"],
+      en: ["Located in Clonroche, Wexford", "Established in 2007", "Spans over 14 acres of land", "Offers hands-on animal encounters"],
+    },
   }
 ];

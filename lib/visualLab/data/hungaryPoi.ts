@@ -77,6 +77,12 @@ export const hungaryCountry: POI[] = [
         "Hungary joined the European Union in 2004."
       ]
     },
+    factsAdvanced: {
+      de: ["Ungarn hat eine Fläche von etwa 93.030 Quadratkilometern.", "Der Balaton ist der größte See Mitteleuropas.", "Budapest entstand 1873 durch die Zusammenlegung von Buda, Pest und Óbuda.", "Der Tokajer Wein war das erste Weinbaugebiet der Welt mit geschützter Herkunftsbezeichnung.", "Ungarn verfügt über eines der größten Netze an Thermalbädern in Europa.", "Die höchste Erhebung des Landes ist der Kékes mit 1014 Metern."],
+      hu: ["Magyarország területe körülbelül 93 030 négyzetkilométer.", "A Balaton Közép-Európa legnagyobb tava.", "Budapest 1873-ban jött létre Buda, Pest és Óbuda egyesítésével.", "A Tokaji borvidék volt a világ első zárt borvidéke (1737).", "Magyarország Európa egyik legnagyobb termálfürdő-hálózatával rendelkezik.", "Az ország legmagasabb pontja a Kékes-tető, 1014 méterrel."],
+      ro: ["Ungaria are o suprafață de aproximativ 93.030 de kilometri pătrați.", "Lacul Balaton este cel mai mare lac din Europa Centrală.", "Budapesta s-a format în 1873 prin fuziunea orașelor Buda, Pesta și Óbuda.", "Regiunea viticolă Tokaj a fost prima din lume cu denumire de origine controlată.", "Ungaria deține una dintre cele mai mari rețele de băi termale din Europa.", "Cea mai înaltă cotă a țării este vârful Kékes, având 1014 metri."],
+      en: ["Hungary has an area of approximately 93,030 square kilometers.", "Lake Balaton is the largest lake in Central Europe.", "Budapest was formed in 1873 through the merger of Buda, Pest, and Óbuda.", "The Tokaj wine region was the world's first wine region with a protected designation of origin.", "Hungary possesses one of the largest networks of thermal baths in Europe.", "The country's highest elevation is Kékes at 1,014 meters."],
+    },
   },
 ];
 

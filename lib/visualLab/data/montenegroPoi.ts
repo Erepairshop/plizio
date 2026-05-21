@@ -36,6 +36,12 @@ export const montenegroAllPoi: POI[] = [
       pt: ["O pico mais alto em Montenegro é o Maja Kolata (2.534 m).", "O parque nacional montenegrino foi fundado no ano de 2009.", "Abriga espécies animais raras, como o urso pardo e o lince.", "O nome 'Prokletije' significa 'os Malditos'.", "Existem mais de 50 picos de montanha com mais de 2.000 metros.", "A região é considerada a cordilheira com maior pluviosidade nos Balcãs."],
       fr: ["Le point culminant au Monténégro est le Maja Kolata (2 534 m).", "Le parc national monténégrin a été fondé en 2009.", "Il abrite des espèces animales rares comme l'ours brun et le lynx.", "Le nom 'Prokletije' signifie 'les Maudits'.", "On y trouve plus de 50 sommets dépassant les 2 000 mètres.", "La région est considérée comme la chaîne de montagnes la plus pluvieuse des Balkans."],
     },
+    facts: {
+      de: ["Der Maja Kolata ist mit 2.534 Metern der höchste Gipfel Montenegros.", "Die Prokletije wurden im Jahr 2009 zum Nationalpark erklärt.", "Das Massiv beherbergt die südlichsten Gletscher Europas.", "Die Region ist bekannt für ihre schroffen Kalksteinformationen und tiefen Täler."],
+      hu: ["A hegység legmagasabb pontja a 2534 méteres Maja Kolata csúcs.", "A terület 2009-ben kapta meg a nemzeti parki minősítést.", "Itt találhatóak Európa legdélebbi fekvésű apró gleccsermaradványai.", "A név 'átkozottat' jelent, ami a járhatatlan, meredek sziklákra utal."],
+      ro: ["Cel mai înalt vârf din Muntenegru, Maja Kolata (2.534 m), se află aici.", "Parcul Național Prokletije a fost înființat oficial în anul 2009.", "Munții fac parte din lanțul Alpilor Dinarici, având relief glaciar.", "Regiunea este habitatul ideal pentru urși, lupi și capre negre."],
+      en: ["Maja Kolata is the highest summit in Montenegro, standing at 2,534 meters.", "The Montenegrin portion of the range became a national park in 2009.", "The mountains are characterized by dramatic karst and glacial topography.", "The range contains some of the last remaining glaciers in the Balkans."],
+    },
   },
   {
     id: "me-bay-kotor",
@@ -69,6 +75,12 @@ export const montenegroAllPoi: POI[] = [
       es: ["La bahía tiene unos 28 kilómetros de largo.", "Pertenece al Patrimonio Natural y Cultural de la Humanidad por la UNESCO desde 1979.", "Consta de cuatro cuencas parciales conectadas entre sí.", "Las murallas de la ciudad de Kotor tienen un total de 4,5 kilómetros de longitud.", "La localidad de Crkvice es considerada el punto más lluvioso de Europa.", "Perast fue una vez un importante centro de navegación."],
       pt: ["A baía tem cerca de 28 quilómetros de extensão.", "Faz parte do Património Mundial Natural e Cultural da UNESCO desde 1979.", "É composta por quatro bacias parciais interligadas.", "As muralhas da cidade de Kotor têm um total de 4,5 quilómetros de comprimento.", "A localidade de Crkvice é considerada o ponto mais chuvoso da Europa.", "Perast foi outrora um importante centro de navegação marítima."],
       fr: ["La baie est longue d'environ 28 kilomètres.", "Inscrite au patrimoine mondial naturel et culturel de l'UNESCO depuis 1979.", "Composée de quatre bassins reliés entre eux.", "Les remparts de Kotor mesurent au total 4,5 kilomètres de long.", "Le village de Crkvice est considéré comme le point le plus pluvieux d'Europe.", "Perast fut autrefois un centre maritime majeur."],
+    },
+    facts: {
+      de: ["Die Bucht wird oft fälschlicherweise als südlichster Fjord Europas bezeichnet.", "Sie besteht aus vier Teilbecken: Herceg Novi, Tivat, Risan und Kotor.", "Die Gesamtlänge der Küstenlinie in der Bucht beträgt etwa 107 Kilometer.", "Die Region ist seit dem Jahr 1979 Teil des UNESCO-Weltkulturerbes."],
+      hu: ["Az öböl partvonala összesen körülbelül 107 kilométer hosszú.", "Négy kisebb öböl alkotja: a Herceg Novi-i, a Tivati, a Risani és a Kotori.", "Gyakran nevezik Európa legdélebbi fjordjának, bár geológiailag egy folyóvölgy.", "A terület 1979 óta élvez UNESCO világörökségi védelmet."],
+      ro: ["Linia de coastă a golfului se întinde pe o lungime totală de 107 km.", "Este format din bazinele Herceg Novi, Tivat, Risan și Kotor.", "Munții Orjen și Lovćen se ridică aproape vertical din apele golfului.", "Regiunea este locuită încă din antichitate, având numeroase situri romane."],
+      en: ["The bay consists of four smaller basins connected by narrow straits.", "It features a total coastline length of approximately 107 kilometers.", "The bay was inscribed on the UNESCO World Heritage list in 1979.", "Geologically, it is a submerged river canyon rather than a true glacial fjord."],
     },
   },
   {
@@ -104,6 +116,12 @@ export const montenegroAllPoi: POI[] = [
       pt: ["Fundado no século XV como uma aldeia piscatória fortificada.", "Foi inaugurado oficialmente como um resort hoteleiro exclusivo em 1957.", "A ilha abriga três igrejas históricas.", "Situado a cerca de 6 quilómetros a sudeste da cidade de Budva.", "Hóspedes famosos incluíram Sophia Loren e Elizabeth Taylor.", "A praia adjacente 'Kraljičina plaža' é considerada uma das mais belas do país."],
       fr: ["Fondé au XVe siècle en tant que village de pêcheurs fortifié.", "Ouvert officiellement comme complexe hôtelier exclusif en 1957.", "L'île abrite trois églises historiques.", "Situé à environ 6 kilomètres au sud-est de la ville de Budva.", "Des hôtes célèbres comme Sophia Loren et Elizabeth Taylor y ont séjourné.", "La plage adjacente 'Kraljičina plaža' est considérée comme l'une des plus belles du pays."],
     },
+    facts: {
+      de: ["Die Insel wurde im 15. Jahrhundert als befestigtes Dorf gegen Piraten gegründet.", "Sie ist durch einen schmalen natürlichen Tombolo mit dem Festland verbunden.", "In den 1960er Jahren wurde die Insel in ein Luxushotel umgewandelt.", "Berühmte Gäste wie Elizabeth Taylor und Sophia Loren residierten bereits hier."],
+      hu: ["A szigetet a 15. században erődítették meg a kalóztámadások ellen.", "A szárazfölddel egy vékony, természetes homokpad (tombolo) köti össze.", "Az 1950-es években az egész falut szállodakomplexummá alakították.", "A szigeten három kis ortodox templom is található a házak között."],
+      ro: ["Insula a fost fortificată în secolul al XV-lea de familia nobiliară Paštrovići.", "Este legată de țărm printr-un istm îngust format prin depunere de nisip.", "Transformarea în hotel de lux a fost finalizată în anul 1960.", "Stațiunea a fost declarată cel mai bun hotel din lume în anul 1972."],
+      en: ["The village was established in the 15th century as a refuge from pirates.", "It is connected to the mainland by a narrow natural causeway or tombolo.", "The island was converted into a luxury hotel village in the late 1950s.", "There are 80 stone houses and 3 churches preserved on the island."],
+    },
   },
   {
     id: "me-ada-bojana",
@@ -138,6 +156,12 @@ export const montenegroAllPoi: POI[] = [
       pt: ["A ilha cobre uma área de cerca de 4,9 quilómetros quadrados.", "Surgiu em 1848 após o naufrágio do navio 'Merito'.", "A praia de areia é conhecida pelo seu alto teor de iodo.", "Abriga um conhecido resort de nudismo desde 1973.", "Mais de 250 espécies diferentes de aves foram registadas aqui.", "A ilha está ligada ao continente por uma ponte."],
       fr: ["L'île s'étend sur une superficie d'environ 4,9 kilomètres carrés.", "Elle s'est formée en 1848 après le naufrage du navire « Merito ».", "La plage de sable est connue pour sa teneur élevée en iode.", "Elle abrite un centre naturiste réputé depuis 1973.", "Plus de 250 espèces d'oiseaux différentes y ont été recensées.", "L'île est reliée au continent par un pont."],
     },
+    facts: {
+      de: ["Die Insel entstand im 19. Jahrhundert durch ein Schiffswrack und Schlammablagerungen.", "Sie erstreckt sich über eine Fläche von etwa 4,8 Quadratkilometern.", "Ada Bojana ist auf zwei Seiten von Flusswasser und auf einer von der Adria umgeben.", "Die Region gilt als eines der besten Gebiete für Kitesurfen in Europa."],
+      hu: ["A sziget a 19. században jött létre egy hajóroncs körüli hordaléklerakódásból.", "Területe körülbelül 4,8 négyzetkilométer, és Ulcinj közelében található.", "Ez Montenegró legnépszerűbb naturista üdülőhelye már az 1970-es évek óta.", "A folyóparton jellegzetes cölöpökön álló halászkunyhók és éttermek sorakoznak."],
+      ro: ["Insula s-a format natural în 1848 în jurul epavei navei 'Merito'.", "Suprafața totală a insulei este de aproximativ 480 de hectare.", "Este delimitată de două brațe ale râului Bojana și de Marea Adriatică.", "Vânturile constante fac din această locație un paradis pentru kitesurfing."],
+      en: ["The island was formed in 1848 after a ship sank and silt accumulated around it.", "It covers 4.8 square kilometers and is located near the Albanian border.", "The island is famous for its FKK (nudist) resort established in 1973.", "Wooden stilt houses called 'sojenice' line the river banks of Ada Bojana."],
+    },
   },
   {
     id: "me-black-lake",
@@ -171,6 +195,12 @@ export const montenegroAllPoi: POI[] = [
       es: ["Situado a 1416 metros de altitud en el Parque Nacional Durmitor.", "Consta de dos partes: Veliko y Malo jezero.", "La profundidad máxima del Pequeño Lago es de 49 metros.", "El lago está rodeado por un sendero de 3,5 kilómetros.", "Cerca se encuentra la ciudad de Žabljak, la más alta de los Balcanes.", "El agua proviene de numerosos arroyos glaciares y manantiales."],
       pt: ["Situado a 1416 metros de altitude no Parque Nacional Durmitor.", "Consiste em duas partes: Veliko e Malo jezero.", "A profundidade máxima do Lago Pequeno é de 49 metros.", "O lago está rodeado por um trilho de caminhada de 3,5 quilómetros.", "Nas proximidades fica a cidade de Žabljak, a mais alta dos Balcãs.", "A água provém de numerosas ribeiras glaciares e nascentes."],
       fr: ["Situé à 1 416 mètres d'altitude dans le parc national de Durmitor.", "Composé de deux parties : Veliko et Malo jezero.", "La profondeur maximale du Petit Lac est de 49 mètres.", "Le lac est entouré d'un sentier de randonnée de 3,5 kilomètres.", "La ville de Žabljak, la plus haute des Balkans, se trouve à proximité.", "L'eau provient de nombreux ruisseaux glaciaires et sources."],
+    },
+    facts: {
+      de: ["Der See liegt auf einer Höhe von 1.416 Metern über dem Meeresspiegel.", "Er besteht aus zwei kleineren Seen, dem Großen und dem Kleinen See.", "Im Sommer erwärmt sich das Wasser an der Oberfläche auf bis zu 22 Grad.", "Der See wird durch Schmelzwasser vom Berg Medjed gespeist."],
+      hu: ["A tó 1416 méteres tengerszint feletti magasságban helyezkedik el.", "Valójában két kisebb tóból áll, amelyeket egy keskeny csatorna köt össze.", "A tó legmélyebb pontja a kis medencében eléri a 49 métert.", "A vizet a Medjed-hegyről lezúduló patakok és források táplálják."],
+      ro: ["Lacul este situat la o altitudine de 1.416 metri în masivul Durmitor.", "Este compus din două bazine: Lacul Mare și Lacul Mic, unite printr-un canal.", "Adâncimea maximă a lacului atinge 49 de metri în partea mai mică.", "O potecă de promenadă de 3,5 km înconjoară întreg perimetrul lacului."],
+      en: ["The lake is situated at an elevation of 1,416 meters above sea level.", "It is formed by two connected bodies: the Big Lake and the Small Lake.", "The maximum depth of the Small Lake reaches about 49 meters.", "A popular 3.5-kilometer walking trail circles the entire shoreline."],
     },
   },
   // HISTORY / LANDMARKS
@@ -207,6 +237,12 @@ export const montenegroAllPoi: POI[] = [
       pt: ["Ano de construção: 1853 a 1860", "Diâmetro da fortaleza: 200 metros", "Construtor: General Lazarus von Mamula", "Uso como prisão na Segunda Guerra Mundial a partir de 1942", "Localização na ilha Lastavica", "Parte do sistema de defesa da baía de Kotor"],
       fr: ["Années de construction : 1853 à 1860", "Diamètre de la forteresse : 200 mètres", "Constructeur : Général Lazarus von Mamula", "Utilisation comme prison pendant la Seconde Guerre mondiale dès 1942", "Situé sur l'île de Lastavica", "Fait partie du système défensif des bouches de Kotor"],
     },
+    facts: {
+      de: ["Die Festung wurde 1853 vom österreichischen General Lazar Mamula errichtet.", "Die Insel hat einen Durchmesser von etwa 200 Metern.", "Während der beiden Weltkriege diente die Anlage als Internierungslager.", "Heute wurde die historische Festung in ein luxuriöses Hotelresort umgewandelt."],
+      hu: ["Az erődöt 1853-ban építtette Lazar Mamula osztrák tábornok.", "A sziget átmérője mindössze körülbelül 200 méter.", "A két világháború alatt az építményt koncentrációs tábornak is használták.", "A közelmúltban az erődöt luxusszállodává és üdülőhellyé alakították át."],
+      ro: ["Fortăreața a fost ridicată în 1853 de generalul austriac Lazar Mamula.", "Insula este circulară și are un diametru de aproximativ 200 de metri.", "În timpul celui de-al Doilea Război Mondial, aici a funcționat o închisoare.", "Monumentul istoric a fost recent transformat într-un hotel de lux."],
+      en: ["The fortress was commissioned in 1853 by Austrian General Lazar Mamula.", "The island occupies a strategic position at the entrance of the Boka Bay.", "It was used as a prison during both WWI and WWII by occupying forces.", "The structure has been recently redeveloped into a high-end boutique hotel."],
+    },
   },
   {
     id: "me-san-giovanni",
@@ -241,6 +277,12 @@ export const montenegroAllPoi: POI[] = [
       pt: ["Altitude: 280 metros acima do nível do mar", "Número de degraus: aprox. 1.350", "Comprimento das muralhas da cidade: 4,5 quilómetros", "Património Mundial da UNESCO desde 2017", "Período de construção: século IX ao XIX", "Danos graves causados pelo sismo de 1979"],
       fr: ["Altitude : 280 mètres au-dessus du niveau de la mer", "Nombre de marches : environ 1 350", "Longueur des remparts : 4,5 kilomètres", "Patrimoine mondial de l'UNESCO depuis 2017", "Période de construction : du IXe au XIXe siècle", "Dommages importants dus au séisme de 1979"],
     },
+    facts: {
+      de: ["Um den Gipfel zu erreichen, müssen Besucher etwa 1.350 Stufen erklimmen.", "Die Festungsanlagen erstrecken sich über eine Länge von insgesamt 4,5 Kilometern.", "Die Mauern sind an manchen Stellen bis zu 15 Meter dick.", "Die heutige Struktur stammt größtenteils aus der venezianischen Zeit."],
+      hu: ["A várfalak mentén pontosan 1350 lépcsőfok vezet fel a felső erődbe.", "A védelmi rendszer teljes hossza megközelíti a 4,5 kilométert.", "Az erődítmény legmagasabb pontja 280 méterrel van a tengerszint felett.", "A falak építése a 9. században kezdődött és a 15. századra fejeződött be."],
+      ro: ["Vizitatorii trebuie să urce aproximativ 1.350 de trepte pentru a ajunge în vârf.", "Zidurile de apărare au o lungime totală de 4,5 kilometri pe panta muntelui.", "Fortificația este situată la o altitudine de 280 de metri deasupra mării.", "Sistemul defensiv face parte din patrimoniul mondial UNESCO din 2017."],
+      en: ["The climb to the top involves ascending approximately 1,350 stone steps.", "The defensive walls of Kotor stretch for a total of 4.5 kilometers.", "The fortress sits at an elevation of 280 meters above the Adriatic Sea.", "Construction of the walls began in the 9th century and continued for 1,000 years."],
+    },
   },
   {
     id: "me-djurdjevica-tara",
@@ -274,6 +316,12 @@ export const montenegroAllPoi: POI[] = [
       es: ["Tiempo de construcción: 1937 a 1940", "Altura máxima sobre el río: 172 metros", "Longitud total: 365 metros", "Luz del arco más grande: 116 metros", "Destrucción de un arco: 1942 por partisanos", "Reconstrucción después de la guerra: 1946"],
       pt: ["Tempo de construção: 1937 a 1940", "Altura máxima acima do rio: 172 metros", "Comprimento total: 365 metros", "Maior vão do arco: 116 metros", "Destruição de um arco: 1942 por guerrilheiros", "Reconstrução após a guerra: 1946"],
       fr: ["Durée des travaux : 1937 à 1940", "Hauteur maximale au-dessus de la rivière : 172 mètres", "Longueur totale : 365 mètres", "Plus grande portée d'arche : 116 mètres", "Destruction d'une arche : 1942 par les partisans", "Reconstruction après la guerre : 1946"],
+    },
+    facts: {
+      de: ["Die Brücke wurde zwischen 1937 und 1940 im Königreich Jugoslawien erbaut.", "Sie besteht aus fünf Bögen und hat eine Gesamtlänge von 365 Metern.", "Die Fahrbahn befindet sich 172 Meter über dem Wasserspiegel der Tara.", "Im Zweiten Weltkrieg wurde der größte Bogen gesprengt, um den Feind aufzuhalten."],
+      hu: ["A hidat 1937 és 1940 között építették fel a Jugoszláv Királyság idején.", "A szerkezet öt ívből áll, teljes hossza pedig 365 méter.", "Az úttest 172 méteres magasságban húzódik a Tara folyó felett.", "1942-ben a partizánok felrobbantották egyik ívét, hogy megállítsák az olaszokat."],
+      ro: ["Construcția podului a fost finalizată în anul 1940, după trei ani de muncă.", "Structura are cinci arcade și o lungime totală de 365 de metri.", "Înălțimea podului față de fundul albiei râului Tara este de 172 de metri.", "Podul a fost parțial distrus în 1942 pentru a bloca avansul trupelor inamice."],
+      en: ["The bridge was built between 1937 and 1940 designed by Mijat Trojanović.", "It features five arches and spans a total length of 365 meters.", "The highest point of the bridge is 172 meters above the Tara River.", "It is a popular spot for ziplining and bungee jumping across the canyon."],
     },
   },
   {
@@ -310,6 +358,12 @@ export const montenegroAllPoi: POI[] = [
       fr: ["Année de construction du monastère actuel : 1701 à 1704", "Siège des métropolites du Monténégro", "Possède la relique de la main de Jean le Baptiste", "Fondateur : Métropolite Danilo Ier Petrović", "Abrite des fragments de la Vraie Croix", "Lieu de couronnement de nombreux souverains monténégrins"],
     },
     image: "/poi-images/me-cetinje-monastery.webp",
+    facts: {
+      de: ["Das heutige Klostergebäude wurde zwischen 1701 und 1704 errichtet.", "Hier werden die rechte Hand von Johannes dem Täufer aufbewahrt.", "Ein Splitter des Wahren Kreuzes Jesu Christi zählt zu den Schätzen.", "Das Kloster diente jahrhundertelang als Sitz der montenegrinischen Metropoliten."],
+      hu: ["A jelenlegi kolostorépületet 1701 és 1704 között emelte Danilo fejedelem.", "Itt őrzik Keresztelő Szent János jobb kezét mint szent ereklyét.", "A kolostor kincstárában található a Szent Kereszt egy darabja is.", "A templom az Istenszülő születésének (Kisboldogasszony) van szentelve."],
+      ro: ["Actuala mănăstire a fost construită de către episcopul Danilo în 1701.", "Adăpostește mâna dreaptă a Sfântului Ioan Botezătorul, adusă din Malta.", "În interior se află moaștele Sfântului Petru de Cetinje, ocrotitorul țării.", "Mănăstirea deține primele cărți tipărite în chirilică din secolul al XV-lea."],
+      en: ["The current structure was rebuilt by Prince-Bishop Danilo between 1701 and 1704.", "It houses the right hand of St. John the Baptist in its treasury.", "A fragment of the True Cross is among the holy relics kept here.", "The monastery was the seat of the Montenegrin rulers for several centuries."],
+    },
   },
   {
     id: "me-moraca-monastery",
@@ -343,6 +397,12 @@ export const montenegroAllPoi: POI[] = [
       es: ["Año de fundación: 1252", "Fundador: Stefan Vukanović Nemanjić", "Estilo: Escuela de Raška", "Fresco más importante: 'El cuervo alimentando al profeta Elías'", "Situación en el cañón del río Morača", "Renovación en los siglos XVI y XVII"],
       pt: ["Ano de fundação: 1252", "Benfeitor: Stefan Vukanović Nemanjić", "Estilo: Escola de Raška", "Fresco mais importante: 'O Corvo a alimentar o Profeta Elias'", "Localização no desfiladeiro do rio Morača", "Renovação nos séculos XVI e XVII"],
       fr: ["Année de fondation : 1252", "Fondateur : Stefan Vukanović Nemanjić", "Style : École de la Raška", "Fresque la plus célèbre : « Le corbeau nourrit le prophète Élie »", "Emplacement dans le canyon de la rivière Morača", "Restauration aux XVIe et XVIIe siècles"],
+    },
+    facts: {
+      de: ["Das Kloster wurde im Jahr 1252 von Stefan Vukanović gegründet.", "Das berühmteste Fresko zeigt den Propheten Elias, der von einem Raben gefüttert wird.", "Der Komplex besteht aus der Nikolauskirche und der Marienkirche.", "Das Kloster liegt direkt an der spektakulären Schlucht des Flusses Morača."],
+      hu: ["A monostort 1252-ben alapította Stefan Vukanović szerb herceg.", "Legismertebb freskója Illés prófétát ábrázolja, akit egy holló táplál.", "Az épületegyüttes a Szent Miklós és az Istenanya elszenderedése templomokból áll.", "A kolostor kertjében egy természetes forrás és vízesés is található."],
+      ro: ["Mănăstirea a fost ctitorită în anul 1252 de către Ștefan Vukanović.", "Cea mai celebră frescă de aici îl reprezintă pe Proorocul Ilie hrănit de corb.", "Complexul cuprinde biserica mare și paraclisul Sfântul Nicolae.", "Portalul principal al bisericii este sculptat în marmură albă locală."],
+      en: ["The monastery was founded in 1252 by Stefan, son of King Vukan Nemanjić.", "The most famous fresco is 'Raven Feeds Prophet Elijah' from the 13th century.", "The complex includes the Church of the Assumption and St. Nicholas Church.", "The monastery was looted and damaged by the Ottomans in the 16th century."],
     },
   },
   // REGIONAL POIS (2 per region)

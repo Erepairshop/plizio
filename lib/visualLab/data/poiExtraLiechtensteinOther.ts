@@ -30,7 +30,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy kis állatpark Schaan közelében, amely helyi alpesi állatokat mutat be.",
       ro: "Un mic parc de animale lângă Schaan, care prezintă animale alpine locale.",
       en: "A small animal park near Schaan showing local alpine animals."
-    }, image: "/poi-images/animal-habitat-schaan-1-extra.webp"},
+    }, image: "/poi-images/animal-habitat-schaan-1-extra.webp",
+    facts: {
+      de: ["Größte Gemeinde Liechtensteins nach Einwohnern", "Fokus auf der Ökologie der Flussufer", "Beherbergt diverse geschützte Wasservögel", "Teil des natürlichen Alpenrhein-Abschnitts"],
+      hu: ["Liechtenstein legnépesebb községe", "A folyóparti ökológiára összpontosít", "Különféle védett vízi madaraknak ad otthont", "Az Alpesi-Rajna természetes szakaszának része"],
+      ro: ["Cea mai mare comună din Liechtenstein după populație", "Focus pe ecologia malurilor râului", "Găzduiește diverse păsări de apă protejate", "Parte a secțiunii naturale a Rinului Alpin"],
+      en: ["Largest municipality in Liechtenstein by population", "Focus on the ecology of river banks", "Home to various protected water birds", "Part of the natural Alpine Rhine section"],
+    },
+  },
   {
     id: "animal-habitat-balzers-2-extra",
     type: "animal-habitat",
@@ -59,7 +66,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy kis állatpark Balzers közelében, amely helyi alpesi állatokat mutat be.",
       ro: "Un mic parc de animale lângă Balzers, care prezintă animale alpine locale.",
       en: "A small animal park near Balzers showing local alpine animals."
-    }, image: "/poi-images/animal-habitat-balzers-2-extra.webp"},
+    }, image: "/poi-images/animal-habitat-balzers-2-extra.webp",
+    facts: {
+      de: ["Beherbergt vorwiegend alpine Tierarten", "Fokus auf bedrohte Nutztierrassen", "Großzügige Freigehege vorhanden", "Beliebtes Ausflugsziel für Familien"],
+      hu: ["Főként alpesi állatfajoknak ad otthont", "Veszélyeztetett háziállatfajtákra fókuszál", "Tágas kifutókkal rendelkezik", "Kedvelt kirándulóhely családok számára"],
+      ro: ["Găzduiește în principal specii alpine", "Se concentrează pe rase de animale amenințate", "Dispune de țarcuri exterioare generoase", "Destinație populară pentru familii"],
+      en: ["Home mainly to alpine animal species", "Focuses on endangered domestic breeds", "Features spacious outdoor enclosures", "Popular excursion spot for local families"],
+    },
+  },
   {
     id: "animal-habitat-triesen-3-extra",
     type: "animal-habitat",
@@ -88,7 +102,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy kis állatpark Triesen közelében, amely helyi alpesi állatokat mutat be.",
       ro: "Un mic parc de animale lângă Triesen, care prezintă animale alpine locale.",
       en: "A small animal park near Triesen showing local alpine animals."
-    }, image: "/poi-images/animal-habitat-triesen-3-extra.webp"},
+    }, image: "/poi-images/animal-habitat-triesen-3-extra.webp",
+    facts: {
+      de: ["Liegt im bergigen Oberland-Teil", "Beherbergt die ökologisch wertvolle Lawena-Region", "Besonderer Fokus auf heimisches Hochwild", "Grenzt direkt an die Schweizer Kantone"],
+      hu: ["A hegyvidéki Felső-Liechtensteinben fekszik", "Az ökológiailag értékes Lawena-régió otthona", "Különös figyelmet fordít az őshonos nagyvadakra", "Közvetlenül határos a svájci kantonokkal"],
+      ro: ["Situat în partea muntoasă a regiunii Oberland", "Găzduiește regiunea Lawena, valoroasă ecologic", "Focus special pe vânatul mare nativ", "Se învecinează direct cu cantoanele elvețiene"],
+      en: ["Located in the mountainous Oberland section", "Home to the ecologically valuable Lawena region", "Special focus on native large game wildlife", "Directly borders Swiss cantons"],
+    },
+  },
   {
     id: "animal-habitat-eschen-4-extra",
     type: "animal-habitat",
@@ -117,7 +138,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy kis állatpark Eschen közelében, amely helyi alpesi állatokat mutat be.",
       ro: "Un mic parc de animale lângă Eschen, care prezintă animale alpine locale.",
       en: "A small animal park near Eschen showing local alpine animals."
-    }, image: "/poi-images/animal-habitat-eschen-4-extra.webp"},
+    }, image: "/poi-images/animal-habitat-eschen-4-extra.webp",
+    facts: {
+      de: ["Liegt im Liechtensteiner Unterland", "Befindet sich nahe der Grenze zu Österreich", "Fokus liegt auf dem Schutz von Feuchtgebieten", "Teil des vernetzten lokalen Ökosystems"],
+      hu: ["Az Alsó-Liechtenstein régióban fekszik", "Közel található az osztrák határhoz", "Vizes élőhelyek védelmére összpontosít", "A helyi ökoszisztéma hálózatának része"],
+      ro: ["Situat în regiunea Unterland din Liechtenstein", "Se află aproape de granița cu Austria", "Focalizat pe protejarea zonelor umede", "Parte a sistemului ecologic local interconectat"],
+      en: ["Located in the Unterland region of Liechtenstein", "Situated near the border with Austria", "Focuses on the protection of wetlands", "Part of the interconnected local ecosystem"],
+    },
+  },
   {
     id: "animal-habitat-mauren-5-extra",
     type: "animal-habitat",
@@ -146,7 +174,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy kis állatpark Mauren közelében, amely helyi alpesi állatokat mutat be.",
       ro: "Un mic parc de animale lângă Mauren, care prezintă animale alpine locale.",
       en: "A small animal park near Mauren showing local alpine animals."
-    }, image: "/poi-images/animal-habitat-mauren-5-extra.webp"},
+    }, image: "/poi-images/animal-habitat-mauren-5-extra.webp",
+    facts: {
+      de: ["Liegt im hohen Norden Liechtensteins", "Bekannt für seltene einheimische Insekten", "Schützt wichtige lokale Amphibienpopulationen", "Teil der schützenswerten Maurer Flur"],
+      hu: ["Liechtenstein északi részén fekszik", "Ritka őshonos rovarfajairól ismert", "Védi a fontos helyi kétéltű-populációkat", "A védendő maureni tájegység része"],
+      ro: ["Situat în nordul extrem al Liechtensteinului", "Cunoscut pentru insecte native rare", "Protejează populații locale de amfibieni", "Parte a peisajului protejat din Mauren"],
+      en: ["Located in the far north of Liechtenstein", "Known for rare indigenous insect species", "Protects important local amphibian populations", "Part of the protected Mauren landscape"],
+    },
+  },
   {
     id: "animal-habitat-triesenberg-6-extra",
     type: "animal-habitat",
@@ -175,7 +210,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy kis állatpark Triesenberg közelében, amely helyi alpesi állatokat mutat be.",
       ro: "Un mic parc de animale lângă Triesenberg, care prezintă animale alpine locale.",
       en: "A small animal park near Triesenberg showing local alpine animals."
-    }, image: "/poi-images/animal-habitat-triesenberg-6-extra.webp"},
+    }, image: "/poi-images/animal-habitat-triesenberg-6-extra.webp",
+    facts: {
+      de: ["Flächenmäßig größte Gemeinde des Landes", "Beinhaltet das alpine Malbun-Gebiet", "Vorkommen von Murmeltieren und Steinböcken", "Reicht bis auf eine Höhe von über 2000 Metern"],
+      hu: ["Területileg az ország legnagyobb községe", "Magában foglalja az alpesi Malbun-vidéket", "Mormoták és kőszáli kecskék fordulnak elő", "Tengerszint feletti magassága meghaladja a 2000 métert"],
+      ro: ["Cea mai mare comună din țară ca suprafață", "Include zona alpină Malbun", "Prezența marmotelor și a caprelor negre", "Ajunge la o altitudine de peste 2000 de metri"],
+      en: ["Largest municipality in the country by area", "Includes the alpine Malbun territory", "Occurrence of marmots and ibexes", "Reaches altitudes of over 2000 meters"],
+    },
+  },
   {
     id: "animal-habitat-ruggell-7-extra",
     type: "animal-habitat",
@@ -206,6 +248,12 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "A small animal park near Ruggell showing local alpine animals."
     },
     image: "/poi-images/animal-habitat-ruggell-7-extra.webp",
+    facts: {
+      de: ["Größtes Naturschutzgebiet im Fürstentum", "Berühmt für die Blüte der Schwertlilien", "Wichtiges Brutgebiet für seltene Vogelarten", "Umfasst eine Fläche von rund 90 Hektar"],
+      hu: ["A hercegség legnagyobb természetvédelmi területe", "Híres a szibériai nőszirom virágzásáról", "Fontos fészkelőhely ritka madárfajok számára", "Körülbelül 90 hektáros területet foglal el"],
+      ro: ["Cea mai mare rezervație naturală din principat", "Faimoasă pentru înflorirea stânjeneilor", "Zonă importantă de cuibărit pentru păsări rare", "Cuprinde o suprafață de aproximativ 90 hectare"],
+      en: ["Largest nature reserve in the principality", "Famous for the blooming of Siberian irises", "Important nesting area for rare bird species", "Covers an area of approximately 90 hectares"],
+    },
   },
   {
     id: "animal-habitat-gamprin-8-extra",
@@ -235,7 +283,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy kis állatpark Gamprin közelében, amely helyi alpesi állatokat mutat be.",
       ro: "Un mic parc de animale lângă Gamprin, care prezintă animale alpine locale.",
       en: "A small animal park near Gamprin showing local alpine animals."
-    }, image: "/poi-images/animal-habitat-gamprin-8-extra.webp"},
+    }, image: "/poi-images/animal-habitat-gamprin-8-extra.webp",
+    facts: {
+      de: ["In der Nähe des Gampriner Seeleins gelegen", "Für Zwecke des Naturschutzes gegründet", "Beherbergt vorrangig lokale Huftierarten", "Zieht jährlich zahlreiche Besucher an"],
+      hu: ["A Gampriner Seelein tó közelében található", "Természetvédelmi célokból jött létre", "Elsősorban helyi patás állatokat mutat be", "Évente számos látogatót vonz a környékre"],
+      ro: ["Situat în apropierea lacului Gampriner Seelein", "Fondat în scopuri de conservare a naturii", "Găzduiește în principal specii locale de ungulate", "Atrage numeroși vizitatori în fiecare an"],
+      en: ["Located near the Gampriner Seelein lake", "Founded for nature conservation purposes", "Primarily houses local ungulate species", "Attracts numerous visitors every year"],
+    },
+  },
   {
     id: "animal-habitat-schellenberg-9-extra",
     type: "animal-habitat",
@@ -266,6 +321,12 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "A small animal park near Schellenberg showing local alpine animals."
     },
     image: "/poi-images/animal-habitat-schellenberg-9-extra.webp",
+    facts: {
+      de: ["Nördlichste Gemeinde des ganzen Landes", "Höchster Punkt des Eschnerbergs im Gebiet", "Vorkommen zahlreicher Eidechsenarten", "Historische Ruinen befinden sich im Umfeld"],
+      hu: ["Az ország legészakibb fekvésű községe", "Az Eschnerberg legmagasabb pontja a területen", "Számos gyíkfaj előfordulási helye", "Történelmi romok találhatók a környezetben"],
+      ro: ["Cea mai nordică comună din întreaga țară", "Cel mai înalt punct al muntelui Eschnerberg", "Prezența a numeroase specii de șopârle", "Ruine istorice se află în împrejurimi"],
+      en: ["Northernmost municipality in the whole country", "Highest point of the Eschnerberg in the area", "Home to numerous lizard species", "Historic ruins are located in the vicinity"],
+    },
   },
   {
     id: "animal-habitat-planken-10-extra",
@@ -295,7 +356,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy kis állatpark Planken közelében, amely helyi alpesi állatokat mutat be.",
       ro: "Un mic parc de animale lângă Planken, care prezintă animale alpine locale.",
       en: "A small animal park near Planken showing local alpine animals."
-    }, image: "/poi-images/animal-habitat-planken-10-extra.webp"},
+    }, image: "/poi-images/animal-habitat-planken-10-extra.webp",
+    facts: {
+      de: ["Höchstgelegene Gemeinde des ganzen Landes", "Fokus auf dem Schutz von lokalem Gamswild", "Beherbergt typisch alpine Flora und Fauna", "Befindet sich auf über 780 Meter Höhe"],
+      hu: ["Az ország legmagasabban fekvő községe", "A helyi zergeállomány védelmére fókuszál", "Tipikus alpesi flórának és faunának ad otthont", "Több mint 780 méteres tengerszint feletti magasság"],
+      ro: ["Cea mai înaltă comună din întreaga țară", "Focus pe protejarea caprelor negre locale", "Găzduiește floră și faună alpină tipică", "Situat la o altitudine de peste 780 metri"],
+      en: ["Highest municipality in the entire country", "Focus on protecting local chamois wildlife", "Home to typical alpine flora and fauna", "Located at an elevation above 780 meters"],
+    },
+  },
   {
     id: "animal-habitat-vaduz-11-extra",
     type: "animal-habitat",
@@ -324,7 +392,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy kis állatpark Vaduz közelében, amely helyi alpesi állatokat mutat be.",
       ro: "Un mic parc de animale lângă Vaduz, care prezintă animale alpine locale.",
       en: "A small animal park near Vaduz showing local alpine animals."
-    }, image: "/poi-images/animal-habitat-vaduz-11-extra.webp"},  {
+    }, image: "/poi-images/animal-habitat-vaduz-11-extra.webp",
+    facts: {
+      de: ["Sitz der liechtensteinischen Landesregierung", "Schutz diverser Greifvogelarten im Schlosswald", "Wichtiger Rückzugsort für Waldtiere", "Direkte Nähe zur fürstlichen Residenz"],
+      hu: ["A liechtensteini kormány székhelye", "Különféle ragadozó madarak védelme a várerdőben", "Fontos menedékhely erdei állatok számára", "A hercegi rezidencia közvetlen szomszédsága"],
+      ro: ["Sediul guvernului din Liechtenstein", "Protecția speciilor de răpitoare în pădurea castelului", "Loc important de refugiu pentru animalele de pădure", "Proximitate directă față de reședința princiară"],
+      en: ["Seat of the Liechtenstein national government", "Protection of birds of prey in the castle forest", "Important sanctuary for forest animals", "Direct proximity to the princely residence"],
+    },
+  },  {
     id: "kid-landmark-schaan-1-extra",
     type: "kid-landmark",
     parent: "LI-ALL",
@@ -352,7 +427,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Izgalmas kalandpark gyerekeknek Schaan területén, sok játszótérrel.",
       ro: "Un parc de aventuri captivant pentru copii în Schaan, cu multe zone de joacă.",
       en: "An exciting adventure park for children in Schaan with many play areas."
-    }, image: "/poi-images/kid-landmark-schaan-1-extra.webp"},
+    }, image: "/poi-images/kid-landmark-schaan-1-extra.webp",
+    facts: {
+      de: ["Zentrale Erreichbarkeit", "Kombination aus Sport und Spiel", "Treffpunkt für Jugendliche", "Regelmäßige Wartung"],
+      hu: ["Központi elérhetőség", "Sport és játék kombinációja", "Fiatalok találkozóhelye", "Rendszeres karbantartás"],
+      ro: ["Accesibilitate centrală", "Combinație de sport și joacă", "Loc de întâlnire pentru tineri", "Întreținere regulată"],
+      en: ["Central accessibility", "Combination of sport and play", "Meeting point for youth", "Regular maintenance"],
+    },
+  },
   {
     id: "kid-landmark-balzers-2-extra",
     type: "kid-landmark",
@@ -381,7 +463,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Izgalmas kalandpark gyerekeknek Balzers területén, sok játszótérrel.",
       ro: "Un parc de aventuri captivant pentru copii în Balzers, cu multe zone de joacă.",
       en: "An exciting adventure park for children in Balzers with many play areas."
-    }, image: "/poi-images/kid-landmark-balzers-2-extra.webp"},
+    }, image: "/poi-images/kid-landmark-balzers-2-extra.webp",
+    facts: {
+      de: ["Verschiedene Kletterelemente", "Spezielle Kleinkinderbereiche", "Moderne Sicherheitsstandards", "Beliebtes Ziel für Schulausflüge"],
+      hu: ["Különböző mászóelemek", "Speciális kisgyermek részlegek", "Modern biztonsági szabványok", "Népszerű iskolai kirándulóhely"],
+      ro: ["Diverse elemente de cățărare", "Zone speciale pentru copii mici", "Standarde moderne de siguranță", "Destinație populară pentru școli"],
+      en: ["Various climbing elements", "Special areas for toddlers", "Modern safety standards", "Popular school trip destination"],
+    },
+  },
   {
     id: "kid-landmark-triesen-3-extra",
     type: "kid-landmark",
@@ -410,7 +499,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Izgalmas kalandpark gyerekeknek Triesen területén, sok játszótérrel.",
       ro: "Un parc de aventuri captivant pentru copii în Triesen, cu multe zone de joacă.",
       en: "An exciting adventure park for children in Triesen with many play areas."
-    }, image: "/poi-images/kid-landmark-triesen-3-extra.webp"},
+    }, image: "/poi-images/kid-landmark-triesen-3-extra.webp",
+    facts: {
+      de: ["Balancier-Elemente", "Vielfältige Flora am Rand", "Parkplätze direkt vor Ort", "Hunde an der Leine erlaubt"],
+      hu: ["Egyensúlyozó elemek", "Változatos flóra a szegélyeken", "Helyi parkolási lehetőség", "Kutyák pórázon bevihetők"],
+      ro: ["Elemente de echilibru", "Floră diversă pe margini", "Parcare direct la locație", "Câini permiși în lesă"],
+      en: ["Balancing elements", "Diverse flora on the edges", "Parking directly on site", "Dogs allowed on leash"],
+    },
+  },
   {
     id: "kid-landmark-eschen-4-extra",
     type: "kid-landmark",
@@ -439,7 +535,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Izgalmas kalandpark gyerekeknek Eschen területén, sok játszótérrel.",
       ro: "Un parc de aventuri captivant pentru copii în Eschen, cu multe zone de joacă.",
       en: "An exciting adventure park for children in Eschen with many play areas."
-    }, image: "/poi-images/kid-landmark-eschen-4-extra.webp"},
+    }, image: "/poi-images/kid-landmark-eschen-4-extra.webp",
+    facts: {
+      de: ["Naturverbundener Spielplatz", "Große Rutschenlandschaft", "Sitzmöglichkeiten für Eltern", "Barrierefreier Zugang"],
+      hu: ["Természetközeli játszótér", "Hatalmas csúszdarendszer", "Ülőhelyek a szülőknek", "Akadálymentes hozzáférés"],
+      ro: ["Loc de joacă natural", "Sistem mare de tobogane", "Locuri de șezut pentru părinți", "Acces fără bariere"],
+      en: ["Nature-oriented playground", "Large slide landscape", "Seating for parents", "Barrier-free access"],
+    },
+  },
   {
     id: "kid-landmark-mauren-5-extra",
     type: "kid-landmark",
@@ -468,7 +571,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Izgalmas kalandpark gyerekeknek Mauren területén, sok játszótérrel.",
       ro: "Un parc de aventuri captivant pentru copii în Mauren, cu multe zone de joacă.",
       en: "An exciting adventure park for children in Mauren with many play areas."
-    }, image: "/poi-images/kid-landmark-mauren-5-extra.webp"},
+    }, image: "/poi-images/kid-landmark-mauren-5-extra.webp",
+    facts: {
+      de: ["Themenorientierte Spielstationen", "Sichere Bodenbeläge", "Trinkwasserbrunnen vorhanden", "Ganzjährig geöffnet"],
+      hu: ["Tematikus állomások", "Biztonságos padlóburkolat", "Ivókút a helyszínen", "Egész évben nyitva"],
+      ro: ["Stații de joacă tematice", "Pardoseală sigură", "Fântâni cu apă potabilă", "Deschis tot anul"],
+      en: ["Theme-oriented play stations", "Safe floor surfacing", "Drinking fountains available", "Open all year round"],
+    },
+  },
   {
     id: "kid-landmark-triesenberg-6-extra",
     type: "kid-landmark",
@@ -497,7 +607,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Izgalmas kalandpark gyerekeknek Triesenberg területén, sok játszótérrel.",
       ro: "Un parc de aventuri captivant pentru copii în Triesenberg, cu multe zone de joacă.",
       en: "An exciting adventure park for children in Triesenberg with many play areas."
-    }, image: "/poi-images/kid-landmark-triesenberg-6-extra.webp"},
+    }, image: "/poi-images/kid-landmark-triesenberg-6-extra.webp",
+    facts: {
+      de: ["Alpines Panorama", "Spielhütten im Walserstil", "Frische Bergluft", "Startpunkt für Familienwanderungen"],
+      hu: ["Alpesi panoráma", "Walser stílusú játszóházak", "Friss hegyi levegő", "Családi túrák kiindulópontja"],
+      ro: ["Panoramă alpină", "Căsuțe de joacă în stil Walser", "Aer curat de munte", "Punct de plecare pentru drumeții"],
+      en: ["Alpine panorama", "Play huts in Walser style", "Fresh mountain air", "Starting point for family hikes"],
+    },
+  },
   {
     id: "kid-landmark-ruggell-7-extra",
     type: "kid-landmark",
@@ -526,7 +643,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Izgalmas kalandpark gyerekeknek Ruggell területén, sok játszótérrel.",
       ro: "Un parc de aventuri captivant pentru copii în Ruggell, cu multe zone de joacă.",
       en: "An exciting adventure park for children in Ruggell with many play areas."
-    }, image: "/poi-images/kid-landmark-ruggell-7-extra.webp"},
+    }, image: "/poi-images/kid-landmark-ruggell-7-extra.webp",
+    facts: {
+      de: ["Große Kletterfelsen", "Fahrradparcours für Kinder", "Beleuchtung am Abend", "Öffentliche Toiletten"],
+      hu: ["Nagy mászósziklák", "Kerékpáros pálya gyerekeknek", "Esti kivilágítás", "Nyilvános mosdók"],
+      ro: ["Stânci mari de cățărare", "Traseu de biciclete pentru copii", "Iluminat nocturn", "Toalete publice"],
+      en: ["Large climbing rocks", "Bicycle course for kids", "Evening lighting", "Public toilets available"],
+    },
+  },
   {
     id: "kid-landmark-gamprin-8-extra",
     type: "kid-landmark",
@@ -555,7 +679,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Izgalmas kalandpark gyerekeknek Gamprin területén, sok játszótérrel.",
       ro: "Un parc de aventuri captivant pentru copii în Gamprin, cu multe zone de joacă.",
       en: "An exciting adventure park for children in Gamprin with many play areas."
-    }, image: "/poi-images/kid-landmark-gamprin-8-extra.webp"},
+    }, image: "/poi-images/kid-landmark-gamprin-8-extra.webp",
+    facts: {
+      de: ["Interaktive Wasserbecken", "Großzügige Picknickplätze", "Schatten durch alten Baumbestand", "Sandspielbereiche"],
+      hu: ["Interaktív vizes medencék", "Tágas piknikezőhelyek", "Árnyékos részek öreg fákkal", "Homokozó részlegek"],
+      ro: ["Bazine de apă interactive", "Locuri generoase de picnic", "Umbră de la arbori bătrâni", "Zone de joacă cu nisip"],
+      en: ["Interactive water basins", "Generous picnic areas", "Shade from old trees", "Sand play sections"],
+    },
+  },
   {
     id: "kid-landmark-schellenberg-9-extra",
     type: "kid-landmark",
@@ -584,7 +715,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Izgalmas kalandpark gyerekeknek Schellenberg területén, sok játszótérrel.",
       ro: "Un parc de aventuri captivant pentru copii în Schellenberg, cu multe zone de joacă.",
       en: "An exciting adventure park for children in Schellenberg with many play areas."
-    }, image: "/poi-images/kid-landmark-schellenberg-9-extra.webp"},
+    }, image: "/poi-images/kid-landmark-schellenberg-9-extra.webp",
+    facts: {
+      de: ["Nähe zur Burgruine", "Geschichtliche Infotafeln", "Picknick-Areale", "Sicherer Zaun um die Anlage"],
+      hu: ["Várromok közelsége", "Történelmi információs táblák", "Piknikező helyek", "Biztonságos kerítés"],
+      ro: ["Aproape de ruinele cetății", "Panouri informative istorice", "Zone de picnic", "Gard de siguranță"],
+      en: ["Proximity to castle ruins", "Historical info boards", "Picnic areas", "Safe fencing around the area"],
+    },
+  },
   {
     id: "kid-landmark-planken-10-extra",
     type: "kid-landmark",
@@ -613,7 +751,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Izgalmas kalandpark gyerekeknek Planken területén, sok játszótérrel.",
       ro: "Un parc de aventuri captivant pentru copii în Planken, cu multe zone de joacă.",
       en: "An exciting adventure park for children in Planken with many play areas."
-    }, image: "/poi-images/kid-landmark-planken-10-extra.webp"},
+    }, image: "/poi-images/kid-landmark-planken-10-extra.webp",
+    facts: {
+      de: ["Spielgeräte aus Naturholz", "Aussichtspunkt für Familien", "Waldlehrpfad integriert", "Idyllische Lage"],
+      hu: ["Természetes fa játékok", "Kilátópont családoknak", "Tanösvény a közelben", "Idilli fekvés"],
+      ro: ["Echipamente din lemn natural", "Punct de belvedere pentru familii", "Traseu educativ forestier", "Locație idilică"],
+      en: ["Natural wood play equipment", "Viewpoint for families", "Forest nature trail integrated", "Idyllic location"],
+    },
+  },
   {
     id: "kid-landmark-vaduz-11-extra",
     type: "kid-landmark",
@@ -642,7 +787,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Izgalmas kalandpark gyerekeknek Vaduz területén, sok játszótérrel.",
       ro: "Un parc de aventuri captivant pentru copii în Vaduz, cu multe zone de joacă.",
       en: "An exciting adventure park for children in Vaduz with many play areas."
-    }, image: "/poi-images/kid-landmark-vaduz-11-extra.webp"},  {
+    }, image: "/poi-images/kid-landmark-vaduz-11-extra.webp",
+    facts: {
+      de: ["Zentrale Lage in Vaduz", "Klettertürme aus Metall", "Nähe zu Cafés", "Sichere Gummiböden"],
+      hu: ["Vaduz központi elhelyezkedése", "Fém mászótornyok", "Kávézók közelsége", "Biztonságos gumipadló"],
+      ro: ["Locație centrală în Vaduz", "Turnuri de cățărare din metal", "Aproape de cafenele", "Podele de cauciuc sigure"],
+      en: ["Central location in Vaduz", "Metal climbing towers", "Proximity to cafes", "Safe rubber flooring"],
+    },
+  },  {
     id: "agriculture-schaan-1-extra",
     type: "agriculture",
     parent: "LI-ALL",
@@ -670,7 +822,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Helyi biofarm Schaan területén, amely friss zöldségeket és sajtot termel.",
       ro: "O fermă bio locală în Schaan, care produce legume proaspete și brânză.",
       en: "A local organic farm in Schaan producing fresh vegetables and cheese."
-    }, image: "/poi-images/agriculture-schaan-1-extra.webp"},
+    }, image: "/poi-images/agriculture-schaan-1-extra.webp",
+    facts: {
+      de: ["Einwohnerreichste Gemeinde des Landes", "Zentrale Lage im Rheintal", "Einsatz modernster Landtechnik", "Vielfältige Fruchtfolge auf den Feldern"],
+      hu: ["Az ország legnépesebb községe", "Központi elhelyezkedés a Rajna-völgyben", "A legmodernebb mezőgazdasági technikát alkalmazza", "Változatos vetésforgó jellemzi a földjeit"],
+      ro: ["Cea mai populată comună din țară", "Locație centrală în valea Rinului", "Utilizează tehnologie agricolă modernă", "Rotație diversificată a culturilor pe câmpuri"],
+      en: ["The most populous municipality in the country", "Central location within the Rhine Valley", "Employs state-of-the-art farming technology", "Diverse crop rotation practiced on fields"],
+    },
+  },
   {
     id: "agriculture-balzers-2-extra",
     type: "agriculture",
@@ -699,7 +858,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Helyi biofarm Balzers területén, amely friss zöldségeket és sajtot termel.",
       ro: "O fermă bio locală în Balzers, care produce legume proaspete și brânză.",
       en: "A local organic farm in Balzers producing fresh vegetables and cheese."
-    }, image: "/poi-images/agriculture-balzers-2-extra.webp"},
+    }, image: "/poi-images/agriculture-balzers-2-extra.webp",
+    facts: {
+      de: ["Befindet sich in Liechtensteins südlichster Gemeinde", "Produziert zertifizierte Bio-Lebensmittel", "Nutzt die sonnige Lage des Rheintals", "Fördert die lokale Artenvielfalt"],
+      hu: ["Liechtenstein legdélebbi községében található", "Minősített biotermékeket állít elő", "Kihasználja a Rajna-völgy napsütötte klímáját", "Támogatja a helyi biodiverzitást"],
+      ro: ["Situată în cea mai sudică comună din Liechtenstein", "Produce alimente organice certificate", "Beneficiază de clima însorită a văii Rinului", "Protejează biodiversitatea locală"],
+      en: ["Located in Liechtenstein's southernmost parish", "Produces certified organic foodstuffs", "Benefits from the Rhine Valley's sunny climate", "Supports local biological diversity"],
+    },
+  },
   {
     id: "agriculture-triesen-3-extra",
     type: "agriculture",
@@ -728,7 +894,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Helyi biofarm Triesen területén, amely friss zöldségeket és sajtot termel.",
       ro: "O fermă bio locală în Triesen, care produce legume proaspete și brânză.",
       en: "A local organic farm in Triesen producing fresh vegetables and cheese."
-    }, image: "/poi-images/agriculture-triesen-3-extra.webp"},
+    }, image: "/poi-images/agriculture-triesen-3-extra.webp",
+    facts: {
+      de: ["Drittgrößte Gemeinde Liechtensteins", "Mischung aus Ackerbau und Viehhaltung", "Historische Kulturlandschaft wird gepflegt", "Direktvermarktung lokaler Produkte"],
+      hu: ["Liechtenstein harmadik legnagyobb községe", "Növénytermesztés és állattenyésztés keveréke", "Gondozza a történelmi kultúrtájat", "Helyi termékek közvetlen értékesítése"],
+      ro: ["A treia comună ca mărime din Liechtenstein", "Mix de cultivare a plantelor și creșterea animalelor", "Îngrijește peisajul cultural istoric", "Vânzare directă a produselor locale"],
+      en: ["Liechtenstein's third-largest municipality", "Mix of crop farming and livestock", "Maintains the historic cultural landscape", "Direct marketing of local farm products"],
+    },
+  },
   {
     id: "agriculture-eschen-4-extra",
     type: "agriculture",
@@ -757,7 +930,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Helyi biofarm Eschen területén, amely friss zöldségeket és sajtot termel.",
       ro: "O fermă bio locală în Eschen, care produce legume proaspete și brânză.",
       en: "A local organic farm in Eschen producing fresh vegetables and cheese."
-    }, image: "/poi-images/agriculture-eschen-4-extra.webp"},
+    }, image: "/poi-images/agriculture-eschen-4-extra.webp",
+    facts: {
+      de: ["Liegt im flacheren Unterland", "Schwerpunkt auf saisonalem Gemüse", "Unterstützt regionale Lieferketten", "Hofladen für direkten Verkauf vorhanden"],
+      hu: ["Az ország laposabb északi részén fekszik", "Szezonális zöldségfélékre specializálódott", "Támogatja a regionális ellátási láncot", "Saját gazdasági bolttal rendelkezik"],
+      ro: ["Situată în zona joasă de nord a țării", "Specializată pe legume de sezon", "Susține lanțurile de aprovizionare regionale", "Dispune de un magazin propriu de desfacere"],
+      en: ["Located in the flatter northern lowlands", "Focuses on seasonal vegetable production", "Supports regional supply chains", "Features an on-site farm shop for direct sales"],
+    },
+  },
   {
     id: "agriculture-mauren-5-extra",
     type: "agriculture",
@@ -786,7 +966,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Helyi biofarm Mauren területén, amely friss zöldségeket és sajtot termel.",
       ro: "O fermă bio locală în Mauren, care produce legume proaspete și brânză.",
       en: "A local organic farm in Mauren producing fresh vegetables and cheese."
-    }, image: "/poi-images/agriculture-mauren-5-extra.webp"},
+    }, image: "/poi-images/agriculture-mauren-5-extra.webp",
+    facts: {
+      de: ["Liegt direkt an der Grenze zu Österreich", "Fokus auf Getreide und Feldfrüchte", "Zertifizierter Biolandbau-Standard", "Regelmäßige Bildungsangebote für Schulen"],
+      hu: ["Közvetlenül az osztrák határ mellett fekszik", "Gabonafélékre és szántóföldi növényekre fókuszál", "Szigorú bio-minősítéssel rendelkezik", "Rendszeres oktatási programokat tart iskoláknak"],
+      ro: ["Situată chiar la granița cu Austria", "Se concentrează pe cereale și culturi de câmp", "Respectă standarde stricte de agricultură bio", "Oferă programe educaționale pentru școli"],
+      en: ["Located right on the border with Austria", "Focuses on cereal and field crop production", "Certified organic farming standards apply", "Offers regular educational visits for schools"],
+    },
+  },
   {
     id: "agriculture-triesenberg-6-extra",
     type: "agriculture",
@@ -815,7 +1002,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Helyi biofarm Triesenberg területén, amely friss zöldségeket és sajtot termel.",
       ro: "O fermă bio locală în Triesenberg, care produce legume proaspete și brânză.",
       en: "A local organic farm in Triesenberg producing fresh vegetables and cheese."
-    }, image: "/poi-images/agriculture-triesenberg-6-extra.webp"},
+    }, image: "/poi-images/agriculture-triesenberg-6-extra.webp",
+    facts: {
+      de: ["Flächenmäßig größte Gemeinde des Landes", "Starke Ausrichtung auf die Milchwirtschaft", "Bewirtschaftung bis in hohe Alpregionen", "Erhalt alter Walser-Traditionen"],
+      hu: ["Területileg az ország legnagyobb községe", "Erős hangsúly a tejtermelésen", "Gazdálkodás egészen a magashegyi legelőkig", "Régi walser hagyományok őrzője"],
+      ro: ["Cea mai mare comună ca suprafață din țară", "Orientare puternică spre industria laptelui", "Exploatare până în regiunile alpine înalte", "Păstrează vechile tradiții Walser"],
+      en: ["Largest municipality in the country by area", "Strong focus on dairy farming", "Cultivation extends to high alpine regions", "Preservation of old Walser traditions"],
+    },
+  },
   {
     id: "agriculture-ruggell-7-extra",
     type: "agriculture",
@@ -844,7 +1038,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Helyi biofarm Ruggell területén, amely friss zöldségeket és sajtot termel.",
       ro: "O fermă bio locală în Ruggell, care produce legume proaspete și brânză.",
       en: "A local organic farm in Ruggell producing fresh vegetables and cheese."
-    }, image: "/poi-images/agriculture-ruggell-7-extra.webp"},
+    }, image: "/poi-images/agriculture-ruggell-7-extra.webp",
+    facts: {
+      de: ["Nördlichste Gemeinde des Landes", "Nähe zum Naturschutzgebiet Ruggeller Riet", "Anbau von Mais und Sonderkulturen", "Wichtiger Lebensraum für Weißstörche"],
+      hu: ["Az ország legészakibb községében található", "A Ruggeller Riet természetvédelmi terület szomszédja", "Kukoricát és különleges növényeket termel", "Fontos élőhely a fehér gólyák számára"],
+      ro: ["Cea mai nordică comună a țării", "Aproape de rezervația naturală Ruggeller Riet", "Cultivă porumb și culturi speciale", "Habitat important pentru berzele albe"],
+      en: ["Situated in the country's northernmost parish", "Near the Ruggeller Riet nature reserve", "Grows corn and specialized crops", "Important habitat for white storks"],
+    },
+  },
   {
     id: "agriculture-gamprin-8-extra",
     type: "agriculture",
@@ -873,7 +1074,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Helyi biofarm Gamprin területén, amely friss zöldségeket és sajtot termel.",
       ro: "O fermă bio locală în Gamprin, care produce legume proaspete și brânză.",
       en: "A local organic farm in Gamprin producing fresh vegetables and cheese."
-    }, image: "/poi-images/agriculture-gamprin-8-extra.webp"},
+    }, image: "/poi-images/agriculture-gamprin-8-extra.webp",
+    facts: {
+      de: ["Nähe zum historischen Ort Bendern", "Verzicht auf chemische Düngemittel", "Beitrag zur Erhaltung der Kulturlandschaft", "Hält oft heimische Nutztierrassen"],
+      hu: ["A történelmi Bendern település közelében van", "Vegyi műtrágyák használata nélkül termel", "Hozzájárul a kultúrtáj megőrzéséhez", "Gyakran tart őshonos állatfajtákat"],
+      ro: ["Aproape de situl istoric din Bendern", "Nu utilizează îngrășăminte chimice", "Contribuie la menținerea peisajului cultural", "Crește adesea rase locale de animale"],
+      en: ["Located near the historic site of Bendern", "Operates without chemical fertilizers", "Contributes to cultural landscape preservation", "Often raises local livestock breeds"],
+    },
+  },
   {
     id: "agriculture-schellenberg-9-extra",
     type: "agriculture",
@@ -902,7 +1110,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Helyi biofarm Schellenberg területén, amely friss zöldségeket és sajtot termel.",
       ro: "O fermă bio locală în Schellenberg, care produce legume proaspete și brânză.",
       en: "A local organic farm in Schellenberg producing fresh vegetables and cheese."
-    }, image: "/poi-images/agriculture-schellenberg-9-extra.webp"},
+    }, image: "/poi-images/agriculture-schellenberg-9-extra.webp",
+    facts: {
+      de: ["Liegt auf einem markanten Höhenrücken", "Nähe zur Ruine Obere Schellenberg", "Fokus auf Weidewirtschaft", "Traditionelle Streuobstwiesen im Umfeld"],
+      hu: ["Egy jellegzetes hegyháton fekszik", "A felső-schellenbergi várrom közelében található", "A legeltetéses gazdálkodásra összpontosít", "Hagyományos gyümölcsösök veszik körül"],
+      ro: ["Situată pe o creastă proeminentă", "Aproape de ruinele castelului Schellenberg", "Se concentrează pe pășunat", "Livezi tradiționale în împrejurimi"],
+      en: ["Located on a prominent ridge", "Near the Upper Schellenberg castle ruins", "Focuses on pasture-based farming", "Traditional orchards in the vicinity"],
+    },
+  },
   {
     id: "agriculture-planken-10-extra",
     type: "agriculture",
@@ -931,7 +1146,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Helyi biofarm Planken területén, amely friss zöldségeket és sajtot termel.",
       ro: "O fermă bio locală în Planken, care produce legume proaspete și brânză.",
       en: "A local organic farm in Planken producing fresh vegetables and cheese."
-    }, image: "/poi-images/agriculture-planken-10-extra.webp"},
+    }, image: "/poi-images/agriculture-planken-10-extra.webp",
+    facts: {
+      de: ["Höchstgelegene Gemeinde Liechtensteins", "Kleine, steile Bewirtschaftungsflächen", "Spezialisierung auf Bergkräuter oder Heu", "Bietet weite Sicht über das Rheintal"],
+      hu: ["Liechtenstein legmagasabban fekvő községe", "Kicsi és meredek művelhető területek", "Hegyi gyógynövényekre vagy szénára specializálódott", "Pazar kilátást nyújt a Rajna-völgyre"],
+      ro: ["Cea mai înaltă comună din Liechtenstein", "Suprafețe agricole mici și abrupte", "Specializată în plante montane sau fân", "Oferă o vedere panoramică asupra văii Rinului"],
+      en: ["Located in Liechtenstein's highest municipality", "Small and steep cultivated plots", "Specializes in mountain herbs or hay", "Provides vast views over the Rhine Valley"],
+    },
+  },
   {
     id: "agriculture-vaduz-11-extra",
     type: "agriculture",
@@ -960,7 +1182,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Helyi biofarm Vaduz területén, amely friss zöldségeket és sajtot termel.",
       ro: "O fermă bio locală în Vaduz, care produce legume proaspete și brânză.",
       en: "A local organic farm in Vaduz producing fresh vegetables and cheese."
-    }, image: "/poi-images/agriculture-vaduz-11-extra.webp"},  {
+    }, image: "/poi-images/agriculture-vaduz-11-extra.webp",
+    facts: {
+      de: ["Sitz der fürstlichen Regierung", "Anbau von Wein und Sonderkulturen", "Hohe Standards im ökologischen Landbau", "Verbindung von Stadt und Naturraum"],
+      hu: ["A hercegi kormány székhelye", "Szőlőtermesztés és különleges kultúrák", "Magas követelmények az ökológiai művelésben", "Összeköti a várost a természettel"],
+      ro: ["Sediul guvernului princiar", "Cultivarea viței-de-vie și a culturilor speciale", "Standarde înalte în agricultura ecologică", "Legătura dintre oraș și spațiul natural"],
+      en: ["Seat of the Princely Government", "Cultivates wine grapes and specialty crops", "High standards in organic cultivation", "Links the urban center with nature"],
+    },
+  },  {
     id: "industry-schaan-1-extra",
     type: "industry",
     parent: "LI-ALL",
@@ -988,7 +1217,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Modern ipartelep Schaan területén, amely csúcstechnológiai cégeknek ad otthont.",
       ro: "Un parc industrial modern în Schaan, care găzduiește companii de înaltă tehnologie.",
       en: "A modern industrial park in Schaan hosting high-tech companies."
-    }, image: "/poi-images/industry-schaan-1-extra.webp"},
+    }, image: "/poi-images/industry-schaan-1-extra.webp",
+    facts: {
+      de: ["Sitz von Weltmarktführern", "Größte Industriezone Liechtensteins", "Hochmoderner Forschungsstandort", "Zentrum für Innovation"],
+      hu: ["Világpiaci vezetők székhelye", "Liechtenstein legnagyobb ipari zónája", "Ultramodern kutatási helyszín", "Innovációs központ"],
+      ro: ["Sediul unor lideri mondiali", "Cea mai mare zonă industrială", "Locație de cercetare ultramodernă", "Centru pentru inovație"],
+      en: ["Home to global market leaders", "Largest industrial zone in the country", "Ultra-modern research hub", "Center for innovation"],
+    },
+  },
   {
     id: "industry-balzers-2-extra",
     type: "industry",
@@ -1017,7 +1253,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Modern ipartelep Balzers területén, amely csúcstechnológiai cégeknek ad otthont.",
       ro: "Un parc industrial modern în Balzers, care găzduiește companii de înaltă tehnologie.",
       en: "A modern industrial park in Balzers hosting high-tech companies."
-    }, image: "/poi-images/industry-balzers-2-extra.webp"},
+    }, image: "/poi-images/industry-balzers-2-extra.webp",
+    facts: {
+      de: ["Standort der Oerlikon Balzers", "Fokus auf Vakuumbeschichtung", "Wichtiger Arbeitgeber der Region", "Hochmoderne Forschungslabore"],
+      hu: ["Az Oerlikon Balzers székhelye", "Fő profil a vákuumbevonatolás", "A régió egyik legnagyobb munkaadója", "Korszerű kutatólaboratóriumok"],
+      ro: ["Sediul companiei Oerlikon Balzers", "Focus pe acoperiri în vid", "Angajator major în regiune", "Laboratoare de cercetare avansate"],
+      en: ["Home to Oerlikon Balzers", "Focus on vacuum coating", "Major employer in the region", "State-of-the-art research labs"],
+    },
+  },
   {
     id: "industry-triesen-3-extra",
     type: "industry",
@@ -1046,7 +1289,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Modern ipartelep Triesen területén, amely csúcstechnológiai cégeknek ad otthont.",
       ro: "Un parc industrial modern în Triesen, care găzduiește companii de înaltă tehnologie.",
       en: "A modern industrial park in Triesen hosting high-tech companies."
-    }, image: "/poi-images/industry-triesen-3-extra.webp"},
+    }, image: "/poi-images/industry-triesen-3-extra.webp",
+    facts: {
+      de: ["Historische Industrieentwicklung", "Präzisionsfertigung vor Ort", "Moderne Bürokomplexe", "Wichtiger Wirtschaftsstandort"],
+      hu: ["Történelmi ipari fejlődés", "Helyi precíziós gyártás", "Modern irodakomplexumok", "Fontos gazdasági helyszín"],
+      ro: ["Dezvoltare industrială istorică", "Producție de precizie locală", "Complexuri de birouri moderne", "Locație economică importantă"],
+      en: ["Historical industrial development", "Local precision manufacturing", "Modern office complexes", "Key economic location"],
+    },
+  },
   {
     id: "industry-eschen-4-extra",
     type: "industry",
@@ -1075,7 +1325,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Modern ipartelep Eschen területén, amely csúcstechnológiai cégeknek ad otthont.",
       ro: "Un parc industrial modern în Eschen, care găzduiește companii de înaltă tehnologie.",
       en: "A modern industrial park in Eschen hosting high-tech companies."
-    }, image: "/poi-images/industry-eschen-4-extra.webp"},
+    }, image: "/poi-images/industry-eschen-4-extra.webp",
+    facts: {
+      de: ["Sitz bedeutender Industriebetriebe", "Fokus auf Hochtechnologie", "Wichtiger Arbeitgeber der Region", "Gute Anbindung an das Verkehrsnetz"],
+      hu: ["Jelentős ipari cégek székhelye", "Csúcstechnológiai fókuszú üzemek", "A régió fontos foglalkoztatója", "Kiváló közlekedési kapcsolatok"],
+      ro: ["Sediul unor companii industriale majore", "Focus pe unități de înaltă tehnologie", "Angajator important în regiune", "Conexiuni rutiere excelente"],
+      en: ["Seat of major industrial companies", "Focus on high-tech manufacturing", "Important regional employer", "Excellent transport infrastructure"],
+    },
+  },
   {
     id: "industry-mauren-5-extra",
     type: "industry",
@@ -1104,7 +1361,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Modern ipartelep Mauren területén, amely csúcstechnológiai cégeknek ad otthont.",
       ro: "Un parc industrial modern în Mauren, care găzduiește companii de înaltă tehnologie.",
       en: "A modern industrial park in Mauren hosting high-tech companies."
-    }, image: "/poi-images/industry-mauren-5-extra.webp"},
+    }, image: "/poi-images/industry-mauren-5-extra.webp",
+    facts: {
+      de: ["Fokus auf lokale Produktion", "Modern ausgestattete Werkhallen", "Unterstützung für das lokale Gewerbe", "Nachhaltige Infrastruktur"],
+      hu: ["Helyi termelésre összpontosító terület", "Modern felszereltségű műhelyek", "A helyi iparosok támogatása", "Fenntartható infrastruktúra"],
+      ro: ["Accent pe producția locală", "Hale de producție modern echipate", "Sprijin pentru afacerile locale", "Infrastructură sustenabilă"],
+      en: ["Focus on local production", "Modernly equipped workshops", "Support for local businesses", "Sustainable infrastructure design"],
+    },
+  },
   {
     id: "industry-triesenberg-6-extra",
     type: "industry",
@@ -1133,7 +1397,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Modern ipartelep Triesenberg területén, amely csúcstechnológiai cégeknek ad otthont.",
       ro: "Un parc industrial modern în Triesenberg, care găzduiește companii de înaltă tehnologie.",
       en: "A modern industrial park in Triesenberg hosting high-tech companies."
-    }, image: "/poi-images/industry-triesenberg-6-extra.webp"},
+    }, image: "/poi-images/industry-triesenberg-6-extra.webp",
+    facts: {
+      de: ["Traditionelles Handwerk", "Unterstützung des Tourismus", "Alpine Gewerbebetriebe", "Nachhaltige Holzverarbeitung"],
+      hu: ["Hagyományos kézművesség", "Turizmus támogatása", "Alpesi ipari egységek", "Fenntartható fafeldolgozás"],
+      ro: ["Meșteșuguri tradiționale", "Sprijin pentru turism", "Afaceri comerciale alpine", "Prelucrarea sustenabilă a lemnului"],
+      en: ["Traditional craftsmanship", "Support for tourism", "Alpine commercial businesses", "Sustainable wood processing"],
+    },
+  },
   {
     id: "industry-ruggell-7-extra",
     type: "industry",
@@ -1162,7 +1433,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Modern ipartelep Ruggell területén, amely csúcstechnológiai cégeknek ad otthont.",
       ro: "Un parc industrial modern în Ruggell, care găzduiește companii de înaltă tehnologie.",
       en: "A modern industrial park in Ruggell hosting high-tech companies."
-    }, image: "/poi-images/industry-ruggell-7-extra.webp"},
+    }, image: "/poi-images/industry-ruggell-7-extra.webp",
+    facts: {
+      de: ["Nördlichster Industriestandort", "Moderne Architektur der Gebäude", "Gute Anbindung nach Österreich", "Wachsende Gewerbeflächen"],
+      hu: ["A legészakibb ipari helyszín", "Modern építészeti megoldások", "Jó közlekedés Ausztria felé", "Növekvő ipari területek"],
+      ro: ["Cea mai nordică locație industrială", "Arhitectură modernă a clădirilor", "Conexiune bună cu Austria", "Suprafețe comerciale în creștere"],
+      en: ["Northernmost industrial location", "Modern building architecture", "Good connections to Austria", "Growing commercial areas"],
+    },
+  },
   {
     id: "industry-gamprin-8-extra",
     type: "industry",
@@ -1191,7 +1469,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Modern ipartelep Gamprin területén, amely csúcstechnológiai cégeknek ad otthont.",
       ro: "Un parc industrial modern în Gamprin, care găzduiește companii de înaltă tehnologie.",
       en: "A modern industrial park in Gamprin hosting high-tech companies."
-    }, image: "/poi-images/industry-gamprin-8-extra.webp"},
+    }, image: "/poi-images/industry-gamprin-8-extra.webp",
+    facts: {
+      de: ["Moderner Logistikstandort", "Direkte Nähe zur Schweizer Grenze", "Ansiedlung innovativer Start-ups", "Effiziente Flächennutzung"],
+      hu: ["Modern logisztikai csomópont", "Közvetlen svájci határmenti fekvés", "Innovatív startupok telephelye", "Hatékony területhasznosítás"],
+      ro: ["Locație logistică modernă", "Proximitate directă cu granița elvețiană", "Găzduiește startup-uri inovatoare", "Utilizare eficientă a spațiului"],
+      en: ["Modern logistics hub", "Direct proximity to the Swiss border", "Home to innovative start-ups", "Efficient land use management"],
+    },
+  },
   {
     id: "industry-schellenberg-9-extra",
     type: "industry",
@@ -1220,7 +1505,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Modern ipartelep Schellenberg területén, amely csúcstechnológiai cégeknek ad otthont.",
       ro: "Un parc industrial modern în Schellenberg, care găzduiește companii de înaltă tehnologie.",
       en: "A modern industrial park in Schellenberg hosting high-tech companies."
-    }, image: "/poi-images/industry-schellenberg-9-extra.webp"},
+    }, image: "/poi-images/industry-schellenberg-9-extra.webp",
+    facts: {
+      de: ["Fokus auf Dienstleistungen", "Überschaubare Gewerbestruktur", "Lokale Wertschöpfung", "Ruhiges Arbeitsumfeld"],
+      hu: ["Szolgáltatási fókusz", "Átlátható ipari szerkezet", "Helyi értékteremtés", "Nyugodt munkakörnyezet"],
+      ro: ["Accent pe servicii", "Structură comercială gestionabilă", "Valoare adăugată locală", "Mediu de lucru liniștit"],
+      en: ["Focus on services", "Manageable commercial structure", "Local value creation", "Quiet working environment"],
+    },
+  },
   {
     id: "industry-planken-10-extra",
     type: "industry",
@@ -1249,7 +1541,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Modern ipartelep Planken területén, amely csúcstechnológiai cégeknek ad otthont.",
       ro: "Un parc industrial modern în Planken, care găzduiește companii de înaltă tehnologie.",
       en: "A modern industrial park in Planken hosting high-tech companies."
-    }, image: "/poi-images/industry-planken-10-extra.webp"},
+    }, image: "/poi-images/industry-planken-10-extra.webp",
+    facts: {
+      de: ["Kleinere Gewerbeeinheiten", "Harmonische Integration ins Dorfbild", "Fokus auf Handwerk", "Ökologische Betriebsführung"],
+      hu: ["Kisebb ipari egységek", "Harmonikus faluösszkép", "Kézműves ipar hangsúlya", "Ökológiai szemléletű vezetés"],
+      ro: ["Unități comerciale mici", "Integrare armonioasă în sat", "Accent pe meșteșuguri", "Management ecologic al afacerii"],
+      en: ["Small commercial units", "Harmonious integration into the village", "Focus on craftsmanship", "Ecological business management"],
+    },
+  },
   {
     id: "industry-vaduz-11-extra",
     type: "industry",
@@ -1280,6 +1579,12 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "A modern industrial park in Vaduz hosting high-tech companies."
     },
     image: "/poi-images/industry-vaduz-11-extra.webp",
+    facts: {
+      de: ["Zentrum des Finanzsektors", "Sitz internationaler Konzerne", "Exzellente Infrastruktur", "Hohe Dichte an Arbeitsplätzen"],
+      hu: ["A pénzügyi szektor központja", "Nemzetközi konszernek székhelye", "Kiváló infrastruktúra", "Magas munkahely-sűrűség"],
+      ro: ["Centrul sectorului financiar", "Sediul unor corporații internaționale", "Infrastructură excelentă", "Densitate mare de locuri de muncă"],
+      en: ["Center of the financial sector", "Home to international corporations", "Excellent infrastructure", "High density of jobs"],
+    },
   },  {
     id: "port-schaan-1-extra",
     type: "port",
@@ -1310,6 +1615,12 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "A major transport hub for buses in Schaan."
     },
     image: "/poi-images/port-schaan-1-extra.webp",
+    facts: {
+      de: ["Knotenpunkt für fast alle LIEmobil-Linien.", "Direkte Anbindung an den Bahnhof Schaan-Vaduz.", "Überdachte Bahnsteige für hohen Fahrgastkomfort.", "Zentrale Lage im geschäftigen Ortszentrum."],
+      hu: ["Szinte az összes LIEmobil járat csomópontja.", "Közvetlen kapcsolat a Schaan-Vaduz vasútállomáshoz.", "Fedett peronok a nagy utaskomfort érdekében.", "Központi elhelyezkedés a forgalmas városközpontban."],
+      ro: ["Nod pentru aproape toate liniile LIEmobil.", "Conexiune directă la gara Schaan-Vaduz.", "Peroane acoperite pentru confortul pasagerilor.", "Poziție centrală în centrul animat al localității."],
+      en: ["Hub for almost all LIEmobil bus lines.", "Direct connection to the Schaan-Vaduz train station.", "Covered platforms for high passenger comfort.", "Central location in the busy town center."],
+    },
   },
   {
     id: "port-balzers-2-extra",
@@ -1339,7 +1650,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Fontos buszközlekedési csomópont Balzers területén.",
       ro: "Un important nod de transport pentru autobuze în Balzers.",
       en: "A major transport hub for buses in Balzers."
-    }, image: "/poi-images/port-balzers-2-extra.webp"},
+    }, image: "/poi-images/port-balzers-2-extra.webp",
+    facts: {
+      de: ["Wichtiger Umstiegspunkt für die Linie 11.", "Bietet direkte Verbindungen nach Sargans.", "Ausgestattet mit modernen Echtzeit-Anzeigen.", "Liegt in unmittelbarer Nähe zum Dorfzentrum."],
+      hu: ["Fontos átszállási pont a 11-es járat számára.", "Közvetlen összeköttetést kínál Sargans felé.", "Modern, valós idejű utastájékoztatókkal felszerelt.", "A falu központjának közvetlen közelében található."],
+      ro: ["Punct important de transfer pentru linia 11.", "Oferă legături directe către Sargans.", "Dotată cu afișaje moderne în timp real.", "Situată în imediata apropiere a centrului satului."],
+      en: ["Major transfer point for the line 11 bus.", "Provides direct connections to Sargans.", "Equipped with modern real-time information displays.", "Located in close proximity to the village center."],
+    },
+  },
   {
     id: "port-triesen-3-extra",
     type: "port",
@@ -1368,7 +1686,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Fontos buszközlekedési csomópont Triesen területén.",
       ro: "Un important nod de transport pentru autobuze în Triesen.",
       en: "A major transport hub for buses in Triesen."
-    }, image: "/poi-images/port-triesen-3-extra.webp"},
+    }, image: "/poi-images/port-triesen-3-extra.webp",
+    facts: {
+      de: ["Wichtiger Stop für die Hochfrequenzlinie 11.", "Bietet Park-and-Ride Möglichkeiten in der Nähe.", "Zentraler Punkt für Schülerverkehre der Region.", "Barrierefreie Ausgestaltung der gesamten Anlage."],
+      hu: ["Fontos megálló a nagy járatsűrűségű 11-es vonalon.", "Park-and-Ride lehetőségeket kínál a közelben.", "A régió iskolai közlekedésének központi pontja.", "A teljes létesítmény akadálymentesen kialakított."],
+      ro: ["Stație importantă pentru linia de înaltă frecvență 11.", "Oferă facilități Park-and-Ride în apropiere.", "Punct central pentru transportul școlar din regiune.", "Design fără bariere al întregii facilități."],
+      en: ["Important stop for the high-frequency line 11.", "Offers Park-and-Ride options nearby.", "Central point for regional school transport.", "Barrier-free design of the entire facility."],
+    },
+  },
   {
     id: "port-eschen-4-extra",
     type: "port",
@@ -1397,7 +1722,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Fontos buszközlekedési csomópont Eschen területén.",
       ro: "Un important nod de transport pentru autobuze în Eschen.",
       en: "A major transport hub for buses in Eschen."
-    }, image: "/poi-images/port-eschen-4-extra.webp"},
+    }, image: "/poi-images/port-eschen-4-extra.webp",
+    facts: {
+      de: ["Wird von mehreren regionalen Linien bedient.", "Verfügt über überdachte Wartebereiche.", "Zentraler Halt für Pendler aus der Umgebung.", "Anbindung an das nationale Radwegenetz."],
+      hu: ["Számos regionális járat érinti.", "Fedett várakozóhelyekkel rendelkezik.", "Központi megálló a környéken dolgozó ingázóknak.", "Csatlakozik az országos kerékpárút-hálózathoz."],
+      ro: ["Deservită de mai multe linii regionale.", "Dispune de zone de așteptare acoperite.", "Stație centrală pentru navetiștii din zonă.", "Conectată la rețeaua națională de piste de biciclete."],
+      en: ["Served by several regional bus lines.", "Features covered waiting areas for passengers.", "Central stop for commuters from the surrounding area.", "Connected to the national cycling path network."],
+    },
+  },
   {
     id: "port-mauren-5-extra",
     type: "port",
@@ -1426,7 +1758,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Fontos buszközlekedési csomópont Mauren területén.",
       ro: "Un important nod de transport pentru autobuze în Mauren.",
       en: "A major transport hub for buses in Mauren."
-    }, image: "/poi-images/port-mauren-5-extra.webp"},
+    }, image: "/poi-images/port-mauren-5-extra.webp",
+    facts: {
+      de: ["Haltstelle für grenzüberschreitende Buslinien.", "Verfügt über einen Ticketautomaten der LIEmobil.", "Sitzgelegenheiten und Wetterschutz vorhanden.", "Ausgangspunkt für den Weg zum Vogelparadies."],
+      hu: ["A határon átnyúló buszjáratok megállója.", "LIEmobil jegyautomata található a helyszínen.", "Ülőhelyek és időjárás elleni védelem biztosított.", "Kiindulópont a madárparadicsom felé vezető úthoz."],
+      ro: ["Stație pentru liniile de autobuz transfrontaliere.", "Dispune de un automat de bilete LIEmobil.", "Locuri de șezut și protecție împotriva intemperiilor.", "Punct de plecare pentru drumul spre paradisul păsărilor."],
+      en: ["Stop for cross-border bus lines to Austria.", "Equipped with a LIEmobil ticket machine.", "Seating and weather protection provided.", "Starting point for the path to the bird sanctuary."],
+    },
+  },
   {
     id: "port-triesenberg-6-extra",
     type: "port",
@@ -1457,6 +1796,12 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "A major transport hub for buses in Triesenberg."
     },
     image: "/poi-images/port-triesenberg-6-extra.webp",
+    facts: {
+      de: ["Liegt auf etwa 884 Metern Höhe", "Wichtiger Halt der Linie 21", "Anbindung zum Skigebiet Malbun", "Blick auf das Rheintal"],
+      hu: ["Kb. 884 méteres magasságban van", "A 21-es buszvonal fontos megállója", "Közvetlen kapcsolat Malbun felé", "Kilátás nyílik a Rajna-völgyre"],
+      ro: ["Situată la 884 metri altitudine", "Stație importantă pentru linia 21", "Conexiune spre stațiunea Malbun", "Vedere panoramică spre Valea Rinului"],
+      en: ["Located at 884 meters altitude", "Key stop for bus line 21", "Connection to Malbun ski resort", "Overlooks the Rhine Valley"],
+    },
   },
   {
     id: "port-ruggell-7-extra",
@@ -1486,7 +1831,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Fontos buszközlekedési csomópont Ruggell területén.",
       ro: "Un important nod de transport pentru autobuze în Ruggell.",
       en: "A major transport hub for buses in Ruggell."
-    }, image: "/poi-images/port-ruggell-7-extra.webp"},
+    }, image: "/poi-images/port-ruggell-7-extra.webp",
+    facts: {
+      de: ["Schnittstelle zwischen Schaan und dem Rheindelta.", "Modernisierung der Anlage erfolgte im Jahr 2015.", "Anschluss an die Autobahn A13 in der Nähe.", "Verfügt über eine elektronische Fahrplananzeige."],
+      hu: ["Összeköttetés Schaan és a Rajna-delta között.", "A létesítmény modernizálása 2015-ben történt.", "Az A13-as autópálya csatlakozása a közelben van.", "Elektronikus menetrendi kijelzővel rendelkezik."],
+      ro: ["Interfață între Schaan și delta Rinului.", "Modernizarea stației a avut loc în anul 2015.", "Conexiune la autostrada A13 în apropiere.", "Dispune de un afișaj electronic al orarului."],
+      en: ["Interface between Schaan and the Rhine delta.", "Modernization of the facility occurred in 2015.", "Connection to the A13 motorway is nearby.", "Features an electronic timetable display board."],
+    },
+  },
   {
     id: "port-gamprin-8-extra",
     type: "port",
@@ -1515,7 +1867,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Fontos buszközlekedési csomópont Gamprin területén.",
       ro: "Un important nod de transport pentru autobuze în Gamprin.",
       en: "A major transport hub for buses in Gamprin."
-    }, image: "/poi-images/port-gamprin-8-extra.webp"},
+    }, image: "/poi-images/port-gamprin-8-extra.webp",
+    facts: {
+      de: ["Frequenzstarke Haltestelle während der Stoßzeiten.", "Inklusive Fahrradabstellplätzen vor Ort.", "Barrierefreier Zugang zu allen Bussteigen.", "Nähe zu lokalen Freizeiteinrichtungen."],
+      hu: ["Nagy forgalmú megálló a csúcsidőszakokban.", "Helyszíni kerékpártárolókkal rendelkezik.", "Akadálymentes hozzáférés minden peronhoz.", "A helyi szabadidős létesítmények közelében van."],
+      ro: ["Stație cu frecvență mare în orele de vârf.", "Include locuri de parcare pentru biciclete.", "Acces fără bariere la toate peroanele de autobuz.", "Aproape de facilitățile locale de agrement."],
+      en: ["High-frequency stop during peak travel hours.", "Includes on-site bicycle parking facilities.", "Barrier-free access to all bus platforms.", "Located near local recreational facilities."],
+    },
+  },
   {
     id: "port-schellenberg-9-extra",
     type: "port",
@@ -1546,6 +1905,12 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "A major transport hub for buses in Schellenberg."
     },
     image: "/poi-images/port-schellenberg-9-extra.webp",
+    facts: {
+      de: ["Haupthalt für die Linien 33 und 35.", "Inklusive beheizbarem Warteraum für den Winter.", "Nähe zum historischen Gemeindezentrum.", "Informationspunkt für lokale Wanderrouten."],
+      hu: ["A 33-as és 35-ös járatok fő megállója.", "Fűthető váróteremmel rendelkezik télre.", "A történelmi községháza közelében található.", "Információs pont a helyi túraútvonalakhoz."],
+      ro: ["Stație principală pentru liniile 33 și 35.", "Include o sală de așteptare încălzită pentru iarnă.", "Aproape de centrul istoric al comunei.", "Punct de informare pentru traseele locale de drumeție."],
+      en: ["Main stop for bus lines 33 and 35.", "Includes a heated waiting room for winter.", "Located near the historic community center.", "Information point for local hiking routes."],
+    },
   },
   {
     id: "port-planken-10-extra",
@@ -1575,7 +1940,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Fontos buszközlekedési csomópont Planken területén.",
       ro: "Un important nod de transport pentru autobuze în Planken.",
       en: "A major transport hub for buses in Planken."
-    }, image: "/poi-images/port-planken-10-extra.webp"},
+    }, image: "/poi-images/port-planken-10-extra.webp",
+    facts: {
+      de: ["Wird primär von der Linie 26 bedient.", "Bietet Anschluss an das Zentrum von Schaan.", "Besondere Panoramaaussicht von der Haltestelle.", "Wichtigster Punkt für den dörflichen Berufsverkehr."],
+      hu: ["Elsősorban a 26-os járat szolgálja ki.", "Csatlakozást biztosít Schaan központjához.", "Különleges panoráma nyílik a megállóból.", "A falu hivatásforgalmának legfontosabb pontja."],
+      ro: ["Deservită în principal de linia 26.", "Oferă legătură cu centrul localității Schaan.", "Vedere panoramică deosebită din stație.", "Cel mai important punct pentru traficul navetiștilor."],
+      en: ["Primarily served by the line 26 bus.", "Provides a connection to the center of Schaan.", "Offers a special panoramic view from the stop.", "Key point for the village's commuter traffic."],
+    },
+  },
   {
     id: "port-vaduz-11-extra",
     type: "port",
@@ -1604,7 +1976,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Fontos buszközlekedési csomópont Vaduz területén.",
       ro: "Un important nod de transport pentru autobuze în Vaduz.",
       en: "A major transport hub for buses in Vaduz."
-    }, image: "/poi-images/port-vaduz-11-extra.webp"},  {
+    }, image: "/poi-images/port-vaduz-11-extra.webp",
+    facts: {
+      de: ["Zentrum des PostAuto-Netzes", "Nahe dem Regierungsviertel", "Umsteigepunkt für alle Hauptlinien", "Fahrradstation vor Ort vorhanden"],
+      hu: ["A PostAuto hálózat központja", "A kormányzati negyed közelében", "Minden fővonal átszállási pontja", "Kerékpárállomás is található itt"],
+      ro: ["Centrul rețelei PostAuto", "Aproape de districtul guvernamental", "Punct de transfer pentru linii principale", "Stație de biciclete disponibilă"],
+      en: ["Hub of the PostAuto network", "Near the government district", "Transfer point for all main lines", "Bike station located on-site"],
+    },
+  },  {
     id: "landscape-schaan-1-extra",
     type: "lake",
     parent: "LI-ALL",
@@ -1632,7 +2011,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy kis alpesi tó Schaan területén.",
       ro: "Un mic lac alpin în Schaan.",
       en: "A small alpine lake in Schaan."
-    }, image: "/poi-images/landscape-schaan-1-extra.webp"},
+    }, image: "/poi-images/landscape-schaan-1-extra.webp",
+    facts: {
+      de: ["Nahe dem Schaaner Industriegebiet", "Wasser am Rheindamm", "In der größten Gemeinde Schaan", "Ort für die Vogelbeobachtung"],
+      hu: ["Schaan ipari negyede mellett", "Vízfelület a Rajna-gátnál", "A legnagyobb község területén", "Madármegfigyelő hely"],
+      ro: ["Lângă zona industrială Schaan", "Apă situată lângă digul Rinului", "În cea mai mare municipalitate", "Loc pentru observarea păsărilor"],
+      en: ["Near Schaan industrial zone", "Water by the Rhine dike", "In the largest town Schaan", "Location for bird watching"],
+    },
+  },
   {
     id: "landscape-balzers-2-extra",
     type: "mountain",
@@ -1661,7 +2047,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Gyönyörű hegyi kilátópont Balzers közelében, panorámás kilátással.",
       ro: "Un punct de belvedere minunat în munții de lângă Balzers, cu vedere panoramică.",
       en: "A beautiful viewpoint in the mountains near Balzers with panoramic views."
-    }, image: "/poi-images/landscape-balzers-2-extra.webp"},
+    }, image: "/poi-images/landscape-balzers-2-extra.webp",
+    facts: {
+      de: ["Blick auf das Rheintal", "Liegt im Süden Liechtensteins", "Beliebtes Ziel für Wanderer", "Sicht auf Burg Gutenberg"],
+      hu: ["Kilátás a Rajna-völgyre", "Liechtenstein déli végén van", "Túrázók kedvelt célpontja", "Látni innen a Gutenberg-várat"],
+      ro: ["Vedere spre valea Rinului", "Situat în sudul Liechtenstein", "Destinație de drumeție populară", "Vedere panoramică spre castel"],
+      en: ["View of the Rhine Valley", "Located in southern Liechtenstein", "Popular destination for hikers", "Visible Gutenberg Castle view"],
+    },
+  },
   {
     id: "landscape-triesen-3-extra",
     type: "forest",
@@ -1690,7 +2083,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy csendes erdő Triesen közelében.",
       ro: "O pădure liniștită lângă Triesen.",
       en: "A quiet forest near Triesen."
-    }, image: "/poi-images/landscape-triesen-3-extra.webp"},
+    }, image: "/poi-images/landscape-triesen-3-extra.webp",
+    facts: {
+      de: ["Besteht primär aus Buchen und Tannen.", "Wichtiger Lebensraum für Rehe und Gämsen.", "Teil eines großflächigen Forstreviers.", "Beinhaltet zahlreiche historische Holzabfuhrwege."],
+      hu: ["Elsősorban bükk- és fenyőfákból áll.", "Fontos élőhely az őzek és zergék számára.", "Egy nagyméretű erdészeti kerület része.", "Számos történelmi fatermelő utat tartalmaz."],
+      ro: ["Compus în principal din fagi și brazi.", "Habitat important pentru căprioare și capre negre.", "Parte a unui district forestier de mari dimensiuni.", "Include numeroase drumuri forestiere istorice."],
+      en: ["Primarily consists of beech and fir trees.", "Important habitat for roe deer and chamois.", "Part of a large-scale forestry district.", "Contains numerous historical timber transport paths."],
+    },
+  },
   {
     id: "landscape-eschen-4-extra",
     type: "lake",
@@ -1719,7 +2119,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy kis alpesi tó Eschen területén.",
       ro: "Un mic lac alpin în Eschen.",
       en: "A small alpine lake in Eschen."
-    }, image: "/poi-images/landscape-eschen-4-extra.webp"},
+    }, image: "/poi-images/landscape-eschen-4-extra.webp",
+    facts: {
+      de: ["Laichplatz für Frösche", "Kleine Wasserfläche in Eschen", "Umgeben von Schilfgürteln", "Naturschutzgebiet im Tal"],
+      hu: ["Békák petézőhelye", "Kis vízfelület Eschenben", "Nádas övezet veszi körül", "Völgyi természetvédelmi terület"],
+      ro: ["Loc de depunere a icrelor", "Suprafață mică de apă în Eschen", "Înconjurat de zone cu stuf", "Rezervație naturală în vale"],
+      en: ["Spawning site for frogs", "Small water surface in Eschen", "Surrounded by reed belts", "Nature reserve in the valley"],
+    },
+  },
   {
     id: "landscape-mauren-5-extra",
     type: "mountain",
@@ -1748,7 +2155,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Gyönyörű hegyi kilátópont Mauren közelében, panorámás kilátással.",
       ro: "Un punct de belvedere minunat în munții de lângă Mauren, cu vedere panoramică.",
       en: "A beautiful viewpoint in the mountains near Mauren with panoramic views."
-    }, image: "/poi-images/landscape-mauren-5-extra.webp"},
+    }, image: "/poi-images/landscape-mauren-5-extra.webp",
+    facts: {
+      de: ["Aussicht auf das Feldkircher Becken", "Grenznah zu Österreich", "Teil des Eschnerbergs", "Sonnige Hanglage"],
+      hu: ["Kilátás a feldkirchi medencére", "Osztrák határ közelsége", "Az Eschnerberg vonulatának része", "Napos hegyoldali fekvés"],
+      ro: ["Vedere spre bazinul Feldkirch", "Aproape de granița cu Austria", "Parte a dealului Eschnerberg", "Versant cu expunere solară"],
+      en: ["View towards Feldkirch basin", "Close to the Austrian border", "Part of the Eschnerberg ridge", "Sunny hillside location"],
+    },
+  },
   {
     id: "landscape-triesenberg-6-extra",
     type: "forest",
@@ -1777,7 +2191,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy csendes erdő Triesenberg közelében.",
       ro: "O pădure liniștită lângă Triesenberg.",
       en: "A quiet forest near Triesenberg."
-    }, image: "/poi-images/landscape-triesenberg-6-extra.webp"},
+    }, image: "/poi-images/landscape-triesenberg-6-extra.webp",
+    facts: {
+      de: ["Wichtiger Schutzwald gegen Lawinenabgänge.", "Beinhaltet mehrere jahrhundertealte Tannen.", "Durchzogen von dem historischen Walser-Sagenweg.", "Wird nachhaltig durch die Forsten bewirtschaftet."],
+      hu: ["Fontos védelmi erdő a lavinák ellen.", "Több évszázados fenyőfákat is tartalmaz.", "A történelmi Walser-mondaút szeli át.", "Fenntartható erdőgazdálkodás alatt áll."],
+      ro: ["Pădure de protecție importantă împotriva avalanșelor.", "Conține mai mulți brazi vechi de secole.", "Străbătută de drumul istoric al legendelor Walser.", "Gestionată durabil de către autoritățile forestiere."],
+      en: ["Crucial protection forest against avalanches.", "Contains several centuries-old fir trees.", "Traversed by the historical Walser Legend Trail.", "Sustainably managed by local forestry services."],
+    },
+  },
   {
     id: "landscape-ruggell-7-extra",
     type: "lake",
@@ -1806,7 +2227,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy kis alpesi tó Ruggell területén.",
       ro: "Un mic lac alpin în Ruggell.",
       en: "A small alpine lake in Ruggell."
-    }, image: "/poi-images/landscape-ruggell-7-extra.webp"},
+    }, image: "/poi-images/landscape-ruggell-7-extra.webp",
+    facts: {
+      de: ["Teil des Ruggeller Riets", "Standort seltener Schwertlilien", "Naturschutzgebiet im Norden", "Rest eines Moorgebietes"],
+      hu: ["A ruggelli Riet része", "Ritka nőszirom virágzóhelye", "Természetvédelmi terület északon", "Egykori lápi terület maradványa"],
+      ro: ["Parte din Ruggeller Riet", "Locul unde cresc irişi rari", "Rezervație naturală în nord", "Vestigiu al unei zone umede"],
+      en: ["Part of the Ruggeller Riet", "Site of rare Siberian irises", "Nature reserve in the north", "Remnant of a peat moor area"],
+    },
+  },
   {
     id: "landscape-gamprin-8-extra",
     type: "mountain",
@@ -1835,7 +2263,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Gyönyörű hegyi kilátópont Gamprin közelében, panorámás kilátással.",
       ro: "Un punct de belvedere minunat în munții de lângă Gamprin, cu vedere panoramică.",
       en: "A beautiful viewpoint in the mountains near Gamprin with panoramic views."
-    }, image: "/poi-images/landscape-gamprin-8-extra.webp"},
+    }, image: "/poi-images/landscape-gamprin-8-extra.webp",
+    facts: {
+      de: ["Blick auf den Alpenrhein", "Erhöhte Lage über dem Dorf", "Grenznähe zur Schweiz", "Fotopunkt für das Rheintal"],
+      hu: ["Kilátás az Alpokbeli Rajnára", "A falu feletti dombon van", "Svájci határ közelsége", "Kedvelt fotózási pont"],
+      ro: ["Vedere spre Rinul Alpin", "Poziție înaltă peste sat", "Aproape de granița elvețiană", "Punct de observație vizuală"],
+      en: ["View of the Alpine Rhine", "Elevated position above village", "Near the Swiss border", "Photo point for Rhine Valley"],
+    },
+  },
   {
     id: "landscape-schellenberg-9-extra",
     type: "forest",
@@ -1864,7 +2299,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy csendes erdő Schellenberg közelében.",
       ro: "O pădure liniștită lângă Schellenberg.",
       en: "A quiet forest near Schellenberg."
-    }, image: "/poi-images/landscape-schellenberg-9-extra.webp"},
+    }, image: "/poi-images/landscape-schellenberg-9-extra.webp",
+    facts: {
+      de: ["Bergwald am nördlichen Ende", "Standort der Burgruinen", "Dichter Buchenwald", "Wanderwege mit Geschichte"],
+      hu: ["Hegyi erdő az északi végen", "Várromok helyszíne", "Sűrű bükkerdő", "Történelmi tanösvények"],
+      ro: ["Pădure montană la capătul nordic", "Locația ruinelor de castel", "Pădure deasă de fag", "Trasee istorice de drumeție"],
+      en: ["Mountain forest at northern end", "Site of medieval castle ruins", "Dense beech wood area", "Hiking trails with history"],
+    },
+  },
   {
     id: "landscape-planken-10-extra",
     type: "lake",
@@ -1893,7 +2335,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy kis alpesi tó Planken területén.",
       ro: "Un mic lac alpin în Planken.",
       en: "A small alpine lake in Planken."
-    }, image: "/poi-images/landscape-planken-10-extra.webp"},
+    }, image: "/poi-images/landscape-planken-10-extra.webp",
+    facts: {
+      de: ["Wasserstelle in Berglage", "In der kleinsten Gemeinde Planken", "Umgeben von alpiner Flora", "Kühler Rückzugsort im Wald"],
+      hu: ["Hegyi fekvésű vízfelület", "A legkisebb községben van", "Alpesi flóra veszi körül", "Hűvös erdei pihenőhely"],
+      ro: ["Sursă de apă la altitudine", "În cea mai mică comună Planken", "Înconjurat de floră alpină", "Refugiu răcoros în pădure"],
+      en: ["Water spot at high elevation", "In the smallest town of Planken", "Surrounded by Alpine flora", "Cool forest retreat location"],
+    },
+  },
   {
     id: "landscape-vaduz-11-extra",
     type: "mountain",
@@ -1922,7 +2371,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Gyönyörű hegyi kilátópont Vaduz közelében, panorámás kilátással.",
       ro: "Un punct de belvedere minunat în munții de lângă Vaduz, cu vedere panoramică.",
       en: "A beautiful viewpoint in the mountains near Vaduz with panoramic views."
-    }, image: "/poi-images/landscape-vaduz-11-extra.webp"},
+    }, image: "/poi-images/landscape-vaduz-11-extra.webp",
+    facts: {
+      de: ["Blick auf das Wahrzeichen Schloss Vaduz.", "Informationen zur Geschichte der Monarchie vor Ort.", "Direkter Zugang vom Stadtzentrum über Fußwege.", "Beliebter Fotospot für internationale Touristen."],
+      hu: ["Kilátás nyílik a jelképnek számító vaduzi kastélyra.", "Helyszíni információk a monarchia történelméről.", "Közvetlen gyalogos hozzáférés a városközpontból.", "A nemzetközi turisták kedvelt fotózási helyszíne."],
+      ro: ["Vedere spre simbolul Castelul Vaduz.", "Informații despre istoria monarhiei la fața locului.", "Acces pietonal direct din centrul orașului.", "Loc popular pentru fotografii printre turiști."],
+      en: ["Views of the iconic Vaduz Castle landmark.", "On-site information about the monarchy's history.", "Direct pedestrian access from the city center.", "A popular photo spot for international tourists."],
+    },
+  },
   {
     id: "landscape-schaan-12-extra",
     type: "forest",
@@ -1951,7 +2407,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy csendes erdő Schaan közelében.",
       ro: "O pădure liniștită lângă Schaan.",
       en: "A quiet forest near Schaan."
-    }, image: "/poi-images/landscape-schaan-12-extra.webp"},
+    }, image: "/poi-images/landscape-schaan-12-extra.webp",
+    facts: {
+      de: ["Waldgürtel um Schaan", "Großer Bestand an Buchen", "Wanderpfade zum Alpeltinerweg", "Forstwirtschaftlich genutzt"],
+      hu: ["Erdőövezet Schaan körül", "Jelentős bükkös állomány", "Túraösvények az Alpeltinerweg felé", "Erdőgazdasági művelés alatt áll"],
+      ro: ["Centura forestieră Schaan", "Fond forestier bogat în fagi", "Poteci spre Alpeltinerweg", "Zonă de exploatare forestieră"],
+      en: ["Forest belt around Schaan", "Large population of beech trees", "Paths towards Alpeltinerweg", "Used for forestry management"],
+    },
+  },
   {
     id: "landscape-balzers-13-extra",
     type: "lake",
@@ -1980,7 +2443,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy kis alpesi tó Balzers területén.",
       ro: "Un mic lac alpin în Balzers.",
       en: "A small alpine lake in Balzers."
-    }, image: "/poi-images/landscape-balzers-13-extra.webp"},
+    }, image: "/poi-images/landscape-balzers-13-extra.webp",
+    facts: {
+      de: ["Liegt in Balzers im Süden", "Biotop für Wasservögel", "Nahe dem Rhein gelegen", "Lokales Erholungsgebiet"],
+      hu: ["Balzers déli részén fekszik", "Vízimadarak természetes élőhelye", "A Rajna folyó közelében van", "Helyi kikapcsolódási pont"],
+      ro: ["Situat în sudul Balzers", "Biotop pentru păsări acvatice", "Localizat aproape de Rin", "Zonă de recreere locală"],
+      en: ["Located in southern Balzers", "Biotope for waterfowl", "Situated near the Rhine river", "Local nature recreation spot"],
+    },
+  },
   {
     id: "landscape-triesen-14-extra",
     type: "mountain",
@@ -2009,7 +2479,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Gyönyörű hegyi kilátópont Triesen közelében, panorámás kilátással.",
       ro: "Un punct de belvedere minunat în munții de lângă Triesen, cu vedere panoramică.",
       en: "A beautiful viewpoint in the mountains near Triesen with panoramic views."
-    }, image: "/poi-images/landscape-triesen-14-extra.webp"},
+    }, image: "/poi-images/landscape-triesen-14-extra.webp",
+    facts: {
+      de: ["Gelegen auf etwa 1100 Metern Höhe.", "Erreichbar über gut markierte Wanderwege.", "Blick auf den markanten Falknis-Gipfel.", "Beliebter Rastplatz für Mountainbiker."],
+      hu: ["Körülbelül 1100 méteres tengerszint feletti magasságban fekszik.", "Jól jelzett turistaútvonalakon keresztül érhető el.", "Kilátás nyílik a közeli Falknis csúcsára.", "A hegyi kerékpárosok egyik kedvelt pihenőhelye."],
+      ro: ["Situat la o altitudine de aproximativ 1100 de metri.", "Accesibil prin trasee montane bine marcate.", "Oferă o vedere directă spre vârful Falknis.", "Loc de odihnă popular pentru cicliștii montani."],
+      en: ["Situated at an altitude of approximately 1100 meters.", "Accessible via well-marked hiking trails.", "Features views of the prominent Falknis peak.", "A popular resting spot for local mountain bikers."],
+    },
+  },
   {
     id: "landscape-eschen-15-extra",
     type: "forest",
@@ -2038,7 +2515,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy csendes erdő Eschen közelében.",
       ro: "O pădure liniștită lângă Eschen.",
       en: "A quiet forest near Eschen."
-    }, image: "/poi-images/landscape-eschen-15-extra.webp"},
+    }, image: "/poi-images/landscape-eschen-15-extra.webp",
+    facts: {
+      de: ["Liegt am Eschnerberg", "Gemeindegebiet von Eschen", "Ökologisches Schutzgebiet", "Naherholungsraum für Anwohner"],
+      hu: ["Az Eschnerberg dombjain van", "Eschen község területén", "Ökológiai védelmi terület", "Helyi kirándulóhely"],
+      ro: ["Situat pe dealul Eschnerberg", "În municipalitatea Eschen", "Zonă de protecție ecologică", "Spațiu de recreere local"],
+      en: ["Located on the Eschnerberg", "Part of Eschen municipality", "Ecological protection zone", "Recreation space for locals"],
+    },
+  },
   {
     id: "landscape-mauren-16-extra",
     type: "lake",
@@ -2067,7 +2551,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy kis alpesi tó Mauren területén.",
       ro: "Un mic lac alpin în Mauren.",
       en: "A small alpine lake in Mauren."
-    }, image: "/poi-images/landscape-mauren-16-extra.webp"},
+    }, image: "/poi-images/landscape-mauren-16-extra.webp",
+    facts: {
+      de: ["Gewässer im Unterland", "Liegt im Raum Mauren", "Wichtiger Punkt für die Flora", "Ruhiger Naturstandort"],
+      hu: ["Vízfelület az Unterlandban", "Mauren környékén található", "Fontos hely a flóra számára", "Csendes természeti helyszín"],
+      ro: ["Corp de apă în Unterland", "Situat în zona Mauren", "Punct vital pentru flora locală", "Locație naturală liniștită"],
+      en: ["Water body in the Unterland", "Located in the Mauren area", "Vital point for local flora", "Quiet natural location"],
+    },
+  },
   {
     id: "landscape-triesenberg-17-extra",
     type: "mountain",
@@ -2096,7 +2587,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Gyönyörű hegyi kilátópont Triesenberg közelében, panorámás kilátással.",
       ro: "Un punct de belvedere minunat în munții de lângă Triesenberg, cu vedere panoramică.",
       en: "A beautiful viewpoint in the mountains near Triesenberg with panoramic views."
-    }, image: "/poi-images/landscape-triesenberg-17-extra.webp"},
+    }, image: "/poi-images/landscape-triesenberg-17-extra.webp",
+    facts: {
+      de: ["Höhe liegt bei ca. 1250 Metern NN.", "Standort einer Informationstafel zur Walser-Geschichte.", "Blick auf das Schloss Vaduz möglich.", "Startpunkt für Wanderungen Richtung Kulm."],
+      hu: ["Magassága kb. 1250 méter a tengerszint felett.", "A walser történelemről szóló információs tábla helyszíne.", "Kilátás nyílik a vaduzi kastélyra.", "A Kulm felé vezető túrák kiindulópontja."],
+      ro: ["Altitudinea este de aproximativ 1250 de metri.", "Locația unui panou informativ despre istoria Walser.", "Vedere posibilă spre Castelul Vaduz.", "Punct de plecare pentru drumeții spre Kulm."],
+      en: ["Altitude is approximately 1250 meters above sea level.", "Site of an information board on Walser history.", "Offers a clear view of Vaduz Castle.", "Starting point for hikes towards the Kulm ridge."],
+    },
+  },
   {
     id: "landscape-ruggell-18-extra",
     type: "forest",
@@ -2125,7 +2623,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy csendes erdő Ruggell közelében.",
       ro: "O pădure liniștită lângă Ruggell.",
       en: "A quiet forest near Ruggell."
-    }, image: "/poi-images/landscape-ruggell-18-extra.webp"},
+    }, image: "/poi-images/landscape-ruggell-18-extra.webp",
+    facts: {
+      de: ["Wald im nördlichsten Dorf", "Teil der Ruggeller Auen", "Heimat seltener Pflanzenarten", "Nahe dem Naturschutzgebiet Riet"],
+      hu: ["Erdő a legészakibb falunál", "A ruggelli ártér része", "Ritka növényfajok otthona", "A Riet természetvédelmi területnél"],
+      ro: ["Pădure în cel mai nordic sat", "Parte a luncii Ruggell", "Habitat pentru plante rare", "Lângă rezervația naturală Riet"],
+      en: ["Forest in the northernmost village", "Part of the Ruggell floodplains", "Home to rare plant species", "Near the Riet nature reserve"],
+    },
+  },
   {
     id: "landscape-gamprin-19-extra",
     type: "lake",
@@ -2154,7 +2659,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy kis alpesi tó Gamprin területén.",
       ro: "Un mic lac alpin în Gamprin.",
       en: "A small alpine lake in Gamprin."
-    }, image: "/poi-images/landscape-gamprin-19-extra.webp"},
+    }, image: "/poi-images/landscape-gamprin-19-extra.webp",
+    facts: {
+      de: ["Entstanden durch Rheinhochwasser", "Einziges natürliches Seelein", "In der Gemeinde Gamprin", "Ufer für Erholung genutzt"],
+      hu: ["A Rajna áradása hozta létre", "Egyetlen természetes kistó", "Gamprin községben található", "A partja kedvelt pihenőhely"],
+      ro: ["Format prin revărsarea Rinului", "Singurul lac natural mic", "Situat în comuna Gamprin", "Maluri folosite pentru relaxare"],
+      en: ["Created by Rhine flooding", "Only natural small lake", "Located in Gamprin municipality", "Shores used for recreation"],
+    },
+  },
   {
     id: "landscape-schellenberg-20-extra",
     type: "mountain",
@@ -2183,7 +2695,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Gyönyörű hegyi kilátópont Schellenberg közelében, panorámás kilátással.",
       ro: "Un punct de belvedere minunat în munții de lângă Schellenberg, cu vedere panoramică.",
       en: "A beautiful viewpoint in the mountains near Schellenberg with panoramic views."
-    }, image: "/poi-images/landscape-schellenberg-20-extra.webp"},
+    }, image: "/poi-images/landscape-schellenberg-20-extra.webp",
+    facts: {
+      de: ["Höchster Punkt am Schellenberg", "Blick auf zwei Länder", "Historische Burgruinen in der Nähe", "Teil des Eschnerberg-Massivs"],
+      hu: ["A Schellenberg legmagasabb pontja", "Kilátás két országra", "Történelmi várromok a közelben", "Az Eschnerberg-masszívum része"],
+      ro: ["Cel mai înalt punct din Schellenberg", "Vedere spre două țări", "Ruine de castel în apropiere", "Parte a masivului Eschnerberg"],
+      en: ["Highest point on Schellenberg", "Views over two countries", "Historical castle ruins nearby", "Part of the Eschnerberg massif"],
+    },
+  },
   {
     id: "landscape-planken-21-extra",
     type: "forest",
@@ -2214,6 +2733,12 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "A quiet forest near Planken."
     },
     image: "/poi-images/landscape-planken-21-extra.webp",
+    facts: {
+      de: ["Steiles Waldgelände am Drei-Schwestern", "Schutz für das Dorf Planken", "Hoher Anteil an Nadelholz", "Wandergebiet am Berghang"],
+      hu: ["Meredek erdő a Drei-Schwesternnél", "Védelmet nyújt Planken falunak", "Magas a fenyőfélék aránya", "Hegyi túraterület a lejtőn"],
+      ro: ["Teren forestier abrupt", "Protecție pentru satul Planken", "Proporție mare de conifere", "Zonă de drumeție pe versant"],
+      en: ["Steep forest terrain on slopes", "Protection for Planken village", "High proportion of conifers", "Hiking area on the mountainside"],
+    },
   },
   {
     id: "landscape-vaduz-22-extra",
@@ -2243,7 +2768,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy kis alpesi tó Vaduz területén.",
       ro: "Un mic lac alpin în Vaduz.",
       en: "A small alpine lake in Vaduz."
-    }, image: "/poi-images/landscape-vaduz-22-extra.webp"},
+    }, image: "/poi-images/landscape-vaduz-22-extra.webp",
+    facts: {
+      de: ["Entstanden durch Kiesabbau in den 1970er Jahren.", "Teil des Naturschutzgebiets im Talboden.", "Keine offizielle Erlaubnis zum Baden vorhanden.", "Rundweg führt direkt am Ufer entlang."],
+      hu: ["Az 1970-es évek kavicsbányászata során jött létre.", "A völgytalp természetvédelmi területének része.", "Hivatalos fürdési engedély nem áll rendelkezésre.", "Körsétány vezet közvetlenül a part mentén."],
+      ro: ["Creat prin extragerea pietrișului în anii 1970.", "Parte a rezervației naturale din valea Rinului.", "Nu există permisiune oficială pentru scăldat.", "Un traseu circular trece direct pe malul lacului."],
+      en: ["Created through gravel mining in the 1970s.", "Part of the nature reserve on the valley floor.", "No official permission for swimming is granted.", "A circular path leads directly along the shore."],
+    },
+  },
   {
     id: "landscape-schaan-23-extra",
     type: "mountain",
@@ -2274,6 +2806,12 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "A beautiful viewpoint in the mountains near Schaan with panoramic views."
     },
     image: "/poi-images/landscape-schaan-23-extra.webp",
+    facts: {
+      de: ["Panorama über das Zentrum", "Sicht auf Schloss Vaduz", "Erhöhte Lage im Schaaner Ried", "Sichtbar sind Schweizer Gipfel"],
+      hu: ["Panoráma a központi régióra", "Kilátás a vaduzi várra", "Magaslati pont a Schaaner Riednél", "Svájci hegycsúcsok látszanak"],
+      ro: ["Panoramă asupra centrului", "Vedere spre Castelul Vaduz", "Poziție înaltă în Schaaner Ried", "Vârfuri elvețiene vizibile"],
+      en: ["Panorama over the center", "View towards Vaduz Castle", "Elevated spot in Schaaner Ried", "Swiss mountain peaks visible"],
+    },
   },
   {
     id: "landscape-balzers-24-extra",
@@ -2305,6 +2843,12 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "A quiet forest near Balzers."
     },
     image: "/poi-images/landscape-balzers-24-extra.webp",
+    facts: {
+      de: ["Teil der Liechtensteiner Wälder", "Schutzwald gegen Lawinen", "Heimat für Rehe und Hirsche", "Wanderwege durch den Forst"],
+      hu: ["Liechtensteini erdők része", "Lavina elleni védőerdő", "Őzek és szarvasok élőhelye", "Túraösvények a sűrűben"],
+      ro: ["Parte a pădurilor naționale", "Pădure de protecție montană", "Habitat pentru căprioare", "Trasee marcate prin pădure"],
+      en: ["Part of Liechtenstein's forests", "Protective mountain forest", "Habitat for roe and red deer", "Hiking trails through the woods"],
+    },
   },
   {
     id: "landscape-triesen-25-extra",
@@ -2336,6 +2880,12 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "A small alpine lake in Triesen."
     },
     image: "/poi-images/landscape-triesen-25-extra.webp",
+    facts: {
+      de: ["Künstlich angelegtes Biotop zur Artenförderung.", "Umgeben von schilfbewachsenen Uferzonen.", "Dient der Regulierung des lokalen Grundwassers.", "Leicht erreichbar über den Talwanderweg."],
+      hu: ["Mesterségesen kialakított biotóp a biodiverzitásért.", "Nádassal borított part menti zónák veszik körül.", "A helyi talajvízszint szabályozását is segíti.", "Könnyen elérhető a völgyi túraútvonalról."],
+      ro: ["Biotop creat artificial pentru susținerea speciilor.", "Înconjurat de zone de mal acoperite cu stuf.", "Servește la reglarea pânzei freatice locale.", "Ușor accesibil de pe traseul de drumeție din vale."],
+      en: ["Artificially created biotope for species promotion.", "Surrounded by reed-covered shoreline zones.", "Used for regulating the local groundwater level.", "Easily accessible via the valley hiking path."],
+    },
   },
   {
     id: "landscape-eschen-26-extra",
@@ -2365,7 +2915,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Gyönyörű hegyi kilátópont Eschen közelében, panorámás kilátással.",
       ro: "Un punct de belvedere minunat în munții de lângă Eschen, cu vedere panoramică.",
       en: "A beautiful viewpoint in the mountains near Eschen with panoramic views."
-    }, image: "/poi-images/landscape-eschen-26-extra.webp"},
+    }, image: "/poi-images/landscape-eschen-26-extra.webp",
+    facts: {
+      de: ["Blick auf das Unterland", "Höhepunkt im Eschener Gebiet", "Sicht auf Österreich möglich", "Teil des Höhenwanderwegs"],
+      hu: ["Kilátás az Unterlandra", "Escheni terület magaslata", "Látni innen Ausztriát is", "A dombi túraútvonal része"],
+      ro: ["Vedere peste regiunea de jos", "Punct înalt în zona Eschen", "Vizibilitate spre Austria", "Parte dintr-un traseu montan"],
+      en: ["View of the Unterland region", "High point in Eschen area", "Views into Austria possible", "Part of a ridge hiking trail"],
+    },
+  },
   {
     id: "landscape-mauren-27-extra",
     type: "forest",
@@ -2394,7 +2951,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy csendes erdő Mauren közelében.",
       ro: "O pădure liniștită lângă Mauren.",
       en: "A quiet forest near Mauren."
-    }, image: "/poi-images/landscape-mauren-27-extra.webp"},
+    }, image: "/poi-images/landscape-mauren-27-extra.webp",
+    facts: {
+      de: ["Wald an der Grenze zu Österreich", "Buchen- und Eschenbestände", "Beliebt bei Joggern", "Nahe dem Weiler Schaanwald"],
+      hu: ["Erdő az osztrák határ mentén", "Bükkösök és kőriserdők", "Kocogók kedvelt helye", "Schaanwald településrész közelében"],
+      ro: ["Pădure la granița cu Austria", "Populații de fag și frasin", "Loc preferat de alergători", "Lângă cătunul Schaanwald"],
+      en: ["Forest on the Austrian border", "Beech and ash tree populations", "Popular area for joggers", "Near the Schaanwald hamlet"],
+    },
+  },
   {
     id: "landscape-triesenberg-28-extra",
     type: "lake",
@@ -2423,7 +2987,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy kis alpesi tó Triesenberg területén.",
       ro: "Un mic lac alpin în Triesenberg.",
       en: "A small alpine lake in Triesenberg."
-    }, image: "/poi-images/landscape-triesenberg-28-extra.webp"},
+    }, image: "/poi-images/landscape-triesenberg-28-extra.webp",
+    facts: {
+      de: ["Wird durch unterirdische Quellen gespeist.", "Maximale Tiefe beträgt etwa drei Meter.", "Umgeben von alpiner Flora wie dem Enzian.", "Gefriert in den Wintermonaten meist vollständig zu."],
+      hu: ["Földalatti források táplálják a vizét.", "Maximális mélysége körülbelül három méter.", "Alpesi flóra, például encián veszi körül.", "A téli hónapokban rendszerint teljesen befagy."],
+      ro: ["Este alimentat de izvoare subterane.", "Adâncimea maximă este de circa trei metri.", "Înconjurat de floră alpină, cum ar fi gențiana.", "Îngheață complet de obicei în lunile de iarnă."],
+      en: ["Fed by underground natural springs.", "Maximum depth is about three meters.", "Surrounded by alpine flora like the gentian.", "Usually freezes completely during winter months."],
+    },
+  },
   {
     id: "landscape-ruggell-29-extra",
     type: "mountain",
@@ -2452,7 +3023,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Gyönyörű hegyi kilátópont Ruggell közelében, panorámás kilátással.",
       ro: "Un punct de belvedere minunat în munții de lângă Ruggell, cu vedere panoramică.",
       en: "A beautiful viewpoint in the mountains near Ruggell with panoramic views."
-    }, image: "/poi-images/landscape-ruggell-29-extra.webp"},
+    }, image: "/poi-images/landscape-ruggell-29-extra.webp",
+    facts: {
+      de: ["Flacher Aussichtspunkt im Norden", "Blick auf den Eschnerberg", "Sicht auf die Drei Schwestern", "In der Nähe des Rheins"],
+      hu: ["Lapos fekvésű kilátó északon", "Kilátás az Eschnerbergre", "Drei Schwestern csúcsok látszanak", "A Rajna folyó közelségében"],
+      ro: ["Punct de observație în nord", "Vedere spre dealul Eschnerberg", "Vârfurile Drei Schwestern vizibile", "Situat în apropierea Rinului"],
+      en: ["Level viewpoint in the north", "View of the Eschnerberg hill", "Drei Schwestern peaks visible", "Located near the Rhine river"],
+    },
+  },
   {
     id: "landscape-gamprin-30-extra",
     type: "forest",
@@ -2481,7 +3059,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy csendes erdő Gamprin közelében.",
       ro: "O pădure liniștită lângă Gamprin.",
       en: "A quiet forest near Gamprin."
-    }, image: "/poi-images/landscape-gamprin-30-extra.webp"},
+    }, image: "/poi-images/landscape-gamprin-30-extra.webp",
+    facts: {
+      de: ["Forst in der Nähe von Bendern", "Mischwald aus Buche und Fichte", "Lebensraum für Singvögel", "Bestandteil des Grünzugs Nord"],
+      hu: ["Bendern közelében lévő erdő", "Bükk- és fenyőelegyes erdő", "Énekesmadarak élőhelye", "Az északi zöldövezet része"],
+      ro: ["Pădure în apropiere de Bendern", "Pădure de fag și molid", "Habitat pentru păsări cântătoare", "Parte a centurii verzi de nord"],
+      en: ["Forestry near Bendern area", "Mixed beech and spruce forest", "Habitat for songbirds", "Part of the northern green belt"],
+    },
+  },
 ];
 
 
