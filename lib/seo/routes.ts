@@ -369,14 +369,45 @@ export function getStateByRouteParams(lang: Lang, country: string, state: string
   return region;
 }
 
+// Content-marker title: "{Name}: {benefit1, benefit2, benefit3} | Plizio"
+// Benefits chosen per language for CTR — same set Google rewards (history,
+// map, sights, photos, facts). Length capped at 65 chars to avoid SERP truncation.
+const TITLE_BENEFITS: Record<Lang, string> = {
+  de: "Geschichte, Karte, Sehenswürdigkeiten",
+  hu: "Történelem, Térkép, Látnivalók",
+  ro: "Istorie, Hartă, Obiective Turistice",
+  en: "History, Map, Sights & Photos",
+};
 export function poiTitle(poi: POI, lang: Lang) {
   const state = getStateForPoi(poi);
   const name = localizedValue(poi.name, lang) || poi.id;
-  return `${name} - ${localizedStateName(state?.id ?? poi.parent ?? "", lang)} | Plizio Visual Lab`;
+  const stateName = localizedStateName(state?.id ?? poi.parent ?? "", lang);
+  const benefits = TITLE_BENEFITS[lang] || TITLE_BENEFITS.en;
+  // Try the full form first; if too long for SERP, fall back to shorter.
+  const full = `${name}: ${benefits}, ${stateName} | Plizio`;
+  if (full.length <= 65) return full;
+  const noState = `${name}: ${benefits} | Plizio`;
+  if (noState.length <= 65) return noState;
+  return `${name} - ${stateName} | Plizio Visual Lab`; // legacy fallback
 }
 
+// Enhanced description: short desc + sights-count + facts-count signals to
+// help Google rank the page on "sehenswürdigkeiten / látnivaló" queries.
 export function poiDescription(poi: POI, lang: Lang) {
-  return truncateDescription(localizedValue(poi.description, lang));
+  const base = truncateDescription(localizedValue(poi.description, lang));
+  const sightsArr = (poi as unknown as { sights?: Record<string, unknown[]> }).sights?.[lang];
+  const sightsCount = Array.isArray(sightsArr) ? sightsArr.length : 0;
+  if (sightsCount > 0) {
+    const suffix: Record<Lang, string> = {
+      de: ` ${sightsCount} Sehenswürdigkeiten in der Übersicht.`,
+      hu: ` ${sightsCount} látnivaló egy helyen.`,
+      ro: ` ${sightsCount} obiective turistice listate.`,
+      en: ` ${sightsCount} sights to discover.`,
+    };
+    const withSights = base + suffix[lang];
+    if (withSights.length <= 160) return withSights;
+  }
+  return base;
 }
 
 export function stateDescription(stateId: string, lang: Lang) {
