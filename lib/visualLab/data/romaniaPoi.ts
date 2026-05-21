@@ -2160,6 +2160,96 @@ export const romaniaCities: POI[] = [
                   "text": "Riesige einschiffige gotische Kirche aus dem 15. Jahrhundert, berühmt für Akustik und historische Orgeln.",
                   "category": "religious",
                   "confidence": "high"
+            },
+            {
+                  "name": "Orthodoxe Kathedrale",
+                  "text": "Diese monumentale Kathedrale am Avram-Iancu-Platz wurde in den 1920er Jahren im byzantinischen Stil mit prächtigen Mosaiken erbaut.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hajongard-Friedhof",
+                  "text": "Einer der ältesten Friedhöfe in Südosteuropa, bekannt für seine prächtigen Denkmäler und als letzte Ruhestätte der transsilvanischen Elite.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nationalmuseum der Geschichte Transsilvaniens",
+                  "text": "Präsentiert die Geschichte der Region von der Steinzeit bis heute, mit einer bedeutenden archäologischen Sammlung.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Apothekenmuseum",
+                  "text": "Untergebracht im ältesten Apothekengebäude der Stadt, zeigt es historische medizinische Instrumente und alte Heilmittel.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hoia-Wald",
+                  "text": "Weltberühmt als mysteriöser Ort für paranormale Phänomene, bietet dieser Wald auch Wanderwege und eine einzigartige Flora.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Justizpalast",
+                  "text": "Ein beeindruckendes eklektisches Gebäude am Rande der Altstadt, das Ende des 19. Jahrhunderts als Symbol der kaiserlichen Justiz erbaut wurde.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piaristenkirche",
+                  "text": "Die erste Barockkirche in Siebenbürgen, bekannt für ihre hervorragende Akustik und die Statue der Jungfrau Maria.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Franziskanerkirche",
+                  "text": "Eine der ältesten Kirchen der Stadt, die romanische, gotische und barocke Elemente in einem harmonischen Ensemble vereint.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Feuerwehrturm",
+                  "text": "Ein mittelalterlicher Wachturm, der einst Teil der Stadtbefestigung war und heute einen Ausblick sowie kulturelle Ausstellungen bietet.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Babeș-Bolyai-Universität",
+                  "text": "Das Hauptgebäude der größten Universität Rumäniens ist ein architektonisches Wahrzeichen und ein Zentrum für Wissenschaft und Kultur.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Neologe Synagoge",
+                  "text": "Ein maurisch-byzantinisches Gebäude, das heute als Denkmal für die jüdische Gemeinde von Klausenburg dient.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Iulius-Park",
+                  "text": "Ein moderner Stadtpark am Ufer des Gheorgheni-Sees, ideal für Spaziergänge, Sport und Open-Air-Veranstaltungen.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Avram-Iancu-Platz",
+                  "text": "Ein zentraler Platz, umgeben von bedeutenden Gebäuden wie dem Nationaltheater und der Kathedrale, mit einem großen Springbrunnen.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Reformierte Kirche der Unterstadt",
+                  "text": "Bekannt als die 'Zweitürmige Kirche', ein klassizistisches Gebäude, das die protestantische Geschichte der Stadt repräsentiert.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cluj Arena",
+                  "text": "Ein modernes Stadion und architektonisches Highlight, das für Fußballspiele und große Musikfestivals wie Untold genutzt wird.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -2221,6 +2311,96 @@ export const romaniaCities: POI[] = [
                   "name": "Farkas utcai református templom",
                   "text": "Hatalmas, egyhajós gótikus templom a 15. századból, amely kiváló akusztikájáról és történelmi orgonájáról híres.",
                   "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ortodox székesegyház",
+                  "text": "Az Avram Iancu téren álló monumentális bizánci stílusú épület, amelyet az 1920-as években emeltek gazdag belső díszítéssel.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Házsongárdi temető",
+                  "text": "Európa egyik leghíresebb sírkertje, ahol az erdélyi magyar kultúra és tudomány nagyjai nyugszanak díszes mauzóleumokban.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Erdélyi Nemzeti Történeti Múzeum",
+                  "text": "A Karolina-téren található intézmény Erdély múltját mutatja be az őskortól kezdve, gazdag római kori leletanyaggal.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gyógyszerészeti Múzeum (Hintz-ház)",
+                  "text": "Kolozsvár első patikájának épületében működik, ahol középkori főzetek receptjeit és régi orvosi eszközöket tekinthetünk meg.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hója-erdő",
+                  "text": "Világszerte ismert a rejtélyes jelenségeiről, de kiváló túraútvonalakat és gyönyörű kilátást is kínál a városra.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Igazságügyi Palota",
+                  "text": "Látványos eklektikus építmény a városközpont szélén, amely az osztrák-magyar időkben a birodalmi igazságszolgáltatás jelképe volt.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piarista templom",
+                  "text": "Erdély első barokk temploma, amely kiváló akusztikájáról és a jezsuita építészet jegyeiről ismert a Farkas utca közelében.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ferences templom és kolostor",
+                  "text": "A város egyik legrégebbi és leghangulatosabb gótikus-barokk temploma az Óvár központjában, gazdag történelmi múlttal.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tűzoltótorony",
+                  "text": "Egykori középkori bástya, amely később megfigyelőtoronyként szolgált; ma kilátóként és kulturális térként működik.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Babeș-Bolyai Tudományegyetem",
+                  "text": "Az egyetem központi épülete a város szellemi életének központja, impozáns neoreneszánsz stílusban épült a 19. század végén.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Neológ zsinagóga",
+                  "text": "Mór-bizánci stílusú emlékmű a Horea úton, amely a kolozsvári zsidóság tragikus történelmének és újjászületésének állít emléket.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Iulius park",
+                  "text": "A Györgyfalvi-tó mellett elterülő modern park, amely sétányokkal és szabadtéri rendezvényhelyszínekkel várja a látogatókat.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Avram Iancu tér",
+                  "text": "A város egyik fő tere, ahol az Operaház és a katedrális mellett egy látványos zenélő szökőkút is található.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alsóvárosi református templom",
+                  "text": "A köznyelvben 'kétágú templom' néven ismert klasszicista épület, amely a város egyik meghatározó protestáns jelképe.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kolozsvár Aréna",
+                  "text": "Modern sportlétesítmény, amelynek futurisztikus formája az Untold fesztivál és nemzetközi meccsek alatt telik meg élettel.",
+                  "category": "recreational",
                   "confidence": "high"
             }
       ],
@@ -2284,6 +2464,96 @@ export const romaniaCities: POI[] = [
                   "text": "O biserică gotică impresionantă de tip sală, cunoscută pentru acustica deosebită și monumentul Sfântului Gheorghe.",
                   "category": "religious",
                   "confidence": "high"
+            },
+            {
+                  "name": "Catedrala Mitropolitană Ortodoxă",
+                  "text": "Situată în Piața Avram Iancu, este un monument impresionant de arhitectură neobizantină, decorat cu mozaicuri valoroase.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cimitirul Hajongard",
+                  "text": "Un panteon al Transilvaniei, acest cimitir istoric este celebru pentru monumentele sale funerare și personalitățile înhumate aici.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Național de Istorie a Transilvaniei",
+                  "text": "Deține colecții arheologice și istorice vaste, de la perioada preistorică și dacică până la epoca modernă.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Farmaciei",
+                  "text": "Găzduit în Casa Hintz, prima farmacie a orașului, muzeul expune mobilier vechi, recipiente farmaceutice și rețete medievale.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pădurea Hoia-Baciu",
+                  "text": "Cunoscută internațional pentru fenomenele paranormale raportate, este și un loc ideal pentru drumeții și ciclism.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul de Justiție",
+                  "text": "O clădire monumentală în stil eclectic, construită la sfârșitul secolului XIX, dominând latura estică a Pieței Avram Iancu.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Piaristă",
+                  "text": "Prima biserică barocă din Ardeal, renumită pentru interiorul său somptuos și icoana făcătoare de minuni a Fecioarei Maria.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Franciscană",
+                  "text": "Un complex monahal situat în Piața Muzeului, ce îmbină stilul gotic cu elemente baroce, fiind una dintre cele mai vechi biserici.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turnul Pompierilor",
+                  "text": "Un vechi turn de pază medieval restaurat recent, oferind o panoramă frumoasă asupra centrului istoric al Clujului.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Universitatea Babeș-Bolyai",
+                  "text": "Sediul central al celei mai mari universități din țară, o clădire istorică impunătoare ce definește viața academică clujeană.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sinagoga Neologă",
+                  "text": "Denumită și Templul Memorial al Evreilor, este o clădire superbă în stil maur-bizantin situată pe strada Horea.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Iulius",
+                  "text": "Un spațiu modern de recreere pe malul lacului Gheorgheni, popular pentru plimbări și evenimente în aer liber.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Avram Iancu",
+                  "text": "Un nod central al orașului, unde se află Catedrala, Teatrul Național și o fântână arteziană muzicală spectaculoasă.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Reformată din Orașul de Jos",
+                  "text": "Cunoscută ca 'Biserica cu două turnuri', este un monument neoclasic ce domină panorama zonei de est a centrului.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cluj Arena",
+                  "text": "Stadionul ultramodern al orașului, un reper arhitectural care găzduiește competiții sportive majore și celebrul festival Untold.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -2345,6 +2615,96 @@ export const romaniaCities: POI[] = [
                   "name": "Reformed Church (Wolves' Street)",
                   "text": "A massive 15th-century single-nave Gothic church known for its impressive interior and excellent acoustics.",
                   "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Orthodox Metropolitan Cathedral",
+                  "text": "A monumental neobyzantine structure on Avram Iancu Square, built in the 1920s with impressive mosaics and stone carvings.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hajongard Cemetery",
+                  "text": "One of the oldest cemeteries in Southeastern Europe, it is an open-air museum of Transylvanian history and noble burials.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "National Museum of Transylvanian History",
+                  "text": "A key cultural institution displaying historical artifacts from the Roman era to the modern period in the heart of the Old Town.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pharmacy Museum",
+                  "text": "Located in the oldest pharmacy building in Cluj, it features medieval potions, laboratory equipment, and period furniture.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hoia Forest",
+                  "text": "Known as one of the world's most haunted forests, it offers a mix of mystery, hiking trails, and beautiful natural scenery.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palace of Justice",
+                  "text": "A grand eclectic building constructed at the end of the 19th century, representing the imperial judiciary system.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piarist Church",
+                  "text": "Transylvania's first baroque church, famous for its magnificent acoustics and the revered statue of the Virgin Mary.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Franciscan Church and Monastery",
+                  "text": "One of the city's oldest landmarks, combining gothic and baroque elements in a tranquil square setting.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Firemen's Tower",
+                  "text": "A medieval defense tower that was converted into a fire watchtower, now offering cultural space and city views.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Babes-Bolyai University",
+                  "text": "The main building of Romania's largest university is a symbol of academic excellence and 19th-century architecture.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Neologue Synagogue",
+                  "text": "A Moorish-Byzantine style temple on Horea Street, serving as a memorial for the local Jewish community.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Iulius Park",
+                  "text": "A modern recreational park surrounding Lake Gheorgheni, popular for jogging, relaxation, and outdoor cultural events.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Avram Iancu Square",
+                  "text": "A bustling central plaza featuring the National Theatre, the Cathedral, and a large musical fountain.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Reformed Church of the Lower Town",
+                  "text": "Commonly known as the 'Two-Tower Church,' this neoclassical building is a landmark of the city's protestant heritage.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cluj Arena",
+                  "text": "A state-of-the-art stadium with a futuristic design, hosting international sports events and the massive Untold music festival.",
+                  "category": "recreational",
                   "confidence": "high"
             }
       ]
@@ -2471,6 +2831,96 @@ export const romaniaCities: POI[] = [
                   "text": "Ein prächtiges Gebäude im maurischen Stil, das die reiche jüdische Geschichte der Stadt widerspiegelt.",
                   "category": "religious",
                   "confidence": "high"
+            },
+            {
+                  "name": "Barockpalast",
+                  "text": "Dieses prachtvolle Gebäude am Unirii-Platz beherbergt das Kunstmuseum von Temeswar und besticht durch seine spätbarocke Architektur.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Banater Dorfmuseum",
+                  "text": "Ein Freilichtmuseum, das traditionelle Bauernhäuser und die ländliche Kultur der Banater Region aus vergangenen Jahrhunderten zeigt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Freiheitsplatz",
+                  "text": "Ein historischer Platz im Stadtzentrum, bekannt für seine roten Pflastersteine und die markante Statue der Heiligen Maria und des Johannes Nepomuk.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rumänische Nationaloper",
+                  "text": "Ein beeindruckendes Kulturzentrum im Herzen der Stadt, das in einem historischen Gebäude am Victoriei-Platz untergebracht ist.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gedenkstätte der Revolution",
+                  "text": "Dieses Museum dokumentiert die Ereignisse der Revolution von 1989, die in Temeswar ihren Anfang nahm und zum Sturz des Kommunismus führte.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fabrikstadt-Synagoge",
+                  "text": "Ein monumentales religiöses Bauwerk im eklektischen Stil mit maurischen Elementen, das die reiche jüdische Geschichte des Stadtteils Fabric bezeugt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Millenniumskirche",
+                  "text": "Die größte römisch-katholische Kirche der Stadt, erbaut im neugotischen Stil zur Feier des tausendjährigen Bestehens des ungarischen Staates.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brauerei Timișoreana",
+                  "text": "Gegründet im Jahr 1718, ist dies die älteste Brauerei Rumäniens und ein bedeutendes Denkmal der Industriegeschichte von Temeswar.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dikasterialpalast",
+                  "text": "Das größte Gebäude der Stadt, erbaut im Stil der italienischen Renaissance, das heute als Justizpalast dient.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lloyd-Palast",
+                  "text": "Ein elegantes Gebäude am Victoriei-Platz, das einst die Handelsbörse beherbergte und heute Sitz des Rektorats der Universität Politehnica ist.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Botanischer Park",
+                  "text": "Eine grüne Oase in der Nähe des Stadtzentrums, die eine große Vielfalt an einheimischen und exotischen Pflanzenarten beherbergt.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bega-Kanal",
+                  "text": "Die Wasserstraße der Stadt, gesäumt von Parks und Radwegen, die eine malerische Kulisse für Spaziergänge und Bootsfahrten bietet.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Domkirche zum heiligen Georg",
+                  "text": "Die römisch-katholische Kathedrale am Unirii-Platz ist ein Meisterwerk des österreichischen Barock mit wertvoller Innenausstattung.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kinderpark Ion Creangă",
+                  "text": "Ein weitläufiges Freizeitgelände am Ufer der Bega, das speziell für Kinder mit zahlreichen Spielplätzen und Attraktionen gestaltet wurde.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dreifaltigkeitsstatue",
+                  "text": "Ein barockes Denkmal auf dem Unirii-Platz, das zum Gedenken an das Ende der Pestepidemie im 18. Jahrhundert errichtet wurde.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -2514,6 +2964,96 @@ export const romaniaCities: POI[] = [
                   "name": "Sinagoga din Cetate",
                   "text": "Mór stílusban épült monumentális zsinagóga, amely a város egykori zsidó közösségének emlékét őrzi.",
                   "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Barokk Palota",
+                  "text": "A temesvári Szépművészeti Múzeumnak otthont adó épület a város egyik legszebb barokk műemléke az Unirii téren.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bánsági Falumúzeum",
+                  "text": "Szabadtéri néprajzi múzeum, amely a Bánság hagyományos falusi építészetét és életmódját mutatja be eredeti házakon keresztül.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szabadság tér",
+                  "text": "Temesvár egyik legrégebbi tere, amelyet piros díszburkolat és fontos barokk katonai és közigazgatási épületek szegélyeznek.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Román Nemzeti Opera",
+                  "text": "A Victoriei téren található monumentális épület a város kulturális életének központja, operáknak és színházi előadásoknak ad helyet.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Forradalmi Emlékmúzeum",
+                  "text": "Az 1989-es temesvári forradalom eseményeit dokumentáló múzeum, amely fényképeket, filmeket és személyes tárgyakat mutat be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gyárvárosi zsinagóga",
+                  "text": "Mór stílusú elemekkel díszített, impozáns zsidó templom a Gyárvárosban, amely a közösség egykori virágzását jelképezi.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Millenniumi templom",
+                  "text": "Ybl Lajos tervezte neogótikus katolikus templom a Gyárvárosban, amely a magyar honfoglalás ezeréves évfordulójára épült.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Temesvári Sörgyár",
+                  "text": "1718-ban alapított patinás üzem, Románia első sörgyára, amely ma is fontos ipartörténeti és gasztronómiai helyszín.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dikaszteriális palota",
+                  "text": "Az olasz reneszánsz stílusban épült hatalmas épülettömb ma az igazságszolgáltatás központja Temesváron.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lloyd-palota",
+                  "text": "A Victoriei téren álló elegáns palota, amely egykor a kereskedelmi kamarának adott otthont, ma egyetemi rektorátus.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Botanikus kert",
+                  "text": "A várnegyed szomszédságában elterülő pihenőhely, ahol számos különleges növényfaj és kellemes sétaút található.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Béga-csatorna",
+                  "text": "A várost átszelő hajózható csatorna, amelynek partján parkok, kerékpárutak és kávézók várják a látogatókat.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent György-székesegyház",
+                  "text": "Az Unirii tér domináns épülete, az osztrák barokk építészet remekműve, amely a római katolikus püspökség központja.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gyermekpark",
+                  "text": "Az Ion Creangă nevét viselő tematikus park a Béga partján, amely változatos játszóterekkel várja a családokat.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szentháromság-szobor",
+                  "text": "Barokk stílusú fogadalmi emlékoszlop az Unirii téren, amelyet a pestisjárvány megszűnésének tiszteletére emeltek.",
+                  "category": "historical",
                   "confidence": "high"
             }
       ],
@@ -2559,6 +3099,96 @@ export const romaniaCities: POI[] = [
                   "text": "O bijuterie a arhitecturii eclectice cu elemente maure, situată în zona centrală a orașului.",
                   "category": "religious",
                   "confidence": "high"
+            },
+            {
+                  "name": "Palatul Baroc",
+                  "text": "Găzduiește Muzeul de Artă din Timișoara, fiind o clădire istorică impresionantă din Piața Unirii, construită în stil baroc târziu.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Satului Bănățean",
+                  "text": "Singurul muzeu cu profil etnografic din România care cuprinde centrul civic al satului, cu primărie, biserică și școală.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Libertății",
+                  "text": "O piață istorică pavată cu piatră roșie, unde se află vechea primărie și monumentul Sfântului Ioan Nepomuk.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Opera Națională Română",
+                  "text": "Instituție culturală de prestigiu situată în Piața Victoriei, într-o clădire emblematică proiectată de arhitecții vienezi Helmer și Fellner.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Memorialul Revoluției",
+                  "text": "Muzeu dedicat evenimentelor din decembrie 1989, oferind o perspectivă documentată asupra căderii regimului comunist în România.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sinagoga din Fabric",
+                  "text": "Monument arhitectural deosebit, construit în stil eclectic cu elemente neogotice și maure, situat în cartierul istoric Fabric.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Millennium",
+                  "text": "Cea mai mare biserică romano-catolică din Timișoara, ridicată pentru a comemora un mileniu de la stabilirea maghiarilor în Panonia.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fabrica de Bere Timișoreana",
+                  "text": "Prima fabrică de bere din România, înființată în 1718, păstrând elemente de arhitectură industrială de secol XVIII.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Dicasterial",
+                  "text": "O clădire monumentală de inspirație renascentistă florentină, fiind cel mai mare imobil administrativ din oraș.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Lloyd",
+                  "text": "Edificiu elegant din Piața Victoriei care a găzduit Bursa Agricolă, remarcabil prin detaliile sale arhitecturale secession.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Botanic",
+                  "text": "Grădină publică ce reunește sute de specii de arbori și plante, oferind un spațiu de relaxare aproape de zona centrală.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Canalul Bega",
+                  "text": "Prima cale navigabilă din România, traversând orașul și oferind posibilități de agrement, transport cu vaporetto și plimbări.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Domul Romano-Catolic",
+                  "text": "Catedrala Sfântul Gheorghe din Piața Unirii este un monument reprezentativ al barocului austriac, cu o acustică deosebită.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Copiilor Ion Creangă",
+                  "text": "Zonă de recreere modernizată pe malul Begăi, dotată cu numeroase echipamente de joacă tematice pentru cei mici.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia Sfintei Treimi",
+                  "text": "Monument baroc ridicat în centrul Pieței Unirii ca semn de recunoștință pentru încetarea epidemiei de ciumă din 1738.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -2602,6 +3232,96 @@ export const romaniaCities: POI[] = [
                   "name": "Sinagoga din Cetate",
                   "text": "A stunning Moorish-style synagogue that stands as a testament to the city's multicultural history.",
                   "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Baroque Palace",
+                  "text": "Home to the Timișoara Art Museum, this late Baroque building in Unirii Square is one of the city's most elegant landmarks.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Banat Village Museum",
+                  "text": "An open-air museum showcasing traditional rural architecture and folk culture of the Banat region through authentic households.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Liberty Square",
+                  "text": "A historic square featuring distinctive red pavement, surrounded by Baroque buildings and the statue of Saint Mary and Saint John Nepomuk.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Romanian National Opera",
+                  "text": "A prominent cultural venue located in Victoria Square, housed in a landmark building designed by famous Viennese architects.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Revolution Memorial",
+                  "text": "A museum documenting the 1989 Revolution that started in Timișoara, featuring unique artifacts, films, and historical documents.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fabric Synagogue",
+                  "text": "A grand eclectic building with Moorish and Neo-Gothic elements, reflecting the historical importance of the Jewish community in the Fabric district.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Millennium Church",
+                  "text": "The largest Roman Catholic church in the city, built in Neo-Gothic style to mark 1,000 years of the Hungarian state.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Timișoreana Brewery",
+                  "text": "Established in 1718, it is the oldest brewery in Romania and a significant monument of industrial heritage.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dicasterial Palace",
+                  "text": "A massive building inspired by the Italian Renaissance, currently serving as the main courthouse of the city.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lloyd Palace",
+                  "text": "An elegant Art Nouveau building in Victoria Square that once served as the Agricultural Exchange and now houses a university rectorate.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Botanical Park",
+                  "text": "A tranquil urban garden near the city center, featuring a diverse collection of trees, flowers, and peaceful walking paths.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bega Canal",
+                  "text": "Romania's first navigable canal, lined with parks and bike lanes, popular for sightseeing boat tours and outdoor activities.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Roman Catholic Dome",
+                  "text": "Located in Unirii Square, this Saint George Cathedral is a masterpiece of Austrian Baroque architecture with a rich interior.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ion Creangă Children's Park",
+                  "text": "A large recreational area on the banks of the Bega River, featuring modern playgrounds and themed attractions for families.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Holy Trinity Statue",
+                  "text": "A Baroque monument in Unirii Square erected to commemorate the end of the plague epidemic in the mid-18th century.",
+                  "category": "historical",
                   "confidence": "high"
             }
       ]
@@ -2733,6 +3453,96 @@ export const romaniaCities: POI[] = [
                   "text": "Eines der renommiertesten Theater Rumäniens, bekannt für seine innovativen Aufführungen und internationale Bedeutung.",
                   "category": "cultural",
                   "confidence": "high"
+            },
+            {
+                  "name": "Jean-Mihail-Palast",
+                  "text": "Dieser prächtige Palast im neobarocken Stil beherbergt heute das Kunstmuseum und besticht durch vergoldete Stuckaturen und Seidentapeten.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kirche Sfântul Gheorghe Vechi",
+                  "text": "Eines der ältesten Gotteshäuser der Stadt, bekannt für seine wertvollen Ikonen und die traditionelle walachische Architektur.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Haus der Akademiker (Casa Universitarilor)",
+                  "text": "Ein architektonisches Juwel aus dem 19. Jahrhundert, das einst eine private Residenz war und heute für akademische Veranstaltungen genutzt wird.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ion-Oblemenco-Stadion",
+                  "text": "Ein hochmodernes Fußballstadion mit futuristischem Design, das als Heimstätte des Vereins Universitatea Craiova dient.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Banu-Mărăcine-Kirche",
+                  "text": "Ein historisches religiöses Denkmal, das für seine Verbindung zu den lokalen Bojarenfamilien und seine Wandmalereien bekannt ist.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Mihai Viteazul",
+                  "text": "Der zentrale Platz der Stadt, dominiert von der Statue des Fürsten Michael der Tapfere und umgeben von wichtigen öffentlichen Gebäuden.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ethnographisches Museum (Casa Băniei)",
+                  "text": "Das älteste nicht-religiöse Gebäude der Stadt, erbaut im 17. Jahrhundert, präsentiert heute Volkskunst und Traditionen der Oltenia.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grivita-Platz und Fußgängerzone",
+                  "text": "Ein lebendiger Bereich im Stadtzentrum mit zahlreichen Cafés, Geschäften und renovierten Gebäuden aus der Belle Époque.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musikpavillon im Romanescu-Park",
+                  "text": "Ein eleganter schmiedeeiserner Pavillon, der Ende des 19. Jahrhunderts in Wien entworfen wurde und für Konzerte genutzt wird.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hängebrücke im Romanescu-Park",
+                  "text": "Eine markante Landmarke des Parks, die den See überquert und einen romantischen Ausblick auf die umliegende Landschaft bietet.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palast der Gerechtigkeit",
+                  "text": "Ein monumentales Gebäude im neoklassizistischen Stil, das heute den Sitz der Universität von Craiova beherbergt.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Denkmal der Revolution von 1848",
+                  "text": "Eine Skulpturengruppe, die an die revolutionären Ereignisse in der Walachei und die lokalen Helden erinnert.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kloster Coșuna",
+                  "text": "Ein mittelalterliches Kloster am Stadtrand, dessen Kirche aus dem 15. Jahrhundert eines der wertvollsten Denkmäler der Region ist.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bahnhof Craiova",
+                  "text": "Ein wichtiger Verkehrsknotenpunkt mit einem beeindruckenden Empfangsgebäude, das die industrielle Entwicklung der Stadt widerspiegelt.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Elena-Farago-Gedenkhaus",
+                  "text": "Das ehemalige Wohnhaus der berühmten rumänischen Dichterin, das heute Einblicke in ihr Leben und Werk bietet.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -2781,6 +3591,96 @@ export const romaniaCities: POI[] = [
             {
                   "name": "Marin Sorescu Nemzeti Színház",
                   "text": "Románia egyik legfontosabb színházi intézménye, amely nemzetközi hírnevét modern előadásainak köszönheti.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jean Mihail-palota",
+                  "text": "Pompás neobarokk épület, amely ma a Művészeti Múzeumnak ad otthont, aranyozott stukkóiról és selyemtapétáiról híres.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent György-templom (Sfântul Gheorghe Vechi)",
+                  "text": "A város egyik legrégebbi temploma, amely értékes ikonjairól és hagyományos havasalföldi építészetéről ismert.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Egyetemi Ház (Casa Universitarilor)",
+                  "text": "19. századi építészeti gyöngyszem, amely egykor magánrezidencia volt, ma akadémiai rendezvények helyszíne.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ion Oblemenco Stadion",
+                  "text": "Modern, futurisztikus megjelenésű labdarúgó-stadion, az Universitatea Craiova csapatának otthona.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Banu Mărăcine-templom",
+                  "text": "Történelmi vallási emlékhely, amely a helyi bojárcsaládokhoz kötődik, belső falfestményei jelentősek.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vitéz Mihály tér (Piața Mihai Viteazul)",
+                  "text": "A város központi tere, melyet Vitéz Mihály fejedelem szobra ural, fontos középületekkel körülvéve.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bánok háza (Casa Băniei)",
+                  "text": "A város legrégebbi világi épülete a 17. századból, ma néprajzi múzeumként működik Olténia hagyományait bemutatva.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grivita tér és sétálóutca",
+                  "text": "Élettel teli belvárosi rész kávézókkal, üzletekkel és felújított Belle Époque stílusú épületekkel.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zenepavilon a Romanescu parkban",
+                  "text": "Elegáns kovácsoltvas pavilon, melyet a 19. század végén Bécsben terveztek, ma is koncertek helyszíne.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Függőhíd a Romanescu parkban",
+                  "text": "A park jellegzetes látványossága, amely a tavat íveli át, romantikus kilátást nyújtva a környékre.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Igazságügyi Palota",
+                  "text": "Monumentális neoklasszicista épület, amely ma a Craiovai Egyetem központi székházaként szolgál.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "1848-as forradalmi emlékmű",
+                  "text": "Szoborcsoport, amely a havasalföldi forradalmi eseményeknek és a helyi hősöknek állít emléket.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Coșuna-kolostor",
+                  "text": "Középkori kolostor a város szélén, 15. századi temploma a régió egyik legértékesebb műemléke.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Craiova vasútállomás",
+                  "text": "Fontos közlekedési csomópont impozáns épülettel, amely a város ipari fejlődését tükrözi.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Elena Farago emlékház",
+                  "text": "A híres román költőnő egykori lakóháza, amely bemutatja életútját és irodalmi munkásságát.",
                   "category": "cultural",
                   "confidence": "high"
             }
@@ -2833,6 +3733,96 @@ export const romaniaCities: POI[] = [
                   "text": "O instituție teatrală de renume mondial, celebră pentru festivalurile internaționale de Shakespeare organizate aici.",
                   "category": "cultural",
                   "confidence": "high"
+            },
+            {
+                  "name": "Palatul Jean Mihail",
+                  "text": "Un palat somptuos în stil neobaroc care adăpostește Muzeul de Artă, faimos pentru stucaturile aurite și tapetul de mătase.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfântul Gheorghe Vechi",
+                  "text": "Unul dintre cele mai vechi lăcașuri de cult din oraș, cunoscut pentru icoanele sale valoroase și arhitectura tradițională.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Universitarilor",
+                  "text": "O bijuterie arhitecturală din secolul al XIX-lea, fostă reședință privată, utilizată astăzi pentru evenimente academice.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stadionul Ion Oblemenco",
+                  "text": "Un stadion de fotbal ultra-modern cu un design futurist, sediul echipei Universitatea Craiova.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Banu Mărăcine",
+                  "text": "Monument istoric religios legat de vechile familii boierești, remarcabil prin picturile sale interioare.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Mihai Viteazul",
+                  "text": "Piața centrală a orașului, dominată de statuia domnitorului Mihai Viteazul și înconjurată de clădiri publice importante.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Băniei",
+                  "text": "Cea mai veche clădire civilă din oraș, datând din secolul al XVII-lea, găzduiește astăzi Secția de Etnografie a Muzeului Olteniei.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Grivița și Centrul Vechi",
+                  "text": "O zonă pietonală vibrantă cu numeroase cafenele, magazine și clădiri restaurate din perioada Belle Époque.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Chioșcul de Muzică din Parcul Romanescu",
+                  "text": "Un foișor elegant din fier forjat proiectat la Viena la sfârșitul secolului al XIX-lea, punct central pentru concerte în aer liber.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Podul Suspendat din Parcul Romanescu",
+                  "text": "Un reper iconic al parcului care traversează lacul, oferind vederi romantice asupra peisajului înconjurător.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul de Justiție (Universitatea)",
+                  "text": "Clădire monumentală în stil neoclasic care servește astăzi drept sediu central al Universității din Craiova.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monumentul Revoluției de la 1848",
+                  "text": "Un grup statuar care comemorează evenimentele revoluționare din Țara Românească și eroii locali ai mișcării.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mănăstirea Coșuna",
+                  "text": "Mănăstire medievală situată la periferia orașului, cu o biserică din secolul al XV-lea, unul dintre cele mai vechi monumente din zonă.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gara Craiova",
+                  "text": "Un nod feroviar major cu o clădire impunătoare care reflectă importanța industrială și comercială a orașului.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Memorială Elena Farago",
+                  "text": "Fosta locuință a celebrei poete românce, oferind o privire asupra vieții și operei sale literare.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -2881,6 +3871,96 @@ export const romaniaCities: POI[] = [
             {
                   "name": "Marin Sorescu National Theatre",
                   "text": "One of Romania's most prestigious theaters, internationally acclaimed for its high-quality performances and Shakespeare festivals.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jean Mihail Palace",
+                  "text": "A magnificent Neo-Baroque palace now housing the Art Museum, famous for its gilded stuccos and silk wallpapers.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sfântul Gheorghe Vechi Church",
+                  "text": "One of the oldest places of worship in the city, known for its valuable icons and traditional Wallachian architecture.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Academicians' House (Casa Universitarilor)",
+                  "text": "A 19th-century architectural gem, formerly a private residence, now used for high-profile academic events.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ion Oblemenco Stadium",
+                  "text": "A state-of-the-art football stadium with a futuristic design, home to the Universitatea Craiova club.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Banu Mărăcine Church",
+                  "text": "A historical religious monument linked to local boyar families, notable for its preserved interior murals.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mihai Viteazul Square",
+                  "text": "The city's central square, dominated by the statue of Prince Michael the Brave and surrounded by key civic buildings.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Băniei (Băniei House)",
+                  "text": "The oldest non-religious building in the city, dating to the 17th century, now home to an ethnographic museum.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grivita Square and Old Town",
+                  "text": "A vibrant pedestrianized area in the city center with numerous cafes, shops, and restored Belle Époque buildings.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Music Pavilion in Romanescu Park",
+                  "text": "An elegant wrought-iron pavilion designed in Vienna in the late 19th century, still used for outdoor concerts.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Suspension Bridge in Romanescu Park",
+                  "text": "An iconic landmark of the park crossing the lake, offering romantic views of the surrounding landscape.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palace of Justice (University Building)",
+                  "text": "A monumental Neoclassical building that currently serves as the main headquarters of the University of Craiova.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "1848 Revolution Monument",
+                  "text": "A sculptural group commemorating the revolutionary events in Wallachia and the local heroes of the movement.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Coșuna Monastery",
+                  "text": "A medieval monastery on the outskirts of the city, its 15th-century church is one of the region's most valuable monuments.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Craiova Railway Station",
+                  "text": "A major transport hub with an impressive building reflecting the city's long-standing industrial importance.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Elena Farago Memorial House",
+                  "text": "The former residence of the famous Romanian poet, offering insights into her life and literary contributions.",
                   "category": "cultural",
                   "confidence": "high"
             }
@@ -3007,6 +4087,96 @@ export const romaniaCities: POI[] = [
                   "text": "Diese monumentale Synagoge am Ufer des Schnellen Kreisch ist für ihre eklektische Architektur und hervorragende Akustik bekannt.",
                   "category": "religious",
                   "confidence": "high"
+            },
+            {
+                  "name": "Moskovits-Palais",
+                  "text": "Ein prachtvolles Jugendstilgebäude aus dem Jahr 1905, bekannt für seine hellblauen Fassaden und reichen floralen Ornamente.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nymphaea Aquapark",
+                  "text": "Einer der modernsten Wasserparks in Osteuropa, der sich über 7 Hektar erstreckt und zahlreiche Thermalbecken und Rutschen bietet.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rathausturm",
+                  "text": "Der 50 Meter hohe Turm des neoklassizistischen Rathauses bietet einen Panoramablick über die Stadt und beherbergt eine historische Uhr.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palais Stern",
+                  "text": "Ein beeindruckendes Beispiel der Secessions-Architektur am Ferdinand-Platz, erbaut nach Plänen der Architekten Komor und Jakab.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palais Poynar",
+                  "text": "Ein markantes Gebäude an der Crișul Repede, das durch seine eklektischen Formen und die markante Eckkuppel auffällt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum der Region Crișana",
+                  "text": "Eines der größten Museen Rumäniens, untergebracht im ehemaligen Barockpalast, mit Abteilungen für Geschichte, Kunst und Naturkunde.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ady-Endre-Gedenkmuseum",
+                  "text": "Das Museum ist dem berühmten ungarischen Dichter gewidmet, der in Oradea lebte und arbeitete, und befindet sich in einem ehemaligen Café.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Darvas-La Roche Haus",
+                  "text": "Das erste Jugendstil-Museum Rumäniens, ein architektonisches Juwel mit originalen Glasmalereien und Möbeln aus der Zeit um 1910.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ciuperca-Hügel",
+                  "text": "Ein beliebter Aussichtspunkt und Parkanlage, die einen der besten Ausblicke auf das Stadtzentrum und den Fluss Crișul Repede bietet.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palais Apollo",
+                  "text": "Ein monumentales Gebäude im Empire-Stil, das zu Beginn des 20. Jahrhunderts als Wohn- und Geschäftshaus errichtet wurde.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Park 1. Dezember",
+                  "text": "Die größte zentrale Grünanlage der Stadt, die Denkmäler, Springbrunnen und weitläufige Spazierwege für die Bürger beherbergt.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Freimaurermuseum",
+                  "text": "Untergebracht im ehemaligen Sitz der Loge St. Ladislaus, zeigt es die Geschichte und Symbole der Freimaurerei in der Region.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Emanuil-Gojdu-Kollegium",
+                  "text": "Ein prestigeträchtiges historisches Gebäude einer der ältesten Bildungseinrichtungen der Stadt, erbaut im eklektischen Stil.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Griechisch-katholische Kathedrale St. Nikolaus",
+                  "text": "Ein bedeutendes religiöses Bauwerk aus dem 19. Jahrhundert, das nach einem Brand im neoklassizistischen Stil wiederaufgebaut wurde.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rimanóczy-Kálmán-Palais (Senior)",
+                  "text": "Ein prächtiges Gebäude am Ufer der Crișul Repede, das venezianisch-gotische Elemente mit klassischer Architektur verbindet.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -3050,6 +4220,96 @@ export const romaniaCities: POI[] = [
                   "name": "Cion neológ zsinagóga",
                   "text": "A Sebes-Körös partján álló hatalmas kupolás épület a város zsidó örökségének egyik leglátványosabb és legszebb emléke.",
                   "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Moskovits-palota",
+                  "text": "Kiemelkedő szecessziós épület 1905-ből, amely jellegzetes világoskék homlokzatáról és gazdag stukkódíszítéseiről ismert.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nymphaea Aquapark",
+                  "text": "Kelet-Európa egyik legmodernebb vízi élményparkja, amely 7 hektáron kínál termálvizes medencéket és csúszdákat.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Városháza tornya",
+                  "text": "A neoklasszicista városháza 50 méter magas tornya látogatható, fentről páratlan kilátás nyílik az egész városra.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stern-palota",
+                  "text": "A Komor Marcell és Jakab Dezső tervezte épület a nagyváradi szecesszió egyik legszebb és legkülönlegesebb példája.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Poynar-ház",
+                  "text": "A Sebes-Körös partján álló eklektikus palota, melynek díszes sarki kupolája a városkép meghatározó eleme.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Körösvidéki Múzeum",
+                  "text": "Erdély egyik legnagyobb múzeuma, amely a volt barokk püspöki palotában kapott helyet gazdag gyűjteményeivel.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ady Endre Emlékmúzeum",
+                  "text": "A költő nagyváradi éveinek emléket állító múzeum az egykori Mülleráj cukrászda épületében található.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Darvas–La Roche-ház",
+                  "text": "Románia első szecessziós múzeuma, ahol az eredeti bútorok és ólomüveg ablakok idézik fel a századelő hangulatát.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gomba-domb",
+                  "text": "Népszerű kilátóhely és pihenőpark, ahonnan a legszebb panoráma nyílik a történelmi városközpontra és a Körösre.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Apollo-palota",
+                  "text": "Monumentális birodalmi stílusú épület a Fő utcán, amely a 20. század elején épült bérpalotaként.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "December 1. park",
+                  "text": "A város legnagyobb központi parkja, ahol szökőkutak, emlékművek és árnyas sétányok várják a látogatókat.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szabadkőműves Múzeum",
+                  "text": "Az egykori Szent László szabadkőműves páholy templomában berendezett kiállítás a rend helyi történetét mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Emanuil Gojdu Főgimnázium",
+                  "text": "A város egyik legrégebbi és legnevesebb tanintézményének eklektikus stílusú, tekintélyt parancsoló épülete.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Miklós görögkatolikus székesegyház",
+                  "text": "A 19. században épült monumentális templom, amely egy tűzvész után nyerte el mai neoklasszicista formáját.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Idősebb Rimanóczy Kálmán palotája",
+                  "text": "Velencei gótikus elemekkel díszített pompás épület a Sebes-Körös partján, a város egyik építészeti ékköve.",
+                  "category": "historical",
                   "confidence": "high"
             }
       ],
@@ -3095,6 +4355,96 @@ export const romaniaCities: POI[] = [
                   "text": "Situată pe malul Crișului Repede, această sinagogă monumentală este recunoscută pentru arhitectura sa eclectică și acustica deosebită.",
                   "category": "religious",
                   "confidence": "high"
+            },
+            {
+                  "name": "Palatul Moskovits",
+                  "text": "O clădire emblematică în stil Secession construită în 1905, remarcabilă prin fațada bleu și decorațiunile florale.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aquapark Nymphaea",
+                  "text": "Cel mai modern complex acvatic din vestul țării, întins pe 7 hectare, oferind bazine termale și facilități de relaxare.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turnul Primăriei",
+                  "text": "Oferă o panoramă spectaculoasă asupra orașului de la 50 de metri înălțime, adăpostind și un mecanism de orologiu istoric.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Stern",
+                  "text": "O bijuterie arhitecturală proiectată de Komor și Jakab, fiind un exemplu de referință pentru stilul Secession în Oradea.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Poynar",
+                  "text": "Situat pe malul Crișului Repede, acest palat eclectic se distinge prin cupola sa de colț și detaliile ornamentale.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Țării Crișurilor",
+                  "text": "Instituție muzeală de prestigiu găzduită în fostul Palat Baroc, având secții de istorie, artă și științe naturale.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Memorial Ady Endre",
+                  "text": "Dedicat marelui poet maghiar care a activat în Oradea, muzeul este situat în clădirea fostei cofetării Mülleráj.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Darvas-La Roche",
+                  "text": "Primul muzeu Art Nouveau din România, păstrând interioare originale rafinate și vitralii de o frumusețe rară.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dealul Ciuperca",
+                  "text": "Un loc de belvedere preferat de turiști, oferind cea mai frumoasă perspectivă asupra centrului istoric și a râului.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Apollo",
+                  "text": "Clădire monumentală de la începutul secolului XX, construită în stil Empire pe strada principală a orașului.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul 1 Decembrie",
+                  "text": "Cel mai mare parc central, un spațiu verde generos care găzduiește monumente, fântâni arteziene și alei de plimbare.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Francmasoneriei",
+                  "text": "Găzduit în fosta lojă masonică Sfântul Ladislau, muzeul dezvăluie istoria și simbolurile acestui ordin în regiune.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Colegiul Național Emanuil Gojdu",
+                  "text": "O clădire istorică impunătoare ce aparține uneia dintre cele mai vechi și prestigioase instituții de învățământ.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala Greco-Catolică Sfântul Nicolae",
+                  "text": "Lăcaș de cult monumental construit în stil neoclasic, situat în zona centrală, fiind sediul episcopiei greco-catolice.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Rimanóczy Kálmán Senior",
+                  "text": "Inspirat de palatele venețiene, acest edificiu de pe malul Crișului aduce un farmec aparte arhitecturii orădene.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -3138,6 +4488,96 @@ export const romaniaCities: POI[] = [
                   "name": "Zion Neolog Synagogue",
                   "text": "A majestic building on the banks of the Crisul Repede river, known for its grand dome and impressive eclectic architectural details.",
                   "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Moskovits Palace",
+                  "text": "A stunning Secession-style building from 1905, famous for its light blue facade and intricate floral ornaments.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nymphaea Aquapark",
+                  "text": "One of the most modern water parks in Eastern Europe, covering 7 hectares with thermal pools and many slides.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "City Hall Tower",
+                  "text": "Standing 50 meters tall, the tower provides panoramic views of the city and houses a historical clock mechanism.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stern Palace",
+                  "text": "An architectural masterpiece designed by Komor and Jakab, representing the peak of Oradea's Secession movement.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Poynar Palace",
+                  "text": "Located on the banks of the Crișul Repede river, this eclectic palace is noted for its corner dome and rich details.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum of the Crișana Region",
+                  "text": "One of Romania's largest museums, located in the former Baroque Palace, featuring history, art, and nature sections.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ady Endre Memorial Museum",
+                  "text": "Dedicated to the famous Hungarian poet who lived in Oradea, located in the building of the former Mülleráj café.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Darvas-La Roche House",
+                  "text": "Romania's first Art Nouveau museum, a jewel of architecture with original stained glass and period furniture.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ciuperca Hill",
+                  "text": "A popular viewpoint and park offering the best panoramic vistas over the historical city center and the river.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Apollo Palace",
+                  "text": "A monumental Empire-style building on the main street, built in the early 20th century as a luxury apartment house.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "1st of December Park",
+                  "text": "The city's largest central park, a green oasis featuring monuments, fountains, and wide walking paths.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum of Freemasonry",
+                  "text": "Housed in the former St. Ladislaus Lodge, it showcases the history and symbols of Freemasonry in the region.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Emanuil Gojdu National College",
+                  "text": "An imposing historical building belonging to one of the city's oldest and most prestigious educational institutions.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Nicholas Greek Catholic Cathedral",
+                  "text": "A significant 19th-century religious landmark rebuilt in Neoclassical style after a devastating fire.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rimanóczy Kálmán Senior Palace",
+                  "text": "A magnificent building on the riverbank inspired by Venetian Gothic palaces, adding unique charm to the city.",
+                  "category": "historical",
                   "confidence": "high"
             }
       ]
@@ -3193,6 +4633,78 @@ export const romaniaCities: POI[] = [
                   "text": "Die monumentale Kathedrale wurde zum Gedenken an die Helden des Ersten Weltkriegs erbaut und prägt das Stadtzentrum.",
                   "category": "religious",
                   "confidence": "high"
+            },
+            {
+                  "name": "Museum der Biologie",
+                  "text": "Untergebracht im Kulturpalast, bietet das Museum faszinierende Exponate zur Flora und Fauna der Region und des Landes.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kulturpalast Ploiești",
+                  "text": "Ein monumentales neoklassizistisches Gebäude, das ehemals als Justizpalast diente und heute wichtige kulturelle Institutionen beherbergt.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St.-Paraskevi-Kirche",
+                  "text": "Eine der ältesten und bedeutendsten Kirchen der Stadt, bekannt für ihre Architektur und spirituelle Bedeutung für die Gemeinde.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zentraler Marktplatz",
+                  "text": "Ein lebendiger Ort mit einer markanten Architektur der Markthallen, die das wirtschaftliche Herz der Stadt bilden.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ilie-Oană-Stadion",
+                  "text": "Die moderne Heimstätte des Fußballvereins Petrolul Ploiești, ein zentraler Ort für Sportbegeisterte in der Region.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kunstmuseum Ploiești",
+                  "text": "Es beherbergt eine wertvolle Sammlung rumänischer Malerei und Skulptur aus dem 19. und 20. Jahrhundert.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Mihai Viteazul",
+                  "text": "Ein zentraler Stadtpark mit Statuen und Denkmälern, der nach dem berühmten walachischen Woiwoden benannt ist.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Philharmonie Paul Constantinescu",
+                  "text": "Das Zentrum für klassische Musik in Ploiești, benannt nach dem berühmten rumänischen Komponisten.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bust of Toma Caragiu",
+                  "text": "Ein Denkmal zu Ehren des legendären rumänischen Schauspielers, der eine enge Verbindung zur Stadt Ploiești hatte.",
+                  "category": "historical",
+                  "confidence": "medium"
+            },
+            {
+                  "name": "Kirche der Heiligen Dreifaltigkeit",
+                  "text": "Ein beeindruckendes religiöses Bauwerk mit reicher Innenausstattung, das die orthodoxe Tradition der Region widerspiegelt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gara de Sud (Südbahnhof)",
+                  "text": "Ein wichtiger Verkehrsknotenpunkt mit einem architektonisch interessanten Bahnhofsgebäude aus der Zwischenkriegszeit.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Denkmal für die Helden des Unabhängigkeitskrieges",
+                  "text": "Ein monumentales Denkmal im Stadtzentrum, das an die Tapferkeit der rumänischen Soldaten im 19. Jahrhundert erinnert.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -3218,6 +4730,78 @@ export const romaniaCities: POI[] = [
                   "name": "Keresztelő Szent János-székesegyház",
                   "text": "A város főterén álló monumentális templom az első világháborúban elesett hősök emlékére épült neobizánci stílusban.",
                   "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biológiai Múzeum",
+                  "text": "A Kultúrpalotában helyet kapott múzeum a régió és az ország flóráját és faunáját mutatja be látványos tárlatokkal.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ploiești-i Kultúrpalota",
+                  "text": "Monumentális neoklasszicista épület, amely egykor igazságügyi palota volt, ma kulturális intézményeknek ad otthont.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Paraskevi-templom",
+                  "text": "A város egyik legrégebbi és legfontosabb ortodox temploma, építészeti és vallási jelentősége kiemelkedő.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Központi Vásárcsarnok",
+                  "text": "A város gazdasági életének központja, amely jellegzetes építészeti stílusával és élénk forgalmával hívja fel magára a figyelmet.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ilie Oană Stadion",
+                  "text": "A Petrolul Ploiești labdarúgócsapat modern otthona, a helyi sportélet és szurkolói kultúra központi helyszíne.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ploiești-i Művészeti Múzeum",
+                  "text": "Értékes gyűjteményt őriz a 19. és 20. századi román festészet és szobrászat legkiválóbb alkotásaiból.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mihai Viteazul park",
+                  "text": "Népszerű központi pihenőpark, amely a híres havasalföldi fejedelem nevét viseli és több szobornak ad helyet.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Paul Constantinescu Filharmónia",
+                  "text": "A város klasszikus zenei életének fellegvára, nevét a híres román zeneszerző tiszteletére kapta.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Toma Caragiu mellszobra",
+                  "text": "Emlékmű a legendás román színész tiszteletére, aki pályája során szoros szálakkal kötődött a városhoz.",
+                  "category": "historical",
+                  "confidence": "medium"
+            },
+            {
+                  "name": "Szentháromság-templom",
+                  "text": "Gazdagon díszített belső terű ortodox templom, amely a helyi közösség hitéletének egyik fontos bástyája.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gara de Sud (Déli pályaudvar)",
+                  "text": "Fontos vasúti csomópont, melynek épülete a két világháború közötti időszak építészetének érdekes példája.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Függetlenségi háború hőseinek emlékműve",
+                  "text": "Monumentális emlékmű a város szívében, amely a román katonák önfeláldozásának állít emléket.",
+                  "category": "historical",
                   "confidence": "high"
             }
       ],
@@ -3245,6 +4829,78 @@ export const romaniaCities: POI[] = [
                   "text": "O construcție monumentală ridicată în centrul orașului în memoria eroilor căzuți în Primul Război Mondial.",
                   "category": "religious",
                   "confidence": "high"
+            },
+            {
+                  "name": "Muzeul de Biologie",
+                  "text": "Găzduit în Palatul Culturii, muzeul oferă exponate fascinante despre flora și fauna regiunii și a țării.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Culturii din Ploiești",
+                  "text": "Clădire neoclasică monumentală, fost Palat al Justiției, care adăpostește astăzi importante instituții culturale.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfânta Parascheva",
+                  "text": "Una dintre cele mai vechi și importante biserici din oraș, cunoscută pentru arhitectura sa și valoarea spirituală.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Halele Centrale",
+                  "text": "Un reper arhitectural și comercial al orașului, reprezentând inima economică și un loc plin de viață.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stadionul Ilie Oană",
+                  "text": "Arena modernă a echipei de fotbal Petrolul Ploiești, fiind punctul central pentru evenimentele sportive din județ.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul de Artă Ploiești",
+                  "text": "Deține o colecție valoroasă de pictură și sculptură românească din secolele XIX și XX, fiind un pol cultural major.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Mihai Viteazul",
+                  "text": "Parc central generos care poartă numele marelui voievod, fiind un loc de relaxare și promenadă pentru ploieșteni.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Filarmonica Paul Constantinescu",
+                  "text": "Instituție de prestigiu în domeniul muzicii clasice, numită în onoarea renumitului compozitor român.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bustul lui Toma Caragiu",
+                  "text": "Un omagiu adus marelui actor român care a avut o legătură strânsă cu scena teatrală din Ploiești.",
+                  "category": "historical",
+                  "confidence": "medium"
+            },
+            {
+                  "name": "Biserica Sfânta Treime",
+                  "text": "Un lăcaș de cult ortodox impunător, remarcabil prin pictura interioară și importanța sa pentru comunitate.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gara de Sud",
+                  "text": "Principalul nod feroviar al orașului, având o clădire cu valoare arhitecturală specifică perioadei interbelice.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monumentul Eroilor din Războiul de Independență",
+                  "text": "Un simbol al recunoștinței față de soldații români, amplasat strategic în zona centrală a orașului.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -3270,6 +4926,78 @@ export const romaniaCities: POI[] = [
                   "name": "Cathedral of Saint John the Baptist",
                   "text": "A monumental cathedral built in memory of the heroes of World War I, serving as a major landmark in the city center.",
                   "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biology Museum",
+                  "text": "Housed within the Palace of Culture, the museum features fascinating exhibits about the region's flora and fauna.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palace of Culture",
+                  "text": "A monumental Neoclassical building, formerly the Palace of Justice, now hosting various cultural institutions.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Paraskevi Church",
+                  "text": "One of the oldest and most significant churches in the city, known for its architecture and spiritual value.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Central Market Halls",
+                  "text": "An architectural and commercial landmark of Ploiești, serving as the economic heart of the city center.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ilie Oană Stadium",
+                  "text": "The modern home of the Petrolul Ploiești football club, a central hub for sports enthusiasts in the region.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ploiești Art Museum",
+                  "text": "It houses a valuable collection of Romanian painting and sculpture from the 19th and 20th centuries.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mihai Viteazul Park",
+                  "text": "A central city park named after the famous Wallachian ruler, featuring statues and walking paths for residents.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Paul Constantinescu Philharmonic",
+                  "text": "The center for classical music in Ploiești, named after the renowned Romanian composer born in the city.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bust of Toma Caragiu",
+                  "text": "A monument honoring the legendary Romanian actor who had a strong connection to the local theater scene.",
+                  "category": "historical",
+                  "confidence": "medium"
+            },
+            {
+                  "name": "Holy Trinity Church",
+                  "text": "An impressive Orthodox religious building with rich interior decorations, central to the local faith.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gara de Sud (South Station)",
+                  "text": "A major railway hub with an architecturally interesting building dating back to the interwar period.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monument to the Heroes of the Independence War",
+                  "text": "A monumental sculpture in the city center dedicated to the bravery of Romanian soldiers in the 19th century.",
+                  "category": "historical",
                   "confidence": "high"
             }
       ]
@@ -3330,6 +5058,66 @@ export const romaniaCities: POI[] = [
                   "text": "Eine historische orthodoxe Kirche im Stadtzentrum, die für ihre traditionelle Architektur und religiöse Bedeutung in der Gemeinde bekannt ist.",
                   "category": "religious",
                   "confidence": "high"
+            },
+            {
+                  "name": "Musikalische Fontäne",
+                  "text": "Ein modernes Wahrzeichen im Stadtzentrum, das spektakuläre Shows mit Wasser, farbigem Licht und Musik bietet.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alexandru-Davila-Theater",
+                  "text": "Das renommierte Kulturzentrum der Stadt mit Sektionen für Drama, Revue und ein beliebtes Puppentheater.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kunstgalerie Rudolf Schweitzer-Cumpăna",
+                  "text": "In der ehemaligen Stadthalle untergebracht, zeigt sie eine beeindruckende Sammlung rumänischer Malerei und Skulptur.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Expo-Park",
+                  "text": "Ein weitläufiger Stadtpark, der jedes Jahr im Frühling Austragungsort der berühmten Blumensymphonie ist.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lunca Argeșului Park",
+                  "text": "Der größte Park der Stadt am Ufer des Argeș bietet Radwege, Sportplätze und moderne Erholungsflächen.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfânta Vineri",
+                  "text": "Eine imposante orthodoxe Kirche aus dem frühen 20. Jahrhundert, bekannt für ihre Architektur und Wandmalereien.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nicolae-Dobrin-Stadion",
+                  "text": "Die Heimspielstätte des FC Argeș, benannt nach der rumänischen Fußballlegende, die hier ihre Karriere begann.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kulturhaus der Gewerkschaften",
+                  "text": "Ein monumentaler Bau aus der kommunistischen Ära, der heute für Konzerte, Messen und Theateraufführungen genutzt wird.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Das Weiße Haus (Verwaltungsgebäude)",
+                  "text": "Das markante Verwaltungsgebäude am zentralen Platz beherbergt die Präfektur und den Kreisrat von Argeș.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bahnhof Pitești",
+                  "text": "Ein wichtiger Verkehrsknotenpunkt mit einem modernen Terminal, das die Stadt mit Bukarest und Siebenbürgen verbindet.",
+                  "category": "station",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -3361,6 +5149,66 @@ export const romaniaCities: POI[] = [
                   "name": "Szent György-templom",
                   "text": "Pitești központjának jelentős ortodox temploma, amely hagyományos építészeti stílusával és vallási szerepével kiemelkedik a városban.",
                   "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zenélő szökőkút",
+                  "text": "Pitești városközpontjának egyik fő látványossága, amely fény- és zenei játékkal kísért vízi show-t kínál.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alexandru Davila Színház",
+                  "text": "A város legfontosabb kulturális intézménye, ahol drámai előadásokat, revüműsorokat és bábszínházat rendeznek.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rudolf Schweitzer-Cumpăna Művészeti Galéria",
+                  "text": "A régi városháza épületében helyet kapott galéria jelentős román képzőművészeti gyűjteményt mutat be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Expo Park",
+                  "text": "Népszerű zöldövezet, amely minden évben otthont ad a látványos Virágszimfónia fesztiválnak.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lunca Argeșului Park",
+                  "text": "Az Argeș folyó partján elterülő modern pihenőpark sportpályákkal, bicikliutakkal és sétányokkal.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Péntek templom",
+                  "text": "A 20. század elején épült, jellegzetes építészeti stílusú ortodox templom Pitești egyik vallási központja.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nicolae Dobrin Stadion",
+                  "text": "A helyi futballcsapat otthona, amelyet Románia egyik leghíresebb labdarúgójáról neveztek el.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szakszervezetek Művelődési Háza",
+                  "text": "Hatalmas közösségi épület, amely koncerteknek, előadásoknak és különböző kulturális eseményeknek ad helyet.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fehér Ház (Közigazgatási Palota)",
+                  "text": "A központi téren álló monumentális épület, ahol a megyei tanács és a prefektúra hivatala működik.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pitești vasútállomás",
+                  "text": "Modern vasúti csomópont, amely összeköti a várost a fővárossal és az ország többi részével.",
+                  "category": "station",
                   "confidence": "high"
             }
       ],
@@ -3394,6 +5242,66 @@ export const romaniaCities: POI[] = [
                   "text": "O biserică ortodoxă emblematică situată în centrul orașului, reprezentând un punct de reper spiritual și arhitectural important.",
                   "category": "religious",
                   "confidence": "high"
+            },
+            {
+                  "name": "Fântâna Muzicală",
+                  "text": "Un simbol modern al centrului civic, oferind spectacole impresionante de apă, lumini și muzică în serile de vară.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Teatrul Alexandru Davila",
+                  "text": "Instituție culturală de prestigiu, fondată în 1948, ce cuprinde secții de dramă, estradă și păpuși.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Galeria de Artă Rudolf Schweitzer-Cumpăna",
+                  "text": "Găzduită în clădirea fostei Primării, muzeul deține o valoroasă colecție de pictură și sculptură românească.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Expoziției",
+                  "text": "Zonă verde emblematică unde are loc anual festivalul Simfonia Florilor, atrăgând mii de turiști.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Lunca Argeșului",
+                  "text": "Cel mai mare parc al orașului, amenajat pe malul râului Argeș, ideal pentru sport, relaxare și evenimente în aer liber.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfânta Vineri",
+                  "text": "Lăcaș de cult ortodox ridicat la începutul secolului XX, remarcabil prin pictura interioară și arhitectura sa.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stadionul Nicolae Dobrin",
+                  "text": "Arena echipei FC Argeș, purtând numele legendarului fotbalist român născut și format în Pitești.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa de Cultură a Sindicatelor",
+                  "text": "Edificiu impunător situat în zona centrală, sediu pentru numeroase spectacole de teatru, concerte și conferințe.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Albă (Palatul Administrativ)",
+                  "text": "Clădire de referință a orașului ce adăpostește sediile Prefecturii și Consiliului Județean Argeș.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gara Pitești",
+                  "text": "Modernizată recent, stația feroviară este un punct vital de tranzit pe ruta București-Curtea de Argeș.",
+                  "category": "station",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -3425,6 +5333,66 @@ export const romaniaCities: POI[] = [
                   "name": "Saint George Church",
                   "text": "An iconic Orthodox church located in the city center, known for its traditional design and significant religious role in the community.",
                   "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musical Fountain",
+                  "text": "A modern landmark in the city center, offering impressive water, light, and music performances during summer nights.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alexandru Davila Theater",
+                  "text": "The city's main cultural institution, established in 1948, featuring drama, variety, and puppet shows.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rudolf Schweitzer-Cumpăna Art Gallery",
+                  "text": "Located in the former City Hall building, it houses an important collection of Romanian fine arts.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Expo Park",
+                  "text": "A beautiful public park that hosts the annual Flower Symphony festival, a major regional attraction.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lunca Argeșului Park",
+                  "text": "The largest park in the city, situated along the Argeș River, featuring bike paths and sports facilities.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Friday Church",
+                  "text": "A significant Orthodox church built in the early 20th century, known for its distinct architecture.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nicolae Dobrin Stadium",
+                  "text": "The home ground of FC Argeș, named after the legendary Romanian football player Nicolae Dobrin.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Trade Unions Culture House",
+                  "text": "A large multipurpose building in the city center used for concerts, exhibitions, and theater plays.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The White House (Administrative Palace)",
+                  "text": "The main administrative building of the Argeș County, located in the central square of Pitești.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pitești Railway Station",
+                  "text": "A recently modernized transport hub connecting the city with Bucharest and other major Romanian regions.",
+                  "category": "station",
                   "confidence": "high"
             }
       ]
@@ -3515,6 +5483,96 @@ export const romaniaCities: POI[] = [
                   "text": "Eine Treppe mit fast 500 Stufen, die das Stadtzentrum mit dem Cornesti-Plateau verbindet und durch eine malerische Umgebung führt.",
                   "category": "recreational",
                   "confidence": "high"
+            },
+            {
+                  "name": "Nationaltheater",
+                  "text": "Ein modernes Gebäude am Hauptplatz, das sowohl rumänische als auch ungarische Theaterensembles beherbergt.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Apollo-Palast",
+                  "text": "Ein neoklassizistisches Gebäude aus dem 19. Jahrhundert, das einst das Zentrum des gesellschaftlichen Lebens war.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Somostető-Plateau",
+                  "text": "Der höchste Punkt der Stadt mit einem großen Waldpark, Sportwegen und Panoramablick auf das Maros-Tal.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Weekend-Freizeitzentrum",
+                  "text": "Ein weitläufiges Erholungsgebiet am Maros-Ufer mit zahlreichen Schwimmbecken, Sportplätzen und Terrassen.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ethnographisches Museum",
+                  "text": "Im barocken Toldalagi-Palast untergebracht, zeigt es Trachten, Keramik und Volkskunst aus Siebenbürgen.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Naturwissenschaftliches Museum",
+                  "text": "Beherbergt bedeutende Sammlungen zur Mineralogie und Zoologie in einem eleganten historischen Gebäude.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kleine Reformierte Kirche",
+                  "text": "Ein klassizistisches Gotteshaus aus dem 19. Jahrhundert, bekannt für seine schlichte und elegante Architektur.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bahnhof Târgu Mureș",
+                  "text": "Ein historisches Verkehrsgebäude, das die Stadt seit dem späten 19. Jahrhundert mit dem nationalen Bahnnetz verbindet.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bernády-György-Statue",
+                  "text": "Ein Denkmal für den bedeutendsten Bürgermeister der Stadt, der das moderne Stadtbild Anfang des 20. Jahrhunderts schuf.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Avram-Iancu-Statue",
+                  "text": "Ein prominentes Denkmal im Stadtzentrum zu Ehren des Anführers der rumänischen Revolution von 1848.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Verkündigungs-Kathedrale",
+                  "text": "Diese im 20. Jahrhundert erbaute Kirche ist architektonisch dem Petersdom in Rom nachempfunden.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szekler-Märtyrer-Denkmal",
+                  "text": "Ein Obelisk, der an die 1854 hingerichteten Anführer des Szekler-Widerstands erinnert.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Papiu-Ilarian-Gymnasium",
+                  "text": "Ein beeindruckendes Secessionsgebäude, das eine der angesehensten Bildungseinrichtungen der Region beherbergt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Toldalagi-Palast",
+                  "text": "Einer der bedeutendsten Barockbauten der Stadt, heute Sitz der volkskundlichen Abteilung des Kreismuseums.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Holztreppe",
+                  "text": "Eine malerische, überdachte Holztreppe, die als Fußweg zum Somostető-Plateau und zum Zoo dient.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -3576,6 +5634,96 @@ export const romaniaCities: POI[] = [
                   "name": "Rákóczi-lépcső",
                   "text": "Közel 500 fokból álló festett lépcsősor, amely a városközpontot köti össze a Somostetővel, látványos környezetben vezetve.",
                   "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nemzeti Színház",
+                  "text": "A főtéren álló modern épület, amely a város román és magyar színtársulatainak ad otthont.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Apolló-palota",
+                  "text": "Klasszicista stílusú épület az 1820-as évekből, amely egykor a társasági élet és bálok központja volt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Somostető",
+                  "text": "A város legmagasabb pontja, kedvelt pihenőhely állatkerttel, futópályákkal és kilátással a Maros völgyére.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Weekend telep",
+                  "text": "Népszerű szabadidőpark a Maros partján, számos medencével, sportpályával és vendéglátóhellyel.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Néprajzi Múzeum",
+                  "text": "A barokk stílusú Toldalagi-palotában található, gazdag népviseleti és kerámia gyűjteménnyel rendelkezik.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Természettudományi Múzeum",
+                  "text": "Értékes ásványtani és zoológiai gyűjteménynek ad otthont egy elegáns 19. századi épületben.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kistemplom",
+                  "text": "19. századi református templom a belvárosban, amely klasszicista stílusáról és központi elhelyezkedéséről ismert.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vasútállomás",
+                  "text": "A 19. század végén épült közlekedési csomópont, amely összeköti a várost az országos vasúthálózattal.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bernády György szobra",
+                  "text": "Emlékmű a városépítő polgármester tiszteletére, akinek nevéhez fűződik a modern városkép kialakítása.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Avram Iancu szobra",
+                  "text": "A városközpontban álló monumentális szobor, amely az 1848-as román forradalom vezérének állít emléket.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kiskatedrális",
+                  "text": "A 20. század elején épült görögkatolikus templom, amely a római Szent Péter-bazilika kicsinyített mása.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Székely Vértanúk Emlékműve",
+                  "text": "Obeliszk a Postaréten, amely az 1854-ben kivégzett székely szabadságharcosoknak állít emléket.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Papiu Ilarian Líceum",
+                  "text": "Szecessziós stílusú építészeti remekmű, a régió egyik legnevesebb oktatási intézményének székhelye.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Toldalagi-palota",
+                  "text": "A város legszebb barokk épülete, amely jelenleg a Megyei Múzeum néprajzi részlegének ad otthont.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fanyerges (Fa lépcső)",
+                  "text": "Hangulatos, fedett fa lépcsősor, amely közvetlen összeköttetést biztosít a belváros és a Somostető között.",
+                  "category": "historical",
                   "confidence": "high"
             }
       ],
@@ -3639,6 +5787,96 @@ export const romaniaCities: POI[] = [
                   "text": "Ansamblu de aproape 500 de trepte care face legătura între centrul orașului și platoul Cornești, traversând o zonă pitorească.",
                   "category": "recreational",
                   "confidence": "high"
+            },
+            {
+                  "name": "Teatrul Național",
+                  "text": "Clădire modernă situată în Piața Victoriei, ce găzduiește trupele de teatru română și maghiară.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Apollo",
+                  "text": "Edificiu neoclasic ridicat în secolul XIX, fost centru al vieții mondene și culturale a orașului.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Platoul Cornești",
+                  "text": "Cel mai înalt punct al orașului, zonă de agrement cu pădure, grădină zoologică și belvedere asupra Mureșului.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Complexul Weekend",
+                  "text": "Zonă vastă de relaxare pe malul Mureșului, dotată cu bazine, terenuri de sport și numeroase terase.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul de Etnografie",
+                  "text": "Găzduit în Palatul Toldalagi, expune obiecte de port popular, ceramică și artă tradițională transilvăneană.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul de Științele Naturii",
+                  "text": "Deține colecții impresionante de mineralogie, paleontologie și zoologie într-o clădire istorică elegantă.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Mică Reformată",
+                  "text": "Lăcaș de cult de secol XIX, remarcabil prin stilul său clasicist simplu și poziția centrală.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gara Târgu Mureș",
+                  "text": "Nod feroviar important cu o arhitectură de epocă, legând orașul de principalele rute naționale.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia lui Bernády György",
+                  "text": "Monument dedicat primarului care a modernizat orașul la începutul secolului XX, ridicând palatele celebre.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia lui Avram Iancu",
+                  "text": "Monument impunător din centrul orașului, dedicat liderului Revoluției de la 1848 din Transilvania.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala Bunavestire",
+                  "text": "Cunoscută drept Catedrala Mică, a fost construită după modelul Bazilicii Sfântul Petru din Roma.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monumentul Secuilor Martiri",
+                  "text": "Obelisc ridicat în memoria liderilor secui executați în 1854, situat în zona Postarét.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Liceul Papiu Ilarian",
+                  "text": "Clădire simbol a învățământului mureșean, construită în stil secesionist la începutul secolului XX.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Toldalagi",
+                  "text": "Cel mai însemnat monument baroc civil din oraș, servind astăzi drept sediu pentru Muzeul de Etnografie.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Scara de lemn",
+                  "text": "O scară acoperită pitorească ce face legătura între zona centrală și Platoul Cornești.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -3700,6 +5938,96 @@ export const romaniaCities: POI[] = [
                   "name": "Rákóczi Stairs",
                   "text": "A set of nearly 500 steps connecting the city center with the Cornesti Plateau, leading through a picturesque environment.",
                   "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "National Theater",
+                  "text": "A modern cultural venue on the main square hosting both Romanian and Hungarian theatrical companies.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Apollo Palace",
+                  "text": "A Neoclassical 19th-century building that served as the epicenter of the city's high society and balls.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cornești Plateau",
+                  "text": "The city's highest point, featuring a forested park, the zoo, and panoramic views of the Mureș valley.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Weekend Leisure Complex",
+                  "text": "A vast recreational area by the river with several pools, sports courts, and popular outdoor terraces.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ethnography Museum",
+                  "text": "Located in the Baroque Toldalagi Palace, it showcases Transylvanian costumes, ceramics, and folk art.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Natural Science Museum",
+                  "text": "Home to significant mineralogy and zoology collections housed in an elegant 19th-century building.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Small Reformed Church",
+                  "text": "A 19th-century religious landmark known for its classicist architecture and central location near the Citadel.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Târgu Mureș Railway Station",
+                  "text": "A historic transport hub connecting the city to the national rail network since the late 1800s.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bernády György Statue",
+                  "text": "A monument honoring the visionary mayor who modernized the city at the start of the 20th century.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Avram Iancu Statue",
+                  "text": "A prominent city center monument dedicated to the Transylvanian hero of the 1848 revolution.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Annunciation Cathedral",
+                  "text": "Built in the early 20th century, this church was architecturally inspired by St. Peter's Basilica in Rome.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szekler Martyrs Monument",
+                  "text": "An obelisk commemorating the Szekler leaders executed in 1854, located in a quiet memorial area.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Papiu Ilarian High School",
+                  "text": "A stunning Secessionist building that houses one of the most prestigious colleges in the region.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Toldalagi Palace",
+                  "text": "The city's finest Baroque civil building, now home to the ethnographic section of the County Museum.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wooden Stairs",
+                  "text": "A picturesque covered wooden staircase providing a shortcut from the city center to the Plateau.",
+                  "category": "historical",
                   "confidence": "high"
             }
       ]
@@ -3778,6 +6106,96 @@ export const romaniaCities: POI[] = [
                   "text": "Das erste öffentliche Planetarium Rumäniens, das faszinierende astronomische Shows und Bildungsprogramme für Besucher anbietet.",
                   "category": "recreational",
                   "confidence": "high"
+            },
+            {
+                  "name": "Dreifaltigkeitskathedrale",
+                  "text": "Eine monumentale orthodoxe Kathedrale mit goldenen Kuppeln, ein Wahrzeichen des modernen Baia Mare.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Historisches Museum",
+                  "text": "Untergebracht im Gebäude der ehemaligen Münzstätte, zeigt es archäologische Funde aus der Region.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Münzstätten-Bastion",
+                  "text": "Ein Teil der mittelalterlichen Stadtbefestigung, der einst die Goldmünzerei der Stadt schützte.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stadtpark Regina Maria",
+                  "text": "Die wichtigste Grünanlage der Stadt mit altem Baumbestand und ruhigen Spazierwegen nahe dem Zentrum.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stadttheater",
+                  "text": "Ein kulturelles Zentrum mit vielfältigem Spielplan, das eine zentrale Rolle im künstlerischen Leben spielt.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bahnhof Baia Mare",
+                  "text": "Das Tor zur Region Maramureș, das die Stadt mit Cluj und Bukarest verbindet.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bergmannsdenkmal",
+                  "text": "Ein symbolisches Denkmal zu Ehren der Bergleute, die die Geschichte der Stadt über Jahrhunderte prägten.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Blumenhügel",
+                  "text": "Ein beliebter Aussichtspunkt mit Blick über die Stadt, bekannt für seine schönen Grünflächen.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kathedrale Mariä Entschlafung",
+                  "text": "Eine elegante Kirche aus dem frühen 20. Jahrhundert mit wertvollen Wandmalereien im Inneren.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Millennium-Zentrum",
+                  "text": "Ein restaurierter Komplex historischer Gebäude in der Altstadt, heute ein Ort für Kultur und Business.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kulturhaus",
+                  "text": "Ein großes Veranstaltungszentrum für Konzerte, Ausstellungen und öffentliche Feierlichkeiten.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Petre-Dulfu-Bibliothek",
+                  "text": "Eine der modernsten Bibliotheken Rumäniens und ein wichtiges kulturelles Informationszentrum.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mara-Park",
+                  "text": "Eine zentrale Grünanlage mit Springbrunnen, beliebt für Freizeitaktivitäten inmitten der Stadt.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Săsar-Promenade",
+                  "text": "Ein neu gestalteter Fuß- und Radweg entlang des Flusses Săsar, der durch das gesamte Stadtgebiet führt.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wasserturm",
+                  "text": "Ein Relikt des industriellen Erbes der Stadt, das heute als historisches Denkmal erhalten ist.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -3827,6 +6245,96 @@ export const romaniaCities: POI[] = [
                   "name": "Planetárium",
                   "text": "Románia első nyilvános planetáriuma, amely izgalmas csillagászati bemutatókat és oktatási programokat kínál a látogatóknak.",
                   "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szentháromság-székesegyház",
+                  "text": "Hatalmas ortodox katedrális aranyozott kupolákkal, a város egyik legújabb vallási jelképe.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Történelmi és Régészeti Múzeum",
+                  "text": "Az egykori Pénzverde épületében található, ahol a régió gazdag bányászati múltját mutatják be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pénzverde-bástya",
+                  "text": "A középkori városfal része, amely egykor a város stratégiai fontosságú pénzverdéjét védte.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Regina Maria park",
+                  "text": "A város központi zöldövezete évszázados fákkal és csendes sétányokkal a belváros szélén.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Városi Színház",
+                  "text": "Fontos kulturális központ, amely változatos előadásaival a nagybányai művészeti élet alapköve.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vasútállomás",
+                  "text": "Máramaros kapuja, amely biztosítja az összeköttetést Kolozsvárral és Bukaresttel.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bányász-emlékmű",
+                  "text": "A nagybányai bányászok generációinak állít emléket, akik meghatározták a város fejlődését.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Virághegy",
+                  "text": "Népszerű kilátóhely és pihenőövezet, ahonnan csodálatos panoráma nyílik az egész városra.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Boldogasszony-székesegyház",
+                  "text": "A 20. század elején épült elegáns ortodox templom, belső falfestményei művészeti értéket képviselnek.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Millennium Központ",
+                  "text": "Az óvárosban található felújított műemlékegyüttes, amely üzleti és kulturális célokat szolgál.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Művelődési Ház",
+                  "text": "Számos koncertnek, kiállításnak és közösségi rendezvénynek helyet adó nagyszabású épület.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Petre Dulfu Könyvtár",
+                  "text": "Korszerű könyvtárépület, amely a megye egyik legfontosabb információs és kulturális központja.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mara park",
+                  "text": "Modern park a városközpontban, szökőkútjaival népszerű találkozóhely a lakosok körében.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zazar-part",
+                  "text": "A Zazar folyó mentén kialakított sétány és kerékpárút, amely átszeli az egész várost.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Víztorony",
+                  "text": "A város ipari örökségének maradványa, amely ma műemlékként emlékeztet a múltra.",
+                  "category": "historical",
                   "confidence": "high"
             }
       ],
@@ -3878,6 +6386,96 @@ export const romaniaCities: POI[] = [
                   "text": "Primul planetariu public din România, oferind spectacole astronomice captivante și programe educative pentru toate vârstele.",
                   "category": "recreational",
                   "confidence": "high"
+            },
+            {
+                  "name": "Catedrala Sfânta Treime",
+                  "text": "O catedrală ortodoxă impunătoare cu cupole aurite, devenită un simbol al orașului modern.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul de Istorie și Arheologie",
+                  "text": "Situat în clădirea fostei Monetării, adăpostește colecții valoroase din preistorie până în prezent.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bastionul Monetăriei",
+                  "text": "Turn medieval fortificat ce făcea parte din incinta orașului, protejând locul unde se băteau monede.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Municipal Regina Maria",
+                  "text": "Principalul spațiu verde al orașului, oferind alei liniștite și arbori seculari pentru recreere.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Teatrul Municipal",
+                  "text": "Instituție culturală de prestigiu ce oferă spectacole variate, fiind inima vieții artistice locale.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gara Baia Mare",
+                  "text": "Poarta feroviară a Maramureșului, asigurând legătura orașului cu principalele centre din țară.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monumentul Minerului",
+                  "text": "Statuie simbolică dedicată generațiilor de mineri care au clădit prosperitatea orașului.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dealul Florilor",
+                  "text": "Zonă de belvedere pitorească ce oferă o panoramă superbă asupra întregii depresiuni a Băii Mari.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala Adormirea Maicii Domnului",
+                  "text": "Lăcaș de cult elegant construit la începutul secolului XX, remarcabil prin pictura sa interioară.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Centrul Millennium",
+                  "text": "Complex de clădiri istorice restaurate din Centrul Vechi, utilizat pentru evenimente culturale și afaceri.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa de Cultură",
+                  "text": "Edificiu de mari dimensiuni ce găzduiește concerte, conferințe și expoziții artistice.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biblioteca Județeană Petre Dulfu",
+                  "text": "Un centru modern de informare și cultură, fiind una dintre cele mai dotate biblioteci din România.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Mara",
+                  "text": "Parc central situat în apropierea centrului administrativ, popular pentru fântânile sale arteziene.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Malul Săsarului",
+                  "text": "Promenadă recent modernizată de-a lungul râului Săsar, cu piste de biciclete și zone de relaxare.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turnul de Apă",
+                  "text": "Vestigiu al patrimoniului industrial al orașului, conservat ca un monument istoric interesant.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -3927,6 +6525,96 @@ export const romaniaCities: POI[] = [
                   "name": "Planetarium",
                   "text": "The first public planetarium in Romania, offering captivating astronomical shows and educational programs for all ages.",
                   "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Holy Trinity Cathedral",
+                  "text": "A majestic Orthodox cathedral with distinctive golden domes, a major landmark of modern Baia Mare.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "History and Archaeology Museum",
+                  "text": "Housed in the former Mint building, it displays rich collections from the Bronze Age to modern times.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mint Bastion",
+                  "text": "A well-preserved medieval tower that once guarded the city's important gold and silver mint.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Queen Mary Municipal Park",
+                  "text": "The city's primary green oasis featuring century-old trees and peaceful walking paths.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Municipal Theater",
+                  "text": "A cultural hub offering a diverse repertoire of performances, central to the city's artistic identity.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Baia Mare Railway Station",
+                  "text": "The main gateway to the Maramureș region, connecting the city to Cluj and Bucharest.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Miner's Monument",
+                  "text": "A symbolic statue honoring the generations of miners who shaped the history and economy of the town.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Flower Hill",
+                  "text": "A scenic vantage point offering panoramic views over the city and the surrounding mountains.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Assumption Cathedral",
+                  "text": "An elegant early 20th-century church known for its fine architecture and beautiful murals.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Millennium Center",
+                  "text": "A beautifully restored complex of historic buildings in the Old Town, now a cultural and business hub.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "House of Culture",
+                  "text": "A large venue hosting various concerts, exhibitions, and community events throughout the year.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Petre Dulfu Library",
+                  "text": "A state-of-the-art library building serving as a major information and cultural center for the county.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mara Park",
+                  "text": "A centrally located park near the administrative center, popular for its modern design and fountains.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Săsar Bank",
+                  "text": "A modernized promenade along the Săsar River featuring bike paths and leisure areas.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Water Tower",
+                  "text": "A historical remnant of the city's industrial development, now standing as an urban monument.",
+                  "category": "historical",
                   "confidence": "high"
             }
       ]
@@ -4006,6 +6694,96 @@ export const romaniaCities: POI[] = [
                   "text": "Der ehemalige Sitz der Fürsten von Siebenbürgen ist ein bedeutendes historisches Gebäude innerhalb der Mauern der Zitadelle.",
                   "category": "historical",
                   "confidence": "high"
+            },
+            {
+                  "name": "Das erste Tor",
+                  "text": "Dieses prächtige Triumphbogen aus dem 18. Jahrhundert bildet den Haupteingang zur Festung von der Ostseite.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Das zweite Tor",
+                  "text": "Ein teilweise erhaltenes barockes Tor, das sich am Ende der ersten Steigung innerhalb der Festungsmauern befindet.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Das vierte Tor",
+                  "text": "Dieses im Barockstil erbaute Tor liegt auf der Westseite und diente früher als direkter Zugang zum Fürstenpalast.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Das fünfte Tor",
+                  "text": "Ein einfaches, aber massives Steintor auf der Westseite der Festung, das Teil der äußeren Verteidigungslinie ist.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Das sechste Tor",
+                  "text": "Das Tor wurde zu Ehren von König Ferdinand I. und Königin Maria für die Krönungsfeierlichkeiten im Jahr 1922 umgebaut.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Reiterstatue von Michael dem Tapferen",
+                  "text": "Ein monumentales Bronzedenkmal vor dem Fürstenpalast, das an den Woiwoden erinnert, der die drei Fürstentümer einte.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Arhiepiscopal",
+                  "text": "Der Sitz der römisch-katholischen Diözese ist ein historisches Gebäude mit einer Architektur, die Jahrhunderte umspannt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Apor-Palast",
+                  "text": "Ein spätbarockes Adelshaus aus dem 17. Jahrhundert, das heute als Sitz des Rektorats der örtlichen Universität dient.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Traseul celor Trei Fortificații",
+                  "text": "Ein historischer Rundweg, der die Überreste des römischen Lagers, der mittelalterlichen Burg und der Vauban-Festung zeigt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Holzkirche von Michael dem Tapferen",
+                  "text": "Eine Gedenkkirche, die an der Stelle errichtet wurde, wo Michael der Tapfere 1599 die erste orthodoxe Kathedrale baute.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vereinigungsdenkmal",
+                  "text": "Ein modernes Monument in Form von vier stilisierten Bögen, das an die nationale Einheit der Rumänen erinnert.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Custozza-Park",
+                  "text": "Eine grüne Oase im Zentrum der Festung, umgeben von Denkmälern und historischen Gebäuden der Stadt.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statue von Avram Iancu",
+                  "text": "Ein Denkmal für den Anführer der rumänischen Revolution von 1848 in Siebenbürgen, der als Volksheld verehrt wird.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lupa Capitolina",
+                  "text": "Eine Kopie der berühmten römischen Wölfin, die die lateinische Herkunft des rumänischen Volkes symbolisiert.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Festungsgräben",
+                  "text": "Die weitreichenden Gräben zwischen den Mauern dienen heute als Fußgängerzonen und Grünanlagen für Spaziergänge.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -4055,6 +6833,96 @@ export const romaniaCities: POI[] = [
                   "name": "Fejedelmi Palota",
                   "text": "Az egykori erdélyi fejedelmek székhelye, amely fontos politikai és kulturális központ volt a 16-17. században.",
                   "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Az első kapu",
+                  "text": "A vár főbejárata a keleti oldalon, egy díszes barokk diadalív, amely 1714 és 1738 között épült.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "A második kapu",
+                  "text": "A belső várfalak egyik kapuja, amely részben megmaradt romjaival idézi fel a hajdani erődrendszer nagyságát.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "A negyedik kapu",
+                  "text": "A vár nyugati oldalán található barokk kapu, amely eredetileg a püspöki és fejedelmi palotákhoz biztosított utat.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Az ötödik kapu",
+                  "text": "Egy masszív kőkapu az erőd nyugati részén, amely a Vauban-típusú védelmi rendszer külső gyűrűjéhez tartozik.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "A hatodik kapu",
+                  "text": "Ezt a kaput az 1922-es román királyi koronázási ünnepségekre újították fel neoklasszicista stílusban.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vitéz Mihály lovasszobra",
+                  "text": "A fejedelmi palota előtt álló bronzszobor a havasalföldi vajdának állít emléket, aki először egyesítette a román fejedelemségeket.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Érseki palota",
+                  "text": "A gyulafehérvári római katolikus érsekség központja, amely évszázados építészeti stílusokat ötvöz az óváros szívében.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Apor-palota",
+                  "text": "A 17. század végén épült barokk stílusú nemesi lakóház, amely ma az 1918. December 1. Egyetem rektorátusának ad otthont.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "A három erőd útvonala",
+                  "text": "Turisztikai sétány, amely bemutatja a római castrum, a középkori vár és a barokk erőd maradványait.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vitéz Mihály emlék-fatemploma",
+                  "text": "A havasalföldi vajda által 1599-ben alapított, majd lerombolt ortodox székesegyház helyén emelt fatemplom.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Egyesülés emlékműve",
+                  "text": "Négy stilizált kapuból álló modern emlékmű, amely a román nemzeti egység megteremtésének jelképe.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Custozza-park",
+                  "text": "Gondozott központi park az erőd belsejében, ahol számos történelmi emlékmű és szobor található.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Avram Iancu szobra",
+                  "text": "Az 1848-as erdélyi román forradalom vezérének emlékműve, aki a helyi nemzeti mozgalom egyik legfontosabb alakja.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Romulus és Remus szobra",
+                  "text": "A Capitoliumi farkas másolata, amely a latin eredet és a Római Birodalom örökségének szimbóluma.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "A vár sáncai",
+                  "text": "A várfalak közötti mély árkok, amelyeket modern sétányokká és kerékpárutakká alakítottak át a turisták számára.",
+                  "category": "recreational",
                   "confidence": "high"
             }
       ],
@@ -4106,6 +6974,96 @@ export const romaniaCities: POI[] = [
                   "text": "Fostă reședință a principilor Transilvaniei, o clădire cu o istorie bogată situată în inima cetății Alba Carolina.",
                   "category": "historical",
                   "confidence": "high"
+            },
+            {
+                  "name": "Poarta I",
+                  "text": "Intrarea principală în cetate dinspre est, un arc de triumf baroc spectaculos decorat cu statui mitologice.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Poarta a II-a",
+                  "text": "Situată pe a doua linie de apărare, această poartă păstrează elemente arhitecturale baroce și stâlpi masivi din piatră.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Poarta a IV-a",
+                  "text": "Singura poartă situată pe latura de vest a cetății interioare, fiind poarta de acces către Palatul Princiar.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Poarta a V-a",
+                  "text": "O poartă simplă din zidărie, amplasată pe latura vestică, făcând legătura între cetatea interioară și ravelin.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Poarta a VI-a",
+                  "text": "Cunoscută și ca Poarta Regelui, a fost restaurată în perioada interbelică pentru accesul procesiunii regale la încoronare.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia ecvestră a lui Mihai Viteazul",
+                  "text": "Monument impunător situat în fața Palatului Princiar, celebrând prima unire a celor trei țări române în 1600.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Arhiepiscopal Romano-Catolic",
+                  "text": "Cea mai veche clădire din Alba Iulia care și-a păstrat funcția inițială, fiind reședința oficială a arhiepiscopului.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Apor",
+                  "text": "O clădire nobiliară din secolul al XVII-lea, reprezentativă pentru barocul transilvănean, situată în apropierea Bibliotecii Batthyaneum.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Traseul celor Trei Fortificații",
+                  "text": "Un traseu turistic unic ce permite vizitarea ruinelor castrului roman, cetății medievale și fortificației de tip Vauban.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Memorială Mihai Viteazul",
+                  "text": "O biserică de lemn ridicată pe locul unde voievodul muntean a ctitorit în 1599 prima mitropolie a românilor din Transilvania.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monumentul Unirii",
+                  "text": "O structură modernă sub forma a patru arcade unite, inaugurată la centenarul Marii Uniri pentru a omagia unitatea națională.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Custozza",
+                  "text": "Un parc istoric situat între zidurile cetății, decorat cu monumente dedicate soldaților căzuți în bătăliile imperiale.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia lui Avram Iancu",
+                  "text": "Dedicată 'Crăișorului Munților', conducătorul românilor în Revoluția de la 1848, amplasată lângă catedrala ortodoxă.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia Lupa Capitolina",
+                  "text": "Simbol al latinității poporului român, această copie a lupoaicei romane se află în zona centrală a orașului vechi.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Șanțurile Cetății",
+                  "text": "Zona de promenadă amenajată în șanțurile de apărare, oferind spații verzi vaste, trasee ciclabile și terase cochete.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -4155,6 +7113,96 @@ export const romaniaCities: POI[] = [
                   "name": "Princely Palace",
                   "text": "The former residence of the Princes of Transylvania, a building of great historical significance inside the citadel.",
                   "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The First Gate",
+                  "text": "A grand 18th-century triumphal arch serving as the main entrance to the fortress from the eastern approach.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Second Gate",
+                  "text": "Located on the second line of defense, this gate features baroque architectural elements and massive stone pillars.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Fourth Gate",
+                  "text": "The only gate on the western side of the inner city, historically providing direct access to the Princely Palace.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Fifth Gate",
+                  "text": "A simple yet sturdy stone gate on the western ramparts, part of the outer Vauban fortification ring.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Sixth Gate",
+                  "text": "Redesigned for the 1922 coronation of King Ferdinand and Queen Marie, it serves as the western exit of the citadel.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Equestrian Statue of Michael the Brave",
+                  "text": "An impressive bronze statue honoring the prince who first unified the three Romanian lands in 1600.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Roman Catholic Archbishop's Palace",
+                  "text": "The official residence of the Archbishop, this historic building blends various architectural styles from over the centuries.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Apor Palace",
+                  "text": "A late 17th-century noble residence in Baroque style, currently housing the Rectory of the local university.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Route of the Three Fortifications",
+                  "text": "A tourist trail showcasing remains from the Roman camp, medieval fortress, and the Vauban-style citadel.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Michael the Brave Memorial Church",
+                  "text": "A wooden church built on the site of the first Romanian Orthodox cathedral founded by Michael the Brave in 1599.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Union Monument",
+                  "text": "A modern monument consisting of four stylized arches symbolizing the national unity achieved in 1918.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Custozza Park",
+                  "text": "A central park within the citadel walls, surrounded by monuments and significant historical landmarks.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statue of Avram Iancu",
+                  "text": "A monument dedicated to the hero of the 1848 Transylvanian Revolution, located near the Coronation Cathedral.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Capitoline Wolf Statue",
+                  "text": "A replica of the Roman wolf, symbolizing the Latin roots and ancient heritage of the Romanian people.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Citadel Moats",
+                  "text": "The defensive ditches converted into a vast public promenade with cycling paths, gardens, and cafes.",
+                  "category": "recreational",
                   "confidence": "high"
             }
       ]
@@ -4216,6 +7264,96 @@ export const romaniaCities: POI[] = [
                   "text": "Hier wird die Geschichte des rumänischen Buchdrucks präsentiert, einschließlich seltener religiöser Texte und alter Druckpressen.",
                   "category": "cultural",
                   "confidence": "high"
+            },
+            {
+                  "name": "Kloster Stelea",
+                  "text": "Ein prächtiges Kloster aus dem 17. Jahrhundert, das als Symbol der Versöhnung zwischen Fürsten der Walachei und Moldaus erbaut wurde.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Metropolitan-Kathedrale",
+                  "text": "Eine imposante Kirche im byzantinischen Stil, die nach dem Vorbild der Kathedrale von Curtea de Argeș im 19. Jahrhundert errichtet wurde.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Historisches Museum Kreis Dâmbovița",
+                  "text": "Präsentiert umfangreiche Sammlungen von der Vorgeschichte bis zur Neuzeit in einem eleganten historischen Gebäude.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kunstmuseum Târgoviște",
+                  "text": "Befindet sich im ehemaligen Gebäude der Präfektur und beherbergt wertvolle Gemälde und Skulpturen lokaler Künstler.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum des Kommunismus",
+                  "text": "Eingerichtet in der ehemaligen Militäreinheit, in der Nicolae und Elena Ceaușescu 1989 vor Gericht standen und hingerichtet wurden.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum der Evolution des Menschen",
+                  "text": "Einzigartiges Museum, das sich mit der Entwicklung der menschlichen Zivilisation und Institutionen im Mittelalter befasst.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nationales Polizeimuseum",
+                  "text": "Das einzige Museum seiner Art in Rumänien, das die Geschichte der Strafverfolgung und Kriminalistik dokumentiert.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Chindia Park",
+                  "text": "Der größte Stadtpark, der den Komplex des Fürstenhofs umgibt und weite Grünflächen sowie Freizeitaktivitäten bietet.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuie Mihai Viteazul",
+                  "text": "Ein bronzenes Denkmal für den berühmten walachischen Herrscher Michael den Tapferen, der Rumänien erstmals vereinte.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Weiße Kirche",
+                  "text": "Eine schlichte, aber geschichtsträchtige orthodoxe Kirche, die für ihre weiße Fassade und ihre spirituelle Bedeutung bekannt ist.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stolnicului Kirche",
+                  "text": "Ein architektonisches Juwel aus dem 18. Jahrhundert, gestiftet von der Familie Cantacuzino im Herzen der Altstadt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zoo Târgoviște",
+                  "text": "Einer der ältesten Zoos des Landes, gelegen im Chindia Park, mit einer Vielzahl heimischer und exotischer Tierarten.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Verwaltungspalast",
+                  "text": "Ein repräsentatives Gebäude im Zentrum, das die Kreisverwaltung beherbergt und ein Beispiel für rumänische Neoklassik ist.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vasile Blendea Gedenkhaus",
+                  "text": "Eine Kunstgalerie und ein Gedenkhaus, das dem Leben und Werk des lokalen Malers und Bildhauers gewidmet ist.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dealu-Tor",
+                  "text": "Eines der wenigen erhaltenen Stadttore, das den historischen Zugangsweg zum nahegelegenen Kloster Dealu markierte.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -4247,6 +7385,96 @@ export const romaniaCities: POI[] = [
                   "name": "Nyomdászati Múzeum",
                   "text": "Az ország első nyomdájának helyszínén található múzeum a román könyvnyomtatás és a régi egyházi könyvek történetét mutatja be.",
                   "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stelea-kolostor",
+                  "text": "17. századi műemlék, amelyet Vasile Lupu moldvai fejedelem építtetett a havasalföldi fejedelemmel való megbékélés jegyében.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Metropolita-székesegyház",
+                  "text": "Lenyűgöző bizánci stílusú templom a 19. század végéről, amely a Curtea de Argeș-i kolostortemplom mintájára készült.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dâmbovița Megyei Történelmi Múzeum",
+                  "text": "A város egyik legelegánsabb épületében található, a térség történetét mutatja be az őskortól napjainkig.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Művészeti Múzeum",
+                  "text": "A volt prefektúra épületében kapott helyet, jelentős gyűjteménnyel rendelkezik román festészeti és szobrászati alkotásokból.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "A Kommunizmus Múzeuma",
+                  "text": "Abban a katonai egységben alakították ki, ahol 1989-ben a Ceaușescu-házaspárt elítélték és kivégezték.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Az emberi evolúció múzeuma",
+                  "text": "Egyedülálló kiállítás, amely az emberiség fejlődését és a középkori intézmények kialakulását mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nemzeti Rendőrmúzeum",
+                  "text": "Románia egyetlen ilyen jellegű múzeuma, amely a rendfenntartó erők és a kriminalisztika történetét dokumentálja.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Chindia Park",
+                  "text": "A város legnagyobb parkja, amely a fejedelmi udvart veszi körül, pihenőhelyekkel és csónakázótóval várja a látogatókat.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vitéz Mihály szobra",
+                  "text": "A három román fejedelemséget először egyesítő uralkodó monumentális bronzszobra a város főterén.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fehér-templom",
+                  "text": "Egyszerű megjelenésű, de nagy történelmi jelentőségű ortodox templom, amely a hívők körében nagy tiszteletnek örvend.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stolnicului-templom",
+                  "text": "A Cantacuzino család által a 18. században alapított templom, amely a környék jellegzetes vallási építészeti stílusát tükrözi.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Târgoviștei Állatkert",
+                  "text": "Az ország egyik legrégebbi állatkertje a Chindia Parkban, ahol számos hazai és egzotikus fajt láthatunk.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Közigazgatási Palota",
+                  "text": "A város szívében álló neoklasszicista stílusú épület, amely a megyei közigazgatás központjaként szolgál.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vasile Blendea emlékház",
+                  "text": "A helyi festő és szobrász műterme és lakóháza, ahol alkotásai mellett személyes emlékeit is megismerhetjük.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dealu-kapu",
+                  "text": "A történelmi városfal egyike megmaradt pontja, amelyen keresztül az út a közeli Dealu-kolostorhoz vezetett.",
+                  "category": "historical",
                   "confidence": "high"
             }
       ],
@@ -4280,6 +7508,96 @@ export const romaniaCities: POI[] = [
                   "text": "Expune evoluția tiparului în Țara Românească, prezentând primele cărți tipărite și unelte folosite în vechile tipografii.",
                   "category": "cultural",
                   "confidence": "high"
+            },
+            {
+                  "name": "Mănăstirea Stelea",
+                  "text": "Ctitorie a lui Vasile Lupu din secolul XVII, mănăstirea este un simbol al împăcării și un monument de arhitectură deosebit.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala Mitropolitană",
+                  "text": "O biserică monumentală în stil bizantin, construită la sfârșitul secolului XIX după modelul celei de la Curtea de Argeș.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul de Istorie Dâmbovița",
+                  "text": "Adăpostește colecții remarcabile din preistorie până în epoca modernă, fiind situat într-una dintre cele mai frumoase clădiri ale orașului.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul de Artă Târgoviște",
+                  "text": "Găzduit în fostul palat al prefecturii, muzeul expune opere de artă românească, inclusiv pictură și sculptură de mare valoare.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Comunismului",
+                  "text": "Amenajat în incinta unității militare unde a avut loc procesul și execuția soților Ceaușescu în decembrie 1989.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Evoluției Omului și Instituțiilor în Mediu",
+                  "text": "Un muzeu inedit ce explorează dezvoltarea civilizației umane și a structurilor sociale în perioada medievală.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Național al Poliției Române",
+                  "text": "Singura instituție muzeală de acest tip din România, documentând istoria forțelor de ordine și a criminalisticii.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Chindia",
+                  "text": "Cel mai mare parc al orașului, ce înconjoară Curtea Domnească, oferind spații de recreere, lac de agrement și zone verzi vaste.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia lui Mihai Viteazul",
+                  "text": "Monument impunător situat în centrul orașului, dedicat domnitorului care a realizat prima unire a țărilor române.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Albă",
+                  "text": "Lăcaș de cult ortodox cunoscut pentru simplitatea sa arhitecturală și pentru importanța sa istorică în viața cetății.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Stolnicului",
+                  "text": "Biserică ctitorită de familia Cantacuzino în secolul XVIII, reprezentativă pentru stilul religios al epocii în Muntenia.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădina Zoologică Târgoviște",
+                  "text": "Una dintre cele mai vechi grădini zoologice din țară, situată în Parcul Chindia, adăpostind specii locale și exotice.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Administrativ",
+                  "text": "Clădire de o eleganță sobră ce găzduiește sediul consiliului județean, situată în inima centrului civic al orașului.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Memorială Vasile Blendea",
+                  "text": "Dedicată artistului târgoviștean, această casă-muzeu păstrează atmosfera atelierului și lucrări semnificative de pictură.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Poarta Dealu",
+                  "text": "Unul dintre punctele istorice de acces în oraș, marcând simbolic drumul care duce către faimoasa mănăstire Dealu.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -4311,6 +7629,96 @@ export const romaniaCities: POI[] = [
                   "name": "Museum of Printing",
                   "text": "The museum chronicles the history of Romanian printing, displaying rare early books and historic printing equipment.",
                   "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stelea Monastery",
+                  "text": "A beautiful 17th-century monastery built by Prince Vasile Lupu as a gesture of peace between Wallachia and Moldavia.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Metropolitan Cathedral",
+                  "text": "A grand Byzantine-style church built in the late 19th century, modeled after the cathedral in Curtea de Argeș.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dâmbovița History Museum",
+                  "text": "Housed in a beautiful historical building, it features extensive collections from prehistory to the modern era.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Târgoviște Art Museum",
+                  "text": "Located in the former Prefecture building, it showcases significant Romanian paintings and sculptures.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum of Communism",
+                  "text": "Located at the military base where Nicolae and Elena Ceaușescu were tried and executed in 1989.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum of Human Evolution",
+                  "text": "A unique museum dedicated to the evolution of man and the development of social institutions in the Middle Ages.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "National Police Museum",
+                  "text": "The only museum of its kind in Romania, documenting the history of law enforcement and criminology.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Chindia Park",
+                  "text": "The largest park in the city, surrounding the Princely Court complex and offering wide green spaces and a lake.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statue of Mihai Viteazul",
+                  "text": "A monumental bronze statue of the famous ruler Michael the Brave, who first unified the Romanian principalities.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The White Church",
+                  "text": "A simple but historically significant Orthodox church known for its white facade and spiritual importance.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stolnicului Church",
+                  "text": "An 18th-century church founded by the Cantacuzino family, showcasing the religious architectural style of the period.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Târgoviște Zoo",
+                  "text": "One of the oldest zoos in the country, located within Chindia Park and home to various local and exotic animals.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Administrative Palace",
+                  "text": "An elegant neoclassical building in the city center that serves as the headquarters of the county administration.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vasile Blendea Memorial House",
+                  "text": "An art gallery and museum dedicated to the life and work of the local painter and sculptor Vasile Blendea.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dealu Gate",
+                  "text": "One of the surviving historical gates of the city, marking the road that led to the nearby Dealu Monastery.",
+                  "category": "historical",
                   "confidence": "high"
             }
       ]
@@ -4372,6 +7780,36 @@ export const romaniaCities: POI[] = [
                   "text": "Einer der massivsten Wehrtürme der Zitadelle, der früher als zweiter Eingang zur mittelalterlichen Festung diente.",
                   "category": "fortress",
                   "confidence": "high"
+            },
+            {
+                  "name": "Zinngießerturm",
+                  "text": "Ein 25 Meter hoher Turm mit einer einzigartigen pentagonalen Basis, Teil des Verteidigungssystems der Zitadelle.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Klosterkirche",
+                  "text": "Ein spätgotisches Denkmal in der Nähe des Stundturms, berühmt für sein Bronzetaufbecken und wertvolle orientalische Teppiche.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Burgplatz",
+                  "text": "Der zentrale Platz der Zitadelle, einst Ort öffentlicher Gerichtsverfahren und Märkte, umgeben von bunten historischen Gebäuden.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schuhmacherturm",
+                  "text": "Im Jahr 1681 im Barockstil wiederaufgebaut, zeichnet sich dieser Turm durch seinen hexagonalen Grundriss und die Aussichtsgalerie aus.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Venezianisches Haus",
+                  "text": "Ein gotisches Gebäude aus dem 16. Jahrhundert, bekannt für seine charakteristischen Fensterrahmen im venezianischen Stil.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -4403,6 +7841,36 @@ export const romaniaCities: POI[] = [
                   "name": "Szabók tornya",
                   "text": "A várfal egyik legerősebb védműve, amely egykor a vár második bejárataként is funkcionált.",
                   "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ónművesek tornya",
+                  "text": "25 méter magas védőtorony egyedi ötszögletű alappal, a várfal egyik leglátványosabb és legépebben maradt része Segesváron.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kolostortemplom",
+                  "text": "Az Óratorony melletti késő gótikus műemlék, híres bronz keresztelőmedencéjéről és 17. századi anatóliai szőnyegeiről.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Várnegyed tere",
+                  "text": "A vár központi tere, amely egykor nyilvános ítélkezések és vásárok helyszíne volt, színes középkori házakkal övezve.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Csizmadiák tornya",
+                  "text": "1681-ben barokk stílusban újjáépített hatszögletű torony, amely ma is meghatározó eleme a vár északi védvonalának.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Velencei-ház",
+                  "text": "16. századi gótikus épület, amely nevét a velencei stílusú ablakkereteiről kapta, emlékeztetve a város régi kereskedelmi kapcsolataira.",
+                  "category": "historical",
                   "confidence": "high"
             }
       ],
@@ -4436,6 +7904,36 @@ export const romaniaCities: POI[] = [
                   "text": "Unul dintre cele mai impunătoare turnuri de apărare, servind în trecut ca a doua poartă de intrare în cetate.",
                   "category": "fortress",
                   "confidence": "high"
+            },
+            {
+                  "name": "Turnul Cositorarilor",
+                  "text": "Un turn înalt de 25 de metri cu o bază pentagonală unică, parte integrantă a sistemului defensiv al cetății Sighișoara.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Mănăstirii",
+                  "text": "Monument în stil gotic târziu situat lângă Turnul cu Ceas, faimos pentru cristelnița de bronz și covoarele orientale valoroase.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Cetății",
+                  "text": "Piața centrală a cetății, fost loc de judecată și târguri, înconjurată de clădiri istorice colorate și bine conservate.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turnul Cizmarilor",
+                  "text": "Reconstruit în 1681 în stil baroc, acest turn se remarcă prin planul hexagonal și galeria de observație din vârf.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Venețiană",
+                  "text": "Clădire din secolul al XVI-lea cunoscută pentru ancadramentele ferestrelor în stil venețian, reflectând legăturile comerciale de epocă.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -4467,6 +7965,36 @@ export const romaniaCities: POI[] = [
                   "name": "Tailors' Tower",
                   "text": "One of the most massive defense towers of the citadel, formerly serving as a secondary entrance to the fortress.",
                   "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tinsmiths' Tower",
+                  "text": "A 25-meter high tower with a unique pentagonal base, part of the citadel's defense system and remarkably well-preserved.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monastery Church",
+                  "text": "A late Gothic monument near the Clock Tower, famous for its 15th-century bronze font and valuable Oriental carpets.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Citadel Square",
+                  "text": "The central plaza of the citadel, once the site of public trials and markets, surrounded by colorful historic buildings.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Shoemakers' Tower",
+                  "text": "Rebuilt in 1681 in Baroque style, this tower stands out with its hexagonal plan and observation gallery overlooking the city.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Venetian House",
+                  "text": "A 16th-century building named after its distinctive Venetian-style window frames, showcasing Sighișoara's historic trade links.",
+                  "category": "historical",
                   "confidence": "high"
             }
       ]
@@ -4528,6 +8056,54 @@ export const romaniaCities: POI[] = [
                   "text": "Ein modernes Wahrzeichen im Stadtzentrum, geschaffen vom Bildhauer Constantin Lucaci, das durch die Bewegung des Wassers besticht.",
                   "category": "civic",
                   "confidence": "high"
+            },
+            {
+                  "name": "Kulturpalast Teodor Costescu",
+                  "text": "Ein monumentales Gebäude im neoklassizistischen Stil, das als kulturelles Herzstück der Stadt für Theater und Konzerte dient.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rosengarten (Parcul Rozelor)",
+                  "text": "Ein wunderschöner Park am Donauufer, bekannt für seine Vielfalt an Rosen und den Blick auf den Fluss.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ruinen der römischen Thermen",
+                  "text": "Archäologische Überreste der antiken Badeanlagen, die einst Teil der römischen Stadt Drobeta waren.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kathedrale der Auferstehung des Herrn",
+                  "text": "Ein prächtiger orthodoxer Sakralbau, der durch seine moderne Architektur und beeindruckende Größe hervorsticht.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grecescu-Kirche",
+                  "text": "Diese im 19. Jahrhundert erbaute Kirche ist berühmt für ihre Wandmalereien von Gheorghe Tattarescu.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ruinen des römischen Amphitheaters",
+                  "text": "In der Nähe der Festung gelegen, zeugen diese Ruinen von den Gladiatorenkämpfen und Spielen im antiken Drobeta.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bahnhof Drobeta-Turnu Severin",
+                  "text": "Ein historisch bedeutender Verkehrsknotenpunkt mit einer Architektur, die den Geist des frühen 20. Jahrhunderts widerspiegelt.",
+                  "category": "station",
+                  "confidence": "medium"
+            },
+            {
+                  "name": "Zentralpark",
+                  "text": "Ein gepflegter Grünbereich im Stadtzentrum mit Denkmälern und schattigen Alleen für gemütliche Spaziergänge.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -4559,6 +8135,48 @@ export const romaniaCities: POI[] = [
                   "name": "Kinetikus szökőkút",
                   "text": "A város főterén található modern alkotás Constantin Lucaci szobrászművész munkája, amely a víz és fém mozgását ötvözi.",
                   "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Teodor Costescu Kultúrpalota",
+                  "text": "A város monumentális neoklasszicista épülete, amely színházi előadásoknak és koncerteknek ad otthont.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rózsák Parkja",
+                  "text": "A Duna partján fekvő gyönyörű park, amely gazdag rózsagyűjteményéről és panorámás kilátásáról híres.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Római Termálfürdők romjai",
+                  "text": "Az ókori Drobeta városának fennmaradt fürdőkomplexuma, amely bepillantást enged a római kor mindennapjaiba.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Az Úr Feltámadása ortodox székesegyház",
+                  "text": "A város új főtemploma, amely méreteivel és modern ortodox építészeti stílusával uralja a városképet.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grecescu templom",
+                  "text": "A 19. századi alapítású templom belső díszítése és történelmi jelentősége miatt a város egyik fő látnivalója.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Római amfiteátrum maradványai",
+                  "text": "Az egykori római katonai és polgári szórakoztatás központjának romjai a vár közelében találhatóak.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Központi Park",
+                  "text": "A város szívében található zöldövezet, amely emlékművekkel és pihenőhelyekkel várja a látogatókat.",
+                  "category": "natural",
                   "confidence": "high"
             }
       ],
@@ -4592,6 +8210,54 @@ export const romaniaCities: POI[] = [
                   "text": "Operă de artă modernă situată în centrul orașului, realizată de sculptorul Constantin Lucaci, celebră pentru jocurile de apă.",
                   "category": "civic",
                   "confidence": "high"
+            },
+            {
+                  "name": "Palatul Culturii Teodor Costescu",
+                  "text": "Edificiu monumental construit în stil neoclasic, inima vieții culturale din Severin, găzduind spectacole și expoziții.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Rozelor",
+                  "text": "Situat pe malul Dunării, parcul oferă o priveliște superbă asupra fluviului și este renumit pentru sutele de tufe de trandafiri.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ruinele Termelor Romane",
+                  "text": "Complex de băi publice antice aparținând orașului roman Drobeta, expuse în apropierea piciorului Podului lui Traian.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala Ortodoxă Învierea Domnului",
+                  "text": "Lăcaș de cult impunător situat în centrul orașului, reprezentând un reper spiritual major prin arhitectura sa modernă.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Grecescu",
+                  "text": "Ctitorie a familiei Grecescu din 1868, pictată de Gheorghe Tattarescu, fiind un monument istoric de o rară frumusețe.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ruinele Amfiteatrului Roman",
+                  "text": "Descoperit relativ recent, amfiteatrul amintește de luptele de gladiatori și jocurile publice din epoca romană.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gara Drobeta-Turnu Severin",
+                  "text": "Clădire de patrimoniu care păstrează farmecul arhitectural al gărilor feroviare de la începutul secolului XX.",
+                  "category": "station",
+                  "confidence": "medium"
+            },
+            {
+                  "name": "Parcul Central",
+                  "text": "Oază de liniște cu alei umbroase și monumente istorice, situat în zona administrativă a municipiului.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -4623,6 +8289,54 @@ export const romaniaCities: POI[] = [
                   "name": "Kinetic Fountain",
                   "text": "A modern artistic landmark in the city center created by sculptor Constantin Lucaci, known for its dynamic water movements.",
                   "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Teodor Costescu Palace of Culture",
+                  "text": "A monumental Neoclassical building that serves as the primary cultural venue for theater and music in the city.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rose Park (Parcul Rozelor)",
+                  "text": "A scenic park on the Danube riverbank, famous for its numerous rose varieties and panoramic views.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ruins of the Roman Baths",
+                  "text": "Archaeological remains of the thermal bath complex from the ancient Roman city of Drobeta.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Resurrection of the Lord Cathedral",
+                  "text": "An impressive Orthodox cathedral in the city center, known for its grand scale and contemporary design.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grecescu Church",
+                  "text": "Founded in 1868, this historic church is renowned for its beautiful interior paintings and classic architecture.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Roman Amphitheater Ruins",
+                  "text": "Recently excavated remains of the stadium where gladiatorial games were held during the Roman occupation.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Drobeta-Turnu Severin Railway Station",
+                  "text": "A historic transport hub featuring architecture typical of early 20th-century Romanian infrastructure.",
+                  "category": "station",
+                  "confidence": "medium"
+            },
+            {
+                  "name": "Central Park",
+                  "text": "A well-maintained urban green space featuring historic monuments and relaxing walking paths.",
+                  "category": "natural",
                   "confidence": "high"
             }
       ]
@@ -4671,6 +8385,30 @@ export const romaniaCities: POI[] = [
                   "text": "Das im 19. Jahrhundert erbaute Franziskanerkloster in Sumuleu Ciuc beherbergt eine bekannte Marienstatue.",
                   "category": "monastic",
                   "confidence": "high"
+            },
+            {
+                  "name": "Rathaus von Szeklerburg",
+                  "text": "Das imposante eklektische Gebäude am Majláth-Gusztáv-Károly-Platz wurde 1886 erbaut und ist Sitz der Stadtverwaltung.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Márton-Áron-Gymnasium",
+                  "text": "Ein beeindruckendes Jugendstilgebäude aus dem frühen 20. Jahrhundert, das als eine der wichtigsten Bildungseinrichtungen des Szeklerlandes gilt.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gerichtshof von Harghita",
+                  "text": "Ein monumentales klassizistisches Gebäude im Stadtzentrum, das die architektonische administrative Bedeutung der Stadt unterstreicht.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zentrumpark",
+                  "text": "Die grüne Lunge der Stadt bietet Erholungsmöglichkeiten und beherbergt Statuen bedeutender historischer Persönlichkeiten der Region.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -4690,6 +8428,30 @@ export const romaniaCities: POI[] = [
                   "name": "Csíksomlyói kegytemplom",
                   "text": "A csíksomlyói ferences kolostor és kegytemplom a 19. században épült, itt található a híres Mária-kegyszobor.",
                   "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Városháza",
+                  "text": "A Majláth Gusztáv Károly téren álló eklektikus stílusú épület 1886-ban készült el, Csíkszereda egyik legszebb középülete.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Márton Áron Főgimnázium",
+                  "text": "1909 és 1911 között épült szecessziós stílusú monumentális iskolaépület, a város szellemi életének egyik tartóoszlopa.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hargita Megyei Törvényszék",
+                  "text": "Klasszicista stílusú palota a városközpontban, amely a monarchia korabeli közigazgatási építészet kiváló példája.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Központi park",
+                  "text": "A város szívében fekvő rendezett zöldövezet, ahol több neves székely személyiség emlékműve is megtalálható.",
+                  "category": "recreational",
                   "confidence": "high"
             }
       ],
@@ -4711,6 +8473,30 @@ export const romaniaCities: POI[] = [
                   "text": "Mănăstirea franciscană de la Șumuleu Ciuc, construită în secolul al XIX-lea, adăpostește o statuie a Fecioarei Maria.",
                   "category": "monastic",
                   "confidence": "high"
+            },
+            {
+                  "name": "Primăria Miercurea Ciuc",
+                  "text": "Clădire în stil eclectic construită în 1886, situată în Piața Majláth Gusztáv Károly, fiind un simbol administrativ al orașului.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Colegiul Național Márton Áron",
+                  "text": "O clădire monumentală în stil Secession, ridicată la începutul secolului XX, reprezentativă pentru arhitectura educațională locală.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tribunalul Județean Harghita",
+                  "text": "Edificiu impresionant în stil neoclasic situat în centrul orașului, reflectând importanța administrativă a localității.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Central",
+                  "text": "Principalul spațiu verde al orașului, oferind alei pentru plimbare și găzduind diverse monumente dedicate personalităților locale.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -4730,6 +8516,30 @@ export const romaniaCities: POI[] = [
                   "name": "Sumuleu Ciuc Monastery",
                   "text": "The Franciscan monastery at Sumuleu Ciuc, built in the 19th century, houses a famous statue of the Virgin Mary.",
                   "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Miercurea Ciuc City Hall",
+                  "text": "An eclectic building completed in 1886, located in the central square, serving as the city's administrative headquarters.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Márton Áron National College",
+                  "text": "A stunning Art Nouveau educational building from the early 1900s, known for its grand architecture and historical prestige.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Harghita County Court",
+                  "text": "A neoclassical palace in the heart of the city, representing the typical administrative architectural style of the Austro-Hungarian era.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Central Park",
+                  "text": "The city's main public park, featuring walking paths and monuments dedicated to prominent figures of Szekler history.",
+                  "category": "recreational",
                   "confidence": "high"
             }
       ]
@@ -4784,6 +8594,30 @@ export const romaniaCities: POI[] = [
                   "text": "Ein monumentaler Triumphbogen, der dem Pariser Vorbild ähnelt und den Sieg im Ersten Weltkrieg feiert.",
                   "category": "historical",
                   "confidence": "high"
+            },
+            {
+                  "name": "Mihai-Viteazul-Statue",
+                  "text": "Eine Reiterstatue zu Ehren des walachischen Fürsten Mihai Viteazul, gelegen in der Nähe des Parkeingangs am Charles de Gaulle-Platz.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sommertheater Herăstrău",
+                  "text": "Ein großes Open-Air-Theater im Park, das während der warmen Monate für Konzerte, Aufführungen und kulturelle Veranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Allee der Karyatiden",
+                  "text": "Ein monumentaler Zugangsweg zum Park, gesäumt von klassischen Statuen, die weibliche Figuren als tragende Säulen darstellen.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Elisabeta-Palast",
+                  "text": "Die offizielle Stadtresidenz der rumänischen Königsfamilie, die direkt an den Park grenzt und für ihr elegantes Design bekannt ist.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -4808,6 +8642,30 @@ export const romaniaCities: POI[] = [
             {
                   "name": "Arcul de Triumf",
                   "text": "A párizsi diadalívhez hasonló monumentális emlékmű, amely az első világháborús győzelemnek állít emléket.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vitéz Mihály lovasszobra",
+                  "text": "Havasalföldi fejedelem monumentális lovasszobra a park Charles de Gaulle tér felőli bejáratának közelében.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Herăstrău Nyári Színház",
+                  "text": "A parkban található szabadtéri színpad, amely nyaranta koncerteknek és kulturális előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kariatidák sétánya",
+                  "text": "Klasszikus stílusú nőalakokat ábrázoló szoborsorral díszített látványos útvonal a park bejáratánál.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Erzsébet-palota",
+                  "text": "A román királyi család hivatalos bukaresti rezidenciája, amely a park közvetlen szomszédságában található.",
                   "category": "historical",
                   "confidence": "high"
             }
@@ -4836,6 +8694,30 @@ export const romaniaCities: POI[] = [
                   "text": "Un monument impresionant ce comemorează victoria României în Primul Război Mondial, situat lângă parcul Herăstrău.",
                   "category": "historical",
                   "confidence": "high"
+            },
+            {
+                  "name": "Statuia lui Mihai Viteazul",
+                  "text": "O statuie ecvestră impunătoare situată la intrarea dinspre Piața Charles de Gaulle, dedicată domnitorului Mihai Viteazul.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Teatrul de Vară Herăstrău",
+                  "text": "Un spațiu cultural în aer liber situat în interiorul parcului, unde au loc spectacole și concerte pe timpul verii.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aleea Cariatidelor",
+                  "text": "O zonă monumentală decorată cu coloane sub formă de statui feminine, aflată la intrarea principală în parc.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Elisabeta",
+                  "text": "Reședința oficială a Familiei Regale a României, situată adiacent parcului, fiind o clădire cu o arhitectură distinsă.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -4860,6 +8742,30 @@ export const romaniaCities: POI[] = [
             {
                   "name": "Arcul de Triumf",
                   "text": "A monumental arch commemorating Romania's victory in World War I, located near the main entrance of the park.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Michael the Brave Statue",
+                  "text": "An impressive equestrian statue dedicated to the Wallachian prince, located near the Charles de Gaulle entrance.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Herăstrău Summer Theater",
+                  "text": "A large open-air venue within the park used for concerts, film screenings, and theatrical performances during summer.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Caryatids Alley",
+                  "text": "A monumental park entrance featuring classical female statues serving as decorative architectural supports.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Elisabeta Palace",
+                  "text": "The official Bucharest residence of the Romanian Royal Family, located on the edge of the park with elegant architecture.",
                   "category": "historical",
                   "confidence": "high"
             }
@@ -4909,6 +8815,30 @@ export const romaniaCities: POI[] = [
                   "text": "Diese beeindruckende Holzkirche aus Maramureș im Museum zeigt die traditionelle sakrale Architektur der Region.",
                   "category": "religious",
                   "confidence": "high"
+            },
+            {
+                  "name": "Gasthaus aus Șanț",
+                  "text": "Ein historisches Dorfgasthaus aus der Region Bistrița-Năsăud, das die traditionelle rumänische Gastfreundschaft und Architektur zeigt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Windmühle aus dem Donaudelta",
+                  "text": "Eine seltene hölzerne Windmühle aus der Dobrudscha, die die Windenergienutzung in der rumänischen Küstenregion demonstriert.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bauernhof aus Chiojdu",
+                  "text": "Ein markantes Haus mit Steinmauerwerk und Holzverzierungen aus der Region Buzău, typisch für die Hügelzonen.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ölmühle und Weinpresse",
+                  "text": "Traditionelle technische Anlagen zur Verarbeitung von Trauben und Ölsaaten aus verschiedenen ländlichen Regionen Rumäniens.",
+                  "category": "museum",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -4928,6 +8858,30 @@ export const romaniaCities: POI[] = [
                   "name": "Dragomirești fatemplom",
                   "text": "Ez a múzeumban található lenyűgöző máramarosi fatemplom a régió hagyományos szakrális építészetét mutatja be.",
                   "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Újős-i fogadó",
+                  "text": "Beszterce-Naszód megyéből származó történelmi falusi fogadó, amely a hagyományos vendéglátást és építészetet mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Duna-deltai szélmalom",
+                  "text": "Ritka, fából készült szélmalom Dobrudzsa vidékéről, amely a tengerparti régió hagyományos energiagazdálkodását szemlélteti.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kővári parasztudvar",
+                  "text": "Buzău megyei hagyományos lakóház kőalapzattal és faragott fa díszítésekkel, a dombvidéki építészet remeke.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Olajütő és szőlőprés",
+                  "text": "Különböző romániai tájegységekről származó hagyományos népi műszaki berendezések a mezőgazdasági feldolgozáshoz.",
+                  "category": "museum",
                   "confidence": "high"
             }
       ],
@@ -4949,6 +8903,30 @@ export const romaniaCities: POI[] = [
                   "text": "Această biserică de lemn maramureșeană remarcabilă din incinta muzeului prezintă arhitectura sacră tradițională.",
                   "category": "religious",
                   "confidence": "high"
+            },
+            {
+                  "name": "Hanul din Șanț",
+                  "text": "Un han tradițional din județul Bistrița-Năsăud, reprezentativ pentru arhitectura civilă rurală și ospitalitatea românească veche.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Moara de vânt din Dobrogea",
+                  "text": "O moară de vânt din lemn adusă din Delta Dunării, exemplificând metodele tradiționale de măcinat din zonele de coastă.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gospodăria din Chiojdu",
+                  "text": "O casă celebră din județul Buzău, construită din piatră și lemn, remarcabilă prin foișorul său sculptat.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Instalații tehnice populare",
+                  "text": "O colecție de prese de ulei, pive și mori de apă care arată ingeniozitatea țăranului român în prelucrarea resurselor.",
+                  "category": "museum",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -4968,6 +8946,30 @@ export const romaniaCities: POI[] = [
                   "name": "Dragomirești Wooden Church",
                   "text": "This remarkable Maramureș wooden church within the museum showcases the traditional sacred architecture of the region.",
                   "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Inn from Șanț",
+                  "text": "A historic rural inn from the Bistrița-Năsăud region, showcasing traditional hospitality and Romanian vernacular architecture.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Danube Delta Windmill",
+                  "text": "A rare wooden windmill from the Dobruja region, demonstrating traditional grain grinding techniques using wind power.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Chiojdu Farmstead",
+                  "text": "A famous stone and wood house from Buzău county, known for its beautiful carved porch and hill-region design.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Traditional Technical Installations",
+                  "text": "A collection of folk machinery including oil presses and water mills from various rural regions of Romania.",
+                  "category": "museum",
                   "confidence": "high"
             }
       ]
@@ -5022,6 +9024,30 @@ export const romaniaCities: POI[] = [
                   "text": "Dieser Verteidigungsturm aus dem 15. Jahrhundert bietet einen der besten Panoramablicke auf die Altstadt von Brașov.",
                   "category": "fortress",
                   "confidence": "high"
+            },
+            {
+                  "name": "Buchholz-Orgel",
+                  "text": "Die größte mechanische Orgel in Südosteuropa, erbaut im 19. Jahrhundert, bekannt für ihren gewaltigen Klang und 4000 Pfeifen.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sammlung anatolischer Teppiche",
+                  "text": "Eine der bedeutendsten Sammlungen osmanischer Teppiche außerhalb der Türkei, die der Kirche von Kaufleuten gestiftet wurden.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bronzetaufbecken",
+                  "text": "Ein gotisches Taufbecken aus dem Jahr 1472, eines der wertvollsten Kunstobjekte im Inneren der Kathedrale.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Johannes-Honterus-Statue",
+                  "text": "Ein Denkmal vor der Kirche für den Humanisten und Reformator Johannes Honterus, der die Reformation in Siebenbürgen einführte.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -5047,6 +9073,30 @@ export const romaniaCities: POI[] = [
                   "name": "Fehér torony",
                   "text": "Ez a 15. századi védőtorony az egyik legjobb panorámás kilátást nyújtja Brassó óvárosára és a környékre.",
                   "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Buchholz-orgona",
+                  "text": "Délkelet-Európa legnagyobb mechanikus orgonája a 19. századból, 4000 sípjával lenyűgöző zenei élményt nyújt.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Anatóliai szőnyeggyűjtemény",
+                  "text": "Az egyik leggazdagabb török szőnyeggyűjtemény Európában, melyet egykor hálás kereskedők adományoztak a templomnak.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bronz keresztelőmedence",
+                  "text": "1472-ből származó gótikus stílusú bronz keresztelőmedence, a templom belső berendezésének egyik legértékesebb darabja.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Johannes Honterus szobra",
+                  "text": "A templom mellett álló emlékmű a neves humanista tudós és reformátor tiszteletére, aki elterjesztette a reformációt Erdélyben.",
+                  "category": "historical",
                   "confidence": "high"
             }
       ],
@@ -5074,6 +9124,30 @@ export const romaniaCities: POI[] = [
                   "text": "Acest turn de apărare din secolul al XV-lea oferă una dintre cele mai frumoase vederi panoramice asupra centrului vechi.",
                   "category": "fortress",
                   "confidence": "high"
+            },
+            {
+                  "name": "Orga Buchholz",
+                  "text": "Cea mai mare orgă mecanică din sud-estul Europei, construită în secolul al XIX-lea, având aproape 4000 de tuburi.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Colecția de covoare anatoliene",
+                  "text": "O colecție impresionantă de covoare orientale din secolele XV-XVII, donate bisericii de negustorii brașoveni.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cristelnița din bronz",
+                  "text": "O piesă de artă gotică datând din 1472, donată de meșterii locali și folosită pentru botezuri de secole.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia lui Johannes Honterus",
+                  "text": "Monument dedicat marelui umanist și reformator sas, situat în curtea bisericii lângă școala fondată de acesta.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -5099,6 +9173,30 @@ export const romaniaCities: POI[] = [
                   "name": "White Tower",
                   "text": "This 15th-century defensive tower offers one of the best panoramic views of Brașov's old town and the surroundings.",
                   "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Buchholz Organ",
+                  "text": "The largest mechanical organ in Southeast Europe, built in 1839, featuring nearly 4,000 pipes and exceptional acoustics.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Anatolian Carpet Collection",
+                  "text": "One of the richest collections of Turkish carpets in Europe, donated by local merchants between the 15th and 17th centuries.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bronze Baptismal Font",
+                  "text": "A valuable Gothic artifact from 1472, cast in bronze and decorated with inscriptions and religious motifs.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Johannes Honterus Statue",
+                  "text": "A bronze monument honoring the Transylvanian Saxon scholar and reformer who influenced the region's cultural development.",
+                  "category": "historical",
                   "confidence": "high"
             }
       ]
@@ -5147,6 +9245,30 @@ export const romaniaCities: POI[] = [
                   "text": "Ein historisches und religiöses Zentrum in Bukarest, auf dem sich die Kathedrale und der Patriarchenpalast befinden.",
                   "category": "historical",
                   "confidence": "high"
+            },
+            {
+                  "name": "Reliquien des Heiligen Dimitrie Basarabov",
+                  "text": "Die heiligen Reliquien des Schutzpatrons von Bukarest, die in der Kathedrale aufbewahrt werden und Ziel vieler Pilger sind.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ikonostase der Kathedrale",
+                  "text": "Eine prächtige, vergoldete Ikonenwand, die den Altarraum trennt und mit feinster rumänisch-orthodoxer Kunst verziert ist.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Freskenzyklus",
+                  "text": "Beeindruckende Wandmalereien im Inneren, die biblische Szenen und Heilige im byzantinischen Stil darstellen.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grab von Patriarch Miron Cristea",
+                  "text": "Die Ruhestätte des ersten Patriarchen der rumänisch-orthodoxen Kirche innerhalb des Kirchenkomplexes.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -5165,6 +9287,30 @@ export const romaniaCities: POI[] = [
             {
                   "name": "Metropólia-domb",
                   "text": "Bukarest egyik legfontosabb történelmi és vallási központja, ahol a székesegyház és a palota is található.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Dimitrie Basarabov ereklyéi",
+                  "text": "Bukarest védőszentjének szent ereklyéi, amelyeket a székesegyházban őriznek, és hívők ezreit vonzzák a zarándoklatok idején.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ikonosztáz",
+                  "text": "A székesegyház gazdagon aranyozott oltárfala, amely a román ortodox egyházművészet egyik remekműve.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Belső freskók",
+                  "text": "Lenyűgöző bizánci stílusú falfestmények, amelyek bibliai jeleneteket és szenteket ábrázolnak a templom belső terében.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Miron Cristea pátriárka sírja",
+                  "text": "A román ortodox egyház első pátriárkájának végső nyughelye a székesegyház épületegyüttesén belül.",
                   "category": "historical",
                   "confidence": "high"
             }
@@ -5187,6 +9333,30 @@ export const romaniaCities: POI[] = [
                   "text": "Un centru istoric și religios esențial în București, locul unde se află Catedrala și Palatul Patriarhal.",
                   "category": "historical",
                   "confidence": "high"
+            },
+            {
+                  "name": "Moaștele Sfântului Dimitrie cel Nou",
+                  "text": "Relicvele sfinte ale ocrotitorului Bucureștiului, păstrate în catedrală și venerate de mii de pelerini anual.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Iconostasul Catedralei",
+                  "text": "O capodoperă a artei religioase sculptată în lemn și poleită cu aur, care separă naosul de altar.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pictura murală",
+                  "text": "Fresce interioare realizate în stil bizantin, care ilustrează scene biblice și sfinți importanți ai ortodoxiei.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mormântul Patriarhului Miron Cristea",
+                  "text": "Locul de veșnică odihnă al primului patriarh al Bisericii Ortodoxe Române, situat în interiorul lăcașului.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -5205,6 +9375,30 @@ export const romaniaCities: POI[] = [
             {
                   "name": "Metropolitan Hill",
                   "text": "An essential historical and religious center in Bucharest, home to the Cathedral and the Patriarchal Palace.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Relics of Saint Dimitrie Basarabov",
+                  "text": "The holy remains of Bucharest's patron saint, kept in a silver shrine and visited by thousands of pilgrims.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Iconostasis",
+                  "text": "A grand, gilded wooden screen separating the nave from the altar, showcasing exquisite Orthodox craftsmanship.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Interior Frescoes",
+                  "text": "Vibrant wall paintings in Byzantine style covering the interior walls with biblical scenes and figures of saints.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tomb of Patriarch Miron Cristea",
+                  "text": "The final resting place of the first Patriarch of the Romanian Orthodox Church, located within the cathedral complex.",
                   "category": "historical",
                   "confidence": "high"
             }
@@ -5254,6 +9448,30 @@ export const romaniaCities: POI[] = [
                   "text": "Das im Schlosspark gelegene Grabmal beherbergt die sterblichen Überreste der letzten Besitzer des Anwesens.",
                   "category": "historical",
                   "confidence": "high"
+            },
+            {
+                  "name": "Brâncoveanu-Palast",
+                  "text": "Das 1702 von Constantin Brâncoveanu erbaute Meisterwerk vereint orientalische und venezianische Architekturmerkmale.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Torturm",
+                  "text": "Ein imposanter Backsteinturm, der den Eingang zum Fürstenhof markiert und einen Blick über die gesamte Anlage bietet.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Park Mogoșoaia",
+                  "text": "Ein weitläufiger Landschaftsgarten rund um den Palast mit Seeufer und alten Bäumen, ideal für ruhige Spaziergänge.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Eishaus",
+                  "text": "Ein historisches Gebäude, das früher zur Lagerung von im Winter aus dem See gewonnenem Eis für den Palast diente.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -5272,6 +9490,30 @@ export const romaniaCities: POI[] = [
             {
                   "name": "Bibescu-családi kripta",
                   "text": "A palota parkjában található síremlék a birtok utolsó tulajdonosainak földi maradványait őrzi.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brâncoveanu-palota",
+                  "text": "1702-ben épült Constantin Brâncoveanu parancsára; a román építészet remekműve keleti és velencei elemekkel.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kaputorony",
+                  "text": "Masszív téglatorony, amely a fejedelmi udvar bejáratát jelzi, és kiváló kilátást nyújt az egész épületegyüttesre.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mogoșoaia park",
+                  "text": "A palotát körülvevő tájképi kert tóparttal és évszázados fákkal, tökéletes hely a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jégverem",
+                  "text": "Történelmi építmény, amelyet korábban a tóból télen kitermelt jég tárolására használtak a palota konyhája számára.",
                   "category": "historical",
                   "confidence": "high"
             }
@@ -5294,6 +9536,30 @@ export const romaniaCities: POI[] = [
                   "text": "Monument funerar situat în parcul complexului, acesta adăpostește mormintele ultimilor proprietari ai domeniului.",
                   "category": "historical",
                   "confidence": "high"
+            },
+            {
+                  "name": "Palatul Brâncovenesc",
+                  "text": "Construit în 1702 de Constantin Brâncoveanu, este o capodoperă a stilului brâncovenesc cu elemente orientale și venețiene.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turnul de poartă",
+                  "text": "Un turn masiv din cărămidă care marchează intrarea în curtea domnească, oferind o perspectivă asupra întregului ansamblu.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Mogoșoaia",
+                  "text": "O grădină peisagistică superbă care înconjoară palatul, cu deschidere la lac și alei mărginite de arbori seculari.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ghețăria",
+                  "text": "O structură istorică ingenioasă folosită în trecut pentru depozitarea blocurilor de gheață tăiate din lac în timpul iernii.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -5312,6 +9578,30 @@ export const romaniaCities: POI[] = [
             {
                   "name": "Bibescu Family Vault",
                   "text": "A funerary monument located in the complex park, it houses the graves of the last owners of the estate.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Main Palace",
+                  "text": "Built in 1702 by Constantin Brancoveanu, this masterpiece of Romanian architecture combines Oriental and Venetian elements.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gate Tower",
+                  "text": "An impressive masonry tower marking the entrance to the princely court, offering views over the entire complex.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Park",
+                  "text": "A lush landscape garden surrounding the palace, featuring lake views and centuries-old trees in a peaceful setting.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Ice House",
+                  "text": "A historical structure used to store ice harvested from the lake during winter for the palace's needs.",
                   "category": "historical",
                   "confidence": "high"
             }
@@ -5361,6 +9651,24 @@ export const romaniaCities: POI[] = [
                   "text": "Die kürzlich wiederaufgebaute Kirche bewahrt den ursprünglichen Plan aus dem 17. Jahrhundert und wertvolle Steinelemente.",
                   "category": "religious",
                   "confidence": "high"
+            },
+            {
+                  "name": "Präsidentschaftspalast",
+                  "text": "Der offizielle Sitz und das Büro des rumänischen Präsidenten, untergebracht in einem Flügel des historischen Komplexes.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Löwendenkmal",
+                  "text": "Eine ikonische Bronzestatue, die den Genietruppen der rumänischen Armee gewidmet ist, gelegen auf dem Leu-Platz.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Denkmal für die Sanitätshelden",
+                  "text": "Ein beeindruckendes skulpturales Ensemble zu Ehren des medizinischen Personals im Ersten Weltkrieg.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -5380,6 +9688,24 @@ export const romaniaCities: POI[] = [
                   "name": "Cotroceni-templom",
                   "text": "A nemrég újjáépített templom megőrzi az eredeti, 17. századi alaprajzot és az értékes kőfaragványokat.",
                   "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Elnöki Palota",
+                  "text": "Románia elnökének hivatalos rezidenciája és munkahelye, amely a történelmi Cotroceni-komplexum egyik szárnyában található.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Oroszlán-emlékmű",
+                  "text": "A román hadsereg műszaki alakulatainak tiszteletére emelt ikonikus bronzszobor a palota melletti téren.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Egészségügyi Hősök Emlékműve",
+                  "text": "Lenyűgöző szoborcsoport az első világháborúban szolgáló orvosi és egészségügyi személyzet emlékére.",
+                  "category": "historical",
                   "confidence": "high"
             }
       ],
@@ -5401,6 +9727,24 @@ export const romaniaCities: POI[] = [
                   "text": "Reconstruită recent, biserica păstrează planul original din secolul al XVII-lea și elemente brâncovenești deosebite.",
                   "category": "religious",
                   "confidence": "high"
+            },
+            {
+                  "name": "Palatul Prezidențial",
+                  "text": "Reședința oficială și sediul de lucru al Președintelui României, situat într-o aripă a complexului istoric Cotroceni.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monumentul Geniului \"Leul\"",
+                  "text": "O statuie emblematică dedicată Corpului de Geniu al Armatei Române, situată în piața din fața palatului.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monumentul Eroilor Sanitari",
+                  "text": "Un ansamblu sculptural impresionant ridicat în memoria cadrelor medicale care au servit în Primul Război Mondial.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -5420,6 +9764,24 @@ export const romaniaCities: POI[] = [
                   "name": "Cotroceni Church",
                   "text": "Recently rebuilt, the church preserves the original 17th-century plan and remarkable Brâncovenesc stone elements.",
                   "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Presidential Palace",
+                  "text": "The official residence and office of the President of Romania, located in a wing of the historic complex.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Lion Monument",
+                  "text": "An iconic bronze statue dedicated to the Military Engineers, situated in the \"Leu\" square near the palace.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sanitary Heroes Monument",
+                  "text": "A large sculptural ensemble honoring the medical personnel who served during the First World War.",
+                  "category": "historical",
                   "confidence": "high"
             }
       ]
@@ -5467,6 +9829,18 @@ export const romaniaCities: POI[] = [
                   "text": "Der familienfreundliche Bereich mit zahlreichen Wasserrutschen, einem Wellenbad und Entspannungszonen für Kinder und Erwachsene.",
                   "category": "recreational",
                   "confidence": "high"
+            },
+            {
+                  "name": "Sands of Therme",
+                  "text": "Gilt als größter Stadtstrand Europas und bietet eine tropische Atmosphäre mit feinem Sand und zahlreichen Palmen.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Feng-Shui-Park",
+                  "text": "Ein einzigartiger Entspannungsbereich im Freien, der nach alten Prinzipien mit speziellen Pflanzen und Wegen gestaltet wurde.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -5486,6 +9860,18 @@ export const romaniaCities: POI[] = [
                   "name": "Galaxy",
                   "text": "Családi kalandpark számos csúszdával, hullámmedencével és beltéri homokos stranddal a gyermekek szórakoztatására.",
                   "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sands of Therme",
+                  "text": "Európa legnagyobb városi strandja, amely trópusi hangulatot áraszt finom homokkal, pálmafákkal és pihenőhelyekkel.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Feng Shui kert",
+                  "text": "Különleges szabadtéri pihenőövezet, amelyet ősi elvek alapján, speciális növényekkel és ösvényekkel alakítottak ki.",
+                  "category": "natural",
                   "confidence": "high"
             }
       ],
@@ -5507,6 +9893,18 @@ export const romaniaCities: POI[] = [
                   "text": "Destinația ideală pentru familii, dotată cu numeroase tobogane acvatice, piscină cu valuri și spații de relaxare pentru copii.",
                   "category": "recreational",
                   "confidence": "high"
+            },
+            {
+                  "name": "Sands of Therme",
+                  "text": "Cea mai mare plajă urbană din Europa, oferind o atmosferă tropicală cu nisip fin, palmieri și zone de relaxare.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădina Feng Shui",
+                  "text": "O zonă exterioară de relaxare unică, amenajată conform principiilor antice, cu plante și trasee specifice.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -5526,6 +9924,18 @@ export const romaniaCities: POI[] = [
                   "name": "Galaxy",
                   "text": "A family-oriented zone with dozens of indoor water slides, a wave pool, and sandy relaxation areas for all ages.",
                   "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sands of Therme",
+                  "text": "Known as the largest urban beach in Europe, offering a tropical atmosphere with fine sand and palm trees.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Feng Shui Park",
+                  "text": "A unique outdoor relaxation area designed according to ancient principles, featuring specific plants and paths.",
+                  "category": "natural",
                   "confidence": "high"
             }
       ]
@@ -5574,6 +9984,24 @@ export const romaniaCities: POI[] = [
                   "text": "Ein modernes Einkaufszentrum, das Architektur und Kommerz verbindet und ein wichtiger Treffpunkt im Zentrum von Iași ist.",
                   "category": "civic",
                   "confidence": "high"
+            },
+            {
+                  "name": "Fürstliche Kirche St. Nikolaus",
+                  "text": "Das älteste religiöse Gebäude in Iași, gestiftet von Stefan dem Großen, direkt am Rande des Palas-Komplexes.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palas-Amphitheater",
+                  "text": "Ein moderner Veranstaltungsort unter freiem Himmel für Konzerte und Kultur, integriert in die Palas-Gärten.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Congress Hall",
+                  "text": "Ein hochmodernes Veranstaltungszentrum für internationale Konferenzen und Galas innerhalb des Palas-Komplexes.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -5593,6 +10021,24 @@ export const romaniaCities: POI[] = [
                   "name": "Palas Mall",
                   "text": "Modern bevásárlóközpont és közösségi tér, amely elegáns környezetben kínál vásárlási és szórakozási lehetőségeket.",
                   "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Miklós fejedelmi templom",
+                  "text": "Jászvásár legrégebbi vallási épülete, melyet Nagy István alapított; közvetlenül a Palas-negyed mellett áll.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palas amfiteátrum",
+                  "text": "Modern szabadtéri kulturális helyszín koncerteknek és eseményeknek, a gyönyörű Palas-kertekbe integrálva.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Congress Hall",
+                  "text": "Ultramodern rendezvényközpont, amely nemzetközi konferenciáknak és gáláknak ad otthont a Palas-komplexumon belül.",
+                  "category": "cultural",
                   "confidence": "high"
             }
       ],
@@ -5614,6 +10060,24 @@ export const romaniaCities: POI[] = [
                   "text": "Centru comercial modern integrat în ansamblul urbanistic, fiind principala destinație de shopping și petrecere a timpului liber.",
                   "category": "civic",
                   "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfântul Nicolae Domnesc",
+                  "text": "Cea mai veche construcție religioasă din Iași, ctitorită de Ștefan cel Mare, aflată la marginea complexului Palas.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Amfiteatrul Palas",
+                  "text": "Un spațiu modern în aer liber destinat concertelor și evenimentelor culturale, integrat în grădinile ansamblului.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Congress Hall",
+                  "text": "Un centru de evenimente ultramodern care găzduiește conferințe internaționale și gale, situat în incinta complexului Palas.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -5633,6 +10097,24 @@ export const romaniaCities: POI[] = [
                   "name": "Palas Mall",
                   "text": "A premium shopping and lifestyle center integrated into the urban complex, blending modern architecture with city life.",
                   "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Nicholas Princely Church",
+                  "text": "The oldest religious building in Iasi, founded by Stephen the Great and located right next to the Palas complex.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palas Amphitheatre",
+                  "text": "A modern open-air venue hosting concerts and cultural events, integrated into the beautiful Palas Garden.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Congress Hall",
+                  "text": "A state-of-the-art event center hosting international conferences and gala dinners within the Palas complex.",
+                  "category": "cultural",
                   "confidence": "high"
             }
       ]
@@ -5681,6 +10163,30 @@ export const romaniaCities: POI[] = [
                   "text": "Ein zentraler See im Freilichtmuseum, um den sich Fischerhäuser und traditionelle Wasseranlagen gruppieren.",
                   "category": "natural",
                   "confidence": "high"
+            },
+            {
+                  "name": "Wassermühlen-Komplex",
+                  "text": "Diese Sammlung funktionsfähiger Wassermühlen zeigt die technische Entwicklung der rumänischen Landwirtschaft über Jahrhunderte.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Das Gasthaus aus Bătrâni",
+                  "text": "Ein authentisches historisches Wirtshaus, in dem Besucher traditionelle rumänische Gerichte in musealer Atmosphäre genießen können.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dorfschule aus dem 19. Jahrhundert",
+                  "text": "Ein rekonstruiertes Schulgebäude, das Einblicke in das Bildungswesen und das tägliche Leben der Kinder in alten Dörfern gibt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Târgul de țară (Landmarkt)",
+                  "text": "Ein lebendiger Ort für traditionelle Handwerksvorführungen und den Verkauf lokaler ökologischer Produkte direkt im Museum.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -5700,6 +10206,30 @@ export const romaniaCities: POI[] = [
                   "name": "Az ASTRA-tó",
                   "text": "A szabadtéri múzeum közepén elhelyezkedő tó, amely mentén halászházak és vízi kerekek láthatóak.",
                   "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vízimalom-együttes",
+                  "text": "Működőképes vízimalmok gyűjteménye, amely a román népi építészet és mezőgazdasági technika fejlődését mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vénkori fogadó",
+                  "text": "Egy 19. századi hagyományos fogadó hiteles másolata, ahol a látogatók megkóstolhatják a régió jellegzetes paraszti ételeit.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Régi falusi iskola",
+                  "text": "Eredeti berendezéssel ellátott 19. századi iskolaépület, amely a régi idők oktatási módszereit és hangulatát idézi fel.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vidéki vásártér",
+                  "text": "A múzeum központi helyszíne, ahol kézműves bemutatókat tartanak és helyi kistermelői portékákat lehet vásárolni.",
+                  "category": "cultural",
                   "confidence": "high"
             }
       ],
@@ -5721,6 +10251,30 @@ export const romaniaCities: POI[] = [
                   "text": "Lacul central din cadrul muzeului, oferind un cadru natural superb pentru gospodăriile de pescari expuse.",
                   "category": "natural",
                   "confidence": "high"
+            },
+            {
+                  "name": "Complexul de mori de apă",
+                  "text": "O colecție impresionantă de instalații hidraulice tradiționale care ilustrează ingeniozitatea tehnică a țăranului român.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cârciuma din Bătrâni",
+                  "text": "Unitate de alimentație cu specific tradițional situată într-un monument de arhitectură populară din secolul al XIX-lea.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Școala veche din sat",
+                  "text": "Clădire de patrimoniu ce redă atmosfera învățământului rural de odinioară, completată cu mobilier și rechizite de epocă.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Târgul de țară",
+                  "text": "Spațiu special amenajat pentru promovarea patrimoniului gastronomic și a meșteșugurilor vii prin ateliere și târguri.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -5740,6 +10294,30 @@ export const romaniaCities: POI[] = [
                   "name": "The ASTRA Lake",
                   "text": "A scenic lake at the heart of the open-air museum, surrounded by traditional fishing huts and water-powered mills.",
                   "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Watermill Complex",
+                  "text": "A collection of functional traditional watermills demonstrating the hydraulic engineering skills of Romanian villagers.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Old Inn from Bătrâni",
+                  "text": "An authentic 19th-century traditional inn where visitors can taste local recipes in a historic open-air setting.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Village School",
+                  "text": "A heritage building that recreates the atmosphere of early rural education, featuring original period school equipment.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Country Fair (Târgul de țară)",
+                  "text": "A dedicated space for live craft demonstrations and traditional culinary events featuring local organic producers.",
+                  "category": "cultural",
                   "confidence": "high"
             }
       ]
@@ -5788,6 +10366,24 @@ export const romaniaCities: POI[] = [
                   "text": "Ein großes Gewächshaus mit einer beeindruckenden Sammlung tropischer und subtropischer Pflanzen aus aller Welt.",
                   "category": "natural",
                   "confidence": "high"
+            },
+            {
+                  "name": "Amazonas-Riesenseerosenhaus",
+                  "text": "Ein Gewächshaus, das der Victoria amazonica gewidmet ist, deren riesige Blätter auf der Wasseroberfläche schwimmen.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Botanisches Museum",
+                  "text": "Beherbergt über 6.000 Exponate, darunter seltene Pflanzensammlungen und botanische Illustrationen von großem Wert.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Das Rosarium",
+                  "text": "Ein weitläufiger Gartenabschnitt mit Hunderten von Rosensorten, der besonders während der Blütezeit im Juni beeindruckt.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -5806,6 +10402,24 @@ export const romaniaCities: POI[] = [
             {
                   "name": "Pálmaház",
                   "text": "Hatalmas üvegház, amelyben trópusi és szubtrópusi növénykülönlegességek, köztük óriás pálmák láthatóak.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Viktória-tündérrózsa ház",
+                  "text": "Különleges üvegház, amely az óriás tündérrózsát mutatja be, melynek levelei akár egy kisgyermeket is elbírnak.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Botanikai Múzeum",
+                  "text": "Több mint 6000 kiállítási tárgyat őriz, köztük ritka növénygyűjteményeket és értékes botanikai illusztrációkat.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rózsakert (Rosarium)",
+                  "text": "A kert látványos része, ahol több száz rózsafajta virágzik, felejthetetlen látványt és illatot nyújtva nyáron.",
                   "category": "natural",
                   "confidence": "high"
             }
@@ -5828,6 +10442,24 @@ export const romaniaCities: POI[] = [
                   "text": "Sere monumentale ce adăpostesc plante tropicale, palmieri giganți și nuferi din bazinul Amazonului.",
                   "category": "natural",
                   "confidence": "high"
+            },
+            {
+                  "name": "Sera cu nuferi gigantici",
+                  "text": "Adăpostește spectaculosul nufăr Victoria amazonica, celebru pentru dimensiunea uriașă a frunzelor sale plutitoare.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Botanic",
+                  "text": "Instituție ce deține colecții vaste de plante conservate, semințe și exponate de paleobotanică de importanță științifică.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rosariumul",
+                  "text": "Sector dedicat culturii trandafirilor, reunind sute de soiuri nobile într-un aranjament peisagistic deosebit.",
+                  "category": "natural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -5846,6 +10478,24 @@ export const romaniaCities: POI[] = [
             {
                   "name": "Palm House",
                   "text": "A large greenhouse complex home to an impressive collection of tropical and subtropical plants from across the globe.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Giant Water Lily House",
+                  "text": "A specialized greenhouse featuring the Victoria amazonica, famous for its enormous floating leaves that support great weight.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Botanical Museum",
+                  "text": "Houses over 6,000 botanical specimens, rare plant collections, and valuable scientific illustrations from around the world.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Rosarium",
+                  "text": "A vast collection of hundreds of rose varieties, offering a spectacular display of color and fragrance during early summer.",
                   "category": "natural",
                   "confidence": "high"
             }
@@ -5889,6 +10539,24 @@ export const romaniaCities: POI[] = [
                   "text": "Der großzügige Platz rund um die Statue, der oft für kulturelle Veranstaltungen und Zeremonien genutzt wird.",
                   "category": "civic",
                   "confidence": "high"
+            },
+            {
+                  "name": "Kulturpalast (Palatul Culturii)",
+                  "text": "Ein prächtiges neogotisches Gebäude direkt hinter der Statue, das heute vier bedeutende Museen beherbergt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfântul Nicolae Domnesc",
+                  "text": "Die älteste Kirche von Iași, erbaut von Stefan dem Großen, liegt nur wenige Schritte vom Denkmal entfernt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dosoftei-Haus",
+                  "text": "Ein historisches Steinhaus aus dem 17. Jahrhundert, das die erste Druckerei der Moldau beherbergte.",
+                  "category": "museum",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -5902,6 +10570,24 @@ export const romaniaCities: POI[] = [
                   "name": "Kultúrpalota tere",
                   "text": "A szobor körüli tágas tér, amely Jászvásár egyik központi találkozóhelye és rendezvényhelyszíne.",
                   "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kultúrpalota",
+                  "text": "A szobor mögött magasodó monumentális neogótikus épület, amely Jászvásár legfontosabb múzeumainak ad otthont.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Miklós fejedelmi templom",
+                  "text": "Jászvásár legrégebbi temploma, melyet Nagy István alapított, a moldvai fejedelmek egykori koronázási helyszíne.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dosoftei-ház",
+                  "text": "17. századi műemléképület a szobor szomszédságában, ahol Moldva első könyvnyomdája működött.",
+                  "category": "museum",
                   "confidence": "high"
             }
       ],
@@ -5917,6 +10603,24 @@ export const romaniaCities: POI[] = [
                   "text": "Esplanada largă din jurul statuii, un loc emblematic pentru istoria și evenimentele culturale ale orașului Iași.",
                   "category": "civic",
                   "confidence": "high"
+            },
+            {
+                  "name": "Palatul Culturii",
+                  "text": "Edificiu simbol al orașului, construit în stil neogotic, situat imediat în spatele monumentului lui Ștefan cel Mare.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfântul Nicolae Domnesc",
+                  "text": "Ctitorie a lui Ștefan cel Mare din secolul al XV-lea, fiind cel mai vechi lăcaș de cult păstrat în Iași.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Dosoftei",
+                  "text": "Clădire istorică de secol XVII ce adăpostește Muzeul Literaturii Române Vechi, situată în fața Palatului Culturii.",
+                  "category": "museum",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -5930,6 +10634,24 @@ export const romaniaCities: POI[] = [
                   "name": "Palace of Culture Square",
                   "text": "The large open plaza surrounding the statue, serving as a central hub for ceremonies and public gatherings.",
                   "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palace of Culture",
+                  "text": "The iconic Neo-Gothic landmark of Iași, located right behind the statue, housing four major national museums.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Princely Saint Nicholas Church",
+                  "text": "The oldest church in Iași, founded by Stephen the Great in the 15th century, located adjacent to the square.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dosoftei House",
+                  "text": "A 17th-century historical stone building that hosted the first printing house in the principality of Moldavia.",
+                  "category": "museum",
                   "confidence": "high"
             }
       ]
@@ -5972,6 +10694,24 @@ export const romaniaCities: POI[] = [
                   "text": "Ein majestätischer Saal für akademische Zeremonien, der durch seine klassische Architektur und Eleganz besticht.",
                   "category": "cultural",
                   "confidence": "high"
+            },
+            {
+                  "name": "Saal der verlorenen Schritte",
+                  "text": "Berühmte Galerie mit 19 monumentalen Wandgemälden von Sabin Bălașa, die Mythen und Geschichte darstellen.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Copou-Park",
+                  "text": "Der älteste öffentliche Garten Rumäniens, direkt neben der Universität, bekannt für seine ruhigen Alleen.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Eminescus Linde",
+                  "text": "Ein über 500 Jahre alter Baum im Copou-Park, unter dem der Nationaldichter Mihai Eminescu seine Inspiration fand.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -5984,6 +10724,24 @@ export const romaniaCities: POI[] = [
             {
                   "name": "Egyetemi Aula",
                   "text": "Ünnepségeknek otthont adó fenséges csarnok, amely klasszikus építészetével és díszes kialakításával tűnik ki.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Elveszett lépések csarnoka",
+                  "text": "Híres folyosó az egyetemen, melyet Sabin Bălașa 19 monumentális falfestménye díszít, mitikus témákat ábrázolva.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Copou-park",
+                  "text": "Románia legrégebbi közparkja az egyetem közvetlen szomszédságában, Jászvásár legkedveltebb pihenőhelye.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Eminescu hárfája",
+                  "text": "Több mint 500 éves hársfa a Copou-parkban, amely Mihai Eminescu nemzeti költő kedvenc helye és ihletforrása volt.",
                   "category": "cultural",
                   "confidence": "high"
             }
@@ -6000,6 +10758,24 @@ export const romaniaCities: POI[] = [
                   "text": "O sală maiestuoasă folosită pentru ceremonii, remarcabilă prin arhitectura sa clasică și decorul impunător.",
                   "category": "cultural",
                   "confidence": "high"
+            },
+            {
+                  "name": "Sala Pașilor Pierduți",
+                  "text": "Galerie celebră din cadrul universității, decorată cu 19 picturi murale monumentale realizate de artistul Sabin Bălașa.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Copou",
+                  "text": "Cea mai veche grădină publică din România, situată lângă universitate, fiind un simbol al eleganței istorice a orașului.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Teiul lui Eminescu",
+                  "text": "Arbore multisecular situat în Parcul Copou, devenit loc de pelerinaj cultural asociat cu marele poet Mihai Eminescu.",
+                  "category": "cultural",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -6012,6 +10788,24 @@ export const romaniaCities: POI[] = [
             {
                   "name": "University Aula Magna",
                   "text": "A majestic hall used for academic ceremonies, renowned for its impressive architecture and rich historical decorations.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hall of Lost Steps",
+                  "text": "A magnificent university gallery featuring 19 monumental murals by Sabin Bălașa, depicting cosmic and historical themes.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Copou Park",
+                  "text": "Romania's oldest public park, located next to the university, famous for its historic lanes and cultural monuments.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Eminescu's Linden Tree",
+                  "text": "A 500-year-old tree in Copou Park, legendary as the favorite spot for inspiration for Romania's national poet.",
                   "category": "cultural",
                   "confidence": "high"
             }
@@ -6067,6 +10861,36 @@ export const romaniaCities: POI[] = [
                   "text": "Eine spektakuläre Buchhandlung in einem restaurierten historischen Gebäude, berühmt für ihr helles Design.",
                   "category": "cultural",
                   "confidence": "high"
+            },
+            {
+                  "name": "Banca Națională a României",
+                  "text": "Das beeindruckende neoklassizistische Gebäude der Nationalbank wurde im späten 19. Jahrhundert erbaut.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pasajul Macca-Vilacrosse",
+                  "text": "Eine hufeisenförmige, gelb glasgedeckte Arkadenstraße, bekannt für ihre Cafés und böhmische Atmosphäre.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zlatari-Kirche",
+                  "text": "Berühmt für die Reliquien des Heiligen Cyprian, steht diese Kirche an der belebten Calea Victoriei.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St.-Antonius-Kirche",
+                  "text": "Die älteste Kirche Bukarests, einst Teil des Fürstenhofs, ein Juwel walachischer Architektur.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "CEC-Palast",
+                  "text": "Ein architektonisches Meisterwerk mit einer riesigen Glas- und Metallkuppel, direkt gegenüber dem Nationalmuseum.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -6092,6 +10916,36 @@ export const romaniaCities: POI[] = [
                   "name": "Cărturești Carusel",
                   "text": "Látványos könyvesbolt egy felújított történelmi épületben, amely modern belsőépítészeti megoldásairól ismert.",
                   "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Román Nemzeti Bank",
+                  "text": "A neoklasszicista stílusú palota a 19. század végén épült, a város egyik legimpozánsabb pénzügyi központja.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Macca-Vilacrosse átjáró",
+                  "text": "Sárga üvegtetős, elegáns passzázs, amely tele van vízipipázókkal és hangulatos kávézókkal.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zlatari-templom",
+                  "text": "Szent Ciprián ereklyéiről híres ortodox templom az óváros szélén, a Calea Victoriei mentén.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Antal-templom",
+                  "text": "Bukarest legrégebbi fennmaradt temploma, amely egykor a fejedelmi udvar vallási központja volt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "CEC-palota",
+                  "text": "Lenyűgöző palota hatalmas üvegkupolával, a román eklektikus építészet egyik legszebb példája.",
+                  "category": "historical",
                   "confidence": "high"
             }
       ],
@@ -6119,6 +10973,36 @@ export const romaniaCities: POI[] = [
                   "text": "O librărie spectaculoasă amenajată într-o clădire istorică restaurată, faimoasă pentru designul său modern.",
                   "category": "cultural",
                   "confidence": "high"
+            },
+            {
+                  "name": "Banca Națională a României",
+                  "text": "Palatul vechi al BNR este o capodoperă a stilului neoclasic, construită la finalul secolului al XIX-lea.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pasajul Macca-Vilacrosse",
+                  "text": "Pasaj spectaculos acoperit cu sticlă galbenă, renumit pentru atmosfera boemă și cafenelele sale.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Zlătari",
+                  "text": "Lăcaș de cult istoric ce adăpostește moaștele Sfântului Ciprian, situat pe Calea Victoriei.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfântul Anton",
+                  "text": "Cea mai veche biserică din București, fostă biserică domnească, păstrând elemente arhitecturale bizantine.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul CEC",
+                  "text": "Edificiu monumental cu o cupolă spectaculoasă din sticlă și oțel, simbol al arhitecturii eclectice.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -6144,6 +11028,36 @@ export const romaniaCities: POI[] = [
                   "name": "Carturesti Carusel",
                   "text": "A spectacular bookstore housed in a beautifully restored 19th-century building, known for its elegant design.",
                   "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "National Bank of Romania",
+                  "text": "A stunning neoclassical palace built in the late 19th century, housing a rich numismatic museum.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Macca-Vilacrosse Passage",
+                  "text": "A fork-shaped, yellow glass-covered arcade famous for its shisha bars and unique old-world charm.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zlatari Church",
+                  "text": "A historic church holding the relics of Saint Cyprian, located at the edge of the Old Town.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint Anthony Church",
+                  "text": "The oldest church in Bucharest, once serving the nearby Princely Court, featuring Valachian style.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "CEC Palace",
+                  "text": "An architectural jewel with a massive glass and metal dome, located right across the History Museum.",
+                  "category": "historical",
                   "confidence": "high"
             }
       ]
@@ -6192,6 +11106,36 @@ export const romaniaCities: POI[] = [
                   "text": "Ein großer Park mit Schwimmbädern, Sportplätzen und Grünflächen, ideal für Erholung und Outdoor-Aktivitäten in der Natur.",
                   "category": "recreational",
                   "confidence": "high"
+            },
+            {
+                  "name": "Museum für Volksbräuche in der Bukowina",
+                  "text": "Das Museum für Volksbräuche in der Bukowina zeigt lokale Traditionen, Masken und Trachten in einer einzigartigen kulturgeschichtlichen Sammlung.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Skipiste Șoimul",
+                  "text": "Die Skipiste Șoimul ist mit Flutlicht und Sessellift ausgestattet und ein beliebtes Ziel für Wintersportler in der Region Gura Humorului.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Große Synagoge von Gura Humorului",
+                  "text": "Die Große Synagoge stammt aus dem 19. Jahrhundert und ist ein Baudenkmal, das an die jüdische Geschichte der Stadt erinnert.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Katholische Kirche Heiligstes Herz Jesu",
+                  "text": "Die römisch-katholische Kirche Heiligstes Herz Jesu ist ein markantes Bauwerk im Stadtzentrum und zeugt von der konfessionellen Vielfalt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statue von Stephan dem Großen",
+                  "text": "Die Statue von Stephan dem Großen in Gura Humorului ist ein imposantes Denkmal für den moldauischen Herrscher und ein lokales Wahrzeichen.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -6211,6 +11155,36 @@ export const romaniaCities: POI[] = [
                   "name": "Ariniș Szabadidő Központ",
                   "text": "Egy hatalmas park medencékkel, sportpályákkal és zöld övezetekkel, amely ideális a pihenésre és a szabadtéri tevékenységekre.",
                   "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bukovinai Népszokások Múzeuma",
+                  "text": "A Bukovinai Népszokások Múzeuma a helyi hagyományokba nyújt betekintést, népviseleteket, maszkokat és kézműves tárgyakat mutatva a látogatóknak.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Șoimul sípálya",
+                  "text": "A Șoimul sípálya éjszakai világítással és felvonóval várja a téli sportok kedvelőit, a város egyik legnépszerűbb rekreációs helyszíne.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gura Humorului-i nagy zsinagóga",
+                  "text": "A zsinagóga a 19. században épült, és a város egykori jelentős zsidó közösségének állít emléket fontos történelmi mementóként.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jézus Szíve római katolikus templom",
+                  "text": "A Jézus Szíve római katolikus templom a városközpont egyik meghatározó épülete, amely a helyi közösség felekezeti sokszínűségét hirdeti.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "III. István moldovai fejedelem szobra",
+                  "text": "III. István moldovai fejedelem szobra Gura Humoruluiban egy monumentális emlékmű, amely a város egyik központi terén méltatja a nagy uralkodót.",
+                  "category": "historical",
                   "confidence": "high"
             }
       ],
@@ -6232,6 +11206,36 @@ export const romaniaCities: POI[] = [
                   "text": "O zonă vastă de recreere ce oferă piscine, terenuri de sport și trasee în natură, fiind principala atracție turistică a orașului.",
                   "category": "recreational",
                   "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Obiceiurilor Populare din Bucovina",
+                  "text": "Muzeul Obiceiurilor Populare din Bucovina oferă o incursiune fascinantă în tradițiile locale, expunând măști, costume și obiecte de artizanat.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pârtia de schi Șoimul",
+                  "text": "Pârtia de schi Șoimul este dotată cu nocturnă și telescaun, fiind o atracție majoră pentru iubitorii sporturilor de iarnă care vizitează stațiunea.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sinagoga Mare din Gura Humorului",
+                  "text": "Sinagoga Mare din Gura Humorului datează din secolul al XIX-lea și este un monument istoric ce amintește de comunitatea evreiască locală.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Romano-Catolică Preasfânta Inimă a lui Isus",
+                  "text": "Biserica Romano-Catolică este un lăcaș de cult impunător din centrul orașului, reflectând diversitatea confesională a regiunii Bucovina.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia lui Ștefan cel Mare",
+                  "text": "Statuia lui Ștefan cel Mare din Gura Humorului este un monument impunător dedicat domnitorului moldovean, fiind situată într-o zonă centrală.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -6251,6 +11255,36 @@ export const romaniaCities: POI[] = [
                   "name": "Ariniș Leisure Complex",
                   "text": "A large recreational area offering swimming pools, sports fields, and nature trails, perfect for relaxation and outdoor fun.",
                   "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum of Bukovinan Folk Customs",
+                  "text": "The Museum of Bukovinan Folk Customs offers a unique insight into local traditions, displaying masks, traditional costumes, and local crafts.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Șoimul Ski Slope",
+                  "text": "The Șoimul ski slope is equipped with floodlights and a chairlift, making it a top destination for winter sports enthusiasts in the resort.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Great Synagogue of Gura Humorului",
+                  "text": "The Great Synagogue of Gura Humorului dates back to the 19th century and is a historic monument testifying to the town's Jewish heritage.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sacred Heart of Jesus Catholic Church",
+                  "text": "The Sacred Heart of Jesus Catholic Church is a prominent building in the city center, showcasing the religious diversity of Bukovina region.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statue of Stephen the Great",
+                  "text": "The Statue of Stephen the Great in Gura Humorului is an imposing monument dedicated to the Moldavian ruler, located in a central public space.",
+                  "category": "historical",
                   "confidence": "high"
             }
       ]
@@ -6299,6 +11333,24 @@ export const romaniaCities: POI[] = [
                   "text": "Ein bedeutender Wallfahrtsort nahe dem Salzbergwerk, bekannt für seine Architektur und spirituelle Bedeutung.",
                   "category": "religious",
                   "confidence": "high"
+            },
+            {
+                  "name": "Salzballsaal",
+                  "text": "Ein großer unterirdischer Raum, der früher für Tanzveranstaltungen und gesellschaftliche Zusammenkünfte genutzt wurde.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Echo-Stollen",
+                  "text": "Ein langer Tunnel im Salzbergwerk, bekannt für seine akustischen Eigenschaften und beeindruckenden Echos.",
+                  "category": "natural",
+                  "confidence": "medium"
+            },
+            {
+                  "name": "Dorfmuseum Cacica",
+                  "text": "Ein kleines Museum über Tage, das die Geschichte des Salzabbaus und die lokale polnische Gemeinschaft zeigt.",
+                  "category": "museum",
+                  "confidence": "medium"
             }
       ],
       "hu": [
@@ -6319,6 +11371,24 @@ export const romaniaCities: POI[] = [
                   "text": "Fontos zarándokhely a sóbánya közelében, amely építészeti szépségéről és vallási jelentőségéről ismert.",
                   "category": "religious",
                   "confidence": "high"
+            },
+            {
+                  "name": "Báli terem",
+                  "text": "A föld alatti sóbánya hatalmas terme, ahol egykor ünnepségeket és táncmulatságokat rendeztek.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Visszhang-folyosó",
+                  "text": "A bányajáratok egyike, amely különleges akusztikájáról és a falakról visszaverődő hangokról ismert.",
+                  "category": "natural",
+                  "confidence": "medium"
+            },
+            {
+                  "name": "Kacsikai falumúzeum",
+                  "text": "A felszínen található kiállítás, amely a bányászat történetét és a helyi lengyel kisebbség életét mutatja be.",
+                  "category": "museum",
+                  "confidence": "medium"
             }
       ],
       "ro": [
@@ -6339,6 +11409,24 @@ export const romaniaCities: POI[] = [
                   "text": "Un important loc de pelerinaj situat lângă salină, cunoscut pentru arhitectura sa și icoana făcătoare de minuni.",
                   "category": "religious",
                   "confidence": "high"
+            },
+            {
+                  "name": "Sala de dans",
+                  "text": "O cavitate uriașă în sare, amenajată în trecut pentru baluri și evenimente comunitare la mare adâncime.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Galeria Ecoului",
+                  "text": "Un tunel lung săpat în masivul de sare, faimos pentru acustica deosebită și ecoul prelungit.",
+                  "category": "natural",
+                  "confidence": "medium"
+            },
+            {
+                  "name": "Muzeul satului Cacica",
+                  "text": "Muzeu local ce prezintă istoria exploatării sării și tradițiile comunității poloneze din zonă.",
+                  "category": "museum",
+                  "confidence": "medium"
             }
       ],
       "en": [
@@ -6359,6 +11447,24 @@ export const romaniaCities: POI[] = [
                   "text": "A major pilgrimage site near the mine, known for its beautiful architecture and the miraculous icon of Mary.",
                   "category": "religious",
                   "confidence": "high"
+            },
+            {
+                  "name": "The Ballroom",
+                  "text": "A massive underground hall carved in salt, historically used for dances and social gatherings.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Echo Gallery",
+                  "text": "A specific tunnel within the mine known for its unique acoustics and impressive echo effects.",
+                  "category": "natural",
+                  "confidence": "medium"
+            },
+            {
+                  "name": "Cacica Village Museum",
+                  "text": "A surface-level museum dedicated to salt mining history and the local Polish community's heritage.",
+                  "category": "museum",
+                  "confidence": "medium"
             }
       ]
 }
@@ -6406,6 +11512,24 @@ export const romaniaCities: POI[] = [
                   "text": "Eine nahegelegene Schauhöhle, die für ihre außergewöhnliche Akustik und beeindruckende Tropfsteine bekannt ist.",
                   "category": "natural",
                   "confidence": "high"
+            },
+            {
+                  "name": "Evangelische Kirche Rosenau",
+                  "text": "Eine historische Wehrkirche im Stadtzentrum, die auf das 14. Jahrhundert zurückgeht.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aufzug zur Burg",
+                  "text": "Ein Schrägaufzug, der das Stadtzentrum direkt mit der Bauernburg Rosenau verbindet.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Skisprungzentrum Râșnov",
+                  "text": "Ein moderner Komplex für Wintersport, der internationale Skisprung-Wettbewerbe beherbergt.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -6425,6 +11549,24 @@ export const romaniaCities: POI[] = [
                   "name": "Várvölgyi-barlang",
                   "text": "A közelben található látogatható barlang, amely kiváló akusztikájáról és szép mészkőképződményeiről híres.",
                   "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Barcarozsnyói evangélikus templom",
+                  "text": "14. századi erődtemplom a város központjában, értékes középkori freskótöredékekkel.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Várfelvonó",
+                  "text": "Modern sikló, amely a városközpontból közvetlenül a vár bejáratához szállítja a látogatókat.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Barcarozsnyói síugró központ",
+                  "text": "Nemzetközi versenyeknek otthont adó modern sportkomplexum a hegyoldalban.",
+                  "category": "recreational",
                   "confidence": "high"
             }
       ],
@@ -6446,6 +11588,24 @@ export const romaniaCities: POI[] = [
                   "text": "O peșteră amenajată situată în apropiere, cunoscută pentru acustica sa deosebită și formațiunile de stalactite.",
                   "category": "natural",
                   "confidence": "high"
+            },
+            {
+                  "name": "Biserica Evanghelică Râșnov",
+                  "text": "Lăcaș de cult fortificat datând din secolul al XIV-lea, situat în inima vechiului târg.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ascensorul pe plan înclinat",
+                  "text": "Funicular modern care facilitează accesul turiștilor din centrul orașului către Cetatea Râșnov.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Baza Olimpică pentru Sporturi pe Gheață",
+                  "text": "Complex sportiv modern renumit pentru trambulinele de sărituri cu schiurile de talie internațională.",
+                  "category": "recreational",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -6465,6 +11625,24 @@ export const romaniaCities: POI[] = [
                   "name": "Valea Cetății Cave",
                   "text": "A well-maintained natural cave nearby, famous for its impressive acoustics and beautiful limestone stalactites.",
                   "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rasnov Evangelical Church",
+                  "text": "A 14th-century fortified church located in the town center, representing Saxon architecture.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Inclined Lift",
+                  "text": "A funicular connecting the city center to the Citadel, offering a scenic ride up the hill.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rasnov Ski Jumping Center",
+                  "text": "A professional winter sports complex hosting World Cup ski jumping events.",
+                  "category": "recreational",
                   "confidence": "high"
             }
       ]
@@ -10174,6 +15352,96 @@ export const romaniaExtraPois: POI[] = [
                   "text": "In einer ehemaligen Kaserne untergebracht, zeigt das Museum Sammlungen zu Archäologie, Geschichte, Ethnografie und Kunst.",
                   "category": "cultural",
                   "confidence": "high"
+            },
+            {
+                  "name": "Stadtpark",
+                  "text": "Die größte Grünfläche der Stadt mit schattigen Alleen, Blumen und einem historischen Pavillon für Open-Air-Konzerte.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Synagoge Bistritz",
+                  "text": "Restauriertes Architekturdenkmal, das in ein lebendiges Kulturzentrum für Konzerte und Kunstausstellungen umgewandelt wurde.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Koronakirche",
+                  "text": "Alte Minoritenkirche aus dem 13. Jahrhundert, gilt als das älteste Baudenkmal in der Stadt Bistritz.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Haus des Johannes Steinmetz",
+                  "text": "Imposantes mittelalterliches Gebäude eines Steinmetzmeisters mit bemerkenswerten architektonischen Details der Renaissance.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Andrei-Mureșanu-Statue",
+                  "text": "Denkmal zu Ehren des Verfassers der Nationalhymne am Hauptplatz der Stadt neben der evangelischen Kirche.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kulturpalast",
+                  "text": "Die wichtigste kulturelle Einrichtung in einem historischen Gebäude mit einem breiten Spektrum an Veranstaltungen und Kursen.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schullerwald",
+                  "text": "Naturnahes Erholungsgebiet am Stadtrand, ideal zum Wandern, Picknicken und für sportliche Aktivitäten im Freien.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stadtmauern",
+                  "text": "Erhaltene Fragmente der mittelalterlichen Befestigungsanlagen, Zeugnisse der strategischen Bedeutung des alten Bistritz.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Andrei-Mureșanu-Gedenkhaus",
+                  "text": "Museum im Geburtshaus des revolutionären Dichters, das Einblicke in sein Leben und Werk bietet.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dreifaltigkeitskirche",
+                  "text": "Barocke römisch-katholische Kirche, die durch ihre prachtvolle Innenausstattung und feierliche Atmosphäre beeindruckt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bahnhof Bistritz",
+                  "text": "Ein historisches Gebäude, das als Hauptverkehrsknotenpunkt dient und architektonische Elemente seiner Entstehungszeit bewahrt.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brücke der Liebe",
+                  "text": "Malerische Brücke im Stadtpark, geschmückt mit Liebesschlössern und mit romantischem Blick auf den Fluss.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Präfektur Bistritz",
+                  "text": "Monumentales Verwaltungsgebäude mit Elementen neobrinconianischer Architektur im Herzen des historischen Zentrums.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dokumentationszentrum",
+                  "text": "Bibliothek und Archiv mit seltenen Dokumenten und alten Büchern zur Geschichte Nordsiebenbürgens.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "George-Coșbuc-Büste",
+                  "text": "Denkmal für den großen rumänischen Dichter in der Nähe des Parks, das seine Verbindung zur Region würdigt.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -10205,6 +15473,96 @@ export const romaniaExtraPois: POI[] = [
                   "name": "Beszterce-Naszód Megyei Múzeum",
                   "text": "Egy egykori kaszárnyában található intézmény, amely régészeti, néprajzi és képzőművészeti gyűjteményeket mutat be.",
                   "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Városi Park",
+                  "text": "A város legnagyobb zöldövezete árnyas sétányokkal, virágokkal és egy szabadtéri koncerteknek otthont adó pavilonnal.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Besztercei Zsinagóga",
+                  "text": "Restaurált építészeti műemlék, amely pezsgő kulturális központként koncerteknek és kiállításoknak ad otthont.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Korona-templom",
+                  "text": "Régi 13. századi minorita templom, amely Beszterce városának legrégebbi fennmaradt építészeti műemléke.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ion Zidaru háza",
+                  "text": "Impozáns középkori épület, amely egy kőfaragó mesteré volt, figyelemre méltó reneszánsz részletekkel.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Andrei Mureșanu szobra",
+                  "text": "A nemzeti himnusz szerzőjének tiszteletére emelt emlékmű a város főterén, az evangélikus templom mellett.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kulturpalota",
+                  "text": "A város fő kulturális intézménye egy történelmi épületben, amely események és művészeti képzések széles skáláját kínálja.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schullerwald-erdő",
+                  "text": "Természetes pihenőhely a város szélén, amely ideális túrázáshoz, piknikezéshez és szabadtéri sportokhoz.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Várfalak",
+                  "text": "A város középkori erődítményeinek fennmaradt töredékei, amelyek a régi Beszterce stratégiai jelentőségéről tanúskodnak.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Andrei Mureșanu Emlékház",
+                  "text": "A forradalmi költő szülőházában berendezett múzeum, amely bemutatja életét és munkásságát.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szentháromság-templom",
+                  "text": "Barokk stílusú római katolikus templom, amely gazdagon díszített belső terével és ünnepi hangulatával nyűgöz le.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Beszterce vasútállomás",
+                  "text": "Történelmi épület, amely fő vasúti csomópontként szolgál, megőrizve építési idejének stílusjegyeit.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szerelem hídja",
+                  "text": "Festői híd a városi parkban, szerelmi lakatokkal díszítve, romantikus kilátással a folyóra.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Beszterce-Naszód megyei prefektúra",
+                  "text": "Monumentális közigazgatási épület neobrinčoveanu elemekkel a történelmi városközpont szívében.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dokumentációs Központ",
+                  "text": "Könyvtár és archívum, amely Észak-Erdély történelméhez kapcsolódó ritka dokumentumokat és régi könyveket őriz.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "George Coșbuc mellszobra",
+                  "text": "A nagy román költőnek szentelt emlékmű a park közelében, amely Beszterce-vidéki kötődését ünnepli.",
+                  "category": "historical",
                   "confidence": "high"
             }
       ],
@@ -10238,6 +15596,96 @@ export const romaniaExtraPois: POI[] = [
                   "text": "Situat într-o fostă cazarmă, muzeul prezintă colecții valoroase de arheologie, istorie, etnografie și artă plastică.",
                   "category": "cultural",
                   "confidence": "high"
+            },
+            {
+                  "name": "Parcul Municipal Bistrița",
+                  "text": "Cel mai mare spațiu verde al orașului, cu alei umbroase, flori și un foișor istoric folosit pentru concerte în aer liber.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sinagoga din Bistrița",
+                  "text": "Monument arhitectural restaurat, transformat într-un centru cultural vibrant ce găzduiește concerte și expoziții de artă.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica de la Coroana",
+                  "text": "Veche biserică minorită din secolul al XIII-lea, considerată cel mai vechi monument arhitectural din orașul Bistrița.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Ion Zidaru",
+                  "text": "Clădire medievală impunătoare ce a aparținut unui meșter pietrar, remarcabilă prin detaliile sale arhitecturale renascentiste.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia lui Andrei Mureșanu",
+                  "text": "Monument ridicat în cinstea autorului imnului național, situat în piața centrală a orașului, lângă biserica evanghelică.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Culturii",
+                  "text": "Instituție culturală principală găzduită într-o clădire istorică, oferind o gamă largă de evenimente și cursuri artistice.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pădurea Schullerwald",
+                  "text": "Zonă de agrement naturală la marginea orașului, ideală pentru drumeții, picnicuri și activități sportive în aer liber.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zidurile Cetății",
+                  "text": "Fragmente păstrate din vechile fortificații medievale ale orașului, mărturii ale importanței strategice a vechiului Bistritz.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Memorială Andrei Mureșanu",
+                  "text": "Muzeu memorial situat în casa natală a poetului revoluționar, oferind detalii despre viața și activitatea acestuia.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Romano-Catolică Sfânta Treime",
+                  "text": "Biserică romano-catolică construită în stil baroc, impresionând prin interiorul său bogat decorat și atmosfera solemnă.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gara Bistrița",
+                  "text": "Clădire de epocă ce servește ca principal nod feroviar, păstrând elemente arhitecturale specifice perioadei în care a fost construită.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Podul Iubirii",
+                  "text": "Pod pitoresc situat în parcul municipal, decorat cu lacăte ale îndrăgostiților și oferind o priveliște romantică asupra râului.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Prefectura Județului Bistrița-Năsăud",
+                  "text": "Clădire administrativă monumentală cu elemente de arhitectură neobrâncovenească, situată în inima centrului istoric.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Centrul Documentar Internațional",
+                  "text": "Bibliotecă și arhivă ce păstrează documenterare și cărți vechi legate de istoria regiunii Transilvaniei de Nord.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bustul lui George Coșbuc",
+                  "text": "Monument dedicat marelui poet român, situat în apropierea parcului, celebrând legătura sa cu plaiurile bistrițene.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -10269,6 +15717,96 @@ export const romaniaExtraPois: POI[] = [
                   "name": "Bistrița-Năsăud County Museum",
                   "text": "Housed in a former barracks, the museum features valuable collections of archaeology, history, ethnography, and art.",
                   "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Municipal Park",
+                  "text": "The city's largest green space, with shaded alleys, flowers, and a historical gazebo used for open-air concerts.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bistrița Synagogue",
+                  "text": "A restored architectural monument transformed into a vibrant cultural center hosting concerts and art exhibitions.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Corona Church",
+                  "text": "An old 13th-century Minorite church, considered the oldest architectural monument in the city of Bistrița.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ion Zidaru House",
+                  "text": "An imposing medieval building that belonged to a master stonemason, notable for its Renaissance architectural details.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statue of Andrei Mureșanu",
+                  "text": "A monument raised in honor of the national anthem's author, located in the city's main square near the church.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Culture Palace",
+                  "text": "The main cultural institution housed in a historical building, offering a wide range of events and artistic courses.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schullerwald Forest",
+                  "text": "A natural recreation area on the edge of the city, ideal for hiking, picnics, and outdoor sports activities.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fortress Walls",
+                  "text": "Preserved fragments of the city's medieval fortifications, witnesses to the strategic importance of old Bistritz.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Andrei Mureșanu Memorial House",
+                  "text": "A memorial museum located in the birthplace of the revolutionary poet, detailing his life and work.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Holy Trinity Church",
+                  "text": "A Baroque Roman Catholic church, impressing with its richly decorated interior and solemn atmosphere.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bistrița Railway Station",
+                  "text": "A vintage building serving as the main railway hub, preserving architectural elements specific to its era.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bridge of Love",
+                  "text": "A picturesque bridge in the municipal park, decorated with love locks and offering a romantic view of the river.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bistrița Prefecture",
+                  "text": "A monumental administrative building with Neo-Brâncovenesc architectural elements, located in the heart of the center.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Documentary Center",
+                  "text": "A library and archive preserving rare documents and old books related to the history of Northern Transylvania.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bust of George Coșbuc",
+                  "text": "A monument dedicated to the great Romanian poet, located near the park, celebrating his connection to the region.",
+                  "category": "historical",
                   "confidence": "high"
             }
       ]
@@ -10589,6 +16127,36 @@ export const romaniaExtraPois: POI[] = [
                   "text": "Eine natürliche Höhle in der Nähe des Ortes, bekannt für ihre archäologischen Funde und Legenden.",
                   "category": "natural",
                   "confidence": "high"
+            },
+            {
+                  "name": "Weiße Kreuz",
+                  "text": "Ein markantes weißes Kreuz auf einem Felsen über der Stadt, das einen der besten Aussichtspunkte auf das gesamte Tal bietet.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Diana-Bäder",
+                  "text": "Historische Badeanlage aus dem 19. Jahrhundert, bekannt für ihre Architektur und die heilende Wirkung ihrer Schwefelquellen.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cerna-Tal",
+                  "text": "Das tief eingeschnittene Tal des Flusses Cerna bietet eine spektakuläre Naturkulisse mit steilen Felswänden und Wanderwegen.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hotel Roman",
+                  "text": "Ein markantes Bauwerk aus der kommunistischen Ära, das direkt über den Ruinen antiker römischer Thermen errichtet wurde.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kaiserliche Pavillons",
+                  "text": "Prachtvolle historische Gebäude im alten Kurzentrum, die einst den österreichischen Adel und Kaiser Franz Joseph beherbergten.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -10620,6 +16188,36 @@ export const romaniaExtraPois: POI[] = [
                   "name": "Betyár-barlang",
                   "text": "A város közelében található természetes barlang, amely régészeti leleteiről és legendáiról ismert.",
                   "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fehér Kereszt",
+                  "text": "A város feletti sziklán elhelyezett ikonikus fehér kereszt, amelyhez gyalogút vezet, és páratlan kilátást nyújt a Cserna-völgyre.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Diana-fürdő",
+                  "text": "19. századi történelmi fürdőépület, amely neoklasszicista homlokzatáról és gyógyhatású kénes forrásairól híres.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cserna-völgy",
+                  "text": "Az üdülőhelyet körülölelő látványos folyóvölgy meredek mészkősziklákkal és gazdag hegyi flórával várja a természetjárókat.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hotel Roman",
+                  "text": "A szocialista korszakban épült monumentális szálloda, amely közvetlenül az ókori római fürdők és mozaikok romjaira épült.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Császári pavilonok",
+                  "text": "Az óvárosi központ elegáns épületegyüttese, amely egykor az osztrák nemesség és az uralkodóház pihenését szolgálta.",
+                  "category": "historical",
                   "confidence": "high"
             }
       ],
@@ -10653,6 +16251,36 @@ export const romaniaExtraPois: POI[] = [
                   "text": "O peșteră naturală situată în apropierea stațiunii, cunoscută pentru vestigiile arheologice și legendele locale.",
                   "category": "natural",
                   "confidence": "high"
+            },
+            {
+                  "name": "Crucea Albă",
+                  "text": "O cruce albă situată pe o stâncă deasupra orașului, accesibilă printr-o potecă de pădure, oferind cea mai bună panoramă.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Băile Diana",
+                  "text": "Băi termale istorice datând din secolul al XIX-lea, cunoscute pentru fațada neoclasică și apele lor minerale curative.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Valea Cernei",
+                  "text": "Valea spectaculoasă a râului care înconjoară stațiunea, caracterizată prin pereți calcaroși abrupți și floră montană diversă.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hotel Roman",
+                  "text": "Un hotel masiv construit în perioada comunistă direct peste vestigiile băilor romane antice și ale mozaicurilor de epocă.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pavilioanele Imperiale",
+                  "text": "O serie de clădiri elegante din centrul vechi care au găzduit regalitatea austriacă și elita societății în secolul XIX.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -10684,6 +16312,36 @@ export const romaniaExtraPois: POI[] = [
                   "name": "The Outlaws' Cave",
                   "text": "A natural cave located near the resort, known for its archaeological findings and local legends.",
                   "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "White Cross",
+                  "text": "A white cross on a cliff overlooking the town, accessible via a forest trail, offering the best panoramic views of the area.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Diana Baths",
+                  "text": "Historic thermal baths dating back to the 19th century, known for their neoclassical facade and healing sulfurous waters.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cerna Valley",
+                  "text": "The spectacular river valley surrounding the resort, featuring steep limestone walls and diverse mountain flora and fauna.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hotel Roman",
+                  "text": "A massive hotel built during the communist era directly over the ruins of ancient Roman baths and archaeological mosaics.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Imperial Pavilions",
+                  "text": "A series of elegant 19th-century buildings in the old center that hosted Austrian royalty and elite guests of the era.",
+                  "category": "historical",
                   "confidence": "high"
             }
       ]
@@ -10773,6 +16431,96 @@ export const romaniaExtraPois: POI[] = [
                   "text": "Ein moderner Ausstellungsraum im Zentrum, der Werke lokaler und internationaler Künstler der Gegenwart präsentiert.",
                   "category": "cultural",
                   "confidence": "high"
+            },
+            {
+                  "name": "Gedenkpark der Märtyrer von Arad",
+                  "text": "Ein Park gewidmet den 13 Generälen der ungarischen Revolution von 1848, mit Gedenksteinen und Statuen für die Freiheit.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rathaus von Sfântu Gheorghe",
+                  "text": "Ein beeindruckendes Verwaltungsgebäude im Stadtzentrum, das den architektonischen Stil der Region Szeklerland widerspiegelt.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Haus der Basar",
+                  "text": "Ein historisches Gebäude, das einst als Handelszentrum diente und heute verschiedene kulturelle und kommerzielle Funktionen erfüllt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Heiliger-Georg-Statue",
+                  "text": "Eine monumentale Darstellung des Stadtheiligen beim Drachentöten, gelegen auf dem zentralen Platz vor dem Kulturhaus.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Einheits-Park",
+                  "text": "Ein weitläufiger Stadtpark mit Alleen, Bänken und Denkmälern, der als grüner Treffpunkt für Einwohner und Touristen dient.",
+                  "category": "recreational",
+                  "confidence": "medium"
+            },
+            {
+                  "name": "Kulturzentrum Kónya Ádám",
+                  "text": "Ein aktives Zentrum für Bildung und Kunst, das regelmäßig Ausstellungen, Workshops und lokale Konzerte organisiert.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Reformiertes Kollegium Székely Mikó",
+                  "text": "Eine der prestigeträchtigsten Bildungseinrichtungen in Siebenbürgen mit einer langen Geschichte und beeindruckender Architektur.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Orthodoxe Kathedrale Sfântu Gheorghe",
+                  "text": "Ein bedeutendes religiöses Bauwerk der rumänischen Gemeinschaft in der Stadt, bekannt für seine Wandmalereien und Ikonostase.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Galerie 'Lábas Ház' (Haus auf Beinen)",
+                  "text": "Ein markantes Arkadengebäude aus dem 18. Jahrhundert, das heute Kunstgalerien und kulturgeschichtliche Räume beherbergt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Park der Freiheit",
+                  "text": "Eine Grünanlage, die historische Monumente mit modernen Skulpturen verbindet und zum Entspannen einlädt.",
+                  "category": "recreational",
+                  "confidence": "medium"
+            },
+            {
+                  "name": "Sugalás-Bäder",
+                  "text": "Etwa 8 km von der Stadt entferntes lokales Erholungsgebiet mit Mineralquellen, Wanderwegen und kleinen Skipisten.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Städtische Bibliothek 'Bod Péter'",
+                  "text": "Beherbergt eine wertvolle Sammlung von Büchern und Dokumenten zur Geschichte des Szeklerlandes in einem modernen Gebäude.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lajos-Kossuth-Statue",
+                  "text": "Ein Denkmal zu Ehren des ungarischen Staatsmannes, das an die Ereignisse des Unabhängigkeitskrieges von 1848 erinnert.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bahnhof Sfântu Gheorghe",
+                  "text": "Ein architektonisch interessantes Tor zur Region, das die Stadt mit den wichtigsten Linien Zentralrumäniens verbindet.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Olt-Uferweg",
+                  "text": "Ein Wander- und Radweg entlang des Flusses Olt, der herrliche Ausblicke auf die umliegende Hügellandschaft bietet.",
+                  "category": "natural",
+                  "confidence": "medium"
             }
       ],
       "hu": [
@@ -10805,6 +16553,96 @@ export const romaniaExtraPois: POI[] = [
                   "text": "A kortárs képzőművészet helyi központja, amely kísérleti jellegű kiállításoknak és művészeti projekteknek ad otthont.",
                   "category": "cultural",
                   "confidence": "high"
+            },
+            {
+                  "name": "Aradi vértanúk emlékparkja",
+                  "text": "A szabadságharc tizenhárom tábornokának emlékét őrző park, ahol emlékoszlopok és szobrok emlékeztetnek a hősökre.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Városháza",
+                  "text": "A város központjában álló impozáns épület, amely a helyi közigazgatás központja és építészeti látványosság.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bazárház",
+                  "text": "Történelmi kereskedelmi épület a főtéren, amely ma kulturális és üzleti funkcióknak ad otthont.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sárkányölő Szent György szobor",
+                  "text": "A város védőszentjét ábrázoló monumentális alkotás a kultúrpalota előtti téren, a város egyik jelképe.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Egység park",
+                  "text": "Sepsiszentgyörgy egyik kedvelt zöldövezete sétányokkal és padokkal, ideális hely a kikapcsolódásra.",
+                  "category": "recreational",
+                  "confidence": "medium"
+            },
+            {
+                  "name": "Kónya Ádám Művelődési Ház",
+                  "text": "Számos kulturális programnak, kiállításnak és tanfolyamnak helyet adó intézmény a város szívében.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Székely Mikó Kollégium",
+                  "text": "Erdély egyik leghíresebb tanintézete, amely gazdag történelmi múlttal és lenyűgöző iskolaépülettel rendelkezik.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ortodox Székesegyház",
+                  "text": "A román ortodox közösség vallási központja, díszes falfestményekkel és hagyományos bizánci stílusú építészettel.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lábas Ház",
+                  "text": "18. századi boltíves épület, amely egykor katonai célokat szolgált, ma kiállítótereknek és irodáknak ad helyet.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szabadság tér",
+                  "text": "A város központi tere, ahol a legfontosabb ünnepségeket és rendezvényeket tartják, számos szoborral körülvéve.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sugásfürdő",
+                  "text": "A várostól 8 km-re fekvő üdülőtelep borvízforrásokkal, mofettával és télen sípályákkal várja a látogatókat.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bod Péter Megyei Könyvtár",
+                  "text": "A régió legnagyobb könyvgyűjteménye, modern épületben, amely kulturális találkozóhelyként is funkcionál.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kossuth Lajos szobra",
+                  "text": "Az 1848-as szabadságharc vezéralakjának emlékműve, a helyi közösség szabadságvágyának szimbóluma.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sepsiszentgyörgyi Vasútállomás",
+                  "text": "Jellegzetes Monarchia-kori épület, amely fontos közlekedési csomópont Brassó és Csíkszereda irányába.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Olt-parti sétány",
+                  "text": "A város szélén futó folyóparti szakasz, amely népszerű a kocogók és a természetközeli sétát kedvelők körében.",
+                  "category": "natural",
+                  "confidence": "medium"
             }
       ],
       "ro": [
@@ -10837,6 +16675,96 @@ export const romaniaExtraPois: POI[] = [
                   "text": "Un centru dedicat artei moderne și experimentale, unde sunt expuse lucrări ale artiștilor contemporani locali și străini.",
                   "category": "cultural",
                   "confidence": "high"
+            },
+            {
+                  "name": "Parcul Memorial al Martirilor din Arad",
+                  "text": "Un spațiu dedicat memoriei celor 13 generali pașoptiști, decorat cu busturi și coloane comemorative.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria Municipiului Sfântu Gheorghe",
+                  "text": "Clădire administrativă de patrimoniu situată în centrul civic, reprezentativă pentru arhitectura locală.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Bazar",
+                  "text": "Edificiu istoric cu funcții comerciale în trecut, situat în piața centrală, astăzi punct cultural și comercial.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia Sfântului Gheorghe",
+                  "text": "Monumentul patronului spiritual al orașului, înfățișându-l în lupta cu balaurul, amplasat în fața Teatrului.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Unității",
+                  "text": "Grădină publică centrală ce oferă alei umbroase și zone de relaxare pentru locuitori și turiști.",
+                  "category": "recreational",
+                  "confidence": "medium"
+            },
+            {
+                  "name": "Centrul Cultural Kónya Ádám",
+                  "text": "Instituție care promovează artele plastice și spectacolul, organizând constant expoziții și evenimente locale.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Colegiul Reformat Székely Mikó",
+                  "text": "Una dintre cele mai vechi și respectate unități de învățământ din Transilvania, cu o arhitectură monumentală.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala Ortodoxă Sfântu Gheorghe",
+                  "text": "Principalul lăcaș de cult ortodox din oraș, impresionant prin pictura interioară și stilul bizantin modern.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa cu Arcuri (Lábas Ház)",
+                  "text": "Clădire datând din secolul XVIII, remarcabilă prin parterul cu arcade, gazdă a numeroase expoziții de artă.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Libertății",
+                  "text": "Inima orașului, spațiu pietonal vast care găzduiește principalele festivități și statui istorice.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stațiunea Șugaș Băi",
+                  "text": "Situată la mică distanță de oraș, oferă izvoare de apă minerală, facilități mofetice și pârtii de schi.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biblioteca Județeană 'Bod Péter'",
+                  "text": "Instituție culturală majoră ce deține o vastă colecție de carte veche și documente istorice regionale.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia lui Kossuth Lajos",
+                  "text": "Monument dedicat liderului revoluției maghiare de la 1848, punct de reper în istoria comunității locale.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gara Sfântu Gheorghe",
+                  "text": "Edificiu feroviar cu valoare istorică, reprezentând o poartă importantă de acces către inima Covasnei.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Promenada Oltului",
+                  "text": "Zonă de plimbare de-a lungul râului Olt, ideală pentru activități sportive și relaxare în mijlocul naturii.",
+                  "category": "natural",
+                  "confidence": "medium"
             }
       ],
       "en": [
@@ -10869,6 +16797,96 @@ export const romaniaExtraPois: POI[] = [
                   "text": "A modern gallery dedicated to contemporary art movements, hosting experimental exhibitions and international art projects.",
                   "category": "cultural",
                   "confidence": "high"
+            },
+            {
+                  "name": "Memorial Park of the Martyrs of Arad",
+                  "text": "A commemorative site dedicated to the 13 generals of the 1848 revolution, featuring monuments and statues.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sfântu Gheorghe City Hall",
+                  "text": "An impressive administrative building located in the city center, showcasing regional architectural styles.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bazaar House",
+                  "text": "A historic commercial building in the central square that now serves as a cultural and business hub.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statue of Saint George",
+                  "text": "A monumental statue of the city's patron saint slaying the dragon, located in the central cultural square.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Unity Park",
+                  "text": "A central urban green space with alleys and benches, serving as a popular meeting point for locals.",
+                  "category": "recreational",
+                  "confidence": "medium"
+            },
+            {
+                  "name": "Kónya Ádám Cultural Center",
+                  "text": "A vibrant venue for arts and community events, hosting regular exhibitions and local performances.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Székely Mikó Reformed College",
+                  "text": "One of Transylvania's most prestigious educational institutions with a long history and grand architecture.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sfântu Gheorghe Orthodox Cathedral",
+                  "text": "The main Orthodox religious site in the city, notable for its Byzantine style and beautiful interior icons.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Arched House (Lábas Ház)",
+                  "text": "An 18th-century building with distinctive arcades, currently used for art galleries and cultural offices.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Freedom Square",
+                  "text": "The heart of the city's public life, a spacious pedestrian area surrounded by historic buildings and statues.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Șugaș Băi Resort",
+                  "text": "Located 8 km from the city, it offers mineral water springs, mofettes, and ski slopes during winter.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bod Péter County Library",
+                  "text": "Houses a significant collection of books and historical documents related to the Szeklerland region.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kossuth Lajos Statue",
+                  "text": "A monument honoring the 1848 Hungarian leader, symbolizing the local community's historical struggles.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sfântu Gheorghe Railway Station",
+                  "text": "A historic transit point that connects the city to major routes in Transylvania and beyond.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Olt River Walk",
+                  "text": "A scenic path along the Olt riverbank, popular for cycling and walking in a natural environment.",
+                  "category": "natural",
+                  "confidence": "medium"
             }
       ]
 }
@@ -11171,6 +17189,36 @@ export const romaniaExtraPois: POI[] = [
                   "text": "Ein historisches orthodoxes Kloster, das im 17. Jahrhundert gegründet wurde und als kulturelles Wahrzeichen gilt.",
                   "category": "religious",
                   "confidence": "high"
+            },
+            {
+                  "name": "Episkopale Kathedrale Christi Himmelfahrt",
+                  "text": "Eine imposante moderne Kirche und das geistliche Zentrum des Landkreises Ialomița.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Landkreis-Museum Ialomița",
+                  "text": "Präsentiert archäologische Funde und historische Zeugnisse aus der Region Bărăgan.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kulturzentrum Ionel Perlea",
+                  "text": "Ein wichtiges Gebäude für Kunst und Musik, benannt nach dem berühmten rumänischen Dirigenten.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Denkmal-Park",
+                  "text": "Ein zentraler Park mit Gedenkstätten für die Helden der Weltkriege und Entspannungspfaden.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Matei-Basarab-Statue",
+                  "text": "Ein Denkmal für den walachischen Fürsten, der das örtliche Kloster im 17. Jahrhundert stiftete.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -11184,6 +17232,36 @@ export const romaniaExtraPois: POI[] = [
                   "name": "Szent Fejedelmek kolostor",
                   "text": "A 17. században épült ortodox kolostoregyüttes, Slobozia egyik legrégebbi műemléke.",
                   "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Az Úr Mennybemenetele püspöki székesegyház",
+                  "text": "Modern és monumentális templom, Ialomița megye egyik legfontosabb lelki központja.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ialomița Megyei Múzeum",
+                  "text": "A Bărăgan-síkság történelmét és régészeti leleteit bemutató kulturális intézmény.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ionel Perlea Kulturális Központ",
+                  "text": "A híres román karmesterről elnevezett központ a város művészeti életének motorja.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Emlékmű-park",
+                  "text": "Városi park, amelyben a világháborús hősök emlékművei és pihenőövezetek találhatók.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Matei Basarab szobra",
+                  "text": "A havasalföldi fejedelem szobra, aki a 17. században alapította a közeli kolostort.",
+                  "category": "historical",
                   "confidence": "high"
             }
       ],
@@ -11199,6 +17277,36 @@ export const romaniaExtraPois: POI[] = [
                   "text": "Ctitorie a lui Matei Basarab din secolul al XVII-lea, cel mai important monument istoric din Slobozia.",
                   "category": "religious",
                   "confidence": "high"
+            },
+            {
+                  "name": "Catedrala Episcopală Înălțarea Domnului",
+                  "text": "O construcție religioasă impozantă și modernă, care servește drept centru spiritual al județului.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Județean Ialomița",
+                  "text": "Găzduiește colecții valoroase de arheologie și istorie locală, specifice zonei Bărăganului.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Centrul Cultural Ionel Perlea",
+                  "text": "Instituție dedicată promovării artelor, numită în onoarea renumitului dirijor născut în județ.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Monumentul",
+                  "text": "Parc central amenajat cu monumente închinate eroilor neamului și spații verzi relaxante.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia lui Matei Basarab",
+                  "text": "Monument dedicat domnitorului muntean, ctitorul mănăstirii locale din secolul al XVII-lea.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -11212,6 +17320,36 @@ export const romaniaExtraPois: POI[] = [
                   "name": "Sfinții Voievozi Monastery",
                   "text": "A 17th-century Orthodox monastery founded by Matei Basarab, serving as a spiritual and historic center.",
                   "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ascension of the Lord Episcopal Cathedral",
+                  "text": "A grand and modern religious landmark serving as the spiritual center of Ialomița County.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ialomița County Museum",
+                  "text": "Exhibits significant archaeological finds and historical artifacts from the Bărăgan region.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ionel Perlea Cultural Center",
+                  "text": "A hub for music and arts named after the world-famous Romanian conductor born nearby.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monument Park",
+                  "text": "A central urban park containing war memorials and pleasant walking trails for locals.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Matei Basarab Statue",
+                  "text": "A monument honoring the Wallachian Prince who founded the local monastery in the 1600s.",
+                  "category": "historical",
                   "confidence": "high"
             }
       ]
@@ -11461,6 +17599,66 @@ export const romaniaExtraPois: POI[] = [
                   "text": "Das Viertel bewahrt Gebäude aus dem 19. Jahrhundert und bietet einen Einblick in das traditionelle Stadtbild der Walachei.",
                   "category": "historical",
                   "confidence": "high"
+            },
+            {
+                  "name": "Kulturzentrum Eugen Ionescu",
+                  "text": "Ein modernes Kulturzentrum, das dem berühmten in Slatina geborenen Dramatiker gewidmet ist und Theateraufführungen beherbergt.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jugendpark",
+                  "text": "Die größte Grünanlage der Stadt mit einem See, Spielplätzen und Wanderwegen, ideal für Freizeitaktivitäten.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Einsiedelei Strehareți",
+                  "text": "Ein historisches Kloster aus dem 17. Jahrhundert, das in einem ruhigen Waldgebiet am Rande der Stadt liegt.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dreifaltigkeitskirche",
+                  "text": "Eine imposante orthodoxe Kirche im Stadtzentrum, bekannt für ihre schöne Architektur und religiöse Bedeutung.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Eugen Ionescu Statue",
+                  "text": "Ein Denkmal zu Ehren des Vaters des absurden Theaters, das sich im zentralen Bereich der Stadt befindet.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Villa Alimăneșteanu",
+                  "text": "Ein architektonisches Juwel aus der Zeit vor dem Zweiten Weltkrieg, das einst einer wohlhabenden lokalen Familie gehörte.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Esplanada Slatina",
+                  "text": "Der zentrale Platz und Treffpunkt der Stadt, oft Ort für öffentliche Veranstaltungen und kulturelle Feste.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statue von Nicolae Titulescu",
+                  "text": "Eine Statue des berühmten rumänischen Diplomaten, der eine enge Verbindung zur Region Olt hatte.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Strehareți-Wald",
+                  "text": "Ein weitläufiges Waldgebiet im Norden der Stadt, das als wichtiges Naherholungsgebiet für die Einwohner dient.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rathaus von Slatina",
+                  "text": "Ein repräsentatives Verwaltungsgebäude mit einer Architektur, die den lokalen bürgerlichen Stil widerspiegelt.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -11498,6 +17696,66 @@ export const romaniaExtraPois: POI[] = [
                   "name": "Slatina történelmi központja",
                   "text": "A 19. századi épületeket őrző óvárosi rész, amely megidézi a régi havasalföldi kereskedővárosok hangulatát.",
                   "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Eugen Ionescu Kulturális Központ",
+                  "text": "A Szlatinán született világhírű drámaíróról elnevezett modern kulturális intézmény, színház- és moziteremmel.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ifjúsági park",
+                  "text": "A város legnagyobb pihenőparkja, amely tágas zöldfelületekkel, tóval és sétányokkal várja a látogatókat.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Strehareți remeteség",
+                  "text": "17. századi műemléktemplom és kolostor, amely a várost övező erdős dombok között fekszik csendes környezetben.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szentháromság-templom",
+                  "text": "Központi elhelyezkedésű ortodox templom, amely a város egyik legfontosabb szakrális és építészeti emléke.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Eugen Ionescu szobra",
+                  "text": "Az abszurd színház mesterének állított emlékmű, amely a híres szülött tiszteletére emelkedik a városban.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alimăneșteanu-villa",
+                  "text": "Kiváló állapotban megmaradt polgári villa a két világháború közötti időszakból, különleges homlokzati díszítéssel.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szlatina-eszplanád",
+                  "text": "A város központi sétánya és közösségi tere, ahol a helyi lakosok szívesen töltenek időt a szabadban.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nicolae Titulescu szobra",
+                  "text": "A híres román diplomata és külügyminiszter emlékére emelt szobor, aki az Olt megyei nemességhez tartozott.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Strehareți-erdő",
+                  "text": "A város északi határán fekvő természeti terület, amely kirándulóhelyként és rekreációs zónaként szolgál.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szlatinai városháza",
+                  "text": "A város közigazgatási központja, egy elegáns épület, amely a helyi polgári öntudatot és fejlődést jelképezi.",
+                  "category": "civic",
                   "confidence": "high"
             }
       ],
@@ -11537,6 +17795,66 @@ export const romaniaExtraPois: POI[] = [
                   "text": "Zonă ce păstrează farmecul arhitecturii de final de secol XIX, cu foste case negustorești și prăvălii vechi.",
                   "category": "historical",
                   "confidence": "high"
+            },
+            {
+                  "name": "Centrul Cultural Eugen Ionescu",
+                  "text": "O instituție culturală modernă care găzduiește spectacole de teatru și cinema, purtând numele celebrului dramaturg născut aici.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Tineretului",
+                  "text": "Cel mai mare parc din Slatina, oferind un lac, spații de joacă, zone de fitness și alei pentru promenadă.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schitul Strehareți",
+                  "text": "Un așezământ monahal istoric datând din secolul al XVII-lea, situat într-un cadru natural pitoresc de la marginea orașului.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfânta Treime",
+                  "text": "O biserică ortodoxă impunătoare situată în zona centrală, remarcabilă prin pictura interioară și arhitectura sa.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia lui Eugen Ionescu",
+                  "text": "Monument dedicat părintelui teatrului absurdului, amplasat în zona pietonală a orașului în semn de omagiu.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vila Alimăneșteanu",
+                  "text": "O clădire de patrimoniu construită în stil eclectic, reprezentativă pentru arhitectura rezidențială de lux a începutului de secol XX.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Esplanada Slatina",
+                  "text": "Piața centrală a orașului, un loc popular de întâlnire dotat cu fântâni arteziene și spații pentru evenimente publice.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia lui Nicolae Titulescu",
+                  "text": "Bust ridicat în onoarea marelui diplomat român, care a avut rădăcini adânci în județul Olt și a vizitat des orașul.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pădurea Strehareți",
+                  "text": "O oază de verdeață situată în nordul Slatinei, ideală pentru ieșiri în aer liber, picnicuri și activități sportive.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria Municipiului Slatina",
+                  "text": "Sediul administrației locale, găzduit într-o clădire cu o arhitectură sobră și elegantă, specifică stilului administrativ românesc.",
+                  "category": "civic",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -11574,6 +17892,66 @@ export const romaniaExtraPois: POI[] = [
                   "name": "Slatina Historical Center",
                   "text": "An area preserving 19th-century merchant houses and traditional architecture typical of southern Romania.",
                   "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Eugen Ionescu Cultural Center",
+                  "text": "A modern cultural venue dedicated to the world-famous playwright born in Slatina, hosting plays and screenings.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Youth Park",
+                  "text": "The city's largest green space, featuring a lake, recreational areas, and walking trails for all ages.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Strehareți Hermitage",
+                  "text": "A historic monastery dating back to the 17th century, nestled in a quiet forested area on the outskirts of the city.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Holy Trinity Church",
+                  "text": "A prominent Orthodox church in the city center, known for its traditional architecture and religious importance.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Eugen Ionescu Statue",
+                  "text": "A monument honoring the father of the Theatre of the Absurd, located in a central pedestrian zone.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vila Alimăneșteanu",
+                  "text": "An architectural gem from the early 20th century, showcasing the elegant residential style of Slatina's past elite.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Slatina Esplanade",
+                  "text": "The central urban plaza of the city, acting as a social hub and a site for major public festivals.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statue of Nicolae Titulescu",
+                  "text": "A monument dedicated to the renowned Romanian diplomat who had strong family ties to the Olt region.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Strehareți Forest",
+                  "text": "A large natural woodland in the northern part of town, popular among locals for weekend nature walks.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Slatina Town Hall",
+                  "text": "The administrative heart of the city, housed in an elegant building that reflects local civic architectural pride.",
+                  "category": "civic",
                   "confidence": "high"
             }
       ]
@@ -11661,6 +18039,96 @@ export const romaniaExtraPois: POI[] = [
                   "text": "Ein gepflegter Park im Herzen der Stadt, der Erholungsbereiche, Brunnen und Denkmäler für einen angenehmen Aufenthalt bietet.",
                   "category": "recreational",
                   "confidence": "high"
+            },
+            {
+                  "name": "Kunstgalerie Ioan Sima",
+                  "text": "Die Galerie befindet sich in einem Gebäude aus dem 19. Jahrhundert und beherbergt eine bedeutende Sammlung von Werken des Malers Ioan Sima.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Transilvania-Gebäude",
+                  "text": "Dieses markante historische Gebäude diente früher als Hotel und Theater und ist heute ein Wahrzeichen der Stadtarchitektur.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mariä-Entschlafens-Kathedrale",
+                  "text": "Die imposante orthodoxe Kathedrale im Stadtzentrum beeindruckt durch ihre neobyzantinische Architektur und prachtvolle Innenausstattung.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Römisch-katholische Ladislauskirche",
+                  "text": "Ein neobarockes Bauwerk aus dem späten 19. Jahrhundert, das die religiöse Vielfalt und Geschichte der Stadt Zalău widerspiegelt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Verwaltungspalast (Präfektur)",
+                  "text": "Ein majestätisches Gebäude im eklektischen Stil, das heute den Sitz der lokalen Verwaltung beherbergt und den Hauptplatz dominiert.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Silvania-Nationalkolleg",
+                  "text": "Eines der ältesten Gymnasien Siebenbürgens, untergebracht in einem monumentalen Gebäude, in dem auch der Dichter Ady Endre lernte.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Simion-Bărnuțiu-Statue",
+                  "text": "Ein Denkmal für den Ideologen der rumänischen Revolution von 1848, das an den Kampf für nationale Rechte erinnert.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Corneliu-Coposu-Büste",
+                  "text": "Eine Skulptur zu Ehren des berühmten Politikers und Widerstandskämpfers gegen den Kommunismus, der in der Region geboren wurde.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Engelsbrunnen",
+                  "text": "Ein charmanter Marmorbrunnen im historischen Zentrum, der bei Einheimischen und Touristen als Treffpunkt beliebt ist.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Heilige-Dreifaltigkeits-Kirche",
+                  "text": "Eine wunderschöne orthodoxe Kirche mit feinen Details, die einen ruhigen Rückzugsort unweit des geschäftigen Zentrums bietet.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tineretului-Park",
+                  "text": "Eine moderne Grünanlage mit Spielplätzen und Spazierwegen, die ideal für Freizeitaktivitäten und Entspannung im Freien ist.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kapitolinische Wölfin",
+                  "text": "Eine Replik der berühmten römischen Statue, die die lateinische Herkunft des rumänischen Volkes symbolisiert.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kulturhaus der Gewerkschaften",
+                  "text": "Ein monumentales Gebäude der sozialistischen Moderne, das heute für Konzerte, Theateraufführungen und Konferenzen genutzt wird.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zalău-Stadion (Municipal)",
+                  "text": "Das Hauptsportstadion der Stadt, in dem Fußballspiele und lokale Leichtathletik-Wettbewerbe stattfinden.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Iuliu-Maniu-Büste",
+                  "text": "Ein Denkmal für den großen Staatsmann und Führer der Bauernpartei, eine Schlüsselfigur in der modernen rumänischen Geschichte.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -11692,6 +18160,96 @@ export const romaniaExtraPois: POI[] = [
                   "name": "Zilahi Városliget",
                   "text": "A város szívében fekvő gondozott park, amely pihenőhelyeket, szökőkutakat és emlékműveket kínál a látogatóknak.",
                   "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ioan Sima Művészeti Galéria",
+                  "text": "A 19. századi épületben berendezett galéria Ioan Sima neves festőművész hagyatékát és kortárs alkotásokat mutat be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Erdély-épület (Clădirea Transilvania)",
+                  "text": "Zilah egyik legszebb műemlék épülete, amely korábban Vigadóként és színházként működött, ma kulturális központ.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szűz Mária elszenderülése székesegyház",
+                  "text": "A városközpontban álló hatalmas ortodox templom, amely neobizánci stílusával és gazdag belső díszítésével hívja fel magára a figyelmet.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent László római katolikus templom",
+                  "text": "A 19. század végén emelt neobarokk stílusú templom a város katolikus közösségének fontos hitéleti központja.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Közigazgatási Palota (Prefektúra)",
+                  "text": "Eklektikus stílusú impozáns palota a város főterén, amely a megyei közigazgatás székhelyeként szolgál.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Silvania Főgimnázium",
+                  "text": "Erdély egyik nagy múltú iskolája, ahol Ady Endre is tanult; az épület monumentális homlokzata meghatározza a városképet.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Simion Bărnuțiu-szobor",
+                  "text": "Az 1848-as forradalom román ideológusának emlékműve, aki a nemzeti jogokért folytatott küzdelem jelképe.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Corneliu Coposu mellszobra",
+                  "text": "A neves politikus és antikommunista ellenálló emlékműve, aki a közelmúlt román történelmének meghatározó alakja volt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Angyalos kút",
+                  "text": "Díszes márványkút a történelmi belvárosban, amely a helyiek kedvelt találkozóhelye és a város egyik jelképe.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szentháromság-templom",
+                  "text": "Elegáns ortodox templom, amely finom építészeti részleteivel és nyugodt környezetével emelkedik ki a belvárosban.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ifjúsági park (Parcul Tineretului)",
+                  "text": "Kiterjedt zöldövezet játszóterekkel és sétányokkal, ideális helyszín a családok számára a szabadidő eltöltésére.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lupa Capitoliu (Anyafarkas szobor)",
+                  "text": "A híres római szobor másolata, amely a román nép latin eredetét és történelmi gyökereit szimbolizálja.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szakszervezetek Művelődési Háza",
+                  "text": "A szocialista modernizmus stílusában épült kulturális központ, amely koncerteknek és színházi előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zilah Városi Stadion",
+                  "text": "A város legfontosabb sportlétesítménye, labdarúgó-mérkőzések és atlétikai versenyek rendszeres helyszíne.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Iuliu Maniu mellszobra",
+                  "text": "A nagy erdélyi román államférfi emlékműve, aki jelentős szerepet játszott az 1918-as egyesülésben és a demokrácia védelmében.",
+                  "category": "historical",
                   "confidence": "high"
             }
       ],
@@ -11725,6 +18283,96 @@ export const romaniaExtraPois: POI[] = [
                   "text": "Un parc bine întreținut în inima orașului, oferind zone de recreere, fântâni și monumente pentru o experiență plăcută.",
                   "category": "recreational",
                   "confidence": "high"
+            },
+            {
+                  "name": "Galeria de Artă Ioan Sima",
+                  "text": "Găzduită într-o clădire de secol XIX, galeria expune lucrări de o mare valoare semnate de pictorul Ioan Sima, fiu al acestor meleaguri.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Clădirea Transilvania",
+                  "text": "O bijuterie arhitecturală a orașului, fosta clădire a hotelului și cazinoului, astăzi centru de evenimente culturale de importanță locală.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala Adormirea Maicii Domnului",
+                  "text": "Cunoscută și sub numele de Catedrala Episcopală, această construcție monumentală domină centrul prin stilul său neobizantin impunător.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Romano-Catolică Sfântul Ladislau",
+                  "text": "Edificiu neobaroc ridicat la sfârșitul secolului al XIX-lea, martor al multiculturalității și istoriei religioase a orașului Zalău.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Administrativ",
+                  "text": "Sediul Prefecturii județului Sălaj, o clădire cu o arhitectură eclectică sobră ce închide latura estică a pieței centrale.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Colegiul Național Silvania",
+                  "text": "Instituție de învățământ cu o tradiție de sute de ani, funcționând într-o clădire monumentală de patrimoniu, simbol al educației locale.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia lui Simion Bărnuțiu",
+                  "text": "Monument dedicat marelui ideolog al Revoluției de la 1848 din Transilvania, figură centrală a mișcării naționale românești.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bustul lui Corneliu Coposu",
+                  "text": "Sculptură închinată 'Seniorului' politicii românești, lider al rezistenței anticomuniste, care a studiat și a activat în județul Sălaj.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fântâna cu Îngerași",
+                  "text": "Fântână decorativă din marmură albă situată în zona pietonală centrală, fiind unul dintre locurile preferate de întâlnire ale localnicilor.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfânta Treime",
+                  "text": "Lăcaș de cult ortodox remarcabil prin finețea detaliilor arhitecturale, oferind o oază de spiritualitate în apropierea arterelor principale.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Tineretului",
+                  "text": "Zonă de agrement extinsă ce oferă spații verzi amenajate, terenuri de sport și alei pentru promenadă, destinată relaxării cetățenilor.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia Lupa Capitoliu",
+                  "text": "Simbol al latinității și rădăcinilor romane ale poporului român, această replică a celebrei statui din Roma înfrumusețează centrul urbei.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa de Cultură a Sindicatelor",
+                  "text": "Clădire reprezentativă pentru perioada comunistă, cu o sală de spectacole generoasă ce găzduiește periodic concerte și piese de teatru.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stadionul Municipal",
+                  "text": "Principala bază sportivă a Zalăului, locul unde se desfășoară meciurile de fotbal ale echipei locale și diverse competiții atletice.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bustul lui Iuliu Maniu",
+                  "text": "Monument dedicat omului de stat Iuliu Maniu, personalitate crucială a Marii Uniri și lider al democrației interbelice.",
+                  "category": "historical",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -11756,6 +18404,96 @@ export const romaniaExtraPois: POI[] = [
                   "name": "Zalău Central Park",
                   "text": "A well-maintained park in the heart of the city, offering recreation areas, fountains, and monuments for a pleasant stay.",
                   "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ioan Sima Art Gallery",
+                  "text": "Housed in a charming 19th-century building, this gallery features an impressive collection of paintings by the local master Ioan Sima.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Transilvania Building",
+                  "text": "A stunning historical landmark that formerly served as a theater and grand hotel, showcasing the city's rich architectural heritage.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Assumption of the Virgin Cathedral",
+                  "text": "An imposing Orthodox cathedral in the city center, known for its grand Neo-Byzantine style and ornate interior decorations.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint Ladislaus Roman Catholic Church",
+                  "text": "A neoclassical and baroque style church built in the late 19th century, serving as a center for the local Catholic community.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Administrative Palace",
+                  "text": "A majestic eclectic-style building that serves as the seat of local government and dominates the main central square.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Silvania National College",
+                  "text": "A prestigious high school with deep historical roots; the poet Ady Endre studied here in its monumental main building.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Simion Bărnuțiu Statue",
+                  "text": "A monument dedicated to the Romanian philosopher and 1848 revolutionary leader, a symbol of the fight for national rights.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Corneliu Coposu Bust",
+                  "text": "A statue honoring the famous anti-communist leader and politician who was a prominent figure in modern Romanian political life.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Angels Fountain",
+                  "text": "A beautiful white marble fountain in the pedestrian zone, acting as a popular meeting spot and a decorative focal point.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Holy Trinity Church",
+                  "text": "A refined Orthodox church located near the center, offering a peaceful space with traditional religious art and architecture.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tineretului Park",
+                  "text": "A modern public park featuring green spaces, playgrounds, and walking paths, ideal for leisure and outdoor activities.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Capitoline Wolf Statue",
+                  "text": "A replica of the iconic Roman sculpture, representing the Latin origins and historical heritage of the Romanian people.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cultural Center of Trade Unions",
+                  "text": "A large socialist-modernist building that hosts concerts, theatrical performances, and major community events.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Municipal Stadium",
+                  "text": "The city's main sports venue, used for local football matches and various regional athletic competitions.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Iuliu Maniu Bust",
+                  "text": "A monument dedicated to the great statesman Iuliu Maniu, a hero of the Great Union and a guardian of democratic values.",
+                  "category": "historical",
                   "confidence": "high"
             }
       ]
@@ -11902,6 +18640,36 @@ export const romaniaExtraPois: POI[] = [
                   "text": "Ein lokales Museum, das archäologische Funde und ethnographische Objekte aus der Region Teleorman ausstellt.",
                   "category": "cultural",
                   "confidence": "high"
+            },
+            {
+                  "name": "Vedea-Park",
+                  "text": "Die größte Grünfläche der Stadt am Fluss Vedea, ideal für Erholung und Spaziergänge.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kirche der Heiligen Apostel Petrus und Paulus",
+                  "text": "Ein historisches religiöses Gebäude mit traditioneller rumänisch-orthodoxer Architektur.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rathaus von Alexandria",
+                  "text": "Ein elegantes Verwaltungsgebäude im Zentrum, das den lokalen architektonischen Stil repräsentiert.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alexandru-Ghica-Statue",
+                  "text": "Ein Denkmal zu Ehren des Gründers der Stadt, Prinz Alexandru Dimitrie Ghica.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kirche St. Nikolaus",
+                  "text": "Eine weitere bedeutende orthodoxe Kirche der Stadt mit kunstvollen Wandmalereien.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -11915,6 +18683,36 @@ export const romaniaExtraPois: POI[] = [
                   "name": "Teleorman Megyei Múzeum",
                   "text": "A régió történelmét, néprajzát és régészeti emlékeit bemutató kulturális intézmény Alexandriában.",
                   "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vedea park",
+                  "text": "A város legnagyobb zöldövezete a Vedea folyó partján, kedvelt pihenőhely a helyiek számára.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Péter és Pál apostolok temploma",
+                  "text": "Hagyományos román ortodox építészeti stílusban épült jelentős vallási helyszín.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alexandriai Városháza",
+                  "text": "Elegáns közigazgatási épület a belvárosban, a település egyik építészeti büszkesége.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alexandru Ghica szobra",
+                  "text": "A város alapítójának, Alexandru Dimitrie Ghica fejedelemnek emléket állító szobor.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Miklós-templom",
+                  "text": "A város egyik fontos ortodox hitéleti központja, díszes belső festéssel.",
+                  "category": "religious",
                   "confidence": "high"
             }
       ],
@@ -11930,6 +18728,36 @@ export const romaniaExtraPois: POI[] = [
                   "text": "Instituție de cultură ce găzduiește colecții valoroase de arheologie, istorie și etnografie locală.",
                   "category": "cultural",
                   "confidence": "high"
+            },
+            {
+                  "name": "Parcul Vedea",
+                  "text": "Principala zonă verde a municipiului, situată pe malul râului Vedea, oferind spații vaste de relaxare.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfinții Apostoli Petru și Pavel",
+                  "text": "Monument religios important, remarcabil prin arhitectura sa ortodoxă tradițională și vechime.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria Alexandria",
+                  "text": "Clădire administrativă elegantă situată în zona centrală, reprezentativă pentru patrimoniul local.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia lui Alexandru Ghica",
+                  "text": "Monument ridicat în cinstea domnitorului Alexandru Dimitrie Ghica, fondatorul orașului.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfântul Nicolae",
+                  "text": "Lăcaș de cult ortodox reprezentativ pentru oraș, cunoscut pentru pictura sa interioară.",
+                  "category": "religious",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -11943,6 +18771,36 @@ export const romaniaExtraPois: POI[] = [
                   "name": "Teleorman County Museum",
                   "text": "A museum displaying archaeological, historical, and ethnographic exhibits from the Teleorman region.",
                   "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vedea Park",
+                  "text": "The city's primary green space, located along the Vedea riverbank, ideal for outdoor activities.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Peter and Paul Apostles Church",
+                  "text": "A significant religious site featuring traditional Romanian Orthodox architectural elements.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alexandria City Hall",
+                  "text": "An elegant administrative building in the town center, a fine example of local civic architecture.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alexandru Ghica Statue",
+                  "text": "A public statue honoring Prince Alexandru Dimitrie Ghica, the founder of the city.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Nicholas Church",
+                  "text": "A notable Orthodox place of worship in Alexandria, known for its spiritual importance.",
+                  "category": "religious",
                   "confidence": "high"
             }
       ]
@@ -12155,6 +19013,54 @@ export const romaniaExtraPois: POI[] = [
                   "text": "Das Museum bietet faszinierende Einblicke in die Flora und Fauna der Region Vrancea sowie geologische Exponate der Karpaten.",
                   "category": "natural",
                   "confidence": "high"
+            },
+            {
+                  "name": "Kirche des Heiligen Johannes des Täufers",
+                  "text": "Ehemalige Klosterkirche aus dem 17. Jahrhundert, die einst die Grenze zwischen der Moldau und der Walachei markierte.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Landkreisbibliothek Duiliu Zamfirescu",
+                  "text": "Ein architektonisches Denkmal im eklektischen Stil, benannt nach dem berühmten rumänischen Schriftsteller aus Vrancea.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Präfekturpalast Vrancea",
+                  "text": "Ein imposantes Gebäude im neorumänischen Stil, entworfen vom Architekten Ion Mincu, dem Begründer dieser Stilrichtung.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vrancea-Ethnographenmuseum",
+                  "text": "Dieses im Crângul Petrești gelegene Freilichtmuseum zeigt traditionelle Bauernhäuser und Handwerkstechniken der Region.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Balada-Kulturhaus",
+                  "text": "Ein zentraler Veranstaltungsort für Konzerte und Folkloreaufführungen, Sitz des berühmten Ensembles Tara Vrancei.",
+                  "category": "cultural",
+                  "confidence": "medium"
+            },
+            {
+                  "name": "St.-Nikolaus-Kirche Stamatinești",
+                  "text": "Eine historische Kirche aus dem 18. Jahrhundert mit wertvollen Wandmalereien und einer bedeutenden religiösen Geschichte.",
+                  "category": "religious",
+                  "confidence": "medium"
+            },
+            {
+                  "name": "Gedenkhaus Moș Ion Roată",
+                  "text": "Gewidmet dem Bauern, der eine Schlüsselrolle bei der Vereinigung der rumänischen Fürstentümer im Jahr 1859 spielte.",
+                  "category": "historical",
+                  "confidence": "medium"
+            },
+            {
+                  "name": "Bahnhof Focșani",
+                  "text": "Ein wichtiges Verkehrskreuz im Osten Rumäniens mit einer charakteristischen Architektur aus der Mitte des 20. Jahrhunderts.",
+                  "category": "station",
+                  "confidence": "high"
             }
       ],
       "hu": [
@@ -12174,6 +19080,54 @@ export const romaniaExtraPois: POI[] = [
                   "name": "Egyesülési Obeliszk",
                   "text": "A város főterén álló monumentális alkotás, amely a román fejedelemségek testvériségét és politikai egységét jelképezi.",
                   "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Keresztelő Szent János-templom",
+                  "text": "17. századi egykori kolostortemplom, amely korábban a Moldva és Havasalföld közötti határvonalat jelölte.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vrancea Megyei Prefektúra Palotája",
+                  "text": "Ion Mincu építész által tervezett neoromán stílusú monumentális épület, a város egyik jelképe.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Duiliu Zamfirescu Megyei Könyvtár",
+                  "text": "Eklektikus stílusú műemlék épület, amely a neves helyi író nevét viseli és gazdag gyűjteménnyel rendelkezik.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vranceai Néprajzi Múzeum",
+                  "text": "A Petrești-erdőben található skanzen, amely a régió hagyományos népi építészetét és eszközeit mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Balada Művelődési Ház",
+                  "text": "A város kulturális életének központja, ahol népzenei előadásokat és fesztiválokat rendeznek.",
+                  "category": "cultural",
+                  "confidence": "medium"
+            },
+            {
+                  "name": "Stamatinești Szent Miklós-templom",
+                  "text": "18. századi ortodox templom, amely építészeti részleteiről és vallástörténeti jelentőségéről ismert.",
+                  "category": "religious",
+                  "confidence": "medium"
+            },
+            {
+                  "name": "Moș Ion Roată Emlékház",
+                  "text": "Az 1859-es román egyesülésben fontos szerepet játszó parasztküldött tiszteletére berendezett emlékmúzeum.",
+                  "category": "historical",
+                  "confidence": "medium"
+            },
+            {
+                  "name": "Foksányi Vasútállomás",
+                  "text": "Fontos vasúti csomópont és építészeti emlék, amely összeköti a régiót az ország főbb vonalaival.",
+                  "category": "station",
                   "confidence": "high"
             }
       ],
@@ -12201,6 +19155,54 @@ export const romaniaExtraPois: POI[] = [
                   "text": "Expoziția prezintă biodiversitatea județului Vrancea, incluzând diorame cu specii locale și colecții bogate de mineralogie.",
                   "category": "natural",
                   "confidence": "high"
+            },
+            {
+                  "name": "Biserica Nașterea Sfântului Ioan Botezătorul",
+                  "text": "Fostă biserică de mănăstire ridicată în secolul al XVII-lea, situată chiar pe vechiul hotar dintre Moldova și Muntenia.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Prefecturii Vrancea",
+                  "text": "Clădire monumentală construită în stil neoromânesc după planurile celebrului arhitect Ion Mincu.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biblioteca Județeană Duiliu Zamfirescu",
+                  "text": "Monument de arhitectură eclectică ce găzduiește o vastă colecție de carte și poartă numele scriitorului vrâncean.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Secția de Etnografie Crângul Petrești",
+                  "text": "Muzeu în aer liber ce reconstituie satul vrâncean tradițional prin gospodării, ateliere și obiecte de patrimoniu.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa de Cultură Balada",
+                  "text": "Instituție culturală de prestigiu, gazdă a Ansamblului Folcloric Țara Vrancei și a numeroase evenimente artistice.",
+                  "category": "cultural",
+                  "confidence": "medium"
+            },
+            {
+                  "name": "Biserica Sfântul Nicolae Stamatinești",
+                  "text": "Lăcaș de cult istoric datând din secolul al XVIII-lea, reprezentativ pentru arhitectura religioasă a zonei.",
+                  "category": "religious",
+                  "confidence": "medium"
+            },
+            {
+                  "name": "Casa Memorială Moș Ion Roată",
+                  "text": "Muzeu dedicat legendarului țăran vrâncean care a susținut Unirea Principatelor alături de Alexandru Ioan Cuza.",
+                  "category": "historical",
+                  "confidence": "medium"
+            },
+            {
+                  "name": "Gara Focșani",
+                  "text": "Edificiu important pentru transportul feroviar din estul țării, remarcându-se prin dimensiunile și stilul său.",
+                  "category": "station",
+                  "confidence": "high"
             }
       ],
       "en": [
@@ -12226,6 +19228,54 @@ export const romaniaExtraPois: POI[] = [
                   "name": "Vrancea Natural Science Museum",
                   "text": "A museum dedicated to the diverse wildlife and ecosystems of the Vrancea region, featuring educational displays and local specimens.",
                   "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. John the Baptist Church",
+                  "text": "A 17th-century former monastery church that once stood exactly on the border between Moldavia and Wallachia.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vrancea Prefecture Palace",
+                  "text": "An architectural landmark built in the Neo-Romanian style, designed by the famous architect Ion Mincu.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Duiliu Zamfirescu County Library",
+                  "text": "A beautiful eclectic building housing the regional library, named after a prominent local writer.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Crângul Petrești Ethnography Museum",
+                  "text": "An open-air museum showcasing traditional rural architecture and peasant life from the Vrancea region.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Balada Cultural House",
+                  "text": "A center for cultural activities and folklore performances, home to the Țara Vrancei Ensemble.",
+                  "category": "cultural",
+                  "confidence": "medium"
+            },
+            {
+                  "name": "St. Nicholas Stamatinești Church",
+                  "text": "An 18th-century Orthodox church known for its historical value and traditional religious architecture.",
+                  "category": "religious",
+                  "confidence": "medium"
+            },
+            {
+                  "name": "Moș Ion Roată Memorial House",
+                  "text": "Dedicated to the iconic peasant who advocated for the 1859 Union of the Romanian Principalities.",
+                  "category": "historical",
+                  "confidence": "medium"
+            },
+            {
+                  "name": "Focșani Railway Station",
+                  "text": "A key transportation hub in eastern Romania with a significant mid-20th-century architectural presence.",
+                  "category": "station",
                   "confidence": "high"
             }
       ]
