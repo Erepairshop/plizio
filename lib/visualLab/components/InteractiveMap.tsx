@@ -567,17 +567,21 @@ const InteractiveMapInner = ({
 
   // ---- Search results ------------------------------------------------------
   const searchResults = useMemo(() => {
-    const q = searchQuery.trim().toLowerCase();
-    if (!q) return [];
+    const raw = searchQuery.trim().toLowerCase();
+    if (!raw) return [];
+    // Diacritic-folded query: "bucuresti" matches "București", "iasi" matches "Iași".
+    const norm = (s: string) => s.normalize("NFKD").replace(/[̀-ͯ]/g, "").toLowerCase();
+    const q = norm(raw);
     return pois
       .filter((p) => p.type !== "region" && (
-        p.name.de?.toLowerCase().includes(q) ||
-        p.name.hu?.toLowerCase().includes(q) ||
-        p.name.ro?.toLowerCase().includes(q) ||
-        p.name.en?.toLowerCase().includes(q)
+        norm(p.id || "").includes(q) ||
+        norm(p.name.de || "").includes(q) ||
+        norm(p.name.hu || "").includes(q) ||
+        norm(p.name.ro || "").includes(q) ||
+        norm(p.name.en || "").includes(q)
       ))
       .slice(0, 8);
-  }, [searchQuery]);
+  }, [searchQuery, pois]);
 
   // Close dropdown on outside click
   useEffect(() => {
