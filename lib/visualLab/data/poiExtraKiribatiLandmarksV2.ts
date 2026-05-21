@@ -3,6 +3,7 @@ export const kiribatiLandmarksV2: POI[] = [
 
   {
     id: "kiribati-parliament-building-landmarks-v2",
+    parent: "KI",
     type: "landmark",
     name: { de: "Maneaba ni Maungatabu", hu: "Maneaba ni Maungatabu", ro: "Maneaba ni Maungatabu", en: "Maneaba ni Maungatabu" },
     coords: [173.042, 1.332],
@@ -35,6 +36,7 @@ export const kiribatiLandmarksV2: POI[] = [
   },
   {
     id: "kiribati-betio-defense-guns-landmarks-v2",
+    parent: "KI",
     type: "monument",
     name: { de: "Küstenschutzgeschütze von Betio", hu: "Betiói partvédelmi ágyúk", ro: "Tunurile de coastă din Betio", en: "Betio Coast Defense Guns" },
     coords: [172.93, 1.358],
@@ -67,6 +69,7 @@ export const kiribatiLandmarksV2: POI[] = [
   },
   {
     id: "kiribati-betio-japanese-bunker-landmarks-v2",
+    parent: "KI",
     type: "ruins",
     name: { de: "Japanischer Kommandobunker", hu: "Japán parancsnoki bunker", ro: "Buncărul de comandă japonez", en: "Japanese Command Bunker" },
     coords: [172.932, 1.357],
@@ -99,6 +102,7 @@ export const kiribatiLandmarksV2: POI[] = [
   },
   {
     id: "kiribati-us-marine-memorial-landmarks-v2",
+    parent: "KI",
     type: "monument",
     name: { de: "US-Marine-Denkmal", hu: "Amerikai tengerészgyalogos emlékmű", ro: "Monumentul Pușcașilor Marini SUA", en: "U.S. Marine Memorial" },
     coords: [172.934, 1.356],
@@ -131,6 +135,7 @@ export const kiribatiLandmarksV2: POI[] = [
   },
   {
     id: "kiribati-national-library-archives-landmarks-v2",
+    parent: "KI",
     type: "museum",
     name: { de: "Nationalbibliothek und Archiv", hu: "Nemzeti Könyvtár és Archívum", ro: "Biblioteca și Arhivele Naționale", en: "National Library and Archives" },
     coords: [172.978, 1.329],
@@ -163,6 +168,7 @@ export const kiribatiLandmarksV2: POI[] = [
   },
   {
     id: "kiribati-bairiki-national-stadium-landmarks-v2",
+    parent: "KI",
     type: "landmark",
     name: { de: "Nationalstadion von Bairiki", hu: "Bairiki Nemzeti Stadion", ro: "Stadionul Național din Bairiki", en: "Bairiki National Stadium" },
     coords: [172.977, 1.328],
@@ -195,6 +201,7 @@ export const kiribatiLandmarksV2: POI[] = [
   },
   {
     id: "kiribati-captain-cook-monument-landmarks-v2",
+    parent: "KI",
     type: "monument",
     name: { de: "Captain Cook Denkmal", hu: "Cook kapitány emlékműve", ro: "Monumentul Căpitanului Cook", en: "Captain Cook's Monument" },
     coords: [-157.35, 1.86],
@@ -227,6 +234,7 @@ export const kiribatiLandmarksV2: POI[] = [
   },
   {
     id: "kiribati-london-settlement-kiritimati-landmarks-v2",
+    parent: "KI",
     type: "landmark",
     name: { de: "Siedlung London", hu: "London település", ro: "Așezarea London", en: "London Settlement" },
     coords: [-157.47, 1.98],
@@ -259,6 +267,7 @@ export const kiribatiLandmarksV2: POI[] = [
   },
   {
     id: "kiribati-st-stanislaus-church-poland-landmarks-v2",
+    parent: "KI",
     type: "church",
     name: { de: "St. Stanislaus Kirche", hu: "Szent Szaniszló-templom", ro: "Biserica Sfântul Stanislau", en: "St. Stanislaus Kostka Church" },
     coords: [-157.55, 1.86],
@@ -291,6 +300,7 @@ export const kiribatiLandmarksV2: POI[] = [
   },
   {
     id: "kiribati-british-residency-banaba-landmarks-v2",
+    parent: "KI",
     type: "ruins",
     name: { de: "Ruinen der britischen Residenz", hu: "Brit rezidencia romjai", ro: "Ruinele reședinței britanice", en: "British Residency Ruins" },
     coords: [169.53, -0.85],
@@ -323,6 +333,7 @@ export const kiribatiLandmarksV2: POI[] = [
   },
   {
     id: "kiribati-phosphate-mining-ruins-landmarks-v2",
+    parent: "KI",
     type: "industry",
     name: { de: "Überreste des Phosphatbergbaus", hu: "Foszfátbányászat maradványai", ro: "Ruinele exploatării de fosfați", en: "Phosphate Mining Ruins" },
     coords: [169.54, -0.86],
@@ -355,6 +366,7 @@ export const kiribatiLandmarksV2: POI[] = [
   },
   {
     id: "kiribati-bonriki-airport-terminal-landmarks-v2",
+    parent: "KI",
     type: "landmark",
     name: { de: "Terminal des Flughafens Bonriki", hu: "Bonriki repülőtér terminál", ro: "Terminalul Aeroportului Bonriki", en: "Bonriki Airport Terminal" },
     coords: [173.15, 1.38],
@@ -387,6 +399,7 @@ export const kiribatiLandmarksV2: POI[] = [
   },
   {
     id: "kiribati-australian-war-memorial-landmarks-v2",
+    parent: "KI",
     type: "monument",
     name: { de: "Australisches Kriegerdenkmal", hu: "Ausztrál háborús emlékmű", ro: "Monumentul de Război Australian", en: "Australian War Memorial" },
     coords: [172.933, 1.355],

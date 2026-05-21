@@ -3,6 +3,7 @@ import type { POI } from "./poi";
 
 export const bosniaCountry: POI = {
   id: "bosnia",
+  parent: "BA",
   type: "country",
   name: { de: "Bosnien und Herzegowina", hu: "Bosznia-Hercegovina", ro: "Bosnia și Herțegovina", en: "Bosnia and Herzegovina" },
   description: {

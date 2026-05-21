@@ -63,6 +63,10 @@ ${flatten.join("\n")}
 // + sights heavily + image + factsAdvanced + faq). 119K entries → ~44K unique.
 function _richness(p: any): number {
   let n = 0;
+  // Heavy weight on parent — a POI WITH parent gets indexed and rendered as
+  // HTML; without it the build filters it out. Always prefer parent-having copy.
+  if (p?.parent) n += 10000;
+  if (p?.coords) n += 100;
   for (const L of ["de","hu","ro","en"]) {
     n += (p?.description?.[L]?.length || 0);
     n += (p?.descriptionAdvanced?.[L]?.length || 0);

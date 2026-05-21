@@ -3,6 +3,7 @@ export const mauritaniaReliefV2: POI[] = [
 
   {
     id: "mauritania-kedia-idjil-relief-v2",
+    parent: "MR",
     type: "peak",
     name: { de: "Kedia d'Idjil", hu: "Kedia d'Idjil", ro: "Kedia d'Idjil", en: "Kedia d'Idjil" },
     coords: [-12.63, 22.68],
@@ -35,6 +36,7 @@ export const mauritaniaReliefV2: POI[] = [
   },
   {
     id: "mauritania-baba-mountain-relief-v2",
+    parent: "MR",
     type: "mountain",
     name: { de: "Baba-Gebirge", hu: "Baba-hegység", ro: "Munții Baba", en: "Baba Mountains" },
     coords: [-10.5, 16.5],
@@ -67,6 +69,7 @@ export const mauritaniaReliefV2: POI[] = [
   },
   {
     id: "mauritania-dhar-tichitt-relief-v2",
+    parent: "MR",
     type: "mountain",
     name: { de: "Dhar Tichitt", hu: "Dhar Tichitt", ro: "Dhar Tichitt", en: "Dhar Tichitt" },
     coords: [-9.5, 18.4],
@@ -99,6 +102,7 @@ export const mauritaniaReliefV2: POI[] = [
   },
   {
     id: "mauritania-guelta-d-archei-relief-v2",
+    parent: "MR",
     type: "valley",
     name: { de: "Guelta d'Archei", hu: "Guelta d'Archei", ro: "Guelta d'Archei", en: "Guelta d'Archei" },
     coords: [-13.0, 19.1],
@@ -131,6 +135,7 @@ export const mauritaniaReliefV2: POI[] = [
   },
   {
     id: "mauritania-akjoujt-plain-relief-v2",
+    parent: "MR",
     type: "valley",
     name: { de: "Akjoujt-Ebene", hu: "Akjoujt-alföld", ro: "Câmpia Akjoujt", en: "Akjoujt Plain" },
     coords: [-14.4, 19.7],
@@ -163,6 +168,7 @@ export const mauritaniaReliefV2: POI[] = [
   },
   {
     id: "mauritania-el-djouf-relief-v2",
+    parent: "MR",
     type: "mountain",
     name: { de: "El Djouf", hu: "El Djouf", ro: "El Djouf", en: "El Djouf" },
     coords: [-8.0, 21.0],
@@ -195,6 +201,7 @@ export const mauritaniaReliefV2: POI[] = [
   },
   {
     id: "mauritania-tiris-plain-relief-v2",
+    parent: "MR",
     type: "mountain",
     name: { de: "Tiris-Ebene", hu: "Tiris-alföld", ro: "Câmpia Tiris", en: "Tiris Plain" },
     coords: [-11.0, 22.0],
@@ -227,6 +234,7 @@ export const mauritaniaReliefV2: POI[] = [
   },
   {
     id: "mauritania-inchiri-relief-v2",
+    parent: "MR",
     type: "mountain",
     name: { de: "Inchiri-Region", hu: "Inchiri régió", ro: "Regiunea Inchiri", en: "Inchiri Region" },
     coords: [-15.0, 19.5],
@@ -259,6 +267,7 @@ export const mauritaniaReliefV2: POI[] = [
   },
   {
     id: "mauritania-aftout-es-sahel-relief-v2",
+    parent: "MR",
     type: "valley",
     name: { de: "Aftout es-Sahel", hu: "Aftout es-Sahel", ro: "Aftout es-Sahel", en: "Aftout es-Sahel" },
     coords: [-15.5, 17.5],
@@ -291,6 +300,7 @@ export const mauritaniaReliefV2: POI[] = [
   },
   {
     id: "mauritania-banc-d-arguin-coast-relief-v2",
+    parent: "MR",
     type: "mountain",
     name: { de: "Banc d'Arguin Küste", hu: "Banc d'Arguin partvidék", ro: "Coasta Banc d'Arguin", en: "Banc d'Arguin Coast" },
     coords: [-16.3, 20.2],
@@ -323,6 +333,7 @@ export const mauritaniaReliefV2: POI[] = [
   },
   {
     id: "mauritania-trarza-dunes-relief-v2",
+    parent: "MR",
     type: "mountain",
     name: { de: "Trarza-Dünen", hu: "Trarza-dűnék", ro: "Dunele Trarza", en: "Trarza Dunes" },
     coords: [-14.0, 17.0],
@@ -355,6 +366,7 @@ export const mauritaniaReliefV2: POI[] = [
   },
   {
     id: "mauritania-brakna-plain-relief-v2",
+    parent: "MR",
     type: "valley",
     name: { de: "Brakna-Ebene", hu: "Brakna-alföld", ro: "Câmpia Brakna", en: "Brakna Plain" },
     coords: [-13.0, 17.2],
@@ -387,6 +399,7 @@ export const mauritaniaReliefV2: POI[] = [
   },
   {
     id: "mauritania-gorgol-valley-relief-v2",
+    parent: "MR",
     type: "valley",
     name: { de: "Gorgol-Tal", hu: "Gorgol-völgy", ro: "Valea Gorgol", en: "Gorgol Valley" },
     coords: [-12.5, 16.0],
@@ -419,6 +432,7 @@ export const mauritaniaReliefV2: POI[] = [
   },
   {
     id: "mauritania-assaba-hills-relief-v2",
+    parent: "MR",
     type: "mountain",
     name: { de: "Assaba-Hügel", hu: "Assaba-dombság", ro: "Dealurile Assaba", en: "Assaba Hills" },
     coords: [-11.5, 16.8],
@@ -451,6 +465,7 @@ export const mauritaniaReliefV2: POI[] = [
   },
   {
     id: "mauritania-guidimaka-plateau-relief-v2",
+    parent: "MR",
     type: "mountain",
     name: { de: "Guidimaka-Plateau", hu: "Guidimaka-fennsík", ro: "Podișul Guidimaka", en: "Guidimaka Plateau" },
     coords: [-12.0, 15.5],
@@ -483,6 +498,7 @@ export const mauritaniaReliefV2: POI[] = [
   },
   {
     id: "mauritania-dhar-nema-relief-v2",
+    parent: "MR",
     type: "mountain",
     name: { de: "Dhar Nema", hu: "Dhar Nema", ro: "Dhar Nema", en: "Dhar Nema" },
     coords: [-7.2, 16.6],
@@ -515,6 +531,7 @@ export const mauritaniaReliefV2: POI[] = [
   },
   {
     id: "mauritania-adrar-dunes-relief-v2",
+    parent: "MR",
     type: "mountain",
     name: { de: "Adrar-Dünen", hu: "Adrar-dűnék", ro: "Dunele Adrar", en: "Adrar Dunes" },
     coords: [-12.5, 20.7],
@@ -547,6 +564,7 @@ export const mauritaniaReliefV2: POI[] = [
   },
   {
     id: "mauritania-tiris-zemmour-relief-v2",
+    parent: "MR",
     type: "mountain",
     name: { de: "Tiris Zemmour Plateau", hu: "Tiris Zemmour-fennsík", ro: "Podișul Tiris Zemmour", en: "Tiris Zemmour Plateau" },
     coords: [-10.0, 23.0],
@@ -579,6 +597,7 @@ export const mauritaniaReliefV2: POI[] = [
   },
   {
     id: "mauritania-tagant-escarpment-relief-v2",
+    parent: "MR",
     type: "mountain",
     name: { de: "Tagant-Stufe", hu: "Tagant-lépcső", ro: "Escarpa Tagant", en: "Tagant Escarpment" },
     coords: [-11.8, 17.8],
@@ -611,6 +630,7 @@ export const mauritaniaReliefV2: POI[] = [
   },
   {
     id: "mauritania-aouker-dunes-relief-v2",
+    parent: "MR",
     type: "mountain",
     name: { de: "Aouker-Dünen", hu: "Aouker-dűnék", ro: "Dunele Aouker", en: "Aouker Dunes" },
     coords: [-10.5, 18.0],
@@ -643,6 +663,7 @@ export const mauritaniaReliefV2: POI[] = [
   },
   {
     id: "mauritania-tidjikja-valley-relief-v2",
+    parent: "MR",
     type: "valley",
     name: { de: "Tidjikja-Tal", hu: "Tidjikja-völgy", ro: "Valea Tidjikja", en: "Tidjikja Valley" },
     coords: [-11.4, 18.5],
@@ -675,6 +696,7 @@ export const mauritaniaReliefV2: POI[] = [
   },
   {
     id: "mauritania-guir-plateau-relief-v2",
+    parent: "MR",
     type: "mountain",
     name: { de: "Guir-Plateau", hu: "Guir-fennsík", ro: "Podișul Guir", en: "Guir Plateau" },
     coords: [-12.0, 19.5],
@@ -707,6 +729,7 @@ export const mauritaniaReliefV2: POI[] = [
   },
   {
     id: "mauritania-zini-hills-relief-v2",
+    parent: "MR",
     type: "mountain",
     name: { de: "Zini-Hügel", hu: "Zini-dombok", ro: "Dealurile Zini", en: "Zini Hills" },
     coords: [-10.0, 17.5],

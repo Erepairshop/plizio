@@ -3,6 +3,7 @@ export const nauruHistoryV2: POI[] = [
 
   {
     id: "nauru-command-ridge-guns-history-v2",
+    parent: "NR",
     type: "monument",
     name: { de: "Geschütze am Command Ridge", hu: "Command Ridge ágyúk", ro: "Tunurile de pe Command Ridge", en: "Command Ridge Guns" },
     coords: [166.9151, -0.5312],
@@ -35,6 +36,7 @@ export const nauruHistoryV2: POI[] = [
   },
   {
     id: "nauru-old-cantilever-history-v2",
+    parent: "NR",
     type: "industry",
     name: { de: "Alter Phosphat-Ausleger", hu: "Régi foszfátrakodó", ro: "Vechiul cantilever de fosfat", en: "Old Phosphate Cantilever" },
     coords: [166.9102, -0.5365],
@@ -67,6 +69,7 @@ export const nauruHistoryV2: POI[] = [
   },
   {
     id: "nauru-pow-memorial-history-v2",
+    parent: "NR",
     type: "monument",
     name: { de: "Kriegsgefangenen-Denkmal", hu: "Hadifogoly emlékmű", ro: "Monumentul prizonierilor de război", en: "POW Memorial" },
     coords: [166.9205, -0.5482],
@@ -99,6 +102,7 @@ export const nauruHistoryV2: POI[] = [
   },
   {
     id: "nauru-naoero-museum-history-v2",
+    parent: "NR",
     type: "museum",
     name: { de: "Naoero Museum", hu: "Naoero Múzeum", ro: "Muzeul Naoero", en: "Naoero Museum" },
     coords: [166.9192, -0.5461],
@@ -131,6 +135,7 @@ export const nauruHistoryV2: POI[] = [
   },
   {
     id: "nauru-anabar-caves-history-v2",
+    parent: "NR",
     type: "landmark",
     name: { de: "Anabar-Höhlen", hu: "Anabar-barlangok", ro: "Peșterile Anabar", en: "Anabar Caves" },
     coords: [166.9458, -0.5105],
@@ -163,6 +168,7 @@ export const nauruHistoryV2: POI[] = [
   },
   {
     id: "nauru-buada-settlement-site-history-v2",
+    parent: "NR",
     type: "village",
     name: { de: "Historische Siedlung Buada", hu: "Buada történelmi település", ro: "Așezarea istorică Buada", en: "Buada Historic Settlement" },
     coords: [166.9231, -0.5342],
@@ -195,6 +201,7 @@ export const nauruHistoryV2: POI[] = [
   },
   {
     id: "nauru-phosphate-discovery-site-history-v2",
+    parent: "NR",
     type: "landmark",
     name: { de: "Stelle der Phosphat-Entdeckung", hu: "A foszfát felfedezésének helye", ro: "Locul descoperirii fosfatului", en: "Phosphate Discovery Site" },
     coords: [166.9304, -0.5301],
@@ -227,6 +234,7 @@ export const nauruHistoryV2: POI[] = [
   },
   {
     id: "nauru-state-house-history-v2",
+    parent: "NR",
     type: "landmark",
     name: { de: "Altes State House", hu: "Régi Állami Ház", ro: "Vechea Casă de Stat", en: "Old State House" },
     coords: [166.9158, -0.5492],
@@ -259,6 +267,7 @@ export const nauruHistoryV2: POI[] = [
   },
   {
     id: "nauru-japanese-hospital-ruins-history-v2",
+    parent: "NR",
     type: "ruins",
     name: { de: "Ruinen des japanischen Lazaretts", hu: "Japán katonai kórház romjai", ro: "Ruinele spitalului japonez", en: "Japanese Hospital Ruins" },
     coords: [166.9174, -0.5358],
@@ -291,6 +300,7 @@ export const nauruHistoryV2: POI[] = [
   },
   {
     id: "nauru-bpc-office-history-v2",
+    parent: "NR",
     type: "landmark",
     name: { de: "BPC-Verwaltungsgebäude", hu: "BPC adminisztrációs épület", ro: "Clădirea administrativă BPC", en: "BPC Administration Building" },
     coords: [166.9121, -0.5382],
@@ -323,6 +333,7 @@ export const nauruHistoryV2: POI[] = [
   },
   {
     id: "nauru-anibare-landing-site-history-v2",
+    parent: "NR",
     type: "port",
     name: { de: "Anibare-Landungsstelle", hu: "Anibare partraszállási hely", ro: "Locul de debarcare Anibare", en: "Anibare Landing Site" },
     coords: [166.9531, -0.5369],
@@ -355,6 +366,7 @@ export const nauruHistoryV2: POI[] = [
   },
   {
     id: "nauru-aiwo-church-history-v2",
+    parent: "NR",
     type: "church",
     name: { de: "Historische Kirche von Aiwo", hu: "Aiwo történelmi temploma", ro: "Biserica istorică din Aiwo", en: "Aiwo Historic Church" },
     coords: [166.9115, -0.5372],
@@ -387,6 +399,7 @@ export const nauruHistoryV2: POI[] = [
   },
   {
     id: "nauru-civil-administration-ruins-history-v2",
+    parent: "NR",
     type: "ruins",
     name: { de: "Ruinen der Zivilverwaltung", hu: "Polgári közigazgatás romjai", ro: "Ruinele administrației civile", en: "Civil Administration Ruins" },
     coords: [166.9163, -0.5475],
@@ -419,6 +432,7 @@ export const nauruHistoryV2: POI[] = [
   },
   {
     id: "nauru-centenary-complex-history-v2",
+    parent: "NR",
     type: "landmark",
     name: { de: "Centenary Complex", hu: "Centenáriumi Komplexum", ro: "Complexul Centenar", en: "Centenary Complex" },
     coords: [166.9181, -0.5452],

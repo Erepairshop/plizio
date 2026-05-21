@@ -3,6 +3,7 @@ export const malawiHistoryV2: POI[] = [
 
   {
     id: "malawi-mandala-house-history-v2",
+    parent: "MW",
     type: "landmark",
     name: { de: "Mandala-Haus", hu: "Mandala-ház", ro: "Casa Mandala", en: "Mandala House" },
     coords: [35.0136, -15.7947],
@@ -35,6 +36,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-st-michael-angels-church-history-v2",
+    parent: "MW",
     type: "church",
     name: { de: "Kirche St. Michael und alle Engel", hu: "Szent Mihály és minden angyal temploma", ro: "Biserica Sfântul Mihail și toți Îngerii", en: "St. Michael and All Angels Church" },
     coords: [35.0114, -15.7831],
@@ -67,6 +69,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-chongoni-rock-art-history-v2",
+    parent: "MW",
     type: "ruins",
     name: { de: "Felsbilder von Chongoni", hu: "Chongoni sziklarajzok", ro: "Arta rupestră din Chongoni", en: "Chongoni Rock Art Area" },
     coords: [34.25, -14.2922],
@@ -99,6 +102,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-livingstonia-mission-history-v2",
+    parent: "MW",
     type: "village",
     name: { de: "Livingstonia-Mission", hu: "Livingstonia misszió", ro: "Misiunea Livingstonia", en: "Livingstonia Mission" },
     coords: [34.1139, -10.6083],
@@ -131,6 +135,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-nkhotakota-slave-market-history-v2",
+    parent: "MW",
     type: "landmark",
     name: { de: "Sklavenmarkt von Nkhotakota", hu: "Nkhotakota rabszolgapiac", ro: "Piața de sclavi din Nkhotakota", en: "Nkhotakota Slave Market" },
     coords: [34.2936, -12.9261],
@@ -163,6 +168,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-mua-mission-history-v2",
+    parent: "MW",
     type: "landmark",
     name: { de: "Mua-Mission", hu: "Mua misszió", ro: "Misiunea Mua", en: "Mua Mission" },
     coords: [34.5, -14.2833],
@@ -195,6 +201,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-karonga-museum-history-v2",
+    parent: "MW",
     type: "museum",
     name: { de: "Kultur- und Museumszentrum Karonga", hu: "Karonga Kulturális és Múzeumi Központ", ro: "Centrul Cultural și Muzeul Karonga", en: "Karonga Cultural and Museum Centre" },
     coords: [33.9333, -9.9333],
@@ -227,6 +234,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-victoria-memorial-tower-history-v2",
+    parent: "MW",
     type: "tower",
     name: { de: "Victoria-Gedenkturm", hu: "Viktória-emléktorony", ro: "Turnul Memorial Victoria", en: "Victoria Memorial Tower" },
     coords: [35.2631, -14.4739],
@@ -259,6 +267,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-likoma-cathedral-history-v2",
+    parent: "MW",
     type: "cathedral",
     name: { de: "Kathedrale von Likoma", hu: "Likoma katedrális", ro: "Catedrala din Likoma", en: "Likoma Cathedral" },
     coords: [34.7333, -12.0667],
@@ -291,6 +300,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-zomba-old-parliament-history-v2",
+    parent: "MW",
     type: "landmark",
     name: { de: "Altes Parlamentsgebäude Zomba", hu: "Zomba régi parlament", ro: "Vechea clădire a Parlamentului Zomba", en: "Zomba Old Parliament House" },
     coords: [35.3194, -15.3875],
@@ -323,6 +333,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-blantyre-old-town-hall-history-v2",
+    parent: "MW",
     type: "landmark",
     name: { de: "Altes Rathaus Blantyre", hu: "Blantyre régi városháza", ro: "Vechea primărie din Blantyre", en: "Blantyre Old Town Hall" },
     coords: [35.0058, -15.7861],
@@ -355,6 +366,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-chichiri-museum-history-v2",
+    parent: "MW",
     type: "museum",
     name: { de: "Chichiri-Museum", hu: "Chichiri Múzeum", ro: "Muzeul Chichiri", en: "Chichiri Museum" },
     coords: [35.0381, -15.8033],
@@ -387,6 +399,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-lilongwe-war-memorial-history-v2",
+    parent: "MW",
     type: "monument",
     name: { de: "Kriegsdenkmal Lilongwe", hu: "Lilongwe háborús emlékmű", ro: "Monumentul Eroilor din Lilongwe", en: "Lilongwe War Memorial" },
     coords: [33.7889, -13.9789],
@@ -419,6 +432,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-mtunthama-memorial-history-v2",
+    parent: "MW",
     type: "monument",
     name: { de: "Mtunthama-Gedenkstätte", hu: "Mtunthama emlékmű", ro: "Monumentul Mtunthama", en: "Mtunthama Memorial Park" },
     coords: [33.5167, -13.0333],
@@ -451,6 +465,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-malamulo-mission-history-v2",
+    parent: "MW",
     type: "landmark",
     name: { de: "Malamulo-Mission", hu: "Malamulo misszió", ro: "Misiunea Malamulo", en: "Malamulo Mission" },
     coords: [35.1167, -16.0833],
@@ -483,6 +498,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-nkhoma-mission-history-v2",
+    parent: "MW",
     type: "village",
     name: { de: "Nkhoma-Mission", hu: "Nkhoma misszió", ro: "Misiunea Nkhoma", en: "Nkhoma Mission" },
     coords: [34.1167, -14.05],
@@ -515,6 +531,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-ekwendeni-mission-history-v2",
+    parent: "MW",
     type: "village",
     name: { de: "Ekwendeni-Mission", hu: "Ekwendeni misszió", ro: "Misiunea Ekwendeni", en: "Ekwendeni Mission" },
     coords: [33.95, -11.35],
@@ -547,6 +564,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-bandawe-mission-history-v2",
+    parent: "MW",
     type: "landmark",
     name: { de: "Bandawe-Mission", hu: "Bandawe misszió", ro: "Misiunea Bandawe", en: "Bandawe Mission" },
     coords: [34.1667, -11.9167],
@@ -579,6 +597,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-livingstonia-cairn-history-v2",
+    parent: "MW",
     type: "monument",
     name: { de: "Livingstonia-Gedenkstein", hu: "Livingstonia-emlékoszlop", ro: "Monumentul Livingstonia", en: "Livingstonia Cairn" },
     coords: [34.85, -14.0333],
@@ -611,6 +630,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-karonga-fossil-beds-history-v2",
+    parent: "MW",
     type: "ruins",
     name: { de: "Fossilienlagerstätten von Karonga", hu: "Karonga fosszília-lelőhelyek", ro: "Zăcămintele fosile din Karonga", en: "Karonga Fossil Beds" },
     coords: [34.0, -10.0],
@@ -643,6 +663,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-kasungu-iron-kilns-history-v2",
+    parent: "MW",
     type: "ruins",
     name: { de: "Eisenschmelzöfen von Kasungu", hu: "Kasungu vasolvasztó kemencék", ro: "Cuptoarele de fier din Kasungu", en: "Kasungu Iron Smelting Kilns" },
     coords: [33.15, -13.0167],
@@ -675,6 +696,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-fort-maguire-ruins-history-v2",
+    parent: "MW",
     type: "ruins",
     name: { de: "Ruinen von Fort Maguire", hu: "Fort Maguire romjai", ro: "Ruinele Fort Maguire", en: "Fort Maguire Ruins" },
     coords: [34.8833, -13.6833],
@@ -707,6 +729,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-mchinji-fort-manning-history-v2",
+    parent: "MW",
     type: "landmark",
     name: { de: "Fort Manning", hu: "Fort Manning", ro: "Fort Manning", en: "Fort Manning (Mchinji)" },
     coords: [32.8833, -13.7917],
@@ -739,6 +762,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-fort-alston-kasungu-history-v2",
+    parent: "MW",
     type: "ruins",
     name: { de: "Fort Alston", hu: "Fort Alston", ro: "Fort Alston", en: "Fort Alston (Kasungu)" },
     coords: [33.4833, -13.0333],
@@ -771,6 +795,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-blantyre-old-boma-history-v2",
+    parent: "MW",
     type: "landmark",
     name: { de: "Altes Boma Blantyre", hu: "Blantyre régi Boma", ro: "Vechiul Boma din Blantyre", en: "Old Blantyre Boma" },
     coords: [35.0042, -15.7867],
@@ -803,6 +828,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-zomba-boma-history-v2",
+    parent: "MW",
     type: "landmark",
     name: { de: "Zomba Boma", hu: "Zomba Boma", ro: "Boma din Zomba", en: "Zomba Boma" },
     coords: [35.3317, -15.385],
@@ -835,6 +861,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-rumphi-boma-history-v2",
+    parent: "MW",
     type: "landmark",
     name: { de: "Rumphi Boma", hu: "Rumphi Boma", ro: "Boma din Rumphi", en: "Rumphi Boma" },
     coords: [33.8667, -11.0167],
@@ -867,6 +894,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-nkhata-bay-old-port-history-v2",
+    parent: "MW",
     type: "port",
     name: { de: "Alter Hafen von Nkhata Bay", hu: "Nkhata Bay régi kikötő", ro: "Vechiul port din Nkhata Bay", en: "Nkhata Bay Old Port" },
     coords: [34.2933, -11.6067],
@@ -899,6 +927,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-monkey-bay-naval-base-history-v2",
+    parent: "MW",
     type: "port",
     name: { de: "Marinestützpunkt Monkey Bay", hu: "Monkey Bay haditengerészeti bázis", ro: "Baza navală Monkey Bay", en: "Monkey Bay Naval Base" },
     coords: [34.9167, -14.0833],
@@ -931,6 +960,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-malindi-mission-church-history-v2",
+    parent: "MW",
     type: "church",
     name: { de: "Missionskirche Malindi", hu: "Malindi missziós templom", ro: "Biserica misiunii Malindi", en: "Malindi Mission Church" },
     coords: [35.25, -14.3333],
@@ -963,6 +993,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-domasi-mission-site-history-v2",
+    parent: "MW",
     type: "landmark",
     name: { de: "Domasi-Missionsstation", hu: "Domasi missziós helyszín", ro: "Situl misiunii Domasi", en: "Domasi Mission Site" },
     coords: [35.45, -15.3],
@@ -995,6 +1026,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-mwanda-hill-caves-history-v2",
+    parent: "MW",
     type: "ruins",
     name: { de: "Höhlen vom Mwanda-Hügel", hu: "Mwanda-hegy barlangjai", ro: "Peșterile de pe dealul Mwanda", en: "Mwanda Hill Caves" },
     coords: [33.35, -12.45],
@@ -1027,6 +1059,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-chencherere-rock-art-history-v2",
+    parent: "MW",
     type: "ruins",
     name: { de: "Chencherere Felskunst", hu: "Chencherere sziklarajzok", ro: "Arta rupestră Chencherere", en: "Chencherere Rock Art" },
     coords: [34.2167, -14.3667],
@@ -1059,6 +1092,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-namzeze-rock-art-history-v2",
+    parent: "MW",
     type: "ruins",
     name: { de: "Namzeze Felsmalereien", hu: "Namzeze sziklafestmények", ro: "Picturile rupestre Namzeze", en: "Namzeze Rock Art" },
     coords: [34.2833, -14.3],
@@ -1091,6 +1125,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-phalombe-boma-history-v2",
+    parent: "MW",
     type: "landmark",
     name: { de: "Phalombe Boma", hu: "Phalombe Boma", ro: "Boma din Phalombe", en: "Phalombe Boma" },
     coords: [35.65, -15.8],
@@ -1123,6 +1158,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-chikwawa-mission-history-v2",
+    parent: "MW",
     type: "village",
     name: { de: "Chikwawa-Mission", hu: "Chikwawa misszió", ro: "Misiunea Chikwawa", en: "Chikwawa Mission" },
     coords: [34.8, -16.0333],
@@ -1155,6 +1191,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-nsanje-boma-history-v2",
+    parent: "MW",
     type: "landmark",
     name: { de: "Nsanje Boma", hu: "Nsanje Boma", ro: "Boma din Nsanje", en: "Nsanje Boma" },
     coords: [35.2667, -16.9167],
@@ -1187,6 +1224,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-bangula-bridge-history-v2",
+    parent: "MW",
     type: "bridge",
     name: { de: "Bangula-Eisenbahnbrücke", hu: "Bangula vasúti híd", ro: "Podul feroviar Bangula", en: "Bangula Rail Bridge" },
     coords: [35.1333, -16.5833],
@@ -1219,6 +1257,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-kamuzu-academy-history-v2",
+    parent: "MW",
     type: "university",
     name: { de: "Kamuzu-Akademie", hu: "Kamuzu Akadémia", ro: "Academia Kamuzu", en: "Kamuzu Academy" },
     coords: [33.5167, -13.05],
@@ -1251,6 +1290,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-victoria-avenue-blantyre-history-v2",
+    parent: "MW",
     type: "landmark",
     name: { de: "Victoria Avenue", hu: "Viktória sugárút", ro: "Bulevardul Victoria", en: "Victoria Avenue" },
     coords: [35.005, -15.7875],
@@ -1283,6 +1323,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-kamuzu-memorial-statue-history-v2",
+    parent: "MW",
     type: "monument",
     name: { de: "Kamuzu-Gedenkstatue", hu: "Kamuzu emlékszobor", ro: "Statuia memorială Kamuzu", en: "Kamuzu Memorial Statue" },
     coords: [33.785, -13.975],
@@ -1315,6 +1356,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-mulunguzi-dam-history-v2",
+    parent: "MW",
     type: "landmark",
     name: { de: "Mulunguzi-Staudamm", hu: "Mulunguzi-gát", ro: "Barajul Mulunguzi", en: "Mulunguzi Dam" },
     coords: [35.31, -15.37],
@@ -1347,6 +1389,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-thyolo-house-history-v2",
+    parent: "MW",
     type: "landmark",
     name: { de: "Thyolo-Haus", hu: "Thyolo-ház", ro: "Casa Thyolo", en: "Thyolo House" },
     coords: [35.1333, -16.0667],
@@ -1379,6 +1422,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-cape-maclear-graves-history-v2",
+    parent: "MW",
     type: "landmark",
     name: { de: "Missionarsgräber Cape Maclear", hu: "Cape Maclear misszionárius sírok", ro: "Mormintele misionarilor din Cape Maclear", en: "Cape Maclear Missionary Graves" },
     coords: [34.845, -14.02],
@@ -1411,6 +1455,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-likoma-slave-refuge-history-v2",
+    parent: "MW",
     type: "landmark",
     name: { de: "Sklaven-Zuflucht Likoma", hu: "Likoma rabszolga-menedék", ro: "Refugiul pentru sclavi din Likoma", en: "Likoma Island Slave Refuge" },
     coords: [34.75, -12.05],
@@ -1443,6 +1488,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-chizumulu-fortification-history-v2",
+    parent: "MW",
     type: "ruins",
     name: { de: "Befestigung von Chizumulu", hu: "Chizumulu erődítmény", ro: "Fortificația Chizumulu", en: "Chizumulu Island Fortification" },
     coords: [34.6167, -12.0167],
@@ -1475,6 +1521,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-mvera-mission-history-v2",
+    parent: "MW",
     type: "village",
     name: { de: "Mvera-Mission", hu: "Mvera misszió", ro: "Misiunea Mvera", en: "Mvera Mission" },
     coords: [34.05, -13.65],
@@ -1507,6 +1554,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-kongwe-mission-history-v2",
+    parent: "MW",
     type: "village",
     name: { de: "Kongwe-Mission", hu: "Kongwe misszió", ro: "Misiunea Kongwe", en: "Kongwe Mission" },
     coords: [33.9167, -13.6333],
@@ -1539,6 +1587,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-vaza-marsh-trade-history-v2",
+    parent: "MW",
     type: "landmark",
     name: { de: "Handelsplatz Vwaza-Sumpf", hu: "Vwaza-mocsár kereskedelmi helyszín", ro: "Locul comercial Vwaza Marsh", en: "Vwaza Marsh Trade Site" },
     coords: [33.5, -11.0],
@@ -1571,6 +1620,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-mua-chamare-museum-history-v2",
+    parent: "MW",
     type: "museum",
     name: { de: "Chamare-Museum", hu: "Chamare Múzeum", ro: "Muzeul Chamare", en: "Chamare Museum" },
     coords: [34.5002, -14.2831],
@@ -1603,6 +1653,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-old-zomba-parliament-history-v2",
+    parent: "MW",
     type: "landmark",
     name: { de: "Historisches Parlament Zomba", hu: "Történelmi parlament Zomba", ro: "Parlamentul istoric Zomba", en: "Historic Zomba Parliament" },
     coords: [35.32, -15.388],
@@ -1635,6 +1686,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-blantyre-mandala-library-history-v2",
+    parent: "MW",
     type: "museum",
     name: { de: "Mandala-Bibliothek", hu: "Mandala könyvtár", ro: "Biblioteca Mandala", en: "Mandala Library" },
     coords: [35.0135, -15.7948],
@@ -1667,6 +1719,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-chichiri-steam-locos-history-v2",
+    parent: "MW",
     type: "landmark",
     name: { de: "Dampflokomotiven Chichiri", hu: "Chichiri gőzmozdonyok", ro: "Locomotivele cu abur Chichiri", en: "Chichiri Steam Locomotives" },
     coords: [35.0382, -15.8034],
@@ -1699,6 +1752,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-karonga-war-memorial-history-v2",
+    parent: "MW",
     type: "monument",
     name: { de: "Kriegsdenkmal Karonga", hu: "Karonga háborús emlékmű", ro: "Monumentul eroilor din Karonga", en: "Karonga War Memorial" },
     coords: [33.935, -9.935],
@@ -1731,6 +1785,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-mtunthama-residence-history-v2",
+    parent: "MW",
     type: "palace",
     name: { de: "Residenz Mtunthama", hu: "Mtunthama rezidencia", ro: "Reședința Mtunthama", en: "Mtunthama Residence" },
     coords: [33.5165, -13.0335],
@@ -1763,6 +1818,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-loudon-mission-history-v2",
+    parent: "MW",
     type: "village",
     name: { de: "Loudon-Mission", hu: "Loudon misszió", ro: "Misiunea Loudon", en: "Loudon Mission" },
     coords: [33.6, -12.3333],
@@ -1795,6 +1851,7 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-likoma-island-haven-history-v2",
+    parent: "MW",
     type: "landmark",
     name: { de: "Sicherer Hafen Likoma", hu: "Likoma biztonságos kikötő", ro: "Portul sigur Likoma", en: "Likoma Safe Haven" },
     coords: [34.74, -12.06],

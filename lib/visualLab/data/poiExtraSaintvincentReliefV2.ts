@@ -3,6 +3,7 @@ export const saintvincentReliefV2: POI[] = [
 
   {
     id: "saintvincent-petit-bonhomme-relief-v2",
+    parent: "VC",
     type: "peak",
     name: { de: "Petit Bonhomme", hu: "Petit Bonhomme", ro: "Petit Bonhomme", en: "Petit Bonhomme" },
     coords: [-61.1917, 13.2083],
@@ -35,6 +36,7 @@ export const saintvincentReliefV2: POI[] = [
   },
   {
     id: "saintvincent-morne-garu-relief-v2",
+    parent: "VC",
     type: "mountain",
     name: { de: "Morne Garu", hu: "Morne Garu", ro: "Morne Garu", en: "Morne Garu" },
     coords: [-61.1833, 13.25],
@@ -67,6 +69,7 @@ export const saintvincentReliefV2: POI[] = [
   },
   {
     id: "saintvincent-cumberland-valley-relief-v2",
+    parent: "VC",
     type: "valley",
     name: { de: "Cumberland-Tal", hu: "Cumberland-völgy", ro: "Valea Cumberland", en: "Cumberland Valley" },
     coords: [-61.2333, 13.2667],
@@ -99,6 +102,7 @@ export const saintvincentReliefV2: POI[] = [
   },
   {
     id: "saintvincent-vermont-valley-relief-v2",
+    parent: "VC",
     type: "valley",
     name: { de: "Vermont-Tal", hu: "Vermont-völgy", ro: "Valea Vermont", en: "Vermont Valley" },
     coords: [-61.2167, 13.2167],
@@ -131,6 +135,7 @@ export const saintvincentReliefV2: POI[] = [
   },
   {
     id: "saintvincent-colonarie-valley-relief-v2",
+    parent: "VC",
     type: "valley",
     name: { de: "Colonarie-Tal", hu: "Colonarie-völgy", ro: "Valea Colonarie", en: "Colonarie Valley" },
     coords: [-61.15, 13.2333],

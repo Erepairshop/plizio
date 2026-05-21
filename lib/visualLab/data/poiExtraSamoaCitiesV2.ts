@@ -3,6 +3,7 @@ export const samoaCitiesV2: POI[] = [
 
   {
     id: "samoa-apia-cities-v2",
+    parent: "WS",
     type: "capital",
     name: { de: "Apia", hu: "Apia", ro: "Apia", en: "Apia" },
     coords: [-171.7667, -13.8333],
@@ -35,6 +36,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-vaitele-cities-v2",
+    parent: "WS",
     type: "city",
     name: { de: "Vaitele", hu: "Vaitele", ro: "Vaitele", en: "Vaitele" },
     coords: [-171.8106, -13.8433],
@@ -67,6 +69,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-faleasiu-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Faleasiu", hu: "Faleasiu", ro: "Faleasiu", en: "Faleasiu" },
     coords: [-171.9333, -13.8167],
@@ -99,6 +102,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-vailele-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Vailele", hu: "Vailele", ro: "Vailele", en: "Vailele" },
     coords: [-171.7344, -13.8442],
@@ -131,6 +135,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-leauvaa-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Le'auva'a", hu: "Le'auva'a", ro: "Le'auva'a", en: "Le'auva'a" },
     coords: [-171.8667, -13.8058],
@@ -163,6 +168,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-faleula-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Faleula", hu: "Faleula", ro: "Faleula", en: "Faleula" },
     coords: [-171.8333, -13.8167],
@@ -195,6 +201,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-siusega-cities-v2",
+    parent: "WS",
     type: "city",
     name: { de: "Siusega", hu: "Siusega", ro: "Siusega", en: "Siusega" },
     coords: [-171.8122, -13.8567],
@@ -227,6 +234,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-malie-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Malie", hu: "Malie", ro: "Malie", en: "Malie" },
     coords: [-171.85, -13.8014],
@@ -259,6 +267,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-fasitoo-uta-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Fasito'o Uta", hu: "Fasito'o Uta", ro: "Fasito'o Uta", en: "Fasito'o Uta" },
     coords: [-171.9567, -13.8264],
@@ -291,6 +300,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-vaiusu-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Vaiusu", hu: "Vaiusu", ro: "Vaiusu", en: "Vaiusu" },
     coords: [-171.7917, -13.8333],
@@ -323,6 +333,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-afega-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Afega", hu: "Afega", ro: "Afega", en: "Afega" },
     coords: [-171.8333, -13.8],
@@ -355,6 +366,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-nuu-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Nuu", hu: "Nuu", ro: "Nuu", en: "Nuu" },
     coords: [-171.825, -13.8444],
@@ -387,6 +399,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-solosolo-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Solosolo", hu: "Solosolo", ro: "Solosolo", en: "Solosolo" },
     coords: [-171.6333, -13.8833],
@@ -419,6 +432,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-lufilufi-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Lufilufi", hu: "Lufilufi", ro: "Lufilufi", en: "Lufilufi" },
     coords: [-171.6, -13.8667],
@@ -451,6 +465,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-falefa-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Falefa", hu: "Falefa", ro: "Falefa", en: "Falefa" },
     coords: [-171.5833, -13.9],
@@ -483,6 +498,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-luatuanuu-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Luatuanu'u", hu: "Luatuanu'u", ro: "Luatuanu'u", en: "Luatuanu'u" },
     coords: [-171.6667, -13.8667],
@@ -515,6 +531,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-saleimoa-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Saleimoa", hu: "Saleimoa", ro: "Saleimoa", en: "Saleimoa" },
     coords: [-171.9, -13.8],
@@ -547,6 +564,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-samatau-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Samatau", hu: "Samatau", ro: "Samatau", en: "Samatau" },
     coords: [-172.0333, -13.8833],
@@ -579,6 +597,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-mulifanua-cities-v2",
+    parent: "WS",
     type: "port",
     name: { de: "Mulifanua", hu: "Mulifanua", ro: "Mulifanua", en: "Mulifanua" },
     coords: [-172.04, -13.8217],
@@ -611,6 +630,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-salelologa-cities-v2",
+    parent: "WS",
     type: "town",
     name: { de: "Salelologa", hu: "Salelologa", ro: "Salelologa", en: "Salelologa" },
     coords: [-172.2167, -13.74],
@@ -643,6 +663,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-safotulafai-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Safotulafai", hu: "Safotulafai", ro: "Safotulafai", en: "Safotulafai" },
     coords: [-172.1833, -13.6833],
@@ -675,6 +696,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-sapapalii-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Sapapali'i", hu: "Sapapali'i", ro: "Sapapali'i", en: "Sapapali'i" },
     coords: [-172.1667, -13.6667],
@@ -707,6 +729,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-puapua-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Pu'apu'a", hu: "Pu'apu'a", ro: "Pu'apu'a", en: "Pu'apu'a" },
     coords: [-172.2333, -13.5833],
@@ -739,6 +762,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-asau-cities-v2",
+    parent: "WS",
     type: "town",
     name: { de: "Asau", hu: "Asau", ro: "Asau", en: "Asau" },
     coords: [-172.6361, -13.5222],
@@ -771,6 +795,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-safotu-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Safotu", hu: "Safotu", ro: "Safotu", en: "Safotu" },
     coords: [-172.4, -13.45],
@@ -803,6 +828,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-fagamalo-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Fagamalo", hu: "Fagamalo", ro: "Fagamalo", en: "Fagamalo" },
     coords: [-172.35, -13.45],
@@ -835,6 +861,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-satoalepai-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Sato'alepai", hu: "Sato'alepai", ro: "Sato'alepai", en: "Sato'alepai" },
     coords: [-172.3333, -13.45],
@@ -867,6 +894,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-manase-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Manase", hu: "Manase", ro: "Manase", en: "Manase" },
     coords: [-172.3667, -13.45],
@@ -899,6 +927,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-saleaula-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Sale'aula", hu: "Sale'aula", ro: "Sale'aula", en: "Sale'aula" },
     coords: [-172.3333, -13.4333],
@@ -931,6 +960,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-samalaeulu-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Samalae'ulu", hu: "Samalae'ulu", ro: "Samalae'ulu", en: "Samalae'ulu" },
     coords: [-172.2833, -13.5167],
@@ -963,6 +993,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-gataivai-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Gataivai", hu: "Gataivai", ro: "Gataivai", en: "Gataivai" },
     coords: [-172.3833, -13.7833],
@@ -995,6 +1026,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-taga-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Taga", hu: "Taga", ro: "Taga", en: "Taga" },
     coords: [-172.5167, -13.8],
@@ -1027,6 +1059,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-sagone-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Sagone", hu: "Sagone", ro: "Sagone", en: "Sagone" },
     coords: [-172.6167, -13.7667],
@@ -1059,6 +1092,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-vaisala-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Vaisala", hu: "Vaisala", ro: "Vaisala", en: "Vaisala" },
     coords: [-172.7, -13.5333],
@@ -1091,6 +1125,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-siumu-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Siumu", hu: "Siumu", ro: "Siumu", en: "Siumu" },
     coords: [-171.7667, -13.9833],
@@ -1123,6 +1158,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-poutasi-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Poutasi", hu: "Poutasi", ro: "Poutasi", en: "Poutasi" },
     coords: [-171.65, -13.9833],
@@ -1155,6 +1191,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-lalomanu-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Lalomanu", hu: "Lalomanu", ro: "Lalomanu", en: "Lalomanu" },
     coords: [-171.45, -14.0333],
@@ -1187,6 +1224,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-lotofaga-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Lotofaga", hu: "Lotofaga", ro: "Lotofaga", en: "Lotofaga" },
     coords: [-171.55, -14.0],
@@ -1219,6 +1257,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-lepa-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Lepa", hu: "Lepa", ro: "Lepa", en: "Lepa" },
     coords: [-171.5167, -14.0167],
@@ -1251,6 +1290,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-satitoa-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Satitoa", hu: "Satitoa", ro: "Satitoa", en: "Satitoa" },
     coords: [-171.4333, -14.0167],
@@ -1283,6 +1323,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-tiavea-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Ti'avea", hu: "Ti'avea", ro: "Ti'avea", en: "Ti'avea" },
     coords: [-171.45, -13.95],
@@ -1315,6 +1356,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-amaile-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Amaile", hu: "Amaile", ro: "Amaile", en: "Amaile" },
     coords: [-171.4333, -14.0333],
@@ -1347,6 +1389,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-samamea-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Samamea", hu: "Samamea", ro: "Samamea", en: "Samamea" },
     coords: [-171.5333, -13.9333],
@@ -1379,6 +1422,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-taelefaga-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Taelefaga", hu: "Taelefaga", ro: "Taelefaga", en: "Taelefaga" },
     coords: [-171.545, -13.94],
@@ -1411,6 +1455,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-aufaga-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Aufaga", hu: "Aufaga", ro: "Aufaga", en: "Aufaga" },
     coords: [-171.5333, -14.0167],
@@ -1443,6 +1488,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-vavau-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Vavau", hu: "Vavau", ro: "Vavau", en: "Vavau" },
     coords: [-171.4833, -14.0333],
@@ -1475,6 +1521,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-saleapaga-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Saleapaga", hu: "Saleapaga", ro: "Saleapaga", en: "Saleapaga" },
     coords: [-171.4667, -14.0333],
@@ -1507,6 +1554,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-matatufu-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Matatufu", hu: "Matatufu", ro: "Matatufu", en: "Matatufu" },
     coords: [-171.5, -14.0167],
@@ -1539,6 +1587,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-salani-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Salani", hu: "Salani", ro: "Salani", en: "Salani" },
     coords: [-171.6, -13.9833],
@@ -1571,6 +1620,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-sapoe-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Sapoe", hu: "Sapoe", ro: "Sapoe", en: "Sapoe" },
     coords: [-171.6167, -13.9833],
@@ -1603,6 +1653,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-salamumu-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Salamumu", hu: "Salamumu", ro: "Salamumu", en: "Salamumu" },
     coords: [-171.9333, -13.9833],
@@ -1635,6 +1686,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-lona-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Lona", hu: "Lona", ro: "Lona", en: "Lona" },
     coords: [-171.55, -13.9333],
@@ -1667,6 +1719,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-musumusu-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Musumusu", hu: "Musumusu", ro: "Musumusu", en: "Musumusu" },
     coords: [-171.55, -13.9167],
@@ -1699,6 +1752,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-maasina-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Ma'asina", hu: "Ma'asina", ro: "Ma'asina", en: "Ma'asina" },
     coords: [-171.5667, -13.9167],
@@ -1731,6 +1785,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-fasitoo-tai-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Fasito'o Tai", hu: "Fasito'o Tai", ro: "Fasito'o Tai", en: "Fasito'o Tai" },
     coords: [-171.9667, -13.8167],
@@ -1763,6 +1818,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-faleula-tai-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Faleula Tai", hu: "Faleula Tai", ro: "Faleula Tai", en: "Faleula Tai" },
     coords: [-171.835, -13.805],
@@ -1795,6 +1851,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-vausu-tai-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Vaiusu Tai", hu: "Vaiusu Tai", ro: "Vaiusu Tai", en: "Vaiusu Tai" },
     coords: [-171.795, -13.825],
@@ -1827,6 +1884,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-malua-cities-v2",
+    parent: "WS",
     type: "university",
     name: { de: "Malua", hu: "Malua", ro: "Malua", en: "Malua" },
     coords: [-171.85, -13.8167],
@@ -1859,6 +1917,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-afiamalu-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Afiamalu", hu: "Afiamalu", ro: "Afiamalu", en: "Afiamalu" },
     coords: [-171.7833, -13.9167],
@@ -1891,6 +1950,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-safata-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Safata", hu: "Safata", ro: "Safata", en: "Safata" },
     coords: [-171.8333, -14.0],
@@ -1923,6 +1983,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-salamumu-tai-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Salamumu Tai", hu: "Salamumu Tai", ro: "Salamumu Tai", en: "Salamumu Tai" },
     coords: [-171.94, -13.9917],
@@ -1955,6 +2016,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-lepua-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Lepua", hu: "Lepua", ro: "Lepua", en: "Lepua" },
     coords: [-171.755, -13.84],
@@ -1987,6 +2049,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-moataa-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Moata'a", hu: "Moata'a", ro: "Moata'a", en: "Moata'a" },
     coords: [-171.745, -13.8417],
@@ -2019,6 +2082,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-vaiala-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Vaiala", hu: "Vaiala", ro: "Vaiala", en: "Vaiala" },
     coords: [-171.75, -13.8333],
@@ -2051,6 +2115,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-fogapoa-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Fogapoa", hu: "Fogapoa", ro: "Fogapoa", en: "Fogapoa" },
     coords: [-172.1833, -13.6833],
@@ -2083,6 +2148,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-eva-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Eva", hu: "Eva", ro: "Eva", en: "Eva" },
     coords: [-171.6167, -13.8833],
@@ -2115,6 +2181,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-falelatai-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Falelatai", hu: "Falelatai", ro: "Falelatai", en: "Falelatai" },
     coords: [-171.9833, -13.8833],
@@ -2147,6 +2214,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-lotofaga-tai-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Lotofaga Tai", hu: "Lotofaga Tai", ro: "Lotofaga Tai", en: "Lotofaga Tai" },
     coords: [-171.555, -14.005],
@@ -2179,6 +2247,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-vaiala-tai-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Vaiala Tai", hu: "Vaiala Tai", ro: "Vaiala Tai", en: "Vaiala Tai" },
     coords: [-171.748, -13.83],
@@ -2211,6 +2280,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-siumu-tai-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Siumu Tai", hu: "Siumu Tai", ro: "Siumu Tai", en: "Siumu Tai" },
     coords: [-171.77, -14.0],
@@ -2243,6 +2313,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-vailima-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Vailima", hu: "Vailima", ro: "Vailima", en: "Vailima" },
     coords: [-171.765, -13.875],
@@ -2275,6 +2346,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-samalaeulu-uta-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Samalae'ulu Uta", hu: "Samalae'ulu Uta", ro: "Samalae'ulu Uta", en: "Samalae'ulu Uta" },
     coords: [-172.29, -13.525],
@@ -2307,6 +2379,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-safotu-tai-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Safotu Tai", hu: "Safotu Tai", ro: "Safotu Tai", en: "Safotu Tai" },
     coords: [-172.405, -13.445],
@@ -2339,6 +2412,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-fagamalo-tai-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Fagamalo Tai", hu: "Fagamalo Tai", ro: "Fagamalo Tai", en: "Fagamalo Tai" },
     coords: [-172.355, -13.445],
@@ -2371,6 +2445,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-taga-tai-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Taga Tai", hu: "Taga Tai", ro: "Taga Tai", en: "Taga Tai" },
     coords: [-172.52, -13.81],
@@ -2403,6 +2478,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-sagone-tai-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Sagone Tai", hu: "Sagone Tai", ro: "Sagone Tai", en: "Sagone Tai" },
     coords: [-172.625, -13.775],
@@ -2435,6 +2511,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-vaisala-tai-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Vaisala Tai", hu: "Vaisala Tai", ro: "Vaisala Tai", en: "Vaisala Tai" },
     coords: [-172.705, -13.535],
@@ -2467,6 +2544,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-salelologa-tai-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Salelologa Tai", hu: "Salelologa Tai", ro: "Salelologa Tai", en: "Salelologa Tai" },
     coords: [-172.22, -13.745],
@@ -2499,6 +2577,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-safotulafai-tai-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Safotulafai Tai", hu: "Safotulafai Tai", ro: "Safotulafai Tai", en: "Safotulafai Tai" },
     coords: [-172.19, -13.69],
@@ -2531,6 +2610,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-sapapalii-tai-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Sapapali'i Tai", hu: "Sapapali'i Tai", ro: "Sapapali'i Tai", en: "Sapapali'i Tai" },
     coords: [-172.17, -13.67],
@@ -2563,6 +2643,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-puapua-tai-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Pu'apu'a Tai", hu: "Pu'apu'a Tai", ro: "Pu'apu'a Tai", en: "Pu'apu'a Tai" },
     coords: [-172.235, -13.585],
@@ -2595,6 +2676,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-asau-tai-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Asau Tai", hu: "Asau Tai", ro: "Asau Tai", en: "Asau Tai" },
     coords: [-172.64, -13.525],
@@ -2627,6 +2709,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-siumu-uta-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Siumu Uta", hu: "Siumu Uta", ro: "Siumu Uta", en: "Siumu Uta" },
     coords: [-171.765, -13.975],
@@ -2659,6 +2742,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-lalomanu-uta-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Lalomanu Uta", hu: "Lalomanu Uta", ro: "Lalomanu Uta", en: "Lalomanu Uta" },
     coords: [-171.455, -14.025],
@@ -2691,6 +2775,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-lotofaga-uta-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Lotofaga Uta", hu: "Lotofaga Uta", ro: "Lotofaga Uta", en: "Lotofaga Uta" },
     coords: [-171.545, -13.99],
@@ -2723,6 +2808,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-poutasi-tai-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Poutasi Tai", hu: "Poutasi Tai", ro: "Poutasi Tai", en: "Poutasi Tai" },
     coords: [-171.655, -13.99],
@@ -2755,6 +2841,7 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-falealili-cities-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Falealili", hu: "Falealili", ro: "Falealili", en: "Falealili" },
     coords: [-171.6667, -13.9833],

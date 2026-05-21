@@ -3,6 +3,7 @@ export const saintvincentNatureV2: POI[] = [
 
   {
     id: "saintvincent-la-soufriere-nature-v2",
+    parent: "VC",
     type: "peak",
     name: { de: "La Soufrière", hu: "La Soufrière", ro: "La Soufrière", en: "La Soufrière" },
     coords: [-61.18, 13.33],
@@ -35,6 +36,7 @@ export const saintvincentNatureV2: POI[] = [
   },
   {
     id: "saintvincent-falls-of-baleine-nature-v2",
+    parent: "VC",
     type: "landmark",
     name: { de: "Falls of Baleine", hu: "Falls of Baleine", ro: "Cascada Baleine", en: "Falls of Baleine" },
     coords: [-61.2, 13.37],
@@ -67,6 +69,7 @@ export const saintvincentNatureV2: POI[] = [
   },
   {
     id: "saintvincent-dark-view-falls-nature-v2",
+    parent: "VC",
     type: "landmark",
     name: { de: "Dark View Falls", hu: "Dark View-vízesés", ro: "Cascada Dark View", en: "Dark View Falls" },
     coords: [-61.19, 13.28],
@@ -99,6 +102,7 @@ export const saintvincentNatureV2: POI[] = [
   },
   {
     id: "saintvincent-trinity-falls-nature-v2",
+    parent: "VC",
     type: "landmark",
     name: { de: "Trinity Falls", hu: "Trinity-vízesés", ro: "Cascada Trinity", en: "Trinity Falls" },
     coords: [-61.19, 13.31],
@@ -131,6 +135,7 @@ export const saintvincentNatureV2: POI[] = [
   },
   {
     id: "saintvincent-owia-salt-pond-nature-v2",
+    parent: "VC",
     type: "landmark",
     name: { de: "Owia Salzteich", hu: "Owia Sóstó", ro: "Iazul Sărat Owia", en: "Owia Salt Pond" },
     coords: [-61.13, 13.37],
@@ -163,6 +168,7 @@ export const saintvincentNatureV2: POI[] = [
   },
   {
     id: "saintvincent-mesopotamia-valley-nature-v2",
+    parent: "VC",
     type: "valley",
     name: { de: "Mesopotamia Valley", hu: "Mezopotámia-völgy", ro: "Valea Mesopotamia", en: "Mesopotamia Valley" },
     coords: [-61.17, 13.17],
@@ -195,6 +201,7 @@ export const saintvincentNatureV2: POI[] = [
   },
   {
     id: "saintvincent-botanical-gardens-nature-v2",
+    parent: "VC",
     type: "park",
     name: { de: "Botanischer Garten", hu: "Botanikus Kert", ro: "Grădina Botanică", en: "Botanical Gardens" },
     coords: [-61.23, 13.16],
@@ -227,6 +234,7 @@ export const saintvincentNatureV2: POI[] = [
   },
   {
     id: "saintvincent-mount-st-andrew-nature-v2",
+    parent: "VC",
     type: "peak",
     name: { de: "Mount St. Andrew", hu: "Szent András-hegy", ro: "Muntele St. Andrew", en: "Mount St. Andrew" },
     coords: [-61.23, 13.18],
@@ -259,6 +267,7 @@ export const saintvincentNatureV2: POI[] = [
   },
   {
     id: "saintvincent-grand-bonhomme-nature-v2",
+    parent: "VC",
     type: "peak",
     name: { de: "Grand Bonhomme", hu: "Grand Bonhomme", ro: "Grand Bonhomme", en: "Grand Bonhomme" },
     coords: [-61.16, 13.21],
@@ -291,6 +300,7 @@ export const saintvincentNatureV2: POI[] = [
   },
   {
     id: "saintvincent-kings-hill-forest-reserve-nature-v2",
+    parent: "VC",
     type: "forest",
     name: { de: "King's Hill Waldreservat", hu: "King's Hill Erdőrezervátum", ro: "Rezervația Forestieră King's Hill", en: "King's Hill Forest Reserve" },
     coords: [-61.15, 13.16],
@@ -323,6 +333,7 @@ export const saintvincentNatureV2: POI[] = [
   },
   {
     id: "saintvincent-wallilabou-bay-nature-v2",
+    parent: "VC",
     type: "landmark",
     name: { de: "Wallilabou Bay", hu: "Wallilabou-öböl", ro: "Golful Wallilabou", en: "Wallilabou Bay" },
     coords: [-61.27, 13.25],
@@ -355,6 +366,7 @@ export const saintvincentNatureV2: POI[] = [
   },
   {
     id: "saintvincent-cumberland-bay-nature-v2",
+    parent: "VC",
     type: "landmark",
     name: { de: "Cumberland Bay", hu: "Cumberland-öböl", ro: "Golful Cumberland", en: "Cumberland Bay" },
     coords: [-61.27, 13.27],
@@ -387,6 +399,7 @@ export const saintvincentNatureV2: POI[] = [
   },
   {
     id: "saintvincent-byahaut-bay-nature-v2",
+    parent: "VC",
     type: "landmark",
     name: { de: "Byahaut Bay", hu: "Byahaut-öböl", ro: "Golful Byahaut", en: "Byahaut Bay" },
     coords: [-61.28, 13.21],
@@ -419,6 +432,7 @@ export const saintvincentNatureV2: POI[] = [
   },
   {
     id: "saintvincent-buccament-valley-nature-v2",
+    parent: "VC",
     type: "valley",
     name: { de: "Buccament Valley", hu: "Buccament-völgy", ro: "Valea Buccament", en: "Buccament Valley" },
     coords: [-61.25, 13.2],
@@ -451,6 +465,7 @@ export const saintvincentNatureV2: POI[] = [
   },
   {
     id: "saintvincent-richmond-peak-nature-v2",
+    parent: "VC",
     type: "peak",
     name: { de: "Richmond Peak", hu: "Richmond-csúcs", ro: "Vârful Richmond", en: "Richmond Peak" },
     coords: [-61.17, 13.3],
@@ -483,6 +498,7 @@ export const saintvincentNatureV2: POI[] = [
   },
   {
     id: "saintvincent-colonarie-river-nature-v2",
+    parent: "VC",
     type: "river",
     name: { de: "Colonarie River", hu: "Colonarie-folyó", ro: "Râul Colonarie", en: "Colonarie River" },
     coords: [-61.12, 13.24],
@@ -515,6 +531,7 @@ export const saintvincentNatureV2: POI[] = [
   },
   {
     id: "saintvincent-layou-river-nature-v2",
+    parent: "VC",
     type: "river",
     name: { de: "Layou River", hu: "Layou-folyó", ro: "Râul Layou", en: "Layou River" },
     coords: [-61.27, 13.2],
@@ -547,6 +564,7 @@ export const saintvincentNatureV2: POI[] = [
   },
   {
     id: "saintvincent-indian-bay-beach-nature-v2",
+    parent: "VC",
     type: "landmark",
     name: { de: "Indian Bay Beach", hu: "Indian Bay-strand", ro: "Plaja Indian Bay", en: "Indian Bay Beach" },
     coords: [-61.21, 13.13],

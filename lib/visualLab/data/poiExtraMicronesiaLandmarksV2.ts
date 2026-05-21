@@ -3,6 +3,7 @@ export const micronesiaLandmarksV2: POI[] = [
 
   {
     id: "micronesia-german-bell-tower-landmarks-v2",
+    parent: "FM",
     type: "tower",
     name: { de: "Deutscher Glockenturm", hu: "Német harangtorony", ro: "Turnul clopotniță german", en: "German Bell Tower" },
     coords: [158.2104, 6.9634],
@@ -35,6 +36,7 @@ export const micronesiaLandmarksV2: POI[] = [
   },
   {
     id: "micronesia-tunnuk-catholic-church-landmarks-v2",
+    parent: "FM",
     type: "church",
     name: { de: "Katholische Kirche von Tunnuk", hu: "Tunnuk katolikus templom", ro: "Biserica Catolică din Tunnuk", en: "Tunnuk Catholic Church" },
     coords: [151.8486, 7.4528],
@@ -67,6 +69,7 @@ export const micronesiaLandmarksV2: POI[] = [
   },
   {
     id: "micronesia-xavier-high-school-landmarks-v2",
+    parent: "FM",
     type: "landmark",
     name: { de: "Xavier High School", hu: "Xavier Középiskola", ro: "Liceul Xavier", en: "Xavier High School" },
     coords: [151.8833, 7.4333],
@@ -99,6 +102,7 @@ export const micronesiaLandmarksV2: POI[] = [
   },
   {
     id: "micronesia-kimiuo-aisek-memorial-museum-landmarks-v2",
+    parent: "FM",
     type: "museum",
     name: { de: "Kimiuo Aisek Gedenkmuseum", hu: "Kimiuo Aisek Emlékmúzeum", ro: "Muzeul Memorial Kimiuo Aisek", en: "Kimiuo Aisek Memorial Museum" },
     coords: [151.8422, 7.4444],
@@ -131,6 +135,7 @@ export const micronesiaLandmarksV2: POI[] = [
   },
   {
     id: "micronesia-yap-living-history-museum-landmarks-v2",
+    parent: "FM",
     type: "museum",
     name: { de: "Lebendiges Geschichtsmuseum Yap", hu: "Yapi Élő Történelmi Múzeum", ro: "Muzeul de Istorie Vie din Yap", en: "Yap Living History Museum" },
     coords: [138.125, 9.5167],
@@ -163,6 +168,7 @@ export const micronesiaLandmarksV2: POI[] = [
   },
   {
     id: "micronesia-japanese-lighthouse-chuuk-landmarks-v2",
+    parent: "FM",
     type: "tower",
     name: { de: "Japanischer Leuchtturm Chuuk", hu: "Japán világítótorony Chuuk", ro: "Farul japonez din Chuuk", en: "Japanese Lighthouse Chuuk" },
     coords: [151.9111, 7.4611],
@@ -195,6 +201,7 @@ export const micronesiaLandmarksV2: POI[] = [
   },
   {
     id: "micronesia-pohnpei-state-capitol-landmarks-v2",
+    parent: "FM",
     type: "landmark",
     name: { de: "Pohnpei Staatskapitol", hu: "Pohnpei Állami Kapitólium", ro: "Capitoliul Statului Pohnpei", en: "Pohnpei State Capitol" },
     coords: [158.1667, 6.9167],
@@ -227,6 +234,7 @@ export const micronesiaLandmarksV2: POI[] = [
   },
   {
     id: "micronesia-fsm-national-capitol-landmarks-v2",
+    parent: "FM",
     type: "landmark",
     name: { de: "Nationales Kapitol der Föderierten Staaten von Mikronesien", hu: "Mikronézia Nemzeti Kapitóliuma", ro: "Capitoliul Național al Statelor Federate ale Microneziei", en: "FSM National Capitol" },
     coords: [158.161, 6.918],
@@ -259,6 +267,7 @@ export const micronesiaLandmarksV2: POI[] = [
   },
   {
     id: "micronesia-st-marys-catholic-church-landmarks-v2",
+    parent: "FM",
     type: "church",
     name: { de: "St. Marien Katholische Kirche", hu: "Szent Mária katolikus templom", ro: "Biserica Catolică Sfânta Maria", en: "St. Mary's Catholic Church" },
     coords: [138.1222, 9.5111],
@@ -291,6 +300,7 @@ export const micronesiaLandmarksV2: POI[] = [
   },
   {
     id: "micronesia-japanese-communications-center-landmarks-v2",
+    parent: "FM",
     type: "ruins",
     name: { de: "Japanisches Kommunikationszentrum Ruinen", hu: "Japán hírközlési központ romok", ro: "Ruinele centrului de comunicații japonez", en: "Japanese Communications Center Ruins" },
     coords: [151.875, 7.4417],
@@ -323,6 +333,7 @@ export const micronesiaLandmarksV2: POI[] = [
   },
   {
     id: "micronesia-balabat-stone-money-bank-landmarks-v2",
+    parent: "FM",
     type: "landmark",
     name: { de: "Steingeldbank von Balabat", hu: "Balabati kőpénz-pad", ro: "Banca de bani de piatră din Balabat", en: "Balabat Stone Money Bank" },
     coords: [138.1167, 9.5083],

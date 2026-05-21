@@ -3,6 +3,7 @@ export const micronesiaCitiesV2: POI[] = [
 
   {
     id: "micronesia-palikir-cities-v2",
+    parent: "FM",
     type: "capital",
     name: { de: "Palikir", hu: "Palikir", ro: "Palikir", en: "Palikir" },
     coords: [158.1611, 6.9248],
@@ -35,6 +36,7 @@ export const micronesiaCitiesV2: POI[] = [
   },
   {
     id: "micronesia-weno-cities-v2",
+    parent: "FM",
     type: "city",
     name: { de: "Weno", hu: "Weno", ro: "Weno", en: "Weno" },
     coords: [151.8469, 7.4491],
@@ -67,6 +69,7 @@ export const micronesiaCitiesV2: POI[] = [
   },
   {
     id: "micronesia-kolonia-cities-v2",
+    parent: "FM",
     type: "city",
     name: { de: "Kolonia", hu: "Kolonia", ro: "Kolonia", en: "Kolonia" },
     coords: [158.2037, 6.964],
@@ -99,6 +102,7 @@ export const micronesiaCitiesV2: POI[] = [
   },
   {
     id: "micronesia-colonia-yap-cities-v2",
+    parent: "FM",
     type: "town",
     name: { de: "Colonia", hu: "Colonia", ro: "Colonia", en: "Colonia" },
     coords: [138.1271, 9.5164],
@@ -131,6 +135,7 @@ export const micronesiaCitiesV2: POI[] = [
   },
   {
     id: "micronesia-tofol-cities-v2",
+    parent: "FM",
     type: "capital",
     name: { de: "Tofol", hu: "Tofol", ro: "Tofol", en: "Tofol" },
     coords: [163.0039, 5.3314],
@@ -163,6 +168,7 @@ export const micronesiaCitiesV2: POI[] = [
   },
   {
     id: "micronesia-lelu-cities-v2",
+    parent: "FM",
     type: "ruins",
     name: { de: "Lelu", hu: "Lelu", ro: "Lelu", en: "Lelu" },
     coords: [163.0167, 5.3333],
@@ -195,6 +201,7 @@ export const micronesiaCitiesV2: POI[] = [
   },
   {
     id: "micronesia-tol-cities-v2",
+    parent: "FM",
     type: "town",
     name: { de: "Tol", hu: "Tol", ro: "Tol", en: "Tol" },
     coords: [151.621, 7.345],
@@ -227,6 +234,7 @@ export const micronesiaCitiesV2: POI[] = [
   },
   {
     id: "micronesia-fefan-cities-v2",
+    parent: "FM",
     type: "town",
     name: { de: "Fefan", hu: "Fefan", ro: "Fefan", en: "Fefan" },
     coords: [151.8333, 7.35],
@@ -259,6 +267,7 @@ export const micronesiaCitiesV2: POI[] = [
   },
   {
     id: "micronesia-tonoas-cities-v2",
+    parent: "FM",
     type: "town",
     name: { de: "Tonoas", hu: "Tonoas", ro: "Tonoas", en: "Tonoas" },
     coords: [151.8833, 7.3833],
@@ -291,6 +300,7 @@ export const micronesiaCitiesV2: POI[] = [
   },
   {
     id: "micronesia-nett-cities-v2",
+    parent: "FM",
     type: "town",
     name: { de: "Nett", hu: "Nett", ro: "Nett", en: "Nett" },
     coords: [158.2167, 6.95],
@@ -323,6 +333,7 @@ export const micronesiaCitiesV2: POI[] = [
   },
   {
     id: "micronesia-kitti-cities-v2",
+    parent: "FM",
     type: "town",
     name: { de: "Kitti", hu: "Kitti", ro: "Kitti", en: "Kitti" },
     coords: [158.1667, 6.8333],
@@ -355,6 +366,7 @@ export const micronesiaCitiesV2: POI[] = [
   },
   {
     id: "micronesia-madolenihmw-cities-v2",
+    parent: "FM",
     type: "town",
     name: { de: "Madolenihmw", hu: "Madolenihmw", ro: "Madolenihmw", en: "Madolenihmw" },
     coords: [158.3, 6.85],
@@ -387,6 +399,7 @@ export const micronesiaCitiesV2: POI[] = [
   },
   {
     id: "micronesia-sokehs-cities-v2",
+    parent: "FM",
     type: "town",
     name: { de: "Sokehs", hu: "Sokehs", ro: "Sokehs", en: "Sokehs" },
     coords: [158.1833, 6.9667],
@@ -419,6 +432,7 @@ export const micronesiaCitiesV2: POI[] = [
   },
   {
     id: "micronesia-tafunsak-cities-v2",
+    parent: "FM",
     type: "town",
     name: { de: "Tafunsak", hu: "Tafunsak", ro: "Tafunsak", en: "Tafunsak" },
     coords: [162.9833, 5.3667],

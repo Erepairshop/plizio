@@ -3,6 +3,7 @@ export const bahrainReliefV2: POI[] = [
 
   {
     id: "bahrain-jabal-al-dukhan-relief-v2",
+    parent: "BH",
     type: "peak",
     name: { de: "Jabal al-Dukhan", hu: "Jabal al-Dukhan", ro: "Jabal al-Dukhan", en: "Jabal al-Dukhan" },
     coords: [50.5516, 26.0375],
@@ -47,6 +48,7 @@ export const bahrainReliefV2: POI[] = [
   },
   {
     id: "bahrain-sakhrat-al-khabiyah-relief-v2",
+    parent: "BH",
     type: "landmark",
     name: { de: "Sakhrat al-Khabiyah", hu: "Sakhrat al-Khabiyah", ro: "Sakhrat al-Khabiyah", en: "Sakhrat al-Khabiyah" },
     coords: [50.541, 26.052],
@@ -91,6 +93,7 @@ export const bahrainReliefV2: POI[] = [
   },
   {
     id: "bahrain-al-wasmiya-relief-v2",
+    parent: "BH",
     type: "landmark",
     name: { de: "Al-Wasmiya", hu: "Al-Wasmiya", ro: "Al-Wasmiya", en: "Al-Wasmiya" },
     coords: [50.552, 25.905],
@@ -135,6 +138,7 @@ export const bahrainReliefV2: POI[] = [
   },
   {
     id: "bahrain-ras-al-barr-relief-v2",
+    parent: "BH",
     type: "landmark",
     name: { de: "Ras al-Barr", hu: "Ras al-Barr", ro: "Ras al-Barr", en: "Ras al-Barr" },
     coords: [50.575, 25.795],
@@ -178,6 +182,7 @@ export const bahrainReliefV2: POI[] = [
   },
   {
     id: "bahrain-ras-hayyan-relief-v2",
+    parent: "BH",
     type: "landmark",
     name: { de: "Ras Hayyan", hu: "Ras Hayyan", ro: "Ras Hayyan", en: "Ras Hayyan" },
     coords: [50.622, 26.071],
@@ -222,6 +227,7 @@ export const bahrainReliefV2: POI[] = [
   },
   {
     id: "bahrain-ras-al-jazayir-relief-v2",
+    parent: "BH",
     type: "landmark",
     name: { de: "Ras al-Jazayir", hu: "Ras al-Jazayir", ro: "Ras al-Jazayir", en: "Ras al-Jazayir" },
     coords: [50.452, 25.991],
@@ -265,6 +271,7 @@ export const bahrainReliefV2: POI[] = [
   },
   {
     id: "bahrain-umm-al-nassan-relief-v2",
+    parent: "BH",
     type: "landmark",
     name: { de: "Umm al-Nassan", hu: "Umm al-Nassan", ro: "Umm al-Nassan", en: "Umm al-Nassan" },
     coords: [50.405, 26.142],
@@ -309,6 +316,7 @@ export const bahrainReliefV2: POI[] = [
   },
   {
     id: "bahrain-jidda-relief-v2",
+    parent: "BH",
     type: "landmark",
     name: { de: "Jidda", hu: "Jidda", ro: "Jidda", en: "Jidda" },
     coords: [50.412, 26.185],
@@ -353,6 +361,7 @@ export const bahrainReliefV2: POI[] = [
   },
   {
     id: "bahrain-hawar-relief-v2",
+    parent: "BH",
     type: "landmark",
     name: { de: "Hawar", hu: "Hawar", ro: "Hawar", en: "Hawar" },
     coords: [50.752, 25.655],
@@ -397,6 +406,7 @@ export const bahrainReliefV2: POI[] = [
   },
   {
     id: "bahrain-suwad-al-janubiyah-relief-v2",
+    parent: "BH",
     type: "landmark",
     name: { de: "Suwad al-Janubiyah", hu: "Suwad al-Janubiyah", ro: "Suwad al-Janubiyah", en: "Suwad al-Janubiyah" },
     coords: [50.815, 25.632],
@@ -441,6 +451,7 @@ export const bahrainReliefV2: POI[] = [
   },
   {
     id: "bahrain-suwad-al-shamaliyah-relief-v2",
+    parent: "BH",
     type: "landmark",
     name: { de: "Suwad al-Shamaliyah", hu: "Suwad al-Shamaliyah", ro: "Suwad al-Shamaliyah", en: "Suwad al-Shamaliyah" },
     coords: [50.805, 25.682],
@@ -485,6 +496,7 @@ export const bahrainReliefV2: POI[] = [
   },
   {
     id: "bahrain-rubud-al-sharqiyah-relief-v2",
+    parent: "BH",
     type: "landmark",
     name: { de: "Rubud al-Sharqiyah", hu: "Rubud al-Sharqiyah", ro: "Rubud al-Sharqiyah", en: "Rubud al-Sharqiyah" },
     coords: [50.785, 25.751],
@@ -529,6 +541,7 @@ export const bahrainReliefV2: POI[] = [
   },
   {
     id: "bahrain-rubud-al-gharbiyah-relief-v2",
+    parent: "BH",
     type: "landmark",
     name: { de: "Rubud al-Gharbiyah", hu: "Rubud al-Gharbiyah", ro: "Rubud al-Gharbiyah", en: "Rubud al-Gharbiyah" },
     coords: [50.745, 25.742],
@@ -573,6 +586,7 @@ export const bahrainReliefV2: POI[] = [
   },
   {
     id: "bahrain-ajirah-relief-v2",
+    parent: "BH",
     type: "landmark",
     name: { de: "Ajirah", hu: "Ajirah", ro: "Ajirah", en: "Ajirah" },
     coords: [50.772, 25.735],
@@ -617,6 +631,7 @@ export const bahrainReliefV2: POI[] = [
   },
   {
     id: "bahrain-fasht-al-azm-relief-v2",
+    parent: "BH",
     type: "landmark",
     name: { de: "Fasht al-Azm", hu: "Fasht al-Azm", ro: "Fasht al-Azm", en: "Fasht al-Azm" },
     coords: [50.755, 26.155],
@@ -660,6 +675,7 @@ export const bahrainReliefV2: POI[] = [
   },
   {
     id: "bahrain-jaradah-relief-v2",
+    parent: "BH",
     type: "landmark",
     name: { de: "Jaradah", hu: "Jaradah", ro: "Jaradah", en: "Jaradah" },
     coords: [50.802, 26.182],
@@ -703,6 +719,7 @@ export const bahrainReliefV2: POI[] = [
   },
   {
     id: "bahrain-al-hamalah-relief-v2",
+    parent: "BH",
     type: "landmark",
     name: { de: "Al-Hamalah", hu: "Al-Hamalah", ro: "Al-Hamalah", en: "Al-Hamalah" },
     coords: [50.485, 26.152],
@@ -747,6 +764,7 @@ export const bahrainReliefV2: POI[] = [
   },
   {
     id: "bahrain-ras-abu-jarjur-relief-v2",
+    parent: "BH",
     type: "landmark",
     name: { de: "Ras Abu Jarjur", hu: "Ras Abu Jarjur", ro: "Ras Abu Jarjur", en: "Ras Abu Jarjur" },
     coords: [50.625, 26.082],
@@ -790,6 +808,7 @@ export const bahrainReliefV2: POI[] = [
   },
   {
     id: "bahrain-ras-mumalah-relief-v2",
+    parent: "BH",
     type: "landmark",
     name: { de: "Ras Mumalah", hu: "Ras Mumalah", ro: "Ras Mumalah", en: "Ras Mumalah" },
     coords: [50.605, 25.852],
@@ -834,6 +853,7 @@ export const bahrainReliefV2: POI[] = [
   },
   {
     id: "bahrain-ras-al-qurayn-relief-v2",
+    parent: "BH",
     type: "landmark",
     name: { de: "Ras al-Qurayn", hu: "Ras al-Qurayn", ro: "Ras al-Qurayn", en: "Ras al-Qurayn" },
     coords: [50.595, 25.822],
@@ -878,6 +898,7 @@ export const bahrainReliefV2: POI[] = [
   },
   {
     id: "bahrain-umm-jidr-relief-v2",
+    parent: "BH",
     type: "landmark",
     name: { de: "Umm Jidr", hu: "Umm Jidr", ro: "Umm Jidr", en: "Umm Jidr" },
     coords: [50.515, 26.105],
@@ -922,6 +943,7 @@ export const bahrainReliefV2: POI[] = [
   },
   {
     id: "bahrain-al-markh-relief-v2",
+    parent: "BH",
     type: "landmark",
     name: { de: "Al-Markh", hu: "Al-Markh", ro: "Al-Markh", en: "Al-Markh" },
     coords: [50.475, 26.115],
@@ -966,6 +988,7 @@ export const bahrainReliefV2: POI[] = [
   },
   {
     id: "bahrain-wadi-al-rammam-relief-v2",
+    parent: "BH",
     type: "valley",
     name: { de: "Wadi al-Rammam", hu: "Wadi al-Rammam", ro: "Wadi al-Rammam", en: "Wadi al-Rammam" },
     coords: [50.562, 26.045],
@@ -1009,6 +1032,7 @@ export const bahrainReliefV2: POI[] = [
   },
   {
     id: "bahrain-ras-al-ghat-relief-v2",
+    parent: "BH",
     type: "landmark",
     name: { de: "Ras Al-Ghat", hu: "Ras Al-Ghat", ro: "Ras Al-Ghat", en: "Ras Al-Ghat" },
     coords: [50.605, 25.955],
@@ -1052,6 +1076,7 @@ export const bahrainReliefV2: POI[] = [
   },
   {
     id: "bahrain-al-jasayrah-relief-v2",
+    parent: "BH",
     type: "landmark",
     name: { de: "Al-Jasayrah", hu: "Al-Jasayrah", ro: "Al-Jasayrah", en: "Al-Jasayrah" },
     coords: [50.585, 25.855],
@@ -1096,6 +1121,7 @@ export const bahrainReliefV2: POI[] = [
   },
   {
     id: "bahrain-jazirat-mashtan-relief-v2",
+    parent: "BH",
     type: "landmark",
     name: { de: "Jazirat Mashtan", hu: "Jazirat Mashtan", ro: "Jazirat Mashtan", en: "Jazirat Mashtan" },
     coords: [50.665, 26.115],
@@ -1140,6 +1166,7 @@ export const bahrainReliefV2: POI[] = [
   },
   {
     id: "bahrain-al-hajiyat-relief-v2",
+    parent: "BH",
     type: "landmark",
     name: { de: "Al-Hajiyat", hu: "Al-Hajiyat", ro: "Al-Hajiyat", en: "Al-Hajiyat" },
     coords: [50.585, 26.125],

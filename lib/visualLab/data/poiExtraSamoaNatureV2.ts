@@ -3,6 +3,7 @@ export const samoaNatureV2: POI[] = [
 
   {
     id: "samoa-lake-lanotoo-nature-v2",
+    parent: "WS",
     type: "lake",
     name: { de: "Lanoto'o-See", hu: "Lanoto'o-tó", ro: "Lacul Lanoto'o", en: "Lake Lanoto'o" },
     coords: [-171.834, -13.916],
@@ -35,6 +36,7 @@ export const samoaNatureV2: POI[] = [
   },
   {
     id: "samoa-tosua-ocean-trench-nature-v2",
+    parent: "WS",
     type: "wildlife",
     name: { de: "To-Sua Ocean Trench", hu: "To-Sua Ocean Trench", ro: "To-Sua Ocean Trench", en: "To-Sua Ocean Trench" },
     coords: [-171.715, -14.044],
@@ -67,6 +69,7 @@ export const samoaNatureV2: POI[] = [
   },
   {
     id: "samoa-mt-matavanu-crater-nature-v2",
+    parent: "WS",
     type: "peak",
     name: { de: "Matavanu-Krater", hu: "Matavanu-kráter", ro: "Craterul Matavanu", en: "Matavanu Crater" },
     coords: [-172.366, -13.533],
@@ -99,6 +102,7 @@ export const samoaNatureV2: POI[] = [
   },
   {
     id: "samoa-sopoaga-falls-nature-v2",
+    parent: "WS",
     type: "river",
     name: { de: "Sopoaga-Wasserfall", hu: "Sopoaga-vízesés", ro: "Cascada Sopoaga", en: "Sopoaga Falls" },
     coords: [-171.602, -14.011],
@@ -131,6 +135,7 @@ export const samoaNatureV2: POI[] = [
   },
   {
     id: "samoa-fuipisia-falls-nature-v2",
+    parent: "WS",
     type: "river",
     name: { de: "Fuipisia-Wasserfall", hu: "Fuipisia-vízesés", ro: "Cascada Fuipisia", en: "Fuipisia Falls" },
     coords: [-171.589, -13.998],
@@ -163,6 +168,7 @@ export const samoaNatureV2: POI[] = [
   },
   {
     id: "samoa-papaseea-sliding-rocks-nature-v2",
+    parent: "WS",
     type: "river",
     name: { de: "Papase'ea Sliding Rocks", hu: "Papase'ea csúszósziklák", ro: "Stâncile Papase'ea", en: "Papase'ea Sliding Rocks" },
     coords: [-171.792, -13.874],
@@ -195,6 +201,7 @@ export const samoaNatureV2: POI[] = [
   },
   {
     id: "samoa-mt-vaea-nature-v2",
+    parent: "WS",
     type: "peak",
     name: { de: "Mount Vaea", hu: "Mount Vaea", ro: "Muntele Vaea", en: "Mount Vaea" },
     coords: [-171.775, -13.864],
@@ -227,6 +234,7 @@ export const samoaNatureV2: POI[] = [
   },
   {
     id: "samoa-lalomanu-beach-nature-v2",
+    parent: "WS",
     type: "wildlife",
     name: { de: "Lalomanu-Strand", hu: "Lalomanu-part", ro: "Plaja Lalomanu", en: "Lalomanu Beach" },
     coords: [-171.442, -14.045],
@@ -259,6 +267,7 @@ export const samoaNatureV2: POI[] = [
   },
   {
     id: "samoa-o-le-pupu-pue-national-park-nature-v2",
+    parent: "WS",
     type: "park",
     name: { de: "O Le Pupu-Pu'e Nationalpark", hu: "O Le Pupu-Pu'e Nemzeti Park", ro: "Parcul Național O Le Pupu-Pu'e", en: "O Le Pupu-Pu'e National Park" },
     coords: [-171.733, -14.0],
@@ -291,6 +300,7 @@ export const samoaNatureV2: POI[] = [
   },
   {
     id: "samoa-nuutele-island-nature-v2",
+    parent: "WS",
     type: "wildlife",
     name: { de: "Nu'utele", hu: "Nu'utele-sziget", ro: "Insula Nu'utele", en: "Nu'utele Island" },
     coords: [-171.422, -14.063],
@@ -323,6 +333,7 @@ export const samoaNatureV2: POI[] = [
   },
   {
     id: "samoa-nuulua-island-nature-v2",
+    parent: "WS",
     type: "wildlife",
     name: { de: "Nu'ulua", hu: "Nu'ulua-sziget", ro: "Insula Nu'ulua", en: "Nu'ulua Island" },
     coords: [-171.411, -14.074],
@@ -355,6 +366,7 @@ export const samoaNatureV2: POI[] = [
   },
   {
     id: "samoa-namua-island-nature-v2",
+    parent: "WS",
     type: "wildlife",
     name: { de: "Namua", hu: "Namua-sziget", ro: "Insula Namua", en: "Namua Island" },
     coords: [-171.415, -14.02],
@@ -387,6 +399,7 @@ export const samoaNatureV2: POI[] = [
   },
   {
     id: "samoa-fanuatapu-island-nature-v2",
+    parent: "WS",
     type: "wildlife",
     name: { de: "Fanuatapu", hu: "Fanuatapu-sziget", ro: "Insula Fanuatapu", en: "Fanuatapu Island" },
     coords: [-171.402, -14.012],
@@ -419,6 +432,7 @@ export const samoaNatureV2: POI[] = [
   },
   {
     id: "samoa-cape-mulinuu-nature-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Kap Mulinu'u", hu: "Mulinu'u-fok", ro: "Capul Mulinu'u", en: "Cape Mulinu'u" },
     coords: [-172.798, -13.511],
@@ -451,6 +465,7 @@ export const samoaNatureV2: POI[] = [
   },
   {
     id: "samoa-tafua-crater-nature-v2",
+    parent: "WS",
     type: "peak",
     name: { de: "Tafua-Krater", hu: "Tafua-kráter", ro: "Craterul Tafua", en: "Tafua Crater" },
     coords: [-172.253, -13.785],
@@ -483,6 +498,7 @@ export const samoaNatureV2: POI[] = [
   },
   {
     id: "samoa-peapea-cave-nature-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Pe'ape'a-Höhle", hu: "Pe'ape'a-barlang", ro: "Peștera Pe'ape'a", en: "Pe'ape'a Cave" },
     coords: [-171.715, -13.985],
@@ -515,6 +531,7 @@ export const samoaNatureV2: POI[] = [
   },
   {
     id: "samoa-nuusafee-island-nature-v2",
+    parent: "WS",
     type: "wildlife",
     name: { de: "Nu'usafe'e", hu: "Nu'usafe'e-sziget", ro: "Insula Nu'usafe'e", en: "Nu'usafe'e Island" },
     coords: [-171.688, -14.045],
@@ -547,6 +564,7 @@ export const samoaNatureV2: POI[] = [
   },
   {
     id: "samoa-cape-taputapu-nature-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Kap Taputapu", hu: "Taputapu-fok", ro: "Capul Taputapu", en: "Cape Taputapu" },
     coords: [-172.015, -13.871],
@@ -579,6 +597,7 @@ export const samoaNatureV2: POI[] = [
   },
   {
     id: "samoa-manono-island-nature-v2",
+    parent: "WS",
     type: "wildlife",
     name: { de: "Manono", hu: "Manono-sziget", ro: "Insula Manono", en: "Manono Island" },
     coords: [-172.106, -13.844],
@@ -611,6 +630,7 @@ export const samoaNatureV2: POI[] = [
   },
   {
     id: "samoa-mt-fito-nature-v2",
+    parent: "WS",
     type: "peak",
     name: { de: "Mount Fito", hu: "Mount Fito", ro: "Muntele Fito", en: "Mount Fito" },
     coords: [-171.689, -13.931],
@@ -643,6 +663,7 @@ export const samoaNatureV2: POI[] = [
   },
   {
     id: "samoa-paia-dwarfs-cave-nature-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Zwergenhöhle von Paia", hu: "Paia törpebarlang", ro: "Peștera Piticilor Paia", en: "Paia Dwarfs Cave" },
     coords: [-172.421, -13.498],

@@ -3,6 +3,7 @@ export const kiribatiLifeV2: POI[] = [
 
   {
     id: "kiribati-phoenix-islands-life-v2",
+    parent: "KI",
     type: "wildlife",
     name: { de: "Phoenix Islands Protected Area", hu: "Phoenix-szigetek Természetvédelmi Terület", ro: "Zona Protejată a Insulelor Phoenix", en: "Phoenix Islands Protected Area" },
     coords: [-172.5, -3.75],
@@ -35,6 +36,7 @@ export const kiribatiLifeV2: POI[] = [
   },
   {
     id: "kiribati-kiritimati-bird-sanctuary-life-v2",
+    parent: "KI",
     type: "wildlife",
     name: { de: "Kiritimati Vogelschutzgebiet", hu: "Kiritimati madárrezervátum", ro: "Rezervația de păsări Kiritimati", en: "Kiritimati Bird Sanctuary" },
     coords: [-157.4, 1.88],
@@ -67,6 +69,7 @@ export const kiribatiLifeV2: POI[] = [
   },
   {
     id: "kiribati-mckean-island-life-v2",
+    parent: "KI",
     type: "wildlife",
     name: { de: "McKean Island Schutzgebiet", hu: "McKean-szigeti rezervátum", ro: "Rezervația Insulei McKean", en: "McKean Island Sanctuary" },
     coords: [-174.12, -3.59],
@@ -99,6 +102,7 @@ export const kiribatiLifeV2: POI[] = [
   },
   {
     id: "kiribati-enderbury-island-life-v2",
+    parent: "KI",
     type: "wildlife",
     name: { de: "Enderbury Island Naturreservat", hu: "Enderbury-szigeti természetvédelmi terület", ro: "Rezervația Naturală Insula Enderbury", en: "Enderbury Island Nature Reserve" },
     coords: [-171.08, -3.14],
@@ -131,6 +135,7 @@ export const kiribatiLifeV2: POI[] = [
   },
   {
     id: "kiribati-nikumaroro-island-life-v2",
+    parent: "KI",
     type: "wildlife",
     name: { de: "Nikumaroro Atoll Park", hu: "Nikumaroro-atoll park", ro: "Parcul Atolului Nikumaroro", en: "Nikumaroro Island Park" },
     coords: [-174.52, -4.67],
@@ -163,6 +168,7 @@ export const kiribatiLifeV2: POI[] = [
   },
   {
     id: "kiribati-orona-atoll-life-v2",
+    parent: "KI",
     type: "wildlife",
     name: { de: "Orona Atoll Reservat", hu: "Orona-atoll rezervátum", ro: "Rezervația Atolului Orona", en: "Orona Atoll Reserve" },
     coords: [-172.18, -4.51],
@@ -195,6 +201,7 @@ export const kiribatiLifeV2: POI[] = [
   },
   {
     id: "kiribati-manra-island-life-v2",
+    parent: "KI",
     type: "wildlife",
     name: { de: "Manra Island Schutzgebiet", hu: "Manra-szigeti rezervátum", ro: "Rezervația Insulei Manra", en: "Manra Island Sanctuary" },
     coords: [-171.24, -4.45],
@@ -227,6 +234,7 @@ export const kiribatiLifeV2: POI[] = [
   },
   {
     id: "kiribati-birnie-island-life-v2",
+    parent: "KI",
     type: "wildlife",
     name: { de: "Birnie Island Vogelschutzgebiet", hu: "Birnie-szigeti madárrezervátum", ro: "Sanctuarul de păsări din Insula Birnie", en: "Birnie Island Bird Sanctuary" },
     coords: [-171.52, -3.58],
@@ -259,6 +267,7 @@ export const kiribatiLifeV2: POI[] = [
   },
   {
     id: "kiribati-rawaki-island-life-v2",
+    parent: "KI",
     type: "wildlife",
     name: { de: "Rawaki Island Naturreservat", hu: "Rawaki-szigeti természetvédelmi terület", ro: "Rezervația Naturală Insula Rawaki", en: "Rawaki Island Nature Reserve" },
     coords: [-170.71, -3.72],
@@ -291,6 +300,7 @@ export const kiribatiLifeV2: POI[] = [
   },
   {
     id: "kiribati-kanton-atoll-lagoon-life-v2",
+    parent: "KI",
     type: "wildlife",
     name: { de: "Kanton Atoll Lagune", hu: "Kanton-atoll lagúna", ro: "Laguna Atolului Kanton", en: "Kanton Atoll Lagoon" },
     coords: [-171.67, -2.81],
@@ -323,6 +333,7 @@ export const kiribatiLifeV2: POI[] = [
   },
   {
     id: "kiribati-millennium-island-life-v2",
+    parent: "KI",
     type: "wildlife",
     name: { de: "Millennium Atoll", hu: "Millennium-atoll", ro: "Atolul Millennium", en: "Millennium Island" },
     coords: [-150.21, -9.95],
@@ -355,6 +366,7 @@ export const kiribatiLifeV2: POI[] = [
   },
   {
     id: "kiribati-vostok-island-life-v2",
+    parent: "KI",
     type: "wildlife",
     name: { de: "Vostok Island Reservat", hu: "Vosztok-szigeti rezervátum", ro: "Rezervația Insulei Vostok", en: "Vostok Island Reserve" },
     coords: [-152.38, -10.1],
@@ -387,6 +399,7 @@ export const kiribatiLifeV2: POI[] = [
   },
   {
     id: "kiribati-flint-island-life-v2",
+    parent: "KI",
     type: "wildlife",
     name: { de: "Flint Island Habitat", hu: "Flint-szigeti élőhely", ro: "Habitatul Insulei Flint", en: "Flint Island Habitat" },
     coords: [-151.82, -11.43],
@@ -419,6 +432,7 @@ export const kiribatiLifeV2: POI[] = [
   },
   {
     id: "kiribati-butaritari-wetlands-life-v2",
+    parent: "KI",
     type: "wildlife",
     name: { de: "Butaritari Mangrovensümpfe", hu: "Butaritari mangrovemocsarak", ro: "Mlaștinile de Mangrove Butaritari", en: "Butaritari Wetlands" },
     coords: [172.82, 3.16],
@@ -451,6 +465,7 @@ export const kiribatiLifeV2: POI[] = [
   },
   {
     id: "kiribati-abaokoro-wetlands-life-v2",
+    parent: "KI",
     type: "wildlife",
     name: { de: "Abaokoro Naturschutzgebiet", hu: "Abaokoro természetvédelmi terület", ro: "Rezervația Naturală Abaokoro", en: "Abaokoro Wetlands" },
     coords: [173.0, 1.48],

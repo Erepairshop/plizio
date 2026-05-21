@@ -3,6 +3,7 @@ export const grenadaCitiesV2: POI[] = [
 
   {
     id: "grenada-st-georges-cities-v2",
+    parent: "GD",
     type: "capital",
     name: { de: "St. George’s", hu: "St. George’s", ro: "St. George’s", en: "St. George's" },
     coords: [-61.7522, 12.0529],
@@ -47,6 +48,7 @@ export const grenadaCitiesV2: POI[] = [
   },
   {
     id: "grenada-grenville-cities-v2",
+    parent: "GD",
     type: "town",
     name: { de: "Grenville", hu: "Grenville", ro: "Grenville", en: "Grenville" },
     coords: [-61.6247, 12.1225],
@@ -91,6 +93,7 @@ export const grenadaCitiesV2: POI[] = [
   },
   {
     id: "grenada-gouyave-cities-v2",
+    parent: "GD",
     type: "town",
     name: { de: "Gouyave", hu: "Gouyave", ro: "Gouyave", en: "Gouyave" },
     coords: [-61.7303, 12.1642],
@@ -135,6 +138,7 @@ export const grenadaCitiesV2: POI[] = [
   },
   {
     id: "grenada-sauteurs-cities-v2",
+    parent: "GD",
     type: "town",
     name: { de: "Sauteurs", hu: "Sauteurs", ro: "Sauteurs", en: "Sauteurs" },
     coords: [-61.6392, 12.2181],
@@ -179,6 +183,7 @@ export const grenadaCitiesV2: POI[] = [
   },
   {
     id: "grenada-hillsborough-cities-v2",
+    parent: "GD",
     type: "town",
     name: { de: "Hillsborough", hu: "Hillsborough", ro: "Hillsborough", en: "Hillsborough" },
     coords: [-61.4558, 12.4831],
@@ -223,6 +228,7 @@ export const grenadaCitiesV2: POI[] = [
   },
   {
     id: "grenada-saint-davids-cities-v2",
+    parent: "GD",
     type: "village",
     name: { de: "Saint David’s", hu: "Saint David’s", ro: "Saint David’s", en: "Saint David's" },
     coords: [-61.6833, 12.0333],
@@ -267,6 +273,7 @@ export const grenadaCitiesV2: POI[] = [
   },
   {
     id: "grenada-grand-anse-cities-v2",
+    parent: "GD",
     type: "town",
     name: { de: "Grand Anse", hu: "Grand Anse", ro: "Grand Anse", en: "Grand Anse" },
     coords: [-61.7631, 12.0258],
@@ -310,6 +317,7 @@ export const grenadaCitiesV2: POI[] = [
   },
   {
     id: "grenada-marquis-cities-v2",
+    parent: "GD",
     type: "village",
     name: { de: "Marquis", hu: "Marquis", ro: "Marquis", en: "Marquis" },
     coords: [-61.6214, 12.0942],
@@ -354,6 +362,7 @@ export const grenadaCitiesV2: POI[] = [
   },
   {
     id: "grenada-calivigny-cities-v2",
+    parent: "GD",
     type: "village",
     name: { de: "Calivigny", hu: "Calivigny", ro: "Calivigny", en: "Calivigny" },
     coords: [-61.7258, 12.0033],
@@ -398,6 +407,7 @@ export const grenadaCitiesV2: POI[] = [
   },
   {
     id: "grenada-lance-aux-epines-cities-v2",
+    parent: "GD",
     type: "village",
     name: { de: "Lance aux Epines", hu: "Lance aux Epines", ro: "Lance aux Epines", en: "Lance aux Epines" },
     coords: [-61.7583, 12.0014],
@@ -441,6 +451,7 @@ export const grenadaCitiesV2: POI[] = [
   },
   {
     id: "grenada-crochu-cities-v2",
+    parent: "GD",
     type: "village",
     name: { de: "Crochu", hu: "Crochu", ro: "Crochu", en: "Crochu" },
     coords: [-61.6481, 12.0531],
@@ -484,6 +495,7 @@ export const grenadaCitiesV2: POI[] = [
   },
   {
     id: "grenada-tivoli-cities-v2",
+    parent: "GD",
     type: "village",
     name: { de: "Tivoli", hu: "Tivoli", ro: "Tivoli", en: "Tivoli" },
     coords: [-61.6217, 12.1703],
@@ -528,6 +540,7 @@ export const grenadaCitiesV2: POI[] = [
   },
   {
     id: "grenada-harvey-vale-cities-v2",
+    parent: "GD",
     type: "village",
     name: { de: "Harvey Vale", hu: "Harvey Vale", ro: "Harvey Vale", en: "Harvey Vale" },
     coords: [-61.4742, 12.4497],

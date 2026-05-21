@@ -3,6 +3,7 @@ export const samoaLifeV2: POI[] = [
 
   {
     id: "samoa-o-le-pupu-pue-national-park-life-v2",
+    parent: "WS",
     type: "park",
     name: { de: "O Le Pupu-Pu'e Nationalpark", hu: "O Le Pupu-Pu'e Nemzeti Park", ro: "Parcul Național O Le Pupu-Pu'e", en: "O Le Pupu-Pu'e National Park" },
     coords: [-171.7334, -14.0012],
@@ -35,6 +36,7 @@ export const samoaLifeV2: POI[] = [
   },
   {
     id: "samoa-afu-aau-waterfalls-life-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Afu Aau Wasserfälle", hu: "Afu Aau-vízesés", ro: "Cascada Afu Aau", en: "Afu Aau Waterfalls" },
     coords: [-172.2751, -13.7832],
@@ -67,6 +69,7 @@ export const samoaLifeV2: POI[] = [
   },
   {
     id: "samoa-palolo-deep-marine-reserve-life-v2",
+    parent: "WS",
     type: "wildlife",
     name: { de: "Palolo Deep Meeresreservat", hu: "Palolo Deep Tengeri Rezervátum", ro: "Rezervația Marină Palolo Deep", en: "Palolo Deep Marine Reserve" },
     coords: [-171.7612, -13.8225],
@@ -99,6 +102,7 @@ export const samoaLifeV2: POI[] = [
   },
   {
     id: "samoa-falealupo-rainforest-preserve-life-v2",
+    parent: "WS",
     type: "forest",
     name: { de: "Falealupo Regenwald-Reservat", hu: "Falealupo Esőerdő Rezervátum", ro: "Rezervația de Pădure Tropicală Falealupo", en: "Falealupo Rainforest Preserve" },
     coords: [-172.7815, -13.5124],
@@ -131,6 +135,7 @@ export const samoaLifeV2: POI[] = [
   },
   {
     id: "samoa-lake-lanotoo-national-park-life-v2",
+    parent: "WS",
     type: "lake",
     name: { de: "Lake Lanoto'o Nationalpark", hu: "Lake Lanoto'o Nemzeti Park", ro: "Parcul Național Lacul Lanoto'o", en: "Lake Lanoto'o National Park" },
     coords: [-171.8325, -13.9142],
@@ -163,6 +168,7 @@ export const samoaLifeV2: POI[] = [
   },
   {
     id: "samoa-mount-matavanu-crater-life-v2",
+    parent: "WS",
     type: "peak",
     name: { de: "Mount Matavanu Krater", hu: "Mount Matavanu kráter", ro: "Craterul Muntelui Matavanu", en: "Mount Matavanu Crater" },
     coords: [-172.3924, -13.5415],
@@ -195,6 +201,7 @@ export const samoaLifeV2: POI[] = [
   },
   {
     id: "samoa-togitogiga-waterfall-life-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Togitogiga Wasserfall", hu: "Togitogiga-vízesés", ro: "Cascada Togitogiga", en: "Togitogiga Waterfall" },
     coords: [-171.7412, -14.0125],
@@ -227,6 +234,7 @@ export const samoaLifeV2: POI[] = [
   },
   {
     id: "samoa-fuipisia-waterfall-life-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Fuipisia Wasserfall", hu: "Fuipisia-vízesés", ro: "Cascada Fuipisia", en: "Fuipisia Waterfall" },
     coords: [-171.5815, -13.9824],
@@ -259,6 +267,7 @@ export const samoaLifeV2: POI[] = [
   },
   {
     id: "samoa-sopoaga-waterfall-life-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Sopoaga Wasserfall", hu: "Sopoaga-vízesés", ro: "Cascada Sopoaga", en: "Sopoaga Waterfall" },
     coords: [-171.5832, -13.9754],
@@ -291,6 +300,7 @@ export const samoaLifeV2: POI[] = [
   },
   {
     id: "samoa-papapapaitai-falls-life-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Papapapaitai Wasserfälle", hu: "Papapapaitai-vízesés", ro: "Cascada Papapapaitai", en: "Papapapaitai Falls" },
     coords: [-171.8024, -13.9412],
@@ -323,6 +333,7 @@ export const samoaLifeV2: POI[] = [
   },
   {
     id: "samoa-tafua-peninsula-rainforest-preserve-life-v2",
+    parent: "WS",
     type: "forest",
     name: { de: "Tafua Halbinsel Reservat", hu: "Tafua-félsziget Rezervátum", ro: "Rezervația Peninsulei Tafua", en: "Tafua Peninsula Rainforest Preserve" },
     coords: [-172.2312, -13.7725],
@@ -355,6 +366,7 @@ export const samoaLifeV2: POI[] = [
   },
   {
     id: "samoa-savaia-marine-protected-area-life-v2",
+    parent: "WS",
     type: "wildlife",
     name: { de: "Savaia Meerschutzgebiet", hu: "Savaia Tengeri Védett Terület", ro: "Zona Marină Protejată Savaia", en: "Savaia Marine Protected Area" },
     coords: [-171.9314, -13.9425],
@@ -387,6 +399,7 @@ export const samoaLifeV2: POI[] = [
   },
   {
     id: "samoa-peapea-cave-life-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Pe'ape'a Höhle", hu: "Pe'ape'a-barlang", ro: "Peștera Pe'ape'a", en: "Pe'ape'a Cave" },
     coords: [-171.7124, -13.9912],
@@ -419,6 +432,7 @@ export const samoaLifeV2: POI[] = [
   },
   {
     id: "samoa-mount-silisili-life-v2",
+    parent: "WS",
     type: "peak",
     name: { de: "Mount Silisili", hu: "Mount Silisili", ro: "Muntele Silisili", en: "Mount Silisili" },
     coords: [-172.4834, -13.6125],
@@ -451,6 +465,7 @@ export const samoaLifeV2: POI[] = [
   },
   {
     id: "samoa-namua-island-life-v2",
+    parent: "WS",
     type: "wildlife",
     name: { de: "Insel Namu'a", hu: "Namu'a-sziget", ro: "Insula Namu'a", en: "Namu'a Island" },
     coords: [-171.4124, -14.0215],
@@ -483,6 +498,7 @@ export const samoaLifeV2: POI[] = [
   },
   {
     id: "samoa-nuulopa-bird-sanctuary-life-v2",
+    parent: "WS",
     type: "wildlife",
     name: { de: "Nu'ulopa Vogelschutzgebiet", hu: "Nu'ulopa Madárrezervátum", ro: "Rezervația de Păsări Nu'ulopa", en: "Nu'ulopa Bird Sanctuary" },
     coords: [-172.1312, -13.8424],
@@ -515,6 +531,7 @@ export const samoaLifeV2: POI[] = [
   },
   {
     id: "samoa-saleaula-lava-fields-life-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Saleaula Lavafelder", hu: "Saleaula lávamezők", ro: "Câmpurile de Lavă Saleaula", en: "Saleaula Lava Fields" },
     coords: [-172.3421, -13.4412],
@@ -547,6 +564,7 @@ export const samoaLifeV2: POI[] = [
   },
   {
     id: "samoa-vaipu-swamp-forest-life-v2",
+    parent: "WS",
     type: "forest",
     name: { de: "Vaipu Sumpfwald", hu: "Vaipu-mocsárerdő", ro: "Pădurea de Mlaștină Vaipu", en: "Vaipu Swamp Forest" },
     coords: [-171.5312, -13.9925],
@@ -579,6 +597,7 @@ export const samoaLifeV2: POI[] = [
   },
   {
     id: "samoa-mount-vaea-nature-reserve-life-v2",
+    parent: "WS",
     type: "forest",
     name: { de: "Mount Vaea Naturschutzgebiet", hu: "Mount Vaea Természetvédelmi Terület", ro: "Rezervația Naturală Muntele Vaea", en: "Mount Vaea Nature Reserve" },
     coords: [-171.7745, -13.8612],
@@ -611,6 +630,7 @@ export const samoaLifeV2: POI[] = [
   },
   {
     id: "samoa-aganoa-beach-life-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Aganoa Strand", hu: "Aganoa-part", ro: "Plaja Aganoa", en: "Aganoa Beach" },
     coords: [-172.3115, -13.7712],
@@ -643,6 +663,7 @@ export const samoaLifeV2: POI[] = [
   },
   {
     id: "samoa-saanapu-mangrove-life-v2",
+    parent: "WS",
     type: "forest",
     name: { de: "Sa'anapu Mangrovenschutzgebiet", hu: "Sa'anapu Mangrove-védett Terület", ro: "Rezervația de Mangrove Sa'anapu", en: "Sa'anapu Mangrove Conservation Area" },
     coords: [-171.8834, -13.9812],
@@ -675,6 +696,7 @@ export const samoaLifeV2: POI[] = [
   },
   {
     id: "samoa-satoalepai-turtle-sanctuary-life-v2",
+    parent: "WS",
     type: "wildlife",
     name: { de: "Sato'alepai Schildkröten-Schutzgebiet", hu: "Sato'alepai Teknősrezervátum", ro: "Sanctuarul de Țestoase Sato'alepai", en: "Sato'alepai Turtle Sanctuary" },
     coords: [-172.3312, -13.4512],
@@ -707,6 +729,7 @@ export const samoaLifeV2: POI[] = [
   },
   {
     id: "samoa-apolima-island-life-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Insel Apolima", hu: "Apolima-sziget", ro: "Insula Apolima", en: "Apolima Island" },
     coords: [-172.1534, -13.8125],
@@ -739,6 +762,7 @@ export const samoaLifeV2: POI[] = [
   },
   {
     id: "samoa-manono-island-reefs-life-v2",
+    parent: "WS",
     type: "wildlife",
     name: { de: "Insel Manono Riffe", hu: "Manono-szigeti zátonyok", ro: "Recifele Insulei Manono", en: "Manono Island Reefs" },
     coords: [-172.1124, -13.8415],
@@ -771,6 +795,7 @@ export const samoaLifeV2: POI[] = [
   },
   {
     id: "samoa-cape-mulinuu-marine-life-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Kap Mulinu'u Meeresleben", hu: "Mulinu'u-fok tengeri élővilág", ro: "Viața Marină de la Capul Mulinu'u", en: "Cape Mulinu'u Marine Life" },
     coords: [-172.8124, -13.5125],
@@ -803,6 +828,7 @@ export const samoaLifeV2: POI[] = [
   },
   {
     id: "samoa-mu-pagoa-waterfall-life-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Mu Pagoa Wasserfall", hu: "Mu Pagoa-vízesés", ro: "Cascada Mu Pagoa", en: "Mu Pagoa Waterfall" },
     coords: [-172.3415, -13.7742],
@@ -835,6 +861,7 @@ export const samoaLifeV2: POI[] = [
   },
   {
     id: "samoa-vaisigano-river-valley-life-v2",
+    parent: "WS",
     type: "valley",
     name: { de: "Vaisigano Flusstal", hu: "Vaisigano-folyó völgye", ro: "Valea Râului Vaisigano", en: "Vaisigano River Valley" },
     coords: [-171.7512, -13.8812],
@@ -867,6 +894,7 @@ export const samoaLifeV2: POI[] = [
   },
   {
     id: "samoa-lalomanu-marine-reserve-life-v2",
+    parent: "WS",
     type: "wildlife",
     name: { de: "Lalomanu Meeresreservat", hu: "Lalomanu Tengeri Rezervátum", ro: "Rezervația Marină Lalomanu", en: "Lalomanu Marine Reserve" },
     coords: [-171.4432, -14.0412],

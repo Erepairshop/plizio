@@ -3,6 +3,7 @@ export const liberiaCitiesV2: POI[] = [
 
   {
     id: "liberia-monrovia-cities-v2",
+    parent: "LR",
     type: "capital",
     name: { de: "Monrovia", hu: "Monrovia", ro: "Monrovia", en: "Monrovia" },
     coords: [-10.8079, 6.3156],
@@ -35,6 +36,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-gbanga-cities-v2",
+    parent: "LR",
     type: "city",
     name: { de: "Gbarnga", hu: "Gbarnga", ro: "Gbarnga", en: "Gbarnga" },
     coords: [-9.4633, 6.9967],
@@ -67,6 +69,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-buchanan-cities-v2",
+    parent: "LR",
     type: "port",
     name: { de: "Buchanan", hu: "Buchanan", ro: "Buchanan", en: "Buchanan" },
     coords: [-10.0425, 5.8775],
@@ -99,6 +102,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-kakata-cities-v2",
+    parent: "LR",
     type: "city",
     name: { de: "Kakata", hu: "Kakata", ro: "Kakata", en: "Kakata" },
     coords: [-10.35, 6.5167],
@@ -131,6 +135,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-zwedru-cities-v2",
+    parent: "LR",
     type: "city",
     name: { de: "Zwedru", hu: "Zwedru", ro: "Zwedru", en: "Zwedru" },
     coords: [-8.1333, 6.0667],
@@ -163,6 +168,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-harper-cities-v2",
+    parent: "LR",
     type: "city",
     name: { de: "Harper", hu: "Harper", ro: "Harper", en: "Harper" },
     coords: [-7.7167, 4.375],
@@ -195,6 +201,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-voinjama-cities-v2",
+    parent: "LR",
     type: "city",
     name: { de: "Voinjama", hu: "Voinjama", ro: "Voinjama", en: "Voinjama" },
     coords: [-9.75, 8.4167],
@@ -227,6 +234,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-greenville-cities-v2",
+    parent: "LR",
     type: "city",
     name: { de: "Greenville", hu: "Greenville", ro: "Greenville", en: "Greenville" },
     coords: [-9.0333, 5.0167],
@@ -259,6 +267,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-tubmanburg-cities-v2",
+    parent: "LR",
     type: "city",
     name: { de: "Tubmanburg", hu: "Tubmanburg", ro: "Tubmanburg", en: "Tubmanburg" },
     coords: [-10.8167, 6.8667],
@@ -291,6 +300,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-celtown-cities-v2",
+    parent: "LR",
     type: "town",
     name: { de: "Celtown", hu: "Celtown", ro: "Celtown", en: "Celtown" },
     coords: [-10.45, 6.55],
@@ -323,6 +333,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-pleebo-cities-v2",
+    parent: "LR",
     type: "city",
     name: { de: "Pleebo", hu: "Pleebo", ro: "Pleebo", en: "Pleebo" },
     coords: [-7.6667, 4.6333],
@@ -355,6 +366,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-bentol-cities-v2",
+    parent: "LR",
     type: "city",
     name: { de: "Bentol", hu: "Bentol", ro: "Bentol", en: "Bentol" },
     coords: [-10.5833, 6.35],
@@ -387,6 +399,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-cain-cities-v2",
+    parent: "LR",
     type: "town",
     name: { de: "Cain", hu: "Cain", ro: "Cain", en: "Cain" },
     coords: [-10.2, 6.45],
@@ -419,6 +432,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-sanniquellie-cities-v2",
+    parent: "LR",
     type: "city",
     name: { de: "Sanniquellie", hu: "Sanniquellie", ro: "Sanniquellie", en: "Sanniquellie" },
     coords: [-8.7, 7.3667],
@@ -451,6 +465,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-cestos-cities-v2",
+    parent: "LR",
     type: "city",
     name: { de: "Cestos City", hu: "Cestos City", ro: "Cestos City", en: "Cestos City" },
     coords: [-9.5833, 5.4833],
@@ -483,6 +498,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-barclayville-cities-v2",
+    parent: "LR",
     type: "city",
     name: { de: "Barclayville", hu: "Barclayville", ro: "Barclayville", en: "Barclayville" },
     coords: [-8.2333, 4.65],
@@ -515,6 +531,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-bopolu-cities-v2",
+    parent: "LR",
     type: "city",
     name: { de: "Bopolu", hu: "Bopolu", ro: "Bopolu", en: "Bopolu" },
     coords: [-10.4833, 7.0833],
@@ -547,6 +564,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-salala-cities-v2",
+    parent: "LR",
     type: "city",
     name: { de: "Salala", hu: "Salala", ro: "Salala", en: "Salala" },
     coords: [-10.1, 6.8167],
@@ -579,6 +597,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-careysburg-cities-v2",
+    parent: "LR",
     type: "city",
     name: { de: "Careysburg", hu: "Careysburg", ro: "Careysburg", en: "Careysburg" },
     coords: [-10.55, 6.2667],
@@ -611,6 +630,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-marshall-cities-v2",
+    parent: "LR",
     type: "city",
     name: { de: "Marshall", hu: "Marshall", ro: "Marshall", en: "Marshall" },
     coords: [-10.3667, 6.1333],
@@ -643,6 +663,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-robertsport-cities-v2",
+    parent: "LR",
     type: "city",
     name: { de: "Robertsport", hu: "Robertsport", ro: "Robertsport", en: "Robertsport" },
     coords: [-11.3667, 6.75],
@@ -675,6 +696,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-totota-cities-v2",
+    parent: "LR",
     type: "city",
     name: { de: "Totota", hu: "Totota", ro: "Totota", en: "Totota" },
     coords: [-10.15, 6.8333],
@@ -707,6 +729,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-paynesville-cities-v2",
+    parent: "LR",
     type: "city",
     name: { de: "Paynesville", hu: "Paynesville", ro: "Paynesville", en: "Paynesville" },
     coords: [-10.7167, 6.2667],
@@ -739,6 +762,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-gable-cities-v2",
+    parent: "LR",
     type: "town",
     name: { de: "Gable", hu: "Gable", ro: "Gable", en: "Gable" },
     coords: [-10.3, 6.5],
@@ -771,6 +795,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-ganta-cities-v2",
+    parent: "LR",
     type: "city",
     name: { de: "Ganta", hu: "Ganta", ro: "Ganta", en: "Ganta" },
     coords: [-8.75, 7.2333],
@@ -803,6 +828,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-jua-cities-v2",
+    parent: "LR",
     type: "town",
     name: { de: "Jua", hu: "Jua", ro: "Jua", en: "Jua" },
     coords: [-9.3, 6.2],
@@ -835,6 +861,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-weala-cities-v2",
+    parent: "LR",
     type: "city",
     name: { de: "Weala", hu: "Weala", ro: "Weala", en: "Weala" },
     coords: [-10.2167, 6.6667],
@@ -867,6 +894,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-damballah-cities-v2",
+    parent: "LR",
     type: "town",
     name: { de: "Damballah", hu: "Damballah", ro: "Damballah", en: "Damballah" },
     coords: [-10.5, 7.3],
@@ -899,6 +927,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-tappita-cities-v2",
+    parent: "LR",
     type: "city",
     name: { de: "Tappita", hu: "Tappita", ro: "Tappita", en: "Tappita" },
     coords: [-8.45, 6.2],
@@ -931,6 +960,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-kakada-cities-v2",
+    parent: "LR",
     type: "town",
     name: { de: "Kakada", hu: "Kakada", ro: "Kakada", en: "Kakada" },
     coords: [-10.35, 6.4],
@@ -963,6 +993,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-blay-cities-v2",
+    parent: "LR",
     type: "town",
     name: { de: "Blay", hu: "Blay", ro: "Blay", en: "Blay" },
     coords: [-8.5, 5.75],
@@ -995,6 +1026,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-plee-cities-v2",
+    parent: "LR",
     type: "town",
     name: { de: "Plee", hu: "Plee", ro: "Plee", en: "Plee" },
     coords: [-7.9, 5.8],
@@ -1027,6 +1059,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-nyen-cities-v2",
+    parent: "LR",
     type: "town",
     name: { de: "Nyen", hu: "Nyen", ro: "Nyen", en: "Nyen" },
     coords: [-8.8, 5.1],
@@ -1059,6 +1092,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-zota-cities-v2",
+    parent: "LR",
     type: "town",
     name: { de: "Zota", hu: "Zota", ro: "Zota", en: "Zota" },
     coords: [-9.3, 7.1],
@@ -1091,6 +1125,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-konia-cities-v2",
+    parent: "LR",
     type: "town",
     name: { de: "Konia", hu: "Konia", ro: "Konia", en: "Konia" },
     coords: [-9.6, 8.05],
@@ -1123,6 +1158,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-foya-cities-v2",
+    parent: "LR",
     type: "city",
     name: { de: "Foya", hu: "Foya", ro: "Foya", en: "Foya" },
     coords: [-10.15, 8.2833],
@@ -1155,6 +1191,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-karloke-cities-v2",
+    parent: "LR",
     type: "town",
     name: { de: "Karloke", hu: "Karloke", ro: "Karloke", en: "Karloke" },
     coords: [-7.7, 4.75],
@@ -1187,6 +1224,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-bensonville-cities-v2",
+    parent: "LR",
     type: "city",
     name: { de: "Bensonville", hu: "Bensonville", ro: "Bensonville", en: "Bensonville" },
     coords: [-10.6, 6.3333],
@@ -1219,6 +1257,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-grand-cess-cities-v2",
+    parent: "LR",
     type: "town",
     name: { de: "Grand Cess", hu: "Grand Cess", ro: "Grand Cess", en: "Grand Cess" },
     coords: [-8.2167, 4.6833],
@@ -1251,6 +1290,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-gbo-cities-v2",
+    parent: "LR",
     type: "town",
     name: { de: "Gbo", hu: "Gbo", ro: "Gbo", en: "Gbo" },
     coords: [-8.7, 5.95],
@@ -1283,6 +1323,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-bolahun-cities-v2",
+    parent: "LR",
     type: "town",
     name: { de: "Bolahun", hu: "Bolahun", ro: "Bolahun", en: "Bolahun" },
     coords: [-9.8, 8.35],
@@ -1315,6 +1356,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-gbanga-v2-cities-v2",
+    parent: "LR",
     type: "town",
     name: { de: "Gbanga", hu: "Gbanga", ro: "Gbanga", en: "Gbanga" },
     coords: [-9.45, 6.95],
@@ -1347,6 +1389,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-yeala-cities-v2",
+    parent: "LR",
     type: "town",
     name: { de: "Yeala", hu: "Yeala", ro: "Yeala", en: "Yeala" },
     coords: [-9.9, 8.15],
@@ -1379,6 +1422,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-zorzor-cities-v2",
+    parent: "LR",
     type: "city",
     name: { de: "Zorzor", hu: "Zorzor", ro: "Zorzor", en: "Zorzor" },
     coords: [-9.4167, 7.7833],
@@ -1411,6 +1455,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-kpeaple-cities-v2",
+    parent: "LR",
     type: "town",
     name: { de: "Kpeaple", hu: "Kpeaple", ro: "Kpeaple", en: "Kpeaple" },
     coords: [-8.6, 6.35],
@@ -1443,6 +1488,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-dougbo-cities-v2",
+    parent: "LR",
     type: "town",
     name: { de: "Dougbo", hu: "Dougbo", ro: "Dougbo", en: "Dougbo" },
     coords: [-7.8, 5.4],
@@ -1475,6 +1521,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-gbehyi-cities-v2",
+    parent: "LR",
     type: "town",
     name: { de: "Gbehyi", hu: "Gbehyi", ro: "Gbehyi", en: "Gbehyi" },
     coords: [-7.7, 5.5],
@@ -1507,6 +1554,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-nyen-v2-cities-v2",
+    parent: "LR",
     type: "town",
     name: { de: "Nyen Town", hu: "Nyen Town", ro: "Nyen Town", en: "Nyen Town" },
     coords: [-8.9, 5.2],
@@ -1539,6 +1587,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-kplokpa-cities-v2",
+    parent: "LR",
     type: "town",
     name: { de: "Kplokpa", hu: "Kplokpa", ro: "Kplokpa", en: "Kplokpa" },
     coords: [-10.8, 7.45],
@@ -1571,6 +1620,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-blon-cities-v2",
+    parent: "LR",
     type: "town",
     name: { de: "Blon", hu: "Blon", ro: "Blon", en: "Blon" },
     coords: [-8.2, 6.1],
@@ -1603,6 +1653,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-tutu-cities-v2",
+    parent: "LR",
     type: "town",
     name: { de: "Tutu", hu: "Tutu", ro: "Tutu", en: "Tutu" },
     coords: [-9.1, 5.9],
@@ -1635,6 +1686,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-gnar-cities-v2",
+    parent: "LR",
     type: "town",
     name: { de: "Gnar", hu: "Gnar", ro: "Gnar", en: "Gnar" },
     coords: [-8.3, 6.05],
@@ -1667,6 +1719,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-yila-cities-v2",
+    parent: "LR",
     type: "town",
     name: { de: "Yila", hu: "Yila", ro: "Yila", en: "Yila" },
     coords: [-9.8, 6.8],
@@ -1699,6 +1752,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-kpatua-cities-v2",
+    parent: "LR",
     type: "town",
     name: { de: "Kpatua", hu: "Kpatua", ro: "Kpatua", en: "Kpatua" },
     coords: [-9.9, 7.6],
@@ -1731,6 +1785,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-zleh-cities-v2",
+    parent: "LR",
     type: "town",
     name: { de: "Zleh", hu: "Zleh", ro: "Zleh", en: "Zleh" },
     coords: [-8.3, 5.9],
@@ -1763,6 +1818,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-gbe-cities-v2",
+    parent: "LR",
     type: "town",
     name: { de: "Gbe", hu: "Gbe", ro: "Gbe", en: "Gbe" },
     coords: [-7.5, 6.1],
@@ -1795,6 +1851,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-tule-cities-v2",
+    parent: "LR",
     type: "town",
     name: { de: "Tule", hu: "Tule", ro: "Tule", en: "Tule" },
     coords: [-9.9, 6.7],
@@ -1827,6 +1884,7 @@ export const liberiaCitiesV2: POI[] = [
   },
   {
     id: "liberia-kpar-cities-v2",
+    parent: "LR",
     type: "town",
     name: { de: "Kpar", hu: "Kpar", ro: "Kpar", en: "Kpar" },
     coords: [-9.2, 7.35],

@@ -3,6 +3,7 @@ export const grenadaReliefV2: POI[] = [
 
   {
     id: "grenada-mount-granby-relief-v2",
+    parent: "GD",
     type: "peak",
     name: { de: "Mount Granby", hu: "Mount Granby", ro: "Muntele Granby", en: "Mount Granby" },
     coords: [-61.7167, 12.1167],
@@ -47,6 +48,7 @@ export const grenadaReliefV2: POI[] = [
   },
   {
     id: "grenada-mount-qua-qua-relief-v2",
+    parent: "GD",
     type: "peak",
     name: { de: "Mount Qua Qua", hu: "Mount Qua Qua", ro: "Muntele Qua Qua", en: "Mount Qua Qua" },
     coords: [-61.6833, 12.1],
@@ -91,6 +93,7 @@ export const grenadaReliefV2: POI[] = [
   },
   {
     id: "grenada-fedons-camp-relief-v2",
+    parent: "GD",
     type: "peak",
     name: { de: "Fedon's Camp", hu: "Fedon's Camp", ro: "Tabăra lui Fedon", en: "Fedon's Camp" },
     coords: [-61.7, 12.1167],
@@ -135,6 +138,7 @@ export const grenadaReliefV2: POI[] = [
   },
   {
     id: "grenada-mount-lebanon-relief-v2",
+    parent: "GD",
     type: "peak",
     name: { de: "Mount Lebanon", hu: "Libanon-hegy", ro: "Muntele Liban", en: "Mount Lebanon" },
     coords: [-61.6833, 12.0833],
@@ -179,6 +183,7 @@ export const grenadaReliefV2: POI[] = [
   },
   {
     id: "grenada-high-north-relief-v2",
+    parent: "GD",
     type: "peak",
     name: { de: "High North", hu: "High North", ro: "High North", en: "High North" },
     coords: [-61.4333, 12.5],
@@ -223,6 +228,7 @@ export const grenadaReliefV2: POI[] = [
   },
   {
     id: "grenada-levera-hill-relief-v2",
+    parent: "GD",
     type: "peak",
     name: { de: "Levera Hill", hu: "Levera Hill", ro: "Dealul Levera", en: "Levera Hill" },
     coords: [-61.6167, 12.2222],
@@ -267,6 +273,7 @@ export const grenadaReliefV2: POI[] = [
   },
   {
     id: "grenada-south-east-mountain-relief-v2",
+    parent: "GD",
     type: "peak",
     name: { de: "South East Mountain", hu: "South East Mountain", ro: "Muntele South East", en: "South East Mountain" },
     coords: [-61.6833, 12.05],
@@ -311,6 +318,7 @@ export const grenadaReliefV2: POI[] = [
   },
   {
     id: "grenada-morne-fendue-relief-v2",
+    parent: "GD",
     type: "mountain",
     name: { de: "Morne Fendue", hu: "Morne Fendue", ro: "Morne Fendue", en: "Morne Fendue" },
     coords: [-61.6333, 12.2167],

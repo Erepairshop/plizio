@@ -3,6 +3,7 @@ export const barbadosLandmarksV2: POI[] = [
 
   {
     id: "barbados-parliament-buildings-landmarks-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Parlamentsgebäude von Barbados", hu: "Barbadosi Parlament", ro: "Clădirile Parlamentului din Barbados", en: "Barbados Parliament Buildings" },
     coords: [-59.6125, 13.0975],
@@ -46,6 +47,7 @@ export const barbadosLandmarksV2: POI[] = [
   },
   {
     id: "barbados-st-michaels-cathedral-landmarks-v2",
+    parent: "BB",
     type: "cathedral",
     name: { de: "St. Michael's Kathedrale", hu: "Szent Mihály-székesegyház", ro: "Catedrala Sfântul Mihail", en: "St. Michael's Cathedral" },
     coords: [-59.6111, 13.0978],
@@ -90,6 +92,7 @@ export const barbadosLandmarksV2: POI[] = [
   },
   {
     id: "barbados-st-johns-parish-church-landmarks-v2",
+    parent: "BB",
     type: "church",
     name: { de: "St. John's Pfarrkirche", hu: "Szent János-plébániatemplom", ro: "Biserica Parohială Sfântul Ioan", en: "St. John's Parish Church" },
     coords: [-59.4864, 13.1717],
@@ -133,6 +136,7 @@ export const barbadosLandmarksV2: POI[] = [
   },
   {
     id: "barbados-sam-lords-castle-landmarks-v2",
+    parent: "BB",
     type: "ruins",
     name: { de: "Sam Lord's Castle", hu: "Sam Lord-kastély", ro: "Castelul lui Sam Lord", en: "Sam Lord's Castle" },
     coords: [-59.4356, 13.1203],
@@ -177,6 +181,7 @@ export const barbadosLandmarksV2: POI[] = [
   },
   {
     id: "barbados-farley-hill-house-landmarks-v2",
+    parent: "BB",
     type: "ruins",
     name: { de: "Farley Hill Herrenhaus", hu: "Farley Hill-kúria", ro: "Conacul Farley Hill", en: "Farley Hill House" },
     coords: [-59.6017, 13.2558],
@@ -221,6 +226,7 @@ export const barbadosLandmarksV2: POI[] = [
   },
   {
     id: "barbados-st-anns-fort-landmarks-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "St. Ann's Fort", hu: "Szent Anna-erőd", ro: "Fortul Sfânta Ana", en: "St. Ann's Fort" },
     coords: [-59.6083, 13.08],
@@ -265,6 +271,7 @@ export const barbadosLandmarksV2: POI[] = [
   },
   {
     id: "barbados-kensington-oval-landmarks-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Kensington Oval", hu: "Kensington Oval", ro: "Kensington Oval", en: "Kensington Oval" },
     coords: [-59.6236, 13.1053],
@@ -308,6 +315,7 @@ export const barbadosLandmarksV2: POI[] = [
   },
   {
     id: "barbados-barbados-museum-and-historical-society-landmarks-v2",
+    parent: "BB",
     type: "museum",
     name: { de: "Barbados Museum", hu: "Barbadosi Múzeum", ro: "Muzeul din Barbados", en: "Barbados Museum & Historical Society" },
     coords: [-59.6042, 13.0811],
@@ -352,6 +360,7 @@ export const barbadosLandmarksV2: POI[] = [
   },
   {
     id: "barbados-nidhe-israel-museum-landmarks-v2",
+    parent: "BB",
     type: "museum",
     name: { de: "Nidhe Israel Museum", hu: "Nidhe Israel-múzeum", ro: "Muzeul Nidhe Israel", en: "Nidhe Israel Museum" },
     coords: [-59.6142, 13.1008],
@@ -396,6 +405,7 @@ export const barbadosLandmarksV2: POI[] = [
   },
   {
     id: "barbados-st-peters-parish-church-landmarks-v2",
+    parent: "BB",
     type: "church",
     name: { de: "St. Peter's Pfarrkirche", hu: "Szent Péter-plébániatemplom", ro: "Biserica Parohială Sfântul Petru", en: "St. Peter's Parish Church" },
     coords: [-59.6436, 13.2503],
@@ -440,6 +450,7 @@ export const barbadosLandmarksV2: POI[] = [
   },
   {
     id: "barbados-st-philips-parish-church-landmarks-v2",
+    parent: "BB",
     type: "church",
     name: { de: "St. Philip's Pfarrkirche", hu: "Szent Fülöp-plébániatemplom", ro: "Biserica Parohială Sfântul Filip", en: "St. Philip's Parish Church" },
     coords: [-59.4678, 13.1367],
@@ -484,6 +495,7 @@ export const barbadosLandmarksV2: POI[] = [
   },
   {
     id: "barbados-st-georges-parish-church-landmarks-v2",
+    parent: "BB",
     type: "church",
     name: { de: "St. George's Pfarrkirche", hu: "Szent György-plébániatemplom", ro: "Biserica Parohială Sfântul Gheorghe", en: "St. George's Parish Church" },
     coords: [-59.5372, 13.1353],
@@ -528,6 +540,7 @@ export const barbadosLandmarksV2: POI[] = [
   },
   {
     id: "barbados-st-josephs-parish-church-landmarks-v2",
+    parent: "BB",
     type: "church",
     name: { de: "St. Joseph's Pfarrkirche", hu: "Szent József-plébániatemplom", ro: "Biserica Parohială Sfântul Iosif", en: "St. Joseph's Parish Church" },
     coords: [-59.5314, 13.2047],
@@ -572,6 +585,7 @@ export const barbadosLandmarksV2: POI[] = [
   },
   {
     id: "barbados-st-lucys-parish-church-landmarks-v2",
+    parent: "BB",
     type: "church",
     name: { de: "St. Lucy's Pfarrkirche", hu: "Szent Lúcia-plébániatemplom", ro: "Biserica Parohială Sfânta Lucia", en: "St. Lucy's Parish Church" },
     coords: [-59.6311, 13.3031],
@@ -616,6 +630,7 @@ export const barbadosLandmarksV2: POI[] = [
   },
   {
     id: "barbados-st-andrews-parish-church-landmarks-v2",
+    parent: "BB",
     type: "church",
     name: { de: "St. Andrew's Pfarrkirche", hu: "Szent András-plébániatemplom", ro: "Biserica Parohială Sfântul Andrei", en: "St. Andrew's Parish Church" },
     coords: [-59.5714, 13.2547],
@@ -660,6 +675,7 @@ export const barbadosLandmarksV2: POI[] = [
   },
   {
     id: "barbados-national-heroes-square-landmarks-v2",
+    parent: "BB",
     type: "monument",
     name: { de: "Platz der Nationalhelden", hu: "Nemzeti Hősök tere", ro: "Piața Eroilor Naționali", en: "National Heroes Square" },
     coords: [-59.6128, 13.0969],
@@ -704,6 +720,7 @@ export const barbadosLandmarksV2: POI[] = [
   },
   {
     id: "barbados-wildey-house-landmarks-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Wildey House", hu: "Wildey-ház", ro: "Casa Wildey", en: "Wildey House" },
     coords: [-59.5856, 13.0967],
@@ -748,6 +765,7 @@ export const barbadosLandmarksV2: POI[] = [
   },
   {
     id: "barbados-ilaro-court-landmarks-v2",
+    parent: "BB",
     type: "palace",
     name: { de: "Ilaro Court", hu: "Ilaro Court", ro: "Ilaro Court", en: "Ilaro Court" },
     coords: [-59.5933, 13.0989],
@@ -792,6 +810,7 @@ export const barbadosLandmarksV2: POI[] = [
   },
   {
     id: "barbados-main-guard-house-landmarks-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Hauptwache (Main Guard)", hu: "Főőrség épülete", ro: "Casa Gărzii Principale", en: "Main Guard House" },
     coords: [-59.6067, 13.0814],
@@ -836,6 +855,7 @@ export const barbadosLandmarksV2: POI[] = [
   },
   {
     id: "barbados-needhams-point-lighthouse-landmarks-v2",
+    parent: "BB",
     type: "tower",
     name: { de: "Needhams Point Leuchtturm", hu: "Needhams Point-világítótorony", ro: "Farul Needhams Point", en: "Needhams Point Lighthouse" },
     coords: [-59.6111, 13.0783],
@@ -880,6 +900,7 @@ export const barbadosLandmarksV2: POI[] = [
   },
   {
     id: "barbados-drax-hall-plantation-landmarks-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Drax Hall Plantage", hu: "Drax Hall-ültetvény", ro: "Plantația Drax Hall", en: "Drax Hall Plantation" },
     coords: [-59.5161, 13.1378],
@@ -924,6 +945,7 @@ export const barbadosLandmarksV2: POI[] = [
   },
   {
     id: "barbados-highgate-signal-station-landmarks-v2",
+    parent: "BB",
     type: "tower",
     name: { de: "Highgate Signalstation", hu: "Highgate jelzőállomás", ro: "Stația de semnalizare Highgate", en: "Highgate Signal Station" },
     coords: [-59.5936, 13.0881],
@@ -968,6 +990,7 @@ export const barbadosLandmarksV2: POI[] = [
   },
   {
     id: "barbados-moncrieffe-signal-station-landmarks-v2",
+    parent: "BB",
     type: "tower",
     name: { de: "Moncrieffe Signalstation", hu: "Moncrieffe jelzőállomás", ro: "Stația de semnalizare Moncrieffe", en: "Moncrieffe Signal Station" },
     coords: [-59.4756, 13.1611],
@@ -1012,6 +1035,7 @@ export const barbadosLandmarksV2: POI[] = [
   },
   {
     id: "barbados-da-costa-building-landmarks-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Da Costa Gebäude", hu: "Da Costa-épület", ro: "Clădirea Da Costa", en: "Da Costa Building" },
     coords: [-59.6139, 13.0972],
@@ -1056,6 +1080,7 @@ export const barbadosLandmarksV2: POI[] = [
   },
   {
     id: "barbados-carnegie-free-library-landmarks-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Carnegie Bibliothek", hu: "Carnegie-könyvtár", ro: "Biblioteca Carnegie", en: "Carnegie Free Library" },
     coords: [-59.6131, 13.0997],
@@ -1100,6 +1125,7 @@ export const barbadosLandmarksV2: POI[] = [
   },
   {
     id: "barbados-queens-park-house-landmarks-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Queen's Park House", hu: "Queen's Park-ház", ro: "Casa Queen's Park", en: "Queen's Park House" },
     coords: [-59.6083, 13.1],
@@ -1144,6 +1170,7 @@ export const barbadosLandmarksV2: POI[] = [
   },
   {
     id: "barbados-mutual-life-assurance-society-building-landmarks-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Mutual Life Gebäude", hu: "Mutual Life-épület", ro: "Clădirea Mutual Life", en: "Barbados Mutual Life Assurance Society Building" },
     coords: [-59.6144, 13.0975],
@@ -1188,6 +1215,7 @@ export const barbadosLandmarksV2: POI[] = [
   },
   {
     id: "barbados-errol-barrow-statue-landmarks-v2",
+    parent: "BB",
     type: "monument",
     name: { de: "Errol Barrow Statue", hu: "Errol Barrow-szobor", ro: "Statuia lui Errol Barrow", en: "Errol Barrow Statue" },
     coords: [-59.6133, 13.0967],
@@ -1232,6 +1260,7 @@ export const barbadosLandmarksV2: POI[] = [
   },
   {
     id: "barbados-st-peter-lighthouse-landmarks-v2",
+    parent: "BB",
     type: "tower",
     name: { de: "St. Peter Leuchtturm", hu: "St. Peter-világítótorony", ro: "Farul St. Peter", en: "Speightstown Lighthouse" },
     coords: [-59.645, 13.25],
@@ -1276,6 +1305,7 @@ export const barbadosLandmarksV2: POI[] = [
   },
   {
     id: "barbados-bridgetown-jewish-cemetery-landmarks-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Jüdischer Friedhof Bridgetown", hu: "Bridgetowni zsidó temető", ro: "Cimitirul Evreiesc din Bridgetown", en: "Bridgetown Jewish Cemetery" },
     coords: [-59.6141, 13.1005],
@@ -1320,6 +1350,7 @@ export const barbadosLandmarksV2: POI[] = [
   },
   {
     id: "barbados-speightstown-esplanade-landmarks-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Speightstown Esplanade", hu: "Speightstown Esplanade", ro: "Esplanada Speightstown", en: "Speightstown Esplanade" },
     coords: [-59.6455, 13.2505],
@@ -1364,6 +1395,7 @@ export const barbadosLandmarksV2: POI[] = [
   },
   {
     id: "barbados-lord-nelson-statue-landmarks-v2",
+    parent: "BB",
     type: "monument",
     name: { de: "Lord Nelson Statue (Sockel)", hu: "Lord Nelson-szobor (talapzat)", ro: "Statuia lui Lord Nelson (soclu)", en: "Lord Nelson Statue (Pedestal)" },
     coords: [-59.6127, 13.0968],
@@ -1408,6 +1440,7 @@ export const barbadosLandmarksV2: POI[] = [
   },
   {
     id: "barbados-pelican-village-landmarks-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Pelican Village Kunsthandwerksdorf", hu: "Pelican Village kézműves falu", ro: "Satul de Artizanat Pelican Village", en: "Pelican Village Craft Centre" },
     coords: [-59.6214, 13.1025],

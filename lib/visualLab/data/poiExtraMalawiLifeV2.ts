@@ -3,6 +3,7 @@ export const malawiLifeV2: POI[] = [
 
   {
     id: "malawi-liwonde-national-park-life-v2",
+    parent: "MW",
     type: "park",
     name: { de: "Liwonde-Nationalpark", hu: "Liwonde Nemzeti Park", ro: "Parcul Național Liwonde", en: "Liwonde National Park" },
     coords: [35.2333, -15.0167],
@@ -35,6 +36,7 @@ export const malawiLifeV2: POI[] = [
   },
   {
     id: "malawi-nyika-national-park-life-v2",
+    parent: "MW",
     type: "park",
     name: { de: "Nyika-Nationalpark", hu: "Nyika Nemzeti Park", ro: "Parcul Național Nyika", en: "Nyika National Park" },
     coords: [33.85, -10.55],
@@ -67,6 +69,7 @@ export const malawiLifeV2: POI[] = [
   },
   {
     id: "malawi-kasungu-national-park-life-v2",
+    parent: "MW",
     type: "park",
     name: { de: "Kasungu-Nationalpark", hu: "Kasungu Nemzeti Park", ro: "Parcul Național Kasungu", en: "Kasungu National Park" },
     coords: [33.15, -12.85],
@@ -99,6 +102,7 @@ export const malawiLifeV2: POI[] = [
   },
   {
     id: "malawi-lengwe-national-park-life-v2",
+    parent: "MW",
     type: "park",
     name: { de: "Lengwe-Nationalpark", hu: "Lengwe Nemzeti Park", ro: "Parcul Național Lengwe", en: "Lengwe National Park" },
     coords: [34.75, -16.2333],
@@ -131,6 +135,7 @@ export const malawiLifeV2: POI[] = [
   },
   {
     id: "malawi-lake-malawi-national-park-life-v2",
+    parent: "MW",
     type: "park",
     name: { de: "Lake-Malawi-Nationalpark", hu: "Malawi-tó Nemzeti Park", ro: "Parcul Național Lacul Malawi", en: "Lake Malawi National Park" },
     coords: [34.8833, -14.0333],
@@ -163,6 +168,7 @@ export const malawiLifeV2: POI[] = [
   },
   {
     id: "malawi-majete-wildlife-reserve-life-v2",
+    parent: "MW",
     type: "wildlife",
     name: { de: "Majete-Wildreservat", hu: "Majete Vadvédelmi Terület", ro: "Rezervația Faunistică Majete", en: "Majete Wildlife Reserve" },
     coords: [34.75, -15.85],
@@ -195,6 +201,7 @@ export const malawiLifeV2: POI[] = [
   },
   {
     id: "malawi-mwabvi-wildlife-reserve-life-v2",
+    parent: "MW",
     type: "wildlife",
     name: { de: "Mwabvi-Wildreservat", hu: "Mwabvi Vadvédelmi Terület", ro: "Rezervația Faunistică Mwabvi", en: "Mwabvi Wildlife Reserve" },
     coords: [35.05, -16.65],
@@ -227,6 +234,7 @@ export const malawiLifeV2: POI[] = [
   },
   {
     id: "malawi-nkhotakota-wildlife-reserve-life-v2",
+    parent: "MW",
     type: "wildlife",
     name: { de: "Nkhotakota-Wildreservat", hu: "Nkhotakota Vadvédelmi Terület", ro: "Rezervația Faunistică Nkhotakota", en: "Nkhotakota Wildlife Reserve" },
     coords: [34.05, -12.9],
@@ -259,6 +267,7 @@ export const malawiLifeV2: POI[] = [
   },
   {
     id: "malawi-vwaza-marsh-wildlife-reserve-life-v2",
+    parent: "MW",
     type: "wildlife",
     name: { de: "Vwaza-Marsh-Wildreservat", hu: "Vwaza-mocsár Vadvédelmi Terület", ro: "Rezervația Vwaza Marsh", en: "Vwaza Marsh Wildlife Reserve" },
     coords: [33.45, -11.0],
@@ -291,6 +300,7 @@ export const malawiLifeV2: POI[] = [
   },
   {
     id: "malawi-lilongwe-wildlife-centre-life-v2",
+    parent: "MW",
     type: "wildlife",
     name: { de: "Lilongwe-Wildtierzentrum", hu: "Lilongwe Vadvédelmi Központ", ro: "Centrul Faunistic Lilongwe", en: "Lilongwe Wildlife Centre" },
     coords: [33.791, -13.978],
@@ -323,6 +333,7 @@ export const malawiLifeV2: POI[] = [
   },
   {
     id: "malawi-mulanje-mountain-forest-reserve-life-v2",
+    parent: "MW",
     type: "forest",
     name: { de: "Mulanje-Bergwaldreservat", hu: "Mulanje-hegyi Erdőrezervátum", ro: "Rezervația Forestieră Muntele Mulanje", en: "Mulanje Mountain Forest Reserve" },
     coords: [35.63, -15.94],
@@ -355,6 +366,7 @@ export const malawiLifeV2: POI[] = [
   },
   {
     id: "malawi-zomba-plateau-forest-reserve-life-v2",
+    parent: "MW",
     type: "forest",
     name: { de: "Zomba-Plateau-Waldreservat", hu: "Zomba-fennsík Erdőrezervátum", ro: "Rezervația Forestieră Podișul Zomba", en: "Zomba Plateau Forest Reserve" },
     coords: [35.3, -15.35],
@@ -387,6 +399,7 @@ export const malawiLifeV2: POI[] = [
   },
   {
     id: "malawi-dzalanyama-forest-reserve-life-v2",
+    parent: "MW",
     type: "forest",
     name: { de: "Dzalanyama-Waldreservat", hu: "Dzalanyama Erdőrezervátum", ro: "Rezervația Forestieră Dzalanyama", en: "Dzalanyama Forest Reserve" },
     coords: [33.45, -14.25],
@@ -419,6 +432,7 @@ export const malawiLifeV2: POI[] = [
   },
   {
     id: "malawi-ntchisi-forest-reserve-life-v2",
+    parent: "MW",
     type: "forest",
     name: { de: "Ntchisi-Waldreservat", hu: "Ntchisi Erdőrezervátum", ro: "Rezervația Forestieră Ntchisi", en: "Ntchisi Forest Reserve" },
     coords: [34.0, -13.33],
@@ -451,6 +465,7 @@ export const malawiLifeV2: POI[] = [
   },
   {
     id: "malawi-misuku-hills-forest-reserve-life-v2",
+    parent: "MW",
     type: "forest",
     name: { de: "Misuku-Hills-Waldreservat", hu: "Misuku-dombság Erdőrezervátum", ro: "Rezervația Forestieră Dealurile Misuku", en: "Misuku Hills Forest Reserve" },
     coords: [33.5, -9.7],
@@ -483,6 +498,7 @@ export const malawiLifeV2: POI[] = [
   },
   {
     id: "malawi-elephant-marsh-life-v2",
+    parent: "MW",
     type: "wildlife",
     name: { de: "Elefantensumpf", hu: "Elefánt-mocsár", ro: "Mlaștina Elefanților", en: "Elephant Marsh" },
     coords: [34.9, -16.25],
@@ -515,6 +531,7 @@ export const malawiLifeV2: POI[] = [
   },
   {
     id: "malawi-lake-chilwa-wetland-life-v2",
+    parent: "MW",
     type: "lake",
     name: { de: "Lake-Chilwa-Feuchtgebiet", hu: "Chilwa-tó vizes élőhely", ro: "Zona umedă Lacul Chilwa", en: "Lake Chilwa Wetland" },
     coords: [35.75, -15.2],
@@ -547,6 +564,7 @@ export const malawiLifeV2: POI[] = [
   },
   {
     id: "malawi-kuti-wildlife-reserve-life-v2",
+    parent: "MW",
     type: "wildlife",
     name: { de: "Kuti-Wildreservat", hu: "Kuti Vadvédelmi Terület", ro: "Rezervația Faunistică Kuti", en: "Kuti Wildlife Reserve" },
     coords: [34.45, -13.88],
@@ -579,6 +597,7 @@ export const malawiLifeV2: POI[] = [
   },
   {
     id: "malawi-thuma-forest-reserve-life-v2",
+    parent: "MW",
     type: "forest",
     name: { de: "Thuma-Waldreservat", hu: "Thuma Erdőrezervátum", ro: "Rezervația Forestieră Thuma", en: "Thuma Forest Reserve" },
     coords: [34.3, -13.8],
@@ -611,6 +630,7 @@ export const malawiLifeV2: POI[] = [
   },
   {
     id: "malawi-michiru-mountain-conservation-area-life-v2",
+    parent: "MW",
     type: "mountain",
     name: { de: "Michiru-Berg-Schutzgebiet", hu: "Michiru-hegyi Természetvédelmi Terület", ro: "Zona de Conservare Muntele Michiru", en: "Michiru Mountain Conservation Area" },
     coords: [34.97, -15.75],
@@ -643,6 +663,7 @@ export const malawiLifeV2: POI[] = [
   },
   {
     id: "malawi-thyolo-mountain-forest-reserve-life-v2",
+    parent: "MW",
     type: "forest",
     name: { de: "Thyolo-Bergwaldreservat", hu: "Thyolo-hegyi Erdőrezervátum", ro: "Rezervația Forestieră Muntele Thyolo", en: "Thyolo Mountain Forest Reserve" },
     coords: [35.15, -16.1],
@@ -675,6 +696,7 @@ export const malawiLifeV2: POI[] = [
   },
   {
     id: "malawi-kaningina-forest-reserve-life-v2",
+    parent: "MW",
     type: "forest",
     name: { de: "Kaning'ina-Waldreservat", hu: "Kaning'ina Erdőrezervátum", ro: "Rezervația Forestieră Kaning'ina", en: "Kaning'ina Forest Reserve" },
     coords: [34.05, -11.45],
@@ -707,6 +729,7 @@ export const malawiLifeV2: POI[] = [
   },
   {
     id: "malawi-senga-bay-biodiversity-area-life-v2",
+    parent: "MW",
     type: "wildlife",
     name: { de: "Biodiversitätsgebiet Senga Bay", hu: "Senga-öböl Biodiverzitási Terület", ro: "Zona de Biodiversitate Senga Bay", en: "Senga Bay Biodiversity Area" },
     coords: [34.62, -13.72],
@@ -739,6 +762,7 @@ export const malawiLifeV2: POI[] = [
   },
   {
     id: "malawi-cape-maclear-nature-reserve-life-v2",
+    parent: "MW",
     type: "park",
     name: { de: "Naturschutzgebiet Cape Maclear", hu: "Cape Maclear Természetvédelmi Terület", ro: "Rezervația Naturală Cape Maclear", en: "Cape Maclear Nature Reserve" },
     coords: [34.85, -14.02],
@@ -771,6 +795,7 @@ export const malawiLifeV2: POI[] = [
   },
   {
     id: "malawi-domwe-island-reserve-life-v2",
+    parent: "MW",
     type: "wildlife",
     name: { de: "Domwe-Insel-Reservat", hu: "Domwe-sziget Rezervátum", ro: "Rezervația Insula Domwe", en: "Domwe Island Reserve" },
     coords: [34.82, -13.97],
@@ -803,6 +828,7 @@ export const malawiLifeV2: POI[] = [
   },
   {
     id: "malawi-mumbo-island-reserve-life-v2",
+    parent: "MW",
     type: "wildlife",
     name: { de: "Mumbo-Insel-Reservat", hu: "Mumbo-sziget Rezervátum", ro: "Rezervația Insula Mumbo", en: "Mumbo Island Reserve" },
     coords: [34.75, -13.98],
@@ -835,6 +861,7 @@ export const malawiLifeV2: POI[] = [
   },
   {
     id: "malawi-nkhata-bay-aquatic-area-life-v2",
+    parent: "MW",
     type: "wildlife",
     name: { de: "Aquatisches Gebiet Nkhata Bay", hu: "Nkhata-öböl Vízi Terület", ro: "Zona Acvatică Nkhata Bay", en: "Nkhata Bay Aquatic Area" },
     coords: [34.3, -11.6],
@@ -867,6 +894,7 @@ export const malawiLifeV2: POI[] = [
   },
   {
     id: "malawi-likoma-island-habitat-life-v2",
+    parent: "MW",
     type: "wildlife",
     name: { de: "Likoma-Insel-Habitat", hu: "Likoma-sziget Élőhely", ro: "Habitatul Insulei Likoma", en: "Likoma Island Habitat" },
     coords: [34.73, -12.05],
@@ -899,6 +927,7 @@ export const malawiLifeV2: POI[] = [
   },
   {
     id: "malawi-bua-river-sanctuary-life-v2",
+    parent: "MW",
     type: "river",
     name: { de: "Bua-Fluss-Schutzgebiet", hu: "Bua-folyó Szentély", ro: "Sanctuarul Râului Bua", en: "Bua River Sanctuary" },
     coords: [33.95, -12.95],
@@ -931,6 +960,7 @@ export const malawiLifeV2: POI[] = [
   },
   {
     id: "malawi-lilongwe-nature-sanctuary-life-v2",
+    parent: "MW",
     type: "wildlife",
     name: { de: "Lilongwe-Naturschutzgebiet", hu: "Lilongwe Természetvédelmi Terület", ro: "Sanctuarul Naturii Lilongwe", en: "Lilongwe Nature Sanctuary" },
     coords: [33.79, -13.97],

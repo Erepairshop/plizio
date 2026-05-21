@@ -3,6 +3,7 @@ export const liberiaLandmarksV2: POI[] = [
 
   {
     id: "liberia-executive-mansion-landmarks-v2",
+    parent: "LR",
     type: "palace",
     name: { de: "Executive Mansion", hu: "Executive Mansion", ro: "Executive Mansion", en: "Executive Mansion" },
     coords: [-10.8044, 6.3061],
@@ -35,6 +36,7 @@ export const liberiaLandmarksV2: POI[] = [
   },
   {
     id: "liberia-national-museum-landmarks-v2",
+    parent: "LR",
     type: "museum",
     name: { de: "Liberia National Museum", hu: "Libériai Nemzeti Múzeum", ro: "Muzeul Național al Liberiei", en: "Liberia National Museum" },
     coords: [-10.8028, 6.3075],
@@ -67,6 +69,7 @@ export const liberiaLandmarksV2: POI[] = [
   },
   {
     id: "liberia-temple-of-justice-landmarks-v2",
+    parent: "LR",
     type: "landmark",
     name: { de: "Temple of Justice", hu: "Igazságügyi Templom", ro: "Templul Justiției", en: "Temple of Justice" },
     coords: [-10.8039, 6.305],

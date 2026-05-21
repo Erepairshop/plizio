@@ -3,6 +3,7 @@ export const saintluciaHistoryV2: POI[] = [
 
   {
     id: "saintlucia-fort-rodney-history-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Fort Rodney", hu: "Rodney-erőd", ro: "Fort Rodney", en: "Fort Rodney" },
     coords: [-60.9652, 14.0915],
@@ -35,6 +36,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-inniskilling-monument-history-v2",
+    parent: "LC",
     type: "monument",
     name: { de: "Inniskilling-Denkmal", hu: "Inniskilling-emlékmű", ro: "Monumentul Inniskilling", en: "Inniskilling Monument" },
     coords: [-61.0005, 13.9995],
@@ -67,6 +69,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-derek-walcott-square-history-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Derek Walcott Square", hu: "Derek Walcott tér", ro: "Piața Derek Walcott", en: "Derek Walcott Square" },
     coords: [-60.9912, 14.0088],
@@ -99,6 +102,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-diamond-falls-baths-history-v2",
+    parent: "LC",
     type: "ruins",
     name: { de: "Königsbäder von Diamond Falls", hu: "Diamond Falls Királyi Fürdők", ro: "Băile Regale Diamond Falls", en: "Diamond Falls Royal Baths" },
     coords: [-61.0475, 13.8532],
@@ -131,6 +135,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-balenbouche-estate-history-v2",
+    parent: "LC",
     type: "ruins",
     name: { de: "Balenbouche Anwesen", hu: "Balenbouche birtok", ro: "Domeniul Balenbouche", en: "Balenbouche Estate" },
     coords: [-61.0255, 13.7548],
@@ -163,6 +168,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-morne-coubaril-estate-history-v2",
+    parent: "LC",
     type: "museum",
     name: { de: "Morne Coubaril Anwesen", hu: "Morne Coubaril birtok", ro: "Domeniul Morne Coubaril", en: "Morne Coubaril Estate" },
     coords: [-61.0558, 13.8435],
@@ -195,6 +201,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-la-toc-battery-history-v2",
+    parent: "LC",
     type: "battlefield",
     name: { de: "La Toc Batterie", hu: "La Toc üteg", ro: "Bateria La Toc", en: "La Toc Battery" },
     coords: [-61.0098, 14.0042],
@@ -227,6 +234,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-vigie-lighthouse-history-v2",
+    parent: "LC",
     type: "tower",
     name: { de: "Vigie Leuchtturm", hu: "Vigie világítótorony", ro: "Farul Vigie", en: "Vigie Lighthouse" },
     coords: [-61.0112, 14.0225],
@@ -259,6 +267,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-vigie-military-cemetery-history-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Militärfriedhof Vigie", hu: "Vigie katonai temető", ro: "Cimitirul Militar Vigie", en: "Vigie Military Cemetery" },
     coords: [-61.0085, 14.0205],
@@ -291,6 +300,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-soufriere-old-courthouse-history-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Altes Gerichtsgebäude Soufrière", hu: "Soufrière régi bírósági épülete", ro: "Vechea Curte de Justiție din Soufrière", en: "Soufrière Old Courthouse" },
     coords: [-61.0565, 13.8562],
@@ -323,6 +333,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-fond-doux-plantation-history-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Fond Doux Plantage", hu: "Fond Doux ültetvény", ro: "Plantația Fond Doux", en: "Fond Doux Plantation" },
     coords: [-61.0512, 13.8325],
@@ -355,6 +366,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-anse-la-raye-village-history-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Anse La Raye Fischerdorf", hu: "Anse La Raye halászfalu", ro: "Satul pescăresc Anse La Raye", en: "Anse La Raye Fishing Village" },
     coords: [-61.0398, 13.9395],
@@ -387,6 +399,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-cape-moule-a-chique-lighthouse-history-v2",
+    parent: "LC",
     type: "tower",
     name: { de: "Moule-a-Chique Leuchtturm", hu: "Moule-a-Chique világítótorony", ro: "Farul Moule-a-Chique", en: "Moule-a-Chique Lighthouse" },
     coords: [-60.9415, 13.7125],
@@ -419,6 +432,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-maria-islands-archaeology-history-v2",
+    parent: "LC",
     type: "ruins",
     name: { de: "Maria Islands Archäologische Stätte", hu: "Maria-szigetek régészeti lelőhely", ro: "Situl arheologic Insulele Maria", en: "Maria Islands Archaeological Site" },
     coords: [-60.9312, 13.7255],
@@ -451,6 +465,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-beane-field-wwii-history-v2",
+    parent: "LC",
     type: "battlefield",
     name: { de: "Beane Field WWII Stützpunkt", hu: "Beane Field II. világháborús bázis", ro: "Baza WWII Beane Field", en: "Beane Field WWII Base" },
     coords: [-60.9525, 13.7335],
@@ -483,6 +498,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-marquis-estate-history-v2",
+    parent: "LC",
     type: "ruins",
     name: { de: "Marquis Anwesen", hu: "Marquis birtok", ro: "Domeniul Marquis", en: "Marquis Estate" },
     coords: [-60.9125, 14.0455],
@@ -515,6 +531,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-rat-island-quarantine-history-v2",
+    parent: "LC",
     type: "ruins",
     name: { de: "Rat Island Quarantänestation", hu: "Rat Island karanténállomás", ro: "Stația de carantină Rat Island", en: "Rat Island Quarantine Station" },
     coords: [-60.9895, 14.0325],
@@ -547,6 +564,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-choiseul-petroglyphs-history-v2",
+    parent: "LC",
     type: "ruins",
     name: { de: "Choiseul Petroglyphen", hu: "Choiseul-i sziklarajzok", ro: "Petroglifele din Choiseul", en: "Choiseul Petroglyphs" },
     coords: [-61.0495, 13.7825],
@@ -579,6 +597,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-laborie-parish-church-history-v2",
+    parent: "LC",
     type: "church",
     name: { de: "Pfarrkirche von Laborie", hu: "Laborie plébániatemplom", ro: "Biserica parohială din Laborie", en: "Laborie Parish Church" },
     coords: [-60.9952, 13.7482],
@@ -611,6 +630,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-pigeon-island-officers-quarters-history-v2",
+    parent: "LC",
     type: "ruins",
     name: { de: "Offiziersunterkünfte Pigeon Island", hu: "Pigeon-szigeti tiszti lakások", ro: "Cartierul Ofițerilor Pigeon Island", en: "Pigeon Island Officers' Quarters" },
     coords: [-60.9635, 14.0905],
@@ -643,6 +663,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-pigeon-island-powder-magazine-history-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Pulvermagazin Pigeon Island", hu: "Pigeon-szigeti lőportár", ro: "Magazia de pulbere Pigeon Island", en: "Pigeon Island Powder Magazine" },
     coords: [-60.9645, 14.0912],
@@ -675,6 +696,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-marigot-bay-rodney-history-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Admiral Rodneys Versteck (Marigot Bay)", hu: "Rodney admirális rejtekhelye (Marigot-öböl)", ro: "Ascunzătoarea amiralului Rodney (Marigot Bay)", en: "Admiral Rodney's Hiding Spot (Marigot Bay)" },
     coords: [-61.0255, 13.9645],
@@ -707,6 +729,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-morne-fortune-powder-magazine-history-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Pulvermagazin Morne Fortune", hu: "Morne Fortune lőportár", ro: "Magazia de pulbere Morne Fortune", en: "Morne Fortune Powder Magazine" },
     coords: [-61.0008, 13.9998],
@@ -739,6 +762,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-apostles-battery-history-v2",
+    parent: "LC",
     type: "battlefield",
     name: { de: "Apostel-Batterie", hu: "Apostolok-ütege", ro: "Bateria Apostolilor", en: "Apostles' Battery" },
     coords: [-61.0012, 14.0005],
@@ -771,6 +795,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-gros-islet-old-town-history-v2",
+    parent: "LC",
     type: "town",
     name: { de: "Altstadt von Gros Islet", hu: "Gros Islet óváros", ro: "Centrul vechi din Gros Islet", en: "Gros Islet Old Town" },
     coords: [-60.9525, 14.0815],
@@ -803,6 +828,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-vieux-fort-old-town-history-v2",
+    parent: "LC",
     type: "town",
     name: { de: "Altstadt von Vieux Fort", hu: "Vieux Fort óváros", ro: "Centrul vechi din Vieux Fort", en: "Vieux Fort Old Town" },
     coords: [-60.9485, 13.7195],
@@ -835,6 +861,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-marquis-river-archaeology-history-v2",
+    parent: "LC",
     type: "ruins",
     name: { de: "Marquis River Archäologische Stätte", hu: "Marquis-folyó régészeti lelőhely", ro: "Situl arheologic Râul Marquis", en: "Marquis River Archaeological Site" },
     coords: [-60.9155, 14.0482],
@@ -867,6 +894,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-victorian-library-castries-history-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Viktorianische Bibliothek Castries", hu: "Viktoriánus Könyvtár Castries", ro: "Biblioteca Victoriană din Castries", en: "Victorian Library Castries" },
     coords: [-60.9918, 14.0092],
@@ -899,6 +927,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-mamiku-gardens-estate-history-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Mamiku Gärten (Historisches Anwesen)", hu: "Mamiku-kertek (Történelmi birtok)", ro: "Grădinile Mamiku (Domeniu istoric)", en: "Mamiku Gardens (Historic Estate)" },
     coords: [-60.8995, 13.8825],
@@ -931,6 +960,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-dennery-old-village-history-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Historisches Dorf Dennery", hu: "Dennery történelmi falu", ro: "Satul istoric Dennery", en: "Dennery Old Village" },
     coords: [-60.8885, 13.9125],
@@ -963,6 +993,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-roseau-sugar-mill-ruins-history-v2",
+    parent: "LC",
     type: "ruins",
     name: { de: "Roseau Zuckermühlenruinen", hu: "Roseau cukormalom romok", ro: "Ruinele morii de zahăr din Roseau", en: "Roseau Sugar Mill Ruins" },
     coords: [-61.0212, 13.9555],
@@ -995,6 +1026,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-micoud-parish-church-history-v2",
+    parent: "LC",
     type: "church",
     name: { de: "Pfarrkirche von Micoud", hu: "Micoud plébániatemplom", ro: "Biserica parohială din Micoud", en: "Micoud Parish Church" },
     coords: [-60.9025, 13.8165],
@@ -1027,6 +1059,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-praslin-island-pirate-history-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Praslin Island (Piratengeschichte)", hu: "Praslin-sziget (Kalóztörténelem)", ro: "Insula Praslin (Istoria piraților)", en: "Praslin Island (Pirate History)" },
     coords: [-60.8912, 13.8755],
@@ -1059,6 +1092,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-savannes-bay-arawak-history-v2",
+    parent: "LC",
     type: "ruins",
     name: { de: "Savannes Bay Arawak Siedlung", hu: "Savannes Bay arawak település", ro: "Așezarea Arawak din Savannes Bay", en: "Savannes Bay Arawak Settlement" },
     coords: [-60.9155, 13.7555],
@@ -1091,6 +1125,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-paix-bouche-colonial-history-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Paix Bouche (Historische Stätte)", hu: "Paix Bouche (Történelmi helyszín)", ro: "Paix Bouche (Sit istoric)", en: "Paix Bouche (Historic Site)" },
     coords: [-60.9412, 14.0325],
@@ -1123,6 +1158,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-troumassee-estate-ruins-history-v2",
+    parent: "LC",
     type: "ruins",
     name: { de: "Troumassee Anwesen Ruinen", hu: "Troumassee birtok romok", ro: "Ruinele domeniului Troumassee", en: "Troumassee Estate Ruins" },
     coords: [-60.9125, 13.8225],
@@ -1155,6 +1191,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-tapion-point-battery-history-v2",
+    parent: "LC",
     type: "battlefield",
     name: { de: "Tapion Point Batterie", hu: "Tapion Point üteg", ro: "Bateria Tapion Point", en: "Tapion Point Battery" },
     coords: [-61.0025, 14.0125],
@@ -1187,6 +1224,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-choc-bay-battlefield-history-v2",
+    parent: "LC",
     type: "battlefield",
     name: { de: "Schlachtfeld von Choc Bay", hu: "Choc Bay csatatér", ro: "Câmpul de luptă Choc Bay", en: "Choc Bay Battlefield" },
     coords: [-60.9755, 14.0355],
@@ -1219,6 +1257,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-cul-de-sac-valley-sugar-history-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Cul de Sac Tal (Zuckergeschichte)", hu: "Cul de Sac-völgy (Cukortörténelem)", ro: "Valea Cul de Sac (Istoria zahărului)", en: "Cul de Sac Valley (Sugar History)" },
     coords: [-61.0055, 13.9855],
@@ -1251,6 +1290,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-pigeon-island-soldiers-barracks-history-v2",
+    parent: "LC",
     type: "ruins",
     name: { de: "Soldatenbaracken Pigeon Island", hu: "Pigeon-szigeti katonai laktanyák", ro: "Cazărmile soldaților Pigeon Island", en: "Pigeon Island Soldiers' Barracks" },
     coords: [-60.9625, 14.0915],
@@ -1283,6 +1323,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-pigeon-island-musket-redoubt-history-v2",
+    parent: "LC",
     type: "battlefield",
     name: { de: "Musketen-Redoute Pigeon Island", hu: "Pigeon-szigeti muskétás sánc", ro: "Reduta pentru mușchete Pigeon Island", en: "Pigeon Island Musket Redoubt" },
     coords: [-60.9632, 14.0925],
@@ -1315,6 +1356,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-st-joseph-worker-church-history-v2",
+    parent: "LC",
     type: "church",
     name: { de: "Kirche St. Joseph der Arbeiter", hu: "Munkás Szent József-templom", ro: "Biserica Sfântul Iosif Muncitorul", en: "St. Joseph the Worker Church" },
     coords: [-60.9532, 14.0822],
@@ -1347,6 +1389,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-morne-le-blanc-lookout-history-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Morne Le Blanc Aussichtspunkt", hu: "Morne Le Blanc kilátó", ro: "Punctul de observație Morne Le Blanc", en: "Morne Le Blanc Lookout" },
     coords: [-61.0415, 13.7855],
@@ -1379,6 +1422,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-marquis-estate-sugar-mill-history-v2",
+    parent: "LC",
     type: "ruins",
     name: { de: "Marquis Zuckermühle", hu: "Marquis cukormalom", ro: "Moara de zahăr Marquis", en: "Marquis Sugar Mill" },
     coords: [-60.9135, 14.0442],
@@ -1411,6 +1455,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-provost-redoubt-history-v2",
+    parent: "LC",
     type: "battlefield",
     name: { de: "Provost-Redoute", hu: "Provost-sánc", ro: "Reduta Provost", en: "Provost's Redoubt" },
     coords: [-61.0015, 13.9992],
@@ -1443,6 +1488,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-rabot-estate-history-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Rabot Anwesen", hu: "Rabot birtok", ro: "Domeniul Rabot", en: "Rabot Estate" },
     coords: [-61.0455, 13.8355],
@@ -1475,6 +1521,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-canaries-sugar-mill-history-v2",
+    parent: "LC",
     type: "ruins",
     name: { de: "Canaries Zuckermühlenruinen", hu: "Canaries cukormalom romok", ro: "Ruinele morii de zahăr din Canaries", en: "Canaries Sugar Mill Ruins" },
     coords: [-61.0625, 13.9055],
@@ -1507,6 +1554,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-union-agricultural-station-history-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Union Landwirtschaftliche Station (Historisch)", hu: "Union Mezőgazdasági Állomás (Történelmi)", ro: "Stația Agricolă Union (Istorică)", en: "Union Agricultural Station (Historic)" },
     coords: [-60.9655, 14.0382],
@@ -1539,6 +1587,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-royal-military-cemetery-morne-fortune-history-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Königlicher Militärfriedhof Morne Fortune", hu: "Morne Fortune királyi katonai temető", ro: "Cimitirul Militar Regal Morne Fortune", en: "Royal Military Cemetery Morne Fortune" },
     coords: [-60.9995, 14.0015],
@@ -1571,6 +1620,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-pigeon-island-causeway-history-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Pigeon Island Damm", hu: "Pigeon-szigeti gát", ro: "Digul Pigeon Island", en: "Pigeon Island Causeway" },
     coords: [-60.9555, 14.0865],
@@ -1603,6 +1653,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-ferrands-estate-history-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Ferrands Anwesen", hu: "Ferrands birtok", ro: "Domeniul Ferrands", en: "Ferrands Estate" },
     coords: [-61.0012, 13.9755],
@@ -1635,6 +1686,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-pigeon-island-lazaretto-history-v2",
+    parent: "LC",
     type: "ruins",
     name: { de: "Ehemaliges Lazarett Pigeon Island", hu: "Pigeon-szigeti egykori lazáret", ro: "Fostul lazaret din Pigeon Island", en: "Pigeon Island Former Lazaretto" },
     coords: [-60.9615, 14.0908],
@@ -1667,6 +1719,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-vieux-fort-sugar-factory-history-v2",
+    parent: "LC",
     type: "industry",
     name: { de: "Zuckerfabrik Vieux Fort", hu: "Vieux Fort cukorgyár", ro: "Fabrica de zahăr Vieux Fort", en: "Vieux Fort Sugar Factory" },
     coords: [-60.9515, 13.7225],
@@ -1699,6 +1752,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-monchy-old-estate-history-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Altes Anwesen Monchy", hu: "Monchy régi birtoka", ro: "Vechiul domeniu Monchy", en: "Monchy Old Estate" },
     coords: [-60.9325, 14.0625],
@@ -1731,6 +1785,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-pointe-du-cap-battery-history-v2",
+    parent: "LC",
     type: "battlefield",
     name: { de: "Pointe du Cap Batterie", hu: "Pointe du Cap üteg", ro: "Bateria Pointe du Cap", en: "Pointe du Cap Battery" },
     coords: [-60.9412, 14.1085],
@@ -1763,6 +1818,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-babonneau-historic-district-history-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Historisches Viertel Babonneau", hu: "Babonneau történelmi negyed", ro: "Districtul istoric Babonneau", en: "Babonneau Historic District" },
     coords: [-60.9485, 14.0155],
@@ -1795,6 +1851,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-morne-fortune-military-barracks-history-v2",
+    parent: "LC",
     type: "ruins",
     name: { de: "Militärbaracken Morne Fortune", hu: "Morne Fortune katonai laktanyák", ro: "Cazărmile militare Morne Fortune", en: "Morne Fortune Military Barracks" },
     coords: [-61.0002, 14.0002],
@@ -1827,6 +1884,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-errard-estate-history-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Errard Anwesen", hu: "Errard birtok", ro: "Domeniul Errard", en: "Errard Estate" },
     coords: [-60.9155, 13.9182],
@@ -1859,6 +1917,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-paix-bouche-war-memorial-history-v2",
+    parent: "LC",
     type: "monument",
     name: { de: "Kriegsdenkmal Paix Bouche", hu: "Paix Bouche háborús emlékmű", ro: "Monumentul de război din Paix Bouche", en: "Paix Bouche War Memorial" },
     coords: [-60.9425, 14.0332],
@@ -1891,6 +1950,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-beausejour-military-history-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Historisches Beausejour", hu: "Történelmi Beausejour", ro: "Beausejour istoric", en: "Historic Beausejour" },
     coords: [-60.9385, 14.0725],
@@ -1923,6 +1983,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-marquis-estate-chapel-history-v2",
+    parent: "LC",
     type: "ruins",
     name: { de: "Kapelle des Marquis Anwesens", hu: "Marquis-birtok kápolnája", ro: "Capela domeniului Marquis", en: "Marquis Estate Chapel" },
     coords: [-60.9132, 14.0452],
@@ -1955,6 +2016,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-pigeon-island-military-kitchen-history-v2",
+    parent: "LC",
     type: "ruins",
     name: { de: "Militärküche Pigeon Island", hu: "Pigeon-szigeti katonai konyha", ro: "Bucătăria militară din Pigeon Island", en: "Pigeon Island Military Kitchen" },
     coords: [-60.9638, 14.0918],
@@ -1987,6 +2049,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-marquis-estate-slave-quarters-history-v2",
+    parent: "LC",
     type: "ruins",
     name: { de: "Sklavenunterkünfte Marquis Anwesen", hu: "Marquis-birtok rabszolgaszállásai", ro: "Cazărmile sclavilor de pe domeniul Marquis", en: "Marquis Estate Slave Quarters" },
     coords: [-60.9142, 14.0435],
@@ -2019,6 +2082,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-morne-fortune-signal-station-history-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Signalstation Morne Fortune", hu: "Morne Fortune jelzőállomás", ro: "Stația de semnalizare Morne Fortune", en: "Morne Fortune Signal Station" },
     coords: [-61.0005, 14.0008],
@@ -2051,6 +2115,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-black-bay-amerindian-site-history-v2",
+    parent: "LC",
     type: "ruins",
     name: { de: "Amerindische Stätte Black Bay", hu: "Black Bay amerindián lelőhely", ro: "Situl amerindian Black Bay", en: "Black Bay Amerindian Site" },
     coords: [-60.9855, 13.7325],
@@ -2083,6 +2148,7 @@ export const saintluciaHistoryV2: POI[] = [
   },
   {
     id: "saintlucia-pointe-seraphine-maritime-history-v2",
+    parent: "LC",
     type: "port",
     name: { de: "Pointe Seraphine (Maritime Geschichte)", hu: "Pointe Seraphine (Tengerészeti történelem)", ro: "Pointe Seraphine (Istorie maritimă)", en: "Pointe Seraphine (Maritime History)" },
     coords: [-60.9955, 14.0125],

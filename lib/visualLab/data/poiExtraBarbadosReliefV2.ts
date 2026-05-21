@@ -3,6 +3,7 @@ export const barbadosReliefV2: POI[] = [
 
   {
     id: "barbados-hackletons-cliff-relief-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Hackleton's Cliff", hu: "Hackleton's Cliff", ro: "Hackleton's Cliff", en: "Hackleton's Cliff" },
     coords: [-59.5322, 13.1897],
@@ -46,6 +47,7 @@ export const barbadosReliefV2: POI[] = [
   },
   {
     id: "barbados-bissex-hill-relief-v2",
+    parent: "BB",
     type: "peak",
     name: { de: "Bissex Hill", hu: "Bissex Hill", ro: "Bissex Hill", en: "Bissex Hill" },
     coords: [-59.5528, 13.2036],
@@ -89,6 +91,7 @@ export const barbadosReliefV2: POI[] = [
   },
   {
     id: "barbados-pico-teneriffe-relief-v2",
+    parent: "BB",
     type: "peak",
     name: { de: "Pico Teneriffe", hu: "Pico Teneriffe", ro: "Pico Teneriffe", en: "Pico Teneriffe" },
     coords: [-5.5667, 13.2667],
@@ -133,6 +136,7 @@ export const barbadosReliefV2: POI[] = [
   },
   {
     id: "barbados-mount-misery-relief-v2",
+    parent: "BB",
     type: "peak",
     name: { de: "Mount Misery", hu: "Mount Misery", ro: "Mount Misery", en: "Mount Misery" },
     coords: [-59.588, 13.187],
@@ -177,6 +181,7 @@ export const barbadosReliefV2: POI[] = [
   },
   {
     id: "barbados-farley-hill-relief-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Farley Hill", hu: "Farley Hill", ro: "Farley Hill", en: "Farley Hill" },
     coords: [-59.5911, 13.2575],
@@ -220,6 +225,7 @@ export const barbadosReliefV2: POI[] = [
   },
   {
     id: "barbados-gun-hill-relief-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Gun Hill", hu: "Gun Hill", ro: "Gun Hill", en: "Gun Hill" },
     coords: [-59.5539, 13.1436],
@@ -264,6 +270,7 @@ export const barbadosReliefV2: POI[] = [
   },
   {
     id: "barbados-moncrieffe-hill-relief-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Moncrieffe Hill", hu: "Moncrieffe Hill", ro: "Moncrieffe Hill", en: "Moncrieffe Hill" },
     coords: [-59.4833, 13.15],
@@ -307,6 +314,7 @@ export const barbadosReliefV2: POI[] = [
   },
   {
     id: "barbados-castle-grant-relief-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Castle Grant", hu: "Castle Grant", ro: "Castle Grant", en: "Castle Grant" },
     coords: [-59.55, 13.183],
@@ -350,6 +358,7 @@ export const barbadosReliefV2: POI[] = [
   },
   {
     id: "barbados-north-point-cliffs-relief-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "North Point Cliffs", hu: "North Point Cliffs", ro: "North Point Cliffs", en: "North Point Cliffs" },
     coords: [-59.6, 13.3333],
@@ -393,6 +402,7 @@ export const barbadosReliefV2: POI[] = [
   },
   {
     id: "barbados-south-point-relief-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "South Point", hu: "South Point", ro: "South Point", en: "South Point" },
     coords: [-59.533, 13.045],
@@ -437,6 +447,7 @@ export const barbadosReliefV2: POI[] = [
   },
   {
     id: "barbados-ragged-point-relief-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Ragged Point", hu: "Ragged Point", ro: "Ragged Point", en: "Ragged Point" },
     coords: [-59.4322, 13.1611],
@@ -481,6 +492,7 @@ export const barbadosReliefV2: POI[] = [
   },
   {
     id: "barbados-harrisons-cave-relief-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Harrison's Cave", hu: "Harrison's Cave", ro: "Harrison's Cave", en: "Harrison's Cave" },
     coords: [-59.5744, 13.1822],
@@ -524,6 +536,7 @@ export const barbadosReliefV2: POI[] = [
   },
   {
     id: "barbados-bathsheba-rocks-relief-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Bathsheba Rocks", hu: "Bathsheba Rocks", ro: "Bathsheba Rocks", en: "Bathsheba Rocks" },
     coords: [-59.5247, 13.2144],
@@ -568,6 +581,7 @@ export const barbadosReliefV2: POI[] = [
   },
   {
     id: "barbados-culpepper-island-relief-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Culpepper Island", hu: "Culpepper Island", ro: "Culpepper Island", en: "Culpepper Island" },
     coords: [-59.43, 13.17],
@@ -611,6 +625,7 @@ export const barbadosReliefV2: POI[] = [
   },
   {
     id: "barbados-bottom-bay-cliffs-relief-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Bottom Bay Cliffs", hu: "Bottom Bay Cliffs", ro: "Bottom Bay Cliffs", en: "Bottom Bay Cliffs" },
     coords: [-59.4333, 13.1333],
@@ -654,6 +669,7 @@ export const barbadosReliefV2: POI[] = [
   },
   {
     id: "barbados-st-georges-valley-relief-v2",
+    parent: "BB",
     type: "valley",
     name: { de: "St. George's Valley", hu: "St. George's Valley", ro: "St. George's Valley", en: "St. George's Valley" },
     coords: [-59.5333, 13.1167],
@@ -697,6 +713,7 @@ export const barbadosReliefV2: POI[] = [
   },
   {
     id: "barbados-scotland-district-relief-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Scotland District", hu: "Scotland District", ro: "Scotland District", en: "Scotland District" },
     coords: [-59.55, 13.22],
@@ -741,6 +758,7 @@ export const barbadosReliefV2: POI[] = [
   },
   {
     id: "barbados-horse-hill-relief-v2",
+    parent: "BB",
     type: "peak",
     name: { de: "Horse Hill", hu: "Horse Hill", ro: "Horse Hill", en: "Horse Hill" },
     coords: [-59.542, 13.192],
@@ -784,6 +802,7 @@ export const barbadosReliefV2: POI[] = [
   },
   {
     id: "barbados-mount-wilton-relief-v2",
+    parent: "BB",
     type: "peak",
     name: { de: "Mount Wilton", hu: "Mount Wilton", ro: "Mount Wilton", en: "Mount Wilton" },
     coords: [-59.585, 13.175],
@@ -827,6 +846,7 @@ export const barbadosReliefV2: POI[] = [
   },
   {
     id: "barbados-turners-hall-ridge-relief-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Turner's Hall Ridge", hu: "Turner's Hall Ridge", ro: "Turner's Hall Ridge", en: "Turner's Hall Ridge" },
     coords: [-59.58, 13.22],
@@ -870,6 +890,7 @@ export const barbadosReliefV2: POI[] = [
   },
   {
     id: "barbados-foul-bay-cliffs-relief-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Foul Bay Cliffs", hu: "Foul Bay Cliffs", ro: "Foul Bay Cliffs", en: "Foul Bay Cliffs" },
     coords: [-59.45, 13.1],
@@ -914,6 +935,7 @@ export const barbadosReliefV2: POI[] = [
   },
   {
     id: "barbados-mount-stepney-relief-v2",
+    parent: "BB",
     type: "peak",
     name: { de: "Mount Stepney", hu: "Mount Stepney", ro: "Mount Stepney", en: "Mount Stepney" },
     coords: [-59.57, 13.25],
@@ -958,6 +980,7 @@ export const barbadosReliefV2: POI[] = [
   },
   {
     id: "barbados-animal-flower-cave-cliffs-relief-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Animal Flower Cave Cliffs", hu: "Animal Flower Cave Cliffs", ro: "Animal Flower Cave Cliffs", en: "Animal Flower Cave Cliffs" },
     coords: [-59.601, 13.332],
@@ -1001,6 +1024,7 @@ export const barbadosReliefV2: POI[] = [
   },
   {
     id: "barbados-codrington-college-hill-relief-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Codrington College Hill", hu: "Codrington College Hill", ro: "Codrington College Hill", en: "Codrington College Hill" },
     coords: [-59.475, 13.175],

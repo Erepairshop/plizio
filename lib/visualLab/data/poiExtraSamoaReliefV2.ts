@@ -3,6 +3,7 @@ export const samoaReliefV2: POI[] = [
 
   {
     id: "samoa-mount-matavanu-relief-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Vulkan Matavanu", hu: "Matavanu-vulkán", ro: "Vulcanul Matavanu", en: "Mount Matavanu" },
     coords: [-172.367, -13.533],
@@ -35,6 +36,7 @@ export const samoaReliefV2: POI[] = [
   },
   {
     id: "samoa-mount-lanotoo-relief-v2",
+    parent: "WS",
     type: "peak",
     name: { de: "Mount Lanoto'o", hu: "Lanoto'o-hegy", ro: "Muntele Lanoto'o", en: "Mount Lanoto'o" },
     coords: [-171.834, -13.911],
@@ -67,6 +69,7 @@ export const samoaReliefV2: POI[] = [
   },
   {
     id: "samoa-mount-vaa-o-fonoti-relief-v2",
+    parent: "WS",
     type: "peak",
     name: { de: "Mount Vaa-o-Fonoti", hu: "Vaa-o-Fonoti-hegy", ro: "Muntele Vaa-o-Fonoti", en: "Mount Vaa-o-Fonoti" },
     coords: [-171.536, -13.948],
@@ -99,6 +102,7 @@ export const samoaReliefV2: POI[] = [
   },
   {
     id: "samoa-saleaula-lava-field-relief-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Saleaula-Lavafelder", hu: "Saleaula lávamező", ro: "Câmpul de lavă Saleaula", en: "Saleaula Lava Field" },
     coords: [-172.338, -13.447],
@@ -131,6 +135,7 @@ export const samoaReliefV2: POI[] = [
   },
   {
     id: "samoa-apolima-crater-relief-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Apolima-Krater", hu: "Apolima-kráter", ro: "Craterul Apolima", en: "Apolima Crater" },
     coords: [-172.152, -13.818],
@@ -163,6 +168,7 @@ export const samoaReliefV2: POI[] = [
   },
   {
     id: "samoa-mount-mauga-afi-relief-v2",
+    parent: "WS",
     type: "peak",
     name: { de: "Mount Mauga Afi", hu: "Mauga Afi-hegy", ro: "Muntele Mauga Afi", en: "Mount Mauga Afi" },
     coords: [-172.502, -13.578],
@@ -195,6 +201,7 @@ export const samoaReliefV2: POI[] = [
   },
   {
     id: "samoa-mount-mafane-relief-v2",
+    parent: "WS",
     type: "peak",
     name: { de: "Mount Mafane", hu: "Mafane-hegy", ro: "Muntele Mafane", en: "Mount Mafane" },
     coords: [-172.375, -13.595],
@@ -227,6 +234,7 @@ export const samoaReliefV2: POI[] = [
   },
   {
     id: "samoa-falefa-valley-relief-v2",
+    parent: "WS",
     type: "valley",
     name: { de: "Falefa-Tal", hu: "Falefa-völgy", ro: "Valea Falefa", en: "Falefa Valley" },
     coords: [-171.595, -13.892],
@@ -259,6 +267,7 @@ export const samoaReliefV2: POI[] = [
   },
   {
     id: "samoa-lake-mataulano-relief-v2",
+    parent: "WS",
     type: "lake",
     name: { de: "Mataulano-See", hu: "Mataulano-tó", ro: "Lacul Mataulano", en: "Lake Mataulano" },
     coords: [-172.405, -13.621],
@@ -291,6 +300,7 @@ export const samoaReliefV2: POI[] = [
   },
   {
     id: "samoa-mount-vaitapu-relief-v2",
+    parent: "WS",
     type: "peak",
     name: { de: "Mount Vaitapu", hu: "Vaitapu-hegy", ro: "Muntele Vaitapu", en: "Mount Vaitapu" },
     coords: [-171.685, -13.922],
@@ -323,6 +333,7 @@ export const samoaReliefV2: POI[] = [
   },
   {
     id: "samoa-mount-teelagi-relief-v2",
+    parent: "WS",
     type: "peak",
     name: { de: "Mount Te'elagi", hu: "Te'elagi-hegy", ro: "Muntele Te'elagi", en: "Mount Te'elagi" },
     coords: [-172.455, -13.655],
@@ -355,6 +366,7 @@ export const samoaReliefV2: POI[] = [
   },
   {
     id: "samoa-mount-malata-relief-v2",
+    parent: "WS",
     type: "peak",
     name: { de: "Mount Malata", hu: "Malata-hegy", ro: "Muntele Malata", en: "Mount Malata" },
     coords: [-171.652, -13.905],
@@ -387,6 +399,7 @@ export const samoaReliefV2: POI[] = [
   },
   {
     id: "samoa-mount-olotapu-relief-v2",
+    parent: "WS",
     type: "peak",
     name: { de: "Mount Olotapu", hu: "Olotapu-hegy", ro: "Muntele Olotapu", en: "Mount Olotapu" },
     coords: [-172.555, -13.552],
@@ -419,6 +432,7 @@ export const samoaReliefV2: POI[] = [
   },
   {
     id: "samoa-mount-salani-relief-v2",
+    parent: "WS",
     type: "peak",
     name: { de: "Mount Salani", hu: "Salani-hegy", ro: "Muntele Salani", en: "Mount Salani" },
     coords: [-171.685, -13.985],
@@ -451,6 +465,7 @@ export const samoaReliefV2: POI[] = [
   },
   {
     id: "samoa-mount-siga-relief-v2",
+    parent: "WS",
     type: "peak",
     name: { de: "Mount Siga", hu: "Siga-hegy", ro: "Muntele Siga", en: "Mount Siga" },
     coords: [-172.355, -13.605],
@@ -483,6 +498,7 @@ export const samoaReliefV2: POI[] = [
   },
   {
     id: "samoa-mount-talatala-relief-v2",
+    parent: "WS",
     type: "peak",
     name: { de: "Mount Talatala", hu: "Talatala-hegy", ro: "Muntele Talatala", en: "Mount Talatala" },
     coords: [-172.422, -13.632],
@@ -515,6 +531,7 @@ export const samoaReliefV2: POI[] = [
   },
   {
     id: "samoa-mount-tofua-relief-v2",
+    parent: "WS",
     type: "peak",
     name: { de: "Mount Tofua", hu: "Tofua-hegy", ro: "Muntele Tofua", en: "Mount Tofua" },
     coords: [-172.485, -13.682],
@@ -547,6 +564,7 @@ export const samoaReliefV2: POI[] = [
   },
   {
     id: "samoa-mount-veve-relief-v2",
+    parent: "WS",
     type: "peak",
     name: { de: "Mount Veve", hu: "Veve-hegy", ro: "Muntele Veve", en: "Mount Veve" },
     coords: [-172.502, -13.702],
@@ -579,6 +597,7 @@ export const samoaReliefV2: POI[] = [
   },
   {
     id: "samoa-mount-le-pue-relief-v2",
+    parent: "WS",
     type: "peak",
     name: { de: "Mount Le Pu'e", hu: "Le Pu'e-hegy", ro: "Muntele Le Pu'e", en: "Mount Le Pu'e" },
     coords: [-171.855, -13.925],
@@ -611,6 +630,7 @@ export const samoaReliefV2: POI[] = [
   },
   {
     id: "samoa-mount-seuao-relief-v2",
+    parent: "WS",
     type: "peak",
     name: { de: "Mount Seuao", hu: "Seuao-hegy", ro: "Muntele Seuao", en: "Mount Seuao" },
     coords: [-171.752, -13.955],
@@ -643,6 +663,7 @@ export const samoaReliefV2: POI[] = [
   },
   {
     id: "samoa-mount-sinaele-relief-v2",
+    parent: "WS",
     type: "peak",
     name: { de: "Mount Sinaele", hu: "Sinaele-hegy", ro: "Muntele Sinaele", en: "Mount Sinaele" },
     coords: [-171.822, -13.935],
@@ -675,6 +696,7 @@ export const samoaReliefV2: POI[] = [
   },
   {
     id: "samoa-mount-pofua-relief-v2",
+    parent: "WS",
     type: "peak",
     name: { de: "Mount Pofua", hu: "Pofua-hegy", ro: "Muntele Pofua", en: "Mount Pofua" },
     coords: [-172.442, -13.725],
@@ -707,6 +729,7 @@ export const samoaReliefV2: POI[] = [
   },
   {
     id: "samoa-mount-tagotala-relief-v2",
+    parent: "WS",
     type: "peak",
     name: { de: "Mount Tagotala", hu: "Tagotala-hegy", ro: "Muntele Tagotala", en: "Mount Tagotala" },
     coords: [-171.782, -13.965],
@@ -739,6 +762,7 @@ export const samoaReliefV2: POI[] = [
   },
   {
     id: "samoa-mount-lano-relief-v2",
+    parent: "WS",
     type: "peak",
     name: { de: "Mount Lano", hu: "Lano-hegy", ro: "Muntele Lano", en: "Mount Lano" },
     coords: [-172.392, -13.645],
@@ -771,6 +795,7 @@ export const samoaReliefV2: POI[] = [
   },
   {
     id: "samoa-mount-mu-relief-v2",
+    parent: "WS",
     type: "peak",
     name: { de: "Mount Mu", hu: "Mu-hegy", ro: "Muntele Mu", en: "Mount Mu" },
     coords: [-172.385, -13.665],
@@ -803,6 +828,7 @@ export const samoaReliefV2: POI[] = [
   },
   {
     id: "samoa-aopo-lava-field-relief-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Aopo-Lavafeld", hu: "Aopo lávamező", ro: "Câmpul de lavă Aopo", en: "Aopo Lava Field" },
     coords: [-172.525, -13.505],
@@ -835,6 +861,7 @@ export const samoaReliefV2: POI[] = [
   },
   {
     id: "samoa-fagaloa-bay-cliffs-relief-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Fagaloa-Bucht-Klippen", hu: "Fagaloa-öböl sziklái", ro: "Stâncile Golfului Fagaloa", en: "Fagaloa Bay Cliffs" },
     coords: [-171.535, -13.925],
@@ -867,6 +894,7 @@ export const samoaReliefV2: POI[] = [
   },
   {
     id: "samoa-mount-elietoga-relief-v2",
+    parent: "WS",
     type: "peak",
     name: { de: "Mount Elietoga", hu: "Elietoga-hegy", ro: "Muntele Elietoga", en: "Mount Elietoga" },
     coords: [-171.722, -13.945],

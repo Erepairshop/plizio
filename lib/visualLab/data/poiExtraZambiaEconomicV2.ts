@@ -17,7 +17,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       de: "Eine der größten Kupferminen in Afrika, gelegen in Mufulira.",
       hu: "Afrika egyik legnagyobb rézbányája Mufulirában.",
       ro: "Una dintre cele mai mari mine de cupru din Africa, situată în Mufulira.",
-      en: "One of the largest copper mines in Africa, located in Mufulira."
+      en: "One of the largest copper mines in Africa, located in Mufulira.",
+      es: "Una de las minas de cobre más grandes de África, situada en Mufulira.",
+      pt: "Uma das maiores minas de cobre de África, situada em Mufulira.",
+      fr: "L'une des plus grandes mines de cuivre d'Afrique, située à Mufulira.",
     },
     facts: {
       de: [
@@ -35,7 +38,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       en: [
         "Among the deepest mines.",
         "Important employer in the region.",
-      ]
+      ],
+      es: ["Es una de las minas más profundas.", "Importante empleador de la región."],
+      pt: ["Uma das minas mais profundas.", "Importante empregador da região."],
+      fr: ["Compte parmi les mines les plus profondes.", "Employeur majeur de la région."],
     }, image: "/poi-images/zm-mopani-copper-mines-economic-v2.webp",
     descriptionAdvanced: {
       de: "Mopani Copper Mines (MCM) ist einer der größten integrierten Kupfer- und Kobaltproduzenten in Sambia, mit bedeutenden Anlagen in Kitwe und Mufulira. Das Unternehmen betreibt sowohl Tiefbau- als auch Tagebauminen sowie umfassende Verarbeitungsanlagen, darunter Konzentratoren, eine Schmelzhütte und eine Raffinerie. Historisch gesehen war Mopani ein Eckpfeiler des sambischen Copperbelt-Bergbaus und hat die wirtschaftliche Entwicklung der Städte Kitwe und Mufulira über Jahrzehnte geprägt. Nach einer Phase im Besitz internationaler Konzerne wie Glencore übernahm der sambische Staat über ZCCM-IH im Jahr 2021 die volle Kontrolle, bevor neue Investitionspartner gesucht wurden. Die Mine ist bekannt für ihre tiefen Schächte, die zu den tiefsten in Afrika gehören und modernste Bergbautechnologie erfordern. Neben der Kupferproduktion ist Mopani ein wichtiger Produzent von Kobalt, einem kritischen Mineral für die globale Energiewende. Das Unternehmen investiert kontinuierlich in die Modernisierung seiner Anlagen, um die Effizienz zu steigern und Umweltstandards zu erfüllen. Tausende von Arbeitsplätzen hängen direkt und indirekt von der Vitalität dieser Minen ab. Mopani betreibt zudem soziale Programme in den Bereichen Bildung und Gesundheit in den umliegenden Gemeinden.",
@@ -48,6 +54,9 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       hu: ["A Mopani két fő helyszínen, Kitwében és Mufulirában működtet üzemeket.", "2021-ben a ZCCM-IH szimbolikus 1 dollárért plusz az adósságokért vette át a bányát.", "A mufulirai bánya már az 1930-as években megkezdte működését.", "A Mopani évente több tízezer tonna rezet és jelentős mennyiségű kobaltot termel.", "A bánya aknái több mint 1200 méter mélyen nyúlnak a föld alá.", "A vállalat a zambiai Copperbelt régió egyik legnagyobb foglalkoztatója."],
       ro: ["Mopani operează facilități în două locații principale: Kitwe și Mufulira.", "În 2021, ZCCM-IH a preluat mina pentru prețul simbolic de 1 USD plus datorii.", "Mina Mufulira a fost pusă în funcțiune încă din anii 1930.", "Mopani produce anual zeci de mii de tone de cupru și cantități semnificative de cobalt.", "Puțurile minei ajung la o adâncime de peste 1.200 de metri sub pământ.", "Compania este unul dintre cei mai mari angajatori din regiunea Copperbelt a Zambiei."],
       en: ["Mopani operates dual processing hubs in the cities of Kitwe and Mufulira.", "ZCCM-IH acquired 100% of the mine from Glencore in 2021 for a nominal $1 plus debt.", "The Mufulira operations date back to the initial mining boom of the 1930s.", "The complex produces a significant share of Zambia's refined copper and cobalt.", "The underground shafts at Mopani reach depths exceeding 1,200 meters.", "The company remains a vital economic engine for the Copperbelt province."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -65,7 +74,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       de: "Ein bedeutender Kupfer- und Kobaltproduzent im sambischen Kupfergürtel.",
       hu: "Jelentős réz- és kobalttermelő a zambiai rézövezetben.",
       ro: "Un producător important de cupru și cobalt în Centura de Cupru din Zambia.",
-      en: "A major copper and cobalt producer in the Zambian Copperbelt."
+      en: "A major copper and cobalt producer in the Zambian Copperbelt.",
+      es: "Un importante productor de cobre y cobalto en el cinturón de cobre de Zambia.",
+      pt: "Um importante produtor de cobre e cobalto na cintura de cobre da Zâmbia.",
+      fr: "Un important producteur de cuivre et de cobalt dans la ceinture de cuivre zambienne.",
     },
     facts: {
       de: [
@@ -83,7 +95,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       en: [
         "One of the wettest mines globally.",
         "Also produces cobalt.",
-      ]
+      ],
+      es: ["Una de las minas más húmedas del mundo.", "También produce cobalto."],
+      pt: ["Uma das minas mais húmidas do mundo.", "Também produz cobalto."],
+      fr: ["L'une des mines les plus humides au monde.", "Produit également du cobalt."],
     }, image: "/poi-images/zm-konkola-copper-mines-economic-v2.webp",
     descriptionAdvanced: {
       de: "Konkola Copper Mines (KCM) ist eines der größten Bergbauunternehmen in Sambia und betreibt Minen in Chililabombwe und Chingola. Das Flaggschiff des Unternehmens ist die Konkola-Tiefmine, die als eine der wasserreichsten Minen der Welt bekannt ist und gewaltige Pumpkapazitäten erfordert. KCM umfasst integrierte Anlagen, darunter eine moderne Schmelzhütte in Chingola und eine Raffinerie. Die Mine verfügt über einige der reichsten Kupfererzvorkommen Afrikas, was sie strategisch unverzichtbar für die sambische Wirtschaft macht. Das Unternehmen blickt auf eine komplexe Geschichte von Eigentümerwechseln zurück, wobei Vedanta Resources über viele Jahre der Hauptaktionär war. Aufgrund ihrer Größe ist die Mine ein zentraler Faktor für das Bruttoinlandsprodukt Sambias und bietet Tausenden von Menschen Arbeit. Die technologische Herausforderung des Tiefbaus unter extremen Wasserbedingungen macht Konkola zu einem Referenzprojekt für internationales Ingenieurswesen. Neben Kupfer werden auch bedeutende Mengen an Kobalt gewonnen. In jüngster Zeit stand KCM im Zentrum juristischer und politischer Auseinandersetzungen über die Kontrolle und Revitalisierung seiner Anlagen. Das Unternehmen engagiert sich zudem stark in der Förderung des lokalen Sports und der sozialen Infrastruktur in der Copperbelt-Region.",
@@ -96,6 +111,9 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       hu: ["A Konkola bánya naponta mintegy 400 000 köbméter vizet szivattyúz ki a mélyből.", "A KCM rendelkezik Afrika egyik legmodernebb rézolvasztójával Chingolában.", "A konkolai érc kiemelkedően magas, közel 4%-os réztartalommal rendelkezik.", "A Vedanta Resources több mint egy évtizedig volt a KCM többségi tulajdonosa.", "A Konkola Deep Mining Project (KDMP) 1500 méter mélyen lévő készleteket céloz meg.", "A bányát eredetileg az 1950-es években nyitották meg Bancroft Mine néven."],
       ro: ["Mina Konkola pompează zilnic aproximativ 400.000 de metri cubi de apă din adâncime.", "KCM deține una dintre cele mai moderne topitorii de cupru din Africa, la Chingola.", "Minereul de la Konkola are un conținut de cupru excepțional de ridicat, de aproape 4%.", "Vedanta Resources a deținut pachetul majoritar de acțiuni la KCM timp de peste un deceniu.", "Proiectul Konkola Deep Mining (KDMP) vizează zăcăminte la peste 1.500 m adâncime.", "Mina a fost deschisă inițial în anii 1950 sub numele de Bancroft Mine."],
       en: ["Konkola pumps approximately 400,000 cubic meters of water daily to keep shafts dry.", "KCM's Nchanga smelter is one of the largest and most advanced in southern Africa.", "The Konkola ore body has a high copper grade, averaging nearly 4%.", "Vedanta Resources has historically been the principal investor in the KCM assets.", "The Konkola Deep Mining Project targets reserves at depths exceeding 1,500 meters.", "The mine was officially commissioned in the 1950s and was originally named Bancroft."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -113,7 +131,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       de: "Afrikas größte Kupfermine, die zudem Gold fördert.",
       hu: "Afrika legnagyobb rézbányája, amely aranyat is termel.",
       ro: "Cea mai mare mină de cupru din Africa, care extrage și aur.",
-      en: "Africa's largest copper mine, which also produces gold."
+      en: "Africa's largest copper mine, which also produces gold.",
+      es: "La mina de cobre más grande de África, que también extrae oro.",
+      pt: "A maior mina de cobre de África, que também extrai ouro.",
+      fr: "La plus grande mine de cuivre d'Afrique, qui extrait également de l'or.",
     },
     facts: {
       de: [
@@ -131,7 +152,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       en: [
         "Located near Solwezi.",
         "Operated as an open-pit mine.",
-      ]
+      ],
+      es: ["Situada cerca de Solwezi.", "Se explota a cielo abierto."],
+      pt: ["Situada perto de Solwezi.", "Explorada a céu aberto."],
+      fr: ["Située près de Solwezi.", "Exploitée à ciel ouvert."],
     },
     descriptionAdvanced: {
       de: "Die Kansanshi Kupfer-Gold-Mine bei Solwezi ist die größte Kupfermine Afrikas nach Produktionskapazität und ein Flaggschiff des Bergbaus in Sambia. Sie wird von First Quantum Minerals (FQM) betrieben, die eine Mehrheitsbeteiligung halten, während der sambische Staat über ZCCM-IH beteiligt ist. Kansanshi unterscheidet sich von den traditionellen Minen des Copperbelt durch seine Lage in der Nordwestprovinz und sein signifikantes Goldvorkommen als Nebenprodukt. Die Anlage nutzt modernste Tagebautechnologien und verfügt über hochmoderne Laugungs- und Elektrolyseanlagen sowie eine eigene Schmelzhütte. Seit der Wiederaufnahme des Betriebs im Jahr 2005 hat Kansanshi die wirtschaftliche Landschaft von Solwezi grundlegend verändert und die Stadt zu einem boomenden Wirtschaftszentrum gemacht. Die Mine ist bekannt für ihre hohe Effizienz und ihre Fähigkeit, sowohl Oxid- als auch Sulfiderze gleichzeitig zu verarbeiten. Neben der wirtschaftlichen Bedeutung ist die Mine ein Vorreiter in Umwelt- und Sozialstandards in Sambia. Die Steuereinnahmen aus Kansanshi sind eine der wichtigsten Einnahmequellen für den sambischen Staatshaushalt. Das Unternehmen investiert massiv in Bildungsprogramme und die Förderung lokaler Zulieferer. Die geplante Erweiterung S3 wird die Lebensdauer der Mine um Jahrzehnte verlängern.",
@@ -144,6 +168,9 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       hu: ["A Kansanshi évente körülbelül 340 000 tonna rezet termel.", "A bánya Zambia egyik legnagyobb aranytermelője.", "A First Quantum Minerals (FQM) a bánya részvényeinek 80%-át birtokolja.", "A Kansanshi a világ egyik legnagyobb Isotasmelt technológiájú rézolvasztóját üzemelteti.", "A bánya körülbelül 10 kilométerre északra fekszik Solwezi városától.", "Az S3 bővítési projekt több mint 1,25 milliárd dolláros beruházást foglal magában."],
       ro: ["Kansanshi produce anual aproximativ 340.000 de tone de cupru.", "Mina este unul dintre cei mai mari producători de aur din Zambia.", "First Quantum Minerals (FQM) deține 80% din acțiunile minei.", "Kansanshi operează una dintre cele mai mari topitorii de cupru din lume folosind tehnologia Isotasmelt.", "Mina este situată la aproximativ 10 kilometri nord de orașul Solwezi.", "Proiectul de expansiune S3 implică investiții de peste 1,25 miliarde USD."],
       en: ["Kansanshi has a peak annual production capacity of approximately 340,000 tonnes of copper.", "It is Zambia's most significant producer of gold as a secondary mineral.", "The mine is 80% owned and operated by the Canadian firm First Quantum Minerals.", "The on-site smelter is one of the world's largest using advanced Isasmelt technology.", "The facility is located just 10 kilometers north of the Solwezi town center.", "The S3 expansion is a $1.25 billion project designed to boost long-term output."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -161,7 +188,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       de: "Eine groß angelegte Tagebaumine für Kupfer in der Nordwestprovinz.",
       hu: "Nagy kiterjedésű külszíni rézbánya az Északnyugati tartományban.",
       ro: "O mină de cupru de suprafață la scară largă în Provincia de Nord-Vest.",
-      en: "A large-scale open-pit copper mine in the North-Western Province."
+      en: "A large-scale open-pit copper mine in the North-Western Province.",
+      es: "Una mina de cobre a cielo abierto a gran escala en la Provincia del Noroeste.",
+      pt: "Uma mina de cobre a céu aberto em grande escala na Província do Noroeste.",
+      fr: "Une mine de cuivre à ciel ouvert à grande échelle dans la province du Nord-Ouest.",
     },
     facts: {
       de: [
@@ -179,7 +209,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       en: [
         "Opened in 2008.",
         "Processes large amounts of ore.",
-      ]
+      ],
+      es: ["Inaugurada en 2008.", "Procesa grandes cantidades de mineral."],
+      pt: ["Inaugurada em 2008.", "Processa grandes quantidades de minério."],
+      fr: ["Inaugurée en 2008.", "Traite de grandes quantités de minerai."],
     }, image: "/poi-images/zm-lumwana-copper-mine-economic-v2.webp",
     descriptionAdvanced: {
       de: "Die Lumwana Kupfermine ist ein bedeutendes Tagebauprojekt in der Nordwestprovinz von Sambia, etwa 100 Kilometer westlich von Solwezi. Sie wird von Barrick Gold betrieben, einem der weltweit führenden Bergbauunternehmen. Die Mine ist bekannt für ihre massiven Erzkörper mit niedrigem Kupfergehalt, die eine großflächige, hocheffiziente Verarbeitung erfordern. Seit ihrer Inbetriebnahme im Jahr 2008 hat Lumwana maßgeblich dazu beigetragen, die Nordwestprovinz als neue 'Bergbau-Frontier' Sambias zu etablieren. Die Anlage umfasst zwei Haupttagebaue, Malundwe und Chimiwungo, und nutzt modernste Zerkleinerungs- und Flotationsanlagen. Das Projekt hat zur Entstehung einer komplett neuen Stadt für die Mitarbeiter und deren Familien geführt. Wirtschaftlich ist Lumwana ein entscheidender Faktor für die Exporterlöse Sambias und ein bedeutender Arbeitgeber in der Region. Barrick Gold hat in den letzten Jahren Pläne für eine massive Erweiterung (Super Pit) angekündigt, um die Mine in einen erstklassigen, langlebigen Kupferproduzenten zu verwandeln. Diese Investitionen unterstreichen das Vertrauen internationaler Investoren in das sambische Bergbauumfeld. Die Mine engagiert sich zudem in Programmen zur Förderung der wirtschaftlichen Teilhabe von Frauen und zur lokalen Bildungsunterstützung.",
@@ -192,6 +225,9 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       hu: ["A Lumwanát 100%-ban a Barrick Gold üzemelteti.", "A bánya évente körülbelül 200 000 tonna rézkoncentrátumot termel.", "A Super Pit projekt a termelést akár 240 000 tonnára is növelheti.", "A bánya a világ egyik legnagyobb flotáló üzemét használja.", "A Lumwana volt az első nagy bányászati beruházás Zambia Északnyugati tartományában.", "A bányában óriási, 240 tonna teherbírású dömper teherautókat használnak."],
       ro: ["Lumwana este operată 100% de către Barrick Gold.", "Mina produce anual aproximativ 200.000 de tone de concentrat de cupru.", "Proiectul Super Pit vizează creșterea producției până la 240.000 de tone.", "Mina utilizează una dintre cele mai mari instalații de flotație din lume.", "Lumwana a fost prima investiție majoră în Provincia de Nord-Vest a Zambiei.", "În mină sunt utilizate autobasculante gigantice cu o capacitate de 240 de tone."],
       en: ["Lumwana is 100% owned and operated by Barrick Gold Corporation.", "The mine has a consistent output of approximately 200,000 tonnes of copper annually.", "The proposed Super Pit expansion aims to increase production to 240,000 tonnes per year.", "It features one of the most technologically advanced flotation plants in southern Africa.", "Lumwana was the pioneering project for the North-Western Province's mining boom.", "The operation utilizes ultra-class haul trucks with 240-tonne payloads."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -209,7 +245,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       de: "Eine Untertagemine, die für die Gewinnung von hochwertigem Kupfererz bekannt ist.",
       hu: "Egy föld alatti bánya, amely kiváló minőségű rézérc kitermeléséről ismert.",
       ro: "O mină subterană cunoscută pentru extracția de minereu de cupru de înaltă calitate.",
-      en: "An underground mine known for extracting high-grade copper ore."
+      en: "An underground mine known for extracting high-grade copper ore.",
+      es: "Una mina subterránea conocida por la extracción de mineral de cobre de alta calidad.",
+      pt: "Uma mina subterrânea conhecida pela extração de minério de cobre de alta qualidade.",
+      fr: "Une mine souterraine réputée pour l'extraction de minerai de cuivre de haute qualité.",
     },
     facts: {
       de: [
@@ -227,7 +266,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       en: [
         "Underground operation.",
         "Important source of foreign exchange.",
-      ]
+      ],
+      es: ["Operación de minería profunda.", "Importante fuente de divisas."],
+      pt: ["Operação de mineração profunda.", "Importante fonte de divisas."],
+      fr: ["Opération de mine profonde.", "Importante source de devises."],
     }, image: "/poi-images/zm-lubambe-copper-mine-economic-v2.webp",
     descriptionAdvanced: {
       de: "Die Lubambe Kupfermine, früher bekannt als Konkola North, liegt im Norden des sambischen Copperbelts in der Nähe der Stadt Chililabombwe. Sie ist ein Tiefbauprojekt, das strategisch an der Grenze zur Demokratischen Republik Kongo positioniert ist. Die Mine wird von EMR Capital betrieben, einem globalen Private-Equity-Unternehmen mit Fokus auf Ressourcen. Lubambe zeichnet sich durch seine geologische Lage im Konkola-Becken aus, einer Region mit extrem hohen Kupfergehalten. Die Mine nutzt moderne vertikale Schächte und ein mechanisiertes Untertage-Abbausystem, um das Erz effizient zu fördern. Seit ihrer Inbetriebnahme im Jahr 2012 hat sie eine wechselvolle Geschichte mit verschiedenen Investitionspartnern hinter sich. Wirtschaftlich trägt die Mine signifikant zum Bergbauportfolio von Chililabombwe bei und schafft wichtige Arbeitsplätze in einer Region, die stark vom Bergbau abhängig ist. In den letzten Jahren wurden umfangreiche Explorationsarbeiten durchgeführt, um das Erweiterungspotenzial der Mine (Lubambe Extension) zu bewerten, das als eines der hochwertigsten unerschlossenen Kupferprojekte weltweit gilt. Die Mine legt großen Wert auf Arbeitssicherheit und die Einhaltung internationaler Umweltstandards. Lubambe engagiert sich zudem in lokalen Gemeinschaftsprojekten, insbesondere in den Bereichen Trinkwasserversorgung und Landwirtschaft.",
@@ -240,6 +282,9 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       hu: ["A Lubambe eredetileg a Vale és az African Rainbow Minerals közös vállalkozása volt.", "A bányát 2012-ben avatta fel hivatalosan Zambia elnöke.", "Az EMR Capital 2017-ben szerezte meg a bánya 80%-os tulajdonrészét.", "A Lubambe Extension több mint 3,6%-os réztartalmú készletekkel rendelkezik.", "A bánya közvetlen közelében található a Kasumbalesa határátkelőhely.", "A Lubambe modern flotációs rendszert alkalmaz a koncentrátum előállításához."],
       ro: ["Lubambe a fost un joint venture între Vale și African Rainbow Minerals.", "Mina a fost inaugurată oficial în 2012 de către președintele Zambiei.", "EMR Capital a achiziționat o participație de 80% în mină în anul 2017.", "Extinderea Lubambe deține rezerve cu un conținut de cupru de peste 3,6%.", "Mina se află în imediata apropiere a punctului de trecere a frontierei Kasumbalesa.", "Lubambe utilizează un sistem modern de flotație pentru obținerea concentratului."],
       en: ["Lubambe was initially established as a joint venture between Vale and African Rainbow Minerals.", "The mine was officially opened for production in 2012.", "EMR Capital acquired an 80% controlling stake in the asset in 2017.", "The high-grade Lubambe Extension deposit averages over 3.6% copper content.", "The mine's location is just south of the critical Kasumbalesa border crossing.", "The operation uses a modern on-site concentrator with a high recovery rate."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -257,7 +302,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       de: "Ein bedeutendes metallurgisches Zentrum zur Raffination von Kobalt und Kupfer.",
       hu: "Jelentős kohászati központ kobalt és réz finomítására.",
       ro: "Un centru metalurgic major pentru rafinarea cobaltului și cuprului.",
-      en: "A major metallurgical center for the refining of cobalt and copper."
+      en: "A major metallurgical center for the refining of cobalt and copper.",
+      es: "Un importante centro metalúrgico para el refinado de cobalto y cobre.",
+      pt: "Um importante centro metalúrgico para a refinação de cobalto e cobre.",
+      fr: "Un centre métallurgique majeur pour le raffinage du cobalt et du cuivre.",
     },
     facts: {
       de: [
@@ -275,7 +323,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       en: [
         "Largest cobalt refinery in the country.",
         "Processes ores from the entire region.",
-      ]
+      ],
+      es: ["Mayor refinería de cobalto del país.", "Procesa minerales de toda la región."],
+      pt: ["Maior refinaria de cobalto do país.", "Processa minérios de toda a região."],
+      fr: ["Plus grande raffinerie de cobalt du pays.", "Traite des minerais provenant de toute la région."],
     }, image: "/poi-images/zm-chambishi-metals-economic-v2.webp",
     descriptionAdvanced: {
       de: "Chambishi Metals ist eine der bedeutendsten Raffinerieanlagen in Sambia und liegt im Herzen des Copperbelts zwischen Kitwe und Chingola. Die Anlage ist weltweit bekannt für ihre spezialisierte Verarbeitung von Kupfer- und Kobaltkonzentraten sowie für die Rückgewinnung von Metallen aus historischen Schlackenhalden. Durch den Einsatz moderner Lichtbogenofentechnologie (Cosac) konnte Chambishi Metals die Effizienz bei der Kobaltextraktion erheblich steigern. Historisch gesehen spielte die Raffinerie eine Schlüsselrolle bei der Verarbeitung von Erzen aus verschiedenen Minen der Region, darunter auch Konzentrate aus der Demokratischen Republik Kongo. Das Unternehmen war im Besitz verschiedener internationaler Gruppen, darunter der Eurasian Resources Group (ERG). Chambishi Metals trägt wesentlich dazu bei, dass Sambia als einer der größten Kobaltproduzenten der Welt positioniert bleibt, was in der Ära der Elektromobilität von strategischer Bedeutung ist. Neben der Metallproduktion ist die Anlage ein wichtiger lokaler Arbeitgeber und investiert in die soziale Infrastruktur der Stadt Chambishi. In Phasen volatiler Marktpreise stand die Raffinerie vor betrieblichen Herausforderungen, bleibt aber ein unverzichtbarer Teil der sambischen Bergbau-Wertschöpfungskette. Die strikte Einhaltung von Emissionskontrollen und Umweltauflagen ist ein zentraler Bestandteil des modernen Betriebs.",
@@ -288,6 +339,9 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       hu: ["A Chambishi Metals a világ egyik legnagyobb salakfeldolgozó üzemét működteti.", "A létesítmény a Cosac-eljárást alkalmazza a kobalt salakból történő kinyerésére.", "A vállalat meghatározó szerepet játszott az Eurasian Resources Group (ERG) létrehozásában.", "A finomító a Copperbelt tartomány Kalulushi kerületében található.", "A Chambishi Metals rézkatódokat és nagy tisztaságú kobaltfémet állít elő.", "A chambishi salakhalom becslések szerint több mint 20 millió tonna anyagot tartalmaz."],
       ro: ["Chambishi Metals operează una dintre cele mai mari instalații de procesare a zgurii din lume.", "Instalația utilizează procesul Cosac pentru recuperarea cobaltului din zgură.", "Compania a fost un actor important în formarea Eurasian Resources Group (ERG).", "Rafinăria este situată în districtul Kalulushi din provincia Copperbelt.", "Chambishi Metals produce catozi de cupru și cobalt metalic de înaltă puritate.", "Halda de zgură din Chambishi conține aproximativ peste 20 de milioane de tone de material."],
       en: ["Chambishi Metals houses one of the largest slag treatment plants on the planet.", "The refinery utilizes the specialized Cosac electric arc furnace for cobalt recovery.", "The operation is a key asset within the Eurasian Resources Group (ERG) portfolio.", "The facility is located within the Kalulushi District of the Zambian Copperbelt.", "The refinery produces LME-grade copper cathodes and high-purity cobalt metal.", "The historic Chambishi slag dump is estimated to hold over 20 million tonnes of material."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -305,7 +359,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       de: "Die Chibuluma-Mine bei Kalulushi ist eines der ältesten und effizientesten Kupferbergwerke im Copperbelt.",
       hu: "Zambia egyik legrégebbi és legfontosabb rézbányája a Copperbelt tartományban, amely évtizedek óta hozzájárul az ország gazdaságához.",
       ro: "O mină cu importanță istorică în Centura de Cupru din Zambia.",
-      en: "A historically significant mine in the Zambian Copperbelt."
+      en: "A historically significant mine in the Zambian Copperbelt.",
+      es: "La mina Chibuluma, cerca de Kalulushi, es una de las explotaciones de cobre más antiguas y eficientes del Copperbelt.",
+      pt: "A mina Chibuluma, perto de Kalulushi, é uma das minas de cobre mais antigas e eficientes de Copperbelt.",
+      fr: "La mine de Chibuluma, près de Kalulushi, est l'une des mines de cuivre les plus anciennes et les plus efficaces du Copperbelt.",
     },
     facts: {
       de: ["Bedeutende Kupferlagerstätte", "Modernisierte Untertagemine", "Wichtiger Arbeitgeber in Kalulushi"],
@@ -317,7 +374,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       en: [
         "Underground mine.",
         "Has been privatized.",
-      ]
+      ],
+      es: ["Importante yacimiento de cobre", "Mina subterránea modernizada", "Importante empleador en Kalulushi"],
+      pt: ["Importante depósito de cobre", "Mina subterrânea modernizada", "Empregador importante em Kalulushi"],
+      fr: ["Important gisement de cuivre", "Mine souterraine modernisée", "Employeur majeur à Kalulushi"],
     }, image: "/poi-images/zm-chibuluma-copper-mine-economic-v2.webp",
     descriptionAdvanced: {
       de: "Die Chibuluma-Kupfermine befindet sich in Kalulushi in der Provinz Copperbelt und gilt als eine der ertragreichsten Untertagebauanlagen Sambias. Der Bergbau begann hier offiziell im Jahr 1955 unter der Leitung der Rhodesian Selection Trust. Die Mine ist bekannt für ihr außergewöhnlich hochgradiges Kupfererz, das oft Gehalte von über 3 Prozent erreicht, was deutlich über dem Landesdurchschnitt liegt. Im Jahr 1997 wurde die Mine im Zuge der Privatisierung an das südafrikanische Unternehmen Metorex verkauft, was zu umfangreichen Modernisierungen führte. Die Anlage besteht heute aus zwei Hauptbereichen, Chibuluma West und Chibuluma South, wobei letztere im Jahr 2001 in Betrieb genommen wurde. Der Betrieb spielt eine zentrale Rolle für die lokale Wirtschaft von Kalulushi und beschäftigt Hunderte von Fachkräften. Trotz der fortschreitenden Erschöpfung einiger Reserven bleibt Chibuluma ein Symbol für die technologische Entwicklung und Effizienz im sambischen Bergbausektor des 21. Jahrhunderts.",
@@ -330,6 +390,9 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       hu: ["A bánya hivatalos termelése 1955-ben vette kezdetét.", "Az érc réztartalma gyakran meghaladja a 3 százalékot.", "1997-ben privatizálták és a Metorex tulajdonába került.", "A Chibuluma South részleget 2001-ben nyitották meg.", "A létesítmény Kalulushi körzetében található.", "A mélyművelésű fejtések mélysége meghaladja az 500 métert."],
       ro: ["Producția oficială a minei a început în anul 1955.", "Concentrația de cupru din minereu depășește adesea 3%.", "Privatizarea și vânzarea către Metorex au avut loc în 1997.", "Sectorul Chibuluma South a fost inaugurat în anul 2001.", "Mina este situată administrativ în districtul Kalulushi.", "Exploatarea subterană a atins adâncimi de peste 500 de metri."],
       en: ["Official production at the mine began in 1955.", "Copper ore grades frequently exceed 3 percent.", "The mine was privatized and sold to Metorex in 1997.", "The Chibuluma South section was commissioned in 2001.", "The facility is situated in the Kalulushi District.", "Underground workings have reached depths exceeding 500 meters."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -347,7 +410,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       de: "Eine der neuesten und modernsten Großminen für Kupfererz.",
       hu: "Az egyik legújabb és legkorszerűbb nagy rézércbánya.",
       ro: "Una dintre cele mai noi și moderne mine mari de minereu de cupru.",
-      en: "One of the newest and most modern large-scale copper ore mines."
+      en: "One of the newest and most modern large-scale copper ore mines.",
+      es: "Una de las minas a gran escala más nuevas y modernas para la extracción de cobre.",
+      pt: "Uma das maiores minas de cobre mais recentes e modernas.",
+      fr: "L'une des mines de cuivre à grande échelle les plus récentes et les plus modernes.",
     },
     facts: {
       de: [
@@ -365,7 +431,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       en: [
         "Uses state-of-the-art technology.",
         "High production capacity.",
-      ]
+      ],
+      es: ["Utiliza tecnología de vanguardia.", "Alta capacidad de producción."],
+      pt: ["Utiliza tecnologia de ponta.", "Elevada capacidade de produção."],
+      fr: ["Utilise une technologie de pointe.", "Haute capacité de production."],
     }, image: "/poi-images/zm-sentinel-copper-mine-economic-v2.webp",
     descriptionAdvanced: {
       de: "Die Sentinel-Kupfermine liegt im Distrikt Kalumbila in der Nordwestprovinz Sambias und stellt eine der bedeutendsten Investitionen im modernen sambischen Bergbau dar. Die von First Quantum Minerals entwickelte Mine wurde im Jahr 2015 nach einer massiven Investition von rund 2,1 Milliarden US-Dollar in Betrieb genommen. Sentinel ist als großflächiger Tagebau konzipiert und verfügt über eine der modernsten Aufbereitungsanlagen der Welt, die darauf ausgelegt ist, jährlich bis zu 300.000 Tonnen Kupfer zu produzieren. Das Projekt umfasste nicht nur den Bau der Mine, sondern auch die Entwicklung der neuen Stadt Kalumbila sowie umfangreiche Infrastrukturmaßnahmen wie Straßen und Stromleitungen. Aufgrund der relativ geringen Kupfergehalte des Erzes setzt die Mine auf hocheffiziente, großvolumige Verarbeitungstechnologien. Sentinel ist ein Eckpfeiler der sambischen Strategie, den Bergbau über die traditionelle Copperbelt-Region hinaus in den Westen des Landes zu expandieren. Der Betrieb trägt wesentlich zum Bruttoinlandsprodukt Sambias und zur Schaffung Tausender Arbeitsplätze bei.",
@@ -378,6 +447,9 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       hu: ["A bánya üzembe helyezése 2015-ben történt meg.", "A beruházás összege elérte a 2,1 milliárd amerikai dollárt.", "Éves tervezett réztermelése 300 000 tonna.", "A létesítményt a First Quantum Minerals üzemelteti.", "Az újonnan alapított Kalumbila körzetben található.", "Itt található a világ egyik legnagyobb őrlőberendezése."],
       ro: ["Inaugurarea oficială a minei a avut loc în anul 2015.", "Costurile de investiție s-au ridicat la aproximativ 2,1 miliarde USD.", "Capacitatea anuală de producție este de 300.000 de tone de cupru.", "Mina este operată de compania First Quantum Minerals.", "Este situată în districtul Kalumbila, dezvoltat recent.", "Deține una dintre cele mai mari instalații de măcinare din lume."],
       en: ["The mine was officially commissioned in 2015.", "Investment costs totaled approximately 2.1 billion USD.", "Designed annual copper production is 300,000 tonnes.", "Operated by the mining company First Quantum Minerals.", "Located in the newly developed Kalumbila District.", "Features the world's largest milling installation of its type."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -395,7 +467,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       de: "Der größte Produzent von Branntkalk und Kalkstein in Sambia.",
       hu: "Zambia legnagyobb égetett mész és mészkő termelője.",
       ro: "Cel mai mare producător de var nestins și calcar din Zambia.",
-      en: "The largest producer of quicklime and limestone in Zambia."
+      en: "The largest producer of quicklime and limestone in Zambia.",
+      es: "El mayor productor de cal viva y piedra caliza de Zambia.",
+      pt: "O maior produtor de cal viva e calcário da Zâmbia.",
+      fr: "Le plus grand producteur de chaux vive et de calcaire de Zambie.",
     },
     facts: {
       de: [
@@ -413,7 +488,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       en: [
         "Supplies the mining industry.",
         "Founded in the 1930s.",
-      ]
+      ],
+      es: ["Abastece a la industria minera.", "Fundada en la década de 1930."],
+      pt: ["Abastece a indústria mineira.", "Fundada na década de 1930."],
+      fr: ["Fournit l'industrie minière.", "Fondée dans les années 1930."],
     }, image: "/poi-images/zm-ndola-lime-company-economic-v2.webp",
     descriptionAdvanced: {
       de: "Die Ndola Lime Company (NDLC) ist der älteste und bedeutendste Kalkproduzent Sambias und spielt eine unverzichtbare Rolle für die nationale Bergbauindustrie. Das Unternehmen wurde bereits im Jahr 1931 gegründet und befindet sich im Distrikt Masaiti, nahe der Industriestadt Ndola in der Provinz Copperbelt. Kalkstein ist ein essenzieller Rohstoff für die Kupfergewinnung, da er als Flussmittel bei der Verhüttung dient und zur Neutralisierung säurehaltiger Abwässer in den Minen verwendet wird. NDLC betreibt umfangreiche Steinbrüche und moderne Kalkbrennanlagen, darunter zwei große Drehrohröfen zur Herstellung von Branntkalk. Im Laufe der Jahrzehnte durchlief das Unternehmen verschiedene Eigentümerstrukturen und gehört heute mehrheitlich zur staatlichen Beteiligungsholding ZCCM-IH. Trotz des Wettbewerbs durch neue Marktteilnehmer bleibt NDLC der strategische Hauptlieferant für die großen Bergbauunternehmen im Copperbelt. Die Anlage trägt nicht nur zur industriellen Wertschöpfung bei, sondern ist auch ein wichtiger Arbeitgeber in der Region Masaiti.",
@@ -426,6 +504,9 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       hu: ["A Ndola Lime Company-t 1931-ben alapították.", "A vállalat székhelye a Masaiti körzetben található.", "Többségi tulajdonosa az állami ZCCM-IH holdingtársaság.", "Két nagyméretű forgókemencét üzemeltet mészgyártáshoz.", "A sambiai rézolvasztók elsődleges folyósítószer-beszállítója.", "A mészkövet helyi külszíni kőfejtőkben termelik ki."],
       ro: ["Ndola Lime Company a fost fondată în anul 1931.", "Sediul companiei se află în districtul Masaiti.", "Este deținută majoritar de holdingul de stat ZCCM-IH.", "Operează două cuptoare rotative mari pentru producția de var.", "Este principalul furnizor de fondanți pentru topitoriile de cupru.", "Calcarul este extras prin exploatare la suprafață în cariere locale."],
       en: ["Ndola Lime Company was established in 1931.", "The company is based in the Masaiti District.", "It is majority-owned by the state-run ZCCM-IH holding.", "Operates two large rotary kilns for lime production.", "Primary supplier of fluxing agents to Zambian copper smelters.", "Limestone is extracted from local open-cast quarries."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -443,7 +524,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       de: "Eine moderne Zementfabrik, die den Baumarkt in Sambia und den Nachbarländern versorgt.",
       hu: "Modern cementgyár, amely a zambiai és a szomszédos országok építőipari piacát látja el.",
       ro: "O fabrică modernă de ciment care aprovizionează piața construcțiilor din Zambia și țările vecine.",
-      en: "A modern cement plant supplying the construction market in Zambia and neighboring countries."
+      en: "A modern cement plant supplying the construction market in Zambia and neighboring countries.",
+      es: "Una moderna fábrica de cemento que abastece al mercado de la construcción en Zambia y los países vecinos.",
+      pt: "Uma moderna fábrica de cimento que abastece o mercado de construção na Zâmbia e nos países vizinhos.",
+      fr: "Une cimenterie moderne qui approvisionne le marché de la construction en Zambie et dans les pays voisins.",
     },
     facts: {
       de: [
@@ -461,7 +545,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       en: [
         "Belongs to the Nigerian Dangote Group.",
         "Daily capacity of several thousand tons.",
-      ]
+      ],
+      es: ["Pertenece al grupo nigeriano Dangote.", "Capacidad diaria de varios miles de toneladas."],
+      pt: ["Pertence ao grupo nigeriano Dangote.", "Capacidade diária de vários milhares de toneladas."],
+      fr: ["Appartient au groupe nigérian Dangote.", "Capacité quotidienne de plusieurs milliers de tonnes."],
     }, image: "/poi-images/zm-dangote-cement-plant-economic-v2.webp",
     descriptionAdvanced: {
       de: "Das Dangote-Zementwerk in Sambia, gelegen in Ndola in der Provinz Copperbelt, ist eine der modernsten und größten Zementproduktionsanlagen im südlichen Afrika. Es wurde von der Dangote Group des nigerianischen Unternehmers Aliko Dangote errichtet und im Jahr 2015 offiziell in Betrieb genommen. Mit einer Investitionssumme von rund 400 Millionen US-Dollar verfügt das Werk über eine installierte Kapazität von 1,5 Millionen Tonnen Zement pro Jahr. Die Anlage ist ein vollständig integriertes Werk, das über einen eigenen Kalksteinbruch und ein eigenes 30-Megawatt-Kohlekraftwerk zur autarken Stromversorgung verfügt. Der Eintritt von Dangote in den sambischen Markt führte zu einem signifikanten Anstieg des Wettbewerbs und einer Stabilisierung der Zementpreise, was den Bausektor des Landes erheblich stützte. Neben der Versorgung des Inlandsmarktes exportiert das Werk Zement in benachbarte Länder wie die Demokratische Republik Kongo und Malawi. Es gilt als Musterbeispiel für panafrikanische Investitionen und technologischen Fortschritt in Sambias industrieller Landschaft.",
@@ -474,6 +561,9 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       hu: ["A gyárat hivatalosan 2015-ben helyezték üzembe.", "A beruházás összértéke körülbelül 400 millió dollár volt.", "Éves cementgyártó kapacitása 1,5 millió tonna.", "Saját 30 megawattos széntüzelésű erőművel rendelkezik.", "A nigériai Dangote Group tulajdonában van.", "Cementet exportál Kongóba és Malawiba is."],
       ro: ["Inaugurarea oficială a fabricii a avut loc în anul 2015.", "Investiția totală s-a ridicat la circa 400 de milioane USD.", "Capacitatea anuală de producție este de 1,5 milioane de tone.", "Include o centrală termoelectrică proprie de 30 MW.", "Este deținută de grupul nigerian Dangote Group.", "Exportă ciment în RD Congo și în Malawi."],
       en: ["The plant was officially commissioned in 2015.", "Total investment amounted to approximately 400 million USD.", "Annual production capacity is 1.5 million tonnes.", "Features a dedicated 30 MW coal-fired power station.", "Owned by the Nigerian-based Dangote Group.", "Exports cement to the DR Congo and Malawi."],
+      es: [],
+      pt: [],
+      fr: [],
     },
   },
   {
@@ -491,7 +581,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       de: "Sambias erstes Zementwerk, das eine Schlüsselrolle in der Infrastrukturentwicklung spielte.",
       hu: "Zambia első cementgyára, amely kulcsszerepet játszott az infrastruktúra fejlesztésében.",
       ro: "Prima fabrică de ciment din Zambia, care a jucat un rol cheie în dezvoltarea infrastructurii.",
-      en: "Zambia's first cement plant, playing a key role in infrastructure development."
+      en: "Zambia's first cement plant, playing a key role in infrastructure development.",
+      es: "La primera fábrica de cemento de Zambia, que desempeñó un papel clave en el desarrollo de las infraestructuras.",
+      pt: "A primeira fábrica de cimento da Zâmbia, que desempenhou um papel fundamental no desenvolvimento de infraestruturas.",
+      fr: "La première cimenterie de Zambie, qui a joué un rôle clé dans le développement des infrastructures.",
     },
     facts: {
       de: [
@@ -509,19 +602,28 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       en: [
         "Founded in 1949.",
         "Part of an international building materials group.",
-      ]
+      ],
+      es: ["Fundada en 1949.", "Parte de un grupo internacional de materiales de construcción."],
+      pt: ["Fundada em 1949.", "Parte de um grupo internacional de materiais de construção."],
+      fr: ["Fondée en 1949.", "Fait partie d'un groupe international de matériaux de construction."],
     }, image: "/poi-images/zm-chilanga-cement-economic-v2.webp",
     descriptionAdvanced: {
       de: "Chilanga Cement ist der traditionsreichste Zementhersteller Sambias und ein Symbol für die industrielle Entwicklung des Landes seit der Mitte des 20. Jahrhunderts. Das Unternehmen wurde 1949 gegründet und nahm 1951 die Produktion in seinem ersten Werk in Chilanga, südlich von Lusaka, auf. Ursprünglich zur Unterstützung des Baus der Kariba-Talsperre errichtet, expandierte das Unternehmen später mit einem zweiten Werk in Ndola im Copperbelt. Über Jahrzehnte hinweg war Chilanga Cement ein staatliches Unternehmen, bevor es in den 1990er Jahren privatisiert wurde und Teil der internationalen Konzerne Lafarge und später Holcim wurde. Im Jahr 2021 wurde das Unternehmen von der Huaxin Cement Group übernommen, was ein neues Kapitel in seiner Geschichte einläutete. Mit seiner bekannten Marke 'Mosi-oa-Tunya' bleibt Chilanga Cement der Marktführer in Sambia und beliefert die wichtigsten Infrastruktur- und Bergbauprojekte des Landes. Die Werke in Chilanga und Ndola sind für ihre hohen Umwelt- und Qualitätsstandards bekannt.",
       hu: "A Chilanga Cement Zambia legrégebbi cementgyártó vállalata, amely a 20. század közepe óta a nemzeti ipari fejlődés egyik jelképe. A céget 1949-ben alapították, a termelés pedig 1951-ben indult meg a Lusakától délre fekvő Chilanga városában található első gyárban. Az üzemet eredetileg a Kariba-gát építéséhez szükséges cement biztosítására hozták létre, később azonban egy második gyárral is bővült Ndola városában. Évtizedeken át állami vállalatként működött, majd az 1990-es évek privatizációja során a nemzetközi Lafarge, később pedig a Holcim csoport tagja lett. 2021-ben a kínai Huaxin Cement Group vásárolta meg a vállalatot, új fejezetet nyitva annak történetében. Híres 'Mosi-oa-Tunya' márkájával a Chilanga Cement továbbra is piacvezető maradt Zambiában, kiszolgálva a legfontosabb infrastrukturális és bányászati beruházásokat. A Chilangában és Ndolában működő gyárak kiemelkedő környezetvédelmi és minőségi szabványaikról ismertek a régióban.",
       ro: "Chilanga Cement este cel mai vechi producător de ciment din Zambia, fiind un simbol al dezvoltării industriale a țării încă de la mijlocul secolului al XX-lea. Compania a fost înființată în anul 1949, iar producția a început în 1951 la prima sa fabrică situată în Chilanga, la sud de Lusaka. Inițial, fabrica a fost construită pentru a furniza cimentul necesar construcției barajului Kariba, extinzându-se ulterior cu o a doua unitate în Ndola, în regiunea Copperbelt. Timp de decenii, Chilanga Cement a fost o întreprindere de stat înainte de a fi privatizată în anii '90, devenind parte a grupurilor internaționale Lafarge și ulterior Holcim. În anul 2021, compania a fost achiziționată de grupul chinez Huaxin Cement Group, marcând o nouă etapă în evoluția sa. Prin intermediul brandului său consacrat, 'Mosi-oa-Tunya', Chilanga Cement rămâne lider pe piața locală, furnizând materiale pentru proiecte majore de infrastructură și minerit. Facilitățile din Chilanga și Ndola sunt recunoscute pentru standardele înalte de calitate și protecție a mediului.",
       en: "Chilanga Cement is Zambia's most established cement manufacturer and has served as a symbol of the nation's industrial development since the mid-20th century. Established in 1949, the company commenced production in 1951 at its inaugural plant in Chilanga, located south of Lusaka. Originally founded to provide the cement required for the construction of the Kariba Dam, the firm later expanded with a second major facility in Ndola on the Copperbelt. For several decades, Chilanga Cement operated as a state-owned enterprise before its privatization in the 1990s, when it joined the international Lafarge and later Holcim groups. In 2021, the company was acquired by the Huaxin Cement Group, initiating a new chapter in its corporate history. With its iconic 'Mosi-oa-Tunya' brand, Chilanga Cement maintains its position as the market leader in Zambia, supplying vital infrastructure and mining projects. The plants in Chilanga and Ndola are noted for their adherence to high environmental and quality standards.",
+      es: "Chilanga Cement es una fábrica de cemento situada en Chilanga, a unos 20 kilómetros al sur de Lusaka. Se fundó en 1951 y es uno de los mayores productores de cemento de Zambia, con una capacidad anual de más de 1,5 millones de toneladas. La planta abastece al sector de la construcción del país y exporta a países vecinos. Emplea a unos 500 trabajadores. La instalación utiliza yacimientos locales de piedra caliza. Chilanga Cement desempeña un papel fundamental en el desarrollo de las infraestructuras de Zambia.",
+      pt: "A Chilanga Cement é uma fábrica de cimento em Chilanga, a cerca de 20 quilómetros ao sul de Lusaka. Foi fundada em 1951 e é um dos maiores produtores de cimento da Zâmbia, com uma capacidade anual superior a 1,5 milhões de toneladas. A fábrica abastece o setor de construção do país e exporta para países vizinhos. Emprega cerca de 500 funcionários. A instalação utiliza depósitos locais de calcário. A Chilanga Cement desempenha um papel fundamental no desenvolvimento de infraestruturas da Zâmbia.",
+      fr: "Chilanga Cement est une cimenterie située à Chilanga, à environ 20 kilomètres au sud de Lusaka. Fondée en 1951, elle est l'un des plus grands producteurs de ciment de Zambie avec une capacité annuelle de plus de 1,5 million de tonnes. L'usine approvisionne le secteur de la construction du pays et exporte vers les pays voisins. Elle emploie environ 500 personnes. L'installation utilise des gisements locaux de calcaire. Chilanga Cement joue un rôle clé dans le développement des infrastructures de la Zambie.",
     },
     factsAdvanced: {
       de: ["Gründung von Chilanga Cement im Jahr 1949.", "Produktionsstart im Werk Chilanga im Jahr 1951.", "Bau der Kariba-Talsperre war ursprünglicher Hauptzweck.", "Übernahme durch die Huaxin Cement Group im Jahr 2021.", "Betreibt zwei große Werke in Chilanga und Ndola.", "Bekannteste Produktmarke ist 'Mosi-oa-Tunya' Zement."],
       hu: ["A Chilanga Cement vállalatot 1949-ben alapították.", "A termelés 1951-ben indult meg a chilangai gyárban.", "Eredetileg a Kariba-gát építéséhez hozták létre.", "2021-ben a Huaxin Cement Group tulajdonába került.", "Két nagy gyárat üzemeltet: Chilangában és Ndolában.", "A legismertebb márkaneve a 'Mosi-oa-Tunya' cement."],
       ro: ["Chilanga Cement a fost fondată în anul 1949.", "Producția a început la fabrica din Chilanga în 1951.", "A fost creată inițial pentru a susține construcția barajului Kariba.", "Achiziția de către Huaxin Cement Group a avut loc în 2021.", "Compania operează două unități majore în Chilanga și Ndola.", "Cea mai cunoscută marcă de produs este cimentul 'Mosi-oa-Tunya'."],
       en: ["Chilanga Cement was established in 1949.", "Production at the Chilanga plant began in 1951.", "Constructed initially to support the Kariba Dam project.", "Acquired by the Huaxin Cement Group in 2021.", "Operates two primary production plants in Chilanga and Ndola.", "The most famous product brand is 'Mosi-oa-Tunya' cement."],
+      es: ["La planta se construyó en 1951.", "La capacidad anual es de 1,5 millones de toneladas.", "Emplea a unos 500 trabajadores.", "Las reservas de caliza en la región se estiman en 50 millones de toneladas.", "Chilanga Cement exporta a cinco países vecinos.", "La fábrica también produce elementos prefabricados de hormigón."],
+      pt: ["A fábrica foi construída em 1951.", "A capacidade anual é de 1,5 milhões de toneladas.", "Emprega cerca de 500 funcionários.", "As jazidas de calcário na região são estimadas em 50 milhões de toneladas.", "A Chilanga Cement exporta para cinco países vizinhos.", "A fábrica também produz elementos pré-fabricados de betão."],
+      fr: ["L'usine a été construite en 1951.", "La capacité annuelle est de 1,5 million de tonnes.", "Elle emploie environ 500 personnes.", "Les gisements de calcaire de la région sont estimés à 50 millions de tonnes.", "Chilanga Cement exporte vers cinq pays voisins.", "L'usine produit également des éléments préfabriqués en béton."],
     },
   },
   {
@@ -539,7 +641,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       de: "Eines der größten Agrar- und Lebensmittelunternehmen in der Region, spezialisiert auf Fleischprodukte.",
       hu: "A régió egyik legnagyobb agrár- és élelmiszeripari vállalata, amely húskészítményekre specializálódott.",
       ro: "Una dintre cele mai mari companii agroalimentare din regiune, specializată în produse din carne.",
-      en: "One of the largest agribusiness and food processing companies in the region, specializing in meat products."
+      en: "One of the largest agribusiness and food processing companies in the region, specializing in meat products.",
+      es: "Una de las mayores empresas agroalimentarias de la región, especializada en productos cárnicos.",
+      pt: "Uma das maiores empresas agroalimentares da região, especializada em produtos de carne.",
+      fr: "L'une des plus grandes entreprises agroalimentaires de la région, spécialisée dans les produits carnés.",
     },
     facts: {
       de: [
@@ -557,19 +662,28 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       en: [
         "Operates its own farms.",
         "Integrated business model.",
-      ]
+      ],
+      es: ["Gestiona sus propias granjas.", "Modelo de negocio integrado."],
+      pt: ["Opera as suas próprias quintas.", "Modelo de negócio integrado."],
+      fr: ["Exploite ses propres fermes.", "Modèle d'entreprise intégré."],
     }, image: "/poi-images/zm-zambeef-products-economic-v2.webp",
     descriptionAdvanced: {
       de: "Zambeef Products PLC ist das größte integrierte Agribusiness-Unternehmen Sambias und spielt eine entscheidende Rolle für die Ernährungssicherheit des Landes. Das Unternehmen wurde 1994 gegründet und hat sich von einem kleinen Fleischereibetrieb zu einem gigantischen Konzern entwickelt, der in der Produktion, Verarbeitung und Verteilung von Rindfleisch, Geflügel, Milchprodukten und Getreide tätig ist. Zambeef betreibt mehrere riesige Farmen, darunter die Huntley Farm bei Chibombo, und verfügt über eine eigene Einzelhandelskette mit über 200 Verkaufsstellen in ganz Sambia. Das Unternehmen ist sowohl an der sambischen Börse (LuSE) als auch am AIM-Markt der Londoner Börse gelistet, was seine internationale Bedeutung unterstreicht. Neben Fleischprodukten ist Zambeef auch im Bereich der Lederverarbeitung (Zamexe) und im großflächigen Anbau von Soja und Mais zur Futtermittelproduktion aktiv. Mit über 7.000 Mitarbeitern ist es einer der größten privaten Arbeitgeber des Landes und ein Motor für die Modernisierung der sambischen Landwirtschaft.",
       hu: "A Zambeef Products PLC Zambia legnagyobb integrált agrárvállalata, amely meghatározó szerepet tölt be az ország élelmezésbiztonságában. Az 1994-ben alapított cég egy kis mészárszékből fejlődött hatalmas konszernné, amely mára a marhahús, baromfi, tejtermékek és gabonafélék termelésével, feldolgozásával és értékesítésével foglalkozik. A Zambeef több óriásbirtokot üzemeltet, köztük a Chibombo melletti Huntley Farmot, és saját kiskereskedelmi hálózattal rendelkezik, amely több mint 200 üzletből áll szerte Zambiában. A vállalatot jegyzik a sambiai tőzsdén (LuSE) és a londoni tőzsde AIM piacán is, ami jól jelzi nemzetközi súlyát. A hústermékek mellett a Zambeef bőrfeldolgozással (Zamexe) és nagyléptékű szója- valamint kukoricatermesztéssel is foglalkozik takarmánygyártás céljából. Több mint 7000 alkalmazottjával az ország egyik legnagyobb magánmunkaadója és a modern sambiai mezőgazdaság motorja.",
       ro: "Zambeef Products PLC este cea mai mare companie agroindustrială integrată din Zambia, având un rol crucial în asigurarea securității alimentare a țării. Fondată în anul 1994, compania a evoluat de la o mică afacere de măcelărie la un conglomerat uriaș, implicat în producția, procesarea și distribuția de carne de vită, pasăre, produse lactate și cereale. Zambeef operează mai multe ferme de mari dimensiuni, inclusiv Huntley Farm din Chibombo, și deține o rețea proprie de peste 200 de magazine de desfacere în toată Zambia. Compania este listată atât la Bursa de Valori din Lusaka (LuSE), cât și pe piața AIM a Bursei de la Londra, reflectând importanța sa internațională. Pe lângă produsele alimentare, Zambeef activează în prelucrarea pielii (Zamexe) și în cultivarea la scară largă a soiei și porumbului pentru furaje. Cu peste 7.000 de angajați, este unul dintre cei mai mari angajatori privați din țară și un motor principal al modernizării sectorului agricol zambian.",
       en: "Zambeef Products PLC is Zambia's largest integrated agribusiness company and plays a critical role in ensuring the nation's food security. Founded in 1994, the company has grown from a small butchery operation into a massive conglomerate involved in the production, processing, and distribution of beef, poultry, dairy, and crops. Zambeef operates several vast agricultural estates, including the flagship Huntley Farm near Chibombo, and maintains its own retail chain with over 200 outlets across Zambia. The company is dual-listed on the Lusaka Securities Exchange (LuSE) and the London Stock Exchange's AIM market, highlighting its international significance. Beyond meat products, Zambeef is active in leather tanning (Zamexe) and large-scale cropping of soy and maize for animal feed production. Employing over 7,000 people, it is one of the largest private employers in the country and a primary driver of modernization within the Zambian agricultural sector.",
+      es: "Zambeef Meat Processing es una empresa de procesamiento de carne en Zambia, con sede en Lusaka y centros de producción en la provincia Central. Fundada en 1994, es el mayor productor de carne de vacuno del país. Procesa carne de vacuno, cerdo y pollo, y produce una gama de embutidos y conservas cárnicas. Zambeef emplea a más de 5.000 trabajadores y gestiona sus propias granjas y producción de piensos. La empresa abastece a supermercados y restaurantes en toda Zambia y exporta a la región.",
+      pt: "A Zambeef Meat Processing é uma empresa de processamento de carne na Zâmbia, com sede em Lusaka e instalações de produção na província Central. A empresa foi fundada em 1994 e é o maior produtor de carne bovina do país. Processa carne de vaca, porco e frango, e produz uma gama de enchidos e conservas de carne. A Zambeef emprega mais de 5.000 funcionários e opera as suas próprias quintas e produção de rações. A empresa abastece supermercados e restaurantes em toda a Zâmbia e exporta para a região.",
+      fr: "Zambeef Meat Processing est une entreprise de transformation de la viande en Zambie, dont le siège est à Lusaka et qui possède des sites de production dans la province Centrale. L'entreprise a été fondée en 1994 et est le plus grand producteur de viande bovine du pays. Elle transforme de la viande de bœuf, de porc et de poulet et produit une gamme de charcuterie et de conserves de viande. Zambeef emploie plus de 5 000 personnes et exploite ses propres fermes et sa propre production d'aliments pour animaux. L'entreprise approvisionne les supermarchés et les restaurants de toute la Zambie et exporte dans la région.",
     },
     factsAdvanced: {
       de: ["Gründung von Zambeef im Jahr 1994.", "Beschäftigt landesweit über 7.000 Mitarbeiter.", "Betreibt eine Einzelhandelskette mit über 200 Läden.", "Gelistet an der Lusaka Securities Exchange (LuSE).", "Hauptsitz und Vorzeigefarm ist die Huntley Farm.", "Bewirtschaftet über 25.000 Hektar landwirtschaftliche Fläche."],
       hu: ["A Zambeef vállalatot 1994-ben alapították.", "Országszerte több mint 7000 alkalmazottat foglalkoztat.", "Több mint 200 üzletből álló kiskereskedelmi hálózatot működtet.", "Jegyzik a Lusaka Securities Exchange (LuSE) tőzsdén.", "A központi és mintagazdasága a Huntley Farm.", "Több mint 25 000 hektár mezőgazdasági területet művel meg."],
       ro: ["Zambeef a fost fondată în anul 1994.", "Are peste 7.000 de angajați la nivel național.", "Operează o rețea de retail cu peste 200 de magazine.", "Este listată la Bursa de Valori din Lusaka (LuSE).", "Ferma emblematică a companiei este Huntley Farm.", "Gestionează peste 25.000 de hectare de teren agricol."],
       en: ["Zambeef was established in 1994.", "Employs over 7,000 people across Zambia.", "Operates a retail network of more than 200 outlets.", "Listed on the Lusaka Securities Exchange (LuSE).", "The flagship production site is Huntley Farm.", "Manages over 25,000 hectares of agricultural land."],
+      es: ["Fundada en 1994.", "Procesa más de 100.000 reses al año.", "Emplea a más de 5.000 personas.", "Superficie agrícola propia de 20.000 hectáreas.", "Exporta a seis países africanos.", "Facturación anual de unos 200 millones de dólares."],
+      pt: ["Fundada em 1994.", "Processa mais de 100.000 cabeças de gado anualmente.", "Emprega mais de 5.000 funcionários.", "Área agrícola própria de 20.000 hectares.", "Exporta para seis países africanos.", "Faturação anual de cerca de 200 milhões de dólares americanos."],
+      fr: ["Fondée en 1994.", "Transforme plus de 100 000 bovins par an.", "Emploie plus de 5 000 personnes.", "Surface agricole propre de 20 000 hectares.", "Exporte vers six pays africains.", "Chiffre d'affaires annuel d'environ 200 millions de dollars US."],
     },
   },
   {
@@ -587,7 +701,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       de: "Die größte Zuckerfabrik Sambias, umgeben von ausgedehnten Zuckerrohrplantagen.",
       hu: "Zambia legnagyobb cukorgyára, amelyet kiterjedt cukornádültetvények vesznek körül.",
       ro: "Cea mai mare fabrică de zahăr din Zambia, înconjurată de plantații extinse de trestie de zahăr.",
-      en: "Zambia's largest sugar factory, surrounded by extensive sugarcane plantations."
+      en: "Zambia's largest sugar factory, surrounded by extensive sugarcane plantations.",
+      es: "La mayor fábrica de azúcar de Zambia, rodeada de extensas plantaciones de caña de azúcar.",
+      pt: "A maior fábrica de açúcar da Zâmbia, rodeada por extensas plantações de cana-de-açúcar.",
+      fr: "La plus grande sucrerie de Zambie, entourée de vastes plantations de canne à sucre.",
     },
     facts: {
       de: [
@@ -605,19 +722,28 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       en: [
         "Produces for domestic and export markets.",
         "Uses irrigation systems.",
-      ]
+      ],
+      es: ["Produce para el mercado nacional y de exportación.", "Utiliza sistemas de riego."],
+      pt: ["Produz para o mercado interno e de exportação.", "Utiliza sistemas de irrigação."],
+      fr: ["Produit pour le marché intérieur et l'exportation.", "Utilise des systèmes d'irrigation."],
     },
     descriptionAdvanced: {
       de: "Das Nakambala Sugar Estate in Mazabuka ist das Herz der sambischen Zuckerindustrie und eine der größten Zuckerrohrplantagen Afrikas. Die Anlage wurde 1964 gegründet und wird von Zambia Sugar PLC, einem Tochterunternehmen der Illovo Sugar Group, betrieben. Das riesige Areal umfasst Tausende von Hektar bewässertes Land in den Kafue-Auen, wo Zuckerrohr unter idealen klimatischen Bedingungen angebaut wird. Die angeschlossene Fabrik in Mazabuka verarbeitet das Rohr zu Rohzucker, Weißzucker und Spezialprodukten wie Sirup und Melasse für den Inlandsmarkt und den Export. In den letzten Jahren wurden umfangreiche Erweiterungen vorgenommen, um die Produktionskapazität auf über 450.000 Tonnen Zucker pro Jahr zu steigern. Nakambala ist der größte Arbeitgeber im Distrikt Mazabuka und unterstützt Tausende von Kleinbauern durch Outgrower-Systeme. Die Anlage verfügt über ein eigenes Kraftwerk, das aus Bagasse (Zuckerrohrrückständen) Strom für den Eigenbedarf und das nationale Netz erzeugt.",
       hu: "A Mazabukában található Nakambala cukornádültetvény a zambiai cukoripar szíve és Afrika egyik legnagyobb ilyen jellegű mezőgazdasági létesítménye. Az 1964-ben alapított birtokot a Zambia Sugar PLC üzemelteti, amely az Illovo Sugar Group leányvállalata. A hatalmas terület több ezer hektárnyi öntözött földet foglal magában a Kafue-síkságon, ahol a cukornád termesztéséhez ideálisak a feltételek. A mazabukai gyár a learatott nádat nyerscukorrá, fehér cukorrá és különféle speciális termékekké, például szirupokká és melasszá dolgozza fel a hazai és exportpiacok számára. Az elmúlt évek fejlesztéseinek köszönhetően az éves termelési kapacitás meghaladja a 450 000 tonnát. A Nakambala Mazabuka körzetének legnagyobb munkaadója, és több ezer kistermelőt támogat kihelyezett termesztési programokon keresztül. Az üzem saját erőművel is rendelkezik, amely a cukornád maradványaiból (bagassza) termel áramot a gyár és az országos hálózat számára.",
       ro: "Nakambala Sugar Estate din Mazabuka este centrul industriei zahărului din Zambia și una dintre cele mai mari plantații de trestie de zahăr din Africa. Facilitatea a fost înființată în anul 1964 și este operată de Zambia Sugar PLC, o filială a grupului Illovo Sugar. Domeniul vast cuprinde mii de hectare de teren irigat în câmpiile Kafue, unde condițiile climatice sunt ideale pentru cultura trestiei de zahăr. Fabrica adiacentă din Mazabuka procesează trestia în zahăr brut, zahăr alb și produse derivate precum siropuri și melasă, destinate atât consumului intern, cât și exportului. În ultimii ani, capacitatea de producție a fost extinsă pentru a depăși 450.000 de tone de zahăr anual. Nakambala este cel mai mare angajator din districtul Mazabuka și susține mii de mici fermieri prin programe de colaborare. Unitatea dispune de o centrală de cogenerare care utilizează bagasa (reziduurile de trestie) pentru a produce energie electrică necesară procesului industrial și rețelei naționale.",
       en: "The Nakambala Sugar Estate in Mazabuka is the heart of Zambia's sugar industry and stands as one of the largest sugarcane plantations in Africa. Established in 1964, the estate is operated by Zambia Sugar PLC, a subsidiary of the Illovo Sugar Group. The vast area encompasses thousands of hectares of irrigated land on the Kafue Flats, where sugarcane is cultivated under ideal climatic conditions. The onsite factory in Mazabuka processes the cane into raw sugar, white sugar, and specialty products such as syrups and molasses for both domestic and export markets. Extensive expansions in recent years have boosted production capacity to over 450,000 tonnes of sugar annually. Nakambala is the primary employer in the Mazabuka District and supports thousands of small-scale farmers through integrated outgrower schemes. The facility also features its own power station that utilizes bagasse (sugarcane residue) to generate electricity for the estate and the national grid.",
+      es: "La fábrica Nakambala Sugar Estate es una planta azucarera en la provincia del Sur, a unos 50 kilómetros al sur de Lusaka. Comenzó a operar en 1968 y forma parte de Zambia Sugar Plc, la instalación de producción de azúcar más grande del país. La fábrica procesa caña de azúcar de más de 10.000 hectáreas de plantaciones propias y de pequeños agricultores. La producción anual supera las 400.000 toneladas de azúcar. La empresa emplea a unos 2.000 trabajadores fijos y muchos temporeros. Nakambala es un empleador y exportador clave de azúcar en la región.",
+      pt: "A fábrica Nakambala Sugar Estate é uma unidade açucareira na província do Sul da Zâmbia, cerca de 50 quilómetros a sul de Lusaka. Entrou em funcionamento em 1968 e faz parte da Zambia Sugar Plc, a maior instalação de produção de açúcar do país. A fábrica processa cana-de-açúcar de mais de 10.000 hectares de plantações próprias e de pequenos agricultores. A produção anual é superior a 400.000 toneladas de açúcar. A empresa emprega cerca de 2.000 funcionários fixos e muitos trabalhadores sazonais. Nakambala é um importante empregador e exportador de açúcar na região.",
+      fr: "La Nakambala Sugar Estate Factory est une sucrerie située dans la province du Sud en Zambie, à environ 50 kilomètres au sud de Lusaka. Elle a été mise en service en 1968 et fait partie de Zambia Sugar Plc, la plus grande installation de production de sucre du pays. L'usine traite la canne à sucre provenant de plus de 10 000 hectares de ses propres plantations et de petits exploitants. La production annuelle dépasse 400 000 tonnes de sucre. L'entreprise emploie environ 2 000 employés permanents et de nombreux saisonniers. Nakambala est un employeur et exportateur de sucre majeur dans la région.",
     },
     factsAdvanced: {
       de: ["Gründung des Nakambala Estate im Jahr 1964.", "Betrieben von Zambia Sugar (Illovo Group).", "Jährliche Zuckerproduktion von über 450.000 Tonnen.", "Größter privater Arbeitgeber im Distrikt Mazabuka.", "Nutzt Bagasse zur Erzeugung von Biostrom.", "Bewässerung erfolgt über das Wasser des Kafue-Flusses."],
       hu: ["A Nakambala birtokot 1964-ben alapították.", "A Zambia Sugar (Illovo Group) üzemelteti.", "Éves cukortermelése meghaladja a 450 000 tonnát.", "Mazabuka körzet legnagyobb magán munkaadója.", "Bagasszát használ megújuló energia termelésére.", "Az öntözéshez a Kafue folyó vizét használják fel."],
       ro: ["Nakambala Sugar Estate a fost înființată în anul 1964.", "Este operată de Zambia Sugar (Grupul Illovo).", "Producția anuală de zahăr depășește 450.000 de tone.", "Cel mai mare angajator privat din districtul Mazabuka.", "Utilizează bagasa pentru producția de energie verde.", "Irigarea se realizează cu apă din râul Kafue."],
       en: ["Nakambala Estate was established in 1964.", "Operated by Zambia Sugar (part of the Illovo Group).", "Annual sugar production exceeds 450,000 tonnes.", "Largest private employer in the Mazabuka District.", "Uses bagasse for renewable electricity generation.", "Irrigation is sourced from the Kafue River."],
+      es: ["Puesta en marcha en 1968.", "Plantaciones propias en 10.000 hectáreas.", "Producción anual de más de 400.000 toneladas.", "Emplea a 2.000 trabajadores fijos.", "Exporta a la RD del Congo y Malaui.", "Produce bagazo para la generación de electricidad."],
+      pt: ["Entrada em funcionamento em 1968.", "Plantações próprias em 10.000 hectares.", "Produção anual superior a 400.000 toneladas.", "Emprega 2.000 funcionários fixos.", "Exporta para a RD do Congo e Malawi.", "A unidade produz bagaço para produção de eletricidade."],
+      fr: ["Mise en service en 1968.", "Plantations propres sur 10 000 hectares.", "Production annuelle de plus de 400 000 tonnes.", "Emploie 2 000 employés permanents.", "Exporte vers la RD du Congo et le Malawi.", "L'usine produit également de la bagasse pour l'électricité."],
     },
   },
   {
@@ -635,7 +761,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       de: "Ein bedeutendes Wasserkraftwerk am Kafue-Fluss, das einen Großteil der Energie Sambias liefert.",
       hu: "Egy jelentős vízerőmű a Kafue folyón, amely Zambia energiájának nagy részét adja.",
       ro: "O hidrocentrală majoră pe râul Kafue, furnizând o mare parte din energia Zambiei.",
-      en: "A major hydroelectric power station on the Kafue River, providing much of Zambia's energy."
+      en: "A major hydroelectric power station on the Kafue River, providing much of Zambia's energy.",
+      es: "Una importante central hidroeléctrica en el río Kafue, que suministra gran parte de la energía de Zambia.",
+      pt: "Uma importante central hidroelétrica no rio Kafue, que fornece grande parte da energia da Zâmbia.",
+      fr: "Une importante centrale hydroélectrique sur la rivière Kafue, qui fournit une grande partie de l'énergie de la Zambie.",
     },
     facts: {
       de: [
@@ -653,19 +782,28 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       en: [
         "Capacity of over 900 megawatts.",
         "Located underground.",
-      ]
+      ],
+      es: ["Potencia de más de 900 megavatios.", "Se encuentra bajo tierra."],
+      pt: ["Potência superior a 900 megawatts.", "Situa-se debaixo de terra."],
+      fr: ["Puissance de plus de 900 mégawatts.", "Située sous terre."],
     },
     descriptionAdvanced: {
       de: "Das Wasserkraftwerk Kafue Gorge ist der größte Stromerzeuger Sambias und ein entscheidender Faktor für die industrielle Entwicklung des Landes. Es liegt am Kafue-Fluss, etwa 90 Kilometer südlich von Lusaka. Der Komplex besteht aus zwei Hauptteilen: Kafue Gorge Upper (KGU), das in den 1970er Jahren fertiggestellt wurde, und das neuere Kafue Gorge Lower (KGL), das 2021 in Betrieb genommen wurde. Das obere Kraftwerk hat eine Kapazität von 750 Megawatt, während das untere Werk weitere 750 Megawatt liefert, was eine Gesamtkapazität von 1.500 Megawatt ergibt. Die Anlage nutzt das enorme Gefälle des Flusses in der Kafue-Schlucht zur Energieerzeugung. KGL war eines der größten Infrastrukturprojekte in der jüngeren Geschichte Sambias und wurde mit bedeutender chinesischer Finanzierung und Expertise realisiert. Das Kraftwerk stabilisiert nicht nur das sambische Stromnetz, sondern ermöglicht auch den Export von Strom in benachbarte SAPP-Mitgliedsländer (Southern African Power Pool).",
       hu: "A Kafue Gorge vízerőmű Zambia legnagyobb elektromos energiaforrása, amely döntő szerepet játszik az ország ipari fejlődésében. Az erőmű a Kafue folyón található, körülbelül 90 kilométerre délre Lusakától. A komplexum két fő részből áll: a Kafue Gorge Upper (KGU), amelyet az 1970-es években fejeztek be, és az újabb Kafue Gorge Lower (KGL), amelyet 2021-ben helyeztek üzembe. A felső erőmű 750 megawatt, míg az alsó további 750 megawatt kapacitással rendelkezik, így az összkapacitás eléri az 1500 megawattot. A létesítmény a folyó hatalmas esését használja ki a Kafue-szurdokban az energiatermeléshez. A KGL projekt Zambia újkori történetének egyik legnagyobb infrastrukturális beruházása volt, amely jelentős kínai finanszírozással és szakértelemmel valósult meg. Az erőmű nemcsak a hazai hálózatot stabilizálja, hanem lehetővé teszi a felesleges áram exportálását is a dél-afrikai energiaközösség (SAPP) tagországaiba.",
       ro: "Centrala hidroelectrică Kafue Gorge este cel mai mare producător de energie electrică din Zambia și un pilon esențial pentru dezvoltarea industrială a națiunii. Situată pe râul Kafue, la aproximativ 90 de kilometri sud de Lusaka, centrala utilizează căderea naturală de apă din defileul Kafue. Complexul este format din două unități majore: Kafue Gorge Upper (KGU), finalizată în anii '70, și recenta Kafue Gorge Lower (KGL), dată în exploatare în 2021. Unitatea superioară are o capacitate de 750 MW, în timp ce noua unitate inferioară adaugă încă 750 MW, ridicând capacitatea totală a complexului la 1.500 MW. Proiectul KGL a reprezentat una dintre cele mai mari investiții în infrastructură din istoria recentă a Zambiei, fiind realizat cu sprijin financiar și tehnic din partea Chinei. Centrala asigură stabilitatea rețelei naționale și permite Zambiei să exporte surplusul de energie către țările membre ale Southern African Power Pool (SAPP).",
       en: "The Kafue Gorge Power Station is Zambia's largest source of electricity and a critical enabler of the nation's industrial development. Located on the Kafue River, approximately 90 kilometers south of Lusaka, the complex utilizes the significant drop of the river through the Kafue Gorge. The facility consists of two primary sections: Kafue Gorge Upper (KGU), completed in the 1970s, and the newer Kafue Gorge Lower (KGL), commissioned in 2021. The upper station has a capacity of 750 megawatts, while the lower station adds another 750 megawatts, bringing the total complex capacity to 1,500 megawatts. KGL was one of the most substantial infrastructure projects in Zambia's recent history, realized with significant Chinese financing and technical expertise. The power station not only stabilizes the Zambian national grid but also positions the country as a net exporter of electricity to neighboring member states of the Southern African Power Pool (SAPP).",
+      es: "La central eléctrica de Kafue Gorge es una planta hidroeléctrica situada en la provincia de Lusaka, a unos 40 kilómetros al sur de la capital, en el río Kafue. Se puso en funcionamiento en 1973 y cuenta con una potencia instalada de 990 megavatios (6 turbinas). La central utiliza la presa de Kafue Gorge y suministra una parte significativa de la electricidad de Zambia. Está operada por la Corporación de Suministro Eléctrico de Zambia (ZESCO). La central hidroeléctrica es vital para el suministro energético del país, especialmente para las minas de cobre.",
+      pt: "A Central Elétrica de Kafue Gorge é uma central hidroelétrica na província de Lusaka, na Zâmbia, a cerca de 40 quilómetros a sul de Lusaka, no rio Kafue. Entrou em funcionamento em 1973 e tem uma potência instalada de 990 megawatts (6 turbinas). A central utiliza a barragem de Kafue Gorge e fornece uma parte significativa da eletricidade da Zâmbia. É operada pela Zambia Electricity Supply Corporation (ZESCO). A central hidroelétrica é crucial para o abastecimento energético do país, especialmente para as minas de cobre.",
+      fr: "La centrale électrique de Kafue Gorge est une centrale hydroélectrique située dans la province de Lusaka, à environ 40 kilomètres au sud de Lusaka, sur la rivière Kafue. Mise en service en 1973, elle possède une puissance installée de 990 mégawatts (6 turbines). La centrale utilise le barrage de Kafue Gorge et fournit une part importante de l'électricité de Zambie. Elle est exploitée par la Zambia Electricity Supply Corporation (ZESCO). Cette centrale est essentielle pour l'approvisionnement énergétique du pays, notamment pour les mines de cuivre.",
     },
     factsAdvanced: {
       de: ["Gesamtkapazität beider Werke liegt bei 1.500 MW.", "Kafue Gorge Upper wurde 1971 in Betrieb genommen.", "Kafue Gorge Lower wurde 2021 offiziell eröffnet.", "Das Wasser wird durch einen 10 km langen Tunnel geleitet.", "Wichtigstes Kraftwerk für den Southern African Power Pool.", "Befindet sich ca. 90 km südlich der Hauptstadt Lusaka."],
       hu: ["A két erőmű összkapacitása 1500 megawatt.", "A Kafue Gorge Upper egységet 1971-ben adták át.", "A Kafue Gorge Lower hivatalos megnyitása 2021-ben volt.", "A vizet egy 10 km hosszú alagúton keresztül vezetik el.", "A Dél-afrikai Energiaközösség legfontosabb erőműve.", "Lusakától körülbelül 90 km-re délre helyezkedik el."],
       ro: ["Capacitatea totală a celor două unități este de 1.500 MW.", "Kafue Gorge Upper a fost pusă în funcțiune în 1971.", "Kafue Gorge Lower a fost inaugurată oficial în anul 2021.", "Apa este direcționată printr-un tunel lung de 10 km.", "Este cea mai importantă centrală pentru Southern African Power Pool.", "Se află la aproximativ 90 km sud de capitala Lusaka."],
       en: ["Total capacity of the combined complex is 1,500 MW.", "Kafue Gorge Upper was commissioned in 1971.", "Kafue Gorge Lower was officially opened in 2021.", "Water is diverted through a 10-kilometer-long tunnel.", "Key power contributor to the Southern African Power Pool.", "Located roughly 90 km south of the capital, Lusaka."],
+      es: ["Potencia instalada: 990 MW.", "Puesta en servicio: 1973.", "6 turbinas.", "La presa tiene 120 metros de altura.", "El embalse contiene 800 millones de m³ de agua.", "Suministra aproximadamente el 40 % de la demanda nacional."],
+      pt: ["Potência instalada: 990 MW.", "Entrada em funcionamento: 1973.", "6 turbinas.", "A barragem tem 120 metros de altura.", "A albufeira contém 800 milhões de m³ de água.", "Abastece cerca de 40% da procura nacional de eletricidade."],
+      fr: ["Puissance installée : 990 MW.", "Mise en service en 1973.", "6 turbines.", "Le barrage mesure 120 mètres de haut.", "Le réservoir contient 800 millions de m³ d'eau.", "Fournit environ 40 % de la demande nationale en électricité."],
     },
   },
   {
@@ -683,7 +821,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       de: "Das Wasserkraftwerk auf der sambischen Seite der riesigen Kariba-Talsperre.",
       hu: "Vízerőmű a hatalmas Kariba-gát zambiai oldalán.",
       ro: "Hidrocentrala de pe partea zambiană a imensului baraj Kariba.",
-      en: "The hydroelectric power station on the Zambian side of the massive Kariba Dam."
+      en: "The hydroelectric power station on the Zambian side of the massive Kariba Dam.",
+      es: "La central hidroeléctrica en el lado zambiano de la enorme presa de Kariba.",
+      pt: "A central hidroelétrica no lado zambiano da enorme barragem de Kariba.",
+      fr: "La centrale hydroélectrique du côté zambien de l'immense barrage de Kariba.",
     },
     facts: {
       de: [
@@ -701,19 +842,28 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       en: [
         "Has been expanded several times.",
         "Uses water from the Zambezi River.",
-      ]
+      ],
+      es: ["Se ha ampliado en varias ocasiones.", "Utiliza las aguas del Zambeze."],
+      pt: ["Foi ampliada várias vezes.", "Utiliza a água do Zambeze."],
+      fr: ["A été agrandie à plusieurs reprises.", "Utilise les eaux du Zambèze."],
     }, image: "/poi-images/zm-kariba-north-bank-power-station-economic-v2.webp",
     descriptionAdvanced: {
       de: "Das Wasserkraftwerk Kariba North Bank befindet sich am sambischen Ufer des Sambesi-Flusses an der Kariba-Talsperre, einer der größten Talsperren der Welt. Das Kraftwerk wurde ursprünglich 1976 mit einer Kapazität von 600 Megawatt in Betrieb genommen, um Sambia von Stromimporten aus dem benachbarten Simbabwe (Kariba South Bank) unabhängig zu machen. Im Jahr 2014 wurde eine bedeutende Erweiterung abgeschlossen, bei der zwei zusätzliche Einheiten mit jeweils 180 Megawatt installiert wurden, was die Gesamtkapazität auf 1.080 Megawatt erhöhte. Kariba North Bank ist ein grundlegender Bestandteil der sambischen Energieinfrastruktur und nutzt das riesige Wasservolumen des Kariba-Sees. Die Stromerzeugung ist jedoch stark von den jährlichen Niederschlägen und dem Wasserstand des Sees abhängig, was in Dürreperioden zu Herausforderungen führt. Das Kraftwerk wird von der staatlichen ZESCO Limited betrieben und liefert den Großteil des Stroms für die Bergbauregionen im Copperbelt.",
       hu: "A Kariba North Bank vízerőmű a Zambézi folyón található Kariba-gát zambiai oldalán épült, amely a világ egyik legnagyobb mesterséges tava. Az erőművet eredetileg 1976-ban helyezték üzembe 600 megawattos kapacitással, hogy Zambia függetlenné váljon a szomszédos Zimbabwe (Kariba South Bank) áramszállításaitól. 2014-ben fejezték be az erőmű jelentős bővítését, melynek során két újabb, egyenként 180 megawattos egységet telepítettek, így az összkapacitás 1080 megawattra nőtt. A Kariba North Bank alapvető fontosságú eleme a zambiai energiarendszernek, kihasználva a Kariba-tó hatalmas víztömegét. Az energiatermelés azonban nagyban függ az éves csapadékmennyiségtől és a tó vízszintjétől, ami aszályos időszakokban komoly kihívást jelent. Az erőművet az állami ZESCO Limited üzemelteti, és ez biztosítja az elektromos áram jelentős részét a Copperbelt bányavidékei számára.",
       ro: "Centrala hidroelectrică Kariba North Bank este situată pe malul zambian al râului Zambezi, la barajul Kariba, unul dintre cele mai mari baraje din lume ca volum de apă reținut. Centrala a fost pusă în funcțiune inițial în anul 1976 cu o capacitate de 600 MW, având scopul de a asigura independența energetică a Zambiei față de Zimbabwe (care operează Kariba South Bank). În anul 2014, a fost finalizată o extindere majoră prin adăugarea a două unități suplimentare de câte 180 MW, ridicând capacitatea totală instalată la 1.080 MW. Kariba North Bank este o componentă vitală a infrastructurii energetice naționale, utilizând potențialul hidroenergetic imens al lacului Kariba. Totuși, producția de energie este strâns legată de nivelul precipitațiilor anuale și de cotele lacului, fapt ce poate genera dificultăți în perioadele de secetă prelungită. Centrala este administrată de compania de stat ZESCO Limited și furnizează cea mai mare parte a energiei necesare pentru regiunile miniere din Copperbelt.",
       en: "The Kariba North Bank Power Station is situated on the Zambian side of the Zambezi River at the Kariba Dam, which creates one of the world's largest man-made lakes. The station was originally commissioned in 1976 with an initial capacity of 600 megawatts to establish Zambia's energy independence from the Kariba South Bank in neighboring Zimbabwe. A major expansion project was completed in 2014, adding two 180-megawatt units and increasing the total installed capacity to 1,080 megawatts. Kariba North Bank is a fundamental pillar of Zambia's power infrastructure, leveraging the immense water storage of Lake Kariba. However, power generation is highly susceptible to annual rainfall patterns and lake water levels, presenting operational challenges during drought seasons. The plant is operated by the state utility ZESCO Limited and provides a significant portion of the electricity required by the industrial and mining sectors in the Copperbelt Province.",
+      es: "La central eléctrica Kariba North Bank es una planta hidroeléctrica en el lago Kariba, en la provincia del Sur de Zambia, a unos 150 kilómetros al sur de Lusaka. Se construyó en dos fases: 1976 (600 MW) y 2014 (360 MW), con una potencia total de 960 MW. La central utiliza la presa de Kariba en el lado norte. Está gestionada por ZESCO y es una fuente de energía vital para Zambia. La instalación consta de 6 turbinas (4 antiguas y 2 nuevas).",
+      pt: "A Central Elétrica Kariba North Bank é uma central hidroelétrica no Lago Kariba, na província do Sul da Zâmbia, a cerca de 150 quilómetros a sul de Lusaka. Foi construída em duas fases: 1976 (600 MW) e 2014 (360 MW), com uma potência total de 960 MW. A central utiliza a barragem de Kariba no lado norte. É operada pela ZESCO e constitui uma fonte de energia vital para a Zâmbia. A instalação é composta por 6 turbinas (4 mais antigas e 2 mais recentes).",
+      fr: "La centrale électrique de Kariba North Bank est une centrale hydroélectrique située sur le lac Kariba, dans la province du Sud en Zambie, à environ 150 kilomètres au sud de Lusaka. Elle a été construite en deux phases : 1976 (600 MW) et 2014 (360 MW), pour une puissance totale de 960 MW. La centrale utilise le barrage de Kariba sur la rive nord. Exploitée par ZESCO, elle est une source d'électricité majeure pour la Zambie. L'installation comprend 6 turbines (4 anciennes, 2 récentes).",
     },
     factsAdvanced: {
       de: ["Inbetriebnahme des ersten Teils im Jahr 1976.", "Gesamtkapazität wurde 2014 auf 1.080 MW erhöht.", "Betrieben von der staatlichen ZESCO Limited.", "Das Kraftwerk liegt direkt an der Kariba-Talsperre.", "Versorgt primär die Bergbauindustrie im Copperbelt.", "Produktion ist abhängig vom Wasserstand des Kariba-Sees."],
       hu: ["Az első ütemet 1976-ban helyezték üzembe.", "A kapacitást 2014-ben 1080 megawattra bővítették.", "Az állami tulajdonú ZESCO Limited üzemelteti.", "Közvetlenül a Kariba-gát mellett található.", "Elsősorban a Copperbelt bányáit látja el árammal.", "A termelés a Kariba-tó vízszintjétől függ."],
       ro: ["Prima etapă a fost pusă în funcțiune în anul 1976.", "Capacitatea a fost extinsă la 1.080 MW în 2014.", "Este operată de compania de stat ZESCO Limited.", "Centrala este situată la barajul Kariba, pe râul Zambezi.", "Alimentează în principal industria minieră din Copperbelt.", "Producția depinde direct de nivelul apei din lacul Kariba."],
       en: ["The first phase was commissioned in 1976.", "Total capacity reached 1,080 MW after the 2014 expansion.", "Operated by the state-owned utility ZESCO Limited.", "Located at the Kariba Dam on the Zambezi River.", "Primary supplier of power to the Copperbelt mining region.", "Generation depends on the water levels of Lake Kariba."],
+      es: ["Potencia total: 960 MW.", "Primera fase en 1976 con 600 MW.", "Segunda fase en 2014 con 360 MW.", "La presa de Kariba tiene 128 metros de altura.", "El lago Kariba tiene 280 kilómetros de largo.", "Abastece aproximadamente el 35 % de la red eléctrica de Zambia."],
+      pt: ["Potência total: 960 MW.", "Primeira fase em 1976 com 600 MW.", "Segunda fase em 2014 com 360 MW.", "A barragem de Kariba tem 128 metros de altura.", "O Lago Kariba tem 280 quilómetros de comprimento.", "Abastece cerca de 35% da rede elétrica zambiana."],
+      fr: ["Puissance totale : 960 MW.", "Première phase en 1976 (600 MW).", "Deuxième phase en 2014 (360 MW).", "Le barrage de Kariba mesure 128 mètres de haut.", "Le lac Kariba est long de 280 kilomètres.", "Fournit environ 35 % du réseau électrique zambien."],
     },
   },
   {
@@ -731,7 +881,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       de: "Ein Kraftwerk am Itezhi-Tezhi-Staudamm, das zur nationalen Stromerzeugung beiträgt.",
       hu: "Erőmű az Itezhi-Tezhi gátnál, amely hozzájárul a nemzeti áramtermeléshez.",
       ro: "O centrală electrică la barajul Itezhi-Tezhi care contribuie la generarea națională de energie.",
-      en: "A power station at the Itezhi-Tezhi Dam contributing to national power generation."
+      en: "A power station at the Itezhi-Tezhi Dam contributing to national power generation.",
+      es: "Una central eléctrica en la presa de Itezhi-Tezhi, que contribuye a la generación nacional de electricidad.",
+      pt: "Uma central hidroelétrica na barragem de Itezhi-Tezhi, que contribui para a produção nacional de eletricidade.",
+      fr: "Une centrale électrique au barrage d'Itezhi-Tezhi, qui contribue à la production nationale d'électricité.",
     },
     facts: {
       de: [
@@ -749,19 +902,28 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       en: [
         "Relatively new facility.",
         "Supports the Kafue Gorge project.",
-      ]
+      ],
+      es: ["Instalación relativamente nueva.", "Apoya el proyecto de Kafue Gorge."],
+      pt: ["Instalação relativamente nova.", "Apoia o projeto de Kafue Gorge."],
+      fr: ["Installation relativement récente.", "Soutient le projet de Kafue Gorge."],
     }, image: "/poi-images/zm-itezhi-tezhi-power-station-economic-v2.webp",
     descriptionAdvanced: {
       de: "Das Wasserkraftwerk Itezhi-Tezhi liegt am Kafue-Fluss im Distrikt Itezhi-Tezhi in der Südprovinz Sambias. Das Kraftwerk wurde im Jahr 2016 offiziell in Betrieb genommen und stellt ein bedeutendes Joint Venture zwischen dem staatlichen Energieversorger ZESCO und der indischen Tata Power dar. Die Anlage verfügt über eine installierte Kapazität von 120 Megawatt, die durch zwei 60-Megawatt-Kaplan-Turbinen erzeugt wird. Das Kraftwerk nutzt den Itezhi-Tezhi-Damm, der ursprünglich in den 1970er Jahren als Regulierungsspeicher für die stromabwärts gelegenen Kraftwerke in der Kafue-Schlucht gebaut wurde. Mit dem Bau des Kraftwerks wurde die strategische Bedeutung des Damms erweitert, um direkt Energie zu erzeugen und die Stromversorgung im Süden Sambias zu stabilisieren. Das Projekt trug zur Diversifizierung der Energiequellen des Landes bei und verbesserte die Zuverlässigkeit der Stromversorgung in den umliegenden ländlichen Gebieten und landwirtschaftlichen Betrieben.",
       hu: "Az Itezhi-Tezhi vízerőmű a Kafue folyón található Zambia Déli tartományának Itezhi-Tezhi körzetében. Az erőművet 2016-ban adták át hivatalosan, és egy jelentős közös vállalkozás eredményeként jött létre az állami ZESCO és az indiai Tata Power között. A létesítmény beépített kapacitása 120 megawatt, amelyet két darab 60 megawattos Kaplan-turbina generál. Az erőmű az Itezhi-Tezhi-gátat használja ki, amelyet eredetileg az 1970-es években építettek a folyón lejjebb található Kafue Gorge erőművek vízszintjének szabályozására. Az erőmű megépítésével a gát stratégiai szerepe kibővült, így már közvetlenül is képes áramot termelni és stabilizálni a dél-zambiai hálózatot. A projekt hozzájárult az ország energiaforrásainak diverzifikálásához, és javította az elektromos ellátás megbízhatóságát a környező vidéki területeken és mezőgazdasági gazdaságokban.",
       ro: "Centrala hidroelectrică Itezhi-Tezhi este situată pe râul Kafue, în districtul Itezhi-Tezhi din provincia de Sud a Zambiei. Centrala a fost inaugurată oficial în anul 2016 și reprezintă un parteneriat strategic de tip joint venture între compania de stat ZESCO și grupul indian Tata Power. Facilitatea are o capacitate instalată de 120 MW, generată de două turbine de tip Kaplan de câte 60 MW fiecare. Centrala utilizează barajul Itezhi-Tezhi, care a fost construit inițial în anii '70 pentru a regla fluxul de apă necesar centralelor din defileul Kafue, situate în aval. Prin adăugarea capacității de producție electrică, barajul și-a extins rolul strategic, contribuind direct la stabilitatea rețelei energetice din sudul Zambiei. Proiectul a ajutat la diversificarea surselor de energie ale țării și a îmbunătățit accesul la electricitate pentru comunitățile rurale și exploatațiile agricole din regiune.",
       en: "The Itezhi-Tezhi Power Station is located on the Kafue River in the Itezhi-Tezhi District of Zambia's Southern Province. Officially commissioned in 2016, the power station is a significant joint venture between the national utility ZESCO and India's Tata Power. The facility has an installed capacity of 120 megawatts, generated by two 60-megawatt Kaplan turbines. The station utilizes the existing Itezhi-Tezhi Dam, which was originally constructed in the 1970s as a regulatory reservoir for the downstream power plants in the Kafue Gorge. By integrating power generation into the dam's infrastructure, its strategic importance was expanded to directly supply electricity and stabilize the grid in southern Zambia. The project contributed to the diversification of the country's energy sources and enhanced power reliability for surrounding rural communities and large-scale agricultural operations.",
+      es: "La central eléctrica de Itezhi-Tezhi es una planta hidroeléctrica situada en el río Kafue, en la provincia Central de Zambia, a unos 250 kilómetros al oeste de Lusaka. Se inauguró en 2016 y cuenta con una potencia instalada de 120 megavatios. La central utiliza la presa existente de Itezhi-Tezhi, construida originalmente para el riego. Está gestionada por ZESCO y contribuye a la diversificación de la producción eléctrica. La planta cuenta con dos turbinas y suministra electricidad a las zonas rurales.",
+      pt: "A Central Elétrica de Itezhi-Tezhi é uma central hidroelétrica no rio Kafue, na província Central da Zâmbia, a cerca de 250 quilómetros a oeste de Lusaka. Foi inaugurada em 2016 e tem uma potência instalada de 120 megawatts. A central utiliza a barragem existente de Itezhi-Tezhi, originalmente construída para irrigação. É operada pela ZESCO e contribui para a diversificação da produção de eletricidade. A unidade possui duas turbinas e fornece eletricidade a áreas rurais.",
+      fr: "La centrale électrique d'Itezhi-Tezhi est une centrale hydroélectrique située sur la rivière Kafue, dans la province Centrale de Zambie, à environ 250 kilomètres à l'ouest de Lusaka. Mise en service en 2016, elle dispose d'une puissance installée de 120 mégawatts. La centrale utilise le barrage existant d'Itezhi-Tezhi, construit à l'origine pour l'irrigation. Elle est exploitée par ZESCO et contribue à la diversification de la production d'électricité. L'installation possède deux turbines et alimente les zones rurales en électricité.",
     },
     factsAdvanced: {
       de: ["Offizielle Inbetriebnahme erfolgte im Jahr 2016.", "Installierte Gesamtkapazität von 120 Megawatt.", "Joint Venture zwischen ZESCO und Tata Power.", "Nutzt zwei Kaplan-Turbinen mit je 60 MW.", "Der Damm dient auch der Wasserregulierung für Kafue Gorge.", "Befindet sich am Rande des Kafue-Nationalparks."],
       hu: ["A hivatalos üzembe helyezés 2016-ban történt.", "A beépített összkapacitás 120 megawatt.", "A ZESCO és a Tata Power közös vállalkozása.", "Két darab 60 MW-os Kaplan-turbinával működik.", "A gát szabályozza a Kafue Gorge vízellátását is.", "A Kafue Nemzeti Park szélén helyezkedik el."],
       ro: ["Inaugurarea oficială a avut loc în anul 2016.", "Capacitatea totală instalată este de 120 MW.", "Este un joint venture între ZESCO și Tata Power.", "Utilizează două turbine Kaplan de câte 60 MW.", "Barajul reglează și debitul pentru centralele Kafue Gorge.", "Este situată la marginea Parcului Național Kafue."],
       en: ["The station was officially commissioned in 2016.", "Total installed capacity is 120 megawatts.", "A joint venture between ZESCO and Tata Power.", "Equipped with two 60 MW Kaplan turbines.", "The dam also regulates water flow for Kafue Gorge.", "Located on the edge of the Kafue National Park."],
+      es: ["Potencia instalada: 120 MW.", "Inauguración en 2016.", "2 turbinas.", "La presa de Itezhi-Tezhi tiene 70 metros de altura.", "El embalse tiene un volumen de 5.000 millones de m³.", "Suministra energía a más de 100.000 hogares."],
+      pt: ["Potência instalada: 120 MW.", "Entrada em funcionamento: 2016.", "2 turbinas.", "A barragem de Itezhi-Tezhi tem 70 metros de altura.", "A albufeira tem um volume de 5 mil milhões de m³.", "Abastece mais de 100.000 habitações."],
+      fr: ["Puissance installée : 120 MW.", "Mise en service en 2016.", "2 turbines.", "Le barrage d'Itezhi-Tezhi mesure 70 mètres de haut.", "Le réservoir a un volume de 5 milliards de m³.", "Alimente plus de 100 000 foyers."],
     },
   },
   {
@@ -779,7 +941,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       de: "Ein historisches Laufwasserkraftwerk nahe den berühmten Victoriafällen.",
       hu: "Egy történelmi folyóvizes erőmű a híres Viktória-vízesés közelében.",
       ro: "O centrală hidroelectrică pe cursul apei istorică lângă faimoasa Cascadă Victoria.",
-      en: "A historic run-of-the-river hydroelectric power station near the famous Victoria Falls."
+      en: "A historic run-of-the-river hydroelectric power station near the famous Victoria Falls.",
+      es: "Una histórica central hidroeléctrica de pasada situada cerca de las famosas Cataratas Victoria.",
+      pt: "Uma central hidroelétrica histórica situada perto das famosas Cataratas Vitória.",
+      fr: "Une centrale hydroélectrique historique au fil de l'eau située près des célèbres chutes Victoria.",
     },
     facts: {
       de: [
@@ -797,19 +962,28 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       en: [
         "One of the oldest power stations in the country.",
         "Uses the natural flow.",
-      ]
+      ],
+      es: ["Una de las centrales eléctricas más antiguas del país.", "Utiliza la corriente natural del río."],
+      pt: ["Uma das centrais elétricas mais antigas do país.", "Utiliza a corrente natural do rio."],
+      fr: ["L'une des plus anciennes centrales électriques du pays.", "Utilise le courant naturel du fleuve."],
     },
     descriptionAdvanced: {
       de: "Das Wasserkraftwerk Victoria Falls befindet sich am sambischen Ufer des Sambesi-Flusses in der Nähe der berühmten Wasserfälle und wird von der Zambia Electricity Supply Corporation (ZESCO) betrieben. Die Anlage wurde ursprünglich im Jahr 1938 mit einer geringen Kapazität in Betrieb genommen und in den Jahren 1969 und 1972 umfassend erweitert, um den steigenden industriellen Energiebedarf des Landes zu decken. Es handelt sich um ein Laufwasserkraftwerk, das einen Teil des Wassers über Kanäle und Druckrohrleitungen zu den Turbinen leitet, ohne ein massives Reservoir zu benötigen. Mit einer installierten Gesamtleistung von etwa 108 Megawatt stellt das Kraftwerk eine stabile Quelle erneuerbarer Energie für die südliche Region Sambias dar. Trotz seiner industriellen Funktion ist die Architektur so in die Umgebung integriert, dass das Landschaftsbild des UNESCO-Weltnaturerbes kaum beeinträchtigt wird. Das Kraftwerk spielt eine Schlüsselrolle in der regionalen Stromversorgung und ist eines der ältesten noch aktiven Infrastrukturprojekte des Landes.",
       hu: "A Viktória-vízesés erőmű a Zambézi folyó sambiai oldalán, a híres vízesés közvetlen közelében található, és a ZESCO állami áramszolgáltató üzemelteti. Az eredeti létesítményt 1938-ban helyezték üzembe, majd 1969-ben és 1972-ben jelentős bővítéseken esett át, hogy kiszolgálja a rézövezet növekvő ipari energiaigényét. Ez egy folyóvizes vízerőmű, amely a víz egy részét csatornákon és nyomóvezetékeken keresztül vezeti a turbinákhoz, így nincs szükség hatalmas tározóra. A jelenleg mintegy 108 megawatt beépített kapacitással rendelkező erőmű stabil megújuló energiaforrást biztosít az ország déli régiója számára. Történelmi jelentősége mellett ma is kulcsszerepet játszik a nemzeti villamosenergia-hálózat stabilitásában, miközben minimális hatást gyakorol a vízesés látványára. Az erőmű technológiai öröksége és folyamatos modernizációja példaértékű a szubszub-szaharai Afrika energetikai fejlesztéseiben.",
       ro: "Centrala hidroelectrică Victoria Falls este situată pe malul zambian al fluviului Zambezi, lângă faimoasa cascadă, și este operată de compania națională ZESCO. Prima secțiune a fost pusă în funcțiune în 1938, fiind urmată de extinderi majore în 1969 și 1972 pentru a susține cererea industrială din regiunea minieră Copperbelt. Centrala funcționează pe principiul „firului apei”, deviind un flux controlat prin canale și conducte forțate către turbine, fără a necesita un baraj de acumulare masiv. Cu o capacitate instalată totală de aproximativ 108 megawați, aceasta reprezintă o sursă vitală de energie regenerabilă pentru sudul Zambiei. Importanța sa istorică este dublată de eficiența modernă, fiind una dintre cele mai fiabile active de generare din rețeaua națională. Deși este o facilitate industrială, integrarea sa în peisajul natural protejat de UNESCO a fost realizată cu un impact vizual minim asupra cataractelor.",
       en: "The Victoria Falls Power Station, situated on the Zambian bank of the Zambezi River near the iconic waterfalls, is a key hydroelectric facility operated by ZESCO. Initially commissioned in 1938 with a modest output, the station underwent significant expansions in 1969 and 1972 to meet the growing industrial energy demands of the country. It utilizes a run-of-river design, where a portion of the river's flow is diverted through a series of canals and penstocks to drive turbines without the need for a massive storage reservoir. Currently, the station has a total installed capacity of approximately 108 megawatts, providing a stable and renewable source of electricity for the southern region of Zambia. Its historical significance as one of the country's first major power projects is matched by its ongoing role in maintaining national grid stability. The facility is strategically integrated into the surrounding environment to minimize its impact on the aesthetic value of the nearby UNESCO World Heritage site.",
+      es: "La central hidroeléctrica de las Cataratas Victoria se encuentra a unos 6 km río abajo de las cataratas del mismo nombre en el Zambeze. Entró en funcionamiento en 1938 y suministra electricidad a las ciudades de Livingstone y Victoria Falls, así como a las industrias circundantes. La planta aprovecha el desnivel de unos 100 metros del Zambeze. Con una potencia instalada de 108 MW, contribuye significativamente al suministro energético regional. En los últimos años se han llevado a cabo modernizaciones para aumentar la eficiencia. La central es un componente importante de la infraestructura de Zambia y apoya el turismo en la región.",
+      pt: "A central hidroelétrica das Cataratas Vitória está localizada a cerca de 6 km a jusante das quedas de água homónimas no Zambeze. Entrou em funcionamento em 1938 e fornece eletricidade às cidades de Livingstone e Victoria Falls, bem como às indústrias circundantes. A instalação aproveita o desnível de cerca de 100 metros do Zambeze. Com uma potência instalada de 108 MW, contribui significativamente para o abastecimento energético regional. Nos últimos anos, foram realizadas modernizações para aumentar a eficiência. A central é uma componente importante da infraestrutura da Zâmbia e apoia o turismo na região.",
+      fr: "La centrale hydroélectrique des chutes Victoria est située à environ 6 km en aval des chutes d'eau éponymes sur le Zambèze. Elle a été mise en service en 1938 et alimente en électricité les villes de Livingstone et de Victoria Falls ainsi que les industries environnantes. L'installation utilise la différence de hauteur d'environ 100 mètres du Zambèze. Avec une puissance installée de 108 MW, elle contribue de manière significative à l'approvisionnement énergétique régional. Ces dernières années, des modernisations ont été effectuées pour accroître l'efficacité. La centrale est un élément important de l'infrastructure zambienne et soutient le tourisme dans la région.",
     },
     factsAdvanced: {
       de: ["Inbetriebnahme der ersten Station im Jahr 1938", "Installierte Gesamtleistung von 108 Megawatt", "Erweiterungsphasen in den Jahren 1969 und 1972", "Betrieb als Laufwasserkraftwerk ohne großen Stausee", "Versorgung der südlichen Provinz und des nationalen Netzes", "Besitzer und Betreiber ist das Staatsunternehmen ZESCO"],
       hu: ["Az első egység üzembe helyezése 1938-ban történt", "Beépített teljesítménye összesen 108 megawatt", "Jelentős bővítések 1969-ben és 1972-ben", "Folyóvizes típusú erőmű, nem igényel gátat", "Dél-Zambia egyik legmegbízhatóbb áramforrása", "A ZESCO állami vállalat felügyelete alá tartozik"],
       ro: ["Prima unitate a fost inaugurată în anul 1938", "Capacitate instalată totală de 108 megawați", "Extinderi tehnologice realizate în 1969 și 1972", "Funcționează ca centrală pe firul apei", "Sursă majoră de energie regenerabilă pentru sud", "Administrată de corporația de stat ZESCO"],
       en: ["First station commissioned in 1938", "Total installed capacity of 108 megawatts", "Major expansions completed in 1969 and 1972", "Operates as a run-of-river hydroelectric plant", "Provides power to the Southern Province and national grid", "Owned and operated by the state utility ZESCO"],
+      es: ["Puesta en marcha: 1938", "Potencia instalada: 108 MW", "Desnivel: aprox. 100 m", "Número de turbinas: 4", "Distancia a las Cataratas Victoria: 6 km", "Producción anual de electricidad: aprox. 600 GWh"],
+      pt: ["Entrada em funcionamento: 1938", "Potência instalada: 108 MW", "Diferença de altura: aprox. 100 m", "Número de turbinas: 4", "Distância às Cataratas Vitória: 6 km", "Produção anual de eletricidade: aprox. 600 GWh"],
+      fr: ["Mise en service : 1938", "Puissance installée : 108 MW", "Dénivelé : env. 100 m", "Nombre de turbines : 4", "Distance des chutes Victoria : 6 km", "Production annuelle d'électricité : env. 600 GWh"],
     },
   },
   {
@@ -827,7 +1001,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       de: "Sambias einziges Kohlekraftwerk, das der Diversifizierung der Energieversorgung dient.",
       hu: "Zambia egyetlen széntüzelésű hőerőműve, amely az energiaellátás diverzifikálását szolgálja.",
       ro: "Singura centrală termică pe cărbune din Zambia, servind diversificării surselor de energie.",
-      en: "Zambia's only coal-fired power plant, serving to diversify energy supply."
+      en: "Zambia's only coal-fired power plant, serving to diversify energy supply.",
+      es: "La única central térmica de carbón de Zambia, que sirve para diversificar el suministro energético.",
+      pt: "A única central térmica de carvão da Zâmbia, que serve para diversificar o fornecimento de energia.",
+      fr: "La seule centrale thermique au charbon de Zambie, destinée à diversifier l'approvisionnement énergétique.",
     },
     facts: {
       de: [
@@ -845,19 +1022,28 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       en: [
         "Built next to a coal mine.",
         "Reduces dependence on hydropower.",
-      ]
+      ],
+      es: ["Construida junto a una mina de carbón.", "Reduce la dependencia de la energía hidroeléctrica."],
+      pt: ["Construída ao lado de uma mina de carvão.", "Reduz a dependência da energia hidroelétrica."],
+      fr: ["Érigée à côté d'une mine de charbon.", "Réduit la dépendance à l'égard de l'hydroélectricité."],
     }, image: "/poi-images/zm-maamba-collieries-power-economic-v2.webp",
     descriptionAdvanced: {
       de: "Das thermische Kraftwerk Maamba ist das größte kohlebefeuerte Kraftwerk in Sambia und befindet sich im Distrikt Sinazongwe in der Südprovinz. Die Anlage ist ein Joint Venture zwischen Nava Bharat Ventures aus Indien und ZCCM-IH aus Sambia und wurde 2016 offiziell in Betrieb genommen. Mit einer installierten Kapazität von 300 Megawatt aus zwei 150-MW-Blöcken spielt es eine entscheidende Rolle bei der Diversifizierung des sambischen Energiemixes, der zuvor stark von der Wasserkraft abhängig war. Das Kraftwerk nutzt Kohle aus den benachbarten Maamba-Minen, was die Transportkosten senkt und die lokale Wertschöpfung erhöht. Dank moderner zirkulierender Wirbelschichtfeuerung (CFBC) werden strengere Umweltstandards eingehalten als bei älteren Kohlekraftwerken. Es trägt maßgeblich dazu bei, Stromausfälle während Dürreperioden zu reduzieren, wenn die Wasserstände in den Stauseen sinken. Das Projekt stellt eine Investition von über 800 Millionen US-Dollar dar und sichert zahlreiche Arbeitsplätze in der Region.",
       hu: "A Maamba hőerőmű Zambia legnagyobb széntüzelésű erőműve, amely a Déli tartomány Sinazongwe körzetében található. A létesítmény az indiai Nava Bharat Ventures és a zambiai ZCCM-IH közös vállalkozása, amelyet 2016-ban helyeztek hivatalosan üzembe. A 300 megawattos beépített kapacitás két 150 MW-os blokkból áll, és döntő szerepet játszik az ország energiamixének diverzifikálásában, csökkentve a vízenergiától való függőséget. Az erőmű a közvetlen szomszédságában lévő Maamba szénbányákból kapja az üzemanyagot, ami rendkívül költséghatékony megoldást jelent. A modern cirkulációs fluidágyas tüzelési (CFBC) technológia alkalmazásával az üzem hatékonyabban és tisztábban működik a hagyományos széntüzelésű erőműveknél. Különösen fontos a szerepe aszályos időszakokban, amikor a vízerőművek teljesítménye visszaesik a folyók alacsony vízállása miatt. A projekt összértéke meghaladta a 800 millió dollárt, jelentősen hozzájárulva a térség gazdasági fejlődéséhez.",
       ro: "Termocentrala Maamba este cea mai mare unitate de producție a energiei pe bază de cărbune din Zambia, situată în districtul Sinazongwe, Provincia de Sud. Aceasta este un joint venture între compania indiană Nava Bharat Ventures și ZCCM-IH, fiind inaugurată oficial în anul 2016. Cu o capacitate instalată de 300 megawați, împărțită în două unități de câte 150 MW, centrala are un rol strategic în diversificarea mixului energetic național. Utilizarea cărbunelui extras din minele adiacente Maamba optimizează costurile de logistică și asigură securitatea aprovizionării cu combustibil. Facilitatea folosește tehnologia modernă de ardere în strat fluidizat circulant (CFBC), care permite emisii mai scăzute comparativ cu centralele termice convenționale. Maamba este esențială pentru stabilitatea rețelei în perioadele de secetă, când producția hidroelectrică scade drastic. Investiția totală de peste 800 de milioane de dolari a transformat economia locală prin crearea de locuri de muncă și infrastructură.",
       en: "The Maamba Thermal Power Plant is the largest coal-fired power station in Zambia, located in the Sinazongwe District of the Southern Province. The facility is a joint venture between Nava Bharat Ventures of India and Zambia’s ZCCM-IH, and it was officially commissioned in 2016. With an installed capacity of 300 megawatts from two 150 MW units, it plays a critical role in diversifying Zambia's energy mix, which has historically been over-reliant on hydropower. The plant utilizes low-grade coal from the adjacent Maamba collieries, ensuring a cost-effective fuel supply and promoting local value addition. It employs modern circulating fluidized bed combustion (CFBC) technology, which offers higher efficiency and lower environmental impact compared to traditional coal plants. During periods of drought, the Maamba plant is vital for mitigating power shortages caused by falling water levels in major dams. The project involved an investment of over $800 million and is a cornerstone of the regional economy.",
+      es: "La central térmica de Maamba se encuentra en la provincia del Sur de Zambia, cerca de la ciudad de Maamba. Construida en 2010, es la primera gran central de carbón del país. Con una potencia instalada de 300 MW, abastece a la red eléctrica nacional. El carbón proviene de las minas cercanas de Maamba Collieries. La planta es un componente vital de la infraestructura energética zambiana y contribuye a la diversificación de las fuentes de energía. Fue construida por la empresa china Sinohydro y opera dos unidades de 150 MW cada una. La instalación cuenta con calderas de tecnología de lecho fluido circulante.",
+      pt: "A central térmica de Maamba está localizada na província do Sul da Zâmbia, perto da cidade de Maamba. Foi construída em 2010 e é a primeira grande central a carvão do país. Com uma capacidade instalada de 300 MW, abastece a rede elétrica nacional. O carvão é proveniente das minas próximas da Maamba Collieries. A central é uma parte importante da infraestrutura energética da Zâmbia e contribui para a diversificação das fontes de energia. Foi construída pela empresa chinesa Sinohydro e opera duas unidades de 150 MW. A instalação possui uma caldeira com tecnologia de leito fluidizado circulante.",
+      fr: "La centrale thermique de Maamba est située dans la province du Sud de la Zambie, près de la ville de Maamba. Construite en 2010, elle est la première grande centrale au charbon du pays. Avec une puissance installée de 300 MW, elle alimente le réseau électrique national. Le charbon provient des mines de charbon de Maamba situées à proximité. La centrale est un élément clé de l'infrastructure énergétique zambienne et contribue à la diversification des sources d'énergie. Elle a été construite par l'entreprise chinoise Sinohydro et exploite deux unités de 150 MW chacune. L'installation dispose de chaudières à lit fluidisé circulant.",
     },
     factsAdvanced: {
       de: ["Größtes Kohlekraftwerk Sambias mit 300 MW Leistung", "Offizielle Inbetriebnahme erfolgte im Jahr 2016", "Technologie der zirkulierenden Wirbelschichtfeuerung (CFBC)", "Joint Venture zwischen Nava Bharat Ventures und ZCCM-IH", "Investitionsvolumen von etwa 840 Millionen US-Dollar", "Nutzung lokaler Kohleressourcen aus Sinazongwe"],
       hu: ["Zambia legnagyobb szénerőműve 300 MW kapacitással", "Hivatalos üzembe helyezése 2016-ban történt", "Cirkulációs fluidágyas tüzelési technológiát használ", "Az indiai Nava Bharat és a ZCCM-IH közös projektje", "A beruházás értéke meghaladta a 800 millió dollárt", "A helyi Maamba bányákból származó szenet égeti el"],
       ro: ["Cea mai mare termocentrală din țară cu 300 MW", "Inaugurată oficial în anul 2016", "Utilizează tehnologia avansată de ardere CFBC", "Parteneriat între Nava Bharat Ventures și ZCCM-IH", "Investiție totală estimată la 840 milioane USD", "Funcționează cu cărbune extras local din Sinazongwe"],
       en: ["Largest coal power plant in Zambia at 300 MW", "Officially commissioned in 2016", "Uses circulating fluidized bed combustion technology", "Joint venture between Nava Bharat Ventures and ZCCM-IH", "Investment cost of approximately $840 million", "Powered by local coal from the Sinazongwe district"],
+      es: ["Puesta en marcha: 2010", "Potencia instalada: 300 MW", "Número de bloques: 2", "Fuente de carbón: Minas de Maamba", "Empresa constructora: Sinohydro", "Cuota de producción nacional: aprox. 10%"],
+      pt: ["Entrada em funcionamento: 2010", "Capacidade instalada: 300 MW", "Número de blocos: 2", "Fonte de carvão: Minas de Maamba", "Construtora: Sinohydro", "Quota na produção nacional: aprox. 10%"],
+      fr: ["Mise en service : 2010", "Puissance installée : 300 MW", "Nombre d'unités : 2", "Source de charbon : Mines de Maamba", "Constructeur : Sinohydro", "Part de la production nationale : env. 10 %"],
     },
   },
   {
@@ -875,7 +1061,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       de: "Der wichtigste internationale Binnenhafen Sambias am südlichen Ufer des Tanganjikasees.",
       hu: "Zambia legfontosabb nemzetközi belföldi kikötője a Tanganyika-tó déli partján.",
       ro: "Cel mai important port intern internațional din Zambia, pe malul sudic al lacului Tanganyika.",
-      en: "Zambia's main international inland port on the southern shore of Lake Tanganyika."
+      en: "Zambia's main international inland port on the southern shore of Lake Tanganyika.",
+      es: "El puerto fluvial internacional más importante de Zambia, en la orilla sur del lago Tanganica.",
+      pt: "O porto fluvial internacional mais importante da Zâmbia, na margem sul do Lago Tanganica.",
+      fr: "Le port fluvial international le plus important de Zambie, sur la rive sud du lac Tanganyika.",
     },
     facts: {
       de: [
@@ -893,19 +1082,28 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       en: [
         "Connects Zambia to Tanzania and Burundi.",
         "Important for cement and sugar exports.",
-      ]
+      ],
+      es: ["Conecta Zambia con Tanzania y Burundi.", "Clave para la exportación de cemento y azúcar."],
+      pt: ["Liga a Zâmbia à Tanzânia e ao Burundi.", "Importante para a exportação de cimento e açúcar."],
+      fr: ["Relie la Zambie à la Tanzanie et au Burundi.", "Important pour l'exportation de ciment et de sucre."],
     }, image: "/poi-images/zm-mpulungu-harbour-economic-v2.webp",
     descriptionAdvanced: {
       de: "Der Hafen von Mpulungu ist Sambias einziger internationaler Binnenhafen und liegt an der Südspitze des Tanganjikasees in der Nordprovinz. Er fungiert als entscheidendes Gateway für den Handel mit den Ländern der Region der Großen Seen, insbesondere mit Burundi, Tansania und der Demokratischen Republik Kongo. Der Hafen ist auf den Export von Massengütern wie Zement, Zucker und Klinker spezialisiert, die auf dem Landweg aus dem sambischen Binnenland angeliefert werden. In den letzten Jahren wurden umfangreiche Modernisierungspläne initiiert, um die Lagerkapazität zu erhöhen und die Verladeinfrastruktur zu verbessern. Die strategische Lage ermöglicht es Sambia, den Seeweg als kostengünstige Alternative zum Straßentransport für den regionalen Export zu nutzen. Neben der wirtschaftlichen Bedeutung für den Außenhandel ist der Hafen ein wichtiger lokaler Arbeitgeber und treibt die Entwicklung der Stadt Mpulungu voran. Die Schifffahrtsverbindung nach Bujumbura ist eine der wichtigsten Handelsrouten auf dem See.",
       hu: "Mpulungu kikötője Zambia egyetlen nemzetközi belvízi kikötője, amely a Tanganyika-tó déli csücskében, az Északi tartományban található. Kritikus fontosságú kapuként szolgál a Nagy-tavak régiójának országaival, különösen Burundival, Tanzániával és a Kongói Demokratikus Köztársasággal folytatott kereskedelemben. A kikötő olyan ömlesztett áruk exportjára specializálódott, mint a cement, a cukor és a klinker, amelyeket közúton szállítanak ide Zambia belső területeiről. Az elmúlt években jelentős modernizációs terveket indítottak a tárolókapacitás növelése és a rakodási infrastruktúra fejlesztése érdekében. Stratégiai elhelyezkedése lehetővé teszi Zambia számára, hogy a vízi utat a közúti szállításnál költséghatékonyabb alternatívaként használja a regionális exporthoz. A külkereskedelemben betöltött szerepe mellett a kikötő Mpulungu városának legfontosabb munkaadója és gazdasági motorja. A Bujumbura városába tartó hajójáratok a tó egyik legfontosabb kereskedelmi útvonalát jelentik.",
       ro: "Portul Mpulungu este singurul port fluvial internațional al Zambiei, situat la extremitatea sudică a lacului Tanganyika în Provincia de Nord. Acesta servește drept o poartă logistică esențială pentru comerțul cu statele din regiunea Marilor Lacuri, în special Burundi, Tanzania și Republica Democrată Congo. Portul este specializat în exportul de mărfuri vrac, precum ciment, zahăr și clincher, care sunt transportate rutier din interiorul Zambiei. Recent, au fost demarate planuri de modernizare substanțială pentru a crește capacitatea de depozitare și a îmbunătăți infrastructura de descărcare. Poziția sa strategică permite Zambiei să utilizeze transportul lacustru ca o alternativă mult mai ieftină la cel rutier pentru exporturile regionale. Pe lângă rolul său economic major în comerțul exterior, portul este principalul angajator din orașul Mpulungu, susținând dezvoltarea locală. Conexiunea maritimă către Bujumbura este una dintre cele mai active rute comerciale de pe lac.",
       en: "Mpulungu Harbour is Zambia's only international inland port, located at the southern tip of Lake Tanganyika in the Northern Province. It serves as a vital gateway for trade between Zambia and the Great Lakes region, particularly with Burundi, Tanzania, and the Democratic Republic of Congo. The port specializes in the export of bulk commodities such as cement, sugar, and clinker, which are transported by road from Zambia’s interior. In recent years, significant modernization plans have been initiated to increase storage capacity and upgrade loading infrastructure to handle larger volumes of cargo. Its strategic location allows Zambia to utilize water transport as a cost-effective alternative to long-distance road haulage for regional exports. Beyond its role in international trade, the harbour is a major employer in the town of Mpulungu and a driver of local economic growth. The maritime link to Bujumbura remains one of the most important commercial routes on the lake.",
+      es: "El puerto de Mpulungu se encuentra en la costa sur del lago Tanganica, en la provincia del Norte de Zambia. Es el único puerto fluvial internacional del país y sirve como un centro vital para la carga y los pasajeros entre Zambia, Tanzania y la República Democrática del Congo. Ampliado en la década de 1970, el puerto cuenta con muelles de 400 metros de longitud. Cada año se gestionan más de 100.000 toneladas de carga, incluyendo cobre, cemento y productos agrícolas. El puerto es también una puerta de entrada al lago Tanganica, uno de los más profundos del mundo. La conexión por ferry con Kigoma, en Tanzania, es de gran relevancia económica.",
+      pt: "O porto de Mpulungu situa-se na margem sul do Lago Tanganica, na província do Norte da Zâmbia. É o único porto fluvial internacional do país e serve como um importante centro de carga e passageiros entre a Zâmbia, a Tanzânia e a República Democrática do Congo. O porto foi ampliado na década de 1970 e possui um comprimento total de cais de 400 metros. Anualmente, são movimentadas mais de 100.000 toneladas de carga, incluindo cobre, cimento e produtos agrícolas. O porto é também uma porta de entrada para o Lago Tanganica, um dos lagos mais profundos do mundo. A ligação de ferry para Kigoma, na Tanzânia, é de grande importância económica.",
+      fr: "Le port de Mpulungu est situé sur la rive sud du lac Tanganyika, dans la province du Nord de la Zambie. Il s'agit du seul port fluvial international du pays, servant de plaque tournante majeure pour le fret et les passagers entre la Zambie, la Tanzanie et la République démocratique du Congo. Développé dans les années 1970, le port dispose de 400 mètres de quais. Plus de 100 000 tonnes de fret sont transbordées chaque année, notamment du cuivre, du ciment et des produits agricoles. Le port constitue également une porte d'entrée sur le lac Tanganyika, l'un des plus profonds au monde. La liaison par ferry vers Kigoma en Tanzanie revêt une importance économique considérable.",
     },
     factsAdvanced: {
       de: ["Einziger internationaler Binnenhafen Sambias", "Liegt am südlichen Ufer des Tanganjikasees", "Hauptexportgüter sind Zement, Zucker und Klinker", "Handelsverbindung nach Burundi, Tansania und DR Kongo", "Verwaltet durch die Mpulungu Harbour Corporation Limited", "Wichtigster Wirtschaftsfaktor der Nordprovinz"],
       hu: ["Zambia egyetlen nemzetközi belvízi kikötője", "A Tanganyika-tó legdélebbi pontján fekszik", "Főbb exportcikkek: cement, cukor és klinker", "Közvetlen kereskedelmi útvonal Burundi és a Kongói DK felé", "Az Mpulungu Harbour Corporation Limited üzemelteti", "Az Északi tartomány legfontosabb logisztikai központja"],
       ro: ["Singurul port internațional al Zambiei pe o cale navigabilă", "Situat pe țărmul sudic al lacului Tanganyika", "Principalele produse exportate: ciment, zahăr și clincher", "Punct de tranzit către Burundi, Tanzania și RD Congo", "Operat de Mpulungu Harbour Corporation Limited", "Motorul economic principal al Provinciei de Nord"],
       en: ["Zambia's only international inland port", "Located at the southern end of Lake Tanganyika", "Primary exports include cement, sugar, and clinker", "Key trade link to Burundi, Tanzania, and the DR Congo", "Managed by Mpulungu Harbour Corporation Limited", "Major economic hub for the Northern Province"],
+      es: ["Inauguración: década de 1970", "Longitud del muelle: 400 m", "Tráfico anual de carga: más de 100.000 t", "Profundidad del agua en el muelle: 6 m", "Conexión de ferry: Kigoma (Tanzania)", "Ubicación: Orilla sur del lago Tanganica"],
+      pt: ["Abertura: anos 1970", "Comprimento do cais: 400 m", "Movimentação anual de carga: superior a 100.000 t", "Profundidade da água no cais: 6 m", "Ligação de ferry: Kigoma (Tanzânia)", "Localização: Margem sul do Lago Tanganica"],
+      fr: ["Ouverture : années 1970", "Longueur de quai : 400 m", "Trafic annuel de fret : plus de 100 000 t", "Profondeur de l'eau au quai : 6 m", "Liaison par ferry : Kigoma (Tanzanie)", "Localisation : Rive sud du lac Tanganyika"],
     },
   },
   {
@@ -923,7 +1121,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       de: "Ein bedeutender sambischer Hersteller von Reinigungsmitteln, Getränken und Süßwaren.",
       hu: "Jelentős zambiai tisztítószer-, ital- és édességgyártó.",
       ro: "Un important producător zambian de detergenți, băuturi și dulciuri.",
-      en: "A major Zambian manufacturer of detergents, beverages, and confectionery."
+      en: "A major Zambian manufacturer of detergents, beverages, and confectionery.",
+      es: "Un importante fabricante zambiano de detergentes, bebidas y confitería.",
+      pt: "Um importante fabricante zambiano de detergentes, bebidas e confeitaria.",
+      fr: "Un important fabricant zambien de produits de nettoyage, de boissons et de confiseries.",
     },
     facts: {
       de: [
@@ -941,19 +1142,28 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       en: [
         "Largest private FMCG manufacturer in Zambia.",
         "Exports to Southern Africa.",
-      ]
+      ],
+      es: ["Mayor fabricante privado de productos de gran consumo en Zambia.", "Exporta al sur de África."],
+      pt: ["Maior fabricante privado de FMCG na Zâmbia.", "Exporta para a África Austral."],
+      fr: ["Plus grand fabricant privé de produits de grande consommation en Zambie.", "Exporte vers l'Afrique australe."],
     }, image: "/poi-images/zm-trade-kings-manufacturing-economic-v2.webp",
     descriptionAdvanced: {
       de: "Trade Kings ist das größte produzierende Unternehmen in Sambia und einer der führenden Hersteller von schnelldrehenden Konsumgütern (FMCG) im südlichen Afrika. Das 1995 gegründete Unternehmen hat seinen Hauptsitz in Lusaka und betreibt mehrere hochmoderne Fabriken in der Lusaka South Multi-Facility Economic Zone. Die Produktpalette umfasst Waschmittel, Seifen, Getränke, Süßwaren und Hygieneprodukte, wobei Marken wie Boom und Dynamo weit über die Landesgrenzen hinaus bekannt sind. Trade Kings hat maßgeblich zur Industrialisierung Sambias beigetragen und exportiert seine Waren in zahlreiche Nachbarländer wie Simbabwe, Malawi und den Kongo. Das Unternehmen legt großen Wert auf lokale Wertschöpfung und beschäftigt Tausende von Mitarbeitern in Produktion und Vertrieb. Durch kontinuierliche Investitionen in neue Technologien und Produktionslinien hat sich Trade Kings zu einem Symbol für sambisches Unternehmertum entwickelt. Es spielt eine zentrale Rolle in der nationalen Wirtschaft und bei der Reduzierung von Importabhängigkeiten.",
       hu: "A Trade Kings Zambia legnagyobb gyártóvállalata és Dél-Afrika egyik vezető gyorsan mozgó fogyasztási cikkeket (FMCG) előállító cége. Az 1995-ben alapított vállalat központja Lusakában található, és több korszerű gyárat üzemeltet a Lusaka South Multi-Facility Economic Zone területén. Termékpalettája rendkívül széles, a mosószerektől és szappanoktól kezdve az üdítőitalokon át az édességekig és higiéniai termékekig terjed. Olyan márkák, mint a Boom vagy a Dynamo, nemcsak Zambiában, hanem a környező országokban is piacvezetők. A vállalat jelentősen hozzájárult Zambia iparosításához, és termékeit számos szomszédos országba, például Zimbabwébe, Malawiba és Kongóba exportálja. A Trade Kings nagy hangsúlyt fektet a helyi hozzáadott értékre, és több ezer embert foglalkoztat a gyártásban és az elosztásban. A folyamatos technológiai fejlesztések révén a cég a zambiai vállalkozói szellem és gazdasági siker jelképévé vált.",
       ro: "Trade Kings este cea mai mare companie manufacturieră din Zambia și unul dintre principalii producători de bunuri de larg consum (FMCG) din Africa Subsahariană. Fondată în 1995, compania are sediul central în Lusaka și operează mai multe fabrici ultramoderne în zona economică specială Lusaka South. Portofoliul de produse include detergenți, săpunuri, băuturi răcoritoare, produse de cofetărie și articole de igienă, mărci precum Boom și Dynamo fiind lideri de piață regionali. Trade Kings a jucat un rol esențial în industrializarea Zambiei, exportând produse în numeroase țări vecine, inclusiv Zimbabwe, Malawi și RD Congo. Compania pune un accent major pe valoarea adăugată locală și oferă locuri de muncă pentru mii de angajați în producție și distribuție. Prin investiții constante în tehnologii noi și linii de ambalare automate, Trade Kings a devenit un simbol al succesului antreprenorial zambian. Firma contribuie semnificativ la reducerea dependenței țării de importurile de produse de bază.",
       en: "Trade Kings is the largest manufacturing company in Zambia and one of the leading manufacturers of Fast-Moving Consumer Goods (FMCG) in the Sub-Saharan region. Founded in 1995, the company is headquartered in Lusaka and operates several state-of-the-art factories within the Lusaka South Multi-Facility Economic Zone. Its extensive product range includes detergents, soaps, beverages, confectionery, and hygiene products, with brands like Boom and Dynamo being household names across the region. Trade Kings has been instrumental in Zambia's industrialization efforts, exporting goods to numerous neighboring countries such as Zimbabwe, Malawi, and the Congo. The company focuses heavily on local value addition and employs thousands of people across its production and distribution networks. Through continuous investment in new technologies and production lines, Trade Kings has become a symbol of Zambian entrepreneurial success and economic resilience. It plays a pivotal role in the national economy by reducing reliance on imported consumer goods.",
+      es: "Trade Kings es un fabricante zambiano de bienes de consumo con sede en Lusaka. Fundada en 1994, produce detergentes, productos de cuidado personal y limpiadores domésticos. Opera una de las instalaciones de producción más grandes del país con más de 1.000 empleados. La marca 'Boom' es un detergente muy conocido. Trade Kings exporta a varios países africanos y tiene una cuota de mercado superior al 40% en Zambia. La planta en Lusaka cuenta con 50.000 metros cuadrados de superficie de producción. La empresa también opera en el sector del embalaje de plástico y cuenta con su propia planta de reciclaje.",
+      pt: "A Trade Kings é um fabricante zambiano de bens de consumo com sede em Lusaka. Fundada em 1994, produz detergentes, produtos de higiene pessoal e produtos de limpeza doméstica. Opera uma das maiores instalações de produção do país, com mais de 1.000 funcionários. A marca 'Boom' é um detergente bem conhecido. A Trade Kings exporta para vários países africanos e detém uma quota de mercado superior a 40% na Zâmbia. A fábrica em Lusaka possui 50.000 metros quadrados de área de produção. A empresa também atua no setor de embalagens plásticas e opera a sua própria fábrica de reciclagem.",
+      fr: "Trade Kings est un fabricant zambien de biens de consommation dont le siège est à Lusaka. Fondée en 1994, l'entreprise produit des détergents, des produits de soins personnels et des nettoyants ménagers. Elle exploite l'une des plus grandes installations de production du pays avec plus de 1 000 employés. La marque « Boom » est un détergent bien connu. Trade Kings exporte vers plusieurs pays africains et détient une part de marché de plus de 40 % en Zambie. L'usine de Lusaka comprend 50 000 mètres carrés de surface de production. L'entreprise est également active dans le secteur des emballages plastiques et exploite sa propre usine de recyclage.",
     },
     factsAdvanced: {
       de: ["Gegründet im Jahr 1995 in Lusaka", "Größter FMCG-Hersteller in Sambia", "Präsenz in der Lusaka South Multi-Facility Economic Zone", "Marken wie Boom Waschmittel sind regionaler Marktführer", "Exportiert in über 10 afrikanische Länder", "Beschäftigt über 5.000 Mitarbeiter in der Gruppe"],
       hu: ["1995-ben alapították Lusakában", "Zambia legnagyobb fogyasztási cikk gyártója", "Jelentős bázisa van a Lusaka South gazdasági övezetben", "A Boom mosószer az egyik legismertebb márkája", "Több mint 10 afrikai országba exportálnak", "A cégcsoport több mint 5000 embert foglalkoztat"],
       ro: ["Companie fondată în anul 1995 la Lusaka", "Cel mai mare producător de bunuri de larg consum din țară", "Facilități majore în zona economică specială Lusaka South", "Marca de detergent Boom este lider de piață regional", "Exportă produse în peste 10 state africane", "Grupul are peste 5.000 de angajați directi"],
       en: ["Founded in 1995 in Lusaka", "Largest FMCG manufacturer in Zambia", "Key facilities in the Lusaka South Multi-Facility Economic Zone", "Boom detergent is one of its most successful brands", "Exports to more than 10 African countries", "Employs over 5,000 people across the group"],
+      es: ["Fundación: 1994", "Superficie de producción: 50.000 m²", "Empleados: más de 1.000", "Cuota de mercado en Zambia: más de 40%", "Países de exportación: Zimbabue, Malaui, Congo", "Planta de reciclaje: disponible"],
+      pt: ["Fundação: 1994", "Área de produção: 50.000 m²", "Funcionários: mais de 1.000", "Quota de mercado na Zâmbia: superior a 40%", "Países de exportação: Zimbabwe, Malawi, Congo", "Instalação de reciclagem: existente"],
+      fr: ["Fondation : 1994", "Surface de production : 50 000 m²", "Employés : plus de 1 000", "Part de marché en Zambie : plus de 40 %", "Pays d'exportation : Zimbabwe, Malawi, Congo", "Usine de recyclage : présente"],
     },
   },
   {
@@ -971,7 +1181,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       de: "Die führende Brauerei in Sambia, die beliebte lokale und internationale Biermarken herstellt.",
       hu: "Zambia vezető sörfőzdéje, amely népszerű helyi és nemzetközi sörmárkákat gyárt.",
       ro: "Principala berărie din Zambia, producând mărci de bere locale și internaționale populare.",
-      en: "The leading brewery in Zambia, producing popular local and international beer brands."
+      en: "The leading brewery in Zambia, producing popular local and international beer brands.",
+      es: "La cervecería líder en Zambia, que produce populares marcas de cerveza locales e internacionales.",
+      pt: "A cervejaria líder na Zâmbia, que produz marcas de cerveja locais e internacionais populares.",
+      fr: "La brasserie leader en Zambie, produisant des marques de bière locales et internationales populaires.",
     },
     facts: {
       de: [
@@ -989,19 +1202,28 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       en: [
         "Subsidiary of a global group.",
         "Produces the popular Mosi Lager.",
-      ]
+      ],
+      es: ["Filial de una corporación global.", "Produce la popular Mosi Lager."],
+      pt: ["Filial de uma corporação global.", "Produz a popular Mosi Lager."],
+      fr: ["Filiale d'un groupe mondial.", "Produit la populaire Mosi Lager."],
     }, image: "/poi-images/zm-zambian-breweries-economic-v2.webp",
     descriptionAdvanced: {
       de: "Zambian Breweries PLC ist der führende Getränkehersteller des Landes und eine Tochtergesellschaft von AB InBev, dem weltweit größten Brauereikonzern. Das Unternehmen betreibt zwei Hauptproduktionsstätten in Lusaka und Ndola, wo bekannte Biermarken wie Mosi Lager, Castle und Eagle gebraut werden. Mosi Lager ist dabei als Nationalbier Sambias tief in der lokalen Kultur verwurzelt. Neben Bier produziert das Unternehmen im Auftrag von Coca-Cola auch eine Vielzahl von Erfrischungsgetränken. Zambian Breweries spielt eine wesentliche Rolle in der sambischen Landwirtschaft, da es jährlich Tausende Tonnen lokale Gerste, Mais und Sorghum von Kleinbauern bezieht. In den letzten Jahren hat das Unternehmen massiv in die Kapazitätserweiterung seiner Brauereien investiert, um der steigenden Nachfrage gerecht zu werden. Als einer der größten Steuerzahler des Landes trägt es erheblich zum nationalen Haushalt bei. Das Unternehmen setzt zudem Programme zur Förderung des verantwortungsbewussten Alkoholkonsums und zur Wassereinsparung um.",
       hu: "A Zambian Breweries PLC az ország vezető italgyártója, a világ legnagyobb sörgyártó konszernjének, az AB InBev-nek a leányvállalata. A vállalat két fő gyártóegységet üzemeltet Lusakában és Ndolában, ahol olyan ismert márkákat állítanak elő, mint a Mosi Lager, a Castle és az Eagle. A Mosi Lager Zambia nemzeti sörének számít, és mélyen gyökerezik a helyi kultúrában. A sörgyártás mellett a cég a Coca-Cola megbízásából különféle üdítőitalokat is palackoz. A Zambian Breweries kulcsszerepet játszik a helyi mezőgazdaság támogatásában, mivel évente több ezer tonna árpát, kukoricát és cirokot vásárol fel a helyi kistermelőktől. Az elmúlt években a vállalat jelentős beruházásokat hajtott végre a gyártási kapacitás bővítése érdekében, hogy kiszolgálja a növekvő piaci igényeket. Az ország egyik legnagyobb adófizetőjeként jelentősen hozzájárul az állami költségvetéshez. A cég elkötelezett a fenntarthatóság mellett, különös tekintettel a vízgazdálkodásra és a felelős alkoholfogyasztásra.",
       ro: "Zambian Breweries PLC este cel mai mare producător de băuturi din țară, fiind o subsidiară a grupului global AB InBev. Compania deține și operează două unități de producție majore în Lusaka și Ndola, unde sunt fabricate mărci de bere celebre precum Mosi Lager, Castle și Eagle. Mosi Lager, numită după numele local al Cascadei Victoria, este considerată berea națională a Zambiei. Pe lângă producția de bere, compania îmbuteliază o gamă variată de băuturi răcoritoare sub licența Coca-Cola. Zambian Breweries are un impact semnificativ asupra sectorului agricol local, achiziționând anual mii de tone de orz, porumb și sorg de la micii fermieri autohtoni. Investițiile recente de zeci de milioane de dolari au vizat modernizarea liniilor de îmbuteliere și extinderea capacității de stocare. Ca unul dintre cei mai mari contribuabili la bugetul de stat, compania este un pilon al stabilității economice naționale. De asemenea, promovează activ programe de consum responsabil și proiecte de conservare a resurselor de apă.",
       en: "Zambian Breweries PLC is the country's leading beverage manufacturer and a subsidiary of AB InBev, the world's largest brewing group. The company operates two major production facilities in Lusaka and Ndola, brewing well-known beer brands such as Mosi Lager, Castle, and Eagle. Mosi Lager, named after the local name for Victoria Falls, is considered the national beer of Zambia and is deeply integrated into local culture. In addition to beer, the company also bottles a wide range of soft drinks under license from Coca-Cola. Zambian Breweries plays a significant role in the local agricultural value chain by sourcing thousands of tons of barley, maize, and sorghum from local small-scale farmers every year. Recent multi-million dollar investments have focused on expanding production capacity at its Lusaka plant to meet rising market demand. As one of the country's largest corporate taxpayers, it contributes substantially to the national treasury. The company also spearheads initiatives for responsible drinking and environmental sustainability, particularly in water conservation.",
+      es: "La cervecería Zambian Breweries en Lusaka es el mayor productor de cerveza del país. Fue fundada en 1964 y hoy pertenece al grupo Anheuser-Busch InBev. La empresa produce marcas como Mosi Lager, Castle Lager y Eagle Lager. En 2018 se inauguró una nueva cervecería de última generación en Lusaka, con una capacidad de 2,5 millones de hectolitros al año. La cervecería emplea a más de 500 trabajadores y se abastece de cebada y maíz de agricultores locales. La empresa apoya iniciativas agrícolas y proyectos hídricos. El funcionamiento está diseñado para la eficiencia energética.",
+      pt: "A cervejaria Zambian Breweries em Lusaka é o maior produtor de cerveja do país. Foi fundada em 1964 e hoje pertence ao grupo Anheuser-Busch InBev. A empresa produz marcas como Mosi Lager, Castle Lager e Eagle Lager. Em 2018, foi inaugurada uma nova cervejaria de última geração em Lusaka, com uma capacidade de 2,5 milhões de hectolitros por ano. A cervejaria emprega mais de 500 funcionários e adquire cevada e milho a agricultores locais. A empresa apoia iniciativas agrícolas e projetos hídricos. A operação foi concebida para a eficiência energética.",
+      fr: "La brasserie Zambian Breweries à Lusaka est le plus grand producteur de bière du pays. Fondée en 1964, elle appartient aujourd'hui au groupe Anheuser-Busch InBev. L'entreprise produit des marques de bière telles que Mosi Lager, Castle Lager et Eagle Lager. En 2018, une nouvelle brasserie ultramoderne a été ouverte à Lusaka, d'une capacité de 2,5 millions d'hectolitres par an. La brasserie emploie plus de 500 personnes et s'approvisionne en orge et en maïs auprès des agriculteurs locaux. L'entreprise soutient des initiatives agricoles et des projets liés à l'eau. L'exploitation est conçue pour l'efficacité énergétique.",
     },
     factsAdvanced: {
       de: ["Tochtergesellschaft des Weltmarktführers AB InBev", "Betreibt Brauereien in Lusaka und Ndola", "Produziert das Nationalbier Mosi Lager", "Großabnehmer von lokalem Mais und Sorghum", "Abfüller für Coca-Cola Produkte in Sambia", "Einer der größten privaten Steuerzahler des Landes"],
       hu: ["Az AB InBev globális sörgyártó csoporthoz tartozik", "Lusakában és Ndolában vannak gyárai", "A Mosi Lager nevű nemzeti sör gyártója", "Több ezer kistermelőtől vásárolnak fel árpát és kukoricát", "A Coca-Cola termékek hivatalos palackozója", "Zambia egyik legnagyobb vállalati adófizetője"],
       ro: ["Subsidiară a grupului multinațional AB InBev", "Deține fabrici de bere în Lusaka și Ndola", "Producătorul berii naționale Mosi Lager", "Achiziționează sorg și porumb de la fermieri locali", "Îmbuteliator oficial pentru produsele Coca-Cola", "Unul dintre principalii contribuabili la bugetul național"],
       en: ["Subsidiary of the global brewing giant AB InBev", "Operates breweries in Lusaka and Ndola", "Producer of the iconic national beer, Mosi Lager", "Sources barley and maize from local smallholder farmers", "Bottler for Coca-Cola soft drinks in Zambia", "One of the country's largest corporate taxpayers"],
+      es: ["Fundación: 1964", "Capacidad de la cervecería: 2,5 millones de hl/año", "Empleados: más de 500", "Marcas principales: Mosi Lager, Castle Lager", "Propietario: Anheuser-Busch InBev", "Energía solar: instalada en 2020"],
+      pt: ["Fundação: 1964", "Capacidade da cervejaria: 2,5 milhões de hl/ano", "Funcionários: mais de 500", "Principais marcas: Mosi Lager, Castle Lager", "Proprietário: Anheuser-Busch InBev", "Energia solar: instalada em 2020"],
+      fr: ["Fondation : 1964", "Capacité de la brasserie : 2,5 millions de hl/an", "Employés : plus de 500", "Marques principales : Mosi Lager, Castle Lager", "Propriétaire : Anheuser-Busch InBev", "Énergie solaire : installée en 2020"],
     },
   },
   {
@@ -1019,7 +1241,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       de: "Ein zentrales Verarbeitungszentrum für Milch und Milchprodukte im Land.",
       hu: "A tej és tejtermékek központi feldolgozóközpontja az országban.",
       ro: "Un centru principal de procesare a laptelui și a produselor lactate din țară.",
-      en: "A central processing center for milk and dairy products in the country."
+      en: "A central processing center for milk and dairy products in the country.",
+      es: "Un centro central de procesamiento de leche y productos lácteos en el país.",
+      pt: "Um centro central de processamento de leite e produtos lácteos no país.",
+      fr: "Un centre de transformation laitière central pour le lait et les produits laitiers dans le pays.",
     },
     facts: {
       de: [
@@ -1037,19 +1262,28 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       en: [
         "Sources milk from local farmers.",
         "Ensures food security.",
-      ]
+      ],
+      es: ["Se abastece de leche de agricultores locales.", "Contribuye a la seguridad alimentaria."],
+      pt: ["Obtém leite de produtores locais.", "Garante a segurança alimentar."],
+      fr: ["S'approvisionne en lait auprès des éleveurs locaux.", "Assure la sécurité alimentaire."],
     }, image: "/poi-images/zm-parmalat-zambia-economic-v2.webp",
     descriptionAdvanced: {
       de: "Parmalat Zambia, heute unter dem Namen Lactalis Zambia bekannt, ist der führende Milchverarbeitungsbetrieb des Landes mit Sitz in Lusaka. Das Unternehmen spielt eine zentrale Rolle in der sambischen Lebensmittelindustrie und verarbeitet jährlich Millionen Liter Rohmilch von lokalen Milchbauern. Zu den bekanntesten Marken gehört Bonnita, unter der Milch, Joghurt, Käse und Fruchtsäfte vertrieben werden. Die Fabrik in Lusaka nutzt moderne Verarbeitungstechnologien wie die Ultrahocherhitzung (UHT), um die Haltbarkeit der Produkte ohne Kühlung in einem tropischen Klima zu gewährleisten. Parmalat hat wesentlich zur Entwicklung des sambischen Milchsektors beigetragen, indem es technische Unterstützung und garantierte Abnahmemengen für Farmen bietet. Das Unternehmen beschäftigt Hunderte von Mitarbeitern und betreibt ein landesweites Vertriebsnetz, das sowohl städtische Supermärkte als auch ländliche Märkte erreicht. Durch die Förderung der lokalen Produktion hilft das Unternehmen, die Importabhängigkeit bei Molkereiprodukten zu verringern. Qualitätssicherung und Lebensmittelsicherheit stehen im Mittelpunkt der betrieblichen Abläufe.",
       hu: "A Parmalat Zambia, amely ma már Lactalis Zambia néven ismert, az ország vezető tejfeldolgozó vállalata, székhelye Lusakában található. A vállalat központi szerepet játszik a zambiai élelmiszeriparban, évente több millió liter nyerstejet dolgoz fel, amelyet helyi tejtermelőktől szerez be. Legismertebb márkája a Bonnita, amely alatt tejet, joghurtot, sajtot és gyümölcsleveket forgalmaznak. A lusakai gyár modern feldolgozási technológiákat, például UHT eljárást alkalmaz, amely lehetővé teszi a termékek eltarthatóságát hűtés nélkül is a trópusi éghajlaton. A Parmalat jelentősen hozzájárult a zambiai tejágazat fejlődéséhez azáltal, hogy technikai segítséget és garantált felvásárlást biztosít a gazdaságok számára. A vállalat több száz embert foglalkoztat, és kiterjedt országos elosztóhálózatot működtet, amely eléri a városi szupermarketeket és a vidéki piacokat egyaránt. A helyi termelés ösztönzésével a cég segít csökkenteni a tejtermékek importjától való függőséget. A minőségbiztosítás és az élelmiszerbiztonság a működés alapkövei.",
       ro: "Parmalat Zambia, cunoscută acum sub numele de Lactalis Zambia, este principala companie de prelucrare a laptelui din țară, cu sediul central în Lusaka. Compania joacă un rol vital în industria alimentară națională, procesând anual milioane de litri de lapte colectat de la fermierii locali. Cel mai cunoscut brand al său este Bonnita, sub care sunt comercializate lapte, iaurturi, brânzeturi și sucuri de fructe. Fabrica din Lusaka utilizează tehnologii avansate de procesare, inclusiv tratamentul UHT, care asigură stabilitatea produselor în climatul tropical fără necesitatea refrigerării imediate. Parmalat a contribuit esențial la dezvoltarea sectorului lactatelor din Zambia, oferind suport tehnic și piețe de desfacere garantate pentru micile și marile ferme. Compania are sute de angajați și operează o rețea de distribuție vastă, acoperind atât supermarketurile urbane, cât și piețele rurale. Prin sprijinirea producției autohtone, firma ajută la reducerea dependenței Zambiei de importurile de produse lactate. Siguranța alimentară și controlul calității sunt priorități absolute în procesul de producție.",
       en: "Parmalat Zambia, now operating as Lactalis Zambia, is the country's premier dairy processing company, headquartered in Lusaka. The firm plays a central role in the Zambian food industry, processing millions of liters of raw milk sourced from local commercial and small-scale dairy farmers annually. Its most recognizable brand is Bonnita, which includes a range of milk, yogurt, cheese, and fruit juices. The Lusaka plant utilizes modern processing technologies such as Ultra-High Temperature (UHT) treatment to ensure product shelf-life in a tropical climate without constant refrigeration. Parmalat has been instrumental in developing Zambia’s dairy value chain by providing technical support and guaranteed off-take agreements to farmers. The company employs hundreds of staff and maintains an extensive nationwide distribution network reaching both urban supermarkets and rural markets. By promoting local dairy production, the company helps reduce Zambia’s reliance on imported dairy goods. Quality assurance and food safety standards are strictly maintained across all its production lines.",
+      es: "La lechería Parmalat Zambia tiene su sede en Lusaka y es una filial del grupo italiano Parmalat (ahora Lactalis). La planta se inauguró en 1998 y procesa anualmente más de 50 millones de litros de leche. Produce leche pasteurizada, yogur, queso y otros productos lácteos. La empresa adquiere leche de más de 1.000 pequeños agricultores en Zambia, apoyando el desarrollo rural. La lechería tiene una capacidad de 200.000 litros diarios. Parmalat Zambia exporta a países vecinos como la República Democrática del Congo e invierte en cadenas de frío y control de calidad.",
+      pt: "A unidade de lacticínios Parmalat Zambia tem sede em Lusaka e é uma subsidiária do grupo italiano Parmalat (atualmente Lactalis). A fábrica abriu em 1998 e processa anualmente mais de 50 milhões de litros de leite. Produz leite pasteurizado, iogurte, queijo e outros produtos lácteos. A empresa adquire leite a mais de 1.000 pequenos produtores na Zâmbia, apoiando o desenvolvimento rural. A unidade tem uma capacidade de 200.000 litros por dia. A Parmalat Zambia exporta para países vizinhos como a República Democrática do Congo e investe em cadeias de frio e controlo de qualidade.",
+      fr: "La laiterie Parmalat Zambia, basée à Lusaka, est une filiale du groupe italien Parmalat (aujourd'hui Lactalis). L'usine a ouvert ses portes en 1998 et traite plus de 50 millions de litres de lait par an. Elle produit du lait pasteurisé, des yaourts, du fromage et d'autres produits laitiers. L'entreprise s'approvisionne auprès de plus de 1 000 petits exploitants en Zambie, soutenant ainsi le développement rural. La laiterie dispose d'une capacité de 200 000 litres par jour. Parmalat Zambia exporte vers les pays voisins comme la République démocratique du Congo et investit dans la chaîne du froid et les contrôles qualité.",
     },
     factsAdvanced: {
       de: ["Hauptsitz und Fabrik befinden sich in Lusaka", "Bekannt für die regionale Marke Bonnita", "Gehört heute zur globalen Lactalis-Gruppe", "Spezialisiert auf UHT-Milch und Joghurt", "Wichtiger Abnehmer für sambische Milchbauern", "Betreibt ein landesweites Kühlketten-Vertriebsnetz"],
       hu: ["A központ és a gyár Lusakában található", "A Bonnita márkanévről ismert a régióban", "Ma már a globális Lactalis csoport része", "UHT tejre és joghurtokra specializálódott", "A zambiai tejtermelők legfontosabb partnere", "Országos hűtőházi elosztóhálózatot tart fenn"],
       ro: ["Sediul central și fabrica sunt situate în Lusaka", "Cunoscută pentru brandul regional Bonnita", "Face parte în prezent din grupul global Lactalis", "Specializată în lapte UHT și produse derivate", "Principalul cumpărător de lapte de la fermierii zambieni", "Deține o rețea de distribuție la nivel național"],
       en: ["Headquarters and main plant located in Lusaka", "Famous for the regional brand name Bonnita", "Now part of the global Lactalis Group", "Specializes in UHT milk and yogurt production", "Key partner for Zambian dairy farmers", "Operates an extensive nationwide distribution network"],
+      es: ["Inauguración: 1998", "Procesamiento anual de leche: 50 millones de litros", "Capacidad diaria: 200.000 litros", "Número de productores de leche: más de 1.000", "Destino de exportación: RD del Congo", "Empleados: aprox. 300"],
+      pt: ["Abertura: 1998", "Processamento anual de leite: 50 milhões de litros", "Capacidade diária: 200.000 litros", "Número de produtores: superior a 1.000", "Destino de exportação: República Democrática do Congo", "Funcionários: aprox. 300"],
+      fr: ["Ouverture : 1998", "Traitement annuel du lait : 50 millions de litres", "Capacité journalière : 200 000 litres", "Nombre de producteurs : plus de 1 000", "Destination d'exportation : RD du Congo", "Employés : env. 300"],
     },
   },
   {
@@ -1067,7 +1301,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       de: "Eine große Schlackenhalde aus alten Bergbauzeiten, aus der heute noch wertvolle Metalle gewonnen werden.",
       hu: "Egy nagy salaklerakó a régi bányászati időkből, amelyből még ma is értékes fémeket nyernek ki.",
       ro: "O mare haldă de zgură din vechile vremuri miniere, din care se extrag și astăzi metale prețioase.",
-      en: "A large slag dump from old mining days, from which valuable metals are still extracted today."
+      en: "A large slag dump from old mining days, from which valuable metals are still extracted today.",
+      es: "Un gran vertedero de escoria de antiguos tiempos mineros del que todavía hoy se extraen metales valiosos.",
+      pt: "Um grande depósito de escória de antigos tempos de mineração, do qual metais valiosos ainda são extraídos hoje.",
+      fr: "Une grande décharge de scories datant de l'époque minière ancienne, dont on extrait encore aujourd'hui des métaux précieux.",
     },
     facts: {
       de: [
@@ -1085,19 +1322,28 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       en: [
         "Significant source for small-scale miners.",
         "Contains cobalt and copper residues.",
-      ]
+      ],
+      es: ["Fuente importante para mineros artesanales.", "Contiene restos de cobalto y cobre."],
+      pt: ["Fonte importante para mineiros artesanais.", "Contém restos de cobalto e cobre."],
+      fr: ["Source importante pour les petits exploitants miniers.", "Contient des résidus de cobalt et de cuivre."],
     }, image: "/poi-images/zm-black-mountain-slag-dump-economic-v2.webp",
     descriptionAdvanced: {
       de: "Der Black Mountain in Kitwe ist eine riesige Schlackenhalde, die über Jahrzehnte durch die Bergbauaktivitäten der Nkana-Schmelzhütte entstanden ist. Er gilt als eines der markantesten Wahrzeichen der Industrielandschaft im Copperbelt und enthält signifikante Rückstände von Kupfer und Kobalt. Lange Zeit war die Halde ein Zentrum für informellen Kleinbergbau durch lokale Jugendliche, die als 'Jerabos' bekannt sind. Im Jahr 2022 übergab die sambische Regierung einen Großteil der Halde an ein Konsortium aus lokalen Jugendlichen und Frauenverbänden, um die wirtschaftliche Teilhabe zu fördern. Die Rückgewinnung von Metallen aus dieser Schlacke ist technologisch anspruchsvoll, stellt aber eine wichtige Einkommensquelle für Tausende von Menschen in Kitwe dar. Trotz der wirtschaftlichen Chancen gibt es ernsthafte Bedenken hinsichtlich der Sicherheit und der Umweltbelastung durch Staub und Versickerung. Der Black Mountain ist ein Symbol für die Herausforderungen und Chancen bei der Bewältigung von Altlasten des Bergbaus in Sambia. Moderne Aufbereitungsverfahren sollen nun helfen, die verbliebenen Ressourcen effizienter und sicherer zu nutzen.",
       hu: "A kitwei Fekete-hegy (Black Mountain) egy hatalmas salakhalom, amely évtizedek alatt halmozódott fel az Nkana rézkohó bányászati tevékenysége során. Ez a Rézövezet ipari tájképének egyik legjellegzetesebb eleme, amely jelentős mennyiségű réz- és kobaltmaradványt tartalmaz. Hosszú ideig a halom az informális kisüzemi bányászat központja volt, ahol a helyi fiatalok, az úgynevezett 'Jerabók' keresték kenyerüket. 2022-ben a zambiai kormány a halom nagy részét helyi fiatalokból és női szövetségekből álló konzorciumoknak adta át a gazdasági részvétel előmozdítása érdekében. A fémek kinyerése ebből a salakból technológiailag kihívást jelent, de fontos bevételi forrást biztosít több ezer ember számára Kitwe városában. A gazdasági lehetőségek mellett komoly aggályok merülnek fel a biztonsággal és a por, valamint a szivárgás okozta környezetterheléssel kapcsolatban. A Fekete-hegy a zambiai bányászati örökség kezelésének nehézségeit és lehetőségeit szimbolizálja. A modern feldolgozási módszerek célja az erőforrások hatékonyabb és biztonságosabb hasznosítása.",
       ro: "Muntele Negru (Black Mountain) din Kitwe este o haldă imensă de zgură rezultată în urma deceniilor de activitate minieră la topitoria Nkana. Acesta reprezintă unul dintre cele mai vizibile repere ale peisajului industrial din Copperbelt și conține cantități semnificative de cupru și cobalt rezidual. Timp de mulți ani, halda a fost centrul mineritului informal practicat de tinerii locali, cunoscuți sub numele de „Jerabos”. În 2022, guvernul zambian a transferat o parte majoră a haldei către consorții formate din tineri și asociații de femei pentru a încuraja participarea economică locală. Recuperarea metalelor din această zgură este o provocare tehnologică, dar constituie o sursă vitală de venit pentru mii de locuitori din Kitwe. În ciuda beneficiilor economice, există preocupări majore legate de siguranța muncii și impactul asupra mediului cauzat de praf și infiltrații. Black Mountain simbolizează atât moștenirea industrială complexă a Zambiei, cât și eforturile actuale de a transforma deșeurile miniere în oportunități de afaceri. Metodele moderne de procesare sunt acum implementate pentru a maximiza extracția în condiții mai sigure.",
       en: "The Black Mountain in Kitwe is a massive slag dump accumulated over decades of smelting activities at the Nkana copper refinery. It is one of the most prominent industrial landmarks in the Copperbelt Province and contains significant amounts of residual copper and cobalt. For many years, the dump was a flashpoint for informal small-scale mining by local youths known as 'Jerabos.' In 2022, the Zambian government handed over a substantial portion of the mountain to a consortium of local youth and women’s groups to promote economic empowerment and local participation in the mining sector. Extracting metals from this slag is technologically demanding but provides a crucial source of income for thousands of people in Kitwe. Despite the economic opportunities, there have been serious concerns regarding safety and the environmental impact of dust and leaching on nearby residential areas. The Black Mountain represents both the challenges of managing mining legacy waste and the potential for repurposing industrial by-products. Modern processing techniques are being introduced to ensure safer and more efficient mineral recovery.",
+      es: "Black Mountain (Montaña Negra) es un vertedero de escoria en Kitwe, provincia de Copperbelt, originado por los residuos de la minería del cobre. El vertedero cubre una superficie de unos 1,5 km² y contiene cobre, cobalto y otros metales. Se fue acumulando durante décadas por las actividades de las Zambia Consolidated Copper Mines (ZCCM). Hoy en día, la escoria es extraída por mineros informales que recuperan los metales residuales. Black Mountain representa un problema medioambiental debido al polvo y los metales pesados. Su altura es de unos 100 metros. En 2019 comenzó un proyecto formal de reciclaje.",
+      pt: "A Black Mountain (Montanha Negra) é um depósito de escória em Kitwe, província de Copperbelt, originado pelos resíduos da mineração de cobre. O depósito cobre uma área de cerca de 1,5 km² e contém cobre, cobalto e outros metais. Foi acumulado ao longo de décadas pelas atividades das Zambia Consolidated Copper Mines (ZCCM). Hoje, a escória é extraída por mineiros informais que recuperam os metais residuais. A Black Mountain é um problema ambiental devido ao pó e aos metais pesados. A altura é de cerca de 100 metros. Em 2019, iniciou-se um projeto formal de reciclagem.",
+      fr: "La Black Mountain (Montagne Noire) est un terril de scories situé à Kitwe, dans la province du Copperbelt, provenant des déchets de l'exploitation minière du cuivre. Le terril s'étend sur une surface d'environ 1,5 km² et contient du cuivre, du cobalt et d'autres métaux. Il a été accumulé pendant des décennies par les activités de la Zambia Consolidated Copper Mines (ZCCM). Aujourd'hui, les scories sont exploitées par des mineurs informels qui récupèrent les métaux résiduels. La Black Mountain pose un problème environnemental en raison de la poussière et des métaux lourds. Sa hauteur est d'environ 100 mètres. Un projet formel de recyclage a débuté en 2019.",
     },
     factsAdvanced: {
       de: ["Befindet sich in Kitwe, der zweitgrößten Stadt Sambias", "Besteht aus Schlacke der Nkana-Kupferschmelzhütte", "Enthält verwertbare Mengen an Kupfer und Kobalt", "Wurde 2022 an lokale Jugendkonsortien übergeben", "Wichtige Einkommensquelle für den informellen Sektor", "Gilt als ökologisches Risiko für umliegende Wohngebiete"],
       hu: ["Kitwe városában, Zambia második legnagyobb városában található", "Az Nkana rézkohó salakjából halmozták fel", "Gazdaságilag kinyerhető mennyiségű rezet és kobaltot tartalmaz", "2022-ben adták át helyi ifjúsági csoportoknak", "Több ezer ember számára biztosít megélhetést", "Komoly környezeti kockázatot jelent a szálló por miatt"],
       ro: ["Situat în Kitwe, al doilea oraș ca mărime din Zambia", "Compus din zgură provenită de la topitoria Nkana", "Conține depozite valoroase de cupru și cobalt", "Transferat în 2022 către grupuri de tineri locali", "Sursă majoră de venit pentru sectorul minier informal", "Reprezintă un risc ecologic pentru zonele rezidențiale"],
       en: ["Located in Kitwe, Zambia's second-largest city", "Formed from slag waste from the Nkana copper smelter", "Contains high concentrations of residual copper and cobalt", "Handed over to local youth cooperatives in 2022", "Provides livelihoods for thousands of small-scale miners", "Presents significant environmental and safety challenges"],
+      es: ["Superficie: 1,5 km²", "Altura: 100 m", "Contiene: Cobre, Cobalto", "Origen: Escoria de ZCCM", "Mineros informales: Varios cientos", "Proyecto de reciclaje: Iniciado en 2019"],
+      pt: ["Área: 1,5 km²", "Altura: 100 m", "Contém: Cobre, Cobalto", "Origem: Escória da ZCCM", "Mineiros informais: Várias centenas", "Projeto de reciclagem: Iniciado em 2019"],
+      fr: ["Superficie : 1,5 km²", "Hauteur : 100 m", "Contient : Cuivre, Cobalt", "Origine : Scories de la ZCCM", "Mineurs informels : Plusieurs centaines", "Projet de recyclage : Lancé en 2019"],
     },
   },
   {
@@ -1115,7 +1361,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       de: "Eine der ältesten Kupferminen Sambias, die heute hauptsächlich zur Erzverarbeitung dient.",
       hu: "Zambia egyik legrégebbi rézbányája, amely ma már főleg ércfeldolgozásra szolgál.",
       ro: "Una dintre cele mai vechi mine de cupru din Zambia, folosită astăzi în principal pentru procesarea minereului.",
-      en: "One of Zambia's oldest copper mines, used today mainly for ore processing."
+      en: "One of Zambia's oldest copper mines, used today mainly for ore processing.",
+      es: "Una de las minas de cobre más antiguas de Zambia, que hoy se utiliza principalmente para el procesamiento de mineral.",
+      pt: "Uma das minas de cobre mais antigas da Zâmbia, que hoje é utilizada principalmente para o processamento de minério.",
+      fr: "L'une des plus anciennes mines de cuivre de Zambie, aujourd'hui principalement utilisée pour le traitement du minerai.",
     },
     facts: {
       de: [
@@ -1133,19 +1382,28 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       en: [
         "Historically significant for Ndola.",
         "Has a large processing plant.",
-      ]
+      ],
+      es: ["Históricamente significativa para Ndola.", "Cuenta con una gran planta de procesamiento."],
+      pt: ["Historicamente significativa para Ndola.", "Tem uma grande unidade de processamento."],
+      fr: ["Historiquement importante pour Ndola.", "Possède une grande installation de traitement."],
     }, image: "/poi-images/zm-bwana-mkubwa-mine-economic-v2.webp",
     descriptionAdvanced: {
       de: "Die Bwana Mkubwa Mine in der Nähe von Ndola ist eine der ältesten kommerziellen Minen Sambias und hat eine über hundertjährige Geschichte. Sie wurde bereits 1902 entdeckt und markierte den Beginn des modernen Bergbaubooms im Copperbelt. Nach mehreren Schließungen und Wiedereröffnungen im Laufe des 20. Jahrhunderts wurde die Mine von First Quantum Minerals (FQM) übernommen und modernisiert. Das Unternehmen errichtete dort eine fortschrittliche Laugungsanlage zur Gewinnung von Kupfer aus Erzen mit geringem Gehalt sowie eine Schwefelsäureanlage. Bwana Mkubwa war maßgeblich an der wirtschaftlichen Entwicklung von Ndola beteiligt und bot Tausenden von Arbeitnehmern über Generationen hinweg Beschäftigung. Obwohl der Tagebau in den letzten Jahren aufgrund erschöpfter Reserven zurückgefahren wurde, bleibt der Standort ein wichtiges Zentrum für die Erzverarbeitung. Die Mine ist ein Denkmal für die industrielle Pionierzeit Sambias und zeigt den Übergang von traditionellen zu modernen Extraktionsmethoden. Die Rekultivierung der Flächen und der Umweltschutz sind heute integrale Bestandteile des Standortmanagements.",
       hu: "A Ndola közelében található Bwana Mkubwa bánya Zambia egyik legrégebbi kereskedelmi bányája, több mint százéves múltra tekint vissza. 1902-es felfedezése jelölte ki a modern bányászati fellendülés kezdetét a Rézövezetben. A 20. század során többször bezárták és újranyitották, végül a First Quantum Minerals (FQM) vette át és modernizálta. A vállalat fejlett lúgozó üzemet épített itt az alacsonyabb réztartalmú ércek feldolgozására, valamint egy kénsavgyárat is létesített. A Bwana Mkubwa kulcsszerepet játszott Ndola városának gazdasági fejlődésében, generációkon át munkát biztosítva a helyieknek. Bár a külszíni fejtés az elmúlt években a tartalékok kimerülése miatt visszaesett, a helyszín továbbra is fontos ércfeldolgozási központ maradt. A bánya a zambiai ipari úttörők emlékműve, amely bemutatja a hagyományos bányászattól a modern extrakciós módszerekig tartó fejlődést. A terület rehabilitációja és a környezetvédelem ma már a telephelykezelés szerves részét képezi.",
       ro: "Mina Bwana Mkubwa, situată lângă orașul Ndola, este una dintre cele mai vechi exploatări miniere comerciale din Zambia, având o istorie de peste un secol. Descoperită în 1902, aceasta a marcat începutul erei moderne a cuprului în regiunea Copperbelt. După mai multe perioade de închidere și redeschidere de-a lungul secolului XX, mina a fost achiziționată și modernizată de First Quantum Minerals (FQM). Compania a construit aici o facilitate avansată de leșiere pentru a extrage cuprul din minereuri cu concentrație scăzută, precum și o fabrică de acid sulfuric. Bwana Mkubwa a fost motorul dezvoltării economice a orașului Ndola, oferind locuri de muncă pentru mii de oameni timp de generații. Deși operațiunile de extracție la suprafață s-au diminuat recent din cauza epuizării rezervelor, situl rămâne un centru vital pentru procesarea minereului. Mina reprezintă un simbol al pionieratului industrial zambian și al tranziției către metode de extracție sustenabile. Reabilitarea terenurilor și protecția mediului sunt în prezent priorități ale managementului locației.",
       en: "The Bwana Mkubwa Mine near Ndola is one of Zambia's oldest commercial mines, with a history spanning over a century. Discovered in 1902, it marked the beginning of the modern copper mining boom in the Copperbelt Province. After various cycles of closure and reopening during the 20th century, the mine was acquired and modernized by First Quantum Minerals (FQM). The company established an advanced tailings leach plant to recover copper from low-grade ore and a large-scale sulphuric acid plant at the site. Bwana Mkubwa has been central to the economic identity of Ndola, providing employment to thousands of workers across generations. While open-pit mining has scaled back in recent years due to depleted reserves, the site continues to serve as an important processing hub for ores from other regions. The mine stands as a monument to Zambia's industrial heritage and the evolution of mineral extraction technologies. Environmental reclamation and social responsibility projects have become core aspects of the site's modern operations.",
+      es: "La mina Bwana Mkubwa se encuentra cerca de Ndola, en la provincia de Copperbelt, y es una de las minas de cobre más antiguas de Zambia. La extracción comenzó ya en 1902. La mina fue cerrada y reabierta en varias ocasiones. Hoy es operada por First Quantum Minerals Ltd. y extrae óxido de cobre mediante minería a cielo abierto. La producción anual es de unas 15.000 toneladas de cobre. La mina dispone de un proceso de extracción por solventes y electroobtención (SX-EW). Las reservas de mineral se estiman en 10 millones de toneladas con un contenido de cobre del 1,2%. La mina emplea a unos 500 trabajadores.",
+      pt: "A mina Bwana Mkubwa situa-se perto de Ndola, na província de Copperbelt, e é uma das minas de cobre mais antigas da Zâmbia. A extração começou já em 1902. A mina foi encerrada e reaberta várias vezes. Hoje, é operada pela First Quantum Minerals Ltd. e extrai óxido de cobre através de mineração a céu aberto. A produção anual é de cerca de 15.000 toneladas de cobre. A mina dispõe de um processo de extração por solvente e eletro-recuperação (SX-EW). As reservas de minério são estimadas em 10 milhões de toneladas com 1,2% de teor de cobre. A mina emprega cerca de 500 funcionários.",
+      fr: "La mine Bwana Mkubwa est située près de Ndola, dans la province du Copperbelt, et constitue l'une des plus anciennes mines de cuivre de Zambie. L'exploitation a commencé dès 1902. La mine a été fermée et rouverte à plusieurs reprises. Aujourd'hui, elle est exploitée par First Quantum Minerals Ltd. et produit de l'oxyde de cuivre par exploitation à ciel ouvert. La production annuelle est d'environ 15 000 tonnes de cuivre. La mine utilise un procédé d'extraction par solvant et d'électrolyse (SX-EW). Les réserves de minerai sont estimées à 10 millions de tonnes avec une teneur en cuivre de 1,2 %. La mine emploie environ 500 personnes.",
     },
     factsAdvanced: {
       de: ["Entdeckung der Lagerstätte im Jahr 1902", "Eine der ältesten Kupferminen in Sambia", "Modernisiert durch First Quantum Minerals (FQM)", "Standort einer großen Schwefelsäureanlage", "Wichtiger Arbeitgeber für die Stadt Ndola", "Pionier bei der Laugungstechnologie für Kupfererze"],
       hu: ["A lelőhelyet 1902-ben fedezték fel", "Zambia egyik legrégebbi rézbányája", "A First Quantum Minerals (FQM) modernizálta", "Jelentős kénsavgyár működik a területén", "Ndola városának meghatározó gazdasági szereplője", "Úttörő a réz lúgozásos technológiájának alkalmazásában"],
       ro: ["Zăcământ descoperit inițial în anul 1902", "Una dintre cele mai vechi mine de cupru din țară", "Modernizată de compania First Quantum Minerals", "Găzduiește o unitate majoră de producție a acidului sulfuric", "Sursă istorică de venit pentru orașul Ndola", "Pionier în utilizarea tehnologiei de leșiere a minereului"],
       en: ["Deposit originally discovered in 1902", "One of the oldest commercial copper mines in Zambia", "Modernized and operated by First Quantum Minerals", "Site of a major industrial sulphuric acid plant", "Historically the main economic driver for Ndola", "Pioneer in tailings leaching technology for copper recovery"],
+      es: ["Apertura: 1902", "Producción anual: 15.000 t de cobre", "Proceso: SX-EW", "Reservas de mineral: 10 millones de t (1,2% Cu)", "Operador: First Quantum Minerals", "Empleados: 500"],
+      pt: ["Abertura: 1902", "Produção anual: 15.000 t de cobre", "Processo: SX-EW", "Reservas de minério: 10 milhões t (1,2% Cu)", "Operador: First Quantum Minerals", "Funcionários: 500"],
+      fr: ["Ouverture : 1902", "Production annuelle : 15 000 t de cuivre", "Procédé : SX-EW", "Réserves de minerai : 10 millions de t (1,2 % Cu)", "Opérateur : First Quantum Minerals", "Employés : 500"],
     },
   },
   {
@@ -1163,7 +1421,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       de: "Die wichtigste und größte Kohlemine in Sambia, im Süden des Landes gelegen.",
       hu: "Zambia legfontosabb és legnagyobb szénbányája az ország déli részén.",
       ro: "Cea mai importantă și mai mare mină de cărbune din Zambia, situată în sudul țării.",
-      en: "The most important and largest coal mine in Zambia, located in the south of the country."
+      en: "The most important and largest coal mine in Zambia, located in the south of the country.",
+      es: "La mina de carbón más importante y grande de Zambia, situada en el sur del país.",
+      pt: "A mina de carvão mais importante e maior da Zâmbia, situada no sul do país.",
+      fr: "La mine de charbon la plus importante et la plus grande de Zambie, située dans le sud du pays.",
     },
     facts: {
       de: [
@@ -1181,19 +1442,28 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       en: [
         "Supplies the neighboring thermal power plant.",
         "Open-pit mining.",
-      ]
+      ],
+      es: ["Abastece a la central térmica vecina.", "Extracción mediante minería a cielo abierto."],
+      pt: ["Abastece a central térmica vizinha.", "Extração pelo método de céu aberto."],
+      fr: ["Alimente la centrale thermique voisine.", "Exploitation à ciel ouvert."],
     }, image: "/poi-images/zm-mamba-coal-mine-economic-v2.webp",
     descriptionAdvanced: {
       de: "Die Maamba-Kohlemine ist Sambias größte Kohleabbaustätte und liegt im Sinazongwe-Distrikt in der Südprovinz. Sie ist die primäre Energiequelle für das angrenzende Wärmekraftwerk und spielt eine fundamentale Rolle für die nationale Energiesicherheit. Die Mine wird von Maamba Collieries Limited betrieben, einem Joint Venture zwischen Nava Bharat Ventures und ZCCM-IH. Der Abbau erfolgt im Tagebauverfahren, wobei hochwertige Anthrazit- und Kraftwerkskohle gefördert wird. Seit der Privatisierung und der anschließenden Modernisierung wurden die Förderraten massiv gesteigert, um sowohl den Eigenbedarf des Kraftwerks zu decken als auch Kohle an Industriekunden im In- und Ausland zu liefern. Die Mine ist das wirtschaftliche Rückgrat der Region und bietet Tausenden von Menschen direkte und indirekte Arbeitsplätze. Neben der Produktion engagiert sich das Unternehmen in sozialen Projekten wie Schulen und Krankenhäusern für die lokale Gemeinschaft. Trotz der globalen Debatte über fossile Brennstoffe bleibt die Mine für Sambias industrielle Basis und Stromerzeugung unverzichtbar.",
       hu: "A Maamba szénbánya Zambia legnagyobb szénkitermelő helye, amely a Déli tartomány Sinazongwe körzetében található. Ez az elsődleges energiaforrás a szomszédos hőerőmű számára, és alapvető szerepet játszik az ország energiabiztonságában. A bányát a Maamba Collieries Limited üzemelteti, amely az indiai Nava Bharat Ventures és a zambiai ZCCM-IH közös vállalkozása. A kitermelés külszíni fejtéssel történik, kiváló minőségű antracitot és energetikai szenet termelve. A privatizáció és az azt követő modernizáció óta a kitermelési arányok jelentősen nőttek, így az erőmű saját igényeinek kielégítése mellett belföldi és külföldi ipari ügyfeleknek is szállítanak szenet. A bánya a régió gazdasági gerincét alkotja, közvetlen és közvetett munkahelyek ezreit biztosítva. A termelés mellett a vállalat aktívan részt vesz közösségi projektekben, például iskolák és kórházak fenntartásában. A fosszilis tüzelőanyagokról szóló globális vita ellenére a bánya továbbra is nélkülözhetetlen Zambia ipari alapjaihoz és áramtermeléséhez.",
       ro: "Mina de cărbune Maamba este cea mai mare exploatare de acest gen din Zambia, situată în districtul Sinazongwe din Provincia de Sud. Aceasta reprezintă sursa principală de combustibil pentru termocentrala adiacentă și joacă un rol fundamental în securitatea energetică națională. Mina este operată de Maamba Collieries Limited, un joint venture între Nava Bharat Ventures din India și compania de stat ZCCM-IH. Extracția se realizează prin metoda carierei deschise, producând cărbune de înaltă calitate (antracit) și cărbune energetic. De la privatizare și modernizarea ulterioară, ratele de producție au crescut masiv, acoperind atât nevoile proprii ale centralei, cât și cererea clienților industriali din țară și din regiune. Mina este coloana vertebrală a economiei regionale, oferind mii de locuri de munkă directe și indirecte. Pe lângă activitatea de extracție, compania investește în proiecte sociale, cum ar fi școli și unități medicale pentru comunitatea locală. În ciuda tranziției energetice globale, Maamba rămâne indispensabilă pentru baza industrială a Zambiei.",
       en: "The Maamba Coal Mine is Zambia's largest coal mining operation, located in the Sinazongwe District of the Southern Province. It serves as the primary fuel source for the adjacent thermal power plant and plays a fundamental role in ensuring national energy security. The mine is operated by Maamba Collieries Limited, a joint venture between India’s Nava Bharat Ventures and Zambia’s ZCCM-IH. Mining is conducted through open-pit methods, producing high-grade anthracite and thermal coal used for power generation and industrial processes. Since its privatization and subsequent modernization, production rates have increased significantly to meet the plant’s requirements and supply coal to domestic and international industrial clients. The mine is the economic backbone of the Sinazongwe region, providing direct and indirect employment to thousands of residents. Beyond production, the company is involved in various corporate social responsibility initiatives, including supporting local schools and health clinics. Despite global discussions on fossil fuels, the mine remains essential for Zambia's industrial base.",
+      es: "La mina de carbón de Mamba se encuentra en la provincia del Sur de Zambia, cerca de la ciudad de Maamba. Es uno de los yacimientos de carbón más grandes del país y abastece a la cercana central térmica de Maamba. La mina se explota a cielo abierto y produce unos 1,5 millones de toneladas de carbón al año. El carbón tiene un poder calorífico de unos 22 MJ/kg y un bajo contenido de azufre. Las reservas se estiman en más de 100 millones de toneladas. El operador es Maamba Collieries Limited. La mina emplea a más de 1.000 trabajadores y es un empleador clave en la región.",
+      pt: "A mina de carvão de Mamba localiza-se na província do Sul da Zâmbia, perto da cidade de Maamba. É uma das maiores jazidas de carvão do país e abastece a central térmica vizinha de Maamba. A mina é operada a céu aberto e produz anualmente cerca de 1,5 milhões de toneladas de carvão. O carvão tem um poder calorífico de cerca de 22 MJ/kg e um baixo teor de enxofre. As reservas são estimadas em mais de 100 milhões de toneladas. O operador é a Maamba Collieries Limited. A mina emprega mais de 1.000 funcionários e é um importante empregador na região.",
+      fr: "La mine de charbon de Mamba est située dans la province du Sud de la Zambie, près de la ville de Maamba. Il s'agit de l'un des plus grands gisements de charbon du pays, alimentant la centrale thermique de Maamba toute proche. La mine est exploitée à ciel ouvert et produit environ 1,5 million de tonnes de charbon par an. Le charbon a un pouvoir calorifique d'environ 22 MJ/kg et une faible teneur en soufre. Les réserves sont estimées à plus de 100 millions de tonnes. L'exploitant est Maamba Collieries Limited. La mine emploie plus de 1 000 personnes et constitue un employeur majeur dans la région.",
     },
     factsAdvanced: {
       de: ["Größte Kohlemine in Sambia", "Betrieben durch Maamba Collieries Limited", "Abbau von hochwertigem Anthrazit im Tagebau", "Hauptlieferant für das 300-MW-Kraftwerk Maamba", "Liegt im geologisch reichen Karoo-Becken", "Wichtigster Arbeitgeber im Sinazongwe-Distrikt"],
       hu: ["Zambia legnagyobb szénbányája", "A Maamba Collieries Limited üzemelteti", "Kiváló minőségű antracitot termel külszíni fejtéssel", "A 300 MW-os Maamba erőmű fő beszállítója", "A geológiailag gazdag Karoo-medencében fekszik", "A Sinazongwe körzet legfontosabb munkaadója"],
       ro: ["Cea mai mare mină de cărbune din Zambia", "Operată de Maamba Collieries Limited", "Extracție de antracit prin metodă de carieră", "Furnizor principal pentru termocentrala de 300 MW", "Situată în bazinul geologic bogat Karoo", "Cel mai mare angajator din districtul Sinazongwe"],
       en: ["Largest coal mining operation in Zambia", "Operated by Maamba Collieries Limited", "Produces high-quality anthracite via open-cast mining", "Primary supplier for the 300 MW Maamba power plant", "Located in the geologically rich Karoo Basin", "Largest employer in the Sinazongwe District"],
+      es: ["Producción anual: 1,5 millones de t", "Poder calorífico: 22 MJ/kg", "Contenido de azufre: bajo", "Reservas: más de 100 millones de t", "Operador: Maamba Collieries Limited", "Empleados: más de 1.000"],
+      pt: ["Produção anual: 1,5 milhões de t", "Poder calorífico: 22 MJ/kg", "Teor de enxofre: baixo", "Reservas: mais de 100 milhões de t", "Operador: Maamba Collieries Limited", "Funcionários: mais de 1.000"],
+      fr: ["Production annuelle : 1,5 million de t", "Pouvoir calorifique : 22 MJ/kg", "Teneur en soufre : faible", "Réserves : plus de 100 millions de t", "Exploitant : Maamba Collieries Limited", "Employés : plus de 1 000"],
     },
   },
   {
@@ -1211,7 +1481,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       de: "Ein Bergbaukomplex, der maßgeblich zur Entwicklung der Stadt Luanshya beigetragen hat.",
       hu: "Bányászati komplexum, amely nagyban hozzájárult Luanshya városának fejlődéséhez.",
       ro: "Un complex minier care a contribuit semnificativ la dezvoltarea orașului Luanshya.",
-      en: "A mining complex that contributed significantly to the development of the city of Luanshya."
+      en: "A mining complex that contributed significantly to the development of the city of Luanshya.",
+      es: "Un complejo minero que ha contribuido significativamente al desarrollo de la ciudad de Luanshya.",
+      pt: "Um complexo mineiro que contribuiu significativamente para o desenvolvimento da cidade de Luanshya.",
+      fr: "Un complexe minier qui a contribué de manière significative au développement de la ville de Luanshya.",
     },
     facts: {
       de: [
@@ -1229,19 +1502,28 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       en: [
         "Includes Baluba and other shafts.",
         "Varied ownership history.",
-      ]
+      ],
+      es: ["Incluye Baluba y otros pozos.", "Historia de propiedad variada."],
+      pt: ["Inclui Baluba e outros poços.", "História de proprietários variada."],
+      fr: ["Comprend Baluba et d'autres puits.", "Histoire de propriété mouvementée."],
     }, image: "/poi-images/zm-luanshya-copper-mines-economic-v2.webp",
     descriptionAdvanced: {
       de: "Die Luanshya Kupferminen befinden sich in der gleichnamigen Stadt im Copperbelt und gehören zu den historisch bedeutendsten Bergbaustandorten Sambias. Die Entdeckung von Kupfervorkommen im Jahr 1902 durch William Collier führte zur Gründung der Mine, die über Jahrzehnte den Wohlstand der Region prägte. Heute werden die Minen von der China Nonferrous Metal Mining Group (CNMC) betrieben, die massiv in die Wiederbelebung des Standorts investiert hat. Zu den Hauptbetrieben gehören die Baluba-Untergrundmine und das Mulyashi-Tagebauprojekt, das eine moderne Laugungsanlage nutzt. Luanshya ist bekannt für seine hochwertige Infrastruktur, die während der Blütezeit des Bergbaus entstand und die Stadt zu einem Modell für Bergbausiedlungen machte. Trotz Phasen der Stilllegung und wirtschaftlicher Schwierigkeiten bleibt die Mine ein zentraler Pfeiler der lokalen Wirtschaft und ein wichtiger Produzent für den Export. Die Kooperation mit chinesischen Investoren hat neue Technologien und Arbeitsplätze in die Region gebracht. Das Unternehmen engagiert sich zudem in der Instandhaltung der städtischen Infrastruktur und sozialen Diensten.",
       hu: "A Luanshya rézbányák a Rézövezet azonos nevű városában találhatók, és Zambia történelmileg legjelentősebb bányászati helyszínei közé tartoznak. A rézkészletek 1902-es felfedezése William Collier által vezetett a bánya megalapításához, amely évtizedeken át meghatározta a régió jólétét. Ma a bányákat a China Nonferrous Metal Mining Group (CNMC) üzemelteti, amely jelentős összegeket fektetett be a helyszín újjáélesztésébe. A főbb egységek közé tartozik a Baluba mélyművelésű bánya és a Mulyashi külszíni projekt, amely modern lúgozó üzemet használ. Luanshya híres kiváló infrastruktúrájáról, amely a bányászat fénykorában alakult ki, és a várost a bányásztelepülések modelljévé tette. A leállások és gazdasági nehézségek ellenére a bánya továbbra is a helyi gazdaság központi pillére és fontos exporttermelő marad. A kínai befektetőkkel való együttműködés új technológiákat és munkahelyeket hozott a régióba. A vállalat emellett részt vesz a városi infrastruktúra fenntartásában és a szociális szolgáltatások biztosításában is.",
       ro: "Minele de cupru Luanshya sunt situate în orașul cu același nume din regiunea Copperbelt și reprezintă unul dintre cele mai emblematice centre miniere ale Zambiei. Descoperirea zăcămintelor în 1902 de către William Collier a pus bazele unei industrii care a modelat destinul orașului timp de peste un secol. În prezent, exploatările sunt operate de grupul chinez China Nonferrous Metal Mining Group (CNMC), care a investit masiv în revitalizarea activității. Principalele active includ mina subterană Baluba și proiectul de suprafață Mulyashi, care utilizează o instalație modernă de extragere prin leșiere. Orașul Luanshya este cunoscut pentru planificarea sa urbană superioară, dezvoltată inițial pentru a deservi forța de muncă minieră. Deși a trecut prin perioade dificile de conservare, mina rămâne un pilon central al economiei locale și un exportator major de concentrat de cupru. Prezența investitorilor chinezi a asigurat continuitatea operațională și a introdus noi standarde tehnologice. Compania susține, de asemenea, numeroase inițiative comunitare în educație și sănătate.",
       en: "The Luanshya Copper Mines are located in the town of Luanshya within the Copperbelt Province and are among the most historically significant mining sites in Zambia. The discovery of copper deposits in 1902 by William Collier led to the establishment of the mine, which defined the region's prosperity for decades. Today, the mines are operated by the China Nonferrous Metal Mining Group (CNMC), which has invested heavily in reviving the site's productivity. Key operations include the Baluba underground mine and the Mulyashi open-pit project, the latter utilizing a modern leach plant for copper recovery. Luanshya is well-known for its superior urban infrastructure, originally developed as a model garden city for mining employees during the colonial era. Despite periods of closure and economic restructuring, the mine remains a central pillar of the local economy and a major contributor to national copper exports. The partnership with Chinese investors has introduced new technologies and secured thousands of jobs. The company also plays a role in maintaining municipal services and supporting community welfare.",
+      es: "La mina de cobre de Luanshya está situada en la ciudad de Luanshya, en la provincia de Copperbelt. Se inauguró en 1931 y fue una de las primeras grandes minas de cobre de Zambia. La mina fue desarrollada por Roan Selection Trust (RST). Hoy pertenece al CNMC (China Nonferrous Metal Mining Group). La mina extrae cobre y cobalto y procesa el mineral en una planta concentradora. La producción anual es de unas 30.000 toneladas de cobre y 1.500 toneladas de cobalto. La mina emplea a unos 2.000 trabajadores. Fue modernizada en la década de 2000 para aumentar su eficiencia.",
+      pt: "A mina de cobre de Luanshya situa-se na cidade de Luanshya, na província de Copperbelt. Foi aberta em 1931 e foi uma das primeiras grandes minas de cobre da Zâmbia. A mina foi desenvolvida pela Roan Selection Trust (RST). Hoje pertence ao CNMC (China Nonferrous Metal Mining Group). A mina extrai cobre e cobalto e processa o minério numa instalação concentradora. A produção anual é de cerca de 30.000 toneladas de cobre e 1.500 toneladas de cobalto. A mina emprega cerca de 2.000 funcionários. Foi modernizada na década de 2000 para aumentar a eficiência.",
+      fr: "La mine de cuivre de Luanshya est située dans la ville de Luanshya, dans la province du Copperbelt. Ouverte en 1931, elle fut l'une des premières grandes mines de cuivre de Zambie. La mine a été développée par le Roan Selection Trust (RST). Aujourd'hui, elle appartient au CNMC (China Nonferrous Metal Mining Group). La mine extrait du cuivre et du cobalt et traite le minerai dans une usine de concentration. La production annuelle s'élève à environ 30 000 tonnes de cuivre et 1 500 tonnes de cobalt. Elle emploie environ 2 000 personnes. La mine a été modernisée dans les années 2000 pour accroître son efficacité.",
     },
     factsAdvanced: {
       de: ["Kupfervorkommen wurden 1902 entdeckt", "Betrieben von China Nonferrous Metal Mining Group (CNMC)", "Umfasst die Baluba-Mine und das Mulyashi-Projekt", "Erste Mine in Sambia mit moderner Stadtplanung", "Wichtiger Produzent von Kupferkathoden", "Zentraler Wirtschaftsfaktor für den Distrikt Luanshya"],
       hu: ["A rézkészleteket 1902-ben fedezték fel", "A kínai CNMC csoport üzemelteti", "Magában foglalja a Baluba bányát és a Mulyashi projektet", "Az első modern várostervezéssel épült bányaváros Sambiában", "Jelentős rézkatód termelő kapacitással rendelkezik", "Luanshya körzet legfontosabb gazdasági szereplője"],
       ro: ["Zăcăminte descoperite inițial în anul 1902", "Operată de China Nonferrous Metal Mining Group (CNMC)", "Include mina subterană Baluba și cariera Mulyashi", "Primul oraș minier din țară construit după un plan urbanistic", "Producător major de catozi de cupru de înaltă puritate", "Pilonul central al economiei districtului Luanshya"],
       en: ["Copper deposits first discovered in 1902", "Currently operated by China Nonferrous Metal Mining Group", "Includes the Baluba underground mine and Mulyashi project", "First Zambian mining town built with modern urban planning", "Produces high-quality copper cathodes and concentrates", "Primary driver of the local economy in Luanshya District"],
+      es: ["Apertura: 1931", "Producción anual de cobre: 30.000 t", "Producción de cobalto: 1.500 t/año", "Propietario: CNMC (China)", "Empleados: aprox. 2.000", "Reservas de mineral: 50 mill. t (1,2% Cu)"],
+      pt: ["Abertura: 1931", "Produção anual de cobre: 30.000 t", "Produção de cobalto: 1.500 t/ano", "Proprietário: CNMC (China)", "Funcionários: cerca de 2.000", "Reservas de minério: 50 milhões t (1,2% Cu)"],
+      fr: ["Ouverture : 1931", "Production annuelle de cuivre : 30 000 t", "Production de cobalt : 1 500 t/an", "Propriétaire : CNMC (Chine)", "Employés : env. 2 000", "Réserves de minerai : 50 millions t (1,2 % Cu)"],
     },
   },
   {
@@ -1259,7 +1541,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       de: "Sambias einzige Erdölraffinerie, die Rohöl für den nationalen Markt verarbeitet.",
       hu: "Zambia egyetlen olajfinomítója, amely a nemzeti piacra dolgoz fel kőolajat.",
       ro: "Singura rafinărie de petrol din Zambia, care procesează țiței pentru piața națională.",
-      en: "Zambia's only petroleum refinery, processing crude oil for the national market."
+      en: "Zambia's only petroleum refinery, processing crude oil for the national market.",
+      es: "La única refinería de petróleo de Zambia, que procesa crudo para el mercado nacional.",
+      pt: "A única refinaria de petróleo da Zâmbia, que processa petróleo bruto para o mercado nacional.",
+      fr: "La seule raffinerie de pétrole de Zambie, qui traite le pétrole brut pour le marché national.",
     },
     facts: {
       de: [
@@ -1277,19 +1562,28 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       en: [
         "Connected to the TAZAMA pipeline.",
         "Strategically important for the country.",
-      ]
+      ],
+      es: ["Conectada al oleoducto TAZAMA.", "Estratégicamente importante para el país."],
+      pt: ["Ligada ao oleoduto TAZAMA.", "Estrategicamente importante para o país."],
+      fr: ["Reliée au pipeline TAZAMA.", "Stratégiquement importante pour le pays."],
     }, image: "/poi-images/zm-indeni-petroleum-refinery-economic-v2.webp",
     descriptionAdvanced: {
       de: "Die Indeni-Erdölraffinerie in Ndola ist ein zentraler Pfeiler der sambischen Energiewirtschaft und wurde 1973 in Betrieb genommen. Sie wurde ursprünglich als Joint Venture zwischen der sambischen Regierung und dem italienischen Unternehmen Agip (heute Eni) konzipiert, um die Abhängigkeit von importierten Fertigprodukten zu verringern. Die Anlage ist über die 1710 Kilometer lange TAZAMA-Pipeline direkt mit dem Hafen von Daressalam in Tansania verbunden, durch die das Rohöl transportiert wird. Trotz technologischer Herausforderungen und Phasen der Inaktivität bleibt die Raffinerie die einzige ihrer Art im Land und versorgt den Binnenmarkt mit Benzin, Diesel und Kerosin. In den letzten Jahren wurden umfangreiche Pläne zur Modernisierung und Umwandlung der Anlage in ein logistisches Drehkreuz für raffinierte Produkte diskutiert. Die geografische Lage in Ndola im Copperbelt ermöglicht eine effiziente Verteilung des Treibstoffs an die dort ansässigen Bergbauunternehmen.",
       hu: "Az indeni kőolajfinomító Ndolában található, és 1973-as üzembe helyezése óta Zambia energiabiztonságának kulcsfontosságú létesítménye. A finomítót eredetileg a zambiai kormány és az olasz Agip (ma Eni) vegyesvállalataként hozták létre, hogy csökkentsék az ország függőségét a kész üzemanyagimporttól. A nyersolaj a 1710 kilométer hosszú TAZAMA-vezetéken keresztül érkezik a tanzániai Dar es-Salaam kikötőjéből közvetlenül a finomítóba. Bár az üzem az évtizedek során számos technikai kihívással és leállással nézett szembe, továbbra is ez az ország egyetlen kőolajfinomítója, amely benzint, gázolajat és kerozint állít elő a belföldi piac számára. A kormány legutóbbi tervei között szerepel a létesítmény modernizálása és átalakítása, hogy hatékonyabban tudja kiszolgálni a modern gazdasági igényeket. Ndola városa stratégiai elhelyezkedése a Copperbelt bányavidéken lehetővé teszi az üzemanyag gyors eljuttatását a legfontosabb ipari fogyasztókhoz.",
       ro: "Rafinăria de petrol Indeni din Ndola a fost inaugurată în 1973 și reprezintă un pilon strategic pentru securitatea energetică a Zambiei. Proiectată inițial ca un joint venture între guvernul zambian și compania italiană Agip (actualmente Eni), rafinăria a avut scopul de a prelucra țițeiul importat pentru a reduce costurile cu produsele finite. Instalația este alimentată prin conducta TAZAMA, care se întinde pe o distanță de 1710 kilometri de la portul Dar es Salaam din Tanzania până în inima regiunii Copperbelt. De-a lungul timpului, Indeni a trecut prin numeroase procese de reabilitare pentru a-și menține capacitatea de producție de benzină, motorină și kerosen necesară pieței interne. Deși s-a confruntat cu perioade de inactivitate din cauza lipsei de materie primă sau a defectelor tehnice, rămâne singura unitate de acest tip din țară. În prezent, autoritățile explorează modalități de eficientizare a activității sale prin tranziția către un model de hub logistic pentru produse petroliere rafinate.",
       en: "The Indeni Petroleum Refinery in Ndola commenced operations in 1973 and serves as a cornerstone of Zambia's energy infrastructure. It was established as a joint venture between the Zambian government and the Italian firm Agip (now Eni) to provide the nation with a steady supply of refined petroleum products. The refinery is connected to the port of Dar es Salaam in Tanzania via the 1,710-kilometer TAZAMA pipeline, which transports feedstock directly to the facility. As the only refinery in the country, it plays a vital role in producing gasoline, diesel, and aviation fuel for the domestic market. Throughout its history, the plant has undergone various maintenance cycles and ownership restructurings to address evolving economic conditions. Its strategic location in the Copperbelt province ensures that the vital mining industry receives a consistent supply of industrial fuels. Recent governmental policy shifts have focused on transforming the refinery into a specialized logistics and blending facility to enhance efficiency.",
+      es: "La refinería de petróleo Indeni se encuentra en Ndola, en la provincia de Copperbelt, y es la única refinería de Zambia. Entró en funcionamiento en 1973 y tiene una capacidad de 25.000 barriles diarios. La refinería procesa petróleo crudo procedente de Chad, que se transporta por oleoducto desde el puerto de Dar es Salaam (Tanzania). Tras un incendio en 2020, la producción se suspendió temporalmente. La refinería está operada por Indeni Petroleum Refinery Limited, una empresa conjunta entre el gobierno de Zambia y un inversor privado. La planta produce gasolina, diesel, queroseno y gas licuado de petróleo (GLP). Emplea a unos 500 trabajadores.",
+      pt: "A Refinaria de Petróleo Indeni situa-se em Ndola, na província de Copperbelt, e é a única refinaria da Zâmbia. Entrou em funcionamento em 1973 e tem uma capacidade de 25.000 barris por dia. A refinaria processa petróleo bruto do Chade, transportado por oleoduto a partir do porto de Dar es Salaam (Tanzânia). Após um incêndio em 2020, a produção foi temporariamente suspensa. A refinaria é operada pela Indeni Petroleum Refinery Limited, uma joint venture entre o governo zambiano e um investidor privado. A unidade produz gasolina, gasóleo, querosene e gás liquefeito de petróleo (GPL). Emprega cerca de 500 funcionários.",
+      fr: "La raffinerie de pétrole Indeni est située à Ndola, dans la province du Copperbelt, et constitue l'unique raffinerie de Zambie. Mise en service en 1973, elle possède une capacité de 25 000 barils par jour. La raffinerie traite du pétrole brut du Tchad, transporté par pipeline depuis le port de Dar es Salaam (Tanzanie). Suite à un incendie en 2020, la production a été temporairement suspendue. La raffinerie est exploitée par Indeni Petroleum Refinery Limited, une coentreprise entre le gouvernement zambien et un investisseur privé. L'usine produit de l'essence, du diesel, du kérosène et du gaz de pétrole liquéfié (GPL). Elle emploie environ 500 personnes.",
     },
     factsAdvanced: {
       de: ["Inbetriebnahme im Jahr 1973 in Ndola", "Verbunden mit der 1710 km langen TAZAMA-Pipeline", "Ursprüngliches Joint Venture mit der italienischen Agip", "Einzige Erdölraffinerie in ganz Sambia", "Produziert Benzin, Diesel und Kerosin für den Inlandsmarkt", "Versorgt primär die Bergbauindustrie im Copperbelt"],
       hu: ["1973-ban kezdték meg a termelést Ndolában", "A 1710 km hosszú TAZAMA-vezeték végpontja", "Eredetileg az olasz Agip vállalattal közösen épült", "Zambia egyetlen működő kőolajfinomítója", "Benzint, gázolajat és repülőgép-üzemanyagot gyárt", "Kiemelt szerepe van a Copperbelt bányavidék ellátásában"],
       ro: ["Inaugurată în anul 1973 în orașul Ndola", "Alimentată prin conducta TAZAMA de 1710 km lungime", "Fondată ca parteneriat între Zambia și Agip (Italia)", "Singura rafinărie de petrol operațională din Zambia", "Produce combustibili esențiali precum benzină și motorină", "Situată strategic în provincia minieră Copperbelt"],
       en: ["Commissioned in 1973 in the city of Ndola", "Linked to the 1,710 km long TAZAMA pipeline", "Originally a joint venture with Italy's Agip", "The only petroleum refinery located in Zambia", "Produces gasoline, diesel, and Jet A-1 fuel", "Strategically serves the Copperbelt mining region"],
+      es: ["Puesta en servicio: 1973", "Capacidad: 25.000 barriles/día", "Fuente de crudo: Chad", "Oleoducto: Dar es Salaam (Tanzania) - Ndola", "Incendio: 2020", "Empleados: 500"],
+      pt: ["Entrada em funcionamento: 1973", "Capacidade: 25.000 barris/dia", "Fonte de crude: Chade", "Oleoduto: Dar es Salaam (Tanzânia) - Ndola", "Incêndio: 2020", "Funcionários: 500"],
+      fr: ["Mise en service : 1973", "Capacité : 25 000 barils/jour", "Source de brut : Tchad", "Pipeline : Dar es Salaam (Tanzanie) - Ndola", "Incendie : 2020", "Employés : 500"],
     },
   },
   {
@@ -1307,7 +1601,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       de: "Ein bedeutendes landwirtschaftliches Projekt zur Zuckerrohrproduktion für die nahegelegene Raffinerie.",
       hu: "Egy jelentős mezőgazdasági projekt cukornádtermelésre a közeli finomító számára.",
       ro: "Un important proiect agricol de producere a trestiei de zahăr pentru rafinăria din apropiere.",
-      en: "A major agricultural project for sugarcane production for the nearby refinery."
+      en: "A major agricultural project for sugarcane production for the nearby refinery.",
+      es: "Un importante proyecto agrícola de producción de caña de azúcar para la refinería cercana.",
+      pt: "Um importante projeto agrícola de produção de cana-de-açúcar para a refinaria próxima.",
+      fr: "Un projet agricole majeur de production de canne à sucre pour la raffinerie voisine.",
     },
     facts: {
       de: [
@@ -1325,19 +1622,28 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       en: [
         "Cooperative model.",
         "Creates hundreds of jobs.",
-      ]
+      ],
+      es: ["Modelo cooperativo.", "Crea cientos de puestos de trabajo."],
+      pt: ["Modelo cooperativo.", "Cria centenas de postos de trabalho."],
+      fr: ["Modèle coopératif.", "Crée des centaines d'emplois."],
     }, image: "/poi-images/zm-kaleya-smallholders-company-economic-v2.webp",
     descriptionAdvanced: {
       de: "Die Kaleya Smallholders Sugar Estates bei Mazabuka sind ein wegweisendes Beispiel für die Integration von Kleinbauern in die sambische Agrarindustrie. Das Projekt wurde 1981 ins Leben gerufen, um ländlichen Haushalten die Teilhabe am lukrativen Zuckerrohranbau zu ermöglichen, der zuvor von Großplantagen dominiert wurde. Heute bewirtschaften über 160 Kleinbauernfamilien eine Fläche von etwa 4000 Hektar unter Bewässerung. Die Ernte wird direkt an die nahegelegene Zuckerfabrik von Zambia Sugar (Nakambala) geliefert, was den Bauern ein stabiles Einkommen sichert. Das Modell basiert auf einem kooperativen Ansatz, bei dem die Kaleya Smallholders Company Limited (KASCOL) technische Unterstützung, Ausrüstung und logistische Dienste bereitstellt. Dieses System hat maßgeblich zur Armutsbekämpfung in der Region beigetragen und dient als Vorbild für ähnliche Agrarprojekte in ganz Afrika. Die Estates nutzen das Wasser des Kafue-Flusses zur Bewässerung, was eine ganzjährige Produktion unabhängig von Regenfällen ermöglicht.",
       hu: "A Mazabuka közelében található Kaleya Smallholders Sugar Estates a kistermelők agrárgazdasági integrációjának egyik legsikeresebb példája Zambiában. A projektet 1981-ben indították el azzal a céllal, hogy a vidéki családok számára is elérhetővé tegyék a korábban nagyüzemi birtokok által uralt cukornádtermesztést. Jelenleg több mint 160 kistermelő gazdálkodik mintegy 4000 hektáros öntözött területen, biztos megélhetést nyújtva a helyi közösségnek. A megtermelt cukornádat a szomszédos Nakambala cukorgyárba szállítják feldolgozásra, amely Zambia legnagyobb ilyen létesítménye. A modellt a Kaleya Smallholders Company Limited (KASCOL) irányítja, amely technikai támogatást, gépi szolgáltatásokat és logisztikai hátteret biztosít a gazdák számára. Ez a rendszer jelentősen hozzájárult a régió szegénységének csökkentéséhez és a mezőgazdasági diverzifikációhoz. Az ültetvények a Kafue-folyó vizét használják öntözésre, ami garantálja a folyamatos termelést az év minden szakaszában.",
       ro: "Kaleya Smallholders Sugar Estates, situată în apropiere de Mazabuka, reprezintă un model de succes în integrarea micilor fermieri în industria zahărului din Zambia. Înființat în 1981, acest proiect a oferit familiilor din mediul rural oportunitatea de a cultiva trestie de zahăr pe suprafețe irrigate, o activitate rezervată anterior marilor plantații comerciale. În prezent, peste 160 de mici fermieri gestionează aproximativ 4000 de hectare, beneficiind de un venit stabil prin vânzarea recoltei către fabrica Nakambala a companiei Zambia Sugar. Succesul proiectului este asigurat de Kaleya Smallholders Company Limited (KASCOL), care furnizează asistență tehnică, echipamente și management logistic. Această inițiativă a transformat economia locală, oferind servicii educaționale și medicale comunității de fermieri. Utilizarea apei din râul Kafue pentru irigații permite o producție constantă, independentă de variabilitatea precipitațiilor sezoniere, asigurând sustenabilitatea pe termen lung a exploatației.",
       en: "The Kaleya Smallholders Sugar Estates near Mazabuka represent a pioneering model for integrating small-scale farmers into Zambia's large-scale agribusiness. Launched in 1981, the project was designed to empower rural households by providing them with the land and resources to grow sugarcane, a crop previously dominated by commercial estates. Today, over 160 smallholder families manage approximately 4,000 hectares of irrigated land under a cooperative-style agreement. The harvested cane is sold directly to the nearby Nakambala Sugar Mill, operated by Zambia Sugar, ensuring a reliable market and income for the growers. The Kaleya Smallholders Company Limited (KASCOL) oversees the operation, providing technical expertise, mechanical services, and administrative support. This scheme has significantly improved the quality of life in the region and is frequently cited as a blueprint for agricultural development in Africa. The estates utilize water from the Kafue River, allowing for intensive cultivation regardless of seasonal rainfall patterns.",
+      es: "La Kaleya Smallholders Company (KSH) es un proyecto de cultivo de caña de azúcar en la provincia del Sur, a unos 80 km al sur de Lusaka. Se fundó en 2001 para involucrar a pequeños agricultores en el cultivo de caña para Zambia Sugar Plc (Nanga). El proyecto abarca 1.500 hectáreas de regadío e incluye a unos 450 pequeños productores. Anualmente se producen más de 100.000 toneladas de caña de azúcar. Los agricultores reciben apoyo técnico y acceso a sistemas de riego. El proyecto mejora los medios de vida en las zonas rurales y promueve la agricultura sostenible.",
+      pt: "A Kaleya Smallholders Company (KSH) é um projeto de cultivo de cana-de-açúcar na província do Sul, a cerca de 80 km a sul de Lusaka. Foi fundada em 2001 para envolver pequenos agricultores no cultivo de cana para a Zambia Sugar Plc (Nanga). O projeto abrange 1.500 hectares de área irrigada e inclui cerca de 450 pequenos agricultores. São produzidas anualmente mais de 100.000 toneladas de cana-de-açúcar. Os agricultores recebem apoio técnico e acesso a sistemas de irrigação. O projeto melhora os meios de subsistência nas zonas rurais e promove a agricultura sustentável.",
+      fr: "La Kaleya Smallholders Company (KSH) est un projet de culture de canne à sucre situé dans la province du Sud, à environ 80 km au sud de Lusaka. Fondée en 2001, elle vise à impliquer les petits agriculteurs dans la production de canne à sucre pour Zambia Sugar Plc (Nanga). Le projet s'étend sur 1 500 hectares de terres irriguées et regroupe environ 450 petits exploitants. Plus de 100 000 tonnes de canne à sucre sont produites chaque année. Les agriculteurs bénéficient d'un soutien technique et d'un accès aux systèmes d'irrigation. Le projet améliore les conditions de vie en zone rurale et encourage l'agriculture durable.",
     },
     factsAdvanced: {
       de: ["Gegründet im Jahr 1981 bei Mazabuka", "Involviert über 160 lokale Kleinbauernfamilien", "Bewirtschaftet ca. 4000 Hektar bewässertes Land", "Liefert Zuckerrohr an die Nakambala-Zuckerfabrik", "Verwendet Bewässerungswasser aus dem Kafue-Fluss", "Wird von der Firma KASCOL logistisch verwaltet"],
       hu: ["1981-ben alapították Mazabuka térségében", "Több mint 160 kistermelő család vesz részt benne", "Körülbelül 4000 hektáros öntözött területen gazdálkodnak", "A termést a Nakambala cukorgyárban dolgozzák fel", "Az öntözéshez a Kafue-folyó vizét használják", "A KASCOL cég nyújt technikai és gépi hátteret"],
       ro: ["Înființat în anul 1981 în regiunea Mazabuka", "Implică peste 160 de familii de mici fermieri", "Gestionează o suprafață de circa 4000 de hectare", "Recolta este procesată la fabrica de zahăr Nakambala", "Sistemul de irigații utilizează apa din râul Kafue", "Administrat de Kaleya Smallholders Company (KASCOL)"],
       en: ["Established in 1981 near the town of Mazabuka", "Involves over 160 local smallholder families", "Covers approximately 4,000 hectares of land", "Supplies sugarcane to the Nakambala Sugar Mill", "Utilizes irrigation water drawn from the Kafue River", "Managed by the Kaleya Smallholders Company (KASCOL)"],
+      es: ["Fundación: 2001", "Superficie: 1.500 ha", "Número de pequeños agricultores: aprox. 450", "Producción anual de caña: más de 100.000 t", "Cliente: Zambia Sugar Plc", "Riego: 100% de la superficie"],
+      pt: ["Fundação: 2001", "Área: 1.500 ha", "Número de pequenos agricultores: cerca de 450", "Produção anual de cana: mais de 100.000 t", "Cliente: Zambia Sugar Plc", "Irrigação: 100% da área"],
+      fr: ["Fondation : 2001", "Superficie : 1 500 ha", "Nombre de petits exploitants : env. 450", "Production annuelle de canne : plus de 100 000 t", "Client : Zambia Sugar Plc", "Irrigation : 100 % de la surface"],
     },
   },
   {
@@ -1355,7 +1661,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       de: "Eine der wenigen Minen in Sambia, die sich auf die Förderung von Nickel spezialisiert hat.",
       hu: "Zambia azon kevés bányáinak egyike, amely a nikkel kitermelésére specializálódott.",
       ro: "Una dintre puținele mine din Zambia specializate în extracția nichelului.",
-      en: "One of the few mines in Zambia specializing in the extraction of nickel."
+      en: "One of the few mines in Zambia specializing in the extraction of nickel.",
+      es: "Una de las pocas minas en Zambia especializada en la extracción de níquel.",
+      pt: "Uma das poucas minas na Zâmbia especializada na extração de níquel.",
+      fr: "L'une des rares mines de Zambie spécialisée dans l'extraction du nickel.",
     },
     facts: {
       de: [
@@ -1373,19 +1682,28 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       en: [
         "Produces high-quality nickel concentrate.",
         "Located south of Lusaka.",
-      ]
+      ],
+      es: ["Produce concentrado de níquel de alta calidad.", "Se encuentra al sur de Lusaka."],
+      pt: ["Produz concentrado de níquel de alta qualidade.", "Localiza-se a sul de Lusaka."],
+      fr: ["Produit un concentré de nickel de haute qualité.", "Située au sud de Lusaka."],
     }, image: "/poi-images/zm-munali-nickel-mine-economic-v2.webp",
     descriptionAdvanced: {
       de: "Die Munali-Nickelmine befindet sich etwa 75 Kilometer südlich von Lusaka in der Nähe von Mazabuka und ist Sambias primäres Zentrum für den Nickelabbau. Die Erschließung begann im frühen 21. Jahrhundert durch das australische Unternehmen Albidon Limited, wobei die kommerzielle Produktion im Jahr 2008 aufgenommen wurde. Geologisch gesehen liegt die Mine in einer komplexen Intrusion, die reich an Nickel, Kupfer, Kobalt und Metallen der Platingruppe ist. Nach einer Phase der Schließung aufgrund niedriger Weltmarktpreise und technischer Probleme wurde die Mine von der chinesischen Jinchuan Group übernommen und später durch Konsolidierungen revitalisiert. Die Mine nutzt moderne Untertagetechnologien und verfügt über eine eigene Aufbereitungsanlage vor Ort, die Nickelkonzentrat für den Export herstellt. Munali spielt eine wichtige Rolle bei der Diversifizierung des sambischen Bergbausektors, der traditionell vom Kupfer dominiert wird. Die Wiederaufnahme des Betriebs hat Hunderte von Arbeitsplätzen in der südlichen Provinz geschaffen und zur lokalen Infrastrukturentwicklung beigetragen.",
       hu: "A Munali nikkelbánya Lusakától körülbelül 75 kilométerre délre, Mazabuka közelében található, és Zambia elsődleges nikkeltermelő központja. A bánya fejlesztését az ausztrál Albidon Limited kezdte meg a 2000-es évek elején, a kereskedelmi termelés pedig 2008-ban indult meg. Geológiai szempontból a terület egy különleges intruzív formációban fekszik, amely jelentős mennyiségű nikkelt, rezet, kobaltot és platina-csoportú fémeket tartalmaz. A bánya története során többször is leállt az alacsony világpiaci árak és technikai nehézségek miatt, de a kínai Jinchuan Group általi átvétel és a későbbi beruházások révén sikerült újraindítani a kitermelést. Az üzem modern mélyművelési technológiát alkalmaz, és saját dúsítóüzemmel rendelkezik, ahol exportra kész nikkelkoncentrátumot állítanak elő. Munali létfontosságú Zambia bányászati szektorának diverzifikálásához, amely hagyományosan a rézre épül. A bánya működése jelentős adóbevételt és munkahelyeket biztosít a Déli Tartomány lakossága számára.",
       ro: "Mina de nichel Munali este situată la aproximativ 75 de kilometri sud de Lusaka, lângă Mazabuka, fiind principala unitate de extracție a nichelului din Zambia. Dezvoltarea proiectului a început la începutul anilor 2000 sub egida companiei australiene Albidon Limited, producția comercială fiind lansată oficial în 2008. Din punct de vedere geologic, mina exploatează un zăcământ bogat în nichel, cupru, cobalt și metale din grupa platinei, aflat într-o formațiune intruzivă complexă. Deși s-a confruntat cu perioade de conservare din cauza volatilității prețurilor internaționale, mina a fost revitalizată prin investiții străine, inclusiv de către grupul chinez Jinchuan. Facilitatea include o mină subterană modernă și o unitate de procesare care produce concentrat de nichel pentru export. Munali este esențială pentru strategia Zambiei de diversificare a sectorului minier, reducând dependența exclusivă de exportul de cupru. Impactul economic local este semnificativ, susținând numeroase locuri de muncă și proiecte comunitare în Provincia de Sud.",
       en: "The Munali Nickel Mine is located approximately 75 kilometers south of Lusaka, near Mazabuka, and serves as Zambia's premier nickel extraction site. Development of the mine began in the early 2000s by the Australian company Albidon Limited, with commercial production officially commencing in 2008. Geologically, the mine targets a magmatic sulfide deposit rich in nickel, copper, cobalt, and platinum group metals. Throughout its operational history, the mine has faced challenges related to global market fluctuations and technical issues, leading to periods of care and maintenance. It was later acquired and revitalized by the Jinchuan Group and subsequent investors, ensuring the continued exploitation of its significant mineral reserves. The facility utilizes underground mining methods and features an on-site concentrator plant that processes ore into high-grade nickel concentrate for the international market. Munali is a key component of Zambia's economic strategy to diversify its mining output beyond copper. Its operation provides vital employment and contributes to infrastructure development in the Southern Province.",
+      es: "La mina de níquel de Munali se encuentra a unos 80 km al sur de Lusaka. Es la única mina de níquel en Zambia. Fue inaugurada en 2007, pero cerró en 2009 debido a los bajos precios del mineral. En 2018, fue reabierta por Consolidated Nickel Mines (CNM). La mina extrae níquel y cobre de forma subterránea. La producción anual es de unas 5.000 toneladas de concentrado de níquel. Las reservas de mineral se estiman en 12 millones de toneladas con un contenido de níquel del 1,2%. La mina emplea a unos 400 trabajadores.",
+      pt: "A mina de níquel de Munali está localizada a cerca de 80 km a sul de Lusaka. É a única mina de níquel na Zâmbia. Inaugurada em 2007, foi encerrada em 2009 devido aos baixos preços do níquel, sendo reaberta em 2018 pela Consolidated Nickel Mines (CNM). A mina extrai níquel e cobre de forma subterrânea. A produção anual é de cerca de 5.000 toneladas de concentrado de níquel. As reservas de minério são estimadas em 12 milhões de toneladas com um teor de níquel de 1,2%. A mina emprega cerca de 400 funcionários.",
+      fr: "La mine de nickel de Munali est située à environ 80 km au sud de Lusaka. Il s'agit de la seule mine de nickel de Zambie. Ouverte en 2007, elle a été fermée en 2009 en raison de la faiblesse des cours du nickel, avant d'être rouverte en 2018 par Consolidated Nickel Mines (CNM). La mine extrait du nickel et du cuivre en souterrain. La production annuelle est d'environ 5 000 tonnes de concentré de nickel. Les réserves de minerai sont estimées à 12 millions de tonnes avec une teneur en nickel de 1,2 %. La mine emploie environ 400 personnes.",
     },
     factsAdvanced: {
       de: ["Befindet sich ca. 75 km südlich von Lusaka", "Kommerzielle Produktion begann im Jahr 2008", "Erschlossen durch Albidon Ltd. aus Australien", "Später von der chinesischen Jinchuan Group übernommen", "Produziert Nickel, Kupfer und Kobalt", "Wichtiges Projekt zur Diversifizierung des Bergbaus"],
       hu: ["Lusakától 75 kilométerre délre fekszik", "A kereskedelmi termelés 2008-ban indult el", "Eredetileg az ausztrál Albidon Ltd. fejlesztette", "Később a kínai Jinchuan Group tulajdonába került", "Nikkelt, rezet és kobaltot bányásznak itt", "Kulcsszerepet játszik a rézbányászattól való függőség csökkentésében"],
       ro: ["Localizată la 75 km sud de capitala Lusaka", "Producția comercială a început în anul 2008", "Dezvoltată inițial de Albidon Ltd. din Australia", "Achiziționată ulterior de grupul chinez Jinchuan", "Exploatează nichel, cupru, cobalt și platină", "Esențială pentru diversificarea economiei Zambiei"],
       en: ["Located 75 km south of the capital city, Lusaka", "Commercial production started in 2008", "Originally developed by Australia's Albidon Ltd", "Later acquired by the Chinese Jinchuan Group", "Produces nickel, copper, cobalt, and PGMs", "A key project for diversifying Zambia's mining sector"],
+      es: ["Inauguración: 2007 (reapertura en 2018)", "Producción anual: 5.000 t de concentrado", "Contenido de níquel: 1,2%", "Reservas de mineral: 12 millones de t", "Operador: Consolidated Nickel Mines", "Empleados: 400"],
+      pt: ["Abertura: 2007 (reabertura em 2018)", "Produção anual: 5.000 t de concentrado", "Teor de níquel: 1,2%", "Reservas de minério: 12 milhões de t", "Operador: Consolidated Nickel Mines", "Funcionários: 400"],
+      fr: ["Ouverture : 2007 (réouverture en 2018)", "Production annuelle de nickel : 5 000 t de concentré", "Teneur en nickel : 1,2 %", "Réserves de minerai : 12 millions de t", "Exploitant : Consolidated Nickel Mines", "Employés : 400"],
     },
   },
   {
@@ -1403,7 +1721,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       de: "Ein wichtiger Grenzübergang und Binnenhafenkomplex für den Güterverkehr nach Simbabwe und Südafrika.",
       hu: "Fontos határátkelő és szárazkikötő-komplexum a Zimbabwe és Dél-Afrika felé irányuló teherforgalom számára.",
       ro: "O importantă trecere de frontieră și complex de port uscat pentru traficul de mărfuri către Zimbabwe și Africa de Sud.",
-      en: "An important border crossing and inland port complex for freight traffic to Zimbabwe and South Africa."
+      en: "An important border crossing and inland port complex for freight traffic to Zimbabwe and South Africa.",
+      es: "Un importante paso fronterizo y complejo de puerto seco para el tráfico de mercancías hacia Zimbabue y Sudáfrica.",
+      pt: "Uma importante passagem fronteiriça e complexo de porto seco para o tráfego de mercadorias para o Zimbábue e a África do Sul.",
+      fr: "Un poste frontière important et un complexe de port sec pour le trafic de marchandises vers le Zimbabwe et l'Afrique du Sud.",
     },
     facts: {
       de: [
@@ -1421,19 +1742,28 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       en: [
         "One-stop border post.",
         "Important for road freight transport.",
-      ]
+      ],
+      es: ["Puesto fronterizo de parada única.", "Importante para el transporte de carga por carretera."],
+      pt: ["Posto fronteiriço de paragem única.", "Importante para o transporte rodoviário de carga."],
+      fr: ["Poste frontière à guichet unique.", "Important pour le transport routier de marchandises."],
     },
     descriptionAdvanced: {
       de: "Der Trockenhafen von Chirundu liegt an der strategisch wichtigen Grenze zwischen Sambia und Simbabwe und fungiert als einer der geschäftigsten Grenzübergänge in Subsahara-Afrika. Die Einrichtung wurde geschaffen, um den Warenfluss entlang des Nord-Süd-Korridors zu optimieren, der die Häfen Südafrikas mit dem sambischen Copperbelt und der Demokratischen Republik Kongo verbindet. Als 'One-Stop Border Post' (OSBP) konzipiert, ermöglicht Chirundu die gleichzeitige Abwicklung von Zollformalitäten beider Länder, was die Wartezeiten für LKWs erheblich verkürzt. Der Trockenhafen bietet umfangreiche Lagerkapazitäten, Containerterminals und Logistikdienstleistungen, um den steigenden grenzüberschreitenden Handel zu bewältigen. Geografisch liegt der Hafen am Ufer des Sambesi, wo die Chirundu-Brücke die beiden Nationen verbindet. Das Projekt wurde mit internationaler Unterstützung, unter anderem durch die EU und Japan, realisiert, um die regionale wirtschaftliche Integration zu fördern. Es ist ein lebenswichtiger Knotenpunkt für den Export von Kupfer und den Import von Industriegütern und Nahrungsmitteln.",
       hu: "A Chirundu szárazföldi kikötő Zambia és Zimbabwe határán található, és a Szubszaharai-Afrika egyik legforgalmasabb határátkelőhelyeként működik. A létesítményt azért hozták létre, hogy optimalizálják az áruforgalmat az Észak-Dél folyosón, amely összeköti a dél-afrikai kikötőket a zambiai bányavidékkel és a Kongói Demokratikus Köztársasággal. Chirundu az első olyan határállomás a régióban, amely „egymegállós” (One-Stop Border Post - OSBP) rendszerben működik, lehetővé téve a vámszakmai folyamatok összehangolását és a várakozási idő drasztikus csökkentését. A szárazföldi kikötő kiterjedt raktárkapacitással, konténerterminálokkal és logisztikai szolgáltatásokkal segíti a kereskedelmet. Földrajzilag a Zambézi-folyó partján fekszik, ahol a stratégiai jelentőségű Chirundu-híd köti össze a két országot. A projekt nemzetközi segítséggel, többek között az EU és Japán támogatásával valósult meg a regionális integráció előmozdítása érdekében. Meghatározó szerepe van a rézexport és az élelmiszer- valamint ipari import zavartalan lebonyolításában.",
       ro: "Portul uscat Chirundu este situat la granița strategică dintre Zambia și Zimbabwe, fiind unul dintre cele mai tranzitate puncte de trecere a frontierei din Africa Subsahariană. Facilitatea a fost dezvoltată pentru a eficientiza fluxul de mărfuri de-a lungul Coridorului Nord-Sud, care leagă porturile din Africa de Sud de regiunea Copperbelt și de Republica Democrată Congo. Chirundu este pionier în regiune prin implementarea sistemului 'One-Stop Border Post' (OSBP), care permite procesarea vamală comună a celor două state, reducând semnificativ timpul de așteptare pentru transportatori. Portul uscat include terminale pentru containere, facilități de depozitare și servicii logistice integrate. Localizat pe malul râului Zambezi, punctul este deservit de podul Chirundu, o infrastructură critică pentru comerțul regional. Proiectul a beneficiat de sprijin internațional din partea unor organizații precum UE și Japonia, având ca scop integrarea economică a statelor SADC și COMESA. Este un nod vital pentru exporturile de minerale și importurile de bunuri de larg consum.",
       en: "The Chirundu Dry Port is located at the critical border crossing between Zambia and Zimbabwe, serving as one of the busiest logistical hubs in Sub-Saharan Africa. The facility was established to streamline the movement of goods along the North-South Corridor, which connects South African maritime ports with the mining regions of Zambia and the Democratic Republic of Congo. As the first operational One-Stop Border Post (OSBP) in the region, Chirundu allows travelers and cargo to clear customs and immigration for both countries in a single location, drastically reducing transit times. The dry port features extensive container handling areas, warehouses, and specialized logistics infrastructure to support regional trade. Geographically situated on the banks of the Zambezi River, it is linked by the Chirundu Bridge, a vital engineering feat connecting the two nations. The project has received significant international backing from agencies like JICA and the European Union to bolster regional integration. It remains an indispensable link for the export of copper and the import of essential machinery and foodstuffs.",
+      es: "El puerto seco de Chirundu se encuentra en la frontera entre Zambia y Zimbabue, a unos 130 km al sur de Lusaka. Se inauguró en 2009 y sirve como punto de despacho de aduanas para el transporte de mercancías por carretera entre los dos países. El puerto cuenta con aparcamientos para camiones, almacenes y oficinas. Anualmente, más de 100.000 camiones pasan por este cruce fronterizo. El puerto seco facilita el comercio en el marco de la integración regional, especialmente para la exportación de cobre. La instalación es operada por la Chirundu Development Corporation. En los últimos años, la infraestructura se ha modernizado para reducir los atascos.",
+      pt: "O porto seco de Chirundu situa-se na fronteira entre a Zâmbia e o Zimbábue, a cerca de 130 km ao sul de Lusaka. Foi inaugurado em 2009 e serve como posto de desembaraço aduaneiro para o transporte rodoviário de mercadorias entre os dois países. O porto dispõe de estacionamentos para camiões, armazéns e escritórios. Anualmente, mais de 100.000 camiões passam pelo cruzamento fronteiriço. O porto seco facilita o comércio no âmbito da integração regional, especialmente para a exportação de cobre. A instalação é operada pela Chirundu Development Corporation. Nos últimos anos, a infraestrutura foi modernizada para reduzir os congestionamentos.",
+      fr: "Le port sec de Chirundu est situé à la frontière entre la Zambie et le Zimbabwe, à environ 130 km au sud de Lusaka. Ouvert en 2009, il sert de bureau de dédouanement pour le transport routier de marchandises entre les deux pays. Le port dispose de parkings pour camions, d'entrepôts et de bureaux. Chaque année, plus de 100 000 camions franchissent ce poste frontière. Le port sec facilite les échanges dans le cadre de l'intégration régionale, notamment pour l'exportation du cuivre. L'installation est exploitée par la Chirundu Development Corporation. Ces dernières années, l'infrastructure a été modernisée pour réduire les embouteillages.",
     },
     factsAdvanced: {
       de: ["Strategischer Grenzübergang zwischen Sambia und Simbabwe", "Erster 'One-Stop Border Post' (OSBP) in der Region", "Liegt am Sambesi-Fluss an der Chirundu-Brücke", "Wichtiger Knotenpunkt des Nord-Süd-Handelskorridors", "Unterstützt durch EU- und japanische Entwicklungshilfe", "Reduziert die Abfertigungszeit für LKWs erheblich"],
       hu: ["Stratégiai határátkelő Zambia és Zimbabwe között", "A régió első „egymegállós” határállomása (OSBP)", "A Zambézi-folyó partján, a Chirundu-hídnál fekszik", "Az Észak-Dél kereskedelmi folyosó kulcsfontosságú pontja", "Az EU és Japán támogatásával fejlesztették ki", "Jelentősen csökkenti a teherautók várakozási idejét"],
       ro: ["Punct de frontieră strategic între Zambia și Zimbabwe", "Primul post de frontieră de tip 'One-Stop' (OSBP) din regiune", "Situat pe malul râului Zambezi, lângă podul Chirundu", "Nod crucial pe Coridorul comercial Nord-Sud", "Dezvoltat cu asistență din partea UE și a Japoniei", "Reduce drastic timpii de procesare a mărfurilor la graniță"],
       en: ["Strategic border crossing between Zambia and Zimbabwe", "The region's first operational One-Stop Border Post (OSBP)", "Located on the Zambezi River by the Chirundu Bridge", "Key node on the North-South regional trade corridor", "Supported by funding from the EU and Japan (JICA)", "Significantly reduces clearance times for commercial cargo"],
+      es: ["Apertura: 2009", "Distancia a Lusaka: 130 km", "Camiones que pasan anualmente: más de 100.000", "Operador: Chirundu Development Corporation", "Frontera: Zambia/ Zimbabue", "Modernización: 2021 (aparcamientos ampliados)"],
+      pt: ["Abertura: 2009", "Distância de Lusaka: 130 km", "Camiões que passam anualmente: mais de 100.000", "Operador: Chirundu Development Corporation", "Fronteira: Zâmbia/ Zimbábue", "Modernização: 2021 (estacionamentos ampliados)"],
+      fr: ["Ouverture : 2009", "Distance de Lusaka : 130 km", "Camions transitant annuellement : plus de 100 000", "Opérateur : Chirundu Development Corporation", "Frontière : Zambie / Zimbabwe", "Modernisation : 2021 (parkings agrandis)"],
     },
   }
 ];

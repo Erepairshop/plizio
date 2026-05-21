@@ -3,6 +3,7 @@ export const grenadaEconomicV2: POI[] = [
 
   {
     id: "grenada-st-georges-port-economic-v2",
+    parent: "GD",
     type: "port",
     name: { de: "Hafen von St. George's", hu: "St. George's kikötője", ro: "Portul St. George's", en: "Port of St. George's" },
     coords: [-61.753, 12.048],
@@ -47,6 +48,7 @@ export const grenadaEconomicV2: POI[] = [
   },
   {
     id: "grenada-gouyave-nutmeg-station-economic-v2",
+    parent: "GD",
     type: "factory",
     name: { de: "Muskatnuss-Station Gouyave", hu: "Gouyave-i szerecsendió-állomás", ro: "Stația de nucșoară din Gouyave", en: "Gouyave Nutmeg Processing Station" },
     coords: [-61.73, 12.164],
@@ -90,6 +92,7 @@ export const grenadaEconomicV2: POI[] = [
   },
   {
     id: "grenada-maurice-bishop-airport-economic-v2",
+    parent: "GD",
     type: "landmark",
     name: { de: "Maurice Bishop Flughafen", hu: "Maurice Bishop repülőtér", ro: "Aeroportul Maurice Bishop", en: "Maurice Bishop International Airport" },
     coords: [-61.786, 12.004],
@@ -133,6 +136,7 @@ export const grenadaEconomicV2: POI[] = [
   },
   {
     id: "grenada-river-antoine-distillery-economic-v2",
+    parent: "GD",
     type: "factory",
     name: { de: "River Antoine Destillerie", hu: "River Antoine lepárló", ro: "Distileria River Antoine", en: "River Antoine Rum Distillery" },
     coords: [-61.614, 12.176],
@@ -177,6 +181,7 @@ export const grenadaEconomicV2: POI[] = [
   },
   {
     id: "grenada-grenville-port-economic-v2",
+    parent: "GD",
     type: "port",
     name: { de: "Hafen von Grenville", hu: "Grenville-i kikötő", ro: "Portul Grenville", en: "Grenville Port" },
     coords: [-61.621, 12.122],
@@ -221,6 +226,7 @@ export const grenadaEconomicV2: POI[] = [
   },
   {
     id: "grenada-belmont-estate-economic-v2",
+    parent: "GD",
     type: "industry",
     name: { de: "Belmont Anwesen", hu: "Belmont birtok", ro: "Domeniul Belmont", en: "Belmont Estate" },
     coords: [-61.666, 12.161],
@@ -264,6 +270,7 @@ export const grenadaEconomicV2: POI[] = [
   },
   {
     id: "grenada-westerhall-estate-economic-v2",
+    parent: "GD",
     type: "factory",
     name: { de: "Westerhall Anwesen", hu: "Westerhall birtok", ro: "Domeniul Westerhall", en: "Westerhall Estate" },
     coords: [-61.705, 12.028],
@@ -307,6 +314,7 @@ export const grenadaEconomicV2: POI[] = [
   },
   {
     id: "grenada-grand-anse-business-district-economic-v2",
+    parent: "GD",
     type: "city",
     name: { de: "Geschäftsviertel Grand Anse", hu: "Grand Anse üzleti negyed", ro: "Districtul comercial Grand Anse", en: "Grand Anse Commercial District" },
     coords: [-61.771, 12.023],
@@ -350,6 +358,7 @@ export const grenadaEconomicV2: POI[] = [
   },
   {
     id: "grenada-hillsborough-port-economic-v2",
+    parent: "GD",
     type: "port",
     name: { de: "Hafen von Hillsborough", hu: "Hillsborough-i kikötő", ro: "Portul Hillsborough", en: "Hillsborough Port" },
     coords: [-61.458, 12.483],
@@ -394,6 +403,7 @@ export const grenadaEconomicV2: POI[] = [
   },
   {
     id: "grenada-woodlands-sugar-factory-economic-v2",
+    parent: "GD",
     type: "factory",
     name: { de: "Zuckerfabrik Woodlands", hu: "Woodlands cukorgyár", ro: "Fabrica de zahăr Woodlands", en: "Grenada Sugar Factory" },
     coords: [-61.745, 12.019],

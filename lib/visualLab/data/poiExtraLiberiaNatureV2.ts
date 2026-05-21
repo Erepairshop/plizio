@@ -3,6 +3,7 @@ export const liberiaNatureV2: POI[] = [
 
   {
     id: "liberia-mount-wologizi-nature-v2",
+    parent: "LR",
     type: "mountain",
     name: { de: "Mount Wologizi", hu: "Wologizi-hegység", ro: "Munții Wologizi", en: "Mount Wologizi" },
     coords: [-9.75, 8.1667],
@@ -35,6 +36,7 @@ export const liberiaNatureV2: POI[] = [
   },
   {
     id: "liberia-st-paul-river-nature-v2",
+    parent: "LR",
     type: "river",
     name: { de: "Saint Paul River", hu: "Saint Paul folyó", ro: "Râul Saint Paul", en: "Saint Paul River" },
     coords: [-10.7833, 6.3167],
@@ -67,6 +69,7 @@ export const liberiaNatureV2: POI[] = [
   },
   {
     id: "liberia-cavalla-river-nature-v2",
+    parent: "LR",
     type: "river",
     name: { de: "Cavalla River", hu: "Cavalla folyó", ro: "Râul Cavalla", en: "Cavalla River" },
     coords: [-7.5333, 4.3667],
@@ -99,6 +102,7 @@ export const liberiaNatureV2: POI[] = [
   },
   {
     id: "liberia-man-river-nature-v2",
+    parent: "LR",
     type: "river",
     name: { de: "Man River", hu: "Man folyó", ro: "Râul Man", en: "Man River" },
     coords: [-10.45, 7.45],
@@ -131,6 +135,7 @@ export const liberiaNatureV2: POI[] = [
   },
   {
     id: "liberia-lofa-river-nature-v2",
+    parent: "LR",
     type: "river",
     name: { de: "Lofa River", hu: "Lofa folyó", ro: "Râul Lofa", en: "Lofa River" },
     coords: [-11.0833, 7.15],
@@ -163,6 +168,7 @@ export const liberiaNatureV2: POI[] = [
   },
   {
     id: "liberia-mount-putu-nature-v2",
+    parent: "LR",
     type: "mountain",
     name: { de: "Mount Putu", hu: "Putu-hegység", ro: "Muntele Putu", en: "Mount Putu" },
     coords: [-8.5, 5.6167],
@@ -195,6 +201,7 @@ export const liberiaNatureV2: POI[] = [
   },
   {
     id: "liberia-cecess-river-nature-v2",
+    parent: "LR",
     type: "river",
     name: { de: "Cestos River", hu: "Cestos folyó", ro: "Râul Cestos", en: "Cestos River" },
     coords: [-9.6, 5.4833],
@@ -227,6 +234,7 @@ export const liberiaNatureV2: POI[] = [
   },
   {
     id: "liberia-buchanan-coastline-nature-v2",
+    parent: "LR",
     type: "landmark",
     name: { de: "Buchanan Küste", hu: "Buchanani partszakasz", ro: "Coasta Buchanan", en: "Buchanan Coastline" },
     coords: [-10.05, 5.8833],
@@ -259,6 +267,7 @@ export const liberiaNatureV2: POI[] = [
   },
   {
     id: "liberia-mount-cradle-nature-v2",
+    parent: "LR",
     type: "mountain",
     name: { de: "Mount Cradle", hu: "Cradle-hegy", ro: "Muntele Cradle", en: "Mount Cradle" },
     coords: [-9.3, 7.85],
@@ -291,6 +300,7 @@ export const liberiaNatureV2: POI[] = [
   },
   {
     id: "liberia-bloh-creek-nature-v2",
+    parent: "LR",
     type: "river",
     name: { de: "Bloh Creek", hu: "Bloh patak", ro: "Pârâul Bloh", en: "Bloh Creek" },
     coords: [-10.15, 6.55],
@@ -323,6 +333,7 @@ export const liberiaNatureV2: POI[] = [
   },
   {
     id: "liberia-du-river-nature-v2",
+    parent: "LR",
     type: "river",
     name: { de: "Du River", hu: "Du folyó", ro: "Râul Du", en: "Du River" },
     coords: [-10.45, 6.1],
@@ -355,6 +366,7 @@ export const liberiaNatureV2: POI[] = [
   },
   {
     id: "liberia-farmington-river-nature-v2",
+    parent: "LR",
     type: "river",
     name: { de: "Farmington River", hu: "Farmington folyó", ro: "Râul Farmington", en: "Farmington River" },
     coords: [-10.4333, 6.1667],
@@ -387,6 +399,7 @@ export const liberiaNatureV2: POI[] = [
   },
   {
     id: "liberia-lave-river-nature-v2",
+    parent: "LR",
     type: "river",
     name: { de: "Lave River", hu: "Lave folyó", ro: "Râul Lave", en: "Lave River" },
     coords: [-10.6, 5.95],
@@ -419,6 +432,7 @@ export const liberiaNatureV2: POI[] = [
   },
   {
     id: "liberia-mount-gbo-nature-v2",
+    parent: "LR",
     type: "mountain",
     name: { de: "Mount Gbo", hu: "Gbo-hegy", ro: "Muntele Gbo", en: "Mount Gbo" },
     coords: [-8.9, 5.85],
@@ -451,6 +465,7 @@ export const liberiaNatureV2: POI[] = [
   },
   {
     id: "liberia-sess-river-nature-v2",
+    parent: "LR",
     type: "river",
     name: { de: "Sess River", hu: "Sess folyó", ro: "Râul Sess", en: "Sess River" },
     coords: [-9.3, 5.75],
@@ -483,6 +498,7 @@ export const liberiaNatureV2: POI[] = [
   },
   {
     id: "liberia-morro-river-nature-v2",
+    parent: "LR",
     type: "river",
     name: { de: "Morro River", hu: "Morro folyó", ro: "Râul Morro", en: "Morro River" },
     coords: [-10.9, 7.6],
@@ -515,6 +531,7 @@ export const liberiaNatureV2: POI[] = [
   },
   {
     id: "liberia-st-paul-tributary-nature-v2",
+    parent: "LR",
     type: "river",
     name: { de: "St. Paul Nebenfluss", hu: "St. Paul mellékfolyó", ro: "Afluent al St. Paul", en: "St. Paul Tributary" },
     coords: [-10.3, 6.8],
@@ -547,6 +564,7 @@ export const liberiaNatureV2: POI[] = [
   },
   {
     id: "liberia-putu-forest-nature-v2",
+    parent: "LR",
     type: "forest",
     name: { de: "Putu Wald", hu: "Putu erdő", ro: "Pădurea Putu", en: "Putu Forest" },
     coords: [-8.4, 5.6],
@@ -579,6 +597,7 @@ export const liberiaNatureV2: POI[] = [
   },
   {
     id: "liberia-nimba-plateau-nature-v2",
+    parent: "LR",
     type: "mountain",
     name: { de: "Nimba Hochebene", hu: "Nimba fennsík", ro: "Platoul Nimba", en: "Nimba Plateau" },
     coords: [-8.5, 7.55],
@@ -611,6 +630,7 @@ export const liberiaNatureV2: POI[] = [
   },
   {
     id: "liberia-lofa-forest-nature-v2",
+    parent: "LR",
     type: "forest",
     name: { de: "Lofa Wald", hu: "Lofa erdő", ro: "Pădurea Lofa", en: "Lofa Forest" },
     coords: [-9.9, 8.0],
@@ -643,6 +663,7 @@ export const liberiaNatureV2: POI[] = [
   },
   {
     id: "liberia-maryland-coast-nature-v2",
+    parent: "LR",
     type: "landmark",
     name: { de: "Maryland Küste", hu: "Maryland partvidék", ro: "Coasta Maryland", en: "Maryland Coast" },
     coords: [-7.7, 4.4],
@@ -675,6 +696,7 @@ export const liberiaNatureV2: POI[] = [
   },
   {
     id: "liberia-gbarpolu-river-nature-v2",
+    parent: "LR",
     type: "river",
     name: { de: "Gbarpolu Fluss", hu: "Gbarpolu folyó", ro: "Râul Gbarpolu", en: "Gbarpolu River" },
     coords: [-10.3, 7.2],

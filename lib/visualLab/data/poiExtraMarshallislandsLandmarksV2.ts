@@ -3,6 +3,7 @@ export const marshallislandsLandmarksV2: POI[] = [
 
   {
     id: "marshallislands-alele-museum-landmarks-v2",
+    parent: "MH",
     type: "museum",
     name: { de: "Alele-Museum", hu: "Alele Múzeum", ro: "Muzeul Alele", en: "Alele Museum" },
     coords: [171.3686, 7.1197],
@@ -35,6 +36,7 @@ export const marshallislandsLandmarksV2: POI[] = [
   },
   {
     id: "marshallislands-majuro-bridge-landmarks-v2",
+    parent: "MH",
     type: "bridge",
     name: { de: "Majuro-Brücke", hu: "Majuro-híd", ro: "Podul Majuro", en: "Majuro Bridge" },
     coords: [171.3752, 7.0853],
@@ -67,6 +69,7 @@ export const marshallislandsLandmarksV2: POI[] = [
   },
   {
     id: "marshallislands-japanese-peace-park-landmarks-v2",
+    parent: "MH",
     type: "park",
     name: { de: "Japanischer Friedenspark", hu: "Japán Béke-park", ro: "Parcul Păcii Japonez", en: "Japanese Peace Park" },
     coords: [171.3695, 7.1221],
@@ -99,6 +102,7 @@ export const marshallislandsLandmarksV2: POI[] = [
   },
   {
     id: "marshallislands-assumption-cathedral-landmarks-v2",
+    parent: "MH",
     type: "cathedral",
     name: { de: "Kathedrale der Mariä Himmelfahrt", hu: "Nagyboldogasszony-székesegyház", ro: "Catedrala Adormirea Maicii Domnului", en: "Cathedral of the Assumption" },
     coords: [171.3654, 7.1158],
@@ -131,6 +135,7 @@ export const marshallislandsLandmarksV2: POI[] = [
   },
   {
     id: "marshallislands-capitol-building-landmarks-v2",
+    parent: "MH",
     type: "landmark",
     name: { de: "Kapitolsgebäude", hu: "Kapitólium", ro: "Clădirea Capitoliului", en: "Capitol Building" },
     coords: [171.3692, 7.1185],
@@ -163,6 +168,7 @@ export const marshallislandsLandmarksV2: POI[] = [
   },
   {
     id: "marshallislands-wotje-airfield-landmarks-v2",
+    parent: "MH",
     type: "ruins",
     name: { de: "Wotje-Flugfeldruinen", hu: "Wotje repülőtér romjai", ro: "Ruinele aerodromului Wotje", en: "Wotje Airfield Ruins" },
     coords: [170.2375, 9.4583],
@@ -195,6 +201,7 @@ export const marshallislandsLandmarksV2: POI[] = [
   },
   {
     id: "marshallislands-jaluit-lighthouse-landmarks-v2",
+    parent: "MH",
     type: "ruins",
     name: { de: "Leuchtturmruine von Jaluit", hu: "Jaluit világítótorony romjai", ro: "Ruinele farului din Jaluit", en: "Jaluit Lighthouse Ruins" },
     coords: [169.6431, 5.9122],
@@ -227,6 +234,7 @@ export const marshallislandsLandmarksV2: POI[] = [
   },
   {
     id: "marshallislands-eniwetok-memorial-landmarks-v2",
+    parent: "MH",
     type: "monument",
     name: { de: "Eniwetok-Gedenkstätte", hu: "Eniwetok-emlékmű", ro: "Monumentul Eniwetok", en: "Eniwetok Memorial" },
     coords: [162.3325, 11.4412],
@@ -259,6 +267,7 @@ export const marshallislandsLandmarksV2: POI[] = [
   },
   {
     id: "marshallislands-mili-war-monument-landmarks-v2",
+    parent: "MH",
     type: "monument",
     name: { de: "Mili-Kriegsdenkmal", hu: "Mili háborús emlékmű", ro: "Monumentul Războiului din Mili", en: "Mili War Monument" },
     coords: [171.7344, 6.0821],
@@ -291,6 +300,7 @@ export const marshallislandsLandmarksV2: POI[] = [
   },
   {
     id: "marshallislands-kwajalein-yokwe-memorial-landmarks-v2",
+    parent: "MH",
     type: "monument",
     name: { de: "Yokwe-Gedenkstätte", hu: "Yokwe-emlékmű", ro: "Monumentul Yokwe", en: "Yokwe Memorial" },
     coords: [167.7331, 8.7185],
@@ -323,6 +333,7 @@ export const marshallislandsLandmarksV2: POI[] = [
   },
   {
     id: "marshallislands-delap-dock-landmarks-v2",
+    parent: "MH",
     type: "port",
     name: { de: "Delap-Hafenanlage", hu: "Delap kikötő", ro: "Docul Delap", en: "Delap Dock" },
     coords: [171.3745, 7.1112],
@@ -355,6 +366,7 @@ export const marshallislandsLandmarksV2: POI[] = [
   },
   {
     id: "marshallislands-laura-village-center-landmarks-v2",
+    parent: "MH",
     type: "landmark",
     name: { de: "Kulturzentrum Laura", hu: "Laura falu kulturális központja", ro: "Centrul Cultural din Laura", en: "Laura Village Cultural Center" },
     coords: [171.0422, 7.1365],
@@ -387,6 +399,7 @@ export const marshallislandsLandmarksV2: POI[] = [
   },
   {
     id: "marshallislands-uliga-protestant-church-landmarks-v2",
+    parent: "MH",
     type: "church",
     name: { de: "Protestantische Kirche von Uliga", hu: "Uliga protestáns templom", ro: "Biserica Protestantă din Uliga", en: "Uliga Protestant Church" },
     coords: [171.3689, 7.1205],

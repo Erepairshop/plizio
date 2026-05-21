@@ -3,6 +3,7 @@ export const barbadosCitiesV2: POI[] = [
 
   {
     id: "barbados-bridgetown-cities-v2",
+    parent: "BB",
     type: "capital",
     name: { de: "Bridgetown", hu: "Bridgetown", ro: "Bridgetown", en: "Bridgetown" },
     coords: [-59.6133, 13.0968],
@@ -47,6 +48,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-speightstown-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Speightstown", hu: "Speightstown", ro: "Speightstown", en: "Speightstown" },
     coords: [-59.643, 13.25],
@@ -91,6 +93,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-holetown-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Holetown", hu: "Holetown", ro: "Holetown", en: "Holetown" },
     coords: [-59.638, 13.187],
@@ -135,6 +138,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-oistins-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Oistins", hu: "Oistins", ro: "Oistins", en: "Oistins" },
     coords: [-59.544, 13.061],
@@ -179,6 +183,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-bathsheba-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Bathsheba", hu: "Bathsheba", ro: "Bathsheba", en: "Bathsheba" },
     coords: [-59.521, 13.21],
@@ -223,6 +228,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-six-cross-roads-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Six Cross Roads", hu: "Six Cross Roads", ro: "Six Cross Roads", en: "Six Cross Roads" },
     coords: [-59.479, 13.116],
@@ -267,6 +273,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-belleplaine-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Belleplaine", hu: "Belleplaine", ro: "Belleplaine", en: "Belleplaine" },
     coords: [-59.563, 13.245],
@@ -311,6 +318,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-hillaby-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Hillaby", hu: "Hillaby", ro: "Hillaby", en: "Hillaby" },
     coords: [-59.58, 13.21],
@@ -355,6 +363,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-warrens-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Warrens", hu: "Warrens", ro: "Warrens", en: "Warrens" },
     coords: [-59.598, 13.136],
@@ -399,6 +408,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-worthing-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Worthing", hu: "Worthing", ro: "Worthing", en: "Worthing" },
     coords: [-59.584, 13.072],
@@ -443,6 +453,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-st-lawrence-gap-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Saint Lawrence Gap", hu: "Saint Lawrence Gap", ro: "Saint Lawrence Gap", en: "Saint Lawrence Gap" },
     coords: [-59.571, 13.068],
@@ -487,6 +498,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-fitts-village-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Fitts Village", hu: "Fitts Village", ro: "Fitts Village", en: "Fitts Village" },
     coords: [-59.636, 13.15],
@@ -530,6 +542,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-wildey-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Wildey", hu: "Wildey", ro: "Wildey", en: "Wildey" },
     coords: [-59.585, 13.105],
@@ -573,6 +586,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-cave-hill-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Cave Hill", hu: "Cave Hill", ro: "Cave Hill", en: "Cave Hill" },
     coords: [-59.626, 13.131],
@@ -616,6 +630,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-silver-sands-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Silver Sands", hu: "Silver Sands", ro: "Silver Sands", en: "Silver Sands" },
     coords: [-59.516, 13.048],
@@ -660,6 +675,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-enterprise-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Enterprise", hu: "Enterprise", ro: "Enterprise", en: "Enterprise" },
     coords: [-59.528, 13.055],
@@ -703,6 +719,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-graeme-hall-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Graeme Hall", hu: "Graeme Hall", ro: "Graeme Hall", en: "Graeme Hall" },
     coords: [-59.575, 13.075],
@@ -746,6 +763,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-rendezvous-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Rendezvous", hu: "Rendezvous", ro: "Rendezvous", en: "Rendezvous" },
     coords: [-59.585, 13.08],
@@ -790,6 +808,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-rockley-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Rockley", hu: "Rockley", ro: "Rockley", en: "Rockley" },
     coords: [-59.593, 13.075],
@@ -833,6 +852,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-jackson-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Jackson", hu: "Jackson", ro: "Jackson", en: "Jackson" },
     coords: [-59.6, 13.15],
@@ -877,6 +897,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-haggatt-hall-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Haggatt Hall", hu: "Haggatt Hall", ro: "Haggatt Hall", en: "Haggatt Hall" },
     coords: [-59.58, 13.115],
@@ -920,6 +941,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-ellerton-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Ellerton", hu: "Ellerton", ro: "Ellerton", en: "Ellerton" },
     coords: [-59.54, 13.14],
@@ -964,6 +986,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-marchfield-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Marchfield", hu: "Marchfield", ro: "Marchfield", en: "Marchfield" },
     coords: [-59.485, 13.12],
@@ -1008,6 +1031,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-ruby-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Ruby", hu: "Ruby", ro: "Ruby", en: "Ruby" },
     coords: [-59.475, 13.13],
@@ -1052,6 +1076,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-colleton-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Colleton", hu: "Colleton", ro: "Colleton", en: "Colleton" },
     coords: [-59.49, 13.175],
@@ -1095,6 +1120,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-checker-hall-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Checker Hall", hu: "Checker Hall", ro: "Checker Hall", en: "Checker Hall" },
     coords: [-59.635, 13.275],
@@ -1139,6 +1165,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-shermans-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Shermans", hu: "Shermans", ro: "Shermans", en: "Shermans" },
     coords: [-59.645, 13.27],
@@ -1183,6 +1210,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-half-moon-fort-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Half Moon Fort", hu: "Half Moon Fort", ro: "Half Moon Fort", en: "Half Moon Fort" },
     coords: [-59.645, 13.285],
@@ -1227,6 +1255,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-clinketts-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Clinketts", hu: "Clinketts", ro: "Clinketts", en: "Clinketts" },
     coords: [-59.645, 13.3],
@@ -1271,6 +1300,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-crab-hill-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Crab Hill", hu: "Crab Hill", ro: "Crab Hill", en: "Crab Hill" },
     coords: [-59.64, 13.315],
@@ -1315,6 +1345,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-pie-corner-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Pie Corner", hu: "Pie Corner", ro: "Pie Corner", en: "Pie Corner" },
     coords: [-59.58, 13.31],
@@ -1359,6 +1390,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-welchman-hall-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Welchman Hall", hu: "Welchman Hall", ro: "Welchman Hall", en: "Welchman Hall" },
     coords: [-59.585, 13.19],
@@ -1403,6 +1435,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-boscobelle-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Boscobelle", hu: "Boscobelle", ro: "Boscobelle", en: "Boscobelle" },
     coords: [-59.585, 13.265],
@@ -1447,6 +1480,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-greenland-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Greenland", hu: "Greenland", ro: "Greenland", en: "Greenland" },
     coords: [-59.575, 13.245],
@@ -1491,6 +1525,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-ebenezer-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Ebenezer", hu: "Ebenezer", ro: "Ebenezer", en: "Ebenezer" },
     coords: [-59.495, 13.135],
@@ -1535,6 +1570,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-four-roads-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Four Roads", hu: "Four Roads", ro: "Four Roads", en: "Four Roads" },
     coords: [-59.47, 13.12],
@@ -1579,6 +1615,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-bentleys-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Bentleys", hu: "Bentleys", ro: "Bentleys", en: "Bentleys" },
     coords: [-59.54, 13.095],
@@ -1623,6 +1660,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-sion-hill-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Sion Hill", hu: "Sion Hill", ro: "Sion Hill", en: "Sion Hill" },
     coords: [-59.62, 13.21],
@@ -1666,6 +1704,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-boarded-hall-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Boarded Hall", hu: "Boarded Hall", ro: "Boarded Hall", en: "Boarded Hall" },
     coords: [-59.555, 13.11],
@@ -1710,6 +1749,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-bulkeley-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Bulkeley", hu: "Bulkeley", ro: "Bulkeley", en: "Bulkeley" },
     coords: [-59.545, 13.125],
@@ -1754,6 +1794,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-constant-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Constant", hu: "Constant", ro: "Constant", en: "Constant" },
     coords: [-59.565, 13.135],
@@ -1798,6 +1839,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-workmans-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Workmans", hu: "Workmans", ro: "Workmans", en: "Workmans" },
     coords: [-59.56, 13.155],
@@ -1841,6 +1883,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-hothersal-turning-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Hothersal Turning", hu: "Hothersal Turning", ro: "Hothersal Turning", en: "Hothersal Turning" },
     coords: [-59.585, 13.13],
@@ -1884,6 +1927,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-flat-rock-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Flat Rock", hu: "Flat Rock", ro: "Flat Rock", en: "Flat Rock" },
     coords: [-59.565, 13.16],
@@ -1927,6 +1971,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-the-hope-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "The Hope", hu: "The Hope", ro: "The Hope", en: "The Hope" },
     coords: [-59.61, 13.295],
@@ -1971,6 +2016,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-gays-village-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Gay's Village", hu: "Gay's Village", ro: "Gay's Village", en: "Gay's Village" },
     coords: [-59.6, 13.275],
@@ -2014,6 +2060,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-canewood-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Canewood", hu: "Canewood", ro: "Canewood", en: "Canewood" },
     coords: [-59.595, 13.15],
@@ -2058,6 +2105,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-pine-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "The Pine", hu: "The Pine", ro: "The Pine", en: "The Pine" },
     coords: [-59.595, 13.1],
@@ -2102,6 +2150,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-brittons-hill-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Britton's Hill", hu: "Britton's Hill", ro: "Britton's Hill", en: "Britton's Hill" },
     coords: [-59.6, 13.09],
@@ -2145,6 +2194,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-oxnards-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Oxnards", hu: "Oxnards", ro: "Oxnards", en: "Oxnards" },
     coords: [-59.62, 13.145],
@@ -2189,6 +2239,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-husbands-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Husbands", hu: "Husbands", ro: "Husbands", en: "Husbands" },
     coords: [-59.63, 13.145],
@@ -2233,6 +2284,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-wanstead-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Wanstead", hu: "Wanstead", ro: "Wanstead", en: "Wanstead" },
     coords: [-59.625, 13.14],
@@ -2277,6 +2329,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-newton-terrace-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Newton Terrace", hu: "Newton Terrace", ro: "Newton Terrace", en: "Newton Terrace" },
     coords: [-59.54, 13.075],
@@ -2321,6 +2374,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-charnocks-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Charnocks", hu: "Charnocks", ro: "Charnocks", en: "Charnocks" },
     coords: [-59.51, 13.07],
@@ -2365,6 +2419,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-coverley-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Coverley", hu: "Coverley", ro: "Coverley", en: "Coverley" },
     coords: [-59.52, 13.08],
@@ -2409,6 +2464,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-wilderness-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Wilderness", hu: "Wilderness", ro: "Wilderness", en: "Wilderness" },
     coords: [-59.545, 13.17],
@@ -2453,6 +2509,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-prospect-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Prospect", hu: "Prospect", ro: "Prospect", en: "Prospect" },
     coords: [-59.635, 13.14],
@@ -2497,6 +2554,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-haggatt-hall-v2-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Mapp Hill", hu: "Mapp Hill", ro: "Mapp Hill", en: "Mapp Hill" },
     coords: [-59.57, 13.11],
@@ -2541,6 +2599,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-blackman-field-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Blackman Field", hu: "Blackman Field", ro: "Blackman Field", en: "Blackman Field" },
     coords: [-59.515, 13.195],
@@ -2585,6 +2644,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-six-mens-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Six Men's", hu: "Six Men's", ro: "Six Men's", en: "Six Men's" },
     coords: [-59.64, 13.26],
@@ -2629,6 +2689,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-porters-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Porters", hu: "Porters", ro: "Porters", en: "Porters" },
     coords: [-59.635, 13.2],
@@ -2673,6 +2734,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-mount-joy-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Mount Joy", hu: "Mount Joy", ro: "Mount Joy", en: "Mount Joy" },
     coords: [-59.57, 13.165],
@@ -2717,6 +2779,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-lemon-arbour-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Lemon Arbour", hu: "Lemon Arbour", ro: "Lemon Arbour", en: "Lemon Arbour" },
     coords: [-59.535, 13.175],
@@ -2761,6 +2824,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-st-george-village-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "The Glebe", hu: "The Glebe", ro: "The Glebe", en: "The Glebe" },
     coords: [-59.55, 13.145],
@@ -2805,6 +2869,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-four-cross-roads-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Four Cross Roads", hu: "Four Cross Roads", ro: "Four Cross Roads", en: "Four Cross Roads" },
     coords: [-59.505, 13.17],
@@ -2849,6 +2914,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-st-judes-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Saint Jude's", hu: "Saint Jude's", ro: "Saint Jude's", en: "Saint Jude's" },
     coords: [-59.525, 13.165],
@@ -2893,6 +2959,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-massiah-street-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Massiah Street", hu: "Massiah Street", ro: "Massiah Street", en: "Massiah Street" },
     coords: [-59.495, 13.165],
@@ -2937,6 +3004,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-fairfield-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Fairfield", hu: "Fairfield", ro: "Fairfield", en: "Fairfield" },
     coords: [-59.62, 13.12],
@@ -2981,6 +3049,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-st-silas-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Saint Silas", hu: "Saint Silas", ro: "Saint Silas", en: "Saint Silas" },
     coords: [-59.61, 13.205],
@@ -3025,6 +3094,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-spring-garden-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Spring Garden", hu: "Spring Garden", ro: "Spring Garden", en: "Spring Garden" },
     coords: [-59.625, 13.11],
@@ -3069,6 +3139,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-bush-hall-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Bush Hall", hu: "Bush Hall", ro: "Bush Hall", en: "Bush Hall" },
     coords: [-59.61, 13.115],
@@ -3113,6 +3184,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-bank-hall-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Bank Hall", hu: "Bank Hall", ro: "Bank Hall", en: "Bank Hall" },
     coords: [-59.61, 13.11],
@@ -3157,6 +3229,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-grazettes-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Grazettes", hu: "Grazettes", ro: "Grazettes", en: "Grazettes" },
     coords: [-59.62, 13.13],
@@ -3201,6 +3274,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-st-stephen-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Saint Stephen", hu: "Saint Stephen", ro: "Saint Stephen", en: "Saint Stephen" },
     coords: [-59.63, 13.13],
@@ -3245,6 +3319,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-tudor-bridge-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Tudor Bridge", hu: "Tudor Bridge", ro: "Tudor Bridge", en: "Tudor Bridge" },
     coords: [-59.615, 13.12],
@@ -3289,6 +3364,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-clermont-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Clermont", hu: "Clermont", ro: "Clermont", en: "Clermont" },
     coords: [-59.605, 13.14],
@@ -3333,6 +3409,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-green-hill-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Green Hill", hu: "Green Hill", ro: "Green Hill", en: "Green Hill" },
     coords: [-59.61, 13.13],
@@ -3377,6 +3454,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-st-george-parish-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Drax Hall", hu: "Drax Hall", ro: "Drax Hall", en: "Drax Hall" },
     coords: [-59.51, 13.13],
@@ -3421,6 +3499,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-stepney-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Stepney", hu: "Stepney", ro: "Stepney", en: "Stepney" },
     coords: [-59.56, 13.12],
@@ -3465,6 +3544,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-brereton-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Brereton", hu: "Brereton", ro: "Brereton", en: "Brereton" },
     coords: [-59.49, 13.125],
@@ -3509,6 +3589,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-st-margaret-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Saint Margaret", hu: "Saint Margaret", ro: "Saint Margaret", en: "Saint Margaret" },
     coords: [-59.485, 13.18],
@@ -3553,6 +3634,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-vaucluse-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Vaucluse", hu: "Vaucluse", ro: "Vaucluse", en: "Vaucluse" },
     coords: [-59.6, 13.18],
@@ -3597,6 +3679,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-bloomsbury-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Bloomsbury", hu: "Bloomsbury", ro: "Bloomsbury", en: "Bloomsbury" },
     coords: [-59.595, 13.2],
@@ -3641,6 +3724,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-st-simons-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Saint Simons", hu: "Saint Simons", ro: "Saint Simons", en: "Saint Simons" },
     coords: [-59.57, 13.23],
@@ -3685,6 +3769,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-belle-plaine-parish-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Shorey Village", hu: "Shorey Village", ro: "Shorey Village", en: "Shorey Village" },
     coords: [-59.545, 13.22],
@@ -3729,6 +3814,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-st-nicolas-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Saint Nicholas", hu: "Saint Nicholas", ro: "Saint Nicholas", en: "Saint Nicholas" },
     coords: [-59.59, 13.27],
@@ -3773,6 +3859,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-diamond-corner-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Diamond Corner", hu: "Diamond Corner", ro: "Diamond Corner", en: "Diamond Corner" },
     coords: [-59.61, 13.25],
@@ -3817,6 +3904,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-ebworth-cities-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Ebworth", hu: "Ebworth", ro: "Ebworth", en: "Ebworth" },
     coords: [-59.605, 13.24],
@@ -3861,6 +3949,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-gibbes-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Gibbes", hu: "Gibbes", ro: "Gibbes", en: "Gibbes" },
     coords: [-59.64, 13.22],
@@ -3905,6 +3994,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-mullins-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Mullins", hu: "Mullins", ro: "Mullins", en: "Mullins" },
     coords: [-59.64, 13.23],
@@ -3949,6 +4039,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-battaleys-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Battaleys", hu: "Battaleys", ro: "Battaleys", en: "Battaleys" },
     coords: [-59.635, 13.235],
@@ -3993,6 +4084,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-road-view-cities-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Road View", hu: "Road View", ro: "Road View", en: "Road View" },
     coords: [-59.64, 13.225],
@@ -4037,6 +4129,7 @@ export const barbadosCitiesV2: POI[] = [
   },
   {
     id: "barbados-st-lucy-parish-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Saint Lucy", hu: "Saint Lucy", ro: "Saint Lucy", en: "Saint Lucy" },
     coords: [-59.615, 13.3],

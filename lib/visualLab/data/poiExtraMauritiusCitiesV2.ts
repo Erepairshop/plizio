@@ -3,6 +3,7 @@ export const mauritiusCitiesV2: POI[] = [
 
   {
     id: "mauritius-port-louis-cities-v2",
+    parent: "MU",
     type: "capital",
     name: { de: "Port Louis", hu: "Port Louis", ro: "Port Louis", en: "Port Louis" },
     coords: [57.505, -20.1611],
@@ -35,6 +36,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-beau-bassin-cities-v2",
+    parent: "MU",
     type: "town",
     name: { de: "Beau Bassin", hu: "Beau Bassin", ro: "Beau Bassin", en: "Beau Bassin" },
     coords: [57.4731, -20.2225],
@@ -67,6 +69,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-rose-hill-cities-v2",
+    parent: "MU",
     type: "town",
     name: { de: "Rose Hill", hu: "Rose Hill", ro: "Rose Hill", en: "Rose Hill" },
     coords: [57.4772, -20.2431],
@@ -99,6 +102,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-vacoas-cities-v2",
+    parent: "MU",
     type: "town",
     name: { de: "Vacoas", hu: "Vacoas", ro: "Vacoas", en: "Vacoas" },
     coords: [57.4764, -20.2975],
@@ -131,6 +135,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-curepipe-cities-v2",
+    parent: "MU",
     type: "town",
     name: { de: "Curepipe", hu: "Curepipe", ro: "Curepipe", en: "Curepipe" },
     coords: [57.5167, -20.3167],
@@ -163,6 +168,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-triolet-town-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Triolet", hu: "Triolet", ro: "Triolet", en: "Triolet" },
     coords: [57.55, -20.05],
@@ -195,6 +201,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-goodlands-town-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Goodlands", hu: "Goodlands", ro: "Goodlands", en: "Goodlands" },
     coords: [57.65, -20.0333],
@@ -227,6 +234,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-centre-de-flacq-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Centre de Flacq", hu: "Centre de Flacq", ro: "Centre de Flacq", en: "Centre de Flacq" },
     coords: [57.7167, -20.1833],
@@ -259,6 +267,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-bel-air-riviere-seche-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Bel Air Rivière Sèche", hu: "Bel Air Rivière Sèche", ro: "Bel Air Rivière Sèche", en: "Bel Air Rivière Sèche" },
     coords: [57.755, -20.245],
@@ -291,6 +300,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-mahebourg-cities-v2",
+    parent: "MU",
     type: "town",
     name: { de: "Mahébourg", hu: "Mahébourg", ro: "Mahébourg", en: "Mahébourg" },
     coords: [57.7083, -20.4083],
@@ -323,6 +333,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-saint-pierre-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Saint Pierre", hu: "Saint Pierre", ro: "Saint Pierre", en: "Saint Pierre" },
     coords: [57.55, -20.2167],
@@ -355,6 +366,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-le-hochet-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Le Hochet", hu: "Le Hochet", ro: "Le Hochet", en: "Le Hochet" },
     coords: [57.5167, -20.1333],
@@ -387,6 +399,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-baie-du-tombeau-town-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Baie du Tombeau", hu: "Baie du Tombeau", ro: "Baie du Tombeau", en: "Baie du Tombeau" },
     coords: [57.4833, -20.1167],
@@ -419,6 +432,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-bambous-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Bambous", hu: "Bambous", ro: "Bambous", en: "Bambous" },
     coords: [57.4, -20.25],
@@ -451,6 +465,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-rose-belle-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Rose Belle", hu: "Rose Belle", ro: "Rose Belle", en: "Rose Belle" },
     coords: [57.6, -20.4],
@@ -483,6 +498,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-chemin-grenier-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Chemin Grenier", hu: "Chemin Grenier", ro: "Chemin Grenier", en: "Chemin Grenier" },
     coords: [57.4667, -20.4833],
@@ -515,6 +531,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-riviere-du-rempart-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Rivière du Rempart", hu: "Rivière du Rempart", ro: "Rivière du Rempart", en: "Rivière du Rempart" },
     coords: [57.6833, -20.1],
@@ -547,6 +564,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-grand-baie-cities-v2",
+    parent: "MU",
     type: "town",
     name: { de: "Grand Baie", hu: "Grand Baie", ro: "Grand Baie", en: "Grand Baie" },
     coords: [57.5833, -20.0167],
@@ -579,6 +597,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-plaine-magnien-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Plaine Magnien", hu: "Plaine Magnien", ro: "Plaine Magnien", en: "Plaine Magnien" },
     coords: [57.6667, -20.4333],
@@ -611,6 +630,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-pailles-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Pailles", hu: "Pailles", ro: "Pailles", en: "Pailles" },
     coords: [57.4833, -20.1833],
@@ -643,6 +663,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-surinam-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Surinam", hu: "Surinam", ro: "Surinam", en: "Surinam" },
     coords: [57.5, -20.5],
@@ -675,6 +696,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-lallmatie-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Lallmatie", hu: "Lallmatie", ro: "Lallmatie", en: "Lallmatie" },
     coords: [57.65, -20.1833],
@@ -707,6 +729,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-new-grove-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "New Grove", hu: "New Grove", ro: "New Grove", en: "New Grove" },
     coords: [57.6167, -20.4],
@@ -739,6 +762,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-riviere-des-anguilles-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Rivière des Anguilles", hu: "Rivière des Anguilles", ro: "Rivière des Anguilles", en: "Rivière des Anguilles" },
     coords: [57.5667, -20.4833],
@@ -771,6 +795,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-terre-rouge-town-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Terre Rouge", hu: "Terre Rouge", ro: "Terre Rouge", en: "Terre Rouge" },
     coords: [57.5333, -20.1167],
@@ -803,6 +828,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-petit-raffray-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Petit Raffray", hu: "Petit Raffray", ro: "Petit Raffray", en: "Petit Raffray" },
     coords: [57.6167, -20.0167],
@@ -835,6 +861,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-pamplemousses-village-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Pamplemousses", hu: "Pamplemousses", ro: "Pamplemousses", en: "Pamplemousses" },
     coords: [57.5667, -20.1],
@@ -867,6 +894,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-montagne-blanche-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Montagne Blanche", hu: "Montagne Blanche", ro: "Montagne Blanche", en: "Montagne Blanche" },
     coords: [57.65, -20.2667],
@@ -899,6 +927,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-grand-bois-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Grand Bois", hu: "Grand Bois", ro: "Grand Bois", en: "Grand Bois" },
     coords: [57.55, -20.4167],
@@ -931,6 +960,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-riche-terre-village-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Riche Terre", hu: "Riche Terre", ro: "Riche Terre", en: "Riche Terre" },
     coords: [57.5, -20.1333],
@@ -963,6 +993,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-quartier-militaire-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Quartier Militaire", hu: "Quartier Militaire", ro: "Quartier Militaire", en: "Quartier Militaire" },
     coords: [57.6, -20.25],
@@ -995,6 +1026,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-cap-malheureux-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Cap Malheureux", hu: "Cap Malheureux", ro: "Cap Malheureux", en: "Cap Malheureux" },
     coords: [57.6167, -19.9833],
@@ -1027,6 +1059,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-flic-en-flac-village-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Flic en Flac", hu: "Flic en Flac", ro: "Flic en Flac", en: "Flic en Flac" },
     coords: [57.3667, -20.2833],
@@ -1059,6 +1092,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-souillac-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Souillac", hu: "Souillac", ro: "Souillac", en: "Souillac" },
     coords: [57.5167, -20.5167],
@@ -1091,6 +1125,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-tamarin-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Tamarin", hu: "Tamarin", ro: "Tamarin", en: "Tamarin" },
     coords: [57.375, -20.325],
@@ -1123,6 +1158,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-pointe-aux-piments-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Pointe aux Piments", hu: "Pointe aux Piments", ro: "Pointe aux Piments", en: "Pointe aux Piments" },
     coords: [57.5167, -20.0667],
@@ -1155,6 +1191,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-trou-deau-douce-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Trou d'Eau Douce", hu: "Trou d'Eau Douce", ro: "Trou d'Eau Douce", en: "Trou d'Eau Douce" },
     coords: [57.7833, -20.2333],
@@ -1187,6 +1224,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-poste-de-flacq-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Poste de Flacq", hu: "Poste de Flacq", ro: "Poste de Flacq", en: "Poste de Flacq" },
     coords: [57.7333, -20.15],
@@ -1219,6 +1257,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-bassin-village-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Bassin", hu: "Bassin", ro: "Bassin", en: "Bassin" },
     coords: [57.45, -20.2833],
@@ -1251,6 +1290,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-gros-cailloux-village-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Gros Cailloux", hu: "Gros Cailloux", ro: "Gros Cailloux", en: "Gros Cailloux" },
     coords: [57.4333, -20.2],
@@ -1283,6 +1323,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-midlands-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Midlands", hu: "Midlands", ro: "Midlands", en: "Midlands" },
     coords: [57.5667, -20.3167],
@@ -1315,6 +1356,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-dubreuil-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Dubreuil", hu: "Dubreuil", ro: "Dubreuil", en: "Dubreuil" },
     coords: [57.5833, -20.3],
@@ -1347,6 +1389,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-sebastopol-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Sebastopol", hu: "Sebastopol", ro: "Sebastopol", en: "Sebastopol" },
     coords: [57.6833, -20.2833],
@@ -1379,6 +1422,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-ecroignard-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Ecroignard", hu: "Ecroignard", ro: "Ecroignard", en: "Ecroignard" },
     coords: [57.7333, -20.2167],
@@ -1411,6 +1455,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-camp-ithier-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Camp Ithier", hu: "Camp Ithier", ro: "Camp Ithier", en: "Camp Ithier" },
     coords: [57.75, -20.2],
@@ -1443,6 +1488,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-bon-accueil-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Bon Accueil", hu: "Bon Accueil", ro: "Bon Accueil", en: "Bon Accueil" },
     coords: [57.6833, -20.15],
@@ -1475,6 +1521,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-laventure-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Laventure", hu: "Laventure", ro: "Laventure", en: "Laventure" },
     coords: [57.6667, -20.1333],
@@ -1507,6 +1554,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-brisee-verdiere-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Brisée Verdière", hu: "Brisée Verdière", ro: "Brisée Verdière", en: "Brisée Verdière" },
     coords: [57.65, -20.15],
@@ -1539,6 +1587,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-chamouny-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Chamouny", hu: "Chamouny", ro: "Chamouny", en: "Chamouny" },
     coords: [57.4833, -20.4667],
@@ -1571,6 +1620,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-baie-du-cap-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Baie du Cap", hu: "Baie du Cap", ro: "Baie du Cap", en: "Baie du Cap" },
     coords: [57.3833, -20.4833],
@@ -1603,6 +1653,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-le-morne-village-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Le Morne Village", hu: "Le Morne Village", ro: "Le Morne Village", en: "Le Morne Village" },
     coords: [57.3333, -20.45],
@@ -1635,6 +1686,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-la-gaulette-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "La Gaulette", hu: "La Gaulette", ro: "La Gaulette", en: "La Gaulette" },
     coords: [57.35, -20.4167],
@@ -1667,6 +1719,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-case-noyale-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Case Noyale", hu: "Case Noyale", ro: "Case Noyale", en: "Case Noyale" },
     coords: [57.35, -20.4],
@@ -1699,6 +1752,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-grande-riviere-noire-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Grande Rivière Noire", hu: "Grande Rivière Noire", ro: "Grande Rivière Noire", en: "Grande Rivière Noire" },
     coords: [57.3667, -20.3667],
@@ -1731,6 +1785,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-petite-riviere-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Petite Rivière", hu: "Petite Rivière", ro: "Petite Rivière", en: "Petite Rivière" },
     coords: [57.45, -20.1833],
@@ -1763,6 +1818,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-grand-gaube-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Grand Gaube", hu: "Grand Gaube", ro: "Grand Gaube", en: "Grand Gaube" },
     coords: [57.6667, -20],
@@ -1795,6 +1851,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-roches-noires-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Roches Noires", hu: "Roches Noires", ro: "Roches Noires", en: "Roches Noires" },
     coords: [57.7125, -20.1083],
@@ -1827,6 +1884,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-poudre-dor-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Poudre d'Or", hu: "Poudre d'Or", ro: "Poudre d'Or", en: "Poudre d'Or" },
     coords: [57.6833, -20.0667],
@@ -1859,6 +1917,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-plaine-des-papayes-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Plaine des Papayes", hu: "Plaine des Papayes", ro: "Plaine des Papayes", en: "Plaine des Papayes" },
     coords: [57.5833, -20.0667],
@@ -1891,6 +1950,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-mapou-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Mapou", hu: "Mapou", ro: "Mapou", en: "Mapou" },
     coords: [57.6, -20.0667],
@@ -1923,6 +1983,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-fond-du-sac-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Fond du Sac", hu: "Fond du Sac", ro: "Fond du Sac", en: "Fond du Sac" },
     coords: [57.5833, -20.05],
@@ -1955,6 +2016,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-mont-choisy-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Mont Choisy", hu: "Mont Choisy", ro: "Mont Choisy", en: "Mont Choisy" },
     coords: [57.55, -20.0167],
@@ -1987,6 +2049,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-trou-aux-biches-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Trou aux Biches", hu: "Trou aux Biches", ro: "Trou aux Biches", en: "Trou aux Biches" },
     coords: [57.5333, -20.0333],
@@ -2019,6 +2082,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-pereybere-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Pereybere", hu: "Pereybere", ro: "Pereybere", en: "Pereybere" },
     coords: [57.5833, -19.9833],
@@ -2051,6 +2115,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-madrague-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Madrague", hu: "Madrague", ro: "Madrague", en: "Madrague" },
     coords: [57.3667, -20.4],
@@ -2083,6 +2148,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-la-flora-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "La Flora", hu: "La Flora", ro: "La Flora", en: "La Flora" },
     coords: [57.5667, -20.3833],
@@ -2115,6 +2181,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-bois-cheri-village-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Bois Chéri", hu: "Bois Chéri", ro: "Bois Chéri", en: "Bois Chéri" },
     coords: [57.5333, -20.4],
@@ -2147,6 +2214,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-britannia-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Britannia", hu: "Britannia", ro: "Britannia", en: "Britannia" },
     coords: [57.5667, -20.4167],
@@ -2179,6 +2247,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-bois-des-amourettes-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Bois des Amourettes", hu: "Bois des Amourettes", ro: "Bois des Amourettes", en: "Bois des Amourettes" },
     coords: [57.7167, -20.3667],
@@ -2211,6 +2280,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-plaines-des-roches-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Plaines des Roches", hu: "Plaines des Roches", ro: "Plaines des Roches", en: "Plaines des Roches" },
     coords: [57.6667, -20.1167],
@@ -2243,6 +2313,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-medine-camp-de-masque-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Médine Camp de Masque", hu: "Médine Camp de Masque", ro: "Médine Camp de Masque", en: "Médine Camp de Masque" },
     coords: [57.6667, -20.2333],
@@ -2275,6 +2346,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-creve-coeur-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Crève Coeur", hu: "Crève Coeur", ro: "Crève Coeur", en: "Crève Coeur" },
     coords: [57.5333, -20.1833],
@@ -2307,6 +2379,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-petiti-verger-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Petit Verger", hu: "Petit Verger", ro: "Petit Verger", en: "Petit Verger" },
     coords: [57.5167, -20.2],
@@ -2339,6 +2412,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-mont-idat-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Mont Ida", hu: "Mont Ida", ro: "Mont Ida", en: "Mont Ida" },
     coords: [57.6333, -20.2167],
@@ -2371,6 +2445,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-melrose-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Melrose", hu: "Melrose", ro: "Melrose", en: "Melrose" },
     coords: [57.6333, -20.25],
@@ -2403,6 +2478,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-cluny-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Cluny", hu: "Cluny", ro: "Cluny", en: "Cluny" },
     coords: [57.6167, -20.3667],
@@ -2435,6 +2511,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-bananes-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Bananes", hu: "Bananes", ro: "Bananes", en: "Bananes" },
     coords: [57.5833, -20.3333],
@@ -2467,6 +2544,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-le-val-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Le Val", hu: "Le Val", ro: "Le Val", en: "Le Val" },
     coords: [57.65, -20.35],
@@ -2531,6 +2609,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-olivier-cities-v2",
+    parent: "MU",
     type: "village",
     name: { de: "Olivier", hu: "Olivier", ro: "Olivier", en: "Olivier" },
     coords: [57.7333, -20.4],
@@ -2563,6 +2642,7 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-vacoas-phoenix-cities-v2",
+    parent: "MU",
     type: "city",
     name: { de: "Vacoas-Phoenix", hu: "Vacoas-Phoenix", ro: "Vacoas-Phoenix", en: "Vacoas-Phoenix" },
     coords: [57.4833, -20.2917],

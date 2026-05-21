@@ -3,6 +3,7 @@ export const palauHistoryV2: POI[] = [
 
   {
     id: "palau-peleliu-battlefield-history-v2",
+    parent: "PW",
     type: "battlefield",
     name: { de: "Schlachtfeld von Peleliu", hu: "Peleliui csatatér", ro: "Câmpul de luptă Peleliu", en: "Peleliu Battlefield" },
     coords: [134.238, 6.985],
@@ -35,6 +36,7 @@ export const palauHistoryV2: POI[] = [
   },
   {
     id: "palau-badrulchau-monoliths-history-v2",
+    parent: "PW",
     type: "ruins",
     name: { de: "Badrulchau Steinmonolithe", hu: "Badrulchau kőmonolitok", ro: "Monoliții din Badrulchau", en: "Badrulchau Stone Monoliths" },
     coords: [134.628, 7.713],
@@ -67,6 +69,7 @@ export const palauHistoryV2: POI[] = [
   },
   {
     id: "palau-angaur-battlefield-history-v2",
+    parent: "PW",
     type: "battlefield",
     name: { de: "Schlachtfeld von Angaur", hu: "Angauri csatatér", ro: "Câmpul de luptă Angaur", en: "Angaur Battlefield" },
     coords: [134.131, 6.906],
@@ -99,6 +102,7 @@ export const palauHistoryV2: POI[] = [
   },
   {
     id: "palau-german-channel-history-v2",
+    parent: "PW",
     type: "landmark",
     name: { de: "Deutscher Kanal", hu: "Német-csatorna", ro: "Canalul German", en: "German Channel" },
     coords: [134.275, 7.118],
@@ -131,6 +135,7 @@ export const palauHistoryV2: POI[] = [
   },
   {
     id: "palau-airai-bai-history-v2",
+    parent: "PW",
     type: "landmark",
     name: { de: "Bai ra Airai", hu: "Airai-i Bai", ro: "Bai ra Airai", en: "Bai ra Airai" },
     coords: [134.562, 7.363],
@@ -163,6 +168,7 @@ export const palauHistoryV2: POI[] = [
   },
   {
     id: "palau-japanese-comm-center-history-v2",
+    parent: "PW",
     type: "ruins",
     name: { de: "Japanisches Kommunikationszentrum", hu: "Japán hírközlési központ", ro: "Centrul de comunicații japonez", en: "Japanese Communications Center" },
     coords: [134.551, 7.375],
@@ -195,6 +201,7 @@ export const palauHistoryV2: POI[] = [
   },
   {
     id: "palau-aimeliik-terraces-history-v2",
+    parent: "PW",
     type: "ruins",
     name: { de: "Aimeliik-Terrassen", hu: "Aimeliik-teraszok", ro: "Terasele din Aimeliik", en: "Aimeliik Terraces" },
     coords: [134.502, 7.445],
@@ -227,6 +234,7 @@ export const palauHistoryV2: POI[] = [
   },
   {
     id: "palau-orange-beach-history-v2",
+    parent: "PW",
     type: "battlefield",
     name: { de: "Orange Beach", hu: "Orange Beach", ro: "Plaja Orange", en: "Orange Beach" },
     coords: [134.225, 6.993],
@@ -259,6 +267,7 @@ export const palauHistoryV2: POI[] = [
   },
   {
     id: "palau-ngarchelong-stone-faces-history-v2",
+    parent: "PW",
     type: "ruins",
     name: { de: "Ngarchelong Steingesichter", hu: "Ngarchelongi kőarcok", ro: "Fețele de piatră din Ngarchelong", en: "Ngarchelong Stone Faces" },
     coords: [134.629, 7.712],
@@ -291,6 +300,7 @@ export const palauHistoryV2: POI[] = [
   },
   {
     id: "palau-chelechol-ra-orrak-history-v2",
+    parent: "PW",
     type: "ruins",
     name: { de: "Chelechol ra Orrak", hu: "Chelechol ra Orrak", ro: "Chelechol ra Orrak", en: "Chelechol ra Orrak" },
     coords: [134.451, 7.333],
@@ -323,6 +333,7 @@ export const palauHistoryV2: POI[] = [
   },
   {
     id: "palau-ngerulmud-monoliths-history-v2",
+    parent: "PW",
     type: "landmark",
     name: { de: "Ngerulmud Monolithe", hu: "Ngerulmudi monolitok", ro: "Monoliții din Ngerulmud", en: "Ngerulmud Monoliths" },
     coords: [134.624, 7.501],
@@ -355,6 +366,7 @@ export const palauHistoryV2: POI[] = [
   },
   {
     id: "palau-ngerchelchuus-stone-path-history-v2",
+    parent: "PW",
     type: "ruins",
     name: { de: "Steinpfad von Ngerchelchuus", hu: "Ngerchelchuus kőút", ro: "Calea de piatră din Ngerchelchuus", en: "Stone Path of Ngerchelchuus" },
     coords: [134.568, 7.562],
@@ -387,6 +399,7 @@ export const palauHistoryV2: POI[] = [
   },
   {
     id: "palau-imeong-village-ruins-history-v2",
+    parent: "PW",
     type: "ruins",
     name: { de: "Imeong Dorfruinen", hu: "Imeong faluromok", ro: "Ruinele satului Imeong", en: "Imeong Village Ruins" },
     coords: [134.526, 7.526],
@@ -419,6 +432,7 @@ export const palauHistoryV2: POI[] = [
   },
   {
     id: "palau-ngeruktabel-stone-fort-history-v2",
+    parent: "PW",
     type: "ruins",
     name: { de: "Steinfort von Ngeruktabel", hu: "Ngeruktabel kőerőd", ro: "Fortul de piatră din Ngeruktabel", en: "Ngeruktabel Stone Fort" },
     coords: [134.409, 7.273],
@@ -451,6 +465,7 @@ export const palauHistoryV2: POI[] = [
   },
   {
     id: "palau-ngaraard-stone-path-history-v2",
+    parent: "PW",
     type: "ruins",
     name: { de: "Ngaraard Steinpfad", hu: "Ngaraardi kőút", ro: "Calea de piatră din Ngaraard", en: "Ngaraard Stone Path" },
     coords: [134.629, 7.626],

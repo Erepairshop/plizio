@@ -3,6 +3,7 @@ export const nauruCitiesV2: POI[] = [
 
   {
     id: "nauru-yaren-cities-v2",
+    parent: "NR",
     type: "capital",
     name: { de: "Yaren", hu: "Yaren", ro: "Yaren", en: "Yaren" },
     coords: [166.9167, -0.5467],
@@ -35,6 +36,7 @@ export const nauruCitiesV2: POI[] = [
   },
   {
     id: "nauru-aiwo-cities-v2",
+    parent: "NR",
     type: "city",
     name: { de: "Aiwo", hu: "Aiwo", ro: "Aiwo", en: "Aiwo" },
     coords: [166.9167, -0.5333],
@@ -67,6 +69,7 @@ export const nauruCitiesV2: POI[] = [
   },
   {
     id: "nauru-boe-cities-v2",
+    parent: "NR",
     type: "village",
     name: { de: "Boe", hu: "Boe", ro: "Boe", en: "Boe" },
     coords: [166.9167, -0.5417],
@@ -99,6 +102,7 @@ export const nauruCitiesV2: POI[] = [
   },
   {
     id: "nauru-denigomodu-cities-v2",
+    parent: "NR",
     type: "city",
     name: { de: "Denigomodu", hu: "Denigomodu", ro: "Denigomodu", en: "Denigomodu" },
     coords: [166.912, -0.525],
@@ -131,6 +135,7 @@ export const nauruCitiesV2: POI[] = [
   },
   {
     id: "nauru-meneng-cities-v2",
+    parent: "NR",
     type: "city",
     name: { de: "Meneng", hu: "Meneng", ro: "Meneng", en: "Meneng" },
     coords: [166.938, -0.548],
@@ -163,6 +168,7 @@ export const nauruCitiesV2: POI[] = [
   },
   {
     id: "nauru-anibare-cities-v2",
+    parent: "NR",
     type: "village",
     name: { de: "Anibare", hu: "Anibare", ro: "Anibare", en: "Anibare" },
     coords: [166.953, -0.535],
@@ -195,6 +201,7 @@ export const nauruCitiesV2: POI[] = [
   },
   {
     id: "nauru-buada-cities-v2",
+    parent: "NR",
     type: "village",
     name: { de: "Buada", hu: "Buada", ro: "Buada", en: "Buada" },
     coords: [166.925, -0.533],
@@ -227,6 +234,7 @@ export const nauruCitiesV2: POI[] = [
   },
   {
     id: "nauru-nibok-cities-v2",
+    parent: "NR",
     type: "village",
     name: { de: "Nibok", hu: "Nibok", ro: "Nibok", en: "Nibok" },
     coords: [166.918, -0.521],
@@ -259,6 +267,7 @@ export const nauruCitiesV2: POI[] = [
   },
   {
     id: "nauru-uaboe-cities-v2",
+    parent: "NR",
     type: "village",
     name: { de: "Uaboe", hu: "Uaboe", ro: "Uaboe", en: "Uaboe" },
     coords: [166.922, -0.515],
@@ -291,6 +300,7 @@ export const nauruCitiesV2: POI[] = [
   },
   {
     id: "nauru-baitsi-cities-v2",
+    parent: "NR",
     type: "village",
     name: { de: "Baitsi", hu: "Baitsi", ro: "Baitsi", en: "Baitsi" },
     coords: [166.927, -0.509],
@@ -323,6 +333,7 @@ export const nauruCitiesV2: POI[] = [
   },
   {
     id: "nauru-ewa-cities-v2",
+    parent: "NR",
     type: "village",
     name: { de: "Ewa", hu: "Ewa", ro: "Ewa", en: "Ewa" },
     coords: [166.936, -0.502],
@@ -355,6 +366,7 @@ export const nauruCitiesV2: POI[] = [
   },
   {
     id: "nauru-anetan-cities-v2",
+    parent: "NR",
     type: "village",
     name: { de: "Anetan", hu: "Anetan", ro: "Anetan", en: "Anetan" },
     coords: [166.944, -0.504],
@@ -387,6 +399,7 @@ export const nauruCitiesV2: POI[] = [
   },
   {
     id: "nauru-anabar-cities-v2",
+    parent: "NR",
     type: "village",
     name: { de: "Anabar", hu: "Anabar", ro: "Anabar", en: "Anabar" },
     coords: [166.953, -0.508],
@@ -419,6 +432,7 @@ export const nauruCitiesV2: POI[] = [
   },
   {
     id: "nauru-ijuw-cities-v2",
+    parent: "NR",
     type: "village",
     name: { de: "Ijuw", hu: "Ijuw", ro: "Ijuw", en: "Ijuw" },
     coords: [166.959, -0.52],
@@ -451,6 +465,7 @@ export const nauruCitiesV2: POI[] = [
   },
   {
     id: "nauru-arenibek-cities-v2",
+    parent: "NR",
     type: "village",
     name: { de: "Arenibek", hu: "Arenibek", ro: "Arenibek", en: "Arenibek" },
     coords: [166.9525, -0.5085],

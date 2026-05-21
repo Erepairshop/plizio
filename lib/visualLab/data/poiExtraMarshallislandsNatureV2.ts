@@ -3,6 +3,7 @@ export const marshallislandsNatureV2: POI[] = [
 
   {
     id: "marshallislands-majuro-atoll-nature-v2",
+    parent: "MH",
     type: "wildlife",
     name: { de: "Majuro-Atoll", hu: "Majuro-atoll", ro: "Atolul Majuro", en: "Majuro Atoll" },
     coords: [171.1844, 7.0897],
@@ -35,6 +36,7 @@ export const marshallislandsNatureV2: POI[] = [
   },
   {
     id: "marshallislands-kwajalein-atoll-nature-v2",
+    parent: "MH",
     type: "wildlife",
     name: { de: "Kwajalein-Atoll", hu: "Kwajalein-atoll", ro: "Atolul Kwajalein", en: "Kwajalein Atoll" },
     coords: [167.4422, 9.1755],
@@ -67,6 +69,7 @@ export const marshallislandsNatureV2: POI[] = [
   },
   {
     id: "marshallislands-taongi-atoll-nature-v2",
+    parent: "MH",
     type: "wildlife",
     name: { de: "Taongi-Atoll", hu: "Taongi-atoll", ro: "Atolul Taongi", en: "Taongi Atoll" },
     coords: [168.9667, 14.6333],
@@ -99,6 +102,7 @@ export const marshallislandsNatureV2: POI[] = [
   },
   {
     id: "marshallislands-mili-atoll-nature-v2",
+    parent: "MH",
     type: "wildlife",
     name: { de: "Mili-Atoll", hu: "Mili-atoll", ro: "Atolul Mili", en: "Mili Atoll" },
     coords: [171.9167, 6.1333],
@@ -131,6 +135,7 @@ export const marshallislandsNatureV2: POI[] = [
   },
   {
     id: "marshallislands-jaluit-atoll-nature-v2",
+    parent: "MH",
     type: "wildlife",
     name: { de: "Jaluit-Atoll", hu: "Jaluit-atoll", ro: "Atolul Jaluit", en: "Jaluit Atoll" },
     coords: [169.6417, 5.9167],
@@ -163,6 +168,7 @@ export const marshallislandsNatureV2: POI[] = [
   },
   {
     id: "marshallislands-rongelap-atoll-nature-v2",
+    parent: "MH",
     type: "wildlife",
     name: { de: "Rongelap-Atoll", hu: "Rongelap-atoll", ro: "Atolul Rongelap", en: "Rongelap Atoll" },
     coords: [166.8167, 11.3167],
@@ -195,6 +201,7 @@ export const marshallislandsNatureV2: POI[] = [
   },
   {
     id: "marshallislands-ailinglaplap-atoll-nature-v2",
+    parent: "MH",
     type: "forest",
     name: { de: "Ailinglaplap-Atoll", hu: "Ailinglaplap-atoll", ro: "Atolul Ailinglaplap", en: "Ailinglaplap Atoll" },
     coords: [168.7667, 7.3833],
@@ -227,6 +234,7 @@ export const marshallislandsNatureV2: POI[] = [
   },
   {
     id: "marshallislands-arno-atoll-nature-v2",
+    parent: "MH",
     type: "wildlife",
     name: { de: "Arno-Atoll", hu: "Arno-atoll", ro: "Atolul Arno", en: "Arno Atoll" },
     coords: [171.6667, 7.1],
@@ -259,6 +267,7 @@ export const marshallislandsNatureV2: POI[] = [
   },
   {
     id: "marshallislands-likiep-atoll-nature-v2",
+    parent: "MH",
     type: "peak",
     name: { de: "Likiep-Atoll", hu: "Likiep-atoll", ro: "Atolul Likiep", en: "Likiep Atoll" },
     coords: [169.1333, 9.9],
@@ -291,6 +300,7 @@ export const marshallislandsNatureV2: POI[] = [
   },
   {
     id: "marshallislands-wotje-atoll-nature-v2",
+    parent: "MH",
     type: "wildlife",
     name: { de: "Wotje-Atoll", hu: "Wotje-atoll", ro: "Atolul Wotje", en: "Wotje Atoll" },
     coords: [170.2333, 9.45],
@@ -323,6 +333,7 @@ export const marshallislandsNatureV2: POI[] = [
   },
   {
     id: "marshallislands-mejit-island-nature-v2",
+    parent: "MH",
     type: "lake",
     name: { de: "Mejit-Insel", hu: "Mejit-sziget", ro: "Insula Mejit", en: "Mejit Island" },
     coords: [170.8667, 10.2833],
@@ -355,6 +366,7 @@ export const marshallislandsNatureV2: POI[] = [
   },
   {
     id: "marshallislands-ebon-atoll-nature-v2",
+    parent: "MH",
     type: "forest",
     name: { de: "Ebon-Atoll", hu: "Ebon-atoll", ro: "Atolul Ebon", en: "Ebon Atoll" },
     coords: [168.7167, 4.5833],
@@ -387,6 +399,7 @@ export const marshallislandsNatureV2: POI[] = [
   },
   {
     id: "marshallislands-namorik-atoll-nature-v2",
+    parent: "MH",
     type: "wildlife",
     name: { de: "Namorik-Atoll", hu: "Namorik-atoll", ro: "Atolul Namorik", en: "Namorik Atoll" },
     coords: [168.1167, 5.6167],
@@ -419,6 +432,7 @@ export const marshallislandsNatureV2: POI[] = [
   },
   {
     id: "marshallislands-maloelap-atoll-nature-v2",
+    parent: "MH",
     type: "wildlife",
     name: { de: "Maloelap-Atoll", hu: "Maloelap-atoll", ro: "Atolul Maloelap", en: "Maloelap Atoll" },
     coords: [171.0667, 8.75],
@@ -451,6 +465,7 @@ export const marshallislandsNatureV2: POI[] = [
   },
   {
     id: "marshallislands-namu-atoll-nature-v2",
+    parent: "MH",
     type: "wildlife",
     name: { de: "Namu-Atoll", hu: "Namu-atoll", ro: "Atolul Namu", en: "Namu Atoll" },
     coords: [168.1667, 8.0],

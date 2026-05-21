@@ -3,6 +3,7 @@ export const mauritaniaLifeV2: POI[] = [
 
   {
     id: "mauritania-diawling-park-life-v2",
+    parent: "MR",
     type: "park",
     name: { de: "Nationalpark Diawling", hu: "Diawling Nemzeti Park", ro: "Parcul Național Diawling", en: "Diawling National Park" },
     coords: [-16.42, 16.38],
@@ -35,6 +36,7 @@ export const mauritaniaLifeV2: POI[] = [
   },
   {
     id: "mauritania-banc-d-arguin-life-v2",
+    parent: "MR",
     type: "park",
     name: { de: "Nationalpark Banc d'Arguin", hu: "Banc d'Arguin Nemzeti Park", ro: "Parcul Național Banc d'Arguin", en: "Banc d'Arguin National Park" },
     coords: [-16.3, 19.88],
@@ -67,6 +69,7 @@ export const mauritaniaLifeV2: POI[] = [
   },
   {
     id: "mauritania-mahe-reserve-life-v2",
+    parent: "MR",
     type: "wildlife",
     name: { de: "Reservat Mahe", hu: "Mahe rezervátum", ro: "Rezervația Mahe", en: "Mahe Reserve" },
     coords: [-15.8, 16.5],
@@ -99,6 +102,7 @@ export const mauritaniaLifeV2: POI[] = [
   },
   {
     id: "mauritania-azefal-wildlife-life-v2",
+    parent: "MR",
     type: "wildlife",
     name: { de: "Azefal Schutzgebiet", hu: "Azefal természetvédelmi terület", ro: "Aria protejată Azefal", en: "Azefal Protected Area" },
     coords: [-14.5, 19.3],
@@ -131,6 +135,7 @@ export const mauritaniaLifeV2: POI[] = [
   },
   {
     id: "mauritania-el-mouhoub-life-v2",
+    parent: "MR",
     type: "wildlife",
     name: { de: "Feuchtgebiet El Mouhoub", hu: "El Mouhoub vizes élőhely", ro: "Zona umedă El Mouhoub", en: "El Mouhoub Wetland" },
     coords: [-14.2, 16.7],
@@ -163,6 +168,7 @@ export const mauritaniaLifeV2: POI[] = [
   },
   {
     id: "mauritania-oase-chinguetti-life-v2",
+    parent: "MR",
     type: "forest",
     name: { de: "Oase Chinguetti", hu: "Chinguetti oázis", ro: "Oaza Chinguetti", en: "Chinguetti Oasis" },
     coords: [-12.35, 20.45],
@@ -195,6 +201,7 @@ export const mauritaniaLifeV2: POI[] = [
   },
   {
     id: "mauritania-tagant-plateau-life-v2",
+    parent: "MR",
     type: "wildlife",
     name: { de: "Tagant-Plateau", hu: "Tagant-fennsík", ro: "Podișul Tagant", en: "Tagant Plateau" },
     coords: [-11.5, 18.2],
@@ -227,6 +234,7 @@ export const mauritaniaLifeV2: POI[] = [
   },
   {
     id: "mauritania-keur-macene-life-v2",
+    parent: "MR",
     type: "wildlife",
     name: { de: "Keur Macene Feuchtgebiet", hu: "Keur Macene vizes élőhely", ro: "Zona umedă Keur Macene", en: "Keur Macene Wetland" },
     coords: [-16.15, 16.45],
@@ -259,6 +267,7 @@ export const mauritaniaLifeV2: POI[] = [
   },
   {
     id: "mauritania-aouker-life-v2",
+    parent: "MR",
     type: "wildlife",
     name: { de: "Becken von Aouker", hu: "Aouker-medence", ro: "Bazinul Aouker", en: "Aouker Basin" },
     coords: [-10.0, 18.5],
@@ -291,6 +300,7 @@ export const mauritaniaLifeV2: POI[] = [
   },
   {
     id: "mauritania-oase-tidjikja-life-v2",
+    parent: "MR",
     type: "forest",
     name: { de: "Oase Tidjikja", hu: "Tidjikja oázis", ro: "Oaza Tidjikja", en: "Tidjikja Oasis" },
     coords: [-11.43, 18.55],
@@ -323,6 +333,7 @@ export const mauritaniaLifeV2: POI[] = [
   },
   {
     id: "mauritania-arkin-wildlife-life-v2",
+    parent: "MR",
     type: "wildlife",
     name: { de: "Arkin Schutzgebiet", hu: "Arkin természetvédelmi terület", ro: "Rezervația Arkin", en: "Arkin Wildlife Reserve" },
     coords: [-15.5, 19.5],
@@ -355,6 +366,7 @@ export const mauritaniaLifeV2: POI[] = [
   },
   {
     id: "mauritania-guelta-de-matmata-life-v2",
+    parent: "MR",
     type: "lake",
     name: { de: "Guelta von Matmata", hu: "Matmatai Guelta", ro: "Guelta Matmata", en: "Guelta of Matmata" },
     coords: [-11.0, 18.0],
@@ -387,6 +399,7 @@ export const mauritaniaLifeV2: POI[] = [
   },
   {
     id: "mauritania-kiffa-wildlife-life-v2",
+    parent: "MR",
     type: "wildlife",
     name: { de: "Kiffa Schutzgebiet", hu: "Kiffa természetvédelmi terület", ro: "Aria protejată Kiffa", en: "Kiffa Protected Area" },
     coords: [-11.4, 16.6],
@@ -419,6 +432,7 @@ export const mauritaniaLifeV2: POI[] = [
   },
   {
     id: "mauritania-oase-atart-life-v2",
+    parent: "MR",
     type: "forest",
     name: { de: "Oase Atar", hu: "Atar oázis", ro: "Oaza Atar", en: "Atar Oasis" },
     coords: [-13.05, 20.52],
@@ -451,6 +465,7 @@ export const mauritaniaLifeV2: POI[] = [
   },
   {
     id: "mauritania-guelta-archei-life-v2",
+    parent: "MR",
     type: "lake",
     name: { de: "Guelta von Archei", hu: "Archei-guelta", ro: "Guelta Archei", en: "Guelta of Archei" },
     coords: [-11.7, 18.25],
@@ -483,6 +498,7 @@ export const mauritaniaLifeV2: POI[] = [
   },
   {
     id: "mauritania-oase-ouadane-life-v2",
+    parent: "MR",
     type: "forest",
     name: { de: "Oase Ouadane", hu: "Ouadane oázis", ro: "Oaza Ouadane", en: "Ouadane Oasis" },
     coords: [-11.6, 20.93],
@@ -515,6 +531,7 @@ export const mauritaniaLifeV2: POI[] = [
   },
   {
     id: "mauritania-taoudenni-life-v2",
+    parent: "MR",
     type: "wildlife",
     name: { de: "Region Taoudenni", hu: "Taoudenni régió", ro: "Regiunea Taoudenni", en: "Taoudenni Region" },
     coords: [-3.9, 22.6],
@@ -547,6 +564,7 @@ export const mauritaniaLifeV2: POI[] = [
   },
   {
     id: "mauritania-oase-tidra-life-v2",
+    parent: "MR",
     type: "wildlife",
     name: { de: "Insel Tidra", hu: "Tidra-sziget", ro: "Insula Tidra", en: "Tidra Island" },
     coords: [-16.4, 19.8],
@@ -579,6 +597,7 @@ export const mauritaniaLifeV2: POI[] = [
   },
   {
     id: "mauritania-diouk-life-v2",
+    parent: "MR",
     type: "wildlife",
     name: { de: "Schutzgebiet Diouk", hu: "Diouk természetvédelmi terület", ro: "Rezervația Diouk", en: "Diouk Reserve" },
     coords: [-13.5, 16.2],
@@ -611,6 +630,7 @@ export const mauritaniaLifeV2: POI[] = [
   },
   {
     id: "mauritania-oase-moudjeria-life-v2",
+    parent: "MR",
     type: "forest",
     name: { de: "Oase Moudjeria", hu: "Moudjeria oázis", ro: "Oaza Moudjeria", en: "Moudjeria Oasis" },
     coords: [-12.3, 17.8],
@@ -643,6 +663,7 @@ export const mauritaniaLifeV2: POI[] = [
   },
   {
     id: "mauritania-banc-d-arguin-lagune-life-v2",
+    parent: "MR",
     type: "wildlife",
     name: { de: "Lagunen von Arguin", hu: "Arguin-lagúnák", ro: "Lagunele Arguin", en: "Arguin Lagoons" },
     coords: [-16.2, 19.8],
@@ -675,6 +696,7 @@ export const mauritaniaLifeV2: POI[] = [
   },
   {
     id: "mauritania-oase-terjit-nord-life-v2",
+    parent: "MR",
     type: "forest",
     name: { de: "Oase Terjit Nord", hu: "Északi-Terjit oázis", ro: "Oaza Terjit Nord", en: "Terjit North Oasis" },
     coords: [-13.07, 20.42],
@@ -707,6 +729,7 @@ export const mauritaniaLifeV2: POI[] = [
   },
   {
     id: "mauritania-delta-senegal-life-v2",
+    parent: "MR",
     type: "wildlife",
     name: { de: "Delta des Senegal", hu: "Szenegál-delta", ro: "Delta Senegalului", en: "Senegal Delta" },
     coords: [-16.4, 16.0],
@@ -739,6 +762,7 @@ export const mauritaniaLifeV2: POI[] = [
   },
   {
     id: "mauritania-oase-tichitt-life-v2",
+    parent: "MR",
     type: "forest",
     name: { de: "Oase Tichitt", hu: "Tichitt oázis", ro: "Oaza Tichitt", en: "Tichitt Oasis" },
     coords: [-9.48, 18.43],
@@ -771,6 +795,7 @@ export const mauritaniaLifeV2: POI[] = [
   },
   {
     id: "mauritania-oase-vallen-life-v2",
+    parent: "MR",
     type: "forest",
     name: { de: "Oase von Vallen", hu: "Vallen oázis", ro: "Oaza Vallen", en: "Vallen Oasis" },
     coords: [-13.2, 20.2],
@@ -803,6 +828,7 @@ export const mauritaniaLifeV2: POI[] = [
   },
   {
     id: "mauritania-oase-aoulef-life-v2",
+    parent: "MR",
     type: "forest",
     name: { de: "Oase Aoulef", hu: "Aoulef oázis", ro: "Oaza Aoulef", en: "Aoulef Oasis" },
     coords: [-10.5, 18.6],
@@ -835,6 +861,7 @@ export const mauritaniaLifeV2: POI[] = [
   },
   {
     id: "mauritania-guelta-de-la-kedia-life-v2",
+    parent: "MR",
     type: "lake",
     name: { de: "Guelta von Kedia", hu: "Kediai-guelta", ro: "Guelta Kedia", en: "Guelta of Kedia" },
     coords: [-12.6, 22.65],

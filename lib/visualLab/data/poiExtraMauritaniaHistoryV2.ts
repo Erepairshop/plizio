@@ -3,6 +3,7 @@ export const mauritaniaHistoryV2: POI[] = [
 
   {
     id: "mauritania-ouadane-ruins-history-v2",
+    parent: "MR",
     type: "ruins",
     name: { de: "Ouadane Ruinen", hu: "Ouadane romok", ro: "Ruinele Ouadane", en: "Ouadane Ruins" },
     coords: [-11.6, 20.9333],
@@ -35,6 +36,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-chinguetti-mosque-history-v2",
+    parent: "MR",
     type: "landmark",
     name: { de: "Chinguetti Moschee", hu: "Chinguetti mecset", ro: "Moscheea Chinguetti", en: "Chinguetti Mosque" },
     coords: [-12.36, 20.45],
@@ -67,6 +69,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-tichitt-old-town-history-v2",
+    parent: "MR",
     type: "ruins",
     name: { de: "Tichitt Altstadt", hu: "Tichitt óváros", ro: "Orașul vechi Tichitt", en: "Tichitt Old Town" },
     coords: [-9.48, 18.43],
@@ -99,6 +102,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-oualata-city-history-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Oualata Stadt", hu: "Oualata város", ro: "Orașul Oualata", en: "Oualata City" },
     coords: [-7.02, 17.29],
@@ -131,6 +135,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-koumbi-saleh-ruins-history-v2",
+    parent: "MR",
     type: "ruins",
     name: { de: "Koumbi Saleh Ruinen", hu: "Koumbi Saleh romok", ro: "Ruinele Koumbi Saleh", en: "Koumbi Saleh Ruins" },
     coords: [-7.96, 15.75],
@@ -163,6 +168,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-azougui-fort-history-v2",
+    parent: "MR",
     type: "castle",
     name: { de: "Azougui Festung", hu: "Azougui erőd", ro: "Fortăreața Azougui", en: "Azougui Fort" },
     coords: [-13.06, 20.48],
@@ -195,6 +201,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-nouakchott-national-museum-history-v2",
+    parent: "MR",
     type: "museum",
     name: { de: "Nationalmuseum Nouakchott", hu: "Nouakchott Nemzeti Múzeum", ro: "Muzeul Național Nouakchott", en: "National Museum of Nouakchott" },
     coords: [-15.97, 18.08],
@@ -227,6 +234,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-tidjikja-mosque-history-v2",
+    parent: "MR",
     type: "landmark",
     name: { de: "Tidjikja Moschee", hu: "Tidjikja mecset", ro: "Moscheea Tidjikja", en: "Tidjikja Mosque" },
     coords: [-11.43, 18.55],
@@ -259,6 +267,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-terjit-oasis-history-v2",
+    parent: "MR",
     type: "park",
     name: { de: "Oase Terjit", hu: "Terjit oázis", ro: "Oaza Terjit", en: "Terjit Oasis" },
     coords: [-13.1, 20.35],
@@ -291,6 +300,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-adrar-plateau-sites-history-v2",
+    parent: "MR",
     type: "ruins",
     name: { de: "Adrar-Plateau Stätten", hu: "Adrar-fennsík lelőhelyek", ro: "Siturile Platoului Adrar", en: "Adrar Plateau Sites" },
     coords: [-12.5, 20.5],
@@ -323,6 +333,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-boutilimit-scholar-history-v2",
+    parent: "MR",
     type: "university",
     name: { de: "Boutilimit Zentrum", hu: "Boutilimit központ", ro: "Centrul Boutilimit", en: "Boutilimit Center" },
     coords: [-14.67, 17.53],
@@ -355,6 +366,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-nema-fort-history-v2",
+    parent: "MR",
     type: "castle",
     name: { de: "Néma Festung", hu: "Néma erőd", ro: "Fortăreața Néma", en: "Nema Fort" },
     coords: [-7.25, 16.6],
@@ -387,6 +399,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-wadan-archaeology-history-v2",
+    parent: "MR",
     type: "ruins",
     name: { de: "Wadan archäologische Stätten", hu: "Wadan régészeti lelőhelyek", ro: "Siturile arheologice Wadan", en: "Wadan Archaeological Sites" },
     coords: [-11.62, 20.93],
@@ -419,6 +432,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-kaedi-mosque-history-v2",
+    parent: "MR",
     type: "landmark",
     name: { de: "Kaédi Moschee", hu: "Kaédi mecset", ro: "Moscheea Kaédi", en: "Kaedi Mosque" },
     coords: [-13.5, 16.15],
@@ -451,6 +465,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-tichitt-library-history-v2",
+    parent: "MR",
     type: "museum",
     name: { de: "Tichitt Bibliothek", hu: "Tichitt könyvtár", ro: "Biblioteca Tichitt", en: "Tichitt Library" },
     coords: [-9.48, 18.43],
@@ -483,6 +498,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-ouadane-ksar-history-v2",
+    parent: "MR",
     type: "landmark",
     name: { de: "Ouadane Ksar", hu: "Ouadane Kszar", ro: "Ksar Ouadane", en: "Ouadane Ksar" },
     coords: [-11.6, 20.93],
@@ -515,6 +531,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-tagant-caves-history-v2",
+    parent: "MR",
     type: "landmark",
     name: { de: "Tagant Höhlen", hu: "Tagant barlangok", ro: "Peșterile Tagant", en: "Tagant Caves" },
     coords: [-11.5, 18.5],
@@ -547,6 +564,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-chinguetti-library-history-v2",
+    parent: "MR",
     type: "museum",
     name: { de: "Chinguetti Bibliothek", hu: "Chinguetti könyvtár", ro: "Biblioteca Chinguetti", en: "Chinguetti Library" },
     coords: [-12.36, 20.45],
@@ -579,6 +597,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-tidjikja-old-quarter-history-v2",
+    parent: "MR",
     type: "landmark",
     name: { de: "Tidjikja Altstadtviertel", hu: "Tidjikja óváros", ro: "Cartierul vechi Tidjikja", en: "Tidjikja Old Quarter" },
     coords: [-11.43, 18.55],
@@ -611,6 +630,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-oualata-gateway-history-v2",
+    parent: "MR",
     type: "landmark",
     name: { de: "Oualata Tor", hu: "Oualata kapu", ro: "Poarta Oualata", en: "Oualata Gateway" },
     coords: [-7.02, 17.29],
@@ -643,6 +663,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-medina-nouakchott-history-v2",
+    parent: "MR",
     type: "landmark",
     name: { de: "Medina Nouakchott", hu: "Medina Nouakchott", ro: "Medina Nouakchott", en: "Medina Nouakchott" },
     coords: [-15.97, 18.09],
@@ -675,6 +696,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-boutilimit-mosque-history-v2",
+    parent: "MR",
     type: "landmark",
     name: { de: "Boutilimit Moschee", hu: "Boutilimit mecset", ro: "Moscheea Boutilimit", en: "Boutilimit Mosque" },
     coords: [-14.67, 17.53],
@@ -707,6 +729,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-tagant-historic-ruins-history-v2",
+    parent: "MR",
     type: "ruins",
     name: { de: "Tagant historische Ruinen", hu: "Tagant történelmi romok", ro: "Ruinele istorice Tagant", en: "Tagant Historical Ruins" },
     coords: [-11.5, 18.6],
@@ -739,6 +762,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-nema-market-history-v2",
+    parent: "MR",
     type: "landmark",
     name: { de: "Néma Markt", hu: "Néma piac", ro: "Piața Néma", en: "Nema Market" },
     coords: [-7.25, 16.6],
@@ -771,6 +795,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-kaedi-historic-quarter-history-v2",
+    parent: "MR",
     type: "landmark",
     name: { de: "Kaédi Altstadtviertel", hu: "Kaédi óváros", ro: "Cartierul vechi Kaédi", en: "Kaedi Old Quarter" },
     coords: [-13.5, 16.15],
@@ -803,6 +828,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-chinguetti-old-gates-history-v2",
+    parent: "MR",
     type: "landmark",
     name: { de: "Chinguetti Alte Tore", hu: "Chinguetti régi kapuk", ro: "Porțile vechi Chinguetti", en: "Chinguetti Old Gates" },
     coords: [-12.36, 20.45],
@@ -835,6 +861,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-ouadane-historic-mosque-history-v2",
+    parent: "MR",
     type: "landmark",
     name: { de: "Ouadane Historische Moschee", hu: "Ouadane történelmi mecset", ro: "Moscheea istorică Ouadane", en: "Ouadane Historic Mosque" },
     coords: [-11.6, 20.93],
@@ -867,6 +894,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-tichitt-old-wells-history-v2",
+    parent: "MR",
     type: "landmark",
     name: { de: "Tichitt Alte Brunnen", hu: "Tichitt régi kutak", ro: "Fântânile vechi Tichitt", en: "Tichitt Old Wells" },
     coords: [-9.48, 18.43],
@@ -899,6 +927,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-oualata-library-history-v2",
+    parent: "MR",
     type: "museum",
     name: { de: "Oualata Bibliothek", hu: "Oualata könyvtár", ro: "Biblioteca Oualata", en: "Oualata Library" },
     coords: [-7.02, 17.29],
@@ -931,6 +960,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-azougui-palm-groves-history-v2",
+    parent: "MR",
     type: "park",
     name: { de: "Azougui Palmenhaine", hu: "Azougui pálmaligetek", ro: "Pădurile de palmieri Azougui", en: "Azougui Palm Groves" },
     coords: [-13.06, 20.48],
@@ -963,6 +993,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-nouakchott-market-square-history-v2",
+    parent: "MR",
     type: "landmark",
     name: { de: "Nouakchott Marktplatz", hu: "Nouakchott piactér", ro: "Piața centrală Nouakchott", en: "Nouakchott Market Square" },
     coords: [-15.97, 18.09],
@@ -995,6 +1026,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-tichitt-mosque-history-v2",
+    parent: "MR",
     type: "landmark",
     name: { de: "Tichitt Moschee", hu: "Tichitt mecset", ro: "Moscheea Tichitt", en: "Tichitt Mosque" },
     coords: [-9.48, 18.43],
@@ -1027,6 +1059,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-ouadane-market-history-v2",
+    parent: "MR",
     type: "landmark",
     name: { de: "Ouadane Markt", hu: "Ouadane piac", ro: "Piața Ouadane", en: "Ouadane Market" },
     coords: [-11.6, 20.93],
@@ -1059,6 +1092,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-nema-historic-quarter-history-v2",
+    parent: "MR",
     type: "landmark",
     name: { de: "Néma Altstadtviertel", hu: "Néma óváros", ro: "Cartierul vechi Néma", en: "Nema Old Quarter" },
     coords: [-7.25, 16.6],
@@ -1091,6 +1125,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-tidjikja-historic-wells-history-v2",
+    parent: "MR",
     type: "landmark",
     name: { de: "Tidjikja historische Brunnen", hu: "Tidjikja történelmi kutak", ro: "Fântânile istorice Tidjikja", en: "Tidjikja Historical Wells" },
     coords: [-11.43, 18.55],
@@ -1123,6 +1158,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-kaedi-river-bank-history-v2",
+    parent: "MR",
     type: "river",
     name: { de: "Kaédi Flussufer", hu: "Kaédi folyópart", ro: "Malul râului Kaédi", en: "Kaedi River Bank" },
     coords: [-13.5, 16.15],
@@ -1155,6 +1191,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-chinguetti-old-houses-history-v2",
+    parent: "MR",
     type: "landmark",
     name: { de: "Chinguetti alte Wohnhäuser", hu: "Chinguetti régi lakóházak", ro: "Case vechi Chinguetti", en: "Chinguetti Old Houses" },
     coords: [-12.36, 20.45],
@@ -1187,6 +1224,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-oualata-mosque-history-v2",
+    parent: "MR",
     type: "landmark",
     name: { de: "Oualata Moschee", hu: "Oualata mecset", ro: "Moscheea Oualata", en: "Oualata Mosque" },
     coords: [-7.02, 17.29],
@@ -1219,6 +1257,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-boutilimit-market-history-v2",
+    parent: "MR",
     type: "landmark",
     name: { de: "Boutilimit Markt", hu: "Boutilimit piac", ro: "Piața Boutilimit", en: "Boutilimit Market" },
     coords: [-14.67, 17.53],
@@ -1251,6 +1290,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-azougui-fort-remains-history-v2",
+    parent: "MR",
     type: "ruins",
     name: { de: "Azougui Festungsreste", hu: "Azougui erődmaradványok", ro: "Rămășițele fortăreței Azougui", en: "Azougui Fort Remains" },
     coords: [-13.06, 20.48],
@@ -1283,6 +1323,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-nouakchott-old-district-history-v2",
+    parent: "MR",
     type: "landmark",
     name: { de: "Nouakchott Altstadtviertel", hu: "Nouakchott óváros", ro: "Cartierul vechi Nouakchott", en: "Nouakchott Old Quarter" },
     coords: [-15.97, 18.09],
@@ -1315,6 +1356,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-tichitt-traditional-houses-history-v2",
+    parent: "MR",
     type: "landmark",
     name: { de: "Tichitt traditionelle Häuser", hu: "Tichitt hagyományos házak", ro: "Case tradiționale Tichitt", en: "Tichitt Traditional Houses" },
     coords: [-9.48, 18.43],
@@ -1347,6 +1389,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-ouadane-fortification-history-v2",
+    parent: "MR",
     type: "castle",
     name: { de: "Ouadane Befestigung", hu: "Ouadane erődítés", ro: "Fortificație Ouadane", en: "Ouadane Fortification" },
     coords: [-11.6, 20.93],
@@ -1379,6 +1422,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-nema-traditional-houses-history-v2",
+    parent: "MR",
     type: "landmark",
     name: { de: "Néma traditionelle Häuser", hu: "Néma hagyományos házak", ro: "Case tradiționale Néma", en: "Nema Traditional Houses" },
     coords: [-7.25, 16.6],
@@ -1411,6 +1455,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-kaedi-historical-market-history-v2",
+    parent: "MR",
     type: "landmark",
     name: { de: "Kaédi historischer Markt", hu: "Kaédi történelmi piac", ro: "Piața istorică Kaédi", en: "Kaedi Historical Market" },
     coords: [-13.5, 16.15],
@@ -1443,6 +1488,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-chinguetti-ancient-wells-history-v2",
+    parent: "MR",
     type: "landmark",
     name: { de: "Chinguetti alte Brunnen", hu: "Chinguetti régi kutak", ro: "Fântânile vechi Chinguetti", en: "Chinguetti Ancient Wells" },
     coords: [-12.36, 20.45],
@@ -1475,6 +1521,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-tidjikja-mosque-exterior-history-v2",
+    parent: "MR",
     type: "landmark",
     name: { de: "Tidjikja Moschee Fassade", hu: "Tidjikja mecset homlokzat", ro: "Fațada moscheii Tidjikja", en: "Tidjikja Mosque Exterior" },
     coords: [-11.43, 18.55],
@@ -1507,6 +1554,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-oualata-historic-walls-history-v2",
+    parent: "MR",
     type: "landmark",
     name: { de: "Oualata historische Mauern", hu: "Oualata történelmi falak", ro: "Zidurile istorice Oualata", en: "Oualata Historic Walls" },
     coords: [-7.02, 17.29],
@@ -1539,6 +1587,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-boutilimit-traditional-building-history-v2",
+    parent: "MR",
     type: "landmark",
     name: { de: "Boutilimit traditionelles Gebäude", hu: "Boutilimit hagyományos épület", ro: "Clădire tradițională Boutilimit", en: "Boutilimit Traditional Building" },
     coords: [-14.67, 17.53],
@@ -1571,6 +1620,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-azougui-historical-ruins-history-v2",
+    parent: "MR",
     type: "ruins",
     name: { de: "Azougui historische Ruinen", hu: "Azougui történelmi romok", ro: "Ruinele istorice Azougui", en: "Azougui Historical Ruins" },
     coords: [-13.06, 20.48],
@@ -1603,6 +1653,7 @@ export const mauritaniaHistoryV2: POI[] = [
   },
   {
     id: "mauritania-nouakchott-modern-square-history-v2",
+    parent: "MR",
     type: "landmark",
     name: { de: "Nouakchott Moderner Platz", hu: "Nouakchott modern tér", ro: "Piața modernă Nouakchott", en: "Nouakchott Modern Square" },
     coords: [-15.98, 18.08],

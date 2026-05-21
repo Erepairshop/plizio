@@ -3,6 +3,7 @@ export const palauLifeV2: POI[] = [
 
   {
     id: "palau-rock-islands-life-v2",
+    parent: "PW",
     type: "park",
     name: { de: "Rock Islands Südliche Lagune", hu: "Szikla-szigetek déli lagúnája", ro: "Laguna sudică a Insulelor Rock", en: "Rock Islands Southern Lagoon" },
     coords: [134.301, 7.148],
@@ -35,6 +36,7 @@ export const palauLifeV2: POI[] = [
   },
   {
     id: "palau-jellyfish-lake-life-v2",
+    parent: "PW",
     type: "lake",
     name: { de: "Quallensee", hu: "Medúza-tó", ro: "Lacul Meduzelor", en: "Jellyfish Lake" },
     coords: [134.376, 7.161],
@@ -67,6 +69,7 @@ export const palauLifeV2: POI[] = [
   },
   {
     id: "palau-lake-ngardok-life-v2",
+    parent: "PW",
     type: "wildlife",
     name: { de: "Ngardok-See Naturschutzgebiet", hu: "Ngardok-tó Természetvédelmi Terület", ro: "Rezervația Naturală Lacul Ngardok", en: "Lake Ngardok Nature Reserve" },
     coords: [134.613, 7.585],
@@ -99,6 +102,7 @@ export const palauLifeV2: POI[] = [
   },
   {
     id: "palau-ngardmau-falls-life-v2",
+    parent: "PW",
     type: "wildlife",
     name: { de: "Ngardmau-Wasserfall", hu: "Ngardmau-vízesés", ro: "Cascada Ngardmau", en: "Ngardmau Waterfall" },
     coords: [134.562, 7.597],
@@ -131,6 +135,7 @@ export const palauLifeV2: POI[] = [
   },
   {
     id: "palau-kayangel-atoll-life-v2",
+    parent: "PW",
     type: "wildlife",
     name: { de: "Kayangel-Atoll", hu: "Kayangel-atoll", ro: "Atolul Kayangel", en: "Kayangel Atoll" },
     coords: [134.716, 8.083],
@@ -163,6 +168,7 @@ export const palauLifeV2: POI[] = [
   },
   {
     id: "palau-blue-corner-life-v2",
+    parent: "PW",
     type: "wildlife",
     name: { de: "Blue Corner", hu: "Kék sarok", ro: "Blue Corner", en: "Blue Corner" },
     coords: [134.212, 7.135],
@@ -195,6 +201,7 @@ export const palauLifeV2: POI[] = [
   },
   {
     id: "palau-helen-reef-life-v2",
+    parent: "PW",
     type: "wildlife",
     name: { de: "Helen-Riff Schutzgebiet", hu: "Helen-zátony Természetvédelmi Terület", ro: "Aria Protejată Reciful Helen", en: "Helen Reef Marine Protected Area" },
     coords: [131.783, 2.983],
@@ -227,6 +234,7 @@ export const palauLifeV2: POI[] = [
   },
   {
     id: "palau-ngerukewid-islands-life-v2",
+    parent: "PW",
     type: "wildlife",
     name: { de: "Ngerukewid-Inseln (70 Islands)", hu: "Ngerukewid-szigetek (70 sziget)", ro: "Insulele Ngerukewid (70 de Insule)", en: "Ngerukewid Islands (70 Islands)" },
     coords: [134.281, 7.185],
@@ -259,6 +267,7 @@ export const palauLifeV2: POI[] = [
   },
   {
     id: "palau-angaur-forest-life-v2",
+    parent: "PW",
     type: "forest",
     name: { de: "Angaur Waldreservat", hu: "Angaur-erdőrezervátum", ro: "Rezervația Forestieră Angaur", en: "Angaur Forest Reserve" },
     coords: [134.132, 6.911],
@@ -291,6 +300,7 @@ export const palauLifeV2: POI[] = [
   },
   {
     id: "palau-ngaremeduu-area-life-v2",
+    parent: "PW",
     type: "wildlife",
     name: { de: "Ngaremeduu-Schutzgebiet", hu: "Ngaremeduu Természetvédelmi Terület", ro: "Aria de Conservare Ngaremeduu", en: "Ngaremeduu Conservation Area" },
     coords: [134.502, 7.525],
@@ -323,6 +333,7 @@ export const palauLifeV2: POI[] = [
   },
   {
     id: "palau-ulong-island-life-v2",
+    parent: "PW",
     type: "wildlife",
     name: { de: "Ulong-Insel", hu: "Ulong-sziget", ro: "Insula Ulong", en: "Ulong Island" },
     coords: [134.295, 7.288],
@@ -355,6 +366,7 @@ export const palauLifeV2: POI[] = [
   },
   {
     id: "palau-ngermid-bay-life-v2",
+    parent: "PW",
     type: "wildlife",
     name: { de: "Ngermid-Bucht", hu: "Ngermid-öböl", ro: "Golful Ngermid", en: "Ngermid Bay" },
     coords: [134.505, 7.352],
@@ -387,6 +399,7 @@ export const palauLifeV2: POI[] = [
   },
   {
     id: "palau-ngerumekaol-life-v2",
+    parent: "PW",
     type: "wildlife",
     name: { de: "Ngerumekaol Laichkanal", hu: "Ngerumekaol-ívócsatorna", ro: "Canalul de depunere Ngerumekaol", en: "Ngerumekaol Spawning Channel" },
     coords: [134.234, 7.132],
@@ -419,6 +432,7 @@ export const palauLifeV2: POI[] = [
   },
   {
     id: "palau-carp-island-life-v2",
+    parent: "PW",
     type: "wildlife",
     name: { de: "Carp-Insel Reservat", hu: "Carp-szigeti rezervátum", ro: "Rezervația Insulei Carp", en: "Carp Island Reserve" },
     coords: [134.288, 7.098],

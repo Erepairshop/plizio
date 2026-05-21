@@ -3,6 +3,7 @@ export const nauruLifeV2: POI[] = [
 
   {
     id: "nauru-buada-lagoon-life-v2",
+    parent: "NR",
     type: "lake",
     name: { de: "Buada-Lagune", hu: "Buada-lagúna", ro: "Laguna Buada", en: "Buada Lagoon" },
     coords: [166.9231, -0.5333],
@@ -35,6 +36,7 @@ export const nauruLifeV2: POI[] = [
   },
   {
     id: "nauru-anibare-bay-reef-life-v2",
+    parent: "NR",
     type: "wildlife",
     name: { de: "Anibare-Bucht-Riff", hu: "Anibare-öböl zátony", ro: "Reciful din Golful Anibare", en: "Anibare Bay Reef" },
     coords: [166.9535, -0.5352],
@@ -67,6 +69,7 @@ export const nauruLifeV2: POI[] = [
   },
   {
     id: "nauru-topside-plateau-ferns-life-v2",
+    parent: "NR",
     type: "forest",
     name: { de: "Farne des Zentralplateaus", hu: "Központi-fennsík páfrányai", ro: "Ferigile de pe Platoul Central", en: "Central Plateau Ferns" },
     coords: [166.9352, -0.5285],
@@ -99,6 +102,7 @@ export const nauruLifeV2: POI[] = [
   },
   {
     id: "nauru-command-ridge-forest-life-v2",
+    parent: "NR",
     type: "forest",
     name: { de: "Command-Ridge-Wald", hu: "Command Ridge erdő", ro: "Pădurea Command Ridge", en: "Command Ridge Forest" },
     coords: [166.9155, -0.5301],
@@ -131,6 +135,7 @@ export const nauruLifeV2: POI[] = [
   },
   {
     id: "nauru-moqua-well-area-life-v2",
+    parent: "NR",
     type: "landmark",
     name: { de: "Moqua-Well-Gebiet", hu: "Moqua Well környéke", ro: "Zona Moqua Well", en: "Moqua Well Area" },
     coords: [166.9312, -0.5482],
@@ -163,6 +168,7 @@ export const nauruLifeV2: POI[] = [
   },
   {
     id: "nauru-ijuw-mangroves-life-v2",
+    parent: "NR",
     type: "wildlife",
     name: { de: "Ijuw-Mangroven", hu: "Ijuw-mangroveerdő", ro: "Mangrovele din Ijuw", en: "Ijuw Mangroves" },
     coords: [166.9551, -0.5185],
@@ -195,6 +201,7 @@ export const nauruLifeV2: POI[] = [
   },
   {
     id: "nauru-nibok-shrubland-life-v2",
+    parent: "NR",
     type: "wildlife",
     name: { de: "Nibok-Buschland", hu: "Nibok cserjés", ro: "Zona de arbuști din Nibok", en: "Nibok Shrubland" },
     coords: [166.9182, -0.5105],
@@ -227,6 +234,7 @@ export const nauruLifeV2: POI[] = [
   },
   {
     id: "nauru-meneng-pandanus-groves-life-v2",
+    parent: "NR",
     type: "wildlife",
     name: { de: "Meneng-Pandanus-Haine", hu: "Meneng pandanus ligetek", ro: "Crângurile de pandanus din Meneng", en: "Meneng Pandanus Groves" },
     coords: [166.9455, -0.5452],
@@ -259,6 +267,7 @@ export const nauruLifeV2: POI[] = [
   },
   {
     id: "nauru-anetan-frigatebird-nesting-life-v2",
+    parent: "NR",
     type: "wildlife",
     name: { de: "Anetan-Vogelbrutstätte", hu: "Anetan madárfészkelő hely", ro: "Locul de cuibărit din Anetan", en: "Anetan Bird Nesting Site" },
     coords: [166.9421, -0.5052],
@@ -291,6 +300,7 @@ export const nauruLifeV2: POI[] = [
   },
   {
     id: "nauru-buada-district-gardens-life-v2",
+    parent: "NR",
     type: "park",
     name: { de: "Gärten von Buada", hu: "Buada kertjei", ro: "Grădinile din Buada", en: "Buada District Gardens" },
     coords: [166.9205, -0.5355],
@@ -323,6 +333,7 @@ export const nauruLifeV2: POI[] = [
   },
   {
     id: "nauru-denigomodu-casuarinas-life-v2",
+    parent: "NR",
     type: "forest",
     name: { de: "Denigomodu-Kasuarinen", hu: "Denigomodu kazuárfák", ro: "Casuarinele din Denigomodu", en: "Denigomodu Casuarinas" },
     coords: [166.9125, -0.5255],
@@ -355,6 +366,7 @@ export const nauruLifeV2: POI[] = [
   },
   {
     id: "nauru-aiwo-mangroves-life-v2",
+    parent: "NR",
     type: "wildlife",
     name: { de: "Aiwo-Mangroven", hu: "Aiwo-mangrove", ro: "Mangrovele din Aiwo", en: "Aiwo Mangroves" },
     coords: [166.9102, -0.5325],
@@ -387,6 +399,7 @@ export const nauruLifeV2: POI[] = [
   },
   {
     id: "nauru-boe-coastal-flora-life-v2",
+    parent: "NR",
     type: "park",
     name: { de: "Flora von Boe", hu: "Boe flórája", ro: "Flora din Boe", en: "Boe Coastal Flora" },
     coords: [166.9155, -0.5402],
@@ -419,6 +432,7 @@ export const nauruLifeV2: POI[] = [
   },
   {
     id: "nauru-yaren-greenbelt-life-v2",
+    parent: "NR",
     type: "park",
     name: { de: "Grüngürtel von Yaren", hu: "Yaren zöldövezete", ro: "Centura verde din Yaren", en: "Yaren Greenbelt" },
     coords: [166.9222, -0.5475],
@@ -451,6 +465,7 @@ export const nauruLifeV2: POI[] = [
   },
   {
     id: "nauru-conservation-nursery-life-v2",
+    parent: "NR",
     type: "park",
     name: { de: "Naturschutz-Baumschule", hu: "Természetvédelmi faiskola", ro: "Pepiniera de conservare", en: "Conservation Nursery" },
     coords: [166.9305, -0.5225],

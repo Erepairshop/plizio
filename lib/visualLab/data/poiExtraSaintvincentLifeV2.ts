@@ -3,6 +3,7 @@ export const saintvincentLifeV2: POI[] = [
 
   {
     id: "saintvincent-vermont-nature-trail-life-v2",
+    parent: "VC",
     type: "wildlife",
     name: { de: "Vermont Naturpfad", hu: "Vermont Tanösvény", ro: "Traseul Naturii Vermont", en: "Vermont Nature Trail" },
     coords: [-61.22, 13.21],
@@ -35,6 +36,7 @@ export const saintvincentLifeV2: POI[] = [
   },
   {
     id: "saintvincent-montreal-gardens-life-v2",
+    parent: "VC",
     type: "park",
     name: { de: "Montreal Gärten", hu: "Montreal Kertek", ro: "Grădinile Montreal", en: "Montreal Gardens" },
     coords: [-61.185, 13.205],
@@ -67,6 +69,7 @@ export const saintvincentLifeV2: POI[] = [
   },
   {
     id: "saintvincent-tobago-cays-marine-park-life-v2",
+    parent: "VC",
     type: "wildlife",
     name: { de: "Tobago Cays Marinepark", hu: "Tobago Cays Tengeri Park", ro: "Parcul Marin Tobago Cays", en: "Tobago Cays Marine Park" },
     coords: [-61.355, 12.633],
@@ -99,6 +102,7 @@ export const saintvincentLifeV2: POI[] = [
   },
   {
     id: "saintvincent-union-island-gecko-reserve-life-v2",
+    parent: "VC",
     type: "wildlife",
     name: { de: "Union Island Gecko Reservat", hu: "Union Island-i Gekkó Rezervátum", ro: "Rezervația de Gekko din Union Island", en: "Union Island Gecko Reserve" },
     coords: [-61.446, 12.603],
@@ -131,6 +135,7 @@ export const saintvincentLifeV2: POI[] = [
   },
   {
     id: "saintvincent-ashton-lagoon-life-v2",
+    parent: "VC",
     type: "wildlife",
     name: { de: "Ashton Lagune", hu: "Ashton-lagúna", ro: "Laguna Ashton", en: "Ashton Lagoon" },
     coords: [-61.438, 12.595],
@@ -163,6 +168,7 @@ export const saintvincentLifeV2: POI[] = [
   },
   {
     id: "saintvincent-petit-canouan-wildlife-reserve-life-v2",
+    parent: "VC",
     type: "wildlife",
     name: { de: "Petit Canouan Wildtierreservat", hu: "Petit Canouan Vadvédelmi Rezervátum", ro: "Rezervația de Faună Petit Canouan", en: "Petit Canouan Wildlife Reserve" },
     coords: [-61.252, 12.802],
@@ -195,6 +201,7 @@ export const saintvincentLifeV2: POI[] = [
   },
   {
     id: "saintvincent-mustique-turtle-sanctuary-life-v2",
+    parent: "VC",
     type: "wildlife",
     name: { de: "Mustique Schildkrötenschutzgebiet", hu: "Mustique-i Teknősrezervátum", ro: "Sanctuarul de Țestoase din Mustique", en: "Mustique Turtle Sanctuary" },
     coords: [-61.18, 12.88],
@@ -227,6 +234,7 @@ export const saintvincentLifeV2: POI[] = [
   },
   {
     id: "saintvincent-palm-island-bird-sanctuary-life-v2",
+    parent: "VC",
     type: "wildlife",
     name: { de: "Palm Island Vogelschutzgebiet", hu: "Palm Island Madárrezervátum", ro: "Sanctuarul de Păsări din Palm Island", en: "Palm Island Bird Sanctuary" },
     coords: [-61.398, 12.585],
@@ -259,6 +267,7 @@ export const saintvincentLifeV2: POI[] = [
   },
   {
     id: "saintvincent-richmond-vale-nature-park-life-v2",
+    parent: "VC",
     type: "park",
     name: { de: "Richmond Vale Naturpark", hu: "Richmond Vale Natúrpark", ro: "Parcul Natural Richmond Vale", en: "Richmond Vale Nature Park" },
     coords: [-61.205, 13.31],
@@ -291,6 +300,7 @@ export const saintvincentLifeV2: POI[] = [
   },
   {
     id: "saintvincent-cumberland-nature-trail-life-v2",
+    parent: "VC",
     type: "park",
     name: { de: "Cumberland Naturpfad", hu: "Cumberland Tanösvény", ro: "Traseul Naturii Cumberland", en: "Cumberland Nature Trail" },
     coords: [-61.218, 13.268],
@@ -323,6 +333,7 @@ export const saintvincentLifeV2: POI[] = [
   },
   {
     id: "saintvincent-wallilabou-nature-park-life-v2",
+    parent: "VC",
     type: "park",
     name: { de: "Wallilabou Naturpark", hu: "Wallilabou Natúrpark", ro: "Parcul Natural Wallilabou", en: "Wallilabou Nature Park" },
     coords: [-61.266, 13.248],
@@ -355,6 +366,7 @@ export const saintvincentLifeV2: POI[] = [
   },
   {
     id: "saintvincent-dark-view-nature-area-life-v2",
+    parent: "VC",
     type: "wildlife",
     name: { de: "Dark View Naturgebiet", hu: "Dark View Természeti Terület", ro: "Zona Naturală Dark View", en: "Dark View Nature Area" },
     coords: [-61.25, 13.285],
@@ -387,6 +399,7 @@ export const saintvincentLifeV2: POI[] = [
   },
   {
     id: "saintvincent-owia-salt-pond-park-life-v2",
+    parent: "VC",
     type: "park",
     name: { de: "Owia Salzteich Park", hu: "Owia Sóstó Park", ro: "Parcul Owia Salt Pond", en: "Owia Salt Pond Park" },
     coords: [-61.145, 13.375],
@@ -419,6 +432,7 @@ export const saintvincentLifeV2: POI[] = [
   },
   {
     id: "saintvincent-mesopotamia-valley-nature-reserve-life-v2",
+    parent: "VC",
     type: "forest",
     name: { de: "Mesopotamia Tal Naturschutzgebiet", hu: "Mezopotámia-völgy Természetvédelmi Terület", ro: "Rezervația Naturală Valea Mesopotamia", en: "Mesopotamia Valley Nature Reserve" },
     coords: [-61.175, 13.175],

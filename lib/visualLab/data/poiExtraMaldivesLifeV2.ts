@@ -3,6 +3,7 @@ export const maldivesLifeV2: POI[] = [
 
   {
     id: "maldives-keylakunu-forest-life-v2",
+    parent: "MV",
     type: "forest",
     name: { de: "Keylakunu-Waldreservat", hu: "Keylakunu-erdőrezervátum", ro: "Rezervația forestieră Keylakunu", en: "Keylakunu Forest Reserve" },
     coords: [73.02, 6.51],
@@ -35,6 +36,7 @@ export const maldivesLifeV2: POI[] = [
   },
   {
     id: "maldives-neykurendhoo-mangrove-life-v2",
+    parent: "MV",
     type: "wildlife",
     name: { de: "Neykurendhoo-Mangrovenwald", hu: "Neykurendhoo-mangroveerdő", ro: "Pădurea de mangrove Neykurendhoo", en: "Neykurendhoo Mangrove Forest" },
     coords: [72.98, 6.63],
@@ -67,6 +69,7 @@ export const maldivesLifeV2: POI[] = [
   },
   {
     id: "maldives-goidhoo-wetland-life-v2",
+    parent: "MV",
     type: "wildlife",
     name: { de: "Goidhoo-Feuchtgebiet", hu: "Goidhoo-mocsárvidék", ro: "Zona umedă Goidhoo", en: "Goidhoo Wetland Area" },
     coords: [72.99, 4.88],
@@ -99,6 +102,7 @@ export const maldivesLifeV2: POI[] = [
   },
   {
     id: "maldives-kaashidhoo-wetland-life-v2",
+    parent: "MV",
     type: "wildlife",
     name: { de: "Kaashidhoo-Feuchtgebiet", hu: "Kaashidhoo-mocsárvidék", ro: "Zona umedă Kaashidhoo", en: "Kaashidhoo Wetland Area" },
     coords: [73.46, 4.96],
@@ -131,6 +135,7 @@ export const maldivesLifeV2: POI[] = [
   },
   {
     id: "maldives-mushimasmingili-mpa-life-v2",
+    parent: "MV",
     type: "wildlife",
     name: { de: "Mushimasmingili-Schutzgebiet", hu: "Mushimasmingili természetvédelmi terület", ro: "Zona protejată Mushimasmingili", en: "Mushimasmingili Marine Protected Area" },
     coords: [72.93, 3.94],
@@ -163,6 +168,7 @@ export const maldivesLifeV2: POI[] = [
   },
   {
     id: "maldives-maaya-thila-marine-life-v2",
+    parent: "MV",
     type: "wildlife",
     name: { de: "Maaya Thila Meeresschutzgebiet", hu: "Maaya Thila tengeri védett terület", ro: "Zona marină protejată Maaya Thila", en: "Maaya Thila Marine Site" },
     coords: [72.86, 4.07],
@@ -195,6 +201,7 @@ export const maldivesLifeV2: POI[] = [
   },
   {
     id: "maldives-madivaru-hammerhead-life-v2",
+    parent: "MV",
     type: "wildlife",
     name: { de: "Madivaru-Hammerhai-Gebiet", hu: "Madivaru pörölycápa-pont", ro: "Punctul de rechini ciocan Madivaru", en: "Madivaru Hammerhead Point" },
     coords: [73.01, 4.28],
@@ -227,6 +234,7 @@ export const maldivesLifeV2: POI[] = [
   },
   {
     id: "maldives-hithadhoo-reserve-life-v2",
+    parent: "MV",
     type: "wildlife",
     name: { de: "Hithadhoo-Naturschutzgebiet", hu: "Hithadhoo természetvédelmi terület", ro: "Rezervația naturală Hithadhoo", en: "Hithadhoo Nature Reserve" },
     coords: [73.45, 0.82],
@@ -259,6 +267,7 @@ export const maldivesLifeV2: POI[] = [
   },
   {
     id: "maldives-maabaidhoo-lake-life-v2",
+    parent: "MV",
     type: "wildlife",
     name: { de: "Maabaidhoo-Mangrovensee", hu: "Maabaidhoo-mangrovetó", ro: "Lacul cu mangrove Maabaidhoo", en: "Maabaidhoo Mangrove Lake" },
     coords: [73.54, 2.11],
@@ -291,6 +300,7 @@ export const maldivesLifeV2: POI[] = [
   },
   {
     id: "maldives-thanburudhoo-reef-life-v2",
+    parent: "MV",
     type: "wildlife",
     name: { de: "Thanburudhoo-Riff", hu: "Thanburudhoo-zátony", ro: "Reciful Thanburudhoo", en: "Thanburudhoo Marine Point" },
     coords: [73.61, 4.31],
@@ -323,6 +333,7 @@ export const maldivesLifeV2: POI[] = [
   },
   {
     id: "maldives-vilimale-coral-life-v2",
+    parent: "MV",
     type: "wildlife",
     name: { de: "Vilimale-Korallenschutzgebiet", hu: "Vilimale korallvédelmi terület", ro: "Sit de conservare a coralilor Vilimale", en: "Vilimale Coral Restoration Site" },
     coords: [73.48, 4.17],
@@ -355,6 +366,7 @@ export const maldivesLifeV2: POI[] = [
   },
   {
     id: "maldives-guraidhoo-corner-life-v2",
+    parent: "MV",
     type: "wildlife",
     name: { de: "Guraidhoo-Eck-Schutzgebiet", hu: "Guraidhoo Corner tengeri terület", ro: "Zona marină Guraidhoo Corner", en: "Guraidhoo Channel Marine Area" },
     coords: [73.47, 3.9],
@@ -387,6 +399,7 @@ export const maldivesLifeV2: POI[] = [
   },
   {
     id: "maldives-dhigurah-whale-shark-life-v2",
+    parent: "MV",
     type: "wildlife",
     name: { de: "Dhigurah-Walhai-Schutzgebiet", hu: "Dhigurah cetcápa-rezervátum", ro: "Sanctuarul de rechini balenă Dhigurah", en: "Dhigurah Whale Shark Sanctuary" },
     coords: [72.9, 3.51],
@@ -419,6 +432,7 @@ export const maldivesLifeV2: POI[] = [
   },
   {
     id: "maldives-kani-corner-life-v2",
+    parent: "MV",
     type: "wildlife",
     name: { de: "Kani-Eck-Meeresstelle", hu: "Kani Corner tengeri élőhely", ro: "Sit-ul marin Kani Corner", en: "Kani Corner Marine Site" },
     coords: [73.59, 5.34],
@@ -451,6 +465,7 @@ export const maldivesLifeV2: POI[] = [
   },
   {
     id: "maldives-fushifaru-thila-life-v2",
+    parent: "MV",
     type: "wildlife",
     name: { de: "Fushifaru-Thila-Schutzgebiet", hu: "Fushifaru Thila természetvédelmi terület", ro: "Rezervația marină Fushifaru Thila", en: "Fushifaru Thila Marine Reserve" },
     coords: [73.51, 5.48],
@@ -483,6 +498,7 @@ export const maldivesLifeV2: POI[] = [
   },
   {
     id: "maldives-gaafaru-reef-life-v2",
+    parent: "MV",
     type: "wildlife",
     name: { de: "Gaafaru-Riffschutzgebiet", hu: "Gaafaru-zátonyvédelmi terület", ro: "Zona de protecție a recifului Gaafaru", en: "Gaafaru Reef Protection Zone" },
     coords: [73.48, 4.73],

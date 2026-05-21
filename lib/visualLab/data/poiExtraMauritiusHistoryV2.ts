@@ -3,6 +3,7 @@ export const mauritiusHistoryV2: POI[] = [
 
   {
     id: "mauritius-aapravasi-ghat-history-v2",
+    parent: "MU",
     type: "landmark",
     name: { de: "Aapravasi Ghat", hu: "Aapravasi Ghat", ro: "Aapravasi Ghat", en: "Aapravasi Ghat" },
     coords: [57.5031, -20.1581],
@@ -35,6 +36,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-fort-adelaide-history-v2",
+    parent: "MU",
     type: "fort",
     name: { de: "Fort Adelaide", hu: "Adelaide-erőd", ro: "Fortul Adelaide", en: "Fort Adelaide" },
     coords: [57.5117, -20.1643],
@@ -67,6 +69,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-blue-penny-museum-history-v2",
+    parent: "MU",
     type: "museum",
     name: { de: "Blue Penny Museum", hu: "Blue Penny Múzeum", ro: "Muzeul Blue Penny", en: "Blue Penny Museum" },
     coords: [57.4975, -20.1598],
@@ -99,6 +102,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-postal-museum-history-v2",
+    parent: "MU",
     type: "museum",
     name: { de: "Postmuseum", hu: "Postamúzeum", ro: "Muzeul Poștei", en: "Postal Museum" },
     coords: [57.4998, -20.1585],
@@ -131,6 +135,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-place-d-armes-history-v2",
+    parent: "MU",
     type: "landmark",
     name: { de: "Place d'Armes", hu: "Place d'Armes", ro: "Place d'Armes", en: "Place d'Armes" },
     coords: [57.5011, -20.1612],
@@ -163,6 +168,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-port-louis-theatre-history-v2",
+    parent: "MU",
     type: "theater",
     name: { de: "Theater von Port Louis", hu: "Port Louis-i Színház", ro: "Teatrul din Port Louis", en: "Theatre of Port Louis" },
     coords: [57.5018, -20.1633],
@@ -195,6 +201,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-jummah-mosque-history-v2",
+    parent: "MU",
     type: "landmark",
     name: { de: "Jummah-Moschee", hu: "Jummah mecset", ro: "Moscheea Jummah", en: "Jummah Mosque" },
     coords: [57.5052, -20.1622],
@@ -227,6 +234,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-st-louis-cathedral-history-v2",
+    parent: "MU",
     type: "cathedral",
     name: { de: "St. Louis Kathedrale", hu: "Szent Lajos-székesegyház", ro: "Catedrala Sf. Ludovic", en: "St. Louis Cathedral" },
     coords: [57.5042, -20.1638],
@@ -259,6 +267,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-frederick-hendrik-museum-history-v2",
+    parent: "MU",
     type: "museum",
     name: { de: "Frederick Hendrik Museum", hu: "Frederick Hendrik Múzeum", ro: "Muzeul Frederick Hendrik", en: "Frederick Hendrik Museum" },
     coords: [57.7125, -20.3705],
@@ -291,6 +300,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-vieux-grand-port-ruins-history-v2",
+    parent: "MU",
     type: "ruins",
     name: { de: "Ruinen von Vieux Grand Port", hu: "Vieux Grand Port romjai", ro: "Ruinele din Vieux Grand Port", en: "Vieux Grand Port Ruins" },
     coords: [57.7132, -20.3712],
@@ -323,6 +333,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-chateau-labourdonnais-history-v2",
+    parent: "MU",
     type: "palace",
     name: { de: "Château de Labourdonnais", hu: "Labourdonnais kastély", ro: "Castelul Labourdonnais", en: "Chateau de Labourdonnais" },
     coords: [57.5819, -20.0672],
@@ -355,6 +366,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-eureka-house-history-v2",
+    parent: "MU",
     type: "museum",
     name: { de: "Eureka House", hu: "Eureka-ház", ro: "Casa Eureka", en: "Eureka House" },
     coords: [57.4981, -20.2181],
@@ -387,6 +399,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-balaclava-ruins-history-v2",
+    parent: "MU",
     type: "ruins",
     name: { de: "Ruinen von Balaclava", hu: "Balaclava romjai", ro: "Ruinele din Balaclava", en: "Balaclava Ruins" },
     coords: [57.5182, -20.0825],
@@ -419,6 +432,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-cap-malheureux-church-history-v2",
+    parent: "MU",
     type: "church",
     name: { de: "Kirche von Cap Malheureux", hu: "Cap Malheureux-i templom", ro: "Biserica din Cap Malheureux", en: "Cap Malheureux Church" },
     coords: [57.6135, -19.9868],
@@ -451,6 +465,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-ile-de-la-passe-history-v2",
+    parent: "MU",
     type: "fort",
     name: { de: "Ile de la Passe", hu: "Ile de la Passe", ro: "Ile de la Passe", en: "Ile de la Passe" },
     coords: [57.7675, -20.3975],
@@ -483,6 +498,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-flat-island-quarantine-history-v2",
+    parent: "MU",
     type: "ruins",
     name: { de: "Quarantänestation Flat Island", hu: "Flat Island karanténállomás", ro: "Stația de carantină Flat Island", en: "Flat Island Quarantine Station" },
     coords: [57.6528, -19.8789],
@@ -515,6 +531,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-vagrant-depot-history-v2",
+    parent: "MU",
     type: "monument",
     name: { de: "Vagrant Depot", hu: "Vagrant Depot", ro: "Depozitul Vagrant", en: "Vagrant Depot" },
     coords: [57.4895, -20.1685],
@@ -547,6 +564,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-belle-mare-sugar-mill-history-v2",
+    parent: "MU",
     type: "ruins",
     name: { de: "Zuckermühlen-Turm Belle Mare", hu: "Belle Mare cukormalom torony", ro: "Turnul morii de zahăr Belle Mare", en: "Belle Mare Sugar Mill Tower" },
     coords: [57.7655, -20.1872],
@@ -579,6 +597,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-saint-aubin-house-history-v2",
+    parent: "MU",
     type: "palace",
     name: { de: "Haus Saint Aubin", hu: "Saint Aubin-ház", ro: "Casa Saint Aubin", en: "Saint Aubin House" },
     coords: [57.5512, -20.4985],
@@ -611,6 +630,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-domaine-aubineaux-history-v2",
+    parent: "MU",
     type: "palace",
     name: { de: "Domaine des Aubineaux", hu: "Domaine des Aubineaux", ro: "Domaine des Aubineaux", en: "Domaine des Aubineaux" },
     coords: [57.5255, -20.3182],
@@ -643,6 +663,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-cavendish-bridge-history-v2",
+    parent: "MU",
     type: "bridge",
     name: { de: "Cavendish-Brücke", hu: "Cavendish-híd", ro: "Podul Cavendish", en: "Cavendish Bridge" },
     coords: [57.7012, -20.4035],
@@ -675,6 +696,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-malartic-tomb-history-v2",
+    parent: "MU",
     type: "monument",
     name: { de: "Malartic-Grabmal", hu: "Malartic-sírbolt", ro: "Mormântul Malartic", en: "Malartic Tomb" },
     coords: [57.5085, -20.1652],
@@ -707,6 +729,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-marie-reine-de-la-paix-history-v2",
+    parent: "MU",
     type: "monument",
     name: { de: "Marie Reine de la Paix", hu: "Marie Reine de la Paix", ro: "Marie Reine de la Paix", en: "Marie Reine de la Paix" },
     coords: [57.4985, -20.1715],
@@ -739,6 +762,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-pamplemousses-cemetery-history-v2",
+    parent: "MU",
     type: "landmark",
     name: { de: "Friedhof von Pamplemousses", hu: "Pamplemousses temető", ro: "Cimitirul Pamplemousses", en: "Pamplemousses Cemetery" },
     coords: [57.5762, -20.1085],
@@ -771,6 +795,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-chateau-mon-plaisir-history-v2",
+    parent: "MU",
     type: "palace",
     name: { de: "Château de Mon Plaisir", hu: "Château de Mon Plaisir", ro: "Château de Mon Plaisir", en: "Chateau de Mon Plaisir" },
     coords: [57.5775, -20.1065],
@@ -803,6 +828,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-pont-praslin-history-v2",
+    parent: "MU",
     type: "bridge",
     name: { de: "Pont Praslin", hu: "Praslin-híd", ro: "Podul Praslin", en: "Pont Praslin" },
     coords: [57.6582, -20.0955],
@@ -835,6 +861,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-matthew-flinders-monument-history-v2",
+    parent: "MU",
     type: "monument",
     name: { de: "Matthew Flinders Denkmal", hu: "Matthew Flinders-emlékmű", ro: "Monumentul Matthew Flinders", en: "Matthew Flinders Monument" },
     coords: [57.3625, -20.4855],
@@ -867,6 +894,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-laventure-du-sucre-history-v2",
+    parent: "MU",
     type: "museum",
     name: { de: "L'Aventure du Sucre", hu: "L'Aventure du Sucre", ro: "L'Aventure du Sucre", en: "L'Aventure du Sucre" },
     coords: [57.5725, -20.1012],
@@ -899,6 +927,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-vieux-grand-port-cemetery-history-v2",
+    parent: "MU",
     type: "landmark",
     name: { de: "Niederländischer Friedhof Vieux Grand Port", hu: "Vieux Grand Port holland temető", ro: "Cimitirul olandez Vieux Grand Port", en: "Vieux Grand Port Dutch Cemetery" },
     coords: [57.7112, -20.3725],
@@ -931,6 +960,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-st-geran-monument-history-v2",
+    parent: "MU",
     type: "monument",
     name: { de: "St. Géran Denkmal", hu: "St. Géran-emlékmű", ro: "Monumentul St. Géran", en: "St. Geran Monument" },
     coords: [57.6955, -20.0152],
@@ -963,6 +993,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-bras-deau-mill-history-v2",
+    parent: "MU",
     type: "ruins",
     name: { de: "Bras d'Eau Mühlenruinen", hu: "Bras d'Eau malomromok", ro: "Ruinele morii Bras d'Eau", en: "Bras d'Eau Mill Ruins" },
     coords: [57.7125, -20.1455],
@@ -995,6 +1026,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-mon-choisy-monument-history-v2",
+    parent: "MU",
     type: "monument",
     name: { de: "Mon Choisy Flugdenkmal", hu: "Mon Choisy repülési emlékmű", ro: "Monumentul aviației Mon Choisy", en: "Mon Choisy Aviation Monument" },
     coords: [57.5532, -20.0125],
@@ -1027,6 +1059,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-rose-hill-theatre-history-v2",
+    parent: "MU",
     type: "theater",
     name: { de: "Plaza Theater Rose Hill", hu: "Plaza Színház Rose Hill", ro: "Teatrul Plaza Rose Hill", en: "Plaza Theatre Rose Hill" },
     coords: [57.4725, -20.2415],
@@ -1059,6 +1092,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-gymkhana-club-history-v2",
+    parent: "MU",
     type: "university",
     name: { de: "Mauritius Gymkhana Club", hu: "Mauritius Gymkhana Club", ro: "Mauritius Gymkhana Club", en: "Mauritius Gymkhana Club" },
     coords: [57.4835, -20.2925],
@@ -1091,6 +1125,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-telfair-garden-history-v2",
+    parent: "MU",
     type: "park",
     name: { de: "Telfair-Garten", hu: "Telfair-kert", ro: "Grădina Telfair", en: "Telfair Garden" },
     coords: [57.5125, -20.5115],
@@ -1123,6 +1158,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-batelage-souillac-history-v2",
+    parent: "MU",
     type: "landmark",
     name: { de: "Le Batelage", hu: "Le Batelage", ro: "Le Batelage", en: "Le Batelage" },
     coords: [57.5135, -20.5122],
@@ -1155,6 +1191,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-st-francois-d-assise-church-history-v2",
+    parent: "MU",
     type: "church",
     name: { de: "St. François d'Assise Kirche", hu: "Szent Ferenc-templom", ro: "Biserica Sf. Francisc din Assisi", en: "St. Francois d'Assise Church" },
     coords: [57.5758, -20.1082],
@@ -1187,6 +1224,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-monument-battle-vieux-grand-port-history-v2",
+    parent: "MU",
     type: "monument",
     name: { de: "Denkmal der Schlacht von Vieux Grand Port", hu: "Grand Port-i csata emlékműve", ro: "Monumentul bătăliei de la Vieux Grand Port", en: "Battle of Vieux Grand Port Monument" },
     coords: [57.7085, -20.4082],
@@ -1219,6 +1257,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-mahebourg-waterfront-monument-history-v2",
+    parent: "MU",
     type: "monument",
     name: { de: "Mahébourg Küstendenkmal", hu: "Mahébourg-i tengerparti emlékmű", ro: "Monumentul falezei din Mahébourg", en: "Mahebourg Waterfront Monument" },
     coords: [57.7055, -20.4072],
@@ -1251,6 +1290,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-souillac-marine-cemetery-history-v2",
+    parent: "MU",
     type: "landmark",
     name: { de: "Marinefriedhof Souillac", hu: "Souillac-i tengerésztemető", ro: "Cimitirul marin din Souillac", en: "Souillac Marine Cemetery" },
     coords: [57.5185, -20.5145],
@@ -1283,6 +1323,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-albion-lighthouse-history-v2",
+    parent: "MU",
     type: "tower",
     name: { de: "Leuchtturm von Albion", hu: "Albion-világítótorony", ro: "Farul din Albion", en: "Albion Lighthouse" },
     coords: [57.3825, -20.2035],
@@ -1315,6 +1356,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-cannoniers-point-battery-history-v2",
+    parent: "MU",
     type: "fort",
     name: { de: "Batterie von Cannoniers Point", hu: "Cannoniers Point üteg", ro: "Bateria de la Cannoniers Point", en: "Battery of Cannoniers Point" },
     coords: [57.5545, -19.9925],
@@ -1347,6 +1389,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-fort-victoria-history-v2",
+    parent: "MU",
     type: "fort",
     name: { de: "Fort Victoria", hu: "Viktória-erőd", ro: "Fortul Victoria", en: "Fort Victoria" },
     coords: [57.4852, -20.1655],
@@ -1379,6 +1422,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-st-geran-wreck-site-history-v2",
+    parent: "MU",
     type: "ruins",
     name: { de: "Wrackstelle der St. Géran", hu: "St. Géran roncsterület", ro: "Locul epavei St. Géran", en: "St. Geran Wreck Site" },
     coords: [57.7125, -20.0125],
@@ -1411,6 +1455,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-paul-and-virginie-monument-history-v2",
+    parent: "MU",
     type: "monument",
     name: { de: "Paul und Virginie Denkmal", hu: "Paul és Virginie-emlékmű", ro: "Monumentul Paul și Virginie", en: "Paul and Virginie Monument" },
     coords: [57.6962, -20.0162],
@@ -1443,6 +1488,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-laventure-sucre-chimney-history-v2",
+    parent: "MU",
     type: "landmark",
     name: { de: "Beau Plan Fabrikschornstein", hu: "Beau Plan gyárkémény", ro: "Coșul fabricii Beau Plan", en: "Beau Plan Factory Chimney" },
     coords: [57.5715, -20.1005],
@@ -1475,6 +1521,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-le-reduit-history-v2",
+    parent: "MU",
     type: "palace",
     name: { de: "Le Réduit", hu: "Le Réduit", ro: "Le Réduit", en: "Le Réduit" },
     coords: [57.4952, -20.2285],
@@ -1507,6 +1554,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-royal-college-curepipe-history-v2",
+    parent: "MU",
     type: "university",
     name: { de: "Royal College Curepipe", hu: "Royal College Curepipe", ro: "Royal College Curepipe", en: "Royal College Curepipe" },
     coords: [57.5195, -20.3175],
@@ -1539,6 +1587,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-rose-hill-plaza-history-v2",
+    parent: "MU",
     type: "landmark",
     name: { de: "Plaza Komplex Rose Hill", hu: "Rose Hill-i Plaza komplexum", ro: "Complexul Plaza Rose Hill", en: "Rose Hill Plaza Complex" },
     coords: [57.4722, -20.2412],
@@ -1571,6 +1620,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-saint-antoine-mansion-history-v2",
+    parent: "MU",
     type: "palace",
     name: { de: "Herrenhaus Saint Antoine", hu: "Saint Antoine-udvarház", ro: "Conacul Saint Antoine", en: "Saint Antoine Mansion" },
     coords: [57.6525, -20.0355],
@@ -1603,6 +1653,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-curepipe-town-hall-history-v2",
+    parent: "MU",
     type: "landmark",
     name: { de: "Rathaus von Curepipe", hu: "Curepipe-i városháza", ro: "Primăria din Curepipe", en: "Curepipe Town Hall" },
     coords: [57.5212, -20.3168],
@@ -1635,6 +1686,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-belle-rive-ssr-birthplace-history-v2",
+    parent: "MU",
     type: "landmark",
     name: { de: "Geburtsort von Sir Seewoosagur Ramgoolam", hu: "Sir Seewoosagur Ramgoolam szülőhelye", ro: "Locul de naștere al lui Sir Seewoosagur Ramgoolam", en: "Birthplace of Sir Seewoosagur Ramgoolam" },
     coords: [57.6532, -20.2785],
@@ -1667,6 +1719,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-mauritius-postal-museum-building-history-v2",
+    parent: "MU",
     type: "landmark",
     name: { de: "Alte Hauptpost Port Louis", hu: "Port Louis régi főpostája", ro: "Vechea Poștă Centrală din Port Louis", en: "Old General Post Office Port Louis" },
     coords: [57.4997, -20.1584],
@@ -1699,6 +1752,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-mahebourg-waterfront-monument-v2",
+    parent: "MU",
     type: "monument",
     name: { de: "Gedenkstein der französischen Landung", hu: "Francia partraszállás emlékőve", ro: "Piatra comemorativă a debarcării franceze", en: "French Landing Commemorative Stone" },
     coords: [57.7058, -20.4078],
@@ -1731,6 +1785,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-fort-albert-history-v2",
+    parent: "MU",
     type: "fort",
     name: { de: "Fort Albert", hu: "Albert-erőd", ro: "Fortul Albert", en: "Fort Albert" },
     coords: [57.4925, -20.1485],
@@ -1763,6 +1818,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-grand-river-south-east-monument-v2",
+    parent: "MU",
     type: "monument",
     name: { de: "Lander-Denkmal Grand Rivière Sud-Est", hu: "Grand Rivière Sud-Est partraszállási emlékmű", ro: "Monumentul debarcării Grand Rivière Sud-Est", en: "Grand River South East Landing Monument" },
     coords: [57.7785, -20.2782],
@@ -1795,6 +1851,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-souillac-post-office-history-v2",
+    parent: "MU",
     type: "landmark",
     name: { de: "Alte Post Souillac", hu: "Souillac-i régi posta", ro: "Vechea poștă din Souillac", en: "Old Souillac Post Office" },
     coords: [57.5142, -20.5125],
@@ -1827,6 +1884,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-mon-plaisir-gate-history-v2",
+    parent: "MU",
     type: "monument",
     name: { de: "Mon Plaisir Gatter", hu: "Mon Plaisir kapu", ro: "Poarta Mon Plaisir", en: "Mon Plaisir Gate" },
     coords: [57.5772, -20.1068],
@@ -1859,6 +1917,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-mahebourg-naval-monument-v2",
+    parent: "MU",
     type: "monument",
     name: { de: "Naval Gedenkstätte Mahébourg", hu: "Mahébourg-i haditengerészeti emlékhely", ro: "Memorialul naval din Mahébourg", en: "Mahébourg Naval Memorial" },
     coords: [57.7065, -20.4085],
@@ -1891,6 +1950,7 @@ export const mauritiusHistoryV2: POI[] = [
   },
   {
     id: "mauritius-rose-hill-theatre-plaza-v2",
+    parent: "MU",
     type: "landmark",
     name: { de: "Rose Hill Plaza Fassade", hu: "Rose Hill-i Plaza homlokzat", ro: "Fațada Plaza Rose Hill", en: "Rose Hill Plaza Facade" },
     coords: [57.4728, -20.2418],

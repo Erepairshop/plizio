@@ -3,6 +3,7 @@ export const saintluciaEconomicV2: POI[] = [
 
   {
     id: "saintlucia-port-castries-economic-v2",
+    parent: "LC",
     type: "port",
     name: { de: "Hafen von Castries", hu: "Castries kikötője", ro: "Portul Castries", en: "Port Castries" },
     coords: [-61.001, 14.013],
@@ -35,6 +36,7 @@ export const saintluciaEconomicV2: POI[] = [
   },
   {
     id: "saintlucia-point-seraphine-economic-v2",
+    parent: "LC",
     type: "port",
     name: { de: "Point Seraphine", hu: "Point Seraphine", ro: "Point Seraphine", en: "Point Seraphine" },
     coords: [-60.996, 14.018],
@@ -67,6 +69,7 @@ export const saintluciaEconomicV2: POI[] = [
   },
   {
     id: "saintlucia-hewanorra-airport-logistics-economic-v2",
+    parent: "LC",
     type: "port",
     name: { de: "Hewanorra Flughafen Logistikzentrum", hu: "Hewanorra repülőtér logisztikai központ", ro: "Centrul Logistic Aeroportul Hewanorra", en: "Hewanorra Airport Logistics Hub" },
     coords: [-60.952, 13.733],
@@ -99,6 +102,7 @@ export const saintluciaEconomicV2: POI[] = [
   },
   {
     id: "saintlucia-vieux-fort-industrial-estate-economic-v2",
+    parent: "LC",
     type: "industry",
     name: { de: "Industriegebiet Vieux Fort", hu: "Vieux Fort ipari negyed", ro: "Zona Industrială Vieux Fort", en: "Vieux Fort Industrial Estate" },
     coords: [-60.957, 13.738],
@@ -131,6 +135,7 @@ export const saintluciaEconomicV2: POI[] = [
   },
   {
     id: "saintlucia-cul-de-sac-power-station-economic-v2",
+    parent: "LC",
     type: "factory",
     name: { de: "Kraftwerk Cul de Sac", hu: "Cul de Sac erőmű", ro: "Centrala Electrică Cul de Sac", en: "Cul de Sac Power Station" },
     coords: [-61.011, 13.985],
@@ -163,6 +168,7 @@ export const saintluciaEconomicV2: POI[] = [
   },
   {
     id: "saintlucia-st-lucia-distillers-economic-v2",
+    parent: "LC",
     type: "factory",
     name: { de: "St. Lucia Distillers", hu: "St. Lucia Lepárló", ro: "Distileria St. Lucia", en: "St. Lucia Distillers" },
     coords: [-61.025, 13.945],
@@ -195,6 +201,7 @@ export const saintluciaEconomicV2: POI[] = [
   },
   {
     id: "saintlucia-windward-leeward-brewery-economic-v2",
+    parent: "LC",
     type: "factory",
     name: { de: "Windward & Leeward Brauerei", hu: "Windward & Leeward Sörfőzde", ro: "Berăria Windward & Leeward", en: "Windward & Leeward Brewery" },
     coords: [-60.955, 13.745],
@@ -227,6 +234,7 @@ export const saintluciaEconomicV2: POI[] = [
   },
   {
     id: "saintlucia-dennery-fishing-port-economic-v2",
+    parent: "LC",
     type: "port",
     name: { de: "Fischereihafen Dennery", hu: "Dennery halászkikötő", ro: "Portul de Pescuit Dennery", en: "Dennery Fishing Port" },
     coords: [-60.888, 13.911],
@@ -259,6 +267,7 @@ export const saintluciaEconomicV2: POI[] = [
   },
   {
     id: "saintlucia-rodney-bay-marina-economic-v2",
+    parent: "LC",
     type: "port",
     name: { de: "Rodney Bay Marina", hu: "Rodney Bay Marina", ro: "Marina Rodney Bay", en: "Rodney Bay Marina" },
     coords: [-60.948, 14.074],
@@ -291,6 +300,7 @@ export const saintluciaEconomicV2: POI[] = [
   },
   {
     id: "saintlucia-vieux-fort-free-zone-economic-v2",
+    parent: "LC",
     type: "industry",
     name: { de: "Freihandelszone Vieux Fort", hu: "Vieux Fort szabadkereskedelmi zóna", ro: "Zona Liberă Vieux Fort", en: "Vieux Fort Free Zone" },
     coords: [-60.961, 13.731],
@@ -323,6 +333,7 @@ export const saintluciaEconomicV2: POI[] = [
   },
   {
     id: "saintlucia-baron-foods-factory-economic-v2",
+    parent: "LC",
     type: "factory",
     name: { de: "Baron Foods Fabrik", hu: "Baron Foods gyár", ro: "Fabrica Baron Foods", en: "Baron Foods Factory" },
     coords: [-60.963, 13.742],
@@ -355,6 +366,7 @@ export const saintluciaEconomicV2: POI[] = [
   },
   {
     id: "saintlucia-mabouya-valley-agriculture-economic-v2",
+    parent: "LC",
     type: "industry",
     name: { de: "Landwirtschaftszone Mabouya-Tal", hu: "Mabouya-völgy mezőgazdasági övezet", ro: "Zona Agricolă Valea Mabouya", en: "Mabouya Valley Agricultural Zone" },
     coords: [-60.925, 13.918],
@@ -387,6 +399,7 @@ export const saintluciaEconomicV2: POI[] = [
   },
   {
     id: "saintlucia-roseau-valley-agriculture-economic-v2",
+    parent: "LC",
     type: "industry",
     name: { de: "Landwirtschaftszone Roseau-Tal", hu: "Roseau-völgy mezőgazdasági övezet", ro: "Zona Agricolă Valea Roseau", en: "Roseau Valley Agricultural Zone" },
     coords: [-61.018, 13.952],
@@ -419,6 +432,7 @@ export const saintluciaEconomicV2: POI[] = [
   },
   {
     id: "saintlucia-fond-doux-estate-economic-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Fond Doux Anwesen", hu: "Fond Doux birtok", ro: "Domeniul Fond Doux", en: "Fond Doux Estate" },
     coords: [-61.058, 13.842],
@@ -451,6 +465,7 @@ export const saintluciaEconomicV2: POI[] = [
   },
   {
     id: "saintlucia-soufriere-geothermal-field-economic-v2",
+    parent: "LC",
     type: "industry",
     name: { de: "Geothermiefeld Soufrière", hu: "Soufrière geotermikus mező", ro: "Câmpul Geotermal Soufrière", en: "Soufriere Geothermal Field" },
     coords: [-61.045, 13.831],
@@ -483,6 +498,7 @@ export const saintluciaEconomicV2: POI[] = [
   },
   {
     id: "saintlucia-choiseul-fishing-village-center-economic-v2",
+    parent: "LC",
     type: "port",
     name: { de: "Fischereizentrum Choiseul", hu: "Choiseul halászati központ", ro: "Centrul de Pescuit Choiseul", en: "Choiseul Fishing Village Center" },
     coords: [-61.051, 13.774],
@@ -515,6 +531,7 @@ export const saintluciaEconomicV2: POI[] = [
   },
   {
     id: "saintlucia-bisee-commercial-zone-economic-v2",
+    parent: "LC",
     type: "industry",
     name: { de: "Gewerbegebiet Bisee", hu: "Bisee kereskedelmi övezet", ro: "Zona Comercială Bisee", en: "Bisee Commercial Zone" },
     coords: [-60.985, 14.032],
@@ -547,6 +564,7 @@ export const saintluciaEconomicV2: POI[] = [
   },
   {
     id: "saintlucia-union-agricultural-station-economic-v2",
+    parent: "LC",
     type: "industry",
     name: { de: "Landwirtschaftsstation Union", hu: "Union mezőgazdasági állomás", ro: "Stația Agricolă Union", en: "Union Agricultural Station" },
     coords: [-60.965, 14.041],
@@ -579,6 +597,7 @@ export const saintluciaEconomicV2: POI[] = [
   },
   {
     id: "saintlucia-buckeye-terminal-economic-v2",
+    parent: "LC",
     type: "port",
     name: { de: "Buckeye Terminal Saint Lucia", hu: "Buckeye terminál Saint Lucia", ro: "Terminalul Buckeye Saint Lucia", en: "Buckeye St. Lucia Terminal" },
     coords: [-61.018, 13.981],
@@ -611,6 +630,7 @@ export const saintluciaEconomicV2: POI[] = [
   },
   {
     id: "saintlucia-baywalk-mall-economic-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Baywalk Einkaufszentrum", hu: "Baywalk bevásárlóközpont", ro: "Centrul Comercial Baywalk", en: "Baywalk Shopping Mall" },
     coords: [-60.951, 14.068],
@@ -643,6 +663,7 @@ export const saintluciaEconomicV2: POI[] = [
   },
   {
     id: "saintlucia-jq-rodney-bay-mall-economic-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "JQ Rodney Bay Mall", hu: "JQ Rodney Bay Mall", ro: "JQ Rodney Bay Mall", en: "JQ Rodney Bay Mall" },
     coords: [-60.949, 14.069],
@@ -675,6 +696,7 @@ export const saintluciaEconomicV2: POI[] = [
   },
   {
     id: "saintlucia-vieux-fort-cargo-port-economic-v2",
+    parent: "LC",
     type: "port",
     name: { de: "Frachthafen Vieux Fort", hu: "Vieux Fort teherkikötő", ro: "Portul de Mărfuri Vieux Fort", en: "Vieux Fort Cargo Port" },
     coords: [-60.958, 13.725],
@@ -707,6 +729,7 @@ export const saintluciaEconomicV2: POI[] = [
   },
   {
     id: "saintlucia-praslin-aquaculture-site-economic-v2",
+    parent: "LC",
     type: "industry",
     name: { de: "Aquakultur-Standort Praslin", hu: "Praslin akvakultúra-helyszín", ro: "Situl de Acvacultură Praslin", en: "Praslin Aquaculture Site" },
     coords: [-60.895, 13.876],
@@ -739,6 +762,7 @@ export const saintluciaEconomicV2: POI[] = [
   },
   {
     id: "saintlucia-anse-la-raye-fish-market-economic-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Fischmarkt Anse La Raye", hu: "Anse La Raye halpiac", ro: "Piața de Pește Anse La Raye", en: "Anse La Raye Fish Market" },
     coords: [-61.042, 13.94],
@@ -771,6 +795,7 @@ export const saintluciaEconomicV2: POI[] = [
   },
   {
     id: "saintlucia-marigot-bay-economic-zone-economic-v2",
+    parent: "LC",
     type: "port",
     name: { de: "Wirtschaftszone Marigot Bay", hu: "Marigot Bay gazdasági övezet", ro: "Zona Economică Marigot Bay", en: "Marigot Bay Economic Zone" },
     coords: [-61.023, 13.964],
@@ -803,6 +828,7 @@ export const saintluciaEconomicV2: POI[] = [
   },
   {
     id: "saintlucia-cap-estate-business-hub-economic-v2",
+    parent: "LC",
     type: "industry",
     name: { de: "Geschäftszentrum Cap Estate", hu: "Cap Estate üzleti központ", ro: "Centrul de Afaceri Cap Estate", en: "Cap Estate Business Hub" },
     coords: [-60.945, 14.103],
@@ -835,6 +861,7 @@ export const saintluciaEconomicV2: POI[] = [
   },
   {
     id: "saintlucia-george-fl-charles-logistics-economic-v2",
+    parent: "LC",
     type: "port",
     name: { de: "George F.L. Charles Logistikzentrum", hu: "George F.L. Charles logisztikai központ", ro: "Centrul Logistic George F.L. Charles", en: "George F.L. Charles Logistics Hub" },
     coords: [-60.993, 14.02],
@@ -867,6 +894,7 @@ export const saintluciaEconomicV2: POI[] = [
   },
   {
     id: "saintlucia-castries-central-market-economic-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Zentralmarkt von Castries", hu: "Castries központi piaca", ro: "Piața Centrală Castries", en: "Castries Central Market" },
     coords: [-61.0, 14.011],
@@ -899,6 +927,7 @@ export const saintluciaEconomicV2: POI[] = [
   },
   {
     id: "saintlucia-slaspa-administrative-building-economic-v2",
+    parent: "LC",
     type: "industry",
     name: { de: "SLASPA Verwaltungsgebäude", hu: "SLASPA adminisztratív épület", ro: "Clădirea Administrativă SLASPA", en: "SLASPA Administrative Building" },
     coords: [-60.998, 14.015],
@@ -931,6 +960,7 @@ export const saintluciaEconomicV2: POI[] = [
   },
   {
     id: "saintlucia-choc-estate-commercial-park-economic-v2",
+    parent: "LC",
     type: "industry",
     name: { de: "Gewerbepark Choc Estate", hu: "Choc Estate kereskedelmi park", ro: "Parcul Comercial Choc Estate", en: "Choc Estate Commercial Park" },
     coords: [-60.968, 14.048],

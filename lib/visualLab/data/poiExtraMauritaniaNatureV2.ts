@@ -3,6 +3,7 @@ export const mauritaniaNatureV2: POI[] = [
 
   {
     id: "mauritania-adrar-plateau-nature-v2",
+    parent: "MR",
     type: "mountain",
     name: { de: "Adrar-Plateau", hu: "Adrar-fennsík", ro: "Podișul Adrar", en: "Adrar Plateau" },
     coords: [-13.0, 20.5],
@@ -35,6 +36,7 @@ export const mauritaniaNatureV2: POI[] = [
   },
   {
     id: "mauritania-banc-darguin-coast-nature-v2",
+    parent: "MR",
     type: "park",
     name: { de: "Banc d'Arguin Küste", hu: "Banc d'Arguin part", ro: "Coasta Banc d'Arguin", en: "Banc d'Arguin Coast" },
     coords: [-16.3, 20.2],
@@ -67,6 +69,7 @@ export const mauritaniaNatureV2: POI[] = [
   },
   {
     id: "mauritania-guelta-deli-nature-v2",
+    parent: "MR",
     type: "lake",
     name: { de: "Guelta d'Eli", hu: "Guelta d'Eli", ro: "Guelta d'Eli", en: "Guelta d'Eli" },
     coords: [-11.95, 18.53],
@@ -99,6 +102,7 @@ export const mauritaniaNatureV2: POI[] = [
   },
   {
     id: "mauritania-el-beyed-crater-nature-v2",
+    parent: "MR",
     type: "landmark",
     name: { de: "El-Beyed-Krater", hu: "El-Beyed-kráter", ro: "Craterul El-Beyed", en: "El-Beyed Crater" },
     coords: [-7.5, 18.1],
@@ -131,6 +135,7 @@ export const mauritaniaNatureV2: POI[] = [
   },
   {
     id: "mauritania-dhar-tichitt-escarpment-nature-v2",
+    parent: "MR",
     type: "mountain",
     name: { de: "Dhar Tichitt Steilstufe", hu: "Dhar Tichitt meredély", ro: "Escarpamentul Dhar Tichitt", en: "Dhar Tichitt Escarpment" },
     coords: [-9.5, 18.4],
@@ -163,6 +168,7 @@ export const mauritaniaNatureV2: POI[] = [
   },
   {
     id: "mauritania-ayoun-el-atrous-valley-nature-v2",
+    parent: "MR",
     type: "valley",
     name: { de: "Ayoun-el-Atrous Tal", hu: "Ayoun-el-Atrous völgy", ro: "Valea Ayoun el Atrous", en: "Ayoun el Atrous Valley" },
     coords: [-9.6, 16.6],
@@ -195,6 +201,7 @@ export const mauritaniaNatureV2: POI[] = [
   },
   {
     id: "mauritania-terjit-oasis-gorge-nature-v2",
+    parent: "MR",
     type: "valley",
     name: { de: "Terjit Oasen-Schlucht", hu: "Terjit oázis-kanyon", ro: "Cheile Oazei Terjit", en: "Terjit Oasis Gorge" },
     coords: [-13.0, 20.3],
@@ -227,6 +234,7 @@ export const mauritaniaNatureV2: POI[] = [
   },
   {
     id: "mauritania-cap-tafarit-nature-v2",
+    parent: "MR",
     type: "landmark",
     name: { de: "Cap Tafarit", hu: "Cap Tafarit", ro: "Cap Tafarit", en: "Cap Tafarit" },
     coords: [-16.4, 19.8],
@@ -259,6 +267,7 @@ export const mauritaniaNatureV2: POI[] = [
   },
   {
     id: "mauritania-ouane-lake-nature-v2",
+    parent: "MR",
     type: "lake",
     name: { de: "Lac Ouane", hu: "Ouane-tó", ro: "Lacul Ouane", en: "Lake Ouane" },
     coords: [-11.4, 18.3],
@@ -291,6 +300,7 @@ export const mauritaniaNatureV2: POI[] = [
   },
   {
     id: "mauritania-idjil-mountain-nature-v2",
+    parent: "MR",
     type: "mountain",
     name: { de: "Kedia d'Idjil", hu: "Kedia d'Idjil", ro: "Kedia d'Idjil", en: "Kedia d'Idjil" },
     coords: [-12.7, 22.6],
@@ -323,6 +333,7 @@ export const mauritaniaNatureV2: POI[] = [
   },
   {
     id: "mauritania-oued-el-abiadh-nature-v2",
+    parent: "MR",
     type: "river",
     name: { de: "Oued el Abiadh", hu: "Oued el Abiadh", ro: "Oued el Abiadh", en: "Oued el Abiadh" },
     coords: [-13.1, 20.4],
@@ -355,6 +366,7 @@ export const mauritaniaNatureV2: POI[] = [
   },
   {
     id: "mauritania-erg-ouarane-nature-v2",
+    parent: "MR",
     type: "landmark",
     name: { de: "Erg Ouarane", hu: "Erg Ouarane", ro: "Erg Ouarane", en: "Erg Ouarane" },
     coords: [-10.0, 19.5],
@@ -387,6 +399,7 @@ export const mauritaniaNatureV2: POI[] = [
   },
   {
     id: "mauritania-dhar-chinguetti-nature-v2",
+    parent: "MR",
     type: "mountain",
     name: { de: "Dhar Chinguetti", hu: "Dhar Chinguetti", ro: "Dhar Chinguetti", en: "Dhar Chinguetti" },
     coords: [-12.5, 20.4],
@@ -419,6 +432,7 @@ export const mauritaniaNatureV2: POI[] = [
   },
   {
     id: "mauritania-sebkha-el-driaya-nature-v2",
+    parent: "MR",
     type: "lake",
     name: { de: "Sebkha el Driaya", hu: "Sebkha el Driaya", ro: "Sebkha el Driaya", en: "Sebkha el Driaya" },
     coords: [-14.1, 21.3],
@@ -451,6 +465,7 @@ export const mauritaniaNatureV2: POI[] = [
   },
   {
     id: "mauritania-oued-el-abiod-valley-nature-v2",
+    parent: "MR",
     type: "valley",
     name: { de: "Oued el Abiod Tal", hu: "Oued el Abiod völgy", ro: "Valea Oued el Abiod", en: "Oued el Abiod Valley" },
     coords: [-13.05, 20.35],
@@ -483,6 +498,7 @@ export const mauritaniaNatureV2: POI[] = [
   },
   {
     id: "mauritania-tidjikja-gorge-nature-v2",
+    parent: "MR",
     type: "valley",
     name: { de: "Tidjikja Schlucht", hu: "Tidjikja-kanyon", ro: "Cheile Tidjikja", en: "Tidjikja Gorge" },
     coords: [-11.4, 18.6],
@@ -515,6 +531,7 @@ export const mauritaniaNatureV2: POI[] = [
   },
   {
     id: "mauritania-oued-oualata-nature-v2",
+    parent: "MR",
     type: "river",
     name: { de: "Oued Oualata", hu: "Oued Oualata", ro: "Oued Oualata", en: "Oued Oualata" },
     coords: [-7.0, 16.6],
@@ -547,6 +564,7 @@ export const mauritaniaNatureV2: POI[] = [
   },
   {
     id: "mauritania-dune-de-azefal-nature-v2",
+    parent: "MR",
     type: "landmark",
     name: { de: "Azefal-Düne", hu: "Azefal-dűne", ro: "Duna Azefal", en: "Azefal Dune" },
     coords: [-15.8, 19.4],
@@ -579,6 +597,7 @@ export const mauritaniaNatureV2: POI[] = [
   },
   {
     id: "mauritania-oued-chegga-nature-v2",
+    parent: "MR",
     type: "river",
     name: { de: "Oued Chegga", hu: "Oued Chegga", ro: "Oued Chegga", en: "Oued Chegga" },
     coords: [-6.5, 22.8],
@@ -611,6 +630,7 @@ export const mauritaniaNatureV2: POI[] = [
   },
   {
     id: "mauritania-erg-in-chich-nature-v2",
+    parent: "MR",
     type: "landmark",
     name: { de: "Erg In-Chich", hu: "Erg In-Chich", ro: "Erg In-Chich", en: "Erg In-Chich" },
     coords: [-5.0, 23.0],
@@ -643,6 +663,7 @@ export const mauritaniaNatureV2: POI[] = [
   },
   {
     id: "mauritania-tagant-gorge-nature-v2",
+    parent: "MR",
     type: "valley",
     name: { de: "Tagant Schlucht", hu: "Tagant-kanyon", ro: "Cheile Tagant", en: "Tagant Gorge" },
     coords: [-11.8, 18.2],
@@ -675,6 +696,7 @@ export const mauritaniaNatureV2: POI[] = [
   },
   {
     id: "mauritania-dhar-oawalata-nature-v2",
+    parent: "MR",
     type: "mountain",
     name: { de: "Dhar Oualata", hu: "Dhar Oualata", ro: "Dhar Oualata", en: "Dhar Oualata" },
     coords: [-7.0, 16.6],
@@ -707,6 +729,7 @@ export const mauritaniaNatureV2: POI[] = [
   },
   {
     id: "mauritania-oued-el-mya-nature-v2",
+    parent: "MR",
     type: "river",
     name: { de: "Oued el Mya", hu: "Oued el Mya", ro: "Oued el Mya", en: "Oued el Mya" },
     coords: [-13.5, 19.8],
@@ -739,6 +762,7 @@ export const mauritaniaNatureV2: POI[] = [
   },
   {
     id: "mauritania-sebkha-de-tidjikja-nature-v2",
+    parent: "MR",
     type: "lake",
     name: { de: "Sebkha de Tidjikja", hu: "Sebkha de Tidjikja", ro: "Sebkha de Tidjikja", en: "Sebkha de Tidjikja" },
     coords: [-11.5, 18.7],
@@ -771,6 +795,7 @@ export const mauritaniaNatureV2: POI[] = [
   },
   {
     id: "mauritania-erg-de-la-guelta-nature-v2",
+    parent: "MR",
     type: "landmark",
     name: { de: "Erg de la Guelta", hu: "Erg de la Guelta", ro: "Erg de la Guelta", en: "Erg de la Guelta" },
     coords: [-11.9, 18.55],
@@ -803,6 +828,7 @@ export const mauritaniaNatureV2: POI[] = [
   },
   {
     id: "mauritania-dune-de-terjit-nature-v2",
+    parent: "MR",
     type: "landmark",
     name: { de: "Terjit-Düne", hu: "Terjit-dűne", ro: "Duna Terjit", en: "Terjit Dune" },
     coords: [-12.98, 20.32],
@@ -835,6 +861,7 @@ export const mauritaniaNatureV2: POI[] = [
   },
   {
     id: "mauritania-oued-taoudenni-nature-v2",
+    parent: "MR",
     type: "river",
     name: { de: "Oued Taoudenni", hu: "Oued Taoudenni", ro: "Oued Taoudenni", en: "Oued Taoudenni" },
     coords: [-4.0, 22.5],
@@ -867,6 +894,7 @@ export const mauritaniaNatureV2: POI[] = [
   },
   {
     id: "mauritania-dune-du-cap-blanc-nature-v2",
+    parent: "MR",
     type: "landmark",
     name: { de: "Cap Blanc Düne", hu: "Cap Blanc dűne", ro: "Duna Cap Blanc", en: "Cap Blanc Dune" },
     coords: [-17.0, 20.8],

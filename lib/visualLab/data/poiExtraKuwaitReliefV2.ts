@@ -3,6 +3,7 @@ export const kuwaitReliefV2: POI[] = [
 
   {
     id: "kuwait-jal-al-zor-relief-v2",
+    parent: "KW",
     type: "mountain",
     name: { de: "Jal al-Zor Böschung", hu: "Dzsal az-Zaur-párkány", ro: "Abruptul Jal al-Zor", en: "Jal Al-Zor Escarpment" },
     coords: [47.7, 29.45],
@@ -35,6 +36,7 @@ export const kuwaitReliefV2: POI[] = [
   },
   {
     id: "kuwait-ash-shaqaya-relief-v2",
+    parent: "KW",
     type: "mountain",
     name: { de: "Ash-Shaqaya Hochebene", hu: "As-Sakája-fennsík", ro: "Podișul Ash-Shaqaya", en: "Ash-Shaqaya Plateau" },
     coords: [46.55, 29.1],
@@ -67,6 +69,7 @@ export const kuwaitReliefV2: POI[] = [
   },
   {
     id: "kuwait-umm-al-rimam-relief-v2",
+    parent: "KW",
     type: "landmark",
     name: { de: "Umm al-Rimam Senke", hu: "Umm ar-Rimam-mélyedés", ro: "Depresiunea Umm al-Rimam", en: "Umm Al-Rimam Depression" },
     coords: [47.75, 29.65],
@@ -99,6 +102,7 @@ export const kuwaitReliefV2: POI[] = [
   },
   {
     id: "kuwait-al-dibdibba-relief-v2",
+    parent: "KW",
     type: "landmark",
     name: { de: "Al-Dibdibba Ebene", hu: "Ad-Dibdibba-síkság", ro: "Câmpia Al-Dibdibba", en: "Al-Dibdibba Plain" },
     coords: [47.1, 29.4],
@@ -131,6 +135,7 @@ export const kuwaitReliefV2: POI[] = [
   },
   {
     id: "kuwait-umm-al-aish-relief-v2",
+    parent: "KW",
     type: "landmark",
     name: { de: "Umm al-Aish Senke", hu: "Umm al-Ais-mélyedés", ro: "Depresiunea Umm al-Aish", en: "Umm Al-Aish Depression" },
     coords: [47.72, 29.68],
@@ -163,6 +168,7 @@ export const kuwaitReliefV2: POI[] = [
   },
   {
     id: "kuwait-khabrat-al-awazim-relief-v2",
+    parent: "KW",
     type: "landmark",
     name: { de: "Khabrat al-Awazim Becken", hu: "Habrat al-Avázim-medence", ro: "Bazinul Khabrat al-Awazim", en: "Khabrat Al-Awazim" },
     coords: [47.5, 29.85],
@@ -195,6 +201,7 @@ export const kuwaitReliefV2: POI[] = [
   },
   {
     id: "kuwait-al-kuwaisat-relief-v2",
+    parent: "KW",
     type: "mountain",
     name: { de: "Al-Kuwaisat Plateau", hu: "Al-Kuvaiszat-fennsík", ro: "Podișul Al-Kuwaisat", en: "Al-Kuwaisat Plateau" },
     coords: [47.45, 29.55],
@@ -227,6 +234,7 @@ export const kuwaitReliefV2: POI[] = [
   },
   {
     id: "kuwait-wadi-al-rimam-relief-v2",
+    parent: "KW",
     type: "valley",
     name: { de: "Wadi al-Rimam Tal", hu: "Vádí ar-Rimam", ro: "Valea Wadi al-Rimam", en: "Wadi Al-Rimam" },
     coords: [47.65, 29.75],
@@ -259,6 +267,7 @@ export const kuwaitReliefV2: POI[] = [
   },
   {
     id: "kuwait-al-liyah-relief-v2",
+    parent: "KW",
     type: "mountain",
     name: { de: "Al-Liyah Plateau", hu: "Al-Lija-fennsík", ro: "Podișul Al-Liyah", en: "Al-Liyah Plateau" },
     coords: [47.38, 29.62],
@@ -291,6 +300,7 @@ export const kuwaitReliefV2: POI[] = [
   },
   {
     id: "kuwait-al-abaliq-relief-v2",
+    parent: "KW",
     type: "mountain",
     name: { de: "Al-Abaliq Hügel", hu: "Al-Abálik-dombság", ro: "Dealurile Al-Abaliq", en: "Al-Abaliq Hills" },
     coords: [47.55, 29.25],
@@ -323,6 +333,7 @@ export const kuwaitReliefV2: POI[] = [
   },
   {
     id: "kuwait-ad-dira-relief-v2",
+    parent: "KW",
     type: "landmark",
     name: { de: "Ad-Dira Ebene", hu: "Ad-Dira-síkság", ro: "Câmpia Ad-Dira", en: "Ad-Dira Plain" },
     coords: [47.85, 29.5],
@@ -355,6 +366,7 @@ export const kuwaitReliefV2: POI[] = [
   },
   {
     id: "kuwait-jabal-al-maseilah-relief-v2",
+    parent: "KW",
     type: "peak",
     name: { de: "Jabal al-Maseilah Hügel", hu: "Dzsebel al-Maszejla", ro: "Dealul Jabal al-Maseilah", en: "Jabal Al-Maseilah" },
     coords: [48.08, 29.2],
@@ -387,6 +399,7 @@ export const kuwaitReliefV2: POI[] = [
   },
   {
     id: "kuwait-al-hujayjah-relief-v2",
+    parent: "KW",
     type: "mountain",
     name: { de: "Al-Hujayjah Rücken", hu: "Al-Hudzsajdzsa-hát", ro: "Creasta Al-Hujayjah", en: "Al-Hujayjah Ridge" },
     coords: [47.25, 29.35],
@@ -419,6 +432,7 @@ export const kuwaitReliefV2: POI[] = [
   },
   {
     id: "kuwait-wadi-al-shagaya-relief-v2",
+    parent: "KW",
     type: "valley",
     name: { de: "Wadi al-Shagaya Tal", hu: "Vádí as-Sagája", ro: "Valea Wadi al-Shagaya", en: "Wadi Al-Shagaya" },
     coords: [46.65, 29.05],
@@ -451,6 +465,7 @@ export const kuwaitReliefV2: POI[] = [
   },
   {
     id: "kuwait-ras-al-barshah-relief-v2",
+    parent: "KW",
     type: "landmark",
     name: { de: "Ras al-Barshah Kap", hu: "Rász al-Barsa-fok", ro: "Capul Ras al-Barshah", en: "Ras Al-Barshah" },
     coords: [48.25, 29.95],
@@ -483,6 +498,7 @@ export const kuwaitReliefV2: POI[] = [
   },
   {
     id: "kuwait-umm-al-madafe-relief-v2",
+    parent: "KW",
     type: "mountain",
     name: { de: "Umm al-Madafe' Hochland", hu: "Umm al-Madafi-felföld", ro: "Podișul Umm al-Madafe'", en: "Umm Al-Madafe' Highland" },
     coords: [46.85, 29.22],
@@ -515,6 +531,7 @@ export const kuwaitReliefV2: POI[] = [
   },
   {
     id: "kuwait-khabrat-al-faras-relief-v2",
+    parent: "KW",
     type: "landmark",
     name: { de: "Khabrat al-Faras Senke", hu: "Habrat al-Farász-mélyedés", ro: "Depresiunea Khabrat al-Faras", en: "Khabrat Al-Faras" },
     coords: [47.28, 29.72],
@@ -547,6 +564,7 @@ export const kuwaitReliefV2: POI[] = [
   },
   {
     id: "kuwait-umm-negga-relief-v2",
+    parent: "KW",
     type: "landmark",
     name: { de: "Umm Negga Tiefland", hu: "Umm Negga-alföld", ro: "Câmpia joasă Umm Negga", en: "Umm Negga Lowland" },
     coords: [48.02, 30.05],
@@ -579,6 +597,7 @@ export const kuwaitReliefV2: POI[] = [
   },
   {
     id: "kuwait-khabrat-umm-al-hashani-relief-v2",
+    parent: "KW",
     type: "landmark",
     name: { de: "Khabrat Umm al-Hashani", hu: "Habrat Umm al-Hasáni", ro: "Depresiunea Umm al-Hashani", en: "Khabrat Umm Al-Hashani" },
     coords: [47.78, 29.82],
@@ -611,6 +630,7 @@ export const kuwaitReliefV2: POI[] = [
   },
   {
     id: "kuwait-wadi-umm-al-khilsan-relief-v2",
+    parent: "KW",
     type: "valley",
     name: { de: "Wadi Umm al-Khilsan", hu: "Vádí Umm al-Hilszán", ro: "Valea Wadi Umm al-Khilsan", en: "Wadi Umm Al-Khilsan" },
     coords: [46.95, 29.52],
@@ -643,6 +663,7 @@ export const kuwaitReliefV2: POI[] = [
   },
   {
     id: "kuwait-ad-dahad-relief-v2",
+    parent: "KW",
     type: "mountain",
     name: { de: "Ad-Dahad Hügel", hu: "Ad-Dahad-dombság", ro: "Dealurile Ad-Dahad", en: "Ad-Dahad Hills" },
     coords: [47.05, 29.32],
@@ -675,6 +696,7 @@ export const kuwaitReliefV2: POI[] = [
   },
   {
     id: "kuwait-khabrat-al-malha-relief-v2",
+    parent: "KW",
     type: "landmark",
     name: { de: "Khabrat al-Malha Salzpfanne", hu: "Habrat al-Malha-szikes", ro: "Salina Khabrat al-Malha", en: "Khabrat Al-Malha" },
     coords: [48.05, 28.85],
@@ -707,6 +729,7 @@ export const kuwaitReliefV2: POI[] = [
   },
   {
     id: "kuwait-al-kabrit-plain-relief-v2",
+    parent: "KW",
     type: "landmark",
     name: { de: "Al-Kabrit Ebene", hu: "Al-Kabrit-síkság", ro: "Câmpia Al-Kabrit", en: "Al-Kabrit Plain" },
     coords: [48.22, 28.75],
@@ -739,6 +762,7 @@ export const kuwaitReliefV2: POI[] = [
   },
   {
     id: "kuwait-umm-ruaba-relief-v2",
+    parent: "KW",
     type: "landmark",
     name: { de: "Umm Ruaba Dünenfeld", hu: "Umm Ruaba-dűnék", ro: "Dunele Umm Ruaba", en: "Umm Ruaba Dunes" },
     coords: [47.28, 29.15],
@@ -771,6 +795,7 @@ export const kuwaitReliefV2: POI[] = [
   },
   {
     id: "kuwait-wadi-umm-al-hayman-relief-v2",
+    parent: "KW",
     type: "valley",
     name: { de: "Wadi Umm al-Hayman", hu: "Vádí Umm al-Hajmán", ro: "Valea Wadi Umm al-Hayman", en: "Wadi Umm Al-Hayman" },
     coords: [48.12, 28.92],
@@ -803,6 +828,7 @@ export const kuwaitReliefV2: POI[] = [
   },
   {
     id: "kuwait-al-khishman-ridge-relief-v2",
+    parent: "KW",
     type: "mountain",
     name: { de: "Al-Khishman Rücken", hu: "Al-Hisman-hát", ro: "Creasta Al-Khishman", en: "Al-Khishman Ridge" },
     coords: [47.62, 29.28],
@@ -835,6 +861,7 @@ export const kuwaitReliefV2: POI[] = [
   },
   {
     id: "kuwait-jabal-maqab-relief-v2",
+    parent: "KW",
     type: "peak",
     name: { de: "Jabal Maqab Hügel", hu: "Dzsebel Makab", ro: "Dealul Jabal Maqab", en: "Jabal Maqab" },
     coords: [47.18, 29.42],
@@ -867,6 +894,7 @@ export const kuwaitReliefV2: POI[] = [
   },
   {
     id: "kuwait-khabrat-al-ushaysh-relief-v2",
+    parent: "KW",
     type: "landmark",
     name: { de: "Khabrat al-Ushaysh Senke", hu: "Habrat al-Usajs-mélyedés", ro: "Depresiunea Khabrat al-Ushaysh", en: "Khabrat Al-Ushaysh" },
     coords: [47.92, 29.78],
@@ -899,6 +927,7 @@ export const kuwaitReliefV2: POI[] = [
   },
   {
     id: "kuwait-at-tawil-ridge-relief-v2",
+    parent: "KW",
     type: "mountain",
     name: { de: "At-Tawil Rücken", hu: "At-Tavil-hát", ro: "Creasta At-Tawil", en: "At-Tawil Ridge" },
     coords: [47.85, 29.05],

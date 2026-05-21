@@ -3,6 +3,7 @@ export const marshallislandsReliefV2: POI[] = [
 
   {
     id: "marshallislands-likiep-highest-point-relief-v2",
+    parent: "MH",
     type: "peak",
     name: { de: "Likiep Höchster Punkt", hu: "Likiep legmagasabb pontja", ro: "Punctul maxim Likiep", en: "Likiep Highest Point" },
     coords: [169.142, 9.821],
@@ -35,6 +36,7 @@ export const marshallislandsReliefV2: POI[] = [
   },
   {
     id: "marshallislands-kwajalein-lagoon-relief-v2",
+    parent: "MH",
     type: "landmark",
     name: { de: "Kwajalein-Lagune", hu: "Kwajalein-lagúna", ro: "Laguna Kwajalein", en: "Kwajalein Lagoon" },
     coords: [167.442, 9.108],
@@ -67,6 +69,7 @@ export const marshallislandsReliefV2: POI[] = [
   },
   {
     id: "marshallislands-ratak-chain-relief-v2",
+    parent: "MH",
     type: "landmark",
     name: { de: "Ratak-Kette", hu: "Ratak-lánc", ro: "Lanțul Ratak", en: "Ratak Chain" },
     coords: [171.0, 10.0],
@@ -99,6 +102,7 @@ export const marshallislandsReliefV2: POI[] = [
   },
   {
     id: "marshallislands-ralik-chain-relief-v2",
+    parent: "MH",
     type: "landmark",
     name: { de: "Ralik-Kette", hu: "Ralik-lánc", ro: "Lanțul Ralik", en: "Ralik Chain" },
     coords: [167.0, 8.0],

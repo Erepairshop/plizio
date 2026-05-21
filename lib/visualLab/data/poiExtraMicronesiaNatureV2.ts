@@ -3,6 +3,7 @@ export const micronesiaNatureV2: POI[] = [
 
   {
     id: "micronesia-mount-nanlaud-nature-v2",
+    parent: "FM",
     type: "peak",
     name: { de: "Berg Nanlaud", hu: "Nanlaud-hegy", ro: "Muntele Nanlaud", en: "Mount Nanlaud" },
     coords: [158.217, 6.882],
@@ -35,6 +36,7 @@ export const micronesiaNatureV2: POI[] = [
   },
   {
     id: "micronesia-mount-winipot-nature-v2",
+    parent: "FM",
     type: "peak",
     name: { de: "Berg Winipot", hu: "Winipot-hegy", ro: "Muntele Winipot", en: "Mount Winipot" },
     coords: [151.581, 7.371],
@@ -67,6 +69,7 @@ export const micronesiaNatureV2: POI[] = [
   },
   {
     id: "micronesia-mount-matade-nature-v2",
+    parent: "FM",
     type: "peak",
     name: { de: "Berg Matade", hu: "Matade-hegy", ro: "Muntele Matade", en: "Mount Matade" },
     coords: [138.114, 9.531],
@@ -99,6 +102,7 @@ export const micronesiaNatureV2: POI[] = [
   },
   {
     id: "micronesia-kepirohi-waterfall-nature-v2",
+    parent: "FM",
     type: "park",
     name: { de: "Kepirohi-Wasserfall", hu: "Kepirohi-vízesés", ro: "Cascada Kepirohi", en: "Kepirohi Waterfall" },
     coords: [158.291, 6.842],
@@ -131,6 +135,7 @@ export const micronesiaNatureV2: POI[] = [
   },
   {
     id: "micronesia-liduduhniap-waterfalls-nature-v2",
+    parent: "FM",
     type: "park",
     name: { de: "Liduduhniap-Wasserfälle", hu: "Liduduhniap-vízesések", ro: "Cascadele Liduduhniap", en: "Liduduhniap Waterfalls" },
     coords: [158.191, 6.937],
@@ -163,6 +168,7 @@ export const micronesiaNatureV2: POI[] = [
   },
   {
     id: "micronesia-sahwar-waterfall-nature-v2",
+    parent: "FM",
     type: "park",
     name: { de: "Sahwar-Wasserfall", hu: "Sahwar-vízesés", ro: "Cascada Sahwar", en: "Sahwar Waterfall" },
     coords: [158.224, 6.871],
@@ -195,6 +201,7 @@ export const micronesiaNatureV2: POI[] = [
   },
   {
     id: "micronesia-chuuk-lagoon-nature-v2",
+    parent: "FM",
     type: "wildlife",
     name: { de: "Chuuk-Lagune", hu: "Chuuk-lagúna", ro: "Laguna Chuuk", en: "Chuuk Lagoon" },
     coords: [151.78, 7.42],
@@ -227,6 +234,7 @@ export const micronesiaNatureV2: POI[] = [
   },
   {
     id: "micronesia-woleai-atoll-nature-v2",
+    parent: "FM",
     type: "wildlife",
     name: { de: "Woleai-Atoll", hu: "Woleai-atoll", ro: "Atolul Woleai", en: "Woleai Atoll" },
     coords: [143.88, 7.35],
@@ -259,6 +267,7 @@ export const micronesiaNatureV2: POI[] = [
   },
   {
     id: "micronesia-kosrae-mangrove-forest-nature-v2",
+    parent: "FM",
     type: "forest",
     name: { de: "Kosrae-Mangrovenwald", hu: "Kosrae mangroveerdő", ro: "Pădurea de Mangrove Kosrae", en: "Kosrae Mangrove Forest" },
     coords: [163.002, 5.345],
@@ -291,6 +300,7 @@ export const micronesiaNatureV2: POI[] = [
   },
   {
     id: "micronesia-wiya-bird-cave-nature-v2",
+    parent: "FM",
     type: "wildlife",
     name: { de: "Wiya-Vogelhöhle", hu: "Wiya-madárbarlang", ro: "Peștera Wiya Bird", en: "Wiya Bird Cave" },
     coords: [163.018, 5.348],
@@ -323,6 +333,7 @@ export const micronesiaNatureV2: POI[] = [
   },
   {
     id: "micronesia-kuop-atoll-nature-v2",
+    parent: "FM",
     type: "wildlife",
     name: { de: "Kuop-Atoll", hu: "Kuop-atoll", ro: "Atolul Kuop", en: "Kuop Atoll" },
     coords: [151.912, 7.052],
@@ -355,6 +366,7 @@ export const micronesiaNatureV2: POI[] = [
   },
   {
     id: "micronesia-ngulu-atoll-nature-v2",
+    parent: "FM",
     type: "wildlife",
     name: { de: "Ngulu-Atoll", hu: "Ngulu-atoll", ro: "Atolul Ngulu", en: "Ngulu Atoll" },
     coords: [137.478, 8.452],
@@ -387,6 +399,7 @@ export const micronesiaNatureV2: POI[] = [
   },
   {
     id: "micronesia-ifalik-atoll-nature-v2",
+    parent: "FM",
     type: "wildlife",
     name: { de: "Ifalik-Atoll", hu: "Ifalik-atoll", ro: "Atolul Ifalik", en: "Ifalik Atoll" },
     coords: [144.452, 7.248],
@@ -419,6 +432,7 @@ export const micronesiaNatureV2: POI[] = [
   },
   {
     id: "micronesia-okat-river-nature-v2",
+    parent: "FM",
     type: "river",
     name: { de: "Okat-Fluss", hu: "Okat-folyó", ro: "Râul Okat", en: "Okat River" },
     coords: [162.948, 5.352],

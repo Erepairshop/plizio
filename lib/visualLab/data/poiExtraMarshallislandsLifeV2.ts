@@ -3,6 +3,7 @@ export const marshallislandsLifeV2: POI[] = [
 
   {
     id: "marshallislands-bikar-atoll-life-v2",
+    parent: "MH",
     type: "wildlife",
     name: { de: "Bikar-Atoll", hu: "Bikar-atoll", ro: "Atolul Bikar", en: "Bikar Atoll" },
     coords: [170.12, 12.25],
@@ -35,6 +36,7 @@ export const marshallislandsLifeV2: POI[] = [
   },
   {
     id: "marshallislands-bokak-atoll-life-v2",
+    parent: "MH",
     type: "wildlife",
     name: { de: "Bokak-Atoll (Taongi)", hu: "Bokak-atoll (Taongi)", ro: "Atolul Bokak (Taongi)", en: "Bokak Atoll (Taongi)" },
     coords: [168.98, 14.62],
@@ -67,6 +69,7 @@ export const marshallislandsLifeV2: POI[] = [
   },
   {
     id: "marshallislands-ailinginae-atoll-life-v2",
+    parent: "MH",
     type: "wildlife",
     name: { de: "Ailinginae-Atoll", hu: "Ailinginae-atoll", ro: "Atolul Ailinginae", en: "Ailinginae Atoll" },
     coords: [166.34, 11.13],
@@ -99,6 +102,7 @@ export const marshallislandsLifeV2: POI[] = [
   },
   {
     id: "marshallislands-jemo-island-life-v2",
+    parent: "MH",
     type: "wildlife",
     name: { de: "Jemo-Insel", hu: "Jemo-sziget", ro: "Insula Jemo", en: "Jemo Island" },
     coords: [170.27, 10.11],
@@ -131,6 +135,7 @@ export const marshallislandsLifeV2: POI[] = [
   },
   {
     id: "marshallislands-erikub-atoll-life-v2",
+    parent: "MH",
     type: "wildlife",
     name: { de: "Erikub-Atoll", hu: "Erikub-atoll", ro: "Atolul Erikub", en: "Erikub Atoll" },
     coords: [170.04, 9.14],
@@ -163,6 +168,7 @@ export const marshallislandsLifeV2: POI[] = [
   },
   {
     id: "marshallislands-taka-atoll-life-v2",
+    parent: "MH",
     type: "wildlife",
     name: { de: "Taka-Atoll", hu: "Taka-atoll", ro: "Atolul Taka", en: "Taka Atoll" },
     coords: [169.62, 11.12],
@@ -195,6 +201,7 @@ export const marshallislandsLifeV2: POI[] = [
   },
   {
     id: "marshallislands-jaluit-conservation-area-life-v2",
+    parent: "MH",
     type: "wildlife",
     name: { de: "Jaluit-Naturschutzgebiet", hu: "Jaluit Természetvédelmi Terület", ro: "Aria de Conservare Jaluit", en: "Jaluit Conservation Area" },
     coords: [169.64, 5.91],
@@ -227,6 +234,7 @@ export const marshallislandsLifeV2: POI[] = [
   },
   {
     id: "marshallislands-laura-mangroves-life-v2",
+    parent: "MH",
     type: "forest",
     name: { de: "Laura-Mangrovenwald", hu: "Laura-mangroveerdő", ro: "Mangrovele din Laura", en: "Laura Mangrove Forest" },
     coords: [171.04, 7.13],
@@ -259,6 +267,7 @@ export const marshallislandsLifeV2: POI[] = [
   },
   {
     id: "marshallislands-rongerik-wildlife-life-v2",
+    parent: "MH",
     type: "wildlife",
     name: { de: "Rongerik-Wildschutzgebiet", hu: "Rongerik Vadvédelmi Terület", ro: "Rezervația Faunistică Rongerik", en: "Rongerik Wildlife Area" },
     coords: [167.45, 11.37],
@@ -291,6 +300,7 @@ export const marshallislandsLifeV2: POI[] = [
   },
   {
     id: "marshallislands-arno-coral-gardens-life-v2",
+    parent: "MH",
     type: "wildlife",
     name: { de: "Arno-Korallengärten", hu: "Arno-korallkertek", ro: "Grădinile de Corali Arno", en: "Arno Coral Gardens" },
     coords: [171.71, 7.06],
@@ -323,6 +333,7 @@ export const marshallislandsLifeV2: POI[] = [
   },
   {
     id: "marshallislands-mili-bird-colonies-life-v2",
+    parent: "MH",
     type: "wildlife",
     name: { de: "Mili-Vogelkolonien", hu: "Mili madárkolóniák", ro: "Coloniile de Păsări din Mili", en: "Mili Bird Colonies" },
     coords: [171.93, 6.13],
@@ -355,6 +366,7 @@ export const marshallislandsLifeV2: POI[] = [
   },
   {
     id: "marshallislands-ebon-tropical-forest-life-v2",
+    parent: "MH",
     type: "forest",
     name: { de: "Ebon-Tropenwald", hu: "Ebon-trópusi erdő", ro: "Pădurea Tropicală Ebon", en: "Ebon Tropical Forest" },
     coords: [168.71, 4.58],
@@ -387,6 +399,7 @@ export const marshallislandsLifeV2: POI[] = [
   },
   {
     id: "marshallislands-bikini-marine-recovery-life-v2",
+    parent: "MH",
     type: "wildlife",
     name: { de: "Bikini-Meeresregenerationszone", hu: "Bikini tengeri regenerációs zóna", ro: "Zona de Regenerare Marină Bikini", en: "Bikini Marine Recovery Zone" },
     coords: [165.38, 11.58],
@@ -419,6 +432,7 @@ export const marshallislandsLifeV2: POI[] = [
   },
   {
     id: "marshallislands-mejit-lake-life-v2",
+    parent: "MH",
     type: "lake",
     name: { de: "Mejit-Binnensee", hu: "Mejit-szigeti tó", ro: "Lacul de pe Insula Mejit", en: "Mejit Inland Lake" },
     coords: [170.87, 10.28],
@@ -451,6 +465,7 @@ export const marshallislandsLifeV2: POI[] = [
   },
   {
     id: "marshallislands-wotje-bird-sanctuary-life-v2",
+    parent: "MH",
     type: "wildlife",
     name: { de: "Wotje-Vogelschutzgebiet", hu: "Wotje madárrezervátum", ro: "Rezervația de Păsări Wotje", en: "Wotje Bird Sanctuary" },
     coords: [170.24, 9.46],

@@ -3,6 +3,7 @@ export const saintluciaNatureV2: POI[] = [
 
   {
     id: "saintlucia-gros-piton-nature-v2",
+    parent: "LC",
     type: "peak",
     name: { de: "Gros Piton", hu: "Gros Piton", ro: "Gros Piton", en: "Gros Piton" },
     coords: [-61.0658, 13.8048],
@@ -35,6 +36,7 @@ export const saintluciaNatureV2: POI[] = [
   },
   {
     id: "saintlucia-petit-piton-nature-v2",
+    parent: "LC",
     type: "peak",
     name: { de: "Petit Piton", hu: "Petit Piton", ro: "Petit Piton", en: "Petit Piton" },
     coords: [-61.0642, 13.8365],
@@ -67,6 +69,7 @@ export const saintluciaNatureV2: POI[] = [
   },
   {
     id: "saintlucia-sulphur-springs-nature-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Sulphur Springs", hu: "Sulphur Springs", ro: "Sulphur Springs", en: "Sulphur Springs" },
     coords: [-61.0561, 13.8383],
@@ -99,6 +102,7 @@ export const saintluciaNatureV2: POI[] = [
   },
   {
     id: "saintlucia-diamond-falls-nature-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Diamond Falls", hu: "Diamond vízesés", ro: "Cascada Diamond", en: "Diamond Falls" },
     coords: [-61.0471, 13.8524],
@@ -131,6 +135,7 @@ export const saintluciaNatureV2: POI[] = [
   },
   {
     id: "saintlucia-toraille-waterfall-nature-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Toraille Wasserfall", hu: "Toraille vízesés", ro: "Cascada Toraille", en: "Toraille Waterfall" },
     coords: [-61.0412, 13.8584],
@@ -163,6 +168,7 @@ export const saintluciaNatureV2: POI[] = [
   },
   {
     id: "saintlucia-mount-gimie-nature-v2",
+    parent: "LC",
     type: "peak",
     name: { de: "Mount Gimie", hu: "Mount Gimie", ro: "Muntele Gimie", en: "Mount Gimie" },
     coords: [-61.0017, 13.8614],
@@ -195,6 +201,7 @@ export const saintluciaNatureV2: POI[] = [
   },
   {
     id: "saintlucia-piton-flore-nature-v2",
+    parent: "LC",
     type: "peak",
     name: { de: "Piton Flore", hu: "Piton Flore", ro: "Piton Flore", en: "Piton Flore" },
     coords: [-60.945, 13.945],
@@ -227,6 +234,7 @@ export const saintluciaNatureV2: POI[] = [
   },
   {
     id: "saintlucia-roseau-river-nature-v2",
+    parent: "LC",
     type: "river",
     name: { de: "Roseau River", hu: "Roseau-folyó", ro: "Râul Roseau", en: "Roseau River" },
     coords: [-61.0264, 13.9353],
@@ -259,6 +267,7 @@ export const saintluciaNatureV2: POI[] = [
   },
   {
     id: "saintlucia-anse-chastanet-reef-nature-v2",
+    parent: "LC",
     type: "wildlife",
     name: { de: "Anse Chastanet Riff", hu: "Anse Chastanet korallzátony", ro: "Reciful Anse Chastanet", en: "Anse Chastanet Reef" },
     coords: [-61.0769, 13.8642],
@@ -291,6 +300,7 @@ export const saintluciaNatureV2: POI[] = [
   },
   {
     id: "saintlucia-maria-islands-nature-v2",
+    parent: "LC",
     type: "wildlife",
     name: { de: "Maria Islands", hu: "Maria-szigetek", ro: "Insulele Maria", en: "Maria Islands" },
     coords: [-60.9294, 13.7272],
@@ -323,6 +333,7 @@ export const saintluciaNatureV2: POI[] = [
   },
   {
     id: "saintlucia-dennery-falls-nature-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Dennery Wasserfall", hu: "Dennery vízesés", ro: "Cascada Dennery", en: "Dennery Falls" },
     coords: [-60.9261, 13.9053],
@@ -355,6 +366,7 @@ export const saintluciaNatureV2: POI[] = [
   },
   {
     id: "saintlucia-soufriere-river-nature-v2",
+    parent: "LC",
     type: "river",
     name: { de: "Soufriere River", hu: "Soufriere-folyó", ro: "Râul Soufriere", en: "Soufriere River" },
     coords: [-61.0558, 13.8558],
@@ -387,6 +399,7 @@ export const saintluciaNatureV2: POI[] = [
   },
   {
     id: "saintlucia-latille-falls-nature-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Latille Wasserfall", hu: "Latille-vízesés", ro: "Cascada Latille", en: "Latille Falls" },
     coords: [-60.9142, 13.8658],
@@ -419,6 +432,7 @@ export const saintluciaNatureV2: POI[] = [
   },
   {
     id: "saintlucia-piton-mitan-nature-v2",
+    parent: "LC",
     type: "peak",
     name: { de: "Piton Mitan", hu: "Piton Mitan", ro: "Piton Mitan", en: "Piton Mitan" },
     coords: [-61.0114, 13.8953],
@@ -451,6 +465,7 @@ export const saintluciaNatureV2: POI[] = [
   },
   {
     id: "saintlucia-frigate-island-nature-v2",
+    parent: "LC",
     type: "wildlife",
     name: { de: "Frigate Island", hu: "Frigate-sziget", ro: "Insula Fregatei", en: "Frigate Island" },
     coords: [-60.8911, 13.8822],
@@ -483,6 +498,7 @@ export const saintluciaNatureV2: POI[] = [
   },
   {
     id: "saintlucia-savannes-bay-nature-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Savannes Bay", hu: "Savannes-öböl", ro: "Golful Savannes", en: "Savannes Bay" },
     coords: [-60.9153, 13.7483],
@@ -515,6 +531,7 @@ export const saintluciaNatureV2: POI[] = [
   },
   {
     id: "saintlucia-troumasse-river-nature-v2",
+    parent: "LC",
     type: "river",
     name: { de: "Troumasse River", hu: "Troumasse-folyó", ro: "Râul Troumasse", en: "Troumasse River" },
     coords: [-60.9017, 13.8267],
@@ -547,6 +564,7 @@ export const saintluciaNatureV2: POI[] = [
   },
   {
     id: "saintlucia-canaries-river-nature-v2",
+    parent: "LC",
     type: "river",
     name: { de: "Canaries River", hu: "Canaries-folyó", ro: "Râul Canaries", en: "Canaries River" },
     coords: [-61.0642, 13.9058],
@@ -579,6 +597,7 @@ export const saintluciaNatureV2: POI[] = [
   },
   {
     id: "saintlucia-cul-de-sac-valley-nature-v2",
+    parent: "LC",
     type: "valley",
     name: { de: "Cul de Sac Tal", hu: "Cul de Sac-völgy", ro: "Valea Cul de Sac", en: "Cul de Sac Valley" },
     coords: [-61.0022, 13.9781],
@@ -611,6 +630,7 @@ export const saintluciaNatureV2: POI[] = [
   },
   {
     id: "saintlucia-praslin-island-nature-v2",
+    parent: "LC",
     type: "wildlife",
     name: { de: "Praslin Island", hu: "Praslin-sziget", ro: "Insula Praslin", en: "Praslin Island" },
     coords: [-60.8942, 13.8753],
@@ -643,6 +663,7 @@ export const saintluciaNatureV2: POI[] = [
   },
   {
     id: "saintlucia-sapphire-falls-nature-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Sapphire Falls", hu: "Sapphire-vízesés", ro: "Cascada Sapphire", en: "Sapphire Falls" },
     coords: [-61.0483, 13.8444],

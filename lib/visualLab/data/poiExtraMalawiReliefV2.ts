@@ -3,6 +3,7 @@ export const malawiReliefV2: POI[] = [
 
   {
     id: "malawi-viphya-mountains-relief-v2",
+    parent: "MW",
     type: "mountain",
     name: { de: "Viphya-Berge", hu: "Viphya-hegység", ro: "Munții Viphya", en: "Viphya Mountains" },
     coords: [33.91, -11.83],
@@ -35,6 +36,7 @@ export const malawiReliefV2: POI[] = [
   },
   {
     id: "malawi-kirk-range-relief-v2",
+    parent: "MW",
     type: "mountain",
     name: { de: "Kirk-Range", hu: "Kirk-hegység", ro: "Munții Kirk", en: "Kirk Range" },
     coords: [34.5, -15.0],
@@ -67,6 +69,7 @@ export const malawiReliefV2: POI[] = [
   },
   {
     id: "malawi-misuku-hills-relief-v2",
+    parent: "MW",
     type: "peak",
     name: { de: "Misuku-Hügel", hu: "Misuku-dombság", ro: "Dealurile Misuku", en: "Misuku Hills" },
     coords: [33.5, -9.7],
@@ -99,6 +102,7 @@ export const malawiReliefV2: POI[] = [
   },
   {
     id: "malawi-dzalanyama-range-relief-v2",
+    parent: "MW",
     type: "mountain",
     name: { de: "Dzalanyama-Gebirge", hu: "Dzalanyama-hegység", ro: "Munții Dzalanyama", en: "Dzalanyama Range" },
     coords: [33.5, -14.25],
@@ -131,6 +135,7 @@ export const malawiReliefV2: POI[] = [
   },
   {
     id: "malawi-thyolo-mountain-relief-v2",
+    parent: "MW",
     type: "mountain",
     name: { de: "Thyolo-Berg", hu: "Thyolo-hegy", ro: "Muntele Thyolo", en: "Thyolo Mountain" },
     coords: [35.15, -16.08],
@@ -163,6 +168,7 @@ export const malawiReliefV2: POI[] = [
   },
   {
     id: "malawi-chiradzulu-mountain-relief-v2",
+    parent: "MW",
     type: "mountain",
     name: { de: "Chiradzulu-Berg", hu: "Chiradzulu-hegy", ro: "Muntele Chiradzulu", en: "Chiradzulu Mountain" },
     coords: [35.15, -15.68],
@@ -195,6 +201,7 @@ export const malawiReliefV2: POI[] = [
   },
   {
     id: "malawi-ndirande-mountain-relief-v2",
+    parent: "MW",
     type: "mountain",
     name: { de: "Ndirande-Berg", hu: "Ndirande-hegy", ro: "Muntele Ndirande", en: "Ndirande Mountain" },
     coords: [35.03, -15.75],
@@ -227,6 +234,7 @@ export const malawiReliefV2: POI[] = [
   },
   {
     id: "malawi-soche-mountain-relief-v2",
+    parent: "MW",
     type: "mountain",
     name: { de: "Soche-Berg", hu: "Soche-hegy", ro: "Muntele Soche", en: "Soche Mountain" },
     coords: [35.01, -15.84],
@@ -259,6 +267,7 @@ export const malawiReliefV2: POI[] = [
   },
   {
     id: "malawi-malosa-mountain-relief-v2",
+    parent: "MW",
     type: "mountain",
     name: { de: "Malosa-Berg", hu: "Malosa-hegy", ro: "Muntele Malosa", en: "Malosa Mountain" },
     coords: [35.31, -15.28],
@@ -291,6 +300,7 @@ export const malawiReliefV2: POI[] = [
   },
   {
     id: "malawi-lower-shire-valley-relief-v2",
+    parent: "MW",
     type: "valley",
     name: { de: "Unteres Shire-Tal", hu: "Alsó-Shire-völgy", ro: "Valea Shire Inferior", en: "Lower Shire Valley" },
     coords: [34.8, -16.5],
@@ -323,6 +333,7 @@ export const malawiReliefV2: POI[] = [
   },
   {
     id: "malawi-livingstonia-escarpment-relief-v2",
+    parent: "MW",
     type: "landmark",
     name: { de: "Livingstonia-Abhang", hu: "Livingstonia-meredély", ro: "Escarpa Livingstonia", en: "Livingstonia Escarpment" },
     coords: [34.1, -10.6],
@@ -355,6 +366,7 @@ export const malawiReliefV2: POI[] = [
   },
   {
     id: "malawi-chongoni-hills-relief-v2",
+    parent: "MW",
     type: "mountain",
     name: { de: "Chongoni-Hügel", hu: "Chongoni-dombság", ro: "Dealurile Chongoni", en: "Chongoni Hills" },
     coords: [34.25, -14.3],
@@ -387,6 +399,7 @@ export const malawiReliefV2: POI[] = [
   },
   {
     id: "malawi-bunda-hill-relief-v2",
+    parent: "MW",
     type: "peak",
     name: { de: "Bunda-Hügel", hu: "Bunda-hegy", ro: "Dealul Bunda", en: "Bunda Hill" },
     coords: [33.77, -14.18],
@@ -419,6 +432,7 @@ export const malawiReliefV2: POI[] = [
   },
   {
     id: "malawi-mphunzi-mountain-relief-v2",
+    parent: "MW",
     type: "mountain",
     name: { de: "Mphunzi-Berg", hu: "Mphunzi-hegy", ro: "Muntele Mphunzi", en: "Mphunzi Mountain" },
     coords: [34.15, -14.26],
@@ -451,6 +465,7 @@ export const malawiReliefV2: POI[] = [
   },
   {
     id: "malawi-chencherere-hill-relief-v2",
+    parent: "MW",
     type: "peak",
     name: { de: "Chencherere-Hügel", hu: "Chencherere-hegy", ro: "Dealul Chencherere", en: "Chencherere Hill" },
     coords: [34.25, -14.24],
@@ -483,6 +498,7 @@ export const malawiReliefV2: POI[] = [
   },
   {
     id: "malawi-dedza-salima-escarpment-relief-v2",
+    parent: "MW",
     type: "landmark",
     name: { de: "Dedza-Salima-Abhang", hu: "Dedza-Salima-meredély", ro: "Escarpa Dedza-Salima", en: "Dedza-Salima Escarpment" },
     coords: [34.5, -14.0],
@@ -515,6 +531,7 @@ export const malawiReliefV2: POI[] = [
   },
   {
     id: "malawi-phirilongwe-hill-relief-v2",
+    parent: "MW",
     type: "peak",
     name: { de: "Phirilongwe-Hügel", hu: "Phirilongwe-hegy", ro: "Dealul Phirilongwe", en: "Phirilongwe Hill" },
     coords: [34.95, -14.58],
@@ -547,6 +564,7 @@ export const malawiReliefV2: POI[] = [
   },
   {
     id: "malawi-namizimu-forest-reserve-relief-v2",
+    parent: "MW",
     type: "mountain",
     name: { de: "Namizimu-Hochland", hu: "Namizimu-felföld", ro: "Podișul Namizimu", en: "Namizimu Highlands" },
     coords: [35.3, -14.15],
@@ -579,6 +597,7 @@ export const malawiReliefV2: POI[] = [
   },
   {
     id: "malawi-mangochi-mountain-relief-v2",
+    parent: "MW",
     type: "mountain",
     name: { de: "Mangochi-Berg", hu: "Mangochi-hegy", ro: "Muntele Mangochi", en: "Mangochi Mountain" },
     coords: [35.45, -14.48],
@@ -611,6 +630,7 @@ export const malawiReliefV2: POI[] = [
   },
   {
     id: "malawi-mwadui-hill-relief-v2",
+    parent: "MW",
     type: "peak",
     name: { de: "Mwadui-Hügel", hu: "Mwadui-hegy", ro: "Dealul Mwadui", en: "Mwadui Hill" },
     coords: [33.95, -10.35],
@@ -643,6 +663,7 @@ export const malawiReliefV2: POI[] = [
   },
   {
     id: "malawi-mwenewisi-hills-relief-v2",
+    parent: "MW",
     type: "peak",
     name: { de: "Mwenewisi-Hügel", hu: "Mwenewisi-dombság", ro: "Dealurile Mwenewisi", en: "Mwenewisi Hills" },
     coords: [33.45, -9.85],
@@ -675,6 +696,7 @@ export const malawiReliefV2: POI[] = [
   },
   {
     id: "malawi-kandoli-mountains-relief-v2",
+    parent: "MW",
     type: "mountain",
     name: { de: "Kandoli-Berge", hu: "Kandoli-hegység", ro: "Munții Kandoli", en: "Kandoli Mountains" },
     coords: [34.25, -11.65],
@@ -707,6 +729,7 @@ export const malawiReliefV2: POI[] = [
   },
   {
     id: "malawi-nkhotakota-escarpment-relief-v2",
+    parent: "MW",
     type: "landmark",
     name: { de: "Nkhotakota-Abhang", hu: "Nkhotakota-meredély", ro: "Escarpa Nkhotakota", en: "Nkhotakota Escarpment" },
     coords: [34.15, -12.95],
@@ -739,6 +762,7 @@ export const malawiReliefV2: POI[] = [
   },
   {
     id: "malawi-chikala-hill-relief-v2",
+    parent: "MW",
     type: "peak",
     name: { de: "Chikala-Hügel", hu: "Chikala-hegy", ro: "Dealul Chikala", en: "Chikala Hill" },
     coords: [35.45, -15.15],

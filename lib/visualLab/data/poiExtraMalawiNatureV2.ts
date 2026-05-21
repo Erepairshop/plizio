@@ -3,6 +3,7 @@ export const malawiNatureV2: POI[] = [
 
   {
     id: "malawi-sapitwa-peak-nature-v2",
+    parent: "MW",
     type: "peak",
     name: { de: "Sapitwa", hu: "Sapitwa-csúcs", ro: "Vârful Sapitwa", en: "Sapitwa Peak" },
     coords: [35.591, -15.951],
@@ -35,6 +36,7 @@ export const malawiNatureV2: POI[] = [
   },
   {
     id: "malawi-zomba-plateau-nature-v2",
+    parent: "MW",
     type: "peak",
     name: { de: "Zomba-Plateau", hu: "Zomba-fennsík", ro: "Podișul Zomba", en: "Zomba Plateau" },
     coords: [35.302, -15.352],
@@ -67,6 +69,7 @@ export const malawiNatureV2: POI[] = [
   },
   {
     id: "malawi-shire-river-nature-v2",
+    parent: "MW",
     type: "river",
     name: { de: "Shire", hu: "Shire-folyó", ro: "Râul Shire", en: "Shire River" },
     coords: [34.782, -16.035],
@@ -99,6 +102,7 @@ export const malawiNatureV2: POI[] = [
   },
   {
     id: "malawi-lake-chilwa-nature-v2",
+    parent: "MW",
     type: "lake",
     name: { de: "Chilwa-See", hu: "Chilwa-tó", ro: "Lacul Chilwa", en: "Lake Chilwa" },
     coords: [35.701, -15.301],
@@ -131,6 +135,7 @@ export const malawiNatureV2: POI[] = [
   },
   {
     id: "malawi-manchewe-falls-nature-v2",
+    parent: "MW",
     type: "landmark",
     name: { de: "Manchewe-Wasserfälle", hu: "Manchewe-vízesés", ro: "Cascada Manchewe", en: "Manchewe Falls" },
     coords: [34.117, -10.584],
@@ -163,6 +168,7 @@ export const malawiNatureV2: POI[] = [
   },
   {
     id: "malawi-mount-mulanje-nature-v2",
+    parent: "MW",
     type: "mountain",
     name: { de: "Mulanje-Bergmassiv", hu: "Mulanje-masszívum", ro: "Masivul Mulanje", en: "Mount Mulanje" },
     coords: [35.631, -15.952],
@@ -195,6 +201,7 @@ export const malawiNatureV2: POI[] = [
   },
   {
     id: "malawi-lake-malombe-nature-v2",
+    parent: "MW",
     type: "lake",
     name: { de: "Malombe-See", hu: "Malombe-tó", ro: "Lacul Malombe", en: "Lake Malombe" },
     coords: [35.251, -14.667],
@@ -227,6 +234,7 @@ export const malawiNatureV2: POI[] = [
   },
   {
     id: "malawi-michiru-mountain-nature-v2",
+    parent: "MW",
     type: "peak",
     name: { de: "Michiru", hu: "Michiru-hegy", ro: "Muntele Michiru", en: "Michiru Mountain" },
     coords: [34.951, -15.751],
@@ -259,6 +267,7 @@ export const malawiNatureV2: POI[] = [
   },
   {
     id: "malawi-bua-river-nature-v2",
+    parent: "MW",
     type: "river",
     name: { de: "Bua", hu: "Bua-folyó", ro: "Râul Bua", en: "Bua River" },
     coords: [34.167, -12.751],
@@ -291,6 +300,7 @@ export const malawiNatureV2: POI[] = [
   },
   {
     id: "malawi-mumbo-island-nature-v2",
+    parent: "MW",
     type: "island",
     name: { de: "Mumbo", hu: "Mumbo-sziget", ro: "Insula Mumbo", en: "Mumbo Island" },
     coords: [34.751, -13.984],
@@ -323,6 +333,7 @@ export const malawiNatureV2: POI[] = [
   },
   {
     id: "malawi-dedza-mountain-nature-v2",
+    parent: "MW",
     type: "peak",
     name: { de: "Dedza-Berg", hu: "Dedza-hegy", ro: "Muntele Dedza", en: "Dedza Mountain" },
     coords: [34.334, -14.367],
@@ -355,6 +366,7 @@ export const malawiNatureV2: POI[] = [
   },
   {
     id: "malawi-kapichira-falls-nature-v2",
+    parent: "MW",
     type: "landmark",
     name: { de: "Kapichira-Wasserfälle", hu: "Kapichira-vízesés", ro: "Cascada Kapichira", en: "Kapichira Falls" },
     coords: [34.755, -15.895],
@@ -387,6 +399,7 @@ export const malawiNatureV2: POI[] = [
   },
   {
     id: "malawi-linthipe-river-nature-v2",
+    parent: "MW",
     type: "river",
     name: { de: "Linthipe", hu: "Linthipe-folyó", ro: "Râul Linthipe", en: "Linthipe River" },
     coords: [34.501, -13.884],
@@ -419,6 +432,7 @@ export const malawiNatureV2: POI[] = [
   },
   {
     id: "malawi-dwangwa-river-nature-v2",
+    parent: "MW",
     type: "river",
     name: { de: "Dwangwa", hu: "Dwangwa-folyó", ro: "Râul Dwangwa", en: "Dwangwa River" },
     coords: [34.201, -12.517],
@@ -451,6 +465,7 @@ export const malawiNatureV2: POI[] = [
   },
   {
     id: "malawi-south-rukuru-river-nature-v2",
+    parent: "MW",
     type: "river",
     name: { de: "Südlicher Rukuru", hu: "Dél-Rukuru-folyó", ro: "Râul Rukuru de Sud", en: "South Rukuru River" },
     coords: [34.167, -10.751],
@@ -483,6 +498,7 @@ export const malawiNatureV2: POI[] = [
   },
   {
     id: "malawi-ntchisi-mountain-forest-nature-v2",
+    parent: "MW",
     type: "forest",
     name: { de: "Ntchisi-Bergwald", hu: "Ntchisi-hegyi erdő", ro: "Pădurea Montană Ntchisi", en: "Ntchisi Mountain Forest" },
     coords: [34.001, -13.334],
@@ -515,6 +531,7 @@ export const malawiNatureV2: POI[] = [
   },
   {
     id: "malawi-domwe-island-nature-v2",
+    parent: "MW",
     type: "island",
     name: { de: "Domwe", hu: "Domwe-sziget", ro: "Insula Domwe", en: "Domwe Island" },
     coords: [34.817, -13.967],
@@ -547,6 +564,7 @@ export const malawiNatureV2: POI[] = [
   },
   {
     id: "malawi-kande-island-nature-v2",
+    parent: "MW",
     type: "island",
     name: { de: "Kande", hu: "Kande-sziget", ro: "Insula Kande", en: "Kande Island" },
     coords: [34.151, -11.951],
@@ -579,6 +597,7 @@ export const malawiNatureV2: POI[] = [
   },
   {
     id: "malawi-mpatamanga-gorge-nature-v2",
+    parent: "MW",
     type: "valley",
     name: { de: "Mpatamanga-Schlucht", hu: "Mpatamanga-szoros", ro: "Defileul Mpatamanga", en: "Mpatamanga Gorge" },
     coords: [34.734, -15.717],

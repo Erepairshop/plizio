@@ -3,6 +3,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
 
   {
     id: "kyrgyzstan-ak-beshim-history-v2",
+    parent: "KG",
     type: "ruins",
     name: { de: "Ak-Beshim (Suyab)", hu: "Ak-Besim (Szujab)", ro: "Ak-Beșim (Suyab)", en: "Ak-Beshim (Suyab)" },
     coords: [75.2514, 42.8105],
@@ -35,6 +36,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-navekat-ruins-history-v2",
+    parent: "KG",
     type: "ruins",
     name: { de: "Navekat (Krasnaja Retschka)", hu: "Navekat romjai", ro: "Ruinele Navekat", en: "Navekat Ruins" },
     coords: [75.0211, 42.8256],
@@ -67,6 +69,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-koshoi-korgon-history-v2",
+    parent: "KG",
     type: "castle",
     name: { de: "Festung Koschoi-Korgon", hu: "Kosoj-Korgon erőd", ro: "Cetatea Koșoi-Korgon", en: "Koshoi-Korgon Fortress" },
     coords: [75.6989, 41.1522],
@@ -99,6 +102,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-shah-fazil-history-v2",
+    parent: "KG",
     type: "monument",
     name: { de: "Schah-Fazil-Mausoleum", hu: "Sah-Fazil mauzóleum", ro: "Mausoleul Shah-Fazil", en: "Shah-Fazil Mausoleum" },
     coords: [71.6508, 41.4328],
@@ -131,6 +135,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-safid-bulan-history-v2",
+    parent: "KG",
     type: "village",
     name: { de: "Safid-Bulan", hu: "Szafid-Bulan", ro: "Safid-Bulan", en: "Safid-Bulan" },
     coords: [71.6525, 41.4394],
@@ -163,6 +168,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-shirdak-bek-history-v2",
+    parent: "KG",
     type: "ruins",
     name: { de: "Zitadelle von Schirdak-Bek", hu: "Sirdak-Bek citadella", ro: "Citadela Shirdak-Bek", en: "Shirdak-Bek Citadel" },
     coords: [75.1011, 41.3056],
@@ -195,6 +201,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-san-tash-history-v2",
+    parent: "KG",
     type: "landmark",
     name: { de: "San-Tash-Pass", hu: "Szan-Tas-hágó", ro: "Pasul San-Tash", en: "San-Tash Pass" },
     coords: [79.0347, 42.7533],
@@ -227,6 +234,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-przewalski-memorial-history-v2",
+    parent: "KG",
     type: "monument",
     name: { de: "Prschewalski-Denkmal und Grab", hu: "Przewalski-emlékmű és sír", ro: "Memorialul și mormântul lui Przewalski", en: "Przewalski Memorial and Grave" },
     coords: [78.3325, 42.5311],
@@ -259,6 +267,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-frunze-house-museum-history-v2",
+    parent: "KG",
     type: "museum",
     name: { de: "Michail-Frunze-Museum", hu: "Mihail Frunze Emlékmúzeum", ro: "Muzeul Memorial Mihail Frunze", en: "Mikhail Frunze House Museum" },
     coords: [74.6006, 42.8808],
@@ -291,6 +300,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-aravan-petroglyphs-history-v2",
+    parent: "KG",
     type: "landmark",
     name: { de: "Aravan-Petroglyphen", hu: "Aravani petroglifák", ro: "Petroglifele de la Aravan", en: "Aravan Petroglyphs" },
     coords: [72.5011, 40.5153],
@@ -323,6 +333,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-tamga-tash-history-v2",
+    parent: "KG",
     type: "landmark",
     name: { de: "Tamga-Tash-Inschriften", hu: "Tamga-Tas feliratok", ro: "Inscripțiile Tamga-Tash", en: "Tamga-Tash Inscriptions" },
     coords: [77.5344, 42.1528],
@@ -355,6 +366,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-daraut-korgon-history-v2",
+    parent: "KG",
     type: "ruins",
     name: { de: "Festung Daraut-Korgon", hu: "Daraut-Korgon erőd", ro: "Cetatea Daraut-Korgon", en: "Daraut-Korgon Fortress" },
     coords: [72.2011, 39.5511],
@@ -387,6 +399,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-gulcha-fortress-history-v2",
+    parent: "KG",
     type: "ruins",
     name: { de: "Zitadelle von Gultscha", hu: "Gulcsa citadella", ro: "Citadela Gulcha", en: "Gulcha Citadel" },
     coords: [73.4358, 40.3236],
@@ -419,6 +432,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-at-bashy-ruins-history-v2",
+    parent: "KG",
     type: "ruins",
     name: { de: "Antike Siedlung At-Baschy", hu: "At-Bası ókori település", ro: "Așezarea antică At-Bashy", en: "At-Bashy Ancient Settlement" },
     coords: [75.8011, 41.1125],
@@ -451,6 +465,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-kyzyl-tuu-heritage-history-v2",
+    parent: "KG",
     type: "village",
     name: { de: "Jurten-Dorf Kyzyl-Tuu", hu: "Kizil-Tuu jurtafalu", ro: "Satul iurtelor Kyzyl-Tuu", en: "Kyzyl-Tuu Heritage Village" },
     coords: [77.0125, 42.1458],
@@ -483,6 +498,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-orto-tokoy-kurgans-history-v2",
+    parent: "KG",
     type: "landmark",
     name: { de: "Orto-Tokoy-Grabhügel", hu: "Orto-Tokoj kurgánok", ro: "Tumulii Orto-Tokoy", en: "Orto-Tokoy Burial Mounds" },
     coords: [75.8811, 42.3325],
@@ -515,6 +531,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-ken-kol-cemetery-history-v2",
+    parent: "KG",
     type: "landmark",
     name: { de: "Ken-Kol-Gräberfeld", hu: "Ken-Kol temető", ro: "Cimitirul Ken-Kol", en: "Ken-Kol Cemetery" },
     coords: [72.2511, 42.5811],
@@ -547,6 +564,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-shamsy-valley-site-history-v2",
+    parent: "KG",
     type: "ruins",
     name: { de: "Schamsy-Tal-Ausgrabung", hu: "Samszi-völgyi lelőhely", ro: "Situl din Valea Shamsy", en: "Shamsy Valley Site" },
     coords: [75.3311, 42.6611],
@@ -579,6 +597,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-karkara-fairground-history-v2",
+    parent: "KG",
     type: "landmark",
     name: { de: "Historischer Karkara-Marktplatz", hu: "Karkara történelmi vásártér", ro: "Locul istoric al târgului Karkara", en: "Karkara Historical Fairground" },
     coords: [79.2011, 42.7511],
@@ -611,6 +630,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-barskoon-tamerlane-stone-history-v2",
+    parent: "KG",
     type: "landmark",
     name: { de: "Barskoon-Inschriftenstein", hu: "Barszkun-feliratos kő", ro: "Piatra cu inscripții Barskoon", en: "Barskoon Inscription Stone" },
     coords: [77.5811, 42.1611],
@@ -643,6 +663,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-kochkor-rock-art-history-v2",
+    parent: "KG",
     type: "landmark",
     name: { de: "Kochkor-Felsbilder", hu: "Kocskori sziklarajzok", ro: "Arta rupestră din Kochkor", en: "Kochkor Rock Art Site" },
     coords: [75.7511, 42.2111],
@@ -675,6 +696,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-suttu-bulak-history-v2",
+    parent: "KG",
     type: "ruins",
     name: { de: "Süttü-Bulak-Siedlung", hu: "Szüttü-Bulak település", ro: "Așezarea Süttü-Bulak", en: "Suttu-Bulak Archaeological Site" },
     coords: [75.2511, 42.7211],
@@ -707,6 +729,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-kara-bulak-history-v2",
+    parent: "KG",
     type: "landmark",
     name: { de: "Kara-Bulak-Nekropole", hu: "Kara-Bulak nekropolisz", ro: "Necropola Kara-Bulak", en: "Kara-Bulak Necropolis" },
     coords: [74.8511, 42.7811],
@@ -739,6 +762,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-opera-theater-bishkek-history-v2",
+    parent: "KG",
     type: "theater",
     name: { de: "Nationales Opernhaus Kirgisistan", hu: "Kirgiz Nemzeti Operaház", ro: "Opera Națională din Kârgâzstan", en: "Kyrgyz National Opera Theater" },
     coords: [74.6133, 42.8794],
@@ -771,6 +795,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-frunze-statue-bishkek-history-v2",
+    parent: "KG",
     type: "monument",
     name: { de: "Frunze-Reiterdenkmal", hu: "Frunze lovasszobra", ro: "Statuia ecvestră a lui Frunze", en: "Frunze Equestrian Monument" },
     coords: [74.5911, 42.88],
@@ -803,6 +828,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-toktogul-museum-history-v2",
+    parent: "KG",
     type: "museum",
     name: { de: "Toktogul-Satylganow-Museum", hu: "Toktogul Satilganov Múzeum", ro: "Muzeul Toktogul Satylganov", en: "Toktogul Satylganov Museum" },
     coords: [74.6067, 42.8767],
@@ -835,6 +861,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-uzgen-mausoleums-history-v2",
+    parent: "KG",
     type: "monument",
     name: { de: "Mausoleen von Öskön", hu: "Öszgöni mauzóleumok", ro: "Mausoleele din Uzgen", en: "Uzgen Mausoleums" },
     coords: [73.3008, 40.7681],
@@ -867,6 +894,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-manas-ata-mausoleum-history-v2",
+    parent: "KG",
     type: "monument",
     name: { de: "Manas-Ata-Mausoleum", hu: "Manas-Ata mauzóleum", ro: "Mausoleul Manas-Ata", en: "Manas-Ata Mausoleum" },
     coords: [72.3811, 42.5211],
@@ -899,6 +927,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-ak-terek-settlement-history-v2",
+    parent: "KG",
     type: "ruins",
     name: { de: "Ak-Terek-Siedlung", hu: "Ak-Terek település", ro: "Așezarea Ak-Terek", en: "Ak-Terek Settlement" },
     coords: [74.2511, 42.8511],
@@ -931,6 +960,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-tash-korgon-history-v2",
+    parent: "KG",
     type: "ruins",
     name: { de: "Tasch-Korgon-Ruinen", hu: "Tas-Korgon romjai", ro: "Ruinele Taș-Korgon", en: "Tash-Korgon Ruins" },
     coords: [73.5511, 39.6511],
@@ -963,6 +993,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-kulan-say-history-v2",
+    parent: "KG",
     type: "landmark",
     name: { de: "Kulan-Say-Petroglyphen", hu: "Kulan-Szaj petroglifák", ro: "Petroglifele Kulan-Say", en: "Kulan-Say Rock Art" },
     coords: [72.1511, 42.4511],
@@ -995,6 +1026,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-tegerek-saz-history-v2",
+    parent: "KG",
     type: "landmark",
     name: { de: "Tegerek-Saz-Petroglyphen", hu: "Tegerek-Szaz petroglifák", ro: "Petroglifele Tegerek-Saz", en: "Tegerek-Saz Petroglyphs" },
     coords: [76.2511, 42.1511],
@@ -1027,6 +1059,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-karasuu-art-history-v2",
+    parent: "KG",
     type: "landmark",
     name: { de: "Karasuu-Felszeichnungen", hu: "Karaszu sziklarajzok", ro: "Desenele rupestre din Karasuu", en: "Karasuu Rock Drawings" },
     coords: [72.9811, 40.7111],
@@ -1059,6 +1092,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-sokuluk-site-history-v2",
+    parent: "KG",
     type: "ruins",
     name: { de: "Mittelalterliches Sokuluk", hu: "Középkori Szokuluk", ro: "Sokulukul medieval", en: "Sokuluk Medieval Site" },
     coords: [74.3111, 42.8611],
@@ -1091,6 +1125,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-sadovoye-site-history-v2",
+    parent: "KG",
     type: "ruins",
     name: { de: "Siedlung Sadowoje", hu: "Szadovoje település", ro: "Așezarea Sadovoe", en: "Sadovoye Ancient Site" },
     coords: [74.1511, 42.8711],
@@ -1123,6 +1158,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-belovodskoye-site-history-v2",
+    parent: "KG",
     type: "ruins",
     name: { de: "Belowodskoje-Ausgrabung", hu: "Belovodszkoje lelőhely", ro: "Situl Belovodskoe", en: "Belovodskoye Archaeological Site" },
     coords: [73.9811, 42.8311],
@@ -1155,6 +1191,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-chon-dalin-history-v2",
+    parent: "KG",
     type: "ruins",
     name: { de: "Chon-Dalin-Komplex", hu: "Cson-Dalin komplexum", ro: "Complexul Chon-Dalin", en: "Chon-Dalin Archaeological Complex" },
     coords: [74.5511, 42.8811],
@@ -1187,6 +1224,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-alay-valley-camps-history-v2",
+    parent: "KG",
     type: "landmark",
     name: { de: "Historische Alai-Lagerplätze", hu: "Alaj-völgyi történelmi táborhelyek", ro: "Taberele istorice din Valea Alay", en: "Alay Valley Historical Camps" },
     coords: [73.2511, 39.6811],
@@ -1219,6 +1257,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-ketmen-tobe-kurgans-history-v2",
+    parent: "KG",
     type: "landmark",
     name: { de: "Ketmen-Töbö-Kurgane", hu: "Ketmen-Töbö kurgánok", ro: "Tumulii Ketmen-Tobe", en: "Ketmen-Tobe Burial Mounds" },
     coords: [73.1511, 41.8511],
@@ -1251,6 +1290,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-kara-darya-ruins-history-v2",
+    parent: "KG",
     type: "ruins",
     name: { de: "Kara-Darja-Ruinen", hu: "Kara-Darja romjai", ro: "Ruinele Kara-Darya", en: "Kara-Darya Ruins" },
     coords: [73.1511, 40.6511],
@@ -1283,6 +1323,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-kyzyl-adyr-history-v2",
+    parent: "KG",
     type: "castle",
     name: { de: "Zitadelle Kyzyl-Adyr", hu: "Kizil-Adir citadella", ro: "Citadela Kyzyl-Adyr", en: "Kyzyl-Adyr Citadel" },
     coords: [71.5511, 42.6111],
@@ -1315,6 +1356,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-bishkek-old-station-history-v2",
+    parent: "KG",
     type: "landmark",
     name: { de: "Alter Bahnhof Bischkek", hu: "Biskek régi vasútállomás", ro: "Gara veche din Bișkek", en: "Bishkek Old Railway Station" },
     coords: [74.6075, 42.8631],
@@ -1347,6 +1389,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-ala-too-cinema-history-v2",
+    parent: "KG",
     type: "monument",
     name: { de: "Ala-Too Kino-Gebäude", hu: "Ala-Too mozi épülete", ro: "Clădirea Cinematografului Ala-Too", en: "Ala-Too Cinema Building" },
     coords: [74.6033, 42.8772],
@@ -1379,6 +1422,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-university-old-wing-history-v2",
+    parent: "KG",
     type: "university",
     name: { de: "Altes Gebäude der Nationaluniversität", hu: "Nemzeti Egyetem régi épülete", ro: "Aripa veche a Universității Naționale", en: "National University Old Building" },
     coords: [74.5889, 42.8756],
@@ -1411,6 +1455,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-chuy-museum-history-v2",
+    parent: "KG",
     type: "museum",
     name: { de: "Regionalmuseum Tschui", hu: "Csuj-vidéki Múzeum", ro: "Muzeul Regional Chuy", en: "Chuy Regional Museum" },
     coords: [75.3111, 42.8258],
@@ -1443,6 +1488,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-talas-museum-history-v2",
+    parent: "KG",
     type: "museum",
     name: { de: "Geschichtsmuseum Talas", hu: "Talasz-vidéki Történeti Múzeum", ro: "Muzeul de Istorie din Talas", en: "Talas Regional Museum" },
     coords: [72.2311, 42.5211],
@@ -1475,6 +1521,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-naryn-museum-history-v2",
+    parent: "KG",
     type: "museum",
     name: { de: "Regionalmuseum Naryn", hu: "Narün-vidéki Történeti Múzeum", ro: "Muzeul Regional Naryn", en: "Naryn Regional Museum" },
     coords: [75.9911, 41.4286],
@@ -1507,6 +1554,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-batken-museum-history-v2",
+    parent: "KG",
     type: "museum",
     name: { de: "Geschichtsmuseum Batken", hu: "Batkeni Történeti Múzeum", ro: "Muzeul de Istorie din Batken", en: "Batken Historical Museum" },
     coords: [70.8111, 40.0611],
@@ -1539,6 +1587,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-jalal-abad-museum-history-v2",
+    parent: "KG",
     type: "museum",
     name: { de: "Regionalmuseum Dschalal-Abad", hu: "Dzsalalabad-vidéki Múzeum", ro: "Muzeul Regional Jalal-Abad", en: "Jalal-Abad Regional Museum" },
     coords: [72.9811, 40.9311],
@@ -1571,6 +1620,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
   },
   {
     id: "kyrgyzstan-razzakov-museum-history-v2",
+    parent: "KG",
     type: "museum",
     name: { de: "Iskhak-Razzakow-Museum", hu: "Iszhak Razzakov Emlékmúzeum", ro: "Muzeul Iskhak Razzakov", en: "Iskhak Razzakov Museum" },
     coords: [74.5956, 42.8731],

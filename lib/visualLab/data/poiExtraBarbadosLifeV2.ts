@@ -3,6 +3,7 @@ export const barbadosLifeV2: POI[] = [
 
   {
     id: "barbados-andromeda-botanic-gardens-life-v2",
+    parent: "BB",
     type: "park",
     name: { de: "Andromeda Botanischer Garten", hu: "Andromeda Botanikus Kert", ro: "Grădina Botanică Andromeda", en: "Andromeda Botanic Gardens" },
     coords: [-59.513, 13.212],
@@ -47,6 +48,7 @@ export const barbadosLifeV2: POI[] = [
   },
   {
     id: "barbados-huntes-gardens-life-v2",
+    parent: "BB",
     type: "park",
     name: { de: "Hunte's Gärten", hu: "Hunte's Kertek", ro: "Grădinile lui Hunte", en: "Hunte's Gardens" },
     coords: [-59.537, 13.193],
@@ -91,6 +93,7 @@ export const barbadosLifeV2: POI[] = [
   },
   {
     id: "barbados-flower-forest-life-v2",
+    parent: "BB",
     type: "park",
     name: { de: "Blumenwald Botanischer Garten", hu: "Flower Forest Botanikus Kert", ro: "Grădina Botanică Flower Forest", en: "Flower Forest Botanical Garden" },
     coords: [-59.549, 13.197],
@@ -135,6 +138,7 @@ export const barbadosLifeV2: POI[] = [
   },
   {
     id: "barbados-orchid-world-life-v2",
+    parent: "BB",
     type: "park",
     name: { de: "Orchideenwelt", hu: "Orchidea Világ", ro: "Lumea Orhideelor", en: "Orchid World" },
     coords: [-59.529, 13.151],
@@ -179,6 +183,7 @@ export const barbadosLifeV2: POI[] = [
   },
   {
     id: "barbados-barbados-wildlife-reserve-life-v2",
+    parent: "BB",
     type: "wildlife",
     name: { de: "Barbados Wildtierreservat", hu: "Barbados Vadvédelmi Rezervátum", ro: "Rezervația de Faună Barbados", en: "Barbados Wildlife Reserve" },
     coords: [-59.593, 13.262],
@@ -223,6 +228,7 @@ export const barbadosLifeV2: POI[] = [
   },
   {
     id: "barbados-graeme-hall-nature-sanctuary-life-v2",
+    parent: "BB",
     type: "wildlife",
     name: { de: "Graeme Hall Naturschutzgebiet", hu: "Graeme Hall Természetvédelmi Terület", ro: "Sanctuarul Naturii Graeme Hall", en: "Graeme Hall Nature Sanctuary" },
     coords: [-59.585, 13.072],
@@ -267,6 +273,7 @@ export const barbadosLifeV2: POI[] = [
   },
   {
     id: "barbados-folkestone-marine-park-life-v2",
+    parent: "BB",
     type: "park",
     name: { de: "Folkestone Meerespark", hu: "Folkestone Tengeri Park", ro: "Parcul Marin Folkestone", en: "Folkestone Marine Park" },
     coords: [-59.641, 13.191],
@@ -311,6 +318,7 @@ export const barbadosLifeV2: POI[] = [
   },
   {
     id: "barbados-chancery-lane-swamp-life-v2",
+    parent: "BB",
     type: "wildlife",
     name: { de: "Chancery Lane Sumpf", hu: "Chancery Lane Mocsár", ro: "Mlaștina Chancery Lane", en: "Chancery Lane Swamp" },
     coords: [-59.497, 13.067],
@@ -355,6 +363,7 @@ export const barbadosLifeV2: POI[] = [
   },
   {
     id: "barbados-turners-hall-woods-life-v2",
+    parent: "BB",
     type: "forest",
     name: { de: "Turner's Hall Wald", hu: "Turner's Hall Erdő", ro: "Pădurea Turner's Hall", en: "Turner's Hall Woods" },
     coords: [-59.577, 13.232],
@@ -399,6 +408,7 @@ export const barbadosLifeV2: POI[] = [
   },
   {
     id: "barbados-joes-river-forest-life-v2",
+    parent: "BB",
     type: "forest",
     name: { de: "Joe's River Wald", hu: "Joe's River Erdő", ro: "Pădurea Joe's River", en: "Joe's River Forest" },
     coords: [-59.525, 13.215],
@@ -443,6 +453,7 @@ export const barbadosLifeV2: POI[] = [
   },
   {
     id: "barbados-walkes-spring-life-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Walkes Spring", hu: "Walkes Spring", ro: "Walkes Spring", en: "Walkes Spring" },
     coords: [-59.57, 13.195],
@@ -487,6 +498,7 @@ export const barbadosLifeV2: POI[] = [
   },
   {
     id: "barbados-queens-park-baobab-life-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Queen's Park Baobab", hu: "Queen's Park majomkenyérfa", ro: "Baobabul din Queen's Park", en: "Queen's Park Baobab" },
     coords: [-59.608, 13.097],
@@ -531,6 +543,7 @@ export const barbadosLifeV2: POI[] = [
   },
   {
     id: "barbados-long-pond-life-v2",
+    parent: "BB",
     type: "lake",
     name: { de: "Long Pond", hu: "Long Pond", ro: "Long Pond", en: "Long Pond" },
     coords: [-59.55, 13.25],
@@ -575,6 +588,7 @@ export const barbadosLifeV2: POI[] = [
   },
   {
     id: "barbados-codrington-college-gardens-life-v2",
+    parent: "BB",
     type: "park",
     name: { de: "Codrington College Gärten", hu: "Codrington College Kertek", ro: "Grădinile Colegiului Codrington", en: "Codrington College Gardens" },
     coords: [-59.479, 13.175],
@@ -619,6 +633,7 @@ export const barbadosLifeV2: POI[] = [
   },
   {
     id: "barbados-st-nicholas-abbey-gardens-life-v2",
+    parent: "BB",
     type: "park",
     name: { de: "St. Nicholas Abbey Gärten", hu: "St. Nicholas Abbey Kertek", ro: "Grădinile St. Nicholas Abbey", en: "St. Nicholas Abbey Gardens" },
     coords: [-59.588, 13.272],
@@ -663,6 +678,7 @@ export const barbadosLifeV2: POI[] = [
   },
   {
     id: "barbados-carlisle-bay-marine-park-life-v2",
+    parent: "BB",
     type: "park",
     name: { de: "Carlisle Bay Meerespark", hu: "Carlisle-öböl Tengeri Park", ro: "Parcul Marin Carlisle Bay", en: "Carlisle Bay Marine Park" },
     coords: [-59.613, 13.088],
@@ -707,6 +723,7 @@ export const barbadosLifeV2: POI[] = [
   },
   {
     id: "barbados-paynes-bay-reefs-life-v2",
+    parent: "BB",
     type: "park",
     name: { de: "Paynes Bay Riffe", hu: "Paynes-öböl Zátonyok", ro: "Recifele Paynes Bay", en: "Paynes Bay Reefs" },
     coords: [-59.638, 13.167],
@@ -750,6 +767,7 @@ export const barbadosLifeV2: POI[] = [
   },
   {
     id: "barbados-drill-hall-beach-life-v2",
+    parent: "BB",
     type: "wildlife",
     name: { de: "Drill Hall Strand", hu: "Drill Hall Strand", ro: "Plaja Drill Hall", en: "Drill Hall Beach" },
     coords: [-59.606, 13.078],
@@ -793,6 +811,7 @@ export const barbadosLifeV2: POI[] = [
   },
   {
     id: "barbados-alleynes-bay-life-v2",
+    parent: "BB",
     type: "wildlife",
     name: { de: "Alleyne's Bay", hu: "Alleyne's-öböl", ro: "Golful Alleyne", en: "Alleyne's Bay" },
     coords: [-59.641, 13.216],
@@ -836,6 +855,7 @@ export const barbadosLifeV2: POI[] = [
   },
   {
     id: "barbados-three-houses-park-life-v2",
+    parent: "BB",
     type: "park",
     name: { de: "Three Houses Park", hu: "Three Houses Park", ro: "Parcul Three Houses", en: "Three Houses Park" },
     coords: [-59.467, 13.156],
@@ -879,6 +899,7 @@ export const barbadosLifeV2: POI[] = [
   },
   {
     id: "barbados-gun-hill-gardens-life-v2",
+    parent: "BB",
     type: "park",
     name: { de: "Gun Hill Gärten", hu: "Gun Hill Kertek", ro: "Grădinile Gun Hill", en: "Gun Hill Gardens" },
     coords: [-59.553, 13.143],
@@ -922,6 +943,7 @@ export const barbadosLifeV2: POI[] = [
   },
   {
     id: "barbados-jack-in-the-box-gully-life-v2",
+    parent: "BB",
     type: "park",
     name: { de: "Jack-in-the-Box Gully", hu: "Jack-in-the-Box Szurdok", ro: "Râpa Jack-in-the-Box", en: "Jack-in-the-Box Gully" },
     coords: [-59.59, 13.175],
@@ -965,6 +987,7 @@ export const barbadosLifeV2: POI[] = [
   },
   {
     id: "barbados-harrisons-cave-life-v2",
+    parent: "BB",
     type: "park",
     name: { de: "Harrison's Cave Öko-Park", hu: "Harrison's Cave Öko-park", ro: "Eco-Parcul Peștera Harrison", en: "Harrison's Cave Eco-Park" },
     coords: [-59.574, 13.183],
@@ -1009,6 +1032,7 @@ export const barbadosLifeV2: POI[] = [
   },
   {
     id: "barbados-harrisons-point-life-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Harrison's Point", hu: "Harrison's Point", ro: "Harrison's Point", en: "Harrison's Point" },
     coords: [-59.645, 13.315],
@@ -1053,6 +1077,7 @@ export const barbadosLifeV2: POI[] = [
   },
   {
     id: "barbados-bottom-bay-life-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Bottom Bay", hu: "Bottom-öböl", ro: "Bottom Bay", en: "Bottom Bay" },
     coords: [-59.43, 13.136],
@@ -1097,6 +1122,7 @@ export const barbadosLifeV2: POI[] = [
   },
   {
     id: "barbados-bathsheba-park-life-v2",
+    parent: "BB",
     type: "park",
     name: { de: "Bathsheba Park", hu: "Bathsheba Park", ro: "Parcul Bathsheba", en: "Bathsheba Park" },
     coords: [-59.521, 13.215],
@@ -1141,6 +1167,7 @@ export const barbadosLifeV2: POI[] = [
   },
   {
     id: "barbados-cobblers-cove-reef-life-v2",
+    parent: "BB",
     type: "park",
     name: { de: "Cobblers Cove Riff", hu: "Cobblers Cove Zátony", ro: "Reciful Cobblers Cove", en: "Cobblers Cove Reef" },
     coords: [-59.643, 13.245],

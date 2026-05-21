@@ -3,6 +3,7 @@ export const micronesiaEconomicV2: POI[] = [
 
   {
     id: "micronesia-pohnpei-port-economic-v2",
+    parent: "FM",
     type: "port",
     name: { de: "Hafen von Pohnpei", hu: "Pohnpei kikötője", ro: "Portul Pohnpei", en: "Port of Pohnpei" },
     coords: [158.2105, 6.9845],
@@ -35,6 +36,7 @@ export const micronesiaEconomicV2: POI[] = [
   },
   {
     id: "micronesia-weno-port-economic-v2",
+    parent: "FM",
     type: "port",
     name: { de: "Hafen von Weno", hu: "Weno kikötője", ro: "Portul Weno", en: "Port of Weno" },
     coords: [151.8475, 7.4498],
@@ -67,6 +69,7 @@ export const micronesiaEconomicV2: POI[] = [
   },
   {
     id: "micronesia-yap-state-port-economic-v2",
+    parent: "FM",
     type: "port",
     name: { de: "Yap Staats-Hafen", hu: "Yap állami kikötő", ro: "Portul de Stat Yap", en: "Yap State Port" },
     coords: [138.1248, 9.5102],
@@ -99,6 +102,7 @@ export const micronesiaEconomicV2: POI[] = [
   },
   {
     id: "micronesia-kosrae-port-economic-v2",
+    parent: "FM",
     type: "port",
     name: { de: "Lelu Hafen (Kosrae)", hu: "Lelu kikötő (Kosrae)", ro: "Portul Lelu (Kosrae)", en: "Lelu Port (Kosrae)" },
     coords: [163.0245, 5.3345],
@@ -131,6 +135,7 @@ export const micronesiaEconomicV2: POI[] = [
   },
   {
     id: "micronesia-pohnpei-coconut-economic-v2",
+    parent: "FM",
     type: "factory",
     name: { de: "Kokosnuss-Verarbeitungswerk", hu: "Kókuszfeldolgozó üzem", ro: "Fabrica de procesare a cocosului", en: "Coconut Processing Plant" },
     coords: [158.2112, 6.9698],
@@ -163,6 +168,7 @@ export const micronesiaEconomicV2: POI[] = [
   },
   {
     id: "micronesia-kolonia-commerce-economic-v2",
+    parent: "FM",
     type: "town",
     name: { de: "Kolonia Geschäftsviertel", hu: "Kolonia üzleti negyed", ro: "Districtul comercial Kolonia", en: "Kolonia Business District" },
     coords: [158.2085, 6.9642],
@@ -195,6 +201,7 @@ export const micronesiaEconomicV2: POI[] = [
   },
   {
     id: "micronesia-national-fisheries-economic-v2",
+    parent: "FM",
     type: "industry",
     name: { de: "Nationale Fischereigesellschaft", hu: "Nemzeti Halászati Társaság", ro: "Compania Națională de Pescuit", en: "National Fisheries Corporation" },
     coords: [158.1842, 6.9125],
@@ -227,6 +234,7 @@ export const micronesiaEconomicV2: POI[] = [
   },
   {
     id: "micronesia-colonia-commerce-yap-economic-v2",
+    parent: "FM",
     type: "town",
     name: { de: "Handelszentrum Colonia", hu: "Colonia kereskedelmi központ", ro: "Centrul comercial Colonia", en: "Colonia Commercial Center" },
     coords: [138.1272, 9.5125],
@@ -259,6 +267,7 @@ export const micronesiaEconomicV2: POI[] = [
   },
   {
     id: "micronesia-weno-commerce-economic-v2",
+    parent: "FM",
     type: "city",
     name: { de: "Weno Geschäftszentrum", hu: "Weno üzleti központ", ro: "Centrul de afaceri Weno", en: "Weno Business Center" },
     coords: [151.8462, 7.4472],
@@ -291,6 +300,7 @@ export const micronesiaEconomicV2: POI[] = [
   },
   {
     id: "micronesia-tofol-center-economic-v2",
+    parent: "FM",
     type: "town",
     name: { de: "Tofol Wirtschaftszentrum", hu: "Tofol gazdasági központ", ro: "Centrul economic Tofol", en: "Tofol Economic Hub" },
     coords: [163.0035, 5.3282],

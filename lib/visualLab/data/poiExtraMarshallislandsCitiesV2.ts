@@ -3,6 +3,7 @@ export const marshallislandsCitiesV2: POI[] = [
 
   {
     id: "marshallislands-majuro-cities-v2",
+    parent: "MH",
     type: "capital",
     name: { de: "Majuro", hu: "Majuro", ro: "Majuro", en: "Majuro" },
     coords: [171.3582, 7.1122],
@@ -35,6 +36,7 @@ export const marshallislandsCitiesV2: POI[] = [
   },
   {
     id: "marshallislands-ebeye-cities-v2",
+    parent: "MH",
     type: "city",
     name: { de: "Ebeye", hu: "Ebeye", ro: "Ebeye", en: "Ebeye" },
     coords: [167.7408, 8.7781],
@@ -67,6 +69,7 @@ export const marshallislandsCitiesV2: POI[] = [
   },
   {
     id: "marshallislands-ajeltake-cities-v2",
+    parent: "MH",
     type: "town",
     name: { de: "Ajeltake", hu: "Ajeltake", ro: "Ajeltake", en: "Ajeltake" },
     coords: [171.1394, 7.0522],
@@ -99,6 +102,7 @@ export const marshallislandsCitiesV2: POI[] = [
   },
   {
     id: "marshallislands-laura-cities-v2",
+    parent: "MH",
     type: "town",
     name: { de: "Laura", hu: "Laura", ro: "Laura", en: "Laura" },
     coords: [171.0331, 7.1364],
@@ -131,6 +135,7 @@ export const marshallislandsCitiesV2: POI[] = [
   },
   {
     id: "marshallislands-jabor-cities-v2",
+    parent: "MH",
     type: "town",
     name: { de: "Jabor", hu: "Jabor", ro: "Jabor", en: "Jabor" },
     coords: [169.6453, 5.9175],
@@ -163,6 +168,7 @@ export const marshallislandsCitiesV2: POI[] = [
   },
   {
     id: "marshallislands-wotje-cities-v2",
+    parent: "MH",
     type: "town",
     name: { de: "Wotje", hu: "Wotje", ro: "Wotje", en: "Wotje" },
     coords: [170.2408, 9.4544],
@@ -195,6 +201,7 @@ export const marshallislandsCitiesV2: POI[] = [
   },
   {
     id: "marshallislands-enewetak-cities-v2",
+    parent: "MH",
     type: "village",
     name: { de: "Enewetak", hu: "Enewetak", ro: "Enewetak", en: "Enewetak" },
     coords: [162.3333, 11.3414],
@@ -227,6 +234,7 @@ export const marshallislandsCitiesV2: POI[] = [
   },
   {
     id: "marshallislands-kili-cities-v2",
+    parent: "MH",
     type: "village",
     name: { de: "Kili", hu: "Kili", ro: "Kili", en: "Kili" },
     coords: [169.1167, 5.6417],
@@ -259,6 +267,7 @@ export const marshallislandsCitiesV2: POI[] = [
   },
   {
     id: "marshallislands-namu-cities-v2",
+    parent: "MH",
     type: "village",
     name: { de: "Namu", hu: "Namu", ro: "Namu", en: "Namu" },
     coords: [168.1667, 8.2167],
@@ -291,6 +300,7 @@ export const marshallislandsCitiesV2: POI[] = [
   },
   {
     id: "marshallislands-mejit-cities-v2",
+    parent: "MH",
     type: "village",
     name: { de: "Mejit", hu: "Mejit", ro: "Mejit", en: "Mejit" },
     coords: [170.8667, 10.2833],
@@ -323,6 +333,7 @@ export const marshallislandsCitiesV2: POI[] = [
   },
   {
     id: "marshallislands-woja-cities-v2",
+    parent: "MH",
     type: "village",
     name: { de: "Woja", hu: "Woja", ro: "Woja", en: "Woja" },
     coords: [168.8167, 7.4167],
@@ -355,6 +366,7 @@ export const marshallislandsCitiesV2: POI[] = [
   },
   {
     id: "marshallislands-aur-cities-v2",
+    parent: "MH",
     type: "village",
     name: { de: "Aur", hu: "Aur", ro: "Aur", en: "Aur" },
     coords: [171.1, 8.2667],
@@ -387,6 +399,7 @@ export const marshallislandsCitiesV2: POI[] = [
   },
   {
     id: "marshallislands-mili-cities-v2",
+    parent: "MH",
     type: "village",
     name: { de: "Mili", hu: "Mili", ro: "Mili", en: "Mili" },
     coords: [171.7333, 6.0833],
@@ -419,6 +432,7 @@ export const marshallislandsCitiesV2: POI[] = [
   },
   {
     id: "marshallislands-maloelap-cities-v2",
+    parent: "MH",
     type: "village",
     name: { de: "Maloelap", hu: "Maloelap", ro: "Maloelap", en: "Maloelap" },
     coords: [171.1667, 8.7],
@@ -451,6 +465,7 @@ export const marshallislandsCitiesV2: POI[] = [
   },
   {
     id: "marshallislands-arno-cities-v2",
+    parent: "MH",
     type: "village",
     name: { de: "Arno", hu: "Arno", ro: "Arno", en: "Arno" },
     coords: [171.7167, 7.0667],

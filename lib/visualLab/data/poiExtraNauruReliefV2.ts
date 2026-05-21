@@ -3,6 +3,7 @@ export const nauruReliefV2: POI[] = [
 
   {
     id: "nauru-anibare-escarpment-relief-v2",
+    parent: "NR",
     type: "landmark",
     name: { de: "Anibare-Abhang", hu: "Anibare-sziklafal", ro: "Escarpamentul Anibare", en: "Anibare Escarpment" },
     coords: [166.948, -0.535],
@@ -35,6 +36,7 @@ export const nauruReliefV2: POI[] = [
   },
   {
     id: "nauru-buada-basin-relief-v2",
+    parent: "NR",
     type: "valley",
     name: { de: "Buada-Becken", hu: "Buada-medence", ro: "Bazinul Buada", en: "Buada Basin" },
     coords: [166.921, -0.536],
@@ -67,6 +69,7 @@ export const nauruReliefV2: POI[] = [
   },
   {
     id: "nauru-western-slopes-relief-v2",
+    parent: "NR",
     type: "mountain",
     name: { de: "Westliche Hänge", hu: "Nyugati lejtők", ro: "Pantele Vestice", en: "Western Slopes" },
     coords: [166.912, -0.528],
@@ -99,6 +102,7 @@ export const nauruReliefV2: POI[] = [
   },
   {
     id: "nauru-northern-uplands-relief-v2",
+    parent: "NR",
     type: "mountain",
     name: { de: "Nördliches Hochland", hu: "Északi-fennsíkvidék", ro: "Ținuturile Înalte de Nord", en: "Northern Uplands" },
     coords: [166.932, -0.512],
@@ -131,6 +135,7 @@ export const nauruReliefV2: POI[] = [
   },
   {
     id: "nauru-meneng-terrace-relief-v2",
+    parent: "NR",
     type: "landmark",
     name: { de: "Meneng-Terrasse", hu: "Meneng-terasz", ro: "Terasa Meneng", en: "Meneng Terrace" },
     coords: [166.935, -0.545],
@@ -163,6 +168,7 @@ export const nauruReliefV2: POI[] = [
   },
   {
     id: "nauru-phosphate-pinnacles-relief-v2",
+    parent: "NR",
     type: "landmark",
     name: { de: "Phosphat-Zinnentürme", hu: "Foszfát-sziklatűk", ro: "Pinnacles de Fosfat", en: "Phosphate Pinnacles" },
     coords: [166.935, -0.53],
@@ -195,6 +201,7 @@ export const nauruReliefV2: POI[] = [
   },
   {
     id: "nauru-eastern-rim-relief-v2",
+    parent: "NR",
     type: "landmark",
     name: { de: "Östlicher Plateaurand", hu: "Keleti fennsíkperem", ro: "Marginea Estică a Podișului", en: "Eastern Plateau Rim" },
     coords: [166.95, -0.525],
@@ -227,6 +234,7 @@ export const nauruReliefV2: POI[] = [
   },
   {
     id: "nauru-interior-lowland-relief-v2",
+    parent: "NR",
     type: "valley",
     name: { de: "Inneres Tiefland", hu: "Belső mélyföld", ro: "Depresiunea Interioară", en: "Interior Lowland" },
     coords: [166.92, -0.54],

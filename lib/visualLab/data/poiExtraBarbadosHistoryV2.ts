@@ -3,6 +3,7 @@ export const barbadosHistoryV2: POI[] = [
 
   {
     id: "barbados-historic-bridgetown-history-v2",
+    parent: "BB",
     type: "capital",
     name: { de: "Historisches Bridgetown", hu: "Történelmi Bridgetown", ro: "Centrul Istoric Bridgetown", en: "Historic Bridgetown" },
     coords: [-59.6125, 13.0975],
@@ -47,6 +48,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-st-anns-garrison-history-v2",
+    parent: "BB",
     type: "monument",
     name: { de: "St. Ann's Garrison", hu: "Szent Anna helyőrség", ro: "Garnizoana Sfânta Ana", en: "St. Ann's Garrison" },
     coords: [-59.6058, 13.0783],
@@ -91,6 +93,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-morgan-lewis-windmill-history-v2",
+    parent: "BB",
     type: "industry",
     name: { de: "Morgan Lewis Windmühle", hu: "Morgan Lewis szélmalom", ro: "Moara de vânt Morgan Lewis", en: "Morgan Lewis Windmill" },
     coords: [-59.575, 13.2683],
@@ -135,6 +138,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-gun-hill-signal-station-history-v2",
+    parent: "BB",
     type: "tower",
     name: { de: "Gun Hill Signalstation", hu: "Gun Hill jelzőállomás", ro: "Stația de semnalizare Gun Hill", en: "Gun Hill Signal Station" },
     coords: [-59.5544, 13.1411],
@@ -179,6 +183,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-codrington-college-history-v2",
+    parent: "BB",
     type: "university",
     name: { de: "Codrington College", hu: "Codrington Főiskola", ro: "Colegiul Codrington", en: "Codrington College" },
     coords: [-59.478, 13.175],
@@ -223,6 +228,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-george-washington-house-history-v2",
+    parent: "BB",
     type: "museum",
     name: { de: "George Washington Haus", hu: "George Washington ház", ro: "Casa George Washington", en: "George Washington House" },
     coords: [-59.605, 13.0806],
@@ -267,6 +273,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-nidhe-israel-synagogue-history-v2",
+    parent: "BB",
     type: "church",
     name: { de: "Nidhe Israel Synagoge", hu: "Nidhe Israel zsinagóga", ro: "Sinagoga Nidhe Israel", en: "Nidhe Israel Synagogue" },
     coords: [-59.615, 13.1006],
@@ -311,6 +318,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-parliament-buildings-history-v2",
+    parent: "BB",
     type: "monument",
     name: { de: "Parlamentsgebäude", hu: "Parlamenti épületek", ro: "Clădirile Parlamentului", en: "Parliament Buildings" },
     coords: [-59.6136, 13.097],
@@ -355,6 +363,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-farley-hill-national-park-history-v2",
+    parent: "BB",
     type: "ruins",
     name: { de: "Farley Hill Nationalpark", hu: "Farley Hill Nemzeti Park", ro: "Parcul Național Farley Hill", en: "Farley Hill National Park" },
     coords: [-59.5858, 13.2536],
@@ -399,6 +408,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-sunbury-plantation-house-history-v2",
+    parent: "BB",
     type: "museum",
     name: { de: "Sunbury Plantagenhaus", hu: "Sunbury ültetvényes ház", ro: "Casa de plantație Sunbury", en: "Sunbury Plantation House" },
     coords: [-59.4758, 13.1114],
@@ -443,6 +453,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-barbados-museum-history-v2",
+    parent: "BB",
     type: "museum",
     name: { de: "Barbados Museum", hu: "Barbadosi Múzeum", ro: "Muzeul din Barbados", en: "Barbados Museum" },
     coords: [-59.6047, 13.0803],
@@ -487,6 +498,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-speightstown-historic-district-history-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Speightstown Historisches Viertel", hu: "Speightstown történelmi negyed", ro: "Districtul istoric Speightstown", en: "Speightstown Historic District" },
     coords: [-59.641, 13.25],
@@ -531,6 +543,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-holetown-monument-history-v2",
+    parent: "BB",
     type: "monument",
     name: { de: "Holetown Monument", hu: "Holetowni emlékmű", ro: "Monumentul Holetown", en: "Holetown Monument" },
     coords: [-59.638, 13.1864],
@@ -575,6 +588,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-bussa-emancipation-statue-history-v2",
+    parent: "BB",
     type: "monument",
     name: { de: "Bussa Emanzipationsstatue", hu: "Bussa felszabadítási szobor", ro: "Statuia Emancipării Bussa", en: "Bussa Emancipation Statue" },
     coords: [-59.5786, 13.1164],
@@ -619,6 +633,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-sam-lords-castle-history-v2",
+    parent: "BB",
     type: "ruins",
     name: { de: "Sam Lord's Castle", hu: "Sam Lord kastélya", ro: "Castelul lui Sam Lord", en: "Sam Lord's Castle" },
     coords: [-59.4386, 13.1111],
@@ -663,6 +678,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-st-johns-parish-church-history-v2",
+    parent: "BB",
     type: "church",
     name: { de: "St. John's Parish Church", hu: "Szent János plébániatemplom", ro: "Biserica parohială Sfântul Ioan", en: "St. John's Parish Church" },
     coords: [-59.484, 13.186],
@@ -707,6 +723,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-arlington-house-museum-history-v2",
+    parent: "BB",
     type: "museum",
     name: { de: "Arlington House Museum", hu: "Arlington House Múzeum", ro: "Muzeul Arlington House", en: "Arlington House Museum" },
     coords: [-59.641, 13.2508],
@@ -751,6 +768,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-chamberlain-bridge-history-v2",
+    parent: "BB",
     type: "bridge",
     name: { de: "Chamberlain Bridge", hu: "Chamberlain híd", ro: "Podul Chamberlain", en: "Chamberlain Bridge" },
     coords: [-59.6136, 13.0964],
@@ -795,6 +813,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-cotton-tower-signal-station-history-v2",
+    parent: "BB",
     type: "tower",
     name: { de: "Cotton Tower Signalstation", hu: "Cotton Tower jelzőállomás", ro: "Stația de semnalizare Cotton Tower", en: "Cotton Tower Signal Station" },
     coords: [-59.544, 13.197],
@@ -839,6 +858,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-heroes-square-history-v2",
+    parent: "BB",
     type: "monument",
     name: { de: "Heldenplatz", hu: "Hősök tere", ro: "Piața Eroilor", en: "Heroes Square" },
     coords: [-59.6136, 13.0972],
@@ -883,6 +903,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-grenade-hall-signal-station-history-v2",
+    parent: "BB",
     type: "tower",
     name: { de: "Grenade Hall Signalstation", hu: "Grenade Hall jelzőállomás", ro: "Stația de semnalizare Grenade Hall", en: "Grenade Hall Signal Station" },
     coords: [-59.584, 13.253],
@@ -927,6 +948,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-ragged-point-lighthouse-history-v2",
+    parent: "BB",
     type: "tower",
     name: { de: "Ragged Point Leuchtturm", hu: "Ragged Point világítótorony", ro: "Farul Ragged Point", en: "Ragged Point Lighthouse" },
     coords: [-59.4314, 13.1611],
@@ -971,6 +993,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-south-point-lighthouse-history-v2",
+    parent: "BB",
     type: "tower",
     name: { de: "South Point Leuchtturm", hu: "South Point világítótorony", ro: "Farul South Point", en: "South Point Lighthouse" },
     coords: [-59.5197, 13.0489],
@@ -1015,6 +1038,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-tyrol-cot-heritage-village-history-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Tyrol Cot Heritage Village", hu: "Tyrol Cot örökségfalu", ro: "Satul patrimonial Tyrol Cot", en: "Tyrol Cot Heritage Village" },
     coords: [-59.615, 13.12],
@@ -1059,6 +1083,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-newton-slave-burial-ground-history-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Sklavenfriedhof von Newton", hu: "Newtoni rabszolgatemető", ro: "Cimitirul sclavilor din Newton", en: "Newton Slave Burial Ground" },
     coords: [-59.5317, 13.0886],
@@ -1103,6 +1128,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-main-guard-building-history-v2",
+    parent: "BB",
     type: "monument",
     name: { de: "Main Guard Gebäude", hu: "Főőrség épülete", ro: "Clădirea Gărzii Principale", en: "Main Guard Building" },
     coords: [-59.606, 13.08],
@@ -1147,6 +1173,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-military-cemetery-history-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Militärfriedhof", hu: "Katonai temető", ro: "Cimitirul Militar", en: "Military Cemetery" },
     coords: [-59.6047, 13.0764],
@@ -1191,6 +1218,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-rock-hall-free-village-history-v2",
+    parent: "BB",
     type: "village",
     name: { de: "Freies Dorf Rock Hall", hu: "Rock Hall szabad falu", ro: "Satul liber Rock Hall", en: "Rock Hall Free Village" },
     coords: [-59.6083, 13.1972],
@@ -1235,6 +1263,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-st-georges-parish-church-history-v2",
+    parent: "BB",
     type: "church",
     name: { de: "St. George's Parish Church", hu: "Szent György plébániatemplom", ro: "Biserica parohială Sfântul Gheorghe", en: "St. George's Parish Church" },
     coords: [-59.55, 13.136],
@@ -1279,6 +1308,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-harrison-point-lighthouse-history-v2",
+    parent: "BB",
     type: "tower",
     name: { de: "Harrison Point Leuchtturm", hu: "Harrison Point világítótorony", ro: "Farul Harrison Point", en: "Harrison Point Lighthouse" },
     coords: [-59.65, 13.29],
@@ -1323,6 +1353,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-christ-church-parish-history-v2",
+    parent: "BB",
     type: "church",
     name: { de: "Christ Church Parish Church", hu: "Krisztus-templom plébánia", ro: "Biserica parohială Christ Church", en: "Christ Church Parish Church" },
     coords: [-59.5444, 13.0617],
@@ -1367,6 +1398,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-oistins-historic-harbour-history-v2",
+    parent: "BB",
     type: "port",
     name: { de: "Oistins Historischer Hafen", hu: "Oistins történelmi kikötő", ro: "Portul istoric Oistins", en: "Oistins Historic Harbour" },
     coords: [-59.54, 13.06],
@@ -1411,6 +1443,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-st-peters-parish-church-history-v2",
+    parent: "BB",
     type: "church",
     name: { de: "St. Peter's Parish Church", hu: "Szent Péter plébániatemplom", ro: "Biserica parohială Sfântul Petru", en: "St. Peter's Parish Church" },
     coords: [-59.6414, 13.2506],
@@ -1455,6 +1488,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-st-lucys-parish-church-history-v2",
+    parent: "BB",
     type: "church",
     name: { de: "St. Lucy's Parish Church", hu: "Szent Lúcia plébániatemplom", ro: "Biserica parohială Sfânta Lucia", en: "St. Lucy's Parish Church" },
     coords: [-59.62, 13.3008],
@@ -1499,6 +1533,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-st-philips-parish-church-history-v2",
+    parent: "BB",
     type: "church",
     name: { de: "St. Philip's Parish Church", hu: "Szent Fülöp plébániatemplom", ro: "Biserica parohială Sfântul Filip", en: "St. Philip's Parish Church" },
     coords: [-59.458, 13.125],
@@ -1543,6 +1578,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-needhams-point-lighthouse-history-v2",
+    parent: "BB",
     type: "tower",
     name: { de: "Needham's Point Leuchtturm", hu: "Needham's Point világítótorony", ro: "Farul Needham's Point", en: "Needham's Point Lighthouse" },
     coords: [-59.6106, 13.0786],
@@ -1587,6 +1623,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-bushy-park-great-house-history-v2",
+    parent: "BB",
     type: "palace",
     name: { de: "Bushy Park Herrenhaus", hu: "Bushy Park udvarház", ro: "Conacul Bushy Park", en: "Bushy Park Great House" },
     coords: [-59.45, 13.12],
@@ -1631,6 +1668,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-fisherpond-great-house-history-v2",
+    parent: "BB",
     type: "palace",
     name: { de: "Fisherpond Herrenhaus", hu: "Fisherpond udvarház", ro: "Conacul Fisherpond", en: "Fisherpond Great House" },
     coords: [-59.54, 13.15],
@@ -1675,6 +1713,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-brighton-great-house-history-v2",
+    parent: "BB",
     type: "palace",
     name: { de: "Brighton Herrenhaus", hu: "Brighton udvarház", ro: "Conacul Brighton", en: "Brighton Great House" },
     coords: [-59.53, 13.13],
@@ -1719,6 +1758,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-malvern-great-house-history-v2",
+    parent: "BB",
     type: "palace",
     name: { de: "Malvern Herrenhaus", hu: "Malvern udvarház", ro: "Conacul Malvern", en: "Malvern Great House" },
     coords: [-59.5, 13.175],
@@ -1763,6 +1803,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-francia-plantation-house-history-v2",
+    parent: "BB",
     type: "palace",
     name: { de: "Francia Plantagenhaus", hu: "Francia ültetvényes ház", ro: "Casa de plantație Francia", en: "Francia Plantation House" },
     coords: [-59.56, 13.136],
@@ -1807,6 +1848,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-drill-hall-garrison-history-v2",
+    parent: "BB",
     type: "monument",
     name: { de: "Drill Hall Garnison", hu: "Gyakorlótér (Drill Hall)", ro: "Sala de antrenament (Drill Hall)", en: "Drill Hall Garrison" },
     coords: [-59.605, 13.078],
@@ -1851,6 +1893,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-st-thomas-parish-church-history-v2",
+    parent: "BB",
     type: "church",
     name: { de: "St. Thomas Parish Church", hu: "Szent Tamás plébániatemplom", ro: "Biserica parohială Sfântul Toma", en: "St. Thomas Parish Church" },
     coords: [-59.58, 13.18],
@@ -1895,6 +1938,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-st-joseph-parish-church-history-v2",
+    parent: "BB",
     type: "church",
     name: { de: "St. Joseph Parish Church", hu: "Szent József plébániatemplom", ro: "Biserica parohială Sfântul Iosif", en: "St. Joseph Parish Church" },
     coords: [-59.53, 13.2],
@@ -1939,6 +1983,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-welchman-hall-gully-history-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Welchman Hall Gully", hu: "Welchman Hall Gully", ro: "Valea Welchman Hall", en: "Welchman Hall Gully" },
     coords: [-59.57, 13.18],
@@ -1983,6 +2028,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-flower-forest-plantation-history-v2",
+    parent: "BB",
     type: "park",
     name: { de: "Flower Forest Plantage", hu: "Flower Forest ültetvény", ro: "Plantația Flower Forest", en: "Flower Forest Plantation" },
     coords: [-59.574, 13.208],
@@ -2027,6 +2073,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-mount-hillaby-viewpoint-history-v2",
+    parent: "BB",
     type: "peak",
     name: { de: "Mount Hillaby Aussichtspunkt", hu: "Mount Hillaby kilátó", ro: "Punct de observație Mount Hillaby", en: "Mount Hillaby Viewpoint" },
     coords: [-59.58, 13.21],
@@ -2071,6 +2118,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-animal-flower-cave-history-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Animal Flower Cave", hu: "Animal Flower barlang", ro: "Peștera Animal Flower", en: "Animal Flower Cave" },
     coords: [-59.62, 13.33],
@@ -2115,6 +2163,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-st-anns-fort-history-v2",
+    parent: "BB",
     type: "monument",
     name: { de: "Fort St. Ann", hu: "Szent Anna erőd", ro: "Fortul Sfânta Ana", en: "St. Ann's Fort" },
     coords: [-59.606, 13.078],
@@ -2159,6 +2208,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-pavilion-court-history-v2",
+    parent: "BB",
     type: "monument",
     name: { de: "Pavilion Court", hu: "Pavilion Court", ro: "Pavilion Court", en: "Pavilion Court" },
     coords: [-59.6, 13.08],
@@ -2203,6 +2253,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-st-nicholas-abbey-railway-history-v2",
+    parent: "BB",
     type: "industry",
     name: { de: "St. Nicholas Abbey Eisenbahn", hu: "St. Nicholas Abbey vasút", ro: "Calea ferată St. Nicholas Abbey", en: "St. Nicholas Abbey Railway" },
     coords: [-59.59, 13.27],
@@ -2247,6 +2298,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-cherry-tree-hill-history-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Cherry Tree Hill", hu: "Cherry Tree Hill", ro: "Cherry Tree Hill", en: "Cherry Tree Hill" },
     coords: [-59.585, 13.27],
@@ -2290,6 +2342,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-careenage-waterfront-history-v2",
+    parent: "BB",
     type: "port",
     name: { de: "Careenage Uferpromenade", hu: "Careenage rakpart", ro: "Faleza Careenage", en: "Careenage Waterfront" },
     coords: [-59.614, 13.096],
@@ -2334,6 +2387,7 @@ export const barbadosHistoryV2: POI[] = [
   },
   {
     id: "barbados-blackmans-gully-bridge-history-v2",
+    parent: "BB",
     type: "bridge",
     name: { de: "Blackman's Gully Brücke", hu: "Blackman's Gully híd", ro: "Podul Văii Blackman", en: "Blackman's Gully Bridge" },
     coords: [-59.54, 13.19],

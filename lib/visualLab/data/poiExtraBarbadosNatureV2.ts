@@ -3,6 +3,7 @@ export const barbadosNatureV2: POI[] = [
 
   {
     id: "barbados-harrisons-cave-nature-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Harrison's Cave", hu: "Harrison-barlang", ro: "Peștera lui Harrison", en: "Harrison's Cave" },
     coords: [-59.575, 13.183],
@@ -46,6 +47,7 @@ export const barbadosNatureV2: POI[] = [
   },
   {
     id: "barbados-mount-hillaby-nature-v2",
+    parent: "BB",
     type: "peak",
     name: { de: "Mount Hillaby", hu: "Mount Hillaby", ro: "Muntele Hillaby", en: "Mount Hillaby" },
     coords: [-59.585, 13.21],
@@ -90,6 +92,7 @@ export const barbadosNatureV2: POI[] = [
   },
   {
     id: "barbados-bathsheba-beach-nature-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Bathsheba Beach", hu: "Bathsheba-part", ro: "Plaja Bathsheba", en: "Bathsheba Beach" },
     coords: [-59.521, 13.213],
@@ -134,6 +137,7 @@ export const barbadosNatureV2: POI[] = [
   },
   {
     id: "barbados-flower-forest-nature-v2",
+    parent: "BB",
     type: "forest",
     name: { de: "Flower Forest", hu: "Flower Forest", ro: "Pădurea de Flori", en: "Flower Forest" },
     coords: [-59.577, 13.201],
@@ -177,6 +181,7 @@ export const barbadosNatureV2: POI[] = [
   },
   {
     id: "barbados-huntes-gardens-nature-v2",
+    parent: "BB",
     type: "park",
     name: { de: "Hunte's Gardens", hu: "Hunte's Gardens", ro: "Grădinile lui Hunte", en: "Hunte's Gardens" },
     coords: [-59.548, 13.193],
@@ -220,6 +225,7 @@ export const barbadosNatureV2: POI[] = [
   },
   {
     id: "barbados-the-crane-beach-nature-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "The Crane Beach", hu: "Crane-part", ro: "Plaja Crane", en: "The Crane Beach" },
     coords: [-59.444, 13.111],
@@ -264,6 +270,7 @@ export const barbadosNatureV2: POI[] = [
   },
   {
     id: "barbados-chalky-mount-nature-v2",
+    parent: "BB",
     type: "peak",
     name: { de: "Chalky Mount", hu: "Chalky Mount", ro: "Chalky Mount", en: "Chalky Mount" },
     coords: [-59.533, 13.233],
@@ -308,6 +315,7 @@ export const barbadosNatureV2: POI[] = [
   },
   {
     id: "barbados-hackletons-cliff-nature-v2",
+    parent: "BB",
     type: "peak",
     name: { de: "Hackleton's Cliff", hu: "Hackleton-szikla", ro: "Faleza lui Hackleton", en: "Hackleton's Cliff" },
     coords: [-59.533, 13.198],
@@ -351,6 +359,7 @@ export const barbadosNatureV2: POI[] = [
   },
   {
     id: "barbados-turners-hall-woods-nature-v2",
+    parent: "BB",
     type: "forest",
     name: { de: "Turner's Hall Woods", hu: "Turner's Hall Woods", ro: "Pădurea Turner's Hall", en: "Turner's Hall Woods" },
     coords: [-59.579, 13.231],
@@ -394,6 +403,7 @@ export const barbadosNatureV2: POI[] = [
   },
   {
     id: "barbados-archers-bay-nature-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Archer's Bay", hu: "Archer-öböl", ro: "Archer's Bay", en: "Archer's Bay" },
     coords: [-59.638, 13.315],
@@ -438,6 +448,7 @@ export const barbadosNatureV2: POI[] = [
   },
   {
     id: "barbados-river-bay-nature-v2",
+    parent: "BB",
     type: "river",
     name: { de: "River Bay", hu: "River-öböl", ro: "River Bay", en: "River Bay" },
     coords: [-59.605, 13.319],
@@ -481,6 +492,7 @@ export const barbadosNatureV2: POI[] = [
   },
   {
     id: "barbados-foul-bay-nature-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Foul Bay", hu: "Foul-öböl", ro: "Foul Bay", en: "Foul Bay" },
     coords: [-59.456, 13.102],
@@ -525,6 +537,7 @@ export const barbadosNatureV2: POI[] = [
   },
   {
     id: "barbados-pebbles-beach-nature-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Pebbles Beach", hu: "Pebbles-part", ro: "Plaja Pebbles", en: "Pebbles Beach" },
     coords: [-59.608, 13.082],
@@ -569,6 +582,7 @@ export const barbadosNatureV2: POI[] = [
   },
   {
     id: "barbados-joes-river-nature-v2",
+    parent: "BB",
     type: "river",
     name: { de: "Joe's River", hu: "Joe's River", ro: "Râul Joe", en: "Joe's River" },
     coords: [-59.525, 13.215],
@@ -612,6 +626,7 @@ export const barbadosNatureV2: POI[] = [
   },
   {
     id: "barbados-codrington-woods-nature-v2",
+    parent: "BB",
     type: "forest",
     name: { de: "Codrington Woods", hu: "Codrington-erdő", ro: "Pădurea Codrington", en: "Codrington Woods" },
     coords: [-59.476, 13.175],
@@ -655,6 +670,7 @@ export const barbadosNatureV2: POI[] = [
   },
   {
     id: "barbados-silver-sands-beach-nature-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Silver Sands Beach", hu: "Silver Sands-part", ro: "Plaja Silver Sands", en: "Silver Sands Beach" },
     coords: [-59.516, 13.048],
@@ -698,6 +714,7 @@ export const barbadosNatureV2: POI[] = [
   },
   {
     id: "barbados-mullins-bay-nature-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Mullins Bay", hu: "Mullins-öböl", ro: "Mullins Bay", en: "Mullins Bay" },
     coords: [-59.642, 13.232],
@@ -742,6 +759,7 @@ export const barbadosNatureV2: POI[] = [
   },
   {
     id: "barbados-gibbs-beach-nature-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Gibbs Beach", hu: "Gibbs-part", ro: "Plaja Gibbs", en: "Gibbs Beach" },
     coords: [-59.643, 13.227],
@@ -786,6 +804,7 @@ export const barbadosNatureV2: POI[] = [
   },
   {
     id: "barbados-shark-hole-nature-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Shark Hole", hu: "Shark Hole", ro: "Shark Hole", en: "Shark Hole" },
     coords: [-59.431, 13.125],
@@ -829,6 +848,7 @@ export const barbadosNatureV2: POI[] = [
   },
   {
     id: "barbados-coles-cave-nature-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Cole's Cave", hu: "Cole-barlang", ro: "Peștera lui Cole", en: "Cole's Cave" },
     coords: [-59.565, 13.185],

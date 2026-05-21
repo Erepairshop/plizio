@@ -3,6 +3,7 @@ export const micronesiaHistoryV2: POI[] = [
 
   {
     id: "micronesia-nan-madol-history-v2",
+    parent: "FM",
     type: "ruins",
     name: { de: "Nan Madol", hu: "Nan Madol", ro: "Nan Madol", en: "Nan Madol" },
     coords: [158.335, 6.845],
@@ -35,6 +36,7 @@ export const micronesiaHistoryV2: POI[] = [
   },
   {
     id: "micronesia-lelu-ruins-history-v2",
+    parent: "FM",
     type: "ruins",
     name: { de: "Lelu Ruinen", hu: "Lelu romjai", ro: "Ruinele Lelu", en: "Lelu Ruins" },
     coords: [163.027, 5.3333],
@@ -67,6 +69,7 @@ export const micronesiaHistoryV2: POI[] = [
   },
   {
     id: "micronesia-spanish-wall-history-v2",
+    parent: "FM",
     type: "monument",
     name: { de: "Spanische Mauer", hu: "Spanyol fal", ro: "Zidul Spaniol", en: "Spanish Wall" },
     coords: [158.214, 6.9631],
@@ -99,6 +102,7 @@ export const micronesiaHistoryV2: POI[] = [
   },
   {
     id: "micronesia-chuuk-lagoon-wrecks-history-v2",
+    parent: "FM",
     type: "battlefield",
     name: { de: "Chuuk-Lagune Schiffswracks", hu: "Chuuk-lagúna roncsai", ro: "Epavele din Laguna Chuuk", en: "Chuuk Lagoon Wrecks" },
     coords: [151.85, 7.34],
@@ -131,6 +135,7 @@ export const micronesiaHistoryV2: POI[] = [
   },
   {
     id: "micronesia-yap-stone-money-banks-history-v2",
+    parent: "FM",
     type: "landmark",
     name: { de: "Yap Steingeldbanken", hu: "Yapi kőpénz-bankok", ro: "Băncile de bani de piatră din Yap", en: "Yap Stone Money Banks" },
     coords: [138.125, 9.503],
@@ -163,6 +168,7 @@ export const micronesiaHistoryV2: POI[] = [
   },
   {
     id: "micronesia-sokehs-rock-history-v2",
+    parent: "FM",
     type: "battlefield",
     name: { de: "Sokehs Rock", hu: "Sokehs-szikla", ro: "Stânca Sokehs", en: "Sokehs Rock" },
     coords: [158.188, 6.974],
@@ -195,6 +201,7 @@ export const micronesiaHistoryV2: POI[] = [
   },
   {
     id: "micronesia-menke-ruins-history-v2",
+    parent: "FM",
     type: "ruins",
     name: { de: "Menke Ruinen", hu: "Menke romjai", ro: "Ruinele Menke", en: "Menke Ruins" },
     coords: [162.96, 5.312],
@@ -227,6 +234,7 @@ export const micronesiaHistoryV2: POI[] = [
   },
   {
     id: "micronesia-japanese-radio-station-history-v2",
+    parent: "FM",
     type: "landmark",
     name: { de: "Japanische Funkstation", hu: "Japán rádióállomás", ro: "Stația Radio Japoneză", en: "Japanese Radio Station" },
     coords: [158.215, 6.961],
@@ -259,6 +267,7 @@ export const micronesiaHistoryV2: POI[] = [
   },
   {
     id: "micronesia-bechiyal-cultural-village-history-v2",
+    parent: "FM",
     type: "village",
     name: { de: "Bechiyal Kulturdorf", hu: "Bechiyal skanzen", ro: "Satul Cultural Bechiyal", en: "Bechiyal Cultural Village" },
     coords: [138.12, 9.61],
@@ -291,6 +300,7 @@ export const micronesiaHistoryV2: POI[] = [
   },
   {
     id: "micronesia-tamilyog-stone-money-bank-history-v2",
+    parent: "FM",
     type: "landmark",
     name: { de: "Tamilyog Steingeldbank", hu: "Tamilyog kőpénz-bank", ro: "Banca de bani de piatră Tamilyog", en: "Tamilyog Stone Money Bank" },
     coords: [138.13, 9.52],
@@ -323,6 +333,7 @@ export const micronesiaHistoryV2: POI[] = [
   },
   {
     id: "micronesia-wiir-ruins-history-v2",
+    parent: "FM",
     type: "ruins",
     name: { de: "Wiir Ruinen", hu: "Wiir romjai", ro: "Ruinele Wiir", en: "Wiir Ruins" },
     coords: [151.88, 7.41],
@@ -355,6 +366,7 @@ export const micronesiaHistoryV2: POI[] = [
   },
   {
     id: "micronesia-sapwuahfik-massacre-site-history-v2",
+    parent: "FM",
     type: "battlefield",
     name: { de: "Sapwuahfik Massaker-Gedenkstätte", hu: "Sapwuahfik mészárlás emlékhelye", ro: "Locul Masacrului din Sapwuahfik", en: "Sapwuahfik Massacre Site" },
     coords: [157.28, 5.79],
@@ -387,6 +399,7 @@ export const micronesiaHistoryV2: POI[] = [
   },
   {
     id: "micronesia-nantaku-communication-center-history-v2",
+    parent: "FM",
     type: "landmark",
     name: { de: "Nantaku Kommunikationszentrum", hu: "Nantaku híradóközpont", ro: "Centrul de Comunicații Nantaku", en: "Nantaku Communication Center" },
     coords: [151.848, 7.443],
@@ -419,6 +432,7 @@ export const micronesiaHistoryV2: POI[] = [
   },
   {
     id: "micronesia-paliikir-historical-base-history-v2",
+    parent: "FM",
     type: "landmark",
     name: { de: "Historische Basis Paliikir", hu: "Paliikir történelmi támaszpont", ro: "Baza Istorică Paliikir", en: "Paliikir Historical Base" },
     coords: [158.158, 6.918],

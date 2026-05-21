@@ -3,6 +3,7 @@ export const palauNatureV2: POI[] = [
 
   {
     id: "palau-rock-islands-nature-v2",
+    parent: "PW",
     type: "park",
     name: { de: "Rock Islands", hu: "Rock-szigetek", ro: "Insulele Rock", en: "Rock Islands" },
     coords: [134.3333, 7.15],
@@ -35,6 +36,7 @@ export const palauNatureV2: POI[] = [
   },
   {
     id: "palau-mount-ngerchelchuus-nature-v2",
+    parent: "PW",
     type: "peak",
     name: { de: "Mount Ngerchelchuus", hu: "Ngerchelchuus-hegy", ro: "Muntele Ngerchelchuus", en: "Mount Ngerchelchuus" },
     coords: [134.5714, 7.5647],
@@ -67,6 +69,7 @@ export const palauNatureV2: POI[] = [
   },
   {
     id: "palau-lake-ngardok-nature-v2",
+    parent: "PW",
     type: "lake",
     name: { de: "Ngardok-See", hu: "Ngardok-tó", ro: "Lacul Ngardok", en: "Lake Ngardok" },
     coords: [134.6142, 7.5125],
@@ -99,6 +102,7 @@ export const palauNatureV2: POI[] = [
   },
   {
     id: "palau-eil-malk-island-nature-v2",
+    parent: "PW",
     type: "park",
     name: { de: "Eil Malk", hu: "Eil Malk-sziget", ro: "Insula Eil Malk", en: "Eil Malk Island" },
     coords: [134.37, 7.15],
@@ -131,6 +135,7 @@ export const palauNatureV2: POI[] = [
   },
   {
     id: "palau-ngeruktabel-island-nature-v2",
+    parent: "PW",
     type: "park",
     name: { de: "Ngeruktabel", hu: "Ngeruktabel-sziget", ro: "Insula Ngeruktabel", en: "Ngeruktabel Island" },
     coords: [134.42, 7.27],
@@ -163,6 +168,7 @@ export const palauNatureV2: POI[] = [
   },
   {
     id: "palau-peleliu-island-nature-v2",
+    parent: "PW",
     type: "park",
     name: { de: "Peleliu", hu: "Peleliu-sziget", ro: "Insula Peleliu", en: "Peleliu Island" },
     coords: [134.25, 7.01],
@@ -195,6 +201,7 @@ export const palauNatureV2: POI[] = [
   },
   {
     id: "palau-angaur-island-nature-v2",
+    parent: "PW",
     type: "park",
     name: { de: "Angaur", hu: "Angaur-sziget", ro: "Insula Angaur", en: "Angaur Island" },
     coords: [134.13, 6.91],
@@ -227,6 +234,7 @@ export const palauNatureV2: POI[] = [
   },
   {
     id: "palau-helen-reef-nature-v2",
+    parent: "PW",
     type: "park",
     name: { de: "Helen Reef", hu: "Helen-zátony", ro: "Reciful Helen", en: "Helen Reef" },
     coords: [131.78, 2.97],
@@ -259,6 +267,7 @@ export const palauNatureV2: POI[] = [
   },
   {
     id: "palau-sonsorol-island-nature-v2",
+    parent: "PW",
     type: "park",
     name: { de: "Sonsorol-Insel", hu: "Sonsorol-sziget", ro: "Insula Sonsorol", en: "Sonsorol Island" },
     coords: [132.22, 5.33],
@@ -291,6 +300,7 @@ export const palauNatureV2: POI[] = [
   },
   {
     id: "palau-merir-island-nature-v2",
+    parent: "PW",
     type: "wildlife",
     name: { de: "Merir", hu: "Merir-sziget", ro: "Insula Merir", en: "Merir Island" },
     coords: [132.31, 4.32],
@@ -323,6 +333,7 @@ export const palauNatureV2: POI[] = [
   },
   {
     id: "palau-pulo-anna-nature-v2",
+    parent: "PW",
     type: "park",
     name: { de: "Pulo Anna", hu: "Pulo Anna-sziget", ro: "Insula Pulo Anna", en: "Pulo Anna" },
     coords: [131.95, 4.66],
@@ -355,6 +366,7 @@ export const palauNatureV2: POI[] = [
   },
   {
     id: "palau-tobi-island-nature-v2",
+    parent: "PW",
     type: "park",
     name: { de: "Tobi", hu: "Tobi-sziget", ro: "Insula Tobi", en: "Tobi Island" },
     coords: [131.12, 3.01],
@@ -387,6 +399,7 @@ export const palauNatureV2: POI[] = [
   },
   {
     id: "palau-ngeruangel-reserve-nature-v2",
+    parent: "PW",
     type: "park",
     name: { de: "Ngeruangel-Reservat", hu: "Ngeruangel-rezervátum", ro: "Rezervația Ngeruangel", en: "Ngeruangel Marine Reserve" },
     coords: [134.63, 8.12],
@@ -419,6 +432,7 @@ export const palauNatureV2: POI[] = [
   },
   {
     id: "palau-ngaremeduu-bay-nature-v2",
+    parent: "PW",
     type: "wildlife",
     name: { de: "Ngaremeduu-Bucht", hu: "Ngaremeduu-öböl", ro: "Golful Ngaremeduu", en: "Ngaremeduu Bay" },
     coords: [134.51, 7.52],
@@ -451,6 +465,7 @@ export const palauNatureV2: POI[] = [
   },
   {
     id: "palau-babeldaob-mangroves-nature-v2",
+    parent: "PW",
     type: "wildlife",
     name: { de: "Babeldaob-Mangroven", hu: "Babeldaob mangroveerdei", ro: "Mangrovele din Babeldaob", en: "Babeldaob Mangroves" },
     coords: [134.6, 7.5],

@@ -3,6 +3,7 @@ export const nauruLandmarksV2: POI[] = [
 
   {
     id: "nauru-parliament-house-landmarks-v2",
+    parent: "NR",
     type: "landmark",
     name: { de: "Parlamentsgebäude von Nauru", hu: "Naurui Országház", ro: "Casa Parlamentului din Nauru", en: "Parliament House of Nauru" },
     coords: [166.916, -0.547],
@@ -35,6 +36,7 @@ export const nauruLandmarksV2: POI[] = [
   },
   {
     id: "nauru-museum-landmarks-v2",
+    parent: "NR",
     type: "museum",
     name: { de: "Nauru Museum", hu: "Naurui Múzeum", ro: "Muzeul Național Nauru", en: "Nauru Museum" },
     coords: [166.931, -0.545],
@@ -67,6 +69,7 @@ export const nauruLandmarksV2: POI[] = [
   },
   {
     id: "nauru-command-ridge-landmarks-v2",
+    parent: "NR",
     type: "landmark",
     name: { de: "Command Ridge", hu: "Command Ridge kilátóhely", ro: "Creasta Command", en: "Command Ridge" },
     coords: [166.918, -0.531],
@@ -99,6 +102,7 @@ export const nauruLandmarksV2: POI[] = [
   },
   {
     id: "nauru-phosphate-cantilever-landmarks-v2",
+    parent: "NR",
     type: "industry",
     name: { de: "Phosphat-Verladearm", hu: "Foszfátrakodó daru", ro: "Terminalul de fosfat", en: "Phosphate Cantilever" },
     coords: [166.911, -0.528],
@@ -131,6 +135,7 @@ export const nauruLandmarksV2: POI[] = [
   },
   {
     id: "nauru-civic-centre-landmarks-v2",
+    parent: "NR",
     type: "landmark",
     name: { de: "Bürgerzentrum Aiwo", hu: "Aiwo Közösségi Központ", ro: "Centrul Civic Aiwo", en: "Aiwo Civic Centre" },
     coords: [166.913, -0.531],
@@ -163,6 +168,7 @@ export const nauruLandmarksV2: POI[] = [
   },
   {
     id: "nauru-yaren-police-station-landmarks-v2",
+    parent: "NR",
     type: "landmark",
     name: { de: "Polizeistation Yaren", hu: "Yaren Rendőrség", ro: "Secția de Poliție Yaren", en: "Yaren Police Station" },
     coords: [166.917, -0.548],
@@ -195,6 +201,7 @@ export const nauruLandmarksV2: POI[] = [
   },
   {
     id: "nauru-menen-hotel-landmarks-v2",
+    parent: "NR",
     type: "landmark",
     name: { de: "Menen Hotel", hu: "Menen Hotel", ro: "Hotelul Menen", en: "Menen Hotel" },
     coords: [166.951, -0.54],
@@ -227,6 +234,7 @@ export const nauruLandmarksV2: POI[] = [
   },
   {
     id: "nauru-airport-terminal-landmarks-v2",
+    parent: "NR",
     type: "port",
     name: { de: "Nauru Flughafen Terminal", hu: "Naurui Repülőtér Terminál", ro: "Terminalul Aeroportului Nauru", en: "Nauru Airport Terminal" },
     coords: [166.918, -0.547],
@@ -259,6 +267,7 @@ export const nauruLandmarksV2: POI[] = [
   },
   {
     id: "nauru-moqua-well-landmarks-v2",
+    parent: "NR",
     type: "landmark",
     name: { de: "Moqua Well", hu: "Moqua-kút", ro: "Puțul Moqua", en: "Moqua Well" },
     coords: [166.92, -0.549],
@@ -291,6 +300,7 @@ export const nauruLandmarksV2: POI[] = [
   },
   {
     id: "nauru-japanese-prison-ruins-landmarks-v2",
+    parent: "NR",
     type: "ruins",
     name: { de: "Ruinen des japanischen Gefängnisses", hu: "Japán börtönromok", ro: "Ruinele închisorii japoneze", en: "Japanese Prison Ruins" },
     coords: [166.943, -0.509],
@@ -323,6 +333,7 @@ export const nauruLandmarksV2: POI[] = [
   },
   {
     id: "nauru-state-house-landmarks-v2",
+    parent: "NR",
     type: "palace",
     name: { de: "Staatshaus von Nauru", hu: "Naurui Állami Ház", ro: "Casa de Stat din Nauru", en: "Nauru State House" },
     coords: [166.945, -0.539],
@@ -355,6 +366,7 @@ export const nauruLandmarksV2: POI[] = [
   },
   {
     id: "nauru-general-hospital-landmarks-v2",
+    parent: "NR",
     type: "landmark",
     name: { de: "Nauru Allgemeines Krankenhaus", hu: "Naurui Általános Kórház", ro: "Spitalul General Nauru", en: "Nauru General Hospital" },
     coords: [166.915, -0.528],
@@ -387,6 +399,7 @@ export const nauruLandmarksV2: POI[] = [
   },
   {
     id: "nauru-central-pacific-bank-landmarks-v2",
+    parent: "NR",
     type: "landmark",
     name: { de: "Zentralpazifik-Bank", hu: "Közép-csendes-óceáni Bank", ro: "Banca Centrală a Pacificului", en: "Central Pacific Bank" },
     coords: [166.912, -0.53],
@@ -419,6 +432,7 @@ export const nauruLandmarksV2: POI[] = [
   },
   {
     id: "nauru-post-office-landmarks-v2",
+    parent: "NR",
     type: "landmark",
     name: { de: "Nauru Postamt", hu: "Naurui Postahivatal", ro: "Oficiul Poștal Nauru", en: "Nauru Post Office" },
     coords: [166.913, -0.532],
@@ -451,6 +465,7 @@ export const nauruLandmarksV2: POI[] = [
   },
   {
     id: "nauru-cantilever-two-landmarks-v2",
+    parent: "NR",
     type: "industry",
     name: { de: "Zweiter Verladearm", hu: "Második rakodókar", ro: "Al doilea terminal de fosfat", en: "Second Cantilever" },
     coords: [166.911, -0.531],

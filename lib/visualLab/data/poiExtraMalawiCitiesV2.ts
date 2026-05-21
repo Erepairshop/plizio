@@ -3,6 +3,7 @@ export const malawiCitiesV2: POI[] = [
 
   {
     id: "malawi-lilongwe-cities-v2",
+    parent: "MW",
     type: "capital",
     name: { de: "Lilongwe", hu: "Lilongwe", ro: "Lilongwe", en: "Lilongwe" },
     coords: [33.7741, -13.9622],
@@ -35,6 +36,7 @@ export const malawiCitiesV2: POI[] = [
   },
   {
     id: "malawi-blantyre-cities-v2",
+    parent: "MW",
     type: "city",
     name: { de: "Blantyre", hu: "Blantyre", ro: "Blantyre", en: "Blantyre" },
     coords: [35.0058, -15.7861],
@@ -67,6 +69,7 @@ export const malawiCitiesV2: POI[] = [
   },
   {
     id: "malawi-mzuzu-cities-v2",
+    parent: "MW",
     type: "city",
     name: { de: "Mzuzu", hu: "Mzuzu", ro: "Mzuzu", en: "Mzuzu" },
     coords: [34.0153, -11.4583],
@@ -99,6 +102,7 @@ export const malawiCitiesV2: POI[] = [
   },
   {
     id: "malawi-zomba-cities-v2",
+    parent: "MW",
     type: "city",
     name: { de: "Zomba", hu: "Zomba", ro: "Zomba", en: "Zomba" },
     coords: [35.3185, -15.386],
@@ -131,6 +135,7 @@ export const malawiCitiesV2: POI[] = [
   },
   {
     id: "malawi-kasungu-cities-v2",
+    parent: "MW",
     type: "town",
     name: { de: "Kasungu", hu: "Kasungu", ro: "Kasungu", en: "Kasungu" },
     coords: [33.4833, -13.0333],
@@ -163,6 +168,7 @@ export const malawiCitiesV2: POI[] = [
   },
   {
     id: "malawi-mangochi-cities-v2",
+    parent: "MW",
     type: "town",
     name: { de: "Mangochi", hu: "Mangochi", ro: "Mangochi", en: "Mangochi" },
     coords: [35.2633, -14.4782],
@@ -195,6 +201,7 @@ export const malawiCitiesV2: POI[] = [
   },
   {
     id: "malawi-karonga-cities-v2",
+    parent: "MW",
     type: "town",
     name: { de: "Karonga", hu: "Karonga", ro: "Karonga", en: "Karonga" },
     coords: [33.9333, -9.9333],
@@ -227,6 +234,7 @@ export const malawiCitiesV2: POI[] = [
   },
   {
     id: "malawi-salima-cities-v2",
+    parent: "MW",
     type: "town",
     name: { de: "Salima", hu: "Salima", ro: "Salima", en: "Salima" },
     coords: [34.4667, -13.7833],
@@ -259,6 +267,7 @@ export const malawiCitiesV2: POI[] = [
   },
   {
     id: "malawi-nkhotakota-cities-v2",
+    parent: "MW",
     type: "town",
     name: { de: "Nkhotakota", hu: "Nkhotakota", ro: "Nkhotakota", en: "Nkhotakota" },
     coords: [34.2961, -12.9272],
@@ -291,6 +300,7 @@ export const malawiCitiesV2: POI[] = [
   },
   {
     id: "malawi-liwonde-cities-v2",
+    parent: "MW",
     type: "town",
     name: { de: "Liwonde", hu: "Liwonde", ro: "Liwonde", en: "Liwonde" },
     coords: [35.2167, -15.0667],
@@ -323,6 +333,7 @@ export const malawiCitiesV2: POI[] = [
   },
   {
     id: "malawi-nsanje-cities-v2",
+    parent: "MW",
     type: "town",
     name: { de: "Nsanje", hu: "Nsanje", ro: "Nsanje", en: "Nsanje" },
     coords: [35.2667, -16.9167],
@@ -355,6 +366,7 @@ export const malawiCitiesV2: POI[] = [
   },
   {
     id: "malawi-rumphi-cities-v2",
+    parent: "MW",
     type: "town",
     name: { de: "Rumphi", hu: "Rumphi", ro: "Rumphi", en: "Rumphi" },
     coords: [33.8667, -11.0167],

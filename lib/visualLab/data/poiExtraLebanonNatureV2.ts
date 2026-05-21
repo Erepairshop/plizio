@@ -3,6 +3,7 @@ export const lebanonNatureV2: POI[] = [
 
   {
     id: "lebanon-qaraoun-lake-nature-v2",
+    parent: "LB",
     type: "lake",
     name: { de: "Qaraoun-See", hu: "Qaraoun-tó", ro: "Lacul Qaraoun", en: "Lake Qaraoun" },
     coords: [35.8322, 33.5714],
@@ -35,6 +36,7 @@ export const lebanonNatureV2: POI[] = [
   },
   {
     id: "lebanon-nahr-ibrahim-nature-v2",
+    parent: "LB",
     type: "river",
     name: { de: "Nahr Ibrahim", hu: "Nahr Ibrahim", ro: "Râul Nahr Ibrahim", en: "Nahr Ibrahim River" },
     coords: [35.6481, 34.0658],
@@ -67,6 +69,7 @@ export const lebanonNatureV2: POI[] = [
   },
   {
     id: "lebanon-afqa-grotto-nature-v2",
+    parent: "LB",
     type: "landmark",
     name: { de: "Afqa-Grotte", hu: "Afqa-barlang", ro: "Grota Afqa", en: "Afqa Grotto" },
     coords: [35.8928, 34.0681],
@@ -99,6 +102,7 @@ export const lebanonNatureV2: POI[] = [
   },
   {
     id: "lebanon-jezzine-waterfall-nature-v2",
+    parent: "LB",
     type: "landmark",
     name: { de: "Jezzine-Wasserfall", hu: "Jezzine-vízesés", ro: "Cascada Jezzine", en: "Jezzine Waterfall" },
     coords: [35.5861, 33.5417],
@@ -131,6 +135,7 @@ export const lebanonNatureV2: POI[] = [
   },
   {
     id: "lebanon-nahr-el-assi-nature-v2",
+    parent: "LB",
     type: "river",
     name: { de: "Nahr el-Assi", hu: "Nahr el-Assi", ro: "Râul Orontes", en: "Orontes River" },
     coords: [36.3814, 34.345],
@@ -163,6 +168,7 @@ export const lebanonNatureV2: POI[] = [
   },
   {
     id: "lebanon-kammouha-forest-nature-v2",
+    parent: "LB",
     type: "forest",
     name: { de: "Kammouha-Wald", hu: "Kammouha-erdő", ro: "Pădurea Kammouha", en: "Kammouha Forest" },
     coords: [36.2133, 34.4825],
@@ -195,6 +201,7 @@ export const lebanonNatureV2: POI[] = [
   },
   {
     id: "lebanon-wadi-jahannam-nature-v2",
+    parent: "LB",
     type: "valley",
     name: { de: "Wadi Jahannam", hu: "Wadi Jahannam", ro: "Wadi Jahannam", en: "Wadi Jahannam" },
     coords: [36.145, 34.4128],
@@ -227,6 +234,7 @@ export const lebanonNatureV2: POI[] = [
   },
   {
     id: "lebanon-nahr-el-barid-nature-v2",
+    parent: "LB",
     type: "river",
     name: { de: "Nahr el-Barid", hu: "Nahr el-Barid", ro: "Nahr el-Barid", en: "Nahr el-Barid River" },
     coords: [35.9875, 34.4533],
@@ -259,6 +267,7 @@ export const lebanonNatureV2: POI[] = [
   },
   {
     id: "lebanon-mount-rihan-nature-v2",
+    parent: "LB",
     type: "mountain",
     name: { de: "Jabal Rihan", hu: "Rihan-hegy", ro: "Muntele Rihan", en: "Mount Rihan" },
     coords: [35.575, 33.4583],
@@ -291,6 +300,7 @@ export const lebanonNatureV2: POI[] = [
   },
   {
     id: "lebanon-chawan-lake-nature-v2",
+    parent: "LB",
     type: "lake",
     name: { de: "Chawan-See", hu: "Chawan-tó", ro: "Lacul Chawan", en: "Chawan Lake" },
     coords: [35.7742, 34.0755],
@@ -323,6 +333,7 @@ export const lebanonNatureV2: POI[] = [
   },
   {
     id: "lebanon-nahr-abou-ali-nature-v2",
+    parent: "LB",
     type: "river",
     name: { de: "Nahr Abou Ali", hu: "Nahr Abou Ali", ro: "Nahr Abou Ali", en: "Nahr Abou Ali River" },
     coords: [35.8502, 34.4439],
@@ -355,6 +366,7 @@ export const lebanonNatureV2: POI[] = [
   },
   {
     id: "lebanon-nahr-damour-nature-v2",
+    parent: "LB",
     type: "river",
     name: { de: "Nahr Damour", hu: "Damour-folyó", ro: "Râul Damour", en: "Damour River" },
     coords: [35.4508, 33.7125],

@@ -3,6 +3,7 @@ export const mexicoLandmarksV2: POI[] = [
 
   {
     id: "mexico-metropolitan-cathedral-landmarks-v2",
+    parent: "MX",
     type: "cathedral",
     name: { de: "Kathedrale von Mexiko-Stadt", hu: "Mexikóvárosi székesegyház", ro: "Catedrala Metropolitană din Ciudad de México", en: "Mexico City Metropolitan Cathedral" },
     coords: [-99.1331, 19.4344],
@@ -35,6 +36,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-angel-of-independence-landmarks-v2",
+    parent: "MX",
     type: "monument",
     name: { de: "Engel der Unabhängigkeit", hu: "A Függetlenség Angyala", ro: "Îngerul Independenței", en: "Angel of Independence" },
     coords: [-99.1677, 19.427],
@@ -67,6 +69,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-soumaya-museum-landmarks-v2",
+    parent: "MX",
     type: "museum",
     name: { de: "Museo Soumaya", hu: "Soumaya Múzeum", ro: "Muzeul Soumaya", en: "Soumaya Museum" },
     coords: [-99.2047, 19.4407],
@@ -99,6 +102,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-guadalupe-basilica-landmarks-v2",
+    parent: "MX",
     type: "church",
     name: { de: "Basilika Unserer Lieben Frau von Guadalupe", hu: "Guadalupei Miasszonyunk-bazilika", ro: "Bazilica Maicii Domnului din Guadalupe", en: "Basilica of Our Lady of Guadalupe" },
     coords: [-99.1177, 19.4847],
@@ -131,6 +135,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-postal-palace-landmarks-v2",
+    parent: "MX",
     type: "palace",
     name: { de: "Palacio Postal", hu: "Postapalota", ro: "Palatul Poștei", en: "Postal Palace" },
     coords: [-99.1396, 19.4355],
@@ -163,6 +168,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-temple-of-kukulcan-landmarks-v2",
+    parent: "MX",
     type: "ruins",
     name: { de: "Tempel des Kukulcán", hu: "Kukulkán-templom", ro: "Templul lui Kukulcan", en: "Temple of Kukulcan" },
     coords: [-88.5678, 20.6843],
@@ -195,6 +201,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-pyramid-of-the-sun-landmarks-v2",
+    parent: "MX",
     type: "ruins",
     name: { de: "Sonnenpyramide", hu: "Nap-piramis", ro: "Piramida Soarelui", en: "Pyramid of the Sun" },
     coords: [-98.8438, 19.6925],
@@ -227,6 +234,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-pyramid-of-the-moon-landmarks-v2",
+    parent: "MX",
     type: "ruins",
     name: { de: "Mondpyramide", hu: "Hold-piramis", ro: "Piramida Lunii", en: "Pyramid of the Moon" },
     coords: [-98.8441, 19.6997],
@@ -259,6 +267,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-temple-of-inscriptions-landmarks-v2",
+    parent: "MX",
     type: "ruins",
     name: { de: "Tempel der Inschriften", hu: "Feliratok temploma", ro: "Templul Inscripțiilor", en: "Temple of the Inscriptions" },
     coords: [-91.9994, 17.4837],
@@ -291,6 +300,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-baluarte-bridge-landmarks-v2",
+    parent: "MX",
     type: "bridge",
     name: { de: "Baluarte-Brücke", hu: "Baluarte-híd", ro: "Podul Baluarte", en: "Baluarte Bridge" },
     coords: [-105.8447, 23.5358],
@@ -323,6 +333,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-expiatory-temple-guadalajara-landmarks-v2",
+    parent: "MX",
     type: "church",
     name: { de: "Templo Expiatorio (Guadalajara)", hu: "Expiatorio-templom (Guadalajara)", ro: "Templul Expiatoriu (Guadalajara)", en: "Expiatory Temple of Guadalajara" },
     coords: [-103.3547, 20.6744],
@@ -355,6 +366,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-queretaro-aqueduct-landmarks-v2",
+    parent: "MX",
     type: "monument",
     name: { de: "Aquädukt von Querétaro", hu: "Querétarói akvedukt", ro: "Apeductul din Querétaro", en: "Queretaro Aqueduct" },
     coords: [-100.3734, 20.5968],
@@ -387,6 +399,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-degollado-theater-landmarks-v2",
+    parent: "MX",
     type: "theater",
     name: { de: "Teatro Degollado", hu: "Degollado Színház", ro: "Teatrul Degollado", en: "Degollado Theater" },
     coords: [-103.3444, 20.6772],
@@ -419,6 +432,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-morelia-aqueduct-landmarks-v2",
+    parent: "MX",
     type: "monument",
     name: { de: "Aquädukt von Morelia", hu: "Moreliai akvedukt", ro: "Apeductul din Morelia", en: "Morelia Aqueduct" },
     coords: [-101.1822, 19.7008],
@@ -451,6 +465,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-guanajuato-mummies-museum-landmarks-v2",
+    parent: "MX",
     type: "museum",
     name: { de: "Mumienmuseum von Guanajuato", hu: "Guanajuatói Múmiamúzeum", ro: "Muzeul Mumiilor din Guanajuato", en: "Mummies of Guanajuato Museum" },
     coords: [-101.2661, 21.02],
@@ -483,6 +498,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-juarez-theater-landmarks-v2",
+    parent: "MX",
     type: "theater",
     name: { de: "Teatro Juárez", hu: "Juárez Színház", ro: "Teatrul Juárez", en: "Juarez Theater" },
     coords: [-101.2528, 21.015],
@@ -515,6 +531,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-alhondiga-granaditas-landmarks-v2",
+    parent: "MX",
     type: "monument",
     name: { de: "Alhóndiga de Granaditas", hu: "Alhóndiga de Granaditas", ro: "Alhóndiga de Granaditas", en: "Alhondiga de Granaditas" },
     coords: [-101.2586, 21.0186],
@@ -547,6 +564,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-pipila-monument-landmarks-v2",
+    parent: "MX",
     type: "monument",
     name: { de: "El Pípila Monument", hu: "El Pípila-emlékmű", ro: "Monumentul El Pípila", en: "El Pipila Monument" },
     coords: [-101.2514, 21.015],
@@ -579,6 +597,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-guadalajara-cathedral-landmarks-v2",
+    parent: "MX",
     type: "cathedral",
     name: { de: "Kathedrale von Guadalajara", hu: "Guadalajarai székesegyház", ro: "Catedrala din Guadalajara", en: "Guadalajara Cathedral" },
     coords: [-103.3468, 20.677],
@@ -611,6 +630,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-morelia-cathedral-landmarks-v2",
+    parent: "MX",
     type: "cathedral",
     name: { de: "Kathedrale von Morelia", hu: "Moreliai székesegyház", ro: "Catedrala din Morelia", en: "Morelia Cathedral" },
     coords: [-101.1923, 19.7027],
@@ -643,6 +663,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-chihuahua-cathedral-landmarks-v2",
+    parent: "MX",
     type: "cathedral",
     name: { de: "Kathedrale von Chihuahua", hu: "Chihuahuai székesegyház", ro: "Catedrala din Chihuahua", en: "Chihuahua Cathedral" },
     coords: [-106.0771, 28.6353],
@@ -675,6 +696,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-merida-cathedral-landmarks-v2",
+    parent: "MX",
     type: "cathedral",
     name: { de: "Kathedrale von Mérida", hu: "Méridai székesegyház", ro: "Catedrala din Mérida", en: "Merida Cathedral" },
     coords: [-89.6225, 20.967],
@@ -707,6 +729,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-great-pyramid-cholula-landmarks-v2",
+    parent: "MX",
     type: "ruins",
     name: { de: "Große Pyramide von Cholula", hu: "Cholulai nagy piramis", ro: "Marea Piramidă din Cholula", en: "Great Pyramid of Cholula" },
     coords: [-98.3014, 19.0575],
@@ -739,6 +762,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-frida-kahlo-museum-landmarks-v2",
+    parent: "MX",
     type: "museum",
     name: { de: "Frida-Kahlo-Museum", hu: "Frida Kahlo Múzeum", ro: "Muzeul Frida Kahlo", en: "Frida Kahlo Museum" },
     coords: [-99.1625, 19.3552],
@@ -771,6 +795,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-torre-latinoamericana-landmarks-v2",
+    parent: "MX",
     type: "tower",
     name: { de: "Torre Latinoamericana", hu: "Torre Latinoamericana", ro: "Torre Latinoamericana", en: "Torre Latinoamericana" },
     coords: [-99.1406, 19.4339],
@@ -803,6 +828,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-house-of-tiles-landmarks-v2",
+    parent: "MX",
     type: "palace",
     name: { de: "Haus der Fliesen", hu: "Csempés Ház", ro: "Casa de los Azulejos", en: "House of Tiles" },
     coords: [-99.1402, 19.4348],
@@ -835,6 +861,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-templo-mayor-landmarks-v2",
+    parent: "MX",
     type: "ruins",
     name: { de: "Templo Mayor", hu: "Templo Mayor", ro: "Templo Mayor", en: "Templo Mayor" },
     coords: [-99.1303, 19.4348],
@@ -867,6 +894,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-san-antonio-padua-convent-landmarks-v2",
+    parent: "MX",
     type: "church",
     name: { de: "Konvent San Antonio de Padua", hu: "Szent Antal-kolostor (Izamal)", ro: "Mănăstirea San Antonio de Padua", en: "San Antonio de Padua Convent" },
     coords: [-89.0172, 20.9328],
@@ -899,6 +927,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-padre-tembleque-aqueduct-landmarks-v2",
+    parent: "MX",
     type: "monument",
     name: { de: "Aquädukt des Padre Tembleque", hu: "Padre Tembleque akvedukt", ro: "Apeductul Padre Tembleque", en: "Aqueduct of Padre Tembleque" },
     coords: [-98.663, 19.843],
@@ -931,6 +960,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-santa-prisca-church-landmarks-v2",
+    parent: "MX",
     type: "church",
     name: { de: "Santa-Prisca-Kirche", hu: "Szent Prisca-templom", ro: "Biserica Santa Prisca", en: "Santa Prisca Church" },
     coords: [-99.6047, 18.5564],
@@ -963,6 +993,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-tijuana-arch-landmarks-v2",
+    parent: "MX",
     type: "monument",
     name: { de: "Bogen von Tijuana", hu: "Tijuana-ív", ro: "Arcul din Tijuana", en: "Tijuana Arch" },
     coords: [-117.0378, 32.533],
@@ -995,6 +1026,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-matute-remus-bridge-landmarks-v2",
+    parent: "MX",
     type: "bridge",
     name: { de: "Matute-Remus-Brücke", hu: "Matute Remus-híd", ro: "Podul Matute Remus", en: "Matute Remus Bridge" },
     coords: [-103.3917, 20.6658],
@@ -1027,6 +1059,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-uxmal-governors-palace-landmarks-v2",
+    parent: "MX",
     type: "ruins",
     name: { de: "Gouverneurspalast (Uxmal)", hu: "Kormányzói palota (Uxmal)", ro: "Palatul Guvernatorului (Uxmal)", en: "Governor's Palace (Uxmal)" },
     coords: [-89.7711, 20.3592],
@@ -1059,6 +1092,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-uxmal-magician-house-landmarks-v2",
+    parent: "MX",
     type: "ruins",
     name: { de: "Pyramide des Wahrsagers", hu: "A varázsló piramisa", ro: "Piramida Magicianului", en: "Pyramid of the Magician" },
     coords: [-89.77, 20.3611],
@@ -1091,6 +1125,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-calakmul-great-pyramid-landmarks-v2",
+    parent: "MX",
     type: "ruins",
     name: { de: "Große Pyramide von Calakmul", hu: "Calakmuli nagy piramis", ro: "Marea Piramidă din Calakmul", en: "Great Pyramid of Calakmul" },
     coords: [-89.81, 18.106],
@@ -1123,6 +1158,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-kohunlich-masks-temple-landmarks-v2",
+    parent: "MX",
     type: "ruins",
     name: { de: "Tempel der Masken (Kohunlich)", hu: "Maszkok temploma (Kohunlich)", ro: "Templul Măștilor (Kohunlich)", en: "Temple of the Masks (Kohunlich)" },
     coords: [-88.79, 18.42],
@@ -1155,6 +1191,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-san-diego-fort-landmarks-v2",
+    parent: "MX",
     type: "monument",
     name: { de: "Fort San Diego (Acapulco)", hu: "Szent Diego-erőd (Acapulco)", ro: "Fortăreața San Diego (Acapulco)", en: "Fort of San Diego (Acapulco)" },
     coords: [-99.9022, 16.8497],
@@ -1187,6 +1224,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-monterrey-cathedral-landmarks-v2",
+    parent: "MX",
     type: "cathedral",
     name: { de: "Kathedrale von Monterrey", hu: "Monterreyi székesegyház", ro: "Catedrala din Monterrey", en: "Monterrey Metropolitan Cathedral" },
     coords: [-100.31, 25.6653],
@@ -1219,6 +1257,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-san-luis-potosi-cathedral-landmarks-v2",
+    parent: "MX",
     type: "cathedral",
     name: { de: "Kathedrale von San Luis Potosí", hu: "San Luis Potosí-i székesegyház", ro: "Catedrala din San Luis Potosí", en: "San Luis Potosi Cathedral" },
     coords: [-100.9753, 22.1517],
@@ -1251,6 +1290,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-mazatlan-cathedral-landmarks-v2",
+    parent: "MX",
     type: "cathedral",
     name: { de: "Kathedrale von Mazatlán", hu: "Mazatláni székesegyház", ro: "Catedrala din Mazatlán", en: "Mazatlan Cathedral" },
     coords: [-106.416, 23.2],
@@ -1283,6 +1323,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-hermosillo-cathedral-landmarks-v2",
+    parent: "MX",
     type: "cathedral",
     name: { de: "Kathedrale von Hermosillo", hu: "Hermosillói székesegyház", ro: "Catedrala din Hermosillo", en: "Hermosillo Cathedral" },
     coords: [-110.957, 29.074],
@@ -1315,6 +1356,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-culiacan-cathedral-landmarks-v2",
+    parent: "MX",
     type: "cathedral",
     name: { de: "Kathedrale von Culiacán", hu: "Culiacáni székesegyház", ro: "Catedrala din Culiacán", en: "Culiacan Cathedral" },
     coords: [-107.394, 24.808],
@@ -1347,6 +1389,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-saltillo-cathedral-landmarks-v2",
+    parent: "MX",
     type: "cathedral",
     name: { de: "Kathedrale von Saltillo", hu: "Saltillói székesegyház", ro: "Catedrala din Saltillo", en: "Saltillo Cathedral" },
     coords: [-101.0, 25.422],
@@ -1379,6 +1422,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-la-paz-cathedral-landmarks-v2",
+    parent: "MX",
     type: "cathedral",
     name: { de: "Kathedrale von La Paz", hu: "La Paz-i székesegyház", ro: "Catedrala din La Paz", en: "Cathedral of Our Lady of Peace" },
     coords: [-110.313, 24.161],
@@ -1411,6 +1455,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-puebla-cathedral-landmarks-v2",
+    parent: "MX",
     type: "cathedral",
     name: { de: "Kathedrale von Puebla", hu: "Pueblai székesegyház", ro: "Catedrala din Puebla", en: "Puebla Cathedral" },
     coords: [-98.1985, 19.0425],
@@ -1443,6 +1488,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-monument-to-the-homeland-landmarks-v2",
+    parent: "MX",
     type: "monument",
     name: { de: "Denkmal der Heimat", hu: "A Haza emlékműve", ro: "Monumentul Patriei", en: "Monument to the Homeland" },
     coords: [-89.6172, 20.9897],
@@ -1475,6 +1521,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-oaxaca-cathedral-landmarks-v2",
+    parent: "MX",
     type: "cathedral",
     name: { de: "Kathedrale von Oaxaca", hu: "Oaxacai székesegyház", ro: "Catedrala din Oaxaca", en: "Oaxaca Cathedral" },
     coords: [-96.725, 17.0617],
@@ -1507,6 +1554,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-santo-domingo-church-oaxaca-landmarks-v2",
+    parent: "MX",
     type: "church",
     name: { de: "Kirche Santo Domingo (Oaxaca)", hu: "Szent Domonkos-templom (Oaxaca)", ro: "Biserica Santo Domingo (Oaxaca)", en: "Santo Domingo Church (Oaxaca)" },
     coords: [-96.7231, 17.0658],
@@ -1539,6 +1587,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-colima-cathedral-landmarks-v2",
+    parent: "MX",
     type: "cathedral",
     name: { de: "Kathedrale von Colima", hu: "Colimai székesegyház", ro: "Catedrala din Colima", en: "Colima Cathedral" },
     coords: [-103.727, 19.243],
@@ -1571,6 +1620,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-queretaro-convent-landmarks-v2",
+    parent: "MX",
     type: "church",
     name: { de: "Konvent des Heiligen Kreuzes", hu: "Szent Kereszt-kolostor (Querétaro)", ro: "Mănăstirea Sfintei Cruci", en: "Convent of the Holy Cross" },
     coords: [-100.3847, 20.5927],
@@ -1603,6 +1653,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-toluca-cosmovitral-landmarks-v2",
+    parent: "MX",
     type: "museum",
     name: { de: "Cosmovitral Botanischer Garten", hu: "Cosmovitral botanikus kert", ro: "Grădina Botanică Cosmovitral", en: "Cosmovitral Botanical Garden" },
     coords: [-99.654, 19.293],
@@ -1635,6 +1686,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-tequila-express-landmarks-v2",
+    parent: "MX",
     type: "monument",
     name: { de: "Tequila Express Bahnhof", hu: "Tequila Express állomás", ro: "Gara Tequila Express", en: "Tequila Express Station" },
     coords: [-103.837, 20.884],
@@ -1667,6 +1719,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-zacatecas-cable-car-landmarks-v2",
+    parent: "MX",
     type: "monument",
     name: { de: "Seilbahn von Zacatecas", hu: "Zacatecasi kötélpálya", ro: "Telefericul din Zacatecas", en: "Zacatecas Cable Car" },
     coords: [-102.5714, 22.7758],
@@ -1699,6 +1752,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-tampico-customs-building-landmarks-v2",
+    parent: "MX",
     type: "palace",
     name: { de: "Zollgebäude von Tampico", hu: "Tampicói vámház", ro: "Clădirea Vămii din Tampico", en: "Tampico Customs Building" },
     coords: [-97.854, 22.213],
@@ -1731,6 +1785,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-villahermosa-cathedral-landmarks-v2",
+    parent: "MX",
     type: "cathedral",
     name: { de: "Kathedrale von Villahermosa", hu: "Villahermosai székesegyház", ro: "Catedrala din Villahermosa", en: "Villahermosa Cathedral" },
     coords: [-92.923, 17.989],
@@ -1763,6 +1818,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-veracruz-cathedral-landmarks-v2",
+    parent: "MX",
     type: "cathedral",
     name: { de: "Kathedrale von Veracruz", hu: "Veracruzi székesegyház", ro: "Catedrala din Veracruz", en: "Veracruz Cathedral" },
     coords: [-96.138, 19.2],
@@ -1795,6 +1851,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-pachuca-clock-tower-landmarks-v2",
+    parent: "MX",
     type: "tower",
     name: { de: "Uhrturm von Pachuca", hu: "Pachucai óratorony", ro: "Turnul cu Ceas din Pachuca", en: "Pachuca Clock Tower" },
     coords: [-98.73, 20.126],
@@ -1827,6 +1884,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-guadalupe-island-lighthouse-landmarks-v2",
+    parent: "MX",
     type: "tower",
     name: { de: "Leuchtturm der Insel Guadalupe", hu: "Guadalupe-szigeti világítótorony", ro: "Farul Insulei Guadalupe", en: "Guadalupe Island Lighthouse" },
     coords: [-118.28, 29.15],
@@ -1859,6 +1917,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-monumento-a-la-patria-v2",
+    parent: "MX",
     type: "monument",
     name: { de: "Mérida-Denkmal der Geschichte", hu: "Méridai történelmi emlékmű", ro: "Monumentul Istoriei din Mérida", en: "Merida History Monument" },
     coords: [-89.617, 20.99],
@@ -1891,6 +1950,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-convent-san-gabriel-cholula-landmarks-v2",
+    parent: "MX",
     type: "church",
     name: { de: "Konvent San Gabriel (Cholula)", hu: "Szent Gábor-kolostor (Cholula)", ro: "Mănăstirea San Gabriel (Cholula)", en: "San Gabriel Convent (Cholula)" },
     coords: [-98.305, 19.062],
@@ -1923,6 +1983,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-teatro-macedonio-alcala-landmarks-v2",
+    parent: "MX",
     type: "theater",
     name: { de: "Teatro Macedonio Alcalá", hu: "Macedonio Alcalá Színház", ro: "Teatrul Macedonio Alcalá", en: "Macedonio Alcala Theater" },
     coords: [-96.7214, 17.0622],
@@ -1955,6 +2016,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-guadalupe-shrine-san-luis-potosi-landmarks-v2",
+    parent: "MX",
     type: "church",
     name: { de: "Heiligtum von Guadalupe (SLP)", hu: "Guadalupei szentély (SLP)", ro: "Sanctuarul din Guadalupe (SLP)", en: "Guadalupe Sanctuary (San Luis Potosi)" },
     coords: [-100.97, 22.14],
@@ -1987,6 +2049,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-aguascalientes-cathedral-landmarks-v2",
+    parent: "MX",
     type: "cathedral",
     name: { de: "Kathedrale von Aguascalientes", hu: "Aguascalientesi székesegyház", ro: "Catedrala din Aguascalientes", en: "Aguascalientes Cathedral" },
     coords: [-102.296, 21.881],
@@ -2019,6 +2082,7 @@ export const mexicoLandmarksV2: POI[] = [
   },
   {
     id: "mexico-san-antonio-church-aguascalientes-landmarks-v2",
+    parent: "MX",
     type: "church",
     name: { de: "San-Antonio-Kirche (Aguascalientes)", hu: "Szent Antal-templom (Aguascalientes)", ro: "Biserica San Antonio (Aguascalientes)", en: "San Antonio Church (Aguascalientes)" },
     coords: [-102.291, 21.885],

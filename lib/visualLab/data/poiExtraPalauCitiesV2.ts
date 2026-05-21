@@ -3,6 +3,7 @@ export const palauCitiesV2: POI[] = [
 
   {
     id: "palau-koror-cities-v2",
+    parent: "PW",
     type: "city",
     name: { de: "Koror", hu: "Koror", ro: "Koror", en: "Koror" },
     coords: [134.4781, 7.3419],
@@ -35,6 +36,7 @@ export const palauCitiesV2: POI[] = [
   },
   {
     id: "palau-ngerulmud-cities-v2",
+    parent: "PW",
     type: "capital",
     name: { de: "Ngerulmud", hu: "Ngerulmud", ro: "Ngerulmud", en: "Ngerulmud" },
     coords: [134.6242, 7.5005],
@@ -67,6 +69,7 @@ export const palauCitiesV2: POI[] = [
   },
   {
     id: "palau-airai-cities-v2",
+    parent: "PW",
     type: "town",
     name: { de: "Airai", hu: "Airai", ro: "Airai", en: "Airai" },
     coords: [134.5161, 7.3611],
@@ -99,6 +102,7 @@ export const palauCitiesV2: POI[] = [
   },
   {
     id: "palau-meyuns-cities-v2",
+    parent: "PW",
     type: "village",
     name: { de: "Meyuns", hu: "Meyuns", ro: "Meyuns", en: "Meyuns" },
     coords: [134.4533, 7.3533],
@@ -131,6 +135,7 @@ export const palauCitiesV2: POI[] = [
   },
   {
     id: "palau-melekeok-cities-v2",
+    parent: "PW",
     type: "village",
     name: { de: "Melekeok", hu: "Melekeok", ro: "Melekeok", en: "Melekeok" },
     coords: [134.6367, 7.4947],
@@ -163,6 +168,7 @@ export const palauCitiesV2: POI[] = [
   },
   {
     id: "palau-kloulklubed-cities-v2",
+    parent: "PW",
     type: "village",
     name: { de: "Kloulklubed", hu: "Kloulklubed", ro: "Kloulklubed", en: "Kloulklubed" },
     coords: [134.256, 7.042],
@@ -195,6 +201,7 @@ export const palauCitiesV2: POI[] = [
   },
   {
     id: "palau-angaur-cities-v2",
+    parent: "PW",
     type: "village",
     name: { de: "Angaur", hu: "Angaur", ro: "Angaur", en: "Angaur" },
     coords: [134.131, 6.911],
@@ -227,6 +234,7 @@ export const palauCitiesV2: POI[] = [
   },
   {
     id: "palau-kayangel-cities-v2",
+    parent: "PW",
     type: "village",
     name: { de: "Kayangel", hu: "Kayangel", ro: "Kayangel", en: "Kayangel" },
     coords: [134.717, 8.083],
@@ -259,6 +267,7 @@ export const palauCitiesV2: POI[] = [
   },
   {
     id: "palau-ngardmau-cities-v2",
+    parent: "PW",
     type: "village",
     name: { de: "Ngardmau", hu: "Ngardmau", ro: "Ngardmau", en: "Ngardmau" },
     coords: [134.558, 7.595],
@@ -291,6 +300,7 @@ export const palauCitiesV2: POI[] = [
   },
   {
     id: "palau-ulimang-cities-v2",
+    parent: "PW",
     type: "village",
     name: { de: "Ulimang", hu: "Ulimang", ro: "Ulimang", en: "Ulimang" },
     coords: [134.636, 7.625],
@@ -323,6 +333,7 @@ export const palauCitiesV2: POI[] = [
   },
   {
     id: "palau-mengellang-cities-v2",
+    parent: "PW",
     type: "village",
     name: { de: "Mengellang", hu: "Mengellang", ro: "Mengellang", en: "Mengellang" },
     coords: [134.629, 7.705],
@@ -355,6 +366,7 @@ export const palauCitiesV2: POI[] = [
   },
   {
     id: "palau-ngchesar-cities-v2",
+    parent: "PW",
     type: "village",
     name: { de: "Ngchesar", hu: "Ngchesar", ro: "Ngchesar", en: "Ngchesar" },
     coords: [134.604, 7.456],
@@ -387,6 +399,7 @@ export const palauCitiesV2: POI[] = [
   },
   {
     id: "palau-ngiwal-cities-v2",
+    parent: "PW",
     type: "village",
     name: { de: "Ngiwal", hu: "Ngiwal", ro: "Ngiwal", en: "Ngiwal" },
     coords: [134.637, 7.555],
@@ -419,6 +432,7 @@ export const palauCitiesV2: POI[] = [
   },
   {
     id: "palau-ngatpang-cities-v2",
+    parent: "PW",
     type: "village",
     name: { de: "Ngatpang", hu: "Ngatpang", ro: "Ngatpang", en: "Ngatpang" },
     coords: [134.538, 7.477],
@@ -451,6 +465,7 @@ export const palauCitiesV2: POI[] = [
   },
   {
     id: "palau-aimeliik-cities-v2",
+    parent: "PW",
     type: "village",
     name: { de: "Aimeliik", hu: "Aimeliik", ro: "Aimeliik", en: "Aimeliik" },
     coords: [134.502, 7.442],

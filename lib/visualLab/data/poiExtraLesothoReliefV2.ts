@@ -3,6 +3,7 @@ export const lesothoReliefV2: POI[] = [
 
   {
     id: "lesotho-machache-mountain-relief-v2",
+    parent: "LS",
     type: "peak",
     name: { de: "Machache", hu: "Machache-hegy", ro: "Muntele Machache", en: "Machache Mountain" },
     coords: [27.8825, -29.3514],
@@ -35,6 +36,7 @@ export const lesothoReliefV2: POI[] = [
   },
   {
     id: "lesotho-moteng-pass-relief-v2",
+    parent: "LS",
     type: "valley",
     name: { de: "Moteng-Pass", hu: "Moteng-hágó", ro: "Pasul Moteng", en: "Moteng Pass" },
     coords: [28.5833, -28.775],
@@ -67,6 +69,7 @@ export const lesothoReliefV2: POI[] = [
   },
   {
     id: "lesotho-thabana-morena-relief-v2",
+    parent: "LS",
     type: "mountain",
     name: { de: "Thabana Morena", hu: "Thabana Morena", ro: "Thabana Morena", en: "Thabana Morena" },
     coords: [27.3333, -29.8333],
@@ -99,6 +102,7 @@ export const lesothoReliefV2: POI[] = [
   },
   {
     id: "lesotho-mount-makheke-relief-v2",
+    parent: "LS",
     type: "peak",
     name: { de: "Mount Makheke", hu: "Makheke-hegy", ro: "Muntele Makheke", en: "Mount Makheke" },
     coords: [28.9833, -29.2667],
@@ -131,6 +135,7 @@ export const lesothoReliefV2: POI[] = [
   },
   {
     id: "lesotho-thaba-li-mpe-relief-v2",
+    parent: "LS",
     type: "peak",
     name: { de: "Thaba-Li-Mpe", hu: "Thaba-Li-Mpe", ro: "Thaba-Li-Mpe", en: "Thaba-Li-Mpe" },
     coords: [28.3167, -29.1333],
@@ -163,6 +168,7 @@ export const lesothoReliefV2: POI[] = [
   },
   {
     id: "lesotho-likhoele-mountain-relief-v2",
+    parent: "LS",
     type: "mountain",
     name: { de: "Likhoele", hu: "Likhoele-hegy", ro: "Muntele Likhoele", en: "Likhoele Mountain" },
     coords: [27.32, -29.9],
@@ -195,6 +201,7 @@ export const lesothoReliefV2: POI[] = [
   },
   {
     id: "lesotho-western-lowlands-relief-v2",
+    parent: "LS",
     type: "valley",
     name: { de: "Westliches Tiefland", hu: "Nyugati alföld", ro: "Câmpiile de Vest", en: "Western Lowlands" },
     coords: [27.2, -29.5],
@@ -227,6 +234,7 @@ export const lesothoReliefV2: POI[] = [
   },
   {
     id: "lesotho-maloti-foothills-relief-v2",
+    parent: "LS",
     type: "valley",
     name: { de: "Vorgebirge der Maloti", hu: "Maloti-előtér", ro: "Dealurile de la poalele Maloti", en: "Maloti Foothills" },
     coords: [27.6, -29.3],
@@ -259,6 +267,7 @@ export const lesothoReliefV2: POI[] = [
   },
   {
     id: "lesotho-senqu-river-canyon-relief-v2",
+    parent: "LS",
     type: "valley",
     name: { de: "Senqu-Flusscanyon", hu: "Senqu-folyó kanyonja", ro: "Canionul râului Senqu", en: "Senqu River Canyon" },
     coords: [28.5, -30.3],
@@ -291,6 +300,7 @@ export const lesothoReliefV2: POI[] = [
   },
   {
     id: "lesotho-mamoheli-mountain-relief-v2",
+    parent: "LS",
     type: "peak",
     name: { de: "Mamoheli", hu: "Mamoheli-hegy", ro: "Muntele Mamoheli", en: "Mamoheli Mountain" },
     coords: [28.6, -29.55],
@@ -323,6 +333,7 @@ export const lesothoReliefV2: POI[] = [
   },
   {
     id: "lesotho-tlaeeng-pass-relief-v2",
+    parent: "LS",
     type: "valley",
     name: { de: "Tlaeeng-Pass", hu: "Tlaeeng-hágó", ro: "Pasul Tlaeeng", en: "Tlaeeng Pass" },
     coords: [28.7417, -28.9333],
@@ -355,6 +366,7 @@ export const lesothoReliefV2: POI[] = [
   },
   {
     id: "lesotho-black-mountain-pass-relief-v2",
+    parent: "LS",
     type: "valley",
     name: { de: "Black Mountain Pass", hu: "Fekete-hegyi hágó", ro: "Pasul Black Mountain", en: "Black Mountain Pass" },
     coords: [29.2167, -29.5333],
@@ -387,6 +399,7 @@ export const lesothoReliefV2: POI[] = [
   },
   {
     id: "lesotho-mokhoabong-pass-relief-v2",
+    parent: "LS",
     type: "valley",
     name: { de: "Mokhoabong-Pass", hu: "Mokhoabong-hágó", ro: "Pasul Mokhoabong", en: "Mokhoabong Pass" },
     coords: [28.45, -29.5167],
@@ -419,6 +432,7 @@ export const lesothoReliefV2: POI[] = [
   },
   {
     id: "lesotho-bushmans-pass-relief-v2",
+    parent: "LS",
     type: "valley",
     name: { de: "Bushmans-Pass", hu: "Bushmans-hágó", ro: "Pasul Bushmans", en: "Bushmans Pass" },
     coords: [27.81, -29.44],
@@ -451,6 +465,7 @@ export const lesothoReliefV2: POI[] = [
   },
   {
     id: "lesotho-cheche-pass-relief-v2",
+    parent: "LS",
     type: "valley",
     name: { de: "Cheche-Pass", hu: "Cheche-hágó", ro: "Pasul Cheche", en: "Cheche Pass" },
     coords: [28.18, -29.49],
@@ -483,6 +498,7 @@ export const lesothoReliefV2: POI[] = [
   },
   {
     id: "lesotho-sentinel-peak-relief-v2",
+    parent: "LS",
     type: "peak",
     name: { de: "The Sentinel", hu: "The Sentinel", ro: "Vârful Sentinel", en: "The Sentinel Peak" },
     coords: [28.8917, -28.7417],
@@ -515,6 +531,7 @@ export const lesothoReliefV2: POI[] = [
   },
   {
     id: "lesotho-nteko-plateau-relief-v2",
+    parent: "LS",
     type: "mountain",
     name: { de: "Nteko-Plateau", hu: "Nteko-fennsík", ro: "Platoul Nteko", en: "Nteko Plateau" },
     coords: [28.25, -30.05],
@@ -547,6 +564,7 @@ export const lesothoReliefV2: POI[] = [
   },
   {
     id: "lesotho-makhomalong-range-relief-v2",
+    parent: "LS",
     type: "mountain",
     name: { de: "Makhomalong-Kette", hu: "Makhomalong-hegység", ro: "Munții Makhomalong", en: "Makhomalong Range" },
     coords: [28.2, -28.9],
@@ -579,6 +597,7 @@ export const lesothoReliefV2: POI[] = [
   },
   {
     id: "lesotho-thaba-tele-mountain-relief-v2",
+    parent: "LS",
     type: "peak",
     name: { de: "Thaba-Tele", hu: "Thaba-Tele-hegy", ro: "Muntele Thaba-Tele", en: "Thaba-Tele Mountain" },
     coords: [27.9833, -30.2167],

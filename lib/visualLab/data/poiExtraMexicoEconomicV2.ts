@@ -3,6 +3,7 @@ export const mexicoEconomicV2: POI[] = [
 
   {
     id: "mexico-lazaro-cardenas-port-economic-v2",
+    parent: "MX",
     type: "port",
     name: { de: "Hafen von Lázaro Cárdenas", hu: "Lázaro Cárdenas kikötője", ro: "Portul Lázaro Cárdenas", en: "Port of Lázaro Cárdenas" },
     coords: [-102.181, 17.935],
@@ -35,6 +36,7 @@ export const mexicoEconomicV2: POI[] = [
   },
   {
     id: "mexico-altamira-industrial-port-economic-v2",
+    parent: "MX",
     type: "port",
     name: { de: "Industriehafen Altamira", hu: "Altamira ipari kikötő", ro: "Portul Industrial Altamira", en: "Altamira Industrial Port" },
     coords: [-97.941, 22.485],
@@ -67,6 +69,7 @@ export const mexicoEconomicV2: POI[] = [
   },
   {
     id: "mexico-fresnillo-silver-mine-economic-v2",
+    parent: "MX",
     type: "mine",
     name: { de: "Silbermine Fresnillo", hu: "Fresnillo ezüstbánya", ro: "Mina de argint Fresnillo", en: "Fresnillo Silver Mine" },
     coords: [-102.863, 23.174],
@@ -99,6 +102,7 @@ export const mexicoEconomicV2: POI[] = [
   },
   {
     id: "mexico-cananea-copper-mine-economic-v2",
+    parent: "MX",
     type: "mine",
     name: { de: "Kupfermine Cananea", hu: "Cananea rézbánya", ro: "Mina de cupru Cananea", en: "Cananea Copper Mine" },
     coords: [-110.298, 30.985],
@@ -131,6 +135,7 @@ export const mexicoEconomicV2: POI[] = [
   },
   {
     id: "mexico-santa-fe-district-economic-v2",
+    parent: "MX",
     type: "industry",
     name: { de: "Finanzdistrikt Santa Fe", hu: "Santa Fe üzleti negyed", ro: "Districtul Santa Fe", en: "Santa Fe Business District" },
     coords: [-99.263, 19.362],
@@ -163,6 +168,7 @@ export const mexicoEconomicV2: POI[] = [
   },
   {
     id: "mexico-cantarell-oil-field-economic-v2",
+    parent: "MX",
     type: "industry",
     name: { de: "Cantarell Ölfeld", hu: "Cantarell olajmező", ro: "Câmpul petrolifer Cantarell", en: "Cantarell Oil Field" },
     coords: [-92.215, 19.231],
@@ -195,6 +201,7 @@ export const mexicoEconomicV2: POI[] = [
   },
   {
     id: "mexico-dos-bocas-refinery-economic-v2",
+    parent: "MX",
     type: "factory",
     name: { de: "Raffinerie Dos Bocas", hu: "Dos Bocas finomító", ro: "Rafinăria Dos Bocas", en: "Dos Bocas Refinery" },
     coords: [-93.185, 18.435],
@@ -227,6 +234,7 @@ export const mexicoEconomicV2: POI[] = [
   },
   {
     id: "mexico-reforma-financial-zone-economic-v2",
+    parent: "MX",
     type: "landmark",
     name: { de: "Finanzzone Paseo de la Reforma", hu: "Paseo de la Reforma pénzügyi övezet", ro: "Zona Financiară Paseo de la Reforma", en: "Paseo de la Reforma Financial Zone" },
     coords: [-99.167, 19.427],
@@ -259,6 +267,7 @@ export const mexicoEconomicV2: POI[] = [
   },
   {
     id: "mexico-silao-automotive-cluster-economic-v2",
+    parent: "MX",
     type: "industry",
     name: { de: "Automobil-Cluster Silao", hu: "Silao autóipari klaszter", ro: "Clusterul auto Silao", en: "Silao Automotive Cluster" },
     coords: [-101.432, 20.945],
@@ -291,6 +300,7 @@ export const mexicoEconomicV2: POI[] = [
   },
   {
     id: "mexico-central-de-abasto-economic-v2",
+    parent: "MX",
     type: "industry",
     name: { de: "Zentralmarkt Abasto", hu: "Central de Abasto nagybani piac", ro: "Piața Central de Abasto", en: "Central de Abasto Market" },
     coords: [-99.091, 19.381],
@@ -323,6 +333,7 @@ export const mexicoEconomicV2: POI[] = [
   },
   {
     id: "mexico-penasquito-gold-mine-economic-v2",
+    parent: "MX",
     type: "mine",
     name: { de: "Goldmine Peñasquito", hu: "Peñasquito aranybánya", ro: "Mina de aur Peñasquito", en: "Peñasquito Gold Mine" },
     coords: [-102.665, 24.582],
@@ -355,6 +366,7 @@ export const mexicoEconomicV2: POI[] = [
   },
   {
     id: "mexico-salina-cruz-port-economic-v2",
+    parent: "MX",
     type: "port",
     name: { de: "Hafen Salina Cruz", hu: "Salina Cruz kikötője", ro: "Portul Salina Cruz", en: "Salina Cruz Port" },
     coords: [-95.195, 16.175],
@@ -387,6 +399,7 @@ export const mexicoEconomicV2: POI[] = [
   },
   {
     id: "mexico-guaymas-port-economic-v2",
+    parent: "MX",
     type: "port",
     name: { de: "Hafen von Guaymas", hu: "Guaymas kikötője", ro: "Portul Guaymas", en: "Port of Guaymas" },
     coords: [-110.895, 27.925],
@@ -419,6 +432,7 @@ export const mexicoEconomicV2: POI[] = [
   },
   {
     id: "mexico-progreso-port-economic-v2",
+    parent: "MX",
     type: "port",
     name: { de: "Hafen von Progreso", hu: "Progreso kikötője", ro: "Portul Progreso", en: "Port of Progreso" },
     coords: [-89.665, 21.285],
@@ -451,6 +465,7 @@ export const mexicoEconomicV2: POI[] = [
   },
   {
     id: "mexico-tuxpan-port-economic-v2",
+    parent: "MX",
     type: "port",
     name: { de: "Hafen von Tuxpan", hu: "Tuxpan kikötője", ro: "Portul Tuxpan", en: "Port of Tuxpan" },
     coords: [-97.405, 20.955],
@@ -483,6 +498,7 @@ export const mexicoEconomicV2: POI[] = [
   },
   {
     id: "mexico-santa-catarina-industrial-economic-v2",
+    parent: "MX",
     type: "industry",
     name: { de: "Industriezone Santa Catarina", hu: "Santa Catarina ipari övezet", ro: "Zona Industrială Santa Catarina", en: "Santa Catarina Industrial Zone" },
     coords: [-100.465, 25.682],
@@ -515,6 +531,7 @@ export const mexicoEconomicV2: POI[] = [
   },
   {
     id: "mexico-pesqueria-industrial-hub-economic-v2",
+    parent: "MX",
     type: "factory",
     name: { de: "Industriezentrum Pesquería", hu: "Pesquería ipari központ", ro: "Centrul Industrial Pesquería", en: "Pesquería Industrial Hub" },
     coords: [-100.055, 25.785],
@@ -547,6 +564,7 @@ export const mexicoEconomicV2: POI[] = [
   },
   {
     id: "mexico-san-jose-chiapa-audi-economic-v2",
+    parent: "MX",
     type: "factory",
     name: { de: "Audi-Werk San José Chiapa", hu: "Audi gyár San José Chiapa", ro: "Fabrica Audi San José Chiapa", en: "Audi Plant San José Chiapa" },
     coords: [-97.775, 19.245],
@@ -579,6 +597,7 @@ export const mexicoEconomicV2: POI[] = [
   },
   {
     id: "mexico-derramadero-hub-economic-v2",
+    parent: "MX",
     type: "industry",
     name: { de: "Industriehub Derramadero", hu: "Derramadero ipari csomópont", ro: "Hub-ul Industrial Derramadero", en: "Derramadero Industrial Hub" },
     coords: [-101.125, 25.185],
@@ -611,6 +630,7 @@ export const mexicoEconomicV2: POI[] = [
   },
   {
     id: "mexico-valle-del-yaqui-agriculture-economic-v2",
+    parent: "MX",
     type: "industry",
     name: { de: "Landwirtschaftstal Yaqui", hu: "Yaqui-völgy mezőgazdaság", ro: "Valea Yaqui agricultură", en: "Yaqui Valley Agriculture" },
     coords: [-109.935, 27.345],
@@ -643,6 +663,7 @@ export const mexicoEconomicV2: POI[] = [
   },
   {
     id: "mexico-la-laguna-dairy-region-economic-v2",
+    parent: "MX",
     type: "industry",
     name: { de: "Milchregion La Laguna", hu: "La Laguna tejtermelő vidék", ro: "Regiunea lactatelor La Laguna", en: "La Laguna Dairy Region" },
     coords: [-103.405, 25.545],
@@ -675,6 +696,7 @@ export const mexicoEconomicV2: POI[] = [
   },
   {
     id: "mexico-minatitlan-refinery-economic-v2",
+    parent: "MX",
     type: "factory",
     name: { de: "Raffinerie Minatitlán", hu: "Minatitláni finomító", ro: "Rafinăria Minatitlán", en: "Minatitlán Refinery" },
     coords: [-94.545, 18.005],
@@ -707,6 +729,7 @@ export const mexicoEconomicV2: POI[] = [
   },
   {
     id: "mexico-cadereyta-refinery-economic-v2",
+    parent: "MX",
     type: "factory",
     name: { de: "Raffinerie Cadereyta", hu: "Cadereytai finomító", ro: "Rafinăria Cadereyta", en: "Cadereyta Refinery" },
     coords: [-99.995, 25.595],
@@ -739,6 +762,7 @@ export const mexicoEconomicV2: POI[] = [
   },
   {
     id: "mexico-piedras-negras-coal-economic-v2",
+    parent: "MX",
     type: "mine",
     name: { de: "Kohleminen Piedras Negras", hu: "Piedras Negras szénbányák", ro: "Minele de cărbune Piedras Negras", en: "Piedras Negras Coal Mines" },
     coords: [-100.525, 28.705],
@@ -771,6 +795,7 @@ export const mexicoEconomicV2: POI[] = [
   },
   {
     id: "mexico-san-luis-rio-colorado-trade-economic-v2",
+    parent: "MX",
     type: "industry",
     name: { de: "Handelszentrum San Luis Río Colorado", hu: "San Luis Río Colorado kereskedelmi központ", ro: "Centrul comercial San Luis Río Colorado", en: "San Luis Río Colorado Trade Center" },
     coords: [-114.785, 32.465],
@@ -803,6 +828,7 @@ export const mexicoEconomicV2: POI[] = [
   },
   {
     id: "mexico-caborca-gold-district-economic-v2",
+    parent: "MX",
     type: "mine",
     name: { de: "Golddistrikt Caborca", hu: "Caborca aranyvidék", ro: "Districtul aurifer Caborca", en: "Caborca Gold District" },
     coords: [-112.155, 30.715],
@@ -835,6 +861,7 @@ export const mexicoEconomicV2: POI[] = [
   },
   {
     id: "mexico-navojoa-agro-industry-economic-v2",
+    parent: "MX",
     type: "industry",
     name: { de: "Agrarindustrie Navojoa", hu: "Navojoa agrár-ipar", ro: "Agro-industria Navojoa", en: "Navojoa Agro-Industry" },
     coords: [-109.445, 27.085],
@@ -867,6 +894,7 @@ export const mexicoEconomicV2: POI[] = [
   },
   {
     id: "mexico-intermodal-terminal-queretaro-economic-v2",
+    parent: "MX",
     type: "industry",
     name: { de: "Intermodal-Terminal Querétaro", hu: "Querétaro intermodális terminál", ro: "Terminalul Intermodal Querétaro", en: "Querétaro Intermodal Terminal" },
     coords: [-100.275, 20.655],
@@ -899,6 +927,7 @@ export const mexicoEconomicV2: POI[] = [
   },
   {
     id: "mexico-cactus-gas-plant-economic-v2",
+    parent: "MX",
     type: "factory",
     name: { de: "Gasverarbeitungskanal Cactus", hu: "Cactus gázfeldolgozó üzem", ro: "Stația de procesare a gazelor Cactus", en: "Cactus Gas Processing Plant" },
     coords: [-93.315, 17.925],
@@ -931,6 +960,7 @@ export const mexicoEconomicV2: POI[] = [
   },
   {
     id: "mexico-seybaplaya-port-economic-v2",
+    parent: "MX",
     type: "port",
     name: { de: "Hafen von Seybaplaya", hu: "Seybaplaya kikötője", ro: "Portul Seybaplaya", en: "Port of Seybaplaya" },
     coords: [-90.695, 19.645],

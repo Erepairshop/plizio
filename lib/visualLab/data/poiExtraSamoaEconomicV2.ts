@@ -3,6 +3,7 @@ export const samoaEconomicV2: POI[] = [
 
   {
     id: "samoa-apia-port-economic-v2",
+    parent: "WS",
     type: "port",
     name: { de: "Hafen von Apia", hu: "Apia kikötője", ro: "Portul Apia", en: "Port of Apia" },
     coords: [-171.764, -13.826],
@@ -35,6 +36,7 @@ export const samoaEconomicV2: POI[] = [
   },
   {
     id: "samoa-vaitele-industrial-zone-economic-v2",
+    parent: "WS",
     type: "industry",
     name: { de: "Industriegebiet Vaitele", hu: "Vaitele ipari negyed", ro: "Zona industrială Vaitele", en: "Vaitele Industrial Zone" },
     coords: [-171.802, -13.837],
@@ -67,6 +69,7 @@ export const samoaEconomicV2: POI[] = [
   },
   {
     id: "samoa-faleolo-airport-logistics-economic-v2",
+    parent: "WS",
     type: "port",
     name: { de: "Internationaler Flughafen Faleolo", hu: "Faleolo nemzetközi repülőtér", ro: "Aeroportul Internațional Faleolo", en: "Faleolo International Airport" },
     coords: [-172.008, -13.83],
@@ -99,6 +102,7 @@ export const samoaEconomicV2: POI[] = [
   },
   {
     id: "samoa-salelologa-market-economic-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Markt von Salelologa", hu: "Salelologa piac", ro: "Piața Salelologa", en: "Salelologa Market" },
     coords: [-172.215, -13.741],
@@ -131,6 +135,7 @@ export const samoaEconomicV2: POI[] = [
   },
   {
     id: "samoa-fugalei-fresh-produce-market-economic-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Frischwarenmarkt Fugalei", hu: "Fugalei frissáru piac", ro: "Piața de produse proaspete Fugalei", en: "Fugalei Fresh Produce Market" },
     coords: [-171.77, -13.837],
@@ -163,6 +168,7 @@ export const samoaEconomicV2: POI[] = [
   },
   {
     id: "samoa-afulilo-hydroelectric-plant-economic-v2",
+    parent: "WS",
     type: "industry",
     name: { de: "Wasserkraftwerk Afulilo", hu: "Afulilo vízerőmű", ro: "Hidrocentrala Afulilo", en: "Afulilo Hydroelectric Plant" },
     coords: [-171.605, -13.918],
@@ -195,6 +201,7 @@ export const samoaEconomicV2: POI[] = [
   },
   {
     id: "samoa-fiaga-power-station-economic-v2",
+    parent: "WS",
     type: "industry",
     name: { de: "Kraftwerk Fiaga", hu: "Fiaga erőmű", ro: "Centrala electrică Fiaga", en: "Fiaga Power Station" },
     coords: [-171.856, -13.882],
@@ -227,6 +234,7 @@ export const samoaEconomicV2: POI[] = [
   },
   {
     id: "samoa-asau-port-savaii-economic-v2",
+    parent: "WS",
     type: "port",
     name: { de: "Hafen von Asau", hu: "Asau kikötője", ro: "Portul Asau", en: "Asau Port" },
     coords: [-172.638, -13.512],
@@ -259,6 +267,7 @@ export const samoaEconomicV2: POI[] = [
   },
   {
     id: "samoa-mulifanua-wharf-economic-v2",
+    parent: "WS",
     type: "port",
     name: { de: "Mulifanua-Kai", hu: "Mulifanua kikötőmóló", ro: "Mollul Mulifanua", en: "Mulifanua Wharf" },
     coords: [-172.042, -13.818],
@@ -291,6 +300,7 @@ export const samoaEconomicV2: POI[] = [
   },
   {
     id: "samoa-salelologa-wharf-economic-v2",
+    parent: "WS",
     type: "port",
     name: { de: "Salelologa-Kai", hu: "Salelologa kikötőmóló", ro: "Mollul Salelologa", en: "Salelologa Wharf" },
     coords: [-172.209, -13.738],
@@ -323,6 +333,7 @@ export const samoaEconomicV2: POI[] = [
   },
   {
     id: "samoa-breweries-vaitele-economic-v2",
+    parent: "WS",
     type: "factory",
     name: { de: "Samoa Breweries Limited", hu: "Szamoai Sörfőzde", ro: "Fabrica de bere din Samoa", en: "Samoa Breweries Limited" },
     coords: [-171.81, -13.835],
@@ -355,6 +366,7 @@ export const samoaEconomicV2: POI[] = [
   },
   {
     id: "samoa-savalalo-fish-market-economic-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Fischmarkt von Savalalo", hu: "Savalalo halpiac", ro: "Piața de pește Savalalo", en: "Savalalo Fish Market" },
     coords: [-171.767, -13.831],
@@ -387,6 +399,7 @@ export const samoaEconomicV2: POI[] = [
   },
   {
     id: "samoa-central-bank-building-economic-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Zentralbank von Samoa", hu: "Szamoai Központi Bank", ro: "Banca Centrală a Samoa", en: "Central Bank of Samoa" },
     coords: [-171.768, -13.831],
@@ -419,6 +432,7 @@ export const samoaEconomicV2: POI[] = [
   },
   {
     id: "samoa-development-bank-building-economic-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Entwicklungsbank von Samoa", hu: "Szamoai Fejlesztési Bank", ro: "Banca de Dezvoltare a Samoa", en: "Development Bank of Samoa" },
     coords: [-171.767, -13.833],
@@ -451,6 +465,7 @@ export const samoaEconomicV2: POI[] = [
   },
   {
     id: "samoa-nuu-agricultural-center-economic-v2",
+    parent: "WS",
     type: "industry",
     name: { de: "Landwirtschaftszentrum Nu'u", hu: "Nu'u Mezőgazdasági Központ", ro: "Centrul Agricol Nu'u", en: "Nu'u Agricultural Center" },
     coords: [-171.815, -13.842],
@@ -483,6 +498,7 @@ export const samoaEconomicV2: POI[] = [
   },
   {
     id: "samoa-sogi-industrial-district-economic-v2",
+    parent: "WS",
     type: "industry",
     name: { de: "Industrieviertel Sogi", hu: "Sogi ipari negyed", ro: "Districtul industrial Sogi", en: "Sogi Industrial District" },
     coords: [-171.775, -13.83],
@@ -515,6 +531,7 @@ export const samoaEconomicV2: POI[] = [
   },
   {
     id: "samoa-vaitele-west-manufacturing-economic-v2",
+    parent: "WS",
     type: "factory",
     name: { de: "Fertigungszentrum Vaitele-West", hu: "Vaitele-West gyártási központ", ro: "Centrul de producție Vaitele West", en: "Vaitele West Manufacturing Center" },
     coords: [-171.82, -13.84],
@@ -547,6 +564,7 @@ export const samoaEconomicV2: POI[] = [
   },
   {
     id: "samoa-loto-samasoni-hydro-economic-v2",
+    parent: "WS",
     type: "industry",
     name: { de: "Wasserkraftwerk Loto Samasoni", hu: "Loto Samasoni vízerőmű", ro: "Hidrocentrala Loto Samasoni", en: "Loto Samasoni Hydro Plant" },
     coords: [-171.765, -13.848],
@@ -579,6 +597,7 @@ export const samoaEconomicV2: POI[] = [
   },
   {
     id: "samoa-alaoa-dam-reservoir-economic-v2",
+    parent: "WS",
     type: "lake",
     name: { de: "Alaoa-Talsperre", hu: "Alaoa-gát", ro: "Barajul Alaoa", en: "Alaoa Dam" },
     coords: [-171.748, -13.871],
@@ -611,6 +630,7 @@ export const samoaEconomicV2: POI[] = [
   },
   {
     id: "samoa-tanugamanono-power-substation-economic-v2",
+    parent: "WS",
     type: "industry",
     name: { de: "Umspannwerk Tanugamanono", hu: "Tanugamanono alállomás", ro: "Stația electrică Tanugamanono", en: "Tanugamanono Power Substation" },
     coords: [-171.758, -13.845],
@@ -643,6 +663,7 @@ export const samoaEconomicV2: POI[] = [
   },
   {
     id: "samoa-coconut-clusters-factory-vaitele-economic-v2",
+    parent: "WS",
     type: "factory",
     name: { de: "Kokosnuss-Verarbeitungsbetrieb", hu: "Kókuszfeldolgozó üzem", ro: "Fabrica de procesare a nucii de cocos", en: "Samoa Coconut Clusters Factory" },
     coords: [-171.805, -13.839],
@@ -675,6 +696,7 @@ export const samoaEconomicV2: POI[] = [
   },
   {
     id: "samoa-ah-liki-distribution-center-economic-v2",
+    parent: "WS",
     type: "industry",
     name: { de: "Logistikzentrum Ah Liki", hu: "Ah Liki logisztikai központ", ro: "Centrul de distribuție Ah Liki", en: "Ah Liki Distribution Center" },
     coords: [-171.795, -13.838],
@@ -707,6 +729,7 @@ export const samoaEconomicV2: POI[] = [
   },
   {
     id: "samoa-apia-marina-economic-v2",
+    parent: "WS",
     type: "port",
     name: { de: "Marina von Apia", hu: "Apia jachtkikötő", ro: "Marina Apia", en: "Apia Marina" },
     coords: [-171.76, -13.828],
@@ -739,6 +762,7 @@ export const samoaEconomicV2: POI[] = [
   },
   {
     id: "samoa-acc-building-economic-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "ACC-Gebäude", hu: "ACC-épület", ro: "Clădirea ACC", en: "ACC Building" },
     coords: [-171.769, -13.832],
@@ -771,6 +795,7 @@ export const samoaEconomicV2: POI[] = [
   },
   {
     id: "samoa-togitogiga-agriculture-area-economic-v2",
+    parent: "WS",
     type: "industry",
     name: { de: "Landwirtschaftsgebiet Togitogiga", hu: "Togitogiga mezőgazdasági terület", ro: "Zona agricolă Togitogiga", en: "Togitogiga Agriculture Area" },
     coords: [-171.685, -14.015],
@@ -803,6 +828,7 @@ export const samoaEconomicV2: POI[] = [
   },
   {
     id: "samoa-falealili-cocoa-plantations-economic-v2",
+    parent: "WS",
     type: "industry",
     name: { de: "Kakaoplantagen von Falealili", hu: "Falealili kakaóültetvények", ro: "Plantațiile de cacao Falealili", en: "Falealili Cocoa Plantations" },
     coords: [-171.655, -14.005],
@@ -835,6 +861,7 @@ export const samoaEconomicV2: POI[] = [
   },
   {
     id: "samoa-vaiaata-prison-farm-economic-v2",
+    parent: "WS",
     type: "industry",
     name: { de: "Gefängnisfarm Vaiaata", hu: "Vaiaata börtönfarm", ro: "Ferma penitenciarului Vaiaata", en: "Vaiaata Prison Farm" },
     coords: [-172.315, -13.685],
@@ -867,6 +894,7 @@ export const samoaEconomicV2: POI[] = [
   },
   {
     id: "samoa-manono-island-fishing-hub-economic-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Fischereizentrum Manono", hu: "Manono halászati központ", ro: "Centrul de pescuit Manono", en: "Manono Island Fishing Hub" },
     coords: [-172.11, -13.845],
@@ -899,6 +927,7 @@ export const samoaEconomicV2: POI[] = [
   },
   {
     id: "samoa-maritime-academy-training-economic-v2",
+    parent: "WS",
     type: "university",
     name: { de: "Samoanische Seefahrtsakademie", hu: "Szamoai Tengerészeti Akadémia", ro: "Academia Maritimă din Samoa", en: "Samoa Maritime Academy" },
     coords: [-172.015, -13.825],
@@ -931,6 +960,7 @@ export const samoaEconomicV2: POI[] = [
   },
   {
     id: "samoa-tui-samoa-cable-landing-economic-v2",
+    parent: "WS",
     type: "industry",
     name: { de: "Tui-Samoa Kabelstation", hu: "Tui-Samoa kábelállomás", ro: "Stația de cablu Tui-Samoa", en: "Tui-Samoa Cable Landing Station" },
     coords: [-171.785, -13.855],
@@ -963,6 +993,7 @@ export const samoaEconomicV2: POI[] = [
   },
   {
     id: "samoa-vaitele-industrial-park-economic-v2",
+    parent: "WS",
     type: "industry",
     name: { de: "Gewerbepark Vaitele", hu: "Vaitele Ipari Park", ro: "Parcul Industrial Vaitele", en: "Vaitele Industrial Park" },
     coords: [-171.8, -13.84],

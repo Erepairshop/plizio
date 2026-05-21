@@ -3,6 +3,7 @@ export const liberiaEconomicV2: POI[] = [
 
   {
     id: "liberia-freeport-monrovia-economic-v2",
+    parent: "LR",
     type: "port",
     name: { de: "Freeport von Monrovia", hu: "Monroviai szabadkikötő", ro: "Portul liber Monrovia", en: "Freeport of Monrovia" },
     coords: [-10.8122, 6.3158],
@@ -35,6 +36,7 @@ export const liberiaEconomicV2: POI[] = [
   },
   {
     id: "liberia-buchanan-port-economic-v2",
+    parent: "LR",
     type: "port",
     name: { de: "Hafen von Buchanan", hu: "Buchanani kikötő", ro: "Portul Buchanan", en: "Port of Buchanan" },
     coords: [-10.0464, 5.8756],
@@ -67,6 +69,7 @@ export const liberiaEconomicV2: POI[] = [
   },
   {
     id: "liberia-yekepa-mine-economic-v2",
+    parent: "LR",
     type: "mine",
     name: { de: "Yekepa Eisenmine", hu: "Yekepai vasércbánya", ro: "Mina de fier Yekepa", en: "Yekepa Iron Mine" },
     coords: [-8.5333, 7.55],
@@ -99,6 +102,7 @@ export const liberiaEconomicV2: POI[] = [
   },
   {
     id: "liberia-greenville-port-economic-v2",
+    parent: "LR",
     type: "port",
     name: { de: "Hafen von Greenville", hu: "Greenvillei kikötő", ro: "Portul Greenville", en: "Port of Greenville" },
     coords: [-9.0347, 5.0139],
@@ -131,6 +135,7 @@ export const liberiaEconomicV2: POI[] = [
   },
   {
     id: "liberia-harbel-plantations-economic-v2",
+    parent: "LR",
     type: "industry",
     name: { de: "Harbel Kautschukplantagen", hu: "Harbeli kaucsukültetvények", ro: "Plantațiile de cauciuc Harbel", en: "Harbel Rubber Plantations" },
     coords: [-10.375, 6.275],
@@ -163,6 +168,7 @@ export const liberiaEconomicV2: POI[] = [
   },
   {
     id: "liberia-roberts-international-airport-economic-v2",
+    parent: "LR",
     type: "landmark",
     name: { de: "Roberts Internationaler Flughafen", hu: "Roberts nemzetközi repülőtér", ro: "Aeroportul Internațional Roberts", en: "Roberts International Airport" },
     coords: [-10.355, 6.23],
@@ -195,6 +201,7 @@ export const liberiaEconomicV2: POI[] = [
   },
   {
     id: "liberia-boni-mountain-iron-ore-v2",
+    parent: "LR",
     type: "mine",
     name: { de: "Bong Bergwerk", hu: "Bong bánya", ro: "Mina Bong", en: "Bong Mine" },
     coords: [-10.3667, 6.8167],
@@ -227,6 +234,7 @@ export const liberiaEconomicV2: POI[] = [
   },
   {
     id: "liberia-cavalla-river-hydro-v2",
+    parent: "LR",
     type: "river",
     name: { de: "Cavalla Fluss Wasserkraftpotenzial", hu: "Cavalla folyó vízerőmű potenciál", ro: "Potențial hidroelectric râul Cavalla", en: "Cavalla River Hydro Potential" },
     coords: [-7.52, 4.36],
@@ -259,6 +267,7 @@ export const liberiaEconomicV2: POI[] = [
   },
   {
     id: "liberia-monrovia-industrial-park-v2",
+    parent: "LR",
     type: "industry",
     name: { de: "Monrovia Industriepark", hu: "Monroviai ipari park", ro: "Parcul Industrial Monrovia", en: "Monrovia Industrial Park" },
     coords: [-10.75, 6.3],
@@ -291,6 +300,7 @@ export const liberiaEconomicV2: POI[] = [
   },
   {
     id: "liberia-grand-cassa-fishery-v2",
+    parent: "LR",
     type: "port",
     name: { de: "Grand Cassa Fischerei", hu: "Grand Cassa halászat", ro: "Pescăria Grand Cassa", en: "Grand Cassa Fishery" },
     coords: [-8.11, 4.63],
@@ -323,6 +333,7 @@ export const liberiaEconomicV2: POI[] = [
   },
   {
     id: "liberia-zwedru-market-v2",
+    parent: "LR",
     type: "city",
     name: { de: "Zwedru Handelsmarkt", hu: "Zwedrui kereskedelmi piac", ro: "Piața comercială Zwedru", en: "Zwedru Commercial Market" },
     coords: [-8.13, 6.06],
@@ -355,6 +366,7 @@ export const liberiaEconomicV2: POI[] = [
   },
   {
     id: "liberia-tapeta-timber-site-v2",
+    parent: "LR",
     type: "industry",
     name: { de: "Tapeta Holzverarbeitungszentrum", hu: "Tapetai faipari központ", ro: "Centrul de procesare a lemnului Tapeta", en: "Tapeta Timber Processing Site" },
     coords: [-8.87, 6.07],
@@ -387,6 +399,7 @@ export const liberiaEconomicV2: POI[] = [
   },
   {
     id: "liberia-nimba-mining-hub-v2",
+    parent: "LR",
     type: "mine",
     name: { de: "Nimba Bergbau-Distrikt", hu: "Nimba bányászati körzet", ro: "Districtul minier Nimba", en: "Nimba Mining District" },
     coords: [-8.5, 7.3],
@@ -419,6 +432,7 @@ export const liberiaEconomicV2: POI[] = [
   },
   {
     id: "liberia-gbarnga-trade-center-v2",
+    parent: "LR",
     type: "city",
     name: { de: "Gbarnga Handelszentrum", hu: "Gbarngai kereskedelmi központ", ro: "Centrul comercial Gbarnga", en: "Gbarnga Trade Center" },
     coords: [-9.46, 6.99],
@@ -451,6 +465,7 @@ export const liberiaEconomicV2: POI[] = [
   },
   {
     id: "liberia-kakata-commerce-zone-v2",
+    parent: "LR",
     type: "town",
     name: { de: "Kakata Gewerbezone", hu: "Kakatai kereskedelmi övezet", ro: "Zona comercială Kakata", en: "Kakata Commerce Zone" },
     coords: [-10.35, 6.52],
@@ -483,6 +498,7 @@ export const liberiaEconomicV2: POI[] = [
   },
   {
     id: "liberia-voinjama-cross-border-trade-v2",
+    parent: "LR",
     type: "city",
     name: { de: "Voinjama Grenzhändlerzentrum", hu: "Voinjamai határkereskedelmi központ", ro: "Centrul de comerț transfrontalier Voinjama", en: "Voinjama Cross-border Trade Center" },
     coords: [-9.75, 8.41],
@@ -515,6 +531,7 @@ export const liberiaEconomicV2: POI[] = [
   },
   {
     id: "liberia-cincinatti-plantations-v2",
+    parent: "LR",
     type: "industry",
     name: { de: "Cincinatti Agrarplantagen", hu: "Cincinatti mezőgazdasági ültetvények", ro: "Plantațiile agricole Cincinatti", en: "Cincinatti Agricultural Plantations" },
     coords: [-10.55, 6.33],
@@ -547,6 +564,7 @@ export const liberiaEconomicV2: POI[] = [
   },
   {
     id: "liberia-webo-trade-hub-v2",
+    parent: "LR",
     type: "town",
     name: { de: "Webo Handelszentrum", hu: "Webói kereskedelmi központ", ro: "Centrul comercial Webo", en: "Webo Trade Hub" },
     coords: [-7.7, 5.15],
@@ -579,6 +597,7 @@ export const liberiaEconomicV2: POI[] = [
   },
   {
     id: "liberia-harper-port-v2",
+    parent: "LR",
     type: "port",
     name: { de: "Hafen von Harper", hu: "Harper kikötője", ro: "Portul Harper", en: "Port of Harper" },
     coords: [-7.71, 4.38],
@@ -611,6 +630,7 @@ export const liberiaEconomicV2: POI[] = [
   },
   {
     id: "liberia-saniquellie-trade-v2",
+    parent: "LR",
     type: "city",
     name: { de: "Saniquellie Handelsplatz", hu: "Saniquelliei kereskedelmi helyszín", ro: "Locația comercială Saniquellie", en: "Saniquellie Trade Center" },
     coords: [-8.7, 7.37],
@@ -643,6 +663,7 @@ export const liberiaEconomicV2: POI[] = [
   },
   {
     id: "liberia-tubmanburg-mining-support-v2",
+    parent: "LR",
     type: "town",
     name: { de: "Tubmanburg Bergbauunterstützung", hu: "Tubmanburgi bányászati támogatás", ro: "Suport minier Tubmanburg", en: "Tubmanburg Mining Support" },
     coords: [-10.82, 6.87],
@@ -675,6 +696,7 @@ export const liberiaEconomicV2: POI[] = [
   },
   {
     id: "liberia-marshall-fishery-center-v2",
+    parent: "LR",
     type: "village",
     name: { de: "Marshall Fischerei-Zentrum", hu: "Marshalli halászati központ", ro: "Centrul de pescuit Marshall", en: "Marshall Fishery Center" },
     coords: [-10.37, 6.13],
@@ -707,6 +729,7 @@ export const liberiaEconomicV2: POI[] = [
   },
   {
     id: "liberia-pleebo-trading-post-v2",
+    parent: "LR",
     type: "town",
     name: { de: "Pleebo Handelsposten", hu: "Pleebói kereskedelmi állomás", ro: "Postul comercial Pleebo", en: "Pleebo Trading Post" },
     coords: [-7.56, 4.67],
@@ -739,6 +762,7 @@ export const liberiaEconomicV2: POI[] = [
   },
   {
     id: "liberia-douala-river-transport-v2",
+    parent: "LR",
     type: "river",
     name: { de: "Douala Fluss-Transport-Hub", hu: "Doualai folyami szállítási központ", ro: "Hub de transport fluvial Douala", en: "Douala River Transport Hub" },
     coords: [-10.45, 6.85],
@@ -771,6 +795,7 @@ export const liberiaEconomicV2: POI[] = [
   },
   {
     id: "liberia-bolahun-market-v2",
+    parent: "LR",
     type: "village",
     name: { de: "Bolahun Marktplatz", hu: "Bolahuni piactér", ro: "Piața Bolahun", en: "Bolahun Marketplace" },
     coords: [-10.12, 8.32],
@@ -803,6 +828,7 @@ export const liberiaEconomicV2: POI[] = [
   },
   {
     id: "liberia-ganta-trade-v2",
+    parent: "LR",
     type: "city",
     name: { de: "Ganta Handelsterminal", hu: "Gantai kereskedelmi terminál", ro: "Terminal comercial Ganta", en: "Ganta Trade Terminal" },
     coords: [-8.74, 7.24],
@@ -835,6 +861,7 @@ export const liberiaEconomicV2: POI[] = [
   },
   {
     id: "liberia-fish-town-economic-zone-v2",
+    parent: "LR",
     type: "town",
     name: { de: "Fish Town Handelszone", hu: "Fish Town-i kereskedelmi övezet", ro: "Zona comercială Fish Town", en: "Fish Town Economic Zone" },
     coords: [-7.55, 5.25],
@@ -867,6 +894,7 @@ export const liberiaEconomicV2: POI[] = [
   },
   {
     id: "liberia-salala-farm-center-v2",
+    parent: "LR",
     type: "town",
     name: { de: "Salala Agrarzentrum", hu: "Salalai agrárközpont", ro: "Centrul agricol Salala", en: "Salala Farm Center" },
     coords: [-10.15, 6.78],
@@ -899,6 +927,7 @@ export const liberiaEconomicV2: POI[] = [
   },
   {
     id: "liberia-konia-trade-v2",
+    parent: "LR",
     type: "village",
     name: { de: "Konia Handelsplatz", hu: "Koniai kereskedelmi helyszín", ro: "Locația comercială Konia", en: "Konia Trade Center" },
     coords: [-9.65, 8.12],

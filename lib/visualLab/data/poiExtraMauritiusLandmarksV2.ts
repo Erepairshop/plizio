@@ -3,6 +3,7 @@ export const mauritiusLandmarksV2: POI[] = [
 
   {
     id: "mauritius-natural-history-museum-landmarks-v2",
+    parent: "MU",
     type: "museum",
     name: { de: "Naturkundemuseum", hu: "Természettudományi Múzeum", ro: "Muzeul de Istorie Naturală", en: "Natural History Museum" },
     coords: [57.5028, -20.1636],
@@ -35,6 +36,7 @@ export const mauritiusLandmarksV2: POI[] = [
   },
   {
     id: "mauritius-port-louis-theatre-landmarks-v2",
+    parent: "MU",
     type: "theater",
     name: { de: "Theater von Port Louis", hu: "Port Louis-i Színház", ro: "Teatrul din Port Louis", en: "Port Louis Theatre" },
     coords: [57.5042, -20.1641],
@@ -67,6 +69,7 @@ export const mauritiusLandmarksV2: POI[] = [
   },
   {
     id: "mauritius-champ-de-mars-landmarks-v2",
+    parent: "MU",
     type: "monument",
     name: { de: "Champ de Mars", hu: "Champ de Mars lóversenypálya", ro: "Champ de Mars", en: "Champ de Mars Racecourse" },
     coords: [57.5144, -20.1691],
@@ -99,6 +102,7 @@ export const mauritiusLandmarksV2: POI[] = [
   },
   {
     id: "mauritius-supreme-court-landmarks-v2",
+    parent: "MU",
     type: "landmark",
     name: { de: "Oberster Gerichtshof", hu: "Legfelsőbb Bíróság", ro: "Curtea Supremă", en: "Supreme Court Building" },
     coords: [57.5041, -20.1651],
@@ -131,6 +135,7 @@ export const mauritiusLandmarksV2: POI[] = [
   },
   {
     id: "mauritius-central-post-office-landmarks-v2",
+    parent: "MU",
     type: "landmark",
     name: { de: "Hauptpostamt Port Louis", hu: "Központi Posta", ro: "Poșta Centrală", en: "Port Louis Central Post Office" },
     coords: [57.5024, -20.1594],
@@ -163,6 +168,7 @@ export const mauritiusLandmarksV2: POI[] = [
   },
   {
     id: "mauritius-st-francois-assise-landmarks-v2",
+    parent: "MU",
     type: "church",
     name: { de: "Kirche St. François d'Assise", hu: "Szent Ferenc-templom", ro: "Biserica Sfântul Francisc", en: "St. Francois d'Assise Church" },
     coords: [57.5702, -20.1064],
@@ -195,6 +201,7 @@ export const mauritiusLandmarksV2: POI[] = [
   },
   {
     id: "mauritius-maison-eureka-landmarks-v2",
+    parent: "MU",
     type: "museum",
     name: { de: "Maison Eureka", hu: "Eureka-ház", ro: "Casa Eureka", en: "Maison Eureka" },
     coords: [57.5022, -20.2078],
@@ -227,6 +234,7 @@ export const mauritiusLandmarksV2: POI[] = [
   },
   {
     id: "mauritius-fort-frederik-hendrik-landmarks-v2",
+    parent: "MU",
     type: "ruins",
     name: { de: "Fort Frederik Hendrik", hu: "Frederik Hendrik-erőd", ro: "Fortul Frederik Hendrik", en: "Fort Frederik Hendrik" },
     coords: [57.7301, -20.3752],
@@ -259,6 +267,7 @@ export const mauritiusLandmarksV2: POI[] = [
   },
   {
     id: "mauritius-dutch-landing-monument-landmarks-v2",
+    parent: "MU",
     type: "monument",
     name: { de: "Niederländisches Landungsmonument", hu: "Holland partraszállási emlékmű", ro: "Monumentul Debarcării Olandeze", en: "Dutch First Landing Monument" },
     coords: [57.7202, -20.3705],
@@ -291,6 +300,7 @@ export const mauritiusLandmarksV2: POI[] = [
   },
   {
     id: "mauritius-naval-museum-mahebourg-landmarks-v2",
+    parent: "MU",
     type: "museum",
     name: { de: "Nationales Marinemuseum", hu: "Nemzeti Tengerészeti Múzeum", ro: "Muzeul Național de Marină", en: "Mahebourg Naval Museum" },
     coords: [57.7051, -20.4072],
@@ -323,6 +333,7 @@ export const mauritiusLandmarksV2: POI[] = [
   },
   {
     id: "mauritius-notre-dame-auxiliatrice-landmarks-v2",
+    parent: "MU",
     type: "church",
     name: { de: "Notre-Dame Auxiliatrice", hu: "Notre-Dame Auxiliatrice kápolna", ro: "Notre Dame de l'Auxiliatrice", en: "Notre Dame de l'Auxiliatrice" },
     coords: [57.6225, -19.9882],
@@ -355,6 +366,7 @@ export const mauritiusLandmarksV2: POI[] = [
   },
   {
     id: "mauritius-laventure-du-sucre-landmarks-v2",
+    parent: "MU",
     type: "museum",
     name: { de: "L'Aventure du Sucre", hu: "L'Aventure du Sucre", ro: "L'Aventure du Sucre", en: "L'Aventure du Sucre" },
     coords: [57.5721, -20.0985],
@@ -387,6 +399,7 @@ export const mauritiusLandmarksV2: POI[] = [
   },
   {
     id: "mauritius-photography-museum-landmarks-v2",
+    parent: "MU",
     type: "museum",
     name: { de: "Fotomuseum", hu: "Fotómúzeum", ro: "Muzeul de Fotografie", en: "Mauritius Photography Museum" },
     coords: [57.5011, -20.1622],
@@ -419,6 +432,7 @@ export const mauritiusLandmarksV2: POI[] = [
   },
   {
     id: "mauritius-postal-museum-landmarks-v2",
+    parent: "MU",
     type: "museum",
     name: { de: "Postmuseum", hu: "Postamúzeum", ro: "Muzeul Poștal", en: "Mauritius Postal Museum" },
     coords: [57.5018, -20.1592],
@@ -451,6 +465,7 @@ export const mauritiusLandmarksV2: POI[] = [
   },
   {
     id: "mauritius-ssr-statue-landmarks-v2",
+    parent: "MU",
     type: "monument",
     name: { de: "Statue von Sir Seewoosagur Ramgoolam", hu: "Sir Seewoosagur Ramgoolam szobra", ro: "Statuia lui Sir Seewoosagur Ramgoolam", en: "Statue of Sir Seewoosagur Ramgoolam" },
     coords: [57.4985, -20.1605],
@@ -483,6 +498,7 @@ export const mauritiusLandmarksV2: POI[] = [
   },
   {
     id: "mauritius-slave-route-monument-landmarks-v2",
+    parent: "MU",
     type: "monument",
     name: { de: "Denkmal der Sklaverei", hu: "Rabszolgaság emlékműve", ro: "Monumentul Drumul Sclavilor", en: "International Slave Route Monument" },
     coords: [57.3155, -20.4552],
@@ -515,6 +531,7 @@ export const mauritiusLandmarksV2: POI[] = [
   },
   {
     id: "mauritius-domaine-aubineaux-landmarks-v2",
+    parent: "MU",
     type: "palace",
     name: { de: "Le Domaine des Aubineaux", hu: "Le Domaine des Aubineaux", ro: "Le Domaine des Aubineaux", en: "Le Domaine des Aubineaux" },
     coords: [57.5242, -20.3125],
@@ -547,6 +564,7 @@ export const mauritiusLandmarksV2: POI[] = [
   },
   {
     id: "mauritius-domaine-bois-cheri-landmarks-v2",
+    parent: "MU",
     type: "landmark",
     name: { de: "Le Domaine de Bois Chéri", hu: "Le Domaine de Bois Chéri", ro: "Le Domaine de Bois Chéri", en: "Le Domaine de Bois Chéri" },
     coords: [57.5502, -20.4285],
@@ -579,6 +597,7 @@ export const mauritiusLandmarksV2: POI[] = [
   },
   {
     id: "mauritius-domaine-saint-aubin-landmarks-v2",
+    parent: "MU",
     type: "palace",
     name: { de: "Le Domaine de Saint Aubin", hu: "Le Domaine de Saint Aubin", ro: "Le Domaine de Saint Aubin", en: "Le Domaine de Saint Aubin" },
     coords: [57.5515, -20.4852],
@@ -611,6 +630,7 @@ export const mauritiusLandmarksV2: POI[] = [
   },
   {
     id: "mauritius-robert-hart-museum-landmarks-v2",
+    parent: "MU",
     type: "museum",
     name: { de: "Robert Edward Hart Museum", hu: "Robert Edward Hart Múzeum", ro: "Muzeul Robert Edward Hart", en: "Robert Edward Hart Museum" },
     coords: [57.5182, -20.5105],
@@ -643,6 +663,7 @@ export const mauritiusLandmarksV2: POI[] = [
   },
   {
     id: "mauritius-pointe-du-diable-landmarks-v2",
+    parent: "MU",
     type: "ruins",
     name: { de: "Pointe du Diable Batterie", hu: "Pointe du Diable üteg", ro: "Bateria Pointe du Diable", en: "Pointe du Diable Battery" },
     coords: [57.7652, -20.3455],
@@ -675,6 +696,7 @@ export const mauritiusLandmarksV2: POI[] = [
   },
   {
     id: "mauritius-ile-de-la-passe-landmarks-v2",
+    parent: "MU",
     type: "ruins",
     name: { de: "Ile de la Passe Befestigung", hu: "Ile de la Passe erődítmény", ro: "Fortificațiile Ile de la Passe", en: "Ile de la Passe Fortifications" },
     coords: [57.7882, -20.3985],
@@ -707,6 +729,7 @@ export const mauritiusLandmarksV2: POI[] = [
   },
   {
     id: "mauritius-ile-aux-fouquets-lighthouse-landmarks-v2",
+    parent: "MU",
     type: "tower",
     name: { de: "Leuchtturm Ile aux Fouquets", hu: "Ile aux Fouquets világítótorony", ro: "Farul Ile aux Fouquets", en: "Ile aux Fouquets Lighthouse" },
     coords: [57.7925, -20.3958],
@@ -739,6 +762,7 @@ export const mauritiusLandmarksV2: POI[] = [
   },
   {
     id: "mauritius-st-gabriel-cathedral-landmarks-v2",
+    parent: "MU",
     type: "cathedral",
     name: { de: "Kathedrale St. Gabriel", hu: "Szent Gábriel-székesegyház", ro: "Catedrala Sfântul Gabriel", en: "St. Gabriel Cathedral" },
     coords: [63.4442, -19.7215],
@@ -771,6 +795,7 @@ export const mauritiusLandmarksV2: POI[] = [
   },
   {
     id: "mauritius-maheswarnath-mandir-landmarks-v2",
+    parent: "MU",
     type: "landmark",
     name: { de: "Maheswarnath Mandir", hu: "Maheswarnath Mandir", ro: "Maheswarnath Mandir", en: "Maheswarnath Mandir" },
     coords: [57.5522, -20.0465],
@@ -803,6 +828,7 @@ export const mauritiusLandmarksV2: POI[] = [
   },
   {
     id: "mauritius-kaylasson-temple-landmarks-v2",
+    parent: "MU",
     type: "landmark",
     name: { de: "Kaylasson Tempel", hu: "Kaylasson-templom", ro: "Templul Kaylasson", en: "Kaylasson Temple" },
     coords: [57.5185, -20.1575],
@@ -835,6 +861,7 @@ export const mauritiusLandmarksV2: POI[] = [
   },
   {
     id: "mauritius-sagar-shiv-mandir-landmarks-v2",
+    parent: "MU",
     type: "landmark",
     name: { de: "Sagar Shiv Mandir", hu: "Sagar Shiv Mandir", ro: "Sagar Shiv Mandir", en: "Sagar Shiv Mandir" },
     coords: [57.7428, -20.1585],
@@ -867,6 +894,7 @@ export const mauritiusLandmarksV2: POI[] = [
   },
   {
     id: "mauritius-siv-soopramaniar-kovil-landmarks-v2",
+    parent: "MU",
     type: "landmark",
     name: { de: "Siv Soopramaniar Kovil", hu: "Siv Soopramaniar Kovil", ro: "Siv Soopramaniar Kovil", en: "Siv Soopramaniar Kovil" },
     coords: [57.5202, -20.3205],
@@ -899,6 +927,7 @@ export const mauritiusLandmarksV2: POI[] = [
   },
   {
     id: "mauritius-st-therese-church-landmarks-v2",
+    parent: "MU",
     type: "church",
     name: { de: "Kirche St. Thérèse", hu: "Szent Teréz-templom", ro: "Biserica Sfânta Tereza", en: "St. Therese Church" },
     coords: [57.5235, -20.3188],
@@ -931,6 +960,7 @@ export const mauritiusLandmarksV2: POI[] = [
   },
   {
     id: "mauritius-glass-gallery-landmarks-v2",
+    parent: "MU",
     type: "museum",
     name: { de: "Mauritius Glaskunst-Galerie", hu: "Mauritius Üveggaléria", ro: "Galeria de Sticlă Mauritius", en: "Mauritius Glass Gallery" },
     coords: [57.4902, -20.2855],
@@ -963,6 +993,7 @@ export const mauritiusLandmarksV2: POI[] = [
   },
   {
     id: "mauritius-queen-victoria-statue-landmarks-v2",
+    parent: "MU",
     type: "monument",
     name: { de: "Statue von Königin Victoria", hu: "Viktória királynő szobra", ro: "Statuia Reginei Victoria", en: "Statue of Queen Victoria" },
     coords: [57.5028, -20.1635],
@@ -995,6 +1026,7 @@ export const mauritiusLandmarksV2: POI[] = [
   },
   {
     id: "mauritius-plaza-theatre-landmarks-v2",
+    parent: "MU",
     type: "theater",
     name: { de: "Plaza Theater", hu: "Plaza Színház", ro: "Teatrul Plaza", en: "Plaza Theatre" },
     coords: [57.4775, -20.2392],
@@ -1027,6 +1059,7 @@ export const mauritiusLandmarksV2: POI[] = [
   },
   {
     id: "mauritius-institute-landmarks-v2",
+    parent: "MU",
     type: "landmark",
     name: { de: "Mauritius Institute", hu: "Mauritius Intézet", ro: "Institutul Mauritius", en: "Mauritius Institute" },
     coords: [57.5025, -20.1638],
@@ -1059,6 +1092,7 @@ export const mauritiusLandmarksV2: POI[] = [
   },
   {
     id: "mauritius-maconde-structure-landmarks-v2",
+    parent: "MU",
     type: "landmark",
     name: { de: "Maconde Aussichtspunkt", hu: "Maconde kilátó", ro: "Punctul de belvedere Maconde", en: "Maconde Viewpoint" },
     coords: [57.3718, -20.4892],

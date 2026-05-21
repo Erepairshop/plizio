@@ -3,6 +3,7 @@ export const palauLandmarksV2: POI[] = [
 
   {
     id: "palau-capitol-building-landmarks-v2",
+    parent: "PW",
     type: "landmark",
     name: { de: "Kapitol von Palau", hu: "Palaui Kapitólium", ro: "Capitoliul din Palau", en: "Palau Capitol Building" },
     coords: [134.6242, 7.5005],
@@ -35,6 +36,7 @@ export const palauLandmarksV2: POI[] = [
   },
   {
     id: "palau-belau-national-museum-landmarks-v2",
+    parent: "PW",
     type: "museum",
     name: { de: "Belau National Museum", hu: "Belau Nemzeti Múzeum", ro: "Muzeul Național Belau", en: "Belau National Museum" },
     coords: [134.4764, 7.3397],
@@ -67,6 +69,7 @@ export const palauLandmarksV2: POI[] = [
   },
   {
     id: "palau-etpison-museum-landmarks-v2",
+    parent: "PW",
     type: "museum",
     name: { de: "Etpison Museum", hu: "Etpison Múzeum", ro: "Muzeul Etpison", en: "Etpison Museum" },
     coords: [134.4825, 7.3458],
@@ -99,6 +102,7 @@ export const palauLandmarksV2: POI[] = [
   },
   {
     id: "palau-badrulchau-monoliths-landmarks-v2",
+    parent: "PW",
     type: "monument",
     name: { de: "Badrulchau Monolithen", hu: "Badrulchau monolitok", ro: "Monoliții Badrulchau", en: "Badrulchau Monoliths" },
     coords: [134.6369, 7.7022],
@@ -131,6 +135,7 @@ export const palauLandmarksV2: POI[] = [
   },
   {
     id: "palau-airai-bai-landmarks-v2",
+    parent: "PW",
     type: "monument",
     name: { de: "Airai Bai", hu: "Airai Bai", ro: "Airai Bai", en: "Airai Bai" },
     coords: [134.5583, 7.3639],
@@ -163,6 +168,7 @@ export const palauLandmarksV2: POI[] = [
   },
   {
     id: "palau-japan-palau-bridge-landmarks-v2",
+    parent: "PW",
     type: "bridge",
     name: { de: "Japan-Palau-Freundschaftsbrücke", hu: "Japán-Palau Barátság híd", ro: "Podul Prieteniei Japonia-Palau", en: "Japan-Palau Friendship Bridge" },
     coords: [134.5126, 7.363],
@@ -195,6 +201,7 @@ export const palauLandmarksV2: POI[] = [
   },
   {
     id: "palau-peleliu-wwii-memorial-landmarks-v2",
+    parent: "PW",
     type: "monument",
     name: { de: "Peleliu WWII Denkmal", hu: "Peleliu II. világháborús emlékmű", ro: "Memorialul WWII din Peleliu", en: "Peleliu WWII Memorial" },
     coords: [134.225, 6.985],
@@ -227,6 +234,7 @@ export const palauLandmarksV2: POI[] = [
   },
   {
     id: "palau-german-lighthouse-landmarks-v2",
+    parent: "PW",
     type: "tower",
     name: { de: "Deutscher Leuchtturm", hu: "Német világítótorony", ro: "Farul German", en: "German Lighthouse" },
     coords: [134.225, 6.991],
@@ -259,6 +267,7 @@ export const palauLandmarksV2: POI[] = [
   },
   {
     id: "palau-angaur-lighthouse-landmarks-v2",
+    parent: "PW",
     type: "tower",
     name: { de: "Angaur Leuchtturm", hu: "Angauri világítótorony", ro: "Farul din Angaur", en: "Angaur Lighthouse" },
     coords: [134.128, 6.908],
@@ -291,6 +300,7 @@ export const palauLandmarksV2: POI[] = [
   },
   {
     id: "palau-roman-catholic-church-koror-landmarks-v2",
+    parent: "PW",
     type: "church",
     name: { de: "Katholische Kirche von Koror", hu: "Korori katolikus templom", ro: "Biserica Catolică din Koror", en: "Roman Catholic Church of Koror" },
     coords: [134.478, 7.342],
@@ -323,6 +333,7 @@ export const palauLandmarksV2: POI[] = [
   },
   {
     id: "palau-national-stadium-landmarks-v2",
+    parent: "PW",
     type: "landmark",
     name: { de: "Palau Nationalstadion", hu: "Palau Nemzeti Stadion", ro: "Stadionul Național din Palau", en: "Palau National Stadium" },
     coords: [134.481, 7.344],
@@ -355,6 +366,7 @@ export const palauLandmarksV2: POI[] = [
   },
   {
     id: "palau-peleliu-peace-memorial-landmarks-v2",
+    parent: "PW",
     type: "monument",
     name: { de: "Peleliu Friedensdenkmal", hu: "Peleliu Békeemlékmű", ro: "Memorialul Păcii din Peleliu", en: "Peleliu Peace Memorial" },
     coords: [134.221, 6.982],
@@ -387,6 +399,7 @@ export const palauLandmarksV2: POI[] = [
   },
   {
     id: "palau-airai-stone-path-landmarks-v2",
+    parent: "PW",
     type: "monument",
     name: { de: "Airai Steinpfad", hu: "Airai kőút", ro: "Drumul de Piatră din Airai", en: "Airai Stone Path" },
     coords: [134.556, 7.365],
@@ -419,6 +432,7 @@ export const palauLandmarksV2: POI[] = [
   },
   {
     id: "palau-coral-reef-center-landmarks-v2",
+    parent: "PW",
     type: "museum",
     name: { de: "Palau Coral Reef Center", hu: "Palau Korallzátony Központ", ro: "Centrul de Recif de Corali Palau", en: "Palau International Coral Reef Center" },
     coords: [134.469, 7.338],

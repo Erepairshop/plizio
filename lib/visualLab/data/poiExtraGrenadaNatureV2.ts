@@ -3,6 +3,7 @@ export const grenadaNatureV2: POI[] = [
 
   {
     id: "grenada-grand-etang-lake-nature-v2",
+    parent: "GD",
     type: "lake",
     name: { de: "Grand Etang See", hu: "Grand Etang-tó", ro: "Lacul Grand Etang", en: "Grand Etang Lake" },
     coords: [-61.696, 12.097],
@@ -47,6 +48,7 @@ export const grenadaNatureV2: POI[] = [
   },
   {
     id: "grenada-mount-st-catherine-nature-v2",
+    parent: "GD",
     type: "peak",
     name: { de: "Mount Saint Catherine", hu: "Mount Saint Catherine", ro: "Muntele Saint Catherine", en: "Mount Saint Catherine" },
     coords: [-61.708, 12.161],
@@ -91,6 +93,7 @@ export const grenadaNatureV2: POI[] = [
   },
   {
     id: "grenada-lake-antoine-nature-v2",
+    parent: "GD",
     type: "lake",
     name: { de: "Antoine See", hu: "Antoine-tó", ro: "Lacul Antoine", en: "Lake Antoine" },
     coords: [-61.613, 12.183],
@@ -135,6 +138,7 @@ export const grenadaNatureV2: POI[] = [
   },
   {
     id: "grenada-seven-sisters-falls-nature-v2",
+    parent: "GD",
     type: "wildlife",
     name: { de: "Seven Sisters Wasserfälle", hu: "Seven Sisters-vízesések", ro: "Cascadele Seven Sisters", en: "Seven Sisters Falls" },
     coords: [-61.716, 12.095],
@@ -179,6 +183,7 @@ export const grenadaNatureV2: POI[] = [
   },
   {
     id: "grenada-carriacou-island-nature-v2",
+    parent: "GD",
     type: "wildlife",
     name: { de: "Insel Carriacou", hu: "Carriacou-sziget", ro: "Insula Carriacou", en: "Carriacou Island" },
     coords: [-61.45, 12.483],
@@ -223,6 +228,7 @@ export const grenadaNatureV2: POI[] = [
   },
   {
     id: "grenada-sandy-island-nature-v2",
+    parent: "GD",
     type: "wildlife",
     name: { de: "Sandy Island", hu: "Sandy-sziget", ro: "Insula Sandy", en: "Sandy Island" },
     coords: [-61.483, 12.483],
@@ -267,6 +273,7 @@ export const grenadaNatureV2: POI[] = [
   },
   {
     id: "grenada-petite-martinique-nature-v2",
+    parent: "GD",
     type: "wildlife",
     name: { de: "Petite Martinique", hu: "Petite Martinique", ro: "Petite Martinique", en: "Petite Martinique" },
     coords: [-61.383, 12.516],
@@ -311,6 +318,7 @@ export const grenadaNatureV2: POI[] = [
   },
   {
     id: "grenada-grand-anse-beach-nature-v2",
+    parent: "GD",
     type: "landmark",
     name: { de: "Grand Anse Strand", hu: "Grand Anse-strand", ro: "Plaja Grand Anse", en: "Grand Anse Beach" },
     coords: [-61.758, 12.025],
@@ -355,6 +363,7 @@ export const grenadaNatureV2: POI[] = [
   },
   {
     id: "grenada-tufton-hall-waterfall-nature-v2",
+    parent: "GD",
     type: "wildlife",
     name: { de: "Tufton Hall Wasserfall", hu: "Tufton Hall-vízesés", ro: "Cascada Tufton Hall", en: "Tufton Hall Waterfall" },
     coords: [-61.708, 12.175],
@@ -399,6 +408,7 @@ export const grenadaNatureV2: POI[] = [
   },
   {
     id: "grenada-royal-mt-carmel-falls-nature-v2",
+    parent: "GD",
     type: "wildlife",
     name: { de: "Royal Mt. Carmel Wasserfälle", hu: "Royal Mt. Carmel-vízesések", ro: "Cascadele Royal Mt. Carmel", en: "Royal Mt. Carmel Falls" },
     coords: [-61.65, 12.116],
@@ -443,6 +453,7 @@ export const grenadaNatureV2: POI[] = [
   },
   {
     id: "grenada-levera-pond-nature-v2",
+    parent: "GD",
     type: "lake",
     name: { de: "Levera Teich", hu: "Levera-tó", ro: "Iazul Levera", en: "Levera Pond" },
     coords: [-61.61, 12.225],
@@ -487,6 +498,7 @@ export const grenadaNatureV2: POI[] = [
   },
   {
     id: "grenada-quarantine-point-nature-v2",
+    parent: "GD",
     type: "park",
     name: { de: "Quarantine Point", hu: "Quarantine Point", ro: "Quarantine Point", en: "Quarantine Point" },
     coords: [-61.766, 12.016],
@@ -531,6 +543,7 @@ export const grenadaNatureV2: POI[] = [
   },
   {
     id: "grenada-hog-island-nature-v2",
+    parent: "GD",
     type: "wildlife",
     name: { de: "Hog Island", hu: "Hog-sziget", ro: "Insula Hog", en: "Hog Island" },
     coords: [-61.741, 12.001],
@@ -575,6 +588,7 @@ export const grenadaNatureV2: POI[] = [
   },
   {
     id: "grenada-calivigny-island-nature-v2",
+    parent: "GD",
     type: "wildlife",
     name: { de: "Insel Calivigny", hu: "Calivigny-sziget", ro: "Insula Calivigny", en: "Calivigny Island" },
     coords: [-61.725, 11.996],
@@ -619,6 +633,7 @@ export const grenadaNatureV2: POI[] = [
   },
   {
     id: "grenada-glover-island-nature-v2",
+    parent: "GD",
     type: "wildlife",
     name: { de: "Glover Insel", hu: "Glover-sziget", ro: "Insula Glover", en: "Glover Island" },
     coords: [-61.787, 11.986],
@@ -663,6 +678,7 @@ export const grenadaNatureV2: POI[] = [
   },
   {
     id: "grenada-black-bay-beach-nature-v2",
+    parent: "GD",
     type: "landmark",
     name: { de: "Black Bay Strand", hu: "Black Bay-strand", ro: "Plaja Black Bay", en: "Black Bay Beach" },
     coords: [-61.752, 12.108],
@@ -707,6 +723,7 @@ export const grenadaNatureV2: POI[] = [
   },
   {
     id: "grenada-dragons-bay-nature-v2",
+    parent: "GD",
     type: "park",
     name: { de: "Dragon's Bay", hu: "Dragon's Bay", ro: "Dragon's Bay", en: "Dragon's Bay" },
     coords: [-61.758, 12.088],

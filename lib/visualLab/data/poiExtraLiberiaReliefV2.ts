@@ -3,6 +3,7 @@ export const liberiaReliefV2: POI[] = [
 
   {
     id: "liberia-mount-wuteve-relief-v2",
+    parent: "LR",
     type: "peak",
     name: { de: "Mount Wuteve", hu: "Wuteve-hegy", ro: "Muntele Wuteve", en: "Mount Wuteve" },
     coords: [-9.9333, 8.0833],
@@ -35,6 +36,7 @@ export const liberiaReliefV2: POI[] = [
   },
   {
     id: "liberia-nimba-highlands-relief-v2",
+    parent: "LR",
     type: "mountain",
     name: { de: "Nimba-Hochland", hu: "Nimba-felföld", ro: "Podișul Nimba", en: "Nimba Highlands" },
     coords: [-8.5333, 7.55],
@@ -67,6 +69,7 @@ export const liberiaReliefV2: POI[] = [
   },
   {
     id: "liberia-monrovia-lowlands-relief-v2",
+    parent: "LR",
     type: "landmark",
     name: { de: "Monrovia-Niederungen", hu: "Monroviai-alföld", ro: "Câmpia Monrovia", en: "Monrovia Lowlands" },
     coords: [-10.7969, 6.3005],
@@ -99,6 +102,7 @@ export const liberiaReliefV2: POI[] = [
   },
   {
     id: "liberia-grand-gedeh-plateau-relief-v2",
+    parent: "LR",
     type: "landmark",
     name: { de: "Grand-Gedeh-Plateau", hu: "Grand Gedeh-fennsík", ro: "Podișul Grand Gedeh", en: "Grand Gedeh Plateau" },
     coords: [-8.25, 5.75],
@@ -131,6 +135,7 @@ export const liberiaReliefV2: POI[] = [
   },
   {
     id: "liberia-dukli-hills-relief-v2",
+    parent: "LR",
     type: "mountain",
     name: { de: "Dukli-Hügel", hu: "Dukli-dombság", ro: "Dealurile Dukli", en: "Dukli Hills" },
     coords: [-9.35, 6.85],
@@ -163,6 +168,7 @@ export const liberiaReliefV2: POI[] = [
   },
   {
     id: "liberia-cavalla-river-valley-relief-v2",
+    parent: "LR",
     type: "valley",
     name: { de: "Cavalla-Tal", hu: "Cavalla-völgy", ro: "Valea Cavalla", en: "Cavalla River Valley" },
     coords: [-7.5, 4.5],
@@ -195,6 +201,7 @@ export const liberiaReliefV2: POI[] = [
   },
   {
     id: "liberia-putu-range-relief-v2",
+    parent: "LR",
     type: "mountain",
     name: { de: "Putu-Gebirge", hu: "Putu-hegység", ro: "Munții Putu", en: "Putu Range" },
     coords: [-8.25, 5.8333],
@@ -227,6 +234,7 @@ export const liberiaReliefV2: POI[] = [
   },
   {
     id: "liberia-mesurado-lagoon-relief-v2",
+    parent: "LR",
     type: "lake",
     name: { de: "Mesurado-Lagune", hu: "Mesurado-lagúna", ro: "Laguna Mesurado", en: "Mesurado Lagoon" },
     coords: [-10.7667, 6.3167],
@@ -259,6 +267,7 @@ export const liberiaReliefV2: POI[] = [
   },
   {
     id: "liberia-lofa-highlands-relief-v2",
+    parent: "LR",
     type: "mountain",
     name: { de: "Lofa-Hochland", hu: "Lofa-felföld", ro: "Podișul Lofa", en: "Lofa Highlands" },
     coords: [-9.5, 8.0],
@@ -291,6 +300,7 @@ export const liberiaReliefV2: POI[] = [
   },
   {
     id: "liberia-st-paul-gorge-relief-v2",
+    parent: "LR",
     type: "valley",
     name: { de: "St.-Paul-Schlucht", hu: "St. Paul-szurdok", ro: "Defileul St. Paul", en: "St. Paul River Gorge" },
     coords: [-10.3333, 6.8333],
@@ -323,6 +333,7 @@ export const liberiaReliefV2: POI[] = [
   },
   {
     id: "liberia-man-mountain-relief-v2",
+    parent: "LR",
     type: "mountain",
     name: { de: "Man-Berg", hu: "Man-hegy", ro: "Muntele Man", en: "Man Mountain" },
     coords: [-8.8, 7.3],
@@ -355,6 +366,7 @@ export const liberiaReliefV2: POI[] = [
   },
   {
     id: "liberia-cesteos-lowlands-relief-v2",
+    parent: "LR",
     type: "landmark",
     name: { de: "Cestos-Niederung", hu: "Cestos-alföld", ro: "Depresiunea Cestos", en: "Cestos Lowlands" },
     coords: [-9.5, 5.5],
@@ -387,6 +399,7 @@ export const liberiaReliefV2: POI[] = [
   },
   {
     id: "liberia-kpo-range-relief-v2",
+    parent: "LR",
     type: "mountain",
     name: { de: "Kpo-Gebirge", hu: "Kpo-hegység", ro: "Munții Kpo", en: "Kpo Range" },
     coords: [-10.2, 7.45],
@@ -419,6 +432,7 @@ export const liberiaReliefV2: POI[] = [
   },
   {
     id: "liberia-bomi-hills-relief-v2",
+    parent: "LR",
     type: "mountain",
     name: { de: "Bomi-Hügel", hu: "Bomi-dombság", ro: "Dealurile Bomi", en: "Bomi Hills" },
     coords: [-10.8, 6.8667],
@@ -451,6 +465,7 @@ export const liberiaReliefV2: POI[] = [
   },
   {
     id: "liberia-gola-forest-hills-relief-v2",
+    parent: "LR",
     type: "forest",
     name: { de: "Gola-Wald-Hügel", hu: "Gola-erdő dombsága", ro: "Dealurile Gola Forest", en: "Gola Forest Hills" },
     coords: [-11.0, 7.5],
@@ -483,6 +498,7 @@ export const liberiaReliefV2: POI[] = [
   },
   {
     id: "liberia-du-river-floodplain-relief-v2",
+    parent: "LR",
     type: "valley",
     name: { de: "Du-Fluss-Schwemmebene", hu: "Du-folyó ártere", ro: "Câmpia inundabilă a râului Du", en: "Du River Floodplain" },
     coords: [-10.4, 6.2],
@@ -515,6 +531,7 @@ export const liberiaReliefV2: POI[] = [
   },
   {
     id: "liberia-krahn-bassa-hills-relief-v2",
+    parent: "LR",
     type: "mountain",
     name: { de: "Krahn-Bassa-Hügel", hu: "Krahn-Bassa-dombság", ro: "Dealurile Krahn-Bassa", en: "Krahn-Bassa Hills" },
     coords: [-8.8, 5.9],
@@ -547,6 +564,7 @@ export const liberiaReliefV2: POI[] = [
   },
   {
     id: "liberia-st-john-valley-relief-v2",
+    parent: "LR",
     type: "valley",
     name: { de: "St.-John-Tal", hu: "St. John-völgy", ro: "Valea râului St. John", en: "St. John River Valley" },
     coords: [-9.8, 6.0],
@@ -579,6 +597,7 @@ export const liberiaReliefV2: POI[] = [
   },
   {
     id: "liberia-monrovia-peninsula-relief-v2",
+    parent: "LR",
     type: "landmark",
     name: { de: "Monrovia-Halbinsel", hu: "Monroviai-félsziget", ro: "Peninsula Monrovia", en: "Monrovia Peninsula" },
     coords: [-10.8, 6.315],
@@ -611,6 +630,7 @@ export const liberiaReliefV2: POI[] = [
   },
   {
     id: "liberia-voinjama-highlands-relief-v2",
+    parent: "LR",
     type: "mountain",
     name: { de: "Voinjama-Hochland", hu: "Voinjama-felföld", ro: "Podișul Voinjama", en: "Voinjama Highlands" },
     coords: [-9.75, 8.4],
@@ -643,6 +663,7 @@ export const liberiaReliefV2: POI[] = [
   },
   {
     id: "liberia-sapo-lowlands-relief-v2",
+    parent: "LR",
     type: "forest",
     name: { de: "Sapo-Niederungen", hu: "Sapo-alföld", ro: "Câmpia Sapo", en: "Sapo Lowlands" },
     coords: [-8.6, 5.25],
@@ -675,6 +696,7 @@ export const liberiaReliefV2: POI[] = [
   },
   {
     id: "liberia-mamba-point-relief-v2",
+    parent: "LR",
     type: "landmark",
     name: { de: "Mamba-Point-Kliff", hu: "Mamba Point-szikla", ro: "Stânca Mamba Point", en: "Mamba Point Cliff" },
     coords: [-10.81, 6.32],
@@ -707,6 +729,7 @@ export const liberiaReliefV2: POI[] = [
   },
   {
     id: "liberia-lofa-river-valley-relief-v2",
+    parent: "LR",
     type: "valley",
     name: { de: "Lofa-Fluss-Tal", hu: "Lofa-völgy", ro: "Valea râului Lofa", en: "Lofa River Valley" },
     coords: [-10.5, 7.5],
@@ -739,6 +762,7 @@ export const liberiaReliefV2: POI[] = [
   },
   {
     id: "liberia-kakata-plains-relief-v2",
+    parent: "LR",
     type: "landmark",
     name: { de: "Kakata-Ebene", hu: "Kakata-síkság", ro: "Câmpia Kakata", en: "Kakata Plains" },
     coords: [-10.35, 6.5],
@@ -771,6 +795,7 @@ export const liberiaReliefV2: POI[] = [
   },
   {
     id: "liberia-mano-valley-relief-v2",
+    parent: "LR",
     type: "valley",
     name: { de: "Mano-Tal", hu: "Mano-völgy", ro: "Valea Mano", en: "Mano River Valley" },
     coords: [-11.5, 7.0],
@@ -803,6 +828,7 @@ export const liberiaReliefV2: POI[] = [
   },
   {
     id: "liberia-piso-lake-basin-relief-v2",
+    parent: "LR",
     type: "lake",
     name: { de: "Piso-See-Becken", hu: "Piso-tavi medence", ro: "Bazinul lacului Piso", en: "Lake Piso Basin" },
     coords: [-11.3, 6.75],
@@ -835,6 +861,7 @@ export const liberiaReliefV2: POI[] = [
   },
   {
     id: "liberia-monrovia-coastal-plain-relief-v2",
+    parent: "LR",
     type: "landmark",
     name: { de: "Monrovia-Küstenebene", hu: "Monroviai-parti síkság", ro: "Câmpia de coastă Monrovia", en: "Monrovia Coastal Plain" },
     coords: [-10.6, 6.35],

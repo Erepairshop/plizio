@@ -3,6 +3,7 @@ export const mauritaniaEconomicV2: POI[] = [
 
   {
     id: "mauritania-nouadhibou-port-economic-v2",
+    parent: "MR",
     type: "port",
     name: { de: "Hafen Nouadhibou", hu: "Nouadhibou kikötő", ro: "Portul Nouadhibou", en: "Nouadhibou Port" },
     coords: [-17.0333, 20.9333],
@@ -35,6 +36,7 @@ export const mauritaniaEconomicV2: POI[] = [
   },
   {
     id: "mauritania-zouerat-mine-economic-v2",
+    parent: "MR",
     type: "mine",
     name: { de: "Zouerat-Mine", hu: "Zouerat-bánya", ro: "Mina Zouerat", en: "Zouerat Mine" },
     coords: [-12.4833, 22.7333],
@@ -67,6 +69,7 @@ export const mauritaniaEconomicV2: POI[] = [
   },
   {
     id: "mauritania-nouakchott-market-economic-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Zentralmarkt Nouakchott", hu: "Nouakchott központi piac", ro: "Piața Centrală Nouakchott", en: "Nouakchott Central Market" },
     coords: [-15.975, 18.0833],
@@ -99,6 +102,7 @@ export const mauritaniaEconomicV2: POI[] = [
   },
   {
     id: "mauritania-kaedi-agro-economic-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Agrarzentrum Kaedi", hu: "Kaedi mezőgazdasági központ", ro: "Centrul agricol Kaedi", en: "Kaedi Agricultural Center" },
     coords: [-13.5, 16.15],
@@ -131,6 +135,7 @@ export const mauritaniaEconomicV2: POI[] = [
   },
   {
     id: "mauritania-ross-bethio-agro-economic-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Rosso Agrarzone", hu: "Rosso mezőgazdasági övezet", ro: "Zona agricolă Rosso", en: "Rosso Agricultural Zone" },
     coords: [-15.8033, 16.5133],
@@ -163,6 +168,7 @@ export const mauritaniaEconomicV2: POI[] = [
   },
   {
     id: "mauritania-nouakchott-deepwater-port-economic-v2",
+    parent: "MR",
     type: "port",
     name: { de: "Tiefwasserhafen Nouakchott", hu: "Nouakchott mélyvízi kikötő", ro: "Portul de mare adâncime Nouakchott", en: "Nouakchott Deepwater Port" },
     coords: [-16.035, 17.965],
@@ -195,6 +201,7 @@ export const mauritaniaEconomicV2: POI[] = [
   },
   {
     id: "mauritania-boulanouar-energy-economic-v2",
+    parent: "MR",
     type: "industry",
     name: { de: "Windpark Boulanouar", hu: "Boulanouar szélerőműpark", ro: "Parcul eolian Boulanouar", en: "Boulanouar Wind Farm" },
     coords: [-16.6333, 21.3167],
@@ -227,6 +234,7 @@ export const mauritaniaEconomicV2: POI[] = [
   },
   {
     id: "mauritania-akjoujt-mine-economic-v2",
+    parent: "MR",
     type: "mine",
     name: { de: "Guelb Moghrein Mine", hu: "Guelb Moghrein bánya", ro: "Mina Guelb Moghrein", en: "Guelb Moghrein Mine" },
     coords: [-14.3833, 19.75],
@@ -259,6 +267,7 @@ export const mauritaniaEconomicV2: POI[] = [
   },
   {
     id: "mauritania-nouakchott-industrial-zone-economic-v2",
+    parent: "MR",
     type: "industry",
     name: { de: "Industriegebiet Nouakchott", hu: "Nouakchott ipari övezet", ro: "Zona industrială Nouakchott", en: "Nouakchott Industrial Zone" },
     coords: [-15.95, 18.11],
@@ -291,6 +300,7 @@ export const mauritaniaEconomicV2: POI[] = [
   },
   {
     id: "mauritania-kiffa-trade-economic-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Marktstadt Kiffa", hu: "Kiffa vásárváros", ro: "Orașul comercial Kiffa", en: "Market Town Kiffa" },
     coords: [-11.4, 16.6333],
@@ -323,6 +333,7 @@ export const mauritaniaEconomicV2: POI[] = [
   },
   {
     id: "mauritania-atarr-oasis-economic-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Agrar-Oase Atar", hu: "Atar oázis-gazdaság", ro: "Oaza agricolă Atar", en: "Atar Oasis Agriculture" },
     coords: [-13.05, 20.5167],
@@ -355,6 +366,7 @@ export const mauritaniaEconomicV2: POI[] = [
   },
   {
     id: "mauritania-nouadhibou-fishing-economic-v2",
+    parent: "MR",
     type: "industry",
     name: { de: "Fischerei-Industrie Nouadhibou", hu: "Nouadhibou halászati ipar", ro: "Industria pescărească Nouadhibou", en: "Nouadhibou Fishing Industry" },
     coords: [-17.02, 20.94],
@@ -387,6 +399,7 @@ export const mauritaniaEconomicV2: POI[] = [
   },
   {
     id: "mauritania-fderik-mine-economic-v2",
+    parent: "MR",
     type: "mine",
     name: { de: "Fderik-Mine", hu: "Fderik-bánya", ro: "Mina Fderik", en: "Fderik Mine" },
     coords: [-12.7167, 22.6833],
@@ -419,6 +432,7 @@ export const mauritaniaEconomicV2: POI[] = [
   },
   {
     id: "mauritania-trarza-agro-economic-v2",
+    parent: "MR",
     type: "region",
     name: { de: "Agrarregion Trarza", hu: "Trarza mezőgazdasági régió", ro: "Regiunea agricolă Trarza", en: "Trarza Agricultural Region" },
     coords: [-14.5, 17.0],
@@ -449,6 +463,7 @@ export const mauritaniaEconomicV2: POI[] = [
     }, image: "/poi-images/mauritania-trarza-agro-economic-v2.webp"},
   {
     id: "mauritania-nema-market-economic-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Handelszentrum Nema", hu: "Nema kereskedelmi központ", ro: "Centrul comercial Nema", en: "Nema Trade Center" },
     coords: [-7.25, 16.6333],
@@ -481,6 +496,7 @@ export const mauritaniaEconomicV2: POI[] = [
   },
   {
     id: "mauritania-nouakchott-market-v2-economic-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Grossmarkt Nouakchott", hu: "Nouakchott nagybani piac", ro: "Piața angro Nouakchott", en: "Nouakchott Wholesale Market" },
     coords: [-15.96, 18.09],
@@ -513,6 +529,7 @@ export const mauritaniaEconomicV2: POI[] = [
   },
   {
     id: "mauritania-zouerat-rail-economic-v2",
+    parent: "MR",
     type: "industry",
     name: { de: "SNIM-Bahnlinie", hu: "SNIM vasútvonal", ro: "Linia ferată SNIM", en: "SNIM Railway Line" },
     coords: [-13.5, 22.5],
@@ -545,6 +562,7 @@ export const mauritaniaEconomicV2: POI[] = [
   },
   {
     id: "mauritania-boghe-irrigation-economic-v2",
+    parent: "MR",
     type: "industry",
     name: { de: "Bewässerungsprojekt Boghe", hu: "Boghe öntözési projekt", ro: "Proiect de irigații Boghe", en: "Boghe Irrigation Project" },
     coords: [-14.2833, 16.5833],
@@ -577,6 +595,7 @@ export const mauritaniaEconomicV2: POI[] = [
   },
   {
     id: "mauritania-akjoujt-copper-mine-economic-v2",
+    parent: "MR",
     type: "mine",
     name: { de: "Kupfermine Akjoujt", hu: "Akjoujt rézbánya", ro: "Mina de cupru Akjoujt", en: "Akjoujt Copper Mine" },
     coords: [-14.37, 19.73],
@@ -609,6 +628,7 @@ export const mauritaniaEconomicV2: POI[] = [
   },
   {
     id: "mauritania-tichitt-date-economic-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Dattelhandel Tichitt", hu: "Tichitt datolyakereskedelem", ro: "Comerțul cu curmale Tichitt", en: "Tichitt Date Trade" },
     coords: [-9.4667, 18.4333],
@@ -641,6 +661,7 @@ export const mauritaniaEconomicV2: POI[] = [
   },
   {
     id: "mauritania-nouadhibou-free-zone-economic-v2",
+    parent: "MR",
     type: "industry",
     name: { de: "Freihandelszone Nouadhibou", hu: "Nouadhibou szabadkereskedelmi övezet", ro: "Zona liberă comercială Nouadhibou", en: "Nouadhibou Free Trade Zone" },
     coords: [-17.04, 20.93],
@@ -673,6 +694,7 @@ export const mauritaniaEconomicV2: POI[] = [
   },
   {
     id: "mauritania-kaedi-river-market-economic-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Umschlagplatz Kaedi", hu: "Kaedi átrakodóhely", ro: "Centru de distribuție Kaedi", en: "Kaedi Distribution Center" },
     coords: [-13.51, 16.155],
@@ -705,6 +727,7 @@ export const mauritaniaEconomicV2: POI[] = [
   },
   {
     id: "mauritania-boumdeid-trade-economic-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Boumdeid Handelsplatz", hu: "Boumdeid kereskedelmi hely", ro: "Locație comercială Boumdeid", en: "Boumdeid Trading Post" },
     coords: [-10.63, 16.71],
@@ -737,6 +760,7 @@ export const mauritaniaEconomicV2: POI[] = [
   },
   {
     id: "mauritania-selibaby-trade-economic-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Handelszentrum Selibaby", hu: "Selibaby kereskedelmi központ", ro: "Centrul comercial Selibaby", en: "Selibaby Trade Center" },
     coords: [-12.18, 15.15],
@@ -769,6 +793,7 @@ export const mauritaniaEconomicV2: POI[] = [
   },
   {
     id: "mauritania-nouakchott-port-economic-v2",
+    parent: "MR",
     type: "port",
     name: { de: "Hafen Nouakchott", hu: "Nouakchott kikötő", ro: "Portul Nouakchott", en: "Nouakchott Port" },
     coords: [-16.02, 18.06],
@@ -801,6 +826,7 @@ export const mauritaniaEconomicV2: POI[] = [
   },
   {
     id: "mauritania-akjoujt-mine-v2-economic-v2",
+    parent: "MR",
     type: "industry",
     name: { de: "Akjoujt Industriezone", hu: "Akjoujt ipari övezet", ro: "Zona industrială Akjoujt", en: "Akjoujt Industrial Zone" },
     coords: [-14.39, 19.74],
@@ -833,6 +859,7 @@ export const mauritaniaEconomicV2: POI[] = [
   },
   {
     id: "mauritania-maghama-trade-economic-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Markt Maghama", hu: "Maghama piac", ro: "Piața Maghama", en: "Maghama Market" },
     coords: [-12.87, 15.51],
@@ -865,6 +892,7 @@ export const mauritaniaEconomicV2: POI[] = [
   },
   {
     id: "mauritania-nouadhibou-industrial-v2-economic-v2",
+    parent: "MR",
     type: "port",
     name: { de: "Industriehafen Nouadhibou", hu: "Nouadhibou ipari kikötő", ro: "Portul industrial Nouadhibou", en: "Nouadhibou Industrial Port" },
     coords: [-17.025, 20.935],
@@ -897,6 +925,7 @@ export const mauritaniaEconomicV2: POI[] = [
   },
   {
     id: "mauritania-kaedi-river-v2-economic-v2",
+    parent: "MR",
     type: "port",
     name: { de: "Flusshafen Kaedi", hu: "Kaedi folyami kikötő", ro: "Portul fluvial Kaedi", en: "Kaedi River Port" },
     coords: [-13.51, 16.14],

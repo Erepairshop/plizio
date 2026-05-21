@@ -3,6 +3,7 @@ export const kiribatiHistoryV2: POI[] = [
 
   {
     id: "kiribati-betio-command-post-history-v2",
+    parent: "KI",
     type: "ruins",
     name: { de: "Japanischer Gefechtsstand Betio", hu: "Betio japán parancsnoksági pont", ro: "Postul de comandă japonez din Betio", en: "Betio Japanese Command Post" },
     coords: [172.9244, 1.3542],
@@ -35,6 +36,7 @@ export const kiribatiHistoryV2: POI[] = [
   },
   {
     id: "kiribati-red-beach-tarawa-history-v2",
+    parent: "KI",
     type: "battlefield",
     name: { de: "Red Beach Tarawa", hu: "Tarawa vörös part", ro: "Plaja Roșie Tarawa", en: "Red Beach Tarawa" },
     coords: [172.9331, 1.3581],
@@ -67,6 +69,7 @@ export const kiribatiHistoryV2: POI[] = [
   },
   {
     id: "kiribati-coast-watchers-memorial-history-v2",
+    parent: "KI",
     type: "monument",
     name: { de: "Coast Watchers Denkmal", hu: "Coast Watchers emlékmű", ro: "Monumentul Coast Watchers", en: "Coast Watchers Memorial" },
     coords: [172.9152, 1.3523],
@@ -99,6 +102,7 @@ export const kiribatiHistoryV2: POI[] = [
   },
   {
     id: "kiribati-makin-battlefield-history-v2",
+    parent: "KI",
     type: "battlefield",
     name: { de: "Makin Atoll Schlachtfeld", hu: "Makin-atoll csatatér", ro: "Câmpul de luptă de la Atolul Makin", en: "Makin Atoll Battlefield" },
     coords: [172.7951, 3.1655],
@@ -131,6 +135,7 @@ export const kiribatiHistoryV2: POI[] = [
   },
   {
     id: "kiribati-banaba-mining-ruins-history-v2",
+    parent: "KI",
     type: "ruins",
     name: { de: "Phosphatminen von Banaba", hu: "Banaba foszfátbányák", ro: "Ruinele minelor de fosfat din Banaba", en: "Banaba Phosphate Mining Ruins" },
     coords: [169.5354, -0.8522],
@@ -163,6 +168,7 @@ export const kiribatiHistoryV2: POI[] = [
   },
   {
     id: "kiribati-nikumaroro-settlement-history-v2",
+    parent: "KI",
     type: "ruins",
     name: { de: "Nikumaroro Siedlungsruinen", hu: "Nikumaroro településmaradványok", ro: "Ruinele așezării din Nikumaroro", en: "Nikumaroro Settlement Ruins" },
     coords: [-174.5221, -4.6732],
@@ -195,6 +201,7 @@ export const kiribatiHistoryV2: POI[] = [
   },
   {
     id: "kiribati-abemama-occupation-site-history-v2",
+    parent: "KI",
     type: "battlefield",
     name: { de: "Besatzungszone Abemama", hu: "Abemama megszállási helyszín", ro: "Situl de ocupație din Abemama", en: "Abemama Occupation Site" },
     coords: [173.8652, 0.3955],
@@ -227,6 +234,7 @@ export const kiribatiHistoryV2: POI[] = [
   },
   {
     id: "kiribati-tarawa-war-cemetery-history-v2",
+    parent: "KI",
     type: "monument",
     name: { de: "Kriegsgräberstätte Tarawa", hu: "Tarawai katonai temető", ro: "Cimitirul de Război din Tarawa", en: "Tarawa War Cemetery" },
     coords: [172.9215, 1.3551],
@@ -259,6 +267,7 @@ export const kiribatiHistoryV2: POI[] = [
   },
   {
     id: "kiribati-cook-landing-kiritimati-history-v2",
+    parent: "KI",
     type: "landmark",
     name: { de: "Captain Cooks Landungsstelle", hu: "Cook kapitány partraszállási helye", ro: "Locul de debarcare al căpitanului Cook", en: "Captain Cook's Landing Site" },
     coords: [-157.4831, 1.9832],
@@ -291,6 +300,7 @@ export const kiribatiHistoryV2: POI[] = [
   },
   {
     id: "kiribati-fanning-cable-station-history-v2",
+    parent: "KI",
     type: "ruins",
     name: { de: "Kabelstation Tabuaeran", hu: "Tabuaeran kábelállomás", ro: "Stația de cablu din Tabuaeran", en: "Tabuaeran Cable Station Ruins" },
     coords: [-159.3324, 3.8615],
@@ -323,6 +333,7 @@ export const kiribatiHistoryV2: POI[] = [
   },
   {
     id: "kiribati-butaritari-seaplane-base-history-v2",
+    parent: "KI",
     type: "ruins",
     name: { de: "Wasserflugzeugbasis Butaritari", hu: "Butaritari hidroplán bázis", ro: "Baza de hidroavioane din Butaritari", en: "Butaritari Seaplane Base" },
     coords: [172.8452, 3.1251],
@@ -355,6 +366,7 @@ export const kiribatiHistoryV2: POI[] = [
   },
   {
     id: "kiribati-arorae-navigational-stones-history-v2",
+    parent: "KI",
     type: "landmark",
     name: { de: "Navigationssteine von Arorae", hu: "Arorae navigációs kövek", ro: "Pietrele de navigație din Arorae", en: "Arorae Navigational Stones" },
     coords: [176.8152, -2.6355],
@@ -387,6 +399,7 @@ export const kiribatiHistoryV2: POI[] = [
   },
   {
     id: "kiribati-bairiki-independence-site-history-v2",
+    parent: "KI",
     type: "landmark",
     name: { de: "Unabhängigkeitsplatz Bairiki", hu: "Bairiki függetlenségi tér", ro: "Piața Independenței din Bairiki", en: "Bairiki Independence Site" },
     coords: [172.9774, 1.3312],
@@ -419,6 +432,7 @@ export const kiribatiHistoryV2: POI[] = [
   },
   {
     id: "kiribati-beru-traditional-maneaba-history-v2",
+    parent: "KI",
     type: "landmark",
     name: { de: "Traditionelles Maneaba von Beru", hu: "Beru hagyományos Maneaba", ro: "Maneaba tradițională din Beru", en: "Beru Traditional Maneaba" },
     coords: [175.9812, -1.3321],
@@ -451,6 +465,7 @@ export const kiribatiHistoryV2: POI[] = [
   },
   {
     id: "kiribati-te-animane-maneaba-history-v2",
+    parent: "KI",
     type: "landmark",
     name: { de: "Te Animane Maneaba", hu: "Te Animane Maneaba", ro: "Te Animane Maneaba", en: "Te Animane Maneaba" },
     coords: [174.9254, -1.4852],

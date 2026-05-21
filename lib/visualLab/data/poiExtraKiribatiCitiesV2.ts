@@ -3,6 +3,7 @@ export const kiribatiCitiesV2: POI[] = [
 
   {
     id: "kiribati-south-tarawa-cities-v2",
+    parent: "KI",
     type: "capital",
     name: { de: "Süd-Tarawa", hu: "Dél-Tarawa", ro: "Tarawa de Sud", en: "South Tarawa" },
     coords: [172.98, 1.33],
@@ -35,6 +36,7 @@ export const kiribatiCitiesV2: POI[] = [
   },
   {
     id: "kiribati-betio-cities-v2",
+    parent: "KI",
     type: "town",
     name: { de: "Betio", hu: "Betio", ro: "Betio", en: "Betio" },
     coords: [172.93, 1.35],
@@ -67,6 +69,7 @@ export const kiribatiCitiesV2: POI[] = [
   },
   {
     id: "kiribati-bikenibeu-cities-v2",
+    parent: "KI",
     type: "town",
     name: { de: "Bikenibeu", hu: "Bikenibeu", ro: "Bikenibeu", en: "Bikenibeu" },
     coords: [173.12, 1.36],
@@ -99,6 +102,7 @@ export const kiribatiCitiesV2: POI[] = [
   },
   {
     id: "kiribati-teaoraereke-cities-v2",
+    parent: "KI",
     type: "town",
     name: { de: "Teaoraereke", hu: "Teaoraereke", ro: "Teaoraereke", en: "Teaoraereke" },
     coords: [173.01, 1.33],
@@ -131,6 +135,7 @@ export const kiribatiCitiesV2: POI[] = [
   },
   {
     id: "kiribati-bairiki-cities-v2",
+    parent: "KI",
     type: "village",
     name: { de: "Bairiki", hu: "Bairiki", ro: "Bairiki", en: "Bairiki" },
     coords: [172.98, 1.33],
@@ -163,6 +168,7 @@ export const kiribatiCitiesV2: POI[] = [
   },
   {
     id: "kiribati-tabwakea-cities-v2",
+    parent: "KI",
     type: "town",
     name: { de: "Tabwakea", hu: "Tabwakea", ro: "Tabwakea", en: "Tabwakea" },
     coords: [-157.48, 1.98],
@@ -195,6 +201,7 @@ export const kiribatiCitiesV2: POI[] = [
   },
   {
     id: "kiribati-banana-cities-v2",
+    parent: "KI",
     type: "village",
     name: { de: "Banana", hu: "Banana", ro: "Banana", en: "Banana" },
     coords: [-157.36, 1.99],
@@ -227,6 +234,7 @@ export const kiribatiCitiesV2: POI[] = [
   },
   {
     id: "kiribati-eita-cities-v2",
+    parent: "KI",
     type: "village",
     name: { de: "Eita", hu: "Eita", ro: "Eita", en: "Eita" },
     coords: [173.08, 1.36],
@@ -259,6 +267,7 @@ export const kiribatiCitiesV2: POI[] = [
   },
   {
     id: "kiribati-temwaiku-cities-v2",
+    parent: "KI",
     type: "village",
     name: { de: "Temwaiku", hu: "Temwaiku", ro: "Temwaiku", en: "Temwaiku" },
     coords: [173.14, 1.35],
@@ -291,6 +300,7 @@ export const kiribatiCitiesV2: POI[] = [
   },
   {
     id: "kiribati-bonriki-cities-v2",
+    parent: "KI",
     type: "village",
     name: { de: "Bonriki", hu: "Bonriki", ro: "Bonriki", en: "Bonriki" },
     coords: [173.15, 1.38],
@@ -323,6 +333,7 @@ export const kiribatiCitiesV2: POI[] = [
   },
   {
     id: "kiribati-poland-cities-v2",
+    parent: "KI",
     type: "village",
     name: { de: "Poland", hu: "Poland", ro: "Poland", en: "Poland" },
     coords: [-157.55, 1.86],
@@ -355,6 +366,7 @@ export const kiribatiCitiesV2: POI[] = [
   },
   {
     id: "kiribati-rawannawi-cities-v2",
+    parent: "KI",
     type: "village",
     name: { de: "Rawannawi", hu: "Rawannawi", ro: "Rawannawi", en: "Rawannawi" },
     coords: [173.27, 2.05],
@@ -387,6 +399,7 @@ export const kiribatiCitiesV2: POI[] = [
   },
   {
     id: "kiribati-rungata-cities-v2",
+    parent: "KI",
     type: "village",
     name: { de: "Rungata", hu: "Rungata", ro: "Rungata", en: "Rungata" },
     coords: [175.98, -1.33],

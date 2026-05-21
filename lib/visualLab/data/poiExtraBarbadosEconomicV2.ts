@@ -3,6 +3,7 @@ export const barbadosEconomicV2: POI[] = [
 
   {
     id: "barbados-bridgetown-port-economic-v2",
+    parent: "BB",
     type: "port",
     name: { de: "Hafen von Bridgetown", hu: "Bridgetowni kikötő", ro: "Portul Bridgetown", en: "Bridgetown Port" },
     coords: [-59.626, 13.107],
@@ -47,6 +48,7 @@ export const barbadosEconomicV2: POI[] = [
   },
   {
     id: "barbados-grantley-adams-airport-economic-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Grantley Adams Internationaler Flughafen", hu: "Grantley Adams nemzetközi repülőtér", ro: "Aeroportul Internațional Grantley Adams", en: "Grantley Adams International Airport" },
     coords: [-59.492, 13.074],
@@ -90,6 +92,7 @@ export const barbadosEconomicV2: POI[] = [
   },
   {
     id: "barbados-warrens-business-district-economic-v2",
+    parent: "BB",
     type: "city",
     name: { de: "Warrens Geschäftsviertel", hu: "Warrens üzleti negyed", ro: "Districtul de Afaceri Warrens", en: "Warrens Business District" },
     coords: [-59.596, 13.146],
@@ -133,6 +136,7 @@ export const barbadosEconomicV2: POI[] = [
   },
   {
     id: "barbados-foursquare-distillery-economic-v2",
+    parent: "BB",
     type: "factory",
     name: { de: "Foursquare Rum-Brennerei", hu: "Foursquare rumlepárló", ro: "Distileria de Rom Foursquare", en: "Foursquare Rum Distillery" },
     coords: [-59.475, 13.123],
@@ -177,6 +181,7 @@ export const barbadosEconomicV2: POI[] = [
   },
   {
     id: "barbados-arawak-cement-plant-economic-v2",
+    parent: "BB",
     type: "industry",
     name: { de: "Arawak Zementwerk", hu: "Arawak cementgyár", ro: "Fabrica de Ciment Arawak", en: "Arawak Cement Plant" },
     coords: [-59.627, 13.298],
@@ -220,6 +225,7 @@ export const barbadosEconomicV2: POI[] = [
   },
   {
     id: "barbados-wildey-industrial-park-economic-v2",
+    parent: "BB",
     type: "industry",
     name: { de: "Wildey Industriepark", hu: "Wildey ipari park", ro: "Parcul Industrial Wildey", en: "Wildey Industrial Park" },
     coords: [-59.585, 13.094],
@@ -263,6 +269,7 @@ export const barbadosEconomicV2: POI[] = [
   },
   {
     id: "barbados-central-bank-economic-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Zentralbank von Barbados", hu: "Barbadosi Központi Bank", ro: "Banca Centrală din Barbados", en: "Central Bank of Barbados" },
     coords: [-59.611, 13.098],
@@ -306,6 +313,7 @@ export const barbadosEconomicV2: POI[] = [
   },
   {
     id: "barbados-banks-brewery-economic-v2",
+    parent: "BB",
     type: "factory",
     name: { de: "Banks Brauerei", hu: "Banks sörfőzde", ro: "Berăria Banks", en: "Banks Brewery" },
     coords: [-59.539, 13.124],
@@ -349,6 +357,7 @@ export const barbadosEconomicV2: POI[] = [
   },
   {
     id: "barbados-pine-hill-dairy-economic-v2",
+    parent: "BB",
     type: "factory",
     name: { de: "Pine Hill Molkerei", hu: "Pine Hill tejüzem", ro: "Lactatele Pine Hill", en: "Pine Hill Dairy" },
     coords: [-59.577, 13.102],
@@ -392,6 +401,7 @@ export const barbadosEconomicV2: POI[] = [
   },
   {
     id: "barbados-oistins-fish-market-economic-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Fischmarkt von Oistins", hu: "Oistinsi halpiac", ro: "Piața de Pește Oistins", en: "Oistins Fish Market" },
     coords: [-59.544, 13.061],
@@ -435,6 +445,7 @@ export const barbadosEconomicV2: POI[] = [
   },
   {
     id: "barbados-newton-industrial-park-economic-v2",
+    parent: "BB",
     type: "industry",
     name: { de: "Newton Industriepark", hu: "Newton ipari park", ro: "Parcul Industrial Newton", en: "Newton Industrial Park" },
     coords: [-59.522, 13.085],
@@ -478,6 +489,7 @@ export const barbadosEconomicV2: POI[] = [
   },
   {
     id: "barbados-portvale-sugar-factory-economic-v2",
+    parent: "BB",
     type: "factory",
     name: { de: "Zuckerfabrik Portvale", hu: "Portvale cukorgyár", ro: "Fabrica de Zahăr Portvale", en: "Portvale Sugar Factory" },
     coords: [-59.592, 13.205],
@@ -521,6 +533,7 @@ export const barbadosEconomicV2: POI[] = [
   },
   {
     id: "barbados-six-roads-economic-v2",
+    parent: "BB",
     type: "industry",
     name: { de: "Six Roads Wirtschaftszone", hu: "Six Roads gazdasági övezet", ro: "Zona Economică Six Roads", en: "Six Roads Economic Zone" },
     coords: [-59.475, 13.115],
@@ -564,6 +577,7 @@ export const barbadosEconomicV2: POI[] = [
   },
   {
     id: "barbados-mount-gay-distillery-economic-v2",
+    parent: "BB",
     type: "factory",
     name: { de: "Mount Gay Rum-Brennerei", hu: "Mount Gay rumlepárló", ro: "Distileria de Rom Mount Gay", en: "Mount Gay Distillery" },
     coords: [-59.589, 13.284],
@@ -607,6 +621,7 @@ export const barbadosEconomicV2: POI[] = [
   },
   {
     id: "barbados-limegrove-lifestyle-centre-economic-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Limegrove Lifestyle-Zentrum", hu: "Limegrove életmódközpont", ro: "Centrul Limegrove Lifestyle", en: "Limegrove Lifestyle Centre" },
     coords: [-59.638, 13.187],
@@ -650,6 +665,7 @@ export const barbadosEconomicV2: POI[] = [
   },
   {
     id: "barbados-spring-garden-industrial-economic-v2",
+    parent: "BB",
     type: "industry",
     name: { de: "Spring Garden Industriestraße", hu: "Spring Garden ipari zóna", ro: "Zona Industrială Spring Garden", en: "Spring Garden Industrial Zone" },
     coords: [-59.631, 13.124],
@@ -693,6 +709,7 @@ export const barbadosEconomicV2: POI[] = [
   },
   {
     id: "barbados-broad-street-economic-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Broad Street Handelsmeile", hu: "Broad Street kereskedelmi utca", ro: "Broad Street Comercială", en: "Broad Street" },
     coords: [-59.614, 13.097],
@@ -737,6 +754,7 @@ export const barbadosEconomicV2: POI[] = [
   },
   {
     id: "barbados-lower-estate-industrial-economic-v2",
+    parent: "BB",
     type: "industry",
     name: { de: "Lower Estate Industriepark", hu: "Lower Estate ipari park", ro: "Parcul Industrial Lower Estate", en: "Lower Estate Industrial Park" },
     coords: [-59.575, 13.132],
@@ -781,6 +799,7 @@ export const barbadosEconomicV2: POI[] = [
   },
   {
     id: "barbados-grazettes-industrial-park-economic-v2",
+    parent: "BB",
     type: "industry",
     name: { de: "Grazettes Industriepark", hu: "Grazettes ipari park", ro: "Parcul Industrial Grazettes", en: "Grazettes Industrial Park" },
     coords: [-59.612, 13.125],
@@ -825,6 +844,7 @@ export const barbadosEconomicV2: POI[] = [
   },
   {
     id: "barbados-st-nicholas-abbey-economic-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "St. Nicholas Abbey Zuckeranwesen", hu: "St. Nicholas Abbey birtok", ro: "Domeniul St. Nicholas Abbey", en: "St. Nicholas Abbey" },
     coords: [-59.593, 13.268],
@@ -869,6 +889,7 @@ export const barbadosEconomicV2: POI[] = [
   },
   {
     id: "barbados-andrews-sugar-factory-economic-v2",
+    parent: "BB",
     type: "factory",
     name: { de: "Zuckerfabrik Andrews", hu: "Andrews cukorgyár", ro: "Fabrica de Zahăr Andrews", en: "Andrews Sugar Factory" },
     coords: [-59.532, 13.208],
@@ -913,6 +934,7 @@ export const barbadosEconomicV2: POI[] = [
   },
   {
     id: "barbados-bridgetown-fisheries-economic-v2",
+    parent: "BB",
     type: "industry",
     name: { de: "Bridgetown Fischereikomplex", hu: "Bridgetowni halászati komplexum", ro: "Complexul de Pescuit Bridgetown", en: "Bridgetown Fisheries Complex" },
     coords: [-59.626, 13.098],
@@ -957,6 +979,7 @@ export const barbadosEconomicV2: POI[] = [
   },
   {
     id: "barbados-chefette-production-economic-v2",
+    parent: "BB",
     type: "factory",
     name: { de: "Chefette Produktionszentrum", hu: "Chefette termelési központ", ro: "Centrul de Producție Chefette", en: "Chefette Production Centre" },
     coords: [-59.584, 13.094],
@@ -1001,6 +1024,7 @@ export const barbadosEconomicV2: POI[] = [
   },
   {
     id: "barbados-canefield-industrial-economic-v2",
+    parent: "BB",
     type: "industry",
     name: { de: "Canefield Industrieviertel", hu: "Canefield ipari negyed", ro: "Zona Industrială Canefield", en: "Canefield Industrial Estate" },
     coords: [-59.595, 13.21],
@@ -1045,6 +1069,7 @@ export const barbadosEconomicV2: POI[] = [
   },
   {
     id: "barbados-harbour-industrial-park-economic-v2",
+    parent: "BB",
     type: "industry",
     name: { de: "Harbour Industriepark", hu: "Harbour ipari park", ro: "Parcul Industrial Harbour", en: "Harbour Industrial Park" },
     coords: [-59.624, 13.111],
@@ -1089,6 +1114,7 @@ export const barbadosEconomicV2: POI[] = [
   },
   {
     id: "barbados-west-indies-rum-economic-v2",
+    parent: "BB",
     type: "factory",
     name: { de: "West Indies Rum-Brennerei", hu: "West Indies rumlepárló", ro: "Distileria West Indies Rum", en: "West Indies Rum Distillery" },
     coords: [-59.635, 13.126],
@@ -1133,6 +1159,7 @@ export const barbadosEconomicV2: POI[] = [
   },
   {
     id: "barbados-cgc-glass-works-economic-v2",
+    parent: "BB",
     type: "factory",
     name: { de: "CGC Glaswerk", hu: "CGC üveggyár", ro: "Fabrica de Sticlă CGC", en: "CGC Glass Works" },
     coords: [-59.577, 13.111],
@@ -1177,6 +1204,7 @@ export const barbadosEconomicV2: POI[] = [
   },
   {
     id: "barbados-mount-standfast-commercial-economic-v2",
+    parent: "BB",
     type: "landmark",
     name: { de: "Mount Standfast Geschäftsviertel", hu: "Mount Standfast üzleti negyed", ro: "Zona Comercială Mount Standfast", en: "Mount Standfast Commercial Area" },
     coords: [-59.635, 13.2],
@@ -1221,6 +1249,7 @@ export const barbadosEconomicV2: POI[] = [
   },
   {
     id: "barbados-speightstown-commercial-economic-v2",
+    parent: "BB",
     type: "town",
     name: { de: "Speightstown Handelszentrum", hu: "Speightstowni kereskedelmi központ", ro: "Centrul Comercial Speightstown", en: "Speightstown Commercial Center" },
     coords: [-59.643, 13.25],
@@ -1265,6 +1294,7 @@ export const barbadosEconomicV2: POI[] = [
   },
   {
     id: "barbados-the-pine-industrial-economic-v2",
+    parent: "BB",
     type: "industry",
     name: { de: "The Pine Industriegebiet", hu: "The Pine ipari terület", ro: "Zona Industrială The Pine", en: "The Pine Industrial Estate" },
     coords: [-59.589, 13.1],

@@ -3,6 +3,7 @@ export const samoaLandmarksV2: POI[] = [
 
   {
     id: "samoa-robert-louis-stevenson-museum-landmarks-v2",
+    parent: "WS",
     type: "museum",
     name: { de: "Robert-Louis-Stevenson-Museum", hu: "Robert Louis Stevenson Múzeum", ro: "Muzeul Robert Louis Stevenson", en: "Robert Louis Stevenson Museum" },
     coords: [-171.7601, -13.8642],
@@ -35,6 +36,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-bahai-house-of-worship-landmarks-v2",
+    parent: "WS",
     type: "church",
     name: { de: "Haus der Andacht der Bahai", hu: "Bahái imaház", ro: "Casa de Adorație Baha'i", en: "Baha'i House of Worship" },
     coords: [-171.7761, -13.8819],
@@ -67,6 +69,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-museum-of-samoa-landmarks-v2",
+    parent: "WS",
     type: "museum",
     name: { de: "Museum von Samoa", hu: "Szamoai Múzeum", ro: "Muzeul Samoa", en: "Museum of Samoa" },
     coords: [-171.7631, -13.8328],
@@ -99,6 +102,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-parliament-house-landmarks-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Parlamentsgebäude von Samoa", hu: "Szamoai parlamenti épület", ro: "Clădirea Parlamentului din Samoa", en: "Parliament House of Samoa" },
     coords: [-171.7825, -13.8239],
@@ -131,6 +135,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-old-courthouse-landmarks-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Altes Gerichtsgebäude", hu: "Régi bírósági épület", ro: "Vechea clădire a tribunalului", en: "Old Courthouse of Apia" },
     coords: [-171.7661, -13.8321],
@@ -163,6 +168,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-government-building-landmarks-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Regierungsgebäude", hu: "Kormányzati épület", ro: "Clădirea Guvernului", en: "Government Building" },
     coords: [-171.7681, -13.8306],
@@ -195,6 +201,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-central-bank-building-landmarks-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Zentralbank-Gebäude", hu: "Központi Bank épülete", ro: "Clădirea Băncii Centrale", en: "Central Bank Building" },
     coords: [-171.7685, -13.8301],
@@ -227,6 +234,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-nelson-memorial-library-landmarks-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Nelson-Gedächtnisbibliothek", hu: "Nelson Emlékkönyvtár", ro: "Biblioteca Memorială Nelson", en: "Nelson Memorial Library" },
     coords: [-171.7665, -13.8325],
@@ -259,6 +267,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-stevenson-tomb-landmarks-v2",
+    parent: "WS",
     type: "monument",
     name: { de: "Stevenson-Grab", hu: "Stevenson-sír", ro: "Mormântul lui Stevenson", en: "Stevenson's Tomb" },
     coords: [-171.7589, -13.8694],
@@ -291,6 +300,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-saleaula-lava-church-ruins-landmarks-v2",
+    parent: "WS",
     type: "ruins",
     name: { de: "Kirchenruinen von Saleaula", hu: "Saleaula-i templomromok", ro: "Ruinele bisericii din Saleaula", en: "Saleaula Lava Church Ruins" },
     coords: [-172.3411, -13.4475],
@@ -323,6 +333,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-piula-theological-college-landmarks-v2",
+    parent: "WS",
     type: "university",
     name: { de: "Theologisches Kolleg Piula", hu: "Piula Teológiai Főiskola", ro: "Colegiul Teologic Piula", en: "Piula Theological College" },
     coords: [-171.5833, -13.8814],
@@ -355,6 +366,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-efks-museum-landmarks-v2",
+    parent: "WS",
     type: "museum",
     name: { de: "EFKS Museum", hu: "EFKS Múzeum", ro: "Muzeul EFKS", en: "EFKS Museum" },
     coords: [-171.8675, -13.8158],
@@ -387,6 +399,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-aggie-greys-hotel-landmarks-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Aggie Grey's Hotel", hu: "Aggie Grey's Hotel", ro: "Hotelul Aggie Grey", en: "Aggie Grey's Hotel" },
     coords: [-171.7611, -13.8325],
@@ -419,6 +432,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-malietoa-tomb-landmarks-v2",
+    parent: "WS",
     type: "monument",
     name: { de: "Malietoa-Grabmal", hu: "Malietoa-sír", ro: "Mormântul lui Malietoa", en: "Malietoa Tanumafili II Tomb" },
     coords: [-171.7815, -13.8245],
@@ -451,6 +465,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-tanumapua-temple-landmarks-v2",
+    parent: "WS",
     type: "church",
     name: { de: "Apia-Samoa-Tempel", hu: "Apia Szamoa templom", ro: "Templul Apia Samoa", en: "Tanumapua LDS Temple" },
     coords: [-171.8011, -13.8453],
@@ -483,6 +498,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-mau-monument-landmarks-v2",
+    parent: "WS",
     type: "monument",
     name: { de: "Mau-Denkmal", hu: "Mau-emlékmű", ro: "Monumentul Mau", en: "Vaimoso Mau Monument" },
     coords: [-171.7811, -13.8331],
@@ -515,6 +531,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-fugalei-market-landmarks-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Fugalei-Markt", hu: "Fugalei piac", ro: "Piața Fugalei", en: "Fugalei Produce Market" },
     coords: [-171.7711, -13.8361],
@@ -547,6 +564,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-salelologa-market-landmarks-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Markt von Salelologa", hu: "Salelologa piac", ro: "Piața Salelologa", en: "Salelologa Market Building" },
     coords: [-172.2151, -13.7381],
@@ -579,6 +597,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-apia-fish-market-landmarks-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Fischmarkt von Apia", hu: "Apiai halpiac", ro: "Piața de pește din Apia", en: "Apia Fish Market" },
     coords: [-171.7655, -13.8305],
@@ -611,6 +630,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-star-mound-landmarks-v2",
+    parent: "WS",
     type: "ruins",
     name: { de: "Sternenhügel von Letolo", hu: "Letolo-i csillaghalom", ro: "Tumulul stelar din Letolo", en: "Tia Seu Lupe Star Mound" },
     coords: [-172.3155, -13.7541],
@@ -643,6 +663,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-royal-tombs-mulinuu-landmarks-v2",
+    parent: "WS",
     type: "monument",
     name: { de: "Königsgräber von Mulinuu", hu: "Mulinuu-i királysírok", ro: "Mormintele Regale din Mulinuu", en: "Royal Tombs of Mulinuu" },
     coords: [-171.7821, -13.8241],
@@ -675,6 +696,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-german-memorial-landmarks-v2",
+    parent: "WS",
     type: "monument",
     name: { de: "Deutsches Denkmal", hu: "Német emlékmű", ro: "Monumentul German", en: "German Memorial Mulinuu" },
     coords: [-171.7831, -13.8235],
@@ -707,6 +729,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-independence-monument-landmarks-v2",
+    parent: "WS",
     type: "monument",
     name: { de: "Unabhängigkeitsdenkmal", hu: "Függetlenségi emlékmű", ro: "Monumentul Independenței", en: "Independence Monument Mulinuu" },
     coords: [-171.7835, -13.8231],
@@ -739,6 +762,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-tatte-building-landmarks-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "TATTE-Gebäude", hu: "TATTE épület", ro: "Clădirea TATTE", en: "Tuiatua Tupua Tamasese Efi Building" },
     coords: [-171.7691, -13.8315],
@@ -771,6 +795,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-st-marys-convent-landmarks-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "St.-Marien-Konvent", hu: "Szent Mária kolostor", ro: "Conventul Sfânta Maria", en: "St. Mary's Convent Apia" },
     coords: [-171.7641, -13.8321],
@@ -803,6 +828,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-don-bosco-centre-landmarks-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Don-Bosco-Zentrum", hu: "Don Bosco Központ", ro: "Centrul Don Bosco", en: "Don Bosco Technical Centre" },
     coords: [-172.2181, -13.7411],
@@ -835,6 +861,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-leone-bridge-landmarks-v2",
+    parent: "WS",
     type: "bridge",
     name: { de: "Leone-Brücke", hu: "Leone-híd", ro: "Podul Leone", en: "Leone Bridge" },
     coords: [-171.7651, -13.8335],
@@ -867,6 +894,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-vaisigano-bridge-landmarks-v2",
+    parent: "WS",
     type: "bridge",
     name: { de: "Vaisigano-Brücke", hu: "Vaisigano-híd", ro: "Podul Vaisigano", en: "Vaisigano Bridge" },
     coords: [-171.7615, -13.8311],
@@ -899,6 +927,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-falefa-bridge-landmarks-v2",
+    parent: "WS",
     type: "bridge",
     name: { de: "Falefa-Brücke", hu: "Falefa-híd", ro: "Podul Falefa", en: "Falefa Bridge" },
     coords: [-171.5911, -13.9041],
@@ -931,6 +960,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-cape-mulinuu-lighthouse-landmarks-v2",
+    parent: "WS",
     type: "tower",
     name: { de: "Leuchtturm am Cape Mulinuu", hu: "Mulinuu-foki világítótorony", ro: "Farul de la Capul Mulinuu", en: "Cape Mulinuu Lighthouse" },
     coords: [-172.7911, -13.5111],
@@ -963,6 +993,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-tapaau-lighthouse-landmarks-v2",
+    parent: "WS",
     type: "tower",
     name: { de: "Tapaau-Leuchtturm", hu: "Tapaau világítótorony", ro: "Farul Tapaau", en: "Tapaau Lighthouse" },
     coords: [-172.2211, -13.7611],
@@ -995,6 +1026,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-apolima-lighthouse-landmarks-v2",
+    parent: "WS",
     type: "tower",
     name: { de: "Apolima-Leuchtturm", hu: "Apolima világítótorony", ro: "Farul Apolima", en: "Apolima Island Lighthouse" },
     coords: [-172.1491, -13.8191],
@@ -1027,6 +1059,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-manono-church-landmarks-v2",
+    parent: "WS",
     type: "church",
     name: { de: "Kirche von Manono", hu: "Manono templom", ro: "Biserica Manono", en: "Manono Island Church" },
     coords: [-172.1091, -13.8411],
@@ -1059,6 +1092,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-safotu-church-landmarks-v2",
+    parent: "WS",
     type: "church",
     name: { de: "Kirche von Safotu", hu: "Safotu templom", ro: "Biserica din Safotu", en: "Safotu Catholic Church" },
     coords: [-172.4011, -13.4411],
@@ -1091,6 +1125,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-siumu-church-landmarks-v2",
+    parent: "WS",
     type: "church",
     name: { de: "Kirche von Siumu", hu: "Siumu templom", ro: "Biserica din Siumu", en: "Siumu Catholic Church" },
     coords: [-171.7611, -13.9911],
@@ -1123,6 +1158,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-fagamalo-church-landmarks-v2",
+    parent: "WS",
     type: "church",
     name: { de: "Kirche von Fagamalo", hu: "Fagamalo templom", ro: "Biserica din Fagamalo", en: "Fagamalo Methodist Church" },
     coords: [-172.3211, -13.4311],
@@ -1155,6 +1191,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-lalomanu-memorial-landmarks-v2",
+    parent: "WS",
     type: "monument",
     name: { de: "Lalomanu-Gedenkstätte", hu: "Lalomanu-emlékmű", ro: "Monumentul Lalomanu", en: "Lalomanu Memorial" },
     coords: [-171.4411, -14.0411],
@@ -1187,6 +1224,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-peace-chapel-landmarks-v2",
+    parent: "WS",
     type: "church",
     name: { de: "Friedenskapelle", hu: "Béke-kápolna", ro: "Capela Păcii", en: "Peace Chapel Apia" },
     coords: [-171.7621, -13.8341],
@@ -1219,6 +1257,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-john-williams-memorial-landmarks-v2",
+    parent: "WS",
     type: "monument",
     name: { de: "John-Williams-Denkmal", hu: "John Williams emlékmű", ro: "Monumentul John Williams", en: "John Williams Memorial" },
     coords: [-171.7661, -13.8315],
@@ -1251,6 +1290,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-usp-alafua-landmarks-v2",
+    parent: "WS",
     type: "university",
     name: { de: "USP-Campus Alafua", hu: "USP Alafua kampusz", ro: "Campusul USP Alafua", en: "USP Alafua Campus" },
     coords: [-171.7811, -13.8541],
@@ -1283,6 +1323,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-samoa-college-landmarks-v2",
+    parent: "WS",
     type: "university",
     name: { de: "Samoa College", hu: "Szamoa Kollégium", ro: "Colegiul Samoa", en: "Samoa College" },
     coords: [-171.7711, -13.8511],
@@ -1315,6 +1356,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-avele-college-landmarks-v2",
+    parent: "WS",
     type: "university",
     name: { de: "Avele College", hu: "Avele Kollégium", ro: "Colegiul Avele", en: "Avele College" },
     coords: [-171.7611, -13.8611],
@@ -1347,6 +1389,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-chanel-college-landmarks-v2",
+    parent: "WS",
     type: "university",
     name: { de: "Chanel College", hu: "Chanel Kollégium", ro: "Colegiul Chanel", en: "Chanel College" },
     coords: [-171.8111, -13.8651],
@@ -1379,6 +1422,7 @@ export const samoaLandmarksV2: POI[] = [
   },
   {
     id: "samoa-marist-brothers-school-landmarks-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Maristenbrüder-Schule", hu: "Marista testvérek iskolája", ro: "Școala Fraților Mariști", en: "Marist Brothers School" },
     coords: [-171.7681, -13.8345],

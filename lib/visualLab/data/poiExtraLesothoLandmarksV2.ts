@@ -3,6 +3,7 @@ export const lesothoLandmarksV2: POI[] = [
 
   {
     id: "lesotho-royal-palace-landmarks-v2",
+    parent: "LS",
     type: "palace",
     name: { de: "Königlicher Palast", hu: "Királyi Palota", ro: "Palatul Regal", en: "Royal Palace" },
     coords: [27.4851, -29.3129],
@@ -35,6 +36,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-national-assembly-landmarks-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Nationalversammlung von Lesotho", hu: "Lesotho Nemzetgyűlése", ro: "Adunarea Națională a Lesotho", en: "National Assembly of Lesotho" },
     coords: [27.4842, -29.3082],
@@ -67,6 +69,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-st-john-anglican-cathedral-landmarks-v2",
+    parent: "LS",
     type: "cathedral",
     name: { de: "St. John's Anglican Cathedral", hu: "Szent János anglikán székesegyház", ro: "Catedrala Anglicană Sfântul Ioan", en: "St. John's Anglican Cathedral" },
     coords: [27.4815, -29.3125],
@@ -99,6 +102,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-national-museum-landmarks-v2",
+    parent: "LS",
     type: "museum",
     name: { de: "Lesotho Nationalmuseum", hu: "Lesotho Nemzeti Múzeum", ro: "Muzeul Național din Lesotho", en: "Lesotho National Museum" },
     coords: [27.4835, -29.3145],
@@ -131,6 +135,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-mokorotlo-basotho-hat-landmarks-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Mokorotlo-Gebäude (Basotho-Hut)", hu: "Mokorotlo épület (Basotho kalap)", ro: "Clădirea Mokorotlo (Basotho Hat)", en: "Mokorotlo Building (Basotho Hat)" },
     coords: [27.4828, -29.3117],
@@ -163,6 +168,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-maseru-bridge-landmarks-v2",
+    parent: "LS",
     type: "bridge",
     name: { de: "Maseru-Brücke", hu: "Maseru-híd", ro: "Podul Maseru", en: "Maseru Bridge" },
     coords: [27.4535, -29.2965],
@@ -195,6 +201,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-morija-museum-archives-landmarks-v2",
+    parent: "LS",
     type: "museum",
     name: { de: "Morija Museum & Archiv", hu: "Morija Múzeum és Archívum", ro: "Muzeul și Arhivele Morija", en: "Morija Museum & Archives" },
     coords: [27.5091, -29.6272],
@@ -227,6 +234,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-morija-church-landmarks-v2",
+    parent: "LS",
     type: "church",
     name: { de: "Historische Kirche von Morija", hu: "Morijai történelmi templom", ro: "Biserica istorică din Morija", en: "Morija Historic Church" },
     coords: [27.5075, -29.6265],
@@ -259,6 +267,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-morija-printing-works-landmarks-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Morija Printing Works", hu: "Morija Nyomda", ro: "Tipografia Morija", en: "Morija Printing Works" },
     coords: [27.5085, -29.6258],
@@ -291,6 +300,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-national-university-lesotho-landmarks-v2",
+    parent: "LS",
     type: "university",
     name: { de: "National University of Lesotho (NUL)", hu: "Lesotho Nemzeti Egyetem", ro: "Universitatea Națională din Lesotho", en: "National University of Lesotho" },
     coords: [27.7225, -29.4505],
@@ -323,6 +333,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-st-michaels-mission-landmarks-v2",
+    parent: "LS",
     type: "church",
     name: { de: "St. Michael's Mission", hu: "Szent Mihály-misszió", ro: "Misiunea Sfântul Mihail", en: "St. Michael's Mission" },
     coords: [27.7055, -29.4415],
@@ -355,6 +366,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-major-bells-tower-landmarks-v2",
+    parent: "LS",
     type: "tower",
     name: { de: "Major Bell's Tower", hu: "Bell őrnagy tornya", ro: "Turnul Maiorului Bell", en: "Major Bell's Tower" },
     coords: [28.2325, -28.8715],
@@ -387,6 +399,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-liphofung-cave-monument-landmarks-v2",
+    parent: "LS",
     type: "ruins",
     name: { de: "Liphofung Höhlendenkmal", hu: "Liphofung barlangi emlékmű", ro: "Monumentul Peștera Liphofung", en: "Liphofung Cave Monument" },
     coords: [28.5028, -28.7525],
@@ -419,6 +432,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-masitise-cave-house-landmarks-v2",
+    parent: "LS",
     type: "museum",
     name: { de: "Masitise Höhlenhaus", hu: "Masitise-barlangház", ro: "Casa din Peșteră Masitise", en: "Masitise Cave House" },
     coords: [27.6585, -30.4125],
@@ -451,6 +465,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-ellenberger-cave-landmarks-v2",
+    parent: "LS",
     type: "monument",
     name: { de: "Ellenberger-Höhle", hu: "Ellenberger-barlang", ro: "Peștera Ellenberger", en: "Ellenberger's Cave" },
     coords: [27.6592, -30.4132],
@@ -483,6 +498,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-holy-cross-mission-landmarks-v2",
+    parent: "LS",
     type: "church",
     name: { de: "Holy Cross Mission", hu: "Szent Kereszt-misszió", ro: "Misiunea Sfânta Cruce", en: "Holy Cross Mission" },
     coords: [27.6255, -30.1555],
@@ -515,6 +531,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-mount-moorosi-fortress-landmarks-v2",
+    parent: "LS",
     type: "ruins",
     name: { de: "Mount Moorosi Festung", hu: "Mount Moorosi erőd", ro: "Cetatea Mount Moorosi", en: "Mount Moorosi Fortress" },
     coords: [27.8785, -30.2225],
@@ -547,6 +564,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-sebapala-bridge-landmarks-v2",
+    parent: "LS",
     type: "bridge",
     name: { de: "Sebapala-Brücke", hu: "Sebapala-híd", ro: "Podul Sebapala", en: "Sebapala Bridge" },
     coords: [27.8525, -30.3155],
@@ -579,6 +597,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-maphutseng-footprints-landmarks-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Dinosaurier-Fußabdrücke von Maphutseng", hu: "Maphutsengi dinoszaurusz lábnyomok", ro: "Urme de dinozaur din Maphutseng", en: "Maphutseng Dinosaur Footprints" },
     coords: [27.4225, -30.1855],
@@ -611,6 +630,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-qalo-mission-landmarks-v2",
+    parent: "LS",
     type: "church",
     name: { de: "Qalo Mission", hu: "Qalo-misszió", ro: "Misiunea Qalo", en: "Qalo Mission" },
     coords: [28.3755, -28.6955],
@@ -643,6 +663,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-pitseng-catholic-mission-landmarks-v2",
+    parent: "LS",
     type: "church",
     name: { de: "Pitseng Katholische Mission", hu: "Pitsengi katolikus misszió", ro: "Misiunea Catolică Pitseng", en: "Pitseng Catholic Mission" },
     coords: [28.1755, -29.0255],
@@ -675,6 +696,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-ha-khotso-rock-paintings-landmarks-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Ha Khotso Felsmalereien", hu: "Ha Khotso sziklarajzok", ro: "Picturile rupestre Ha Khotso", en: "Ha Khotso Rock Paintings" },
     coords: [27.7855, -29.3555],
@@ -707,6 +729,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-mantsonyane-bridge-landmarks-v2",
+    parent: "LS",
     type: "bridge",
     name: { de: "Mantsonyane-Brücke", hu: "Mantsonyane-híd", ro: "Podul Mantsonyane", en: "Mantsonyane Bridge" },
     coords: [28.2655, -29.5355],
@@ -739,6 +762,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-st-jude-mission-landmarks-v2",
+    parent: "LS",
     type: "church",
     name: { de: "St. Jude Mission", hu: "Szent Júdás-misszió", ro: "Misiunea Sfântul Iuda", en: "St. Jude Mission" },
     coords: [27.5255, -29.3525],
@@ -771,6 +795,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-semonkong-catholic-mission-landmarks-v2",
+    parent: "LS",
     type: "church",
     name: { de: "Semonkong Katholische Mission", hu: "Semonkongi katolikus misszió", ro: "Misiunea Catolică Semonkong", en: "Semonkong Catholic Mission" },
     coords: [28.0555, -29.8355],
@@ -803,6 +828,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-mazenod-catholic-center-landmarks-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Mazenod Catholic Center", hu: "Mazenod Katolikus Központ", ro: "Centrul Catolic Mazenod", en: "Mazenod Catholic Center" },
     coords: [27.5655, -29.4125],
@@ -835,6 +861,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-lesotho-sun-architecture-landmarks-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Avani Lesotho Hotel (Architektur)", hu: "Avani Lesotho Hotel (építészet)", ro: "Hotel Avani Lesotho (arhitectură)", en: "Avani Lesotho Hotel (Architecture)" },
     coords: [27.4955, -29.3185],
@@ -867,6 +894,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-central-bank-building-landmarks-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Gebäude der Zentralbank von Lesotho", hu: "Lesotho Központi Bank épülete", ro: "Clădirea Băncii Centrale din Lesotho", en: "Central Bank of Lesotho Building" },
     coords: [27.4815, -29.3115],
@@ -899,6 +927,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-maseru-post-office-landmarks-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Hauptpostamt Maseru", hu: "Maseru központi posta", ro: "Oficiul Poștal Central Maseru", en: "Maseru Central Post Office" },
     coords: [27.4855, -29.3142],
@@ -931,6 +960,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-queen-elizabeth-ii-hospital-landmarks-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Queen Elizabeth II Hospital (Historisches Gebäude)", hu: "II. Erzsébet királynő kórház (történelmi épület)", ro: "Spitalul Regina Elisabeta a II-a (clădire istorică)", en: "Queen Elizabeth II Hospital (Historic Building)" },
     coords: [27.4895, -29.3165],
@@ -963,6 +993,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-lerotholi-polytechnic-landmarks-v2",
+    parent: "LS",
     type: "university",
     name: { de: "Lerotholi Polytechnic", hu: "Lerotholi Műszaki Főiskola", ro: "Politehnica Lerotholi", en: "Lerotholi Polytechnic" },
     coords: [27.4765, -29.3175],
@@ -995,6 +1026,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-st-james-anglican-mission-landmarks-v2",
+    parent: "LS",
     type: "church",
     name: { de: "St. James Anglican Mission", hu: "Szent Jakab anglikán misszió", ro: "Misiunea Anglicană Sfântul Iacob", en: "St. James Anglican Mission" },
     coords: [27.4785, -29.3105],
@@ -1027,6 +1059,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-christ-the-king-high-school-landmarks-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Christ the King High School (Roma)", hu: "Krisztus Király Középiskola (Roma)", ro: "Liceul Cristos Rege (Roma)", en: "Christ the King High School (Roma)" },
     coords: [27.7185, -29.4485],
@@ -1059,6 +1092,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-lesotho-high-school-landmarks-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Lesotho High School", hu: "Lesotho Középiskola", ro: "Liceul Lesotho", en: "Lesotho High School" },
     coords: [27.4885, -29.3195],
@@ -1091,6 +1125,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-maseru-war-cemetery-landmarks-v2",
+    parent: "LS",
     type: "monument",
     name: { de: "Kriegsgräberstätte Maseru", hu: "Maserui katonai temető", ro: "Cimitirul de Război din Maseru", en: "Maseru War Cemetery" },
     coords: [27.4855, -29.3215],
@@ -1123,6 +1158,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-sani-pass-border-post-landmarks-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Sani Pass Grenzübergang", hu: "Sani-hágó határátkelő", ro: "Punctul de Frontieră Pasul Sani", en: "Sani Pass Border Post" },
     coords: [29.2865, -29.5845],
@@ -1155,6 +1191,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-ame-church-maseru-landmarks-v2",
+    parent: "LS",
     type: "church",
     name: { de: "AME Kirche Maseru", hu: "AME templom Maseru", ro: "Biserica AME Maseru", en: "AME Church Maseru" },
     coords: [27.4825, -29.3155],
@@ -1187,6 +1224,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-college-education-building-landmarks-v2",
+    parent: "LS",
     type: "university",
     name: { de: "Lesotho College of Education", hu: "Lesotho Oktatási Főiskola", ro: "Colegiul de Educație din Lesotho", en: "Lesotho College of Education" },
     coords: [27.4825, -29.3245],
@@ -1219,6 +1257,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-moshoeshoe-statue-maseru-landmarks-v2",
+    parent: "LS",
     type: "monument",
     name: { de: "Moshoeshoe I. Statue", hu: "I. Moshoeshoe szobra", ro: "Statuia lui Moshoeshoe I", en: "King Moshoeshoe I Statue" },
     coords: [27.4845, -29.3135],
@@ -1251,6 +1290,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-paray-mission-thaba-tseka-landmarks-v2",
+    parent: "LS",
     type: "church",
     name: { de: "Paray Mission", hu: "Paray-misszió", ro: "Misiunea Paray", en: "Paray Mission" },
     coords: [28.6085, -29.5225],
@@ -1283,6 +1323,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-villa-maria-mission-landmarks-v2",
+    parent: "LS",
     type: "church",
     name: { de: "Villa Maria Mission", hu: "Villa Maria misszió", ro: "Misiunea Villa Maria", en: "Villa Maria Mission" },
     coords: [27.2555, -29.9855],
@@ -1315,6 +1356,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-bethesda-mission-landmarks-v2",
+    parent: "LS",
     type: "church",
     name: { de: "Bethesda Mission", hu: "Bethesda-misszió", ro: "Misiunea Bethesda", en: "Bethesda Mission" },
     coords: [27.2855, -29.9555],
@@ -1347,6 +1389,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-st-paul-mission-butha-buthe-landmarks-v2",
+    parent: "LS",
     type: "church",
     name: { de: "St. Paul Mission", hu: "Szent Pál-misszió", ro: "Misiunea Sfântul Paul", en: "St. Paul Mission" },
     coords: [28.2455, -28.7655],
@@ -1379,6 +1422,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-st-theresa-mission-landmarks-v2",
+    parent: "LS",
     type: "church",
     name: { de: "St. Theresa Mission", hu: "Szent Teréz-misszió", ro: "Misiunea Sfânta Tereza", en: "St. Theresa Mission" },
     coords: [28.4555, -29.0855],
@@ -1411,6 +1455,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-butha-buthe-plateau-monument-landmarks-v2",
+    parent: "LS",
     type: "ruins",
     name: { de: "Butha-Buthe Plateau (Kulturerbe)", hu: "Butha-Buthe-fennsík (örökség)", ro: "Podișul Butha-Buthe (patrimoniu)", en: "Butha-Buthe Plateau (Heritage)" },
     coords: [28.2485, -28.7665],
@@ -1443,6 +1488,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-st-joseph-cathedral-landmarks-v2",
+    parent: "LS",
     type: "cathedral",
     name: { de: "St. Joseph's Kathedrale", hu: "Szent József-székesegyház", ro: "Catedrala Sfântul Iosif", en: "St. Joseph's Cathedral" },
     coords: [28.2355, -28.8755],
@@ -1475,6 +1521,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-mafeteng-court-house-landmarks-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Gerichtsgebäude von Mafeteng", hu: "Mafetengi bíróság épülete", ro: "Tribunalul din Mafeteng", en: "Mafeteng Court House" },
     coords: [27.2425, -29.8225],
@@ -1507,6 +1554,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-maseru-club-architecture-landmarks-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Maseru Club (Historisches Gebäude)", hu: "Maseru Club (történelmi épület)", ro: "Maseru Club (clădire istorică)", en: "Maseru Club (Historic Building)" },
     coords: [27.4885, -29.3145],
@@ -1539,6 +1587,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-st-stephen-anglican-mohale-landmarks-v2",
+    parent: "LS",
     type: "church",
     name: { de: "St. Stephen's Anglican Church", hu: "Szent István anglikán templom", ro: "Biserica Anglicană Sfântul Ștefan", en: "St. Stephen's Anglican Church" },
     coords: [27.4785, -30.1515],
@@ -1571,6 +1620,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-te-bridge-quthing-landmarks-v2",
+    parent: "LS",
     type: "bridge",
     name: { de: "Telle-Brücke (Grenze)", hu: "Telle-híd (határ)", ro: "Podul Telle (frontieră)", en: "Telle Bridge (Border)" },
     coords: [27.5685, -30.4325],
@@ -1603,6 +1653,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-st-lukes-mission-landmarks-v2",
+    parent: "LS",
     type: "church",
     name: { de: "St. Luke's Mission", hu: "Szent Lukács-misszió", ro: "Misiunea Sfântul Luca", en: "St. Luke's Mission" },
     coords: [27.5555, -29.9255],
@@ -1635,6 +1686,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-holy-trinity-mission-landmarks-v2",
+    parent: "LS",
     type: "church",
     name: { de: "Holy Trinity Mission", hu: "Szentháromság-misszió", ro: "Misiunea Sfânta Treime", en: "Holy Trinity Mission" },
     coords: [28.1855, -29.2855],
@@ -1667,6 +1719,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-st-patricks-mission-landmarks-v2",
+    parent: "LS",
     type: "church",
     name: { de: "St. Patrick's Mission", hu: "Szent Patrik-misszió", ro: "Misiunea Sfântul Patriciu", en: "St. Patrick's Mission" },
     coords: [27.3555, -29.7555],
@@ -1699,6 +1752,7 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-st-peters-mission-landmarks-v2",
+    parent: "LS",
     type: "church",
     name: { de: "St. Peter's Mission", hu: "Szent Péter-misszió", ro: "Misiunea Sfântul Petru", en: "St. Peter's Mission" },
     coords: [28.4255, -29.3555],

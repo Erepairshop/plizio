@@ -3,6 +3,7 @@ export const mauritiusNatureV2: POI[] = [
 
   {
     id: "mauritius-tamarind-falls-nature-v2",
+    parent: "MU",
     type: "landmark",
     name: { de: "Tamarind-Wasserfälle", hu: "Tamarind-vízesés", ro: "Cascada Tamarind", en: "Tamarind Falls" },
     coords: [57.4725, -20.3516],
@@ -35,6 +36,7 @@ export const mauritiusNatureV2: POI[] = [
   },
   {
     id: "mauritius-ile-aux-cerfs-nature-v2",
+    parent: "MU",
     type: "wildlife",
     name: { de: "Ile aux Cerfs", hu: "Szarvasok szigete", ro: "Insula Ile aux Cerfs", en: "Ile aux Cerfs" },
     coords: [57.8039, -20.2703],
@@ -67,6 +69,7 @@ export const mauritiusNatureV2: POI[] = [
   },
   {
     id: "mauritius-gris-gris-cliffs-nature-v2",
+    parent: "MU",
     type: "landmark",
     name: { de: "Gris Gris Klippen", hu: "Gris Gris sziklák", ro: "Stâncile Gris Gris", en: "Gris Gris Cliffs" },
     coords: [57.5311, -20.5255],
@@ -99,6 +102,7 @@ export const mauritiusNatureV2: POI[] = [
   },
   {
     id: "mauritius-mare-aux-vacoas-nature-v2",
+    parent: "MU",
     type: "lake",
     name: { de: "Mare aux Vacoas", hu: "Mare aux Vacoas", ro: "Mare aux Vacoas", en: "Mare aux Vacoas" },
     coords: [57.495, -20.3583],
@@ -131,6 +135,7 @@ export const mauritiusNatureV2: POI[] = [
   },
   {
     id: "mauritius-alexandra-falls-nature-v2",
+    parent: "MU",
     type: "landmark",
     name: { de: "Alexandra-Wasserfälle", hu: "Alexandra-vízesés", ro: "Cascada Alexandra", en: "Alexandra Falls" },
     coords: [57.4728, -20.4367],
@@ -163,6 +168,7 @@ export const mauritiusNatureV2: POI[] = [
   },
   {
     id: "mauritius-maconde-rock-nature-v2",
+    parent: "MU",
     type: "landmark",
     name: { de: "Macondé-Felsen", hu: "Macondé-szikla", ro: "Stânca Macondé", en: "Macondé Rock" },
     coords: [57.3708, -20.4856],
@@ -195,6 +201,7 @@ export const mauritiusNatureV2: POI[] = [
   },
   {
     id: "mauritius-grand-river-south-east-nature-v2",
+    parent: "MU",
     type: "river",
     name: { de: "Grand River South East", hu: "Grand River South East", ro: "Grand River South East", en: "Grand River South East" },
     coords: [57.7778, -20.2861],
@@ -227,6 +234,7 @@ export const mauritiusNatureV2: POI[] = [
   },
   {
     id: "mauritius-trois-mamelles-nature-v2",
+    parent: "MU",
     type: "peak",
     name: { de: "Trois Mamelles", hu: "Trois Mamelles", ro: "Trois Mamelles", en: "Trois Mamelles" },
     coords: [57.4478, -20.2975],
@@ -259,6 +267,7 @@ export const mauritiusNatureV2: POI[] = [
   },
   {
     id: "mauritius-ile-dambre-nature-v2",
+    parent: "MU",
     type: "wildlife",
     name: { de: "Ile d'Ambre", hu: "Ile d'Ambre", ro: "Insula Ile d'Ambre", en: "Ile d'Ambre" },
     coords: [57.7011, -20.0625],
@@ -291,6 +300,7 @@ export const mauritiusNatureV2: POI[] = [
   },
   {
     id: "mauritius-round-island-nature-v2",
+    parent: "MU",
     type: "wildlife",
     name: { de: "Round Island", hu: "Kerek-sziget", ro: "Insula Rotundă", en: "Round Island" },
     coords: [57.785, -19.8522],
@@ -323,6 +333,7 @@ export const mauritiusNatureV2: POI[] = [
   },
   {
     id: "mauritius-flat-island-nature-v2",
+    parent: "MU",
     type: "landmark",
     name: { de: "Flat Island", hu: "Lapos-sziget", ro: "Insula Plată", en: "Flat Island" },
     coords: [57.6536, -19.8753],
@@ -355,6 +366,7 @@ export const mauritiusNatureV2: POI[] = [
   },
   {
     id: "mauritius-rochester-falls-nature-v2",
+    parent: "MU",
     type: "landmark",
     name: { de: "Rochester-Wasserfälle", hu: "Rochester-vízesés", ro: "Cascada Rochester", en: "Rochester Falls" },
     coords: [57.5186, -20.505],
@@ -387,6 +399,7 @@ export const mauritiusNatureV2: POI[] = [
   },
   {
     id: "mauritius-ile-aux-benitiers-nature-v2",
+    parent: "MU",
     type: "wildlife",
     name: { de: "Ile aux Bénitiers", hu: "Ile aux Bénitiers", ro: "Insula Ile aux Bénitiers", en: "Ile aux Bénitiers" },
     coords: [57.3639, -20.4139],
@@ -419,6 +432,7 @@ export const mauritiusNatureV2: POI[] = [
   },
   {
     id: "mauritius-serpent-island-nature-v2",
+    parent: "MU",
     type: "wildlife",
     name: { de: "Serpent Island", hu: "Kígyó-sziget", ro: "Insula Șerpilor", en: "Serpent Island" },
     coords: [57.795, -19.8153],
@@ -451,6 +465,7 @@ export const mauritiusNatureV2: POI[] = [
   },
   {
     id: "mauritius-tourelle-du-tamarin-nature-v2",
+    parent: "MU",
     type: "peak",
     name: { de: "Tourelle du Tamarin", hu: "Tourelle du Tamarin", ro: "Tourelle du Tamarin", en: "Tourelle du Tamarin" },
     coords: [57.3619, -20.3344],
@@ -483,6 +498,7 @@ export const mauritiusNatureV2: POI[] = [
   },
   {
     id: "mauritius-mare-longue-reservoir-nature-v2",
+    parent: "MU",
     type: "lake",
     name: { de: "Mare Longue Reservoir", hu: "Mare Longue víztározó", ro: "Rezervorul Mare Longue", en: "Mare Longue Reservoir" },
     coords: [57.466, -20.366],

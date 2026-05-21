@@ -3,6 +3,7 @@ export const kuwaitNatureV2: POI[] = [
 
   {
     id: "kuwait-bubiyan-island-nature-v2",
+    parent: "KW",
     type: "island",
     name: { de: "Bubiyan-Insel", hu: "Bubiján-sziget", ro: "Insula Bubiyan", en: "Bubiyan Island" },
     coords: [48.25, 29.8167],
@@ -35,6 +36,7 @@ export const kuwaitNatureV2: POI[] = [
   },
   {
     id: "kuwait-warbah-island-nature-v2",
+    parent: "KW",
     type: "island",
     name: { de: "Warbah-Insel", hu: "Varba-sziget", ro: "Insula Warbah", en: "Warbah Island" },
     coords: [48.0667, 29.9833],
@@ -67,6 +69,7 @@ export const kuwaitNatureV2: POI[] = [
   },
   {
     id: "kuwait-kubbar-island-nature-v2",
+    parent: "KW",
     type: "island",
     name: { de: "Kubbar-Insel", hu: "Kubbar-sziget", ro: "Insula Kubbar", en: "Kubbar Island" },
     coords: [48.4917, 29.07],
@@ -99,6 +102,7 @@ export const kuwaitNatureV2: POI[] = [
   },
   {
     id: "kuwait-qaruh-island-nature-v2",
+    parent: "KW",
     type: "island",
     name: { de: "Qaruh-Insel", hu: "Karu-sziget", ro: "Insula Qaruh", en: "Qaruh Island" },
     coords: [48.775, 28.8167],
@@ -131,6 +135,7 @@ export const kuwaitNatureV2: POI[] = [
   },
   {
     id: "kuwait-umm-al-maradim-nature-v2",
+    parent: "KW",
     type: "island",
     name: { de: "Umm al-Maradim", hu: "Umm al-Maradim", ro: "Umm al-Maradim", en: "Umm al-Maradim" },
     coords: [48.6528, 28.6792],
@@ -163,6 +168,7 @@ export const kuwaitNatureV2: POI[] = [
   },
   {
     id: "kuwait-miskan-island-nature-v2",
+    parent: "KW",
     type: "island",
     name: { de: "Miskan-Insel", hu: "Miskán-sziget", ro: "Insula Miskan", en: "Miskan Island" },
     coords: [48.2514, 29.485],
@@ -195,6 +201,7 @@ export const kuwaitNatureV2: POI[] = [
   },
   {
     id: "kuwait-auha-island-nature-v2",
+    parent: "KW",
     type: "island",
     name: { de: "Auha-Insel", hu: "Auha-sziget", ro: "Insula Auha", en: "Auha Island" },
     coords: [48.4381, 29.3769],
@@ -227,6 +234,7 @@ export const kuwaitNatureV2: POI[] = [
   },
   {
     id: "kuwait-umm-al-namil-nature-v2",
+    parent: "KW",
     type: "island",
     name: { de: "Umm al-Namil", hu: "Umm al-Namil", ro: "Umm al-Namil", en: "Umm al-Namil" },
     coords: [47.8683, 29.3814],
@@ -259,6 +267,7 @@ export const kuwaitNatureV2: POI[] = [
   },
   {
     id: "kuwait-jal-az-zor-national-park-nature-v2",
+    parent: "KW",
     type: "park",
     name: { de: "Jal az-Zor Nationalpark", hu: "Dzsal az-Zor Nemzeti Park", ro: "Parcul Național Jal az-Zor", en: "Jal az-Zor National Park" },
     coords: [47.75, 29.45],
@@ -291,6 +300,7 @@ export const kuwaitNatureV2: POI[] = [
   },
   {
     id: "kuwait-jal-az-zor-escarpment-nature-v2",
+    parent: "KW",
     type: "mountain",
     name: { de: "Jal az-Zor Abbruchkante", hu: "Dzsal az-Zor meredély", ro: "Escarpamentul Jal az-Zor", en: "Jal az-Zor Escarpment" },
     coords: [47.7, 29.43],
@@ -323,6 +333,7 @@ export const kuwaitNatureV2: POI[] = [
   },
   {
     id: "kuwait-wadi-al-batin-nature-v2",
+    parent: "KW",
     type: "valley",
     name: { de: "Wadi al-Batin", hu: "Vádi al-Batin", ro: "Wadi al-Batin", en: "Wadi al-Batin" },
     coords: [46.55, 29.1],
@@ -355,6 +366,7 @@ export const kuwaitNatureV2: POI[] = [
   },
   {
     id: "kuwait-khor-al-subiya-nature-v2",
+    parent: "KW",
     type: "river",
     name: { de: "Chaur as-Subiya", hu: "Hor asz-Szubija", ro: "Khor al-Subiya", en: "Khor al-Subiya" },
     coords: [48.1333, 29.6167],
@@ -387,6 +399,7 @@ export const kuwaitNatureV2: POI[] = [
   },
   {
     id: "kuwait-ras-al-zour-coast-nature-v2",
+    parent: "KW",
     type: "landmark",
     name: { de: "Ras al-Zour Küste", hu: "Rasz al-Zur partvidék", ro: "Coasta Ras al-Zour", en: "Ras al-Zour Coast" },
     coords: [48.38, 28.74],
@@ -419,6 +432,7 @@ export const kuwaitNatureV2: POI[] = [
   },
   {
     id: "kuwait-ras-al-ardh-nature-v2",
+    parent: "KW",
     type: "landmark",
     name: { de: "Ras al-Ardh", hu: "Rasz al-Ard", ro: "Ras al-Ardh", en: "Ras al-Ardh" },
     coords: [48.0956, 29.3514],
@@ -451,6 +465,7 @@ export const kuwaitNatureV2: POI[] = [
   },
   {
     id: "kuwait-umm-ar-rimam-nature-v2",
+    parent: "KW",
     type: "valley",
     name: { de: "Umm ar-Rimam", hu: "Umm ar-Rimám", ro: "Umm ar-Rimam", en: "Umm ar-Rimam" },
     coords: [47.75, 29.55],
@@ -483,6 +498,7 @@ export const kuwaitNatureV2: POI[] = [
   },
   {
     id: "kuwait-kabd-protected-area-nature-v2",
+    parent: "KW",
     type: "wildlife",
     name: { de: "Kabd Schutzgebiet", hu: "Kabdi természetvédelmi terület", ro: "Zona protejată Kabd", en: "Kabd Protected Area" },
     coords: [47.65, 29.15],
@@ -515,6 +531,7 @@ export const kuwaitNatureV2: POI[] = [
   },
   {
     id: "kuwait-khiran-lagoons-nature-v2",
+    parent: "KW",
     type: "lake",
     name: { de: "Khiran Lagunen", hu: "Hirán-lagúnák", ro: "Lagunele Khiran", en: "Khiran Lagoons" },
     coords: [48.35, 28.65],
@@ -547,6 +564,7 @@ export const kuwaitNatureV2: POI[] = [
   },
   {
     id: "kuwait-messila-coast-nature-v2",
+    parent: "KW",
     type: "landmark",
     name: { de: "Messila-Küste", hu: "Messzila-part", ro: "Coasta Messila", en: "Messila Coast" },
     coords: [48.08, 29.25],
@@ -579,6 +597,7 @@ export const kuwaitNatureV2: POI[] = [
   },
   {
     id: "kuwait-nuwaiseeb-coast-nature-v2",
+    parent: "KW",
     type: "landmark",
     name: { de: "Nuwaiseeb-Küste", hu: "Nuvaiszíb-part", ro: "Coasta Nuwaiseeb", en: "Nuwaiseeb Coast" },
     coords: [48.4, 28.53],
@@ -611,6 +630,7 @@ export const kuwaitNatureV2: POI[] = [
   },
   {
     id: "kuwait-subiya-mudflats-nature-v2",
+    parent: "KW",
     type: "wildlife",
     name: { de: "Subiya Wattflächen", hu: "Szubija iszapmezők", ro: "Mlaștinile Subiya", en: "Subiya Mudflats" },
     coords: [48.05, 29.58],
@@ -643,6 +663,7 @@ export const kuwaitNatureV2: POI[] = [
   },
   {
     id: "kuwait-rawdatain-desert-area-nature-v2",
+    parent: "KW",
     type: "wildlife",
     name: { de: "Rawdatain Wüstengebiet", hu: "Rawdatain sivatagi terület", ro: "Zona deșertică Rawdatain", en: "Rawdatain Desert Area" },
     coords: [47.75, 29.8],
@@ -675,6 +696,7 @@ export const kuwaitNatureV2: POI[] = [
   },
   {
     id: "kuwait-minagish-desert-dunes-nature-v2",
+    parent: "KW",
     type: "wildlife",
     name: { de: "Minagish Dünen", hu: "Minagish dűnék", ro: "Dunele Minagish", en: "Minagish Desert Dunes" },
     coords: [47.45, 29.05],
@@ -707,6 +729,7 @@ export const kuwaitNatureV2: POI[] = [
   },
   {
     id: "kuwait-burgan-sands-nature-v2",
+    parent: "KW",
     type: "wildlife",
     name: { de: "Burgan-Sände", hu: "Burgan-homokmező", ro: "Nisipurile Burgan", en: "Burgan Sands" },
     coords: [47.95, 28.9],
@@ -739,6 +762,7 @@ export const kuwaitNatureV2: POI[] = [
   },
   {
     id: "kuwait-wafra-desert-strip-nature-v2",
+    parent: "KW",
     type: "wildlife",
     name: { de: "Wafra Wüstengürtel", hu: "Wafra sivatagi sáv", ro: "Fâșia de deșert Wafra", en: "Wafra Desert Strip" },
     coords: [48.05, 28.55],
@@ -771,6 +795,7 @@ export const kuwaitNatureV2: POI[] = [
   },
   {
     id: "kuwait-abdali-desert-region-nature-v2",
+    parent: "KW",
     type: "mountain",
     name: { de: "Abdali Wüstenregion", hu: "Abdali sivatagi régió", ro: "Regiunea deșertică Abdali", en: "Abdali Desert Region" },
     coords: [47.7, 30.0],
@@ -803,6 +828,7 @@ export const kuwaitNatureV2: POI[] = [
   },
   {
     id: "kuwait-anjafa-beach-nature-v2",
+    parent: "KW",
     type: "landmark",
     name: { de: "Anjafa-Strand", hu: "Andzsafa-strand", ro: "Plaja Anjafa", en: "Anjafa Beach" },
     coords: [48.07, 29.28],
@@ -835,6 +861,7 @@ export const kuwaitNatureV2: POI[] = [
   },
   {
     id: "kuwait-ras-ajuza-nature-v2",
+    parent: "KW",
     type: "landmark",
     name: { de: "Ras Ajuzah", hu: "Rasz Adzsúza", ro: "Ras Ajuzah", en: "Ras Ajuzah" },
     coords: [48.0, 29.39],
@@ -867,6 +894,7 @@ export const kuwaitNatureV2: POI[] = [
   },
   {
     id: "kuwait-bnaider-coast-nature-v2",
+    parent: "KW",
     type: "landmark",
     name: { de: "Bnaider-Küste", hu: "Bnaider-part", ro: "Coasta Bnaider", en: "Bnaider Coast" },
     coords: [48.34, 28.71],
@@ -899,6 +927,7 @@ export const kuwaitNatureV2: POI[] = [
   },
   {
     id: "kuwait-dubayeiyah-coast-nature-v2",
+    parent: "KW",
     type: "landmark",
     name: { de: "Dubayeiyah-Küste", hu: "Dubayeiyah-part", ro: "Coasta Dubayeiyah", en: "Dubayeiyah Coast" },
     coords: [48.28, 28.85],
@@ -931,6 +960,7 @@ export const kuwaitNatureV2: POI[] = [
   },
   {
     id: "kuwait-khiran-creek-nature-area-nature-v2",
+    parent: "KW",
     type: "river",
     name: { de: "Khiran-Bach Naturgebiet", hu: "Hirán-patak természetvédelmi terület", ro: "Zona naturală Khiran Creek", en: "Khiran Creek Nature Area" },
     coords: [48.38, 28.66],

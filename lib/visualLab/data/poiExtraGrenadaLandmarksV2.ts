@@ -3,6 +3,7 @@ export const grenadaLandmarksV2: POI[] = [
 
   {
     id: "grenada-st-georges-anglican-church-landmarks-v2",
+    parent: "GD",
     type: "church",
     name: { de: "St. George's Anglican Church", hu: "Szent György anglikán templom", ro: "Biserica Anglicană St. George", en: "St. George's Anglican Church" },
     coords: [-61.7523, 12.0506],
@@ -47,6 +48,7 @@ export const grenadaLandmarksV2: POI[] = [
   },
   {
     id: "grenada-christ-of-the-deep-monument-v2",
+    parent: "GD",
     type: "monument",
     name: { de: "Christ of the Deep Statue", hu: "A mélység Krisztusa szobor", ro: "Statuia Christ of the Deep", en: "Christ of the Deep Statue" },
     coords: [-61.7516, 12.0493],
@@ -91,6 +93,7 @@ export const grenadaLandmarksV2: POI[] = [
   },
   {
     id: "grenada-st-andrews-presbyterian-church-landmarks-v2",
+    parent: "GD",
     type: "church",
     name: { de: "St. Andrew's Presbyterian Church", hu: "Szent András presbiteriánus templom", ro: "Biserica Presbiteriană St. Andrew", en: "St. Andrew's Presbyterian Church" },
     coords: [-61.7522, 12.0512],
@@ -135,6 +138,7 @@ export const grenadaLandmarksV2: POI[] = [
   },
   {
     id: "grenada-marryshow-house-landmarks-v2",
+    parent: "GD",
     type: "landmark",
     name: { de: "Marryshow House", hu: "Marryshow House", ro: "Casa Marryshow", en: "Marryshow House" },
     coords: [-61.7485, 12.0515],
@@ -179,6 +183,7 @@ export const grenadaLandmarksV2: POI[] = [
   },
   {
     id: "grenada-public-library-carenage-landmarks-v2",
+    parent: "GD",
     type: "landmark",
     name: { de: "Öffentliche Bibliothek", hu: "Nyilvános Könyvtár", ro: "Biblioteca Publică", en: "Public Library" },
     coords: [-61.7512, 12.0494],
@@ -223,6 +228,7 @@ export const grenadaLandmarksV2: POI[] = [
   },
   {
     id: "grenada-york-house-ruins-landmarks-v2",
+    parent: "GD",
     type: "ruins",
     name: { de: "York House", hu: "York House", ro: "Casa York", en: "York House" },
     coords: [-61.7534, 12.0514],
@@ -267,6 +273,7 @@ export const grenadaLandmarksV2: POI[] = [
   },
   {
     id: "grenada-market-square-st-georges-landmarks-v2",
+    parent: "GD",
     type: "landmark",
     name: { de: "Market Square St. George's", hu: "St. George's-i piactér", ro: "Piața Centrală St. George's", en: "Market Square St. George's" },
     coords: [-61.7538, 12.0519],

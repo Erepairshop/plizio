@@ -3,6 +3,7 @@ export const bangladeshEconomicV2: POI[] = [
 
   {
     id: "bangladesh-mongla-port-economic-v2",
+    parent: "BD",
     type: "port",
     name: { de: "Hafen von Mongla", hu: "Monglai kikötő", ro: "Portul Mongla", en: "Port of Mongla" },
     coords: [89.6, 22.4833],
@@ -47,6 +48,7 @@ export const bangladeshEconomicV2: POI[] = [
   },
   {
     id: "bangladesh-payra-port-economic-v2",
+    parent: "BD",
     type: "port",
     name: { de: "Seehafen Payra", hu: "Payra tengeri kikötő", ro: "Portul maritim Payra", en: "Payra Sea Port" },
     coords: [90.3, 22.0167],
@@ -91,6 +93,7 @@ export const bangladeshEconomicV2: POI[] = [
   },
   {
     id: "bangladesh-pangaon-terminal-economic-v2",
+    parent: "BD",
     type: "port",
     name: { de: "Binnencontainerterminal Pangaon", hu: "Pangaon belvízi konténerterminál", ro: "Terminalul de containere Pangaon", en: "Pangaon Inland Container Terminal" },
     coords: [90.4333, 23.65],
@@ -134,6 +137,7 @@ export const bangladeshEconomicV2: POI[] = [
   },
   {
     id: "bangladesh-adamjee-epz-economic-v2",
+    parent: "BD",
     type: "industry",
     name: { de: "Exportverarbeitungszone Adamjee", hu: "Adamjee exportfeldolgozó övezet", ro: "Zona de procesare a exporturilor Adamjee", en: "Adamjee Export Processing Zone" },
     coords: [90.5167, 23.6667],
@@ -177,6 +181,7 @@ export const bangladeshEconomicV2: POI[] = [
   },
   {
     id: "bangladesh-shilpa-nagar-economic-v2",
+    parent: "BD",
     type: "industry",
     name: { de: "Bangabandhu Sheikh Mujib Shilpa Nagar", hu: "Bangabandhu Sheikh Mujib Shilpa Nagar", ro: "Bangabandhu Sheikh Mujib Shilpa Nagar", en: "Bangabandhu Sheikh Mujib Shilpa Nagar" },
     coords: [91.5667, 22.7667],
@@ -221,6 +226,7 @@ export const bangladeshEconomicV2: POI[] = [
   },
   {
     id: "bangladesh-matarbari-port-economic-v2",
+    parent: "BD",
     type: "port",
     name: { de: "Tiefwasserhafen Matarbari", hu: "Matarbari mélyvízi kikötő", ro: "Portul de adâncime Matarbari", en: "Matarbari Deep Sea Port" },
     coords: [91.8667, 21.7167],
@@ -265,6 +271,7 @@ export const bangladeshEconomicV2: POI[] = [
   },
   {
     id: "bangladesh-rooppur-nuclear-economic-v2",
+    parent: "BD",
     type: "industry",
     name: { de: "Kernkraftwerk Rooppur", hu: "Rooppuri atomerőmű", ro: "Centrala nucleară Rooppur", en: "Rooppur Nuclear Power Plant" },
     coords: [89.05, 24.0667],
@@ -309,6 +316,7 @@ export const bangladeshEconomicV2: POI[] = [
   },
   {
     id: "bangladesh-barapukuria-coal-economic-v2",
+    parent: "BD",
     type: "mine",
     name: { de: "Kohlebergwerk Barapukuria", hu: "Barapukuria szénbánya", ro: "Mina de cărbune Barapukuria", en: "Barapukuria Coal Mine" },
     coords: [88.95, 25.55],
@@ -352,6 +360,7 @@ export const bangladeshEconomicV2: POI[] = [
   },
   {
     id: "bangladesh-madhyapara-mine-economic-v2",
+    parent: "BD",
     type: "mine",
     name: { de: "Hartgesteinbergwerk Madhyapara", hu: "Madhyapara keménykőbánya", ro: "Mina de piatră dură Madhyapara", en: "Madhyapara Hard Rock Mine" },
     coords: [89.0667, 25.5667],
@@ -396,6 +405,7 @@ export const bangladeshEconomicV2: POI[] = [
   },
   {
     id: "bangladesh-titas-gas-economic-v2",
+    parent: "BD",
     type: "industry",
     name: { de: "Gasfeld Titas", hu: "Titas gázmező", ro: "Zăcământul de gaze Titas", en: "Titas Gas Field" },
     coords: [91.1333, 23.9667],
@@ -440,6 +450,7 @@ export const bangladeshEconomicV2: POI[] = [
   },
   {
     id: "bangladesh-bibiyana-gas-economic-v2",
+    parent: "BD",
     type: "industry",
     name: { de: "Gasfeld Bibiyana", hu: "Bibiyana gázmező", ro: "Zăcământul de gaze Bibiyana", en: "Bibiyana Gas Field" },
     coords: [91.5333, 24.6333],
@@ -484,6 +495,7 @@ export const bangladeshEconomicV2: POI[] = [
   },
   {
     id: "bangladesh-ashuganj-power-economic-v2",
+    parent: "BD",
     type: "industry",
     name: { de: "Kraftwerk Ashuganj", hu: "Ashuganji erőmű", ro: "Centrala electrică Ashuganj", en: "Ashuganj Power Station" },
     coords: [91.01, 24.04],
@@ -528,6 +540,7 @@ export const bangladeshEconomicV2: POI[] = [
   },
   {
     id: "bangladesh-karwan-bazar-economic-v2",
+    parent: "BD",
     type: "landmark",
     name: { de: "Karwan-Basar", hu: "Karwan bazár", ro: "Bazarul Karwan", en: "Karwan Bazar" },
     coords: [90.39, 23.75],
@@ -572,6 +585,7 @@ export const bangladeshEconomicV2: POI[] = [
   },
   {
     id: "bangladesh-khatunganj-market-economic-v2",
+    parent: "BD",
     type: "landmark",
     name: { de: "Großhandelsmarkt Khatunganj", hu: "Khatunganj nagykereskedelmi piac", ro: "Piața angro Khatunganj", en: "Khatunganj Wholesale Market" },
     coords: [91.84, 22.34],
@@ -616,6 +630,7 @@ export const bangladeshEconomicV2: POI[] = [
   },
   {
     id: "bangladesh-ghorashal-power-economic-v2",
+    parent: "BD",
     type: "industry",
     name: { de: "Kraftwerk Ghorashal", hu: "Ghorashali erőmű", ro: "Centrala electrică Ghorashal", en: "Ghorashal Power Station" },
     coords: [90.64, 23.98],
@@ -660,6 +675,7 @@ export const bangladeshEconomicV2: POI[] = [
   },
   {
     id: "bangladesh-shahjibazar-power-economic-v2",
+    parent: "BD",
     type: "industry",
     name: { de: "Kraftwerk Shahjibazar", hu: "Shahjibazar erőmű", ro: "Centrala electrică Shahjibazar", en: "Shahjibazar Power Station" },
     coords: [91.3833, 24.2833],
@@ -704,6 +720,7 @@ export const bangladeshEconomicV2: POI[] = [
   },
   {
     id: "bangladesh-jalalabad-gas-economic-v2",
+    parent: "BD",
     type: "industry",
     name: { de: "Gasfeld Jalalabad", hu: "Jalalabad gázmező", ro: "Zăcământul de gaze Jalalabad", en: "Jalalabad Gas Field" },
     coords: [91.95, 24.9],
@@ -748,6 +765,7 @@ export const bangladeshEconomicV2: POI[] = [
   },
   {
     id: "bangladesh-haripur-power-economic-v2",
+    parent: "BD",
     type: "industry",
     name: { de: "Kraftwerk Haripur", hu: "Haripuri erőmű", ro: "Centrala electrică Haripur", en: "Haripur Power Plant" },
     coords: [90.53, 23.68],
@@ -792,6 +810,7 @@ export const bangladeshEconomicV2: POI[] = [
   },
   {
     id: "bangladesh-nasirabad-industrial-economic-v2",
+    parent: "BD",
     type: "industry",
     name: { de: "Industriegebiet Nasirabad", hu: "Nasirabad ipari negyed", ro: "Zona industrială Nasirabad", en: "Nasirabad Industrial Area" },
     coords: [91.82, 22.37],
@@ -836,6 +855,7 @@ export const bangladeshEconomicV2: POI[] = [
   },
   {
     id: "bangladesh-kalurghat-industrial-economic-v2",
+    parent: "BD",
     type: "industry",
     name: { de: "Industriegebiet Kalurghat", hu: "Kalurghat ipari negyed", ro: "Zona industrială Kalurghat", en: "Kalurghat Industrial Area" },
     coords: [91.88, 22.39],
@@ -880,6 +900,7 @@ export const bangladeshEconomicV2: POI[] = [
   },
   {
     id: "bangladesh-sagorika-industrial-economic-v2",
+    parent: "BD",
     type: "industry",
     name: { de: "Industriegebiet Sagorika", hu: "Sagorika ipari negyed", ro: "Zona industrială Sagorika", en: "Sagorika Industrial Area" },
     coords: [91.785, 22.345],
@@ -924,6 +945,7 @@ export const bangladeshEconomicV2: POI[] = [
   },
   {
     id: "bangladesh-faujdarhat-industrial-economic-v2",
+    parent: "BD",
     type: "industry",
     name: { de: "Industriegebiet Faujdarhat", hu: "Faujdarhat ipari negyed", ro: "Zona industrială Faujdarhat", en: "Faujdarhat Industrial Area" },
     coords: [91.73, 22.41],
@@ -968,6 +990,7 @@ export const bangladeshEconomicV2: POI[] = [
   },
   {
     id: "bangladesh-hemayetpur-leather-economic-v2",
+    parent: "BD",
     type: "industry",
     name: { de: "Lederindustriepark Hemayetpur", hu: "Hemayetpuri bőripari park", ro: "Parcul industrial de piele Hemayetpur", en: "Hemayetpur Leather Industrial Estate" },
     coords: [90.23, 23.79],
@@ -1012,6 +1035,7 @@ export const bangladeshEconomicV2: POI[] = [
   },
   {
     id: "bangladesh-kutubdia-wind-farm-economic-v2",
+    parent: "BD",
     type: "industry",
     name: { de: "Windpark Kutubdia", hu: "Kutubdia szélerőmű", ro: "Parcul eolian Kutubdia", en: "Kutubdia Wind Farm" },
     coords: [91.85, 21.82],
@@ -1056,6 +1080,7 @@ export const bangladeshEconomicV2: POI[] = [
   },
   {
     id: "bangladesh-moheshkhali-lng-economic-v2",
+    parent: "BD",
     type: "port",
     name: { de: "LNG-Terminal Moheshkhali", hu: "Moheshkhali LNG terminál", ro: "Terminalul GNL Moheshkhali", en: "Moheshkhali LNG Terminal" },
     coords: [91.86, 21.65],
@@ -1100,6 +1125,7 @@ export const bangladeshEconomicV2: POI[] = [
   },
   {
     id: "bangladesh-kaliakair-hitech-economic-v2",
+    parent: "BD",
     type: "industry",
     name: { de: "Bangabandhu Hi-Tech City", hu: "Bangabandhu Hi-Tech City", ro: "Bangabandhu Hi-Tech City", en: "Bangabandhu Hi-Tech City" },
     coords: [90.22, 24.01],
@@ -1144,6 +1170,7 @@ export const bangladeshEconomicV2: POI[] = [
   },
   {
     id: "bangladesh-chatak-cement-economic-v2",
+    parent: "BD",
     type: "factory",
     name: { de: "Zementfabrik Chatak", hu: "Chatak cementgyár", ro: "Fabrica de ciment Chatak", en: "Chatak Cement Factory" },
     coords: [91.67, 25.04],
@@ -1188,6 +1215,7 @@ export const bangladeshEconomicV2: POI[] = [
   },
   {
     id: "bangladesh-fenchuganj-fertilizer-economic-v2",
+    parent: "BD",
     type: "factory",
     name: { de: "Düngemittelfabrik Fenchuganj", hu: "Fenchuganji műtrágyagyár", ro: "Fabrica de îngrășăminte Fenchuganj", en: "Fenchuganj Fertilizer Factory" },
     coords: [91.93, 24.71],
@@ -1232,6 +1260,7 @@ export const bangladeshEconomicV2: POI[] = [
   },
   {
     id: "bangladesh-kafco-plant-economic-v2",
+    parent: "BD",
     type: "factory",
     name: { de: "KAFCO-Düngemittelwerk", hu: "KAFCO műtrágyagyár", ro: "Fabrica de îngrășăminte KAFCO", en: "KAFCO Fertilizer Plant" },
     coords: [91.83, 22.23],
@@ -1276,6 +1305,7 @@ export const bangladeshEconomicV2: POI[] = [
   },
   {
     id: "bangladesh-cufl-plant-economic-v2",
+    parent: "BD",
     type: "factory",
     name: { de: "CUFL-Düngemittelwerk", hu: "CUFL műtrágyagyár", ro: "Fabrica de îngrășăminte CUFL", en: "CUFL Fertilizer Plant" },
     coords: [91.84, 22.22],

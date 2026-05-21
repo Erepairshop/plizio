@@ -3,6 +3,7 @@ export const saintluciaLifeV2: POI[] = [
 
   {
     id: "saintlucia-maria-islands-nature-reserve-life-v2",
+    parent: "LC",
     type: "wildlife",
     name: { de: "Maria Islands Naturschutzgebiet", hu: "Maria-szigetek Természetvédelmi Terület", ro: "Rezervația Naturală Maria Islands", en: "Maria Islands Nature Reserve" },
     coords: [-60.931, 13.725],
@@ -35,6 +36,7 @@ export const saintluciaLifeV2: POI[] = [
   },
   {
     id: "saintlucia-diamond-falls-botanical-gardens-life-v2",
+    parent: "LC",
     type: "park",
     name: { de: "Botanischer Garten Diamond Falls", hu: "Diamond Falls Botanikus Kert", ro: "Grădina Botanică Diamond Falls", en: "Diamond Falls Botanical Gardens" },
     coords: [-61.054, 13.852],
@@ -67,6 +69,7 @@ export const saintluciaLifeV2: POI[] = [
   },
   {
     id: "saintlucia-millet-bird-sanctuary-life-v2",
+    parent: "LC",
     type: "wildlife",
     name: { de: "Millet Vogelschutzgebiet", hu: "Millet Madárrezervátum", ro: "Sanctuarul de Păsări Millet", en: "Millet Bird Sanctuary" },
     coords: [-60.975, 13.905],
@@ -99,6 +102,7 @@ export const saintluciaLifeV2: POI[] = [
   },
   {
     id: "saintlucia-mankote-mangrove-life-v2",
+    parent: "LC",
     type: "park",
     name: { de: "Mankoté Mangroven", hu: "Mankoté-mangrove", ro: "Mangrova Mankoté", en: "Mankoté Mangrove" },
     coords: [-60.923, 13.738],
@@ -131,6 +135,7 @@ export const saintluciaLifeV2: POI[] = [
   },
   {
     id: "saintlucia-frigate-island-nature-reserve-life-v2",
+    parent: "LC",
     type: "wildlife",
     name: { de: "Frigate Island Naturschutzgebiet", hu: "Fregatt-sziget Természetvédelmi Terület", ro: "Rezervația Naturală Frigate Island", en: "Frigate Island Nature Reserve" },
     coords: [-60.892, 13.878],
@@ -163,6 +168,7 @@ export const saintluciaLifeV2: POI[] = [
   },
   {
     id: "saintlucia-edmund-forest-reserve-life-v2",
+    parent: "LC",
     type: "forest",
     name: { de: "Edmund Waldreservat", hu: "Edmund Erdőrezervátum", ro: "Rezervația Forestieră Edmund", en: "Edmund Forest Reserve" },
     coords: [-60.985, 13.85],
@@ -195,6 +201,7 @@ export const saintluciaLifeV2: POI[] = [
   },
   {
     id: "saintlucia-des-cartier-trail-life-v2",
+    parent: "LC",
     type: "wildlife",
     name: { de: "Des Cartier Wanderweg", hu: "Des Cartier Tanösvény", ro: "Traseul Des Cartier", en: "Des Cartier Trail" },
     coords: [-60.945, 13.842],
@@ -227,6 +234,7 @@ export const saintluciaLifeV2: POI[] = [
   },
   {
     id: "saintlucia-savannes-bay-nature-reserve-life-v2",
+    parent: "LC",
     type: "park",
     name: { de: "Savannes Bay Naturschutzgebiet", hu: "Savannes-öböl Természetvédelmi Terület", ro: "Rezervația Naturală Savannes Bay", en: "Savannes Bay Nature Reserve" },
     coords: [-60.915, 13.753],
@@ -259,6 +267,7 @@ export const saintluciaLifeV2: POI[] = [
   },
   {
     id: "saintlucia-mamiku-gardens-life-v2",
+    parent: "LC",
     type: "park",
     name: { de: "Mamiku Gärten", hu: "Mamiku Kertek", ro: "Grădinile Mamiku", en: "Mamiku Gardens" },
     coords: [-60.902, 13.882],
@@ -291,6 +300,7 @@ export const saintluciaLifeV2: POI[] = [
   },
   {
     id: "saintlucia-union-nature-trail-life-v2",
+    parent: "LC",
     type: "wildlife",
     name: { de: "Union Naturpfad", hu: "Union Tanösvény", ro: "Traseul Union Nature", en: "Union Nature Trail" },
     coords: [-60.957, 14.02],
@@ -323,6 +333,7 @@ export const saintluciaLifeV2: POI[] = [
   },
   {
     id: "saintlucia-quilesse-forest-reserve-life-v2",
+    parent: "LC",
     type: "forest",
     name: { de: "Quilesse Waldreservat", hu: "Quilesse Erdőrezervátum", ro: "Rezervația Forestieră Quilesse", en: "Quilesse Forest Reserve" },
     coords: [-60.955, 13.835],
@@ -355,6 +366,7 @@ export const saintluciaLifeV2: POI[] = [
   },
   {
     id: "saintlucia-praslin-island-nature-reserve-life-v2",
+    parent: "LC",
     type: "wildlife",
     name: { de: "Praslin Island Naturschutzgebiet", hu: "Praslin-sziget Természetvédelmi Terület", ro: "Rezervația Naturală Praslin Island", en: "Praslin Island Nature Reserve" },
     coords: [-60.895, 13.875],
@@ -387,6 +399,7 @@ export const saintluciaLifeV2: POI[] = [
   },
   {
     id: "saintlucia-scorpion-island-life-v2",
+    parent: "LC",
     type: "wildlife",
     name: { de: "Scorpion Island", hu: "Skorpió-sziget", ro: "Insula Scorpion", en: "Scorpion Island" },
     coords: [-60.905, 13.755],
@@ -419,6 +432,7 @@ export const saintluciaLifeV2: POI[] = [
   },
   {
     id: "saintlucia-dennery-island-nature-reserve-life-v2",
+    parent: "LC",
     type: "wildlife",
     name: { de: "Dennery Island Naturschutzgebiet", hu: "Dennery-sziget Természetvédelmi Terület", ro: "Rezervația Naturală Dennery Island", en: "Dennery Island Nature Reserve" },
     coords: [-60.885, 13.91],
@@ -451,6 +465,7 @@ export const saintluciaLifeV2: POI[] = [
   },
   {
     id: "saintlucia-choc-bay-mangroves-life-v2",
+    parent: "LC",
     type: "park",
     name: { de: "Choc Bay Mangroven", hu: "Choc-öböl mangrovéi", ro: "Mangrovele din Golful Choc", en: "Choc Bay Mangroves" },
     coords: [-60.965, 14.03],
@@ -483,6 +498,7 @@ export const saintluciaLifeV2: POI[] = [
   },
   {
     id: "saintlucia-canelles-river-delta-life-v2",
+    parent: "LC",
     type: "river",
     name: { de: "Canelles Flussdelta", hu: "Canelles-folyó deltája", ro: "Delta Râului Canelles", en: "Canelles River Delta" },
     coords: [-60.935, 13.775],
@@ -515,6 +531,7 @@ export const saintluciaLifeV2: POI[] = [
   },
   {
     id: "saintlucia-fond-dor-nature-reserve-life-v2",
+    parent: "LC",
     type: "park",
     name: { de: "Fond d'Or Naturschutzgebiet", hu: "Fond d'Or Természetvédelmi Terület", ro: "Rezervația Naturală Fond d'Or", en: "Fond d'Or Nature Reserve" },
     coords: [-60.895, 13.935],
@@ -547,6 +564,7 @@ export const saintluciaLifeV2: POI[] = [
   },
   {
     id: "saintlucia-latille-waterfalls-and-gardens-life-v2",
+    parent: "LC",
     type: "park",
     name: { de: "Latille Wasserfälle und Gärten", hu: "Latille-vízesések és kertek", ro: "Cascadele și Grădinile Latille", en: "Latille Waterfalls and Gardens" },
     coords: [-60.925, 13.825],
@@ -579,6 +597,7 @@ export const saintluciaLifeV2: POI[] = [
   },
   {
     id: "saintlucia-marigot-bay-mangroves-life-v2",
+    parent: "LC",
     type: "park",
     name: { de: "Marigot Bay Mangroven", hu: "Marigot-öböl mangrovéi", ro: "Mangrovele din Golful Marigot", en: "Marigot Bay Mangroves" },
     coords: [-61.025, 13.965],
@@ -611,6 +630,7 @@ export const saintluciaLifeV2: POI[] = [
   },
   {
     id: "saintlucia-anse-chastanet-marine-national-park-life-v2",
+    parent: "LC",
     type: "wildlife",
     name: { de: "Anse Chastanet Marine Nationalpark", hu: "Anse Chastanet Tengeri Nemzeti Park", ro: "Parcul Național Marin Anse Chastanet", en: "Anse Chastanet Marine National Park" },
     coords: [-61.065, 13.865],
@@ -643,6 +663,7 @@ export const saintluciaLifeV2: POI[] = [
   },
   {
     id: "saintlucia-soufriere-marine-management-area-life-v2",
+    parent: "LC",
     type: "wildlife",
     name: { de: "Soufrière Marine Management Area", hu: "Soufrière Tengerkezelési Terület", ro: "Zona de Management Marin Soufrière", en: "Soufriere Marine Management Area" },
     coords: [-61.06, 13.855],
@@ -675,6 +696,7 @@ export const saintluciaLifeV2: POI[] = [
   },
   {
     id: "saintlucia-canaries-anse-la-raye-marine-management-area-life-v2",
+    parent: "LC",
     type: "wildlife",
     name: { de: "Canaries-Anse La Raye Marine Area", hu: "Canaries-Anse La Raye Tengeri Terület", ro: "Zona de Management Marin Canaries-Anse La Raye", en: "Canaries-Anse La Raye Marine Management Area" },
     coords: [-61.045, 13.915],
@@ -707,6 +729,7 @@ export const saintluciaLifeV2: POI[] = [
   },
   {
     id: "saintlucia-pigeon-island-nature-focus-life-v2",
+    parent: "LC",
     type: "park",
     name: { de: "Pigeon Island (Naturfokus)", hu: "Galamb-sziget (Természeti fókusz)", ro: "Insula Pigeon (Focus Natural)", en: "Pigeon Island (Nature Focus)" },
     coords: [-60.964, 14.091],
@@ -739,6 +762,7 @@ export const saintluciaLifeV2: POI[] = [
   },
   {
     id: "saintlucia-roseau-river-wetlands-life-v2",
+    parent: "LC",
     type: "river",
     name: { de: "Roseau Fluss-Feuchtgebiete", hu: "Roseau-folyó vizes élőhelyei", ro: "Zonele Umede ale Râului Roseau", en: "Roseau River Wetlands" },
     coords: [-61.025, 13.955],
@@ -771,6 +795,7 @@ export const saintluciaLifeV2: POI[] = [
   },
   {
     id: "saintlucia-troumassee-river-delta-life-v2",
+    parent: "LC",
     type: "river",
     name: { de: "Troumassee Flussdelta", hu: "Troumassee-folyó deltája", ro: "Delta Râului Troumassee", en: "Troumassee River Delta" },
     coords: [-60.895, 13.825],
@@ -803,6 +828,7 @@ export const saintluciaLifeV2: POI[] = [
   },
   {
     id: "saintlucia-cul-de-sac-river-wetlands-life-v2",
+    parent: "LC",
     type: "river",
     name: { de: "Cul de Sac Feuchtgebiete", hu: "Cul de Sac vizes élőhelyei", ro: "Zonele Umede Cul de Sac", en: "Cul de Sac River Wetlands" },
     coords: [-61.01, 13.99],
@@ -835,6 +861,7 @@ export const saintluciaLifeV2: POI[] = [
   },
   {
     id: "saintlucia-marquis-river-mangroves-life-v2",
+    parent: "LC",
     type: "park",
     name: { de: "Marquis Fluss Mangroven", hu: "Marquis-folyó mangrovéi", ro: "Mangrovele Râului Marquis", en: "Marquis River Mangroves" },
     coords: [-60.895, 14.045],
@@ -867,6 +894,7 @@ export const saintluciaLifeV2: POI[] = [
   },
   {
     id: "saintlucia-fond-st-jacques-forest-life-v2",
+    parent: "LC",
     type: "forest",
     name: { de: "Fond St. Jacques Wald", hu: "Fond St. Jacques erdő", ro: "Pădurea Fond St. Jacques", en: "Fond St. Jacques Forest" },
     coords: [-61.015, 13.845],
@@ -899,6 +927,7 @@ export const saintluciaLifeV2: POI[] = [
   },
   {
     id: "saintlucia-barre-de-lisle-forest-life-v2",
+    parent: "LC",
     type: "forest",
     name: { de: "Barre de l'Isle Wald", hu: "Barre de l'Isle erdő", ro: "Pădurea Barre de l'Isle", en: "Barre de l'Isle Forest" },
     coords: [-60.955, 13.925],
@@ -931,6 +960,7 @@ export const saintluciaLifeV2: POI[] = [
   },
   {
     id: "saintlucia-mount-gimie-forest-life-v2",
+    parent: "LC",
     type: "forest",
     name: { de: "Mount Gimie Wald", hu: "Mount Gimie erdő", ro: "Pădurea Muntelui Gimie", en: "Mount Gimie Forest" },
     coords: [-61.0, 13.86],

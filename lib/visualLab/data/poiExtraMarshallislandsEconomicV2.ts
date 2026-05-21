@@ -3,6 +3,7 @@ export const marshallislandsEconomicV2: POI[] = [
 
   {
     id: "marshallislands-port-of-majuro-economic-v2",
+    parent: "MH",
     type: "port",
     name: { de: "Hafen von Majuro", hu: "Majuroi kikötő", ro: "Portul Majuro", en: "Port of Majuro" },
     coords: [171.378, 7.108],
@@ -35,6 +36,7 @@ export const marshallislandsEconomicV2: POI[] = [
   },
   {
     id: "marshallislands-tobolar-processing-plant-economic-v2",
+    parent: "MH",
     type: "factory",
     name: { de: "Tobolar Kopra-Verarbeitungsanlage", hu: "Tobolar kopra-feldolgozó üzem", ro: "Fabrica de procesare Tobolar", en: "Tobolar Copra Processing Plant" },
     coords: [171.372, 7.112],
@@ -67,6 +69,7 @@ export const marshallislandsEconomicV2: POI[] = [
   },
   {
     id: "marshallislands-kwajalein-tech-center-economic-v2",
+    parent: "MH",
     type: "industry",
     name: { de: "Kwajalein Technologiezentrum", hu: "Kwajalein Technológiai Központ", ro: "Centrul Tehnologic Kwajalein", en: "Kwajalein Technology Center" },
     coords: [167.733, 8.718],
@@ -99,6 +102,7 @@ export const marshallislandsEconomicV2: POI[] = [
   },
   {
     id: "marshallislands-delap-business-district-economic-v2",
+    parent: "MH",
     type: "industry",
     name: { de: "Wirtschaftsviertel Delap", hu: "Delap üzleti negyed", ro: "Districtul comercial Delap", en: "Delap Business District" },
     coords: [171.38, 7.091],
@@ -131,6 +135,7 @@ export const marshallislandsEconomicV2: POI[] = [
   },
   {
     id: "marshallislands-ship-registry-hq-economic-v2",
+    parent: "MH",
     type: "landmark",
     name: { de: "Schiffsregister-Hauptquartier", hu: "Hajóregiszter központ", ro: "Sediul Registrului Naval", en: "Ship Registry Headquarters" },
     coords: [171.381, 7.086],
@@ -163,6 +168,7 @@ export const marshallislandsEconomicV2: POI[] = [
   },
   {
     id: "marshallislands-laura-agriculture-center-economic-v2",
+    parent: "MH",
     type: "landmark",
     name: { de: "Agrarzentrum Laura", hu: "Laura mezőgazdasági központ", ro: "Centrul agricol Laura", en: "Laura Agriculture Center" },
     coords: [171.045, 7.135],
@@ -195,6 +201,7 @@ export const marshallislandsEconomicV2: POI[] = [
   },
   {
     id: "marshallislands-wotje-trade-post-economic-v2",
+    parent: "MH",
     type: "port",
     name: { de: "Handelsposten Wotje", hu: "Wotje kereskedelmi állomás", ro: "Postul comercial Wotje", en: "Wotje Trade Post" },
     coords: [170.237, 9.458],
@@ -227,6 +234,7 @@ export const marshallislandsEconomicV2: POI[] = [
   },
   {
     id: "marshallislands-ebeye-economic-hub-economic-v2",
+    parent: "MH",
     type: "town",
     name: { de: "Wirtschaftszentrum Ebeye", hu: "Ebeye gazdasági csomópont", ro: "Centrul economic Ebeye", en: "Ebeye Economic Hub" },
     coords: [167.736, 8.778],
@@ -259,6 +267,7 @@ export const marshallislandsEconomicV2: POI[] = [
   },
   {
     id: "marshallislands-majuro-fishing-port-economic-v2",
+    parent: "MH",
     type: "port",
     name: { de: "Fischereihafen Majuro", hu: "Majuroi halászkikötő", ro: "Portul de pescuit Majuro", en: "Majuro Fishing Port" },
     coords: [171.371, 7.114],
@@ -291,6 +300,7 @@ export const marshallislandsEconomicV2: POI[] = [
   },
   {
     id: "marshallislands-majuro-central-market-economic-v2",
+    parent: "MH",
     type: "landmark",
     name: { de: "Zentralmarkt von Majuro", hu: "Majuroi központi piac", ro: "Piața Centrală din Majuro", en: "Majuro Central Market" },
     coords: [171.382, 7.09],

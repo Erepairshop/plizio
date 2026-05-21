@@ -3,6 +3,7 @@ export const marshallislandsHistoryV2: POI[] = [
 
   {
     id: "marshallislands-bikini-atoll-history-v2",
+    parent: "MH",
     type: "landmark",
     name: { de: "Bikini-Atoll", hu: "Bikini-atoll", ro: "Atolul Bikini", en: "Bikini Atoll" },
     coords: [165.381, 11.601],
@@ -35,6 +36,7 @@ export const marshallislandsHistoryV2: POI[] = [
   },
   {
     id: "marshallislands-kwajalein-battlefield-history-v2",
+    parent: "MH",
     type: "battlefield",
     name: { de: "Kwajalein-Schlachtfeld", hu: "Kwajalein csatatér", ro: "Câmpul de luptă Kwajalein", en: "Kwajalein Battlefield" },
     coords: [167.733, 8.711],
@@ -67,6 +69,7 @@ export const marshallislandsHistoryV2: POI[] = [
   },
   {
     id: "marshallislands-jaluit-jabor-history-v2",
+    parent: "MH",
     type: "landmark",
     name: { de: "Jabor (Jaluit-Atoll)", hu: "Jabor (Jaluit-atoll)", ro: "Jabor (Atolul Jaluit)", en: "Jabor (Jaluit Atoll)" },
     coords: [169.643, 5.914],
@@ -99,6 +102,7 @@ export const marshallislandsHistoryV2: POI[] = [
   },
   {
     id: "marshallislands-enewetak-atoll-history-v2",
+    parent: "MH",
     type: "landmark",
     name: { de: "Enewetak-Atoll", hu: "Enewetak-atoll", ro: "Atolul Enewetak", en: "Enewetak Atoll" },
     coords: [162.333, 11.352],
@@ -131,6 +135,7 @@ export const marshallislandsHistoryV2: POI[] = [
   },
   {
     id: "marshallislands-wotje-japanese-base-history-v2",
+    parent: "MH",
     type: "ruins",
     name: { de: "Japanische Basis Wotje", hu: "Wotje japán bázis", ro: "Baza japoneză Wotje", en: "Wotje Japanese Base" },
     coords: [170.231, 9.452],
@@ -163,6 +168,7 @@ export const marshallislandsHistoryV2: POI[] = [
   },
   {
     id: "marshallislands-maloelap-taroa-airfield-history-v2",
+    parent: "MH",
     type: "ruins",
     name: { de: "Taroa-Flugplatz (Maloelap)", hu: "Taroa repülőtér (Maloelap)", ro: "Aerodromul Taroa (Maloelap)", en: "Taroa Airfield (Maloelap)" },
     coords: [171.221, 8.712],
@@ -195,6 +201,7 @@ export const marshallislandsHistoryV2: POI[] = [
   },
   {
     id: "marshallislands-mili-atoll-garrison-history-v2",
+    parent: "MH",
     type: "ruins",
     name: { de: "Garnison Mili-Atoll", hu: "Mili-atoll helyőrség", ro: "Garnizoana Atolului Mili", en: "Mili Atoll Garrison" },
     coords: [171.733, 6.141],
@@ -227,6 +234,7 @@ export const marshallislandsHistoryV2: POI[] = [
   },
   {
     id: "marshallislands-debrum-house-history-v2",
+    parent: "MH",
     type: "landmark",
     name: { de: "DeBrum-Haus (Likiep)", hu: "DeBrum-ház (Likiep)", ro: "Casa DeBrum (Likiep)", en: "DeBrum House (Likiep)" },
     coords: [169.155, 9.824],
@@ -259,6 +267,7 @@ export const marshallislandsHistoryV2: POI[] = [
   },
   {
     id: "marshallislands-bravo-crater-history-v2",
+    parent: "MH",
     type: "landmark",
     name: { de: "Bravo-Krater", hu: "Bravo-kráter", ro: "Craterul Bravo", en: "Bravo Crater" },
     coords: [165.271, 11.691],
@@ -291,6 +300,7 @@ export const marshallislandsHistoryV2: POI[] = [
   },
   {
     id: "marshallislands-meck-island-missile-site-history-v2",
+    parent: "MH",
     type: "landmark",
     name: { de: "Raketenstation Meck Island", hu: "Meck-szigeti rakétaállomás", ro: "Stația de rachete Meck Island", en: "Meck Island Missile Site" },
     coords: [167.722, 9.001],
@@ -323,6 +333,7 @@ export const marshallislandsHistoryV2: POI[] = [
   },
   {
     id: "marshallislands-ebey-island-battery-history-v2",
+    parent: "MH",
     type: "landmark",
     name: { de: "Batterie Ebey Island", hu: "Ebey-szigeti üteg", ro: "Bateria de pe insula Ebey", en: "Ebey Island Battery" },
     coords: [167.731, 8.751],
@@ -355,6 +366,7 @@ export const marshallislandsHistoryV2: POI[] = [
   },
   {
     id: "marshallislands-majuro-wwii-memorial-history-v2",
+    parent: "MH",
     type: "monument",
     name: { de: "Majuro-Weltkriegsdenkmal", hu: "Majuroi világháborús emlékmű", ro: "Monumentul Războiului din Majuro", en: "Majuro WWII Memorial" },
     coords: [171.362, 7.121],
@@ -387,6 +399,7 @@ export const marshallislandsHistoryV2: POI[] = [
   },
   {
     id: "marshallislands-runit-dome-history-v2",
+    parent: "MH",
     type: "landmark",
     name: { de: "Runit-Dom", hu: "Runit-dóm", ro: "Cupola Runit", en: "Runit Dome" },
     coords: [162.352, 11.551],
@@ -419,6 +432,7 @@ export const marshallislandsHistoryV2: POI[] = [
   },
   {
     id: "marshallislands-utirik-atoll-fallout-history-v2",
+    parent: "MH",
     type: "landmark",
     name: { de: "Utirik-Atoll (Fallout-Stätte)", hu: "Utirik-atoll (Kihullási helyszín)", ro: "Atolul Utirik (Locul căderilor radioactive)", en: "Utirik Atoll (Fallout Site)" },
     coords: [169.852, 11.231],
@@ -451,6 +465,7 @@ export const marshallislandsHistoryV2: POI[] = [
   },
   {
     id: "marshallislands-roi-namur-ruins-history-v2",
+    parent: "MH",
     type: "ruins",
     name: { de: "Roi-Namur Ruinen", hu: "Roi-Namur romok", ro: "Ruinele Roi-Namur", en: "Roi-Namur Ruins" },
     coords: [167.471, 9.382],

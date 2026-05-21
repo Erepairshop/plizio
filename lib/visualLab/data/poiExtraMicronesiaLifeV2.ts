@@ -3,6 +3,7 @@ export const micronesiaLifeV2: POI[] = [
 
   {
     id: "micronesia-ant-atoll-life-v2",
+    parent: "FM",
     type: "wildlife",
     name: { de: "Ant-Atoll", hu: "Ant-atoll", ro: "Atolul Ant", en: "Ant Atoll" },
     coords: [157.933, 6.783],
@@ -35,6 +36,7 @@ export const micronesiaLifeV2: POI[] = [
   },
   {
     id: "micronesia-yela-ka-forest-life-v2",
+    parent: "FM",
     type: "forest",
     name: { de: "Yela-Ka-Wald", hu: "Yela Ka-erdő", ro: "Pădurea Yela Ka", en: "Yela Ka Forest" },
     coords: [162.916, 5.333],
@@ -67,6 +69,7 @@ export const micronesiaLifeV2: POI[] = [
   },
   {
     id: "micronesia-mount-finkol-life-v2",
+    parent: "FM",
     type: "peak",
     name: { de: "Mount Finkol", hu: "Finkol-hegy", ro: "Muntele Finkol", en: "Mount Finkol" },
     coords: [162.981, 5.312],
@@ -99,6 +102,7 @@ export const micronesiaLifeV2: POI[] = [
   },
   {
     id: "micronesia-chuuk-lagoon-reefs-life-v2",
+    parent: "FM",
     type: "wildlife",
     name: { de: "Chuuk-Lagunen-Riffe", hu: "Chuuk-lagúna korallzátonyai", ro: "Recifele din Laguna Chuuk", en: "Chuuk Lagoon Reefs" },
     coords: [151.78, 7.42],
@@ -131,6 +135,7 @@ export const micronesiaLifeV2: POI[] = [
   },
   {
     id: "micronesia-pohnpei-mangroves-life-v2",
+    parent: "FM",
     type: "forest",
     name: { de: "Pohnpei-Mangroven", hu: "Pohnpei mangroveerdők", ro: "Mangrovele din Pohnpei", en: "Pohnpei Mangroves" },
     coords: [158.21, 6.94],
@@ -163,6 +168,7 @@ export const micronesiaLifeV2: POI[] = [
   },
   {
     id: "micronesia-yap-manta-sanctuary-life-v2",
+    parent: "FM",
     type: "wildlife",
     name: { de: "Yap-Manta-Schutzgebiet", hu: "Yap manta-rezervátum", ro: "Sanctuarul de Mante din Yap", en: "Yap Manta Sanctuary" },
     coords: [138.12, 9.53],
@@ -195,6 +201,7 @@ export const micronesiaLifeV2: POI[] = [
   },
   {
     id: "micronesia-mount-nahna-laud-life-v2",
+    parent: "FM",
     type: "peak",
     name: { de: "Mount Nahna Laud", hu: "Nahna Laud-hegy", ro: "Muntele Nahna Laud", en: "Mount Nahna Laud" },
     coords: [158.232, 6.845],
@@ -227,6 +234,7 @@ export const micronesiaLifeV2: POI[] = [
   },
   {
     id: "micronesia-kosrae-mangrove-reserve-life-v2",
+    parent: "FM",
     type: "forest",
     name: { de: "Kosrae-Mangrovenreservat", hu: "Kosrae mangrove-rezervátum", ro: "Rezervația de Mangrove Kosrae", en: "Kosrae Mangrove Reserve" },
     coords: [162.96, 5.36],
@@ -259,6 +267,7 @@ export const micronesiaLifeV2: POI[] = [
   },
   {
     id: "micronesia-oroluk-atoll-life-v2",
+    parent: "FM",
     type: "wildlife",
     name: { de: "Oroluk-Atoll", hu: "Oroluk-atoll", ro: "Atolul Oroluk", en: "Oroluk Atoll" },
     coords: [155.16, 7.63],
@@ -291,6 +300,7 @@ export const micronesiaLifeV2: POI[] = [
   },
   {
     id: "micronesia-kapingamarangi-marine-life-v2",
+    parent: "FM",
     type: "wildlife",
     name: { de: "Kapingamarangi-Meeresleben", hu: "Kapingamarangi tengeri élővilág", ro: "Viața marină din Kapingamarangi", en: "Kapingamarangi Marine Life" },
     coords: [154.8, 1.07],
@@ -323,6 +333,7 @@ export const micronesiaLifeV2: POI[] = [
   },
   {
     id: "micronesia-pakin-atoll-life-v2",
+    parent: "FM",
     type: "wildlife",
     name: { de: "Pakin-Atoll", hu: "Pakin-atoll", ro: "Atolul Pakin", en: "Pakin Atoll" },
     coords: [157.8, 7.07],
@@ -355,6 +366,7 @@ export const micronesiaLifeV2: POI[] = [
   },
   {
     id: "micronesia-nanpil-river-life-v2",
+    parent: "FM",
     type: "river",
     name: { de: "Nanpil-Flussbecken", hu: "Nanpil-folyó völgye", ro: "Bazinul Râului Nanpil", en: "Nanpil River Basin" },
     coords: [158.21, 6.92],
@@ -387,6 +399,7 @@ export const micronesiaLifeV2: POI[] = [
   },
   {
     id: "micronesia-ulithi-atoll-life-v2",
+    parent: "FM",
     type: "wildlife",
     name: { de: "Ulithi-Atoll", hu: "Ulithi-atoll", ro: "Atolul Ulithi", en: "Ulithi Atoll" },
     coords: [139.61, 9.92],
@@ -419,6 +432,7 @@ export const micronesiaLifeV2: POI[] = [
   },
   {
     id: "micronesia-utwe-walung-park-life-v2",
+    parent: "FM",
     type: "wildlife",
     name: { de: "Utwe-Walung-Meerespark", hu: "Utwe-Walung Tengeri Park", ro: "Parcul Marin Utwe-Walung", en: "Utwe-Walung Marine Park" },
     coords: [162.94, 5.28],
@@ -451,6 +465,7 @@ export const micronesiaLifeV2: POI[] = [
   },
   {
     id: "micronesia-nukuoro-atoll-life-v2",
+    parent: "FM",
     type: "wildlife",
     name: { de: "Nukuoro-Atoll", hu: "Nukuoro-atoll", ro: "Atolul Nukuoro", en: "Nukuoro Atoll" },
     coords: [154.98, 3.84],

@@ -3,6 +3,7 @@ export const malawiEconomicV2: POI[] = [
 
   {
     id: "malawi-kayelekera-mine-economic-v2",
+    parent: "MW",
     type: "mine",
     name: { de: "Kayelekera-Uranmine", hu: "Kayelekera uránbánya", ro: "Mina de uraniu Kayelekera", en: "Kayelekera Uranium Mine" },
     coords: [33.68, -9.98],
@@ -35,6 +36,7 @@ export const malawiEconomicV2: POI[] = [
   },
   {
     id: "malawi-mchenga-coal-mine-economic-v2",
+    parent: "MW",
     type: "mine",
     name: { de: "Mchenga-Kohlebergwerk", hu: "Mchenga szénbánya", ro: "Mina de cărbune Mchenga", en: "Mchenga Coal Mine" },
     coords: [34.15, -10.65],
@@ -67,6 +69,7 @@ export const malawiEconomicV2: POI[] = [
   },
   {
     id: "malawi-nchalo-sugar-estate-economic-v2",
+    parent: "MW",
     type: "industry",
     name: { de: "Zuckerplantage Nchalo", hu: "Nchalo cukornádültetvény", ro: "Plantația de zahăr Nchalo", en: "Nchalo Sugar Estate" },
     coords: [34.9, -16.26],
@@ -99,6 +102,7 @@ export const malawiEconomicV2: POI[] = [
   },
   {
     id: "malawi-dwangwa-sugar-estate-economic-v2",
+    parent: "MW",
     type: "industry",
     name: { de: "Zuckerplantage Dwangwa", hu: "Dwangwa cukornádültetvény", ro: "Plantația de zahăr Dwangwa", en: "Dwangwa Sugar Estate" },
     coords: [34.13, -12.51],
@@ -131,6 +135,7 @@ export const malawiEconomicV2: POI[] = [
   },
   {
     id: "malawi-satemwa-tea-estate-economic-v2",
+    parent: "MW",
     type: "industry",
     name: { de: "Teegut Satemwa", hu: "Satemwa teaültetvény", ro: "Plantația de ceai Satemwa", en: "Satemwa Tea Estate" },
     coords: [35.05, -16.05],
@@ -163,6 +168,7 @@ export const malawiEconomicV2: POI[] = [
   },
   {
     id: "malawi-lujeri-tea-estate-economic-v2",
+    parent: "MW",
     type: "industry",
     name: { de: "Teegut Lujeri", hu: "Lujeri teaültetvény", ro: "Plantația de ceai Lujeri", en: "Lujeri Tea Estate" },
     coords: [35.61, -16.02],
@@ -195,6 +201,7 @@ export const malawiEconomicV2: POI[] = [
   },
   {
     id: "malawi-makata-industrial-area-economic-v2",
+    parent: "MW",
     type: "industry",
     name: { de: "Industriegebiet Makata", hu: "Makata ipari negyed", ro: "Zona industrială Makata", en: "Makata Industrial Area" },
     coords: [35.01, -15.77],
@@ -227,6 +234,7 @@ export const malawiEconomicV2: POI[] = [
   },
   {
     id: "malawi-kanengo-industrial-area-economic-v2",
+    parent: "MW",
     type: "industry",
     name: { de: "Industriegebiet Kanengo", hu: "Kanengo ipari negyed", ro: "Zona industrială Kanengo", en: "Kanengo Industrial Area" },
     coords: [33.79, -13.88],
@@ -259,6 +267,7 @@ export const malawiEconomicV2: POI[] = [
   },
   {
     id: "malawi-mapeto-textile-mill-economic-v2",
+    parent: "MW",
     type: "factory",
     name: { de: "Textilfabrik Mapeto", hu: "Mapeto textilgyár", ro: "Fabrica de textile Mapeto", en: "Mapeto Textile Mill" },
     coords: [35.02, -15.78],
@@ -291,6 +300,7 @@ export const malawiEconomicV2: POI[] = [
   },
   {
     id: "malawi-castel-brewery-economic-v2",
+    parent: "MW",
     type: "factory",
     name: { de: "Castel Malawi Brauerei", hu: "Castel Malawi sörfőzde", ro: "Fabrica de bere Castel Malawi", en: "Castel Malawi Brewery" },
     coords: [35.01, -15.79],
@@ -323,6 +333,7 @@ export const malawiEconomicV2: POI[] = [
   },
   {
     id: "malawi-nkula-falls-power-station-economic-v2",
+    parent: "MW",
     type: "industry",
     name: { de: "Wasserkraftwerk Nkula Falls", hu: "Nkula-vízesés erőmű", ro: "Hidrocentrala Nkula Falls", en: "Nkula Falls Power Station" },
     coords: [34.82, -15.52],
@@ -355,6 +366,7 @@ export const malawiEconomicV2: POI[] = [
   },
   {
     id: "malawi-tedzani-power-station-economic-v2",
+    parent: "MW",
     type: "industry",
     name: { de: "Wasserkraftwerk Tedzani", hu: "Tedzani vízerőmű", ro: "Hidrocentrala Tedzani", en: "Tedzani Power Station" },
     coords: [34.77, -15.56],
@@ -387,6 +399,7 @@ export const malawiEconomicV2: POI[] = [
   },
   {
     id: "malawi-kapichira-power-station-economic-v2",
+    parent: "MW",
     type: "industry",
     name: { de: "Wasserkraftwerk Kapichira", hu: "Kapichira vízerőmű", ro: "Hidrocentrala Kapichira", en: "Kapichira Power Station" },
     coords: [34.75, -15.89],
@@ -419,6 +432,7 @@ export const malawiEconomicV2: POI[] = [
   },
   {
     id: "malawi-chipoka-port-economic-v2",
+    parent: "MW",
     type: "port",
     name: { de: "Hafen von Chipoka", hu: "Chipoka kikötő", ro: "Portul Chipoka", en: "Chipoka Port" },
     coords: [34.52, -14],
@@ -451,6 +465,7 @@ export const malawiEconomicV2: POI[] = [
   },
   {
     id: "malawi-monkey-bay-shipyard-economic-v2",
+    parent: "MW",
     type: "port",
     name: { de: "Werft von Monkey Bay", hu: "Monkey Bay hajógyár", ro: "Șantierul naval Monkey Bay", en: "Monkey Bay Shipyard" },
     coords: [34.92, -14.08],
@@ -483,6 +498,7 @@ export const malawiEconomicV2: POI[] = [
   },
   {
     id: "malawi-salima-solar-plant-economic-v2",
+    parent: "MW",
     type: "industry",
     name: { de: "Solarkraftwerk Salima", hu: "Salima naperőmű", ro: "Centrala solară Salima", en: "Salima Solar Power Plant" },
     coords: [34.42, -13.85],
@@ -515,6 +531,7 @@ export const malawiEconomicV2: POI[] = [
   },
   {
     id: "malawi-ahl-tobacco-auction-floors-economic-v2",
+    parent: "MW",
     type: "industry",
     name: { de: "Tabak-Auktionshallen Kanengo", hu: "Kanengo dohányárverési csarnokok", ro: "Halele de licitații tutun Kanengo", en: "AHL Tobacco Auction Floors" },
     coords: [33.8, -13.89],
@@ -547,6 +564,7 @@ export const malawiEconomicV2: POI[] = [
   },
   {
     id: "malawi-limbe-leaf-factory-economic-v2",
+    parent: "MW",
     type: "factory",
     name: { de: "Limbe-Leaf-Verarbeitungswerk", hu: "Limbe Leaf feldolgozóüzem", ro: "Fabrica de procesare Limbe Leaf", en: "Limbe Leaf Processing Plant" },
     coords: [33.78, -13.91],
@@ -579,6 +597,7 @@ export const malawiEconomicV2: POI[] = [
   },
   {
     id: "malawi-muloza-border-post-economic-v2",
+    parent: "MW",
     type: "landmark",
     name: { de: "Grenzübergang Muloza", hu: "Muloza határátkelő", ro: "Punctul de frontieră Muloza", en: "Muloza Border Post" },
     coords: [35.73, -16.02],
@@ -611,6 +630,7 @@ export const malawiEconomicV2: POI[] = [
   },
   {
     id: "malawi-songwe-border-post-economic-v2",
+    parent: "MW",
     type: "landmark",
     name: { de: "Grenzübergang Songwe", hu: "Songwe határátkelő", ro: "Punctul de frontieră Songwe", en: "Songwe Border Post" },
     coords: [33.93, -9.71],
@@ -643,6 +663,7 @@ export const malawiEconomicV2: POI[] = [
   },
   {
     id: "malawi-dedza-border-post-economic-v2",
+    parent: "MW",
     type: "landmark",
     name: { de: "Grenzübergang Dedza", hu: "Dedza határátkelő", ro: "Punctul de frontieră Dedza", en: "Dedza Border Post" },
     coords: [34.33, -14.37],
@@ -675,6 +696,7 @@ export const malawiEconomicV2: POI[] = [
   },
   {
     id: "malawi-mwanza-border-post-economic-v2",
+    parent: "MW",
     type: "landmark",
     name: { de: "Grenzübergang Mwanza", hu: "Mwanza határátkelő", ro: "Punctul de frontieră Mwanza", en: "Mwanza Border Post" },
     coords: [34.45, -15.61],
@@ -707,6 +729,7 @@ export const malawiEconomicV2: POI[] = [
   },
   {
     id: "malawi-bakhresa-milling-economic-v2",
+    parent: "MW",
     type: "factory",
     name: { de: "Bakhresa-Getreidemühle", hu: "Bakhresa malom", ro: "Moara Bakhresa", en: "Bakhresa Grain Milling" },
     coords: [35.07, -15.83],
@@ -739,6 +762,7 @@ export const malawiEconomicV2: POI[] = [
   },
   {
     id: "malawi-lilongwe-dairy-economic-v2",
+    parent: "MW",
     type: "factory",
     name: { de: "Molkerei Lilongwe", hu: "Lilongwe tejüzem", ro: "Fabrica de lactate Lilongwe", en: "Lilongwe Dairy" },
     coords: [33.78, -13.92],
@@ -771,6 +795,7 @@ export const malawiEconomicV2: POI[] = [
   },
   {
     id: "malawi-matindi-oil-depot-economic-v2",
+    parent: "MW",
     type: "industry",
     name: { de: "Öllager Matindi", hu: "Matindi olajtározó", ro: "Depozitul de petrol Matindi", en: "Matindi Oil Depot" },
     coords: [34.95, -15.68],
@@ -803,6 +828,7 @@ export const malawiEconomicV2: POI[] = [
   },
   {
     id: "malawi-kaziwiziwi-coal-mine-economic-v2",
+    parent: "MW",
     type: "mine",
     name: { de: "Kohlebergwerk Kaziwiziwi", hu: "Kaziwiziwi szénbánya", ro: "Mina de cărbune Kaziwiziwi", en: "Kaziwiziwi Coal Mine" },
     coords: [34.05, -10.6],
@@ -835,6 +861,7 @@ export const malawiEconomicV2: POI[] = [
   },
   {
     id: "malawi-sunbird-business-centre-economic-v2",
+    parent: "MW",
     type: "landmark",
     name: { de: "Sunbird Geschäftszentrum", hu: "Sunbird üzleti központ", ro: "Centrul de afaceri Sunbird", en: "Sunbird Business Centre" },
     coords: [35, -15.79],
@@ -867,6 +894,7 @@ export const malawiEconomicV2: POI[] = [
   },
   {
     id: "malawi-illovo-sugar-limbe-economic-v2",
+    parent: "MW",
     type: "industry",
     name: { de: "Illovo-Zucker-Hauptsitz", hu: "Illovo Sugar központ", ro: "Sediul Illovo Sugar", en: "Illovo Sugar Limbe" },
     coords: [35.06, -15.82],
@@ -899,6 +927,7 @@ export const malawiEconomicV2: POI[] = [
   },
   {
     id: "malawi-press-corporation-hq-economic-v2",
+    parent: "MW",
     type: "landmark",
     name: { de: "Press Corporation Hauptquartier", hu: "Press Corporation székház", ro: "Sediul Press Corporation", en: "Press Corporation HQ" },
     coords: [33.77, -13.97],
@@ -931,6 +960,7 @@ export const malawiEconomicV2: POI[] = [
   },
   {
     id: "malawi-liwonde-dry-port-economic-v2",
+    parent: "MW",
     type: "port",
     name: { de: "Binnenhafen Liwonde", hu: "Liwonde szárazföldi kikötő", ro: "Portul uscat Liwonde", en: "Liwonde Dry Port" },
     coords: [35.22, -15.06],

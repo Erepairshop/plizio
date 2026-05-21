@@ -3,6 +3,7 @@ export const saintluciaCitiesV2: POI[] = [
 
   {
     id: "saintlucia-castries-cities-v2",
+    parent: "LC",
     type: "capital",
     name: { de: "Castries", hu: "Castries", ro: "Castries", en: "Castries" },
     coords: [-60.9875, 14.0101],
@@ -35,6 +36,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-vieux-fort-cities-v2",
+    parent: "LC",
     type: "town",
     name: { de: "Vieux Fort", hu: "Vieux Fort", ro: "Vieux Fort", en: "Vieux Fort" },
     coords: [-60.9491, 13.7251],
@@ -67,6 +69,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-soufriere-cities-v2",
+    parent: "LC",
     type: "town",
     name: { de: "Soufrière", hu: "Soufrière", ro: "Soufrière", en: "Soufrière" },
     coords: [-61.0566, 13.8562],
@@ -99,6 +102,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-gros-islet-cities-v2",
+    parent: "LC",
     type: "town",
     name: { de: "Gros Islet", hu: "Gros Islet", ro: "Gros Islet", en: "Gros Islet" },
     coords: [-60.9502, 14.0805],
@@ -131,6 +135,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-micoud-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Micoud", hu: "Micoud", ro: "Micoud", en: "Micoud" },
     coords: [-60.9025, 13.8168],
@@ -163,6 +168,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-dennery-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Dennery", hu: "Dennery", ro: "Dennery", en: "Dennery" },
     coords: [-60.8905, 13.9115],
@@ -195,6 +201,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-laborie-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Laborie", hu: "Laborie", ro: "Laborie", en: "Laborie" },
     coords: [-60.9951, 13.7505],
@@ -227,6 +234,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-anse-la-raye-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Anse La Raye", hu: "Anse La Raye", ro: "Anse La Raye", en: "Anse La Raye" },
     coords: [-61.0395, 13.9405],
@@ -259,6 +267,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-choiseul-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Choiseul", hu: "Choiseul", ro: "Choiseul", en: "Choiseul" },
     coords: [-61.0495, 13.7745],
@@ -291,6 +300,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-canaries-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Canaries", hu: "Canaries", ro: "Canaries", en: "Canaries" },
     coords: [-61.0645, 13.9005],
@@ -323,6 +333,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-babonneau-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Babonneau", hu: "Babonneau", ro: "Babonneau", en: "Babonneau" },
     coords: [-60.9401, 14.0151],
@@ -355,6 +366,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-bexon-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Bexon", hu: "Bexon", ro: "Bexon", en: "Bexon" },
     coords: [-60.9705, 13.9655],
@@ -387,6 +399,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-ciceron-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Ciceron", hu: "Ciceron", ro: "Ciceron", en: "Ciceron" },
     coords: [-61.0105, 13.9905],
@@ -419,6 +432,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-rodney-bay-cities-v2",
+    parent: "LC",
     type: "town",
     name: { de: "Rodney Bay", hu: "Rodney Bay", ro: "Rodney Bay", en: "Rodney Bay" },
     coords: [-60.9505, 14.0755],
@@ -451,6 +465,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-cap-estate-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Cap Estate", hu: "Cap Estate", ro: "Cap Estate", en: "Cap Estate" },
     coords: [-60.9405, 14.1001],
@@ -483,6 +498,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-monchy-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Monchy", hu: "Monchy", ro: "Monchy", en: "Monchy" },
     coords: [-60.9255, 14.0655],
@@ -515,6 +531,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-augier-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Augier", hu: "Augier", ro: "Augier", en: "Augier" },
     coords: [-60.9655, 13.7555],
@@ -547,6 +564,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-desruisseaux-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Desruisseaux", hu: "Desruisseaux", ro: "Desruisseaux", en: "Desruisseaux" },
     coords: [-60.9355, 13.8155],
@@ -579,6 +597,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-saltibus-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Saltibus", hu: "Saltibus", ro: "Saltibus", en: "Saltibus" },
     coords: [-61.0005, 13.8105],
@@ -611,6 +630,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-ti-rocher-micoud-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Ti Rocher (Micoud)", hu: "Ti Rocher (Micoud)", ro: "Ti Rocher (Micoud)", en: "Ti Rocher (Micoud)" },
     coords: [-60.9105, 13.8405],
@@ -643,6 +663,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-ti-rocher-castries-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Ti Rocher (Castries)", hu: "Ti Rocher (Castries)", ro: "Ti Rocher (Castries)", en: "Ti Rocher (Castries)" },
     coords: [-60.9555, 13.9955],
@@ -675,6 +696,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-mongiraud-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Mongiraud", hu: "Mongiraud", ro: "Mongiraud", en: "Mongiraud" },
     coords: [-60.9405, 14.0605],
@@ -707,6 +729,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-marisule-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Marisule", hu: "Marisule", ro: "Marisule", en: "Marisule" },
     coords: [-60.9655, 14.0405],
@@ -739,6 +762,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-choc-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Choc", hu: "Choc", ro: "Choc", en: "Choc" },
     coords: [-60.9755, 14.0455],
@@ -771,6 +795,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-union-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Union", hu: "Union", ro: "Union", en: "Union" },
     coords: [-60.9605, 14.0355],
@@ -803,6 +828,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-balata-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Balata", hu: "Balata", ro: "Balata", en: "Balata" },
     coords: [-60.9555, 14.0205],
@@ -835,6 +861,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-giraud-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Giraud", hu: "Giraud", ro: "Giraud", en: "Giraud" },
     coords: [-60.9305, 14.0255],
@@ -867,6 +894,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-monier-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Monier", hu: "Monier", ro: "Monier", en: "Monier" },
     coords: [-60.9205, 14.0455],
@@ -899,6 +927,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-fond-st-jacques-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Fond St. Jacques", hu: "Fond St. Jacques", ro: "Fond St. Jacques", en: "Fond St. Jacques" },
     coords: [-61.0205, 13.8405],
@@ -931,6 +960,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-piaye-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Piaye", hu: "Piaye", ro: "Piaye", en: "Piaye" },
     coords: [-61.0205, 13.7655],
@@ -963,6 +993,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-balembouche-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Balembouche", hu: "Balembouche", ro: "Balembouche", en: "Balembouche" },
     coords: [-61.0105, 13.7605],
@@ -995,6 +1026,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-praslin-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Praslin", hu: "Praslin", ro: "Praslin", en: "Praslin" },
     coords: [-60.8955, 13.8755],
@@ -1027,6 +1059,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-mon-repos-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Mon Repos", hu: "Mon Repos", ro: "Mon Repos", en: "Mon Repos" },
     coords: [-60.9055, 13.8655],
@@ -1059,6 +1092,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-patience-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Patience", hu: "Patience", ro: "Patience", en: "Patience" },
     coords: [-60.8955, 13.8855],
@@ -1091,6 +1125,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-boguis-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Boguis", hu: "Boguis", ro: "Boguis", en: "Boguis" },
     coords: [-60.9155, 14.0305],
@@ -1123,6 +1158,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-garrand-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Garrand", hu: "Garrand", ro: "Garrand", en: "Garrand" },
     coords: [-60.9055, 14.0405],
@@ -1155,6 +1191,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-ravine-poisson-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Ravine Poisson", hu: "Ravine Poisson", ro: "Ravine Poisson", en: "Ravine Poisson" },
     coords: [-60.9455, 13.9455],
@@ -1187,6 +1224,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-vanard-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Vanard", hu: "Vanard", ro: "Vanard", en: "Vanard" },
     coords: [-60.9755, 13.9355],
@@ -1219,6 +1257,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-millet-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Millet", hu: "Millet", ro: "Millet", en: "Millet" },
     coords: [-60.9855, 13.9255],
@@ -1251,6 +1290,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-roseau-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Roseau", hu: "Roseau", ro: "Roseau", en: "Roseau" },
     coords: [-61.0255, 13.9555],
@@ -1283,6 +1323,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-marigot-bay-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Marigot Bay", hu: "Marigot Bay", ro: "Marigot Bay", en: "Marigot Bay" },
     coords: [-61.0255, 13.9655],
@@ -1315,6 +1356,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-la-croix-maingot-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "La Croix Maingot", hu: "La Croix Maingot", ro: "La Croix Maingot", en: "La Croix Maingot" },
     coords: [-61.0005, 13.9755],
@@ -1347,6 +1389,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-vigie-cities-v2",
+    parent: "LC",
     type: "city",
     name: { de: "Vigie", hu: "Vigie", ro: "Vigie", en: "Vigie" },
     coords: [-61.0055, 14.0255],
@@ -1379,6 +1422,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-morne-fortune-cities-v2",
+    parent: "LC",
     type: "city",
     name: { de: "Morne Fortune", hu: "Morne Fortune", ro: "Morne Fortune", en: "Morne Fortune" },
     coords: [-61.0001, 14.0001],
@@ -1411,6 +1455,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-marchand-cities-v2",
+    parent: "LC",
     type: "city",
     name: { de: "Marchand", hu: "Marchand", ro: "Marchand", en: "Marchand" },
     coords: [-60.9805, 14.0105],
@@ -1443,6 +1488,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-entrepot-cities-v2",
+    parent: "LC",
     type: "city",
     name: { de: "Entrepot", hu: "Entrepot", ro: "Entrepot", en: "Entrepot" },
     coords: [-60.9755, 14.0105],
@@ -1475,6 +1521,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-carellie-cities-v2",
+    parent: "LC",
     type: "city",
     name: { de: "Carellie", hu: "Carellie", ro: "Carellie", en: "Carellie" },
     coords: [-60.9705, 14.0205],
@@ -1507,6 +1554,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-chase-gardens-cities-v2",
+    parent: "LC",
     type: "city",
     name: { de: "Chase Gardens", hu: "Chase Gardens", ro: "Chase Gardens", en: "Chase Gardens" },
     coords: [-60.9855, 14.0155],
@@ -1539,6 +1587,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-la-clery-cities-v2",
+    parent: "LC",
     type: "city",
     name: { de: "La Clery", hu: "La Clery", ro: "La Clery", en: "La Clery" },
     coords: [-60.9905, 14.0205],
@@ -1571,6 +1620,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-vide-bouteille-cities-v2",
+    parent: "LC",
     type: "city",
     name: { de: "Vide Bouteille", hu: "Vide Bouteille", ro: "Vide Bouteille", en: "Vide Bouteille" },
     coords: [-60.9855, 14.0305],
@@ -1603,6 +1653,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-bissee-cities-v2",
+    parent: "LC",
     type: "city",
     name: { de: "Bissee", hu: "Bissee", ro: "Bissee", en: "Bissee" },
     coords: [-60.9755, 14.0355],
@@ -1635,6 +1686,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-sunny-acres-cities-v2",
+    parent: "LC",
     type: "city",
     name: { de: "Sunny Acres", hu: "Sunny Acres", ro: "Sunny Acres", en: "Sunny Acres" },
     coords: [-60.9705, 14.0405],
@@ -1667,6 +1719,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-beausejour-cities-v2",
+    parent: "LC",
     type: "town",
     name: { de: "Beausejour", hu: "Beausejour", ro: "Beausejour", en: "Beausejour" },
     coords: [-60.9405, 14.0855],
@@ -1699,6 +1752,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-bonne-terre-cities-v2",
+    parent: "LC",
     type: "town",
     name: { de: "Bonne Terre", hu: "Bonne Terre", ro: "Bonne Terre", en: "Bonne Terre" },
     coords: [-60.9455, 14.0755],
@@ -1731,6 +1785,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-rodney-heights-cities-v2",
+    parent: "LC",
     type: "town",
     name: { de: "Rodney Heights", hu: "Rodney Heights", ro: "Rodney Heights", en: "Rodney Heights" },
     coords: [-60.9455, 14.0705],
@@ -1763,6 +1818,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-mon-repos-east-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Mon Repos East", hu: "Mon Repos East", ro: "Mon Repos East", en: "Mon Repos East" },
     coords: [-60.8955, 13.8655],
@@ -1795,6 +1851,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-balata-east-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Balata East", hu: "Balata East", ro: "Balata East", en: "Balata East" },
     coords: [-60.9455, 14.0205],
@@ -1827,6 +1884,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-union-west-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Union West", hu: "Union West", ro: "Union West", en: "Union West" },
     coords: [-60.9705, 14.0355],
@@ -1859,6 +1917,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-marisule-beach-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Marisule Beach", hu: "Marisule Beach", ro: "Marisule Beach", en: "Marisule Beach" },
     coords: [-60.9705, 14.0405],
@@ -1891,6 +1950,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-choc-commercial-cities-v2",
+    parent: "LC",
     type: "city",
     name: { de: "Choc Commercial", hu: "Choc Commercial", ro: "Choc Commercial", en: "Choc Commercial" },
     coords: [-60.9805, 14.0455],
@@ -1923,6 +1983,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-desruisseaux-west-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Desruisseaux West", hu: "Desruisseaux West", ro: "Desruisseaux West", en: "Desruisseaux West" },
     coords: [-60.9455, 13.8155],
@@ -1955,6 +2016,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-augier-south-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Augier South", hu: "Augier South", ro: "Augier South", en: "Augier South" },
     coords: [-60.9655, 13.7455],
@@ -1987,6 +2049,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-laborie-north-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Laborie North", hu: "Laborie North", ro: "Laborie North", en: "Laborie North" },
     coords: [-60.9955, 13.7655],
@@ -2019,6 +2082,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-soufriere-hills-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Soufrière Hills", hu: "Soufrière Hills", ro: "Soufrière Hills", en: "Soufrière Hills" },
     coords: [-61.0455, 13.8605],
@@ -2051,6 +2115,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-anse-la-raye-inland-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Anse La Raye Inland", hu: "Anse La Raye Inland", ro: "Anse La Raye Inland", en: "Anse La Raye Inland" },
     coords: [-61.0305, 13.9355],
@@ -2083,6 +2148,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-canaries-north-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Canaries North", hu: "Canaries North", ro: "Canaries North", en: "Canaries North" },
     coords: [-61.0605, 13.9105],
@@ -2115,6 +2181,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-choiseul-east-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Choiseul East", hu: "Choiseul East", ro: "Choiseul East", en: "Choiseul East" },
     coords: [-61.0405, 13.7805],
@@ -2147,6 +2214,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-vieux-fort-north-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Vieux Fort North", hu: "Vieux Fort North", ro: "Vieux Fort North", en: "Vieux Fort North" },
     coords: [-60.9405, 13.7355],
@@ -2179,6 +2247,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-micoud-north-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Micoud North", hu: "Micoud North", ro: "Micoud North", en: "Micoud North" },
     coords: [-60.8955, 13.8255],
@@ -2211,6 +2280,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-dennery-south-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Dennery South", hu: "Dennery South", ro: "Dennery South", en: "Dennery South" },
     coords: [-60.8955, 13.9055],
@@ -2243,6 +2313,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-babonneau-central-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Babonneau Central", hu: "Babonneau Central", ro: "Babonneau Central", en: "Babonneau Central" },
     coords: [-60.9355, 14.0151],
@@ -2275,6 +2346,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-gros-islet-north-cities-v2",
+    parent: "LC",
     type: "town",
     name: { de: "Gros Islet North", hu: "Gros Islet North", ro: "Gros Islet North", en: "Gros Islet North" },
     coords: [-60.9505, 14.0905],
@@ -2307,6 +2379,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-castries-south-cities-v2",
+    parent: "LC",
     type: "city",
     name: { de: "Castries South", hu: "Castries South", ro: "Castries South", en: "Castries South" },
     coords: [-61.0055, 13.9955],
@@ -2339,6 +2412,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-soufriere-town-cities-v2",
+    parent: "LC",
     type: "town",
     name: { de: "Soufrière Town", hu: "Soufrière Town", ro: "Soufrière Town", en: "Soufrière Town" },
     coords: [-61.0566, 13.8562],
@@ -2371,6 +2445,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-laborie-village-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Laborie Village", hu: "Laborie Village", ro: "Laborie Village", en: "Laborie Village" },
     coords: [-60.9951, 13.7505],
@@ -2403,6 +2478,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-micoud-village-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Micoud Village", hu: "Micoud Village", ro: "Micoud Village", en: "Micoud Village" },
     coords: [-60.9025, 13.8168],
@@ -2435,6 +2511,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-dennery-village-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Dennery Village", hu: "Dennery Village", ro: "Dennery Village", en: "Dennery Village" },
     coords: [-60.8905, 13.9115],
@@ -2467,6 +2544,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-anse-la-raye-village-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Anse La Raye Village", hu: "Anse La Raye Village", ro: "Anse La Raye Village", en: "Anse La Raye Village" },
     coords: [-61.0395, 13.9405],
@@ -2499,6 +2577,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-choiseul-village-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Choiseul Village", hu: "Choiseul Village", ro: "Choiseul Village", en: "Choiseul Village" },
     coords: [-61.0495, 13.7745],
@@ -2531,6 +2610,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-canaries-village-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Canaries Village", hu: "Canaries Village", ro: "Canaries Village", en: "Canaries Village" },
     coords: [-61.0645, 13.9005],
@@ -2563,6 +2643,7 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-babonneau-village-cities-v2",
+    parent: "LC",
     type: "village",
     name: { de: "Babonneau Village", hu: "Babonneau Village", ro: "Babonneau Village", en: "Babonneau Village" },
     coords: [-60.9401, 14.0151],

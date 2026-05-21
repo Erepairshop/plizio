@@ -3,6 +3,7 @@ export const liberiaLifeV2: POI[] = [
 
   {
     id: "liberia-sapo-national-park-life-v2",
+    parent: "LR",
     type: "park",
     name: { de: "Sapo-Nationalpark", hu: "Sapo Nemzeti Park", ro: "Parcul Național Sapo", en: "Sapo National Park" },
     coords: [-8.6667, 5.4333],
@@ -35,6 +36,7 @@ export const liberiaLifeV2: POI[] = [
   },
   {
     id: "liberia-marshall-wetlands-life-v2",
+    parent: "LR",
     type: "wildlife",
     name: { de: "Marshall-Feuchtgebiete", hu: "Marshall-vizes élőhelyek", ro: "Zonele umede Marshall", en: "Marshall Wetlands" },
     coords: [-10.3667, 6.1333],
@@ -67,6 +69,7 @@ export const liberiaLifeV2: POI[] = [
   },
   {
     id: "liberia-east-nimba-nature-reserve-life-v2",
+    parent: "LR",
     type: "wildlife",
     name: { de: "East-Nimba-Naturreservat", hu: "Kelet-Nimba Természetvédelmi Terület", ro: "Rezervația Naturală East Nimba", en: "East Nimba Nature Reserve" },
     coords: [-8.5, 7.55],
@@ -99,6 +102,7 @@ export const liberiaLifeV2: POI[] = [
   },
   {
     id: "liberia-lake-piso-reserve-life-v2",
+    parent: "LR",
     type: "lake",
     name: { de: "Lake-Piso-Reservat", hu: "Piso-tó Rezervátum", ro: "Rezervația Lacul Piso", en: "Lake Piso Reserve" },
     coords: [-11.3333, 6.75],
@@ -131,6 +135,7 @@ export const liberiaLifeV2: POI[] = [
   },
   {
     id: "liberia-gola-forest-national-park-life-v2",
+    parent: "LR",
     type: "forest",
     name: { de: "Gola-Forest-Nationalpark", hu: "Gola Erdő Nemzeti Park", ro: "Parcul Național Gola Forest", en: "Gola Forest National Park" },
     coords: [-10.9, 7.45],
@@ -163,6 +168,7 @@ export const liberiaLifeV2: POI[] = [
   },
   {
     id: "liberia-wologizi-mountains-life-v2",
+    parent: "LR",
     type: "mountain",
     name: { de: "Wologizi-Berge", hu: "Wologizi-hegység", ro: "Munții Wologizi", en: "Wologizi Mountains" },
     coords: [-9.7, 8.1333],
@@ -195,6 +201,7 @@ export const liberiaLifeV2: POI[] = [
   },
   {
     id: "liberia-kpo-mountains-life-v2",
+    parent: "LR",
     type: "mountain",
     name: { de: "Kpo-Berge", hu: "Kpo-hegység", ro: "Munții Kpo", en: "Kpo Mountains" },
     coords: [-10.4333, 7.2167],
@@ -227,6 +234,7 @@ export const liberiaLifeV2: POI[] = [
   },
   {
     id: "liberia-cestos-river-valley-life-v2",
+    parent: "LR",
     type: "river",
     name: { de: "Cestos-Flusstal", hu: "Cestos folyó völgye", ro: "Valea râului Cestos", en: "Cestos River Valley" },
     coords: [-9.6, 5.4833],
@@ -259,6 +267,7 @@ export const liberiaLifeV2: POI[] = [
   },
   {
     id: "liberia-monrovia-botanical-garden-life-v2",
+    parent: "LR",
     type: "park",
     name: { de: "Botanischer Garten Monrovia", hu: "Monroviai Botanikus Kert", ro: "Grădina Botanică din Monrovia", en: "Monrovia Botanical Garden" },
     coords: [-10.8, 6.3],
@@ -291,6 +300,7 @@ export const liberiaLifeV2: POI[] = [
   },
   {
     id: "liberia-du-river-estuary-life-v2",
+    parent: "LR",
     type: "river",
     name: { de: "Du-Flussmündung", hu: "Du folyó torkolata", ro: "Estuarul râului Du", en: "Du River Estuary" },
     coords: [-10.5, 6.2],
@@ -323,6 +333,7 @@ export const liberiaLifeV2: POI[] = [
   },
   {
     id: "liberia-cavalla-river-wildlife-corridor-life-v2",
+    parent: "LR",
     type: "wildlife",
     name: { de: "Cavalla-Fluss-Wildtierkorridor", hu: "Cavalla folyó vadfolyosó", ro: "Coridorul de faună al râului Cavalla", en: "Cavalla River Wildlife Corridor" },
     coords: [-7.5, 4.5],
@@ -355,6 +366,7 @@ export const liberiaLifeV2: POI[] = [
   },
   {
     id: "liberia-mount-nimba-reserve-life-v2",
+    parent: "LR",
     type: "mountain",
     name: { de: "Mount-Nimba-Reservat", hu: "Nimba-hegyi Rezervátum", ro: "Rezervația Muntele Nimba", en: "Mount Nimba Reserve" },
     coords: [-8.5, 7.6],
@@ -387,6 +399,7 @@ export const liberiaLifeV2: POI[] = [
   },
   {
     id: "liberia-mesurado-wetlands-life-v2",
+    parent: "LR",
     type: "wildlife",
     name: { de: "Mesurado-Feuchtgebiete", hu: "Mesurado-vizes élőhelyek", ro: "Zonele umede Mesurado", en: "Mesurado Wetlands" },
     coords: [-10.75, 6.3167],
@@ -419,6 +432,7 @@ export const liberiaLifeV2: POI[] = [
   },
   {
     id: "liberia-st-john-river-forest-life-v2",
+    parent: "LR",
     type: "forest",
     name: { de: "St.-John-Flusswald", hu: "St. John folyó menti erdő", ro: "Pădurea râului St. John", en: "St. John River Forest" },
     coords: [-10.05, 6.25],
@@ -451,6 +465,7 @@ export const liberiaLifeV2: POI[] = [
   },
   {
     id: "liberia-moa-river-valley-life-v2",
+    parent: "LR",
     type: "river",
     name: { de: "Moa-Flusstal", hu: "Moa folyó völgye", ro: "Valea râului Moa", en: "Moa River Valley" },
     coords: [-11.25, 7.3333],
@@ -483,6 +498,7 @@ export const liberiaLifeV2: POI[] = [
   },
   {
     id: "liberia-piso-lake-wetlands-life-v2",
+    parent: "LR",
     type: "lake",
     name: { de: "Piso-See-Feuchtgebiete", hu: "Piso-tó vizes élőhelyek", ro: "Zonele umede ale lacului Piso", en: "Piso Lake Wetlands" },
     coords: [-11.3167, 6.7833],
@@ -515,6 +531,7 @@ export const liberiaLifeV2: POI[] = [
   },
   {
     id: "liberia-gbi-forest-reserve-life-v2",
+    parent: "LR",
     type: "forest",
     name: { de: "Gbi-Waldreservat", hu: "Gbi Erdőrezervátum", ro: "Rezervația Forestieră Gbi", en: "Gbi Forest Reserve" },
     coords: [-9.1, 6.1],
@@ -547,6 +564,7 @@ export const liberiaLifeV2: POI[] = [
   },
   {
     id: "liberia-putu-range-forest-life-v2",
+    parent: "LR",
     type: "forest",
     name: { de: "Putu-Gebirgswald", hu: "Putu-hegységi erdő", ro: "Pădurea montană Putu", en: "Putu Range Forest" },
     coords: [-8.6, 5.65],
@@ -579,6 +597,7 @@ export const liberiaLifeV2: POI[] = [
   },
   {
     id: "liberia-savannah-transition-zone-life-v2",
+    parent: "LR",
     type: "park",
     name: { de: "Savannen-Übergangszone", hu: "Szavanna átmeneti zóna", ro: "Zonă de tranziție a savanei", en: "Savannah Transition Zone" },
     coords: [-9.2, 8.3],
@@ -611,6 +630,7 @@ export const liberiaLifeV2: POI[] = [
   },
   {
     id: "liberia-bomi-hills-forest-life-v2",
+    parent: "LR",
     type: "forest",
     name: { de: "Bomi-Hills-Wald", hu: "Bomi Hills erdő", ro: "Pădurea Bomi Hills", en: "Bomi Hills Forest" },
     coords: [-10.8, 6.85],
@@ -643,6 +663,7 @@ export const liberiaLifeV2: POI[] = [
   },
   {
     id: "liberia-lowland-rainforest-zone-life-v2",
+    parent: "LR",
     type: "forest",
     name: { de: "Tiefland-Regenwaldzone", hu: "Alföldi esőerdő övezet", ro: "Zonă de pădure tropicală de câmpie", en: "Lowland Rainforest Zone" },
     coords: [-9.0, 6.0],
@@ -675,6 +696,7 @@ export const liberiaLifeV2: POI[] = [
   },
   {
     id: "liberia-robertsport-coastal-reserve-life-v2",
+    parent: "LR",
     type: "wildlife",
     name: { de: "Robertsport-Küstenreservat", hu: "Robertsport tengerparti rezervátum", ro: "Rezervația costieră Robertsport", en: "Robertsport Coastal Reserve" },
     coords: [-11.3667, 6.75],
@@ -707,6 +729,7 @@ export const liberiaLifeV2: POI[] = [
   },
   {
     id: "liberia-farmington-river-corridor-life-v2",
+    parent: "LR",
     type: "river",
     name: { de: "Farmington-Flusskorridor", hu: "Farmington folyó menti folyosó", ro: "Coridorul râului Farmington", en: "Farmington River Corridor" },
     coords: [-10.35, 6.25],
@@ -739,6 +762,7 @@ export const liberiaLifeV2: POI[] = [
   },
   {
     id: "liberia-nimba-highlands-forest-life-v2",
+    parent: "LR",
     type: "forest",
     name: { de: "Nimba-Hochland-Wald", hu: "Nimba-felföldi erdő", ro: "Pădurea din ținuturile înalte Nimba", en: "Nimba Highlands Forest" },
     coords: [-8.55, 7.55],
@@ -771,6 +795,7 @@ export const liberiaLifeV2: POI[] = [
   },
   {
     id: "liberia-manoj-river-reserve-life-v2",
+    parent: "LR",
     type: "river",
     name: { de: "Manoj-Flussreservat", hu: "Manoj folyó rezervátum", ro: "Rezervația râului Manoj", en: "Manoj River Reserve" },
     coords: [-10.5, 7.0],
@@ -803,6 +828,7 @@ export const liberiaLifeV2: POI[] = [
   },
   {
     id: "liberia-voinjama-forest-patch-life-v2",
+    parent: "LR",
     type: "forest",
     name: { de: "Voinjama-Waldstück", hu: "Voinjama erdőfolt", ro: "Petic forestier Voinjama", en: "Voinjama Forest Patch" },
     coords: [-9.75, 8.4167],
@@ -835,6 +861,7 @@ export const liberiaLifeV2: POI[] = [
   },
   {
     id: "liberia-sinoe-river-basin-life-v2",
+    parent: "LR",
     type: "river",
     name: { de: "Sinoe-Flussbecken", hu: "Sinoe folyó medence", ro: "Bazinul râului Sinoe", en: "Sinoe River Basin" },
     coords: [-8.8, 5.15],
@@ -867,6 +894,7 @@ export const liberiaLifeV2: POI[] = [
   },
   {
     id: "liberia-zuo-mountain-forest-life-v2",
+    parent: "LR",
     type: "forest",
     name: { de: "Zuo-Bergwald", hu: "Zuo-hegyi erdő", ro: "Pădurea montană Zuo", en: "Zuo Mountain Forest" },
     coords: [-8.7, 7.3],
@@ -899,6 +927,7 @@ export const liberiaLifeV2: POI[] = [
   },
   {
     id: "liberia-kakata-forest-refuge-life-v2",
+    parent: "LR",
     type: "forest",
     name: { de: "Kakata-Waldrefugium", hu: "Kakata erdőmenedék", ro: "Refugiu forestier Kakata", en: "Kakata Forest Refuge" },
     coords: [-10.35, 6.55],

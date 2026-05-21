@@ -3,6 +3,7 @@ export const samoaHistoryV2: POI[] = [
 
   {
     id: "samoa-pulemelei-mound-history-v2",
+    parent: "WS",
     type: "ruins",
     name: { de: "Pulemelei-Hügel", hu: "Pulemelei-halom", ro: "Tumulul Pulemelei", en: "Pulemelei Mound" },
     coords: [-172.3167, -13.7158],
@@ -35,6 +36,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-villa-vailima-history-v2",
+    parent: "WS",
     type: "museum",
     name: { de: "Villa Vailima", hu: "Villa Vailima", ro: "Vila Vailima", en: "Villa Vailima" },
     coords: [-171.7667, -13.8642],
@@ -67,6 +69,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-mulinuu-royal-tombs-history-v2",
+    parent: "WS",
     type: "monument",
     name: { de: "Königsgräber von Mulinu'u", hu: "Mulinu'u királyi sírok", ro: "Mormintele Regale de la Mulinu'u", en: "Mulinu'u Royal Tombs" },
     coords: [-171.7822, -13.8247],
@@ -99,6 +102,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-saleaula-lava-church-history-v2",
+    parent: "WS",
     type: "ruins",
     name: { de: "Ruinen der Kirche von Saleaula", hu: "Saleaula templomrom", ro: "Ruinele bisericii din Saleaula", en: "Saleaula Church Ruins" },
     coords: [-172.3411, -13.4475],
@@ -131,6 +135,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-apia-clock-tower-history-v2",
+    parent: "WS",
     type: "tower",
     name: { de: "Uhrturm von Apia", hu: "Apia óratorony", ro: "Turnul cu ceas din Apia", en: "Apia Clock Tower" },
     coords: [-171.7656, -13.8328],
@@ -163,6 +168,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-sapapalii-monument-history-v2",
+    parent: "WS",
     type: "monument",
     name: { de: "Denkmal von Sapapali'i", hu: "Sapapali'i emlékmű", ro: "Monumentul din Sapapali'i", en: "Sapapali'i Monument" },
     coords: [-172.1867, -13.6214],
@@ -195,6 +201,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-german-courthouse-history-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Altes Deutsches Gerichtsgebäude", hu: "Régi német bírósági épület", ro: "Vechea Curte de Justiție Germană", en: "Old German Courthouse" },
     coords: [-171.7708, -13.8317],
@@ -227,6 +234,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-falemauga-caves-history-v2",
+    parent: "WS",
     type: "ruins",
     name: { de: "Falemauga-Höhlen", hu: "Falemauga-barlangok", ro: "Peșterile Falemauga", en: "Falemauga Caves" },
     coords: [-171.8167, -13.9167],
@@ -259,6 +267,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-malua-theological-college-history-v2",
+    parent: "WS",
     type: "university",
     name: { de: "Theologisches Kolleg von Malua", hu: "Malua Teológiai Főiskola", ro: "Colegiul Teologic Malua", en: "Malua Theological College" },
     coords: [-171.8567, -13.8056],
@@ -291,6 +300,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-mount-vaea-rls-tomb-history-v2",
+    parent: "WS",
     type: "monument",
     name: { de: "Grab von Robert Louis Stevenson", hu: "Robert Louis Stevenson sírja", ro: "Mormântul lui Robert Louis Stevenson", en: "Robert Louis Stevenson Tomb" },
     coords: [-171.7708, -13.8767],
@@ -323,6 +333,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-virgin-grave-saleaula-history-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Grab der Jungfrau", hu: "Szűz sírja", ro: "Mormântul Fecioarei", en: "Virgin's Grave" },
     coords: [-172.3414, -13.4481],
@@ -355,6 +366,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-piula-cave-pool-history-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Piula-Höhlenpool", hu: "Piula-barlangfürdő", ro: "Piscina din peștera Piula", en: "Piula Cave Pool" },
     coords: [-171.6, -13.8833],
@@ -387,6 +399,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-moso-footprint-history-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Mosos Fußabdruck", hu: "Moso lábnyoma", ro: "Urma lui Moso", en: "Moso's Footprint" },
     coords: [-172.7667, -13.5042],
@@ -419,6 +432,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-german-monument-mulinuu-history-v2",
+    parent: "WS",
     type: "monument",
     name: { de: "Deutsches Denkmal in Mulinu'u", hu: "Német emlékmű Mulinu'u-ban", ro: "Monumentul German din Mulinu'u", en: "German Monument at Mulinu'u" },
     coords: [-171.7831, -13.8239],
@@ -451,6 +465,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-vaimoso-mau-headquarters-history-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Ehemaliges Mau-Hauptquartier", hu: "Egykori Mau főhadiszállás", ro: "Fostul sediu Mau", en: "Former Mau Headquarters" },
     coords: [-171.7833, -13.8417],
@@ -483,6 +498,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-apolima-island-forts-history-v2",
+    parent: "WS",
     type: "ruins",
     name: { de: "Befestigungen von Apolima", hu: "Apolima erődítményei", ro: "Fortificațiile din Apolima", en: "Apolima Fortifications" },
     coords: [-172.15, -13.8167],
@@ -515,6 +531,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-manono-star-mound-history-v2",
+    parent: "WS",
     type: "ruins",
     name: { de: "Sternhügel von Manono", hu: "Manono csillaghalom", ro: "Tumulul stelat din Manono", en: "Manono Star Mound" },
     coords: [-172.1167, -13.85],
@@ -547,6 +564,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-vailele-battlefield-history-v2",
+    parent: "WS",
     type: "battlefield",
     name: { de: "Schlachtfeld von Vailele", hu: "Vailele csatatér", ro: "Câmpul de luptă de la Vailele", en: "Vailele Battlefield" },
     coords: [-171.7333, -13.8417],
@@ -579,6 +597,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-maota-o-taoa-history-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Maota o Taoa", hu: "Maota o Taoa", ro: "Maota o Taoa", en: "Maota o Taoa" },
     coords: [-172.4333, -13.4333],
@@ -611,6 +630,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-tufutafoe-underworld-portal-history-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Fafa o Sauali'i", hu: "Fafa o Sauali'i", ro: "Fafa o Sauali'i", en: "Fafa o Sauali'i" },
     coords: [-172.8, -13.5167],
@@ -643,6 +663,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-luatuanuu-hillfort-history-v2",
+    parent: "WS",
     type: "ruins",
     name: { de: "Festungshügel von Luatuanu'u", hu: "Luatuanu'u domberőd", ro: "Cetatea de pe dealul Luatuanu'u", en: "Luatuanu'u Hillfort" },
     coords: [-171.65, -13.88],
@@ -675,6 +696,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-falealupo-old-church-history-v2",
+    parent: "WS",
     type: "ruins",
     name: { de: "Alte Kirche von Falealupo", hu: "Falealupo régi temploma", ro: "Vechea biserică din Falealupo", en: "Falealupo Old Church" },
     coords: [-172.7833, -13.5117],
@@ -707,6 +729,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-fangaloa-ancient-village-history-v2",
+    parent: "WS",
     type: "ruins",
     name: { de: "Antikes Dorf in der Fangaloa-Bucht", hu: "Ősi falu a Fangaloa-öbölnél", ro: "Satul antic din Golful Fangaloa", en: "Fangaloa Ancient Village" },
     coords: [-171.55, -13.9167],
@@ -739,6 +762,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-lotofaga-archaeological-site-history-v2",
+    parent: "WS",
     type: "ruins",
     name: { de: "Archäologische Stätte von Lotofaga", hu: "Lotofaga régészeti lelőhely", ro: "Situl arheologic de la Lotofaga", en: "Lotofaga Archaeological Site" },
     coords: [-171.5, -14.0167],
@@ -771,6 +795,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-asau-historic-port-history-v2",
+    parent: "WS",
     type: "port",
     name: { de: "Historischer Hafen von Asau", hu: "Asau történelmi kikötője", ro: "Portul istoric din Asau", en: "Asau Historic Port" },
     coords: [-172.6333, -13.5167],
@@ -803,6 +828,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-malietoa-tombs-history-v2",
+    parent: "WS",
     type: "monument",
     name: { de: "Malietoa-Gräber", hu: "Malietoa-sírok", ro: "Mormintele Malietoa", en: "Malietoa Tombs" },
     coords: [-171.7811, -13.8242],
@@ -835,6 +861,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-german-monument-samoa-history-v2",
+    parent: "WS",
     type: "monument",
     name: { de: "Deutsches Kolonialdenkmal", hu: "Német gyarmati emlékmű", ro: "Monumentul colonial german", en: "German Colonial Monument" },
     coords: [-171.785, -13.825],
@@ -867,6 +894,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-mataafa-tombs-history-v2",
+    parent: "WS",
     type: "monument",
     name: { de: "Mata'afa-Gräber", hu: "Mata'afa-sírok", ro: "Mormintele Mata'afa", en: "Mata'afa Tombs" },
     coords: [-171.7828, -13.8256],
@@ -899,6 +927,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-lepa-ancient-village-history-v2",
+    parent: "WS",
     type: "ruins",
     name: { de: "Altes Dorf von Lepa", hu: "Lepa ősi faluja", ro: "Satul vechi din Lepa", en: "Lepa Ancient Village" },
     coords: [-171.5167, -14.0333],
@@ -931,6 +960,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-siumu-ancient-wells-history-v2",
+    parent: "WS",
     type: "ruins",
     name: { de: "Antike Brunnen von Siumu", hu: "Siumu ősi kútjai", ro: "Fântânile antice din Siumu", en: "Siumu Ancient Wells" },
     coords: [-171.7667, -13.9833],
@@ -963,6 +993,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-taga-blowholes-history-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Alofaaga-Blowholes", hu: "Alofaaga-szökőkutak", ro: "Alofaaga Blowholes", en: "Alofaaga Blowholes" },
     coords: [-172.5167, -13.8167],
@@ -995,6 +1026,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-safune-ancient-landing-history-v2",
+    parent: "WS",
     type: "ruins",
     name: { de: "Antike Anlegestelle von Safune", hu: "Safune ősi kikötőhelye", ro: "Locul de debarcare antic din Safune", en: "Safune Ancient Landing" },
     coords: [-172.4333, -13.45],
@@ -1027,6 +1059,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-aopo-lava-tube-refuge-history-v2",
+    parent: "WS",
     type: "ruins",
     name: { de: "Lavaröhren-Zuflucht von Aopo", hu: "Aopo lávacső-óvóhely", ro: "Refugiul din tubul de lavă din Aopo", en: "Aopo Lava Tube Refuge" },
     coords: [-172.55, -13.5167],
@@ -1059,6 +1092,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-samata-ancient-settlement-history-v2",
+    parent: "WS",
     type: "ruins",
     name: { de: "Antike Siedlung von Samata", hu: "Samata ősi települése", ro: "Așezarea antică din Samata", en: "Samata Ancient Settlement" },
     coords: [-172.7167, -13.6833],
@@ -1091,6 +1125,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-neiafu-archaeological-mound-history-v2",
+    parent: "WS",
     type: "ruins",
     name: { de: "Archäologischer Hügel von Neiafu", hu: "Neiafu régészeti halom", ro: "Tumulul arheologic din Neiafu", en: "Neiafu Archaeological Mound" },
     coords: [-172.7167, -13.55],
@@ -1123,6 +1158,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-papa-ancient-village-history-v2",
+    parent: "WS",
     type: "ruins",
     name: { de: "Antikes Dorf von Papa", hu: "Papa ősi faluja", ro: "Satul antic din Papa", en: "Papa Ancient Village" },
     coords: [-172.4333, -13.7833],
@@ -1155,6 +1191,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-vaisala-historic-mission-history-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Historische Mission von Vaisala", hu: "Vaisala történelmi missziója", ro: "Misiunea istorică din Vaisala", en: "Vaisala Historic Mission" },
     coords: [-172.6, -13.5167],
@@ -1187,6 +1224,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-sataua-ancient-mounds-history-v2",
+    parent: "WS",
     type: "ruins",
     name: { de: "Hügel von Sataua", hu: "Sataua halmai", ro: "Tumulii din Sataua", en: "Sataua Ancient Mounds" },
     coords: [-172.6833, -13.4833],
@@ -1219,6 +1257,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-vailoa-star-mound-history-v2",
+    parent: "WS",
     type: "ruins",
     name: { de: "Vailoa-Sternhügel", hu: "Vailoa csillaghalom", ro: "Tumulul stelat din Vailoa", en: "Vailoa Star Mound" },
     coords: [-172.3333, -13.7333],
@@ -1251,6 +1290,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-safotu-ancient-site-history-v2",
+    parent: "WS",
     type: "ruins",
     name: { de: "Antike Stätte von Safotu", hu: "Safotu ősi helyszíne", ro: "Situl antic din Safotu", en: "Safotu Ancient Site" },
     coords: [-172.4, -13.4333],
@@ -1283,6 +1323,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-letolo-plantation-mound-history-v2",
+    parent: "WS",
     type: "ruins",
     name: { de: "Hügel der Letolo-Plantage", hu: "Letolo ültetvény halma", ro: "Tumulul plantației Letolo", en: "Letolo Plantation Mound" },
     coords: [-172.3333, -13.75],
@@ -1315,6 +1356,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-puapua-historic-mission-history-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Historische Mission von Pu'apu'a", hu: "Pu'apu'a történelmi missziója", ro: "Misiunea istorică din Pu'apu'a", en: "Pu'apu'a Historic Mission" },
     coords: [-172.2333, -13.5667],
@@ -1347,6 +1389,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-sasina-mound-history-v2",
+    parent: "WS",
     type: "ruins",
     name: { de: "Sasina-Hügel", hu: "Sasina-halom", ro: "Tumulul din Sasina", en: "Sasina Mound" },
     coords: [-172.4833, -13.4667],
@@ -1379,6 +1422,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-falelima-historic-site-history-v2",
+    parent: "WS",
     type: "ruins",
     name: { de: "Historische Stätte von Falelima", hu: "Falelima történelmi helyszíne", ro: "Situl istoric din Falelima", en: "Falelima Historic Site" },
     coords: [-172.7667, -13.6333],
@@ -1411,6 +1455,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-tufutafoe-ruins-history-v2",
+    parent: "WS",
     type: "ruins",
     name: { de: "Ruinen von Tufutafoe", hu: "Tufutafoe romjai", ro: "Ruinele din Tufutafoe", en: "Tufutafoe Ruins" },
     coords: [-172.7833, -13.5167],
@@ -1443,6 +1488,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-malua-church-ruins-history-v2",
+    parent: "WS",
     type: "ruins",
     name: { de: "Alte Kirche von Malua", hu: "Malua régi temploma", ro: "Biserica veche din Malua", en: "Old Malua Church" },
     coords: [-171.856, -13.806],
@@ -1475,6 +1521,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-apia-old-wharf-history-v2",
+    parent: "WS",
     type: "port",
     name: { de: "Alter Kai von Apia", hu: "Apia régi rakpartja", ro: "Vechiul debarcader din Apia", en: "Apia Old Wharf" },
     coords: [-171.7667, -13.83],
@@ -1507,6 +1554,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-mulinuu-german-monument-history-v2",
+    parent: "WS",
     type: "monument",
     name: { de: "Deutsches Reichsflaggen-Denkmal", hu: "Német birodalmi zászló emlékmű", ro: "Monumentul steagului imperial german", en: "German Imperial Flag Monument" },
     coords: [-171.784, -13.824],
@@ -1539,6 +1587,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-tamasese-tomb-history-v2",
+    parent: "WS",
     type: "monument",
     name: { de: "Grab von Tupua Tamasese", hu: "Tupua Tamasese sírja", ro: "Mormântul lui Tupua Tamasese", en: "Tomb of Tupua Tamasese" },
     coords: [-171.7838, -13.8252],
@@ -1571,6 +1620,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-malua-memorial-church-history-v2",
+    parent: "WS",
     type: "cathedral",
     name: { de: "Malua-Gedächtniskirche", hu: "Malua emléktemplom", ro: "Biserica Memorială Malua", en: "Malua Memorial Church" },
     coords: [-171.855, -13.805],
@@ -1603,6 +1653,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-mulinuu-observatory-history-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Historisches Observatorium von Apia", hu: "Apia történelmi obszervatóriuma", ro: "Observatorul istoric din Apia", en: "Apia Historic Observatory" },
     coords: [-171.7833, -13.8117],
@@ -1635,6 +1686,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-falemauga-caves-refuge-history-v2",
+    parent: "WS",
     type: "ruins",
     name: { de: "Falemauga-Zufluchtshöhlen", hu: "Falemauga-óvóhelybarlangok", ro: "Peșterile de refugiu Falemauga", en: "Falemauga Refuge Caves" },
     coords: [-171.816, -13.916],
@@ -1667,6 +1719,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-lepa-historical-well-history-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Historischer Brunnen von Lepa", hu: "Lepa történelmi kútja", ro: "Fântâna istorică din Lepa", en: "Lepa Historical Well" },
     coords: [-171.517, -14.033],
@@ -1699,6 +1752,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-vailele-plantation-history-v2",
+    parent: "WS",
     type: "industry",
     name: { de: "Historische Vailele-Plantage", hu: "Vailele történelmi ültetvény", ro: "Plantația istorică Vailele", en: "Vailele Historic Plantation" },
     coords: [-171.73, -13.84],
@@ -1731,6 +1785,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-apia-old-post-office-history-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Altes Postamt von Apia", hu: "Apia régi postahivatala", ro: "Vechiul oficiu poștal din Apia", en: "Apia Old Post Office" },
     coords: [-171.768, -13.8325],
@@ -1763,6 +1818,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-malua-historic-library-history-v2",
+    parent: "WS",
     type: "museum",
     name: { de: "Historische Bibliothek von Malua", hu: "Malua történelmi könyvtára", ro: "Biblioteca istorică din Malua", en: "Malua Historic Library" },
     coords: [-171.8562, -13.8052],
@@ -1795,6 +1851,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-salelologa-historic-pier-history-v2",
+    parent: "WS",
     type: "port",
     name: { de: "Historischer Pier von Salelologa", hu: "Salelologa történelmi mólója", ro: "Debarcaderul istoric din Salelologa", en: "Salelologa Historic Pier" },
     coords: [-172.2167, -13.7333],
@@ -1827,6 +1884,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-lufilufi-ancient-well-history-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Antiker Brunnen von Lufilufi", hu: "Lufilufi ősi kútja", ro: "Fântâna antică din Lufilufi", en: "Lufilufi Ancient Well" },
     coords: [-171.6, -13.883],
@@ -1859,6 +1917,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-maota-o-solosolo-history-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Maota o Solosolo", hu: "Maota o Solosolo", ro: "Maota o Solosolo", en: "Maota o Solosolo" },
     coords: [-171.6333, -13.8833],
@@ -1891,6 +1950,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-falealupo-canopy-history-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Falealupo-Baumwipfelpfad-Historie", hu: "Falealupo lombkoronasétány-történet", ro: "Istoria potecii suspendate din Falealupo", en: "Falealupo Canopy Walk History" },
     coords: [-172.7833, -13.5083],
@@ -1923,6 +1983,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-malua-mission-press-history-v2",
+    parent: "WS",
     type: "industry",
     name: { de: "Missionsdruckerei von Malua", hu: "Malua missziós nyomda", ro: "Tipografia misiunii din Malua", en: "Malua Mission Press" },
     coords: [-171.8565, -13.8055],
@@ -1955,6 +2016,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-apia-town-hall-history-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Altes Rathaus von Apia", hu: "Apia régi városháza", ro: "Vechea primărie din Apia", en: "Apia Old Town Hall" },
     coords: [-171.765, -13.831],
@@ -1987,6 +2049,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-malua-theological-college-gates-history-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Tore des Malua-Kollegs", hu: "A Malua Főiskola kapui", ro: "Porțile Colegiului Malua", en: "Malua College Gates" },
     coords: [-171.8569, -13.8058],
@@ -2019,6 +2082,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-asau-ancient-star-mound-history-v2",
+    parent: "WS",
     type: "ruins",
     name: { de: "Sternhügel von Asau", hu: "Asau csillaghalom", ro: "Tumulul stelat din Asau", en: "Asau Star Mound" },
     coords: [-172.63, -13.52],
@@ -2051,6 +2115,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-salelologa-market-history-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Historischer Markt von Salelologa", hu: "Salelologa történelmi piaca", ro: "Piața istorică din Salelologa", en: "Salelologa Historic Market" },
     coords: [-172.215, -13.735],
@@ -2083,6 +2148,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-tufutafoe-historical-village-history-v2",
+    parent: "WS",
     type: "village",
     name: { de: "Historisches Dorf Tufutafoe", hu: "Tufutafoe történelmi falu", ro: "Satul istoric Tufutafoe", en: "Tufutafoe Historical Village" },
     coords: [-172.785, -13.518],
@@ -2115,6 +2181,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-malua-theological-college-chapel-history-v2",
+    parent: "WS",
     type: "church",
     name: { de: "Kapelle des Malua-Kollegs", hu: "A Malua Főiskola kápolnája", ro: "Capela Colegiului Malua", en: "Malua College Chapel" },
     coords: [-171.8564, -13.8054],
@@ -2147,6 +2214,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-mulinuu-traditional-fale-history-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Traditioneller Fale von Mulinu'u", hu: "Mulinu'u hagyományos fále", ro: "Fale tradițional din Mulinu'u", en: "Mulinu'u Traditional Fale" },
     coords: [-171.7825, -13.8245],
@@ -2179,6 +2247,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-apia-old-radio-station-history-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Alte Radiostation von Apia", hu: "Apia régi rádióállomása", ro: "Vechea stație de radio din Apia", en: "Apia Old Radio Station" },
     coords: [-171.775, -13.835],
@@ -2211,6 +2280,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-malua-print-shop-ruins-history-v2",
+    parent: "WS",
     type: "ruins",
     name: { de: "Ruinen der Malua-Druckerei", hu: "A Malua nyomda romjai", ro: "Ruinele tipografiei din Malua", en: "Malua Print Shop Ruins" },
     coords: [-171.8567, -13.8057],
@@ -2243,6 +2313,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-apia-old-hospital-history-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Altes Krankenhaus von Apia", hu: "Apia régi kórháza", ro: "Vechiul spital din Apia", en: "Apia Old Hospital" },
     coords: [-171.77, -13.84],
@@ -2275,6 +2346,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-mulinuu-chiefly-graveyard-history-v2",
+    parent: "WS",
     type: "monument",
     name: { de: "Häuptlingsfriedhof von Mulinu'u", hu: "Mulinu'u törzsfőnöki temető", ro: "Cimitirul șefilor din Mulinu'u", en: "Mulinu'u Chiefly Graveyard" },
     coords: [-171.782, -13.824],
@@ -2307,6 +2379,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-falealupo-ancient-star-mound-history-v2",
+    parent: "WS",
     type: "ruins",
     name: { de: "Sternhügel von Falealupo", hu: "Falealupo csillaghalom", ro: "Tumulul stelat din Falealupo", en: "Falealupo Star Mound" },
     coords: [-172.785, -13.505],
@@ -2339,6 +2412,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-apia-old-library-history-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Alte Bibliothek von Apia", hu: "Apia régi könyvtára", ro: "Vechea bibliotecă din Apia", en: "Apia Old Library" },
     coords: [-171.767, -13.832],
@@ -2371,6 +2445,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-malua-historic-dormitories-history-v2",
+    parent: "WS",
     type: "landmark",
     name: { de: "Historische Wohnheime von Malua", hu: "Malua történelmi kollégiumai", ro: "Căminele istorice din Malua", en: "Malua Historic Dormitories" },
     coords: [-171.8561, -13.8051],
@@ -2403,6 +2478,7 @@ export const samoaHistoryV2: POI[] = [
   },
   {
     id: "samoa-apia-old-lighthouse-history-v2",
+    parent: "WS",
     type: "tower",
     name: { de: "Alter Leuchtturm von Apia", hu: "Apia régi világítótornya", ro: "Vechiul far din Apia", en: "Apia Old Lighthouse" },
     coords: [-171.77, -13.82],

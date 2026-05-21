@@ -3,6 +3,7 @@ export const saintluciaReliefV2: POI[] = [
 
   {
     id: "saintlucia-mount-tabac-relief-v2",
+    parent: "LC",
     type: "peak",
     name: { de: "Mount Tabac", hu: "Mount Tabac", ro: "Muntele Tabac", en: "Mount Tabac" },
     coords: [-61.0258, 13.8647],
@@ -35,6 +36,7 @@ export const saintluciaReliefV2: POI[] = [
   },
   {
     id: "saintlucia-mount-grand-magazin-relief-v2",
+    parent: "LC",
     type: "peak",
     name: { de: "Mount Grand Magazin", hu: "Mount Grand Magazin", ro: "Muntele Grand Magazin", en: "Mount Grand Magazin" },
     coords: [-61.0117, 13.8294],
@@ -67,6 +69,7 @@ export const saintluciaReliefV2: POI[] = [
   },
   {
     id: "saintlucia-mount-parasol-relief-v2",
+    parent: "LC",
     type: "peak",
     name: { de: "Mount Parasol", hu: "Mount Parasol", ro: "Muntele Parasol", en: "Mount Parasol" },
     coords: [-60.9983, 13.8825],
@@ -99,6 +102,7 @@ export const saintluciaReliefV2: POI[] = [
   },
   {
     id: "saintlucia-piton-canarie-relief-v2",
+    parent: "LC",
     type: "peak",
     name: { de: "Piton Canarie", hu: "Piton Canarie", ro: "Piton Canarie", en: "Piton Canarie" },
     coords: [-61.0458, 13.8961],
@@ -131,6 +135,7 @@ export const saintluciaReliefV2: POI[] = [
   },
   {
     id: "saintlucia-mount-du-chazeau-relief-v2",
+    parent: "LC",
     type: "peak",
     name: { de: "Mount du Chazeau", hu: "Mount du Chazeau", ro: "Muntele du Chazeau", en: "Mount du Chazeau" },
     coords: [-60.9258, 13.9536],
@@ -163,6 +168,7 @@ export const saintluciaReliefV2: POI[] = [
   },
   {
     id: "saintlucia-barre-de-lisle-ridge-relief-v2",
+    parent: "LC",
     type: "peak",
     name: { de: "Barre de l'Isle Gebirgskamm", hu: "Barre de l'Isle hegylánc", ro: "Creasta Barre de l'Isle", en: "Barre de l'Isle Ridge" },
     coords: [-60.9575, 13.9181],
@@ -195,6 +201,7 @@ export const saintluciaReliefV2: POI[] = [
   },
   {
     id: "saintlucia-mabouya-valley-relief-v2",
+    parent: "LC",
     type: "valley",
     name: { de: "Mabouya-Tal", hu: "Mabouya-völgy", ro: "Valea Mabouya", en: "Mabouya Valley" },
     coords: [-60.9167, 13.9042],
@@ -227,6 +234,7 @@ export const saintluciaReliefV2: POI[] = [
   },
   {
     id: "saintlucia-roseau-valley-relief-v2",
+    parent: "LC",
     type: "valley",
     name: { de: "Roseau-Tal", hu: "Roseau-völgy", ro: "Valea Roseau", en: "Roseau Valley" },
     coords: [-61.0267, 13.9511],
@@ -259,6 +267,7 @@ export const saintluciaReliefV2: POI[] = [
   },
   {
     id: "saintlucia-soufriere-volcanic-basin-relief-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Soufrière-Vulkanbecken", hu: "Soufrière vulkáni medence", ro: "Bazinul Vulcanic Soufrière", en: "Soufrière Volcanic Basin" },
     coords: [-61.05, 13.8333],
@@ -291,6 +300,7 @@ export const saintluciaReliefV2: POI[] = [
   },
   {
     id: "saintlucia-mount-bellevue-relief-v2",
+    parent: "LC",
     type: "peak",
     name: { de: "Mount Bellevue", hu: "Mount Bellevue", ro: "Muntele Bellevue", en: "Mount Bellevue" },
     coords: [-60.975, 13.7917],
@@ -323,6 +333,7 @@ export const saintluciaReliefV2: POI[] = [
   },
   {
     id: "saintlucia-vigie-promontory-relief-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Vigie-Halbinsel", hu: "Vigie-félsziget", ro: "Promontoriul Vigie", en: "Vigie Promontory" },
     coords: [-61.0083, 14.025],
@@ -355,6 +366,7 @@ export const saintluciaReliefV2: POI[] = [
   },
   {
     id: "saintlucia-mount-pimard-relief-v2",
+    parent: "LC",
     type: "peak",
     name: { de: "Mount Pimard", hu: "Mount Pimard", ro: "Muntele Pimard", en: "Mount Pimard" },
     coords: [-60.96, 14.07],
@@ -387,6 +399,7 @@ export const saintluciaReliefV2: POI[] = [
   },
   {
     id: "saintlucia-moule-a-chique-relief-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Moule à Chique", hu: "Moule à Chique", ro: "Moule à Chique", en: "Moule à Chique" },
     coords: [-60.9417, 13.7167],
@@ -419,6 +432,7 @@ export const saintluciaReliefV2: POI[] = [
   },
   {
     id: "saintlucia-dennery-highlands-relief-v2",
+    parent: "LC",
     type: "mountain",
     name: { de: "Dennery Hochland", hu: "Dennery-felföld", ro: "Podișul Dennery", en: "Dennery Highlands" },
     coords: [-60.9, 13.9167],
@@ -451,6 +465,7 @@ export const saintluciaReliefV2: POI[] = [
   },
   {
     id: "saintlucia-choiseul-plateau-relief-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Choiseul-Plateau", hu: "Choiseul-fennsík", ro: "Platoul Choiseul", en: "Choiseul Plateau" },
     coords: [-61.0333, 13.7833],
@@ -483,6 +498,7 @@ export const saintluciaReliefV2: POI[] = [
   },
   {
     id: "saintlucia-laborie-hills-relief-v2",
+    parent: "LC",
     type: "mountain",
     name: { de: "Laborie Hügel", hu: "Laborie-dombság", ro: "Dealurile Laborie", en: "Laborie Hills" },
     coords: [-60.9833, 13.7667],
@@ -515,6 +531,7 @@ export const saintluciaReliefV2: POI[] = [
   },
   {
     id: "saintlucia-marigot-bay-ridge-relief-v2",
+    parent: "LC",
     type: "peak",
     name: { de: "Marigot Bay Gebirgsrücken", hu: "Marigot-öböl hegygerinc", ro: "Creasta Golfului Marigot", en: "Marigot Bay Ridge" },
     coords: [-61.025, 13.9667],
@@ -547,6 +564,7 @@ export const saintluciaReliefV2: POI[] = [
   },
   {
     id: "saintlucia-cap-estate-plateau-relief-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Cap Estate Plateau", hu: "Cap Estate fennsík", ro: "Platoul Cap Estate", en: "Cap Estate Plateau" },
     coords: [-60.945, 14.095],
@@ -579,6 +597,7 @@ export const saintluciaReliefV2: POI[] = [
   },
   {
     id: "saintlucia-mount-mortier-relief-v2",
+    parent: "LC",
     type: "peak",
     name: { de: "Mount Mortier", hu: "Mount Mortier", ro: "Muntele Mortier", en: "Mount Mortier" },
     coords: [-60.9583, 13.8125],
@@ -611,6 +630,7 @@ export const saintluciaReliefV2: POI[] = [
   },
   {
     id: "saintlucia-grand-riviere-valley-relief-v2",
+    parent: "LC",
     type: "valley",
     name: { de: "Grand Rivière Tal", hu: "Grand Rivière völgy", ro: "Valea Grand Rivière", en: "Grand Rivière Valley" },
     coords: [-60.9167, 14.0417],
@@ -643,6 +663,7 @@ export const saintluciaReliefV2: POI[] = [
   },
   {
     id: "saintlucia-troumassee-river-basin-relief-v2",
+    parent: "LC",
     type: "valley",
     name: { de: "Troumassée-Flussbecken", hu: "Troumassée-folyómedence", ro: "Bazinul Râului Troumassée", en: "Troumassée River Basin" },
     coords: [-60.9167, 13.8333],
@@ -675,6 +696,7 @@ export const saintluciaReliefV2: POI[] = [
   },
   {
     id: "saintlucia-fond-d-or-bay-cliffs-relief-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Fond d'Or Klippen", hu: "Fond d'Or sziklák", ro: "Stâncile Fond d'Or", en: "Fond d'Or Cliffs" },
     coords: [-60.8917, 13.925],
@@ -707,6 +729,7 @@ export const saintluciaReliefV2: POI[] = [
   },
   {
     id: "saintlucia-mount-sion-relief-v2",
+    parent: "LC",
     type: "peak",
     name: { de: "Mount Sion", hu: "Mount Sion", ro: "Muntele Sion", en: "Mount Sion" },
     coords: [-61.0, 13.7833],
@@ -739,6 +762,7 @@ export const saintluciaReliefV2: POI[] = [
   },
   {
     id: "saintlucia-petit-piton-waterfall-relief-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Petit Piton Wasserfall-Relief", hu: "Petit Piton vízesés-domborzat", ro: "Relieful Cascadei Petit Piton", en: "Petit Piton Waterfall Relief" },
     coords: [-61.06, 13.84],
@@ -771,6 +795,7 @@ export const saintluciaReliefV2: POI[] = [
   },
   {
     id: "saintlucia-morne-coubaril-plateau-relief-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Morne Coubaril Plateau", hu: "Morne Coubaril fennsík", ro: "Platoul Morne Coubaril", en: "Morne Coubaril Plateau" },
     coords: [-61.055, 13.845],

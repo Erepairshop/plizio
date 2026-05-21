@@ -3,6 +3,7 @@ export const lesothoHistoryV2: POI[] = [
 
   {
     id: "lesotho-menkhoaneng-history-v2",
+    parent: "LS",
     type: "village",
     name: { de: "Menkhoaneng", hu: "Menkhoaneng", ro: "Menkhoaneng", en: "Menkhoaneng" },
     coords: [28.2833, -28.7833],
@@ -35,6 +36,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-cana-mission-history-v2",
+    parent: "LS",
     type: "church",
     name: { de: "Cana Mission", hu: "Cana misszió", ro: "Misiunea Cana", en: "Cana Mission" },
     coords: [27.8833, -29.15],
@@ -67,6 +69,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-masitise-cave-history-v2",
+    parent: "LS",
     type: "museum",
     name: { de: "Masitise Cave", hu: "Masitise-barlang", ro: "Peștera Masitise", en: "Masitise Cave" },
     coords: [27.65, -30.4],
@@ -99,6 +102,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-liphofung-centre-history-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Liphofung Centre", hu: "Liphofung Központ", ro: "Centrul Liphofung", en: "Liphofung Centre" },
     coords: [28.45, -28.75],
@@ -131,6 +135,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-sehonghong-shelter-history-v2",
+    parent: "LS",
     type: "ruins",
     name: { de: "Sehonghong Shelter", hu: "Sehonghong-sziklaeresz", ro: "Adăpostul Sehonghong", en: "Sehonghong Shelter" },
     coords: [28.75, -29.75],
@@ -163,6 +168,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-melikane-shelter-history-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Melikane Shelter", hu: "Melikane-sziklaeresz", ro: "Adăpostul Melikane", en: "Melikane Shelter" },
     coords: [28.45, -29.9],
@@ -195,6 +201,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-makotoko-site-history-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Makotoko Site", hu: "Makotoko-helyszín", ro: "Situl Makotoko", en: "Makotoko Site" },
     coords: [27.65, -29.3],
@@ -227,6 +234,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-hermon-ruins-history-v2",
+    parent: "LS",
     type: "ruins",
     name: { de: "Hermon Ruins", hu: "Hermon-romok", ro: "Ruinele Hermon", en: "Hermon Ruins" },
     coords: [27.25, -29.85],
@@ -259,6 +267,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-siloe-hill-history-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Siloe Hill", hu: "Siloé-domb", ro: "Dealul Siloe", en: "Siloe Hill" },
     coords: [27.2, -29.95],
@@ -291,6 +300,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-bethesda-church-history-v2",
+    parent: "LS",
     type: "church",
     name: { de: "Bethesda Church", hu: "Bethesda-templom", ro: "Biserica Bethesda", en: "Bethesda Church" },
     coords: [27.35, -29.9833],
@@ -323,6 +333,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-tebellong-station-history-v2",
+    parent: "LS",
     type: "village",
     name: { de: "Tebellong Station", hu: "Tebellong-állomás", ro: "Stația Tebellong", en: "Tebellong Station" },
     coords: [28.45, -30.1],
@@ -355,6 +366,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-paray-history-v2",
+    parent: "LS",
     type: "monument",
     name: { de: "Paray History", hu: "Paray-történet", ro: "Istoria Paray", en: "Paray History" },
     coords: [28.6, -29.53],
@@ -387,6 +399,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-maliele-art-history-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Maliele Art", hu: "Maliele-művészet", ro: "Arta Maliele", en: "Maliele Art" },
     coords: [27.75, -29.4],
@@ -419,6 +432,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-sebapala-site-history-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Sebapala Site", hu: "Sebapala-helyszín", ro: "Situl Sebapala", en: "Sebapala Site" },
     coords: [27.95, -30.35],
@@ -451,6 +465,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-qhomane-hill-history-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Qhomane Hill", hu: "Qhomane-domb", ro: "Dealul Qhomane", en: "Qhomane Hill" },
     coords: [27.35, -29.85],
@@ -483,6 +498,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-koalabata-ruins-history-v2",
+    parent: "LS",
     type: "ruins",
     name: { de: "Koalabata Ruins", hu: "Koalabata-romok", ro: "Ruinele Koalabata", en: "Koalabata Ruins" },
     coords: [27.55, -29.2833],
@@ -515,6 +531,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-lancers-gap-history-v2",
+    parent: "LS",
     type: "battlefield",
     name: { de: "Lancers Gap", hu: "Lancers-szoros", ro: "Pasul Lancers", en: "Lancers Gap" },
     coords: [27.52, -29.28],
@@ -547,6 +564,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-pius-xii-college-history-v2",
+    parent: "LS",
     type: "university",
     name: { de: "Pius XII College", hu: "Pius XII Kollégium", ro: "Colegiul Pius XII", en: "Pius XII College" },
     coords: [27.7167, -29.6667],
@@ -579,6 +597,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-major-bell-tower-history-v2",
+    parent: "LS",
     type: "tower",
     name: { de: "Major Bell Tower", hu: "Bell őrnagy tornya", ro: "Turnul Maiorului Bell", en: "Major Bell Tower" },
     coords: [28.05, -28.8667],
@@ -611,6 +630,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-fort-hartley-history-v2",
+    parent: "LS",
     type: "ruins",
     name: { de: "Fort Hartley", hu: "Fort Hartley", ro: "Fort Hartley", en: "Fort Hartley" },
     coords: [27.7, -30.3833],
@@ -643,6 +663,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-our-lady-victories-history-v2",
+    parent: "LS",
     type: "cathedral",
     name: { de: "Our Lady of Victories", hu: "Győzelmes Miasszonyunk", ro: "Sfânta Maria a Victoriilor", en: "Our Lady of Victories" },
     coords: [27.4833, -29.3167],
@@ -675,6 +696,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-christ-the-king-history-v2",
+    parent: "LS",
     type: "cathedral",
     name: { de: "Christ the King", hu: "Krisztus Király", ro: "Cristos Rege", en: "Christ the King" },
     coords: [27.4833, -29.3333],
@@ -707,6 +729,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-paris-evangelical-history-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Paris Evangelical Mission", hu: "Párizsi Evangélikus Misszió", ro: "Misiunea Evanghelică din Paris", en: "Paris Evangelical Mission" },
     coords: [27.5167, -29.6333],
@@ -739,6 +762,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-gun-war-memorial-history-v2",
+    parent: "LS",
     type: "monument",
     name: { de: "Gun War Memorial", hu: "Fegyveres háború emlékműve", ro: "Monumentul Războiului Armelor", en: "Gun War Memorial" },
     coords: [27.2333, -29.8167],
@@ -771,6 +795,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-basotho-hat-history-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Basotho Hat", hu: "Basotho kalap", ro: "Pălăria Basotho", en: "Basotho Hat" },
     coords: [27.485, -29.31],
@@ -803,6 +828,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-maluti-hospital-history-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Maluti Hospital", hu: "Maluti Kórház", ro: "Spitalul Maluti", en: "Maluti Hospital" },
     coords: [27.95, -29.12],
@@ -835,6 +861,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-st-monica-mission-history-v2",
+    parent: "LS",
     type: "church",
     name: { de: "St Monica Mission", hu: "Szent Mónika misszió", ro: "Misiunea Sfânta Monica", en: "St Monica Mission" },
     coords: [28.0167, -28.95],
@@ -867,6 +894,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-st-gerard-mission-history-v2",
+    parent: "LS",
     type: "church",
     name: { de: "St Gerard Mission", hu: "Szent Gellért misszió", ro: "Misiunea Sfântul Gerard", en: "St Gerard Mission" },
     coords: [27.23, -29.81],
@@ -899,6 +927,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-st-agnes-mission-history-v2",
+    parent: "LS",
     type: "church",
     name: { de: "St Agnes Mission", hu: "Szent Ágnes misszió", ro: "Misiunea Sfânta Agnes", en: "St Agnes Mission" },
     coords: [27.74, -29.14],
@@ -931,6 +960,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-st-pauls-mission-history-v2",
+    parent: "LS",
     type: "church",
     name: { de: "St Pauls Mission", hu: "Szent Pál misszió", ro: "Misiunea Sfântul Paul", en: "St Pauls Mission" },
     coords: [28.24, -28.77],
@@ -963,6 +993,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-st-james-mission-history-v2",
+    parent: "LS",
     type: "church",
     name: { de: "St James Mission", hu: "Szent Jakab misszió", ro: "Misiunea Sfântul Iacob", en: "St James Mission" },
     coords: [29.06, -29.28],
@@ -995,6 +1026,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-national-archives-history-v2",
+    parent: "LS",
     type: "museum",
     name: { de: "National Archives", hu: "Nemzeti Archívum", ro: "Arhivele Naționale", en: "National Archives" },
     coords: [27.481, -29.312],
@@ -1027,6 +1059,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-wwii-memorial-history-v2",
+    parent: "LS",
     type: "monument",
     name: { de: "WWII Memorial", hu: "II. világháborús emlékmű", ro: "Monumentul celui de-al Doilea Război Mondial", en: "WWII Memorial" },
     coords: [27.482, -29.315],
@@ -1059,6 +1092,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-basotho-shield-history-v2",
+    parent: "LS",
     type: "monument",
     name: { de: "Basotho Shield", hu: "Basotho pajzs", ro: "Scutul Basotho", en: "Basotho Shield" },
     coords: [27.501, -29.314],
@@ -1091,6 +1125,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-old-train-station-history-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Old Train Station", hu: "Régi vasútállomás", ro: "Vechea Gară", en: "Old Train Station" },
     coords: [27.475, -29.3],
@@ -1123,6 +1158,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-post-office-museum-history-v2",
+    parent: "LS",
     type: "museum",
     name: { de: "Post Office Museum", hu: "Postamúzeum", ro: "Muzeul Poștei", en: "Post Office Museum" },
     coords: [27.482, -29.311],
@@ -1155,6 +1191,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-leribe-craft-centre-history-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Leribe Craft Centre", hu: "Leribe Kézműves Központ", ro: "Centrul de Meșteșuguri Leribe", en: "Leribe Craft Centre" },
     coords: [28.045, -28.87],
@@ -1187,6 +1224,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-leribe-mission-history-v2",
+    parent: "LS",
     type: "church",
     name: { de: "Leribe Mission", hu: "Leribe misszió", ro: "Misiunea Leribe", en: "Leribe Mission" },
     coords: [28.0417, -28.8833],
@@ -1219,6 +1257,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-ellenberger-cave-history-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Ellenberger Cave", hu: "Ellenberger-barlang", ro: "Peștera Ellenberger", en: "Ellenberger Cave" },
     coords: [27.655, -30.41],
@@ -1251,6 +1290,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-moshoeshoe-statue-history-v2",
+    parent: "LS",
     type: "monument",
     name: { de: "Moshoeshoe Statue", hu: "Moshoeshoe-szobor", ro: "Statuia lui Moshoeshoe", en: "Moshoeshoe Statue" },
     coords: [27.478, -29.3105],
@@ -1283,6 +1323,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-mofoka-village-history-v2",
+    parent: "LS",
     type: "village",
     name: { de: "Mofoka Village", hu: "Mofoka falu", ro: "Satul Mofoka", en: "Mofoka Village" },
     coords: [27.45, -29.55],
@@ -1315,6 +1356,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-likhoele-mission-history-v2",
+    parent: "LS",
     type: "church",
     name: { de: "Likhoele Mission", hu: "Likhoele misszió", ro: "Misiunea Likhoele", en: "Likhoele Mission" },
     coords: [27.28, -29.88],
@@ -1347,6 +1389,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-koro-koro-site-history-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Koro-Koro Site", hu: "Koro-Koro-helyszín", ro: "Situl Koro-Koro", en: "Koro-Koro Site" },
     coords: [27.65, -29.48],
@@ -1379,6 +1422,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-qeme-plateau-history-v2",
+    parent: "LS",
     type: "battlefield",
     name: { de: "Qeme Plateau", hu: "Qeme-fennsík", ro: "Podișul Qeme", en: "Qeme Plateau" },
     coords: [27.48, -29.45],
@@ -1411,6 +1455,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-korannaberg-history-v2",
+    parent: "LS",
     type: "battlefield",
     name: { de: "Korannaberg", hu: "Korannaberg", ro: "Korannaberg", en: "Korannaberg" },
     coords: [27.4, -29.15],
@@ -1443,6 +1488,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-viervoet-history-v2",
+    parent: "LS",
     type: "battlefield",
     name: { de: "Viervoet", hu: "Viervoet", ro: "Viervoet", en: "Viervoet" },
     coords: [27.45, -29.2],
@@ -1475,6 +1521,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-berea-mission-history-v2",
+    parent: "LS",
     type: "church",
     name: { de: "Berea Mission", hu: "Berea misszió", ro: "Misiunea Berea", en: "Berea Mission" },
     coords: [27.65, -29.15],
@@ -1507,6 +1554,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-mokema-site-history-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Mokema Site", hu: "Mokema-helyszín", ro: "Situl Mokema", en: "Mokema Site" },
     coords: [27.6833, -29.5],
@@ -1539,6 +1587,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-national-university-heritage-v2",
+    parent: "LS",
     type: "university",
     name: { de: "National University Heritage", hu: "Nemzeti Egyetem Örökség", ro: "Patrimoniul Universității Naționale", en: "National University Heritage" },
     coords: [27.7333, -29.68],
@@ -1571,6 +1620,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-st-benedict-mission-history-v2",
+    parent: "LS",
     type: "church",
     name: { de: "St Benedict Mission", hu: "Szent Benedek misszió", ro: "Misiunea Sfântul Benedict", en: "St Benedict Mission" },
     coords: [28.15, -29.1],
@@ -1603,6 +1653,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-mafeteng-residency-history-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Mafeteng Residency", hu: "Mafetengi rezidencia", ro: "Reședința din Mafeteng", en: "Mafeteng Residency" },
     coords: [27.245, -29.82],
@@ -1635,6 +1686,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-mokhotlong-residency-history-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Mokhotlong Residency", hu: "Mokhotlongi rezidencia", ro: "Reședința din Mokhotlong", en: "Mokhotlong Residency" },
     coords: [29.066, -29.283],
@@ -1667,6 +1719,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-st-gerard-cathedral-history-v2",
+    parent: "LS",
     type: "cathedral",
     name: { de: "St Gerard Cathedral", hu: "Szent Gellért székesegyház", ro: "Catedrala Sfântul Gerard", en: "St Gerard Cathedral" },
     coords: [27.235, -29.815],
@@ -1699,6 +1752,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-royal-archives-history-v2",
+    parent: "LS",
     type: "museum",
     name: { de: "Royal Archives", hu: "Királyi Archívum", ro: "Arhivele Regale", en: "Royal Archives" },
     coords: [27.52, -29.63],
@@ -1731,6 +1785,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-st-paul-anglican-history-v2",
+    parent: "LS",
     type: "church",
     name: { de: "St Paul Anglican", hu: "Szent Pál anglikán", ro: "Sfântul Paul Anglican", en: "St Paul Anglican" },
     coords: [28.25, -28.78],
@@ -1763,6 +1818,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-st-james-mokhotlong-history-v2",
+    parent: "LS",
     type: "church",
     name: { de: "St James Mokhotlong", hu: "Szent Jakab Mokhotlong", ro: "Sfântul Iacob Mokhotlong", en: "St James Mokhotlong" },
     coords: [29.068, -29.285],
@@ -1795,6 +1851,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-heritage-museum-history-v2",
+    parent: "LS",
     type: "museum",
     name: { de: "Heritage Museum", hu: "Örökség Múzeum", ro: "Muzeul Patrimoniului", en: "Heritage Museum" },
     coords: [27.485, -29.31],
@@ -1827,6 +1884,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-st-judes-history-v2",
+    parent: "LS",
     type: "church",
     name: { de: "St Judes", hu: "Szent Júdás", ro: "Sfântul Iuda", en: "St Judes" },
     coords: [27.55, -29.35],
@@ -1859,6 +1917,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-st-teresa-history-v2",
+    parent: "LS",
     type: "church",
     name: { de: "St Teresa", hu: "Szent Teréz", ro: "Sfânta Tereza", en: "St Teresa" },
     coords: [27.495, -29.32],
@@ -1891,6 +1950,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-kings-palace-history-v2",
+    parent: "LS",
     type: "palace",
     name: { de: "Kings Palace", hu: "Királyi palota", ro: "Palatul Regal", en: "Kings Palace" },
     coords: [27.4815, -29.3108],
@@ -1923,6 +1983,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-national-stadium-history-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "National Stadium", hu: "Nemzeti Stadion", ro: "Stadionul Național", en: "National Stadium" },
     coords: [27.476, -29.314],
@@ -1955,6 +2016,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-victoria-hotel-history-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Victoria Hotel", hu: "Victoria Hotel", ro: "Hotel Victoria", en: "Victoria Hotel" },
     coords: [27.486, -29.313],
@@ -1987,6 +2049,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-maseru-club-history-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Maseru Club", hu: "Maseru Club", ro: "Clubul Maseru", en: "Maseru Club" },
     coords: [27.488, -29.315],
@@ -2019,6 +2082,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-st-bernadette-history-v2",
+    parent: "LS",
     type: "church",
     name: { de: "St Bernadette", hu: "Szent Bernadett", ro: "Sfânta Bernadette", en: "St Bernadette" },
     coords: [27.49, -29.325],
@@ -2051,6 +2115,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-pioneer-monument-history-v2",
+    parent: "LS",
     type: "monument",
     name: { de: "Pioneer Monument", hu: "Úttörők emlékműve", ro: "Monumentul Pionierilor", en: "Pioneer Monument" },
     coords: [27.487, -29.311],
@@ -2083,6 +2148,7 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-government-plaza-history-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Government Plaza", hu: "Kormányzati tér", ro: "Piața Guvernului", en: "Government Plaza" },
     coords: [27.486, -29.312],

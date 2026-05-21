@@ -3,6 +3,7 @@ export const saintluciaLandmarksV2: POI[] = [
 
   {
     id: "saintlucia-vieux-fort-lighthouse-landmarks-v2",
+    parent: "LC",
     type: "tower",
     name: { de: "Leuchtturm von Vieux Fort", hu: "Vieux Fort világítótorony", ro: "Farul din Vieux Fort", en: "Vieux Fort Lighthouse" },
     coords: [-60.9431, 13.7125],
@@ -35,6 +36,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-soufriere-church-landmarks-v2",
+    parent: "LC",
     type: "church",
     name: { de: "Kirche Mariä Himmelfahrt", hu: "Nagyboldogasszony-templom", ro: "Biserica Adormirea Maicii Domnului", en: "Church of the Assumption" },
     coords: [-61.0565, 13.8562],
@@ -67,6 +69,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-pigeon-island-museum-landmarks-v2",
+    parent: "LC",
     type: "museum",
     name: { de: "Pigeon Island Museum", hu: "Pigeon Island Múzeum", ro: "Muzeul Insulei Pigeon", en: "Pigeon Island Museum" },
     coords: [-60.9635, 14.091],
@@ -99,6 +102,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-marigot-bay-bridge-landmarks-v2",
+    parent: "LC",
     type: "bridge",
     name: { de: "Marigot Bay Brücke", hu: "Marigot Bay híd", ro: "Podul din Golful Marigot", en: "Marigot Bay Bridge" },
     coords: [-61.0233, 13.9644],
@@ -131,6 +135,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-morne-coubaril-estate-house-landmarks-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Herrenhaus Morne Coubaril", hu: "Morne Coubaril kúria", ro: "Conacul Morne Coubaril", en: "Morne Coubaril Estate House" },
     coords: [-61.0561, 13.8445],
@@ -163,6 +168,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-fond-doux-heritage-site-landmarks-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Fond Doux Kulturerbe", hu: "Fond Doux örökség", ro: "Sit de patrimoniu Fond Doux", en: "Fond Doux Heritage Site" },
     coords: [-61.0531, 13.8322],
@@ -195,6 +201,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-balenbouche-estate-ruins-landmarks-v2",
+    parent: "LC",
     type: "ruins",
     name: { de: "Balenbouche Ruinen", hu: "Balenbouche romok", ro: "Ruinele Balenbouche", en: "Balenbouche Estate Ruins" },
     coords: [-61.0264, 13.7533],
@@ -227,6 +234,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-choiseul-arts-centre-landmarks-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Choiseul Kunstzentrum", hu: "Choiseul kézműves központ", ro: "Centrul de arte Choiseul", en: "Choiseul Arts Centre" },
     coords: [-61.0505, 13.7741],
@@ -259,6 +267,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-sir-arthur-lewis-college-landmarks-v2",
+    parent: "LC",
     type: "university",
     name: { de: "Sir Arthur Lewis College Gebäude", hu: "Sir Arthur Lewis Főiskola épülete", ro: "Clădirea Colegiului Sir Arthur Lewis", en: "Sir Arthur Lewis College Building" },
     coords: [-60.9855, 14.0042],
@@ -291,6 +300,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-roseau-sugar-factory-chimney-landmarks-v2",
+    parent: "LC",
     type: "ruins",
     name: { de: "Roseau Schornstein", hu: "Roseau-i gyárkémény", ro: "Coșul fabricii din Roseau", en: "Roseau Sugar Factory Chimney" },
     coords: [-61.0255, 13.9481],
@@ -323,6 +333,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-canaries-bridge-landmarks-v2",
+    parent: "LC",
     type: "bridge",
     name: { de: "Canaries Brücke", hu: "Canaries híd", ro: "Podul din Canaries", en: "Canaries Bridge" },
     coords: [-61.0641, 13.9033],
@@ -355,6 +366,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-anse-la-raye-church-landmarks-v2",
+    parent: "LC",
     type: "church",
     name: { de: "Kirche von Anse La Raye", hu: "Anse La Raye temploma", ro: "Biserica din Anse La Raye", en: "Anse La Raye Catholic Church" },
     coords: [-61.0422, 13.9389],
@@ -387,6 +399,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-laborie-square-fountain-landmarks-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Laborie Platzbrunnen", hu: "Laborie-i szökőkút", ro: "Fântâna din Piața Laborie", en: "Laborie Square Fountain" },
     coords: [-60.9958, 13.7481],
@@ -419,6 +432,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-laborie-church-purification-landmarks-v2",
+    parent: "LC",
     type: "church",
     name: { de: "Kirche der Reinigung", hu: "Tisztulás temploma", ro: "Biserica Purificării", en: "Church of the Purification" },
     coords: [-60.9955, 13.7478],
@@ -451,6 +465,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-maria-islands-interpretive-centre-landmarks-v2",
+    parent: "LC",
     type: "museum",
     name: { de: "Maria Islands Infozentrum", hu: "Maria-szigetek látogatóközpont", ro: "Centrul Maria Islands", en: "Maria Islands Interpretive Centre" },
     coords: [-60.9412, 13.7291],
@@ -483,6 +498,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-micoud-parish-church-landmarks-v2",
+    parent: "LC",
     type: "church",
     name: { de: "St. Lucia Pfarrkirche Micoud", hu: "Szent Lucia plébániatemplom", ro: "Biserica Parohială Sfânta Lucia", en: "St. Lucy Parish Church" },
     coords: [-60.9022, 13.8153],
@@ -515,6 +531,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-dennery-fish-market-landmarks-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Fischmarkt von Dennery", hu: "Dennery halpiac", ro: "Piața de pește din Dennery", en: "Dennery Fish Market" },
     coords: [-60.8925, 13.8995],
@@ -547,6 +564,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-castries-city-hall-landmarks-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Rathaus von Castries", hu: "Castries városháza", ro: "Primăria din Castries", en: "Castries City Hall" },
     coords: [-60.9902, 14.0083],
@@ -579,6 +597,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-diamond-estate-mill-ruins-landmarks-v2",
+    parent: "LC",
     type: "ruins",
     name: { de: "Diamond Estate Mühlenruinen", hu: "Diamond Estate malomromok", ro: "Ruinele morii Diamond Estate", en: "Diamond Estate Mill Ruins" },
     coords: [-61.0475, 13.8524],
@@ -611,6 +630,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-soufriere-town-hall-landmarks-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Rathaus von Soufrière", hu: "Soufrière városháza", ro: "Primăria din Soufrière", en: "Soufrière Town Hall" },
     coords: [-61.0571, 13.8565],
@@ -643,6 +663,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-gros-islet-waterfront-landmarks-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Uferpromenade von Gros Islet", hu: "Gros Islet tengerparti sétány", ro: "Faleza din Gros Islet", en: "Gros Islet Waterfront" },
     coords: [-60.9542, 14.0825],
@@ -675,6 +696,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-rodney-bay-marina-pier-landmarks-v2",
+    parent: "LC",
     type: "port",
     name: { de: "Rodney Bay Marina Pier", hu: "Rodney Bay Marina móló", ro: "Mollul Marina Rodney Bay", en: "Rodney Bay Marina Pier" },
     coords: [-60.9481, 14.0744],
@@ -707,6 +729,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-pigeon-island-quarters-ruins-landmarks-v2",
+    parent: "LC",
     type: "ruins",
     name: { de: "Offiziersquartier Ruinen", hu: "Tiszti lakások romjai", ro: "Ruinele cartierului ofițerilor", en: "Officers Quarters Ruins" },
     coords: [-60.9638, 14.0921],
@@ -739,6 +762,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-morne-fortune-cemetery-landmarks-v2",
+    parent: "LC",
     type: "monument",
     name: { de: "Militärfriedhof Morne Fortune", hu: "Morne Fortune katonai temető", ro: "Cimitirul militar Morne Fortune", en: "Morne Fortune Military Cemetery" },
     coords: [-60.9839, 14.0048],
@@ -771,6 +795,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-castries-waterfront-obelisk-landmarks-v2",
+    parent: "LC",
     type: "monument",
     name: { de: "Castries Ufer-Obelisk", hu: "Castries-i parti obeliszk", ro: "Obeliscul de pe faleza Castries", en: "Castries Waterfront Obelisk" },
     coords: [-60.9921, 14.0105],
@@ -803,6 +828,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-eudovic-art-studio-landmarks-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Eudovic Kunststudio", hu: "Eudovic művészeti stúdió", ro: "Studioul de artă Eudovic", en: "Eudovic Art Studio" },
     coords: [-60.9881, 13.9922],
@@ -835,6 +861,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-praslin-bay-bridge-landmarks-v2",
+    parent: "LC",
     type: "bridge",
     name: { de: "Praslin Bay Brücke", hu: "Praslin-öböl hídja", ro: "Podul din Golful Praslin", en: "Praslin Bay Bridge" },
     coords: [-60.9015, 13.8755],
@@ -867,6 +894,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-vieux-fort-town-hall-landmarks-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Rathaus von Vieux Fort", hu: "Vieux Fort városháza", ro: "Primăria din Vieux Fort", en: "Vieux Fort Town Hall" },
     coords: [-60.9505, 13.7214],
@@ -899,6 +927,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-cul-de-sac-bridge-landmarks-v2",
+    parent: "LC",
     type: "bridge",
     name: { de: "Cul de Sac Brücke", hu: "Cul de Sac híd", ro: "Podul din Cul de Sac", en: "Cul de Sac Bridge" },
     coords: [-61.0012, 13.9855],
@@ -931,6 +960,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-millet-visitor-centre-landmarks-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Millet Besucherzentrum", hu: "Millet látogatóközpont", ro: "Centrul de vizitatori Millet", en: "Millet Visitor Centre" },
     coords: [-60.9855, 13.9082],
@@ -963,6 +993,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-saltibus-waterfall-bridge-landmarks-v2",
+    parent: "LC",
     type: "bridge",
     name: { de: "Saltibus Wasserfallbrücke", hu: "Saltibus vízesés hídja", ro: "Podul Cascadei Saltibus", en: "Saltibus Waterfall Bridge" },
     coords: [-61.0025, 13.8012],
@@ -995,6 +1026,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-mabouya-valley-landmark-landmarks-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Mabouya Tal Wahrzeichen", hu: "Mabouya-völgy jelképe", ro: "Reperul Văii Mabouya", en: "Mabouya Valley Landmark" },
     coords: [-60.9142, 13.9125],
@@ -1027,6 +1059,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-dennery-catholic-church-landmarks-v2",
+    parent: "LC",
     type: "church",
     name: { de: "Katholische Kirche von Dennery", hu: "Dennery katolikus temploma", ro: "Biserica Catolică din Dennery", en: "Dennery Catholic Church" },
     coords: [-60.8912, 13.9012],
@@ -1059,6 +1092,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-monchy-chapel-landmarks-v2",
+    parent: "LC",
     type: "church",
     name: { de: "Kapelle von Monchy", hu: "Monchy kápolnája", ro: "Capela din Monchy", en: "Monchy Chapel" },
     coords: [-60.9325, 14.0622],
@@ -1091,6 +1125,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-babonneau-church-landmarks-v2",
+    parent: "LC",
     type: "church",
     name: { de: "Kirche von Babonneau", hu: "Babonneau temploma", ro: "Biserica din Babonneau", en: "Babonneau Catholic Church" },
     coords: [-60.9412, 14.0155],
@@ -1123,6 +1158,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-desruisseaux-community-centre-landmarks-v2",
+    parent: "LC",
     type: "landmark",
     name: { de: "Gemeindezentrum Desruisseaux", hu: "Desruisseaux közösségi központ", ro: "Centrul comunitar Desruisseaux", en: "Desruisseaux Community Centre" },
     coords: [-60.9312, 13.8042],
@@ -1155,6 +1191,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-piaye-bridge-landmarks-v2",
+    parent: "LC",
     type: "bridge",
     name: { de: "Piaye Brücke", hu: "Piaye híd", ro: "Podul Piaye", en: "Piaye Bridge" },
     coords: [-61.0112, 13.7555],
@@ -1187,6 +1224,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-black-bay-ruins-landmarks-v2",
+    parent: "LC",
     type: "ruins",
     name: { de: "Black Bay Ruinen", hu: "Black Bay romok", ro: "Ruinele Black Bay", en: "Black Bay Ruins" },
     coords: [-60.9741, 13.7389],
@@ -1219,6 +1257,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-fond-st-jacques-church-landmarks-v2",
+    parent: "LC",
     type: "church",
     name: { de: "Kirche von Fond St. Jacques", hu: "Fond St. Jacques temploma", ro: "Biserica din Fond St. Jacques", en: "Fond St. Jacques Church" },
     coords: [-61.0112, 13.8442],
@@ -1251,6 +1290,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-belle-vue-windmill-landmarks-v2",
+    parent: "LC",
     type: "ruins",
     name: { de: "Belle Vue Windmühlenturm", hu: "Belle Vue szélmalom torony", ro: "Turnul morii de vânt Belle Vue", en: "Belle Vue Windmill Tower" },
     coords: [-60.9412, 13.7842],
@@ -1283,6 +1323,7 @@ export const saintluciaLandmarksV2: POI[] = [
   },
   {
     id: "saintlucia-pointe-seraphine-terminal-landmarks-v2",
+    parent: "LC",
     type: "port",
     name: { de: "Pointe Seraphine Terminal", hu: "Pointe Seraphine terminál", ro: "Terminalul Pointe Seraphine", en: "Pointe Seraphine Terminal" },
     coords: [-60.9935, 14.0155],

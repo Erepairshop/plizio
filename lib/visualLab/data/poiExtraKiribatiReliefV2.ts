@@ -3,6 +3,7 @@ export const kiribatiReliefV2: POI[] = [
 
   {
     id: "kiribati-banaba-peak-relief-v2",
+    parent: "KI",
     type: "peak",
     name: { de: "Banaba Gipfel", hu: "Banaba-csúcs", ro: "Vârful Banaba", en: "Banaba Peak" },
     coords: [169.5381, -0.8541],
@@ -35,6 +36,7 @@ export const kiribatiReliefV2: POI[] = [
   },
   {
     id: "kiribati-joes-hill-relief-v2",
+    parent: "KI",
     type: "peak",
     name: { de: "Joe's Hill", hu: "Joe's Hill", ro: "Joe's Hill", en: "Joe's Hill" },
     coords: [-157.382, 1.885],
@@ -67,6 +69,7 @@ export const kiribatiReliefV2: POI[] = [
   },
   {
     id: "kiribati-aeon-point-relief-v2",
+    parent: "KI",
     type: "landmark",
     name: { de: "Aeon Point", hu: "Aeon-fok", ro: "Punctul Aeon", en: "Aeon Point" },
     coords: [-157.18, 1.95],
@@ -99,6 +102,7 @@ export const kiribatiReliefV2: POI[] = [
   },
   {
     id: "kiribati-poland-flats-relief-v2",
+    parent: "KI",
     type: "valley",
     name: { de: "Poland-Ebene", hu: "Poland-síkság", ro: "Câmpia Poland", en: "Poland Flats" },
     coords: [-157.55, 1.86],
@@ -131,6 +135,7 @@ export const kiribatiReliefV2: POI[] = [
   },
   {
     id: "kiribati-betio-islet-relief-v2",
+    parent: "KI",
     type: "landmark",
     name: { de: "Betio-Insel", hu: "Betio-sziget", ro: "Insulița Betio", en: "Betio Islet" },
     coords: [172.93, 1.353],
@@ -163,6 +168,7 @@ export const kiribatiReliefV2: POI[] = [
   },
   {
     id: "kiribati-bonriki-plateau-relief-v2",
+    parent: "KI",
     type: "landmark",
     name: { de: "Bonriki-Plateau", hu: "Bonriki-fennsík", ro: "Podișul Bonriki", en: "Bonriki Plateau" },
     coords: [173.145, 1.385],
@@ -195,6 +201,7 @@ export const kiribatiReliefV2: POI[] = [
   },
   {
     id: "kiribati-manra-rim-relief-v2",
+    parent: "KI",
     type: "landmark",
     name: { de: "Manra-Riffring", hu: "Manra-zátonyperem", ro: "Marginea Manra", en: "Manra Rim" },
     coords: [-171.25, -4.45],
@@ -227,6 +234,7 @@ export const kiribatiReliefV2: POI[] = [
   },
   {
     id: "kiribati-nikumaroro-atoll-relief-v2",
+    parent: "KI",
     type: "landmark",
     name: { de: "Nikumaroro-Atoll", hu: "Nikumaroro-atoll", ro: "Atolul Nikumaroro", en: "Nikumaroro Atoll" },
     coords: [-174.525, -4.666],

@@ -3,6 +3,7 @@ export const kiribatiEconomicV2: POI[] = [
 
   {
     id: "kiribati-betio-port-economic-v2",
+    parent: "KI",
     type: "port",
     name: { de: "Hafen von Betio", hu: "Betio kikötő", ro: "Portul Betio", en: "Betio Port" },
     coords: [172.934, 1.354],
@@ -35,6 +36,7 @@ export const kiribatiEconomicV2: POI[] = [
   },
   {
     id: "kiribati-bairiki-business-district-economic-v2",
+    parent: "KI",
     type: "city",
     name: { de: "Geschäftsviertel von Bairiki", hu: "Bairiki üzleti negyed", ro: "Districtul comercial Bairiki", en: "Bairiki Business District" },
     coords: [172.978, 1.329],
@@ -67,6 +69,7 @@ export const kiribatiEconomicV2: POI[] = [
   },
   {
     id: "kiribati-kiritimati-copra-plantation-economic-v2",
+    parent: "KI",
     type: "industry",
     name: { de: "Kopra-Plantage Kiritimati", hu: "Karácsony-szigeti kopraültetvény", ro: "Plantația de copra Kiritimati", en: "Kiritimati Copra Plantation" },
     coords: [-157.481, 1.986],
@@ -99,6 +102,7 @@ export const kiribatiEconomicV2: POI[] = [
   },
   {
     id: "kiribati-cassidy-airport-economic-v2",
+    parent: "KI",
     type: "landmark",
     name: { de: "Cassidy International Airport", hu: "Cassidy nemzetközi repülőtér", ro: "Aeroportul Internațional Cassidy", en: "Cassidy International Airport" },
     coords: [-157.351, 1.987],
@@ -131,6 +135,7 @@ export const kiribatiEconomicV2: POI[] = [
   },
   {
     id: "kiribati-banaba-phosphate-mines-economic-v2",
+    parent: "KI",
     type: "mine",
     name: { de: "Phosphatminen von Banaba", hu: "Banaba-szigeti foszfátbányák", ro: "Minele de fosfat din Banaba", en: "Banaba Phosphate Mines" },
     coords: [169.537, -0.852],
@@ -163,6 +168,7 @@ export const kiribatiEconomicV2: POI[] = [
   },
   {
     id: "kiribati-betio-shipyard-economic-v2",
+    parent: "KI",
     type: "industry",
     name: { de: "Werft von Betio", hu: "Betio hajógyár", ro: "Șantierul naval Betio", en: "Betio Shipyard" },
     coords: [172.937, 1.357],
@@ -195,6 +201,7 @@ export const kiribatiEconomicV2: POI[] = [
   },
   {
     id: "kiribati-tabuaeran-seaweed-farms-economic-v2",
+    parent: "KI",
     type: "industry",
     name: { de: "Algenfarmen von Tabuaeran", hu: "Tabuaeran algafarmok", ro: "Fermele de alge din Tabuaeran", en: "Tabuaeran Seaweed Farms" },
     coords: [-159.345, 3.882],
@@ -227,6 +234,7 @@ export const kiribatiEconomicV2: POI[] = [
   },
   {
     id: "kiribati-bonriki-solar-farm-economic-v2",
+    parent: "KI",
     type: "industry",
     name: { de: "Solarpark Bonriki", hu: "Bonriki napelemfarm", ro: "Parcul solar Bonriki", en: "Bonriki Solar Farm" },
     coords: [173.146, 1.385],
@@ -259,6 +267,7 @@ export const kiribatiEconomicV2: POI[] = [
   },
   {
     id: "kiribati-kfl-fish-processing-economic-v2",
+    parent: "KI",
     type: "factory",
     name: { de: "Kiribati Fish Limited Werk", hu: "Kiribati Fish Limited üzem", ro: "Fabrica Kiribati Fish Limited", en: "Kiribati Fish Limited Facility" },
     coords: [172.941, 1.353],
@@ -291,6 +300,7 @@ export const kiribatiEconomicV2: POI[] = [
   },
   {
     id: "kiribati-london-wharf-economic-v2",
+    parent: "KI",
     type: "port",
     name: { de: "Kai von London", hu: "Londoni rakpart", ro: "Debarcaderul London", en: "London Wharf" },
     coords: [-157.472, 2.03],

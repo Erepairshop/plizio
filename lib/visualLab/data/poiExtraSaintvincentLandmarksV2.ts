@@ -3,6 +3,7 @@ export const saintvincentLandmarksV2: POI[] = [
 
   {
     id: "saintvincent-st-georges-cathedral-landmarks-v2",
+    parent: "VC",
     type: "cathedral",
     name: { de: "St. George's Kathedrale", hu: "Szent György-székesegyház", ro: "Catedrala Sfântul Gheorghe", en: "St. George's Cathedral" },
     coords: [-61.2269, 13.1561],
@@ -35,6 +36,7 @@ export const saintvincentLandmarksV2: POI[] = [
   },
   {
     id: "saintvincent-st-marys-cathedral-landmarks-v2",
+    parent: "VC",
     type: "cathedral",
     name: { de: "St. Mary's Kathedrale der Himmelfahrt", hu: "Szent Mária Mennybemenetele székesegyház", ro: "Catedrala Sfânta Maria a Adormirii", en: "St. Mary's Cathedral of the Assumption" },
     coords: [-61.2272, 13.1565],
@@ -67,6 +69,7 @@ export const saintvincentLandmarksV2: POI[] = [
   },
   {
     id: "saintvincent-layou-petroglyph-landmarks-v2",
+    parent: "VC",
     type: "monument",
     name: { de: "Layou Petroglyphen", hu: "Layou-i petroglifák", ro: "Petrogliifele din Layou", en: "Layou Petroglyph" },
     coords: [-61.2656, 13.2036],
@@ -87,6 +90,7 @@ export const saintvincentLandmarksV2: POI[] = [
   },
   {
     id: "saintvincent-carnegie-building-landmarks-v2",
+    parent: "VC",
     type: "landmark",
     name: { de: "Carnegie-Gebäude", hu: "Carnegie-épület", ro: "Clădirea Carnegie", en: "The Carnegie Building" },
     coords: [-61.2258, 13.1558],
@@ -119,6 +123,7 @@ export const saintvincentLandmarksV2: POI[] = [
   },
   {
     id: "saintvincent-cenotaph-kingstown-landmarks-v2",
+    parent: "VC",
     type: "monument",
     name: { de: "Kriegsdenkmal Kingstown", hu: "Kingstowni háborús emlékmű", ro: "Cenotaful din Kingstown", en: "Kingstown Cenotaph" },
     coords: [-61.225, 13.155],
@@ -151,6 +156,7 @@ export const saintvincentLandmarksV2: POI[] = [
   },
   {
     id: "saintvincent-house-of-assembly-landmarks-v2",
+    parent: "VC",
     type: "landmark",
     name: { de: "Parlamentsgebäude", hu: "Parlament épülete", ro: "Casa Adunării", en: "House of Assembly" },
     coords: [-61.226, 13.156],
@@ -183,6 +189,7 @@ export const saintvincentLandmarksV2: POI[] = [
   },
   {
     id: "saintvincent-botanical-gardens-landmarks-v2",
+    parent: "VC",
     type: "park",
     name: { de: "Botanischer Garten St. Vincent", hu: "St. Vincent-i botanikus kert", ro: "Grădina Botanică St. Vincent", en: "St. Vincent Botanical Gardens" },
     coords: [-61.2281, 13.1644],
@@ -215,6 +222,7 @@ export const saintvincentLandmarksV2: POI[] = [
   },
   {
     id: "saintvincent-dorsetshire-hill-landmarks-v2",
+    parent: "VC",
     type: "monument",
     name: { de: "Dorsetshire Hill Monument", hu: "Dorsetshire Hill emlékmű", ro: "Monumentul Dorsetshire Hill", en: "Dorsetshire Hill Monument" },
     coords: [-61.217, 13.167],
@@ -247,6 +255,7 @@ export const saintvincentLandmarksV2: POI[] = [
   },
   {
     id: "saintvincent-victoria-park-landmarks-v2",
+    parent: "VC",
     type: "landmark",
     name: { de: "Victoria Park", hu: "Viktória-park", ro: "Parcul Victoria", en: "Victoria Park" },
     coords: [-61.23, 13.159],

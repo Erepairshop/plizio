@@ -3,6 +3,7 @@ export const palauReliefV2: POI[] = [
 
   {
     id: "palau-babeldaob-highlands-relief-v2",
+    parent: "PW",
     type: "mountain",
     name: { de: "Hochland von Babeldaob", hu: "Babeldaob-felvidék", ro: "Podișul Babeldaob", en: "Babeldaob Highlands" },
     coords: [134.58, 7.55],
@@ -35,6 +36,7 @@ export const palauReliefV2: POI[] = [
   },
   {
     id: "palau-rock-islands-relief-v2",
+    parent: "PW",
     type: "landmark",
     name: { de: "Rock Islands (Chelbacheb)", hu: "Szikla-szigetek", ro: "Insulele de Stâncă", en: "Rock Islands (Chelbacheb)" },
     coords: [134.33, 7.25],
@@ -67,6 +69,7 @@ export const palauReliefV2: POI[] = [
   },
   {
     id: "palau-bloody-nose-ridge-relief-v2",
+    parent: "PW",
     type: "peak",
     name: { de: "Bloody Nose Ridge", hu: "Bloody Nose Ridge", ro: "Bloody Nose Ridge", en: "Bloody Nose Ridge" },
     coords: [134.225, 6.994],
@@ -99,6 +102,7 @@ export const palauReliefV2: POI[] = [
   },
   {
     id: "palau-ngerekebesang-hill-relief-v2",
+    parent: "PW",
     type: "peak",
     name: { de: "Ngerekebesang Hill", hu: "Ngerekebesang-domb", ro: "Dealul Ngerekebesang", en: "Ngerekebesang Hill" },
     coords: [134.45, 7.35],
@@ -131,6 +135,7 @@ export const palauReliefV2: POI[] = [
   },
   {
     id: "palau-malakal-peak-relief-v2",
+    parent: "PW",
     type: "peak",
     name: { de: "Malakal Peak", hu: "Malakal-csúcs", ro: "Vârful Malakal", en: "Malakal Peak" },
     coords: [134.45, 7.33],
@@ -163,6 +168,7 @@ export const palauReliefV2: POI[] = [
   },
   {
     id: "palau-angaur-hills-relief-v2",
+    parent: "PW",
     type: "landmark",
     name: { de: "Angaur Hills", hu: "Angaur-dombok", ro: "Dealurile Angaur", en: "Angaur Hills" },
     coords: [134.13, 6.91],
@@ -195,6 +201,7 @@ export const palauReliefV2: POI[] = [
   },
   {
     id: "palau-ngardok-basin-relief-v2",
+    parent: "PW",
     type: "valley",
     name: { de: "Ngardok-Becken", hu: "Ngardok-medence", ro: "Bazinul Ngardok", en: "Ngardok Basin" },
     coords: [134.61, 7.51],
@@ -227,6 +234,7 @@ export const palauReliefV2: POI[] = [
   },
   {
     id: "palau-ngerukewid-cliffs-relief-v2",
+    parent: "PW",
     type: "landmark",
     name: { de: "Ngerukewid-Klippen", hu: "Ngerukewid-sziklák", ro: "Falezele Ngerukewid", en: "Ngerukewid Cliffs" },
     coords: [134.27, 7.18],

@@ -3,6 +3,7 @@ export const grenadaHistoryV2: POI[] = [
 
   {
     id: "grenada-leapers-hill-history-v2",
+    parent: "GD",
     type: "landmark",
     name: { de: "Leaper's Hill", hu: "Sauteurs sziklája", ro: "Stânca Sauteurs", en: "Leaper's Hill" },
     coords: [-61.6425, 12.2178],
@@ -47,6 +48,7 @@ export const grenadaHistoryV2: POI[] = [
   },
   {
     id: "grenada-national-museum-history-v2",
+    parent: "GD",
     type: "museum",
     name: { de: "Grenada Nationalmuseum", hu: "Grenadai Nemzeti Múzeum", ro: "Muzeul Național din Grenada", en: "Grenada National Museum" },
     coords: [-61.7531, 12.0528],
@@ -91,6 +93,7 @@ export const grenadaHistoryV2: POI[] = [
   },
   {
     id: "grenada-fort-frederick-history-v2",
+    parent: "GD",
     type: "landmark",
     name: { de: "Fort Frederick", hu: "Fort Frederick", ro: "Fort Frederick", en: "Fort Frederick" },
     coords: [-61.7425, 12.0469],
@@ -135,6 +138,7 @@ export const grenadaHistoryV2: POI[] = [
   },
   {
     id: "grenada-carenage-history-v2",
+    parent: "GD",
     type: "port",
     name: { de: "The Carenage", hu: "Carenage kikötő", ro: "Carenage", en: "The Carenage" },
     coords: [-61.7511, 12.0514],
@@ -179,6 +183,7 @@ export const grenadaHistoryV2: POI[] = [
   },
   {
     id: "grenada-st-georges-anglican-church-history-v2",
+    parent: "GD",
     type: "church",
     name: { de: "St. George's Anglikanische Kirche", hu: "Szent György anglikán templom", ro: "Biserica Anglicană St. George", en: "St. George's Anglican Church" },
     coords: [-61.7522, 12.0531],
@@ -223,6 +228,7 @@ export const grenadaHistoryV2: POI[] = [
   },
   {
     id: "grenada-pearls-airport-history-v2",
+    parent: "GD",
     type: "landmark",
     name: { de: "Alter Flughafen Pearls", hu: "Régi Pearls repülőtér", ro: "Vechiul Aeroport Pearls", en: "Old Pearls Airport" },
     coords: [-61.6139, 12.1461],
@@ -267,6 +273,7 @@ export const grenadaHistoryV2: POI[] = [
   },
   {
     id: "grenada-mt-rich-petroglyphs-history-v2",
+    parent: "GD",
     type: "ruins",
     name: { de: "Mt. Rich Petroglyphen", hu: "Mt. Rich sziklarajzok", ro: "Petroglifele Mt. Rich", en: "Mt. Rich Petroglyphs" },
     coords: [-61.6575, 12.1725],
@@ -311,6 +318,7 @@ export const grenadaHistoryV2: POI[] = [
   },
   {
     id: "grenada-fort-matthew-history-v2",
+    parent: "GD",
     type: "landmark",
     name: { de: "Fort Matthew", hu: "Fort Matthew", ro: "Fort Matthew", en: "Fort Matthew" },
     coords: [-61.7419, 12.0483],
@@ -355,6 +363,7 @@ export const grenadaHistoryV2: POI[] = [
   },
   {
     id: "grenada-market-square-history-v2",
+    parent: "GD",
     type: "landmark",
     name: { de: "Marktplatz St. George's", hu: "St. George's piactér", ro: "Piața Centrală St. George's", en: "St. George's Market Square" },
     coords: [-61.7519, 12.0536],
@@ -399,6 +408,7 @@ export const grenadaHistoryV2: POI[] = [
   },
   {
     id: "grenada-dougaldston-estate-history-v2",
+    parent: "GD",
     type: "industry",
     name: { de: "Dougaldston Estate", hu: "Dougaldston birtok", ro: "Domeniul Dougaldston", en: "Dougaldston Estate" },
     coords: [-61.7336, 12.1311],
@@ -443,6 +453,7 @@ export const grenadaHistoryV2: POI[] = [
   },
   {
     id: "grenada-carriacou-museum-history-v2",
+    parent: "GD",
     type: "museum",
     name: { de: "Carriacou Geschichtsmuseum", hu: "Carriacou Történeti Múzeum", ro: "Muzeul de Istorie Carriacou", en: "Carriacou Historical Museum" },
     coords: [-61.4583, 12.4833],
@@ -487,6 +498,7 @@ export const grenadaHistoryV2: POI[] = [
   },
   {
     id: "grenada-sendall-tunnel-history-v2",
+    parent: "GD",
     type: "bridge",
     name: { de: "Sendall Tunnel", hu: "Sendall-alagút", ro: "Tunelul Sendall", en: "Sendall Tunnel" },
     coords: [-61.7525, 12.0525],
@@ -531,6 +543,7 @@ export const grenadaHistoryV2: POI[] = [
   },
   {
     id: "grenada-house-of-parliament-history-v2",
+    parent: "GD",
     type: "landmark",
     name: { de: "Parlamentsgebäude", hu: "Parlament épülete", ro: "Clădirea Parlamentului", en: "House of Parliament" },
     coords: [-61.7539, 12.0542],

@@ -3,6 +3,7 @@ export const saintvincentHistoryV2: POI[] = [
 
   {
     id: "saintvincent-fort-duvernette-history-v2",
+    parent: "VC",
     type: "monument",
     name: { de: "Fort Duvernette", hu: "Fort Duvernette", ro: "Fort Duvernette", en: "Fort Duvernette" },
     coords: [-61.2117, 13.1256],
@@ -35,6 +36,7 @@ export const saintvincentHistoryV2: POI[] = [
   },
   {
     id: "saintvincent-black-point-tunnel-history-v2",
+    parent: "VC",
     type: "landmark",
     name: { de: "Black Point Tunnel", hu: "Black Point alagút", ro: "Tunelul Black Point", en: "Black Point Tunnel" },
     coords: [-61.1214, 13.2625],
@@ -67,6 +69,7 @@ export const saintvincentHistoryV2: POI[] = [
   },
   {
     id: "saintvincent-layou-petroglyphs-history-v2",
+    parent: "VC",
     type: "ruins",
     name: { de: "Layou Petroglyphen", hu: "Layou petroglifák", ro: "Petroglifele Layou", en: "Layou Petroglyphs" },
     coords: [-61.2683, 13.2031],
@@ -99,6 +102,7 @@ export const saintvincentHistoryV2: POI[] = [
   },
   {
     id: "saintvincent-st-georges-cathedral-history-v2",
+    parent: "VC",
     type: "cathedral",
     name: { de: "St. George's Cathedral", hu: "Szent György-székesegyház", ro: "Catedrala Sf. Gheorghe", en: "St. George's Cathedral" },
     coords: [-61.2272, 13.1578],
@@ -131,6 +135,7 @@ export const saintvincentHistoryV2: POI[] = [
   },
   {
     id: "saintvincent-st-marys-cathedral-history-v2",
+    parent: "VC",
     type: "cathedral",
     name: { de: "St. Mary's Cathedral", hu: "Szent Mária-székesegyház", ro: "Catedrala Sf. Maria", en: "St. Mary's Cathedral" },
     coords: [-61.2278, 13.1572],
@@ -163,6 +168,7 @@ export const saintvincentHistoryV2: POI[] = [
   },
   {
     id: "saintvincent-barrouallie-petroglyphs-history-v2",
+    parent: "VC",
     type: "ruins",
     name: { de: "Barrouallie Petroglyphen", hu: "Barrouallie petroglifák", ro: "Petroglifele Barrouallie", en: "Barrouallie Petroglyphs" },
     coords: [-61.271, 13.235],
@@ -195,6 +201,7 @@ export const saintvincentHistoryV2: POI[] = [
   },
   {
     id: "saintvincent-chatoyer-memorial-history-v2",
+    parent: "VC",
     type: "monument",
     name: { de: "Chatoyer Memorial", hu: "Chatoyer-emlékmű", ro: "Monumentul Chatoyer", en: "Chatoyer Memorial" },
     coords: [-61.2167, 13.1667],
@@ -227,6 +234,7 @@ export const saintvincentHistoryV2: POI[] = [
   },
   {
     id: "saintvincent-kingstown-methodist-church-history-v2",
+    parent: "VC",
     type: "church",
     name: { de: "Kingstown Methodist Church", hu: "Kingstowni metodista templom", ro: "Biserica Metodistă din Kingstown", en: "Kingstown Methodist Church" },
     coords: [-61.226, 13.156],
@@ -259,6 +267,7 @@ export const saintvincentHistoryV2: POI[] = [
   },
   {
     id: "saintvincent-argyle-petroglyphs-history-v2",
+    parent: "VC",
     type: "ruins",
     name: { de: "Argyle Petroglyphen", hu: "Argyle petroglifák", ro: "Petroglifele Argyle", en: "Argyle Petroglyphs" },
     coords: [-61.155, 13.152],
@@ -291,6 +300,7 @@ export const saintvincentHistoryV2: POI[] = [
   },
   {
     id: "saintvincent-old-public-library-history-v2",
+    parent: "VC",
     type: "museum",
     name: { de: "Alte Öffentliche Bibliothek", hu: "Régi Nyilvános Könyvtár", ro: "Vechea Bibliotecă Publică", en: "Old Public Library" },
     coords: [-61.228, 13.155],
@@ -323,6 +333,7 @@ export const saintvincentHistoryV2: POI[] = [
   },
   {
     id: "saintvincent-dorsetshire-hill-history-v2",
+    parent: "VC",
     type: "battlefield",
     name: { de: "Dorsetshire Hill", hu: "Dorsetshire Hill", ro: "Dealul Dorsetshire", en: "Dorsetshire Hill" },
     coords: [-61.215, 13.165],
@@ -355,6 +366,7 @@ export const saintvincentHistoryV2: POI[] = [
   },
   {
     id: "saintvincent-wallilabou-estate-history-v2",
+    parent: "VC",
     type: "landmark",
     name: { de: "Wallilabou Estate", hu: "Wallilabou-birtok", ro: "Domeniul Wallilabou", en: "Wallilabou Estate" },
     coords: [-61.268, 13.249],
@@ -387,6 +399,7 @@ export const saintvincentHistoryV2: POI[] = [
   },
   {
     id: "saintvincent-rabacca-dry-river-history-v2",
+    parent: "VC",
     type: "landmark",
     name: { de: "Rabacca Dry River", hu: "Rabacca Dry River", ro: "Râul Sec Rabacca", en: "Rabacca Dry River" },
     coords: [-61.133, 13.316],
@@ -419,6 +432,7 @@ export const saintvincentHistoryV2: POI[] = [
   },
   {
     id: "saintvincent-buccament-rock-art-history-v2",
+    parent: "VC",
     type: "ruins",
     name: { de: "Buccament Felskunst", hu: "Buccamenti sziklarajzok", ro: "Arta rupestră Buccament", en: "Buccament Rock Art" },
     coords: [-61.265, 13.192],

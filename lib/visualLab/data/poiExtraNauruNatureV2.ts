@@ -3,6 +3,7 @@ export const nauruNatureV2: POI[] = [
 
   {
     id: "nauru-anibare-bay-nature-v2",
+    parent: "NR",
     type: "park",
     name: { de: "Anibare-Bucht", hu: "Anibare-öböl", ro: "Golful Anibare", en: "Anibare Bay" },
     coords: [166.95, -0.537],
@@ -35,6 +36,7 @@ export const nauruNatureV2: POI[] = [
   },
   {
     id: "nauru-anibare-pinnacles-nature-v2",
+    parent: "NR",
     type: "landmark",
     name: { de: "Anibare-Felsnadeln", hu: "Anibare-sziklatornyok", ro: "Coloanele Anibare", en: "Anibare Pinnacles" },
     coords: [166.951, -0.538],
@@ -67,6 +69,7 @@ export const nauruNatureV2: POI[] = [
   },
   {
     id: "nauru-moqua-caves-nature-v2",
+    parent: "NR",
     type: "landmark",
     name: { de: "Moqua-Höhlen", hu: "Moqua-barlangok", ro: "Peșterile Moqua", en: "Moqua Caves" },
     coords: [166.915, -0.548],
@@ -99,6 +102,7 @@ export const nauruNatureV2: POI[] = [
   },
   {
     id: "nauru-ijuw-coastline-nature-v2",
+    parent: "NR",
     type: "park",
     name: { de: "Ijuw-Küste", hu: "Ijuw-partvidék", ro: "Coasta Ijuw", en: "Ijuw Coastline" },
     coords: [166.953, -0.522],
@@ -131,6 +135,7 @@ export const nauruNatureV2: POI[] = [
   },
   {
     id: "nauru-anabar-lagoon-nature-v2",
+    parent: "NR",
     type: "lake",
     name: { de: "Anabar-Lagune", hu: "Anabar-lagúna", ro: "Laguna Anabar", en: "Anabar Lagoon" },
     coords: [166.945, -0.511],
@@ -163,6 +168,7 @@ export const nauruNatureV2: POI[] = [
   },
   {
     id: "nauru-meneng-beach-nature-v2",
+    parent: "NR",
     type: "park",
     name: { de: "Meneng-Strand", hu: "Meneng-strand", ro: "Plaja Meneng", en: "Meneng Beach" },
     coords: [166.938, -0.548],
@@ -195,6 +201,7 @@ export const nauruNatureV2: POI[] = [
   },
   {
     id: "nauru-ewa-reef-nature-v2",
+    parent: "NR",
     type: "wildlife",
     name: { de: "Ewa-Riff", hu: "Ewa-zátony", ro: "Reciful Ewa", en: "Ewa Reef" },
     coords: [166.938, -0.505],
@@ -227,6 +234,7 @@ export const nauruNatureV2: POI[] = [
   },
   {
     id: "nauru-yangor-cliffs-nature-v2",
+    parent: "NR",
     type: "landmark",
     name: { de: "Yangor-Klippen", hu: "Yangor-sziklák", ro: "Stâncile Yangor", en: "Yangor Cliffs" },
     coords: [166.909, -0.536],
@@ -259,6 +267,7 @@ export const nauruNatureV2: POI[] = [
   },
   {
     id: "nauru-boe-coral-belt-nature-v2",
+    parent: "NR",
     type: "wildlife",
     name: { de: "Boe-Korallengürtel", hu: "Boe-korallöv", ro: "Centura de Corali Boe", en: "Boe Coral Belt" },
     coords: [166.912, -0.542],
@@ -291,6 +300,7 @@ export const nauruNatureV2: POI[] = [
   },
   {
     id: "nauru-nibok-palms-nature-v2",
+    parent: "NR",
     type: "forest",
     name: { de: "Nibok-Palmenhaine", hu: "Nibok-pálmaligetek", ro: "Palmierii Nibok", en: "Nibok Palms" },
     coords: [166.92, -0.518],
@@ -323,6 +333,7 @@ export const nauruNatureV2: POI[] = [
   },
   {
     id: "nauru-denigomodu-coast-nature-v2",
+    parent: "NR",
     type: "park",
     name: { de: "Denigomodu-Küste", hu: "Denigomodu-part", ro: "Coasta Denigomodu", en: "Denigomodu Coast" },
     coords: [166.912, -0.526],
@@ -355,6 +366,7 @@ export const nauruNatureV2: POI[] = [
   },
   {
     id: "nauru-aiwo-pinnacles-nature-v2",
+    parent: "NR",
     type: "landmark",
     name: { de: "Aiwo-Felsnadeln", hu: "Aiwo-sziklatornyok", ro: "Coloanele Aiwo", en: "Aiwo Pinnacles" },
     coords: [166.91, -0.533],
@@ -387,6 +399,7 @@ export const nauruNatureV2: POI[] = [
   },
   {
     id: "nauru-buada-pandanus-groves-nature-v2",
+    parent: "NR",
     type: "forest",
     name: { de: "Buada-Pandanus-Haine", hu: "Buada-pandánuszligetek", ro: "Crângurile de Pandanus Buada", en: "Buada Pandanus Groves" },
     coords: [166.922, -0.535],
@@ -419,6 +432,7 @@ export const nauruNatureV2: POI[] = [
   },
   {
     id: "nauru-anibare-forest-nature-v2",
+    parent: "NR",
     type: "forest",
     name: { de: "Anibare-Wald", hu: "Anibare-erdő", ro: "Pădurea Anibare", en: "Anibare Forest" },
     coords: [166.947, -0.532],
@@ -451,6 +465,7 @@ export const nauruNatureV2: POI[] = [
   },
   {
     id: "nauru-north-cape-nature-v2",
+    parent: "NR",
     type: "park",
     name: { de: "Nordkap Nauru", hu: "Nauru északi foka", ro: "Capul de Nord Nauru", en: "North Cape Nauru" },
     coords: [166.933, -0.504],
@@ -483,6 +498,7 @@ export const nauruNatureV2: POI[] = [
   },
   {
     id: "nauru-south-point-nature-v2",
+    parent: "NR",
     type: "park",
     name: { de: "Südspitze Meneng", hu: "Meneng déli pontja", ro: "Punctul de Sud Meneng", en: "South Point Meneng" },
     coords: [166.927, -0.554],

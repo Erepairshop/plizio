@@ -3,6 +3,7 @@ export const palauEconomicV2: POI[] = [
 
   {
     id: "palau-malakal-port-economic-v2",
+    parent: "PW",
     type: "port",
     name: { de: "Hafen von Malakal", hu: "Malakal-kikötő", ro: "Portul Malakal", en: "Malakal Port" },
     coords: [134.4506, 7.3303],
@@ -35,6 +36,7 @@ export const palauEconomicV2: POI[] = [
   },
   {
     id: "palau-koror-business-district-economic-v2",
+    parent: "PW",
     type: "town",
     name: { de: "Geschäftsviertel Koror", hu: "Korori üzleti negyed", ro: "Districtul comercial Koror", en: "Koror Business District" },
     coords: [134.4785, 7.3425],
@@ -67,6 +69,7 @@ export const palauEconomicV2: POI[] = [
   },
   {
     id: "palau-aimeliik-power-plant-economic-v2",
+    parent: "PW",
     type: "industry",
     name: { de: "Kraftwerk Aimeliik", hu: "Aimeliik erőmű", ro: "Centrala electrică Aimeliik", en: "Aimeliik Power Plant" },
     coords: [134.5021, 7.4522],
@@ -99,6 +102,7 @@ export const palauEconomicV2: POI[] = [
   },
   {
     id: "palau-airai-solar-farm-economic-v2",
+    parent: "PW",
     type: "industry",
     name: { de: "Solarpark Airai", hu: "Airai napelemfarm", ro: "Parcul solar Airai", en: "Airai Solar Farm" },
     coords: [134.5381, 7.3685],
@@ -131,6 +135,7 @@ export const palauEconomicV2: POI[] = [
   },
   {
     id: "palau-kb-bridge-infrastructure-economic-v2",
+    parent: "PW",
     type: "bridge",
     name: { de: "Koror-Babeldaob-Brücke", hu: "Koror-Babeldaob híd", ro: "Podul Koror-Babeldaob", en: "Koror-Babeldaob Bridge" },
     coords: [134.5122, 7.3619],
@@ -163,6 +168,7 @@ export const palauEconomicV2: POI[] = [
   },
   {
     id: "palau-ngatpang-aquaculture-center-economic-v2",
+    parent: "PW",
     type: "factory",
     name: { de: "Aquakulturzentrum Ngatpang", hu: "Ngatpangi akvakultúra központ", ro: "Centrul de acvacultură Ngatpang", en: "Ngatpang Aquaculture Center" },
     coords: [134.5452, 7.4755],
@@ -195,6 +201,7 @@ export const palauEconomicV2: POI[] = [
   },
   {
     id: "palau-peleliu-south-harbor-economic-v2",
+    parent: "PW",
     type: "port",
     name: { de: "Südhafen von Peleliu", hu: "Peleliu déli kikötő", ro: "Portul de Sud Peleliu", en: "Peleliu South Harbor" },
     coords: [134.2585, 7.0418],
@@ -227,6 +234,7 @@ export const palauEconomicV2: POI[] = [
   },
   {
     id: "palau-angaur-harbor-economic-v2",
+    parent: "PW",
     type: "port",
     name: { de: "Hafen von Angaur", hu: "Angaur kikötő", ro: "Portul Angaur", en: "Angaur Harbor" },
     coords: [134.1352, 6.9085],
@@ -259,6 +267,7 @@ export const palauEconomicV2: POI[] = [
   },
   {
     id: "palau-ngerulmud-administrative-economic-v2",
+    parent: "PW",
     type: "capital",
     name: { de: "Regierungsviertel Ngerulmud", hu: "Ngerulmud kormányzati negyed", ro: "Centrul administrativ Ngerulmud", en: "Ngerulmud Administrative Center" },
     coords: [134.6242, 7.5004],
@@ -291,6 +300,7 @@ export const palauEconomicV2: POI[] = [
   },
   {
     id: "palau-ngardmau-mining-ruins-economic-v2",
+    parent: "PW",
     type: "mine",
     name: { de: "Ngardmau-Bergbaugelände", hu: "Ngardmaui bányaterület", ro: "Situl minier Ngardmau", en: "Ngardmau Mining Site" },
     coords: [134.5805, 7.5952],

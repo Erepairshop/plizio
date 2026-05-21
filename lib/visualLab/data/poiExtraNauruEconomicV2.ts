@@ -3,6 +3,7 @@ export const nauruEconomicV2: POI[] = [
 
   {
     id: "nauru-ronphos-hq-economic-v2",
+    parent: "NR",
     type: "industry",
     name: { de: "RONPHOS-Hauptquartier", hu: "RONPHOS Központ", ro: "Sediul Central RONPHOS", en: "RONPHOS Headquarters" },
     coords: [166.9134, -0.5332],
@@ -35,6 +36,7 @@ export const nauruEconomicV2: POI[] = [
   },
   {
     id: "nauru-aiwo-port-economic-v2",
+    parent: "NR",
     type: "port",
     name: { de: "Hafen von Aiwo", hu: "Aiwo kikötő", ro: "Portul Aiwo", en: "Aiwo Port" },
     coords: [166.9112, -0.5361],
@@ -67,6 +69,7 @@ export const nauruEconomicV2: POI[] = [
   },
   {
     id: "nauru-anibare-harbour-economic-v2",
+    parent: "NR",
     type: "port",
     name: { de: "Bootshafen Anibare", hu: "Anibare kikötő", ro: "Portul Anibare", en: "Anibare Boat Harbour" },
     coords: [166.9535, -0.5378],
@@ -99,6 +102,7 @@ export const nauruEconomicV2: POI[] = [
   },
   {
     id: "nauru-solar-plant-economic-v2",
+    parent: "NR",
     type: "industry",
     name: { de: "Nauru Solarpark", hu: "Nauru naperőmű", ro: "Parcul Solar Nauru", en: "Nauru Solar Plant" },
     coords: [166.9201, -0.5485],
@@ -131,6 +135,7 @@ export const nauruEconomicV2: POI[] = [
   },
   {
     id: "nauru-nrc-hq-economic-v2",
+    parent: "NR",
     type: "industry",
     name: { de: "Nauru Rehabilitation Corporation (NRC)", hu: "Nauru Rehabilitációs Vállalat (NRC)", ro: "Corporația de Reabilitare Nauru (NRC)", en: "Nauru Rehabilitation Corporation (NRC)" },
     coords: [166.9198, -0.5325],
@@ -163,6 +168,7 @@ export const nauruEconomicV2: POI[] = [
   },
   {
     id: "nauru-eigigu-supermarket-economic-v2",
+    parent: "NR",
     type: "landmark",
     name: { de: "Eigigu-Supermarkt", hu: "Eigigu szupermarket", ro: "Supermarketul Eigigu", en: "Eigigu Supermarket" },
     coords: [166.9142, -0.5255],
@@ -195,6 +201,7 @@ export const nauruEconomicV2: POI[] = [
   },
   {
     id: "nauru-phosphate-cantilever-economic-v2",
+    parent: "NR",
     type: "industry",
     name: { de: "Phosphat-Verladebrücken", hu: "Foszfátrakodó konzolok", ro: "Cantileverul de Fofat", en: "Phosphate Cantilevers" },
     coords: [166.9105, -0.5358],
@@ -227,6 +234,7 @@ export const nauruEconomicV2: POI[] = [
   },
   {
     id: "nauru-utilities-corp-economic-v2",
+    parent: "NR",
     type: "industry",
     name: { de: "Nauru Utilities Corporation (NUC)", hu: "Nauru Közművállalat (NUC)", ro: "Corporația de Utilități Nauru (NUC)", en: "Nauru Utilities Corporation (NUC)" },
     coords: [166.9125, -0.5345],
@@ -259,6 +267,7 @@ export const nauruEconomicV2: POI[] = [
   },
   {
     id: "nauru-nfmra-economic-v2",
+    parent: "NR",
     type: "landmark",
     name: { de: "Fischereibehörde (NFMRA)", hu: "Halászati Hatóság (NFMRA)", ro: "Autoritatea de Pescuit (NFMRA)", en: "Fisheries Authority (NFMRA)" },
     coords: [166.9528, -0.5385],
@@ -291,6 +300,7 @@ export const nauruEconomicV2: POI[] = [
   },
   {
     id: "nauru-denig-settlement-economic-v2",
+    parent: "NR",
     type: "village",
     name: { de: "Siedlung Denigomodu", hu: "Denigomodu település", ro: "Așezarea Denigomodu", en: "Denigomodu Settlement" },
     coords: [166.9155, -0.5245],

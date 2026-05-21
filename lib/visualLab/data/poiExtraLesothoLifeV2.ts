@@ -3,6 +3,7 @@ export const lesothoLifeV2: POI[] = [
 
   {
     id: "lesotho-bokong-nature-reserve-life-v2",
+    parent: "LS",
     type: "park",
     name: { de: "Bokong-Naturreservat", hu: "Bokong Természetvédelmi Terület", ro: "Rezervația Naturală Bokong", en: "Bokong Nature Reserve" },
     coords: [28.2542, -29.0688],
@@ -35,6 +36,7 @@ export const lesothoLifeV2: POI[] = [
   },
   {
     id: "lesotho-liphofung-nature-reserve-life-v2",
+    parent: "LS",
     type: "park",
     name: { de: "Liphofung-Naturreservat", hu: "Liphofung Természetvédelmi Terület", ro: "Rezervația Naturală Liphofung", en: "Liphofung Nature Reserve" },
     coords: [28.4521, -28.7512],
@@ -67,6 +69,7 @@ export const lesothoLifeV2: POI[] = [
   },
   {
     id: "lesotho-katse-botanical-garden-life-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Botanischer Garten Katse", hu: "Katse Botanikus Kert", ro: "Grădina Botanică Katse", en: "Katse Botanical Garden" },
     coords: [28.4833, -28.9833],
@@ -99,6 +102,7 @@ export const lesothoLifeV2: POI[] = [
   },
   {
     id: "lesotho-subeng-dinosaur-footprints-life-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Subeng-Dinosaurier-Fußabdrücke", hu: "Subeng dinoszaurusz lábnyomok", ro: "Urme de dinozaur Subeng", en: "Subeng Dinosaur Footprints" },
     coords: [28.2333, -28.8667],
@@ -131,6 +135,7 @@ export const lesothoLifeV2: POI[] = [
   },
   {
     id: "lesotho-quthing-dinosaur-tracks-life-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Quthing-Dinosaurierspuren", hu: "Quthing dinoszaurusz nyomok", ro: "Urme de dinozaur Quthing", en: "Quthing Dinosaur Tracks" },
     coords: [27.7167, -30.4167],
@@ -163,6 +168,7 @@ export const lesothoLifeV2: POI[] = [
   },
   {
     id: "lesotho-muela-nature-area-life-v2",
+    parent: "LS",
     type: "wildlife",
     name: { de: "Muela-Naturgebiet", hu: "Muela természetvédelmi terület", ro: "Zona Naturală Muela", en: "Muela Nature Area" },
     coords: [28.5333, -28.5333],
@@ -195,6 +201,7 @@ export const lesothoLifeV2: POI[] = [
   },
   {
     id: "lesotho-sani-pass-alpine-life-v2",
+    parent: "LS",
     type: "mountain",
     name: { de: "Sani-Pass Alpine Zone", hu: "Sani-hágó alpesi zóna", ro: "Zona Alpină Pasul Sani", en: "Sani Pass Alpine Zone" },
     coords: [29.2858, -29.5844],
@@ -227,6 +234,7 @@ export const lesothoLifeV2: POI[] = [
   },
   {
     id: "lesotho-maloti-drakensberg-park-life-v2",
+    parent: "LS",
     type: "park",
     name: { de: "Maloti-Drakensberg Park", hu: "Maloti-Drakensberg Park", ro: "Parcul Maloti-Drakensberg", en: "Maloti-Drakensberg Park" },
     coords: [29.32, -29.35],
@@ -259,6 +267,7 @@ export const lesothoLifeV2: POI[] = [
   },
   {
     id: "lesotho-pitseng-gorge-life-v2",
+    parent: "LS",
     type: "valley",
     name: { de: "Pitseng-Schlucht", hu: "Pitseng-szurdok", ro: "Cheile Pitseng", en: "Pitseng Gorge" },
     coords: [28.1833, -28.9833],
@@ -291,6 +300,7 @@ export const lesothoLifeV2: POI[] = [
   },
   {
     id: "lesotho-mafika-lisiu-pass-life-v2",
+    parent: "LS",
     type: "mountain",
     name: { de: "Mafika-Lisiu-Pass", hu: "Mafika Lisiu-hágó", ro: "Pasul Mafika Lisiu", en: "Mafika Lisiu Pass" },
     coords: [28.18, -29.06],
@@ -323,6 +333,7 @@ export const lesothoLifeV2: POI[] = [
   },
   {
     id: "lesotho-gates-of-paradise-life-v2",
+    parent: "LS",
     type: "mountain",
     name: { de: "Tore des Paradieses (Pass)", hu: "Paradicsom kapui hágó", ro: "Porțile Paradisului (Pas)", en: "Gates of Paradise Pass" },
     coords: [27.85, -29.5833],
@@ -355,6 +366,7 @@ export const lesothoLifeV2: POI[] = [
   },
   {
     id: "lesotho-oxbow-alpine-area-life-v2",
+    parent: "LS",
     type: "wildlife",
     name: { de: "Oxbow Alpine Zone", hu: "Oxbow alpesi terület", ro: "Zona Alpină Oxbow", en: "Oxbow Alpine Area" },
     coords: [28.65, -28.77],
@@ -387,6 +399,7 @@ export const lesothoLifeV2: POI[] = [
   },
   {
     id: "lesotho-meniaming-pass-life-v2",
+    parent: "LS",
     type: "mountain",
     name: { de: "Meniaming-Pass", hu: "Meniaming-hágó", ro: "Pasul Meniaming", en: "Meniaming Pass" },
     coords: [28.45, -29.15],
@@ -419,6 +432,7 @@ export const lesothoLifeV2: POI[] = [
   },
   {
     id: "lesotho-tlokoeng-wetlands-life-v2",
+    parent: "LS",
     type: "wildlife",
     name: { de: "Tlokoeng-Feuchtgebiete", hu: "Tlokoeng mocsarak", ro: "Zonele Umede Tlokoeng", en: "Tlokoeng Wetlands" },
     coords: [29.05, -29.1333],
@@ -451,6 +465,7 @@ export const lesothoLifeV2: POI[] = [
   },
   {
     id: "lesotho-masitise-site-life-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Masitise-Naturstätte", hu: "Masitise természetvédelmi helyszín", ro: "Situl Natural Masitise", en: "Masitise Nature Site" },
     coords: [27.65, -30.42],
@@ -483,6 +498,7 @@ export const lesothoLifeV2: POI[] = [
   },
   {
     id: "lesotho-likhoele-mountain-reserve-life-v2",
+    parent: "LS",
     type: "wildlife",
     name: { de: "Likhoele-Bergreservat", hu: "Likhoele-hegyi rezervátum", ro: "Rezervația Montană Likhoele", en: "Likhoele Mountain Reserve" },
     coords: [27.35, -29.85],
@@ -515,6 +531,7 @@ export const lesothoLifeV2: POI[] = [
   },
   {
     id: "lesotho-maboloka-hotspot-life-v2",
+    parent: "LS",
     type: "wildlife",
     name: { de: "Maboloka-Biodiversitäts-Hotspot", hu: "Maboloka biodiverzitási gócpont", ro: "Punctul Fierbinte Maboloka", en: "Maboloka Biodiversity Hotspot" },
     coords: [27.85, -29.15],
@@ -547,6 +564,7 @@ export const lesothoLifeV2: POI[] = [
   },
   {
     id: "lesotho-pelaneng-area-life-v2",
+    parent: "LS",
     type: "wildlife",
     name: { de: "Pelaneng-Wildnisgebiet", hu: "Pelaneng vadvilági terület", ro: "Zona Sălbatică Pelaneng", en: "Pelaneng Wildlife Area" },
     coords: [28.45, -29.05],
@@ -579,6 +597,7 @@ export const lesothoLifeV2: POI[] = [
   },
   {
     id: "lesotho-sebapala-valley-life-v2",
+    parent: "LS",
     type: "valley",
     name: { de: "Sebapala-Tal", hu: "Sebapala-völgy", ro: "Valea Sebapala", en: "Sebapala Valley" },
     coords: [27.95, -30.35],
@@ -611,6 +630,7 @@ export const lesothoLifeV2: POI[] = [
   },
   {
     id: "lesotho-telle-river-border-life-v2",
+    parent: "LS",
     type: "river",
     name: { de: "Telle-Fluss-Naturgebiet", hu: "Telle-folyó természetvédelmi terület", ro: "Zona Naturală Râul Telle", en: "Telle River Nature Area" },
     coords: [27.5833, -30.4333],
@@ -643,6 +663,7 @@ export const lesothoLifeV2: POI[] = [
   },
   {
     id: "lesotho-moteng-pass-slopes-life-v2",
+    parent: "LS",
     type: "mountain",
     name: { de: "Moteng-Pass-Hänge", hu: "Moteng-hágó lejtői", ro: "Pantele Pasului Moteng", en: "Moteng Pass Slopes" },
     coords: [28.65, -28.75],
@@ -675,6 +696,7 @@ export const lesothoLifeV2: POI[] = [
   },
   {
     id: "lesotho-maphutseng-site-life-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Maphutseng-Naturstätte", hu: "Maphutseng természetvédelmi helyszín", ro: "Situl Natural Maphutseng", en: "Maphutseng Nature Site" },
     coords: [27.55, -30.05],
@@ -707,6 +729,7 @@ export const lesothoLifeV2: POI[] = [
   },
   {
     id: "lesotho-roma-valley-botanical-life-v2",
+    parent: "LS",
     type: "forest",
     name: { de: "Botanisches Reservat im Roma-Tal", hu: "Roma-völgy botanikai rezervátum", ro: "Rezervația Botanică Valea Roma", en: "Roma Valley Botanical Site" },
     coords: [27.72, -29.45],
@@ -739,6 +762,7 @@ export const lesothoLifeV2: POI[] = [
   },
   {
     id: "lesotho-blue-mountain-biodiversity-life-v2",
+    parent: "LS",
     type: "mountain",
     name: { de: "Blauberge-Biodiversitätszone", hu: "Kék-hegy biodiverzitási zóna", ro: "Zona de Biodiversitate Blue Mountain", en: "Blue Mountain Biodiversity Area" },
     coords: [28.05, -29.45],
@@ -771,6 +795,7 @@ export const lesothoLifeV2: POI[] = [
   },
   {
     id: "lesotho-khubelu-headwaters-life-v2",
+    parent: "LS",
     type: "wildlife",
     name: { de: "Khubelu-Quellgebiet", hu: "Khubelu-folyó forrásvidéke", ro: "Izvoarele Râului Khubelu", en: "Khubelu Headwaters" },
     coords: [28.95, -28.85],
@@ -803,6 +828,7 @@ export const lesothoLifeV2: POI[] = [
   },
   {
     id: "lesotho-linakeng-wildlife-area-life-v2",
+    parent: "LS",
     type: "wildlife",
     name: { de: "Linakeng-Wildnisgebiet", hu: "Linakeng vadvilági terület", ro: "Zona Sălbatică Linakeng", en: "Linakeng Wildlife Area" },
     coords: [28.85, -29.35],
@@ -835,6 +861,7 @@ export const lesothoLifeV2: POI[] = [
   },
   {
     id: "lesotho-mafeteng-wetland-life-v2",
+    parent: "LS",
     type: "wildlife",
     name: { de: "Mafeteng-Feuchtgebiet", hu: "Mafeteng vizes élőhely", ro: "Zona Umedă Mafeteng", en: "Mafeteng Wetland" },
     coords: [27.25, -29.82],
@@ -867,6 +894,7 @@ export const lesothoLifeV2: POI[] = [
   },
   {
     id: "lesotho-qachas-nek-wildlife-life-v2",
+    parent: "LS",
     type: "wildlife",
     name: { de: "Qacha's Nek-Wildniskorridor", hu: "Qacha's Nek vadvilági folyosó", ro: "Coridorul Sălbatic Qacha's Nek", en: "Qacha's Nek Wildlife Zone" },
     coords: [28.68, -30.12],
@@ -899,6 +927,7 @@ export const lesothoLifeV2: POI[] = [
   },
   {
     id: "lesotho-maloti-highlands-hotspot-life-v2",
+    parent: "LS",
     type: "wildlife",
     name: { de: "Maloti-Hochland-Biodiversitätszentrum", hu: "Maloti-felföld biodiverzitási központ", ro: "Centrul de Biodiversitate Maloti Highlands", en: "Maloti Highlands Hotspot" },
     coords: [28.25, -29.15],
@@ -931,6 +960,7 @@ export const lesothoLifeV2: POI[] = [
   },
   {
     id: "lesotho-senqunyane-river-valley-life-v2",
+    parent: "LS",
     type: "valley",
     name: { de: "Senqunyane-Flusstal", hu: "Senqunyane-folyó völgye", ro: "Valea Râului Senqunyane", en: "Senqunyane River Valley" },
     coords: [28.15, -29.45],

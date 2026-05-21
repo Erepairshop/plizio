@@ -3,6 +3,7 @@ export const micronesiaReliefV2: POI[] = [
 
   {
     id: "micronesia-mount-tabiwol-relief-v2",
+    parent: "FM",
     type: "mountain",
     name: { de: "Berg Tabiwol", hu: "Tabiwol-hegy", ro: "Muntele Tabiwol", en: "Mount Tabiwol" },
     coords: [138.1186, 9.5492],
@@ -35,6 +36,7 @@ export const micronesiaReliefV2: POI[] = [
   },
   {
     id: "micronesia-mount-ngihnen-relief-v2",
+    parent: "FM",
     type: "peak",
     name: { de: "Berg Ngihnen", hu: "Ngihnen-hegy", ro: "Muntele Ngihnen", en: "Mount Ngihnen" },
     coords: [158.2322, 6.8911],
@@ -67,6 +69,7 @@ export const micronesiaReliefV2: POI[] = [
   },
   {
     id: "micronesia-sleeping-lady-relief-v2",
+    parent: "FM",
     type: "landmark",
     name: { de: "Schlafende Dame von Kosrae", hu: "Kosrae alvó hölgye", ro: "Doamna Adormită din Kosrae", en: "Kosrae Sleeping Lady" },
     coords: [162.9997, 5.3314],
@@ -99,6 +102,7 @@ export const micronesiaReliefV2: POI[] = [
   },
   {
     id: "micronesia-mount-teroken-relief-v2",
+    parent: "FM",
     type: "mountain",
     name: { de: "Berg Teroken", hu: "Teroken-hegy", ro: "Muntele Teroken", en: "Mount Teroken" },
     coords: [151.8511, 7.4419],
@@ -131,6 +135,7 @@ export const micronesiaReliefV2: POI[] = [
   },
   {
     id: "micronesia-mount-oma-relief-v2",
+    parent: "FM",
     type: "peak",
     name: { de: "Berg Oma", hu: "Oma-hegy", ro: "Muntele Oma", en: "Mount Oma" },
     coords: [162.9736, 5.3025],
@@ -163,6 +168,7 @@ export const micronesiaReliefV2: POI[] = [
   },
   {
     id: "micronesia-dolohmwar-relief-v2",
+    parent: "FM",
     type: "peak",
     name: { de: "Dolohmwar", hu: "Dolohmwar", ro: "Dolohmwar", en: "Dolohmwar" },
     coords: [158.2167, 6.8833],

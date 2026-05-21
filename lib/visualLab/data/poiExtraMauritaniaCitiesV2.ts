@@ -3,6 +3,7 @@ export const mauritaniaCitiesV2: POI[] = [
 
   {
     id: "mauritania-nouakchott-cities-v2",
+    parent: "MR",
     type: "capital",
     name: { de: "Nouakchott", hu: "Nouakchott", ro: "Nouakchott", en: "Nouakchott" },
     coords: [-15.9785, 18.0858],
@@ -35,6 +36,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-nouadhibou-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Nouadhibou", hu: "Nouadhibou", ro: "Nouadhibou", en: "Nouadhibou" },
     coords: [-17.0333, 20.9333],
@@ -67,6 +69,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-kiffa-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Kiffa", hu: "Kiffa", ro: "Kiffa", en: "Kiffa" },
     coords: [-11.4, 16.6333],
@@ -99,6 +102,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-kaedi-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Kaédi", hu: "Kaédi", ro: "Kaédi", en: "Kaédi" },
     coords: [-13.5047, 16.145],
@@ -131,6 +135,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-rosso-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Rosso", hu: "Rosso", ro: "Rosso", en: "Rosso" },
     coords: [-15.8049, 16.5125],
@@ -163,6 +168,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-zouerat-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Zouérat", hu: "Zouérat", ro: "Zouérat", en: "Zouérat" },
     coords: [-12.48, 22.7297],
@@ -227,6 +233,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-selibaby-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Sélibaby", hu: "Sélibaby", ro: "Sélibaby", en: "Sélibaby" },
     coords: [-12.1833, 15.15],
@@ -259,6 +266,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-tidjikja-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Tidjikja", hu: "Tidjikja", ro: "Tidjikja", en: "Tidjikja" },
     coords: [-11.4271, 18.5564],
@@ -291,6 +299,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-tintane-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Tintane", hu: "Tintane", ro: "Tintane", en: "Tintane" },
     coords: [-10.15, 16.35],
@@ -323,6 +332,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-akjoujt-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Akjoujt", hu: "Akjoujt", ro: "Akjoujt", en: "Akjoujt" },
     coords: [-14.3917, 19.7431],
@@ -355,6 +365,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-nema-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Néma", hu: "Néma", ro: "Néma", en: "Néma" },
     coords: [-7.25, 16.6167],
@@ -387,6 +398,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-boghe-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Boghé", hu: "Boghé", ro: "Boghé", en: "Boghé" },
     coords: [-14.281, 16.577],
@@ -419,6 +431,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-ouadane-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Ouadane", hu: "Ouadane", ro: "Ouadane", en: "Ouadane" },
     coords: [-11.6242, 20.9388],
@@ -451,6 +464,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-chinguetti-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Chinguetti", hu: "Chinguetti", ro: "Chinguetti", en: "Chinguetti" },
     coords: [-12.3655, 20.4578],
@@ -483,6 +497,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-fderik-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Fdérik", hu: "Fdérik", ro: "Fdérik", en: "Fdérik" },
     coords: [-12.72, 22.68],
@@ -515,6 +530,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-aoun-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Aïoun", hu: "Aïoun", ro: "Aïoun", en: "Aïoun" },
     coords: [-9.6, 16.6667],
@@ -547,6 +563,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-barkeol-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Barkéol", hu: "Barkéol", ro: "Barkéol", en: "Barkéol" },
     coords: [-11.7, 16.5167],
@@ -579,6 +596,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-boutilimit-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Boutilimit", hu: "Boutilimit", ro: "Boutilimit", en: "Boutilimit" },
     coords: [-14.68, 17.525],
@@ -611,6 +629,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-maghama-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Maghama", hu: "Maghama", ro: "Maghama", en: "Maghama" },
     coords: [-12.8667, 15.5333],
@@ -643,6 +662,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-gouraye-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Gouraye", hu: "Gouraye", ro: "Gouraye", en: "Gouraye" },
     coords: [-12.2667, 15.05],
@@ -675,6 +695,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-kaedi-suburb-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Gorgol", hu: "Gorgol", ro: "Gorgol", en: "Gorgol" },
     coords: [-13.5, 16.14],
@@ -707,6 +728,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-wompou-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Wompou", hu: "Wompou", ro: "Wompou", en: "Wompou" },
     coords: [-12.1, 15.1],
@@ -739,6 +761,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-bababe-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Bababé", hu: "Bababé", ro: "Bababé", en: "Bababé" },
     coords: [-13.78, 16.56],
@@ -771,6 +794,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-tichitt-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Tichitt", hu: "Tichitt", ro: "Tichitt", en: "Tichitt" },
     coords: [-9.48, 18.43],
@@ -803,6 +827,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-moudjeria-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Moudjéria", hu: "Moudjéria", ro: "Moudjéria", en: "Moudjéria" },
     coords: [-12.36, 17.85],
@@ -835,6 +860,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-oualata-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Oualata", hu: "Oualata", ro: "Oualata", en: "Oualata" },
     coords: [-7.02, 17.29],
@@ -867,6 +893,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-nouamghar-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Nouamghar", hu: "Nouamghar", ro: "Nouamghar", en: "Nouamghar" },
     coords: [-16.3, 18.9],
@@ -899,6 +926,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-mbagne-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "M'Bagne", hu: "M'Bagne", ro: "M'Bagne", en: "M'Bagne" },
     coords: [-13.9, 16.6],
@@ -931,6 +959,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-kankossa-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Kankossa", hu: "Kankossa", ro: "Kankossa", en: "Kankossa" },
     coords: [-11.6, 16.05],
@@ -963,6 +992,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-djedjeb-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Djédjé", hu: "Djédjé", ro: "Djédjé", en: "Djédjé" },
     coords: [-14.1, 16.5],
@@ -995,6 +1025,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-mouit-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Mouit", hu: "Mouit", ro: "Mouit", en: "Mouit" },
     coords: [-16.1, 17.6],
@@ -1027,6 +1058,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-oualata-suburb-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Oualata-Est", hu: "Oualata-Est", ro: "Oualata-Est", en: "Oualata-Est" },
     coords: [-7.01, 17.28],
@@ -1059,6 +1091,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-kiffa-suburb-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Kiffa-Nord", hu: "Kiffa-Nord", ro: "Kiffa-Nord", en: "Kiffa-Nord" },
     coords: [-11.41, 16.64],
@@ -1123,6 +1156,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-rosso-est-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Rosso-Est", hu: "Rosso-Est", ro: "Rosso-Est", en: "Rosso-Est" },
     coords: [-15.79, 16.51],
@@ -1155,6 +1189,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-kaedi-nord-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Kaédi-Nord", hu: "Kaédi-Nord", ro: "Kaédi-Nord", en: "Kaédi-Nord" },
     coords: [-13.5, 16.15],
@@ -1187,6 +1222,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-nema-nord-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Néma-Nord", hu: "Néma-Nord", ro: "Néma-Nord", en: "Néma-Nord" },
     coords: [-7.25, 16.63],
@@ -1219,6 +1255,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-akjoujt-nord-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Akjoujt-Nord", hu: "Akjoujt-Nord", ro: "Akjoujt-Nord", en: "Akjoujt-Nord" },
     coords: [-14.39, 19.75],
@@ -1251,6 +1288,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-zouerat-nord-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Zouérat-Nord", hu: "Zouérat-Nord", ro: "Zouérat-Nord", en: "Zouérat-Nord" },
     coords: [-12.48, 22.74],
@@ -1283,6 +1321,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-boghe-nord-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Boghé-Nord", hu: "Boghé-Nord", ro: "Boghé-Nord", en: "Boghé-Nord" },
     coords: [-14.28, 16.58],
@@ -1315,6 +1354,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-tintane-nord-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Tintane-Nord", hu: "Tintane-Nord", ro: "Tintane-Nord", en: "Tintane-Nord" },
     coords: [-10.15, 16.36],
@@ -1347,6 +1387,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-selibaby-est-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Sélibaby-Est", hu: "Sélibaby-Est", ro: "Sélibaby-Est", en: "Sélibaby-Est" },
     coords: [-12.17, 15.15],
@@ -1379,6 +1420,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-maghama-est-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Maghama-Est", hu: "Maghama-Est", ro: "Maghama-Est", en: "Maghama-Est" },
     coords: [-12.85, 15.53],
@@ -1411,6 +1453,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-gouraye-nord-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Gouraye-Nord", hu: "Gouraye-Nord", ro: "Gouraye-Nord", en: "Gouraye-Nord" },
     coords: [-12.26, 15.06],
@@ -1443,6 +1486,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-bababe-nord-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Bababé-Nord", hu: "Bababé-Nord", ro: "Bababé-Nord", en: "Bababé-Nord" },
     coords: [-13.78, 16.57],
@@ -1475,6 +1519,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-tichitt-est-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Tichitt-Est", hu: "Tichitt-Est", ro: "Tichitt-Est", en: "Tichitt-Est" },
     coords: [-9.47, 18.43],
@@ -1507,6 +1552,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-moudjeria-nord-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Moudjéria-Nord", hu: "Moudjéria-Nord", ro: "Moudjéria-Nord", en: "Moudjéria-Nord" },
     coords: [-12.36, 17.86],
@@ -1539,6 +1585,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-nouamghar-nord-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Nouamghar-Nord", hu: "Nouamghar-Nord", ro: "Nouamghar-Nord", en: "Nouamghar-Nord" },
     coords: [-16.3, 18.91],
@@ -1571,6 +1618,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-mbagne-nord-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "M'Bagne-Nord", hu: "M'Bagne-Nord", ro: "M'Bagne-Nord", en: "M'Bagne-Nord" },
     coords: [-13.9, 16.61],
@@ -1603,6 +1651,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-kankossa-nord-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Kankossa-Nord", hu: "Kankossa-Nord", ro: "Kankossa-Nord", en: "Kankossa-Nord" },
     coords: [-11.6, 16.06],
@@ -1635,6 +1684,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-bous-nord-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Bous-Nord", hu: "Bous-Nord", ro: "Bous-Nord", en: "Bous-Nord" },
     coords: [-14.6, 17.56],
@@ -1667,6 +1717,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-djedjeb-nord-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Djédjé-Nord", hu: "Djédjé-Nord", ro: "Djédjé-Nord", en: "Djédjé-Nord" },
     coords: [-14.1, 16.51],
@@ -1699,6 +1750,7 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-mouit-nord-cities-v2",
+    parent: "MR",
     type: "city",
     name: { de: "Mouit-Nord", hu: "Mouit-Nord", ro: "Mouit-Nord", en: "Mouit-Nord" },
     coords: [-16.1, 17.61],

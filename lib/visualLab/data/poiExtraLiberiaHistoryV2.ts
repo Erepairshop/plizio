@@ -3,6 +3,7 @@ export const liberiaHistoryV2: POI[] = [
 
   {
     id: "liberia-providence-island-history-v2",
+    parent: "LR",
     type: "landmark",
     name: { de: "Providence Island", hu: "Providence-sziget", ro: "Insula Providence", en: "Providence Island" },
     coords: [-10.8039, 6.3267],
@@ -35,6 +36,7 @@ export const liberiaHistoryV2: POI[] = [
   },
   {
     id: "liberia-centennial-pavilion-history-v2",
+    parent: "LR",
     type: "monument",
     name: { de: "Centennial Pavilion", hu: "Centennial Pavilion", ro: "Centennial Pavilion", en: "Centennial Pavilion" },
     coords: [-10.8023, 6.3142],
@@ -67,6 +69,7 @@ export const liberiaHistoryV2: POI[] = [
   },
   {
     id: "liberia-matilda-newport-statue-history-v2",
+    parent: "LR",
     type: "monument",
     name: { de: "Matilda Newport Statue", hu: "Matilda Newport-szobor", ro: "Statuia Matilda Newport", en: "Matilda Newport Statue" },
     coords: [-10.8012, 6.3185],

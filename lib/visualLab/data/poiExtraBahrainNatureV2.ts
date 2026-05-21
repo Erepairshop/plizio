@@ -3,6 +3,7 @@ export const bahrainNatureV2: POI[] = [
 
   {
     id: "bahrain-jabal-ad-dukhan-nature-v2",
+    parent: "BH",
     type: "peak",
     name: { de: "Jabal ad-Dukhan", hu: "Jabal ad-Dukhan", ro: "Jabal ad-Dukhan", en: "Jabal ad-Dukhan" },
     coords: [50.5508, 26.0372],
@@ -47,6 +48,7 @@ export const bahrainNatureV2: POI[] = [
   },
   {
     id: "bahrain-hawar-island-nature-v2",
+    parent: "BH",
     type: "landmark",
     name: { de: "Hawar-Insel", hu: "Hawar-sziget", ro: "Insula Hawar", en: "Hawar Island" },
     coords: [50.7833, 25.6833],
@@ -91,6 +93,7 @@ export const bahrainNatureV2: POI[] = [
   },
   {
     id: "bahrain-suwad-al-shamaliyya-nature-v2",
+    parent: "BH",
     type: "wildlife",
     name: { de: "Suwad al Shamaliyya", hu: "Suwad al Shamaliyya", ro: "Suwad al Shamaliyya", en: "Suwad al Shamaliyya" },
     coords: [50.8117, 25.7533],
@@ -135,6 +138,7 @@ export const bahrainNatureV2: POI[] = [
   },
   {
     id: "bahrain-suwad-al-janubiyya-nature-v2",
+    parent: "BH",
     type: "wildlife",
     name: { de: "Suwad al Janubiyya", hu: "Suwad al Janubiyya", ro: "Suwad al Janubiyya", en: "Suwad al Janubiyya" },
     coords: [50.7811, 25.7192],
@@ -179,6 +183,7 @@ export const bahrainNatureV2: POI[] = [
   },
   {
     id: "bahrain-rubud-al-sharqiyya-nature-v2",
+    parent: "BH",
     type: "wildlife",
     name: { de: "Rubud al Sharqiyya", hu: "Rubud al Sharqiyya", ro: "Rubud al Sharqiyya", en: "Rubud al Sharqiyya" },
     coords: [50.7719, 25.7506],
@@ -223,6 +228,7 @@ export const bahrainNatureV2: POI[] = [
   },
   {
     id: "bahrain-rubud-al-gharbiyya-nature-v2",
+    parent: "BH",
     type: "wildlife",
     name: { de: "Rubud al Gharbiyya", hu: "Rubud al Gharbiyya", ro: "Rubud al Gharbiyya", en: "Rubud al Gharbiyya" },
     coords: [50.755, 25.7483],
@@ -267,6 +273,7 @@ export const bahrainNatureV2: POI[] = [
   },
   {
     id: "bahrain-umm-an-nasan-nature-v2",
+    parent: "BH",
     type: "landmark",
     name: { de: "Umm an Nasan", hu: "Umm an Nasan", ro: "Umm an Nasan", en: "Umm an Nasan" },
     coords: [50.4083, 26.1417],
@@ -311,6 +318,7 @@ export const bahrainNatureV2: POI[] = [
   },
   {
     id: "bahrain-jidda-island-nature-v2",
+    parent: "BH",
     type: "landmark",
     name: { de: "Jidda-Insel", hu: "Jidda-sziget", ro: "Insula Jidda", en: "Jidda Island" },
     coords: [50.4022, 26.1953],
@@ -355,6 +363,7 @@ export const bahrainNatureV2: POI[] = [
   },
   {
     id: "bahrain-al-jazaer-beach-nature-v2",
+    parent: "BH",
     type: "landmark",
     name: { de: "Al Jazaer Strand", hu: "Al Jazaer strand", ro: "Plaja Al Jazaer", en: "Al Jazaer Beach" },
     coords: [50.4633, 25.9861],
@@ -399,6 +408,7 @@ export const bahrainNatureV2: POI[] = [
   },
   {
     id: "bahrain-fasht-al-jarim-nature-v2",
+    parent: "BH",
     type: "wildlife",
     name: { de: "Fasht al Jarim", hu: "Fasht al Jarim", ro: "Fasht al Jarim", en: "Fasht al Jarim" },
     coords: [50.5, 26.5],
@@ -443,6 +453,7 @@ export const bahrainNatureV2: POI[] = [
   },
   {
     id: "bahrain-wadi-al-buhair-nature-v2",
+    parent: "BH",
     type: "valley",
     name: { de: "Wadi al Buhair", hu: "Wadi al Buhair", ro: "Wadi al Buhair", en: "Wadi al Buhair" },
     coords: [50.5656, 26.1425],
@@ -487,6 +498,7 @@ export const bahrainNatureV2: POI[] = [
   },
   {
     id: "bahrain-ras-al-bar-nature-v2",
+    parent: "BH",
     type: "landmark",
     name: { de: "Ras Al Bar", hu: "Ras Al Bar", ro: "Ras Al Bar", en: "Ras Al Bar" },
     coords: [50.5483, 25.795],
@@ -531,6 +543,7 @@ export const bahrainNatureV2: POI[] = [
   },
   {
     id: "bahrain-umm-jalid-island-nature-v2",
+    parent: "BH",
     type: "wildlife",
     name: { de: "Umm Jalid", hu: "Umm Jalid", ro: "Umm Jalid", en: "Umm Jalid" },
     coords: [50.69, 25.76],
@@ -575,6 +588,7 @@ export const bahrainNatureV2: POI[] = [
   },
   {
     id: "bahrain-bu-saadah-island-nature-v2",
+    parent: "BH",
     type: "landmark",
     name: { de: "Bu Sa'adah", hu: "Bu Sa'adah", ro: "Bu Sa'adah", en: "Bu Sa'adah" },
     coords: [50.71, 25.725],
@@ -619,6 +633,7 @@ export const bahrainNatureV2: POI[] = [
   },
   {
     id: "bahrain-jazirat-al-hamra-nature-v2",
+    parent: "BH",
     type: "landmark",
     name: { de: "Jazirat al Hamra", hu: "Jazirat al Hamra", ro: "Jazirat al Hamra", en: "Jazirat al Hamra" },
     coords: [50.84, 25.73],
@@ -663,6 +678,7 @@ export const bahrainNatureV2: POI[] = [
   },
   {
     id: "bahrain-ras-al-qulayah-nature-v2",
+    parent: "BH",
     type: "landmark",
     name: { de: "Ras al Qulayah", hu: "Ras al Qulayah", ro: "Ras al Qulayah", en: "Ras al Qulayah" },
     coords: [50.65, 26.21],
@@ -707,6 +723,7 @@ export const bahrainNatureV2: POI[] = [
   },
   {
     id: "bahrain-khor-al-qulayah-nature-v2",
+    parent: "BH",
     type: "wildlife",
     name: { de: "Khor al Qulayah", hu: "Khor al Qulayah", ro: "Khor al Qulayah", en: "Khor al Qulayah" },
     coords: [50.62, 26.19],
@@ -751,6 +768,7 @@ export const bahrainNatureV2: POI[] = [
   },
   {
     id: "bahrain-jazirat-al-shajirah-nature-v2",
+    parent: "BH",
     type: "landmark",
     name: { de: "Jazirat al Shajirah", hu: "Jazirat al Shajirah", ro: "Jazirat al Shajirah", en: "Jazirat al Shajirah" },
     coords: [50.7, 25.77],
@@ -795,6 +813,7 @@ export const bahrainNatureV2: POI[] = [
   },
   {
     id: "bahrain-umm-al-shajar-nature-v2",
+    parent: "BH",
     type: "landmark",
     name: { de: "Umm al Shajar", hu: "Umm al Shajar", ro: "Umm al Shajar", en: "Umm al Shajar" },
     coords: [50.72, 26.21],
@@ -839,6 +858,7 @@ export const bahrainNatureV2: POI[] = [
   },
   {
     id: "bahrain-fasht-al-dibal-nature-v2",
+    parent: "BH",
     type: "wildlife",
     name: { de: "Fasht al Dibal", hu: "Fasht al Dibal", ro: "Fasht al Dibal", en: "Fasht al Dibal" },
     coords: [50.93, 26.27],
@@ -883,6 +903,7 @@ export const bahrainNatureV2: POI[] = [
   },
   {
     id: "bahrain-ras-mumlihah-nature-v2",
+    parent: "BH",
     type: "landmark",
     name: { de: "Ras Mumlihah", hu: "Ras Mumlihah", ro: "Ras Mumlihah", en: "Ras Mumlihah" },
     coords: [50.5, 25.95],
@@ -927,6 +948,7 @@ export const bahrainNatureV2: POI[] = [
   },
   {
     id: "bahrain-najwat-bulthamah-nature-v2",
+    parent: "BH",
     type: "wildlife",
     name: { de: "Najwat Bulthamah", hu: "Najwat Bulthamah", ro: "Najwat Bulthamah", en: "Najwat Bulthamah" },
     coords: [50.9, 26.8],
@@ -971,6 +993,7 @@ export const bahrainNatureV2: POI[] = [
   },
   {
     id: "bahrain-hayr-shariyah-nature-v2",
+    parent: "BH",
     type: "wildlife",
     name: { de: "Hayr Shariyah", hu: "Hayr Shariyah", ro: "Hayr Shariyah", en: "Hayr Shariyah" },
     coords: [50.75, 26.65],
@@ -1015,6 +1038,7 @@ export const bahrainNatureV2: POI[] = [
   },
   {
     id: "bahrain-bu-thaur-island-nature-v2",
+    parent: "BH",
     type: "landmark",
     name: { de: "Bu Thaur", hu: "Bu Thaur", ro: "Bu Thaur", en: "Bu Thaur" },
     coords: [50.73, 25.7],
@@ -1059,6 +1083,7 @@ export const bahrainNatureV2: POI[] = [
   },
   {
     id: "bahrain-jazirat-al-khisifah-nature-v2",
+    parent: "BH",
     type: "landmark",
     name: { de: "Jazirat al Khisifah", hu: "Jazirat al Khisifah", ro: "Jazirat al Khisifah", en: "Jazirat al Khisifah" },
     coords: [50.85, 25.74],
@@ -1103,6 +1128,7 @@ export const bahrainNatureV2: POI[] = [
   },
   {
     id: "bahrain-al-hazm-plateau-nature-v2",
+    parent: "BH",
     type: "mountain",
     name: { de: "Al Hazm Plateau", hu: "Al Hazm-fennsík", ro: "Podișul Al Hazm", en: "Al Hazm Plateau" },
     coords: [50.53, 26.02],

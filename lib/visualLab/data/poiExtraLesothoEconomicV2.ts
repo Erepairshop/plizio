@@ -3,6 +3,7 @@ export const lesothoEconomicV2: POI[] = [
 
   {
     id: "lesotho-kao-diamond-mine-economic-v2",
+    parent: "LS",
     type: "mine",
     name: { de: "Kao-Diamantenmine", hu: "Kao gyémántbánya", ro: "Mină de diamante Kao", en: "Kao Diamond Mine" },
     coords: [28.65, -28.783],
@@ -35,6 +36,7 @@ export const lesothoEconomicV2: POI[] = [
   },
   {
     id: "lesotho-liqhobong-mine-economic-v2",
+    parent: "LS",
     type: "mine",
     name: { de: "Liqhobong-Mine", hu: "Liqhobong bánya", ro: "Mină Liqhobong", en: "Liqhobong Mine" },
     coords: [28.616, -28.75],
@@ -67,6 +69,7 @@ export const lesothoEconomicV2: POI[] = [
   },
   {
     id: "lesotho-mothae-mine-economic-v2",
+    parent: "LS",
     type: "mine",
     name: { de: "Mothae-Mine", hu: "Mothae bánya", ro: "Mină Mothae", en: "Mothae Mine" },
     coords: [28.81, -28.98],
@@ -99,6 +102,7 @@ export const lesothoEconomicV2: POI[] = [
   },
   {
     id: "lesotho-kolo-mine-economic-v2",
+    parent: "LS",
     type: "mine",
     name: { de: "Kolo-Mine", hu: "Kolo bánya", ro: "Mină Kolo", en: "Kolo Mine" },
     coords: [27.28, -29.68],
@@ -131,6 +135,7 @@ export const lesothoEconomicV2: POI[] = [
   },
   {
     id: "lesotho-muela-hydropower-economic-v2",
+    parent: "LS",
     type: "factory",
     name: { de: "Wasserkraftwerk Muela", hu: "Muela vízerőmű", ro: "Hidrocentrala Muela", en: "Muela Hydropower" },
     coords: [28.45, -28.46],
@@ -163,6 +168,7 @@ export const lesothoEconomicV2: POI[] = [
   },
   {
     id: "lesotho-tikoe-industrial-economic-v2",
+    parent: "LS",
     type: "industry",
     name: { de: "Tikoe-Industriegebiet", hu: "Tikoe ipari park", ro: "Zona industrială Tikoe", en: "Tikoe Industrial" },
     coords: [27.52, -29.35],
@@ -195,6 +201,7 @@ export const lesothoEconomicV2: POI[] = [
   },
   {
     id: "lesotho-thetsane-area-economic-v2",
+    parent: "LS",
     type: "industry",
     name: { de: "Thetsane-Industriezone", hu: "Thetsane ipari övezet", ro: "Zona industrială Thetsane", en: "Thetsane Area" },
     coords: [27.46, -29.33],
@@ -227,6 +234,7 @@ export const lesothoEconomicV2: POI[] = [
   },
   {
     id: "lesotho-sani-pass-border-economic-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Sani-Pass-Grenzstation", hu: "Sani-hágó határátkelő", ro: "Punct de frontieră Sani Pass", en: "Sani Pass Border" },
     coords: [29.287, -29.584],
@@ -259,6 +267,7 @@ export const lesothoEconomicV2: POI[] = [
   },
   {
     id: "lesotho-caledonspoort-gate-economic-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Caledonspoort-Grenzübergang", hu: "Caledonspoort határkapu", ro: "Poarta Caledonspoort", en: "Caledonspoort Gate" },
     coords: [28.235, -28.695],
@@ -291,6 +300,7 @@ export const lesothoEconomicV2: POI[] = [
   },
   {
     id: "lesotho-van-rooyens-gate-economic-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Van Rooyen's Gate", hu: "Van Rooyen kapu", ro: "Poarta Van Rooyen", en: "Van Rooyen's Gate" },
     coords: [27.11, -29.755],
@@ -323,6 +333,7 @@ export const lesothoEconomicV2: POI[] = [
   },
   {
     id: "lesotho-ramatselisos-gate-economic-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Ramatseliso's Gate", hu: "Ramatseliso kapuja", ro: "Poarta Ramatseliso", en: "Ramatseliso's Gate" },
     coords: [28.93, -30.05],
@@ -355,6 +366,7 @@ export const lesothoEconomicV2: POI[] = [
   },
   {
     id: "lesotho-sepapus-gate-economic-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Sepapu's Gate", hu: "Sepapu kapuja", ro: "Poarta Sepapu", en: "Sepapu's Gate" },
     coords: [27.23, -29.93],
@@ -387,6 +399,7 @@ export const lesothoEconomicV2: POI[] = [
   },
   {
     id: "lesotho-ha-nyenye-estate-economic-v2",
+    parent: "LS",
     type: "industry",
     name: { de: "Ha-Nyenye-Industriegebiet", hu: "Ha-Nyenye ipartelep", ro: "Zona industrială Ha Nyenye", en: "Ha Nyenye Estate" },
     coords: [27.91, -28.91],
@@ -419,6 +432,7 @@ export const lesothoEconomicV2: POI[] = [
   },
   {
     id: "lesotho-polihali-reservoir-economic-v2",
+    parent: "LS",
     type: "lake",
     name: { de: "Polihali-Stausee", hu: "Polihali víztározó", ro: "Rezervorul Polihali", en: "Polihali Reservoir" },
     coords: [28.84, -29.28],
@@ -451,6 +465,7 @@ export const lesothoEconomicV2: POI[] = [
   },
   {
     id: "lesotho-loti-brick-economic-v2",
+    parent: "LS",
     type: "factory",
     name: { de: "Loti-Ziegelwerk", hu: "Loti téglagyár", ro: "Fabrica de cărămizi Loti", en: "Loti Brick" },
     coords: [27.5, -29.35],
@@ -483,6 +498,7 @@ export const lesothoEconomicV2: POI[] = [
   },
   {
     id: "lesotho-ngoajane-bridge-economic-v2",
+    parent: "LS",
     type: "bridge",
     name: { de: "Ngoajane-Brücke", hu: "Ngoajane-híd", ro: "Podul Ngoajane", en: "Ngoajane Bridge" },
     coords: [28.32, -28.53],
@@ -515,6 +531,7 @@ export const lesothoEconomicV2: POI[] = [
   },
   {
     id: "lesotho-maluti-brewery-economic-v2",
+    parent: "LS",
     type: "factory",
     name: { de: "Maluti-Brauerei", hu: "Maluti sörgyár", ro: "Fabrica de bere Maluti", en: "Maluti Brewery" },
     coords: [27.5, -29.3],
@@ -547,6 +564,7 @@ export const lesothoEconomicV2: POI[] = [
   },
   {
     id: "lesotho-moshoeshoe-airport-economic-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Moshoeshoe-Flughafen", hu: "Moshoeshoe repülőtér", ro: "Aeroportul Moshoeshoe", en: "Moshoeshoe Airport" },
     coords: [27.552, -29.462],
@@ -579,6 +597,7 @@ export const lesothoEconomicV2: POI[] = [
   },
   {
     id: "lesotho-national-abattoir-economic-v2",
+    parent: "LS",
     type: "factory",
     name: { de: "Nationaler Schlachthof", hu: "Nemzeti vágóhíd", ro: "Abatorul Național", en: "National Abattoir" },
     coords: [27.55, -29.35],
@@ -611,6 +630,7 @@ export const lesothoEconomicV2: POI[] = [
   },
   {
     id: "lesotho-ha-rambanta-solar-economic-v2",
+    parent: "LS",
     type: "factory",
     name: { de: "Ha-Rambanta Solarwerk", hu: "Ha-Rambanta naperőmű", ro: "Centrala solară Ha Rambanta", en: "Ha Rambanta Solar" },
     coords: [27.4, -29.65],
@@ -643,6 +663,7 @@ export const lesothoEconomicV2: POI[] = [
   },
   {
     id: "lesotho-monontsa-pass-economic-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Monontsa-Pass", hu: "Monontsa-hágó", ro: "Pasul Monontsa", en: "Monontsa Pass" },
     coords: [28.666, -28.583],
@@ -675,6 +696,7 @@ export const lesothoEconomicV2: POI[] = [
   },
   {
     id: "lesotho-ongeluksnek-pass-economic-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Ongeluksnek-Pass", hu: "Ongeluksnek-hágó", ro: "Pasul Ongeluksnek", en: "Ongeluksnek Pass" },
     coords: [28.25, -30.33],
@@ -707,6 +729,7 @@ export const lesothoEconomicV2: POI[] = [
   },
   {
     id: "lesotho-bushmans-nek-economic-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Bushman's Nek", hu: "Bushman's Nek", ro: "Bushman's Nek", en: "Bushman's Nek" },
     coords: [29.15, -29.86],
@@ -739,6 +762,7 @@ export const lesothoEconomicV2: POI[] = [
   },
   {
     id: "lesotho-namahali-pass-economic-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Namahali-Pass", hu: "Namahali-hágó", ro: "Pasul Namahali", en: "Namahali Pass" },
     coords: [28.85, -28.75],
@@ -771,6 +795,7 @@ export const lesothoEconomicV2: POI[] = [
   },
   {
     id: "lesotho-matebeng-pass-economic-v2",
+    parent: "LS",
     type: "landmark",
     name: { de: "Matebeng-Pass", hu: "Matebeng-hágó", ro: "Pasul Matebeng", en: "Matebeng Pass" },
     coords: [28.78, -29.88],
@@ -803,6 +828,7 @@ export const lesothoEconomicV2: POI[] = [
   },
   {
     id: "lesotho-khabane-mine-economic-v2",
+    parent: "LS",
     type: "mine",
     name: { de: "Khabane-Bergbaustandort", hu: "Khabane bányaterület", ro: "Situl minier Khabane", en: "Khabane Mine" },
     coords: [28.75, -28.8],
@@ -835,6 +861,7 @@ export const lesothoEconomicV2: POI[] = [
   },
   {
     id: "lesotho-lemphane-mine-economic-v2",
+    parent: "LS",
     type: "mine",
     name: { de: "Lemphane-Diamantenmine", hu: "Lemphane gyémántbánya", ro: "Mină de diamante Lemphane", en: "Lemphane Mine" },
     coords: [28.7, -28.88],
@@ -867,6 +894,7 @@ export const lesothoEconomicV2: POI[] = [
   },
   {
     id: "lesotho-ha-tsilo-farm-economic-v2",
+    parent: "LS",
     type: "industry",
     name: { de: "Ha-Tsilo-Agrarzentrum", hu: "Ha-Tsilo mezőgazdasági központ", ro: "Centrul agricol Ha Tsilo", en: "Ha Tsilo Farm" },
     coords: [27.4, -29.4],
@@ -899,6 +927,7 @@ export const lesothoEconomicV2: POI[] = [
   },
   {
     id: "lesotho-borata-industrial-economic-v2",
+    parent: "LS",
     type: "industry",
     name: { de: "Borata-Industriezone", hu: "Borata ipari övezet", ro: "Zona industrială Borata", en: "Borata Industrial" },
     coords: [27.25, -29.7],
@@ -931,6 +960,7 @@ export const lesothoEconomicV2: POI[] = [
   },
   {
     id: "lesotho-ha-soai-hydropower-economic-v2",
+    parent: "LS",
     type: "factory",
     name: { de: "Wasserkraftwerk Ha-Soai", hu: "Ha-Soai vízerőmű", ro: "Hidrocentrala Ha Soai", en: "Ha Soai Hydropower" },
     coords: [28.15, -29.55],

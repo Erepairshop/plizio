@@ -3,6 +3,7 @@ export const kiribatiNatureV2: POI[] = [
 
   {
     id: "kiribati-kiritimati-nature-v2",
+    parent: "KI",
     type: "landmark",
     name: { de: "Kiritimati", hu: "Kiritimati", ro: "Kiritimati", en: "Kiritimati" },
     coords: [-157.4128, 1.8888],
@@ -35,6 +36,7 @@ export const kiribatiNatureV2: POI[] = [
   },
   {
     id: "kiribati-banaba-island-nature-v2",
+    parent: "KI",
     type: "landmark",
     name: { de: "Banaba", hu: "Banaba-sziget", ro: "Insula Banaba", en: "Banaba Island" },
     coords: [169.5333, -0.8528],
@@ -67,6 +69,7 @@ export const kiribatiNatureV2: POI[] = [
   },
   {
     id: "kiribati-teraina-nature-v2",
+    parent: "KI",
     type: "lake",
     name: { de: "Teraina", hu: "Teraina", ro: "Teraina", en: "Teraina" },
     coords: [-160.3833, 4.6833],
@@ -99,6 +102,7 @@ export const kiribatiNatureV2: POI[] = [
   },
   {
     id: "kiribati-tabuaeran-nature-v2",
+    parent: "KI",
     type: "landmark",
     name: { de: "Tabuaeran", hu: "Tabuaeran", ro: "Tabuaeran", en: "Tabuaeran" },
     coords: [-159.3333, 3.85],
@@ -131,6 +135,7 @@ export const kiribatiNatureV2: POI[] = [
   },
   {
     id: "kiribati-butaritari-atoll-nature-v2",
+    parent: "KI",
     type: "landmark",
     name: { de: "Butaritari", hu: "Butaritari", ro: "Butaritari", en: "Butaritari" },
     coords: [172.7917, 3.1667],
@@ -163,6 +168,7 @@ export const kiribatiNatureV2: POI[] = [
   },
   {
     id: "kiribati-nikumaroro-nature-v2",
+    parent: "KI",
     type: "wildlife",
     name: { de: "Nikumaroro", hu: "Nikumaroro", ro: "Nikumaroro", en: "Nikumaroro" },
     coords: [-174.525, -4.6722],
@@ -195,6 +201,7 @@ export const kiribatiNatureV2: POI[] = [
   },
   {
     id: "kiribati-caroline-atoll-nature-v2",
+    parent: "KI",
     type: "wildlife",
     name: { de: "Caroline-Atoll", hu: "Caroline-atoll", ro: "Atolul Caroline", en: "Caroline Atoll" },
     coords: [-150.21, -9.94],
@@ -227,6 +234,7 @@ export const kiribatiNatureV2: POI[] = [
   },
   {
     id: "kiribati-tarawa-lagoon-nature-v2",
+    parent: "KI",
     type: "lake",
     name: { de: "Tarawa-Lagune", hu: "Tarawa-lagúna", ro: "Laguna Tarawa", en: "Tarawa Lagoon" },
     coords: [172.9833, 1.4167],
@@ -259,6 +267,7 @@ export const kiribatiNatureV2: POI[] = [
   },
   {
     id: "kiribati-kanton-island-nature-v2",
+    parent: "KI",
     type: "landmark",
     name: { de: "Kanton", hu: "Kanton-sziget", ro: "Insula Kanton", en: "Kanton Island" },
     coords: [-171.67, -2.8122],
@@ -291,6 +300,7 @@ export const kiribatiNatureV2: POI[] = [
   },
   {
     id: "kiribati-mckean-island-nature-v2",
+    parent: "KI",
     type: "wildlife",
     name: { de: "McKean-Insel", hu: "McKean-sziget", ro: "Insula McKean", en: "McKean Island" },
     coords: [-174.1225, -3.5961],
@@ -323,6 +333,7 @@ export const kiribatiNatureV2: POI[] = [
   },
   {
     id: "kiribati-vostok-island-nature-v2",
+    parent: "KI",
     type: "forest",
     name: { de: "Vostok", hu: "Vosztok-sziget", ro: "Insula Vostok", en: "Vostok Island" },
     coords: [-152.3833, -10.1],
@@ -355,6 +366,7 @@ export const kiribatiNatureV2: POI[] = [
   },
   {
     id: "kiribati-flint-island-nature-v2",
+    parent: "KI",
     type: "landmark",
     name: { de: "Flint-Insel", hu: "Flint-sziget", ro: "Insula Flint", en: "Flint Island" },
     coords: [-151.8167, -11.4333],
@@ -387,6 +399,7 @@ export const kiribatiNatureV2: POI[] = [
   },
   {
     id: "kiribati-starbuck-island-nature-v2",
+    parent: "KI",
     type: "wildlife",
     name: { de: "Starbuck-Insel", hu: "Starbuck-sziget", ro: "Insula Starbuck", en: "Starbuck Island" },
     coords: [-155.935, -5.6214],
@@ -419,6 +432,7 @@ export const kiribatiNatureV2: POI[] = [
   },
   {
     id: "kiribati-malden-island-nature-v2",
+    parent: "KI",
     type: "wildlife",
     name: { de: "Malden-Insel", hu: "Malden-sziget", ro: "Insula Malden", en: "Malden Island" },
     coords: [-154.9167, -4.0167],
@@ -451,6 +465,7 @@ export const kiribatiNatureV2: POI[] = [
   },
   {
     id: "kiribati-enderbury-island-nature-v2",
+    parent: "KI",
     type: "wildlife",
     name: { de: "Enderbury-Insel", hu: "Enderbury-sziget", ro: "Insula Enderbury", en: "Enderbury Island" },
     coords: [-171.085, -3.1383],
@@ -483,6 +498,7 @@ export const kiribatiNatureV2: POI[] = [
   },
   {
     id: "kiribati-birnie-island-nature-v2",
+    parent: "KI",
     type: "wildlife",
     name: { de: "Birnie-Insel", hu: "Birnie-sziget", ro: "Insula Birnie", en: "Birnie Island" },
     coords: [-171.5167, -3.5833],
@@ -515,6 +531,7 @@ export const kiribatiNatureV2: POI[] = [
   },
   {
     id: "kiribati-rawaki-island-nature-v2",
+    parent: "KI",
     type: "wildlife",
     name: { de: "Rawaki-Insel", hu: "Rawaki-sziget", ro: "Insula Rawaki", en: "Rawaki Island" },
     coords: [-170.7119, -3.7222],
@@ -547,6 +564,7 @@ export const kiribatiNatureV2: POI[] = [
   },
   {
     id: "kiribati-manra-island-nature-v2",
+    parent: "KI",
     type: "landmark",
     name: { de: "Manra-Insel", hu: "Manra-sziget", ro: "Insula Manra", en: "Manra Island" },
     coords: [-171.2417, -4.45],
@@ -579,6 +597,7 @@ export const kiribatiNatureV2: POI[] = [
   },
   {
     id: "kiribati-orona-island-nature-v2",
+    parent: "KI",
     type: "landmark",
     name: { de: "Orona-Insel", hu: "Orona-sziget", ro: "Insula Orona", en: "Orona Island" },
     coords: [-172.1833, -4.5167],
@@ -611,6 +630,7 @@ export const kiribatiNatureV2: POI[] = [
   },
   {
     id: "kiribati-birnie-bird-reserve-nature-v2",
+    parent: "KI",
     type: "wildlife",
     name: { de: "Birnie Vogelschutzgebiet", hu: "Birnie madárrezervátum", ro: "Rezervația de păsări Birnie", en: "Birnie Bird Reserve" },
     coords: [-171.518, -3.585],
@@ -643,6 +663,7 @@ export const kiribatiNatureV2: POI[] = [
   },
   {
     id: "kiribati-fanning-coral-gardens-nature-v2",
+    parent: "KI",
     type: "landmark",
     name: { de: "Fanning-Korallengärten", hu: "Fanning-korallkertek", ro: "Grădinile de corali Fanning", en: "Fanning Coral Gardens" },
     coords: [-159.34, 3.86],
@@ -675,6 +696,7 @@ export const kiribatiNatureV2: POI[] = [
   },
   {
     id: "kiribati-abaing-lagoon-nature-v2",
+    parent: "KI",
     type: "lake",
     name: { de: "Abaiang-Lagune", hu: "Abaiang-lagúna", ro: "Laguna Abaiang", en: "Abaiang Lagoon" },
     coords: [172.9167, 1.8333],
@@ -707,6 +729,7 @@ export const kiribatiNatureV2: POI[] = [
   },
   {
     id: "kiribati-millennium-marine-park-nature-v2",
+    parent: "KI",
     type: "park",
     name: { de: "Millennium-Meerespark", hu: "Millennium tengeri park", ro: "Parcul Marin Millennium", en: "Millennium Marine Park" },
     coords: [-150.22, -9.95],

@@ -3,6 +3,7 @@ export const grenadaLifeV2: POI[] = [
 
   {
     id: "grenada-grand-etang-national-park-life-v2",
+    parent: "GD",
     type: "park",
     name: { de: "Grand Etang Nationalpark", hu: "Grand Etang Nemzeti Park", ro: "Parcul Național Grand Etang", en: "Grand Etang National Park" },
     coords: [-61.706, 12.096],
@@ -47,6 +48,7 @@ export const grenadaLifeV2: POI[] = [
   },
   {
     id: "grenada-levera-national-park-life-v2",
+    parent: "GD",
     type: "wildlife",
     name: { de: "Levera Nationalpark", hu: "Levera Nemzeti Park", ro: "Parcul Național Levera", en: "Levera National Park" },
     coords: [-61.614, 12.225],
@@ -91,6 +93,7 @@ export const grenadaLifeV2: POI[] = [
   },
   {
     id: "grenada-mt-hartman-dove-sanctuary-life-v2",
+    parent: "GD",
     type: "wildlife",
     name: { de: "Mt. Hartman Taubenschutzgebiet", hu: "Mt. Hartman Galambrezervátum", ro: "Sanctuarul de Porumbei Mt. Hartman", en: "Mt. Hartman Dove Sanctuary" },
     coords: [-61.731, 12.005],
@@ -135,6 +138,7 @@ export const grenadaLifeV2: POI[] = [
   },
   {
     id: "grenada-annandale-falls-life-v2",
+    parent: "GD",
     type: "park",
     name: { de: "Annandale Wasserfall", hu: "Annandale-vízesés", ro: "Cascada Annandale", en: "Annandale Falls" },
     coords: [-61.733, 12.083],
@@ -179,6 +183,7 @@ export const grenadaLifeV2: POI[] = [
   },
   {
     id: "grenada-concord-falls-life-v2",
+    parent: "GD",
     type: "park",
     name: { de: "Concord Wasserfälle", hu: "Concord-vízesések", ro: "Cascadele Concord", en: "Concord Falls" },
     coords: [-61.73, 12.122],
@@ -223,6 +228,7 @@ export const grenadaLifeV2: POI[] = [
   },
   {
     id: "grenada-palm-tree-gardens-life-v2",
+    parent: "GD",
     type: "wildlife",
     name: { de: "Palm Tree Gärten", hu: "Palm Tree Kertek", ro: "Grădinile Palm Tree", en: "Palm Tree Gardens" },
     coords: [-61.637, 12.106],
@@ -266,6 +272,7 @@ export const grenadaLifeV2: POI[] = [
   },
   {
     id: "grenada-la-sagesse-nature-center-life-v2",
+    parent: "GD",
     type: "wildlife",
     name: { de: "La Sagesse Naturzentrum", hu: "La Sagesse Természetvédelmi Központ", ro: "Centrul de Natură La Sagesse", en: "La Sagesse Nature Center" },
     coords: [-61.677, 12.022],
@@ -309,6 +316,7 @@ export const grenadaLifeV2: POI[] = [
   },
   {
     id: "grenada-bay-gardens-life-v2",
+    parent: "GD",
     type: "wildlife",
     name: { de: "Bay Gärten", hu: "Bay Kertek", ro: "Grădinile Bay", en: "Bay Gardens" },
     coords: [-61.737, 12.064],
@@ -352,6 +360,7 @@ export const grenadaLifeV2: POI[] = [
   },
   {
     id: "grenada-lake-antoine-national-park-life-v2",
+    parent: "GD",
     type: "park",
     name: { de: "Lake Antoine Nationalpark", hu: "Antoine-tó Nemzeti Park", ro: "Parcul Național Lacul Antoine", en: "Lake Antoine National Park" },
     coords: [-61.612, 12.181],
@@ -395,6 +404,7 @@ export const grenadaLifeV2: POI[] = [
   },
   {
     id: "grenada-sunnyside-garden-life-v2",
+    parent: "GD",
     type: "wildlife",
     name: { de: "Sunnyside Garten", hu: "Sunnyside Kert", ro: "Grădina Sunnyside", en: "Sunnyside Garden" },
     coords: [-61.727, 12.062],
@@ -438,6 +448,7 @@ export const grenadaLifeV2: POI[] = [
   },
   {
     id: "grenada-jessamine-eden-life-v2",
+    parent: "GD",
     type: "wildlife",
     name: { de: "Jessamine Eden Garten", hu: "Jessamine Eden Kert", ro: "Grădina Jessamine Eden", en: "Jessamine Eden" },
     coords: [-61.725, 12.09],
@@ -481,6 +492,7 @@ export const grenadaLifeV2: POI[] = [
   },
   {
     id: "grenada-smithys-garden-life-v2",
+    parent: "GD",
     type: "wildlife",
     name: { de: "Smithys Garten", hu: "Smithy Kertje", ro: "Grădina lui Smithy", en: "Smithy's Garden" },
     coords: [-61.722, 12.057],
@@ -524,6 +536,7 @@ export const grenadaLifeV2: POI[] = [
   },
   {
     id: "grenada-beausejour-river-life-v2",
+    parent: "GD",
     type: "river",
     name: { de: "Beausejour Fluss", hu: "Beausejour-folyó", ro: "Râul Beausejour", en: "Beausejour River" },
     coords: [-61.751, 12.103],
@@ -568,6 +581,7 @@ export const grenadaLifeV2: POI[] = [
   },
   {
     id: "grenada-quarantine-point-park-life-v2",
+    parent: "GD",
     type: "park",
     name: { de: "Quarantine Point Park", hu: "Quarantine Point Park", ro: "Parcul Quarantine Point", en: "Quarantine Point Park" },
     coords: [-61.764, 12.016],
@@ -612,6 +626,7 @@ export const grenadaLifeV2: POI[] = [
   },
   {
     id: "grenada-royal-mt-carmel-waterfalls-life-v2",
+    parent: "GD",
     type: "park",
     name: { de: "Royal Mount Carmel Wasserfälle", hu: "Royal Mount Carmel-vízesések", ro: "Cascadele Royal Mount Carmel", en: "Royal Mount Carmel Waterfalls" },
     coords: [-61.642, 12.115],

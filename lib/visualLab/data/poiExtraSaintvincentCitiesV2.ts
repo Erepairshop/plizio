@@ -3,6 +3,7 @@ export const saintvincentCitiesV2: POI[] = [
 
   {
     id: "saintvincent-kingstown-cities-v2",
+    parent: "VC",
     type: "capital",
     name: { de: "Kingstown", hu: "Kingstown", ro: "Kingstown", en: "Kingstown" },
     coords: [-61.2267, 13.1583],
@@ -35,6 +36,7 @@ export const saintvincentCitiesV2: POI[] = [
   },
   {
     id: "saintvincent-barrouallie-cities-v2",
+    parent: "VC",
     type: "town",
     name: { de: "Barrouallie", hu: "Barrouallie", ro: "Barrouallie", en: "Barrouallie" },
     coords: [-61.2725, 13.2358],
@@ -67,6 +69,7 @@ export const saintvincentCitiesV2: POI[] = [
   },
   {
     id: "saintvincent-layou-cities-v2",
+    parent: "VC",
     type: "town",
     name: { de: "Layou", hu: "Layou", ro: "Layou", en: "Layou" },
     coords: [-61.2683, 13.2033],
@@ -99,6 +102,7 @@ export const saintvincentCitiesV2: POI[] = [
   },
   {
     id: "saintvincent-chateaubelair-cities-v2",
+    parent: "VC",
     type: "town",
     name: { de: "Chateaubelair", hu: "Chateaubelair", ro: "Chateaubelair", en: "Chateaubelair" },
     coords: [-61.2394, 13.2889],
@@ -131,6 +135,7 @@ export const saintvincentCitiesV2: POI[] = [
   },
   {
     id: "saintvincent-port-elizabeth-cities-v2",
+    parent: "VC",
     type: "town",
     name: { de: "Port Elizabeth", hu: "Port Elizabeth", ro: "Port Elizabeth", en: "Port Elizabeth" },
     coords: [-61.2356, 13.0033],
@@ -163,6 +168,7 @@ export const saintvincentCitiesV2: POI[] = [
   },
   {
     id: "saintvincent-clifton-cities-v2",
+    parent: "VC",
     type: "town",
     name: { de: "Clifton", hu: "Clifton", ro: "Clifton", en: "Clifton" },
     coords: [-61.4183, 12.5958],
@@ -195,6 +201,7 @@ export const saintvincentCitiesV2: POI[] = [
   },
   {
     id: "saintvincent-calliaqua-cities-v2",
+    parent: "VC",
     type: "town",
     name: { de: "Calliaqua", hu: "Calliaqua", ro: "Calliaqua", en: "Calliaqua" },
     coords: [-61.1925, 13.1303],
@@ -227,6 +234,7 @@ export const saintvincentCitiesV2: POI[] = [
   },
   {
     id: "saintvincent-biabou-cities-v2",
+    parent: "VC",
     type: "village",
     name: { de: "Biabou", hu: "Biabou", ro: "Biabou", en: "Biabou" },
     coords: [-61.1419, 13.1975],
@@ -259,6 +267,7 @@ export const saintvincentCitiesV2: POI[] = [
   },
   {
     id: "saintvincent-charlestown-cities-v2",
+    parent: "VC",
     type: "town",
     name: { de: "Charlestown", hu: "Charlestown", ro: "Charlestown", en: "Charlestown" },
     coords: [-61.3267, 12.7167],
@@ -291,6 +300,7 @@ export const saintvincentCitiesV2: POI[] = [
   },
   {
     id: "saintvincent-ashton-cities-v2",
+    parent: "VC",
     type: "village",
     name: { de: "Ashton", hu: "Ashton", ro: "Ashton", en: "Ashton" },
     coords: [-61.4358, 12.5939],
@@ -323,6 +333,7 @@ export const saintvincentCitiesV2: POI[] = [
   },
   {
     id: "saintvincent-dovers-cities-v2",
+    parent: "VC",
     type: "village",
     name: { de: "Dovers", hu: "Dovers", ro: "Dovers", en: "Dovers" },
     coords: [-61.1764, 12.8789],
@@ -355,6 +366,7 @@ export const saintvincentCitiesV2: POI[] = [
   },
   {
     id: "saintvincent-byera-hill-cities-v2",
+    parent: "VC",
     type: "village",
     name: { de: "Byera Hill", hu: "Byera Hill", ro: "Byera Hill", en: "Byera Hill" },
     coords: [-61.12, 13.25],
@@ -387,6 +399,7 @@ export const saintvincentCitiesV2: POI[] = [
   },
   {
     id: "saintvincent-derrick-cities-v2",
+    parent: "VC",
     type: "village",
     name: { de: "Derrick", hu: "Derrick", ro: "Derrick", en: "Derrick" },
     coords: [-61.2528, 12.9861],
