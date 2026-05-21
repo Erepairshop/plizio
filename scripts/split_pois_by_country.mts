@@ -52,12 +52,14 @@ const [
   { hungaryAllPoi },
   { vaticanPois, vaticanCountry },
   { ALL_COUNTRY_POIS, ALL_DE_EXTRA_POIS },
+  { poiExtraHuV4 },
 ] = await Promise.all([
   import("../lib/visualLab/data/poi"),
   import("../lib/visualLab/data/romaniaPoi"),
   import("../lib/visualLab/data/hungaryPoi"),
   import("../lib/visualLab/data/vaticanPoi"),
   import("../lib/visualLab/data/allCountryPois"),
+  import("../lib/visualLab/data/poiExtraHuV4"),
 ]);
 
 // Dedup by id keeping the richest copy (matches slugs.ts dedup behaviour).
@@ -72,6 +74,7 @@ function richness(p: any): number {
 const rawAll: any[] = ([] as any[]).concat(
   dePois as any[], ALL_DE_EXTRA_POIS as any[], romaniaAllPois as any[], hungaryAllPoi as any[],
   [vaticanCountry as any], vaticanPois as any[], ALL_COUNTRY_POIS as any[],
+  poiExtraHuV4 as any[],
 );
 const byId = new Map<string, any>();
 for (const p of rawAll) {
