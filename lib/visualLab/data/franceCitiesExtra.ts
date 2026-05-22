@@ -43,6 +43,184 @@ const citySeeds: CitySeed[] = [
       fr: ["Capitale de la Bretagne comptant environ 220 000 habitants.", "Le grand incendie de 1720 a détruit plus de 800 maisons de la ville.", "Abrite le palais du Parlement de Bretagne (XVIIe siècle).", "L'université de Rennes figure parmi les plus importantes de France.", "Le réseau de métro entièrement automatique VAL a été inauguré en 2002.", "Située stratégiquement au confluent de l'Ille et de la Vilaine."],
     },
     image: "/poi-images/rennes.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Palais du Parlement de Bretagne",
+                  "text": "Dieses prächtige Gebäude aus dem 17. Jahrhundert ist ein Symbol der bretonischen Geschichte und Justiz.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc du Thabor",
+                  "text": "Ein zehn Hektar großer Park, der französische Gärten, einen englischen Park und eine berühmte Rosensammlung vereint.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kathedrale Saint-Pierre",
+                  "text": "Die Hauptkirche von Rennes besticht durch ihre reiche Innenausstattung und ihren vergoldeten flämischen Altar.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Portes Mordelaises",
+                  "text": "Diese befestigten Stadttore aus dem 15. Jahrhundert dienten einst als zeremonieller Eingang für die Herzöge.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place des Lices",
+                  "text": "Ein historischer Platz, der für seine Markthallen und einen der größten Wochenmärkte Frankreichs bekannt ist.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Champs Libres",
+                  "text": "Ein modernes Kulturzentrum, das eine Bibliothek, ein Museum und ein Planetarium unter einem Dach vereint.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée des Beaux-Arts de Rennes",
+                  "text": "Das Kunstmuseum beherbergt bedeutende Werke von der Antike bis zur Gegenwart, darunter Werke von Rubens.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bretagne-i Parlament palotája",
+                  "text": "A 17. századi épület Bretagne egyik legfontosabb történelmi emléke, ma bíróságként is funkcionál.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Thabor park",
+                  "text": "Rennes legszebb parkja, ahol francia és angol kertek, valamint egy hatalmas rózsakert várja a látogatókat.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Pierre-székesegyház",
+                  "text": "A város katedrálisa lenyűgöző neoklasszicista belső terével és gazdagon díszített oltárával nyűgözi le a híveket.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Portes Mordelaises",
+                  "text": "Ez a kettős tornyú városkapu a középkori városfalak egyik utolsó megmaradt darabja Rennes-ben.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place des Lices",
+                  "text": "Híres történelmi tér, ahol minden szombat reggel az ország egyik legnagyobb élelmiszerpiacát tartják.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Champs Libres",
+                  "text": "Egy futurisztikus épület, amely könyvtárnak, múzeumnak és tudományos központnak ad helyet a városközpontban.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rennes-i Szépművészeti Múzeum",
+                  "text": "Gazdag gyűjteménnyel rendelkező múzeum, amely az európai festészet remekműveit mutatja be a középkortól napjainkig.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palatul Parlamentului Bretaniei",
+                  "text": "O capodoperă a secolului al XVII-lea, acest palat simbolizează puterea istorică a provinciei Bretania.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Thabor",
+                  "text": "Considerat unul dintre cele mai frumoase parcuri din Franța, combină stilul francez cu cel englezesc.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala Saint-Pierre din Rennes",
+                  "text": "Sediul arhiepiscopiei, această catedrală impresionează prin tavanul său pictat și decorul interior bogat.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Portes Mordelaises",
+                  "text": "O poartă fortificată medievală prin care treceau odinioară ducii Bretaniei înainte de încoronare.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place des Lices",
+                  "text": "Piața istorică ce găzduiește unul dintre cele mai mari și mai vibrante piețe săptămânale din Franța.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Champs Libres",
+                  "text": "Un complex cultural modern ce reunește Muzeul Bretaniei, o bibliotecă uriașă și un planetariu.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul de Arte Frumoase",
+                  "text": "Deține o colecție impresionantă de artă, de la vestigii egiptene până la picturi celebre din perioada modernă.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palace of the Parliament of Brittany",
+                  "text": "A prestigious 17th-century building that stands as a symbol of Breton identity and legislative history.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Thabor Park",
+                  "text": "A stunning 10-hectare public park featuring a rose garden, a birdhouse, and formal French gardens.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Pierre Cathedral",
+                  "text": "Rennes Cathedral is noted for its opulent interior decoration and historic Flemish altarpiece.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Portes Mordelaises",
+                  "text": "The historic 15th-century city gate that once served as the ceremonial entrance for Breton Dukes.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place des Lices",
+                  "text": "A historic square famous for its timber-framed buildings and its massive Saturday morning market.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Champs Libres",
+                  "text": "A major cultural hub containing the Museum of Brittany, a planetarium, and a multi-level library.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum of Fine Arts of Rennes",
+                  "text": "This museum offers a vast collection ranging from Leonardo da Vinci drawings to modern sculptures.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "le-havre",
@@ -77,6 +255,184 @@ const citySeeds: CitySeed[] = [
       fr: ["Fondée en 1517 par François Ier", "Patrimoine mondial de l'UNESCO depuis 2005", "Centre conçu par Auguste Perret", "L'église Saint-Joseph mesure 107 mètres de haut", "Deuxième port de commerce de France", "Source d'inspiration pour l'impressionnisme de Monet"],
     },
     image: "/poi-images/le-havre.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kirche Saint-Joseph",
+                  "text": "Ein Meisterwerk der Moderne von Auguste Perret, bekannt für ihren 107 Meter hohen Betonturm und bunte Glasfenster.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Le Volcan",
+                  "text": "Das vom Architekten Oscar Niemeyer entworfene Kulturzentrum besticht durch seine geschwungene, weiße Form.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "MuMa - Museum für moderne Kunst",
+                  "text": "Das Museum direkt am Meer beherbergt eine der bedeutendsten Impressionisten-Sammlungen Frankreichs.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hôtel de Ville du Havre",
+                  "text": "Das Rathaus mit seinem markanten Turm ist Teil des UNESCO-Welterbes und ein Wahrzeichen des Wiederaufbaus.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Appartement Témoin Perret",
+                  "text": "Diese Musterwohnung zeigt originalgetreu das Wohndesign und den Komfort der 1950er Jahre in Le Havre.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Jardins Suspendus",
+                  "text": "Botanische Gärten in einer ehemaligen Festungsanlage, die einen Panoramablick über die Stadt und das Meer bieten.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Port du Havre",
+                  "text": "Einer der größten Häfen Europas, der das wirtschaftliche Herz und die Identität der Stadt prägt.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szent József-templom",
+                  "text": "Auguste Perret beton-építészetének remekműve, amelynek 107 méteres tornya messziről látható a város felett.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Le Volcan",
+                  "text": "Oscar Niemeyer által tervezett futurisztikus kulturális központ, amely vulkánszerű formájáról kapta nevét.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "MuMa Múzeum",
+                  "text": "Az André Malraux Modern Művészeti Múzeum az ország egyik legfontosabb impresszionista gyűjteményét őrzi.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Le Havre-i városháza",
+                  "text": "Az UNESCO világörökség részét képező épület a modern városépítészet egyik legfontosabb jelképe.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Perret mintaapartman",
+                  "text": "Egy 1950-es évekbeli lakás, amely bemutatja, hogyan éltek a város újjáépítése utáni első lakók.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Függőkertek",
+                  "text": "Egy régi erődítményben kialakított botanikus kert, ahonnan csodálatos kilátás nyílik a kikötőre.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Le Havre-i kikötő",
+                  "text": "Franciaország egyik legjelentősebb teherkikötője, amely meghatározza a város ipari és tengeri jellegét.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica Saint-Joseph",
+                  "text": "O clădire emblematică din beton armat, cu un turn spectaculos de 107 metri care domină linia orizontului.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Le Volcan",
+                  "text": "Centrul cultural proiectat de Oscar Niemeyer, recunoscut pentru formele sale albe și curbate neobișnuite.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul MuMa",
+                  "text": "Situat pe malul mării, acest muzeu de artă modernă deține o colecție impresionantă de picturi impresioniste.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria orașului Le Havre",
+                  "text": "O piesă centrală a arhitecturii moderne de după război, parte a patrimoniului mondial UNESCO.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Apartamentul-Martor Perret",
+                  "text": "O reconstituire fidelă a unui apartament din anii '50, oferind o incursiune în viața cotidiană a acelei epoci.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădinile Suspendate",
+                  "text": "Amenajate într-un fost fort militar, aceste grădini oferă o diversitate botanică și vederi panoramice la mare.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Portul Le Havre",
+                  "text": "Unul dintre cele mai mari porturi comerciale din Europa, esențial pentru economia și istoria locală.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saint-Joseph's Church",
+                  "text": "A masterpiece of mid-century modern architecture by Auguste Perret, featuring a towering concrete lantern.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Le Volcan",
+                  "text": "The cultural venue designed by Oscar Niemeyer, shaped like a large white volcano in the city center.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "MuMa - Museum of Modern Art",
+                  "text": "A light-filled museum by the sea housing a world-class collection of Impressionist and Fauvist works.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Le Havre City Hall",
+                  "text": "The centerpiece of the Perret reconstruction, this UNESCO-listed civic building features a tall watchtower.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Perret Show Flat",
+                  "text": "A meticulously preserved 1950s apartment showing the original layout and furniture from the reconstruction era.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Hanging Gardens",
+                  "text": "A botanical garden set inside a former military fort, overlooking the Baie de Seine and the city.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Port of Le Havre",
+                  "text": "France's leading port for international trade, offering boat tours to see its massive industrial docks.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "angers",
@@ -111,6 +467,184 @@ const citySeeds: CitySeed[] = [
       fr: ["Siège de la maison Plantagenêt", "Château doté de 17 tours défensives", "Tenture de l'Apocalypse (XIVe s.)", "Située sur la Maine", "Centre important pour l'horticulture", "Cathédrale Saint-Maurice (XIIe s.)"],
     },
     image: "/poi-images/angers.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Schloss Angers",
+                  "text": "Diese mächtige Festung beherbergt den berühmten Wandteppich der Apokalypse, ein Meisterwerk des Mittelalters.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kathedrale Saint-Maurice",
+                  "text": "Bekannt für ihre hohen Türme und ihre einzigartigen Gewölbe, ist sie ein Wahrzeichen der Stadt Angers.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Terra Botanica",
+                  "text": "Der erste Themenpark Europas, der sich ganz der Pflanzenwelt widmet und Bildung mit Vergnügen verbindet.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Galerie David d'Angers",
+                  "text": "In einer restaurierten Abteikirche zeigt dieses Museum die imposanten Skulpturen des Künstlers David d'Angers.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maison d'Adam",
+                  "text": "Eines der schönsten Fachwerkhäuser Frankreichs aus dem 15. Jahrhundert, geschmückt mit bizarren Holzschnitzereien.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum Jean-Lurçat",
+                  "text": "Beherbergt den monumentalen Wandteppich-Zyklus 'Le Chant du Monde' in einem ehemaligen mittelalterlichen Krankenhaus.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jardin des Plantes d'Angers",
+                  "text": "Ein charmanter Park im englischen Stil, der Ruhe bietet und eine große Vielfalt an Pflanzen beherbergt.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Angers-i vár",
+                  "text": "A hatalmas erődítmény a Loire-völgy kapuja, itt látható a híres Apokalipszis-kárpit sorozat.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Móric-székesegyház",
+                  "text": "Angers katedrálisa híres gótikus építészetéről és gyönyörű, 12. századi színes üvegablakairól.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Terra Botanica",
+                  "text": "Egy különleges élménypark, amely a növényvilág titkait mutatja be interaktív módon minden korosztálynak.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "David d'Angers Galéria",
+                  "text": "Egy egykori apátsági templomban kialakított múzeum, ahol a névadó szobrász monumentális gipszmintái láthatók.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ádám-ház",
+                  "text": "A város legrégebbi fagerendás háza, amelynek homlokzatát faragott figurák és díszek teszik egyedivé.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jean-Lurçat Múzeum",
+                  "text": "A Világ dala című hatalmas faliszőnyeg-ciklust mutatja be egy lenyűgöző 12. századi kórházépületben.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Angers-i füvészkert",
+                  "text": "A város központjában elhelyezkedő botanikus kert ideális hely egy sétára a ritka növények között.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelul din Angers",
+                  "text": "O fortăreață impresionantă cu 17 turnuri, care adăpostește celebra Tapiserie a Apocalipsei.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala Saint-Maurice",
+                  "text": "Un monument istoric de stil gotic angevin, cunoscut pentru vitraliile sale medievale superbe.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Terra Botanica",
+                  "text": "Primul parc de distracții din Europa dedicat plantelor, oferind grădini tematice și atracții variate.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Galeria David d'Angers",
+                  "text": "Situată într-o biserică de abație restaurată, galeria prezintă sculpturile dramatice ale lui David d'Angers.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa lui Adam",
+                  "text": "O casă medievală cu structură din lemn, decorată cu numeroase sculpturi simbolice și pitorești.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Jean-Lurçat",
+                  "text": "Adăpostit într-un fost spital medieval, prezintă capodopera de tapiserie modernă 'Le Chant du Monde'.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădina Botanică din Angers",
+                  "text": "Oază de liniște în centrul orașului, această grădină de stil englezesc este perfectă pentru relaxare.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Angers Castle",
+                  "text": "A formidable fortress with 17 defensive towers, home to the world-famous Apocalypse Tapestry.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Maurice Cathedral",
+                  "text": "This landmark cathedral features unique 'Angevin Gothic' vaulting and remarkable medieval stained glass.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Terra Botanica",
+                  "text": "A unique plant-themed amusement park offering educational boat rides and beautiful themed gardens.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "David d'Angers Gallery",
+                  "text": "Set in a roofed medieval abbey ruin, it showcases the colossal plaster casts of the famed sculptor.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Adam's House",
+                  "text": "The city's most famous 15th-century timber-framed house, covered in intricate and grotesque wooden carvings.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jean-Lurçat Museum",
+                  "text": "Located in a stunning 12th-century hospital building, it holds the epic 'Song of the World' tapestries.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Angers Botanical Garden",
+                  "text": "A peaceful 4-hectare park in the city center with a winding stream and a large collection of exotic trees.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "nimes",
@@ -145,6 +679,160 @@ const citySeeds: CitySeed[] = [
       fr: ["Les arènes datent du Ier siècle apr. J.-C.", "La Maison Carrée est inscrite au patrimoine mondial de l'UNESCO.", "Origine du tissu denim.", "Amphithéâtre romain d'une capacité de 24 000 spectateurs.", "Jardins de la Fontaine (XVIIIe siècle).", "La Tour Magne mesure 32 mètres de haut."],
     },
     image: "/poi-images/nimes.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Arènes de Nîmes",
+                  "text": "Dieses römische Amphitheater aus dem 1. Jahrhundert ist eines der am besten erhaltenen weltweit und wird heute für Konzerte genutzt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maison Carrée",
+                  "text": "Ein perfekt erhaltener römischer Tempel, der dem kaiserlichen Kult gewidmet war und zum UNESCO-Welterbe gehört.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jardins de la Fontaine",
+                  "text": "Einer der ersten öffentlichen Parks Europas, der um römische Ruinen und eine natürliche Quelle herum angelegt wurde.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tour Magne",
+                  "text": "Der höchste Turm der antiken römischen Stadtmauer bietet einen beeindruckenden Panoramablick über Nîmes und die Umgebung.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée de la Romanité",
+                  "text": "Ein hochmodernes Museum gegenüber dem Amphitheater, das bedeutende archäologische Funde aus der römischen Zeit präsentiert.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Temple de Diane",
+                  "text": "Geheimnisvolle römische Ruinen in den Jardins de la Fontaine, deren genaue antike Funktion bis heute nicht vollständig geklärt ist.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arènes de Nîmes",
+                  "text": "Ez az 1. századi római amfiteátrum a világ egyik legjobb állapotban fennmaradt példánya, ma is koncerteknek ad otthont.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maison Carrée",
+                  "text": "Tökéletes állapotban megmaradt római templom a város szívében, amely az UNESCO Világörökség részét képezi.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jardins de la Fontaine",
+                  "text": "Európa egyik első nyilvános parkja, amelyet római kori romok és egy természetes forrás köré építettek a 18. században.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tour Magne",
+                  "text": "Az ókori római városfal legmagasabb tornya, ahonnan lenyűgöző panoráma nyílik Nîmes városára és a környező tájra.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée de la Romanité",
+                  "text": "Modern múzeum az amfiteátrummal szemben, amely interaktív módon mutatja be a város gazdag római kori örökségét.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Temple de Diane",
+                  "text": "Titokzatos római romok a Fontaine kertekben; bár templomnak hívják, eredeti funkciója valószínűleg könyvtár volt.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Amfiteatrul din Nîmes",
+                  "text": "Acest amfiteatru roman din secolul I este unul dintre cele mai bine conservate din lume, fiind folosit și astăzi pentru spectacole.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maison Carrée",
+                  "text": "Un templu roman conservat integral, dedicat cultului imperial, inclus recent în patrimoniul mondial UNESCO.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădinile Fontaine",
+                  "text": "Printre primele parcuri publice din Europa, amenajate în jurul ruinelor romane și al unui izvor natural sacru.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tour Magne",
+                  "text": "Cel mai înalt turn al vechii incinte romane, oferind o panoramă spectaculoasă asupra orașului și împrejurimilor.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Romanității",
+                  "text": "Un muzeu de ultimă generație situat vizavi de Arenă, care adăpostește colecții arheologice romane de o valoare inestimabilă.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Templul Dianei",
+                  "text": "Ruine romane fascinante situate în Grădinile Fontaine, a căror destinație inițială rămâne un subiect de dezbatere istorică.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arena of Nîmes",
+                  "text": "This 1st-century Roman amphitheatre is among the best-preserved in the world and still hosts major events and concerts.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maison Carrée",
+                  "text": "A perfectly preserved Roman temple in the city center, dedicated to the sons of Agrippa and listed as a UNESCO World Heritage site.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jardins de la Fontaine",
+                  "text": "One of Europe's first public parks, created in the 18th century around a natural spring and ancient Roman ruins.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tour Magne",
+                  "text": "The tallest tower of the ancient Roman city walls, offering breathtaking panoramic views over Nîmes and the countryside.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée de la Romanité",
+                  "text": "A cutting-edge museum opposite the Arena, showcasing the city's vast Roman archaeological collections in a modern setting.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Temple of Diana",
+                  "text": "Enigmatic Roman ruins located within the Fontaine gardens, likely serving as a library or shrine in antiquity.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
     {
     id: "brest",
@@ -179,6 +867,160 @@ const citySeeds: CitySeed[] = [
       fr: ["Base navale depuis le XVIIe siècle", "Pont de Recouvrance (pont levant)", "Centre de culture scientifique Océanopolis", "Château avec 1 700 ans d'histoire", "Reconstruction après 1944", "Point de départ pour les records de voile"],
     },
     image: "/poi-images/brest.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Château de Brest",
+                  "text": "Die älteste Festung der Welt, die noch immer militärisch genutzt wird, beherbergt das Nationale Marinemuseum.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Océanopolis",
+                  "text": "Ein riesiger Aquarienkomplex mit drei Pavillons, die die polaren, tropischen und gemäßigten Meeresökosysteme zeigen.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tour Tanguy",
+                  "text": "Ein historischer Turm am Ufer der Penfeld, der Dioramen des alten Brest vor den Zerstörungen des Zweiten Weltkriegs zeigt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ateliers des Capucins",
+                  "text": "Ehemalige Marine-Werkstätten, die in ein riesiges Kultur- und Freizeitgebäude umgewandelt wurden, erreichbar mit der Seilbahn.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pont de Recouvrance",
+                  "text": "Eine der größten Hubbrücken Europas, die das Stadtzentrum mit dem historischen Viertel Recouvrance verbindet.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Conservatoire botanique national",
+                  "text": "Ein wunderschöner Garten und Gewächshäuser, die dem Erhalt bedrohter Pflanzenarten aus der ganzen Welt gewidmet sind.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Château de Brest",
+                  "text": "A világ legrégebbi, ma is katonai célokra használt erődítménye, amely a Nemzeti Haditengerészeti Múzeumnak ad otthont.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Océanopolis",
+                  "text": "Hatalmas akváriumkomplexum három pavilonnal, amelyek a sarki, trópusi és mérsékelt övi tengeri élővilágot mutatják be.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tour Tanguy",
+                  "text": "A Penfeld-folyó partján álló történelmi torony, amely a II. világháború előtti régi Brest látképét mutatja be maketteken.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ateliers des Capucins",
+                  "text": "Egykori haditengerészeti műhelyek, amelyeket hatalmas kulturális és szabadidős központtá alakítottak át, libegővel elérhető.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pont de Recouvrance",
+                  "text": "Európa egyik legnagyobb emelhető hídja, amely a városközpontot köti össze a történelmi Recouvrance negyeddel.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nemzeti Botanikus Konzervatórium",
+                  "text": "Gyönyörű kert és üvegházak, amelyeket a világ veszélyeztetett növényfajainak megőrzésére hoztak létre.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelul din Brest",
+                  "text": "Cea mai veche fortăreață din lume aflată încă în uz militar, adăpostind Muzeul Național al Marinei.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Océanopolis",
+                  "text": "Un imens complex de acvarii cu trei pavilioane dedicate ecosistemelor marine polare, tropicale și temperate.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turnul Tanguy",
+                  "text": "Un turn istoric pe malul râului Penfeld, care prezintă diorame ale vechiului Brest de dinaintea distrugerilor din al Doilea Război Mondial.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ateliers des Capucins",
+                  "text": "Foste ateliere ale marinei transformate într-un spațiu cultural și de agrement uriaș, accesibil cu telecabina urbană.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Podul Recouvrance",
+                  "text": "Unul dintre cele mai mari poduri liftante din Europa, un simbol al orașului ce leagă centrul de cartierul Recouvrance.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Conservatorul Botanic Național",
+                  "text": "O grădină superbă și sere care se concentrează pe conservarea speciilor de plante pe cale de dispariție din întreaga lume.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Château de Brest",
+                  "text": "The oldest castle in the world still in military use, housing the National Maritime Museum's impressive collections.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Océanopolis",
+                  "text": "A massive ocean discovery center featuring three distinct pavilions showcasing polar, tropical, and temperate marine life.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tanguy Tower",
+                  "text": "A medieval tower overlooking the Penfeld river, containing museums that recreate the atmosphere of pre-war Brest.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ateliers des Capucins",
+                  "text": "Former naval workshops converted into a vast cultural hub, connected to the city center by France's first urban cable car.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Recouvrance Bridge",
+                  "text": "One of Europe's largest vertical-lift bridges, iconic for its scale and its role connecting the two sides of the city.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "National Botanical Conservatory",
+                  "text": "A peaceful garden and tropical greenhouses dedicated to the preservation of endangered plant species from across the globe.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "tours",
@@ -213,6 +1055,160 @@ const citySeeds: CitySeed[] = [
       fr: ["Bataille de Tours (Poitiers) en 732", "Ancienne capitale de la France", "Tombeau de saint Martin", "Place Plumereau (maisons à colombages)", "Cathédrale Saint-Gatien (XIIe-XVIe s.)", "Située sur la Loire et le Cher"],
     },
     image: "/poi-images/tours.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Cathédrale Saint-Gatien",
+                  "text": "Eine prächtige gotische Kathedrale mit beeindruckenden Glasmalereien aus dem 13. Jahrhundert und einer detailreichen Fassade.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place Plumereau",
+                  "text": "Ein malerischer Platz im Herzen der Altstadt, bekannt für seine gut erhaltenen Fachwerkhäuser aus dem 15. Jahrhundert.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Basilique Saint-Martin",
+                  "text": "Ein bedeutender Wallfahrtsort, der über dem Grab des Heiligen Martin, des Schutzpatrons der Stadt, errichtet wurde.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée des Beaux-Arts",
+                  "text": "Das Museum befindet sich im ehemaligen Bischofspalast und beherbergt eine reiche Sammlung europäischer Malerei.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Château de Tours",
+                  "text": "Einst eine königliche Residenz, dient das Schloss heute als Ausstellungszentrum für zeitgenössische Kunst und Fotografie.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jardin des Prébendes d'Oé",
+                  "text": "Ein wunderschöner Landschaftsgarten im englischen Stil, der im 19. Jahrhundert angelegt wurde und zur Entspannung einlädt.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saint-Gatien katedrális",
+                  "text": "Pompás gótikus székesegyház lenyűgöző 13. századi ólomüveg ablakokkal és gazdagon díszített homlokzattal.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place Plumereau",
+                  "text": "Gyakran Franciaország legszebb terének választott középkori tér, amelyet 15. századi favázas házak vesznek körül.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Martin bazilika",
+                  "text": "Fontos zarándokhely, amelyet Szent Mártonnak, a város védőszentjének sírja fölé építettek a 19. század végén.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szépművészeti Múzeum",
+                  "text": "Az egykori püspöki palotában elhelyezett múzeum európai festészeti remekműveket és egy hatalmas cédrusfát rejt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Château de Tours",
+                  "text": "Az egykori királyi rezidencia ma kiállítóhelyként működik, ahol kortárs művészeti és fotográfiai tárlatokat láthatunk.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jardin des Prébendes d'Oé",
+                  "text": "Gyönyörű, 19. századi angol stílusú tájképi kert, amely ideális hely egy nyugodt sétához Tours szívében.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala Saint-Gatien",
+                  "text": "O catedrală gotică impunătoare, renumită pentru vitraliile sale splendide din secolul al XIII-lea și fațada minuțios sculptată.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place Plumereau",
+                  "text": "Inima centrului vechi, o piață pitorească înconjurată de case medievale cu structură de lemn, foarte populară printre localnici.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bazilica Saint-Martin",
+                  "text": "Un loc de pelerinaj major, ridicat deasupra mormântului Sfântului Martin, fost episcop de Tours și apostol al Galiei.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul de Arte Frumoase",
+                  "text": "Găzduit în fostul palat episcopal, muzeul expune o colecție vastă de picturi europene, într-un cadru arhitectural deosebit.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul din Tours",
+                  "text": "O fostă reședință regală medievală care astăzi servește drept centru cultural pentru expoziții temporare de artă și fotografie.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jardin des Prébendes d'Oé",
+                  "text": "O grădină peisagistică remarcabilă creată în secolul al XIX-lea, oferind un spațiu verde liniștit și flori spectaculoase.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saint-Gatien Cathedral",
+                  "text": "A stunning Gothic cathedral known for its magnificent 13th-century stained glass and ornate twin towers.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place Plumereau",
+                  "text": "The vibrant heart of the old town, famous for its beautifully preserved 15th-century half-timbered houses and cafes.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Basilica of Saint Martin",
+                  "text": "An important pilgrimage site built over the tomb of Saint Martin, the 4th-century Bishop of Tours.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum of Fine Arts",
+                  "text": "Located in the former Bishop's Palace, this museum features a wide collection of European art from the Middle Ages to today.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Château de Tours",
+                  "text": "This medieval castle once hosted royal weddings and now serves as a major venue for contemporary art and photo exhibitions.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jardin des Prébendes d'Oé",
+                  "text": "A tranquil and elegant 19th-century English-style landscape garden located in the center of the city.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "amiens",
@@ -247,6 +1243,160 @@ const citySeeds: CitySeed[] = [
       fr: ["Plus vaste cathédrale gothique de France", "Patrimoine mondial de l'UNESCO depuis 1981", "Les Hortillonnages (jardins flottants)", "Lieu de résidence de Jules Verne", "Quartier Saint-Leu au bord de la Somme", "La cathédrale d'Amiens possède un volume de 200 000 m³"],
     },
     image: "/poi-images/amiens.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Cathédrale Notre-Dame d'Amiens",
+                  "text": "Die größte Kathedrale Frankreichs ist ein Meisterwerk der Gotik und gehört zum UNESCO-Welterbe.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Hortillonnages",
+                  "text": "Einzigartige schwimmende Gärten auf einer Fläche von 300 Hektar, die man mit traditionellen Booten erkunden kann.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Quartier Saint-Leu",
+                  "text": "Das malerische historische Viertel am Fluss Somme, bekannt für seine kleinen Kanäle, Cafés und bunten Häuser.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maison de Jules Verne",
+                  "text": "Das Wohnhaus des berühmten Schriftstellers, in dem er viele seiner visionären Romane verfasste, ist heute ein Museum.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée de Picardie",
+                  "text": "Eines der bedeutendsten Kunstmuseen Frankreichs außerhalb von Paris, untergebracht in einem prachtvollen Palast des 19. Jahrhunderts.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Beffroi d'Amiens",
+                  "text": "Der historische Glockenturm aus dem 15. Jahrhundert symbolisiert die bürgerliche Freiheit der Stadt und gehört zum UNESCO-Erbe.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Amiens-i katedrális",
+                  "text": "Franciaország legnagyobb gótikus katedrálisa, amely méretével és lenyűgöző szobrászati díszítésével az UNESCO Világörökség része.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Hortillonnages",
+                  "text": "Különleges „úszó kertek” 300 hektáron, ahol a csatornákon csónakázva fedezhetjük fel a város zöld szívét.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Quartier Saint-Leu",
+                  "text": "A Somme-folyó partján fekvő festői történelmi negyed, színes házaival és hangulatos csatornáival a város ékköve.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jules Verne háza",
+                  "text": "A neves író egykori lakóháza, ahol leghíresebb műveit írta; ma múzeumként mutatja be életét és munkásságát.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée de Picardie",
+                  "text": "Franciaország egyik legszebb vidéki múzeuma, amely ókori leletektől a modern festményekig hatalmas gyűjteménnyel rendelkezik.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Amiens-i harangtorony",
+                  "text": "A 15. századi beffroi a város függetlenségének jelképe, és az UNESCO Világörökségi listáján is szerepel.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala Notre-Dame din Amiens",
+                  "text": "Cea mai mare catedrală din Franța, o capodoperă a artei gotice clasice, inclusă în patrimoniul mondial UNESCO.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Hortillonnages",
+                  "text": "Grădini plutitoare fascinante întinse pe 300 de hectare, străbătute de canale ce pot fi vizitate cu bărci tradiționale.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cartierul Saint-Leu",
+                  "text": "Cartierul istoric pitoresc situat la poalele catedralei, traversat de brațele râului Somme, plin de terase și culoare.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa lui Jules Verne",
+                  "text": "Locuința în care celebrul scriitor a trăit timp de 18 ani, astăzi muzeu ce păstrează atmosfera lumilor sale imaginare.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Picardiei",
+                  "text": "Un muzeu de rang național, găzduit într-un palat somptuos, expunând colecții vaste de artă și arheologie.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Beffroi d'Amiens",
+                  "text": "Turnul cu clopotniță istoric, un simbol al puterii comunale, oferind o vedere panoramică asupra întregului oraș.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Amiens Cathedral",
+                  "text": "The largest Gothic cathedral in France, a UNESCO World Heritage site known for its stunning facade and immense interior volume.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Hortillonnages",
+                  "text": "Stunning floating gardens covering 300 hectares, where canals can be explored by traditional flat-bottomed boats.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Leu District",
+                  "text": "The city's picturesque oldest quarter, filled with colorful narrow houses, small canals, and a lively atmosphere.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jules Verne's House",
+                  "text": "The former home of the legendary visionary writer, now a museum dedicated to his life and extraordinary literary works.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée de Picardie",
+                  "text": "Regarded as one of France's finest regional museums, it is housed in a purpose-built 19th-century palace.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Belfry of Amiens",
+                  "text": "A medieval belfry that served as the city's watchtower and town hall, today part of a UNESCO World Heritage listing.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "limoges",
@@ -281,6 +1431,160 @@ const citySeeds: CitySeed[] = [
       fr: ["Centre mondial de la fabrication de porcelaine", "Découverte du kaolin en 1768", "Gare de Limoges-Bénédictins (1929)", "Quartier de la Boucherie (Moyen Âge)", "Art de l'émail depuis le XIIe siècle", "Cathédrale Saint-Étienne (gothique)"],
     },
     image: "/poi-images/limoges.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kathedrale Saint-Étienne",
+                  "text": "Diese gotische Kathedrale ist eines der bedeutendsten Bauwerke der Stadt und beherbergt prächtige Glasmalereien.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée National Adrien Dubouché",
+                  "text": "Dieses Museum beherbergt die weltweit größte öffentliche Sammlung von Limoges-Porzellan und Keramik aus aller Welt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gare de Limoges-Bénédictins",
+                  "text": "Dieser prächtige Bahnhof mit seiner markanten Kuppel und dem Glockenturm gilt als einer der schönsten in Frankreich.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Quartier de la Boucherie",
+                  "text": "Ein mittelalterliches Viertel mit Fachwerkhäusern, das einst das Zentrum der Fleischergilde von Limoges war.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jardins de l'Évêché",
+                  "text": "Diese terrassenförmig angelegten Gärten bieten einen herrlichen Blick auf die Vienne und beherbergen seltene Pflanzen.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Église Saint-Michel-des-Lions",
+                  "text": "Bekannt für ihre zwei Granitlöwen am Eingang und die Reliquien des Heiligen Martial, dem Schutzpatron der Stadt.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saint-Étienne székesegyház",
+                  "text": "Ez a monumentális gótikus épület Limoges egyik legfontosabb jelképe, lenyűgöző ólomüveg ablakokkal és síremlékekkel.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Adrien Dubouché Porcelánmúzeum",
+                  "text": "A világ legnagyobb Limoges-i porcelángyűjteményét bemutató múzeum, amely a kerámia művészetének történetét követi nyomon.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gare des Bénédictins",
+                  "text": "A város vasútállomása, amely szecessziós és neoklasszicista stílusával Európa egyik legszebb közlekedési csomópontja.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Quartier de la Boucherie",
+                  "text": "A város középkori negyede, ahol a mészárosok céhe élt; ma hangulatos utcákkal és favázas házakkal várja a látogatókat.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Püspöki kertek",
+                  "text": "A katedrális lábánál fekvő teraszos kertek, amelyek botanikai gyűjteményükkel és kilátásukkal a Vienne folyóra népszerűek.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Michel-des-Lions templom",
+                  "text": "A templom a bejáratánál őrzött gránitoroszlánokról kapta a nevét, és itt nyugszanak a város védőszentjének ereklyéi.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala Saint-Étienne",
+                  "text": "O capodoperă a stilului gotic, această catedrală este inima spirituală a orașului și adăpostește vitralii superbe.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Național de Porțelan Adrien Dubouché",
+                  "text": "Găzduiește cea mai vastă colecție de porțelan de Limoges din lume, prezentând evoluția ceramicii de-a lungul secolelor.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gara Limoges-Bénédictins",
+                  "text": "Considerată una dintre cele mai frumoase gări din Europa, impresionează prin domul său maiestuos și turnul cu ceas.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cartierul La Boucherie",
+                  "text": "Un district medieval pitoresc cu case din paiantă, fost sediu al corporației măcelarilor din oraș timp de secole.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădinile Episcopiei",
+                  "text": "Aceste grădini terasate oferă spații de plimbare liniștite și o panoramă spectaculoasă asupra râului Vienne.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Saint-Michel-des-Lions",
+                  "text": "Numită astfel după leii de granit de la intrare, biserica este un loc de pelerinaj important datorită moaștelor Sfântului Martial.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Limoges Cathedral",
+                  "text": "This striking Gothic cathedral, built over six centuries, is famous for its intricate portal and grand interior.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Adrien Dubouché National Porcelain Museum",
+                  "text": "The world's most extensive collection of Limoges porcelain and ceramics, showcasing exquisite craftsmanship and history.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gare des Bénédictins",
+                  "text": "Widely regarded as one of France's most beautiful train stations, featuring a unique bell tower and a copper dome.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Quartier de la Boucherie",
+                  "text": "A historic medieval district with timber-framed houses, once the heart of the city's powerful butchers' guild.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jardins de l'Évêché",
+                  "text": "Beautiful botanical and landscaped gardens located next to the cathedral, overlooking the Vienne river valley.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Michel-des-Lions Church",
+                  "text": "Notable for the two stone lions guarding its entrance and its tall spire, it houses the relics of Saint Martial.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "metz",
@@ -315,6 +1619,160 @@ const citySeeds: CitySeed[] = [
       fr: ["Cathédrale avec 6 500 m² de vitraux", "La gare a été conçue par l'empereur Guillaume II", "Centre Pompidou-Metz (depuis 2010)", "Pierre de Jaumont jaune comme matériau de construction", "Porte des Allemands (porte fortifiée)", "Plus haute nef de France (42 m)"],
     },
     image: "/poi-images/metz.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kathedrale Saint-Étienne",
+                  "text": "Bekannt als 'Laterne des lieben Gottes', besitzt sie eine der größten Flächen an Glasmalereien in Europa.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Centre Pompidou-Metz",
+                  "text": "Ein Meisterwerk der modernen Architektur und ein wichtiges Zentrum für zeitgenössische Kunst im Osten Frankreichs.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Temple Neuf",
+                  "text": "Diese neoromanische evangelische Kirche liegt pittoresk auf der Insel Petit Saulcy inmitten der Mosel.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Porte des Allemands",
+                  "text": "Ein imposantes befestigtes Tor aus dem Mittelalter, das wie eine kleine Burg über den Fluss Seille wacht.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place de la Comédie",
+                  "text": "Ein klassizistischer Platz, an dem sich das Opernhaus von Metz, das älteste noch bespielte Frankreichs, befindet.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Quartier Impérial",
+                  "text": "Ein während der deutschen Annexion errichtetes Viertel, das für seine eklektische wilhelminische Architektur bekannt ist.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saint-Étienne székesegyház",
+                  "text": "A 'Jóisten lámpásaként' ismert templom Európa egyik legnagyobb gótikus üvegfelületével rendelkezik.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Centre Pompidou-Metz",
+                  "text": "A modern építészet remekműve, amely kortárs művészeti kiállításoknak ad otthont egy lenyűgöző tetőszerkezet alatt.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Temple Neuf",
+                  "text": "A Mosel folyó egyik szigetén álló neoromán stílusú protestáns templom, a város egyik legfotózottabb pontja.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Németek kapuja",
+                  "text": "Egy középkori erődített kapu és híd, amely Metz egykori várfalainak utolsó épen maradt fontos részlete.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place de la Comédie",
+                  "text": "A város egyik legelegánsabb tere, ahol Franciaország legrégebbi folyamatosan működő operaháza található.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Császári negyed",
+                  "text": "A német fennhatóság idején épült városrész, amely monumentális historizáló és szecessziós épületeiről híres.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala Saint-Étienne",
+                  "text": "Supranumită 'Lanterna lui Dumnezeu', catedrala are cea mai mare suprafață de vitralii gotice din Franța.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Centre Pompidou-Metz",
+                  "text": "O extensie a celebrului muzeu parizian, această clădire avangardistă este un simbol al artei contemporane.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Temple Neuf",
+                  "text": "Situat pe o insulă în mijlocul râului Moselle, acest templu neoromanic oferă un peisaj de o frumusețe rară.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Poarta Germanilor",
+                  "text": "Un exemplu remarcabil de arhitectură militară medievală, servind drept poartă fortificată și pod peste Seille.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place de la Comédie",
+                  "text": "O piață superbă de secol XVIII care găzduiește teatrul de operă, cel mai vechi din Franța încă în activitate.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cartierul Imperial",
+                  "text": "Dezvoltat în perioada anexării germane, acest cartier impresionează prin amestecul său de stiluri arhitecturale grandioase.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Metz Cathedral",
+                  "text": "Known as the 'God's Lantern', it boasts one of the largest expanses of stained glass in the world.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Centre Pompidou-Metz",
+                  "text": "An architectural landmark housing temporary exhibitions of modern art under a giant undulating roof.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Temple Neuf",
+                  "text": "A neo-Romanesque Protestant church built on an island, creating one of the most iconic river views in Metz.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Porte des Allemands",
+                  "text": "A medieval fortified gatehouse and bridge that stands as a remnant of the city's ancient defensive walls.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place de la Comédie",
+                  "text": "A classic square home to the Metz Opera House, the oldest continuously operating opera house in France.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Imperial Quarter",
+                  "text": "A district famous for its eclectic architecture from the German period, including the massive central station.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "perpignan",
@@ -349,6 +1807,160 @@ const citySeeds: CitySeed[] = [
       fr: ["Ancienne capitale de Majorque.", "Palais des Rois de Majorque (XIIIe siècle).", "Le Castillet en briques rouges.", "Forte identité catalane.", "Cathédrale Saint-Jean-Baptiste.", "Située sur le fleuve Têt."],
     },
     image: "/poi-images/perpignan.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Palast der Könige von Mallorca",
+                  "text": "Eine gotische Festung aus dem 13. Jahrhundert, die als Residenz der mallorquinischen Monarchen diente.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Le Castillet",
+                  "text": "Das Wahrzeichen der Stadt; ein befestigtes Tor aus Backstein, das heute das Museum für Volkskunst beherbergt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kathedrale Saint-Jean-Baptiste",
+                  "text": "Eine prächtige gotische Kathedrale mit einer beeindruckenden Fassade aus Kieselsteinen und Backstein.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Loge de Mer",
+                  "text": "Ein gotisches Gebäude, das einst als Seehandelsgericht und Börse der Stadt Perpignan diente.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hôtel de Ville",
+                  "text": "Das Rathaus besticht durch seinen Innenhof und die für die Region typische Bauweise aus Kieselsteinen.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Campo Santo",
+                  "text": "Der älteste und größte Kreuzgang-Friedhof Frankreichs, der heute für kulturelle Veranstaltungen genutzt wird.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mallorca királyainak palotája",
+                  "text": "A 13. században épült gótikus erőd, amely a mallorcai uralkodók szárazföldi székhelye volt Perpignanban.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Le Castillet",
+                  "text": "A város ikonikus vörös téglás kapubástyája, amely egykor börtönként is szolgált, ma múzeumnak ad otthont.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Keresztelő Szent János székesegyház",
+                  "text": "Lenyűgöző gótikus templom, amelynek falai a helyi folyami kövekből és téglákból épültek.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Loge de Mer",
+                  "text": "A tengeri kereskedelem egykori székháza, a katalán gótikus építészet egyik legszebb példája a városban.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Városháza",
+                  "text": "A jellegzetes katalán stílusú épület belső udvara és díszes termei Perpignan politikai életének központja.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Campo Santo",
+                  "text": "Egyedülálló középkori temetkezési hely és kerengő, amely ma szabadtéri kulturális események helyszíne.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palatul Regilor de Mallorca",
+                  "text": "O fortăreață gotică impresionantă din secolul al XIII-lea, martoră a perioadei de glorie a regatului.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Le Castillet",
+                  "text": "Simbolul orașului, această fostă poartă a cetății construită din cărămidă roșie găzduiește astăzi un muzeu.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala Saint-Jean-Baptiste",
+                  "text": "O catedrală gotică rară, construită cu alternanțe de pietriș și cărămidă, specifică stilului catalan.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Loge de Mer",
+                  "text": "Fost sediu al tribunalului maritim, clădirea este un monument istoric reprezentativ pentru comerțul local.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria din Perpignan",
+                  "text": "O clădire civică superbă cu o curte interioară pavată cu pietriș și porți sculptate din fier forjat.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Campo Santo",
+                  "text": "Cel mai vechi cimitir-mănăstire din Franța, transformat într-un spațiu cultural major pentru concerte.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palace of the Kings of Majorca",
+                  "text": "A 13th-century Gothic palace-fortress that stands on a hill overlooking the city and the Mediterranean.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Le Castillet",
+                  "text": "Perpignan's most famous landmark, a former city gate and prison made of red brick in the Catalan style.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Perpignan Cathedral",
+                  "text": "A beautiful example of southern Gothic architecture, featuring a facade made of river stones and bricks.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Loge de Mer",
+                  "text": "Built in the 14th century, this flamboyant Gothic building was once the city's maritime exchange.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Perpignan City Hall",
+                  "text": "The town hall features a traditional pebble facade and a bronze statue of Aristide Maillol in its courtyard.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Campo Santo",
+                  "text": "A unique medieval funeral cloister, the largest of its kind in France, now used for open-air festivals.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "besancon",
@@ -383,6 +1995,160 @@ const citySeeds: CitySeed[] = [
       fr: ["La Citadelle de Vauban s'étend sur près de 12 hectares au sommet d'un éperon rocheux.", "Victor Hugo est né le 26 février 1802 dans une maison de l'actuelle Place Victor Hugo.", "L'horloge astronomique de la cathédrale Saint-Jean comporte plus de 30 000 pièces mécaniques.", "Besançon fut la première ville de France à fonder une école d'horlogerie au XIXe siècle.", "La citadelle est classée au patrimoine mondial de l'UNESCO au titre des fortifications de Vauban.", "Le Doubs enserre le centre historique dans une boucle en forme de fer à cheval presque parfaite."],
     },
     image: "/poi-images/besancon.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Zitadelle von Besançon",
+                  "text": "Ein Meisterwerk von Vauban und UNESCO-Weltkulturerbe, das hoch über der Stadt in einer Flussschleife thront.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kathedrale Saint-Jean",
+                  "text": "Diese Kathedrale ist berühmt für ihre zwei Apsiden und das wertvolle Gemälde 'Jungfrau mit Heiligen'.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Astronomische Uhr",
+                  "text": "Ein mechanisches Wunderwerk aus dem 19. Jahrhundert in der Kathedrale mit über 30.000 Einzelteilen.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum der Schönen Künste",
+                  "text": "Eines der ältesten öffentlichen Museen Frankreichs mit einer bedeutenden Sammlung von Gemälden und Archäologie.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Victor Hugos Geburtshaus",
+                  "text": "Das Haus, in dem der berühmte Schriftsteller geboren wurde, dient heute als Museum über sein Leben und Werk.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Porte Noire",
+                  "text": "Ein römischer Triumphbogen aus dem 2. Jahrhundert, der reich mit Skulpturen und Reliefs verziert ist.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Besançoni citadella",
+                  "text": "Vauban hadmérnök remekműve, az UNESCO világörökség része, amely a Doubs folyó kanyarulatában magasodik.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent János székesegyház",
+                  "text": "A város főtemploma, amely különleges kettős apszisával és értékes művészeti kincseivel emelkedik ki.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Csillagászati óra",
+                  "text": "A katedrálisban található 19. századi precíziós műszer, amely az idő mellett asztrológiai adatokat is mutat.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szépművészeti és Régészeti Múzeum",
+                  "text": "Franciaország egyik legrégebbi múzeuma, amely gazdag ókori és reneszánsz gyűjteménnyel büszkélkedhet.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Victor Hugo szülőháza",
+                  "text": "A világhírű író szülőhelye, ahol a látogatók megismerhetik elkötelezett politikai és irodalmi munkásságát.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Porte Noire",
+                  "text": "Marcus Aurelius tiszteletére emelt római diadalív, amely Besançon ókori múltjának egyik legfontosabb emléke.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cetatea din Besançon",
+                  "text": "O fortificație grandioasă proiectată de Vauban, inclusă în patrimoniul UNESCO, oferind panorame superbe.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala Saint-Jean",
+                  "text": "Renumită pentru arhitectura sa unică și pentru capodoperele de pictură religioasă pe care le adăpostește.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ceasul astronomic",
+                  "text": "Un mecanism fascinant cu mii de piese, care indică orele, mareele și poziția planetelor cu mare precizie.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul de Arte Frumoase și Arheologie",
+                  "text": "Inaugurat în 1694, este primul muzeu public din Franța, având colecții remarcabile de artă europeană.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa natală a lui Victor Hugo",
+                  "text": "Muzeul dedicat marelui scriitor, situat în casa unde s-a născut, pune accent pe lupta sa pentru drepturile omului.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Porte Noire",
+                  "text": "Un arc de triumf roman din secolul al II-lea, decorat cu reliefuri ce ilustrează scene mitologice și militare.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Citadel of Besançon",
+                  "text": "A masterpiece of military architecture by Vauban, this UNESCO site overlooks the city and houses several museums.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Besançon Cathedral",
+                  "text": "Known for its unusual double apse and housing Fra Bartolomeo's masterpiece painting 'The Virgin with Saints'.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Astronomical Clock",
+                  "text": "A complex 19th-century mechanism with 57 dials providing 122 pieces of related astronomical information.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum of Fine Arts and Archaeology",
+                  "text": "One of France's oldest and richest museums, located in a former corn market building in the city center.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Birthplace of Victor Hugo",
+                  "text": "The house where the famous author was born in 1802, now a museum exploring his life and political commitments.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Porte Noire",
+                  "text": "A beautifully carved Roman triumphal arch dating back to the reign of Emperor Marcus Aurelius.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "orleans",
@@ -417,6 +2183,160 @@ const citySeeds: CitySeed[] = [
       fr: ["Orléans a été libérée le 8 mai 1429 par Jeanne d'Arc après une campagne de seulement dix jours.", "La cathédrale Sainte-Croix est presque aussi vaste que Notre-Dame de Paris.", "La ville était considérée au XVIIIe siècle comme la capitale mondiale de la vinaigrerie.", "La Maison de Jeanne d'Arc est une reconstitution de la demeure où elle séjourna durant le siège.", "Orléans est située dans le Val de Loire classé à l'UNESCO entre Sully-sur-Loire et Chalonnes.", "L'université d'Orléans a été fondée dès 1306 par le pape Clément V."],
     },
     image: "/poi-images/orleans.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kathedrale Sainte-Croix",
+                  "text": "Diese majestätische gotische Kathedrale ist weltberühmt für ihre Verbindung zu Jeanne d'Arc, die hier 1429 betete.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Haus von Jeanne d'Arc",
+                  "text": "Eine Rekonstruktion des Hauses, in dem die Jungfrau von Orléans während der Belagerung der Stadt im Jahr 1429 residierte.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place du Martroi",
+                  "text": "Der zentrale Platz der Stadt, dominiert von einer imposanten Reiterstatue der Jeanne d'Arc und umgeben von Cafés.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc Floral de la Source",
+                  "text": "Ein weitläufiger botanischer Garten, in dem der Fluss Loiret entspringt, bekannt für seine Schmetterlingshäuser.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hôtel Groslot",
+                  "text": "Ein prächtiges Renaissance-Herrenhaus, das einst als Rathaus diente und prunkvolle historische Säle beherbergt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée des Beaux-Arts",
+                  "text": "Eines der ältesten Museen Frankreichs mit einer bedeutenden Sammlung europäischer Malerei vom 15. bis zum 20. Jahrhundert.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szent Kereszt-székesegyház",
+                  "text": "Orléans lenyűgöző gótikus katedrálisa, amely Jeanne d'Arc 1429-es felszabadító látogatásának emlékét őrzi.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jeanne d'Arc háza",
+                  "text": "Annak a háznak a rekonstrukciója, ahol a híres hadvezérnő megszállt Orléans ostroma idején 1429 tavaszán.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place du Martroi",
+                  "text": "A város főtere, amelynek közepén Jeanne d'Arc hatalmas lovasszobra áll, körbevéve elegáns épületekkel.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc Floral de la Source",
+                  "text": "Hatalmas botanikus kert a város déli részén, ahol a Loiret folyó forrása található a virágágyások között.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hôtel Groslot",
+                  "text": "Pompás reneszánsz palota, amely évszázadokon át városházaként szolgált, ma pedig történelmi termei látogathatók.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szépművészeti Múzeum",
+                  "text": "Franciaország egyik legrégebbi múzeuma, amely gazdag európai festészeti gyűjteménnyel rendelkezik a reneszánsztól napjainkig.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala Sainte-Croix",
+                  "text": "O catedrală gotică impunătoare, celebră pentru legătura sa istorică cu Ioana d'Arc, care a eliberat orașul în 1429.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Ioanei d'Arc",
+                  "text": "O reconstituire fidelă a casei în care eroina Franței a locuit în timpul asediului din anul 1429.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place du Martroi",
+                  "text": "Piața centrală a orașului, dominată de statuia ecvestră a Ioanei d'Arc, fiind principalul punct de întâlnire.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Floral de la Source",
+                  "text": "O grădină botanică vastă unde izvorăște râul Loiret, oferind peisaje superbe și o seră de fluturi exotică.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hôtel Groslot",
+                  "text": "Un conac superb în stil renascentist, fostă primărie, renumit pentru interiorul său bogat decorat și grădinile sale.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul de Arte Frumoase",
+                  "text": "Unul dintre cele mai importante muzee din Franța, adăpostind o colecție vastă de picturi și sculpturi europene.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sainte-Croix Cathedral",
+                  "text": "A magnificent Gothic cathedral famous for its association with Joan of Arc, who attended mass here in 1429.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Joan of Arc's House",
+                  "text": "A reconstruction of the original 15th-century residence where the Maid of Orleans stayed during the siege.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place du Martroi",
+                  "text": "The main square of Orleans, featuring an iconic equestrian statue of Joan of Arc and historic surroundings.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc Floral de la Source",
+                  "text": "A beautiful landscape park where the Loiret river originates, known for its diverse flora and butterfly house.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hotel Groslot",
+                  "text": "A stunning Renaissance mansion that served as the city hall, featuring lavish historic interiors and artworks.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum of Fine Arts",
+                  "text": "One of France's oldest and richest museums, housing an extensive collection of European art across centuries.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "mulhouse",
@@ -451,6 +2371,160 @@ const citySeeds: CitySeed[] = [
       fr: ["Mulhouse a officiellement voté le rattachement à la République française le 4 janvier 1798.", "La Cité de l'Automobile comprend la célèbre collection Schlumpf avec plus de 400 véhicules.", "Le temple néogothique Saint-Étienne possède le plus haut clocher du département du Haut-Rhin.", "Au XIXe siècle, Mulhouse fut la première ville de France à construire des cités ouvrières.", "La ville abrite la Cité du Train, le plus grand musée ferroviaire d'Europe continentale.", "La distance jusqu'à l'aéroport international de Bâle-Mulhouse-Fribourg n'est que d'environ 25 kilomètres."],
     },
     image: "/poi-images/mulhouse.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Cité de l'Automobile",
+                  "text": "Das größte Automobilmuseum der Welt mit der berühmten Sammlung Schlumpf und Hunderten von Luxuswagen.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cité du Train",
+                  "text": "Das nationale Eisenbahnmuseum Frankreichs, das die Geschichte der Schiene anhand prächtiger Lokomotiven erzählt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place de la Réunion",
+                  "text": "Der historische Mittelpunkt von Mulhouse, bekannt für seine bunten Fassaden und das alte Rathaus.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Temple Saint-Étienne",
+                  "text": "Eine beeindruckende neugotische protestantische Kirche mit Glasmalereien aus dem 14. Jahrhundert.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zoologischer und Botanischer Garten",
+                  "text": "Ein wunderschöner Park, der sich dem Schutz bedrohter Tierarten widmet und seltene Pflanzen zeigt.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée de l'Impression sur Étoffes",
+                  "text": "Einzigartiges Museum, das die reiche Textilgeschichte der Stadt und die Kunst des Stoffdrucks präsentiert.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Autómúzeum (Cité de l'Automobile)",
+                  "text": "A világ legnagyobb autómúzeuma, amely a híres Schlumpf-gyűjtemény több száz veterán autóját mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vasútmúzeum (Cité du Train)",
+                  "text": "Európa egyik legnagyobb vasúti gyűjteménye, ahol történelmi gőzmozdonyok és luxusvonatok láthatók.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place de la Réunion",
+                  "text": "A város történelmi főtere, ahol a színes házfalak és a régi városháza idézik fel a múlt hangulatát.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent István-templom",
+                  "text": "Hatalmas neogótikus protestáns templom, amely 14. századi üvegablakairól és kiváló akusztikájáról ismert.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Állat- és Növénykert",
+                  "text": "Mulhouse egyik legnépszerűbb látványossága, amely ritka állatfajoknak és különleges növényeknek ad otthont.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szövetnyomó Múzeum",
+                  "text": "A város textilipari múltját bemutató múzeum, amely a világ minden tájáról származó nyomott mintás anyagokat őriz.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cité de l'Automobile",
+                  "text": "Cel mai mare muzeu auto din lume, adăpostind celebra colecție Schlumpf cu peste 400 de mașini de epocă.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cité du Train",
+                  "text": "Muzeul Național al Căilor Ferate din Franța, prezentând evoluția trenurilor prin exponate spectaculoase.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Reunificării",
+                  "text": "Centrul istoric al orașului Mulhouse, înconjurat de clădiri colorate și găzduind fosta primărie medievală.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Templul Saint-Étienne",
+                  "text": "Cea mai înaltă biserică protestantă din Franța, construită în stil neogotic, având vitralii medievale superbe.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădina Zoologică și Botanică",
+                  "text": "Un parc vast fondat în 1868, dedicat conservării speciilor pe cale de dispariție și florii regionale.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Imprimeurilor pe Textile",
+                  "text": "Un muzeu unic ce reflectă istoria industrială a orașului, prezentând mii de modele de țesături imprimate.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cité de l'Automobile",
+                  "text": "The world's largest automobile museum, featuring the extraordinary Schlumpf collection of classic cars.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cité du Train",
+                  "text": "The national railway museum of France, showcasing a vast collection of historic locomotives and carriages.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place de la Réunion",
+                  "text": "The heart of Mulhouse's old town, famous for its vibrant Renaissance buildings and the old town hall.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Étienne Temple",
+                  "text": "A prominent neo-Gothic Protestant church known for its 14th-century stained glass and impressive height.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zoological and Botanical Garden",
+                  "text": "A beautiful park established in 1868, home to many endangered species and exceptional floral displays.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum of Printed Textiles",
+                  "text": "A specialized museum tracing the history of fabric printing and Mulhouse's textile industry since 1833.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "caen",
@@ -485,6 +2559,160 @@ const citySeeds: CitySeed[] = [
       fr: ["Le château de Caen fut édifié vers 1060 par Guillaume le Conquérant sur un éperon rocheux.", "La pierre de Caen a été utilisée au Moyen Âge pour la construction de la tour de Londres.", "L'Abbaye aux Hommes abrite le tombeau de Guillaume le Conquérant.", "Caen est devenue définitivement française en 1450 après le siège mené par Charles VII.", "Le Mémorial de Caen a été inauguré en 1988 sur l'emplacement d'un ancien bunker allemand.", "Le canal de Caen à la mer relie le port de plaisance à Ouistreham sur 14 kilomètres."],
     },
     image: "/poi-images/caen.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Mémorial de Caen",
+                  "text": "Ein bedeutendes Friedensmuseum, das die Geschichte des 20. Jahrhunderts und die Landung in der Normandie dokumentiert.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Château de Caen",
+                  "text": "Eine der größten mittelalterlichen Festungen Europas, erbaut von Wilhelm dem Eroberer im 11. Jahrhundert.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Abbaye aux Hommes",
+                  "text": "Eine prächtige romanische Abtei, die das Grab von Wilhelm dem Eroberer beherbergt und heute als Rathaus dient.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Abbaye aux Dames",
+                  "text": "Gegründet von Mathilde von Flandern, ist diese Abteikirche ein Meisterwerk der normannischen Romanik.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Église Saint-Pierre",
+                  "text": "Eine prachtvolle Kirche im Stadtzentrum, die Stilelemente der Gotik und Renaissance harmonisch vereint.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vaugueux-Viertel",
+                  "text": "Ein charmantes historisches Viertel mit Fachwerkhäusern, in dem einst die Eltern von Edith Piaf lebten.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Caen-i Emlékmű (Mémorial)",
+                  "text": "A béke múzeuma, amely a második világháború és a normandiai partraszállás történetét mutatja be mélyrehatóan.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Caen vára",
+                  "text": "Hódító Vilmos által a 11. században épített hatalmas erődítmény, Európa egyik legnagyobb középkori vára.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Abbaye aux Hommes",
+                  "text": "Fenséges apátság, amely Hódító Vilmos nyughelye; ma a városházának ad otthont a monumentális épület.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Abbaye aux Dames",
+                  "text": "A női apátság, amelyet Vilmos felesége, Matild alapított, a normann román stílus egyik legszebb példája.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Péter-templom",
+                  "text": "Központi elhelyezkedésű templom, amely gazdag gótikus díszítéseiről és reneszánsz szentélyéről ismert.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vaugueux negyed",
+                  "text": "Hangulatos történelmi városrész macskaköves utcákkal és gerendavázas házakkal, számos étteremmel.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Memorialul din Caen",
+                  "text": "Un muzeu impresionant dedicat păcii și istoriei secolului XX, axat pe Debarcarea din Normandia.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul din Caen",
+                  "text": "Una dintre cele mai mari incinte fortificate din Europa, construită de Wilhelm Cuceritorul în secolul XI.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Abbaye aux Hommes",
+                  "text": "O abație monumentală ce adăpostește mormântul lui Wilhelm Cuceritorul, servind astăzi drept primărie.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Abbaye aux Dames",
+                  "text": "Fondată de regina Matilda, această biserică abațială este un exemplu magnific de arhitectură romanică normandă.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Saint-Pierre",
+                  "text": "O biserică centrală remarcabilă prin fleșa sa înaltă și amestecul elegant de stil gotic și renascentist.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cartierul Vaugueux",
+                  "text": "Un cartier pitoresc care a supraviețuit bombardamentelor, cunoscut pentru casele vechi și atmosfera medievală.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Caen Memorial Museum",
+                  "text": "A major museum and peace memorial focused on the history of WWII and the Battle of Normandy.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Caen Castle",
+                  "text": "Built by William the Conqueror around 1060, it is one of the largest medieval fortresses in Western Europe.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Abbaye aux Hommes",
+                  "text": "A grand abbey founded by William the Conqueror, where he is buried; it now serves as Caen's City Hall.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Abbaye aux Dames",
+                  "text": "The sister abbey to the Men's Abbey, established by Queen Matilda and a masterpiece of Norman Romanesque art.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Pierre Church",
+                  "text": "An elegant church in the heart of the city, showing a beautiful progression from Gothic to Renaissance style.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vaugueux District",
+                  "text": "A historic neighborhood with narrow streets and timber-framed houses that escaped WWII destruction.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "nancy",
@@ -519,6 +2747,160 @@ const citySeeds: CitySeed[] = [
       fr: ["La place Stanislas a été édifiée entre 1751 et 1755 par l'architecte Emmanuel Héré.", "Stanislas Leszczynski était le beau-père du roi de France Louis XV.", "Le musée de l'École de Nancy est installé dans l'ancienne villa d'un collectionneur datant de 1900.", "Le palais des Ducs de Lorraine date à l'origine du XVe siècle et abrite le Musée lorrain.", "Les célèbres grilles dorées de la place Stanislas ont été réalisées par Jean Lamour.", "Nancy possède l'une des plus anciennes universités de France, fondée à l'origine en 1572 à Pont-à-Mousson."],
     },
     image: "/poi-images/nancy.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Place Stanislas",
+                  "text": "Ein UNESCO-Weltkulturerbe, bekannt als einer der schönsten königlichen Plätze der Welt mit vergoldeten Gittern.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palais des Ducs de Lorraine",
+                  "text": "Der einstige Wohnsitz der lothringischen Herzöge, heute ein Museum für Kunst und Geschichte der Region.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc de la Pépinière",
+                  "text": "Ein weitläufiger Stadtpark direkt neben der Place Stanislas mit Gärten, einem kleinen Zoo und Freizeitanlagen.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée de l'École de Nancy",
+                  "text": "Ein einzigartiges Museum, das dem Jugendstil gewidmet ist und Meisterwerke lothringischer Künstler zeigt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Porte de la Craffe",
+                  "text": "Das älteste Stadttor von Nancy aus dem 14. Jahrhundert, ein beeindruckendes Überbleibsel der mittelalterlichen Befestigung.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Basilique Saint-Epvre",
+                  "text": "Eine imposante neugotische Basilika in der Altstadt, bekannt für ihre filigranen Fenster und die hohe Turmspitze.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Place Stanislas",
+                  "text": "Az UNESCO Világörökség része, a világ egyik legszebb királyi tere, aranyszínű kovácsoltvas kapuival.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lotaringiai Hercegi Palota",
+                  "text": "A lotaringiai hercegek egykori rezidenciája, amely ma a régió történelmét bemutató múzeumnak ad otthont.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc de la Pépinière",
+                  "text": "Hatalmas park Nancy szívében, amely pihenőhelyként, állatkertként és rendezvényhelyszínként is szolgál.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nancy-i Iskola Múzeuma",
+                  "text": "A szecesszió (Art Nouveau) egyik legfontosabb múzeuma, amely a mozgalom legszebb bútorait és üvegtárgyait őrzi.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Porte de la Craffe",
+                  "text": "Nancy legrégebbi városkapuja a 14. századból, a középkori védművek monumentális maradványa.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Epvre-bazilika",
+                  "text": "Hatalmas neogótikus templom az óvárosban, amely monumentális méreteivel és színes üvegablakaival hívja fel magára a figyelmet.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piața Stanislas",
+                  "text": "Inscrisă în patrimoniul UNESCO, este considerată una dintre cele mai frumoase piețe regale din Europa.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Ducilor de Lorena",
+                  "text": "O clădire istorică superbă care a servit drept reședință ducală, găzduind acum Muzeul de Istorie al Lorenei.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul de la Pépinière",
+                  "text": "O oază de verdeață în centrul orașului, oferind grădini tematice, spații de relaxare și un mic parc zoologic.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Școlii din Nancy",
+                  "text": "Un muzeu de referință pentru stilul Art Nouveau, prezentând creații remarcabile de mobilier și obiecte din sticlă.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Poarta Craffe",
+                  "text": "Cea mai veche poartă a orașului, datând din secolul XIV, reprezentând un vestigiu impresionant al fortificațiilor vechi.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bazilica Saint-Epvre",
+                  "text": "O bazilică neogotică impunătoare situată în inima orașului vechi, celebră pentru vitraliile sale și arhitectura sa.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Place Stanislas",
+                  "text": "A UNESCO World Heritage site and one of the world's most beautiful squares, famous for its gilded iron gates.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palace of the Dukes of Lorraine",
+                  "text": "The former residence of the Lorraine dukes, now housing a museum dedicated to the region's rich history.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc de la Pépinière",
+                  "text": "A large city park near the main square, featuring rose gardens, fountains, and a small zoo.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée de l'École de Nancy",
+                  "text": "A world-renowned museum of Art Nouveau, showcasing exquisite furniture, glasswork, and decorative arts.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Porte de la Craffe",
+                  "text": "The oldest city gate in Nancy, dating back to the 14th century, a monumental symbol of the medieval town.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Epvre Basilica",
+                  "text": "A striking neo-Gothic basilica located in the old town, known for its tall spire and beautiful stained glass.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "saint-denis",
@@ -553,6 +2935,160 @@ const citySeeds: CitySeed[] = [
       fr: ["L'abbaye de Saint-Denis fut fondée dès le VIIe siècle par le roi Dagobert Ier.", "La basilique abrite plus de 70 tombeaux de monarques français.", "Le Stade de France est le plus grand stade du pays avec plus de 80 000 places.", "Saint-Denis fut en 1144 le théâtre de la consécration du premier chœur gothique de l'histoire.", "La ville abrite les studios de la Cité du Cinéma, initiée par Luc Besson.", "Le canal Saint-Denis a été ouvert en 1821 pour relier le port de Paris à la Seine."],
     },
     image: "/poi-images/saint-denis.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Basilika Saint-Denis",
+                  "text": "Diese ehemalige Abtei ist die Grabstätte fast aller französischen Könige und gilt als Wiege der Gotik mit ihren innovativen Spitzbögen.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stade de France",
+                  "text": "Das beeindruckende Nationalstadion wurde für die Fußball-Weltmeisterschaft 1998 erbaut und ist heute Schauplatz größter Sport- und Musikereignisse.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum für Kunst und Geschichte Paul Éluard",
+                  "text": "In einem ehemaligen Karmeliterkloster untergebracht, beherbergt dieses Museum Sammlungen zur Stadtgeschichte und zur Pariser Kommune.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maison d'éducation de la Légion d'honneur",
+                  "text": "Diese prestigeträchtige Schule befindet sich in den prächtigen Gebäuden der ehemaligen königlichen Abtei direkt neben der Basilika.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Markt von Saint-Denis",
+                  "text": "Einer der größten und lebhaftesten Märkte der Region Île-de-France, der für seine Vielfalt an Produkten aus aller Welt bekannt ist.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Canal Saint-Denis",
+                  "text": "Diese Wasserstraße verbindet den Canal de l'Ourcq mit der Seine und bietet heute angenehme Wege für Spaziergänge und Radtouren am Wasser.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saint-Denis-székesegyház",
+                  "text": "A francia királyok nekropolisza és a gótikus építészet bölcsője, ahol szinte minden uralkodó díszes síremléke megtalálható.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stade de France",
+                  "text": "Franciaország legnagyobb stadionja, amely az 1998-as világbajnokságra épült, és ma is jelentős sporteseményeknek ad otthont.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Paul Éluard Művészeti és Történeti Múzeum",
+                  "text": "Egy egykori karmelita kolostorban működő múzeum, amely Saint-Denis gazdag történelmét és a párizsi kommün emlékeit mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Becsületrend nevelőintézete",
+                  "text": "A korábbi királyi apátság lenyűgöző épületeiben működő exkluzív oktatási intézmény, amely a bazilika közvetlen szomszédságában található.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Denis piac",
+                  "text": "A régió egyik legforgalmasabb és legszínesebb piaca, ahol a világ minden tájáról származó fűszerek és friss áruk találhatók.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Denis csatorna",
+                  "text": "A Szajnát a párizsi csatornahálózattal összekötő vízi út, amelynek partja népszerű a sétálók és a kerékpárosok körében.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bazilica Saint-Denis",
+                  "text": "Necropola regilor Franței și prima structură majoră construită în stil gotic, adăpostind mormintele sculptate ale monarhilor francezi.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stade de France",
+                  "text": "Stadionul național al Franței, inaugurat în 1998, este un simbol al arhitecturii sportive moderne și gazda marilor finale internaționale.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul de Artă și Istorie Paul Éluard",
+                  "text": "Situat într-o fostă mănăstire carmelită, muzeul prezintă istoria locală, obiecte arheologice și o colecție dedicată Comunei din Paris.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa de educație a Legiunii de Onoare",
+                  "text": "O instituție de învățământ prestigioasă găzduită în clădirile monumentale ale fostei abații regale, remarcabilă prin arhitectura sa clasică.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața din Saint-Denis",
+                  "text": "Una dintre cele mai mari piețe din regiunea pariziană, renumită pentru atmosfera sa cosmopolită și varietatea imensă de produse alimentare.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Canalul Saint-Denis",
+                  "text": "O cale navigabilă istorică ce leagă Parisul de Sena, transformată astăzi într-o zonă de agrement cu piste de biciclete și spații verzi.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Basilica of Saint-Denis",
+                  "text": "The final resting place of French monarchs and a pioneering masterpiece of Gothic architecture, famous for its stunning royal tombs.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stade de France",
+                  "text": "France's national stadium, built for the 1998 World Cup, serves as a major venue for international sports and global music concerts.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Paul Éluard Museum of Art and History",
+                  "text": "Housed in a former Carmelite convent, this museum showcases the town's history, archaeology, and a significant collection on the Paris Commune.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maison d'éducation de la Légion d'honneur",
+                  "text": "A distinguished school located in the grand buildings of the former royal abbey, showcasing impressive 18th-century architecture.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Denis Market",
+                  "text": "One of the largest and most vibrant markets in the Paris region, offering a diverse array of international foods and local goods.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Canal Saint-Denis",
+                  "text": "An urban waterway connecting central Paris to the River Seine, featuring scenic paths popular for walking, cycling, and street art.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "argenteuil",
@@ -587,6 +3123,136 @@ const citySeeds: CitySeed[] = [
       fr: ["Claude Monet a peint plus de 170 huiles sur toile lors de son séjour à Argenteuil.", "La ville abritait au Moyen Âge la célèbre abbaye où vécut l'abbesse Héloïse.", "Argenteuil fut jusqu'à la fin du XIXe siècle le plus grand producteur de vin du bassin parisien.", "La première liaison ferroviaire entre Paris et Argenteuil a été mise en service en 1851.", "Au début du XXe siècle, des moteurs d'avion pour la Première Guerre mondiale ont été produits à Argenteuil.", "Le musée d'Argenteuil conserve la 'Sainte Tunique d'Argenteuil', une relique attribuée à Charlemagne."],
     },
     image: "/poi-images/argenteuil.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Basilika Saint-Denys",
+                  "text": "Diese Kirche beherbergt die Heilige Tunika Christi, eine bedeutende Reliquie, die seit Jahrhunderten Pilger nach Argenteuil lockt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Haus von Claude Monet",
+                  "text": "Der berühmte impressionistische Maler lebte hier zwischen 1874 und 1878; das Haus zeigt heute Ausstellungen zu seinem Leben und Werk.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum von Argenteuil",
+                  "text": "In einem alten Krankenhausgebäude untergebracht, präsentiert dieses Museum die lokale Geschichte von der Antike bis zum Industriezeitalter.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc des Berges",
+                  "text": "Eine weitläufige Grünanlage direkt an der Seine, die an die Landschaften erinnert, die Monet und Renoir in ihren Gemälden verewigten.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Abtei Notre-Dame d'Argenteuil",
+                  "text": "Die Ruinen dieses mittelalterlichen Klosters zeugen von der langen religiösen Bedeutung der Stadt und der Geschichte von Heloise.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saint-Denys-bazilika",
+                  "text": "Ebben a templomban őrzik Krisztus Szent Tunikáját, amely a keresztény világ egyik fontos ereklyéje és jelentős zarándokhely.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Claude Monet háza",
+                  "text": "A híres impresszionista festő lakóhelye volt az 1870-es években, ahol számos ikonikus művét alkotta a Szajna partján.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Argenteuil Múzeum",
+                  "text": "A város történetét bemutató gyűjtemény egy régi kórházépületben kapott helyet, érintve a kertészet és az ipar fejlődését is.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc des Berges",
+                  "text": "A Szajna-parti park tökéletes helyszín a kikapcsolódáshoz, megidézve azokat a fényeket, amelyeket az impresszionisták megörökítettek.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Notre-Dame d'Argenteuil apátság",
+                  "text": "A középkori kolostor maradványai a város vallási múltjának és Héloïse apátnő történetének fontos mementói.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bazilica Saint-Denys",
+                  "text": "Această biserică păstrează Sfânta Tunică a lui Hristos, o relicvă prețioasă care a transformat orașul într-un centru de pelerinaj.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa lui Claude Monet",
+                  "text": "Locuința în care celebrul pictor impresionist a trăit și a creat, oferind o perspectivă asupra mediului care i-a inspirat capodoperele.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul din Argenteuil",
+                  "text": "Adăpostit într-un fost spital, muzeul urmărește evoluția orașului de la originile sale rurale până la dezvoltarea industrială modernă.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Berges",
+                  "text": "Un spațiu verde pitoresc pe malul Senei, ideal pentru plimbări în locațiile care au servit drept decor pentru numeroase picturi celebre.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Abația Notre-Dame d'Argenteuil",
+                  "text": "Vestigiile unei mănăstiri medievale importante, legată istoric de povestea Heloisei și de viața monastică a regatului francez.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Basilica of Saint-Denys",
+                  "text": "The church holds the Holy Tunic of Christ, a revered relic that has made Argenteuil a pilgrimage destination for centuries.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Claude Monet's House",
+                  "text": "The former residence of the impressionist master, where he lived and painted many of his famous scenes of life along the Seine.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Argenteuil Museum",
+                  "text": "Located in an 18th-century hospital building, this museum explores local heritage, from archaeology to the town's industrial rise.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc des Berges",
+                  "text": "A beautiful park along the banks of the Seine, preserving the riverside atmosphere that inspired many Impressionist painters.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Argenteuil Abbey ruins",
+                  "text": "The archaeological remains of a powerful medieval abbey, famous for its association with the scholar and abbess Heloise.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "troyes",
@@ -621,6 +3287,184 @@ const citySeeds: CitySeed[] = [
       fr: ["Le grand incendie de Troyes, le 24 mai 1524, détruisit environ 1 500 maisons de la ville.", "La ville abrite plus de 9 000 mètres carrés de vitraux historiques dans ses églises.", "L'ordre du Temple a été officiellement reconnu en 1129 lors du concile de Troyes.", "Troyes est considérée comme le berceau de la bonneterie moderne et de marques célèbres comme Lacoste.", "La cathédrale Saint-Pierre-et-Saint-Paul ne possède qu'une seule tour achevée.", "Le quartier historique abrite la célèbre « ruelle des Chats », une ruelle extrêmement étroite."],
     },
     image: "/poi-images/troyes.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kathedrale Saint-Pierre-et-Saint-Paul",
+                  "text": "Diese prächtige gotische Kathedrale ist berühmt für ihre außergewöhnlichen Glasmalereien aus dem 13. bis 19. Jahrhundert.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kirche Sainte-Madeleine",
+                  "text": "Bekannt für ihren wunderschönen Lettner aus dem 16. Jahrhundert, ein Meisterwerk der Steinmetzkunst in der Champagne.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum für Werkzeuge und Arbeiterdenken",
+                  "text": "Beherbergt eine weltweit einzigartige Sammlung handgeschmiedeter Werkzeuge in einem prachtvollen Renaissance-Palais.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Basilika Saint-Urbain",
+                  "text": "Ein Juwel der Hochgotik, das vom Papst Urban IV. in seiner Geburtsstadt erbaut wurde und für seine filigrane Architektur bekannt ist.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ruelle des Chats",
+                  "text": "Eine extrem schmale mittelalterliche Gasse, in der sich die Dächer der Fachwerkhäuser fast berühren, so dass Katzen herüberspringen könnten.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Das Herz von Troyes",
+                  "text": "Eine moderne Metallskulptur am Kanalufer, die nachts rot leuchtet und das pulsierende Zentrum der historischen Altstadt symbolisiert.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum für moderne Kunst",
+                  "text": "Im ehemaligen Bischofspalast untergebracht, zeigt es bedeutende Werke von Derain bis Picasso in einem historischen Ambiente.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szent Péter és Szent Pál katedrális",
+                  "text": "Hatalmas gótikus templom, amely leginkább 1500 négyzetméternyi, középkori eredetű ólomüveg ablakairól világhírű.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Magdolna-templom",
+                  "text": "Troyes legrégebbi temploma, amelynek legfőbb kincse a 16. századi, finoman faragott kőszentély-rekesztője.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szerszámmúzeum",
+                  "text": "A Maison de l'Outil egyedülálló gyűjteménye több ezer kézzel készített szerszámot mutat be egy csodás reneszánsz palotában.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Orbán bazilika",
+                  "text": "IV. Orbán pápa alapította a 13. században; az épület a gótika egyik legtisztább és legkecsesebb példája Franciaországban.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Macskák köze",
+                  "text": "Egy rendkívül szűk középkori utca, ahol a házak felső szintjei szinte összeérnek, különleges hangulatot árasztva.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Troyes szíve",
+                  "text": "A csatorna partján álló hatalmas acélszív szobor, amely éjszaka vörösen lüktet, a város megújulásának jelképe.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Modern Művészeti Múzeum",
+                  "text": "Az egykori püspöki palotában található gyűjtemény a 19-20. századi francia festészet kiváló darabjait őrzi.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala Sfântul Petru și Sfântul Paul",
+                  "text": "O catedrală gotică impunătoare, renumită pentru vitraliile sale spectaculoase ce acoperă o suprafață de peste 1.500 mp.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfânta Magdalena",
+                  "text": "Cea mai veche biserică din oraș, celebră pentru jubé-ul său din piatră sculptată, un exemplu rar de artă renascentistă.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul de Unelte și Gândire Muncitorească",
+                  "text": "Situat într-un superb hotel particular, muzeul expune o colecție vastă de unelte manuale vechi, unice în lume.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bazilica Saint-Urbain",
+                  "text": "O capodoperă a goticului radiant, construită de Papa Urban al IV-lea pe locul casei sale natale din secolul al XIII-lea.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aleea Pisicilor",
+                  "text": "O străduță medievală atât de îngustă încât acoperișurile caselor se ating, permițând pisicilor să treacă de pe o parte pe alta.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Inima din Troyes",
+                  "text": "O sculptură metalică monumentală amplasată pe malul canalului, devenită un simbol modern al centrului istoric.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul de Artă Modernă",
+                  "text": "Găzduit în fostul palat episcopal, muzeul deține colecții valoroase de artă franceză din secolele XIX și XX.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cathedral of Saint-Pierre-et-Saint-Paul",
+                  "text": "A stunning Gothic cathedral renowned for its vast and colorful stained-glass windows dating back to the 13th century.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sainte-Madeleine Church",
+                  "text": "Troyes' oldest church, famous for its magnificent 16th-century stone rood screen, a masterpiece of local Renaissance carving.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum of Tools and Trade",
+                  "text": "Housed in a beautiful 16th-century mansion, it displays thousands of hand-forged tools used in traditional crafts.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Basilica of Saint-Urbain",
+                  "text": "A masterpiece of radiant Gothic style founded by Pope Urban IV in 1262, known for its elegant proportions and light-filled interior.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ruelle des Chats",
+                  "text": "An incredibly narrow medieval alleyway where the timber-framed houses lean towards each other at the top.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Heart of Troyes",
+                  "text": "A large steel heart sculpture on the riverside that glows red at night, symbolizing the romantic soul of the historic city.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum of Modern Art",
+                  "text": "Located in the former Episcopal Palace, it houses an exceptional collection of artworks from the late 19th and early 20th centuries.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "saint-etienne",
@@ -655,6 +3499,184 @@ const citySeeds: CitySeed[] = [
       fr: ["La première ligne de chemin de fer de France fut ouverte en 1827 entre Saint-Étienne et Andrézieux.", "Saint-Étienne a été nommée 'Ville créative UNESCO de design' en 2010.", "La manufacture Manufrance fut au XIXe siècle la première entreprise de vente par correspondance de France.", "L'exploitation minière à Saint-Étienne s'est officiellement arrêtée avec la fermeture du dernier puits en 1983.", "La Cité du Design accueille tous les deux ans l'une des biennales de design les plus importantes au monde.", "Le Musée d'Art Moderne possède plus de 20 000 œuvres, dont des pièces de Picasso et Warhol."],
     },
     image: "/poi-images/saint-etienne.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Museum für moderne und zeitgenössische Kunst",
+                  "text": "Eines der bedeutendsten Museen für moderne Kunst in Frankreich mit einer beeindruckenden Sammlung internationaler Werke.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cité du Design",
+                  "text": "Auf dem Gelände einer ehemaligen Waffenfabrik gelegen, ist dieses Zentrum das Herz der Design-Metropole und Austragungsort der Biennale.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bergbaumuseum Puits Couriot",
+                  "text": "Ein authentisches ehemaliges Bergwerk, das die industrielle Vergangenheit der Stadt und das Leben der Bergleute eindrucksvoll zeigt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Geoffroy-Guichard-Stadion",
+                  "text": "Bekannt als 'Der Hexenkessel', ist dies die legendäre Heimstätte des Fußballvereins AS Saint-Étienne mit einer einzigartigen Atmosphäre.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kathedrale Saint-Charles-Borromée",
+                  "text": "Diese neugotische Kathedrale aus dem frühen 20. Jahrhundert beeindruckt durch ihre monumentale Fassade im Herzen der Stadt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place Jean-Jaurès",
+                  "text": "Der zentrale Platz der Stadt, umgeben von prächtigen Gebäuden wie dem Rathaus und dem Gerichtsgebäude, ein beliebter Treffpunkt.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Planetarium von Saint-Étienne",
+                  "text": "Ein hochmodernes Zentrum für Astronomie, das faszinierende Reisen durch das Universum in 3D-Simulationen anbietet.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Modern és Kortárs Művészeti Múzeum",
+                  "text": "Franciaország egyik legfontosabb modern művészeti gyűjteménye, amely egy különleges, fekete üvegépületben található.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cité du Design",
+                  "text": "Az egykori fegyvergyár területén kialakított dizájnközpont a város kreatív iparának és az UNESCO dizájnvárosi rangjának szimbóluma.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Puits Couriot Bányászati Múzeum",
+                  "text": "Egy valódi szénbánya helyszínén kialakított múzeum, ahol a látogatók megismerhetik a bányászok nehéz mindennapjait.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Geoffroy-Guichard Stadion",
+                  "text": "A 'Zöldek' (AS Saint-Étienne) otthona, amelyet 'Pokolként' is emlegetnek a szurkolók lelkesedése és a közeli lelátók miatt.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Borromeo Szent Károly katedrális",
+                  "text": "A 20. század elején épült neogótikus székesegyház, amely Saint-Étienne vallási életének központja és monumentális jelképe.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jean-Jaurès tér",
+                  "text": "A város lüktető szíve, ahol a városháza és az igazságügyi palota elegáns épületei mellett számos kávézó található.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Étienne Planetárium",
+                  "text": "Modern csillagászati központ, amely látványos előadásokkal és interaktív programokkal kalauzolja el a látogatókat a világűrbe.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeul de Artă Modernă și Contemporană",
+                  "text": "Unul dintre cele mai prestigioase muzee de profil din Franța, deținând o colecție impresionantă de peste 20.000 de lucrări.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cité du Design",
+                  "text": "Situat în vechea Fabrică de Arme, acest hub creativ găzduiește Bienala de Design și promovează inovația estetică urbană.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul-Muzeu al Minei Puits Couriot",
+                  "text": "Un sit istoric industrial unde vizitatorii pot explora galeriile subterane și pot înțelege importanța extracției cărbunelui.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stadionul Geoffroy-Guichard",
+                  "text": "Supranumit 'Cazanul', acest stadion este renumit pentru fervoarea fanilor echipei locale AS Saint-Étienne și atmosfera electrică.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala Saint-Charles-Borromée",
+                  "text": "O construcție neogotică impunătoare ridicată la începutul secolului XX, dominând peisajul urban cu turnurile sale zvelte.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Jean-Jaurès",
+                  "text": "Centrul civic al orașului, un spațiu vast și elegant mărginit de Primărie și alte clădiri administrative importante.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Planetariul din Saint-Étienne",
+                  "text": "Un loc educativ de excepție care oferă proiecții 3D spectaculoase ale cerului înstelat și ale sistemului solar.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of Modern and Contemporary Art",
+                  "text": "One of France's leading contemporary art museums, featuring a vast collection of 20th and 21st-century international works.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cité du Design",
+                  "text": "Located in a former arms factory, this creative hub celebrates Saint-Étienne's status as a UNESCO City of Design.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Puits Couriot Mine Museum",
+                  "text": "An authentic former colliery where visitors can explore underground galleries and learn about the city's coal mining heritage.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Geoffroy-Guichard Stadium",
+                  "text": "Nicknamed 'Le Chaudron' (The Cauldron), it is the historic home of AS Saint-Étienne and is famous for its passionate atmosphere.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Charles-Borromée Cathedral",
+                  "text": "A grand neo-Gothic cathedral built in the early 20th century, standing as a prominent landmark in the city center.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place Jean-Jaurès",
+                  "text": "The main square of the city, surrounded by historical monuments like the Town Hall and the Palace of Justice.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Étienne Planetarium",
+                  "text": "A state-of-the-art facility offering immersive 3D shows about space and astronomy, perfect for families and science enthusiasts.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "toulon",
@@ -689,6 +3711,160 @@ const citySeeds: CitySeed[] = [
       fr: ["Le port de Toulon abrite le porte-avions Charles de Gaulle, fleuron de la Marine.", "Le mont Faron culmine à 584 mètres et est accessible en téléphérique depuis le centre-ville.", "Napoléon Bonaparte fut promu général de brigade après la libération de Toulon en 1793.", "Le musée national de la Marine à Toulon a été fondé dès 1814.", "La ville dispose de la plus grande rade d'Europe avec une superficie de près de 1 500 hectares.", "Le marché provençal du cours Lafayette a lieu tous les jours sauf le lundi."],
     },
     image: "/poi-images/toulon.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Mont Faron",
+                  "text": "Ein 584 Meter hoher Kalksteingipfel mit atemberaubendem Blick auf die Reede, erreichbar mit einer Panorama-Seilbahn.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée National de la Marine",
+                  "text": "Dieses Museum am Arsenal-Tor dokumentiert die reiche maritime Geschichte von Toulon und die Entwicklung des französischen Hafens.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cathédrale Sainte-Marie-de-la-Seds",
+                  "text": "Eine wunderschöne Kathedrale aus dem 11. Jahrhundert mit einer markanten Glockenturmanlage und einer barocken Fassade.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Opéra de Toulon",
+                  "text": "Dieses prächtige Opernhaus wurde 1862 eingeweiht und ist bekannt für seine hervorragende Akustik und seine reiche Verzierung.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fort Saint-Louis",
+                  "text": "Ein historisches Küstenfort aus dem 17. Jahrhundert, das direkt am Ufer des Stadtteils Mourillon zum Schutz des Hafens erbaut wurde.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place de la Liberté",
+                  "text": "Der zentrale Platz der Stadt, geschmückt mit dem monumentalen Brunnen des Bundes und umgeben von prachtvollen Gebäuden.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Faron",
+                  "text": "Az 584 méter magas mészkőhegyről páratlan kilátás nyílik a kikötőre, a csúcsra egy látványos drótkötélpályán lehet feljutni.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée National de la Marine",
+                  "text": "A tengerészeti múzeum a város katonai kikötőjének bejáratánál található, és Toulon gazdag tengerészeti múltját mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cathédrale Sainte-Marie-de-la-Seds",
+                  "text": "A 11. században épült katedrális román, gótikus és barokk elemeket ötvöz, harangtornya a város egyik jelképe.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Opéra de Toulon",
+                  "text": "A város 1862-ben megnyitott operaháza híres kiváló akusztikájáról és gazdagon díszített neoklasszicista homlokzatáról.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fort Saint-Louis",
+                  "text": "Ez a 17. századi tengerparti erődítmény Mourillon negyedében található, egykor a kikötő védelmét szolgálta a betolakodók ellen.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place de la Liberté",
+                  "text": "Toulon főtere, amelynek közepén a monumentális Föderáció-kút áll, és számos elegáns épület veszi körül.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mont Faron",
+                  "text": "Un vârf de calcar de 584 de metri care oferă vederi uluitoare asupra portului, accesibil printr-o teleferică pitorească.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée National de la Marine",
+                  "text": "Situat lângă poarta arsenalului, acest muzeu prezintă istoria maritimă a orașului Toulon și modele de nave istorice.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cathédrale Sainte-Marie-de-la-Seds",
+                  "text": "O catedrală istorică datând din secolul al XI-lea, renumită pentru mixul său de stiluri arhitecturale și fațada barocă.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Opéra de Toulon",
+                  "text": "Inaugurată în 1862, această operă este una dintre cele mai mari din Franța, fiind celebră pentru decorul său interior somptuos.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fort Saint-Louis",
+                  "text": "O fortăreață de coastă din secolul al XVII-lea construită de Vauban pentru a proteja rada orașului de atacurile inamice.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place de la Liberté",
+                  "text": "Piața centrală a orașului, dominată de fântâna monumentală a Federației și înconjurată de palmieri și clădiri elegante.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont Faron",
+                  "text": "A 584-meter limestone summit offering breathtaking views over the harbor, accessible by a scenic cable car ride.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "National Navy Museum",
+                  "text": "Located at the arsenal gate, this museum traces Toulon's maritime history and displays impressive model ships.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sainte-Marie-de-la-Seds Cathedral",
+                  "text": "An 11th-century cathedral featuring a mix of Romanesque and Gothic styles, known for its unique iron bell tower.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Toulon Opera House",
+                  "text": "Inaugurated in 1862, this grand neoclassical building is renowned for its exceptional acoustics and ornate interior.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fort Saint-Louis",
+                  "text": "A 17th-century coastal fortress in the Mourillon district, built to defend the bay against naval invasions.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place de la Liberté",
+                  "text": "The city's main square, featuring the monumental Fountain of the Federation and surrounded by grand 19th-century buildings.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "valence",
@@ -723,6 +3899,160 @@ const citySeeds: CitySeed[] = [
       fr: ["Fondée en 121 av. J.-C. sous le nom de Valentia Julia.", "La cathédrale Saint-Apollinaire a été consacrée en 1095.", "Le parc Jouvet s'étend sur une surface de 5,7 hectares.", "La ville est située précisément sur le 45e parallèle nord.", "Elle abrite la Maison des Têtes, construite en 1530.", "Le port de l'Épervière est le plus grand port fluvial de France."],
     },
     image: "/poi-images/valence.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Maison des Têtes",
+                  "text": "Dieses Bürgerhaus aus dem 16. Jahrhundert ist berühmt für seine Fassade, die mit zahlreichen geschnitzten Köpfen verziert ist.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cathédrale Saint-Apollinaire",
+                  "text": "Die älteste Kirche der Stadt, im 11. Jahrhundert im romanischen Stil erbaut und am Ufer der Rhône gelegen.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc Jouvet",
+                  "text": "Ein wunderschöner, 7 Hektar großer Park im Herzen der Stadt mit Blick auf die Burgruine Crussol und die Rhône.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kiosque Peynet",
+                  "text": "Ein charmanter Musikpavillon auf dem Champ de Mars, der durch die berühmten Zeichnungen der „Liebenden“ von Raymond Peynet bekannt wurde.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée de Valence",
+                  "text": "Das Museum für Kunst und Archäologie befindet sich im ehemaligen Bischofspalast und beherbergt bedeutende Sammlungen.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pendentif de Valence",
+                  "text": "Ein Renaissance-Grabdenkmal auf dem Kirchplatz, das für seine einzigartige gewölbte Architektur aus dem Jahr 1548 bekannt ist.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maison des Têtes",
+                  "text": "Ez a 16. századi reneszánsz polgárház homlokzatát díszítő faragott fejekről kapta a nevét, Valence egyik jelképe.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cathédrale Saint-Apollinaire",
+                  "text": "A város legrégebbi temploma, amely a 11. században épült román stílusban, és a Rhône folyó partján magasodik.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc Jouvet",
+                  "text": "Egy gyönyörű, 7 hektáros park Valence központjában, ahonnan csodás kilátás nyílik a folyóra és a közeli hegyekre.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kiosque Peynet",
+                  "text": "A Champ de Mars téren álló zenepavillon Raymond Peynet híres szerelmespár-illusztrációi révén vált világhírűvé.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée de Valence",
+                  "text": "Az egykori püspöki palotában helyet kapó művészeti és régészeti múzeum gazdag gyűjteménnyel büszkélkedhet.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pendentif de Valence",
+                  "text": "Egy egyedülálló, 1548-ban épült reneszánsz síremlék a katedrális mellett, amely különleges boltozatos szerkezetéről híres.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maison des Têtes",
+                  "text": "O casă burgheză din secolul al XVI-lea, celebră pentru fațada sa bogat decorată cu numeroase capete sculptate în piatră.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cathédrale Saint-Apollinaire",
+                  "text": "Cea mai veche biserică din oraș, construită în stil romanic în secolul al XI-lea și situată lângă malurile Rhone-ului.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc Jouvet",
+                  "text": "Un parc public superb de 7 hectare, oferind grădini tematice, canale de apă și o vedere panoramică spre castelul Crussol.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kiosque Peynet",
+                  "text": "Un chioșc de muzică emblematic situat pe Champ de Mars, devenit faimos datorită ilustrațiilor poetice ale lui Raymond Peynet.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée de Valence",
+                  "text": "Muzeul de Artă și Arheologie este găzduit în fostul palat episcopal și deține o colecție impresionantă de mozaicuri romane.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pendentif de Valence",
+                  "text": "Un monument funerar renascentist rar, construit în 1548 în curtea catedralei, remarcabil pentru arhitectura sa boltită.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maison des Têtes",
+                  "text": "A stunning 16th-century Renaissance house famous for its facade decorated with numerous carved heads of winds and seasons.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Apollinaire Cathedral",
+                  "text": "The city's oldest church, built in the Romanesque style during the 11th century on the banks of the Rhône River.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc Jouvet",
+                  "text": "A beautiful 7-hectare public park in the heart of the city, offering lush gardens and views of the Crussol ruins.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kiosque Peynet",
+                  "text": "An iconic music pavilion on the Champ de Mars, made famous by Raymond Peynet's celebrated drawings of 'The Lovers'.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée de Valence",
+                  "text": "The Museum of Art and Archaeology, set in the former Bishop's Palace, featuring exceptional Roman mosaic collections.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pendentif de Valence",
+                  "text": "A unique 1548 Renaissance funerary monument located near the cathedral, known for its rare vaulted architecture.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "chambery",
@@ -757,6 +4087,160 @@ const citySeeds: CitySeed[] = [
       fr: ["Capitale du duché de Savoie de 1295 à 1563.", "La fontaine des Éléphants a été érigée en 1838.", "Le Saint-Suaire fut conservé à Chambéry pendant 76 ans.", "La ville compte environ 60 000 habitants.", "Jean-Jacques Rousseau séjourna aux Charmettes de 1736 à 1742.", "Située dans une cluse entre les massifs des Bauges et de la Chartreuse."],
     },
     image: "/poi-images/chambery.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Fontaine des Éléphants",
+                  "text": "Dieses berühmte Denkmal von 1838, auch „les quatre sans cul“ genannt, ehrt den Grafen de Boigne für seine Wohltaten.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Château des Ducs de Savoie",
+                  "text": "Ein historisches Schloss, das jahrhundertelang die Herzöge von Savoyen beherbergte und heute das Departement verwaltet.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cathédrale Saint-François-de-Sales",
+                  "text": "Die Kathedrale beherbergt eines der größten Trompe-l'œil-Ensembles Europas, ein Meisterwerk der illusionistischen Malerei.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Charmettes",
+                  "text": "Das Landhaus, in dem der Philosoph Jean-Jacques Rousseau lebte, heute ein Museum in einer wunderschönen natürlichen Umgebung.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée Savoisien",
+                  "text": "Ein Museum in einem ehemaligen Franziskanerkloster, das sich der Geschichte und Kultur von Savoyen widmet.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rue de Boigne",
+                  "text": "Eine elegante Straße mit Arkaden aus dem 19. Jahrhundert, die das Stadtzentrum mit dem Elefantenbrunnen verbindet.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fontaine des Éléphants",
+                  "text": "A város jelképe ez az 1838-as szökőkút, amely négy elefántot ábrázol Boigne gróf tiszteletére, aki sokat tett Chambéry-ért.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Château des Ducs de Savoie",
+                  "text": "A Savoyai hercegek egykori rezidenciája egy impozáns épületegyüttes, amely ma közigazgatási központként és múzeumként szolgál.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cathédrale Saint-François-de-Sales",
+                  "text": "A katedrális belső tere Európa legnagyobb trompe-l'œil freskóit rejti, amelyek lenyűgöző optikai csalódást keltenek.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Charmettes",
+                  "text": "Ebben a hangulatos vidéki házban élt Jean-Jacques Rousseau, ma emlékmúzeumként látogatható a város szélén.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée Savoisien",
+                  "text": "Egy korábbi kolostor épületében található múzeum, amely Savoya történelmét és néprajzát mutatja be a látogatóknak.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rue de Boigne",
+                  "text": "Chambéry legreprezentatívabb útja, amelyet elegáns árkádok díszítenek, és a hercegi kastélyt köti össze a főtérrel.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fontaine des Éléphants",
+                  "text": "Cunoscută sub numele de 'Cei patru fără fund', această fântână din 1838 este cel mai faimos monument din Chambéry.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Château des Ducs de Savoie",
+                  "text": "O fostă fortăreață medievală și reședință a ducilor de Savoia, cu un turn impunător și o capelă celebră.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cathédrale Saint-François-de-Sales",
+                  "text": "Această catedrală deține cea mai mare pictură trompe-l'œil din Europa, acoperind plafoanele cu scene spectaculoase.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Charmettes",
+                  "text": "Casa de la țară unde a locuit Jean-Jacques Rousseau între 1736 și 1742, acum un muzeu înconjurat de grădini.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée Savoisien",
+                  "text": "Găzduit într-o fostă mănăstire franciscană, muzeul prezintă bogata moștenire istorică și culturală a regiunii Savoia.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rue de Boigne",
+                  "text": "O stradă istorică elegantă, marcată de arcade impozante, construită în secolul al XIX-lea prin generozitatea contelui de Boigne.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Elephant Fountain",
+                  "text": "An iconic 1838 fountain featuring four elephants, dedicated to General de Boigne for his contributions to the city.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Château des Ducs de Savoie",
+                  "text": "A historic castle complex that served as the residence for the Dukes of Savoy, featuring a famous grand staircase.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-François-de-Sales Cathedral",
+                  "text": "This cathedral houses the largest trompe-l'oeil collection in Europe, creating incredible 3D illusions on its walls.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Charmettes",
+                  "text": "The former country home of philosopher Jean-Jacques Rousseau, now a museum preserving his memory and surroundings.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée Savoisien",
+                  "text": "Set in a former Franciscan convent, this museum explores the rich history and folk art of the Savoy region.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rue de Boigne",
+                  "text": "A grand 19th-century street lined with elegant porticos, connecting the castle to the famous elephant fountain.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "dunkerque",
@@ -791,6 +4275,160 @@ const citySeeds: CitySeed[] = [
       fr: ["Plus de 338 000 soldats ont été évacués en 1940 lors de l'Opération Dynamo.", "Le port est le troisième de France en termes de volume.", "Le beffroi de Saint-Éloi culmine à 58 mètres de hauteur.", "Le carnaval de Dunkerque dure près de trois mois chaque année.", "La ville a été détruite à 80 % à la fin de la Seconde Guerre mondiale.", "Le célèbre corsaire Jean Bart est né ici en 1650."],
     },
     image: "/poi-images/dunkerque.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Beffroi de Dunkerque",
+                  "text": "Dieser Backsteinturm aus dem 15. Jahrhundert gehört zum UNESCO-Weltkulturerbe und bietet einen Blick auf den Hafen.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée Portuaire",
+                  "text": "Ein Museum in einem ehemaligen Tabaklager, das die Geschichte des Hafens von Dünkirchen und das Leben der Seeleute zeigt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Église Saint-Éloi",
+                  "text": "Eine imposante Backsteinkirche aus dem 16. Jahrhundert, die als „Kathedrale des Sandes“ bekannt ist.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mémorial du Souvenir",
+                  "text": "Dieses Museum dokumentiert die dramatische „Operation Dynamo“ von 1940 während der Evakuierung der alliierten Truppen.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plage de Malo-les-Bains",
+                  "text": "Ein langer Sandstrand, bekannt für seine Belle-Époque-Villen und die Strandpromenade mit zahlreichen Cafés.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Phare du Risban",
+                  "text": "Der 1843 erbaute Leuchtturm ist 63 Meter hoch und leitet die Schiffe sicher in den Hafen von Dünkirchen.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beffroi de Dunkerque",
+                  "text": "A 15. századi harangtorony az UNESCO Világörökség része, tetejéről lenyűgöző panoráma nyílik a városra és az Északi-tengerre.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée Portuaire",
+                  "text": "A kikötői múzeum egy régi dohányraktárban kapott helyet, és a város tengeri kereskedelmét és hajózási múltját mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Église Saint-Éloi",
+                  "text": "Egy hatalmas gótikus téglaépület a 16. századból, amelyet a helyiek gyakran a homok katedrálisaként emlegetnek.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mémorial du Souvenir",
+                  "text": "A múzeum az 1940-es Dynamo-hadműveletnek állít emléket, amikor a szövetséges csapatokat kimentették a tengerpartról.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plage de Malo-les-Bains",
+                  "text": "Dunkerque híres homokos strandja, amelyet színes 19. századi villák és egy nyüzsgő sétány tesz vonzóvá.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Phare du Risban",
+                  "text": "A 63 méter magas világítótorony 1843 óta segíti a hajók navigálását Dunkerque fontos kikötőjének bejáratánál.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Beffroi de Dunkerque",
+                  "text": "Turnul cu clopotniță din secolul al XV-lea, inclus în patrimoniul UNESCO, oferă o panoramă superbă asupra mării și orașului.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée Portuaire",
+                  "text": "Situat într-un depozit vechi de tutun, acest muzeu ilustrează istoria maritimă și vizitarea navelor istorice ancorate.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Église Saint-Éloi",
+                  "text": "O biserică impunătoare din secolul al XVI-lea construită din cărămidă, martoră a istoriei zbuciumate a orașului.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mémorial du Souvenir",
+                  "text": "Un muzeu dedicat Bătăliei de la Dunkerque și Operațiunii Dynamo din 1940, esențial pentru înțelegerea celui de-al Doilea Război Mondial.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plage de Malo-les-Bains",
+                  "text": "O plajă imensă de nisip mărginită de vile colorate din epoca Belle Époque și numeroase restaurante primitoare.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Phare du Risban",
+                  "text": "Farul orașului, cu o înălțime de 63 de metri, este un monument istoric ce ghidează navele spre unul dintre cele mai mari porturi.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dunkirk Belfry",
+                  "text": "This 15th-century brick tower is part of a UNESCO World Heritage site and offers grand views of the harbor and North Sea.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Port Museum",
+                  "text": "Set in a former tobacco warehouse, this museum showcases the city's seafaring heritage and features historic ships to visit.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Eloi Church",
+                  "text": "A massive 16th-century Gothic brick church, often called the 'Cathedral of the Sands' due to its proximity to the coast.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Memorial of the Souvenir",
+                  "text": "A museum dedicated to 'Operation Dynamo' in 1940, telling the dramatic story of the evacuation of Allied troops.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Malo-les-Bains Beach",
+                  "text": "A wide sandy beach famous for its Belle Époque villas and its lively promenade lined with cafes and ice cream parlors.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Risban Lighthouse",
+                  "text": "Standing 63 meters tall, this historic lighthouse built in 1843 guides vessels into the bustling port of Dunkirk.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "la-rochelle",
@@ -825,6 +4463,184 @@ const citySeeds: CitySeed[] = [
       fr: ["Le siège de La Rochelle a eu lieu de 1627 à 1628.", "La tour Saint-Nicolas a une hauteur de 42 mètres.", "Le pont de l'île de Ré mesure 2 926 mètres de long.", "L'Aquarium La Rochelle abrite plus de 12 000 animaux marins.", "Le port des Minimes dispose de plus de 5 000 anneaux.", "La ville a accueilli la première journée sans voiture en France en 1997."],
     },
     image: "/poi-images/la-rochelle.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Vieux Port",
+                  "text": "Der historische Hafen ist das Herz der Stadt, gesäumt von Fischrestaurants und bewacht von zwei markanten mittelalterlichen Türmen.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tour de la Lanterne",
+                  "text": "Ein mittelalterlicher Leuchtturm und ehemaliges Gefängnis, bekannt für die historischen Inschriften, die Gefangene in die Wände ritzten.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tour Saint-Nicolas",
+                  "text": "Dieser massive Festungsturm aus dem 14. Jahrhundert schützte einst den Hafeneingang und bietet heute einen Panoramablick über La Rochelle.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tour de la Chaîne",
+                  "text": "Der Kettenturm kontrollierte einst den Zugang zum Hafen und beherbergt heute Ausstellungen über die Geschichte der Stadt und die Auswanderung.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aquarium La Rochelle",
+                  "text": "Eines der größten privaten Aquarien Europas mit über 12.000 Meerestieren und beeindruckenden Ausstellungsbecken für Haie und Quallen.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cathédrale Saint-Louis",
+                  "text": "Diese im 18. Jahrhundert erbaute Kathedrale beeindruckt durch ihre klassizistische Architektur und die prächtigen Glasmalereien im Inneren.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hôtel de Ville",
+                  "text": "Das prächtige Rathaus mit seiner wehrhaften Fassade und dem Renaissance-Hof gehört zu den schönsten öffentlichen Gebäuden Frankreichs.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vieux Port",
+                  "text": "A történelmi kikötő a város szíve, amelyet tengeri éttermek szegélyeznek és két jellegzetes középkori torony őriz a bejáratnál.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tour de la Lanterne",
+                  "text": "Középkori világítótorony és egykori börtön, amely a falakba vésett, foglyoktól származó történelmi feliratairól és rajzairól nevezetes.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tour Saint-Nicolas",
+                  "text": "Ez a 14. századi masszív erődítménytorony egykor a kikötő védelmét szolgálta, ma pedig panorámás kilátást nyújt az egész városra.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tour de la Chaîne",
+                  "text": "A Lánc-torony egykor a kikötőbe való belépést ellenőrizte, ma pedig a város történetét bemutató kiállításoknak ad otthont.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aquarium La Rochelle",
+                  "text": "Európa egyik legnagyobb magánakváriuma, ahol több mint 12 000 tengeri élőlény és látványos cápamedencék várják a látogatókat.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cathédrale Saint-Louis",
+                  "text": "A 18. században épült katedrális klasszicista építészetével és a belső terét díszítő gyönyörű ólomüveg ablakaival nyűgözi le a látogatókat.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hôtel de Ville",
+                  "text": "A pompás városháza reneszánsz udvarával és erődítményszerű homlokzatával Franciaország egyik legszebb középületeként ismert.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vieux Port",
+                  "text": "Portul vechi este inima istorică a orașului, mărginit de restaurante cu specific pescăresc și păzit de două turnuri medievale impunătoare.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tour de la Lanterne",
+                  "text": "Un far medieval și fostă închisoare, faimos pentru graffiti-urile istorice sculptate în pereți de către marinarii și corsarii deținuți.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tour Saint-Nicolas",
+                  "text": "Acest turn fortificat masiv din secolul al XIV-lea proteja intrarea în port și oferă astăzi o vedere panoramică superbă asupra orașului.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tour de la Chaîne",
+                  "text": "Turnul cu Lanț controla accesul navelor în port și găzduiește în prezent expoziții despre istoria locală și emigrarea spre America.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aquarium La Rochelle",
+                  "text": "Unul dintre cele mai mari acvarii private din Europa, cu peste 12.000 de animale marine și bazine spectaculoase pentru rechini și meduze.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cathédrale Saint-Louis",
+                  "text": "Construită în secolul al XVIII-lea, această catedrală impresionează prin arhitectura sa clasică și vitraliile colorate din interior.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hôtel de Ville",
+                  "text": "Primăria somptuoasă, cu fațada sa fortificată și curtea în stil Renaștere, este considerată una dintre cele mai frumoase clădiri publice din Franța.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vieux Port",
+                  "text": "The historic harbor is the heart of the city, lined with seafood restaurants and guarded by two iconic medieval towers at the entrance.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tour de la Lanterne",
+                  "text": "A medieval lighthouse and former prison, famous for the historic graffiti carved into the walls by English privateers and sailors.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tour Saint-Nicolas",
+                  "text": "This massive 14th-century fortress tower once protected the harbor entrance and now offers panoramic views over the city of La Rochelle.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tour de la Chaîne",
+                  "text": "The Chain Tower once controlled access to the port and currently hosts exhibitions on the city's history and North American emigration.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aquarium La Rochelle",
+                  "text": "One of Europe's largest private aquariums, featuring over 12,000 marine animals and impressive shark and jellyfish display tanks.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cathédrale Saint-Louis",
+                  "text": "Built in the 18th century, this cathedral stands out for its classical architecture and the beautiful stained glass windows in the interior.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hôtel de Ville",
+                  "text": "The magnificent town hall, with its fortified facade and Renaissance courtyard, is widely considered one of the finest public buildings in France.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "biarritz",
@@ -859,6 +4675,184 @@ const citySeeds: CitySeed[] = [
       fr: ["La pratique du surf a été introduite dans la ville en 1957.", "L'Hôtel du Palais fut édifié en 1854 pour servir de résidence à l'impératrice Eugénie.", "Le phare de Biarritz a été construit en 1834.", "La passerelle menant au Rocher de la Vierge fut achevée en 1887.", "L'aquarium de la ville a ouvert ses portes en 1933.", "La cité se trouve à seulement 18 kilomètres de la frontière espagnole."],
     },
     image: "/poi-images/biarritz.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Rocher de la Vierge",
+                  "text": "Ein markanter Felsen im Meer, der über eine von Gustave Eiffel entworfene Brücke erreichbar ist und eine Statue der Jungfrau Maria trägt.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Phare de Biarritz",
+                  "text": "Dieser 73 Meter hohe Leuchtturm bietet nach dem Aufstieg von 248 Stufen einen atemberaubenden Ausblick auf die baskische Küste.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aquarium de Biarritz",
+                  "text": "Ein Art-déco-Gebäude direkt am Meer, das eine reiche Sammlung an Meereslebewesen und ein beliebtes Robbenaquarium beherbergt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Villa Belza",
+                  "text": "Diese ikonische Villa auf einem Felsvorsprung zwischen zwei Stränden ist für ihre geheimnisvolle Architektur und Lage bekannt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Côte des Basques",
+                  "text": "Dieser berühmte Strand gilt als Geburtsort des Surfens in Europa und ist von beeindruckenden Klippen und Villen umgeben.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Église Sainte-Eugénie",
+                  "text": "Eine neugotische Kirche aus grauem Stein, die den Hafen überragt und für ihre schönen Glasfenster und die Meeresatmosphäre bekannt ist.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casino Barrière",
+                  "text": "Ein prachtvolles Casino im Art-déco-Stil direkt an der Grande Plage, das das goldene Zeitalter von Biarritz als Kurort widerspiegelt.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rocher de la Vierge",
+                  "text": "A tengerben álló jellegzetes szikla, amely egy Gustave Eiffel által tervezett hídon érhető el, tetején Szűz Mária szobrával.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Phare de Biarritz",
+                  "text": "A 73 méter magas világítótoronyból 248 lépcső megtétele után lélegzetelállító kilátás nyílik a baszk partvidékre és az óceánra.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aquarium de Biarritz",
+                  "text": "Közvetlenül az óceán partján fekvő Art Deco épület, amely gazdag tengeri élővilágot és népszerű fóka-bemutatókat kínál.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Villa Belza",
+                  "text": "Ez az ikonikus villa egy sziklafalon áll két strand között, titokzatos építészetéről és drámai fekvéséről ismert jelképe a városnak.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Côte des Basques",
+                  "text": "A szörfözés európai bölcsőjeként ismert híres strand, amelyet lenyűgöző sziklák és elegáns villák vesznek körül.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Église Sainte-Eugénie",
+                  "text": "Szürke kőből épült neogótikus templom, amely a kikötő felett magasodik, gyönyörű ólomüveg ablakairól és tengeri hangulatáról ismert.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casino Barrière",
+                  "text": "Közvetlenül a Grande Plage parton található pompás Art Deco kaszinó, amely Biarritz fürdővárosi aranykorát idézi.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rocher de la Vierge",
+                  "text": "O stâncă emblematică în mare, accesibilă printr-un pod proiectat de Gustave Eiffel, purtând în vârf o statuie a Fecioarei Maria.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Phare de Biarritz",
+                  "text": "Acest far cu o înălțime de 73 de metri oferă o panoramă spectaculoasă asupra coastei basce după urcarea celor 248 de trepte.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aquarium de Biarritz",
+                  "text": "O clădire în stil Art Deco situată chiar pe malul oceanului, care adăpostește o colecție bogată de faună marină și foci jucăușe.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Villa Belza",
+                  "text": "Această vilă iconică situată pe o stâncă între două plaje este celebră pentru arhitectura sa misterioasă și poziția sa dramatică.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Côte des Basques",
+                  "text": "Cunoscută drept locul de naștere al surfului în Europa, această plajă celebră este înconjurată de stânci impresionante și vile elegante.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Église Sainte-Eugénie",
+                  "text": "O biserică neogotică din piatră gri care domină portul, renumită pentru vitraliile sale superbe și atmosfera sa solemnă.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casino Barrière",
+                  "text": "Un cazinou splendid în stil Art Deco situat pe Grande Plage, reflectând epoca de aur a orașului Biarritz ca stațiune balneară de lux.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rocher de la Vierge",
+                  "text": "An iconic rock formation in the sea, reachable via a bridge designed by Gustave Eiffel and topped with a statue of the Virgin Mary.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Phare de Biarritz",
+                  "text": "This 73-meter-high lighthouse offers breathtaking views of the Basque coast after a climb of 248 steps to the top gallery.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aquarium de Biarritz",
+                  "text": "An Art Deco building right on the seafront, housing a diverse collection of marine life and a popular seal enclosure.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Villa Belza",
+                  "text": "This iconic villa perched on a rocky outcrop between two beaches is famous for its mysterious architecture and dramatic location.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Côte des Basques",
+                  "text": "Known as the birthplace of surfing in Europe, this famous beach is framed by impressive cliffs and elegant 19th-century villas.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Église Sainte-Eugénie",
+                  "text": "A Neo-Gothic grey stone church overlooking the harbor, known for its beautiful stained glass windows and maritime atmosphere.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casino Barrière",
+                  "text": "A magnificent Art Deco casino located directly on the Grande Plage, reflecting Biarritz's golden age as a luxury resort town.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "pau",
@@ -893,6 +4887,184 @@ const citySeeds: CitySeed[] = [
       fr: ["Le roi Henri IV y est né le 13 décembre 1553.", "Le boulevard des Pyrénées a été aménagé en 1899.", "Le Grand Prix de Pau se déroule depuis 1933 sur un tracé urbain.", "Elle abrite le plus ancien parcours de golf d'Europe continentale (fondé en 1856).", "La ville dispose de 750 hectares d'espaces verts.", "Le funiculaire de Pau est en service depuis 1908."],
     },
     image: "/poi-images/pau.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Château de Pau",
+                  "text": "Das Geburtsschloss von König Heinrich IV. beherbergt heute ein Nationalmuseum mit einer beeindruckenden Sammlung von Wandteppichen.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Boulevard des Pyrénées",
+                  "text": "Eine 1,8 Kilometer lange Panoramapromenade, die einen spektakulären und ununterbrochenen Blick auf die Pyrenäenkette bietet.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Funiculaire de Pau",
+                  "text": "Diese historische Standseilbahn verbindet seit 1908 den Bahnhof mit dem Stadtzentrum und bietet eine charmante, kostenlose Fahrt.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée des Beaux-Arts",
+                  "text": "Eines der bedeutendsten Kunstmuseen der Region mit Werken vom 15. Jahrhundert bis zur Gegenwart, darunter flämische und italienische Meister.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palais Beaumont",
+                  "text": "Ein elegantes ehemaliges Winterkasino im Belle-Époque-Stil, das heute als Konferenzzentrum dient und von einem Park umgeben ist.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Eine imposante neugotische Kirche aus dem 19. Jahrhundert mit einem hohen Turm, die das religiöse Erbe der Stadt Pau repräsentiert.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc Beaumont",
+                  "text": "Ein wunderschöner Stadtpark mit jahrhundertealten Bäumen, einem See und einem Pavillon, ideal für entspannte Spaziergänge.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Château de Pau",
+                  "text": "IV. Henrik francia király szülőhelye, ma nemzeti múzeum, amely lenyűgöző falikárpit-gyűjteményéről és történelmi termeiről nevezetes.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Boulevard des Pyrénées",
+                  "text": "Egy 1,8 kilométer hosszú panorámasétány, amelyről zavartalan és lenyűgöző kilátás nyílik a Pireneusok hófödte csúcsaira.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Funiculaire de Pau",
+                  "text": "Ez a történelmi sikló 1908 óta köti össze a vasútállomást a városközponttal, ingyenes és hangulatos utazást kínálva.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée des Beaux-Arts",
+                  "text": "A régió egyik legfontosabb szépművészeti múzeuma, ahol a 15. századtól napjainkig terjedő művészeti alkotások láthatók.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palais Beaumont",
+                  "text": "Elegáns Belle Époque stílusú egykori téli kaszinó, amely ma konferenciaközpontként működik egy gyönyörű park közepén.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Impozáns 19. századi neogótikus templom magas toronnyal, amely Pau városának vallási örökségét és építészetét hirdeti.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc Beaumont",
+                  "text": "Gyönyörű városi park évszázados fákkal, tavacskával és egy pavilonnal, tökéletes hely a kikapcsolódáshoz és sétákhoz.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Château de Pau",
+                  "text": "Castelul unde s-a născut regele Henric al IV-lea găzduiește astăzi un muzeu național cu o colecție impresionantă de tapiserii regale.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Boulevard des Pyrénées",
+                  "text": "O promenadă panoramică de 1,8 kilometri care oferă o vedere spectaculoasă și neîntreruptă asupra lanțului muntos al Pirineilor.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Funiculaire de Pau",
+                  "text": "Acest funicular istoric leagă gara de centrul orașului din 1908, oferind o călătorie pitorească și gratuită vizitatorilor.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée des Beaux-Arts",
+                  "text": "Unul dintre cele mai importante muzee de artă din regiune, cu lucrări din secolul al XV-lea până în prezent, inclusiv maeștri flamanzi.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palais Beaumont",
+                  "text": "Un fost cazinou de iarnă elegant în stil Belle Époque, transformat în centru de conferințe și înconjurat de un parc vast.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "O biserică neogotică impunătoare din secolul al XIX-lea, cu un turn înalt, reprezentând un reper spiritual important al orașului.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc Beaumont",
+                  "text": "Un parc orășenesc superb cu arbori seculari, un mic lac și un pavilion, oferind o oază de liniște în inima orașului Pau.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Château de Pau",
+                  "text": "The birthplace of King Henry IV, this royal castle now serves as a national museum featuring an impressive collection of tapestries.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Boulevard des Pyrénées",
+                  "text": "A 1.8-kilometer panoramic promenade offering a spectacular and uninterrupted view of the entire Pyrenees mountain range.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Funiculaire de Pau",
+                  "text": "This historic funicular has connected the train station to the city center since 1908, providing a charming and free ride.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée des Beaux-Arts",
+                  "text": "One of the region's major art museums, showcasing works from the 15th century to the present, including Flemish and Italian masters.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palais Beaumont",
+                  "text": "An elegant former winter casino built in the Belle Époque style, now used as a convention center and surrounded by a scenic park.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "An imposing 19th-century Neo-Gothic church with a tall spire, representing the religious heritage and architectural history of Pau.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc Beaumont",
+                  "text": "A beautiful urban park with centenarian trees, a lake, and a bandstand, perfect for relaxing walks and outdoor leisure.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "bayonne",
@@ -927,6 +5099,184 @@ const citySeeds: CitySeed[] = [
       fr: ["La construction de la cathédrale de Bayonne débuta en 1213.", "La production de chocolat a commencé ici dès l'année 1615.", "Les Fêtes de Bayonne ont été créées en 1932.", "La citadelle de Vauban a été édifiée entre 1674 et 1680.", "La ville est située au confluent de la Nive et de l'Adour.", "Le jambon de Bayonne a obtenu le statut d'IGP en 1998."],
     },
     image: "/poi-images/bayonne.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Cathédrale Sainte-Marie",
+                  "text": "Diese gotische Kathedrale aus dem 13. Jahrhundert gehört zum UNESCO-Welterbe und beeindruckt durch ihren eleganten Kreuzgang.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée Basque",
+                  "text": "Das bedeutendste Museum für baskische Kultur und Geschichte, untergebracht in einem ehemaligen Handelshaus aus dem 17. Jahrhundert.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Halles de Bayonne",
+                  "text": "Die lebhafte Markthalle am Ufer der Nive ist das kulinarische Herz der Stadt, berühmt für Schinken und baskische Spezialitäten.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Château-Vieux",
+                  "text": "Eine alte Festung, die auf römischen Fundamenten errichtet wurde und jahrhundertelang als militärische Residenz in Grand Bayonne diente.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jardin Botanique",
+                  "text": "Ein hängender japanischer Garten auf den alten Stadtbefestigungen, der eine ruhige Atmosphäre und exotische Pflanzen bietet.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Citadelle de Bayonne",
+                  "text": "Eine beeindruckende Festungsanlage von Vauban aus dem 17. Jahrhundert, die das rechte Ufer des Adour dominiert.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pont Saint-Esprit",
+                  "text": "Diese historische Brücke verbindet das Zentrum mit dem Viertel Saint-Esprit und bietet einen weiten Blick über die Flüsse Adour und Nive.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cathédrale Sainte-Marie",
+                  "text": "Ez a 13. századi gótikus katedrális az UNESCO Világörökség része, elegáns kerengőjéről és kecses tornyairól ismert.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée Basque",
+                  "text": "A baszk kultúra és történelem legjelentősebb múzeuma, amely egy 17. századi egykori kereskedőházban kapott helyet.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Halles de Bayonne",
+                  "text": "A Nive folyó partján álló élénk vásárcsarnok a város gasztronómiai központja, híres a bayonne-i sonkáról és csokoládéról.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Château-Vieux",
+                  "text": "Római alapokra épült régi erődítmény, amely évszázadokon át katonai rezidenciaként szolgált Bayonne történelmi negyedében.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jardin Botanique",
+                  "text": "A régi városfalakra épült különleges botanikus kert, amely japán stílusával és egzotikus növényeivel nyújt nyugalmat.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Citadelle de Bayonne",
+                  "text": "Lenyűgöző 17. századi erődrendszer, amelyet Vauban tervezett, és ma is meghatározza az Adour folyó jobb partjának látképét.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pont Saint-Esprit",
+                  "text": "Történelmi híd, amely a városközpontot köti össze a Saint-Esprit negyeddel, pazar kilátást nyújtva a folyók találkozására.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cathédrale Sainte-Marie",
+                  "text": "Această catedrală gotică din secolul al XIII-lea face parte din Patrimoniul UNESCO și impresionează prin claustrul său elegant.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée Basque",
+                  "text": "Cel mai important muzeu dedicat culturii și istoriei basce, găzduit într-o casă de negustori din secolul al XVII-lea.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Halles de Bayonne",
+                  "text": "Piața centrală plină de viață de pe malul râului Nive este inima culinară a orașului, faimoasă pentru șunca de Bayonne.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Château-Vieux",
+                  "text": "O veche fortăreață construită pe fundații romane, care a servit timp de secole ca reședință militară în cartierul Grand Bayonne.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jardin Botanique",
+                  "text": "O grădină botanică suspendată pe vechile fortificații ale orașului, oferind un decor japonez liniștit și plante exotice.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Citadelle de Bayonne",
+                  "text": "O fortificație impresionantă proiectată de Vauban în secolul al XVII-lea, care domină malul drept al râului Adour.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pont Saint-Esprit",
+                  "text": "Acest pod istoric leagă centrul de cartierul Saint-Esprit și oferă o vedere panoramică asupra râurilor Adour și Nive.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cathédrale Sainte-Marie",
+                  "text": "This 13th-century Gothic cathedral is a UNESCO World Heritage site, renowned for its elegant cloister and soaring spires.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée Basque",
+                  "text": "The most important museum dedicated to Basque culture and history, housed in a beautiful 17th-century merchant's house.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Halles de Bayonne",
+                  "text": "The vibrant market hall on the banks of the Nive is the city's culinary heart, famous for Bayonne ham and local chocolate.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Château-Vieux",
+                  "text": "An ancient fortress built on Roman foundations that served for centuries as a military residence in the Grand Bayonne district.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jardin Botanique",
+                  "text": "A unique botanical garden perched on the old city ramparts, featuring a peaceful Japanese theme and exotic plant species.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Citadelle de Bayonne",
+                  "text": "An impressive 17th-century fortification designed by Vauban, which still dominates the landscape on the right bank of the Adour.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pont Saint-Esprit",
+                  "text": "This historic bridge connects the city center with the Saint-Esprit district, offering broad views over the Adour and Nive rivers.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "poitiers",
@@ -961,6 +5311,160 @@ const citySeeds: CitySeed[] = [
       fr: ["La bataille de Poitiers (732) stoppa l'avancée des Omeyyades.", "L'université de Poitiers a été fondée en 1431.", "La façade de Notre-Dame-la-Grande fut réalisée entre 1130 et 1150.", "Le parc du Futuroscope a ouvert ses portes en 1987.", "Le baptistère Saint-Jean date du IVe siècle.", "Jeanne d'Arc fut interrogée à Poitiers en 1429."],
     },
     image: "/poi-images/poitiers.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kathedrale Saint-Pierre",
+                  "text": "Diese massive gotische Kathedrale aus dem 12. Jahrhundert beeindruckt durch ihre gewaltigen Ausmaße und die historischen Glasfenster.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kirche Notre-Dame-la-Grande",
+                  "text": "Ein Meisterwerk der Romanik, berühmt für seine reich verzierte Fassade, die biblische Geschichten in Stein erzählt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Baptisterium Saint-Jean",
+                  "text": "Eines der ältesten christlichen Gebäude Frankreichs, das bis in die merowingische Zeit zurückreicht und antike Taufbecken zeigt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palais des Ducs d'Aquitaine",
+                  "text": "Der ehemalige Palast von Eleonore von Aquitanien beherbergt einen prachtvollen Saal und zeugt von mittelalterlicher Macht.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée Sainte-Croix",
+                  "text": "Das führende Museum der Region zeigt bedeutende archäologische Funde und Skulpturen von Camille Claudel und Auguste Rodin.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc de Blossac",
+                  "text": "Ein herrlicher Stadtpark mit französischen Gärten und einem kleinen Zoo, der einen weiten Blick über das Clain-Tal bietet.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szent Péter-székesegyház",
+                  "text": "Ez a hatalmas, 12. századi gótikus katedrális lenyűgöző méreteivel és történelmi ólomüveg ablakaival várja a látogatókat.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Notre-Dame-la-Grande templom",
+                  "text": "A román stílus remekműve, amely gazdagon díszített, bibliai jeleneteket ábrázoló kőfaragásos homlokzatáról híres.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent János-keresztelőkápolna",
+                  "text": "Franciaország egyik legrégebbi keresztény épülete, amely a meroving időkig nyúlik vissza, és ókori keresztelőmedencét őriz.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aquitániai hercegek palotája",
+                  "text": "Aquitániai Eleonóra egykori rezidenciája egy pompás gótikus teremmel rendelkezik, és a középkori hatalom jelképe.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sainte-Croix Múzeum",
+                  "text": "A régió legfontosabb múzeuma jelentős régészeti leleteket, valamint Rodin és Camille Claudel szobrait mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Blossac-park",
+                  "text": "Gyönyörű városi park francia kertekkel és egy kis állatkerttel, ahonnan pazar kilátás nyílik a Clain-völgyre.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala Saint-Pierre",
+                  "text": "Această catedrală gotică masivă din secolul al XII-lea impresionează prin dimensiunile sale uriașe și vitraliile istorice.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Notre-Dame-la-Grande",
+                  "text": "O capodoperă a artei romanice, celebră pentru fațada sa bogat decorată care povestește scene biblice în piatră.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Baptisteriul Saint-Jean",
+                  "text": "Una dintre cele mai vechi clădiri creștine din Franța, datând din perioada merovingiană, adăpostind bazine de botez antice.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Ducilor de Aquitania",
+                  "text": "Fosta reședință a Eleonorei de Aquitania are o sală magnifică și depune mărturie despre puterea medievală a zonei.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Sainte-Croix",
+                  "text": "Cel mai important muzeu din regiune expune descoperiri arheologice majore și sculpturi de Camille Claudel și Auguste Rodin.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Blossac",
+                  "text": "Un parc orășenesc splendid cu grădini franceze și o mică grădină zoologică, oferind o vedere largă asupra văii Clain.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saint-Pierre Cathedral",
+                  "text": "This massive 12th-century Gothic cathedral impresses with its vast dimensions and historic stained-glass windows.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Notre-Dame-la-Grande Church",
+                  "text": "A masterpiece of Romanesque art, famous for its richly decorated facade that tells biblical stories in stone carving.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Baptistery of Saint-Jean",
+                  "text": "One of the oldest Christian buildings in France, dating back to Merovingian times and housing ancient baptismal fonts.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palace of the Dukes of Aquitaine",
+                  "text": "The former residence of Eleanor of Aquitaine features a magnificent hall and stands as a symbol of medieval power.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sainte-Croix Museum",
+                  "text": "The leading museum of the region showcases significant archaeological finds and sculptures by Rodin and Camille Claudel.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Blossac Park",
+                  "text": "A beautiful city park with formal French gardens and a small zoo, offering sweeping views over the Clain valley.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "vannes",
@@ -995,6 +5499,160 @@ const citySeeds: CitySeed[] = [
       fr: ["Les remparts médiévaux mesurent 1,2 kilomètre de long.", "Le golfe du Morbihan compte environ 40 îles habitées.", "La cathédrale Saint-Pierre a été remaniée entre le XVe et le XIXe siècle.", "La ville a été officiellement rattachée à la France en 1532.", "La sculpture « Vannes et sa femme » date du XVIe siècle.", "Détient depuis 1990 le label « Ville d'art et d'histoire »."],
     },
     image: "/poi-images/vannes.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kathedrale Saint-Pierre",
+                  "text": "Diese gotische Kathedrale im Herzen der Altstadt beherbergt das Grab des Heiligen Vinzenz Ferrer und wertvolle Wandteppiche.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stadtmauern von Vannes",
+                  "text": "Die gut erhaltenen mittelalterlichen Befestigungsanlagen umschließen den historischen Stadtkern mit Türmen und Toren.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jardin des Remparts",
+                  "text": "Ein prächtiger Garten am Fuße der Stadtmauern, bekannt für seine kunstvollen Blumenbeete und entspannte Atmosphäre.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "La Cohue - Kunstmuseum",
+                  "text": "In einer mittelalterlichen Markthalle untergebracht, zeigt dieses Museum bedeutende Werke der modernen und zeitgenössischen Kunst.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Château de l'Hermine",
+                  "text": "Das ehemalige Schloss der bretonischen Herzöge dient heute als Kulturzentrum und markiert die prachtvolle Vergangenheit.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Porte Saint-Vincent",
+                  "text": "Das monumentale Haupttor aus dem 17. Jahrhundert verbindet den Hafen von Vannes direkt mit der historischen Altstadt.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szent Péter-székesegyház",
+                  "text": "Az óváros szívében álló gótikus katedrálisban található Ferrer Szent Vince sírja és számos értékes faliszőnyeg.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vannes városfalai",
+                  "text": "A jól megőrzött középkori erődítményrendszer bástyákkal és kapukkal veszi körül a város történelmi magját.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Várfalak kertje",
+                  "text": "Pompás park a városfalak lábánál, amely művészi virágágyásairól és nyugodt, pihentető légköréről ismert.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "La Cohue - Szépművészeti Múzeum",
+                  "text": "A középkori vásárcsarnokban berendezett múzeum modern és kortárs művészeti alkotásoknak ad otthont.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "L'Hermine kastély",
+                  "text": "A breton hercegek egykori rezidenciája ma kulturális központként működik, emlékeztetve a város dicső múltjára.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Vince-kapu",
+                  "text": "Ez a monumentális 17. századi kapu köti össze közvetlenül Vannes kikötőjét a fallal körülvett óvárossal.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala Saint-Pierre",
+                  "text": "Această catedrală gotică din inima centrului vechi adăpostește mormântul Sfântului Vincențiu Ferrer și tapițerii valoroase.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zidurile orașului Vannes",
+                  "text": "Fortificațiile medievale bine conservate înconjoară nucleul istoric al orașului, cu turnuri de apărare și porți vechi.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădina Zidurilor",
+                  "text": "O grădină splendidă la picioarele zidurilor cetății, cunoscută pentru rondurile de flori artistice și atmosfera relaxantă.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "La Cohue - Muzeul de Arte Frumoase",
+                  "text": "Găzduit într-o hală medievală, acest muzeu expune opere semnificative de artă modernă și contemporană.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul l'Hermine",
+                  "text": "Fosta reședință a ducilor de Bretania servește astăzi ca centru cultural și marchează trecutul somptuos al orașului.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Poarta Saint-Vincent",
+                  "text": "Această poartă monumentală din secolul al XVII-lea face legătura directă între portul din Vannes și centrul istoric.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saint-Pierre Cathedral",
+                  "text": "This Gothic cathedral in the heart of the old town houses the tomb of Saint Vincent Ferrer and valuable tapestries.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ramparts of Vannes",
+                  "text": "The well-preserved medieval fortifications surround the historic city core with defensive towers and old gates.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Garden of the Ramparts",
+                  "text": "A splendid garden at the foot of the city walls, known for its artistic flower beds and relaxing atmosphere.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "La Cohue - Fine Arts Museum",
+                  "text": "Housed in a medieval market hall, this museum displays significant works of modern and contemporary art.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castle of the Hermine",
+                  "text": "The former residence of the Dukes of Brittany now serves as a cultural center and marks the city's grand past.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint Vincent Gate",
+                  "text": "This monumental 17th-century gateway connects the harbor of Vannes directly to the historic walled old town.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "lorient",
@@ -1029,6 +5687,160 @@ const citySeeds: CitySeed[] = [
       fr: ["Lorient a été officiellement fondée le 31 août 1666.", "La base de sous-marins de Keroman s'étend sur 26 hectares.", "Le Festival Interceltique de Lorient existe depuis 1971.", "La ville a été détruite à 95 % par les bombardements alliés en 1943.", "Le port de pêche de Keroman est le deuxième de France.", "Elle abrite le centre d'entraînement des commandos de la marine française."],
     },
     image: "/poi-images/lorient.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "U-Boot-Basis Keroman",
+                  "text": "Eine riesige ehemalige deutsche U-Boot-Basis aus dem Zweiten Weltkrieg, die heute für Ausstellungen und Besichtigungen genutzt wird.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cité de la Voile Éric Tabarly",
+                  "text": "Ein interaktives Museum, das dem Hochseesegeln gewidmet ist und nach dem berühmten französischen Segler benannt wurde.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "U-Boot Flore S645",
+                  "text": "Dieses erhaltene U-Boot der Daphne-Klasse kann besichtigt werden und bietet Einblicke in das Leben unter Wasser.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kirche Notre-Dame-de-Victoire",
+                  "text": "Ein markantes Gebäude aus der Nachkriegszeit, bekannt für seine moderne Betonarchitektur und die beeindruckende Kuppel.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc Jules-Ferry",
+                  "text": "Eine grüne Lunge im Stadtzentrum, die den Hafen mit der Stadt verbindet und zum Spazierengehen einlädt.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grand Théâtre de Lorient",
+                  "text": "Ein modernes kulturelles Wahrzeichen, das Theateraufführungen, Konzerte und Tanzdarbietungen auf höchstem Niveau bietet.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Keroman tengeralattjáró-bázis",
+                  "text": "Hatalmas egykori német tengeralattjáró-bázis a második világháborúból, amely ma kiállításoknak és túráknak ad otthont.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cité de la Voile Éric Tabarly",
+                  "text": "Az óceáni vitorlázásnak szentelt interaktív múzeum, amelyet a híres francia vitorlázóról neveztek el.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Flore S645 tengeralattjáró",
+                  "text": "Ez a megőrzött Daphne-osztályú tengeralattjáró látogatható, bepillantást engedve a víz alatti élet mindennapjaiba.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Notre-Dame-de-Victoire templom",
+                  "text": "Jellegzetes háború utáni épület, amely modern betonarchitektúrájáról és lenyűgöző kupolájáról híres.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jules-Ferry park",
+                  "text": "A városközpont zöld szíve, amely összeköti a kikötőt a várossal, és pihentető sétákra hívja a látogatókat.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lorient-i Nagyszínház",
+                  "text": "Modern kulturális központ, amely színvonalas színházi előadásoknak, koncerteknek és táncműsoroknak ad otthont.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baza de submarine Keroman",
+                  "text": "O fostă bază masivă de submarine germane din Al Doilea Război Mondial, utilizată astăzi pentru expoziții și tururi.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cité de la Voile Éric Tabarly",
+                  "text": "Un muzeu interactiv dedicat navigației oceanice, numit după celebrul navigator francez Éric Tabarly.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Submarinul Flore S645",
+                  "text": "Acest submarin din clasa Daphné poate fi vizitat, oferind o perspectivă rară asupra vieții echipajului sub apă.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Notre-Dame-de-Victoire",
+                  "text": "O clădire emblematică din perioada postbelică, cunoscută pentru arhitectura sa modernă din beton și cupola sa unică.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Jules-Ferry",
+                  "text": "Un spațiu verde central care leagă portul de oraș, ideal pentru plimbări și relaxare în aer liber.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Marele Teatru din Lorient",
+                  "text": "Un centru cultural modern care găzduiește spectacole de teatru, concerte și evenimente artistice majore.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Keroman Submarine Base",
+                  "text": "A massive former German U-boat base from WWII, now used for exhibitions and historical guided tours.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cité de la Voile Éric Tabarly",
+                  "text": "An interactive museum dedicated to offshore sailing, named after the famous French sailor Éric Tabarly.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Submarine Flore S645",
+                  "text": "This preserved Daphné-class submarine is open to the public, offering insights into life under the sea.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Church of Notre-Dame-de-Victoire",
+                  "text": "A striking post-war building known for its modern concrete architecture and its impressive central dome.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jules-Ferry Park",
+                  "text": "A central green lung connecting the harbor to the city center, perfect for leisurely walks and relaxation.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grand Theatre of Lorient",
+                  "text": "A modern cultural landmark hosting high-quality theater plays, concerts, and contemporary dance performances.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "saint-malo",
@@ -1063,6 +5875,184 @@ const citySeeds: CitySeed[] = [
       fr: ["Les remparts de Saint-Malo ont une longueur totale d'environ 1,7 kilomètre.", "En 1944, lors de la Libération, environ 80 % de la vieille ville fut détruite.", "L'écrivain François-René de Chateaubriand est né à Saint-Malo en 1768.", "L'amplitude des marées dans la baie est l'une des plus fortes d'Europe, atteignant 13 mètres.", "La tour Solidor a été construite au XIVe siècle pour contrôler l'accès à la Rance.", "Jacques Cartier, le découvreur du Canada, est parti de Saint-Malo pour ses expéditions."],
     },
     image: "/poi-images/saint-malo.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Stadtmauern von Saint-Malo",
+                  "text": "Die berühmten Granitmauern umgeben die Altstadt und bieten einen atemberaubenden Blick auf das Meer und den Hafen.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kathedrale Saint-Vincent",
+                  "text": "Diese historische Kathedrale vereint Romanik und Gotik und ist das religiöse Herz der befestigten Stadt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fort National",
+                  "text": "Eine von Vauban entworfene Festung auf einer Insel, die nur bei Ebbe zu Fuß vom Strand aus erreichbar ist.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Le Grand Bé",
+                  "text": "Eine kleine unbewohnte Insel, auf der sich das einsame Grab des berühmten Schriftstellers Chateaubriand befindet.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schloss von Saint-Malo",
+                  "text": "Die mittelalterliche Burg beherbergt heute das Stadtmuseum und zeigt die Geschichte der Korsaren und Entdecker.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plage du Sillon",
+                  "text": "Ein langer Sandstrand, bekannt für seine hölzernen Wellenbrecher und den spektakulären Tidenhub der Region.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tour Solidor",
+                  "text": "Ein markanter Dreifachturm aus dem 14. Jahrhundert, der einst die Mündung des Flusses Rance bewachte.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saint-Malo városfalai",
+                  "text": "A híres gránitfalak körülölelik az óvárost, lenyűgöző kilátást nyújtva a tengerre és a kikötőre.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Vince-székesegyház",
+                  "text": "Ez a történelmi katedrális a román és gótikus stílust ötvözi, az erődváros vallási központja.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fort National",
+                  "text": "Vauban által tervezett erőd egy szigeten, amely csak apály idején érhető el gyalogosan a partról.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Le Grand Bé",
+                  "text": "Egy kis lakatlan sziget, ahol a híres író, Chateaubriand magányos sírja található a tenger felett.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Malo kastélya",
+                  "text": "A középkori vár ma a városi múzeumnak ad otthont, bemutatva a kalózok és felfedezők izgalmas történetét.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plage du Sillon",
+                  "text": "Hosszú homokos tengerpart, amely híres a hullámtörő cölöpsorairól és a látványos árapály-jelenségről.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Solidor-torony",
+                  "text": "Jellegzetes, 14. századi hármas torony, amely egykor a Rance folyó torkolatát őrizte Saint-Servan-ban.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zidurile orașului Saint-Malo",
+                  "text": "Celebrele ziduri de granit înconjoară orașul vechi și oferă vederi uluitoare asupra mării și a portului.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala Saint-Vincent",
+                  "text": "Această catedrală istorică îmbină stilurile romanic și gotic, fiind inima religioasă a orașului fortificat.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fort National",
+                  "text": "O fortăreață proiectată de Vauban pe o insulă, accesibilă pe jos de pe plajă doar în timpul refluxului.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Le Grand Bé",
+                  "text": "O mică insulă nelocuită unde se află mormântul solitar al celebrului scriitor Chateaubriand.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul din Saint-Malo",
+                  "text": "Castelul medieval găzduiește astăzi muzeul orașului, prezentând istoria corsarilor și a marilor exploratori.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plaja Sillon",
+                  "text": "O plajă lungă de nisip, renumită pentru digurile sale din lemn și spectacolul mareelor înalte din regiune.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turnul Solidor",
+                  "text": "Un turn triplu marcant din secolul al XIV-lea, care păzea odinioară estuarul râului Rance.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ramparts of Saint-Malo",
+                  "text": "The famous granite walls surround the old town and offer breathtaking views of the sea and the harbor.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Vincent Cathedral",
+                  "text": "This historic cathedral blends Romanesque and Gothic styles and is the religious heart of the walled city.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fort National",
+                  "text": "A fortress designed by Vauban on an island, accessible by foot from the beach only at low tide.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Le Grand Bé",
+                  "text": "A small uninhabited island where the lonely tomb of the famous writer Chateaubriand is located.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Malo Castle",
+                  "text": "The medieval castle now houses the city museum, showcasing the history of corsairs and great explorers.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sillon Beach",
+                  "text": "A long sandy beach famous for its wooden breakwaters and the spectacular tidal range of the region.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Solidor Tower",
+                  "text": "A striking 14th-century triple tower that once guarded the mouth of the Rance river in Saint-Servan.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "quimper",
@@ -1097,6 +6087,160 @@ const citySeeds: CitySeed[] = [
       fr: ["Les deux flèches de la cathédrale Saint-Corentin s'élèvent à 75 mètres de haut.", "Les célèbres faïences peintes à la main sont fabriquées à Quimper depuis 1690.", "Le festival de Cornouaille se déroule chaque année depuis 1923.", "La vieille ville compte plus de 70 maisons à colombages classées datant de la Renaissance.", "L'Odet parcourt environ 62 kilomètres jusqu'à l'océan.", "Quimper est la préfecture officielle du département breton du Finistère."],
     },
     image: "/poi-images/quimper.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kathedrale Saint-Corentin",
+                  "text": "Diese beeindruckende gotische Kathedrale aus dem 13. Jahrhundert ist berühmt für ihre markante schiefe Achse und die prächtigen Glasfenster.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Altstadt (Vieux Quimper)",
+                  "text": "Die historische Altstadt verzaubert Besucher mit ihren gut erhaltenen Fachwerkhäusern und gepflasterten Gassen aus dem Mittelalter.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée des Beaux-Arts",
+                  "text": "Das Kunstmuseum beherbergt eine bedeutende Sammlung europäischer Malerei und zeigt Werke bretonischer Inspiration in einem eleganten Gebäude.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée de la Faïence",
+                  "text": "In diesem Museum wird die berühmte Quimper-Keramik ausgestellt, die seit über 300 Jahren die Identität der Stadt maßgeblich prägt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jardin de la Retraite",
+                  "text": "Dieser versteckte botanische Garten bietet eine exotische Pflanzenwelt und eine friedliche Oase inmitten der historischen Stadtmauern.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée Départemental Breton",
+                  "text": "Das Museum im ehemaligen Bischofspalast präsentiert die reiche Geschichte, Archäologie und Volkskunst der gesamten Bretagne-Region.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szent Corentin-székesegyház",
+                  "text": "A 13. századi gótikus katedrális különlegessége a ferde hossztengelye és a középkori üvegablakok lenyűgöző látványa.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Óváros (Vieux Quimper)",
+                  "text": "A történelmi városmag macskaköves utcáival és színes fagerendás házaival a középkori Bretagne hangulatát idézi a látogatóknak.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szépművészeti Múzeum",
+                  "text": "Az intézmény gazdag európai festészeti gyűjteménnyel rendelkezik, kiemelt figyelmet fordítva a breton témájú művészeti alkotásokra.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fajanszmúzeum",
+                  "text": "A múzeum a híres quimperi kerámiagyártás több mint háromszáz éves történetét és legszebb darabjait mutatja be a közönségnek.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jardin de la Retraite",
+                  "text": "A városfalak mellett található botanikus kert egzotikus növényeivel és nyugodt környezetével tökéletes hely a kikapcsolódásra.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Breton Megyei Múzeum",
+                  "text": "Az egykori püspöki palotában berendezett tárlat Bretagne történelmét, népviseleteit és régészeti leleteit ismerteti meg a látogatókkal.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala Saint-Corentin",
+                  "text": "Această catedrală gotică monumentală este celebră pentru structura sa curbată neobișnuită și vitraliile superbe din secolul al XV-lea.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Orașul Vechi (Vieux Quimper)",
+                  "text": "Centrul istoric oferă o atmosferă medievală autentică prin casele sale cu structură din lemn și străzile înguste pietruite.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul de Arte Frumoase",
+                  "text": "Găzduit într-o clădire elegantă, muzeul prezintă o colecție impresionantă de picturi europene și opere inspirate de peisajele bretone.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul de Faianță",
+                  "text": "Acest spațiu expozițional este dedicat celebrei ceramici de Quimper, ilustrând tradiția artizanală locală de peste trei secole.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jardin de la Retraite",
+                  "text": "O grădină botanică liniștită situată lângă zidurile orașului, oferind o varietate de plante exotice și palmieri spectaculoși.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Departamental Breton",
+                  "text": "Situat în vechiul palat episcopal, muzeul explorează patrimoniul cultural, costumele tradiționale și istoria regiunii Bretagne.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saint-Corentin Cathedral",
+                  "text": "This 13th-century Gothic masterpiece is famous for the unique tilt of its nave and its exceptionally preserved stained glass.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Town (Vieux Quimper)",
+                  "text": "The historic district features beautifully preserved half-timbered houses and narrow cobblestone streets dating back to the Middle Ages.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum of Fine Arts",
+                  "text": "The museum houses a significant collection of European paintings, including many works focused on the landscapes and life of Brittany.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Faïence Museum",
+                  "text": "This museum showcases the world-renowned Quimper pottery, tracing its development and artistic evolution over the past 300 years.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Retreat Garden (Jardin de la Retraite)",
+                  "text": "A serene botanical garden within the city walls, featuring palm trees and exotic flora in a peaceful, sheltered setting.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Breton County Museum",
+                  "text": "Located in the former bishops' palace, it offers an extensive look at Breton history, traditional dress, and archaeological finds.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "saint-brieuc",
@@ -1131,6 +6275,160 @@ const citySeeds: CitySeed[] = [
       fr: ["La cathédrale Saint-Étienne a été construite au XIIIe siècle comme église fortifiée.", "Saint-Brieuc est considérée comme le premier port de pêche à la coquille Saint-Jacques en France.", "La réserve naturelle de la baie s'étend sur une surface de 1140 hectares.", "La ville a été fondée au Ve siècle par le missionnaire gallois Brioc.", "Le viaduc de Souzain était une prouesse technique avec ses 215 mètres de long.", "Saint-Brieuc est la préfecture et le siège administratif du département des Côtes-d'Armor."],
     },
     image: "/poi-images/saint-brieuc.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kathedrale Saint-Étienne",
+                  "text": "Diese festungsähnliche Kathedrale vereint Romanik und Gotik und diente über Jahrhunderte als Zufluchtsort für die Bewohner der Stadt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hafen von Légué",
+                  "text": "Der charmante Jachthafen verbindet Saint-Brieuc mit dem Meer und ist ein beliebter Ort für Spaziergänge entlang der Kais.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum für Kunst und Geschichte",
+                  "text": "Das Museum beleuchtet die regionale Geschichte, das maritime Erbe und die Entwicklung der Landwirtschaft in der Region Côtes-d'Armor.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tour de Cesson",
+                  "text": "Diese Turmruine aus dem 14. Jahrhundert thront über der Bucht und zeugt von der strategischen Bedeutung der Küstenverteidigung.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Villa Rohannec'h",
+                  "text": "Inmitten eines weitläufigen Parks bietet diese historische Villa Ausstellungen und einen Panoramablick auf den Hafen von Légué.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Chaos du Gouët",
+                  "text": "Ein natürliches Spektakel aus riesigen Granitfelsen im Flussbett des Gouët, ideal für Wanderungen in mystischer Waldatmosphäre.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szent István-székesegyház",
+                  "text": "Ez az erődtemplomra emlékeztető katedrális a román és a gótika jegyeit ötvözi, egykor védelmi célokat is szolgált.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Légué kikötő",
+                  "text": "A festői jachtkikötő és rakpart népszerű sétálóhely, ahol elegáns éttermek és felújított régi épületek sorakoznak.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Művészeti és Történeti Múzeum",
+                  "text": "A gyűjtemény Bretagne északi részének tengerészeti örökségét, hagyományait és képzőművészeti alkotásait mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cesson-torony",
+                  "text": "A 14. századból származó őrtorony romjai a tengerparti sziklán állnak, emlékeztetve a város egykori katonai védelmére.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Villa Rohannec'h",
+                  "text": "Az olasz stílusú villa egy hatalmas park közepén található, ahonnan remek kilátás nyílik a Gouët folyó torkolatára.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Chaos du Gouët",
+                  "text": "A folyómederben fekvő hatalmas gránittömbök különleges természeti látványosságot nyújtanak az erdő mélyén túrázóknak.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala Saint-Étienne",
+                  "text": "O catedrală fortificată impunătoare ce îmbină stilul romanic cu cel gotic, servind istoric drept refugiu în timpul asediilor.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Portul Légué",
+                  "text": "Portul de agrement al orașului este un loc vibrant, ideal pentru plimbări de-a lungul cheiului printre bărci de pescuit și iahturi.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul de Artă și Istorie",
+                  "text": "Expozițiile muzeului documentează viața marină, industria textilă locală și evoluția socială a regiunii Côtes-d'Armor.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turnul Cesson",
+                  "text": "Rămășițele acestui turn fortificat din secolul al XIV-lea oferă o perspectivă istorică asupra apărării golfului Saint-Brieuc.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Villa Rohannec'h",
+                  "text": "O reședință istorică situată într-un parc vast, servind astăzi drept centru cultural cu vedere panoramică asupra portului.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Chaos du Gouët",
+                  "text": "O zonă naturală spectaculoasă unde bolovani uriași de granit creează peisaje uimitoare în albia împădurită a râului Gouët.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saint-Étienne Cathedral",
+                  "text": "A fortress-like cathedral that blends Romanesque and Gothic styles, historically designed to protect citizens during attacks.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Port of Légué",
+                  "text": "This charming marina is the maritime heart of Saint-Brieuc, lined with restaurants and historic stone houses.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum of Art and History",
+                  "text": "The museum showcases the heritage of the region, from maritime history to traditional crafts and archaeological discoveries.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cesson Tower",
+                  "text": "The ruins of this 14th-century tower overlook the bay, standing as a testament to the city's ancient coastal defenses.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Villa Rohannec'h",
+                  "text": "Surrounded by a scenic park, this historic villa hosts cultural events and offers panoramic views of the estuary and port.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Chaos du Gouët",
+                  "text": "A remarkable natural site featuring massive granite boulders scattered along the riverbed in a mystical forest setting.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "dinard",
@@ -1165,6 +6463,160 @@ const citySeeds: CitySeed[] = [
       fr: ["Dinard compte aujourd'hui exactement 407 villas classées datant de la Belle Époque.", "Le premier casino de la ville a été ouvert dès 1866.", "Depuis 1989, la ville accueille chaque année le Festival du film britannique.", "Une statue d'Alfred Hitchcock sur la plage rappelle ses séjours à Dinard.", "La Promenade au Clair de Lune propose des spectacles de lumière et de musique en été.", "Le Gulf Stream permet aux palmiers et aux plantes méditerranéennes de s'épanouir dans la ville."],
     },
     image: "/poi-images/dinard.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Plage de l'Écluse",
+                  "text": "Der Hauptstrand von Dinard ist bekannt für seine charakteristischen blau-weiß gestreiften Badezelte und die elegante Promenade.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Promenade au Clair de Lune",
+                  "text": "Ein malerischer Küstenweg, der am Abend beleuchtet wird und traumhafte Ausblicke auf die Bucht von Saint-Malo bietet.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Belle-Époque-Villen",
+                  "text": "Über 400 prächtige Villen aus dem späten 19. Jahrhundert verleihen dem Badeort seinen mondänen und nostalgischen Charakter.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pointe du Moulinet",
+                  "text": "Diese felsige Landspitze bietet einen spektakulären Rundumblick auf das Meer, die Rance-Mündung und die befestigte Stadt Saint-Malo.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casino de Dinard",
+                  "text": "Das direkt am Meer gelegene Casino ist ein Wahrzeichen des Ortes und spiegelt den luxuriösen Lebensstil der Belle Époque wider.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alfred-Hitchcock-Statue",
+                  "text": "Diese Statue erinnert an das berühmte Filmfestival von Dinard und die angebliche Inspiration für den Film Die Vögel.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Écluse-strand",
+                  "text": "Dinard fő strandja a kék-fehér csíkos strandsátrairól és a part menti elegáns sétányáról ismert világszerte.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Holdfény-sétány",
+                  "text": "Ez a tengerparti ösvény éjszaka kivilágítva várja a látogatókat, csodás kilátást nyújtva Saint-Malo városára.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Belle Époque villák",
+                  "text": "A város több mint 400 pompás 19. századi villával büszkélkedhet, amelyek a luxusüdülőhely aranykorát idézik.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pointe du Moulinet",
+                  "text": "A sziklás földnyelv panorámás kilátópont, ahonnan belátható az egész smaragdpart és a Rance folyó torkolata.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dinard Kaszinó",
+                  "text": "A közvetlenül a tengerparton álló épület a város társasági életének központja és építészeti jelképe.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alfred Hitchcock szobra",
+                  "text": "A szobor a város híres brit filmfesztiváljának állít emléket, utalva a rendező helyi kötődésére.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaja l'Écluse",
+                  "text": "Cea mai populară plajă din Dinard, renumită pentru corturile sale de baie în dungi albastre și albe și promenada sa șic.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Promenada Clair de Lune",
+                  "text": "O alee de coastă spectaculoasă care pe timpul verii este iluminată și acompaniată de muzică, oferind vederi spre Saint-Malo.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vilele Belle Époque",
+                  "text": "Dinard conservă peste 400 de vile monumentale ce amintesc de perioada în care orașul era destinația preferată a aristocrației britanice.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pointe du Moulinet",
+                  "text": "Un punct de observație strategic de unde se poate admira arhitectura impunătoare a vilelor și marea de culoarea smaraldului.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cazinoul din Dinard",
+                  "text": "Situat pe faleză, cazinoul este o emblemă a distracției rafinate și a arhitecturii litorale clasice franceze.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia lui Alfred Hitchcock",
+                  "text": "O sculptură neobișnuită ce onorează legătura cineastului cu orașul și prestigiosul Festival al Filmului Britanic de aici.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Écluse Beach",
+                  "text": "The town's main beach is iconic for its blue-and-white striped bathing tents and grand surrounding architecture.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Moonlight Promenade",
+                  "text": "A scenic coastal walk that comes alive at night with lights and music, offering breathtaking views of the bay.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Belle Époque Villas",
+                  "text": "More than 400 stunning villas from the 19th century dominate the cliffs, showcasing the town's aristocratic heritage.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pointe du Moulinet",
+                  "text": "A rocky headland offering a 360-degree panorama of the Emerald Coast, the Rance estuary, and the town of Saint-Malo.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dinard Casino",
+                  "text": "An elegant beachfront landmark that has been the center of high-society entertainment since the town's golden age.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alfred Hitchcock Statue",
+                  "text": "Erected in honor of the British Film Festival, this statue commemorates the director's visits to this charming seaside resort.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "laval",
@@ -1199,6 +6651,160 @@ const citySeeds: CitySeed[] = [
       fr: ["Le château de Laval possède un rare donjon circulaire du XIIIe siècle.", "Le célèbre peintre naïf Henri Rousseau est né à Laval en 1844.", "Le Pont Vieux a été construit au XIIIe siècle et est le plus vieux pont de la ville.", "Laval est officiellement reconnue comme Ville d'Art et d'Histoire depuis 1993.", "La rivière Mayenne coule sur plus de 200 kilomètres à travers les Pays de la Loire.", "Laval abrite le siège social de Lactalis, le plus grand groupe laitier au monde."],
     },
     image: "/poi-images/laval.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Schloss Laval (Vieux Château)",
+                  "text": "Dieses imposante Schloss beherbergt eine außergewöhnliche Sammlung naiver Kunst und blickt auf eine über 900-jährige Geschichte zurück.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée d'Art Naïf",
+                  "text": "Das Museum im Schloss ist dem Erbe von Henri Rousseau gewidmet und zeigt Meisterwerke der naiven Malerei weltweit.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cathédrale de la Trinité",
+                  "text": "Die Kathedrale vereint Baustile vom 11. bis zum 16. Jahrhundert und beherbergt bedeutende religiöse Kunstwerke und Wandteppiche.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vieux Pont (Alte Brücke)",
+                  "text": "Die gotische Brücke aus dem 13. Jahrhundert ist das Wahrzeichen der Stadt und bietet den besten Blick auf das Schloss.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jardin de la Perrine",
+                  "text": "Ein wunderschöner öffentlicher Park auf einer Klippe, der neben Rosen und exotischen Tieren auch das Grab von Henri Rousseau beherbergt.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Porte Beucheresse",
+                  "text": "Dieses befestigte Stadttor aus dem 15. Jahrhundert war Teil der mittelalterlichen Stadtmauer und führt direkt in die Altstadt.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lavali kastély (Vieux Château)",
+                  "text": "A 12. századi erődítmény a Mayenne folyó partján áll, ma a világ egyik legjelentősebb naiv művészeti gyűjteményének ad otthont.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Naiv Művészeti Múzeum",
+                  "text": "A város szülöttének, Henri Rousseaunak tiszteletére alapított múzeum a világ minden tájáról származó naiv festményeket mutat be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szentháromság-székesegyház",
+                  "text": "A templom változatos építészeti stílusokat ötvöz, belső terét középkori freskók és gazdagon faragott díszítések teszik különlegessé.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vieux Pont (Régi híd)",
+                  "text": "A 13. századi kőhíd Laval legjellegzetesebb építménye, amely évszázadokon át összekötötte a város két partját.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jardin de la Perrine",
+                  "text": "A folyó fölé magasodó kert sétányokkal, állatkerttel és Henri Rousseau emlékművével várja a pihenni vágyókat.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Porte Beucheresse",
+                  "text": "Két monumentális tornyával ez a 15. századi kapu a középkori városfal egyik leglátványosabb megmaradt része.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelul Laval",
+                  "text": "O fortăreață medievală impunătoare care domină malul râului Mayenne, găzduind în prezent Muzeul de Artă Naivă.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul de Artă Naivă",
+                  "text": "Singurul muzeu de acest tip din Franța, dedicat în special operelor lui Henri Rousseau și altor artiști autodidacți celebri.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala Sfânta Treime",
+                  "text": "O catedrală fascinantă ce păstrează elemente din secolul al XI-lea, cunoscută pentru sculpturile sale și tapiseriile de preț.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vieux Pont (Podul Vechi)",
+                  "text": "Acest pod istoric de piatră oferă o perspectivă romantică asupra castelului și a cartierelor vechi ale orașului Laval.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădina Perrine",
+                  "text": "Un parc public suspendat ce oferă panorame uimitoare, adăpostind specii rare de arbori și mormântul pictorului Rousseau.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Poarta Beucheresse",
+                  "text": "O poartă fortificată spectaculoasă din secolul al XV-lea, flancată de turnuri gemene, care marca intrarea în orașul medieval.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Château de Laval",
+                  "text": "A grand medieval fortress overlooking the Mayenne River, notable for its unique circular tower and artistic collections.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum of Naive Art",
+                  "text": "Housed within the castle, this museum honors Henri Rousseau and features an incredible array of naive art from across the globe.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Trinity Cathedral",
+                  "text": "This cathedral blends Romanesque and Gothic architectural elements, housing beautiful historic tapestries and religious relics.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vieux Pont (Old Bridge)",
+                  "text": "The 13th-century stone bridge is the most iconic structure in Laval, offering a classic view of the castle and old town.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Perrine Garden",
+                  "text": "A scenic public park located on a plateau above the river, home to formal gardens and the burial site of Henri Rousseau.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Porte Beucheresse",
+                  "text": "A well-preserved 15th-century fortified gateway with twin towers that served as a key entrance to the medieval city.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "cholet",
@@ -1233,6 +6839,160 @@ const citySeeds: CitySeed[] = [
       fr: ["Cholet est reconnue comme la capitale du textile depuis le XVIIIe siècle.", "Le mouchoir rouge de Cholet est devenu célèbre après une chanson de 1900.", "La bataille décisive de Cholet s'est déroulée le 17 octobre 1793.", "Le lac de Ribou s'étend sur 160 hectares et sert de réserve d'eau potable.", "Cholet a été élue plusieurs fois ville la plus sportive de France.", "Le musée du Textile est installé dans une ancienne blanchisserie de 1881."],
     },
     image: "/poi-images/cholet.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Musée d'Art et d'Histoire",
+                  "text": "Dieses Museum im Herzen von Cholet beherbergt Sammlungen zur Regionalgeschichte und zeitgenössischen Kunst in einem modernen Gebäude.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée du Textile et de la Mode",
+                  "text": "Das Museum befindet sich in einer ehemaligen Wäscherei und dokumentiert die bedeutende Textilgeschichte der Stadt und die Herstellung von Tüchern.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc de Moine",
+                  "text": "Ein weitläufiger Stadtpark am Ufer des Flusses Moine, der mit Spazierwegen, Gärten und Freizeiteinrichtungen ideal zur Erholung geeignet ist.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Église du Sacré-Cœur",
+                  "text": "Diese im romano-byzantinischen Stil erbaute Kirche ist ein Wahrzeichen von Cholet und beeindruckt durch ihre imposante Architektur und rote Ziegelfassade.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lac de Ribou",
+                  "text": "Ein großer Stausee in der Nähe der Stadt, der zahlreiche Wassersportmöglichkeiten sowie Wanderwege in einer naturbelassenen Umgebung bietet.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Église Notre-Dame",
+                  "text": "Die neugotische Kirche prägt mit ihren hohen Türmen das Stadtbild von Cholet und beherbergt wertvolle religiöse Kunstwerke im Inneren.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Művészeti és Történeti Múzeum",
+                  "text": "A város központjában található múzeum a regionális történelmet és a modern művészetet mutatja be egy látványos épületben.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Textil- és Divatmúzeum",
+                  "text": "Egy egykori mosodában kialakított kiállítás, amely Cholet híres textiliparának és zsebkendőgyártásának állít emléket.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc de Moine",
+                  "text": "A Moine folyó partján fekvő nagy városi park, amely sétányokkal és pihenőhelyekkel várja a természetbe vágyó látogatókat.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Szív templom",
+                  "text": "A neobizánci stílusban épült templom Cholet egyik legfontosabb vallási építménye, jellegzetes vörös téglafalakkal.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ribou-tó",
+                  "text": "A várostól délre fekvő mesterséges tó, amely kiváló helyszín horgászathoz, vízi sportokhoz és kiránduláshoz.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Notre-Dame templom",
+                  "text": "Lenyűgöző neogótikus épület, amelynek ikertornyai messziről láthatóak és meghatározzák Cholet városképét.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeul de Artă și Istorie",
+                  "text": "Acest muzeu modern din centrul orașului găzduiește colecții importante de istorie locală și artă contemporană.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Textilului și al Modei",
+                  "text": "Situat într-o fostă spălătorie industrială, muzeul prezintă istoria glorioasă a industriei textile și a celebrelor batiste de Cholet.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Moine",
+                  "text": "Un spațiu verde vast pe malul râului Moine, oferind grădini frumoase, trasee de plimbare și zone de relaxare pentru familii.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sacré-Cœur",
+                  "text": "O clădire impunătoare în stil romano-bizantin, construită din cărămidă roșie, reprezentând un reper arhitectural al orașului.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lacul Ribou",
+                  "text": "Un lac de acumulare situat la marginea orașului, ideal pentru activități nautice, pescuit și drumeții în natură.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Notre-Dame",
+                  "text": "O biserică neogotică remarcabilă prin turnurile sale înalte, care domină centrul vechi al orașului Cholet.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of Art and History",
+                  "text": "Located in a modern building, this museum showcases regional history alongside a significant collection of contemporary art.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Textile and Fashion Museum",
+                  "text": "Housed in a former industrial laundry, the museum explores the heritage of the local textile industry and handkerchief production.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Moine Park",
+                  "text": "The main urban park of Cholet, stretching along the Moine river, offering scenic walking paths and floral gardens.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Church of the Sacred Heart",
+                  "text": "A striking Romano-Byzantine style church built with local red bricks, known for its grand proportions and unique architecture.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lake Ribou",
+                  "text": "A large reservoir offering various recreational activities such as sailing, rowing, and nature trails near the city center.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Notre-Dame Church",
+                  "text": "A beautiful Neo-Gothic church whose tall twin spires are a prominent feature of the Cholet skyline.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "saint-nazaire",
@@ -1267,6 +7027,160 @@ const citySeeds: CitySeed[] = [
       fr: ["Le chantier naval Chantiers de l'Atlantique a été fondé dès 1861.", "La base sous-marine de Saint-Nazaire se compose de plus de 300 000 mètres cubes de béton.", "Le pont de Saint-Nazaire mesure 3 356 mètres et était le plus long de France à son ouverture en 1975.", "Le Queen Mary 2, l'un des plus grands paquebots, y fut achevé en 2003.", "Environ 85 % de la ville fut détruite par les bombardements durant la Seconde Guerre mondiale.", "Saint-Nazaire possède au total 20 plages différentes sur son territoire communal."],
     },
     image: "/poi-images/saint-nazaire.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Escal'Atlantic",
+                  "text": "In der ehemaligen U-Boot-Basis untergebracht, entführt dieses Erlebnis-Museum die Besucher in die Welt der legendären Ozeandampfer.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "U-Boot Espadon",
+                  "text": "Das erste französische U-Boot, das unter das Packeis tauchte, kann heute im Hafenbecken von Saint-Nazaire besichtigt werden.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "U-Boot-Basis",
+                  "text": "Ein gewaltiges Betonbauwerk aus dem Zweiten Weltkrieg, das heute als Kulturzentrum und Ausstellungsraum für die Stadt dient.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brücke von Saint-Nazaire",
+                  "text": "Die imposante Schrägseilbrücke überspannt die Loire-Mündung und bietet spektakuläre Ausblicke auf die Werften und den Ozean.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Chantiers de l'Atlantique",
+                  "text": "Eine der größten Werften weltweit, auf der die berühmtesten Kreuzfahrtschiffe der Welt gebaut werden, bietet geführte Touren an.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plage de Monsieur Hulot",
+                  "text": "Ein charmanter Sandstrand in Saint-Marc-sur-Mer, der durch Jacques Tatis Filmklassiker weltberühmt wurde.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Escal'Atlantic",
+                  "text": "Az egykori tengeralattjáró-bázison található múzeum a nagy óceánjárók világát idézi meg interaktív módon.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Espadon tengeralattjáró",
+                  "text": "A látogatók bejárhatják az első francia tengeralattjárót, amely átkelt az északi sarkkör jege alatt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tengeralattjáró-bázis",
+                  "text": "Hatalmas betonbunker a második világháborúból, amely ma kulturális központként és múzeumként üzemel.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Nazaire-híd",
+                  "text": "A Loire torkolata felett átívelő monumentális híd, amely a régió egyik legfontosabb közlekedési és látványeleme.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Chantiers de l'Atlantique",
+                  "text": "A világ egyik legnagyobb hajógyára, ahol vezetett túrák során ismerhető meg az óriási tengerjárók építése.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monsieur Hulot strandja",
+                  "text": "Kellemes tengerparti öböl, ahol Jacques Tati híres filmjét forgatták; ma kedvelt fürdőhely.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Escal'Atlantic",
+                  "text": "Situat în interiorul bazei de submarine, acest muzeu oferă o incursiune fascinantă în epoca marilor pacheboturi transatlantice.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Submarinul Espadon",
+                  "text": "Primul submarin francez care s-a scufundat sub gheața polară poate fi acum vizitat în portul orașului.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Baza de Submarine",
+                  "text": "O fortăreață gigantică de beton din al Doilea Război Mondial, transformată astăzi într-un hub cultural și turistic.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Podul din Saint-Nazaire",
+                  "text": "O capodoperă a ingineriei care traversează estuarul Loirei, oferind panorame superbe asupra zonei portuare.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Chantiers de l'Atlantique",
+                  "text": "Unul dintre cele mai mari șantiere navale din lume, unde pot fi văzute în construcție cele mai mari nave de croazieră.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plaja Monsieur Hulot",
+                  "text": "O plajă pitorească făcută celebră de regizorul Jacques Tati, ideală pentru relaxare pe coasta Atlanticului.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Escal'Atlantic",
+                  "text": "An immersive museum located within the submarine base that recreates the luxury and history of great ocean liners.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Espadon Submarine",
+                  "text": "The first French submarine to dive under ice, now open to the public for a unique walkthrough experience in the harbor.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Submarine Base",
+                  "text": "A massive WWII concrete bunker that has been repurposed into a creative cultural space and visitor attraction.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Nazaire Bridge",
+                  "text": "A spectacular cable-stayed bridge crossing the Loire estuary, offering panoramic views of the coast and shipyards.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Chantiers de l'Atlantique",
+                  "text": "One of the world's largest shipyards, famous for building iconic cruise ships and offering guided industrial tours.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monsieur Hulot's Beach",
+                  "text": "The setting for Jacques Tati's famous film, this scenic beach is a popular spot for leisure and seaside strolls.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "chartres",
@@ -1301,6 +7215,160 @@ const citySeeds: CitySeed[] = [
       fr: ["La cathédrale de Chartres est inscrite au patrimoine mondial de l'UNESCO depuis 1979.", "L'édifice conserve une collection unique de 176 vitraux d'origine médiévale.", "Le labyrinthe situé dans la nef possède un diamètre de 12,8 mètres.", "Chartres est située à environ 90 kilomètres au sud-ouest de Paris, sur l'Eure.", "« Chartres en Lumières » illumine chaque année plus de 20 sites historiques.", "Le « bleu de Chartres » est un verre au cobalt dont le secret de fabrication fascine toujours."],
     },
     image: "/poi-images/chartres.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kathedrale Notre-Dame",
+                  "text": "Ein UNESCO-Weltkulturerbe, bekannt für seine prächtigen blauen Glasfenster und als Meisterwerk der hochgotischen Architektur.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maison Picassiette",
+                  "text": "Ein einzigartiges Haus, das vollständig mit Mosaiken aus Scherben von Glas und Keramik verziert wurde, ein Werk der naiven Kunst.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Centre International du Vitrail",
+                  "text": "In einer historischen Scheune untergebracht, widmet sich dieses Zentrum der Kunst und Geschichte der Glasmalerei.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée des Beaux-Arts",
+                  "text": "Das Museum im ehemaligen Bischofspalast zeigt eine reiche Sammlung von Kunstwerken vom Mittelalter bis zum 20. Jahrhundert.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Église Saint-Aignan",
+                  "text": "Diese Kirche aus dem 16. Jahrhundert beeindruckt durch ihre bemalte Holzdecke und ihre farbenfrohen Innenverzierungen.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jardins de l'Évêché",
+                  "text": "Wunderschöne Gärten hinter der Kathedrale, die einen weiten Blick über das Eure-Tal und die Unterstadt von Chartres bieten.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Notre-Dame székesegyház",
+                  "text": "Az UNESCO Világörökség része, a gótikus építészet remekműve, híres középkori üvegablakairól és labirintusáról.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maison Picassiette",
+                  "text": "Különleges épület, amelyet készítője milliónyi színes üveg- és kerámiaszilánkkal borított be kívül-belül.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nemzetközi Üvegfestészeti Központ",
+                  "text": "A katedrális közelében található múzeum az üvegfestés művészetét és technikáját mutatja be a középkortól napjainkig.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szépművészeti Múzeum",
+                  "text": "Az egykori püspöki palotában elhelyezett gyűjtemény festményeket, szobrokat és értékes faliszőnyegeket őriz.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Aignan templom",
+                  "text": "A város egyik legrégebbi temploma, amely lenyűgöző reneszánsz belső festésével és ablakaival vonzza a látogatókat.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Püspöki kertek",
+                  "text": "Gondozott park a katedrális mögött, ahonnan csodálatos panoráma nyílik az Eure folyóra és az alsóvárosra.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala Notre-Dame",
+                  "text": "Înscrisă în patrimoniul UNESCO, catedrala este celebră pentru vitraliile sale albastre și arhitectura gotică pură.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maison Picassiette",
+                  "text": "O casă neobișnuită decorată integral cu mozaicuri din cioburi de sticlă și ceramică, o capodoperă a artei naive.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Centrul Internațional al Vitraliului",
+                  "text": "Un spațiu dedicat artei vitraliului, unde vizitatorii pot învăța despre tehnicile tradiționale și moderne de prelucrare a sticlei.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul de Arte Frumoase",
+                  "text": "Găzduit în vechiul palat episcopal, muzeul expune colecții variate de artă, de la obiecte medievale la tablouri moderne.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Saint-Aignan",
+                  "text": "O biserică istorică remarcabilă prin tavanul său de lemn pictat și decorul interior bogat în culori vii.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădinile Episcopiei",
+                  "text": "Grădini terasate situate în spatele catedralei, oferind o vedere panoramică superbă asupra văii râului Eure.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chartres Cathedral",
+                  "text": "A UNESCO World Heritage site, famous for its world-renowned blue stained glass and high Gothic architecture.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maison Picassiette",
+                  "text": "A unique piece of naive architecture entirely covered in mosaics made from fragments of pottery and glass.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "International Stained Glass Centre",
+                  "text": "Located near the cathedral, this center is dedicated to the preservation and history of the art of stained glass.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum of Fine Arts",
+                  "text": "Set in the former Bishop's Palace, this museum houses an extensive collection of art from the Middle Ages to the 20th century.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Aignan Church",
+                  "text": "An ancient church known for its beautifully painted wooden ceiling and vibrant 16th-century stained glass windows.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bishop's Gardens",
+                  "text": "Landscaped gardens behind the cathedral offering quiet paths and panoramic views over the lower town and river.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "blois",
@@ -1335,6 +7403,160 @@ const citySeeds: CitySeed[] = [
       fr: ["Le château royal de Blois réunit quatre styles architecturaux différents autour de sa cour.", "Jean-Eugène Robert-Houdin, considéré comme le créateur de la magie moderne, est né à Blois en 1805.", "La cathédrale Saint-Louis fut reconstruite en style gothique après une tempête dévastatrice en 1678.", "L'escalier Denis-Papin compte 120 marches et relie la ville haute à la ville basse.", "En 1429, Jeanne d'Arc fut bénie à Blois avant de partir délivrer Orléans.", "Blois est le chef-lieu (préfecture) du département de Loir-et-Cher."],
     },
     image: "/poi-images/blois.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Königsschloss Blois",
+                  "text": "Residenz mehrerer französischer Könige, die vier verschiedene Architekturstile vom Mittelalter bis zur Klassik vereint.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maison de la Magie",
+                  "text": "Ein Museum direkt gegenüber dem Schloss, das dem Zauberkünstler Robert-Houdin gewidmet ist und regelmäßig Shows bietet.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kathedrale Saint-Louis",
+                  "text": "Die im gotischen Stil wiederaufgebaute Kathedrale thront über der Stadt und beeindruckt durch ihre schlichte Eleganz.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Escalier Denis Papin",
+                  "text": "Diese monumentale Treppe verbindet die Ober- mit der Unterstadt und ist oft mit spektakulärer Kunst dekoriert.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jacques-Gabriel-Brücke",
+                  "text": "Die historische Steinbrücke über die Loire bietet den besten Blick auf die Silhouette der Stadt Blois.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fondation du Doute",
+                  "text": "Ein Zentrum für zeitgenössische Kunst, das von Ben Vautier initiiert wurde und die Fluxus-Bewegung thematisiert.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Blois-i királyi kastély",
+                  "text": "Hét francia király rezidenciája, amely a gótikától a klasszicizmusig négy különböző stílust ötvöz egyetlen udvar körül.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "A Mágia Háza",
+                  "text": "A híres illuzionista, Robert-Houdin emlékére létrehozott múzeum interaktív kiállításokkal és bűvészműsorokkal várja a látogatókat.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Lajos székesegyház",
+                  "text": "A város legmagasabb pontján álló katedrális, amelynek monumentális homlokzata és modern üvegablakai figyelemre méltóak.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Denis Papin lépcső",
+                  "text": "Művészien feldíszített lépcsősor Blois szívében, amelyről kiváló kilátás nyílik a Loire folyóra.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jacques-Gabriel híd",
+                  "text": "A 18. században épült kőhíd a Loire felett, Blois egyik jelképe, amely összeköti a két városrészt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "A Kétség Alapítványa",
+                  "text": "Kortárs művészeti múzeum és kulturális tér, amely a Fluxus mozgalomra és a modern alkotásokra összpontosít.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelul Regal Blois",
+                  "text": "O fostă reședință regală care prezintă o combinație rară de stiluri arhitecturale: gotic, renascentist și clasic.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Magiei",
+                  "text": "Un muzeu unic dedicat iluzionismului și lui Robert-Houdin, situat chiar în fața castelului, oferind spectacole zilnice.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala Saint-Louis",
+                  "text": "O catedrală impunătoare situată pe un deal, dominând panorama orașului cu arhitectura sa gotică sobră.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Scara Denis Papin",
+                  "text": "O scară monumentală care oferă o perspectivă urbană deosebită, fiind frecvent decorată cu instalații artistice sezoniere.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Podul Jacques-Gabriel",
+                  "text": "Ultimul pod construit cu „spate de măgar” peste Loira, reprezentând un punct de observație ideal pentru centrul vechi.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fundația Doute",
+                  "text": "Un centru de artă contemporană neconvențional, unde vizitatorii pot explora mișcarea Fluxus și lucrări de avangardă.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Royal Chateau of Blois",
+                  "text": "A former residence of French kings, famous for its unique blend of four different architectural styles around one courtyard.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "House of Magic",
+                  "text": "A museum dedicated to the magician Robert-Houdin, featuring a dragon-guarded entrance and regular magic performances.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Louis Cathedral",
+                  "text": "The city's main religious landmark, this Gothic cathedral overlooks the town from its prominent hilltop position.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Denis Papin Stairs",
+                  "text": "A grand staircase in the city center that is frequently transformed with creative artwork and offers great photo opportunities.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jacques-Gabriel Bridge",
+                  "text": "A historic stone bridge spanning the Loire river, known for its elegant arches and beautiful views of the city skyline.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Foundation of Doubt",
+                  "text": "An innovative contemporary art space showcasing the Fluxus movement and experimental works in a former school building.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "bourges",
@@ -1369,6 +7591,160 @@ const citySeeds: CitySeed[] = [
       fr: ["La cathédrale Saint-Étienne est inscrite sur la liste du patrimoine mondial de l'UNESCO depuis 1992.", "Le Palais Jacques Cœur est considéré comme l'un des premiers hôtels particuliers de style moderne en France.", "Bourges compte plus de 400 maisons à colombages parfaitement préservées dans son centre historique.", "Les Marais de Bourges s'étendent sur 135 hectares et sont entretenus par environ 1 500 maraîchers.", "Le festival de musique du Printemps de Bourges a été créé en 1977.", "Au XVe siècle, sous Charles VII, Bourges fit office de capitale du royaume de France."],
     },
     image: "/poi-images/bourges.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kathedrale Saint-Étienne",
+                  "text": "Diese gotische Kathedrale gehört zum UNESCO-Weltkulturerbe und ist berühmt für ihre prächtigen Glasmalereien aus dem 13. Jahrhundert.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palais Jacques Cœur",
+                  "text": "Ein Meisterwerk der spätgotischen Zivilarchitektur, erbaut vom Schatzmeister des Königs Karl VII. im 15. Jahrhundert.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Marais de Bourges",
+                  "text": "Einzigartige Sumpfgärten am Fuße der Altstadt, die auf 135 Hektar Raum für Erholung und städtische Landwirtschaft bieten.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée du Berry",
+                  "text": "Das Museum befindet sich im prächtigen Hôtel Cujas und zeigt archäologische Funde sowie regionale Volkskunst aus dem Berry.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hôtel Lallemant",
+                  "text": "Ein Renaissance-Stadthaus mit einem wunderschönen Innenhof, das heute eine Sammlung dekorativer Kunstwerke beherbergt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jardin de l'Archevêché",
+                  "text": "Ein klassischer französischer Garten hinter der Kathedrale, der von Schülern des berühmten André Le Nôtre entworfen wurde.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saint-Étienne-székesegyház",
+                  "text": "Az UNESCO Világörökség része, a gótikus építészet remekműve, amely híres 13. századi színes ólomüveg ablakairól.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jacques Cœur palota",
+                  "text": "A 15. században épült pazar rezidencia a késő gótikus polgári építészet egyik legszebb példája egész Franciaországban.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bourges-mocsarak",
+                  "text": "A város szívében elterülő 135 hektáros mocsaras terület, ahol konyhakertek és csatornák alkotnak békés természeti környezetet.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Berry Múzeum",
+                  "text": "Az impozáns Hôtel Cujas épületében működő múzeum a régió régészeti kincseit és népművészeti hagyományait mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lallemant-palota",
+                  "text": "Egy gyönyörű reneszánsz városi palota, amely ma az iparművészeti gyűjteménynek ad otthont a történelmi városközpontban.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Érseki kert",
+                  "text": "A katedrális mögött található klasszikus francia kert, amelyet André Le Nôtre tanítványai terveztek a 17. században.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala Saint-Étienne",
+                  "text": "O capodoperă a stilului gotic inclusă în patrimoniul UNESCO, celebră pentru vitraliile sale magnifice din secolul al XIII-lea.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Jacques Cœur",
+                  "text": "O clădire civilă excepțională în stil gotic flamboyant, construită în secolul al XV-lea de vistiernicul regelui Carol al VII-lea.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mlaștinile din Bourges",
+                  "text": "Un spațiu verde vast de 135 de hectare situat aproape de centru, format din grădini de legume și canale pitorești.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Berry",
+                  "text": "Găzduit în prestigiosul Hôtel Cujas, acest muzeu prezintă colecții de arheologie și artă populară specifice regiunii Berry.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hotel Lallemant",
+                  "text": "Un conac nobiliar din perioada Renașterii care adăpostește astăzi un muzeu dedicat artelor decorative și mobilierului vechi.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădina Arhiepiscopiei",
+                  "text": "O grădină publică elegantă amenajată în stil francez, oferind o perspectivă superbă asupra absidei catedralei din Bourges.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saint-Étienne Cathedral",
+                  "text": "A UNESCO World Heritage site and Gothic masterpiece, renowned for its stunning 13th-century stained glass windows.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palais Jacques Cœur",
+                  "text": "One of the most beautiful examples of 15th-century secular Gothic architecture, built by King Charles VII's treasurer.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bourges Marshes",
+                  "text": "A unique 135-hectare area of marshland gardens in the city center, offering peaceful walks along winding canals.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Berry Museum",
+                  "text": "Located in the elegant Hôtel Cujas, this museum showcases the archaeological and folk heritage of the Berry region.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hôtel Lallemant",
+                  "text": "A beautiful Renaissance mansion featuring a double courtyard, now housing a fine collection of decorative arts.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Archbishop's Garden",
+                  "text": "A classic French-style garden designed by the school of André Le Nôtre, offering great views of the cathedral.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "chateauroux",
@@ -1403,6 +7779,160 @@ const citySeeds: CitySeed[] = [
       fr: ["La ville a été fondée vers 937 par Raoul le Large, seigneur de Déols.", "Le château Raoul est aujourd'hui le siège de la préfecture de l'Indre.", "L'église Saint-André a été édifiée au XIXe siècle dans un style néogothique.", "Châteauroux est située à environ 250 kilomètres au sud de Paris sur l'A20.", "L'abbaye de Déols fut l'une des plus vastes églises de France après Cluny.", "Le musée Bertrand occupe l'ancienne demeure du général Bertrand, fidèle de Napoléon."],
     },
     image: "/poi-images/chateauroux.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Château Raoul",
+                  "text": "Diese Burg aus dem 10. Jahrhundert überragt die Indre und ist das historische Wahrzeichen, nach dem die Stadt benannt wurde.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée Bertrand",
+                  "text": "Ein ehemaliges Herrenhaus des Generals Bertrand, das heute Sammlungen aus der napoleonischen Ära und schöne Künste zeigt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kirche Notre-Dame",
+                  "text": "Eine imposante Kirche aus dem 19. Jahrhundert, die romanische und byzantinische Stilelemente auf beeindruckende Weise vereint.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Abbaye de Déols",
+                  "text": "Die Ruinen dieser einst mächtigen Cluniazenser-Abtei befinden sich am Stadtrand und zeugen von mittelalterlicher Pracht.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc Balsan",
+                  "text": "Ein weitläufiger Landschaftspark am Ufer der Indre, der historische Schlösser und moderne Grünanlagen harmonisch verbindet.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Couvent des Cordeliers",
+                  "text": "Ein ehemaliges Franziskanerkloster aus dem 13. Jahrhundert, das heute für zeitgenössische Kunstausstellungen genutzt wird.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Raoul-vár",
+                  "text": "A 10. században épült vár az Indre folyó partján magasodik, és a város névadója, Raoul herceg építtette.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bertrand Múzeum",
+                  "text": "Bertrand tábornok egykori rezidenciája, amely ma a napóleoni korszak emlékeit és képzőművészeti alkotásokat mutat be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Notre-Dame templom",
+                  "text": "Egy monumentális 19. századi templom, amelynek építészeti stílusa a román és a bizánci elemeket ötvözi.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Déols-i apátság",
+                  "text": "A város szélén található egykori hatalmas bencés apátság maradványai, amely a középkorban vallási központ volt.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Balsan park",
+                  "text": "Az Indre folyó mentén elterülő hatalmas angolpark, amely kastélyoknak és gondozott sétányoknak ad otthont.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cordeliers kolostor",
+                  "text": "A 13. századi ferences kolostor épülete ma kortárs művészeti kiállításoknak és kulturális eseményeknek ad helyet.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelul Raoul",
+                  "text": "O fortăreață din secolul al X-lea situată pe malul râului Indre, fiind edificiul care a dat numele orașului Châteauroux.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Bertrand",
+                  "text": "Fosta reședință a generalului Bertrand, care găzduiește acum colecții napoleoniene și lucrări de artă plastică.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Notre-Dame",
+                  "text": "O biserică monumentală construită în secolul al XIX-lea într-un stil eclectic ce îmbină elemente romanice și bizantine.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Abația de la Déols",
+                  "text": "Ruinele unei vechi abații cluniziene de o importanță majoră în Evul Mediu, situată în imediata apropiere a orașului.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Balsan",
+                  "text": "Un domeniu vast pe malul râului Indre, oferind spații verzi generoase și clădiri istorice precum castelele Balsan.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mănăstirea Cordeliers",
+                  "text": "O fostă mănăstire franciscană din secolul al XIII-lea, transformată astăzi într-un centru activ pentru expoziții de artă.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Château Raoul",
+                  "text": "A 10th-century castle overlooking the Indre river, it is the historic landmark that gave the city its name.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bertrand Museum",
+                  "text": "The former home of General Bertrand, now a museum housing Napoleonic artifacts and a collection of fine arts.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Notre-Dame Church",
+                  "text": "An impressive 19th-century church known for its distinctive architecture mixing Romanesque and Byzantine styles.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Abbaye de Déols",
+                  "text": "The ruins of a once-powerful Cluniac abbey located on the outskirts, testifying to the region's medieval importance.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc Balsan",
+                  "text": "A large park along the Indre river featuring historic châteaux and beautiful gardens for recreation and walking.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Couvent des Cordeliers",
+                  "text": "A 13th-century former Franciscan monastery that now serves as a dynamic space for contemporary art exhibitions.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "amboise",
@@ -1437,6 +7967,160 @@ const citySeeds: CitySeed[] = [
       fr: ["Le château d'Amboise a été inscrit sur la liste du patrimoine mondial de l'UNESCO en 2000.", "Léonard de Vinci est décédé à Amboise en 1519 et est enterré dans la chapelle Saint-Hubert.", "Le manoir du Clos Lucé est relié au château par un souterrain.", "La tour des Minimes permettait aux chevaux et aux carrosses d'accéder à la terrasse du château.", "Amboise fut en 1492 le lieu de naissance du roi Charles VIII, qui y mourut également en 1498.", "La ville abrite la pagode de Chanteloup, vestige d'un château détruit au XVIIIe siècle."],
     },
     image: "/poi-images/amboise.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Königsschloss Amboise",
+                  "text": "Diese prachtvolle Residenz der französischen Könige überragt die Loire und beherbergt das Grab von Leonardo da Vinci.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Le Clos Lucé",
+                  "text": "Das letzte Wohnhaus von Leonardo da Vinci ist heute ein Museum, das seine genialen Erfindungen und Modelle zeigt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Château Gaillard",
+                  "text": "Ein Renaissance-Herrenhaus, das für seine königliche Orangerie und den italienisch inspirierten Garten bekannt ist.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pagode de Chanteloup",
+                  "text": "Ein ungewöhnlicher Turm im chinesischen Stil aus dem 18. Jahrhundert, der einen Panoramablick auf das Loire-Tal bietet.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kirche Saint-Denis",
+                  "text": "Eine historische Kirche mit wunderschönen romanischen Kapitellen und bedeutenden Skulpturen aus verschiedenen Epochen.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tour de l'Horloge",
+                  "text": "Der mittelalterliche Glockenturm war einst das Stadttor und ist heute eines der markantesten Denkmäler der Altstadt.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Amboise-i királyi vár",
+                  "text": "A Loire fölé magasodó egykori királyi rezidencia, ahol Leonardo da Vinci sírja található a Szent Hubertus-kápolnában.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Le Clos Lucé",
+                  "text": "Leonardo da Vinci utolsó lakhelye, amely ma múzeumként működik, bemutatva a mester számos találmányának makettjét.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Château Gaillard",
+                  "text": "A reneszánsz kastély a Loire-völgy egyik rejtett kincse, híres gyönyörű kertjeiről és királyi narancsházáról.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Chanteloup-pagoda",
+                  "text": "Egy különleges, 18. századi kínai stílusú torony, amely egykor egy hatalmas kastélypark része volt az erdő szélén.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Dénes-templom",
+                  "text": "Egy ősi plébániatemplom, amely román stílusú oszlopfőiről és gazdag vallási művészeti gyűjteményéről ismert.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Óratorony",
+                  "text": "Az Amboise óvárosában álló 15. századi torony eredetileg városkapuként szolgált a középkor folyamán.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelul Regal din Amboise",
+                  "text": "O reședință impunătoare a regilor Franței care domină Valea Loarei, adăpostind mormântul lui Leonardo da Vinci.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Le Clos Lucé",
+                  "text": "Ultima casă a lui Leonardo da Vinci, transformată într-un muzeu fascinant dedicat geniului și invențiilor sale.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Château Gaillard",
+                  "text": "Un conac renascentist celebru pentru grădinile sale italiene și pentru prima oranjerie regală din Franța.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pagoda de la Chanteloup",
+                  "text": "Un monument insolit de inspirație chineză, construit în secolul al XVIII-lea, oferind o vedere panoramică superbă.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Saint-Denis",
+                  "text": "O biserică veche cu un interior remarcabil, renumită pentru sculpturile sale și capitelurile romanice autentice.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turnul Ceasornicului",
+                  "text": "Fosta poartă principală a orașului medieval, acest turn cu ceas este acum un punct de reper central în centrul vechi.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Royal Château of Amboise",
+                  "text": "A grand royal residence overlooking the Loire River, it is the final resting place of the legendary Leonardo da Vinci.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Le Clos Lucé",
+                  "text": "Leonardo da Vinci's last home, now a museum showcasing his workshop and models of his visionary inventions.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Château Gaillard",
+                  "text": "A Renaissance manor known for its royal orangery and beautiful Italian-style gardens, a hidden gem of the Loire.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pagoda of Chanteloup",
+                  "text": "An unusual 18th-century Chinese-style tower that offers panoramic views over the surrounding forest and Loire valley.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Denis Church",
+                  "text": "A historic parish church containing remarkable Romanesque capitals and a fine collection of religious statues.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Clock Tower",
+                  "text": "A 15th-century bell tower that served as a city gate, now one of the most iconic symbols of Amboise's old town.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "albi",
@@ -1471,6 +8155,160 @@ const citySeeds: CitySeed[] = [
       fr: ["La cathédrale Sainte-Cécile possède les plus grandes stalles de chœur de la Renaissance en France.", "Le musée Toulouse-Lautrec abrite plus de 1000 œuvres de l'artiste né à Albi.", "Le Pont-Vieux a été construit vers 1035 et est l'un des plus anciens ponts de France encore en service.", "Le clocher de la cathédrale mesure 78 mètres de haut et ressemble à une tour de forteresse.", "Albi tire son nom des Albigeois, une désignation pour les Cathares de la région.", "La cité épiscopale d'Albi est protégée sur une surface d'environ 19 hectares."],
     },
     image: "/poi-images/albi.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kathedrale Sainte-Cécile",
+                  "text": "Die größte Backsteinkathedrale der Welt ist ein Meisterwerk der südfranzösischen Gotik mit einem prächtigen Innenraum.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palais de la Berbie",
+                  "text": "Der ehemalige Bischofspalast beherbergt heute das Toulouse-Lautrec-Museum und beeindruckt durch seine Festungsarchitektur.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pont Vieux",
+                  "text": "Eine der ältesten Brücken Frankreichs, die seit dem 11. Jahrhundert den Fluss Tarn überspannt und immer noch genutzt wird.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Collégiale Saint-Salvi",
+                  "text": "Eine charmante Stiftskirche, die romanische und gotische Stile vereint und einen ruhigen mittelalterlichen Kreuzgang besitzt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jardins du Palais de la Berbie",
+                  "text": "Wunderschön angelegte französische Gärten, die einen spektakulären Blick auf den Tarn und die alten Brücken bieten.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée Lapérouse",
+                  "text": "Ein Museum, das dem berühmten Seefahrer und Entdecker Lapérouse gewidmet ist, der in der Nähe von Albi geboren wurde.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szent Cecília-székesegyház",
+                  "text": "A világ legnagyobb téglaépítésű katedrálisa, amely erődletszerű külsejével és gazdagon díszített belső terével nyűgözi le a látogatókat.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Berbie-palota",
+                  "text": "Az egykori püspöki palota ad otthont a Toulouse-Lautrec Múzeumnak, bemutatva a híres festőművész életművét.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Régi híd",
+                  "text": "Franciaország egyik legrégebbi, ma is használatban lévő hídja, amely a 11. század óta köti össze a Tarn folyó két partját.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Salvi-templom",
+                  "text": "Albi legrégebbi temploma, amelynek békés kolostorkertje a város egyik legnyugodtabb és legszebb középkori szeglete.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "A Berbie-palota kertjei",
+                  "text": "A palota melletti teraszos francia kertek, ahonnan lélegzetelállító kilátás nyílik a folyóra és a város vörös téglás házaira.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lapérouse Múzeum",
+                  "text": "A híres francia tengerész és felfedező emlékének szentelt múzeum, amely a Tarn partján, egy régi malomépületben található.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala Sainte-Cécile",
+                  "text": "Cea mai mare catedrală de cărămidă din lume, o fortăreață spirituală cu un interior pictat absolut spectaculos.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Berbie",
+                  "text": "Fostul palat episcopal, acum sediul Muzeului Toulouse-Lautrec, fiind unul dintre cele mai bine conservate palate din Franța.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pont Vieux",
+                  "text": "Un pod istoric peste râul Tarn, construit în secolul al XI-lea, care a contribuit major la dezvoltarea orașului Albi.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Saint-Salvi",
+                  "text": "O biserică veche ce îmbină stilul romanic cu cel gotic, având un claustru medieval pitoresc plin de flori și liniște.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădinile Palatului Berbie",
+                  "text": "Grădini formale în stil francez situate pe malul Tarnului, oferind panorame deosebite asupra cartierului istoric.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Lapérouse",
+                  "text": "Dedicat marelui explorator Jean-François de Lapérouse, muzeul prezintă machete de nave și documente din expedițiile sale.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sainte-Cécile Cathedral",
+                  "text": "The largest brick cathedral in the world, this Southern Gothic masterpiece features a breathtakingly ornate interior.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palais de la Berbie",
+                  "text": "The former bishops' palace, it now houses the Toulouse-Lautrec Museum and boasts impressive medieval fortress architecture.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pont Vieux",
+                  "text": "One of the oldest bridges in France, built in the 11th century and still carrying traffic over the Tarn River.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Salvi Collegiate Church",
+                  "text": "The oldest church in Albi, featuring a mix of architectural styles and a peaceful, flower-filled medieval cloister.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jardins du Palais de la Berbie",
+                  "text": "Formal French gardens offering spectacular terrace views over the river Tarn and the city's red-brick landmarks.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lapérouse Museum",
+                  "text": "A museum dedicated to the famous French navigator and explorer Lapérouse, located in a former mill by the river.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "rodez",
@@ -1505,6 +8343,172 @@ const citySeeds: CitySeed[] = [
       fr: ["La cathédrale Notre-Dame possède l'un des plus hauts clochers de France avec 87 mètres.", "Le musée Soulages abrite la plus grande collection au monde d'œuvres du peintre Pierre Soulages.", "Rodez a été fondée à l'origine par la tribu celte des Rutènes.", "La Maison d'Armagnac, du XVIe siècle, est l'une des plus belles maisons à pans de bois de la ville.", "La ville est située à une altitude moyenne d'environ 630 mètres au-dessus du niveau de la mer.", "Le musée Fenaille présente une importante collection de statues-menhirs de la préhistoire."],
     },
     image: "/poi-images/rodez.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kathedrale Notre-Dame de Rodez",
+                  "text": "Diese imposante gotische Kathedrale aus rotem Sandstein beeindruckt durch ihren 87 Meter hohen Glockenturm und prächtige Glasmalereien.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée Soulages",
+                  "text": "Ein modernes Kunstmuseum, das dem Werk von Pierre Soulages gewidmet ist und durch seine markante Architektur aus Cortenstahl auffällt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée Fenaille",
+                  "text": "Dieses Museum in einem Renaissance-Palast beherbergt eine weltweit einzigartige Sammlung von Statuen-Menhiren aus der Jungsteinzeit.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maison d'Armagnac",
+                  "text": "Eines der ältesten Häuser der Stadt, ein prachtvolles Renaissance-Gebäude mit reich verzierten Fassaden am Place de l'Olmet.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place d'Armes",
+                  "text": "Der zentrale Platz von Rodez, umgeben von historischen Gebäuden, bietet einen lebendigen Treffpunkt mit Cafés direkt vor der Kathedrale.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kirche Saint-Amans",
+                  "text": "Eine barocke Kirche, die auf den Fundamenten eines romanischen Vorgängerbaus errichtet wurde und prunkvolle Altarbilder beherbergt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hôtel de Ville",
+                  "text": "Das prächtige Rathaus von Rodez ist ein markantes Beispiel französischer Verwaltungsarchitektur im Herzen des historischen Zentrums.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rodezi Notre-Dame katedrális",
+                  "text": "Lenyűgöző gótikus székesegyház vörös homokkőből, amelynek 87 méter magas harangtornya a város legfontosabb jelképe.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Soulages Múzeum",
+                  "text": "A modern művészet egyik kiemelkedő helyszíne, amely Pierre Soulages festőművész absztrakt alkotásait mutatja be különleges épületben.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fenaille Múzeum",
+                  "text": "A reneszánsz palotában működő múzeum Európa egyik legjelentősebb menhir-szobor gyűjteményével rendelkezik a neolitikumból.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Armagnac-ház",
+                  "text": "A város egyik legszebb reneszánsz épülete, amely gazdagon díszített homlokzatával a középkori Rodez hangulatát idézi.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place d'Armes",
+                  "text": "Rodez központi tere, ahol a katedrális árnyékában pezsgő városi élet, piacok és elegáns kávézók várják a látogatókat.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Amans-templom",
+                  "text": "Belső díszítésében gazdag barokk templom, amely a város egyik legősibb keresztény negyedében található.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala Notre-Dame din Rodez",
+                  "text": "O capodoperă a stilului gotic, construită din gresie roșie, celebră pentru turnul său de 87 de metri și vitraliile magnifice.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Soulages",
+                  "text": "Un muzeu de artă contemporană dedicat lui Pierre Soulages, remarcabil prin designul său modern din oțel oxidat.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Fenaille",
+                  "text": "Găzduit într-un palat renascentist, acest muzeu deține cea mai importantă colecție de statui-menhir din Europa.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Armagnac",
+                  "text": "O clădire istorică emblematică din secolul al XVI-lea, remarcabilă prin fațada sa sculptată și arhitectura renascentistă.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place d'Armes",
+                  "text": "Piața centrală a orașului, locul ideal pentru a admira catedrala și a savura atmosfera locală la terasele cochete.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Saint-Amans",
+                  "text": "O biserică barocă reconstruită în secolul al XVIII-lea, păstrând elemente decorative spectaculoase în interior.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cathedrale Notre-Dame de Rodez",
+                  "text": "A stunning red sandstone Gothic cathedral featuring a massive 87-meter bell tower and intricate stone carvings.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Soulages Museum",
+                  "text": "A contemporary art museum dedicated to Pierre Soulages, known for its unique rusted steel architecture and abstract works.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fenaille Museum",
+                  "text": "Located in a Renaissance mansion, this museum houses an exceptional collection of Neolithic statue-menhirs.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maison d'Armagnac",
+                  "text": "One of the most famous Renaissance houses in Rodez, showcasing elaborate carvings and historic architectural charm.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place d'Armes",
+                  "text": "The heart of the city, this lively square faces the cathedral and serves as a major gathering point for locals.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Amans Church",
+                  "text": "A beautiful baroque-style church rebuilt in the 18th century on the site of a much older religious building.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jardin Public de Rodez",
+                  "text": "A peaceful city park offering green spaces and views, perfect for a relaxing stroll away from the urban bustle.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "montauban",
@@ -1539,6 +8543,172 @@ const citySeeds: CitySeed[] = [
       fr: ["Montauban a été fondée le 9 octobre 1144 par le comte Alphonse Jourdain de Toulouse.", "Le musée Ingres-Bourdelle abrite une vaste collection de dessins d'Ingres.", "La place Nationale est la seule place d'Europe à posséder une double rangée d'arcades.", "Le Pont Vieux a été défendu avec succès contre les sièges pendant les guerres de Religion.", "La cathédrale Notre-Dame-de-l'Assomption a été édifiée en style classique sur ordre de Louis XIV.", "Montauban était l'une des quatre places de sûreté huguenotes en France au XVIIe siècle."],
     },
     image: "/poi-images/montauban.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Place Nationale",
+                  "text": "Ein prächtiger quadratischer Platz mit doppelten Arkadenreihen, das Herzstück der Stadt und ein Meisterwerk der Backsteinarchitektur.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée Ingres-Bourdelle",
+                  "text": "In einem ehemaligen Bischofspalast untergebracht, zeigt dieses Museum Werke des Malers Ingres und des Bildhauers Bourdelle.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pont Vieux",
+                  "text": "Eine beeindruckende mittelalterliche Backsteinbrücke aus dem 14. Jahrhundert, die den Fluss Tarn überspannt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kathedrale Notre-Dame-de-l'Assomption",
+                  "text": "Eine markante weiße Steinkathedrale im klassischen Stil, die einen starken Kontrast zur roten Backsteinstadt bildet.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Église Saint-Jacques",
+                  "text": "Diese befestigte Kirche aus rotem Backstein ist eines der wenigen erhaltenen mittelalterlichen Gebäude der Stadt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cours Foucault",
+                  "text": "Eine weitläufige Parkanlage aus dem 17. Jahrhundert, die zum Spazierengehen am Ufer des Tarn einlädt.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Théâtre Olympe de Gouges",
+                  "text": "Ein elegantes Theater mit einer wunderschönen Fassade, benannt nach der berühmten Frauenrechtlerin aus Montauban.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Place Nationale",
+                  "text": "Montauban szíve, egy különleges, dupla árkádsorral körülvett vörös téglás tér, amely a város kereskedelmi központja.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ingres-Bourdelle Múzeum",
+                  "text": "A korábbi püspöki palotában található múzeum Ingres festményeit és Bourdelle szobrait mutatja be világszínvonalon.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pont Vieux (Régi híd)",
+                  "text": "A 14. században épült monumentális téglahíd, amely fontos történelmi átkelőhely a Tarn folyó felett.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Notre-Dame-de-l'Assomption katedrális",
+                  "text": "Klasszicista stílusú fehér kőtemplom, amely éles kontrasztot alkot Montauban jellegzetes vörös téglaépületeivel.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Jakab-templom",
+                  "text": "Erődített középkori templom, amely túlélte a vallásháborúk ostromait, Montauban egyik legrégebbi emléke.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cours Foucault",
+                  "text": "Hatalmas történelmi park a Tarn folyó partján, amely árnyas sétányaival a helyiek kedvelt pihenőhelye.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Place Nationale",
+                  "text": "O piață unică cu arcade duble, construită în întregime din cărămidă roșie, reprezentând inima vibrantă a orașului.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Ingres-Bourdelle",
+                  "text": "Situat în fostul palat episcopal, muzeul expune operele celebrului pictor Jean-Auguste-Dominique Ingres și ale sculptorului Bourdelle.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pont Vieux",
+                  "text": "Un pod medieval spectaculos din cărămidă, datând din secolul al XIV-lea, care traversează râul Tarn.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala Notre-Dame-de-l'Assomption",
+                  "text": "O catedrală impunătoare din piatră albă, construită în stil clasic, ce domină peisajul urban din cărămidă roșie.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Saint-Jacques",
+                  "text": "O biserică fortificată medievală, martoră a istoriei zbuciumate a orașului, remarcabilă prin arhitectura sa robustă.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cours Foucault",
+                  "text": "O vastă grădină publică istorică, oferind alei largi și o atmosferă liniștită pe malul râului Tarn.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Place Nationale",
+                  "text": "The stunning central square of Montauban, famous for its double-vaulted brick arcades and historic red-brick facades.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ingres-Bourdelle Museum",
+                  "text": "Housed in the former Episcopal Palace, this museum features works by Jean-Auguste-Dominique Ingres and Antoine Bourdelle.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pont Vieux",
+                  "text": "A remarkable 14th-century brick bridge spanning the Tarn river, symbolizing the city's medieval engineering prowess.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Notre-Dame-de-l'Assomption Cathedral",
+                  "text": "A classical white stone cathedral that stands out uniquely against the surrounding red brick buildings of Montauban.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Jacques Church",
+                  "text": "A fortified red-brick church dating back to the 13th century, showing scars from historic religious conflicts.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cours Foucault",
+                  "text": "A large riverside park created in the 17th century, providing shaded paths and green spaces along the Tarn.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Olympe de Gouges Theatre",
+                  "text": "A beautiful 18th-century theater named after the pioneering feminist and playwright born in the city.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "auch",
@@ -1573,6 +8743,172 @@ const citySeeds: CitySeed[] = [
       fr: ["La cathédrale Sainte-Marie est inscrite au patrimoine mondial de l'UNESCO au titre des chemins de Saint-Jacques.", "L'escalier monumental fut achevé en 1863 et rachète un dénivelé de 35 mètres.", "Charles de Batz de Castelmore, plus connu sous le nom de d'Artagnan, est né près d'Auch.", "La ville abrite le Musée des Amériques, possédant une importante collection précolombienne.", "La tour d'Armagnac, datant du XIVe siècle, servait autrefois de prison.", "Dans l'Antiquité, Auch était déjà la capitale de la tribu des Ausques sous le nom d'Elimberrum."],
     },
     image: "/poi-images/auch.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kathedrale Sainte-Marie d'Auch",
+                  "text": "Diese UNESCO-Weltkulturerbe-Kathedrale ist berühmt für ihr prächtiges Chorgestühl und die wunderschönen Renaissance-Glasfenster.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Escalier Monumental",
+                  "text": "Eine monumentale Treppe mit 374 Stufen, die die Unterstadt mit der Oberstadt verbindet und eine Statue von d'Artagnan beherbergt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tour d'Armagnac",
+                  "text": "Ein ehemaliges Gefängnis aus dem 14. Jahrhundert, das heute als markanter Turm über dem historischen Zentrum thront.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée des Amériques-Auch",
+                  "text": "Dieses Museum beherbergt eine bedeutende Sammlung präkolumbianischer Kunst und lokale Schätze der Gascogne.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Berges du Gers",
+                  "text": "Gepflegte Wanderwege entlang des Flusses Gers bieten eine naturnahe Erholung mitten in der Stadt.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maison de Gascogne",
+                  "text": "Eine historische Markthalle, die heute als Veranstaltungsort für kulturelle Events und regionale Märkte dient.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ancien Évêché",
+                  "text": "Der ehemalige Bischofspalast neben der Kathedrale beeindruckt durch seine Architektur und historische Bedeutung.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sainte-Marie d'Auch katedrális",
+                  "text": "Az UNESCO világörökség része, híres 113 faragott kórusszékéről és csodálatos reneszánsz üvegablakairól.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Escalier Monumental (Monumentális lépcső)",
+                  "text": "374 fokból álló látványos lépcsősor, amely az alsó- és felsővárost köti össze, közepén d'Artagnan szobrával.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Armagnac-torony",
+                  "text": "14. századi monumentális torony, amely egykor börtönként szolgált, ma a város látképének meghatározó eleme.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Amerikaiak Múzeuma",
+                  "text": "Különleges gyűjtemény prekolumbián műalkotásokból és a Gascogne vidékének néprajzi emlékeiből.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gers-parti sétány",
+                  "text": "Kellemes pihenőhely a folyó mentén, ahol a természet és a városi nyugalom találkozik.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gascogne-ház",
+                  "text": "Régi vásárcsarnok, amely Auch kulturális életének és gasztronómiai eseményeinek egyik főszereplője.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala Sainte-Marie din Auch",
+                  "text": "Inclusă în patrimoniul UNESCO, catedrala este celebră pentru stranale sculptate și vitraliile de secol XVI.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Escalier Monumental",
+                  "text": "O scară grandioasă cu 374 de trepte, oferind o panoramă superbă și găzduind statuia faimosului muschetar d'Artagnan.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tour d'Armagnac",
+                  "text": "Un turn medieval impunător, fostă închisoare arhiepiscopală, ce domină centrul istoric al orașului.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée des Amériques-Auch",
+                  "text": "Muzeul deține o colecție impresionantă de artă precolumbiană, a doua ca mărime din Franța.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Malurile râului Gers",
+                  "text": "O zonă de promenadă relaxantă ce traversează orașul, ideală pentru plimbări în natură.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maison de Gascogne",
+                  "text": "O clădire istorică impunătoare folosită pentru expoziții și evenimente ce promovează cultura locală.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sainte-Marie Cathedral",
+                  "text": "A UNESCO World Heritage site known for its 113 intricately carved wooden choir stalls and vibrant Renaissance stained glass.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monumental Staircase",
+                  "text": "A grand staircase with 374 steps connecting the riverbanks to the upper city, featuring a statue of d'Artagnan.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Armagnac Tower",
+                  "text": "A imposing 14th-century square tower that once served as a prison, standing tall next to the cathedral.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée des Amériques-Auch",
+                  "text": "Home to France's second-largest collection of pre-Columbian art and various Gascon cultural artifacts.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gers Riverbanks",
+                  "text": "Peaceful walking paths along the Gers river, offering a green escape with beautiful views of the historic skyline.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maison de Gascogne",
+                  "text": "A majestic stone market hall used for regional festivals, exhibitions, and local farmers' markets.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Episcopal Palace",
+                  "text": "A beautiful historic complex adjacent to the cathedral, reflecting the city's past as an archbishopric seat.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "beziers",
@@ -1607,6 +8943,172 @@ const citySeeds: CitySeed[] = [
       fr: ["Béziers fut fondée vers 625 av. J.-C., ce qui en fait l'une des doyennes des villes françaises.", "L'échelle d'écluses de Fonseranes se compose de huit bassins et neuf portes.", "Le Pont Vieux enjambant l'Orb remonte à l'origine au XIIe siècle.", "En 1209, le légat du pape aurait déclaré : « Tuez-les tous, Dieu reconnaîtra les siens ».", "La ville possède ses propres arènes, construites vers 1897 pour les corridas.", "Béziers est située au point de jonction entre le Canal du Midi et le Canal de la Robine."],
     },
     image: "/poi-images/beziers.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kathedrale Saint-Nazaire",
+                  "text": "Diese befestigte Kathedrale thront hoch über dem Orb und bietet einen atemberaubenden Blick auf die umliegende Landschaft.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Écluses de Fonseranes",
+                  "text": "Eine beeindruckende Treppe aus neun Schleusen am Canal du Midi, ein technisches Meisterwerk und UNESCO-Weltkulturerbe.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pont Vieux",
+                  "text": "Eine wunderschöne mittelalterliche Brücke mit 15 Bögen, die seit Jahrhunderten den Fluss Orb in Béziers überspannt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Allées Paul Riquet",
+                  "text": "Die prächtige Hauptpromenade der Stadt, gesäumt von Platanen, Cafés und der Statue des Erbauers des Canal du Midi.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Le Plateau des Poètes",
+                  "text": "Ein weitläufiger Landschaftspark im englischen Stil mit zahlreichen Statuen und seltenen Pflanzenarten.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arènes de Béziers",
+                  "text": "Ein historisches Amphitheater, das für Stierkämpfe und Konzerte genutzt wird und ein Zentrum der lokalen Kultur ist.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Canal du Midi",
+                  "text": "Die berühmte Wasserstraße durchquert Béziers und lädt zu Bootsfahrten und Spaziergängen unter alten Bäumen ein.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saint-Nazaire katedrális",
+                  "text": "Erődtemplom jellegű gótikus székesegyház, amely egy sziklán magasodik az Orb folyó és a város fölé.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fonseranes-i zsilipsor",
+                  "text": "A Canal du Midi mérnöki csodája: kilenc egymásba kapcsolódó zsilip, amely a hajókat emeli fel a csatornán.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pont Vieux (Régi híd)",
+                  "text": "A 12. században épült 15 ívű kőhíd, Béziers egyik legfestőibb történelmi emléke az Orb folyón.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Allées Paul Riquet",
+                  "text": "Hatalmas platánsoros sétány a belvárosban, kávézókkal és Paul Riquet, a csatornaépítő szobrával.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plateau des Poètes",
+                  "text": "Gyönyörű angolpark tavakkal és szobrokkal, amely a vasútállomást köti össze a városközponttal.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Béziers-i Aréna",
+                  "text": "Hatalmas amfiteátrum, amely bikaviadaloknak és nagyszabású zenei eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala Saint-Nazaire",
+                  "text": "O catedrală fortificată impunătoare situată pe un promontoriu, oferind o panoramă vastă asupra câmpiei Béziers.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ecluzele de la Fonseranes",
+                  "text": "O scară spectaculoasă de nouă ecluze pe Canal du Midi, reprezentând o realizare tehnică majoră din secolul XVII.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pont Vieux",
+                  "text": "Un pod medieval din piatră cu 15 arcuri, traversând râul Orb, un simbol istoric al accesului în oraș.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Allées Paul Riquet",
+                  "text": "Bulevardul principal al orașului, o zonă pietonală animată, umbrită de platani și plină de cafenele.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Le Plateau des Poètes",
+                  "text": "Un parc public vast și elegant, amenajat în stil englezesc, decorat cu busturi de poeți și fântâni.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arenele din Béziers",
+                  "text": "O structură circulară masivă folosită pentru coride și spectacole, esențială pentru tradiția locală.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saint-Nazaire Cathedral",
+                  "text": "A fortified Romanesque and Gothic cathedral perched on a hill, offering iconic views of the Orb valley.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fonseranes Locks",
+                  "text": "A remarkable series of nine locks on the Canal du Midi, a masterpiece of 17th-century engineering and a UNESCO site.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pont Vieux",
+                  "text": "A beautiful 12th-century bridge with 15 arches that has survived centuries of floods and historical events.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Allées Paul Riquet",
+                  "text": "The city's grand central esplanade, named after the creator of the Canal du Midi, lined with shops and terraces.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plateau des Poètes",
+                  "text": "A lush 5-hectare English-style park created in the 19th century, featuring a variety of exotic trees and sculptures.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arènes de Béziers",
+                  "text": "A large amphitheater used for the famous Feria bullfights as well as concerts and outdoor performances.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Canal du Midi",
+                  "text": "The historic waterway that flows through the city, perfect for boat tours and shaded walks along its banks.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "narbonne",
@@ -1641,6 +9143,208 @@ const citySeeds: CitySeed[] = [
       fr: ["Narbonne a été fondée en 118 av. J.-C. sous le nom de Narbo Martius.", "La construction de la cathédrale a débuté en 1272, mais n'a jamais été achevée pour des raisons défensives.", "Le canal de la Robine est un embranchement de 32 kilomètres du canal du Midi.", "La Via Domitia n'a été redécouverte qu'en 1997 lors de travaux sur la place de l'Hôtel de Ville.", "L'Horreum est un entrepôt romain souterrain datant du Ier siècle av. J.-C.", "Narbonne était au Moyen Âge un centre majeur de l'exégèse et de la culture juive."],
     },
     image: "/poi-images/narbonne.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Cathédrale Saint-Just-et-Saint-Pasteur",
+                  "text": "Diese unvollendete gotische Kathedrale aus dem 13. Jahrhundert beeindruckt durch eines der höchsten Kirchenschiffe Frankreichs.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palais des Archevêques",
+                  "text": "Der monumentale Erzbischofspalast beherbergt heute das Rathaus sowie bedeutende Kunst- und Archäologiemuseen der Stadt Narbonne.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Horreum Romain",
+                  "text": "Einzigartige unterirdische Lagerräume aus der Römerzeit, die einen faszinierenden Einblick in das antike Handelszentrum bieten.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Halles de Narbonne",
+                  "text": "Diese prachtvolle schmiedeeiserne Markthalle aus dem Jahr 1901 gilt als einer der schönsten überdachten Märkte ganz Frankreichs.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Canal de la Robine",
+                  "text": "Der zum UNESCO-Welterbe gehörende Kanal durchquert das Stadtzentrum und lädt zu entspannten Spaziergängen am Wasserufer ein.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Via Domitia",
+                  "text": "Überreste der ersten römischen Straße in Gallien, die direkt vor dem Rathaus auf dem Place de l'Hôtel de Ville freigelegt wurden.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Basilique Saint-Paul",
+                  "text": "Eine bedeutende frühgotische Basilika, die auf einer antiken christlichen Nekropole errichtet wurde und berühmte Kapitelle besitzt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Narbo Via Museum",
+                  "text": "Ein modernes, von Norman Foster entworfenes Museum, das die reiche römische Geschichte der antiken Metropole Narbo Martius präsentiert.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szent Jusztusz és Szent Pasztor székesegyház",
+                  "text": "Ez a befejezetlen gótikus katedrális lenyűgöző méretű kórussal rendelkezik, amely az egyik legmagasabb egész Franciaországban.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Érseki palota",
+                  "text": "A monumentális épületegyüttes ma a városházának és múzeumoknak ad otthont, bemutatva Narbonne középkori hatalmát.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Római Horreum",
+                  "text": "Föld alatti folyosórendszer a római korból, amely egykor raktárként szolgált a város ókori kereskedelmi központjában.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Halles vásárcsarnok",
+                  "text": "A város híres, 1901-ben épült fedett piaca, ahol a régió legkiválóbb gasztronómiai termékeit és borait kóstolhatjuk meg.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Canal de la Robine",
+                  "text": "Az UNESCO Világörökség részét képező csatorna partján platánsorok alatt sétálhatunk Narbonne történelmi központjában.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Via Domitia maradványok",
+                  "text": "Az ókori Galliát átszelő első római út feltárt szakasza közvetlenül a városháza előtti téren tekinthető meg.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Pál-bazilika",
+                  "text": "A 12. századi bazilika egyike Dél-Franciaország legkorábbi gótikus épületeinek, egy ősi keresztény temető helyén épült.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Narbo Via múzeum",
+                  "text": "Új, ultramodern régészeti múzeum, amely Narbonne római kori örökségét és lenyűgöző kőfaragványait mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala Saint-Just-et-Saint-Pasteur",
+                  "text": "O capodoperă a goticului narbonez, faimoasă pentru corul său imens, rămasă neterminată din motive defensive în secolul XIV.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Arhiepiscopal",
+                  "text": "Un complex arhitectural impresionant care îmbină stilurile gotic și clasic, găzduind primăria și muzeul de artă al orașului.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Horreum Roman",
+                  "text": "Galerii subterane unice din secolul I î.Hr., folosite ca depozite în perioada în care Narbonne era o colonie romană prosperă.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Halles de Narbonne",
+                  "text": "Piața acoperită în stil Baltard, construită la începutul secolului XX, este inima gastronomică vibrantă a orașului Narbonne.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Canal de la Robine",
+                  "text": "Inclus în patrimoniul UNESCO, acest canal pitoresc traversează orașul și oferă trasee superbe pentru plimbări pe sub platani.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Via Domitia",
+                  "text": "Vestigii ale primei rute romane construite în Galia, vizibile chiar în centrul Place de l'Hôtel de Ville din Narbonne.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bazilica Saint-Paul",
+                  "text": "O biserică remarcabilă construită pe locul unei necropole romane, fiind unul dintre primele exemple de gotic din sudul Franței.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Narbo Via",
+                  "text": "Un muzeu de arheologie spectaculos care expune mii de blocuri de piatră sculptate și obiecte din perioada romană a orașului.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saint-Just and Saint-Pasteur Cathedral",
+                  "text": "An ambitious 13th-century Gothic cathedral, famous for its towering choir which remains one of the highest in France.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Archbishops' Palace",
+                  "text": "A grand complex featuring the Old and New Palaces, now housing the Town Hall and fine arts and archaeology museums.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Roman Horreum",
+                  "text": "Ancient underground galleries dating back to the 1st century BC, originally used as a grain warehouse during Roman rule.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Halles de Narbonne",
+                  "text": "A stunning iron-framed covered market built in 1901, renowned as one of the best and most beautiful food markets in France.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Canal de la Robine",
+                  "text": "A UNESCO World Heritage site that flows through the heart of Narbonne, lined with scenic paths and pleasure boats.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Via Domitia",
+                  "text": "An excavated section of the first Roman road in Gaul, discovered in 1997 in the center of the City Hall square.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Basilica of Saint Paul",
+                  "text": "A beautiful Romanesque-Gothic church built over an early Christian cemetery, featuring a famous 'frog' stoup in its interior.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Narbo Via Museum",
+                  "text": "A world-class archaeological museum designed by Norman Foster, showcasing the city's prestigious Roman past.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "sete",
@@ -1675,6 +9379,208 @@ const citySeeds: CitySeed[] = [
       fr: ["Sète a été officiellement fondée le 29 juillet 1666 avec le premier coup de pioche pour le môle du port.", "Le mont Saint-Clair offre une vue qui, par temps clair, s'étend jusqu'aux Pyrénées.", "L'étang de Thau est célèbre pour son élevage d'huîtres et de moules.", "La fête annuelle de la Saint-Louis en août est le point d'orgue de la saison des joutes.", "Sète possède douze kilomètres de plages de sable qui s'étendent entre la mer et la lagune.", "Le musée Paul Valéry se trouve dans un bâtiment surplombant le cimetière marin."],
     },
     image: "/poi-images/sete.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Mont Saint-Clair",
+                  "text": "Der Hausberg von Sète bietet von seinem Gipfel aus ein atemberaubendes Panorama über die Stadt, das Meer und den Etang de Thau.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Le Quartier Haut",
+                  "text": "Das älteste Viertel der Stadt, oft 'kleines Neapel' genannt, ist geprägt von Künstlern, steilen Gassen und italienischem Flair.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée Paul Valéry",
+                  "text": "Das am Fuße des Mont Saint-Clair gelegene Museum ist dem berühmten Dichter gewidmet und zeigt beeindruckende Kunstsammlungen.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Le Grand Canal",
+                  "text": "Die Hauptwasserstraße von Sète ist das Herz der Stadt, wo im Sommer die traditionellen Fischerstechen (Joutes) stattfinden.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Théâtre de la Mer",
+                  "text": "Ein ehemaliges Fort direkt am Wasser, das heute als Freilichtbühne für Konzerte mit Blick auf das Mittelmeer dient.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Phare de la Méditerranée",
+                  "text": "Der Leuchtturm am Môle Saint-Louis markiert den Eingang zum Hafen und bietet einen weiten Blick über die Küste des Languedoc.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cimetière Marin",
+                  "text": "Der Friedhof am Meer ist die letzte Ruhestätte von Paul Valéry und bietet eine melancholische Schönheit direkt über den Klippen.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Môle Saint-Louis",
+                  "text": "Die im 17. Jahrhundert erbaute Mole schützt den Hafen und ist ein beliebter Ort für Spaziergänge zwischen Stadt und Meer.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Saint-Clair",
+                  "text": "Sète jellegzetes hegye, amelynek 183 méteres csúcsáról lenyűgöző kilátás nyílik a lagúnára és a Földközi-tengerre.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Felső negyed (Quartier Haut)",
+                  "text": "A művészek és halászok lakta történelmi negyed szűk utcáival és színes házaival az olasz városok hangulatát idézi.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Paul Valéry Múzeum",
+                  "text": "A híres költő nevét viselő múzeum képzőművészeti gyűjteményeknek ad otthont a Mont Saint-Clair oldalában.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grand Canal",
+                  "text": "A város központi csatornája, ahol a híres vízi lovagi tornákat (joutes) rendezik minden év augusztusában.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tengeri Színház (Théâtre de la Mer)",
+                  "text": "Egy egykori erődben kialakított szabadtéri amfiteátrum, ahol a koncertek hátterét közvetlenül a tenger adja.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Môle Saint-Louis világítótorony",
+                  "text": "A kikötő bejáratánál álló történelmi világítótorony a 17. századi móló végén található, ma is fontos jelzőpont.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tengeri temető (Cimetière Marin)",
+                  "text": "Paul Valéry végső nyughelye; a tengerparti sziklákon fekvő temető egyedülálló hangulatú és panorámájú helyszín.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Môle Saint-Louis móló",
+                  "text": "XIV. Lajos idején épült monumentális gát, amely a kikötőt védi és Sète egyik legnépszerűbb sétaútvonala.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muntele Saint-Clair",
+                  "text": "Un deal dominant de 183 metri înălțime care oferă o vedere panoramică spectaculoasă asupra orașului și lagunei Thau.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Quartier Haut",
+                  "text": "Cunoscut ca 'Mica Neapole', acest cartier istoric este inima artistică a orașului, cu străzi abrupte și fațade colorate.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Paul Valéry",
+                  "text": "Situat lângă cimitirul marin, muzeul este dedicat scriitorului și expune opere de artă modernă și istorie locală.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grand Canal",
+                  "text": "Canalul principal al orașului Sète, unde se desfășoară turnirurile nautice tradiționale, simbolul cultural al orașului.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Théâtre de la Mer",
+                  "text": "Un fost fort militar transformat într-o scenă de spectacole în aer liber, oferind un cadru magic direct pe malul mării.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Farul de la Môle Saint-Louis",
+                  "text": "O construcție istorică situată la capătul digului, care ghidează navele în portul Sète încă din secolul al XVII-lea.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cimitirul Marin",
+                  "text": "Un loc de o frumusețe melancolică unde este înmormântat poetul Paul Valéry, având vedere directă spre Marea Mediterană.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Môle Saint-Louis",
+                  "text": "Primul dig construit la Sète în 1666, acesta oferă o promenadă relaxantă între portul vechi și largul mării.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont Saint-Clair",
+                  "text": "The iconic hill of Sète offering breathtaking 360-degree views of the Mediterranean Sea and the Thau lagoon.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Quartier Haut",
+                  "text": "The historic upper district, nicknamed 'Little Naples', known for its fishing heritage, steep alleys, and street art.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Paul Valéry Museum",
+                  "text": "Nestled on the slopes of Mont Saint-Clair, this museum celebrates the poet's work and showcases fine arts collections.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grand Canal",
+                  "text": "The main waterway running through the town center, famous for hosting traditional water jousting tournaments in summer.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Théâtre de la Mer",
+                  "text": "A former fort turned into an open-air amphitheater, offering unique concert experiences with the sea as a backdrop.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Môle Saint-Louis Lighthouse",
+                  "text": "A historic lighthouse marking the entrance to the old port, standing at the end of the 17th-century breakwater.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Seaside Cemetery (Cimetière Marin)",
+                  "text": "The final resting place of Paul Valéry, this beautiful cemetery overlooks the cliffs and the shimmering Mediterranean.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Môle Saint-Louis",
+                  "text": "The massive pier protecting the harbor since 1666, it is a favorite spot for locals and tourists to enjoy a sea breeze.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "tarbes",
@@ -1709,6 +9615,184 @@ const citySeeds: CitySeed[] = [
       fr: ["Le Haras national de Tarbes est spécialisé dans l'élevage d'Anglo-arabes.", "Le Jardin Massey s'étend sur une superficie d'environ 11 hectares.", "Le Maréchal Foch est né le 2 octobre 1851 à Tarbes.", "La cathédrale Notre-Dame-de-la-Sède date originellement du XIIe siècle.", "Tarbes est réputée pour le 'Haricot Tarbais', un haricot bénéficiant d'une appellation d'origine protégée.", "La ville est située à environ 155 kilomètres au sud-ouest de Toulouse."],
     },
     image: "/poi-images/tarbes.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Jardin Massey",
+                  "text": "Einer der schönsten Parks Frankreichs mit exotischen Pflanzen, einem Kreuzgang aus dem 14. Jahrhundert und Pfauen.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée Massey",
+                  "text": "Das im Park gelegene Museum beherbergt eine weltweit einzigartige Sammlung zur Geschichte der Husarenregimenter.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Haras National de Tarbes",
+                  "text": "Das 1806 von Napoleon gegründete Nationalgestüt ist die Wiege der anglo-arabischen Pferderasse und ein Denkmal der Reitkunst.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cathédrale Notre-Dame-de-la-Sède",
+                  "text": "Die Kathedrale von Tarbes vereint romanische und gotische Stilelemente und besitzt einen prächtigen barocken Baldachin-Altar.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Halle Marcadieu",
+                  "text": "Eine monumentale Markthalle aus Metall und Glas im Baltard-Stil, in der jeden Donnerstag der große regionale Markt stattfindet.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maison Natale du Maréchal Foch",
+                  "text": "Das Geburtshaus des berühmten Feldmarschalls des Ersten Weltkriegs ist heute ein Museum über sein Leben und Wirken.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place de Verdun",
+                  "text": "Der zentrale Platz der Stadt mit seinen Springbrunnen und Terrassen ist der belebte Treffpunkt im Herzen von Tarbes.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jardin Massey",
+                  "text": "Franciaország egyik legszebb közparkja, amelyben egy 14. századi kolostor kerengője és egzotikus növények találhatók.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Massey Múzeum",
+                  "text": "A park közepén álló épület a huszárok történetét bemutató, világszinten is egyedülálló gyűjteménynek ad otthont.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tarbes-i Nemzeti Ménes",
+                  "text": "Napóleon által 1806-ban alapított ménesbirtok, az angol-arab lófajta bölcsője és a francia lovas kultúra ékköve.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Notre-Dame-de-la-Sède székesegyház",
+                  "text": "Tarbes katedrálisa román és gótikus stílusjegyeket ötvöz, főoltára felett pompás barokk baldachin látható.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Marcadieu vásárcsarnok",
+                  "text": "Hatalmas üveg- és fémvázas épület, amely a régió legnagyobb heti piacának ad helyet minden csütörtökön.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Foch marsall szülőháza",
+                  "text": "Az első világháborús hős szülőháza ma múzeumként működik, bemutatva a hadvezér pályafutását és személyes tárgyait.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place de Verdun",
+                  "text": "A város főtere látványos szökőkutakkal, kávézókkal, Tarbes társasági életének központi helyszíne.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grădina Massey",
+                  "text": "O grădină publică remarcabilă creată în secolul XIX, care adăpostește un claustru medieval și păuni liberi.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Massey",
+                  "text": "Găzduit într-un conac maur în centrul grădinii, muzeul deține cea mai mare colecție din lume dedicată husarilor.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Herghelia Națională din Tarbes",
+                  "text": "Înființată de Napoleon în 1806, această herghelie istorică este faimoasă pentru creșterea cailor din rasa Anglo-Arabă.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala Notre-Dame-de-la-Sède",
+                  "text": "O catedrală fortificată interesantă ce prezintă o navă gotică impunătoare și un altar baroc cu baldachin aurit.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hala Marcadieu",
+                  "text": "O structură metalică impunătoare de tip Baltard, unde se organizează cel mai important târg săptămânal din sud-vest.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa natală a Mareșalului Foch",
+                  "text": "O casă tradițională bigordană unde s-a născut faimosul comandant din Primul Război Mondial, transformată în muzeu.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place de Verdun",
+                  "text": "Piața centrală a orașului Tarbes, renovată modern, fiind punctul de întâlnire principal cu numeroase fântâni arteziene.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jardin Massey",
+                  "text": "A stunning 19th-century public garden, home to exotic trees, free-roaming peacocks, and a medieval cloister.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Massey Museum",
+                  "text": "Located within the garden, this museum houses a unique international collection dedicated to the history of Hussars.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "National Stud Farm (Haras National)",
+                  "text": "Founded by Napoleon in 1806, this prestigious horse breeding farm is the birthplace of the Anglo-Arabian breed.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Notre-Dame-de-la-Sède Cathedral",
+                  "text": "The city's main church, featuring a massive Gothic nave and a beautiful 18th-century baroque baldachin altar.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Halle Marcadieu",
+                  "text": "A magnificent iron and glass market hall that hosts a massive traditional market every Thursday morning.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Marshal Foch's Birthplace",
+                  "text": "The 18th-century family home of Ferdinand Foch, commander of the Allied forces in WWI, now a national museum.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place de Verdun",
+                  "text": "The vibrant main square of Tarbes, featuring large fountains and numerous cafes, serving as the city's social heart.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "foix",
@@ -1743,6 +9827,160 @@ const citySeeds: CitySeed[] = [
       fr: ["Le château de Foix est mentionné pour la première fois en 1002 dans un testament", "Le comté de Foix fut réuni à la couronne de France en 1458 par le traité de Foix", "La ville est située à une altitude moyenne d'environ 380 mètres au-dessus du niveau de la mer", "Gaston Fébus fut l'un des plus célèbres comtes de Foix au XIVe siècle", "L'abbatiale Saint-Volusien abrite les reliques de saint Volusien", "La ville compte aujourd'hui environ 9 500 habitants"],
     },
     image: "/poi-images/foix.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Château de Foix",
+                  "text": "Die imposante mittelalterliche Burg mit ihren drei markanten Türmen thront auf einem Felsen über der Altstadt.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Abbatiale Saint-Volusien",
+                  "text": "Diese ehemalige Abteikirche besitzt ein prächtiges Portal und beherbergt die Reliquien des Schutzpatrons der Stadt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vieille Ville (Altstadt)",
+                  "text": "Das historische Zentrum von Foix mit seinen engen Gassen, Fachwerkhäusern und charmanten kleinen Plätzen.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Forges de Pyrène",
+                  "text": "Ein lebendiges Freilichtmuseum in der Nähe, das alte Handwerksberufe und das ländliche Leben der Ariège zeigt.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rivière Souterraine de Labouiche",
+                  "text": "Ein nahegelegener unterirdischer Fluss, der schiffbar ist und faszinierende Tropfsteinformationen in den Höhlen bietet.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Allées de Villote",
+                  "text": "Die breite Promenade am Fuße des Schlosses ist der Ort für Märkte, Feste und entspannte Nachmittage im Schatten.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Foix vára",
+                  "text": "A város fölé magasodó középkori sziklavár három tornyával az egykori Foix grófok bevehetetlen székhelye volt.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Volusianus apátsági templom",
+                  "text": "Foix legfontosabb temploma, amely egykor apátság volt; gótikus építészete és vallási emlékei jelentősek.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Óváros (Vieille Ville)",
+                  "text": "A vár lábánál elterülő középkori városnegyed szűk utcákkal, fagerendás házakkal és hangulatos kisboltokkal.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Forges de Pyrène",
+                  "text": "Skanzen a város szélén, ahol a látogatók megismerhetik a régi mesterségeket és a hegység hagyományos életmódját.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Labouiche föld alatti folyó",
+                  "text": "A várostól nem messze található különleges természeti látványosság: Európa egyik leghosszabb hajózható föld alatti folyója.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Allées de Villote",
+                  "text": "A vár alatti tágas, fasorokkal szegélyezett sétány, amely a városi piacok és rendezvények központi helyszíne.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelul din Foix",
+                  "text": "O fortăreață medievală spectaculoasă cu trei turnuri impozante, care domină orașul de pe vârful unei stânci calcaroase.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Saint-Volusien",
+                  "text": "O fostă biserică abațială reconstruită în secolul al XVII-lea, renumită pentru portalul său și atmosfera de liniște.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Centrul Istoric (Vieille Ville)",
+                  "text": "Inima veche a orașului Foix, cu străzi înguste medievale și case vechi care și-au păstrat farmecul de altădată.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Forges de Pyrène",
+                  "text": "Un sat muzeu interactiv unde sunt demonstrate peste 120 de meserii vechi din regiunea Ariège.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Râul subteran Labouiche",
+                  "text": "Situat în apropiere, acesta este cel mai lung râu subteran navigabil din Europa deschis publicului larg.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Allées de Villote",
+                  "text": "O zonă de promenadă spațioasă și umbrită, situată la poalele castelului, unde se desfășoară viața socială a orașului.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Foix Castle",
+                  "text": "A formidable medieval fortress with three iconic towers, perched high on a rock overlooking the river Ariège.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Volusien Abbey Church",
+                  "text": "A historic church housing the relics of Saint Volusien, featuring a mix of Romanesque and Gothic architectural styles.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Town (Vieille Ville)",
+                  "text": "The charming medieval heart of Foix, characterized by its narrow winding streets and half-timbered houses.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Forges de Pyrène",
+                  "text": "An outdoor museum located nearby that showcases traditional crafts and the rural history of the Pyrenees region.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Labouiche Underground River",
+                  "text": "A nearby natural wonder where visitors can take a boat trip on a river flowing through spectacular limestone caves.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Allées de Villote",
+                  "text": "The city's main promenade, a leafy wide avenue used for markets and public events under the shadow of the castle.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "perigueux",
@@ -1777,6 +10015,136 @@ const citySeeds: CitySeed[] = [
       fr: ["La cathédrale Saint-Front a été largement restaurée au XIXe siècle par Paul Abadie.", "Le musée gallo-romain Vesunna a été érigé sur les ruines d'une domus romaine.", "Périgueux a été fondée en 16 av. J.-C. comme capitale des Pétrocores sous le nom de Vesunna.", "La ville est un centre névralgique pour le commerce de la truffe en France.", "La tour de Vésone est le vestige de 24 mètres de haut d'un temple romain.", "La ville compte aujourd'hui environ 30 000 habitants."],
     },
     image: "/poi-images/perigueux.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kathedrale Saint-Front",
+                  "text": "Die majestätische byzantinische Kathedrale ist UNESCO-Weltkulturerbe und erinnert an den Markusdom in Venedig.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tour Mataguerre",
+                  "text": "Der letzte erhaltene Turm der mittelalterlichen Stadtmauer bietet einen tollen Blick auf die Altstadt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vesunna",
+                  "text": "Dieses gallo-römische Museum wurde über den Überresten einer antiken Villa errichtet und zeigt faszinierende Mosaike.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée d'Art et d'Archéologie",
+                  "text": "Das älteste Museum der Dordogne beherbergt reiche Sammlungen von der Vorgeschichte bis zur bildenden Kunst.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Église Saint-Étienne-de-la-Cité",
+                  "text": "Diese romanische Kirche war einst die Kathedrale der Stadt, bevor Saint-Front diesen Titel übernahm.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cathédrale Saint-Front",
+                  "text": "A bizánci stílusú katedrális az UNESCO világörökség része, kupolái Velence hangulatát idézik a Dordogne partján.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tour Mataguerre",
+                  "text": "A középkori városfal utolsó épségben maradt bástyája, ahonnan lenyűgöző kilátás nyílik az óváros háztetőire.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vesunna",
+                  "text": "A gall-római múzeum egy ókori villa maradványai köré épült, modern építészettel ötvözve a történelmi emlékeket.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée d'Art et d'Archéologie",
+                  "text": "A megye legrégebbi múzeuma, amely a történelem előtti időktől a szépművészetekig mutat be kincseket.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Église Saint-Étienne-de-la-Cité",
+                  "text": "Ez a robusztus román stílusú templom volt a város első székesegyháza a Saint-Front felépülése előtt.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala Saint-Front",
+                  "text": "Această catedrală maiestuoasă în stil bizantin face parte din patrimoniul UNESCO și amintește de Bazilica San Marco.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turnul Mataguerre",
+                  "text": "Ultimul turn păstrat din vechile fortificații medievale oferă o vedere panoramică superbă asupra acoperișurilor orașului.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vesunna",
+                  "text": "Un muzeu galo-roman spectaculos construit deasupra vestigiilor unei vile antice, protejate de o structură modernă.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul de Artă și Arheologie",
+                  "text": "Cel mai vechi muzeu din regiunea Dordogne, adăpostind colecții bogate din preistorie până în epoca modernă.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Saint-Étienne-de-la-Cité",
+                  "text": "O biserică romanică impunătoare care a servit drept primă catedrală a orașului timp de mai multe secole.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saint-Front Cathedral",
+                  "text": "A UNESCO World Heritage site, this Byzantine-style cathedral with its iconic domes resembles St. Mark's in Venice.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mataguerre Tower",
+                  "text": "The last remaining tower of the medieval city walls offers breathtaking views over the historic district's rooftops.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vesunna",
+                  "text": "This Gallo-Roman museum was built over the remains of an ancient villa and showcases stunning mosaics and artifacts.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum of Art and Archaeology",
+                  "text": "The oldest museum in Dordogne features rich collections ranging from prehistoric times to fine arts.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Étienne-de-la-Cité Church",
+                  "text": "A robust Romanesque church that served as the city's first cathedral before Saint-Front was built.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "angouleme",
@@ -1811,6 +10179,136 @@ const citySeeds: CitySeed[] = [
       fr: ["Le Festival international de la bande dessinée d'Angoulême a été créé en 1974", "La cathédrale Saint-Pierre a été construite entre 1110 et 1128", "Au XIXe siècle, la région comptait environ 60 moulins à papier", "Les remparts d'Angoulême ont une longueur totale d'environ 2 kilomètres", "Angoulême est le lieu de naissance de Marguerite de Navarre en 1492", "La ville compte aujourd'hui environ 42 000 habitants"],
     },
     image: "/poi-images/angouleme.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kathedrale Saint-Pierre",
+                  "text": "Ein Meisterwerk der romanischen Kunst mit einer kunstvoll verzierten Fassade aus dem 12. Jahrhundert.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cité de la BD",
+                  "text": "Ein einzigartiges Zentrum für Comic-Kunst mit einem Museum, einer Bibliothek und wechselnden Ausstellungen.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hôtel de Ville",
+                  "text": "Das Rathaus befindet sich in einem ehemaligen Schloss und vereint verschiedene Baustile aus mehreren Epochen.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Remparts",
+                  "text": "Die alten Stadtmauern bieten einen Panoramablick über das Charente-Tal und sind ideal für Spaziergänge.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée d'Angoulême",
+                  "text": "Dieses Museum zeigt bedeutende archäologische Funde und eine beeindruckende Sammlung afrikanischer Kunst.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cathédrale Saint-Pierre",
+                  "text": "A román építészet remekműve, amelynek 12. századi homlokzata több mint hetven faragott jelenetet ábrázol.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cité de la BD",
+                  "text": "A képregények nemzetközi városa, ahol múzeum, könyvtár és számos falfestmény tiszteleg a kilencedik művészet előtt.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hôtel de Ville",
+                  "text": "Az egykori vár helyén álló városháza középkori tornyai és parkja a város egyik legszebb építészeti együttese.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Remparts",
+                  "text": "A várost övező középkori falakról csodálatos panoráma nyílik a Charente-folyó völgyére és a környék lankáira.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée d'Angoulême",
+                  "text": "A katedrális mellett található múzeum jelentős régészeti leleteket és afrikai művészeti gyűjteményt őriz.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala Saint-Pierre",
+                  "text": "O capodoperă a artei romanice cu o fațadă sculptată excepțional ce datează din secolul al XII-lea.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Orașul Benzii Desenate",
+                  "text": "Un centru unic dedicat celei de-a noua arte, incluzând un muzeu, o bibliotecă și expoziții creative.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria (Hôtel de Ville)",
+                  "text": "Situată în fostul castel al conților de Angoulême, clădirea păstrează turnuri medievale și grădini elegante.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zidurile Cetății",
+                  "text": "Vechi ramparturi care oferă o plimbare pitorească cu vederi panoramice asupra văii râului Charente.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Angoulême",
+                  "text": "Situat lângă catedrală, muzeul prezintă vestigii arheologice locale și o colecție impresionantă de artă africană.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saint-Pierre Cathedral",
+                  "text": "A masterpiece of Romanesque architecture featuring a 12th-century facade decorated with over seventy carved figures.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Comic Strip City",
+                  "text": "A unique cultural center dedicated to comic arts, featuring a museum, a library, and numerous murals across town.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Town Hall",
+                  "text": "Located in the former castle of the Counts of Angoulême, this building combines medieval towers with 19th-century architecture.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Ramparts",
+                  "text": "These ancient city walls provide a scenic walking route with panoramic views of the Charente River valley below.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Angoulême Museum",
+                  "text": "Housed in the former bishop's palace, it offers significant archaeological finds and a renowned African art collection.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "cognac",
@@ -1845,6 +10343,136 @@ const citySeeds: CitySeed[] = [
       fr: ["Le roi François Ier est né en 1494 au château de Cognac", "Le dépôt noir sur les bâtiments est causé par le champignon Baudoinia compniacensis", "Cognac a reçu sa charte communale en 1215 du roi d'Angleterre Jean sans Terre", "La ville est située à environ 120 kilomètres au nord de Bordeaux", "Plus de 200 millions de bouteilles de cognac sont exportées chaque année dans le monde", "La ville compte aujourd'hui une population d'environ 19 000 personnes"],
     },
     image: "/poi-images/cognac.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Musée des Arts du Cognac",
+                  "text": "Erfahren Sie alles über die Geschichte und Herstellung des berühmten Weinbrands in diesem modernen Museum.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Château de Cognac",
+                  "text": "Geburtsort von König Franz I., heute Sitz eines berühmten Cognac-Hauses mit historischen Kellern.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Église Saint-Léger",
+                  "text": "Die größte Kirche in Cognac besticht durch ihr romanisches Portal und ein beeindruckendes Rosettenfenster.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc François Ier",
+                  "text": "Ein weitläufiger Waldpark am Ufer der Charente, der perfekt für Erholung und Naturerlebnisse geeignet ist.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vieux Cognac",
+                  "text": "Schlendern Sie durch die engen Gassen der Altstadt mit ihren Fachwerkhäusern und historischen Stadtpalästen.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée des Arts du Cognac",
+                  "text": "Ez a modern múzeum interaktív módon mutatba a híres párlat készítésének titkait és a régió történetét.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Château de Cognac",
+                  "text": "I. Ferenc király szülőhelye ma neves konyakháznak ad otthont, ahol történelmi pincék várják a látogatókat.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Église Saint-Léger",
+                  "text": "Cognac legnagyobb temploma, amelynek román stílusú kapuzata és gótikus ablakai különleges látványt nyújtanak.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc François Ier",
+                  "text": "A Charente-folyó partján elterülő erdős park ideális hely a kikapcsolódásra és a természet közelségére.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vieux Cognac",
+                  "text": "Az óváros szűk, kanyargós utcái és a 15-18. századi polgárházak a konyakkereskedelem aranykorát idézik.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeul Artelor Cognacului",
+                  "text": "Descoperiți istoria și procesul de fabricare al celebrului distilat în acest muzeu modern și interactiv.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Cognac",
+                  "text": "Locul de naștere al regelui Francisc I, castelul găzduiește astăzi o casă de coniac renumită și pivnițe istorice.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Saint-Léger",
+                  "text": "Cea mai mare biserică din oraș, remarcabilă pentru portalul său romanic și fereastra mare sub formă de rozetă.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul François Ier",
+                  "text": "Un parc forestier vast situat pe malul râului Charente, ideal pentru relaxare și activități în aer liber.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Centrul Vechi (Vieux Cognac)",
+                  "text": "Străzi înguste pavate și case vechi din secolele XV-XVIII care păstrează atmosfera istorică a orașului.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of Cognac Arts",
+                  "text": "Discover the secrets of the world-famous brandy's production and the region's history in this modern museum.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cognac Castle",
+                  "text": "Birthplace of King Francis I, this historic fortress now houses a famous cognac maison and ancient aging cellars.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Léger Church",
+                  "text": "The largest church in Cognac, known for its beautiful Romanesque portal and a large Gothic rose window.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "François Ier Park",
+                  "text": "A vast wooded park on the banks of the Charente River, perfect for leisure walks and enjoying natural surroundings.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Cognac",
+                  "text": "Explore narrow cobblestone streets lined with half-timbered houses and private mansions from the 15th to 18th centuries.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "saintes",
@@ -1879,6 +10507,136 @@ const citySeeds: CitySeed[] = [
       fr: ["L'amphithéâtre romain pouvait autrefois accueillir jusqu'à 15 000 spectateurs", "L'arc de Germanicus a été érigé en l'an 18 ou 19 de notre ère", "L'Abbaye-aux-Dames fut fondée en 1047, premier monastère de femmes en Saintonge", "L'église Saint-Eutrope possède l'une des plus grandes cryptes d'Europe", "Saintes a été lourdement endommagée pendant les guerres de Religion au XVIe siècle", "La ville compte aujourd'hui une population d'environ 25 000 personnes"],
     },
     image: "/poi-images/saintes.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Amphithéâtre de Saintes",
+                  "text": "Eines der am besten erhaltenen römischen Amphitheater in Gallien, das einst tausende Zuschauer fasste.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Abbaye aux Dames",
+                  "text": "Die erste Frauenabtei der Region ist ein Juwel der Romanik und heute ein wichtiges Musikzentrum.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arc de Germanicus",
+                  "text": "Dieser römische Ehrenbogen aus dem Jahr 18 n. Chr. stand einst auf einer Brücke über die Charente.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Basilique Saint-Eutrope",
+                  "text": "Eine bedeutende Pilgerstation auf dem Jakobsweg mit einer der größten Krypten Europas.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kathedrale Saint-Pierre",
+                  "text": "Die Kathedrale zeichnet sich durch ihren unvollendeten Glockenturm und das spätgotische Portal aus.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Amphithéâtre de Saintes",
+                  "text": "Az egyik legjobb állapotban fennmaradt római amfiteátrum Galliában, amely egykor húszezer nézőt fogadott.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Abbaye aux Dames",
+                  "text": "A régió első női apátsága, amelynek román temploma és harangtornya a középkori hitélet központja volt.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arc de Germanicus",
+                  "text": "A Kr. u. 18-ban épült római diadalív eredetileg a Charente hídján állt, ma a folyópart ékköve.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Basilique Saint-Eutrope",
+                  "text": "Fontos zarándokhely a Szent Jakab-úton, amely Európa egyik legnagyobb és legszebb kriptájával rendelkezik.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cathédrale Saint-Pierre",
+                  "text": "A katedrális különlegessége a befejezetlen harangtorony és a gazdagon díszített lángoló gótikus kapuzat.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Amfiteatrul din Saintes",
+                  "text": "Unul dintre cele mai bine conservate amfiteatre romane din Galia, martor al spectacolelor antice de acum 2000 de ani.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Abbaye aux Dames",
+                  "text": "Prima mănăstire de maici din regiune, o bijuterie a arhitecturii romanice transformată astăzi în centru muzical.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arcul lui Germanicus",
+                  "text": "Construit în anul 18 d.Hr., acest arc de triumf roman a fost salvat de la demolare și mutat pe malul râului.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bazilica Saint-Eutrope",
+                  "text": "O etapă importantă pe drumul către Santiago de Compostela, celebră pentru cripta sa romanică monumentală.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala Saint-Pierre",
+                  "text": "Se remarcă prin clopotnița sa neterminată și portalul gotic flamboaiant, fiind un monument istoric de seamă.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Amphitheatre of Saintes",
+                  "text": "One of the best-preserved Roman arenas in Gaul, which once hosted gladiator fights for thousands of spectators.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Abbaye aux Dames",
+                  "text": "The region's first nunnery is a Romanesque gem and now serves as a vibrant center for music and cultural events.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arch of Germanicus",
+                  "text": "Built in 18 AD, this Roman triumphal arch was originally located on a bridge across the Charente River.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Basilica of Saint-Eutrope",
+                  "text": "A major stop on the Way of St. James, featuring one of the largest and most impressive Romanesque crypts.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Pierre Cathedral",
+                  "text": "Notable for its unfinished bell tower and ornate flamboyant Gothic portal, it remains a landmark of the city.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "rochefort",
@@ -1913,6 +10671,160 @@ const citySeeds: CitySeed[] = [
       fr: ["La Corderie Royale mesure exactement 374 mètres de long", "Rochefort a été officiellement fondée en 1666", "Le pont transbordeur de Rochefort traverse la Charente", "Plus de 550 navires ont été construits dans l'arsenal de Rochefort au cours de l'histoire", "Le romancier Pierre Loti est né à Rochefort en 1850", "La ville compte aujourd'hui environ 23 500 habitants"],
     },
     image: "/poi-images/rochefort.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Corderie Royale",
+                  "text": "Ein prächtiges Seilerhaus aus dem 17. Jahrhundert, das für die Marine des Sonnenkönigs erbaut wurde und klassische Architektur zeigt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "L'Hermione",
+                  "text": "Eine originalgetreue Nachbildung der Fregatte, die Lafayette nach Amerika brachte, und ein Zeugnis traditioneller Schiffbaukunst.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée National de la Marine",
+                  "text": "In einem historischen Stadtpalais untergebracht, präsentiert dieses Museum die maritime Geschichte und den Schiffbau von Rochefort.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pont Transbordeur",
+                  "text": "Eine einzigartige Schwebefähre aus dem späten 19. Jahrhundert, die letzte ihrer Art in Frankreich, die über die Charente führt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place Colbert",
+                  "text": "Der zentrale Platz von Rochefort, bekannt für seine eleganten Steinfassaden und als Drehort des Films Die Mädchen von Rochefort.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maison de Pierre Loti",
+                  "text": "Das exzentrische und exotisch gestaltete Geburtshaus des berühmten Schriftstellers und Offiziers, ein Ort voller Reiseerinnerungen.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Corderie Royale",
+                  "text": "A Napkirály haditengerészete számára épült, lenyűgöző 17. századi kötélgyár, amely a klasszikus építészet egyik remekműve.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "L'Hermione",
+                  "text": "Annak a híres fregattnak a hű másolata, amely Lafayette-et Amerikába szállította, bemutatva a hagyományos hajóépítési mesterséget.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée National de la Marine",
+                  "text": "Az egykori Hôtel de Cheusses épületében található múzeum Rochefort gazdag tengerészeti és hajóépítési múltját mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pont Transbordeur",
+                  "text": "Egy egyedülálló, 19. század végi úszóhíd a Charente folyó felett, amely az utolsó ilyen típusú szerkezet Franciaországban.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place Colbert",
+                  "text": "Rochefort központi tere, amely elegáns kőhomlokzatairól és A rochefort-i lányok című filmben betöltött szerepéről ismert.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maison de Pierre Loti",
+                  "text": "A híres francia író és tengerésztiszt excentrikus és egzotikus gyermekkori otthona, amely különleges belső tereiről híres.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Corderie Royale",
+                  "text": "O fabrică de frânghii magnifică din secolul al XVII-lea, construită pentru marina Regelui Soare, cu o arhitectură clasică impresionantă.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "L'Hermione",
+                  "text": "O replică exactă a fregatei celebre care l-a dus pe Lafayette în America, demonstrând măiestria tradițională în construcția de nave.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée National de la Marine",
+                  "text": "Găzduit în Hôtel de Cheusses, acest muzeu explorează istoria navală bogată și tradiția construcțiilor navale din Rochefort.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pont Transbordeur",
+                  "text": "Un pod transbordor unic de la sfârșitul secolului al XIX-lea, ultimul de acest fel din Franța, care leagă malurile râului Charente.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place Colbert",
+                  "text": "Piața centrală din Rochefort, faimoasă pentru fațadele sale elegante de piatră și pentru rolul său în celebrul film Domnișoarele din Rochefort.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maison de Pierre Loti",
+                  "text": "Casa excentrică și exotică a celebrului scriitor și ofițer naval francez, cunoscută pentru decorurile sale interioare uimitoare.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Corderie Royale",
+                  "text": "A magnificent 17th-century rope factory built for the Sun King's navy, featuring impressive classical architecture.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "L'Hermione",
+                  "text": "An exact replica of the famous frigate that took Lafayette to America, showcasing traditional naval craftsmanship.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée National de la Marine",
+                  "text": "Housed in the Hôtel de Cheusses, this museum explores the rich naval and shipbuilding history of Rochefort.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pont Transbordeur",
+                  "text": "A unique late 19th-century transporter bridge, the last of its kind in France, connecting the banks of the Charente.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place Colbert",
+                  "text": "The central square of Rochefort, famous for its elegant stone facades and its role in the film The Young Girls of Rochefort.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maison de Pierre Loti",
+                  "text": "The eccentric and exotic childhood home of the famous French writer and naval officer, known for its amazing interiors.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "niort",
@@ -1947,6 +10859,160 @@ const citySeeds: CitySeed[] = [
       fr: ["Le donjon de Niort se compose de deux tours reliées par un corps de logis central.", "Niort est la quatrième place financière de France.", "La ville est située en bordure de la deuxième plus grande zone humide de France.", "Aliénor d'Aquitaine a accordé une charte communale à Niort en 1203.", "Les halles de Niort ont été édifiées en 1869.", "La ville compte aujourd'hui environ 59 000 habitants."],
     },
     image: "/poi-images/niort.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Le Donjon",
+                  "text": "Ein imposanter Doppelwohnturm aus dem 12. Jahrhundert, eines der schönsten Beispiele romanischer Militärarchitektur in Frankreich.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Le Pilori",
+                  "text": "Das ehemalige Rathaus ist ein architektonisches Juwel der Renaissance, benannt nach dem Pranger, der einst in der Nähe stand.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée Bernard d'Agesci",
+                  "text": "Ein vielseitiges Museum in einem ehemaligen Schulgebäude mit Sammlungen zu Kunst, Naturgeschichte und Bildungsgeschichte.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Église Saint-André",
+                  "text": "Eine beeindruckende neugotische Kirche aus dem 19. Jahrhundert, deren zwei Türme das Stadtbild von Niort maßgeblich prägen.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Halles de Niort",
+                  "text": "Eine lebendige Markthalle aus Glas und Stahl aus dem 19. Jahrhundert, die regionale Spezialitäten in authentischer Atmosphäre bietet.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jardins de la Brèche",
+                  "text": "Ein weitläufiger moderner Park im Stadtzentrum, der auf einem ehemaligen Parkplatz angelegt wurde und eine grüne Oase bildet.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Le Donjon",
+                  "text": "Egy fenséges 12. századi kettős torony, amely a román stílusú katonai építészet egyik legszebb példája Franciaországban.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Le Pilori",
+                  "text": "Ez az egykori városháza a reneszánsz építészet egyik gyöngyszeme, nevét az egykor mellette álló szégyenoszlopról kapta.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée Bernard d'Agesci",
+                  "text": "Egy sokoldalú múzeum egy régi iskolaépületben, amely szépművészeti és természettudományi gyűjteményeknek ad otthont.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Église Saint-André",
+                  "text": "Egy gyönyörű, 19. századi neogótikus stílusú templom, amely két kiemelkedő tornyával uralja a város látképét.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Halles de Niort",
+                  "text": "Egy élettel teli, 19. századi üveg- és acélszerkezetű vásárcsarnok, ahol a legjobb helyi termékeket kínálják.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jardins de la Brèche",
+                  "text": "Egy hatalmas, modern park a város szívében, amely egy korábbi parkoló helyén jött létre, zöld pihenőhelyet nyújtva.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Le Donjon",
+                  "text": "O fortăreață impunătoare din secolul al XII-lea, unul dintre cele mai frumoase exemple de arhitectură militară romanică din Franța.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Le Pilori",
+                  "text": "Această fostă primărie este o bijuterie arhitecturală a Renașterii, numită după stâlpul infamiei care se afla odinioară în apropiere.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée Bernard d'Agesci",
+                  "text": "Un muzeu versatil situat într-o fostă școală, care adăpostește colecții de arte frumoase, istorie naturală și educație.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Église Saint-André",
+                  "text": "O biserică frumoasă din secolul al XIX-lea în stil neogotic, care domină panorama orașului cu cele două turle ale sale.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Halles de Niort",
+                  "text": "O hală de piață vibrantă din secolul al XIX-lea, construită din sticlă și oțel, oferind cele mai bune produse regionale.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jardins de la Brèche",
+                  "text": "Un parc modern vast în inima orașului, creat pe locul unei foste parcări pentru a oferi un spațiu verde de relaxare.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Le Donjon",
+                  "text": "A majestic double keep from the 12th century, one of the finest examples of Romanesque military architecture in France.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Le Pilori",
+                  "text": "This former town hall is an architectural gem of the Renaissance, named after the pillory that once stood nearby.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée Bernard d'Agesci",
+                  "text": "A versatile museum located in a former school, featuring collections of fine arts, natural history, and education.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Église Saint-André",
+                  "text": "A beautiful 19th-century church in neo-Gothic style, dominating the city skyline with its two prominent spires.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Halles de Niort",
+                  "text": "A vibrant 19th-century market hall made of glass and steel, offering the best regional products and local atmosphere.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jardins de la Brèche",
+                  "text": "A large modern park in the heart of the city, built over a former parking lot to create a green space for relaxation.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "dax",
@@ -1981,6 +11047,160 @@ const citySeeds: CitySeed[] = [
       fr: ["L'eau de la Fontaine Chaude jaillit à une température constante de 64 °C", "Dax est la première station thermale reconnue de France", "Les remparts romains de Dax datent du IVe siècle", "Les arènes de Dax ont été construites en 1913 dans un style néo-mauresque", "Dax accueille chaque année environ 60 000 curistes", "La ville compte aujourd'hui environ 21 000 habitants"],
     },
     image: "/poi-images/dax.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Fontaine Chaude",
+                  "text": "Eine Thermalquelle aus der Römerzeit, das Wahrzeichen von Dax, die Wasser mit einer konstanten Temperatur von 64 Grad liefert.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arènes de Dax",
+                  "text": "Eine wunderschöne Stierkampfarena aus dem Jahr 1913 im andalusischen Stil, die für lokale Feste und Spektakel genutzt wird.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cathédrale Notre-Dame",
+                  "text": "Eine prächtige Kathedrale, die im 17. Jahrhundert wiederaufgebaut wurde und ein beeindruckendes gotisches Portal besitzt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée de Borda",
+                  "text": "In einem Herrenhaus aus dem 16. Jahrhundert untergebracht, zeigt dieses Museum das archäologische Erbe von Dax und der Region.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Splendid Hotel",
+                  "text": "Ein Meisterwerk der Art-Déco-Architektur aus den 1920er Jahren, das Luxus und Eleganz im Zentrum der Kurstadt verkörpert.",
+                  "category": "hotel",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Atrium Casino",
+                  "text": "Ein beeindruckendes Art-Déco-Gebäude, entworfen von André Granet, das heute als Kulturzentrum und Theater dient.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fontaine Chaude",
+                  "text": "Egy római kori melegvizes forrás, amely Dax szimbóluma, és állandó 64 Celsius-fokos vizet bocsát ki magából.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arènes de Dax",
+                  "text": "Egy 1913-ban épült gyönyörű bikaviadal-aréna, amely az andalúz építészeti stílust tükrözi, és fesztiválok helyszíne.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cathédrale Notre-Dame",
+                  "text": "Egy fenséges, 17. században újjáépített székesegyház, amely egy lenyűgöző gótikus kapuval bír.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée de Borda",
+                  "text": "Egy 16. századi kastélyban található múzeum, amely Dax és a Landes régió régészeti és történelmi örökségét mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Splendid Hotel",
+                  "text": "Az 1920-as évek art deco építészetének remekműve, amely luxust és eleganciát kínál a termálváros szívében.",
+                  "category": "hotel",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Atrium Casino",
+                  "text": "Egy lenyűgöző art deco épület, amelyet André Granet tervezett, és ma színházként, valamint kulturális központként működik.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fontaine Chaude",
+                  "text": "O sursă termală din epoca romană, simbolul orașului Dax, care produce apă la o temperatură constantă de 64 de grade Celsius.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arènes de Dax",
+                  "text": "O arenă de coridă superbă construită în 1913, reflectând stilul arhitectural andaluz, folosită pentru lupte cu tauri.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cathédrale Notre-Dame",
+                  "text": "O catedrală maiestuoasă reconstruită în secolul al XVII-lea, remarcabilă prin portalul gotic superb păstrat din structura originală.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée de Borda",
+                  "text": "Situat într-un conac din secolul al XVI-lea, acest muzeu explorează moștenirea arheologică și istorică a orașului Dax.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Splendid Hotel",
+                  "text": "O capodoperă a arhitecturii Art Deco din anii 1920, oferind lux și eleganță în inima acestui oraș balnear renumit.",
+                  "category": "hotel",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Atrium Casino",
+                  "text": "O clădire Art Deco uimitoare proiectată de André Granet, servind drept centru cultural cu teatru și săli de spectacole.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fontaine Chaude",
+                  "text": "A Roman-era hot spring that is the symbol of Dax, producing water at a constant temperature of 64 degrees Celsius.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arènes de Dax",
+                  "text": "A beautiful bullring built in 1913, reflecting Andalusian architectural style and used for bullfights and local festivals.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cathédrale Notre-Dame",
+                  "text": "A majestic cathedral rebuilt in the 17th century, featuring a stunning Gothic portal preserved from the original structure.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée de Borda",
+                  "text": "Located in a 16th-century mansion, this museum explores the archaeological and historical heritage of Dax and the Landes.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Splendid Hotel",
+                  "text": "A masterpiece of Art Deco architecture from the 1920s, offering luxury and elegance in the heart of this thermal city.",
+                  "category": "hotel",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Atrium Casino",
+                  "text": "A stunning Art Deco building designed by André Granet, serving as a cultural hub with its theater and entertainment halls.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "arcachon",
@@ -2015,6 +11235,160 @@ const citySeeds: CitySeed[] = [
       fr: ["La dune du Pilat atteint une hauteur allant jusqu'à 106 mètres", "La ville d'Hiver a été conçue dès 1862 comme station climatique", "Arcachon est devenue une commune autonome en 1857 par décret de Napoléon III", "Plus de 300 villas de la Belle Époque sont préservées dans la ville d'Hiver", "Le bassin d'Arcachon produit annuellement environ 8 000 à 10 000 tonnes d'huîtres", "La ville compte aujourd'hui environ 11 500 habitants"],
     },
     image: "/poi-images/arcachon.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Dune du Pilat",
+                  "text": "Die höchste Wanderdüne Europas, die einen atemberaubenden Blick auf den Atlantik und die umliegenden Pinienwälder bietet.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ville d'Hiver",
+                  "text": "Ein charmantes Viertel, bekannt für seine eklektischen Villen aus dem 19. Jahrhundert in verschiedenen Baustilen.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jetée Thiers",
+                  "text": "Die Hauptmole von Arcachon, ein lebendiger Ort und Ausgangspunkt für Bootsfahrten zum Cap Ferret und über die Bucht.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc Mauresque",
+                  "text": "Ein wunderschöner Park auf einer Anhöhe, der einst ein maurisches Casino beherbergte und heute botanische Gärten bietet.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Observatoire Sainte-Anne",
+                  "text": "Ein Aussichtsturm aus Metall, entworfen von Paul Régnauld, der einen 360-Grad-Panoramablick über die Bucht von Arcachon bietet.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Notre-Dame-des-Passes",
+                  "text": "Eine Kirche aus dem 19. Jahrhundert im byzantinischen Stil, die im Viertel Moulleau den Eingang zur Bucht überblickt.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dune du Pilat",
+                  "text": "Európa legmagasabb homokdűnéje, amely lélegzetelállító kilátást nyújt az Atlanti-óceánra és a környező fenyőerdőkre.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ville d'Hiver",
+                  "text": "Egy bájos negyed, amely eklektikus 19. századi villáiról híres, svájci, gótikus és mór stílusjegyeket ötvözve.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jetée Thiers",
+                  "text": "Arcachon fő mólója, egy élettel teli hely, ahonnan hajók indulnak a Cap Ferret-re, és remek kilátás nyílik az öbölre.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc Mauresque",
+                  "text": "Egy gyönyörű dombtetőn fekvő park, ahol egykor egy hatalmas mór stílusú kaszinó állt, ma botanikus kert és kilátóhely.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Observatoire Sainte-Anne",
+                  "text": "Egy Paul Régnauld által tervezett fém kilátótorony, amely 360 fokos panorámát kínál az Arcachon-öbölre.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Notre-Dame-des-Passes",
+                  "text": "Egy 19. századi, bizánci stílusban épült templom, amely az öböl bejáratára néz a Moulleau negyedben.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dune du Pilat",
+                  "text": "Cea mai înaltă dună de nisip din Europa, oferind vederi spectaculoase asupra Oceanului Atlantic și a pădurilor de pini.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ville d'Hiver",
+                  "text": "Un cartier fermecător, faimos pentru vilele sale eclectice din secolul al XIX-lea, care îmbină stilurile gotic și maur.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jetée Thiers",
+                  "text": "Principalul debarcader din Arcachon, un punct plin de viață ideal pentru plecări spre Cap Ferret și pentru a admira golful.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc Mauresque",
+                  "text": "Un parc frumos situat pe deal, unde se afla odinioară un cazinou în stil maur, oferind astăzi grădini botanice și panorame.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Observatoire Sainte-Anne",
+                  "text": "Un turn de observație din metal proiectat de Paul Régnauld, oferind o vedere panoramică de 360 de grade asupra golfului.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Notre-Dame-des-Passes",
+                  "text": "O biserică din secolul al XIX-lea construită în stil bizantin, situată în cartierul Moulleau, cu vedere spre intrarea în golf.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dune du Pilat",
+                  "text": "The tallest sand dune in Europe, offering breathtaking views of the Atlantic Ocean and the surrounding pine forests.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ville d'Hiver",
+                  "text": "A charming neighborhood famous for its eclectic 19th-century villas, showcasing a mix of Swiss, Gothic, and Moorish styles.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jetée Thiers",
+                  "text": "The main pier of Arcachon, a lively spot perfect for departures to Cap Ferret and enjoying views of the bay.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc Mauresque",
+                  "text": "A beautiful hilltop park that once housed a grand Moorish-style casino, now offering botanical gardens and viewpoints.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Observatoire Sainte-Anne",
+                  "text": "A metal lookout tower designed by Paul Régnauld, offering a panoramic 360-degree view of the Arcachon Bay.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Notre-Dame-des-Passes",
+                  "text": "A 19th-century church built in the Byzantine style, overlooking the entrance to the bay in the Moulleau district.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "royan",
@@ -2049,6 +11423,160 @@ const citySeeds: CitySeed[] = [
       fr: ["L'église Notre-Dame de Royan a été inaugurée en 1958", "Royan a été détruite en janvier et avril 1945 par des bombardements alliés", "Le phare de Cordouan est situé à environ 7 kilomètres de la côte", "La plage de la Grande Conche mesure plus de 2 kilomètres de long", "Le marché central de Royan a une forme de voûte caractéristique en béton", "La ville compte aujourd'hui environ 18 500 habitants"],
     },
     image: "/poi-images/royan.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Notre-Dame de Royan",
+                  "text": "Ein monumentales Betonbauwerk des Wiederaufbaus, berühmt für seine futuristische Ästhetik und Akustik.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zentralmarkt von Royan",
+                  "text": "Ein markantes Gebäude in Form einer Muschel, das 1955 als Herzstück des städtischen Lebens errichtet wurde.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plage de la Grande Conche",
+                  "text": "Der wichtigste Sandstrand der Stadt, gesäumt von Villen aus der Belle Époque und modernen Bauten.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Leuchtturm von Cordouan",
+                  "text": "Der älteste noch aktive Leuchtturm Frankreichs, ein UNESCO-Welterbe inmitten der Gironde-Mündung.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Planet Exotica",
+                  "text": "Ein weitläufiger botanischer Garten mit exotischen Tieren, Reptilien und einer Sammlung alter Olivenbäume.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée de Royan",
+                  "text": "In einem ehemaligen Marktgebäude untergebracht, dokumentiert es die lokale Geschichte von der Antike bis heute.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Notre-Dame de Royan",
+                  "text": "A vasbeton építészet remekműve, amely a város 1945-ös pusztulása utáni újjáépítés egyik jelképe lett.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Royan központi piaca",
+                  "text": "Kagyló alakú modern vásárcsarnok, amely 1955-ben épült és Royan gasztronómiai életének központja.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plage de la Grande Conche",
+                  "text": "Royan fő homokos strandja, amelyet gyönyörű villák és modern sétányok szegélyeznek.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cordouan világítótorony",
+                  "text": "Franciaország legrégebbi aktív világítótornya, az UNESCO világörökség része a torkolatnál.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Planet Exotica",
+                  "text": "Botanikus és zoológiai park, ahol egzotikus állatok és ezeréves olajfák várják a látogatókat.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Royan Múzeum",
+                  "text": "A város történelmét bemutató múzeum, különös tekintettel a második világháborús eseményekre.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Notre-Dame de Royan",
+                  "text": "O capodoperă a arhitecturii moderne din beton, construită după distrugerea orașului în 1945.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Centrală din Royan",
+                  "text": "O piață acoperită cu un design inovator în formă de scoică, inima comerțului local din Royan.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plaja Grande Conche",
+                  "text": "Plaja principală cu nisip fin, celebră pentru vilele sale istorice și atmosfera de vacanță.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Farul Cordouan",
+                  "text": "Cel mai vechi far din Franța încă în activitate, inclus în patrimoniul mondial UNESCO.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Planet Exotica",
+                  "text": "Un parc botanic și zoologic fascinant care găzduiește animale exotice și o grădină de măslini vechi.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul din Royan",
+                  "text": "Situat într-o fostă hală, acest muzeu prezintă istoria locală, de la antichitate până la reconstrucție.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Notre-Dame de Royan",
+                  "text": "A masterpiece of modern concrete architecture, built as a symbol of the city's reconstruction after 1945.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Royan Central Market",
+                  "text": "An iconic shell-shaped market hall built in 1955, serving as the vibrant heart of Royan's food scene.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plage de la Grande Conche",
+                  "text": "The main sandy beach of the resort, known for its vast size and beautiful waterfront villas.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cordouan Lighthouse",
+                  "text": "The oldest active lighthouse in France, a UNESCO World Heritage site located at the mouth of the estuary.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Planet Exotica",
+                  "text": "A large botanical and zoological park featuring exotic reptiles, birds, and ancient olive tree gardens.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Royan Museum",
+                  "text": "Housed in a former market building, this museum tracks the city's history from Roman times to the present.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "agen",
@@ -2083,6 +11611,160 @@ const citySeeds: CitySeed[] = [
       fr: ["Préfecture du département de Lot-et-Garonne", "Cathédrale Saint-Caprais au patrimoine mondial de l'UNESCO depuis 1998", "Le pont-canal d'Agen mesure 539 mètres de long", "Connue pour l'appellation protégée 'Pruneaux d'Agen'", "Le nom antique de la ville était Aginnum", "Abrite le Musée des Beaux-Arts avec des œuvres de Goya"],
     },
     image: "/poi-images/agen.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kanalbrücke von Agen",
+                  "text": "Beeindruckende Brücke, die den Garonne-Seitenkanal über den Fluss führt, ein technisches Denkmal des 19. Jahrhunderts.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kathedrale Saint-Caprais",
+                  "text": "Eine prächtige romanische Kathedrale, die Teil des UNESCO-Welterbes des Jakobswegs ist.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée des Beaux-Arts",
+                  "text": "In vier Renaissance-Palästen untergebracht, beherbergt es eine reiche Sammlung von Goya bis Impressionismus.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Église des Jacobins",
+                  "text": "Eine gotische Dominikanerkirche aus dem 13. Jahrhundert, die heute für kulturelle Ausstellungen genutzt wird.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc Naturel de Passeligne",
+                  "text": "Ein riesiges Naherholungsgebiet mit Seen und Wegen, ideal für Spaziergänge und sportliche Aktivitäten.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place des Laitiers",
+                  "text": "Ein malerischer Platz im Herzen der Altstadt, umgeben von Cafés und historischen Fachwerkhäusern.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ageni csatornahíd",
+                  "text": "Hatalmas kőhíd, amely a csatornát vezeti át a Garonne folyó felett, lenyűgöző 19. századi mérnöki alkotás.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Caprais katedrális",
+                  "text": "Gyönyörű román stílusú székesegyház, amely az El Camino zarándokút részeként világörökségi helyszín.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ageni Szépművészeti Múzeum",
+                  "text": "Négy reneszánsz palotában elhelyezett szépművészeti múzeum, Goya és más mesterek műveivel.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jacobins templom",
+                  "text": "13. századi gótikus templom, amely egykor dominikánus kolostor volt, ma kulturális központ.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Passeligne Természeti Park",
+                  "text": "Hatalmas természeti park tavakkal és sportpályákkal, Agen kedvelt szabadidős helyszíne.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place des Laitiers",
+                  "text": "Hangulatos történelmi tér a városközpontban, amely egykor a tejárusok piaca volt.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Podul-canal din Agen",
+                  "text": "Un pod spectaculos din piatră care transportă canalul peste fluviul Garonne, un monument tehnic remarcabil.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala Saint-Caprais",
+                  "text": "O catedrală romanică superbă, inclusă în patrimoniul UNESCO ca parte a drumului spre Compostela.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul de Arte Frumoase",
+                  "text": "Găzduit în patru conace renascentiste, muzeul deține colecții valoroase, inclusiv lucrări de Goya.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Iacobinilor",
+                  "text": "O biserică gotică impunătoare din secolul al XIII-lea, fostă mănăstire dominicană, astăzi spațiu cultural.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Natural Passeligne",
+                  "text": "Un parc natural vast cu lacuri și piste pentru biciclete, perfect pentru relaxare în aer liber.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Laitiers",
+                  "text": "O piață istorică plină de viață în centrul vechi, înconjurată de clădiri vechi și cafenele primitoare.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Agen Canal Bridge",
+                  "text": "A magnificent 19th-century stone bridge that carries the canal over the Garonne River, a feat of engineering.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Caprais Cathedral",
+                  "text": "A beautiful Romanesque cathedral and UNESCO World Heritage site on the Way of Saint James.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fine Arts Museum of Agen",
+                  "text": "Set in four Renaissance mansions, this fine arts museum holds impressive collections, including Goyas.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jacobins Church",
+                  "text": "A striking 13th-century Gothic church, formerly a Dominican convent, now used for art exhibitions.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Passeligne Natural Park",
+                  "text": "A massive green space with lakes and trails, offering a natural escape near the city center.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place des Laitiers",
+                  "text": "A charming historic square in the old town, once the dairy market, now a popular gathering spot.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "brive-la-gaillarde",
@@ -2117,6 +11799,160 @@ const citySeeds: CitySeed[] = [
       fr: ["Plus grande ville du département de la Corrèze", "Libération de l'occupation le 15 août 1944", "La collégiale Saint-Martin date du XIIe siècle", "Son célèbre marché a été chanté par Georges Brassens", "Le club de rugby CA Brive a remporté la Coupe d'Europe en 1997", "Carrefour entre le Limousin, le Périgord et le Quercy"],
     },
     image: "/poi-images/brive-la-gaillarde.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Collégiale Saint-Martin",
+                  "text": "Die wichtigste Kirche der Stadt mit einer romanischen Krypta und beeindruckenden Kapitellen aus dem 12. Jahrhundert.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Georges Brassens Markt",
+                  "text": "Ein berühmter Lebensmittelmarkt, der durch ein Chanson des Sängers Georges Brassens Weltruhm erlangte.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée Labenche",
+                  "text": "Das Museum für Kunst und Geschichte ist in einem prächtigen Renaissance-Palast mit wunderschönem Innenhof untergebracht.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Distillerie Denoix",
+                  "text": "Eine traditionsreiche Brennerei aus dem Jahr 1839, bekannt für ihren Walnusslikör und antike Kupferkessel.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tour des Échevins",
+                  "text": "Ein markanter Renaissanceturm in der Altstadt, der einst Teil des Rathauses von Brive-la-Gaillarde war.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc de la Guierle",
+                  "text": "Ein schöner Stadtpark am Ufer der Corrèze, der zum Entspannen und zu Spaziergängen im Grünen einlädt.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szent Márton templom",
+                  "text": "A város legfontosabb temploma, amely híres román kori kriptájáról és 12. századi faragott oszlopfőiről.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Georges Brassens piac",
+                  "text": "Híres helyi piac, amelyet Georges Brassens énekes tett halhatatlanná egyik legismertebb dalában.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Labenche Múzeum",
+                  "text": "Művészeti és történelmi múzeum egy pazar reneszánsz palotában, amely Brive gazdag múltját mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Denoix lepárló",
+                  "text": "1839-ben alapított hagyományos lepárló, amely híres diólikőrjéről és megőrzött ipari örökségéről.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tour des Échevins",
+                  "text": "Díszes reneszánsz torony az óváros szívében, amely a város egykori közigazgatási hatalmát jelképezi.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc de la Guierle",
+                  "text": "Kellemes városi park a Corrèze folyó partján, amely ideális hely a pihenésre és szabadtéri eseményekre.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Collégiale Saint-Martin",
+                  "text": "Principala biserică a orașului, renumită pentru cripta sa romanică și capitelurile sculptate din secolul XII.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Georges Brassens",
+                  "text": "O piață locală celebră, imortalizată în cântecele interpretului Georges Brassens, inima orașului.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Labenche",
+                  "text": "Muzeul de Artă și Istorie, găzduit într-un palat renascentist superb, cu colecții variate de tapiserii.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Distileria Denoix",
+                  "text": "O distilerie istorică fondată în 1839, celebră pentru lichiorul de nuci fabricat prin metode tradiționale.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tour des Échevins",
+                  "text": "Un turn renascentist elegant situat în centrul istoric, martor al arhitecturii civile vechi din Brive.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Guierle",
+                  "text": "Un parc municipal frumos situat de-a lungul râului Corrèze, oferind spații verzi pentru recreere.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saint-Martin Collegiate Church",
+                  "text": "The city's main collegiate church, featuring a Romanesque crypt and beautiful 12th-century carvings.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Georges Brassens Market",
+                  "text": "A famous local market immortalized by the singer Georges Brassens, known for its vibrant atmosphere.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Labenche Museum",
+                  "text": "The Museum of Art and History, located in a stunning Renaissance palace with a rich collection of tapestries.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Denoix Distillery",
+                  "text": "A traditional distillery dating back to 1839, world-famous for its walnut liqueur and historic equipment.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tour des Échevins",
+                  "text": "A striking Renaissance tower in the heart of the old town, showcasing the city's historical architecture.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc de la Guierle",
+                  "text": "A pleasant public park set along the banks of the Corrèze River, perfect for a walk or a relaxing break.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "bergerac",
@@ -2151,6 +11987,160 @@ const citySeeds: CitySeed[] = [
       fr: ["Cœur d'un vignoble comptant 13 appellations d'origine contrôlée (AOC).", "Abrite l'unique Musée National du Tabac.", "Statues de Cyrano de Bergerac érigées dans le centre-ville.", "La vieille ville conserve de nombreuses maisons à colombages du XVe siècle.", "Situation privilégiée sur les bords de la Dordogne, en Périgord Pourpre.", "Ancien port fluvial majeur pour l'exportation des vins de Monbazillac."],
     },
     image: "/poi-images/bergerac.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Cyrano-Statue",
+                  "text": "Denkmal für den berühmten Helden von Rostand, das den Charme des historischen Place de la Mirpe unterstreicht.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tabakmuseum",
+                  "text": "In der Maison Peyrarède untergebracht, zeigt dieses einzigartige Museum die Geschichte des Tabaks weltweit.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maison des Vins",
+                  "text": "Ein ehemaliges Franziskanerkloster aus dem 17. Jahrhundert, in dem heute die Weine der Region präsentiert werden.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Altstadt von Bergerac",
+                  "text": "Das mittelalterliche Viertel mit seinen Fachwerkhäusern, gepflasterten Gassen und idyllischen Plätzen am Fluss.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gabarres de Bergerac",
+                  "text": "Traditionelle Boote, die Rundfahrten auf der Dordogne anbieten und einen Blick auf die Stadt vom Wasser ermöglichen.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kirche Notre-Dame",
+                  "text": "Eine neugotische Kirche aus dem 19. Jahrhundert, deren 80 Meter hoher Turm das Stadtbild von Bergerac prägt.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cyrano szobor",
+                  "text": "Cyrano de Bergerac híres szobra a Place de la Mirpe téren, amely a város irodalmi legendájának állít emléket.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dohánymúzeum",
+                  "text": "Európában egyedülálló dohánymúzeum a Peyrarède-házban, amely a növény termesztését és használatát mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Borok háza",
+                  "text": "Egy 17. századi egykori kolostorban működő borok háza, ahol megismerhetők a vidék híres borai.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bergerac óvárosa",
+                  "text": "A középkori óváros negyede gerendavázas házakkal, macskaköves utcákkal és hangulatos folyóparti részekkel.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gabarres de Bergerac",
+                  "text": "Hagyományos folyami hajók a Dordogne-on, amelyekről gyönyörű kilátás nyílik a városra és a természetre.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Notre-Dame templom",
+                  "text": "19. századi neogótikus templom, amelynek 80 méter magas tornya messziről látható a város felett.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Statuia lui Cyrano",
+                  "text": "Celebra statuie a lui Cyrano de Bergerac din Piața Mirpe, un omagiu adus legendarului personaj literar.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Tutunului",
+                  "text": "Găzduit în Casa Peyrarède, acest muzeu unic în Europa prezintă istoria tutunului din întreaga lume.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maison des Vins",
+                  "text": "Situată într-o mănăstire din secolul XVII, această casă a vinurilor oferă degustări din podgoriile locale.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Centrul vechi din Bergerac",
+                  "text": "Centrul vechi medieval cu case din bârne de lemn, străzi pavate și o atmosferă istorică deosebită.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gabarres de Bergerac",
+                  "text": "Ambarcațiuni tradiționale care oferă plimbări pe râul Dordogne, oferind o perspectivă unică asupra orașului.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Notre-Dame",
+                  "text": "O biserică neogotică impunătoare din secolul XIX, al cărei turn domină panorama orașului Bergerac.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Statue of Cyrano",
+                  "text": "The iconic statue of Cyrano de Bergerac in Place de la Mirpe, celebrating the city's most famous literary hero.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tobacco Museum",
+                  "text": "Located in the Maison Peyrarède, this unique museum explores the global history and culture of tobacco.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wine House of Bergerac",
+                  "text": "Housed in a beautiful 17th-century cloister, this center is dedicated to the prestigious wines of Bergerac.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Bergerac District",
+                  "text": "The medieval old town district, characterized by half-timbered houses, narrow alleys, and riverside charm.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gabarres de Bergerac",
+                  "text": "Traditional wooden boats that take visitors on scenic tours along the Dordogne River through the valley.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Notre-Dame Church",
+                  "text": "A massive 19th-century Neo-Gothic church whose 80-meter spire is a landmark visible from across the city.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "colmar",
@@ -2185,6 +12175,208 @@ const citySeeds: CitySeed[] = [
       fr: ["Ville natale de Frédéric-Auguste Bartholdi", "Abrite le retable d'Issenheim au musée Unterlinden", "Quartier de la Petite Venise avec des maisons à pans de bois au bord de la Lauch", "Considérée comme la capitale des vins d'Alsace", "L'un des microclimats les plus secs de toute la France", "Le Koïfhus est le plus ancien bâtiment public de la ville"],
     },
     image: "/poi-images/colmar.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Klein-Venedig (Petite Venise)",
+                  "text": "Ein malerisches Viertel mit farbenfrohen Fachwerkhäusern entlang des Flusses Lauch, ideal für romantische Kahnfahrten.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Unterlinden-Museum",
+                  "text": "Eines der meistbesuchten Museen Frankreichs, das den berühmten Isenheimer Altar von Matthias Grünewald beherbergt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Martinsmünster",
+                  "text": "Eine bedeutende gotische Kirche aus gelbem Sandstein, die das Stadtbild von Colmar mit ihrem markanten Turm prägt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pfisterhaus",
+                  "text": "Ein prächtiges Renaissance-Haus aus dem Jahr 1537, bekannt für seine Wandmalereien und den hölzernen Eckerker.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Koifhus (Altes Kaufhaus)",
+                  "text": "Das älteste öffentliche Gebäude der Stadt, früher Zollstation und heute ein Zentrum für kulturelle Veranstaltungen.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bartholdi-Museum",
+                  "text": "Das Geburtshaus von Frédéric-Auguste Bartholdi, dem Schöpfer der Freiheitsstatue, gewidmet seinem Leben und Werk.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kopfhaus (Maison des Têtes)",
+                  "text": "Ein Renaissance-Gebäude, dessen Fassade mit über 100 kleinen Köpfen und Masken aus Stein verziert ist.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Champ-de-Mars",
+                  "text": "Ein großer öffentlicher Park im Zentrum, der zum Entspannen einlädt und Statuen lokaler Berühmtheiten zeigt.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kis Velence (Petite Venise)",
+                  "text": "Colmar legfestőibb negyede a Lauch-folyó mentén, színes gerendavázas házakkal és virágos csatornaparttal.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Unterlinden Múzeum",
+                  "text": "Egy egykori kolostorban működő világhírű múzeum, ahol a lenyűgöző isenheimi szárnyasoltár látható.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Márton-templom",
+                  "text": "A város monumentális gótikus katedrálisa, amely sárga homokkőből épült a 13. és 14. század között.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pfister-ház",
+                  "text": "Az 1537-ben épült reneszánsz polgárház Colmar egyik jelképe, díszes falfestményeivel és fatornyával.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Koifhus (Régi Vámszékház)",
+                  "text": "Középkori kereskedelmi és vámépület színes tetőcserepekkel, amely ma kiállításoknak ad otthont.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bartholdi Múzeum",
+                  "text": "A Szabadság-szobor alkotójának szülőháza, ahol a művész vázlatai és modelljei tekinthetőek meg.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fejek háza (Maison des Têtes)",
+                  "text": "Különleges reneszánsz palota, melynek homlokzatát több mint száz faragott kőfej díszíti.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dominikánus templom",
+                  "text": "Gótikus épület, amely Martin Schongauer híres 'Rózsakerti Madonna' című festményét őrzi.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mica Veneție (Petite Venise)",
+                  "text": "Un cartier idilic cu case tradiționale colorate, situate de-a lungul canalelor râului Lauch din Colmar.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Unterlinden",
+                  "text": "Găzduit într-o fostă mănăstire, acest muzeu de renume mondial deține celebrul Altar din Isenheim.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfântul Martin",
+                  "text": "O capodoperă a arhitecturii gotice din gresie galbenă, considerată adesea catedrala orașului Colmar.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maison Pfister",
+                  "text": "Cea mai faimoasă casă din oraș, construită în 1537, remarcabilă prin frescele sale și balconul de lemn.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Koifhus (Vechea Vamă)",
+                  "text": "Cea mai veche clădire publică din Colmar, reprezentând centrul economic al orașului în Evul Mediu.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Bartholdi",
+                  "text": "Dedicat sculptorului Auguste Bartholdi, creatorul Statuii Libertății, situat în casa sa natală.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maison des Têtes",
+                  "text": "O clădire renascentistă spectaculoasă, numită după cele 106 capete sculptate care îi decorează fațada.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Dominicanilor",
+                  "text": "O biserică gotică sobră ce adăpostește pictura 'Fecioara din tufa de trandafiri' de Martin Schongauer.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Little Venice (Petite Venise)",
+                  "text": "A picturesque area of the city with colorful half-timbered houses lining the canals of the Lauch river.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Unterlinden Museum",
+                  "text": "One of France's most important museums, famous for housing the Isenheim Altarpiece in a former convent.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Martin's Church",
+                  "text": "A large Gothic church built of yellow sandstone, serving as the principal religious landmark of Colmar.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pfister House",
+                  "text": "Built in 1537, this Renaissance jewel is famous for its ornate murals and distinctive wooden turret.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Koifhus (Old Custom House)",
+                  "text": "The oldest public building in Colmar, once a center for trade and customs in the heart of the town.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bartholdi Museum",
+                  "text": "The birthplace of Frédéric-Auguste Bartholdi, creator of the Statue of Liberty, showcasing his work and life.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "House of the Heads (Maison des Têtes)",
+                  "text": "A remarkable 17th-century building featuring over 100 carved stone heads decorating its unique facade.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Champ-de-Mars",
+                  "text": "A large central park featuring pleasant walkways, fountains, and statues of prominent local figures.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "epinal",
@@ -2219,6 +12411,184 @@ const citySeeds: CitySeed[] = [
       fr: ["Patrie des célèbres images d'Épinal", "La basilique Saint-Maurice a été fondée au XIe siècle", "Située sur la Moselle au cœur du massif des Vosges", "Considérée comme l'une des villes les plus boisées de France", "Ruines d'un château du XIIIe siècle surplombant la ville", "Siège de l'Imagerie d'Épinal, fondée en 1796"],
     },
     image: "/poi-images/epinal.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Musée de l'Image",
+                  "text": "Ein einzigartiges Museum, das der Geschichte der berühmten 'Bilder von Épinal' und der Druckgrafik gewidmet ist.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Basilika Saint-Maurice",
+                  "text": "Eine gotische Basilika aus dem 13. Jahrhundert mit einer Mischung aus romanischen und burgundischen Einflüssen.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Burgruine Épinal",
+                  "text": "Überreste der alten Festung auf einem Hügel, umgeben von einem Park mit Tiergehege und Blick auf die Stadt.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place des Vosges",
+                  "text": "Der zentrale Platz der Stadt mit Renaissance-Häusern und Laubengängen, das historische Herz von Épinal.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc du Château",
+                  "text": "Eine weitläufige Grünanlage rund um die Schlossruine, ideal für Spaziergänge und Familienausflüge.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée Départemental d'Art Ancien et Contemporain",
+                  "text": "Beherbergt bedeutende Sammlungen von der Archäologie bis zur modernen Kunst in einem markanten Gebäude an der Mosel.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rosengarten (Roseraie d'Épinal)",
+                  "text": "Ein wunderschöner Garten mit über 500 Rosensorten am Ufer der Mosel.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Képmúzeum (Musée de l'Image)",
+                  "text": "A világhírű Épinal-nyomatok történetét bemutató múzeum, amely a népi grafika kincseit őrzi.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Móric-bazilika",
+                  "text": "A város 13. századi gótikus bazilikája, amely ötvözi a rajnai és burgundiai építészeti stílusokat.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Épinal várának romjai",
+                  "text": "A város feletti dombon található középkori vár maradványai, melyet hatalmas park vesz körül.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place des Vosges",
+                  "text": "Épinal főtere jellegzetes árkádos házaival, amely a középkori kereskedelem központja volt.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Várpark (Parc du Château)",
+                  "text": "Népszerű pihenőhely állatkerttel és kilátással a városra, a hajdani vár területén kialakítva.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Régi és Kortárs Művészeti Múzeum",
+                  "text": "A Moselle partján fekvő intézmény gazdag művészeti és régészeti gyűjteménnyel büszkélkedhet.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rózsakert (Roseraie d'Épinal)",
+                  "text": "A folyóparton fekvő kert, ahol több száz rózsafajta virágzik a nyári hónapokban.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeul Imaginii",
+                  "text": "Un muzeu inedit dedicat faimoaselor stampe de Épinal și istoriei graficii populare.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bazilica Saint-Maurice",
+                  "text": "O bazilică gotică impresionantă din secolul al XIII-lea, monument istoric simbol al orașului.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ruinele Castelului din Épinal",
+                  "text": "Situate pe o colină, ruinele cetății oferă o panoramă superbă și sunt înconjurate de un parc vast.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place des Vosges",
+                  "text": "Piața centrală istorică, bordată de case cu arcade din perioada Renașterii.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Castelului",
+                  "text": "Un spațiu verde generos ce include o grădină zoologică mică și zone de promenadă pe locul fostei cetăți.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Departamental de Artă Veche și Contemporană",
+                  "text": "Adăpostește colecții diverse de artă, de la capodopere clasice la instalații moderne, pe malul Moselei.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rozariul din Épinal",
+                  "text": "O grădină fermecătoare situată lângă râu, renumită pentru diversitatea speciilor de trandafiri.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of the Image (Musée de l'Image)",
+                  "text": "A unique museum dedicated to the famous 'Épinal prints' and the history of popular imagery.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Basilica of Saint-Maurice",
+                  "text": "A 13th-century Gothic basilica featuring a distinctive architecture that blends various regional styles.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castle Ruins of Épinal",
+                  "text": "The remains of the medieval fortress overlooking the city, set within a large public park.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place des Vosges",
+                  "text": "The historic main square of Épinal, famous for its Renaissance arcaded houses and lively atmosphere.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castle Park (Parc du Château)",
+                  "text": "A vast hilltop park surrounding the ruins, including a small animal park and botanical gardens.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Departmental Museum of Ancient and Contemporary Art",
+                  "text": "Located on the banks of the Moselle, it houses extensive collections from archaeology to modern art.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Épinal Rose Garden",
+                  "text": "A beautiful riverside garden showcasing a vast collection of rose varieties in a serene setting.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "thionville",
@@ -2253,6 +12623,184 @@ const citySeeds: CitySeed[] = [
       fr: ["Ancienne résidence des comtes de Luxembourg", "Beffroi du XIVe siècle comme emblème", "Centre important de l'industrie sidérurgique lorraine", "La Tour aux Puces abrite un musée archéologique", "Position stratégique au carrefour de la France, du Luxembourg et de l'Allemagne", "Le château de Meilbourg se trouve à proximité immédiate"],
     },
     image: "/poi-images/thionville.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Tour aux Puces (Flohturm)",
+                  "text": "Ein ehemaliger Bergfried der Grafen von Luxemburg, der heute das Stadtmuseum für Archäologie beherbergt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kirche Saint-Maximin",
+                  "text": "Eine klassizistische Kirche aus dem 18. Jahrhundert mit einer beeindruckenden Orgel und prächtiger Ausstattung.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Belfried (Beffroi)",
+                  "text": "Das Wahrzeichen der städtischen Freiheit mit einer Glocke aus dem 17. Jahrhundert, ehemals Teil des Rathauses.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc Napoléon",
+                  "text": "Ein charmanter Stadtpark am Ufer der Mosel, ideal für ruhige Spaziergänge unter altem Baumbestand.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Altes Rathaus (Hôtel de Ville)",
+                  "text": "Ein historisches Gebäude aus dem 17. Jahrhundert, das die administrative Geschichte der Stadt widerspiegelt.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pont des Alliés",
+                  "text": "Eine wichtige Brücke über die Mosel, die das Stadtzentrum mit den Vororten verbindet und schöne Ausblicke bietet.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ouvrage Hackenberg",
+                  "text": "Ein Teil der Maginot-Linie in der Nähe von Thionville, eine riesige unterirdische Festungsanlage.",
+                  "category": "fortress",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bolhatorony (Tour aux Puces)",
+                  "text": "A luxemburgi grófok egykori vártornya, amely ma Thionville régészeti és történelmi múzeuma.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Maximin-templom",
+                  "text": "18. századi klasszicista templom, amely monumentális orgonájáról és belső díszítéséről nevezetes.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Harangtorony (Beffroi)",
+                  "text": "A városi önkormányzat középkori szimbóluma, amely Thionville történelmi központjában magasodik.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Napóleon park",
+                  "text": "A Moselle folyó partján fekvő kellemes közpark, amely a pihenni vágyó helyiek kedvelt helye.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Régi városháza",
+                  "text": "17. századi épület a főtéren, amely a város gazdag múltját és politikai jelentőségét hirdeti.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wilson kert (Jardin Wilson)",
+                  "text": "Gondozott virágágyásokkal díszített városi kert, amely nyugodt szigetet képez a belvárosban.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hackenberg erőd",
+                  "text": "A közeli Maginot-vonal legnagyobb erődítménye, amely ma múzeumként látogatható.",
+                  "category": "fortress",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Turnul Puricilor (Tour aux Puces)",
+                  "text": "Fost donjon al castelului conților de Luxemburg, adăpostește astăzi muzeul de istorie al orașului.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Saint-Maximin",
+                  "text": "O biserică monumentală în stil clasic, renumită pentru acustica sa și marea orgă istorică.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Beffroi (Turnul cu clopot)",
+                  "text": "Simbol al libertăților comunale, acest turn veghează asupra centrului vechi încă din secolul al XIV-lea.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Napoleon",
+                  "text": "Oază de verdeață situată pe malul râului Moselle, oferind alei umbroase și locuri de relaxare.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria Veche",
+                  "text": "Clădire istorică datând din secolul al XVII-lea, remarcabilă prin arhitectura sa civilă specifică regiunii.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădina Wilson",
+                  "text": "O grădină publică elegantă în centrul orașului, perfectă pentru o pauză în natură.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fortăreața Hackenberg",
+                  "text": "O componentă masivă a Liniei Maginot din apropiere, un sit militar subteran impresionant.",
+                  "category": "fortress",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Flea Tower (Tour aux Puces)",
+                  "text": "The former keep of the Counts of Luxembourg's castle, now housing the municipal museum of archaeology.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Maximin's Church",
+                  "text": "An 18th-century neoclassical church known for its grand interior and prestigious pipe organ.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Belfry of Thionville",
+                  "text": "A historic tower symbolizing the city's civic independence, dating back to the Middle Ages.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Napoleon Park",
+                  "text": "A scenic park located along the Moselle river, offering green spaces and walking paths.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Town Hall",
+                  "text": "A notable 17th-century building in the heart of the old town, showcasing traditional architecture.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wilson Garden",
+                  "text": "A peaceful and well-maintained public garden located near the historic center of Thionville.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hackenberg Fort",
+                  "text": "One of the largest fortifications of the Maginot Line, situated just outside the city.",
+                  "category": "fortress",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "charleville-mezieres",
@@ -2287,6 +12835,208 @@ const citySeeds: CitySeed[] = [
       fr: ["Née en 1966 de la fusion de deux communes", "La place Ducale est la réplique de la place des Vosges", "Capitale mondiale des arts de la marionnette", "Ville natale du poète Arthur Rimbaud", "Basilique Notre-Dame-d'Espérance aux vitraux de Dürrbach", "Principale étape sur la Meuse dans le département des Ardennes"],
     },
     image: "/poi-images/charleville-mezieres.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Place Ducale",
+                  "text": "Ein prachtvoller Platz im Barockstil, der als Zwillingsplatz der Place des Vosges in Paris gilt.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rimbaud-Museum",
+                  "text": "Gewidmet dem berühmten Dichter Arthur Rimbaud, untergebracht in einer alten Mühle am Ufer der Maas.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Basilika Notre-Dame d'Espérance",
+                  "text": "Eine gotische Basilika in Mézières, bekannt für ihre modernen Glasmalereien von René Dürrbach.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Große Marionette (Le Grand Marionnettiste)",
+                  "text": "Eine riesige mechanische Uhr, die stündlich Szenen aus der Sage der vier Haimonskinder darstellt.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Haus des Dichters (Maison des Ailleurs)",
+                  "text": "Das Haus, in dem Arthur Rimbaud seine Jugend verbrachte, heute ein Ort der Inspiration und Literatur.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maas-Ufer (Berges de la Meuse)",
+                  "text": "Schön angelegte Wege entlang des Flusses, die zu Spaziergängen und Radtouren einladen.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum der Ardennen",
+                  "text": "Ein Museum zur Geschichte und Volkskunde der Region Ardennen, direkt an der Place Ducale gelegen.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stadtbefestigung von Mézières",
+                  "text": "Überreste der alten Stadtmauer und Türme, die den militärischen Charakter des Stadtteils Mézières zeigen.",
+                  "category": "fortress",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Place Ducale",
+                  "text": "A város lélegzetelállító barokk főtere, a párizsi Place des Vosges építészeti ikertestvére.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rimbaud Múzeum",
+                  "text": "A város híres szülöttének, Arthur Rimbaud költőnek szentelt múzeum egy régi malom épületében.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Notre-Dame d'Espérance bazilika",
+                  "text": "Mézières gótikus bazilikája, amely különleges modern üvegablakairól nevezetes.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "A Nagy Bábu (Le Grand Marionnettiste)",
+                  "text": "Hatalmas mechanikus óra, amely óránként bábjátékkal eleveníti fel a helyi legendákat.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rimbaud szülőháza (Maison des Ailleurs)",
+                  "text": "A költő gyermekkori otthona, amely ma emlékházként és irodalmi központként működik.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ardennek Múzeuma",
+                  "text": "A régió történelmét, régészeti leleteit és néprajzát bemutató kiállítás a főtéren.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maas-parti sétány",
+                  "text": "A folyó mentén húzódó hangulatos sétány, amely összeköti a két városrészt.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mézières városfala",
+                  "text": "A középkori erődrendszer maradványai, bástyákkal és kapukkal a Maas folyó partján.",
+                  "category": "fortress",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Place Ducale",
+                  "text": "O piață barocă superbă, considerată sora geamănă a celebrei Place des Vosges din Paris.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Rimbaud",
+                  "text": "Dedicat poetului Arthur Rimbaud, situat într-o moară veche de pe malul fluviului Meuse.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bazilica Notre-Dame d'Espérance",
+                  "text": "Biserică gotică din Mézières celebră pentru vitraliile sale moderne realizate de René Dürrbach.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Marele Marionetist",
+                  "text": "Un ceas monumental animat care prezintă episoade din legenda celor patru fii ai lui Aymon.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Rimbaud (Maison des Ailleurs)",
+                  "text": "Locuința în care poetul și-a petrecut adolescența, transformată într-un spațiu cultural dedicat operei sale.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Ardenilor",
+                  "text": "Prezintă istoria, meșteșugurile și tradițiile regiunii Ardenne într-o clădire de pe Place Ducale.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Malurile fluviului Meuse",
+                  "text": "Zone de promenadă pitorești de-a lungul apei, ideale pentru recreere și ciclism.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fortificațiile din Mézières",
+                  "text": "Vestigii ale zidurilor de apărare și turnurilor medievale care protejau odinioară orașul.",
+                  "category": "fortress",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Place Ducale",
+                  "text": "A magnificent 17th-century square, architectural twin to the Place des Vosges in Paris.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rimbaud Museum",
+                  "text": "Housed in an old windmill, this museum is dedicated to the life and work of poet Arthur Rimbaud.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Basilica of Notre-Dame d'Espérance",
+                  "text": "A late Gothic basilica in Mézières famous for its remarkable contemporary stained-glass windows.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Great Puppeteer (Le Grand Marionnettiste)",
+                  "text": "A giant mechanical clock that tells the story of the Four Sons of Aymon every hour.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maison des Ailleurs (Rimbaud's House)",
+                  "text": "The former home of Arthur Rimbaud, now a literary house dedicated to his travels and poetry.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ardennes Museum",
+                  "text": "A rich museum exploring the archaeology, history, and folklore of the Ardennes region.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Meuse River Banks",
+                  "text": "Scenic walkways and green spaces along the Meuse river, connecting the city's historic districts.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mézières Fortifications",
+                  "text": "Historic defensive walls and towers that have survived from the medieval fortress of Mézières.",
+                  "category": "fortress",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "cherbourg-en-cotentin",
@@ -2321,6 +13071,160 @@ const citySeeds: CitySeed[] = [
       fr: ["Plus grande rade artificielle du monde (1 500 hectares)", "Unique escale continentale du Titanic en 1912", "Abrite le sous-marin nucléaire « Le Redoutable » à la Cité de la Mer", "Célèbre grâce au film « Les Parapluies de Cherbourg »", "Base navale stratégique depuis le règne de Louis XVI", "Le fort du Roule offre un panorama unique sur la rade"],
     },
     image: "/poi-images/cherbourg-en-cotentin.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "La Cité de la Mer",
+                  "text": "Ein großes Meeresmuseum im ehemaligen Transatlantik-Terminal, das ein berühmtes U-Boot und tiefe Aquarien beherbergt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fort du Roule",
+                  "text": "Diese Festung auf dem Gipfel des Roule-Berges bietet einen Panoramablick auf die Reede und beherbergt ein Museum.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Basilique Sainte-Trinité",
+                  "text": "Eine gotische Basilika aus dem 15. Jahrhundert, bekannt für ihre Architektur und die Lage im Herzen der Altstadt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée Thomas Henry",
+                  "text": "Das drittwichtigste Kunstmuseum der Normandie mit einer beeindruckenden Sammlung von Gemälden vom 15. bis zum 19. Jahrhundert.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc Emmanuel Liais",
+                  "text": "Ein wunderschöner botanischer Garten mit exotischen Pflanzen, Gewächshäusern und einem kleinen Naturkundemuseum.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Port de Chantereyne",
+                  "text": "Ein lebhafter Jachthafen, der ideal für Spaziergänge am Wasser ist und eine moderne maritime Atmosphäre bietet.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Cité de la Mer",
+                  "text": "Hatalmas tengerészeti múzeum egy egykori terminálban, ahol megtekinthető egy atomtengeralattjáró és mélytengeri akváriumok.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fort du Roule",
+                  "text": "A hegytetőn álló erődítmény pazar kilátást nyújt a kikötőre, és falai között a felszabadítási múzeum működik.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Basilique Sainte-Trinité",
+                  "text": "15. századi gótikus bazilika, amely a város egyik legfontosabb vallási és építészeti emléke a tengerpart közelében.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée Thomas Henry",
+                  "text": "Normandia harmadik legjelentősebb szépművészeti múzeuma, értékes festménygyűjteménnyel a 15-19. századból.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc Emmanuel Liais",
+                  "text": "Különleges botanikus kert egzotikus növényekkel, pálmaházakkal és egy kis természettudományi múzeummal a város szívében.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Port de Chantereyne",
+                  "text": "Cherbourg forgalmas jachtkikötője, amely népszerű helyszín a sétákhoz és a tengeri panoráma élvezetéhez.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Cité de la Mer",
+                  "text": "Un muzeu maritim spectaculos situat în terminalul transatlantic istoric, găzduind un submarin nuclear vizitabil.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fort du Roule",
+                  "text": "Fortificație situată pe muntele Roule, oferind o vedere panoramică asupra portului și adăpostind un muzeu al eliberării.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Basilique Sainte-Trinité",
+                  "text": "O bazilică gotică din secolul al XV-lea, reprezentativă pentru patrimoniul religios al orașului Cherbourg.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée Thomas Henry",
+                  "text": "Al treilea muzeu de artă ca importanță din Normandia, cu o colecție vastă de picturi europene clasice.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc Emmanuel Liais",
+                  "text": "Grădină botanică fermecătoare cu specii exotice, sere vechi și un mic muzeu de istorie naturală.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Port de Chantereyne",
+                  "text": "Portul de agrement principal al orașului, un loc vibrant pentru plimbări și admirarea iahturilor moderne.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "La Cité de la Mer",
+                  "text": "A massive maritime museum set in the historic transatlantic terminal, featuring a real nuclear submarine and deep aquariums.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fort du Roule",
+                  "text": "A fortress perched on a hill offering panoramic views of the harbor, housing a museum dedicated to the liberation.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Basilique Sainte-Trinité",
+                  "text": "A 15th-century Gothic basilica known for its architecture and standing as a key religious monument in the city center.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée Thomas Henry",
+                  "text": "Normandy's third most important fine arts museum, showcasing an impressive collection of paintings from the 15th-19th centuries.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc Emmanuel Liais",
+                  "text": "A lush botanical garden featuring exotic plants, old greenhouses, and a small natural history museum.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Port de Chantereyne",
+                  "text": "The city's bustling marina, providing a scenic spot for waterfront walks and nautical atmosphere.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "dieppe",
@@ -2355,6 +13259,160 @@ const citySeeds: CitySeed[] = [
       fr: ["Plus ancienne station balnéaire de France, fondée en 1824", "Lieu principal de l'Opération Jubilee le 19 août 1942", "Le musée du château possède une collection d'ivoires de renommée mondiale", "Premier port français pour la coquille Saint-Jacques", "Point de départ de la colonisation de la Nouvelle-France (Canada)", "Hôte du plus grand festival international de cerf-volant"],
     },
     image: "/poi-images/dieppe.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Château de Dieppe",
+                  "text": "Eine imposante Burg auf den Klippen, die heute ein Museum mit einer berühmten Elfenbeinsammlung beherbergt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Église Saint-Jacques",
+                  "text": "Eine prächtige gotische Kirche, die eine wichtige Station auf dem Jakobsweg nach Santiago de Compostela ist.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Estran Cité de la Mer",
+                  "text": "Ein Meereszentrum, das sich mit Fischerei, Schiffbau und der maritimen Umwelt der Küste befasst.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plage de Dieppe",
+                  "text": "Ein langer Kiesstrand, der von weißen Kreidefelsen gesäumt wird und für sein internationales Drachenfestival bekannt ist.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Notre-Dame de Bonsecours",
+                  "text": "Eine Kapelle auf den Klippen, die den Seeleuten gewidmet ist und einen herrlichen Blick auf die Stadt bietet.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pont Colbert",
+                  "text": "Die letzte große Drehbrücke Europas aus dem 19. Jahrhundert, die noch mit ihrem ursprünglichen hydraulischen System funktioniert.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Château de Dieppe",
+                  "text": "A sziklákon magasodó impozáns várkastély, amelyben várostörténeti múzeum és híres elefántcsont-gyűjtemény található.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Église Saint-Jacques",
+                  "text": "Pompás gótikus templom, amely fontos megállóhely a Szent Jakab-úton a zarándokok számára.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Estran Cité de la Mer",
+                  "text": "Tengerészeti központ, amely a halászatot, a hajóépítést és a tengeri élővilágot mutatja be interaktív módon.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plage de Dieppe",
+                  "text": "Hosszú kavicsos tengerpart fehér kréta sziklákkal övezve, amely a nemzetközi sárkányeregető fesztivál helyszíne.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Notre-Dame de Bonsecours",
+                  "text": "A sziklafalon álló kápolna a tengerészek emlékére, ahonnan lenyűgöző panoráma nyílik Dieppe városára.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pont Colbert",
+                  "text": "Európa utolsó nagy 19. századi forgóhídja, amely ma is az eredeti hidraulikus rendszerrel működik.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Château de Dieppe",
+                  "text": "Castel impunător situat pe faleză, adăpostind un muzeu cu o faimoasă colecție de sculpturi în fildeș.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Église Saint-Jacques",
+                  "text": "Biserică gotică superbă, un punct de reper istoric și religios important pe drumul pelerinilor spre Santiago.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Estran Cité de la Mer",
+                  "text": "Centru de descoperire maritimă axat pe pescuit, navigație și protejarea ecosistemelor litorale.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plage de Dieppe",
+                  "text": "Plajă extinsă de pietriș flancată de stânci de cretă, celebră pentru Festivalul Internațional de Zmeie.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Notre-Dame de Bonsecours",
+                  "text": "Capelă pitorească pe vârful stâncii, dedicată marinarilor, oferind o priveliște superbă asupra coastei.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pont Colbert",
+                  "text": "Ultimul pod pivotant mare din Europa, o capodoperă a ingineriei hidraulice de la sfârșitul secolului XIX.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Château de Dieppe",
+                  "text": "A fortified castle on the cliffs housing a museum with a renowned collection of ivory carvings and maritime history.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Église Saint-Jacques",
+                  "text": "A magnificent Gothic church that serves as a historic stop for pilgrims on the Way of Saint James.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Estran Cité de la Mer",
+                  "text": "A maritime discovery center focusing on fishing, shipbuilding, and the sea life of the Channel coast.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plage de Dieppe",
+                  "text": "A long pebble beach framed by white chalk cliffs, famous for hosting the International Kite Festival.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Notre-Dame de Bonsecours",
+                  "text": "A cliffside chapel dedicated to lost sailors, offering one of the best viewpoints over the town and harbor.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pont Colbert",
+                  "text": "The last large swing bridge in Europe to still operate with its original 19th-century hydraulic system.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "evreux",
@@ -2389,6 +13447,160 @@ const citySeeds: CitySeed[] = [
       fr: ["Le nom antique de la ville était Mediolanum Aulercorum", "La cathédrale possède 70 vitraux d'importance majeure", "Située sur l'Iton dans le département de l'Eure", "Abrite l'un des rares beffrois conservés en Normandie", "L'ancien palais épiscopal sert aujourd'hui de musée", "A été reconstruite après les violents bombardements de 1944"],
     },
     image: "/poi-images/evreux.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Cathédrale Notre-Dame d'Évreux",
+                  "text": "Eine der größten Kathedralen Frankreichs, bekannt für ihre Architekturmischung und die prachtvollen Glasfenster.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée d'Évreux",
+                  "text": "Im ehemaligen Bischofspalast untergebracht, zeigt dieses Museum Sammlungen von der Archäologie bis zur modernen Kunst.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Église Saint-Taurin",
+                  "text": "Berühmt für den goldenen Schrein des Heiligen Taurinus, ein Meisterwerk der Goldschmiedekunst aus dem 13. Jahrhundert.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tour de l'Horloge",
+                  "text": "Ein gotischer Glockenturm aus dem 15. Jahrhundert, der ein markantes Wahrzeichen der Stadtmitte ist.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jardins de l'Évêché",
+                  "text": "Schöne öffentliche Gärten am Ufer der Iton, die die Kathedrale und den Bischofspalast umgeben.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rempart gallo-romain",
+                  "text": "Überreste der antiken römischen Stadtmauer aus dem 3. Jahrhundert, die in das moderne Stadtbild integriert sind.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cathédrale Notre-Dame d'Évreux",
+                  "text": "Franciaország egyik legnagyobb katedrálisa, lenyűgöző ólomüveg ablakaival és különleges építészeti stílusával.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée d'Évreux",
+                  "text": "Az egykori püspöki palotában berendezett múzeum régészeti leleteket és képzőművészeti alkotásokat mutat be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Église Saint-Taurin",
+                  "text": "A templom Szent Taurinus arany ereklyetartójáról híres, amely a 13. századi ötvösművészet remekműve.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tour de l'Horloge",
+                  "text": "Díszes 15. századi gótikus óratorony, amely a város történelmi központjának egyik legfőbb jelképe.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jardins de l'Évêché",
+                  "text": "A katedrális lábánál fekvő hangulatos közpark az Iton folyó partján, ideális hely a pihenésre.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rempart gallo-romain",
+                  "text": "A 3. századból származó római kori városfal maradványai, amelyek ma is láthatók az óvárosban.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cathédrale Notre-Dame d'Évreux",
+                  "text": "O catedrală impunătoare celebră pentru vitraliile sale excepționale și amestecul elegant de stiluri arhitecturale.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée d'Évreux",
+                  "text": "Situat în fostul palat episcopal, muzeul oferă colecții valoroase de arheologie și artă decorativă.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Église Saint-Taurin",
+                  "text": "Această biserică adăpostește racla de aur a Sfântului Taurin, o capodoperă a orfevreriei medievale franceze.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tour de l'Horloge",
+                  "text": "Turnul cu ceas din secolul al XV-lea este un monument gotic emblematic situat în centrul orașului.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jardins de l'Évêché",
+                  "text": "Grădini superbe amenajate pe malul râului Iton, oferind un cadru natural relaxant lângă catedrală.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rempart gallo-romain",
+                  "text": "Vestigii ale fortificațiilor romane din secolul al III-lea, mărturii ale istoriei antice a orașului.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cathédrale Notre-Dame d'Évreux",
+                  "text": "One of France's largest cathedrals, famous for its magnificent stained glass and complex Gothic architecture.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée d'Évreux",
+                  "text": "Located in the former Bishop's Palace, this museum features collections ranging from archaeology to fine arts.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Église Saint-Taurin",
+                  "text": "Known for the reliquary of Saint Taurinus, a 13th-century masterpiece of French goldsmithing.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tour de l'Horloge",
+                  "text": "A decorative 15th-century Gothic clock tower that stands as a historic landmark in the city center.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jardins de l'Évêché",
+                  "text": "Lush public gardens situated along the Iton river, surrounding the cathedral and the museum.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rempart gallo-romain",
+                  "text": "Sections of the 3rd-century Roman city walls that have been preserved and integrated into the modern city.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "arras",
@@ -2423,6 +13635,160 @@ const citySeeds: CitySeed[] = [
       fr: ["En 1917, l'une des batailles les plus importantes de la Première Guerre Mondiale s'est déroulée ici.", "Le beffroi d'Arras culmine à une hauteur de 75 mètres.", "Le réseau de souterrains des Boves se situe à environ 12 mètres sous le pavé des places.", "L'Hôtel de Ville fut initialement construit dans le style gothique du XVIe siècle.", "Arras compte une population d'environ 42 000 habitants dans la zone urbaine.", "La ville est située au confluent des rivières Scarpe et Crinchon."],
     },
     image: "/poi-images/arras.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Grand' Place",
+                  "text": "Ein riesiger Platz mit 155 flämischen Barockhäusern, die eine einheitliche und beeindruckende Architektur bilden.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Beffroi d'Arras",
+                  "text": "Ein UNESCO-Weltkulturerbe-Glockenturm, der einen spektakulären Ausblick über die Stadt und die Region bietet.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Carrière Wellington",
+                  "text": "Ein Tunnelnetz aus dem Ersten Weltkrieg, das von neuseeländischen Tunnelbauern für den Angriff von 1917 gegraben wurde.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Abbaye Saint-Vaast",
+                  "text": "Ein monumentaler Komplex, der heute das Museum der Schönen Künste und die Kathedrale von Arras beherbergt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Citadelle d'Arras",
+                  "text": "Eine von Vauban entworfene Festung, die zum UNESCO-Weltkulturerbe gehört und heute ein Ort für Spaziergänge ist.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place des Héros",
+                  "text": "Ein weiterer prachtvoller Platz, an dem sich das Rathaus und der berühmte Belfried befinden.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grand' Place",
+                  "text": "Hatalmas főtér 155 egységes flamand barokk stílusú házzal, amely Arras kereskedelmi múltját idézi.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Beffroi d'Arras",
+                  "text": "Az UNESCO világörökség részét képező harangtorony, ahonnan lélegzetelállító kilátás nyílik az egész városra.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Carrière Wellington",
+                  "text": "Első világháborús föld alatti alagútrendszer, amelyet új-zélandi katonák ástak az 1917-es offenzívához.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Abbaye Saint-Vaast",
+                  "text": "Monumentális épületegyüttes, amely ma a Szépművészeti Múzeumnak és a város katedrálisának ad otthont.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Citadelle d'Arras",
+                  "text": "Vauban által tervezett csillagerőd, az UNESCO világörökség része, amely ma népszerű kirándulóhely.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place des Héros",
+                  "text": "Gyönyörű történelmi tér a városháza és a harangtorony árnyékában, hangulatos árkádokkal és kávézókkal.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grand' Place",
+                  "text": "O piață vastă înconjurată de 155 de case în stil baroc flamand, oferind un ansamblu arhitectural unic.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Beffroi d'Arras",
+                  "text": "Turnul cu clopotniță inclus în patrimoniul UNESCO, simbolul orașului, oferind o panoramă deosebită.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Carrière Wellington",
+                  "text": "O rețea de tuneluri subterane din Primul Război Mondial, amenajată ca muzeu memorial emoționant.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Abbaye Saint-Vaast",
+                  "text": "Fostă abație benedictină ce găzduiește acum Muzeul de Arte Frumoase, cu colecții impresionante de pictură.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Citadelle d'Arras",
+                  "text": "Fortificație proiectată de Vauban, parte a patrimoniului mondial UNESCO, ideală pentru explorări istorice.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place des Héros",
+                  "text": "Piața centrală dominată de primăria gotică, celebră pentru coloanele sale și atmosfera istorică vibrantă.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grand' Place",
+                  "text": "A vast square surrounded by 155 Flemish Baroque houses, creating one of the most uniform architectural sites in France.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Beffroi d'Arras",
+                  "text": "A UNESCO World Heritage belfry offering a stunning 360-degree view of the city and surrounding battlefields.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Carrière Wellington",
+                  "text": "A network of underground tunnels used during WWI, now a museum telling the story of the 1917 Battle of Arras.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Abbaye Saint-Vaast",
+                  "text": "A monumental 18th-century complex that houses both the Museum of Fine Arts and the Arras Cathedral.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Citadelle d'Arras",
+                  "text": "A 17th-century fortress designed by Vauban, nicknamed the 'Beautiful Useless' and now a UNESCO site.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place des Héros",
+                  "text": "The heart of the city, dominated by the Gothic Town Hall and surrounded by picturesque arcaded houses.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "boulogne-sur-mer",
@@ -2593,6 +13959,160 @@ const citySeeds: CitySeed[] = [
       fr: ["La basilique a été construite entre le XIIe et le XVe siècle.", "Le musée des Papillons possède plus de 400 000 spécimens.", "L'hôtel de ville de Saint-Quentin fut achevé en 1509 en style gothique flamboyant.", "La ville compte une population d'environ 53 000 habitants.", "Saint-Quentin fut la première ville à être reconstruite après la Première Guerre mondiale.", "La bataille de Saint-Quentin a eu lieu en 1557."],
     },
     image: "/poi-images/saint-quentin.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Basilika von Saint-Quentin",
+                  "text": "Diese beeindruckende gotische Basilika beherbergt die Reliquien des heiligen Quintinus und ist ein architektonisches Juwel.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rathaus von Saint-Quentin",
+                  "text": "Ein prächtiges Gebäude im spätgotischen Flamboyant-Stil mit einer kunstvollen Fassade und einem berühmten Glockenspiel.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schmetterlingsmuseum",
+                  "text": "Dieses einzigartige Museum zeigt eine riesige Sammlung von über 20.000 Insekten- und Schmetterlingsarten aus aller Welt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palais de Fervaques",
+                  "text": "Ein monumentales Gebäude aus dem 19. Jahrhundert, das heute für kulturelle Veranstaltungen und als Justizpalast dient.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc d'Isle",
+                  "text": "Ein weitläufiger Naturpark am Rande der Stadt mit einem Tierpark, Naturschutzgebieten und Freizeitmöglichkeiten für Familien.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Théâtre Jean Vilar",
+                  "text": "Ein elegantes Theatergebäude, das ein vielfältiges Programm an Aufführungen in einem historischen Ambiente bietet.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saint-Quentin-bazilika",
+                  "text": "Ez a lenyűgöző gótikus bazilika Szent Kvintin ereklyéit őrzi, és a város egyik legfontosabb vallási emléke.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Városháza",
+                  "text": "Késő gótikus stílusú épület gazdagon díszített homlokzattal és egy híres harangjátékkal, amely meghatározza a főteret.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pillangómúzeum",
+                  "text": "Egyedülálló gyűjtemény, amely több mint 20 000 rovarfajt és színes pillangót mutat be a világ minden tájáról.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fervaques-palota",
+                  "text": "Hatalmas 19. századi épület, amely kulturális eseményeknek ad otthont, és korábban apátságként is funkcionált.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Isle Park",
+                  "text": "Természetvédelmi terület és szabadidőpark állatkerttel, amely ideális hely a kikapcsolódásra a Somme folyó partján.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jean Vilar Színház",
+                  "text": "Elegáns színházépület, amely gazdag kulturális programot kínál a nézőknek történelmi környezetben.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bazilica din Saint-Quentin",
+                  "text": "O bazilică gotică impresionantă care adăpostește moaștele Sfântului Quentin, fiind un reper spiritual major al orașului.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria din Saint-Quentin",
+                  "text": "Clădire în stil gotic flamboyant, faimoasă pentru fațada sa sculptată și carillonul care răsună în piața centrală.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Fluturilor",
+                  "text": "Adăpostește o colecție vastă de peste 20.000 de specii de insecte și fluturi, fiind una dintre cele mai mari din Europa.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Fervaques",
+                  "text": "Un edificiu monumental din secolul al XIX-lea utilizat pentru evenimente culturale și activități administrative locale.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Isle",
+                  "text": "O zonă naturală protejată cu un parc zoologic și spații de recreere, perfectă pentru plimbări în aer liber.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Teatrul Jean Vilar",
+                  "text": "O instituție culturală prestigioasă ce oferă spectacole variate într-o clădire cu o arhitectură clasică elegantă.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Basilica of Saint-Quentin",
+                  "text": "A stunning Gothic basilica that houses the relics of Saint Quentin and showcases remarkable medieval architecture.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Quentin Town Hall",
+                  "text": "A magnificent flamboyant Gothic building featuring a detailed facade and a historic carillon with 37 bells.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Butterfly Museum",
+                  "text": "Home to a world-renowned collection of over 20,000 butterflies and insects from across the globe.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palais de Fervaques",
+                  "text": "An imposing 19th-century palace used for judicial functions and major cultural exhibitions in the city.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc d'Isle",
+                  "text": "A large nature reserve and leisure park offering a zoo, wildlife trails, and family-friendly outdoor activities.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jean Vilar Theater",
+                  "text": "A historic theater that serves as a hub for local arts, hosting a wide variety of performances throughout the year.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "compiegne",
@@ -2627,6 +14147,160 @@ const citySeeds: CitySeed[] = [
       fr: ["Le château de Compiègne était l'une des trois résidences royales les plus importantes.", "L'armistice de 1918 a été signé dans un wagon de chemin de fer.", "Compiègne compte une population d'environ 40 000 habitants.", "L'université UTC a été fondée en 1972.", "L'hôtel de ville de style gothique flamboyant possède trois célèbres automates en bois, les Picantins.", "La forêt de Compiègne s'étend sur une surface de plus de 14 000 hectares."],
     },
     image: "/poi-images/compiegne.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Schloss Compiègne",
+                  "text": "Ein ehemaliger königlicher und kaiserlicher Wohnsitz, der für seine prunkvollen Gemächer und Museen bekannt ist.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rathaus von Compiègne",
+                  "text": "Ein wunderschönes gotisches Gebäude mit einem Glockenturm, in dem die berühmten Picantins-Figuren die Stunden schlagen.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lichtung der Waffenruhe",
+                  "text": "Ein historischer Ort im Wald, an dem die Waffenstillstände von 1918 und 1940 unterzeichnet wurden.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum der historischen Zinnfiguren",
+                  "text": "Dieses Museum beherbergt Tausende von Miniaturfiguren, die berühmte Schlachten der Geschichte detailgetreu darstellen.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kirche Saint-Jacques",
+                  "text": "Eine bedeutende Station auf dem Jakobsweg nach Santiago de Compostela mit einer reichen religiösen Geschichte.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wald von Compiègne",
+                  "text": "Eines der größten Waldgebiete Frankreichs, ideal zum Wandern und Entdecken der Natur und Geschichte.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Compiègne-i kastély",
+                  "text": "Egykori királyi és császári rezidencia, amely ma múzeumként működik, bemutatva a francia udvar pompáját.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Városháza",
+                  "text": "Gótikus stílusú épület, amelynek óratornyában a Picantins nevű figurák ütik el a negyedórákat.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fegyverszüneti tisztás",
+                  "text": "Történelmi helyszín az erdő mélyén, ahol az 1918-as és 1940-es fegyverszüneti egyezményeket aláírták.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Történelmi Ólomfigura Múzeum",
+                  "text": "Több ezer apró figurát bemutató múzeum, amely híres történelmi csatákat elevenít fel makettek segítségével.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Jakab-templom",
+                  "text": "Fontos állomás a Szent Jakab-úton, amelynek építészete a gótikus művészet jegyeit hordozza magán.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Compiègne-i erdő",
+                  "text": "Franciaország egyik legnagyobb erdősége, amely túraútvonalakat és gazdag élővilágot kínál a látogatóknak.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelul din Compiègne",
+                  "text": "O fostă reședință regală și imperială, renumită pentru apartamentele sale luxoase și muzeele de artă și istorie.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria din Compiègne",
+                  "text": "O bijuterie a arhitecturii gotice cu un turn cu ceas unde personajele Picantins marchează trecerea timpului.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Poiana Armistițiului",
+                  "text": "Locul istoric din pădurea Compiègne unde au fost semnate armistițiile din 1918 și 1940, punând capăt luptelor.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Figurinelor Istorice",
+                  "text": "Expune mii de miniaturi detaliate care recreează bătălii celebre și momente cheie din istoria Franței și a lumii.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Saint-Jacques",
+                  "text": "O biserică istorică ce face parte din patrimoniul UNESCO ca punct pe drumul de pelerinaj către Santiago de Compostela.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pădurea Compiègne",
+                  "text": "Un domeniu forestier vast, ideal pentru activități în aer liber și explorarea vestigiilor istorice ascunse între arbori.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palace of Compiègne",
+                  "text": "A former royal and imperial residence, this palace features lavish apartments and specialized national museums.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Compiègne Town Hall",
+                  "text": "A beautiful Gothic landmark famous for its belfry and the mechanical 'Picantins' figures that strike the bells.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Armistice Clearing",
+                  "text": "The historic site in the forest where the peace treaties ending World War I and during World War II were signed.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum of Historic Figurines",
+                  "text": "A unique museum displaying thousands of miniature soldiers and dioramas depicting major historical battles.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Jacques Church",
+                  "text": "An important stop on the Camino de Santiago pilgrimage route, known for its mix of Gothic and Renaissance styles.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Forest of Compiègne",
+                  "text": "One of France's largest forests, offering extensive trails for hiking, cycling, and exploring royal history.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
 ];
 

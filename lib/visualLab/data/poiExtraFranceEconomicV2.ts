@@ -91,6 +91,160 @@ export const franceEconomicV2: POI[] = [
       fr: ["La Défense s'étend sur 160 hectares.", "La Grande Arche mesure 110 m de haut, 112 m de large et 112 m de profondeur.", "Le quartier compte 3,5 millions de m² de bureaux.", "Il y a plus de 3 000 entreprises à La Défense.", "La première phase de construction a débuté en 1958.", "Le nombre de visiteurs quotidiens dépasse les 500 000."],
     },
     image: "/poi-images/france-la-defense-business-economic-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Grande Arche",
+                  "text": "Ein monumentaler hohler Kubus aus Glas und Marmor, der das Ende der historischen Achse von Paris bildet.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Le Pouce de César",
+                  "text": "Eine riesige Bronzeskulptur eines Daumens, geschaffen vom Künstler César Baldaccini in der Nähe des CNIT.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "CNIT",
+                  "text": "Das erste Gebäude von La Défense, bekannt für sein gewaltiges freitragendes Betongewölbe.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bassin de Takis",
+                  "text": "Ein Wasserbecken mit 49 farbenfrohen Signalskulpturen, das ein faszinierendes visuelles Ensemble bildet.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Quatre Temps",
+                  "text": "Eines der größten Einkaufszentren Europas, ein zentraler Treffpunkt für Shopping und Gastronomie.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Notre-Dame-de-Pentecôte",
+                  "text": "Eine moderne Kirche mit einer beeindruckenden Glasfassade, die sich perfekt in die Bürotürme einfügt.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grande Arche",
+                  "text": "Monumentális üveg és márvány diadalív, amely a párizsi történelmi tengely modern végpontját jelöli.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Le Pouce (César hüvelykujja)",
+                  "text": "César Baldaccini hatalmas bronz hüvelykujj-szobra, a negyed egyik legismertebb köztéri műalkotása.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "CNIT",
+                  "text": "La Défense legelső épülete, amely hatalmas, öntartó betonboltozatáról és kiállítási csarnokáról híres.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bassin de Takis",
+                  "text": "Látványos vizes medence színes, jelzőszerű szobrokkal, amelyek egyedi hangulatot adnak a térnek.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Quatre Temps",
+                  "text": "Európa egyik legnagyobb bevásárlóközpontja, amely számos üzletnek és étteremnek ad otthont.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Notre-Dame-de-Pentecôte",
+                  "text": "Modern katolikus templom, amely áttetsző üvegfalával különleges spirituális hely a felhőkarcolók között.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marea Arcadă (Grande Arche)",
+                  "text": "Un monument cubic impresionant acoperit cu marmură, oferind o perspectivă unică spre Arcul de Triumf.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Degetul mare de César",
+                  "text": "O sculptură monumentală din bronz reprezentând un deget mare, creată de artistul César Baldaccini.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "CNIT",
+                  "text": "Prima clădire construită în district, faimoasă pentru bolta sa de beton fără coloane de susținere.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bazinul lui Takis",
+                  "text": "O fântână decorativă cu sculpturi colorate în formă de semnale, devenită un simbol vizual al zonei.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Quatre Temps",
+                  "text": "Unul dintre cele mai mari centre comerciale din Europa, inima vieții economice și sociale din cartier.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Notre-Dame-de-Pentecôte",
+                  "text": "O structură religioasă modernă, integrată în arhitectura de sticlă a zgârie-norilor din jur.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grande Arche de la Défense",
+                  "text": "A monumental hollow cube that serves as a modern version of the Arc de Triomphe on the historic axis.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Le Pouce by César",
+                  "text": "A massive bronze sculpture of a thumb by artist César Baldaccini, located near the CNIT building.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "CNIT",
+                  "text": "The first building in the district, famous for its record-breaking unsupported concrete vaulted roof.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Takis' Bright Trees",
+                  "text": "A series of colorful signal-like sculptures set in a large pond, creating a rhythmic visual experience.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Les Quatre Temps",
+                  "text": "One of Europe's largest shopping malls, featuring hundreds of shops, cinemas, and diverse eateries.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Notre-Dame-de-Pentecôte",
+                  "text": "A contemporary church featuring a tall translucent glass facade, designed to blend with the towers.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "france-fos-sur-mer-port-economic-v2",

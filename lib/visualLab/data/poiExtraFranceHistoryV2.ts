@@ -316,6 +316,160 @@ export const franceHistoryV2: POI[] = [
       fr: ["La ville se situe à 286 mètres d'altitude.", "Le château date du XIIIe siècle.", "Les remparts s'étendent sur 1,5 kilomètre.", "La collégiale Notre-Dame a été construite entre 1220 et 1260.", "La plus haute tour du château mesure 45 mètres de haut.", "Semur compte environ 4 000 habitants."],
     },
     image: "/poi-images/france-semur-en-auxois-history-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Collégiale Notre-Dame",
+                  "text": "Eine prächtige gotische Kirche aus dem 13. Jahrhundert mit beeindruckenden Glasmalereien und Skulpturen.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tour de l'Orle d'Or",
+                  "text": "Einer der vier massiven Türme der ehemaligen Festung, der heute ein kleines Museum beherbergt.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pont Joly",
+                  "text": "Eine malerische Steinbrücke über den Fluss Armançon, die den besten Blick auf die mittelalterliche Stadt bietet.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Die Stadtmauern (Les Remparts)",
+                  "text": "Gut erhaltene Befestigungsanlagen, die das historische Zentrum umschließen und zu Spaziergängen einladen.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Porte Guillier",
+                  "text": "Ein mittelalterliches Stadttor, das den Eingang zum Herzen der Altstadt mit ihren gepflasterten Gassen bildet.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée Municipal",
+                  "text": "In einem ehemaligen Kloster untergebracht, zeigt es archäologische Funde und Kunstwerke aus Burgund.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Notre-Dame kollégiumi templom",
+                  "text": "Pompás gótikus templom a 13. századból, amely karcsú tornyairól és színes üvegablakairól ismert.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tour de l'Orle d'Or",
+                  "text": "A középkori várfal négy hatalmas tornyának egyike, amely ma helytörténeti gyűjteménynek ad otthont.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pont Joly",
+                  "text": "Festői kőhíd az Armançon folyón, ahonnan a legszebb panoráma nyílik a középkori városra.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Városfalak (Les Remparts)",
+                  "text": "Épségben maradt középkori erődítmények, amelyek mentén gyönyörű sétát tehetünk a város körül.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Porte Guillier",
+                  "text": "Középkori kapu, amely a város történelmi magjába és szűk, macskaköves utcáiba vezet.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Városi Múzeum",
+                  "text": "Egy egykori kolostorban elhelyezett gyűjtemény, amely a régió régészeti és művészeti kincseit mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Colegiata Notre-Dame",
+                  "text": "O biserică gotică impresionantă din secolul al XIII-lea, remarcabilă prin vitraliile și turnurile sale zvelte.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turnul de l'Orle d'Or",
+                  "text": "Unul dintre cele patru turnuri masive rămase din vechea fortăreață, oferind o privire asupra istoriei locale.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Podul Joly",
+                  "text": "Un pod pitoresc peste râul Armançon, oferind cea mai frumoasă vedere panoramică asupra orașului medieval.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Remparts (Zidurile cetății)",
+                  "text": "Fortificații medievale bine conservate care înconjoară orașul vechi, ideale pentru o plimbare istorică.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Poarta Guillier",
+                  "text": "O poartă fortificată istorică ce marchează intrarea principală în centrul vechi cu străzi înguste.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Municipal",
+                  "text": "Găzduit într-o fostă mănăstire, muzeul expune colecții de arheologie și artă plastică din Burgundia.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Notre-Dame Collegiate Church",
+                  "text": "A stunning 13th-century Gothic church known for its slender towers and remarkable stained glass windows.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tour de l'Orle d'Or",
+                  "text": "A massive medieval tower that is part of the town's four original defensive keeps, now a museum.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pont Joly",
+                  "text": "A highly picturesque bridge crossing the Armançon river, offering famous views of the medieval skyline.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Ramparts",
+                  "text": "Well-preserved medieval walls that surround the historic hilltop center, providing scenic walking paths.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Porte Guillier",
+                  "text": "A historic gateway that leads into the heart of the old town's winding, cobblestone streets.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée Municipal",
+                  "text": "Located in a former convent, this museum features local archaeology and fine arts from the region.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "france-chinon-fortress-history-v2",
@@ -496,6 +650,160 @@ export const franceHistoryV2: POI[] = [
       fr: ["Les remparts mesurent 1,2 kilomètre de long.", "La tour César mesure 44 mètres de haut.", "Les souterrains s'étendent sur 10 kilomètres.", "Les foires de Provins ont eu lieu de 1124 à 1320.", "La ville compte environ 12 000 habitants.", "Provins est inscrite au patrimoine mondial de l'UNESCO depuis 2001."],
     },
     image: "/poi-images/france-provins-history-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Tour César",
+                  "text": "Ein achteckiger Donjon aus dem 12. Jahrhundert, der als Symbol der Macht der Grafen von Champagne gilt.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grange aux Dîmes",
+                  "text": "Ein ehemaliges Markthaus aus dem 13. Jahrhundert, das heute das Leben der mittelalterlichen Märkte zeigt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Die Stadtmauern von Provins",
+                  "text": "Eindrucksvolle Befestigungsanlagen mit Toren und Türmen, die sich über mehr als 1,2 Kilometer erstrecken.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Souterrains de Provins",
+                  "text": "Ein Netz von unterirdischen Gängen, die im Mittelalter als Lagerhäuser und Zufluchtsorte dienten.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Collégiale Saint-Quiriace",
+                  "text": "Eine imposante Kirche aus dem 12. Jahrhundert mit einer markanten Kuppel, die nie vollendet wurde.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Roseraie de Provins",
+                  "text": "Ein wunderschöner Rosengarten, der der berühmten Rose von Provins und anderen historischen Arten gewidmet ist.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cézár-torony (Tour César)",
+                  "text": "12. századi nyolcszögletű lakótorony, amely a champagne-i grófok hatalmának jelképe volt.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tizedes csűr (Grange aux Dîmes)",
+                  "text": "Középkori kereskedőház, ahol ma életnagyságú bábuk mutatják be a hajdani vásárok életét.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Provins városfalai",
+                  "text": "Lenyűgöző középkori erődítményrendszer kapukkal és tornyokkal, amely az UNESCO világörökség része.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Provins föld alatti járatai",
+                  "text": "Hatalmas pincerendszer, amelyet tárolásra és menedékként használtak a középkori vásárok idején.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Quiriace kollégiumi templom",
+                  "text": "Hatalmas 12. századi templom, amely befejezetlen maradt, de lenyűgöző kupolával rendelkezik.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Provins rózsakertje",
+                  "text": "Gyönyörű kert, ahol a híres provins-i rózsát és számos más történelmi fajtát csodálhatunk meg.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Turnul lui Cezar",
+                  "text": "O fortăreață octogonală din secolul al XII-lea, oferind o vedere panoramică asupra întregii regiuni.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grange aux Dîmes",
+                  "text": "O veche casă de negustori transformată în muzeu, ilustrând viața cotidiană din timpul târgurilor medievale.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zidurile de apărare din Provins",
+                  "text": "Fortificații medievale spectaculoase, lungi de peste un kilometru, foarte bine conservate până astăzi.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pasajele subterane din Provins",
+                  "text": "O rețea fascinantă de tuneluri medievale folosite pentru depozitare și întâlniri secrete.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Colegiata Saint-Quiriace",
+                  "text": "O biserică monumentală din secolul XII, cunoscută pentru cupola sa uriașă și arhitectura neterminată.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădina de Trandafiri",
+                  "text": "O grădină superbă unde se cultivă celebrul trandafir de Provins, adus din Orient în timpul cruciadelor.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cesar Tower",
+                  "text": "A 12th-century octagonal keep that served as a symbol of the Counts of Champagne's power and prestige.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tithe Barn (Grange aux Dimes)",
+                  "text": "A former merchant's house featuring a museum that recreates the bustling atmosphere of medieval fairs.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ramparts of Provins",
+                  "text": "Impressive defensive walls spanning over 1.2 kilometers, complete with fortified gates and towers.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Underground Tunnels of Provins",
+                  "text": "A vast network of subterranean chambers used for trade, storage, and secret meetings in the Middle Ages.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Quiriace Collegiate Church",
+                  "text": "A massive 12th-century church with a prominent dome, which famously remained unfinished due to lack of funds.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rose Garden of Provins",
+                  "text": "A beautiful garden showcasing the famous Rose of Provins alongside hundreds of other heritage varieties.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "france-domremy-history-v2",
@@ -1396,6 +1704,160 @@ export const franceHistoryV2: POI[] = [
       fr: ["Cité fondée en 1555 par Jacques de Pons.", "Lieu de naissance de Samuel de Champlain (v. 1567).", "Fortifications modernisées par Vauban vers 1680.", "Ancienne capitale européenne du sel.", "Désormais isolée au milieu des marais.", "Classée parmi les Plus Beaux Villages de France."],
     },
     image: "/poi-images/france-brouage-history-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Stadtmauern von Brouage",
+                  "text": "Die beeindruckenden Festungsmauern aus dem 17. Jahrhundert umgeben das Dorf und bieten einen weiten Blick über das Marschland.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kirche Saint-Pierre",
+                  "text": "Die Kirche beherbergt Glasmalereien, die an die Gründung von Québec erinnern und die Geschichte der lokalen Seefahrer ehren.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Die königliche Schmiede",
+                  "text": "Die Forge Royale ist ein Zeugnis der militärischen Bedeutung Brouages und diente einst der Waffenreparatur für die Garnison.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Das Eishaus (La Glacière)",
+                  "text": "Dieses historische Gebäude diente zur Lagerung von Eis, um Lebensmittel für die Soldaten der Zitadelle kühl zu halten.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pulvermagazin de la Brèche",
+                  "text": "Ein massives Pulverlager, das strategisch in den Befestigungsanlagen platziert wurde, um die Munition der Stadt zu schützen.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Königstor (Porte Royale)",
+                  "text": "Das prächtige Haupttor der Festung ist mit Wappen verziert und war einst der einzige Zugang für königliche Besucher.",
+                  "category": "fortress",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Brouage várfalai",
+                  "text": "A 17. századi lenyűgöző erődítményfalak körülveszik a falut, és széles kilátást nyújtanak a környező sós mocsarakra.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Péter-templom",
+                  "text": "A templom különleges üvegablakai Québec alapítására emlékeztetnek, és a helyi tengerészek történelmét tisztelik meg.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Királyi Kovácsműhely",
+                  "text": "A Forge Royale Brouage katonai jelentőségének tanúja, egykor a helyőrség fegyvereinek javítására szolgált a várban.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "A Jégverem (La Glacière)",
+                  "text": "Ez a történelmi épület jég tárolására szolgált, hogy az erőd katonái számára frissen tartsák az élelmiszereket.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brèche lőporraktár",
+                  "text": "A várfalakba stratégiailag beépített masszív lőpormagazin, amely a város lőszerkészletének védelmét szolgálta.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Királyi Kapu (Porte Royale)",
+                  "text": "Az erőd pompás főkapuja címerekkel díszített, és egykor az egyetlen méltó bejárat volt a királyi látogatók számára.",
+                  "category": "fortress",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zidurile de fortificație din Brouage",
+                  "text": "Zidurile impresionante din secolul al XVII-lea înconjoară satul și oferă o vedere panoramică asupra mlaștinilor sărate.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Saint-Pierre",
+                  "text": "Biserica adăpostește vitralii care comemorează fondarea orașului Québec și onorează istoria navigatorilor locali.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Forja Regală",
+                  "text": "Forge Royale este o mărturie a importanței militare a Brouage-ului, servind odinioară la repararea armelor garnizoanei.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Glăciăria (La Glacière)",
+                  "text": "Această clădire istorică era folosită pentru depozitarea gheții, menținând alimentele proaspete pentru soldații cetății.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Magazia de pulbere de la Brèche",
+                  "text": "O magazie masivă de praf de pușcă, amplasată strategic în fortificații pentru a proteja muniția orașului.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Poarta Regală",
+                  "text": "Principala poartă a fortăreței este decorată cu blazoane și era singura cale de acces pentru vizitatorii regali.",
+                  "category": "fortress",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ramparts of Brouage",
+                  "text": "The impressive 17th-century fortress walls surround the village and provide wide views over the surrounding salt marshes.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Pierre Church",
+                  "text": "The church features stained glass windows commemorating the founding of Quebec and honoring the local maritime history.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Royal Forge",
+                  "text": "The Forge Royale stands as a witness to the military importance of Brouage, used for repairing the garrison's weapons.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Ice House (La Glacière)",
+                  "text": "This historical building was used to store ice, keeping food supplies cool for the soldiers of the citadel.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brèche Powder Magazine",
+                  "text": "A massive gunpowder store strategically placed within the fortifications to protect the town's ammunition supply.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Royal Gate (Porte Royale)",
+                  "text": "The fortress's grand main gate is decorated with coats of arms and was once the sole access for royal visitors.",
+                  "category": "fortress",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "france-caylus-history-v2",
@@ -1441,6 +1903,160 @@ export const franceHistoryV2: POI[] = [
       fr: ["Les ruines du château datent du XIIe siècle.", "La Maison du Loup a été construite au XIVe siècle.", "L'église abrite un Christ géant d'Ossip Zadkine.", "La localité fut un théâtre important durant les guerres albigeoises.", "Caylus se trouve dans le département de Tarn-et-Garonne en Occitanie.", "La place du marché dispose d'arcades médiévales bien conservées."],
     },
     image: "/poi-images/france-caylus-history-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Wolfshaus (Maison du Loup)",
+                  "text": "Ein prächtiges mittelalterliches Haus aus dem 14. Jahrhundert, bekannt für seine skulpturalen Wolfsfiguren an der Fassade.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kirche Saint-Jean-Baptiste",
+                  "text": "Diese gotische Kirche beherbergt einen beeindruckenden Holzaltar von Zadkine und wunderschöne religiöse Kunstwerke.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Markthalle von Caylus",
+                  "text": "Die historische Steinhalle im Zentrum des Dorfes zeugt vom blühenden Handel in der Region während vergangener Jahrhunderte.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Burgruine Caylus",
+                  "text": "Die Überreste der alten Festung thronen über dem Dorf und bieten einen Einblick in die mittelalterliche Verteidigungsstrategie.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wasserfall von Saint-Pierre",
+                  "text": "Ein natürlicher Kalktuff-Wasserfall in der Nähe, der eine malerische Kulisse für Wanderungen und Naturbeobachtungen bietet.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Labarthe-See",
+                  "text": "Ein ruhiger See in der Umgebung, ideal zum Angeln, Picknicken und für entspannte Spaziergänge in der Natur Okzitaniens.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Farkas-ház (Maison du Loup)",
+                  "text": "Pompás 14. századi középkori ház, amely a homlokzatán található faragott farkasfigurákról kapta a nevét.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Keresztelő Szent János-templom",
+                  "text": "Ez a gótikus templom Zadkine lenyűgöző faoltárát és gyönyörű vallási műalkotásokat őriz a belső terében.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Caylus vásárcsarnoka",
+                  "text": "A falu központjában álló történelmi kőcsarnok a régió virágzó kereskedelméről tanúskodik az elmúlt századokból.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Caylus várromja",
+                  "text": "A falu fölé magasodó ősi erődítmény maradványai betekintést nyújtanak a középkori védelmi stratégiákba.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Pierre vízesés",
+                  "text": "Egy közeli természetes mésztufa vízesés, amely festői hátteret biztosít a kirándulásokhoz és a természetjáráshoz.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Labarthe-tó",
+                  "text": "Nyugodt tó a környéken, amely ideális horgászathoz, piknikezéshez és pihentető sétákhoz az okcitán természetben.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa Lupului (Maison du Loup)",
+                  "text": "O superbă casă medievală din secolul al XIV-lea, faimoasă pentru figurile sculptate de lupi de pe fațada sa.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Saint-Jean-Baptiste",
+                  "text": "Această biserică gotică adăpostește un altar impresionant de lemn sculptat de Zadkine și opere de artă religioasă.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hala din Caylus",
+                  "text": "Hala istorică de piatră din centrul satului mărturisește comerțul înfloritor din regiune în secolele trecute.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ruinele Castelului Caylus",
+                  "text": "Rămășițele vechii fortărețe domină satul și oferă o perspectivă asupra strategiei de apărare medievale.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cascada Saint-Pierre",
+                  "text": "O cascadă naturală de tuf calcaros situată în apropiere, oferind un cadru pitoresc pentru drumeții și relaxare.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lacul Labarthe",
+                  "text": "Un lac liniștit în împrejurimi, ideal pentru pescuit, picnic și plimbări relaxante în mijlocul naturii occitane.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wolf House (Maison du Loup)",
+                  "text": "A magnificent 14th-century medieval house, famous for the sculpted wolf figures adorning its stone facade.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Jean-Baptiste Church",
+                  "text": "This Gothic church houses an impressive wooden altar by Zadkine and several beautiful religious artworks.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Caylus Market Hall",
+                  "text": "The historic stone hall in the village center bears witness to the region's thriving trade over past centuries.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Caylus Castle Ruins",
+                  "text": "The remains of the ancient fortress tower over the village, offering a glimpse into medieval defense strategies.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Pierre Waterfall",
+                  "text": "A natural petrifying waterfall located nearby, providing a picturesque setting for hiking and nature lovers.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lake Labarthe",
+                  "text": "A peaceful lake in the surroundings, ideal for fishing, picnicking, and relaxing walks in the Occitan nature.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "france-lavardin-history-v2",
@@ -1486,6 +2102,160 @@ export const franceHistoryV2: POI[] = [
       fr: ["Le château a été construit à l'origine au XIe siècle.", "Le roi Henri IV ordonna le démantèlement du château au XVIe siècle.", "Les célèbres fresques de l'église datent du XIIe au XVIe siècle.", "Un pont gothique en pierre à plusieurs arches enjambe le Loir.", "Lavardin est membre de l'association Les Plus Beaux Villages de France.", "Les maisons sont principalement construites en pierre de tuffeau clair."],
     },
     image: "/poi-images/france-lavardin-history-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Burgruine Lavardin",
+                  "text": "Die imposanten Ruinen dieser mittelalterlichen Festung bieten einen spektakulären Blick auf das Loir-Tal.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kirche Saint-Genest",
+                  "text": "Bekannt für ihre außergewöhnlichen romanischen Fresken, die biblische Szenen in leuchtenden Farben darstellen.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gotische Brücke",
+                  "text": "Diese alte Steinbrücke überquert den Loir und verbindet das Dorf mit malerischen Wanderwegen am Flussufer.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Haus Florent Tissard",
+                  "text": "Ein wunderschönes Renaissance-Haus mit filigranen Steinschnitzereien, das den Reichtum vergangener Epochen zeigt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rotte aux Biques",
+                  "text": "Ein steiler Wanderpfad, der durch Felsen führt und herrliche Aussichtspunkte auf das Schloss und das Dorf bietet.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Altes Waschhaus",
+                  "text": "Das am Flussufer gelegene historische Waschhaus erinnert an das tägliche Leben der Dorfbewohner in früherer Zeit.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lavardin várromja",
+                  "text": "Ezen középkori erődítmény impozáns romjai látványos kilátást nyújtanak a Loir-folyó völgyére és a falura.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Genest templom",
+                  "text": "Rendkívüli román kori freskóiról híres, amelyek bibliai jeleneteket ábrázolnak élénk színekben a falakon.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gótikus híd",
+                  "text": "Ez az ősi kőhíd ível át a Loir-folyón, összekötve a falut a folyóparti festői kirándulóösvényekkel.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Florent Tissard-ház",
+                  "text": "Gyönyörű reneszánsz ház finom kőfaragásokkal, amely a falu múltbéli gazdagságát és művészetét tükrözi.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rotte aux Biques ösvény",
+                  "text": "Sziklákon keresztül vezető meredek gyalogút, amely kiváló kilátópontokat kínál a várra és a környékre.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Régi közösségi mosóház",
+                  "text": "A folyóparton található történelmi mosóhely a falusiak mindennapi életének emlékét őrzi a múltból.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruinele Castelului Lavardin",
+                  "text": "Ruinele impunătoare ale acestei fortărețe medievale oferă o vedere spectaculoasă asupra văii râului Loir.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Saint-Genest",
+                  "text": "Faimoasă pentru frescele sale romanice excepționale, care înfățișează scene biblice în culori vii și detaliate.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Podul Gotic",
+                  "text": "Acest pod vechi de piatră traversează râul Loir, legând satul de potecile pitorești de pe malul apei.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Florent Tissard",
+                  "text": "O casă superbă din perioada Renașterii, cu sculpturi fine în piatră, reflectând bogăția epocilor trecute.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rotte aux Biques",
+                  "text": "O potecă abruptă care șerpuiește printre stânci, oferind puncte de belvedere superbe asupra castelului.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lavuarul comunal",
+                  "text": "Situat pe malul râului, acest spălător istoric amintește de viața cotidiană a locuitorilor de odinioară.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lavardin Castle Ruins",
+                  "text": "The imposing ruins of this medieval fortress offer spectacular views over the scenic Loir Valley.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Genest Church",
+                  "text": "Renowned for its exceptional Romanesque frescoes depicting biblical scenes in vivid, well-preserved colors.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gothic Bridge",
+                  "text": "This ancient stone bridge crosses the Loir river, connecting the village to picturesque riverside walking paths.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maison Florent Tissard",
+                  "text": "A beautiful Renaissance house featuring delicate stone carvings that showcase the village's historical wealth.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rotte aux Biques Path",
+                  "text": "A steep walking trail winding through the cliffs, offering magnificent viewpoints over the castle and valley.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Communal Wash-house",
+                  "text": "Located by the river, this historic laundry site recalls the daily life of the villagers in times past.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "france-mont-dore-history-v2",
@@ -1531,5 +2301,159 @@ export const franceHistoryV2: POI[] = [
       fr: ["La localité se situe à une altitude moyenne de 1 050 mètres.", "Le Puy de Sancy est avec 1 886 mètres la plus haute montagne de la région.", "Les baigneurs romains utilisaient déjà les sources thermales locales.", "Le domaine skiable a été officiellement inauguré en 1936.", "Les thermes se distinguent par leur style néo-byzantin.", "La Grande Cascade toute proche est une chute d'eau de 30 mètres de haut."],
     },
     image: "/poi-images/france-mont-dore-history-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Thermen von Mont-Dore",
+                  "text": "Ein architektonisches Juwel im neo-byzantinischen Stil, bekannt für seine heilenden Thermalquellen seit der Römerzeit.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Standseilbahn du Capucin",
+                  "text": "Die älteste elektrische Standseilbahn Frankreichs bringt Besucher zu einem wunderschönen Waldplateau mit Aussicht.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grande Cascade",
+                  "text": "Mit 30 Metern Fallhöhe ist dies einer der höchsten und spektakulärsten Wasserfälle in der Region Auvergne.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Puy de Sancy",
+                  "text": "Der höchste Gipfel des Zentralmassivs bietet ein atemberaubendes Panorama und ist ein Paradies für Wanderer.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Guéry-See",
+                  "text": "Ein malerischer Bergsee vulkanischen Ursprungs, der für seine natürliche Schönheit und Angelmöglichkeiten bekannt ist.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kirche Notre-Dame",
+                  "text": "Eine elegante Kirche im Zentrum des Ortes, die den religiösen Mittelpunkt der Kurstadt Mont-Dore bildet.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont-Dore termálfürdő",
+                  "text": "Neo-bizánci stílusú építészeti gyöngyszem, amely a római kor óta ismert gyógyító termálforrásairól.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Capucin sikló",
+                  "text": "Franciaország legrégebbi elektromos siklója, amely egy gyönyörű erdei fennsíkra viszi fel a látogatókat.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grande Cascade vízesés",
+                  "text": "30 méteres magasságával ez az egyik legmagasabb és leglátványosabb vízesés az Auvergne régióban.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Puy de Sancy",
+                  "text": "A Francia-középhegység legmagasabb csúcsa, amely lélegzetelállító panorámát kínál a túrázók számára.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Guéry-tó",
+                  "text": "Vulkáni eredetű festői hegyi tó, amely természeti szépségéről és téli lékhorgászatáról is híres.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Notre-Dame templom",
+                  "text": "Elegáns templom a város központjában, amely a fürdőváros vallási és közösségi életének központja.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Termele din Mont-Dore",
+                  "text": "O bijuterie arhitecturală în stil neobizantin, renumită pentru izvoarele sale termale curative încă din epoca romană.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Funicularul Capucin",
+                  "text": "Cel mai vechi funicular electric din Franța, care transportă vizitatorii către un platou împădurit cu vederi superbe.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Marea Cascadă (Grande Cascade)",
+                  "text": "Cu o înălțime de 30 de metri, este una dintre cele mai înalte și spectaculoase cascade din regiunea Auvergne.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Puy de Sancy",
+                  "text": "Cel mai înalt vârf din Masivul Central, oferind o panoramă uluitoare și fiind o destinație de top pentru drumeții.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lacul Guéry",
+                  "text": "Un lac montan pitoresc de origine vulcanică, faimos pentru frumusețea sa naturală și activitățile de pescuit.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Notre-Dame",
+                  "text": "O biserică elegantă situată în centrul stațiunii, reprezentând centrul religios al orașului termal Mont-Dore.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont-Dore Thermal Baths",
+                  "text": "A neo-Byzantine architectural gem, famous for its healing thermal springs active since Roman times.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Capucin Funicular",
+                  "text": "The oldest electric funicular in France, taking visitors up to a beautiful forested plateau with panoramic views.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grande Cascade",
+                  "text": "Falling from 30 meters, this is one of the highest and most spectacular waterfalls in the Auvergne region.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Puy de Sancy",
+                  "text": "The highest peak of the Massif Central, offering breathtaking views and a paradise for mountain hikers.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lake Guéry",
+                  "text": "A picturesque volcanic mountain lake, known for its natural beauty and traditional winter ice fishing.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Notre-Dame Church",
+                  "text": "An elegant church located in the heart of the resort, serving as the religious center of the town.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ]
+}
   }
 ];
