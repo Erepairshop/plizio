@@ -511,15 +511,49 @@ const InteractiveMapInner = ({
       .catch(() => setSightsById((prev) => ({ ...prev, [selectedPoiId]: {} })));
   }, [selectedPoiId, selectedPoiBase, sightsById]);
 
-  // Merge sights into selectedPoi for downstream render code. While the fetch
-  // is in-flight, return the base POI unchanged (popup opens immediately,
-  // sights cards render once available).
+  // Lazy-fetch per-country POI JSON for description/facts (SEO_POIS lite drops
+  // them to keep the JS bundle small). Cache by country code; one fetch per
+  // country per session. Derive CC from POI.parent (e.g. "RO-SM" -> "RO").
+  const [poiMetaByCC, setPoiMetaByCC] = useState<Record<string, Record<string, { description?: unknown; facts?: unknown }> | "loading">>({});
+  const selectedCC = useMemo(() => {
+    const p = (selectedPoiBase as { parent?: string } | null)?.parent;
+    if (!p) return null;
+    const m = /^([A-Z]{2})(?:-|$)/.exec(p);
+    return m ? m[1] : null;
+  }, [selectedPoiBase]);
+  useEffect(() => {
+    if (!selectedCC) return;
+    if (poiMetaByCC[selectedCC]) return;
+    setPoiMetaByCC((prev) => ({ ...prev, [selectedCC]: "loading" }));
+    fetch(`/data/pois/${selectedCC}.json`)
+      .then((r) => (r.ok ? r.json() : null))
+      .then((data) => {
+        const list: Array<{ id?: string; description?: unknown; facts?: unknown }> = Array.isArray(data?.pois) ? data.pois : [];
+        const byId: Record<string, { description?: unknown; facts?: unknown }> = {};
+        for (const p of list) {
+          if (p?.id) byId[p.id] = { description: p.description, facts: p.facts };
+        }
+        setPoiMetaByCC((prev) => ({ ...prev, [selectedCC]: byId }));
+      })
+      .catch(() => setPoiMetaByCC((prev) => ({ ...prev, [selectedCC]: {} })));
+  }, [selectedCC, poiMetaByCC]);
+
+  // Merge sights + description/facts into selectedPoi for downstream render.
+  // Each piece is best-effort: popup opens immediately with base data and
+  // additional fields fill in as their fetches resolve.
   const selectedPoi = useMemo(() => {
     if (!selectedPoiBase) return null;
     const heavy = selectedPoiId ? sightsById[selectedPoiId] : null;
-    if (!heavy || heavy === "loading") return selectedPoiBase;
-    return { ...selectedPoiBase, ...(heavy as object) };
-  }, [selectedPoiBase, selectedPoiId, sightsById]);
+    const meta = selectedCC && selectedPoiId
+      ? (poiMetaByCC[selectedCC] && poiMetaByCC[selectedCC] !== "loading"
+          ? (poiMetaByCC[selectedCC] as Record<string, { description?: unknown; facts?: unknown }>)[selectedPoiId]
+          : null)
+      : null;
+    let merged: typeof selectedPoiBase = selectedPoiBase;
+    if (heavy && heavy !== "loading") merged = { ...merged, ...(heavy as object) };
+    if (meta) merged = { ...merged, ...(meta as object) };
+    return merged;
+  }, [selectedPoiBase, selectedPoiId, sightsById, selectedCC, poiMetaByCC]);
 
   // Simplified K1-K2 tier: only state-capitals, main nature, zoos/animal habitats
   const isSimplified = grade <= 2;
@@ -542,7 +576,7 @@ const InteractiveMapInner = ({
       return safePois.filter((p) => p.type !== "region" && allowed.has(p.type as typeof quizTypes[number]));
     }
     const allowedTypes = new Set(LAYER_TYPES[layer]);
-    return safePois.filter((p) => {
+    const out = safePois.filter((p) => {
       if (p.type === "region") return false;
       if (!allowedTypes.has(p.type)) return false;
       if (layer === "all" && p.subjects && !p.subjects.includes(subject)) return false;
@@ -554,15 +588,36 @@ const InteractiveMapInner = ({
         if (p.type === "city") return false;
         if (!SIMPLIFIED_TYPES.has(p.type)) return false;
       }
-      // City-tier filter: only apply to city + state-capital types; everything
-      // else (landmarks, rivers, mountains, nature) bypasses this check.
+      // City-tier filter: city + state-capital types only. POIs without explicit
+      // tier are treated as T2 (default visible, can be filtered).
       if ((p.type === "city" || p.type === "state-capital")) {
-        const tier = (p as POI & { tier?: number }).tier;
-        if (tier !== undefined && !cityTiers.has(tier)) return false;
+        const tier = (p as POI & { tier?: number }).tier ?? 2;
+        if (!cityTiers.has(tier)) return false;
       }
       if (onlyFavorites && !favorites.has(p.id)) return false;
       return true;
     });
+    // Per-tier cap: max 100 city POIs per tier (sorted by population desc).
+    // Non-city POIs pass through unchanged. Prevents map clutter when many
+    // small cities of the same tier are visible.
+    const byTier: Record<number, Array<POI & { _pop?: number }>> = {};
+    const nonCity: POI[] = [];
+    for (const p of out) {
+      if (p.type === "city" || p.type === "state-capital") {
+        const tier = (p as POI & { tier?: number }).tier ?? 2;
+        const pop = (p as POI & { population?: number }).population ?? 0;
+        (byTier[tier] ||= []).push({ ...p, _pop: pop } as POI & { _pop?: number });
+      } else {
+        nonCity.push(p);
+      }
+    }
+    const capped: POI[] = [...nonCity];
+    for (const tier of Object.keys(byTier)) {
+      const arr = byTier[Number(tier)];
+      arr.sort((a, b) => (b._pop ?? 0) - (a._pop ?? 0));
+      for (const p of arr.slice(0, 100)) capped.push(p);
+    }
+    return capped;
   }, [mapMode, quiz.visiblePoiTypes, quiz.visiblePoiIds, pois, layer, subject, grade, period, isSimplified, onlyFavorites, favorites, cityTiers]);
 
   // ---- Search results ------------------------------------------------------
