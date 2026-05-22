@@ -1,14 +1,5 @@
 [
   {
-    "title": "Incendiu devastator lângă Câmpulung Muscel! Ardeee o casă cu risc de propagare la o a doua proprietate și alte nenorociri",
-    "snippet": "Incendiu devastator lângă Câmpulung Muscel! Ardeee o casă cu risc de propagare la o a doua proprietate și alte nenorociri. Mobilizare de forțe, în această seară, în comuna Bughea de Sus, după izbucnirea unui incendiu la o locuință, existând pericolul ca flăcările să se extindă și la o proprietate în",
-    "url": "https://www.ziaruldinmuscel.ro/incendiu-devastator-langa-campulung-muscel-ardeee-o-casa-cu-risc-de-propagare-la-o-a-doua-proprietate-si-alte-nenorociri/",
-    "source": "Ziarul din Muscel",
-    "lang": "ro",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 17:03:46 +0000"
-  },
-  {
     "title": "Motociclist rănit într-un accident la intrare în Câmpulung",
     "snippet": "Un accident rutier a avut loc, în această seară, pe DN 73. O motocicletă și un autoturism s-au ciocnit în jurul orei 19:30, la intrare în municipiul Câmpulung. La fața locului au intervenit de urgență pompierii de la Detașamentul Câmpulung, cu o autospecială de intervenție și un echipaj SMURD de... ",
     "url": "https://evenimentulmuscelean.ro/2026/05/22/motociclist-ranit-intr-un-accident-la-intrare-in-campulung/",
@@ -16,6 +7,15 @@
     "lang": "ro",
     "scope": "city",
     "date": "Fri, 22 May 2026 18:43:13 +0000"
+  },
+  {
+    "title": "Anunț mega important pentru toți locuitorii din comuna Hârtiești, județul Argeș",
+    "snippet": "Anunț mega important pentru toți locuitorii din comuna Hârtiești, județul Argeș. În perioada 25.05-24.07.2026, de luni până joi între orele 09.00 15.00 și vineri între orele 09.00 13.00, la sediul Primăriei Hârtiești, se va desfășura etapa de publicare a lucrării de cadastru general din cadrul Comun",
+    "url": "https://www.ziaruldinmuscel.ro/anunt-mega-important-pentru-toti-locuitorii-din-comuna-hartiesti-judetul-arges/",
+    "source": "Ziarul din Muscel",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 19:00:26 +0000"
   },
   {
     "title": "Accident grav în Argeș, la Câmpulung, cu un motociclist",
@@ -45,22 +45,58 @@
     "date": "Fri, 22 May 2026 10:42:20 +0000"
   },
   {
-    "title": "UNIVERSUL ÎN CULORI: Cum au transformat tinerii artiști din Câmpulung pânzele în porți spre cunoaștere",
-    "snippet": "UNIVERSUL ÎN CULORI: Cum au transformat tinerii artiști din Câmpulung pânzele în porți spre cunoaștere. CITEȘTE ȘI. Omagiu de suflet la Schitu Golești de Ziua Eroilor: Administrația locală a depus coroane la Monumentele din comună Expoziția „Trepte spre tainele cunoașterii” a adus în fața publicului",
-    "url": "https://www.ziaruldinmuscel.ro/universul-in-culori-cum-au-transformat-tinerii-artisti-din-campulung-panzele-in-porti-spre-cunoastere/",
-    "source": "Ziarul din Muscel",
-    "lang": "ro",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 06:49:32 +0000"
-  },
-  {
-    "title": "Aurul este tot mai aproape: CS Muscel ARO Câmpulung, parcurs perfect la Turneul Final U17!",
-    "snippet": "Echipa feminină U17 a CS Muscel ARO Câmpulung traversează o perioadă excelentă la Turneul Final al Campionatului Național de volei, desfășurat la Târgu Mureș. Formația pregătită de antrenorul Adrian Mihăilă a reușit să câștige toate cele trei partide disputate până acum, apropiindu-se tot mai mult d",
-    "url": "https://evenimentulmuscelean.ro/2026/05/22/aurul-este-tot-mai-aproape-cs-muscel-aro-campulung-parcurs-perfect-la-turneul-final-u17/",
+    "title": "Incendiu violent într-o gospodărie din Bughea de Sus!",
+    "snippet": "Un incendiu puternic a izbucnit, în urmă cu scurt timp, într-o gospodărie din comuna Bughea de Sus, mobilizând de urgență pompierii argeșeni. Alarma a fost dată printr-un apel la 112, iar la fața locului au intervenit două autospeciale de stingere și o ambulanță SMURD de prim ajutor calificat. ... T",
+    "url": "https://evenimentulmuscelean.ro/2026/05/22/incendiu-violent-intr-o-gospodarie-din-bughea-de-sus/",
     "source": "Evenimentul Muscelean",
     "lang": "ro",
     "scope": "city",
-    "date": "Fri, 22 May 2026 13:54:31 +0000"
+    "date": "Fri, 22 May 2026 18:38:07 +0000"
+  },
+  {
+    "title": "Incendiu devastator lângă Câmpulung Muscel! Ardeee o casă cu risc de propagare la o a doua proprietate și alte nenorociri",
+    "snippet": "Incendiu devastator lângă Câmpulung Muscel! Ardeee o casă cu risc de propagare la o a doua proprietate și alte nenorociri. Mobilizare de forțe, în această seară, în comuna Bughea de Sus, după izbucnirea unui incendiu la o locuință, existând pericolul ca flăcările să se extindă și la o proprietate în",
+    "url": "https://www.ziaruldinmuscel.ro/incendiu-devastator-langa-campulung-muscel-ardeee-o-casa-cu-risc-de-propagare-la-o-a-doua-proprietate-si-alte-nenorociri/",
+    "source": "Ziarul din Muscel",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 17:03:46 +0000"
+  },
+  {
+    "title": "Atleta Olimpia Cataramă, „Cetățean de Onoare” în 2026, la Lerești. Multipla campioană națională și balcanică este al 12-lea din cei 13 copii ai pădurarului Ion Cataramă, din Voinești",
+    "snippet": "Cea mai plăcută veste legată de sărbătoarea Lereștiului, derulată în perioada 30 mai 1 iunie 2026, este prezența multiplei campioane naționale și balcanice Olimpia Cataramă la festivitatea oficială. Atletei specializate în aruncarea discului, care a participat de două ori la Jocurile Olimpice, în 19",
+    "url": "https://evenimentulmuscelean.ro/2026/05/22/atleta-olimpia-catarama-cetatean-de-onoare-in-2026-la-leresti-multipla-campioana-nationala-si-balcanica-este-al-12-lea-din-cei-13-copii-ai-padurarului-ion-catarama-din-voinesti/",
+    "source": "Evenimentul Muscelean",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 15:59:56 +0000"
+  },
+  {
+    "title": "IMPACT VIOLENT LA INTRAREA ÎN CÂMPULUNG: Motocicletă spulberată de un autoturism în zona barierei! Cum a scăpat miraculos pilotul",
+    "snippet": "IMPACT VIOLENT LA INTRAREA ÎN CÂMPULUNG: Motocicletă spulberată de un autoturism în zona barierei! Cum a scăpat miraculos pilotul. Un accident rutier grav a avut loc astăzi la intrarea în municipiul Câmpulung, chiar înainte de bariera de cale ferată. O motocicletă de culoare galbenă a fost izbită în",
+    "url": "https://www.ziaruldinmuscel.ro/impact-violent-la-intrarea-in-campulung-motocicleta-spulberata-de-un-autoturism-in-zona-barierei-cum-a-scapat-miraculos-pilotul/",
+    "source": "Ziarul din Muscel",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 15:57:06 +0000"
+  },
+  {
+    "title": "Clădirea care grupează secțiile ORL, Psihiatrie și Oftalmologie, modernizată prin investiția de renovare energetică. Pentru bolnavii cu dizabilități a fost realizat un lift, care a înlocuit rampa prev",
+    "snippet": "Derulată într-o perioadă complicată, în primul rând, din punct de vedere al finanțării, suspendate de Guvern cât timp a „cernut” proiectele avansate de cele întârziate, investiția de eficientizare termică a clădirii care grupează secțiile ORL, Psihiatrie și Oftalmologie a fost recepționată joi, 21 m",
+    "url": "https://evenimentulmuscelean.ro/2026/05/21/cladirea-care-grupeaza-sectiile-orl-psihiatrie-si-oftalmologie-modernizata-prin-investitia-de-renovare-energetica-pentru-bolnavii-cu-dizabilitati-a-fost-realizat-un-lift-care-a-inlocuit-rampa-prev/",
+    "source": "Evenimentul Muscelean",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Thu, 21 May 2026 15:35:20 +0000"
+  },
+  {
+    "title": "Pe înțelesul tuturor: Legea explicată de avocat. Munca la negru în România: Ce poate face un angajat când nu își primește drepturile",
+    "snippet": "Pe înțelesul tuturor: Legea explicată de avocat. Munca la negru în România: Ce poate face un angajat când nu își primește drepturile. Dacă lucrezi sau ai lucrat fără un contract individual de muncă înregistrat la Inspectoratul Teritorial de Muncă, te afli în situația cunoscută drept muncă la negru. ",
+    "url": "https://www.ziaruldinmuscel.ro/pe-intelesul-tuturor-legea-explicata-de-avocat-munca-la-negru-in-romania-ce-poate-face-un-angajat-cand-nu-isi-primeste-drepturile/",
+    "source": "Ziarul din Muscel",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Thu, 21 May 2026 19:13:20 +0000"
   },
   {
     "title": "Thriller la Târgu Mureș! CS Muscel ARO Câmpulung a cucerit sala după un meci dramatic și visează la titlul național",
@@ -72,30 +108,57 @@
     "date": "Wed, 20 May 2026 21:00:02 +0000"
   },
   {
-    "title": "19 martie 2026: trageri militare la Câmpulung până la ora 22:00. Zonă interzisă pentru populație",
-    "snippet": "Locuitorii din Câmpulung sunt avertizați că joi, 19 martie, vor avea loc exerciții de tragere în poligonul Măgura. Program extins pe durata zilei Activitățile militare sunt programate între orele 13:00 și 22:00 și vor fi desfășurate de Centrul de Instruire pentru Operații în Mediu CBRN „General Vasi",
-    "url": "https://ziarulargesul.ro/19-martie-2026-trageri-militare-la-campulung-pana-la-ora-2200-zona-interzisa-pentru-populatie/?utm_source=rss&utm_medium=rss&utm_campaign=19-martie-2026-trageri-militare-la-campulung-pana-la-ora-2200-zona-interzisa-pentru-populatie",
-    "source": "ziarulargesul.ro",
+    "title": "Omagiu de suflet la Schitu Golești de Ziua Eroilor: Administrația locală a depus coroane la Monumentele din comună",
+    "snippet": "Omagiu de suflet la Schitu Golești de Ziua Eroilor: Administrația locală a depus coroane la Monumentele din comună. Comunitatea din Schitu Golești a îmbrăcat haine de sărbătoare și recunoștință astăzi, 21 mai 2026, de Praznicul Înălțării Domnului. Reprezentanții administrației locale au marcat Ziua ",
+    "url": "https://www.ziaruldinmuscel.ro/omagiu-de-suflet-la-schitu-golesti-de-ziua-eroilor-administratia-locala-a-depus-coroane-la-monumentele-din-comuna/",
+    "source": "Ziarul din Muscel",
     "lang": "ro",
     "scope": "city",
-    "date": "Thu, 19 Mar 2026 08:24:46 +0000"
+    "date": "Thu, 21 May 2026 17:48:00 +0000"
   },
   {
-    "title": "Accident cu victimă în municipiul Câmpulung",
-    "snippet": "Accident rutier între două autoturisme, produs în municipiul Câmpulung, str. Negru Vodă. Intervin pompierii cu o autospecială, alături de un echipaj SAJ. Echipajul medical a preluat o persoană, iar pompierii asigură măsuri PSI. The post Accident cu victimă în municipiul Câmpulung first appeared on Z",
-    "url": "https://ziarulargesul.ro/accident-cu-victima-in-municipiul-campulung/?utm_source=rss&utm_medium=rss&utm_campaign=accident-cu-victima-in-municipiul-campulung",
-    "source": "ziarulargesul.ro",
+    "title": "Asociația crescătorilor de animale, care a făcut presiune pentru respingerea a două investiții private la Schitu Golești, a ratat contractul pentru pășuni. Câștigători au fost declarați doi concurenți",
+    "snippet": "Stăruința păguboasă pentru bugetul comunei Schitu Golești, manifestată de președintele Asociației Utilizatorilor Pășunilor Comunale și Crescătorilor de Animale, prezent la mai multe ședințe ale Consiliului Local, pentru a se asigura de votul potrivnic acordat unor dezvoltatori interesați să concesio",
+    "url": "https://evenimentulmuscelean.ro/2026/05/20/asociatia-crescatorilor-de-animale-care-a-facut-presiune-pentru-respingerea-a-doua-investitii-private-la-schitu-golesti-a-ratat-contractul-pentru-pasuni-castigatori-au-fost-declarati-doi-concurenti/",
+    "source": "Evenimentul Muscelean",
     "lang": "ro",
     "scope": "city",
-    "date": "Thu, 16 Oct 2025 14:27:56 +0000"
+    "date": "Wed, 20 May 2026 13:10:47 +0000"
   },
   {
-    "title": "Sorin Iacob, „motorul” din umbra motosportului românesc, va fi înmormântat pe 29 iulie 2025, la Câmpulung",
-    "snippet": "Automobilismul sportiv românesc își ia rămas bun de la o legendă a acestui domeniu. Musceleanul Sorin Iacob a încetat din viață la doar 57 de ani, în urma unui infarct suferit în Franța. Nenorocirea s-a petrecut la începutul săptămânii, în timp ce era în concediu cu soția. Personalitate de marcă a m",
-    "url": "https://ziarulargesul.ro/sorin-iacob-motorul-din-umbra-motosportului-romanesc-va-fi-inmormantat-pe-29-iulie-2025-la-campulung/?utm_source=rss&utm_medium=rss&utm_campaign=sorin-iacob-motorul-din-umbra-motosportului-romanesc-va-fi-inmormantat-pe-29-iulie-2025-la-campulung",
+    "title": "Triplă sărbătoare în comunitate: Autorități, preoți și elevi s-au unit în rugăciune la Monumentele Eroilor",
+    "snippet": "Triplă sărbătoare în comunitate: Autorități, preoți și elevi s-au unit în rugăciune la Monumentele Eroilor. Comunitatea locală a trăit momente de profundă încărcătură spirituală și patriotică astăzi, 21 mai 2026. Localnicii s-au reunit pentru a marca o triplă sărbătoare: Înălțarea Domnului, Ziua Ero",
+    "url": "https://www.ziaruldinmuscel.ro/tripla-sarbatoare-in-comunitate-autoritati-preoti-si-elevi-s-au-unit-in-rugaciune-la-monumentele-eroilor/",
+    "source": "Ziarul din Muscel",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Thu, 21 May 2026 16:53:38 +0000"
+  },
+  {
+    "title": "Oficial: Încă un oraș din Argeș interzice jocurile de noroc!",
+    "snippet": "Consiliul Local Curtea de Argeș a adoptat marți o hotărâre prin care interzice organizarea și exploatarea jocurilor de noroc tradiționale în spațiile deschise publicului, cu excepția jocurilor loto. Măsura vizează în special eliminarea aparatelor de tip slot-machine și restrângerea activităților de ",
+    "url": "https://ziarulargesul.ro/oficial-inca-un-oras-din-arges-interzice-jocurile-de-noroc/?utm_source=rss&utm_medium=rss&utm_campaign=oficial-inca-un-oras-din-arges-interzice-jocurile-de-noroc",
     "source": "ziarulargesul.ro",
     "lang": "ro",
     "scope": "city",
-    "date": "Sun, 27 Jul 2025 08:14:06 +0000"
+    "date": "Wed, 29 Apr 2026 11:14:27 +0000"
+  },
+  {
+    "title": "Jocurile de noroc, interzise într-un mare oraș din Argeș. Decizia se ia pe 27 martie",
+    "snippet": "Proiectul, pe masa autorităților locale Un proiect de hotărâre privind interzicerea desfășurării activităților de jocuri de noroc în locații fizice pe raza municipiului Curtea de Argeș va fi discutat în data de 27 martie 2026, de la ora 10:00, la sediul Primăriei. Ce prevede documentul Potrivit docu",
+    "url": "https://ziarulargesul.ro/jocurile-de-noroc-interzise-intr-un-mare-oras-din-arges-decizia-se-ia-pe-27-martie/?utm_source=rss&utm_medium=rss&utm_campaign=jocurile-de-noroc-interzise-intr-un-mare-oras-din-arges-decizia-se-ia-pe-27-martie",
+    "source": "ziarulargesul.ro",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Thu, 26 Mar 2026 06:14:01 +0000"
+  },
+  {
+    "title": "Hotărârea zilei la Curtea de Argeș. Ce se întâmplă cu apa potabilă",
+    "snippet": "Vot controversat în legislativul local Asigurarea apei potabile pentru persoanele cu nevoi speciale a generat un schimb dur de replici în Consiliul Local din Curtea de Argeș, după un vot care a împărțit aleșii locali în două tabere. Ședința Consiliului Local din Curtea de Argeș a fost marcată de con",
+    "url": "https://ziarulargesul.ro/hotararea-zilei-la-curtea-de-arges-ce-se-intampla-cu-apa-potabila/?utm_source=rss&utm_medium=rss&utm_campaign=hotararea-zilei-la-curtea-de-arges-ce-se-intampla-cu-apa-potabila",
+    "source": "ziarulargesul.ro",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Fri, 20 Feb 2026 14:05:54 +0000"
   }
 ]
