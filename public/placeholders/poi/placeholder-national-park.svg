@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" preserveAspectRatio="xMidYMid slice" role="img">
+<title>National park placeholder</title>
+<desc>Mountains, alpine lake and pine forest in protected wilderness</desc>
+<defs>
+<linearGradient id="gi99fhw" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#DDF0E5"></stop><stop offset="1" stop-color="#0F8060"></stop></linearGradient>
+<linearGradient id="bgi99fhw" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0"></stop>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.55"></stop>
+</linearGradient>
+
+</defs>
+<rect width="800" height="480" fill="url(#gi99fhw)"></rect>
+
+
+<polygon points="0,300 180,160 340,300" fill="#0066CC" opacity="0.55"></polygon>
+<polygon points="100,300 280,120 460,300" fill="#0066CC"></polygon>
+<polygon points="370,300 530,180 700,300" fill="#0066CC" opacity="0.7"></polygon>
+<polygon points="560,300 700,210 800,300" fill="#0066CC" opacity="0.5"></polygon>
+
+<polygon points="260,165 280,120 300,165 290,170 280,158 270,170" fill="#fff"></polygon>
+<polygon points="510,225 530,180 550,225 540,232 530,220 520,232" fill="#fff"></polygon>
+
+<circle cx="640" cy="120" r="32" fill="#FFE6A6" opacity="0.85"></circle>
+
+<ellipse cx="400" cy="340" rx="280" ry="32" fill="#0066CC" opacity="0.55"></ellipse>
+
+<g stroke="#ffffff" stroke-opacity="0.55" stroke-width="2" stroke-linecap="round">
+<line x1="200" y1="345" x2="280" y2="345"></line>
+<line x1="380" y1="350" x2="460" y2="350"></line>
+<line x1="540" y1="345" x2="620" y2="345"></line>
+</g>
+
+<g fill="#00A878">
+<polygon points="90,360 110,280 130,360"></polygon>
+<polygon points="120,360 145,290 170,360"></polygon>
+<polygon points="700,360 720,290 740,360"></polygon>
+<polygon points="670,360 690,300 710,360"></polygon>
+</g>
+
+<rect x="0" y="358" width="800" height="14" fill="#00A878" opacity="0.45"></rect>
+
+<rect x="0" y="320" width="800" height="160" fill="url(#bgi99fhw)"></rect>
+</svg>

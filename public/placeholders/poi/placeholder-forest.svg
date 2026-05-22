@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" preserveAspectRatio="xMidYMid slice" role="img">
+<title>Forest placeholder</title>
+<desc>Dense forest of pines and broadleaf trees</desc>
+<defs>
+<linearGradient id="gera2fo" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#DDF0E5"></stop><stop offset="1" stop-color="#1F8A5B"></stop></linearGradient>
+<linearGradient id="bgera2fo" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0"></stop>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.55"></stop>
+</linearGradient>
+
+</defs>
+<rect width="800" height="480" fill="url(#gera2fo)"></rect>
+
+
+<g fill="#00A878" opacity="0.45">
+<polygon points="20,280 38,220 56,280"></polygon><polygon points="60,280 78,220 96,280"></polygon><polygon points="100,280 118,220 136,280"></polygon><polygon points="140,280 158,220 176,280"></polygon><polygon points="180,280 198,220 216,280"></polygon><polygon points="220,280 238,220 256,280"></polygon><polygon points="260,280 278,220 296,280"></polygon><polygon points="300,280 318,220 336,280"></polygon><polygon points="340,280 358,220 376,280"></polygon><polygon points="380,280 398,220 416,280"></polygon><polygon points="420,280 438,220 456,280"></polygon><polygon points="460,280 478,220 496,280"></polygon><polygon points="500,280 518,220 536,280"></polygon><polygon points="540,280 558,220 576,280"></polygon><polygon points="580,280 598,220 616,280"></polygon><polygon points="620,280 638,220 656,280"></polygon><polygon points="660,280 678,220 696,280"></polygon><polygon points="700,280 718,220 736,280"></polygon><polygon points="740,280 758,220 776,280"></polygon><polygon points="780,280 798,220 816,280"></polygon>
+</g>
+
+<g fill="#00A878" opacity="0.75">
+<polygon points="60,340 85,220 110,340"></polygon><rect x="82" y="335" width="6" height="14" fill="#5C3A1E"></rect><polygon points="140,340 165,220 190,340"></polygon><rect x="162" y="335" width="6" height="14" fill="#5C3A1E"></rect><polygon points="230,340 255,220 280,340"></polygon><rect x="252" y="335" width="6" height="14" fill="#5C3A1E"></rect><polygon points="310,340 335,220 360,340"></polygon><rect x="332" y="335" width="6" height="14" fill="#5C3A1E"></rect><polygon points="400,340 425,220 450,340"></polygon><rect x="422" y="335" width="6" height="14" fill="#5C3A1E"></rect><polygon points="490,340 515,220 540,340"></polygon><rect x="512" y="335" width="6" height="14" fill="#5C3A1E"></rect><polygon points="580,340 605,220 630,340"></polygon><rect x="602" y="335" width="6" height="14" fill="#5C3A1E"></rect><polygon points="660,340 685,220 710,340"></polygon><rect x="682" y="335" width="6" height="14" fill="#5C3A1E"></rect><polygon points="740,340 765,220 790,340"></polygon><rect x="762" y="335" width="6" height="14" fill="#5C3A1E"></rect>
+</g>
+
+<g>
+<circle cx="160" cy="305" r="48" fill="#1F8A5B"></circle>
+<rect x="152" y="335" width="14" height="30" fill="#5C3A1E"></rect>
+<circle cx="380" cy="290" r="58" fill="#1F8A5B"></circle>
+<rect x="372" y="320" width="14" height="40" fill="#5C3A1E"></rect>
+<circle cx="600" cy="305" r="50" fill="#1F8A5B"></circle>
+<rect x="592" y="335" width="14" height="30" fill="#5C3A1E"></rect>
+</g>
+
+<g stroke="#FFE6A6" stroke-opacity="0.4" stroke-width="3" stroke-linecap="round">
+<line x1="200" y1="120" x2="240" y2="220"></line>
+<line x1="500" y1="100" x2="540" y2="200"></line>
+<line x1="680" y1="130" x2="710" y2="210"></line>
+</g>
+
+<rect x="0" y="365" width="800" height="20" fill="#00A878" opacity="0.3"></rect>
+
+<rect x="0" y="320" width="800" height="160" fill="url(#bgera2fo)"></rect>
+</svg>

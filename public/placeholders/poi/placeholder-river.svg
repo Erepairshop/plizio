@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" preserveAspectRatio="xMidYMid slice" role="img">
+<title>River or lake placeholder</title>
+<desc>Calm water body with distant mountains and reeds</desc>
+<defs>
+<linearGradient id="gi5wf6d" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#DCEFF5"></stop><stop offset="1" stop-color="#3CB0CC"></stop></linearGradient>
+<linearGradient id="bgi5wf6d" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0"></stop>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.55"></stop>
+</linearGradient>
+
+</defs>
+<rect width="800" height="480" fill="url(#gi5wf6d)"></rect>
+
+
+<path d="M0 270 Q 200 250 400 268 T 800 262 L 800 300 L 0 300 Z" fill="#00A878" opacity="0.5"></path>
+
+<polygon points="80,275 180,210 280,275" fill="#0066CC" opacity="0.35"></polygon>
+<polygon points="240,275 360,200 480,275" fill="#0066CC" opacity="0.45"></polygon>
+<polygon points="440,275 560,215 680,275" fill="#0066CC" opacity="0.35"></polygon>
+
+<circle cx="640" cy="140" r="32" fill="#FFE6A6" opacity="0.85"></circle>
+
+<rect x="0" y="300" width="800" height="100" fill="#0066CC" opacity="0.55"></rect>
+
+<g stroke="#ffffff" stroke-opacity="0.55" stroke-width="2" fill="none" stroke-linecap="round">
+<line x1="60" y1="320" x2="130" y2="320"></line>
+<line x1="200" y1="335" x2="290" y2="335"></line>
+<line x1="380" y1="318" x2="460" y2="318"></line>
+<line x1="540" y1="338" x2="640" y2="338"></line>
+<line x1="120" y1="358" x2="200" y2="358"></line>
+<line x1="430" y1="362" x2="540" y2="362"></line>
+</g>
+
+<g stroke="#00A878" stroke-width="2" stroke-linecap="round">
+<line x1="60" y1="395" x2="60" y2="360"></line>
+<line x1="68" y1="395" x2="68" y2="365"></line>
+<line x1="76" y1="395" x2="76" y2="362"></line>
+<line x1="730" y1="395" x2="730" y2="362"></line>
+<line x1="738" y1="395" x2="738" y2="368"></line>
+<line x1="746" y1="395" x2="746" y2="358"></line>
+</g>
+
+<rect x="0" y="320" width="800" height="160" fill="url(#bgi5wf6d)"></rect>
+</svg>

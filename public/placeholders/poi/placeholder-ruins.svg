@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" preserveAspectRatio="xMidYMid slice" role="img">
+<title>Ruins placeholder</title>
+<desc>Ancient ruins with standing and fallen column drums</desc>
+<defs>
+<linearGradient id="gyz6afo" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F3E8D8"></stop><stop offset="1" stop-color="#AD7A47"></stop></linearGradient>
+<linearGradient id="bgyz6afo" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0"></stop>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.55"></stop>
+</linearGradient>
+
+</defs>
+<rect width="800" height="480" fill="url(#gyz6afo)"></rect>
+
+
+<path d="M0 320 Q 200 290 400 312 T 800 308 L 800 360 L 0 360 Z" fill="#B45309" opacity="0.25"></path>
+
+<rect x="200" y="190" width="180" height="14" fill="#B45309"></rect>
+<rect x="200" y="178" width="200" height="10" fill="#D49B68"></rect>
+
+<g fill="#E8C996">
+<rect x="210" y="204" width="32" height="146"></rect>
+<rect x="278" y="204" width="32" height="146"></rect>
+<rect x="346" y="204" width="32" height="146"></rect>
+</g>
+<g stroke="#B45309" stroke-opacity="0.4" stroke-width="1.4">
+<line x1="220" y1="210" x2="220" y2="345"></line><line x1="232" y1="210" x2="232" y2="345"></line>
+<line x1="288" y1="210" x2="288" y2="345"></line><line x1="300" y1="210" x2="300" y2="345"></line>
+<line x1="356" y1="210" x2="356" y2="345"></line><line x1="368" y1="210" x2="368" y2="345"></line>
+</g>
+
+<rect x="430" y="250" width="32" height="100" fill="#E8C996"></rect>
+<polygon points="430,250 462,250 458,242 434,246" fill="#B45309"></polygon>
+
+<g fill="#E8C996">
+<rect x="510" y="330" width="60" height="20" rx="4"></rect>
+<rect x="585" y="335" width="48" height="15" rx="3"></rect>
+<circle cx="645" cy="338" r="11"></circle>
+</g>
+
+<rect x="0" y="350" width="800" height="16" fill="#B45309" opacity="0.2"></rect>
+
+<g stroke="#00A878" stroke-width="2" stroke-linecap="round">
+<line x1="400" y1="358" x2="400" y2="345"></line>
+<line x1="406" y1="358" x2="408" y2="346"></line>
+<line x1="495" y1="358" x2="493" y2="346"></line>
+<line x1="700" y1="358" x2="700" y2="346"></line>
+</g>
+
+<rect x="0" y="320" width="800" height="160" fill="url(#bgyz6afo)"></rect>
+</svg>

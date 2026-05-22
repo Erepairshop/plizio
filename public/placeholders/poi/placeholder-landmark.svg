@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" preserveAspectRatio="xMidYMid slice" role="img">
+<title>Landmark placeholder</title>
+<desc>Iconic monument: tall ornate column with side pillars</desc>
+<defs>
+<linearGradient id="griki98" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFF4E6"></stop><stop offset="1" stop-color="#E8B45F"></stop></linearGradient>
+<linearGradient id="bgriki98" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0"></stop>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.55"></stop>
+</linearGradient>
+
+</defs>
+<rect width="800" height="480" fill="url(#griki98)"></rect>
+
+
+<circle cx="620" cy="120" r="38" fill="#FFE6A6" opacity="0.85"></circle>
+
+<path d="M0 330 Q 200 280 400 320 T 800 310 L 800 360 L 0 360 Z" fill="#B45309" opacity="0.25"></path>
+
+<rect x="360" y="340" width="80" height="20" fill="#B45309"></rect>
+
+<rect x="380" y="160" width="40" height="180" fill="#F59E0B"></rect>
+
+<g stroke="#B45309" stroke-opacity="0.5" stroke-width="1.5">
+<line x1="389" y1="170" x2="389" y2="335"></line>
+<line x1="400" y1="170" x2="400" y2="335"></line>
+<line x1="411" y1="170" x2="411" y2="335"></line>
+</g>
+
+<rect x="370" y="150" width="60" height="14" fill="#B45309"></rect>
+
+<circle cx="400" cy="130" r="22" fill="#F59E0B"></circle>
+<polygon points="400,100 388,128 412,128" fill="#B45309"></polygon>
+
+<g fill="#F59E0B" opacity="0.7">
+<rect x="280" y="220" width="22" height="120"></rect>
+<rect x="498" y="220" width="22" height="120"></rect>
+</g>
+<g fill="#B45309" opacity="0.7">
+<rect x="275" y="215" width="32" height="8"></rect>
+<rect x="493" y="215" width="32" height="8"></rect>
+<rect x="275" y="338" width="32" height="6"></rect>
+<rect x="493" y="338" width="32" height="6"></rect>
+</g>
+
+<rect x="0" y="360" width="800" height="20" fill="#B45309" opacity="0.2"></rect>
+
+<rect x="0" y="320" width="800" height="160" fill="url(#bgriki98)"></rect>
+</svg>

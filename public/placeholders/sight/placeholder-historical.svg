@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" preserveAspectRatio="xMidYMid slice" role="img">
+<title>Historical site</title>
+<desc>Ancient column and arch</desc>
+<defs>
+<linearGradient id="g0pgjcf" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FBEEDC"></stop><stop offset="1" stop-color="#C8884E"></stop></linearGradient>
+<linearGradient id="bg0pgjcf" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0"></stop>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.55"></stop>
+</linearGradient>
+</defs>
+<rect width="400" height="400" fill="url(#g0pgjcf)"></rect>
+
+
+<path d="M120 240 Q 120 160 200 160 Q 280 160 280 240 L 280 280 L 120 280 Z" fill="#B45309" opacity="0.35"></path>
+<path d="M140 240 Q 140 180 200 180 Q 260 180 260 240 L 260 280 L 140 280 Z" fill="#FBEEDC"></path>
+
+<rect x="180" y="120" width="40" height="170" fill="#E8C996"></rect>
+<g stroke="#B45309" stroke-opacity="0.4" stroke-width="1.4">
+<line x1="190" y1="130" x2="190" y2="285"></line>
+<line x1="200" y1="130" x2="200" y2="285"></line>
+<line x1="210" y1="130" x2="210" y2="285"></line>
+</g>
+<rect x="172" y="114" width="56" height="10" fill="#B45309"></rect>
+<rect x="170" y="100" width="60" height="10" fill="#D29661"></rect>
+<rect x="172" y="288" width="56" height="10" fill="#B45309"></rect>
+<rect x="160" y="298" width="80" height="8" fill="#A86F38"></rect>
+
+<rect x="0" y="266.6666666666667" width="400" height="133.33333333333334" fill="url(#bg0pgjcf)"></rect>
+</svg>

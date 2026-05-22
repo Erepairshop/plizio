@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" preserveAspectRatio="xMidYMid slice" role="img">
+<title>Museum</title>
+<desc>Classical museum facade with columns</desc>
+<defs>
+<linearGradient id="g5gcvck" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFF4E6"></stop><stop offset="1" stop-color="#E0AF55"></stop></linearGradient>
+<linearGradient id="bg5gcvck" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0"></stop>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.55"></stop>
+</linearGradient>
+</defs>
+<rect width="400" height="400" fill="url(#g5gcvck)"></rect>
+
+<rect x="80" y="190" width="240" height="110" fill="#F6E8C9"></rect>
+<rect x="70" y="178" width="260" height="12" fill="#F59E0B"></rect>
+<polygon points="70,178 200,118 330,178" fill="#F59E0B"></polygon>
+<polygon points="90,178 200,128 310,178" fill="#FFD789" opacity="0.6"></polygon>
+<rect x="90" y="192" width="20" height="108" fill="#E8C996"></rect><rect x="86" y="188" width="28" height="6" fill="#F59E0B"></rect><rect x="86" y="296" width="28" height="6" fill="#F59E0B"></rect><rect x="140" y="192" width="20" height="108" fill="#E8C996"></rect><rect x="136" y="188" width="28" height="6" fill="#F59E0B"></rect><rect x="136" y="296" width="28" height="6" fill="#F59E0B"></rect><rect x="190" y="192" width="20" height="108" fill="#E8C996"></rect><rect x="186" y="188" width="28" height="6" fill="#F59E0B"></rect><rect x="186" y="296" width="28" height="6" fill="#F59E0B"></rect><rect x="240" y="192" width="20" height="108" fill="#E8C996"></rect><rect x="236" y="188" width="28" height="6" fill="#F59E0B"></rect><rect x="236" y="296" width="28" height="6" fill="#F59E0B"></rect><rect x="280" y="192" width="20" height="108" fill="#E8C996"></rect><rect x="276" y="188" width="28" height="6" fill="#F59E0B"></rect><rect x="276" y="296" width="28" height="6" fill="#F59E0B"></rect>
+<rect x="60" y="302" width="280" height="8" fill="#B45309"></rect>
+<rect x="50" y="310" width="300" height="8" fill="#A86F38"></rect>
+
+<rect x="0" y="266.6666666666667" width="400" height="133.33333333333334" fill="url(#bg5gcvck)"></rect>
+</svg>

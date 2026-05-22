@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" preserveAspectRatio="xMidYMid slice" role="img">
+<title>Museum placeholder</title>
+<desc>Classical museum facade with columns, pediment and dome</desc>
+<defs>
+<linearGradient id="gu3ciyw" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFF4E6"></stop><stop offset="1" stop-color="#E0AF55"></stop></linearGradient>
+<linearGradient id="bgu3ciyw" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0"></stop>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.55"></stop>
+</linearGradient>
+
+</defs>
+<rect width="800" height="480" fill="url(#gu3ciyw)"></rect>
+
+
+<rect x="120" y="345" width="560" height="8" fill="#D9A85A"></rect>
+<rect x="100" y="353" width="600" height="8" fill="#C0913F"></rect>
+<rect x="80" y="361" width="640" height="8" fill="#A47823"></rect>
+
+<rect x="180" y="220" width="440" height="125" fill="#F6E8C9"></rect>
+
+<rect x="160" y="208" width="480" height="14" fill="#F59E0B"></rect>
+
+<polygon points="160,208 400,150 640,208" fill="#F59E0B"></polygon>
+<polygon points="180,208 400,162 620,208" fill="#FFD789" opacity="0.6"></polygon>
+
+<path d="M340 150 Q 400 80 460 150 Z" fill="#D49B47"></path>
+<rect x="395" y="60" width="10" height="20" fill="#D49B47"></rect>
+<circle cx="400" cy="60" r="5" fill="#F59E0B"></circle>
+
+<rect x="200" y="222" width="22" height="120" fill="#E8C996"></rect><rect x="197" y="218" width="28" height="6" fill="#F59E0B"></rect><rect x="197" y="342" width="28" height="6" fill="#F59E0B"></rect><line x1="206" y1="225" x2="206" y2="340" stroke="#B45309" stroke-opacity="0.35" stroke-width="1.4"></line><line x1="215" y1="225" x2="215" y2="340" stroke="#B45309" stroke-opacity="0.35" stroke-width="1.4"></line><rect x="280" y="222" width="22" height="120" fill="#E8C996"></rect><rect x="277" y="218" width="28" height="6" fill="#F59E0B"></rect><rect x="277" y="342" width="28" height="6" fill="#F59E0B"></rect><line x1="286" y1="225" x2="286" y2="340" stroke="#B45309" stroke-opacity="0.35" stroke-width="1.4"></line><line x1="295" y1="225" x2="295" y2="340" stroke="#B45309" stroke-opacity="0.35" stroke-width="1.4"></line><rect x="360" y="222" width="22" height="120" fill="#E8C996"></rect><rect x="357" y="218" width="28" height="6" fill="#F59E0B"></rect><rect x="357" y="342" width="28" height="6" fill="#F59E0B"></rect><line x1="366" y1="225" x2="366" y2="340" stroke="#B45309" stroke-opacity="0.35" stroke-width="1.4"></line><line x1="375" y1="225" x2="375" y2="340" stroke="#B45309" stroke-opacity="0.35" stroke-width="1.4"></line><rect x="440" y="222" width="22" height="120" fill="#E8C996"></rect><rect x="437" y="218" width="28" height="6" fill="#F59E0B"></rect><rect x="437" y="342" width="28" height="6" fill="#F59E0B"></rect><line x1="446" y1="225" x2="446" y2="340" stroke="#B45309" stroke-opacity="0.35" stroke-width="1.4"></line><line x1="455" y1="225" x2="455" y2="340" stroke="#B45309" stroke-opacity="0.35" stroke-width="1.4"></line><rect x="520" y="222" width="22" height="120" fill="#E8C996"></rect><rect x="517" y="218" width="28" height="6" fill="#F59E0B"></rect><rect x="517" y="342" width="28" height="6" fill="#F59E0B"></rect><line x1="526" y1="225" x2="526" y2="340" stroke="#B45309" stroke-opacity="0.35" stroke-width="1.4"></line><line x1="535" y1="225" x2="535" y2="340" stroke="#B45309" stroke-opacity="0.35" stroke-width="1.4"></line><rect x="600" y="222" width="22" height="120" fill="#E8C996"></rect><rect x="597" y="218" width="28" height="6" fill="#F59E0B"></rect><rect x="597" y="342" width="28" height="6" fill="#F59E0B"></rect><line x1="606" y1="225" x2="606" y2="340" stroke="#B45309" stroke-opacity="0.35" stroke-width="1.4"></line><line x1="615" y1="225" x2="615" y2="340" stroke="#B45309" stroke-opacity="0.35" stroke-width="1.4"></line>
+
+<rect x="385" y="280" width="30" height="65" fill="#B45309"></rect>
+
+<rect x="0" y="320" width="800" height="160" fill="url(#bgu3ciyw)"></rect>
+</svg>

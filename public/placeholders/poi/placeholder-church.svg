@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" preserveAspectRatio="xMidYMid slice" role="img">
+<title>Church placeholder</title>
+<desc>Abstract church with bell tower, arched windows, neutral spire</desc>
+<defs>
+<linearGradient id="g4h3vpk" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E6E9F5"></stop><stop offset="1" stop-color="#5A6B96"></stop></linearGradient>
+<linearGradient id="bg4h3vpk" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0"></stop>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.55"></stop>
+</linearGradient>
+
+</defs>
+<rect width="800" height="480" fill="url(#g4h3vpk)"></rect>
+
+
+<path d="M0 330 Q 250 285 500 325 T 800 320 L 800 360 L 0 360 Z" fill="#0066CC" opacity="0.25"></path>
+
+<rect x="260" y="240" width="280" height="120" fill="#F4ECDF"></rect>
+<polygon points="260,240 400,180 540,240" fill="#B45309" opacity="0.85"></polygon>
+
+<rect x="370" y="140" width="60" height="100" fill="#F4ECDF"></rect>
+<polygon points="370,140 400,100 430,140" fill="#B45309" opacity="0.85"></polygon>
+
+<polygon points="397,100 403,100 400,70" fill="#0066CC"></polygon>
+<circle cx="400" cy="68" r="4" fill="#F59E0B"></circle>
+
+<rect x="386" y="160" width="28" height="36" rx="14" fill="#0066CC" opacity="0.5"></rect>
+
+<path d="M380 280 Q 380 250 400 250 Q 420 250 420 280 L 420 320 L 380 320 Z" fill="#0066CC" opacity="0.55"></path>
+
+<g fill="#0066CC" opacity="0.35">
+<path d="M290 290 Q 290 270 305 270 Q 320 270 320 290 L 320 330 L 290 330 Z"></path>
+<path d="M340 290 Q 340 270 355 270 Q 370 270 370 290 L 370 330 L 340 330 Z"></path>
+<path d="M430 290 Q 430 270 445 270 Q 460 270 460 290 L 460 330 L 430 330 Z"></path>
+<path d="M480 290 Q 480 270 495 270 Q 510 270 510 290 L 510 330 L 480 330 Z"></path>
+</g>
+
+<rect x="0" y="360" width="800" height="20" fill="#00A878" opacity="0.3"></rect>
+
+<rect x="0" y="320" width="800" height="160" fill="url(#bg4h3vpk)"></rect>
+</svg>

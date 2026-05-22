@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" preserveAspectRatio="xMidYMid slice" role="img">
+<title>Recreational site</title>
+<desc>Park scene with tree, bench and ball</desc>
+<defs>
+<linearGradient id="gtcdjff" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#DDF0E5"></stop><stop offset="1" stop-color="#1F8A5B"></stop></linearGradient>
+<linearGradient id="bgtcdjff" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0"></stop>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.55"></stop>
+</linearGradient>
+</defs>
+<rect width="400" height="400" fill="url(#gtcdjff)"></rect>
+
+
+<circle cx="320" cy="110" r="26" fill="#FFE6A6" opacity="0.9"></circle>
+
+<path d="M0 260 Q 200 230 400 250 L 400 290 L 0 290 Z" fill="#00A878" opacity="0.5"></path>
+
+<circle cx="120" cy="200" r="50" fill="#1F8A5B"></circle>
+<rect x="113" y="240" width="14" height="50" fill="#5C3A1E"></rect>
+
+<g fill="#B45309">
+<rect x="200" y="260" width="80" height="8" rx="2"></rect>
+<rect x="205" y="268" width="6" height="20"></rect>
+<rect x="269" y="268" width="6" height="20"></rect>
+</g>
+
+<circle cx="300" cy="280" r="18" fill="#F59E0B"></circle>
+<path d="M286 274 Q 300 264 314 274" stroke="#B45309" stroke-width="2" fill="none"></path>
+<path d="M286 290 Q 300 298 314 290" stroke="#B45309" stroke-width="2" fill="none"></path>
+
+<rect x="0" y="290" width="400" height="20" fill="#00A878" opacity="0.4"></rect>
+
+<rect x="0" y="266.6666666666667" width="400" height="133.33333333333334" fill="url(#bgtcdjff)"></rect>
+</svg>

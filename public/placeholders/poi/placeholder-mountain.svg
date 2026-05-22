@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" preserveAspectRatio="xMidYMid slice" role="img">
+<title>Mountain placeholder</title>
+<desc>Snow-capped mountain peaks with pines and meadow</desc>
+<defs>
+<linearGradient id="gk2346d" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#DCEAF7"></stop><stop offset="1" stop-color="#7AA8D0"></stop></linearGradient>
+<linearGradient id="bgk2346d" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0"></stop>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.55"></stop>
+</linearGradient>
+
+</defs>
+<rect width="800" height="480" fill="url(#gk2346d)"></rect>
+
+
+<polygon points="80,360 260,140 440,360" fill="#0066CC" opacity="0.55"></polygon>
+
+<polygon points="218,200 260,140 302,200 285,205 270,195 255,210 240,205" fill="#ffffff" opacity="0.9"></polygon>
+
+<polygon points="240,360 460,90 680,360" fill="#0066CC"></polygon>
+
+<polygon points="410,170 460,90 510,170 490,180 472,165 455,185 432,175" fill="#ffffff"></polygon>
+
+<polygon points="500,360 660,180 800,360 800,360" fill="#0066CC" opacity="0.7"></polygon>
+<polygon points="625,235 660,180 695,235 680,240 668,228 654,242 638,232" fill="#ffffff" opacity="0.95"></polygon>
+
+<circle cx="120" cy="120" r="34" fill="#FFE6A6" opacity="0.9"></circle>
+
+<g fill="#00A878">
+<polygon points="100,355 110,340 120,355"></polygon>
+<polygon points="130,355 140,335 150,355"></polygon>
+<polygon points="170,357 178,344 186,357"></polygon>
+<polygon points="710,358 720,342 730,358"></polygon>
+<polygon points="740,355 752,335 764,355"></polygon>
+</g>
+
+<path d="M0 350 Q 200 340 400 352 T 800 348 L 800 400 L 0 400 Z" fill="#00A878" opacity="0.55"></path>
+
+<rect x="0" y="320" width="800" height="160" fill="url(#bgk2346d)"></rect>
+</svg>

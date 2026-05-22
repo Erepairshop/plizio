@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" preserveAspectRatio="xMidYMid slice" role="img">
+<title>Relief placeholder</title>
+<desc>Topographic contour lines indicating terrain elevation</desc>
+<defs>
+<linearGradient id="g6uyxw1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E6F0FA"></stop><stop offset="1" stop-color="#5B8FBF"></stop></linearGradient>
+<linearGradient id="bg6uyxw1" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0"></stop>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.55"></stop>
+</linearGradient>
+
+</defs>
+<rect width="800" height="480" fill="url(#g6uyxw1)"></rect>
+
+<g fill="none" stroke="#0066CC" stroke-width="2.2" stroke-linejoin="round">
+<path d="M40 380 Q 200 360 400 370 T 760 360" opacity="0.85"></path>
+<path d="M60 350 Q 200 320 400 335 T 760 320" opacity="0.75"></path>
+<path d="M80 320 Q 220 285 400 300 T 760 280" opacity="0.65"></path>
+<path d="M120 290 Q 230 255 400 270 T 740 250" opacity="0.55"></path>
+<path d="M160 260 Q 260 225 400 240 T 720 220" opacity="0.45"></path>
+<path d="M210 230 Q 290 195 400 210 T 690 190" opacity="0.4"></path>
+<path d="M260 200 Q 320 170 400 180 T 660 165" opacity="0.35"></path>
+<path d="M310 175 Q 350 155 400 158 T 620 145" opacity="0.3"></path>
+<path d="M350 155 Q 380 140 400 138 T 580 130" opacity="0.25"></path>
+</g>
+
+<g fill="#B45309">
+<polygon points="450,120 460,100 470,120"></polygon>
+</g>
+
+<g fill="#0066CC" opacity="0.4">
+<circle cx="60" cy="160" r="1"></circle><circle cx="100" cy="160" r="1"></circle><circle cx="140" cy="160" r="1"></circle><circle cx="180" cy="160" r="1"></circle><circle cx="220" cy="160" r="1"></circle><circle cx="260" cy="160" r="1"></circle><circle cx="300" cy="160" r="1"></circle><circle cx="340" cy="160" r="1"></circle><circle cx="380" cy="160" r="1"></circle><circle cx="420" cy="160" r="1"></circle><circle cx="460" cy="160" r="1"></circle><circle cx="500" cy="160" r="1"></circle><circle cx="540" cy="160" r="1"></circle><circle cx="580" cy="160" r="1"></circle><circle cx="620" cy="160" r="1"></circle><circle cx="660" cy="160" r="1"></circle><circle cx="700" cy="160" r="1"></circle><circle cx="740" cy="160" r="1"></circle><circle cx="60" cy="200" r="1"></circle><circle cx="100" cy="200" r="1"></circle><circle cx="140" cy="200" r="1"></circle><circle cx="180" cy="200" r="1"></circle><circle cx="220" cy="200" r="1"></circle><circle cx="260" cy="200" r="1"></circle><circle cx="300" cy="200" r="1"></circle><circle cx="340" cy="200" r="1"></circle><circle cx="380" cy="200" r="1"></circle><circle cx="420" cy="200" r="1"></circle><circle cx="460" cy="200" r="1"></circle><circle cx="500" cy="200" r="1"></circle><circle cx="540" cy="200" r="1"></circle><circle cx="580" cy="200" r="1"></circle><circle cx="620" cy="200" r="1"></circle><circle cx="660" cy="200" r="1"></circle><circle cx="700" cy="200" r="1"></circle><circle cx="740" cy="200" r="1"></circle><circle cx="60" cy="240" r="1"></circle><circle cx="100" cy="240" r="1"></circle><circle cx="140" cy="240" r="1"></circle><circle cx="180" cy="240" r="1"></circle><circle cx="220" cy="240" r="1"></circle><circle cx="260" cy="240" r="1"></circle><circle cx="300" cy="240" r="1"></circle><circle cx="340" cy="240" r="1"></circle><circle cx="380" cy="240" r="1"></circle><circle cx="420" cy="240" r="1"></circle><circle cx="460" cy="240" r="1"></circle><circle cx="500" cy="240" r="1"></circle><circle cx="540" cy="240" r="1"></circle><circle cx="580" cy="240" r="1"></circle><circle cx="620" cy="240" r="1"></circle><circle cx="660" cy="240" r="1"></circle><circle cx="700" cy="240" r="1"></circle><circle cx="740" cy="240" r="1"></circle><circle cx="60" cy="280" r="1"></circle><circle cx="100" cy="280" r="1"></circle><circle cx="140" cy="280" r="1"></circle><circle cx="180" cy="280" r="1"></circle><circle cx="220" cy="280" r="1"></circle><circle cx="260" cy="280" r="1"></circle><circle cx="300" cy="280" r="1"></circle><circle cx="340" cy="280" r="1"></circle><circle cx="380" cy="280" r="1"></circle><circle cx="420" cy="280" r="1"></circle><circle cx="460" cy="280" r="1"></circle><circle cx="500" cy="280" r="1"></circle><circle cx="540" cy="280" r="1"></circle><circle cx="580" cy="280" r="1"></circle><circle cx="620" cy="280" r="1"></circle><circle cx="660" cy="280" r="1"></circle><circle cx="700" cy="280" r="1"></circle><circle cx="740" cy="280" r="1"></circle><circle cx="60" cy="320" r="1"></circle><circle cx="100" cy="320" r="1"></circle><circle cx="140" cy="320" r="1"></circle><circle cx="180" cy="320" r="1"></circle><circle cx="220" cy="320" r="1"></circle><circle cx="260" cy="320" r="1"></circle><circle cx="300" cy="320" r="1"></circle><circle cx="340" cy="320" r="1"></circle><circle cx="380" cy="320" r="1"></circle><circle cx="420" cy="320" r="1"></circle><circle cx="460" cy="320" r="1"></circle><circle cx="500" cy="320" r="1"></circle><circle cx="540" cy="320" r="1"></circle><circle cx="580" cy="320" r="1"></circle><circle cx="620" cy="320" r="1"></circle><circle cx="660" cy="320" r="1"></circle><circle cx="700" cy="320" r="1"></circle><circle cx="740" cy="320" r="1"></circle>
+</g>
+
+<rect x="0" y="320" width="800" height="160" fill="url(#bg6uyxw1)"></rect>
+</svg>

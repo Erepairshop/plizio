@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" preserveAspectRatio="xMidYMid slice" role="img">
+<title>Culinary</title>
+<desc>Wine glass and plate with utensils</desc>
+<defs>
+<linearGradient id="gioyzky" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FBEEDC"></stop><stop offset="1" stop-color="#C8884E"></stop></linearGradient>
+<linearGradient id="bgioyzky" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0"></stop>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.55"></stop>
+</linearGradient>
+</defs>
+<rect width="400" height="400" fill="url(#gioyzky)"></rect>
+
+
+<ellipse cx="240" cy="260" rx="90" ry="20" fill="#F4ECDF"></ellipse>
+<ellipse cx="240" cy="258" rx="76" ry="14" fill="#E0D2BC"></ellipse>
+
+<circle cx="240" cy="252" r="14" fill="#B45309"></circle>
+<circle cx="220" cy="258" r="8" fill="#F59E0B"></circle>
+<circle cx="262" cy="256" r="9" fill="#00A878"></circle>
+
+<g stroke="#7C84A0" stroke-width="2.5" fill="none" stroke-linecap="round">
+<line x1="320" y1="200" x2="320" y2="260"></line>
+<line x1="316" y1="200" x2="316" y2="222"></line>
+<line x1="324" y1="200" x2="324" y2="222"></line>
+<line x1="328" y1="200" x2="328" y2="222"></line>
+<line x1="312" y1="200" x2="312" y2="222"></line>
+</g>
+
+<g>
+<path d="M120 130 L 180 130 Q 180 200 150 220 Q 120 200 120 130 Z" fill="none" stroke="#6D28D9" stroke-width="3"></path>
+<path d="M120 130 L 180 130 Q 180 178 150 188 Q 120 178 120 130 Z" fill="#B45309" opacity="0.7"></path>
+<line x1="150" y1="220" x2="150" y2="270" stroke="#6D28D9" stroke-width="3"></line>
+<ellipse cx="150" cy="272" rx="22" ry="4" fill="#6D28D9"></ellipse>
+</g>
+
+<rect x="0" y="266.6666666666667" width="400" height="133.33333333333334" fill="url(#bgioyzky)"></rect>
+</svg>

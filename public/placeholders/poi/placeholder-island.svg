@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" preserveAspectRatio="xMidYMid slice" role="img">
+<title>Island placeholder</title>
+<desc>Tropical island with palm tree in calm sea</desc>
+<defs>
+<linearGradient id="gqurjld" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#DCF0F0"></stop><stop offset="1" stop-color="#1FA8B0"></stop></linearGradient>
+<linearGradient id="bgqurjld" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0"></stop>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.55"></stop>
+</linearGradient>
+
+</defs>
+<rect width="800" height="480" fill="url(#gqurjld)"></rect>
+
+
+<circle cx="650" cy="140" r="36" fill="#FFE6A6" opacity="0.9"></circle>
+
+<rect x="0" y="280" width="800" height="120" fill="#0066CC" opacity="0.45"></rect>
+
+<path d="M220 320 Q 280 250 400 250 Q 520 250 580 320 Q 580 340 400 340 Q 220 340 220 320 Z" fill="#E8C996"></path>
+
+<path d="M395 320 Q 388 270 380 240 L 392 238 Q 400 270 405 320 Z" fill="#8E5A2C"></path>
+
+<g fill="#00A878">
+<path d="M385 240 Q 350 220 320 230 Q 350 230 385 245 Z"></path>
+<path d="M385 240 Q 360 215 340 200 Q 365 215 388 240 Z"></path>
+<path d="M390 238 Q 420 220 450 232 Q 420 230 390 246 Z"></path>
+<path d="M388 240 Q 410 215 430 200 Q 408 215 390 240 Z"></path>
+<path d="M388 234 Q 388 215 380 195 Q 390 215 392 234 Z"></path>
+</g>
+
+<circle cx="388" cy="246" r="4" fill="#B45309"></circle>
+<circle cx="396" cy="248" r="4" fill="#B45309"></circle>
+
+<g stroke="#ffffff" stroke-opacity="0.6" stroke-width="2" fill="none" stroke-linecap="round">
+<line x1="50" y1="310" x2="140" y2="310"></line>
+<line x1="100" y1="340" x2="180" y2="340"></line>
+<line x1="620" y1="320" x2="700" y2="320"></line>
+<line x1="600" y1="350" x2="700" y2="350"></line>
+<line x1="40" y1="370" x2="140" y2="370"></line>
+<line x1="660" y1="375" x2="760" y2="375"></line>
+</g>
+
+<ellipse cx="640" cy="335" rx="18" ry="6" fill="#999"></ellipse>
+
+<rect x="0" y="320" width="800" height="160" fill="url(#bgqurjld)"></rect>
+</svg>

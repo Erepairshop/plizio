@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" preserveAspectRatio="xMidYMid slice" role="img">
+<title>Port placeholder</title>
+<desc>Harbour with gantry crane, container stacks and cargo ship</desc>
+<defs>
+<linearGradient id="gl5p2jq" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#DCEAF7"></stop><stop offset="1" stop-color="#2A78B5"></stop></linearGradient>
+<linearGradient id="bgl5p2jq" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0"></stop>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.55"></stop>
+</linearGradient>
+
+</defs>
+<rect width="800" height="480" fill="url(#gl5p2jq)"></rect>
+
+
+<g fill="#0066CC" opacity="0.35">
+<rect x="40" y="240" width="50" height="80"></rect>
+<rect x="95" y="220" width="40" height="100"></rect>
+<rect x="660" y="230" width="50" height="90"></rect>
+</g>
+
+<g stroke="#0066CC" stroke-width="6" fill="none">
+<line x1="220" y1="320" x2="220" y2="150"></line>
+<line x1="220" y1="150" x2="430" y2="150"></line>
+<line x1="430" y1="150" x2="430" y2="200"></line>
+</g>
+<g stroke="#0066CC" stroke-width="2.5">
+<line x1="220" y1="320" x2="430" y2="150"></line>
+<line x1="220" y1="270" x2="320" y2="150"></line>
+<line x1="220" y1="220" x2="280" y2="150"></line>
+</g>
+
+<line x1="380" y1="150" x2="380" y2="230" stroke="#0066CC" stroke-width="2"></line>
+<rect x="370" y="230" width="20" height="14" fill="#F59E0B"></rect>
+
+<rect x="200" y="320" width="40" height="20" fill="#0066CC"></rect>
+
+<g>
+<rect x="470" y="290" width="60" height="22" fill="#F59E0B"></rect>
+<rect x="470" y="268" width="60" height="22" fill="#B45309"></rect>
+<rect x="535" y="290" width="60" height="22" fill="#00A878"></rect>
+<rect x="600" y="290" width="60" height="22" fill="#F59E0B"></rect>
+<rect x="600" y="268" width="60" height="22" fill="#0066CC"></rect>
+</g>
+
+<g>
+<path d="M120 350 L 720 350 L 690 380 L 150 380 Z" fill="#0066CC"></path>
+<rect x="280" y="310" width="200" height="40" fill="#E8E4D8"></rect>
+<rect x="300" y="320" width="14" height="16" fill="#0066CC" opacity="0.5"></rect>
+<rect x="324" y="320" width="14" height="16" fill="#0066CC" opacity="0.5"></rect>
+<rect x="348" y="320" width="14" height="16" fill="#0066CC" opacity="0.5"></rect>
+<rect x="372" y="320" width="14" height="16" fill="#0066CC" opacity="0.5"></rect>
+<rect x="396" y="320" width="14" height="16" fill="#0066CC" opacity="0.5"></rect>
+<rect x="420" y="320" width="14" height="16" fill="#0066CC" opacity="0.5"></rect>
+<rect x="444" y="320" width="14" height="16" fill="#0066CC" opacity="0.5"></rect>
+</g>
+
+<rect x="0" y="380" width="800" height="40" fill="#0066CC" opacity="0.55"></rect>
+<g stroke="#ffffff" stroke-opacity="0.55" stroke-width="2" fill="none" stroke-linecap="round">
+<line x1="40" y1="395" x2="120" y2="395"></line>
+<line x1="160" y1="405" x2="240" y2="405"></line>
+<line x1="280" y1="398" x2="380" y2="398"></line>
+<line x1="440" y1="407" x2="540" y2="407"></line>
+<line x1="580" y1="395" x2="680" y2="395"></line>
+</g>
+
+<rect x="0" y="320" width="800" height="160" fill="url(#bgl5p2jq)"></rect>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" preserveAspectRatio="xMidYMid slice" role="img">
+<title>Wildlife habitat placeholder</title>
+<desc>Stag silhouette in meadow with pine forest backdrop</desc>
+<defs>
+<linearGradient id="gxtkwro" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E5F0DF"></stop><stop offset="1" stop-color="#5E8A3B"></stop></linearGradient>
+<linearGradient id="bgxtkwro" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0"></stop>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.55"></stop>
+</linearGradient>
+
+</defs>
+<rect width="800" height="480" fill="url(#gxtkwro)"></rect>
+
+
+<circle cx="640" cy="130" r="36" fill="#FFE6A6" opacity="0.85"></circle>
+
+<g fill="#00A878" opacity="0.55">
+<polygon points="20,300 80,220 140,300"></polygon>
+<polygon points="100,300 170,210 240,300"></polygon>
+<polygon points="200,300 270,230 340,300"></polygon>
+<polygon points="540,300 610,225 680,300"></polygon>
+<polygon points="620,300 690,215 760,300"></polygon>
+</g>
+
+<path d="M0 330 Q 200 295 400 325 T 800 320 L 800 360 L 0 360 Z" fill="#00A878" opacity="0.7"></path>
+
+<g fill="#B45309">
+
+<path d="M340 290 Q 360 280 400 280 L 460 280 Q 480 280 480 295 L 478 320 L 465 320 L 463 305 L 410 305 L 405 320 L 392 320 L 392 305 L 385 305 L 370 320 L 358 320 L 356 305 Z"></path>
+
+<path d="M460 280 L 478 252 L 488 254 L 492 274 L 482 280 Z"></path>
+
+<path d="M482 252 L 486 244 L 492 250 Z"></path>
+
+<g stroke="#B45309" stroke-width="3" stroke-linecap="round" fill="none">
+<path d="M483 252 L 478 230 L 470 232"></path>
+<path d="M483 252 L 488 232 L 496 234"></path>
+<path d="M478 230 L 472 224"></path>
+<path d="M488 232 L 494 224"></path>
+</g>
+</g>
+
+<path d="M180 180 Q 192 174 204 180 Q 196 184 192 184 Q 188 184 180 180 Z" fill="#B45309"></path>
+<path d="M220 200 Q 232 194 244 200 Q 236 204 232 204 Q 228 204 220 200 Z" fill="#B45309" opacity="0.6"></path>
+
+<rect x="0" y="320" width="800" height="160" fill="url(#bgxtkwro)"></rect>
+</svg>

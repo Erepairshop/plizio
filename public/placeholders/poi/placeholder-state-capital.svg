@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" preserveAspectRatio="xMidYMid slice" role="img">
+<title>State capital placeholder</title>
+<desc>Grand domed capitol building with classical columns over skyline</desc>
+<defs>
+<linearGradient id="gegkhk2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E6F0FA"></stop><stop offset="1" stop-color="#0066CC"></stop></linearGradient>
+<linearGradient id="bgegkhk2" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0"></stop>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.55"></stop>
+</linearGradient>
+
+</defs>
+<rect width="800" height="480" fill="url(#gegkhk2)"></rect>
+
+
+<g fill="#0066CC" opacity="0.5">
+<rect x="80" y="240" width="50" height="110"></rect>
+<rect x="140" y="220" width="45" height="130"></rect>
+<rect x="640" y="225" width="48" height="125"></rect>
+<rect x="700" y="245" width="42" height="105"></rect>
+</g>
+<g fill="#0066CC" opacity="0.7">
+<rect x="200" y="240" width="55" height="115"></rect>
+<rect x="585" y="245" width="55" height="110"></rect>
+</g>
+
+<rect x="270" y="240" width="260" height="120" fill="#F4ECDF"></rect>
+
+<rect x="270" y="270" width="40" height="90" fill="#E0D2BC"></rect>
+<rect x="490" y="270" width="40" height="90" fill="#E0D2BC"></rect>
+
+<rect x="320" y="226" width="160" height="14" fill="#F59E0B"></rect>
+<polygon points="320,226 400,180 480,226" fill="#F59E0B"></polygon>
+
+<rect x="370" y="150" width="60" height="32" fill="#F4ECDF"></rect>
+
+<path d="M370 150 Q 400 90 430 150 Z" fill="#F59E0B"></path>
+<rect x="395" y="70" width="10" height="22" fill="#F59E0B"></rect>
+<circle cx="400" cy="68" r="5" fill="#FFD789"></circle>
+
+<rect x="330" y="240" width="14" height="110" fill="#E8C996"></rect><rect x="355" y="240" width="14" height="110" fill="#E8C996"></rect><rect x="380" y="240" width="14" height="110" fill="#E8C996"></rect><rect x="405" y="240" width="14" height="110" fill="#E8C996"></rect><rect x="430" y="240" width="14" height="110" fill="#E8C996"></rect><rect x="455" y="240" width="14" height="110" fill="#E8C996"></rect>
+
+<rect x="0" y="360" width="800" height="14" fill="#00A878" opacity="0.4"></rect>
+
+<rect x="0" y="320" width="800" height="160" fill="url(#bgegkhk2)"></rect>
+</svg>

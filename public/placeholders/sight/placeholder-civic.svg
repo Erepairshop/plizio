@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" preserveAspectRatio="xMidYMid slice" role="img">
+<title>Civic building</title>
+<desc>Neutral civic building with clock and pediment</desc>
+<defs>
+<linearGradient id="g65pul8" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E6F0FA"></stop><stop offset="1" stop-color="#4A9CE0"></stop></linearGradient>
+<linearGradient id="bg65pul8" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0"></stop>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.55"></stop>
+</linearGradient>
+</defs>
+<rect width="400" height="400" fill="url(#g65pul8)"></rect>
+
+<rect x="80" y="180" width="240" height="120" fill="#F4ECDF"></rect>
+<rect x="70" y="166" width="260" height="14" fill="#0066CC"></rect>
+<polygon points="70,166 200,108 330,166" fill="#0066CC"></polygon>
+<polygon points="90,166 200,118 310,166" fill="#3F86C7" opacity="0.55"></polygon>
+
+<circle cx="200" cy="142" r="14" fill="#F4ECDF"></circle>
+<circle cx="200" cy="142" r="14" fill="none" stroke="#0066CC" stroke-width="2"></circle>
+<line x1="200" y1="142" x2="200" y2="132" stroke="#0066CC" stroke-width="1.5"></line>
+<line x1="200" y1="142" x2="207" y2="146" stroke="#0066CC" stroke-width="1.5"></line>
+
+<rect x="104" y="186" width="12" height="100" fill="#E8C996"></rect><rect x="144" y="186" width="12" height="100" fill="#E8C996"></rect><rect x="184" y="186" width="12" height="100" fill="#E8C996"></rect><rect x="224" y="186" width="12" height="100" fill="#E8C996"></rect><rect x="264" y="186" width="12" height="100" fill="#E8C996"></rect><rect x="292" y="186" width="12" height="100" fill="#E8C996"></rect>
+
+<rect x="185" y="230" width="30" height="60" fill="#0066CC"></rect>
+
+<rect x="70" y="296" width="260" height="8" fill="#C9C2AE"></rect>
+<rect x="60" y="304" width="280" height="8" fill="#A89F88"></rect>
+
+<rect x="0" y="266.6666666666667" width="400" height="133.33333333333334" fill="url(#bg65pul8)"></rect>
+</svg>

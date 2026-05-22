@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" preserveAspectRatio="xMidYMid slice" role="img">
+<title>Castle</title>
+<desc>Castle with central keep and conical side towers</desc>
+<defs>
+<linearGradient id="g2swgqf" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ECE3FA"></stop><stop offset="1" stop-color="#7C40D9"></stop></linearGradient>
+<linearGradient id="bg2swgqf" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0"></stop>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.55"></stop>
+</linearGradient>
+</defs>
+<rect width="400" height="400" fill="url(#g2swgqf)"></rect>
+
+<rect x="160" y="160" width="80" height="140" fill="#E6DDF4"></rect>
+<rect x="90" y="200" width="56" height="100" fill="#E6DDF4"></rect>
+<rect x="254" y="200" width="56" height="100" fill="#E6DDF4"></rect>
+
+<g fill="#E6DDF4">
+<rect x="90" y="190" width="9" height="10"></rect><rect x="104" y="190" width="9" height="10"></rect><rect x="118" y="190" width="9" height="10"></rect><rect x="132" y="190" width="9" height="10"></rect><rect x="160" y="150" width="9" height="10"></rect><rect x="174" y="150" width="9" height="10"></rect><rect x="188" y="150" width="9" height="10"></rect><rect x="202" y="150" width="9" height="10"></rect><rect x="216" y="150" width="9" height="10"></rect><rect x="230" y="150" width="9" height="10"></rect><rect x="254" y="190" width="9" height="10"></rect><rect x="268" y="190" width="9" height="10"></rect><rect x="282" y="190" width="9" height="10"></rect><rect x="296" y="190" width="9" height="10"></rect>
+</g>
+<polygon points="90,200 118,160 146,200" fill="#6D28D9"></polygon>
+<polygon points="254,200 282,160 310,200" fill="#6D28D9"></polygon>
+
+<line x1="200" y1="160" x2="200" y2="120" stroke="#6D28D9" stroke-width="3"></line>
+<polygon points="200,120 222,128 200,136" fill="#F59E0B"></polygon>
+
+<path d="M185 300 L 185 250 Q 200 232 215 250 L 215 300 Z" fill="#6D28D9" opacity="0.7"></path>
+
+<g fill="#6D28D9" opacity="0.55">
+<rect x="106" y="225" width="10" height="18" rx="2"></rect>
+<rect x="122" y="245" width="10" height="18" rx="2"></rect>
+<rect x="268" y="225" width="10" height="18" rx="2"></rect>
+<rect x="284" y="245" width="10" height="18" rx="2"></rect>
+<rect x="172" y="195" width="10" height="22" rx="2"></rect>
+<rect x="190" y="195" width="10" height="22" rx="2"></rect>
+<rect x="208" y="195" width="10" height="22" rx="2"></rect>
+<rect x="226" y="195" width="10" height="22" rx="2"></rect>
+</g>
+
+<rect x="0" y="266.6666666666667" width="400" height="133.33333333333334" fill="url(#bg2swgqf)"></rect>
+</svg>

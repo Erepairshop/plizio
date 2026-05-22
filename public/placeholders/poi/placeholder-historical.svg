@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" preserveAspectRatio="xMidYMid slice" role="img">
+<title>Historical site placeholder</title>
+<desc>Ancient temple with columns and pediment</desc>
+<defs>
+<linearGradient id="g9u4sbq" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FBEEDC"></stop><stop offset="1" stop-color="#C8884E"></stop></linearGradient>
+<linearGradient id="bg9u4sbq" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0"></stop>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.55"></stop>
+</linearGradient>
+
+</defs>
+<rect width="800" height="480" fill="url(#g9u4sbq)"></rect>
+
+
+<path d="M0 340 Q 250 290 500 330 T 800 320 L 800 360 L 0 360 Z" fill="#B45309" opacity="0.3"></path>
+
+<rect x="160" y="160" width="480" height="22" fill="#B45309"></rect>
+<rect x="150" y="148" width="500" height="14" fill="#D29661"></rect>
+
+<polygon points="160,148 400,80 640,148" fill="#B45309"></polygon>
+<polygon points="180,148 400,96 620,148" fill="#D29661" opacity="0.6"></polygon>
+
+<rect x="180" y="182" width="38" height="158" fill="#E8C996"></rect><g stroke="#B45309" stroke-opacity="0.4" stroke-width="1.4"><line x1="188" y1="190" x2="188" y2="335"></line><line x1="199" y1="190" x2="199" y2="335"></line><line x1="210" y1="190" x2="210" y2="335"></line></g><rect x="176" y="178" width="46" height="8" fill="#B45309"></rect><rect x="176" y="340" width="46" height="8" fill="#B45309"></rect><rect x="260" y="182" width="38" height="158" fill="#E8C996"></rect><g stroke="#B45309" stroke-opacity="0.4" stroke-width="1.4"><line x1="268" y1="190" x2="268" y2="335"></line><line x1="279" y1="190" x2="279" y2="335"></line><line x1="290" y1="190" x2="290" y2="335"></line></g><rect x="256" y="178" width="46" height="8" fill="#B45309"></rect><rect x="256" y="340" width="46" height="8" fill="#B45309"></rect><rect x="340" y="182" width="38" height="158" fill="#E8C996"></rect><g stroke="#B45309" stroke-opacity="0.4" stroke-width="1.4"><line x1="348" y1="190" x2="348" y2="335"></line><line x1="359" y1="190" x2="359" y2="335"></line><line x1="370" y1="190" x2="370" y2="335"></line></g><rect x="336" y="178" width="46" height="8" fill="#B45309"></rect><rect x="336" y="340" width="46" height="8" fill="#B45309"></rect><rect x="420" y="182" width="38" height="158" fill="#E8C996"></rect><g stroke="#B45309" stroke-opacity="0.4" stroke-width="1.4"><line x1="428" y1="190" x2="428" y2="335"></line><line x1="439" y1="190" x2="439" y2="335"></line><line x1="450" y1="190" x2="450" y2="335"></line></g><rect x="416" y="178" width="46" height="8" fill="#B45309"></rect><rect x="416" y="340" width="46" height="8" fill="#B45309"></rect><rect x="500" y="182" width="38" height="158" fill="#E8C996"></rect><g stroke="#B45309" stroke-opacity="0.4" stroke-width="1.4"><line x1="508" y1="190" x2="508" y2="335"></line><line x1="519" y1="190" x2="519" y2="335"></line><line x1="530" y1="190" x2="530" y2="335"></line></g><rect x="496" y="178" width="46" height="8" fill="#B45309"></rect><rect x="496" y="340" width="46" height="8" fill="#B45309"></rect><rect x="580" y="182" width="38" height="158" fill="#E8C996"></rect><g stroke="#B45309" stroke-opacity="0.4" stroke-width="1.4"><line x1="588" y1="190" x2="588" y2="335"></line><line x1="599" y1="190" x2="599" y2="335"></line><line x1="610" y1="190" x2="610" y2="335"></line></g><rect x="576" y="178" width="46" height="8" fill="#B45309"></rect><rect x="576" y="340" width="46" height="8" fill="#B45309"></rect>
+
+<rect x="140" y="348" width="520" height="14" fill="#B45309"></rect>
+
+<rect x="0" y="320" width="800" height="160" fill="url(#bg9u4sbq)"></rect>
+</svg>

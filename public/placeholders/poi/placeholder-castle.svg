@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" preserveAspectRatio="xMidYMid slice" role="img">
+<title>Castle placeholder</title>
+<desc>Castle with central keep, flanking towers and crenellations</desc>
+<defs>
+<linearGradient id="g0bgvzh" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ECE3FA"></stop><stop offset="1" stop-color="#7C40D9"></stop></linearGradient>
+<linearGradient id="bg0bgvzh" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0"></stop>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.55"></stop>
+</linearGradient>
+
+</defs>
+<rect width="800" height="480" fill="url(#g0bgvzh)"></rect>
+
+
+<path d="M0 360 Q 400 280 800 360 L 800 400 L 0 400 Z" fill="#6D28D9" opacity="0.2"></path>
+
+<rect x="340" y="180" width="120" height="180" fill="#E6DDF4"></rect>
+
+<rect x="220" y="220" width="80" height="140" fill="#E6DDF4"></rect>
+<rect x="500" y="220" width="80" height="140" fill="#E6DDF4"></rect>
+
+<g fill="#E6DDF4">
+<rect x="220" y="208" width="10" height="12"></rect><rect x="236" y="208" width="10" height="12"></rect><rect x="252" y="208" width="10" height="12"></rect><rect x="268" y="208" width="10" height="12"></rect><rect x="284" y="208" width="10" height="12"></rect><rect x="340" y="168" width="10" height="12"></rect><rect x="356" y="168" width="10" height="12"></rect><rect x="372" y="168" width="10" height="12"></rect><rect x="388" y="168" width="10" height="12"></rect><rect x="404" y="168" width="10" height="12"></rect><rect x="420" y="168" width="10" height="12"></rect><rect x="436" y="168" width="10" height="12"></rect><rect x="452" y="168" width="10" height="12"></rect><rect x="500" y="208" width="10" height="12"></rect><rect x="516" y="208" width="10" height="12"></rect><rect x="532" y="208" width="10" height="12"></rect><rect x="548" y="208" width="10" height="12"></rect><rect x="564" y="208" width="10" height="12"></rect>
+</g>
+
+<polygon points="220,220 260,170 300,220" fill="#6D28D9"></polygon>
+<polygon points="500,220 540,170 580,220" fill="#6D28D9"></polygon>
+
+<line x1="400" y1="180" x2="400" y2="140" stroke="#6D28D9" stroke-width="3"></line>
+<polygon points="400,140 425,148 400,156" fill="#F59E0B"></polygon>
+
+<path d="M380 360 L 380 300 Q 400 280 420 300 L 420 360 Z" fill="#6D28D9" opacity="0.7"></path>
+
+<g fill="#6D28D9" opacity="0.55">
+<rect x="248" y="250" width="14" height="22" rx="2"></rect>
+<rect x="270" y="280" width="14" height="22" rx="2"></rect>
+<rect x="528" y="250" width="14" height="22" rx="2"></rect>
+<rect x="552" y="280" width="14" height="22" rx="2"></rect>
+<rect x="360" y="220" width="14" height="26" rx="2"></rect>
+<rect x="385" y="220" width="14" height="26" rx="2"></rect>
+<rect x="410" y="220" width="14" height="26" rx="2"></rect>
+<rect x="435" y="220" width="14" height="26" rx="2"></rect>
+</g>
+
+<rect x="0" y="320" width="800" height="160" fill="url(#bg0bgvzh)"></rect>
+</svg>
