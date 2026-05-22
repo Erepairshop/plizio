@@ -116,8 +116,18 @@ export default async function StatePage({
                 </div>
               </div>
               <p className="mt-5 text-base leading-7 text-white/72">{region.description?.[lang] || region.description?.de || ""}</p>
+              {(() => {
+                const advanced = (region as { descriptionAdvanced?: Record<string, string> }).descriptionAdvanced?.[lang]
+                  || (region as { descriptionAdvanced?: Record<string, string> }).descriptionAdvanced?.de;
+                return advanced ? <p className="mt-4 text-base leading-7 text-white/72">{advanced}</p> : null;
+              })()}
               <div className="mt-5 flex flex-wrap gap-2">
-                {(region.facts?.[lang] || region.facts?.de || []).slice(0, 4).map((fact) => (
+                {[
+                  ...(region.facts?.[lang] || region.facts?.de || []),
+                  ...(((region as { factsAdvanced?: Record<string, string[]> }).factsAdvanced?.[lang]
+                    || (region as { factsAdvanced?: Record<string, string[]> }).factsAdvanced?.de
+                    || []) as string[]),
+                ].slice(0, 10).map((fact) => (
                   <span key={fact} className="rounded-full border border-cyan-500/15 bg-cyan-500/8 px-3 py-1 text-sm text-cyan-100/85">
                     {fact}
                   </span>
