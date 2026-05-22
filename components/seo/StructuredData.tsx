@@ -62,6 +62,12 @@ export function createPoiStructuredData(poi: POI, lang: Lang) {
     sameAs,
     containedInPlace: localizedStateName(poi.parent ?? "", lang),
     inLanguage: lang,
+    // Featured-snippet / voice-search hint: tell Google these CSS selectors
+    // contain the canonical lead answer for this entity.
+    speakable: {
+      "@type": "SpeakableSpecification",
+      cssSelector: [".poi-lead-paragraph", "h1"],
+    },
   };
 }
 
@@ -90,6 +96,49 @@ export function createStateStructuredData(state: POI, lang: Lang) {
     name: state.name[lang] || state.name.de,
     description: state.description?.[lang] || state.description?.de || "",
     image: state.image ? absoluteUrl(state.image) : undefined,
+    inLanguage: lang,
+  };
+}
+
+export function createBreadcrumbStructuredData(
+  items: Array<{ name: string; url: string }>,
+) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: items.map((it, i) => ({
+      "@type": "ListItem",
+      position: i + 1,
+      name: it.name,
+      item: absoluteUrl(it.url),
+    })),
+  };
+}
+
+export function createSightsStructuredData(poi: POI, lang: Lang) {
+  const sights = (poi as { sights?: Record<string, Array<{ name: string; text?: string; category?: string }>> }).sights;
+  const list = sights?.[lang] || sights?.de || sights?.en;
+  if (!list || list.length === 0) return null;
+  const parentName = poi.name?.[lang] || poi.name?.de || poi.id;
+  return {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    name: `Sehenswürdigkeiten — ${parentName}`,
+    numberOfItems: list.length,
+    itemListElement: list.slice(0, 50).map((s, i) => ({
+      "@type": "ListItem",
+      position: i + 1,
+      item: {
+        "@type": "TouristAttraction",
+        name: s.name,
+        description: s.text || s.name,
+        ...(s.category ? { additionalType: s.category } : {}),
+        containedInPlace: {
+          "@type": "Place",
+          name: parentName,
+        },
+      },
+    })),
     inLanguage: lang,
   };
 }

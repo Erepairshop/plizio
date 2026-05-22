@@ -5,7 +5,10 @@ import PoiGalleryCard from "@/components/seo/PoiGalleryCard";
 import PoiGameCta from "@/components/seo/PoiGameCta";
 import PoiDidYouKnow from "@/components/seo/PoiDidYouKnow";
 import PoiMiniMap from "@/components/seo/PoiMiniMap";
-import StructuredData, { createPoiStructuredData, createFaqStructuredData } from "@/components/seo/StructuredData";
+import PoiRecentNews from "@/components/seo/PoiRecentNews";
+import PoiNearbyList from "@/components/seo/PoiNearbyList";
+import PoiWeather from "@/components/seo/PoiWeather";
+import StructuredData, { createPoiStructuredData, createFaqStructuredData, createSightsStructuredData, createBreadcrumbStructuredData } from "@/components/seo/StructuredData";
 import { getRelatedPoisGrouped, getNearbyPois } from "@/lib/seo/relatedPoisGrouped";
 import {
   COUNTRY_COPY,
@@ -194,7 +197,7 @@ export default async function PoiPage({
               </div>
 
               <div className="mt-6 space-y-4 text-base leading-7 text-white/75">
-                <p>{description}</p>
+                <p className="poi-lead-paragraph">{description}</p>
                 {advanced ? <p>{advanced}</p> : null}
               </div>
 
@@ -313,11 +316,26 @@ export default async function PoiPage({
             </div>
           </section>
         ) : null}
+        <PoiWeather coords={poi.coords as [number, number] | undefined} lang={resolved.lang as Lang} />
+        <PoiNearbyList poi={poi} lang={resolved.lang as Lang} max={6} />
       </section>
+      <section className="mx-auto max-w-6xl px-4 pb-12 sm:px-6 lg:px-8">
+        <PoiRecentNews poiId={poi.id} lang={resolved.lang as Lang} />
+      </section>
+      <StructuredData data={createBreadcrumbStructuredData([
+        { name: copy.home, url: "/" },
+        { name: countryCopy.name, url: buildCountryPath(resolved.lang as Lang, countryId) },
+        { name: regionName, url: buildStatePath(resolved.lang as Lang, region.id) },
+        { name: poiName, url: buildPoiPath(resolved.lang as Lang, poi) },
+      ])} />
       <StructuredData data={createPoiStructuredData(poi, resolved.lang as Lang)} />
       {(() => {
         const faqSchema = createFaqStructuredData(poi, resolved.lang as Lang);
         return faqSchema ? <StructuredData data={faqSchema} /> : null;
+      })()}
+      {(() => {
+        const sightsSchema = createSightsStructuredData(poi, resolved.lang as Lang);
+        return sightsSchema ? <StructuredData data={sightsSchema} /> : null;
       })()}
     </main>
   );
