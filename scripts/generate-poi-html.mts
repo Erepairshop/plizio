@@ -600,9 +600,11 @@ ${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, count
   <div class="plz-title-row">${coaHtml}<div><p class="plz-eyebrow">Plizio Visual Lab</p><h1>${escapeHtml(name)}</h1></div></div>
   <span class="plz-type-tag">${escapeHtml(typeLabel)}</span>
   ${audioHtml}
-  ${heroHtml}
+  <div class="plz-hero-grid">
+    <div class="plz-hero-grid-main">${heroHtml}</div>
+    <div class="plz-hero-grid-side">${weatherHtml}${newsHtml}</div>
+  </div>
   ${descText ? `<section><p class="poi-lead-paragraph">${escapeHtml(descText)}</p></section>` : ""}
-  ${weatherHtml}
   ${geoItems.length > 0 || historyHtml ? `<section class="plz-geo-history">${historyHtml}${geoItems.length > 0 ? `<div class="plz-geo-box"><h3>${I("geography", lang)}</h3><div class="plz-meta">${geoItems.join("")}</div></div>` : ""}</section>` : ""}
   ${factsArr.length > 0 ? `<section><h2>${I("facts", lang)}</h2><ul class="plz-facts">${factsArr.map((f) => `<li>${escapeHtml(f)}</li>`).join("")}</ul></section>` : ""}
   ${didYouKnowHtml}
@@ -610,7 +612,6 @@ ${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, count
   ${faqHtml}
   ${sightsHtml}
   ${nearbyHtml}
-  ${newsHtml}
   <section>
     <a class="plz-cta" href="${countryMapUrl(countryId) ?? (poi.parent === countryId ? buildCountryPath(lang, countryId) : buildStatePath(lang, poi.parent))}">${I("viewMap", lang)} →</a>
     ${osmLink}
