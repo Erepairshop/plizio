@@ -1,0 +1,42 @@
+// @ts-nocheck
+// AUTO-GENERATED LITE — only map-essential POI fields. Heavy fields stripped.
+// Source: montenegroPoi.ts (regenerate via scripts/_gen_lite_via_tsx.mts)
+import type { POI } from "./poi";
+export const montenegroAllPoi: POI[] = [
+{"id":"me-prokletije","name":{"de":"Prokletije","hu":"Prokletije","ro":"Prokletije","en":"Prokletije"},"type":"mountain","coords":[19.7667,42.5],"parent":"ME-ALL","image":"/poi-images/me-prokletije.webp"},
+{"id":"me-bay-kotor","name":{"de":"Bucht von Kotor","hu":"Kotori-öböl","ro":"Golful Kotor","en":"Bay of Kotor"},"type":"sea","coords":[18.6667,42.4333],"parent":"ME-ALL","image":"/poi-images/me-bay-kotor.webp"},
+{"id":"me-sveti-stefan","name":{"de":"Sveti Stefan","hu":"Sveti Stefan","ro":"Sveti Stefan","en":"Sveti Stefan"},"type":"island","coords":[18.8911,42.2558],"parent":"ME-ALL","image":"/poi-images/me-sveti-stefan.webp"},
+{"id":"me-ada-bojana","name":{"de":"Ada Bojana","hu":"Ada Bojana","ro":"Ada Bojana","en":"Ada Bojana"},"type":"island","coords":[19.3486,41.8617],"parent":"ME-ALL","image":"/poi-images/me-ada-bojana.webp"},
+{"id":"me-black-lake","name":{"de":"Schwarzer See","hu":"Fekete-tó","ro":"Lacul Negru","en":"Black Lake"},"type":"lake","coords":[19.0911,43.1467],"parent":"ME-ALL","image":"/poi-images/me-black-lake.webp"},
+{"id":"me-mamula","name":{"de":"Mamula","hu":"Mamula","ro":"Mamula","en":"Mamula"},"type":"historical","coords":[18.5583,42.3953],"parent":"ME-ALL","image":"/poi-images/me-mamula.webp"},
+{"id":"me-san-giovanni","name":{"de":"Festung San Giovanni","hu":"San Giovanni erőd","ro":"Fortăreața San Giovanni","en":"San Giovanni Fortress"},"type":"historical","coords":[18.775,42.4267],"parent":"ME-ALL","image":"/poi-images/me-san-giovanni.webp"},
+{"id":"me-djurdjevica-tara","name":{"de":"Đurđevića-Tara-Brücke","hu":"Đurđevića Tara híd","ro":"Podul Đurđevića Tara","en":"Đurđevića Tara Bridge"},"type":"landmark","coords":[19.2953,43.1506],"parent":"ME-ALL","image":"/poi-images/me-djurdjevica-tara.webp"},
+{"id":"me-cetinje-monastery","name":{"de":"Kloster Cetinje","hu":"Cetinjei kolostor","ro":"Mănăstirea Cetinje","en":"Cetinje Monastery"},"type":"historical","coords":[18.9222,42.3875],"parent":"ME-ALL","image":"/poi-images/me-cetinje-monastery.webp"},
+{"id":"me-moraca-monastery","name":{"de":"Kloster Morača","hu":"Morača kolostor","ro":"Mănăstirea Morača","en":"Morača Monastery"},"type":"historical","coords":[19.3908,42.7667],"parent":"ME-ALL","image":"/poi-images/me-moraca-monastery.webp"},
+{"id":"me-001-kanli-kula","name":{"de":"Kanli Kula","hu":"Kanli Kula","ro":"Kanli Kula","en":"Kanli Kula"},"type":"historical","coords":[18.539,42.4545],"parent":"ME-001","image":"/poi-images/me-001-kanli-kula.webp"},
+{"id":"me-002-city","name":{"de":"Rožaje","hu":"Rožaje","ro":"Rožaje","en":"Rožaje"},"type":"city","coords":[20.1667,42.8333],"parent":"ME-002","image":"/poi-images/me-002-city.webp"},
+{"id":"me-002-hajla","name":{"de":"Hajla","hu":"Hajla","ro":"Hajla","en":"Hajla"},"type":"mountain","coords":[20.1333,42.75],"parent":"ME-002","image":"/poi-images/me-002-hajla.webp"},
+{"id":"me-003-city","name":{"de":"Berane","hu":"Berane","ro":"Berane","en":"Berane"},"type":"city","coords":[19.8733,42.8425],"parent":"ME-003","image":"/poi-images/me-003-city.webp"},
+{"id":"me-003-djurdjevi-stupovi","name":{"de":"Đurđevi Stupovi","hu":"Đurđevi Stupovi","ro":"Đurđevi Stupovi","en":"Đurđevi Stupovi"},"type":"historical","coords":[19.8633,42.855],"parent":"ME-003","image":"/poi-images/me-003-djurdjevi-stupovi.webp"},
+{"id":"me-004-city","name":{"de":"Plav","hu":"Plav","ro":"Plav","en":"Plav"},"type":"city","coords":[19.945,42.5967],"parent":"ME-004","image":"/poi-images/me-004-city.webp"},
+{"id":"me-004-plav-lake","name":{"de":"Plav-See","hu":"Plavi-tó","ro":"Lacul Plav","en":"Lake Plav"},"type":"lake","coords":[19.925,42.5983],"parent":"ME-004","image":"/poi-images/me-004-plav-lake.webp"},
+{"id":"me-005-city","name":{"de":"Pljevlja","hu":"Pljevlja","ro":"Pljevlja","en":"Pljevlja"},"type":"city","coords":[19.3583,43.3567],"parent":"ME-005","image":"/poi-images/me-005-city.webp"},
+{"id":"me-005-husein-pasa","name":{"de":"Husein-paša-Moschee","hu":"Husein-paša mecset","ro":"Moscheea Husein-paša","en":"Husein-paša Mosque"},"type":"historical","coords":[19.358,43.357],"parent":"ME-005","image":"/poi-images/me-005-husein-pasa.webp"},
+{"id":"me-006-city","name":{"de":"Bijelo Polje","hu":"Bijelo Polje","ro":"Bijelo Polje","en":"Bijelo Polje"},"type":"city","coords":[19.7475,43.0383],"parent":"ME-006","image":"/poi-images/me-006-city.webp"},
+{"id":"me-006-st-peter","name":{"de":"St. Peter-Kirche","hu":"Szent Péter-templom","ro":"Biserica Sf. Petru","en":"St. Peter's Church"},"type":"historical","coords":[19.75,43.04],"parent":"ME-006","image":"/poi-images/me-006-st-peter.webp"},
+{"id":"me-008-city","name":{"de":"Plužine","hu":"Plužine","ro":"Plužine","en":"Plužine"},"type":"city","coords":[18.8394,43.1544],"parent":"ME-008","image":"/poi-images/me-008-city.webp"},
+{"id":"me-008-piva-monastery","name":{"de":"Kloster Piva","hu":"Piva-kolostor","ro":"Mănăstirea Piva","en":"Piva Monastery"},"type":"historical","coords":[18.825,43.111],"parent":"ME-008","image":"/poi-images/me-008-piva-monastery.webp"},
+{"id":"me-009-krupac","name":{"de":"Krupac-See","hu":"Krupac-tó","ro":"Lacul Krupac","en":"Krupac Lake"},"type":"lake","coords":[18.89,42.78],"parent":"ME-009","image":"/poi-images/me-009-krupac.webp"},
+{"id":"me-010-perast","name":{"de":"Perast","hu":"Perast","ro":"Perast","en":"Perast"},"type":"city","coords":[18.7,42.4867],"parent":"ME-010","image":"/poi-images/me-010-perast.webp"},
+{"id":"me-011-city","name":{"de":"Andrijevica","hu":"Andrijevica","ro":"Andrijevica","en":"Andrijevica"},"type":"city","coords":[19.7917,42.7339],"parent":"ME-011","image":"/poi-images/me-011-city.webp"},
+{"id":"me-011-komovi","name":{"de":"Komovi","hu":"Komovi","ro":"Komovi","en":"Komovi"},"type":"mountain","coords":[19.6667,42.7167],"parent":"ME-011","image":"/poi-images/me-011-komovi.webp"},
+{"id":"me-012-millennium","name":{"de":"Millennium-Brücke","hu":"Milenijum híd","ro":"Podul Mileniului","en":"Millennium Bridge"},"type":"landmark","coords":[19.2589,42.445],"parent":"ME-012","image":"/poi-images/me-012-millennium.webp"},
+{"id":"me-016-porto-montenegro","name":{"de":"Porto Montenegro","hu":"Porto Montenegro","ro":"Porto Montenegro","en":"Porto Montenegro"},"type":"landmark","coords":[18.6917,42.4333],"parent":"ME-016","image":"/poi-images/me-016-porto-montenegro.webp"},
+{"id":"me-017-city","name":{"de":"Mojkovac","hu":"Mojkovac","ro":"Mojkovac","en":"Mojkovac"},"type":"city","coords":[19.5833,42.96],"parent":"ME-017","image":"/poi-images/me-017-city.webp"},
+{"id":"me-018-lovcen","name":{"de":"Nationalpark Lovćen","hu":"Lovćen Nemzeti Park","ro":"Parcul Național Lovćen","en":"Lovćen National Park"},"type":"landmark","coords":[18.8333,42.4],"parent":"ME-018","image":"/poi-images/me-018-lovcen.webp"},
+{"id":"me-019-city","name":{"de":"Šavnik","hu":"Šavnik","ro":"Šavnik","en":"Šavnik"},"type":"city","coords":[19.0967,42.9564],"parent":"ME-019","image":"/poi-images/me-019-city.webp"},
+{"id":"me-019-nevidio","name":{"de":"Nevidio-Schlucht","hu":"Nevidio-kanyon","ro":"Canionul Nevidio","en":"Nevidio Canyon"},"type":"landmark","coords":[19.0667,42.9833],"parent":"ME-019","image":"/poi-images/me-019-nevidio.webp"},
+{"id":"me-020-city","name":{"de":"Kolašin","hu":"Kolašin","ro":"Kolašin","en":"Kolašin"},"type":"city","coords":[19.5214,42.8225],"parent":"ME-020","image":"/poi-images/me-020-city.webp"},
+{"id":"me-020-bjelasica","name":{"de":"Bjelasica","hu":"Bjelasica","ro":"Bjelasica","en":"Bjelasica"},"type":"mountain","coords":[19.6667,42.8667],"parent":"ME-020","image":"/poi-images/me-020-bjelasica.webp"},
+{"id":"me-021-city","name":{"de":"Danilovgrad","hu":"Danilovgrad","ro":"Danilovgrad","en":"Danilovgrad"},"type":"city","coords":[19.1467,42.59],"parent":"ME-021","image":"/poi-images/me-021-city.webp"}
+];
