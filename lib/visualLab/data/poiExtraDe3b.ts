@@ -44,7 +44,138 @@ export const poiExtraDe3b: POI[] = [
       es: ["Segunda ciudad más grande de Brandeburgo y centro de la minoría soraba.", "El parque Branitz es famoso por sus pirámides de tierra, únicas en el mundo.", "Lugar de trabajo del paisajista y viajero mundial, el príncipe Pückler.", "Sede de la Universidad Técnica de Brandeburgo (BTU).", "Importante nudo ferroviario para el tráfico hacia Europa del Este.", "El Staatstheater Cottbus es el único teatro de varios géneros de Brandeburgo."],
       pt: ["Segunda maior cidade de Brandeburgo e centro da minoria sorábia.", "O Parque Branitz é famoso pelas pirâmides de terra únicas no mundo.", "Local de atuação do paisagista e viajante mundial Príncipe Pückler.", "Sede da Universidade Técnica de Brandeburgo (BTU).", "Importante entroncamento ferroviário no tráfego para a Europa de Leste.", "O Staatstheater Cottbus é o único teatro de vários géneros em Brandeburgo."],
       fr: ["Deuxième plus grande ville du Brandebourg et centre de la minorité sorabe.", "Le parc de Branitz est célèbre pour ses pyramides de terre uniques au monde.", "Lieu d'activité du créateur de parcs et grand voyageur, le prince Pückler.", "Siège de l'université technique de Brandebourg (BTU).", "Nœud ferroviaire important pour le trafic vers l'Europe de l'Est.", "Le Staatstheater Cottbus est le seul théâtre pluridisciplinaire du Brandebourg."],
-    }, image: "/poi-images/city-cottbus-extra.webp"},
+    }, image: "/poi-images/city-cottbus-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Schloss Branitz",
+                  "text": "Das prachtvolle Schloss von Fürst Pückler ist eingebettet in einen einzigartigen Landschaftspark.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Staatstheater Cottbus",
+                  "text": "Der Jugendstilbau gilt als eines der schönsten Theatergebäude Europas und bietet Oper und Schauspiel.",
+                  "category": "theater",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Spremberger Turm",
+                  "text": "Der markante Wehrturm bietet eine Aussichtsplattform mit Blick über die gesamte Cottbuser Innenstadt.",
+                  "category": "tower",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Altmarkt",
+                  "text": "Ein historischer Platz mit barocken Bürgerhäusern, gemütlichen Cafés und dem Cottbuser Postkutscher.",
+                  "category": "town hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tierpark Cottbus",
+                  "text": "Der größte Zoo in Brandenburg beherbergt über 1200 Tiere in einer weitläufigen Parkanlage.",
+                  "category": "park",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Branitz-kastély",
+                  "text": "Pückler herceg pompás kastélya egy egyedülálló, világörökségre jelölt tájképi parkban fekszik.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cottbusi Állami Színház",
+                  "text": "A szecessziós épület Európa egyik legszebb színházának számít, operát és drámát is kínál.",
+                  "category": "theater",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sprembergi torony",
+                  "text": "A jellegzetes őrtorony kilátóteraszáról pazar kilátás nyílik Cottbus egész belvárosára.",
+                  "category": "tower",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Régi piac",
+                  "text": "Történelmi tér barokk polgárházakkal, hangulatos kávézókkal és a cottbusi postakocsis szobrával.",
+                  "category": "town hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cottbusi állatkert",
+                  "text": "Brandenburg legnagyobb állatkertje több mint 1200 állatnak ad otthont egy tágas parkban.",
+                  "category": "park",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelul Branitz",
+                  "text": "Castelul magnific al prințului Pückler este situat într-un parc peisagistic unic.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Teatrul de Stat Cottbus",
+                  "text": "Clădirea Art Nouveau este considerată una dintre cele mai frumoase săli de teatru din Europa.",
+                  "category": "theater",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turnul Spremberg",
+                  "text": "Turnul de apărare oferă o platformă de observație cu vedere panoramică asupra centrului orașului.",
+                  "category": "tower",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Veche",
+                  "text": "O piață istorică cu case baroce, cafenele primitoare și statuia poștașului din Cottbus.",
+                  "category": "town hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădina Zoologică Cottbus",
+                  "text": "Cea mai mare grădină zoologică din Brandenburg găzduiește peste 1200 de animale într-un parc vast.",
+                  "category": "park",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Branitz Castle",
+                  "text": "The magnificent castle of Prince Pückler is set within a unique and historic landscape park.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "State Theatre Cottbus",
+                  "text": "This Art Nouveau building is considered one of Europe's most beautiful theatre houses.",
+                  "category": "theater",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Spremberg Tower",
+                  "text": "The striking defense tower offers a viewing platform with vistas over the city center.",
+                  "category": "tower",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Market",
+                  "text": "A historic square featuring Baroque townhouses, cozy cafes, and the Cottbus postillion statue.",
+                  "category": "town hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cottbus Zoo",
+                  "text": "The largest zoo in Brandenburg houses over 1200 animals in a spacious park environment.",
+                  "category": "park",
+                  "confidence": "high"
+            }
+      ]
+}
+  },
   {
     id: "river-spree-bb-extra",
     type: "river",
@@ -590,7 +721,138 @@ export const poiExtraDe3b: POI[] = [
       es: ["Importante ciudad hanseática en el Óder desde el siglo XIV.", "Sede de la Universidad Europea Viadrina con estudiantes de más de 100 países.", "La iglesia de Santa María posee las vidrieras medievales más grandes de Alemania.", "Ciudad natal del importante poeta Heinrich von Kleist (1777).", "Forma una ciudad europea junto con la polaca Słubice.", "Ubicación importante para la industria solar y la microelectrónica."],
       pt: ["Importante cidade hanseática no Oder desde o século XIV.", "Sede da Universidade Europeia Viadrina com estudantes de mais de 100 países.", "A Igreja de Santa Maria possui os maiores vitrais medievais da Alemanha.", "Cidade natal do importante poeta Heinrich von Kleist (1777).", "Forma uma cidade europeia em conjunto com a polaca Słubice.", "Localização importante para a indústria solar e microeletrónica."],
       fr: ["Ville hanséatique majeure sur l'Oder depuis le XIVe siècle.", "Siège de l'Université européenne Viadrina, accueillant des étudiants de plus de 100 pays.", "L'église Sainte-Marie possède les plus grands vitraux médiévaux d'Allemagne.", "Ville natale du célèbre poète Heinrich von Kleist (1777).", "Forme une ville européenne avec sa voisine polonaise Słubice.", "Pôle important pour l'industrie solaire et la microélectronique."],
-    }, image: "/poi-images/city-frankfurt-oder-extra.webp"},
+    }, image: "/poi-images/city-frankfurt-oder-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "St. Marienkirche",
+                  "text": "Die größte Hallenkirche der norddeutschen Backsteingotik beeindruckt mit ihren drei wertvollen Chorfenstern.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rathaus",
+                  "text": "Das gotische Backstein-Rathaus am Marktplatz zählt zu den bedeutendsten und größten historischen Profanbauten.",
+                  "category": "town hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kleist-Museum",
+                  "text": "Das Museum im ehemaligen Garnisonschulhaus widmet sich dem Leben und Werk des in der Stadt geborenen Dichters.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Oderbrücke",
+                  "text": "Diese wichtige Grenzbrücke verbindet Frankfurt direkt mit der polnischen Nachbarstadt Słubice über den Fluss.",
+                  "category": "bridge",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lennépark",
+                  "text": "Eine der ältesten Bürgerparkanlagen Deutschlands, gestaltet nach Plänen des berühmten Landschaftsarchitekten Lenné.",
+                  "category": "park",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szent Mária-templom",
+                  "text": "Az északnémet tégla-gótika legnagyobb csarnoktemploma, amely különleges középkori üvegablakairól híres.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Városháza",
+                  "text": "A 14. századi gótikus téglaépület a város egyik legfontosabb történelmi és közigazgatási jelképe.",
+                  "category": "town hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kleist-Múzeum",
+                  "text": "A város híres szülöttének, Heinrich von Kleist írónak életét és munkásságát bemutató irodalmi múzeum.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Odera-híd",
+                  "text": "Az Odera folyón átívelő határhíd, amely összeköti a várost a lengyel Słubicével, az európai egység jelképe.",
+                  "category": "bridge",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lennépark",
+                  "text": "Németország egyik legrégebbi polgári parkja, amelyet a híres tájépítész, Peter Joseph Lenné tervezett.",
+                  "category": "park",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica Sfânta Maria",
+                  "text": "Cea mai mare biserică de tip hală în stil gotic de cărămidă din nordul Germaniei, faimoasă pentru vitraliile sale.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria",
+                  "text": "O clădire gotică impresionantă din cărămidă din secolul al XIV-lea, situată în piața centrală a orașului.",
+                  "category": "town hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Kleist",
+                  "text": "Muzeul este dedicat vieții și operei scriitorului Heinrich von Kleist, care s-a născut în acest oraș.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Podul peste Oder",
+                  "text": "Un punct de trecere strategic care leagă Germania de orașul polonez Słubice peste fluviul Oder.",
+                  "category": "bridge",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Lenné",
+                  "text": "Unul dintre cele mai vechi parcuri orășenești din Germania, creat de celebrul arhitect peisagist Peter Joseph Lenné.",
+                  "category": "park",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. Mary's Church",
+                  "text": "The largest hall church of North German Brick Gothic, home to stunning and rare medieval stained glass windows.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Town Hall",
+                  "text": "A magnificent 14th-century brick Gothic building featuring a unique landmark gable on its historic facade.",
+                  "category": "town hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kleist Museum",
+                  "text": "Located in a former garrison school, it preserves the heritage of the famous dramatist Heinrich von Kleist.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Oder Bridge",
+                  "text": "Connecting Frankfurt with the Polish city of Słubice, this bridge serves as a symbol of European integration.",
+                  "category": "bridge",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lenné Park",
+                  "text": "A historic green oasis in the city center, designed by the royal Prussian landscape architect Peter Joseph Lenné.",
+                  "category": "park",
+                  "confidence": "high"
+            }
+      ]
+}
+  },
 
   // ── DE-ST Sachsen-Anhalt (15) ────────────────────────────────────────────────
       {
@@ -634,7 +896,138 @@ export const poiExtraDe3b: POI[] = [
       es: ["Hogar del famoso edificio de la Bauhaus (Patrimonio UNESCO desde 1996).", "Centro del Reino de los Jardines de Dessau-Wörlitz con magníficos parques.", "Lugar de trabajo de Hugo Junkers, pionero de la construcción de aviones metálicos.", "Sede de la Agencia Federal de Medio Ambiente en un edificio ecológico galardonado.", "Alberga las Casas de los Maestros de los artistas Kandinsky y Klee.", "El Teatro Anhaltino de Dessau es uno de los escenarios más grandes de la región."],
       pt: ["Casa do famoso edifício da Bauhaus (Património UNESCO desde 1996).", "Centro do Reino dos Jardins de Dessau-Wörlitz com parques magníficos.", "Local de trabalho de Hugo Junkers, pioneiro na construção de aviões metálicos.", "Sede da Agência Federal do Ambiente num edifício ecológico premiado.", "Abriga as Casas dos Mestres dos artistas Kandinsky e Klee.", "O Teatro Anhaltino de Dessau é um dos maiores palcos da região."],
       fr: ["Siège du célèbre bâtiment du Bauhaus (patrimoine de l'UNESCO depuis 1996).", "Cœur du royaume des jardins de Dessau-Wörlitz et de ses parcs magnifiques.", "Lieu de travail de Hugo Junkers, pionnier de la construction aéronautique tout métal.", "Siège de l'Office fédéral de l'environnement dans un bâtiment écologique primé.", "Abrite les maisons des Maîtres des artistes Kandinsky et Klee.", "L'Anhaltisches Theater de Dessau est l'une des plus grandes salles de spectacle de la région."],
-    }, image: "/poi-images/city-dessau-extra.webp"},
+    }, image: "/poi-images/city-dessau-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Bauhausgebäude",
+                  "text": "Die von Walter Gropius entworfene Architekturikone ist das Herzstück der klassischen Moderne und Weltkulturerbe.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Meisterhäuser",
+                  "text": "In diesen markanten Villen lebten und arbeiteten die berühmten Lehrer des Bauhauses wie Kandinsky und Klee.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schloss Georgium",
+                  "text": "Inmitten eines englischen Landschaftsgartens beherbergt dieses Schloss heute die Anhaltische Gemäldegalerie.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wörlitzer Park",
+                  "text": "Teil des Dessau-Wörlitzer Gartenreichs, besticht dieser Park durch harmonische Architektur und weite Seenlandschaften.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kornhaus",
+                  "text": "Ein historisches Restaurantgebäude direkt an der Elbe, erbaut im funktionalen Stil des Bauhauses durch Carl Fieger.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bauhaus-épület",
+                  "text": "A Walter Gropius által tervezett modern építészeti ikon az UNESCO Világörökség része és a dizájn központja.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mesterházak",
+                  "text": "Karakteres villák, amelyekben a Bauhaus neves tanárai, mint például Kandinszkij és Klee éltek és alkottak.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schloss Georgium",
+                  "text": "Egy gyönyörű angolpark közepén álló kastély, amely ma az Anhalti Képtárnak ad otthont Dessau városában.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wörlitzi park",
+                  "text": "A Dessau-Wörlitzi kertbirodalom legszebb része, lenyűgöző tájképi kerttel, tavakkal és klasszicista épületekkel.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kornhaus",
+                  "text": "Az Elba partján álló emblematikus Bauhaus-stílusú étterem, amely Carl Fieger építész tervei alapján készült.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Clădirea Bauhaus",
+                  "text": "O icoană a arhitecturii moderne proiectată de Walter Gropius, inclusă în Patrimoniul Mondial UNESCO.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casele Maeștrilor",
+                  "text": "Casele-atelier unde au locuit și lucrat artiști celebri ai mișcării Bauhaus, precum Kandinsky și Klee.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Georgium",
+                  "text": "Situat într-o grădină englezească, castelul găzduiește Galeria de Artă Anhalt cu o colecție valoroasă.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Wörlitz",
+                  "text": "Parte a Regatului Grădinilor Dessau-Wörlitz, acest parc oferă peisaje pitorești și arhitectură clasicistă.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kornhaus",
+                  "text": "Un restaurant istoric pe malul Elbei, construit în stil funcționalist Bauhaus de către arhitectul Carl Fieger.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bauhaus Building",
+                  "text": "Designed by Walter Gropius, this architectural masterpiece remains the global symbol of modern design and functionalism.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Masters' Houses",
+                  "text": "A group of landmark villas built for Bauhaus faculty, including famous residents like Kandinsky and Paul Klee.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Georgium Palace",
+                  "text": "A neoclassical palace set within an English landscape garden, housing the Anhalt Gallery of Fine Arts.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wörlitz Park",
+                  "text": "A centerpiece of the UNESCO Garden Kingdom, famous for its harmonious landscapes, canals, and classicist buildings.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kornhaus",
+                  "text": "A historic restaurant on the banks of the Elbe river, showcasing iconic Bauhaus architecture and river views.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
+  },
   {
     id: "river-elbe-st-extra",
     type: "river",

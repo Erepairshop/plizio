@@ -831,6 +831,136 @@ export const pois: POI[] = [
       pt: ["A construção da Catedral de Colônia demorou um total de 632 anos (1248 a 1880).", "Colônia foi fundada no ano 50 d.C. pelos romanos com o nome CCAA.", "A cidade tem mais de 1,1 milhões de habitantes e é a quarta maior cidade da Alemanha.", "A Universidade de Colônia foi fundada já no ano de 1388.", "Na Catedral de Colônia encontram-se os ossos dos Três Reis Magos.", "Colônia possui uma densidade extraordinária de edifícios sagrados com 12 grandes igrejas românicas."],
       fr: ["La construction de la cathédrale de Cologne a duré au total 632 ans (de 1248 à 1880).", "Cologne a été fondée en l'an 50 après J.-C. par les Romains sous le nom de CCAA.", "La ville compte plus de 1,1 million d'habitants et est la quatrième ville d'Allemagne.", "L'université de Cologne a été fondée dès l'année 1388.", "La cathédrale de Cologne abrite les reliques des Rois Mages.", "Cologne possède, avec 12 grandes églises romanes, une densité exceptionnelle d'édifices religieux."],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Kölner Dom",
+                  "text": "Das UNESCO-Welterbe und Wahrzeichen der Stadt beeindruckt durch seine monumentale gotische Architektur.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hohenzollernbrücke",
+                  "text": "Die berühmte Eisenbahnbrücke ist bekannt für die tausenden Liebesschlösser und den Blick auf den Dom.",
+                  "category": "bridge",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schokoladenmuseum",
+                  "text": "Direkt am Rhein gelegen, bietet das Museum spannende Einblicke in die Welt der Schokoladenherstellung.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum Ludwig",
+                  "text": "Ein bedeutendes Kunstmuseum für moderne Kunst, das unter anderem eine große Picasso-Sammlung beherbergt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Historisches Rathaus",
+                  "text": "Der prachtvolle Bau mit seinem markanten Rathausturm spiegelt die lange Geschichte der freien Reichsstadt wider.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kölni dóm",
+                  "text": "Az UNESCO Világörökség része és a város jelképe, amely monumentális gótikus építészetével nyűgözi le a látogatókat.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hohenzollern-híd",
+                  "text": "A híres vasúti híd a rajta elhelyezett több ezer szerelemlakatról és a dómra nyíló kilátásról ismert.",
+                  "category": "bridge",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Csokoládémúzeum",
+                  "text": "Közvetlenül a Rajna partján található, izgalmas betekintést nyújt a csokoládégyártás világába.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ludwig Múzeum",
+                  "text": "A modern művészet egyik legfontosabb múzeuma, amely többek között jelentős Picasso-gyűjteménnyel rendelkezik.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Történelmi városháza",
+                  "text": "A pompás épület jellegzetes tornyával a szabad birodalmi város hosszú történelmét tükrözi.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Domul din Köln",
+                  "text": "Simbolul orașului și sit UNESCO, catedrala impresionează prin arhitectura gotică monumentală și înălțime.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Podul Hohenzollern",
+                  "text": "Celebrul pod feroviar este cunoscut pentru miile de lacăte ale iubirii și vederea superbă spre catedrală.",
+                  "category": "bridge",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Ciocolatei",
+                  "text": "Situat pe malul Rinului, muzeul oferă o incursiune fascinantă în istoria și producția ciocolatei.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Ludwig",
+                  "text": "Un muzeu de artă modernă de renume, care găzduiește una dintre cele mai mari colecții Picasso din lume.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria istorică",
+                  "text": "Clădirea magnifică cu turnul său distinctiv reflectă istoria îndelungată a orașului imperial liber.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cologne Cathedral",
+                  "text": "A UNESCO World Heritage site and city landmark, it is one of the world's most impressive Gothic cathedrals.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hohenzollern Bridge",
+                  "text": "The famous railway bridge is renowned for its thousands of love locks and spectacular views of the Cathedral.",
+                  "category": "bridge",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Chocolate Museum",
+                  "text": "Located right on the Rhine, this museum offers an exciting journey through the world of chocolate making.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum Ludwig",
+                  "text": "An important museum of modern art, housing a significant collection of works by Pablo Picasso and Pop Art.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Historic City Hall",
+                  "text": "The magnificent building with its prominent tower reflects the long history of the free imperial city.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-frankfurt",
@@ -862,6 +992,136 @@ export const pois: POI[] = [
       pt: ["O Aeroporto de Frankfurt movimenta anualmente mais de 70 milhões de passageiros.", "A Commerzbank Tower foi durante muito tempo o edifício mais alto da UE com 259 metros.", "A Bolsa de Valores de Frankfurt tem as suas origens no ano 1585.", "Goethe nasceu a 28 de agosto de 1749 no Großer Hirschgraben em Frankfurt.", "A cidade tem cerca de 760.000 habitantes e uma população muito internacional.", "O Römer serve como câmara municipal da cidade de Frankfurt desde o ano 1405."],
       fr: ["L'aéroport de Francfort accueille chaque année plus de 70 millions de passagers.", "La Commerzbank Tower a longtemps été le plus haut bâtiment de l'UE avec ses 259 mètres.", "La Bourse de Francfort trouve ses origines en 1585.", "Goethe est né le 28 août 1749 au Großer Hirschgraben à Francfort.", "La ville compte environ 760 000 habitants et une population très internationale.", "Le Römer sert d'hôtel de ville à la ville de Francfort depuis 1405."],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Römerberg",
+                  "text": "Der historische Rathausplatz mit seinen rekonstruierten Fachwerkhäusern ist das Herz der Frankfurter Altstadt.",
+                  "category": "square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kaiserdom St. Bartholomäus",
+                  "text": "Die gotische Stiftskirche war Krönungsort der deutschen Kaiser und prägt die Silhouette der Altstadt.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Goethe-Haus",
+                  "text": "Das Geburtshaus von Johann Wolfgang von Goethe vermittelt Einblicke in das Leben des berühmten Dichters.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Main Tower",
+                  "text": "Einer der wenigen Wolkenkratzer mit Aussichtsplattform, der einen atemberaubenden Blick auf die Skyline bietet.",
+                  "category": "tower",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alte Oper",
+                  "text": "Das prachtvolle Konzerthaus im Stil der Neorenaissance wurde nach dem Krieg originalgetreu wiederaufgebaut.",
+                  "category": "landmark",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Römerberg",
+                  "text": "A történelmi városháza tér rekonstruált gerendavázas házaival Frankfurt óvárosának központja.",
+                  "category": "square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Bertalan-székesegyház",
+                  "text": "A gótikus császári dóm a német uralkodók koronázási helyszíne volt, és meghatározza az óváros képét.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Goethe-ház",
+                  "text": "Johann Wolfgang von Goethe szülőháza hiteles betekintést nyújt a híres költő életébe és korába.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Main Tower",
+                  "text": "A város kevés látogatható felhőkarcolójának egyike, ahonnan lélegzetelállító kilátás nyílik a panorámára.",
+                  "category": "tower",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Régi Opera",
+                  "text": "A neoreneszánsz stílusú, pompás hangversenytermet a háború után eredeti formájában építették újjá.",
+                  "category": "landmark",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piața Römerberg",
+                  "text": "Piața istorică a primăriei, cu casele sale din lemn reconstruite, este inima centrului vechi din Frankfurt.",
+                  "category": "square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala Imperială",
+                  "text": "Biserica gotică a fost locul de încoronare a împăraților germani și domină silueta orașului vechi.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa lui Goethe",
+                  "text": "Casa natală a lui Johann Wolfgang von Goethe oferă o privire fascinantă asupra vieții marelui poet.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Main Tower",
+                  "text": "Unul dintre puținii zgârie-nori cu platformă de observație, oferind o vedere uluitoare asupra panoramei orașului.",
+                  "category": "tower",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vechea Operă",
+                  "text": "Magnifica sală de concerte în stil neorenascentist a fost reconstruită fidel după distrugerile din război.",
+                  "category": "landmark",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Römerberg",
+                  "text": "The historic town hall square with its half-timbered houses is the heart of Frankfurt's old city center.",
+                  "category": "square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Imperial Cathedral",
+                  "text": "This Gothic collegiate church was the site of German imperial coronations and defines the old town skyline.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Goethe House",
+                  "text": "The birthplace of Johann Wolfgang von Goethe offers an authentic look into the life of the famous poet.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Main Tower",
+                  "text": "One of the few skyscrapers with a public viewing platform, providing breathtaking views of the city's skyline.",
+                  "category": "tower",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Opera House",
+                  "text": "The magnificent neo-Renaissance concert hall was faithfully rebuilt after being damaged in the war.",
+                  "category": "landmark",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-leipzig",
@@ -895,6 +1155,160 @@ export const pois: POI[] = [
       pt: ["Johann Sebastian Bach foi cantor na Thomaskirche de Leipzig durante 27 anos.", "O Monumento à Batalha das Nações tem 91 metros de altura e foi inaugurado em 1913.", "A Universidade de Leipzig é a segunda universidade mais antiga da Alemanha com funcionamento contínuo.", "A estação central de Leipzig é a maior estação terminal da Europa em termos de área.", "A cidade tem cerca de 600.000 habitantes e tem crescido continuamente há anos.", "As manifestações de segunda-feira começaram na Nikolaikirche em 1989."],
       fr: ["Johann Sebastian Bach fut cantor de la Thomaskirche de Leipzig pendant 27 ans.", "Le Monument de la Bataille des Nations mesure 91 mètres de haut et fut inauguré en 1913.", "L'université de Leipzig est la deuxième plus ancienne université d'Allemagne à avoir fonctionné sans interruption.", "La gare centrale de Leipzig est la plus grande gare en impasse d'Europe en termes de superficie.", "La ville compte environ 600 000 habitants et connaît une croissance continue depuis des années.", "C'est à la Nikolaikirche qu'ont débuté les manifestations du lundi en 1989."],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Völkerschlachtdenkmal",
+                  "text": "Ein monumentales Denkmal zur Erinnerung an die Schlacht von 1813, eines der größten Wahrzeichen Europas mit Panoramablick.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Thomaskirche",
+                  "text": "Die Wirkungsstätte von Johann Sebastian Bach und Heimat des Thomanerchors, ein bedeutendes Zentrum der Kirchenmusik.",
+                  "category": "Kirche",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nikolaikirche",
+                  "text": "Die Kirche war der zentrale Ausgangspunkt der friedlichen Revolution von 1989 in der ehemaligen DDR.",
+                  "category": "Kirche",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Altes Rathaus",
+                  "text": "Ein prächtiger Renaissancebau am Marktplatz, der heute das Stadtgeschichtliche Museum beherbergt.",
+                  "category": "Rathaus",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zoo Leipzig",
+                  "text": "Einer der modernsten und artenreichsten Zoos der Welt mit der riesigen Tropenhalle Gondwanaland.",
+                  "category": "Park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mädler-Passage",
+                  "text": "Eine historische Ladenpassage mit prunkvoller Architektur und dem berühmten Restaurant Auerbachs Keller.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Népek csatájának emlékműve",
+                  "text": "Az 1813-as lipcsei csata emlékére emelt hatalmas emlékmű, Európa egyik legmagasabb építménye.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tamás-templom",
+                  "text": "Johann Sebastian Bach egykori munkahelye és sírhelye, a világhírű Thomanerchor fiúkórus otthona.",
+                  "category": "Kirche",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Miklós-templom",
+                  "text": "Lipcse legidősebb temploma, amely az 1989-es békés forradalom és hétfői tüntetések központja volt.",
+                  "category": "Kirche",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Régi városháza",
+                  "text": "A piactéren álló reneszánsz épület, amely ma a város történelmi múzeumának ad otthont.",
+                  "category": "Rathaus",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lipcsei Állatkert",
+                  "text": "Világszínvonalú állatkert, amelynek legfőbb látványossága a Gondwanaland trópusi esőerdő-csarnok.",
+                  "category": "Park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mädler-Passage",
+                  "text": "Elegáns történelmi bevásárlóárkád, itt található a híres Auerbachs Keller vendéglő is.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumentul Bătăliei Națiunilor",
+                  "text": "Un monument grandios dedicat bătăliei din 1813, oferind o perspectivă spectaculoasă asupra orașului.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfântul Toma",
+                  "text": "Locul unde a activat Johann Sebastian Bach, renumit pentru corul de băieți Thomanerchor.",
+                  "category": "Kirche",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfântul Nicolae",
+                  "text": "Centrul protestelor pașnice din 1989 care au dus la căderea Zidului Berlinului și reunificarea Germaniei.",
+                  "category": "Kirche",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vechea Primărie",
+                  "text": "O clădire emblematică în stil renascentist situată în piața centrală, astăzi muzeu de istorie.",
+                  "category": "Rathaus",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădina Zoologică Leipzig",
+                  "text": "Una dintre cele mai frumoase grădini zoologice din Europa, celebră pentru cupola tropicală Gondwanaland.",
+                  "category": "Park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mädler-Passage",
+                  "text": "Pasaj istoric de lux cu arhitectură impresionantă, găzduind faimosul restaurant Auerbachs Keller.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument to the Battle of the Nations",
+                  "text": "One of the tallest monuments in Europe, built to commemorate the 1813 defeat of Napoleon at Leipzig.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Thomas Church",
+                  "text": "The long-time workplace of Johann Sebastian Bach, housing his remains and the famous Thomanerchor choir.",
+                  "category": "Kirche",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Nicholas Church",
+                  "text": "Leipzig's largest church, famous for being the starting point of the 1989 Peaceful Revolution.",
+                  "category": "Kirche",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Town Hall",
+                  "text": "A beautiful Renaissance building on the Market Square, now serving as the city's historical museum.",
+                  "category": "Rathaus",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Leipzig Zoo",
+                  "text": "A world-class zoo featuring the massive Gondwanaland tropical hall and innovative animal habitats.",
+                  "category": "Park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mädler Passage",
+                  "text": "A grand historic shopping arcade known for its elegant architecture and the Auerbachs Keller tavern.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-nuernberg",
@@ -927,6 +1341,160 @@ export const pois: POI[] = [
       pt: ["O Castelo Imperial de Nuremberga foi mencionado pela primeira vez num documento no ano 1050.", "A Casa de Albrecht Dürer foi construída por volta de 1420 e é um monumento arquitetónico importante.", "A cidade tem cerca de 520.000 habitantes e é o centro da região metropolitana de Nuremberga.", "Os Julgamentos de Nuremberga ocorreram em 1945/46 na sala 600 do Palácio da Justiça.", "Nuremberga é considerada a cidade berço do pão de mel e da salsicha assada de Nuremberga.", "A primeira ferrovia alemã, o Adler, circulou em 1835 entre Nuremberga e Fürth."],
       fr: ["Le château impérial de Nuremberg fut mentionné pour la première fois en 1050.", "La maison d'Albrecht Dürer fut bâtie vers 1420 et constitue un monument historique majeur.", "La ville compte environ 520 000 habitants et est le centre de la région métropolitaine de Nuremberg.", "Les procès de Nuremberg se sont tenus en 1945/46 dans la salle 600 du palais de justice.", "Nuremberg est considérée comme la ville d'origine du pain d'épices et de la saucisse grillée locale.", "Le premier chemin de fer allemand, l'Adler, circula en 1835 entre Nuremberg et Fürth."],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Kaiserburg",
+                  "text": "Die historische Kaiserpfalz auf einem Sandsteinfelsen ist das Wahrzeichen Nürnbergs und eine der bedeutendsten Burgen.",
+                  "category": "Schloss",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Albrecht-Dürer-Haus",
+                  "text": "Das ehemalige Wohn- und Arbeitshaus des berühmten Renaissance-Künstlers, heute ein Museum.",
+                  "category": "Museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Frauenkirche",
+                  "text": "Die gotische Hallenkirche am Hauptmarkt ist berühmt für ihr Männleinlaufen-Uhrwerk.",
+                  "category": "Kirche",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Germanisches Nationalmuseum",
+                  "text": "Das größte kulturgeschichtliche Museum des deutschsprachigen Raums mit über 1,3 Millionen Objekten.",
+                  "category": "Museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schöner Brunnen",
+                  "text": "Ein 19 Meter hoher gotischer Turmbrunnen am Hauptmarkt mit zwei messingnen Ringen.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dokumentationszentrum Reichsparteitagsgelände",
+                  "text": "Ein Museum in der unvollendeten Kongresshalle, das über die NS-Vergangenheit der Stadt aufklärt.",
+                  "category": "Museum",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Császári vár",
+                  "text": "Nürnberg jelképe, a középkori Európa egyik legfontosabb uralkodói székhelye a homokkősziklán.",
+                  "category": "Schloss",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Albrecht Dürer háza",
+                  "text": "A híres német reneszánsz festő egykori lakóháza és műhelye az óváros szélén.",
+                  "category": "Museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Miasszonyunk-templom",
+                  "text": "Gótikus templom a főtéren, homlokzatán a híres órajátékkal (Männleinlaufen).",
+                  "category": "Kirche",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Germán Nemzeti Múzeum",
+                  "text": "A német nyelvterület legnagyobb kultúrtörténeti múzeuma, felbecsülhetetlen kincsekkel.",
+                  "category": "Museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szép kút",
+                  "text": "19 méter magas gótikus díszkút a főtéren, szerencsehozó rézgyűrűkkel a rácsán.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dokumentációs Központ",
+                  "text": "A náci pártnapok helyszínén kialakított kiállítás, amely a diktatúra történetét mutatja be.",
+                  "category": "Museum",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelul Imperial",
+                  "text": "Simbolul orașului, o fortăreață medievală impunătoare situată pe o stâncă de gresie deasupra centrului vechi.",
+                  "category": "Schloss",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa lui Albrecht Dürer",
+                  "text": "Singura casă de artist din secolul al XVI-lea păstrată în Europa, unde a locuit faimosul pictor.",
+                  "category": "Museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Maicii Domnului",
+                  "text": "Biserică gotică situată în piața principală, celebră pentru mecanismul său cu figurine (Männleinlaufen).",
+                  "category": "Kirche",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Național Germanic",
+                  "text": "Cel mai mare muzeu de istorie culturală din țările vorbitoare de limbă germană.",
+                  "category": "Museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fântâna Frumoasă",
+                  "text": "O fântână gotică sub formă de turlă, înaltă de 19 metri, decorată cu 40 de figuri colorate.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Centrul de Documentare",
+                  "text": "Situat în fosta hală a congreselor naziștilor, oferă o perspectivă critică asupra istoriei celui de-al Treilea Reich.",
+                  "category": "Museum",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Imperial Castle",
+                  "text": "A landmark of Nuremberg, this medieval fortification was one of the most important royal palaces of the Holy Roman Empire.",
+                  "category": "Schloss",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Albrecht Dürer's House",
+                  "text": "The former home and workshop of the world-famous Renaissance artist Albrecht Dürer.",
+                  "category": "Museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Frauenkirche",
+                  "text": "A stunning Gothic church in the Market Square, known for its mechanical clock (Männleinlaufen).",
+                  "category": "Kirche",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Germanic National Museum",
+                  "text": "Germany's largest museum of cultural history, with exhibits ranging from prehistoric times to the present.",
+                  "category": "Museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schöner Brunnen",
+                  "text": "A beautiful 14th-century Gothic fountain on the main market square, standing 19 meters high.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Documentation Center Nazi Party Rally Grounds",
+                  "text": "A museum dedicated to educating visitors about the city's role during the Nazi regime.",
+                  "category": "Museum",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-heidelberg",
@@ -957,6 +1525,160 @@ export const pois: POI[] = [
       pt: ["A Universidade de Heidelberg foi fundada em 1386 e é a mais antiga da Alemanha.", "O Castelo de Heidelberg alberga o maior barril de vinho do mundo, com 219.000 litros.", "A cidade foi quase completamente poupada a bombardeamentos durante a Segunda Guerra Mundial.", "O Caminho dos Filósofos oferece uma das vistas panorâmicas mais conhecidas do centro histórico.", "Em 1196, Heidelberg foi mencionada pela primeira vez num documento de Mainz.", "Cerca de 25 por cento dos habitantes de Heidelberg são atualmente estudantes."],
       fr: ["L'université de Heidelberg a été fondée en 1386 et est la plus ancienne d'Allemagne.", "Le château de Heidelberg abrite le plus grand tonneau de vin au monde (219 000 litres).", "La ville a été presque entièrement épargnée par les bombardements lors de la Seconde Guerre mondiale.", "Le Chemin des Philosophes offre l'une des vues panoramiques les plus célèbres sur la vieille ville.", "En 1196, Heidelberg fut mentionnée pour la première fois dans un document de Mayence.", "Environ 25 % des habitants de Heidelberg sont aujourd'hui des étudiants."],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Heidelberger Schloss",
+                  "text": "Die berühmte Schlossruine hoch über dem Neckar ist das Wahrzeichen der Romantik und beherbergt das Große Fass.",
+                  "category": "Schloss",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alte Brücke",
+                  "text": "Die Karl-Theodor-Brücke mit ihrem markanten Torturm verbindet die Altstadt mit dem gegenüberliegenden Neckarufer.",
+                  "category": "Brücke",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Philosophenweg",
+                  "text": "Ein berühmter Wanderweg am Heiligenberg mit traumhaftem Blick auf das Schloss und die Altstadt.",
+                  "category": "Park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Heiliggeistkirche",
+                  "text": "Die größte und bedeutendste Kirche in der Heidelberger Altstadt, erbaut aus rotem Sandstein.",
+                  "category": "Kirche",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Studentenkarzer",
+                  "text": "Ein historisches Gefängnis der Universität, in dem Studenten für kleine Vergehen inhaftiert wurden.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alte Universität",
+                  "text": "Das Barockgebäude am Universitätsplatz ist der Sitz der ältesten Universität Deutschlands.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Heidelbergi kastély",
+                  "text": "A romantika jelképe, a Neckar fölé magasodó vörös homokkő várrom, amely a világ legnagyobb boroshordóját őrzi.",
+                  "category": "Schloss",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Régi híd",
+                  "text": "A Karl Theodor-híd a város egyik legszebb építménye a jellegzetes fehér kaputornyokkal.",
+                  "category": "Brücke",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Filozófusok útja",
+                  "text": "Sétány a hegyoldalban, ahonnan a legszebb kilátás nyílik a várra és a történelmi óvárosra.",
+                  "category": "Park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Lélek-templom",
+                  "text": "Az óváros szívében álló gótikus csarnoktemplom, Heidelberg legfontosabb egyházi épülete.",
+                  "category": "Kirche",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Diákbörtön",
+                  "text": "Az egyetem régi fogdája, ahol a rendetlenkedő hallgatók töltötték büntetésüket, falaikon falfirkákkal.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Régi Egyetem",
+                  "text": "Németország legrégebbi egyetemének barokk épülete, benne az impozáns díszteremmel.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelul Heidelberg",
+                  "text": "Ruinele faimosului castel domină orașul și reprezintă un simbol al romantismului german.",
+                  "category": "Schloss",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Podul Vechi",
+                  "text": "Pod istoric peste râul Neckar, cunoscut pentru turnurile sale albe și statuile emblematice.",
+                  "category": "Brücke",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Calea Filozofilor",
+                  "text": "O potecă pitorească pe dealul Heiligenberg, oferind o panoramă de neuitat asupra centrului vechi.",
+                  "category": "Park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Duhului Sfânt",
+                  "text": "Cea mai mare biserică din oraș, situată în piața centrală, construită din gresie roșie.",
+                  "category": "Kirche",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Închisoarea studenților",
+                  "text": "Un loc inedit unde studenții erau pedepsiți în trecut, pereții fiind plini de graffiti istorice.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vechea Universitate",
+                  "text": "Clădire barocă spectaculoasă ce aparține celei mai vechi universități din Germania, fondată în 1386.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Heidelberg Castle",
+                  "text": "The world-famous ruins of this Renaissance castle offer breathtaking views and house the Great Tun wine vat.",
+                  "category": "Schloss",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Bridge",
+                  "text": "The Karl Theodor Bridge is a stunning 18th-century stone bridge and one of the city's main landmarks.",
+                  "category": "Brücke",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Philosophers' Walk",
+                  "text": "A scenic path on the northern bank of the Neckar, famous for its beauty and views of the old town.",
+                  "category": "Park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Church of the Holy Spirit",
+                  "text": "The most famous church in Heidelberg, dominating the old town market square with its red sandstone spire.",
+                  "category": "Kirche",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Student Prison",
+                  "text": "A historic jail where Heidelberg University students were confined for minor offenses until 1914.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old University",
+                  "text": "Home to Germany's oldest university, featuring a magnificent Great Hall (Alte Aula) in Baroque style.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-luebeck",
@@ -987,6 +1709,160 @@ export const pois: POI[] = [
       pt: ["Lübeck foi uma Cidade Imperial Livre a partir de 1226 e manteve este estatuto até 1937.", "O Holstentor é um dos monumentos arquitetónicos alemães mais conhecidos do gótico tardio.", "A Marienkirche possui a abóbada de tijolos mais alta do mundo, com quase 40 metros.", "Lübeck foi a primeira cidade do Norte da Europa a ser declarada Património Mundial da UNESCO em 1987.", "A Buddenbrookhaus recorda o escritor Thomas Mann, que nasceu aqui em 1875.", "A cidade possui cerca de 90 passagens e pátios históricos no centro histórico."],
       fr: ["Lübeck fut une ville libre d'Empire de 1226 jusqu'en 1937.", "La Holstentor est l'un des monuments allemands les plus célèbres du gothique tardif.", "L'église Sainte-Marie possède la plus haute voûte en brique du monde (près de 40 mètres).", "Lübeck fut en 1987 la première ville d'Europe du Nord classée au patrimoine mondial de l'UNESCO.", "La maison des Buddenbrook commémore l'écrivain Thomas Mann, né ici en 1875.", "La ville compte environ 90 ruelles et cours historiques dans sa vieille ville."],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Holstentor",
+                  "text": "Das spätgotische Stadttor aus Backstein ist das Wahrzeichen Lübecks und UNESCO-Weltkulturerbe.",
+                  "category": "Stadttor",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Marienkirche",
+                  "text": "Die Mutterkirche der norddeutschen Backsteingotik mit dem höchsten Backsteingewölbe der Welt.",
+                  "category": "Kirche",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lübecker Rathaus",
+                  "text": "Eines der ältesten und schönsten Rathäuser Deutschlands, bekannt für seine dekorativen Schaufassaden.",
+                  "category": "Rathaus",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Buddenbrookhaus",
+                  "text": "Das ehemalige Wohnhaus der Familie Mann, heute ein Museum gewidmet den Schriftstellern Thomas und Heinrich Mann.",
+                  "category": "Museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Heiligen-Geist-Hospital",
+                  "text": "Eine der ältesten sozialen Einrichtungen der Welt aus dem 13. Jahrhundert mit einer beeindruckenden Hallenkirche.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Petri Kirche",
+                  "text": "Eine ehemalige Kirche, die heute als Kulturzentrum dient und eine Aussichtsplattform mit Blick über die Altstadt bietet.",
+                  "category": "Kirche",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Holstentor",
+                  "text": "Lübeck késő gótikus tégla városkapuja, a város jelképe és az UNESCO Világörökség része.",
+                  "category": "Stadttor",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mária-templom",
+                  "text": "Az észak-német téglagótika mintaképe, itt található a világ legmagasabb téglaépítésű boltíve.",
+                  "category": "Kirche",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lübecki városháza",
+                  "text": "Németország egyik legrégebbi és legimpozánsabb városházája, különleges sötét mázas téglákkal.",
+                  "category": "Rathaus",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Buddenbrook-ház",
+                  "text": "A híres írócsalád, a Mann fivérek egykori otthona, amely ma emlékmúzeumként működik.",
+                  "category": "Museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szentlélek-ispotály",
+                  "text": "A világ egyik legrégebbi szociális intézménye, középkori freskókkal díszített csarnoktemplommal.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Péter-templom",
+                  "text": "Öthajós gótikus templom, tornyából pazar kilátás nyílik az egész óvárosra és a kikötőre.",
+                  "category": "Kirche",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Poarta Holsten",
+                  "text": "Poarta vestică a orașului vechi, construită din cărămidă roșie, un exemplu remarcabil de arhitectură gotică.",
+                  "category": "Stadttor",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfânta Maria",
+                  "text": "Cea mai mare biserică din Lübeck, model pentru numeroase biserici din regiunea Mării Baltice.",
+                  "category": "Kirche",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria din Lübeck",
+                  "text": "O bijuterie arhitecturală a Ligii Hanseatice, îmbinând stilurile gotic și renascentist.",
+                  "category": "Rathaus",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Buddenbrook",
+                  "text": "Casa memorială dedicată scriitorilor Thomas și Heinrich Mann, situată în centrul istoric.",
+                  "category": "Museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Spitalul Sfântul Duh",
+                  "text": "Una dintre cele mai vechi instituții de caritate din Europa, datând din secolul al XIII-lea.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfântul Petru",
+                  "text": "O biserică istorică ce oferă de la înălțimea turnului său cea mai bună panoramă asupra orașului hanseatic.",
+                  "category": "Kirche",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Holsten Gate",
+                  "text": "This iconic brick Gothic city gate is the symbol of Lübeck and a UNESCO World Heritage site.",
+                  "category": "Stadttor",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Mary's Church",
+                  "text": "A masterpiece of brick Gothic architecture, featuring the highest brick vault in the world.",
+                  "category": "Kirche",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lübeck Town Hall",
+                  "text": "One of the most important and beautiful town halls in Germany, reflecting the wealth of the Hanseatic League.",
+                  "category": "Rathaus",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Buddenbrook House",
+                  "text": "A museum dedicated to the Mann family of writers, located in their former ancestral home.",
+                  "category": "Museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hospital of the Holy Spirit",
+                  "text": "Built in 1286, it is one of the oldest social institutions in the world with a stunning interior hall.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Peter's Church",
+                  "text": "A 12th-century church whose tower provides a panoramic 360-degree view of the medieval city.",
+                  "category": "Kirche",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-regensburg",
@@ -1017,6 +1893,142 @@ export const pois: POI[] = [
       pt: ["A Ponte de Pedra foi construída entre 1135 e 1146.", "A porta romana Porta Praetoria, do ano 179 d.C., ainda é visível hoje.", "A Dieta Perpétua reuniu-se na Câmara Municipal de Regensburg de 1663 a 1806.", "Regensburg tem a maior densidade de bares por metro quadrado em toda a Alemanha.", "A cidade foi amplamente poupada de destruições massivas na Segunda Guerra Mundial.", "O Castelo Emmeram é a sede ancestral dos príncipes de Thurn e Taxis."],
       fr: ["Le Pont de Pierre a été construit entre 1135 et 1146.", "La porte de ville romaine Porta Praetoria, datant de 179 apr. J.-C., est encore visible aujourd'hui.", "La Diète perpétuelle d'Empire a siégé de 1663 à 1806 dans l'hôtel de ville de Ratisbonne.", "Ratisbonne possède la plus forte densité de bistrots par mètre carré de toute l'Allemagne.", "La ville a été largement épargnée par les destructions massives pendant la Seconde Guerre mondiale.", "Le château Saint-Emmeran est le siège historique de la maison princière de Thurn und Taxis."],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Steinerne Brücke",
+                  "text": "Dieses Meisterwerk mittelalterlicher Baukunst aus dem 12. Jahrhundert verbindet die Altstadt mit Stadtamhof.",
+                  "category": "bridge",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Regensburger Dom",
+                  "text": "Die bedeutendste gotische Kathedrale Bayerns ist für ihre Glasmalereien und die Domspatzen weltberühmt.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Altes Rathaus",
+                  "text": "Sitz des Immerwährenden Reichstags von 1663 bis 1806, heute Museum mit historischem Reichssaal.",
+                  "category": "town hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Porta Praetoria",
+                  "text": "Ein römisches Lagertor aus dem Jahr 179 n. Chr. und eines der ältesten erhaltenen Steinbauwerke Deutschlands.",
+                  "category": "city gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schloss Thurn und Taxis",
+                  "text": "Das prächtige Residenzschloss St. Emmeram ist größer als der Buckingham Palace und Sitz des Fürstenhauses.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Goliathhaus",
+                  "text": "Ein markantes Patrizierhaus aus dem 13. Jahrhundert mit einem riesigen Wandgemälde des Kampfes David gegen Goliath.",
+                  "category": "historic square",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kő-híd",
+                  "text": "A 12. századi középkori építészet remekműve, amely az óvárost köti össze Stadtamhof negyedével.",
+                  "category": "bridge",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Regensburgi dóm",
+                  "text": "Bajorország legjelentősebb gótikus székesegyháza, amely színes üvegablakairól és gyermekkórusáról híres.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Régi városháza",
+                  "text": "Az állandó birodalmi gyűlés székhelye volt 1663 és 1806 között, ma múzeum és történelmi tanácsterem.",
+                  "category": "town hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Porta Praetoria",
+                  "text": "Római kori kapu 179-ből, Németország egyik legrégebbi fennmaradt kőépítménye és katonai emléke.",
+                  "category": "city gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Thurn und Taxis kastély",
+                  "text": "A Szent Emmerám apátságból kialakított hercegi rezidencia, amely méretében a Buckingham-palotát is felülmúlja.",
+                  "category": "castle",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Podul de Piatră",
+                  "text": "O capodoperă a arhitecturii medievale din secolul al XII-lea, care leagă centrul vechi de cartierul Stadtamhof.",
+                  "category": "bridge",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala din Regensburg",
+                  "text": "Cea mai importantă catedrală gotică din Bavaria, renumită pentru vitraliile sale și corul de băieți Domspatzen.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vechea Primărie",
+                  "text": "Sediul Dietei Imperiale Perpetue între 1663 și 1806, găzduiește astăzi Sala Imperială istorică.",
+                  "category": "town hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Porta Praetoria",
+                  "text": "O poartă a castrului roman construită în anul 179 d.Hr., fiind una dintre cele mai vechi structuri din piatră.",
+                  "category": "city gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Thurn und Taxis",
+                  "text": "Reședința somptuoasă a familiei princiare, amenajată în fosta mănăstire St. Emmeram, mai mare decât Buckingham.",
+                  "category": "castle",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stone Bridge",
+                  "text": "A 12th-century masterpiece of medieval engineering, it connects the old town with the Stadtamhof district.",
+                  "category": "bridge",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Regensburg Cathedral",
+                  "text": "The most significant Gothic cathedral in Bavaria, famous for its stained glass and the Domspatzen choir.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Town Hall",
+                  "text": "Home to the Perpetual Imperial Diet from 1663 to 1806, featuring the historic Imperial Hall and torture chamber.",
+                  "category": "town hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Porta Praetoria",
+                  "text": "An ancient Roman gate built in 179 AD, serving as one of the oldest surviving stone structures in Germany.",
+                  "category": "city gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Thurn and Taxis Palace",
+                  "text": "The massive princely residence of St. Emmeram, which is larger than Buckingham Palace and still inhabited.",
+                  "category": "castle",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-wuerzburg",
@@ -1047,6 +2059,142 @@ export const pois: POI[] = [
       pt: ["A Residência de Würzburg foi um dos primeiros edifícios alemães a ser Património Mundial da UNESCO em 1981.", "Wilhelm Conrad Röntgen descobriu os raios X em 1895 na Universidade de Würzburg.", "O fresco do teto na escadaria da Residência mostra os quatro continentes conhecidos na época.", "Em 16 de março de 1945, 90 por cento de Würzburg foi destruído em 20 minutos.", "A cidade é o ponto de partida da Rota Romântica, uma famosa estrada turística.", "Würzburg foi elevada a sede episcopal já no ano 741."],
       fr: ["La Résidence de Wurtzbourg fut l'un des premiers bâtiments allemands inscrits à l'UNESCO en 1981.", "Wilhelm Conrad Röntgen a découvert les rayons X en 1895 à l'université de Wurtzbourg.", "La fresque du plafond de l'escalier de la Résidence représente les quatre continents connus à l'époque.", "Le 16 mars 1945, Wurtzbourg fut détruite à 90 % en l'espace de 20 minutes.", "La ville est le point de départ de la Route romantique, une célèbre route touristique.", "Wurtzbourg a été élevée au rang de siège épiscopal dès l'an 741."],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Würzburger Residenz",
+                  "text": "Dieses UNESCO-Welterbe ist ein barocker Prachtbau von Balthasar Neumann mit dem größten Deckenfresko der Welt.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Festung Marienberg",
+                  "text": "Die majestätische Burg über dem Main war jahrhundertelang Sitz der Würzburger Fürstbischöfe.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alte Mainbrücke",
+                  "text": "Die historische Brücke mit ihren zwölf Heiligenfiguren ist ein beliebter Ort für den typischen Brückenschoppen.",
+                  "category": "bridge",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Würzburger Dom",
+                  "text": "Der Dom St. Kilian ist die viertgrößte romanische Basilika Deutschlands und Grablege zahlreicher Bischöfe.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Marienkapelle",
+                  "text": "Eine gotische Hallenkirche am Marktplatz, bekannt für die Sandsteinfiguren von Tilman Riemenschneider.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Käppele",
+                  "text": "Die prächtige Wallfahrtskirche auf dem Nikolausberg bietet einen fantastischen Blick über die Stadt.",
+                  "category": "church",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Würzburgi érseki palota",
+                  "text": "UNESCO világörökségi barokk palota, amely a világ legnagyobb egybefüggő mennyezeti freskójával büszkélkedhet.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Marienberg erőd",
+                  "text": "A Majna felett magasodó vár évszázadokon át a würzburgi hercegpüspökök székhelye és védelmi bástyája volt.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Régi Majna-híd",
+                  "text": "A szentek szobraival díszített történelmi híd, ahol a helyiek szívesen fogyasztják a környék híres borait.",
+                  "category": "bridge",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Kilian-székesegyház",
+                  "text": "Németország negyedik legnagyobb román stílusú bazilikája, számos püspöki síremlékkel és művészeti kincscsel.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mária-kápolna",
+                  "text": "Gótikus csarnoktemplom a piactéren, Tilman Riemenschneider híres homokkő szobraival díszítve.",
+                  "category": "church",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reședința din Würzburg",
+                  "text": "Monument UNESCO, acest palat baroc proiectat de Balthasar Neumann deține cea mai mare frescă de tavan din lume.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fortăreața Marienberg",
+                  "text": "Castelul impunător de pe malul râului Main a servit drept reședință pentru prinții-episcopi timp de secole.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vechiul pod peste Main",
+                  "text": "Pod istoric decorat cu 12 statui de sfinți, renumit pentru atmosfera sa și tradiția vinului local.",
+                  "category": "bridge",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala Sf. Kilian",
+                  "text": "A patra bazilică romanică ca mărime din Germania, adăpostind mormintele multor episcopi de Würzburg.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Marienkapelle",
+                  "text": "O biserică gotică în piața centrală, renumită pentru sculpturile realizate de celebrul Tilman Riemenschneider.",
+                  "category": "church",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Würzburg Residence",
+                  "text": "A UNESCO World Heritage Site, this Baroque palace features the world's largest single ceiling fresco.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Marienberg Fortress",
+                  "text": "The majestic castle overlooking the Main river was the long-time residence of the prince-bishops.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Main Bridge",
+                  "text": "A historic bridge lined with statues of saints, famous for the tradition of enjoying a glass of wine on its span.",
+                  "category": "bridge",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Würzburg Cathedral",
+                  "text": "Dedicated to St. Kilian, it is the fourth largest Romanesque basilica in Germany with a rich interior.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Marienkapelle",
+                  "text": "A bright Gothic chapel on the market square, notable for the statues by master carver Tilman Riemenschneider.",
+                  "category": "church",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-rostock",
@@ -1077,6 +2225,142 @@ export const pois: POI[] = [
       pt: ["A Universidade de Rostock foi fundada em 1419 e é a mais antiga do Mar Báltico.", "O relógio astronómico na Igreja de Santa Maria ainda funciona hoje com o seu mecanismo original.", "Rostock foi uma das cidades mais poderosas da Liga Hanseática no século XIV.", "O farol de Warnemünde foi construído em 1898 e tem quase 37 metros de altura.", "A câmara municipal histórica consiste em três casas de empena e uma fachada barroca.", "A Hanse Sail atrai anualmente cerca de um milhão de visitantes às docas."],
       fr: ["L'université de Rostock a été fondée en 1419 et est la plus ancienne du bassin de la Baltique.", "L'horloge astronomique de l'église Sainte-Marie fonctionne encore aujourd'hui avec son mécanisme d'origine.", "Rostock était au XIVe siècle l'une des villes les plus puissantes de la Ligue hanséatique.", "Le phare de Warnemünde a été construit en 1898 et mesure près de 37 mètres de haut.", "L'hôtel de ville historique est composé de trois maisons à pignon et d'une façade baroque.", "La Hanse Sail attire chaque année environ un million de visiteurs sur les quais."],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Marienkirche",
+                  "text": "Die Hauptkirche der Hansestadt ist ein Prachtbau der Backsteingotik mit einer astronomischen Uhr von 1472.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Leuchtturm Warnemünde",
+                  "text": "Das 37 Meter hohe Wahrzeichen des Seebads wurde 1898 erbaut und bietet einen weiten Blick über die Ostsee.",
+                  "category": "tower",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kröpeliner Tor",
+                  "text": "Das prächtigste der ehemals 22 Stadttore der Rostocker Stadtbefestigung, heute ein Museum für Stadtgeschichte.",
+                  "category": "city gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stadthafen",
+                  "text": "Einst wichtiger Umschlagplatz der Hanse, heute eine Flaniermeile mit Segelschiffen und Gastronomie.",
+                  "category": "port",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Teepott Warnemünde",
+                  "text": "Ein markanter Rundbau mit markanter Schalenkonstruktion direkt neben dem Leuchtturm an der Promenade.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rostocker Rathaus",
+                  "text": "Ein mittelalterlicher Backsteinbau mit sieben Türmen, dem im 18. Jahrhundert eine barocke Fassade vorgeblendet wurde.",
+                  "category": "town hall",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szent Mária-templom",
+                  "text": "A hanzaváros főtemploma a tégla-gótika remeke, benne egy 1472-ből származó csillagászati órával.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Warnemündei világítótorony",
+                  "text": "A tengerparti városrész jelképe 1898-ban épült, 37 méter magas és pazar kilátást nyújt a Keleti-tengerre.",
+                  "category": "tower",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kröpelin-kapu",
+                  "text": "Rostock egykori városfalának legimpozánsabb kapuja, amely ma helytörténeti kiállításnak ad otthont.",
+                  "category": "city gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Városi kikötő",
+                  "text": "Egykor a Hanza-szövetség fontos rakodóhelye, ma kedvelt sétány vitorlásokkal és éttermekkel.",
+                  "category": "port",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rostocki városháza",
+                  "text": "Középkori téglaépület hét toronnyal, amelyet később egy barokk stílusú homlokzattal egészítettek ki.",
+                  "category": "town hall",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica Sf. Maria",
+                  "text": "Principala biserică a orașului hanseatic, renumită pentru ceasul său astronomic funcțional din 1472.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Farul din Warnemünde",
+                  "text": "Simbolul stațiunii maritime, construit în 1898, oferă o panoramă superbă asupra Mării Baltice.",
+                  "category": "tower",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Poarta Kröpelin",
+                  "text": "Cea mai mare și mai frumoasă dintre porțile vechiului oraș, găzduind în prezent un muzeu istoric.",
+                  "category": "city gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Portul orașului",
+                  "text": "Fost centru comercial al Ligii Hanseatice, acum o zonă de promenadă populară pentru turiști și navigatori.",
+                  "category": "port",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria din Rostock",
+                  "text": "O clădire medievală din cărămidă cu șapte turnuri, completată ulterior cu o fațadă barocă elegantă.",
+                  "category": "town hall",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. Mary's Church",
+                  "text": "A grand example of Brick Gothic architecture featuring a famous astronomical clock dating back to 1472.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Warnemünde Lighthouse",
+                  "text": "Erected in 1898, this 37-meter-tall landmark provides stunning views of the Baltic Sea and the harbor.",
+                  "category": "tower",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kröpelin Gate",
+                  "text": "The most magnificent of the city's former 22 gates, it now serves as a museum for municipal history.",
+                  "category": "city gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "City Harbor",
+                  "text": "A historic Hanseatic trade hub, now a vibrant promenade filled with traditional sailing ships and bars.",
+                  "category": "port",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rostock Town Hall",
+                  "text": "A medieval brick building with seven towers, unique for its later Baroque facade addition.",
+                  "category": "town hall",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-augsburg",
@@ -1106,6 +2390,142 @@ export const pois: POI[] = [
       pt: ["A Fuggerei é o bairro social mais antigo do mundo; a renda anual é de 0,88 euros.", "A câmara municipal de Augsburgo possuía, ao ser concluída em 1624, o primeiro edifício de seis andares do mundo.", "A torre de água na Porta Vermelha faz parte da central de abastecimento de água mais antiga da Europa Central.", "Bertolt Brecht nasceu em 1898 numa pequena casa de artesãos em Augsburgo.", "A Paz Religiosa de Augsburgo de 1555 assegurou a coexistência de católicos e luteranos.", "Augsburgo celebra, como única cidade da Alemanha, o Grande Festival da Paz a 8 de agosto."],
       fr: ["La Fuggerei est le plus ancien quartier social au monde ; le loyer annuel est de 0,88 euro.", "L'hôtel de ville d'Augsbourg était, lors de son achèvement en 1624, le premier bâtiment de six étages au monde.", "La tour d'eau de la Porte Rouge fait partie de la plus ancienne usine hydraulique d'Europe centrale.", "Bertolt Brecht est né en 1898 dans une petite maison d'artisan à Augsbourg.", "La paix d'Augsbourg de 1555 a assuré la coexistence des catholiques et des luthériens.", "Augsbourg est la seule ville d'Allemagne à célébrer la Fête de la Paix le 8 août."],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Fuggerei",
+                  "text": "Die älteste Sozialsiedlung der Welt wurde 1521 von Jakob Fugger gestiftet und wird bis heute bewohnt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Augsburger Rathaus",
+                  "text": "Ein bedeutender Renaissancebau von Elias Holl mit dem prachtvollen Goldenen Saal im Inneren.",
+                  "category": "town hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Perlachturm",
+                  "text": "Der 70 Meter hohe Turm direkt neben dem Rathaus bietet bei Föhnwind einen Blick bis zu den Alpen.",
+                  "category": "tower",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Augsburger Dom",
+                  "text": "Die Kathedrale St. Maria beherbergt die ältesten figürlichen Glasmalereien der Welt (Prophetenfenster).",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Augsburger Puppenkiste",
+                  "text": "Das weltberühmte Marionettentheater befindet sich im historischen Heilig-Geist-Spital.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schaezlerpalais",
+                  "text": "Ein prachtvolles Rokoko-Palais mit einem beeindruckenden Festsaal und bedeutenden Kunstsammlungen.",
+                  "category": "castle",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fuggerei",
+                  "text": "A világ legrégebbi szociális lakótelepe, amelyet 1521-ben alapított Jakob Fugger a rászorulóknak.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Augsburgi városháza",
+                  "text": "Elias Holl reneszánsz épülete, amely az impozáns Aranyteremről (Goldener Saal) világszerte ismert.",
+                  "category": "town hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Perlach-torony",
+                  "text": "A városháza melletti 70 méter magas harangtorony, ahonnan tiszta időben az Alpokig is ellátni.",
+                  "category": "tower",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Augsburgi dóm",
+                  "text": "A Szűz Mária-székesegyház őrzi a világ legrégebbi figurális üvegfestményeit, a híres próféta-ablakokat.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Augsburgi bábszínház",
+                  "text": "A világhírű marionettszínház (Puppenkiste) a történelmi Szentlélek-ispotály épületében működik.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fuggerei",
+                  "text": "Cel mai vechi complex de locuințe sociale din lume, fondat în 1521 de Jakob Fugger cel Bogat.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria din Augsburg",
+                  "text": "O clădire renascentistă monumentală ce găzduiește spectaculoasa Sală de Aur, placată cu aur veritabil.",
+                  "category": "town hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turnul Perlach",
+                  "text": "Un turn de 70 de metri situat lângă primărie, oferind o vedere panoramică excelentă asupra orașului.",
+                  "category": "tower",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala din Augsburg",
+                  "text": "Catedrala Sf. Maria deține vitralii cu figuri de profeți din secolul al XI-lea, cele mai vechi din lume.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Augsburger Puppenkiste",
+                  "text": "Celebrul teatru de marionete cunoscut în întreaga Germanie, situat în istoricul Heilig-Geist-Spital.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fuggerei",
+                  "text": "Founded in 1521, this is the world's oldest social housing complex still in use today.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Augsburg Town Hall",
+                  "text": "A Renaissance masterpiece featuring the Golden Hall, famous for its magnificent gilded ceiling.",
+                  "category": "town hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Perlach Tower",
+                  "text": "A 70-meter-high belfry next to the Town Hall offering panoramic views as far as the Alps.",
+                  "category": "tower",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Augsburg Cathedral",
+                  "text": "Home to the world's oldest figurative stained glass windows, dating back to the late 11th century.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Augsburg Puppet Theatre",
+                  "text": "The famous 'Puppenkiste' marionette theatre, housed in a historic 16th-century hospital building.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-trier",
@@ -1137,6 +2557,184 @@ export const pois: POI[] = [
       pt: ["A Porta Nigra foi construída por volta de 170 d.C. com enormes blocos de arenito sem argamassa.", "Constantino, o Grande, usou a basílica a partir de 310 d.C. como a sua sala do trono.", "A Catedral de Trier ergue-se sobre os alicerces de um complexo palaciano romano do século IV.", "Karl Marx nasceu em 5 de maio de 1818 na Brückengasse 10 em Trier.", "A ponte romana em Trier é considerada a ponte mais antiga da Alemanha que ainda é utilizada.", "As termas imperiais deveriam ter sido uma das maiores instalações de banho do Império Romano."],
       fr: ["La Porta Nigra a été construite vers 170 apr. J.-C. avec d'énormes blocs de grès assemblés sans mortier.", "Constantin le Grand a utilisé la basilique à partir de 310 apr. J.-C. comme salle du trône.", "La cathédrale de Trèves repose sur les fondations d'un palais romain du IVe siècle.", "Karl Marx est né le 5 mai 1818 au numéro 10 de la Brückengasse à Trèves.", "Le pont romain de Trèves est considéré comme le plus ancien pont d'Allemagne encore ouvert à la circulation.", "Les thermes impériaux devaient être l'un des plus grands établissements thermaux de l'Empire romain."],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Porta Nigra",
+                  "text": "Das besterhaltene römische Stadttor nördlich der Alpen und das berühmte Wahrzeichen der Stadt Trier aus dem 2. Jahrhundert.",
+                  "category": "City gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Trierer Dom",
+                  "text": "Die älteste Bischofskirche Deutschlands und bedeutendes UNESCO-Weltkulturerbe mit einer über 1700-jährigen Geschichte.",
+                  "category": "Church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kaiserthermen",
+                  "text": "Einst eine der größten römischen Badeanlagen der Welt, heute beeindruckende Ruinen aus der spätantiken Kaiserzeit.",
+                  "category": "Historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Ein antikes römisches Theater, das Platz für rund 20.000 Zuschauer bot und heute für kulturelle Veranstaltungen genutzt wird.",
+                  "category": "Historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Konstantin-Basilika",
+                  "text": "Die ehemalige römische Palastaula ist der größte erhaltene einschiffige Raum der Antike und dient heute als evangelische Kirche.",
+                  "category": "Church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hauptmarkt",
+                  "text": "Der zentrale Platz der Altstadt mit dem Marktkreuz, dem Petrusbrunnen und von prachtvollen historischen Häusern umgeben.",
+                  "category": "Historic square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Römerbrücke",
+                  "text": "Die älteste Brücke Deutschlands, deren Pfeiler bereits im 2. Jahrhundert n. Chr. von den Römern in der Mosel errichtet wurden.",
+                  "category": "Bridge",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Porta Nigra",
+                  "text": "Az Alpoktól északra fekvő legjobb állapotban fennmaradt római városkapu, amely a 2. században épült Trier jelképeként.",
+                  "category": "City gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Trieri dóm",
+                  "text": "Németország legrégebbi püspöki temploma, az UNESCO Világörökség része, amely több mint 1700 éves múltra tekint vissza.",
+                  "category": "Church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Császári termák",
+                  "text": "Egykor a világ egyik legnagyobb római fürdőkomplexuma volt, ma lenyűgöző romterület a késő antik császárkorból.",
+                  "category": "Historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Amfiteátrum",
+                  "text": "Antik római színház, amely egykor 20 000 néző befogadására volt alkalmas, ma kulturális rendezvények helyszíne.",
+                  "category": "Historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Konstantin-bazilika",
+                  "text": "Az egykori római palotaaula az antikvitás legnagyobb fennmaradt egységeres tere, ma evangélikus templomként működik.",
+                  "category": "Church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Főpiac (Hauptmarkt)",
+                  "text": "Az óváros központi tere a piaci kereszttel, a Szent Péter-kúttal és pompás történelmi épületekkel övezve.",
+                  "category": "Historic square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Római híd",
+                  "text": "Németország legrégebbi hídja, amelynek pilléreit már a 2. században megépítették a rómaiak a Mosel folyón.",
+                  "category": "Bridge",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Porta Nigra",
+                  "text": "Cea mai bine conservată poartă romană a orașului la nord de Alpi și simbolul celebru al orașului Trier din secolul al II-lea.",
+                  "category": "City gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala din Trier",
+                  "text": "Cea mai veche biserică episcopală din Germania și sit al patrimoniului mondial UNESCO cu o istorie de peste 1700 de ani.",
+                  "category": "Church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Termele Imperiale",
+                  "text": "Cândva una dintre cele mai mari băi romane din lume, astăzi ruine impresionante din perioada imperială târzie.",
+                  "category": "Historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Amfiteatrul",
+                  "text": "Un teatru roman antic care găzduia circa 20.000 de spectatori, utilizat astăzi pentru diverse evenimente culturale.",
+                  "category": "Historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bazilica lui Constantin",
+                  "text": "Fosta aulă a palatului roman este cea mai mare sală antică cu o singură navă păstrată, servind azi ca biserică evanghelică.",
+                  "category": "Church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Centrală",
+                  "text": "Piața centrală a orașului vechi, cu crucea pieței, fântâna Sfântului Petru și înconjurată de clădiri istorice superbe.",
+                  "category": "Historic square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Podul Roman",
+                  "text": "Cel mai vechi pod din Germania, ai cărui piloni au fost ridicați în râul Mosela de către romani încă din secolul al II-lea.",
+                  "category": "Bridge",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Porta Nigra",
+                  "text": "The best-preserved Roman city gate north of the Alps and a world-famous landmark of Trier, built in the 2nd century.",
+                  "category": "City gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Trier Cathedral",
+                  "text": "The oldest bishop's church in Germany and a significant UNESCO World Heritage site with over 1700 years of history.",
+                  "category": "Church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Imperial Baths",
+                  "text": "Once one of the largest Roman bath complexes in the world, now impressive ruins from the late antique imperial era.",
+                  "category": "Historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "An ancient Roman theatre that held up to 20,000 spectators and is now used for various cultural festivals and events.",
+                  "category": "Historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Basilica of Constantine",
+                  "text": "The former Roman palace hall is the largest surviving single-room structure from antiquity, now an Evangelical church.",
+                  "category": "Church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Main Market",
+                  "text": "The central square of the old town featuring the market cross, St. Peter's fountain, and beautiful historic facades.",
+                  "category": "Historic square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Roman Bridge",
+                  "text": "The oldest bridge in Germany, with stone piers in the Moselle River dating back to the 2nd century AD.",
+                  "category": "Bridge",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-freiburg",
@@ -1167,6 +2765,184 @@ export const pois: POI[] = [
       pt: ["Friburgo é considerada a cidade mais ensolarada da Alemanha, com mais de 1.700 horas de sol por ano.", "A Catedral de Friburgo foi construída ao longo de um período de cerca de 300 anos.", "O comprimento total dos Bächle na cidade velha é de cerca de 15,5 quilómetros.", "O Schlossberg oferece uma vista panorâmica sobre a cidade até ao Kaiserstuhl.", "Friburgo foi austríaca de 1368 a 1806 e pertenceu aos Habsburgos.", "O Histórico Armazém na Praça da Catedral data do século XVI."],
       fr: ["Avec plus de 1 700 heures de soleil par an, Fribourg est considérée comme la ville la plus ensoleillée d'Allemagne.", "La cathédrale de Fribourg a été construite sur une période d'environ 300 ans.", "La longueur totale des Bächle dans la vieille ville est d'environ 15,5 kilomètres.", "Le Schlossberg offre une vue panoramique sur la ville jusqu'au Kaiserstuhl.", "Fribourg a été autrichienne de 1368 à 1806 et appartenait aux Habsbourg.", "La Maison historique des marchands sur la place de la cathédrale date du XVIe siècle."],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Freiburger Münster",
+                  "text": "Die gotische Kathedrale mit ihrem markanten Turm gilt als architektonisches Meisterwerk und Wahrzeichen der Stadt.",
+                  "category": "Church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Historisches Kaufhaus",
+                  "text": "Ein prachtvolles rotes Gebäude am Münsterplatz mit spätgotischen Elementen, das früher als Zollgebäude diente.",
+                  "category": "Historic square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Martinstor",
+                  "text": "Das älteste der beiden erhaltenen Stadttore von Freiburg, das den Eingang zur historischen Altstadt markiert.",
+                  "category": "City gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schwabentor",
+                  "text": "Eines der mittelalterlichen Stadttore, das durch seine kunstvollen Wandmalereien und die Lage am Schlossberg besticht.",
+                  "category": "City gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Freiburger Bächle",
+                  "text": "Kleine Wasserläufe in den Straßen der Altstadt, die das Stadtbild prägen und ein beliebtes Merkmal Freiburgs sind.",
+                  "category": "Landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schlossberg",
+                  "text": "Ein bewaldeter Hügel direkt am Stadtrand, der Wanderwege und fantastische Ausblicke über die Dächer von Freiburg bietet.",
+                  "category": "Park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Augustinermuseum",
+                  "text": "Eines der bedeutendsten Museen am Oberrhein, untergebracht in einem ehemaligen Kloster mit Kunst vom Mittelalter bis Barock.",
+                  "category": "Museum",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Freiburgi székesegyház",
+                  "text": "A gótikus katedrális jellegzetes tornyával építészeti remekműnek számít és a város legismertebb jelképe.",
+                  "category": "Church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Historisches Kaufhaus",
+                  "text": "Pompás vörös épület a Münsterplatzon késő gótikus elemekkel, amely korábban vámszékházként szolgált.",
+                  "category": "Historic square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Martinstor",
+                  "text": "Freiburg két épségben maradt városkapuja közül a régebbi, amely a történelmi óváros bejáratát jelzi.",
+                  "category": "City gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schwabentor",
+                  "text": "A középkori városkapuk egyike, amely művészi falfestményeivel és a Schlossberg melletti fekvésével tűnik ki.",
+                  "category": "City gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Freiburgi Bächle",
+                  "text": "Kicsiny csatornák az óváros utcáin, amelyek meghatározzák a városképet és Freiburg kedvelt jellegzetességei.",
+                  "category": "Landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schlossberg",
+                  "text": "Erdős domb közvetlenül a város szélén, amely túraútvonalakat és fantasztikus kilátást kínál Freiburg tetőire.",
+                  "category": "Park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ágoston-rendi Múzeum",
+                  "text": "A Felső-Rajna egyik legjelentősebb múzeuma egy egykori kolostorban, középkori és barokk művészeti kincsekkel.",
+                  "category": "Museum",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala din Freiburg",
+                  "text": "Catedrala gotică cu turnul său distinctiv este considerată o capodoperă arhitecturală și simbolul orașului.",
+                  "category": "Church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Istorică a Negustorilor",
+                  "text": "O clădire roșie superbă în Münsterplatz cu elemente gotice târzii, care a servit anterior ca sediu al vămii.",
+                  "category": "Historic square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Poarta Sfântului Martin",
+                  "text": "Cea mai veche dintre cele două porți medievale păstrate ale orașului, marcând intrarea în centrul istoric.",
+                  "category": "City gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Poarta Șvabilor",
+                  "text": "Una dintre porțile medievale ale orașului, care impresionează prin picturile murale și locația sa lângă Schlossberg.",
+                  "category": "City gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Canalele Bächle",
+                  "text": "Mici canale de apă pe străzile orașului vechi, care definesc peisajul urban și sunt o trăsătură iubită a Freiburgului.",
+                  "category": "Landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schlossberg",
+                  "text": "Un deal împădurit chiar la marginea orașului, oferind trasee de drumeție și vederi fantastice peste acoperișurile orașului.",
+                  "category": "Park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Augustinilor",
+                  "text": "Unul dintre cele mai importante muzee de pe Rinul Superior, situat într-o fostă mănăstire cu artă medievală și barocă.",
+                  "category": "Museum",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Freiburg Minster",
+                  "text": "The Gothic cathedral with its striking tower is considered an architectural masterpiece and the symbol of the city.",
+                  "category": "Church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Historical Merchants' Hall",
+                  "text": "A magnificent red building on Münsterplatz with late Gothic elements, formerly used as a customs building.",
+                  "category": "Historic square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Martin's Gate",
+                  "text": "The older of the two surviving city gates of Freiburg, marking the main entrance to the historical old town.",
+                  "category": "City gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Swabian Gate",
+                  "text": "One of the medieval city gates, notable for its artistic wall paintings and its location at the foot of Schlossberg.",
+                  "category": "City gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Freiburg Bächle",
+                  "text": "Small water-filled runnels in the streets of the old town, a unique and popular characteristic of the city.",
+                  "category": "Landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schlossberg",
+                  "text": "A forested hill right next to the city centre, offering hiking trails and fantastic views over Freiburg's rooftops.",
+                  "category": "Park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Augustiner Museum",
+                  "text": "One of the most important museums on the Upper Rhine, housed in a former monastery with art from Middle Ages to Baroque.",
+                  "category": "Museum",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-kassel",
@@ -1197,6 +2973,184 @@ export const pois: POI[] = [
       pt: ["O Bergpark Wilhelmshöhe, com 2,4 quilómetros quadrados, é o maior parque de montanha da Europa.", "O Monumento a Hércules foi erguido entre 1701 e 1717 no cume do Karlsberg.", "A 'documenta' realiza-se de cinco em cinco anos desde 1955 e dura 100 dias cada vez.", "Jacob e Wilhelm Grimm viveram e trabalharam em Kassel de 1798 a 1841.", "O Fridericianum foi o primeiro museu público da Europa quando abriu em 1779.", "Na noite de bombardeamentos de 22 de outubro de 1943, o centro da cidade foi quase totalmente destruído."],
       fr: ["Le Bergpark Wilhelmshöhe est, avec 2,4 kilomètres carrés, le plus grand parc de montagne d'Europe.", "Le monument d'Hercule a été érigé entre 1701 et 1717 au sommet du Karlsberg.", "La 'documenta' se tient tous les cinq ans depuis 1955 et dure à chaque fois 100 jours.", "Jacob et Wilhelm Grimm ont vécu et travaillé à Cassel de 1798 à 1841.", "Le Fridericianum était, lors de son ouverture en 1779, le premier musée public d'Europe.", "Lors de la nuit de bombardements du 22 octobre 1943, le centre-ville a été presque entièrement détruit."],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Herkules-Monument",
+                  "text": "Das imposante Wahrzeichen Kassels thront über dem Bergpark Wilhelmshöhe und ist der Ausgangspunkt der barocken Wasserspiele.",
+                  "category": "Landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schloss Wilhelmshöhe",
+                  "text": "Ein klassizistisches Schloss im Bergpark, das heute bedeutende Kunstsammlungen wie die Gemäldegalerie Alte Meister beherbergt.",
+                  "category": "Castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Löwenburg",
+                  "text": "Eine künstlich errichtete Burgruine aus dem späten 18. Jahrhundert, die als romantisches Rittergrabmal konzipiert wurde.",
+                  "category": "Castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Karlsaue",
+                  "text": "Ein weitläufiger barocker Park direkt an der Fulda mit der markanten Orangerie und einer künstlichen Inselwelt.",
+                  "category": "Park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grimmwelt Kassel",
+                  "text": "Ein modernes Museum, das dem Leben und Werk der Brüder Grimm gewidmet ist und ihre berühmten Märchen interaktiv präsentiert.",
+                  "category": "Museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fridericianum",
+                  "text": "Das erste öffentliche Museumsgebäude auf dem europäischen Festland und heute zentraler Ausstellungsort der documenta.",
+                  "category": "Museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Orangerie",
+                  "text": "Ein barockes Schlossgebäude im Staatspark Karlsaue, das heute das Astronomisch-Physikalische Kabinett beherbergt.",
+                  "category": "Museum",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Herkules-emlékmű",
+                  "text": "Kassel impozáns jelképe a Wilhelmshöhe hegyi park felett magasodik, és a barokk vízijátékok kiindulópontja.",
+                  "category": "Landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wilhelmshöhe-kastély",
+                  "text": "Klasszicista kastély a hegyi parkban, amely ma jelentős művészeti gyűjteményeknek, például a Régi Mesterek Képtárának ad otthont.",
+                  "category": "Castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Löwenburg",
+                  "text": "A 18. század végén épült mesterséges várrom, amelyet romantikus lovagi síremlékként terveztek.",
+                  "category": "Castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Karlsaue",
+                  "text": "Kiterjedt barokk park a Fulda folyó mentén a jellegzetes Orangerie épületével és mesterséges szigetvilággal.",
+                  "category": "Park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grimmwelt Kassel",
+                  "text": "Modern múzeum a Grimm testvérek életének és munkásságának szentelve, ahol híres meséiket interaktívan mutatják be.",
+                  "category": "Museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fridericianum",
+                  "text": "Az európai szárazföld első nyilvános múzeumépülete, ma a documenta kortárs művészeti kiállítás központi helyszíne.",
+                  "category": "Museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Orangerie",
+                  "text": "Barokk kastélyépület a Karlsaue állami parkban, amely ma a Csillagászati és Fizikai Kabinetnek ad helyet.",
+                  "category": "Museum",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumentul Hercules",
+                  "text": "Simbolul impunător al orașului Kassel tronează peste parcul Wilhelmshöhe și este punctul de plecare al jocurilor de apă baroce.",
+                  "category": "Landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Wilhelmshöhe",
+                  "text": "Un palat clasicist în parcul de munte, care găzduiește astăzi colecții importante de artă, precum Galeria Vechilor Maeștri.",
+                  "category": "Castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Löwenburg",
+                  "text": "O ruină de castel construită artificial la sfârșitul secolului al XVIII-lea, concepută ca un mausoleu romantic pentru cavaler.",
+                  "category": "Castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Karlsaue",
+                  "text": "Un parc baroc vast situat pe malul râului Fulda, cu monumentala Orangerie și un sistem de insule artificiale.",
+                  "category": "Park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grimmwelt Kassel",
+                  "text": "Un muzeu modern dedicat vieții și operei fraților Grimm, prezentând celebrele lor basme într-un mod interactiv.",
+                  "category": "Museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fridericianum",
+                  "text": "Prima clădire de muzeu public de pe continentul european și astăzi centrul expozițional principal pentru documenta.",
+                  "category": "Museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Orangerie",
+                  "text": "O clădire de palat baroc în parcul de stat Karlsaue, care găzduiește astăzi Cabinetul de Astronomie și Fizică.",
+                  "category": "Museum",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hercules Monument",
+                  "text": "The imposing landmark of Kassel towers over Bergpark Wilhelmshöhe and is the starting point of the baroque water features.",
+                  "category": "Landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schloss Wilhelmshöhe",
+                  "text": "A neoclassical palace in the mountain park, now housing significant art collections like the Old Masters Picture Gallery.",
+                  "category": "Castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Löwenburg Castle",
+                  "text": "A mock-medieval castle ruin built in the late 18th century, designed as a romantic knight's tomb.",
+                  "category": "Castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Karlsaue Park",
+                  "text": "An extensive baroque park directly on the Fulda River with the striking Orangerie and an artificial island world.",
+                  "category": "Park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grimmwelt Kassel",
+                  "text": "A modern museum dedicated to the life and work of the Brothers Grimm, presenting their famous fairy tales interactively.",
+                  "category": "Museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fridericianum",
+                  "text": "The first public museum building on the European mainland and today a central exhibition venue for the documenta.",
+                  "category": "Museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Orangerie",
+                  "text": "A baroque palace building in the Karlsaue State Park, which now houses the Cabinet of Astronomy and Physics.",
+                  "category": "Museum",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-aachen",
@@ -1228,6 +3182,184 @@ export const pois: POI[] = [
       pt: ["Na Catedral de Aquisgrão repousam os restos mortais de Carlos Magno num relicário magnífico.", "Aquisgrão possui as fontes termais mais quentes da Europa Central, com até 74 graus Celsius.", "O Prémio Carlos Magno é atribuído anualmente em Aquisgrão por méritos na unificação europeia.", "A histórica câmara municipal alberga cópias das Insígnias Imperiais no salão de coroação.", "A RWTH Aachen foi fundada em 1870 e conta hoje com mais de 47.000 estudantes.", "Aquisgrão foi o primeiro local na Alemanha que os Aliados libertaram em 1944."],
       fr: ["Les restes de Charlemagne reposent dans la cathédrale d'Aix dans une châsse magnifique.", "Aix possède les sources thermales les plus chaudes d'Europe centrale, atteignant 74 degrés Celsius.", "Le prix Charlemagne est décerné chaque année à Aix pour des mérites liés à l'unification européenne.", "L'hôtel de ville historique abrite des copies des regalia impériaux dans sa salle du couronnement.", "La RWTH Aachen a été fondée en 1870 et compte aujourd'hui plus de 47 000 étudiants.", "Aix-la-Chapelle fut la première ville d'Allemagne libérée par les Alliés en 1944."],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Aachener Dom",
+                  "text": "Die Pfalzkapelle Karls des Großen ist das erste deutsche UNESCO-Weltkulturerbe und Ruhestätte des fränkischen Kaisers.",
+                  "category": "Church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aachener Rathaus",
+                  "text": "Das gotische Rathaus wurde auf den Fundamenten der karolingischen Pfalz errichtet und beherbergt den Krönungssaal.",
+                  "category": "Town hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Elisenbrunnen",
+                  "text": "Ein klassizistisches Wahrzeichen der Stadt mit zwei Trinkbrunnen, aus denen schwefelhaltiges Thermalwasser sprudelt.",
+                  "category": "Landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Domschatzkammer",
+                  "text": "Beherbergt einen der bedeutendsten kirchlichen Schätze Europas, darunter das berühmte Lotharkreuz und die Karlsbüste.",
+                  "category": "Museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ponttor",
+                  "text": "Eines der beiden noch erhaltenen Tore der ehemaligen äußeren Stadtmauer von Aachen aus dem 14. Jahrhundert.",
+                  "category": "City gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Couven-Museum",
+                  "text": "Ein historisches Bürgerhaus, das die bürgerliche Wohnkultur des 18. und frühen 19. Jahrhunderts in Aachen zeigt.",
+                  "category": "Museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Carolus Thermen",
+                  "text": "Eine moderne Thermalbadeanlage, die die jahrtausendealte Badetradition Aachens mit seinen heißen Quellen fortführt.",
+                  "category": "Landmark",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aacheni dóm",
+                  "text": "Nagy Károly palotakápolnája az első német UNESCO Világörökségi helyszín és a frank császár nyughelye.",
+                  "category": "Church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aacheni városháza",
+                  "text": "A gótikus városháza a karoling palota alapjaira épült, és itt található a híres koronázási díszterem.",
+                  "category": "Town hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Elisenbrunnen",
+                  "text": "A város klasszicista jelképe két ivókúttal, amelyekből kénes termálvíz tör fel a látogatók számára.",
+                  "category": "Landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dóm kincstára",
+                  "text": "Európa egyik legjelentősebb egyházi kincsgyűjteménye, benne a híres Lothar-kereszttel és Károly-mellszoborral.",
+                  "category": "Museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ponttor",
+                  "text": "Aachen egykori külső városfalának két épségben maradt kapuja közül az egyik, amely a 14. századból származik.",
+                  "category": "City gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Couven-Múzeum",
+                  "text": "Történelmi polgárház, amely a 18. és a korai 19. századi aacheni polgári lakáskultúrát mutatja be.",
+                  "category": "Museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Carolus Thermen",
+                  "text": "Modern termálfürdő, amely Aachen évezredes fürdőhagyományait és forró forrásait viszi tovább mai környezetben.",
+                  "category": "Landmark",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala din Aachen",
+                  "text": "Capela palatină a lui Carol cel Mare este primul sit german UNESCO și locul de odihnă al împăratului franc.",
+                  "category": "Church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria din Aachen",
+                  "text": "Primăria gotică a fost construită pe fundațiile palatului carolingian și găzduiește sala de încoronare.",
+                  "category": "Town hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Elisenbrunnen",
+                  "text": "Un simbol clasicist al orașului cu două fântâni de unde țâșnește apă termală sulfuroasă pentru băut.",
+                  "category": "Landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tezaurul Catedralei",
+                  "text": "Găzduiește una dintre cele mai importante comori bisericești din Europa, inclusiv crucea lui Lothar și bustul lui Carol.",
+                  "category": "Museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ponttor",
+                  "text": "Una dintre cele două porți rămase din fosta centură exterioară de ziduri a orașului Aachen din secolul al XIV-lea.",
+                  "category": "City gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Couven",
+                  "text": "O casă burgheză istorică ce prezintă cultura locuirii orășenești din secolul al XVIII-lea și începutul secolului al XIX-lea.",
+                  "category": "Museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Carolus Thermen",
+                  "text": "Un complex termal modern care continuă tradiția milenară a băilor din Aachen bazată pe izvoarele sale fierbinți.",
+                  "category": "Landmark",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aachen Cathedral",
+                  "text": "Charlemagne's Palatine Chapel was the first German UNESCO World Heritage site and is the emperor's final resting place.",
+                  "category": "Church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aachen City Hall",
+                  "text": "The Gothic town hall was built on the foundations of the Carolingian palace and houses the coronation hall.",
+                  "category": "Town hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Elisenbrunnen",
+                  "text": "A neoclassical landmark of the city featuring two drinking fountains where sulphurous thermal water flows.",
+                  "category": "Landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cathedral Treasury",
+                  "text": "Houses one of the most important ecclesiastical treasures in Europe, including the Cross of Lothair and Charlemagne's bust.",
+                  "category": "Museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ponttor",
+                  "text": "One of the two surviving gates of Aachen's former outer city wall, dating back to the 14th century.",
+                  "category": "City gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Couven Museum",
+                  "text": "A historic townhouse showcasing the middle-class living culture of the 18th and early 19th centuries in Aachen.",
+                  "category": "Museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Carolus Thermen",
+                  "text": "A modern thermal spa complex that carries on Aachen's millennia-old bathing tradition with its hot springs.",
+                  "category": "Landmark",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-braunschweig",
@@ -1258,6 +3390,160 @@ export const pois: POI[] = [
       pt: ["Henrique, o Leão, tornou a cidade sua residência no século XII.", "O Leão de Brunswick na Burgplatz data do ano de 1166.", "Brunswick foi até 1946 a capital do Estado de Brunswick.", "O Physikalisch-Technische Bundesanstalt opera aqui os relógios atómicos alemães.", "A quadriga no palácio é a maior reconstrução deste tipo na Europa.", "A cidade foi desde o século XIII um membro importante da Liga Hanseática."],
       fr: ["Henri le Lion fit de la ville sa résidence au XIIe siècle.", "Le Lion de Brunswick sur la Burgplatz date de l'année 1166.", "Brunswick fut jusqu'en 1946 la capitale de l'État de Brunswick.", "L'Institut fédéral de physique et métrologie y gère les horloges atomiques allemandes.", "Le quadrige sur le château est la plus grande reconstruction de ce type en Europe.", "La ville fut dès le XIIIe siècle un membre important de la Ligue hanséatique."],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Burgplatz mit Löwenstandbild",
+                  "text": "Historisches Zentrum mit dem Wahrzeichen der Stadt, dem Braunschweiger Löwen, vor der Burg Dankwarderode.",
+                  "category": "Town hall & historic squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Braunschweiger Dom",
+                  "text": "Bedeutende romanische Kirche, Begräbnisstätte Heinrichs des Löwen und Mathildes von England.",
+                  "category": "Churches & monasteries",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Herzog Anton Ulrich Museum",
+                  "text": "Eines der ältesten Kunstmuseen Europas mit einer bedeutenden Sammlung alter Meister wie Rubens und Rembrandt.",
+                  "category": "Museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schloss Richmond",
+                  "text": "Ein im englischen Stil erbautes Lustschloss für die Herzogin Augusta, umgeben von einem herrlichen Park.",
+                  "category": "Castles & palaces",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Altstadtmarkt",
+                  "text": "Historischer Marktplatz mit dem Altstadtrathaus, dem Gewandhaus und dem Marienbrunnen im gotischen Stil.",
+                  "category": "Town hall & historic squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rizzi-Haus",
+                  "text": "Ein farbenfrohes, modernes Bürogebäude des Künstlers James Rizzi, das einen starken Kontrast zur Altstadt bildet.",
+                  "category": "Famous residences",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Burgplatz az Oroszlán-szoborral",
+                  "text": "A város történelmi központja a híres bronzoroszlánnal, Oroszlán Henrik egykori székhelye előtt.",
+                  "category": "Town hall & historic squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Braunschweigi dóm",
+                  "text": "Román stílusú székesegyház, ahol Oroszlán Henrik és felesége, angliai Matilda sírja található.",
+                  "category": "Churches & monasteries",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Herzog Anton Ulrich Múzeum",
+                  "text": "Európa egyik legrégebbi művészeti múzeuma, jelentős régi mesterek, például Rembrandt műveivel.",
+                  "category": "Museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Richmond-kastély",
+                  "text": "Angol stílusú kastély, amelyet Augusta hercegnő számára építettek, csodálatos parkkal övezve.",
+                  "category": "Castles & palaces",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Óvárosi piac",
+                  "text": "Történelmi tér a régi városházával, a Gewandhausszal és egy gyönyörű gótikus szökőkúttal.",
+                  "category": "Town hall & historic squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rizzi-ház",
+                  "text": "James Rizzi által tervezett színes, modern épület, amely vidám kontrasztot alkot a történelmi környezettel.",
+                  "category": "Famous residences",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Burgplatz cu Statuia Leului",
+                  "text": "Centrul istoric al orașului, unde se află faimosul leu de bronz în fața Castelului Dankwarderode.",
+                  "category": "Town hall & historic squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Domul din Braunschweig",
+                  "text": "O catedrală romanică importantă, locul de odihnă al lui Henric Leul și al soției sale Matilda.",
+                  "category": "Churches & monasteries",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Herzog Anton Ulrich",
+                  "text": "Unul dintre cele mai vechi muzee de artă din Europa, cu o colecție impresionantă de maeștri vechi.",
+                  "category": "Museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Richmond",
+                  "text": "Un castel de agrement construit în stil englezesc pentru ducesa Augusta, înconjurat de un parc pitoresc.",
+                  "category": "Castles & palaces",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Veche",
+                  "text": "Piața istorică a orașului cu vechea primărie, clădirea Gewandhaus și fântâna Sfânta Maria în stil gotic.",
+                  "category": "Town hall & historic squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Rizzi",
+                  "text": "O clădire de birouri modernă și colorată, creată de artistul James Rizzi, devenită un simbol neconvențional.",
+                  "category": "Famous residences",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Burgplatz with the Lion Statue",
+                  "text": "The historic heart of the city featuring the famous bronze lion, symbol of Henry the Lion's power.",
+                  "category": "Town hall & historic squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Braunschweig Cathedral",
+                  "text": "A major Romanesque church and the burial site of Henry the Lion and his consort Matilda of England.",
+                  "category": "Churches & monasteries",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Herzog Anton Ulrich Museum",
+                  "text": "One of Europe's oldest art museums, housing a world-class collection of Old Masters like Rembrandt.",
+                  "category": "Museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Richmond Palace",
+                  "text": "An English-style pleasure palace built for Duchess Augusta, set within a beautiful landscape garden.",
+                  "category": "Castles & palaces",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Town Market",
+                  "text": "A historic square surrounded by the Old Town Hall, the Gewandhaus, and the Gothic Mary's Fountain.",
+                  "category": "Town hall & historic squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rizzi House",
+                  "text": "A vibrant and colorful modern building designed by James Rizzi, offering a playful contrast to the old town.",
+                  "category": "Famous residences",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-bonn",
@@ -1290,6 +3576,160 @@ export const pois: POI[] = [
       pt: ["A cidade foi fundada pelos romanos como Castra Bonnensia no século I a.C.", "Ludwig van Beethoven nasceu no ano de 1770 na Bonngasse.", "De 1949 a 1990, Bona foi a sede do governo da República Federal da Alemanha.", "A Universidade de Bona foi fundada em 1818 e utiliza o antigo palácio residencial.", "Em Bona, as empresas do DAX Deutsche Post e Deutsche Telekom têm as suas sedes.", "O Campus da ONU alberga mais de 20 organizações diferentes das Nações Unidas."],
       fr: ["La ville fut fondée par les Romains sous le nom de Castra Bonnensia au Ier siècle av. J.-C.", "Ludwig van Beethoven est né en 1770 dans la Bonngasse.", "De 1949 à 1990, Bonn fut le siège du gouvernement de la République fédérale d'Allemagne.", "L'université de Bonn a été fondée en 1818 et occupe l'ancien château résidentiel.", "Les groupes du DAX Deutsche Post et Deutsche Telekom ont leur siège social à Bonn.", "Le campus de l'ONU abrite plus de 20 organisations différentes des Nations unies."],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Beethoven-Haus",
+                  "text": "Das Geburtshaus des weltberühmten Komponisten Ludwig van Beethoven, heute ein Museum und Forschungszentrum.",
+                  "category": "Museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bonner Münster",
+                  "text": "Eine der ältesten Kirchen Deutschlands, eine romanische Basilika mit einem beeindruckenden Kreuzgang.",
+                  "category": "Churches & monasteries",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schloss Poppelsdorf",
+                  "text": "Ein barockes Landschloss, das heute Teile der Universität und den Botanischen Garten beherbergt.",
+                  "category": "Castles & palaces",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Altes Rathaus",
+                  "text": "Ein prächtiges Rokoko-Gebäude am Marktplatz, bekannt für seine Freitreppe und historische Staatsbesuche.",
+                  "category": "Town hall & historic squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Haus der Geschichte",
+                  "text": "Ein modernes Museum zur deutschen Zeitgeschichte seit 1945, Teil der bekannten Museumsmeile.",
+                  "category": "Museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Drachenfels",
+                  "text": "Ein markanter Berg im Siebengebirge nahe Bonn, gekrönt von einer Burgruine und einem neugotischen Schloss.",
+                  "category": "Parks, gardens, lakes nearby",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beethoven-ház",
+                  "text": "A világhírű zeneszerző, Ludwig van Beethoven szülőháza, amely ma múzeumnak és kutatóközpontnak ad otthont.",
+                  "category": "Museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bonni székesegyház",
+                  "text": "Németország egyik legrégebbi temploma, román stílusú bazilika lenyűgöző kerengővel a belvárosban.",
+                  "category": "Churches & monasteries",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Poppelsdorf-kastély",
+                  "text": "Barokk stílusú kastély, amely ma az egyetem részeként működik, mellette található a botanikus kert.",
+                  "category": "Castles & palaces",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Régi városháza",
+                  "text": "Díszes rokokó épület a piactéren, híres külső lépcsősoráról és a történelmi állami látogatásokról.",
+                  "category": "Town hall & historic squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "A történelem háza",
+                  "text": "Modern múzeum, amely Németország 1945 utáni történelmét mutatja be interaktív kiállításokkal.",
+                  "category": "Museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Drachenfels",
+                  "text": "Jellegzetes hegy a Bonn melletti Siebengebirge területén, várrommal és egy neogótikus kastéllyal.",
+                  "category": "Parks, gardens, lakes nearby",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa Beethoven",
+                  "text": "Casa natală a celebrului compozitor Ludwig van Beethoven, transformată astăzi în muzeu și centru de cercetare.",
+                  "category": "Museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Domul din Bonn",
+                  "text": "Una dintre cele mai vechi biserici din Germania, o basilică romanică impunătoare cu o mănăstire superbă.",
+                  "category": "Churches & monasteries",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Poppelsdorf",
+                  "text": "Un castel baroc care găzduiește astăzi secții ale universității și grădina botanică a orașului.",
+                  "category": "Castles & palaces",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vechea Primărie",
+                  "text": "O clădire splendidă în stil rococo situată în piața centrală, renumită pentru scara sa exterioară elegantă.",
+                  "category": "Town hall & historic squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Istoriei",
+                  "text": "Un muzeu modern dedicat istoriei germane de după 1945, oferind o perspectivă captivantă asupra trecutului recent.",
+                  "category": "Museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Drachenfels",
+                  "text": "Un munte emblematic în apropiere de Bonn, oferind ruinele unei cetăți medievale și vederi panoramice asupra Rinului.",
+                  "category": "Parks, gardens, lakes nearby",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beethoven House",
+                  "text": "The birthplace of the world-famous composer Ludwig van Beethoven, now a museum and research center.",
+                  "category": "Museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bonn Minster",
+                  "text": "One of Germany's oldest churches, this Romanesque basilica features a beautiful and peaceful cloister.",
+                  "category": "Churches & monasteries",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Poppelsdorf Palace",
+                  "text": "A Baroque palace that currently houses university departments and is adjacent to the Botanical Garden.",
+                  "category": "Castles & palaces",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Town Hall",
+                  "text": "A magnificent Rococo building on the market square, famous for its grand staircase and historical visits.",
+                  "category": "Town hall & historic squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "House of the History",
+                  "text": "A modern museum covering German contemporary history since 1945, located on the Museum Mile.",
+                  "category": "Museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Drachenfels",
+                  "text": "A famous hill in the Siebengebirge range near Bonn, featuring castle ruins and a neo-Gothic palace.",
+                  "category": "Parks, gardens, lakes nearby",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-goettingen",
@@ -1320,6 +3760,160 @@ export const pois: POI[] = [
       pt: ["A Universidade Georg-August foi fundada em 1734 pelo rei britânico Jorge II.", "O monumento Gänseliesel foi erguido em 1901 e é o símbolo da cidade.", "Mais de 40 laureados com o Prémio Nobel têm uma ligação à cidade de Göttingen.", "Carl Friedrich Gauß dirigiu o observatório local durante muitos anos.", "A muralha da cidade rodeia o centro histórico numa extensão de cerca de 3 quilómetros.", "Göttingen foi um membro ativo da Hansa de 1351 a 1572."],
       fr: ["L'université Georg-August a été fondée en 1734 par le roi britannique George II.", "Le monument de la Gänseliesel a été érigé en 1901 et constitue l'emblème de la ville.", "Plus de 40 lauréats du prix Nobel ont un lien avec la ville de Göttingen.", "Carl Friedrich Gauss a dirigé l'observatoire local pendant de nombreuses années.", "Le rempart entoure la vieille ville sur une longueur d'environ 3 kilomètres.", "Göttingen fut un membre actif de la Hanse de 1351 à 1572."],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Gänseliesel-Brunnen",
+                  "text": "Das Wahrzeichen der Stadt vor dem Alten Rathaus; es ist Tradition, dass frisch promovierte Doktoranden die Figur küssen.",
+                  "category": "Town hall & historic squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Altes Rathaus",
+                  "text": "Ein mittelalterliches Gebäude mit prachtvoller Halle, das heute für kulturelle Veranstaltungen genutzt wird.",
+                  "category": "Town hall & historic squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Jacobi Kirche",
+                  "text": "Eine gotische Hallenkirche mit einem markanten Turm und einem wertvollen Flügelaltar aus dem 15. Jahrhundert.",
+                  "category": "Churches & monasteries",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alter Botanischer Garten",
+                  "text": "Eine grüne Oase im Stadtzentrum mit historischen Gewächshäusern und einer enormen Pflanzenvielfalt.",
+                  "category": "Parks, gardens, lakes nearby",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bismarckturm",
+                  "text": "Ein Aussichtsturm im Göttinger Wald, der einen weiten Blick über das Leinetal und die Universitätsstadt bietet.",
+                  "category": "City gates, towers, walls",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aula der Universität",
+                  "text": "Ein repräsentatives klassizistisches Gebäude am Wilhelmsplatz, Schauplatz wichtiger akademischer Zeremonien.",
+                  "category": "Famous residences",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gänseliesel-kút",
+                  "text": "A város jelképe a régi városháza előtt; hagyomány, hogy a frissen végzett doktoranduszok megcsókolják a szobrot.",
+                  "category": "Town hall & historic squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Régi városháza",
+                  "text": "Középkori épület díszes termekkel, amely ma kulturális eseményeknek és turisztikai információnak ad helyet.",
+                  "category": "Town hall & historic squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Jakab-templom",
+                  "text": "Gótikus csarnoktemplom jellegzetes toronnyal és egy értékes, 15. századi szárnyas oltárral.",
+                  "category": "Churches & monasteries",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Régi botanikus kert",
+                  "text": "Zöld oázis a városközpontban történelmi üvegházakkal és rendkívül gazdag növényvilággal.",
+                  "category": "Parks, gardens, lakes nearby",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bismarck-torony",
+                  "text": "Kilátótorony a göttingeni erdőben, ahonnan csodálatos panoráma nyílik a Leine-völgyre és a városra.",
+                  "category": "City gates, towers, walls",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Az egyetem aulája",
+                  "text": "Reprezentatív klasszicista épület a Wilhelmsplatzon, fontos akadémiai ünnepségek helyszíne.",
+                  "category": "Famous residences",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fântâna Gänseliesel",
+                  "text": "Simbolul orașului situat în fața vechii primării; tradiția cere ca noii doctoranzi să sărute statuia.",
+                  "category": "Town hall & historic squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vechea Primărie",
+                  "text": "O clădire medievală cu o sală magnifică, utilizată astăzi pentru diverse evenimente culturale și expoziții.",
+                  "category": "Town hall & historic squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sf. Iacob",
+                  "text": "O biserică gotică impunătoare, cunoscută pentru turnul său înalt și un altar valoros din secolul al XV-lea.",
+                  "category": "Churches & monasteries",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vechea Grădină Botanică",
+                  "text": "O oază de liniște în centrul orașului, cu sere istorice și o colecție impresionantă de plante rare.",
+                  "category": "Parks, gardens, lakes nearby",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turnul Bismarck",
+                  "text": "Un turn de observație situat în pădurea Göttingen, oferind o vedere panoramică asupra văii Leine.",
+                  "category": "City gates, towers, walls",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aula Universității",
+                  "text": "O clădire neoclasică elegantă în Piața Wilhelm, centrul ceremoniilor academice ale prestigioasei universități.",
+                  "category": "Famous residences",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gänseliesel Fountain",
+                  "text": "The city's landmark in front of the Old Town Hall; it is a tradition for new PhD graduates to kiss the statue.",
+                  "category": "Town hall & historic squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Town Hall",
+                  "text": "A medieval building with a magnificent hall, now used for cultural events and tourist information.",
+                  "category": "Town hall & historic squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. James Church",
+                  "text": "A Gothic hall church featuring a prominent tower and a valuable winged altar from the 15th century.",
+                  "category": "Churches & monasteries",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Botanical Garden",
+                  "text": "A green oasis in the city center with historic greenhouses and a vast variety of plant species.",
+                  "category": "Parks, gardens, lakes nearby",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bismarck Tower",
+                  "text": "An observation tower in the Göttingen Forest, offering wide views over the Leine Valley and the town.",
+                  "category": "City gates, towers, walls",
+                  "confidence": "high"
+            },
+            {
+                  "name": "University Aula",
+                  "text": "A representative neoclassical building on Wilhelmsplatz, the site of important academic ceremonies.",
+                  "category": "Famous residences",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-bayreuth",
@@ -1350,6 +3944,160 @@ export const pois: POI[] = [
       pt: ["A Ópera Margravial foi incluída na lista do Património Mundial da UNESCO em 2012.", "Richard Wagner lançou a primeira pedra da Casa de Festivais na Colina Verde em 1872.", "O Eremitage foi construído a partir de 1715 como local de refúgio para o Margrave Jorge Guilherme.", "Bayreuth é a sede administrativa do distrito da Alta Francónia.", "Na Villa Wahnfried encontra-se hoje o Museu Richard Wagner.", "O Novo Palácio foi construído após um incêndio no Antigo Palácio no ano de 1753."],
       fr: ["L'Opéra margravial a été inscrit sur la liste du patrimoine mondial de l'UNESCO en 2012.", "Richard Wagner a posé la première pierre du Palais des festivals sur la Colline Verte en 1872.", "L'Eremitage fut érigé à partir de 1715 comme lieu de retraite pour le margrave Georges-Guillaume.", "Bayreuth est le siège administratif du district de Haute-Franconie.", "Le musée Richard Wagner se trouve aujourd'hui dans la Villa Wahnfried.", "Le Nouveau Château fut construit après l'incendie de l'Ancien Château en 1753."],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Markgräfliches Opernhaus",
+                  "text": "Ein UNESCO-Welterbe und eines der besterhaltenen Barocktheater Europas mit einer prunkvollen Innenausstattung.",
+                  "category": "Castles & palaces",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Haus Wahnfried",
+                  "text": "Das ehemalige Wohnhaus Richard Wagners, das heute ein Museum über das Leben und Werk des Komponisten beherbergt.",
+                  "category": "Museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Neues Schloss",
+                  "text": "Die Residenz der Markgrafen mit prachtvollen Rokoko-Räumen und einem weitläufigen Hofgarten im Zentrum.",
+                  "category": "Castles & palaces",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Eremitage",
+                  "text": "Ein historischer Park mit Altem Schloss, Wasserspielen und dem Sonnentempel, ein Juwel barocker Gartenkunst.",
+                  "category": "Parks, gardens, lakes nearby",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Festspielhaus",
+                  "text": "Das auf dem Grünen Hügel gelegene Opernhaus, das eigens für die Aufführung der Werke Richard Wagners gebaut wurde.",
+                  "category": "Castles & palaces",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Altes Schloss",
+                  "text": "Ein Renaissancebau im Stadtzentrum, der nach einem Brand teilweise neu aufgebaut wurde und heute Behörden beherbergt.",
+                  "category": "Castles & palaces",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Őrgrófi Operaház",
+                  "text": "UNESCO világörökségi helyszín, Európa egyik legszebben megőrzött barokk színháza pazar belső díszítéssel.",
+                  "category": "Castles & palaces",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wahnfried-ház",
+                  "text": "Richard Wagner egykori lakóháza, amely ma a zeneszerző életét és munkásságát bemutató múzeum.",
+                  "category": "Museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Új kastély",
+                  "text": "Az őrgrófok rezidenciája pompás rokokó termekkel és egy kiterjedt udvari kerttel a városközpontban.",
+                  "category": "Castles & palaces",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Eremitage",
+                  "text": "Történelmi park a régi kastéllyal, vízijátékokkal és a Naptemplommal, a barokk kertművészet gyöngyszeme.",
+                  "category": "Parks, gardens, lakes nearby",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ünnepi Játékok Háza",
+                  "text": "A Zöld dombon épült operaház, amelyet kifejezetten Richard Wagner műveinek előadására terveztek.",
+                  "category": "Castles & palaces",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Régi kastély",
+                  "text": "Reneszánsz épület a város szívében, amely egy tűzvész után részben újjáépült, ma hivataloknak ad otthont.",
+                  "category": "Castles & palaces",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Opera Margravială",
+                  "text": "Sit UNESCO și unul dintre cele mai bine conservate teatre baroce din Europa, cu un interior spectaculos.",
+                  "category": "Castles & palaces",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Wahnfried",
+                  "text": "Fosta reședință a lui Richard Wagner, transformată astăzi într-un muzeu dedicat vieții și operei compozitorului.",
+                  "category": "Museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Nou",
+                  "text": "Reședința margravilor cu săli rococo splendide și o grădină a curții vastă situată chiar în centru.",
+                  "category": "Castles & palaces",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Eremitage",
+                  "text": "Un parc istoric cu Castelul Vechi, jocuri de apă și Templul Soarelui, o capodoperă a artei grădinilor baroce.",
+                  "category": "Parks, gardens, lakes nearby",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Teatrul de Festival",
+                  "text": "Situat pe Dealul Verde, acest teatru de operă a fost construit special pentru lucrările lui Richard Wagner.",
+                  "category": "Castles & palaces",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Vechi",
+                  "text": "O clădire renascentistă în centrul orașului, reconstruită parțial după un incendiu, găzduind acum instituții publice.",
+                  "category": "Castles & palaces",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Margravial Opera House",
+                  "text": "A UNESCO World Heritage site and one of Europe's best-preserved Baroque theaters with lavish interiors.",
+                  "category": "Castles & palaces",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Haus Wahnfried",
+                  "text": "The former home of Richard Wagner, now a museum exploring the life and work of the famous composer.",
+                  "category": "Museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "New Palace",
+                  "text": "The residence of the Margraves featuring magnificent Rococo rooms and an extensive court garden in the center.",
+                  "category": "Castles & palaces",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hermitage",
+                  "text": "A historic park featuring the Old Palace, water displays, and the Sun Temple, a gem of Baroque garden design.",
+                  "category": "Parks, gardens, lakes nearby",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Festival Theatre",
+                  "text": "Located on the Green Hill, this opera house was specifically designed for the performance of Wagner's works.",
+                  "category": "Castles & palaces",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Palace",
+                  "text": "A Renaissance building in the town center, partially rebuilt after a fire and now housing government offices.",
+                  "category": "Castles & palaces",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-jena",
@@ -1380,6 +4128,142 @@ export const pois: POI[] = [
       pt: ["A Universidade de Jena foi fundada no ano de 1558.", "Carl Zeiss abriu a sua primeira oficina ótica em Jena em 1846.", "A JenTower, com 144,5 metros, é um dos edifícios de escritórios mais altos da Alemanha de Leste.", "O Planetário Zeiss de Jena foi inaugurado em 18 de julho de 1926.", "Ernst Abbe desenvolveu aqui as bases científicas para a micro-construção.", "As \"Sete Maravilhas de Jena\" são curiosidades históricas da cidade."],
       fr: ["L'université d'Iéna a été fondée en 1558.", "Carl Zeiss a ouvert son premier atelier d'optique à Iéna en 1846.", "La JenTower est, avec 144,5 mètres, l'un des plus hauts immeubles de bureaux d'Allemagne de l'Est.", "Le planétarium Zeiss d'Iéna a été inauguré le 18 juillet 1926.", "Ernst Abbe y a développé les bases scientifiques de la micro-construction.", "Les « Sept merveilles d'Iéna » sont des curiosités historiques de la ville."],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Zeiss-Planetarium",
+                  "text": "Das älteste Projektionsplanetarium der Welt bietet faszinierende Shows über das Universum unter seiner markanten Kuppel.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Optisches Museum Jena",
+                  "text": "Dokumentiert acht Jahrhunderte optischer Instrumente und das wissenschaftliche Erbe von Carl Zeiss und Ernst Abbe.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "JenTower",
+                  "text": "Das höchste Gebäude der Stadt bietet eine Aussichtsplattform mit einem spektakulären Rundblick über das gesamte Saaletal.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schillers Gartenhaus",
+                  "text": "In diesem historischen Gebäude verbrachte Friedrich Schiller produktive Jahre und schrieb viele seiner berühmten Dramen.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Botanischer Garten",
+                  "text": "Gegründet im Jahr 1586, ist er der zweitälteste botanische Garten Deutschlands und beherbergt über 10.000 Pflanzenarten.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stadtkirche St. Michael",
+                  "text": "Eine imposante gotische Hallenkirche am Marktplatz, in der Martin Luther mehrfach predigte und die Stadtgeschichte prägte.",
+                  "category": "church",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zeiss Planetárium",
+                  "text": "A világ legrégebbi vetítő planetáriuma, amely lenyűgöző csillagászati műsorokat kínál ikonikus kupolájában.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Optikai Múzeum",
+                  "text": "Bemutatja az optikai eszközök fejlődését és Carl Zeiss, valamint Ernst Abbe tudományos örökségét Jenában.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "JenTower",
+                  "text": "A város legmagasabb épülete, kilátóteraszáról panorámás kilátás nyílik a Saale folyó völgyére és a városra.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schiller kerti háza",
+                  "text": "Friedrich Schiller egykori lakóhelye, ahol számos híres drámáját írta a költő a weimari klasszicizmus idején.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Botanikus kert",
+                  "text": "Németország második legrégebbi botanikus kertje, melyet Goethe is gondozott, változatos üvegházakkal rendelkezik.",
+                  "category": "park",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Planetariul Zeiss",
+                  "text": "Cel mai vechi planetariu cu proiecție din lume, oferind călătorii spectaculoase prin univers sub cupola sa emblematică.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Optic",
+                  "text": "Documentează istoria instrumentelor optice și moștenirea lăsată de Carl Zeiss și Ernst Abbe în orașul luminii.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "JenTower",
+                  "text": "Cea mai înaltă clădire din oraș, dotată cu o platformă de observație ce oferă panorame superbe asupra văii Saale.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa lui Schiller",
+                  "text": "Locuința istorică a lui Friedrich Schiller, unde poetul a scris multe dintre dramele sale celebre în perioada Jena.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădina Botanică",
+                  "text": "A doua cea mai veche grădină botanică din Germania, găzduind sere cu plante exotice și specii locale rare.",
+                  "category": "park",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zeiss Planetarium",
+                  "text": "The world's oldest projection planetarium, offering spectacular journeys through space in its iconic dome.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Optical Museum",
+                  "text": "Showcases the history of optical instruments and the legacy of Carl Zeiss and Ernst Abbe in the 'City of Light'.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "JenTower",
+                  "text": "The city's tallest landmark, featuring a viewing platform with panoramic views over the scenic Saale Valley.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schiller's Garden House",
+                  "text": "The former residence of Friedrich Schiller, where he wrote many of his legendary plays and poems in the late 1700s.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Botanical Garden",
+                  "text": "Germany's second oldest botanical garden, featuring diverse plant species, historic greenhouses, and links to Goethe.",
+                  "category": "park",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-duisburg",
@@ -1412,6 +4296,136 @@ export const pois: POI[] = [
       pt: ["O Porto de Duisburgo é o maior porto interior do mundo, com mais de 20 bacias.", "A siderurgia no Landschaftspark Duisburg-Nord foi desativada em 1985.", "Duisburgo foi mencionada pela primeira vez num documento no ano 883.", "A cidade é um dos locais mais importantes da produção de aço europeia.", "O Museu Lehmbruck abriga uma das coleções de escultura mais importantes da Europa.", "A Universidade de Duisburgo-Essen é uma das dez maiores universidades da Alemanha."],
       fr: ["Le port de Duisbourg est le plus grand port intérieur du monde avec plus de 20 bassins.", "L'usine sidérurgique du parc paysager de Duisbourg-Nord a été fermée en 1985.", "Duisbourg a été mentionnée pour la première fois dans un document en l'an 883.", "La ville est l'un des sites les plus importants de la production sidérurgique européenne.", "Le musée Lehmbruck abrite l'une des plus importantes collections de sculptures d'Europe.", "L'université de Duisbourg-Essen fait partie des dix plus grandes universités d'Allemagne."],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Landschaftspark Duisburg-Nord",
+                  "text": "Ein stillgelegtes Hüttenwerk, das in einen einzigartigen Freizeitpark mit Klettergärten und Lichtinstallationen verwandelt wurde.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Innenhafen Duisburg",
+                  "text": "Ein modernes Stadtviertel am Wasser mit Gastronomie, Museen und Architektur in umgebauten historischen Speichern.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zoo Duisburg",
+                  "text": "Bekannt für sein Delfinarium und die Koala-Zucht, zählt er zu den bedeutendsten zoologischen Gärten am Niederrhein.",
+                  "category": "zoo",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tiger & Turtle - Magic Mountain",
+                  "text": "Eine begehbare Achterbahn-Skulptur auf einer Halde, die weite Ausblicke über das Industrierevier des Ruhrgebiets bietet.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum Küppersmühle",
+                  "text": "Ein führendes Museum für moderne Kunst in einem eindrucksvoll umgebauten historischen Getreidespeicher am Hafen.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Duisburg-Nord Tájpark",
+                  "text": "Egy egykori vasmű területén kialakított egyedülálló szabadidőpark, ipari műemlékekkel és éjszakai fényfestéssel.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Belső Kikötő",
+                  "text": "Modern vízparti negyed éttermekkel és múzeumokkal, amelyek régi gabonatárolókban kaptak helyet a város szívében.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tiger & Turtle",
+                  "text": "Egy dombtetőn álló, gyalogosan bejárható hullámvasút-szobor, ahonnan pazar kilátás nyílik a Ruhr-vidék ipari tájára.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Duisburgi Állatkert",
+                  "text": "Németország egyik leglátogatottabb állatkertje, amely delfináriumáról és ritka koaláiról vált nemzetközileg híressé.",
+                  "category": "zoo",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Küppersmühle Múzeum",
+                  "text": "A modern művészet egyik legfontosabb központja, amely egy mesterien átalakított ipari malomépületben található.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parcul Peisagistic Duisburg-Nord",
+                  "text": "O fostă uzină siderurgică transformată într-un parc unic pentru recreere, alpinism și spectacole de lumină nocturne.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Portul Interior",
+                  "text": "Un cartier modern situat pe malul apei, cu restaurante și muzee amenajate în vechi depozite de cereale recondiționate.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tiger & Turtle",
+                  "text": "O sculptură sub formă de roller coaster pe care se poate merge pe jos, oferind vederi largi asupra zonei industriale Ruhr.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădina Zoologică Duisburg",
+                  "text": "Renumită pentru delfinariul său și habitatul pentru koala, fiind una dintre cele mai populare atracții din regiune.",
+                  "category": "zoo",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Küppersmühle",
+                  "text": "Un centru de elită pentru artă modernă, găzduit într-o clădire industrială istorică de lângă portul interior.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Landscape Park Duisburg-Nord",
+                  "text": "A former ironworks transformed into a unique public park for climbing, diving, and large-scale cultural events.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Inner Harbor Duisburg",
+                  "text": "A vibrant waterfront district featuring trendy restaurants and museums in masterfully converted old granaries.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tiger & Turtle - Magic Mountain",
+                  "text": "A walkable roller coaster sculpture located on a hilltop, offering panoramic views of the industrial Ruhr area.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Duisburg Zoo",
+                  "text": "Famous for its dolphinarium and koala habitat, it is one of the most established zoological gardens in Germany.",
+                  "category": "zoo",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum Küppersmühle",
+                  "text": "A premier museum for modern art housed in an impressively renovated historic grain mill by the harbor.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-oberhausen",
@@ -1441,6 +4455,136 @@ export const pois: POI[] = [
       pt: ["O Gasómetro de Oberhausen é, com 117,5 metros, o reservatório de gás mais alto da Europa.", "O CentrO foi inaugurado em 1996 e faz parte do projeto 'Neue Mitte Oberhausen'.", "A St.-Antony-Hütte de 1758 é considerada a primeira fundição de ferro da região do Ruhr.", "O bairro Eisenheim foi fundado já em 1846.", "O Festival Internacional de Curtas-Metragens realiza-se anualmente desde 1954.", "O Palácio de Oberhausen abriga hoje a prestigiada Ludwiggalerie."],
       fr: ["Le Gazomètre d'Oberhausen est, avec 117,5 mètres, le plus haut réservoir à gaz d'Europe.", "Le CentrO a ouvert en 1996 et fait partie du projet « Neue Mitte Oberhausen ».", "La forge Saint-Antoine (1758) est considérée comme la première usine sidérurgique de la Ruhr.", "La cité ouvrière Eisenheim fut fondée dès 1846.", "Le Festival international du court-métrage a lieu chaque année depuis 1954.", "Le château d'Oberhausen abrite aujourd'hui la célèbre galerie Ludwig."],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Gasometer Oberhausen",
+                  "text": "Der riesige ehemalige Gasspeicher ist heute eine spektakuläre Ausstellungshalle und bietet vom Dach einen weiten Blick.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schloss Oberhausen",
+                  "text": "Ein klassizistisches Gebäude, das die renommierte Ludwiggalerie für Kunst beherbergt und von einem Park umgeben ist.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kaisergarten",
+                  "text": "Eine weitläufige Parkanlage am Schloss mit Tiergehege und der markanten, bunt beleuchteten Brücke 'Slinky Springs to Fame'.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "LVR-Industriemuseum",
+                  "text": "Das Museum in der ehemaligen Zinkfabrik Altenberg zeigt eindrucksvoll die Geschichte der Schwerindustrie in der Region.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "CentrO",
+                  "text": "Europas größtes Einkaufs- und Freizeitzentrum, das das neue Zentrum der Stadt nach dem Kohlezeitalter bildet.",
+                  "category": "landmark",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gasometer",
+                  "text": "Egy hatalmas egykori gáztározó, amely ma lenyűgöző kiállításoknak és panorámás kilátópontnak ad otthont.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Oberhauseni kastély",
+                  "text": "Klasszicista palota, amelyben a neves Ludwiggalerie művészeti múzeum működik jelentős gyűjteménnyel.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kaisergarten",
+                  "text": "A kastély mellett elterülő népszerű park állatsimogatóval és az ikonikus, spirális formájú gyalogoshíddal.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "LVR Ipari Múzeum",
+                  "text": "Egy egykori cinkgyár területén berendezett múzeum, amely a Ruhr-vidék nehézipari múltját mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "CentrO",
+                  "text": "Európa legnagyobb bevásárló- és szórakoztatóközpontja, amely modern közösségi térként funkcionál az egykori gyártelepen.",
+                  "category": "landmark",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gasometrul Oberhausen",
+                  "text": "Un fost rezervor de gaz imens, transformat într-un spațiu spectaculos pentru expoziții culturale și punct de belvedere.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Oberhausen",
+                  "text": "Palat neoclasic care găzduiește Ludwiggalerie, un muzeu de artă cunoscut pentru colecțiile sale de fotografie și grafică.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kaisergarten",
+                  "text": "Un parc pitoresc lângă castel, dotat cu o grădină zoologică mică și podul sculptural 'Slinky Springs to Fame'.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Industrial LVR",
+                  "text": "Situat într-o fostă fabrică de zinc, muzeul oferă o incursiune fascinantă în istoria siderurgică a regiunii.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "CentrO",
+                  "text": "Cel mai mare centru comercial și de agrement din Europa, reprezentând inima turistică și economică a orașului.",
+                  "category": "landmark",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gasometer Oberhausen",
+                  "text": "A massive former gas holder that now serves as a spectacular venue for world-class art exhibitions and city views.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Oberhausen Castle",
+                  "text": "A neoclassical palace housing the Ludwiggalerie, an art museum known for its diverse photography and caricature collections.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kaisergarten",
+                  "text": "A beautiful public park surrounding the castle, featuring an animal enclosure and the artistic 'Slinky Springs to Fame' bridge.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "LVR Industrial Museum",
+                  "text": "Located in a former zinc factory, it offers deep insights into the region's historical iron and steel production.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "CentrO",
+                  "text": "Europe's largest shopping and leisure destination, featuring a promenade with many restaurants and entertainment venues.",
+                  "category": "landmark",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-gelsenkirchen",
@@ -1470,6 +4614,136 @@ export const pois: POI[] = [
       pt: ["Gelsenkirchen recebeu a sua alcunha devido às inúmeras tochas de gás das coqueria.", "O clube de futebol FC Schalke 04 foi fundado em 1904 no bairro de Schalke.", "O Musiktheater im Revier foi inaugurado em 1959 e é um monumento classificado.", "O Nordsternpark abriga uma estátua de Hércules de 18 metros de altura na torre de extração.", "A Veltins-Arena possui um campo de jogo removível e um teto que pode ser fechado.", "O ZOOM Erlebniswelt está dividido nas áreas temáticas do Alasca, África e Ásia."],
       fr: ["Gelsenkirchen a reçu son surnom en raison des nombreuses torches de gaz des cokeries.", "Le club de football FC Schalke 04 a été fondé en 1904 dans le quartier de Schalke.", "Le Musiktheater im Revier a été inauguré en 1959 et est classé monument historique.", "Le Nordsternpark abrite une statue d'Hercule de 18 mètres de haut sur son chevalement.", "La Veltins-Arena dispose d'une pelouse amovible et d'un toit refermable.", "Le ZOOM Erlebniswelt est divisé en zones thématiques : Alaska, Afrique et Asie."],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "ZOOM Erlebniswelt",
+                  "text": "Ein moderner Zoo mit naturgetreuen Themenwelten wie Alaska, Afrika und Asien für direkte Tierbegegnungen.",
+                  "category": "zoo",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Veltins-Arena",
+                  "text": "Das hochmoderne Stadion des FC Schalke 04, bekannt für sein ausfahrbares Rasenfeld und das verschließbare Dach.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schloss Berge",
+                  "text": "Ein barockes Wasserschloss umgeben von einem prächtigen Park, ideal für Spaziergänge und kulturelle Veranstaltungen.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nordsternpark",
+                  "text": "Ein Landschaftspark auf einem ehemaligen Zechengelände mit dem Herkules-Denkmal und einem großen Spielbereich.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musiktheater im Revier",
+                  "text": "Eines der bedeutendsten Opernhäuser der Nachkriegsmoderne mit beeindruckender Architektur und Kunst von Yves Klein.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ZOOM Erlebniswelt",
+                  "text": "Többszörösen díjazott állatkert, ahol Alaszka, Afrika és Ázsia élővilágát ismerhetik meg a látogatók természetes környezetben.",
+                  "category": "zoo",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Veltins-Arena",
+                  "text": "Az FC Schalke 04 ultramodern stadionja, amely mozgatható gyepfelületéről és behúzható tetőszerkezetéről ismert.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Berge-kastély",
+                  "text": "Barokk vízi kastély hatalmas parkkal és tóval, amely kedvelt kirándulóhely és elegáns rendezvényhelyszín.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nordsternpark",
+                  "text": "Egykori bányaterületen létrehozott tájpark, ahol a monumentális Herkules-szobor őrzi a város ipari örökségét.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hans-Sachs-Haus",
+                  "text": "Az 1920-as évek modern építészetének remekműve, amely ma Gelsenkirchen városházájaként és kulturális központjaként működik.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ZOOM Erlebniswelt",
+                  "text": "O grădină zoologică modernă cu zone tematice imersive precum Alaska, Africa și Asia pentru iubitorii de animale.",
+                  "category": "zoo",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Veltins-Arena",
+                  "text": "Stadionul ultramodern al echipei FC Schalke 04, renumit pentru terenul retractabil și designul său inovator.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Berge",
+                  "text": "Un castel baroc înconjurat de apă și un parc vast, reprezentând un loc ideal pentru relaxare și evenimente culturale.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nordsternpark",
+                  "text": "Parc amenajat pe locul unei foste mine de cărbune, unde se află celebra statuie Hercule și numeroase piste de biciclete.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musiktheater im Revier",
+                  "text": "O capodoperă a arhitecturii moderne postbelice, servind drept teatru de operă major în inima regiunii Ruhr.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "ZOOM Erlebniswelt",
+                  "text": "An award-winning zoo with immersive habitats representing Alaska, Africa, and Asia, focusing on naturalistic animal welfare.",
+                  "category": "zoo",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Veltins-Arena",
+                  "text": "The state-of-the-art home of FC Schalke 04, famous for its slide-out pitch and fully retractable roof.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schloss Berge",
+                  "text": "A late Baroque moated castle surrounded by expansive gardens and a lake, perfect for leisure and festivals.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nordsternpark",
+                  "text": "A landscaped park on the site of a former coal mine, featuring the towering Hercules statue by Markus Lüpertz.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musiktheater im Revier",
+                  "text": "One of the most significant opera houses of the post-war era, showcasing avant-garde architectural and artistic elements.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-bochum",
@@ -1500,6 +4774,208 @@ export const pois: POI[] = [
       pt: ["O Museu Alemão da Mineração foi fundado no ano de 1930.", "A Universidade do Ruhr em Bochum é uma das maiores universidades de campus na Alemanha.", "\"Starlight Express\" é apresentado num pavilhão construído especificamente para o efeito.", "O Bermuda3Eck abrange mais de 80 estabelecimentos gastronómicos num espaço reduzido.", "O Jahrhunderthalle foi construído em 1902 para uma exposição industrial.", "Bochum recebeu direitos de cidade já no ano de 1321."],
       fr: ["Le Musée allemand de la mine a été fondé en 1930.", "L'université de la Ruhr à Bochum est l'un des plus grands campus universitaires d'Allemagne.", "\"Starlight Express\" est joué dans une salle construite spécialement à cet effet.", "Le Bermuda3Eck regroupe plus de 80 établissements gastronomiques sur un espace restreint.", "La Jahrhunderthalle fut érigée en 1902 pour une exposition industrielle.", "Bochum a reçu ses privilèges urbains dès l'année 1321."],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Deutsches Bergbau-Museum",
+                  "text": "Das weltweit größte Bergbaumuseum zeigt die Geschichte der Kohleförderung mit einem originalgetreuen Anschauungsbergwerk.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Planetarium Bochum",
+                  "text": "Eines der modernsten Planetarien Europas bietet faszinierende Reisen durch das Weltall unter einer beeindruckenden Kuppel.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jahrhunderthalle",
+                  "text": "Diese ehemalige Gaskraftzentrale ist heute ein spektakulärer Ort für Kulturfestivals und ein Denkmal der Industriekultur.",
+                  "category": "industrial",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Eisenbahnmuseum Dahlhausen",
+                  "text": "In einem historischen Bahnbetriebswerk werden über 150 Fahrzeuge aus der deutschen Eisenbahngeschichte museal präsentiert.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bermudadreieck",
+                  "text": "Das bekannteste Kneipen- und Szeneviertel des Ruhrgebiets bietet eine enorme Dichte an Gastronomie und Live-Veranstaltungen.",
+                  "category": "district",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tierpark und Fossilium",
+                  "text": "Der zentrumsnahe Tierpark beherbergt über 300 Tierarten sowie ein integriertes Naturkundemuseum mit zahlreichen Fossilien.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Propsteikirche St. Peter und Paul",
+                  "text": "Die älteste Kirche der Stadt beherbergt bedeutende Kunstschätze wie den romanischen Taufstein und den goldenen Reliquienschrein.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Haus Kemnade",
+                  "text": "Das am Rande des Kemnader Sees gelegene Wasserschloss aus dem 16. Jahrhundert beherbergt heute verschiedene Kunstsammlungen.",
+                  "category": "castle",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Német Bányászati Múzeum",
+                  "text": "A világ legnagyobb bányászati múzeuma hiteles bemutató bányával várja a látogatókat a szénbányászat történetéről.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bochumi Planetárium",
+                  "text": "Európa egyik legmodernebb planetáriuma lenyűgöző utazásokat kínál a világűrbe egy hatalmas kupola alatt.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jahrhunderthalle",
+                  "text": "Ez az egykori gázerőmű ma kulturális fesztiválok látványos helyszíne és az ipari kultúra fontos műemléke.",
+                  "category": "industrial",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dahlhauseni Vasútmúzeum",
+                  "text": "Egy történelmi fűtőházban több mint 150 járművet mutatnak be a német vasúttörténet különböző korszakaiból.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bermuda-háromszög",
+                  "text": "A Ruhr-vidék legismertebb szórakozónegyede vendéglátóhelyek és élő rendezvények hatalmas kínálatát nyújtja.",
+                  "category": "district",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Állatpark és Fossilium",
+                  "text": "A központi fekvésű állatkert több mint 300 fajt és egy integrált természettudományi múzeumot foglal magában.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Péter és Pál templom",
+                  "text": "A város legrégebbi temploma olyan kincseket őriz, mint a román stílusú keresztelőmedence és az arany ereklyetartó.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Haus Kemnade",
+                  "text": "A Kemnader-tó partján fekvő 16. századi vízi kastély ma különböző művészeti gyűjteményeknek ad otthont.",
+                  "category": "castle",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeul German al Mineritului",
+                  "text": "Cel mai mare muzeu al mineritului din lume prezintă istoria extracției cărbunelui cu o mină demonstrativă fidelă.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Planetariul din Bochum",
+                  "text": "Unul dintre cele mai moderne planetarii din Europa oferă călătorii fascinante prin univers sub o cupolă impresionantă.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jahrhunderthalle",
+                  "text": "Această fostă centrală electrică pe gaz este astăzi un loc spectaculos pentru festivaluri culturale și un monument industrial.",
+                  "category": "industrial",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Căilor Ferate Dahlhausen",
+                  "text": "Într-un depou istoric sunt expuse peste 150 de vehicule care marchează istoria feroviară a Germaniei.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Triunghiul Bermudelor",
+                  "text": "Cel mai cunoscut cartier de baruri din regiunea Ruhr oferă o densitate uriașă de restaurante și evenimente live.",
+                  "category": "district",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădina Zoologică și Fossilium",
+                  "text": "Grădina zoologică găzduiește peste 300 de specii și un muzeu de istorie naturală integrat, cu numeroase fosile.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sf. Petru și Pavel",
+                  "text": "Cea mai veche biserică din oraș adăpostește comori de artă, precum cristelnița romanică și racla aurită.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Kemnade",
+                  "text": "Castelul pe apă din secolul al XVI-lea, situat pe malul lacului Kemnade, găzduiește astăzi diverse colecții de artă.",
+                  "category": "castle",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "German Mining Museum",
+                  "text": "The world's largest mining museum showcases the history of coal extraction with a realistic underground demonstration mine.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bochum Planetarium",
+                  "text": "One of Europe's most modern planetariums offers fascinating journeys through space under an impressive dome.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jahrhunderthalle",
+                  "text": "This former gas power station is now a spectacular venue for cultural festivals and a landmark of industrial heritage.",
+                  "category": "industrial",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dahlhausen Railway Museum",
+                  "text": "Located in a historic depot, this museum presents over 150 vehicles from different eras of German railway history.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bermuda Triangle",
+                  "text": "The most famous pub district in the Ruhr area offers a vast variety of gastronomy and lively entertainment.",
+                  "category": "district",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zoo and Fossilium",
+                  "text": "This central zoo houses over 300 species and includes a natural history museum with an extensive fossil collection.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Propsteikirche St. Peter und Paul",
+                  "text": "The city's oldest church houses significant art treasures like a Romanesque baptismal font and a golden reliquary.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Haus Kemnade",
+                  "text": "A 16th-century moated castle on the banks of Lake Kemnade, now home to various important art collections.",
+                  "category": "castle",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-bielefeld",
@@ -1531,6 +5007,208 @@ export const pois: POI[] = [
       pt: ["A Sparrenburg foi construída por volta de 1240 pelos Condes de Ravensberg.", "Bielefeld foi mencionada oficialmente como cidade pela primeira vez em 1214.", "A empresa Dr. Oetker foi fundada em 1891 numa farmácia de Bielefeld.", "A Ravensberger Spinnerei foi, no século XIX, a maior fiação de linho da Europa.", "Em Bethel vivem e trabalham hoje cerca de 20.000 pessoas em instituições sociais.", "A Universidade de Bielefeld alberga uma das maiores bibliotecas científicas."],
       fr: ["La Sparrenburg fut construite vers 1240 par les comtes de Ravensberg.", "Bielefeld fut mentionnée officiellement comme ville pour la première fois en 1214.", "L'entreprise Dr. Oetker fut fondée en 1891 dans une pharmacie de Bielefeld.", "La filature Ravensberger était au XIXe siècle la plus grande filature de lin d'Europe.", "À Bethel, environ 20 000 personnes vivent et travaillent aujourd'hui dans des institutions sociales.", "L'université de Bielefeld abrite l'une des plus grandes bibliothèques scientifiques."],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Sparrenburg",
+                  "text": "Die imposante Festung hoch über der Stadt bietet einen weiten Rundblick und spannende Führungen durch unterirdische Gänge.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Altes Rathaus",
+                  "text": "Das historische Rathaus am Alten Markt verbindet spätgotische und barocke Elemente und ist ein Wahrzeichen der Altstadt.",
+                  "category": "town-hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kunsthalle Bielefeld",
+                  "text": "Das Museum für moderne Kunst besticht durch seine markante Architektur von Philip Johnson und hochkarätige Ausstellungen.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Heimat-Tierpark Olderdissen",
+                  "text": "Ein weitläufiger, ganzjährig geöffneter Tierpark, der vor allem heimische Tierarten in naturnahen Gehegen zeigt.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Neustädter Marienkirche",
+                  "text": "Die größte Kirche Bielefelds stammt aus dem 13. Jahrhundert und beeindruckt durch ihren prachtvollen Marienaltar.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bauernhausmuseum",
+                  "text": "Eines der ältesten Freilichtmuseen Deutschlands präsentiert historische Hofanlagen und das ländliche Leben vergangener Zeiten.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alter Markt",
+                  "text": "Der zentrale Platz der Altstadt ist umgeben von prächtigen Giebelhäusern und bildet das Herz des städtischen Lebens.",
+                  "category": "square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ravensberger Spinnerei",
+                  "text": "In der ehemaligen Textilfabrik befinden sich heute Museen und Kultureinrichtungen in einem beeindruckenden Backsteinbau.",
+                  "category": "industrial",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sparrenburg",
+                  "text": "A város felett magasodó impozáns erődítmény pazar kilátást és izgalmas túrákat kínál a földalatti folyosókon.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Régi városháza",
+                  "text": "Az óváros jelképe az Alte Markton található történelmi épület, amely késő gótikus és barokk elemeket ötvöz.",
+                  "category": "town-hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bielefeldi Műcsarnok",
+                  "text": "A modern művészeti múzeum Philip Johnson jellegzetes építészetével és nívós kiállításaival nyűgözi le a látogatókat.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Olderdisseni Állatpark",
+                  "text": "Egész évben nyitva tartó, tágas állatpark, amely elsősorban őshonos állatfajokat mutat be természetközeli kifutókban.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mária-templom",
+                  "text": "Bielefeld legnagyobb temploma a 13. századból származik, és lenyűgöző Mária-oltáráról nevezetes.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parasztmúzeum",
+                  "text": "Németország egyik legrégebbi szabadtéri múzeuma történelmi udvarokat és a régi vidéki életet mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Régi piactér",
+                  "text": "Az óváros központi tere pazar oromzatos házakkal van körülvéve, és a városi élet szíveként funkcionál.",
+                  "category": "square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ravensberger fonoda",
+                  "text": "Az egykori textilgyár impozáns téglaépületében ma múzeumok és kulturális intézmények kaptak helyet.",
+                  "category": "industrial",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelul Sparrenburg",
+                  "text": "Impozanta fortăreață de deasupra orașului oferă o vedere panoramică vastă și tururi prin coridoarele subterane.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vechea Primărie",
+                  "text": "Primăria istorică din Piața Veche combină elemente gotice târzii și baroce, fiind un simbol al centrului vechi.",
+                  "category": "town-hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kunsthalle Bielefeld",
+                  "text": "Muzeul de artă modernă impresionează prin arhitectura sa semnată de Philip Johnson și prin expozițiile de înaltă clasă.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Zoologic Olderdissen",
+                  "text": "Un parc zoologic spațios, deschis tot anul, care prezintă în special specii native în habitate naturale.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfânta Maria",
+                  "text": "Cea mai mare biserică din Bielefeld datează din secolul al XIII-lea și impresionează prin altarul său superb dedicat Mariei.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Casei Țărănești",
+                  "text": "Unul dintre cele mai vechi muzee în aer liber din Germania prezintă ferme istorice și viața rurală de odinioară.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Veche",
+                  "text": "Piața centrală a orașului vechi este înconjurată de case superbe cu frontoane și constituie inima vieții urbane.",
+                  "category": "square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Filatura Ravensberger",
+                  "text": "Fosta fabrică de textile găzduiește astăzi muzee și instituții culturale într-o clădire impunătoare din cărămidă.",
+                  "category": "industrial",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sparrenburg Castle",
+                  "text": "The imposing fortress high above the city offers a wide panoramic view and exciting tours through underground tunnels.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Town Hall",
+                  "text": "The historic town hall on the Old Market square combines late Gothic and Baroque elements and is a landmark of the old town.",
+                  "category": "town-hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kunsthalle Bielefeld",
+                  "text": "The modern art museum impresses with its striking architecture by Philip Johnson and high-quality exhibitions.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Olderdissen Wildlife Park",
+                  "text": "An expansive wildlife park open year-round, showcasing mainly native animal species in naturalistic enclosures.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Marienkirche",
+                  "text": "The largest church in Bielefeld dates from the 13th century and is noted for its magnificent Marian altar.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Farmhouse Museum",
+                  "text": "One of Germany's oldest open-air museums, displaying historic farmsteads and rural life from past centuries.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alter Markt",
+                  "text": "The central square of the old town is surrounded by ornate gabled houses and forms the heart of urban life.",
+                  "category": "square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ravensberger Spinning Mill",
+                  "text": "This former textile factory now houses museums and cultural facilities within an impressive brick building.",
+                  "category": "industrial",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "river-rhein",
@@ -6201,6 +9879,208 @@ export const pois: POI[] = [
       pt: ["A cidade foi fundada em 20 de janeiro de 1680 por um édito de Luís XIV.", "O nome da cidade é composto pelo rio Sarre e pelo nome do rei Luís (Louis).", "Saarlouis permaneceu sob domínio francês até o ano 1815.", "Com 10.000 metros quadrados, o Grande Mercado é uma das maiores praças de mercado da região.", "Em Saarlouis localiza-se uma importante fábrica do fabricante automóvel Ford.", "A fortificação da cidade só começou a ser parcialmente desmantelada a partir do ano 1887."],
       fr: ["La ville a été fondée le 20 janvier 1680 par un édit de Louis XIV.", "Le nom de la ville est composé du nom de la rivière Sarre et du nom du roi Louis.", "Sarrelouis est restée sous domination française jusqu'en 1815.", "Avec 10 000 mètres carrés, le Grand Marché est l'une des plus grandes places de marché de la région.", "Sarrelouis abrite une usine importante du constructeur automobile Ford.", "Les fortifications de la ville n'ont commencé à être partiellement démantelées qu'à partir de 1887."],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Festung Saarlouis",
+                  "text": "Die von Vauban im 17. Jahrhundert entworfene Festungsanlage prägt bis heute den sternförmigen Grundriss der Stadt.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Großer Markt",
+                  "text": "Einer der größten Marktplätze Deutschlands bildet das Zentrum der Stadt und ist gesäumt von historischen Gebäuden.",
+                  "category": "square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Katholische Kirche St. Ludwig",
+                  "text": "Die barocke Kirche am Großen Markt wurde mehrfach umgebaut und beeindruckt heute durch ihre moderne Fassadengestaltung.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vauban-Insel",
+                  "text": "Ein idyllischer Park auf einer ehemaligen Bastion der Festung, der heute als Ort für Konzerte und Erholung dient.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kasematten",
+                  "text": "Die historischen Festungsgänge beherbergen heute gemütliche Restaurants und Cafés mit besonderem Flair.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saaraltarm",
+                  "text": "Ein naturnaher Erholungsraum direkt an der Stadt, ideal für Spaziergänge am Wasser und zur Beobachtung der Natur.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rathaus Saarlouis",
+                  "text": "Das prächtige Gebäude am Rande des Marktplatzes beherbergt unter anderem den prunkvollen Gobelinsaal.",
+                  "category": "town-hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Städtisches Museum",
+                  "text": "Das Museum dokumentiert anschaulich die wechselvolle Festungs- und Stadtgeschichte von der Gründung bis heute.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saarlouis-i erőd",
+                  "text": "A Vauban által a 17. században tervezett erődrendszer a mai napig meghatározza a város csillag alakú alaprajzát.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Großer Markt",
+                  "text": "Németország egyik legnagyobb piactere alkotja a város központját, melyet történelmi épületek szegélyeznek.",
+                  "category": "square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Lajos katolikus templom",
+                  "text": "A piactéren álló barokk templomot többször átépítették, ma modern homlokzatával és belső terével nyűgöz le.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vauban-sziget",
+                  "text": "Idyllikus park az egykori erőd egyik bástyáján, amely ma koncerteknek és zöldövezeti kikapcsolódásnak ad otthont.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kazamaták",
+                  "text": "A történelmi erődítmény folyosóiban ma hangulatos éttermek és kávézók várják a különleges élményre vágyókat.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saar-holtág",
+                  "text": "Természetközeli pihenőövezet közvetlenül a város mellett, ideális vízi sétákhoz és a természet megfigyeléséhez.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saarlouis-i városháza",
+                  "text": "A piactér szélén álló pompás épület többek között a díszes Gobelin-teremnek is otthont ad.",
+                  "category": "town-hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Városi Múzeum",
+                  "text": "A múzeum szemléletesen mutatja be az erőd és a város mozgalmas történetét az alapítástól napjainkig.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cetatea Saarlouis",
+                  "text": "Fortificațiile proiectate de Vauban în secolul al XVII-lea definesc și astăzi planul în formă de stea al orașului.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Großer Markt",
+                  "text": "Una dintre cele mai mari piețe din Germania formează centrul orașului, fiind mărginită de clădiri istorice.",
+                  "category": "square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Catolică Sf. Ludovic",
+                  "text": "Biserica barocă din piața centrală a fost reconstruită de mai multe ori și impresionează prin fațada sa modernă.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Insula Vauban",
+                  "text": "Un parc idilic situat pe un fost bastion al cetății, care servește astăzi drept loc pentru concerte și relaxare.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cazemate",
+                  "text": "Coridoarele istorice ale cetății găzduiesc astăzi restaurante și cafenele primitoare cu o atmosferă deosebită.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brațul vechi al râului Saar",
+                  "text": "O zonă de recreere naturală chiar lângă oraș, ideală pentru plimbări pe malul apei și observarea naturii.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria Saarlouis",
+                  "text": "Clădirea somptuoasă de la marginea pieței centrale adăpostește, printre altele, fastuoasa sală Gobelin.",
+                  "category": "town-hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Municipal",
+                  "text": "Muzeul documentează amănunțit istoria agitată a cetății și a orașului, de la fondare până în prezent.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saarlouis Fortifications",
+                  "text": "The fortress system designed by Vauban in the 17th century still defines the star-shaped layout of the city.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Großer Markt",
+                  "text": "One of Germany's largest market squares forms the city center, lined with historic buildings and cafes.",
+                  "category": "square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Ludwig Catholic Church",
+                  "text": "The Baroque church on the market square has been rebuilt several times and now features a striking modern facade.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vauban Island",
+                  "text": "An idyllic park on a former bastion of the fortress, now serving as a venue for concerts and relaxation.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casemates",
+                  "text": "The historic fortress passages now house cozy restaurants and cafes with a unique historical atmosphere.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Saar Arm",
+                  "text": "A nature-oriented recreation area right by the city, perfect for waterside walks and wildlife observation.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saarlouis Town Hall",
+                  "text": "The grand building at the edge of the market square houses the magnificent Gobelin Hall, among other rooms.",
+                  "category": "town-hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Municipal Museum",
+                  "text": "The museum vividly documents the eventful history of the fortress and the city from its founding to today.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "nature-bostalsee",
@@ -6259,6 +10139,208 @@ export const pois: POI[] = [
       pt: ["As grutas de Schlossberg consistem em doze pisos de galerias criadas artificialmente.", "O Castelo de Hohenburg já era mencionado em documentos no século XII.", "Homburg é a sede da Faculdade de Medicina da universidade desde 1947.", "A empresa Bosch opera uma das suas maiores fábricas em Homburg.", "A cidade situa-se na orla da Reserva da Biosfera da UNESCO de Bliesgau.", "O mercado de antiguidades e de velharias de Homburg é considerado o maior do seu género no sudoeste da Alemanha."],
       fr: ["Les grottes du Schlossberg se composent de douze étages de galeries creusées artificiellement.", "Le château de Hohenburg a été mentionné dans des documents dès le XIIe siècle.", "Hombourg est le siège de la faculté de médecine de l'université depuis 1947.", "L'entreprise Bosch exploite à Hombourg l'une de ses plus grandes usines.", "La ville est située en bordure de la réserve de biosphère UNESCO du Bliesgau.", "Le marché aux puces et aux antiquités de Hombourg est considéré comme le plus grand de ce type dans le sud-ouest de l'Allemagne."],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Schlossberghöhlen",
+                  "text": "Die größten Buntsandsteinhöhlen Europas führen tief in den Berg und beeindrucken durch ihre farbigen Gesteinsschichten.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Burgruine Hohenburg",
+                  "text": "Auf dem Schlossberg thronen die Überreste der einst mächtigen Residenz mit einem weiten Blick über das Saarland.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Römermuseum Schwarzenacker",
+                  "text": "Das Freilichtmuseum zeigt Ausgrabungen einer bedeutenden gallo-römischen Siedlung mit rekonstruierten Häusern.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ruine Schloss Karlsberg",
+                  "text": "Die Fundamente des einst prächtigen Märchenschlosses im Wald laden zu einer historischen Entdeckungstour ein.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stadtpfarrkirche St. Michael",
+                  "text": "Die neugotische Kirche prägt das Stadtbild und beherbergt kunstvolle Fenster sowie eine bedeutende Orgel.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Marktplatz",
+                  "text": "Der historische Platz mit seinen Brunnen und Fachwerkhäusern ist ein beliebter Treffpunkt in der Homburger Altstadt.",
+                  "category": "square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jägersburger Weiher",
+                  "text": "Ein Naherholungsgebiet mit mehreren Seen, einem Kletterpark und zahlreichen Wanderwegen durch den Wald.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gustav-Adolf-Kirche",
+                  "text": "Eine markante evangelische Kirche in der Stadtmitte, bekannt für ihre klare Architektur und gute Akustik.",
+                  "category": "church",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schlossberghöhlen",
+                  "text": "Európa legnagyobb tarka homokkő barlangjai mélyen a hegybe vezetnek, és színes kőzetrétegeikkel nyűgöznek le.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hohenburg várrom",
+                  "text": "A Schlossbergen trónolnak az egykori hatalmas rezidencia maradványai, pazar kilátással a Saar-vidékre.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schwarzenackeri Római Múzeum",
+                  "text": "A szabadtéri múzeum egy jelentős gall-római település ásatásait mutatja be rekonstruált épületekkel.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Karlsberg kastélyrom",
+                  "text": "Az erdőben fekvő egykori pompás mesekastély alapjai történelmi felfedezőtúrára hívják a látogatókat.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Mihály plébániatemplom",
+                  "text": "A neogótikus templom meghatározza a városképet, művészi üvegablakairól és jelentős orgonájáról nevezetes.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piactér",
+                  "text": "A történelmi tér kútjaival és fagerendás házaival a homburgi óváros kedvelt találkozóhelye.",
+                  "category": "square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jägersburgi tavak",
+                  "text": "Pihenőövezet több tóval, kalandparkkal és számos erdei túraútvonallal a természet kedvelőinek.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gusztáv Adolf templom",
+                  "text": "Jellegzetes evangélikus templom a belvárosban, amely letisztult építészetéről és kiváló akusztikájáról ismert.",
+                  "category": "church",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Peșterile Schlossberg",
+                  "text": "Cele mai mari peșteri de gresie colorată din Europa duc adânc în munte, impresionând prin straturile de rocă colorată.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ruinele Castelului Hohenburg",
+                  "text": "Pe muntele Schlossberg tronează rămășițele fostei reședințe puternice, oferind o vedere panoramică peste Saarland.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Roman Schwarzenacker",
+                  "text": "Muzeul în aer liber prezintă excavările unei așezări galo-romane importante, cu case reconstruite fidel.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ruinele Castelului Karlsberg",
+                  "text": "Fundațiile fostului castel de poveste din mijlocul pădurii invită la o incursiune fascinantă în istorie.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfântul Mihail",
+                  "text": "Biserica neogotică domină peisajul urban și adăpostește vitralii artistice și o orgă de o mare valoare.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Mare",
+                  "text": "Piața istorică cu fântânile și casele sale cu bârne este un loc de întâlnire popular în centrul vechi din Homburg.",
+                  "category": "square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lacurile din Jägersburg",
+                  "text": "O zonă de recreere cu mai multe lacuri, un parc de aventură și numeroase trasee de drumeție prin pădure.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Gustav Adolf",
+                  "text": "O biserică evanghelică remarcabilă în centrul orașului, cunoscută pentru arhitectura sa clară și acustica bună.",
+                  "category": "church",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schlossberg Caves",
+                  "text": "Europe's largest colorful sandstone caves lead deep into the mountain, showcasing vibrant geological layers.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hohenburg Castle Ruins",
+                  "text": "The remains of a once-powerful residence sit atop the Schlossberg, offering sweeping views over the Saarland region.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Roman Museum Schwarzenacker",
+                  "text": "This open-air museum features excavations of a major Gallo-Roman settlement with reconstructed buildings.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Karlsberg Castle Ruins",
+                  "text": "The foundations of a former fairytale palace in the forest invite visitors to a historical exploration tour.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Michael's Parish Church",
+                  "text": "A Neo-Gothic landmark that defines the skyline, housing artistic windows and an important historical organ.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Market Square",
+                  "text": "The historic square with its fountains and half-timbered houses is a popular meeting spot in Homburg's old town.",
+                  "category": "square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jägersburg Ponds",
+                  "text": "A local recreation area featuring several lakes, a climbing park, and numerous forest hiking trails.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gustav Adolf Church",
+                  "text": "A prominent Protestant church in the city center, known for its clean architectural lines and excellent acoustics.",
+                  "category": "church",
+                  "confidence": "high"
+            }
+      ]
+}
   },
 
   // ── HAMBURG (DE-HH) ─────────────────────────────────────────────────────
@@ -6692,6 +10774,161 @@ export const pois: POI[] = [
       pt: ["Darmstadt é a sede do Centro Europeu de Operações Espaciais (ESOC) da ESA.", "A colónia de artistas Mathildenhöhe foi fundada em 1899 por Ernesto Luís de Hesse.", "No laboratório GSI em Darmstadt, foram descobertos seis elementos químicos, incluindo o darmstádtio.", "A Torre do Casamento na Mathildenhöhe tem 48,5 metros de altura.", "A empresa Merck foi fundada aqui no ano de 1668.", "A cidade foi a primeira a receber o título oficial de Cidade da Ciência em 1997."],
       fr: ["Darmstadt est le siège du Centre européen d'opérations spatiales (ESOC) de l'ESA.", "La colonie d'artistes de la Mathildenhöhe a été fondée en 1899 par Ernest-Louis de Hesse.", "Six éléments chimiques ont été découverts au laboratoire GSI de Darmstadt, dont le darmstadtium.", "La Tour des mariages sur la Mathildenhöhe mesure 48,5 mètres de haut.", "L'entreprise Merck a été fondée ici dès l'année 1668.", "La ville a été la première à recevoir le titre officiel de ville de la science en 1997."],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Mathildenhöhe",
+                  "text": "Zentrum des Jugendstils mit dem Hochzeitsturm und der russischen Kapelle, seit 2021 UNESCO-Welterbe.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Residenzschloss",
+                  "text": "Das barocke Schloss am Marktplatz war einst der Sitz der Landgrafen und Großherzöge von Hessen-Darmstadt.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Waldspirale",
+                  "text": "Ein von Friedensreich Hundertwasser entworfenes Wohnhaus mit vergoldeten Kuppeln und bewachsenem Dach.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hessisches Landesmuseum",
+                  "text": "Eines der letzten Universilmuseen Europas mit bedeutenden Sammlungen zu Kunst, Kultur und Naturkunde.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Park Rosenhöhe",
+                  "text": "Ein historischer Landschaftspark mit einem prächtigen Rosarium und den Grabstätten der großherzoglichen Familie.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Luisenplatz",
+                  "text": "Der zentrale Platz der Stadt mit dem Ludwigsmonument, einer 28 Meter hohen Säule zu Ehren des Großherzogs.",
+                  "category": "square",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mathildenhöhe",
+                  "text": "A szecesszió központja az Esküvői toronnyal és az orosz kápolnával, 2021 óta az UNESCO Világörökség része.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rezidenciakastély",
+                  "text": "A piactéren álló barokk kastély egykor a hesseni tartományi grófok és nagyhercegek székhelye volt.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Waldspirale",
+                  "text": "Friedensreich Hundertwasser által tervezett különleges lakóház aranyozott kupolákkal és növényzettel beültetett tetővel.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hesseni Tartományi Múzeum",
+                  "text": "Európa egyik utolsó univerzális múzeuma, jelentős művészeti, kulturális és természettudományi gyűjteményekkel.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rosenhöhe park",
+                  "text": "Történelmi tájpark pompás rózsakerttel és a nagyhercegi család mauzóleumaival a város szélén.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Luisenplatz",
+                  "text": "A város központi tere a Ludwig-emlékművel, amely egy 28 méter magas oszlop a nagyherceg tiszteletére.",
+                  "category": "square",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mathildenhöhe",
+                  "text": "Centrul Art Nouveau cu Turnul Nunții și Capela Rusă, inclus în patrimoniul mondial UNESCO din anul 2021.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Rezidențial",
+                  "name_ro": "Castelul Rezidențial",
+                  "text": "Castelul baroc din piața centrală a fost reședința landgrafilor și marilor duci de Hessa-Darmstadt.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Waldspirale",
+                  "text": "O clădire rezidențială unică proiectată de Friedensreich Hundertwasser, cu cupole aurite și acoperiș verde.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul de Stat Hessa",
+                  "text": "Unul dintre ultimele muzee universale din Europa, cu colecții vaste de artă, cultură și istorie naturală.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Rosenhöhe",
+                  "text": "Un parc peisagistic istoric cu o rozărie splendidă și mormintele familiei marelui duce.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Luisenplatz",
+                  "text": "Piața centrală a orașului unde se află Monumentul lui Ludwig, o coloană de 28 de metri înălțime.",
+                  "category": "square",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mathildenhöhe",
+                  "text": "A center of Art Nouveau featuring the Wedding Tower and Russian Chapel, a UNESCO World Heritage site since 2021.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Residential Palace",
+                  "text": "The baroque palace on the market square was once the seat of the landgraves and grand dukes of Hesse-Darmstadt.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Waldspirale",
+                  "text": "A unique residential building designed by Friedensreich Hundertwasser, featuring golden domes and a forest roof.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hessian State Museum",
+                  "text": "One of Europe's last universal museums with significant collections of art, culture, and natural history.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rosenhöhe Park",
+                  "text": "A historic landscape park with a magnificent rose garden and the burial sites of the grand ducal family.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Luisenplatz",
+                  "text": "The central square of the city featuring the Ludwig Monument, a 28-meter high column honoring the Grand Duke.",
+                  "category": "square",
+                  "confidence": "high"
+            }
+      ]
+}
   },
 
   // ── SACHSEN (DE-SN) ─────────────────────────────────────────────────────
@@ -6786,6 +11023,160 @@ export const pois: POI[] = [
       pt: ["Görlitz abriga mais de 4.000 monumentos individuais de diferentes épocas.", "A cidade serve regularmente como cenário de filmes e é, por isso, frequentemente chamada de 'Görliwood'.", "Görlitz situa-se exatamente no 15º meridiano de longitude leste, que determina a Hora da Europa Central.", "O Schönhof de 1526 é o edifício burguês renascentista mais antigo da Alemanha.", "O órgão solar na Igreja de Pedro foi criado pelo construtor de órgãos Eugenio Casparini.", "Görlitz e Zgorzelec declararam-se uma Cidade Europeia conjunta em 1998."],
       fr: ["Görlitz abrite plus de 4 000 monuments historiques de différentes époques.", "La ville sert régulièrement de décor de cinéma et est donc souvent surnommée « Görliwood ».", "Görlitz se situe exactement sur le 15e méridien est, qui détermine l'heure d'Europe centrale.", "Le Schönhof de 1526 est le plus ancien bâtiment bourgeois de la Renaissance en Allemagne.", "L'orgue solaire de l'église Saint-Pierre a été créé par le facteur d'orgues Eugenio Casparini.", "Görlitz et Zgorzelec se sont proclamées ville européenne commune en 1998."],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Untermarkt",
+                  "text": "Historischer Marktplatz mit prächtigen Renaissance-Häusern und dem alten Rathaus samt astronomischer Uhr.",
+                  "category": "square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pfarrkirche St. Peter und Paul",
+                  "text": "Die spätgotische Hallenkirche thront über der Neiße und ist berühmt für ihre Sonnenorgel.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Heiliges Grab",
+                  "text": "Eine detailgetreue Nachbildung der Grabstätte Jesu Christi in Jerusalem aus dem späten 15. Jahrhundert.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schlesisches Museum",
+                  "text": "Im Schönhof, dem ältesten bürgerlichen Renaissancebau Deutschlands, wird die Geschichte Schlesiens präsentiert.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Reichenbacher Turm",
+                  "text": "Der westlichste der drei erhaltenen Wehrtürme der Stadtmauer bietet einen weiten Blick über Görlitz.",
+                  "category": "tower",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Obermarkt",
+                  "text": "Ein großer Barockplatz, der einst als Handelsplatz diente und heute von stattlichen Bürgerhäusern gesäumt ist.",
+                  "category": "square",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alsó-piac (Untermarkt)",
+                  "text": "Történelmi piactér pompás reneszánsz házakkal és a régi városházával, amelyen csillagászati óra látható.",
+                  "category": "square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Péter és Pál plébániatemplom",
+                  "text": "A Neisse folyó fölé magasodó késő gótikus csarnoktemplom a híres Nap-orgonájáról ismert.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Sír",
+                  "text": "Jézus Krisztus jeruzsálemi sírhelyének részlethű másolata, amely a 15. század végén épült.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sziléziai Múzeum",
+                  "text": "A Schönhofban, Németország legrégebbi polgári reneszánsz épületében található, bemutatva Szilézia történelmét.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Reichenbachi torony",
+                  "text": "A városfal három megmaradt védőtornya közül a legnyugatibb, ahonnan pazar kilátás nyílik a városra.",
+                  "category": "tower",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Felső-piac (Obermarkt)",
+                  "text": "Hatalmas barokk tér, amely egykor kereskedelmi központ volt, ma elegáns polgárházak veszik körül.",
+                  "category": "square",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piața de Jos (Untermarkt)",
+                  "text": "Piață istorică cu case renascentiste magnifice și primăria veche dotată cu un ceas astronomic.",
+                  "category": "square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sf. Petru și Pavel",
+                  "text": "O biserică hală în stil gotic târziu care domină râul Neiße, faimoasă pentru orga sa solară.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sfântul Mormânt",
+                  "text": "O replică fidelă a mormântului lui Isus Hristos din Ierusalim, construită la sfârșitul secolului al XV-lea.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Silezian",
+                  "text": "Găzduit în Schönhof, cea mai veche clădire renascentistă civilă din Germania, prezintă istoria Sileziei.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turnul Reichenbach",
+                  "text": "Cel mai vestic dintre cele trei turnuri de apărare păstrate, oferind o panoramă vastă asupra orașului.",
+                  "category": "tower",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața de Sus (Obermarkt)",
+                  "text": "O piață barocă spațioasă care a servit drept centru comercial, mărginită de case burgheze impunătoare.",
+                  "category": "square",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Untermarkt",
+                  "text": "Historical marketplace with magnificent Renaissance houses and the old town hall featuring an astronomical clock.",
+                  "category": "square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Peter and Paul Church",
+                  "text": "The late Gothic hall church towers over the Neisse river and is famous for its unique Sun Organ.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Holy Sepulchre",
+                  "text": "A faithful late 15th-century replica of the burial site of Jesus Christ in Jerusalem, located in a park.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Silesian Museum",
+                  "text": "Located in the Schönhof, Germany's oldest civic Renaissance building, showcasing the history of Silesia.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Reichenbach Tower",
+                  "text": "The westernmost of the three remaining defensive towers of the city wall, offering views over Görlitz.",
+                  "category": "tower",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Obermarkt",
+                  "text": "A large Baroque square that once served as a trading hub, surrounded by stately townhouses.",
+                  "category": "square",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-meissen",
@@ -6816,6 +11207,160 @@ export const pois: POI[] = [
       fr: ["Meissen abrite la première manufacture de porcelaine d'Europe, fondée en 1710.", "L'Albrechtsburg fut bâti entre 1471 et 1524 comme château de résidence.", "L'emblème de la porcelaine de Meissen est constitué de deux épées croisées bleues.", "La cathédrale de Meissen est un exemple majeur du gothique pur allemand.", "Meissen est située dans la région viticole la plus au nord-est de l'Allemagne.", "Johann Friedrich Böttger y inventa la porcelaine européenne en 1708 avec Tschirnhaus."],
     },
     image: "/poi-images/city-meissen.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Albrechtsburg",
+                  "text": "Das erste als Schloss konzipierte Gebäude Deutschlands, erbaut im 15. Jahrhundert hoch über der Elbe.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Meißner Dom",
+                  "text": "Die gotische Kathedrale auf dem Burgberg bildet zusammen mit der Albrechtsburg ein markantes Ensemble.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Porzellan-Manufaktur Meissen",
+                  "text": "Die älteste Porzellanmanufaktur Europas, berühmt für das Markenzeichen der gekreuzten blauen Schwerter.",
+                  "category": "industry",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Frauenkirche Meißen",
+                  "text": "Die spätgotische Kirche am Marktplatz besitzt das weltweit erste spielbare Glockenspiel aus Meißner Porzellan.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rathaus Meißen",
+                  "text": "Ein spätgotischer Bau aus dem 15. Jahrhundert, der den historischen Marktplatz der Altstadt prägt.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schloss Proschwitz",
+                  "text": "Das älteste private Weingut Sachsens liegt gegenüber der Stadt und bietet exzellente Weine und Elbblicke.",
+                  "category": "castle",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Albrechtsburg",
+                  "text": "Németország első kastélynak tervezett épülete, amely a 15. században épült magasan az Elba felett.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Meißeni dóm",
+                  "text": "A várhegyen álló gótikus katedrális az Albrechtsburggal együtt alkotja a város jellegzetes sziluettjét.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Meißeni Porcelánmanufaktúra",
+                  "text": "Európa legrégebbi porcelánmanufaktúrája, amely a keresztezett kék kardok védjegyéről világhírű.",
+                  "category": "industry",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Meißeni Miasszonyunk-templom",
+                  "text": "A piactéren álló késő gótikus templom a világ első játszható porcelán harangjátékával büszkélkedhet.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Meißeni városháza",
+                  "text": "15. századi késő gótikus épület, amely az óváros történelmi piacterének ékköve.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Proschwitz-kastély",
+                  "text": "Szászország legrégebbi magánborászata a várossal szemben, kiváló borokkal és panorámával az Elbára.",
+                  "category": "castle",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Albrechtsburg",
+                  "text": "Prima clădire din Germania concepută ca palat, construită în secolul al XV-lea deasupra Elbei.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Domul din Meißen",
+                  "text": "Catedrala gotică de pe dealul castelului formează împreună cu Albrechtsburg un ansamblu arhitectural remarcabil.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Manufactura de Porțelan Meissen",
+                  "text": "Cea mai veche manufactură de porțelan din Europa, celebră pentru marca săbiilor albastre încrucișate.",
+                  "category": "industry",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Frauenkirche Meißen",
+                  "text": "Biserică gotică târzie în piața centrală, dotată cu primul carillon din porțelan funcțional din lume.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria din Meißen",
+                  "text": "O construcție gotică târzie din secolul al XV-lea care domină piața istorică a orașului vechi.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Proschwitz",
+                  "text": "Cea mai veche cramă privată din Saxonia, situată vizavi de oraș, oferind vinuri de calitate și priveliști superbe.",
+                  "category": "castle",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Albrechtsburg",
+                  "text": "Germany's first building designed specifically as a palace, built in the 15th century high above the Elbe.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Meissen Cathedral",
+                  "text": "The Gothic cathedral on the castle hill forms a striking architectural ensemble with the Albrechtsburg.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Meissen Porcelain Manufactory",
+                  "text": "Europe's oldest porcelain manufactory, world-famous for its trademark crossed blue swords.",
+                  "category": "industry",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Frauenkirche Meissen",
+                  "text": "A late Gothic church on the market square featuring the world's first playable porcelain carillon.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Meissen Town Hall",
+                  "text": "A late Gothic building from the 15th century that characterizes the historic market square of the old town.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Proschwitz Castle",
+                  "text": "Saxony's oldest private winery located across from the town, offering excellent wines and Elbe views.",
+                  "category": "castle",
+                  "confidence": "high"
+            }
+      ]
+}
   },
 
   // ── SACHSEN-ANHALT (DE-ST) ───────────────────────────────────────────────
@@ -6910,6 +11455,160 @@ export const pois: POI[] = [
       pt: ["Halle é o local de nascimento do compositor Georg Friedrich Händel (nascido em 1685).", "A igreja do mercado possui quatro torres ligadas entre si por pontes.", "As Fundações Francke foram o maior projeto social da Europa no século XVIII.", "A Torre Vermelha, com 84 metros de altura, é uma das torres sineiras independentes mais altas.", "Halle é a sede da Academia Nacional de Ciências Leopoldina, fundada em 1652.", "A cidade possui a fábrica de chocolate mais antiga da Alemanha, a fábrica Halloren."],
       fr: ["Halle est la ville natale du compositeur Georg Friedrich Haendel (né en 1685).", "L'église du marché possède quatre tours reliées entre elles par des ponts.", "Les Fondations Francke étaient le plus grand projet social d'Europe au XVIIIe siècle.", "La Tour Rouge est, avec 84 mètres de haut, l'un des plus hauts clochers autoportants.", "Halle est le siège de l'Académie nationale des sciences Leopoldina, fondée en 1652.", "La ville possède la plus ancienne chocolaterie d'Allemagne, la chocolaterie Halloren."],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Marktplatz & Roter Turm",
+                  "text": "Einzigartiger Platz mit fünf Türmen, darunter der frei stehende Rote Turm und die Marktkirche.",
+                  "category": "square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Moritzburg",
+                  "text": "Eine spätgotische Burganlage, die heute ein bedeutendes Kunstmuseum des Landes Sachsen-Anhalt beherbergt.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Burg Giebichenstein",
+                  "text": "Eine mittelalterliche Burgruine an der Saale, die heute Teil der Kunsthochschule Halle ist.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Franckesche Stiftungen",
+                  "text": "Ein weltweit einzigartiges Ensemble historischer Fachwerkbauten aus der Zeit des Pietismus.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Halloren- und Salinemuseum",
+                  "text": "Deutschlands ältestes Industriemuseum dokumentiert die Geschichte der Salzgewinnung in Halle.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Beatles Museum",
+                  "text": "Die weltweit älteste und umfangreichste öffentliche Ausstellung über die legendären Pilzköpfe aus Liverpool.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piactér és Vörös-torony",
+                  "text": "Egyedülálló tér öt toronnyal, köztük a különálló Vörös-toronnyal és a Miasszonyunk-templommal.",
+                  "category": "square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Moritzburg",
+                  "text": "Késő gótikus várkastély, amely ma Szász-Anhalt tartomány egyik legfontosabb művészeti múzeumának ad otthont.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Giebichenstein vára",
+                  "text": "Középkori várrom a Saale folyó partján, amely ma a hallei művészeti főiskola része.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Francke-alapítványok",
+                  "text": "A pietizmus korából származó, világszerte egyedülálló történelmi favázas épületegyüttes.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Halloren és Saline Múzeum",
+                  "text": "Németország legrégebbi ipari múzeuma, amely a hallei sólepárlás több évszázados történetét mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Beatles Múzeum",
+                  "text": "A világ legrégebbi és legátfogóbb nyilvános kiállítása a legendás liverpooli zenekarról.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piața Centrală și Turnul Roșu",
+                  "text": "O piață unică marcată de cele cinci turnuri, printre care Turnul Roșu de sine stătător și biserica pieței.",
+                  "category": "square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Moritzburg",
+                  "text": "O cetate în stil gotic târziu care găzduiește astăzi un important muzeu de artă al landului Saxonia-Anhalt.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Giebichenstein",
+                  "text": "O ruină medievală pe malul râului Saale, care face parte astăzi din Universitatea de Artă din Halle.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fundațiile Francke",
+                  "text": "Un ansamblu istoric de clădiri pe structură de lemn unic în lume, datând din perioada pietismului.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Salinei Halloren",
+                  "text": "Cel mai vechi muzeu industrial din Germania, documentând istoria extragerii sării în Halle.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Beatles",
+                  "text": "Cea mai veche și cuprinzătoare expoziție publică din lume dedicată legendarei trupe din Liverpool.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Market Square & Red Tower",
+                  "text": "A unique square featuring five towers, including the free-standing Red Tower and the Market Church.",
+                  "category": "square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Moritzburg",
+                  "text": "A late Gothic castle complex that now houses an important art museum for the state of Saxony-Anhalt.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Giebichenstein Castle",
+                  "text": "A medieval castle ruin on the Saale river, now part of the Halle University of Art and Design.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Francke Foundations",
+                  "text": "A globally unique ensemble of historic half-timbered buildings dating back to the Pietism era.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Halloren Salt Museum",
+                  "text": "Germany's oldest industrial museum documenting the long history of salt production in Halle.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Beatles Museum",
+                  "text": "The world's oldest and most extensive public exhibition dedicated to the legendary band from Liverpool.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ]
+}
   },
 
   // ── THÜRINGEN (DE-TH) ────────────────────────────────────────────────────
@@ -7004,6 +11703,160 @@ export const pois: POI[] = [
       pt: ["Gera foi mencionada num documento pela primeira vez no ano 995.", "No século XIX, Gera era considerada a cidade com mais milionários na Alemanha.", "A Casa Otto Dix exibe uma coleção de mais de 400 obras do artista.", "O sistema histórico de caves sob a cidade tem cerca de 9 quilómetros de comprimento.", "O Hofwiesenpark foi o local central da Bundesgartenschau em 2007.", "Gera tem hoje uma população de cerca de 93.000 pessoas."],
       fr: ["Gera a été mentionnée pour la première fois dans un document en l'an 995.", "Au XIXe siècle, Gera était considérée comme la ville comptant le plus de millionnaires en Allemagne.", "La Maison d'Otto Dix présente une collection de plus de 400 œuvres de l'artiste.", "Le système historique de caves sous la ville s'étend sur environ 9 kilomètres.", "Le Hofwiesenpark était le site central de l'exposition horticole fédérale en 2007.", "Gera compte aujourd'hui une population d'environ 93 000 habitants."],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Schloss Osterstein",
+                  "text": "Die ehemalige Residenz der Reußen thront über der Stadt und bietet heute Ausstellungen sowie einen weitläufigen Park.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Otto-Dix-Haus",
+                  "text": "Das Geburtshaus des berühmten Malers Otto Dix beherbergt eine bedeutende Sammlung seiner Werke aus verschiedenen Schaffensphasen.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Geraer Höhler",
+                  "text": "Ein einzigartiges System historischer Tiefkeller unter der Altstadt, das einst zur Lagerung von Bier genutzt wurde.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Orangerie",
+                  "text": "Das barocke Gebäude im Stadtteil Untermhaus dient heute als Kunstsammlung und ist von einem prächtigen Garten umgeben.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rathaus Gera",
+                  "text": "Das Renaissance-Bauwerk am Marktplatz beeindruckt durch sein prächtiges Portal und den 57 Meter hohen Rathausturm.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hofwiesenpark",
+                  "text": "Das weitläufige ehemalige Bundesgartenschau-Gelände bietet grüne Erholungsflächen, Spielplätze und Veranstaltungsorte direkt an der Elster.",
+                  "category": "park",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Osterstein-kastély",
+                  "text": "A Reuss hercegek egykori rezidenciája a város felett magasodik, ma kiállításoknak és egy kiterjedt parknak ad otthont.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Otto-Dix-ház",
+                  "text": "A híres festő, Otto Dix szülőháza, amely művész különböző korszakaiból származó jelentős gyűjteményt mutat be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gerai Höhler",
+                  "text": "Az óváros alatt húzódó történelmi mélypincék egyedülálló rendszere, amelyet egykor sör tárolására használtak.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Orangerie",
+                  "text": "Az Untermhaus negyedben található barokk épület ma művészeti gyűjteményként szolgál, pompás kerttel övezve.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gerai Városháza",
+                  "text": "A piactéren álló reneszánsz épület lenyűgöző díszes kapujával és 57 méter magas tornyával vonzza a tekintetet.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hofwiesenpark",
+                  "text": "A korábbi szövetségi kertészeti kiállítás területe tágas zöldfelületeket és kikapcsolódási lehetőséget kínál az Elster partján.",
+                  "category": "park",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelul Osterstein",
+                  "text": "Fosta rezidență a prinților Reuss domină orașul, găzduind astăzi expoziții și oferind un parc vast vizitatorilor.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Otto Dix",
+                  "text": "Casa natală a celebrului pictor Otto Dix adăpostește o colecție importantă de lucrări din diversele sale perioade de creație.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Geraer Höhler",
+                  "text": "Un sistem unic de pivnițe istorice adânci sub orașul vechi, utilizat odinioară pentru depozitarea berii locale.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Orangerie",
+                  "text": "Clădirea barocă din cartierul Untermhaus servește astăzi drept muzeu de artă, fiind înconjurată de o grădină splendidă.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria din Gera",
+                  "text": "Edificiul renascentist din piața centrală impresionează prin portalul său magnific și turnul înalt de 57 de metri.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hofwiesenpark",
+                  "text": "Vastul domeniu al fostei expoziții horticole federale oferă spații verzi, locuri de joacă și evenimente pe malul râului Elster.",
+                  "category": "park",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Osterstein Castle",
+                  "text": "The former residence of the Reuss princes overlooks the city and now features exhibitions and a sprawling park.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Otto Dix House",
+                  "text": "The birthplace of the famous painter Otto Dix houses a significant collection of his works from various creative periods.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gera Höhler",
+                  "text": "A unique system of historic deep cellars beneath the old town, once used for the traditional storage of beer.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Orangerie",
+                  "text": "This Baroque building in the Untermhaus district serves as an art collection today, surrounded by a magnificent garden.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gera Town Hall",
+                  "text": "The Renaissance building on the market square impresses with its grand portal and its 57-meter-high tower.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hofwiesenpark",
+                  "text": "The extensive former federal garden show grounds offer green recreation areas and event venues right on the Elster river.",
+                  "category": "park",
+                  "confidence": "high"
+            }
+      ]
+}
   },
 
   // ── MECKLENBURG-VORPOMMERN (DE-MV) ──────────────────────────────────────
@@ -7226,6 +12079,160 @@ export const pois: POI[] = [
       pt: ["Osnabruque foi fundada por volta de 780 por Carlos Magno como sede episcopal.", "A Paz de Vestfália foi proclamada em 24 de outubro de 1648.", "A Felix-Nussbaum-Haus foi inaugurada em 1998 como a primeira construção de Libeskind na Alemanha.", "A cidade situa-se no UNESCO Global Geopark TERRA.vita.", "Osnabruque tem cerca de 165.000 habitantes e é uma cidade universitária importante.", "O Piesberg, perto de Osnabruque, é um imponente monumento da cultura industrial."],
       fr: ["Osnabrück fut fondée vers 780 par Charlemagne comme siège épiscopal.", "La paix de Westphalie fut proclamée le 24 octobre 1648.", "La Maison Felix Nussbaum ouvrit en 1998, premier bâtiment de Libeskind en Allemagne.", "La ville est située dans le Géoparc mondial UNESCO TERRA.vita.", "Osnabrück compte environ 165 000 habitants et est une ville universitaire majeure.", "Le Piesberg, près d'Osnabrück, est un imposant monument de la culture industrielle."],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Rathaus des Westfälischen Friedens",
+                  "text": "In diesem historischen Gebäude wurde 1648 der Westfälische Friede verkündet, der den Dreißigjährigen Krieg beendete.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dom St. Peter",
+                  "text": "Die spätromanische Kathedrale aus dem 13. Jahrhundert prägt mit ihren markanten Türmen das Stadtbild von Osnabrück.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Felix-Nussbaum-Haus",
+                  "text": "Das vom Architekten Daniel Libeskind entworfene Museum widmet sich dem Leben und Werk des jüdischen Malers Felix Nussbaum.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schloss Osnabrück",
+                  "text": "Das barocke Residenzschloss aus dem 17. Jahrhundert dient heute als Sitz der Universität und besitzt einen schönen Schlossgarten.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Heger Tor",
+                  "text": "Auch als Waterloo-Tor bekannt, erinnert dieses Denkmal in Form eines Stadttors an die Osnabrücker Kämpfer bei Waterloo.",
+                  "category": "gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Marienkirche",
+                  "text": "Die gotische Hallenkirche am Marktplatz ist eines der bedeutendsten Baudenkmäler der Stadt mit wertvoller Innenausstattung.",
+                  "category": "church",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vesztfáliai béke városházája",
+                  "text": "Ebben a történelmi épületben hirdették ki 1648-ban a vesztfáliai békét, amely véget vetett a harmincéves háborúnak.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Péter-dóm",
+                  "text": "A 13. századi késő román stílusú katedrális jellegzetes tornyaival Osnabrück városképének meghatározó eleme.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Felix-Nussbaum-ház",
+                  "text": "A Daniel Libeskind által tervezett múzeum Felix Nussbaum zsidó festő életének és munkásságának állít emléket.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Osnabrücki kastély",
+                  "text": "A 17. századi barokk rezidencia ma az egyetem székhelye, és gyönyörű kastélykerttel várja a látogatókat.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Heger Tor",
+                  "text": "A Waterloo-kapuként is ismert emlékmű a waterloo-i csatában részt vett osnabrücki harcosok előtt tiszteleg.",
+                  "category": "gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mária-templom",
+                  "text": "A piactéren álló gótikus csarnoktemplom a város egyik legjelentősebb műemléke, értékes belső berendezéssel.",
+                  "category": "church",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Primăria Păcii Westfalice",
+                  "text": "În această clădire istorică a fost proclamată în 1648 Pacea din Westfalia, punând capăt Războiului de Treizeci de Ani.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala Sfântul Petru",
+                  "text": "Catedrala în stil romanic târziu din secolul al XIII-lea domină peisajul urban cu turnurile sale distincte.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Felix Nussbaum",
+                  "text": "Muzeul proiectat de arhitectul Daniel Libeskind este dedicat vieții și operei pictorului evreu Felix Nussbaum.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Osnabrück",
+                  "text": "Castelul baroc din secolul al XVII-lea servește astăzi drept sediu al universității și are o grădină superbă.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Poarta Heger",
+                  "text": "Cunoscută și sub numele de Poarta Waterloo, acest monument comemorează luptătorii din Osnabrück de la bătălia de la Waterloo.",
+                  "category": "gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfânta Maria",
+                  "text": "Biserica gotică de tip hală din piața centrală este unul dintre cele mai importante monumente ale orașului.",
+                  "category": "church",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Town Hall of the Peace of Westphalia",
+                  "text": "The Peace of Westphalia was proclaimed in this historic building in 1648, ending the Thirty Years' War.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Peter's Cathedral",
+                  "text": "The late Romanesque cathedral from the 13th century shapes the city skyline with its striking towers.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Felix Nussbaum House",
+                  "text": "Designed by architect Daniel Libeskind, this museum is dedicated to the life and work of Jewish painter Felix Nussbaum.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Osnabrück Palace",
+                  "text": "The 17th-century Baroque residence now serves as the university's headquarters and features a beautiful garden.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Heger Tor",
+                  "text": "Also known as the Waterloo Gate, this monument commemorates the Osnabrück soldiers who fought at Waterloo.",
+                  "category": "gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Mary's Church",
+                  "text": "The Gothic hall church on the market square is one of the city's most significant architectural monuments.",
+                  "category": "church",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "landmark-autostadt-wolfsburg",

@@ -405,7 +405,162 @@ export const poiExtraDe4b: POI[] = [
       es: ["Concesión de derechos de ciudad en el año 1664.", "Perteneció al estado danés entre 1640 y 1864.", "La incorporación a Hamburgo ocurrió recién en 1937.", "El famoso mercado de pescado existe desde 1703.", "La población del distrito es de aproximadamente 275.000 habitantes.", "La histórica avenida Palmaille fue trazada en el siglo XVII."],
       pt: ["Concessão dos direitos de cidade no ano de 1664.", "Pertenceu ao Estado Dinamarquês entre 1640 e 1864.", "A integração em Hamburgo ocorreu apenas em 1937.", "O famoso mercado de peixe de Altona existe desde 1703.", "A população do distrito é de cerca de 275.000 habitantes.", "A histórica Palmaille foi traçada no século XVII."],
       fr: ["Octroi des droits de cité en 1664.", "Appartenance à l'État danois de 1640 à 1864.", "Rattachement à Hambourg effectué seulement en 1937.", "Le célèbre marché aux poissons existe depuis 1703.", "La population du district est d'environ 275 000 habitants.", "L'avenue historique Palmaille fut créée au XVIIe siècle."],
-    }, image: "/poi-images/city-altona-hh-extra.webp"},
+    }, image: "/poi-images/city-altona-hh-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Altonaer Rathaus",
+                  "text": "Das ehemalige Bahnhofsgebäude ist heute eines der schönsten Rathäuser Deutschlands mit einer markanten weißen Fassade.",
+                  "category": "rathaus",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Altonaer Museum",
+                  "text": "Ein großes Regionalmuseum, das sich der Kunst- und Kulturgeschichte Norddeutschlands und der Elbe widmet.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Altonaer Balkon",
+                  "text": "Ein Park auf einer Anhöhe, der einen spektakulären Panoramablick über den Hamburger Hafen und die Elbe bietet.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fischmarkt",
+                  "text": "Der traditionsreiche Markt direkt an der Elbe ist weltberühmt für sein buntes Treiben am frühen Sonntagmorgen.",
+                  "category": "altstadt",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Trinitatis Kirche",
+                  "text": "Die barocke Hauptkirche von Altona wurde nach dem Krieg wiederaufgebaut und ist ein Wahrzeichen des Stadtteils.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Platz der Republik",
+                  "text": "Ein zentraler Platz zwischen Bahnhof und Rathaus, gesäumt von prächtigen Gebäuden und dem Stuhlmannbrunnen.",
+                  "category": "park",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Altonai Városháza",
+                  "text": "Az egykori vasútállomás épülete ma Németország egyik legszebb városházája jellegzetes fehér homlokzatával.",
+                  "category": "rathaus",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Altona Múzeum",
+                  "text": "Nagy regionális múzeum, amely Észak-Németország és az Elba vidékének művészeti és kultúrtörténetét mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Altonai Erkély",
+                  "text": "Egy magaslaton fekvő park, ahonnan látványos panoráma nyílik a hamburgi kikötőre és az Elba folyóra.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Halpiac",
+                  "text": "Hagyományos piac közvetlenül az Elba partján, amely világhírű a vasárnap hajnali színes forgatagáról.",
+                  "category": "altstadt",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szentháromság-templom",
+                  "text": "Altona barokk főtemploma, amelyet a háborús pusztítás után újjáépítettek, a negyed egyik fontos jelképe.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Köztársaság tere",
+                  "text": "A pályaudvar és a városháza közötti központi tér, amelyet díszes épületek és a Stuhlmann-kút ékesít.",
+                  "category": "park",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Primăria Altona",
+                  "text": "Fosta clădire a gării este astăzi una dintre cele mai frumoase primării din Germania, cu o fațadă albă impunătoare.",
+                  "category": "rathaus",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Altona",
+                  "text": "Un muzeu regional important dedicat artei și istoriei culturale a Germaniei de Nord și regiunii râului Elba.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Balconul Altona",
+                  "text": "Un parc situat pe o colină, oferind o vedere panoramică spectaculoasă asupra portului Hamburg și a fluviului Elba.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața de Pește",
+                  "text": "Piața tradițională de pe malul Elbei este faimoasă în întreaga lume pentru atmosfera sa vibrantă de duminică dimineața.",
+                  "category": "altstadt",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfânta Treime",
+                  "text": "Biserica principală barocă din Altona, reconstruită după război, este un simbol arhitectural al acestui cartier.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Republicii",
+                  "text": "O piață centrală situată între gară și primărie, dominată de clădiri magnifice și de fântâna Stuhlmann.",
+                  "category": "park",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Altona Town Hall",
+                  "text": "Housed in a former railway station, this is one of Germany's most beautiful town halls with a striking white facade.",
+                  "category": "rathaus",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Altona Museum",
+                  "text": "A major regional museum focused on the art and cultural history of Northern Germany and the Elbe river region.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Altona Balcony",
+                  "text": "An elevated park offering spectacular panoramic views over the Hamburg harbor and the Elbe river.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fish Market",
+                  "text": "A traditional market directly on the Elbe, world-famous for its lively and colorful atmosphere every Sunday morning.",
+                  "category": "altstadt",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Trinitatis Church",
+                  "text": "Altona's Baroque main church, rebuilt after the war, serves as a prominent landmark and historical center of the district.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Republic Square",
+                  "text": "A central urban square between the station and town hall, featuring the ornate Stuhlmann Fountain.",
+                  "category": "park",
+                  "confidence": "high"
+            }
+      ]
+}
+  },
 
   {
     id: "historical-hafencity-hh-extra",
@@ -606,7 +761,138 @@ export const poiExtraDe4b: POI[] = [
       es: ["Bergedorf fue una ciudad independiente hasta la Ley del Gran Hamburgo de 1937.", "El castillo de Bergedorf fue mencionado documentalmente por primera vez en 1301.", "El observatorio de Hamburgo se mudó del centro a Bergedorf en 1909.", "El castillo es la única fortificación conservada en el área urbana de Hamburgo.", "La región de Vierlande es conocida como el centro de la horticultura de Hamburgo.", "El distrito cuenta con un campus de la Universidad de Ciencias Aplicadas."],
       pt: ["Bergedorf foi uma cidade independente até à Lei do Grande Hamburgo de 1937.", "O Castelo de Bergedorf foi mencionado pela primeira vez em documentos no ano de 1301.", "O Observatório de Hamburgo mudou-se do centro da cidade para Bergedorf em 1909.", "O castelo é a única estrutura fortificada preservada na área urbana de Hamburgo.", "A região de Vierlande é conhecida como o centro da horticultura de Hamburgo.", "O distrito possui um campus da Universidade de Ciências Aplicadas."],
       fr: ["Bergedorf était une ville indépendante jusqu'à la loi de 1937 sur le Grand Hambourg.", "Le château de Bergedorf est mentionné pour la première fois en 1301.", "L'observatoire de Hambourg a quitté le centre-ville pour Bergedorf en 1909.", "Le château est la seule enceinte fortifiée préservée sur le territoire de Hambourg.", "La région de Vierlande est le centre de l'horticulture hambourgeoise.", "Le district accueille un campus de l'Université des Sciences Appliquées."],
-    }, image: "/poi-images/city-bergedorf-hh-extra.webp"},
+    }, image: "/poi-images/city-bergedorf-hh-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Bergedorfer Schloss",
+                  "text": "Das einzige erhaltene Schloss im Hamburger Stadtgebiet beherbergt heute das Museum für Bergedorf und die Vierlande.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hamburger Sternwarte",
+                  "text": "Ein bedeutendes astronomisches Observatorium auf dem Gojenberg mit historischen Teleskopen und markanten Kuppelbauten.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Petri und Pauli Kirche",
+                  "text": "Eine historische Fachwerkkirche im Zentrum von Bergedorf, bekannt für ihre prächtige Innenausstattung aus dem Barock.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Serrahn",
+                  "text": "Der historische Hafen von Bergedorf an der Bille, der heute als malerischer Anlegeplatz und Veranstaltungsort dient.",
+                  "category": "port",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rieck Haus",
+                  "text": "Ein Freilichtmuseum in den Vierlanden, das ein original erhaltenes Hufnerhaus aus dem Jahr 1533 und bäuerliche Kultur zeigt.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bergedorfi kastély",
+                  "text": "Hamburg egyetlen fennmaradt kastélya, amely ma a környék helytörténeti és néprajzi múzeumának ad otthont a fallal körülvett parkban.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hamburgi Csillagvizsgáló",
+                  "text": "A Gojenbergen található jelentős csillagászati obszervatórium történelmi teleszkópokkal és jellegzetes kupolás épületekkel.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Péter és Pál templom",
+                  "text": "Bergedorf központjának történelmi favázas temploma, amely gazdag barokk belső díszítéséről és különleges hangulatáról ismert.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Serrahn kikötő",
+                  "text": "Bergedorf történelmi kikötője a Bille folyón, amely ma hangulatos sétányként és hajókikötőként funkcionál a város szívében.",
+                  "category": "port",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rieck-ház",
+                  "text": "Szabadtéri múzeum a Vierlande régióban, amely egy 1533-ból származó eredeti parasztházat és a vidéki életmódot mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelul Bergedorf",
+                  "text": "Singurul castel conservat din zona Hamburgului, găzduind în prezent un muzeu dedicat istoriei locale și regiunii Vierlande.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Observatorul din Hamburg",
+                  "text": "Un important observator astronomic situat pe dealul Gojenberg, renumit pentru telescoapele sale istorice și arhitectura cupolelor.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sf. Petru și Pavel",
+                  "text": "O biserică istorică construită pe structură de lemn, situată în centrul cartierului, celebră pentru interiorul său baroc.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Portul Serrahn",
+                  "text": "Vechiul port istoric de pe râul Bille, transformat astăzi într-o zonă de promenadă pitorească cu cafenele și bărci de agrement.",
+                  "category": "port",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Rieck",
+                  "text": "Un muzeu în aer liber care prezintă o fermă tradițională din 1533, exemplificând cultura rurală veche din sudul Hamburgului.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bergedorf Castle",
+                  "text": "The only remaining castle in the Hamburg urban area, now housing a local history museum within its moated grounds.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hamburg Observatory",
+                  "text": "A significant astronomical observatory located on Gojenberg hill, featuring historic telescopes and unique dome buildings.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Peter and Paul Church",
+                  "text": "A historic half-timbered church in central Bergedorf, renowned for its magnificent Baroque interior and altar.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Serrahn Harbor",
+                  "text": "Bergedorf's historic inland port on the Bille river, today serving as a scenic waterfront area for events and leisure.",
+                  "category": "port",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rieck Haus",
+                  "text": "An open-air museum in the Vierlande marshlands, showcasing a farmhouse from 1533 and traditional rural life.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ]
+}
+  },
 
   {
     id: "island-neuwerk-hh-extra",
@@ -807,7 +1093,138 @@ export const poiExtraDe4b: POI[] = [
       es: ["Harburg fue una ciudad prusiana independiente hasta 1937.", "La Universidad Tecnológica de Hamburgo (TUHH) se fundó en el año 1978.", "El ayuntamiento de Harburg es un magnífico edificio renacentista de 1892.", "El puerto interior de Harburg se transforma actualmente en un moderno centro de servicios.", "Las montañas de Harburg albergan el Hasselbrack, el punto más alto de Hamburgo.", "Harburg se sitúa geográficamente en la orilla sur del Elba."],
       pt: ["Harburg foi uma cidade prussiana independente até 1937.", "A Universidade de Tecnologia de Hamburgo (TUHH) foi fundada em 1978.", "A câmara municipal de Harburg é um magnífico edifício renascentista de 1892.", "O porto interior de Harburg está a transformar-se num moderno centro de serviços.", "As montanhas de Harburg oferecem com o Hasselbrack o ponto mais alto de Hamburgo.", "Harburg situa-se geograficamente na margem sul do Elba."],
       fr: ["Harburg fut une ville prussienne indépendante jusqu'en 1937.", "L'Université technique de Hambourg (TUHH) a été fondée en 1978.", "L'hôtel de ville de Harburg est un superbe édifice Renaissance de 1892.", "Le port intérieur de Harburg devient un centre de services moderne.", "Les monts de Harburg abritent le Hasselbrack, point culminant de Hambourg.", "Harburg se situe géographiquement sur la rive sud de l'Elbe."],
-    }, image: "/poi-images/city-harburg-hh-extra.webp"},
+    }, image: "/poi-images/city-harburg-hh-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Harburger Rathaus",
+                  "text": "Ein prächtiger Backsteinbau im Stil der Neorenaissance, der das politische Herz des Bezirks Harburg bildet.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Archäologisches Museum Hamburg",
+                  "text": "Eines der bedeutendsten archäologischen Museen Norddeutschlands, das die Vor- und Frühgeschichte der Region zeigt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Harburger Binnenhafen",
+                  "text": "Ein moderner High-Tech-Standort in historischer Hafenatmosphäre mit Brücken, Speichern und modernen Glasbauten.",
+                  "category": "port",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Harburger Stadtpark",
+                  "text": "Eine weitläufige Grünanlage um den Außenmühlenteich, ideal für Spaziergänge und Erholung im Süden Hamburgs.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sammlung Falckenberg",
+                  "text": "In den Phoenix-Hallen untergebrachte bedeutende Sammlung zeitgenössischer Kunst in industrieller Architektur.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Harburgi városháza",
+                  "text": "Impozáns neoreneszánsz téglaépület, amely Harburg kerület politikai és adminisztratív központjaként szolgál.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hamburgi Régészeti Múzeum",
+                  "text": "Észak-Németország egyik legfontosabb régészeti gyűjteménye, amely a régió őstörténetét mutatja be interaktív módon.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Harburgi belső kikötő",
+                  "text": "Modern technológiai központ történelmi kikötői környezetben, ahol régi raktárak és üvegpaloták találkoznak.",
+                  "category": "port",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Harburgi városi park",
+                  "text": "Hatalmas zöldterület az Außenmühlenteich tó körül, amely népszerű pihenőhely sétányokkal és szabadidős lehetőségekkel.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Falckenberg-gyűjtemény",
+                  "text": "A Phoenix-csarnokokban található jelentős kortárs művészeti gyűjtemény, amely egy egykori gumigyár területén kapott helyet.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Primăria din Harburg",
+                  "text": "O clădire impunătoare din cărămidă în stil neorenascentist, reprezentând centrul administrativ al districtului.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Arheologic din Hamburg",
+                  "text": "Situat în Harburg, acest muzeu prezintă istoria timpurie a regiunii prin exponate fascinante și descoperiri locale.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Portul interior Harburg",
+                  "text": "O zonă contrastantă unde arhitectura industrială veche întâlnește clădirile moderne de birouri și tehnologie.",
+                  "category": "port",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Municipal Harburg",
+                  "text": "Oază de liniște în jurul lacului Außenmühle, oferind trasee de promenadă și spații verzi generoase pentru recreere.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Colecția Falckenberg",
+                  "text": "Găzduită în halele Phoenix, această colecție de artă contemporană este una dintre cele mai apreciate din Germania.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Harburg Town Hall",
+                  "text": "A magnificent Neo-Renaissance brick building that serves as the administrative heart of the Harburg district.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Archaeological Museum Hamburg",
+                  "text": "A major museum in Harburg focusing on the prehistory and early history of Northern Germany and the Elbe region.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Harburg Inland Port",
+                  "text": "A revitalized harbor area combining historic warehouses and bridges with modern high-tech architecture.",
+                  "category": "port",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Harburg City Park",
+                  "text": "Large park surrounding the Außenmühlenteich lake, featuring scenic trails and a popular recreation area.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Falckenberg Collection",
+                  "text": "Located in the historic Phoenix Halls, this exhibition space showcases a world-class collection of contemporary art.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ]
+}
+  },
 
   {
     id: "landmark-miniaturwunderland-hh-extra",
@@ -982,22 +1399,16 @@ export const poiExtraDe4b: POI[] = [
       fr: ["Capitale et plus grande ville de la Sarre avec environ 180 000 habitants.", "Le château de Sarrebruck est l'emblème de la ville.", "Située à seulement quelques kilomètres de la ville française de Forbach.", "L'Université de la Sarre est l'un des principaux employeurs de la région.", "Le marché St. Johanner (St. Johanner Markt) est le cœur historique et social de la ville."],
     },
     descriptionAdvanced: {
-      de: "Saarbrücken ist die lebendige Landeshauptstadt des Saarlandes und ein bedeutendes kulturelles sowie wirtschaftliches Zentrum im Dreiländereck zwischen Deutschland, Frankreich und Luxemburg. Die Stadt ist maßgeblich durch die barocke Architektur von Friedrich Joachim Stengel geprägt, dessen Meisterwerke wie die Ludwigskirche und das Saarbrücker Schloss das Stadtbild bis heute veredeln. Die Ludwigskirche gilt als eine der bedeutendsten evangelischen Barockkirchen Deutschlands und bildet das Herzstück eines architektonisch harmonischen Platzensembles. Durch die direkte Grenzlage zu Frankreich herrscht in der Stadt ein besonderes Flair, das sich in der Gastronomie und der Lebensart der Bewohner widerspiegelt. Die Saar fließt mitten durch die Stadt und ihre Uferpromenaden laden ebenso wie der nahegelegene Deutsch-Französische Garten zum Verweilen im Grünen ein. Als Universitätsstadt und Standort zahlreicher Forschungsinstitute verbindet Saarbrücken historische Tradition mit zukunftsorientierter Innovation.",
-      hu: "Saarbrücken Saar-vidék élettel teli tartományi fővárosa, valamint fontos kulturális és gazdasági központ a német-francia-luxemburgi hármashatárnál. A város képét jelentősen meghatározza Friedrich Joachim Stengel barokk építészete, akinek olyan mesterművei, mint a Ludwigskirche és a Saarbrückeni Kastély, ma is ékesítik a várost. A Ludwigskirche Németország egyik legjelentősebb evangélikus barokk templomának számít, és egy építészetileg harmonikus tér központi eleme. A Franciaországhoz való közvetlen közelség miatt a városban különleges hangulat uralkodik, ami a gasztronómiában és a lakók életmódjában is tükröződik. A Saar folyó a város közepén folyik keresztül, partmenti sétányai és a közeli Német-Francia Kert kellemes kikapcsolódást nyújtanak a zöldben. Egyetemi városként és számos kutatóintézet székhelyeként Saarbrücken sikeresen ötvözi a történelmi hagyományokat a jövőbe mutató innovációval.",
-      ro: "Saarbrücken este capitala vibrantă a landului Saarland și un important centru cultural și economic situat la granița dintre Germania, Franța și Luxemburg. Orașul este marcat semnificativ de arhitectura barocă a lui Friedrich Joachim Stengel, ale cărui capodopere, precum Biserica Ludwig și Castelul Saarbrücken, înnobilează peisajul urban până în prezent. Biserica Ludwig este considerată una dintre cele mai importante biserici baroce protestante din Germania și formează piesa centrală a unui ansamblu arhitectural armonios. Datorită locației sale direct la frontieră, în oraș domnește o atmosferă specială, care se reflectă în gastronomie și în modul de viață al locuitorilor. Râul Saar curge prin mijlocul orașului, iar promenadele sale, împreună cu Grădina Germano-Franceză din apropiere, invită la relaxare în aer liber. Ca oraș universitar și sediu al numeroaselor institute de cercetare, Saarbrücken îmbină tradiția istorică cu inovația orientată spre viitor.",
-      en: "Saarbrücken is the vibrant state capital of Saarland and a significant cultural and economic hub located at the border triangle of Germany, France, and Luxembourg. The city was profoundly shaped by the Baroque architecture of Friedrich Joachim Stengel, whose masterpieces like the Ludwigskirche and Saarbrücken Castle continue to grace the cityscape today. The Ludwigskirche is regarded as one of Germany's most important Protestant Baroque churches and serves as the centerpiece of an architecturally harmonious square. Due to its direct proximity to France, the city exudes a unique flair that is reflected in both its gastronomy and the lifestyle of its residents. The Saar River flows through the heart of the city, and its waterfront promenades, along with the nearby Franco-German Garden, offer ample space for relaxation in green surroundings. As a university city and home to numerous research institutes, Saarbrücken successfully blends historical tradition with future-oriented innovation.",
-      es: "Saarbrücken es la vibrante capital del Sarre y un importante centro cultural y económico en la región fronteriza entre Alemania, Francia y Luxemburgo. La ciudad está marcada significativamente por la arquitectura barroca de Friedrich Joachim Stengel, cuyas obras maestras como la Ludwigskirche y el Castillo de Saarbrücken embellecen el paisaje urbano hasta hoy. La Ludwigskirche está considerada una de las iglesias barrocas evangélicas más importantes de Alemania y forma el corazón de un conjunto arquitectónico armonioso. Debido a su ubicación directa en la frontera con Francia, en la ciudad impera un ambiente especial que se refleja en la gastronomía y el estilo de vida de sus habitantes. El Sarre fluye por el centro de la ciudad y sus paseos ribereños, al igual que el cercano Jardín Franco-Alemán, invitan a relajarse en la naturaleza. Como ciudad universitaria y sede de numerosos institutos de investigación, Saarbrücken combina la tradición histórica con la innovación orientada al futuro.",
-      pt: "Saarbrücken é a vibrante capital do Sarre e um importante centro cultural e económico na zona de fronteira entre a Alemanha, a França e o Luxemburgo. A cidade é significativamente moldada pela arquitetura barroca de Friedrich Joachim Stengel, cujas obras-primas, como a Ludwigskirche e o Castelo de Saarbrücken, ainda hoje embelezam a paisagem urbana. A Ludwigskirche é considerada uma das mais importantes igrejas barrocas protestantes da Alemanha e constitui a peça central de um conjunto arquitetonicamente harmonioso. Devido à sua localização direta na fronteira com a França, a cidade tem um toque especial que se reflete na gastronomia e no modo de vida dos seus habitantes. O Sarre corre pelo centro da cidade e as suas margens, bem como o vizinho Jardim Franco-Alemão, convidam-no a relaxar no campo. Como cidade universitária e sede de numerosos institutos de investigação, Saarbrücken combina a tradição histórica com a inovação orientada para o futuro.",
-      fr: "Sarrebruck est la capitale dynamique de la Sarre et un pôle culturel et économique majeur au carrefour de l'Allemagne, de la France et du Luxembourg. La ville est profondément marquée par l'architecture baroque de Friedrich Joachim Stengel, dont les chefs-d'œuvre, tels que la Ludwigskirche et le château de Sarrebruck, ornent encore aujourd'hui le paysage urbain. La Ludwigskirche est considérée comme l'une des plus importantes églises baroques protestantes d'Allemagne et constitue le cœur d'un ensemble architectural harmonieux. Sa situation frontalière directe avec la France confère à la ville un charme particulier, qui se retrouve dans la gastronomie et l'art de vivre de ses habitants. La Sarre traverse le centre-ville, et ses berges aménagées, tout comme le jardin franco-allemand tout proche, offrent des espaces de détente verdoyants. Ville universitaire accueillant de nombreux instituts de recherche, Sarrebruck allie traditions historiques et innovations d'avenir.",
+      de: "Saarbrücken ist die einzige Großstadt und das politische sowie wirtschaftliche Zentrum des Saarlandes. Die Stadt an der Saar blickt auf eine wechselvolle Geschichte zurück, die eng mit der deutsch-französischen Grenzlage verknüpft ist. Ursprünglich aus der römischen Siedlung 'Vicus Saravus' hervorgegangen, entwickelte sich Saarbrücken unter den Fürsten von Nassau-Saarbrücken zu einer prachtvollen Residenzstadt. Das Stadtbild wurde im 18. Jahrhundert maßgeblich vom Barockbaumeister Friedrich Joachim Stengel geprägt, dessen Hauptwerk, die Ludwigskirche, als eine der bedeutendsten evangelischen Barockkirchen Deutschlands gilt. Die industrielle Revolution machte die Stadt durch Kohle und Stahl zu einem Kraftzentrum, was jedoch im 20. Jahrhundert zu schweren Zerstörungen im Zweiten Weltkrieg führte. Nach 1945 stand Saarbrücken unter französischer Verwaltung und war Teil eines autonomen Saarstaates, bevor es 1957 nach einer Volksabstimmung an die Bundesrepublik Deutschland angeschlossen wurde. Heute vollzieht die Stadt den Strukturwandel von der Montanindustrie hin zu einem High-Tech- und Dienstleistungsstandort. Die Universität des Saarlandes ist international für ihre Informatikforschung bekannt. Kulturell bietet der St. Johanner Markt mit seinen Cafés und Boutiquen ein fast mediterranes Flair, während das Staatstheater und zahlreiche Museen wie das Saarlandmuseum für ein reiches Angebot sorgen. Die Nähe zu Frankreich prägt den Alltag und die Mentalität der 'Saarbrigger', was sich besonders in der grenzüberschreitenden Zusammenarbeit innerhalb der QuattroPole-Region (mit Metz, Luxemburg und Trier) zeigt.",
+      hu: "Saarbrücken a legkisebb német tartomány, Saar-vidék fővárosa és egyetlen nagyvárosa, amely közvetlenül a francia határ mellett, a Saar folyó partján fekszik. A város történetét alapvetően meghatározta a Németország és Franciaország közötti évszázados vetélkedés. A római alapokra épült település a középkorban a Nassau-Saarbrücken grófok székhelye lett, fénykorát pedig a 18. században élte, amikor Friedrich Joachim Stengel építész barokk stílusban formálta át a városképet. Legfontosabb műve, a Ludwigskirche, a német barokk építészet egyik csúcspontja. A 19. században a környék gazdag szénlelőhelyei miatt a város az ipari forradalom egyik motorjává vált, hatalmas acélművek és bányák épültek. A világháborúk után Saarbrücken sorsa hányatott volt: 1947 és 1956 között egy Franciaországgal gazdasági egységben lévő, de formailag önálló állam központja volt, majd 1957-ben csatlakozott az NSZK-hoz. Ez a sajátos múlt máig érezhető a város kozmopolita, francia befolyás alatt álló légkörén és gasztronómiáján. A nehézipar hanyatlása után a város tudományos központtá alakult; a Saar-vidéki Egyetem különösen az informatika és a mesterséges intelligencia kutatásában jár az élen. A turisták számára a St. Johanner Markt környéke kínál hangulatos tereket, a modern művészet kedvelőit pedig a Saarlandmuseum várja. A város fontos közlekedési csomópont, az ICE-vonal révén Párizs alig két óra alatt elérhető, ami tovább erősíti a régió európai hídszerepét.",
+      ro: "Saarbrücken este capitala landului Saarland și cel mai important centru urban din sud-vestul Germaniei, situat la granița directă cu Franța. Orașul are o identitate unică, modelată de numeroasele schimbări de suveranitate între cele două mari puteri europene. Primele atestări datează din epoca romană, dar dezvoltarea majoră a avut loc sub dinastia Nassau-Saarbrücken. Arhitectul baroc Friedrich Joachim Stengel a transformat orașul în secolul al XVIII-lea, creând ansambluri monumentale precum Ludwigsplatz și Castelul Saarbrücken. Industrializarea a adus prosperitate prin exploatarea cărbunelui și siderurgie, dar a transformat orașul și într-o țintă strategică, fiind distrus în proporție de 90% în timpul celui de-al Doilea Război Mondial. Un aspect fascinant al istoriei sale recente este perioada 1947-1956, când Saarbrücken a fost capitala unui protectorat francez cvasi-independent, participând chiar la Jocurile Olimpice cu o echipă proprie, înainte de a reveni la Germania în 1957. Astăzi, orașul este un model de reconversie economică, punând accent pe cercetare și tehnologia informației, găzduind institute de renume precum Max Planck. Viața culturală este vibrantă, marcată de festivaluri internaționale de film și teatru. Piața St. Johanner Markt reprezintă inima socială a orașului, loc unde se resimte influența franceză prin „savoir-vivre”-ul local. Cu o rețea de tramvai-tren care traversează granița până în Franța, Saarbrücken este simbolul cooperării europene, făcând parte din rețeaua QuattroPole și promovând un dialog bilingv permanent în administrație și educație.",
+      en: "Saarbrücken is the capital and largest city of the German state of Saarland, situated on the banks of the Saar River directly on the French border. Its history is a testament to the shifting tides of European politics, as the city has passed between German and French control multiple times. Originally a Roman settlement, it rose to prominence as the residence of the Princes of Nassau-Saarbrücken. The city's golden age occurred in the 18th century under court architect Friedrich Joachim Stengel, who designed the iconic Ludwigskirche, widely regarded as one of Germany's most beautiful Protestant Baroque churches. During the industrial era, Saarbrücken became a powerhouse of coal mining and steel production, industries that shaped its social fabric for over a century. After WWII, the city was the center of an independent Saar state under French oversight until 1957, when it officially joined West Germany following a referendum. Today, Saarbrücken has successfully transitioned into a hub for information technology and science; the University of Saarland is a leading center for computer science and cybersecurity. The city’s French-influenced lifestyle, known as 'Savoir Vivre,' is evident in its culinary scene and the lively atmosphere of the St. Johanner Markt. Major landmarks include the Saarbrücken Castle, which combines Baroque and modern elements, and the nearby Völklingen Ironworks, a UNESCO World Heritage site that reflects the region's industrial heritage. As part of the QuattroPole cross-border network, Saarbrücken plays a vital role in European integration, serving as a gateway between German and French cultures.",
     },
     factsAdvanced: {
-      de: ["Saarbrücken wurde im Jahr 1957 Hauptstadt des neuen Bundeslandes Saarland.", "Die Ludwigskirche ist ein Meisterwerk des Barock-Architekten Stengel.", "Die Stadt liegt direkt an der Grenze zum Nachbarland Frankreich.", "Das Saarbrücker Schloss besitzt einen modernen Mittelbau aus Glas.", "Der Deutsch-Französische Garten wurde im Jahr 1960 eröffnet.", "Die Universität des Saarlandes hat ihren Hauptsitz in der Stadt."],
-      hu: ["Saarbrücken 1957-ben lett az új Saar-vidék tartomány fővárosa.", "A Ludwigskirche Stengel barokk építész egyik mesterműve.", "A város közvetlenül a szomszédos Franciaország határán fekszik.", "A saarbrückeni kastély modern, üvegből készült középső résszel rendelkezik.", "A Német-Francia Kert 1960-ban nyílt meg.", "A Saar-vidéki Egyetem székhelye a városban található."],
-      ro: ["Saarbrücken a devenit capitala noului land Saarland în anul 1957.", "Biserica Ludwig este o capodoperă a arhitectului baroc Stengel.", "Orașul este situat direct la granița cu țara vecină, Franța.", "Castelul din Saarbrücken are o secțiune centrală modernă din sticlă.", "Grădina Germano-Franceză a fost inaugurată în anul 1960.", "Universitatea din Saarland își are sediul principal în oraș."],
-      en: ["Saarbrücken became the capital of the state of Saarland in 1957.", "The Ludwigskirche is a masterpiece by the Baroque architect Stengel.", "The city is located directly on the border with neighboring France.", "Saarbrücken Castle features a modern central section made of glass.", "The Franco-German Garden was officially opened in the year 1960.", "The University of Saarland is headquartered within the city."],
-      es: ["Saarbrücken se convirtió en capital del nuevo estado federado de Sarre en 1957.", "La Ludwigskirche es una obra maestra del arquitecto barroco Stengel.", "La ciudad se sitúa directamente en la frontera con el país vecino, Francia.", "El Castillo de Saarbrücken posee una moderna sección central de cristal.", "El Jardín Franco-Alemán fue inaugurado en el año 1960.", "La Universidad del Sarre tiene su sede principal en la ciudad."],
-      pt: ["Saarbrücken tornou-se a capital do novo estado federal do Sarre em 1957.", "A Ludwigskirche é uma obra-prima do arquiteto barroco Stengel.", "A cidade situa-se diretamente na fronteira com o país vizinho, a França.", "O Castelo de Saarbrücken tem uma secção central moderna feita de vidro.", "O Jardim Franco-Alemão foi inaugurado em 1960.", "A Universidade do Sarre tem a sua sede principal na cidade."],
-      fr: ["Sarrebruck est devenue la capitale du nouveau Land de la Sarre en 1957.", "La Ludwigskirche est un chef-d'œuvre de l'architecte baroque Stengel.", "La ville est située directement à la frontière avec la France.", "Le château de Sarrebruck possède un corps central moderne en verre.", "Le jardin franco-allemand a été inauguré en 1960.", "Le siège principal de l'Université de la Sarre se trouve dans la ville."],
+      de: ["Landeshauptstadt des Saarlandes mit ca. 180.000 Einwohnern.", "Die erste urkundliche Erwähnung erfolgte im Jahr 999 als 'Castellum Sarabrucca'.", "Die Ludwigskirche wurde zwischen 1762 und 1775 von F. J. Stengel erbaut.", "Das Saarland schloss sich am 1. Januar 1957 der Bundesrepublik Deutschland an.", "Die Stadt liegt nur ca. 5 Kilometer von der französischen Grenze entfernt.", "Die Universität des Saarlandes wurde 1948 unter französischer Leitung gegründet.", "Saarbrücken besitzt eine der ältesten Brücken der Region, die Alte Brücke (1546).", "Das Staatstheater wurde 1938 eröffnet und ist ein bedeutendes Mehrspartentheater."],
+      hu: ["Saar-vidék fővárosa, lakossága kb. 180 000 fő.", "A város 1957. január 1-jén lett hivatalosan az NSZK része.", "A Ludwigskirche Németország egyik legjelentősebb barokk temploma.", "A Saar-vidéki Egyetem informatikai tanszéke világszerte az élvonalba tartozik.", "A város neve a kelta 'Sará' (folyó) és a német 'Brücke' (híd) szóból ered.", "A 18. században Friedrich Joachim Stengel három barokk teret tervezett itt.", "Párizs és Saarbrücken között az út TGV-vel mindössze 1 óra 50 perc.", "A város alatt kiterjedt kazamata-rendszer található a 16. századból."],
+      ro: ["Populația orașului este de aproximativ 182.000 de locuitori.", "Prima mențiune documentară datează din anul 999 d.Hr.", "Biserica Ludwigskirche este considerată simbolul orașului.", "Între 1947 și 1956, Saarland a avut monedă și constituție proprie.", "Orașul găzduiește Institutul Max Planck pentru Informatică.", "Podul „Alte Brücke” a fost construit la ordinul lui Carol Quintul.", "Castelul Saarbrücken are o aripă centrală modernă din sticlă și oțel.", "Saarbrücken este situat la o altitudine de 190-400 metri deasupra mării."],
+      en: ["Saarbrücken is the only major city in Saarland, with ~180,000 residents.", "The city was founded on the site of the Roman vicus Saravus.", "Ludwigskirche is one of the 'Big Three' Protestant Baroque churches in Germany.", "The city became German again in 1957 after two decades of French influence.", "The St. Johanner Markt is the heart of the pedestrian zone since 1975.", "Saarbrücken's main station is a stop for the Frankfurt-Paris high-speed line.", "The city's coat of arms features a lion, representing the Counts of Nassau.", "The University of Saarland hosts over 18,000 students from 120 countries."],
     },
     image: "/poi-images/state-capital-saarbruecken-sl-extra.webp",
   },
@@ -1335,7 +1746,138 @@ export const poiExtraDe4b: POI[] = [
       es: ["Segunda ciudad más grande del Sarre después de la capital estatal", "Cierre definitivo de los altos hornos en el año 1982", "Apertura del Saarpark-Center en 1989 en el recinto de la fábrica", "Fundación del Zoo de Neunkirchen ya en el año 1926", "La iglesia Stumm-Kirche como testimonio de la familia industrial Stumm", "Torres de agua protegidas como hitos distintivos de la ciudad"],
       pt: ["Segunda maior cidade do Sarre depois da capital do estado", "Desativação definitiva dos altos-fornos em 1982", "Abertura do Saarpark-Center em 1989 no terreno da antiga fábrica", "Fundação do Jardim Zoológico de Neunkirchen já em 1926", "A Igreja de Stumm como testemunho da família industrial Stumm", "Torres de água protegidas como marcos distintivos da cidade"],
       fr: ["Deuxième ville de la Sarre après la capitale du Land", "Arrêt définitif des hauts fourneaux en 1982", "Ouverture du Saarpark-Center en 1989 sur le site de l'usine", "Fondation du zoo de Neunkirchen dès 1926", "L'église Stumm comme témoignage de la famille industrielle Stumm", "Châteaux d'eau classés monuments historiques comme emblèmes de la ville"],
-    }, image: "/poi-images/city-neunkirchen-sl-extra.webp"},
+    }, image: "/poi-images/city-neunkirchen-sl-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Altes Hüttenareal",
+                  "text": "Ein beeindruckendes Industriedenkmal mit ehemaligen Hochöfen, das die Stahlgeschichte der Stadt erlebbar macht.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Neunkircher Zoo",
+                  "text": "Ein familienfreundlicher Tierpark mit einer großen Vielfalt an Tieren und einer bekannten Falknerei.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stumm-Kirche",
+                  "text": "Eine historistische Kirche, die von der Industriellenfamilie Stumm gestiftet wurde und markant das Stadtbild prägt.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Spitzbunker",
+                  "text": "Ein seltener Hochbunker in Zigarrenform aus dem Zweiten Weltkrieg, der heute als historisches Mahnmal dient.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wagwiesental",
+                  "text": "Ein städtischer Park, der Raum für Erholung, Sport und Veranstaltungen im Grünen bietet.",
+                  "category": "park",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Régi Vasmű Területe",
+                  "text": "Lenyűgöző ipari műemlék egykori kohókkal, amely bemutatja a város acélgyártásának jelentős történelmét.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Neunkircheni Állatkert",
+                  "text": "Népszerű állatkert sokféle fajjal és látványos ragadozómadár-bemutatókkal, ideális úti cél családok számára.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stumm-templom",
+                  "text": "A Stumm iparoscsalád által építtetett historizáló stílusú templom, amely a város egyik építészeti jelképe.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hegyes bunker",
+                  "text": "Ritka, szivar alakú betonbunker a második világháborúból, amely ma történelmi mementóként áll a városban.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wagwiesental park",
+                  "text": "Városi szabadidőpark zöldfelületekkel, játszóterekkel és sportolási lehetőségekkel Neunkirchen szívében.",
+                  "category": "park",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vechiul Sit Industrial",
+                  "text": "Un monument industrial impresionant cu furnale vechi, mărturie a epocii de aur a producției de oțel în regiune.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădina Zoologică Neunkirchen",
+                  "text": "Un parc zoologic modern ce găzduiește numeroase specii de animale și oferă spectacole fascinante cu șoimi.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Stumm",
+                  "text": "O biserică monumentală ctitorită de familia de industriași Stumm, remarcabilă prin arhitectura sa neogotică.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Buncărul Spitz",
+                  "text": "Un turn-buncăr în formă de rachetă din Al Doilea Război Mondial, reprezentând un obiectiv istoric rar în Germania.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Valea Wagwiesen",
+                  "text": "Zonă verde de recreere în centrul orașului, ideală pentru sport, plimbări și evenimente culturale în aer liber.",
+                  "category": "park",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Ironworks Site",
+                  "text": "An impressive industrial monument featuring former blast furnaces and remnants of the city's steel industry.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Neunkirchen Zoo",
+                  "text": "A popular zoo known for its diverse animal collection and professional falconry displays.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stumm Church",
+                  "text": "A historicist church funded by the influential Stumm family, dominating the Neunkirchen skyline.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Spitzbunker",
+                  "text": "A rare, cigar-shaped air-raid shelter from World War II, preserved as a historical landmark.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wagwiesental",
+                  "text": "The central urban park of Neunkirchen, offering green spaces, trails, and leisure facilities.",
+                  "category": "park",
+                  "confidence": "high"
+            }
+      ]
+}
+  },
 
   {
     id: "city-homburg-sl-extra",
@@ -1402,7 +1944,138 @@ export const poiExtraDe4b: POI[] = [
       es: ["Cuentan con las cuevas de arenisca roja más grandes de Europa en el Schlossberg.", "Sede del Hospital Universitario del Sarre desde 1947.", "Marcada económicamente por actores globales como Bosch y Michelin.", "Tercera ciudad más grande del estado federado del Sarre.", "Destacado museo romano en el distrito de Schwarzenacker.", "Restos de la fortaleza de Hohenburg que datan del siglo XII."],
       pt: ["Maiores grutas de arenito colorido da Europa no Schlossberg.", "Sede do Hospital Universitário do Sarre desde 1947.", "Marcada economicamente por empresas globais como Bosch e Michelin.", "Terceira maior cidade do estado do Sarre.", "Importante museu romano no bairro de Schwarzenacker.", "Vestígios da fortaleza de Hohenburg do século XII."],
       fr: ["Plus grandes grottes de grès bigarré d'Europe dans le Schlossberg.", "Siège du Centre hospitalier universitaire de Sarre depuis 1947.", "Économie portée par des leaders mondiaux comme Bosch et Michelin.", "Troisième ville du Land de Sarre par sa population.", "Musée romain de premier plan dans le quartier de Schwarzenacker.", "Vestiges de la forteresse de Hohenburg remontant au XIIe siècle."],
-    }, image: "/poi-images/city-homburg-sl-extra.webp"},
+    }, image: "/poi-images/city-homburg-sl-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Schlossberghöhlen",
+                  "text": "Europas größte Buntsandsteinhöhlen mit riesigen Domen und geheimnisvollen Gängen unter der Ruine Hohenburg.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ruine Hohenburg",
+                  "text": "Die Überreste einer einst mächtigen Festungsanlage auf dem Schlossberg mit weitem Blick über das Saarland.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Römermuseum Schwarzenacker",
+                  "text": "Ein archäologisches Freilichtmuseum, das ausgegrabene Teile einer römischen Siedlung und Villen zeigt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schloss Karlsberg",
+                  "text": "Die Ruinen einer ehemals prunkvollen barocken Schlossanlage im Wald, heute ein Ziel für Wanderer.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jägersburger Weiher",
+                  "text": "Ein beliebtes Naherholungsgebiet mit Seen, Bootsverleih und einem Kletterpark am Stadtrand von Homburg.",
+                  "category": "lake",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schlossbergi barlangok",
+                  "text": "Európa legnagyobb tarka homokkő barlangrendszere hatalmas termekkel a Hohenburg várrom alatt.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hohenburg várrom",
+                  "text": "Egy egykor hatalmas erődítmény maradványai a várhegyen, ahonnan csodás kilátás nyílik a Saar-vidékre.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schwarzenackeri Római Múzeum",
+                  "text": "Régészeti szabadtéri múzeum, amely egy római kori település utcáit, házait és mozaikjait mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Karlsberg-kastély romjai",
+                  "text": "Egy valaha pompás barokk kastély maradványai az erdő mélyén, amely ma kedvelt túracélpont.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jägersburgi-tavak",
+                  "text": "Népszerű pihenőövezet tavakkal, csónakázási lehetőséggel és kalandparkkal Homburg határában.",
+                  "category": "lake",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Peșterile Schlossberg",
+                  "text": "Cele mai mari peșteri de gresie colorată din Europa, cu domuri uriașe săpate sub ruinele cetății Hohenburg.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ruinele Cetății Hohenburg",
+                  "text": "Vestigiile unei fortărețe medievale impunătoare situate pe dealul castelului, oferind o panoramă superbă.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Roman Schwarzenacker",
+                  "text": "Un parc arheologic în aer liber care expune ruinele unui vicus roman, inclusiv case și ateliere reconstruite.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Karlsberg",
+                  "text": "Ruinele unui fost palat baroc grandios, situat într-o zonă împădurită ideală pentru drumeții istorice.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lacul Jägersburg",
+                  "text": "Zonă de agrement cu lacuri, facilități pentru sporturi nautice și un parc de aventură în natură.",
+                  "category": "lake",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schlossberg Caves",
+                  "text": "Europe's largest colorful sandstone caves, featuring massive halls and tunnels underneath the Hohenburg ruins.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hohenburg Castle Ruins",
+                  "text": "The remnants of a once powerful fortress on the Schlossberg hill, offering panoramic views over the Saarland.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schwarzenacker Roman Museum",
+                  "text": "An open-air archaeological museum showcasing excavated Roman villas and a trade settlement.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Karlsberg Castle Ruins",
+                  "text": "The ruins of what was once a grand Baroque palace complex in the forest, now a destination for hikers.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jägersburg Ponds",
+                  "text": "A popular recreation area with scenic lakes, boat rentals, and a high-ropes course on Homburg's outskirts.",
+                  "category": "lake",
+                  "confidence": "high"
+            }
+      ]
+}
+  },
 
   {
     id: "river-blies-sl-extra",
@@ -1873,7 +2546,138 @@ export const poiExtraDe4b: POI[] = [
       es: ["La ciudad fue fundada el 18 de enero de 1680 por decreto de Luis XIV.", "El Großer Markt fue concebido originalmente como la plaza de armas central de la guarnición.", "Saarlouis fue capital de un distrito francés de 1793 a 1810.", "La fortaleza poseía seis bastiones con nombres de miembros de la familia real.", "En 1815 la ciudad fue asignada a la región prusiana de Tréveris.", "El Mariscal de Francia, Michel Ney, nació en 1769 en Saarlouis."],
       pt: ["A cidade foi fundada em 18 de janeiro de 1680 por decreto de Luís XIV.", "O Großer Markt foi originalmente concebido como a praça de armas central da guarnição.", "Saarlouis foi capital de um distrito francês de 1793 a 1810.", "A fortaleza possuía seis bastiões com nomes de membros da família real.", "Em 1815, a cidade foi atribuída à região prussiana de Trier.", "O Marechal de França, Michel Ney, nasceu em 1769 em Saarlouis."],
       fr: ["La ville a été fondée le 18 janvier 1680 par décret de Louis XIV.", "Le Großer Markt était à l'origine conçu comme la place d'armes centrale de la garnison.", "Sarrelouis fut la capitale d'un arrondissement français de 1793 à 1810.", "La forteresse possédait six bastions nommés d'après des membres de la famille royale.", "En 1815, la ville fut rattachée au district prussien de Trèves.", "Le maréchal de France, Michel Ney, est né en 1769 à Sarrelouis."],
-    }, image: "/poi-images/city-saarlouis-sl-extra.webp"},
+    }, image: "/poi-images/city-saarlouis-sl-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Vauban-Festung",
+                  "text": "Die historischen Festungsanlagen wurden im 17. Jahrhundert vom Baumeister Vauban im Auftrag von Ludwig XIV. als Grenzfestung errichtet.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Großer Markt",
+                  "text": "Der zentrale Marktplatz der Stadt diente einst als Exerzierplatz und beeindruckt heute durch seine streng geometrische, weitläufige Form.",
+                  "category": "historic square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ludwigskirche",
+                  "text": "Ein bedeutendes barockes Gotteshaus am Großen Markt, das nach der Zerstörung im Zweiten Weltkrieg originalgetreu wieder aufgebaut wurde.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vauban-Insel",
+                  "text": "Ehemals Teil der Verteidigungsanlagen, dient die Insel heute als grüner Park mit dem Denkmal des Marschalls Ney und kulturellen Events.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saarlouiser Rathaus",
+                  "text": "Das Gebäude beherbergt den prachtvollen Gobelinsaal mit Wandteppichen, die Szenen aus der Geschichte der Stadt und Ludwig XIV. zeigen.",
+                  "category": "town hall",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vauban-erőd",
+                  "text": "A 17. századi határvédelmi erődrendszert Vauban építőmester tervezte XIV. Lajos francia király megbízásából a Saar-folyó partján.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Großer Markt",
+                  "text": "A város központi tere, amely egykor katonai gyakorlótér volt, ma pedig tágas, geometrikus formájával uralja a belvárost.",
+                  "category": "historic square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Lajos-templom",
+                  "text": "A főtéren álló jelentős barokk katolikus templom, amelyet a második világháborús pusztítás után az eredeti tervek szerint építettek újjá.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vauban-sziget",
+                  "text": "Az egykori erődítmény maradványain kialakított park, ahol Ney marsall emlékműve áll és szabadtéri kulturális programokat tartanak.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Városháza",
+                  "text": "A modern épület híres a Gobelin-terméről, ahol XIV. Lajos korát idéző értékes falikárpitok díszítik a tanácskozóhelyiséget.",
+                  "category": "town hall",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fortăreața Vauban",
+                  "text": "Sistemul istoric de fortificații construit în secolul al XVII-lea de celebrul arhitect Vauban la ordinul regelui Ludovic al XIV-lea.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Mare",
+                  "text": "Această piață centrală vastă a servit inițial ca teren de paradă militară și păstrează structura geometrică specifică planului francez.",
+                  "category": "historic square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfântul Ludovic",
+                  "text": "O biserică barocă emblematică situată în piața centrală, reconstruită cu grijă după ce a fost grav avariată în Al Doilea Război Mondial.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Insula Vauban",
+                  "text": "Fost element defensiv, insula este acum o zonă verde de recreere care găzduiește monumentul Mareșalului Ney și evenimente culturale.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria Saarlouis",
+                  "text": "Sediul administrației orașului este cunoscut pentru Sala Goblenurilor, decorată cu tapiserii ce ilustrează istoria fondării cetății.",
+                  "category": "town hall",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vauban Fortress",
+                  "text": "A massive 17th-century fortification designed by Vauban for King Louis XIV to defend the French border along the Saar river.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Großer Markt",
+                  "text": "The city's expansive central square, originally a parade ground for the French garrison, reflecting the town's geometric layout.",
+                  "category": "historic square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Ludwig Church",
+                  "text": "A significant Baroque church on the main square, meticulously restored to its former glory after being destroyed during World War II.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vauban Island",
+                  "text": "Once part of the outer defenses, this green island now features a monument to Marshal Ney and serves as a popular event venue.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saarlouis Town Hall",
+                  "text": "The building is famous for its Gobelin Hall, which contains historical tapestries depicting the city's royal French heritage.",
+                  "category": "town hall",
+                  "confidence": "high"
+            }
+      ]
+}
+  },
 
   {
     id: "historical-mettlach-abbey-sl-extra",

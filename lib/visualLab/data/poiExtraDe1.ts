@@ -69,7 +69,162 @@ export const poiExtraDe1: POI[] = [
       es: ["Ingolstadt fue mencionada por primera vez en un documento en el año 806.", "La Universidad de Ingolstadt existió desde 1472 hasta 1800.", "La Ley de Pureza de la cerveza se proclamó el 23 de abril de 1516.", "La Kreuztor es la única conservada de las cuatro puertas principales originales.", "Audi emplea a más de 40.000 personas en Ingolstadt.", "El Palacio Nuevo alberga hoy el Museo del Ejército Bávaro."],
       pt: ["Ingolstadt foi mencionada pela primeira vez num documento no ano 806.", "A Universidade de Ingolstadt existiu de 1472 a 1800.", "A Lei da Pureza para a cerveja foi proclamada em 23 de abril de 1516.", "A Kreuztor é a única porta sobrevivente das originalmente quatro portas principais.", "A Audi emprega mais de 40.000 funcionários em Ingolstadt.", "O Castelo Novo alberga hoje o Museu do Exército Bávaro."],
       fr: ["Ingolstadt a été mentionnée pour la première fois en 806.", "L'Université d'Ingolstadt a existé de 1472 à 1800.", "Le décret de pureté de la bière a été proclamé le 23 avril 1516.", "La Kreuztor est la seule conservée des quatre portes principales d'origine.", "Audi emploie plus de 40 000 personnes à Ingolstadt.", "Le Nouveau Château abrite aujourd'hui le musée de l'armée bavaroise."],
-    }, image: "/poi-images/city-ingolstadt-extra.webp"},
+    }, image: "/poi-images/city-ingolstadt-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Audi Forum Ingolstadt",
+                  "text": "Ein modernes Erlebniszentrum rund um die Marke Audi mit dem museum mobile und interessanten Werksführungen.",
+                  "category": "industry",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Neues Schloss",
+                  "text": "Der herzogliche Bau aus dem 15. Jahrhundert beherbergt heute das Bayerische Armeemuseum mit bedeutenden Militaria.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Liebfrauenmünster",
+                  "text": "Die spätgotische Hallenkirche beeindruckt durch ihren gewaltigen Dachstuhl und den kostbaren Hochaltar.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kreuztor",
+                  "text": "Das Wahrzeichen der Stadt ist das schönste erhaltene Stadttor der einstigen Festung Ingolstadt aus dem 14. Jahrhundert.",
+                  "category": "gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Deutsches Medizinhistorisches Museum",
+                  "text": "In der barocken Anatomie untergebracht, zeigt es die Geschichte der Medizin von der Antike bis heute.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Klenzepark",
+                  "text": "Das ehemalige Landesgartenschaugelände am Donauufer verbindet historische Festungsbauten mit modernen Freizeitflächen.",
+                  "category": "park",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Audi Forum Ingolstadt",
+                  "text": "Modern élményközpont az Audi márka jegyében, amely magában foglalja a museum mobile-t és gyárlátogatásokat kínál.",
+                  "category": "industry",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Új kastély (Neues Schloss)",
+                  "text": "A 15. századi hercegi épület ma a Bajor Hadseregmúzeumnak ad otthont, jelentős katonai gyűjteménnyel.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Miasszonyunk-templom",
+                  "text": "A késő gótikus csarnoktemplom hatalmas tetőszerkezetével és értékes főoltárával nyűgözi le a látogatókat.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kreuztor",
+                  "text": "A város jelképe a 14. századi ingolstadti erőd legszebb épségben maradt városkapuja.",
+                  "category": "gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Német Orvostörténeti Múzeum",
+                  "text": "A barokk anatómiai épületben elhelyezett múzeum az orvostudomány történetét mutatja be az ókortól napjainkig.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Klenzepark",
+                  "text": "A Duna partján fekvő park a történelmi erődítményeket ötvözi modern szabadidős területekkel.",
+                  "category": "park",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Audi Forum Ingolstadt",
+                  "text": "Un centru modern dedicat mărcii Audi, care include muzeul 'museum mobile' și oferă tururi captivante ale fabricii.",
+                  "category": "industry",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Nou",
+                  "text": "Clădirea ducală din secolul al XV-lea găzduiește astăzi Muzeul Armatei Bavareze, cu piese militare deosebite.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala Liebfrauenmünster",
+                  "text": "Biserica gotică târzie impresionează prin structura masivă a acoperișului și altarul principal prețios.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Poarta Kreuztor",
+                  "text": "Simbolul orașului, este cea mai frumoasă poartă păstrată a fostei cetăți Ingolstadt, datând din secolul al XIV-lea.",
+                  "category": "gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul German de Istorie a Medicinei",
+                  "text": "Găzduit într-o clădire barocă de anatomie, prezintă evoluția medicinei din antichitate până în prezent.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Klenze",
+                  "text": "Situat pe malul Dunării, parcul îmbină fortificațiile istorice cu spații moderne de recreere și relaxare.",
+                  "category": "park",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Audi Forum Ingolstadt",
+                  "text": "A modern brand experience center featuring the 'museum mobile' and fascinating guided factory tours.",
+                  "category": "industry",
+                  "confidence": "high"
+            },
+            {
+                  "name": "New Castle",
+                  "text": "This 15th-century ducal building now houses the Bavarian Army Museum with its significant military collections.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Liebfrauenmünster",
+                  "text": "The late Gothic hall church impresses with its massive roof structure and precious high altar.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kreuztor",
+                  "text": "The city's landmark is the most beautiful surviving gate of the former Ingolstadt fortress, dating to the 14th century.",
+                  "category": "gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "German Museum of Medical History",
+                  "text": "Located in a Baroque anatomy building, it displays the history of medicine from antiquity to the present.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Klenzepark",
+                  "text": "Located on the banks of the Danube, this park combines historic fortress buildings with modern leisure facilities.",
+                  "category": "park",
+                  "confidence": "high"
+            }
+      ]
+}
+  },
 
   {
     id: "city-passau-extra",
@@ -136,7 +291,162 @@ export const poiExtraDe1: POI[] = [
       es: ["En Passau confluyen el Danubio azul, el Inn verde y el Ilz negro.", "El órgano de la catedral tiene 17.974 tubos y 233 registros.", "La Veste Oberhaus fue fundada en el año 1219.", "Passau fue hasta 1803 la capital de un principado eclesiástico.", "La ciudad sufrió en 2013 una de las inundaciones más graves de su historia.", "La Universidad de Passau se inauguró en el año 1978."],
       pt: ["Em Passau confluem o Danúbio azul, o Inn verde e o Ilz preto.", "O órgão da catedral possui 17.974 tubos e 233 registos.", "A Veste Oberhaus foi fundada no ano 1219.", "Passau foi até 1803 a capital de um principado eclesiástico imperial.", "A cidade sofreu em 2013 uma das mais graves cheias da sua história.", "A Universidade de Passau foi aberta apenas no ano 1978."],
       fr: ["À Passau confluent le Danube bleu, l'Inn vert et l'Ilz noire.", "L'orgue de la cathédrale compte 17 974 tuyaux et 233 registres.", "La Veste Oberhaus a été fondée en 1219.", "Passau fut jusqu'en 1803 la capitale d'une principauté ecclésiastique.", "La ville a subi en 2013 l'une des plus graves inondations de son histoire.", "L'Université de Passau n'a été ouverte qu'en 1978."],
-    }, image: "/poi-images/city-passau-extra.webp"},
+    }, image: "/poi-images/city-passau-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Dom St. Stephan",
+                  "text": "Die barocke Kathedrale beherbergt die größte Domorgel der Welt und ist für ihre prunkvolle Ausstattung berühmt.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Veste Oberhaus",
+                  "text": "Die mächtige Burganlage über der Donau bietet einen spektakulären Blick auf die Dreiflüssestadt und ein Museum.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dreiflüsseeck",
+                  "text": "Der Ort, an dem Donau, Inn und Ilz zusammenfließen, ist ein einzigartiges Naturschauspiel in Passau.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Altes Rathaus",
+                  "text": "Das gotische Gebäude am Donauufer beeindruckt durch seine prachtvollen Rathaussäle und die Hochwassermarken an der Fassade.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wallfahrtskirche Mariahilf",
+                  "text": "Über die 321 Stufen der Wallfahrtstreppe erreicht man die Kirche, die einen herrlichen Blick über Passau bietet.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Glasmuseum Passau",
+                  "text": "Eines der bedeutendsten Glasmuseen weltweit, das die Geschichte des böhmischen Glases in prächtigen Räumen zeigt.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szent István-székesegyház",
+                  "text": "A barokk katedrális a világ legnagyobb orgonájának ad otthont, és díszes belső teréről nevezetes.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Veste Oberhaus",
+                  "text": "A Duna feletti hatalmas várkomplexum látványos kilátást nyújt a három folyó városára és múzeumnak ad otthont.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hármas-folyó torkolat",
+                  "text": "A hely, ahol a Duna, az Inn és az Ilz folyók találkoznak, Passau egyedülálló természeti látványossága.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Régi Városháza",
+                  "text": "A Duna partján álló gótikus épület pompás termeivel és a homlokzatán látható árvízszintekkel hívja fel magára a figyelmet.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mariahilf kegytemplom",
+                  "text": "A 321 lépcsőfokból álló zarándokúton elérhető templom gyönyörű kilátást kínál a városra.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Passaui Üvegmúzeum",
+                  "text": "A világ egyik legjelentősebb üvegmúzeuma, amely a cseh üveggyártás történetét mutatja be pompás termekben.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala Sfântul Ștefan",
+                  "text": "Catedrala barocă adăpostește cea mai mare orgă de biserică din lume și este celebră pentru decorul său fastuos.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Veste Oberhaus",
+                  "text": "Fortăreața impunătoare de deasupra Dunării oferă o vedere spectaculoasă asupra orașului celor trei râuri.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Confluența celor trei râuri",
+                  "text": "Locul unde Dunărea, Innul și Ilzul se întâlnesc reprezintă un spectacol natural unic în Passau.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria Veche",
+                  "text": "Clădirea gotică de pe malul Dunării impresionează prin sălile sale magnifice și cotele de inundație de pe fațadă.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Mariahilf",
+                  "text": "Accesibilă prin cele 321 de trepte ale scării de pelerinaj, biserica oferă o panoramă superbă asupra orașului.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Sticlei din Passau",
+                  "text": "Unul dintre cele mai importante muzee de sticlă din lume, prezentând istoria sticlei boemiene în camere luxoase.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. Stephen's Cathedral",
+                  "text": "This Baroque cathedral houses the world's largest church organ and is famous for its opulent interior.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Veste Oberhaus",
+                  "text": "The mighty fortress complex above the Danube offers spectacular views of the 'City of Three Rivers' and a museum.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Three Rivers Confluence",
+                  "text": "The point where the Danube, Inn, and Ilz rivers meet is a unique natural spectacle in Passau.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Town Hall",
+                  "text": "The Gothic building on the Danube banks impresses with its grand halls and flood markers on the facade.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mariahilf Pilgrimage Church",
+                  "text": "Reached via 321 pilgrimage steps, this church offers a wonderful panoramic view over Passau.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Passau Glass Museum",
+                  "text": "One of the world's most significant glass museums, showcasing the history of Bohemian glass in grand rooms.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ]
+}
+  },
 
   {
     id: "mnt-wendelstein-extra",
@@ -751,6 +1061,184 @@ export const poiExtraDe1: POI[] = [
       fr: ["À Münster, on compte environ 500 000 vélos pour environ 310 000 habitants.", "La ville a été officiellement fondée en l'an 793.", "La Paix de Westphalie fut signée en 1648 après cinq ans de négociations.", "L'Université de Münster compte plus de 45 000 étudiants.", "Environ 91 % de la vieille ville fut détruite pendant la Seconde Guerre mondiale.", "Le Prinzipalmarkt se compose d'un total de 48 maisons à pignons."],
     },
     image: "/poi-images/city-muenster-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "St.-Paulus-Dom",
+                  "text": "Die Kathedrale aus dem 13. Jahrhundert besticht durch ihre astronomische Uhr und die Mischung aus Romanik und Gotik.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Historisches Rathaus",
+                  "text": "Ein gotischer Prachtbau, in dem 1648 der Westfälische Friede zur Beendigung des Dreißigjährigen Krieges unterzeichnet wurde.",
+                  "category": "town-hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Prinzipalmarkt",
+                  "text": "Die historische Marktstraße wird von charakteristischen Giebelhäusern und Bogengängen gesäumt, die das Stadtbild prägen.",
+                  "category": "square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schloss Münster",
+                  "text": "Das barocke Residenzschloss des ehemaligen Fürstbischofs dient heute als Hauptgebäude der Westfälischen Wilhelms-Universität.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lambertikirche",
+                  "text": "Bekannt für die drei Käfige am Turm, in denen einst die Leichen der Wiedertäufer zur Schau gestellt wurden.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "LWL-Museum für Kunst und Kultur",
+                  "text": "Ein bedeutendes Kunstmuseum, das Werke vom Mittelalter bis zur Gegenwart in einem modernen Neubau präsentiert.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aasee",
+                  "text": "Ein weitläufiger künstlicher See nahe der Altstadt, der als Naherholungsgebiet für Spaziergänge und Wassersport dient.",
+                  "category": "park",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szent Pál-székesegyház",
+                  "text": "A 13. századi katedrális híres a csillagászati órájáról és a román-gótikus építészeti stílusok ötvözetéről.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Történelmi Városháza",
+                  "text": "Gótikus épület, ahol 1648-ban aláírták a vesztfáliai békét, lezárva a harmincéves háborút Európában.",
+                  "category": "town-hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Prinzipalmarkt",
+                  "text": "Münster főtere jellegzetes árkádos házaival és díszes homlokzataival a város kereskedelmi és történelmi szíve.",
+                  "category": "square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Münsteri kastély",
+                  "text": "A korábbi hercegérseki rezidencia barokk épülete ma az egyetem központi igazgatási épületeként funkcionál.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Lambert-templom",
+                  "text": "A templom tornyán függő három vasketrec az újrakeresztelők vezetőinek kivégzésére emlékeztet a 16. századból.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "LWL Művészeti és Kulturális Múzeum",
+                  "text": "Közép-Európa egyik jelentős múzeuma, amely a középkortól napjainkig mutatja be a régió művészeti emlékeit.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aasee-tó",
+                  "text": "Népszerű pihenőhely a város szélén, ahol vitorlázásra, sétára és szabadtéri szobrok megtekintésére van lehetőség.",
+                  "category": "park",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala Sfântul Paul",
+                  "text": "Această catedrală din secolul al XIII-lea este renumită pentru ceasul său astronomic și arhitectura impresionantă.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria Istorică",
+                  "text": "Clădire gotică celebră pentru Sala Păcii, unde s-a semnat Tratatul de la Westfalia în anul 1648.",
+                  "category": "town-hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Prinzipalmarkt",
+                  "text": "Piața centrală a orașului, mărginită de clădiri istorice cu frontoane distinctive și arcade elegante.",
+                  "category": "square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul din Münster",
+                  "text": "Fosta reședință barocă a prinților-episcopi, actualul sediu principal al universității locale din oraș.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfântul Lambert",
+                  "text": "Cunoscută pentru cele trei cuști de fier expuse pe turn, amintind de rebeliunea anabaptistă din secolul XVI.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul LWL de Artă și Cultură",
+                  "text": "Un muzeu de referință care expune colecții vaste de artă, de la manuscrise medievale la opere contemporane.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lacul Aasee",
+                  "text": "O zonă vastă de recreere situată lângă centru, ideală pentru plimbări cu barca și activități în aer liber.",
+                  "category": "park",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. Paul's Cathedral",
+                  "text": "A 13th-century cathedral featuring a famous astronomical clock and a unique blend of Romanesque and Gothic styles.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Historical City Hall",
+                  "text": "A Gothic building where the Peace of Westphalia was signed in 1648, ending the Thirty Years' War.",
+                  "category": "town-hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Prinzipalmarkt",
+                  "text": "Münster's historic marketplace, lined with characteristic gabled houses and arcades that define the city center.",
+                  "category": "square",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Münster Palace",
+                  "text": "The Baroque residence of former prince-bishops, now serving as the main building of the university.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Lambert's Church",
+                  "text": "Famous for the three iron cages hanging from its spire, which once held the bodies of Anabaptist leaders.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "LWL Museum of Art and Culture",
+                  "text": "A major art museum showcasing regional and international masterpieces from the Middle Ages to the present.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lake Aasee",
+                  "text": "A large artificial lake and recreational area near the city center, popular for sailing and lakeside walks.",
+                  "category": "park",
+                  "confidence": "high"
+            }
+      ]
+}
   },
 
   {
@@ -818,7 +1306,186 @@ export const poiExtraDe1: POI[] = [
       es: ["El monorriel transporta unos 80.000 pasajeros diarios.", "Wuppertal se fundó oficialmente el 1 de agosto de 1929.", "Friedrich Engels nació en 1820 en el distrito de Barmen.", "La ciudad cuenta con unas 500 escaleras públicas.", "Cerca del 30 por ciento del área urbana son bosques y parques.", "La ruta del monorriel tiene un total de 13,3 kilómetros de largo."],
       pt: ["O trem suspenso transporta cerca de 80.000 passageiros por dia.", "Wuppertal foi fundada oficialmente em 1 de agosto de 1929.", "Friedrich Engels nasceu em 1820 no bairro de Barmen.", "A cidade possui cerca de 500 escadarias públicas.", "Cerca de 30 por cento da área urbana consiste em florestas e parques.", "O percurso do trem suspenso tem um total de 13,3 quilómetros de comprimento."],
       fr: ["Le monorail transporte environ 80 000 passagers par jour.", "Wuppertal a été officiellement fondée le 1er août 1929.", "Friedrich Engels est né en 1820 dans le quartier de Barmen.", "La ville dispose d'environ 500 escaliers publics.", "Environ 30 % du territoire communal sont constitués de forêts et de parcs.", "La ligne du monorail mesure au total 13,3 kilomètres de long."],
-    }, image: "/poi-images/city-wuppertal-extra.webp"},
+    }, image: "/poi-images/city-wuppertal-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Wuppertaler Schwebebahn",
+                  "text": "Das Wahrzeichen der Stadt ist eine weltweit einzigartige Einschienen-Hängebahn, die seit 1901 über der Wupper schwebt.",
+                  "category": "transport",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Von der Heydt-Museum",
+                  "text": "Ein bedeutendes Kunstmuseum mit Schwerpunkt auf niederländischer Malerei des 17. Jahrhunderts und dem Impressionismus.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zoo Wuppertal",
+                  "text": "Einer der ältesten und landschaftlich schönsten Zoos Deutschlands, bekannt für seine Elefanten- und Großkatzengehege.",
+                  "category": "zoo",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Skulpturenpark Waldfrieden",
+                  "text": "Vom Bildhauer Tony Cragg gegründet, zeigt der Park moderne Skulpturen inmitten eines idyllischen Waldstücks.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Historische Stadthalle",
+                  "text": "Ein prachtvoller Konzertbau im Stil der Neorenaissance, der für seine herausragende Akustik weltberühmt ist.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Botanischer Garten",
+                  "text": "Auf dem Hardtberg gelegen, bietet der Garten eine Vielfalt an exotischen Pflanzen und einen Blick über das Tal.",
+                  "category": "garden",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ölberg-Viertel",
+                  "text": "Eines der größten zusammenhängenden Arbeiterviertel der Gründerzeit mit engen Gassen und historischem Charme.",
+                  "category": "old-town",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wuppertali függővasút",
+                  "text": "A város jelképe egy egyedülálló egysínű vasút, amely 1901 óta szállítja az utasokat a Wupper folyó felett.",
+                  "category": "transport",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Von der Heydt Múzeum",
+                  "text": "Rangos művészeti múzeum, amely jelentős impresszionista gyűjteménnyel és 17. századi holland festményekkel rendelkezik.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wuppertali Állatkert",
+                  "text": "Németország egyik legszebb fekvésű állatkertje, amely dombos területén több száz különleges állatfajnak ad otthont.",
+                  "category": "zoo",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Waldfrieden Szoborpark",
+                  "text": "Tony Cragg szobrászművész által létrehozott park, ahol kortárs alkotások láthatók egy vadregényes erdőben.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Történelmi Stadthalle",
+                  "text": "Pompás neoreneszánsz hangversenyterem, amely kiváló akusztikája miatt nemzetközileg is elismert koncerthelyszín.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Botanikus kert",
+                  "text": "A Hardt-hegyen fekvő kert egzotikus növényházaival és a városra nyíló panorámájával várja a látogatókat.",
+                  "category": "garden",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ölberg negyed",
+                  "text": "Az egyik legnagyobb összefüggő, wilhelmiánus stílusú munkásnegyed, amely megőrizte történelmi, bohém hangulatát.",
+                  "category": "old-town",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monoraia suspendată din Wuppertal",
+                  "text": "Simbolul orașului, acest tren suspendat unic în lume circulă deasupra râului Wupper încă din anul 1901.",
+                  "category": "transport",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Von der Heydt",
+                  "text": "O instituție culturală de elită care găzduiește opere de artă deosebite, cu un accent pe impresionism.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădina Zoologică Wuppertal",
+                  "text": "Una dintre cele mai vechi grădini zoologice din Germania, situată într-un peisaj natural colinar deosebit.",
+                  "category": "zoo",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul de Sculpturi Waldfrieden",
+                  "text": "Creat de Tony Cragg, acest parc îmbină arta contemporană cu natura într-un cadru forestier liniștit.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria Istorică (Stadthalle)",
+                  "text": "O sală de concerte neoreascentistă spectaculoasă, renumită la nivel mondial pentru acustica sa perfectă.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădina Botanică",
+                  "text": "Amplasată pe dealul Hardtberg, grădina oferă o colecție bogată de plante și vederi panoramice asupra văii.",
+                  "category": "garden",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cartierul Ölberg",
+                  "text": "Un cartier istoric cu arhitectură de la finalul secolului XIX, cunoscut pentru străzile sale înguste și pitorești.",
+                  "category": "old-town",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wuppertal Suspension Railway",
+                  "text": "The city's landmark, a unique suspension monorail that has been gliding over the Wupper River since 1901.",
+                  "category": "transport",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Von der Heydt Museum",
+                  "text": "A major art museum famous for its extensive collection of Dutch 17th-century painting and Impressionist art.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wuppertal Zoo",
+                  "text": "One of Germany's oldest and most scenic zoos, located on a hillside and home to many rare animal species.",
+                  "category": "zoo",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Waldfrieden Sculpture Park",
+                  "text": "Established by sculptor Tony Cragg, this park features modern art installations in a beautiful woodland setting.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Historical City Hall",
+                  "text": "A grand Neo-Renaissance concert hall renowned globally for its exceptional acoustics and ornate interior.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Botanical Garden",
+                  "text": "Located on the Hardt hill, it offers a wide variety of tropical plants and scenic overlooks of the Wupper valley.",
+                  "category": "garden",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ölberg Quarter",
+                  "text": "One of the largest preserved workers' districts from the industrial era, known for its historic charm.",
+                  "category": "old-town",
+                  "confidence": "high"
+            }
+      ]
+}
+  },
 
   {
     id: "river-lippe-extra",
@@ -1367,6 +2034,184 @@ export const poiExtraDe1: POI[] = [
       fr: ["Plus haut clocher du monde (161,53 m)", "Lieu de naissance d'Albert Einstein (1879)", "Pose de la première pierre de la cathédrale en 1377", "Possède l'hôtel le plus incliné du monde", "768 marches mènent au sommet de la tour", "Traditionnel Lundi du Serment (Schwörmontag) depuis le XIVe siècle"],
     },
     image: "/poi-images/city-ulm-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Ulmer Münster",
+                  "text": "Die gotische Kathedrale besitzt mit 161,5 Metern den höchsten Kirchturm der Welt und ist das Wahrzeichen Ulms.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fischerviertel",
+                  "text": "Das historische Viertel an der Mündung der Blau in die Donau besticht durch Fachwerkhäuser und Kanäle.",
+                  "category": "old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ulmer Rathaus",
+                  "text": "Berühmt für seine prächtigen Fassadenmalereien aus der Frührenaissance und die astronomische Uhr von 1520.",
+                  "category": "town-hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schiefes Haus",
+                  "text": "Ein spätgotisches Fachwerkhaus im Fischerviertel, das als das schiefste Hotel der Welt im Guinness-Buch steht.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kloster Wiblingen",
+                  "text": "Die ehemalige Benediktinerabtei beeindruckt vor allem durch ihren prunkvollen Bibliothekssaal im Rokoko-Stil.",
+                  "category": "monastery",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Metzgerturm",
+                  "text": "Ein alter Stadtturm aus dem 14. Jahrhundert, der aufgrund des instabilen Bodens eine deutliche Neigung aufweist.",
+                  "category": "tower",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum Ulm",
+                  "text": "Beherbergt den 'Löwenmenschen', eine über 35.000 Jahre alte Elfenbeinstatue und eines der ältesten Kunstwerke der Welt.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ulmi nagytemplom",
+                  "text": "A világ legmagasabb templomtornyával (161,5 méter) büszkélkedő gótikus székesegyház Ulm legismertebb jelképe.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Halásznegyed (Fischerviertel)",
+                  "text": "A Duna partján fekvő festői negyed fagerendás házaival, csatornáival és hangulatos éttermeivel vonzza a látogatókat.",
+                  "category": "old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ulmi városháza",
+                  "text": "Díszes reneszánsz falfestményeiről és az 1520-ból származó, bonyolult csillagászati órájáról híres épület.",
+                  "category": "town-hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ferde ház (Schiefes Haus)",
+                  "text": "A Halásznegyedben található késő gótikus épület a Guinness Rekordok Könyve szerint a világ legferdébb szállodája.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wiblingeni kolostor",
+                  "text": "Az egykori bencés apátság lenyűgöző rokokó könyvtárterme a dél-németországi barokk építészet remekműve.",
+                  "category": "monastery",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hentes-torony (Metzgerturm)",
+                  "text": "A 14. századi városfal része, amely a talaj süllyedése miatt hasonlóan ferde, mint a pisai torony.",
+                  "category": "tower",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ulmi Múzeum",
+                  "text": "Itt látható az 'Oroszlánember', egy 35 000 éves elefántcsont szobor, amely az emberiség egyik legősibb műalkotása.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala din Ulm",
+                  "text": "Această catedrală gotică deține cel mai înalt turn de biserică din lume, având o înălțime de 161,5 metri.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cartierul Pescari (Fischerviertel)",
+                  "text": "Un cartier istoric pitoresc situat la vărsarea râului Blau în Dunăre, faimos pentru casele cu bârne aparente.",
+                  "category": "old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria din Ulm",
+                  "text": "Cunoscută pentru picturile murale exterioare somptuoase și ceasul astronomic complex instalat în secolul al XVI-lea.",
+                  "category": "town-hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Strâmbă (Schiefes Haus)",
+                  "text": "O clădire medievală înclinată care servește drept hotel, fiind înscrisă în Cartea Recordurilor pentru panta sa.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mănăstirea Wiblingen",
+                  "text": "Fostă abație benedictină renumită pentru biblioteca sa rococo spectaculoasă, una dintre cele mai frumoase din țară.",
+                  "category": "monastery",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turnul Măcelarilor (Metzgerturm)",
+                  "text": "Un turn medieval care face parte din vechea fortificație a orașului, vizibil înclinat din cauza solului instabil.",
+                  "category": "tower",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Ulm",
+                  "text": "Găzduiește celebra sculptură 'Omul-Leu', o figurină din fildeș veche de peste 35.000 de ani.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ulm Minster",
+                  "text": "This Gothic cathedral features the world's tallest church tower at 161.5 meters, offering panoramic views.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fishermen's Quarter",
+                  "text": "A charming historic district with half-timbered houses and canals where the Blau river meets the Danube.",
+                  "category": "old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ulm City Hall",
+                  "text": "Famous for its elaborate Renaissance frescoes and a sophisticated astronomical clock dating back to 1520.",
+                  "category": "town-hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Leaning House (Schiefes Haus)",
+                  "text": "A late-Gothic house in the Fishermen's Quarter, officially the world's most leaning hotel according to Guinness.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wiblingen Abbey",
+                  "text": "A former Benedictine monastery known for its magnificent Rococo library, a masterpiece of Baroque art.",
+                  "category": "monastery",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Butchers' Tower",
+                  "text": "A 14th-century gate tower that leans significantly due to the swampy ground it was built upon.",
+                  "category": "tower",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ulm Museum",
+                  "text": "Home to the 'Lion Man', an ivory figurine over 35,000 years old and one of the oldest known works of art.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ]
+}
   },
 
   {
@@ -1503,7 +2348,186 @@ export const poiExtraDe1: POI[] = [
       es: ["La Universidad Eberhard Karls fue fundada en el año 1477.", "Casi uno de cada tres habitantes de Tübingen es estudiante.", "El ayuntamiento de Tübingen en la plaza del mercado data de 1435.", "Friedrich Hölderlin vivió durante 36 años en la torre de Hölderlin.", "Tübingen se encuentra en el centro geográfico de Baden-Württemberg.", "La ciudad se libró casi por completo de los bombardeos en la Segunda Guerra Mundial."],
       pt: ["A Universidade Eberhard Karls foi fundada no ano de 1477.", "Cerca de um em cada três habitantes de Tübingen é estudante.", "A câmara municipal de Tübingen na praça do mercado data de 1435.", "Friedrich Hölderlin viveu durante 36 anos na torre de Hölderlin.", "Tübingen situa-se no centro geográfico de Baden-Württemberg.", "A cidade foi quase totalmente poupada aos bombardeamentos na Segunda Guerra Mundial."],
       fr: ["L'université Eberhard Karls a été fondée en 1477.", "Environ un habitant sur trois à Tübingen est étudiant.", "L'hôtel de ville de Tübingen sur la place du marché date de 1435.", "Friedrich Hölderlin a vécu pendant 36 ans dans la tour Hölderlin.", "Tübingen se situe au centre géographique du Bade-Wurtemberg.", "La ville fut presque épargnée par les bombardements lors de la Seconde Guerre mondiale."],
-    }, image: "/poi-images/city-tuebingen-extra.webp"},
+    }, image: "/poi-images/city-tuebingen-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Schloss Hohentübingen",
+                  "text": "Das über der Stadt thronende Renaissanceschloss beherbergt heute Institute und das Museum der Universität.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stiftskirche St. Georg",
+                  "text": "Eine bedeutende spätgotische Hallenkirche mit Grablege der württembergischen Herzöge und wertvollen Glasfenstern.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rathaus am Marktplatz",
+                  "text": "Ein prächtiger Bau mit kunstvoller Fassadenmalerei und einer astronomischen Uhr aus dem Jahr 1511.",
+                  "category": "town-hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hölderlinturm",
+                  "text": "Das ehemalige Wohnhaus des Dichters Friedrich Hölderlin am Neckar ist heute eine Gedenkstätte und Museum.",
+                  "category": "tower",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Neckarfront",
+                  "text": "Die berühmte Häuserzeile am Flussufer bietet das klassische Fotomotiv Tübingens mit seinen bunten Fassaden.",
+                  "category": "waterfront",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kloster Bebenhausen",
+                  "text": "Eine sehr gut erhaltene Zisterzienserabtei im Naturpark Schönbuch, die später als Jagdschloss diente.",
+                  "category": "monastery",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Botanischer Garten",
+                  "text": "Gehört zur Universität und zeigt eine beeindruckende Sammlung von Pflanzen aus verschiedenen Klimazonen.",
+                  "category": "garden",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hohentübingen kastély",
+                  "text": "A város felett magasodó reneszánsz várkastély ma az egyetem régészeti gyűjteményének ad otthont.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent György-vártemplom",
+                  "text": "Késő gótikus templom, amely a württembergi hercegek sírhelyeként és lenyűgöző ólomüveg ablakairól ismert.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tübingeni városháza",
+                  "text": "A piactéren álló, gazdagon díszített homlokzatú épület 1511-es csillagászati órája a város egyik fő látványossága.",
+                  "category": "town-hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hölderlin-torony",
+                  "text": "Friedrich Hölderlin költő egykori lakóhelye a Neckar partján, amely ma múzeumként működik.",
+                  "category": "tower",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Neckar-parti házsor",
+                  "text": "A folyóparti színes házak és a rajtuk úszó csónakok (Stocherkahn) Tübingen legnépszerűbb fotótémáját adják.",
+                  "category": "waterfront",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bebenhausen kolostor",
+                  "text": "A városhoz közeli ciszterci apátság és későbbi vadászkastély az egyik legjobb állapotban fennmaradt ilyen jellegű épületegyüttes.",
+                  "category": "monastery",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Botanikus kert",
+                  "text": "Az egyetemhez tartozó kertben különleges növényfajok és trópusi üvegházak várják a természet kedvelőit.",
+                  "category": "garden",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelul Hohentübingen",
+                  "text": "Un castel renascentist impunător situat pe un deal, care găzduiește colecții arheologice ale universității locale.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Colegiată Sfântul Gheorghe",
+                  "text": "O biserică gotică târzie care adăpostește mormintele ducilor de Württemberg și vitralii medievale prețioase.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria din Tübingen",
+                  "text": "Situată în piața centrală, această clădire istorică este celebră pentru fațada pictată și ceasul său astronomic vechi.",
+                  "category": "town-hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turnul Hölderlin",
+                  "text": "Casa memorială a poetului Friedrich Hölderlin, situată pe malul râului Neckar, devenită un simbol cultural al orașului.",
+                  "category": "tower",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Malul Neckarului",
+                  "text": "Faleza pitorească cu case colorate și plimbările tradiționale cu barca sunt definitorii pentru atmosfera orașului.",
+                  "category": "waterfront",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mănăstirea Bebenhausen",
+                  "text": "O fostă mănăstire cisterciană excepțional conservată, situată în parcul natural Schönbuch de lângă oraș.",
+                  "category": "monastery",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădina Botanică",
+                  "text": "Parte a universității, grădina prezintă o diversitate impresionantă de floră din întreaga lume în sere moderne.",
+                  "category": "garden",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hohentübingen Castle",
+                  "text": "A Renaissance castle overlooking the town, now housing several university institutes and an archaeological museum.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. George's Collegiate Church",
+                  "text": "A late-Gothic church known for the tombs of the Dukes of Württemberg and its beautiful stained-glass windows.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tübingen City Hall",
+                  "text": "Located on the market square, it features a brilliantly painted facade and a 16th-century astronomical clock.",
+                  "category": "town-hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hölderlin Tower",
+                  "text": "The former home of poet Friedrich Hölderlin by the Neckar river, now a museum dedicated to his life and work.",
+                  "category": "tower",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Neckar Waterfront",
+                  "text": "The iconic row of colorful houses along the river is the most photographed spot in Tübingen, famous for punting boats.",
+                  "category": "waterfront",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bebenhausen Abbey",
+                  "text": "A beautifully preserved Cistercian monastery and royal hunting palace located in the nearby Schönbuch forest.",
+                  "category": "monastery",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Botanical Garden",
+                  "text": "Owned by the university, this garden features vast collections of global flora and modern greenhouses.",
+                  "category": "garden",
+                  "confidence": "high"
+            }
+      ]
+}
+  },
 
   {
     id: "landmark-hohenzollern-castle-extra",
@@ -1777,7 +2801,144 @@ export const poiExtraDe1: POI[] = [
       es: ["El Concilio de Constanza se celebró de 1414 a 1418.", "La ciudad tiene unos 85.000 habitantes y es una ciudad universitaria.", "La catedral de Constanza se construyó a lo largo de 600 años.", "La estatua de Imperia en el puerto mide 9 metros y pesa 18 toneladas.", "Constanza se ubica en la transición entre el Obersee y el Seerhein.", "El Rin fluye por el medio de la ciudad y allí abandona el lago de Constanza."],
       pt: ["O Concílio de Constança realizou-se de 1414 a 1418.", "A cidade tem cerca de 85.000 habitantes e é uma cidade universitária.", "A Catedral de Constança foi construída ao longo de um período de 600 anos.", "A estátua Imperia no porto tem 9 metros de altura e pesa 18 toneladas.", "Constança situa-se na transição do Obersee para o Seerhein.", "O Reno corre pelo meio da cidade e ali abandona o Lago de Constança."],
       fr: ["Le concile de Constance s'est déroulé de 1414 à 1418.", "La ville compte environ 85 000 habitants et est une ville universitaire.", "La cathédrale de Constance a été bâtie sur une période de 600 ans.", "La statue Imperia dans le port mesure 9 mètres et pèse 18 tonnes.", "Constance est située au passage de l'Obersee au Seerhein.", "Le Rhin coule au milieu de la ville et y quitte le lac de Constance."],
-    }, image: "/poi-images/city-konstanz-extra.webp"},
+    }, image: "/poi-images/city-konstanz-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Konstanzer Münster",
+                  "text": "Die ehemalige Bischofskirche ist eine Basilika mit romanischen und gotischen Elementen im Herzen der historischen Altstadt.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Imperia",
+                  "text": "Die neun Meter hohe Statue an der Hafeneinfahrt ist ein Wahrzeichen der Stadt und erinnert satirisch an das Konzil von Konstanz.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Konzilgebäude",
+                  "text": "Das massive historische Speichergebäude am Hafen war der Schauplatz der Papstwahl während des Konstanzer Konzils im 15. Jahrhundert.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Niederburg",
+                  "text": "Der älteste Stadtteil von Konstanz besticht durch seine engen Gassen, mittelalterlichen Häuser und gemütlichen Weinstuben.",
+                  "category": "old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rathaus Konstanz",
+                  "text": "Das Gebäude beeindruckt durch seine prächtige Renaissance-Fassade mit Fresken, die wichtige Szenen der Stadtgeschichte darstellen.",
+                  "category": "town-hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rheintorturm",
+                  "text": "Dieser gut erhaltene Turm war Teil der mittelalterlichen Stadtbefestigung und bewachte einst die strategische Brücke über den Rhein.",
+                  "category": "tower",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Konstanzi székesegyház",
+                  "text": "A korábbi püspöki templom egy lenyűgöző román és gótikus stílusú bazilika a történelmi óváros központjában.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Imperia szobor",
+                  "text": "A kikötő bejáratánál álló kilenc méter magas szobor a város jelképe, amely szatirikus módon állít emléket a konstanzi zsinatnak.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Konzilgebäude",
+                  "text": "A kikötőben található hatalmas történelmi épület volt a pápaválasztás helyszíne a 15. századi konstanzi zsinat idején.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Niederburg negyed",
+                  "text": "Konstanz legrégebbi városrésze szűk utcáival, középkori házaival és hangulatos borozóival vonzza a látogatókat.",
+                  "category": "old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Városháza",
+                  "text": "Az épület lenyűgöző reneszánsz homlokzatát a város történelmének fontos jeleneteit ábrázoló freskók díszítik.",
+                  "category": "town-hall",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala din Konstanz",
+                  "text": "Fosta biserică episcopală este o bazilică cu elemente romanice și gotice situată în inima orașului vechi istoric.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia Imperia",
+                  "text": "Statuia de nouă metri înălțime de la intrarea în port este un simbol al orașului, amintind satiric de Conciliul de la Konstanz.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Clădirea Conciliului",
+                  "text": "Clădirea istorică masivă din port a fost locul unde s-a desfășurat alegerea papala în timpul Conciliului de la Konstanz din secolul XV.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Niederburg",
+                  "text": "Cel mai vechi cartier din Konstanz impresionează prin străzile sale înguste, casele medievale și cramele primitoare.",
+                  "category": "old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria din Konstanz",
+                  "text": "Clădirea impresionează prin fațada sa renascentistă magnifică, decorată cu fresce ce reprezintă scene importante din istoria orașului.",
+                  "category": "town-hall",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Constance Minster",
+                  "text": "The former episcopal church is a Romanesque and Gothic basilica located in the heart of the historic old town.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Imperia Statue",
+                  "text": "Standing nine meters tall at the harbor entrance, this statue is a landmark that satirically commemorates the Council of Constance.",
+                  "category": "landmark",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Council Building",
+                  "text": "This massive historic warehouse at the harbor was the site of the papal election during the 15th-century Council of Constance.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Niederburg District",
+                  "text": "The oldest part of Constance features narrow alleys, medieval houses, and cozy wine taverns that create a unique atmosphere.",
+                  "category": "old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Constance Town Hall",
+                  "text": "The building is famous for its magnificent Renaissance facade decorated with frescoes depicting key scenes from city history.",
+                  "category": "town-hall",
+                  "confidence": "high"
+            }
+      ]
+}
+  },
 
   {
     id: "forest-schwarzwald-nord-extra",

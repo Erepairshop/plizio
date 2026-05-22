@@ -70,7 +70,162 @@ export const poiExtraDe4a: POI[] = [
       pt: ["1775: Chegada de Johann Wolfgang von Goethe a Weimar a convite do Duque.", "1919: Fundação da escola Bauhaus por Walter Gropius na cidade.", "11 de agosto de 1919: Assinatura da Constituição de Weimar pelo Presidente do Reich Ebert.", "16 objetos: Número de monumentos individuais que pertencem ao conjunto da UNESCO 'Weimar Clássica'.", "1,2 milhões: Número aproximado de unidades de media na Biblioteca da Duquesa Anna Amalia.", "1937: Construção do campo de concentração de Buchenwald no vizinho Ettersberg."],
       fr: ["1775 : Arrivée de Johann Wolfgang von Goethe à Weimar sur invitation du duc.", "1919 : Fondation de l'école du Bauhaus par Walter Gropius dans la ville.", "11 août 1919 : Signature de la Constitution de Weimar par le président du Reich, Friedrich Ebert.", "16 objets : Nombre de monuments individuels composant l'ensemble UNESCO « Weimar classique ».", "1,2 million : Nombre approximatif de supports médiatiques à la bibliothèque de la duchesse Anna Amalia.", "1937 : Établissement du camp de concentration de Buchenwald sur l'Ettersberg voisin."],
       es: ["1775: Llegada de Johann Wolfgang von Goethe a Weimar por invitación del Duque.", "1919: Fundación de la escuela Bauhaus por Walter Gropius en la ciudad.", "11 de agosto de 1919: Firma de la Constitución de Weimar por el Presidente del Reich Ebert.", "16 objetos: Número de monumentos individuales que pertenecen al conjunto UNESCO 'Weimar clásico'.", "1,2 millones: Número aproximado de unidades de medios en la Biblioteca de la Duquesa Anna Amalia.", "1937: Construcción del campo de concentración de Buchenwald en el cercano monte Ettersberg."],
-    }, image: "/poi-images/city-weimar-extra.webp"},
+    }, image: "/poi-images/city-weimar-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Goethes Wohnhaus",
+                  "text": "Das barocke Haus am Frauenplan war fast 50 Jahre lang der Wohn- und Wirkungsort des großen Dichters Goethe.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schillers Wohnhaus",
+                  "text": "Friedrich Schiller verbrachte hier seine letzten Lebensjahre und vollendete bedeutende Werke wie den Wilhelm Tell.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Herzogin Anna Amalia Bibliothek",
+                  "text": "Berühmt für ihren prachtvollen Rokoko-Saal beherbergt sie eine einzigartige Sammlung deutscher Literatur.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Park an der Ilm",
+                  "text": "Ein weitläufiger Landschaftspark am Rande der Altstadt mit Goethes Gartenhaus als malerischem Höhepunkt.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bauhaus-Museum",
+                  "text": "Das moderne Museum zeigt die Anfänge der einflussreichsten Designschule des 20. Jahrhunderts in ihrem Gründungsort.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schloss Belvedere",
+                  "text": "Eine barocke Sommerresidenz mit weitläufiger Parkanlage und Orangerie im Süden der Kulturstadt Weimar.",
+                  "category": "castle",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Goethe lakóháza",
+                  "text": "A Frauenplanon álló barokk ház, ahol a nagy német költő közel 50 évig élt, ma népszerű múzeum.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schiller lakóháza",
+                  "text": "Friedrich Schiller ebben a házban töltötte utolsó éveit, és itt alkotta meg élete több fontos művét.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Anna Amalia Hercegnő Könyvtár",
+                  "text": "Világhírű történelmi könyvtár, amelynek rokokó terme a német klasszicizmus egyik legszebb emléke.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Park az Ilm partján",
+                  "text": "Hatalmas tájképi kert az óváros szélén, ahol Goethe kerti háza és több romantikus emlékhely található.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bauhaus-múzeum",
+                  "text": "A 20. század legfontosabb művészeti iskolájának korai éveit bemutató modern gyűjtemény Weimarban.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Belvedere-kastély",
+                  "text": "Barokk nyári rezidencia Weimar déli részén, hatalmas parkkal, narancsházzal és elegáns pavilonokkal.",
+                  "category": "castle",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa lui Goethe",
+                  "text": "Locuința barocă unde Johann Wolfgang von Goethe a trăit timp de aproape 50 de ani, acum muzeu național.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa lui Schiller",
+                  "text": "Casa în care Friedrich Schiller și-a petrecut ultimii ani de viață și unde a scris lucrări fundamentale.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biblioteca Ducesei Anna Amalia",
+                  "text": "Renumită pentru sala sa rococo spectaculoasă, biblioteca păstrează o colecție vastă de literatură germană.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul de pe râul Ilm",
+                  "text": "Un parc peisagistic vast care include casa de grădină a lui Goethe și numeroase monumente istorice.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Bauhaus",
+                  "text": "Expoziția prezintă începuturile școlii revoluționare de design fondată la Weimar în anul 1919.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Belvedere",
+                  "text": "O reședință barocă de vară impresionantă, înconjurată de parcuri vaste și o grădină botanică cu oranjerie.",
+                  "category": "castle",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Goethe's House",
+                  "text": "The baroque residence where Johann Wolfgang von Goethe lived for 50 years, now a major literary museum.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schiller's House",
+                  "text": "The former home of Friedrich Schiller where he wrote many of his famous dramas during his final years.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Anna Amalia Library",
+                  "text": "A UNESCO World Heritage site famous for its magnificent Rococo Hall and its vast historical book collection.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Park on the Ilm",
+                  "text": "A sprawling 48-hectare landscape garden designed according to the ideals of classicism and romanticism.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bauhaus Museum",
+                  "text": "This modern museum explores the revolutionary design concepts developed in Weimar between 1919 and 1925.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Belvedere Castle",
+                  "text": "An elegant baroque summer palace situated on a hill south of Weimar, surrounded by an English garden.",
+                  "category": "castle",
+                  "confidence": "high"
+            }
+      ]
+}
+  },
 
   
   {
@@ -476,7 +631,162 @@ export const poiExtraDe4a: POI[] = [
       es: ["El Wartburg forma parte del Patrimonio Mundial de la UNESCO desde 1999.", "Johann Sebastian Bach nació en Eisenach el 21 de marzo de 1685.", "En Eisenach se encuentra la casa con entramado de madera habitada más estrecha de Alemania.", "En 1898 se fabricó aquí el primer automóvil 'Wartburg'.", "El Rennsteig, la ruta de senderismo más conocida de Alemania, comienza en Eisenach-Hörschel.", "Lutero visitó la ciudad como estudiante entre 1498 y 1501."],
       pt: ["O Castelo de Wartburg pertence ao Património Mundial da UNESCO desde 1999.", "Johann Sebastian Bach nasceu em Eisenach a 21 de março de 1685.", "A casa de enxaimel habitada mais estreita da Alemanha encontra-se em Eisenach.", "Em 1898, foi construído aqui o primeiro automóvel 'Wartburg'.", "O Rennsteig, o trilho de caminhada mais conhecido da Alemanha, começa em Eisenach-Hörschel.", "Lutero visitou a cidade como estudante entre 1498 e 1501."],
       fr: ["La Wartburg est classée au patrimoine mondial de l'UNESCO depuis 1999.", "Jean-Sébastien Bach est né à Eisenach le 21 mars 1685.", "Eisenach abrite la maison à colombages habitée la plus étroite d'Allemagne.", "La première voiture « Wartburg » a été construite ici en 1898.", "Le Rennsteig, le sentier de randonnée le plus célèbre d'Allemagne, débute à Eisenach-Hörschel.", "Luther a fréquenté l'école de la ville entre 1498 et 1501."],
-    }, image: "/poi-images/city-eisenach-extra.webp"},
+    }, image: "/poi-images/city-eisenach-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Wartburg",
+                  "text": "Die UNESCO-Welterbestätte ist eng mit Martin Luther, der heiligen Elisabeth und der deutschen Geschichte verbunden.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bachhaus",
+                  "text": "Das erste Museum weltweit für Johann Sebastian Bach befindet sich an seinem Geburtsort in einem historischen Bürgerhaus.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lutherhaus",
+                  "text": "In diesem prachtvollen Fachwerkhaus wohnte Martin Luther als Lateinschüler bei der Familie Cotta.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Drachenschlucht",
+                  "text": "Ein faszinierendes Naturdenkmal im Thüringer Wald, bei dem Wanderwege durch sehr enge Felsspalten führen.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Burschenschaftsdenkmal",
+                  "text": "Ein imposantes Monument auf der Göpelskuppe zur Erinnerung an die Einheitsbestrebungen der deutschen Studenten.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Automobile Welt Eisenach",
+                  "text": "Das Museum zeigt die über 100-jährige Tradition des Fahrzeugbaus in Eisenach von Wartburg bis Opel.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wartburg vára",
+                  "text": "UNESCO Világörökség, ahol Luther Márton száműzetése alatt németre fordította az Újszövetséget.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bach-ház",
+                  "text": "A világ első Johann Sebastian Bachnak szentelt múzeuma, a zeneszerző szülővárosában található.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Luther-ház",
+                  "text": "Türingia egyik legrégebbi fagerendás háza, ahol Luther Márton diákévei alatt lakott.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sárkány-szurdok",
+                  "text": "Látványos természeti képződmény Eisenach közelében, ahol a túraútvonal szűk sziklafalak között halad.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Diákszövetségi emlékmű",
+                  "text": "A Göpelskuppe dombon álló hatalmas emlékmű a német egységért küzdő diákszövetségek tiszteletére.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Autóvilág Eisenach",
+                  "text": "A város gazdag autógyártási múltját bemutató múzeum, a legendás Wartburg autóktól a modern Opelig.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelul Wartburg",
+                  "text": "Un sit UNESCO faimos unde Martin Luther a tradus Noul Testament în limba germană în secolul al XVI-lea.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa lui Bach",
+                  "text": "Primul muzeu din lume dedicat lui Johann Sebastian Bach, situat într-o casă istorică din orașul natal al compozitorului.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa lui Luther",
+                  "text": "Una dintre cele mai vechi case cu structură din lemn din Turingia, unde a locuit tânărul Martin Luther.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Defileul Dragonului",
+                  "text": "O atracție naturală spectaculoasă în Pădurea Turingiei, cu trasee prin pasaje înguste între stânci înalte.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monumentul Frățiilor Studențești",
+                  "text": "Un monument masiv situat pe un deal, dedicat mișcării studențești germane pentru unitate națională.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lumea Automobilelor Eisenach",
+                  "text": "Muzeul documentează tradiția centenară de fabricare a mașinilor în Eisenach, inclusiv marca Wartburg.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wartburg Castle",
+                  "text": "A UNESCO World Heritage castle where Martin Luther translated the New Testament while in hiding.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bach House",
+                  "text": "The world's first museum dedicated to Johann Sebastian Bach, located in the town where he was born in 1685.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Luther House",
+                  "text": "One of the oldest half-timbered houses in Thuringia, where the reformer Martin Luther lived as a student.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dragon's Gorge",
+                  "text": "A spectacular geological formation offering a narrow hiking path between towering mossy rock walls.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Burschenschaftsdenkmal",
+                  "text": "A massive monument on the Göpelskuppe hill commemorating the German student fraternity movement.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Automobile World Eisenach",
+                  "text": "Explore over 100 years of car manufacturing history, from early Dixi models to the GDR's iconic Wartburg.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ]
+}
+  },
 
   {
     id: "historical-buchenwald-extra",
@@ -746,7 +1056,162 @@ export const poiExtraDe4a: POI[] = [
       es: ["El palacio de Friedenstein fue construido entre 1643 y 1654.", "El Teatro Ekhof posee maquinaria escénica barroca funcional de 1681.", "Justus Perthes fundó aquí en 1785 su famosa editorial geográfica.", "En Gotha se fundó en 1820 el primer banco alemán de seguros de vida.", "La ciudad fue una de las capitales del ducado de Sajonia-Coburgo y Gotha de 1826 a 1918.", "El Thüringerwaldbahn circula desde 1929 entre Gotha y Tabarz."],
       pt: ["O Palácio Friedenstein foi construído entre 1643 e 1654.", "O Teatro Ekhof possui maquinaria de palco barroca funcional de 1681.", "Justus Perthes fundou aqui em 1785 a sua famosa editora geográfica.", "Em Gotha, foi fundado em 1820 o primeiro banco alemão de seguros de vida.", "A cidade foi uma das capitais do Ducado de Saxe-Coburgo e Gotha de 1826 a 1918.", "O Thüringerwaldbahn circula desde 1929 entre Gotha e Tabarz."],
       fr: ["Le château de Friedenstein a été érigé entre 1643 et 1654.", "Le théâtre Ekhof possède une machinerie de scène baroque fonctionnelle datant de 1681.", "Justus Perthes y fonda sa célèbre maison d'édition géographique en 1785.", "La première banque d'assurance-vie allemande fut créée à Gotha en 1820.", "La ville fut l'une des capitales du duché de Saxe-Cobourg et Gotha de 1826 à 1918.", "Le tramway de la forêt de Thuringe relie Gotha à Tabarz depuis 1929."],
-    }, image: "/poi-images/city-gotha-extra.webp"},
+    }, image: "/poi-images/city-gotha-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Schloss Friedenstein",
+                  "text": "Das imposante frühbarocke Schloss aus dem 17. Jahrhundert beherbergt das Ekhof-Theater und umfangreiche Kunstsammlungen.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Herzogliches Museum",
+                  "text": "Ein prachtvoller Bau gegenüber dem Schloss, der hochrangige Sammlungen von antiker Kunst bis zu modernen Gemälden zeigt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ekhof-Theater",
+                  "text": "Das älteste barocke Theater der Welt mit noch funktionierender hölzerner Bühnenmaschinerie befindet sich im Schloss Friedenstein.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Margarethenkirche",
+                  "text": "Die spätgotische Hallenkirche am Neumarkt dient seit Jahrhunderten als geistliches Zentrum und Grablege der Ernestiner.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Orangerie Gotha",
+                  "text": "Eine weitläufige barocke Gartenanlage mit Treibhäusern, die einst für die herzogliche Sammlung exotischer Pflanzen errichtet wurde.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Altes Rathaus",
+                  "text": "Das Renaissance-Rathaus am Hauptmarkt besticht durch seine rote Fassade und den markanten Turm im Herzen der historischen Altstadt.",
+                  "category": "rathaus",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Friedenstein-kastély",
+                  "text": "Németország legnagyobb kora barokk kastélyegyüttese, amely a híres Ekhof-színháznak és jelentős művészeti gyűjteményeknek ad otthont.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hercegi Múzeum",
+                  "text": "A kastéllyal szemben található pompás épület antik műtárgyakat, egyiptomi kincseket és európai festményeket mutat be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ekhof-színház",
+                  "text": "A világ legrégebbi barokk színháza, amelynek eredeti fa színpadtechnikája a mai napig működőképes és megtekinthető.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Margit-templom",
+                  "text": "Gotha egyik legrégebbi épülete, egy késő gótikus csarnoktemplom, amely az Ernestin-ház fejedelmeinek temetkezési helye is.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Oranzséria",
+                  "text": "Gyönyörű barokk kertrendszer üvegházakkal, ahol korábban egzotikus növényeket termesztettek a hercegi udvar számára.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Régi Városháza",
+                  "text": "A főtéren álló reneszánsz épület piros homlokzatával és díszes tornyával a város történelmi központjának meghatározó látványa.",
+                  "category": "rathaus",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelul Friedenstein",
+                  "text": "Cel mai mare ansamblu de palate baroce timpurii din Germania, adăpostind teatrul istoric Ekhof și colecții de artă valoroase.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Ducal",
+                  "text": "O clădire magnifică situată vizavi de castel, ce expune colecții de artă antică, antichități egiptene și picturi europene.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Teatrul Ekhof",
+                  "text": "Cel mai vechi teatru baroc din lume cu mașinărie de scenă din lemn originală și încă funcțională, aflat în incinta castelului.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfânta Margareta",
+                  "text": "O biserică-hală în stil gotic târziu, situată în piața centrală, fiind locul de odihnă veșnică al multor duci de Saxa-Gotha.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Oranjeria Gotha",
+                  "text": "O grădină barocă spectaculoasă cu sere istorice, construită inițial pentru a găzdui colecția de plante exotice a ducilor.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria Veche",
+                  "text": "Edificiul renascentist din piața principală atrage privirile prin fațada sa roșie și turnul zvelt, marcând inima orașului vechi.",
+                  "category": "rathaus",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Friedenstein Castle",
+                  "text": "Germany's largest early Baroque palace complex, home to the historic Ekhof Theatre and vast art and history collections.",
+                  "category": "castle",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ducal Museum",
+                  "text": "A magnificent building opposite the castle housing high-ranking collections of ancient art, Egyptian artifacts, and paintings.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ekhof Theatre",
+                  "text": "The oldest Baroque theatre in the world with original, still functioning wooden stage machinery, located inside the castle.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Margaret's Church",
+                  "text": "A late Gothic hall church on the Neumarkt that has served as the spiritual center and burial site for the local nobility.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gotha Orangery",
+                  "text": "An extensive Baroque garden system with greenhouses once used to house the ducal collection of exotic plants.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Town Hall",
+                  "text": "The Renaissance town hall on the main market square features a striking red facade and a distinctive tower in the old town.",
+                  "category": "rathaus",
+                  "confidence": "high"
+            }
+      ]
+}
+  },
 
   {
     id: "mountain-inselsberg-extra",
@@ -1225,7 +1690,162 @@ export const poiExtraDe4a: POI[] = [
       es: ["Fundada en 1827 en tierras adquiridas al Reino de Hannover.", "La ciudad tiene unos 113.000 habitantes (datos de 2022).", "El Instituto Alfred Wegener emplea aquí a más de 1.000 trabajadores.", "El puerto pesquero de Bremerhaven es el más grande de su tipo en Alemania.", "La Klimahaus 8° Ost fue inaugurada en el año 2009.", "Bremerhaven forma junto con Bremen el estado de la Ciudad Libre Hanseática de Bremen."],
       pt: ["Fundada em 1827 em terrenos adquiridos ao Reino de Hanôver.", "A cidade tem cerca de 113.000 habitantes (dados de 2022).", "O Instituto Alfred Wegener emprega aqui mais de 1.000 funcionários.", "O porto de pesca de Bremerhaven é o maior do seu género na Alemanha.", "A Klimahaus 8° Ost foi inaugurada em 2009.", "Bremerhaven forma, juntamente com Bremen, o estado da Cidade Hanseática Livre de Bremen."],
       fr: ["Fondée en 1827 sur des terres acquises auprès du Royaume de Hanovre.", "La ville compte environ 113 000 habitants (données 2022).", "L'Institut Alfred-Wegener y emploie plus de 1 000 collaborateurs.", "Le port de pêche de Bremerhaven est le plus grand d'Allemagne.", "La Klimahaus 8° Ost a ouvert ses portes en 2009.", "Bremerhaven forme avec Brême l'État de la Ville libre et hanséatique de Brême."],
-    }, image: "/poi-images/district-bremerhaven-city-extra.webp"},
+    }, image: "/poi-images/district-bremerhaven-city-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Deutsches Auswandererhaus",
+                  "text": "Ein preisgekröntes Erlebnismuseum, das die Geschichte der deutschen Auswanderung nach Amerika eindrucksvoll nachzeichnet.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Klimahaus Bremerhaven 8° Ost",
+                  "text": "Eine weltweit einzigartige Wissens- und Erlebniswelt, die Besucher entlang des 8. Längengrades durch verschiedene Klimazonen führt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Deutsches Schifffahrtsmuseum",
+                  "text": "Das nationale Schifffahrtsmuseum zeigt maritime Geschichte, darunter die berühmte Bremer Kogge aus dem Jahr 1380.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zoo am Meer",
+                  "text": "Ein spezialisierter Themenzoo direkt am Deich, der vor allem nordische und wasserlebende Tierarten wie Eisbären zeigt.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museumshafen",
+                  "text": "Im historischen Hafenbecken liegen zahlreiche Oldtimer-Schiffe, darunter ein U-Boot und verschiedene Segelschiffe.",
+                  "category": "port",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pingelturm",
+                  "text": "Der historische Leuchtturm mit Nebelglocke am Kaiserhafen ist ein markantes maritimes Denkmal der Stadtgeschichte.",
+                  "category": "tower",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Német Kivándorlási Központ",
+                  "text": "Díjnyertes élménymúzeum, amely interaktív módon mutatja be a Németországból Amerikába tartó kivándorlás történetét.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Klímaház Bremerhaven",
+                  "text": "Egyedülálló kiállítás, ahol a látogatók a 8. hosszúsági fok mentén utazva ismerhetik meg a Föld különböző klímazónáit.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Német Hajózási Múzeum",
+                  "text": "Nemzeti múzeum, amely a tengerészet történetét mutatja be, legfontosabb kincse egy 1380-ból származó bresmai kogge hajó.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zoo am Meer",
+                  "text": "Közvetlenül a gáton található állatkert, amely elsősorban északi és vízi állatokra, például jegesmedvékre specializálódott.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Múzeumi Kikötő",
+                  "text": "A történelmi kikötőmedencében számos veterán hajó horgonyoz, köztük egy tengeralattjáró és több vitorlás is megtekinthető.",
+                  "category": "port",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pingel-torony",
+                  "text": "A császári kikötőnél álló történelmi világítótorony és ködharang a város tengerészeti múltjának egyik fontos emléke.",
+                  "category": "tower",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centrul German de Emigrare",
+                  "text": "Un muzeu interactiv premiat care urmărește istoria emigrării germane către America prin experiențe personale captivante.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Klimahaus Bremerhaven",
+                  "text": "O lume unică a cunoașterii care conduce vizitatorii prin diferite zone climatice ale lumii de-a lungul meridianului 8 est.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Național al Navigației",
+                  "text": "Găzduiește istoria maritimă a Germaniei, inclusiv celebra navă 'Kogge' din Bremen, datând din anul 1380.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zoo am Meer",
+                  "text": "O grădină zoologică tematică situată pe dig, specializată în specii nordice și acvatice, precum urșii polari și focile.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Portul Muzeu",
+                  "text": "În bazinul istoric al portului sunt ancorate numeroase nave de epocă, inclusiv un submarin și diverse ambarcațiuni cu pânze.",
+                  "category": "port",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pingelturm",
+                  "text": "Turnul istoric cu clopot de ceață de la intrarea în portul Kaiser este un simbol maritim important al orașului.",
+                  "category": "tower",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "German Emigration Center",
+                  "text": "An award-winning interactive museum that traces the emotional history of German emigration to America over the centuries.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Klimahaus Bremerhaven",
+                  "text": "A unique science center that takes visitors on a journey through different climate zones along the 8th degree of longitude.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "German Maritime Museum",
+                  "text": "The national maritime museum showcasing sea travel history, featuring the famous 1380 Hanseatic cog ship.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zoo am Meer",
+                  "text": "A specialized zoo located directly on the sea wall, focusing on Nordic and aquatic animals like polar bears and seals.",
+                  "category": "park",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum Port",
+                  "text": "The historic harbor basin features numerous vintage vessels, including a decommissioned submarine and several sailing ships.",
+                  "category": "port",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pingelturm",
+                  "text": "A historic lighthouse with a fog bell located at the Kaiserhafen, standing as a landmark of the city's maritime heritage.",
+                  "category": "tower",
+                  "confidence": "high"
+            }
+      ]
+}
+  },
 
   {
     id: "landmark-dom-bremen-extra",
@@ -1561,5 +2181,160 @@ export const poiExtraDe4a: POI[] = [
       es: ["Consta de los distritos de Ostertor y Steintor.", "Caracterizado por el estilo arquitectónico de las Casas de Bremen (Bremer Häuser).", "Gran conservación de los edificios durante la Segunda Guerra Mundial.", "El Theater am Goetheplatz es su centro cultural.", "Prevención de la construcción de la autopista urbana (Mozart-Trasse) en 1973.", "La mayor densidad de tabernas de la ciudad de Bremen."],
       pt: ["Composto pelos distritos de Ostertor e Steintor.", "Caracterizado pelo estilo arquitetónico das Casas de Bremen (Bremer Häuser).", "Extensa preservação da estrutura dos edifícios na 2ª Guerra Mundial.", "Theater am Goetheplatz como centro cultural.", "Prevenção da Mozart-Trasse (autoestrada urbana) em 1973.", "Maior densidade de tabernas da cidade de Bremen."],
       fr: ["Composé des quartiers d'Ostertor et de Steintor.", "Caractérisé par le style architectural des maisons de Brême.", "Conservation importante du bâti lors de la Seconde Guerre mondiale.", "Le Theater am Goetheplatz comme centre culturel.", "Prévention du projet d'autoroute urbaine (Mozart-Trasse) en 1973.", "Plus forte densité de bars et bistrots de la ville de Brême."],
-    }, image: "/poi-images/district-viertel-bremen-extra.webp"},
+    }, image: "/poi-images/district-viertel-bremen-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kunsthalle Bremen",
+                  "text": "Eines der bedeutendsten Kunstmuseen Deutschlands mit Werken vom 14. Jahrhundert bis zur zeitgenössischen Kunst.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Theater am Goetheplatz",
+                  "text": "Das Haupthaus des Bremer Theaters besticht durch seine klassizistische Architektur und ein vielfältiges Programm.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ostertorsteinweg",
+                  "text": "Die lebendige Hauptstraße des Viertels, bekannt für ihre vielen kleinen Läden, Cafés, Kinos und die alternative Szene.",
+                  "category": "altstadt",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gerhard-Marcks-Haus",
+                  "text": "Ein Museum für moderne Bildhauerei, das dem Werk des bedeutenden Bildhauers Gerhard Marcks gewidmet ist.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wilhelm-Wagenfeld-Haus",
+                  "text": "Das Design-Museum im ehemaligen Detentionshaus zeigt Ausstellungen zur Alltagskultur und Gestaltung des 20. Jahrhunderts.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Osterdeich",
+                  "text": "Die beliebte Grünanlage am Weserufer bietet viel Platz zum Entspannen und ist ein Treffpunkt für Anwohner und Besucher.",
+                  "category": "park",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Brémai Műcsarnok",
+                  "text": "Németország egyik legfontosabb művészeti múzeuma, amely a 14. századtól napjainkig őriz kiemelkedő alkotásokat.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Goetheplatz Színház",
+                  "text": "A brémai színház központi épülete, amely klasszicista stílusával és változatos repertoárjával a város kulturális szíve.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ostertorsteinweg",
+                  "text": "A negyed pezsgő főutcája, amely számos kis üzletéről, hangulatos kávézóiról, mozijairól és alternatív hangulatáról ismert.",
+                  "category": "altstadt",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gerhard-Marcks-ház",
+                  "text": "A modern szobrászatnak szentelt múzeum, amely Gerhard Marcks szobrászművész hagyatékát és kortárs alkotásokat mutat be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wilhelm-Wagenfeld-ház",
+                  "text": "Egykori börtönépületben kialakított dizájnmúzeum, amely a 20. századi mindennapi kultúra és formatervezés világát tárja fel.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Osterdeich",
+                  "text": "A Weser folyó partján húzódó népszerű zöldterület, ahol a helyiek pihennek, sportolnak vagy a naplementét élvezik.",
+                  "category": "park",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Galeria de Artă Bremen",
+                  "text": "Unul dintre cele mai importante muzee de artă din Germania, cu opere din secolul al XIV-lea până în prezent.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Teatrul de la Goetheplatz",
+                  "text": "Clădirea principală a teatrului din Bremen, impresionantă prin arhitectura sa clasicistă și programul cultural divers.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ostertorsteinweg",
+                  "text": "Strada principală plină de viață a cartierului, cunoscută pentru magazinele mici, cafenelele și atmosfera sa boemă.",
+                  "category": "altstadt",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Gerhard Marcks",
+                  "text": "Un muzeu dedicat sculpturii moderne, axat pe opera sculptorului Gerhard Marcks și pe arta contemporană.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Wilhelm Wagenfeld",
+                  "text": "Muzeu de design situat într-o fostă închisoare, prezentând expoziții despre cultura cotidiană și estetica secolului XX.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Osterdeich",
+                  "text": "Zonă verde populară pe malul râului Weser, locul ideal pentru plimbări, relaxare și evenimente în aer liber.",
+                  "category": "park",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kunsthalle Bremen",
+                  "text": "One of Germany's most important art museums, housing masterpieces from the 14th century to contemporary works.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Theatre at Goetheplatz",
+                  "text": "The main venue of the Bremen Theatre, featuring neoclassical architecture and a wide range of performances.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ostertorsteinweg",
+                  "text": "The vibrant main street of 'Das Viertel', famous for its independent shops, cozy cafes, and alternative nightlife.",
+                  "category": "altstadt",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gerhard Marcks House",
+                  "text": "A museum for modern sculpture dedicated to the work of Gerhard Marcks and the exploration of modern artistic forms.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wilhelm Wagenfeld House",
+                  "text": "Located in a former detention center, this design museum focuses on 20th-century everyday culture and industrial design.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Osterdeich",
+                  "text": "A popular green embankment along the Weser river, serving as a social hub for relaxation and recreation.",
+                  "category": "park",
+                  "confidence": "high"
+            }
+      ]
+}
+  },
 ];

@@ -44,7 +44,138 @@ export const poiExtraDe3a: POI[] = [
       es: ["A Stralsund se le concedió el derecho de ciudad de Lübeck en el año 1234.", "El casco antiguo histórico es Patrimonio de la Humanidad por la UNESCO desde 2002.", "De 1648 a 1815, la ciudad perteneció al Reino de Suecia.", "El Ozeaneum de Stralsund fue galardonado como Museo Europeo del Año en 2010.", "El puente de Rügen conecta Stralsund con la isla de Rügen sobre el Strelasund.", "El ayuntamiento de Stralsund se considera una de las obras maestras del gótico de ladrillo en arquitectura civil.", "La Paz de Stralsund en 1370 puso fin a la guerra entre la Liga Hanseática y Dinamarca."],
       pt: ["A Stralsund foi concedido o direito de cidade de Lübeck no ano de 1234.", "O centro histórico faz parte do Património Mundial da UNESCO desde 2002.", "De 1648 a 1815, a cidade pertenceu ao Reino da Suécia.", "O Ozeaneum em Stralsund foi eleito o Museu Europeu do Ano em 2010.", "A ponte de Rügen liga Stralsund à ilha de Rügen sobre o Strelasund.", "A câmara municipal de Stralsund é considerada uma das obras-primas da arquitetura secular do gótico de tijolo.", "Com a Paz de Stralsund em 1370 terminou a guerra entre a Hansa e a Dinamarca."],
       fr: ["Stralsund a reçu le droit de cité de Lübeck en 1234.", "La vieille ville historique fait partie du patrimoine mondial de l'UNESCO depuis 2002.", "De 1648 à 1815, la ville a appartenu au Royaume de Suède.", "L'Ozeaneum de Stralsund a été élu musée européen de l'année en 2010.", "Le pont de Rügen relie Stralsund à l'île de Rügen au-dessus du Strelasund.", "L'hôtel de ville de Stralsund est considéré comme l'un des chefs-d'œuvre de l'architecture profane du gothique de brique.", "La paix de Stralsund en 1370 a mis fin à la guerre entre la Hanse et le Danemark."],
-    }, image: "/poi-images/city-stralsund-extra.webp"},
+    }, image: "/poi-images/city-stralsund-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Ozeaneum",
+                  "text": "Modernes Naturkundemuseum am Hafen, das die Unterwasserwelt der nördlichen Meere in riesigen Aquarien zeigt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gorch Fock I",
+                  "text": "Die historische Dreimast-Bark liegt im Stralsunder Hafen und kann als Museumsschiff besichtigt werden.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rathaus Stralsund",
+                  "text": "Ein Meisterwerk der norddeutschen Backsteingotik am Alten Markt mit einer prachtvollen Schaufassade.",
+                  "category": "town hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Marienkirche",
+                  "text": "Die mächtige dreischiffige Basilika aus dem 14. Jahrhundert dominiert die Silhouette der Hansestadt.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kniepertor",
+                  "text": "Eines der gut erhaltenen Stadttore, das die historische Altstadt mit dem nördlichen Stadtgebiet verbindet.",
+                  "category": "city gate",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ozeaneum",
+                  "text": "Modern természettudományi múzeum a kikötőben, amely az északi tengerek víz alatti világát mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gorch Fock I",
+                  "text": "A történelmi háromárbocos bark a stralsundi kikötőben horgonyoz, és múzeumhajóként látogatható.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stralsundi városháza",
+                  "text": "Az észak-német tégla-gótika remekműve a régi piacon, pompás díszes homlokzattal és boltívekkel.",
+                  "category": "town hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mária-templom",
+                  "text": "A 14. századi hatalmas, háromhajós bazilika meghatározza a hanzaváros látképét és sziluettjét.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kniepertor",
+                  "text": "Az egyik jól megőrzött városkapu, amely az óvárost köti össze a város északi részeivel.",
+                  "category": "city gate",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ozeaneum",
+                  "text": "Muzeu modern de istorie naturală în port, care prezintă lumea subacvatică a mărilor nordice în acvarii.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gorch Fock I",
+                  "text": "Barcul istoric cu trei catarge este ancorat în portul Stralsund și poate fi vizitat ca navă-muzeu.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria Stralsund",
+                  "text": "O capodoperă a goticului de cărămidă din nordul Germaniei, situată în Piața Veche, cu o fațadă superbă.",
+                  "category": "town hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sf. Maria",
+                  "text": "Bazilica masivă cu trei nave din secolul al XIV-lea domină silueta orașului hanseatic.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kniepertor",
+                  "text": "Una dintre porțile orașului bine conservate, care leagă centrul vechi de cartierele din nord.",
+                  "category": "city gate",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ozeaneum",
+                  "text": "A modern natural history museum at the harbor, showcasing the underwater world of the northern seas.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gorch Fock I",
+                  "text": "This historic three-masted barque is moored in Stralsund harbor and can be visited as a museum ship.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stralsund Town Hall",
+                  "text": "A masterpiece of North German Brick Gothic architecture on the Old Market with a magnificent facade.",
+                  "category": "town hall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Mary's Church",
+                  "text": "The massive 14th-century three-aisled basilica dominates the skyline of the Hanseatic city.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kniepertor",
+                  "text": "One of the well-preserved city gates connecting the historic old town with the northern districts.",
+                  "category": "city gate",
+                  "confidence": "high"
+            }
+      ]
+}
+  },
           {
     id: "river-warnow-extra",
     type: "river",
@@ -450,7 +581,138 @@ export const poiExtraDe3a: POI[] = [
       es: ["La muralla histórica de Neubrandenburg tiene 2.300 metros de longitud y se conserva casi por completo.", "Las cuatro puertas de ladrillo distintivas dieron a la ciudad el nombre de 'Ciudad de las Cuatro Puertas'.", "Neubrandenburg fue fundada en 1248 por el margrave Juan I de Brandeburgo.", "En la histórica Iglesia de Santa María se instaló una sala de conciertos ultramoderna diseñada por un arquitecto finlandés.", "El vecino lago Tollensesee tiene 10 kilómetros de longitud y es una zona de recreo muy popular.", "En las fortificaciones de la muralla están integradas casas históricas de entramado de madera, las 'Wiekhäuser'.", "La ciudad es el centro económico principal de la región de los lagos de Mecklemburgo."],
       pt: ["A muralha histórica de Neubrandenburg tem 2.300 metros de comprimento e ainda está quase totalmente preservada.", "As quatro portas de tijolo marcantes deram à cidade o nome de 'Cidade das Quatro Portas'.", "Neubrandenburg foi fundada em 1248 pelo Margrave João I de Brandeburgo.", "Na histórica Marienkirche foi instalada uma sala de concertos ultramoderna por um arquiteto finlandês.", "O vizinho Tollensesee tem 10 quilómetros de comprimento e é uma área de lazer popular.", "Nas fortificações da muralha estão integradas casas históricas de enxaimel, as 'Wiekhäuser'.", "A cidade é o centro económico da região dos lagos de Mecklemburgo."],
       fr: ["Les remparts historiques de Neubrandenbourg mesurent 2 300 mètres de long et sont encore presque totalement conservés.", "Les quatre portes en briques caractéristiques ont valu à la ville le nom de 'Ville aux quatre portes'.", "Neubrandenbourg a été fondée en 1248 par le margrave Jean Ier de Brandebourg.", "Une salle de concert ultramoderne a été aménagée dans l'église historique Sainte-Marie par un architecte finlandais.", "Le lac de Tollense voisin est long de 10 kilomètres et constitue une zone de loisirs très prisée.", "Des maisons historiques à colombages, les 'Wiekhäuser', sont intégrées dans les fortifications des remparts.", "La ville est le principal centre économique de la région des lacs du Mecklembourg."],
-    }, image: "/poi-images/city-neubrandenburg-extra.webp"},
+    }, image: "/poi-images/city-neubrandenburg-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Marienkirche",
+                  "text": "Die einstige Pfarrkirche dient heute als Konzertkirche mit einer preisgekrönten modernen Architektur.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Friedländer Tor",
+                  "text": "Das am besten erhaltene der vier Stadttore aus dem 15. Jahrhundert mit einem hohen Turm und Vortor.",
+                  "category": "city gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stadtmauer",
+                  "text": "Die fast vollständig erhaltene mittelalterliche Wehranlage umschließt die gesamte historische Altstadt.",
+                  "category": "city wall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Treptower Tor",
+                  "text": "Das höchste Stadttor mit 31 Metern beherbergt heute das Regionalmuseum für Stadtgeschichte.",
+                  "category": "city gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tollensesee",
+                  "text": "Ein beliebtes Naherholungsgebiet direkt vor den Toren der Stadt, ideal zum Baden, Segeln und Wandern.",
+                  "category": "park",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mária-templom",
+                  "text": "Az egykori plébániatemplom ma koncerttemplomként működik, díjnyertes modern építészeti megoldásokkal.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Friedländeri kapu",
+                  "text": "A négy 15. századi városkapu közül a legjobb állapotban lévő, magas toronnyal és előkapuval.",
+                  "category": "city gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Városfal",
+                  "text": "A szinte teljesen épen maradt középkori védműrendszer körbeveszi az egész történelmi óvárost.",
+                  "category": "city wall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Treptower kapu",
+                  "text": "A legmagasabb városkapu (31 méter), amely ma a városi történeti regionális múzeumnak ad otthont.",
+                  "category": "city gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tollensesee",
+                  "text": "Népszerű pihenőhely közvetlenül a város kapui előtt, ideális úszáshoz, vitorlázáshoz és túrázáshoz.",
+                  "category": "park",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica Sf. Maria",
+                  "text": "Fosta biserică parohială servește astăzi drept sală de concerte cu o arhitectură modernă premiată.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Poarta Friedland",
+                  "text": "Cea mai bine conservată dintre cele patru porți ale orașului din secolul al XV-lea, cu un turn înalt.",
+                  "category": "city gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zidul orașului",
+                  "text": "Fortificația medievală aproape complet conservată înconjoară întregul centru istoric al orașului.",
+                  "category": "city wall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Poarta Treptow",
+                  "text": "Cea mai înaltă poartă (31 m) adăpostește astăzi muzeul regional dedicat istoriei orașului.",
+                  "category": "city gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lacul Tollense",
+                  "text": "O zonă populară de recreere chiar la porțile orașului, ideală pentru înot, navigație și drumeții.",
+                  "category": "park",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. Mary's Church",
+                  "text": "The former parish church now serves as a concert church with award-winning modern architecture.",
+                  "category": "church",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Friedland Gate",
+                  "text": "The best-preserved of the four 15th-century city gates, featuring a tall tower and outer gate.",
+                  "category": "city gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "City Wall",
+                  "text": "The almost completely preserved medieval fortification encircles the entire historic old town.",
+                  "category": "city wall",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Treptow Gate",
+                  "text": "The tallest city gate at 31 meters, now housing the regional museum for urban history.",
+                  "category": "city gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lake Tollense",
+                  "text": "A popular recreation area right at the city's doorstep, ideal for swimming, sailing, and hiking.",
+                  "category": "park",
+                  "confidence": "high"
+            }
+      ]
+}
+  },
   {
     id: "animal-habitat-mv-kraniche-extra",
     type: "animal-habitat",
@@ -1090,7 +1352,138 @@ export const poiExtraDe3a: POI[] = [
       es: ["Flensburgo se encuentra a pocos kilómetros de la frontera danesa.", "La ciudad alberga una fuerte minoría danesa con sus propias escuelas e instituciones culturales.", "En el siglo XIX había más de 200 destilerías de ron en Flensburgo; hoy solo quedan unas pocas manufacturas tradicionales.", "La Autoridad Federal de Transporte Motorizado en Flensburgo registra los 'puntos' (archivo de infractores de tráfico) de los conductores alemanes.", "La Rote Straße es famosa por sus antiguos patios de comerciantes y pintorescas boutiques.", "La Escuela Naval de Mürwik, el centro de formación de los oficiales de la marina alemana, se encuentra aquí.", "El histórico puerto museo alberga veleros clásicos y antiguos barcos de pesca."],
       pt: ["Flensburgo situa-se a apenas alguns quilómetros da fronteira dinamarquesa.", "A cidade alberga uma forte minoria dinamarquesa com as suas próprias escolas e instituições culturais.", "No século XIX, havia mais de 200 casas de rum em Flensburgo, hoje restam apenas algumas manufaturas tradicionais.", "A Autoridade Federal de Transportes Motorizados em Flensburgo armazena os 'pontos' (registo de infrações de trânsito) dos condutores alemães.", "A Rote Straße é famosa pelos seus antigos pátios de mercadores e boutiques pitorescas.", "A Escola Naval de Mürwik, o centro de formação dos oficiais da marinha alemã, localiza-se aqui.", "O porto museu histórico alberga veleiros clássicos e antigos barcos de pesca."],
       fr: ["Flensbourg n'est située qu'à quelques kilomètres de la frontière danoise.", "La ville abrite une forte minorité danoise disposant de ses propres écoles et institutions culturelles.", "Au XIXe siècle, il y avait plus de 200 maisons de rhum à Flensbourg ; il ne reste aujourd'hui que quelques manufactures traditionnelles.", "L'Office fédéral de la circulation routière à Flensbourg enregistre les 'points' (fichier des infractions routières) des automobilistes allemands.", "La Rote Straße est célèbre pour ses anciennes cours de marchands et ses boutiques pittoresques.", "L'école navale de Mürwik, le centre de formation des officiers de la marine allemande, se trouve ici.", "L'historique port-musée abrite des voiliers classiques et d'anciens bateaux de pêche."],
-    }, image: "/poi-images/city-flensburg-extra.webp"},
+    }, image: "/poi-images/city-flensburg-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Museumsberg",
+                  "text": "Eines der größten Museen Schleswig-Holsteins mit Sammlungen zur Kunst und Kulturgeschichte.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nordertor",
+                  "text": "Das Wahrzeichen Flensburgs und das einzige erhaltene Stadttor, das einst den Zugang nach Norden sicherte.",
+                  "category": "city gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Phänomenta",
+                  "text": "Ein Science Center direkt am Nordertor, das zum Mitmachen und Experimentieren für Jung und Alt einlädt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rote Straße",
+                  "text": "Die historische Kaufmannsstraße beeindruckt mit malerischen Hinterhöfen und kleinen Handwerksläden.",
+                  "category": "old town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museumshafen",
+                  "text": "Hier liegen historische Segelschiffe und Oldtimer-Boote, die Flensburgs maritime Tradition zeigen.",
+                  "category": "port",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museumsberg",
+                  "text": "Schleswig-Holstein egyik legnagyobb múzeuma művészeti és kultúrtörténeti gyűjteményekkel.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Északi kapu",
+                  "text": "Flensburg jelképe és az egyetlen épen maradt városkapu, amely egykor az északi bejáratot védte.",
+                  "category": "city gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Phänomenta",
+                  "text": "Tudományos központ közvetlenül az Északi kapunál, amely interaktív kísérleteket kínál minden korosztálynak.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vörös utca",
+                  "text": "A történelmi kereskedőutca festői belső udvarokkal és kis kézműves boltokkal nyűgözi le a látogatókat.",
+                  "category": "old town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Múzeumkikötő",
+                  "text": "Történelmi vitorlások és veterán hajók horgonyoznak itt, bemutatva a város tengeri hagyományait.",
+                  "category": "port",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museumsberg",
+                  "text": "Unul dintre cele mai mari muzee din Schleswig-Holstein, cu colecții de artă și istorie culturală.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Poarta de Nord",
+                  "text": "Simbolul orașului Flensburg și singura poartă medievală rămasă, care păzea accesul spre nord.",
+                  "category": "city gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Phänomenta",
+                  "text": "Centru de știință situat lângă Poarta de Nord, care invită vizitatorii la experimente interactive.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Strada Roșie",
+                  "text": "Această stradă istorică de negustori impresionează prin curțile pitorești și micile ateliere.",
+                  "category": "old town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Portul Muzeu",
+                  "text": "Aici sunt ancorate nave cu pânze și bărci istorice care reflectă tradiția maritimă a orașului.",
+                  "category": "port",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museumsberg",
+                  "text": "One of the largest museums in Schleswig-Holstein with collections on art and cultural history.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nordertor",
+                  "text": "Flensburg's landmark and the only preserved city gate that once secured the northern entrance.",
+                  "category": "city gate",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Phänomenta",
+                  "text": "A science center located next to the Nordertor, offering interactive experiments for all ages.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rote Straße",
+                  "text": "This historic merchant street impresses with picturesque courtyards and small craft shops.",
+                  "category": "old town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum Harbor",
+                  "text": "Home to historic sailing ships and vintage boats showcasing Flensburg's maritime tradition.",
+                  "category": "port",
+                  "confidence": "high"
+            }
+      ]
+}
+  },
   {
     id: "landmark-nordertor-flensburg-extra",
     type: "landmark",
