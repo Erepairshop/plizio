@@ -255,7 +255,36 @@ function structuredData(
   }
   const wiki = wikipediaSameAs(poi, lang);
   if (wiki.length > 0) place.sameAs = wiki;
+  // Speakable hint for voice search / featured snippet
+  place.speakable = {
+    "@type": "SpeakableSpecification",
+    cssSelector: [".poi-lead-paragraph", "h1"],
+  };
   schemas.push(place);
+
+  // ----- ItemList of Sights (TouristAttraction) -----
+  const sightsObj = (poi as { sights?: Record<string, Array<{ name: string; text?: string; category?: string }>> }).sights;
+  const sightsForLang = sightsObj?.[lang] || sightsObj?.de || sightsObj?.en;
+  if (sightsForLang && sightsForLang.length > 0) {
+    schemas.push({
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      name: `${getLocalized(poi.name, lang) ?? poi.id}`,
+      numberOfItems: sightsForLang.length,
+      itemListElement: sightsForLang.slice(0, 50).map((s, i) => ({
+        "@type": "ListItem",
+        position: i + 1,
+        item: {
+          "@type": "TouristAttraction",
+          name: s.name,
+          description: s.text || s.name,
+          ...(s.category ? { additionalType: s.category } : {}),
+          containedInPlace: { "@type": "Place", name: getLocalized(poi.name, lang) ?? poi.id },
+        },
+      })),
+      inLanguage: lang,
+    });
+  }
 
   // ----- BreadcrumbList schema -----
   if (breadcrumbCrumbs.length > 0) {
@@ -458,6 +487,43 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     ? `<section class="plz-sights plz-sights-nearby"><h2>${I("nearbySights", lang)} (${nearbyArr.length})</h2>${nearbyArr.map((s) => renderSightCard(s, true)).join("")}</section>`
     : "";
 
+  // Weather widget HTML + JS (client-side fetch of Open-Meteo)
+  const weatherCopy: Record<Lang, { now: string; forecast: string; loading: string }> = {
+    de: { now: "Aktuell", forecast: "5-Tage-Vorhersage", loading: "Wetter…" },
+    hu: { now: "Most", forecast: "5 napos előrejelzés", loading: "Időjárás…" },
+    ro: { now: "Acum", forecast: "Prognoză 5 zile", loading: "Vremea…" },
+    en: { now: "Now", forecast: "5-day forecast", loading: "Weather…" },
+  };
+  const wc = weatherCopy[lang] || weatherCopy.en;
+  const weatherHtml = (poi.coords && poi.coords.length >= 2)
+    ? `<section class="plz-weather" id="plz-weather" data-lat="${poi.coords[1]}" data-lon="${poi.coords[0]}" data-lang="${lang}"><p class="plz-weather-loading">${escapeHtml(wc.loading)}</p></section>
+<script>(function(){var el=document.getElementById('plz-weather');if(!el)return;var lat=el.dataset.lat,lon=el.dataset.lon,lang=el.dataset.lang;var ICON=function(c){if(c===0)return'☀️';if(c<=2)return'🌤️';if(c===3)return'☁️';if(c>=45&&c<=48)return'🌫️';if(c>=51&&c<=57)return'🌦️';if(c>=61&&c<=67)return'🌧️';if(c>=71&&c<=77)return'🌨️';if(c>=80&&c<=82)return'🌧️';if(c>=85&&c<=86)return'🌨️';if(c>=95)return'⛈️';return'🌡️';};var DAYS={de:['So','Mo','Di','Mi','Do','Fr','Sa'],hu:['V','H','K','Sze','Cs','P','Szo'],ro:['Du','Lu','Ma','Mi','Jo','Vi','Sâ'],en:['Sun','Mon','Tue','Wed','Thu','Fri','Sat']};var CP={de:{now:'Aktuell',forecast:'5-Tage-Vorhersage'},hu:{now:'Most',forecast:'5 napos előrejelzés'},ro:{now:'Acum',forecast:'Prognoză 5 zile'},en:{now:'Now',forecast:'5-day forecast'}};var c=CP[lang]||CP.en;var d=DAYS[lang]||DAYS.en;fetch('https://api.open-meteo.com/v1/forecast?latitude='+lat+'&longitude='+lon+'&current=temperature_2m,weather_code&daily=temperature_2m_max,temperature_2m_min,weather_code&forecast_days=5&timezone=auto').then(function(r){return r.json();}).then(function(j){var html='';if(j.current){html+='<div class="plz-weather-now"><span class="plz-weather-icon">'+ICON(j.current.weather_code)+'</span><div><span class="plz-weather-label">'+c.now+'</span><strong>'+Math.round(j.current.temperature_2m)+'°C</strong></div></div>';}if(j.daily){html+='<div class="plz-weather-forecast"><span class="plz-weather-label">'+c.forecast+'</span><ul>';for(var i=0;i<j.daily.time.length;i++){var dt=new Date(j.daily.time[i]);html+='<li><span>'+d[dt.getDay()]+'</span><span>'+ICON(j.daily.weather_code[i])+'</span><strong>'+Math.round(j.daily.temperature_2m_max[i])+'°</strong><span class="plz-tmin">'+Math.round(j.daily.temperature_2m_min[i])+'°</span></li>';}html+='</ul></div>';}el.innerHTML=html;}).catch(function(){el.style.display='none';});})();</script>`
+    : "";
+
+  // Recent news HTML (build-time read from public/data/poi-news/<id>.json)
+  const newsCopy: Record<Lang, { heading: string; via: string }> = {
+    de: { heading: "Aktuelle Nachrichten", via: "via" },
+    hu: { heading: "Friss hírek", via: "innen:" },
+    ro: { heading: "Știri recente", via: "via" },
+    en: { heading: "Recent News", via: "via" },
+  };
+  const nc = newsCopy[lang] || newsCopy.en;
+  let newsHtml = "";
+  try {
+    const newsFp = path.resolve(process.cwd(), "public", "data", "poi-news", `${poi.id}.json`);
+    if (fs.existsSync(newsFp)) {
+      const items = JSON.parse(fs.readFileSync(newsFp, "utf-8")) as Array<{ title: string; snippet: string; url: string; source: string; date: string; lang?: string }>;
+      if (items.length > 0) {
+        const top = items.slice(0, 6);
+        const cards = top.map((it) => {
+          const dateShort = (it.date || "").slice(0, 10);
+          return `<li class="plz-news-card"><a href="${escapeHtml(it.url)}" target="_blank" rel="noopener nofollow"><div class="plz-news-meta"><span class="plz-news-source">${escapeHtml(it.source || "")}</span>${dateShort ? `<time class="plz-news-date" datetime="${escapeHtml(it.date)}">${escapeHtml(dateShort)}</time>` : ""}</div><h3 class="plz-news-title">${escapeHtml(it.title || "")}</h3>${it.snippet ? `<p class="plz-news-snippet">${escapeHtml(it.snippet)}</p>` : ""}</a></li>`;
+        }).join("");
+        newsHtml = `<section class="plz-news"><h2>${escapeHtml(nc.heading)} <span class="plz-news-count">${items.length}</span></h2><ul class="plz-news-grid">${cards}</ul><p class="plz-news-via">${escapeHtml(nc.via)} Google News + RSS</p></section>`;
+      }
+    }
+  } catch {}
+
   // Hero image
   const heroHtml = poi.image
     ? `<div class="plz-hero"><img src="${escapeHtml(poi.image)}" alt="${escapeHtml(name)}" loading="lazy"/></div>`
@@ -535,7 +601,8 @@ ${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, count
   <span class="plz-type-tag">${escapeHtml(typeLabel)}</span>
   ${audioHtml}
   ${heroHtml}
-  ${descText ? `<section><p>${escapeHtml(descText)}</p></section>` : ""}
+  ${descText ? `<section><p class="poi-lead-paragraph">${escapeHtml(descText)}</p></section>` : ""}
+  ${weatherHtml}
   ${geoItems.length > 0 || historyHtml ? `<section class="plz-geo-history">${historyHtml}${geoItems.length > 0 ? `<div class="plz-geo-box"><h3>${I("geography", lang)}</h3><div class="plz-meta">${geoItems.join("")}</div></div>` : ""}</section>` : ""}
   ${factsArr.length > 0 ? `<section><h2>${I("facts", lang)}</h2><ul class="plz-facts">${factsArr.map((f) => `<li>${escapeHtml(f)}</li>`).join("")}</ul></section>` : ""}
   ${didYouKnowHtml}
@@ -543,6 +610,7 @@ ${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, count
   ${faqHtml}
   ${sightsHtml}
   ${nearbyHtml}
+  ${newsHtml}
   <section>
     <a class="plz-cta" href="${countryMapUrl(countryId) ?? (poi.parent === countryId ? buildCountryPath(lang, countryId) : buildStatePath(lang, poi.parent))}">${I("viewMap", lang)} →</a>
     ${osmLink}
