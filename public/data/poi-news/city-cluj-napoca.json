@@ -5,374 +5,232 @@
     "url": "https://www.digi24.ro/stiri/barbat-din-cluj-napoca-condamnat-dupa-ce-si-a-terorizat-fosta-iubita-prin-intermediul-unei-aplicatii-bancare-3779253",
     "source": "digi24.ro",
     "lang": "ro",
+    "scope": "national",
     "date": "Fri, 22 May 2026 13:38:22 +0300"
   },
   {
-    "title": "Primăria Cluj-Napoca scoate la licitație un contract de 84 de milioane de lei, pentru un pasaj rutier care va reglementa unul dintre cele mai aglomerate noduri rutiere din oraș",
-    "snippet": "Primăria Cluj-Napoca a lansat licitația pentru realizarea unui pasajului rutier, în cartierul industrial Iris, la intersecția Bulevardului Muncii cu strada Oașului, unul dintre cele mai congestionate puncte de trafic din oraș, scrie ActualdeCluj.ro Contractul are o valoare estimată de 83,8 milioane ",
-    "url": "https://www.g4media.ro/primaria-cluj-napoca-scoate-la-licitatie-un-contract-de-84-de-milioane-de-lei-pentru-un-pasaj-rutier-care-va-reglementa-unul-dintre-cele-mai-aglomerate-noduri-rutiere-din-oras.html",
-    "source": "g4media.ro",
+    "title": "Primăria Cluj-Napoca scoate la licitație pasajul de la Oașului – Muncii: contract de aproape 84 de milioane de lei pentru unul dintre cele mai aglomerate noduri rutiere din oraș",
+    "snippet": "Primăria Cluj-Napoca a lansat licitația pentru realizarea pasajului rutier de la intersecția Bulevardului Muncii cu strada Oașului, unul dintre cele mai congestionate puncte de trafic...",
+    "url": "https://actualdecluj.ro/primaria-cluj-napoca-scoate-la-licitatie-pasajul-de-la-oasului-muncii-contract-de-aproape-84-de-milioane-de-lei-pentru-unul-dintre-cele-mai-aglomerate-noduri-rutiere-din-oras/",
+    "source": "Actual de Cluj",
     "lang": "ro",
-    "date": "Fri, 22 May 2026 13:21:45 +0000"
+    "scope": "city",
+    "date": "Fri, 22 May 2026 12:52:53 +0000"
   },
   {
-    "title": "U-BT Cluj-Napoca s-a calificat în finala Ligii Naţionale, după ce a învins-o pe SCM ''U'' Craiova - Digi Sport",
-    "snippet": "U-BT Cluj-Napoca s-a calificat în finala Ligii Naţionale, după ce a învins-o pe SCM ''U'' Craiova &nbsp;&nbsp; Digi Sport",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTEZhUGpOV3MxaVBtclVCbzRIUVlWcWlVaGg4VEJodHlDck1yQ2FYSFBIMlYzTWdMZld4YmFlZnpVQ1lqSUFwaVAwdXpMcVhDVWhKS1YyYnlVcVBaZy11M0dfSVpvTVVDZ1BZTmJqNUhhb3loZl9BVWthZHBoVHBad1BUTUItSDE2Z0RuNXotWXZZOEpMTk5KN1hoQ1I0UHhCVzdmYkpteW9tY3BGeVl3TWQ2M2dOaG5tbm9Xc0NvYVZyWm1XVWc5SzN6OE5Zd9IB2AFBVV95cUxOTlZOR0xZbUFpUEx2OW5UTjJHSjE3ZE52V3d4cGk3dU1FeEs3ZDFSSk13ZHp1dXpRbzdtbmw4VzVOUWVtbVF5aG9EcnFaVDZkcUwzc0lReFZNTDk1c29yOUlsUF9pTFNDN3FXNDhSUldHOTVYRHVNSy1vbnNmSnQzWnRhaGJDbWd4UVNBZjRQWE9zeTlVbVA3TEc4UFUtb001bTdzY24wai1fc3YyLTJTUldGdlZnWDRmM1AyMzhwYjZnTl9LRF94SHV6aWdSU2taXzU4bENtZVI?oc=5",
+    "title": "Bloc din Cluj-Napoca afectat de incendiu la ghena de gunoi, zeci de locatari autoevacuați în toiul nopții",
+    "snippet": "Fațada unui bloc de locuințe din Cluj-Napoca a fost afectată noaptea trecută de un incendiu la o ghenă de gunoi, produsă probabil din cauza fumatului....",
+    "url": "https://actualdecluj.ro/bloc-din-cluj-napoca-afectat-de-incendiu-la-ghena-de-gunoi-zeci-de-locatari-autoevacuati-in-toiul-noptii/",
+    "source": "Actual de Cluj",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 06:44:18 +0000"
+  },
+  {
+    "title": "Cum s-a produs accidentul mortal de azi din Cluj-Napoca, soldat cu decesul unui motociclist",
+    "snippet": "Accidentul mortal de azi din Cluj-Napoca soldat cu decesul unui motociclist ar fifost provocat de șoferul unei autoutilitare, care a intrat în intersecție fără să...",
+    "url": "https://actualdecluj.ro/cum-s-a-produs-accidentul-mortal-de-azi-din-cluj-napoca-soldat-cu-decesul-unui-motociclist/",
+    "source": "Actual de Cluj",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Thu, 21 May 2026 12:47:36 +0000"
+  },
+  {
+    "title": "Motociclistul rănit azi într-un tragic accident de circulație pe strada Făgetului din Cluj-Napoca a decedat",
+    "snippet": "Motociclistul rănit azi într-un tragic accident de circulație pe strada Făgetului din Cluj-Napoca a decedat, în ciuda manevrelor de resuscitare ce au durat mai bine...",
+    "url": "https://actualdecluj.ro/motociclistul-ranit-azi-intr-un-tragic-accident-de-circulatie-pe-strada-fagetului-din-cluj-napoca-a-decedat/",
+    "source": "Actual de Cluj",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Thu, 21 May 2026 11:07:15 +0000"
+  },
+  {
+    "title": "După succesul de la Eurovision, România speră la un nou trofeu internațional la World Choir Games din Suedia. Corul “Junior Vip” din Cluj-Napoca este singurul participant din țară și este deja calific",
+    "snippet": "Clujul este de ast zi singurul ora din Rom&#xE2;nia care a intrat &#xEE;n linie dreapt pentru Jocurile Corale Mondiale de la Helsingborg, Suedia. Cei care au ob&#x21B;inut aceast performan&#x21B; uria sunt copiii de la Corul Junior Vip , o emblem a Clujului, cu peste 30 de ani de activitate artistic",
+    "url": "https://www.opiniatimisoarei.ro/dupa-succesul-de-la-eurovision-romania-spera-la-un-nou-trofeu-international-la-world-choir-games-din-suedia-corul-junior-vip-din-cluj-napoca-este-singurul-participant-din-tara-si-este-deja-calif/22/05/2026",
+    "source": "Opinia Timișoarei",
+    "lang": "ro",
+    "scope": "county",
+    "date": "Fri, 22 May 2026 06:25:40 +0000"
+  },
+  {
+    "title": "Șanse mici de ploaie la Cluj-Napoca. Prognoza meteo 21 mai 2026.",
+    "snippet": "Șanse mici de ploaie la Cluj-Napoca. Prognoza meteo 21 mai 2026.",
+    "url": "https://www.monitorulcj.ro/actualitate/137536-vremea-la-cluj-napoca-in-prima-zi-a-sarbatorii-orasului-prognoza-meteo-21-mai-2026",
+    "source": "Monitorul de Cluj",
+    "lang": "ro",
+    "scope": "county",
+    "date": "Fri, 22 May 2026 08:10:26 +0000"
+  },
+  {
+    "title": "Parc fotovoltaic de 3,5 mil. € pe Valea Chintăului din Cluj-Napoca. Emil Boc: „Am semnat contractul”.",
+    "snippet": "Parc fotovoltaic de 3,5 mil. € pe Valea Chintăului din Cluj-Napoca. Emil Boc: „Am semnat contractul”.",
+    "url": "https://www.monitorulcj.ro/administratie/137525-parc-fotovoltaic-de-3,5-mil-eur-pe-valea-chintaului-din-cluj-napoca-emil-boc-am-semnat-contractul",
+    "source": "Monitorul de Cluj",
+    "lang": "ro",
+    "scope": "county",
+    "date": "Thu, 21 May 2026 08:11:55 +0000"
+  },
+  {
+    "title": "Anunț CTP Cluj-Napoca - Program special al mijloacelor de transport în comun de Zilele Clujului 2026",
+    "snippet": "Anunț CTP Cluj-Napoca - Program special al mijloacelor de transport în comun de Zilele Clujului 2026",
+    "url": "https://www.monitorulcj.ro/anunturi/137527-anunt-ctp-cluj-napoca-program-special-al-mijloacelor-de-transport-in-comun-de-zilele-clujului-2026",
+    "source": "Monitorul de Cluj",
+    "lang": "ro",
+    "scope": "county",
+    "date": "Thu, 21 May 2026 08:11:55 +0000"
+  },
+  {
+    "title": "Comunicat de presă CTP Cluj-Napoca - Reconfigurarea traseului liniei metropolitane M24",
+    "snippet": "Comunicat de presă CTP Cluj-Napoca - Reconfigurarea traseului liniei metropolitane M24",
+    "url": "https://www.monitorulcj.ro/anunturi/137514-comunicat-de-presa-ctp-cluj-napoca-reconfigurarea-traseului-liniei-metropolitane-m24",
+    "source": "Monitorul de Cluj",
+    "lang": "ro",
+    "scope": "county",
+    "date": "Thu, 21 May 2026 08:11:55 +0000"
+  },
+  {
+    "title": "Premieră pe piața turistică: zbor charter direct Riga – Cluj-Napoca pentru promovarea Transilvaniei",
+    "snippet": "Cluj-Napoca, martie 2026 – Piața turistică din Transilvania marchează o premieră importantă: un zbor charter...",
+    "url": "https://www.floresti24.ro/premiera-pe-piata-turistica-zbor-charter-direct-riga-cluj-napoca-pentru-promovarea-transilvaniei/",
+    "source": "Florești24",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Mon, 09 Mar 2026 13:19:11 +0000"
+  },
+  {
+    "title": "Baschet masculin: U-BT Cluj-Napoca s-a calificat în finala Ligii Naționale - Agerpres",
+    "snippet": "Baschet masculin: U-BT Cluj-Napoca s-a calificat în finala Ligii Naționale Agerpres",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdXNIbnN4bVlyVlJNVVdLVGd0Z0xXZWVTb3ZsbnY0NlJENThHSlFhQ2pta21fVnRPZ29RdjVQVC1oaUI5dWJnVFI2YmFSY3AycFBnNUFqdThmQVJMa0lyemF6TFlUanhwZXBsRGxFaFpUTWVKZ2UwdVBZWHdsUTNHcGVaRHdnaDBxcFZoc1lrMFJpdVpQVlFfdGtwV3I5VmxrLUgxc0FHTDlTR3VadERCZHZmazZDQlhJajRn?oc=5",
     "source": "google-news",
     "lang": "ro",
-    "date": "Wed, 20 May 2026 19:57:00 GMT"
+    "scope": "search",
+    "date": "Wed, 20 May 2026 19:09:13 GMT"
   },
   {
     "title": "CSM Oradea – U-BT Cluj-Napoca, finala Ligii Naționale de baschet masculin pentru a 5-a oară în ultimii 6 ani - GSP",
-    "snippet": "CSM Oradea – U-BT Cluj-Napoca, finala Ligii Naționale de baschet masculin pentru a 5-a oară în ultimii 6 ani &nbsp;&nbsp; GSP",
+    "snippet": "CSM Oradea – U-BT Cluj-Napoca, finala Ligii Naționale de baschet masculin pentru a 5-a oară în ultimii 6 ani GSP",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbC1oVmtRX2R6eTZ6MmtsWW5HRXc4dk9SRXBMdVhrSlhzWU9aSE5qMlc0ZEVqSGQ4RDloVEZ6RnRadDhKbHpHaE9MQU93LWpCMzQ3dk1VX050azlpZzd1aFQySHNFTnFhR25saXRTRmFkNWozLWVISG5Mem9Ud1ZvQlRzY1J0eGk0aFB3Nzl2WTNKWHJ4OGdr0gFIQVVfeXFMT0dUb09EWnI1Zm1oeFVsSW1oakF6clotZDMtNHBwM0VUcnlqdHp2V1ZLMnA3N1d3X1NZWHk3RGdtOHZ2TUJPSDhO?oc=5",
     "source": "google-news",
     "lang": "ro",
+    "scope": "search",
     "date": "Thu, 21 May 2026 16:41:11 GMT"
   },
   {
-    "title": "U-BT Cluj-Napoca va avea șansa să obțină un nou titlu de campioană - Baschet.ro",
-    "snippet": "U-BT Cluj-Napoca va avea șansa să obțină un nou titlu de campioană &nbsp;&nbsp; Baschet.ro",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT2tJSXpacVh5ekl3TEcwUVdaWEh6VGIxZWZLeTNFRHpQNU1VS0JaS0tZMWtWaS0xVXdyS3F2ODBTa0oxX1FUT2FHT0ZidjdXSDVMYzVVV3FpblV5UGpWXzZHdVlpbk5mSWF6QXpOcDR6bEgzWnFHVkVjM19PQ1BuaUJNbE1iT1lOLXF2M1JMZTdTUzBFaEUwNjZyZDJmeTlTTUhsdnJCQ2R3UWNTOUM5VjJSbnJWTVNkQ1NpSFhnVk9FMThF?oc=5",
+    "title": "U-BT Cluj-Napoca s-a calificat în finala Ligii Naţionale, după ce a învins-o pe SCM ''U'' Craiova - Digi Sport",
+    "snippet": "U-BT Cluj-Napoca s-a calificat în finala Ligii Naţionale, după ce a învins-o pe SCM ''U'' Craiova Digi Sport",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTEZhUGpOV3MxaVBtclVCbzRIUVlWcWlVaGg4VEJodHlDck1yQ2FYSFBIMlYzTWdMZld4YmFlZnpVQ1lqSUFwaVAwdXpMcVhDVWhKS1YyYnlVcVBaZy11M0dfSVpvTVVDZ1BZTmJqNUhhb3loZl9BVWthZHBoVHBad1BUTUItSDE2Z0RuNXotWXZZOEpMTk5KN1hoQ1I0UHhCVzdmYkpteW9tY3BGeVl3TWQ2M2dOaG5tbm9Xc0NvYVZyWm1XVWc5SzN6OE5Zd9IB2AFBVV95cUxOTlZOR0xZbUFpUEx2OW5UTjJHSjE3ZE52V3d4cGk3dU1FeEs3ZDFSSk13ZHp1dXpRbzdtbmw4VzVOUWVtbVF5aG9EcnFaVDZkcUwzc0lReFZNTDk1c29yOUlsUF9pTFNDN3FXNDhSUldHOTVYRHVNSy1vbnNmSnQzWnRhaGJDbWd4UVNBZjRQWE9zeTlVbVA3TEc4UFUtb001bTdzY24wai1fc3YyLTJTUldGdlZnWDRmM1AyMzhwYjZnTl9LRF94SHV6aWdSU2taXzU4bENtZVI?oc=5",
     "source": "google-news",
     "lang": "ro",
-    "date": "Thu, 21 May 2026 09:19:20 GMT"
+    "scope": "search",
+    "date": "Wed, 20 May 2026 19:57:00 GMT"
   },
   {
-    "title": "Comunicat de presă - Parchetul de pe lângă Judecătoria Cluj-Napoca - Agerpres",
-    "snippet": "Comunicat de presă - Parchetul de pe lângă Judecătoria Cluj-Napoca &nbsp;&nbsp; Agerpres",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQVhHbmtqbF9OWDlKZFFNZGlOYVo4ZU9SS3dPSDlWdWM3cTI3bGRHcWxBRDhRTm9RWXItSm5nNk8yakdTRFhGVFdMeHVOcjAtV1VjQWp3eTNRSVQ5MmxTb3Y0Y2NXOVhZdEVkaFNkZFpHVWJvRWEtaUE5bU5aNml1cEREWWVWanZScE5ieFFqWjZFSk9xMGRZYmdkR2pUeGVGdWVieDl4WGVGYzN4aUs1SEJtLXVmZEgx?oc=5",
+    "title": "Două orașe mari ale țării, Cluj-Napoca și Constanța, își sărbătoresc zilele în acest weekend / Unde ne putem distra - G4Media",
+    "snippet": "Două orașe mari ale țării, Cluj-Napoca și Constanța, își sărbătoresc zilele în acest weekend / Unde ne putem distra G4Media",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZFpMbmRfV2VYSDFPc0Zqam81UlU1T3FyNlhCNFlWaDZjanNMTVg3MFFOOEhyQzZ2dTlMUkhXMk5PVU93TVkwdENIeUM1ZFlqQUU1bi0xZUdzd1AxWE0tMUZqNUdpUC1obFRYMDg0Q0h4S0x5VEkxbUV3SDdydGNoemp1bndFQjdUWVhxSl8zWnJCMVl0SkIySUQ0MmNoWmJ0OUJ2YnN2TjlyR1FXTF82Qlo3TzZfTjI3WmFld2JUV1laRFBfVGJWVV9GM3ZSN2pQRTBDdjhR?oc=5",
     "source": "google-news",
     "lang": "ro",
-    "date": "Thu, 21 May 2026 13:39:29 GMT"
-  },
-  {
-    "title": "Bărbat din Cluj-Napoca, condamnat după ce și-a terorizat fosta iubită prin intermediul unei aplicații... - Digi24",
-    "snippet": "Bărbat din Cluj-Napoca, condamnat după ce și-a terorizat fosta iubită prin intermediul unei aplicații... &nbsp;&nbsp; Digi24",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYWdHeTVoMWtkcWpBTkdER0puZ0RLQXpLVEt1SEg1b3AwWVFjLXJ0ZHZ0X083UmFhWTBHUDZxQ0Ewc3hMTjVBTGwwdGFHTHVxcTVsSHY2U01Ubnd2YV9WaERIMkx0M19VYmR0YmtwRE1yd2FFMzQxRnRaUlRMQ0h6ZnpjR1VMRkxkM0JMU3NuOXBqTnZsLXdJdG9VNmtDdWMxZjY4UjVWRDhvNHNZVDV0Snp5OFhtQjBuckpySkpQUEt3NDRYNHB1MkNtUkl5bmhrN0JuSnR3OVN1bUg30gHnAUFVX3lxTFBzbHI1ZEhmRnUwMnhSOVQwNlNVamppN0hZbXFJbVQ0U0FhdDVaRWtJdTdPVkRYZ290c0RjOWsxNEQtdEFnUkpNUV9SUXhFWS1CS2R6YkZGNHhWX2gwWHl1WEZOdWVjbWI3dkJXemFIb25Hb1Vvc2JFelVGM2EtdzhoZmt5Q2k2NEJMQWwzbk0zRWY5Y1EyUGJoQXJwOVhBdDZqVnFjaVNPWHl4b2JOX3NtNVlLek1pZV8wTndCZmNSRUJXbXY3RFV1MndSbnhmZjcyTXNxVVJleHlFM18xbV8zUE93UGdRTQ?oc=5",
-    "source": "google-news",
-    "lang": "ro",
-    "date": "Thu, 21 May 2026 07:50:32 GMT"
-  },
-  {
-    "title": "Tragedie rutieră la Cluj-Napoca - ziarulfaclia.ro",
-    "snippet": "Tragedie rutieră la Cluj-Napoca &nbsp;&nbsp; ziarulfaclia.ro",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iNUZoN2dWbXZLaW9fQUppUWxWT3pEMjBTSGc5RmdhY2xGQjRoUUFnSWg0U1BYczJjTXlWUWJzd3ltYlpQbDdMM3NlWDc1enpkWWQ4bWhxNjNUVUFzMkF5NWtncm9haGc?oc=5",
-    "source": "google-news",
-    "lang": "ro",
-    "date": "Thu, 21 May 2026 15:16:35 GMT"
-  },
-  {
-    "title": "FOTO După ce a închis cafenele în București, Starbucks deschide acum o unitate la Cluj-Napoca - Profit.ro",
-    "snippet": "FOTO După ce a închis cafenele în București, Starbucks deschide acum o unitate la Cluj-Napoca &nbsp;&nbsp; Profit.ro",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQk56MXR3TVBrQ3pGaW9ZemVWN2V1WWVKbE9SMVYyd21WaUxiaWtNREc0bFhpTzA2aHlvTWk5dDFpMzdzajB2b3NjU2xZQTI0bjhuRFFBWjc4T0VCdWoyTjdabU5COW5DUmJsQWpVSnMwZ3otcS16TzFzOWQ4MFFHTFpkT0xiNlMxYmY0aVZvSG9xdEluWWUzNFhDUkljT1VBdV9vWVlOaTZMM2JnUE9PRkptSXJ0YUFkTXhyVnZvZDNCY2ZQcUktTFhETkdDZkVCZzVya29nclcyZ01HYThXd2J3?oc=5",
-    "source": "google-news",
-    "lang": "ro",
-    "date": "Thu, 21 May 2026 12:38:00 GMT"
-  },
-  {
-    "title": "CTP Cluj-Napoca: modernizarea tramvaielor a redus aproape complet evenimentele tehnice - Club Feroviar",
-    "snippet": "CTP Cluj-Napoca: modernizarea tramvaielor a redus aproape complet evenimentele tehnice &nbsp;&nbsp; Club Feroviar",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IdTRUQTJxZXd2U01wRnVLaGUxQ0otNTJWbXVTbW1Da0JvN2I0cV9WX1kxVGFRNFNyUnhwVkhlS0tVQzh5Vk9CNEE2U0JRb1dQM1NoUGFWNjdDamstNEZKVE5wWkxoRE1QTjU0MXA1dUhNQ0U?oc=5",
-    "source": "google-news",
-    "lang": "ro",
-    "date": "Fri, 22 May 2026 12:21:15 GMT"
-  },
-  {
-    "title": "Cât costă un litru de benzină și motorină, vineri, 22 mai 2026, în București, Cluj-Napoca, Timișoara, Iași și Constanța - Libertatea",
-    "snippet": "Cât costă un litru de benzină și motorină, vineri, 22 mai 2026, în București, Cluj-Napoca, Timișoara, Iași și Constanța &nbsp;&nbsp; Libertatea",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUXhPMkYtbDFmS3pPUWpYdDQ2cjZtbDRiTUZvUHZDZjhqR2pQTlRUam5PYUQ5dTJOd0NYc2dzQlpqMVljQzEyYS1vQ2d3WHloM3ZhZWU0emdSOHM5MHBUOWxqbVNsU042Y2RvbGlRVy1Edk9QcG1qb2p5WFJGZk8tZE9fVHhkQWxiODRpOTN5NXZBYUQ3Zng1Y19FbEhVTjhvM3dFOVM3Szg1U0FJYlFTbkFtXzRaWWRXc1FV?oc=5",
-    "source": "google-news",
-    "lang": "ro",
-    "date": "Fri, 22 May 2026 05:04:57 GMT"
+    "scope": "search",
+    "date": "Fri, 22 May 2026 14:33:59 GMT"
   },
   {
     "title": "Cum se pregătește Cluj-Napoca pentru Noaptea Muzeelor: zeci de evenimente în muzee, galerii și spații expoziționale | AUDIO - : Europa FM",
-    "snippet": "Cum se pregătește Cluj-Napoca pentru Noaptea Muzeelor: zeci de evenimente în muzee, galerii și spații expoziționale | AUDIO &nbsp;&nbsp; : Europa FM",
+    "snippet": "Cum se pregătește Cluj-Napoca pentru Noaptea Muzeelor: zeci de evenimente în muzee, galerii și spații expoziționale | AUDIO : Europa FM",
     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcjd2ZlFCZ0ZuMHhZaHp5TU9VbDhhMXgzZ2F3MTdaLUM1U3hfTXRzX1JPZGx3d1ZyZkU4dkExSmZ3WkpWRldqUDBCRWF0NUtXeXM3a3g2YU94Y195Slk4QjJZOUlaRzRMakdER3Q4eWhaMjl2UFBHR1dDR1VlWVFtdXQ5MHpUYk5GWjVUQXk2U0VtRlYyNnRqUTctV1pvZldMQWpfc09lTk9VNXNMM1hCSnFYZkhtRzNmdkpjWjB2RHl5X0xEVFlDeERYdWRacmo1eXVXTw?oc=5",
     "source": "google-news",
     "lang": "ro",
+    "scope": "search",
     "date": "Thu, 21 May 2026 13:19:29 GMT"
   },
   {
     "title": "Corul „Junior Vip” din Cluj-Napoca va reprezenta România la World Choir Games 2026 din Suedia - Stirile ProTV",
-    "snippet": "Corul „Junior Vip” din Cluj-Napoca va reprezenta România la World Choir Games 2026 din Suedia &nbsp;&nbsp; Stirile ProTV",
+    "snippet": "Corul „Junior Vip” din Cluj-Napoca va reprezenta România la World Choir Games 2026 din Suedia Stirile ProTV",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX1dUeFhvUzh6d1g0M0tjaUg5cy0zTTZjS295ZTE0WDB0WTZfS29NQlc0Nlpic0w4b2V5alhGdTFMSVRUOVNjRTBTOENzbnJNeGNVSDNEUUNmQmFMendkMjVoWGR1TFlQQTUtUVhHMEE3MDlfNVpoV05YSWFRYmM3UGg4ZGpBLVcxQmhZZUxnb3ZWWjZvN1ZrSThhTzJ4M05tVnhKZnBXYUs2eHhRWTdRZ1FRaWNsX1NST2daRC1kUlpJdjN4eUNV?oc=5",
     "source": "google-news",
     "lang": "ro",
+    "scope": "search",
     "date": "Fri, 22 May 2026 11:44:14 GMT"
   },
   {
     "title": "Primăria Cluj-Napoca a investit 11 mil. euro într-un centru pentru seniori - Ziarul Financiar",
-    "snippet": "Primăria Cluj-Napoca a investit 11 mil. euro într-un centru pentru seniori &nbsp;&nbsp; Ziarul Financiar",
+    "snippet": "Primăria Cluj-Napoca a investit 11 mil. euro într-un centru pentru seniori Ziarul Financiar",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbW04T1B0RzI3ZDFaT0x2VGhVaDBvaUcwaGlCRFcxR0puZkZCbXg0QWVYMjBqNGpfN2tEbnBpd1doa01NVUs0azlkX0tWaUtlLWMySno0NncxQ09MYWE4ZVB0WmYzYURhb1p1OFZDd1BWdnJzbG9EZDY2S0l1dmo4emlRZ3RHMlREQ01za0Rabk1PclNuWHBjYXZobmZSWU1oZDBNTUNrQ0N0Z2lh0gGvAUFVX3lxTE9XOGFBcW8wNkF0c2NIZ1JxRjdZVzNfYWVmNzBIUDVoX3FRaGtsWVUtM2xzcF9sblRhOTlOcG56R0tmUTV1a2tRNC10eWpXaFBuR0VUbl8wd29vd1ZjZVVPaEdWQ1FIZ05RZkVRd3I3ZEk5TThxNF9acHliQzVhUmJic1Q0NlNISmZGdklTbnM4akZrR0VHQnozWWJKMmMxYWlocGg5WGVucE9sdjctZDQ?oc=5",
     "source": "google-news",
     "lang": "ro",
+    "scope": "search",
     "date": "Thu, 21 May 2026 13:22:02 GMT"
   },
   {
+    "title": "Bărbat din Cluj-Napoca, condamnat după ce și-a terorizat fosta iubită prin intermediul unei aplicații... - Digi24",
+    "snippet": "Bărbat din Cluj-Napoca, condamnat după ce și-a terorizat fosta iubită prin intermediul unei aplicații... Digi24",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYWdHeTVoMWtkcWpBTkdER0puZ0RLQXpLVEt1SEg1b3AwWVFjLXJ0ZHZ0X083UmFhWTBHUDZxQ0Ewc3hMTjVBTGwwdGFHTHVxcTVsSHY2U01Ubnd2YV9WaERIMkx0M19VYmR0YmtwRE1yd2FFMzQxRnRaUlRMQ0h6ZnpjR1VMRkxkM0JMU3NuOXBqTnZsLXdJdG9VNmtDdWMxZjY4UjVWRDhvNHNZVDV0Snp5OFhtQjBuckpySkpQUEt3NDRYNHB1MkNtUkl5bmhrN0JuSnR3OVN1bUg30gHnAUFVX3lxTFBzbHI1ZEhmRnUwMnhSOVQwNlNVamppN0hZbXFJbVQ0U0FhdDVaRWtJdTdPVkRYZ290c0RjOWsxNEQtdEFnUkpNUV9SUXhFWS1CS2R6YkZGNHhWX2gwWHl1WEZOdWVjbWI3dkJXemFIb25Hb1Vvc2JFelVGM2EtdzhoZmt5Q2k2NEJMQWwzbk0zRWY5Y1EyUGJoQXJwOVhBdDZqVnFjaVNPWHl4b2JOX3NtNVlLek1pZV8wTndCZmNSRUJXbXY3RFV1MndSbnhmZjcyTXNxVVJleHlFM18xbV8zUE93UGdRTQ?oc=5",
+    "source": "google-news",
+    "lang": "ro",
+    "scope": "search",
+    "date": "Thu, 21 May 2026 07:50:32 GMT"
+  },
+  {
     "title": "Mai multe apartamente avariate şi zeci de oameni evacuaţi, dintr-un bloc din Cluj-Napoca, din cauza unui incendiu produs la o ghenă de gunoi. Focul, cauzat cel mai probabil de o ţigară aruncată aprins",
-    "snippet": "Mai multe apartamente avariate şi zeci de oameni evacuaţi, dintr-un bloc din Cluj-Napoca, din cauza unui incendiu produs la o ghenă de gunoi. Focul, cauzat cel mai probabil de o ţigară aruncată aprinsă &nbsp;&nbsp; News.ro",
+    "snippet": "Mai multe apartamente avariate şi zeci de oameni evacuaţi, dintr-un bloc din Cluj-Napoca, din cauza unui incendiu produs la o ghenă de gunoi. Focul, cauzat cel mai probabil de o ţigară aruncată aprinsă News.ro",
     "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOb1JlaVZ0c2pDVVNlVjhHNF8yRHRIbl9uV3NtdDJqTl9JNWdfWGxDZXpycTVLdGtOQjVEcWw2VldjQ253UUNMNDFSaHFWUWlPTmJ1c0p1WUQyTS1OM1ZRY1QxQ0dkeDZTZ1RCZDZxa3pLWTBDNjEwUThVZngwT0s4RFY3V0JneHlKQlJxS0ZrY3U1eW0tdm9TYzFITDJJXy0wNzEwcGxUbVE5TG9nX0xJRHExbFM0WnBlWmF1N2NKMHlhbVdMQnplZ0VZc3VsbUgtMU40ODB1a3RTZWFWVUFoVVhPdTZPSFA0bjEwc0h0andXM1ItN2hGWEZCZ1JyejFTakFieDdnXzdldlo5dWd1WGNnSWJxT3NJVjVPWG9CaGhVaC1jQ29sbnVBWEdoVENYQURUYS04T180dGsyX3BDTkl0S0RzY0J6QXJ4U1VBNGs1SzFqR3ZoWlppaFQ2NUpvNUcyU2JFeG9ZZHNHX1BTY3FB?oc=5",
     "source": "google-news",
     "lang": "ro",
+    "scope": "search",
     "date": "Fri, 22 May 2026 05:54:33 GMT"
   },
   {
-    "title": "Cum s-a produs accidentul mortal de azi din Cluj-Napoca, soldat cu decesul unui motociclist - Actualdecluj",
-    "snippet": "Cum s-a produs accidentul mortal de azi din Cluj-Napoca, soldat cu decesul unui motociclist &nbsp;&nbsp; Actualdecluj",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSlpHaVBhQ1k3dTlxUjZmWnc2alBqTjE1QmEtM05YVlFyUERHZFFsbmRWeTRSaEs2NjZ0WTFGVVVDYmpHdWcyZDFSWjhwVnd5b1VOaFBBTFRnYUpnSW1Fa3N1N05fVGtxUkJRQ1lZVUNENjJ6ZUNTY1p5Mk9EbDhpaGpwNmxNcUhvOVo2U1h3QXRvR1dFdjBwUkhaSmhHU1lKRjliRE5kQlgxNk5mUVk1S3lReUItUQ?oc=5",
+    "title": "U-BT Cluj-Napoca va avea șansa să obțină un nou titlu de campioană - Baschet.ro",
+    "snippet": "U-BT Cluj-Napoca va avea șansa să obțină un nou titlu de campioană Baschet.ro",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT2tJSXpacVh5ekl3TEcwUVdaWEh6VGIxZWZLeTNFRHpQNU1VS0JaS0tZMWtWaS0xVXdyS3F2ODBTa0oxX1FUT2FHT0ZidjdXSDVMYzVVV3FpblV5UGpWXzZHdVlpbk5mSWF6QXpOcDR6bEgzWnFHVkVjM19PQ1BuaUJNbE1iT1lOLXF2M1JMZTdTUzBFaEUwNjZyZDJmeTlTTUhsdnJCQ2R3UWNTOUM5VjJSbnJWTVNkQ1NpSFhnVk9FMThF?oc=5",
     "source": "google-news",
     "lang": "ro",
-    "date": "Thu, 21 May 2026 22:26:56 GMT"
+    "scope": "search",
+    "date": "Thu, 21 May 2026 09:19:20 GMT"
+  },
+  {
+    "title": "Cât costă un litru de benzină și motorină, vineri, 22 mai 2026, în București, Cluj-Napoca, Timișoara, Iași și Constanța - Libertatea",
+    "snippet": "Cât costă un litru de benzină și motorină, vineri, 22 mai 2026, în București, Cluj-Napoca, Timișoara, Iași și Constanța Libertatea",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUXhPMkYtbDFmS3pPUWpYdDQ2cjZtbDRiTUZvUHZDZjhqR2pQTlRUam5PYUQ5dTJOd0NYc2dzQlpqMVljQzEyYS1vQ2d3WHloM3ZhZWU0emdSOHM5MHBUOWxqbVNsU042Y2RvbGlRVy1Edk9QcG1qb2p5WFJGZk8tZE9fVHhkQWxiODRpOTN5NXZBYUQ3Zng1Y19FbEhVTjhvM3dFOVM3Szg1U0FJYlFTbkFtXzRaWWRXc1FV?oc=5",
+    "source": "google-news",
+    "lang": "ro",
+    "scope": "search",
+    "date": "Fri, 22 May 2026 05:04:57 GMT"
+  },
+  {
+    "title": "Accident grav pe DN1 Aleșd – Cluj-Napoca - AlesdOnline",
+    "snippet": "Accident grav pe DN1 Aleșd – Cluj-Napoca AlesdOnline",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZXl6MzBibTRfY1NQYVJaVDNid1dJNUxhdXhOdTZvNHJEdlk5d2J1c3BTYVdhZEtNanltWlNqZ21IcFVBMHhWMi1WcVFQb0haZjBYbWQwbktTNnRXQVVfY3FnWlZVR0RGa3FXWDZHZjJEX3pnVHF3Q1pLQXBDNmFGVDNFbw?oc=5",
+    "source": "google-news",
+    "lang": "ro",
+    "scope": "search",
+    "date": "Wed, 20 May 2026 18:17:29 GMT"
   },
   {
     "title": "Un poliţist din Cluj-Napoca, găsit mort în casă - Observator News",
-    "snippet": "Un poliţist din Cluj-Napoca, găsit mort în casă &nbsp;&nbsp; Observator News",
+    "snippet": "Un poliţist din Cluj-Napoca, găsit mort în casă Observator News",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdTd6SUJLVTY1SmR4eEZIakluYndTVGRrTm9qVGc3WUZfeTNOemRjenRrRG1SeE11NV9scnpaczgxTXkwRnZVb0dkNUpqRVNxOVlEVWp2Tmp1WW4wVHNYQmJKZjFzSFRDMzVfY0pyQ20wX3hjeFpmUktOX2pEbEZlMkVjRjB0amloQ3YzTERSR2Z3UVBEc1NtZQ?oc=5",
     "source": "google-news",
     "lang": "ro",
+    "scope": "search",
     "date": "Wed, 20 May 2026 06:39:00 GMT"
   },
   {
-    "title": "Congres internațional de chirurgie robotică la Cluj-Napoca. Intervenții live Da Vinci și laparoscopie 3D în cazuri oncologice - Cluj24.ro",
-    "snippet": "Congres internațional de chirurgie robotică la Cluj-Napoca. Intervenții live Da Vinci și laparoscopie 3D în cazuri oncologice &nbsp;&nbsp; Cluj24.ro",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQW53NGJ1a0dPajJXbWdzdlBHNEFEckwwa2tJWUxGZk1Ka1N5bGJ3Q2lwN3l6ZlphTzdCa0ZwSjdWajQyTENRUFJ6V3JNeGg5bzRPN180RTlRTmwtbWtmaWNYTU5VQWRrTjVvMWk4YW5SZzZtZmZGU1NMSlhPMlJ2RUhCTURuYVByWms2bUFTZ3FkSy1BRGpWNGtEQkhieS01dFpOSkk1SVpJR3JkVFhFZXJTVm4xTHRkMDB5VHRrR0R2UDdYZ1BQMlNqQThlYlVwWGljWENTX0FMZWEyUHAzNlFZWVhxSFc5VlE?oc=5",
-    "source": "google-news",
-    "lang": "ro",
-    "date": "Thu, 21 May 2026 06:00:49 GMT"
-  },
-  {
-    "title": "Emil Boc a luat decizia și Cluj-Napoca dă iar ora exactă în România: „Va costa 6.000.000 de lei” - Prosport",
-    "snippet": "Emil Boc a luat decizia și Cluj-Napoca dă iar ora exactă în România: „Va costa 6.000.000 de lei” &nbsp;&nbsp; Prosport",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XRzBJLXk5Z0JqdDc2WVlHczhucjJlZ2xBd2VUdXB4Q1RrWEdYMVprbkdiMUNIemV4ZkFpcEVrMXpGZUFEWWZtLXBwdjRBWnh6dE5UUVhXWHVRWm9FUTRjbmFaZ1U1ZXlkaTdrV1BwSTVPVGRoWGRR?oc=5",
-    "source": "google-news",
-    "lang": "ro",
-    "date": "Tue, 19 May 2026 16:34:21 GMT"
-  },
-  {
     "title": "Kolozsvár főterén a Tyúk - Filmtett",
-    "snippet": "Kolozsvár főterén a Tyúk &nbsp;&nbsp; Filmtett",
+    "snippet": "Kolozsvár főterén a Tyúk Filmtett",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56MXoxLWlqOG9tMVlhTldLeXotRXB3YlFjbVVJS280UzJFVVoxdFVwLVFPVHIyTTl3djEyUjRqVzF3Z2E4M0d3RFEtVHVfdGJwQlVHcHlKRlo0c1cwd1pV?oc=5",
     "source": "google-news",
     "lang": "hu",
+    "scope": "search",
     "date": "Thu, 21 May 2026 13:27:06 GMT"
   },
   {
     "title": "Jön a szokásos döntő: Kolozsvár–Nagyvárad csata a kosárbajnoki címért - Székely Sport",
-    "snippet": "Jön a szokásos döntő: Kolozsvár–Nagyvárad csata a kosárbajnoki címért &nbsp;&nbsp; Székely Sport",
+    "snippet": "Jön a szokásos döntő: Kolozsvár–Nagyvárad csata a kosárbajnoki címért Székely Sport",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMmZmYzdFb2xqMENocHN3UF8wcGVXVHlZUDIteC14N24zYTNDcGdMaVVjMUVIbmR0enYxS0dBMl9QQXI2QUFOVXZSUFZpY0hsdWdhSUQ5b3dUVXhVeTU5ZW9aTnZUSU5QTXhMbHJTN192LXU4Y19tVXp1NXl3bVhVMGIyUlpzMmxaalZMbm5MdFJ2MTZCeHNPcV9EZlF1VjBPNm5qbHhJblF5aFE?oc=5",
     "source": "google-news",
     "lang": "hu",
+    "scope": "search",
     "date": "Fri, 22 May 2026 10:41:07 GMT"
-  },
-  {
-    "title": "Egykor a hadsereg által használt területen épül sürgősségi kórház Kolozsvár közelében - Magyar Építők",
-    "snippet": "Egykor a hadsereg által használt területen épül sürgősségi kórház Kolozsvár közelében &nbsp;&nbsp; Magyar Építők",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV1RuRVB4ODNrOFFURUxDWjdIdGV5b2dCeHBVc0R0Wk4xbE1CZ29SUkZaU2tzWmtRdS1TR0VPcTZOLTN5cE9RLVZLOXYzWjFzYVZVQy1fdGFJSzJleGVNai1fNjRpOHpJUmo0b2pyUWt2ZU9uQ0stMi0zdG83ZnBScmJnakFrMGJQRHc1a25zNWRCR1Z3M0g3cW9FU2Zzc3poUVh2amtSZVFVNzJXekpqc3N5bGV2al9aVFBibElYY1gtaVk?oc=5",
-    "source": "google-news",
-    "lang": "hu",
-    "date": "Wed, 13 May 2026 07:00:00 GMT"
-  },
-  {
-    "title": "Már Kolozsvár közvetlen közelében is egyre sűrűbben bukkan fel a medve - Krónika",
-    "snippet": "Már Kolozsvár közvetlen közelében is egyre sűrűbben bukkan fel a medve &nbsp;&nbsp; Krónika",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdGQzTm5TWjhGVkMtME5WYmVIN3Fsazlra1BxOGtNeTFjTS1xbUpkN2I1ank3REtJWGp2a29zY0VSSmt3NFJ3NldHVnE1MmxGMWVCOWx6SjR5ZUJoc1E1cFdqREIyZEYtQVZUNWNZN2dCZG1IX2JWOElpYXMtU2ZyalBha1g0MzQ1UmM0dEFBMEFyUzFiQXEtdmNvLWRXOFpTVmt5Skpn?oc=5",
-    "source": "google-news",
-    "lang": "hu",
-    "date": "Fri, 22 May 2026 00:35:35 GMT"
-  },
-  {
-    "title": "Kolozsvár–Budapest járatért lobbiztak a Wizz Air „szülinapján” - Maszol",
-    "snippet": "Kolozsvár–Budapest járatért lobbiztak a Wizz Air „szülinapján” &nbsp;&nbsp; Maszol",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQWR2WmlpSUhKcC1VNnZKQmR6bnhLVjFQaGhHZmdhN0lHWjFLNzNWd2N3YzRhTmQtdnROakZzNlliSmdoMzBjcjdFSTdjQlQ1bzJDd2Nqd0ZQN08zaDItdy1XSXNTeS1IaW13blk3NWdkMkJpbk8zOVFIZDZnWlV1Ylk4MzZjZEhGajNrVWd3?oc=5",
-    "source": "google-news",
-    "lang": "hu",
-    "date": "Fri, 15 May 2026 12:08:00 GMT"
-  },
-  {
-    "title": "Kolozsvári Rádió. . Ünnepi hangversenyre készül az idén 10 éves Kolozsvár Magyar Gyermekkórusa: szombaton délután 6 órára várják az érdeklődőket a Farkas utcai református templomba. A meghívót Takács ",
-    "snippet": "Kolozsvári Rádió. . Ünnepi hangversenyre készül az idén 10 éves Kolozsvár Magyar Gyermekkórusa: szombaton délután 6 órára várják az érdeklődőket a Farkas utcai református templomba. A meghívót Takács Arankával, a csapat alapítójával és művészeti v &nbsp;&nbsp; facebook.com",
-    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQUXY4UHBhdkx4Z0lldXdFMFFkazd1WXpwckhwTm9rMGloSG5GZGNTaGJ0UFRwY3RhcXVpRlMxQ01SS1JqdEh1WWtWaVBTZVQxcEZkeExRNWFWQUNwLWlfVktHdVI2TXRvYmE3aHl1ZFZyN1VtdmYxTGNMbnNNSGtzdkFuX3VfRmdxT01DYWk1Q3laWlRReTgyc19Xa1c3U05YeVk2c2FSX3VQTGV1RHdmTW4wQ1RfbU1oZUtHYXB5Y212ZEhERGNtZUhSaTcxZmhZSHE3eng0M3BiT0w0MWdQZ292aHdCZXotcVVaMFAyUFFRZV8yMTF3WVFWS0JseVRSUXp1VWJkRmVrNHRPblE?oc=5",
-    "source": "google-news",
-    "lang": "hu",
-    "date": "Fri, 15 May 2026 06:40:52 GMT"
-  },
-  {
-    "title": "Egy kis jó hír Kolozsvár mellől: új magyar óvodát nyit a román önkormányzat - mandiner.hu",
-    "snippet": "Egy kis jó hír Kolozsvár mellől: új magyar óvodát nyit a román önkormányzat &nbsp;&nbsp; mandiner.hu",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZG5wR2NodTBiWU9KVExGdjg2YmJabGpQQTFBQkdLZk1kWmU0c1ZFdnAtajRpWHc3TzBQWV9OUnNaamZrbjJGRlh0cFJhNXVjdjVSRzFqSlRNeG9faG1TeGJIamlQLXVfNUsyTlk4QTNPdEtFQlFuZmY4YUh2QXdqbk02VUd3bHFjRXZRNWNFbEEybzhGSXctekQzM3ZsQV9YeHMwdmE4MERQVEpwRUw0?oc=5",
-    "source": "google-news",
-    "lang": "hu",
-    "date": "Thu, 16 Apr 2026 07:00:00 GMT"
-  },
-  {
-    "title": "Húsz évre saccolja a legismertebb kolozsvári építész Boc metrójának a megépítését - Maszol",
-    "snippet": "Húsz évre saccolja a legismertebb kolozsvári építész Boc metrójának a megépítését &nbsp;&nbsp; Maszol",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeGluRkhVMVc1U3M2T2dNWWt6V3JoaTI4TFVkZE8wU1FXNnlHWmJWWHZOVlhjaXhUNGxRVTRsZjZwbmlRMGJ4aDhpaTdLSE50bFdUNWlheldOOVpHQy1oZC11SnNvSk43X2FCUnRBYUJ5YW91enM5SThfc0kxLXN6UjM0REF1WkJ6UGhwZUlmVGZwQWV1X3FCdmt4S0tWRWY2dHJMVTNPVXdUcHVo?oc=5",
-    "source": "google-news",
-    "lang": "hu",
-    "date": "Thu, 30 Apr 2026 07:00:00 GMT"
-  },
-  {
-    "title": "Szép város kolozsvár - ORIGO",
-    "snippet": "Szép város kolozsvár &nbsp;&nbsp; ORIGO",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtZHEzSk54QmJEbGtwV3N2ajN1NTFRdlFyQ1ZsaVYzWVZJOVNmWnlYb1I1MllyY0Qwal9fRHpoN1JvMXBuYUJ6UFNRTnFfWm56SmtWX3dlZVE0eEk?oc=5",
-    "source": "google-news",
-    "lang": "hu",
-    "date": "Thu, 23 Apr 2026 07:00:00 GMT"
-  },
-  {
-    "title": "KOLOZSVÁR – Brósz Irma (1911-1976) emlékkiállítása - Élő Székelyföld",
-    "snippet": "KOLOZSVÁR – Brósz Irma (1911-1976) emlékkiállítása &nbsp;&nbsp; Élő Székelyföld",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ2xLdjNTanJjSjBGY0hwWFdSM2MtQktqb0RZaXQ0TldlVVVCV0Q5MXhmTDF0dTUtRGNUMFlibzRWUy1sVDFiYnlJZm5jamZIOHd3Y0YyTVlFOElmcU1vMDZxQlZoYUNQNUstMGlpMWpEdk80bGlGVHdGeF9zXzItV1FfWFJOLUFuYXZoSg?oc=5",
-    "source": "google-news",
-    "lang": "hu",
-    "date": "Mon, 11 May 2026 06:26:43 GMT"
-  },
-  {
-    "title": "Kolozsvár elrománosítása miatt ujjong az AUR besszarábiai származású honatyája - Krónika",
-    "snippet": "Kolozsvár elrománosítása miatt ujjong az AUR besszarábiai származású honatyája &nbsp;&nbsp; Krónika",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcnNid3VWRkpNRFFuazlBb0xSbW81QVNTWm5EQUdEME9Ma1gxWWJlUE5NZEpyNFN6dlBodHRhZjlkZm1qN2E4S2h2emZmN01OeGI0X3RrSmNGUWhFaFdadTgyQmJVNzN0VmJqdExlSnFpSHRfb2djUS1rSERVc1RXaG9HMW1zLURETF9ScmVWNGpwYmN3TDRxRkNJZi1qZ3EtaFNDeVRwV0Ztb1lsQ3A4cg?oc=5",
-    "source": "google-news",
-    "lang": "hu",
-    "date": "Mon, 18 May 2026 16:35:06 GMT"
-  },
-  {
-    "title": "Tűz ütött ki Kolozsváron – Több lakás megrongálódott, a lakók kimenekültek - Maszol",
-    "snippet": "Tűz ütött ki Kolozsváron – Több lakás megrongálódott, a lakók kimenekültek &nbsp;&nbsp; Maszol",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcmRQYUQxTFd1OWtJQklNM1V3SWVUUVJnemRUZllhR2lOeTUwTmdCRlVmRkJKdGJEZUVvQXhnN3pxMXNjcHItZk9NMkhxdTIxTXhoSGpqMFhRSEtsOEgyUmhMUzY1THVBSjRHUUNrRS10eEpzbVhQYWVKNlpDTkc1Rks3ZUpxZjc3T29MS3pvS29nSUtGd253VFEtc001dw?oc=5",
-    "source": "google-news",
-    "lang": "hu",
-    "date": "Fri, 22 May 2026 06:52:00 GMT"
-  },
-  {
-    "title": "Trump Tower épülhet Bukarestben és okosváros Kolozsváron - ORIGO",
-    "snippet": "Trump Tower épülhet Bukarestben és okosváros Kolozsváron &nbsp;&nbsp; ORIGO",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbU1COU5FRjN2clZiZmh2ZFc3eXJqVlVibFdPdEhmWHhzNXVnY25UNjJtNUpkLXNkdm16eU1sdVZ0Q1NIT25mTE5ZY3U4UE9oYzRrbkY2cTlUeUJTMzBXVWh2ZDR6LU55bVYyMjVTWklDNVZtaF9mZjFxbVpjbHV6QldLZ2U?oc=5",
-    "source": "google-news",
-    "lang": "hu",
-    "date": "Fri, 27 Mar 2026 07:00:00 GMT"
-  },
-  {
-    "title": "Ősztől Kolozsvár belvárosában járhatnak óvodába a pataréti gyerekek - Maszol",
-    "snippet": "Ősztől Kolozsvár belvárosában járhatnak óvodába a pataréti gyerekek &nbsp;&nbsp; Maszol",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXNZcUNMbE9abndZUGpxRmJtVTd5WVNxNmsyZHNsZWhBS0pDZER2WjlLUlNzeXBxUERoX1RPM3dadW1jZjV4LWVubDVNT2s5R3NqZ1Y3YVRteHlUNzBwVHZhVExTWWN0NURrcXdzR1lYX0JwX0p1eWIyVWFJb0M4WU94UEoxLVN5ckZIcDYyV042SHhpVThzQw?oc=5",
-    "source": "google-news",
-    "lang": "hu",
-    "date": "Tue, 12 May 2026 07:00:00 GMT"
-  },
-  {
-    "title": "Tízéves Kolozsvár Magyar Gyermekkórusa – Ünnepi gálaműsorral készülnek - Maszol",
-    "snippet": "Tízéves Kolozsvár Magyar Gyermekkórusa – Ünnepi gálaműsorral készülnek &nbsp;&nbsp; Maszol",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTVRXZ0RYWnZBS2hxOE9ia3UweHJjM05rak1OUDJ6YmtsWjVUTGItWDBEbXNJME1NOExqank3OUdKQkE4ODdxdXhlNFVsbUVnQ0dhNE8yV2JsMG5XTmdjZXh6cFU5U3gwWUdnVHVZZVlhb0lIdndaWWl0WDJ6VHg5WjBMeDdJeHk5R2Y2eGtjWUJRRDk0WF93MVZB?oc=5",
-    "source": "google-news",
-    "lang": "hu",
-    "date": "Wed, 13 May 2026 12:29:00 GMT"
-  },
-  {
-    "title": "Kolozsvár fölött repül a városháza 40 ezer eurós drónja – A város „intelligens szeme” minent lát (VIDEÓ) - Maszol",
-    "snippet": "Kolozsvár fölött repül a városháza 40 ezer eurós drónja – A város „intelligens szeme” minent lát (VIDEÓ) &nbsp;&nbsp; Maszol",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdVZBc2FtQzR6QXJuOERlY2hqOHpBX1AxWVRxNzZBYTZVZjloLTFkTk1vcXFjR0p2RENFajFXNm9qcUxiOXpFbTBGTUtmbmgtckhqcHJobmVOOGpuMjk4VDNIbEplN3Q1amZjRkVva0ZBYVV5X3lmVGQxQUtrYXRsSkJ1SG9BRElHLWZnVHZiSHFEZnViTXhFNzBlUndzdnlqLTdSdWg5NGJKbVBiZVJXc0k1VVdULUVSWUZENjlodzk?oc=5",
-    "source": "google-news",
-    "lang": "hu",
-    "date": "Tue, 05 May 2026 05:28:00 GMT"
-  },
-  {
-    "title": "Trolibusz balesetezett Kolozsváron – Egy férfi megsérült - Maszol",
-    "snippet": "Trolibusz balesetezett Kolozsváron – Egy férfi megsérült &nbsp;&nbsp; Maszol",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaGo3TklNZUpfWFZmdnFjV25iOWFpLVg4V0N6MWg2WVFEOWpJaGNSMHo4TkhKbTdkdXZnX1FTTmZhY0RIMkZBR0RwN3ZqYm9LdjhqNnFCWlJzeDI4d0dRUDdwdjBLR2NDNEg3aUdBeUVUem4xc3dkdzFiYWtzWW1ILWpiVjhMbm8?oc=5",
-    "source": "google-news",
-    "lang": "hu",
-    "date": "Mon, 18 May 2026 11:54:00 GMT"
-  },
-  {
-    "title": "Tragikus baleset történt Kolozsvár külvárosában - Maszol",
-    "snippet": "Tragikus baleset történt Kolozsvár külvárosában &nbsp;&nbsp; Maszol",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FSWlyanpOVGluX2VQbXhQdXUtbFRyd2lTRlFnWDlGZ2FaV0RIX19TZWN1WXBEalZSVXpOX0ZNSWp0UXd4R0syVk1sc2RoMUxLWlhnaGRGOFNTZGFJdWNNaW5FS1N5N2Zkenp0ZVhDbWVJWTgzc0txaVln?oc=5",
-    "source": "google-news",
-    "lang": "hu",
-    "date": "Mon, 11 May 2026 14:51:00 GMT"
-  },
-  {
-    "title": "Előrelépés a Kolozsvár-Nagyvárad vasútvonal felújításában - Maszol",
-    "snippet": "Előrelépés a Kolozsvár-Nagyvárad vasútvonal felújításában &nbsp;&nbsp; Maszol",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaG1NUE5yWFB6Rnk1NGlTQnRTZWVsUXctQmF0b0FLcXBiMG9xa09tYlZTaUstR1BURzBBX1c1NHVmaHRVbDZaWjFXdGF4MmpfNS1yRGxOWnVBSmN5d3ZfMmM5OEZ5VVY4VkJRb2dDNHhxcTJsTlZrQUJQMUVWYmlKcF85T010ckRCYmMw?oc=5",
-    "source": "google-news",
-    "lang": "hu",
-    "date": "Mon, 27 Apr 2026 07:00:00 GMT"
-  },
-  {
-    "title": "Bolojan a Kolozsvár–Nagyvárad vasútvonal építőit a határidők betartására figyelmezteti - Maszol",
-    "snippet": "Bolojan a Kolozsvár–Nagyvárad vasútvonal építőit a határidők betartására figyelmezteti &nbsp;&nbsp; Maszol",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdzQ2MEZmVm85SWdscEV0MVNQbXlqYlg0REk5XzlnamMtbmxpa1FfY2RNc1BjN245NVQ3WUZjdmpZbktpcmNJYWY0dUtwX3Byanhkd25OSm1yRWsxaGRYYTZzMkNuaHRXSXRmRWN0TXkzUms5WjJ6enJHMi1nN0p0eXhxSDRMN3pLbnVHWWFZUlJEMjJZN2FmczM1bGRZWlluajlENkgyNHU5a2g0dk9YUw?oc=5",
-    "source": "google-news",
-    "lang": "hu",
-    "date": "Fri, 13 Mar 2026 07:00:00 GMT"
-  },
-  {
-    "title": "KOLOZSVÁR – Reni & Boka koncert - Élő Székelyföld",
-    "snippet": "KOLOZSVÁR – Reni & Boka koncert &nbsp;&nbsp; Élő Székelyföld",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qbHBJN0FFT0NNLUd4LTNOWW1RZnR3R2JXMGtaZTdCNHhNMHhLNXg4QU1nWkxBVU9TQWM0S1Fja1YtQklzQnNEcU5tc25HSDVfMnl4dVFyanFIazVOMTMza2VLUFJXVWtwVm5wQjRlbEpyNEk?oc=5",
-    "source": "google-news",
-    "lang": "hu",
-    "date": "Wed, 06 May 2026 19:40:06 GMT"
-  },
-  {
-    "title": "Kolozsvár belvárosához közel fognak óvodába járni a Pataréten mélyszegénységben élő gyerekek - Krónika",
-    "snippet": "Kolozsvár belvárosához közel fognak óvodába járni a Pataréten mélyszegénységben élő gyerekek &nbsp;&nbsp; Krónika",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQzNuVmxpSlZOcm9yaEVFVjhlUDBOQmRWSWwyUGgxVTNfQU9rODVTWGo4UEVwNXE1Y2k2MHpHOHdOdW4yd1pzdnI2N083emxGY2V3MXhRejIwWElzc0VGWV82VDFOOEZBbFRrcEgwTTl3NVZCam4wT3ZPVXdTeFpMYnFVYzNsOW5yRW95SWdGOUVuSDhUNFRTZko1LWItM1FuVmRhQk1wRFJPdlktb1J4ek5VS3RiZVVGSVNReUNORjY0UHdC?oc=5",
-    "source": "google-news",
-    "lang": "hu",
-    "date": "Tue, 12 May 2026 07:00:00 GMT"
-  },
-  {
-    "title": "Köztérmegújítások archeológiája I. – Athén, Salemi és Kolozsvár köztérrendezési példáinak története és bejárása - Építészfórum",
-    "snippet": "Köztérmegújítások archeológiája I. – Athén, Salemi és Kolozsvár köztérrendezési példáinak története és bejárása &nbsp;&nbsp; Építészfórum",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSjRhNWszVXQwaHBJSWVYTE1ucmRCSDRxb1RobG1XYkU4cW1YRFBJM0E4Z2lJZG5VSnlQVU1wTFI5am1VNy04SVJ2ZFhTMmV5WDd0akRIa2VJdE1SMU5sR0xmNGtnU1BFanJzRkxObzRpazl0R3cyOS1JQjJjYnlmS3FWQ3NfNlhMR3Vob0FLeWo2UVMwenJuQncwVjl5Y0RIckItTk5JNTZpUFlrS1Y2N0N0dFA0SDd3cW5PWUpQV092bGU2bUZ3TDM5dw?oc=5",
-    "source": "google-news",
-    "lang": "hu",
-    "date": "Wed, 22 Apr 2026 07:00:00 GMT"
-  },
-  {
-    "title": "Kolozsváron nyitja legújabb éttermét a Simon's Burger - Telex",
-    "snippet": "Kolozsváron nyitja legújabb éttermét a Simon's Burger &nbsp;&nbsp; Telex",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcTR4UkM2SkNvMV9EZDhmeGVERkFPYUN2NDUyYjA0b1c5T3VkY1ZNUDhCSzJwS2NHNEV4Y0lhYkdsTFhXVU9yMmNXejR6d1hGcng2QlZjTTd1YnRnUFdUeUFFRVBCdU9xVWVFbDNzVmxCdnRNTTBVRi02ZUZuaVppQ19zWFA5SWVvVnNpakFlYXpQbDNHYlE?oc=5",
-    "source": "google-news",
-    "lang": "hu",
-    "date": "Mon, 22 Dec 2025 08:00:00 GMT"
-  },
-  {
-    "title": "Nem ússza meg Kolozsvár sem, a Trump-birodalom felvirágoztatja Romániát - Népszava",
-    "snippet": "Nem ússza meg Kolozsvár sem, a Trump-birodalom felvirágoztatja Romániát &nbsp;&nbsp; Népszava",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTEhmazBqWmV5N0M2S21zdGVNeEFRUTZfXzVlS3lMZnpGN3ZIZ2NrTVNjZnFuV1k3MnpJd1ZQSTU3Ukx1T3JGSkUxTm1nOHVYM2duMlhkbHl0Y05EWDlscWxyZGJpd2ZDNzRWREp1cHlvSkZnWTFlUW5iY3VHRGNsbWkza1JCeXZmQ2EtZDVicTBEY1RRa2Q1Nw?oc=5",
-    "source": "google-news",
-    "lang": "hu",
-    "date": "Tue, 24 Mar 2026 07:00:00 GMT"
-  },
-  {
-    "title": "Bodor Ádám librettójából készült opera-performanszt mutat be a Kolozsvári Magyar Opera - Maszol",
-    "snippet": "Bodor Ádám librettójából készült opera-performanszt mutat be a Kolozsvári Magyar Opera &nbsp;&nbsp; Maszol",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbHI1Y1l0Rm9WZ2NYNFFkcTh3dTZLR3ZMZ3d4NW9QbDkyaGo5N0s1NUV2WDdlV3BDQllQbUlNOXEzU1ZnQzdQLWY2cEpGWmpMYk1lZHVBS3RrMHNNdi1rdEpWcGFsZ0ZEZXhreW0tNDRRTWJHVmVrdF9XT1ZDV25NRlFVNU9kRHlIT2tWNWN1d3MwdG51YXp5UE82RXViMS02S1d5NEJwQU04eF84V1MyNVd3?oc=5",
-    "source": "google-news",
-    "lang": "hu",
-    "date": "Mon, 18 May 2026 16:05:00 GMT"
-  },
-  {
-    "title": "Hirtelen két magyar miatt is lesz okunk végigizgulni a PGL Kolozsvár mérkőzéseit - Esport1",
-    "snippet": "Hirtelen két magyar miatt is lesz okunk végigizgulni a PGL Kolozsvár mérkőzéseit &nbsp;&nbsp; Esport1",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZVJPME0tRTllNmZOWDZxNmdMenJHTzd5aTNFbUxxejVqYk9NVW9GVlZxZnV5VGdGS2JpODA0WExDNEdnWkxreUdzRnVEMjZ5aGNwQmNqUEV1WHZneWFIWnVBNVUzYzl5emxVMHpGdFAxMUltNGFlRWtPa3RkTWlZUlJsMXB5NHE1WDBzWlc0ckpId2xwemlOVVo0a2o2RFhyeURGVmdOVEc2U1pxUFlPYjZUMUVNYWJYS0FybFdkYnRoTVpMYXREQkY2b0Q4YnI5NnJHYkhWcU5JcVk?oc=5",
-    "source": "google-news",
-    "lang": "hu",
-    "date": "Thu, 05 Feb 2026 08:00:00 GMT"
-  },
-  {
-    "title": "Kolozsvár polgármestere az elővárosi vasút 1,4 milliárd lej értékű beruházási szerződését - Agerpres",
-    "snippet": "Kolozsvár polgármestere az elővárosi vasút 1,4 milliárd lej értékű beruházási szerződését &nbsp;&nbsp; Agerpres",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMWxNUGFvM2Z6emVGRF9QZTBDeXJMcTROcnB1eG1ReDhyRVhJRUI1UmwxNkd1U2xXVmJoWkUxVlViOEo1azBmYk14VDYzYUJERDNOcHh4OFpzdlVLdTZDejhIb0JVRFk2Z1Z0RFNEcFRsTmk1OFpLWVBVdnoyUnFpZlY5M2pteGNaZlh0RVZ6eEtxWnZFNC04eUJTeXNBSVBNd29zSk9TWUw4T0EyMDQtYk5XTm5rdl8yWVJ1VkJsSm1uQ2twTGtJcXZDeV95SW8?oc=5",
-    "source": "google-news",
-    "lang": "hu",
-    "date": "Mon, 11 May 2026 07:00:00 GMT"
   }
 ]
