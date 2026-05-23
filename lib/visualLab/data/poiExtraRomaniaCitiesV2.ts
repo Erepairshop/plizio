@@ -274,7 +274,7 @@ export const romaniaCitiesV2: POI[] = [
 }
   },
   {
-    id: "romania-resita-cities-v2",
+    id: "romania-resita-cities-v2", population: 58393,
     type: "city",
     parent: "RO",
     name: { de: "Reschitza", hu: "Resicabánya", ro: "Reșița", en: "Reșița" },
@@ -665,7 +665,7 @@ export const romaniaCitiesV2: POI[] = [
 }
   },
   {
-    id: "romania-medias-cities-v2",
+    id: "romania-medias-cities-v2", population: 39505,
     type: "city",
     parent: "RO",
     name: { de: "Mediasch", hu: "Medgyes", ro: "Mediaș", en: "Mediaș" },
@@ -1375,7 +1375,7 @@ export const romaniaCitiesV2: POI[] = [
 }
   },
   {
-    id: "romania-deva-cities-v2",
+    id: "romania-deva-cities-v2", population: 53113,
     type: "city",
     parent: "RO",
     name: { de: "Diemrich", hu: "Déva", ro: "Deva", en: "Deva" },
@@ -2716,7 +2716,7 @@ export const romaniaCitiesV2: POI[] = [
 }
   },
   {
-    id: "romania-lupeni-cities-v2",
+    id: "romania-lupeni-cities-v2", population: 18699,
     type: "city",
     parent: "RO",
     name: { de: "Lupeni", hu: "Lupény", ro: "Lupeni", en: "Lupeni" },
@@ -4236,7 +4236,7 @@ export const romaniaCitiesV2: POI[] = [
 }
   },
   {
-    id: "romania-valenii-de-munte-cities-v2",
+    id: "romania-valenii-de-munte-cities-v2", population: 12044,
     type: "city",
     parent: "RO",
     name: { de: "Vălenii de Munte", hu: "Vălenii de Munte", ro: "Vălenii de Munte", en: "Vălenii de Munte" },
@@ -4435,7 +4435,7 @@ export const romaniaCitiesV2: POI[] = [
 }
   },
   {
-    id: "romania-mizil-cities-v2",
+    id: "romania-mizil-cities-v2", population: 12962,
     type: "city",
     parent: "RO",
     name: { de: "Mizil", hu: "Mizil", ro: "Mizil", en: "Mizil" },
@@ -4586,7 +4586,7 @@ export const romaniaCitiesV2: POI[] = [
 }
   },
   {
-    id: "romania-campina-cities-v2",
+    id: "romania-campina-cities-v2", population: 28993,
     type: "city",
     parent: "RO",
     name: { de: "Câmpina", hu: "Câmpina", ro: "Câmpina", en: "Câmpina" },
@@ -5135,7 +5135,7 @@ export const romaniaCitiesV2: POI[] = [
 }
   },
   {
-    id: "romania-boldesti-scaeni-cities-v2",
+    id: "romania-boldesti-scaeni-cities-v2", population: 10298,
     type: "city",
     parent: "RO",
     name: { de: "Boldești-Scăeni", hu: "Boldești-Scăeni", ro: "Boldești-Scăeni", en: "Boldești-Scăeni" },
@@ -5334,7 +5334,7 @@ export const romaniaCitiesV2: POI[] = [
 }
   },
   {
-    id: "romania-urlati-cities-v2",
+    id: "romania-urlati-cities-v2", population: 10131,
     type: "city",
     parent: "RO",
     name: { de: "Urlați", hu: "Urlați", ro: "Urlați", en: "Urlați" },
@@ -5485,7 +5485,7 @@ export const romaniaCitiesV2: POI[] = [
 }
   },
   {
-    id: "romania-slanic-cities-v2",
+    id: "romania-slanic-cities-v2", population: 4669,
     type: "city",
     parent: "RO",
     name: { de: "Slănic", hu: "Slănic", ro: "Slănic", en: "Slănic" },
@@ -5907,7 +5907,7 @@ export const romaniaCitiesV2: POI[] = [
 }
   },
   {
-    id: "romania-busteni-cities-v2",
+    id: "romania-busteni-cities-v2", population: 8368,
     type: "city",
     parent: "RO",
     name: { de: "Bușteni", hu: "Bușteni", ro: "Bușteni", en: "Bușteni" },
@@ -6202,7 +6202,7 @@ export const romaniaCitiesV2: POI[] = [
 }
   },
   {
-    id: "romania-sinaia-cities-v2",
+    id: "romania-sinaia-cities-v2", population: 9071,
     type: "city",
     parent: "RO",
     name: { de: "Sinaia", hu: "Sinaia", ro: "Sinaia", en: "Sinaia" },
@@ -6473,7 +6473,7 @@ export const romaniaCitiesV2: POI[] = [
 }
   },
   {
-    id: "romania-plopeni-cities-v2",
+    id: "romania-plopeni-cities-v2", population: 6709,
     type: "city",
     parent: "RO",
     name: { de: "Plopeni", hu: "Plopeni", ro: "Plopeni", en: "Plopeni" },
@@ -6799,7 +6799,7 @@ export const romaniaCitiesV2: POI[] = [
 }
   },
   {
-    id: "romania-banesti-cities-v2",
+    id: "romania-banesti-cities-v2", population: 3043,
     type: "city",
     parent: "RO",
     name: { de: "Bănești", hu: "Bănești", ro: "Bănești", en: "Bănești" },
@@ -7125,7 +7125,7 @@ export const romaniaCitiesV2: POI[] = [
 }
   },
   {
-    id: "romania-drajna-cities-v2",
+    id: "romania-drajna-cities-v2", population: 1061,
     type: "city",
     parent: "RO",
     name: { de: "Drajna", hu: "Drajna", ro: "Drajna", en: "Drajna" },
@@ -7324,7 +7324,7 @@ export const romaniaCitiesV2: POI[] = [
 }
   },
   {
-    id: "romania-stefesti-cities-v2",
+    id: "romania-stefesti-cities-v2", population: 666,
     type: "city",
     parent: "RO",
     name: { de: "Ștefești", hu: "Ștefești", ro: "Ștefești", en: "Ștefești" },
@@ -7475,7 +7475,7 @@ export const romaniaCitiesV2: POI[] = [
 }
   },
   {
-    id: "romania-teisani-cities-v2",
+    id: "romania-teisani-cities-v2", population: 1561,
     type: "city",
     parent: "RO",
     name: { de: "Teișani", hu: "Teișani", ro: "Teișani", en: "Teișani" },
@@ -7626,7 +7626,7 @@ export const romaniaCitiesV2: POI[] = [
 }
   },
   {
-    id: "romania-aricestii-rahtivani-cities-v2",
+    id: "romania-aricestii-rahtivani-cities-v2", population: 2612,
     type: "city",
     parent: "RO",
     name: { de: "Ariceștii Rahtivani", hu: "Ariceștii Rahtivani", ro: "Ariceștii Rahtivani", en: "Ariceștii Rahtivani" },
@@ -7904,7 +7904,7 @@ export const romaniaCitiesV2: POI[] = [
 }
   },
   {
-    id: "romania-targsoru-vechi-cities-v2",
+    id: "romania-targsoru-vechi-cities-v2", population: 2250,
     type: "city",
     parent: "RO",
     name: { de: "Târgșoru Vechi", hu: "Târgșoru Vechi", ro: "Târgșoru Vechi", en: "Târgșoru Vechi" },
@@ -8079,7 +8079,7 @@ export const romaniaCitiesV2: POI[] = [
 }
   },
   {
-    id: "romania-filipestii-de-padure-cities-v2",
+    id: "romania-filipestii-de-padure-cities-v2", population: 4661,
     type: "city",
     parent: "RO",
     name: { de: "Filipeștii de Pădure", hu: "Filipeștii de Pădure", ro: "Filipeștii de Pădure", en: "Filipeștii de Pădure" },
@@ -8230,7 +8230,7 @@ export const romaniaCitiesV2: POI[] = [
 }
   },
   {
-    id: "romania-brazi-cities-v2",
+    id: "romania-brazi-cities-v2", population: 1418,
     type: "city",
     parent: "RO",
     name: { de: "Brazi", hu: "Brazi", ro: "Brazi", en: "Brazi" },
@@ -8357,7 +8357,7 @@ export const romaniaCitiesV2: POI[] = [
 }
   },
   {
-    id: "romania-bucov-cities-v2",
+    id: "romania-bucov-cities-v2", population: 5267,
     type: "city",
     parent: "RO",
     name: { de: "Bucov", hu: "Bucov", ro: "Bucov", en: "Bucov" },
@@ -8556,7 +8556,7 @@ export const romaniaCitiesV2: POI[] = [
 }
   },
   {
-    id: "romania-valcanesti-cities-v2",
+    id: "romania-valcanesti-cities-v2", population: 2253,
     type: "city",
     parent: "RO",
     name: { de: "Vălcănești", hu: "Vălcănești", ro: "Vălcănești", en: "Vălcănești" },
@@ -8683,7 +8683,7 @@ export const romaniaCitiesV2: POI[] = [
 }
   },
   {
-    id: "romania-puchenii-mari-cities-v2",
+    id: "romania-puchenii-mari-cities-v2", population: 1166,
     type: "city",
     parent: "RO",
     name: { de: "Puchenii Mari", hu: "Puchenii Mari", ro: "Puchenii Mari", en: "Puchenii Mari" },
@@ -8810,7 +8810,7 @@ export const romaniaCitiesV2: POI[] = [
 }
   },
   {
-    id: "romania-blejoi-cities-v2",
+    id: "romania-blejoi-cities-v2", population: 3558,
     type: "city",
     parent: "RO",
     name: { de: "Blejoi", hu: "Blejoi", ro: "Blejoi", en: "Blejoi" },
@@ -8913,7 +8913,7 @@ export const romaniaCitiesV2: POI[] = [
 }
   },
   {
-    id: "romania-dumbravesti-cities-v2",
+    id: "romania-dumbravesti-cities-v2", population: 711,
     type: "city",
     parent: "RO",
     name: { de: "Dumbrăvești", hu: "Dumbrăvești", ro: "Dumbrăvești", en: "Dumbrăvești" },
@@ -9064,7 +9064,7 @@ export const romaniaCitiesV2: POI[] = [
 }
   },
   {
-    id: "romania-gura-vitioarei-cities-v2",
+    id: "romania-gura-vitioarei-cities-v2", population: 2027,
     type: "city",
     parent: "RO",
     name: { de: "Gura Vitioarei", hu: "Gura Vitioarei", ro: "Gura Vitioarei", en: "Gura Vitioarei" },
@@ -10989,7 +10989,7 @@ export const romaniaCitiesV2: POI[] = [
 }
   },
   {
-    id: "romania-bragadiru-cities-v2",
+    id: "romania-bragadiru-cities-v2", population: 40080,
     type: "city",
     parent: "RO",
     name: { de: "Bragadiru", hu: "Bragadiru", ro: "Bragadiru", en: "Bragadiru" },
@@ -11140,7 +11140,7 @@ export const romaniaCitiesV2: POI[] = [
 }
   },
   {
-    id: "romania-chitila-cities-v2",
+    id: "romania-chitila-cities-v2", population: 14762,
     type: "city",
     parent: "RO",
     name: { de: "Chitila", hu: "Chitila", ro: "Chitila", en: "Chitila" },
@@ -11291,7 +11291,7 @@ export const romaniaCitiesV2: POI[] = [
 }
   },
   {
-    id: "romania-darasti-ilfov-cities-v2",
+    id: "romania-darasti-ilfov-cities-v2", population: 2865,
     type: "city",
     parent: "RO",
     name: { de: "Dărăști-Ilfov", hu: "Dărăști-Ilfov", ro: "Dărăști-Ilfov", en: "Dărăști-Ilfov" },
@@ -11672,7 +11672,7 @@ export const romaniaCitiesV2: POI[] = [
 }
   },
   {
-    id: "romania-vidra-cities-v2",
+    id: "romania-vidra-cities-v2", population: 3809,
     type: "city",
     parent: "RO",
     name: { de: "Vidra", hu: "Vidra", ro: "Vidra", en: "Vidra" },
@@ -12228,7 +12228,7 @@ export const romaniaCitiesV2: POI[] = [
 }
   },
   {
-    id: "romania-mogosoaia-cities-v2",
+    id: "romania-mogosoaia-cities-v2", population: 9820,
     type: "city",
     parent: "RO",
     name: { de: "Mogoșoaia", hu: "Mogoșoaia", ro: "Mogoșoaia", en: "Mogoșoaia" },
@@ -12626,7 +12626,7 @@ export const romaniaCitiesV2: POI[] = [
 }
   },
   {
-    id: "romania-snagov-cities-v2",
+    id: "romania-snagov-cities-v2", population: 2207,
     type: "city",
     parent: "RO",
     name: { de: "Snagov", hu: "Snagov", ro: "Snagov", en: "Snagov" },
@@ -13278,7 +13278,7 @@ export const romaniaCitiesV2: POI[] = [
 }
   },
   {
-    id: "romania-tunari-cities-v2",
+    id: "romania-tunari-cities-v2", population: 9112,
     type: "city",
     parent: "RO",
     name: { de: "Tunari", hu: "Tunari", ro: "Tunari", en: "Tunari" },
@@ -14462,7 +14462,7 @@ export const romaniaCitiesV2: POI[] = [
 }
   },
   {
-    id: "romania-clinceni-cities-v2",
+    id: "romania-clinceni-cities-v2", population: 6719,
     type: "city",
     parent: "RO",
     name: { de: "Clinceni", hu: "Clinceni", ro: "Clinceni", en: "Clinceni" },
@@ -14589,7 +14589,7 @@ export const romaniaCitiesV2: POI[] = [
 }
   },
   {
-    id: "romania-cornetu-cities-v2",
+    id: "romania-cornetu-cities-v2", population: 6585,
     type: "city",
     parent: "RO",
     name: { de: "Cornetu", hu: "Cornetu", ro: "Cornetu", en: "Cornetu" },
@@ -14740,7 +14740,7 @@ export const romaniaCitiesV2: POI[] = [
 }
   },
   {
-    id: "romania-cernica-cities-v2",
+    id: "romania-cernica-cities-v2", population: 3284,
     type: "city",
     parent: "RO",
     name: { de: "Cernica", hu: "Cernica", ro: "Cernica", en: "Cernica" },
@@ -15241,7 +15241,7 @@ export const romaniaCitiesV2: POI[] = [
 }
   },
   {
-    id: "romania-dragomiresti-vale-cities-v2",
+    id: "romania-dragomiresti-vale-cities-v2", population: 1933,
     type: "city",
     parent: "RO",
     name: { de: "Dragomirești-Vale", hu: "Dragomirești-Vale", ro: "Dragomirești-Vale", en: "Dragomirești-Vale" },

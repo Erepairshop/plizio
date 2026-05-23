@@ -28,11 +28,14 @@ function popToTier(pop: number): 1 | 2 | 3 | 4 | 5 {
   if (pop > 10000) return 4;
   return 5;
 }
-// Returns the tier for a city POI. If no population data exists for the
-// country yet (e.g. DE/RO/etc. tables not written yet), returns tier 1 so
-// the city remains visible — never accidentally hide a city for lack of data.
-function cityTier(poiId: string): 1 | 2 | 3 | 4 | 5 {
-  const pop = HU_POP[poiId];
+// Returns the tier for a city POI.
+// Priority order:
+//   1) p.population field set directly on the POI (preferred, language-agnostic)
+//   2) HU_POP lookup table (legacy HU coverage)
+//   3) Default tier 1 (visible) if no data — never hide for lack of data
+function cityTier(p: { id: string; population?: number }): 1 | 2 | 3 | 4 | 5 {
+  if (typeof p.population === "number" && p.population > 0) return popToTier(p.population);
+  const pop = HU_POP[p.id];
   return pop !== undefined ? popToTier(pop) : 1;
 }
 
@@ -192,8 +195,11 @@ const slim = (p: any) => {
     ...(p.altNames ? { altNames: p.altNames } : {}),
     ...(popDesc ? { description: popDesc } : {}),
     ...(popFacts ? { facts: popFacts } : {}),
+    // population stays in slim payload — used by per-tier cap in InteractiveMap.tsx
+    // (sort by population desc within tier so the top-100 picked are real big cities).
+    ...(typeof p.population === "number" && p.population > 0 ? { population: p.population } : {}),
     ...((p.sights || p.nearbySights || p.descriptionAdvanced || p.factsAdvanced || p.faq || p.plizioChallenge) ? { hasSights: true as const } : {}),
-    ...((p.type === "city" || p.type === "state-capital") ? { tier: cityTier(p.id) } : {}),
+    ...((p.type === "city" || p.type === "state-capital") ? { tier: cityTier(p) } : {}),
   };
 };
 
