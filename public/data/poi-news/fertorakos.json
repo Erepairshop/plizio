@@ -1,14 +1,5 @@
 [
   {
-    "title": "Idén először emelkedett 20 Celsius-fok fölé a hőmérséklet",
-    "snippet": "Fertőrákoson szerda délután 20,2 Celsius-fokos napi csúcsértéket regisztráltak. The post Idén először emelkedett 20 Celsius-fok fölé a hőmérséklet first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2025/03/05/tavasz-20-fok-fertorakos/",
-    "source": "24.hu/Fertőrákos",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 05 Mar 2025 17:36:32 +0000"
-  },
-  {
     "title": "91 éves asszonyra csaptak le az unokázók, az összes spórolt pénzét kicsalták",
     "snippet": "Az elkövetőek egyikét elfogták, másikuk ellen elfogatóparancsot adtak ki.",
     "url": "https://index.hu/belfold/2025/07/04/csalas-buncselekmeny-bunteny-rendorseg-fertorakos-elfogas-letartoztatas-unokazos-csalas/",
@@ -16,6 +7,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Fri, 04 Jul 2025 16:24:00 +0200"
+  },
+  {
+    "title": "Idén először emelkedett 20 Celsius-fok fölé a hőmérséklet",
+    "snippet": "Fertőrákoson szerda délután 20,2 Celsius-fokos napi csúcsértéket regisztráltak. The post Idén először emelkedett 20 Celsius-fok fölé a hőmérséklet first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2025/03/05/tavasz-20-fok-fertorakos/",
+    "source": "24.hu/Fertőrákos",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 05 Mar 2025 17:36:32 +0000"
   },
   {
     "title": "HÉSZ módosítás – lakossági fórum meghívó",
@@ -27,15 +27,6 @@
     "date": "Mon, 19 Jan 2026 14:03:18 +0000"
   },
   {
-    "title": "Nagy területen lángolt a nádas Sopron és Fertőrákos térségében",
-    "snippet": "Olvasónk által küldött fotón az látszik, hogy már éjjel is nagy tűz volt. The post Nagy területen lángolt a nádas Sopron és Fertőrákos térségében first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2023/03/15/nagy-teruleten-langol-a-nadas-sopron-es-fertorakos-tersegeben/",
-    "source": "24.hu/Fertőrákos",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 15 Mar 2023 07:19:53 +0000"
-  },
-  {
     "title": "Sikerült eloltani a lángokat Fertőrákosnál, két és fél négyzetkilométeren égett a terület",
     "snippet": "A tűzoltók munkáját az erős szél is nehezítette.",
     "url": "https://index.hu/belfold/2023/03/15/tuz-gyor-moson-sopron-varmegye-sopron-fertorakos-katasztrofavedelem/",
@@ -45,13 +36,13 @@
     "date": "Wed, 15 Mar 2023 16:38:00 +0100"
   },
   {
-    "title": "Quod licet Iovi, non licet bovi – Lázár János a Fertő tavi beruházásról",
-    "snippet": "A miniszter formabontó választ adott az LMP politikusainak. Ausztria lett a példa, a miniszter új szempontokat is javasolt a zöldeknek, mondván, amit szabad Jupiternek, nem szabad az ökörnek. The post Quod licet Iovi, non licet bovi – Lázár János a Fertő tavi beruházásról first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2022/07/07/okor-jupiter-ferto-beruhazas-lazar-janos-lmp/",
+    "title": "Nagy területen lángolt a nádas Sopron és Fertőrákos térségében",
+    "snippet": "Olvasónk által küldött fotón az látszik, hogy már éjjel is nagy tűz volt. The post Nagy területen lángolt a nádas Sopron és Fertőrákos térségében first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2023/03/15/nagy-teruleten-langol-a-nadas-sopron-es-fertorakos-tersegeben/",
     "source": "24.hu/Fertőrákos",
     "lang": "hu",
     "scope": "city",
-    "date": "Thu, 07 Jul 2022 09:53:31 +0000"
+    "date": "Wed, 15 Mar 2023 07:19:53 +0000"
   },
   {
     "title": "Nagy területen lángol a nádas Győr-Moson-Sopron vármegyében",
@@ -61,5 +52,14 @@
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 15 Mar 2023 09:50:00 +0100"
+  },
+  {
+    "title": "Quod licet Iovi, non licet bovi – Lázár János a Fertő tavi beruházásról",
+    "snippet": "A miniszter formabontó választ adott az LMP politikusainak. Ausztria lett a példa, a miniszter új szempontokat is javasolt a zöldeknek, mondván, amit szabad Jupiternek, nem szabad az ökörnek. The post Quod licet Iovi, non licet bovi – Lázár János a Fertő tavi beruházásról first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2022/07/07/okor-jupiter-ferto-beruhazas-lazar-janos-lmp/",
+    "source": "24.hu/Fertőrákos",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 07 Jul 2022 09:53:31 +0000"
   }
 ]

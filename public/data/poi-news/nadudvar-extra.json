@@ -9,15 +9,6 @@
     "date": "Fri, 22 May 2026 14:44:20 +0000"
   },
   {
-    "title": "Ruszin-Szendi Romulusz: Egy autós el akarta gázolni a tiszás aktivistákat Nádudvaron",
-    "snippet": "Személyi sérülés nem történt. The post Ruszin-Szendi Romulusz: Egy autós el akarta gázolni a tiszás aktivistákat Nádudvaron first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2026/04/11/nadudvar-tisza-auto-ruszin-szendi-romulusz/",
-    "source": "24.hu/Nádudvar",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sat, 11 Apr 2026 14:47:39 +0000"
-  },
-  {
     "title": "Családi vita közben lett rosszul egy férfi, nem tudták megmenteni az életét",
     "snippet": "A rendőrség vizsgálja az esetet.",
     "url": "https://index.hu/belfold/2025/06/08/nadudvar-rendorseg-csaladi-vita-rosszullet-meghalt-vizsgalat/",
@@ -25,6 +16,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sun, 08 Jun 2025 21:39:00 +0200"
+  },
+  {
+    "title": "Ruszin-Szendi Romulusz: Egy autós el akarta gázolni a tiszás aktivistákat Nádudvaron",
+    "snippet": "Személyi sérülés nem történt. The post Ruszin-Szendi Romulusz: Egy autós el akarta gázolni a tiszás aktivistákat Nádudvaron first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2026/04/11/nadudvar-tisza-auto-ruszin-szendi-romulusz/",
+    "source": "24.hu/Nádudvar",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sat, 11 Apr 2026 14:47:39 +0000"
   },
   {
     "title": "Kedves Látogató!",
@@ -36,15 +36,6 @@
     "date": "Wed, 13 May 2026 10:39:14 +0000"
   },
   {
-    "title": "Két éve avatták fel, de még mindig nem működik a mentőállomás Nádudvaron",
-    "snippet": "Bodó Sándor kormánypárti képviselő szerint zajlanak a műszaki egyeztetések, de haladhatnának jobban is. The post Két éve avatták fel, de még mindig nem működik a mentőállomás Nádudvaron first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2026/03/19/nadudvar-metoallomas-csatater-bodo-sandor/",
-    "source": "24.hu/Nádudvar",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Thu, 19 Mar 2026 05:02:36 +0000"
-  },
-  {
     "title": "Mentőhelikoptert riasztottak egy csecsemőhöz Nádudvarra",
     "snippet": "Több mentőegység is a helyszínre érkezett.",
     "url": "https://index.hu/belfold/2024/11/26/csecsemo-mento-helikopter-nadudvar-riasztas-orszagos-mentoszolgalat/",
@@ -54,13 +45,13 @@
     "date": "Tue, 26 Nov 2024 18:39:00 +0100"
   },
   {
-    "title": "A családi vita hevében a rendőrök előtt esett össze, és meghalt egy férfi Nádudvaron",
-    "snippet": "A mentők nem tudták már újraéleszteni. The post A családi vita hevében a rendőrök előtt esett össze, és meghalt egy férfi Nádudvaron first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2025/06/08/nadudvar-ferfi-osszeesett-meghalt/",
+    "title": "Két éve avatták fel, de még mindig nem működik a mentőállomás Nádudvaron",
+    "snippet": "Bodó Sándor kormánypárti képviselő szerint zajlanak a műszaki egyeztetések, de haladhatnának jobban is. The post Két éve avatták fel, de még mindig nem működik a mentőállomás Nádudvaron first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2026/03/19/nadudvar-metoallomas-csatater-bodo-sandor/",
     "source": "24.hu/Nádudvar",
     "lang": "hu",
     "scope": "city",
-    "date": "Sun, 08 Jun 2025 09:51:50 +0000"
+    "date": "Thu, 19 Mar 2026 05:02:36 +0000"
   },
   {
     "title": "Halálos munkabaleset történt Nádudvaron, 18 éves fiú az áldozat",
@@ -70,5 +61,14 @@
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 22 Nov 2023 10:41:00 +0100"
+  },
+  {
+    "title": "A családi vita hevében a rendőrök előtt esett össze, és meghalt egy férfi Nádudvaron",
+    "snippet": "A mentők nem tudták már újraéleszteni. The post A családi vita hevében a rendőrök előtt esett össze, és meghalt egy férfi Nádudvaron first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2025/06/08/nadudvar-ferfi-osszeesett-meghalt/",
+    "source": "24.hu/Nádudvar",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sun, 08 Jun 2025 09:51:50 +0000"
   }
 ]

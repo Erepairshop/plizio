@@ -72,15 +72,6 @@
     "date": "Thu, 16 Oct 2025 18:42:00 +0200"
   },
   {
-    "title": "Helyi partnerségi egyeztetés és lakossági fórum településrendezési eszközök módosításáról (Eresztvény)",
-    "snippet": "Tájékoztatás településrendezési eszközök M-21 jelű módosításáról, valamint ehhez kapcsolódó lakossági fórumról.",
-    "url": "https://www.salgotarjan.hu/?p=17037",
-    "source": "salgotarjan.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Thu, 07 May 2026 14:23:36 +0000"
-  },
-  {
     "title": "Egykor a vidék ikonikus stadionja volt, mára eladhatatlanná vált",
     "snippet": "UEFA-kupa-meccset is játszottak benne, zsúfolt lelátók előtt.",
     "url": "https://index.hu/sport/futball/2026/05/10/salgotarjan-elado-szojka-ferenc-stadion-nb-iii-magyar-labdarugas/",
@@ -88,6 +79,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sun, 10 May 2026 12:55:00 +0200"
+  },
+  {
+    "title": "Helyi partnerségi egyeztetés és lakossági fórum településrendezési eszközök módosításáról (Eresztvény)",
+    "snippet": "Tájékoztatás településrendezési eszközök M-21 jelű módosításáról, valamint ehhez kapcsolódó lakossági fórumról.",
+    "url": "https://www.salgotarjan.hu/?p=17037",
+    "source": "salgotarjan.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 07 May 2026 14:23:36 +0000"
   },
   {
     "title": "Először egyeztetett Kreicsi Bálint polgármester és Szafkó Zoltán Péter országgyűlési képviselő",
@@ -108,15 +108,6 @@
     "date": "Mon, 11 May 2026 04:00:10 +0000"
   },
   {
-    "title": "Fáklyázás a Patakpart utca közelében található gázipari objektumon",
-    "snippet": "Fáklyázással járó karbantartási munkát végeznek a város déli határában (a Patakpart utca és a 81-es számú vasútvonal között) található gázipari objektumon 2026. május 05-én.",
-    "url": "https://www.salgotarjan.hu/?p=17014",
-    "source": "salgotarjan.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Thu, 30 Apr 2026 10:54:38 +0000"
-  },
-  {
     "title": "Visszalépett a jelöltségtől az országgyűlési képviselő a Fidesz egyik fellegvárában",
     "snippet": "Évtizedek óta uralja a térséget Becsó Zsolt.",
     "url": "https://index.hu/belfold/csatater/2026/03/23/berki-sandor-fuggetlen-jelolt-nograd-1-visszalepes-valasztas-2026/",
@@ -124,6 +115,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Mon, 23 Mar 2026 12:10:00 +0100"
+  },
+  {
+    "title": "Fáklyázás a Patakpart utca közelében található gázipari objektumon",
+    "snippet": "Fáklyázással járó karbantartási munkát végeznek a város déli határában (a Patakpart utca és a 81-es számú vasútvonal között) található gázipari objektumon 2026. május 05-én.",
+    "url": "https://www.salgotarjan.hu/?p=17014",
+    "source": "salgotarjan.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 30 Apr 2026 10:54:38 +0000"
   },
   {
     "title": "„Két jó vezetője volt Magyarországnak: Kádár János és Orbán Viktor” – választási sokkból éledő kelet-nógrádiakkal beszéltünk",
@@ -135,15 +135,6 @@
     "date": "Tue, 21 Apr 2026 03:55:19 +0000"
   },
   {
-    "title": "Pályakarbantartás miatt módosul a vasúti menetrend",
-    "snippet": "Pályakarbantartási munkálatokat végeznek 2026. május 4-10. között a 81-es számú vasútvonalon Hatvan és Somoskőújfalu között - hívja fel a figyelmet a Mávinform.",
-    "url": "https://www.salgotarjan.hu/?p=17010",
-    "source": "salgotarjan.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Tue, 28 Apr 2026 06:49:00 +0000"
-  },
-  {
     "title": "Elütött egy kerékpárost, de nem nyújtott segítséget egy furgon sofőrje Nógrád vármegyében",
     "snippet": "A sértett súlyos sérüléseket szenvedett.",
     "url": "https://index.hu/belfold/2026/03/11/salgotarjan-karancsalja-nograd-varmegye-ugyeszseg-ferfi-eltiltas-furgon-biciklis-baleset-cserbenhagyas/",
@@ -151,6 +142,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 11 Mar 2026 10:43:00 +0100"
+  },
+  {
+    "title": "Pályakarbantartás miatt módosul a vasúti menetrend",
+    "snippet": "Pályakarbantartási munkálatokat végeznek 2026. május 4-10. között a 81-es számú vasútvonalon Hatvan és Somoskőújfalu között - hívja fel a figyelmet a Mávinform.",
+    "url": "https://www.salgotarjan.hu/?p=17010",
+    "source": "salgotarjan.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 28 Apr 2026 06:49:00 +0000"
   },
   {
     "title": "Pár napon belül négy Suzukit tört fel Salgótarjánban egy 20 éves fiatal",

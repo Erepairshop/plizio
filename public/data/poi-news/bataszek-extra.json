@@ -9,15 +9,6 @@
     "date": "Tue, 27 Sep 2022 06:46:00 +0200"
   },
   {
-    "title": "Kigyulladt egy bátaszéki családi ház, egy halott",
-    "snippet": "Az egész lakás füsttel telítődött, ez okozhatta az idős ember halálát. The post Kigyulladt egy bátaszéki családi ház, egy halott first appeared on 24.hu .",
-    "url": "https://24.hu/kozelet/2024/05/21/bataszek-haztuz-lakastuz-halal-fustmergezes/",
-    "source": "24.hu/Bátaszék",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Tue, 21 May 2024 06:06:07 +0000"
-  },
-  {
     "title": "Senki sem fizetett, egy hónap után bezárt a bátaszéki becsületkasszás zöldséges",
     "snippet": "Hiába lehetett friss zöldséghez jutni a nap 24 órájában.",
     "url": "https://index.hu/belfold/2023/09/13/zoldseg-becsuletkassza-bataszek-penz-gyumolcs-bezaras/",
@@ -27,13 +18,13 @@
     "date": "Wed, 13 Sep 2023 10:49:00 +0200"
   },
   {
-    "title": "Könnyen megúszta a sínek között elalvó fiatal",
-    "snippet": "Kétszáz óra közérdekű munkát kapott a közlekedés biztonságának megsértéséért. The post Könnyen megúszta a sínek között elalvó fiatal first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2023/07/13/sinek-kozott-aludt-reszeg-ferfi-bataszek-itelet/",
+    "title": "Kigyulladt egy bátaszéki családi ház, egy halott",
+    "snippet": "Az egész lakás füsttel telítődött, ez okozhatta az idős ember halálát. The post Kigyulladt egy bátaszéki családi ház, egy halott first appeared on 24.hu .",
+    "url": "https://24.hu/kozelet/2024/05/21/bataszek-haztuz-lakastuz-halal-fustmergezes/",
     "source": "24.hu/Bátaszék",
     "lang": "hu",
     "scope": "city",
-    "date": "Thu, 13 Jul 2023 06:45:58 +0000"
+    "date": "Tue, 21 May 2024 06:06:07 +0000"
   },
   {
     "title": "Emlékművet állítottak Kóbor Jánosnak",
@@ -45,13 +36,13 @@
     "date": "Sat, 22 Oct 2022 21:30:00 +0200"
   },
   {
-    "title": "Elaludt egy férfi a síneken Bátaszéknél, a vonat dudája ébresztette fel",
-    "snippet": "Az eset még júniusban történt, a férfi ittas volt. The post Elaludt egy férfi a síneken Bátaszéknél, a vonat dudája ébresztette fel first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2023/07/05/bataszek-vonat-sin-reszeg-ferfi-elaludt/",
+    "title": "Könnyen megúszta a sínek között elalvó fiatal",
+    "snippet": "Kétszáz óra közérdekű munkát kapott a közlekedés biztonságának megsértéséért. The post Könnyen megúszta a sínek között elalvó fiatal first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2023/07/13/sinek-kozott-aludt-reszeg-ferfi-bataszek-itelet/",
     "source": "24.hu/Bátaszék",
     "lang": "hu",
     "scope": "city",
-    "date": "Wed, 05 Jul 2023 10:14:44 +0000"
+    "date": "Thu, 13 Jul 2023 06:45:58 +0000"
   },
   {
     "title": "Alagútbiztonsági gyakorlat miatt lezárják az M6-os egy részét",
@@ -61,5 +52,14 @@
     "lang": "hu",
     "scope": "city",
     "date": "Mon, 26 Sep 2022 14:37:00 +0200"
+  },
+  {
+    "title": "Elaludt egy férfi a síneken Bátaszéknél, a vonat dudája ébresztette fel",
+    "snippet": "Az eset még júniusban történt, a férfi ittas volt. The post Elaludt egy férfi a síneken Bátaszéknél, a vonat dudája ébresztette fel first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2023/07/05/bataszek-vonat-sin-reszeg-ferfi-elaludt/",
+    "source": "24.hu/Bátaszék",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 05 Jul 2023 10:14:44 +0000"
   }
 ]

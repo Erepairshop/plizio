@@ -243,15 +243,6 @@
     "date": "Tue, 18 Nov 2025 19:43:00 +0100"
   },
   {
-    "title": "Elkoboznák a gödöllői Farkasember állatait a Budapest környékén kóborló medve miatt",
-    "snippet": "Mozika mellett az állatidomár farkasait is elvinnék Horkai Zoltántól.",
-    "url": "https://index.hu/belfold/2026/02/18/mogyorod-medveeszleles-horkai-zoltan-godolloi-farkasember-duna-ipoly-nemzeti-park/",
-    "source": "index.hu/Gödöllő",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 18 Feb 2026 16:31:00 +0100"
-  },
-  {
     "title": "Budapest szomszédságába jön Erdély gasztrofesztiválja",
     "snippet": "Szentendrén vendégeskedik a Taste of Transylvania. The post Budapest szomszédságába jön Erdély gasztrofesztiválja first appeared on 24.hu .",
     "url": "https://24.hu/kultura/2026/01/31/taste-of-transylvania-szentendre/",
@@ -259,6 +250,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sat, 31 Jan 2026 07:36:38 +0000"
+  },
+  {
+    "title": "Elkoboznák a gödöllői Farkasember állatait a Budapest környékén kóborló medve miatt",
+    "snippet": "Mozika mellett az állatidomár farkasait is elvinnék Horkai Zoltántól.",
+    "url": "https://index.hu/belfold/2026/02/18/mogyorod-medveeszleles-horkai-zoltan-godolloi-farkasember-duna-ipoly-nemzeti-park/",
+    "source": "index.hu/Gödöllő",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 18 Feb 2026 16:31:00 +0100"
   },
   {
     "title": "Gázolt a vonat, hosszabb a menetidő Budapest és Veszprém között",

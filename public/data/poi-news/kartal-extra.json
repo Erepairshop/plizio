@@ -1,14 +1,5 @@
 [
   {
-    "title": "Kovács Zoltán feleségének üzlettársa milliókat kapott a vadászati kiállítást szervező cégtől",
-    "snippet": "A rendezvényért kormánybiztosként a kommunikációs államtitkár felel. The post Kovács Zoltán feleségének üzlettársa milliókat kapott a vadászati kiállítást szervező cégtől first appeared on 24.hu .",
-    "url": "https://24.hu/fn/gazdasag/2021/05/24/kovacs-zoltan-felesege-vadaszati-kiallitas/",
-    "source": "24.hu/Kartal",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Mon, 24 May 2021 08:40:24 +0000"
-  },
-  {
     "title": "Ismét felbukkant a Pest megyében kóborló medve",
     "snippet": "Újabb település közelében látták az állatot.",
     "url": "https://index.hu/belfold/2022/05/30/pest-megyei-koborlo-medve-godolloi-dombsag-kartal/",
@@ -18,13 +9,22 @@
     "date": "Mon, 30 May 2022 19:17:00 +0200"
   },
   {
-    "title": "Baleset történt az M3-ason",
-    "snippet": "Torlódásra kell számítani. The post Baleset történt az M3-ason first appeared on 24.hu .",
-    "url": "https://24.hu/kozelet/2017/05/29/baleset-tortent-az-m3-ason/",
+    "title": "Kovács Zoltán feleségének üzlettársa milliókat kapott a vadászati kiállítást szervező cégtől",
+    "snippet": "A rendezvényért kormánybiztosként a kommunikációs államtitkár felel. The post Kovács Zoltán feleségének üzlettársa milliókat kapott a vadászati kiállítást szervező cégtől first appeared on 24.hu .",
+    "url": "https://24.hu/fn/gazdasag/2021/05/24/kovacs-zoltan-felesege-vadaszati-kiallitas/",
     "source": "24.hu/Kartal",
     "lang": "hu",
     "scope": "city",
-    "date": "Mon, 29 May 2017 05:38:48 +0000"
+    "date": "Mon, 24 May 2021 08:40:24 +0000"
+  },
+  {
+    "title": "Bontási jkv_Óvodatej_2026-27. nevelési évre",
+    "snippet": "",
+    "url": "http://www.kartal.hu/2026/05/bontasi-jkv_ovodatej_2026-27-nevelesi-evre/",
+    "source": "kartal.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 07 May 2026 09:28:21 +0000"
   },
   {
     "title": "Meghalt Rónaszegi Miklós",
@@ -36,6 +36,24 @@
     "date": "Mon, 31 Jan 2022 16:06:00 +0100"
   },
   {
+    "title": "Baleset történt az M3-ason",
+    "snippet": "Torlódásra kell számítani. The post Baleset történt az M3-ason first appeared on 24.hu .",
+    "url": "https://24.hu/kozelet/2017/05/29/baleset-tortent-az-m3-ason/",
+    "source": "24.hu/Kartal",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 29 May 2017 05:38:48 +0000"
+  },
+  {
+    "title": "Ajánlattételi felhívás óvodatej beszerzésére",
+    "snippet": "",
+    "url": "http://www.kartal.hu/2026/04/ajanlatteteli-felhivas-ovodatej-beszerzesere-2/",
+    "source": "kartal.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 15 Apr 2026 11:17:55 +0000"
+  },
+  {
     "title": "Zebrán gázolták halálra az idős nőt",
     "snippet": "A két gyalogos közül egy 70 éves nő olyan súlyosan megsérült, hogy a helyszínen életét vesztette, míg egy 20 éves férfit kórházba vittek. The post Zebrán gázolták halálra az idős nőt first appeared on 24.hu .",
     "url": "https://24.hu/kozelet/2014/02/13/zebran-gazoltak-halalra-az-idos-not/",
@@ -43,5 +61,14 @@
     "lang": "hu",
     "scope": "city",
     "date": "Thu, 13 Feb 2014 08:49:11 +0000"
+  },
+  {
+    "title": "Óvodai beiratkozás 2026-2027 nevelési évre",
+    "snippet": "",
+    "url": "http://www.kartal.hu/2026/03/ovodai-beiratkozas-2026-2027-nevelesi-evre/",
+    "source": "kartal.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 31 Mar 2026 07:40:15 +0000"
   }
 ]

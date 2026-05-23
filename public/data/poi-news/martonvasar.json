@@ -1,14 +1,5 @@
 [
   {
-    "title": "Az M7-esen és a 7-es főúton baleset akadályozza a forgalmat",
-    "snippet": "Az arra járók lassú haladásra számíthatnak. The post Az M7-esen és a 7-es főúton baleset akadályozza a forgalmat first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2025/08/04/m7-martonvasar-7-es-fout-baracska-baleset/",
-    "source": "24.hu/Martonvásár",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Mon, 04 Aug 2025 12:14:41 +0000"
-  },
-  {
     "title": "Tömegbaleset volt az M7-es autópályán, sok kilométeres a torlódás",
     "snippet": "A sztráda 31-es kilométerénél történt balesethez az érdi hivatásos tűzoltókat riasztották, a helyszínre mentő is érkezett.",
     "url": "https://index.hu/belfold/2026/04/25/baleset-m7-autopalya-baleset-martonvasar-letenye-torlodas/",
@@ -18,13 +9,13 @@
     "date": "Sat, 25 Apr 2026 10:41:00 +0200"
   },
   {
-    "title": "Elromlott egy sorompó Tárnoknál, újabb üzemzavar a balatoni fővonalon",
-    "snippet": "Több vonatnál biztosítóberendezési hibát jelölték meg a késés okaként. The post Elromlott egy sorompó Tárnoknál, újabb üzemzavar a balatoni fővonalon first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2025/06/22/mav-sorompo-tarnok-uzemzavar-balatoni-fovonal/",
+    "title": "Az M7-esen és a 7-es főúton baleset akadályozza a forgalmat",
+    "snippet": "Az arra járók lassú haladásra számíthatnak. The post Az M7-esen és a 7-es főúton baleset akadályozza a forgalmat first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2025/08/04/m7-martonvasar-7-es-fout-baracska-baleset/",
     "source": "24.hu/Martonvásár",
     "lang": "hu",
     "scope": "city",
-    "date": "Sun, 22 Jun 2025 20:44:15 +0000"
+    "date": "Mon, 04 Aug 2025 12:14:41 +0000"
   },
   {
     "title": "Tömegbalesetek bénítják az M7-est és a 7-es főutat, mentőhelikopter is érkezett a helyszínre",
@@ -36,13 +27,13 @@
     "date": "Mon, 04 Aug 2025 13:35:00 +0200"
   },
   {
-    "title": "Vizsgálat a MÁV-nál, miután egymással szemben ment két vonat Martonvásárnál",
-    "snippet": "A Martonvásárról 10:10-kor Kőbánya-Kispestre elindult S36-os vonat Martonvásár állomásról engedély nélkül, a tiltó jelzés ellenére indult el. The post Vizsgálat a MÁV-nál, miután egymással szemben ment két vonat Martonvásárnál first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2024/11/07/mav-vizsgalat-egymassal-szemben-haladt-ket-vonat-martonvasar/",
+    "title": "Elromlott egy sorompó Tárnoknál, újabb üzemzavar a balatoni fővonalon",
+    "snippet": "Több vonatnál biztosítóberendezési hibát jelölték meg a késés okaként. The post Elromlott egy sorompó Tárnoknál, újabb üzemzavar a balatoni fővonalon first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2025/06/22/mav-sorompo-tarnok-uzemzavar-balatoni-fovonal/",
     "source": "24.hu/Martonvásár",
     "lang": "hu",
     "scope": "city",
-    "date": "Thu, 07 Nov 2024 11:58:29 +0000"
+    "date": "Sun, 22 Jun 2025 20:44:15 +0000"
   },
   {
     "title": "Súlyos zavar a balatoni fővonalon, több vonat is késett",
@@ -52,5 +43,14 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sat, 21 Jun 2025 17:41:00 +0200"
+  },
+  {
+    "title": "Vizsgálat a MÁV-nál, miután egymással szemben ment két vonat Martonvásárnál",
+    "snippet": "A Martonvásárról 10:10-kor Kőbánya-Kispestre elindult S36-os vonat Martonvásár állomásról engedély nélkül, a tiltó jelzés ellenére indult el. The post Vizsgálat a MÁV-nál, miután egymással szemben ment két vonat Martonvásárnál first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2024/11/07/mav-vizsgalat-egymassal-szemben-haladt-ket-vonat-martonvasar/",
+    "source": "24.hu/Martonvásár",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 07 Nov 2024 11:58:29 +0000"
   }
 ]

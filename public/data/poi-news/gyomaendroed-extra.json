@@ -1,14 +1,5 @@
 [
   {
-    "title": "Hajszálon múlt, hogy súlyos balesetet okozzon egy létra",
-    "snippet": "Az incidens a 46-os főúton történt.",
-    "url": "https://index.hu/belfold/2026/01/28/budapesti-autosok-orszagut-letra-gyomaendrod-mezotur-incidens-felvetel/",
-    "source": "index.hu/Gyomaendrőd",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 28 Jan 2026 17:42:00 +0100"
-  },
-  {
     "title": "„Hinni akarunk már valamiben, az az igazság” – Magyar Péter békési látogatását követtük",
     "snippet": "Már hógolyó vagyunk, és lehetünk a NER-t elsöprő lavina – mondta nekünk Magyar Péter, akit a választási várakozásairól is kérdeztünk Békés vármegyében kezdődött országjárásán. Volt, aki ajándékkal és reményekkel tele, és volt, aki szkeptikusan, de érdeklődve várta a Tisza Párt EP-listavezetőjét. The",
     "url": "https://24.hu/belfold/2024/04/20/magyar-peter-orszagjaras-bekes-sarkad-szarvas-videk/",
@@ -18,13 +9,13 @@
     "date": "Sat, 20 Apr 2024 12:02:33 +0000"
   },
   {
-    "title": "Négyes karambol történt a 6-os főúton, mentők érkeztek a helyszínre",
-    "snippet": "Gyomaendrődön pedig két jármű karambolozott.",
-    "url": "https://index.hu/belfold/2025/09/13/baleset-kozlekedes-6-os-fout-hird-46-os-fout-gyomaendrod/",
+    "title": "Hajszálon múlt, hogy súlyos balesetet okozzon egy létra",
+    "snippet": "Az incidens a 46-os főúton történt.",
+    "url": "https://index.hu/belfold/2026/01/28/budapesti-autosok-orszagut-letra-gyomaendrod-mezotur-incidens-felvetel/",
     "source": "index.hu/Gyomaendrőd",
     "lang": "hu",
     "scope": "city",
-    "date": "Sat, 13 Sep 2025 16:06:00 +0200"
+    "date": "Wed, 28 Jan 2026 17:42:00 +0100"
   },
   {
     "title": "Elgázolt egy embert a vonat Gyomaendrődnél",
@@ -36,13 +27,13 @@
     "date": "Wed, 10 Apr 2024 16:45:14 +0000"
   },
   {
-    "title": "Édesvízi medúzát találtak a Hármas-Körösön",
-    "snippet": "Akkor jelennek meg, ha a víz hőmérséklete 20 Celsius-fok fölé emelkedik.",
-    "url": "https://index.hu/belfold/2025/07/13/koros-bekes-varmegye-horgasz-edesvizi-meduza/",
+    "title": "Négyes karambol történt a 6-os főúton, mentők érkeztek a helyszínre",
+    "snippet": "Gyomaendrődön pedig két jármű karambolozott.",
+    "url": "https://index.hu/belfold/2025/09/13/baleset-kozlekedes-6-os-fout-hird-46-os-fout-gyomaendrod/",
     "source": "index.hu/Gyomaendrőd",
     "lang": "hu",
     "scope": "city",
-    "date": "Sun, 13 Jul 2025 16:15:00 +0200"
+    "date": "Sat, 13 Sep 2025 16:06:00 +0200"
   },
   {
     "title": "Több melegrekord megdőlt vasárnap",
@@ -52,5 +43,14 @@
     "lang": "hu",
     "scope": "city",
     "date": "Mon, 12 Feb 2024 12:06:20 +0000"
+  },
+  {
+    "title": "Édesvízi medúzát találtak a Hármas-Körösön",
+    "snippet": "Akkor jelennek meg, ha a víz hőmérséklete 20 Celsius-fok fölé emelkedik.",
+    "url": "https://index.hu/belfold/2025/07/13/koros-bekes-varmegye-horgasz-edesvizi-meduza/",
+    "source": "index.hu/Gyomaendrőd",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sun, 13 Jul 2025 16:15:00 +0200"
   }
 ]

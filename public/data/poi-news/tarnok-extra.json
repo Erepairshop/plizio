@@ -1,14 +1,5 @@
 [
   {
-    "title": "Gázolt a vonat Tárnok előtt",
-    "snippet": "Járatkimaradásokra is kell számítani. The post Gázolt a vonat Tárnok előtt first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2026/01/09/gazolas-vonat-tarnok/",
-    "source": "24.hu/Tárnok",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Fri, 09 Jan 2026 10:57:22 +0000"
-  },
-  {
     "title": "A választások után kiderült: nem találtak jelentős szennyezést az akkumulátorgyárak környezetében",
     "snippet": "A Greenpeace szakemberei Gödön, Komáromban, Sóskúton és Tárnokon vettek mintákat.",
     "url": "https://index.hu/belfold/2026/04/19/akkumulator-gyarak-szennyezes-vizsgalat-greenpeace-god-komarom-soskut-tarnok/",
@@ -18,13 +9,13 @@
     "date": "Sun, 19 Apr 2026 15:47:00 +0200"
   },
   {
-    "title": "Elromlott egy sorompó Tárnoknál, újabb üzemzavar a balatoni fővonalon",
-    "snippet": "Több vonatnál biztosítóberendezési hibát jelölték meg a késés okaként. The post Elromlott egy sorompó Tárnoknál, újabb üzemzavar a balatoni fővonalon first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2025/06/22/mav-sorompo-tarnok-uzemzavar-balatoni-fovonal/",
+    "title": "Gázolt a vonat Tárnok előtt",
+    "snippet": "Járatkimaradásokra is kell számítani. The post Gázolt a vonat Tárnok előtt first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2026/01/09/gazolas-vonat-tarnok/",
     "source": "24.hu/Tárnok",
     "lang": "hu",
     "scope": "city",
-    "date": "Sun, 22 Jun 2025 20:44:15 +0000"
+    "date": "Fri, 09 Jan 2026 10:57:22 +0000"
   },
   {
     "title": "Elgázolt egy embert a vonat Tárnoknál, korlátozásokra kell készülni a fehérvári vonalon",
@@ -36,13 +27,13 @@
     "date": "Fri, 09 Jan 2026 13:00:00 +0100"
   },
   {
-    "title": "A pünkösdi hosszú hétvége első délelőttjén összeomlott a balatoni vonatközlekedés",
-    "snippet": "Egy meghibásodott sorompó miatt volt olyan járat, ami el sem jutott a Balatonig. The post A pünkösdi hosszú hétvége első délelőttjén összeomlott a balatoni vonatközlekedés first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2025/06/07/mav-balaton-punkosd-hosszu-hetvege-osszeomlas-sorompo-tarnok/",
+    "title": "Elromlott egy sorompó Tárnoknál, újabb üzemzavar a balatoni fővonalon",
+    "snippet": "Több vonatnál biztosítóberendezési hibát jelölték meg a késés okaként. The post Elromlott egy sorompó Tárnoknál, újabb üzemzavar a balatoni fővonalon first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2025/06/22/mav-sorompo-tarnok-uzemzavar-balatoni-fovonal/",
     "source": "24.hu/Tárnok",
     "lang": "hu",
     "scope": "city",
-    "date": "Sat, 07 Jun 2025 12:09:01 +0000"
+    "date": "Sun, 22 Jun 2025 20:44:15 +0000"
   },
   {
     "title": "Egyre aggasztóbb a helyzet Tárnokon, harapós kutyák tartják rettegésben a település lakóit",
@@ -52,5 +43,14 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sun, 14 Sep 2025 10:03:00 +0200"
+  },
+  {
+    "title": "A pünkösdi hosszú hétvége első délelőttjén összeomlott a balatoni vonatközlekedés",
+    "snippet": "Egy meghibásodott sorompó miatt volt olyan járat, ami el sem jutott a Balatonig. The post A pünkösdi hosszú hétvége első délelőttjén összeomlott a balatoni vonatközlekedés first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2025/06/07/mav-balaton-punkosd-hosszu-hetvege-osszeomlas-sorompo-tarnok/",
+    "source": "24.hu/Tárnok",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sat, 07 Jun 2025 12:09:01 +0000"
   }
 ]

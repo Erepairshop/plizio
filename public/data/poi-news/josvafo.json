@@ -1,14 +1,5 @@
 [
   {
-    "title": "Felhozták a Kossuth-barlangban eltűnt búvár holttestét",
-    "snippet": "Múlt vasárnap tűnt el a tapasztalt tűzoltóbúvár. The post Felhozták a Kossuth-barlangban eltűnt búvár holttestét first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2022/04/10/felhoztak-a-kossuth-barlangban-eltunt-buvar-holttestet/",
-    "source": "24.hu/Jósvafő",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sun, 10 Apr 2022 13:12:12 +0000"
-  },
-  {
     "title": "Elárasztotta a víz az aggteleki barlangot, harmadfokú árvízvédelmi készültséget rendeltek el",
     "snippet": "Az árvízhelyzet miatt két túrájukat elhalasztották.",
     "url": "https://index.hu/belfold/2023/01/19/aradas-arviz-aggteleki-nemzeti-park-barlang-karszt-josvafo/",
@@ -18,13 +9,13 @@
     "date": "Thu, 19 Jan 2023 16:52:00 +0100"
   },
   {
-    "title": "Napokig is eltarthat, amíg felszínre hozzák a Kossuth-barlangban elhunyt búvár holttestét",
-    "snippet": "A holnapi napon várhatóan elkezdődnek a merülések. The post Napokig is eltarthat, amíg felszínre hozzák a Kossuth-barlangban elhunyt búvár holttestét first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2022/04/06/napokig-is-eltarthat-amig-felszinre-hozzak-a-kossuth-barlangban-elhunyt-buvar-holttestet/",
+    "title": "Felhozták a Kossuth-barlangban eltűnt búvár holttestét",
+    "snippet": "Múlt vasárnap tűnt el a tapasztalt tűzoltóbúvár. The post Felhozták a Kossuth-barlangban eltűnt búvár holttestét first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2022/04/10/felhoztak-a-kossuth-barlangban-eltunt-buvar-holttestet/",
     "source": "24.hu/Jósvafő",
     "lang": "hu",
     "scope": "city",
-    "date": "Wed, 06 Apr 2022 14:39:29 +0000"
+    "date": "Sun, 10 Apr 2022 13:12:12 +0000"
   },
   {
     "title": "Omlás okozhatta a Kossuth-barlangban eltűnt búvár tragédiáját",
@@ -36,13 +27,13 @@
     "date": "Mon, 11 Apr 2022 05:41:00 +0200"
   },
   {
-    "title": "Elhunyt kutatóbúvárját gyászolja a Katasztrófavédelem: „A mi hősünk! Küzdött. Nem adta fel”",
-    "snippet": "Mede Márton az egyik legtapasztaltabb barlangi búvár volt hazánkban. 2014-ben bronzérmet szerzett a Tájékozódási Búvárúszó Európa-bajnokságon. The post Elhunyt kutatóbúvárját gyászolja a Katasztrófavédelem: „A mi hősünk! Küzdött. Nem adta fel\" first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2022/04/06/elhunyt-kutatobuvarjat-gyaszolja-a-katasztrofavedelem-a-mi-hosunk-kuzdott-nem-adta-fel/",
+    "title": "Napokig is eltarthat, amíg felszínre hozzák a Kossuth-barlangban elhunyt búvár holttestét",
+    "snippet": "A holnapi napon várhatóan elkezdődnek a merülések. The post Napokig is eltarthat, amíg felszínre hozzák a Kossuth-barlangban elhunyt búvár holttestét first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2022/04/06/napokig-is-eltarthat-amig-felszinre-hozzak-a-kossuth-barlangban-elhunyt-buvar-holttestet/",
     "source": "24.hu/Jósvafő",
     "lang": "hu",
     "scope": "city",
-    "date": "Wed, 06 Apr 2022 14:00:42 +0000"
+    "date": "Wed, 06 Apr 2022 14:39:29 +0000"
   },
   {
     "title": "A TEK emelte ki a hős búvár holttestét",
@@ -52,5 +43,14 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sun, 10 Apr 2022 15:45:00 +0200"
+  },
+  {
+    "title": "Elhunyt kutatóbúvárját gyászolja a Katasztrófavédelem: „A mi hősünk! Küzdött. Nem adta fel”",
+    "snippet": "Mede Márton az egyik legtapasztaltabb barlangi búvár volt hazánkban. 2014-ben bronzérmet szerzett a Tájékozódási Búvárúszó Európa-bajnokságon. The post Elhunyt kutatóbúvárját gyászolja a Katasztrófavédelem: „A mi hősünk! Küzdött. Nem adta fel\" first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2022/04/06/elhunyt-kutatobuvarjat-gyaszolja-a-katasztrofavedelem-a-mi-hosunk-kuzdott-nem-adta-fel/",
+    "source": "24.hu/Jósvafő",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 06 Apr 2022 14:00:42 +0000"
   }
 ]

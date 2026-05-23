@@ -1,12 +1,12 @@
 [
   {
-    "title": "Virágosítás a Zöldike Óvodában",
-    "snippet": "Pályázati forrásból és adományból szépült meg a Zöldike Óvoda udvara. Virágokat, bokrokat, tujákat ültettek pénteken, szülők és az intézmény dolgozói közösen. Később pedig egy ovikert is létrejön majd.",
-    "url": "https://hiros.hu/viragositas-a-zoldike-ovodaban/",
+    "title": "Közeledik a pünkösd - Zirig Kristóf atyával beszélgettünk",
+    "snippet": "A pünkösd a kereszténység egyik legfontosabb ünnepe, a húsvét utáni 50. napon tartjuk. A Biblia szerint a Szentlélek ezen a napon áradt ki az apostolokra. Az egyház születésnapja: Ekkor alakult meg az első keresztény gyülekezet Jeruzsálemben. Többek között erről is kérdezte kolléganőnk, Kiss-Berta B",
+    "url": "https://hiros.hu/kozeledik-a-punkosd-zirig-kristof-atyaval-beszelgettunk/",
     "source": "Hiros.hu",
     "lang": "hu",
     "scope": "city",
-    "date": "Fri, 22 May 2026 19:37:14 +0000"
+    "date": "Sat, 23 May 2026 05:53:00 +0000"
   },
   {
     "title": "Oroszlányban zárja a szezont a Duna Aszfalt-DTKH Kecskemét",
@@ -18,6 +18,15 @@
     "date": "Fri, 22 May 2026 12:12:12 +0200"
   },
   {
+    "title": "Virágosítás a Zöldike Óvodában",
+    "snippet": "Pályázati forrásból és adományból szépült meg a Zöldike Óvoda udvara. Virágokat, bokrokat, tujákat ültettek pénteken, szülők és az intézmény dolgozói közösen. Később pedig egy ovikert is létrejön majd.",
+    "url": "https://hiros.hu/viragositas-a-zoldike-ovodaban/",
+    "source": "Hiros.hu",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 19:37:14 +0000"
+  },
+  {
     "title": "Tájfutás világnapja: élménynek, agymunkának és mozgásnak is kiváló ez a sport",
     "snippet": "A tájfutás világhete alkalmából szervezett nyílt futónapnak adott otthont ma a kecskeméti Vasútpark. A programot a Kecskeméti Sportiskola és a Kecskeméti Zöldsportok Egyesülete hívta életre azzal a céllal, hogy minél több gyerekkel és családdal ismertessék meg ezt a különleges sportágat.",
     "url": "https://hiros.hu/tajfutas-vilagnapja-elmenynek-agymunkanak-es-mozgasnak-is-kivalo-ez-a-sport/",
@@ -25,15 +34,6 @@
     "lang": "hu",
     "scope": "city",
     "date": "Fri, 22 May 2026 18:24:34 +0000"
-  },
-  {
-    "title": "Megkezdődött a jelentkezés a Kodály Iskola Népzenei Tanszakára",
-    "snippet": "Megindult a jelentkezés a Kodály Iskola Népzenei Tanszakára. A képzés célja, hogy a gyerekek már fiatal korban megismerjék a magyar népzene gazdag világát, és ne csak tanulják, hanem élő hagyományként éljék meg azt. Hogy mit adhat a népzene a fiataloknak, kiknek érdemes jelentkezniük, és hogyan lehe",
-    "url": "https://hiros.hu/megkezdodott-a-jelentkezes-a-kodaly-iskola-nepzenei-tanszakara/",
-    "source": "Hiros.hu",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 18:14:49 +0000"
   },
   {
     "title": "Megvertek egy taxist Kecskeméten, több autós is lazán elhajtott mellette, végül egy fiatal nő mentette meg",
@@ -117,15 +117,6 @@
     "date": "Wed, 13 Nov 2024 17:53:00 +0100"
   },
   {
-    "title": "Halálos baleset Kecskemét térségében",
-    "snippet": "Meghalt egy autó sofőrje, aki eddig ismeretlen okból lesodródott az úttestről péntek éjjel az 54-es főúton Helvécia közelében. The post Halálos baleset Kecskemét térségében first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2016/09/17/halalos-baleset-kecskemet-tersegeben/",
-    "source": "24.hu/Helvécia",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sat, 17 Sep 2016 07:23:59 +0000"
-  },
-  {
     "title": "Heten adtak át egy utat Kecskemét mellett, de így is elrontották",
     "snippet": "Rossz helyre álltak a települések vezetői.",
     "url": "https://index.hu/belfold/2023/09/04/kecskemet-ut-atadas-helcvecia-baki/",
@@ -133,6 +124,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Mon, 04 Sep 2023 14:41:00 +0200"
+  },
+  {
+    "title": "Halálos baleset Kecskemét térségében",
+    "snippet": "Meghalt egy autó sofőrje, aki eddig ismeretlen okból lesodródott az úttestről péntek éjjel az 54-es főúton Helvécia közelében. The post Halálos baleset Kecskemét térségében first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2016/09/17/halalos-baleset-kecskemet-tersegeben/",
+    "source": "24.hu/Helvécia",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sat, 17 Sep 2016 07:23:59 +0000"
   },
   {
     "title": "El akarta ütni a rendőröket egy sofőr Kecskemétnél, több lövés is dördült",

@@ -9,15 +9,6 @@
     "date": "Mon, 15 Sep 2025 10:31:00 +0200"
   },
   {
-    "title": "Leplezetlenül pumpálták Hankóék az NKA-s botránypénzt a Fidesz vidéki politikusai felé",
-    "snippet": "Újabb részletek az NKA utolsó pillanatos botránypénzosztásáról. The post Leplezetlenül pumpálták Hankóék az NKA-s botránypénzt a Fidesz vidéki politikusai felé first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2026/05/16/hanko-balazs-nka-botrany-fidesz-kampany/",
-    "source": "24.hu/Sátoraljaújhely",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sat, 16 May 2026 04:58:14 +0000"
-  },
-  {
     "title": "Átneveznék a sátoraljaújhelyi uszodát, ami eddig Wáberer György nevét viselte",
     "snippet": "Majoros László DK-s önkormányzati képviselő politikai bosszúnak nevezi a döntést.",
     "url": "https://index.hu/belfold/2026/05/07/waberer-gyorgy-satoraljaujhely-uszoda-atnevezes-magyar-peter/",
@@ -25,6 +16,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Thu, 07 May 2026 20:34:00 +0200"
+  },
+  {
+    "title": "Leplezetlenül pumpálták Hankóék az NKA-s botránypénzt a Fidesz vidéki politikusai felé",
+    "snippet": "Újabb részletek az NKA utolsó pillanatos botránypénzosztásáról. The post Leplezetlenül pumpálták Hankóék az NKA-s botránypénzt a Fidesz vidéki politikusai felé first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2026/05/16/hanko-balazs-nka-botrany-fidesz-kampany/",
+    "source": "24.hu/Sátoraljaújhely",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sat, 16 May 2026 04:58:14 +0000"
   },
   {
     "title": "Kigyulladt egy személyvonat alja Sárospatak és Sátoraljaújhely között",
@@ -36,15 +36,6 @@
     "date": "Mon, 18 Aug 2025 16:56:00 +0200"
   },
   {
-    "title": "Újra költözhetnek majd Sátoraljaújhelyre olyanok, akik nem tudnak magyarul",
-    "snippet": "Nagy port kavart tavaly a fideszes vezetésű város rendelete. The post Újra költözhetnek majd Sátoraljaújhelyre olyanok, akik nem tudnak magyarul first appeared on 24.hu .",
-    "url": "https://24.hu/otthon/2026/04/17/satoraljaujhely-onazonossagi-reneet-visszavonas/",
-    "source": "24.hu/Sátoraljaújhely",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Fri, 17 Apr 2026 05:53:42 +0000"
-  },
-  {
     "title": "Sátoraljaújhelynek is megvan a saját Breaking Bad-epizódja",
     "snippet": "Kristályt árult a 65 éves férfi.",
     "url": "https://index.hu/belfold/2026/03/17/rendorseg-diler-satoraljaujhely-kabitoszer-drog-kereskedelem-borsod-abauj-zemplen-varmegye-letartoztatas/",
@@ -54,13 +45,13 @@
     "date": "Tue, 17 Mar 2026 07:47:00 +0100"
   },
   {
-    "title": "A sároraljaújhelyi polgármester felszólította Wáberer Györgyöt, mondjon le a tisztségeiről",
-    "snippet": "Arról kérdezgette Wáberert, mit kapott azért, hogy a Fideszt kritizálja. The post A sároraljaújhelyi polgármester felszólította Wáberer Györgyöt, mondjon le a tisztségeiről first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2026/04/09/waberer-szamosvolgyi-peter-satoraljaujhely/",
+    "title": "Újra költözhetnek majd Sátoraljaújhelyre olyanok, akik nem tudnak magyarul",
+    "snippet": "Nagy port kavart tavaly a fideszes vezetésű város rendelete. The post Újra költözhetnek majd Sátoraljaújhelyre olyanok, akik nem tudnak magyarul first appeared on 24.hu .",
+    "url": "https://24.hu/otthon/2026/04/17/satoraljaujhely-onazonossagi-reneet-visszavonas/",
     "source": "24.hu/Sátoraljaújhely",
     "lang": "hu",
     "scope": "city",
-    "date": "Thu, 09 Apr 2026 13:06:33 +0000"
+    "date": "Fri, 17 Apr 2026 05:53:42 +0000"
   },
   {
     "title": "Újabb részletek derültek ki a sátoraljaújhelyi baleset áldozatairól",
@@ -70,5 +61,14 @@
     "lang": "hu",
     "scope": "city",
     "date": "Fri, 02 Jan 2026 16:48:00 +0100"
+  },
+  {
+    "title": "A sároraljaújhelyi polgármester felszólította Wáberer Györgyöt, mondjon le a tisztségeiről",
+    "snippet": "Arról kérdezgette Wáberert, mit kapott azért, hogy a Fideszt kritizálja. The post A sároraljaújhelyi polgármester felszólította Wáberer Györgyöt, mondjon le a tisztségeiről first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2026/04/09/waberer-szamosvolgyi-peter-satoraljaujhely/",
+    "source": "24.hu/Sátoraljaújhely",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 09 Apr 2026 13:06:33 +0000"
   }
 ]

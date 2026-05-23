@@ -1,14 +1,5 @@
 [
   {
-    "title": "Több településen rendeznek időközi önkormányzati választást vasárnap",
-    "snippet": "Van olyan város, ahol egyetlen jelölt indul.",
-    "url": "https://index.hu/belfold/2026/05/10/idokozi-onkormanyzati-valasztas-felsoszentmarton-esztergom-kepviselo-testulet-fidesz-bekescsaba-ukran-nemzetiseg/",
-    "source": "index.hu/Békéscsaba",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sun, 10 May 2026 08:12:00 +0200"
-  },
-  {
     "title": "Orvosi képesítés nélkül végzett hialuronsavas ajakfeltöltéseket egy fiatal békéscsabai kozmetikus",
     "snippet": "Kuruzslás miatt ítélték el. The post Orvosi képesítés nélkül végzett hialuronsavas ajakfeltöltéseket egy fiatal békéscsabai kozmetikus first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2026/04/30/bekescsaka-ajakfeltoltes-kozmetikus-kuruzslas/",
@@ -16,6 +7,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Thu, 30 Apr 2026 10:13:02 +0000"
+  },
+  {
+    "title": "Több településen rendeznek időközi önkormányzati választást vasárnap",
+    "snippet": "Van olyan város, ahol egyetlen jelölt indul.",
+    "url": "https://index.hu/belfold/2026/05/10/idokozi-onkormanyzati-valasztas-felsoszentmarton-esztergom-kepviselo-testulet-fidesz-bekescsaba-ukran-nemzetiseg/",
+    "source": "index.hu/Békéscsaba",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sun, 10 May 2026 08:12:00 +0200"
   },
   {
     "title": "Éjszakai, zajjal járó munkavégzés a Szolnok–Békéscsaba vonalon",
@@ -27,15 +27,6 @@
     "date": "Tue, 07 Apr 2026 13:11:23 +0000"
   },
   {
-    "title": "Illegálisan végzett ajakfeltöltést egy békéscsabai kozmetikus, súlyos következménye lett",
-    "snippet": "Kuruzslás miatt bűnhődik.",
-    "url": "https://index.hu/belfold/2026/04/30/bekescsaba-eliteles-kozmetikus-no-itelet-bekes-varmegyei-fougyeszseg-kozmetikai-kezeles-ajakfeltoltes/",
-    "source": "index.hu/Békéscsaba",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Thu, 30 Apr 2026 17:01:00 +0200"
-  },
-  {
     "title": "Ortopédcipő-maffia: 76 ember ellen emeltek vádat, akik 4,5 milliárdos kárt okozhattak",
     "snippet": "A vádlottak közt 36 orvos is van. The post Ortopédcipő-maffia: 76 ember ellen emeltek vádat, akik 4,5 milliárdos kárt okozhattak first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2026/04/22/ortopedcipo-maffia-vademeles-orvos-bekescsaba/",
@@ -45,13 +36,13 @@
     "date": "Wed, 22 Apr 2026 06:39:48 +0000"
   },
   {
-    "title": "Centimétereken múlt, hogy nem történt súlyos baleset",
-    "snippet": "Nem csak a fővárosban közlekednek figyelmetlen autósok.",
-    "url": "https://index.hu/belfold/2026/03/31/bpiautosok-gyongyos-xviii.-kerulet-bekescsaba-m0-s-autout-iii.-kerulet/",
+    "title": "Illegálisan végzett ajakfeltöltést egy békéscsabai kozmetikus, súlyos következménye lett",
+    "snippet": "Kuruzslás miatt bűnhődik.",
+    "url": "https://index.hu/belfold/2026/04/30/bekescsaba-eliteles-kozmetikus-no-itelet-bekes-varmegyei-fougyeszseg-kozmetikai-kezeles-ajakfeltoltes/",
     "source": "index.hu/Békéscsaba",
     "lang": "hu",
     "scope": "city",
-    "date": "Tue, 31 Mar 2026 13:19:00 +0200"
+    "date": "Thu, 30 Apr 2026 17:01:00 +0200"
   },
   {
     "title": "Magyar Péter Békéscsabán: „Nézd, Andi, tömeg!”",
@@ -61,5 +52,14 @@
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 01 Apr 2026 18:07:01 +0000"
+  },
+  {
+    "title": "Centimétereken múlt, hogy nem történt súlyos baleset",
+    "snippet": "Nem csak a fővárosban közlekednek figyelmetlen autósok.",
+    "url": "https://index.hu/belfold/2026/03/31/bpiautosok-gyongyos-xviii.-kerulet-bekescsaba-m0-s-autout-iii.-kerulet/",
+    "source": "index.hu/Békéscsaba",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 31 Mar 2026 13:19:00 +0200"
   }
 ]

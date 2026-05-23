@@ -54,6 +54,15 @@
     "date": "Fri, 15 May 2026 11:46:00 +0200"
   },
   {
+    "title": "Lefejelte a biztonsági őrt a szurkoló",
+    "snippet": "Vádat emelt az ügyészség azzal a karcagi férfival szemben, aki januárban botrányosan viselkedett egy ceglédi kosárlabda-mérkőzésen. A Pest Vármegyei Főügyészség közleménye szerint az ittas férfi italt vett magának a félidőben, majd, miközben visszatért a lelátóra, kiabálni kezdett, és trágár szavakk",
+    "url": "https://www.cegledipanorama.hu/2026-05-15/lefejelte-a-biztonsagi-ort-a-szurkolo/",
+    "source": "Ceglédi Panoráma",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 15 May 2026 08:42:01 +0000"
+  },
+  {
     "title": "Vonatgázolás történt szombat este a Budapest–Cegléd–Szolnok-vonalon",
     "snippet": "Késnek a vonatok.",
     "url": "https://index.hu/belfold/2023/03/25/vonatgazolas-budapest-cegled-szolnok-vasutvonal-keses-pilis-monor/",
@@ -70,15 +79,6 @@
     "lang": "hu",
     "scope": "city",
     "date": "Mon, 13 Jun 2022 08:19:00 +0200"
-  },
-  {
-    "title": "Lefejelte a biztonsági őrt a szurkoló",
-    "snippet": "Vádat emelt az ügyészség azzal a karcagi férfival szemben, aki januárban botrányosan viselkedett egy ceglédi kosárlabda-mérkőzésen. A Pest Vármegyei Főügyészség közleménye szerint az ittas férfi italt vett magának a félidőben, majd, miközben visszatért a lelátóra, kiabálni kezdett, és trágár szavakk",
-    "url": "https://www.cegledipanorama.hu/2026-05-15/lefejelte-a-biztonsagi-ort-a-szurkolo/",
-    "source": "Ceglédi Panoráma",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Fri, 15 May 2026 08:42:01 +0000"
   },
   {
     "title": "Negyven kutya életét tette pokollá egy szaporító, több agyonvert és elpusztult kutya még napfényt sem látott",
@@ -99,15 +99,6 @@
     "date": "Fri, 17 Apr 2026 09:06:00 +0200"
   },
   {
-    "title": "Hétvégén megváltozik a vasúti közlekedés a Budapest–Cegléd vonalon",
-    "snippet": "Az éjszakai órákban pályafelújításokat végeznek.",
-    "url": "https://index.hu/belfold/2021/11/10/hetvege-valtozas-budapest-cegled-vasuti-kozlekedes-palyafelujitas-vonat/",
-    "source": "index.hu/Monor",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 10 Nov 2021 10:17:00 +0100"
-  },
-  {
     "title": "Elhunyt Mészáros István, az abonyi vendéglős",
     "snippet": "Abony város ikonikus alakjától Pető Zsolt polgármester búcsúzott megrendült közleményben. „A szakma kiválóságának köszönhetően az abonyi Mészáros Vendéglő nemcsak országosan híres, és elismert, közkedvelt étterem volt, hanem határokon túl is. 2024 tavaszán Mészáros István Abony Város Önkormányzatátó",
     "url": "https://www.cegledipanorama.hu/2026-05-14/elhunyt-meszaros-istvan-az-abonyi-vendeglos/",
@@ -115,6 +106,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Thu, 14 May 2026 17:14:41 +0000"
+  },
+  {
+    "title": "Hétvégén megváltozik a vasúti közlekedés a Budapest–Cegléd vonalon",
+    "snippet": "Az éjszakai órákban pályafelújításokat végeznek.",
+    "url": "https://index.hu/belfold/2021/11/10/hetvege-valtozas-budapest-cegled-vasuti-kozlekedes-palyafelujitas-vonat/",
+    "source": "index.hu/Monor",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 10 Nov 2021 10:17:00 +0100"
   },
   {
     "title": "Kigyulladt egy mérővonat Cegléd és Abony között",

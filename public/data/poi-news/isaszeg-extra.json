@@ -9,13 +9,13 @@
     "date": "Fri, 22 May 2026 15:16:29 Z"
   },
   {
-    "title": "Afrikai sertéspestis miatt fertőzött területté vált Isaszeg",
-    "snippet": "A hatóságok fokozott óvatosságra kérik a sertéstartókat. A járvány ugyan emberre nem veszélyes, de a sertésekre rendkívül fertőző, ezért szigorú járványvédelmi szabályokat vezettek be.",
-    "url": "https://telex.hu/belfold/2026/05/22/isaszeg-sertespestis-asp-fertozes",
-    "source": "telex.hu",
+    "title": "Fertőzött terület lett Isaszeg, több vaddisznóban is kimutatták a sertéspestist",
+    "snippet": "Az önkormányzat figyelmeztette a sertéstartókat.",
+    "url": "https://index.hu/belfold/2026/05/22/isaszeg-afrikai-sertespestis-betegseg-fertozott-terulet-vaddisznok/",
+    "source": "index.hu/Isaszeg",
     "lang": "hu",
-    "scope": "national",
-    "date": "Fri, 22 May 2026 14:43:43 +0200"
+    "scope": "city",
+    "date": "Fri, 22 May 2026 15:55:00 +0200"
   },
   {
     "title": "Sertéspestis ütötte fel a fejét Isaszegen",
@@ -27,13 +27,13 @@
     "date": "Fri, 22 May 2026 12:59:53 +0000"
   },
   {
-    "title": "Fertőzött terület lett Isaszeg, több vaddisznóban is kimutatták a sertéspestist",
-    "snippet": "Az önkormányzat figyelmeztette a sertéstartókat.",
-    "url": "https://index.hu/belfold/2026/05/22/isaszeg-afrikai-sertespestis-betegseg-fertozott-terulet-vaddisznok/",
+    "title": "Véres csatát és sorsfordító levelet is hozott a húsvét a magyar történelemben",
+    "snippet": "Plusz egy új Alaptörvényt.",
+    "url": "https://index.hu/belfold/2026/04/04/magyar-tortenelem-husvet-isaszeg-deak-ferenc-kiegyezes-alaptorveny/",
     "source": "index.hu/Isaszeg",
     "lang": "hu",
     "scope": "city",
-    "date": "Fri, 22 May 2026 15:55:00 +0200"
+    "date": "Sat, 04 Apr 2026 20:24:00 +0200"
   },
   {
     "title": "Orbán Balázs szerint Magyar Péterre ráuntak az emberek, de Orbán Viktorra kíváncsiak",
@@ -45,13 +45,13 @@
     "date": "Fri, 20 Mar 2026 11:00:14 +0000"
   },
   {
-    "title": "Véres csatát és sorsfordító levelet is hozott a húsvét a magyar történelemben",
-    "snippet": "Plusz egy új Alaptörvényt.",
-    "url": "https://index.hu/belfold/2026/04/04/magyar-tortenelem-husvet-isaszeg-deak-ferenc-kiegyezes-alaptorveny/",
+    "title": "Személyautót sodort el a vonat Isaszegnél, utolsó pillanatban ugrottak el a mozdony elől",
+    "snippet": "Pillanatokon múlott a tragédia.",
+    "url": "https://index.hu/belfold/2026/02/11/video-vonatbaleset-pecel-isaszeg-utkozes-szemelyauto-mav-rendorseg/",
     "source": "index.hu/Isaszeg",
     "lang": "hu",
     "scope": "city",
-    "date": "Sat, 04 Apr 2026 20:24:00 +0200"
+    "date": "Wed, 11 Feb 2026 09:27:00 +0100"
   },
   {
     "title": "Egy 15 éves lányt gázolt halálra a vonat Isaszegnél, szerelmi bánatában léphetett a szerelvény elé",
@@ -63,13 +63,13 @@
     "date": "Wed, 12 Nov 2025 07:53:06 +0000"
   },
   {
-    "title": "Személyautót sodort el a vonat Isaszegnél, utolsó pillanatban ugrottak el a mozdony elől",
-    "snippet": "Pillanatokon múlott a tragédia.",
-    "url": "https://index.hu/belfold/2026/02/11/video-vonatbaleset-pecel-isaszeg-utkozes-szemelyauto-mav-rendorseg/",
+    "title": "Vonat elé lépett szerelmi bánatában egy 15 éves lány Isaszegnél",
+    "snippet": "A fiatal a tragédia előtt nem sokkal szakított a barátjával.",
+    "url": "https://index.hu/belfold/2025/11/12/isaszeg-vonat-baleset-tragedia-lany-bucsulevel-szakitas-gyasz/",
     "source": "index.hu/Isaszeg",
     "lang": "hu",
     "scope": "city",
-    "date": "Wed, 11 Feb 2026 09:27:00 +0100"
+    "date": "Wed, 12 Nov 2025 08:13:00 +0100"
   },
   {
     "title": "Halálos vonatgázolás Isaszegen",
@@ -79,14 +79,5 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sun, 09 Nov 2025 11:05:21 +0000"
-  },
-  {
-    "title": "Vonat elé lépett szerelmi bánatában egy 15 éves lány Isaszegnél",
-    "snippet": "A fiatal a tragédia előtt nem sokkal szakított a barátjával.",
-    "url": "https://index.hu/belfold/2025/11/12/isaszeg-vonat-baleset-tragedia-lany-bucsulevel-szakitas-gyasz/",
-    "source": "index.hu/Isaszeg",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 12 Nov 2025 08:13:00 +0100"
   }
 ]

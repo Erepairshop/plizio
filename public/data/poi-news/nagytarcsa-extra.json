@@ -18,15 +18,6 @@
     "date": "Mon, 18 May 2026 15:27:38 +0000"
   },
   {
-    "title": "Baleset történt az M0-ás autóúton, torlódásra kell számítani",
-    "snippet": "Az 55-ös kilométernél karambolozott egy teherautó és egy személykocsi. The post Baleset történt az M0-ás autóúton, torlódásra kell számítani first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2025/03/06/baleset-m0-as-autout-dugo-torlodas-mento-nagytarcsa-m3/",
-    "source": "24.hu/Nagytarcsa",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Thu, 06 Mar 2025 07:05:44 +0000"
-  },
-  {
     "title": "Ásványvíz ömlött az M31-es autópályára Nagytarcsánál",
     "snippet": "A sztráda elején szenvedett balesetet egy vizespalackokat szállító teherautó.",
     "url": "https://index.hu/belfold/2024/09/18/magyarorszag-m3-asvanyviz-baleset-kamion-nagytarcsa/",
@@ -34,6 +25,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 18 Sep 2024 14:59:00 +0200"
+  },
+  {
+    "title": "Baleset történt az M0-ás autóúton, torlódásra kell számítani",
+    "snippet": "Az 55-ös kilométernél karambolozott egy teherautó és egy személykocsi. The post Baleset történt az M0-ás autóúton, torlódásra kell számítani first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2025/03/06/baleset-m0-as-autout-dugo-torlodas-mento-nagytarcsa-m3/",
+    "source": "24.hu/Nagytarcsa",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 06 Mar 2025 07:05:44 +0000"
   },
   {
     "title": "Meghívó-2026.05.20. Pénzügyi és Településfejlesztési Bizottsági ülés",
@@ -46,21 +46,21 @@
   },
   {
     "title": "Második világháborús légibomba került elő Nagytarcsán",
-    "snippet": "Újabb 100 kilogrammos, szovjet légibombára bukkantak. The post Második világháborús légibomba került elő Nagytarcsán first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2024/08/12/masodik-vilaghaboru-legibomba-nagytarcsa-tuzszeresz/",
-    "source": "24.hu/Nagytarcsa",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Mon, 12 Aug 2024 07:11:53 +0000"
-  },
-  {
-    "title": "Második világháborús légibomba került elő Nagytarcsán",
     "snippet": "A helyszínen hatástalanították.",
     "url": "https://index.hu/belfold/2024/08/12/nagytarcsa-legibomba-honvedseg-tuzszeresz-masodik-vilaghaboru/",
     "source": "index.hu/Nagytarcsa",
     "lang": "hu",
     "scope": "city",
     "date": "Mon, 12 Aug 2024 09:25:00 +0200"
+  },
+  {
+    "title": "Második világháborús légibomba került elő Nagytarcsán",
+    "snippet": "Újabb 100 kilogrammos, szovjet légibombára bukkantak. The post Második világháborús légibomba került elő Nagytarcsán first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2024/08/12/masodik-vilaghaboru-legibomba-nagytarcsa-tuzszeresz/",
+    "source": "24.hu/Nagytarcsa",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 12 Aug 2024 07:11:53 +0000"
   },
   {
     "title": "Meghívó-2026.05.18. Humán Bizottsági ülés",
@@ -72,15 +72,6 @@
     "date": "Thu, 14 May 2026 11:00:36 +0000"
   },
   {
-    "title": "Egyes nagytarcsaiak ismét választanak, mert az urna füle letörött, és szavazatokat kevertek össze",
-    "snippet": "Zavaros, hogyan is történtek pontosan a dolgok. The post Egyes nagytarcsaiak ismét választanak, mert az urna füle letörött, és szavazatokat kevertek össze first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2024/07/03/megismetelt-valasztas-nagytarcsa-polgarmester/",
-    "source": "24.hu/Nagytarcsa",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 03 Jul 2024 07:50:35 +0000"
-  },
-  {
     "title": "Az út közepén megállt, majd félmeztelenre vetkőzött egy magyar sofőr",
     "snippet": "Szürreális jelenet a magyar utakon.",
     "url": "https://index.hu/belfold/2023/04/05/nagytarcsa-isaszeg-felmeztelen-suzuki-autos/",
@@ -88,6 +79,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 05 Apr 2023 12:03:00 +0200"
+  },
+  {
+    "title": "Egyes nagytarcsaiak ismét választanak, mert az urna füle letörött, és szavazatokat kevertek össze",
+    "snippet": "Zavaros, hogyan is történtek pontosan a dolgok. The post Egyes nagytarcsaiak ismét választanak, mert az urna füle letörött, és szavazatokat kevertek össze first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2024/07/03/megismetelt-valasztas-nagytarcsa-polgarmester/",
+    "source": "24.hu/Nagytarcsa",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 03 Jul 2024 07:50:35 +0000"
   },
   {
     "title": "Tájékoztató az „Agrárium, 2026” mezőgazdasági gazdaságszerkezeti összeírásról",

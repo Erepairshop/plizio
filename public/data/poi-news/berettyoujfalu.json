@@ -45,6 +45,15 @@
     "date": "Wed, 20 May 2026 10:52:51 +0200"
   },
   {
+    "title": "Több iskola fenyegető üzenetet kapott, bombariadó miatt kiürítették az épületeket",
+    "snippet": "Az érintett épületeket átvizsgálják.",
+    "url": "https://index.hu/belfold/2026/01/30/hajdu-bihar-varmegye-iskola-bombariado-berettyeoujfalu-hajdudorog-debrecen/",
+    "source": "index.hu/Berettyóújfalu",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 30 Jan 2026 11:18:00 +0100"
+  },
+  {
     "title": "Ijesztő fotókat közölt Kulja András: leszakadt a mennyezet a berettyóújfalui kórház pszichiátriai osztályán",
     "snippet": "Szerinte Takács Péter ahelyett, hogy végre személyesen megnézné a kórházak valós helyzetét, inkább fenyegetőzik, mellébeszél és tagad. The post Ijesztő fotókat közölt Kulja András: leszakadt a mennyezet a berettyóújfalui kórház pszichiátriai osztályán first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2025/07/05/kulja-andras-mennyezet-berettyoujfalui-korhaz-pszichiatria/",
@@ -63,13 +72,13 @@
     "date": "Fri, 15 May 2026 11:13:43 +0200"
   },
   {
-    "title": "Több iskola fenyegető üzenetet kapott, bombariadó miatt kiürítették az épületeket",
-    "snippet": "Az érintett épületeket átvizsgálják.",
-    "url": "https://index.hu/belfold/2026/01/30/hajdu-bihar-varmegye-iskola-bombariado-berettyeoujfalu-hajdudorog-debrecen/",
+    "title": "Eltűnt egy 14 éves lány Berettyóújfaluból",
+    "snippet": "A hatóság a lakosság segítségét kéri.",
+    "url": "https://index.hu/belfold/2025/12/31/eltunt-kiskoru-lany-rendorseg-berettyeoujfalu/",
     "source": "index.hu/Berettyóújfalu",
     "lang": "hu",
     "scope": "city",
-    "date": "Fri, 30 Jan 2026 11:18:00 +0100"
+    "date": "Wed, 31 Dec 2025 10:33:00 +0100"
   },
   {
     "title": "Halálra gázolt egy 48 éves férfit a vonat Berettyóújfalunál",
@@ -90,13 +99,13 @@
     "date": "Thu, 14 May 2026 21:31:07 +0200"
   },
   {
-    "title": "Eltűnt egy 14 éves lány Berettyóújfaluból",
-    "snippet": "A hatóság a lakosság segítségét kéri.",
-    "url": "https://index.hu/belfold/2025/12/31/eltunt-kiskoru-lany-rendorseg-berettyeoujfalu/",
+    "title": "Debreciner: Többszörösen elítélt férfi vett részt a debreceni Digitális Polgári Körök találkozóján",
+    "snippet": "Az eseményen a miniszterelnök is jelen volt.",
+    "url": "https://index.hu/belfold/2025/09/28/debrecen-digitalis-polgari-korok-talalkozo-orban-viktor-jogeros-elitelt-ferfi-reszvetel-birosag/",
     "source": "index.hu/Berettyóújfalu",
     "lang": "hu",
     "scope": "city",
-    "date": "Wed, 31 Dec 2025 10:33:00 +0100"
+    "date": "Sun, 28 Sep 2025 16:24:00 +0200"
   },
   {
     "title": "Magyar Péter szerint Lázár János pénteken elérte eddigi személyes mélypontját",
@@ -115,14 +124,5 @@
     "lang": "hu",
     "scope": "city",
     "date": "Tue, 12 May 2026 21:05:24 +0200"
-  },
-  {
-    "title": "Debreciner: Többszörösen elítélt férfi vett részt a debreceni Digitális Polgári Körök találkozóján",
-    "snippet": "Az eseményen a miniszterelnök is jelen volt.",
-    "url": "https://index.hu/belfold/2025/09/28/debrecen-digitalis-polgari-korok-talalkozo-orban-viktor-jogeros-elitelt-ferfi-reszvetel-birosag/",
-    "source": "index.hu/Berettyóújfalu",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sun, 28 Sep 2025 16:24:00 +0200"
   }
 ]

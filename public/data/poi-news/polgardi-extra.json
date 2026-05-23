@@ -1,5 +1,14 @@
 [
   {
+    "title": "Elesett a Déli pályaudvar is, teherautóval ütközött a Kék Hullám InterCity",
+    "snippet": "Újabb vonatbaleset történt.",
+    "url": "https://index.hu/belfold/2024/08/26/vonat-vonatbaleset-mav-balaton-deli-palyaudvar-baleset-polgardi-kek-hullam-intercity/",
+    "source": "index.hu/Polgárdi",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 26 Aug 2024 15:11:00 +0200"
+  },
+  {
     "title": "Egy év után vette észre a Szociális és Gyermekvédelmi Főigazgatóság, hogy nem készült el a már kifizetett és átvett játszótér",
     "snippet": "A gyermekvédelmi szervet kétmillióra bírságolták, a háttérben fideszes politikusok is felbukkannak. The post Egy év után vette észre a Szociális és Gyermekvédelmi Főigazgatóság, hogy nem készült el a már kifizetett és átvett játszótér first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2026/01/23/gyermekvedelem-korrupcio-el-nem-keszult-jatszoter/",
@@ -18,13 +27,13 @@
     "date": "Fri, 13 Mar 2026 09:08:58 +0000"
   },
   {
-    "title": "Elesett a Déli pályaudvar is, teherautóval ütközött a Kék Hullám InterCity",
-    "snippet": "Újabb vonatbaleset történt.",
-    "url": "https://index.hu/belfold/2024/08/26/vonat-vonatbaleset-mav-balaton-deli-palyaudvar-baleset-polgardi-kek-hullam-intercity/",
+    "title": "Tömegbaleset volt az M7-esen",
+    "snippet": "A mentők is kivonultak a helyszínre.",
+    "url": "https://index.hu/belfold/2023/08/19/m7-es-autopalya-tomegbaleset-polgardi-szemelyauto-katasztrofavedelem/",
     "source": "index.hu/Polgárdi",
     "lang": "hu",
     "scope": "city",
-    "date": "Mon, 26 Aug 2024 15:11:00 +0200"
+    "date": "Sat, 19 Aug 2023 15:09:00 +0200"
   },
   {
     "title": "Jogerős ítélet a Tisza-hídnál történt motoros tragédia ügyében",
@@ -45,13 +54,13 @@
     "date": "Fri, 28 Nov 2025 09:07:34 +0000"
   },
   {
-    "title": "Tömegbaleset volt az M7-esen",
-    "snippet": "A mentők is kivonultak a helyszínre.",
-    "url": "https://index.hu/belfold/2023/08/19/m7-es-autopalya-tomegbaleset-polgardi-szemelyauto-katasztrofavedelem/",
+    "title": "A megemlékezés közben esett össze egy diák Polgárdiban",
+    "snippet": "A 12 éves lányhoz a mentőket is riasztották.",
+    "url": "https://index.hu/belfold/2023/06/05/polgardi-nemzeti-osszetartozas-napja-rosszullet/",
     "source": "index.hu/Polgárdi",
     "lang": "hu",
     "scope": "city",
-    "date": "Sat, 19 Aug 2023 15:09:00 +0200"
+    "date": "Mon, 05 Jun 2023 08:59:00 +0200"
   },
   {
     "title": "Összeütközött egy vonat és egy teherautó Polgárdinál",
@@ -70,14 +79,5 @@
     "lang": "hu",
     "scope": "city",
     "date": "Mon, 29 Apr 2024 13:09:05 +0000"
-  },
-  {
-    "title": "A megemlékezés közben esett össze egy diák Polgárdiban",
-    "snippet": "A 12 éves lányhoz a mentőket is riasztották.",
-    "url": "https://index.hu/belfold/2023/06/05/polgardi-nemzeti-osszetartozas-napja-rosszullet/",
-    "source": "index.hu/Polgárdi",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Mon, 05 Jun 2023 08:59:00 +0200"
   }
 ]

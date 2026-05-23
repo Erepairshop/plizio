@@ -72,15 +72,6 @@
     "date": "Mon, 18 May 2026 16:33:57 +0000"
   },
   {
-    "title": "Kigyulladt egy családi ház Felsőzsolcán, egy ember meghalt",
-    "snippet": "Kedden reggel érkezett a jelzés a katasztrófavédelemhez. The post Kigyulladt egy családi ház Felsőzsolcán, egy ember meghalt first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2024/11/05/felsozsolca-csaladi-haz-tuz-idos-ferfi-meghalt/",
-    "source": "24.hu/Felsőzsolca",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Tue, 05 Nov 2024 06:36:33 +0000"
-  },
-  {
     "title": "Meghalt egy sofőr, amikor frontálisan ütközött két kamion a 3-as főúton",
     "snippet": "A baleset Felsőzsolca és Szikszó között történt.",
     "url": "https://index.hu/belfold/2025/03/07/baleset-utkozes-karambol-kozlekedes-felsozsolca-szikszo/",
@@ -88,6 +79,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Fri, 07 Mar 2025 10:38:00 +0100"
+  },
+  {
+    "title": "Kigyulladt egy családi ház Felsőzsolcán, egy ember meghalt",
+    "snippet": "Kedden reggel érkezett a jelzés a katasztrófavédelemhez. The post Kigyulladt egy családi ház Felsőzsolcán, egy ember meghalt first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2024/11/05/felsozsolca-csaladi-haz-tuz-idos-ferfi-meghalt/",
+    "source": "24.hu/Felsőzsolca",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 05 Nov 2024 06:36:33 +0000"
   },
   {
     "title": "A kétszáz éve született Szathmáry Király Pálnéra emlékeztek Felsőzsolcán",
@@ -99,15 +99,6 @@
     "date": "Wed, 13 May 2026 17:00:00 +0000"
   },
   {
-    "title": "Kis híján megölte a nevelőapját újévkor egy 20 éves férfi Felsőzsolcán",
-    "snippet": "Életveszélyes sérüléseket szenvedett a megkéselt férfi. The post Kis híján megölte a nevelőapját újévkor egy 20 éves férfi Felsőzsolcán first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2024/01/04/kis-hijan-megolte-a-neveloapjat-ujevkor-egy-20-eves-ferfi-felsozsolcan/",
-    "source": "24.hu/Felsőzsolca",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Thu, 04 Jan 2024 12:59:56 +0000"
-  },
-  {
     "title": "Európai Bizottság: Magyarország terve nincs összhangban az uniós szabályokkal",
     "snippet": "Megérkeztek a 2022-ben indított vizsgálat eredményei.",
     "url": "https://index.hu/gazdasag/2024/06/12/autoalkatresz-gyar-europai-bizottsag-felsozsolca-vizsgalat/",
@@ -117,13 +108,13 @@
     "date": "Wed, 12 Jun 2024 07:24:00 +0200"
   },
   {
-    "title": "Szijjártó: Az autóipar forradalmi átalakulása megállíthatatlanul tör előre",
-    "snippet": "Szerinte az unió története legsúlyosabb gazdasági kihívásával néz szembe, és ez a helyzet a magyarok számára is komoly kihívásokat rejteget. The post Szijjártó: Az autóipar forradalmi átalakulása megállíthatatlanul tör előre first appeared on 24.hu .",
-    "url": "https://24.hu/fn/gazdasag/2023/09/08/szijjarto-peter-unio-gazdasagi-kihivasok-gkn-alsozsolca/",
+    "title": "Kis híján megölte a nevelőapját újévkor egy 20 éves férfi Felsőzsolcán",
+    "snippet": "Életveszélyes sérüléseket szenvedett a megkéselt férfi. The post Kis híján megölte a nevelőapját újévkor egy 20 éves férfi Felsőzsolcán first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2024/01/04/kis-hijan-megolte-a-neveloapjat-ujevkor-egy-20-eves-ferfi-felsozsolcan/",
     "source": "24.hu/Felsőzsolca",
     "lang": "hu",
     "scope": "city",
-    "date": "Fri, 08 Sep 2023 10:34:36 +0000"
+    "date": "Thu, 04 Jan 2024 12:59:56 +0000"
   },
   {
     "title": "Őrizetben a férfi, aki megszúrta nevelőapját",
@@ -133,5 +124,14 @@
     "lang": "hu",
     "scope": "city",
     "date": "Thu, 04 Jan 2024 15:41:00 +0100"
+  },
+  {
+    "title": "Szijjártó: Az autóipar forradalmi átalakulása megállíthatatlanul tör előre",
+    "snippet": "Szerinte az unió története legsúlyosabb gazdasági kihívásával néz szembe, és ez a helyzet a magyarok számára is komoly kihívásokat rejteget. The post Szijjártó: Az autóipar forradalmi átalakulása megállíthatatlanul tör előre first appeared on 24.hu .",
+    "url": "https://24.hu/fn/gazdasag/2023/09/08/szijjarto-peter-unio-gazdasagi-kihivasok-gkn-alsozsolca/",
+    "source": "24.hu/Felsőzsolca",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 08 Sep 2023 10:34:36 +0000"
   }
 ]

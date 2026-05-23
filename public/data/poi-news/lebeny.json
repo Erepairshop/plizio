@@ -1,14 +1,5 @@
 [
   {
-    "title": "Tragikus baleset az M1-esen",
-    "snippet": "Teljes útzár van az érintett szakaszon. The post Tragikus baleset az M1-esen first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2025/09/08/tragikus-baleset-az-m1-esen/",
-    "source": "24.hu/Lébény",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Mon, 08 Sep 2025 07:05:00 +0000"
-  },
-  {
     "title": "Holtan találták meg a mosonmagyaróvári családi látogatásról távozó férfit",
     "snippet": "Autójával és kutyájával ismeretlen helyre távozott Stefan Lehner, nem tudták megmenteni az életét.",
     "url": "https://index.hu/belfold/2025/12/28/stefan-lehner-osztrak-ferfi-eltunt-meghalt-mentoszolgalat-kereses-vadasz-lebeny/",
@@ -18,13 +9,13 @@
     "date": "Sun, 28 Dec 2025 11:14:00 +0100"
   },
   {
-    "title": "Tömegkarambol történt Lébénynél",
-    "snippet": "Öt autó ütközött össze az M1-esen. The post Tömegkarambol történt Lébénynél first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2024/07/03/tomegkarambol-lebeny-m1-es-autopalya/",
+    "title": "Tragikus baleset az M1-esen",
+    "snippet": "Teljes útzár van az érintett szakaszon. The post Tragikus baleset az M1-esen first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2025/09/08/tragikus-baleset-az-m1-esen/",
     "source": "24.hu/Lébény",
     "lang": "hu",
     "scope": "city",
-    "date": "Wed, 03 Jul 2024 19:04:35 +0000"
+    "date": "Mon, 08 Sep 2025 07:05:00 +0000"
   },
   {
     "title": "Kisbusz és kamion karambolozott az M1-esen, mentőhelikoptert riasztottak",
@@ -36,13 +27,13 @@
     "date": "Tue, 18 Nov 2025 15:33:00 +0100"
   },
   {
-    "title": "Hármas karambol miatt hét kilométeres a dugó az M1-esen",
-    "snippet": "Lébénynél történ a baleset. The post Hármas karambol miatt hét kilométeres a dugó az M1-esen first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2023/07/21/harmas-karambol-miatt-het-kilometeres-a-dugo-az-m1-esen/",
+    "title": "Tömegkarambol történt Lébénynél",
+    "snippet": "Öt autó ütközött össze az M1-esen. The post Tömegkarambol történt Lébénynél first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2024/07/03/tomegkarambol-lebeny-m1-es-autopalya/",
     "source": "24.hu/Lébény",
     "lang": "hu",
     "scope": "city",
-    "date": "Fri, 21 Jul 2023 14:43:07 +0000"
+    "date": "Wed, 03 Jul 2024 19:04:35 +0000"
   },
   {
     "title": "Halálos baleset történt az M1-es autópályán, Lébénynél",
@@ -52,5 +43,14 @@
     "lang": "hu",
     "scope": "city",
     "date": "Mon, 08 Sep 2025 09:14:00 +0200"
+  },
+  {
+    "title": "Hármas karambol miatt hét kilométeres a dugó az M1-esen",
+    "snippet": "Lébénynél történ a baleset. The post Hármas karambol miatt hét kilométeres a dugó az M1-esen first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2023/07/21/harmas-karambol-miatt-het-kilometeres-a-dugo-az-m1-esen/",
+    "source": "24.hu/Lébény",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 21 Jul 2023 14:43:07 +0000"
   }
 ]

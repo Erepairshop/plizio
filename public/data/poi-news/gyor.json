@@ -171,15 +171,6 @@
     "date": "Sat, 07 Mar 2026 19:17:00 +0100"
   },
   {
-    "title": "Győr-Moson-Sopron megyébe látogat Magyar Péter csütörtökön",
-    "snippet": "Előtte Balatonfüreden és Sümegen is beszédet mond.",
-    "url": "https://www.enyugat.hu/cikk/gyor_moson_sopron_megyebe_latogat_magyar_peter",
-    "source": "Enyugat",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Wed, 08 Apr 2026 12:14:39 +0000"
-  },
-  {
     "title": "Megszakadt a Ferencváros szériája, négy kupagyőzelem után a Győr kiejtette riválisát",
     "snippet": "A 15-szörös győztes kisalföldi csapat sorozatban a 22. kupadöntőjét játszhatja vasárnap.",
     "url": "https://index.hu/sport/kezilabda/2026/05/02/noi-magyar-kupa-negyes-donto-elodonto-gyori-audi-eto-kc-ftc-rail-cargo-hungaria-mosonmagyarovar-debrecen/",
@@ -187,6 +178,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sat, 02 May 2026 17:11:00 +0200"
+  },
+  {
+    "title": "Győr-Moson-Sopron megyébe látogat Magyar Péter csütörtökön",
+    "snippet": "Előtte Balatonfüreden és Sümegen is beszédet mond.",
+    "url": "https://www.enyugat.hu/cikk/gyor_moson_sopron_megyebe_latogat_magyar_peter",
+    "source": "Enyugat",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Wed, 08 Apr 2026 12:14:39 +0000"
   },
   {
     "title": "Baleset miatt teljes pályazár az M1-es autópályán a Győr felé vezető oldalon",
@@ -216,15 +216,6 @@
     "date": "Sat, 31 Jan 2026 18:22:00 +0100"
   },
   {
-    "title": "Baleset miatt lezárták az M1-es autópályát Győr felé, mentőhelikopter is érkezett",
-    "snippet": "Egy kisteherautó és egy nyerges vontató ütközött össze. The post Baleset miatt lezárták az M1-es autópályát Győr felé, mentőhelikopter is érkezett first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2025/09/08/baleset-m1-autopalya-teljes-lezaras-bicske-gyor-fele-mentohelikopter/",
-    "source": "24.hu/Bicske",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Mon, 08 Sep 2025 10:04:31 +0000"
-  },
-  {
     "title": "Baleset miatt lezárták az M1-es autópálya Győr felé vezető oldalát Bicskénél",
     "snippet": "Egy kisteherautó és egy vontató ütközött.",
     "url": "https://index.hu/belfold/2025/09/08/baleset-m1-autopalya-gyor-bicske-lezaras/",
@@ -232,6 +223,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Mon, 08 Sep 2025 13:09:00 +0200"
+  },
+  {
+    "title": "Baleset miatt lezárták az M1-es autópályát Győr felé, mentőhelikopter is érkezett",
+    "snippet": "Egy kisteherautó és egy nyerges vontató ütközött össze. The post Baleset miatt lezárták az M1-es autópályát Győr felé, mentőhelikopter is érkezett first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2025/09/08/baleset-m1-autopalya-teljes-lezaras-bicske-gyor-fele-mentohelikopter/",
+    "source": "24.hu/Bicske",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 08 Sep 2025 10:04:31 +0000"
   },
   {
     "title": "Győzelme ellenére is NB II-es marad a Vasas, a Szpari mellett a Győr jutott fel az élvonalba",

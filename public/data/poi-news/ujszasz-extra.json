@@ -18,15 +18,6 @@
     "date": "Tue, 16 Nov 2021 19:18:00 +0100"
   },
   {
-    "title": "Üvegtörő kalapáccsal okozott 21 millió forintos kárt a vonatszerelvényben, vádat emeltek ellene",
-    "snippet": "Ablakok, LCD monitorok és a váró oldalsó üvege esett áldozatul a rombolásnak. The post Üvegtörő kalapáccsal okozott 21 millió forintos kárt a vonatszerelvényben, vádat emeltek ellene first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2026/04/29/uvegtoro-kalapacs-vonatszerelveny-kar/",
-    "source": "24.hu/Újszász",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 29 Apr 2026 07:47:06 +0000"
-  },
-  {
     "title": "Gázolt a vonat Ecsernél, hosszabb menetidő várható az újszászi vonalon",
     "snippet": "A helyszínelés várhatóan 23 óráig tart.",
     "url": "https://index.hu/belfold/2026/01/16/vonat-gazolas-ecser-ujszasz-baleset-hosszabb-menetido/",
@@ -34,6 +25,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Fri, 16 Jan 2026 21:13:00 +0100"
+  },
+  {
+    "title": "Üvegtörő kalapáccsal okozott 21 millió forintos kárt a vonatszerelvényben, vádat emeltek ellene",
+    "snippet": "Ablakok, LCD monitorok és a váró oldalsó üvege esett áldozatul a rombolásnak. The post Üvegtörő kalapáccsal okozott 21 millió forintos kárt a vonatszerelvényben, vádat emeltek ellene first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2026/04/29/uvegtoro-kalapacs-vonatszerelveny-kar/",
+    "source": "24.hu/Újszász",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 29 Apr 2026 07:47:06 +0000"
   },
   {
     "title": "Módosított menetrend a Budapest–Újszász–Szolnok vasútvonalon",
@@ -45,15 +45,6 @@
     "date": "Wed, 13 May 2026 12:56:06 +0000"
   },
   {
-    "title": "15 évre eltiltották a megyei focistát, aki a kiállítása után fejbe rúgta a bírót",
-    "snippet": "Rendőrségi feljelentés is történt az ügyben. The post 15 évre eltiltották a megyei focistát, aki a kiállítása után fejbe rúgta a bírót first appeared on 24.hu .",
-    "url": "https://24.hu/sport/foci/2026/04/03/15-ev-eltiltas-fejbe-rugta-a-birot-kunhegyes-ujszasz/",
-    "source": "24.hu/Újszász",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Fri, 03 Apr 2026 12:46:08 +0000"
-  },
-  {
     "title": "Vandál verte szét a MÁV emeletes motorvonatát, legalább 50 milliós a kár",
     "snippet": "A vállalat feljelentést tett az ügyben, a rendőrség keresi az elkövetőt.",
     "url": "https://index.hu/belfold/2025/08/18/mav-vasut-vonat-rongalas-ujszasz-ablak-betores-kar-rendorseg-feljelentes/",
@@ -63,13 +54,13 @@
     "date": "Mon, 18 Aug 2025 15:40:00 +0200"
   },
   {
-    "title": "Újszászon is elütött egy embert egy személyvonat",
-    "snippet": "A mozdonyvezetőhöz mentő érkezett. The post Újszászon is elütött egy embert egy személyvonat first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2025/02/24/ujszaszon-is-elutott-egy-embert-egy-szemelyvonat/",
+    "title": "15 évre eltiltották a megyei focistát, aki a kiállítása után fejbe rúgta a bírót",
+    "snippet": "Rendőrségi feljelentés is történt az ügyben. The post 15 évre eltiltották a megyei focistát, aki a kiállítása után fejbe rúgta a bírót first appeared on 24.hu .",
+    "url": "https://24.hu/sport/foci/2026/04/03/15-ev-eltiltas-fejbe-rugta-a-birot-kunhegyes-ujszasz/",
     "source": "24.hu/Újszász",
     "lang": "hu",
     "scope": "city",
-    "date": "Mon, 24 Feb 2025 07:14:05 +0000"
+    "date": "Fri, 03 Apr 2026 12:46:08 +0000"
   },
   {
     "title": "Elesett a vonatközlekedés, több vonalon is késésekre kell számítani",
@@ -79,5 +70,14 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sat, 13 Jul 2024 07:37:00 +0200"
+  },
+  {
+    "title": "Újszászon is elütött egy embert egy személyvonat",
+    "snippet": "A mozdonyvezetőhöz mentő érkezett. The post Újszászon is elütött egy embert egy személyvonat first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2025/02/24/ujszaszon-is-elutott-egy-embert-egy-szemelyvonat/",
+    "source": "24.hu/Újszász",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 24 Feb 2025 07:14:05 +0000"
   }
 ]

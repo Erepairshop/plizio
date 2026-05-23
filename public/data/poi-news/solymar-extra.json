@@ -81,15 +81,6 @@
     "date": "Mon, 18 May 2026 05:00:00 +0000"
   },
   {
-    "title": "Galambra lőtt a nyugdíjas, mert a madár összecsinálta a kocsiját. A golyó azonban a helyi óvodába süvített be",
-    "snippet": "„Valójában nem is az volt a célom, hogy meglőjem, eltaláljam, csak hogy menjen el a házunk előtti fáról” – mondta a solymári férfi. The post Galambra lőtt a nyugdíjas, mert a madár összecsinálta a kocsiját. A golyó azonban a helyi óvodába süvített be first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2026/05/01/loves-ovoda-galamb-nyugdijas/",
-    "source": "24.hu/Solymár",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Fri, 01 May 2026 18:44:37 +0000"
-  },
-  {
     "title": "Megszólalt az idős férfi, aki légfegyverével belőtt a solymári óvodában alvó gyerekek közé",
     "snippet": "Súlyos testi sértés kísérlete miatt indult eljárás ellene.",
     "url": "https://index.hu/belfold/2026/05/02/solymar-loves-legfegyver-ovoda-galamb-rendorseg/",
@@ -97,6 +88,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sat, 02 May 2026 06:51:00 +0200"
+  },
+  {
+    "title": "Galambra lőtt a nyugdíjas, mert a madár összecsinálta a kocsiját. A golyó azonban a helyi óvodába süvített be",
+    "snippet": "„Valójában nem is az volt a célom, hogy meglőjem, eltaláljam, csak hogy menjen el a házunk előtti fáról” – mondta a solymári férfi. The post Galambra lőtt a nyugdíjas, mert a madár összecsinálta a kocsiját. A golyó azonban a helyi óvodába süvített be first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2026/05/01/loves-ovoda-galamb-nyugdijas/",
+    "source": "24.hu/Solymár",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 01 May 2026 18:44:37 +0000"
   },
   {
     "title": "Földcsuszamlás miatt lezártak egy főutat Üröm és Solymár között",
@@ -108,15 +108,6 @@
     "date": "Sun, 14 Jun 2020 17:50:25 +0000"
   },
   {
-    "title": "Belőttek az ablakon keresztül a solymári óvoda egyik csoportszobájába",
-    "snippet": "Kedden kora délután egy lehúzott, zárt redőnyt tört át egy lövedék az épületben. The post Belőttek az ablakon keresztül a solymári óvoda egyik csoportszobájába first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2026/04/29/solymar-ovoda-loves/",
-    "source": "24.hu/Solymár",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 29 Apr 2026 08:15:07 +0000"
-  },
-  {
     "title": "Alvó kisgyerekek közé lőtt be a solymári óvodába a 71 éves férfi",
     "snippet": "A lakásán előkerült négy vadászlőfegyver és egy légpisztoly. A helyieket legalább az megnyugtatja, hogy nem őrült ámokfutóról van szó.",
     "url": "https://index.hu/belfold/2026/04/29/solymar-loves-ovoda-ablak-legpisztoly-galamb-rendorseg/",
@@ -126,13 +117,13 @@
     "date": "Wed, 29 Apr 2026 18:19:00 +0200"
   },
   {
-    "title": "Letartóztatták a férfit, aki fegyverrel akarta kirabolni a solymári bankot",
-    "snippet": "Két dolgozót is megfenyegetett, de mind a kettő elhajtotta. The post Letartóztatták a férfit, aki fegyverrel akarta kirabolni a solymári bankot first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2025/06/19/solymar-bankrablas-fegyver-letartoztatas/",
+    "title": "Belőttek az ablakon keresztül a solymári óvoda egyik csoportszobájába",
+    "snippet": "Kedden kora délután egy lehúzott, zárt redőnyt tört át egy lövedék az épületben. The post Belőttek az ablakon keresztül a solymári óvoda egyik csoportszobájába first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2026/04/29/solymar-ovoda-loves/",
     "source": "24.hu/Solymár",
     "lang": "hu",
     "scope": "city",
-    "date": "Thu, 19 Jun 2025 05:47:54 +0000"
+    "date": "Wed, 29 Apr 2026 08:15:07 +0000"
   },
   {
     "title": "A lehúzott redőnyt áttörve csapódott be a helyiségbe a golyó",
@@ -142,5 +133,14 @@
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 29 Apr 2026 15:19:00 +0200"
+  },
+  {
+    "title": "Letartóztatták a férfit, aki fegyverrel akarta kirabolni a solymári bankot",
+    "snippet": "Két dolgozót is megfenyegetett, de mind a kettő elhajtotta. The post Letartóztatták a férfit, aki fegyverrel akarta kirabolni a solymári bankot first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2025/06/19/solymar-bankrablas-fegyver-letartoztatas/",
+    "source": "24.hu/Solymár",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 19 Jun 2025 05:47:54 +0000"
   }
 ]

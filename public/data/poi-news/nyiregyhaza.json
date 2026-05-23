@@ -36,15 +36,6 @@
     "date": "Thu, 05 Mar 2026 15:20:00 +0100"
   },
   {
-    "title": "Könnyes búcsút vett a Nyíregyházi Állatpark dolgozóitól Gajdos László",
-    "snippet": "Az élő környezetért felelős leendő minisztert tapsvihar fogadta.",
-    "url": "https://index.hu/belfold/2026/05/09/gajdos-laszlo-tisza-part-miniszter-nyiregyhaza-allatpark-vezeto-bucsu-video/",
-    "source": "index.hu/Nyíregyháza",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sat, 09 May 2026 14:07:00 +0200"
-  },
-  {
     "title": "Eltűnt a Fidesz a városokból, 13 ezer fős a legnagyobb település, amelyet Orbánék meg tudtak tartani",
     "snippet": "Megtaláltuk a Tisza sikerének kulcsát. The post Eltűnt a Fidesz a városokból, 13 ezer fős a legnagyobb település, amelyet Orbánék meg tudtak tartani first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2026/04/29/varos-eredmeny-2026-valasztas-tisza-fidesz/",
@@ -52,6 +43,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 29 Apr 2026 03:55:26 +0000"
+  },
+  {
+    "title": "Könnyes búcsút vett a Nyíregyházi Állatpark dolgozóitól Gajdos László",
+    "snippet": "Az élő környezetért felelős leendő minisztert tapsvihar fogadta.",
+    "url": "https://index.hu/belfold/2026/05/09/gajdos-laszlo-tisza-part-miniszter-nyiregyhaza-allatpark-vezeto-bucsu-video/",
+    "source": "index.hu/Nyíregyháza",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sat, 09 May 2026 14:07:00 +0200"
   },
   {
     "title": "Hősi halált halt a Nyíregyháza a balmazi télutóban",
@@ -63,15 +63,6 @@
     "date": "Thu, 25 Apr 2024 05:59:00 +0200"
   },
   {
-    "title": "A 90. percben bukta el a győzelmet az MTK Németh Krisztián hazai búcsúmérkőzésén",
-    "snippet": "Az idény végén visszavonuló 37-szeres válogatott támadó viselte az MTK csapatkapitányi karszalagját.",
-    "url": "https://index.hu/sport/futball/2026/05/02/labdarugo-nb-i-32.-fordulo-mtk-budapest-nyiregyhaza-kazincbarcika-kisvarda-osszefoglalo/",
-    "source": "index.hu/Nyíregyháza",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sat, 02 May 2026 15:11:00 +0200"
-  },
-  {
     "title": "Ilyen, ha felszabadult az Újpest: hét gólt szerzett Szélesi Zoltán csapata az NB I-ben",
     "snippet": "Az Újpest hazai pályán váratlanul nagy, 7-2-es csapást mért a Nyíregyházára a labdarúgó NB I 30., fordulójának nyitómeccsén, Horváth Krisztofer három gólt szerzett, és még egy gólpasszt is kiosztott mellé. The post Ilyen, ha felszabadult az Újpest: hét gólt szerzett Szélesi Zoltán csapata az NB I-be",
     "url": "https://24.hu/sport/foci/2026/04/17/labdarugo-nb-i-ujpest-nyiregyhaza-7-2/",
@@ -81,13 +72,13 @@
     "date": "Fri, 17 Apr 2026 19:57:20 +0000"
   },
   {
-    "title": "Gajdos László nem tudta, hogy lehetetlen, ezért megcsinálta",
-    "snippet": "Magyar Péter miniszterének egy oroszlán adott tanácsokat, a hihetetlennek tűnő ötletei pedig Európa csúcsáig repítették.",
-    "url": "https://index.hu/belfold/2026/05/01/gajdos-laszlo-nyiregyhaza-oroszlan-allatkert-allatpark-sosto-zoo-tisza-kormany-miniszter-elo-kornyezet/",
+    "title": "A 90. percben bukta el a győzelmet az MTK Németh Krisztián hazai búcsúmérkőzésén",
+    "snippet": "Az idény végén visszavonuló 37-szeres válogatott támadó viselte az MTK csapatkapitányi karszalagját.",
+    "url": "https://index.hu/sport/futball/2026/05/02/labdarugo-nb-i-32.-fordulo-mtk-budapest-nyiregyhaza-kazincbarcika-kisvarda-osszefoglalo/",
     "source": "index.hu/Nyíregyháza",
     "lang": "hu",
     "scope": "city",
-    "date": "Fri, 01 May 2026 06:06:00 +0200"
+    "date": "Sat, 02 May 2026 15:11:00 +0200"
   },
   {
     "title": "Egy tizenegyesre volt hozzá szükség, de győzött az ETO",
@@ -97,6 +88,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sun, 05 Apr 2026 19:56:07 +0000"
+  },
+  {
+    "title": "Gajdos László nem tudta, hogy lehetetlen, ezért megcsinálta",
+    "snippet": "Magyar Péter miniszterének egy oroszlán adott tanácsokat, a hihetetlennek tűnő ötletei pedig Európa csúcsáig repítették.",
+    "url": "https://index.hu/belfold/2026/05/01/gajdos-laszlo-nyiregyhaza-oroszlan-allatkert-allatpark-sosto-zoo-tisza-kormany-miniszter-elo-kornyezet/",
+    "source": "index.hu/Nyíregyháza",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 01 May 2026 06:06:00 +0200"
   },
   {
     "title": "Kortárssegítő Dzsembori – Egyre népszerűbb a fiatalok körében a segítő program",

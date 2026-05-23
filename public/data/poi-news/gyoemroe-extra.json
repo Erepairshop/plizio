@@ -1,14 +1,5 @@
 [
   {
-    "title": "Elgázoltak egy kilencéves kislányt Gyömrőn, az iskola előtti zebrán",
-    "snippet": "A kisgyermeket kórházba vitték. The post Elgázoltak egy kilencéves kislányt Gyömrőn, az iskola előtti zebrán first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2026/01/15/gyomro-baleset-zebra-iskola/",
-    "source": "24.hu/Gyömrő",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Thu, 15 Jan 2026 08:57:13 +0000"
-  },
-  {
     "title": "Látványos videót közölt a katasztrófavédelem, ahogy egy teljes terjedelemben égő házat oltanak Gyömrőn",
     "snippet": "Videón a tűzoltás.",
     "url": "https://index.hu/belfold/2026/04/27/tuzolto-tuzeset-gyomro-langok-autobusz-gepkocsi/",
@@ -16,6 +7,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Mon, 27 Apr 2026 19:39:00 +0200"
+  },
+  {
+    "title": "Elgázoltak egy kilencéves kislányt Gyömrőn, az iskola előtti zebrán",
+    "snippet": "A kisgyermeket kórházba vitték. The post Elgázoltak egy kilencéves kislányt Gyömrőn, az iskola előtti zebrán first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2026/01/15/gyomro-baleset-zebra-iskola/",
+    "source": "24.hu/Gyömrő",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 15 Jan 2026 08:57:13 +0000"
   },
   {
     "title": "Az utolsó nap",
@@ -27,15 +27,6 @@
     "date": "Fri, 08 May 2026 20:02:33 +0000"
   },
   {
-    "title": "Bozótvágóval vágta meg kollégája fejét és karját egy férfi Gyömrőn",
-    "snippet": "Az életveszélyesen megsérült férfi kimenekült a lakókocsiból. The post Bozótvágóval vágta meg kollégája fejét és karját egy férfi Gyömrőn first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2026/01/06/gyomro-bozotvagoval-esett-a-kollegajanak/",
-    "source": "24.hu/Gyömrő",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Tue, 06 Jan 2026 14:54:08 +0000"
-  },
-  {
     "title": "Bor helyett klóros fertőtlenítőt töltött egy vendég poharába a pultos Gyömrőn",
     "snippet": "A nő maradandó fogyatékossággal gyógyuló sérülést szenvedett.",
     "url": "https://index.hu/belfold/2026/02/05/vademeles-pultos-kloros-fertotlenito-vendeg-gyomro-gondatlan-veszelyeztetes/",
@@ -43,6 +34,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Thu, 05 Feb 2026 09:20:00 +0100"
+  },
+  {
+    "title": "Bozótvágóval vágta meg kollégája fejét és karját egy férfi Gyömrőn",
+    "snippet": "Az életveszélyesen megsérült férfi kimenekült a lakókocsiból. The post Bozótvágóval vágta meg kollégája fejét és karját egy férfi Gyömrőn first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2026/01/06/gyomro-bozotvagoval-esett-a-kollegajanak/",
+    "source": "24.hu/Gyömrő",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 06 Jan 2026 14:54:08 +0000"
   },
   {
     "title": "☢️ 40 éve történt a csernobili katasztrófa – a nap, amikor a világ örökre megváltozott",
@@ -54,15 +54,6 @@
     "date": "Sun, 26 Apr 2026 08:48:30 +0000"
   },
   {
-    "title": "Tömegverekedés tört ki egy baleset után Gyömrőnél, videóra vették, amint egy rendőr gázspray-vel lépett közbe",
-    "snippet": "Még zajlott a helyszínelés, amikor a terepjárós rokonai megérkeztek és rátámadtak a vétlen sofőrre. The post Tömegverekedés tört ki egy baleset után Gyömrőnél, videóra vették, amint egy rendőr gázspray-vel lépett közbe first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2025/11/17/tomegverekedes-gyomro-video-rendor-gazspray-reszeg-kabitoszer-rokonok/",
-    "source": "24.hu/Gyömrő",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Mon, 17 Nov 2025 10:33:52 +0000"
-  },
-  {
     "title": "Elgázolt egy kisgyereket Gyömrőn az iskola előtt egy jogosítvány nélküli sofőr",
     "snippet": "Az intézmény előtti zebrán kelt át a gyerek.",
     "url": "https://index.hu/belfold/2026/01/15/gyomro-baleset-gazolas-gyorshajtas-eltiltas-kisgyermek-korhaz-nefelejcs-utca-teli-idojaras/",
@@ -70,6 +61,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Thu, 15 Jan 2026 11:30:00 +0100"
+  },
+  {
+    "title": "Tömegverekedés tört ki egy baleset után Gyömrőnél, videóra vették, amint egy rendőr gázspray-vel lépett közbe",
+    "snippet": "Még zajlott a helyszínelés, amikor a terepjárós rokonai megérkeztek és rátámadtak a vétlen sofőrre. The post Tömegverekedés tört ki egy baleset után Gyömrőnél, videóra vették, amint egy rendőr gázspray-vel lépett közbe first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2025/11/17/tomegverekedes-gyomro-video-rendor-gazspray-reszeg-kabitoszer-rokonok/",
+    "source": "24.hu/Gyömrő",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 17 Nov 2025 10:33:52 +0000"
   },
   {
     "title": "Orbán Viktor nem veszi át parlamenti mandátumát",

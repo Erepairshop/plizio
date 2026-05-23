@@ -81,15 +81,6 @@
     "date": "Mon, 30 Mar 2026 09:21:58 +0000"
   },
   {
-    "title": "„Szúnyogprogram” a Családi napon is",
-    "snippet": "",
-    "url": "https://www.vecses.hu/2026/05/15/szunyogprogram-a-csaladi-napon-is/",
-    "source": "Vecsés Város Hivatalos Honlapja",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Fri, 15 May 2026 10:32:50 +0000"
-  },
-  {
     "title": "Megszólalt az ál-DPK alapítója, így verte át a fél internetet egyetlen ember",
     "snippet": "Még Orbán Viktor egyik fórumába is beletenyerelt.",
     "url": "https://index.hu/belfold/2026/04/27/vecses-digitalis-polgari-korok-trollkodas-facebook-oldal-bejegyzes-eleres-adminisztrator-interju/",
@@ -97,6 +88,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Mon, 27 Apr 2026 06:18:00 +0200"
+  },
+  {
+    "title": "„Szúnyogprogram” a Családi napon is",
+    "snippet": "",
+    "url": "https://www.vecses.hu/2026/05/15/szunyogprogram-a-csaladi-napon-is/",
+    "source": "Vecsés Város Hivatalos Honlapja",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 15 May 2026 10:32:50 +0000"
   },
   {
     "title": "Felújítják nemzeti nagyjaink mellszobrait",
@@ -126,15 +126,6 @@
     "date": "Fri, 20 Mar 2026 07:51:01 +0000"
   },
   {
-    "title": "JÚNIUS 13-ÁN LESZ A LÓTI-FUTI!",
-    "snippet": "",
-    "url": "https://www.vecses.hu/2026/05/15/junius-13-an-lesz-a-loti-futi/",
-    "source": "Vecsés Város Hivatalos Honlapja",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Fri, 15 May 2026 07:41:37 +0000"
-  },
-  {
     "title": "Orbán Viktor megnevezte, hogy mit tart az elmúlt négy év legnagyobb tettének",
     "snippet": "A miniszterelnök Vecsésen tartott fórumot.",
     "url": "https://index.hu/belfold/2026/03/11/orban-viktor-vecses-valasztas-2026-rezsicsokkentes-ukrajna/",
@@ -142,6 +133,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 11 Mar 2026 21:28:00 +0100"
+  },
+  {
+    "title": "JÚNIUS 13-ÁN LESZ A LÓTI-FUTI!",
+    "snippet": "",
+    "url": "https://www.vecses.hu/2026/05/15/junius-13-an-lesz-a-loti-futi/",
+    "source": "Vecsés Város Hivatalos Honlapja",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 15 May 2026 07:41:37 +0000"
   },
   {
     "title": "XIV. Bálint Ágnes Mesefesztivál – Meseíró pályázat 2026",
@@ -162,15 +162,6 @@
     "date": "Thu, 12 Mar 2026 04:42:37 +0000"
   },
   {
-    "title": "Tájékoztató a tőrösdarazsakról",
-    "snippet": "",
-    "url": "https://www.vecses.hu/2026/05/13/tajekoztato-a-torosdarazsakrol/",
-    "source": "Vecsés Város Hivatalos Honlapja",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 13 May 2026 09:59:48 +0000"
-  },
-  {
     "title": "Gázolt a vonat Vecsés környékén, ideiglenes forgalmi rend lépett életbe a ceglédi fővonalon",
     "snippet": "Az incidensben egy 40 év körüli férfi halt meg.",
     "url": "https://index.hu/belfold/2026/03/11/vecses-mav-vasut-baleset-gazolas-katasztrofavedelem-forgalom/",
@@ -178,6 +169,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 11 Mar 2026 07:56:00 +0100"
+  },
+  {
+    "title": "Tájékoztató a tőrösdarazsakról",
+    "snippet": "",
+    "url": "https://www.vecses.hu/2026/05/13/tajekoztato-a-torosdarazsakrol/",
+    "source": "Vecsés Város Hivatalos Honlapja",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 13 May 2026 09:59:48 +0000"
   },
   {
     "title": "Elkészült a Lanyi Tanuszoda",

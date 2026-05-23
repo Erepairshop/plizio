@@ -1,14 +1,5 @@
 [
   {
-    "title": "Elgázolt egy embert a vonat Füzesabonynál",
-    "snippet": "Pótlóbuszok járnak. The post Elgázolt egy embert a vonat Füzesabonynál first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2025/12/22/gazolas-fuzesabony-mav-vonat/",
-    "source": "24.hu/Füzesabony",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Mon, 22 Dec 2025 16:34:49 +0000"
-  },
-  {
     "title": "Gázolt a Keleti pályaudvarra induló vonat, közlekedési változás lépett életbe",
     "snippet": "A baleset hétfő hajnalban történt.",
     "url": "https://index.hu/belfold/2026/01/12/mav-mavinform-vasut-eger-fuzesabony-keleti-palyaudvar-baleset-gazolas/",
@@ -16,6 +7,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Mon, 12 Jan 2026 08:27:00 +0100"
+  },
+  {
+    "title": "Elgázolt egy embert a vonat Füzesabonynál",
+    "snippet": "Pótlóbuszok járnak. The post Elgázolt egy embert a vonat Füzesabonynál first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2025/12/22/gazolas-fuzesabony-mav-vonat/",
+    "source": "24.hu/Füzesabony",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 22 Dec 2025 16:34:49 +0000"
   },
   {
     "title": "Jó hír érkezett a Debrecen–Füzesabony vonalon utazóknak",
@@ -27,15 +27,6 @@
     "date": "Mon, 05 Jun 2023 08:59:00 +0200"
   },
   {
-    "title": "Két autó ütközött, teljes útzár Füzesabonynál",
-    "snippet": "Több kilométeres a torlódás. The post Két autó ütközött, teljes útzár Füzesabonynál first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2025/12/21/fuzesabony-baleset-karambol-m3-autopalya/",
-    "source": "24.hu/Füzesabony",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sun, 21 Dec 2025 17:11:27 +0000"
-  },
-  {
     "title": "Elütött egy embert a vonat Füzesabonynál",
     "snippet": "Az elgázolt férfi meghalt.",
     "url": "https://index.hu/belfold/2025/12/22/vonatgazolas-fuzesabony-tragedia/",
@@ -45,13 +36,13 @@
     "date": "Mon, 22 Dec 2025 19:46:00 +0100"
   },
   {
-    "title": "Tagadja a bűnösségét a füzesabonyi férfi, aki leszúrta a feleségét, majd saját magát is hasba szúrta",
-    "snippet": "Fegyházba küldenék a minősített emberöléssel és más bűncselekményekkel vádolt férfit. The post Tagadja a bűnösségét a füzesabonyi férfi, aki leszúrta a feleségét, majd saját magát is hasba szúrta first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2025/05/16/fuzesabony-leszurt-feleseg-vademeles/",
+    "title": "Két autó ütközött, teljes útzár Füzesabonynál",
+    "snippet": "Több kilométeres a torlódás. The post Két autó ütközött, teljes útzár Füzesabonynál first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2025/12/21/fuzesabony-baleset-karambol-m3-autopalya/",
     "source": "24.hu/Füzesabony",
     "lang": "hu",
     "scope": "city",
-    "date": "Fri, 16 May 2025 09:08:49 +0000"
+    "date": "Sun, 21 Dec 2025 17:11:27 +0000"
   },
   {
     "title": "Vasútállomás mosdójában indult meg a szülés egy ikreket váró nőnél, meghalt az egyik gyermek",
@@ -61,5 +52,14 @@
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 09 Jul 2025 08:32:00 +0200"
+  },
+  {
+    "title": "Tagadja a bűnösségét a füzesabonyi férfi, aki leszúrta a feleségét, majd saját magát is hasba szúrta",
+    "snippet": "Fegyházba küldenék a minősített emberöléssel és más bűncselekményekkel vádolt férfit. The post Tagadja a bűnösségét a füzesabonyi férfi, aki leszúrta a feleségét, majd saját magát is hasba szúrta first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2025/05/16/fuzesabony-leszurt-feleseg-vademeles/",
+    "source": "24.hu/Füzesabony",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 16 May 2025 09:08:49 +0000"
   }
 ]

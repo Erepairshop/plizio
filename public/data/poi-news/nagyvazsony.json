@@ -3,7 +3,7 @@
     "title": "Álláshirdetés",
     "snippet": "",
     "url": "https://nagyvazsony.hu/allashirdetes-3/",
-    "source": "Nagyvázsony Hírek",
+    "source": "nagyvazsony.hu (hivatalos)",
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 20 May 2026 14:03:59 +0000"
@@ -12,19 +12,10 @@
     "title": "Tervezett áramszünet",
     "snippet": "Tájékoztatjuk, hogy településükön tervezett áramszünet lesz, amely az alábbi fogyasztási helyet érinti:Áramszünet helye: NagyvázsonyÁramszünet ideje: 2026.06.02. 08:00 16:00Áramszünet oka: hálózat karbantartásÉrintett felhasználási helyek:Jókai Mór utca Hrsz. 659Jókai Mór utca 1Jókai Mór utca 10Jóka",
     "url": "https://nagyvazsony.hu/tervezett-aramszunet-2/",
-    "source": "Nagyvázsony Hírek",
+    "source": "nagyvazsony.hu (hivatalos)",
     "lang": "hu",
     "scope": "city",
     "date": "Mon, 18 May 2026 20:07:08 +0000"
-  },
-  {
-    "title": "A kapolcsi völgy kis falvai felé viheti a forgalmat a tervezett észak-balatoni kis sztráda",
-    "snippet": "Veszprémtől Nagyvázsonyig 2x2 sávosra bővíthetik a 77-es utat, Nagyvázsonynál, Pulán, Kapolcson és Monostorapátin pedig elkerülő utak lehetnek. The post A kapolcsi völgy kis falvai felé viheti a forgalmat a tervezett észak-balatoni kis sztráda first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2022/04/23/77-es-fout-nif-tervezes-balaton-forgalom-nagyvazsony-veszprem/",
-    "source": "24.hu/Nagyvázsony",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sat, 23 Apr 2022 09:07:12 +0000"
   },
   {
     "title": "A régészek ma is keresik a verhetetlen hadvezér, Kinizsi Pál földi maradványait",
@@ -36,22 +27,22 @@
     "date": "Sun, 24 Nov 2024 12:27:00 +0100"
   },
   {
-    "title": "Nyári munkalehetőség",
-    "snippet": "",
-    "url": "https://nagyvazsony.hu/nyari-munkalehetoseg/",
-    "source": "Nagyvázsony Hírek",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Fri, 15 May 2026 06:56:10 +0000"
-  },
-  {
-    "title": "Új falopási kategória született: meggondolatlanságból, folytatólagosan",
-    "snippet": "Ráfázott. The post Új falopási kategória született: meggondolatlanságból, folytatólagosan first appeared on 24.hu .",
-    "url": "https://24.hu/kozelet/2020/10/31/falopas-meggondolatlansagbol-nagyvazsony/",
+    "title": "A kapolcsi völgy kis falvai felé viheti a forgalmat a tervezett észak-balatoni kis sztráda",
+    "snippet": "Veszprémtől Nagyvázsonyig 2x2 sávosra bővíthetik a 77-es utat, Nagyvázsonynál, Pulán, Kapolcson és Monostorapátin pedig elkerülő utak lehetnek. The post A kapolcsi völgy kis falvai felé viheti a forgalmat a tervezett észak-balatoni kis sztráda first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2022/04/23/77-es-fout-nif-tervezes-balaton-forgalom-nagyvazsony-veszprem/",
     "source": "24.hu/Nagyvázsony",
     "lang": "hu",
     "scope": "city",
-    "date": "Sat, 31 Oct 2020 11:10:23 +0000"
+    "date": "Sat, 23 Apr 2022 09:07:12 +0000"
+  },
+  {
+    "title": "Nyári munkalehetőség",
+    "snippet": "",
+    "url": "https://nagyvazsony.hu/nyari-munkalehetoseg/",
+    "source": "nagyvazsony.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 15 May 2026 06:56:10 +0000"
   },
   {
     "title": "Kéthetes jogosítvánnyal frontálisan ütközött egy 19 éves sofőr, ketten meghaltak",
@@ -63,22 +54,22 @@
     "date": "Sat, 16 Mar 2024 11:50:00 +0100"
   },
   {
-    "title": "Rendőrségi hírlevél",
-    "snippet": "",
-    "url": "https://nagyvazsony.hu/rendorsegi-hirlevel-2/",
-    "source": "Nagyvázsony Hírek",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Fri, 15 May 2026 06:36:45 +0000"
-  },
-  {
-    "title": "Koronavírus miatt bezártak egy nagyvázsonyi iskolát",
-    "snippet": "Rendkívüli szünetet rendeltek el szerdától. The post Koronavírus miatt bezártak egy nagyvázsonyi iskolát first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2020/09/02/koronavirus-nagyvazsony-iskola-bezaras/",
+    "title": "Új falopási kategória született: meggondolatlanságból, folytatólagosan",
+    "snippet": "Ráfázott. The post Új falopási kategória született: meggondolatlanságból, folytatólagosan first appeared on 24.hu .",
+    "url": "https://24.hu/kozelet/2020/10/31/falopas-meggondolatlansagbol-nagyvazsony/",
     "source": "24.hu/Nagyvázsony",
     "lang": "hu",
     "scope": "city",
-    "date": "Wed, 02 Sep 2020 06:30:43 +0000"
+    "date": "Sat, 31 Oct 2020 11:10:23 +0000"
+  },
+  {
+    "title": "Rendőrségi hírlevél",
+    "snippet": "",
+    "url": "https://nagyvazsony.hu/rendorsegi-hirlevel-2/",
+    "source": "nagyvazsony.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 15 May 2026 06:36:45 +0000"
   },
   {
     "title": "Egy fideszes polgármester is megszólalt a MÁV vasútvonalainak bezárásáról",
@@ -90,10 +81,19 @@
     "date": "Fri, 28 Jul 2023 13:26:00 +0200"
   },
   {
+    "title": "Koronavírus miatt bezártak egy nagyvázsonyi iskolát",
+    "snippet": "Rendkívüli szünetet rendeltek el szerdától. The post Koronavírus miatt bezártak egy nagyvázsonyi iskolát first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2020/09/02/koronavirus-nagyvazsony-iskola-bezaras/",
+    "source": "24.hu/Nagyvázsony",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 02 Sep 2020 06:30:43 +0000"
+  },
+  {
     "title": "Véradás: május 21-én az IKSZT-ben.",
     "snippet": "",
     "url": "https://nagyvazsony.hu/veradas-majus-21-en-az-ikszt-ben/",
-    "source": "Nagyvázsony Hírek",
+    "source": "nagyvazsony.hu (hivatalos)",
     "lang": "hu",
     "scope": "city",
     "date": "Thu, 14 May 2026 14:39:54 +0000"
