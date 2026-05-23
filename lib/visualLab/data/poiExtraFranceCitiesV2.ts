@@ -90,7 +90,16 @@ export const franceCitiesV2: POI[] = [
                   "category": "cultural",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Marineland Antibes", "text": "Berühmter Meeres-Themenpark mit Shows von Schwertwalen, Delfinen und vielen anderen Meerestieren.", "category": "recreational", "confidence": "high" },
+            { "name": "Phare de la Garoupe", "text": "Ein leistungsstarker Leuchtturm auf dem Gipfel des Kaps, der eine weite Sicht über die Riviera bietet.", "category": "historical", "confidence": "high" },
+            { "name": "Kapelle von La Garoupe", "text": "Eine malerische Wallfahrtskapelle, die für ihre wertvolle Sammlung von Votivgaben der Seefahrer bekannt ist.", "category": "religious", "confidence": "high" },
+            { "name": "Jardin Botanique de la Villa Thuret", "text": "Botanischer Garten mit exotischen Pflanzenarten, der von staatlichen Forschungsinstituten verwaltet wird.", "category": "natural", "confidence": "high" },
+            { "name": "Archäologisches Museum", "text": "In der Bastion Saint-André untergebracht, zeigt es antike römische Funde aus der Region.", "category": "museum", "confidence": "high" },
+            { "name": "Plage de la Salis", "text": "Ein beliebter Sandstrand mit flachem Wasser und einem wunderbaren Blick auf die Altstadt von Antibes.", "category": "natural", "confidence": "high" },
+            { "name": "Sentier du Littoral", "text": "Ein spektakulärer Küstenpfad, der rund um das malerische Cap d'Antibes entlang der Klippen führt.", "category": "natural", "confidence": "high" },
+            { "name": "Villa Eilenroc", "text": "Prachtvolle neoklassizistische Villa mit weitläufigen Gärten, die für die Öffentlichkeit zugänglich sind.", "category": "historical", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Picasso Múzeum",
@@ -134,7 +143,16 @@ export const franceCitiesV2: POI[] = [
                   "category": "cultural",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Marineland Antibes", "text": "Európa egyik legnagyobb tengeri vidámparkja gyilkos bálna- és delfinshow-kkal.", "category": "recreational", "confidence": "high" },
+            { "name": "Garoupe-világítótorony", "text": "A félsziget legmagasabb pontján álló jelzőtorony, ahonnan belátható az egész francia Riviéra.", "category": "historical", "confidence": "high" },
+            { "name": "Garoupe-kápolna", "text": "Történelmi zarándokhely, ahol a tengerészek által felajánlott különleges fogadalmi ajándékok láthatók.", "category": "religious", "confidence": "high" },
+            { "name": "Villa Thuret botanikus kert", "text": "Egzotikus növényfajokat bemutató tudományos kert, amelyet még a 19. században alapítottak.", "category": "natural", "confidence": "high" },
+            { "name": "Régészeti Múzeum", "text": "A Bastion Saint-André erődben elhelyezett gyűjtemény a város római kori múltját mutatja be.", "category": "museum", "confidence": "high" },
+            { "name": "Plage de la Salis", "text": "Antibes egyik legszebb homokos strandja, ahonnan kiváló kilátás nyílik az óváros bástyáira.", "category": "natural", "confidence": "high" },
+            { "name": "Part menti sétány", "text": "Látványos gyalogút a sziklák mentén, amely megkerüli a Cap d'Antibes luxusvillákkal övezett partját.", "category": "natural", "confidence": "high" },
+            { "name": "Villa Eilenroc", "text": "Pazar neoklasszicista kastély és kert, amely a Riviéra aranykorának eleganciáját idézi.", "category": "historical", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Muzeul Picasso",
@@ -178,7 +196,16 @@ export const franceCitiesV2: POI[] = [
                   "category": "cultural",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Marineland Antibes", "text": "Un faimos parc marin ce oferă spectacole cu balene ucigașe, delfini și o varietate de specii marine.", "category": "recreational", "confidence": "high" },
+            { "name": "Farul Garoupe", "text": "Un far maritim puternic situat pe colina Cap d'Antibes, oferind o panoramă vastă asupra Rivierei.", "category": "historical", "confidence": "high" },
+            { "name": "Capela Garoupe", "text": "Lăcaș de cult istoric, renumit pentru colecția sa de ofrande votive lăsate de marinarii locali.", "category": "religious", "confidence": "high" },
+            { "name": "Grădina Botanică Villa Thuret", "text": "Spațiu științific ce găzduiește numeroase specii de plante exotice aclimatizate pe Coasta de Azur.", "category": "natural", "confidence": "high" },
+            { "name": "Muzeul de Arheologie", "text": "Adăpostit în bastionul Saint-André, muzeul expune vestigii romane descoperite în zona orașului.", "category": "museum", "confidence": "high" },
+            { "name": "Plaja Salis", "text": "Plajă populară cu nisip fin, oferind o vedere spectaculoasă spre zidurile vechiului oraș.", "category": "natural", "confidence": "high" },
+            { "name": "Sentier du Littoral", "text": "Potecă de coastă impresionantă ce șerpuiește de-a lungul stâncilor din jurul Cap d'Antibes.", "category": "natural", "confidence": "high" },
+            { "name": "Villa Eilenroc", "text": "Vila neoclasică magnifică, înconjurată de grădini luxuriante deschise vizitatorilor în anumite zile.", "category": "historical", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Picasso Museum",
@@ -222,7 +249,16 @@ export const franceCitiesV2: POI[] = [
                   "category": "cultural",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Marineland Antibes", "text": "Famous marine theme park featuring shows with killer whales, dolphins, and diverse sea life.", "category": "recreational", "confidence": "high" },
+            { "name": "Phare de la Garoupe", "text": "A powerful lighthouse situated at the top of the cape, offering vast views over the Riviera.", "category": "historical", "confidence": "high" },
+            { "name": "Chapelle de la Garoupe", "text": "A picturesque pilgrimage chapel known for its collection of maritime ex-voto offerings.", "category": "religious", "confidence": "high" },
+            { "name": "Villa Thuret Botanical Garden", "text": "Scientific garden managed by INRA, hosting a wide variety of exotic and rare plant species.", "category": "natural", "confidence": "high" },
+            { "name": "Archaeology Museum", "text": "Located in the Bastion Saint-André, displaying ancient Roman artifacts found in the local area.", "category": "museum", "confidence": "high" },
+            { "name": "Plage de la Salis", "text": "A popular sandy beach with shallow waters and a beautiful view of the Antibes old town.", "category": "natural", "confidence": "high" },
+            { "name": "Sentier du Littoral", "text": "Stunning coastal walking path that winds along the cliffs around the scenic Cap d'Antibes.", "category": "natural", "confidence": "high" },
+            { "name": "Villa Eilenroc", "text": "Magnificent neoclassical villa with beautiful public gardens representing the Belle Époque.", "category": "historical", "confidence": "high" }
+        ]
 }
   },
   
@@ -314,7 +350,16 @@ export const franceCitiesV2: POI[] = [
                   "category": "natural",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Chapelle Impériale", "text": "Die 1857 unter Napoleon III. erbaute Kapelle beherbergt die Gräber von Napoleons Eltern und anderen Familienmitgliedern.", "category": "religious", "confidence": "high" },
+            { "name": "Palais Lantivy", "text": "Ein neoklassizistisches Gebäude aus dem 19. Jahrhundert, das heute als Sitz der Präfektur von Korsika dient.", "category": "civic", "confidence": "high" },
+            { "name": "Place de Gaulle", "text": "Der zentrale Platz der Stadt, auch Place du Diamant genannt, beherbergt ein monumentales Denkmal für Napoleon Bonaparte.", "category": "civic", "confidence": "high" },
+            { "name": "Marché d'Ajaccio", "text": "Ein lebhafter Markt am Place Foch, bekannt für korsische Spezialitäten wie Lonzu, Coppa und verschiedene Käsesorten.", "category": "culinary", "confidence": "high" },
+            { "name": "Sentier des Crêtes", "text": "Ein beliebter Wanderweg oberhalb der Stadt, der spektakuläre Ausblicke auf den Golf von Ajaccio und die Küste bietet.", "category": "natural", "confidence": "high" },
+            { "name": "Bibliothèque Municipale", "text": "Diese im Rathaus untergebrachte Bibliothek besitzt eine bedeutende Sammlung antiker Bücher und seltener napoleonischer Dokumente.", "category": "cultural", "confidence": "high" },
+            { "name": "Hôtel de Ville d'Ajaccio", "text": "Das elegante Rathaus am Hafen beherbergt den Salon Napoléonien mit Porträts und persönlichen Gegenständen der kaiserlichen Familie.", "category": "civic", "confidence": "high" },
+            { "name": "Plage de Saint-François", "text": "Ein malerischer Stadtstrand direkt unterhalb der Zitadelle, ideal für einen schnellen Sprung ins kristallklare Mittelmeer.", "category": "recreational", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Maison Bonaparte",
@@ -358,7 +403,16 @@ export const franceCitiesV2: POI[] = [
                   "category": "natural",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Császári kápolna", "text": "A III. Napóleon által 1857-ben építtetett kápolna Napóleon szüleinek és a család több tagjának sírhelyét őrzi.", "category": "religious", "confidence": "high" },
+            { "name": "Palais Lantivy", "text": "19. századi neoklasszicista épület, amely jelenleg Korzika prefektúrájának és közigazgatási központjának ad otthont.", "category": "civic", "confidence": "high" },
+            { "name": "Place de Gaulle", "text": "A város központi tere, amelyet Gyémánt térnek is neveznek, Napóleon monumentális emlékművéről és tengeri kilátásáról ismert.", "category": "civic", "confidence": "high" },
+            { "name": "Ajaccioi piac", "text": "A Place Foch mellett található nyüzsgő piac, ahol autentikus korzikai termékeket, sajtokat és felvágottakat kínálnak.", "category": "culinary", "confidence": "high" },
+            { "name": "Sentier des Crêtes", "text": "Népszerű túraútvonal a város felett, amely lenyűgöző panorámát nyújt az Ajaccioi-öbölre és a környező hegyekre.", "category": "natural", "confidence": "high" },
+            { "name": "Városi Könyvtár", "text": "A városházán található intézmény értékes antik könyvgyűjteménnyel és Napóleon korából származó ritka iratokkal rendelkezik.", "category": "cultural", "confidence": "high" },
+            { "name": "Ajaccioi városháza", "text": "A kikötőre néző elegáns épület Napóleon-termében a császári család személyes tárgyait és portréit állították ki.", "category": "civic", "confidence": "high" },
+            { "name": "Plage de Saint-François", "text": "Közvetlenül a citadella alatt fekvő városi homokos strand, amely könnyen elérhető és tiszta kék vízzel várja a látogatókat.", "category": "recreational", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Maison Bonaparte",
@@ -402,7 +456,16 @@ export const franceCitiesV2: POI[] = [
                   "category": "natural",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Capela Imperială", "text": "Construită în 1857 de Napoleon al III-lea, această capelă adăpostește mormintele părinților lui Napoleon și ale altor membri ai familiei.", "category": "religious", "confidence": "high" },
+            { "name": "Palais Lantivy", "text": "O clădire neoclasică impunătoare din secolul al XIX-lea, care servește drept sediu al Prefecturii Corsicii.", "category": "civic", "confidence": "high" },
+            { "name": "Piața de Gaulle", "text": "Cunoscută și sub numele de Piața Diamantului, este centrul orașului și găzduiește un monument grandios dedicat lui Napoleon.", "category": "civic", "confidence": "high" },
+            { "name": "Piața din Ajaccio", "text": "O piață tradițională vibrantă lângă Place Foch, renumită pentru delicatese corsicane precum brânzeturi și mezeluri artizanale.", "category": "culinary", "confidence": "high" },
+            { "name": "Sentier des Crêtes", "text": "Un traseu de drumeție popular deasupra orașului, oferind vederi spectaculoase asupra Golfului Ajaccio și a țărmului stâncos.", "category": "natural", "confidence": "high" },
+            { "name": "Biblioteca Municipală", "text": "Găzduită în clădirea primăriei, deține o colecție impresionantă de cărți vechi și manuscrise rare din epoca napoleoniană.", "category": "cultural", "confidence": "high" },
+            { "name": "Primăria din Ajaccio", "text": "O clădire elegantă în port care include Salonul Napoleonian, un muzeu dedicat suvenirurilor și istoriei familiei Bonaparte.", "category": "civic", "confidence": "high" },
+            { "name": "Plaja Saint-François", "text": "O plajă urbană pitorească situată chiar sub zidurile cetății, oferind acces rapid la apele cristaline ale Mediteranei.", "category": "recreational", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Maison Bonaparte",
@@ -446,7 +509,16 @@ export const franceCitiesV2: POI[] = [
                   "category": "natural",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Imperial Chapel", "text": "Built in 1857 by Napoleon III, this chapel houses the tombs of Napoleon's parents and several family members.", "category": "religious", "confidence": "high" },
+            { "name": "Palais Lantivy", "text": "A grand 19th-century neoclassical building that currently serves as the headquarters of the Corsican Prefecture.", "category": "civic", "confidence": "high" },
+            { "name": "Place de Gaulle", "text": "The city's main square, also called Place du Diamant, featuring a monumental statue of Napoleon and his brothers.", "category": "civic", "confidence": "high" },
+            { "name": "Ajaccio Market", "text": "A lively open-air market near Place Foch, famous for local Corsican products like cured meats, honey, and sheep cheese.", "category": "culinary", "confidence": "high" },
+            { "name": "Sentier des Crêtes", "text": "A scenic hiking trail above the city offering panoramic views of the Gulf of Ajaccio and the surrounding coastline.", "category": "natural", "confidence": "high" },
+            { "name": "Municipal Library", "text": "Located within the Town Hall, it preserves a magnificent collection of ancient books and rare Napoleonic documents.", "category": "cultural", "confidence": "high" },
+            { "name": "Ajaccio Town Hall", "text": "The elegant harbor-front building containing the Napoleonic Salon, filled with portraits and relics of the Bonaparte family.", "category": "civic", "confidence": "high" },
+            { "name": "Saint-François Beach", "text": "A charming urban beach located right beneath the Citadel, perfect for a quick swim in the clear Mediterranean waters.", "category": "recreational", "confidence": "high" }
+        ]
 }
   }
 ,

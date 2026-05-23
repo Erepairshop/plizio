@@ -87,7 +87,17 @@ const citySeeds: CitySeed[] = [
                   "category": "museum",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "L'Opéra de Rennes", "text": "Das am Rathausplatz gelegene Theater besticht durch seine markante Rundfassade und bietet seit 1836 Platz für über 600 Zuschauer.", "category": "cultural", "confidence": "high" },
+            { "name": "Hôtel de Ville de Rennes", "text": "Das im 18. Jahrhundert entworfene Barockbauwerk bildet mit der gegenüberliegenden Oper ein harmonisches architektonisches Ensemble.", "category": "civic", "confidence": "high" },
+            { "name": "Église Notre-Dame-en-Saint-Melaine", "text": "Diese ehemalige Abteikirche am Rande des Thabor-Parks beeindruckt durch ihren romanischen Turm und die vergoldete Marienstatue.", "category": "religious", "confidence": "high" },
+            { "name": "Couvent des Jacobins", "text": "Das restaurierte Dominikanerkloster aus dem 14. Jahrhundert dient heute als modernes Kongresszentrum inmitten des historischen Kerns.", "category": "historical", "confidence": "high" },
+            { "name": "Basilique Saint-Sauveur", "text": "Eine bedeutende Barockkirche im Stadtzentrum, die für ihre reiche Innenausstattung und das Marienbildnis von 1658 verehrt wird.", "category": "religious", "confidence": "high" },
+            { "name": "Ecomusée de la Bintinais", "text": "Dieses Museum auf einem ehemaligen Bauernhof dokumentiert die ländliche Geschichte der Region Rennes über fünf Jahrhunderte.", "category": "museum", "confidence": "high" },
+            { "name": "FRAC Bretagne", "text": "In einem futuristischen Gebäude untergebracht, zeigt dieses Zentrum zeitgenössische Kunst nationaler und internationaler Künstler.", "category": "museum", "confidence": "high" },
+            { "name": "Gare de Rennes", "text": "Der moderne Bahnhof ist ein wichtiger Verkehrsknotenpunkt mit einer beeindruckenden, lichtdurchfluteten Architektur aus Glas und Stahl.", "category": "station", "confidence": "high" },
+            { "name": "Place de la République", "text": "Ein weitläufiger Platz im Herzen der Stadt, dominiert vom imposanten Palais du Commerce, der die Hauptpost beherbergt.", "category": "civic", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Bretagne-i Parlament palotája",
@@ -131,7 +141,17 @@ const citySeeds: CitySeed[] = [
                   "category": "museum",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Rennes-i Operaház", "text": "A városháza terén álló, 1836-ban megnyitott operaház jellegzetes körkörös homlokzatáról és lenyűgöző belső akusztikájáról ismert.", "category": "cultural", "confidence": "high" },
+            { "name": "Rennes-i Városháza", "text": "A 18. században tervezett barokk épület íves homlokzatával és óratornyával a város központi közigazgatási helyszíne és dísze.", "category": "civic", "confidence": "high" },
+            { "name": "Notre-Dame-en-Saint-Melaine templom", "text": "A Thabor-park szélén álló egykori apátsági templom romanikus tornyáról és az azt díszítő aranyozott Mária-szoborról ismert.", "category": "religious", "confidence": "high" },
+            { "name": "Couvent des Jacobins", "text": "Ez a 14. századi domonkos kolostor ma modern konferenciaközpontként működik, ötvözve a gótikus építészetet a kortárs dizájnnal.", "category": "historical", "confidence": "high" },
+            { "name": "Szent Megváltó-bazilika", "text": "A belvárosban található barokk stílusú bazilika gazdag belső díszítéséről és a 17. századi kegyképéről híres zarándokhely.", "category": "religious", "confidence": "high" },
+            { "name": "Ecomusée de la Bintinais", "text": "Ez a korábbi farmon kialakított szabadtéri múzeum Rennes környékének vidéki életét és mezőgazdasági múltját mutatja be.", "category": "museum", "confidence": "high" },
+            { "name": "FRAC Bretagne", "text": "A futurisztikus épületben elhelyezett regionális művészeti központ kortárs alkotásokat mutat be francia és nemzetközi művészektől.", "category": "museum", "confidence": "high" },
+            { "name": "Rennes-i pályaudvar", "text": "A modern vasútállomás jelentős közlekedési csomópont, melynek felújított, üvegből és acélból készült teteje lenyűgöző látványt nyújt.", "category": "station", "confidence": "high" },
+            { "name": "Place de la République", "text": "A város szívében található tágas tér, melyet a monumentális Palais du Commerce épülete és a központi posta határoz meg.", "category": "civic", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Palatul Parlamentului Bretaniei",
@@ -175,7 +195,17 @@ const citySeeds: CitySeed[] = [
                   "category": "museum",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Opera din Rennes", "text": "Inaugurată în 1836, această clădire emblematică din Piața Primăriei se remarcă prin fațada sa circulară și programul artistic bogat.", "category": "cultural", "confidence": "high" },
+            { "name": "Primăria din Rennes", "text": "Proiectată de Jacques Gabriel în secolul al XVIII-lea, clădirea barocă impresionează prin turnul cu ceas și fațada curbată elegantă.", "category": "civic", "confidence": "high" },
+            { "name": "Biserica Notre-Dame-en-Saint-Melaine", "text": "Fosta biserică abațială de lângă Parcul Thabor se distinge prin turnul său romanic și statuia aurită a Fecioarei.", "category": "religious", "confidence": "high" },
+            { "name": "Couvent des Jacobins", "text": "Această fostă mănăstire dominicană din secolul al XIV-lea a fost transformată într-un centru de congrese ultramodern în centrul vechi.", "category": "historical", "confidence": "high" },
+            { "name": "Basilica Saint-Sauveur", "text": "O biserică barocă importantă situată în centrul orașului, renumită pentru interiorul său bogat și pentru venerata icoană a Fecioarei.", "category": "religious", "confidence": "high" },
+            { "name": "Ecomusée de la Bintinais", "text": "Situat într-o fostă fermă, acest muzeu documentează viața rurală și istoria agricolă a regiunii Rennes de-a lungul a cinci secole.", "category": "museum", "confidence": "high" },
+            { "name": "FRAC Bretagne", "text": "Găzduit într-o clădire futuristă, acest centru regional de artă contemporană expune lucrări ale unor artiști naționali și internaționali.", "category": "museum", "confidence": "high" },
+            { "name": "Gara din Rennes", "text": "Nod feroviar major, gara se remarcă prin arhitectura modernă, cu o structură spectaculoasă din sticlă și oțel ce adăpostește peroanele.", "category": "station", "confidence": "high" },
+            { "name": "Place de la République", "text": "O piață vastă în inima orașului, dominată de impozantul Palais du Commerce, care găzduiește oficiul poștal central.", "category": "civic", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Palace of the Parliament of Brittany",
@@ -219,7 +249,17 @@ const citySeeds: CitySeed[] = [
                   "category": "museum",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Rennes Opera House", "text": "Located on the City Hall square, this 1836 building features a distinctive circular facade and hosts prestigious opera performances.", "category": "cultural", "confidence": "high" },
+            { "name": "Rennes City Hall", "text": "Designed by Jacques Gabriel in the 18th century, this Baroque building features a curved facade and a clock tower in the heart of the city.", "category": "civic", "confidence": "high" },
+            { "name": "Notre-Dame-en-Saint-Melaine Church", "text": "Located next to Thabor Park, this former abbey church features a Romanesque tower topped with a gilded statue of Mary.", "category": "religious", "confidence": "high" },
+            { "name": "Couvent des Jacobins", "text": "This 14th-century Dominican monastery has been transformed into a modern convention center while preserving its Gothic architecture.", "category": "historical", "confidence": "high" },
+            { "name": "Saint-Sauveur Basilica", "text": "A significant Baroque church in the city center, known for its ornate interior and a 1658 statue of the Virgin, a site of pilgrimage.", "category": "religious", "confidence": "high" },
+            { "name": "Ecomusée de la Bintinais", "text": "Set on a former farm, this open-air museum documents the rural history and agricultural traditions of the Rennes region since 1500.", "category": "museum", "confidence": "high" },
+            { "name": "FRAC Bretagne", "text": "Housed in a futuristic building, this regional center for contemporary art showcases works from renowned national and international artists.", "category": "museum", "confidence": "high" },
+            { "name": "Rennes Train Station", "text": "A major transport hub, this station features striking modern architecture with a vast glass and steel structure covering the platforms.", "category": "station", "confidence": "high" },
+            { "name": "Place de la République", "text": "A vast square in the heart of the city, dominated by the imposing Palais du Commerce building which houses the main post office.", "category": "civic", "confidence": "high" }
+        ]
 }
   },
   {
@@ -299,7 +339,16 @@ const citySeeds: CitySeed[] = [
                   "category": "civic",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Cathédrale Notre-Dame du Havre", "text": "Diese Kathedrale aus dem 16. Jahrhundert ist eines der wenigen Gebäude, die die Zerstörung der Stadt im Jahr 1944 überstanden haben.", "category": "religious", "confidence": "high" },
+            { "name": "Docks Vauban", "text": "Ehemalige historische Hafenspeicher, die zu einem modernen Einkaufs- und Freizeitzentrum mit Kinos und Restaurants umgebaut wurden.", "category": "civic", "confidence": "high" },
+            { "name": "Abbaye de Graville", "text": "Eine romanische Abtei auf einem Hügel mit Blick auf die Seine, die eine bedeutende Sammlung religiöser Kunstgegenstände beherbergt.", "category": "monastic", "confidence": "high" },
+            { "name": "Maison de l'Armateur", "text": "Ein prächtiges Kaufmannshaus aus dem 18. Jahrhundert, das Einblicke in das bürgerliche Leben und die maritime Geschichte der Stadt bietet.", "category": "museum", "confidence": "high" },
+            { "name": "Strand von Le Havre", "text": "Ein weitläufiger Kiesstrand mit einer lebhaften Promenade, bunten Strandhütten und einem weiten Blick auf den Ärmelkanal.", "category": "natural", "confidence": "high" },
+            { "name": "Forêt de Montgeon", "text": "Ein riesiger Stadtwald im Herzen von Le Havre, der zahlreiche Wanderwege, Seen und Sportanlagen für die Erholung im Grünen bietet.", "category": "natural", "confidence": "high" },
+            { "name": "Stade Océane", "text": "Ein modernes Öko-Stadion mit einer charakteristischen blauen Fassade, das für seine nachhaltige Bauweise und Architektur bekannt ist.", "category": "civic", "confidence": "high" },
+            { "name": "Le Pain de Sucre", "text": "Ein markantes Denkmal in Sainte-Adresse, das den Seeleuten gewidmet ist und einen Panoramablick über die gesamte Bucht bietet.", "category": "historical", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Szent József-templom",
@@ -343,7 +392,16 @@ const citySeeds: CitySeed[] = [
                   "category": "civic",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Cathédrale Notre-Dame du Havre", "text": "A 16. századi székesegyház a város azon kevés épületeinek egyike, amely épségben túlélte az 1944-es pusztító bombázásokat.", "category": "religious", "confidence": "high" },
+            { "name": "Docks Vauban", "text": "A korábbi kikötői raktárakból kialakított modern bevásárló- és szórakoztatóközpont megőrizte a történelmi téglafalakat.", "category": "civic", "confidence": "high" },
+            { "name": "Abbaye de Graville", "text": "A Szajna torkolatára néző román stílusú apátság és múzeum, amely jelentős vallási és történeti gyűjteménnyel rendelkezik.", "category": "monastic", "confidence": "high" },
+            { "name": "Maison de l'Armateur", "text": "A 18. századi ötszintes polgárház a hajótulajdonosok életmódját és a város tengeri kereskedelmének aranykorát mutatja be.", "category": "museum", "confidence": "high" },
+            { "name": "Le Havre strandja", "text": "Hosszú kavicsos tengerpart sétánnyal és jellegzetes fehér kabinokkal, amely népszerű hely a vízi sportok és a pihenés kedvelőinek.", "category": "natural", "confidence": "high" },
+            { "name": "Forêt de Montgeon", "text": "Hatalmas városi erdő és park tóval, ahol tanösvények és sportpályák várják a természetbe vágyó látogatókat.", "category": "natural", "confidence": "high" },
+            { "name": "Stade Océane", "text": "Ultramodern, kék színű üvegfaláról felismerhető öko-stadion, amely Európa egyik legfenntarthatóbb sportlétesítménye.", "category": "civic", "confidence": "high" },
+            { "name": "Le Pain de Sucre", "text": "A tengerészek emlékére állított, cukorsüveg alakú emlékmű Sainte-Adresse-ben, ahonnan páratlan kilátás nyílik a tengerre.", "category": "historical", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Biserica Saint-Joseph",
@@ -387,7 +445,16 @@ const citySeeds: CitySeed[] = [
                   "category": "civic",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Cathédrale Notre-Dame du Havre", "text": "Catedrală din secolul al XVI-lea, una dintre puținele clădiri care au supraviețuit distrugerii aproape totale a orașului în 1944.", "category": "religious", "confidence": "high" },
+            { "name": "Docks Vauban", "text": "Foste depozite portuare istorice transformate într-un centru comercial și de agrement modern, păstrând arhitectura de cărămidă.", "category": "civic", "confidence": "high" },
+            { "name": "Abbaye de Graville", "text": "O mănăstire romanică situată pe un deal cu vedere la estuarul Senei, găzduind un muzeu de artă sacră și sculpturi.", "category": "monastic", "confidence": "high" },
+            { "name": "Maison de l'Armateur", "text": "O casă de negustor din secolul al XVIII-lea ce prezintă stilul de viață burghez și istoria maritimă glorioasă a portului.", "category": "museum", "confidence": "high" },
+            { "name": "Plaja din Le Havre", "text": "O plajă vastă de pietriș cu o faleză animată, cabine albe emblematice și vederi superbe spre Canalul Mânecii.", "category": "natural", "confidence": "high" },
+            { "name": "Forêt de Montgeon", "text": "O pădure urbană întinsă în centrul orașului, oferind lacuri, trasee de drumeție și spații verzi pentru recreere în aer liber.", "category": "natural", "confidence": "high" },
+            { "name": "Stade Océane", "text": "Un stadion modern cu o fațadă albastră translucidă, remarcat pentru designul său ecologic și sustenabilitatea energetică.", "category": "civic", "confidence": "high" },
+            { "name": "Le Pain de Sucre", "text": "Monument distinctiv în Sainte-Adresse dedicat marinarilor, oferind o panoramă spectaculoasă asupra întregului golf.", "category": "historical", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Saint-Joseph's Church",
@@ -431,7 +498,16 @@ const citySeeds: CitySeed[] = [
                   "category": "civic",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Cathédrale Notre-Dame du Havre", "text": "A 16th-century cathedral and one of the rare survivors of the 1944 bombings, featuring a mix of Gothic and Renaissance styles.", "category": "religious", "confidence": "high" },
+            { "name": "Docks Vauban", "text": "Former historic port warehouses converted into a modern shopping and leisure complex with cinemas and restaurants.", "category": "civic", "confidence": "high" },
+            { "name": "Abbaye de Graville", "text": "An ancient Romanesque abbey overlooking the Seine estuary, housing a museum with a significant collection of sacred art.", "category": "monastic", "confidence": "high" },
+            { "name": "Maison de l'Armateur", "text": "An 18th-century merchant's house that provides a glimpse into the bourgeois life and maritime history of Le Havre.", "category": "museum", "confidence": "high" },
+            { "name": "Le Havre Beach", "text": "A long pebble beach with a famous promenade, colorful beach huts, and expansive views of the English Channel.", "category": "natural", "confidence": "high" },
+            { "name": "Forêt de Montgeon", "text": "A massive urban forest in the heart of the city, offering many trails, lakes, and sports facilities for outdoor recreation.", "category": "natural", "confidence": "high" },
+            { "name": "Stade Océane", "text": "A modern eco-stadium known for its distinctive blue translucent exterior and sustainable high-tech architectural design.", "category": "civic", "confidence": "high" },
+            { "name": "Le Pain de Sucre", "text": "A distinctive sugar-loaf shaped monument in Sainte-Adresse dedicated to sailors, offering panoramic sea views.", "category": "historical", "confidence": "high" }
+        ]
 }
   },
   {
@@ -511,7 +587,18 @@ const citySeeds: CitySeed[] = [
                   "category": "natural",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Place du Ralliement", "text": "Der zentrale Platz von Angers ist das Herz der Stadt und beherbergt das prächtige Grand Théâtre aus dem 19. Jahrhundert.", "category": "civic", "confidence": "high" },
+            { "name": "Grand Théâtre d'Angers", "text": "Dieses prächtige Opernhaus wurde 1871 nach einem Brand wiederaufgebaut und dominiert mit seiner Architektur den Ralliement-Platz.", "category": "cultural", "confidence": "high" },
+            { "name": "Museum der Schönen Künste", "text": "Das Museum befindet sich im historischen Logis Barrault und beherbergt eine bedeutende Sammlung von Gemälden und Skulpturen.", "category": "museum", "confidence": "high" },
+            { "name": "Kollegiatkirche Saint-Martin", "text": "Eines der am besten erhaltenen karolingischen Bauwerke Frankreichs, das heute als archäologische Stätte und Kulturzentrum dient.", "category": "religious", "confidence": "high" },
+            { "name": "Pincé-Museum", "text": "Dieses Renaissance-Palais beherbergt Sammlungen griechischer, römischer, ägyptischer sowie chinesischer und japanischer Kunst.", "category": "museum", "confidence": "high" },
+            { "name": "Le Quai", "text": "Ein modernes Kulturzentrum am Ufer der Maine, das Raum für zeitgenössisches Theater, Tanz und Musikveranstaltungen bietet.", "category": "cultural", "confidence": "high" },
+            { "name": "Lac de Maine", "text": "Ein großer künstlicher See und Freizeitpark im Westen der Stadt, ideal zum Segeln, Schwimmen und für ausgedehnte Spaziergänge.", "category": "natural", "confidence": "high" },
+            { "name": "Abtei Ronceray", "text": "Diese ehemalige Benediktinerinnenabtei aus dem 11. Jahrhundert ist ein Juwel der romanischen Architektur in der Region Anjou.", "category": "monastic", "confidence": "high" },
+            { "name": "Pionier-Museum", "text": "Das Musée du Génie dokumentiert die Geschichte des französischen Militär-Ingenieurwesens von Vauban bis in die heutige Zeit.", "category": "museum", "confidence": "high" },
+            { "name": "Verdun-Brücke", "text": "Die älteste Brücke der Stadt verbindet das historische Viertel La Doutre mit dem Stadtzentrum über den Fluss Maine.", "category": "historical", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Angers-i vár",
@@ -555,7 +642,18 @@ const citySeeds: CitySeed[] = [
                   "category": "natural",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Place du Ralliement", "text": "Angers központi tere a város szíve, ahol a 19. századi impozáns Nagy Színház is található, kedvelt találkozóhely.", "category": "civic", "confidence": "high" },
+            { "name": "Grand Théâtre d'Angers", "text": "Az 1871-ben újjáépített operaház a Ralliement tér meghatározó épülete, amely gazdag kulturális programoknak ad otthont.", "category": "cultural", "confidence": "high" },
+            { "name": "Szépművészeti Múzeum", "text": "A történelmi Logis Barrault épületében található múzeum jelentős festmény- és szoborgyűjteményt mutat be a látogatóknak.", "category": "museum", "confidence": "high" },
+            { "name": "Szent Márton-társaskáptalan", "text": "Franciaország egyik legjobb állapotban fennmaradt karoling kori emléke, amely ma régészeti helyszín és kulturális tér.", "category": "religious", "confidence": "high" },
+            { "name": "Pincé Múzeum", "text": "Ez a reneszánsz palota görög, római, egyiptomi, valamint kínai és japán művészeti gyűjteményeknek ad otthont Angers-ben.", "category": "museum", "confidence": "high" },
+            { "name": "Le Quai", "text": "A Maine folyó partján álló modern kulturális központ a kortárs színház, tánc és zenei események fontos helyszíne.", "category": "cultural", "confidence": "high" },
+            { "name": "Lac de Maine", "text": "Hatalmas mesterséges tó és szabadidőpark a város nyugati részén, amely vitorlázásra, úszásra és sétákra is kiváló.", "category": "natural", "confidence": "high" },
+            { "name": "Ronceray-apátság", "text": "A 11. századból származó egykori bencés női apátság az anjou-i román stílusú építészet egyik kiemelkedő példája.", "category": "monastic", "confidence": "high" },
+            { "name": "Műszaki Csapatok Múzeuma", "text": "A Musée du Génie a francia hadmérnöki kar történetét mutatja be Vauban korától egészen napjaink modern hadviseléséig.", "category": "museum", "confidence": "high" },
+            { "name": "Verdun-híd", "text": "A város legidősebb hídja, amely a történelmi La Doutre negyedet köti össze a városközponttal a Maine folyó felett.", "category": "historical", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Castelul din Angers",
@@ -599,7 +697,18 @@ const citySeeds: CitySeed[] = [
                   "category": "natural",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Piața Ralliement", "text": "Piața centrală din Angers reprezintă inima orașului și găzduiește impunătorul Grand Théâtre construit în secolul al XIX-lea.", "category": "civic", "confidence": "high" },
+            { "name": "Grand Théâtre d'Angers", "text": "Această operă magnifică a fost reconstruită în 1871 după un incendiu și domină arhitectura Pieței Ralliement.", "category": "cultural", "confidence": "high" },
+            { "name": "Muzeul de Arte Frumoase", "text": "Situat în istoricul Logis Barrault, muzeul adăpostește o colecție importantă de picturi și sculpturi europene.", "category": "museum", "confidence": "high" },
+            { "name": "Colegiata Sfântul Martin", "text": "Unul dintre cele mai bine conservate monumente carolingiene din Franța, servind astăzi ca sit arheologic și centru cultural.", "category": "religious", "confidence": "high" },
+            { "name": "Muzeul Pincé", "text": "Acest conac renascentist găzduiește colecții remarcabile de artă greacă, romană, egipteană, precum și artă chineză și japoneză.", "category": "museum", "confidence": "high" },
+            { "name": "Le Quai", "text": "Un centru cultural modern pe malul râului Maine, dedicat teatrului contemporan, dansului și evenimentelor muzicale.", "category": "cultural", "confidence": "high" },
+            { "name": "Lacul de Maine", "text": "Un vast lac artificial și parc de recreere în vestul orașului, ideal pentru navigație, înot și plimbări în natură.", "category": "natural", "confidence": "high" },
+            { "name": "Abația Ronceray", "text": "Fostă abație benedictină din secolul al XI-lea, biserica este o bijuterie a arhitecturii romanice din regiunea Anjou.", "category": "monastic", "confidence": "high" },
+            { "name": "Muzeul Geniului", "text": "Musée du Génie prezintă istoria ingineriei militare franceze, de la fortificațiile lui Vauban până la tehnologiile actuale.", "category": "museum", "confidence": "high" },
+            { "name": "Podul Verdun", "text": "Cel mai vechi pod din oraș, care traversează râul Maine și leagă cartierul istoric La Doutre de centrul modern.", "category": "historical", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Angers Castle",
@@ -643,7 +752,18 @@ const citySeeds: CitySeed[] = [
                   "category": "natural",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Place du Ralliement", "text": "The central square of Angers is the heart of the city and home to the grand 19th-century Grand Théâtre opera house.", "category": "civic", "confidence": "high" },
+            { "name": "Grand Théâtre d'Angers", "text": "This magnificent opera house was rebuilt in 1871 after a fire and dominates the architecture of Ralliement Square.", "category": "cultural", "confidence": "high" },
+            { "name": "Museum of Fine Arts", "text": "Located in the historic Logis Barrault, the museum houses a significant collection of paintings and sculptures.", "category": "museum", "confidence": "high" },
+            { "name": "Saint-Martin Collegiate Church", "text": "One of the best-preserved Carolingian monuments in France, now serving as an archaeological site and cultural venue.", "category": "religious", "confidence": "high" },
+            { "name": "Pincé Museum", "text": "This Renaissance mansion houses collections of Greek, Roman, Egyptian, as well as Chinese and Japanese art.", "category": "museum", "confidence": "high" },
+            { "name": "Le Quai", "text": "A modern cultural center on the banks of the Maine river, hosting contemporary theater, dance, and music events.", "category": "cultural", "confidence": "high" },
+            { "name": "Lac de Maine", "text": "A large artificial lake and recreation park in the west of the city, ideal for sailing, swimming, and walking.", "category": "natural", "confidence": "high" },
+            { "name": "Ronceray Abbey", "text": "This former 11th-century Benedictine nunnery is a jewel of Romanesque architecture in the Anjou region.", "category": "monastic", "confidence": "high" },
+            { "name": "Museum of Military Engineering", "text": "The Musée du Génie documents the history of French military engineering from Vauban to the present day.", "category": "museum", "confidence": "high" },
+            { "name": "Verdun Bridge", "text": "The oldest bridge in the city connects the historic La Doutre district with the city center over the Maine river.", "category": "historical", "confidence": "high" }
+        ]
 }
   },
   {
@@ -717,7 +837,18 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Kunstmuseum Carré d'Art", "text": "Ein von Norman Foster entworfenes Museum für zeitgenössische Kunst, das gegenüber der antiken Maison Carrée steht.", "category": "museum", "confidence": "high" },
+            { "name": "Augustus-Tor", "text": "Ein römisches Stadttor aus dem Jahr 15-16 v. Chr., das einst Teil der befestigten Stadtmauer von Nîmes war.", "category": "historical", "confidence": "high" },
+            { "name": "Kathedrale von Nîmes", "text": "Die Cathédrale Notre-Dame-et-Saint-Castor ist eine Mischung aus romanischer und gotischer Architektur mit einer reichen Geschichte.", "category": "religious", "confidence": "high" },
+            { "name": "Markthalle Les Halles", "text": "Der überdachte Markt im Stadtzentrum bietet eine Fülle an regionalen Spezialitäten wie Pâté de Nîmes und Brandade.", "category": "culinary", "confidence": "high" },
+            { "name": "Castellum Aquae", "text": "Ein seltenes römisches Bauwerk, das als Endpunkt des Aquädukts diente und das Wasser in der ganzen Stadt verteilte.", "category": "historical", "confidence": "high" },
+            { "name": "Museum der Schönen Künste", "text": "Das Museum beherbergt eine der größten römischen Mosaiken Frankreichs, 'Die Hochzeit von Admetus', und europäische Malerei.", "category": "museum", "confidence": "high" },
+            { "name": "Marktplatz", "text": "Ein malerischer Platz in der Altstadt, bekannt für seinen Krokodilbrunnen, das Wahrzeichen der Stadt Nîmes.", "category": "civic", "confidence": "high" },
+            { "name": "Frankreich-Tor", "text": "Ein weiteres gut erhaltenes römisches Stadttor, das südliche Pendant zum Augustus-Tor an der ehemaligen Via Domitia.", "category": "historical", "confidence": "high" },
+            { "name": "Kirche Saint-Baudile", "text": "Eine imposante neugotische Kirche aus den 1870er Jahren mit zwei hohen Türmen, die das Stadtbild mitprägen.", "category": "religious", "confidence": "high" },
+            { "name": "Museum des alten Nîmes", "text": "Im ehemaligen Bischofspalast untergebracht, zeigt dieses Museum die lokale Geschichte und Traditionen, wie die Textilherstellung.", "category": "museum", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Arènes de Nîmes",
@@ -755,7 +886,18 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Carré d'Art Múzeum", "text": "A Norman Foster által tervezett kortárs művészeti múzeum, amely az ókori Maison Carrée épületével szemben áll.", "category": "museum", "confidence": "high" },
+            { "name": "Augustus-kapu", "text": "Római kori városkapu i. e. 15-16-ból, amely egykor Nîmes megerősített városfalának fontos részét képezte.", "category": "historical", "confidence": "high" },
+            { "name": "Nîmes-i székesegyház", "text": "A Cathédrale Notre-Dame-et-Saint-Castor a román és a gótikus építészet jegyeit ötvözi, gazdag történelmi múlttal bír.", "category": "religious", "confidence": "high" },
+            { "name": "Les Halles vásárcsarnok", "text": "A városközpontban található fedett piac a helyi finomságok, mint a Pâté de Nîmes és a Brandade lelőhelye.", "category": "culinary", "confidence": "high" },
+            { "name": "Castellum Aquae", "text": "Ritka római kori vízmű, amely az akvedukt végpontjaként szolgált, és szétosztotta a vizet a város különböző részeibe.", "category": "historical", "confidence": "high" },
+            { "name": "Szépművészeti Múzeum", "text": "A múzeumban látható Franciaország egyik legnagyobb római mozaikja, az 'Admétosz esküvője', valamint európai festmények.", "category": "museum", "confidence": "high" },
+            { "name": "Piac tér", "text": "Az óváros festői tere, amely a város jelképének számító krokodilos szökőkútjáról híres a turisták körében.", "category": "civic", "confidence": "high" },
+            { "name": "Francia-kapu", "text": "Egy másik jó állapotban fennmaradt római városkapu, az Augustus-kapu déli párja az egykori Via Domitia útvonalán.", "category": "historical", "confidence": "high" },
+            { "name": "Szent Baudile-templom", "text": "Hatalmas neogótikus templom az 1870-es évekből, melynek két karcsú tornya meghatározza Nîmes városképét.", "category": "religious", "confidence": "high" },
+            { "name": "Régi Nîmes Múzeuma", "text": "Az egykori püspöki palotában található múzeum a helyi történelmet és hagyományokat, például a textilgyártást mutatja be.", "category": "museum", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Amfiteatrul din Nîmes",
@@ -793,7 +935,18 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Muzeul Carré d'Art", "text": "Un muzeu de artă contemporană proiectat de Norman Foster, situat vis-à-vis de anticul templu Maison Carrée.", "category": "museum", "confidence": "high" },
+            { "name": "Poarta lui Augustus", "text": "O poartă romană construită în anii 15-16 î.Hr., care făcea parte din zidurile fortificate ale orașului Nîmes.", "category": "historical", "confidence": "high" },
+            { "name": "Catedrala din Nîmes", "text": "Notre-Dame-et-Saint-Castor este o catedrală ce îmbină stilurile romanic și gotic, fiind martora istoriei bogate a orașului.", "category": "religious", "confidence": "high" },
+            { "name": "Piața acoperită Les Halles", "text": "Piața centrală oferă o abundență de specialități regionale, precum Pâté de Nîmes și faimoasa brandadă de cod.", "category": "culinary", "confidence": "high" },
+            { "name": "Castellum Aquae", "text": "O structură romană rară care servea drept punct final al apeductului, distribuind apa în întregul oraș antic.", "category": "historical", "confidence": "high" },
+            { "name": "Muzeul de Arte Frumoase", "text": "Găzduiește unul dintre cele mai mari mozaicuri romane din Franța, 'Nunta lui Admetus', și picturi europene valoroase.", "category": "museum", "confidence": "high" },
+            { "name": "Piața Pieței", "text": "O piațetă pitorească în centrul vechi, celebră pentru fântâna sa cu crocodil, emblema oficială a orașului Nîmes.", "category": "civic", "confidence": "high" },
+            { "name": "Poarta Franței", "text": "O altă poartă romană bine conservată, corespondentul sudic al Porții lui Augustus pe vechea rută Via Domitia.", "category": "historical", "confidence": "high" },
+            { "name": "Biserica Sfântul Baudile", "text": "O biserică neogotică impunătoare construită în anii 1870, cu două turnuri înalte care domină orizontul orașului.", "category": "religious", "confidence": "high" },
+            { "name": "Muzeul Vechiului Nîmes", "text": "Situat în fostul palat episcopal, acest muzeu expune istoria locală și tradițiile textile, inclusiv originea denimului.", "category": "museum", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Arena of Nîmes",
@@ -831,7 +984,18 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Carré d'Art Museum", "text": "A contemporary art museum designed by Norman Foster, standing directly opposite the ancient Maison Carrée.", "category": "museum", "confidence": "high" },
+            { "name": "Augustus Gate", "text": "A Roman city gate dating from 15-16 BC, which was once part of the fortified city walls of Nîmes.", "category": "historical", "confidence": "high" },
+            { "name": "Nîmes Cathedral", "text": "The Cathédrale Notre-Dame-et-Saint-Castor blends Romanesque and Gothic architecture with a rich historical past.", "category": "religious", "confidence": "high" },
+            { "name": "Les Halles Market", "text": "The covered market in the city center offers an abundance of regional specialties like Pâté de Nîmes and brandade.", "category": "culinary", "confidence": "high" },
+            { "name": "Castellum Aquae", "text": "A rare Roman circular basin that served as the endpoint of the aqueduct, distributing water throughout the city.", "category": "historical", "confidence": "high" },
+            { "name": "Museum of Fine Arts", "text": "The museum houses one of France's largest Roman mosaics, 'The Marriage of Admetus', and European paintings.", "category": "museum", "confidence": "high" },
+            { "name": "Market Square", "text": "A picturesque square in the old town, famous for its crocodile fountain, the official symbol of Nîmes.", "category": "civic", "confidence": "high" },
+            { "name": "Porte de France", "text": "Another well-preserved Roman gate, the southern counterpart to the Augustus Gate on the former Via Domitia.", "category": "historical", "confidence": "high" },
+            { "name": "Saint-Baudile Church", "text": "An imposing Neo-Gothic church built in the 1870s, featuring two high spires that dominate the city skyline.", "category": "religious", "confidence": "high" },
+            { "name": "Museum of Old Nîmes", "text": "Housed in the former bishop's palace, this museum showcases local history and traditions, such as textile making.", "category": "museum", "confidence": "high" }
+        ]
 }
   },
     {
@@ -905,7 +1069,17 @@ const citySeeds: CitySeed[] = [
                   "category": "natural",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Musée des Beaux-Arts de Brest", "text": "Das nach dem Krieg wiederaufgebaute Kunstmuseum beherbergt eine bedeutende Sammlung europäischer Gemälde und Skulpturen.", "category": "museum", "confidence": "high" },
+            { "name": "Téléphérique de Brest", "text": "Frankreichs erste städtische Seilbahn, die das Stadtzentrum mit dem Capucins-Viertel verbindet und tolle Ausblicke bietet.", "category": "recreational", "confidence": "high" },
+            { "name": "Jardin des Explorateurs", "text": "Ein botanischer Garten mit Pflanzen, die Seefahrer von ihren Reisen aus aller Welt in den Hafen von Brest brachten.", "category": "natural", "confidence": "high" },
+            { "name": "Abri Sadi-Carnot", "text": "Ein historischer Tunnel aus dem Zweiten Weltkrieg, der als Luftschutzbunker für die Zivilbevölkerung während der Belagerung diente.", "category": "historical", "confidence": "high" },
+            { "name": "Église Saint-Louis", "text": "Eine imposante moderne Kirche aus Beton, die auf den Ruinen des Vorgängerbaus nach den Zerstörungen des Krieges errichtet wurde.", "category": "religious", "confidence": "high" },
+            { "name": "Cours Dajot", "text": "Eine malerische Promenade aus dem 18. Jahrhundert mit spektakulärem Blick auf die Reede von Brest und den Militärhafen.", "category": "historical", "confidence": "high" },
+            { "name": "Port de Plaisance du Moulin Blanc", "text": "Der Haupthafen für Freizeitboote in Brest, umgeben von Restaurants und dem Ausgangspunkt für viele Segeltouren.", "category": "recreational", "confidence": "high" },
+            { "name": "Base Navale de Brest", "text": "Einer der wichtigsten französischen Militärhäfen mit einer langen strategischen Geschichte, der das Stadtbild prägt.", "category": "fortress", "confidence": "high" },
+            { "name": "Avenue Jean Jaurès", "text": "Die wichtigste Einkaufsstraße von Brest, bekannt für ihre Geschäfte, die Straßenbahn und das pulsierende städtische Leben.", "category": "civic", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Château de Brest",
@@ -943,7 +1117,17 @@ const citySeeds: CitySeed[] = [
                   "category": "natural",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Szépművészeti Múzeum", "text": "A háború után újjáépített múzeum gazdag gyűjteménnyel rendelkezik európai festményekből és kortárs alkotásokból.", "category": "museum", "confidence": "high" },
+            { "name": "Brest-i kötélpálya", "text": "Franciaország első városi drótkötélpályája, amely a belvárost köti össze a Capucins negyeddel a Penfeld folyó felett.", "category": "recreational", "confidence": "high" },
+            { "name": "Felfedezők kertje", "text": "Botanikus kert, ahol a híres tengeri felfedezők által a világ távoli pontjairól hazahozott különleges növények láthatók.", "category": "natural", "confidence": "high" },
+            { "name": "Abri Sadi-Carnot", "text": "A második világháború alatt épült hatalmas föld alatti óvóhely, amely ma a város ostromának állít emléket.", "category": "historical", "confidence": "high" },
+            { "name": "Szent Lajos-templom", "text": "Hatalmas modern betonépület, amelyet a háborúban elpusztult régi templom helyén emeltek, Brest újjászületésének jelképe.", "category": "religious", "confidence": "high" },
+            { "name": "Cours Dajot sétány", "text": "A 18. században épült elegáns sétány, ahonnan lenyűgöző kilátás nyílik a tengerre és a katonai kikötőre.", "category": "historical", "confidence": "high" },
+            { "name": "Moulin Blanc jachtkikötő", "text": "A város legnépszerűbb kedvtelési kikötője, amely számos vitorlásverseny és tengeri kirándulás kiindulópontja.", "category": "recreational", "confidence": "high" },
+            { "name": "Brest-i haditengerészeti bázis", "text": "Franciaország egyik legjelentősebb stratégiai katonai kikötője, amely évszázadok óta meghatározza a város életét.", "category": "fortress", "confidence": "high" },
+            { "name": "Jean Jaurès sugárút", "text": "Brest legforgalmasabb kereskedelmi utcája, ahol üzletek, kávézók és a villamosvonal alkotják a város lüktető központját.", "category": "civic", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Castelul din Brest",
@@ -981,7 +1165,17 @@ const citySeeds: CitySeed[] = [
                   "category": "natural",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Muzeul de Arte Frumoase din Brest", "text": "Reconstruit după război, acest muzeu găzduiește o colecție valoroasă de picturi europene din secolul al XVII-lea până în prezent.", "category": "museum", "confidence": "high" },
+            { "name": "Telecabina din Brest", "text": "Prima telecabină urbană din Franța, oferind o traversare spectaculoasă a râului Penfeld spre districtul Capucins.", "category": "recreational", "confidence": "high" },
+            { "name": "Jardin des Explorateurs", "text": "Grădină botanică ce conține plante exotice aduse de marii exploratori marini în cursul expedițiilor lor în jurul lumii.", "category": "natural", "confidence": "high" },
+            { "name": "Abri Sadi-Carnot", "text": "Un buncăr istoric din al Doilea Război Mondial, servind drept adăpost civil în timpul asediului devastator al orașului.", "category": "historical", "confidence": "high" },
+            { "name": "Biserica Saint-Louis", "text": "O biserică modernă masivă construită din beton, ridicată peste ruinele vechiului edificiu distrus complet în timpul războiului.", "category": "religious", "confidence": "high" },
+            { "name": "Cours Dajot", "text": "O promenadă scenică de secol XVIII care oferă panorame spectaculoase asupra radei Brest și portului militar.", "category": "historical", "confidence": "high" },
+            { "name": "Portul de agrement Moulin Blanc", "text": "Principalul port de ambarcațiuni mici din oraș, plin de viață, baruri și punct de plecare pentru croaziere de coastă.", "category": "recreational", "confidence": "high" },
+            { "name": "Baza Navală Brest", "text": "Un port militar strategic de importanță majoră pentru Franța, cu o istorie lungă și facilități impresionante.", "category": "fortress", "confidence": "high" },
+            { "name": "Bulevardul Jean Jaurès", "text": "Principala arteră comercială a orașului, plină de magazine, cafenele și traversată de linia de tramvai modernă.", "category": "civic", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Château de Brest",
@@ -1019,7 +1213,17 @@ const citySeeds: CitySeed[] = [
                   "category": "natural",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Musée des Beaux-Arts de Brest", "text": "Rebuilt after the war, this museum hosts a significant collection of European paintings and contemporary sculptures.", "category": "museum", "confidence": "high" },
+            { "name": "Téléphérique de Brest", "text": "France's first urban cable car, connecting the city center to the Capucins district with great panoramic views.", "category": "recreational", "confidence": "high" },
+            { "name": "Jardin des Explorateurs", "text": "A botanical garden featuring plants brought back by famous explorers from distant lands across the sea to Brest.", "category": "natural", "confidence": "high" },
+            { "name": "Abri Sadi-Carnot", "text": "A historic WWII bunker tunnel that served as a civilian shelter during the 1944 bombings of the city.", "category": "historical", "confidence": "high" },
+            { "name": "Église Saint-Louis", "text": "A massive modern concrete church built over the ruins of the previous cathedral after World War II destruction.", "category": "religious", "confidence": "high" },
+            { "name": "Cours Dajot", "text": "A scenic 18th-century promenade offering spectacular views over the Brest roadstead and the military port.", "category": "historical", "confidence": "high" },
+            { "name": "Port de Plaisance du Moulin Blanc", "text": "The city's main marina, home to many yachts and the starting point for various coastal sailing excursions.", "category": "recreational", "confidence": "high" },
+            { "name": "Base Navale de Brest", "text": "A major strategic French military port with a long history, visible from various viewpoints around the city.", "category": "fortress", "confidence": "high" },
+            { "name": "Avenue Jean Jaurès", "text": "The main commercial artery of Brest, known for its shops, tramway, and vibrant central city atmosphere.", "category": "civic", "confidence": "high" }
+        ]
 }
   },
   {
@@ -1093,7 +1297,20 @@ const citySeeds: CitySeed[] = [
                   "category": "natural",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Hôtel de Ville", "text": "Ein monumentales Gebäude von Victor Laloux, bekannt für seine prächtige Architektur und Statuen.", "category": "civic", "confidence": "high" },
+            { "name": "Grand Théâtre de Tours", "text": "Das Opernhaus der Stadt, ein kulturelles Zentrum mit einer eleganten neoklassizistischen Architektur.", "category": "cultural", "confidence": "high" },
+            { "name": "Muséum d'Histoire Naturelle", "text": "Bietet faszinierende Ausstellungen zur lokalen Fauna, Flora und geologischen Geschichte der Region.", "category": "museum", "confidence": "high" },
+            { "name": "Pont Wilson", "text": "Eine historische Steinbrücke über die Loire, die nach dem US-Präsidenten Woodrow Wilson benannt wurde.", "category": "historical", "confidence": "high" },
+            { "name": "Gare de Tours", "text": "Ein Meisterwerk von Victor Laloux, bekannt für seine beeindruckende Glas- und Eisenstruktur.", "category": "station", "confidence": "high" },
+            { "name": "Hôtel Goüin", "text": "Ein prächtiges Renaissance-Palais mit einer reich verzierten Fassade, das heute für Ausstellungen genutzt wird.", "category": "historical", "confidence": "high" },
+            { "name": "Tour Charlemagne", "text": "Ein Überrest der alten romanischen Basilika Saint-Martin, der über das mittelalterliche Viertel ragt.", "category": "historical", "confidence": "high" },
+            { "name": "Tour de l'Horloge", "text": "Ein weiterer Turm der ursprünglichen Basilika, der früher als Glockenturm der Stadt diente.", "category": "historical", "confidence": "high" },
+            { "name": "Jardin Botanique de Tours", "text": "Ein wunderschöner Garten mit Arzneipflanzen, exotischen Bäumen und einem kleinen Tierpark.", "category": "natural", "confidence": "high" },
+            { "name": "Cloître de la Psalette", "text": "Ein gotischer Kreuzgang neben der Kathedrale, bekannt für seine Ruhe und Architektur.", "category": "religious", "confidence": "high" },
+            { "name": "Prieuré de Saint-Cosme", "text": "Das ehemalige Wohnhaus des Dichters Pierre de Ronsard, umgeben von wunderschönen Rosengärten.", "category": "historical", "confidence": "high" },
+            { "name": "Halles de Tours", "text": "Der zentrale Markt der Stadt, ein Paradies für Liebhaber der Gastronomie des Loire-Tals.", "category": "culinary", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Saint-Gatien katedrális",
@@ -1131,7 +1348,20 @@ const citySeeds: CitySeed[] = [
                   "category": "natural",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Városháza", "text": "Victor Laloux monumentális épülete, amely nagyszerű építészetéről és szobrairól híres.", "category": "civic", "confidence": "high" },
+            { "name": "Nagy Színház", "text": "A város operaháza, jelentős kulturális központ elegáns neoklasszicista építészettel.", "category": "cultural", "confidence": "high" },
+            { "name": "Természettudományi Múzeum", "text": "Lenyűgöző kiállításokat kínál a régió helyi faunájáról, flórájáról és földtani történelméről.", "category": "museum", "confidence": "high" },
+            { "name": "Wilson-híd", "text": "Történelmi kőhíd a Loire folyó felett, amelyet Woodrow Wilson amerikai elnökről neveztek el.", "category": "historical", "confidence": "high" },
+            { "name": "Tours vasútállomás", "text": "Victor Laloux mesterműve, amely lenyűgöző üveg- és vasszerkezetéről nevezetes.", "category": "station", "confidence": "high" },
+            { "name": "Hôtel Goüin", "text": "Pompás reneszánsz palota gazdagon díszített homlokzattal, amely ma kiállításoknak ad otthont.", "category": "historical", "confidence": "high" },
+            { "name": "Nagy Károly-torony", "text": "A régi román stílusú Szent Márton-bazilika maradványa a középkori negyed felett.", "category": "historical", "confidence": "high" },
+            { "name": "Óratorony", "text": "Az eredeti bazilika másik megmaradt tornya, amely korábban a város harangtornyaként szolgált.", "category": "historical", "confidence": "high" },
+            { "name": "Botanikus kert", "text": "Gyönyörű kert gyógynövényekkel, egzotikus fákkal és egy kis állatparkkal a látogatók számára.", "category": "natural", "confidence": "high" },
+            { "name": "Cloître de la Psalette", "text": "Gótikus kolostorfolyosó a katedrális mellett, amely nyugalmáról és építészetéről ismert.", "category": "religious", "confidence": "high" },
+            { "name": "Szent Kozma-perjelség", "text": "Pierre de Ronsard költő egykori lakóháza, amelyet csodálatos rózsakertek vesznek körül.", "category": "historical", "confidence": "high" },
+            { "name": "Tours-i Vásárcsarnok", "text": "A város központi piaca, a Loire-völgy gasztronómiájának és helyi termékeinek paradicsoma.", "category": "culinary", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Catedrala Saint-Gatien",
@@ -1169,7 +1399,20 @@ const citySeeds: CitySeed[] = [
                   "category": "natural",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Primăria din Tours", "text": "O clădire monumentală de Victor Laloux, celebră pentru arhitectura sa grandioasă și statui.", "category": "civic", "confidence": "high" },
+            { "name": "Marele Teatru", "text": "Opera orașului, un centru cultural major cu o arhitectură neoclasică elegantă și rafinată.", "category": "cultural", "confidence": "high" },
+            { "name": "Muzeul de Istorie Naturală", "text": "Oferă expoziții fascinante despre fauna, flora și istoria geologică locală a regiunii.", "category": "museum", "confidence": "high" },
+            { "name": "Podul Wilson", "text": "Un pod istoric de piatră peste fluviul Loara, numit în onoarea președintelui Woodrow Wilson.", "category": "historical", "confidence": "high" },
+            { "name": "Gara din Tours", "text": "O capodoperă a arhitectului Victor Laloux, remarcabilă prin structura sa din sticlă și fier.", "category": "station", "confidence": "high" },
+            { "name": "Hôtel Goüin", "text": "Un palat renascentist magnific cu o fațadă bogat decorată, folosit astăzi pentru expoziții.", "category": "historical", "confidence": "high" },
+            { "name": "Turnul Charlemagne", "text": "O rămășiță a vechii bazilici romanice Saint-Martin, care domină cartierul medieval.", "category": "historical", "confidence": "high" },
+            { "name": "Turnul Ceasului", "text": "Un alt turn al bazilicii originale, care servea în trecut drept clopotniță a orașului.", "category": "historical", "confidence": "high" },
+            { "name": "Grădina Botanică", "text": "O grădină superbă cu plante medicinale, arbori exotici și un mic parc zoologic.", "category": "natural", "confidence": "high" },
+            { "name": "Cloître de la Psalette", "text": "Un claustru gotic situat lângă catedrală, cunoscut pentru liniștea și arhitectura sa.", "category": "religious", "confidence": "high" },
+            { "name": "Prioratul Saint-Cosme", "text": "Fosta locuință a poetului Pierre de Ronsard, înconjurată de grădini de trandafiri superbe.", "category": "historical", "confidence": "high" },
+            { "name": "Halele din Tours", "text": "Piața centrală a orașului, un paradis pentru iubitorii gastronomiei din Valea Loarei.", "category": "culinary", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Saint-Gatien Cathedral",
@@ -1207,7 +1450,20 @@ const citySeeds: CitySeed[] = [
                   "category": "natural",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "City Hall", "text": "A monumental building by Victor Laloux, famous for its grand architecture and ornate statues.", "category": "civic", "confidence": "high" },
+            { "name": "Grand Theater", "text": "The city's opera house, a major cultural hub with elegant neoclassical architecture.", "category": "cultural", "confidence": "high" },
+            { "name": "Natural History Museum", "text": "Offers fascinating exhibitions on the local fauna, flora, and geological history of the region.", "category": "museum", "confidence": "high" },
+            { "name": "Wilson Bridge", "text": "A historic stone bridge across the Loire river, named in honor of US President Woodrow Wilson.", "category": "historical", "confidence": "high" },
+            { "name": "Tours Station", "text": "A masterpiece by Victor Laloux, notable for its impressive glass and iron structure.", "category": "station", "confidence": "high" },
+            { "name": "Hôtel Goüin", "text": "A magnificent Renaissance mansion with a richly decorated facade, now used for exhibitions.", "category": "historical", "confidence": "high" },
+            { "name": "Charlemagne Tower", "text": "A remnant of the old Romanesque Basilica of Saint Martin, towering over the medieval quarter.", "category": "historical", "confidence": "high" },
+            { "name": "Clock Tower", "text": "Another surviving tower of the original basilica, which formerly served as the city's belfry.", "category": "historical", "confidence": "high" },
+            { "name": "Botanical Garden", "text": "A beautiful garden featuring medicinal plants, exotic trees, and a small animal park.", "category": "natural", "confidence": "high" },
+            { "name": "Cloître de la Psalette", "text": "A Gothic cloister next to the cathedral, known for its tranquility and architecture.", "category": "religious", "confidence": "high" },
+            { "name": "Priory of Saint-Cosme", "text": "The former home of the poet Pierre de Ronsard, surrounded by magnificent rose gardens.", "category": "historical", "confidence": "high" },
+            { "name": "Halles de Tours", "text": "The city's central market, a paradise for lovers of Loire Valley gastronomy and local products.", "category": "culinary", "confidence": "high" }
+        ]
 }
   },
   {
@@ -1281,7 +1537,18 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Zoo d'Amiens", "text": "Ein 1952 eröffneter Tierpark im Viertel Hotoie, der über 400 Tiere in einer wasserreichen, grünen Umgebung präsentiert.", "category": "recreational", "confidence": "high" },
+            { "name": "Parc Saint-Pierre", "text": "Ein großer, moderner Stadtpark zwischen dem Zentrum und den Hortillonnages, bekannt für seine weiten Rasenflächen und Teiche.", "category": "natural", "confidence": "high" },
+            { "name": "Tour Perret", "text": "Ein markanter, 110 Meter hoher Wohnturm aus Stahlbeton, der nach dem Zweiten Weltkrieg als Symbol des Wiederaufbaus errichtet wurde.", "category": "civic", "confidence": "high" },
+            { "name": "Église Saint-Germain-l'Écossais", "text": "Eine spätgotische Kirche aus dem 15. Jahrhundert, die trotz der Zerstörungen des Krieges ihren charakteristischen schiefen Turm bewahrt hat.", "category": "religious", "confidence": "high" },
+            { "name": "Citadelle d'Amiens", "text": "Eine im 16. Jahrhundert unter Heinrich IV. erbaute Festung, die heute als moderner Universitätscampus mit historischem Flair dient.", "category": "fortress", "confidence": "high" },
+            { "name": "Cimetière de la Madeleine", "text": "Ein romantischer Landschaftsfriedhof, auf dem sich das Grab des berühmten Schriftstellers Jules Verne mit einer markanten Skulptur befindet.", "category": "historical", "confidence": "high" },
+            { "name": "Logis du Roi", "text": "Ein elegantes Backsteingebäude aus dem 16. Jahrhundert, das einst als Residenz für die Gouverneure von Picardie und den König diente.", "category": "historical", "confidence": "high" },
+            { "name": "Maison du Sagittaire", "text": "Ein prächtiges Renaissance-Haus aus dem Jahr 1593 mit einer reich verzierten Fassade, die mythologische Figuren und Ornamente zeigt.", "category": "historical", "confidence": "high" },
+            { "name": "Cirque Jules Verne", "text": "Ein beeindruckender fester Zirkusbau aus dem Jahr 1889, der von Jules Verne eingeweiht wurde und Platz für 1.600 Zuschauer bietet.", "category": "cultural", "confidence": "high" },
+            { "name": "Théâtre des Cabotans", "text": "Ein traditionelles Marionettentheater, das die lokale Figur Lafleur zum Leben erweckt und das kulturelle Erbe der Picardie pflegt.", "category": "cultural", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Amiens-i katedrális",
@@ -1319,7 +1586,18 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Zoo d'Amiens", "text": "Az 1952-ben megnyitott állatkert a Hotoie negyedben található, és több mint 400 állatnak ad otthont zöld környezetben.", "category": "recreational", "confidence": "high" },
+            { "name": "Parc Saint-Pierre", "text": "Modern városi park a központ és a Hortillonnages között, amely tágas gyepfelületeiről és festői tavairól ismert.", "category": "natural", "confidence": "high" },
+            { "name": "Tour Perret", "text": "Egy 110 méter magas lakótorony, amelyet a második világháború után az újjáépítés szimbólumaként emeltek vasbetonból.", "category": "civic", "confidence": "high" },
+            { "name": "Église Saint-Germain-l'Écossais", "text": "15. századi késő gótikus templom, amely a háborús pusztítások ellenére megőrizte jellegzetes ferde tornyát és ódon hangulatát.", "category": "religious", "confidence": "high" },
+            { "name": "Citadelle d'Amiens", "text": "IV. Henrik idején, a 16. században épült erődítmény, amely ma modern egyetemi kampuszként működik történelmi falak között.", "category": "fortress", "confidence": "high" },
+            { "name": "Cimetière de la Madeleine", "text": "Romantikus tájképi temető, ahol a híres író, Jules Verne sírja található egy látványos, feltámadást ábrázoló szoborral.", "category": "historical", "confidence": "high" },
+            { "name": "Logis du Roi", "text": "Elegáns, 16. századi téglaépület, amely egykor a picardiai kormányzók és a király rezidenciájaként szolgált a város szívében.", "category": "historical", "confidence": "high" },
+            { "name": "Maison du Sagittaire", "text": "Pompás, 1593-ban épült reneszánsz ház gazdagon díszített homlokzattal, amely mitológiai alakokat és különleges díszeket ábrázol.", "category": "historical", "confidence": "high" },
+            { "name": "Cirque Jules Verne", "text": "Lenyűgöző, 1889-ben épült állandó cirkuszépület, amelyet maga Jules Verne avatott fel, és 1600 néző befogadására alkalmas.", "category": "cultural", "confidence": "high" },
+            { "name": "Théâtre des Cabotans", "text": "Hagyományos bábszínház, amely a helyi Lafleur figurát kelti életre, és hűen ápolja Picardia egyedülálló kulturális örökségét.", "category": "cultural", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Catedrala Notre-Dame din Amiens",
@@ -1357,7 +1635,18 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Zoo d'Amiens", "text": "Inaugurată în 1952, această grădină zoologică găzduiește peste 400 de animale într-un cadru natural bogat în cursuri de apă.", "category": "recreational", "confidence": "high" },
+            { "name": "Parc Saint-Pierre", "text": "Un parc urban modern situat între centru și Hortillonnages, renumit pentru peluzele sale vaste și iazurile liniștite.", "category": "natural", "confidence": "high" },
+            { "name": "Tour Perret", "text": "Un turn rezidențial emblematic de 110 metri înălțime, construit după cel de-al Doilea Război Mondial ca simbol al reconstrucției.", "category": "civic", "confidence": "high" },
+            { "name": "Église Saint-Germain-l'Écossais", "text": "O biserică în stil gotic târziu din secolul al XV-lea care, în ciuda distrugerilor de război, și-a păstrat turnul înclinat.", "category": "religious", "confidence": "high" },
+            { "name": "Citadelle d'Amiens", "text": "O cetate construită în secolul al XVI-lea sub Henric al IV-lea, transformată astăzi într-un campus universitar modern și istoric.", "category": "fortress", "confidence": "high" },
+            { "name": "Cimetière de la Madeleine", "text": "Un cimitir peisagistic romantic unde se află mormântul celebrului scriitor Jules Verne, decorat cu o sculptură impresionantă.", "category": "historical", "confidence": "high" },
+            { "name": "Logis du Roi", "text": "O clădire elegantă din cărămidă din secolul al XVI-lea, care a servit drept reședință pentru guvernatorii Picardiei și pentru rege.", "category": "historical", "confidence": "high" },
+            { "name": "Maison du Sagittaire", "text": "O casă renascentistă superbă din 1593, cu o fațadă bogat decorată ce prezintă figuri mitologice și motive ornamentale complexe.", "category": "historical", "confidence": "high" },
+            { "name": "Cirque Jules Verne", "text": "Un circ fix impresionant construit în 1889 și inaugurat de Jules Verne, oferind o capacitate de 1.600 de locuri pentru spectacole.", "category": "cultural", "confidence": "high" },
+            { "name": "Théâtre des Cabotans", "text": "Un teatru tradițional de marionete care îi dă viață personajului local Lafleur, păstrând moștenirea culturală a regiunii Picardia.", "category": "cultural", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Amiens Cathedral",
@@ -1395,7 +1684,18 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Zoo d'Amiens", "text": "Opened in 1952, this zoo in the Hotoie district features over 400 animals in a lush, water-filled natural setting.", "category": "recreational", "confidence": "high" },
+            { "name": "Parc Saint-Pierre", "text": "A large, modern urban park located between the city center and the Hortillonnages, known for its vast lawns and ponds.", "category": "natural", "confidence": "high" },
+            { "name": "Tour Perret", "text": "An iconic 110-meter tall residential tower made of reinforced concrete, built after WWII as a symbol of the city's reconstruction.", "category": "civic", "confidence": "high" },
+            { "name": "Église Saint-Germain-l'Écossais", "text": "A 15th-century late Gothic church that has preserved its characteristic leaning tower despite the heavy destruction of the wars.", "category": "religious", "confidence": "high" },
+            { "name": "Citadelle d'Amiens", "text": "A fortress built in the 16th century under Henry IV, which now serves as a modern university campus within historic ramparts.", "category": "fortress", "confidence": "high" },
+            { "name": "Cimetière de la Madeleine", "text": "A romantic landscaped cemetery housing the grave of the famous writer Jules Verne, featuring a striking Resurrection-themed sculpture.", "category": "historical", "confidence": "high" },
+            { "name": "Logis du Roi", "text": "An elegant 16th-century brick building that once served as a residence for the governors of Picardy and the visiting king.", "category": "historical", "confidence": "high" },
+            { "name": "Maison du Sagittaire", "text": "A magnificent Renaissance house built in 1593 with a richly decorated facade featuring mythological figures and ornate carvings.", "category": "historical", "confidence": "high" },
+            { "name": "Cirque Jules Verne", "text": "An impressive permanent circus building from 1889, inaugurated by Jules Verne, with a capacity for 1,600 spectators.", "category": "cultural", "confidence": "high" },
+            { "name": "Théâtre des Cabotans", "text": "A traditional puppet theater that brings the local character Lafleur to life, preserving the unique cultural heritage of Picardy.", "category": "cultural", "confidence": "high" }
+        ]
 }
   },
   {
@@ -1469,7 +1769,18 @@ const citySeeds: CitySeed[] = [
                   "category": "religious",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Musée des Beaux-Arts", "text": "Das im ehemaligen Bischofspalast untergebrachte Museum zeigt bedeutende Sammlungen von Emaillearbeiten und ägyptischen Antiquitäten.", "category": "museum", "confidence": "high" },
+            { "name": "Musée de la Résistance", "text": "In einem ehemaligen Kloster untergebracht, dokumentiert dieses Museum die Geschichte des Widerstands in der Region während des Krieges.", "category": "museum", "confidence": "high" },
+            { "name": "Halles Centrales", "text": "Eine markante Markthalle mit einer Fassade aus Porzellankacheln, in der lokale Spezialitäten wie Fleisch und Käse angeboten werden.", "category": "culinary", "confidence": "high" },
+            { "name": "Pavillon du Verdurier", "text": "Ein originelles Art-déco-Gebäude, das ursprünglich als Kühlhaus für Fleisch diente und heute für kulturelle Ausstellungen genutzt wird.", "category": "cultural", "confidence": "high" },
+            { "name": "Église Saint-Pierre-du-Queyroix", "text": "Eine gotische Kirche mit einem markanten Turm im Stil von Limoges, die wertvolle Glasmalereien aus dem 16. Jahrhundert beherbergt.", "category": "religious", "confidence": "high" },
+            { "name": "Pont Saint-Martial", "text": "Eine mittelalterliche Steinbrücke über die Vienne, die auf römischen Fundamenten steht und einst Teil des Jakobswegs war.", "category": "historical", "confidence": "high" },
+            { "name": "Pont Saint-Étienne", "text": "Diese im 13. Jahrhundert errichtete Brücke bietet einen malerischen Blick auf die Kathedrale und den Fluss Vienne.", "category": "historical", "confidence": "high" },
+            { "name": "Aquarium du Limousin", "text": "In einem ehemaligen unterirdischen Wasserreservoir untergebracht, zeigt dieses Aquarium eine Vielzahl von Süß- und Salzwasserfischen.", "category": "recreational", "confidence": "high" },
+            { "name": "Musée de la Boucherie", "text": "Dieses kleine Museum im Schlachthofviertel bewahrt die Traditionen der Zunft der Metzger und zeigt die Einrichtung eines alten Ladens.", "category": "museum", "confidence": "high" },
+            { "name": "Bibliothèque Francophone Multimédia", "text": "Ein modernes Architektur-Highlight, das die Überreste eines gallo-römischen Mosaiks in seinen modernen Glasbau integriert hat.", "category": "cultural", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Saint-Étienne székesegyház",
@@ -1507,7 +1818,18 @@ const citySeeds: CitySeed[] = [
                   "category": "religious",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Musée des Beaux-Arts", "text": "Az egykori püspöki palotában helyet kapott múzeum jelentős zománcművészeti gyűjteményt és egyiptomi régiségeket mutat be.", "category": "museum", "confidence": "high" },
+            { "name": "Musée de la Résistance", "text": "Egy egykori kolostorban kialakított múzeum, amely a régió ellenállási mozgalmának történetét mutatja be a második világháború alatt.", "category": "museum", "confidence": "high" },
+            { "name": "Halles Centrales", "text": "Jellegzetes, porceláncsempékkel díszített vásárcsarnok, ahol helyi specialitásokat, húsféléket és sajtokat kínálnak a látogatóknak.", "category": "culinary", "confidence": "high" },
+            { "name": "Pavillon du Verdurier", "text": "Különleges Art Déco épület, amely eredetileg húsfélék hűtőházaként szolgált, ma pedig kulturális kiállításoknak ad otthont.", "category": "cultural", "confidence": "high" },
+            { "name": "Église Saint-Pierre-du-Queyroix", "text": "Gótikus templom jellegzetes limoges-i stílusú toronnyal, amely értékes 16. századi üvegablakokat és művészeti kincseket őriz.", "category": "religious", "confidence": "high" },
+            { "name": "Pont Saint-Martial", "text": "Középkori kőhíd a Vienne folyón, amely római alapokon nyugszik, és egykor a Szent Jakab-zarándokút fontos állomása volt.", "category": "historical", "confidence": "high" },
+            { "name": "Pont Saint-Étienne", "text": "Ez a 13. században épült híd festői kilátást nyújt a székesegyházra és a Vienne folyóra a város egyik legrégebbi részén.", "category": "historical", "confidence": "high" },
+            { "name": "Aquarium du Limousin", "text": "Egy egykori földalatti víztározóban kialakított akvárium, amely édesvízi és tengeri halak széles választékát mutatja be.", "category": "recreational", "confidence": "high" },
+            { "name": "Musée de la Boucherie", "text": "A mészárosok negyedében található kis múzeum a céh hagyományait őrzi, bemutatva egy régi üzlet berendezéseit és eszközeit.", "category": "museum", "confidence": "high" },
+            { "name": "Bibliothèque Francophone Multimédia", "text": "Modern építészeti remekmű, amely egy gall-római mozaik maradványait integrálja a látványos, üvegből készült épületegyüttesbe.", "category": "cultural", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Catedrala Saint-Étienne",
@@ -1545,7 +1867,18 @@ const citySeeds: CitySeed[] = [
                   "category": "religious",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Musée des Beaux-Arts", "text": "Gazduit în fostul palat episcopal, muzeul expune colecții remarcabile de emailuri de Limoges și antichități egiptene prețioase.", "category": "museum", "confidence": "high" },
+            { "name": "Musée de la Résistance", "text": "Situat într-o fostă mănăstire, acest muzeu documentează istoria rezistenței locale din regiune în timpul celui de-al Doilea Război Mondial.", "category": "museum", "confidence": "high" },
+            { "name": "Halles Centrales", "text": "O hală centrală emblematică, cu o fațadă decorată cu plăci de porțelan, oferind specialități locale, brânzeturi și preparate din carne.", "category": "culinary", "confidence": "high" },
+            { "name": "Pavillon du Verdurier", "text": "O clădire Art Deco originală, utilizată inițial ca antrepozit frigorific pentru carne, servind astăzi drept spațiu pentru expoziții.", "category": "cultural", "confidence": "high" },
+            { "name": "Église Saint-Pierre-du-Queyroix", "text": "O biserică gotică cu un turn distinctiv în stilul specific orașului Limoges, adăpostind vitralii valoroase din secolul al XVI-lea.", "category": "religious", "confidence": "high" },
+            { "name": "Pont Saint-Martial", "text": "Un pod medieval de piatră peste râul Vienne, construit pe fundații romane, fiind odinioară o etapă importantă pe drumul spre Compostela.", "category": "historical", "confidence": "high" },
+            { "name": "Pont Saint-Étienne", "text": "Construit în secolul al XIII-lea, acest pod oferă o vedere pitorească asupra catedralei și a râului Vienne în partea veche a orașului.", "category": "historical", "confidence": "high" },
+            { "name": "Aquarium du Limousin", "text": "Situat într-un fost rezervor subteran de apă, acest acvariu prezintă o mare varietate de pești de apă dulce și specii marine.", "category": "recreational", "confidence": "high" },
+            { "name": "Musée de la Boucherie", "text": "Acest mic muzeu situat în cartierul măcelarilor păstrează tradițiile breslei și prezintă interiorul unei vechi prăvălii specifice.", "category": "museum", "confidence": "high" },
+            { "name": "Bibliothèque Francophone Multimédia", "text": "Un reper arhitectural modern care integrează rămășițele unui mozaic galo-roman în structura sa contemporană de sticlă și oțel.", "category": "cultural", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Limoges Cathedral",
@@ -1583,7 +1916,18 @@ const citySeeds: CitySeed[] = [
                   "category": "religious",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Musée des Beaux-Arts", "text": "Housed in the former episcopal palace, this museum features significant collections of Limoges enamels and Egyptian antiquities.", "category": "museum", "confidence": "high" },
+            { "name": "Musée de la Résistance", "text": "Located in a former convent, this museum documents the history of the local Resistance in the region during World War II.", "category": "museum", "confidence": "high" },
+            { "name": "Halles Centrales", "text": "An iconic covered market with a porcelain-tiled facade, offering local specialties including Limousin beef, cheeses, and pastries.", "category": "culinary", "confidence": "high" },
+            { "name": "Pavillon du Verdurier", "text": "An original Art Deco building originally used as a refrigerated warehouse for meat, now serving as a space for cultural exhibitions.", "category": "cultural", "confidence": "high" },
+            { "name": "Église Saint-Pierre-du-Queyroix", "text": "A Gothic church with a distinctive Limoges-style tower, housing valuable 16th-century stained glass windows and religious art.", "category": "religious", "confidence": "high" },
+            { "name": "Pont Saint-Martial", "text": "A medieval stone bridge over the Vienne river built on Roman foundations, once serving as an important stage on the Way of St. James.", "category": "historical", "confidence": "high" },
+            { "name": "Pont Saint-Étienne", "text": "Built in the 13th century, this bridge offers a picturesque view of the cathedral and the Vienne river in the city's old quarter.", "category": "historical", "confidence": "high" },
+            { "name": "Aquarium du Limousin", "text": "Set in a former underground water reservoir, this aquarium displays a wide variety of freshwater fish and marine species.", "category": "recreational", "confidence": "high" },
+            { "name": "Musée de la Boucherie", "text": "This small museum in the butchers' quarter preserves the guild's traditions and displays the interior of an old meat shop.", "category": "museum", "confidence": "high" },
+            { "name": "Bibliothèque Francophone Multimédia", "text": "A modern architectural landmark that integrates the remains of a Gallo-Roman mosaic into its contemporary glass and steel structure.", "category": "cultural", "confidence": "high" }
+        ]
 }
   },
   {
@@ -1657,7 +2001,18 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Place Saint-Louis", "text": "Ein mittelalterlicher Platz mit Laubenhäusern, der für seine italienisch inspirierte Architektur bekannt ist.", "category": "historical", "confidence": "high" },
+            { "name": "Bahnhof Metz", "text": "Ein monumentaler Bahnhof aus der deutschen Zeit, berühmt für seine neuromanische Architektur und Pracht.", "category": "station", "confidence": "high" },
+            { "name": "Basilika Saint-Pierre-aux-Nonnains", "text": "Eine der ältesten Kirchen Europas, die im 4. Jahrhundert ursprünglich als römische Turnhalle erbaut wurde.", "category": "religious", "confidence": "high" },
+            { "name": "Musée de la Cour d'Or", "text": "Ein archäologisches Museum mit bedeutenden gallorömischen Funden und mittelalterlichen Schätzen der Region.", "category": "museum", "confidence": "high" },
+            { "name": "Esplanade de Metz", "text": "Ein weitläufiger Stadtpark mit Panoramablick auf das Moseltal und die umliegenden historischen Bauwerke.", "category": "recreational", "confidence": "high" },
+            { "name": "Botanischer Garten Metz", "text": "Ein über 4 Hektar großer Garten mit Gewächshäusern, seltenen Pflanzenarten und thematischen Gartenanlagen.", "category": "natural", "confidence": "high" },
+            { "name": "Arsenal de Metz", "text": "Ein ehemaliges Militärgebäude, das vom Architekten Ricardo Bofill in einen erstklassigen Konzertsaal umgewandelt wurde.", "category": "cultural", "confidence": "high" },
+            { "name": "Kirche Saint-Maximin", "text": "Diese Kirche ist bekannt für ihre einzigartigen Glasmalereien, die vom berühmten Künstler Jean Cocteau entworfen wurden.", "category": "religious", "confidence": "high" },
+            { "name": "Cloître des Récollets", "text": "Ein ruhiger franziskanischer Kreuzgang aus dem 14. Jahrhundert, in dem heute das Europäische Institut für Ökologie residiert.", "category": "monastic", "confidence": "high" },
+            { "name": "Opéra-Théâtre de Metz", "text": "Das älteste noch bespielte Opernhaus Frankreichs mit einer eleganten Fassade aus dem 18. Jahrhundert.", "category": "cultural", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Saint-Étienne székesegyház",
@@ -1695,7 +2050,18 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Place Saint-Louis", "text": "Középkori tér árkádos házakkal, amely olaszos építészetéről és pezsgő hangulatáról nevezetes.", "category": "historical", "confidence": "high" },
+            { "name": "Gare de Metz", "text": "Monumentális vasútállomás a német korszakból, amely neoromán stílusáról és díszes kialakításáról híres.", "category": "station", "confidence": "high" },
+            { "name": "Basilique Saint-Pierre-aux-Nonnains", "text": "Európa egyik legrégebbi temploma, amely eredetileg római tornateremnek épült a 4. században.", "category": "religious", "confidence": "high" },
+            { "name": "Musée de la Cour d'Or", "text": "Régészeti és művészeti múzeum, amely kivételes gall-római gyűjteménynek és középkori romoknak ad otthont.", "category": "museum", "confidence": "high" },
+            { "name": "Esplanade de Metz", "text": "Gyönyörű városi park, amely panorámás kilátást nyújt a Mosel-völgyre és a történelmi épületekre.", "category": "recreational", "confidence": "high" },
+            { "name": "Jardin Botanique de Metz", "text": "4,4 hektáros botanikus kert üvegházakkal, ritka növényekkel és tematikus kertek széles választékával.", "category": "natural", "confidence": "high" },
+            { "name": "Arsenal de Metz", "text": "Egykori katonai épület, amelyet Ricardo Bofill építész alakított át világszínvonalú koncertteremmé.", "category": "cultural", "confidence": "high" },
+            { "name": "Église Saint-Maximin", "text": "A templom az egyedi, Jean Cocteau által tervezett modern üvegablakairól vált híressé.", "category": "religious", "confidence": "high" },
+            { "name": "Cloître des Récollets", "text": "Békés 14. századi ferences kolostorudvar, amely ma az Európai Ökológiai Intézet székhelye.", "category": "monastic", "confidence": "high" },
+            { "name": "Opéra-Théâtre de Metz", "text": "Franciaország legrégebbi, ma is működő operaháza, amely elegáns 18. századi homlokzattal rendelkezik.", "category": "cultural", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Catedrala Saint-Étienne",
@@ -1733,7 +2099,18 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Place Saint-Louis", "text": "O piață medievală cu case cu arcade, cunoscută pentru arhitectura sa de inspirație italiană.", "category": "historical", "confidence": "high" },
+            { "name": "Gara din Metz", "text": "O gară monumentală construită în perioada anexării germane, faimoasă pentru stilul său neoromanic.", "category": "station", "confidence": "high" },
+            { "name": "Basilique Saint-Pierre-aux-Nonnains", "text": "Una dintre cele mai vechi biserici din Europa, construită inițial ca gimnaziu roman în secolul al IV-lea.", "category": "religious", "confidence": "high" },
+            { "name": "Musée de la Cour d'Or", "text": "Muzeu de arheologie și artă care adăpostește colecții galo-romane excepționale și vestigii medievale.", "category": "museum", "confidence": "high" },
+            { "name": "Esplanade de Metz", "text": "Un parc urban frumos care oferă vederi panoramice asupra văii Moselle și a clădirilor istorice.", "category": "recreational", "confidence": "high" },
+            { "name": "Grădina Botanică din Metz", "text": "O grădină botanică de 4,4 hectare ce include sere, plante rare și diverse grădini tematice.", "category": "natural", "confidence": "high" },
+            { "name": "Arsenal de Metz", "text": "O fostă clădire militară transformată într-o sală de concerte de talie mondială de către Ricardo Bofill.", "category": "cultural", "confidence": "high" },
+            { "name": "Église Saint-Maximin", "text": "Cunoscută pentru vitraliile sale unice create de celebrul artist francez Jean Cocteau.", "category": "religious", "confidence": "high" },
+            { "name": "Cloître des Récollets", "text": "O mănăstire franciscană senină din secolul al XIV-lea, care găzduiește acum Institutul European de Ecologie.", "category": "monastic", "confidence": "high" },
+            { "name": "Opéra-Théâtre de Metz", "text": "Cea mai veche operă din Franța aflată încă în activitate, având o fațadă elegantă din secolul al XVIII-lea.", "category": "cultural", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Metz Cathedral",
@@ -1771,7 +2148,18 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Place Saint-Louis", "text": "A medieval square with arcaded houses, known for its Italian-inspired architecture and lively atmosphere.", "category": "historical", "confidence": "high" },
+            { "name": "Gare de Metz", "text": "A monumental railway station built during the German annexation, famous for its Neo-Romanesque architecture.", "category": "station", "confidence": "high" },
+            { "name": "Basilique Saint-Pierre-aux-Nonnains", "text": "One of the oldest churches in Europe, originally built as a Roman gymnasium in the 4th century.", "category": "religious", "confidence": "high" },
+            { "name": "Musée de la Cour d'Or", "text": "An archeological and art museum housing exceptional Gallo-Roman collections and medieval remains.", "category": "museum", "confidence": "high" },
+            { "name": "Esplanade de Metz", "text": "A beautiful urban park offering panoramic views of the Moselle valley and the surrounding historic buildings.", "category": "recreational", "confidence": "high" },
+            { "name": "Jardin Botanique de Metz", "text": "A 4.4-hectare botanical garden featuring greenhouses, rare plants, and a variety of themed gardens.", "category": "natural", "confidence": "high" },
+            { "name": "Arsenal de Metz", "text": "A former military building converted into a world-class concert hall by architect Ricardo Bofill.", "category": "cultural", "confidence": "high" },
+            { "name": "Église Saint-Maximin", "text": "Known for its unique stained-glass windows designed by the famous French artist Jean Cocteau.", "category": "religious", "confidence": "high" },
+            { "name": "Cloître des Récollets", "text": "A serene 14th-century Franciscan cloister that now houses the European Institute of Ecology.", "category": "monastic", "confidence": "high" },
+            { "name": "Opéra-Théâtre de Metz", "text": "The oldest opera house in France still in activity, featuring an elegant 18th-century facade.", "category": "cultural", "confidence": "high" }
+        ]
 }
   },
   {
@@ -1845,7 +2233,18 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Musée d'art Hyacinthe Rigaud", "text": "Ein Kunstmuseum, das Werke von der Gotik bis zur Moderne zeigt, darunter Stücke von Rigaud und Picasso.", "category": "museum", "confidence": "high" },
+            { "name": "Place de la Loge", "text": "Das Herz der Stadt, gepflastert mit rosa Marmor und umgeben von historischen Verwaltungsgebäuden.", "category": "historical", "confidence": "high" },
+            { "name": "Bahnhof Perpignan", "text": "Von Salvador Dalí als Zentrum des Universums bezeichnet, mit einer von seinem Surrealismus inspirierten Fassade.", "category": "station", "confidence": "high" },
+            { "name": "Kirche Saint-Jacques", "text": "Eine gotische Kirche, die als Ausgangspunkt der traditionellen Procession de la Sanch bekannt ist.", "category": "religious", "confidence": "high" },
+            { "name": "Parc de la Pépinière", "text": "Eine große Grünfläche im Stadtzentrum, ideal für Spaziergänge zwischen Brunnen und alten Bäumen.", "category": "natural", "confidence": "high" },
+            { "name": "Palais de la Députation", "text": "Ein prächtiges Gebäude aus dem 15. Jahrhundert, das einst die katalanische Regierung repräsentierte.", "category": "historical", "confidence": "high" },
+            { "name": "Casa Xanxo", "text": "Ein prächtiges gotisches Bürgerhaus eines reichen Händlers mit einem kunstvoll gestalteten Fries.", "category": "historical", "confidence": "high" },
+            { "name": "Square Bir-Hakeim", "text": "Ein charmanter Garten an den Stadtmauern mit Denkmälern und einer friedlichen Atmosphäre zum Entspannen.", "category": "recreational", "confidence": "high" },
+            { "name": "Théâtre de l'Archipel", "text": "Ein zeitgenössisches architektonisches Wahrzeichen von Jean Nouvel, das verschiedene Künste beherbergt.", "category": "cultural", "confidence": "high" },
+            { "name": "Couvent des Minimes", "text": "Ein ehemaliges Kloster mit einem großen Kreuzgang, das heute für kulturelle Ausstellungen genutzt wird.", "category": "monastic", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Mallorca királyainak palotája",
@@ -1883,7 +2282,18 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Musée d'art Hyacinthe Rigaud", "text": "Szépművészeti múzeum a gótikától a modern művészetig, Rigaud és Picasso műveivel a középpontban.", "category": "museum", "confidence": "high" },
+            { "name": "Place de la Loge", "text": "A város szíve, amelyet rózsaszín márvány burkol és történelmi közigazgatási épületek vesznek körül.", "category": "historical", "confidence": "high" },
+            { "name": "Gare de Perpignan", "text": "Salvador Dalí által a Világmindenség Közepének nevezett állomás, szürrealista homlokzattal.", "category": "station", "confidence": "high" },
+            { "name": "Église Saint-Jacques", "text": "Gótikus templom, amely a hagyományos Procession de la Sanch körmenet kiindulópontjaként ismert.", "category": "religious", "confidence": "high" },
+            { "name": "Parc de la Pépinière", "text": "Nagy zöldterület a belvárosban, szökőkutakkal és változatos fafajokkal a sétálók örömére.", "category": "natural", "confidence": "high" },
+            { "name": "Palais de la Députation", "text": "Gyönyörű 15. századi épület, amely egykor a katalán kormány képviseletének székhelye volt.", "category": "historical", "confidence": "high" },
+            { "name": "Casa Xanxo", "text": "Pompás gótikus polgárház, amelyet egy gazdag kereskedő építtetett, híres faragott frízéről.", "category": "historical", "confidence": "high" },
+            { "name": "Square Bir-Hakeim", "text": "Bájos kert a városfalak közelében, emlékművekkel és békés környezettel a kikapcsolódáshoz.", "category": "recreational", "confidence": "high" },
+            { "name": "Théâtre de l'Archipel", "text": "Jean Nouvel által tervezett kortárs építészeti nevezetesség, amely változatos előadásoknak ad otthont.", "category": "cultural", "confidence": "high" },
+            { "name": "Couvent des Minimes", "text": "Egykori kolostor hatalmas kerengővel, amelyet ma kulturális kiállításokhoz és rendezvényekhez használnak.", "category": "monastic", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Palatul Regilor de Mallorca",
@@ -1921,7 +2331,18 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Musée d'art Hyacinthe Rigaud", "text": "Muzeu de arte frumoase care expune lucrări din perioada gotică până la arta modernă, inclusiv Rigaud și Picasso.", "category": "museum", "confidence": "high" },
+            { "name": "Place de la Loge", "text": "Inima orașului, pavată cu marmură roz și înconjurată de clădiri administrative istorice.", "category": "historical", "confidence": "high" },
+            { "name": "Gara din Perpignan", "text": "Supranumită centrul universului de Salvador Dalí, cu o fațadă inspirată de arta sa suprarealistă.", "category": "station", "confidence": "high" },
+            { "name": "Église Saint-Jacques", "text": "Biserică gotică celebră ca punct de plecare al tradiționalei Procesiuni de la Sanch.", "category": "religious", "confidence": "high" },
+            { "name": "Parc de la Pépinière", "text": "Un spațiu verde mare în centrul orașului, perfect pentru plimbări cu fântâni și specii diverse de arbori.", "category": "natural", "confidence": "high" },
+            { "name": "Palais de la Députation", "text": "O clădire frumoasă din secolul al XV-lea care a servit drept reprezentanță a guvernului catalan.", "category": "historical", "confidence": "high" },
+            { "name": "Casa Xanxo", "text": "O casă orășenească gotică magnifică construită de un negustor bogat, cunoscută pentru friza sculptată.", "category": "historical", "confidence": "high" },
+            { "name": "Square Bir-Hakeim", "text": "O grădină fermecătoare lângă zidurile orașului, oferind monumente și o atmosferă liniștită.", "category": "recreational", "confidence": "high" },
+            { "name": "Théâtre de l'Archipel", "text": "Un reper arhitectural contemporan proiectat de Jean Nouvel, găzduind diverse arte ale spectacolului.", "category": "cultural", "confidence": "high" },
+            { "name": "Couvent des Minimes", "text": "O fostă mănăstire cu un claustru mare, folosită astăzi pentru expoziții culturale și evenimente.", "category": "monastic", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Palace of the Kings of Majorca",
@@ -1959,7 +2380,18 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Musée d'art Hyacinthe Rigaud", "text": "A fine arts museum showcasing works from the Gothic period to modern art, including Rigaud and Picasso.", "category": "museum", "confidence": "high" },
+            { "name": "Place de la Loge", "text": "The heart of the city, paved with pink marble and surrounded by historic administrative buildings.", "category": "historical", "confidence": "high" },
+            { "name": "Gare de Perpignan", "text": "Dubbed the center of the universe by Salvador Dalí, featuring a facade inspired by his surrealist art.", "category": "station", "confidence": "high" },
+            { "name": "Église Saint-Jacques", "text": "A Gothic church famous for being the departure point of the traditional Procession de la Sanch.", "category": "religious", "confidence": "high" },
+            { "name": "Parc de la Pépinière", "text": "A large green space in the city center, perfect for strolls with its fountains and diverse tree species.", "category": "natural", "confidence": "high" },
+            { "name": "Palais de la Députation", "text": "A beautiful 15th-century building that once served as the representation of the Catalan government.", "category": "historical", "confidence": "high" },
+            { "name": "Casa Xanxo", "text": "A magnificent Gothic town house built by a wealthy merchant, known for its detailed sculpted frieze.", "category": "historical", "confidence": "high" },
+            { "name": "Square Bir-Hakeim", "text": "A charming garden near the city walls, featuring monuments and a peaceful atmosphere for relaxation.", "category": "recreational", "confidence": "high" },
+            { "name": "Théâtre de l'Archipel", "text": "A contemporary architectural landmark designed by Jean Nouvel, hosting various performing arts.", "category": "cultural", "confidence": "high" },
+            { "name": "Couvent des Minimes", "text": "A former monastery with a large cloister, now used for cultural exhibitions and events.", "category": "monastic", "confidence": "high" }
+        ]
 }
   },
   {
@@ -2033,7 +2465,18 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Musée du Temps", "text": "Uhrenmuseum im Palais Granvelle, das die Geschichte der präzisen Zeitmessung in der Region thematisiert.", "category": "museum", "confidence": "high" },
+            { "name": "Fort Griffon", "text": "Ein von Vauban errichtetes Verteidigungswerk aus dem 17. Jahrhundert mit Aussicht auf den Doubs.", "category": "fortress", "confidence": "high" },
+            { "name": "Fort de Chaudanne", "text": "Festungsanlage auf einem Hügel gegenüber der Zitadelle, ein wichtiger Teil der historischen Stadtbefestigung.", "category": "fortress", "confidence": "high" },
+            { "name": "Église Sainte-Madeleine", "text": "Barockkirche aus dem 18. Jahrhundert mit markanten Doppeltürmen direkt am Ufer des Doubs gelegen.", "category": "religious", "confidence": "high" },
+            { "name": "Parc de la Gare d'Eau", "text": "Ruhige Grünanlage in einer Doubs-Schleife am Fuße der Zitadelle, ideal für Spaziergänge im Grünen.", "category": "recreational", "confidence": "high" },
+            { "name": "Pont Battant", "text": "Historische Brücke aus Stein, die das moderne Stadtzentrum mit dem traditionellen Viertel Battant verbindet.", "category": "historical", "confidence": "high" },
+            { "name": "Synagoge von Besançon", "text": "Bauwerk im maurisch-andalusischen Stil, erbaut Ende des 19. Jahrhunderts in der Nähe des Zentrums.", "category": "religious", "confidence": "high" },
+            { "name": "Botanischer Garten", "text": "Wissenschaftlicher Garten der Universität mit wertvollen Heilpflanzen, Alpengarten und Gewächshäusern.", "category": "natural", "confidence": "high" },
+            { "name": "Théâtre Ledoux", "text": "Klassizistisches Theatergebäude aus dem Jahr 1778, entworfen vom Architekten Claude-Nicolas Ledoux.", "category": "cultural", "confidence": "high" },
+            { "name": "Palais de Justice", "text": "Gerichtsgebäude mit einer aufwendigen Renaissance-Fassade im Herzen der historischen Altstadt.", "category": "civic", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Besançoni citadella",
@@ -2071,7 +2514,18 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Idő múzeuma", "text": "Az idő múzeuma a Granvelle-palotában, amely az óragyártás és a kronometria történetét mutatja be.", "category": "museum", "confidence": "high" },
+            { "name": "Fort Griffon", "text": "Vauban által épített 17. századi erődítmény, amely kiváló kilátást nyújt a városra és a folyóra.", "category": "fortress", "confidence": "high" },
+            { "name": "Fort de Chaudanne", "text": "A citadellával szemközti dombon lévő erőd, amely a város történelmi védműveinek fontos részét képezi.", "category": "fortress", "confidence": "high" },
+            { "name": "Szent Magdolna-templom", "text": "18. századi barokk templom jellegzetes ikertornyokkal, amely közvetlenül a Doubs folyó partján áll.", "category": "religious", "confidence": "high" },
+            { "name": "Víziállomás park", "text": "Csendes park a Doubs folyó kanyarulatában, a citadella lábánál, ideális hely a pihentető sétákhoz.", "category": "recreational", "confidence": "high" },
+            { "name": "Battant-híd", "text": "Történelmi kőhíd, amely a modern városközpontot köti össze a hagyományos Battant negyeddel.", "category": "historical", "confidence": "high" },
+            { "name": "Besançoni zsinagóga", "text": "Mór-andalúz stílusú épület a 19. század végéről, amely a városközpont közelében található.", "category": "religious", "confidence": "high" },
+            { "name": "Botanikus kert", "text": "Az egyetem tudományos kertje értékes gyógynövényekkel, alpesi kerttel és trópusi növényházzal.", "category": "natural", "confidence": "high" },
+            { "name": "Ledoux Színház", "text": "1778-ban épült klasszicista színházépület, amelyet a híres építész, Claude-Nicolas Ledoux tervezett.", "category": "cultural", "confidence": "high" },
+            { "name": "Igazságügyi palota", "text": "Díszes bírósági épület reneszánsz homlokzattal a történelmi óváros szívében.", "category": "civic", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Cetatea din Besançon",
@@ -2109,7 +2563,18 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Muzeul Timpului", "text": "Muzeul Timpului situat în Palatul Granvelle, dedicat istoriei fascinante a orologeriei din regiune.", "category": "museum", "confidence": "high" },
+            { "name": "Fort Griffon", "text": "O fortificație din secolul al XVII-lea construită de Vauban, oferind panorame superbe asupra orașului.", "category": "fortress", "confidence": "high" },
+            { "name": "Fortul Chaudanne", "text": "Fortificație situată pe un deal vizavi de citadelă, reprezentând o parte importantă a apărării orașului.", "category": "fortress", "confidence": "high" },
+            { "name": "Biserica Sfânta Maria Magdalena", "text": "Biserică barocă din secolul al XVIII-lea cu turnuri gemene, situată chiar pe malul râului Doubs.", "category": "religious", "confidence": "high" },
+            { "name": "Parcul Gării de Apă", "text": "Spațiu verde liniștit situat într-o buclă a râului Doubs, sub citadelă, perfect pentru plimbări relaxante.", "category": "recreational", "confidence": "high" },
+            { "name": "Podul Battant", "text": "Pod istoric din piatră care leagă centrul modern al orașului de cartierul tradițional Battant.", "category": "historical", "confidence": "high" },
+            { "name": "Sinagoga din Besançon", "text": "Edificiu construit în stil maur-andaluz la sfârșitul secolului al XIX-lea, în apropierea centrului.", "category": "religious", "confidence": "high" },
+            { "name": "Grădina Botanică", "text": "Grădină științifică a universității cu plante medicinale valoroase, grădină alpină și sere tropicale.", "category": "natural", "confidence": "high" },
+            { "name": "Teatrul Ledoux", "text": "Clădire de teatru neoclasică din 1778, proiectată de celebrul arhitect francez Claude-Nicolas Ledoux.", "category": "cultural", "confidence": "high" },
+            { "name": "Palatul de Justiție", "text": "Clădire judiciară monumentală cu o fațadă renascentistă elaborată, situată în inima centrului istoric.", "category": "civic", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Citadel of Besançon",
@@ -2147,7 +2612,18 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Museum of Time", "text": "Time Museum housed in the Palais Granvelle, focusing on the rich history of horology and timekeeping.", "category": "museum", "confidence": "high" },
+            { "name": "Fort Griffon", "text": "A 17th-century defensive structure built by Vauban, offering excellent views over the city and river.", "category": "fortress", "confidence": "high" },
+            { "name": "Fort de Chaudanne", "text": "Fortress located on a hill opposite the citadel, representing an important part of the city fortifications.", "category": "fortress", "confidence": "high" },
+            { "name": "Sainte-Madeleine Church", "text": "18th-century Baroque church with distinctive twin towers, located directly on the banks of the river Doubs.", "category": "religious", "confidence": "high" },
+            { "name": "Gare d'Eau Park", "text": "Quiet green space located in a loop of the Doubs river, below the citadel, ideal for relaxing walks.", "category": "recreational", "confidence": "high" },
+            { "name": "Pont Battant", "text": "Historic stone bridge connecting the modern city center with the traditional district of Battant.", "category": "historical", "confidence": "high" },
+            { "name": "Besançon Synagogue", "text": "Impressive building constructed in Moorish-Andalusian style in the late 19th century near the center.", "category": "religious", "confidence": "high" },
+            { "name": "Botanical Garden", "text": "University scientific garden featuring valuable medicinal plants, an alpine garden, and greenhouses.", "category": "natural", "confidence": "high" },
+            { "name": "Ledoux Theater", "text": "Neoclassical theater building from 1778, designed by the famous French architect Claude-Nicolas Ledoux.", "category": "cultural", "confidence": "high" },
+            { "name": "Palace of Justice", "text": "Magnificent judicial building with an elaborate Renaissance facade in the heart of the historic old town.", "category": "civic", "confidence": "high" }
+        ]
 }
   },
   {
@@ -2221,7 +2697,17 @@ const citySeeds: CitySeed[] = [
                   "category": "museum",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Pont de l'Europe", "text": "Ein spektakuläres modernes Brückenbauwerk über die Loire, entworfen vom Architekten Santiago Calatrava.", "category": "civic", "confidence": "high" },
+            { "name": "FRAC Centre-Val de Loire", "text": "Innovatives Museum für zeitgenössische Architektur in den ehemaligen Subsistances-Militärgebäuden.", "category": "museum", "confidence": "high" },
+            { "name": "Jardin des Plantes d'Orléans", "text": "Botanischer Garten mit einer Fläche von 3,5 Hektar, bekannt für seine Rosen und exotischen Gewächshäuser.", "category": "natural", "confidence": "high" },
+            { "name": "Église Saint-Aignan", "text": "Eine historische Stiftskirche mit einer beeindruckenden romanischen Krypta aus dem 11. Jahrhundert.", "category": "religious", "confidence": "high" },
+            { "name": "Musée historique et archéologique", "text": "Das im Hôtel de Cabu untergebrachte Museum zeigt bedeutende gallorömische Bronzefunde der Region.", "category": "museum", "confidence": "high" },
+            { "name": "Campo Santo", "text": "Ein ehemaliger Friedhofskreuzgang aus dem 15. Jahrhundert, der heute für kulturelle Events genutzt wird.", "category": "historical", "confidence": "high" },
+            { "name": "Parc Pasteur", "text": "Großer Stadtpark mit einem zentralen Teich, Kinderspielplätzen und einer historischen Dampfeisenbahn.", "category": "recreational", "confidence": "high" },
+            { "name": "Halles Châtelet", "text": "Die belebte zentrale Markthalle bietet eine große Auswahl an regionalen Spezialitäten und Frischeprodukten.", "category": "culinary", "confidence": "high" },
+            { "name": "Pont George V", "text": "Eine elegante Steinbrücke aus dem 18. Jahrhundert, die das historische Zentrum mit Saint-Marceau verbindet.", "category": "civic", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Szent Kereszt-székesegyház",
@@ -2259,7 +2745,17 @@ const citySeeds: CitySeed[] = [
                   "category": "museum",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Pont de l'Europe", "text": "Santiago Calatrava által tervezett látványos modern híd, amely az Orléans-i Loire felett ível át.", "category": "civic", "confidence": "high" },
+            { "name": "FRAC Centre-Val de Loire", "text": "Kortárs építészeti múzeum, amely az egykori Subsistances katonai raktárak épületében található.", "category": "museum", "confidence": "high" },
+            { "name": "Jardin des Plantes d'Orléans", "text": "3,5 hektáros botanikus kert, amely rózsagyűjteményéről és egzotikus növényházairól nevezetes.", "category": "natural", "confidence": "high" },
+            { "name": "Église Saint-Aignan", "text": "Történelmi társaskáptalani templom, amely figyelemre méltó 11. századi román kori kriptával rendelkezik.", "category": "religious", "confidence": "high" },
+            { "name": "Musée historique et archéologique", "text": "Az Hôtel de Cabu épületében található múzeum a régió jelentős gall-római bronzleleteit mutatja be.", "category": "museum", "confidence": "high" },
+            { "name": "Campo Santo", "text": "15. századi egykori temetői kerengő, amely ma kulturális eseményeknek és fesztiváloknak ad otthont.", "category": "historical", "confidence": "high" },
+            { "name": "Parc Pasteur", "text": "Nagy városi park központi tóval, játszóterekkel és egy kisméretű, működő gőzmozdonnyal a gyerekeknek.", "category": "recreational", "confidence": "high" },
+            { "name": "Halles Châtelet", "text": "Forgalmas központi vásárcsarnok, amely regionális különlegességek és friss termékek széles választékát kínálja.", "category": "culinary", "confidence": "high" },
+            { "name": "Pont George V", "text": "Elegáns 18. századi kőhíd, amely a történelmi városközpontot köti össze a Saint-Marceau negyeddel.", "category": "civic", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Catedrala Sainte-Croix",
@@ -2297,7 +2793,17 @@ const citySeeds: CitySeed[] = [
                   "category": "museum",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Pont de l'Europe", "text": "Un pod modern spectaculos peste Loara, proiectat de arhitectul Santiago Calatrava în Orléans.", "category": "civic", "confidence": "high" },
+            { "name": "FRAC Centre-Val de Loire", "text": "Muzeu inovator de arhitectură contemporană situat în fostele clădiri militare ale orașului.", "category": "museum", "confidence": "high" },
+            { "name": "Jardin des Plantes d'Orléans", "text": "Grădină botanică de 3,5 hectare, renumită pentru trandafirii săi și serele cu plante exotice.", "category": "natural", "confidence": "high" },
+            { "name": "Église Saint-Aignan", "text": "Biserică istorică ce adăpostește o criptă romanică impresionantă datând din secolul al XI-lea.", "category": "religious", "confidence": "high" },
+            { "name": "Musée historique et archéologique", "text": "Muzeu situat în Hôtel de Cabu, care prezintă importante vestigii galo-romane din bronz ale regiunii.", "category": "museum", "confidence": "high" },
+            { "name": "Campo Santo", "text": "Un fost claustru funerar din secolul al XV-lea, utilizat astăzi pentru evenimente culturale diverse.", "category": "historical", "confidence": "high" },
+            { "name": "Parc Pasteur", "text": "Parc urban mare cu un iaz central, locuri de joacă și un trenuleț cu aburi istoric pentru vizitatori.", "category": "recreational", "confidence": "high" },
+            { "name": "Halles Châtelet", "text": "Hală centrală animată care oferă o gamă largă de specialități regionale și produse alimentare proaspete.", "category": "culinary", "confidence": "high" },
+            { "name": "Pont George V", "text": "Pod elegant de piatră din secolul al XVIII-lea, care leagă centrul istoric de cartierul Saint-Marceau.", "category": "civic", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Sainte-Croix Cathedral",
@@ -2335,7 +2841,17 @@ const citySeeds: CitySeed[] = [
                   "category": "museum",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Pont de l'Europe", "text": "A spectacular modern bridge spanning the Loire, designed by the renowned architect Santiago Calatrava.", "category": "civic", "confidence": "high" },
+            { "name": "FRAC Centre-Val de Loire", "text": "Innovative contemporary architecture museum housed in former military subsistence buildings.", "category": "museum", "confidence": "high" },
+            { "name": "Jardin des Plantes d'Orléans", "text": "Botanical garden spanning 3.5 hectares, famous for its roses and exotic tropical greenhouses.", "category": "natural", "confidence": "high" },
+            { "name": "Église Saint-Aignan", "text": "Historical collegiate church featuring a remarkable Romanesque crypt dating back to the 11th century.", "category": "religious", "confidence": "high" },
+            { "name": "Musée historique et archéologique", "text": "Museum located in the Hôtel de Cabu, displaying significant Gallo-Roman bronze finds from the region.", "category": "museum", "confidence": "high" },
+            { "name": "Campo Santo", "text": "A former 15th-century cemetery cloister, now used as a venue for various cultural events and festivals.", "category": "historical", "confidence": "high" },
+            { "name": "Parc Pasteur", "text": "Large urban park featuring a central pond, playgrounds, and a historic miniature steam train.", "category": "recreational", "confidence": "high" },
+            { "name": "Halles Châtelet", "text": "Bustling central market hall offering a wide selection of regional specialties and fresh local produce.", "category": "culinary", "confidence": "high" },
+            { "name": "Pont George V", "text": "Elegant 18th-century stone bridge connecting the historic center with the Saint-Marceau district.", "category": "civic", "confidence": "high" }
+        ]
 }
   },
   {
@@ -2409,7 +2925,18 @@ const citySeeds: CitySeed[] = [
                   "category": "museum",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Hôtel de Ville", "text": "Das Rathaus im Renaissancestil von 1552 ist berühmt für seine bemalte Fassade und den historischen Ratssaal.", "category": "civic", "confidence": "high" },
+            { "name": "Musée Electropolis", "text": "Das größte Museum Europas zur Geschichte der Elektrizität mit beeindruckenden historischen Maschinen.", "category": "museum", "confidence": "high" },
+            { "name": "Tour de l'Europe", "text": "Ein markanter dreieckiger Wolkenkratzer mit Drehrestaurant, der den modernen Wiederaufbau der Stadt symbolisiert.", "category": "civic", "confidence": "high" },
+            { "name": "Musée des Beaux-Arts", "text": "In einem Herrenhaus aus dem 18. Jahrhundert untergebracht, zeigt es eine reiche Sammlung europäischer Malerei.", "category": "museum", "confidence": "high" },
+            { "name": "Parc Salvator", "text": "Der älteste öffentliche Park in Mulhouse wurde im 19. Jahrhundert als romantischer englischer Garten angelegt.", "category": "recreational", "confidence": "high" },
+            { "name": "Gare de Mulhouse-Ville", "text": "Der Hauptbahnhof der Stadt mit einem historischen Gebäude aus dem 19. Jahrhundert, ein wichtiger Knotenpunkt.", "category": "station", "confidence": "high" },
+            { "name": "Tour du Belvédère", "text": "Ein Aussichtsturm auf dem Rebberg-Hügel mit weitem Blick über die Stadt bis hin zu den Vogesen.", "category": "recreational", "confidence": "high" },
+            { "name": "Kunsthalle Mulhouse", "text": "Ein Zentrum für zeitgenössische Kunst in einem ehemaligen Industriegebäude der berühmten DMC-Fabrik.", "category": "cultural", "confidence": "high" },
+            { "name": "Canal du Rhône au Rhin", "text": "Die historische Wasserstraße durchquert die Stadt und bietet heute Wege für Spaziergänge und Radtouren.", "category": "natural", "confidence": "high" },
+            { "name": "Église Sainte-Marie", "text": "Eine bedeutende katholische Kirche im neoklassizistischen Stil, die im 19. Jahrhundert erbaut wurde.", "category": "religious", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Autómúzeum (Cité de l'Automobile)",
@@ -2447,7 +2974,18 @@ const citySeeds: CitySeed[] = [
                   "category": "museum",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Hôtel de Ville", "text": "Az 1552-ben épült reneszánsz városháza festett homlokzatáról és történelmi tanácsterméről nevezetes.", "category": "civic", "confidence": "high" },
+            { "name": "Elektropolis Múzeum", "text": "Európa legnagyobb, az elektromosság történetének szentelt múzeuma, lenyűgöző ipari gépgyűjteménnyel.", "category": "museum", "confidence": "high" },
+            { "name": "Európa-torony", "text": "Ikonikus háromszögletű felhőkarcoló forgó étteremmel, amely a város modern újjáépítésének jelképe.", "category": "civic", "confidence": "high" },
+            { "name": "Szépművészeti Múzeum", "text": "Egy 18. századi kúriában található művészeti múzeum, gazdag európai festészeti gyűjteménnyel.", "category": "museum", "confidence": "high" },
+            { "name": "Parc Salvator", "text": "Mulhouse legrégebbi közparkja, amelyet a 19. században alakítottak ki romantikus angolkert stílusban.", "category": "recreational", "confidence": "high" },
+            { "name": "Gare de Mulhouse-Ville", "text": "A város központi vasútállomása történelmi 19. századi épülettel, a Grand Est régió fontos csomópontja.", "category": "station", "confidence": "high" },
+            { "name": "Belvédère-kilátó", "text": "A Rebberg-dombon álló kilátótorony, ahonnan pazar kilátás nyílik a városra és a Vogézek hegyvonulataira.", "category": "recreational", "confidence": "high" },
+            { "name": "Kunsthalle Mulhouse", "text": "Kortárs művészeti központ, amely a DMC gyár egykori ipari épületében kapott helyet.", "category": "cultural", "confidence": "high" },
+            { "name": "Rajna–Róna-csatorna", "text": "A várost átszelő történelmi vízi út, amelynek partja népszerű a sétálók és a kerékpárosok körében.", "category": "natural", "confidence": "high" },
+            { "name": "Szűz Mária-templom", "text": "Jelentős, 19. században emelt katolikus templom, amely neoklasszicista stílusban épült.", "category": "religious", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Cité de l'Automobile",
@@ -2485,7 +3023,18 @@ const citySeeds: CitySeed[] = [
                   "category": "museum",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Primăria din Mulhouse", "text": "Primărie în stil renascentist construită în 1552, faimoasă pentru fațada pictată și sala consiliului.", "category": "civic", "confidence": "high" },
+            { "name": "Muzeul Electropolis", "text": "Cel mai mare muzeu din Europa dedicat istoriei electricității și energiei electrice industriale.", "category": "museum", "confidence": "high" },
+            { "name": "Turnul Europei", "text": "Zgârie-nori triunghiular iconic cu un restaurant rotitor, simbolizând reconstrucția modernă a orașului.", "category": "civic", "confidence": "high" },
+            { "name": "Muzeul de Arte Frumoase", "text": "Muzeu situat într-un conac din secolul al XVIII-lea, cu o colecție bogată de picturi europene.", "category": "museum", "confidence": "high" },
+            { "name": "Parcul Salvator", "text": "Cel mai vechi parc public din Mulhouse, amenajat în secolul al XIX-lea ca o grădină romantică englezească.", "category": "recreational", "confidence": "high" },
+            { "name": "Gara Mulhouse-Ville", "text": "Gara centrală a orașului cu o clădire istorică din secolul al XIX-lea, un nod feroviar major în Alsacia.", "category": "station", "confidence": "high" },
+            { "name": "Turnul Belvédère", "text": "Turn de observație situat pe colina Rebberg, oferind o panoramă vastă asupra orașului și Munților Vosgi.", "category": "recreational", "confidence": "high" },
+            { "name": "Kunsthalle Mulhouse", "text": "Centru de artă contemporană situat într-o fostă clădire industrială a celebrei fabrici DMC.", "category": "cultural", "confidence": "high" },
+            { "name": "Canalul Ron-Rin", "text": "Cale navigabilă istorică ce traversează orașul, fiind astăzi populară pentru plimbări și ciclism pe maluri.", "category": "natural", "confidence": "high" },
+            { "name": "Biserica Sfânta Maria", "text": "Biserică catolică impunătoare construită în secolul al XIX-lea în stil arhitectural neoclasic.", "category": "religious", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Cité de l'Automobile",
@@ -2523,7 +3072,18 @@ const citySeeds: CitySeed[] = [
                   "category": "museum",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Hôtel de Ville", "text": "Renaissance-style town hall built in 1552, famous for its painted facade and historical council chamber.", "category": "civic", "confidence": "high" },
+            { "name": "Musée Electropolis", "text": "Largest museum in Europe dedicated to the history of electricity and electrical energy.", "category": "museum", "confidence": "high" },
+            { "name": "Tour de l'Europe", "text": "Iconic triangular skyscraper with a revolving restaurant, symbolizing the city's modern reconstruction.", "category": "civic", "confidence": "high" },
+            { "name": "Musée des Beaux-Arts", "text": "Art museum located in an 18th-century mansion, featuring a rich collection of European paintings.", "category": "museum", "confidence": "high" },
+            { "name": "Parc Salvator", "text": "The oldest public park in Mulhouse, designed in the 19th century as a romantic English garden.", "category": "recreational", "confidence": "high" },
+            { "name": "Gare de Mulhouse-Ville", "text": "Central railway station with a historic 19th-century building, a major hub in the Grand Est region.", "category": "station", "confidence": "high" },
+            { "name": "Tour du Belvédère", "text": "Observation tower on the Rebberg hill offering a wide view over the city and the Vosges mountains.", "category": "recreational", "confidence": "high" },
+            { "name": "Kunsthalle Mulhouse", "text": "Contemporary art center located in a former industrial building of the DMC factory.", "category": "cultural", "confidence": "high" },
+            { "name": "Canal du Rhône au Rhin", "text": "Historical waterway crossing the city, now popular for leisure walks and cycling along the banks.", "category": "natural", "confidence": "high" },
+            { "name": "Église Sainte-Marie", "text": "Significant Catholic church built in the 19th century in the neo-classical style.", "category": "religious", "confidence": "high" }
+        ]
 }
   },
   {
@@ -2597,7 +3157,18 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Musée des Beaux-Arts", "text": "Kunstmuseum im Schlossareal mit einer bedeutenden Sammlung europäischer Malerei vom 15. Jahrhundert bis heute.", "category": "museum", "confidence": "high" },
+            { "name": "Musée de Normandie", "text": "Regionalmuseum im Inneren des Schlosses von Caen, das die Geschichte und Kultur der Normandie präsentiert.", "category": "museum", "confidence": "high" },
+            { "name": "Jardin des Plantes", "text": "Historischer botanischer Garten der Stadt mit seltenen Baumarten, Rosengarten und Gewächshäusern.", "category": "natural", "confidence": "high" },
+            { "name": "Tour Leroy", "text": "Einer der letzten erhaltenen Wehrtürme der mittelalterlichen Stadtmauer, direkt am alten Hafenbecken.", "category": "historical", "confidence": "high" },
+            { "name": "Hôtel d'Escoville", "text": "Renaissance-Stadtpalast aus dem 16. Jahrhundert, der heute das örtliche Tourismusbüro beherbergt.", "category": "historical", "confidence": "high" },
+            { "name": "Église Saint-Étienne-le-Vieux", "text": "Ruine einer gotischen Kirche, die als Mahnmal für die Zerstörungen des Zweiten Weltkriegs dient.", "category": "historical", "confidence": "high" },
+            { "name": "Place Saint-Sauveur", "text": "Der älteste Platz der Stadt, gesäumt von eleganten Adelshäusern aus dem 18. Jahrhundert und Cafés.", "category": "historical", "confidence": "high" },
+            { "name": "Bibliothèque Alexis de Tocqueville", "text": "Moderner Bibliotheksbau am Ufer des Kanals mit innovativer, X-förmiger Architektur und weitem Ausblick.", "category": "cultural", "confidence": "high" },
+            { "name": "Bassin Saint-Pierre", "text": "Der lebhafte Jachthafen im Stadtzentrum, ein beliebter Ort zum Flanieren entlang der Kais und Boote.", "category": "recreational", "confidence": "high" },
+            { "name": "Colline aux Oiseaux", "text": "Großzügiger Landschaftspark auf einer ehemaligen Deponie mit Themengärten und einem großen Rosarium.", "category": "recreational", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Caen-i Emlékmű (Mémorial)",
@@ -2635,7 +3206,18 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Szépművészeti Múzeum", "text": "A vár területén található szépművészeti múzeum jelentős európai festészeti gyűjteménnyel rendelkezik.", "category": "museum", "confidence": "high" },
+            { "name": "Normandia Múzeuma", "text": "A caeni várban található regionális múzeum, amely Normandia történetét és kultúráját mutatja be.", "category": "museum", "confidence": "high" },
+            { "name": "Botanikus kert", "text": "A város történelmi növénykertje ritka fafajokkal, rózsakerttel és egzotikus növényházakkal.", "category": "natural", "confidence": "high" },
+            { "name": "Leroy-torony", "text": "A középkori városfal egyik utolsó épségben maradt védőtornya, közvetlenül a régi kikötőnél.", "category": "historical", "confidence": "high" },
+            { "name": "Escoville-palota", "text": "Díszes 16. századi reneszánsz városi palota, amelyben ma a helyi idegenforgalmi hivatal működik.", "category": "historical", "confidence": "high" },
+            { "name": "Régi Szent István-templom", "text": "Egy gótikus templom romjai, amely a második világháború pusztításainak mementójaként áll.", "category": "historical", "confidence": "high" },
+            { "name": "Szent Megváltó tér", "text": "A város legrégebbi tere, amelyet elegáns 18. századi nemesi paloták és hangulatos kávézók öveznek.", "category": "historical", "confidence": "high" },
+            { "name": "Alexis de Tocqueville Könyvtár", "text": "Modern könyvtárépület a csatorna partján, innovatív X-alakú építészettel és széles kilátással.", "category": "cultural", "confidence": "high" },
+            { "name": "Szent Péter-medence", "text": "A városközpont nyüzsgő jachtkikötője, amely népszerű hely a rakpartok menti sétákhoz a hajók között.", "category": "recreational", "confidence": "high" },
+            { "name": "Madár-domb", "text": "Tágas tájképi park egy egykori szeméttelep helyén, tematikus kertekkel és hatalmas rózsakerttel.", "category": "recreational", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Memorialul din Caen",
@@ -2673,7 +3255,18 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Muzeul de Arte Frumoase", "text": "Muzeu de arte frumoase situat în castel, cu o colecție importantă de pictură europeană din secolul XV.", "category": "museum", "confidence": "high" },
+            { "name": "Muzeul Normandiei", "text": "Muzeu regional situat în interiorul castelului din Caen, prezentând istoria și cultura Normandiei.", "category": "museum", "confidence": "high" },
+            { "name": "Grădina Plantelor", "text": "Grădină botanică istorică a orașului cu specii rare de arbori, o grădină de trandafiri și sere exotice.", "category": "natural", "confidence": "high" },
+            { "name": "Turnul Leroy", "text": "Unul dintre ultimele turnuri de apărare păstrate din zidurile medievale, situat lângă portul vechi.", "category": "historical", "confidence": "high" },
+            { "name": "Hôtel d'Escoville", "text": "Palat urban renascentist ornat din secolul al XVI-lea, care găzduiește azi biroul local de turism.", "category": "historical", "confidence": "high" },
+            { "name": "Biserica Sfântul Ștefan cel Vechi", "text": "Ruina păstrată a unei biserici gotice, servind ca memorial pentru distrugerile din al Doilea Război Mondial.", "category": "historical", "confidence": "high" },
+            { "name": "Piața Saint-Sauveur", "text": "Cea mai veche piață a orașului, mărginită de conace nobiliare elegante din secolul al XVIII-lea și cafenele.", "category": "historical", "confidence": "high" },
+            { "name": "Biblioteca Alexis de Tocqueville", "text": "Clădire modernă de bibliotecă pe malul canalului, cu o arhitectură inovatoare în formă de X.", "category": "cultural", "confidence": "high" },
+            { "name": "Bazinul Saint-Pierre", "text": "Portul de agrement plin de viață din centrul orașului, un loc popular pentru plimbări de-a lungul cheiurilor.", "category": "recreational", "confidence": "high" },
+            { "name": "Colina Păsărilor", "text": "Parc peisagistic vast situat pe o fostă rampă de gunoi, cu grădini tematice și o rozărie mare.", "category": "recreational", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Caen Memorial Museum",
@@ -2711,7 +3304,18 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Museum of Fine Arts", "text": "Fine arts museum located in the castle grounds with a significant collection of European paintings.", "category": "museum", "confidence": "high" },
+            { "name": "Normandy Museum", "text": "Regional museum located inside Caen Castle, showcasing the history and culture of the Normandy region.", "category": "museum", "confidence": "high" },
+            { "name": "Botanical Garden", "text": "City botanical garden featuring rare tree species, a rose garden, and exotic greenhouses.", "category": "natural", "confidence": "high" },
+            { "name": "Tour Leroy", "text": "One of the last remaining defensive towers of the medieval city walls, located by the old harbor basin.", "category": "historical", "confidence": "high" },
+            { "name": "Hôtel d'Escoville", "text": "Stately 16th-century Renaissance urban mansion, now housing the local tourist information office.", "category": "historical", "confidence": "high" },
+            { "name": "Saint-Étienne-le-Vieux Church", "text": "Impressive ruin of a Gothic church, serving as a memorial to the destruction of the Second World War.", "category": "historical", "confidence": "high" },
+            { "name": "Place Saint-Sauveur", "text": "The oldest square in the city, lined with elegant 18th-century noble mansions and cozy cafes.", "category": "historical", "confidence": "high" },
+            { "name": "Alexis de Tocqueville Library", "text": "Modern library building on the canal bank with innovative X-shaped architecture and panoramic views.", "category": "cultural", "confidence": "high" },
+            { "name": "Bassin Saint-Pierre", "text": "The lively marina in the city center, a popular spot for strolling along the quays and boats.", "category": "recreational", "confidence": "high" },
+            { "name": "Bird Hill Park", "text": "Spacious landscape park on a former landfill site, featuring themed gardens and a large rose garden.", "category": "recreational", "confidence": "high" }
+        ]
 }
   },
   {
@@ -2973,7 +3577,18 @@ const citySeeds: CitySeed[] = [
                   "category": "recreational",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Église Saint-Denys-de-l'Estrée", "text": "Eine von Eugène Viollet-le-Duc im 19. Jahrhundert entworfene Kirche, die durch ihre neugotische Eisenstruktur beeindruckt.", "category": "religious", "confidence": "high" },
+            { "name": "Maison de Coignet", "text": "Das erste Haus Frankreichs aus unbewehrtem Beton, erbaut 1853, ein Meilenstein der modernen Industriearchitektur.", "category": "historical", "confidence": "high" },
+            { "name": "Hôtel de Ville de Saint-Denis", "text": "Das imposante Rathaus im Stil der Renaissance-Revival-Architektur, das das politische Zentrum der Gemeinde bildet.", "category": "civic", "confidence": "high" },
+            { "name": "Cité du Cinéma", "text": "Ein riesiger Filmstudiokomplex, der von Luc Besson in einem ehemaligen Elektrizitätswerk initiiert wurde.", "category": "cultural", "confidence": "high" },
+            { "name": "Parc de la Légion d'Honneur", "text": "Eine 24 Hektar große historische Grünanlage, die einst zu den Gärten der Abtei Saint-Denis gehörte.", "category": "recreational", "confidence": "high" },
+            { "name": "Le 6b", "text": "Ein kreativer Ort in einem ehemaligen Bürogebäude, der Ateliers für über 150 Künstler und kulturelle Veranstaltungen bietet.", "category": "cultural", "confidence": "high" },
+            { "name": "Tour Pleyel", "text": "Ein markanter Wolkenkratzer aus den 1970er Jahren, der nach der berühmten Klavierfabrik Pleyel benannt ist.", "category": "historical", "confidence": "high" },
+            { "name": "Gare de Saint-Denis", "text": "Ein historisches Bahnhofsgebäude aus dem Jahr 1846, das als wichtiger Verkehrsknotenpunkt im Norden von Paris dient.", "category": "station", "confidence": "high" },
+            { "name": "Théâtre Gérard Philipe", "text": "Ein renommiertes Nationaltheater, das in einer ehemaligen Abtei untergebracht ist und für anspruchsvolle Inszenierungen steht.", "category": "cultural", "confidence": "high" },
+            { "name": "L'Écran", "text": "Ein traditionsreiches Programmkino im Stadtzentrum, das seit Jahrzehnten die lokale Filmkultur und Festivals fördert.", "category": "cultural", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Saint-Denis-székesegyház",
@@ -3011,7 +3626,18 @@ const citySeeds: CitySeed[] = [
                   "category": "recreational",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Église Saint-Denys-de-l'Estrée", "text": "Eugène Viollet-le-Duc által tervezett 19. századi templom, amely a modern vasszerkezetek korai alkalmazásáról nevezetes.", "category": "religious", "confidence": "high" },
+            { "name": "Maison de Coignet", "text": "Franciaország első öntött betonból készült háza 1853-ból, amely az ipari építészet történetének egyik legfontosabb emléke.", "category": "historical", "confidence": "high" },
+            { "name": "Hôtel de Ville de Saint-Denis", "text": "A város monumentális városházája, amely neoreneszánsz stílusával a 19. századi polgári büszkeséget hirdeti.", "category": "civic", "confidence": "high" },
+            { "name": "Cité du Cinéma", "text": "Hatalmas filmstúdió-komplexum, amelyet Luc Besson alapított egy egykori elektromos központ art deco stílusú épületében.", "category": "cultural", "confidence": "high" },
+            { "name": "Parc de la Légion d'Honneur", "text": "A város tüdejeként funkcionáló 24 hektáros történelmi park, amely egykor az apátság kertjeihez tartozott.", "category": "recreational", "confidence": "high" },
+            { "name": "Le 6b", "text": "Egy egykori irodaházból kialakított kreatív központ, ahol több mint 150 művész dolgozik és szervez kiállításokat.", "category": "cultural", "confidence": "high" },
+            { "name": "Tour Pleyel", "text": "A város látképét meghatározó 1970-es évekbeli felhőkarcoló, amely a közeli híres zongoragyárról kapta nevét.", "category": "historical", "confidence": "high" },
+            { "name": "Gare de Saint-Denis", "text": "Az 1846-ban megnyitott történelmi vasútállomás, amely Párizs északi agglomerációjának egyik legfontosabb csomópontja.", "category": "station", "confidence": "high" },
+            { "name": "Théâtre Gérard Philipe", "text": "A város neves nemzeti színháza, amely egy történelmi épületben működik és elismert drámai előadásairól híres.", "category": "cultural", "confidence": "high" },
+            { "name": "L'Écran", "text": "Népszerű művészmozi a városközpontban, amely változatos filmes programokkal és fesztiválokkal várja a kultúra kedvelőit.", "category": "cultural", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Bazilica Saint-Denis",
@@ -3049,7 +3675,18 @@ const citySeeds: CitySeed[] = [
                   "category": "recreational",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Église Saint-Denys-de-l'Estrée", "text": "O biserică proiectată de Eugène Viollet-le-Duc în secolul al XIX-lea, remarcabilă prin utilizarea structurilor metalice moderne.", "category": "religious", "confidence": "high" },
+            { "name": "Maison de Coignet", "text": "Prima casă din beton turnat din Franța, construită în 1853, reprezentând un monument pionier al arhitecturii industriale.", "category": "historical", "confidence": "high" },
+            { "name": "Hôtel de Ville de Saint-Denis", "text": "Primăria impunătoare a orașului, o capodoperă arhitecturală de stil neorenascentist care domină piața centrală.", "category": "civic", "confidence": "high" },
+            { "name": "Cité du Cinéma", "text": "Un vast complex de studiouri cinematografice inițiat de Luc Besson într-o fostă centrală electrică cu design industrial.", "category": "cultural", "confidence": "high" },
+            { "name": "Parc de la Légion d'Honneur", "text": "Un parc istoric vast de 24 de hectare, situat în centrul orașului, oferind spații verzi ample pe fostul domeniu al abației.", "category": "recreational", "confidence": "high" },
+            { "name": "Le 6b", "text": "Un spațiu de creație și cultură amenajat într-o fostă clădire de birouri, adăpostind atelierele a peste 150 de artiști.", "category": "cultural", "confidence": "high" },
+            { "name": "Tour Pleyel", "text": "Un zgârie-nori emblematic din anii '70, numit după faimoasa fabrică de piane Pleyel situată odinioară în apropiere.", "category": "historical", "confidence": "high" },
+            { "name": "Gare de Saint-Denis", "text": "Gara istorică construită în 1846, care rămâne unul dintre cele mai circulate noduri feroviare din nordul regiunii pariziene.", "category": "station", "confidence": "high" },
+            { "name": "Théâtre Gérard Philipe", "text": "Un teatru național prestigios dedicat creației contemporane, situat într-o clădire cu o istorie bogată și arhitectură unică.", "category": "cultural", "confidence": "high" },
+            { "name": "L'Écran", "text": "Un cinematograf de artă situat în inima orașului, cunoscut pentru programul său de autor și susținerea cinematografiei mondiale.", "category": "cultural", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Basilica of Saint-Denis",
@@ -3087,7 +3724,18 @@ const citySeeds: CitySeed[] = [
                   "category": "recreational",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Église Saint-Denys-de-l'Estrée", "text": "A church designed by Eugène Viollet-le-Duc in the 19th century, featuring an innovative neo-Gothic iron-and-stone structure.", "category": "religious", "confidence": "high" },
+            { "name": "Maison de Coignet", "text": "The first house in France built using unreinforced concrete in 1853, a landmark in the history of industrial architecture.", "category": "historical", "confidence": "high" },
+            { "name": "Hôtel de Ville de Saint-Denis", "text": "The city's grand town hall, built in a monumental Renaissance Revival style, serving as the civic heart of the community.", "category": "civic", "confidence": "high" },
+            { "name": "Cité du Cinéma", "text": "A massive film studio complex founded by Luc Besson, housed in a beautifully repurposed former Art Deco power station.", "category": "cultural", "confidence": "high" },
+            { "name": "Parc de la Légion d'Honneur", "text": "A 24-hectare historic park in the city center, formerly part of the gardens of the Abbey of Saint-Denis.", "category": "recreational", "confidence": "high" },
+            { "name": "Le 6b", "text": "A creative cultural venue located in a former office building, hosting over 150 artist studios and community events.", "category": "cultural", "confidence": "high" },
+            { "name": "Tour Pleyel", "text": "An iconic 1970s skyscraper that dominates the skyline, named after the famous Pleyel piano factory once located nearby.", "category": "historical", "confidence": "high" },
+            { "name": "Gare de Saint-Denis", "text": "A historic railway station opened in 1846, serving as a major transportation hub connecting Saint-Denis to northern Paris.", "category": "station", "confidence": "high" },
+            { "name": "Théâtre Gérard Philipe", "text": "A prestigious National Drama Center located in the city, known for its high-quality productions and community engagement.", "category": "cultural", "confidence": "high" },
+            { "name": "L'Écran", "text": "A historic art-house cinema in the city center, dedicated to promoting independent films and hosting local festivals.", "category": "cultural", "confidence": "high" }
+        ]
 }
   },
   {
@@ -3155,7 +3803,18 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Moulin d'Orgemont", "text": "Diese Windmühle aus dem 19. Jahrhundert bietet einen weiten Panoramablick über das Pariser Becken und das Seine-Tal.", "category": "historical", "confidence": "high" },
+            { "name": "Butte d'Orgemont", "text": "Ein begrünter Hügel, der als einer der besten Aussichtspunkte der Region gilt, ideal zum Wandern und Drachensteigen.", "category": "natural", "confidence": "high" },
+            { "name": "Gare d'Argenteuil", "text": "Der historische Bahnhof wurde 1851 eröffnet und war entscheidend für die industrielle Entwicklung der Stadt.", "category": "station", "confidence": "high" },
+            { "name": "Chapelle Saint-Jean-Baptiste", "text": "Die kleine Kapelle aus dem 10. Jahrhundert ist das älteste Bauwerk der Stadt und Teil der ehemaligen Abtei.", "category": "religious", "confidence": "high" },
+            { "name": "Cave de l'Abbaye", "text": "Ein riesiger mittelalterlicher Keller aus dem 12. Jahrhundert, der einst von Mönchen zur Weinlagerung genutzt wurde.", "category": "historical", "confidence": "high" },
+            { "name": "Marché Héloïse", "text": "Einer der größten traditionellen Märkte in der Region Île-de-France, der regelmäßig im Stadtzentrum stattfindet.", "category": "culinary", "confidence": "high" },
+            { "name": "Monument aux Morts", "text": "Ein bedeutendes Denkmal auf dem Rathausplatz, das den Opfern der Weltkriege aus Argenteuil gewidmet ist.", "category": "civic", "confidence": "high" },
+            { "name": "Fresque des Impressionnistes", "text": "Ein großes Wandgemälde, das die berühmten Maler ehrt, die die Landschaften von Argenteuil auf Leinwand festhielten.", "category": "cultural", "confidence": "high" },
+            { "name": "Théâtre Jean-Vilar", "text": "Das wichtigste Kulturzentrum der Stadt, das ein breites Spektrum an Theaterstücken und künstlerischen Events bietet.", "category": "cultural", "confidence": "high" },
+            { "name": "Château du Marais", "text": "Ein historisches Herrenhaus, das das architektonische Erbe und die bürgerliche Geschichte von Argenteuil repräsentiert.", "category": "historical", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Saint-Denys-bazilika",
@@ -3187,7 +3846,18 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Moulin d'Orgemont", "text": "Ez a 19. századi szélmalom lenyűgöző panorámát nyújt a Párizsi-medencére és a Szajna völgyére.", "category": "historical", "confidence": "high" },
+            { "name": "Butte d'Orgemont", "text": "Zöldellő domb, amely a régió egyik legjobb kilátópontja, népszerű a túrázók és a sárkányeregetők körében.", "category": "natural", "confidence": "high" },
+            { "name": "Gare d'Argenteuil", "text": "Az 1851-ben megnyitott történelmi vasútállomás kulcsszerepet játszott a város ipari fejlődésében.", "category": "station", "confidence": "high" },
+            { "name": "Chapelle Saint-Jean-Baptiste", "text": "Ez a 10. századi kis kápolna a város legrégebbi épülete, az egykori apátsági komplexum része.", "category": "religious", "confidence": "high" },
+            { "name": "Cave de l'Abbaye", "text": "Hatalmas, 12. századi középkori pince, amelyet egykor a bencés szerzetesek használtak borkészítésre és tárolásra.", "category": "historical", "confidence": "high" },
+            { "name": "Marché Héloïse", "text": "Az Île-de-France régió egyik legnagyobb hagyományos piaca, amely pezsgő életet hoz a városközpontba.", "category": "culinary", "confidence": "high" },
+            { "name": "Monument aux Morts", "text": "A városháza téren található jelentős emlékmű, amelyet a világháborúk áldozatainak emlékére emeltek.", "category": "civic", "confidence": "high" },
+            { "name": "Fresque des Impressionnistes", "text": "Nagyméretű falfestmény, amely azok előtt a festők előtt tiszteleg, akik megörökítették Argenteuil tájait.", "category": "cultural", "confidence": "high" },
+            { "name": "Jean Vilar Színház", "text": "A város fő kulturális helyszíne, amely színházi előadásoknak és változatos művészeti eseményeknek ad otthont.", "category": "cultural", "confidence": "high" },
+            { "name": "Château du Marais", "text": "Történelmi rezidencia és egykori kúria, amely a város építészeti örökségét és polgári múltját képviseli.", "category": "historical", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Bazilica Saint-Denys",
@@ -3219,7 +3889,18 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Moulin d'Orgemont", "text": "Această moară de vânt din secolul al XIX-lea oferă o vedere panoramică superbă asupra regiunii Parisului.", "category": "historical", "confidence": "high" },
+            { "name": "Butte d'Orgemont", "text": "O colină verde care oferă unul dintre cele mai bune puncte de observație asupra văii Senei și Parisului.", "category": "natural", "confidence": "high" },
+            { "name": "Gara Argenteuil", "text": "Gara istorică deschisă în 1851, care a jucat un rol esențial în dezvoltarea industrială a localității.", "category": "station", "confidence": "high" },
+            { "name": "Capela Saint-Jean-Baptiste", "text": "Mică capelă din secolul al X-lea, cea mai veche clădire din oraș, parte a fostului complex monahal.", "category": "religious", "confidence": "high" },
+            { "name": "Cave de l'Abbaye", "text": "O pivniță medievală vastă din secolul al XII-lea, folosită în trecut de călugări pentru depozitarea vinului.", "category": "historical", "confidence": "high" },
+            { "name": "Piața Héloïse", "text": "Una dintre cele mai mari piețe tradiționale din regiunea Île-de-France, situată în centrul orașului.", "category": "culinary", "confidence": "high" },
+            { "name": "Monumentul Eroilor", "text": "Memorial impunător dedicat victimelor războaielor mondiale, situat în piața centrală a orașului.", "category": "civic", "confidence": "high" },
+            { "name": "Fresca Impresioniștilor", "text": "Pictură murală de mari dimensiuni care omagiază artiștii celebri ce au pictat peisajele din Argenteuil.", "category": "cultural", "confidence": "high" },
+            { "name": "Teatrul Jean Vilar", "text": "Principalul spațiu cultural al orașului, găzduind numeroase spectacole de teatru și evenimente artistice.", "category": "cultural", "confidence": "high" },
+            { "name": "Castelul Marais", "text": "Reședință istorică și fost conac ce reprezintă moștenirea arhitecturală și istoria locală a orașului.", "category": "historical", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Basilica of Saint-Denys",
@@ -3251,7 +3932,18 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Moulin d'Orgemont", "text": "Old 19th-century windmill offering a panoramic view of the Paris region and the Seine valley.", "category": "historical", "confidence": "high" },
+            { "name": "Butte d'Orgemont", "text": "A green hill providing one of the best viewpoints over Paris, popular for hiking and kite flying.", "category": "natural", "confidence": "high" },
+            { "name": "Gare d'Argenteuil", "text": "Historic railway station opened in 1851, which played a key role in the town's industrial development.", "category": "station", "confidence": "high" },
+            { "name": "Chapelle Saint-Jean-Baptiste", "text": "Small 10th-century chapel, the oldest building in the city, part of the former abbey complex.", "category": "religious", "confidence": "high" },
+            { "name": "Cave de l'Abbaye", "text": "Large medieval cellar from the 12th century, once used by Benedictine monks for storing wine.", "category": "historical", "confidence": "high" },
+            { "name": "Marché Héloïse", "text": "One of the largest traditional markets in the Île-de-France region, held in the city center.", "category": "culinary", "confidence": "high" },
+            { "name": "Monument aux Morts", "text": "Significant memorial dedicated to the victims of the World Wars, located in the town square.", "category": "civic", "confidence": "high" },
+            { "name": "Fresque des Impressionnistes", "text": "Large mural paying tribute to the famous painters who captured the landscapes of Argenteuil.", "category": "cultural", "confidence": "high" },
+            { "name": "Jean Vilar Theatre", "text": "Major cultural venue in the city hosting various theatrical performances and artistic events.", "category": "cultural", "confidence": "high" },
+            { "name": "Château du Marais", "text": "Historical residence and former manor house representing the city's architectural heritage.", "category": "historical", "confidence": "high" }
+        ]
 }
   },
   {
@@ -3331,7 +4023,17 @@ const citySeeds: CitySeed[] = [
                   "category": "museum",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Hôtel-Dieu-le-Comte", "text": "Ein prachtvolles historisches Krankenhaus, das heute das Cité du Vitrail und eine berühmte Apotheke beherbergt.", "category": "museum", "confidence": "high" },
+            { "name": "Kirche Saint-Nizier", "text": "Eine gotische Kirche, die für ihr glasiertes, farbenfrohes Ziegeldach und ihre schönen Skulpturen bekannt ist.", "category": "religious", "confidence": "high" },
+            { "name": "Kirche Saint-Pantaléon", "text": "Diese Kirche beherbergt eine außergewöhnliche Sammlung von Statuen aus dem 16. Jahrhundert lokaler Meister.", "category": "religious", "confidence": "high" },
+            { "name": "Rathaus (Hôtel de Ville)", "text": "Ein beeindruckendes Barockgebäude aus dem 17. Jahrhundert mit einer Statue der Freiheit auf der Fassade.", "category": "civic", "confidence": "high" },
+            { "name": "Museum Saint-Loup", "text": "Es befindet sich in der ehemaligen Abtei Saint-Loup und zeigt Kunst, Archäologie und Naturgeschichte.", "category": "museum", "confidence": "high" },
+            { "name": "Markthalle (Halles de Troyes)", "text": "Ein lebendiger Ort im Baltard-Stil, wo man lokale Spezialitäten wie Andouillette und Chaource-Käse findet.", "category": "culinary", "confidence": "high" },
+            { "name": "Vauluisant-Museum", "text": "In einem Renaissance-Palast untergebracht, widmet es sich der Textilgeschichte und der Kunst von Troyes.", "category": "museum", "confidence": "high" },
+            { "name": "Präfektur von Aube", "text": "Ein elegantes Gebäude, das früher ein Benediktinerkloster war und heute die Verwaltung beherbergt.", "category": "civic", "confidence": "high" },
+            { "name": "Kirche Saint-Jean-au-Marché", "text": "Hier wurde 1420 der Vertrag von Troyes unterzeichnet und Heinrich V. von England heiratete Katharina von Valois.", "category": "religious", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Szent Péter és Szent Pál katedrális",
@@ -3375,7 +4077,17 @@ const citySeeds: CitySeed[] = [
                   "category": "museum",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Hôtel-Dieu-le-Comte", "text": "Pompás történelmi kórház, amely ma az Üvegfestészeti Központnak és egy híres gyógyszertárnak ad otthont.", "category": "museum", "confidence": "high" },
+            { "name": "Szent Nizier-templom", "text": "Gótikus templom, amely színes mázas cseréptetőjéről és gyönyörű szobrairól ismert a város szívében.", "category": "religious", "confidence": "high" },
+            { "name": "Szent Pantaleon-templom", "text": "Ez a templom rendkívüli 16. századi szoborgyűjteményt őriz, amely helyi mesterek munkája.", "category": "religious", "confidence": "high" },
+            { "name": "Városháza (Hôtel de Ville)", "text": "Lenyűgöző 17. századi barokk épület, amelynek homlokzatát a Szabadság szobra díszíti.", "category": "civic", "confidence": "high" },
+            { "name": "Saint-Loup Múzeum", "text": "Az egykori Saint-Loup apátságban található, művészeti, régészeti és természettudományi kiállításokkal.", "category": "museum", "confidence": "high" },
+            { "name": "Vásárcsarnok (Halles de Troyes)", "text": "Baltard-stílusú élénk piac, ahol helyi specialitásokat, például andouillette-et és sajtokat vehetünk.", "category": "culinary", "confidence": "high" },
+            { "name": "Vauluisant Múzeum", "text": "Egy reneszánsz palotában kapott helyet, a város textiliparának és művészetének történetét mutatja be.", "category": "museum", "confidence": "high" },
+            { "name": "Aube Prefektúra", "text": "Elegáns épület, amely korábban bencés kolostor volt, ma pedig a helyi közigazgatás székhelye.", "category": "civic", "confidence": "high" },
+            { "name": "Szent János-templom", "text": "Itt kötötték meg 1420-ban a troyes-i békét, és itt vette feleségül V. Henrik angol király Valois Katalint.", "category": "religious", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Catedrala Sfântul Petru și Sfântul Paul",
@@ -3419,7 +4131,17 @@ const citySeeds: CitySeed[] = [
                   "category": "museum",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Hôtel-Dieu-le-Comte", "text": "Un fost spital istoric magnific, care găzduiește astăzi Cité du Vitrail și o farmacie celebră din secolul XVIII.", "category": "museum", "confidence": "high" },
+            { "name": "Biserica Saint-Nizier", "text": "O biserică gotică faimoasă pentru acoperișul său din țiglă smălțuită colorată și sculpturile sale renascentiste.", "category": "religious", "confidence": "high" },
+            { "name": "Biserica Saint-Pantaléon", "text": "Această biserică adăpostește o colecție excepțională de statui din secolul al XVI-lea realizate de maeștri locali.", "category": "religious", "confidence": "high" },
+            { "name": "Primăria (Hôtel de Ville)", "text": "O clădire barocă impresionantă din secolul al XVII-lea, având o statuie a libertății pe fațada sa principală.", "category": "civic", "confidence": "high" },
+            { "name": "Muzeul Saint-Loup", "text": "Situat în fosta abație Saint-Loup, prezintă colecții valoroase de artă, arheologie și istorie naturală.", "category": "museum", "confidence": "high" },
+            { "name": "Halele din Troyes", "text": "O piață plină de viață în stil Baltard, unde puteți găsi specialități locale precum andouillette și brânză Chaource.", "category": "culinary", "confidence": "high" },
+            { "name": "Muzeul Vauluisant", "text": "Găzduit într-un palat renascentist, este dedicat istoriei tricotajelor și artei religioase din regiunea Troyes.", "category": "museum", "confidence": "high" },
+            { "name": "Prefectura Aube", "text": "O clădire elegantă care a fost anterior o mănăstire benedictină, acum sediul administrației departamentale.", "category": "civic", "confidence": "high" },
+            { "name": "Biserica Saint-Jean-au-Marché", "text": "Locul unde s-a semnat Tratatul de la Troyes în 1420 și unde Henric al V-lea al Angliei s-a căsătorit.", "category": "religious", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Cathedral of Saint-Pierre-et-Saint-Paul",
@@ -3463,7 +4185,17 @@ const citySeeds: CitySeed[] = [
                   "category": "museum",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Hôtel-Dieu-le-Comte", "text": "A magnificent historic hospital that now houses the Cité du Vitrail and a famous 18th-century apothecary.", "category": "museum", "confidence": "high" },
+            { "name": "Saint-Nizier Church", "text": "A Gothic church famous for its colorful glazed tile roof and beautiful Renaissance-era sculptures.", "category": "religious", "confidence": "high" },
+            { "name": "Saint-Pantaléon Church", "text": "This church houses an exceptional collection of 16th-century statues created by renowned local masters.", "category": "religious", "confidence": "high" },
+            { "name": "Town Hall (Hôtel de Ville)", "text": "An impressive 17th-century Baroque building featuring a statue of Liberty on its main facade.", "category": "civic", "confidence": "high" },
+            { "name": "Saint-Loup Museum", "text": "Located in the former Saint-Loup Abbey, it displays fine arts, archaeology, and natural history collections.", "category": "museum", "confidence": "high" },
+            { "name": "Market Hall (Halles de Troyes)", "text": "A vibrant Baltard-style market where you can find local specialties like andouillette and Chaource cheese.", "category": "culinary", "confidence": "high" },
+            { "name": "Vauluisant Museum", "text": "Housed in a Renaissance palace, it is dedicated to the history of hosiery and the art of the Troyes region.", "category": "museum", "confidence": "high" },
+            { "name": "Aube Prefecture", "text": "An elegant building that was formerly a Benedictine monastery, now serving as the local administrative seat.", "category": "civic", "confidence": "high" },
+            { "name": "Saint-Jean-au-Marché Church", "text": "The site where the Treaty of Troyes was signed in 1420 and Henry V of England married Catherine of Valois.", "category": "religious", "confidence": "high" }
+        ]
 }
   },
   {
@@ -3543,7 +4275,17 @@ const citySeeds: CitySeed[] = [
                   "category": "cultural",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Musée d'Art et d'Industrie", "text": "Es zeigt bedeutende Sammlungen von Waffen, Fahrrädern und Textilmaschinen aus der lokalen Industriegeschichte.", "category": "museum", "confidence": "high" },
+            { "name": "Musée du Vieux Saint-Étienne", "text": "In einem Renaissance-Palast untergebracht, bewahrt dieses Museum die lokale Geschichte und Traditionen durch vielfältige Exponate.", "category": "museum", "confidence": "high" },
+            { "name": "Hôtel de Ville de Saint-Étienne", "text": "Das neoklassizistische Rathaus aus dem Jahr 1821 beeindruckt durch seine monumentale Fassade im Herzen des Stadtzentrums.", "category": "civic", "confidence": "high" },
+            { "name": "Opéra de Saint-Étienne", "text": "Das moderne Opernhaus ist bekannt für seine hervorragende Akustik und bietet ein vielfältiges Programm aus Musik und Theater.", "category": "cultural", "confidence": "high" },
+            { "name": "Gare de Saint-Étienne-Châteaucreux", "text": "Der Hauptbahnhof des Departements Loire ist ein wichtiger Verkehrsknotenpunkt mit einer modernen, bunten Architektur.", "category": "station", "confidence": "high" },
+            { "name": "Zenith de Saint-Étienne", "text": "Diese futuristische Konzerthalle von Norman Foster ist Austragungsort für große Musikveranstaltungen und internationale Shows.", "category": "cultural", "confidence": "high" },
+            { "name": "Église Sainte-Marie", "text": "Diese neogotische Kirche aus dem 19. Jahrhundert ist bekannt für ihre markante Turmspitze und die farbenfrohen Buntglasfenster.", "category": "religious", "confidence": "high" },
+            { "name": "Parc Montaud", "text": "Der größte Park der Stadt bietet weite Grünflächen, Waldgebiete und einen Panoramablick auf Saint-Étienne.", "category": "natural", "confidence": "high" },
+            { "name": "Mémorial de la Résistance", "text": "Dieses Museum dokumentiert die Geschichte des Widerstands und das Schicksal der Deportierten in der Region während des Krieges.", "category": "historical", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Modern és Kortárs Művészeti Múzeum",
@@ -3587,7 +4329,17 @@ const citySeeds: CitySeed[] = [
                   "category": "cultural",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Művészeti és Ipari Múzeum", "text": "Az ipari múltat bemutató intézmény fegyverek, kerékpárok és textilipari gépek egyik leggazdagabb gyűjteményével rendelkezik.", "category": "museum", "confidence": "high" },
+            { "name": "Régi Saint-Étienne Múzeuma", "text": "Egy reneszánsz palotában helyet kapó múzeum a város történetét és mindennapi életét mutatja be középkortól napjainkig.", "category": "museum", "confidence": "high" },
+            { "name": "Saint-Étienne-i Városháza", "text": "Az 1821-ben épült neoklasszicista stílusú városháza monumentális oszlopaival és elegáns homlokzatával uralja a központi teret.", "category": "civic", "confidence": "high" },
+            { "name": "Saint-Étienne-i Opera", "text": "A modern operaház kiváló akusztikájáról ismert, és változatos zenei, táncos, valamint színházi előadásoknak ad otthont.", "category": "cultural", "confidence": "high" },
+            { "name": "Gare de Saint-Étienne-Châteaucreux", "text": "A Loire megye legfontosabb vasútállomása, amely modern építészetével és élénk színeivel tűnik ki a városképből.", "category": "station", "confidence": "high" },
+            { "name": "Zenith de Saint-Étienne", "text": "A Norman Foster által tervezett futurisztikus koncertcsarnok hatalmas befogadóképességével a régió legnagyobb rendezvényhelyszíne.", "category": "cultural", "confidence": "high" },
+            { "name": "Sainte-Marie templom", "text": "Ez a 19. századi neogótikus templom elegáns tornyáról és belső terét megvilágító, színes üvegablakairól ismert vallási helyszín.", "category": "religious", "confidence": "high" },
+            { "name": "Parc Montaud", "text": "A város legnagyobb parkja tágas zöldfelületeket, erdős részeket és gyönyörű panorámát kínál Saint-Étienne-re.", "category": "natural", "confidence": "high" },
+            { "name": "Ellenállás és Deportálás Múzeuma", "text": "A múzeum a Loire régió ellenállási mozgalmának és a deportálások áldozatainak állít méltó és megrázó emléket.", "category": "historical", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Muzeul de Artă Modernă și Contemporană",
@@ -3631,7 +4383,17 @@ const citySeeds: CitySeed[] = [
                   "category": "cultural",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Muzeul de Artă și Industrie", "text": "Situat într-un parc, muzeul prezintă colecții remarcabile de arme, biciclete și utilaje textile din istoria industrială.", "category": "museum", "confidence": "high" },
+            { "name": "Muzeul Vechiului Saint-Étienne", "text": "Găzduit într-un palat renascentist, acest muzeu păstrează istoria locală și tradițiile prin numeroase exponate valoroase.", "category": "museum", "confidence": "high" },
+            { "name": "Primăria din Saint-Étienne", "text": "Construită în 1821 în stil neoclasic, clădirea primăriei impresionează prin fațada sa monumentală situată în inima orașului.", "category": "civic", "confidence": "high" },
+            { "name": "Opera din Saint-Étienne", "text": "Această instituție culturală modernă este renumită pentru acustica sa excelentă și oferă un program divers de spectacole.", "category": "cultural", "confidence": "high" },
+            { "name": "Gara Châteaucreux", "text": "Principala gară a departamentului Loire, aceasta este un nod feroviar major, remarcându-se prin designul modern și colorat.", "category": "station", "confidence": "high" },
+            { "name": "Zenith de Saint-Étienne", "text": "Proiectată de Norman Foster, această sală de concerte futuristă găzduiește evenimente muzicale majore și spectacole internaționale.", "category": "cultural", "confidence": "high" },
+            { "name": "Biserica Sainte-Marie", "text": "Această biserică neogotică din secolul al XIX-lea este remarcabilă pentru turnul său înalt și vitraliile colorate din interior.", "category": "religious", "confidence": "high" },
+            { "name": "Parcul Montaud", "text": "Cel mai mare parc din oraș oferă spații verzi vaste, zone împădurite și o vedere panoramică spectaculoasă asupra orașului.", "category": "natural", "confidence": "high" },
+            { "name": "Memorialul Rezistenței", "text": "Acest muzeu documentează istoria rezistenței și soarta deportaților din regiunea Loire în timpul celui de-al Doilea Război Mondial.", "category": "historical", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Museum of Modern and Contemporary Art",
@@ -3675,7 +4437,17 @@ const citySeeds: CitySeed[] = [
                   "category": "cultural",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Museum of Art and Industry", "text": "Located in a park, this museum houses impressive collections of weapons, bicycles, and textiles from the city's industrial past.", "category": "museum", "confidence": "high" },
+            { "name": "Museum of Old Saint-Étienne", "text": "Housed in a Renaissance mansion, this museum preserves local history and traditions through diverse exhibits and artifacts.", "category": "museum", "confidence": "high" },
+            { "name": "Saint-Étienne City Hall", "text": "Built in 1821 in Neoclassical style, this monumental building dominates the central square with its impressive facade and columns.", "category": "civic", "confidence": "high" },
+            { "name": "Saint-Étienne Opera House", "text": "Known for its superb acoustics, this modern venue hosts a wide range of opera, dance, and theatrical performances every year.", "category": "cultural", "confidence": "high" },
+            { "name": "Saint-Étienne-Châteaucreux Station", "text": "The main railway hub of the Loire department, featuring colorful modern architecture and serving high-speed trains.", "category": "station", "confidence": "high" },
+            { "name": "Zenith de Saint-Étienne", "text": "Designed by Norman Foster, this futuristic concert hall is a major venue for large-scale musical events and international shows.", "category": "cultural", "confidence": "high" },
+            { "name": "Sainte-Marie Church", "text": "This 19th-century Neo-Gothic church is notable for its slender spire and the beautiful stained-glass windows decorating its interior.", "category": "religious", "confidence": "high" },
+            { "name": "Montaud Park", "text": "The city's largest park offers extensive green spaces, wooded areas, and panoramic views over the surrounding mountains.", "category": "natural", "confidence": "high" },
+            { "name": "Resistance and Deportation Memorial", "text": "This museum documents the history of the local resistance and the fate of deportees from the Loire region during WWII.", "category": "historical", "confidence": "high" }
+        ]
 }
   },
   {
@@ -3749,7 +4521,20 @@ const citySeeds: CitySeed[] = [
                   "category": "civic",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Téléphérique du Mont Faron", "text": "Die Seilbahn verbindet die Stadt mit dem Gipfel des Mont Faron und bietet eine spektakuläre Aussicht auf die Bucht.", "category": "recreational", "confidence": "high" },
+            { "name": "Musée d'Art de Toulon", "text": "Dieses Museum zeigt eine Sammlung zeitgenössischer Kunst sowie bedeutende Werke aus dem 15. bis 20. Jahrhundert.", "category": "museum", "confidence": "high" },
+            { "name": "Porte de l'Arsenal", "text": "Ein monumentaler Eingang zum Marinestützpunkt Toulon, der im klassischen Stil erbaut wurde und die Marinegeschichte ehrt.", "category": "historical", "confidence": "high" },
+            { "name": "Marché du Cours Lafayette", "text": "Ein berühmter provenzalischer Markt im Freien, bekannt für seine frischen regionalen Produkte und seine lebhafte Atmosphäre.", "category": "culinary", "confidence": "high" },
+            { "name": "Jardin du Las", "text": "Ein botanischer Garten, der eine Vielzahl exotischer Pflanzen und das Naturkundemuseum in einer ruhigen Umgebung beherbergt.", "category": "natural", "confidence": "high" },
+            { "name": "Stade Mayol", "text": "Das legendäre Rugby-Stadion von Toulon, benannt nach dem Sänger Félix Mayol, im Herzen des Hafenviertels gelegen.", "category": "recreational", "confidence": "high" },
+            { "name": "Tour Royale", "text": "Eine historische Festung am Eingang des Hafens, die im 16. Jahrhundert zur Verteidigung der Küste errichtet wurde.", "category": "fortress", "confidence": "high" },
+            { "name": "Église Saint-François-de-Paule", "text": "Eine barocke Kirche aus dem 18. Jahrhundert, die sich im historischen Zentrum befindet und durch ihre Schlichtheit besticht.", "category": "religious", "confidence": "high" },
+            { "name": "Mémorial du débarquement en Provence", "text": "Ein Denkmal auf dem Mont Faron, das an die Befreiung Südfrankreichs durch die Alliierten im Jahr 1944 erinnert.", "category": "historical", "confidence": "high" },
+            { "name": "Gare de Toulon", "text": "Der Hauptbahnhof der Stadt, ein wichtiges Gebäude für den nationalen Zugverkehr mit moderner Anbindung.", "category": "station", "confidence": "high" },
+            { "name": "Hôtel de Ville de Toulon", "text": "Das Rathaus von Toulon, berühmt für die Karyatiden-Skulpturen von Pierre Puget, die die Fassade des Gebäudes schmücken.", "category": "civic", "confidence": "high" },
+            { "name": "Quartier du Mourillon", "text": "Ein malerisches Viertel am Meer mit Stränden, Gärten und einer entspannten mediterranen Atmosphäre für Besucher.", "category": "recreational", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Mont Faron",
@@ -3787,7 +4572,20 @@ const citySeeds: CitySeed[] = [
                   "category": "civic",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Téléphérique du Mont Faron", "text": "A felvonó köti össze a várost a Mont Faron csúcsával, lenyűgöző panorámát nyújtva a touloni öbölre és a tengerre.", "category": "recreational", "confidence": "high" },
+            { "name": "Musée d'Art de Toulon", "text": "Ez a múzeum kortárs művészeti gyűjteményt, valamint 15-20. századi alkotásokat mutat be egy elegáns környezetben.", "category": "museum", "confidence": "high" },
+            { "name": "Porte de l'Arsenal", "text": "A touloni haditengerészeti bázis monumentális bejárata, amely klasszikus stílusban épült a 18. században.", "category": "historical", "confidence": "high" },
+            { "name": "Marché du Cours Lafayette", "text": "Híres provanszi szabadtéri piac, amely friss helyi termékeiről, színeiről és vibráló hangulatáról ismert világszerte.", "category": "culinary", "confidence": "high" },
+            { "name": "Jardin du Las", "text": "Botanikus kert, amely számos egzotikus növénynek és a Természettudományi Múzeumnak ad otthont egy csendes parkban.", "category": "natural", "confidence": "high" },
+            { "name": "Stade Mayol", "text": "Toulon legendás rögbi-stadionja, amelyet a híres énekesről, Félix Mayolról neveztek el, közvetlenül a kikötő mellett.", "category": "recreational", "confidence": "high" },
+            { "name": "Tour Royale", "text": "Történelmi erőd a kikötő bejáratánál, amely a 16. században épült a partvonal és a hajózási útvonalak védelmére.", "category": "fortress", "confidence": "high" },
+            { "name": "Église Saint-François-de-Paule", "text": "18. századi barokk templom, amely a történelmi városközpont szívében található, egyszerű de méltóságteljes belsővel.", "category": "religious", "confidence": "high" },
+            { "name": "Mémorial du débarquement en Provence", "text": "Emlékmű a Mont Faron hegyen, amely Dél-Franciaország 1944-es szövetséges felszabadításának állít örök emléket.", "category": "historical", "confidence": "high" },
+            { "name": "Gare de Toulon", "text": "A város főpályaudvara, a regionális és országos vasúti közlekedés egyik fontos állomása modern szolgáltatásokkal.", "category": "station", "confidence": "high" },
+            { "name": "Hôtel de Ville de Toulon", "text": "Toulon városházája, amely a homlokzatán látható Pierre Puget által készített monumentális kariatidákról híres.", "category": "civic", "confidence": "high" },
+            { "name": "Quartier du Mourillon", "text": "Festői tengerparti negyed strandokkal, kertekkel és nyugodt mediterrán hangulattal, népszerű a turisták körében.", "category": "recreational", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Mont Faron",
@@ -3825,7 +4623,20 @@ const citySeeds: CitySeed[] = [
                   "category": "civic",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Téléphérique du Mont Faron", "text": "Telecabina care leagă orașul de vârful Mont Faron, oferind o vedere spectaculoasă asupra golfului și a mării.", "category": "recreational", "confidence": "high" },
+            { "name": "Musée d'Art de Toulon", "text": "Acest muzeu prezintă o colecție de artă contemporană, precum și lucrări importante din secolele XV-XX.", "category": "museum", "confidence": "high" },
+            { "name": "Porte de l'Arsenal", "text": "O intrare monumentală în baza navală din Toulon, construită în stil clasic și impunător în secolul al XVIII-lea.", "category": "historical", "confidence": "high" },
+            { "name": "Marché du Cours Lafayette", "text": "O celebră piață provensală în aer liber, cunoscută pentru produsele locale proaspete și atmosfera sa vibrantă.", "category": "culinary", "confidence": "high" },
+            { "name": "Jardin du Las", "text": "O grădină botanică care găzduiește o varietate de plante exotice și Muzeul de Istorie Naturală într-un cadru liniștit.", "category": "natural", "confidence": "high" },
+            { "name": "Stade Mayol", "text": "Stadionul legendar de rugby din Toulon, numit după celebrul cântăreț Félix Mayol, situat lângă portul maritim.", "category": "recreational", "confidence": "high" },
+            { "name": "Tour Royale", "text": "O fortăreață istorică situată la intrarea în port, construită în secolul al XVI-lea pentru apărarea coastei franceze.", "category": "fortress", "confidence": "high" },
+            { "name": "Église Saint-François-de-Paule", "text": "O biserică barocă din secolul al XVIII-lea, situată în inima centrului istoric al orașului, cu un stil simplu și elegant.", "category": "religious", "confidence": "high" },
+            { "name": "Mémorial du débarquement en Provence", "text": "Un memorial situat pe vârful Mont Faron, care comemorează eliberarea sudului Franței de către aliați în 1944.", "category": "historical", "confidence": "high" },
+            { "name": "Gare de Toulon", "text": "Gara principală a orașului, o clădire importantă pentru traficul feroviar regional și național în sudul Franței.", "category": "station", "confidence": "high" },
+            { "name": "Hôtel de Ville de Toulon", "text": "Primăria din Toulon, renumită pentru sculpturile cariatidelor realizate de Pierre Puget care împodobesc fațada.", "category": "civic", "confidence": "high" },
+            { "name": "Quartier du Mourillon", "text": "Un cartier pitoresc de pe litoral, cu plaje, grădini și o atmosferă mediteraneană relaxată, ideal pentru relaxare.", "category": "recreational", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Mont Faron",
@@ -3863,7 +4674,20 @@ const citySeeds: CitySeed[] = [
                   "category": "civic",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Téléphérique du Mont Faron", "text": "The cable car connecting the city to the summit of Mont Faron, offering spectacular views of the Toulon bay.", "category": "recreational", "confidence": "high" },
+            { "name": "Musée d'Art de Toulon", "text": "This museum presents a collection of contemporary art as well as significant works from the 15th-20th centuries.", "category": "museum", "confidence": "high" },
+            { "name": "Porte de l'Arsenal", "text": "A monumental entrance to the Toulon naval base, built in a classical and imposing style in the 18th century.", "category": "historical", "confidence": "high" },
+            { "name": "Marché du Cours Lafayette", "text": "A famous Provençal open-air market, known for its fresh local products, colors, and vibrant daily atmosphere.", "category": "culinary", "confidence": "high" },
+            { "name": "Jardin du Las", "text": "A botanical garden housing a variety of exotic plants and the Museum of Natural History in a peaceful park setting.", "category": "natural", "confidence": "high" },
+            { "name": "Stade Mayol", "text": "The legendary rugby stadium of Toulon, named after the famous singer Félix Mayol, located right by the port.", "category": "recreational", "confidence": "high" },
+            { "name": "Tour Royale", "text": "A historic fortress located at the entrance to the port, built in the 16th century for coastal defense purposes.", "category": "fortress", "confidence": "high" },
+            { "name": "Église Saint-François-de-Paule", "text": "An 18th-century Baroque church located in the heart of the historic city center, with a simple and dignified interior.", "category": "religious", "confidence": "high" },
+            { "name": "Mémorial du débarquement en Provence", "text": "A memorial located on Mont Faron, commemorating the liberation of southern France by Allied forces in 1944.", "category": "historical", "confidence": "high" },
+            { "name": "Gare de Toulon", "text": "The city's main railway station, an important building for regional and national rail traffic in southern France.", "category": "station", "confidence": "high" },
+            { "name": "Hôtel de Ville de Toulon", "text": "Toulon's town hall, famous for the monumental caryatid sculptures by Pierre Puget on its historic facade.", "category": "civic", "confidence": "high" },
+            { "name": "Quartier du Mourillon", "text": "A picturesque seaside district with beaches, gardens, and a relaxed Mediterranean atmosphere for tourists and locals.", "category": "recreational", "confidence": "high" }
+        ]
 }
   },
   {
@@ -3937,7 +4761,18 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Fontaine Monumentale", "text": "Ein bedeutender Brunnen aus dem 19. Jahrhundert, entworfen von Eugène Poitoux, im Herzen der Stadt.", "category": "historical", "confidence": "high" },
+            { "name": "Maison Dupré-Latour", "text": "Ein historisches Herrenhaus mit einem bemerkenswerten Treppenturm und Reliefs aus der Renaissance-Zeit.", "category": "historical", "confidence": "high" },
+            { "name": "Église Saint-Jean-Baptiste", "text": "Eine romanische Kirche mit einem markanten Turm, die auf den Fundamenten eines antiken Tempels steht.", "category": "religious", "confidence": "high" },
+            { "name": "Port de l'Épervière", "text": "Der größte Binnenhafen Frankreichs am Ufer der Rhône, ideal für Spaziergänge und nautische Aktivitäten.", "category": "recreational", "confidence": "high" },
+            { "name": "Gare de Valence-Ville", "text": "Ein eleganter Bahnhof mit einer Fassade aus dem 19. Jahrhundert, inspiriert von der Pariser Gare de l'Est.", "category": "station", "confidence": "high" },
+            { "name": "Théâtre de la Ville", "text": "Ein bedeutendes Kulturzentrum in einem historischen Gebäude, das ein vielfältiges Programm anbietet.", "category": "cultural", "confidence": "high" },
+            { "name": "Place des Clercs", "text": "Ein lebendiger Platz im historischen Zentrum, umgeben von Cafés und mittelalterlicher Architektur.", "category": "historical", "confidence": "high" },
+            { "name": "Temple Saint-Ruff", "text": "Die Ruinen einer ehemaligen Abtei und Kirche, die heute als bedeutender protestantischer Tempel dienen.", "category": "religious", "confidence": "high" },
+            { "name": "Canaux de Valence", "text": "Ein Netzwerk von über 17 Kilometern Kanälen, die sich als grüne Wege durch das Stadtgebiet ziehen.", "category": "natural", "confidence": "high" },
+            { "name": "Champ de Mars", "text": "Eine weite Esplanade mit Panoramablick auf die Berge des Vivarais und die Ruinen von Schloss Crussol.", "category": "historical", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Maison des Têtes",
@@ -3975,7 +4810,18 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Fontaine Monumentale", "text": "Egy jelentős, 19. századi szökőkút Valence szívében, amelyet Eugène Poitoux építész tervezett.", "category": "historical", "confidence": "high" },
+            { "name": "Maison Dupré-Latour", "text": "Egy történelmi reneszánsz kúria, amely figyelemre méltó lépcsőtornyáról és faragott díszítéseiről ismert.", "category": "historical", "confidence": "high" },
+            { "name": "Église Saint-Jean-Baptiste", "text": "Egy román stílusú templom jellegzetes harangtoronnyal, amely ókori építmények alapjaira épült.", "category": "religious", "confidence": "high" },
+            { "name": "Port de l'Épervière", "text": "Franciaország legnagyobb folyami kikötője a Rhone partján, amely sétákra és vízi sportokra is alkalmas.", "category": "recreational", "confidence": "high" },
+            { "name": "Gare de Valence-Ville", "text": "Elegáns, 19. századi vasútállomás, amelynek homlokzatát a párizsi Gare de l'Est épülete ihlette.", "category": "station", "confidence": "high" },
+            { "name": "Théâtre de la Ville", "text": "Fontos kulturális központ egy történelmi épületben, amely változatos színházi előadásokat kínál.", "category": "cultural", "confidence": "high" },
+            { "name": "Place des Clercs", "text": "Élettel teli tér a történelmi városközpontban, amelyet kávézók és középkori épületek vesznek körül.", "category": "historical", "confidence": "high" },
+            { "name": "Temple Saint-Ruff", "text": "Egy egykori apátság és templom romjai, amelyek ma fontos protestáns templomként szolgálnak.", "category": "religious", "confidence": "high" },
+            { "name": "Canaux de Valence", "text": "Több mint 17 kilométernyi csatornahálózat, amely zöld útvonalként húzódik végig a város területén.", "category": "natural", "confidence": "high" },
+            { "name": "Champ de Mars", "text": "Hatalmas sétány, ahonnan panorámás kilátás nyílik a Vivarais-hegységre és Crussol várának romjaira.", "category": "historical", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Maison des Têtes",
@@ -4013,7 +4859,18 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Fontaine Monumentale", "text": "O fântână importantă din secolul al XIX-lea, situată în centrul orașului, proiectată de Eugène Poitoux.", "category": "historical", "confidence": "high" },
+            { "name": "Maison Dupré-Latour", "text": "O casă istorică în stil renascentist, renumită pentru turnul său cu scară și basoreliefurile detaliate.", "category": "historical", "confidence": "high" },
+            { "name": "Église Saint-Jean-Baptiste", "text": "O biserică în stil romanic, cu un turn distinctiv, construită pe fundațiile unor structuri antice.", "category": "religious", "confidence": "high" },
+            { "name": "Port de l'Épervière", "text": "Cel mai mare port fluvial din Franța, situat pe malul Rhonului, ideal pentru plimbări și sporturi nautice.", "category": "recreational", "confidence": "high" },
+            { "name": "Gare de Valence-Ville", "text": "O gară elegantă cu o fațadă din secolul al XIX-lea, inspirată de arhitectura gării Gare de l'Est din Paris.", "category": "station", "confidence": "high" },
+            { "name": "Théâtre de la Ville", "text": "Un centru cultural important găzduit într-o clădire istorică, oferind un program variat de spectacole.", "category": "cultural", "confidence": "high" },
+            { "name": "Place des Clercs", "text": "O piață plină de viață în centrul istoric, înconjurată de cafenele și arhitectură medievală.", "category": "historical", "confidence": "high" },
+            { "name": "Temple Saint-Ruff", "text": "Ruinele unei foste abații și biserici, care astăzi servesc drept un important lăcaș de cult protestant.", "category": "religious", "confidence": "high" },
+            { "name": "Canaux de Valence", "text": "O rețea de peste 17 kilometri de canale care străbat orașul, formând trasee verzi pitorești.", "category": "natural", "confidence": "high" },
+            { "name": "Champ de Mars", "text": "O esplanadă vastă care oferă o vedere panoramică asupra munților Vivarais și a ruinelor castelului Crussol.", "category": "historical", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Maison des Têtes",
@@ -4051,7 +4908,18 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Fontaine Monumentale", "text": "A significant 19th-century fountain in the heart of the city, designed by the architect Eugène Poitoux.", "category": "historical", "confidence": "high" },
+            { "name": "Maison Dupré-Latour", "text": "A historic Renaissance mansion featuring a remarkable staircase tower and detailed architectural reliefs.", "category": "historical", "confidence": "high" },
+            { "name": "Église Saint-Jean-Baptiste", "text": "A Romanesque church with a striking bell tower, built upon the foundations of ancient structures.", "category": "religious", "confidence": "high" },
+            { "name": "Port de l'Épervière", "text": "The largest river port in France, located on the banks of the Rhône, perfect for walks and water sports.", "category": "recreational", "confidence": "high" },
+            { "name": "Gare de Valence-Ville", "text": "An elegant 19th-century railway station with a facade inspired by the Gare de l'Est in Paris.", "category": "station", "confidence": "high" },
+            { "name": "Théâtre de la Ville", "text": "An important cultural center housed in a historic building, offering a diverse program of performances.", "category": "cultural", "confidence": "high" },
+            { "name": "Place des Clercs", "text": "A lively square in the historic center, surrounded by cafes and beautiful medieval architecture.", "category": "historical", "confidence": "high" },
+            { "name": "Temple Saint-Ruff", "text": "The ruins of a former abbey and church, which today serve as a significant Protestant temple.", "category": "religious", "confidence": "high" },
+            { "name": "Canaux de Valence", "text": "A network of over 17 kilometers of canals that wind through the city as green paths.", "category": "natural", "confidence": "high" },
+            { "name": "Champ de Mars", "text": "A vast esplanade offering a panoramic view of the Vivarais mountains and the ruins of Crussol Castle.", "category": "historical", "confidence": "high" }
+        ]
 }
   },
   {
@@ -4313,7 +5181,18 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "LAAC", "text": "Museum für moderne Kunst in einem Park am Meer, mit Werken aus den 1950er bis 1980er Jahren.", "category": "museum", "confidence": "high" },
+            { "name": "FRAC Grand Large", "text": "Zentrum für zeitgenössische Kunst in einem markanten Glasgebäude, einer ehemaligen Werftwerkstatt.", "category": "museum", "confidence": "high" },
+            { "name": "Hôtel de Ville de Dunkerque", "text": "Rathaus im neoflämischen Stil, eingeweiht 1901, bekannt für seine prächtige Fassade und Buntglasfenster.", "category": "civic", "confidence": "high" },
+            { "name": "Tour du Leughenaer", "text": "Das älteste Denkmal der Stadt, dieser achteckige Turm stammt aus dem Jahr 1405 und diente als Leuchtturm.", "category": "historical", "confidence": "high" },
+            { "name": "Musée de l'Opération Dynamo", "text": "Geschichtsmuseum in der Bastion 32, gewidmet der Evakuierung der alliierten Truppen im Jahr 1940.", "category": "museum", "confidence": "high" },
+            { "name": "Princess Elizabeth", "text": "Authentischer Schaufelraddampfer, der während der Operation Dynamo eingesetzt wurde, heute ein Restaurant.", "category": "historical", "confidence": "high" },
+            { "name": "Fort des Dunes", "text": "Unterirdische Befestigungsanlage von 1878 zum Schutz des Hafens, Schauplatz schwerer Kämpfe im Jahr 1940.", "category": "fortress", "confidence": "high" },
+            { "name": "Jardin des Sculptures", "text": "Freiluftgalerie rund um das LAAC mit monumentalen modernen Skulpturen in einer grünen Parklandschaft.", "category": "cultural", "confidence": "high" },
+            { "name": "Gare de Dunkerque", "text": "Hauptbahnhof der Stadt, der nach dem Krieg im modernen Stil wiederaufgebaut wurde und den TGV bedient.", "category": "station", "confidence": "high" },
+            { "name": "Kursaal", "text": "Das Palais des Congrès der Stadt, ein wichtiges kulturelles Zentrum für Veranstaltungen direkt am Meer.", "category": "cultural", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Beffroi de Dunkerque",
@@ -4351,7 +5230,18 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "LAAC", "text": "Modern művészeti múzeum egy tengerparti parkban, az 1950-es és 1980-as évek közötti művekkel.", "category": "museum", "confidence": "high" },
+            { "name": "FRAC Grand Large", "text": "Kortárs művészeti központ egy látványos üvegépületben, amely egykori hajógyári műhely volt.", "category": "museum", "confidence": "high" },
+            { "name": "Dunkerque-i városháza", "text": "1901-ben felavatott neoflamand stílusú városháza, amely homlokzatáról és üvegablakairól híres.", "category": "civic", "confidence": "high" },
+            { "name": "Leughenaer-torony", "text": "A város legrégebbi műemléke, ez a nyolcszögletű torony 1405-ből származik, és világítótoronyként szolgált.", "category": "historical", "confidence": "high" },
+            { "name": "Dinamó hadművelet múzeuma", "text": "A 32-es bástyában található történelmi múzeum, amely a szövetséges csapatok 1940-es evakuálásának állít emléket.", "category": "museum", "confidence": "high" },
+            { "name": "Princess Elizabeth", "text": "Az Operation Dynamo során használt eredeti lapátkerekes gőzhajó, amely ma étteremként üzemel.", "category": "historical", "confidence": "high" },
+            { "name": "Fort des Dunes", "text": "1878-ban épült föld alatti erődítmény a kikötő védelmére, 1940-ben súlyos harcok helyszíne volt.", "category": "fortress", "confidence": "high" },
+            { "name": "Szoborkert", "text": "A LAAC-ot körülvevő szabadtéri galéria, amely monumentális modern szobrokat mutat be zöld környezetben.", "category": "cultural", "confidence": "high" },
+            { "name": "Dunkerque vasútállomás", "text": "A város főpályaudvara, amelyet a háború után újjáépítettek, és ma TGV-összeköttetést biztosít.", "category": "station", "confidence": "high" },
+            { "name": "Kursaal", "text": "A város kongresszusi palotája, amely fontos kulturális eseményeknek ad otthont a tengerparton.", "category": "cultural", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Beffroi de Dunkerque",
@@ -4389,7 +5279,18 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "LAAC", "text": "Muzeu de artă modernă situat într-un parc lângă mare, prezentând lucrări din anii 1950 până în 1980.", "category": "museum", "confidence": "high" },
+            { "name": "FRAC Grand Large", "text": "Centru de artă contemporană găzduit într-o clădire de sticlă impresionantă, fost atelier naval.", "category": "museum", "confidence": "high" },
+            { "name": "Primăria Dunkerque", "text": "Primăria în stil neoflamand inaugurată în 1901, renumită pentru fațada sa și vitralii.", "category": "civic", "confidence": "high" },
+            { "name": "Turnul Leughenaer", "text": "Cel mai vechi monument din oraș, acest turn octogonal datează din 1405 și a servit drept far.", "category": "historical", "confidence": "high" },
+            { "name": "Muzeul Operațiunii Dynamo", "text": "Muzeu de istorie situat în Bastionul 32, dedicat evacuării trupelor aliate în anul 1940.", "category": "museum", "confidence": "high" },
+            { "name": "Princess Elizabeth", "text": "Vapor cu roți autentic folosit în timpul Operațiunii Dynamo, acum ancorat și servind drept restaurant.", "category": "historical", "confidence": "high" },
+            { "name": "Fort des Dunes", "text": "Fortificație subterană construită în 1878 pentru protejarea portului, locul unor lupte grele în 1940.", "category": "fortress", "confidence": "high" },
+            { "name": "Grădina de Sculpturi", "text": "Galerie în aer liber care înconjoară LAAC, prezentând sculpturi moderne monumentale într-un cadru verde.", "category": "cultural", "confidence": "high" },
+            { "name": "Gara Dunkerque", "text": "Gara principală a orașului, reconstruită în stil modern după război, deservind trenurile TGV.", "category": "station", "confidence": "high" },
+            { "name": "Kursaal", "text": "Palatul Congreselor din oraș, un centru cultural important pentru evenimente, situat pe malul mării.", "category": "cultural", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Dunkirk Belfry",
@@ -4427,7 +5328,18 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "LAAC", "text": "Modern art museum located in a park near the sea, featuring works from the 1950s to the 1980s.", "category": "museum", "confidence": "high" },
+            { "name": "FRAC Grand Large", "text": "Contemporary art center housed in a striking glass building, a former shipyard workshop.", "category": "museum", "confidence": "high" },
+            { "name": "Dunkerque Town Hall", "text": "Neo-Flemish style town hall inaugurated in 1901, famous for its facade and stained glass windows.", "category": "civic", "confidence": "high" },
+            { "name": "Leughenaer Tower", "text": "The oldest monument in the city, this octagonal tower dates back to 1405 and served as a lighthouse.", "category": "historical", "confidence": "high" },
+            { "name": "Operation Dynamo Museum", "text": "History museum located in the Bastion 32, dedicated to the evacuation of Allied troops in 1940.", "category": "museum", "confidence": "high" },
+            { "name": "Princess Elizabeth", "text": "Authentic paddle steamer used during Operation Dynamo, now docked and serving as a restaurant.", "category": "historical", "confidence": "high" },
+            { "name": "Fort des Dunes", "text": "Underground fortification built in 1878 to protect the port, site of heavy fighting in 1940.", "category": "fortress", "confidence": "high" },
+            { "name": "Sculpture Garden", "text": "Outdoor gallery surrounding the LAAC, featuring monumental modern sculptures in a green setting.", "category": "cultural", "confidence": "high" },
+            { "name": "Dunkerque Railway Station", "text": "The city's main station, rebuilt in a modern style after the war, connecting to Paris via TGV.", "category": "station", "confidence": "high" },
+            { "name": "Kursaal", "text": "The city's congress center, a major cultural venue for events and performances right by the beach.", "category": "cultural", "confidence": "high" }
+        ]
 }
   },
   {
@@ -4507,7 +5419,17 @@ const citySeeds: CitySeed[] = [
                   "category": "civic",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Maritimes Museum von La Rochelle", "text": "Ein schwimmendes Museum im Hafen, das historische Schiffe zeigt und die maritime Geschichte der Region lebendig macht.", "category": "museum", "confidence": "high" },
+            { "name": "Großes Uhrtor", "text": "Das monumentale Tor zwischen dem Hafen und der Altstadt, einst Teil der mittelalterlichen Stadtbefestigung.", "category": "historical", "confidence": "high" },
+            { "name": "Naturkundemuseum", "text": "Eines der ältesten Naturkundemuseen Frankreichs, untergebracht in einem ehemaligen Palast mit bedeutenden Sammlungen.", "category": "museum", "confidence": "high" },
+            { "name": "Markthallen von La Rochelle", "text": "Eine lebhafte Markthalle aus dem 19. Jahrhundert, in der lokale Spezialitäten der Region Charente angeboten werden.", "category": "culinary", "confidence": "high" },
+            { "name": "Charruyer-Park", "text": "Ein schmaler, langgestreckter Stadtpark, der sich durch das Zentrum zieht und Wasserläufe sowie Tiergehege umfasst.", "category": "natural", "confidence": "high" },
+            { "name": "Museum der Neuen Welt", "text": "Ein Museum, das die historische Verbindung zwischen La Rochelle und Amerika durch Handel und Sklaverei dokumentiert.", "category": "museum", "confidence": "high" },
+            { "name": "Yachthafen Les Minimes", "text": "Einer der größten Yachthäfen Europas mit Platz für Tausende von Booten, ein Zentrum für den Segelsport.", "category": "recreational", "confidence": "high" },
+            { "name": "Haus von Heinrich II.", "text": "Ein prächtiges Wohnhaus im Renaissancestil mit einer einzigartigen Galerie, das den Reichtum der Stadt im 16. Jahrhundert zeigt.", "category": "historical", "confidence": "high" },
+            { "name": "Leuchtturm am Ende der Welt", "text": "Eine hölzerne Replik des berühmten Leuchtturms in Patagonien, der vor der Küste von La Rochelle im Meer steht.", "category": "historical", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Vieux Port",
@@ -4551,7 +5473,17 @@ const citySeeds: CitySeed[] = [
                   "category": "civic",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Tengerészeti Múzeum", "text": "Úszó múzeum a kikötőben, amely történelmi hajókat mutat be, megelevenítve a régió tengerészeti múltját.", "category": "museum", "confidence": "high" },
+            { "name": "Nagy Óratorony", "text": "Monumentális kaputorony a kikötő és az óváros között, amely egykor a középkori városfal része volt.", "category": "historical", "confidence": "high" },
+            { "name": "Természettudományi Múzeum", "text": "Franciaország egyik legrégebbi természettudományi múzeuma, amely egy egykori palotában kapott helyet.", "category": "museum", "confidence": "high" },
+            { "name": "La Rochelle-i Vásárcsarnok", "text": "Lüktető 19. századi fedett piac, ahol a Charente régió helyi különlegességeit és friss áruit kínálják.", "category": "culinary", "confidence": "high" },
+            { "name": "Charruyer-park", "text": "Hosszú, keskeny zöldövezet a városközponton keresztül, csatornákkal és állatkifutókkal tarkítva.", "category": "natural", "confidence": "high" },
+            { "name": "Az Újvilág Múzeuma", "text": "Múzeum, amely La Rochelle és Amerika történelmi kapcsolatait tárja fel a kereskedelem és a gyarmatosítás tükrében.", "category": "museum", "confidence": "high" },
+            { "name": "Les Minimes jachtkikötő", "text": "Európa egyik legnagyobb szabadidős jachtkikötője, a vitorlázás és a vízi sportok egyik központja.", "category": "recreational", "confidence": "high" },
+            { "name": "II. Henrik háza", "text": "Pompás reneszánsz stílusú lakóház egyedülálló galériával, amely a város 16. századi gazdagságát tükrözi.", "category": "historical", "confidence": "high" },
+            { "name": "A világ végi világítótorony", "text": "A patagóniai híres világítótorony fa másolata, amely La Rochelle partjainál áll a tengerben.", "category": "historical", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Vieux Port",
@@ -4595,7 +5527,17 @@ const citySeeds: CitySeed[] = [
                   "category": "civic",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Muzeul Maritim din La Rochelle", "text": "Un muzeu plutitor situat în port, care expune nave istorice și ilustrează bogata istorie maritimă a regiunii.", "category": "museum", "confidence": "high" },
+            { "name": "Turnul Ceasului Mare", "text": "Poarta monumentală care separă portul de centrul vechi, fiind odinioară parte din fortificațiile medievale.", "category": "historical", "confidence": "high" },
+            { "name": "Muzeul de Istorie Naturală", "text": "Unul dintre cele mai vechi muzee de istorie naturală din Franța, găzduit într-un fost palat somptuos.", "category": "museum", "confidence": "high" },
+            { "name": "Halele din La Rochelle", "text": "O piață acoperită vibrantă din secolul al XIX-lea, unde pot fi găsite specialități locale din regiunea Charente.", "category": "culinary", "confidence": "high" },
+            { "name": "Parcul Charruyer", "text": "Un spațiu verde lung și îngust care traversează centrul orașului, cu cursuri de apă și mici parcuri zoologice.", "category": "natural", "confidence": "high" },
+            { "name": "Muzeul Lumii Noi", "text": "Muzeu dedicat legăturilor istorice dintre La Rochelle și Americi, axat pe comerț și istoria colonială.", "category": "museum", "confidence": "high" },
+            { "name": "Portul de Agrement Les Minimes", "text": "Unul dintre cele mai mari porturi de agrement din Europa, un centru major pentru amatorii de navigație.", "category": "recreational", "confidence": "high" },
+            { "name": "Casa lui Henric al II-lea", "text": "O reședință renascentistă magnifică, cu o galerie unică, demonstrând bogăția orașului în secolul al XVI-lea.", "category": "historical", "confidence": "high" },
+            { "name": "Farul de la Capătul Lumii", "text": "O replică din lemn a celebrului far din Patagonia, situată în largul coastelor orașului La Rochelle.", "category": "historical", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Vieux Port",
@@ -4639,7 +5581,17 @@ const citySeeds: CitySeed[] = [
                   "category": "civic",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Maritime Museum of La Rochelle", "text": "A floating museum in the harbor featuring historic ships and showcasing the region's rich maritime history.", "category": "museum", "confidence": "high" },
+            { "name": "Grosse Horloge", "text": "The monumental gate separating the port from the old city, formerly part of the medieval city fortifications.", "category": "historical", "confidence": "high" },
+            { "name": "Natural History Museum", "text": "One of France's oldest natural history museums, housed in a former palace with impressive scientific collections.", "category": "museum", "confidence": "high" },
+            { "name": "Les Halles de La Rochelle", "text": "A vibrant 19th-century covered market offering local Charente specialties and fresh regional produce.", "category": "culinary", "confidence": "high" },
+            { "name": "Charruyer Park", "text": "A long, narrow green space winding through the city center, featuring waterways and small animal enclosures.", "category": "natural", "confidence": "high" },
+            { "name": "New World Museum", "text": "A museum exploring the historical links between La Rochelle and the Americas through trade and colonization.", "category": "museum", "confidence": "high" },
+            { "name": "Les Minimes Marina", "text": "One of the largest pleasure boat marinas in Europe, a major center for sailing and nautical events.", "category": "recreational", "confidence": "high" },
+            { "name": "House of Henri II", "text": "A magnificent Renaissance residence with a unique gallery, reflecting the city's wealth in the 16th century.", "category": "historical", "confidence": "high" },
+            { "name": "Lighthouse at the End of the World", "text": "A wooden replica of the famous lighthouse in Patagonia, standing in the sea off the coast of La Rochelle.", "category": "historical", "confidence": "high" }
+        ]
 }
   },
   {
@@ -4931,7 +5883,19 @@ const citySeeds: CitySeed[] = [
                   "category": "natural",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Musée Bernadotte", "text": "Das Geburtshaus von Jean-Baptiste Bernadotte, einem Marschall Napoleons, der später König Karl XIV. Johann von Schweden wurde.", "category": "museum", "confidence": "high" },
+            { "name": "Église Saint-Jacques", "text": "Eine im 19. Jahrhundert im neugotischen Stil errichtete Kirche mit beeindruckenden Glasmalereien und zwei hohen Türmen.", "category": "religious", "confidence": "high" },
+            { "name": "Place Royale", "text": "Ein im 17. Jahrhundert angelegter Prachtplatz mit einer Statue von Heinrich IV. und Blick auf die Pyrenäenkette.", "category": "civic", "confidence": "high" },
+            { "name": "Musée de la Résistance et de la Déportation", "text": "Ein Museum, das der lokalen Widerstandsbewegung und den Opfern der NS-Deportation im Zweiten Weltkrieg gewidmet ist.", "category": "museum", "confidence": "high" },
+            { "name": "Les Halles de Pau", "text": "Eine moderne Markthalle, in der lokale Spezialitäten aus der Region Béarn, wie Käse und Weine, angeboten werden.", "category": "culinary", "confidence": "high" },
+            { "name": "Tour des Géants", "text": "Ein Freilichtmuseum zur Geschichte der Tour de France mit gelben Totems für jeden Gewinner des berühmten Radrennens.", "category": "cultural", "confidence": "high" },
+            { "name": "Gare de Pau", "text": "Der historische Bahnhof wurde 1863 eröffnet und verbindet die Stadt mit seiner klassischen Architektur mit Paris und den Pyrenäen.", "category": "station", "confidence": "high" },
+            { "name": "Hippodrome du Pont-Long", "text": "Eine der wichtigsten Pferderennbahnen Frankreichs, die seit 1842 auf Hindernis- und Cross-Country-Rennen spezialisiert ist.", "category": "recreational", "confidence": "high" },
+            { "name": "Stade du Hameau", "text": "Das Hauptstadion von Pau und Heimat des Rugby-Teams Section Paloise, mit einer Kapazität von über 14.500 Zuschauern.", "category": "recreational", "confidence": "high" },
+            { "name": "Palais de Justice", "text": "Ein imposantes neoklassizistisches Gebäude aus dem 19. Jahrhundert, das als Gerichtsgebäude dient und nahe dem Zentrum liegt.", "category": "civic", "confidence": "high" },
+            { "name": "Parc de Lawrence", "text": "Ein charmanter öffentlicher Park mit jahrhundertealten Bäumen, einem Teich und einer Villa im anglo-normannischen Stil.", "category": "natural", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Château de Pau",
@@ -4975,7 +5939,19 @@ const citySeeds: CitySeed[] = [
                   "category": "natural",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Musée Bernadotte", "text": "Jean-Baptiste Bernadotte szülőháza, aki Napóleon tábornagya volt, majd XIV. Károly János néven Svédország királya lett.", "category": "museum", "confidence": "high" },
+            { "name": "Église Saint-Jacques", "text": "A 19. században gótikus stílusban épült templom, amely lenyűgöző ólomüveg ablakairól és két magas tornyáról ismert.", "category": "religious", "confidence": "high" },
+            { "name": "Place Royale", "text": "A 17. században kialakított elegáns tér IV. Henrik szobrával, ahonnan pazar kilátás nyílik a Pireneusok hegyláncaira.", "category": "civic", "confidence": "high" },
+            { "name": "Musée de la Résistance et de la Déportation", "text": "A helyi ellenállás történetének és a második világháború náci deportáltjainak emléket állító múzeum.", "category": "museum", "confidence": "high" },
+            { "name": "Les Halles de Pau", "text": "Modern fedett piac, ahol a Béarn régió helyi gasztronómiai termékeit, például sajtokat és borokat vásárolhatunk.", "category": "culinary", "confidence": "high" },
+            { "name": "Tour des Géants", "text": "A Tour de France történetének szentelt szabadtéri múzeum, ahol sárga oszlopok emlékeztetnek a verseny eddigi győzteseire.", "category": "cultural", "confidence": "high" },
+            { "name": "Gare de Pau", "text": "Az 1863-ban megnyitott történelmi vasútállomás, amely klasszikus építészetével köti össze a várost Párizzsal és a Pireneusokkal.", "category": "station", "confidence": "high" },
+            { "name": "Hippodrome du Pont-Long", "text": "Franciaország egyik legfontosabb lóversenypályája, amely 1842 óta akadály- és terepversenyekre specializálódott.", "category": "recreational", "confidence": "high" },
+            { "name": "Stade du Hameau", "text": "Pau fő sportstadionja, a Section Paloise rögbi csapat otthona, több mint 14 500 néző befogadására alkalmas.", "category": "recreational", "confidence": "high" },
+            { "name": "Palais de Justice", "text": "Impozáns, 19. századi neoklasszicista épület, amely a bíróságnak ad otthont a történelmi városközpont közelében.", "category": "civic", "confidence": "high" },
+            { "name": "Parc de Lawrence", "text": "Bájós közpark évszázados fákkal, tóval és egy 19. századi, angol-normann stílusban épült villával.", "category": "natural", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Château de Pau",
@@ -5019,7 +5995,19 @@ const citySeeds: CitySeed[] = [
                   "category": "natural",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Musée Bernadotte", "text": "Locul de naștere al lui Jean-Baptiste Bernadotte, un mareșal napoleonian care a devenit regele Carol al XIV-lea Ioan al Suediei.", "category": "museum", "confidence": "high" },
+            { "name": "Église Saint-Jacques", "text": "O biserică construită în secolul al XIX-lea în stil gotic, cu vitralii impresionante și două turle înalte.", "category": "religious", "confidence": "high" },
+            { "name": "Place Royale", "text": "O piață grandioasă stabilită în secolul al XVII-lea, cu statuia lui Henric al IV-lea și vedere spre munții Pirinei.", "category": "civic", "confidence": "high" },
+            { "name": "Musée de la Résistance et de la Déportation", "text": "Un muzeu dedicat istoriei Rezistenței locale și victimelor deportărilor naziste din timpul celui de-al Doilea Război Mondial.", "category": "museum", "confidence": "high" },
+            { "name": "Les Halles de Pau", "text": "O piață acoperită modernă care oferă produse gastronomice locale din regiunea Béarn, inclusiv brânzeturi și vinuri.", "category": "culinary", "confidence": "high" },
+            { "name": "Tour des Géants", "text": "Un muzeu în aer liber dedicat istoriei Turului Franței, cu totemuri galbene pentru fiecare câștigător al cursei.", "category": "cultural", "confidence": "high" },
+            { "name": "Gare de Pau", "text": "Gara istorică deschisă în 1863, care conectează orașul de Paris și Pirinei prin arhitectura sa clasică de secol XIX.", "category": "station", "confidence": "high" },
+            { "name": "Hippodrome du Pont-Long", "text": "Una dintre principalele arene de curse de cai din Franța, specializată în steeplechase și cross-country încă din 1842.", "category": "recreational", "confidence": "high" },
+            { "name": "Stade du Hameau", "text": "Principalul stadion sportiv din Pau, sediul echipei de rugby Section Paloise, cu o capacitate de peste 14.500 de spectatori.", "category": "recreational", "confidence": "high" },
+            { "name": "Palais de Justice", "text": "O clădire neoclasică impunătoare din secolul al XIX-lea care servește drept tribunal, situată lângă centrul istoric.", "category": "civic", "confidence": "high" },
+            { "name": "Parc de Lawrence", "text": "Un parc public fermecător cu arbori seculari, un iaz și o vilă din secolul al XIX-lea construită în stil anglo-normand.", "category": "natural", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Château de Pau",
@@ -5063,7 +6051,19 @@ const citySeeds: CitySeed[] = [
                   "category": "natural",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Musée Bernadotte", "text": "Birthplace of Jean-Baptiste Bernadotte, a Napoleonic Marshal who became King Charles XIV John of Sweden and Norway.", "category": "museum", "confidence": "high" },
+            { "name": "Église Saint-Jacques", "text": "A Gothic-style church built in the 19th century, featuring impressive stained glass and two tall spires.", "category": "religious", "confidence": "high" },
+            { "name": "Place Royale", "text": "A grand square established in the 17th century, featuring a statue of Henry IV and views of the Pyrenees mountains.", "category": "civic", "confidence": "high" },
+            { "name": "Musée de la Résistance et de la Déportation", "text": "A museum dedicated to the history of the local Resistance and the victims of Nazi deportation in WWII.", "category": "museum", "confidence": "high" },
+            { "name": "Les Halles de Pau", "text": "A modern covered market offering local gastronomic products from the Béarn region, including cheeses and wines.", "category": "culinary", "confidence": "high" },
+            { "name": "Tour des Géants", "text": "An open-air museum dedicated to the history of the Tour de France, featuring yellow totems for each race winner.", "category": "cultural", "confidence": "high" },
+            { "name": "Gare de Pau", "text": "The historic railway station opened in 1863, connecting the city to Paris and the Pyrenees with its classic architecture.", "category": "station", "confidence": "high" },
+            { "name": "Hippodrome du Pont-Long", "text": "One of France's major horse racing venues, specializing in steeplechase and cross-country racing since 1842.", "category": "recreational", "confidence": "high" },
+            { "name": "Stade du Hameau", "text": "The main sports stadium of Pau, home to the Section Paloise rugby team, with a capacity of over 14,500 spectators.", "category": "recreational", "confidence": "high" },
+            { "name": "Palais de Justice", "text": "An imposing 19th-century neoclassical building serving as the courthouse, located near the historic center.", "category": "civic", "confidence": "high" },
+            { "name": "Parc de Lawrence", "text": "A charming public park featuring century-old trees, a pond, and a 19th-century villa built in the Anglo-Norman style.", "category": "natural", "confidence": "high" }
+        ]
 }
   },
   {
@@ -5143,7 +6143,16 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Musée Bonnat-Helleu", "text": "Bedeutendes Kunstmuseum mit einer reichen Sammlung von Werken von Rubens, Goya und Degas in einem historischen Gebäude.", "category": "museum", "confidence": "high" },
+            { "name": "Stadtmauer von Bayonne", "text": "Die von Vauban entworfenen historischen Befestigungsanlagen umschließen die Altstadt und bieten schöne Spazierwege.", "category": "fortress", "confidence": "high" },
+            { "name": "Arènes de Bayonne", "text": "Diese 1893 im neomaurischen Stil erbauten Stierkampfarena ist eine der größten und bekanntesten in ganz Frankreich.", "category": "cultural", "confidence": "high" },
+            { "name": "Château-Neuf", "text": "Eine Festung aus dem 15. Jahrhundert, die heute Universitätsabteilungen beherbergt und die Skyline der Stadt prägt.", "category": "fortress", "confidence": "high" },
+            { "name": "Kreuzgang der Kathedrale", "text": "Einer der größten gotischen Kreuzgänge Frankreichs, der durch seine filigrane Architektur und Ruhe besticht.", "category": "religious", "confidence": "high" },
+            { "name": "Place de la Liberté", "text": "Der zentrale Platz der Stadt, an dem sich das Rathaus und das Theater befinden, ein Treffpunkt für Einheimische.", "category": "civic", "confidence": "high" },
+            { "name": "Plaine d'Ansot", "text": "Ein großes Naturschutzgebiet am Ufer der Nive, das sich ideal für Wanderungen und Naturbeobachtungen eignet.", "category": "natural", "confidence": "high" },
+            { "name": "Naturhistorisches Museum", "text": "In der Plaine d'Ansot gelegen, zeigt dieses Museum die lokale Flora und Fauna sowie ökologische Zusammenhänge.", "category": "museum", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Cathédrale Sainte-Marie",
@@ -5187,7 +6196,16 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Musée Bonnat-Helleu", "text": "Jelentős művészeti múzeum Rubens, Goya és Degas műveivel, amely gazdag gyűjteménynek ad otthont egy patinás épületben.", "category": "museum", "confidence": "high" },
+            { "name": "Bayonne városfala", "text": "A Vauban által tervezett történelmi erődítmények körbeölelik az óvárost, és kellemes sétatúrákat kínálnak a látogatóknak.", "category": "fortress", "confidence": "high" },
+            { "name": "Arènes de Bayonne", "text": "Az 1893-ban, neomór stílusban épült bikaviadal-aréna Franciaország egyik legnagyobb és legfontosabb ilyen jellegű építménye.", "category": "cultural", "confidence": "high" },
+            { "name": "Château-Neuf", "text": "Egy 15. századi erődítmény, amely ma egyetemi tanszékeknek és archívumoknak ad otthont a város egyik magaslatán.", "category": "fortress", "confidence": "high" },
+            { "name": "A székesegyház kolostora", "text": "Franciaország egyik legnagyobb gótikus kolostora, amely közvetlenül a katedrális mellett található, díszes ívekkel.", "category": "religious", "confidence": "high" },
+            { "name": "Place de la Liberté", "text": "A város központi tere, ahol a városháza és a színház épülete áll, a közösségi élet és ünnepségek fontos helyszíne.", "category": "civic", "confidence": "high" },
+            { "name": "Plaine d'Ansot", "text": "A Nive folyó mentén elterülő védett természeti terület, amely túraútvonalakkal és gazdag élővilággal várja a pihenni vágyókat.", "category": "natural", "confidence": "high" },
+            { "name": "Természettudományi Múzeum", "text": "A Plaine d'Ansot területén található intézmény, amely a helyi biodiverzitást és ökológiai értékeket mutatja be.", "category": "museum", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Cathédrale Sainte-Marie",
@@ -5231,7 +6249,16 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Musée Bonnat-Helleu", "text": "Un important muzeu de artă care adăpostește o colecție valoroasă de lucrări semnate de Rubens, Goya și Degas.", "category": "museum", "confidence": "high" },
+            { "name": "Zidurile cetății Bayonne", "text": "Fortificații istorice proiectate de Vauban care înconjoară orașul vechi, oferind trasee pitorești pentru plimbare.", "category": "fortress", "confidence": "high" },
+            { "name": "Arènes de Bayonne", "text": "Construită în 1893 în stil neomaur, această arenă de coridă este una dintre cele mai mari și active din Franța.", "category": "cultural", "confidence": "high" },
+            { "name": "Château-Neuf", "text": "O fortăreață impunătoare din secolul al XV-lea, care astăzi găzduiește departamente universitare și arhive locale.", "category": "fortress", "confidence": "high" },
+            { "name": "Cloître de la Cathédrale", "text": "Unul dintre cele mai mari cloistre gotice din Franța, remarcabil prin arhitectura sa elegantă și liniștea sa.", "category": "religious", "confidence": "high" },
+            { "name": "Place de la Liberté", "text": "Piața centrală a orașului unde se află Primăria și Teatrul, fiind un punct principal de întâlnire pentru localnici.", "category": "civic", "confidence": "high" },
+            { "name": "Plaine d'Ansot", "text": "O zonă naturală protejată de-a lungul râului Nive, ideală pentru observarea florei și faunei locale într-un cadru liniștit.", "category": "natural", "confidence": "high" },
+            { "name": "Muséum d'Histoire Naturelle", "text": "Situat în Plaine d'Ansot, acest muzeu se concentrează pe biodiversitatea regională și educația ecologică.", "category": "museum", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Cathédrale Sainte-Marie",
@@ -5275,7 +6302,16 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Musée Bonnat-Helleu", "text": "A major art museum housing a rich collection of works by Rubens, Goya, and Degas in a grand historic building.", "category": "museum", "confidence": "high" },
+            { "name": "Remparts de Bayonne", "text": "These historic city walls designed by Vauban encircle the old town and offer scenic walking paths for visitors.", "category": "fortress", "confidence": "high" },
+            { "name": "Arènes de Bayonne", "text": "Built in 1893 in a Neo-Moorish style, this bullring is one of the largest and most famous arenas in all of France.", "category": "cultural", "confidence": "high" },
+            { "name": "Château-Neuf", "text": "A 15th-century fortress that now houses university departments and archives, dominating the city's higher grounds.", "category": "fortress", "confidence": "high" },
+            { "name": "Cloister of the Cathedral", "text": "One of the largest Gothic cloisters in France, located right next to the cathedral and featuring ornate stonework.", "category": "religious", "confidence": "high" },
+            { "name": "Place de la Liberté", "text": "The city's main square where the Town Hall and Theatre are located, serving as a hub for local life and festivals.", "category": "civic", "confidence": "high" },
+            { "name": "Plaine d'Ansot", "text": "A protected natural area along the Nive river with hiking trails and diverse wildlife, perfect for outdoor enthusiasts.", "category": "natural", "confidence": "high" },
+            { "name": "Natural History Museum", "text": "Located within the Plaine d'Ansot, this museum focuses on local biodiversity, ecology, and environmental education.", "category": "museum", "confidence": "high" }
+        ]
 }
   },
   {
@@ -5349,7 +6385,17 @@ const citySeeds: CitySeed[] = [
                   "category": "natural",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Kirche Sainte-Radegonde", "text": "Diese romanisch-gotische Kirche beherbergt das Grab der Heiligen Radegundis, der Schutzpatronin der Stadt.", "category": "religious", "confidence": "high" },
+            { "name": "Kirche Saint-Hilaire-le-Grand", "text": "Eine bedeutende romanische Stiftskirche auf dem Jakobsweg, bekannt für ihre Architektur und Fresken.", "category": "religious", "confidence": "high" },
+            { "name": "Jardin des Plantes de Poitiers", "text": "Ein über 1,5 Hektar großer botanischer Garten mit Gewächshäusern und einer großen Vielfalt an Pflanzenarten.", "category": "natural", "confidence": "high" },
+            { "name": "Hôtel Fumé", "text": "Ein prächtiges Stadtpalais aus der Spätgotik, das heute einen Teil der Universität von Poitiers beherbergt.", "category": "historical", "confidence": "high" },
+            { "name": "Hypogée des Dunes", "text": "Eine unterirdische Kapelle und Begräbnisstätte aus der Merowingerzeit mit einzigartigen Skulpturen.", "category": "historical", "confidence": "high" },
+            { "name": "Kirche Saint-Porchaire", "text": "Diese Kirche besitzt einen markanten Glockenturm aus dem 11. Jahrhundert und ein prächtiges Westportal.", "category": "religious", "confidence": "high" },
+            { "name": "Dolmen de la Pierre Levée", "text": "Ein imposanter Megalith aus der Jungsteinzeit, der bereits von Rabelais in seinen Werken erwähnt wurde.", "category": "historical", "confidence": "high" },
+            { "name": "Pont Joubert", "text": "Eine historische Steinbrücke über den Fluss Clain, die seit dem Mittelalter den Zugang zur Stadt sicherte.", "category": "historical", "confidence": "high" },
+            { "name": "Gare de Poitiers", "text": "Das Hauptbahnhofsgebäude verbindet historische Architektur mit moderner Infrastruktur des TGV-Netzes.", "category": "station", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Szent Péter-székesegyház",
@@ -5387,7 +6433,17 @@ const citySeeds: CitySeed[] = [
                   "category": "natural",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Szent Radegundis-templom", "text": "Ez a román-gótikus templom őrzi Szent Radegundis, a város védőszentjének sírját és ereklyéit.", "category": "religious", "confidence": "high" },
+            { "name": "Saint-Hilaire-le-Grand templom", "text": "Jelentős román stílusú társaskáptalani templom a Szent Jakab-úton, építészetéről és freskóiról híres.", "category": "religious", "confidence": "high" },
+            { "name": "Poitiers-i Botanikus Kert", "text": "Több mint 1,5 hektáros botanikus kert üvegházakkal és a növényfajok rendkívül gazdag választékával.", "category": "natural", "confidence": "high" },
+            { "name": "Hôtel Fumé", "text": "Pompás késő gótikus városi palota, amely ma a Poitiers-i Egyetem egyik karának ad otthont.", "category": "historical", "confidence": "high" },
+            { "name": "Hypogée des Dunes", "text": "Meroving-kori föld alatti kápolna és temetkezési hely, amely különleges korabeli szobrokat tartalmaz.", "category": "historical", "confidence": "high" },
+            { "name": "Szent Porchaire-templom", "text": "Ez a templom jellegzetes 11. századi harangtoronnyal és pompás nyugati homlokzattal rendelkezik.", "category": "religious", "confidence": "high" },
+            { "name": "Dolmen de la Pierre Levée", "text": "Impozáns újkőkorszaki megalit, amelyet már Rabelais is említett híres irodalmi műveiben.", "category": "historical", "confidence": "high" },
+            { "name": "Joubert-híd", "text": "Történelmi kőhíd a Clain folyón, amely a középkor óta biztosítja a városhoz való hozzáférést.", "category": "historical", "confidence": "high" },
+            { "name": "Poitiers pályaudvar", "text": "A főpályaudvar épülete a történelmi építészetet ötvözi a modern TGV-hálózat infrastruktúrájával.", "category": "station", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Catedrala Saint-Pierre",
@@ -5425,7 +6481,17 @@ const citySeeds: CitySeed[] = [
                   "category": "natural",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Biserica Sainte-Radegonde", "text": "Această biserică romanico-gotică adăpostește mormântul Sfintei Radegunda, patroana spirituală a orașului.", "category": "religious", "confidence": "high" },
+            { "name": "Biserica Saint-Hilaire-le-Grand", "text": "O importantă biserică colegială romanică de pe drumul spre Santiago de Compostela, faimoasă pentru arhitectură.", "category": "religious", "confidence": "high" },
+            { "name": "Grădina Botanică din Poitiers", "text": "O grădină botanică de peste 1,5 hectare, cu sere și o mare varietate de specii de plante locale.", "category": "natural", "confidence": "high" },
+            { "name": "Hôtel Fumé", "text": "Un palat urban magnific în stil gotic târziu, care găzduiește astăzi o parte a Universității din Poitiers.", "category": "historical", "confidence": "high" },
+            { "name": "Hipogeul Dunelor", "text": "O capelă subterană și loc de înmormântare din epoca merovingiană, cu sculpturi creștine timpurii unice.", "category": "historical", "confidence": "high" },
+            { "name": "Biserica Saint-Porchaire", "text": "Această biserică are o clopotniță distinctivă din secolul al XI-lea și un portal vestic impunător.", "category": "religious", "confidence": "high" },
+            { "name": "Dolmenul Pierre Levée", "text": "Un megalit impunător din epoca neolitică, menționat de scriitorul Rabelais în operele sale literare.", "category": "historical", "confidence": "high" },
+            { "name": "Podul Joubert", "text": "Un pod istoric de piatră peste râul Clain, care a asigurat accesul spre oraș încă din Evul Mediu.", "category": "historical", "confidence": "high" },
+            { "name": "Gara din Poitiers", "text": "Gara principală a orașului îmbină arhitectura istorică cu infrastructura modernă a rețelei TGV.", "category": "station", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Saint-Pierre Cathedral",
@@ -5463,7 +6529,17 @@ const citySeeds: CitySeed[] = [
                   "category": "natural",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Sainte-Radegonde Church", "text": "This Romanesque-Gothic church houses the tomb of Saint Radegund, the patron saint of the city.", "category": "religious", "confidence": "high" },
+            { "name": "Saint-Hilaire-le-Grand Church", "text": "A major Romanesque collegiate church on the Way of Saint James, known for its architecture and frescoes.", "category": "religious", "confidence": "high" },
+            { "name": "Jardin des Plantes de Poitiers", "text": "A botanical garden covering over 1.5 hectares with greenhouses and a wide variety of plant species.", "category": "natural", "confidence": "high" },
+            { "name": "Hôtel Fumé", "text": "A magnificent late Gothic urban mansion that now houses part of the University of Poitiers.", "category": "historical", "confidence": "high" },
+            { "name": "Hypogeum of the Dunes", "text": "An underground chapel and burial site from the Merovingian era containing unique early Christian sculptures.", "category": "historical", "confidence": "high" },
+            { "name": "Saint-Porchaire Church", "text": "This church features a distinctive 11th-century bell tower and a magnificent western portal.", "category": "religious", "confidence": "high" },
+            { "name": "Pierre Levée Dolmen", "text": "An impressive Neolithic megalith that was already mentioned by Rabelais in his literary works.", "category": "historical", "confidence": "high" },
+            { "name": "Joubert Bridge", "text": "A historic stone bridge over the Clain River that has secured access to the city since the Middle Ages.", "category": "historical", "confidence": "high" },
+            { "name": "Poitiers Railway Station", "text": "The main railway station building combines historic architecture with modern TGV network infrastructure.", "category": "station", "confidence": "high" }
+        ]
 }
   },
   {
@@ -5537,7 +6613,17 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Hôtel de Ville", "text": "Dieses neoklassizistische Rathaus wurde zwischen 1881 und 1886 erbaut und ist eine elegante Kopie des Pariser Rathauses im kleineren Maßstab.", "category": "civic", "confidence": "high" },
+            { "name": "Place Henri-IV", "text": "Ein mittelalterlicher Platz, der von Fachwerkhäusern aus dem 16. Jahrhundert umgeben ist und das historische Herz der Altstadt bildet.", "category": "historical", "confidence": "high" },
+            { "name": "Les Halles des Lices", "text": "Eine traditionelle Markthalle aus dem Jahr 1912, die frische bretonische Produkte, Meeresfrüchte und regionale Spezialitäten bietet.", "category": "culinary", "confidence": "high" },
+            { "name": "Port de Plaisance", "text": "Ein lebhafter Jachthafen im Stadtzentrum, der schöne Spaziergänge entlang der Kais und Zugang zum Golf von Morbihan bietet.", "category": "recreational", "confidence": "high" },
+            { "name": "Aquarium de Vannes", "text": "Beherbergt eine große Sammlung von Meereslebewesen aus bretonischen Gewässern und tropischen Ozeanen, darunter ein Nilkrokodil.", "category": "cultural", "confidence": "high" },
+            { "name": "Jardin aux Papillons", "text": "Ein tropisches Gewächshaus, in dem hunderte exotische Schmetterlinge frei zwischen üppiger Vegetation im warmen Klima fliegen.", "category": "natural", "confidence": "high" },
+            { "name": "Église Saint-Patern", "text": "Eine Kirche aus dem 18. Jahrhundert, die dem ersten Bischof der Stadt gewidmet ist und auf einem sehr alten Heiligtum steht.", "category": "religious", "confidence": "high" },
+            { "name": "Château Gaillard", "text": "Ein Herrenhaus aus dem 15. Jahrhundert, das das Museum für Geschichte und Archäologie mit prähistorischen Funden beherbergt.", "category": "museum", "confidence": "high" },
+            { "name": "Presqu'île de Conleau", "text": "Eine friedliche Halbinsel mit einem Meerwasser-Schwimmbad und Pinien, die einen herrlichen Blick auf den Golf von Morbihan bietet.", "category": "natural", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Szent Péter-székesegyház",
@@ -5575,7 +6661,17 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Városháza", "text": "Az 1881 és 1886 között épült neoreneszánsz városháza a párizsi Hôtel de Ville elegáns, kisebb méretű másolata Vannes szívében.", "category": "civic", "confidence": "high" },
+            { "name": "Place Henri-IV", "text": "16. századi favázas házakkal körülvett középkori tér, amely az óváros történelmi magját és hangulatos központját alkotja.", "category": "historical", "confidence": "high" },
+            { "name": "Les Halles des Lices", "text": "1912-ben épült hagyományos fedett piac, ahol friss breton termékeket, tenger gyümölcseit és helyi specialitásokat árulnak.", "category": "culinary", "confidence": "high" },
+            { "name": "Port de Plaisance", "text": "A városközpontban található élénk jachtkikötő, amely festői sétányokat és közvetlen kijáratot kínál a Morbihan-öbölre.", "category": "recreational", "confidence": "high" },
+            { "name": "Vannes-i Akvárium", "text": "A breton vizektől a trópusi óceánokig mutatja be a tengeri élővilágot, különlegessége egy nílusi krokodil az üvegházban.", "category": "cultural", "confidence": "high" },
+            { "name": "Pillangókert", "text": "Trópusi üvegház, ahol egzotikus pillangók százai repkednek szabadon a buja növényzet között, ellenőrzött éghajlaton.", "category": "natural", "confidence": "high" },
+            { "name": "Szent Patern-templom", "text": "A város első püspökének szentelt 18. századi templom, amely egy igen ősi keresztény szentély helyén emelkedik.", "category": "religious", "confidence": "high" },
+            { "name": "Château Gaillard", "text": "15. századi kúria, amely a Történeti és Régészeti Múzeumnak ad otthont, őskori és középkori breton leleteket bemutatva.", "category": "museum", "confidence": "high" },
+            { "name": "Conleau-félsziget", "text": "Békés félsziget tengervizes medencével és fenyőfákkal, amely népszerű hely a kikapcsolódásra és a Morbihan-öböl megcsodálására.", "category": "natural", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Catedrala Saint-Pierre",
@@ -5613,7 +6709,17 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Primăria", "text": "Această primărie neo-renascentistă, construită între 1881 și 1886, este o replică elegantă a primăriei din Paris la o scară mai mică.", "category": "civic", "confidence": "high" },
+            { "name": "Piața Henri-IV", "text": "O piață medievală înconjurată de case cu pereți din lemn din secolul al XVI-lea, reprezentând inima istorică a centrului vechi.", "category": "historical", "confidence": "high" },
+            { "name": "Les Halles des Lices", "text": "O piață tradițională acoperită, construită în 1912, care oferă produse bretone proaspete, fructe de mare și specialități locale.", "category": "culinary", "confidence": "high" },
+            { "name": "Portul de agrement", "text": "O marină vibrantă situată în centrul orașului, oferind plimbări pitorești de-a lungul cheiurilor și acces către Golful Morbihan.", "category": "recreational", "confidence": "high" },
+            { "name": "Acvariul din Vannes", "text": "Prezintă o colecție vastă de viață marină, de la apele bretone la oceanele tropicale, incluzând și un crocodil de Nil.", "category": "cultural", "confidence": "high" },
+            { "name": "Grădina cu fluturi", "text": "O seră tropicală unde sute de fluturi exotici zboară liber printre plante luxuriante, într-un climat controlat și cald.", "category": "natural", "confidence": "high" },
+            { "name": "Biserica Saint-Patern", "text": "O biserică din secolul al XVIII-lea dedicată primului episcop al orașului, ridicată pe locul unui sanctuar creștin străvechi.", "category": "religious", "confidence": "high" },
+            { "name": "Château Gaillard", "text": "Un conac din secolul al XV-lea care găzduiește Muzeul de Istorie și Arheologie, prezentând artefacte preistorice și medievale.", "category": "museum", "confidence": "high" },
+            { "name": "Peninsula Conleau", "text": "O peninsulă liniștită cu o piscină cu apă de mare și pini, oferind vederi superbe asupra Golfului Morbihan și locuri de plimbare.", "category": "natural", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Saint-Pierre Cathedral",
@@ -5651,7 +6757,17 @@ const citySeeds: CitySeed[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Hôtel de Ville", "text": "This Neo-Renaissance town hall, built between 1881 and 1886, is an elegant replica of the Paris City Hall on a smaller scale.", "category": "civic", "confidence": "high" },
+            { "name": "Place Henri-IV", "text": "A medieval square surrounded by half-timbered houses from the 16th century, representing the historic heart of the old town.", "category": "historical", "confidence": "high" },
+            { "name": "Les Halles des Lices", "text": "A traditional covered market built in 1912, offering fresh local Breton products, seafood, and regional culinary specialties.", "category": "culinary", "confidence": "high" },
+            { "name": "Port de Plaisance", "text": "A vibrant marina in the city center, offering scenic walks along the quays and access to the beautiful Gulf of Morbihan.", "category": "recreational", "confidence": "high" },
+            { "name": "Aquarium de Vannes", "text": "Features a large collection of marine life from Breton waters to tropical oceans, including a notable Nile crocodile.", "category": "cultural", "confidence": "high" },
+            { "name": "Jardin aux Papillons", "text": "A tropical greenhouse where hundreds of exotic butterflies fly freely among lush vegetation in a controlled climate.", "category": "natural", "confidence": "high" },
+            { "name": "Église Saint-Patern", "text": "An 18th-century church dedicated to the city's first bishop, built on the site of a very ancient Christian sanctuary.", "category": "religious", "confidence": "high" },
+            { "name": "Château Gaillard", "text": "A 15th-century mansion housing the Museum of History and Archaeology, displaying prehistoric and medieval Breton artifacts.", "category": "museum", "confidence": "high" },
+            { "name": "Presqu'île de Conleau", "text": "A peaceful peninsula with a sea-water swimming pool, pine trees, and views over the Gulf, popular for relaxing walks.", "category": "natural", "confidence": "high" }
+        ]
 }
   },
   {
@@ -5725,7 +6841,18 @@ const citySeeds: CitySeed[] = [
                   "category": "cultural",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Enclos du Port", "text": "Das historische Zentrum der Stadt, in dem sich früher die Französische Ostindien-Kompanie befand.", "category": "historical", "confidence": "high" },
+            { "name": "Hôtel Gabriel", "text": "Ein prächtiges Gebäude aus dem 18. Jahrhundert im Enclos du Port, in dem heute das Stadtarchiv liegt.", "category": "historical", "confidence": "high" },
+            { "name": "Église Sainte-Anne-d'Arvor", "text": "Eine neugotische Kirche, die der Schutzpatronin der Bretagne gewidmet ist und für ihre Architektur bekannt ist.", "category": "religious", "confidence": "high" },
+            { "name": "Stade du Moustoir", "text": "Das Hauptstadion von Lorient und Heimspielstätte des Fußballvereins FC Lorient, benannt nach Yves Allainmat.", "category": "cultural", "confidence": "high" },
+            { "name": "Quai des Indes", "text": "Ein historischer Kai entlang des Hafens, gesäumt von eleganten Gebäuden aus der Zeit der Ostindien-Kompanie.", "category": "historical", "confidence": "high" },
+            { "name": "Cimetière de Carnel", "text": "Der älteste Friedhof der Stadt, bekannt für seine beeindruckenden Grabdenkmäler lokaler Berühmtheiten.", "category": "historical", "confidence": "high" },
+            { "name": "Thalassa (Bateau-Musée)", "text": "Ein ehemaliges ozeanographisches Forschungsschiff, das heute als Museumsschiff im Hafen von Lorient liegt.", "category": "museum", "confidence": "high" },
+            { "name": "Maison de l'Imprimeur", "text": "Eines der wenigen Gebäude aus dem 18. Jahrhundert, die die Zerstörungen des Zweiten Weltkriegs überstanden haben.", "category": "historical", "confidence": "high" },
+            { "name": "Gare de Lorient", "text": "Ein moderner Bahnhof mit markanter Architektur, der als wichtiges Verkehrsdrehkreuz der Region dient.", "category": "station", "confidence": "high" },
+            { "name": "Chapelle de la Congrégation", "text": "Eine restaurierte Kapelle aus dem 18. Jahrhundert, die heute für kulturelle Ausstellungen genutzt wird.", "category": "religious", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Keroman tengeralattjáró-bázis",
@@ -5763,7 +6890,18 @@ const citySeeds: CitySeed[] = [
                   "category": "cultural",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Enclos du Port", "text": "A város történelmi magja, ahol egykor a Francia Kelet-indiai Társaság központja és raktárai álltak.", "category": "historical", "confidence": "high" },
+            { "name": "Hôtel Gabriel", "text": "Egy impozáns 18. századi épület az Enclos du Port területén, amely ma a városi levéltárnak ad otthont.", "category": "historical", "confidence": "high" },
+            { "name": "Église Sainte-Anne-d'Arvor", "text": "Bretagne védőszentjének szentelt neogótikus templom, amely figyelemre méltó építészeti részletekkel bír.", "category": "religious", "confidence": "high" },
+            { "name": "Stade du Moustoir", "text": "Lorient központi stadionja, az FC Lorient futballcsapat otthona, amely fontos közösségi találkozóhely.", "category": "cultural", "confidence": "high" },
+            { "name": "Quai des Indes", "text": "A kikötő menti történelmi rakpart, amelyet a Kelet-indiai Társaság korából származó elegáns házak szegélyeznek.", "category": "historical", "confidence": "high" },
+            { "name": "Cimetière de Carnel", "text": "A város legrégebbi temetője, ahol számos helyi híresség nyugszik díszes és művészi síremlékek alatt.", "category": "historical", "confidence": "high" },
+            { "name": "Thalassa (Bateau-Musée)", "text": "Egy egykori óceánkutató hajó, amely ma múzeumként látogatható a kikötőben, bemutatva a tengeri életet.", "category": "museum", "confidence": "high" },
+            { "name": "Maison de l'Imprimeur", "text": "Azon kevés 18. századi épületek egyike, amelyek épségben maradtak a második világháborús bombázások után.", "category": "historical", "confidence": "high" },
+            { "name": "Gare de Lorient", "text": "Modern építészeti stílusban újjáépített vasútállomás, amely a város és a régió kapujaként szolgál.", "category": "station", "confidence": "high" },
+            { "name": "Chapelle de la Congrégation", "text": "Egy szépen felújított 18. századi kápolna, amely ma kulturális eseményeknek és kiállításoknak ad helyet.", "category": "religious", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Baza de submarine Keroman",
@@ -5801,7 +6939,18 @@ const citySeeds: CitySeed[] = [
                   "category": "cultural",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Enclos du Port", "text": "Nucleul istoric al orașului, locul unde se aflau odinioară sediul și depozitele Companiei Franceze a Indiilor.", "category": "historical", "confidence": "high" },
+            { "name": "Hôtel Gabriel", "text": "O clădire impunătoare din secolul al XVIII-lea situată în Enclos du Port, care găzduiește arhivele municipale.", "category": "historical", "confidence": "high" },
+            { "name": "Église Sainte-Anne-d'Arvor", "text": "O biserică neogotică dedicată patroanei Bretaniei, cunoscută pentru arhitectura sa sobră și detaliată.", "category": "religious", "confidence": "high" },
+            { "name": "Stade du Moustoir", "text": "Stadionul principal al orașului Lorient, casa clubului de fotbal FC Lorient, un punct central sportiv.", "category": "cultural", "confidence": "high" },
+            { "name": "Quai des Indes", "text": "Un chei istoric de-a lungul portului, mărginit de clădiri elegante din perioada comerțului maritim.", "category": "historical", "confidence": "high" },
+            { "name": "Cimetière de Carnel", "text": "Cel mai vechi cimitir din oraș, renumit pentru monumentele sale funerare și mormintele unor personalități.", "category": "historical", "confidence": "high" },
+            { "name": "Thalassa (Bateau-Musée)", "text": "O fostă navă de cercetare oceanografică transformată în muzeu, oferind o perspectivă asupra explorării marine.", "category": "museum", "confidence": "high" },
+            { "name": "Maison de l'Imprimeur", "text": "Una dintre puținele clădiri din secolul al XVIII-lea care au supraviețuit bombardamentelor din Al Doilea Război.", "category": "historical", "confidence": "high" },
+            { "name": "Gare de Lorient", "text": "Gara orașului, reconstruită într-un stil modern, servind drept poartă principală de acces către regiune.", "category": "station", "confidence": "high" },
+            { "name": "Chapelle de la Congrégation", "text": "O capelă restaurată din secolul al XVIII-lea, folosită în prezent pentru diverse expoziții de artă.", "category": "religious", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Keroman Submarine Base",
@@ -5839,7 +6988,18 @@ const citySeeds: CitySeed[] = [
                   "category": "cultural",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Enclos du Port", "text": "The historic core of the city, which formerly housed the headquarters of the French East India Company.", "category": "historical", "confidence": "high" },
+            { "name": "Hôtel Gabriel", "text": "A grand 18th-century building located within the Enclos du Port, now housing the municipal archives.", "category": "historical", "confidence": "high" },
+            { "name": "Église Sainte-Anne-d'Arvor", "text": "A Neo-Gothic church dedicated to the patron saint of Brittany, known for its striking architectural style.", "category": "religious", "confidence": "high" },
+            { "name": "Stade du Moustoir", "text": "The main stadium of Lorient and home ground of FC Lorient, serving as a major hub for local sports.", "category": "cultural", "confidence": "high" },
+            { "name": "Quai des Indes", "text": "A historic quay along the harbor, lined with elegant buildings dating back to the East India Company era.", "category": "historical", "confidence": "high" },
+            { "name": "Cimetière de Carnel", "text": "The city's oldest cemetery, famous for its impressive funerary monuments and graves of local figures.", "category": "historical", "confidence": "high" },
+            { "name": "Thalassa (Bateau-Musée)", "text": "A former oceanographic research vessel now serving as a museum ship in Lorient's harbor.", "category": "museum", "confidence": "high" },
+            { "name": "Maison de l'Imprimeur", "text": "One of the few 18th-century buildings that survived the heavy bombings of Lorient during World War II.", "category": "historical", "confidence": "high" },
+            { "name": "Gare de Lorient", "text": "The city's railway station, rebuilt with modern architecture, acting as a gateway to the wider region.", "category": "station", "confidence": "high" },
+            { "name": "Chapelle de la Congrégation", "text": "A restored 18th-century chapel that now hosts various cultural events and art exhibitions.", "category": "religious", "confidence": "high" }
+        ]
 }
   },
   {
@@ -6125,7 +7285,17 @@ const citySeeds: CitySeed[] = [
                   "category": "museum",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Prieuré de Locmaria", "text": "Die älteste Kirche von Quimper wurde im 11. Jahrhundert gegründet und gilt als Juwel der romanischen Kunst in der Bretagne.", "category": "religious", "confidence": "high" },
+            { "name": "Mont Frugy", "text": "Ein bewaldeter Hügel im Stadtzentrum, der Wanderwege und einen Panoramablick auf die historischen Dächer von Quimper bietet.", "category": "natural", "confidence": "high" },
+            { "name": "Les rives de l'Odet", "text": "Malerische Spazierwege entlang des Flusses Odet, der für seine zahlreichen mit Blumen geschmückten Fußgängerbrücken bekannt ist.", "category": "natural", "confidence": "high" },
+            { "name": "Théâtre de Cornouaille", "text": "Ein modernes Nationaltheater und Kulturzentrum, das für seine zeitgenössische Architektur und hervorragende Akustik geschätzt wird.", "category": "cultural", "confidence": "high" },
+            { "name": "Halles Saint-François", "text": "Der zentrale überdachte Markt der Stadt bietet täglich frische regionale Spezialitäten wie Crêpes, Käse und lokale Meeresfrüchte.", "category": "culinary", "confidence": "high" },
+            { "name": "Jardin de la Paix", "text": "Ein ruhiger Garten im Viertel Locmaria, der mit mediterranen Pflanzen und einer entspannten Atmosphäre direkt am Flussufer überzeugt.", "category": "recreational", "confidence": "high" },
+            { "name": "Quartier de Locmaria", "text": "Das historische Viertel am Ufer des Odet ist die Wiege der Quimper-Fayence und beherbergt traditionelle Keramikwerkstätten.", "category": "historical", "confidence": "high" },
+            { "name": "Château de Lanniron", "text": "Einstige Sommerresidenz der Bischöfe von Cornouaille mit terrassierten Gärten aus dem 17. Jahrhundert direkt am Ufer der Odet.", "category": "historical", "confidence": "high" },
+            { "name": "Gare de Quimper", "text": "Das historische Bahnhofsgebäude aus dem Jahr 1863 ist ein wichtiges architektonisches Zeugnis für die Erschließung der Westbretagne.", "category": "station", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Szent Corentin-székesegyház",
@@ -6163,7 +7333,17 @@ const citySeeds: CitySeed[] = [
                   "category": "museum",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Prieuré de Locmaria", "text": "Quimper legrégebbi temploma a 11. században épült, és a breton román stílusú építészet egyik legfontosabb fennmaradt emléke.", "category": "religious", "confidence": "high" },
+            { "name": "Mont Frugy", "text": "A belváros szélén magasodó erdős domb, amely sétautakkal és a város történelmi központjára nyíló panorámával várja a látogatókat.", "category": "natural", "confidence": "high" },
+            { "name": "Les rives de l'Odet", "text": "Az Odet folyó partján futó festői sétányok, amelyek a várost átszelő folyó virágokkal díszített gyaloghídjairól nevezetesek.", "category": "natural", "confidence": "high" },
+            { "name": "Théâtre de Cornouaille", "text": "Modern nemzeti színház és kulturális központ, amely kortárs építészeti megoldásairól és kiváló akusztikájáról ismert Bretagne-ban.", "category": "cultural", "confidence": "high" },
+            { "name": "Halles Saint-François", "text": "A város központi vásárcsarnoka, ahol naponta friss helyi termékeket, breton palacsintát és tenger gyümölcseit kínálnak az árusok.", "category": "culinary", "confidence": "high" },
+            { "name": "Jardin de la Paix", "text": "A Locmaria negyedben található csendes kert mediterrán növényzettel és nyugodt folyóparti környezettel várja a pihenni vágyókat.", "category": "recreational", "confidence": "high" },
+            { "name": "Quartier de Locmaria", "text": "Történelmi negyed az Odet partján, amely a 17. század óta a híres quimperi fajanszgyártás és a helyi kézművesség központja.", "category": "historical", "confidence": "high" },
+            { "name": "Château de Lanniron", "text": "Cornouaille püspökeinek egykori nyári rezidenciája, amelyhez 17. századi teraszos kertek tartoznak az Odet folyó kanyarulatában.", "category": "historical", "confidence": "high" },
+            { "name": "Gare de Quimper", "text": "Az 1863-ban megnyitott történelmi vasútállomás épülete a nyugat-bretagne-i vasúti közlekedés kiépítésének fontos mementója.", "category": "station", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Catedrala Saint-Corentin",
@@ -6201,7 +7381,17 @@ const citySeeds: CitySeed[] = [
                   "category": "museum",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Prieuré de Locmaria", "text": "Cea mai veche biserică din Quimper, fondată în secolul al XI-lea, este considerată o bijuterie a artei romanice din Bretania.", "category": "religious", "confidence": "high" },
+            { "name": "Mont Frugy", "text": "O colină împădurită situată chiar în centrul orașului, oferind trasee de plimbare și o vedere panoramică asupra acoperișurilor vechi.", "category": "natural", "confidence": "high" },
+            { "name": "Les rives de l'Odet", "text": "Trasee pitorești de-a lungul râului Odet, renumite pentru numeroasele poduri pietonale decorate cu flori care traversează apa.", "category": "natural", "confidence": "high" },
+            { "name": "Théâtre de Cornouaille", "text": "Un teatru național și centru cultural modern, apreciat pentru arhitectura sa contemporană și calitatea acustică deosebită.", "category": "cultural", "confidence": "high" },
+            { "name": "Halles Saint-François", "text": "Piața centrală acoperită a orașului, unde se găsesc zilnic specialități regionale proaspete, brânzeturi și fructe de mare locale.", "category": "culinary", "confidence": "high" },
+            { "name": "Jardin de la Paix", "text": "O grădină liniștită în cartierul Locmaria, care oferă o varietate de plante mediteraneene și o atmosferă relaxantă pe malul râului.", "category": "recreational", "confidence": "high" },
+            { "name": "Quartier de Locmaria", "text": "Cartierul istoric de pe malul râului Odet, locul unde s-a născut tradiția faianței de Quimper în secolul al XVII-lea.", "category": "historical", "confidence": "high" },
+            { "name": "Château de Lanniron", "text": "Fosta reședință de vară a episcopilor de Cornouaille, dispunând de grădini terasate din secolul al XVII-lea lângă râul Odet.", "category": "historical", "confidence": "high" },
+            { "name": "Gare de Quimper", "text": "Clădirea istorică a gării, inaugurată în 1863, reprezintă un punct de referință arhitectural pentru dezvoltarea vestului Bretaniei.", "category": "station", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Saint-Corentin Cathedral",
@@ -6239,7 +7429,17 @@ const citySeeds: CitySeed[] = [
                   "category": "museum",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Prieuré de Locmaria", "text": "The oldest church in Quimper, founded in the 11th century, it is a masterpiece of Romanesque architecture in Brittany.", "category": "religious", "confidence": "high" },
+            { "name": "Mont Frugy", "text": "A wooded hill located in the city center, offering hiking trails and panoramic views over the historic rooftops of Quimper.", "category": "natural", "confidence": "high" },
+            { "name": "Les rives de l'Odet", "text": "Picturesque walking paths along the Odet river, famous for the many flower-adorned footbridges that cross the water.", "category": "natural", "confidence": "high" },
+            { "name": "Théâtre de Cornouaille", "text": "A modern national theater and cultural hub, valued for its contemporary design and exceptional acoustic performance.", "category": "cultural", "confidence": "high" },
+            { "name": "Halles Saint-François", "text": "The city's central covered market, offering fresh daily regional products including crepes, cheeses, and local seafood.", "category": "culinary", "confidence": "high" },
+            { "name": "Jardin de la Paix", "text": "A peaceful garden in the Locmaria district, featuring Mediterranean plants and a relaxed atmosphere right by the riverbank.", "category": "recreational", "confidence": "high" },
+            { "name": "Quartier de Locmaria", "text": "The historic district on the banks of the Odet, serving as the cradle of Quimper pottery and traditional faience workshops.", "category": "historical", "confidence": "high" },
+            { "name": "Château de Lanniron", "text": "Former summer residence of the Bishops of Cornouaille, featuring 17th-century terraced gardens along the Odet river.", "category": "historical", "confidence": "high" },
+            { "name": "Gare de Quimper", "text": "The historic railway station building, opened in 1863, is a key architectural witness to the development of western Brittany.", "category": "station", "confidence": "high" }
+        ]
 }
   },
   {
@@ -6877,7 +8077,17 @@ const citySeeds: CitySeed[] = [
                   "category": "religious",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Place Travot", "text": "Der zentrale Hauptplatz von Cholet, der als sozialer Mittelpunkt mit zahlreichen Geschäften, Cafés und Platz für Veranstaltungen dient.", "category": "civic", "confidence": "high" },
+            { "name": "Théâtre Saint-Louis", "text": "Ein bedeutendes modernes Kulturzentrum im Herzen der Stadt, das ein vielfältiges Programm an Theater, Musik und Tanz bietet.", "category": "cultural", "confidence": "high" },
+            { "name": "Le Mail", "text": "Eine lange und elegante Promenade, gesäumt von historischen Gebäuden und Bäumen, die einen ruhigen Fußweg durch das Stadtzentrum bietet.", "category": "civic", "confidence": "high" },
+            { "name": "Tour du Grenier à Sel", "text": "Ein historischer Turm und Überrest der alten Salzsteuerverwaltung, der als Zeugnis der Verwaltungsgeschichte der Stadt dient.", "category": "historical", "confidence": "high" },
+            { "name": "GlisséO", "text": "Ein riesiger Freizeitkomplex mit mehreren Schwimmbecken und zwei Eisbahnen, ideal für Familienspaß und verschiedene sportliche Aktivitäten.", "category": "recreational", "confidence": "high" },
+            { "name": "Menhir de la Garde", "text": "Ein prähistorischer Menhir mitten in der Stadt, der von der menschlichen Anwesenheit in der Region seit der Jungsteinzeit zeugt.", "category": "historical", "confidence": "high" },
+            { "name": "Gare de Cholet", "text": "Der Bahnhof der Stadt, ein wichtiger Verkehrsknotenpunkt mit einer Architektur aus der Zeit des Eisenbahnausbaus im 19. Jahrhundert.", "category": "station", "confidence": "high" },
+            { "name": "Jardin du Mail", "text": "Ein charmanter öffentlicher Garten direkt an der Promenade, mit gepflegten Blumenbeeten, Statuen und schattigen Plätzen zum Verweilen.", "category": "natural", "confidence": "high" },
+            { "name": "Ludoparc", "text": "Ein Freizeitbereich im Freien für Familien, der Spielplätze und Grünflächen für Entspannung und Aktivitäten für Kinder bietet.", "category": "recreational", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Művészeti és Történeti Múzeum",
@@ -6915,7 +8125,17 @@ const citySeeds: CitySeed[] = [
                   "category": "religious",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Travot tér", "text": "Cholet központi tere, amely a város társasági életének csomópontja számos üzlettel, kávézóval és rendezvényeknek helyet adó területtel.", "category": "civic", "confidence": "high" },
+            { "name": "Saint-Louis Színház", "text": "Modern kulturális helyszín a város szívében, amely színházi előadások, koncertek és táncbemutatók változatos programját kínálja.", "category": "cultural", "confidence": "high" },
+            { "name": "Le Mail sétány", "text": "Hosszú és elegáns, történelmi épületekkel és fákkal övezett sétány, amely nyugodt gyalogos útvonalat biztosít a városközponton át.", "category": "civic", "confidence": "high" },
+            { "name": "Sópadi torony", "text": "Történelmi torony, az egykori sóadó-igazgatás maradványa, amely a város régi adminisztratív múltjának egyik utolsó hírnöke.", "category": "historical", "confidence": "high" },
+            { "name": "GlisséO", "text": "Hatalmas szabadidő-komplexum több úszómedencével és két jégpályával, amely népszerű helyszín a családi szórakozáshoz és sportoláshoz.", "category": "recreational", "confidence": "high" },
+            { "name": "Menhir de la Garde", "text": "A városon belül található őskori állókő, amely az emberi jelenlétet bizonyítja a régióban már az újkőkorszak idejétől kezdve.", "category": "historical", "confidence": "high" },
+            { "name": "Cholet vasútállomás", "text": "A város vasútállomása, egy fontos közlekedési csomópont, melynek építészete a 19. századi vasúti terjeszkedés idejére nyúlik vissza.", "category": "station", "confidence": "high" },
+            { "name": "Mail kert", "text": "Bájos központi park a sétány mellett, szépen gondozott virágágyásokkal, szobrokkal és árnyas pihenőhelyekkel a látogatók számára.", "category": "natural", "confidence": "high" },
+            { "name": "Ludoparc szabadidőpark", "text": "Családok számára kialakított szabadtéri pihenőhely, amely játszótereket és zöldfelületeket kínál a kikapcsolódáshoz és játékhoz.", "category": "recreational", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Muzeul de Artă și Istorie",
@@ -6953,7 +8173,17 @@ const citySeeds: CitySeed[] = [
                   "category": "religious",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Piața Travot", "text": "Principala piață centrală din Cholet, servind ca nod social cu numeroase magazine, cafenele și spațiu pentru evenimente publice și piețe.", "category": "civic", "confidence": "high" },
+            { "name": "Teatrul Saint-Louis", "text": "Un loc cultural modern proeminent, care oferă un program divers de teatru, muzică și dans în inima orașului Cholet.", "category": "cultural", "confidence": "high" },
+            { "name": "Promenada Le Mail", "text": "O promenadă lungă și elegantă, mărginită de clădiri istorice și copaci, oferind o rută pietonală liniștită prin centrul urban.", "category": "civic", "confidence": "high" },
+            { "name": "Turnul Grenier à Sel", "text": "Un turn istoric, vestigiu al vechii administrații a taxei pe sare, fiind un martor al istoriei administrative a orașului.", "category": "historical", "confidence": "high" },
+            { "name": "Complexul GlisséO", "text": "Un vast complex de agrement cu mai multe piscine și două patinoare, popular pentru distracția în familie și activități sportive.", "category": "recreational", "confidence": "high" },
+            { "name": "Menhir de la Garde", "text": "Un menhir preistoric situat în interiorul orașului, atestând prezența umană în regiune încă din perioada neolitică.", "category": "historical", "confidence": "high" },
+            { "name": "Gara din Cholet", "text": "Gara orașului, un nod de transport important cu o arhitectură ce datează din perioada expansiunii feroviare regionale din secolul XIX.", "category": "station", "confidence": "high" },
+            { "name": "Grădina Mail", "text": "O grădină publică fermecătoare lângă promenadă, cu straturi de flori bine întreținute, statui și zone umbrite pentru odihnă.", "category": "natural", "confidence": "high" },
+            { "name": "Parcul de agrement Ludoparc", "text": "O zonă de recreere în aer liber pentru familii, oferind locuri de joacă și spații verzi pentru relaxare și activități pentru copii.", "category": "recreational", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Museum of Art and History",
@@ -6991,7 +8221,17 @@ const citySeeds: CitySeed[] = [
                   "category": "religious",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Place Travot", "text": "The main central square of Cholet, serving as a social hub with numerous shops, cafes, and space for public events and markets.", "category": "civic", "confidence": "high" },
+            { "name": "Théâtre Saint-Louis", "text": "A prominent modern cultural venue offering a diverse program of theatre, music, and dance performances in the heart of the city.", "category": "cultural", "confidence": "high" },
+            { "name": "Le Mail", "text": "A long and elegant promenade lined with historic buildings and trees, providing a peaceful pedestrian route through the urban center.", "category": "civic", "confidence": "high" },
+            { "name": "Tour du Grenier à Sel", "text": "A historic tower and remnant of the old salt tax administration, standing as a witness to the city's administrative history.", "category": "historical", "confidence": "high" },
+            { "name": "GlisséO", "text": "A vast leisure complex featuring multiple swimming pools and two ice rinks, popular for family fun and various sports activities.", "category": "recreational", "confidence": "high" },
+            { "name": "Menhir de la Garde", "text": "A prehistoric standing stone located within the city, attesting to human presence in the region since the Neolithic period.", "category": "historical", "confidence": "high" },
+            { "name": "Gare de Cholet", "text": "The city's railway station, an important transport hub with architecture dating back to the regional rail expansion in the 1800s.", "category": "station", "confidence": "high" },
+            { "name": "Jardin du Mail", "text": "A charming public garden adjacent to the main promenade, featuring well-kept flower beds, statues, and shaded areas for rest.", "category": "natural", "confidence": "high" },
+            { "name": "Ludoparc", "text": "An outdoor recreational area designed for families, offering playgrounds and green spaces for relaxation and children's activities.", "category": "recreational", "confidence": "high" }
+        ]
 }
   },
   {
@@ -7065,7 +8305,18 @@ const citySeeds: CitySeed[] = [
                   "category": "recreational",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "EOL Centre éolien", "text": "Ein interaktives Museum in der U-Boot-Basis, das die Technologie der Offshore-Windparks erklärt.", "category": "museum", "confidence": "high" },
+            { "name": "Lancastria-Denkmal", "text": "Ein bewegendes Denkmal, das an die Versenkung der RMS Lancastria im Jahr 1940 vor der Küste erinnert.", "category": "historical", "confidence": "high" },
+            { "name": "Parc Paysager", "text": "Ein 50 Hektar großer Park im Stadtzentrum mit einem See, Gärten und verschiedenen Freizeitmöglichkeiten.", "category": "natural", "confidence": "high" },
+            { "name": "Vieux Môle", "text": "Die älteste Mole des Hafens bietet einen weiten Blick über die Mündung der Loire.", "category": "historical", "confidence": "high" },
+            { "name": "Front de Mer", "text": "Eine lange Strandpromenade, die das Stadtzentrum mit den Stränden verbindet und ideal zum Flanieren ist.", "category": "recreational", "confidence": "high" },
+            { "name": "Écomusée de Saint-Nazaire", "text": "Das Museum zeigt die Geschichte des Schiffbaus und den Wiederaufbau der Stadt nach dem Krieg.", "category": "museum", "confidence": "high" },
+            { "name": "Rathaus (Hôtel de Ville)", "text": "Ein markantes Gebäude im modernistischen Stil, das das Verwaltungszentrum der Hafenstadt bildet.", "category": "civic", "confidence": "high" },
+            { "name": "Commando-Denkmal", "text": "Es ehrt die britischen Soldaten, die 1942 an der wagemutigen Operation Chariot teilgenommen haben.", "category": "historical", "confidence": "high" },
+            { "name": "Fort de l'Eve", "text": "Eine ehemalige Verteidigungsanlage an der Küste, die heute als Wanderziel mit Meerblick dient.", "category": "historical", "confidence": "high" },
+            { "name": "Kirche Saint-Nazaire", "text": "Die Hauptkirche der Stadt, die nach dem Zweiten Weltkrieg im schlichten modernen Stil wiederaufgebaut wurde.", "category": "religious", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Escal'Atlantic",
@@ -7103,7 +8354,18 @@ const citySeeds: CitySeed[] = [
                   "category": "recreational",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "EOL Szélenergia Központ", "text": "Interaktív múzeum a tengeralattjáró-bázison, amely a tengeri szélparkok technológiáját mutatja be.", "category": "museum", "confidence": "high" },
+            { "name": "Lancastria-emlékmű", "text": "Megható emlékmű, amely az RMS Lancastria 1940-es elsüllyedésének áldozataira emlékeztet a partoknál.", "category": "historical", "confidence": "high" },
+            { "name": "Parc Paysager", "text": "50 hektáros park a városközpontban tóval, kertekkel és számos szabadidős sportolási lehetőséggel.", "category": "natural", "confidence": "high" },
+            { "name": "Vieux Môle", "text": "A kikötő legrégebbi mólója, amely panorámás kilátást nyújt a hajókra és a Saint-Nazaire-hídra.", "category": "historical", "confidence": "high" },
+            { "name": "Front de Mer", "text": "Hosszú tengerparti sétány, amely összeköti a városközpontot a strandokkal, ideális a pihenéshez.", "category": "recreational", "confidence": "high" },
+            { "name": "Écomusée de Saint-Nazaire", "text": "A múzeum a helyi hajógyártás történetét és a város háború utáni újjáépítését mutatja be.", "category": "museum", "confidence": "high" },
+            { "name": "Városháza (Hôtel de Ville)", "text": "Jellegzetes modernista stílusú épület, amely a kikötőváros adminisztratív központja.", "category": "civic", "confidence": "high" },
+            { "name": "Commando-emlékmű", "text": "A brit katonák előtt tiszteleg, akik 1942-ben részt vettek a merész Operation Chariot akcióban.", "category": "historical", "confidence": "high" },
+            { "name": "Fort de l'Eve", "text": "Egykori tengerparti védmű, amely ma kedvelt kirándulóhely az óceánra nyíló kilátással.", "category": "historical", "confidence": "high" },
+            { "name": "Saint-Nazaire-templom", "text": "A város főtemploma, amelyet a második világháború után egyszerű, modern stílusban építettek újjá.", "category": "religious", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Escal'Atlantic",
@@ -7141,7 +8403,18 @@ const citySeeds: CitySeed[] = [
                   "category": "recreational",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "EOL Centre éolien", "text": "Un muzeu interactiv situat în baza de submarine, care explică tehnologia parcurilor eoliene offshore.", "category": "museum", "confidence": "high" },
+            { "name": "Monumentul Lancastria", "text": "Un monument emoționant care comemorează scufundarea navei RMS Lancastria în 1940, lângă coastă.", "category": "historical", "confidence": "high" },
+            { "name": "Parc Paysager", "text": "Un parc de 50 de hectare în centrul orașului, cu un lac, grădini și diverse facilități de recreere.", "category": "natural", "confidence": "high" },
+            { "name": "Vieux Môle", "text": "Cel mai vechi dig al portului oferă o vedere panoramică asupra navelor și a podului Saint-Nazaire.", "category": "historical", "confidence": "high" },
+            { "name": "Front de Mer", "text": "O lungă faleză care leagă centrul orașului de plaje, fiind locul ideal pentru plimbări la malul mării.", "category": "recreational", "confidence": "high" },
+            { "name": "Écomusée de Saint-Nazaire", "text": "Muzeul prezintă istoria construcțiilor navale și reconstrucția orașului după cel de-al Doilea Război Mondial.", "category": "museum", "confidence": "high" },
+            { "name": "Primăria (Hôtel de Ville)", "text": "O clădire marcantă în stil modernist, care constituie centrul administrativ al acestui oraș portuar.", "category": "civic", "confidence": "high" },
+            { "name": "Monumentul Commando", "text": "Onorează soldații britanici care au participat la îndrăzneața Operațiune Chariot în anul 1942.", "category": "historical", "confidence": "high" },
+            { "name": "Fort de l'Eve", "text": "O fostă fortificație de apărare de coastă, care astăzi servește drept destinație de drumeție cu vedere la ocean.", "category": "historical", "confidence": "high" },
+            { "name": "Biserica Saint-Nazaire", "text": "Principala biserică a orașului, reconstruită după război într-un stil modern și sobru.", "category": "religious", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Escal'Atlantic",
@@ -7179,7 +8452,18 @@ const citySeeds: CitySeed[] = [
                   "category": "recreational",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "EOL Wind Power Centre", "text": "An interactive museum inside the submarine base explaining the technology of offshore wind farms.", "category": "museum", "confidence": "high" },
+            { "name": "Lancastria Memorial", "text": "A moving monument commemorating the sinking of the RMS Lancastria in 1940 off the coast of the city.", "category": "historical", "confidence": "high" },
+            { "name": "Parc Paysager", "text": "A 50-hectare park in the city center featuring a lake, gardens, and various recreational opportunities.", "category": "natural", "confidence": "high" },
+            { "name": "Vieux Môle", "text": "The port's oldest jetty offers a panoramic view of the ships and the impressive Saint-Nazaire Bridge.", "category": "historical", "confidence": "high" },
+            { "name": "Front de Mer", "text": "A long seafront promenade connecting the city center to the beaches, perfect for relaxing walks.", "category": "recreational", "confidence": "high" },
+            { "name": "Écomusée de Saint-Nazaire", "text": "This museum showcases the history of shipbuilding and the city's post-war reconstruction.", "category": "museum", "confidence": "high" },
+            { "name": "Town Hall (Hôtel de Ville)", "text": "A striking modernist building that serves as the administrative heart of this port city.", "category": "civic", "confidence": "high" },
+            { "name": "Commando Monument", "text": "It honors the British soldiers who took part in the daring Operation Chariot raid in 1942.", "category": "historical", "confidence": "high" },
+            { "name": "Fort de l'Eve", "text": "A former coastal defense site that now serves as a hiking destination with wide ocean views.", "category": "historical", "confidence": "high" },
+            { "name": "Saint-Nazaire Church", "text": "The city's main church, rebuilt after World War II in a simple and dignified modern style.", "category": "religious", "confidence": "high" }
+        ]
 }
   },
   {
@@ -7629,7 +8913,17 @@ const citySeeds: CitySeed[] = [
                   "category": "recreational",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Musée des Meilleurs Ouvriers de France", "text": "Museum gegenüber der Kathedrale, das die Exzellenz französischer Handwerkskunst durch preisgekrönte Meisterwerke präsentiert.", "category": "museum", "confidence": "high" },
+            { "name": "Musée Estève", "text": "Im Hôtel des Échevins untergebracht, zeigt dieses Museum die farbenfrohen Werke des Malers Maurice Estève.", "category": "museum", "confidence": "high" },
+            { "name": "Hôtel des Échevins", "text": "Ein prächtiges Gebäude aus dem 15. Jahrhundert, das einst als Rathaus diente und heute das Estève-Museum beherbergt.", "category": "historical", "confidence": "high" },
+            { "name": "Jardin des Prés-Fichaux", "text": "Ein wunderschöner Art-Déco-Garten mit kunstvoll geschnittenen Eiben, Skulpturen und Springbrunnen im Stadtzentrum.", "category": "natural", "confidence": "high" },
+            { "name": "Église Saint-Bonnet", "text": "Diese spätgotische Kirche wurde im 16. Jahrhundert nach einem Brand auf den Fundamenten eines älteren Baus errichtet.", "category": "religious", "confidence": "high" },
+            { "name": "Musée de la Résistance et de la Déportation", "text": "Ein historisches Museum, das dem Widerstand und der Deportation im Departement Cher während des Zweiten Weltkriegs gewidmet ist.", "category": "museum", "confidence": "high" },
+            { "name": "Place Planchat", "text": "Ein belebter Platz im Herzen von Bourges, umgeben von eleganten Gebäuden aus dem 19. Jahrhundert und Geschäften.", "category": "civic", "confidence": "high" },
+            { "name": "Théâtre Jacques Cœur", "text": "Das Stadttheater von Bourges, ein prächtiges Gebäude aus dem 19. Jahrhundert, das ein reiches Kulturprogramm bietet.", "category": "cultural", "confidence": "high" },
+            { "name": "Gare de Bourges", "text": "Der Hauptbahnhof der Stadt, ein historisches Bauwerk mit einer markanten Fassade, das Bourges mit Paris verbindet.", "category": "station", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Saint-Étienne-székesegyház",
@@ -7667,7 +8961,17 @@ const citySeeds: CitySeed[] = [
                   "category": "recreational",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Musée des Meilleurs Ouvriers de France", "text": "A katedrálissal szemben található múzeum, amely a francia kézműves mesterek díjnyertes remekműveit mutatja be.", "category": "museum", "confidence": "high" },
+            { "name": "Musée Estève", "text": "A Maurice Estève festő színes műveit bemutató múzeum a gótikus Hôtel des Échevins épületében található.", "category": "museum", "confidence": "high" },
+            { "name": "Hôtel des Échevins", "text": "Pompás 15. századi gótikus épület, amely egykor városházaként szolgált, ma pedig az Estève-múzeumnak ad otthont.", "category": "historical", "confidence": "high" },
+            { "name": "Jardin des Prés-Fichaux", "text": "Gyönyörű Art Deco stílusú kert a városközpontban, művészien nyírt tiszafákkal, szobrokkal és szökőkutakkal.", "category": "natural", "confidence": "high" },
+            { "name": "Église Saint-Bonnet", "text": "Ez a késő gótikus templom a 16. században épült egy tűzvész után, egy korábbi építmény alapjaira.", "category": "religious", "confidence": "high" },
+            { "name": "Musée de la Résistance et de la Déportation", "text": "Történelmi múzeum, amely a második világháború alatti ellenállásnak és deportálásnak állít emléket Cher megyében.", "category": "museum", "confidence": "high" },
+            { "name": "Place Planchat", "text": "Bourges szívében található pezsgő tér, amelyet elegáns 19. századi épületek és üzletek vesznek körül.", "category": "civic", "confidence": "high" },
+            { "name": "Théâtre Jacques Cœur", "text": "Bourges városi színháza, egy pompás 19. századi épület, amely gazdag kulturális programokat kínál.", "category": "cultural", "confidence": "high" },
+            { "name": "Gare de Bourges", "text": "A város főpályaudvara, jellegzetes homlokzatú történelmi épület, amely összeköti Bourges-t Párizzsal.", "category": "station", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Catedrala Saint-Étienne",
@@ -7705,7 +9009,17 @@ const citySeeds: CitySeed[] = [
                   "category": "recreational",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Musée des Meilleurs Ouvriers de France", "text": "Muzeu situat vizavi de catedrală, care prezintă excelența meșteșugului francez prin capodopere premiate.", "category": "museum", "confidence": "high" },
+            { "name": "Musée Estève", "text": "Găzduit în Hôtel des Échevins, acest muzeu expune lucrările colorate ale pictorului Maurice Estève.", "category": "museum", "confidence": "high" },
+            { "name": "Hôtel des Échevins", "text": "O clădire magnifică din secolul al XV-lea care a servit drept primărie și acum găzduiește Muzeul Estève.", "category": "historical", "confidence": "high" },
+            { "name": "Jardin des Prés-Fichaux", "text": "O grădină frumoasă în stil Art Deco, cu tisa tăiată artistic, sculpturi și fântâni în centrul orașului.", "category": "natural", "confidence": "high" },
+            { "name": "Église Saint-Bonnet", "text": "Această biserică gotică târzie a fost construită în secolul al XVI-lea, după un incendiu, pe fundațiile unei clădiri mai vechi.", "category": "religious", "confidence": "high" },
+            { "name": "Musée de la Résistance et de la Deportation", "text": "Un muzeu istoric dedicat rezistenței și deportării în departamentul Cher în timpul celui de-al Doilea Război Mondial.", "category": "museum", "confidence": "high" },
+            { "name": "Place Planchat", "text": "O piață plină de viață în inima orașului Bourges, înconjurată de clădiri elegante din secolul al XIX-lea și magazine.", "category": "civic", "confidence": "high" },
+            { "name": "Théâtre Jacques Cœur", "text": "Teatrul municipal din Bourges, o clădire magnifică din secolul al XIX-lea care oferă un program cultural bogat.", "category": "cultural", "confidence": "high" },
+            { "name": "Gare de Bourges", "text": "Gara principală a orașului, o clădire istorică cu o fațadă distinctivă, care leagă Bourges de Paris.", "category": "station", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Saint-Étienne Cathedral",
@@ -7743,7 +9057,17 @@ const citySeeds: CitySeed[] = [
                   "category": "recreational",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Musée des Meilleurs Ouvriers de France", "text": "Museum opposite the cathedral showcasing French craftsmanship excellence through award-winning masterpieces.", "category": "museum", "confidence": "high" },
+            { "name": "Musée Estève", "text": "Housed in the Hôtel des Échevins, this museum displays the colorful works of painter Maurice Estève.", "category": "museum", "confidence": "high" },
+            { "name": "Hôtel des Échevins", "text": "A magnificent 15th-century building that formerly served as the town hall and now houses the Estève Museum.", "category": "historical", "confidence": "high" },
+            { "name": "Jardin des Prés-Fichaux", "text": "A beautiful Art Deco garden featuring artistically trimmed yews, sculptures, and fountains in the city center.", "category": "natural", "confidence": "high" },
+            { "name": "Église Saint-Bonnet", "text": "This late Gothic church was built in the 16th century following a fire, on the foundations of an older structure.", "category": "religious", "confidence": "high" },
+            { "name": "Museum of Resistance and Deportation", "text": "A historical museum dedicated to the resistance and deportation in the Cher department during World War II.", "category": "museum", "confidence": "high" },
+            { "name": "Place Planchat", "text": "A lively square in the heart of Bourges, surrounded by elegant 19th-century buildings and various shops.", "category": "civic", "confidence": "high" },
+            { "name": "Jacques Cœur Theatre", "text": "The municipal theater of Bourges, a magnificent 19th-century building offering a rich cultural program.", "category": "cultural", "confidence": "high" },
+            { "name": "Gare de Bourges", "text": "The city's main railway station, a historical building with a distinctive facade connecting Bourges to Paris.", "category": "station", "confidence": "high" }
+        ]
 }
   },
   {
@@ -8587,7 +9911,18 @@ const citySeeds: CitySeed[] = [
                   "category": "cultural",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Ancien Collège", "text": "Ein prächtiges Gebäude aus dem 17. Jahrhundert, das einst ein Jesuitenkolleg war und heute als Kulturzentrum dient.", "category": "historical", "confidence": "high" },
+            { "name": "Hôtel de Ville de Montauban", "text": "Das im ehemaligen Bischofspalast untergebrachte Rathaus ist ein architektonisches Juwel aus rotem Backstein am Fluss Tarn.", "category": "civic", "confidence": "high" },
+            { "name": "Musée Victor Brun", "text": "Das Naturkundemuseum beherbergt umfangreiche Sammlungen von Vögeln, Säugetieren und Mineralien in einem historischen Rahmen.", "category": "museum", "confidence": "high" },
+            { "name": "Jardin des Plantes", "text": "Ein großer botanischer Garten aus dem 19. Jahrhundert, der seltene Baumarten und ruhige Spazierwege bietet.", "category": "natural", "confidence": "high" },
+            { "name": "Temple des Carmes", "text": "Ein historisches protestantisches Gotteshaus, das ursprünglich eine Kirche des Karmeliterordens aus dem 13. Jahrhundert war.", "category": "religious", "confidence": "high" },
+            { "name": "Bahnhof Montauban-Ville-Bourbon", "text": "Ein beeindruckendes Bahnhofsgebäude aus dem 19. Jahrhundert, das für seine klassische Eisenbahnarchitektur bekannt ist.", "category": "station", "confidence": "high" },
+            { "name": "Place Franklin Roosevelt", "text": "Ein weitläufiger Platz in der Nähe der Kathedrale, der von historischen Gebäuden und Cafés gesäumt ist.", "category": "historical", "confidence": "high" },
+            { "name": "Cloître de Montauriol", "text": "Die Überreste eines alten Klosters, die Zeugnis von der reichen monastischen Geschichte der Region ablegen.", "category": "monastic", "confidence": "high" },
+            { "name": "Musée de la Résistance et de la Déportation", "text": "Dieses Museum ist der Geschichte des lokalen Widerstands und der Deportation während des Zweiten Weltkriegs gewiddet.", "category": "museum", "confidence": "high" },
+            { "name": "Église Saint-Orens de Villebourbon", "text": "Eine neugotische Kirche am linken Ufer des Tarn, die für ihre Buntglasfenster und ihre Backsteinfassade bekannt ist.", "category": "religious", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Place Nationale",
@@ -8625,7 +9960,18 @@ const citySeeds: CitySeed[] = [
                   "category": "recreational",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Ancien Collège", "text": "Egy pompás 17. századi épület, amely egykor jezsuita kollégium volt, ma pedig fontos kulturális központként működik.", "category": "historical", "confidence": "high" },
+            { "name": "Montauban városháza", "text": "Az egykori püspöki palotában elhelyezett városháza a vörös téglás építészet remekműve a Tarn folyó partján.", "category": "civic", "confidence": "high" },
+            { "name": "Victor Brun Múzeum", "text": "A természettudományi múzeum madarak, emlősök és ásványok gazdag gyűjteményének ad otthont egy patinás épületben.", "category": "museum", "confidence": "high" },
+            { "name": "Jardin des Plantes", "text": "Egy hatalmas, 19. századi botanikus kert, amely különleges fafajokkal és nyugodt sétautakkal várja a látogatókat.", "category": "natural", "confidence": "high" },
+            { "name": "Temple des Carmes", "text": "Történelmi protestáns templom, amely eredetileg egy 13. századi karmelita rendi katolikus templom volt.", "category": "religious", "confidence": "high" },
+            { "name": "Montauban-Ville-Bourbon vasútállomás", "text": "Impozáns 19. századi állomásépület, amely a klasszikus francia vasúti építészet egyik szép példája a városban.", "category": "station", "confidence": "high" },
+            { "name": "Place Franklin Roosevelt", "text": "Tágas központi tér a katedrális közelében, amelyet elegáns történelmi épületek és kávézók szegélyeznek.", "category": "historical", "confidence": "high" },
+            { "name": "Cloître de Montauriol", "text": "Egy egykori kolostor fennmaradt kerengője, amely a régió gazdag szerzetesi múltjának állít emléket.", "category": "monastic", "confidence": "high" },
+            { "name": "Ellenállási és Deportációs Múzeum", "text": "A múzeum a második világháború alatti helyi ellenállás és a deportálások tragikus eseményeit mutatja be.", "category": "museum", "confidence": "high" },
+            { "name": "Saint-Orens de Villebourbon templom", "text": "Neogótikus stílusú téglatemplom a Tarn bal partján, amely színes üvegablakairól és díszes homlokzatáról ismert.", "category": "religious", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Place Nationale",
@@ -8663,7 +10009,18 @@ const citySeeds: CitySeed[] = [
                   "category": "recreational",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Ancien Collège", "text": "O clădire magnifică din secolul al XVII-lea, fost colegiu iezuit, care astăzi servește drept centru cultural principal.", "category": "historical", "confidence": "high" },
+            { "name": "Primăria din Montauban", "text": "Găzduită în fostul palat episcopal, primăria este o bijuterie arhitecturală din cărămidă roșie pe malul râului Tarn.", "category": "civic", "confidence": "high" },
+            { "name": "Muzeul Victor Brun", "text": "Muzeul de istorie naturală adăpostește colecții vaste de păsări, mamifere și minerale într-un cadru istoric deosebit.", "category": "museum", "confidence": "high" },
+            { "name": "Grădina Plantelor", "text": "O grădină botanică vastă din secolul al XIX-lea, oferind specii rare de arbori și alei liniștite pentru plimbare.", "category": "natural", "confidence": "high" },
+            { "name": "Templul Carmeliților", "text": "Un lăcaș de cult protestant istoric, care a fost inițial o biserică catolică a ordinului carmelit din secolul al XIII-lea.", "category": "religious", "confidence": "high" },
+            { "name": "Gara Montauban-Ville-Bourbon", "text": "O clădire de gară impresionantă din secolul al XIX-lea, remarcabilă pentru arhitectura feroviară clasică franceză.", "category": "station", "confidence": "high" },
+            { "name": "Piața Franklin Roosevelt", "text": "O piață largă situată lângă catedrală, înconjurată de clădiri istorice elegante și terase primitoare.", "category": "historical", "confidence": "high" },
+            { "name": "Cloître de Montauriol", "text": "Vestigiile unui vechi claustru care atestă bogata istorie monastică și religioasă a orașului Montauban.", "category": "monastic", "confidence": "high" },
+            { "name": "Muzeul Rezistenței și Deportării", "text": "Acest muzeu este dedicat istoriei rezistenței locale și memoriei victimelor deportării din timpul celui de-al Doilea Război Mondial.", "category": "museum", "confidence": "high" },
+            { "name": "Biserica Saint-Orens din Villebourbon", "text": "O biserică neogotică situată pe malul stâng al Tarnului, cunoscută pentru fațada sa de cărămidă și vitraliile superbe.", "category": "religious", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Place Nationale",
@@ -8707,7 +10064,18 @@ const citySeeds: CitySeed[] = [
                   "category": "cultural",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Ancien Collège", "text": "A magnificent 17th-century building that was once a Jesuit college and now serves as a major cultural center.", "category": "historical", "confidence": "high" },
+            { "name": "Montauban Town Hall", "text": "Housed in the former episcopal palace, the town hall is a red-brick architectural gem overlooking the Tarn River.", "category": "civic", "confidence": "high" },
+            { "name": "Victor Brun Museum", "text": "The natural history museum houses extensive collections of birds, mammals, and minerals in a distinctive historic setting.", "category": "museum", "confidence": "high" },
+            { "name": "Jardin des Plantes", "text": "A large 19th-century botanical garden featuring rare tree species and peaceful walking paths for visitors.", "category": "natural", "confidence": "high" },
+            { "name": "Temple des Carmes", "text": "A historic Protestant place of worship that was originally a 13th-century Catholic Carmelite church.", "category": "religious", "confidence": "high" },
+            { "name": "Montauban-Ville-Bourbon Station", "text": "An impressive 19th-century railway station building known for its classic French industrial and rail architecture.", "category": "station", "confidence": "high" },
+            { "name": "Place Franklin Roosevelt", "text": "A spacious central square located near the cathedral, lined with historic buildings and popular local cafes.", "category": "historical", "confidence": "high" },
+            { "name": "Cloister of Montauriol", "text": "The remains of an ancient cloister that testify to the rich monastic and religious history of the Montauban region.", "category": "monastic", "confidence": "high" },
+            { "name": "Museum of Resistance and Deportation", "text": "This museum is dedicated to the history of local resistance and the memory of deportation during World War II.", "category": "museum", "confidence": "high" },
+            { "name": "Saint-Orens de Villebourbon Church", "text": "A Neo-Gothic brick church on the left bank of the Tarn, famous for its stained glass and decorative facade.", "category": "religious", "confidence": "high" }
+        ]
 }
   },
   {
@@ -8987,7 +10355,18 @@ const citySeeds: CitySeed[] = [
                   "category": "natural",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Église Saint-Jacques", "text": "Eine romanische Kirche aus dem 12. Jahrhundert, die einen weiten Blick über das Orb-Tal und die historische Stadt Béziers bietet.", "category": "religious", "confidence": "high" },
+            { "name": "Musée du Biterrois", "text": "In einer ehemaligen Kaserne untergebracht, zeigt dieses Museum die Archäologie, Geschichte und Volkskunde der Region Béziers.", "category": "museum", "confidence": "high" },
+            { "name": "Musée des Beaux-Arts", "text": "Das im prächtigen Hôtel Fayet untergebrachte Museum zeigt Kunstsammlungen vom 17. bis zum 19. Jahrhundert sowie Werke von Jean Moulin.", "category": "museum", "confidence": "high" },
+            { "name": "Halles de Béziers", "text": "Eine lebendige Markthalle aus dem 19. Jahrhundert im Baltard-Stil, die lokale Spezialitäten und frische mediterrane Produkte anbietet.", "category": "culinary", "confidence": "high" },
+            { "name": "Théâtre Municipal de Béziers", "text": "Ein prachtvolles neoklassizistisches Theater an den Allées Paul Riquet, berühmt für seine reich verzierte Innenausstattung.", "category": "cultural", "confidence": "high" },
+            { "name": "Jardin de la Plantade", "text": "Ein historischer Ufergarten am Fluss Orb, der alte Mühlen beherbergt und ein schattiges Refugium für entspannte Spaziergänge bietet.", "category": "natural", "confidence": "high" },
+            { "name": "Cimetière Vieux", "text": "Dieser alte Friedhof wird oft als Freilichtmuseum für Grabkunst bezeichnet und enthält aufwendige Familiengruften des 19. Jahrhunderts.", "category": "historical", "confidence": "high" },
+            { "name": "Pont-canal de l'Orb", "text": "Ein Meisterwerk der Ingenieurskunst aus dem Jahr 1858, das den Canal du Midi sicher über den Fluss Orb führt.", "category": "historical", "confidence": "high" },
+            { "name": "Église de la Madeleine", "text": "Eine historische Kirche, bekannt als Schauplatz des Massakers von 1209 während des Albigenserkreuzzugs, später romanisch wiederaufgebaut.", "category": "religious", "confidence": "high" },
+            { "name": "Hôtel de Ville de Béziers", "text": "Das Rathaus der Stadt, ein majestätisches Gebäude aus dem 18. Jahrhundert mit einem eleganten Uhrturm und einer monumentalen Treppe.", "category": "civic", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Saint-Nazaire katedrális",
@@ -9025,7 +10404,18 @@ const citySeeds: CitySeed[] = [
                   "category": "cultural",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Église Saint-Jacques", "text": "12. századi román stílusú templom, amely az Orb folyó völgyére és Béziers óvárosára néző panorámájáról nevezetes.", "category": "religious", "confidence": "high" },
+            { "name": "Musée du Biterrois", "text": "Egy egykori laktanyában berendezett múzeum, amely a Béziers környéki régészetet, történelmet és néprajzot mutatja be.", "category": "museum", "confidence": "high" },
+            { "name": "Musée des Beaux-Arts", "text": "Az elegáns Hôtel Fayet épületében található Szépművészeti Múzeum 17-19. századi festményeket és Jean Moulin adományait őrzi.", "category": "museum", "confidence": "high" },
+            { "name": "Halles de Béziers", "text": "Nyüzsgő, 19. századi fedett piac Baltard-stílusban, ahol helyi specialitásokat és friss mediterrán élelmiszereket árusítanak.", "category": "culinary", "confidence": "high" },
+            { "name": "Théâtre Municipal de Béziers", "text": "Pompás, 19. századi neoklasszicista színház az Allées Paul Riquet végén, díszes belső teréről és homlokzatáról ismert.", "category": "cultural", "confidence": "high" },
+            { "name": "Jardin de la Plantade", "text": "Történelmi folyóparti kert az Orb mentén, amely ősi malmoknak ad otthont és buja zöld környezetet kínál a sétákhoz.", "category": "natural", "confidence": "high" },
+            { "name": "Cimetière Vieux", "text": "A „temetkezési művészet múzeumaként” is emlegetett régi temető, tele bonyolult 19. századi családi kriptákkal és szobrokkal.", "category": "historical", "confidence": "high" },
+            { "name": "Pont-canal de l'Orb", "text": "Kiváló mérnöki teljesítmény 1858-ból, amely a Canal du Midi csatornát vezeti át az Orb folyó felett egy monumentális hídon.", "category": "historical", "confidence": "high" },
+            { "name": "Église de la Madeleine", "text": "Történelmi templom, amely az 1209-es mészárlás helyszíneként vált hírhedtté az albigens keresztes hadjárat idején.", "category": "religious", "confidence": "high" },
+            { "name": "Hôtel de Ville de Béziers", "text": "Béziers városházája, egy impozáns 18. századi épület elegáns óratoronnyal és gyönyörű díszlépcsőházzal a belvárosban.", "category": "civic", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Catedrala Saint-Nazaire",
@@ -9063,7 +10453,18 @@ const citySeeds: CitySeed[] = [
                   "category": "cultural",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Église Saint-Jacques", "text": "O biserică romanică din secolul al XII-lea, care oferă vederi panoramice superbe asupra văii Orb și a orașului vechi.", "category": "religious", "confidence": "high" },
+            { "name": "Musée du Biterrois", "text": "Găzduit în foste cazărmi, acest muzeu explorează arheologia, istoria și etnologia regiunii Béziers din antichitate până azi.", "category": "museum", "confidence": "high" },
+            { "name": "Musée des Beaux-Arts", "text": "Situat în elegantul Hôtel Fayet, muzeul prezintă colecții de artă din secolele XVII-XIX și donațiile importante ale lui Jean Moulin.", "category": "museum", "confidence": "high" },
+            { "name": "Halles de Béziers", "text": "O piață acoperită vibrantă din secolul al XIX-lea în stil Baltard, oferind specialități locale și produse mediteraneene proaspete.", "category": "culinary", "confidence": "high" },
+            { "name": "Théâtre Municipal de Béziers", "text": "Un teatru neoclasic grandios situat pe Allées Paul Riquet, faimos pentru fațada sa elegantă și interiorul bogat ornamentat.", "category": "cultural", "confidence": "high" },
+            { "name": "Jardin de la Plantade", "text": "O grădină istorică pe malul râului Orb, adăpostind mori vechi și vegetație luxuriantă, perfectă pentru plimbări liniștite.", "category": "natural", "confidence": "high" },
+            { "name": "Cimetière Vieux", "text": "Deseori numit un „muzeu al artei funerare”, acest cimitir conține cavouri de familie elaborate și sculpturi din secolul al XIX-lea.", "category": "historical", "confidence": "high" },
+            { "name": "Pont-canal de l'Orb", "text": "O realizare inginerească remarcabilă din 1858 care transportă Canal du Midi peste râul Orb pe un pod masiv de piatră.", "category": "historical", "confidence": "high" },
+            { "name": "Église de la Madeleine", "text": "O biserică istorică cunoscută ca locul masacrului din 1209 în timpul cruciadei albigense, reconstruită ulterior în stil romanic.", "category": "religious", "confidence": "high" },
+            { "name": "Hôtel de Ville de Béziers", "text": "Primăria orașului Béziers, o clădire maiestuoasă din secolul al XVIII-lea cu un turn cu ceas elegant și o scară interioară monumentală.", "category": "civic", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Saint-Nazaire Cathedral",
@@ -9107,7 +10508,18 @@ const citySeeds: CitySeed[] = [
                   "category": "natural",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Église Saint-Jacques", "text": "An ancient Romanesque church dating back to the 12th century, offering panoramic views of the Orb valley and the old city.", "category": "religious", "confidence": "high" },
+            { "name": "Musée du Biterrois", "text": "Located in former barracks, this museum explores the archaeology, history, and ethnology of the Béziers region through the ages.", "category": "museum", "confidence": "high" },
+            { "name": "Musée des Beaux-Arts", "text": "Housed in the elegant Hôtel Fayet, it features fine art collections from the 17-19th centuries and Jean Moulin's donations.", "category": "museum", "confidence": "high" },
+            { "name": "Halles de Béziers", "text": "A vibrant 19th-century covered market in the Baltard style, offering local specialties and fresh Mediterranean products daily.", "category": "culinary", "confidence": "high" },
+            { "name": "Théâtre Municipal de Béziers", "text": "A grand 19th-century theater located on the Allées Paul Riquet, famous for its neoclassical facade and ornate interior decor.", "category": "cultural", "confidence": "high" },
+            { "name": "Jardin de la Plantade", "text": "A historic riverside garden along the Orb, home to ancient mills and lush greenery perfect for peaceful nature walks.", "category": "natural", "confidence": "high" },
+            { "name": "Cimetière Vieux", "text": "Often called a \"museum of funerary art,\" this cemetery contains many elaborate 19th-century family vaults and monumental sculptures.", "category": "historical", "confidence": "high" },
+            { "name": "Pont-canal de l'Orb", "text": "A remarkable engineering feat completed in 1858 that carries the Canal du Midi over the Orb river on a massive stone bridge.", "category": "historical", "confidence": "high" },
+            { "name": "Église de la Madeleine", "text": "A historic church known as the site of the 1209 massacre during the Albigensian Crusade, later rebuilt in Romanesque style.", "category": "religious", "confidence": "high" },
+            { "name": "Hôtel de Ville de Béziers", "text": "The city hall of Béziers, a majestic 18th-century building with an elegant clock tower and a beautiful grand staircase.", "category": "civic", "confidence": "high" }
+        ]
 }
   },
   {
@@ -9193,7 +10605,18 @@ const citySeeds: CitySeed[] = [
                   "category": "museum",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Abbaye de Fontfroide", "text": "Eine prachtvolle ehemalige Zisterzienserabtei, bekannt für ihren gut erhaltenen Kreuzgang und Rosengarten.", "category": "monastic", "confidence": "high" },
+            { "name": "Pont des Marchands", "text": "Eine seltene mittelalterliche Brücke, die mit Häusern bebaut ist und den Canal de la Robine überquert.", "category": "historical", "confidence": "high" },
+            { "name": "Maison Natale de Charles Trenet", "text": "Das Geburtshaus des berühmten Sängers, heute ein Museum, das seinem Leben und Werk gewidmet ist.", "category": "cultural", "confidence": "high" },
+            { "name": "Donjon Gilles Aycelin", "text": "Ein massiver Wehrturm aus dem 13. Jahrhundert, der einen Panoramablick über Narbonne bietet.", "category": "fortress", "confidence": "high" },
+            { "name": "Notre-Dame de Lamourguier", "text": "Eine ehemalige gotische Kirche, die heute eine beeindruckende Sammlung römischer Steindenkmäler beherbergt.", "category": "museum", "confidence": "high" },
+            { "name": "Narbonne-Plage", "text": "Ein breiter Sandstrand am Mittelmeer, ideal für Wassersport und Entspannung an der französischen Küste.", "category": "recreational", "confidence": "high" },
+            { "name": "Massif de la Clape", "text": "Ein geschütztes Kalksteingebirge zwischen Stadt und Meer, bekannt für seine Wanderwege und Weinberge.", "category": "natural", "confidence": "high" },
+            { "name": "Place de l'Hôtel de Ville", "text": "Der zentrale Platz der Stadt, auf dem Reste der antiken Via Domitia direkt vor dem Rathaus sichtbar sind.", "category": "civic", "confidence": "high" },
+            { "name": "Musée d'Art et d'Histoire", "text": "Im Erzbischofspalast gelegen, zeigt es bedeutende Sammlungen von Gemälden und dekorativer Kunst.", "category": "museum", "confidence": "high" },
+            { "name": "Eglise Saint-Sébastien", "text": "Eine charmante gotische Kirche aus dem 15. Jahrhundert mit einem eleganten Glockenturm im Stadtzentrum.", "category": "religious", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Szent Jusztusz és Szent Pasztor székesegyház",
@@ -9243,7 +10666,18 @@ const citySeeds: CitySeed[] = [
                   "category": "museum",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Abbaye de Fontfroide", "text": "Pompás egykori ciszterci apátság, amely jól megőrzött keringőjéről és rózsakertjéről híres.", "category": "monastic", "confidence": "high" },
+            { "name": "Pont des Marchands", "text": "Ritka középkori híd, amelyre házak épültek, és a Canal de la Robine csatorna felett ível át.", "category": "historical", "confidence": "high" },
+            { "name": "Maison Natale de Charles Trenet", "text": "A híres énekes szülőháza, amely ma az életét és munkásságát bemutató múzeumként működik.", "category": "cultural", "confidence": "high" },
+            { "name": "Donjon Gilles Aycelin", "text": "Masszív, 13. századi védőtorony, ahonnan panorámás kilátás nyílik Narbonne-ra és környékére.", "category": "fortress", "confidence": "high" },
+            { "name": "Notre-Dame de Lamourguier", "text": "Egykori gótikus templom, amely ma római kori kőemlékek lenyűgöző gyűjteményének ad otthont.", "category": "museum", "confidence": "high" },
+            { "name": "Narbonne-Plage", "text": "Széles homokos tengerpart a Földközi-tengeren, ideális vízi sportokhoz és pihenéshez a francia riviérán.", "category": "recreational", "confidence": "high" },
+            { "name": "Massif de la Clape", "text": "Védett mészkőhegység a város és a tenger között, túraútvonalairól és szőlőültetvényeiről ismert.", "category": "natural", "confidence": "high" },
+            { "name": "Place de l'Hôtel de Ville", "text": "A város központi tere, ahol az ókori Via Domitia maradványai közvetlenül a városháza előtt láthatók.", "category": "civic", "confidence": "high" },
+            { "name": "Musée d'Art et d'Histoire", "text": "Az érseki palotában található múzeum, amely jelentős festmény- és díszítőművészeti gyűjteménnyel bír.", "category": "museum", "confidence": "high" },
+            { "name": "Eglise Saint-Sébastien", "text": "Bájos, 15. századi gótikus templom elegáns harangtoronnyal, Narbonne történelmi belvárosában.", "category": "religious", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Catedrala Saint-Just-et-Saint-Pasteur",
@@ -9293,7 +10727,18 @@ const citySeeds: CitySeed[] = [
                   "category": "museum",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Abbaye de Fontfroide", "text": "O fostă abație cisterciană magnifică, renumită pentru claustrul său bine conservat și grădina de trandafiri.", "category": "monastic", "confidence": "high" },
+            { "name": "Pont des Marchands", "text": "Un pod medieval rar, mărginit de case, care traversează canalul de la Robine în centrul orașului.", "category": "historical", "confidence": "high" },
+            { "name": "Maison Natale de Charles Trenet", "text": "Casa natală a faimosului cântăreț, astăzi un muzeu dedicat vieții și operei sale muzicale.", "category": "cultural", "confidence": "high" },
+            { "name": "Donjon Gilles Aycelin", "text": "Un turn defensiv masiv din secolul al XIII-lea, oferind vederi panoramice asupra orașului Narbonne.", "category": "fortress", "confidence": "high" },
+            { "name": "Notre-Dame de Lamourguier", "text": "O fostă biserică gotică care găzduiește acum o colecție impresionantă de monumente romane din piatră.", "category": "museum", "confidence": "high" },
+            { "name": "Narbonne-Plage", "text": "O plajă largă cu nisip la Marea Mediterană, ideală pentru sporturi nautice și relaxare pe coasta franceză.", "category": "recreational", "confidence": "high" },
+            { "name": "Massif de la Clape", "text": "Un masiv calcaros protejat între oraș și mare, cunoscut pentru traseele sale de drumeție și podgorii.", "category": "natural", "confidence": "high" },
+            { "name": "Place de l'Hôtel de Ville", "text": "Piața centrală a orașului unde resturile anticei Via Domitia sunt vizibile chiar în fața primăriei.", "category": "civic", "confidence": "high" },
+            { "name": "Musée d'Art et d'Histoire", "text": "Situat în Palatul Arhiepiscopal, expune colecții semnificative de picturi și arte decorative.", "category": "museum", "confidence": "high" },
+            { "name": "Eglise Saint-Sébastien", "text": "O biserică gotică fermecătoare din secolul al XV-lea, cu un turn elegant cu clopot în centrul vechi.", "category": "religious", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Saint-Just and Saint-Pasteur Cathedral",
@@ -9343,7 +10788,18 @@ const citySeeds: CitySeed[] = [
                   "category": "museum",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Abbaye de Fontfroide", "text": "A magnificent former Cistercian abbey, famous for its well-preserved cloister and rose garden.", "category": "monastic", "confidence": "high" },
+            { "name": "Pont des Marchands", "text": "A rare medieval bridge lined with houses, spanning the Canal de la Robine in the city center.", "category": "historical", "confidence": "high" },
+            { "name": "Maison Natale de Charles Trenet", "text": "The birthplace of the famous singer, now a museum dedicated to his life and musical work.", "category": "cultural", "confidence": "high" },
+            { "name": "Donjon Gilles Aycelin", "text": "A massive 13th-century defensive tower offering panoramic views over Narbonne and its surroundings.", "category": "fortress", "confidence": "high" },
+            { "name": "Notre-Dame de Lamourguier", "text": "A former Gothic church that now houses an impressive collection of Roman stone monuments.", "category": "museum", "confidence": "high" },
+            { "name": "Narbonne-Plage", "text": "A wide sandy beach on the Mediterranean, ideal for water sports and relaxation on the French coast.", "category": "recreational", "confidence": "high" },
+            { "name": "Massif de la Clape", "text": "A protected limestone massif between city and sea, known for its hiking trails and vineyards.", "category": "natural", "confidence": "high" },
+            { "name": "Place de l'Hôtel de Ville", "text": "The city's central square where remains of the ancient Via Domitia are visible right in front of the town hall.", "category": "civic", "confidence": "high" },
+            { "name": "Musée d'Art et d'Histoire", "text": "Located in the Archbishop's Palace, it displays significant collections of paintings and decorative arts.", "category": "museum", "confidence": "high" },
+            { "name": "Eglise Saint-Sébastien", "text": "A charming 15th-century Gothic church with an elegant bell tower in the historic city center.", "category": "religious", "confidence": "high" }
+        ]
 }
   },
   {
@@ -12225,7 +13681,16 @@ const citySeeds: CitySeed[] = [
                   "category": "recreational",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Musée du Jouet", "text": "Das Spielzeugmuseum zeigt eine umfangreiche Sammlung von Spielzeug und Zügen in einem ehemaligen Kino aus dem Jahr 1950.", "category": "museum", "confidence": "high" },
+            { "name": "Dominikanerkirche", "text": "Diese gotische Dominikanerkirche aus dem 13. Jahrhundert beherbergt das berühmte Gemälde \"Maria im Rosenhag\" von Martin Schongauer.", "category": "religious", "confidence": "high" },
+            { "name": "Quartier des Tanneurs", "text": "Das Gerberviertel zeichnet sich durch hohe Fachwerkhäuser aus dem 17. und 18. Jahrhundert aus, in denen früher Felle getrocknet wurden.", "category": "historical", "confidence": "high" },
+            { "name": "Marché Couvert", "text": "Die 1865 erbaute Markthalle aus Backstein und Eisen bietet regionale elsässische Produkte und Spezialitäten im Herzen der Stadt an.", "category": "culinary", "confidence": "high" },
+            { "name": "Freiheitsstatue (Nachbildung)", "text": "Eine 12 Meter hohe Nachbildung der Freiheitsstatue ehrt den in Colmar geborenen Bildhauer Auguste Bartholdi am nördlichen Stadteingang.", "category": "historical", "confidence": "high" },
+            { "name": "Ancien Corps de Garde", "text": "Dieses ehemalige Wachhaus aus dem Jahr 1575 besticht durch seine prächtige Renaissance-Loggia und diente früher als Rathaus.", "category": "historical", "confidence": "high" },
+            { "name": "Maison Adolph", "text": "Das um 1350 errichtete Haus Adolph gilt als eines der ältesten Gebäude Colmars und zeigt gotische Fensterbögen unter dem Walmdach.", "category": "historical", "confidence": "high" },
+            { "name": "Fontaine Roesselmann", "text": "Dieser Brunnen aus weißem Stein ehrt den Stadtrichter Jean Roesselmann, der Colmar im 13. Jahrhundert gegen den Bischof verteidigte.", "category": "historical", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Kis Velence (Petite Venise)",
@@ -12275,7 +13740,16 @@ const citySeeds: CitySeed[] = [
                   "category": "religious",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Musée du Jouet", "text": "A Játékmúzeum egy 1950-es évekbeli egykori moziban található, és lenyűgöző gyűjteményt mutat be régi játékokból és vonatokból.", "category": "museum", "confidence": "high" },
+            { "name": "Dominikánus templom", "text": "Ez a 13. századi gótikus dominikánus templom ad otthont Martin Schongauer híres \"Mária a rózsalugasban\" című festményének.", "category": "religious", "confidence": "high" },
+            { "name": "Quartier des Tanneurs", "text": "A Cserzővarga-negyedet a 17. és 18. századi magas, fagerendás házak jellemzik, ahol egykor a bőröket szárították a padlásokon.", "category": "historical", "confidence": "high" },
+            { "name": "Marché Couvert", "text": "Az 1865-ben épült, tégla- és vasszerkezetes vásárcsarnok regionális elzászi termékeket és különlegességeket kínál a város szívében.", "category": "culinary", "confidence": "high" },
+            { "name": "Szabadság-szobor másolat", "text": "A Szabadság-szobor 12 méter magas másolata a Colmarban született szobrász, Auguste Bartholdi előtt tiszteleg a város északi bejáratánál.", "category": "historical", "confidence": "high" },
+            { "name": "Ancien Corps de Garde", "text": "Ez az 1575-ből származó egykori őrház pompás reneszánsz loggiájával tűnik ki, korábban városházaként és piacként is szolgált.", "category": "historical", "confidence": "high" },
+            { "name": "Maison Adolph", "text": "Az 1350 körül épült Adolph-ház Colmar egyik legrégebbi épületének számít, gótikus ablakíveivel és kontyolt tetőjével tűnik ki.", "category": "historical", "confidence": "high" },
+            { "name": "Roesselmann-kút", "text": "Ez a fehér kőből készült kút Jean Roesselmann városbírónak állít emléket, aki a 13. században megvédte Colmart a püspökkel szemben.", "category": "historical", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Mica Veneție (Petite Venise)",
@@ -12325,7 +13799,16 @@ const citySeeds: CitySeed[] = [
                   "category": "religious",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Musée du Jouet", "text": "Muzeul Jucăriilor este găzduit într-un fost cinematograf din anii 1950 și prezintă o colecție vastă de jucării și trenulețe vechi.", "category": "museum", "confidence": "high" },
+            { "name": "Biserica Dominicană", "text": "Această biserică dominicană gotică din secolul XIII adăpostește faimoasa pictură \"Fecioara din tufișul de trandafiri\" de Martin Schongauer.", "category": "religious", "confidence": "high" },
+            { "name": "Quartier des Tanneurs", "text": "Cartierul Tăbăcarilor este caracterizat prin case înalte cu paiantă din secolele XVII și XVIII, unde pieile erau uscate în poduri.", "category": "historical", "confidence": "high" },
+            { "name": "Marché Couvert", "text": "Această hală de piață construită în 1865 din cărămidă și fier oferă produse regionale alsaciene și specialități în inima orașului.", "category": "culinary", "confidence": "high" },
+            { "name": "Replica Statuii Libertății", "text": "O replică de 12 metri înălțime a Statuii Libertății îl omagiază pe sculptorul Auguste Bartholdi la intrarea de nord a orașului.", "category": "historical", "confidence": "high" },
+            { "name": "Ancien Corps de Garde", "text": "Această fostă casă de gardă din 1575 se remarcă prin loggia sa renascentistă magnifică și a servit anterior ca primărie.", "category": "historical", "confidence": "high" },
+            { "name": "Maison Adolph", "text": "Construită în jurul anului 1350, Casa Adolph este considerată una dintre cele mai vechi clădiri din Colmar, având arcade gotice.", "category": "historical", "confidence": "high" },
+            { "name": "Fântâna Roesselmann", "text": "Această fântână din piatră albă îl onorează pe judecătorul Jean Roesselmann, care a apărat Colmarul împotriva episcopului în secolul XIII.", "category": "historical", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Little Venice (Petite Venise)",
@@ -12375,7 +13858,16 @@ const citySeeds: CitySeed[] = [
                   "category": "recreational",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Toy Museum", "text": "The Toy Museum is housed in a former 1950s cinema and displays an extensive collection of antique toys and model trains.", "category": "museum", "confidence": "high" },
+            { "name": "Dominican Church", "text": "This 13th-century Gothic Dominican church houses the famous \"Madonna in the Rose Bower\" painting by Martin Schongauer.", "category": "religious", "confidence": "high" },
+            { "name": "Tanners' Quarter", "text": "The Tanners' Quarter features tall half-timbered houses from the 17th and 18th centuries, where skins were once dried in the attics.", "category": "historical", "confidence": "high" },
+            { "name": "Covered Market", "text": "Built in 1865, this brick and iron covered market hall offers regional Alsatian products and specialties in the heart of the city.", "category": "culinary", "confidence": "high" },
+            { "name": "Statue of Liberty Replica", "text": "A 12-meter high replica of the Statue of Liberty honors the Colmar-born sculptor Auguste Bartholdi at the northern entrance of the city.", "category": "historical", "confidence": "high" },
+            { "name": "Old Guard House", "text": "This former guard house from 1575 stands out with its magnificent Renaissance loggia and previously served as a town hall.", "category": "historical", "confidence": "high" },
+            { "name": "Adolph House", "text": "Built around 1350, the Adolph House is considered one of the oldest buildings in Colmar, featuring Gothic window arches.", "category": "historical", "confidence": "high" },
+            { "name": "Roesselmann Fountain", "text": "This white stone fountain honors the city judge Jean Roesselmann, who defended Colmar against the bishop in the 13th century.", "category": "historical", "confidence": "high" }
+        ]
 }
   },
   {
@@ -12885,7 +14377,16 @@ const citySeeds: CitySeed[] = [
                   "category": "fortress",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Parc du Mont Olympe", "text": "Ein weitläufiger Park auf einem Hügel mit Freizeiteinrichtungen und Blick auf die Maas.", "category": "recreational", "confidence": "high" },
+            { "name": "Hôtel de Ville de Mézières", "text": "Ein prächtiges Rathaus im neugotischen Stil, das den historischen Kern von Mézières dominiert.", "category": "civic", "confidence": "high" },
+            { "name": "Statue d'Arthur Rimbaud", "text": "Eine Bronzestatue auf dem Bahnhofsvorplatz, die dem berühmten in der Stadt geborenen Dichter gewidmet ist.", "category": "historical", "confidence": "high" },
+            { "name": "Gare de Charleville-Mézières", "text": "Ein historisches Bahnhofsgebäude aus dem 19. Jahrhundert mit markanter Architektur und Reliefs.", "category": "station", "confidence": "high" },
+            { "name": "Eglise Saint-Lié", "text": "Eine Kirche im Stadtteil Mohon, bekannt für ihre Architektur und die Glasmalereien des 20. Jahrhunderts.", "category": "religious", "confidence": "high" },
+            { "name": "Square de la Gare", "text": "Ein gepflegter Stadtgarten gegenüber dem Bahnhof, ideal für einen kurzen Spaziergang im Grünen.", "category": "recreational", "confidence": "high" },
+            { "name": "Marché Couvert de Charleville", "text": "Die historische Markthalle bietet lokale Spezialitäten und eine lebendige Atmosphäre im Stadtzentrum.", "category": "culinary", "confidence": "high" },
+            { "name": "Lycée Chanzy", "text": "Ein monumentales Schulgebäude mit beeindruckender Fassade, das ein wichtiges lokales Wahrzeichen darstellt.", "category": "civic", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Place Ducale",
@@ -12935,7 +14436,16 @@ const citySeeds: CitySeed[] = [
                   "category": "fortress",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Parc du Mont Olympe", "text": "Tágas szabadidőpark egy dombon, pihenőhelyekkel és kilátással a Meuse folyóra.", "category": "recreational", "confidence": "high" },
+            { "name": "Hôtel de Ville de Mézières", "text": "Impozáns neogótikus városháza, amely Mézières történelmi központjának meghatározó épülete.", "category": "civic", "confidence": "high" },
+            { "name": "Statue d'Arthur Rimbaud", "text": "Bronzszobor a vasútállomás előtt, amelyet a város híres szülöttének, a költőnek emeltek.", "category": "historical", "confidence": "high" },
+            { "name": "Gare de Charleville-Mézières", "text": "Történelmi vasútállomás a 19. századból, jellegzetes építészeti megoldásokkal és domborművekkel.", "category": "station", "confidence": "high" },
+            { "name": "Eglise Saint-Lié", "text": "Mohon negyed temploma, amely építészetéről és 20. századi ólomüveg ablakairól ismert.", "category": "religious", "confidence": "high" },
+            { "name": "Square de la Gare", "text": "Gondozott városi park a vasútállomással szemben, ideális egy rövid zöldövezeti sétához.", "category": "recreational", "confidence": "high" },
+            { "name": "Marché Couvert de Charleville", "text": "A történelmi fedett piac helyi specialitásokat és élénk hangulatot kínál a városközpontban.", "category": "culinary", "confidence": "high" },
+            { "name": "Lycée Chanzy", "text": "Monumentális iskolaépület lenyűgöző homlokzattal, amely a város egyik fontos építészeti jelképe.", "category": "civic", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Place Ducale",
@@ -12985,7 +14495,16 @@ const citySeeds: CitySeed[] = [
                   "category": "fortress",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Parc du Mont Olympe", "text": "Un parc de agrement situat pe un deal, oferind facilități sportive și vedere spre fluviul Meuse.", "category": "recreational", "confidence": "high" },
+            { "name": "Hôtel de Ville de Mézières", "text": "O primărie grandioasă în stil neogotic, care domină centrul istoric al cartierului Mézières.", "category": "civic", "confidence": "high" },
+            { "name": "Statue d'Arthur Rimbaud", "text": "O statuie de bronz în piața gării, dedicată celebrului poet născut în acest oraș.", "category": "historical", "confidence": "high" },
+            { "name": "Gare de Charleville-Mézières", "text": "O clădire istorică de gară din secolul al XIX-lea, cu o arhitectură distinctivă și reliefuri.", "category": "station", "confidence": "high" },
+            { "name": "Eglise Saint-Lié", "text": "O biserică din cartierul Mohon, cunoscută pentru arhitectura sa și vitraliile din secolul XX.", "category": "religious", "confidence": "high" },
+            { "name": "Square de la Gare", "text": "O grădină urbană îngrijită vizavi de gară, ideală pentru o scurtă plimbare în aer liber.", "category": "recreational", "confidence": "high" },
+            { "name": "Marché Couvert de Charleville", "text": "Piața acoperită istorică oferă specialități locale și o atmosferă plină de viață în centrul orașului.", "category": "culinary", "confidence": "high" },
+            { "name": "Lycée Chanzy", "text": "O clădire școlară monumentală cu o fațadă impresionantă, reprezentând un punct de reper local.", "category": "civic", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Place Ducale",
@@ -13035,7 +14554,16 @@ const citySeeds: CitySeed[] = [
                   "category": "fortress",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Parc du Mont Olympe", "text": "A large leisure park on a hill featuring recreational facilities and views of the Meuse river.", "category": "recreational", "confidence": "high" },
+            { "name": "Hôtel de Ville de Mézières", "text": "A grand town hall in Neo-Gothic style, dominating the historical center of the Mézières district.", "category": "civic", "confidence": "high" },
+            { "name": "Statue d'Arthur Rimbaud", "text": "A bronze statue located in the station square, dedicated to the famous poet born in the city.", "category": "historical", "confidence": "high" },
+            { "name": "Gare de Charleville-Mézières", "text": "A historical railway station building from the 19th century with distinctive architecture and reliefs.", "category": "station", "confidence": "high" },
+            { "name": "Eglise Saint-Lié", "text": "A church in the Mohon district, known for its architecture and 20th-century stained glass windows.", "category": "religious", "confidence": "high" },
+            { "name": "Square de la Gare", "text": "A well-maintained urban garden opposite the station, ideal for a short walk in green surroundings.", "category": "recreational", "confidence": "high" },
+            { "name": "Marché Couvert de Charleville", "text": "The historical covered market offers local specialties and a lively atmosphere in the city center.", "category": "culinary", "confidence": "high" },
+            { "name": "Lycée Chanzy", "text": "A monumental school building with an impressive facade, serving as an important local landmark.", "category": "civic", "confidence": "high" }
+        ]
 }
   },
   {
@@ -13109,7 +14637,17 @@ const citySeeds: CitySeed[] = [
                   "category": "recreational",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Schloss Ravalet", "text": "Ein prächtiges Renaissanceschloss aus dem 16. Jahrhundert, umgeben von einem weitläufigen Park und einem denkmalgeschützten Gewächshaus.", "category": "historical", "confidence": "high" },
+            { "name": "Italienisches Theater", "text": "Ein wunderschönes Theater aus dem 19. Jahrhundert am Place de Gaulle, bekannt für seine prunkvolle Innenausstattung und Deckenmalereien.", "category": "cultural", "confidence": "high" },
+            { "name": "Abtei Notre-Dame du Vœu", "text": "Ruinen einer im 12. Jahrhundert gegründeten Abtei, die ein bedeutendes Zeugnis der mittelalterlichen Geschichte der Stadt darstellen.", "category": "monastic", "confidence": "high" },
+            { "name": "Regenschirm-Manufaktur von Cherbourg", "text": "Die berühmte Werkstatt, in der die handgefertigten Regenschirme von Cherbourg hergestellt werden, ein Symbol lokaler Handwerkskunst.", "category": "cultural", "confidence": "high" },
+            { "name": "Napoleon-Statue", "text": "Ein monumentales Reiterstandbild von Napoleon I., das auf den Militärhafen blickt und an die strategische Bedeutung der Stadt erinnert.", "category": "historical", "confidence": "high" },
+            { "name": "Stadtgarten von Cherbourg", "text": "Ein gepflegter öffentlicher Park am Fuße des Berges Roule, der seltene Pflanzenarten und einen friedlichen Rückzugsort bietet.", "category": "natural", "confidence": "high" },
+            { "name": "Le Trident", "text": "Die nationale Bühne von Cherbourg, ein bedeutendes Kulturzentrum für Theater, Tanz und Musikaufführungen in der Region.", "category": "cultural", "confidence": "high" },
+            { "name": "Militärhafen von Cherbourg", "text": "Einer der größten künstlichen Häfen der Welt, ein beeindruckendes Festungswerk, das über Jahrhunderte für die Verteidigung gebaut wurde.", "category": "fortress", "confidence": "high" },
+            { "name": "Kirche Saint-Martin d'Octeville", "text": "Eine romanische Kirche mit einem markanten Glockenturm, die zu den ältesten religiösen Gebäuden im Großraum Cherbourg zählt.", "category": "religious", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "La Cité de la Mer",
@@ -13147,7 +14685,17 @@ const citySeeds: CitySeed[] = [
                   "category": "recreational",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Ravalet-kastély", "text": "Pompás 16. századi reneszánsz kastély, amelyet hatalmas park és egy műemléki védettség alatt álló üvegház vesz körül.", "category": "historical", "confidence": "high" },
+            { "name": "Olasz stílusú színház", "text": "Gyönyörű 19. századi színház a Place de Gaulle téren, amely díszes belső teréről és mennyezeti festményeiről híres.", "category": "cultural", "confidence": "high" },
+            { "name": "Notre-Dame du Vœu apátság", "text": "Egy 12. században alapított apátság romjai, amelyek a város középkori történelmének jelentős emlékei.", "category": "monastic", "confidence": "high" },
+            { "name": "Cherbourgi Esernyőmanufaktúra", "text": "A híres műhely, ahol a kézzel készült cherbourgi esernyőket gyártják, amelyek a helyi kézművesség szimbólumai.", "category": "cultural", "confidence": "high" },
+            { "name": "Napóleon-szobor", "text": "I. Napóleon monumentális lovasszobra, amely a katonai kikötőre néz, emlékeztetve a város stratégiai jelentőségére.", "category": "historical", "confidence": "high" },
+            { "name": "Cherbourgi Városliget", "text": "Gondozott közpark a Roule-hegy lábánál, amely ritka növényfajokat és békés menedéket kínál a látogatóknak.", "category": "natural", "confidence": "high" },
+            { "name": "Le Trident", "text": "Cherbourg nemzeti színpada, amely a régió jelentős kulturális központja színházi, tánc- és zenei előadások számára.", "category": "cultural", "confidence": "high" },
+            { "name": "Katonai kikötő", "text": "A világ egyik legnagyobb mesterséges kikötője, lenyűgöző erődítményrendszer, amelyet évszázadok alatt építettek ki védelemre.", "category": "fortress", "confidence": "high" },
+            { "name": "Saint-Martin d'Octeville templom", "text": "Román stílusú templom jellegzetes harangtoronnyal, amely Cherbourg környékének egyik legrégebbi vallási épülete.", "category": "religious", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "La Cité de la Mer",
@@ -13185,7 +14733,17 @@ const citySeeds: CitySeed[] = [
                   "category": "recreational",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Castelul Ravalet", "text": "Un superb castel renascentist din secolul al XVI-lea, înconjurat de un parc vast și o seră clasată monument istoric.", "category": "historical", "confidence": "high" },
+            { "name": "Teatrul în stil italian", "text": "Un teatru superb din secolul al XIX-lea situat în Place de Gaulle, renumit pentru interiorul fastuos și picturile de pe tavan.", "category": "cultural", "confidence": "high" },
+            { "name": "Abația Notre-Dame du Vœu", "text": "Ruinele unei abații fondate în secolul al XII-lea, reprezentând o mărturie importantă a istoriei medievale a orașului.", "category": "monastic", "confidence": "high" },
+            { "name": "Manufactura de Umbrele din Cherbourg", "text": "Celebrul atelier unde sunt fabricate manual umbrelele de Cherbourg, un simbol al meșteșugului local de înaltă calitate.", "category": "cultural", "confidence": "high" },
+            { "name": "Statuia lui Napoleon I", "text": "O statuie ecvestră monumentală a lui Napoleon I, care privește spre portul militar, amintind de rolul strategic al orașului.", "category": "historical", "confidence": "high" },
+            { "name": "Grădina Publică din Cherbourg", "text": "Un parc public îngrijit situat la poalele muntelui Roule, oferind specii rare de plante și un refugiu liniștit.", "category": "natural", "confidence": "high" },
+            { "name": "Le Trident", "text": "Scena națională din Cherbourg, un centru cultural major pentru spectacole de teatru, dans și muzică din regiune.", "category": "cultural", "confidence": "high" },
+            { "name": "Portul Militar Cherbourg", "text": "Unul dintre cele mai mari porturi artificiale din lume, o lucrare defensivă impresionantă construită de-a lungul secolelor.", "category": "fortress", "confidence": "high" },
+            { "name": "Biserica Saint-Martin d'Octeville", "text": "O biserică în stil romanic cu un turn clopotniță distinctiv, fiind una dintre cele mai vechi clădiri religioase din zonă.", "category": "religious", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "La Cité de la Mer",
@@ -13223,7 +14781,17 @@ const citySeeds: CitySeed[] = [
                   "category": "recreational",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Château des Ravalet", "text": "A magnificent 16th-century Renaissance castle surrounded by a vast park and a listed historical greenhouse.", "category": "historical", "confidence": "high" },
+            { "name": "Italian-style Theatre", "text": "A beautiful 19th-century theater on Place de Gaulle, famous for its ornate interior decoration and ceiling paintings.", "category": "cultural", "confidence": "high" },
+            { "name": "Abbey Notre-Dame du Vœu", "text": "Ruins of an abbey founded in the 12th century, standing as a significant testimony to the city's medieval history.", "category": "monastic", "confidence": "high" },
+            { "name": "Cherbourg Umbrella Manufacture", "text": "The famous workshop where the handcrafted umbrellas of Cherbourg are made, a true symbol of local craftsmanship.", "category": "cultural", "confidence": "high" },
+            { "name": "Statue of Napoleon I", "text": "A monumental equestrian statue of Napoleon I overlooking the military port, recalling the city's strategic importance.", "category": "historical", "confidence": "high" },
+            { "name": "Cherbourg Public Garden", "text": "A well-kept public park at the foot of the Roule mountain, featuring rare plant species and a peaceful atmosphere.", "category": "natural", "confidence": "high" },
+            { "name": "Le Trident", "text": "The national stage of Cherbourg, a major cultural hub for theater, dance, and music performances in the region.", "category": "cultural", "confidence": "high" },
+            { "name": "Military Port of Cherbourg", "text": "One of the largest artificial harbors in the world, an impressive defensive work built over centuries for protection.", "category": "fortress", "confidence": "high" },
+            { "name": "Church of Saint-Martin d'Octeville", "text": "A Romanesque-style church with a notable bell tower, one of the oldest religious buildings in the Cherbourg area.", "category": "religious", "confidence": "high" }
+        ]
 }
   },
   {

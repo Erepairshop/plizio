@@ -83,7 +83,17 @@ export const poiExtraFranceCities: POI[] = [
                   "category": "religious",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Musée de l'Ancien Évêché", "text": "In einem ehemaligen Bischofspalast untergebracht, zeigt dieses Museum die Geschichte des Isère-Departements von der Antike bis heute.", "category": "museum", "confidence": "high" },
+            { "name": "Parc Paul Mistral", "text": "Der größte Stadtpark von Grenoble beherbergt den markanten Perret-Turm und war Schauplatz der Weltausstellung von 1925.", "category": "natural", "confidence": "high" },
+            { "name": "Tour Perret", "text": "Dieser 1925 errichtete Aussichtsturm ist der erste in Europa aus Stahlbeton gebaute Turm und ein Wahrzeichen der Stadt.", "category": "civic", "confidence": "high" },
+            { "name": "Place Victor Hugo", "text": "Ein eleganter Platz im Stadtzentrum, bekannt für seine Brunnen, Blumenmärkte und prächtige Haussmann-Architektur.", "category": "civic", "confidence": "high" },
+            { "name": "Muséum d'histoire naturelle de Grenoble", "text": "Es beherbergt reiche Sammlungen zur Fauna und Geologie der Alpen und verfügt über einen wunderschönen botanischen Garten.", "category": "museum", "confidence": "high" },
+            { "name": "Passerelle Saint-Laurent", "text": "Diese historische Fußgängerbrücke über die Isère verbindet das Stadtzentrum mit dem malerischen Viertel Saint-Laurent.", "category": "civic", "confidence": "high" },
+            { "name": "Église Saint-Louis", "text": "Eine Barockkirche aus dem 17. Jahrhundert, gewidmet dem heiligen Ludwig, gelegen direkt am geschäftigen Place Victor Hugo.", "category": "religious", "confidence": "high" },
+            { "name": "Crypte Saint-Laurent", "text": "Eine bedeutende archäologische Stätte mit Überresten aus dem 6. Jahrhundert, die die frühe christliche Geschichte der Stadt zeigt.", "category": "historical", "confidence": "high" },
+            { "name": "Le Magasin - CNAC", "text": "Ein renommiertes Zentrum für zeitgenössische Kunst, untergebracht in einer von Gustave Eiffel entworfenen Industriehalle.", "category": "cultural", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Grenoble-i Bastille",
@@ -121,7 +131,17 @@ export const poiExtraFranceCities: POI[] = [
                   "category": "religious",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Musée de l'Ancien Évêché", "text": "Az egykori püspöki palotában berendezett múzeum Isère megye történelmét mutatja be az ókortól napjainkig.", "category": "museum", "confidence": "high" },
+            { "name": "Parc Paul Mistral", "text": "Grenoble legnagyobb városi parkja ad otthont a Perret-toronynak, és az 1925-ös nemzetközi kiállítás helyszíne volt.", "category": "natural", "confidence": "high" },
+            { "name": "Tour Perret", "text": "Ez az 1925-ben emelt kilátótorony Európa első vasbetonból készült tornya, és a város egyik ikonikus jelképe.", "category": "civic", "confidence": "high" },
+            { "name": "Place Victor Hugo", "text": "Elegáns tér a városközpontban, amely szökőkútjairól, virágpiacairól és pompás Haussmann-stílusú épületeiről ismert.", "category": "civic", "confidence": "high" },
+            { "name": "Muséum d'histoire naturelle de Grenoble", "text": "Gazdag gyűjteményekkel rendelkezik az Alpok állatvilágáról és geológiájáról, valamint egy gyönyörű botanikus kerttel.", "category": "museum", "confidence": "high" },
+            { "name": "Passerelle Saint-Laurent", "text": "Ez a történelmi gyalogoshíd az Isère folyó felett köti össze a városközpontot a festői Saint-Laurent negyeddel.", "category": "civic", "confidence": "high" },
+            { "name": "Église Saint-Louis", "text": "17. századi barokk templom, amelyet Szent Lajosnak szenteltek, és közvetlenül a forgalmas Place Victor Hugo mellett található.", "category": "religious", "confidence": "high" },
+            { "name": "Crypte Saint-Laurent", "text": "Jelentős régészeti lelőhely 6. századi maradványokkal, amely a város korai keresztény történelmét mutatja be.", "category": "historical", "confidence": "high" },
+            { "name": "Le Magasin - CNAC", "text": "Neves kortárs művészeti központ, amely egy Gustave Eiffel által tervezett egykori ipari csarnokban kapott helyet.", "category": "cultural", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Fortăreața Bastille",
@@ -159,7 +179,17 @@ export const poiExtraFranceCities: POI[] = [
                   "category": "religious",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Musée de l'Ancien Évêché", "text": "Găzduit într-un fost palat episcopal, acest muzeu prezintă istoria departamentului Isère din antichitate până în prezent.", "category": "museum", "confidence": "high" },
+            { "name": "Parc Paul Mistral", "text": "Cel mai mare parc urban din Grenoble găzduiește Turnul Perret și a fost locul Expoziției Internaționale din 1925.", "category": "natural", "confidence": "high" },
+            { "name": "Tour Perret", "text": "Acest turn de observație ridicat în 1925 este primul turn din beton armat construit în Europa și un simbol al orașului.", "category": "civic", "confidence": "high" },
+            { "name": "Place Victor Hugo", "text": "O piață elegantă din centrul orașului, cunoscută pentru fântânile sale, piețele de flori și arhitectura Haussmann splendidă.", "category": "civic", "confidence": "high" },
+            { "name": "Muséum d'histoire naturelle de Grenoble", "text": "Deține colecții bogate despre fauna și geologia Alpilor și dispune de o grădină botanică minunată.", "category": "museum", "confidence": "high" },
+            { "name": "Passerelle Saint-Laurent", "text": "Această punte pietonală istorică peste râul Isère leagă centrul orașului de cartierul pitoresc Saint-Laurent.", "category": "civic", "confidence": "high" },
+            { "name": "Église Saint-Louis", "text": "O biserică barocă din secolul al XVII-lea dedicată Sfântului Ludovic, situată chiar lângă piața animată Victor Hugo.", "category": "religious", "confidence": "high" },
+            { "name": "Crypte Saint-Laurent", "text": "Un sit arheologic important cu vestigii din secolul al VI-lea, care prezintă istoria creștină timpurie a orașului.", "category": "historical", "confidence": "high" },
+            { "name": "Le Magasin - CNAC", "text": "Un centru renumit de artă contemporană, găzduit într-o hală industrială proiectată de Gustave Eiffel.", "category": "cultural", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Bastille of Grenoble",
@@ -197,7 +227,17 @@ export const poiExtraFranceCities: POI[] = [
                   "category": "religious",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Musée de l'Ancien Évêché", "text": "Located in a former bishop's palace, this museum showcases the history of the Isère department from antiquity to the present day.", "category": "museum", "confidence": "high" },
+            { "name": "Parc Paul Mistral", "text": "The largest urban park in Grenoble is home to the Perret Tower and was the site of the 1925 International Exhibition.", "category": "natural", "confidence": "high" },
+            { "name": "Tour Perret", "text": "Built in 1925, this observation tower is the first tower in Europe constructed from reinforced concrete and a city landmark.", "category": "civic", "confidence": "high" },
+            { "name": "Place Victor Hugo", "text": "An elegant square in the city center, known for its fountains, flower markets, and magnificent Haussmann-style architecture.", "category": "civic", "confidence": "high" },
+            { "name": "Muséum d'histoire naturelle de Grenoble", "text": "It houses rich collections on the fauna and geology of the Alps and features a beautiful botanical garden.", "category": "museum", "confidence": "high" },
+            { "name": "Passerelle Saint-Laurent", "text": "This historic pedestrian bridge over the Isère river connects the city center with the picturesque Saint-Laurent district.", "category": "civic", "confidence": "high" },
+            { "name": "Église Saint-Louis", "text": "A 17th-century Baroque church dedicated to Saint Louis, located right next to the busy Place Victor Hugo.", "category": "religious", "confidence": "high" },
+            { "name": "Crypte Saint-Laurent", "text": "A significant archaeological site with remains dating back to the 6th century, showcasing the city's early Christian history.", "category": "historical", "confidence": "high" },
+            { "name": "Le Magasin - CNAC", "text": "A renowned contemporary art center housed in a former industrial hall designed by Gustave Eiffel.", "category": "cultural", "confidence": "high" }
+        ]
 }
   },
   
@@ -540,7 +580,17 @@ export const poiExtraFranceCities: POI[] = [
                   "category": "civic",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Église Sainte-Jeanne-d'Arc", "text": "Moderne Kirche mit geschwungenen Linien, erbaut 1979 an der Stelle, wo Jeanne d'Arc hingerichtet wurde.", "category": "religious", "confidence": "high" },
+            { "name": "Musée Le Secq des Tournelles", "text": "Einzigartige Sammlung von Schmiedeeisenkunst aus mehreren Jahrhunderten in einer alten Kirche.", "category": "museum", "confidence": "high" },
+            { "name": "Historial Jeanne d'Arc", "text": "Innovatives interaktives Museum im erzbischöflichen Palast, das dem Schicksal der Nationalheldin gewidmet ist.", "category": "museum", "confidence": "high" },
+            { "name": "Jardin des Plantes de Rouen", "text": "Zehn Hektar großer botanischer Garten mit bedeutenden Gewächshäusern und einer nationalen Kameliensammlung.", "category": "natural", "confidence": "high" },
+            { "name": "Donjon de Rouen", "text": "Auch Tour Jeanne-d'Arc genannt; der letzte Überrest des Schlosses von Philipp August aus dem 13. Jahrhundert.", "category": "historical", "confidence": "high" },
+            { "name": "Aître Saint-Maclou", "text": "Ein ehemaliger Pestfriedhof aus dem 16. Jahrhundert mit faszinierenden Makaber-Schnitzereien an den Fassaden.", "category": "historical", "confidence": "high" },
+            { "name": "Église Saint-Maclou", "text": "Ein Meisterwerk der Flamboyant-Gotik, berühmt für seine fünfseitige Fassade und kunstvolle Renaissancetüren.", "category": "religious", "confidence": "high" },
+            { "name": "Pont Gustave-Flaubert", "text": "Die höchste Hubbrücke Europas und ein modernes Wahrzeichen Rouens, das die Schifffahrt auf der Seine ermöglicht.", "category": "civic", "confidence": "high" },
+            { "name": "Panorama de la Côte Sainte-Catherine", "text": "Ein Hügel am Stadtrand, der den ikonischsten Panoramablick auf Rouen, die Kathedrale und die Seine bietet.", "category": "natural", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Roueni székesegyház",
@@ -578,7 +628,17 @@ export const poiExtraFranceCities: POI[] = [
                   "category": "civic",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Église Sainte-Jeanne-d'Arc", "text": "Modern, íves vonalvezetésű templom, amely 1979-ben épült Jeanne d’Arc kivégzésének pontos helyszínén.", "category": "religious", "confidence": "high" },
+            { "name": "Musée Le Secq des Tournelles", "text": "Több évszázad kovácsoltvas művészeti alkotásait bemutató egyedülálló gyűjtemény egy régi templomban.", "category": "museum", "confidence": "high" },
+            { "name": "Historial Jeanne d'Arc", "text": "Innovatív és interaktív múzeum az érseki palotában, amely a francia nemzeti hős sorsát mutatja be.", "category": "museum", "confidence": "high" },
+            { "name": "Jardin des Plantes de Rouen", "text": "Tízhektáros botanikus kert jelentős növényházakkal és egy országos hírű kaméliagyűjteménnyel.", "category": "natural", "confidence": "high" },
+            { "name": "Donjon de Rouen", "text": "Jeanne d’Arc tornyának is hívják; Fülöp Ágost 13. századi várának utolsó épségben maradt maradványa.", "category": "historical", "confidence": "high" },
+            { "name": "Aître Saint-Maclou", "text": "16. századi egykori pestistemető, amelynek udvarát különleges, haláltáncot ábrázoló faragványok díszítik.", "category": "historical", "confidence": "high" },
+            { "name": "Église Saint-Maclou", "text": "A lángoló gótika remekműve, amely ötoldalú homlokzatáról és faragott reneszánsz kapuiról híres.", "category": "religious", "confidence": "high" },
+            { "name": "Pont Gustave-Flaubert", "text": "Európa legmagasabb emelőhídja és Rouen modern jelképe, amely lehetővé teszi a hajózást a Szajnán.", "category": "civic", "confidence": "high" },
+            { "name": "Panorama de la Côte Sainte-Catherine", "text": "A város szélén található domb, ahonnan a legszebb panoráma nyílik Rouenre, a katedrálisra és a Szajnára.", "category": "natural", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Catedrala Notre-Dame din Rouen",
@@ -616,7 +676,17 @@ export const poiExtraFranceCities: POI[] = [
                   "category": "civic",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Église Sainte-Jeanne-d'Arc", "text": "Biserică modernă cu linii curbe, construită în 1979 pe locul unde a fost executată Ioana d'Arc.", "category": "religious", "confidence": "high" },
+            { "name": "Musée Le Secq des Tournelles", "text": "Colecție unică de artă din fier forjat din mai multe secole, găzduită într-o biserică dezafectată.", "category": "museum", "confidence": "high" },
+            { "name": "Historial Jeanne d'Arc", "text": "Muzeu inovator și interactiv în palatul arhiepiscopal, dedicat destinului eroinei naționale a Franței.", "category": "museum", "confidence": "high" },
+            { "name": "Jardin des Plantes de Rouen", "text": "Grădină botanică de zece hectare, cu sere importante și o colecție națională valoroasă de camelii.", "category": "natural", "confidence": "high" },
+            { "name": "Donjon de Rouen", "text": "Numit și Turnul Ioanei d'Arc; ultima rămășiță a castelului lui Filip August din secolul al XIII-lea.", "category": "historical", "confidence": "high" },
+            { "name": "Aître Saint-Maclou", "text": "Fost cimitir pentru victimele ciumei din secolul al XVI-lea, cu sculpturi macabre fascinante pe fațade.", "category": "historical", "confidence": "high" },
+            { "name": "Église Saint-Maclou", "text": "Capodoperă a goticului flamboyant, faimoasă pentru fațada sa cu cinci laturi și ușile sculptate.", "category": "religious", "confidence": "high" },
+            { "name": "Pont Gustave-Flaubert", "text": "Cel mai înalt pod mobil din Europa și un simbol modern al Rouenului, care permite navigația pe Sena.", "category": "civic", "confidence": "high" },
+            { "name": "Panorama de la Côte Sainte-Catherine", "text": "Un deal la marginea orașului care oferă cea mai iconică vedere panoramică asupra Rouenului și a Senei.", "category": "natural", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Rouen Cathedral",
@@ -654,7 +724,17 @@ export const poiExtraFranceCities: POI[] = [
                   "category": "civic",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Église Sainte-Jeanne-d'Arc", "text": "Modern church with sweeping lines, built in 1979 on the exact site where Joan of Arc was executed.", "category": "religious", "confidence": "high" },
+            { "name": "Musée Le Secq des Tournelles", "text": "Unique collection of wrought iron art spanning several centuries, housed in a former church building.", "category": "museum", "confidence": "high" },
+            { "name": "Historial Jeanne d'Arc", "text": "Innovative interactive museum in the episcopal palace, dedicated to the fate of the French national heroine.", "category": "museum", "confidence": "high" },
+            { "name": "Jardin des Plantes de Rouen", "text": "Ten-hectare botanical garden featuring significant greenhouses and a national camellia collection.", "category": "natural", "confidence": "high" },
+            { "name": "Donjon de Rouen", "text": "Also known as the Joan of Arc Tower; the last remaining vestige of Philip Augustus's 13th-century castle.", "category": "historical", "confidence": "high" },
+            { "name": "Aître Saint-Maclou", "text": "A former 16th-century plague cemetery featuring fascinating macabre carvings on its timber facades.", "category": "historical", "confidence": "high" },
+            { "name": "Église Saint-Maclou", "text": "A masterpiece of Flamboyant Gothic architecture, famous for its five-sided facade and carved Renaissance doors.", "category": "religious", "confidence": "high" },
+            { "name": "Pont Gustave-Flaubert", "text": "The tallest vertical-lift bridge in Europe and a modern landmark of Rouen, allowing ships to pass on the Seine.", "category": "civic", "confidence": "high" },
+            { "name": "Panorama de la Côte Sainte-Catherine", "text": "A hill on the outskirts offering the most iconic panoramic view of Rouen, its cathedral, and the Seine.", "category": "natural", "confidence": "high" }
+        ]
 }
   },
   {
@@ -1150,7 +1230,18 @@ export const poiExtraFranceCities: POI[] = [
                   "category": "culinary",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Musée Calvet", "text": "Museum in einem Herrenhaus aus dem 18. Jahrhundert mit bildender Kunst und archäologischen Funden.", "category": "museum", "confidence": "high" },
+            { "name": "Musée Angladon", "text": "Privates Kunstmuseum mit Werken von Van Gogh, Cézanne und Picasso in einem historischen Stadthaus.", "category": "museum", "confidence": "high" },
+            { "name": "Musée Lapidaire", "text": "Archäologische Sammlung des Calvet-Museums, ausgestellt in einer Jesuitenkapelle des 17. Jahrhunderts.", "category": "museum", "confidence": "high" },
+            { "name": "Collection Lambert", "text": "Museum für zeitgenössische Kunst im Hôtel de Caumont, das die Sammlung von Yvon Lambert zeigt.", "category": "museum", "confidence": "high" },
+            { "name": "Rue des Teinturiers", "text": "Malerische historische Straße am Sorgue-Kanal, bekannt für ihre alten Wasserräder.", "category": "historical", "confidence": "high" },
+            { "name": "Place de l'Horloge", "text": "Der Hauptplatz der Stadt, an dem sich das Rathaus, die Oper und zahlreiche Straßencafés befinden.", "category": "civic", "confidence": "high" },
+            { "name": "Opéra d'Avignon", "text": "Ein Theatergebäude aus dem 19. Jahrhundert an der Place de l'Horloge, das Oper und Ballett beherbergt.", "category": "cultural", "confidence": "high" },
+            { "name": "Basilique Saint-Pierre d'Avignon", "text": "Gotische Basilika, bekannt für ihre bemerkenswerten geschnitzten Holztüren aus dem 16. Jahrhundert.", "category": "religious", "confidence": "high" },
+            { "name": "Remparts d'Avignon", "text": "Gut erhaltene Verteidigungsmauern aus dem 14. Jahrhundert, die das historische Zentrum umschließen.", "category": "historical", "confidence": "high" },
+            { "name": "Palais du Roure", "text": "Ein Herrenhaus aus dem 15. Jahrhundert und Kulturzentrum, das der Geschichte der Provence gewidmet ist.", "category": "historical", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Pápai palota",
@@ -1188,7 +1279,18 @@ export const poiExtraFranceCities: POI[] = [
                   "category": "culinary",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Musée Calvet", "text": "Múzeum egy 18. századi palotában, amely képzőművészeti alkotásokat és helyi régészeti leleteket mutat be.", "category": "museum", "confidence": "high" },
+            { "name": "Musée Angladon", "text": "Magánmúzeum egy történelmi polgárházban, Van Gogh, Cézanne és Picasso műveivel a gyűjteményében.", "category": "museum", "confidence": "high" },
+            { "name": "Musée Lapidaire", "text": "A Calvet Múzeum régészeti kőtára, amely egy 17. századi jezsuita kápolnában kapott helyet.", "category": "museum", "confidence": "high" },
+            { "name": "Collection Lambert", "text": "Kortárs művészeti múzeum a Hôtel de Caumont épületében, Yvon Lambert gyűjteményét prezentálja.", "category": "museum", "confidence": "high" },
+            { "name": "Rue des Teinturiers", "text": "Festői történelmi utca a Sorgue-csatorna mentén, amely régi vízikerekeiről és hangulatáról híres.", "category": "historical", "confidence": "high" },
+            { "name": "Place de l'Horloge", "text": "A város központi tere, ahol a városháza, az opera és számos szabadtéri kávézó található.", "category": "civic", "confidence": "high" },
+            { "name": "Opéra d'Avignon", "text": "Egy 19. századi színházépület az Óratorony téren, amely operáknak és balettelőadásoknak ad otthont.", "category": "cultural", "confidence": "high" },
+            { "name": "Basilique Saint-Pierre d'Avignon", "text": "Gótikus bazilika, amely 16. századi faragott fa kapuiról és díszes belső teréről ismert.", "category": "religious", "confidence": "high" },
+            { "name": "Remparts d'Avignon", "text": "Jó állapotban megmaradt 14. századi városfal, amely 4,3 kilométer hosszan öleli körbe a belvárost.", "category": "historical", "confidence": "high" },
+            { "name": "Palais du Roure", "text": "15. századi palota és kulturális központ, amelyet Provence történelmének és hagyományainak szentelték.", "category": "historical", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Palatul Papilor",
@@ -1226,7 +1328,18 @@ export const poiExtraFranceCities: POI[] = [
                   "category": "culinary",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Musée Calvet", "text": "Muzeu într-un conac din secolul al XVIII-lea, care adăpostește arte frumoase și descoperiri arheologice locale.", "category": "museum", "confidence": "high" },
+            { "name": "Musée Angladon", "text": "Muzeu de artă privat care expune lucrări de Van Gogh, Cézanne și Picasso într-o casă istorică.", "category": "museum", "confidence": "high" },
+            { "name": "Musée Lapidaire", "text": "Colecția arheologică a Muzeului Calvet, expusă într-o capelă iezuită din secolul al XVII-lea.", "category": "museum", "confidence": "high" },
+            { "name": "Collection Lambert", "text": "Muzeu de artă contemporană stabilit în Hôtel de Caumont, prezentând colecția lui Yvon Lambert.", "category": "museum", "confidence": "high" },
+            { "name": "Rue des Teinturiers", "text": "Stradă istorică pitorească de-a lungul canalului Sorgue, cunoscută pentru roțile sale vechi de apă.", "category": "historical", "confidence": "high" },
+            { "name": "Place de l'Horloge", "text": "Piața principală a orașului, sediul Primăriei, al Operei și al numeroaselor cafenele în aer liber.", "category": "civic", "confidence": "high" },
+            { "name": "Opéra d'Avignon", "text": "O clădire de teatru din secolul al XIX-lea situată în Place de l'Horloge, care găzduiește operă și balet.", "category": "cultural", "confidence": "high" },
+            { "name": "Basilique Saint-Pierre d'Avignon", "text": "Bazilică gotică cunoscută pentru porțile sale remarcabile din lemn sculptat din secolul al XVI-lea.", "category": "religious", "confidence": "high" },
+            { "name": "Remparts d'Avignon", "text": "Ziduri defensive din secolul al XIV-lea bine conservate, care înconjoară centrul istoric pe 4,3 km.", "category": "historical", "confidence": "high" },
+            { "name": "Palais du Roure", "text": "Un conac din secolul al XV-lea și centru cultural dedicat istoriei și tradițiilor din Provence.", "category": "historical", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Palace of the Popes",
@@ -1264,7 +1377,18 @@ export const poiExtraFranceCities: POI[] = [
                   "category": "culinary",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Musée Calvet", "text": "Museum in an 18th-century mansion, housing fine arts and archaeological findings from the region.", "category": "museum", "confidence": "high" },
+            { "name": "Musée Angladon", "text": "Private art museum featuring works by Van Gogh, Cézanne, and Picasso in a historic townhouse.", "category": "museum", "confidence": "high" },
+            { "name": "Musée Lapidaire", "text": "Archaeological collection of the Calvet Museum, displayed in a 17th-century Jesuit chapel.", "category": "museum", "confidence": "high" },
+            { "name": "Collection Lambert", "text": "Contemporary art museum established in the Hôtel de Caumont, showcasing Yvon Lambert's collection.", "category": "museum", "confidence": "high" },
+            { "name": "Rue des Teinturiers", "text": "Picturesque historic street along the Sorgue canal, known for its old water wheels.", "category": "historical", "confidence": "high" },
+            { "name": "Place de l'Horloge", "text": "The main city square, home to the City Hall, the Opera, and numerous outdoor cafes.", "category": "civic", "confidence": "high" },
+            { "name": "Opéra d'Avignon", "text": "A 19th-century theater building located on Place de l'Horloge, hosting opera and ballet.", "category": "cultural", "confidence": "high" },
+            { "name": "Basilique Saint-Pierre d'Avignon", "text": "Gothic basilica known for its remarkable 16th-century carved wooden doors and ornate interior.", "category": "religious", "confidence": "high" },
+            { "name": "Remparts d'Avignon", "text": "Well-preserved 14th-century defensive walls encircling the historic center, spanning 4.3 kilometers.", "category": "historical", "confidence": "high" },
+            { "name": "Palais du Roure", "text": "A 15th-century mansion and cultural center dedicated to the history and traditions of Provence.", "category": "historical", "confidence": "high" }
+        ]
 }
   },
   {
@@ -1477,7 +1601,18 @@ export const poiExtraFranceCities: POI[] = [
                   "category": "monastic",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Jardin de l'Arquebuse", "text": "Dieser fünf Hektar große Komplex umfasst einen botanischen Garten, ein Naturkundemuseum und ein Planetarium.", "category": "natural", "confidence": "high" },
+            { "name": "Église Saint-Michel de Dijon", "text": "Diese Kirche besticht durch ihre beeindruckende Fassade, die einen einzigartigen Übergang von der Gotik zur Renaissance zeigt.", "category": "religious", "confidence": "high" },
+            { "name": "Les Halles de Dijon", "text": "Die markante Markthalle wurde von Gustave Eiffel entworfen und ist ein lebendiger Ort für lokale gastronomische Spezialitäten.", "category": "culinary", "confidence": "high" },
+            { "name": "Musée de la Vie Bourguignonne", "text": "In einem ehemaligen Kloster untergebracht, zeigt das Museum das tägliche Leben und Handwerk in Burgund im 19. Jahrhundert.", "category": "museum", "confidence": "high" },
+            { "name": "Place de la Libération", "text": "Ein wunderschöner halbkreisförmiger Platz gegenüber dem Herzogspalast, entworfen von Jules Hardouin-Mansart im 17. Jahrhundert.", "category": "civic", "confidence": "high" },
+            { "name": "Musée Magnin", "text": "Ein nationales Museum in einem prächtigen Stadtpalais, das die private Kunstsammlung der Familie Magnin ausstellt.", "category": "museum", "confidence": "high" },
+            { "name": "Musée Archéologique de Dijon", "text": "Das im ehemaligen Kloster Saint-Bénigne untergebrachte Museum zeigt bedeutende Funde aus der gallo-römischen Zeit Burgunds.", "category": "museum", "confidence": "high" },
+            { "name": "Parc de la Colombière", "text": "Ein historischer, von Le Nôtre entworfener Waldpark mit weitläufigen Alleen, ideal für Spaziergänge und Erholung im Freien.", "category": "natural", "confidence": "high" },
+            { "name": "Place François-Rude", "text": "Bekannt als Place du Bareuzai, beherbergt dieser malerische Platz einen Brunnen mit einer Bronzestatue eines Winzers.", "category": "civic", "confidence": "high" },
+            { "name": "Hôtel de Vogüé", "text": "Eines der schönsten Renaissance-Privathäuser in Dijon, berühmt für seine farbenfrohen burgundischen Dachziegel.", "category": "historical", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Burgund hercegeinek palotája",
@@ -1515,7 +1650,18 @@ export const poiExtraFranceCities: POI[] = [
                   "category": "monastic",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Jardin de l'Arquebuse", "text": "Ez az öthektáros komplexum egy botanikus kertet, egy természettudományi múzeumot és egy planetáriumot foglal magában.", "category": "natural", "confidence": "high" },
+            { "name": "Église Saint-Michel de Dijon", "text": "Ez a templom lenyűgöző homlokzatával tűnik ki, amely a gótikából a reneszánszba való egyedülálló átmenetet mutatja.", "category": "religious", "confidence": "high" },
+            { "name": "Les Halles de Dijon", "text": "A jellegzetes vásárcsarnokot Gustave Eiffel tervezte, és a helyi gasztronómiai különlegességek nyüzsgő lelőhelye.", "category": "culinary", "confidence": "high" },
+            { "name": "Musée de la Vie Bourguignonne", "text": "Az egykori kolostorban elhelyezett múzeum a 19. századi burgundiai mindennapi életet és mesterségeket mutatja be.", "category": "museum", "confidence": "high" },
+            { "name": "Place de la Libération", "text": "Gyönyörű félköríves tér a hercegi palotával szemben, amelyet Jules Hardouin-Mansart tervezett a 17. században.", "category": "civic", "confidence": "high" },
+            { "name": "Musée Magnin", "text": "Pompás városi palotában berendezett nemzeti múzeum, amely a Magnin család magán művészeti gyűjteményét mutatja be.", "category": "museum", "confidence": "high" },
+            { "name": "Musée Archéologique de Dijon", "text": "A Szent Bénigne-apátság egykori épületében található múzeum Burgundia gall-római korszakának jelentős leleteit őrzi.", "category": "museum", "confidence": "high" },
+            { "name": "Parc de la Colombière", "text": "Történelmi, Le Nôtre által tervezett erdős park tágas sétányokkal, amely ideális sétákhoz és szabadtéri kikapcsolódáshoz.", "category": "natural", "confidence": "high" },
+            { "name": "Place François-Rude", "text": "A Bareuzai térként ismert festői téren egy szökőkút található, rajta egy bortermelőt ábrázoló bronzszoborral.", "category": "civic", "confidence": "high" },
+            { "name": "Hôtel de Vogüé", "text": "Dijon egyik legszebb reneszánsz magánpalotája, amely színes burgundiai tetőcserepeiről híres.", "category": "historical", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Palatul Ducilor de Burgundia",
@@ -1553,7 +1699,18 @@ export const poiExtraFranceCities: POI[] = [
                   "category": "monastic",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Jardin de l'Arquebuse", "text": "Acest complex de cinci hectare cuprinde o grădină botanică, un muzeu de istorie naturală și un planetariu.", "category": "natural", "confidence": "high" },
+            { "name": "Église Saint-Michel de Dijon", "text": "Această biserică se remarcă prin fațada sa impresionantă, care prezintă o tranziție unică de la gotic la renaștere.", "category": "religious", "confidence": "high" },
+            { "name": "Les Halles de Dijon", "text": "Hala de piață distinctivă a fost proiectată de Gustave Eiffel și este un loc plin de viață pentru specialități gastronomice locale.", "category": "culinary", "confidence": "high" },
+            { "name": "Musée de la Vie Bourguignonne", "text": "Găzduit într-o fostă mănăstire, muzeul prezintă viața de zi cu zi și meșteșugurile din Burgundia secolului al XIX-lea.", "category": "museum", "confidence": "high" },
+            { "name": "Place de la Libération", "text": "O piață semicirculară frumoasă vizavi de Palatul Ducal, proiectată de Jules Hardouin-Mansart în secolul al XVII-lea.", "category": "civic", "confidence": "high" },
+            { "name": "Musée Magnin", "text": "Un muzeu național situat într-un hotel particular splendid, care expune colecția privată de artă a familiei Magnin.", "category": "museum", "confidence": "high" },
+            { "name": "Musée Archéologique de Dijon", "text": "Situat în fosta abație Saint-Bénigne, muzeul prezintă descoperiri importante din perioada galo-romană a Burgundiei.", "category": "museum", "confidence": "high" },
+            { "name": "Parc de la Colombière", "text": "Un parc împădurit istoric proiectat de Le Nôtre, cu alei largi, ideal pentru plimbări și recreere în aer liber.", "category": "natural", "confidence": "high" },
+            { "name": "Place François-Rude", "text": "Cunoscută sub numele de Place du Bareuzai, această piață pitorească găzduiește o fântână cu o statuie de bronz a unui viticultor.", "category": "civic", "confidence": "high" },
+            { "name": "Hôtel de Vogüé", "text": "Una dintre cele mai frumoase case particulare renascentiste din Dijon, celebră pentru țiglele sale colorate de Burgundia.", "category": "historical", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Palace of the Dukes of Burgundy",
@@ -1591,7 +1748,18 @@ export const poiExtraFranceCities: POI[] = [
                   "category": "monastic",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Jardin de l'Arquebuse", "text": "This five-hectare complex includes a botanical garden, a natural history museum, and a planetarium.", "category": "natural", "confidence": "high" },
+            { "name": "Église Saint-Michel de Dijon", "text": "This church stands out for its impressive facade, showing a unique transition from Gothic to Renaissance style.", "category": "religious", "confidence": "high" },
+            { "name": "Les Halles de Dijon", "text": "The distinctive market hall was designed by Gustave Eiffel and is a vibrant spot for local gastronomic specialties.", "category": "culinary", "confidence": "high" },
+            { "name": "Musée de la Vie Bourguignonne", "text": "Housed in a former convent, the museum showcases daily life and crafts in Burgundy during the 19th century.", "category": "museum", "confidence": "high" },
+            { "name": "Place de la Libération", "text": "A beautiful semi-circular square opposite the Ducal Palace, designed by Jules Hardouin-Mansart in the 17th century.", "category": "civic", "confidence": "high" },
+            { "name": "Musée Magnin", "text": "A national museum located in a magnificent townhouse, exhibiting the private art collection of the Magnin family.", "category": "museum", "confidence": "high" },
+            { "name": "Musée Archéologique de Dijon", "text": "Located in the former abbey of Saint-Bénigne, the museum showcases significant finds from Burgundy's Gallo-Roman era.", "category": "museum", "confidence": "high" },
+            { "name": "Parc de la Colombière", "text": "A historic wooded park designed by Le Nôtre with spacious alleys, ideal for walks and outdoor recreation.", "category": "natural", "confidence": "high" },
+            { "name": "Place François-Rude", "text": "Known as Place du Bareuzai, this picturesque square features a fountain with a bronze statue of a winemaker.", "category": "civic", "confidence": "high" },
+            { "name": "Hôtel de Vogüé", "text": "One of the most beautiful Renaissance townhouses in Dijon, famous for its colorful Burgundian roof tiles.", "category": "historical", "confidence": "high" }
+        ]
 }
   },
   {
@@ -1729,7 +1897,18 @@ export const poiExtraFranceCities: POI[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Hôtel de Ville", "text": "Das Rathaus am Place de la Victoire ist ein imposantes Gebäude aus dem 19. Jahrhundert mit einer eleganten Fassade.", "category": "civic", "confidence": "high" },
+            { "name": "Opéra-Théâtre", "text": "Ein prächtiges Theater aus dem Jahr 1894, das für seine reiche Innenausstattung und Akustik bekannt ist.", "category": "cultural", "confidence": "high" },
+            { "name": "Musée Bargoin", "text": "Beherbergt bedeutende archäologische Sammlungen der Region sowie Ausstellungen zu Textilkunst.", "category": "museum", "confidence": "high" },
+            { "name": "Parc de Montjuzet", "text": "Ein großer Park auf einem Hügel, der einen Panoramablick über die Stadt und die Vulkane der Auvergne bietet.", "category": "natural", "confidence": "high" },
+            { "name": "Gare de Clermont-Ferrand", "text": "Ein wichtiges architektonisches Erbe, das die Stadt mit dem nationalen Schienennetz verbindet.", "category": "station", "confidence": "high" },
+            { "name": "Hôtel de Chazerat", "text": "Ein neoklassizistisches Herrenhaus, das heute Sitz der regionalen Direktion für Kulturangelegenheiten ist.", "category": "historical", "confidence": "high" },
+            { "name": "Fontaine de la Pyramide", "text": "Ein historischer Brunnen aus Lavastein, der zu Ehren von General Desaix errichtet wurde.", "category": "historical", "confidence": "high" },
+            { "name": "Stade Marcel-Michelin", "text": "Die legendäre Heimat des Rugby-Clubs ASM Clermont Auvergne, ein Wahrzeichen des lokalen Sports.", "category": "recreational", "confidence": "high" },
+            { "name": "Église Saint-Eutrope", "text": "Eine charmante Kirche in der Nähe des Stadtzentrums, bekannt für ihre Architektur und religiöse Bedeutung.", "category": "religious", "confidence": "high" },
+            { "name": "Musée de la Résistance", "text": "Dokumentiert die Geschichte des Widerstands in der Auvergne während des Zweiten Weltkriegs.", "category": "museum", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Cathédrale Notre-Dame-de-l'Assomption",
@@ -1779,7 +1958,18 @@ export const poiExtraFranceCities: POI[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Városháza", "text": "A Place de la Victoire téren található impozáns 19. századi épület, elegáns homlokzattal.", "category": "civic", "confidence": "high" },
+            { "name": "Operaház", "text": "1894-ben épült díszes színház, amely gazdag belső dekorációjáról és kiváló akusztikájáról ismert.", "category": "cultural", "confidence": "high" },
+            { "name": "Bargoin Múzeum", "text": "A régió jelentős régészeti gyűjteményeinek és textilművészeti kiállításainak ad otthont.", "category": "museum", "confidence": "high" },
+            { "name": "Montjuzet Park", "text": "Egy dombtetőn fekvő nagy park, ahonnan panorámás kilátás nyílik a városra és a vulkánokra.", "category": "natural", "confidence": "high" },
+            { "name": "Vasútállomás", "text": "Fontos építészeti örökség, amely összeköti a várost a nemzeti vasúthálózattal.", "category": "station", "confidence": "high" },
+            { "name": "Hôtel de Chazerat", "text": "Neoklasszicista kúria, amely ma a regionális kulturális ügyek igazgatóságának székhelye.", "category": "historical", "confidence": "high" },
+            { "name": "Piramis-kút", "text": "Lávakőből készült történelmi kút, amelyet Desaix tábornok tiszteletére emeltek.", "category": "historical", "confidence": "high" },
+            { "name": "Stade Marcel-Michelin", "text": "Az ASM Clermont Auvergne rögbi klub legendás otthona, a helyi sport egyik jelképe.", "category": "recreational", "confidence": "high" },
+            { "name": "Szent Eutropius-templom", "text": "Bájos templom a városközpont közelében, amely építészetéről és vallási jelentőségéről ismert.", "category": "religious", "confidence": "high" },
+            { "name": "Ellenállás Múzeuma", "text": "Az auvergne-i ellenállás történetét mutatja be a második világháború idején.", "category": "museum", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Cathédrale Notre-Dame-de-l'Assomption",
@@ -1829,7 +2019,18 @@ export const poiExtraFranceCities: POI[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Primăria", "text": "Situată în Place de la Victoire, este o clădire impunătoare din secolul al XIX-lea cu o fațadă elegantă.", "category": "civic", "confidence": "high" },
+            { "name": "Opera", "text": "Un teatru magnific din 1894, renumit pentru decorațiunile sale interioare bogate și acustică.", "category": "cultural", "confidence": "high" },
+            { "name": "Muzeul Bargoin", "text": "Găzduiește colecții arheologice importante din regiune și expoziții de artă textilă.", "category": "museum", "confidence": "high" },
+            { "name": "Parcul Montjuzet", "text": "Un parc mare situat pe un deal, oferind o vedere panoramică asupra orașului și a vulcanilor.", "category": "natural", "confidence": "high" },
+            { "name": "Gara Clermont-Ferrand", "text": "O moștenire arhitecturală importantă care conectează orașul la rețeaua feroviară națională.", "category": "station", "confidence": "high" },
+            { "name": "Hôtel de Chazerat", "text": "Un conac neoclasic care servește astăzi drept sediu pentru direcția regională de cultură.", "category": "historical", "confidence": "high" },
+            { "name": "Fântâna Piramidei", "text": "O fântână istorică din piatră de lavă, ridicată în onoarea generalului Desaix.", "category": "historical", "confidence": "high" },
+            { "name": "Stadionul Marcel-Michelin", "text": "Casa legendară a clubului de rugby ASM Clermont Auvergne, un simbol al sportului local.", "category": "recreational", "confidence": "high" },
+            { "name": "Biserica Saint-Eutrope", "text": "O biserică fermecătoare situată aproape de centrul orașului, cunoscută pentru arhitectura sa.", "category": "religious", "confidence": "high" },
+            { "name": "Muzeul Rezistenței", "text": "Documentează istoria rezistenței din Auvergne în timpul celui de-al Doilea Război Mondial.", "category": "museum", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Cathédrale Notre-Dame-de-l'Assomption",
@@ -1879,7 +2080,18 @@ export const poiExtraFranceCities: POI[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "City Hall", "text": "The town hall in Place de la Victoire is an imposing 19th-century building with an elegant facade.", "category": "civic", "confidence": "high" },
+            { "name": "Opera House", "text": "A magnificent theater from 1894, known for its rich interior decoration and excellent acoustics.", "category": "cultural", "confidence": "high" },
+            { "name": "Bargoin Museum", "text": "Houses significant archaeological collections from the region and exhibitions on textile art.", "category": "museum", "confidence": "high" },
+            { "name": "Montjuzet Park", "text": "A large hilltop park offering panoramic views over the city and the Auvergne volcanoes.", "category": "natural", "confidence": "high" },
+            { "name": "Clermont-Ferrand Station", "text": "An important architectural heritage connecting the city to the national rail network.", "category": "station", "confidence": "high" },
+            { "name": "Hôtel de Chazerat", "text": "A neoclassical mansion that now serves as the seat for the regional cultural affairs directorate.", "category": "historical", "confidence": "high" },
+            { "name": "Pyramid Fountain", "text": "A historical fountain made of lava stone, erected in honor of General Desaix.", "category": "historical", "confidence": "high" },
+            { "name": "Marcel-Michelin Stadium", "text": "The legendary home of the ASM Clermont Auvergne rugby club, a landmark of local sports.", "category": "recreational", "confidence": "high" },
+            { "name": "Saint-Eutrope Church", "text": "A charming church located near the city center, known for its architecture and religious significance.", "category": "religious", "confidence": "high" },
+            { "name": "Museum of Resistance", "text": "Documents the history of the Resistance in Auvergne during the Second World War.", "category": "museum", "confidence": "high" }
+        ]
 }
   },
   {
@@ -2361,7 +2573,16 @@ export const poiExtraFranceCities: POI[] = [
                   "category": "religious",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Hôtel de Caumont", "text": "Ein prächtiges Stadtpalais aus dem 18. Jahrhundert, das heute als bedeutendes Kunstzentrum für renommierte Wechselausstellungen dient.", "category": "cultural", "confidence": "high" },
+            { "name": "Fondation Vasarely", "text": "Ein architektonisch einzigartiges Gebäude, das 42 monumentale Werke des Begründers der Op-Art, Victor Vasarely, in Wabenräumen präsentiert.", "category": "museum", "confidence": "high" },
+            { "name": "Terrain des Peintres", "text": "Ein terrassenförmiger Park, von dem aus Paul Cézanne zahlreiche Gemälde des Gebirgsmassivs Montagne Sainte-Victoire schuf.", "category": "natural", "confidence": "high" },
+            { "name": "Bastide du Jas de Bouffan", "text": "Das ehemalige Landhaus der Familie Cézanne, in dem der Maler viele seiner berühmten Werke direkt an den Wänden und im Garten schuf.", "category": "historical", "confidence": "high" },
+            { "name": "Musée des Tapisseries", "text": "Dieses im ehemaligen Erzbischofspalast untergebrachte Museum zeigt eine wertvolle Sammlung von Wandteppichen aus dem 17. und 18. Jahrhundert.", "category": "museum", "confidence": "high" },
+            { "name": "Grand Théâtre de Provence", "text": "Ein modernes Opern- und Konzerthaus mit 1370 Plätzen, das für seine außergewöhnliche Akustik und zeitgenössische Architektur bekannt ist.", "category": "cultural", "confidence": "high" },
+            { "name": "Thermes Sextius", "text": "Moderne Thermalbäder, die auf den Ruinen der ursprünglichen römischen Thermen errichtet wurden und Entspannung im historischen Zentrum bieten.", "category": "historical", "confidence": "high" },
+            { "name": "Cloître Saint-Sauveur", "text": "Ein romanischer Kreuzgang aus dem 12. Jahrhundert mit fein gearbeiteten Kapitellen, der an die Kathedrale Saint-Sauveur angrenzt.", "category": "religious", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Cours Mirabeau",
@@ -2411,7 +2632,16 @@ export const poiExtraFranceCities: POI[] = [
                   "category": "religious",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Hôtel de Caumont", "text": "Egy pompás 18. századi városi palota, amely ma jelentős művészeti központként nívós időszaki kiállításoknak ad otthont történelmi termeiben.", "category": "cultural", "confidence": "high" },
+            { "name": "Fondation Vasarely", "text": "Egy építészetileg egyedülálló központ, ahol az op-art alapítója, Victor Vasarely 42 monumentális kinetikus alkotása látható különleges termekben.", "category": "museum", "confidence": "high" },
+            { "name": "Terrain des Peintres", "text": "Egy teraszos park a város északi részén, ahonnan Paul Cézanne számos festményt készített a Montagne Sainte-Victoire hegyvonulatáról.", "category": "natural", "confidence": "high" },
+            { "name": "Bastide du Jas de Bouffan", "text": "A Cézanne család egykori udvarháza, ahol a művész évtizedekig élt és dolgozott, számos falfestményt és tájképet alkotva a helyszínen.", "category": "historical", "confidence": "high" },
+            { "name": "Musée des Tapisseries", "text": "Az egykori érseki palotában található múzeum, amely a 17. és 18. századból származó értékes kárpitgyűjteményéről híres.", "category": "museum", "confidence": "high" },
+            { "name": "Grand Théâtre de Provence", "text": "Modern operaház és koncertterem 1370 férőhellyel, amely kiváló akusztikájáról és kortárs építészeti megoldásairól ismert.", "category": "cultural", "confidence": "high" },
+            { "name": "Thermes Sextius", "text": "A római kori termálfürdők romjaira épült modern wellness központ, amely a város ókori örökségét ötvözi a mai luxussal.", "category": "historical", "confidence": "high" },
+            { "name": "Cloître Saint-Sauveur", "text": "A 12. századból származó román stílusú kolostorudvar, amely finoman faragott oszlopfőivel a provence-i vallási építészet remekműve.", "category": "religious", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Cours Mirabeau",
@@ -2461,7 +2691,16 @@ export const poiExtraFranceCities: POI[] = [
                   "category": "religious",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Hôtel de Caumont", "text": "Un palat urban magnific din secolul al XVIII-lea, transformat într-un centru de artă prestigios ce găzduiește expoziții temporare majore.", "category": "cultural", "confidence": "high" },
+            { "name": "Fondation Vasarely", "text": "O clădire cu arhitectură avangardistă dedicată operei lui Victor Vasarely, expunând 42 de lucrări monumentale de artă optică.", "category": "museum", "confidence": "high" },
+            { "name": "Terrain des Peintres", "text": "Un parc terasat situat pe o colină, oferind panorama exactă a muntelui Sainte-Victoire pe care Paul Cézanne a pictat-o obsesiv.", "category": "natural", "confidence": "high" },
+            { "name": "Bastide du Jas de Bouffan", "text": "Reședința de familie a lui Cézanne, unde artistul a creat numeroase capodopere și a explorat grădinile domeniului timp de 40 de ani.", "category": "historical", "confidence": "high" },
+            { "name": "Musée des Tapisseries", "text": "Situat în fostul palat arhiepiscopal, acest muzeu adăpostește o colecție rară de tapiserii prețioase din secolele XVII și XVIII.", "category": "museum", "confidence": "high" },
+            { "name": "Grand Théâtre de Provence", "text": "O sală modernă de spectacole cu peste 1300 de locuri, renumită pentru acustica sa impecabilă și designul contemporan îndrăzneț.", "category": "cultural", "confidence": "high" },
+            { "name": "Thermes Sextius", "text": "Băi termale moderne construite direct peste vestigiile termelor romane antice, oferind relaxare în inima istorică a orașului.", "category": "historical", "confidence": "high" },
+            { "name": "Cloître Saint-Sauveur", "text": "Un claustru romanic din secolul al XII-lea, adiacent catedralei, faimos pentru capitelurile sale sculptate cu o finețe remarcabilă.", "category": "religious", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Cours Mirabeau",
@@ -2511,7 +2750,16 @@ export const poiExtraFranceCities: POI[] = [
                   "category": "religious",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Hôtel de Caumont", "text": "A magnificent 18th-century private mansion that now serves as a major art center hosting prestigious temporary exhibitions.", "category": "cultural", "confidence": "high" },
+            { "name": "Fondation Vasarely", "text": "An architecturally unique center dedicated to the works of Victor Vasarely, featuring 42 monumental kinetic art installations.", "category": "museum", "confidence": "high" },
+            { "name": "Terrain des Peintres", "text": "A terraced park where Paul Cézanne frequently set up his easel to paint the iconic Montagne Sainte-Victoire landscape.", "category": "natural", "confidence": "high" },
+            { "name": "Bastide du Jas de Bouffan", "text": "The former country estate of the Cézanne family, where the painter lived and produced many of his early masterpieces.", "category": "historical", "confidence": "high" },
+            { "name": "Musée des Tapisseries", "text": "Housed in the former Archbishop's Palace, this museum showcases a rich collection of 17th and 18th-century tapestries.", "category": "museum", "confidence": "high" },
+            { "name": "Grand Théâtre de Provence", "text": "A state-of-the-art opera and concert house with 1,370 seats, known for its exceptional acoustics and contemporary design.", "category": "cultural", "confidence": "high" },
+            { "name": "Thermes Sextius", "text": "A modern spa complex built over the remains of original Roman thermal baths, offering wellness in the historic city center.", "category": "historical", "confidence": "high" },
+            { "name": "Cloître Saint-Sauveur", "text": "A beautifully preserved 12th-century Romanesque cloister featuring finely carved capitals next to the Saint-Sauveur Cathedral.", "category": "religious", "confidence": "high" }
+        ]
 }
   },
   {

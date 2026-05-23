@@ -1500,6 +1500,7 @@ import * as _src_poiExtraUkEconomicV2 from "./poiExtraUkEconomicV2";
 import * as _src_poiExtraUkHistoryV2 from "./poiExtraUkHistoryV2";
 import * as _src_poiExtraUkLandmarksV2 from "./poiExtraUkLandmarksV2";
 import * as _src_poiExtraUkLifeV2 from "./poiExtraUkLifeV2";
+import * as _src_poiExtraUkMissingV1 from "./poiExtraUkMissingV1";
 import * as _src_poiExtraUkNatureV2 from "./poiExtraUkNatureV2";
 import * as _src_poiExtraUkReliefV2 from "./poiExtraUkReliefV2";
 import * as _src_poiExtraUkV1 from "./poiExtraUkV1";
@@ -3257,6 +3258,7 @@ const _raw: any[] = [
   ...((_src_poiExtraUkHistoryV2 as any).ukHistoryV2 as any[]),
   ...((_src_poiExtraUkLandmarksV2 as any).ukLandmarksV2 as any[]),
   ...((_src_poiExtraUkLifeV2 as any).ukLifeV2 as any[]),
+  ...((_src_poiExtraUkMissingV1 as any).poiExtraUkMissingV1 as any[]),
   ...((_src_poiExtraUkNatureV2 as any).ukNatureV2 as any[]),
   ...((_src_poiExtraUkReliefV2 as any).ukReliefV2 as any[]),
   ...((_src_poiExtraUkV1 as any).poiExtraUkV1 as any[]),

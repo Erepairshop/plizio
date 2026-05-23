@@ -3270,7 +3270,15 @@ export const franceCities: POI[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Le Dragon de Calais", "text": "Ein monumentales mechanisches Ungeheuer aus Stahl und Holz, das Besucher an der Strandpromenade von Calais spazieren führt.", "category": "recreational", "confidence": "high" },
+            { "name": "Musée des Beaux-Arts", "text": "Das Museum präsentiert eine reiche Sammlung von Gemälden und Skulpturen vom 16. bis zum 21. Jahrhundert, darunter Werke von Rodin.", "category": "museum", "confidence": "high" },
+            { "name": "Théâtre de Calais", "text": "Ein prächtiges Gebäude im italienischen Stil aus dem frühen 20. Jahrhundert, das ein vielfältiges Programm an Opern und Theaterstücken bietet.", "category": "cultural", "confidence": "high" },
+            { "name": "Monument du Pluviôse", "text": "Ein Denkmal zur Erinnerung an das U-Boot Pluviôse, das 1910 vor der Küste von Calais nach einer Kollision sank.", "category": "historical", "confidence": "high" },
+            { "name": "Gare de Calais-Ville", "text": "Der historische Bahnhof der Stadt, bekannt für seine klassische Architektur und seine Bedeutung als Verkehrsknotenpunkt zum Ärmelkanal.", "category": "station", "confidence": "high" },
+            { "name": "Parc Saint-Pierre", "text": "Eine weitläufige Grünanlage gegenüber dem Rathaus, ideal für Spaziergänge und Entspannung im Herzen der Stadt.", "category": "recreational", "confidence": "high" },
+            { "name": "Colonne Louis XVIII", "text": "Diese Säule im Hafen erinnert an die Rückkehr des Königs Louis XVIII. nach Frankreich im Jahr 1814 nach seinem Exil.", "category": "historical", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Beffroi de l'Hôtel de Ville",
@@ -3332,7 +3340,15 @@ export const franceCities: POI[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Calais sárkánya", "text": "Egy monumentális mechanikus acélszörny, amely a tengerparti sétányon szállítja az utasokat egy egyedülálló interaktív élmény keretében.", "category": "recreational", "confidence": "high" },
+            { "name": "Szépművészeti Múzeum", "text": "A múzeum gazdag festmény- és szoborgyűjteményt mutat be a 16. századtól napjainkig, kiemelt figyelmet fordítva Rodin alkotásaira.", "category": "museum", "confidence": "high" },
+            { "name": "Calais-i Színház", "text": "Kora 20. századi, olasz stílusú épület, amely a város kulturális életének központja operákkal és drámai előadásokkal.", "category": "cultural", "confidence": "high" },
+            { "name": "Pluviôse emlékmű", "text": "Az 1910-ben egy ütközés után elsüllyedt Pluviôse tengeralattjáró áldozatainak tiszteletére állított történelmi emlékmű.", "category": "historical", "confidence": "high" },
+            { "name": "Calais-Ville vasútállomás", "text": "Klasszikus építészetű vasúti csomópont, amely évtizedek óta köti össze a várost Párizzsal és a Csatorna-alagút térségével.", "category": "station", "confidence": "high" },
+            { "name": "Szent Péter park", "text": "A városházával szemben elhelyezkedő tágas park virágágyásokkal és sétányokkal, a helyiek kedvelt pihenőhelye.", "category": "recreational", "confidence": "high" },
+            { "name": "XVIII. Lajos oszlopa", "text": "A kikötőben található emlékoszlop, amely XVIII. Lajos király 1814-es száműzetésből való hazatérését örökíti meg.", "category": "historical", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Beffroi de l'Hôtel de Ville",
@@ -3394,7 +3410,15 @@ export const franceCities: POI[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Dragonul din Calais", "text": "O creatură mecanică gigantică din oțel și lemn care se plimbă pe faleza orașului, oferind o experiență turistică inedită.", "category": "recreational", "confidence": "high" },
+            { "name": "Muzeul de Arte Frumoase", "text": "Găzduiește o colecție impresionantă de picturi și sculpturi, incluzând schițe și lucrări originale ale celebrului Auguste Rodin.", "category": "museum", "confidence": "high" },
+            { "name": "Teatrul din Calais", "text": "O clădire magnifică în stil italian inaugurată în 1905, inima culturală a orașului pentru spectacole de operă și balet.", "category": "cultural", "confidence": "high" },
+            { "name": "Monumentul Pluviôse", "text": "Un monument ridicat în memoria echipajului submarinului Pluviôse, care s-a scufundat în fața portului în 1910.", "category": "historical", "confidence": "high" },
+            { "name": "Gara Calais-Ville", "text": "O gară istorică cu o arhitectură elegantă, servind drept punct principal de acces feroviar către centrul orașului.", "category": "station", "confidence": "high" },
+            { "name": "Parcul Saint-Pierre", "text": "Un spațiu verde generos situat în fața primăriei, decorat cu grădini îngrijite și fântâni arteziene relaxante.", "category": "recreational", "confidence": "high" },
+            { "name": "Coloana Ludovic al XVIII-lea", "text": "O coloană comemorativă situată în zona portuară, marcând revenirea regelui în Franța după exilul său din 1814.", "category": "historical", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Beffroi de l'Hôtel de Ville",
@@ -3456,7 +3480,15 @@ export const franceCities: POI[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "The Dragon of Calais", "text": "A monumental mechanical creature made of steel and wood that carries passengers along the Calais seafront in a unique show.", "category": "recreational", "confidence": "high" },
+            { "name": "Fine Arts Museum", "text": "The museum displays a rich collection of paintings and sculptures from the 16th to the 21st century, including works by Rodin.", "category": "museum", "confidence": "high" },
+            { "name": "Calais Theater", "text": "A beautiful early 20th-century Italian-style theater building that serves as the main venue for performing arts in the city.", "category": "cultural", "confidence": "high" },
+            { "name": "Pluviôse Monument", "text": "A historical memorial dedicated to the crew of the submarine Pluviôse, which sank off Calais in 1910 after a collision.", "category": "historical", "confidence": "high" },
+            { "name": "Calais-Ville Station", "text": "The city's central railway station, noted for its classical architecture and its long history as a gateway to the Channel.", "category": "station", "confidence": "high" },
+            { "name": "Saint-Pierre Park", "text": "A large public park located directly opposite the City Hall, offering beautiful flowerbeds and peaceful walking paths.", "category": "recreational", "confidence": "high" },
+            { "name": "Louis XVIII Column", "text": "Located at the harbor, this monument commemorates the 1814 return of King Louis XVIII to France following his exile.", "category": "historical", "confidence": "high" }
+        ]
 }
   },
   {
@@ -3548,7 +3580,16 @@ export const franceCities: POI[] = [
                   "category": "cultural",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Cryptoportique de Reims", "text": "Ein römisches Bauwerk unter dem Forum von Reims, das im 3. Jahrhundert erbaut wurde und die antike Geschichte der Stadt zeigt.", "category": "historical", "confidence": "high" },
+            { "name": "Fontaine Subé", "text": "Ein monumentaler Brunnen am Place Drouet-d'Erlon, gekrönt von einer goldenen Statue des Sieges und ein Symbol der Stadt.", "category": "historical", "confidence": "high" },
+            { "name": "Musée des Beaux-Arts de Reims", "text": "Das Museum beherbergt eine bedeutende Sammlung von Gemälden und Skulpturen vom 15. bis zum 21. Jahrhundert in einem alten Abteigebäude.", "category": "museum", "confidence": "high" },
+            { "name": "Parc de Champagne", "text": "Ein weitläufiger öffentlicher Park, der ursprünglich von der Familie Pommery angelegt wurde und heute ein Ort der Erholung ist.", "category": "recreational", "confidence": "high" },
+            { "name": "Hôtel de Ville de Reims", "text": "Ein prächtiges Gebäude im Stil Ludwigs XIII., das seit dem 17. Jahrhundert als Rathaus dient und eine beeindruckende Fassade besitzt.", "category": "civic", "confidence": "high" },
+            { "name": "Basilique Sainte-Clotilde", "text": "Eine neobyzantinische Basilika, die zu Ehren der heiligen Chlothilde im 19. Jahrhundert erbaut wurde und durch ihre Kuppeln auffällt.", "category": "religious", "confidence": "high" },
+            { "name": "Planétarium de Reims", "text": "Ein modernes Astronomiezentrum, das faszinierende Shows über das Universum und die Sterne für Besucher jeden Alters bietet.", "category": "museum", "confidence": "high" },
+            { "name": "Gare de Reims", "text": "Das historische Bahnhofsgebäude wurde im 19. Jahrhundert errichtet und ist ein wichtiger Verkehrsknotenpunkt mit eleganter Architektur.", "category": "station", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Cathédrale Notre-Dame",
@@ -3610,7 +3651,16 @@ export const franceCities: POI[] = [
                   "category": "cultural",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Cryptoportique de Reims", "text": "Egy 3. századi római kori építmény a reims-i fórum alatt, amely a város ókori múltját és építészeti örökségét őrzi.", "category": "historical", "confidence": "high" },
+            { "name": "Fontaine Subé", "text": "A Place Drouet-d'Erlon téren álló monumentális szökőkút, tetején a győzelem aranyozott szobrával, a város egyik jelképe.", "category": "historical", "confidence": "high" },
+            { "name": "Musée des Beaux-Arts de Reims", "text": "A múzeum jelentős festmény- és szoborgyűjteménynek ad otthont a 15. századtól egészen a 21. századig egy egykori apátságban.", "category": "museum", "confidence": "high" },
+            { "name": "Parc de Champagne", "text": "Egy tágas nyilvános park, amelyet eredetileg a Pommery család hozott létre a pihenés és a szabadtéri kikapcsolódás érdekében.", "category": "recreational", "confidence": "high" },
+            { "name": "Hôtel de Ville de Reims", "text": "Egy pompás XIII. Lajos stílusú épület, amely a 17. század óta a város városházaként szolgál és lenyűgöző homlokzattal bír.", "category": "civic", "confidence": "high" },
+            { "name": "Basilique Sainte-Clotilde", "text": "Egy neobizánci stílusú bazilika, amelyet Szent Klotild tiszteletére építettek a 19. század végén, jellegzetes kupolákkal.", "category": "religious", "confidence": "high" },
+            { "name": "Planétarium de Reims", "text": "Egy modern csillagászati központ, amely lenyűgöző műsorokat kínál az univerzumról és a csillagokról minden korosztály számára.", "category": "museum", "confidence": "high" },
+            { "name": "Gare de Reims", "text": "A 19. században épült történelmi vasútállomás a város fontos közlekedési csomópontja, elegáns építészeti megoldásokkal.", "category": "station", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Cathédrale Notre-Dame",
@@ -3672,7 +3722,16 @@ export const franceCities: POI[] = [
                   "category": "cultural",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Cryptoportique de Reims", "text": "O structură romană situată sub forul din Reims, datând din secolul al III-lea și prezentând istoria antică a orașului.", "category": "historical", "confidence": "high" },
+            { "name": "Fontaine Subé", "text": "O fântână monumentală situată în Place Drouet-d'Erlon, încununată de o statuie de aur a Victoriei și un simbol local.", "category": "historical", "confidence": "high" },
+            { "name": "Musée des Beaux-Arts de Reims", "text": "Muzeul găzduiește o colecție importantă de picturi și sculpturi din secolul al XV-lea până în secolul al XXI-lea.", "category": "museum", "confidence": "high" },
+            { "name": "Parc de Champagne", "text": "Un parc public vast, creat inițial de familia Pommery pentru recreere și plimbări în aer liber în inima orașului.", "category": "recreational", "confidence": "high" },
+            { "name": "Hôtel de Ville de Reims", "text": "O clădire magnifică în stil Ludovic al XIII-lea, care servește drept primărie din secolul al XVII-lea și are o fațadă superbă.", "category": "civic", "confidence": "high" },
+            { "name": "Basilique Sainte-Clotilde", "text": "O bazilică neobizantină construită în onoarea Sfintei Clotilda la sfârșitul secolului al XIX-lea, remarcabilă prin cupolele sale.", "category": "religious", "confidence": "high" },
+            { "name": "Planétarium de Reims", "text": "Un centru modern de astronomie care oferă spectacole fascinante despre univers și stele pentru vizitatori de toate vârstele.", "category": "museum", "confidence": "high" },
+            { "name": "Gare de Reims", "text": "Gara istorică construită în secolul al XIX-lea, un punct important de transport în regiune cu o arhitectură elegantă.", "category": "station", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Cathédrale Notre-Dame",
@@ -3734,7 +3793,16 @@ export const franceCities: POI[] = [
                   "category": "cultural",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Cryptoportique de Reims", "text": "A Roman structure located under the forum of Reims, dating back to the 3rd century and showcasing the city's ancient history.", "category": "historical", "confidence": "high" },
+            { "name": "Fontaine Subé", "text": "A monumental fountain located in Place Drouet-d'Erlon, topped by a golden statue of Victory and a key city symbol.", "category": "historical", "confidence": "high" },
+            { "name": "Musée des Beaux-Arts de Reims", "text": "The museum houses a significant collection of paintings and sculptures from the 15th to the 21st century in an old abbey.", "category": "museum", "confidence": "high" },
+            { "name": "Parc de Champagne", "text": "A vast public park, originally created by the Pommery family for recreation and outdoor walks in the city center.", "category": "recreational", "confidence": "high" },
+            { "name": "Hôtel de Ville de Reims", "text": "A magnificent Louis XIII-style building that has served as the town hall since the 17th century with an impressive facade.", "category": "civic", "confidence": "high" },
+            { "name": "Basilique Sainte-Clotilde", "text": "A Neo-Byzantine basilica built in honor of Saint Clotilda at the end of the 19th century, known for its distinctive domes.", "category": "religious", "confidence": "high" },
+            { "name": "Planétarium de Reims", "text": "A modern astronomy center offering fascinating shows about the universe and the stars for visitors of all ages.", "category": "museum", "confidence": "high" },
+            { "name": "Gare de Reims", "text": "The historic railway station built in the 19th century, a major transport hub in the region with elegant architecture.", "category": "station", "confidence": "high" }
+        ]
 }
   },
   {
