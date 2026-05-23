@@ -2,74 +2,107 @@
 // Re-run that script whenever a POI data file is added or removed.
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 
+import * as _src_albaniaPoi_lite from "./albaniaPoi.lite";
 import * as _src_albaniaPoi from "./albaniaPoi";
 import * as _src_algeriaAllPoi from "./algeriaAllPoi";
 import * as _src_algeriaPoi from "./algeriaPoi";
 import * as _src_allCountryPois from "./allCountryPois";
+import * as _src_andorraPoi_lite from "./andorraPoi.lite";
 import * as _src_andorraPoi from "./andorraPoi";
 import * as _src_angolaAllPoi from "./angolaAllPoi";
+import * as _src_austriaPoi_lite from "./austriaPoi.lite";
 import * as _src_austriaPoi from "./austriaPoi";
+import * as _src_bahamasPoi_lite from "./bahamasPoi.lite";
 import * as _src_bahamasPoi from "./bahamasPoi";
+import * as _src_belarusPoi_lite from "./belarusPoi.lite";
 import * as _src_belarusPoi from "./belarusPoi";
+import * as _src_belgiumPoi_lite from "./belgiumPoi.lite";
 import * as _src_belgiumPoi from "./belgiumPoi";
+import * as _src_belizePoi_lite from "./belizePoi.lite";
 import * as _src_belizePoi from "./belizePoi";
 import * as _src_beninAllPoi from "./beninAllPoi";
+import * as _src_bosniaPoi_lite from "./bosniaPoi.lite";
 import * as _src_bosniaPoi from "./bosniaPoi";
 import * as _src_botswanaAllPoi from "./botswanaAllPoi";
+import * as _src_bulgariaPoi_lite from "./bulgariaPoi.lite";
 import * as _src_bulgariaPoi from "./bulgariaPoi";
 import * as _src_burkinafasoAllPoi from "./burkinafasoAllPoi";
 import * as _src_burundiAllPoi from "./burundiAllPoi";
 import * as _src_cameroonAllPoi from "./cameroonAllPoi";
 import * as _src_canadaAllPoi from "./canadaAllPoi";
+import * as _src_canadaPoi_lite from "./canadaPoi.lite";
 import * as _src_canadaPoi from "./canadaPoi";
 import * as _src_capeverdeAllPoi from "./capeverdeAllPoi";
 import * as _src_centralafricanrepublicAllPoi from "./centralafricanrepublicAllPoi";
 import * as _src_chadAllPoi from "./chadAllPoi";
 import * as _src_comorosAllPoi from "./comorosAllPoi";
 import * as _src_congoAllPoi from "./congoAllPoi";
+import * as _src_costaricaPoi_lite from "./costaricaPoi.lite";
 import * as _src_costaricaPoi from "./costaricaPoi";
+import * as _src_croatiaPoi_lite from "./croatiaPoi.lite";
 import * as _src_croatiaPoi from "./croatiaPoi";
+import * as _src_cubaPoi_lite from "./cubaPoi.lite";
 import * as _src_cubaPoi from "./cubaPoi";
+import * as _src_cyprusPoi_lite from "./cyprusPoi.lite";
 import * as _src_cyprusPoi from "./cyprusPoi";
 import * as _src_czechRepublicPoi from "./czechRepublicPoi";
+import * as _src_denmarkPoi_lite from "./denmarkPoi.lite";
 import * as _src_denmarkPoi from "./denmarkPoi";
 import * as _src_djiboutiAllPoi from "./djiboutiAllPoi";
+import * as _src_dominicanrepublicPoi_lite from "./dominicanrepublicPoi.lite";
 import * as _src_dominicanrepublicPoi from "./dominicanrepublicPoi";
 import * as _src_drcongoAllPoi from "./drcongoAllPoi";
 import * as _src_egyptAllPoi from "./egyptAllPoi";
+import * as _src_elsalvadorPoi_lite from "./elsalvadorPoi.lite";
 import * as _src_elsalvadorPoi from "./elsalvadorPoi";
 import * as _src_equatorialguineaAllPoi from "./equatorialguineaAllPoi";
 import * as _src_eritreaAllPoi from "./eritreaAllPoi";
+import * as _src_estoniaPoi_lite from "./estoniaPoi.lite";
 import * as _src_estoniaPoi from "./estoniaPoi";
 import * as _src_eswatiniAllPoi from "./eswatiniAllPoi";
 import * as _src_ethiopiaAllPoi from "./ethiopiaAllPoi";
+import * as _src_finlandPoi_lite from "./finlandPoi.lite";
 import * as _src_finlandPoi from "./finlandPoi";
+import * as _src_francePoi_lite from "./francePoi.lite";
 import * as _src_francePoi from "./francePoi";
 import * as _src_gabonAllPoi from "./gabonAllPoi";
 import * as _src_gambiaAllPoi from "./gambiaAllPoi";
 import * as _src_ghanaAllPoi from "./ghanaAllPoi";
+import * as _src_greecePoi_lite from "./greecePoi.lite";
 import * as _src_greecePoi from "./greecePoi";
+import * as _src_guatemalaPoi_lite from "./guatemalaPoi.lite";
 import * as _src_guatemalaPoi from "./guatemalaPoi";
 import * as _src_guineaAllPoi from "./guineaAllPoi";
 import * as _src_guineabissauAllPoi from "./guineabissauAllPoi";
+import * as _src_haitiPoi_lite from "./haitiPoi.lite";
 import * as _src_haitiPoi from "./haitiPoi";
+import * as _src_hondurasPoi_lite from "./hondurasPoi.lite";
 import * as _src_hondurasPoi from "./hondurasPoi";
+import * as _src_hungaryPoi_lite from "./hungaryPoi.lite";
 import * as _src_hungaryPoi from "./hungaryPoi";
+import * as _src_irelandPoi_lite from "./irelandPoi.lite";
 import * as _src_irelandPoi from "./irelandPoi";
+import * as _src_italyPoi_lite from "./italyPoi.lite";
 import * as _src_italyPoi from "./italyPoi";
 import * as _src_ivorycoastAllPoi from "./ivorycoastAllPoi";
+import * as _src_jamaicaPoi_lite from "./jamaicaPoi.lite";
 import * as _src_jamaicaPoi from "./jamaicaPoi";
 import * as _src_japanPoi from "./japanPoi";
 import * as _src_kenyaAllPoi from "./kenyaAllPoi";
+import * as _src_kosovoPoi_lite from "./kosovoPoi.lite";
 import * as _src_kosovoPoi from "./kosovoPoi";
+import * as _src_latviaPoi_lite from "./latviaPoi.lite";
 import * as _src_latviaPoi from "./latviaPoi";
 import * as _src_latviaPoi_new from "./latviaPoi_new";
 import * as _src_layers from "./layers";
 import * as _src_lesothoAllPoi from "./lesothoAllPoi";
 import * as _src_liberiaAllPoi from "./liberiaAllPoi";
 import * as _src_libyaAllPoi from "./libyaAllPoi";
+import * as _src_liechtensteinPoi_lite from "./liechtensteinPoi.lite";
 import * as _src_liechtensteinPoi from "./liechtensteinPoi";
+import * as _src_lithuaniaPoi_lite from "./lithuaniaPoi.lite";
 import * as _src_lithuaniaPoi from "./lithuaniaPoi";
+import * as _src_luxembourgPoi_lite from "./luxembourgPoi.lite";
 import * as _src_luxembourgPoi from "./luxembourgPoi";
 import * as _src_madagascarAllPoi from "./madagascarAllPoi";
 import * as _src_malawiAllPoi from "./malawiAllPoi";
@@ -77,18 +110,25 @@ import * as _src_maliAllPoi from "./maliAllPoi";
 import * as _src_maltaPoi from "./maltaPoi";
 import * as _src_mauritaniaAllPoi from "./mauritaniaAllPoi";
 import * as _src_mauritiusAllPoi from "./mauritiusAllPoi";
+import * as _src_mexicoPoi_lite from "./mexicoPoi.lite";
 import * as _src_mexicoPoi from "./mexicoPoi";
 import * as _src_moldovaExtraFiles from "./moldovaExtraFiles";
+import * as _src_moldovaPoi_lite from "./moldovaPoi.lite";
 import * as _src_moldovaPoi from "./moldovaPoi";
+import * as _src_monacoPoi_lite from "./monacoPoi.lite";
 import * as _src_monacoPoi from "./monacoPoi";
+import * as _src_montenegroPoi_lite from "./montenegroPoi.lite";
 import * as _src_montenegroPoi from "./montenegroPoi";
 import * as _src_moroccoAllPoi from "./moroccoAllPoi";
 import * as _src_mozambiqueAllPoi from "./mozambiqueAllPoi";
 import * as _src_namibiaAllPoi from "./namibiaAllPoi";
+import * as _src_netherlandsPoi_lite from "./netherlandsPoi.lite";
 import * as _src_netherlandsPoi from "./netherlandsPoi";
+import * as _src_nicaraguaPoi_lite from "./nicaraguaPoi.lite";
 import * as _src_nicaraguaPoi from "./nicaraguaPoi";
 import * as _src_nigerAllPoi from "./nigerAllPoi";
 import * as _src_nigeriaAllPoi from "./nigeriaAllPoi";
+import * as _src_northmacedoniaPoi_lite from "./northmacedoniaPoi.lite";
 import * as _src_northmacedoniaPoi from "./northmacedoniaPoi";
 import * as _src_northmacedoniaPois_part1 from "./northmacedoniaPois_part1";
 import * as _src_northmacedoniaPois_part2 from "./northmacedoniaPois_part2";
@@ -99,7 +139,9 @@ import * as _src_northmacedoniaPois_part6 from "./northmacedoniaPois_part6";
 import * as _src_northmacedoniaPois_part7 from "./northmacedoniaPois_part7";
 import * as _src_northmacedoniaPois_part8 from "./northmacedoniaPois_part8";
 import * as _src_northmacedoniaPois_part9 from "./northmacedoniaPois_part9";
+import * as _src_norwayPoi_lite from "./norwayPoi.lite";
 import * as _src_norwayPoi from "./norwayPoi";
+import * as _src_panamaPoi_lite from "./panamaPoi.lite";
 import * as _src_panamaPoi from "./panamaPoi";
 import * as _src_poiExtraAfghanistanCitiesV2 from "./poiExtraAfghanistanCitiesV2";
 import * as _src_poiExtraAfghanistanEconomicV2 from "./poiExtraAfghanistanEconomicV2";
@@ -122,6 +164,7 @@ import * as _src_poiExtraAlgeriaLandmarksV2 from "./poiExtraAlgeriaLandmarksV2";
 import * as _src_poiExtraAlgeriaLifeV2 from "./poiExtraAlgeriaLifeV2";
 import * as _src_poiExtraAlgeriaNatureV2 from "./poiExtraAlgeriaNatureV2";
 import * as _src_poiExtraAlgeriaReliefV2 from "./poiExtraAlgeriaReliefV2";
+import * as _src_poiExtraAndorraCities_lite from "./poiExtraAndorraCities.lite";
 import * as _src_poiExtraAndorraCities from "./poiExtraAndorraCities";
 import * as _src_poiExtraAndorraEconomicV2 from "./poiExtraAndorraEconomicV2";
 import * as _src_poiExtraAndorraHistoryV2 from "./poiExtraAndorraHistoryV2";
@@ -153,12 +196,16 @@ import * as _src_poiExtraArmeniaReliefV2 from "./poiExtraArmeniaReliefV2";
 import * as _src_poiExtraAustriaCities from "./poiExtraAustriaCities";
 import * as _src_poiExtraAustriaCitiesV2 from "./poiExtraAustriaCitiesV2";
 import * as _src_poiExtraAustriaEconomicV2 from "./poiExtraAustriaEconomicV2";
+import * as _src_poiExtraAustriaHistorical_lite from "./poiExtraAustriaHistorical.lite";
 import * as _src_poiExtraAustriaHistorical from "./poiExtraAustriaHistorical";
 import * as _src_poiExtraAustriaHistoryV2 from "./poiExtraAustriaHistoryV2";
+import * as _src_poiExtraAustriaIndustry_lite from "./poiExtraAustriaIndustry.lite";
 import * as _src_poiExtraAustriaIndustry from "./poiExtraAustriaIndustry";
 import * as _src_poiExtraAustriaLandmarksV2 from "./poiExtraAustriaLandmarksV2";
+import * as _src_poiExtraAustriaLife_lite from "./poiExtraAustriaLife.lite";
 import * as _src_poiExtraAustriaLife from "./poiExtraAustriaLife";
 import * as _src_poiExtraAustriaLifeV2 from "./poiExtraAustriaLifeV2";
+import * as _src_poiExtraAustriaNature_lite from "./poiExtraAustriaNature.lite";
 import * as _src_poiExtraAustriaNature from "./poiExtraAustriaNature";
 import * as _src_poiExtraAustriaNatureV2 from "./poiExtraAustriaNatureV2";
 import * as _src_poiExtraAustriaReliefV2 from "./poiExtraAustriaReliefV2";
@@ -405,6 +452,7 @@ import * as _src_poiExtraCyprusLandmarksV2 from "./poiExtraCyprusLandmarksV2";
 import * as _src_poiExtraCyprusNatureV2 from "./poiExtraCyprusNatureV2";
 import * as _src_poiExtraCyprusOther from "./poiExtraCyprusOther";
 import * as _src_poiExtraCyprusReliefV2 from "./poiExtraCyprusReliefV2";
+import * as _src_poiExtraCzechRepublicCities_lite from "./poiExtraCzechRepublicCities.lite";
 import * as _src_poiExtraCzechRepublicCities from "./poiExtraCzechRepublicCities";
 import * as _src_poiExtraCzechrepublicCitiesV2 from "./poiExtraCzechrepublicCitiesV2";
 import * as _src_poiExtraCzechrepublicEconomicV2 from "./poiExtraCzechrepublicEconomicV2";
@@ -514,6 +562,7 @@ import * as _src_poiExtraFinlandLifeV2 from "./poiExtraFinlandLifeV2";
 import * as _src_poiExtraFinlandNatureV2 from "./poiExtraFinlandNatureV2";
 import * as _src_poiExtraFinlandReliefV2 from "./poiExtraFinlandReliefV2";
 import * as _src_poiExtraFrV1 from "./poiExtraFrV1";
+import * as _src_poiExtraFranceCities_lite from "./poiExtraFranceCities.lite";
 import * as _src_poiExtraFranceCities from "./poiExtraFranceCities";
 import * as _src_poiExtraFranceCitiesV2 from "./poiExtraFranceCitiesV2";
 import * as _src_poiExtraFranceEconomicV2 from "./poiExtraFranceEconomicV2";
@@ -567,6 +616,7 @@ import * as _src_poiExtraGhanaLandmarksV2 from "./poiExtraGhanaLandmarksV2";
 import * as _src_poiExtraGhanaLifeV2 from "./poiExtraGhanaLifeV2";
 import * as _src_poiExtraGhanaNatureV2 from "./poiExtraGhanaNatureV2";
 import * as _src_poiExtraGhanaReliefV2 from "./poiExtraGhanaReliefV2";
+import * as _src_poiExtraGreeceCities_lite from "./poiExtraGreeceCities.lite";
 import * as _src_poiExtraGreeceCities from "./poiExtraGreeceCities";
 import * as _src_poiExtraGreeceCitiesV2 from "./poiExtraGreeceCitiesV2";
 import * as _src_poiExtraGreeceEconomicV2 from "./poiExtraGreeceEconomicV2";
@@ -631,14 +681,18 @@ import * as _src_poiExtraHongkongLandmarksV2 from "./poiExtraHongkongLandmarksV2
 import * as _src_poiExtraHongkongLifeV2 from "./poiExtraHongkongLifeV2";
 import * as _src_poiExtraHongkongNatureV2 from "./poiExtraHongkongNatureV2";
 import * as _src_poiExtraHongkongReliefV2 from "./poiExtraHongkongReliefV2";
+import * as _src_poiExtraHu1_lite from "./poiExtraHu1.lite";
 import * as _src_poiExtraHu1 from "./poiExtraHu1";
+import * as _src_poiExtraHu2_lite from "./poiExtraHu2.lite";
 import * as _src_poiExtraHu2 from "./poiExtraHu2";
+import * as _src_poiExtraHu3_lite from "./poiExtraHu3.lite";
 import * as _src_poiExtraHu3 from "./poiExtraHu3";
 import * as _src_poiExtraHuV4 from "./poiExtraHuV4";
 import * as _src_poiExtraHungaryCitiesV3 from "./poiExtraHungaryCitiesV3";
 import * as _src_poiExtraHungaryEconomicV2 from "./poiExtraHungaryEconomicV2";
 import * as _src_poiExtraHungaryLifeV2 from "./poiExtraHungaryLifeV2";
 import * as _src_poiExtraHungaryReliefV2 from "./poiExtraHungaryReliefV2";
+import * as _src_poiExtraIcelandCities_lite from "./poiExtraIcelandCities.lite";
 import * as _src_poiExtraIcelandCities from "./poiExtraIcelandCities";
 import * as _src_poiExtraIcelandCitiesV2 from "./poiExtraIcelandCitiesV2";
 import * as _src_poiExtraIcelandEconomicV2 from "./poiExtraIcelandEconomicV2";
@@ -677,6 +731,7 @@ import * as _src_poiExtraIraqLifeV2 from "./poiExtraIraqLifeV2";
 import * as _src_poiExtraIraqNatureV2 from "./poiExtraIraqNatureV2";
 import * as _src_poiExtraIraqReliefV2 from "./poiExtraIraqReliefV2";
 import * as _src_poiExtraIrelandAnimal from "./poiExtraIrelandAnimal";
+import * as _src_poiExtraIrelandCities_lite from "./poiExtraIrelandCities.lite";
 import * as _src_poiExtraIrelandCities from "./poiExtraIrelandCities";
 import * as _src_poiExtraIrelandCitiesV2 from "./poiExtraIrelandCitiesV2";
 import * as _src_poiExtraIrelandEconomicV2 from "./poiExtraIrelandEconomicV2";
@@ -808,7 +863,9 @@ import * as _src_poiExtraLibyaLandmarksV2 from "./poiExtraLibyaLandmarksV2";
 import * as _src_poiExtraLibyaLifeV2 from "./poiExtraLibyaLifeV2";
 import * as _src_poiExtraLibyaNatureV2 from "./poiExtraLibyaNatureV2";
 import * as _src_poiExtraLibyaReliefV2 from "./poiExtraLibyaReliefV2";
+import * as _src_poiExtraLiechtensteinCities_lite from "./poiExtraLiechtensteinCities.lite";
 import * as _src_poiExtraLiechtensteinCities from "./poiExtraLiechtensteinCities";
+import * as _src_poiExtraLiechtensteinHistory_lite from "./poiExtraLiechtensteinHistory.lite";
 import * as _src_poiExtraLiechtensteinHistory from "./poiExtraLiechtensteinHistory";
 import * as _src_poiExtraLiechtensteinOther from "./poiExtraLiechtensteinOther";
 import * as _src_poiExtraLiechtensteinReliefV2 from "./poiExtraLiechtensteinReliefV2";
@@ -863,6 +920,7 @@ import * as _src_poiExtraMaliLandmarksV2 from "./poiExtraMaliLandmarksV2";
 import * as _src_poiExtraMaliLifeV2 from "./poiExtraMaliLifeV2";
 import * as _src_poiExtraMaliNatureV2 from "./poiExtraMaliNatureV2";
 import * as _src_poiExtraMaliReliefV2 from "./poiExtraMaliReliefV2";
+import * as _src_poiExtraMaltaCities_lite from "./poiExtraMaltaCities.lite";
 import * as _src_poiExtraMaltaCities from "./poiExtraMaltaCities";
 import * as _src_poiExtraMaltaNatureV2 from "./poiExtraMaltaNatureV2";
 import * as _src_poiExtraMaltaOther from "./poiExtraMaltaOther";
@@ -973,6 +1031,7 @@ import * as _src_poiExtraNepalLandmarksV2 from "./poiExtraNepalLandmarksV2";
 import * as _src_poiExtraNepalLifeV2 from "./poiExtraNepalLifeV2";
 import * as _src_poiExtraNepalNatureV2 from "./poiExtraNepalNatureV2";
 import * as _src_poiExtraNepalReliefV2 from "./poiExtraNepalReliefV2";
+import * as _src_poiExtraNetherlandsCities_lite from "./poiExtraNetherlandsCities.lite";
 import * as _src_poiExtraNetherlandsCities from "./poiExtraNetherlandsCities";
 import * as _src_poiExtraNetherlandsCitiesV2 from "./poiExtraNetherlandsCitiesV2";
 import * as _src_poiExtraNetherlandsEconomicV2 from "./poiExtraNetherlandsEconomicV2";
@@ -1084,6 +1143,7 @@ import * as _src_poiExtraPhilippinesLandmarksV2 from "./poiExtraPhilippinesLandm
 import * as _src_poiExtraPhilippinesLifeV2 from "./poiExtraPhilippinesLifeV2";
 import * as _src_poiExtraPhilippinesNatureV2 from "./poiExtraPhilippinesNatureV2";
 import * as _src_poiExtraPhilippinesReliefV2 from "./poiExtraPhilippinesReliefV2";
+import * as _src_poiExtraPolandCities_lite from "./poiExtraPolandCities.lite";
 import * as _src_poiExtraPolandCities from "./poiExtraPolandCities";
 import * as _src_poiExtraPolandCitiesV2 from "./poiExtraPolandCitiesV2";
 import * as _src_poiExtraPolandEconomicV2 from "./poiExtraPolandEconomicV2";
@@ -1095,10 +1155,12 @@ import * as _src_poiExtraPolandReliefV2 from "./poiExtraPolandReliefV2";
 import * as _src_poiExtraPortugalCities from "./poiExtraPortugalCities";
 import * as _src_poiExtraPortugalCitiesV2 from "./poiExtraPortugalCitiesV2";
 import * as _src_poiExtraPortugalEconomicV2 from "./poiExtraPortugalEconomicV2";
+import * as _src_poiExtraPortugalHistorical_lite from "./poiExtraPortugalHistorical.lite";
 import * as _src_poiExtraPortugalHistorical from "./poiExtraPortugalHistorical";
 import * as _src_poiExtraPortugalHistoryV2 from "./poiExtraPortugalHistoryV2";
 import * as _src_poiExtraPortugalLandmarksV2 from "./poiExtraPortugalLandmarksV2";
 import * as _src_poiExtraPortugalLifeV2 from "./poiExtraPortugalLifeV2";
+import * as _src_poiExtraPortugalNature_lite from "./poiExtraPortugalNature.lite";
 import * as _src_poiExtraPortugalNature from "./poiExtraPortugalNature";
 import * as _src_poiExtraPortugalNatureV2 from "./poiExtraPortugalNatureV2";
 import * as _src_poiExtraPortugalReliefV2 from "./poiExtraPortugalReliefV2";
@@ -1116,7 +1178,9 @@ import * as _src_poiExtraRepublicofcongoLandmarksV2 from "./poiExtraRepublicofco
 import * as _src_poiExtraRepublicofcongoLifeV2 from "./poiExtraRepublicofcongoLifeV2";
 import * as _src_poiExtraRepublicofcongoNatureV2 from "./poiExtraRepublicofcongoNatureV2";
 import * as _src_poiExtraRepublicofcongoReliefV2 from "./poiExtraRepublicofcongoReliefV2";
+import * as _src_poiExtraRo1_lite from "./poiExtraRo1.lite";
 import * as _src_poiExtraRo1 from "./poiExtraRo1";
+import * as _src_poiExtraRo2_lite from "./poiExtraRo2.lite";
 import * as _src_poiExtraRo2 from "./poiExtraRo2";
 import * as _src_poiExtraRoV1 from "./poiExtraRoV1";
 import * as _src_poiExtraRomaniaCitiesV2 from "./poiExtraRomaniaCitiesV2";
@@ -1160,6 +1224,7 @@ import * as _src_poiExtraSamoaLandmarksV2 from "./poiExtraSamoaLandmarksV2";
 import * as _src_poiExtraSamoaLifeV2 from "./poiExtraSamoaLifeV2";
 import * as _src_poiExtraSamoaNatureV2 from "./poiExtraSamoaNatureV2";
 import * as _src_poiExtraSamoaReliefV2 from "./poiExtraSamoaReliefV2";
+import * as _src_poiExtraSanmarinoCities_lite from "./poiExtraSanmarinoCities.lite";
 import * as _src_poiExtraSanmarinoCities from "./poiExtraSanmarinoCities";
 import * as _src_poiExtraSanmarinoCitiesV2 from "./poiExtraSanmarinoCitiesV2";
 import * as _src_poiExtraSanmarinoEconomicV2 from "./poiExtraSanmarinoEconomicV2";
@@ -1167,6 +1232,7 @@ import * as _src_poiExtraSanmarinoHistory from "./poiExtraSanmarinoHistory";
 import * as _src_poiExtraSanmarinoHistoryV2 from "./poiExtraSanmarinoHistoryV2";
 import * as _src_poiExtraSanmarinoLifeV2 from "./poiExtraSanmarinoLifeV2";
 import * as _src_poiExtraSanmarinoNatureV2 from "./poiExtraSanmarinoNatureV2";
+import * as _src_poiExtraSanmarinoOther_lite from "./poiExtraSanmarinoOther.lite";
 import * as _src_poiExtraSanmarinoOther from "./poiExtraSanmarinoOther";
 import * as _src_poiExtraSanmarinoReliefV2 from "./poiExtraSanmarinoReliefV2";
 import * as _src_poiExtraSaoTomeAndPrincipeCitiesV2 from "./poiExtraSaoTomeAndPrincipeCitiesV2";
@@ -1436,6 +1502,7 @@ import * as _src_poiExtraUkLandmarksV2 from "./poiExtraUkLandmarksV2";
 import * as _src_poiExtraUkLifeV2 from "./poiExtraUkLifeV2";
 import * as _src_poiExtraUkNatureV2 from "./poiExtraUkNatureV2";
 import * as _src_poiExtraUkReliefV2 from "./poiExtraUkReliefV2";
+import * as _src_poiExtraUkV1 from "./poiExtraUkV1";
 import * as _src_poiExtraUkraineCitiesV2 from "./poiExtraUkraineCitiesV2";
 import * as _src_poiExtraUkraineEconomicV2 from "./poiExtraUkraineEconomicV2";
 import * as _src_poiExtraUkraineHistoryV2 from "./poiExtraUkraineHistoryV2";
@@ -1519,13 +1586,18 @@ import * as _src_poiExtraZimbabweLandmarksV2 from "./poiExtraZimbabweLandmarksV2
 import * as _src_poiExtraZimbabweLifeV2 from "./poiExtraZimbabweLifeV2";
 import * as _src_poiExtraZimbabweNatureV2 from "./poiExtraZimbabweNatureV2";
 import * as _src_poiExtraZimbabweReliefV2 from "./poiExtraZimbabweReliefV2";
+import * as _src_polandPoi_lite from "./polandPoi.lite";
 import * as _src_polandPoi from "./polandPoi";
+import * as _src_portugalPoi_lite from "./portugalPoi.lite";
 import * as _src_portugalPoi from "./portugalPoi";
+import * as _src_romaniaPoi_lite from "./romaniaPoi.lite";
 import * as _src_romaniaPoi from "./romaniaPoi";
 import * as _src_rwandaAllPoi from "./rwandaAllPoi";
+import * as _src_sanmarinoPoi_lite from "./sanmarinoPoi.lite";
 import * as _src_sanmarinoPoi from "./sanmarinoPoi";
 import * as _src_saotomeAllPoi from "./saotomeAllPoi";
 import * as _src_senegalAllPoi from "./senegalAllPoi";
+import * as _src_serbiaPoi_lite from "./serbiaPoi.lite";
 import * as _src_serbiaPoi from "./serbiaPoi";
 import * as _src_seychellesAllPoi from "./seychellesAllPoi";
 import * as _src_sierraleoneAllPoi from "./sierraleoneAllPoi";
@@ -1533,25 +1605,34 @@ import * as _src_somaliaAllPoi from "./somaliaAllPoi";
 import * as _src_southafricaAllPoi from "./southafricaAllPoi";
 import * as _src_southsudanAllPoi from "./southsudanAllPoi";
 import * as _src_spainCitiesExtra from "./spainCitiesExtra";
+import * as _src_spainPoi_lite from "./spainPoi.lite";
 import * as _src_spainPoi from "./spainPoi";
 import * as _src_sudanAllPoi from "./sudanAllPoi";
+import * as _src_swedenPoi_lite from "./swedenPoi.lite";
 import * as _src_swedenPoi from "./swedenPoi";
+import * as _src_switzerlandPoi_lite from "./switzerlandPoi.lite";
 import * as _src_switzerlandPoi from "./switzerlandPoi";
 import * as _src_tanzaniaAllPoi from "./tanzaniaAllPoi";
 import * as _src_thailandPoi from "./thailandPoi";
 import * as _src_togoAllPoi from "./togoAllPoi";
+import * as _src_trinidadPoi_lite from "./trinidadPoi.lite";
 import * as _src_trinidadPoi from "./trinidadPoi";
 import * as _src_tunisiaAllPoi from "./tunisiaAllPoi";
 import * as _src_ugandaAllPoi from "./ugandaAllPoi";
+import * as _src_ukrainePoi_lite from "./ukrainePoi.lite";
 import * as _src_ukrainePoi from "./ukrainePoi";
+import * as _src_unitedkingdomPoi_lite from "./unitedkingdomPoi.lite";
 import * as _src_unitedkingdomPoi from "./unitedkingdomPoi";
+import * as _src_usaPoi_lite from "./usaPoi.lite";
 import * as _src_usaPoi from "./usaPoi";
+import * as _src_vaticanPoi_lite from "./vaticanPoi.lite";
 import * as _src_vaticanPoi from "./vaticanPoi";
 import * as _src_vietnamPoi from "./vietnamPoi";
 import * as _src_zambiaAllPoi from "./zambiaAllPoi";
 import * as _src_zimbabweAllPoi from "./zimbabweAllPoi";
 
 const _raw: any[] = [
+  ...((_src_albaniaPoi_lite as any).albaniaAllPoi as any[]),
   ...((_src_albaniaPoi as any).albaniaCities as any[]),
   ...((_src_albaniaPoi as any).albaniaHistorical as any[]),
   ...((_src_albaniaPoi as any).albaniaNature as any[]),
@@ -1560,34 +1641,42 @@ const _raw: any[] = [
   ...((_src_algeriaPoi as any).algeriaAllPoi as any[]),
   ...((_src_allCountryPois as any).ALL_COUNTRY_POIS as any[]),
   ...((_src_allCountryPois as any).ALL_DE_EXTRA_POIS as any[]),
+  ...((_src_andorraPoi_lite as any).andorraAllPoi as any[]),
   ...((_src_andorraPoi as any).andorraCities as any[]),
   ...((_src_andorraPoi as any).andorraLandmarks as any[]),
   ...((_src_andorraPoi as any).andorraNature as any[]),
   ...((_src_andorraPoi as any).andorraRegions as any[]),
   ...((_src_andorraPoi as any).andorraAllPoi as any[]),
   ...((_src_angolaAllPoi as any).angolaAllPoi as any[]),
+  ...((_src_austriaPoi_lite as any).austriaAllPoi as any[]),
   ...((_src_austriaPoi as any).austriaRegions as any[]),
   ...((_src_austriaPoi as any).austriaCities as any[]),
   ...((_src_austriaPoi as any).austriaAllPoi as any[]),
+  ...((_src_bahamasPoi_lite as any).bahamasAllPoi as any[]),
   ...((_src_bahamasPoi as any).bahamasCountry as any[]),
   ...((_src_bahamasPoi as any).bahamasRegions as any[]),
   ...((_src_bahamasPoi as any).bahamasCities as any[]),
   ...((_src_bahamasPoi as any).bahamasLandmarks as any[]),
   ...((_src_bahamasPoi as any).bahamasAllPoi as any[]),
+  ...((_src_belarusPoi_lite as any).belarusAllPoi as any[]),
   ...((_src_belarusPoi as any).belarusRegions as any[]),
   ...((_src_belarusPoi as any).belarusLocalPois as any[]),
   ...((_src_belarusPoi as any).belarusAllPoi as any[]),
+  ...((_src_belgiumPoi_lite as any).belgiumAllPoi as any[]),
   ...((_src_belgiumPoi as any).belgiumRegions as any[]),
   ...((_src_belgiumPoi as any).belgiumAllPoi as any[]),
+  ...((_src_belizePoi_lite as any).belizeAllPoi as any[]),
   ...((_src_belizePoi as any).belizeCountry as any[]),
   ...((_src_belizePoi as any).belizeRegions as any[]),
   ...((_src_belizePoi as any).belizeCities as any[]),
   ...((_src_belizePoi as any).belizeLandmarks as any[]),
   ...((_src_belizePoi as any).belizeAllPoi as any[]),
   ...((_src_beninAllPoi as any).beninAllPoi as any[]),
+  ...((_src_bosniaPoi_lite as any).bosniaAllPoi as any[]),
   ...((_src_bosniaPoi as any).bosniaPois as any[]),
   ...((_src_bosniaPoi as any).bosniaAllPoi as any[]),
   ...((_src_botswanaAllPoi as any).botswanaAllPoi as any[]),
+  ...((_src_bulgariaPoi_lite as any).bulgariaAllPoi as any[]),
   ...((_src_bulgariaPoi as any).bulgariaAllPoi as any[]),
   ...((_src_bulgariaPoi as any).bulgariaCities as any[]),
   ...((_src_bulgariaPoi as any).bulgariaCulture as any[]),
@@ -1596,6 +1685,7 @@ const _raw: any[] = [
   ...((_src_burundiAllPoi as any).burundiAllPoi as any[]),
   ...((_src_cameroonAllPoi as any).cameroonAllPoi as any[]),
   ...((_src_canadaAllPoi as any).canadaAllPoi as any[]),
+  ...((_src_canadaPoi_lite as any).canadaAllPoi as any[]),
   ...((_src_canadaPoi as any).canadaCountry as any[]),
   ...((_src_canadaPoi as any).canadaRegions as any[]),
   ...((_src_canadaPoi as any).canadaCities as any[]),
@@ -1606,26 +1696,32 @@ const _raw: any[] = [
   ...((_src_chadAllPoi as any).chadAllPoi as any[]),
   ...((_src_comorosAllPoi as any).comorosAllPoi as any[]),
   ...((_src_congoAllPoi as any).congoAllPoi as any[]),
+  ...((_src_costaricaPoi_lite as any).costaricaAllPoi as any[]),
   ...((_src_costaricaPoi as any).costaricaCountry as any[]),
   ...((_src_costaricaPoi as any).costaricaRegions as any[]),
   ...((_src_costaricaPoi as any).costaricaCities as any[]),
   ...((_src_costaricaPoi as any).costaricaLandmarks as any[]),
   ...((_src_costaricaPoi as any).costaricaAllPoi as any[]),
+  ...((_src_croatiaPoi_lite as any).croatiaAllPoi as any[]),
   ...((_src_croatiaPoi as any).croatiaAllPoi as any[]),
+  ...((_src_cubaPoi_lite as any).cubaAllPoi as any[]),
   ...((_src_cubaPoi as any).cubaCountry as any[]),
   ...((_src_cubaPoi as any).cubaRegions as any[]),
   ...((_src_cubaPoi as any).cubaCities as any[]),
   ...((_src_cubaPoi as any).cubaLandmarks as any[]),
   ...((_src_cubaPoi as any).cubaAllPoi as any[]),
+  ...((_src_cyprusPoi_lite as any).cyprusAllPoi as any[]),
   ...((_src_cyprusPoi as any).cyprusRegions as any[]),
   ...((_src_cyprusPoi as any).cyprusAllPoi as any[]),
   ...((_src_czechRepublicPoi as any).czechrepublicAllPoi as any[]),
+  ...((_src_denmarkPoi_lite as any).denmarkAllPoi as any[]),
   ...((_src_denmarkPoi as any).denmarkRegions as any[]),
   ...((_src_denmarkPoi as any).denmarkCities as any[]),
   ...((_src_denmarkPoi as any).denmarkCulture as any[]),
   ...((_src_denmarkPoi as any).denmarkNature as any[]),
   ...((_src_denmarkPoi as any).denmarkAllPoi as any[]),
   ...((_src_djiboutiAllPoi as any).djiboutiAllPoi as any[]),
+  ...((_src_dominicanrepublicPoi_lite as any).dominicanrepublicAllPoi as any[]),
   ...((_src_dominicanrepublicPoi as any).dominicanrepublicCountry as any[]),
   ...((_src_dominicanrepublicPoi as any).dominicanrepublicRegions as any[]),
   ...((_src_dominicanrepublicPoi as any).dominicanrepublicCities as any[]),
@@ -1633,6 +1729,7 @@ const _raw: any[] = [
   ...((_src_dominicanrepublicPoi as any).dominicanrepublicAllPoi as any[]),
   ...((_src_drcongoAllPoi as any).drcongoAllPoi as any[]),
   ...((_src_egyptAllPoi as any).egyptAllPoi as any[]),
+  ...((_src_elsalvadorPoi_lite as any).elsalvadorAllPoi as any[]),
   ...((_src_elsalvadorPoi as any).elsalvadorCountry as any[]),
   ...((_src_elsalvadorPoi as any).elsalvadorRegions as any[]),
   ...((_src_elsalvadorPoi as any).elsalvadorCities as any[]),
@@ -1640,12 +1737,14 @@ const _raw: any[] = [
   ...((_src_elsalvadorPoi as any).elsalvadorAllPoi as any[]),
   ...((_src_equatorialguineaAllPoi as any).equatorialguineaAllPoi as any[]),
   ...((_src_eritreaAllPoi as any).eritreaAllPoi as any[]),
+  ...((_src_estoniaPoi_lite as any).estoniaAllPoi as any[]),
   ...((_src_estoniaPoi as any).estoniaCities as any[]),
   ...((_src_estoniaPoi as any).estoniaCulture as any[]),
   ...((_src_estoniaPoi as any).estoniaNature as any[]),
   ...((_src_estoniaPoi as any).estoniaAllPoi as any[]),
   ...((_src_eswatiniAllPoi as any).eswatiniAllPoi as any[]),
   ...((_src_ethiopiaAllPoi as any).ethiopiaAllPoi as any[]),
+  ...((_src_finlandPoi_lite as any).finlandAllPoi as any[]),
   ...((_src_finlandPoi as any).finlandRegions as any[]),
   ...((_src_finlandPoi as any).finlandNature as any[]),
   ...((_src_finlandPoi as any).finlandCulture as any[]),
@@ -1653,6 +1752,7 @@ const _raw: any[] = [
   ...((_src_finlandPoi as any).finlandCultureExtended as any[]),
   ...((_src_finlandPoi as any).finlandNatureExtended as any[]),
   ...((_src_finlandPoi as any).finlandAllPoi as any[]),
+  ...((_src_francePoi_lite as any).franceCitiesExtra as any[]),
   ...((_src_francePoi as any).franceCountry as any[]),
   ...((_src_francePoi as any).franceRegions as any[]),
   ...((_src_francePoi as any).franceCities as any[]),
@@ -1660,8 +1760,10 @@ const _raw: any[] = [
   ...((_src_gabonAllPoi as any).gabonAllPoi as any[]),
   ...((_src_gambiaAllPoi as any).gambiaAllPoi as any[]),
   ...((_src_ghanaAllPoi as any).ghanaAllPoi as any[]),
+  ...((_src_greecePoi_lite as any).greeceAllPoi as any[]),
   ...((_src_greecePoi as any).greeceRegions as any[]),
   ...((_src_greecePoi as any).greeceAllPoi as any[]),
+  ...((_src_guatemalaPoi_lite as any).guatemalaAllPoi as any[]),
   ...((_src_guatemalaPoi as any).guatemalaCountry as any[]),
   ...((_src_guatemalaPoi as any).guatemalaRegions as any[]),
   ...((_src_guatemalaPoi as any).guatemalaCities as any[]),
@@ -1669,29 +1771,35 @@ const _raw: any[] = [
   ...((_src_guatemalaPoi as any).guatemalaAllPoi as any[]),
   ...((_src_guineaAllPoi as any).guineaAllPoi as any[]),
   ...((_src_guineabissauAllPoi as any).guineabissauAllPoi as any[]),
+  ...((_src_haitiPoi_lite as any).haitiAllPoi as any[]),
   ...((_src_haitiPoi as any).haitiCountry as any[]),
   ...((_src_haitiPoi as any).haitiRegions as any[]),
   ...((_src_haitiPoi as any).haitiCities as any[]),
   ...((_src_haitiPoi as any).haitiLandmarks as any[]),
   ...((_src_haitiPoi as any).haitiAllPoi as any[]),
+  ...((_src_hondurasPoi_lite as any).hondurasAllPoi as any[]),
   ...((_src_hondurasPoi as any).hondurasCountry as any[]),
   ...((_src_hondurasPoi as any).hondurasRegions as any[]),
   ...((_src_hondurasPoi as any).hondurasCities as any[]),
   ...((_src_hondurasPoi as any).hondurasLandmarks as any[]),
   ...((_src_hondurasPoi as any).hondurasAllPoi as any[]),
+  ...((_src_hungaryPoi_lite as any).hungaryAllPoi as any[]),
   ...((_src_hungaryPoi as any).hungaryCountry as any[]),
   ...((_src_hungaryPoi as any).hungaryRegions as any[]),
   ...((_src_hungaryPoi as any).hungaryCities as any[]),
   ...((_src_hungaryPoi as any).hungaryAllPoi as any[]),
+  ...((_src_irelandPoi_lite as any).irelandAllPoi as any[]),
   ...((_src_irelandPoi as any).irelandRegions as any[]),
   ...((_src_irelandPoi as any).irelandCities as any[]),
   ...((_src_irelandPoi as any).irelandNature as any[]),
   ...((_src_irelandPoi as any).irelandCulture as any[]),
   ...((_src_irelandPoi as any).irelandAllPoi as any[]),
+  ...((_src_italyPoi_lite as any).italyAllPoi as any[]),
   ...((_src_italyPoi as any).italyRegions as any[]),
   ...((_src_italyPoi as any).italyCities as any[]),
   ...((_src_italyPoi as any).italyAllPoi as any[]),
   ...((_src_ivorycoastAllPoi as any).ivorycoastAllPoi as any[]),
+  ...((_src_jamaicaPoi_lite as any).jamaicaAllPoi as any[]),
   ...((_src_jamaicaPoi as any).jamaicaCountry as any[]),
   ...((_src_jamaicaPoi as any).jamaicaRegions as any[]),
   ...((_src_jamaicaPoi as any).jamaicaCities as any[]),
@@ -1702,8 +1810,10 @@ const _raw: any[] = [
   ...((_src_japanPoi as any).japanCities as any[]),
   ...((_src_japanPoi as any).japanAllPoi as any[]),
   ...((_src_kenyaAllPoi as any).kenyaAllPoi as any[]),
+  ...((_src_kosovoPoi_lite as any).kosovoAllPoi as any[]),
   ...((_src_kosovoPoi as any).kosovoPois as any[]),
   ...((_src_kosovoPoi as any).kosovoAllPoi as any[]),
+  ...((_src_latviaPoi_lite as any).latviaAllPoi as any[]),
   ...((_src_latviaPoi as any).latviaAllPoi as any[]),
   ...((_src_latviaPoi as any).latviaCities as any[]),
   ...((_src_latviaPoi as any).latviaCulture as any[]),
@@ -1716,12 +1826,15 @@ const _raw: any[] = [
   ...((_src_lesothoAllPoi as any).lesothoAllPoi as any[]),
   ...((_src_liberiaAllPoi as any).liberiaAllPoi as any[]),
   ...((_src_libyaAllPoi as any).libyaAllPoi as any[]),
+  ...((_src_liechtensteinPoi_lite as any).liechtensteinAllPoi as any[]),
   ...((_src_liechtensteinPoi as any).liechtensteinRegions as any[]),
   ...((_src_liechtensteinPoi as any).liechtensteinCities as any[]),
   ...((_src_liechtensteinPoi as any).liechtensteinCulture as any[]),
   ...((_src_liechtensteinPoi as any).liechtensteinNature as any[]),
   ...((_src_liechtensteinPoi as any).liechtensteinAllPoi as any[]),
+  ...((_src_lithuaniaPoi_lite as any).lithuaniaAllPoi as any[]),
   ...((_src_lithuaniaPoi as any).lithuaniaAllPoi as any[]),
+  ...((_src_luxembourgPoi_lite as any).luxembourgAllPoi as any[]),
   ...((_src_luxembourgPoi as any).luxembourgAllPoi as any[]),
   ...((_src_madagascarAllPoi as any).madagascarAllPoi as any[]),
   ...((_src_malawiAllPoi as any).malawiAllPoi as any[]),
@@ -1729,22 +1842,28 @@ const _raw: any[] = [
   ...((_src_maltaPoi as any).maltaPoi as any[]),
   ...((_src_mauritaniaAllPoi as any).mauritaniaAllPoi as any[]),
   ...((_src_mauritiusAllPoi as any).mauritiusAllPoi as any[]),
+  ...((_src_mexicoPoi_lite as any).mexicoAllPoi as any[]),
   ...((_src_mexicoPoi as any).mexicoCities as any[]),
   ...((_src_mexicoPoi as any).mexicoAllPoi as any[]),
   ...((_src_moldovaExtraFiles as any).moldovaExtraCities as any[]),
   ...((_src_moldovaExtraFiles as any).moldovaExtraHistory as any[]),
+  ...((_src_moldovaPoi_lite as any).moldovaPoi as any[]),
   ...((_src_moldovaPoi as any).moldovaPoi as any[]),
+  ...((_src_monacoPoi_lite as any).monacoAllPoi as any[]),
   ...((_src_monacoPoi as any).monacoDistricts as any[]),
   ...((_src_monacoPoi as any).monacoLandmarks as any[]),
   ...((_src_monacoPoi as any).monacoRegionsPoi as any[]),
   ...((_src_monacoPoi as any).monacoAllPoi as any[]),
+  ...((_src_montenegroPoi_lite as any).montenegroAllPoi as any[]),
   ...((_src_montenegroPoi as any).montenegroAllPoi as any[]),
   ...((_src_moroccoAllPoi as any).moroccoAllPoi as any[]),
   ...((_src_mozambiqueAllPoi as any).mozambiqueAllPoi as any[]),
   ...((_src_namibiaAllPoi as any).namibiaAllPoi as any[]),
+  ...((_src_netherlandsPoi_lite as any).netherlandsAllPoi as any[]),
   ...((_src_netherlandsPoi as any).netherlandsRegions as any[]),
   ...((_src_netherlandsPoi as any).netherlandsCities as any[]),
   ...((_src_netherlandsPoi as any).netherlandsAllPoi as any[]),
+  ...((_src_nicaraguaPoi_lite as any).nicaraguaAllPoi as any[]),
   ...((_src_nicaraguaPoi as any).nicaraguaCountry as any[]),
   ...((_src_nicaraguaPoi as any).nicaraguaRegions as any[]),
   ...((_src_nicaraguaPoi as any).nicaraguaCities as any[]),
@@ -1752,6 +1871,7 @@ const _raw: any[] = [
   ...((_src_nicaraguaPoi as any).nicaraguaAllPoi as any[]),
   ...((_src_nigerAllPoi as any).nigerAllPoi as any[]),
   ...((_src_nigeriaAllPoi as any).nigeriaAllPoi as any[]),
+  ...((_src_northmacedoniaPoi_lite as any).northmacedoniaPois as any[]),
   ...((_src_northmacedoniaPoi as any).northmacedoniaPois as any[]),
   ...((_src_northmacedoniaPois_part1 as any).mkPoisPart1 as any[]),
   ...((_src_northmacedoniaPois_part2 as any).mkPoisPart2 as any[]),
@@ -1762,11 +1882,13 @@ const _raw: any[] = [
   ...((_src_northmacedoniaPois_part7 as any).mkPoisPart7 as any[]),
   ...((_src_northmacedoniaPois_part8 as any).mkPoisPart8 as any[]),
   ...((_src_northmacedoniaPois_part9 as any).mkPoisPart9 as any[]),
+  ...((_src_norwayPoi_lite as any).norwayAllPoi as any[]),
   ...((_src_norwayPoi as any).norwayRegions as any[]),
   ...((_src_norwayPoi as any).norwayNature as any[]),
   ...((_src_norwayPoi as any).norwayCities as any[]),
   ...((_src_norwayPoi as any).norwayCulture as any[]),
   ...((_src_norwayPoi as any).norwayAllPoi as any[]),
+  ...((_src_panamaPoi_lite as any).panamaAllPoi as any[]),
   ...((_src_panamaPoi as any).panamaCountry as any[]),
   ...((_src_panamaPoi as any).panamaRegions as any[]),
   ...((_src_panamaPoi as any).panamaCities as any[]),
@@ -1793,6 +1915,7 @@ const _raw: any[] = [
   ...((_src_poiExtraAlgeriaLifeV2 as any).poiExtraAlgeriaLifeV2 as any[]),
   ...((_src_poiExtraAlgeriaNatureV2 as any).poiExtraAlgeriaNatureV2 as any[]),
   ...((_src_poiExtraAlgeriaReliefV2 as any).poiExtraAlgeriaReliefV2 as any[]),
+  ...((_src_poiExtraAndorraCities_lite as any).poiExtraAndorraCities as any[]),
   ...((_src_poiExtraAndorraCities as any).poiExtraAndorraCities as any[]),
   ...((_src_poiExtraAndorraEconomicV2 as any).andorraEconomicV2 as any[]),
   ...((_src_poiExtraAndorraHistoryV2 as any).andorraHistoryV2 as any[]),
@@ -1824,12 +1947,16 @@ const _raw: any[] = [
   ...((_src_poiExtraAustriaCities as any).austriaCities as any[]),
   ...((_src_poiExtraAustriaCitiesV2 as any).austriaCitiesV2 as any[]),
   ...((_src_poiExtraAustriaEconomicV2 as any).austriaEconomicV2 as any[]),
+  ...((_src_poiExtraAustriaHistorical_lite as any).poiExtraAustriaHistorical as any[]),
   ...((_src_poiExtraAustriaHistorical as any).poiExtraAustriaHistorical as any[]),
   ...((_src_poiExtraAustriaHistoryV2 as any).austriaHistoryV2 as any[]),
+  ...((_src_poiExtraAustriaIndustry_lite as any).poiExtraAustriaIndustry as any[]),
   ...((_src_poiExtraAustriaIndustry as any).poiExtraAustriaIndustry as any[]),
   ...((_src_poiExtraAustriaLandmarksV2 as any).austriaLandmarksV2 as any[]),
+  ...((_src_poiExtraAustriaLife_lite as any).poiExtraAustriaLife as any[]),
   ...((_src_poiExtraAustriaLife as any).poiExtraAustriaLife as any[]),
   ...((_src_poiExtraAustriaLifeV2 as any).austriaLifeV2 as any[]),
+  ...((_src_poiExtraAustriaNature_lite as any).poiExtraAustriaNature as any[]),
   ...((_src_poiExtraAustriaNature as any).poiExtraAustriaNature as any[]),
   ...((_src_poiExtraAustriaNatureV2 as any).austriaNatureV2 as any[]),
   ...((_src_poiExtraAustriaReliefV2 as any).austriaReliefV2 as any[]),
@@ -2076,6 +2203,7 @@ const _raw: any[] = [
   ...((_src_poiExtraCyprusNatureV2 as any).cyprusNatureV2 as any[]),
   ...((_src_poiExtraCyprusOther as any).cyprusOtherPoi as any[]),
   ...((_src_poiExtraCyprusReliefV2 as any).cyprusReliefV2 as any[]),
+  ...((_src_poiExtraCzechRepublicCities_lite as any).poiExtraCzechRepublicCities as any[]),
   ...((_src_poiExtraCzechRepublicCities as any).poiExtraCzechRepublicCities as any[]),
   ...((_src_poiExtraCzechrepublicCitiesV2 as any).czechrepublicCitiesV2 as any[]),
   ...((_src_poiExtraCzechrepublicEconomicV2 as any).czechrepublicEconomicV2 as any[]),
@@ -2185,6 +2313,7 @@ const _raw: any[] = [
   ...((_src_poiExtraFinlandNatureV2 as any).finlandNatureV2 as any[]),
   ...((_src_poiExtraFinlandReliefV2 as any).finlandReliefV2 as any[]),
   ...((_src_poiExtraFrV1 as any).poiExtraFrV1 as any[]),
+  ...((_src_poiExtraFranceCities_lite as any).poiExtraFranceCities as any[]),
   ...((_src_poiExtraFranceCities as any).poiExtraFranceCities as any[]),
   ...((_src_poiExtraFranceCitiesV2 as any).franceCitiesV2 as any[]),
   ...((_src_poiExtraFranceEconomicV2 as any).franceEconomicV2 as any[]),
@@ -2238,6 +2367,7 @@ const _raw: any[] = [
   ...((_src_poiExtraGhanaLifeV2 as any).poiExtraGhanaLifeV2 as any[]),
   ...((_src_poiExtraGhanaNatureV2 as any).poiExtraGhanaNatureV2 as any[]),
   ...((_src_poiExtraGhanaReliefV2 as any).poiExtraGhanaReliefV2 as any[]),
+  ...((_src_poiExtraGreeceCities_lite as any).poiExtraGreeceCities as any[]),
   ...((_src_poiExtraGreeceCities as any).poiExtraGreeceCities as any[]),
   ...((_src_poiExtraGreeceCitiesV2 as any).greeceCitiesV2 as any[]),
   ...((_src_poiExtraGreeceEconomicV2 as any).greeceEconomicV2 as any[]),
@@ -2302,14 +2432,18 @@ const _raw: any[] = [
   ...((_src_poiExtraHongkongLifeV2 as any).hongkongLifeV2 as any[]),
   ...((_src_poiExtraHongkongNatureV2 as any).hongkongNatureV2 as any[]),
   ...((_src_poiExtraHongkongReliefV2 as any).hongkongReliefV2 as any[]),
+  ...((_src_poiExtraHu1_lite as any).poiExtraHu1 as any[]),
   ...((_src_poiExtraHu1 as any).poiExtraHu1 as any[]),
+  ...((_src_poiExtraHu2_lite as any).poiExtraHu2 as any[]),
   ...((_src_poiExtraHu2 as any).poiExtraHu2 as any[]),
+  ...((_src_poiExtraHu3_lite as any).poiExtraHu3 as any[]),
   ...((_src_poiExtraHu3 as any).poiExtraHu3 as any[]),
   ...((_src_poiExtraHuV4 as any).poiExtraHuV4 as any[]),
   ...((_src_poiExtraHungaryCitiesV3 as any).poiExtraHungaryCitiesV3 as any[]),
   ...((_src_poiExtraHungaryEconomicV2 as any).hungaryEconomicV2 as any[]),
   ...((_src_poiExtraHungaryLifeV2 as any).hungaryLifeV2 as any[]),
   ...((_src_poiExtraHungaryReliefV2 as any).hungaryReliefV2 as any[]),
+  ...((_src_poiExtraIcelandCities_lite as any).poiExtraIcelandCities as any[]),
   ...((_src_poiExtraIcelandCities as any).poiExtraIcelandCities as any[]),
   ...((_src_poiExtraIcelandCitiesV2 as any).icelandCitiesV2 as any[]),
   ...((_src_poiExtraIcelandEconomicV2 as any).icelandEconomicV2 as any[]),
@@ -2348,6 +2482,7 @@ const _raw: any[] = [
   ...((_src_poiExtraIraqNatureV2 as any).poiExtraIraqNatureV2 as any[]),
   ...((_src_poiExtraIraqReliefV2 as any).poiExtraIraqReliefV2 as any[]),
   ...((_src_poiExtraIrelandAnimal as any).poiExtraIrelandAnimal as any[]),
+  ...((_src_poiExtraIrelandCities_lite as any).poiExtraIrelandCities as any[]),
   ...((_src_poiExtraIrelandCities as any).poiExtraIrelandCities as any[]),
   ...((_src_poiExtraIrelandCitiesV2 as any).irelandCitiesV2 as any[]),
   ...((_src_poiExtraIrelandEconomicV2 as any).irelandEconomicV2 as any[]),
@@ -2479,7 +2614,9 @@ const _raw: any[] = [
   ...((_src_poiExtraLibyaLifeV2 as any).poiExtraLibyaLifeV2 as any[]),
   ...((_src_poiExtraLibyaNatureV2 as any).poiExtraLibyaNatureV2 as any[]),
   ...((_src_poiExtraLibyaReliefV2 as any).poiExtraLibyaReliefV2 as any[]),
+  ...((_src_poiExtraLiechtensteinCities_lite as any).poiExtraLiechtensteinCities as any[]),
   ...((_src_poiExtraLiechtensteinCities as any).poiExtraLiechtensteinCities as any[]),
+  ...((_src_poiExtraLiechtensteinHistory_lite as any).poiExtraLiechtensteinHistory as any[]),
   ...((_src_poiExtraLiechtensteinHistory as any).poiExtraLiechtensteinHistory as any[]),
   ...((_src_poiExtraLiechtensteinOther as any).poiExtraLiechtensteinOther as any[]),
   ...((_src_poiExtraLiechtensteinReliefV2 as any).liechtensteinReliefV2 as any[]),
@@ -2534,6 +2671,7 @@ const _raw: any[] = [
   ...((_src_poiExtraMaliLifeV2 as any).poiExtraMaliLifeV2 as any[]),
   ...((_src_poiExtraMaliNatureV2 as any).poiExtraMaliNatureV2 as any[]),
   ...((_src_poiExtraMaliReliefV2 as any).poiExtraMaliReliefV2 as any[]),
+  ...((_src_poiExtraMaltaCities_lite as any).poiExtraMaltaCities as any[]),
   ...((_src_poiExtraMaltaCities as any).poiExtraMaltaCities as any[]),
   ...((_src_poiExtraMaltaNatureV2 as any).maltaNatureV2 as any[]),
   ...((_src_poiExtraMaltaOther as any).poiExtraMaltaOther as any[]),
@@ -2644,6 +2782,7 @@ const _raw: any[] = [
   ...((_src_poiExtraNepalLifeV2 as any).poiExtraNepalLifeV2 as any[]),
   ...((_src_poiExtraNepalNatureV2 as any).poiExtraNepalNatureV2 as any[]),
   ...((_src_poiExtraNepalReliefV2 as any).poiExtraNepalReliefV2 as any[]),
+  ...((_src_poiExtraNetherlandsCities_lite as any).poiExtraNetherlandsCities as any[]),
   ...((_src_poiExtraNetherlandsCities as any).poiExtraNetherlandsCities as any[]),
   ...((_src_poiExtraNetherlandsCitiesV2 as any).netherlandsCitiesV2 as any[]),
   ...((_src_poiExtraNetherlandsEconomicV2 as any).netherlandsEconomicV2 as any[]),
@@ -2755,6 +2894,7 @@ const _raw: any[] = [
   ...((_src_poiExtraPhilippinesLifeV2 as any).poiExtraPhilippinesLifeV2 as any[]),
   ...((_src_poiExtraPhilippinesNatureV2 as any).poiExtraPhilippinesNatureV2 as any[]),
   ...((_src_poiExtraPhilippinesReliefV2 as any).poiExtraPhilippinesReliefV2 as any[]),
+  ...((_src_poiExtraPolandCities_lite as any).poiExtraPolandCities as any[]),
   ...((_src_poiExtraPolandCities as any).poiExtraPolandCities as any[]),
   ...((_src_poiExtraPolandCitiesV2 as any).polandCitiesV2 as any[]),
   ...((_src_poiExtraPolandEconomicV2 as any).polandEconomicV2 as any[]),
@@ -2766,10 +2906,12 @@ const _raw: any[] = [
   ...((_src_poiExtraPortugalCities as any).poiExtraPortugalCities as any[]),
   ...((_src_poiExtraPortugalCitiesV2 as any).portugalCitiesV2 as any[]),
   ...((_src_poiExtraPortugalEconomicV2 as any).portugalEconomicV2 as any[]),
+  ...((_src_poiExtraPortugalHistorical_lite as any).poiExtraPortugalHistorical as any[]),
   ...((_src_poiExtraPortugalHistorical as any).poiExtraPortugalHistorical as any[]),
   ...((_src_poiExtraPortugalHistoryV2 as any).portugalHistoryV2 as any[]),
   ...((_src_poiExtraPortugalLandmarksV2 as any).portugalLandmarksV2 as any[]),
   ...((_src_poiExtraPortugalLifeV2 as any).portugalLifeV2 as any[]),
+  ...((_src_poiExtraPortugalNature_lite as any).poiExtraPortugalNature as any[]),
   ...((_src_poiExtraPortugalNature as any).poiExtraPortugalNature as any[]),
   ...((_src_poiExtraPortugalNatureV2 as any).portugalNatureV2 as any[]),
   ...((_src_poiExtraPortugalReliefV2 as any).portugalReliefV2 as any[]),
@@ -2787,7 +2929,9 @@ const _raw: any[] = [
   ...((_src_poiExtraRepublicofcongoLifeV2 as any).republicofcongoLifeV2 as any[]),
   ...((_src_poiExtraRepublicofcongoNatureV2 as any).republicofcongoNatureV2 as any[]),
   ...((_src_poiExtraRepublicofcongoReliefV2 as any).republicofcongoReliefV2 as any[]),
+  ...((_src_poiExtraRo1_lite as any).poiExtraRo1 as any[]),
   ...((_src_poiExtraRo1 as any).poiExtraRo1 as any[]),
+  ...((_src_poiExtraRo2_lite as any).poiExtraRo2 as any[]),
   ...((_src_poiExtraRo2 as any).poiExtraRo2 as any[]),
   ...((_src_poiExtraRoV1 as any).poiExtraRoV1 as any[]),
   ...((_src_poiExtraRomaniaCitiesV2 as any).romaniaCitiesV2 as any[]),
@@ -2831,6 +2975,7 @@ const _raw: any[] = [
   ...((_src_poiExtraSamoaLifeV2 as any).samoaLifeV2 as any[]),
   ...((_src_poiExtraSamoaNatureV2 as any).samoaNatureV2 as any[]),
   ...((_src_poiExtraSamoaReliefV2 as any).samoaReliefV2 as any[]),
+  ...((_src_poiExtraSanmarinoCities_lite as any).poiExtraSanmarinoCities as any[]),
   ...((_src_poiExtraSanmarinoCities as any).poiExtraSanmarinoCities as any[]),
   ...((_src_poiExtraSanmarinoCitiesV2 as any).sanmarinoCitiesV2 as any[]),
   ...((_src_poiExtraSanmarinoEconomicV2 as any).sanmarinoEconomicV2 as any[]),
@@ -2838,6 +2983,7 @@ const _raw: any[] = [
   ...((_src_poiExtraSanmarinoHistoryV2 as any).sanmarinoHistoryV2 as any[]),
   ...((_src_poiExtraSanmarinoLifeV2 as any).sanmarinoLifeV2 as any[]),
   ...((_src_poiExtraSanmarinoNatureV2 as any).sanmarinoNatureV2 as any[]),
+  ...((_src_poiExtraSanmarinoOther_lite as any).poiExtraSanmarinoOther as any[]),
   ...((_src_poiExtraSanmarinoOther as any).sanmarinoLandscapes as any[]),
   ...((_src_poiExtraSanmarinoOther as any).sanmarinoKidLandmarks as any[]),
   ...((_src_poiExtraSanmarinoOther as any).sanmarinoAgriculture as any[]),
@@ -3113,6 +3259,7 @@ const _raw: any[] = [
   ...((_src_poiExtraUkLifeV2 as any).ukLifeV2 as any[]),
   ...((_src_poiExtraUkNatureV2 as any).ukNatureV2 as any[]),
   ...((_src_poiExtraUkReliefV2 as any).ukReliefV2 as any[]),
+  ...((_src_poiExtraUkV1 as any).poiExtraUkV1 as any[]),
   ...((_src_poiExtraUkraineCitiesV2 as any).ukraineCitiesV2 as any[]),
   ...((_src_poiExtraUkraineEconomicV2 as any).ukraineEconomicV2 as any[]),
   ...((_src_poiExtraUkraineHistoryV2 as any).ukraineHistoryV2 as any[]),
@@ -3196,12 +3343,15 @@ const _raw: any[] = [
   ...((_src_poiExtraZimbabweLifeV2 as any).poiExtraZimbabweLifeV2 as any[]),
   ...((_src_poiExtraZimbabweNatureV2 as any).poiExtraZimbabweNatureV2 as any[]),
   ...((_src_poiExtraZimbabweReliefV2 as any).poiExtraZimbabweReliefV2 as any[]),
+  ...((_src_polandPoi_lite as any).polandAllPoi as any[]),
   ...((_src_polandPoi as any).polandAllPoi as any[]),
+  ...((_src_portugalPoi_lite as any).portugalAllPoi as any[]),
   ...((_src_portugalPoi as any).portugalRegions as any[]),
   ...((_src_portugalPoi as any).portugalCulture as any[]),
   ...((_src_portugalPoi as any).portugalNature as any[]),
   ...((_src_portugalPoi as any).portugalCities as any[]),
   ...((_src_portugalPoi as any).portugalAllPoi as any[]),
+  ...((_src_romaniaPoi_lite as any).romaniaAllPois as any[]),
   ...((_src_romaniaPoi as any).romaniaCountry as any[]),
   ...((_src_romaniaPoi as any).romaniaRegions as any[]),
   ...((_src_romaniaPoi as any).romaniaCities as any[]),
@@ -3216,6 +3366,7 @@ const _raw: any[] = [
   ...((_src_romaniaPoi as any).romaniaAllPois as any[]),
   ...((_src_romaniaPoi as any).romaniaAllPoi as any[]),
   ...((_src_rwandaAllPoi as any).rwandaAllPoi as any[]),
+  ...((_src_sanmarinoPoi_lite as any).sanmarinoAllPoi as any[]),
   ...((_src_sanmarinoPoi as any).sanmarinoRegions as any[]),
   ...((_src_sanmarinoPoi as any).sanmarinoCities as any[]),
   ...((_src_sanmarinoPoi as any).sanmarinoCulture as any[]),
@@ -3223,6 +3374,7 @@ const _raw: any[] = [
   ...((_src_sanmarinoPoi as any).sanmarinoAllPoi as any[]),
   ...((_src_saotomeAllPoi as any).saotomeAllPoi as any[]),
   ...((_src_senegalAllPoi as any).senegalAllPoi as any[]),
+  ...((_src_serbiaPoi_lite as any).serbiaAllPoi as any[]),
   ...((_src_serbiaPoi as any).serbiaRegions as any[]),
   ...((_src_serbiaPoi as any).serbiaCities as any[]),
   ...((_src_serbiaPoi as any).serbiaCulture as any[]),
@@ -3236,15 +3388,18 @@ const _raw: any[] = [
   ...((_src_southafricaAllPoi as any).southafricaAllPoi as any[]),
   ...((_src_southsudanAllPoi as any).southsudanAllPoi as any[]),
   ...((_src_spainCitiesExtra as any).spainCitiesExtra as any[]),
+  ...((_src_spainPoi_lite as any).spainAllPoi as any[]),
   ...((_src_spainPoi as any).spainCountry as any[]),
   ...((_src_spainPoi as any).spainRegions as any[]),
   ...((_src_spainPoi as any).spainAllPoi as any[]),
   ...((_src_sudanAllPoi as any).sudanAllPoi as any[]),
+  ...((_src_swedenPoi_lite as any).swedenAllPoi as any[]),
   ...((_src_swedenPoi as any).swedenRegions as any[]),
   ...((_src_swedenPoi as any).swedenCities as any[]),
   ...((_src_swedenPoi as any).swedenCulture as any[]),
   ...((_src_swedenPoi as any).swedenNature as any[]),
   ...((_src_swedenPoi as any).swedenAllPoi as any[]),
+  ...((_src_switzerlandPoi_lite as any).switzerlandAllPoi as any[]),
   ...((_src_switzerlandPoi as any).switzerlandRegions as any[]),
   ...((_src_switzerlandPoi as any).switzerlandCities as any[]),
   ...((_src_switzerlandPoi as any).switzerlandCulture as any[]),
@@ -3256,6 +3411,7 @@ const _raw: any[] = [
   ...((_src_thailandPoi as any).thailandCities as any[]),
   ...((_src_thailandPoi as any).thailandAllPoi as any[]),
   ...((_src_togoAllPoi as any).togoAllPoi as any[]),
+  ...((_src_trinidadPoi_lite as any).trinidadAllPoi as any[]),
   ...((_src_trinidadPoi as any).trinidadCountry as any[]),
   ...((_src_trinidadPoi as any).trinidadRegions as any[]),
   ...((_src_trinidadPoi as any).trinidadCities as any[]),
@@ -3263,8 +3419,11 @@ const _raw: any[] = [
   ...((_src_trinidadPoi as any).trinidadAllPoi as any[]),
   ...((_src_tunisiaAllPoi as any).tunisiaAllPoi as any[]),
   ...((_src_ugandaAllPoi as any).ugandaAllPoi as any[]),
+  ...((_src_ukrainePoi_lite as any).ukrainePois as any[]),
   ...((_src_ukrainePoi as any).ukrainePois as any[]),
+  ...((_src_unitedkingdomPoi_lite as any).unitedkingdomAllPoi as any[]),
   ...((_src_unitedkingdomPoi as any).unitedkingdomAllPoi as any[]),
+  ...((_src_usaPoi_lite as any).usaAllPoi as any[]),
   ...((_src_usaPoi as any).usaCountry as any[]),
   ...((_src_usaPoi as any).usaRegions as any[]),
   ...((_src_usaPoi as any).usaGeography as any[]),
@@ -3272,6 +3431,7 @@ const _raw: any[] = [
   ...((_src_usaPoi as any).usaLandmarks as any[]),
   ...((_src_usaPoi as any).usaCities as any[]),
   ...((_src_usaPoi as any).usaAllPoi as any[]),
+  ...((_src_vaticanPoi_lite as any).vaticanPois as any[]),
   ...((_src_vaticanPoi as any).vaticanPois as any[]),
   ...((_src_vaticanPoi as any).vaticanAll as any[]),
   ...((_src_vietnamPoi as any).vietnamCountry as any[]),
