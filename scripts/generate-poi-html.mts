@@ -42,6 +42,27 @@ try {
   }
 } catch {}
 
+// Sight image map (slugified-sight-name + poi-id → /sight-images/X.webp).
+// Loaded once at startup. Used in renderSightCard to inject image when
+// the sight itself doesn't have an explicit image URL.
+let SIGHT_IMG_MAP: Record<string, string> = {};
+try {
+  const simPath = path.resolve(process.cwd(), "public", "data", "sight-image-map.json");
+  if (fs.existsSync(simPath)) {
+    SIGHT_IMG_MAP = JSON.parse(fs.readFileSync(simPath, "utf-8"));
+  }
+} catch {}
+function slugifySight(s: string): string {
+  return s.toLowerCase()
+    .normalize("NFKD").replace(/[̀-ͯ]/g, "")
+    .replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
+}
+function lookupSightImage(name: string, poiId: string): string | undefined {
+  if (!name || !poiId) return undefined;
+  const key = `${slugifySight(name)}-${poiId}`;
+  return SIGHT_IMG_MAP[key];
+}
+
 // Load FULL POI data (with description/facts/advanced) directly via TS imports
 // in this standalone tsx process. slugs.ts can't import these heavy files because
 // the Next.js build workers would OOM, but this script runs separately with a 16GB
@@ -483,7 +504,9 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   };
   const renderSightCard = (s: SightItem, withDistance: boolean): string => {
     if (!s?.name) return "";
-    const img = s.image ? `<img class="plz-sight-img" src="${escapeHtml(s.image)}" alt="${escapeHtml(s.name)}" loading="lazy"/>` : "";
+    // Inject image from sight-image-map.json if the sight itself lacks one.
+    const imgUrl = s.image || lookupSightImage(s.name, poi.id);
+    const img = imgUrl ? `<img class="plz-sight-img" src="${escapeHtml(imgUrl)}" alt="${escapeHtml(s.name)}" loading="lazy"/>` : "";
     const dist = withDistance && s.distance ? `<span class="plz-sight-dist">${escapeHtml(s.distance)}</span>` : "";
     const txt = s.text ? `<p>${escapeHtml(s.text)}</p>` : "";
     const attr = renderAttribution(s.image_attribution);
