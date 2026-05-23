@@ -511,6 +511,25 @@ const InteractiveMapInner = ({
       .catch(() => setSightsById((prev) => ({ ...prev, [selectedPoiId]: {} })));
   }, [selectedPoiId, selectedPoiBase, sightsById]);
 
+  // Shared helper: pick popup teaser (first sentence of descriptionAdvanced)
+  // and top 3 advanced facts. Applied in all popup variants (main, sub-region,
+  // state-popup) so users always see the same level of detail.
+  const popupTeaserAndFacts = (poi: POI | null | undefined, lang: Lang): { teaser?: string; facts: string[] } => {
+    if (!poi) return { facts: [] };
+    const advDesc = (poi as POI & { descriptionAdvanced?: POI["description"] }).descriptionAdvanced?.[lang];
+    let teaser: string | undefined;
+    if (advDesc) {
+      const m = advDesc.match(/^[^.!?]+[.!?]/);
+      teaser = (m ? m[0] : advDesc.slice(0, 200)).trim();
+    } else {
+      teaser = poi.description?.[lang];
+    }
+    const advFacts = (poi as POI & { factsAdvanced?: POI["facts"] }).factsAdvanced?.[lang] ?? [];
+    const baseFacts = poi.facts?.[lang] ?? [];
+    const facts = (advFacts.length > 0 ? advFacts : baseFacts).slice(0, 3);
+    return { teaser, facts };
+  };
+
   // Lazy-fetch official links index (POI id → { site, fb }) for popup buttons.
   // One small JSON for the whole site, loaded on first POI select.
   const [officialLinks, setOfficialLinks] = useState<Record<string, { site?: string; fb?: string }> | null>(null);
@@ -1305,24 +1324,23 @@ const InteractiveMapInner = ({
             </div>
 
             <div>
-              {selectedPoiFromState?.description?.[displayLang] && (
-                <p className="text-white/75 text-sm leading-relaxed mb-2">
-                  {selectedPoiFromState.description[displayLang]}
-                </p>
-              )}
-
-              {selectedPoiFromState?.facts?.[displayLang]?.length ? (
-                <div className="flex flex-wrap gap-1.5 mb-3">
-                  {selectedPoiFromState.facts[displayLang].map((f, i) => (
-                    <span
-                      key={i}
-                      className="text-[11px] bg-cyan-500/10 text-cyan-200/90 px-2.5 py-1 rounded-md border border-cyan-400/15"
-                    >
-                      {f}
-                    </span>
-                  ))}
-                </div>
-              ) : null}
+              {(() => {
+                const { teaser, facts } = popupTeaserAndFacts(selectedPoiFromState as POI | null, displayLang);
+                return (
+                  <>
+                    {teaser && <p className="text-white/75 text-sm leading-relaxed mb-2">{teaser}</p>}
+                    {facts.length > 0 && (
+                      <div className="flex flex-wrap gap-1.5 mb-3">
+                        {facts.map((f, i) => (
+                          <span key={i} className="text-[11px] bg-cyan-500/10 text-cyan-200/90 px-2.5 py-1 rounded-md border border-cyan-400/15">
+                            {f}
+                          </span>
+                        ))}
+                      </div>
+                    )}
+                  </>
+                );
+              })()}
 
               {/* Mehr gomb alul — scroll után */}
               <a
@@ -1430,50 +1448,25 @@ const InteractiveMapInner = ({
 
             <div>
               {(() => {
-                // Prefer first sentence of descriptionAdvanced for richer popup text;
-                // fall back to the popup-sized `description` until heavy data loads.
-                const advDesc = (selectedPoi as POI & { descriptionAdvanced?: POI["description"] }).descriptionAdvanced?.[displayLang];
-                let teaser: string | undefined;
-                if (advDesc) {
-                  const m = advDesc.match(/^[^.!?]+[.!?]/);
-                  teaser = (m ? m[0] : advDesc.slice(0, 200)).trim();
-                } else {
-                  teaser = selectedPoi.description?.[displayLang];
-                }
-                return teaser ? (
-                  <p className="text-white/75 text-sm leading-relaxed mb-2">{teaser}</p>
-                ) : null;
+                const { teaser } = popupTeaserAndFacts(selectedPoi, displayLang);
+                return teaser ? <p className="text-white/75 text-sm leading-relaxed mb-2">{teaser}</p> : null;
               })()}
 
               {(() => {
                 const v = getPoiVideo(selectedPoi);
                 return v ? (
-                  <video
-                    key={v}
-                    src={v}
-                    controls
-                    playsInline
-                    preload="metadata"
-                    className="w-full rounded-lg border border-cyan-400/20 mb-2 bg-black/40 aspect-video"
-                  />
+                  <video key={v} src={v} controls playsInline preload="metadata"
+                         className="w-full rounded-lg border border-cyan-400/20 mb-2 bg-black/40 aspect-video"/>
                 ) : null;
               })()}
 
               {(() => {
-                // Prefer first 3 advanced facts; fall back to base facts when heavy
-                // data hasn't loaded yet.
-                const advFactsRaw = (selectedPoi as POI & { factsAdvanced?: POI["facts"] }).factsAdvanced?.[displayLang] ?? [];
-                const baseFacts = selectedPoi.facts?.[displayLang] ?? [];
-                const source = advFactsRaw.length > 0 ? advFactsRaw : baseFacts;
-                const allFacts = source.slice(0, 3);
-                if (allFacts.length === 0) return null;
+                const { facts } = popupTeaserAndFacts(selectedPoi, displayLang);
+                if (facts.length === 0) return null;
                 return (
                   <div className="flex flex-wrap gap-1.5">
-                    {allFacts.map((f, i) => (
-                      <span
-                        key={i}
-                        className="text-[11px] bg-cyan-500/10 text-cyan-200/90 px-2.5 py-1 rounded-md border border-cyan-400/15"
-                      >
+                    {facts.map((f, i) => (
+                      <span key={i} className="text-[11px] bg-cyan-500/10 text-cyan-200/90 px-2.5 py-1 rounded-md border border-cyan-400/15">
                         {f}
                       </span>
                     ))}
@@ -1974,16 +1967,21 @@ function SubRegionView({
                 <X size={16} />
               </button>
             </div>
-            {selectedPoi.description?.[displayLang] && (
-              <p className="text-white/75 text-sm leading-relaxed mb-2">{selectedPoi.description[displayLang]}</p>
-            )}
-            {selectedPoi.facts?.[displayLang]?.length ? (
-              <div className="flex flex-wrap gap-1.5">
-                {selectedPoi.facts[displayLang].map((f, i) => (
-                  <span key={i} className="text-[11px] bg-cyan-500/10 text-cyan-200/90 px-2.5 py-1 rounded-md border border-cyan-400/15">{f}</span>
-                ))}
-              </div>
-            ) : null}
+            {(() => {
+              const { teaser, facts } = popupTeaserAndFacts(selectedPoi, displayLang);
+              return (
+                <>
+                  {teaser && <p className="text-white/75 text-sm leading-relaxed mb-2">{teaser}</p>}
+                  {facts.length > 0 && (
+                    <div className="flex flex-wrap gap-1.5">
+                      {facts.map((f, i) => (
+                        <span key={i} className="text-[11px] bg-cyan-500/10 text-cyan-200/90 px-2.5 py-1 rounded-md border border-cyan-400/15">{f}</span>
+                      ))}
+                    </div>
+                  )}
+                </>
+              );
+            })()}
             {buildPoiPathById(seoLang, selectedPoi.id) ? (
               <a
                 href={buildPoiPathById(seoLang, selectedPoi.id)!}
