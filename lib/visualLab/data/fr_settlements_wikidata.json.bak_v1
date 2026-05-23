@@ -1,19 +1,5 @@
 [
   {
-    "qid": "Q90",
-    "name_fr": "Paris",
-    "name_de": "Paris",
-    "name_en": "Paris",
-    "name_hu": "Párizs",
-    "name_ro": "Paris",
-    "population": 2243739,
-    "coords": [
-      2.352222222,
-      48.856666666
-    ],
-    "postal": "75007"
-  },
-  {
     "qid": "Q23482",
     "name_fr": "Marseille",
     "name_de": "Marseille",
@@ -152,20 +138,6 @@
       48.114166666
     ],
     "postal": "35200"
-  },
-  {
-    "qid": "Q18681428",
-    "name_fr": "Cergy-Pontoise",
-    "name_de": "Cergy-Pontoise",
-    "name_en": "Cergy-Pontoise",
-    "name_hu": "Cergy-Pontoise",
-    "name_ro": "Cergy-Pontoise",
-    "population": 204228,
-    "coords": [
-      2.06306,
-      49.0361
-    ],
-    "postal": ""
   },
   {
     "qid": "Q42716",
@@ -5136,20 +5108,6 @@
       48.942777777
     ],
     "postal": "77270"
-  },
-  {
-    "qid": "Q130800",
-    "name_fr": "Papeete",
-    "name_de": "Papeete",
-    "name_en": "Papeete",
-    "name_hu": "Papeete",
-    "name_ro": "Papeete",
-    "population": 26926,
-    "coords": [
-      -149.568888888,
-      -17.539722222
-    ],
-    "postal": "98713"
   },
   {
     "qid": "Q191126",
@@ -15106,20 +15064,6 @@
     "postal": "76170"
   },
   {
-    "qid": "Q183113",
-    "name_fr": "Bora-Bora",
-    "name_de": "Bora Bora",
-    "name_en": "Bora Bora",
-    "name_hu": "Bora Bora",
-    "name_ro": "Bora Bora",
-    "population": 10605,
-    "coords": [
-      -151.736,
-      -16.498
-    ],
-    "postal": ""
-  },
-  {
     "qid": "Q383475",
     "name_fr": "La Trinité",
     "name_de": "La Trinité",
@@ -17682,20 +17626,6 @@
     "postal": "49420"
   },
   {
-    "qid": "Q3463200",
-    "name_fr": "Saint-Pierre",
-    "name_de": "Saint-Pierre",
-    "name_en": "Saint-Pierre",
-    "name_hu": "Saint-Pierre",
-    "name_ro": "Saint-Pierre",
-    "population": 9255,
-    "coords": [
-      5.4071768,
-      43.2934083
-    ],
-    "postal": "13005"
-  },
-  {
     "qid": "Q46712",
     "name_fr": "Fontaine-lès-Dijon",
     "name_de": "Fontaine-lès-Dijon",
@@ -17932,20 +17862,6 @@
       48.865
     ],
     "postal": "78380"
-  },
-  {
-    "qid": "Q34112",
-    "name_fr": "Gustavia",
-    "name_de": "Gustavia",
-    "name_en": "Gustavia",
-    "name_hu": "Gustavia",
-    "name_ro": "Gustavia",
-    "population": 9131,
-    "coords": [
-      -62.849166666,
-      17.898611111
-    ],
-    "postal": "97133"
   },
   {
     "qid": "Q686591",
@@ -25816,20 +25732,6 @@
     "postal": "38140"
   },
   {
-    "qid": "Q21008231",
-    "name_fr": "Combani",
-    "name_de": "Combani",
-    "name_en": "Combani",
-    "name_hu": "Combani",
-    "name_ro": "Combani",
-    "population": 6665,
-    "coords": [
-      45.13405,
-      -12.78802
-    ],
-    "postal": ""
-  },
-  {
     "qid": "Q1101363",
     "name_fr": "Laneuveville-devant-Nancy",
     "name_de": "Laneuveville-devant-Nancy",
@@ -31276,20 +31178,6 @@
     "postal": "57160"
   },
   {
-    "qid": "Q200605",
-    "name_fr": "Marigot",
-    "name_de": "Marigot",
-    "name_en": "Marigot",
-    "name_hu": "Marigot",
-    "name_ro": "Marigot",
-    "population": 5700,
-    "coords": [
-      -63.084722222,
-      18.066666666
-    ],
-    "postal": "97150"
-  },
-  {
     "qid": "Q1068817",
     "name_fr": "Montbonnot-Saint-Martin",
     "name_de": "Montbonnot-Saint-Martin",
@@ -31694,20 +31582,6 @@
       49.173888888
     ],
     "postal": "27940"
-  },
-  {
-    "qid": "Q185678",
-    "name_fr": "Saint-Pierre",
-    "name_de": "Saint-Pierre",
-    "name_en": "Saint-Pierre",
-    "name_hu": "Saint-Pierre",
-    "name_ro": "Saint-Pierre, Saint Pierre și Miquelon",
-    "population": 5618,
-    "coords": [
-      -56.177777777,
-      46.777777777
-    ],
-    "postal": "97500"
   },
   {
     "qid": "Q274873",
