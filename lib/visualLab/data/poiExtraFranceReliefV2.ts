@@ -6,7 +6,7 @@ export const franceReliefV2: POI[] = [
     id: "france-massif-central-relief-v2",
     type: "mountain",
     parent: "FR",
-    name: { de: "Zentralmassiv", hu: "Francia-középhegység", ro: "Masivul Central", en: "Massif Central" },
+    name: { de: "Zentralmassiv", hu: "Francia-középhegység", ro: "Masivul Central", en: "Massif Central" , fr: "Massif central"},
     coords: [3.0, 45.0],
     description: {
       de: "Das Zentralmassiv ist ein großes Hochland im Süden Frankreichs, das von erloschenen Vulkanen geprägt ist. Es bedeckt etwa 15 Prozent des Landes.",
@@ -51,7 +51,7 @@ export const franceReliefV2: POI[] = [
     id: "france-puy-de-dome-relief-v2",
     type: "mountain",
     parent: "FR",
-    name: { de: "Puy de Dôme", hu: "Puy de Dôme", ro: "Puy de Dôme", en: "Puy de Dôme" },
+    name: { de: "Puy de Dôme", hu: "Puy de Dôme", ro: "Puy de Dôme", en: "Puy de Dôme" , fr: "Puy de Dôme"},
     coords: [2.9658, 45.7725],
     description: {
       de: "Dieser Lavadom ist der höchste Vulkan der Chaîne des Puys in der Auvergne. Er ist ein bekanntes Ziel für Touristen und wissenschaftliche Beobachtungen.",
@@ -96,7 +96,7 @@ export const franceReliefV2: POI[] = [
     id: "france-grand-colombier-relief-v2",
     type: "mountain",
     parent: "FR",
-    name: { de: "Grand Colombier", hu: "Grand Colombier", ro: "Grand Colombier", en: "Grand Colombier" },
+    name: { de: "Grand Colombier", hu: "Grand Colombier", ro: "Grand Colombier", en: "Grand Colombier" , fr: "Grand Colombier"},
     coords: [5.7958, 45.9031],
     description: {
       de: "Der Grand Colombier ist der höchste Berg im Jura-Gebirge an der Grenze zum Bugey. Er bietet bei klarem Wetter eine Sicht bis zum Mont Blanc.",
@@ -141,7 +141,7 @@ export const franceReliefV2: POI[] = [
     id: "france-plateau-de-millevaches-relief-v2",
     type: "mountain",
     parent: "FR",
-    name: { de: "Plateau de Millevaches", hu: "Plateau de Millevaches", ro: "Plateau de Millevaches", en: "Plateau de Millevaches" },
+    name: { de: "Plateau de Millevaches", hu: "Plateau de Millevaches", ro: "Plateau de Millevaches", en: "Plateau de Millevaches" , fr: "Plateau de Millevaches"},
     coords: [2.1, 45.65],
     description: {
       de: "Dieses Granithochland liegt im nördlichen Zentralmassiv. Die Landschaft ist durch Heidekraut, Moorgebiete und weitläufige Wälder gekennzeichnet.",
@@ -186,7 +186,7 @@ export const franceReliefV2: POI[] = [
     id: "france-mont-ventoux-relief-v2",
     type: "mountain",
     parent: "FR",
-    name: { de: "Mont Ventoux", hu: "Mont Ventoux", ro: "Mont Ventoux", en: "Mont Ventoux" },
+    name: { de: "Mont Ventoux", hu: "Mont Ventoux", ro: "Mont Ventoux", en: "Mont Ventoux" , fr: "Mont Ventoux"},
     coords: [5.2789, 44.1733],
     description: {
       de: "Dieser isolierte Berg in der Provence ist für seine kahle Gipfelregion bekannt. Er wird oft als Riese der Provence bezeichnet.",
@@ -231,7 +231,7 @@ export const franceReliefV2: POI[] = [
     id: "france-vallee-de-la-loire-relief-v2",
     type: "valley",
     parent: "FR",
-    name: { de: "Loire-Tal", hu: "Loire-völgy", ro: "Valea Loarei", en: "Loire Valley" },
+    name: { de: "Loire-Tal", hu: "Loire-völgy", ro: "Valea Loarei", en: "Loire Valley" , fr: "Vallée de la Loire"},
     coords: [0.6833, 47.3833],
     description: {
       de: "Das Loire-Tal ist eine weite, flache Schwemmebene, die durch den längsten Fluss Frankreichs geformt wurde. Es ist für seine fruchtbaren Böden bekannt.",
@@ -321,7 +321,7 @@ export const franceReliefV2: POI[] = [
     id: "france-mont-garbi-relief-v2",
     type: "peak",
     parent: "FR",
-    name: { de: "Mont Garbi", hu: "Mont Garbi", ro: "Mont Garbi", en: "Mont Garbi" },
+    name: { de: "Mont Garbi", hu: "Mont Garbi", ro: "Mont Garbi", en: "Mont Garbi" , fr: "Mont Garbi"},
     coords: [-0.25, 43.1],
     description: {
       de: "Der Mont Garbi ist ein markanter Hügel in den Vorpyrenäen. Er bietet eine gute Übersicht über die angrenzende Ebene von Pau.",
@@ -366,7 +366,7 @@ export const franceReliefV2: POI[] = [
     id: "france-plateau-de-langres-relief-v2",
     type: "mountain",
     parent: "FR",
-    name: { de: "Plateau von Langres", hu: "Langres-fennsík", ro: "Platoul Langres", en: "Plateau of Langres" },
+    name: { de: "Plateau von Langres", hu: "Langres-fennsík", ro: "Platoul Langres", en: "Plateau of Langres" , fr: "Plateau de Langres"},
     coords: [5.3333, 47.85],
     description: {
       de: "Diese Kalkstein-Hochebene liegt im Nordosten Frankreichs. Sie bildet die Wasserscheide zwischen den Einzugsgebieten von Seine, Saône und Maas.",
@@ -411,7 +411,7 @@ export const franceReliefV2: POI[] = [
     id: "france-mont-d-or-relief-v2",
     type: "mountain",
     parent: "FR",
-    name: { de: "Mont d'Or", hu: "Mont d'Or", ro: "Mont d'Or", en: "Mont d'Or" },
+    name: { de: "Mont d'Or", hu: "Mont d'Or", ro: "Mont d'Or", en: "Mont d'Or" , fr: "Mont d'Or"},
     coords: [6.36, 46.72],
     description: {
       de: "Dieser Gipfel im französischen Jura liegt direkt an der Grenze zur Schweiz. Er ist für seine markante Felswand bekannt.",
@@ -456,7 +456,7 @@ export const franceReliefV2: POI[] = [
     id: "france-causses-relief-v2",
     type: "mountain",
     parent: "FR",
-    name: { de: "Causses", hu: "Causses", ro: "Causses", en: "Causses" },
+    name: { de: "Causses", hu: "Causses", ro: "Causses", en: "Causses" , fr: "Les Causses"},
     coords: [3.3, 44.3],
     description: {
       de: "Die Causses sind eine Reihe von trockenen Kalksteinhochebenen im südlichen Zentralmassiv. Sie sind von tiefen Canyons durchschnitten.",
@@ -501,7 +501,7 @@ export const franceReliefV2: POI[] = [
     id: "france-mont-sancy-relief-v2",
     type: "peak",
     parent: "FR",
-    name: { de: "Puy de Sancy", hu: "Puy de Sancy", ro: "Puy de Sancy", en: "Puy de Sancy" },
+    name: { de: "Puy de Sancy", hu: "Puy de Sancy", ro: "Puy de Sancy", en: "Puy de Sancy" , fr: "Puy de Sancy"},
     coords: [2.8139, 45.5283],
     description: {
       de: "Der Puy de Sancy ist der höchste Gipfel im Zentralmassiv. Er ist der Überrest eines großen, erloschenen Schichtvulkans.",
@@ -546,7 +546,7 @@ export const franceReliefV2: POI[] = [
     id: "france-massif-du-ventoux-relief-v2",
     type: "mountain",
     parent: "FR",
-    name: { de: "Ventoux-Massiv", hu: "Ventoux-hegység", ro: "Masivul Ventoux", en: "Ventoux Massif" },
+    name: { de: "Ventoux-Massiv", hu: "Ventoux-hegység", ro: "Masivul Ventoux", en: "Ventoux Massif" , fr: "Massif du Ventoux"},
     coords: [5.27, 44.17],
     description: {
       de: "Dieses Bergmassiv bildet einen markanten Übergang zwischen den Alpen und dem Rhonetal. Es ist für seine ökologische Vielfalt bekannt.",
@@ -591,7 +591,7 @@ export const franceReliefV2: POI[] = [
     id: "france-plaine-de-la-saone-relief-v2",
     type: "valley",
     parent: "FR",
-    name: { de: "Saône-Ebene", hu: "Saône-síkság", ro: "Câmpia Saônei", en: "Saône Plain" },
+    name: { de: "Saône-Ebene", hu: "Saône-síkság", ro: "Câmpia Saônei", en: "Saône Plain" , fr: "Plaine de la Saône"},
     coords: [5.1667, 47.0],
     description: {
       de: "Diese weite Ebene im Osten Frankreichs verläuft parallel zum Saône-Fluss. Sie ist ein wichtiger landwirtschaftlicher Raum zwischen Jura und Vogesen.",
@@ -636,7 +636,7 @@ export const franceReliefV2: POI[] = [
     id: "france-massif-de-la-chartreuse-relief-v2",
     type: "mountain",
     parent: "FR",
-    name: { de: "Chartreuse-Massiv", hu: "Chartreuse-hegység", ro: "Masivul Chartreuse", en: "Chartreuse Massif" },
+    name: { de: "Chartreuse-Massiv", hu: "Chartreuse-hegység", ro: "Masivul Chartreuse", en: "Chartreuse Massif" , fr: "Massif de la Chartreuse"},
     coords: [5.8, 45.3667],
     description: {
       de: "Ein präalpines Gebirge in der Nähe von Grenoble. Es zeichnet sich durch steile Kalksteinfelsen und dichte Tannenwälder aus.",
@@ -681,7 +681,7 @@ export const franceReliefV2: POI[] = [
     id: "france-mont-d-or-auvergne-relief-v2",
     type: "mountain",
     parent: "FR",
-    name: { de: "Monts Dore", hu: "Monts Dore", ro: "Monts Dore", en: "Monts Dore" },
+    name: { de: "Monts Dore", hu: "Monts Dore", ro: "Monts Dore", en: "Monts Dore" , fr: "Monts Dore"},
     coords: [2.76, 45.56],
     description: {
       de: "Ein Bergmassiv im Zentralmassiv, das aus vulkanischen Gipfeln besteht. Es beherbergt den höchsten Punkt der Region Auvergne.",
@@ -726,7 +726,7 @@ export const franceReliefV2: POI[] = [
     id: "france-plaine-d-alsace-relief-v2",
     type: "valley",
     parent: "FR",
-    name: { de: "Elsässische Ebene", hu: "Elzászi-síkság", ro: "Câmpia Alsaciei", en: "Alsatian Plain" },
+    name: { de: "Elsässische Ebene", hu: "Elzászi-síkság", ro: "Câmpia Alsaciei", en: "Alsatian Plain" , fr: "Plaine d'Alsace"},
     coords: [7.5, 48.3],
     description: {
       de: "Diese fruchtbare Ebene liegt zwischen dem Rheingraben und den Vogesen. Sie ist eines der wichtigsten Weinbaugebiete Frankreichs.",
@@ -771,7 +771,7 @@ export const franceReliefV2: POI[] = [
     id: "france-mont-caroux-relief-v2",
     type: "mountain",
     parent: "FR",
-    name: { de: "Mont Caroux", hu: "Mont Caroux", ro: "Mont Caroux", en: "Mont Caroux" },
+    name: { de: "Mont Caroux", hu: "Mont Caroux", ro: "Mont Caroux", en: "Mont Caroux" , fr: "Mont Caroux"},
     coords: [2.96, 43.58],
     description: {
       de: "Ein Bergmassiv in den südlichen Ausläufern des Zentralmassivs. Es ist bekannt für seine steilen Granitwände und Schluchten.",
@@ -816,7 +816,7 @@ export const franceReliefV2: POI[] = [
     id: "france-massif-du-jura-relief-v2",
     type: "mountain",
     parent: "FR",
-    name: { de: "Jura", hu: "Jura", ro: "Jura", en: "Jura Mountains" },
+    name: { de: "Jura", hu: "Jura", ro: "Jura", en: "Jura Mountains" , fr: "Massif du Jura"},
     coords: [6.0, 46.5],
     description: {
       de: "Das Jura-Gebirge bildet eine natürliche Grenze zwischen Frankreich und der Schweiz. Es besteht primär aus gefaltetem Kalkstein.",
@@ -861,7 +861,7 @@ export const franceReliefV2: POI[] = [
     id: "france-massif-de-la-sainte-baume-relief-v2",
     type: "mountain",
     parent: "FR",
-    name: { de: "Massif de la Sainte-Baume", hu: "Massif de la Sainte-Baume", ro: "Masivul Sainte-Baume", en: "Sainte-Baume Massif" },
+    name: { de: "Massif de la Sainte-Baume", hu: "Massif de la Sainte-Baume", ro: "Masivul Sainte-Baume", en: "Sainte-Baume Massif" , fr: "Massif de la Sainte-Baume"},
     coords: [5.75, 43.33],
     description: {
       de: "Ein markanter Kalksteinrücken in der Provence. Bekannt für seine steile Nordseite und die heilige Grotte in der Felswand.",
@@ -906,7 +906,7 @@ export const franceReliefV2: POI[] = [
     id: "france-plateau-de-larzac-relief-v2",
     type: "mountain",
     parent: "FR",
-    name: { de: "Larzac", hu: "Larzac", ro: "Larzac", en: "Larzac" },
+    name: { de: "Larzac", hu: "Larzac", ro: "Larzac", en: "Larzac" , fr: "Le Larzac"},
     coords: [3.16, 43.91],
     description: {
       de: "Eine trockene Kalksteinhochebene im Süden Frankreichs. Sie ist geprägt von karger Vegetation und historischer Schafzucht.",
@@ -951,7 +951,7 @@ export const franceReliefV2: POI[] = [
     id: "france-mont-saint-baudille-relief-v2",
     type: "mountain",
     parent: "FR",
-    name: { de: "Mont Saint-Baudille", hu: "Mont Saint-Baudille", ro: "Mont Saint-Baudille", en: "Mont Saint-Baudille" },
+    name: { de: "Mont Saint-Baudille", hu: "Mont Saint-Baudille", ro: "Mont Saint-Baudille", en: "Mont Saint-Baudille" , fr: "Mont Saint-Baudille"},
     coords: [3.48, 43.72],
     description: {
       de: "Ein isolierter Bergkamm in der Nähe von Lodève. Er dient als Orientierungspunkt für das umgebende Hügelland des Languedoc.",
@@ -996,7 +996,7 @@ export const franceReliefV2: POI[] = [
     id: "france-plateau-de-beille-relief-v2",
     type: "mountain",
     parent: "FR",
-    name: { de: "Plateau de Beille", hu: "Plateau de Beille", ro: "Plateau de Beille", en: "Plateau de Beille" },
+    name: { de: "Plateau de Beille", hu: "Plateau de Beille", ro: "Plateau de Beille", en: "Plateau de Beille" , fr: "Plateau de Beille"},
     coords: [1.63, 42.72],
     description: {
       de: "Ein Hochplateau in den Pyrenäen. Es wird im Winter als Skigebiet und im Sommer für Wandertouren genutzt.",
@@ -1041,7 +1041,7 @@ export const franceReliefV2: POI[] = [
     id: "france-col-du-galibier-relief-v2",
     type: "mountain",
     parent: "FR",
-    name: { de: "Col du Galibier", hu: "Col du Galibier", ro: "Col du Galibier", en: "Col du Galibier" },
+    name: { de: "Col du Galibier", hu: "Col du Galibier", ro: "Col du Galibier", en: "Col du Galibier" , fr: "Col du Galibier"},
     coords: [6.4, 45.06],
     description: {
       de: "Ein berühmter Gebirgspass in den französischen Alpen. Er liegt an einer der anspruchsvollsten Strecken der Tour de France.",
@@ -1086,7 +1086,7 @@ export const franceReliefV2: POI[] = [
     id: "france-mont-joly-relief-v2",
     type: "peak",
     parent: "FR",
-    name: { de: "Mont Joly", hu: "Mont Joly", ro: "Mont Joly", en: "Mont Joly" },
+    name: { de: "Mont Joly", hu: "Mont Joly", ro: "Mont Joly", en: "Mont Joly" , fr: "Mont Joly"},
     coords: [6.7, 45.83],
     description: {
       de: "Ein Gipfel in den Savoyer Alpen mit hervorragendem Blick auf das Mont-Blanc-Massiv. Er ist ein bekanntes Ziel für Skifahrer und Wanderer.",
@@ -1131,7 +1131,7 @@ export const franceReliefV2: POI[] = [
     id: "france-gorges-de-l-ardeche-relief-v2",
     type: "valley",
     parent: "FR",
-    name: { de: "Ardèche-Schlucht", hu: "Ardèche-szurdok", ro: "Cheile Ardèche", en: "Ardeche Gorge" },
+    name: { de: "Ardèche-Schlucht", hu: "Ardèche-szurdok", ro: "Cheile Ardèche", en: "Ardeche Gorge" , fr: "Gorges de l'Ardèche"},
     coords: [4.41, 44.38],
     description: {
       de: "Eine beeindruckende Schlucht, die durch den Fluss Ardèche in Kalkstein geschnitten wurde. Sie ist bekannt für ihre natürlichen Bögen.",
@@ -1176,7 +1176,7 @@ export const franceReliefV2: POI[] = [
     id: "france-mont-mezenc-relief-v2",
     type: "mountain",
     parent: "FR",
-    name: { de: "Mont Mézenc", hu: "Mont Mézenc", ro: "Mont Mézenc", en: "Mont Mezenc" },
+    name: { de: "Mont Mézenc", hu: "Mont Mézenc", ro: "Mont Mézenc", en: "Mont Mezenc" , fr: "Mont Mézenc"},
     coords: [4.2, 44.83],
     description: {
       de: "Der höchste Berg im Departement Ardèche und ein Gipfel im Zentralmassiv. Er ist vulkanischen Ursprungs und gut erreichbar.",
@@ -1221,7 +1221,7 @@ export const franceReliefV2: POI[] = [
     id: "france-plateau-de-millevaches-limousin-relief-v2",
     type: "mountain",
     parent: "FR",
-    name: { de: "Millevaches-Fennsík", hu: "Millevaches-fennsík", ro: "Platoul Millevaches", en: "Millevaches Plateau" },
+    name: { de: "Millevaches-Fennsík", hu: "Millevaches-fennsík", ro: "Platoul Millevaches", en: "Millevaches Plateau" , fr: "Plateau de Millevaches"},
     coords: [2.1, 45.68],
     description: {
       de: "Dieses Hochland im Limousin ist reich an Wasserquellen und bietet eine ruhige, waldreiche Landschaft. Es ist ein Regionalpark.",
@@ -1266,7 +1266,7 @@ export const franceReliefV2: POI[] = [
     id: "france-mont-gervanne-relief-v2",
     type: "mountain",
     parent: "FR",
-    name: { de: "Mont Gervanne", hu: "Mont Gervanne", ro: "Mont Gervanne", en: "Mont Gervanne" },
+    name: { de: "Mont Gervanne", hu: "Mont Gervanne", ro: "Mont Gervanne", en: "Mont Gervanne" , fr: "Relief de la Gervanne"},
     coords: [5.16, 44.75],
     description: {
       de: "Ein Bergzug in der Drôme-Region. Die Umgebung ist geprägt durch Hügellandschaften und den Zusammenfluss lokaler Flüsse.",
@@ -1311,7 +1311,7 @@ export const franceReliefV2: POI[] = [
     id: "france-mont-aiguille-relief-v2",
     type: "mountain",
     parent: "FR",
-    name: { de: "Mont Aiguille", hu: "Mont Aiguille", ro: "Mont Aiguille", en: "Mont Aiguille" },
+    name: { de: "Mont Aiguille", hu: "Mont Aiguille", ro: "Mont Aiguille", en: "Mont Aiguille" , fr: "Mont Aiguille"},
     coords: [5.56, 44.84],
     description: {
       de: "Ein spektakulärer, isolierter Berg im Vercors-Massiv. Er ist bekannt für seine fast senkrechten Felswände.",
@@ -1356,7 +1356,7 @@ export const franceReliefV2: POI[] = [
     id: "france-massif-de-l-esterel-relief-v2",
     type: "mountain",
     parent: "FR",
-    name: { de: "Esterel-Massiv", hu: "Esterel-hegység", ro: "Masivul Esterel", en: "Esterel Massif" },
+    name: { de: "Esterel-Massiv", hu: "Esterel-hegység", ro: "Masivul Esterel", en: "Esterel Massif" , fr: "Massif de l'Esterel"},
     coords: [6.85, 43.48],
     description: {
       de: "Dieses vulkanische Gebirge an der Côte d'Azur zeichnet sich durch rötliches Gestein und den Kontrast zum blauen Mittelmeer aus.",
@@ -1401,7 +1401,7 @@ export const franceReliefV2: POI[] = [
     id: "france-mont-gervanne-plateau-relief-v2",
     type: "mountain",
     parent: "FR",
-    name: { de: "Gervanne-Hochebene", hu: "Gervanne-fennsík", ro: "Platoul Gervanne", en: "Gervanne Plateau" },
+    name: { de: "Gervanne-Hochebene", hu: "Gervanne-fennsík", ro: "Platoul Gervanne", en: "Gervanne Plateau" , fr: "Plateau de la Gervanne"},
     coords: [5.1, 44.78],
     description: {
       de: "Eine Hochebene im Voralpengebiet der Drôme. Die Gegend ist bekannt für ihre ländliche Ruhe und terrassierte Felder.",
@@ -1446,7 +1446,7 @@ export const franceReliefV2: POI[] = [
     id: "france-mont-lure-relief-v2",
     type: "mountain",
     parent: "FR",
-    name: { de: "Mont Lure", hu: "Mont Lure", ro: "Mont Lure", en: "Mont Lure" },
+    name: { de: "Mont Lure", hu: "Mont Lure", ro: "Mont Lure", en: "Mont Lure" , fr: "Montagne de Lure"},
     coords: [5.7, 44.1],
     description: {
       de: "Ein langgestreckter Bergkamm in der Provence, oft als kleiner Bruder des Mont Ventoux bezeichnet. Er ist weitgehend bewaldet.",
@@ -1491,7 +1491,7 @@ export const franceReliefV2: POI[] = [
     id: "france-col-de-l-iseran-relief-v2",
     type: "mountain",
     parent: "FR",
-    name: { de: "Col de l'Iseran", hu: "Col de l'Iseran", ro: "Col de l'Iseran", en: "Col de l'Iseran" },
+    name: { de: "Col de l'Iseran", hu: "Col de l'Iseran", ro: "Col de l'Iseran", en: "Col de l'Iseran" , fr: "Col de l'Iseran"},
     coords: [7.0, 45.43],
     description: {
       de: "Der höchste befahrbare Gebirgspass in den Alpen. Er liegt in der Nähe von Val d'Isère und bietet ein beeindruckendes Hochgebirgspanorama.",
@@ -1536,7 +1536,7 @@ export const franceReliefV2: POI[] = [
     id: "france-mont-paradis-relief-v2",
     type: "mountain",
     parent: "FR",
-    name: { de: "Mont Paradis", hu: "Mont Paradis", ro: "Mont Paradis", en: "Mont Paradis" },
+    name: { de: "Mont Paradis", hu: "Mont Paradis", ro: "Mont Paradis", en: "Mont Paradis" , fr: "Mont Paradis"},
     coords: [5.4, 44.45],
     description: {
       de: "Ein Bergzug in den Voralpen der Region Drôme. Die Landschaft ist durch sanfte Hänge und dichte Laubwälder geprägt.",

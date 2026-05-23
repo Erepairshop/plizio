@@ -1439,7 +1439,7 @@ export const franceHistoryV2: POI[] = [
     id: "france-carrouges-history-v2",
     type: "castle",
     parent: "FR",
-    name: { de: "Schloss Carrouges", hu: "Carrouges kastély", ro: "Castelul Carrouges", en: "Château de Carrouges" },
+    name: { de: "Schloss Carrouges", hu: "Carrouges kastély", ro: "Castelul Carrouges", en: "Château de Carrouges" , fr: "Château de Carrouges"},
     coords: [-0.15, 48.54],
     description: {
       de: "Ein befestigtes Schloss in der Normandie mit einer beeindruckenden Backsteinfassade aus dem 15. Jahrhundert.",
@@ -1484,7 +1484,7 @@ export const franceHistoryV2: POI[] = [
     id: "france-villandry-history-v2",
     type: "castle",
     parent: "FR",
-    name: { de: "Schloss Villandry", hu: "Villandry kastély", ro: "Castelul Villandry", en: "Château de Villandry" },
+    name: { de: "Schloss Villandry", hu: "Villandry kastély", ro: "Castelul Villandry", en: "Château de Villandry" , fr: "Château de Villandry"},
     coords: [0.51, 47.34],
     description: {
       de: "Bekannt für seine weitläufigen, kunstvollen Renaissance-Gärten, die im frühen 20. Jahrhundert rekonstruiert wurden.",
@@ -1529,7 +1529,7 @@ export const franceHistoryV2: POI[] = [
     id: "france-saumur-history-v2",
     type: "castle",
     parent: "FR",
-    name: { de: "Schloss Saumur", hu: "Saumur-i kastély", ro: "Castelul Saumur", en: "Château de Saumur" },
+    name: { de: "Schloss Saumur", hu: "Saumur-i kastély", ro: "Castelul Saumur", en: "Château de Saumur" , fr: "Château de Saumur"},
     coords: [-0.07, 47.25],
     description: {
       de: "Eine beeindruckende Burg über der Loire, die als Residenz der Herzöge von Anjou diente.",
@@ -1574,7 +1574,7 @@ export const franceHistoryV2: POI[] = [
     id: "france-valençay-talleyrand-history-v2",
     type: "museum",
     parent: "FR",
-    name: { de: "Museum Talleyrand", hu: "Talleyrand Múzeum", ro: "Muzeul Talleyrand", en: "Talleyrand Museum" },
+    name: { de: "Museum Talleyrand", hu: "Talleyrand Múzeum", ro: "Muzeul Talleyrand", en: "Talleyrand Museum" , fr: "Château de Valençay - Musée Talleyrand"},
     coords: [1.56, 47.16],
     description: {
       de: "Das Museum widmet sich dem Leben von Charles-Maurice de Talleyrand, einem einflussreichen Diplomaten des 18. und 19. Jahrhunderts.",
@@ -1619,7 +1619,7 @@ export const franceHistoryV2: POI[] = [
     id: "france-la-ferte-milon-history-v2",
     type: "ruins",
     parent: "FR",
-    name: { de: "Burg La Ferté-Milon", hu: "La Ferté-Milon vára", ro: "Castelul La Ferté-Milon", en: "Château de La Ferté-Milon" },
+    name: { de: "Burg La Ferté-Milon", hu: "La Ferté-Milon vára", ro: "Castelul La Ferté-Milon", en: "Château de La Ferté-Milon" , fr: "Château de La Ferté-Milon"},
     coords: [3.12, 49.17],
     description: {
       de: "Eine monumentale Burgruine im Nordosten Frankreichs, deren Bau unter Ludwig I. von Orléans nie vollendet wurde.",

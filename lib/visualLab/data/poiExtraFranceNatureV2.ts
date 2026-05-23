@@ -6,7 +6,7 @@ export const franceNatureV2: POI[] = [
     id: "france-lac-du-salagou-nature-v2",
     type: "lake",
     parent: "FR",
-    name: { de: "Lac du Salagou", hu: "Salagou-tó", ro: "Lacul Salagou", en: "Lac du Salagou" },
+    name: { de: "Lac du Salagou", hu: "Salagou-tó", ro: "Lacul Salagou", en: "Lac du Salagou" , fr: "Lac du Salagou"},
     coords: [3.3333, 43.6333],
     description: {
       de: "Dieser künstliche Stausee im Departement Hérault entstand durch den Bau eines Staudamms in den 1960er Jahren. Er ist bekannt für seine markanten roten Erdböden aus permischem Sediment.",
@@ -51,7 +51,7 @@ export const franceNatureV2: POI[] = [
     id: "france-cirque-de-gavarnie-nature-v2",
     type: "valley",
     parent: "FR",
-    name: { de: "Cirque de Gavarnie", hu: "Cirque de Gavarnie", ro: "Cirque de Gavarnie", en: "Cirque de Gavarnie" },
+    name: { de: "Cirque de Gavarnie", hu: "Cirque de Gavarnie", ro: "Cirque de Gavarnie", en: "Cirque de Gavarnie" , fr: "Cirque de Gavarnie"},
     coords: [-0.0039, 42.6961],
     description: {
       de: "Dieser natürliche Kessel in den Pyrenäen bildet ein UNESCO-Welterbegebiet. Die Wandhöhe erreicht stellenweise 1.500 Meter über dem Talboden.",
@@ -96,7 +96,7 @@ export const franceNatureV2: POI[] = [
     id: "france-foret-de-broceliande-nature-v2",
     type: "forest",
     parent: "FR",
-    name: { de: "Wald von Paimpont", hu: "Paimpont-erdő", ro: "Pădurea Paimpont", en: "Paimpont Forest" },
+    name: { de: "Wald von Paimpont", hu: "Paimpont-erdő", ro: "Pădurea Paimpont", en: "Paimpont Forest" , fr: "Forêt de Brocéliande"},
     coords: [-2.185, 48.005],
     description: {
       de: "Dieser Wald in der Bretagne ist historisch als Brocéliande bekannt. Er umfasst rund 9.000 Hektar Eichen- und Buchenbestand.",
@@ -141,7 +141,7 @@ export const franceNatureV2: POI[] = [
     id: "france-col-du-tourmalet-nature-v2",
     type: "mountain",
     parent: "FR",
-    name: { de: "Col du Tourmalet", hu: "Col du Tourmalet", ro: "Col du Tourmalet", en: "Col du Tourmalet" },
+    name: { de: "Col du Tourmalet", hu: "Col du Tourmalet", ro: "Col du Tourmalet", en: "Col du Tourmalet" , fr: "Col du Tourmalet"},
     coords: [0.1453, 42.9064],
     description: {
       de: "Dieser Gebirgspass ist einer der höchsten befestigten Übergänge der französischen Pyrenäen. Er dient regelmäßig als Etappenziel der Tour de France.",
@@ -186,7 +186,7 @@ export const franceNatureV2: POI[] = [
     id: "france-les-aiguilles-d-arves-nature-v2",
     type: "peak",
     parent: "FR",
-    name: { de: "Aiguilles d'Arves", hu: "Aiguilles d'Arves", ro: "Aiguilles d'Arves", en: "Aiguilles d'Arves" },
+    name: { de: "Aiguilles d'Arves", hu: "Aiguilles d'Arves", ro: "Aiguilles d'Arves", en: "Aiguilles d'Arves" , fr: "Aiguilles d'Arves"},
     coords: [6.3, 45.1333],
     description: {
       de: "Drei markante Felsnadeln in den Dauphiné-Alpen prägen diese Gebirgsgruppe. Der höchste Gipfel erreicht 3.514 Meter über dem Meeresspiegel.",
@@ -231,7 +231,7 @@ export const franceNatureV2: POI[] = [
     id: "france-lac-de-sainte-croix-nature-v2",
     type: "lake",
     parent: "FR",
-    name: { de: "Lac de Sainte-Croix", hu: "Lac de Sainte-Croix", ro: "Lac de Sainte-Croix", en: "Lac de Sainte-Croix" },
+    name: { de: "Lac de Sainte-Croix", hu: "Lac de Sainte-Croix", ro: "Lac de Sainte-Croix", en: "Lac de Sainte-Croix" , fr: "Lac de Sainte-Croix"},
     coords: [6.1667, 43.7667],
     description: {
       de: "Dieser Stausee im Departement Var wurde 1973 durch eine Talsperre geschaffen. Er ist als Eingangstor zu den Verdonschluchten bekannt.",
@@ -276,7 +276,7 @@ export const franceNatureV2: POI[] = [
     id: "france-pic-du-midi-d-ossau-nature-v2",
     type: "peak",
     parent: "FR",
-    name: { de: "Pic du Midi d'Ossau", hu: "Pic du Midi d'Ossau", ro: "Pic du Midi d'Ossau", en: "Pic du Midi d'Ossau" },
+    name: { de: "Pic du Midi d'Ossau", hu: "Pic du Midi d'Ossau", ro: "Pic du Midi d'Ossau", en: "Pic du Midi d'Ossau" , fr: "Pic du Midi d'Ossau"},
     coords: [-0.4217, 42.8392],
     description: {
       de: "Dieser markante Gipfel ist das Wahrzeichen des Ossau-Tals in den Pyrenäen. Es handelt sich um den verbleibenden Kern eines alten Vulkans.",
@@ -321,7 +321,7 @@ export const franceNatureV2: POI[] = [
     id: "france-cascade-de-gavarnie-nature-v2",
     type: "landmark",
     parent: "FR",
-    name: { de: "Grande Cascade de Gavarnie", hu: "Grande Cascade de Gavarnie", ro: "Grande Cascade de Gavarnie", en: "Grande Cascade de Gavarnie" },
+    name: { de: "Grande Cascade de Gavarnie", hu: "Grande Cascade de Gavarnie", ro: "Grande Cascade de Gavarnie", en: "Grande Cascade de Gavarnie" , fr: "Grande Cascade de Gavarnie"},
     coords: [0.0033, 42.6867],
     description: {
       de: "Dieser Wasserfall stürzt in mehreren Stufen über eine 422 Meter hohe Felswand. Er gilt als einer der höchsten Wasserfälle in Europa.",
@@ -366,7 +366,7 @@ export const franceNatureV2: POI[] = [
     id: "france-ile-de-brehat-nature-v2",
     type: "island",
     parent: "FR",
-    name: { de: "Île de Bréhat", hu: "Île de Bréhat", ro: "Île de Bréhat", en: "Île de Bréhat" },
+    name: { de: "Île de Bréhat", hu: "Île de Bréhat", ro: "Île de Bréhat", en: "Île de Bréhat" , fr: "Île de Bréhat"},
     coords: [-3.001, 48.847],
     description: {
       de: "Diese Inselgruppe vor der bretonischen Küste ist für ihr mildes Klima bekannt. Die Pflanzenwelt umfasst zahlreiche mediterrane und exotische Arten.",
@@ -411,7 +411,7 @@ export const franceNatureV2: POI[] = [
     id: "france-plateau-de-valensole-nature-v2",
     type: "park",
     parent: "FR",
-    name: { de: "Plateau de Valensole", hu: "Valensole-fennsík", ro: "Podișul Valensole", en: "Valensole Plateau" },
+    name: { de: "Plateau de Valensole", hu: "Valensole-fennsík", ro: "Podișul Valensole", en: "Valensole Plateau" , fr: "Plateau de Valensole"},
     coords: [5.9833, 43.8333],
     description: {
       de: "Das Plateau ist für seine weitläufigen Lavendelfelder bekannt. Die landwirtschaftlich geprägte Landschaft liegt in der Region Provence.",
@@ -456,7 +456,7 @@ export const franceNatureV2: POI[] = [
     id: "france-massif-du-vignemale-nature-v2",
     type: "mountain",
     parent: "FR",
-    name: { de: "Vignemale-Massiv", hu: "Vignemale-hegység", ro: "Masivul Vignemale", en: "Vignemale Massif" },
+    name: { de: "Vignemale-Massiv", hu: "Vignemale-hegység", ro: "Masivul Vignemale", en: "Vignemale Massif" , fr: "Massif du Vignemale"},
     coords: [-0.147, 42.775],
     description: {
       de: "Der Vignemale ist der höchste Berg der französischen Pyrenäen. Das Massiv beherbergt den größten Gletscher des Gebirgszuges.",
@@ -501,7 +501,7 @@ export const franceNatureV2: POI[] = [
     id: "france-foret-de-troncais-nature-v2",
     type: "forest",
     parent: "FR",
-    name: { de: "Forêt de Tronçais", hu: "Tronçais-erdő", ro: "Pădurea Tronçais", en: "Tronçais Forest" },
+    name: { de: "Forêt de Tronçais", hu: "Tronçais-erdő", ro: "Pădurea Tronçais", en: "Tronçais Forest" , fr: "Forêt de Tronçais"},
     coords: [2.75, 46.6667],
     description: {
       de: "Dieser Wald im Departement Allier gilt als einer der schönsten Eichenwälder Europas. Die Bäume erreichen ein Alter von über 300 Jahren.",
@@ -546,7 +546,7 @@ export const franceNatureV2: POI[] = [
     id: "france-mont-aigoual-nature-v2",
     type: "peak",
     parent: "FR",
-    name: { de: "Mont Aigoual", hu: "Mont Aigoual", ro: "Mont Aigoual", en: "Mont Aigoual" },
+    name: { de: "Mont Aigoual", hu: "Mont Aigoual", ro: "Mont Aigoual", en: "Mont Aigoual" , fr: "Mont Aigoual"},
     coords: [3.583, 44.125],
     description: {
       de: "Der Berg ist der höchste Gipfel der südlichen Cevennen. Er ist für sein Wetterobservatorium bekannt, das seit 1894 in Betrieb ist.",
