@@ -2,12 +2,15 @@ name: Deploy VPS (Leaseweb)
 
 on:
   workflow_dispatch:
-  push:
-    branches: [main, europe-map-wiring]
-    paths-ignore:
-      - '**/*.md'
-      - 'docs/**'
-      - '.gitignore'
+  # Push trigger DISABLED 2026-05-23 — disk-full incident + user wants manual control.
+  # To re-enable: uncomment block below. Until then, run "Deploy VPS" manually via
+  # GH Actions UI (workflow_dispatch).
+  # push:
+  #   branches: [main, europe-map-wiring]
+  #   paths-ignore:
+  #     - '**/*.md'
+  #     - 'docs/**'
+  #     - '.gitignore'
 
 concurrency:
   group: deploy-vps
