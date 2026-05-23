@@ -42,6 +42,22 @@ try {
   }
 } catch {}
 
+// Yearly highlights — AI-curated 1-3 top events of 2026 per city POI.
+// Build-time loaded once. Rendered as a kiemelten visible section above news.
+type YHEvent = {
+  title: Partial<Record<string, string>>;
+  summary: Partial<Record<string, string>>;
+  source_url?: string;
+  date?: string;
+};
+let YEARLY_HIGHLIGHTS: Record<string, YHEvent[]> = {};
+try {
+  const yhPath = path.resolve(process.cwd(), "public", "data", "poi-yearly-highlights.json");
+  if (fs.existsSync(yhPath)) {
+    YEARLY_HIGHLIGHTS = JSON.parse(fs.readFileSync(yhPath, "utf-8"));
+  }
+} catch {}
+
 // Sight image map (slugified-sight-name + poi-id → /sight-images/X.webp).
 // Loaded once at startup. Used in renderSightCard to inject image when
 // the sight itself doesn't have an explicit image URL.
@@ -565,6 +581,31 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     }
   } catch {}
 
+  // Yearly highlights — AI-curated top 2026 events for this POI.
+  // Rendered ABOVE the regular news block as a kiemelt section.
+  let yearlyHtml = "";
+  try {
+    const yhItems = YEARLY_HIGHLIGHTS[poi.id];
+    if (Array.isArray(yhItems) && yhItems.length > 0) {
+      const heading: Partial<Record<Lang, string>> = {
+        de: "Top-Ereignisse 2026",
+        hu: "Az év eseményei 2026",
+        ro: "Evenimentele anului 2026",
+        en: "Highlights of 2026",
+        fr: "Faits marquants de 2026",
+      };
+      const cards = yhItems.map((ev) => {
+        const t = ev.title?.[lang] || ev.title?.en || ev.title?.de || "";
+        const s = ev.summary?.[lang] || ev.summary?.en || ev.summary?.de || "";
+        const d = (ev.date || "").slice(0, 10);
+        const linkOpen = ev.source_url ? `<a href="${escapeHtml(ev.source_url)}" target="_blank" rel="noopener nofollow" class="plz-yh-link">` : "";
+        const linkClose = ev.source_url ? "</a>" : "";
+        return `<article class="plz-yh-card">${linkOpen}<div class="plz-yh-meta">${d ? `<time class="plz-yh-date" datetime="${escapeHtml(ev.date || "")}">${escapeHtml(d)}</time>` : ""}</div><h3 class="plz-yh-title">${escapeHtml(t)}</h3><p class="plz-yh-summary">${escapeHtml(s)}</p>${linkClose}</article>`;
+      }).join("");
+      yearlyHtml = `<section class="plz-yh"><h2>⭐ ${escapeHtml(heading[lang] || heading.en || "Highlights of 2026")}</h2>${cards}</section>`;
+    }
+  } catch {}
+
   let newsHtml = "";
   try {
     const newsFp = path.resolve(process.cwd(), "public", "data", "poi-news", `${poi.id}.json`);
@@ -665,7 +706,7 @@ ${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, count
   ${audioHtml}
   <div class="plz-hero-grid">
     <div class="plz-hero-grid-main">${heroHtml}</div>
-    <div class="plz-hero-grid-side">${weatherHtml}${officialLinksHtml}${newsHtml}</div>
+    <div class="plz-hero-grid-side">${weatherHtml}${officialLinksHtml}${yearlyHtml}${newsHtml}</div>
   </div>
   ${descText ? `<section><p class="poi-lead-paragraph">${escapeHtml(descText)}</p></section>` : ""}
   ${geoItems.length > 0 || historyHtml ? `<section class="plz-geo-history">${historyHtml}${geoItems.length > 0 ? `<div class="plz-geo-box"><h3>${I("geography", lang)}</h3><div class="plz-meta">${geoItems.join("")}</div></div>` : ""}</section>` : ""}

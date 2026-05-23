@@ -109,7 +109,7 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          POI_AFFECTING='^(lib/visualLab/data/.*[Pp]oi|lib/seo/|components/seo/|scripts/(generate-poi-html|build-seo-index|split_pois_by_country|prepare_v2_data|flatten-sitemap-paths|generate-image-sitemap)|public/poi-images/|public/data/poi-news/|public/data/sights/|public/data/official-links\.json|public/data/sight-image-map\.json|public/poi-static/poi\.css|app/\[lang\])'
+          POI_AFFECTING='^(lib/visualLab/data/.*[Pp]oi|lib/seo/|components/seo/|scripts/(generate-poi-html|build-seo-index|split_pois_by_country|prepare_v2_data|flatten-sitemap-paths|generate-image-sitemap)|public/poi-images/|public/data/poi-news/|public/data/sights/|public/data/official-links\.json|public/data/sight-image-map\.json|public/data/poi-yearly-highlights\.json|public/poi-static/poi\.css|app/\[lang\])'
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             echo "Manual dispatch → regen POI"
             echo "should_gen=true" >> "$GITHUB_OUTPUT"; exit 0
